@@ -10,7 +10,8 @@
     "test": "vitest run --passWithNoTests",
     "test:watch": "vitest",
     "test:smoke": "playwright test",
-    "validate:data": "node tools/validate-data.mjs"
+    "validate:data": "node tools/validate-data.mjs",
+    "validate:kimi": "node tools/validate-kimi-research.mjs"
   },
   "dependencies": {
     "@react-three/drei": "^10.7.7",

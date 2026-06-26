@@ -1,6 +1,7 @@
 .DS_Store
 .omc/
 .superpowers/
+.research/
 
 node_modules/
 dist/
