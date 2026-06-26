@@ -1,0 +1,237 @@
+{
+  "id": "nietzsche",
+  "names": {
+    "zh": "尼采",
+    "en": "Friedrich Nietzsche"
+  },
+  "life": {
+    "display": "1844—1900",
+    "birth": 1844,
+    "death": 1900
+  },
+  "civilization": "european_modern",
+  "traditions": [
+    "modern_european_philosophy"
+  ],
+  "periods": [
+    "first_release"
+  ],
+  "themes": [
+    "knowledge",
+    "freedom",
+    "politics"
+  ],
+  "keywordsZh": [
+    "知识",
+    "自由",
+    "政治"
+  ],
+  "oneLineZh": "尼采是知识、自由问题谱系中的第一版候选哲人。",
+  "influenceWeight": 3,
+  "reviewStatus": "draft",
+  "summaryZh": "尼采是知识、自由问题谱系中的第一版候选哲人。 本条目是第一版结构化资料，已经保留文明、传统、主题、作品和论述字段，正式发布前需要继续核对年代、文本出处和概念表述。",
+  "works": [
+    "nietzsche-primary-work"
+  ],
+  "sourceNotes": [
+    {
+      "label": "draft",
+      "noteZh": "条目需要人工核对作品、年代和概念表述。"
+    }
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "nietzsche-values",
+        "titleZh": "价值的谱系",
+        "questionZh": "道德价值是永恒真理，还是有其生成历史和权力关系？",
+        "summaryZh": "尼采把道德价值放回历史、身体和权力关系中考察，追问价值如何被制造和继承。",
+        "themeIds": [
+          "ethics",
+          "knowledge"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "nietzsche-genealogy",
+            "titleZh": "道德需要谱系学",
+            "claimZh": "理解道德不能只问它是否高尚，还要问它从何而来、服务何种生命状态。",
+            "explanationZh": "谱系学把价值的起源和功能显露出来，使自明的道德语言变成可批判的历史对象。",
+            "themeIds": [
+              "ethics",
+              "knowledge"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "nietzsche-genealogy-source",
+                "titleZh": "《道德谱系》传统",
+                "summaryZh": "尼采通过谱系分析重审善恶、罪责、良心等道德概念的历史形成。",
+                "source": {
+                  "workId": "nietzsche-primary-work",
+                  "locator": "谱系学相关论述",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "nietzsche-master-slave",
+            "titleZh": "主人道德与奴隶道德",
+            "claimZh": "不同道德评价方式反映不同生命力量和历史处境。",
+            "explanationZh": "主人道德和奴隶道德的区分不是简单赞成某一方，而是揭示价值判断背后的生命取向。",
+            "themeIds": [
+              "ethics",
+              "politics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "nietzsche-master-slave-source",
+                "titleZh": "善恶与好坏的区分",
+                "summaryZh": "相关论述通过善恶与好坏的差别揭示道德语言的历史张力。",
+                "source": {
+                  "workId": "nietzsche-primary-work",
+                  "locator": "主人道德与奴隶道德",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "nietzsche-nihilism",
+        "titleZh": "上帝之死与虚无主义",
+        "questionZh": "传统最高价值失去约束力后，人如何面对意义危机？",
+        "summaryZh": "尼采以“上帝之死”诊断欧洲价值秩序的崩解，并要求重新创造价值。",
+        "themeIds": [
+          "religion",
+          "life_death",
+          "ethics"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "nietzsche-god-dead",
+            "titleZh": "上帝之死是价值事件",
+            "claimZh": "上帝之死意味着传统最高根据失效，而不只是一个神学命题。",
+            "explanationZh": "当超越根据不再稳定支撑价值，人必须面对自己参与价值创造的责任。",
+            "themeIds": [
+              "religion",
+              "ethics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "nietzsche-god-dead-source",
+                "titleZh": "疯人寓言传统",
+                "summaryZh": "疯人寓言以戏剧化方式呈现现代人尚未真正理解的价值崩解。",
+                "source": {
+                  "workId": "nietzsche-primary-work",
+                  "locator": "上帝之死相关段落",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "nietzsche-revaluation",
+            "titleZh": "重估一切价值",
+            "claimZh": "虚无主义不能只靠恢复旧信仰解决，而需要重新评估价值的生命意义。",
+            "explanationZh": "重估价值要求追问哪些价值削弱生命，哪些价值能够承担创造和肯定。",
+            "themeIds": [
+              "ethics",
+              "freedom"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "nietzsche-revaluation-source",
+                "titleZh": "重估价值传统",
+                "summaryZh": "尼采晚期思想反复把价值创造与克服虚无主义联系起来。",
+                "source": {
+                  "workId": "nietzsche-primary-work",
+                  "locator": "重估一切价值相关论述",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "nietzsche-power",
+        "titleZh": "权力意志与自我超克",
+        "questionZh": "生命的基本动力是保存、幸福，还是扩张和形式创造？",
+        "summaryZh": "尼采用权力意志和自我超克描述生命力量的解释、塑形和创造倾向。",
+        "themeIds": [
+          "metaphysics",
+          "freedom"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "nietzsche-self-overcoming",
+            "titleZh": "人需要自我超克",
+            "claimZh": "生命的高贵形态不是停留在既有自我，而是不断克服自身。",
+            "explanationZh": "自我超克不是简单成功学，而是把自身也作为可塑造、可批判、可更新的材料。",
+            "themeIds": [
+              "freedom",
+              "ethics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "nietzsche-overcoming-source",
+                "titleZh": "自我超克相关论述",
+                "summaryZh": "相关文本把创造、危险和自我克服视为摆脱平庸价值的重要条件。",
+                "source": {
+                  "workId": "nietzsche-primary-work",
+                  "locator": "自我超克相关段落",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "nietzsche-perspectivism",
+        "titleZh": "视角主义与艺术肯定",
+        "questionZh": "如果没有无视角的真理，人是否只能陷入相对主义？",
+        "summaryZh": "尼采把认识理解为视角性的解释活动，同时把艺术视为肯定生命的重要力量。",
+        "themeIds": [
+          "knowledge",
+          "aesthetics"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "nietzsche-perspectives",
+            "titleZh": "认识总有视角",
+            "claimZh": "所谓真理往往是特定生命视角和解释方式的稳定化。",
+            "explanationZh": "视角主义不等于任意胡说，而是要求人意识到认识与解释、身体和价值的关系。",
+            "themeIds": [
+              "knowledge",
+              "language"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "nietzsche-perspective-source",
+                "titleZh": "视角主义相关论述",
+                "summaryZh": "尼采多处以视角、解释和价值评价的语言重构真理问题。",
+                "source": {
+                  "workId": "nietzsche-primary-work",
+                  "locator": "视角主义相关段落",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

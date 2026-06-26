@@ -1,0 +1,42 @@
+{
+  "id": "heraclitus",
+  "names": {
+    "zh": "赫拉克利特",
+    "en": "Heraclitus"
+  },
+  "life": {
+    "display": "约前 535—前 475",
+    "birth": -535,
+    "death": -475
+  },
+  "civilization": "ancient_greek",
+  "traditions": [
+    "ancient_greek_philosophy"
+  ],
+  "periods": [
+    "first_release"
+  ],
+  "themes": [
+    "ethics",
+    "metaphysics",
+    "knowledge"
+  ],
+  "keywordsZh": [
+    "伦理",
+    "形而上学",
+    "知识"
+  ],
+  "oneLineZh": "赫拉克利特是伦理、形而上学问题谱系中的第一版候选哲人。",
+  "influenceWeight": 1,
+  "reviewStatus": "draft",
+  "summaryZh": "赫拉克利特是伦理、形而上学问题谱系中的第一版候选哲人。 本条目是第一版结构化资料，已经保留文明、传统、主题、作品和论述字段，正式发布前需要继续核对年代、文本出处和概念表述。",
+  "works": [
+    "heraclitus-primary-work"
+  ],
+  "sourceNotes": [
+    {
+      "label": "draft",
+      "noteZh": "条目需要人工核对作品、年代和概念表述。"
+    }
+  ]
+}

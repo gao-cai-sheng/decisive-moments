@@ -1,0 +1,42 @@
+{
+  "id": "zhu-xi",
+  "names": {
+    "zh": "朱熹",
+    "en": "Zhu Xi"
+  },
+  "life": {
+    "display": "1130—1200",
+    "birth": 1130,
+    "death": 1200
+  },
+  "civilization": "chinese",
+  "traditions": [
+    "chinese_philosophy"
+  ],
+  "periods": [
+    "first_release"
+  ],
+  "themes": [
+    "ethics",
+    "politics",
+    "justice"
+  ],
+  "keywordsZh": [
+    "伦理",
+    "政治",
+    "正义"
+  ],
+  "oneLineZh": "朱熹是伦理、政治问题谱系中的第一版候选哲人。",
+  "influenceWeight": 1,
+  "reviewStatus": "draft",
+  "summaryZh": "朱熹是伦理、政治问题谱系中的第一版候选哲人。 本条目是第一版结构化资料，已经保留文明、传统、主题、作品和论述字段，正式发布前需要继续核对年代、文本出处和概念表述。",
+  "works": [
+    "zhu-xi-primary-work"
+  ],
+  "sourceNotes": [
+    {
+      "label": "draft",
+      "noteZh": "条目需要人工核对作品、年代和概念表述。"
+    }
+  ]
+}

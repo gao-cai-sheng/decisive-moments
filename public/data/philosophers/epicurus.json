@@ -1,0 +1,42 @@
+{
+  "id": "epicurus",
+  "names": {
+    "zh": "伊壁鸠鲁",
+    "en": "Epicurus"
+  },
+  "life": {
+    "display": "前 341—前 270",
+    "birth": -341,
+    "death": -270
+  },
+  "civilization": "ancient_greek",
+  "traditions": [
+    "ancient_greek_philosophy"
+  ],
+  "periods": [
+    "first_release"
+  ],
+  "themes": [
+    "ethics",
+    "metaphysics",
+    "knowledge"
+  ],
+  "keywordsZh": [
+    "伦理",
+    "形而上学",
+    "知识"
+  ],
+  "oneLineZh": "伊壁鸠鲁是伦理、形而上学问题谱系中的第一版候选哲人。",
+  "influenceWeight": 1,
+  "reviewStatus": "draft",
+  "summaryZh": "伊壁鸠鲁是伦理、形而上学问题谱系中的第一版候选哲人。 本条目是第一版结构化资料，已经保留文明、传统、主题、作品和论述字段，正式发布前需要继续核对年代、文本出处和概念表述。",
+  "works": [
+    "epicurus-primary-work"
+  ],
+  "sourceNotes": [
+    {
+      "label": "draft",
+      "noteZh": "条目需要人工核对作品、年代和概念表述。"
+    }
+  ]
+}

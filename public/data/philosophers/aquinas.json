@@ -1,0 +1,42 @@
+{
+  "id": "aquinas",
+  "names": {
+    "zh": "托马斯·阿奎那",
+    "en": "Thomas Aquinas"
+  },
+  "life": {
+    "display": "1225—1274",
+    "birth": 1225,
+    "death": 1274
+  },
+  "civilization": "latin_christian",
+  "traditions": [
+    "scholasticism"
+  ],
+  "periods": [
+    "first_release"
+  ],
+  "themes": [
+    "religion",
+    "metaphysics",
+    "ethics"
+  ],
+  "keywordsZh": [
+    "宗教",
+    "形而上学",
+    "伦理"
+  ],
+  "oneLineZh": "托马斯·阿奎那是宗教、形而上学问题谱系中的第一版候选哲人。",
+  "influenceWeight": 1,
+  "reviewStatus": "draft",
+  "summaryZh": "托马斯·阿奎那是宗教、形而上学问题谱系中的第一版候选哲人。 本条目是第一版结构化资料，已经保留文明、传统、主题、作品和论述字段，正式发布前需要继续核对年代、文本出处和概念表述。",
+  "works": [
+    "aquinas-primary-work"
+  ],
+  "sourceNotes": [
+    {
+      "label": "draft",
+      "noteZh": "条目需要人工核对作品、年代和概念表述。"
+    }
+  ]
+}

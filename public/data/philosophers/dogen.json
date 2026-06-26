@@ -1,0 +1,42 @@
+{
+  "id": "dogen",
+  "names": {
+    "zh": "道元",
+    "en": "Dogen"
+  },
+  "life": {
+    "display": "1200—1253",
+    "birth": 1200,
+    "death": 1253
+  },
+  "civilization": "japanese",
+  "traditions": [
+    "japanese_philosophy"
+  ],
+  "periods": [
+    "first_release"
+  ],
+  "themes": [
+    "religion",
+    "aesthetics",
+    "ethics"
+  ],
+  "keywordsZh": [
+    "宗教",
+    "审美",
+    "伦理"
+  ],
+  "oneLineZh": "道元是宗教、审美问题谱系中的第一版候选哲人。",
+  "influenceWeight": 1,
+  "reviewStatus": "draft",
+  "summaryZh": "道元是宗教、审美问题谱系中的第一版候选哲人。 本条目是第一版结构化资料，已经保留文明、传统、主题、作品和论述字段，正式发布前需要继续核对年代、文本出处和概念表述。",
+  "works": [
+    "dogen-primary-work"
+  ],
+  "sourceNotes": [
+    {
+      "label": "draft",
+      "noteZh": "条目需要人工核对作品、年代和概念表述。"
+    }
+  ]
+}

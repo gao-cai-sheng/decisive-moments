@@ -1,0 +1,42 @@
+{
+  "id": "al-farabi",
+  "names": {
+    "zh": "法拉比",
+    "en": "Al-Farabi"
+  },
+  "life": {
+    "display": "约872—950",
+    "birth": 872,
+    "death": 950
+  },
+  "civilization": "islamic",
+  "traditions": [
+    "islamic_philosophy"
+  ],
+  "periods": [
+    "first_release"
+  ],
+  "themes": [
+    "metaphysics",
+    "religion",
+    "politics"
+  ],
+  "keywordsZh": [
+    "形而上学",
+    "宗教",
+    "政治"
+  ],
+  "oneLineZh": "法拉比是形而上学、宗教问题谱系中的第一版候选哲人。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "法拉比是形而上学、宗教问题谱系中的第一版候选哲人。 本条目是第一版结构化资料，已经保留文明、传统、主题、作品和论述字段，正式发布前需要继续核对年代、文本出处和概念表述。",
+  "works": [
+    "al-farabi-primary-work"
+  ],
+  "sourceNotes": [
+    {
+      "label": "draft",
+      "noteZh": "条目需要人工核对作品、年代和概念表述。"
+    }
+  ]
+}

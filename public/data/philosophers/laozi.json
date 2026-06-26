@@ -1,0 +1,42 @@
+{
+  "id": "laozi",
+  "names": {
+    "zh": "老子",
+    "en": "Laozi"
+  },
+  "life": {
+    "display": "约前 571—前 471",
+    "birth": -571,
+    "death": -471
+  },
+  "civilization": "chinese",
+  "traditions": [
+    "daoism"
+  ],
+  "periods": [
+    "first_release"
+  ],
+  "themes": [
+    "metaphysics",
+    "politics",
+    "life_death"
+  ],
+  "keywordsZh": [
+    "形而上学",
+    "政治",
+    "生死"
+  ],
+  "oneLineZh": "以道、无为和反强制秩序开辟道家思想。",
+  "influenceWeight": 1,
+  "reviewStatus": "draft",
+  "summaryZh": "老子以道作为万物生成和政治节制的根本尺度，强调无为、柔弱和反身性的治理智慧。",
+  "works": [
+    "laozi-primary-work"
+  ],
+  "sourceNotes": [
+    {
+      "label": "draft",
+      "noteZh": "条目需要人工核对作品、年代和概念表述。"
+    }
+  ]
+}

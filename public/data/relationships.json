@@ -1,0 +1,1129 @@
+[
+  {
+    "id": "socrates-plato-direct_student",
+    "from": "socrates",
+    "to": "plato",
+    "type": "direct_student",
+    "strength": 3,
+    "confidence": "high",
+    "themeIds": [
+      "knowledge"
+    ],
+    "noteZh": "柏拉图通过对话录保存并重构苏格拉底的问题意识。",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "plato-aristotle-direct_student",
+    "from": "plato",
+    "to": "aristotle",
+    "type": "direct_student",
+    "strength": 3,
+    "confidence": "high",
+    "themeIds": [
+      "metaphysics"
+    ],
+    "noteZh": "亚里士多德曾在柏拉图学园学习，并在形而上学和政治哲学上形成回应。",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "confucius-mencius-reception",
+    "from": "confucius",
+    "to": "mencius",
+    "type": "reception",
+    "strength": 3,
+    "confidence": "high",
+    "themeIds": [
+      "ethics"
+    ],
+    "noteZh": "孟子继承并发展孔子关于仁与政治正当性的讨论。",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "confucius-xunzi-reception",
+    "from": "confucius",
+    "to": "xunzi",
+    "type": "reception",
+    "strength": 3,
+    "confidence": "high",
+    "themeIds": [
+      "ethics"
+    ],
+    "noteZh": "荀子在儒家框架中以礼法和学习工夫改写人性论。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "laozi-zhuangzi-school",
+    "from": "laozi",
+    "to": "zhuangzi",
+    "type": "school",
+    "strength": 3,
+    "confidence": "high",
+    "themeIds": [
+      "freedom"
+    ],
+    "noteZh": "庄子发展道家关于道、无为和自由的思想方向。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "aristotle-aquinas-reception",
+    "from": "aristotle",
+    "to": "aquinas",
+    "type": "reception",
+    "strength": 3,
+    "confidence": "high",
+    "themeIds": [
+      "metaphysics"
+    ],
+    "noteZh": "阿奎那借亚里士多德哲学重构经院哲学体系。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "hume-kant-influence",
+    "from": "hume",
+    "to": "kant",
+    "type": "influence",
+    "strength": 3,
+    "confidence": "high",
+    "themeIds": [
+      "knowledge"
+    ],
+    "noteZh": "康德承认休谟的因果怀疑促使他重审知识条件。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "kant-hegel-influence",
+    "from": "kant",
+    "to": "hegel",
+    "type": "influence",
+    "strength": 3,
+    "confidence": "high",
+    "themeIds": [
+      "freedom"
+    ],
+    "noteZh": "黑格尔继承并批判康德关于自由、理性和历史的框架。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "hegel-marx-influence",
+    "from": "hegel",
+    "to": "marx",
+    "type": "influence",
+    "strength": 2,
+    "confidence": "high",
+    "themeIds": [
+      "politics"
+    ],
+    "noteZh": "马克思在批判中转化黑格尔辩证法和历史理解。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "husserl-heidegger-influence",
+    "from": "husserl",
+    "to": "heidegger",
+    "type": "influence",
+    "strength": 2,
+    "confidence": "high",
+    "themeIds": [
+      "metaphysics"
+    ],
+    "noteZh": "海德格尔从胡塞尔现象学出发，重新追问存在问题。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "heidegger-sartre-influence",
+    "from": "heidegger",
+    "to": "sartre",
+    "type": "influence",
+    "strength": 2,
+    "confidence": "high",
+    "themeIds": [
+      "freedom"
+    ],
+    "noteZh": "萨特在存在主义语境中回应并改写海德格尔问题。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "frege-wittgenstein-influence",
+    "from": "frege",
+    "to": "wittgenstein",
+    "type": "influence",
+    "strength": 2,
+    "confidence": "high",
+    "themeIds": [
+      "language"
+    ],
+    "noteZh": "维特根斯坦的早期问题意识与弗雷格逻辑和意义理论密切相关。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "rawls-nozick-critique",
+    "from": "rawls",
+    "to": "nozick",
+    "type": "critique",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "justice"
+    ],
+    "noteZh": "诺齐克以权利理论批判罗尔斯的分配正义框架。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "nagarjuna-adi-shankara-shared_problem",
+    "from": "nagarjuna",
+    "to": "adi-shankara",
+    "type": "shared_problem",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "metaphysics"
+    ],
+    "noteZh": "二者围绕终极实在、语言和解脱形成可对照的问题域。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "ibn-sina-aquinas-influence",
+    "from": "ibn-sina",
+    "to": "aquinas",
+    "type": "influence",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "metaphysics"
+    ],
+    "noteZh": "伊本·西那关于存在与本质的讨论影响拉丁中世纪形而上学。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "mozi-confucius-critique",
+    "from": "mozi",
+    "to": "confucius",
+    "type": "critique",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "justice",
+      "ethics"
+    ],
+    "noteZh": "墨子从兼爱和功利性政治出发，批评儒家礼乐与亲亲秩序的局限。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "confucius-zhu-xi-reception",
+    "from": "confucius",
+    "to": "zhu-xi",
+    "type": "reception",
+    "strength": 3,
+    "confidence": "high",
+    "themeIds": [
+      "ethics",
+      "metaphysics"
+    ],
+    "noteZh": "朱熹以理学体系重读孔孟传统，把伦理修养和天理结构结合起来。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "zhu-xi-wang-yangming-critique",
+    "from": "zhu-xi",
+    "to": "wang-yangming",
+    "type": "critique",
+    "strength": 3,
+    "confidence": "high",
+    "themeIds": [
+      "ethics",
+      "knowledge"
+    ],
+    "noteZh": "王阳明以心即理和知行合一回应朱熹格物穷理的修养路线。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "zhu-xi-toegye-influence",
+    "from": "zhu-xi",
+    "to": "toegye",
+    "type": "influence",
+    "strength": 3,
+    "confidence": "high",
+    "themeIds": [
+      "ethics",
+      "metaphysics"
+    ],
+    "noteZh": "退溪继承朱子学问题框架，并在四端七情论中深化心性讨论。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "zhu-xi-yulgok-influence",
+    "from": "zhu-xi",
+    "to": "yulgok",
+    "type": "influence",
+    "strength": 3,
+    "confidence": "high",
+    "themeIds": [
+      "ethics",
+      "metaphysics"
+    ],
+    "noteZh": "栗谷在朱子学脉络中处理理气、修养与政治实践之间的关系。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "dewey-hu-shi-influence",
+    "from": "dewey",
+    "to": "hu-shi",
+    "type": "influence",
+    "strength": 3,
+    "confidence": "high",
+    "themeIds": [
+      "knowledge",
+      "politics"
+    ],
+    "noteZh": "胡适受杜威实验主义影响，把思想方法、教育改革和公共生活联系起来。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "bergson-liang-shuming-influence",
+    "from": "bergson",
+    "to": "liang-shuming",
+    "type": "influence",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "life_death",
+      "metaphysics"
+    ],
+    "noteZh": "梁漱溟借生命哲学资源重新解释文化差异与儒家生活取向。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "buddha-nagarjuna-reception",
+    "from": "buddha",
+    "to": "nagarjuna",
+    "type": "reception",
+    "strength": 3,
+    "confidence": "high",
+    "themeIds": [
+      "religion",
+      "metaphysics"
+    ],
+    "noteZh": "龙树以中观论证深化佛教缘起、空性与解脱问题。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "buddha-vasubandhu-reception",
+    "from": "buddha",
+    "to": "vasubandhu",
+    "type": "reception",
+    "strength": 3,
+    "confidence": "high",
+    "themeIds": [
+      "religion",
+      "knowledge"
+    ],
+    "noteZh": "世亲在佛教论书传统中推进意识、认知和修行结构的分析。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "buddha-mahavira-shared_problem",
+    "from": "buddha",
+    "to": "mahavira",
+    "type": "shared_problem",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "religion",
+      "ethics",
+      "life_death"
+    ],
+    "noteZh": "佛教和耆那教都围绕苦、业、解脱和修行生活展开，但给出不同路径。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "adi-shankara-ramanuja-critique",
+    "from": "adi-shankara",
+    "to": "ramanuja",
+    "type": "critique",
+    "strength": 3,
+    "confidence": "high",
+    "themeIds": [
+      "religion",
+      "metaphysics"
+    ],
+    "noteZh": "罗摩努阇以限定不二论回应商羯罗不二论对梵我关系的解释。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "tagore-gandhi-influence",
+    "from": "tagore",
+    "to": "gandhi",
+    "type": "influence",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "ethics",
+      "politics"
+    ],
+    "noteZh": "泰戈尔与甘地在民族、教育和精神自由问题上互相回应，也保留分歧。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "gandhi-ambedkar-critique",
+    "from": "gandhi",
+    "to": "ambedkar",
+    "type": "critique",
+    "strength": 3,
+    "confidence": "high",
+    "themeIds": [
+      "justice",
+      "politics"
+    ],
+    "noteZh": "安贝德卡批判甘地关于种姓与社会改革的方案，强调制度性平等。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "thales-heraclitus-influence",
+    "from": "thales",
+    "to": "heraclitus",
+    "type": "influence",
+    "strength": 1,
+    "confidence": "medium",
+    "themeIds": [
+      "metaphysics"
+    ],
+    "noteZh": "早期自然哲学对万物本原的追问为赫拉克利特的生成思想提供背景。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "heraclitus-parmenides-critique",
+    "from": "heraclitus",
+    "to": "parmenides",
+    "type": "critique",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "metaphysics"
+    ],
+    "noteZh": "赫拉克利特的流变视野与巴门尼德的一者存在构成古希腊形而上学张力。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "parmenides-plato-influence",
+    "from": "parmenides",
+    "to": "plato",
+    "type": "influence",
+    "strength": 3,
+    "confidence": "high",
+    "themeIds": [
+      "metaphysics",
+      "knowledge"
+    ],
+    "noteZh": "巴门尼德对存在和思想对象稳定性的追问深刻影响柏拉图理念论。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "zeno-citium-epicurus-shared_problem",
+    "from": "zeno-citium",
+    "to": "epicurus",
+    "type": "shared_problem",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "ethics",
+      "life_death"
+    ],
+    "noteZh": "斯多亚派和伊壁鸠鲁学派都把哲学理解为面对欲望、恐惧和死亡的生活训练。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "epicurus-schopenhauer-reception",
+    "from": "epicurus",
+    "to": "schopenhauer",
+    "type": "reception",
+    "strength": 1,
+    "confidence": "medium",
+    "themeIds": [
+      "life_death",
+      "ethics"
+    ],
+    "noteZh": "叔本华虽不属于伊壁鸠鲁传统，但同样把欲望、痛苦和安宁作为生活哲学核心问题。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "plotinus-augustine-influence",
+    "from": "plotinus",
+    "to": "augustine",
+    "type": "influence",
+    "strength": 3,
+    "confidence": "high",
+    "themeIds": [
+      "religion",
+      "metaphysics"
+    ],
+    "noteZh": "普罗提诺的新柏拉图主义为奥古斯丁理解灵魂、恶和上帝提供重要资源。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "augustine-anselm-influence",
+    "from": "augustine",
+    "to": "anselm",
+    "type": "influence",
+    "strength": 2,
+    "confidence": "high",
+    "themeIds": [
+      "religion",
+      "metaphysics"
+    ],
+    "noteZh": "安瑟尔谟承接奥古斯丁信仰寻求理解的路线，推进神学理性论证。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "anselm-aquinas-influence",
+    "from": "anselm",
+    "to": "aquinas",
+    "type": "influence",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "religion",
+      "metaphysics"
+    ],
+    "noteZh": "阿奎那继承中世纪理性神学问题，同时以不同方式处理上帝存在论证。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "boethius-aquinas-influence",
+    "from": "boethius",
+    "to": "aquinas",
+    "type": "influence",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "metaphysics",
+      "religion"
+    ],
+    "noteZh": "波爱修斯关于哲学安慰、永恒和神意的讨论进入拉丁中世纪思想背景。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "ockham-hume-influence",
+    "from": "ockham",
+    "to": "hume",
+    "type": "influence",
+    "strength": 1,
+    "confidence": "medium",
+    "themeIds": [
+      "knowledge",
+      "language"
+    ],
+    "noteZh": "奥卡姆的简约原则和名词论传统为近代经验主义问题提供远背景。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "machiavelli-hobbes-influence",
+    "from": "machiavelli",
+    "to": "hobbes",
+    "type": "influence",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "politics"
+    ],
+    "noteZh": "马基雅维利对权力和现实政治的分析为霍布斯式现代政治问题提供背景。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "bacon-locke-influence",
+    "from": "bacon",
+    "to": "locke",
+    "type": "influence",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "knowledge"
+    ],
+    "noteZh": "培根的经验和方法论取向为洛克经验主义知识论提供近代背景。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "descartes-spinoza-critique",
+    "from": "descartes",
+    "to": "spinoza",
+    "type": "critique",
+    "strength": 3,
+    "confidence": "high",
+    "themeIds": [
+      "metaphysics"
+    ],
+    "noteZh": "斯宾诺莎在笛卡尔问题背景下重构实体、属性和心身关系。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "descartes-leibniz-influence",
+    "from": "descartes",
+    "to": "leibniz",
+    "type": "influence",
+    "strength": 2,
+    "confidence": "high",
+    "themeIds": [
+      "metaphysics",
+      "knowledge"
+    ],
+    "noteZh": "莱布尼茨继承理性主义问题，同时批评笛卡尔的实体和物理学设定。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "locke-rousseau-critique",
+    "from": "locke",
+    "to": "rousseau",
+    "type": "critique",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "politics",
+      "justice"
+    ],
+    "noteZh": "卢梭在社会契约和财产权问题上回应并改写洛克式自由主义框架。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "kant-schopenhauer-critique",
+    "from": "kant",
+    "to": "schopenhauer",
+    "type": "critique",
+    "strength": 3,
+    "confidence": "high",
+    "themeIds": [
+      "metaphysics",
+      "freedom"
+    ],
+    "noteZh": "叔本华以意志形而上学回应康德的物自身和主体条件问题。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "hegel-kierkegaard-critique",
+    "from": "hegel",
+    "to": "kierkegaard",
+    "type": "critique",
+    "strength": 3,
+    "confidence": "high",
+    "themeIds": [
+      "freedom",
+      "religion"
+    ],
+    "noteZh": "克尔凯郭尔批评黑格尔体系忽视个体存在、信仰选择和主观激情。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "kierkegaard-nietzsche-shared_problem",
+    "from": "kierkegaard",
+    "to": "nietzsche",
+    "type": "shared_problem",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "freedom",
+      "life_death"
+    ],
+    "noteZh": "二者都把个体如何面对意义、选择和生命负担作为现代性核心问题。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "schopenhauer-nietzsche-influence",
+    "from": "schopenhauer",
+    "to": "nietzsche",
+    "type": "influence",
+    "strength": 3,
+    "confidence": "high",
+    "themeIds": [
+      "life_death",
+      "aesthetics"
+    ],
+    "noteZh": "尼采早期深受叔本华意志哲学和艺术救赎问题影响，随后展开批判性转化。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "nietzsche-heidegger-influence",
+    "from": "nietzsche",
+    "to": "heidegger",
+    "type": "influence",
+    "strength": 2,
+    "confidence": "high",
+    "themeIds": [
+      "metaphysics",
+      "life_death"
+    ],
+    "noteZh": "海德格尔把尼采视为理解西方形而上学完成及虚无主义问题的关键。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "husserl-merleau-ponty-influence",
+    "from": "husserl",
+    "to": "merleau-ponty",
+    "type": "influence",
+    "strength": 3,
+    "confidence": "high",
+    "themeIds": [
+      "knowledge",
+      "metaphysics"
+    ],
+    "noteZh": "梅洛-庞蒂从胡塞尔现象学出发，把身体和知觉置于经验结构中心。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "heidegger-derrida-influence",
+    "from": "heidegger",
+    "to": "derrida",
+    "type": "influence",
+    "strength": 3,
+    "confidence": "high",
+    "themeIds": [
+      "language",
+      "metaphysics"
+    ],
+    "noteZh": "德里达在海德格尔存在问题和形而上学批判之后展开解构。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "sartre-beauvoir-influence",
+    "from": "sartre",
+    "to": "beauvoir",
+    "type": "influence",
+    "strength": 2,
+    "confidence": "high",
+    "themeIds": [
+      "freedom",
+      "ethics"
+    ],
+    "noteZh": "波伏瓦在存在主义语境中推进处境、自由和性别压迫的伦理分析。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "camus-sartre-critique",
+    "from": "camus",
+    "to": "sartre",
+    "type": "critique",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "freedom",
+      "life_death"
+    ],
+    "noteZh": "加缪与萨特围绕荒诞、反抗、历史暴力和自由承担形成分歧。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "russell-carnap-influence",
+    "from": "russell",
+    "to": "carnap",
+    "type": "influence",
+    "strength": 2,
+    "confidence": "high",
+    "themeIds": [
+      "language",
+      "knowledge"
+    ],
+    "noteZh": "卡尔纳普继承逻辑分析传统，把语言形式化作为哲学澄清工具。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "wittgenstein-quine-critique",
+    "from": "wittgenstein",
+    "to": "quine",
+    "type": "critique",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "language",
+      "knowledge"
+    ],
+    "noteZh": "奎因以整体论和自然化认识论重组分析哲学中的意义与经验问题。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "marx-habermas-influence",
+    "from": "marx",
+    "to": "habermas",
+    "type": "influence",
+    "strength": 2,
+    "confidence": "high",
+    "themeIds": [
+      "politics",
+      "language"
+    ],
+    "noteZh": "哈贝马斯继承批判理论传统，并以交往理性改写社会批判问题。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "al-farabi-ibn-sina-influence",
+    "from": "al-farabi",
+    "to": "ibn-sina",
+    "type": "influence",
+    "strength": 3,
+    "confidence": "high",
+    "themeIds": [
+      "metaphysics",
+      "politics"
+    ],
+    "noteZh": "法拉比为伊本·西那的哲学体系提供亚里士多德主义和政治哲学背景。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "ibn-sina-ibn-rushd-reception",
+    "from": "ibn-sina",
+    "to": "ibn-rushd",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "metaphysics",
+      "religion"
+    ],
+    "noteZh": "伊本·鲁世德在亚里士多德注释传统中回应伊本·西那等人的形而上学问题。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "al-ghazali-ibn-rushd-critique",
+    "from": "al-ghazali",
+    "to": "ibn-rushd",
+    "type": "critique",
+    "strength": 3,
+    "confidence": "high",
+    "themeIds": [
+      "religion",
+      "metaphysics"
+    ],
+    "noteZh": "伊本·鲁世德直接回应安萨里的哲学批判，重申哲学与启示的关系。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "ibn-rushd-aquinas-influence",
+    "from": "ibn-rushd",
+    "to": "aquinas",
+    "type": "influence",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "metaphysics",
+      "religion"
+    ],
+    "noteZh": "伊本·鲁世德的亚里士多德注释传统进入拉丁经院哲学问题背景。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "maimonides-aquinas-influence",
+    "from": "maimonides",
+    "to": "aquinas",
+    "type": "influence",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "religion",
+      "metaphysics"
+    ],
+    "noteZh": "迈蒙尼德关于神学、律法和理性的讨论影响中世纪基督教哲学语境。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "saadia-gaon-maimonides-influence",
+    "from": "saadia-gaon",
+    "to": "maimonides",
+    "type": "influence",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "religion",
+      "knowledge"
+    ],
+    "noteZh": "萨阿迪亚·伽翁代表的犹太理性神学为迈蒙尼德的问题意识提供传统背景。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "buber-levinas-influence",
+    "from": "buber",
+    "to": "levinas",
+    "type": "influence",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "ethics",
+      "religion"
+    ],
+    "noteZh": "布伯的我与你关系哲学与列维纳斯的他者伦理形成可对读的现代犹太思想脉络。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "dogen-nishida-influence",
+    "from": "dogen",
+    "to": "nishida",
+    "type": "influence",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "religion",
+      "metaphysics"
+    ],
+    "noteZh": "西田几多郎在日本思想语境中重新处理经验、无和宗教性问题。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "nishida-watsuji-shared_problem",
+    "from": "nishida",
+    "to": "watsuji",
+    "type": "shared_problem",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "ethics",
+      "metaphysics"
+    ],
+    "noteZh": "西田和和辻都在现代日本哲学中处理主体、关系和文化世界的问题。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "watsuji-levinas-shared_problem",
+    "from": "watsuji",
+    "to": "levinas",
+    "type": "shared_problem",
+    "strength": 1,
+    "confidence": "medium",
+    "themeIds": [
+      "ethics"
+    ],
+    "noteZh": "二者都把伦理从孤立主体转向关系性结构，但文化和论证路径不同。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "senghor-wiredu-shared_problem",
+    "from": "senghor",
+    "to": "wiredu",
+    "type": "shared_problem",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "language",
+      "aesthetics"
+    ],
+    "noteZh": "桑戈尔和维雷杜都关心非洲思想如何以语言、文化和现代性自我表达。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "hountondji-wiredu-critique",
+    "from": "hountondji",
+    "to": "wiredu",
+    "type": "critique",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "knowledge",
+      "language"
+    ],
+    "noteZh": "亨通吉和维雷杜都批判把非洲哲学固定为集体民俗的做法，但路径不同。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "zelea-dussel-influence",
+    "from": "zelea",
+    "to": "dussel",
+    "type": "influence",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "politics",
+      "justice"
+    ],
+    "noteZh": "塞亚的问题意识为杜塞尔等拉美解放哲学提供现代性批判背景。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "dussel-levinas-influence",
+    "from": "levinas",
+    "to": "dussel",
+    "type": "influence",
+    "strength": 2,
+    "confidence": "high",
+    "themeIds": [
+      "ethics",
+      "politics"
+    ],
+    "noteZh": "杜塞尔吸收列维纳斯他者伦理，用于重构解放哲学和殖民现代性批判。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "sor-juana-beauvoir-shared_problem",
+    "from": "sor-juana",
+    "to": "beauvoir",
+    "type": "shared_problem",
+    "strength": 1,
+    "confidence": "medium",
+    "themeIds": [
+      "justice",
+      "ethics"
+    ],
+    "noteZh": "索尔胡安娜和波伏瓦都把女性处境、知识权利和社会限制纳入哲学反思。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "plumwood-singer-critique",
+    "from": "plumwood",
+    "to": "singer",
+    "type": "critique",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "ethics",
+      "life_death"
+    ],
+    "noteZh": "普拉姆伍德从生态女性主义角度批评单一功利主义伦理的局限。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "nussbaum-rawls-reception",
+    "from": "rawls",
+    "to": "nussbaum",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "high",
+    "themeIds": [
+      "justice",
+      "ethics"
+    ],
+    "noteZh": "努斯鲍姆在罗尔斯之后发展能力路径，重塑正义、尊严和脆弱性问题。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "hooks-beauvoir-reception",
+    "from": "beauvoir",
+    "to": "hooks",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "justice",
+      "ethics"
+    ],
+    "noteZh": "贝尔·胡克斯在女性主义传统中延展性别压迫、种族和阶级交织的问题。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "foucault-butler-influence",
+    "from": "foucault",
+    "to": "butler",
+    "type": "influence",
+    "strength": 3,
+    "confidence": "high",
+    "themeIds": [
+      "politics",
+      "language"
+    ],
+    "noteZh": "巴特勒借福柯关于权力、规训和话语的分析重构性别主体问题。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "arendt-habermas-shared_problem",
+    "from": "arendt",
+    "to": "habermas",
+    "type": "shared_problem",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "politics",
+      "language"
+    ],
+    "noteZh": "阿伦特和哈贝马斯都把公共空间、言说和政治行动置于现代政治哲学中心。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "whitehead-bergson-shared_problem",
+    "from": "bergson",
+    "to": "whitehead",
+    "type": "shared_problem",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "metaphysics",
+      "life_death"
+    ],
+    "noteZh": "柏格森和怀特海都以过程、生成和生命创造性挑战静态实体论。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "hobbes-rawls-critique",
+    "from": "hobbes",
+    "to": "rawls",
+    "type": "critique",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "justice",
+      "politics"
+    ],
+    "noteZh": "罗尔斯的公平合作模型与霍布斯式安全契约构成现代契约论内部差异。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "mill-singer-influence",
+    "from": "mill",
+    "to": "singer",
+    "type": "influence",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "ethics"
+    ],
+    "noteZh": "辛格的功利主义伦理可放在密尔之后的后果主义传统中理解。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "hypatia-plotinus-school",
+    "from": "plotinus",
+    "to": "hypatia",
+    "type": "school",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "metaphysics",
+      "aesthetics"
+    ],
+    "noteZh": "希帕提娅处于晚期古典新柏拉图主义文化背景中，与普罗提诺传统可作学派关联。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "erasmus-montaigne-influence",
+    "from": "erasmus",
+    "to": "montaigne",
+    "type": "influence",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "ethics",
+      "knowledge"
+    ],
+    "noteZh": "蒙田继承人文主义怀疑和自我反省传统，把判断、习俗和生活经验转为哲学材料。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "montaigne-camus-influence",
+    "from": "montaigne",
+    "to": "camus",
+    "type": "influence",
+    "strength": 1,
+    "confidence": "medium",
+    "themeIds": [
+      "life_death",
+      "ethics"
+    ],
+    "noteZh": "加缪可与蒙田的生活智慧和有限性反思形成远距离接受关系。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "dewey-rawls-shared_problem",
+    "from": "dewey",
+    "to": "rawls",
+    "type": "shared_problem",
+    "strength": 1,
+    "confidence": "medium",
+    "themeIds": [
+      "justice",
+      "politics"
+    ],
+    "noteZh": "杜威和罗尔斯都关心民主制度中的公共理性、教育和公平合作条件。",
+    "reviewStatus": "draft"
+  }
+]

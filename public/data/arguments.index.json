@@ -1,0 +1,3814 @@
+[
+  {
+    "id": "confucius-ethics-1",
+    "philosopherId": "confucius",
+    "themeIds": [
+      "ethics"
+    ],
+    "questionZh": "伦理意味着什么？",
+    "claimZh": "孔子围绕伦理提出了可供第一版检索的核心观点。",
+    "explanationZh": "孔子的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "confucius-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "伦理",
+      "孔子"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "confucius-politics-2",
+    "philosopherId": "confucius",
+    "themeIds": [
+      "politics"
+    ],
+    "questionZh": "政治意味着什么？",
+    "claimZh": "孔子围绕政治提出了可供第一版检索的核心观点。",
+    "explanationZh": "孔子的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "confucius-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "政治",
+      "孔子"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "laozi-metaphysics-1",
+    "philosopherId": "laozi",
+    "themeIds": [
+      "metaphysics"
+    ],
+    "questionZh": "形而上学意味着什么？",
+    "claimZh": "老子围绕形而上学提出了可供第一版检索的核心观点。",
+    "explanationZh": "老子的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "laozi-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "形而上学",
+      "老子"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "laozi-politics-2",
+    "philosopherId": "laozi",
+    "themeIds": [
+      "politics"
+    ],
+    "questionZh": "政治意味着什么？",
+    "claimZh": "老子围绕政治提出了可供第一版检索的核心观点。",
+    "explanationZh": "老子的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "laozi-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "政治",
+      "老子"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "zhuangzi-freedom-1",
+    "philosopherId": "zhuangzi",
+    "themeIds": [
+      "freedom"
+    ],
+    "questionZh": "自由意味着什么？",
+    "claimZh": "庄子围绕自由提出了可供第一版检索的核心观点。",
+    "explanationZh": "庄子的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "zhuangzi-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "自由",
+      "庄子"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "zhuangzi-language-2",
+    "philosopherId": "zhuangzi",
+    "themeIds": [
+      "language"
+    ],
+    "questionZh": "语言意味着什么？",
+    "claimZh": "庄子围绕语言提出了可供第一版检索的核心观点。",
+    "explanationZh": "庄子的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "zhuangzi-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "语言",
+      "庄子"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "mozi-ethics-1",
+    "philosopherId": "mozi",
+    "themeIds": [
+      "ethics"
+    ],
+    "questionZh": "伦理意味着什么？",
+    "claimZh": "墨子围绕伦理提出了可供第一版检索的核心观点。",
+    "explanationZh": "墨子的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "mozi-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "伦理",
+      "墨子"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "mozi-politics-2",
+    "philosopherId": "mozi",
+    "themeIds": [
+      "politics"
+    ],
+    "questionZh": "政治意味着什么？",
+    "claimZh": "墨子围绕政治提出了可供第一版检索的核心观点。",
+    "explanationZh": "墨子的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "mozi-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "政治",
+      "墨子"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "mencius-ethics-1",
+    "philosopherId": "mencius",
+    "themeIds": [
+      "ethics"
+    ],
+    "questionZh": "伦理意味着什么？",
+    "claimZh": "孟子围绕伦理提出了可供第一版检索的核心观点。",
+    "explanationZh": "孟子的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "mencius-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "伦理",
+      "孟子"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "mencius-politics-2",
+    "philosopherId": "mencius",
+    "themeIds": [
+      "politics"
+    ],
+    "questionZh": "政治意味着什么？",
+    "claimZh": "孟子围绕政治提出了可供第一版检索的核心观点。",
+    "explanationZh": "孟子的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "mencius-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "政治",
+      "孟子"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "xunzi-ethics-1",
+    "philosopherId": "xunzi",
+    "themeIds": [
+      "ethics"
+    ],
+    "questionZh": "伦理意味着什么？",
+    "claimZh": "荀子围绕伦理提出了可供第一版检索的核心观点。",
+    "explanationZh": "荀子的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "xunzi-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "伦理",
+      "荀子"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "xunzi-politics-2",
+    "philosopherId": "xunzi",
+    "themeIds": [
+      "politics"
+    ],
+    "questionZh": "政治意味着什么？",
+    "claimZh": "荀子围绕政治提出了可供第一版检索的核心观点。",
+    "explanationZh": "荀子的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "xunzi-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "政治",
+      "荀子"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "wang-yangming-ethics-1",
+    "philosopherId": "wang-yangming",
+    "themeIds": [
+      "ethics"
+    ],
+    "questionZh": "伦理意味着什么？",
+    "claimZh": "王阳明围绕伦理提出了可供第一版检索的核心观点。",
+    "explanationZh": "王阳明的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "wang-yangming-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "伦理",
+      "王阳明"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "wang-yangming-politics-2",
+    "philosopherId": "wang-yangming",
+    "themeIds": [
+      "politics"
+    ],
+    "questionZh": "政治意味着什么？",
+    "claimZh": "王阳明围绕政治提出了可供第一版检索的核心观点。",
+    "explanationZh": "王阳明的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "wang-yangming-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "政治",
+      "王阳明"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "zhu-xi-ethics-1",
+    "philosopherId": "zhu-xi",
+    "themeIds": [
+      "ethics"
+    ],
+    "questionZh": "伦理意味着什么？",
+    "claimZh": "朱熹围绕伦理提出了可供第一版检索的核心观点。",
+    "explanationZh": "朱熹的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "zhu-xi-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "伦理",
+      "朱熹"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "zhu-xi-politics-2",
+    "philosopherId": "zhu-xi",
+    "themeIds": [
+      "politics"
+    ],
+    "questionZh": "政治意味着什么？",
+    "claimZh": "朱熹围绕政治提出了可供第一版检索的核心观点。",
+    "explanationZh": "朱熹的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "zhu-xi-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "政治",
+      "朱熹"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "hu-shi-ethics-1",
+    "philosopherId": "hu-shi",
+    "themeIds": [
+      "ethics"
+    ],
+    "questionZh": "伦理意味着什么？",
+    "claimZh": "胡适围绕伦理提出了可供第一版检索的核心观点。",
+    "explanationZh": "胡适的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "hu-shi-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "伦理",
+      "胡适"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "hu-shi-politics-2",
+    "philosopherId": "hu-shi",
+    "themeIds": [
+      "politics"
+    ],
+    "questionZh": "政治意味着什么？",
+    "claimZh": "胡适围绕政治提出了可供第一版检索的核心观点。",
+    "explanationZh": "胡适的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "hu-shi-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "政治",
+      "胡适"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "liang-shuming-ethics-1",
+    "philosopherId": "liang-shuming",
+    "themeIds": [
+      "ethics"
+    ],
+    "questionZh": "伦理意味着什么？",
+    "claimZh": "梁漱溟围绕伦理提出了可供第一版检索的核心观点。",
+    "explanationZh": "梁漱溟的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "liang-shuming-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "伦理",
+      "梁漱溟"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "liang-shuming-politics-2",
+    "philosopherId": "liang-shuming",
+    "themeIds": [
+      "politics"
+    ],
+    "questionZh": "政治意味着什么？",
+    "claimZh": "梁漱溟围绕政治提出了可供第一版检索的核心观点。",
+    "explanationZh": "梁漱溟的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "liang-shuming-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "政治",
+      "梁漱溟"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "buddha-four-noble-truths",
+    "philosopherId": "buddha",
+    "themeIds": [
+      "life_death",
+      "religion",
+      "freedom"
+    ],
+    "questionZh": "苦如何被认识并结束？",
+    "claimZh": "四圣谛把苦、苦的生起、苦的止息和走向止息的道路组织成一套实践诊断。",
+    "explanationZh": "释迦牟尼不是把苦当作无法改变的宿命，而是把它分析为可认识、可追踪、可止息的条件过程；八正道则把解脱落实为观看、言行、专注和智慧的训练。",
+    "source": {
+      "workId": "dhammacakkappavattana-sutta",
+      "locator": "SN 56.11",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "四圣谛",
+      "苦",
+      "八正道",
+      "涅槃",
+      "释迦牟尼"
+    ],
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "buddha-dependent-origination",
+    "philosopherId": "buddha",
+    "themeIds": [
+      "metaphysics",
+      "knowledge",
+      "life_death"
+    ],
+    "questionZh": "事物是否有独立自性？",
+    "claimZh": "缘起说明现象依条件而生，也依条件而灭，因此不应被理解为孤立、恒常、自足的实体。",
+    "explanationZh": "缘起把苦和经验世界放在条件关系中理解：当无明、贪爱和执取等条件被看见并松动，苦的生成链条也能够被改变。",
+    "source": {
+      "workId": "kaccanagotta-sutta",
+      "locator": "SN 12.15",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "缘起",
+      "无我",
+      "中道",
+      "条件性",
+      "释迦牟尼"
+    ],
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "mahavira-religion-1",
+    "philosopherId": "mahavira",
+    "themeIds": [
+      "religion"
+    ],
+    "questionZh": "宗教意味着什么？",
+    "claimZh": "摩诃毗罗围绕宗教提出了可供第一版检索的核心观点。",
+    "explanationZh": "摩诃毗罗的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "mahavira-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "宗教",
+      "摩诃毗罗"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "mahavira-metaphysics-2",
+    "philosopherId": "mahavira",
+    "themeIds": [
+      "metaphysics"
+    ],
+    "questionZh": "形而上学意味着什么？",
+    "claimZh": "摩诃毗罗围绕形而上学提出了可供第一版检索的核心观点。",
+    "explanationZh": "摩诃毗罗的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "mahavira-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "形而上学",
+      "摩诃毗罗"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "nagarjuna-religion-1",
+    "philosopherId": "nagarjuna",
+    "themeIds": [
+      "religion"
+    ],
+    "questionZh": "宗教意味着什么？",
+    "claimZh": "龙树围绕宗教提出了可供第一版检索的核心观点。",
+    "explanationZh": "龙树的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "nagarjuna-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "宗教",
+      "龙树"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "nagarjuna-metaphysics-2",
+    "philosopherId": "nagarjuna",
+    "themeIds": [
+      "metaphysics"
+    ],
+    "questionZh": "形而上学意味着什么？",
+    "claimZh": "龙树围绕形而上学提出了可供第一版检索的核心观点。",
+    "explanationZh": "龙树的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "nagarjuna-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "形而上学",
+      "龙树"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "vasubandhu-religion-1",
+    "philosopherId": "vasubandhu",
+    "themeIds": [
+      "religion"
+    ],
+    "questionZh": "宗教意味着什么？",
+    "claimZh": "世亲围绕宗教提出了可供第一版检索的核心观点。",
+    "explanationZh": "世亲的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "vasubandhu-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "宗教",
+      "世亲"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "vasubandhu-metaphysics-2",
+    "philosopherId": "vasubandhu",
+    "themeIds": [
+      "metaphysics"
+    ],
+    "questionZh": "形而上学意味着什么？",
+    "claimZh": "世亲围绕形而上学提出了可供第一版检索的核心观点。",
+    "explanationZh": "世亲的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "vasubandhu-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "形而上学",
+      "世亲"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "adi-shankara-religion-1",
+    "philosopherId": "adi-shankara",
+    "themeIds": [
+      "religion"
+    ],
+    "questionZh": "宗教意味着什么？",
+    "claimZh": "商羯罗围绕宗教提出了可供第一版检索的核心观点。",
+    "explanationZh": "商羯罗的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "adi-shankara-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "宗教",
+      "商羯罗"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "adi-shankara-metaphysics-2",
+    "philosopherId": "adi-shankara",
+    "themeIds": [
+      "metaphysics"
+    ],
+    "questionZh": "形而上学意味着什么？",
+    "claimZh": "商羯罗围绕形而上学提出了可供第一版检索的核心观点。",
+    "explanationZh": "商羯罗的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "adi-shankara-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "形而上学",
+      "商羯罗"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "ramanuja-religion-1",
+    "philosopherId": "ramanuja",
+    "themeIds": [
+      "religion"
+    ],
+    "questionZh": "宗教意味着什么？",
+    "claimZh": "罗摩奴阇围绕宗教提出了可供第一版检索的核心观点。",
+    "explanationZh": "罗摩奴阇的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "ramanuja-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "宗教",
+      "罗摩奴阇"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "ramanuja-metaphysics-2",
+    "philosopherId": "ramanuja",
+    "themeIds": [
+      "metaphysics"
+    ],
+    "questionZh": "形而上学意味着什么？",
+    "claimZh": "罗摩奴阇围绕形而上学提出了可供第一版检索的核心观点。",
+    "explanationZh": "罗摩奴阇的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "ramanuja-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "形而上学",
+      "罗摩奴阇"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "tagore-religion-1",
+    "philosopherId": "tagore",
+    "themeIds": [
+      "religion"
+    ],
+    "questionZh": "宗教意味着什么？",
+    "claimZh": "泰戈尔围绕宗教提出了可供第一版检索的核心观点。",
+    "explanationZh": "泰戈尔的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "tagore-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "宗教",
+      "泰戈尔"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "tagore-metaphysics-2",
+    "philosopherId": "tagore",
+    "themeIds": [
+      "metaphysics"
+    ],
+    "questionZh": "形而上学意味着什么？",
+    "claimZh": "泰戈尔围绕形而上学提出了可供第一版检索的核心观点。",
+    "explanationZh": "泰戈尔的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "tagore-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "形而上学",
+      "泰戈尔"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "gandhi-religion-1",
+    "philosopherId": "gandhi",
+    "themeIds": [
+      "religion"
+    ],
+    "questionZh": "宗教意味着什么？",
+    "claimZh": "甘地围绕宗教提出了可供第一版检索的核心观点。",
+    "explanationZh": "甘地的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "gandhi-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "宗教",
+      "甘地"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "gandhi-metaphysics-2",
+    "philosopherId": "gandhi",
+    "themeIds": [
+      "metaphysics"
+    ],
+    "questionZh": "形而上学意味着什么？",
+    "claimZh": "甘地围绕形而上学提出了可供第一版检索的核心观点。",
+    "explanationZh": "甘地的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "gandhi-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "形而上学",
+      "甘地"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "ambedkar-religion-1",
+    "philosopherId": "ambedkar",
+    "themeIds": [
+      "religion"
+    ],
+    "questionZh": "宗教意味着什么？",
+    "claimZh": "安贝德卡尔围绕宗教提出了可供第一版检索的核心观点。",
+    "explanationZh": "安贝德卡尔的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "ambedkar-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "宗教",
+      "安贝德卡尔"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "ambedkar-metaphysics-2",
+    "philosopherId": "ambedkar",
+    "themeIds": [
+      "metaphysics"
+    ],
+    "questionZh": "形而上学意味着什么？",
+    "claimZh": "安贝德卡尔围绕形而上学提出了可供第一版检索的核心观点。",
+    "explanationZh": "安贝德卡尔的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "ambedkar-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "形而上学",
+      "安贝德卡尔"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "krishnamurti-religion-1",
+    "philosopherId": "krishnamurti",
+    "themeIds": [
+      "religion"
+    ],
+    "questionZh": "宗教意味着什么？",
+    "claimZh": "克里希那穆提围绕宗教提出了可供第一版检索的核心观点。",
+    "explanationZh": "克里希那穆提的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "krishnamurti-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "宗教",
+      "克里希那穆提"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "krishnamurti-metaphysics-2",
+    "philosopherId": "krishnamurti",
+    "themeIds": [
+      "metaphysics"
+    ],
+    "questionZh": "形而上学意味着什么？",
+    "claimZh": "克里希那穆提围绕形而上学提出了可供第一版检索的核心观点。",
+    "explanationZh": "克里希那穆提的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "krishnamurti-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "形而上学",
+      "克里希那穆提"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "thales-ethics-1",
+    "philosopherId": "thales",
+    "themeIds": [
+      "ethics"
+    ],
+    "questionZh": "伦理意味着什么？",
+    "claimZh": "泰勒斯围绕伦理提出了可供第一版检索的核心观点。",
+    "explanationZh": "泰勒斯的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "thales-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "伦理",
+      "泰勒斯"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "thales-metaphysics-2",
+    "philosopherId": "thales",
+    "themeIds": [
+      "metaphysics"
+    ],
+    "questionZh": "形而上学意味着什么？",
+    "claimZh": "泰勒斯围绕形而上学提出了可供第一版检索的核心观点。",
+    "explanationZh": "泰勒斯的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "thales-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "形而上学",
+      "泰勒斯"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "heraclitus-ethics-1",
+    "philosopherId": "heraclitus",
+    "themeIds": [
+      "ethics"
+    ],
+    "questionZh": "伦理意味着什么？",
+    "claimZh": "赫拉克利特围绕伦理提出了可供第一版检索的核心观点。",
+    "explanationZh": "赫拉克利特的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "heraclitus-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "伦理",
+      "赫拉克利特"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "heraclitus-metaphysics-2",
+    "philosopherId": "heraclitus",
+    "themeIds": [
+      "metaphysics"
+    ],
+    "questionZh": "形而上学意味着什么？",
+    "claimZh": "赫拉克利特围绕形而上学提出了可供第一版检索的核心观点。",
+    "explanationZh": "赫拉克利特的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "heraclitus-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "形而上学",
+      "赫拉克利特"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "parmenides-ethics-1",
+    "philosopherId": "parmenides",
+    "themeIds": [
+      "ethics"
+    ],
+    "questionZh": "伦理意味着什么？",
+    "claimZh": "巴门尼德围绕伦理提出了可供第一版检索的核心观点。",
+    "explanationZh": "巴门尼德的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "parmenides-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "伦理",
+      "巴门尼德"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "parmenides-metaphysics-2",
+    "philosopherId": "parmenides",
+    "themeIds": [
+      "metaphysics"
+    ],
+    "questionZh": "形而上学意味着什么？",
+    "claimZh": "巴门尼德围绕形而上学提出了可供第一版检索的核心观点。",
+    "explanationZh": "巴门尼德的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "parmenides-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "形而上学",
+      "巴门尼德"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "socrates-ethics-1",
+    "philosopherId": "socrates",
+    "themeIds": [
+      "ethics"
+    ],
+    "questionZh": "伦理意味着什么？",
+    "claimZh": "苏格拉底围绕伦理提出了可供第一版检索的核心观点。",
+    "explanationZh": "苏格拉底的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "socrates-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "伦理",
+      "苏格拉底"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "socrates-metaphysics-2",
+    "philosopherId": "socrates",
+    "themeIds": [
+      "metaphysics"
+    ],
+    "questionZh": "形而上学意味着什么？",
+    "claimZh": "苏格拉底围绕形而上学提出了可供第一版检索的核心观点。",
+    "explanationZh": "苏格拉底的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "socrates-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "形而上学",
+      "苏格拉底"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "plato-justice-1",
+    "philosopherId": "plato",
+    "themeIds": [
+      "justice"
+    ],
+    "questionZh": "正义意味着什么？",
+    "claimZh": "柏拉图围绕正义提出了可供第一版检索的核心观点。",
+    "explanationZh": "柏拉图的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "plato-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "正义",
+      "柏拉图"
+    ],
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "plato-knowledge-2",
+    "philosopherId": "plato",
+    "themeIds": [
+      "knowledge"
+    ],
+    "questionZh": "知识意味着什么？",
+    "claimZh": "柏拉图围绕知识提出了可供第一版检索的核心观点。",
+    "explanationZh": "柏拉图的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "plato-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "知识",
+      "柏拉图"
+    ],
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "aristotle-ethics-1",
+    "philosopherId": "aristotle",
+    "themeIds": [
+      "ethics"
+    ],
+    "questionZh": "伦理意味着什么？",
+    "claimZh": "亚里士多德围绕伦理提出了可供第一版检索的核心观点。",
+    "explanationZh": "亚里士多德的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "aristotle-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "伦理",
+      "亚里士多德"
+    ],
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "aristotle-metaphysics-2",
+    "philosopherId": "aristotle",
+    "themeIds": [
+      "metaphysics"
+    ],
+    "questionZh": "形而上学意味着什么？",
+    "claimZh": "亚里士多德围绕形而上学提出了可供第一版检索的核心观点。",
+    "explanationZh": "亚里士多德的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "aristotle-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "形而上学",
+      "亚里士多德"
+    ],
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "epicurus-ethics-1",
+    "philosopherId": "epicurus",
+    "themeIds": [
+      "ethics"
+    ],
+    "questionZh": "伦理意味着什么？",
+    "claimZh": "伊壁鸠鲁围绕伦理提出了可供第一版检索的核心观点。",
+    "explanationZh": "伊壁鸠鲁的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "epicurus-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "伦理",
+      "伊壁鸠鲁"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "epicurus-metaphysics-2",
+    "philosopherId": "epicurus",
+    "themeIds": [
+      "metaphysics"
+    ],
+    "questionZh": "形而上学意味着什么？",
+    "claimZh": "伊壁鸠鲁围绕形而上学提出了可供第一版检索的核心观点。",
+    "explanationZh": "伊壁鸠鲁的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "epicurus-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "形而上学",
+      "伊壁鸠鲁"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "zeno-citium-ethics-1",
+    "philosopherId": "zeno-citium",
+    "themeIds": [
+      "ethics"
+    ],
+    "questionZh": "伦理意味着什么？",
+    "claimZh": "芝诺围绕伦理提出了可供第一版检索的核心观点。",
+    "explanationZh": "芝诺的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "zeno-citium-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "伦理",
+      "芝诺"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "zeno-citium-metaphysics-2",
+    "philosopherId": "zeno-citium",
+    "themeIds": [
+      "metaphysics"
+    ],
+    "questionZh": "形而上学意味着什么？",
+    "claimZh": "芝诺围绕形而上学提出了可供第一版检索的核心观点。",
+    "explanationZh": "芝诺的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "zeno-citium-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "形而上学",
+      "芝诺"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "plotinus-ethics-1",
+    "philosopherId": "plotinus",
+    "themeIds": [
+      "ethics"
+    ],
+    "questionZh": "伦理意味着什么？",
+    "claimZh": "普罗提诺围绕伦理提出了可供第一版检索的核心观点。",
+    "explanationZh": "普罗提诺的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "plotinus-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "伦理",
+      "普罗提诺"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "plotinus-metaphysics-2",
+    "philosopherId": "plotinus",
+    "themeIds": [
+      "metaphysics"
+    ],
+    "questionZh": "形而上学意味着什么？",
+    "claimZh": "普罗提诺围绕形而上学提出了可供第一版检索的核心观点。",
+    "explanationZh": "普罗提诺的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "plotinus-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "形而上学",
+      "普罗提诺"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "hypatia-ethics-1",
+    "philosopherId": "hypatia",
+    "themeIds": [
+      "ethics"
+    ],
+    "questionZh": "伦理意味着什么？",
+    "claimZh": "希帕提娅围绕伦理提出了可供第一版检索的核心观点。",
+    "explanationZh": "希帕提娅的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "hypatia-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "伦理",
+      "希帕提娅"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "hypatia-metaphysics-2",
+    "philosopherId": "hypatia",
+    "themeIds": [
+      "metaphysics"
+    ],
+    "questionZh": "形而上学意味着什么？",
+    "claimZh": "希帕提娅围绕形而上学提出了可供第一版检索的核心观点。",
+    "explanationZh": "希帕提娅的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "hypatia-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "形而上学",
+      "希帕提娅"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "augustine-religion-1",
+    "philosopherId": "augustine",
+    "themeIds": [
+      "religion"
+    ],
+    "questionZh": "宗教意味着什么？",
+    "claimZh": "奥古斯丁围绕宗教提出了可供第一版检索的核心观点。",
+    "explanationZh": "奥古斯丁的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "augustine-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "宗教",
+      "奥古斯丁"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "augustine-metaphysics-2",
+    "philosopherId": "augustine",
+    "themeIds": [
+      "metaphysics"
+    ],
+    "questionZh": "形而上学意味着什么？",
+    "claimZh": "奥古斯丁围绕形而上学提出了可供第一版检索的核心观点。",
+    "explanationZh": "奥古斯丁的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "augustine-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "形而上学",
+      "奥古斯丁"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "boethius-religion-1",
+    "philosopherId": "boethius",
+    "themeIds": [
+      "religion"
+    ],
+    "questionZh": "宗教意味着什么？",
+    "claimZh": "波爱修斯围绕宗教提出了可供第一版检索的核心观点。",
+    "explanationZh": "波爱修斯的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "boethius-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "宗教",
+      "波爱修斯"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "boethius-metaphysics-2",
+    "philosopherId": "boethius",
+    "themeIds": [
+      "metaphysics"
+    ],
+    "questionZh": "形而上学意味着什么？",
+    "claimZh": "波爱修斯围绕形而上学提出了可供第一版检索的核心观点。",
+    "explanationZh": "波爱修斯的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "boethius-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "形而上学",
+      "波爱修斯"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "anselm-religion-1",
+    "philosopherId": "anselm",
+    "themeIds": [
+      "religion"
+    ],
+    "questionZh": "宗教意味着什么？",
+    "claimZh": "安瑟尔谟围绕宗教提出了可供第一版检索的核心观点。",
+    "explanationZh": "安瑟尔谟的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "anselm-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "宗教",
+      "安瑟尔谟"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "anselm-metaphysics-2",
+    "philosopherId": "anselm",
+    "themeIds": [
+      "metaphysics"
+    ],
+    "questionZh": "形而上学意味着什么？",
+    "claimZh": "安瑟尔谟围绕形而上学提出了可供第一版检索的核心观点。",
+    "explanationZh": "安瑟尔谟的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "anselm-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "形而上学",
+      "安瑟尔谟"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "aquinas-religion-1",
+    "philosopherId": "aquinas",
+    "themeIds": [
+      "religion"
+    ],
+    "questionZh": "宗教意味着什么？",
+    "claimZh": "托马斯·阿奎那围绕宗教提出了可供第一版检索的核心观点。",
+    "explanationZh": "托马斯·阿奎那的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "aquinas-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "宗教",
+      "托马斯·阿奎那"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "aquinas-metaphysics-2",
+    "philosopherId": "aquinas",
+    "themeIds": [
+      "metaphysics"
+    ],
+    "questionZh": "形而上学意味着什么？",
+    "claimZh": "托马斯·阿奎那围绕形而上学提出了可供第一版检索的核心观点。",
+    "explanationZh": "托马斯·阿奎那的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "aquinas-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "形而上学",
+      "托马斯·阿奎那"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "ockham-religion-1",
+    "philosopherId": "ockham",
+    "themeIds": [
+      "religion"
+    ],
+    "questionZh": "宗教意味着什么？",
+    "claimZh": "奥卡姆围绕宗教提出了可供第一版检索的核心观点。",
+    "explanationZh": "奥卡姆的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "ockham-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "宗教",
+      "奥卡姆"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "ockham-metaphysics-2",
+    "philosopherId": "ockham",
+    "themeIds": [
+      "metaphysics"
+    ],
+    "questionZh": "形而上学意味着什么？",
+    "claimZh": "奥卡姆围绕形而上学提出了可供第一版检索的核心观点。",
+    "explanationZh": "奥卡姆的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "ockham-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "形而上学",
+      "奥卡姆"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "erasmus-knowledge-1",
+    "philosopherId": "erasmus",
+    "themeIds": [
+      "knowledge"
+    ],
+    "questionZh": "知识意味着什么？",
+    "claimZh": "伊拉斯谟围绕知识提出了可供第一版检索的核心观点。",
+    "explanationZh": "伊拉斯谟的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "erasmus-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "知识",
+      "伊拉斯谟"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "erasmus-freedom-2",
+    "philosopherId": "erasmus",
+    "themeIds": [
+      "freedom"
+    ],
+    "questionZh": "自由意味着什么？",
+    "claimZh": "伊拉斯谟围绕自由提出了可供第一版检索的核心观点。",
+    "explanationZh": "伊拉斯谟的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "erasmus-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "自由",
+      "伊拉斯谟"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "machiavelli-knowledge-1",
+    "philosopherId": "machiavelli",
+    "themeIds": [
+      "knowledge"
+    ],
+    "questionZh": "知识意味着什么？",
+    "claimZh": "马基雅维利围绕知识提出了可供第一版检索的核心观点。",
+    "explanationZh": "马基雅维利的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "machiavelli-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "知识",
+      "马基雅维利"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "machiavelli-freedom-2",
+    "philosopherId": "machiavelli",
+    "themeIds": [
+      "freedom"
+    ],
+    "questionZh": "自由意味着什么？",
+    "claimZh": "马基雅维利围绕自由提出了可供第一版检索的核心观点。",
+    "explanationZh": "马基雅维利的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "machiavelli-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "自由",
+      "马基雅维利"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "montaigne-knowledge-1",
+    "philosopherId": "montaigne",
+    "themeIds": [
+      "knowledge"
+    ],
+    "questionZh": "知识意味着什么？",
+    "claimZh": "蒙田围绕知识提出了可供第一版检索的核心观点。",
+    "explanationZh": "蒙田的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "montaigne-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "知识",
+      "蒙田"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "montaigne-freedom-2",
+    "philosopherId": "montaigne",
+    "themeIds": [
+      "freedom"
+    ],
+    "questionZh": "自由意味着什么？",
+    "claimZh": "蒙田围绕自由提出了可供第一版检索的核心观点。",
+    "explanationZh": "蒙田的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "montaigne-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "自由",
+      "蒙田"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "bacon-knowledge-1",
+    "philosopherId": "bacon",
+    "themeIds": [
+      "knowledge"
+    ],
+    "questionZh": "知识意味着什么？",
+    "claimZh": "弗朗西斯·培根围绕知识提出了可供第一版检索的核心观点。",
+    "explanationZh": "弗朗西斯·培根的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "bacon-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "知识",
+      "弗朗西斯·培根"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "bacon-freedom-2",
+    "philosopherId": "bacon",
+    "themeIds": [
+      "freedom"
+    ],
+    "questionZh": "自由意味着什么？",
+    "claimZh": "弗朗西斯·培根围绕自由提出了可供第一版检索的核心观点。",
+    "explanationZh": "弗朗西斯·培根的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "bacon-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "自由",
+      "弗朗西斯·培根"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "hobbes-knowledge-1",
+    "philosopherId": "hobbes",
+    "themeIds": [
+      "knowledge"
+    ],
+    "questionZh": "知识意味着什么？",
+    "claimZh": "霍布斯围绕知识提出了可供第一版检索的核心观点。",
+    "explanationZh": "霍布斯的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "hobbes-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "知识",
+      "霍布斯"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "hobbes-freedom-2",
+    "philosopherId": "hobbes",
+    "themeIds": [
+      "freedom"
+    ],
+    "questionZh": "自由意味着什么？",
+    "claimZh": "霍布斯围绕自由提出了可供第一版检索的核心观点。",
+    "explanationZh": "霍布斯的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "hobbes-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "自由",
+      "霍布斯"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "descartes-knowledge-1",
+    "philosopherId": "descartes",
+    "themeIds": [
+      "knowledge"
+    ],
+    "questionZh": "知识意味着什么？",
+    "claimZh": "笛卡尔围绕知识提出了可供第一版检索的核心观点。",
+    "explanationZh": "笛卡尔的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "descartes-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "知识",
+      "笛卡尔"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "descartes-freedom-2",
+    "philosopherId": "descartes",
+    "themeIds": [
+      "freedom"
+    ],
+    "questionZh": "自由意味着什么？",
+    "claimZh": "笛卡尔围绕自由提出了可供第一版检索的核心观点。",
+    "explanationZh": "笛卡尔的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "descartes-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "自由",
+      "笛卡尔"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "spinoza-knowledge-1",
+    "philosopherId": "spinoza",
+    "themeIds": [
+      "knowledge"
+    ],
+    "questionZh": "知识意味着什么？",
+    "claimZh": "斯宾诺莎围绕知识提出了可供第一版检索的核心观点。",
+    "explanationZh": "斯宾诺莎的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "spinoza-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "知识",
+      "斯宾诺莎"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "spinoza-freedom-2",
+    "philosopherId": "spinoza",
+    "themeIds": [
+      "freedom"
+    ],
+    "questionZh": "自由意味着什么？",
+    "claimZh": "斯宾诺莎围绕自由提出了可供第一版检索的核心观点。",
+    "explanationZh": "斯宾诺莎的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "spinoza-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "自由",
+      "斯宾诺莎"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "locke-knowledge-1",
+    "philosopherId": "locke",
+    "themeIds": [
+      "knowledge"
+    ],
+    "questionZh": "知识意味着什么？",
+    "claimZh": "洛克围绕知识提出了可供第一版检索的核心观点。",
+    "explanationZh": "洛克的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "locke-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "知识",
+      "洛克"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "locke-freedom-2",
+    "philosopherId": "locke",
+    "themeIds": [
+      "freedom"
+    ],
+    "questionZh": "自由意味着什么？",
+    "claimZh": "洛克围绕自由提出了可供第一版检索的核心观点。",
+    "explanationZh": "洛克的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "locke-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "自由",
+      "洛克"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "leibniz-knowledge-1",
+    "philosopherId": "leibniz",
+    "themeIds": [
+      "knowledge"
+    ],
+    "questionZh": "知识意味着什么？",
+    "claimZh": "莱布尼茨围绕知识提出了可供第一版检索的核心观点。",
+    "explanationZh": "莱布尼茨的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "leibniz-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "知识",
+      "莱布尼茨"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "leibniz-freedom-2",
+    "philosopherId": "leibniz",
+    "themeIds": [
+      "freedom"
+    ],
+    "questionZh": "自由意味着什么？",
+    "claimZh": "莱布尼茨围绕自由提出了可供第一版检索的核心观点。",
+    "explanationZh": "莱布尼茨的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "leibniz-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "自由",
+      "莱布尼茨"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "hume-knowledge-1",
+    "philosopherId": "hume",
+    "themeIds": [
+      "knowledge"
+    ],
+    "questionZh": "知识意味着什么？",
+    "claimZh": "休谟围绕知识提出了可供第一版检索的核心观点。",
+    "explanationZh": "休谟的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "hume-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "知识",
+      "休谟"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "hume-freedom-2",
+    "philosopherId": "hume",
+    "themeIds": [
+      "freedom"
+    ],
+    "questionZh": "自由意味着什么？",
+    "claimZh": "休谟围绕自由提出了可供第一版检索的核心观点。",
+    "explanationZh": "休谟的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "hume-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "自由",
+      "休谟"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "rousseau-knowledge-1",
+    "philosopherId": "rousseau",
+    "themeIds": [
+      "knowledge"
+    ],
+    "questionZh": "知识意味着什么？",
+    "claimZh": "卢梭围绕知识提出了可供第一版检索的核心观点。",
+    "explanationZh": "卢梭的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "rousseau-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "知识",
+      "卢梭"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "rousseau-freedom-2",
+    "philosopherId": "rousseau",
+    "themeIds": [
+      "freedom"
+    ],
+    "questionZh": "自由意味着什么？",
+    "claimZh": "卢梭围绕自由提出了可供第一版检索的核心观点。",
+    "explanationZh": "卢梭的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "rousseau-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "自由",
+      "卢梭"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "kant-knowledge-1",
+    "philosopherId": "kant",
+    "themeIds": [
+      "knowledge"
+    ],
+    "questionZh": "知识意味着什么？",
+    "claimZh": "康德围绕知识提出了可供第一版检索的核心观点。",
+    "explanationZh": "康德的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "kant-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "知识",
+      "康德"
+    ],
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "kant-ethics-2",
+    "philosopherId": "kant",
+    "themeIds": [
+      "ethics"
+    ],
+    "questionZh": "伦理意味着什么？",
+    "claimZh": "康德围绕伦理提出了可供第一版检索的核心观点。",
+    "explanationZh": "康德的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "kant-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "伦理",
+      "康德"
+    ],
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "hegel-knowledge-1",
+    "philosopherId": "hegel",
+    "themeIds": [
+      "knowledge"
+    ],
+    "questionZh": "知识意味着什么？",
+    "claimZh": "黑格尔围绕知识提出了可供第一版检索的核心观点。",
+    "explanationZh": "黑格尔的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "hegel-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "知识",
+      "黑格尔"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "hegel-freedom-2",
+    "philosopherId": "hegel",
+    "themeIds": [
+      "freedom"
+    ],
+    "questionZh": "自由意味着什么？",
+    "claimZh": "黑格尔围绕自由提出了可供第一版检索的核心观点。",
+    "explanationZh": "黑格尔的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "hegel-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "自由",
+      "黑格尔"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "schopenhauer-knowledge-1",
+    "philosopherId": "schopenhauer",
+    "themeIds": [
+      "knowledge"
+    ],
+    "questionZh": "知识意味着什么？",
+    "claimZh": "叔本华围绕知识提出了可供第一版检索的核心观点。",
+    "explanationZh": "叔本华的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "schopenhauer-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "知识",
+      "叔本华"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "schopenhauer-freedom-2",
+    "philosopherId": "schopenhauer",
+    "themeIds": [
+      "freedom"
+    ],
+    "questionZh": "自由意味着什么？",
+    "claimZh": "叔本华围绕自由提出了可供第一版检索的核心观点。",
+    "explanationZh": "叔本华的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "schopenhauer-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "自由",
+      "叔本华"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "kierkegaard-knowledge-1",
+    "philosopherId": "kierkegaard",
+    "themeIds": [
+      "knowledge"
+    ],
+    "questionZh": "知识意味着什么？",
+    "claimZh": "克尔凯郭尔围绕知识提出了可供第一版检索的核心观点。",
+    "explanationZh": "克尔凯郭尔的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "kierkegaard-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "知识",
+      "克尔凯郭尔"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "kierkegaard-freedom-2",
+    "philosopherId": "kierkegaard",
+    "themeIds": [
+      "freedom"
+    ],
+    "questionZh": "自由意味着什么？",
+    "claimZh": "克尔凯郭尔围绕自由提出了可供第一版检索的核心观点。",
+    "explanationZh": "克尔凯郭尔的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "kierkegaard-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "自由",
+      "克尔凯郭尔"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "mill-knowledge-1",
+    "philosopherId": "mill",
+    "themeIds": [
+      "knowledge"
+    ],
+    "questionZh": "知识意味着什么？",
+    "claimZh": "约翰·密尔围绕知识提出了可供第一版检索的核心观点。",
+    "explanationZh": "约翰·密尔的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "mill-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "知识",
+      "约翰·密尔"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "mill-freedom-2",
+    "philosopherId": "mill",
+    "themeIds": [
+      "freedom"
+    ],
+    "questionZh": "自由意味着什么？",
+    "claimZh": "约翰·密尔围绕自由提出了可供第一版检索的核心观点。",
+    "explanationZh": "约翰·密尔的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "mill-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "自由",
+      "约翰·密尔"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "marx-knowledge-1",
+    "philosopherId": "marx",
+    "themeIds": [
+      "knowledge"
+    ],
+    "questionZh": "知识意味着什么？",
+    "claimZh": "马克思围绕知识提出了可供第一版检索的核心观点。",
+    "explanationZh": "马克思的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "marx-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "知识",
+      "马克思"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "marx-freedom-2",
+    "philosopherId": "marx",
+    "themeIds": [
+      "freedom"
+    ],
+    "questionZh": "自由意味着什么？",
+    "claimZh": "马克思围绕自由提出了可供第一版检索的核心观点。",
+    "explanationZh": "马克思的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "marx-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "自由",
+      "马克思"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "nietzsche-knowledge-1",
+    "philosopherId": "nietzsche",
+    "themeIds": [
+      "knowledge"
+    ],
+    "questionZh": "知识意味着什么？",
+    "claimZh": "尼采围绕知识提出了可供第一版检索的核心观点。",
+    "explanationZh": "尼采的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "nietzsche-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "知识",
+      "尼采"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "nietzsche-freedom-2",
+    "philosopherId": "nietzsche",
+    "themeIds": [
+      "freedom"
+    ],
+    "questionZh": "自由意味着什么？",
+    "claimZh": "尼采围绕自由提出了可供第一版检索的核心观点。",
+    "explanationZh": "尼采的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "nietzsche-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "自由",
+      "尼采"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "frege-knowledge-1",
+    "philosopherId": "frege",
+    "themeIds": [
+      "knowledge"
+    ],
+    "questionZh": "知识意味着什么？",
+    "claimZh": "弗雷格围绕知识提出了可供第一版检索的核心观点。",
+    "explanationZh": "弗雷格的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "frege-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "知识",
+      "弗雷格"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "frege-freedom-2",
+    "philosopherId": "frege",
+    "themeIds": [
+      "freedom"
+    ],
+    "questionZh": "自由意味着什么？",
+    "claimZh": "弗雷格围绕自由提出了可供第一版检索的核心观点。",
+    "explanationZh": "弗雷格的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "frege-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "自由",
+      "弗雷格"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "husserl-knowledge-1",
+    "philosopherId": "husserl",
+    "themeIds": [
+      "knowledge"
+    ],
+    "questionZh": "知识意味着什么？",
+    "claimZh": "胡塞尔围绕知识提出了可供第一版检索的核心观点。",
+    "explanationZh": "胡塞尔的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "husserl-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "知识",
+      "胡塞尔"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "husserl-freedom-2",
+    "philosopherId": "husserl",
+    "themeIds": [
+      "freedom"
+    ],
+    "questionZh": "自由意味着什么？",
+    "claimZh": "胡塞尔围绕自由提出了可供第一版检索的核心观点。",
+    "explanationZh": "胡塞尔的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "husserl-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "自由",
+      "胡塞尔"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "bergson-knowledge-1",
+    "philosopherId": "bergson",
+    "themeIds": [
+      "knowledge"
+    ],
+    "questionZh": "知识意味着什么？",
+    "claimZh": "柏格森围绕知识提出了可供第一版检索的核心观点。",
+    "explanationZh": "柏格森的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "bergson-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "知识",
+      "柏格森"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "bergson-freedom-2",
+    "philosopherId": "bergson",
+    "themeIds": [
+      "freedom"
+    ],
+    "questionZh": "自由意味着什么？",
+    "claimZh": "柏格森围绕自由提出了可供第一版检索的核心观点。",
+    "explanationZh": "柏格森的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "bergson-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "自由",
+      "柏格森"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "dewey-justice-1",
+    "philosopherId": "dewey",
+    "themeIds": [
+      "justice"
+    ],
+    "questionZh": "正义意味着什么？",
+    "claimZh": "杜威围绕正义提出了可供第一版检索的核心观点。",
+    "explanationZh": "杜威的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "dewey-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "正义",
+      "杜威"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "dewey-politics-2",
+    "philosopherId": "dewey",
+    "themeIds": [
+      "politics"
+    ],
+    "questionZh": "政治意味着什么？",
+    "claimZh": "杜威围绕政治提出了可供第一版检索的核心观点。",
+    "explanationZh": "杜威的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "dewey-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "政治",
+      "杜威"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "wittgenstein-knowledge-1",
+    "philosopherId": "wittgenstein",
+    "themeIds": [
+      "knowledge"
+    ],
+    "questionZh": "知识意味着什么？",
+    "claimZh": "维特根斯坦围绕知识提出了可供第一版检索的核心观点。",
+    "explanationZh": "维特根斯坦的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "wittgenstein-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "知识",
+      "维特根斯坦"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "wittgenstein-freedom-2",
+    "philosopherId": "wittgenstein",
+    "themeIds": [
+      "freedom"
+    ],
+    "questionZh": "自由意味着什么？",
+    "claimZh": "维特根斯坦围绕自由提出了可供第一版检索的核心观点。",
+    "explanationZh": "维特根斯坦的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "wittgenstein-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "自由",
+      "维特根斯坦"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "heidegger-knowledge-1",
+    "philosopherId": "heidegger",
+    "themeIds": [
+      "knowledge"
+    ],
+    "questionZh": "知识意味着什么？",
+    "claimZh": "海德格尔围绕知识提出了可供第一版检索的核心观点。",
+    "explanationZh": "海德格尔的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "heidegger-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "知识",
+      "海德格尔"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "heidegger-freedom-2",
+    "philosopherId": "heidegger",
+    "themeIds": [
+      "freedom"
+    ],
+    "questionZh": "自由意味着什么？",
+    "claimZh": "海德格尔围绕自由提出了可供第一版检索的核心观点。",
+    "explanationZh": "海德格尔的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "heidegger-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "自由",
+      "海德格尔"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "russell-knowledge-1",
+    "philosopherId": "russell",
+    "themeIds": [
+      "knowledge"
+    ],
+    "questionZh": "知识意味着什么？",
+    "claimZh": "罗素围绕知识提出了可供第一版检索的核心观点。",
+    "explanationZh": "罗素的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "russell-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "知识",
+      "罗素"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "russell-freedom-2",
+    "philosopherId": "russell",
+    "themeIds": [
+      "freedom"
+    ],
+    "questionZh": "自由意味着什么？",
+    "claimZh": "罗素围绕自由提出了可供第一版检索的核心观点。",
+    "explanationZh": "罗素的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "russell-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "自由",
+      "罗素"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "whitehead-knowledge-1",
+    "philosopherId": "whitehead",
+    "themeIds": [
+      "knowledge"
+    ],
+    "questionZh": "知识意味着什么？",
+    "claimZh": "怀特海围绕知识提出了可供第一版检索的核心观点。",
+    "explanationZh": "怀特海的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "whitehead-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "知识",
+      "怀特海"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "whitehead-freedom-2",
+    "philosopherId": "whitehead",
+    "themeIds": [
+      "freedom"
+    ],
+    "questionZh": "自由意味着什么？",
+    "claimZh": "怀特海围绕自由提出了可供第一版检索的核心观点。",
+    "explanationZh": "怀特海的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "whitehead-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "自由",
+      "怀特海"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "carnap-knowledge-1",
+    "philosopherId": "carnap",
+    "themeIds": [
+      "knowledge"
+    ],
+    "questionZh": "知识意味着什么？",
+    "claimZh": "卡尔纳普围绕知识提出了可供第一版检索的核心观点。",
+    "explanationZh": "卡尔纳普的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "carnap-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "知识",
+      "卡尔纳普"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "carnap-freedom-2",
+    "philosopherId": "carnap",
+    "themeIds": [
+      "freedom"
+    ],
+    "questionZh": "自由意味着什么？",
+    "claimZh": "卡尔纳普围绕自由提出了可供第一版检索的核心观点。",
+    "explanationZh": "卡尔纳普的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "carnap-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "自由",
+      "卡尔纳普"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "arendt-knowledge-1",
+    "philosopherId": "arendt",
+    "themeIds": [
+      "knowledge"
+    ],
+    "questionZh": "知识意味着什么？",
+    "claimZh": "阿伦特围绕知识提出了可供第一版检索的核心观点。",
+    "explanationZh": "阿伦特的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "arendt-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "知识",
+      "阿伦特"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "arendt-freedom-2",
+    "philosopherId": "arendt",
+    "themeIds": [
+      "freedom"
+    ],
+    "questionZh": "自由意味着什么？",
+    "claimZh": "阿伦特围绕自由提出了可供第一版检索的核心观点。",
+    "explanationZh": "阿伦特的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "arendt-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "自由",
+      "阿伦特"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "sartre-knowledge-1",
+    "philosopherId": "sartre",
+    "themeIds": [
+      "knowledge"
+    ],
+    "questionZh": "知识意味着什么？",
+    "claimZh": "萨特围绕知识提出了可供第一版检索的核心观点。",
+    "explanationZh": "萨特的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "sartre-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "知识",
+      "萨特"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "sartre-freedom-2",
+    "philosopherId": "sartre",
+    "themeIds": [
+      "freedom"
+    ],
+    "questionZh": "自由意味着什么？",
+    "claimZh": "萨特围绕自由提出了可供第一版检索的核心观点。",
+    "explanationZh": "萨特的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "sartre-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "自由",
+      "萨特"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "beauvoir-knowledge-1",
+    "philosopherId": "beauvoir",
+    "themeIds": [
+      "knowledge"
+    ],
+    "questionZh": "知识意味着什么？",
+    "claimZh": "波伏娃围绕知识提出了可供第一版检索的核心观点。",
+    "explanationZh": "波伏娃的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "beauvoir-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "知识",
+      "波伏娃"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "beauvoir-freedom-2",
+    "philosopherId": "beauvoir",
+    "themeIds": [
+      "freedom"
+    ],
+    "questionZh": "自由意味着什么？",
+    "claimZh": "波伏娃围绕自由提出了可供第一版检索的核心观点。",
+    "explanationZh": "波伏娃的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "beauvoir-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "自由",
+      "波伏娃"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "merleau-ponty-knowledge-1",
+    "philosopherId": "merleau-ponty",
+    "themeIds": [
+      "knowledge"
+    ],
+    "questionZh": "知识意味着什么？",
+    "claimZh": "梅洛-庞蒂围绕知识提出了可供第一版检索的核心观点。",
+    "explanationZh": "梅洛-庞蒂的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "merleau-ponty-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "知识",
+      "梅洛-庞蒂"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "merleau-ponty-freedom-2",
+    "philosopherId": "merleau-ponty",
+    "themeIds": [
+      "freedom"
+    ],
+    "questionZh": "自由意味着什么？",
+    "claimZh": "梅洛-庞蒂围绕自由提出了可供第一版检索的核心观点。",
+    "explanationZh": "梅洛-庞蒂的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "merleau-ponty-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "自由",
+      "梅洛-庞蒂"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "camus-knowledge-1",
+    "philosopherId": "camus",
+    "themeIds": [
+      "knowledge"
+    ],
+    "questionZh": "知识意味着什么？",
+    "claimZh": "加缪围绕知识提出了可供第一版检索的核心观点。",
+    "explanationZh": "加缪的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "camus-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "知识",
+      "加缪"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "camus-freedom-2",
+    "philosopherId": "camus",
+    "themeIds": [
+      "freedom"
+    ],
+    "questionZh": "自由意味着什么？",
+    "claimZh": "加缪围绕自由提出了可供第一版检索的核心观点。",
+    "explanationZh": "加缪的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "camus-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "自由",
+      "加缪"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "quine-justice-1",
+    "philosopherId": "quine",
+    "themeIds": [
+      "justice"
+    ],
+    "questionZh": "正义意味着什么？",
+    "claimZh": "蒯因围绕正义提出了可供第一版检索的核心观点。",
+    "explanationZh": "蒯因的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "quine-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "正义",
+      "蒯因"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "quine-politics-2",
+    "philosopherId": "quine",
+    "themeIds": [
+      "politics"
+    ],
+    "questionZh": "政治意味着什么？",
+    "claimZh": "蒯因围绕政治提出了可供第一版检索的核心观点。",
+    "explanationZh": "蒯因的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "quine-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "政治",
+      "蒯因"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "rawls-justice-1",
+    "philosopherId": "rawls",
+    "themeIds": [
+      "justice"
+    ],
+    "questionZh": "正义意味着什么？",
+    "claimZh": "罗尔斯围绕正义提出了可供第一版检索的核心观点。",
+    "explanationZh": "罗尔斯的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "rawls-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "正义",
+      "罗尔斯"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "rawls-politics-2",
+    "philosopherId": "rawls",
+    "themeIds": [
+      "politics"
+    ],
+    "questionZh": "政治意味着什么？",
+    "claimZh": "罗尔斯围绕政治提出了可供第一版检索的核心观点。",
+    "explanationZh": "罗尔斯的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "rawls-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "政治",
+      "罗尔斯"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "nozick-justice-1",
+    "philosopherId": "nozick",
+    "themeIds": [
+      "justice"
+    ],
+    "questionZh": "正义意味着什么？",
+    "claimZh": "诺齐克围绕正义提出了可供第一版检索的核心观点。",
+    "explanationZh": "诺齐克的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "nozick-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "正义",
+      "诺齐克"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "nozick-politics-2",
+    "philosopherId": "nozick",
+    "themeIds": [
+      "politics"
+    ],
+    "questionZh": "政治意味着什么？",
+    "claimZh": "诺齐克围绕政治提出了可供第一版检索的核心观点。",
+    "explanationZh": "诺齐克的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "nozick-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "政治",
+      "诺齐克"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "foucault-knowledge-1",
+    "philosopherId": "foucault",
+    "themeIds": [
+      "knowledge"
+    ],
+    "questionZh": "知识意味着什么？",
+    "claimZh": "福柯围绕知识提出了可供第一版检索的核心观点。",
+    "explanationZh": "福柯的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "foucault-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "知识",
+      "福柯"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "foucault-freedom-2",
+    "philosopherId": "foucault",
+    "themeIds": [
+      "freedom"
+    ],
+    "questionZh": "自由意味着什么？",
+    "claimZh": "福柯围绕自由提出了可供第一版检索的核心观点。",
+    "explanationZh": "福柯的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "foucault-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "自由",
+      "福柯"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "derrida-knowledge-1",
+    "philosopherId": "derrida",
+    "themeIds": [
+      "knowledge"
+    ],
+    "questionZh": "知识意味着什么？",
+    "claimZh": "德里达围绕知识提出了可供第一版检索的核心观点。",
+    "explanationZh": "德里达的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "derrida-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "知识",
+      "德里达"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "derrida-freedom-2",
+    "philosopherId": "derrida",
+    "themeIds": [
+      "freedom"
+    ],
+    "questionZh": "自由意味着什么？",
+    "claimZh": "德里达围绕自由提出了可供第一版检索的核心观点。",
+    "explanationZh": "德里达的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "derrida-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "自由",
+      "德里达"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "habermas-knowledge-1",
+    "philosopherId": "habermas",
+    "themeIds": [
+      "knowledge"
+    ],
+    "questionZh": "知识意味着什么？",
+    "claimZh": "哈贝马斯围绕知识提出了可供第一版检索的核心观点。",
+    "explanationZh": "哈贝马斯的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "habermas-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "知识",
+      "哈贝马斯"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "habermas-freedom-2",
+    "philosopherId": "habermas",
+    "themeIds": [
+      "freedom"
+    ],
+    "questionZh": "自由意味着什么？",
+    "claimZh": "哈贝马斯围绕自由提出了可供第一版检索的核心观点。",
+    "explanationZh": "哈贝马斯的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "habermas-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "自由",
+      "哈贝马斯"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "singer-ethics-1",
+    "philosopherId": "singer",
+    "themeIds": [
+      "ethics"
+    ],
+    "questionZh": "伦理意味着什么？",
+    "claimZh": "彼得·辛格围绕伦理提出了可供第一版检索的核心观点。",
+    "explanationZh": "彼得·辛格的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "singer-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "伦理",
+      "彼得·辛格"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "singer-justice-2",
+    "philosopherId": "singer",
+    "themeIds": [
+      "justice"
+    ],
+    "questionZh": "正义意味着什么？",
+    "claimZh": "彼得·辛格围绕正义提出了可供第一版检索的核心观点。",
+    "explanationZh": "彼得·辛格的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "singer-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "正义",
+      "彼得·辛格"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "nussbaum-ethics-1",
+    "philosopherId": "nussbaum",
+    "themeIds": [
+      "ethics"
+    ],
+    "questionZh": "伦理意味着什么？",
+    "claimZh": "努斯鲍姆围绕伦理提出了可供第一版检索的核心观点。",
+    "explanationZh": "努斯鲍姆的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "nussbaum-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "伦理",
+      "努斯鲍姆"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "nussbaum-justice-2",
+    "philosopherId": "nussbaum",
+    "themeIds": [
+      "justice"
+    ],
+    "questionZh": "正义意味着什么？",
+    "claimZh": "努斯鲍姆围绕正义提出了可供第一版检索的核心观点。",
+    "explanationZh": "努斯鲍姆的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "nussbaum-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "正义",
+      "努斯鲍姆"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "al-farabi-metaphysics-1",
+    "philosopherId": "al-farabi",
+    "themeIds": [
+      "metaphysics"
+    ],
+    "questionZh": "形而上学意味着什么？",
+    "claimZh": "法拉比围绕形而上学提出了可供第一版检索的核心观点。",
+    "explanationZh": "法拉比的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "al-farabi-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "形而上学",
+      "法拉比"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "al-farabi-religion-2",
+    "philosopherId": "al-farabi",
+    "themeIds": [
+      "religion"
+    ],
+    "questionZh": "宗教意味着什么？",
+    "claimZh": "法拉比围绕宗教提出了可供第一版检索的核心观点。",
+    "explanationZh": "法拉比的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "al-farabi-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "宗教",
+      "法拉比"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "ibn-sina-metaphysics-1",
+    "philosopherId": "ibn-sina",
+    "themeIds": [
+      "metaphysics"
+    ],
+    "questionZh": "形而上学意味着什么？",
+    "claimZh": "伊本·西那围绕形而上学提出了可供第一版检索的核心观点。",
+    "explanationZh": "伊本·西那的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "ibn-sina-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "形而上学",
+      "伊本·西那"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "ibn-sina-religion-2",
+    "philosopherId": "ibn-sina",
+    "themeIds": [
+      "religion"
+    ],
+    "questionZh": "宗教意味着什么？",
+    "claimZh": "伊本·西那围绕宗教提出了可供第一版检索的核心观点。",
+    "explanationZh": "伊本·西那的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "ibn-sina-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "宗教",
+      "伊本·西那"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "al-ghazali-metaphysics-1",
+    "philosopherId": "al-ghazali",
+    "themeIds": [
+      "metaphysics"
+    ],
+    "questionZh": "形而上学意味着什么？",
+    "claimZh": "安萨里围绕形而上学提出了可供第一版检索的核心观点。",
+    "explanationZh": "安萨里的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "al-ghazali-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "形而上学",
+      "安萨里"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "al-ghazali-religion-2",
+    "philosopherId": "al-ghazali",
+    "themeIds": [
+      "religion"
+    ],
+    "questionZh": "宗教意味着什么？",
+    "claimZh": "安萨里围绕宗教提出了可供第一版检索的核心观点。",
+    "explanationZh": "安萨里的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "al-ghazali-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "宗教",
+      "安萨里"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "ibn-rushd-metaphysics-1",
+    "philosopherId": "ibn-rushd",
+    "themeIds": [
+      "metaphysics"
+    ],
+    "questionZh": "形而上学意味着什么？",
+    "claimZh": "伊本·鲁世德围绕形而上学提出了可供第一版检索的核心观点。",
+    "explanationZh": "伊本·鲁世德的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "ibn-rushd-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "形而上学",
+      "伊本·鲁世德"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "ibn-rushd-religion-2",
+    "philosopherId": "ibn-rushd",
+    "themeIds": [
+      "religion"
+    ],
+    "questionZh": "宗教意味着什么？",
+    "claimZh": "伊本·鲁世德围绕宗教提出了可供第一版检索的核心观点。",
+    "explanationZh": "伊本·鲁世德的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "ibn-rushd-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "宗教",
+      "伊本·鲁世德"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "mulla-sadra-metaphysics-1",
+    "philosopherId": "mulla-sadra",
+    "themeIds": [
+      "metaphysics"
+    ],
+    "questionZh": "形而上学意味着什么？",
+    "claimZh": "穆拉·萨德拉围绕形而上学提出了可供第一版检索的核心观点。",
+    "explanationZh": "穆拉·萨德拉的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "mulla-sadra-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "形而上学",
+      "穆拉·萨德拉"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "mulla-sadra-religion-2",
+    "philosopherId": "mulla-sadra",
+    "themeIds": [
+      "religion"
+    ],
+    "questionZh": "宗教意味着什么？",
+    "claimZh": "穆拉·萨德拉围绕宗教提出了可供第一版检索的核心观点。",
+    "explanationZh": "穆拉·萨德拉的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "mulla-sadra-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "宗教",
+      "穆拉·萨德拉"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "saadia-gaon-religion-1",
+    "philosopherId": "saadia-gaon",
+    "themeIds": [
+      "religion"
+    ],
+    "questionZh": "宗教意味着什么？",
+    "claimZh": "萨阿迪亚·高昂围绕宗教提出了可供第一版检索的核心观点。",
+    "explanationZh": "萨阿迪亚·高昂的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "saadia-gaon-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "宗教",
+      "萨阿迪亚·高昂"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "saadia-gaon-ethics-2",
+    "philosopherId": "saadia-gaon",
+    "themeIds": [
+      "ethics"
+    ],
+    "questionZh": "伦理意味着什么？",
+    "claimZh": "萨阿迪亚·高昂围绕伦理提出了可供第一版检索的核心观点。",
+    "explanationZh": "萨阿迪亚·高昂的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "saadia-gaon-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "伦理",
+      "萨阿迪亚·高昂"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "maimonides-religion-1",
+    "philosopherId": "maimonides",
+    "themeIds": [
+      "religion"
+    ],
+    "questionZh": "宗教意味着什么？",
+    "claimZh": "迈蒙尼德围绕宗教提出了可供第一版检索的核心观点。",
+    "explanationZh": "迈蒙尼德的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "maimonides-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "宗教",
+      "迈蒙尼德"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "maimonides-ethics-2",
+    "philosopherId": "maimonides",
+    "themeIds": [
+      "ethics"
+    ],
+    "questionZh": "伦理意味着什么？",
+    "claimZh": "迈蒙尼德围绕伦理提出了可供第一版检索的核心观点。",
+    "explanationZh": "迈蒙尼德的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "maimonides-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "伦理",
+      "迈蒙尼德"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "buber-religion-1",
+    "philosopherId": "buber",
+    "themeIds": [
+      "religion"
+    ],
+    "questionZh": "宗教意味着什么？",
+    "claimZh": "布伯围绕宗教提出了可供第一版检索的核心观点。",
+    "explanationZh": "布伯的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "buber-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "宗教",
+      "布伯"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "buber-ethics-2",
+    "philosopherId": "buber",
+    "themeIds": [
+      "ethics"
+    ],
+    "questionZh": "伦理意味着什么？",
+    "claimZh": "布伯围绕伦理提出了可供第一版检索的核心观点。",
+    "explanationZh": "布伯的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "buber-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "伦理",
+      "布伯"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "levinas-religion-1",
+    "philosopherId": "levinas",
+    "themeIds": [
+      "religion"
+    ],
+    "questionZh": "宗教意味着什么？",
+    "claimZh": "列维纳斯围绕宗教提出了可供第一版检索的核心观点。",
+    "explanationZh": "列维纳斯的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "levinas-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "宗教",
+      "列维纳斯"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "levinas-ethics-2",
+    "philosopherId": "levinas",
+    "themeIds": [
+      "ethics"
+    ],
+    "questionZh": "伦理意味着什么？",
+    "claimZh": "列维纳斯围绕伦理提出了可供第一版检索的核心观点。",
+    "explanationZh": "列维纳斯的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "levinas-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "伦理",
+      "列维纳斯"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "dogen-religion-1",
+    "philosopherId": "dogen",
+    "themeIds": [
+      "religion"
+    ],
+    "questionZh": "宗教意味着什么？",
+    "claimZh": "道元围绕宗教提出了可供第一版检索的核心观点。",
+    "explanationZh": "道元的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "dogen-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "宗教",
+      "道元"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "dogen-aesthetics-2",
+    "philosopherId": "dogen",
+    "themeIds": [
+      "aesthetics"
+    ],
+    "questionZh": "审美意味着什么？",
+    "claimZh": "道元围绕审美提出了可供第一版检索的核心观点。",
+    "explanationZh": "道元的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "dogen-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "审美",
+      "道元"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "nishida-religion-1",
+    "philosopherId": "nishida",
+    "themeIds": [
+      "religion"
+    ],
+    "questionZh": "宗教意味着什么？",
+    "claimZh": "西田几多郎围绕宗教提出了可供第一版检索的核心观点。",
+    "explanationZh": "西田几多郎的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "nishida-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "宗教",
+      "西田几多郎"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "nishida-aesthetics-2",
+    "philosopherId": "nishida",
+    "themeIds": [
+      "aesthetics"
+    ],
+    "questionZh": "审美意味着什么？",
+    "claimZh": "西田几多郎围绕审美提出了可供第一版检索的核心观点。",
+    "explanationZh": "西田几多郎的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "nishida-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "审美",
+      "西田几多郎"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "watsuji-religion-1",
+    "philosopherId": "watsuji",
+    "themeIds": [
+      "religion"
+    ],
+    "questionZh": "宗教意味着什么？",
+    "claimZh": "和辻哲郎围绕宗教提出了可供第一版检索的核心观点。",
+    "explanationZh": "和辻哲郎的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "watsuji-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "宗教",
+      "和辻哲郎"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "watsuji-aesthetics-2",
+    "philosopherId": "watsuji",
+    "themeIds": [
+      "aesthetics"
+    ],
+    "questionZh": "审美意味着什么？",
+    "claimZh": "和辻哲郎围绕审美提出了可供第一版检索的核心观点。",
+    "explanationZh": "和辻哲郎的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "watsuji-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "审美",
+      "和辻哲郎"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "toegye-ethics-1",
+    "philosopherId": "toegye",
+    "themeIds": [
+      "ethics"
+    ],
+    "questionZh": "伦理意味着什么？",
+    "claimZh": "退溪李滉围绕伦理提出了可供第一版检索的核心观点。",
+    "explanationZh": "退溪李滉的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "toegye-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "伦理",
+      "退溪李滉"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "toegye-politics-2",
+    "philosopherId": "toegye",
+    "themeIds": [
+      "politics"
+    ],
+    "questionZh": "政治意味着什么？",
+    "claimZh": "退溪李滉围绕政治提出了可供第一版检索的核心观点。",
+    "explanationZh": "退溪李滉的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "toegye-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "政治",
+      "退溪李滉"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "yulgok-ethics-1",
+    "philosopherId": "yulgok",
+    "themeIds": [
+      "ethics"
+    ],
+    "questionZh": "伦理意味着什么？",
+    "claimZh": "栗谷李珥围绕伦理提出了可供第一版检索的核心观点。",
+    "explanationZh": "栗谷李珥的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "yulgok-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "伦理",
+      "栗谷李珥"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "yulgok-politics-2",
+    "philosopherId": "yulgok",
+    "themeIds": [
+      "politics"
+    ],
+    "questionZh": "政治意味着什么？",
+    "claimZh": "栗谷李珥围绕政治提出了可供第一版检索的核心观点。",
+    "explanationZh": "栗谷李珥的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "yulgok-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "政治",
+      "栗谷李珥"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "ibn-khaldun-metaphysics-1",
+    "philosopherId": "ibn-khaldun",
+    "themeIds": [
+      "metaphysics"
+    ],
+    "questionZh": "形而上学意味着什么？",
+    "claimZh": "伊本·赫勒敦围绕形而上学提出了可供第一版检索的核心观点。",
+    "explanationZh": "伊本·赫勒敦的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "ibn-khaldun-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "形而上学",
+      "伊本·赫勒敦"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "ibn-khaldun-religion-2",
+    "philosopherId": "ibn-khaldun",
+    "themeIds": [
+      "religion"
+    ],
+    "questionZh": "宗教意味着什么？",
+    "claimZh": "伊本·赫勒敦围绕宗教提出了可供第一版检索的核心观点。",
+    "explanationZh": "伊本·赫勒敦的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "ibn-khaldun-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "宗教",
+      "伊本·赫勒敦"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "amo-politics-1",
+    "philosopherId": "amo",
+    "themeIds": [
+      "politics"
+    ],
+    "questionZh": "政治意味着什么？",
+    "claimZh": "安东·威廉·阿莫围绕政治提出了可供第一版检索的核心观点。",
+    "explanationZh": "安东·威廉·阿莫的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "amo-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "政治",
+      "安东·威廉·阿莫"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "amo-ethics-2",
+    "philosopherId": "amo",
+    "themeIds": [
+      "ethics"
+    ],
+    "questionZh": "伦理意味着什么？",
+    "claimZh": "安东·威廉·阿莫围绕伦理提出了可供第一版检索的核心观点。",
+    "explanationZh": "安东·威廉·阿莫的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "amo-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "伦理",
+      "安东·威廉·阿莫"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "wiredu-politics-1",
+    "philosopherId": "wiredu",
+    "themeIds": [
+      "politics"
+    ],
+    "questionZh": "政治意味着什么？",
+    "claimZh": "夸西·维雷杜围绕政治提出了可供第一版检索的核心观点。",
+    "explanationZh": "夸西·维雷杜的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "wiredu-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "政治",
+      "夸西·维雷杜"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "wiredu-ethics-2",
+    "philosopherId": "wiredu",
+    "themeIds": [
+      "ethics"
+    ],
+    "questionZh": "伦理意味着什么？",
+    "claimZh": "夸西·维雷杜围绕伦理提出了可供第一版检索的核心观点。",
+    "explanationZh": "夸西·维雷杜的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "wiredu-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "伦理",
+      "夸西·维雷杜"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "senghor-politics-1",
+    "philosopherId": "senghor",
+    "themeIds": [
+      "politics"
+    ],
+    "questionZh": "政治意味着什么？",
+    "claimZh": "桑戈尔围绕政治提出了可供第一版检索的核心观点。",
+    "explanationZh": "桑戈尔的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "senghor-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "政治",
+      "桑戈尔"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "senghor-ethics-2",
+    "philosopherId": "senghor",
+    "themeIds": [
+      "ethics"
+    ],
+    "questionZh": "伦理意味着什么？",
+    "claimZh": "桑戈尔围绕伦理提出了可供第一版检索的核心观点。",
+    "explanationZh": "桑戈尔的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "senghor-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "伦理",
+      "桑戈尔"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "hountondji-politics-1",
+    "philosopherId": "hountondji",
+    "themeIds": [
+      "politics"
+    ],
+    "questionZh": "政治意味着什么？",
+    "claimZh": "洪通吉围绕政治提出了可供第一版检索的核心观点。",
+    "explanationZh": "洪通吉的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "hountondji-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "政治",
+      "洪通吉"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "hountondji-ethics-2",
+    "philosopherId": "hountondji",
+    "themeIds": [
+      "ethics"
+    ],
+    "questionZh": "伦理意味着什么？",
+    "claimZh": "洪通吉围绕伦理提出了可供第一版检索的核心观点。",
+    "explanationZh": "洪通吉的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "hountondji-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "伦理",
+      "洪通吉"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "dussel-politics-1",
+    "philosopherId": "dussel",
+    "themeIds": [
+      "politics"
+    ],
+    "questionZh": "政治意味着什么？",
+    "claimZh": "杜塞尔围绕政治提出了可供第一版检索的核心观点。",
+    "explanationZh": "杜塞尔的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "dussel-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "政治",
+      "杜塞尔"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "dussel-justice-2",
+    "philosopherId": "dussel",
+    "themeIds": [
+      "justice"
+    ],
+    "questionZh": "正义意味着什么？",
+    "claimZh": "杜塞尔围绕正义提出了可供第一版检索的核心观点。",
+    "explanationZh": "杜塞尔的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "dussel-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "正义",
+      "杜塞尔"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "zelea-politics-1",
+    "philosopherId": "zelea",
+    "themeIds": [
+      "politics"
+    ],
+    "questionZh": "政治意味着什么？",
+    "claimZh": "塞亚围绕政治提出了可供第一版检索的核心观点。",
+    "explanationZh": "塞亚的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "zelea-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "政治",
+      "塞亚"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "zelea-justice-2",
+    "philosopherId": "zelea",
+    "themeIds": [
+      "justice"
+    ],
+    "questionZh": "正义意味着什么？",
+    "claimZh": "塞亚围绕正义提出了可供第一版检索的核心观点。",
+    "explanationZh": "塞亚的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "zelea-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "正义",
+      "塞亚"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "sor-juana-politics-1",
+    "philosopherId": "sor-juana",
+    "themeIds": [
+      "politics"
+    ],
+    "questionZh": "政治意味着什么？",
+    "claimZh": "胡安娜修女围绕政治提出了可供第一版检索的核心观点。",
+    "explanationZh": "胡安娜修女的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "sor-juana-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "政治",
+      "胡安娜修女"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "sor-juana-justice-2",
+    "philosopherId": "sor-juana",
+    "themeIds": [
+      "justice"
+    ],
+    "questionZh": "正义意味着什么？",
+    "claimZh": "胡安娜修女围绕正义提出了可供第一版检索的核心观点。",
+    "explanationZh": "胡安娜修女的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "sor-juana-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "正义",
+      "胡安娜修女"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "plumwood-ethics-1",
+    "philosopherId": "plumwood",
+    "themeIds": [
+      "ethics"
+    ],
+    "questionZh": "伦理意味着什么？",
+    "claimZh": "普拉姆伍德围绕伦理提出了可供第一版检索的核心观点。",
+    "explanationZh": "普拉姆伍德的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "plumwood-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "伦理",
+      "普拉姆伍德"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "plumwood-justice-2",
+    "philosopherId": "plumwood",
+    "themeIds": [
+      "justice"
+    ],
+    "questionZh": "正义意味着什么？",
+    "claimZh": "普拉姆伍德围绕正义提出了可供第一版检索的核心观点。",
+    "explanationZh": "普拉姆伍德的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "plumwood-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "正义",
+      "普拉姆伍德"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "butler-ethics-1",
+    "philosopherId": "butler",
+    "themeIds": [
+      "ethics"
+    ],
+    "questionZh": "伦理意味着什么？",
+    "claimZh": "巴特勒围绕伦理提出了可供第一版检索的核心观点。",
+    "explanationZh": "巴特勒的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "butler-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "伦理",
+      "巴特勒"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "butler-justice-2",
+    "philosopherId": "butler",
+    "themeIds": [
+      "justice"
+    ],
+    "questionZh": "正义意味着什么？",
+    "claimZh": "巴特勒围绕正义提出了可供第一版检索的核心观点。",
+    "explanationZh": "巴特勒的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "butler-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "正义",
+      "巴特勒"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "hooks-ethics-1",
+    "philosopherId": "hooks",
+    "themeIds": [
+      "ethics"
+    ],
+    "questionZh": "伦理意味着什么？",
+    "claimZh": "贝尔·胡克斯围绕伦理提出了可供第一版检索的核心观点。",
+    "explanationZh": "贝尔·胡克斯的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "hooks-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "伦理",
+      "贝尔·胡克斯"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "hooks-justice-2",
+    "philosopherId": "hooks",
+    "themeIds": [
+      "justice"
+    ],
+    "questionZh": "正义意味着什么？",
+    "claimZh": "贝尔·胡克斯围绕正义提出了可供第一版检索的核心观点。",
+    "explanationZh": "贝尔·胡克斯的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
+    "source": {
+      "workId": "hooks-primary-work",
+      "excerptStatus": "summary_only"
+    },
+    "keywordsZh": [
+      "正义",
+      "贝尔·胡克斯"
+    ],
+    "reviewStatus": "draft"
+  }
+]

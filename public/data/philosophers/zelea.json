@@ -1,0 +1,42 @@
+{
+  "id": "zelea",
+  "names": {
+    "zh": "塞亚",
+    "en": "Leopoldo Zea"
+  },
+  "life": {
+    "display": "1912—2004",
+    "birth": 1912,
+    "death": 2004
+  },
+  "civilization": "latin_american",
+  "traditions": [
+    "latin_american_philosophy"
+  ],
+  "periods": [
+    "first_release"
+  ],
+  "themes": [
+    "politics",
+    "justice",
+    "freedom"
+  ],
+  "keywordsZh": [
+    "政治",
+    "正义",
+    "自由"
+  ],
+  "oneLineZh": "塞亚是政治、正义问题谱系中的第一版候选哲人。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "塞亚是政治、正义问题谱系中的第一版候选哲人。 本条目是第一版结构化资料，已经保留文明、传统、主题、作品和论述字段，正式发布前需要继续核对年代、文本出处和概念表述。",
+  "works": [
+    "zelea-primary-work"
+  ],
+  "sourceNotes": [
+    {
+      "label": "draft",
+      "noteZh": "条目需要人工核对作品、年代和概念表述。"
+    }
+  ]
+}

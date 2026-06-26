@@ -1,0 +1,42 @@
+{
+  "id": "dewey",
+  "names": {
+    "zh": "杜威",
+    "en": "John Dewey"
+  },
+  "life": {
+    "display": "1859—1952",
+    "birth": 1859,
+    "death": 1952
+  },
+  "civilization": "american",
+  "traditions": [
+    "american_philosophy"
+  ],
+  "periods": [
+    "first_release"
+  ],
+  "themes": [
+    "justice",
+    "politics",
+    "ethics"
+  ],
+  "keywordsZh": [
+    "正义",
+    "政治",
+    "伦理"
+  ],
+  "oneLineZh": "杜威是正义、政治问题谱系中的第一版候选哲人。",
+  "influenceWeight": 1,
+  "reviewStatus": "draft",
+  "summaryZh": "杜威是正义、政治问题谱系中的第一版候选哲人。 本条目是第一版结构化资料，已经保留文明、传统、主题、作品和论述字段，正式发布前需要继续核对年代、文本出处和概念表述。",
+  "works": [
+    "dewey-primary-work"
+  ],
+  "sourceNotes": [
+    {
+      "label": "draft",
+      "noteZh": "条目需要人工核对作品、年代和概念表述。"
+    }
+  ]
+}

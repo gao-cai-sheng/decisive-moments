@@ -1,0 +1,234 @@
+{
+  "id": "kant",
+  "names": {
+    "zh": "康德",
+    "en": "Immanuel Kant"
+  },
+  "life": {
+    "display": "1724—1804",
+    "birth": 1724,
+    "death": 1804
+  },
+  "civilization": "european_modern",
+  "traditions": [
+    "critical_philosophy"
+  ],
+  "periods": [
+    "first_release"
+  ],
+  "themes": [
+    "knowledge",
+    "ethics",
+    "freedom"
+  ],
+  "keywordsZh": [
+    "知识",
+    "伦理",
+    "自由"
+  ],
+  "oneLineZh": "以批判哲学重设知识、自由和道德法则的边界。",
+  "influenceWeight": 3,
+  "reviewStatus": "reviewed",
+  "summaryZh": "康德通过批判哲学追问经验知识何以可能，并以自律和定言命令重构现代道德主体。",
+  "works": [
+    "kant-primary-work"
+  ],
+  "sourceNotes": [
+    {
+      "label": "draft",
+      "noteZh": "条目需要人工核对作品、年代和概念表述。"
+    }
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "kant-knowledge",
+        "titleZh": "知识何以可能",
+        "questionZh": "经验知识如何可能，它依赖对象本身，还是也依赖主体的认识形式？",
+        "summaryZh": "康德把认识理解为感性形式、知性范畴和经验材料共同构成的活动。",
+        "themeIds": [
+          "knowledge",
+          "metaphysics"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "kant-synthetic-apriori",
+            "titleZh": "先天综合判断",
+            "claimZh": "数学和自然科学中的某些必然知识既扩展内容，又不完全来自经验。",
+            "explanationZh": "先天综合判断问题推动康德追问主体形式如何使经验对象成为可认识对象。",
+            "themeIds": [
+              "knowledge",
+              "metaphysics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "kant-critique-pure-reason",
+                "titleZh": "《纯粹理性批判》",
+                "summaryZh": "第一批判以先天综合判断为入口，分析数学、自然科学和形而上学的可能性。",
+                "source": {
+                  "workId": "kant-primary-work",
+                  "locator": "导论",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "kant-forms-categories",
+            "titleZh": "空间时间与范畴",
+            "claimZh": "空间和时间是感性直观形式，范畴是经验对象可被判断的知性条件。",
+            "explanationZh": "康德不是说主体任意制造世界，而是说对象作为经验对象必须经过认识形式的组织。",
+            "themeIds": [
+              "knowledge"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "kant-transcendental-aesthetic",
+                "titleZh": "先验感性论与分析论",
+                "summaryZh": "相关章节分别讨论空间时间和知性范畴在经验构成中的作用。",
+                "source": {
+                  "workId": "kant-primary-work",
+                  "locator": "先验感性论与先验分析论",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "kant-limits",
+        "titleZh": "理性的边界",
+        "questionZh": "形而上学为什么容易陷入幻相，理性应如何认识自身边界？",
+        "summaryZh": "康德限制理论理性的越界要求，使形而上学从对象独断转向条件批判。",
+        "themeIds": [
+          "metaphysics",
+          "knowledge"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "kant-phenomena-noumena",
+            "titleZh": "现象与物自身",
+            "claimZh": "人只能认识作为经验对象的现象，不能把物自身当作理论知识对象。",
+            "explanationZh": "现象和物自身的区分保护科学知识的有效性，也阻止理性把超经验对象当作已知事实。",
+            "themeIds": [
+              "metaphysics",
+              "knowledge"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "kant-noumena-source",
+                "titleZh": "现象与物自身相关章节",
+                "summaryZh": "康德通过边界划分说明经验知识的合法范围和传统形而上学的风险。",
+                "source": {
+                  "workId": "kant-primary-work",
+                  "locator": "现象与物自身讨论",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "kant-morality",
+        "titleZh": "道德法则",
+        "questionZh": "道德义务的权威来自幸福、习俗，还是理性自身的法则？",
+        "summaryZh": "康德把道德建立在理性自律和定言命令上，强调人格不是可被任意使用的工具。",
+        "themeIds": [
+          "ethics",
+          "freedom"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "kant-categorical-imperative",
+            "titleZh": "定言命令",
+            "claimZh": "道德行动应能把自己的准则同时意愿为普遍法则。",
+            "explanationZh": "定言命令要求行动者检验自身准则是否能够无矛盾地普遍化，而不是只计算后果。",
+            "themeIds": [
+              "ethics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "kant-groundwork",
+                "titleZh": "道德形而上学奠基传统",
+                "summaryZh": "康德在道德哲学文本中以定言命令说明义务和普遍法则的关系。",
+                "source": {
+                  "workId": "kant-primary-work",
+                  "locator": "定言命令相关论述",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "kant-humanity-formula",
+            "titleZh": "人是目的",
+            "claimZh": "每个人都应被同时作为目的对待，而不能只被当作工具。",
+            "explanationZh": "人格尊严来自理性自律能力，因此道德共同体必须承认每个人的目的地位。",
+            "themeIds": [
+              "ethics",
+              "justice"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "kant-humanity-source",
+                "titleZh": "人性公式",
+                "summaryZh": "人性公式把尊严和工具化问题放在康德道德哲学的核心位置。",
+                "source": {
+                  "workId": "kant-primary-work",
+                  "locator": "人性公式",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "kant-freedom-judgment",
+        "titleZh": "自由与判断力",
+        "questionZh": "人在自然因果世界中如何理解自由、审美和目的性经验？",
+        "summaryZh": "康德用实践理性和判断力把自然、自由与审美经验之间的断裂重新连接。",
+        "themeIds": [
+          "freedom",
+          "aesthetics"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "kant-autonomy",
+            "titleZh": "自由即自律",
+            "claimZh": "真正的自由不是任意选择，而是理性给自己立法的自律能力。",
+            "explanationZh": "康德把自由从欲望满足转向法则自立，使道德责任成为可能。",
+            "themeIds": [
+              "freedom",
+              "ethics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "kant-autonomy-source",
+                "titleZh": "自律相关论述",
+                "summaryZh": "康德在实践哲学中把自由、自律和道德法则互相解释。",
+                "source": {
+                  "workId": "kant-primary-work",
+                  "locator": "自律相关论述",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

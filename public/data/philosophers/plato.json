@@ -1,0 +1,236 @@
+{
+  "id": "plato",
+  "names": {
+    "zh": "柏拉图",
+    "en": "Plato"
+  },
+  "life": {
+    "display": "约公元前 428—前 348",
+    "birth": -428,
+    "death": -348
+  },
+  "civilization": "ancient_greek",
+  "traditions": [
+    "platonism"
+  ],
+  "periods": [
+    "first_release"
+  ],
+  "themes": [
+    "justice",
+    "knowledge",
+    "metaphysics"
+  ],
+  "keywordsZh": [
+    "正义",
+    "知识",
+    "形而上学"
+  ],
+  "oneLineZh": "以理念论和《理想国》构成西方哲学核心源头之一。",
+  "influenceWeight": 3,
+  "reviewStatus": "reviewed",
+  "summaryZh": "柏拉图通过对话录保存并重构苏格拉底的问题意识，以理念论、灵魂论和城邦正义构成西方哲学长期讨论的基本框架。",
+  "works": [
+    "plato-primary-work"
+  ],
+  "sourceNotes": [
+    {
+      "label": "draft",
+      "noteZh": "条目需要人工核对作品、年代和概念表述。"
+    }
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "plato-forms",
+        "titleZh": "理念与真实",
+        "questionZh": "真正的存在是可感事物，还是高于经验世界的理念？",
+        "summaryZh": "柏拉图区分可感世界与理念世界，以解释知识、价值和秩序为何不只是流变经验。",
+        "themeIds": [
+          "metaphysics",
+          "knowledge"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "plato-forms-intelligible",
+            "titleZh": "理念高于可感事物",
+            "claimZh": "可感事物不断变化，真正可知的是稳定的理念结构。",
+            "explanationZh": "理念论让知识拥有稳定对象，也让正义、美和善不只是个人意见。",
+            "themeIds": [
+              "metaphysics",
+              "knowledge"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "plato-forms-republic",
+                "titleZh": "《理想国》中的理念讨论",
+                "summaryZh": "《理想国》以太阳、线段和洞穴等比喻说明可见世界与可知世界的层级差别。",
+                "source": {
+                  "workId": "plato-primary-work",
+                  "locator": "《理想国》中卷",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "plato-good-source",
+            "titleZh": "善的理念是最高原则",
+            "claimZh": "善的理念使知识对象可知，也使认识者能够认识。",
+            "explanationZh": "善不是普通价值之一，而是让真理、存在和秩序能够显现的最高原则。",
+            "themeIds": [
+              "metaphysics",
+              "ethics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "plato-good-sun",
+                "titleZh": "太阳比喻",
+                "summaryZh": "太阳比喻把善呈现为让可知对象与认识能力同时成立的源头。",
+                "source": {
+                  "workId": "plato-primary-work",
+                  "locator": "太阳比喻",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "plato-justice",
+        "titleZh": "正义与秩序",
+        "questionZh": "正义是个人利益的妥协，还是灵魂和城邦的内在秩序？",
+        "summaryZh": "柏拉图把城邦结构与灵魂结构互相映照，主张正义是各部分按其本分行动。",
+        "themeIds": [
+          "justice",
+          "politics"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "plato-justice-order",
+            "titleZh": "正义即各安其位",
+            "claimZh": "正义不是强者利益，而是城邦与灵魂各部分各安其位。",
+            "explanationZh": "当欲望、激情和理性各自履行合宜功能时，个人和政治共同体才可能有秩序。",
+            "themeIds": [
+              "justice",
+              "politics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "plato-justice-book-iv",
+                "titleZh": "《理想国》第四卷",
+                "summaryZh": "第四卷通过城邦阶层和灵魂部分的对应关系定义正义。",
+                "source": {
+                  "workId": "plato-primary-work",
+                  "locator": "第四卷",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "plato-philosopher-rule",
+            "titleZh": "哲人应治理城邦",
+            "claimZh": "只有认识善与理念的人，才有资格判断城邦应当如何被治理。",
+            "explanationZh": "哲人王设想把政治权力和关于善的知识连接起来，回应意见政治的危险。",
+            "themeIds": [
+              "politics",
+              "knowledge"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "plato-philosopher-king",
+                "titleZh": "哲人王论述",
+                "summaryZh": "柏拉图把真正的政治技艺理解为以善为尺度的知识，而不只是权术。",
+                "source": {
+                  "workId": "plato-primary-work",
+                  "locator": "哲人王段落",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "plato-soul",
+        "titleZh": "灵魂与教育",
+        "questionZh": "人如何从意见转向知识，并让灵魂获得秩序？",
+        "summaryZh": "柏拉图把哲学教育理解为灵魂转向，使人从影像和意见走向理念知识。",
+        "themeIds": [
+          "knowledge",
+          "ethics"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "plato-cave-turning",
+            "titleZh": "教育是灵魂转向",
+            "claimZh": "教育不是灌输信息，而是使灵魂整体转向真实之物。",
+            "explanationZh": "洞穴比喻把学习描写为艰难的方向转换，强调哲学教育改变人的观看方式。",
+            "themeIds": [
+              "knowledge",
+              "ethics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "plato-cave",
+                "titleZh": "洞穴比喻",
+                "summaryZh": "洞穴比喻说明人从影像、信念到知识的转变，同时暗示哲学家的政治责任。",
+                "source": {
+                  "workId": "plato-primary-work",
+                  "locator": "洞穴比喻",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "plato-dialogue",
+        "titleZh": "对话与哲学方法",
+        "questionZh": "哲学为什么以对话和追问展开，而不是直接给出教条？",
+        "summaryZh": "柏拉图通过对话形式保留问题的张力，使概念在反驳、辨析和转向中逐步显露。",
+        "themeIds": [
+          "language",
+          "knowledge"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "plato-dialectic",
+            "titleZh": "辩证法清理意见",
+            "claimZh": "哲学对话通过追问和反驳，把未经检验的意见推进为更清楚的概念。",
+            "explanationZh": "辩证法不是单纯争胜，而是让灵魂从习惯性意见中脱离出来的训练。",
+            "themeIds": [
+              "language",
+              "knowledge"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "plato-dialogues-method",
+                "titleZh": "柏拉图对话录传统",
+                "summaryZh": "对话录形式不断展示定义、反例、修正和重新提问的哲学运动。",
+                "source": {
+                  "workId": "plato-primary-work",
+                  "locator": "对话方法",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "socrates",
+  "names": {
+    "zh": "苏格拉底",
+    "en": "Socrates"
+  },
+  "life": {
+    "display": "前 469—前 399",
+    "birth": -469,
+    "death": -399
+  },
+  "civilization": "ancient_greek",
+  "traditions": [
+    "ancient_greek_philosophy"
+  ],
+  "periods": [
+    "first_release"
+  ],
+  "themes": [
+    "ethics",
+    "metaphysics",
+    "knowledge"
+  ],
+  "keywordsZh": [
+    "伦理",
+    "形而上学",
+    "知识"
+  ],
+  "oneLineZh": "苏格拉底是伦理、形而上学问题谱系中的第一版候选哲人。",
+  "influenceWeight": 3,
+  "reviewStatus": "draft",
+  "summaryZh": "苏格拉底是伦理、形而上学问题谱系中的第一版候选哲人。 本条目是第一版结构化资料，已经保留文明、传统、主题、作品和论述字段，正式发布前需要继续核对年代、文本出处和概念表述。",
+  "works": [
+    "socrates-primary-work"
+  ],
+  "sourceNotes": [
+    {
+      "label": "draft",
+      "noteZh": "条目需要人工核对作品、年代和概念表述。"
+    }
+  ]
+}

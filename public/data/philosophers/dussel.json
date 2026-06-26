@@ -1,0 +1,42 @@
+{
+  "id": "dussel",
+  "names": {
+    "zh": "杜塞尔",
+    "en": "Enrique Dussel"
+  },
+  "life": {
+    "display": "1934—2023",
+    "birth": 1934,
+    "death": 2023
+  },
+  "civilization": "latin_american",
+  "traditions": [
+    "latin_american_philosophy"
+  ],
+  "periods": [
+    "first_release"
+  ],
+  "themes": [
+    "politics",
+    "justice",
+    "freedom"
+  ],
+  "keywordsZh": [
+    "政治",
+    "正义",
+    "自由"
+  ],
+  "oneLineZh": "杜塞尔是政治、正义问题谱系中的第一版候选哲人。",
+  "influenceWeight": 1,
+  "reviewStatus": "draft",
+  "summaryZh": "杜塞尔是政治、正义问题谱系中的第一版候选哲人。 本条目是第一版结构化资料，已经保留文明、传统、主题、作品和论述字段，正式发布前需要继续核对年代、文本出处和概念表述。",
+  "works": [
+    "dussel-primary-work"
+  ],
+  "sourceNotes": [
+    {
+      "label": "draft",
+      "noteZh": "条目需要人工核对作品、年代和概念表述。"
+    }
+  ]
+}

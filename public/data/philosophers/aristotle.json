@@ -1,0 +1,42 @@
+{
+  "id": "aristotle",
+  "names": {
+    "zh": "亚里士多德",
+    "en": "Aristotle"
+  },
+  "life": {
+    "display": "前 384—前 322",
+    "birth": -384,
+    "death": -322
+  },
+  "civilization": "ancient_greek",
+  "traditions": [
+    "peripatetic"
+  ],
+  "periods": [
+    "first_release"
+  ],
+  "themes": [
+    "ethics",
+    "metaphysics",
+    "politics"
+  ],
+  "keywordsZh": [
+    "伦理",
+    "形而上学",
+    "政治"
+  ],
+  "oneLineZh": "以实体、目的因和德性伦理建立系统哲学框架。",
+  "influenceWeight": 3,
+  "reviewStatus": "reviewed",
+  "summaryZh": "亚里士多德把逻辑、自然、形而上学、伦理和政治组织成系统研究，强调实体、目的和实践德性的解释力。",
+  "works": [
+    "aristotle-primary-work"
+  ],
+  "sourceNotes": [
+    {
+      "label": "draft",
+      "noteZh": "条目需要人工核对作品、年代和概念表述。"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ibn-sina",
+  "names": {
+    "zh": "伊本·西那",
+    "en": "Ibn Sina"
+  },
+  "life": {
+    "display": "980—1037",
+    "birth": 980,
+    "death": 1037
+  },
+  "civilization": "islamic",
+  "traditions": [
+    "islamic_philosophy"
+  ],
+  "periods": [
+    "first_release"
+  ],
+  "themes": [
+    "metaphysics",
+    "religion",
+    "politics"
+  ],
+  "keywordsZh": [
+    "形而上学",
+    "宗教",
+    "政治"
+  ],
+  "oneLineZh": "伊本·西那是形而上学、宗教问题谱系中的第一版候选哲人。",
+  "influenceWeight": 1,
+  "reviewStatus": "draft",
+  "summaryZh": "伊本·西那是形而上学、宗教问题谱系中的第一版候选哲人。 本条目是第一版结构化资料，已经保留文明、传统、主题、作品和论述字段，正式发布前需要继续核对年代、文本出处和概念表述。",
+  "works": [
+    "ibn-sina-primary-work"
+  ],
+  "sourceNotes": [
+    {
+      "label": "draft",
+      "noteZh": "条目需要人工核对作品、年代和概念表述。"
+    }
+  ]
+}

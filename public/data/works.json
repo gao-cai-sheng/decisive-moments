@@ -1,0 +1,727 @@
+[
+  {
+    "id": "confucius-primary-work",
+    "philosopherId": "confucius",
+    "titleZh": "孔子代表文本",
+    "titleEn": "Confucius primary text",
+    "noteZh": "第一版用于展示的种子文本，审核时替换为具体作品。"
+  },
+  {
+    "id": "laozi-primary-work",
+    "philosopherId": "laozi",
+    "titleZh": "老子代表文本",
+    "titleEn": "Laozi primary text",
+    "noteZh": "第一版用于展示的种子文本，审核时替换为具体作品。"
+  },
+  {
+    "id": "zhuangzi-primary-work",
+    "philosopherId": "zhuangzi",
+    "titleZh": "庄子代表文本",
+    "titleEn": "Zhuangzi primary text",
+    "noteZh": "第一版用于展示的种子文本，审核时替换为具体作品。"
+  },
+  {
+    "id": "mozi-primary-work",
+    "philosopherId": "mozi",
+    "titleZh": "墨子代表文本",
+    "titleEn": "Mozi primary text",
+    "noteZh": "第一版用于展示的种子文本，审核时替换为具体作品。"
+  },
+  {
+    "id": "mencius-primary-work",
+    "philosopherId": "mencius",
+    "titleZh": "孟子代表文本",
+    "titleEn": "Mencius primary text",
+    "noteZh": "第一版用于展示的种子文本，审核时替换为具体作品。"
+  },
+  {
+    "id": "xunzi-primary-work",
+    "philosopherId": "xunzi",
+    "titleZh": "荀子代表文本",
+    "titleEn": "Xunzi primary text",
+    "noteZh": "第一版用于展示的种子文本，审核时替换为具体作品。"
+  },
+  {
+    "id": "wang-yangming-primary-work",
+    "philosopherId": "wang-yangming",
+    "titleZh": "王阳明代表文本",
+    "titleEn": "Wang Yangming primary text",
+    "noteZh": "第一版用于展示的种子文本，审核时替换为具体作品。"
+  },
+  {
+    "id": "zhu-xi-primary-work",
+    "philosopherId": "zhu-xi",
+    "titleZh": "朱熹代表文本",
+    "titleEn": "Zhu Xi primary text",
+    "noteZh": "第一版用于展示的种子文本，审核时替换为具体作品。"
+  },
+  {
+    "id": "hu-shi-primary-work",
+    "philosopherId": "hu-shi",
+    "titleZh": "胡适代表文本",
+    "titleEn": "Hu Shih primary text",
+    "noteZh": "第一版用于展示的种子文本，审核时替换为具体作品。"
+  },
+  {
+    "id": "liang-shuming-primary-work",
+    "philosopherId": "liang-shuming",
+    "titleZh": "梁漱溟代表文本",
+    "titleEn": "Liang Shuming primary text",
+    "noteZh": "第一版用于展示的种子文本，审核时替换为具体作品。"
+  },
+  {
+    "id": "dhammacakkappavattana-sutta",
+    "philosopherId": "buddha",
+    "titleZh": "转法轮经",
+    "titleEn": "Dhammacakkappavattana Sutta",
+    "originalTitle": "Dhammacakkappavattana Sutta / Dharmacakrapravartana Sūtra",
+    "noteZh": "早期佛教传统中关于初转法轮的核心文本，常用于组织四圣谛、中道和八正道。"
+  },
+  {
+    "id": "anattalakkhana-sutta",
+    "philosopherId": "buddha",
+    "titleZh": "无我相经",
+    "titleEn": "Anattalakkhaṇa Sutta",
+    "originalTitle": "Anattalakkhaṇa Sutta",
+    "noteZh": "围绕五蕴无我展开的早期佛教文本，是组织无我和执取问题的重要依据。"
+  },
+  {
+    "id": "kaccanagotta-sutta",
+    "philosopherId": "buddha",
+    "titleZh": "迦旃延经",
+    "titleEn": "Kaccānagotta Sutta",
+    "originalTitle": "Kaccānagotta Sutta",
+    "noteZh": "以缘起说明正见如何避开有与无两端，为佛教中道形而上学提供关键线索。"
+  },
+  {
+    "id": "mahaparinibbana-sutta",
+    "philosopherId": "buddha",
+    "titleZh": "大般涅槃经",
+    "titleEn": "Mahāparinibbāna Sutta",
+    "originalTitle": "Mahāparinibbāna Sutta",
+    "noteZh": "记录佛陀晚年和入灭传统，适合组织无常、传承、涅槃和修行共同体相关问题。"
+  },
+  {
+    "id": "mahavira-primary-work",
+    "philosopherId": "mahavira",
+    "titleZh": "摩诃毗罗代表文本",
+    "titleEn": "Mahavira primary text",
+    "noteZh": "第一版用于展示的种子文本，审核时替换为具体作品。"
+  },
+  {
+    "id": "nagarjuna-primary-work",
+    "philosopherId": "nagarjuna",
+    "titleZh": "龙树代表文本",
+    "titleEn": "Nagarjuna primary text",
+    "noteZh": "第一版用于展示的种子文本，审核时替换为具体作品。"
+  },
+  {
+    "id": "vasubandhu-primary-work",
+    "philosopherId": "vasubandhu",
+    "titleZh": "世亲代表文本",
+    "titleEn": "Vasubandhu primary text",
+    "noteZh": "第一版用于展示的种子文本，审核时替换为具体作品。"
+  },
+  {
+    "id": "adi-shankara-primary-work",
+    "philosopherId": "adi-shankara",
+    "titleZh": "商羯罗代表文本",
+    "titleEn": "Adi Shankara primary text",
+    "noteZh": "第一版用于展示的种子文本，审核时替换为具体作品。"
+  },
+  {
+    "id": "ramanuja-primary-work",
+    "philosopherId": "ramanuja",
+    "titleZh": "罗摩奴阇代表文本",
+    "titleEn": "Ramanuja primary text",
+    "noteZh": "第一版用于展示的种子文本，审核时替换为具体作品。"
+  },
+  {
+    "id": "tagore-primary-work",
+    "philosopherId": "tagore",
+    "titleZh": "泰戈尔代表文本",
+    "titleEn": "Rabindranath Tagore primary text",
+    "noteZh": "第一版用于展示的种子文本，审核时替换为具体作品。"
+  },
+  {
+    "id": "gandhi-primary-work",
+    "philosopherId": "gandhi",
+    "titleZh": "甘地代表文本",
+    "titleEn": "M. K. Gandhi primary text",
+    "noteZh": "第一版用于展示的种子文本，审核时替换为具体作品。"
+  },
+  {
+    "id": "ambedkar-primary-work",
+    "philosopherId": "ambedkar",
+    "titleZh": "安贝德卡尔代表文本",
+    "titleEn": "B. R. Ambedkar primary text",
+    "noteZh": "第一版用于展示的种子文本，审核时替换为具体作品。"
+  },
+  {
+    "id": "krishnamurti-primary-work",
+    "philosopherId": "krishnamurti",
+    "titleZh": "克里希那穆提代表文本",
+    "titleEn": "Jiddu Krishnamurti primary text",
+    "noteZh": "第一版用于展示的种子文本，审核时替换为具体作品。"
+  },
+  {
+    "id": "thales-primary-work",
+    "philosopherId": "thales",
+    "titleZh": "泰勒斯代表文本",
+    "titleEn": "Thales primary text",
+    "noteZh": "第一版用于展示的种子文本，审核时替换为具体作品。"
+  },
+  {
+    "id": "heraclitus-primary-work",
+    "philosopherId": "heraclitus",
+    "titleZh": "赫拉克利特代表文本",
+    "titleEn": "Heraclitus primary text",
+    "noteZh": "第一版用于展示的种子文本，审核时替换为具体作品。"
+  },
+  {
+    "id": "parmenides-primary-work",
+    "philosopherId": "parmenides",
+    "titleZh": "巴门尼德代表文本",
+    "titleEn": "Parmenides primary text",
+    "noteZh": "第一版用于展示的种子文本，审核时替换为具体作品。"
+  },
+  {
+    "id": "socrates-primary-work",
+    "philosopherId": "socrates",
+    "titleZh": "苏格拉底代表文本",
+    "titleEn": "Socrates primary text",
+    "noteZh": "第一版用于展示的种子文本，审核时替换为具体作品。"
+  },
+  {
+    "id": "plato-primary-work",
+    "philosopherId": "plato",
+    "titleZh": "柏拉图代表文本",
+    "titleEn": "Plato primary text",
+    "noteZh": "第一版用于展示的种子文本，审核时替换为具体作品。"
+  },
+  {
+    "id": "aristotle-primary-work",
+    "philosopherId": "aristotle",
+    "titleZh": "亚里士多德代表文本",
+    "titleEn": "Aristotle primary text",
+    "noteZh": "第一版用于展示的种子文本，审核时替换为具体作品。"
+  },
+  {
+    "id": "epicurus-primary-work",
+    "philosopherId": "epicurus",
+    "titleZh": "伊壁鸠鲁代表文本",
+    "titleEn": "Epicurus primary text",
+    "noteZh": "第一版用于展示的种子文本，审核时替换为具体作品。"
+  },
+  {
+    "id": "zeno-citium-primary-work",
+    "philosopherId": "zeno-citium",
+    "titleZh": "芝诺代表文本",
+    "titleEn": "Zeno of Citium primary text",
+    "noteZh": "第一版用于展示的种子文本，审核时替换为具体作品。"
+  },
+  {
+    "id": "plotinus-primary-work",
+    "philosopherId": "plotinus",
+    "titleZh": "普罗提诺代表文本",
+    "titleEn": "Plotinus primary text",
+    "noteZh": "第一版用于展示的种子文本，审核时替换为具体作品。"
+  },
+  {
+    "id": "hypatia-primary-work",
+    "philosopherId": "hypatia",
+    "titleZh": "希帕提娅代表文本",
+    "titleEn": "Hypatia primary text",
+    "noteZh": "第一版用于展示的种子文本，审核时替换为具体作品。"
+  },
+  {
+    "id": "augustine-primary-work",
+    "philosopherId": "augustine",
+    "titleZh": "奥古斯丁代表文本",
+    "titleEn": "Augustine of Hippo primary text",
+    "noteZh": "第一版用于展示的种子文本，审核时替换为具体作品。"
+  },
+  {
+    "id": "boethius-primary-work",
+    "philosopherId": "boethius",
+    "titleZh": "波爱修斯代表文本",
+    "titleEn": "Boethius primary text",
+    "noteZh": "第一版用于展示的种子文本，审核时替换为具体作品。"
+  },
+  {
+    "id": "anselm-primary-work",
+    "philosopherId": "anselm",
+    "titleZh": "安瑟尔谟代表文本",
+    "titleEn": "Anselm of Canterbury primary text",
+    "noteZh": "第一版用于展示的种子文本，审核时替换为具体作品。"
+  },
+  {
+    "id": "aquinas-primary-work",
+    "philosopherId": "aquinas",
+    "titleZh": "托马斯·阿奎那代表文本",
+    "titleEn": "Thomas Aquinas primary text",
+    "noteZh": "第一版用于展示的种子文本，审核时替换为具体作品。"
+  },
+  {
+    "id": "ockham-primary-work",
+    "philosopherId": "ockham",
+    "titleZh": "奥卡姆代表文本",
+    "titleEn": "William of Ockham primary text",
+    "noteZh": "第一版用于展示的种子文本，审核时替换为具体作品。"
+  },
+  {
+    "id": "erasmus-primary-work",
+    "philosopherId": "erasmus",
+    "titleZh": "伊拉斯谟代表文本",
+    "titleEn": "Erasmus primary text",
+    "noteZh": "第一版用于展示的种子文本，审核时替换为具体作品。"
+  },
+  {
+    "id": "machiavelli-primary-work",
+    "philosopherId": "machiavelli",
+    "titleZh": "马基雅维利代表文本",
+    "titleEn": "Niccolo Machiavelli primary text",
+    "noteZh": "第一版用于展示的种子文本，审核时替换为具体作品。"
+  },
+  {
+    "id": "montaigne-primary-work",
+    "philosopherId": "montaigne",
+    "titleZh": "蒙田代表文本",
+    "titleEn": "Michel de Montaigne primary text",
+    "noteZh": "第一版用于展示的种子文本，审核时替换为具体作品。"
+  },
+  {
+    "id": "bacon-primary-work",
+    "philosopherId": "bacon",
+    "titleZh": "弗朗西斯·培根代表文本",
+    "titleEn": "Francis Bacon primary text",
+    "noteZh": "第一版用于展示的种子文本，审核时替换为具体作品。"
+  },
+  {
+    "id": "hobbes-primary-work",
+    "philosopherId": "hobbes",
+    "titleZh": "霍布斯代表文本",
+    "titleEn": "Thomas Hobbes primary text",
+    "noteZh": "第一版用于展示的种子文本，审核时替换为具体作品。"
+  },
+  {
+    "id": "descartes-primary-work",
+    "philosopherId": "descartes",
+    "titleZh": "笛卡尔代表文本",
+    "titleEn": "Rene Descartes primary text",
+    "noteZh": "第一版用于展示的种子文本，审核时替换为具体作品。"
+  },
+  {
+    "id": "spinoza-primary-work",
+    "philosopherId": "spinoza",
+    "titleZh": "斯宾诺莎代表文本",
+    "titleEn": "Baruch Spinoza primary text",
+    "noteZh": "第一版用于展示的种子文本，审核时替换为具体作品。"
+  },
+  {
+    "id": "locke-primary-work",
+    "philosopherId": "locke",
+    "titleZh": "洛克代表文本",
+    "titleEn": "John Locke primary text",
+    "noteZh": "第一版用于展示的种子文本，审核时替换为具体作品。"
+  },
+  {
+    "id": "leibniz-primary-work",
+    "philosopherId": "leibniz",
+    "titleZh": "莱布尼茨代表文本",
+    "titleEn": "G. W. Leibniz primary text",
+    "noteZh": "第一版用于展示的种子文本，审核时替换为具体作品。"
+  },
+  {
+    "id": "hume-primary-work",
+    "philosopherId": "hume",
+    "titleZh": "休谟代表文本",
+    "titleEn": "David Hume primary text",
+    "noteZh": "第一版用于展示的种子文本，审核时替换为具体作品。"
+  },
+  {
+    "id": "rousseau-primary-work",
+    "philosopherId": "rousseau",
+    "titleZh": "卢梭代表文本",
+    "titleEn": "Jean-Jacques Rousseau primary text",
+    "noteZh": "第一版用于展示的种子文本，审核时替换为具体作品。"
+  },
+  {
+    "id": "kant-primary-work",
+    "philosopherId": "kant",
+    "titleZh": "康德代表文本",
+    "titleEn": "Immanuel Kant primary text",
+    "noteZh": "第一版用于展示的种子文本，审核时替换为具体作品。"
+  },
+  {
+    "id": "hegel-primary-work",
+    "philosopherId": "hegel",
+    "titleZh": "黑格尔代表文本",
+    "titleEn": "G. W. F. Hegel primary text",
+    "noteZh": "第一版用于展示的种子文本，审核时替换为具体作品。"
+  },
+  {
+    "id": "schopenhauer-primary-work",
+    "philosopherId": "schopenhauer",
+    "titleZh": "叔本华代表文本",
+    "titleEn": "Arthur Schopenhauer primary text",
+    "noteZh": "第一版用于展示的种子文本，审核时替换为具体作品。"
+  },
+  {
+    "id": "kierkegaard-primary-work",
+    "philosopherId": "kierkegaard",
+    "titleZh": "克尔凯郭尔代表文本",
+    "titleEn": "Soren Kierkegaard primary text",
+    "noteZh": "第一版用于展示的种子文本，审核时替换为具体作品。"
+  },
+  {
+    "id": "mill-primary-work",
+    "philosopherId": "mill",
+    "titleZh": "约翰·密尔代表文本",
+    "titleEn": "John Stuart Mill primary text",
+    "noteZh": "第一版用于展示的种子文本，审核时替换为具体作品。"
+  },
+  {
+    "id": "marx-primary-work",
+    "philosopherId": "marx",
+    "titleZh": "马克思代表文本",
+    "titleEn": "Karl Marx primary text",
+    "noteZh": "第一版用于展示的种子文本，审核时替换为具体作品。"
+  },
+  {
+    "id": "nietzsche-primary-work",
+    "philosopherId": "nietzsche",
+    "titleZh": "尼采代表文本",
+    "titleEn": "Friedrich Nietzsche primary text",
+    "noteZh": "第一版用于展示的种子文本，审核时替换为具体作品。"
+  },
+  {
+    "id": "frege-primary-work",
+    "philosopherId": "frege",
+    "titleZh": "弗雷格代表文本",
+    "titleEn": "Gottlob Frege primary text",
+    "noteZh": "第一版用于展示的种子文本，审核时替换为具体作品。"
+  },
+  {
+    "id": "husserl-primary-work",
+    "philosopherId": "husserl",
+    "titleZh": "胡塞尔代表文本",
+    "titleEn": "Edmund Husserl primary text",
+    "noteZh": "第一版用于展示的种子文本，审核时替换为具体作品。"
+  },
+  {
+    "id": "bergson-primary-work",
+    "philosopherId": "bergson",
+    "titleZh": "柏格森代表文本",
+    "titleEn": "Henri Bergson primary text",
+    "noteZh": "第一版用于展示的种子文本，审核时替换为具体作品。"
+  },
+  {
+    "id": "dewey-primary-work",
+    "philosopherId": "dewey",
+    "titleZh": "杜威代表文本",
+    "titleEn": "John Dewey primary text",
+    "noteZh": "第一版用于展示的种子文本，审核时替换为具体作品。"
+  },
+  {
+    "id": "wittgenstein-primary-work",
+    "philosopherId": "wittgenstein",
+    "titleZh": "维特根斯坦代表文本",
+    "titleEn": "Ludwig Wittgenstein primary text",
+    "noteZh": "第一版用于展示的种子文本，审核时替换为具体作品。"
+  },
+  {
+    "id": "heidegger-primary-work",
+    "philosopherId": "heidegger",
+    "titleZh": "海德格尔代表文本",
+    "titleEn": "Martin Heidegger primary text",
+    "noteZh": "第一版用于展示的种子文本，审核时替换为具体作品。"
+  },
+  {
+    "id": "russell-primary-work",
+    "philosopherId": "russell",
+    "titleZh": "罗素代表文本",
+    "titleEn": "Bertrand Russell primary text",
+    "noteZh": "第一版用于展示的种子文本，审核时替换为具体作品。"
+  },
+  {
+    "id": "whitehead-primary-work",
+    "philosopherId": "whitehead",
+    "titleZh": "怀特海代表文本",
+    "titleEn": "Alfred North Whitehead primary text",
+    "noteZh": "第一版用于展示的种子文本，审核时替换为具体作品。"
+  },
+  {
+    "id": "carnap-primary-work",
+    "philosopherId": "carnap",
+    "titleZh": "卡尔纳普代表文本",
+    "titleEn": "Rudolf Carnap primary text",
+    "noteZh": "第一版用于展示的种子文本，审核时替换为具体作品。"
+  },
+  {
+    "id": "arendt-primary-work",
+    "philosopherId": "arendt",
+    "titleZh": "阿伦特代表文本",
+    "titleEn": "Hannah Arendt primary text",
+    "noteZh": "第一版用于展示的种子文本，审核时替换为具体作品。"
+  },
+  {
+    "id": "sartre-primary-work",
+    "philosopherId": "sartre",
+    "titleZh": "萨特代表文本",
+    "titleEn": "Jean-Paul Sartre primary text",
+    "noteZh": "第一版用于展示的种子文本，审核时替换为具体作品。"
+  },
+  {
+    "id": "beauvoir-primary-work",
+    "philosopherId": "beauvoir",
+    "titleZh": "波伏娃代表文本",
+    "titleEn": "Simone de Beauvoir primary text",
+    "noteZh": "第一版用于展示的种子文本，审核时替换为具体作品。"
+  },
+  {
+    "id": "merleau-ponty-primary-work",
+    "philosopherId": "merleau-ponty",
+    "titleZh": "梅洛-庞蒂代表文本",
+    "titleEn": "Maurice Merleau-Ponty primary text",
+    "noteZh": "第一版用于展示的种子文本，审核时替换为具体作品。"
+  },
+  {
+    "id": "camus-primary-work",
+    "philosopherId": "camus",
+    "titleZh": "加缪代表文本",
+    "titleEn": "Albert Camus primary text",
+    "noteZh": "第一版用于展示的种子文本，审核时替换为具体作品。"
+  },
+  {
+    "id": "quine-primary-work",
+    "philosopherId": "quine",
+    "titleZh": "蒯因代表文本",
+    "titleEn": "W. V. O. Quine primary text",
+    "noteZh": "第一版用于展示的种子文本，审核时替换为具体作品。"
+  },
+  {
+    "id": "rawls-primary-work",
+    "philosopherId": "rawls",
+    "titleZh": "罗尔斯代表文本",
+    "titleEn": "John Rawls primary text",
+    "noteZh": "第一版用于展示的种子文本，审核时替换为具体作品。"
+  },
+  {
+    "id": "nozick-primary-work",
+    "philosopherId": "nozick",
+    "titleZh": "诺齐克代表文本",
+    "titleEn": "Robert Nozick primary text",
+    "noteZh": "第一版用于展示的种子文本，审核时替换为具体作品。"
+  },
+  {
+    "id": "foucault-primary-work",
+    "philosopherId": "foucault",
+    "titleZh": "福柯代表文本",
+    "titleEn": "Michel Foucault primary text",
+    "noteZh": "第一版用于展示的种子文本，审核时替换为具体作品。"
+  },
+  {
+    "id": "derrida-primary-work",
+    "philosopherId": "derrida",
+    "titleZh": "德里达代表文本",
+    "titleEn": "Jacques Derrida primary text",
+    "noteZh": "第一版用于展示的种子文本，审核时替换为具体作品。"
+  },
+  {
+    "id": "habermas-primary-work",
+    "philosopherId": "habermas",
+    "titleZh": "哈贝马斯代表文本",
+    "titleEn": "Jurgen Habermas primary text",
+    "noteZh": "第一版用于展示的种子文本，审核时替换为具体作品。"
+  },
+  {
+    "id": "singer-primary-work",
+    "philosopherId": "singer",
+    "titleZh": "彼得·辛格代表文本",
+    "titleEn": "Peter Singer primary text",
+    "noteZh": "第一版用于展示的种子文本，审核时替换为具体作品。"
+  },
+  {
+    "id": "nussbaum-primary-work",
+    "philosopherId": "nussbaum",
+    "titleZh": "努斯鲍姆代表文本",
+    "titleEn": "Martha Nussbaum primary text",
+    "noteZh": "第一版用于展示的种子文本，审核时替换为具体作品。"
+  },
+  {
+    "id": "al-farabi-primary-work",
+    "philosopherId": "al-farabi",
+    "titleZh": "法拉比代表文本",
+    "titleEn": "Al-Farabi primary text",
+    "noteZh": "第一版用于展示的种子文本，审核时替换为具体作品。"
+  },
+  {
+    "id": "ibn-sina-primary-work",
+    "philosopherId": "ibn-sina",
+    "titleZh": "伊本·西那代表文本",
+    "titleEn": "Ibn Sina primary text",
+    "noteZh": "第一版用于展示的种子文本，审核时替换为具体作品。"
+  },
+  {
+    "id": "al-ghazali-primary-work",
+    "philosopherId": "al-ghazali",
+    "titleZh": "安萨里代表文本",
+    "titleEn": "Al-Ghazali primary text",
+    "noteZh": "第一版用于展示的种子文本，审核时替换为具体作品。"
+  },
+  {
+    "id": "ibn-rushd-primary-work",
+    "philosopherId": "ibn-rushd",
+    "titleZh": "伊本·鲁世德代表文本",
+    "titleEn": "Ibn Rushd primary text",
+    "noteZh": "第一版用于展示的种子文本，审核时替换为具体作品。"
+  },
+  {
+    "id": "mulla-sadra-primary-work",
+    "philosopherId": "mulla-sadra",
+    "titleZh": "穆拉·萨德拉代表文本",
+    "titleEn": "Mulla Sadra primary text",
+    "noteZh": "第一版用于展示的种子文本，审核时替换为具体作品。"
+  },
+  {
+    "id": "saadia-gaon-primary-work",
+    "philosopherId": "saadia-gaon",
+    "titleZh": "萨阿迪亚·高昂代表文本",
+    "titleEn": "Saadia Gaon primary text",
+    "noteZh": "第一版用于展示的种子文本，审核时替换为具体作品。"
+  },
+  {
+    "id": "maimonides-primary-work",
+    "philosopherId": "maimonides",
+    "titleZh": "迈蒙尼德代表文本",
+    "titleEn": "Maimonides primary text",
+    "noteZh": "第一版用于展示的种子文本，审核时替换为具体作品。"
+  },
+  {
+    "id": "buber-primary-work",
+    "philosopherId": "buber",
+    "titleZh": "布伯代表文本",
+    "titleEn": "Martin Buber primary text",
+    "noteZh": "第一版用于展示的种子文本，审核时替换为具体作品。"
+  },
+  {
+    "id": "levinas-primary-work",
+    "philosopherId": "levinas",
+    "titleZh": "列维纳斯代表文本",
+    "titleEn": "Emmanuel Levinas primary text",
+    "noteZh": "第一版用于展示的种子文本，审核时替换为具体作品。"
+  },
+  {
+    "id": "dogen-primary-work",
+    "philosopherId": "dogen",
+    "titleZh": "道元代表文本",
+    "titleEn": "Dogen primary text",
+    "noteZh": "第一版用于展示的种子文本，审核时替换为具体作品。"
+  },
+  {
+    "id": "nishida-primary-work",
+    "philosopherId": "nishida",
+    "titleZh": "西田几多郎代表文本",
+    "titleEn": "Nishida Kitaro primary text",
+    "noteZh": "第一版用于展示的种子文本，审核时替换为具体作品。"
+  },
+  {
+    "id": "watsuji-primary-work",
+    "philosopherId": "watsuji",
+    "titleZh": "和辻哲郎代表文本",
+    "titleEn": "Watsuji Tetsuro primary text",
+    "noteZh": "第一版用于展示的种子文本，审核时替换为具体作品。"
+  },
+  {
+    "id": "toegye-primary-work",
+    "philosopherId": "toegye",
+    "titleZh": "退溪李滉代表文本",
+    "titleEn": "Yi Hwang primary text",
+    "noteZh": "第一版用于展示的种子文本，审核时替换为具体作品。"
+  },
+  {
+    "id": "yulgok-primary-work",
+    "philosopherId": "yulgok",
+    "titleZh": "栗谷李珥代表文本",
+    "titleEn": "Yi I primary text",
+    "noteZh": "第一版用于展示的种子文本，审核时替换为具体作品。"
+  },
+  {
+    "id": "ibn-khaldun-primary-work",
+    "philosopherId": "ibn-khaldun",
+    "titleZh": "伊本·赫勒敦代表文本",
+    "titleEn": "Ibn Khaldun primary text",
+    "noteZh": "第一版用于展示的种子文本，审核时替换为具体作品。"
+  },
+  {
+    "id": "amo-primary-work",
+    "philosopherId": "amo",
+    "titleZh": "安东·威廉·阿莫代表文本",
+    "titleEn": "Anton Wilhelm Amo primary text",
+    "noteZh": "第一版用于展示的种子文本，审核时替换为具体作品。"
+  },
+  {
+    "id": "wiredu-primary-work",
+    "philosopherId": "wiredu",
+    "titleZh": "夸西·维雷杜代表文本",
+    "titleEn": "Kwasi Wiredu primary text",
+    "noteZh": "第一版用于展示的种子文本，审核时替换为具体作品。"
+  },
+  {
+    "id": "senghor-primary-work",
+    "philosopherId": "senghor",
+    "titleZh": "桑戈尔代表文本",
+    "titleEn": "Leopold Sedar Senghor primary text",
+    "noteZh": "第一版用于展示的种子文本，审核时替换为具体作品。"
+  },
+  {
+    "id": "hountondji-primary-work",
+    "philosopherId": "hountondji",
+    "titleZh": "洪通吉代表文本",
+    "titleEn": "Paulin Hountondji primary text",
+    "noteZh": "第一版用于展示的种子文本，审核时替换为具体作品。"
+  },
+  {
+    "id": "dussel-primary-work",
+    "philosopherId": "dussel",
+    "titleZh": "杜塞尔代表文本",
+    "titleEn": "Enrique Dussel primary text",
+    "noteZh": "第一版用于展示的种子文本，审核时替换为具体作品。"
+  },
+  {
+    "id": "zelea-primary-work",
+    "philosopherId": "zelea",
+    "titleZh": "塞亚代表文本",
+    "titleEn": "Leopoldo Zea primary text",
+    "noteZh": "第一版用于展示的种子文本，审核时替换为具体作品。"
+  },
+  {
+    "id": "sor-juana-primary-work",
+    "philosopherId": "sor-juana",
+    "titleZh": "胡安娜修女代表文本",
+    "titleEn": "Sor Juana Ines de la Cruz primary text",
+    "noteZh": "第一版用于展示的种子文本，审核时替换为具体作品。"
+  },
+  {
+    "id": "plumwood-primary-work",
+    "philosopherId": "plumwood",
+    "titleZh": "普拉姆伍德代表文本",
+    "titleEn": "Val Plumwood primary text",
+    "noteZh": "第一版用于展示的种子文本，审核时替换为具体作品。"
+  },
+  {
+    "id": "butler-primary-work",
+    "philosopherId": "butler",
+    "titleZh": "巴特勒代表文本",
+    "titleEn": "Judith Butler primary text",
+    "noteZh": "第一版用于展示的种子文本，审核时替换为具体作品。"
+  },
+  {
+    "id": "hooks-primary-work",
+    "philosopherId": "hooks",
+    "titleZh": "贝尔·胡克斯代表文本",
+    "titleEn": "bell hooks primary text",
+    "noteZh": "第一版用于展示的种子文本，审核时替换为具体作品。"
+  }
+]

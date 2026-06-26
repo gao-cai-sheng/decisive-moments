@@ -1,0 +1,42 @@
+{
+  "id": "merleau-ponty",
+  "names": {
+    "zh": "梅洛-庞蒂",
+    "en": "Maurice Merleau-Ponty"
+  },
+  "life": {
+    "display": "1908—1961",
+    "birth": 1908,
+    "death": 1961
+  },
+  "civilization": "european_modern",
+  "traditions": [
+    "modern_european_philosophy"
+  ],
+  "periods": [
+    "first_release"
+  ],
+  "themes": [
+    "knowledge",
+    "freedom",
+    "politics"
+  ],
+  "keywordsZh": [
+    "知识",
+    "自由",
+    "政治"
+  ],
+  "oneLineZh": "梅洛-庞蒂是知识、自由问题谱系中的第一版候选哲人。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "梅洛-庞蒂是知识、自由问题谱系中的第一版候选哲人。 本条目是第一版结构化资料，已经保留文明、传统、主题、作品和论述字段，正式发布前需要继续核对年代、文本出处和概念表述。",
+  "works": [
+    "merleau-ponty-primary-work"
+  ],
+  "sourceNotes": [
+    {
+      "label": "draft",
+      "noteZh": "条目需要人工核对作品、年代和概念表述。"
+    }
+  ]
+}

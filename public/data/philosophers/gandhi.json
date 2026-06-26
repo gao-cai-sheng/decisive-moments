@@ -1,0 +1,42 @@
+{
+  "id": "gandhi",
+  "names": {
+    "zh": "甘地",
+    "en": "M. K. Gandhi"
+  },
+  "life": {
+    "display": "1869—1948",
+    "birth": 1869,
+    "death": 1948
+  },
+  "civilization": "indian",
+  "traditions": [
+    "indian_philosophy"
+  ],
+  "periods": [
+    "first_release"
+  ],
+  "themes": [
+    "religion",
+    "metaphysics",
+    "life_death"
+  ],
+  "keywordsZh": [
+    "宗教",
+    "形而上学",
+    "生死"
+  ],
+  "oneLineZh": "甘地是宗教、形而上学问题谱系中的第一版候选哲人。",
+  "influenceWeight": 1,
+  "reviewStatus": "draft",
+  "summaryZh": "甘地是宗教、形而上学问题谱系中的第一版候选哲人。 本条目是第一版结构化资料，已经保留文明、传统、主题、作品和论述字段，正式发布前需要继续核对年代、文本出处和概念表述。",
+  "works": [
+    "gandhi-primary-work"
+  ],
+  "sourceNotes": [
+    {
+      "label": "draft",
+      "noteZh": "条目需要人工核对作品、年代和概念表述。"
+    }
+  ]
+}

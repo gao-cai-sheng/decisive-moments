@@ -1,0 +1,42 @@
+{
+  "id": "mahavira",
+  "names": {
+    "zh": "摩诃毗罗",
+    "en": "Mahavira"
+  },
+  "life": {
+    "display": "约前 599—前 527",
+    "birth": -599,
+    "death": -527
+  },
+  "civilization": "indian",
+  "traditions": [
+    "indian_philosophy"
+  ],
+  "periods": [
+    "first_release"
+  ],
+  "themes": [
+    "religion",
+    "metaphysics",
+    "life_death"
+  ],
+  "keywordsZh": [
+    "宗教",
+    "形而上学",
+    "生死"
+  ],
+  "oneLineZh": "摩诃毗罗是宗教、形而上学问题谱系中的第一版候选哲人。",
+  "influenceWeight": 1,
+  "reviewStatus": "draft",
+  "summaryZh": "摩诃毗罗是宗教、形而上学问题谱系中的第一版候选哲人。 本条目是第一版结构化资料，已经保留文明、传统、主题、作品和论述字段，正式发布前需要继续核对年代、文本出处和概念表述。",
+  "works": [
+    "mahavira-primary-work"
+  ],
+  "sourceNotes": [
+    {
+      "label": "draft",
+      "noteZh": "条目需要人工核对作品、年代和概念表述。"
+    }
+  ]
+}

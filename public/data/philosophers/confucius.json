@@ -1,0 +1,235 @@
+{
+  "id": "confucius",
+  "names": {
+    "zh": "孔子",
+    "en": "Confucius"
+  },
+  "life": {
+    "display": "约公元前 551—前 479",
+    "birth": -551,
+    "death": -479
+  },
+  "civilization": "chinese",
+  "traditions": [
+    "confucianism"
+  ],
+  "periods": [
+    "first_release"
+  ],
+  "themes": [
+    "ethics",
+    "politics",
+    "justice"
+  ],
+  "keywordsZh": [
+    "伦理",
+    "政治",
+    "正义"
+  ],
+  "oneLineZh": "以仁、礼和君子修养奠定儒家伦理政治传统。",
+  "influenceWeight": 3,
+  "reviewStatus": "draft",
+  "summaryZh": "孔子把个人修养、礼乐秩序和政治正当性连成一个整体，使伦理问题成为中国思想史理解社会秩序的入口。",
+  "works": [
+    "confucius-primary-work"
+  ],
+  "sourceNotes": [
+    {
+      "label": "draft",
+      "noteZh": "条目需要人工核对作品、年代和概念表述。"
+    }
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "confucius-ren",
+        "titleZh": "仁与人伦",
+        "questionZh": "人与人之间的根本德性是什么，如何从亲近关系扩展到公共秩序？",
+        "summaryZh": "孔子以仁作为伦理生活的核心，把亲亲、忠恕和成人之道连成一条修养路径。",
+        "themeIds": [
+          "ethics",
+          "politics"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "confucius-ren-relational",
+            "titleZh": "仁从关系中展开",
+            "claimZh": "仁不是抽象原则，而是在具体人伦关系中持续实践的德性。",
+            "explanationZh": "孔子的仁从亲近者开始，但并不停止于家庭，而是通过修养扩展为待人接物的普遍尺度。",
+            "themeIds": [
+              "ethics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "confucius-ren-analects",
+                "titleZh": "《论语》中的仁",
+                "summaryZh": "《论语》多处以爱人、克己复礼、忠恕等方式解释仁的实践面向。",
+                "source": {
+                  "workId": "confucius-primary-work",
+                  "locator": "仁相关章句",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "confucius-shu",
+            "titleZh": "忠恕是实践方法",
+            "claimZh": "推己及人的忠恕之道，使仁从自我修养转向与他人共处。",
+            "explanationZh": "忠恕提供一种日常可操作的伦理方法，让人以自身经验理解他人的处境和限度。",
+            "themeIds": [
+              "ethics",
+              "language"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "confucius-shu-analects",
+                "titleZh": "一以贯之与恕道",
+                "summaryZh": "相关章句把忠恕呈现为贯通孔子伦理实践的重要线索。",
+                "source": {
+                  "workId": "confucius-primary-work",
+                  "locator": "忠恕相关章句",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "confucius-li",
+        "titleZh": "礼与秩序",
+        "questionZh": "礼是外在形式，还是塑造德性和政治秩序的实践机制？",
+        "summaryZh": "孔子把礼看作伦理情感、社会身份和公共秩序之间的中介，而非空洞仪式。",
+        "themeIds": [
+          "ethics",
+          "politics"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "confucius-li-forms-character",
+            "titleZh": "礼塑造德性",
+            "claimZh": "礼通过可重复的行为形式训练情感，使德性获得稳定表达。",
+            "explanationZh": "礼不是压抑生命的外壳，而是把敬、让、哀、乐等情感转化为共同可理解的秩序。",
+            "themeIds": [
+              "ethics",
+              "aesthetics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "confucius-li-analects",
+                "titleZh": "《论语》中的礼",
+                "summaryZh": "《论语》多次把礼与仁、敬、政治教化放在一起讨论。",
+                "source": {
+                  "workId": "confucius-primary-work",
+                  "locator": "礼相关章句",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "confucius-rectification",
+            "titleZh": "正名关乎秩序",
+            "claimZh": "名分混乱会使言语、责任和政治秩序一起失效。",
+            "explanationZh": "正名把语言和政治责任连接起来，要求身份、称谓与实际行为互相配合。",
+            "themeIds": [
+              "language",
+              "politics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "confucius-rectification-names",
+                "titleZh": "正名论述",
+                "summaryZh": "正名相关章句显示孔子把语言秩序视为政治治理的基础条件之一。",
+                "source": {
+                  "workId": "confucius-primary-work",
+                  "locator": "正名相关章句",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "confucius-junzi",
+        "titleZh": "君子与修身",
+        "questionZh": "一个人如何通过学习、反省和行动成为可以承担公共责任的人？",
+        "summaryZh": "君子不是固定阶层称号，而是通过学习、改过和自我要求形成的德性人格。",
+        "themeIds": [
+          "ethics",
+          "knowledge"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "confucius-learning-thinking",
+            "titleZh": "学思并进",
+            "claimZh": "学习与思考必须互相补足，单靠记诵或空想都不能成德。",
+            "explanationZh": "孔子把学习理解为反复实践和省察的过程，使知识进入人格与行动。",
+            "themeIds": [
+              "knowledge",
+              "ethics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "confucius-learning-analects",
+                "titleZh": "学与思相关章句",
+                "summaryZh": "《论语》以学、思、习、问等词构成持续修养的实践场景。",
+                "source": {
+                  "workId": "confucius-primary-work",
+                  "locator": "学思相关章句",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "confucius-governance",
+        "titleZh": "德治与政治",
+        "questionZh": "政治秩序主要依靠刑罚控制，还是依靠德性示范和礼乐教化？",
+        "summaryZh": "孔子主张治理者的德性具有示范力量，政治不是单纯制度控制，而是教化关系。",
+        "themeIds": [
+          "politics",
+          "ethics"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "confucius-virtue-rule",
+            "titleZh": "为政以德",
+            "claimZh": "治理者以德行引导人民，比单纯依赖刑罚更能形成内在秩序。",
+            "explanationZh": "德治强调政治权威必须首先表现为可被效法的伦理中心，而不是裸露强制力。",
+            "themeIds": [
+              "politics",
+              "ethics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "confucius-governance-analects",
+                "titleZh": "为政篇相关论述",
+                "summaryZh": "为政相关章句把治理者的德性、礼和民众的羞耻感联系起来。",
+                "source": {
+                  "workId": "confucius-primary-work",
+                  "locator": "为政相关章句",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

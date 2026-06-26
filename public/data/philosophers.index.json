@@ -1,0 +1,3208 @@
+[
+  {
+    "id": "confucius",
+    "names": {
+      "zh": "孔子",
+      "en": "Confucius"
+    },
+    "life": {
+      "display": "约公元前 551—前 479",
+      "birth": -551,
+      "death": -479
+    },
+    "civilization": "chinese",
+    "traditions": [
+      "confucianism"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "ethics",
+      "politics",
+      "justice"
+    ],
+    "keywordsZh": [
+      "伦理",
+      "政治",
+      "正义"
+    ],
+    "oneLineZh": "以仁、礼和君子修养奠定儒家伦理政治传统。",
+    "influenceWeight": 3,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "laozi",
+    "names": {
+      "zh": "老子",
+      "en": "Laozi"
+    },
+    "life": {
+      "display": "约前 571—前 471",
+      "birth": -571,
+      "death": -471
+    },
+    "civilization": "chinese",
+    "traditions": [
+      "daoism"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "metaphysics",
+      "politics",
+      "life_death"
+    ],
+    "keywordsZh": [
+      "形而上学",
+      "政治",
+      "生死"
+    ],
+    "oneLineZh": "以道、无为和反强制秩序开辟道家思想。",
+    "influenceWeight": 1,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "zhuangzi",
+    "names": {
+      "zh": "庄子",
+      "en": "Zhuangzi"
+    },
+    "life": {
+      "display": "约前 369—前 286",
+      "birth": -369,
+      "death": -286
+    },
+    "civilization": "chinese",
+    "traditions": [
+      "daoism"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "freedom",
+      "language",
+      "life_death"
+    ],
+    "keywordsZh": [
+      "自由",
+      "语言",
+      "生死"
+    ],
+    "oneLineZh": "以逍遥、齐物和语言怀疑展开自由哲学。",
+    "influenceWeight": 1,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "mozi",
+    "names": {
+      "zh": "墨子",
+      "en": "Mozi"
+    },
+    "life": {
+      "display": "约前 470—前 391",
+      "birth": -470,
+      "death": -391
+    },
+    "civilization": "chinese",
+    "traditions": [
+      "chinese_philosophy"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "ethics",
+      "politics",
+      "justice"
+    ],
+    "keywordsZh": [
+      "伦理",
+      "政治",
+      "正义"
+    ],
+    "oneLineZh": "墨子是伦理、政治问题谱系中的第一版候选哲人。",
+    "influenceWeight": 1,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "mencius",
+    "names": {
+      "zh": "孟子",
+      "en": "Mencius"
+    },
+    "life": {
+      "display": "约前 372—前 289",
+      "birth": -372,
+      "death": -289
+    },
+    "civilization": "chinese",
+    "traditions": [
+      "chinese_philosophy"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "ethics",
+      "politics",
+      "justice"
+    ],
+    "keywordsZh": [
+      "伦理",
+      "政治",
+      "正义"
+    ],
+    "oneLineZh": "孟子是伦理、政治问题谱系中的第一版候选哲人。",
+    "influenceWeight": 1,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "xunzi",
+    "names": {
+      "zh": "荀子",
+      "en": "Xunzi"
+    },
+    "life": {
+      "display": "约前 310—前 235",
+      "birth": -310,
+      "death": -235
+    },
+    "civilization": "chinese",
+    "traditions": [
+      "chinese_philosophy"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "ethics",
+      "politics",
+      "justice"
+    ],
+    "keywordsZh": [
+      "伦理",
+      "政治",
+      "正义"
+    ],
+    "oneLineZh": "荀子是伦理、政治问题谱系中的第一版候选哲人。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "wang-yangming",
+    "names": {
+      "zh": "王阳明",
+      "en": "Wang Yangming"
+    },
+    "life": {
+      "display": "1472—1529",
+      "birth": 1472,
+      "death": 1529
+    },
+    "civilization": "chinese",
+    "traditions": [
+      "chinese_philosophy"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "ethics",
+      "politics",
+      "justice"
+    ],
+    "keywordsZh": [
+      "伦理",
+      "政治",
+      "正义"
+    ],
+    "oneLineZh": "王阳明是伦理、政治问题谱系中的第一版候选哲人。",
+    "influenceWeight": 1,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "zhu-xi",
+    "names": {
+      "zh": "朱熹",
+      "en": "Zhu Xi"
+    },
+    "life": {
+      "display": "1130—1200",
+      "birth": 1130,
+      "death": 1200
+    },
+    "civilization": "chinese",
+    "traditions": [
+      "chinese_philosophy"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "ethics",
+      "politics",
+      "justice"
+    ],
+    "keywordsZh": [
+      "伦理",
+      "政治",
+      "正义"
+    ],
+    "oneLineZh": "朱熹是伦理、政治问题谱系中的第一版候选哲人。",
+    "influenceWeight": 1,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "hu-shi",
+    "names": {
+      "zh": "胡适",
+      "en": "Hu Shih"
+    },
+    "life": {
+      "display": "1891—1962",
+      "birth": 1891,
+      "death": 1962
+    },
+    "civilization": "chinese",
+    "traditions": [
+      "chinese_philosophy"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "ethics",
+      "politics",
+      "justice"
+    ],
+    "keywordsZh": [
+      "伦理",
+      "政治",
+      "正义"
+    ],
+    "oneLineZh": "胡适是伦理、政治问题谱系中的第一版候选哲人。",
+    "influenceWeight": 1,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "liang-shuming",
+    "names": {
+      "zh": "梁漱溟",
+      "en": "Liang Shuming"
+    },
+    "life": {
+      "display": "1893—1988",
+      "birth": 1893,
+      "death": 1988
+    },
+    "civilization": "chinese",
+    "traditions": [
+      "chinese_philosophy"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "ethics",
+      "politics",
+      "justice"
+    ],
+    "keywordsZh": [
+      "伦理",
+      "政治",
+      "正义"
+    ],
+    "oneLineZh": "梁漱溟是伦理、政治问题谱系中的第一版候选哲人。",
+    "influenceWeight": 1,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "buddha",
+    "names": {
+      "zh": "释迦牟尼",
+      "en": "Gautama Buddha",
+      "native": "Siddhārtha Gautama / Śākyamuni"
+    },
+    "life": {
+      "birth": -563,
+      "death": -483,
+      "display": "约公元前 5 世纪；传统年代多作约前 563 - 前 483，现代研究常采用更晚估计"
+    },
+    "civilization": "indian",
+    "traditions": [
+      "early_buddhism",
+      "indian_philosophy",
+      "sramana_tradition"
+    ],
+    "periods": [
+      "axial_age",
+      "early_buddhism"
+    ],
+    "themes": [
+      "religion",
+      "metaphysics",
+      "life_death",
+      "ethics",
+      "freedom",
+      "knowledge"
+    ],
+    "keywordsZh": [
+      "四圣谛",
+      "缘起",
+      "无我",
+      "中道",
+      "八正道",
+      "涅槃"
+    ],
+    "oneLineZh": "以苦、缘起、无我和解脱道路重塑印度思想中关于生命、执著与自由的根本问题。",
+    "influenceWeight": 3,
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "mahavira",
+    "names": {
+      "zh": "摩诃毗罗",
+      "en": "Mahavira"
+    },
+    "life": {
+      "display": "约前 599—前 527",
+      "birth": -599,
+      "death": -527
+    },
+    "civilization": "indian",
+    "traditions": [
+      "indian_philosophy"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "religion",
+      "metaphysics",
+      "life_death"
+    ],
+    "keywordsZh": [
+      "宗教",
+      "形而上学",
+      "生死"
+    ],
+    "oneLineZh": "摩诃毗罗是宗教、形而上学问题谱系中的第一版候选哲人。",
+    "influenceWeight": 1,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "nagarjuna",
+    "names": {
+      "zh": "龙树",
+      "en": "Nagarjuna"
+    },
+    "life": {
+      "display": "约150—250",
+      "birth": 150,
+      "death": 250
+    },
+    "civilization": "indian",
+    "traditions": [
+      "indian_philosophy"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "religion",
+      "metaphysics",
+      "life_death"
+    ],
+    "keywordsZh": [
+      "宗教",
+      "形而上学",
+      "生死"
+    ],
+    "oneLineZh": "龙树是宗教、形而上学问题谱系中的第一版候选哲人。",
+    "influenceWeight": 1,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "vasubandhu",
+    "names": {
+      "zh": "世亲",
+      "en": "Vasubandhu"
+    },
+    "life": {
+      "display": "约400—480",
+      "birth": 400,
+      "death": 480
+    },
+    "civilization": "indian",
+    "traditions": [
+      "indian_philosophy"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "religion",
+      "metaphysics",
+      "life_death"
+    ],
+    "keywordsZh": [
+      "宗教",
+      "形而上学",
+      "生死"
+    ],
+    "oneLineZh": "世亲是宗教、形而上学问题谱系中的第一版候选哲人。",
+    "influenceWeight": 1,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "adi-shankara",
+    "names": {
+      "zh": "商羯罗",
+      "en": "Adi Shankara"
+    },
+    "life": {
+      "display": "约788—820",
+      "birth": 788,
+      "death": 820
+    },
+    "civilization": "indian",
+    "traditions": [
+      "indian_philosophy"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "religion",
+      "metaphysics",
+      "life_death"
+    ],
+    "keywordsZh": [
+      "宗教",
+      "形而上学",
+      "生死"
+    ],
+    "oneLineZh": "商羯罗是宗教、形而上学问题谱系中的第一版候选哲人。",
+    "influenceWeight": 1,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "ramanuja",
+    "names": {
+      "zh": "罗摩奴阇",
+      "en": "Ramanuja"
+    },
+    "life": {
+      "display": "1017—1137",
+      "birth": 1017,
+      "death": 1137
+    },
+    "civilization": "indian",
+    "traditions": [
+      "indian_philosophy"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "religion",
+      "metaphysics",
+      "life_death"
+    ],
+    "keywordsZh": [
+      "宗教",
+      "形而上学",
+      "生死"
+    ],
+    "oneLineZh": "罗摩奴阇是宗教、形而上学问题谱系中的第一版候选哲人。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "tagore",
+    "names": {
+      "zh": "泰戈尔",
+      "en": "Rabindranath Tagore"
+    },
+    "life": {
+      "display": "1861—1941",
+      "birth": 1861,
+      "death": 1941
+    },
+    "civilization": "indian",
+    "traditions": [
+      "indian_philosophy"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "religion",
+      "metaphysics",
+      "life_death"
+    ],
+    "keywordsZh": [
+      "宗教",
+      "形而上学",
+      "生死"
+    ],
+    "oneLineZh": "泰戈尔是宗教、形而上学问题谱系中的第一版候选哲人。",
+    "influenceWeight": 1,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "gandhi",
+    "names": {
+      "zh": "甘地",
+      "en": "M. K. Gandhi"
+    },
+    "life": {
+      "display": "1869—1948",
+      "birth": 1869,
+      "death": 1948
+    },
+    "civilization": "indian",
+    "traditions": [
+      "indian_philosophy"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "religion",
+      "metaphysics",
+      "life_death"
+    ],
+    "keywordsZh": [
+      "宗教",
+      "形而上学",
+      "生死"
+    ],
+    "oneLineZh": "甘地是宗教、形而上学问题谱系中的第一版候选哲人。",
+    "influenceWeight": 1,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "ambedkar",
+    "names": {
+      "zh": "安贝德卡尔",
+      "en": "B. R. Ambedkar"
+    },
+    "life": {
+      "display": "1891—1956",
+      "birth": 1891,
+      "death": 1956
+    },
+    "civilization": "indian",
+    "traditions": [
+      "indian_philosophy"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "religion",
+      "metaphysics",
+      "life_death"
+    ],
+    "keywordsZh": [
+      "宗教",
+      "形而上学",
+      "生死"
+    ],
+    "oneLineZh": "安贝德卡尔是宗教、形而上学问题谱系中的第一版候选哲人。",
+    "influenceWeight": 1,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "krishnamurti",
+    "names": {
+      "zh": "克里希那穆提",
+      "en": "Jiddu Krishnamurti"
+    },
+    "life": {
+      "display": "1895—1986",
+      "birth": 1895,
+      "death": 1986
+    },
+    "civilization": "indian",
+    "traditions": [
+      "indian_philosophy"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "religion",
+      "metaphysics",
+      "life_death"
+    ],
+    "keywordsZh": [
+      "宗教",
+      "形而上学",
+      "生死"
+    ],
+    "oneLineZh": "克里希那穆提是宗教、形而上学问题谱系中的第一版候选哲人。",
+    "influenceWeight": 1,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "thales",
+    "names": {
+      "zh": "泰勒斯",
+      "en": "Thales"
+    },
+    "life": {
+      "display": "约前 624—前 546",
+      "birth": -624,
+      "death": -546
+    },
+    "civilization": "ancient_greek",
+    "traditions": [
+      "ancient_greek_philosophy"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "ethics",
+      "metaphysics",
+      "knowledge"
+    ],
+    "keywordsZh": [
+      "伦理",
+      "形而上学",
+      "知识"
+    ],
+    "oneLineZh": "泰勒斯是伦理、形而上学问题谱系中的第一版候选哲人。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "heraclitus",
+    "names": {
+      "zh": "赫拉克利特",
+      "en": "Heraclitus"
+    },
+    "life": {
+      "display": "约前 535—前 475",
+      "birth": -535,
+      "death": -475
+    },
+    "civilization": "ancient_greek",
+    "traditions": [
+      "ancient_greek_philosophy"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "ethics",
+      "metaphysics",
+      "knowledge"
+    ],
+    "keywordsZh": [
+      "伦理",
+      "形而上学",
+      "知识"
+    ],
+    "oneLineZh": "赫拉克利特是伦理、形而上学问题谱系中的第一版候选哲人。",
+    "influenceWeight": 1,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "parmenides",
+    "names": {
+      "zh": "巴门尼德",
+      "en": "Parmenides"
+    },
+    "life": {
+      "display": "约前 515—前 450",
+      "birth": -515,
+      "death": -450
+    },
+    "civilization": "ancient_greek",
+    "traditions": [
+      "ancient_greek_philosophy"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "ethics",
+      "metaphysics",
+      "knowledge"
+    ],
+    "keywordsZh": [
+      "伦理",
+      "形而上学",
+      "知识"
+    ],
+    "oneLineZh": "巴门尼德是伦理、形而上学问题谱系中的第一版候选哲人。",
+    "influenceWeight": 1,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "socrates",
+    "names": {
+      "zh": "苏格拉底",
+      "en": "Socrates"
+    },
+    "life": {
+      "display": "前 469—前 399",
+      "birth": -469,
+      "death": -399
+    },
+    "civilization": "ancient_greek",
+    "traditions": [
+      "ancient_greek_philosophy"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "ethics",
+      "metaphysics",
+      "knowledge"
+    ],
+    "keywordsZh": [
+      "伦理",
+      "形而上学",
+      "知识"
+    ],
+    "oneLineZh": "苏格拉底是伦理、形而上学问题谱系中的第一版候选哲人。",
+    "influenceWeight": 3,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "plato",
+    "names": {
+      "zh": "柏拉图",
+      "en": "Plato"
+    },
+    "life": {
+      "display": "约公元前 428—前 348",
+      "birth": -428,
+      "death": -348
+    },
+    "civilization": "ancient_greek",
+    "traditions": [
+      "platonism"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "justice",
+      "knowledge",
+      "metaphysics"
+    ],
+    "keywordsZh": [
+      "正义",
+      "知识",
+      "形而上学"
+    ],
+    "oneLineZh": "以理念论和《理想国》构成西方哲学核心源头之一。",
+    "influenceWeight": 3,
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "aristotle",
+    "names": {
+      "zh": "亚里士多德",
+      "en": "Aristotle"
+    },
+    "life": {
+      "display": "前 384—前 322",
+      "birth": -384,
+      "death": -322
+    },
+    "civilization": "ancient_greek",
+    "traditions": [
+      "peripatetic"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "ethics",
+      "metaphysics",
+      "politics"
+    ],
+    "keywordsZh": [
+      "伦理",
+      "形而上学",
+      "政治"
+    ],
+    "oneLineZh": "以实体、目的因和德性伦理建立系统哲学框架。",
+    "influenceWeight": 3,
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "epicurus",
+    "names": {
+      "zh": "伊壁鸠鲁",
+      "en": "Epicurus"
+    },
+    "life": {
+      "display": "前 341—前 270",
+      "birth": -341,
+      "death": -270
+    },
+    "civilization": "ancient_greek",
+    "traditions": [
+      "ancient_greek_philosophy"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "ethics",
+      "metaphysics",
+      "knowledge"
+    ],
+    "keywordsZh": [
+      "伦理",
+      "形而上学",
+      "知识"
+    ],
+    "oneLineZh": "伊壁鸠鲁是伦理、形而上学问题谱系中的第一版候选哲人。",
+    "influenceWeight": 1,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "zeno-citium",
+    "names": {
+      "zh": "芝诺",
+      "en": "Zeno of Citium"
+    },
+    "life": {
+      "display": "约前 334—前 262",
+      "birth": -334,
+      "death": -262
+    },
+    "civilization": "ancient_greek",
+    "traditions": [
+      "ancient_greek_philosophy"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "ethics",
+      "metaphysics",
+      "knowledge"
+    ],
+    "keywordsZh": [
+      "伦理",
+      "形而上学",
+      "知识"
+    ],
+    "oneLineZh": "芝诺是伦理、形而上学问题谱系中的第一版候选哲人。",
+    "influenceWeight": 1,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "plotinus",
+    "names": {
+      "zh": "普罗提诺",
+      "en": "Plotinus"
+    },
+    "life": {
+      "display": "204—270",
+      "birth": 204,
+      "death": 270
+    },
+    "civilization": "ancient_greek",
+    "traditions": [
+      "ancient_greek_philosophy"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "ethics",
+      "metaphysics",
+      "knowledge"
+    ],
+    "keywordsZh": [
+      "伦理",
+      "形而上学",
+      "知识"
+    ],
+    "oneLineZh": "普罗提诺是伦理、形而上学问题谱系中的第一版候选哲人。",
+    "influenceWeight": 1,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "hypatia",
+    "names": {
+      "zh": "希帕提娅",
+      "en": "Hypatia"
+    },
+    "life": {
+      "display": "约360—415",
+      "birth": 360,
+      "death": 415
+    },
+    "civilization": "ancient_greek",
+    "traditions": [
+      "ancient_greek_philosophy"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "ethics",
+      "metaphysics",
+      "knowledge"
+    ],
+    "keywordsZh": [
+      "伦理",
+      "形而上学",
+      "知识"
+    ],
+    "oneLineZh": "希帕提娅是伦理、形而上学问题谱系中的第一版候选哲人。",
+    "influenceWeight": 1,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "augustine",
+    "names": {
+      "zh": "奥古斯丁",
+      "en": "Augustine of Hippo"
+    },
+    "life": {
+      "display": "354—430",
+      "birth": 354,
+      "death": 430
+    },
+    "civilization": "latin_christian",
+    "traditions": [
+      "scholasticism"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "religion",
+      "metaphysics",
+      "ethics"
+    ],
+    "keywordsZh": [
+      "宗教",
+      "形而上学",
+      "伦理"
+    ],
+    "oneLineZh": "奥古斯丁是宗教、形而上学问题谱系中的第一版候选哲人。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "boethius",
+    "names": {
+      "zh": "波爱修斯",
+      "en": "Boethius"
+    },
+    "life": {
+      "display": "477—524",
+      "birth": 477,
+      "death": 524
+    },
+    "civilization": "latin_christian",
+    "traditions": [
+      "scholasticism"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "religion",
+      "metaphysics",
+      "ethics"
+    ],
+    "keywordsZh": [
+      "宗教",
+      "形而上学",
+      "伦理"
+    ],
+    "oneLineZh": "波爱修斯是宗教、形而上学问题谱系中的第一版候选哲人。",
+    "influenceWeight": 1,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "anselm",
+    "names": {
+      "zh": "安瑟尔谟",
+      "en": "Anselm of Canterbury"
+    },
+    "life": {
+      "display": "1033—1109",
+      "birth": 1033,
+      "death": 1109
+    },
+    "civilization": "latin_christian",
+    "traditions": [
+      "scholasticism"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "religion",
+      "metaphysics",
+      "ethics"
+    ],
+    "keywordsZh": [
+      "宗教",
+      "形而上学",
+      "伦理"
+    ],
+    "oneLineZh": "安瑟尔谟是宗教、形而上学问题谱系中的第一版候选哲人。",
+    "influenceWeight": 1,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "aquinas",
+    "names": {
+      "zh": "托马斯·阿奎那",
+      "en": "Thomas Aquinas"
+    },
+    "life": {
+      "display": "1225—1274",
+      "birth": 1225,
+      "death": 1274
+    },
+    "civilization": "latin_christian",
+    "traditions": [
+      "scholasticism"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "religion",
+      "metaphysics",
+      "ethics"
+    ],
+    "keywordsZh": [
+      "宗教",
+      "形而上学",
+      "伦理"
+    ],
+    "oneLineZh": "托马斯·阿奎那是宗教、形而上学问题谱系中的第一版候选哲人。",
+    "influenceWeight": 1,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "ockham",
+    "names": {
+      "zh": "奥卡姆",
+      "en": "William of Ockham"
+    },
+    "life": {
+      "display": "约1287—1347",
+      "birth": 1287,
+      "death": 1347
+    },
+    "civilization": "latin_christian",
+    "traditions": [
+      "scholasticism"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "religion",
+      "metaphysics",
+      "ethics"
+    ],
+    "keywordsZh": [
+      "宗教",
+      "形而上学",
+      "伦理"
+    ],
+    "oneLineZh": "奥卡姆是宗教、形而上学问题谱系中的第一版候选哲人。",
+    "influenceWeight": 1,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "erasmus",
+    "names": {
+      "zh": "伊拉斯谟",
+      "en": "Erasmus"
+    },
+    "life": {
+      "display": "1466—1536",
+      "birth": 1466,
+      "death": 1536
+    },
+    "civilization": "european_modern",
+    "traditions": [
+      "modern_european_philosophy"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "knowledge",
+      "freedom",
+      "politics"
+    ],
+    "keywordsZh": [
+      "知识",
+      "自由",
+      "政治"
+    ],
+    "oneLineZh": "伊拉斯谟是知识、自由问题谱系中的第一版候选哲人。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "machiavelli",
+    "names": {
+      "zh": "马基雅维利",
+      "en": "Niccolo Machiavelli"
+    },
+    "life": {
+      "display": "1469—1527",
+      "birth": 1469,
+      "death": 1527
+    },
+    "civilization": "european_modern",
+    "traditions": [
+      "modern_european_philosophy"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "knowledge",
+      "freedom",
+      "politics"
+    ],
+    "keywordsZh": [
+      "知识",
+      "自由",
+      "政治"
+    ],
+    "oneLineZh": "马基雅维利是知识、自由问题谱系中的第一版候选哲人。",
+    "influenceWeight": 1,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "montaigne",
+    "names": {
+      "zh": "蒙田",
+      "en": "Michel de Montaigne"
+    },
+    "life": {
+      "display": "1533—1592",
+      "birth": 1533,
+      "death": 1592
+    },
+    "civilization": "european_modern",
+    "traditions": [
+      "modern_european_philosophy"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "knowledge",
+      "freedom",
+      "politics"
+    ],
+    "keywordsZh": [
+      "知识",
+      "自由",
+      "政治"
+    ],
+    "oneLineZh": "蒙田是知识、自由问题谱系中的第一版候选哲人。",
+    "influenceWeight": 1,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "bacon",
+    "names": {
+      "zh": "弗朗西斯·培根",
+      "en": "Francis Bacon"
+    },
+    "life": {
+      "display": "1561—1626",
+      "birth": 1561,
+      "death": 1626
+    },
+    "civilization": "european_modern",
+    "traditions": [
+      "modern_european_philosophy"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "knowledge",
+      "freedom",
+      "politics"
+    ],
+    "keywordsZh": [
+      "知识",
+      "自由",
+      "政治"
+    ],
+    "oneLineZh": "弗朗西斯·培根是知识、自由问题谱系中的第一版候选哲人。",
+    "influenceWeight": 1,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "hobbes",
+    "names": {
+      "zh": "霍布斯",
+      "en": "Thomas Hobbes"
+    },
+    "life": {
+      "display": "1588—1679",
+      "birth": 1588,
+      "death": 1679
+    },
+    "civilization": "european_modern",
+    "traditions": [
+      "modern_european_philosophy"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "knowledge",
+      "freedom",
+      "politics"
+    ],
+    "keywordsZh": [
+      "知识",
+      "自由",
+      "政治"
+    ],
+    "oneLineZh": "霍布斯是知识、自由问题谱系中的第一版候选哲人。",
+    "influenceWeight": 1,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "descartes",
+    "names": {
+      "zh": "笛卡尔",
+      "en": "Rene Descartes"
+    },
+    "life": {
+      "display": "1596—1650",
+      "birth": 1596,
+      "death": 1650
+    },
+    "civilization": "european_modern",
+    "traditions": [
+      "modern_european_philosophy"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "knowledge",
+      "freedom",
+      "politics"
+    ],
+    "keywordsZh": [
+      "知识",
+      "自由",
+      "政治"
+    ],
+    "oneLineZh": "笛卡尔是知识、自由问题谱系中的第一版候选哲人。",
+    "influenceWeight": 3,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "spinoza",
+    "names": {
+      "zh": "斯宾诺莎",
+      "en": "Baruch Spinoza"
+    },
+    "life": {
+      "display": "1632—1677",
+      "birth": 1632,
+      "death": 1677
+    },
+    "civilization": "european_modern",
+    "traditions": [
+      "modern_european_philosophy"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "knowledge",
+      "freedom",
+      "politics"
+    ],
+    "keywordsZh": [
+      "知识",
+      "自由",
+      "政治"
+    ],
+    "oneLineZh": "斯宾诺莎是知识、自由问题谱系中的第一版候选哲人。",
+    "influenceWeight": 1,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "locke",
+    "names": {
+      "zh": "洛克",
+      "en": "John Locke"
+    },
+    "life": {
+      "display": "1632—1704",
+      "birth": 1632,
+      "death": 1704
+    },
+    "civilization": "european_modern",
+    "traditions": [
+      "modern_european_philosophy"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "knowledge",
+      "freedom",
+      "politics"
+    ],
+    "keywordsZh": [
+      "知识",
+      "自由",
+      "政治"
+    ],
+    "oneLineZh": "洛克是知识、自由问题谱系中的第一版候选哲人。",
+    "influenceWeight": 1,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "leibniz",
+    "names": {
+      "zh": "莱布尼茨",
+      "en": "G. W. Leibniz"
+    },
+    "life": {
+      "display": "1646—1716",
+      "birth": 1646,
+      "death": 1716
+    },
+    "civilization": "european_modern",
+    "traditions": [
+      "modern_european_philosophy"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "knowledge",
+      "freedom",
+      "politics"
+    ],
+    "keywordsZh": [
+      "知识",
+      "自由",
+      "政治"
+    ],
+    "oneLineZh": "莱布尼茨是知识、自由问题谱系中的第一版候选哲人。",
+    "influenceWeight": 1,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "hume",
+    "names": {
+      "zh": "休谟",
+      "en": "David Hume"
+    },
+    "life": {
+      "display": "1711—1776",
+      "birth": 1711,
+      "death": 1776
+    },
+    "civilization": "european_modern",
+    "traditions": [
+      "modern_european_philosophy"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "knowledge",
+      "freedom",
+      "politics"
+    ],
+    "keywordsZh": [
+      "知识",
+      "自由",
+      "政治"
+    ],
+    "oneLineZh": "休谟是知识、自由问题谱系中的第一版候选哲人。",
+    "influenceWeight": 3,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "rousseau",
+    "names": {
+      "zh": "卢梭",
+      "en": "Jean-Jacques Rousseau"
+    },
+    "life": {
+      "display": "1712—1778",
+      "birth": 1712,
+      "death": 1778
+    },
+    "civilization": "european_modern",
+    "traditions": [
+      "modern_european_philosophy"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "knowledge",
+      "freedom",
+      "politics"
+    ],
+    "keywordsZh": [
+      "知识",
+      "自由",
+      "政治"
+    ],
+    "oneLineZh": "卢梭是知识、自由问题谱系中的第一版候选哲人。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "kant",
+    "names": {
+      "zh": "康德",
+      "en": "Immanuel Kant"
+    },
+    "life": {
+      "display": "1724—1804",
+      "birth": 1724,
+      "death": 1804
+    },
+    "civilization": "european_modern",
+    "traditions": [
+      "critical_philosophy"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "knowledge",
+      "ethics",
+      "freedom"
+    ],
+    "keywordsZh": [
+      "知识",
+      "伦理",
+      "自由"
+    ],
+    "oneLineZh": "以批判哲学重设知识、自由和道德法则的边界。",
+    "influenceWeight": 3,
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "hegel",
+    "names": {
+      "zh": "黑格尔",
+      "en": "G. W. F. Hegel"
+    },
+    "life": {
+      "display": "1770—1831",
+      "birth": 1770,
+      "death": 1831
+    },
+    "civilization": "european_modern",
+    "traditions": [
+      "modern_european_philosophy"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "knowledge",
+      "freedom",
+      "politics"
+    ],
+    "keywordsZh": [
+      "知识",
+      "自由",
+      "政治"
+    ],
+    "oneLineZh": "黑格尔是知识、自由问题谱系中的第一版候选哲人。",
+    "influenceWeight": 3,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "schopenhauer",
+    "names": {
+      "zh": "叔本华",
+      "en": "Arthur Schopenhauer"
+    },
+    "life": {
+      "display": "1788—1860",
+      "birth": 1788,
+      "death": 1860
+    },
+    "civilization": "european_modern",
+    "traditions": [
+      "modern_european_philosophy"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "knowledge",
+      "freedom",
+      "politics"
+    ],
+    "keywordsZh": [
+      "知识",
+      "自由",
+      "政治"
+    ],
+    "oneLineZh": "叔本华是知识、自由问题谱系中的第一版候选哲人。",
+    "influenceWeight": 1,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "kierkegaard",
+    "names": {
+      "zh": "克尔凯郭尔",
+      "en": "Soren Kierkegaard"
+    },
+    "life": {
+      "display": "1813—1855",
+      "birth": 1813,
+      "death": 1855
+    },
+    "civilization": "european_modern",
+    "traditions": [
+      "modern_european_philosophy"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "knowledge",
+      "freedom",
+      "politics"
+    ],
+    "keywordsZh": [
+      "知识",
+      "自由",
+      "政治"
+    ],
+    "oneLineZh": "克尔凯郭尔是知识、自由问题谱系中的第一版候选哲人。",
+    "influenceWeight": 1,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "mill",
+    "names": {
+      "zh": "约翰·密尔",
+      "en": "John Stuart Mill"
+    },
+    "life": {
+      "display": "1806—1873",
+      "birth": 1806,
+      "death": 1873
+    },
+    "civilization": "european_modern",
+    "traditions": [
+      "modern_european_philosophy"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "knowledge",
+      "freedom",
+      "politics"
+    ],
+    "keywordsZh": [
+      "知识",
+      "自由",
+      "政治"
+    ],
+    "oneLineZh": "约翰·密尔是知识、自由问题谱系中的第一版候选哲人。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "marx",
+    "names": {
+      "zh": "马克思",
+      "en": "Karl Marx"
+    },
+    "life": {
+      "display": "1818—1883",
+      "birth": 1818,
+      "death": 1883
+    },
+    "civilization": "european_modern",
+    "traditions": [
+      "modern_european_philosophy"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "knowledge",
+      "freedom",
+      "politics"
+    ],
+    "keywordsZh": [
+      "知识",
+      "自由",
+      "政治"
+    ],
+    "oneLineZh": "马克思是知识、自由问题谱系中的第一版候选哲人。",
+    "influenceWeight": 3,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "nietzsche",
+    "names": {
+      "zh": "尼采",
+      "en": "Friedrich Nietzsche"
+    },
+    "life": {
+      "display": "1844—1900",
+      "birth": 1844,
+      "death": 1900
+    },
+    "civilization": "european_modern",
+    "traditions": [
+      "modern_european_philosophy"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "knowledge",
+      "freedom",
+      "politics"
+    ],
+    "keywordsZh": [
+      "知识",
+      "自由",
+      "政治"
+    ],
+    "oneLineZh": "尼采是知识、自由问题谱系中的第一版候选哲人。",
+    "influenceWeight": 3,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "frege",
+    "names": {
+      "zh": "弗雷格",
+      "en": "Gottlob Frege"
+    },
+    "life": {
+      "display": "1848—1925",
+      "birth": 1848,
+      "death": 1925
+    },
+    "civilization": "european_modern",
+    "traditions": [
+      "modern_european_philosophy"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "knowledge",
+      "freedom",
+      "politics"
+    ],
+    "keywordsZh": [
+      "知识",
+      "自由",
+      "政治"
+    ],
+    "oneLineZh": "弗雷格是知识、自由问题谱系中的第一版候选哲人。",
+    "influenceWeight": 1,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "husserl",
+    "names": {
+      "zh": "胡塞尔",
+      "en": "Edmund Husserl"
+    },
+    "life": {
+      "display": "1859—1938",
+      "birth": 1859,
+      "death": 1938
+    },
+    "civilization": "european_modern",
+    "traditions": [
+      "modern_european_philosophy"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "knowledge",
+      "freedom",
+      "politics"
+    ],
+    "keywordsZh": [
+      "知识",
+      "自由",
+      "政治"
+    ],
+    "oneLineZh": "胡塞尔是知识、自由问题谱系中的第一版候选哲人。",
+    "influenceWeight": 1,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "bergson",
+    "names": {
+      "zh": "柏格森",
+      "en": "Henri Bergson"
+    },
+    "life": {
+      "display": "1859—1941",
+      "birth": 1859,
+      "death": 1941
+    },
+    "civilization": "european_modern",
+    "traditions": [
+      "modern_european_philosophy"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "knowledge",
+      "freedom",
+      "politics"
+    ],
+    "keywordsZh": [
+      "知识",
+      "自由",
+      "政治"
+    ],
+    "oneLineZh": "柏格森是知识、自由问题谱系中的第一版候选哲人。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "dewey",
+    "names": {
+      "zh": "杜威",
+      "en": "John Dewey"
+    },
+    "life": {
+      "display": "1859—1952",
+      "birth": 1859,
+      "death": 1952
+    },
+    "civilization": "american",
+    "traditions": [
+      "american_philosophy"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "justice",
+      "politics",
+      "ethics"
+    ],
+    "keywordsZh": [
+      "正义",
+      "政治",
+      "伦理"
+    ],
+    "oneLineZh": "杜威是正义、政治问题谱系中的第一版候选哲人。",
+    "influenceWeight": 1,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "wittgenstein",
+    "names": {
+      "zh": "维特根斯坦",
+      "en": "Ludwig Wittgenstein"
+    },
+    "life": {
+      "display": "1889—1951",
+      "birth": 1889,
+      "death": 1951
+    },
+    "civilization": "european_modern",
+    "traditions": [
+      "modern_european_philosophy"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "knowledge",
+      "freedom",
+      "politics"
+    ],
+    "keywordsZh": [
+      "知识",
+      "自由",
+      "政治"
+    ],
+    "oneLineZh": "维特根斯坦是知识、自由问题谱系中的第一版候选哲人。",
+    "influenceWeight": 1,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "heidegger",
+    "names": {
+      "zh": "海德格尔",
+      "en": "Martin Heidegger"
+    },
+    "life": {
+      "display": "1889—1976",
+      "birth": 1889,
+      "death": 1976
+    },
+    "civilization": "european_modern",
+    "traditions": [
+      "modern_european_philosophy"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "knowledge",
+      "freedom",
+      "politics"
+    ],
+    "keywordsZh": [
+      "知识",
+      "自由",
+      "政治"
+    ],
+    "oneLineZh": "海德格尔是知识、自由问题谱系中的第一版候选哲人。",
+    "influenceWeight": 1,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "russell",
+    "names": {
+      "zh": "罗素",
+      "en": "Bertrand Russell"
+    },
+    "life": {
+      "display": "1872—1970",
+      "birth": 1872,
+      "death": 1970
+    },
+    "civilization": "european_modern",
+    "traditions": [
+      "modern_european_philosophy"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "knowledge",
+      "freedom",
+      "politics"
+    ],
+    "keywordsZh": [
+      "知识",
+      "自由",
+      "政治"
+    ],
+    "oneLineZh": "罗素是知识、自由问题谱系中的第一版候选哲人。",
+    "influenceWeight": 1,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "whitehead",
+    "names": {
+      "zh": "怀特海",
+      "en": "Alfred North Whitehead"
+    },
+    "life": {
+      "display": "1861—1947",
+      "birth": 1861,
+      "death": 1947
+    },
+    "civilization": "european_modern",
+    "traditions": [
+      "modern_european_philosophy"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "knowledge",
+      "freedom",
+      "politics"
+    ],
+    "keywordsZh": [
+      "知识",
+      "自由",
+      "政治"
+    ],
+    "oneLineZh": "怀特海是知识、自由问题谱系中的第一版候选哲人。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "carnap",
+    "names": {
+      "zh": "卡尔纳普",
+      "en": "Rudolf Carnap"
+    },
+    "life": {
+      "display": "1891—1970",
+      "birth": 1891,
+      "death": 1970
+    },
+    "civilization": "european_modern",
+    "traditions": [
+      "modern_european_philosophy"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "knowledge",
+      "freedom",
+      "politics"
+    ],
+    "keywordsZh": [
+      "知识",
+      "自由",
+      "政治"
+    ],
+    "oneLineZh": "卡尔纳普是知识、自由问题谱系中的第一版候选哲人。",
+    "influenceWeight": 1,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "arendt",
+    "names": {
+      "zh": "阿伦特",
+      "en": "Hannah Arendt"
+    },
+    "life": {
+      "display": "1906—1975",
+      "birth": 1906,
+      "death": 1975
+    },
+    "civilization": "european_modern",
+    "traditions": [
+      "modern_european_philosophy"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "knowledge",
+      "freedom",
+      "politics"
+    ],
+    "keywordsZh": [
+      "知识",
+      "自由",
+      "政治"
+    ],
+    "oneLineZh": "阿伦特是知识、自由问题谱系中的第一版候选哲人。",
+    "influenceWeight": 1,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "sartre",
+    "names": {
+      "zh": "萨特",
+      "en": "Jean-Paul Sartre"
+    },
+    "life": {
+      "display": "1905—1980",
+      "birth": 1905,
+      "death": 1980
+    },
+    "civilization": "european_modern",
+    "traditions": [
+      "modern_european_philosophy"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "knowledge",
+      "freedom",
+      "politics"
+    ],
+    "keywordsZh": [
+      "知识",
+      "自由",
+      "政治"
+    ],
+    "oneLineZh": "萨特是知识、自由问题谱系中的第一版候选哲人。",
+    "influenceWeight": 1,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "beauvoir",
+    "names": {
+      "zh": "波伏娃",
+      "en": "Simone de Beauvoir"
+    },
+    "life": {
+      "display": "1908—1986",
+      "birth": 1908,
+      "death": 1986
+    },
+    "civilization": "european_modern",
+    "traditions": [
+      "modern_european_philosophy"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "knowledge",
+      "freedom",
+      "politics"
+    ],
+    "keywordsZh": [
+      "知识",
+      "自由",
+      "政治"
+    ],
+    "oneLineZh": "波伏娃是知识、自由问题谱系中的第一版候选哲人。",
+    "influenceWeight": 1,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "merleau-ponty",
+    "names": {
+      "zh": "梅洛-庞蒂",
+      "en": "Maurice Merleau-Ponty"
+    },
+    "life": {
+      "display": "1908—1961",
+      "birth": 1908,
+      "death": 1961
+    },
+    "civilization": "european_modern",
+    "traditions": [
+      "modern_european_philosophy"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "knowledge",
+      "freedom",
+      "politics"
+    ],
+    "keywordsZh": [
+      "知识",
+      "自由",
+      "政治"
+    ],
+    "oneLineZh": "梅洛-庞蒂是知识、自由问题谱系中的第一版候选哲人。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "camus",
+    "names": {
+      "zh": "加缪",
+      "en": "Albert Camus"
+    },
+    "life": {
+      "display": "1913—1960",
+      "birth": 1913,
+      "death": 1960
+    },
+    "civilization": "european_modern",
+    "traditions": [
+      "modern_european_philosophy"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "knowledge",
+      "freedom",
+      "politics"
+    ],
+    "keywordsZh": [
+      "知识",
+      "自由",
+      "政治"
+    ],
+    "oneLineZh": "加缪是知识、自由问题谱系中的第一版候选哲人。",
+    "influenceWeight": 1,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "quine",
+    "names": {
+      "zh": "蒯因",
+      "en": "W. V. O. Quine"
+    },
+    "life": {
+      "display": "1908—2000",
+      "birth": 1908,
+      "death": 2000
+    },
+    "civilization": "american",
+    "traditions": [
+      "american_philosophy"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "justice",
+      "politics",
+      "ethics"
+    ],
+    "keywordsZh": [
+      "正义",
+      "政治",
+      "伦理"
+    ],
+    "oneLineZh": "蒯因是正义、政治问题谱系中的第一版候选哲人。",
+    "influenceWeight": 1,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "rawls",
+    "names": {
+      "zh": "罗尔斯",
+      "en": "John Rawls"
+    },
+    "life": {
+      "display": "1921—2002",
+      "birth": 1921,
+      "death": 2002
+    },
+    "civilization": "american",
+    "traditions": [
+      "liberalism",
+      "political_philosophy"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "justice",
+      "politics",
+      "ethics"
+    ],
+    "keywordsZh": [
+      "正义",
+      "政治",
+      "伦理"
+    ],
+    "oneLineZh": "以公平正义理论重塑当代政治哲学的问题框架。",
+    "influenceWeight": 3,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "nozick",
+    "names": {
+      "zh": "诺齐克",
+      "en": "Robert Nozick"
+    },
+    "life": {
+      "display": "1938—2002",
+      "birth": 1938,
+      "death": 2002
+    },
+    "civilization": "american",
+    "traditions": [
+      "american_philosophy"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "justice",
+      "politics",
+      "ethics"
+    ],
+    "keywordsZh": [
+      "正义",
+      "政治",
+      "伦理"
+    ],
+    "oneLineZh": "诺齐克是正义、政治问题谱系中的第一版候选哲人。",
+    "influenceWeight": 1,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "foucault",
+    "names": {
+      "zh": "福柯",
+      "en": "Michel Foucault"
+    },
+    "life": {
+      "display": "1926—1984",
+      "birth": 1926,
+      "death": 1984
+    },
+    "civilization": "european_modern",
+    "traditions": [
+      "modern_european_philosophy"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "knowledge",
+      "freedom",
+      "politics"
+    ],
+    "keywordsZh": [
+      "知识",
+      "自由",
+      "政治"
+    ],
+    "oneLineZh": "福柯是知识、自由问题谱系中的第一版候选哲人。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "derrida",
+    "names": {
+      "zh": "德里达",
+      "en": "Jacques Derrida"
+    },
+    "life": {
+      "display": "1930—2004",
+      "birth": 1930,
+      "death": 2004
+    },
+    "civilization": "european_modern",
+    "traditions": [
+      "modern_european_philosophy"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "knowledge",
+      "freedom",
+      "politics"
+    ],
+    "keywordsZh": [
+      "知识",
+      "自由",
+      "政治"
+    ],
+    "oneLineZh": "德里达是知识、自由问题谱系中的第一版候选哲人。",
+    "influenceWeight": 1,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "habermas",
+    "names": {
+      "zh": "哈贝马斯",
+      "en": "Jurgen Habermas"
+    },
+    "life": {
+      "display": "1929 年生",
+      "birth": 1929
+    },
+    "civilization": "european_modern",
+    "traditions": [
+      "modern_european_philosophy"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "knowledge",
+      "freedom",
+      "politics"
+    ],
+    "keywordsZh": [
+      "知识",
+      "自由",
+      "政治"
+    ],
+    "oneLineZh": "哈贝马斯是知识、自由问题谱系中的第一版候选哲人。",
+    "influenceWeight": 1,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "singer",
+    "names": {
+      "zh": "彼得·辛格",
+      "en": "Peter Singer"
+    },
+    "life": {
+      "display": "1946 年生",
+      "birth": 1946
+    },
+    "civilization": "global_modern",
+    "traditions": [
+      "global_modern_thought"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "ethics",
+      "justice",
+      "freedom"
+    ],
+    "keywordsZh": [
+      "伦理",
+      "正义",
+      "自由"
+    ],
+    "oneLineZh": "彼得·辛格是伦理、正义问题谱系中的第一版候选哲人。",
+    "influenceWeight": 1,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "nussbaum",
+    "names": {
+      "zh": "努斯鲍姆",
+      "en": "Martha Nussbaum"
+    },
+    "life": {
+      "display": "1947 年生",
+      "birth": 1947
+    },
+    "civilization": "global_modern",
+    "traditions": [
+      "global_modern_thought"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "ethics",
+      "justice",
+      "freedom"
+    ],
+    "keywordsZh": [
+      "伦理",
+      "正义",
+      "自由"
+    ],
+    "oneLineZh": "努斯鲍姆是伦理、正义问题谱系中的第一版候选哲人。",
+    "influenceWeight": 1,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "al-farabi",
+    "names": {
+      "zh": "法拉比",
+      "en": "Al-Farabi"
+    },
+    "life": {
+      "display": "约872—950",
+      "birth": 872,
+      "death": 950
+    },
+    "civilization": "islamic",
+    "traditions": [
+      "islamic_philosophy"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "metaphysics",
+      "religion",
+      "politics"
+    ],
+    "keywordsZh": [
+      "形而上学",
+      "宗教",
+      "政治"
+    ],
+    "oneLineZh": "法拉比是形而上学、宗教问题谱系中的第一版候选哲人。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "ibn-sina",
+    "names": {
+      "zh": "伊本·西那",
+      "en": "Ibn Sina"
+    },
+    "life": {
+      "display": "980—1037",
+      "birth": 980,
+      "death": 1037
+    },
+    "civilization": "islamic",
+    "traditions": [
+      "islamic_philosophy"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "metaphysics",
+      "religion",
+      "politics"
+    ],
+    "keywordsZh": [
+      "形而上学",
+      "宗教",
+      "政治"
+    ],
+    "oneLineZh": "伊本·西那是形而上学、宗教问题谱系中的第一版候选哲人。",
+    "influenceWeight": 1,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "al-ghazali",
+    "names": {
+      "zh": "安萨里",
+      "en": "Al-Ghazali"
+    },
+    "life": {
+      "display": "1058—1111",
+      "birth": 1058,
+      "death": 1111
+    },
+    "civilization": "islamic",
+    "traditions": [
+      "islamic_philosophy"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "metaphysics",
+      "religion",
+      "politics"
+    ],
+    "keywordsZh": [
+      "形而上学",
+      "宗教",
+      "政治"
+    ],
+    "oneLineZh": "安萨里是形而上学、宗教问题谱系中的第一版候选哲人。",
+    "influenceWeight": 1,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "ibn-rushd",
+    "names": {
+      "zh": "伊本·鲁世德",
+      "en": "Ibn Rushd"
+    },
+    "life": {
+      "display": "1126—1198",
+      "birth": 1126,
+      "death": 1198
+    },
+    "civilization": "islamic",
+    "traditions": [
+      "islamic_philosophy"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "metaphysics",
+      "religion",
+      "politics"
+    ],
+    "keywordsZh": [
+      "形而上学",
+      "宗教",
+      "政治"
+    ],
+    "oneLineZh": "伊本·鲁世德是形而上学、宗教问题谱系中的第一版候选哲人。",
+    "influenceWeight": 1,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "mulla-sadra",
+    "names": {
+      "zh": "穆拉·萨德拉",
+      "en": "Mulla Sadra"
+    },
+    "life": {
+      "display": "1571—1636",
+      "birth": 1571,
+      "death": 1636
+    },
+    "civilization": "islamic",
+    "traditions": [
+      "islamic_philosophy"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "metaphysics",
+      "religion",
+      "politics"
+    ],
+    "keywordsZh": [
+      "形而上学",
+      "宗教",
+      "政治"
+    ],
+    "oneLineZh": "穆拉·萨德拉是形而上学、宗教问题谱系中的第一版候选哲人。",
+    "influenceWeight": 1,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "saadia-gaon",
+    "names": {
+      "zh": "萨阿迪亚·高昂",
+      "en": "Saadia Gaon"
+    },
+    "life": {
+      "display": "882—942",
+      "birth": 882,
+      "death": 942
+    },
+    "civilization": "jewish",
+    "traditions": [
+      "jewish_philosophy"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "religion",
+      "ethics",
+      "language"
+    ],
+    "keywordsZh": [
+      "宗教",
+      "伦理",
+      "语言"
+    ],
+    "oneLineZh": "萨阿迪亚·高昂是宗教、伦理问题谱系中的第一版候选哲人。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "maimonides",
+    "names": {
+      "zh": "迈蒙尼德",
+      "en": "Maimonides"
+    },
+    "life": {
+      "display": "1138—1204",
+      "birth": 1138,
+      "death": 1204
+    },
+    "civilization": "jewish",
+    "traditions": [
+      "jewish_philosophy"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "religion",
+      "ethics",
+      "language"
+    ],
+    "keywordsZh": [
+      "宗教",
+      "伦理",
+      "语言"
+    ],
+    "oneLineZh": "迈蒙尼德是宗教、伦理问题谱系中的第一版候选哲人。",
+    "influenceWeight": 1,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "buber",
+    "names": {
+      "zh": "布伯",
+      "en": "Martin Buber"
+    },
+    "life": {
+      "display": "1878—1965",
+      "birth": 1878,
+      "death": 1965
+    },
+    "civilization": "jewish",
+    "traditions": [
+      "jewish_philosophy"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "religion",
+      "ethics",
+      "language"
+    ],
+    "keywordsZh": [
+      "宗教",
+      "伦理",
+      "语言"
+    ],
+    "oneLineZh": "布伯是宗教、伦理问题谱系中的第一版候选哲人。",
+    "influenceWeight": 1,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "levinas",
+    "names": {
+      "zh": "列维纳斯",
+      "en": "Emmanuel Levinas"
+    },
+    "life": {
+      "display": "1906—1995",
+      "birth": 1906,
+      "death": 1995
+    },
+    "civilization": "jewish",
+    "traditions": [
+      "jewish_philosophy"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "religion",
+      "ethics",
+      "language"
+    ],
+    "keywordsZh": [
+      "宗教",
+      "伦理",
+      "语言"
+    ],
+    "oneLineZh": "列维纳斯是宗教、伦理问题谱系中的第一版候选哲人。",
+    "influenceWeight": 1,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "dogen",
+    "names": {
+      "zh": "道元",
+      "en": "Dogen"
+    },
+    "life": {
+      "display": "1200—1253",
+      "birth": 1200,
+      "death": 1253
+    },
+    "civilization": "japanese",
+    "traditions": [
+      "japanese_philosophy"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "religion",
+      "aesthetics",
+      "ethics"
+    ],
+    "keywordsZh": [
+      "宗教",
+      "审美",
+      "伦理"
+    ],
+    "oneLineZh": "道元是宗教、审美问题谱系中的第一版候选哲人。",
+    "influenceWeight": 1,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "nishida",
+    "names": {
+      "zh": "西田几多郎",
+      "en": "Nishida Kitaro"
+    },
+    "life": {
+      "display": "1870—1945",
+      "birth": 1870,
+      "death": 1945
+    },
+    "civilization": "japanese",
+    "traditions": [
+      "japanese_philosophy"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "religion",
+      "aesthetics",
+      "ethics"
+    ],
+    "keywordsZh": [
+      "宗教",
+      "审美",
+      "伦理"
+    ],
+    "oneLineZh": "西田几多郎是宗教、审美问题谱系中的第一版候选哲人。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "watsuji",
+    "names": {
+      "zh": "和辻哲郎",
+      "en": "Watsuji Tetsuro"
+    },
+    "life": {
+      "display": "1889—1960",
+      "birth": 1889,
+      "death": 1960
+    },
+    "civilization": "japanese",
+    "traditions": [
+      "japanese_philosophy"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "religion",
+      "aesthetics",
+      "ethics"
+    ],
+    "keywordsZh": [
+      "宗教",
+      "审美",
+      "伦理"
+    ],
+    "oneLineZh": "和辻哲郎是宗教、审美问题谱系中的第一版候选哲人。",
+    "influenceWeight": 1,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "toegye",
+    "names": {
+      "zh": "退溪李滉",
+      "en": "Yi Hwang"
+    },
+    "life": {
+      "display": "1501—1570",
+      "birth": 1501,
+      "death": 1570
+    },
+    "civilization": "korean",
+    "traditions": [
+      "korean_confucianism"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "ethics",
+      "politics",
+      "knowledge"
+    ],
+    "keywordsZh": [
+      "伦理",
+      "政治",
+      "知识"
+    ],
+    "oneLineZh": "退溪李滉是伦理、政治问题谱系中的第一版候选哲人。",
+    "influenceWeight": 1,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "yulgok",
+    "names": {
+      "zh": "栗谷李珥",
+      "en": "Yi I"
+    },
+    "life": {
+      "display": "1536—1584",
+      "birth": 1536,
+      "death": 1584
+    },
+    "civilization": "korean",
+    "traditions": [
+      "korean_confucianism"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "ethics",
+      "politics",
+      "knowledge"
+    ],
+    "keywordsZh": [
+      "伦理",
+      "政治",
+      "知识"
+    ],
+    "oneLineZh": "栗谷李珥是伦理、政治问题谱系中的第一版候选哲人。",
+    "influenceWeight": 1,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "ibn-khaldun",
+    "names": {
+      "zh": "伊本·赫勒敦",
+      "en": "Ibn Khaldun"
+    },
+    "life": {
+      "display": "1332—1406",
+      "birth": 1332,
+      "death": 1406
+    },
+    "civilization": "islamic",
+    "traditions": [
+      "islamic_philosophy"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "metaphysics",
+      "religion",
+      "politics"
+    ],
+    "keywordsZh": [
+      "形而上学",
+      "宗教",
+      "政治"
+    ],
+    "oneLineZh": "伊本·赫勒敦是形而上学、宗教问题谱系中的第一版候选哲人。",
+    "influenceWeight": 1,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "amo",
+    "names": {
+      "zh": "安东·威廉·阿莫",
+      "en": "Anton Wilhelm Amo"
+    },
+    "life": {
+      "display": "约1703—1759",
+      "birth": 1703,
+      "death": 1759
+    },
+    "civilization": "african",
+    "traditions": [
+      "african_philosophy"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "politics",
+      "ethics",
+      "language"
+    ],
+    "keywordsZh": [
+      "政治",
+      "伦理",
+      "语言"
+    ],
+    "oneLineZh": "安东·威廉·阿莫是政治、伦理问题谱系中的第一版候选哲人。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "wiredu",
+    "names": {
+      "zh": "夸西·维雷杜",
+      "en": "Kwasi Wiredu"
+    },
+    "life": {
+      "display": "1931—2022",
+      "birth": 1931,
+      "death": 2022
+    },
+    "civilization": "african",
+    "traditions": [
+      "african_philosophy"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "politics",
+      "ethics",
+      "language"
+    ],
+    "keywordsZh": [
+      "政治",
+      "伦理",
+      "语言"
+    ],
+    "oneLineZh": "夸西·维雷杜是政治、伦理问题谱系中的第一版候选哲人。",
+    "influenceWeight": 1,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "senghor",
+    "names": {
+      "zh": "桑戈尔",
+      "en": "Leopold Sedar Senghor"
+    },
+    "life": {
+      "display": "1906—2001",
+      "birth": 1906,
+      "death": 2001
+    },
+    "civilization": "african",
+    "traditions": [
+      "african_philosophy"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "politics",
+      "ethics",
+      "language"
+    ],
+    "keywordsZh": [
+      "政治",
+      "伦理",
+      "语言"
+    ],
+    "oneLineZh": "桑戈尔是政治、伦理问题谱系中的第一版候选哲人。",
+    "influenceWeight": 1,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "hountondji",
+    "names": {
+      "zh": "洪通吉",
+      "en": "Paulin Hountondji"
+    },
+    "life": {
+      "display": "1942 年生",
+      "birth": 1942
+    },
+    "civilization": "african",
+    "traditions": [
+      "african_philosophy"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "politics",
+      "ethics",
+      "language"
+    ],
+    "keywordsZh": [
+      "政治",
+      "伦理",
+      "语言"
+    ],
+    "oneLineZh": "洪通吉是政治、伦理问题谱系中的第一版候选哲人。",
+    "influenceWeight": 1,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "dussel",
+    "names": {
+      "zh": "杜塞尔",
+      "en": "Enrique Dussel"
+    },
+    "life": {
+      "display": "1934—2023",
+      "birth": 1934,
+      "death": 2023
+    },
+    "civilization": "latin_american",
+    "traditions": [
+      "latin_american_philosophy"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "politics",
+      "justice",
+      "freedom"
+    ],
+    "keywordsZh": [
+      "政治",
+      "正义",
+      "自由"
+    ],
+    "oneLineZh": "杜塞尔是政治、正义问题谱系中的第一版候选哲人。",
+    "influenceWeight": 1,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "zelea",
+    "names": {
+      "zh": "塞亚",
+      "en": "Leopoldo Zea"
+    },
+    "life": {
+      "display": "1912—2004",
+      "birth": 1912,
+      "death": 2004
+    },
+    "civilization": "latin_american",
+    "traditions": [
+      "latin_american_philosophy"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "politics",
+      "justice",
+      "freedom"
+    ],
+    "keywordsZh": [
+      "政治",
+      "正义",
+      "自由"
+    ],
+    "oneLineZh": "塞亚是政治、正义问题谱系中的第一版候选哲人。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "sor-juana",
+    "names": {
+      "zh": "胡安娜修女",
+      "en": "Sor Juana Ines de la Cruz"
+    },
+    "life": {
+      "display": "1648—1695",
+      "birth": 1648,
+      "death": 1695
+    },
+    "civilization": "latin_american",
+    "traditions": [
+      "latin_american_philosophy"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "politics",
+      "justice",
+      "freedom"
+    ],
+    "keywordsZh": [
+      "政治",
+      "正义",
+      "自由"
+    ],
+    "oneLineZh": "胡安娜修女是政治、正义问题谱系中的第一版候选哲人。",
+    "influenceWeight": 1,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "plumwood",
+    "names": {
+      "zh": "普拉姆伍德",
+      "en": "Val Plumwood"
+    },
+    "life": {
+      "display": "1939—2008",
+      "birth": 1939,
+      "death": 2008
+    },
+    "civilization": "global_modern",
+    "traditions": [
+      "global_modern_thought"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "ethics",
+      "justice",
+      "freedom"
+    ],
+    "keywordsZh": [
+      "伦理",
+      "正义",
+      "自由"
+    ],
+    "oneLineZh": "普拉姆伍德是伦理、正义问题谱系中的第一版候选哲人。",
+    "influenceWeight": 1,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "butler",
+    "names": {
+      "zh": "巴特勒",
+      "en": "Judith Butler"
+    },
+    "life": {
+      "display": "1956 年生",
+      "birth": 1956
+    },
+    "civilization": "global_modern",
+    "traditions": [
+      "global_modern_thought"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "ethics",
+      "justice",
+      "freedom"
+    ],
+    "keywordsZh": [
+      "伦理",
+      "正义",
+      "自由"
+    ],
+    "oneLineZh": "巴特勒是伦理、正义问题谱系中的第一版候选哲人。",
+    "influenceWeight": 1,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "hooks",
+    "names": {
+      "zh": "贝尔·胡克斯",
+      "en": "bell hooks"
+    },
+    "life": {
+      "display": "1952—2021",
+      "birth": 1952,
+      "death": 2021
+    },
+    "civilization": "global_modern",
+    "traditions": [
+      "global_modern_thought"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "ethics",
+      "justice",
+      "freedom"
+    ],
+    "keywordsZh": [
+      "伦理",
+      "正义",
+      "自由"
+    ],
+    "oneLineZh": "贝尔·胡克斯是伦理、正义问题谱系中的第一版候选哲人。",
+    "influenceWeight": 1,
+    "reviewStatus": "draft"
+  }
+]

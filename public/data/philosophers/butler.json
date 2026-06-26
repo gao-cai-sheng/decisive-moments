@@ -1,0 +1,41 @@
+{
+  "id": "butler",
+  "names": {
+    "zh": "巴特勒",
+    "en": "Judith Butler"
+  },
+  "life": {
+    "display": "1956 年生",
+    "birth": 1956
+  },
+  "civilization": "global_modern",
+  "traditions": [
+    "global_modern_thought"
+  ],
+  "periods": [
+    "first_release"
+  ],
+  "themes": [
+    "ethics",
+    "justice",
+    "freedom"
+  ],
+  "keywordsZh": [
+    "伦理",
+    "正义",
+    "自由"
+  ],
+  "oneLineZh": "巴特勒是伦理、正义问题谱系中的第一版候选哲人。",
+  "influenceWeight": 1,
+  "reviewStatus": "draft",
+  "summaryZh": "巴特勒是伦理、正义问题谱系中的第一版候选哲人。 本条目是第一版结构化资料，已经保留文明、传统、主题、作品和论述字段，正式发布前需要继续核对年代、文本出处和概念表述。",
+  "works": [
+    "butler-primary-work"
+  ],
+  "sourceNotes": [
+    {
+      "label": "draft",
+      "noteZh": "条目需要人工核对作品、年代和概念表述。"
+    }
+  ]
+}

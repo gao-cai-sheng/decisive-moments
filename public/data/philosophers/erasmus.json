@@ -1,0 +1,42 @@
+{
+  "id": "erasmus",
+  "names": {
+    "zh": "伊拉斯谟",
+    "en": "Erasmus"
+  },
+  "life": {
+    "display": "1466—1536",
+    "birth": 1466,
+    "death": 1536
+  },
+  "civilization": "european_modern",
+  "traditions": [
+    "modern_european_philosophy"
+  ],
+  "periods": [
+    "first_release"
+  ],
+  "themes": [
+    "knowledge",
+    "freedom",
+    "politics"
+  ],
+  "keywordsZh": [
+    "知识",
+    "自由",
+    "政治"
+  ],
+  "oneLineZh": "伊拉斯谟是知识、自由问题谱系中的第一版候选哲人。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "伊拉斯谟是知识、自由问题谱系中的第一版候选哲人。 本条目是第一版结构化资料，已经保留文明、传统、主题、作品和论述字段，正式发布前需要继续核对年代、文本出处和概念表述。",
+  "works": [
+    "erasmus-primary-work"
+  ],
+  "sourceNotes": [
+    {
+      "label": "draft",
+      "noteZh": "条目需要人工核对作品、年代和概念表述。"
+    }
+  ]
+}

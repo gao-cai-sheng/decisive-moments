@@ -1,0 +1,326 @@
+{
+  "id": "buddha",
+  "names": {
+    "zh": "释迦牟尼",
+    "en": "Gautama Buddha",
+    "native": "Siddhārtha Gautama / Śākyamuni"
+  },
+  "life": {
+    "birth": -563,
+    "death": -483,
+    "display": "约公元前 5 世纪；传统年代多作约前 563 - 前 483，现代研究常采用更晚估计"
+  },
+  "civilization": "indian",
+  "traditions": [
+    "early_buddhism",
+    "indian_philosophy",
+    "sramana_tradition"
+  ],
+  "periods": [
+    "axial_age",
+    "early_buddhism"
+  ],
+  "themes": [
+    "religion",
+    "metaphysics",
+    "life_death",
+    "ethics",
+    "freedom",
+    "knowledge"
+  ],
+  "keywordsZh": [
+    "四圣谛",
+    "缘起",
+    "无我",
+    "中道",
+    "八正道",
+    "涅槃"
+  ],
+  "oneLineZh": "以苦、缘起、无我和解脱道路重塑印度思想中关于生命、执著与自由的根本问题。",
+  "influenceWeight": 3,
+  "reviewStatus": "reviewed",
+  "summaryZh": "释迦牟尼，又称乔达摩佛陀，是早期佛教传统的开创者。他把人生之苦、贪爱与无明的条件结构、无常无我的洞见，以及通过戒、定、慧走向涅槃的实践道路组织成一套可修行、可分析的思想体系。其年代存在传统纪年和现代研究估计的差异，本条采用带有不确定性的展示方式。",
+  "works": [
+    "dhammacakkappavattana-sutta",
+    "anattalakkhana-sutta",
+    "kaccanagotta-sutta",
+    "mahaparinibbana-sutta"
+  ],
+  "sourceNotes": [
+    {
+      "label": "chronology",
+      "url": "https://www.britannica.com/biography/Buddha-founder-of-Buddhism",
+      "noteZh": "释迦牟尼年代存在传统纪年和现代学术估计差异；本条采用不确定性表述。"
+    },
+    {
+      "label": "four noble truths",
+      "url": "https://suttacentral.net/sn56.11/en/sujato",
+      "noteZh": "《转法轮经》传统用于组织四圣谛、中道和八正道相关节点。"
+    },
+    {
+      "label": "not-self",
+      "url": "https://suttacentral.net/sn22.59/en/sujato",
+      "noteZh": "《无我相经》传统用于组织五蕴、无我和执取问题。"
+    },
+    {
+      "label": "dependent origination",
+      "url": "https://suttacentral.net/sn12.15/en/sujato",
+      "noteZh": "缘起相关经文用于组织条件性、非自性和中道视角。"
+    }
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "buddha-suffering",
+        "titleZh": "苦与生命处境",
+        "questionZh": "生命为什么被苦所贯穿，苦是否有可理解的结构？",
+        "summaryZh": "释迦牟尼以苦作为修行和分析的起点，把生死处境转化为可观察、可转化的问题。",
+        "themeIds": [
+          "life_death",
+          "religion"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "buddha-four-truths",
+            "titleZh": "四圣谛组织问题",
+            "claimZh": "苦、集、灭、道把生命困境、原因、可能出路和实践路径连成整体。",
+            "explanationZh": "四圣谛不是悲观宣言，而是一种诊断结构，使苦从模糊感受变成可修行的问题。",
+            "themeIds": [
+              "life_death",
+              "religion"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "buddha-four-truths-source",
+                "titleZh": "初转法轮传统",
+                "summaryZh": "佛教传统以初转法轮叙述四圣谛的提出，作为修行道路的基本框架。",
+                "source": {
+                  "workId": "dhammacakkappavattana-sutta",
+                  "locator": "SN 56.11；四圣谛段落",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "buddha-craving",
+            "titleZh": "贪爱加深苦",
+            "claimZh": "苦并不只来自外部遭遇，也来自对无常事物的执取和贪爱。",
+            "explanationZh": "对持续自我、稳定占有和永恒满足的追求，使变化本身被体验为痛苦。",
+            "themeIds": [
+              "life_death",
+              "ethics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "buddha-craving-source",
+                "titleZh": "集谛相关论述",
+                "summaryZh": "集谛把苦的生起与贪爱、执取和无明关联起来。",
+                "source": {
+                  "workId": "dhammacakkappavattana-sutta",
+                  "locator": "SN 56.11；集谛段落",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "buddha-dependent-origination",
+        "titleZh": "缘起",
+        "questionZh": "事物是否拥有独立自性，还是在条件关系中生起？",
+        "summaryZh": "缘起把存在理解为条件性的生成关系，反对把人和世界看成孤立固定实体。",
+        "themeIds": [
+          "metaphysics",
+          "knowledge"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "buddha-conditionality",
+            "titleZh": "诸法因缘生",
+            "claimZh": "现象依条件而生，也依条件改变和消散。",
+            "explanationZh": "缘起让修行者观察因果条件，而不是把痛苦和自我误认为不可改变的实体。",
+            "themeIds": [
+              "metaphysics",
+              "knowledge"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "buddha-dependent-source",
+                "titleZh": "缘起相关传统",
+                "summaryZh": "缘起教义在佛教传统中用以说明经验、痛苦和解脱的条件结构。",
+                "source": {
+                  "workId": "kaccanagotta-sutta",
+                  "locator": "SN 12.15；正见与缘起段落",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "buddha-nonself",
+        "titleZh": "无我",
+        "questionZh": "是否存在一个恒常不变、可以占有经验的自我？",
+        "summaryZh": "无我分析把人格拆解为五蕴等条件组合，以削弱对固定自我的执著。",
+        "themeIds": [
+          "metaphysics",
+          "life_death"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "buddha-aggregates",
+            "titleZh": "自我是聚合",
+            "claimZh": "所谓自我可以被分析为色、受、想、行、识等不断变化的聚合。",
+            "explanationZh": "五蕴分析让自我不再是隐藏实体，而是可观察的身心过程组合。",
+            "themeIds": [
+              "metaphysics",
+              "knowledge"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "buddha-aggregates-source",
+                "titleZh": "五蕴相关论述",
+                "summaryZh": "五蕴教义通过身心因素分析说明自我执著的对象并非恒常实体。",
+                "source": {
+                  "workId": "anattalakkhana-sutta",
+                  "locator": "SN 22.59；五蕴无我段落",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "buddha-nonself-therapy",
+            "titleZh": "无我是解脱策略",
+            "claimZh": "看见无我不是纯理论结论，而是解除执取和恐惧的实践方式。",
+            "explanationZh": "当自我不再被把握为恒常核心时，对失去、死亡和控制的执著也会松动。",
+            "themeIds": [
+              "life_death",
+              "freedom"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "buddha-nonself-practice",
+                "titleZh": "无我观修传统",
+                "summaryZh": "佛教传统把无我观与减少执取、增长解脱经验联系起来。",
+                "source": {
+                  "workId": "anattalakkhana-sutta",
+                  "locator": "SN 22.59；厌离与离贪段落",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "buddha-path",
+        "titleZh": "中道与解脱",
+        "questionZh": "如果苦有条件结构，人应当如何实践才能走向解脱？",
+        "summaryZh": "中道和八正道把解脱落实为伦理、禅定和智慧共同参与的实践道路。",
+        "themeIds": [
+          "religion",
+          "ethics",
+          "freedom"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "buddha-middle-way",
+            "titleZh": "中道避开两端",
+            "claimZh": "修行应避开纵欲与苦行两端，在可持续的实践中转化身心。",
+            "explanationZh": "中道强调解脱不是极端否定生命，而是通过合宜道路改变欲望和认识。",
+            "themeIds": [
+              "ethics",
+              "religion"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "buddha-middle-way-source",
+                "titleZh": "中道传统",
+                "summaryZh": "中道在佛教传统中被视为离开享乐主义和苦行主义的实践原则。",
+                "source": {
+                  "workId": "dhammacakkappavattana-sutta",
+                  "locator": "SN 56.11；中道与八正道段落",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "buddha-nirvana",
+        "titleZh": "涅槃与解脱",
+        "questionZh": "如果苦由条件和执取而生，真正的自由意味着什么？",
+        "summaryZh": "涅槃不是自我获得永恒占有物，而是贪爱、无明和执取止息后的解脱状态。",
+        "themeIds": [
+          "freedom",
+          "life_death",
+          "religion"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "buddha-nirodha",
+            "titleZh": "灭谛指向止息",
+            "claimZh": "苦的止息来自贪爱和执取的止息，而不是从世界中取得最终满足。",
+            "explanationZh": "灭谛把解脱理解为条件链条的止息：当无明、贪爱和执取不再维持苦的生成，生命处境便发生根本转化。",
+            "themeIds": [
+              "freedom",
+              "life_death"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "buddha-nirodha-source",
+                "titleZh": "《转法轮经》中的灭谛",
+                "summaryZh": "《转法轮经》把苦的止息列为四圣谛之一，并把道路指向止息的实践过程。",
+                "source": {
+                  "workId": "dhammacakkappavattana-sutta",
+                  "locator": "SN 56.11；灭谛段落",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "buddha-final-nibbana",
+            "titleZh": "般涅槃显示生命终点",
+            "claimZh": "佛陀的最终涅槃把解脱问题带回无常、传承和实践共同体。",
+            "explanationZh": "早期佛教关于佛陀入灭的叙述，不把解脱解释为一个永恒自我的保留，而强调无常、教法传承和修行者自身实践。",
+            "themeIds": [
+              "life_death",
+              "religion"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "buddha-mahaparinibbana-source",
+                "titleZh": "《大般涅槃经》传统",
+                "summaryZh": "《大般涅槃经》记录佛陀晚年、入灭和僧团传承相关叙述，适合承载生命终点与教法延续节点。",
+                "source": {
+                  "workId": "mahaparinibbana-sutta",
+                  "locator": "DN 16；入灭与遗教传统",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

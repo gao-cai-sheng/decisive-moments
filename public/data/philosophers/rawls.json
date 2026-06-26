@@ -1,0 +1,43 @@
+{
+  "id": "rawls",
+  "names": {
+    "zh": "罗尔斯",
+    "en": "John Rawls"
+  },
+  "life": {
+    "display": "1921—2002",
+    "birth": 1921,
+    "death": 2002
+  },
+  "civilization": "american",
+  "traditions": [
+    "liberalism",
+    "political_philosophy"
+  ],
+  "periods": [
+    "first_release"
+  ],
+  "themes": [
+    "justice",
+    "politics",
+    "ethics"
+  ],
+  "keywordsZh": [
+    "正义",
+    "政治",
+    "伦理"
+  ],
+  "oneLineZh": "以公平正义理论重塑当代政治哲学的问题框架。",
+  "influenceWeight": 3,
+  "reviewStatus": "draft",
+  "summaryZh": "罗尔斯通过原初状态、无知之幕和两项正义原则，为现代自由主义政治哲学提供系统论证。",
+  "works": [
+    "rawls-primary-work"
+  ],
+  "sourceNotes": [
+    {
+      "label": "draft",
+      "noteZh": "条目需要人工核对作品、年代和概念表述。"
+    }
+  ]
+}

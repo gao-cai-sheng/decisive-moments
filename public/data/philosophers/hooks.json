@@ -1,0 +1,42 @@
+{
+  "id": "hooks",
+  "names": {
+    "zh": "贝尔·胡克斯",
+    "en": "bell hooks"
+  },
+  "life": {
+    "display": "1952—2021",
+    "birth": 1952,
+    "death": 2021
+  },
+  "civilization": "global_modern",
+  "traditions": [
+    "global_modern_thought"
+  ],
+  "periods": [
+    "first_release"
+  ],
+  "themes": [
+    "ethics",
+    "justice",
+    "freedom"
+  ],
+  "keywordsZh": [
+    "伦理",
+    "正义",
+    "自由"
+  ],
+  "oneLineZh": "贝尔·胡克斯是伦理、正义问题谱系中的第一版候选哲人。",
+  "influenceWeight": 1,
+  "reviewStatus": "draft",
+  "summaryZh": "贝尔·胡克斯是伦理、正义问题谱系中的第一版候选哲人。 本条目是第一版结构化资料，已经保留文明、传统、主题、作品和论述字段，正式发布前需要继续核对年代、文本出处和概念表述。",
+  "works": [
+    "hooks-primary-work"
+  ],
+  "sourceNotes": [
+    {
+      "label": "draft",
+      "noteZh": "条目需要人工核对作品、年代和概念表述。"
+    }
+  ]
+}

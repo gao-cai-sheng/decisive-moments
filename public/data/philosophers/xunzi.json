@@ -1,0 +1,42 @@
+{
+  "id": "xunzi",
+  "names": {
+    "zh": "荀子",
+    "en": "Xunzi"
+  },
+  "life": {
+    "display": "约前 310—前 235",
+    "birth": -310,
+    "death": -235
+  },
+  "civilization": "chinese",
+  "traditions": [
+    "chinese_philosophy"
+  ],
+  "periods": [
+    "first_release"
+  ],
+  "themes": [
+    "ethics",
+    "politics",
+    "justice"
+  ],
+  "keywordsZh": [
+    "伦理",
+    "政治",
+    "正义"
+  ],
+  "oneLineZh": "荀子是伦理、政治问题谱系中的第一版候选哲人。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "荀子是伦理、政治问题谱系中的第一版候选哲人。 本条目是第一版结构化资料，已经保留文明、传统、主题、作品和论述字段，正式发布前需要继续核对年代、文本出处和概念表述。",
+  "works": [
+    "xunzi-primary-work"
+  ],
+  "sourceNotes": [
+    {
+      "label": "draft",
+      "noteZh": "条目需要人工核对作品、年代和概念表述。"
+    }
+  ]
+}
