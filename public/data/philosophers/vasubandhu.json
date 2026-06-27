@@ -5,9 +5,9 @@
     "en": "Vasubandhu"
   },
   "life": {
-    "display": "约400—480",
     "birth": 400,
-    "death": 480
+    "death": 480,
+    "display": "约400—480"
   },
   "civilization": "indian",
   "traditions": [
@@ -38,5 +38,251 @@
       "label": "draft",
       "noteZh": "条目需要人工核对作品、年代和概念表述。"
     }
-  ]
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "vasubandhu:problem:001",
+        "titleZh": "无我条件下如何说明经验与人格？",
+        "questionZh": "如果不存在五蕴之外的实体自我，那么经验、记忆、行动和人格连续性应如何被解释，而不落入断灭或常我？",
+        "summaryZh": "世亲以阿毗达磨法类分析、五蕴相续和概念建构解释经验世界：真实起作用的是刹那相续的身心法与因果关系，所谓“我”只是这些过程上的方便安立。",
+        "themeIds": [
+          "metaphysics",
+          "life_death",
+          "religion"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "vasubandhu:claim:001",
+            "titleZh": "人不是五蕴之外的实体",
+            "claimZh": "世亲反对把“人”或“我”设定为五蕴之外的独立实体；人格只是五蕴、十二处和心相续上的概念建构。",
+            "explanationZh": "这种无我论不是否认经验发生，而是否认在经验背后还必须有一个持久主体。它以可分析的身心要素和因果相续替代实体自我。",
+            "themeIds": [
+              "metaphysics",
+              "life_death"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "vasubandhu:evidence:001",
+                "titleZh": "《俱舍论》破我品反驳补特伽罗",
+                "summaryZh": "《俱舍论》自注的最后部分集中反驳独立“人”或补特伽罗，强调所谓人不能脱离五蕴和身心相续而独立成立。",
+                "source": {
+                  "workId": "vasubandhu-primary-work",
+                  "locator": "Abhidharmakośabhāṣya, Chapter IX, Pudgalaviniścaya / Refutation of the Person",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "vasubandhu:evidence:002",
+                "titleZh": "SEP 对五蕴与自我建构的说明",
+                "summaryZh": "SEP 说明世亲把自我理解为不断变化的感官、印象、观念和心理事件的想象统一，而不是直接可知的实体。",
+                "source": {
+                  "workId": "vasubandhu-primary-work",
+                  "locator": "SEP Vasubandhu, section 2.1, Disproof of the Self",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "vasubandhu:claim:002",
+            "titleZh": "法类分析服务于解脱而非纯分类学",
+            "claimZh": "《俱舍论》的法类、蕴处界、业和烦恼分析并非纯粹分类学，而是为了说明经验如何被构成、如何产生痛苦以及如何通过道而转化。",
+            "explanationZh": "世亲的阿毗达磨把经验分解为可观察、可训练、可断除的要素，使宗教解脱问题获得一套精细的心理—形而上学说明。",
+            "themeIds": [
+              "religion",
+              "metaphysics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "vasubandhu:evidence:003",
+                "titleZh": "IEP 对《俱舍论》七十五法分类的说明",
+                "summaryZh": "IEP 描述《俱舍论》分析并分类七十五法，涵盖色法、心、心所、不相应行和无为法，并检查其业力性质。",
+                "source": {
+                  "workId": "vasubandhu-primary-work",
+                  "locator": "IEP Vasubandhu, section 2, Early Life and Abhidharmakośa classification",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "vasubandhu:evidence:004",
+                "titleZh": "《俱舍论》以阿毗达磨框架统摄修道问题",
+                "summaryZh": "《俱舍论》各品从界、根、世间、业、随眠、贤圣、智、定到破我，形成从经验结构到解脱道路的系统说明。",
+                "source": {
+                  "workId": "vasubandhu-primary-work",
+                  "locator": "Abhidharmakośa, Chapters I-VIII and Chapter IX thematic structure",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "vasubandhu:problem:002",
+        "titleZh": "外境是否以主客二分方式独立存在？",
+        "questionZh": "我们经验到的对象是否必须是独立于心识、以主客二分方式被认识的外物，还是可以被解释为心识中的表象与业力条件？",
+        "summaryZh": "世亲在唯识短论中挑战普通实在论：经验具有时空限制、共享性和因果效力，并不能证明外境以独立实体方式存在；主客二分本身可能是心识活动的虚妄构造。",
+        "themeIds": [
+          "metaphysics",
+          "knowledge",
+          "religion"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "vasubandhu:claim:003",
+            "titleZh": "唯表象论挑战外境实在论",
+            "claimZh": "《唯识二十论》通过梦、眼病、地狱共同经验等例子说明，表象也可以呈现出时空限制、共享性和因果效力。",
+            "explanationZh": "这些论证不只是说经验会出错，而是削弱“经验对象具有这些特征，所以必有独立外境”的推理。世亲由此打开了唯识的形而上学问题域。",
+            "themeIds": [
+              "metaphysics",
+              "knowledge"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "vasubandhu:evidence:005",
+                "titleZh": "《唯识二十论》回应四种外境反驳",
+                "summaryZh": "《唯识二十论》从地点、时间、共同经验和因果功能四个方面回应外境实在论者对唯表象命题的质疑。",
+                "source": {
+                  "workId": "vasubandhu-primary-work",
+                  "locator": "Viṃśatikā-vijñaptimātratāsiddhi, verses 1-7 and autocommentary",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "vasubandhu:evidence:006",
+                "titleZh": "SEP 对 appearance-only 防御的概括",
+                "summaryZh": "SEP 指出世亲在《唯识二十论》中逐步证明“唯显现”至少是可行解释，并回应外境论认为表象无法共享或产生效力的反驳。",
+                "source": {
+                  "workId": "vasubandhu-primary-work",
+                  "locator": "SEP Vasubandhu, section 4.1, Defense of Appearance Only",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "vasubandhu:claim:004",
+            "titleZh": "三性理论解释显现与误认的差别",
+            "claimZh": "三性理论把经验区分为被误执的对象、产生显现的依他过程，以及离开虚妄二取后的圆成真实。",
+            "explanationZh": "这让唯识不是简单否认现象，而是区分“显现发生”与“把显现误认为独立实体”。问题不在有显现，而在执著显现为主客二分的实有世界。",
+            "themeIds": [
+              "metaphysics",
+              "knowledge"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "vasubandhu:evidence:007",
+                "titleZh": "《唯识三十颂》与《三性论》形成唯识纲要",
+                "summaryZh": "SEP 说明《唯识三十颂》和《三性论》不再逐条回应反驳，而是把唯识的概念结构整理成系统。",
+                "source": {
+                  "workId": "vasubandhu-primary-work",
+                  "locator": "SEP Vasubandhu, section 4.3, Three Natures and Non-Duality",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "vasubandhu:evidence:008",
+                "titleZh": "魔术大象譬喻说明三性",
+                "summaryZh": "SEP 引述三性文本的魔术大象譬喻：显现过程存在，但被执为真实大象的对象并不存在，正可说明遍计、依他与圆成。",
+                "source": {
+                  "workId": "vasubandhu-primary-work",
+                  "locator": "Trisvabhāvanirdeśa, verses 27-30; SEP section 4.3 discussion",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "vasubandhu:problem:003",
+        "titleZh": "业、轮回和解脱的连续性如何可能？",
+        "questionZh": "如果身心法都刹那变化、没有常住自我，那么过去行为如何成熟为未来果报，轮回如何连续，解脱又如何发生？",
+        "summaryZh": "世亲用种子、心相续和阿赖耶识说明无我条件下的连续性：业不是存放在灵魂中的东西，而是以潜在种子形式影响后续心流；修行则是改变这条心流的结构。",
+        "themeIds": [
+          "life_death",
+          "religion",
+          "metaphysics"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "vasubandhu:claim:005",
+            "titleZh": "阿赖耶识解释无我条件下的业力保存",
+            "claimZh": "世亲引入阿赖耶识和种子模型，是为了解释过去经验和行为如何在没有常住自我的情况下影响未来经验。",
+            "explanationZh": "这个模型避免了两种极端：既不需要一个跨生死不变的灵魂，也不把刹那灭理解为完全断裂。连续性来自带有业种的心流。",
+            "themeIds": [
+              "life_death",
+              "metaphysics",
+              "religion"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "vasubandhu:evidence:009",
+                "titleZh": "《成业论》讨论业的跨时成熟",
+                "summaryZh": "《成业论》集中处理行为如何在时间间隔后产生果报，并借种子和阿赖耶识说明业力的潜伏与成熟。",
+                "source": {
+                  "workId": "vasubandhu-primary-work",
+                  "locator": "Karmasiddhiprakaraṇa, sections on bīja and ālayavijñāna continuity",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "vasubandhu:evidence:010",
+                "titleZh": "IEP 对种子与阿赖耶识的说明",
+                "summaryZh": "IEP 说明世亲用阿赖耶识保存过去经验的种子，并解释这些种子如何在新经验中释放、使业报连续成为可能。",
+                "source": {
+                  "workId": "vasubandhu-primary-work",
+                  "locator": "IEP Vasubandhu, section 6, Writings and Karmasiddhiprakaraṇa discussion",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "vasubandhu:claim:006",
+            "titleZh": "解脱是意识流基础的转化",
+            "claimZh": "世亲的唯识修道把解脱理解为破除主客二取、净化染污心流，并使识转化为非分别智的过程。",
+            "explanationZh": "因此，唯识形而上学不是抽象宇宙论，而是一套关于痛苦如何由认知误认产生、又如何通过修道转化的解脱论。",
+            "themeIds": [
+              "religion",
+              "life_death",
+              "knowledge"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "vasubandhu:evidence:011",
+                "titleZh": "《唯识三十颂》概括八识与修道结构",
+                "summaryZh": "《唯识三十颂》以短颂方式呈现八识、染污心流、三性和转依，是理解世亲唯识修道论的核心文本。",
+                "source": {
+                  "workId": "vasubandhu-primary-work",
+                  "locator": "Triṃśikā-vijñaptimātratā, verses 1-30",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "vasubandhu:evidence:012",
+                "titleZh": "阿赖耶识研究说明修道与心流转化",
+                "summaryZh": "Waldron 对阿赖耶识思想史的研究说明，瑜伽行的种子和藏识模型服务于解释业力、习气、烦恼与修道转化之间的关系。",
+                "source": {
+                  "workId": "vasubandhu-primary-work",
+                  "locator": "Waldron 2003, chapters on ālayavijñāna, seeds, karma, and transformation",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
 }

@@ -5,9 +5,9 @@
     "en": "Nagarjuna"
   },
   "life": {
-    "display": "约150—250",
     "birth": 150,
-    "death": 250
+    "death": 250,
+    "display": "约150—250"
   },
   "civilization": "indian",
   "traditions": [
@@ -38,5 +38,249 @@
       "label": "draft",
       "noteZh": "条目需要人工核对作品、年代和概念表述。"
     }
-  ]
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "nagarjuna:problem:001",
+        "titleZh": "事物是否有独立自性？",
+        "questionZh": "世界中的事物、因果、自我和概念是否必须拥有一种独立、固定、不依赖他物的自性，才能被认为真实存在？",
+        "summaryZh": "龙树的核心回答是否定自性：事物并不以独立实体的方式存在，而是在因缘、部分、概念、命名和世俗实践中成立。空不是虚无，而是对自性执著的解除。",
+        "themeIds": [
+          "metaphysics",
+          "religion"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "nagarjuna:claim:001",
+            "titleZh": "空是否定自性，不是否定现象",
+            "claimZh": "龙树所谓“空”首先是否定诸法具有独立、自足、固定的自性，而不是说经验世界完全不存在或一切判断都失效。",
+            "explanationZh": "如果把空误解为虚无，就会错过中观的关键：龙树要拆解的是实体化的存在方式，而不是日常经验、因果秩序和佛教实践本身。",
+            "themeIds": [
+              "metaphysics",
+              "religion"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "nagarjuna:evidence:001",
+                "titleZh": "SEP 对空与自性的界定",
+                "summaryZh": "SEP 将龙树思想的中心概念界定为空，并说明空所针对的是 svabhāva，即内在存在、实体或独立本质。",
+                "source": {
+                  "workId": "nagarjuna-primary-work",
+                  "locator": "SEP Nāgārjuna, section 2, Emptiness and svabhāva",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "nagarjuna:evidence:002",
+                "titleZh": "《中论》第二十四品把空与佛教核心教义相连",
+                "summaryZh": "《中论》第二十四品讨论四圣谛与空，显示空性并非取消佛教教义，而是说明四圣谛和修行如何可能。",
+                "source": {
+                  "workId": "nagarjuna-primary-work",
+                  "locator": "Mūlamadhyamakakārikā, Chapter XXIV, Āryasatyaparīkṣā, verses 18-24",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "nagarjuna:claim:002",
+            "titleZh": "缘起说明无自性",
+            "claimZh": "龙树把缘起与空互相解释：凡依条件、关系和概念而成立者，就不能同时拥有不依赖他物的自性。",
+            "explanationZh": "这使中观既反对常见，也反对断见。事物不是自性实有，但也不是绝对无有；它们以依赖方式在世俗层面有效运行。",
+            "themeIds": [
+              "metaphysics",
+              "religion"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "nagarjuna:evidence:003",
+                "titleZh": "《中论》第二十四品关于缘起与空的核心定位",
+                "summaryZh": "《中论》第二十四品将缘起、空、假名和中道连在同一论证节点上，是解释“缘起即空”的核心依据。",
+                "source": {
+                  "workId": "nagarjuna-primary-work",
+                  "locator": "Mūlamadhyamakakārikā, Chapter XXIV, verse 18",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "nagarjuna:evidence:004",
+                "titleZh": "因果批判指向自性假设而非经验因果",
+                "summaryZh": "SEP 对第一品因果论的说明强调，龙树批判的是因与果被设定为各自独立自性实体时产生的矛盾。",
+                "source": {
+                  "workId": "nagarjuna-primary-work",
+                  "locator": "Mūlamadhyamakakārikā, Chapter I, Pratyayaparīkṣā, verses 1-14",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "nagarjuna:problem:002",
+        "titleZh": "语言、证明和真理如何成立？",
+        "questionZh": "如果一切法都无自性，语言、知识工具、对象、论证和真理是否也会失去根据？龙树如何避免自我反驳？",
+        "summaryZh": "龙树把知识和语言从自性根据中解放出来：证明、概念和真理不需要凭独立本质成立，而是在世俗约定、语境和相互依赖中发挥作用。",
+        "themeIds": [
+          "knowledge",
+          "language",
+          "metaphysics"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "nagarjuna:claim:003",
+            "titleZh": "归谬法借对手前提显出矛盾",
+            "claimZh": "龙树的主要论证方式不是建立一套新的自性理论，而是借用对手承认的前提，推出自性论在因果、运动、自我和知识问题上的矛盾。",
+            "explanationZh": "这种方法使龙树能够批判多种实体论而不必把自己的理论也实体化；它更像治疗错误执著的论辩策略，而不是新的本体论体系。",
+            "themeIds": [
+              "knowledge",
+              "metaphysics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "nagarjuna:evidence:005",
+                "titleZh": "《中论》第一品呈现归谬式因果批判",
+                "summaryZh": "第一品逐一检验自生、他生、共生和无因生，使自性化的因果模型在自身前提内暴露困难。",
+                "source": {
+                  "workId": "nagarjuna-primary-work",
+                  "locator": "Mūlamadhyamakakārikā, Chapter I, Pratyayaparīkṣā, verse 1",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "nagarjuna:evidence:006",
+                "titleZh": "IEP 将龙树方法描述为系统性的怀疑与批判",
+                "summaryZh": "IEP 强调龙树对婆罗门与佛教实体论、知识论和实践观念作出尖锐批判，并以方法化怀疑推进论证。",
+                "source": {
+                  "workId": "nagarjuna-primary-work",
+                  "locator": "IEP Nagarjuna, sections 2-4 on skeptical method and proof",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "nagarjuna:claim:004",
+            "titleZh": "论证可以世俗有效而无需自性根据",
+            "claimZh": "龙树在《回诤论》问题域中表明，即使论证、证明者和被证明对象都无自性，反驳仍可在世俗约定中有效。",
+            "explanationZh": "这回应了“若一切皆空，龙树自己的论证也空，所以不能反驳他人”的质疑。中观不需要绝对基础来保证论证，只需要承认世俗层面的可用性。",
+            "themeIds": [
+              "knowledge",
+              "language"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "nagarjuna:evidence:007",
+                "titleZh": "《回诤论》处理证明与反驳的元问题",
+                "summaryZh": "《回诤论》集中回应对中观系统的反驳，尤其涉及认识工具、论证对象和语言表达能否成立的问题。",
+                "source": {
+                  "workId": "nagarjuna-primary-work",
+                  "locator": "Vigrahavyāvartanī, verses 1-29 and autocommentary discussion of pramāṇa objections",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "nagarjuna:evidence:008",
+                "titleZh": "SEP 对认识工具与对象相互成立的说明",
+                "summaryZh": "SEP 说明龙树并不承认认识工具或认识对象本身具有自性，而是把二者看成在相互依赖和反思平衡中成立。",
+                "source": {
+                  "workId": "nagarjuna-primary-work",
+                  "locator": "SEP Nāgārjuna, section 3.4, Knowledge",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "nagarjuna:problem:003",
+        "titleZh": "空性如何关联解脱与生死？",
+        "questionZh": "如果轮回、苦、业、四圣谛和涅槃也都无自性，那么佛教的修行目标是否会被取消，还是反而获得新的解释？",
+        "summaryZh": "龙树用空性重新解释解脱：正因为一切无固定自性，苦、烦恼、业和执著才可以转化；涅槃不是另一个实体领域，而是对轮回与涅槃二分执著的解除。",
+        "themeIds": [
+          "life_death",
+          "religion",
+          "metaphysics"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "nagarjuna:claim:005",
+            "titleZh": "空性使四圣谛和修行成为可能",
+            "claimZh": "龙树认为如果诸法具有固定自性，苦、集、灭、道就无法发生变化；正因为诸法空，止息痛苦和修行转化才可能。",
+            "explanationZh": "这使空性具有明确的宗教实践意义。它不是抽象否定，而是在佛教解脱论中说明为什么烦恼可以止息、道路可以实践。",
+            "themeIds": [
+              "religion",
+              "life_death"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "nagarjuna:evidence:009",
+                "titleZh": "《中论》第二十四品反驳空性破坏四圣谛的指控",
+                "summaryZh": "第二十四品针对“空会破坏四圣谛”的质疑反向说明：若不承认空，四圣谛、修行和结果才无法成立。",
+                "source": {
+                  "workId": "nagarjuna-primary-work",
+                  "locator": "Mūlamadhyamakakārikā, Chapter XXIV, verses 1-40",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "nagarjuna:evidence:010",
+                "titleZh": "SEP 将无自性的实现连接到解脱后果",
+                "summaryZh": "SEP 明确说明，对无自性的实现不只是理论认识，而被理解为通向从存在性痛苦中解脱的重要环节。",
+                "source": {
+                  "workId": "nagarjuna-primary-work",
+                  "locator": "SEP Nāgārjuna, section 2, cognitive dimension of svabhāva and soteriological consequences",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "nagarjuna:claim:006",
+            "titleZh": "涅槃不应被实体化为轮回之外的另一物",
+            "claimZh": "龙树处理涅槃时，反对把涅槃理解为一个拥有独立自性的实体领域；涅槃与轮回的差别必须在无自性和执著解除中理解。",
+            "explanationZh": "这并不是说修行目标不存在，而是说修行目标不能被重新塑造成一个固定对象。涅槃的意义在于解除对轮回和涅槃二者的实体化把握。",
+            "themeIds": [
+              "life_death",
+              "religion",
+              "metaphysics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "nagarjuna:evidence:011",
+                "titleZh": "《中论》第二十五品集中检验涅槃",
+                "summaryZh": "第二十五品以涅槃为对象，考察涅槃是否能被理解为自性实有、断灭或与轮回绝对分离的存在。",
+                "source": {
+                  "workId": "nagarjuna-primary-work",
+                  "locator": "Mūlamadhyamakakārikā, Chapter XXV, Nirvāṇaparīkṣā, verses 1-24",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "nagarjuna:evidence:012",
+                "titleZh": "伦理政治文本补足空性的实践面向",
+                "summaryZh": "SEP 与 IEP 都提示《宝鬘论》《劝诫亲友书》等文本把龙树思想延展到伦理、王道、修行和实践生活中。",
+                "source": {
+                  "workId": "nagarjuna-primary-work",
+                  "locator": "Ratnāvalī / Suhṛllekha reception and epistolary works discussion",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
 }

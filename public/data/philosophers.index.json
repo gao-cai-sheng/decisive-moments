@@ -3204,5 +3204,57 @@
     "oneLineZh": "贝尔·胡克斯是伦理、正义问题谱系中的第一版候选哲人。",
     "influenceWeight": 1,
     "reviewStatus": "draft"
+  },
+  {
+    "id": "cleanthes",
+    "names": {"zh": "克里安忒斯", "en": "Cleanthes"},
+    "life": {"birth": -330, "death": -230, "display": "约前 330—前 230"},
+    "civilization": "ancient_greek",
+    "traditions": ["stoicism", "ancient_greek_philosophy"],
+    "periods": ["first_release"],
+    "themes": ["ethics", "metaphysics", "knowledge"],
+    "keywordsZh": ["伦理", "形而上学", "知识"],
+    "oneLineZh": "芝诺之后的斯多葛学派领袖，以《宙斯赞歌》和顺从宇宙理性的虔敬伦理著称。",
+    "influenceWeight": 1,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "chrysippus",
+    "names": {"zh": "克律西波斯", "en": "Chrysippus"},
+    "life": {"birth": -279, "death": -206, "display": "约前 279—前 206"},
+    "civilization": "ancient_greek",
+    "traditions": ["stoicism", "ancient_greek_philosophy"],
+    "periods": ["first_release"],
+    "themes": ["ethics", "metaphysics", "knowledge"],
+    "keywordsZh": ["伦理", "形而上学", "知识"],
+    "oneLineZh": "系统化早期斯多葛逻辑、物理学和伦理学，使斯多葛主义成为严整哲学体系。",
+    "influenceWeight": 1,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "diogenes-sinope",
+    "names": {"zh": "第欧根尼", "en": "Diogenes of Sinope"},
+    "life": {"birth": -412, "death": -323, "display": "约前 412—前 323"},
+    "civilization": "ancient_greek",
+    "traditions": ["cynicism", "ancient_greek_philosophy"],
+    "periods": ["first_release"],
+    "themes": ["ethics", "politics", "freedom"],
+    "keywordsZh": ["伦理", "政治", "自由"],
+    "oneLineZh": "犬儒学派代表人物，用贫穷、自足和公开挑衅把哲学变成生活批判。",
+    "influenceWeight": 1,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "antisthenes",
+    "names": {"zh": "安提斯泰尼", "en": "Antisthenes"},
+    "life": {"birth": -445, "death": -365, "display": "约前 445—前 365"},
+    "civilization": "ancient_greek",
+    "traditions": ["cynicism", "socratic_philosophy", "ancient_greek_philosophy"],
+    "periods": ["first_release"],
+    "themes": ["ethics", "politics", "freedom"],
+    "keywordsZh": ["伦理", "政治", "自由"],
+    "oneLineZh": "苏格拉底弟子之一，强调德性、自足和艰苦训练，被视为犬儒传统的重要先驱。",
+    "influenceWeight": 1,
+    "reviewStatus": "draft"
   }
 ]

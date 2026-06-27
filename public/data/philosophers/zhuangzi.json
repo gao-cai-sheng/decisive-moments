@@ -5,9 +5,9 @@
     "en": "Zhuangzi"
   },
   "life": {
-    "display": "约前 369—前 286",
     "birth": -369,
-    "death": -286
+    "death": -286,
+    "display": "约前 369—前 286"
   },
   "civilization": "chinese",
   "traditions": [
@@ -38,5 +38,210 @@
       "label": "draft",
       "noteZh": "条目需要人工核对作品、年代和概念表述。"
     }
-  ]
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "zhuangzi:problem:001",
+        "titleZh": "逍遥与无待自由",
+        "questionZh": "庄子所追求的‘逍遥’是一种怎样的自由？人如何才能摆脱对待与依赖而达到逍遥？",
+        "summaryZh": "逍遥是庄子哲学的核心理想。它不仅是摆脱政治压迫，更是超越名利、功利、自我中心与生死恐惧的精神自由；‘无待’即不依赖外在条件，体现庄子对自主生命的追问。",
+        "themeIds": [
+          "freedom"
+        ],
+        "weight": 1,
+        "claims": [
+          {
+            "id": "zhuangzi:claim:001",
+            "titleZh": "逍遥在于无待",
+            "claimZh": "庄子认为真正的逍遥不依赖外在功名、地位或他者认可，而是内心不受束缚的状态。",
+            "explanationZh": "《逍遥游》以大鹏与蜩鸠的对比说明大小之辨仍受条件限制；唯有‘无待’者才能超越一切依赖，达到绝对自由。",
+            "themeIds": [
+              "freedom"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "zhuangzi:evidence:001",
+                "titleZh": "《庄子·逍遥游》论大鹏与无待",
+                "summaryZh": "《逍遥游》开篇以鲲鹏的宏大飞翔与蜩鸠的短近飞行对比，指出无论大小皆‘有所待’，从而引出真正的逍遥在于无待的结论。",
+                "source": {
+                  "workId": "zhuangzi-primary-work",
+                  "locator": "《庄子·逍遥游》：至人无己段",
+                  "publicDomainExcerptZh": "至人无己，神人无功，圣人无名。",
+                  "excerptStatus": "public_domain"
+                }
+              },
+              {
+                "id": "zhuangzi:evidence:002",
+                "titleZh": "《庄子·人间世》论心斋",
+                "summaryZh": "‘心斋’一段提出通过虚静专一以养心，减少外在欲望与成见的干扰，是通往逍遥与安命的修养方法。",
+                "source": {
+                  "workId": "zhuangzi-primary-work",
+                  "locator": "《庄子·人间世》：颜回问心斋段",
+                  "publicDomainExcerptZh": "若一志，无听之以耳而听之以心，无听之以心而听之以气。唯道集虚。虚者，心斋也。",
+                  "excerptStatus": "public_domain"
+                }
+              }
+            ]
+          },
+          {
+            "id": "zhuangzi:claim:005",
+            "titleZh": "心斋以虚静解除成见",
+            "claimZh": "庄子把心斋视为通向自由的修养方法，通过虚静减少成见、欲望和功利计算对心的占据。",
+            "explanationZh": "心斋不是单纯禁欲，而是让心保持开放与虚静，使人不再被既定身份、名利目标和成心支配。",
+            "themeIds": [
+              "freedom",
+              "ethics"
+            ],
+            "weight": 1,
+            "evidence": [
+              {
+                "id": "zhuangzi:evidence:007",
+                "titleZh": "《庄子·人间世》论虚者心斋",
+                "summaryZh": "《人间世》借孔子与颜回对话说明心斋之要在于虚，唯有虚静之心才能承接道并摆脱成见。",
+                "source": {
+                  "workId": "zhuangzi-primary-work",
+                  "locator": "《庄子·人间世》：虚者心斋也段",
+                  "publicDomainExcerptZh": "气也者，虚而待物者也。唯道集虚。虚者，心斋也。",
+                  "excerptStatus": "public_domain"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "zhuangzi:problem:002",
+        "titleZh": "齐物与语言怀疑",
+        "questionZh": "庄子的‘齐物’是否意味着取消一切差别？他为何怀疑语言与知识能否把握真理？",
+        "summaryZh": "这是庄子知识论与语言哲学的核心问题。齐物论质疑是非、彼此、大小等区分的绝对性，并指出语言（名言）在固定意义时造成的遮蔽；这一怀疑为逍遥提供了认识论前提。",
+        "themeIds": [
+          "language"
+        ],
+        "weight": 1,
+        "claims": [
+          {
+            "id": "zhuangzi:claim:002",
+            "titleZh": "万物齐一，是非无定论",
+            "claimZh": "庄子主张从道的视角看，万物本无绝对的是非、彼此、贵贱分别，这些分别多出于人的视角与语言习惯。",
+            "explanationZh": "齐物论不是简单的相对主义，而是揭示一切价值判断都依赖特定立场；只有悬置固执的是非，才能避免冲突与焦虑。",
+            "themeIds": [
+              "language"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "zhuangzi:evidence:003",
+                "titleZh": "《庄子·齐物论》论彼是莫得其偶",
+                "summaryZh": "《齐物论》通过‘彼亦一是非，此亦一是非’等论述，说明是非判断依赖于观察立场，从而主张超越对待、通达‘道通为一’的境界。",
+                "source": {
+                  "workId": "zhuangzi-primary-work",
+                  "locator": "《庄子·齐物论》：彼亦一是非段",
+                  "publicDomainExcerptZh": "彼亦一是非，此亦一是非。果且有彼是乎哉？果且无彼是乎哉？",
+                  "excerptStatus": "public_domain"
+                }
+              },
+              {
+                "id": "zhuangzi:evidence:004",
+                "titleZh": "《庄子·齐物论》论言与知",
+                "summaryZh": "该篇质疑语言能否穷尽意义、知识能否把握终极真理，提出‘得意忘言’的倾向，为庄子语言怀疑论提供文本依据。",
+                "source": {
+                  "workId": "zhuangzi-primary-work",
+                  "locator": "《庄子·齐物论》：言非吹也段",
+                  "publicDomainExcerptZh": "言非吹也，言者有言，其所言者特未定也。果有言邪？其未尝有言邪？",
+                  "excerptStatus": "public_domain"
+                }
+              }
+            ]
+          },
+          {
+            "id": "zhuangzi:claim:006",
+            "titleZh": "语言不能固定最终意义",
+            "claimZh": "庄子怀疑语言能够稳定地把握终极真理，认为言说总带有未定性和立场性。",
+            "explanationZh": "语言可以提示经验，却容易把暂时分别误认为绝对真理；因此齐物论通过反问和悖论削弱人对固定概念的执着。",
+            "themeIds": [
+              "language",
+              "knowledge"
+            ],
+            "weight": 1,
+            "evidence": [
+              {
+                "id": "zhuangzi:evidence:008",
+                "titleZh": "《庄子·齐物论》论言者有言而未定",
+                "summaryZh": "《齐物论》指出言说不同于风吹之声，言者虽有所言，但其所言并非绝对确定，从而揭示语言判断的未定性。",
+                "source": {
+                  "workId": "zhuangzi-primary-work",
+                  "locator": "《庄子·齐物论》：言者有言其所言未定段",
+                  "publicDomainExcerptZh": "言非吹也，言者有言，其所言者特未定也。果有言邪？其未尝有言邪？",
+                  "excerptStatus": "public_domain"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "zhuangzi:problem:003",
+        "titleZh": "生死、转化与自然化生",
+        "questionZh": "庄子如何理解生死变化？这种理解如何削弱人对死亡和固定自我的执着？",
+        "summaryZh": "庄子把生命看作气化流行中的暂时形态，生死不是绝对断裂，而是自然转化的一环。这一问题补足了逍遥与齐物之外的生命哲学维度，也解释庄子为何能以安命态度面对丧亲与死亡。",
+        "themeIds": [
+          "life_death",
+          "metaphysics"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "zhuangzi:claim:003",
+            "titleZh": "生死是气化流行中的自然转化",
+            "claimZh": "庄子倾向于把生与死理解为自然变化中的不同阶段，而不是绝对对立的价值事件。",
+            "explanationZh": "这种理解把死亡从最大的不幸转化为万物变化的一环，使人可以减少对固定自我和既有生命形态的执着，从而获得精神自由。",
+            "themeIds": [
+              "life_death",
+              "metaphysics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "zhuangzi:evidence:005",
+                "titleZh": "《庄子》内篇关于安命与化的论述",
+                "summaryZh": "《庄子》多处以气化、安命和转化叙述生死，显示死亡并非简单的恶，而是自然过程中的形态更替。",
+                "source": {
+                  "workId": "zhuangzi-primary-work",
+                  "locator": "《庄子·大宗师》：「夫大块载我以形」段",
+                  "publicDomainExcerptZh": "夫大块载我以形，劳我以生，佚我以老，息我以死。故善吾生者，乃所以善吾死也。",
+                  "excerptStatus": "public_domain"
+                }
+              }
+            ]
+          },
+          {
+            "id": "zhuangzi:claim:004",
+            "titleZh": "真人不以生死扰动其心",
+            "claimZh": "庄子以“真人”形象说明，真正通达道的人不执著于生，也不厌恶死，而能顺应变化来去。",
+            "explanationZh": "这不是冷漠地否定生命价值，而是把生命置于更大的自然转化过程之中，减少因固定自我而产生的恐惧。",
+            "themeIds": [
+              "life_death",
+              "freedom"
+            ],
+            "weight": 1,
+            "evidence": [
+              {
+                "id": "zhuangzi:evidence:006",
+                "titleZh": "《庄子·大宗师》论真人对生死的态度",
+                "summaryZh": "《大宗师》以古之真人为例，描述其不悦生、不恶死、顺变化而往来的生命态度。",
+                "source": {
+                  "workId": "zhuangzi-primary-work",
+                  "locator": "《庄子·大宗师》：「古之真人」段",
+                  "publicDomainExcerptZh": "古之真人，不知说生，不知恶死；其出不訢，其入不距；翛然而往，翛然而来而已矣。",
+                  "excerptStatus": "public_domain"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
 }

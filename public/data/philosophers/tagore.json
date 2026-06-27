@@ -5,9 +5,9 @@
     "en": "Rabindranath Tagore"
   },
   "life": {
-    "display": "1861—1941",
     "birth": 1861,
-    "death": 1941
+    "death": 1941,
+    "display": "1861—1941"
   },
   "civilization": "indian",
   "traditions": [
@@ -38,5 +38,253 @@
       "label": "draft",
       "noteZh": "条目需要人工核对作品、年代和概念表述。"
     }
-  ]
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "tagore:problem:001",
+        "titleZh": "宗教如何成为人的无限实现？",
+        "questionZh": "如果宗教不只是外在教条、制度或仪式，泰戈尔如何说明神圣、无限和人性之间的关系？",
+        "summaryZh": "泰戈尔把宗教理解为人的无限性在爱、创造和自我超越中的实现。神圣不是与人隔绝的抽象实体，而是在普遍的人格、宇宙亲缘和生命统一中显现。",
+        "themeIds": [
+          "religion",
+          "metaphysics",
+          "life_death"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "tagore:claim:001",
+            "titleZh": "人的宗教指向普遍的人",
+            "claimZh": "泰戈尔把宗教理解为人对自身无限维度的实现；神圣在普遍的人、爱与创造中显现，而不只是外在教义。",
+            "explanationZh": "这使宗教成为人性扩展和自我超越的过程。它既不同于狭隘制度宗教，也不同于把神圣排除在人之外的抽象形而上学。",
+            "themeIds": [
+              "religion",
+              "metaphysics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "tagore:evidence:001",
+                "titleZh": "《人的宗教》围绕普遍的人展开",
+                "summaryZh": "《人的宗教》以人的无限性和普遍人格为核心，说明宗教经验不是外在制度服从，而是人与神圣之间的内在关联。",
+                "source": {
+                  "workId": "tagore-primary-work",
+                  "locator": "The Religion of Man, Hibbert Lectures, chapters on The Man of My Heart and The Religion of Man",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "tagore:evidence:002",
+                "titleZh": "《人格》把宇宙意义与人格性连接",
+                "summaryZh": "《人格》通过艺术、创造和关系性经验说明世界不是冷漠机械总和，而是在可回应的人格关系中显现意义。",
+                "source": {
+                  "workId": "tagore-primary-work",
+                  "locator": "Personality, lectures on the personal man and the creative expression of the world",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "tagore:claim:002",
+            "titleZh": "有限生命通过爱与创造参与无限",
+            "claimZh": "泰戈尔认为有限个体并不在孤立中完成自身，而是在爱、自然亲缘和创造活动中参与更大的无限统一。",
+            "explanationZh": "这种统一不是抹平个体差异，而是使个体在关系中获得意义。自然、艺术、宗教和共同体由此成为生命实现的相互通道。",
+            "themeIds": [
+              "religion",
+              "metaphysics",
+              "life_death"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "tagore:evidence:003",
+                "titleZh": "《萨达那》把人与自然理解为生命统一",
+                "summaryZh": "《萨达那》以奥义书背景解释人与自然和宇宙的亲缘，强调生命实现不是征服世界，而是在统一中发现自我。",
+                "source": {
+                  "workId": "tagore-primary-work",
+                  "locator": "Sādhanā, chapters The Relation of the Individual to the Universe and Soul Consciousness",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "tagore:evidence:004",
+                "titleZh": "《创造的统一》把创造作为自由和统一的表达",
+                "summaryZh": "《创造的统一》把艺术、自然和人的自由联系起来，说明创造不是装饰性活动，而是生命进入世界关系的方式。",
+                "source": {
+                  "workId": "tagore-primary-work",
+                  "locator": "Creative Unity, essays on creative ideal and the unity of life",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "tagore:problem:002",
+        "titleZh": "教育如何释放自由人格？",
+        "questionZh": "如果现代教育容易变成考试、灌输和行政训练，泰戈尔如何重新定义教育与人的自由、自然和创造之间的关系？",
+        "summaryZh": "泰戈尔把教育视为自由人格的展开：儿童应在自然、艺术、语言、共同生活和世界文化相遇中成长，而不是被殖民学校和考试机器塑造成工具。",
+        "themeIds": [
+          "religion",
+          "ethics",
+          "politics"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "tagore:claim:003",
+            "titleZh": "教育不是灌输而是人格展开",
+            "claimZh": "泰戈尔反对把教育降为知识灌输、考试训练和殖民行政工具，主张教育应释放儿童的感知、创造力和人格。",
+            "explanationZh": "教育的目标不是制造可替换的社会零件，而是使人学会与自然、他人和文化世界建立活的关系。",
+            "themeIds": [
+              "ethics",
+              "politics",
+              "religion"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "tagore:evidence:005",
+                "titleZh": "教育论文批判机械学校模式",
+                "summaryZh": "泰戈尔在教育论文中反复批评封闭教室、死记硬背和考试支配，强调儿童需要在自由环境中发展感受力与创造力。",
+                "source": {
+                  "workId": "tagore-primary-work",
+                  "locator": "Education essays, My School and The Centre of Indian Culture, on freedom, nature, and learning",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "tagore:evidence:006",
+                "titleZh": "Santiniketan 实践体现自然与共同生活教育",
+                "summaryZh": "Uma Das Gupta 对 Santiniketan 的研究显示，泰戈尔教育实验把自然、艺术、师生共同生活和跨文化交流作为人格教育的基础。",
+                "source": {
+                  "workId": "tagore-primary-work",
+                  "locator": "Das Gupta, studies on Santiniketan and Visva-Bharati, sections on educational experiment",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "tagore:claim:004",
+            "titleZh": "自由通过艺术、自然和世界相遇实现",
+            "claimZh": "泰戈尔的自由不是孤立个人主义，而是人在艺术创造、自然亲近和跨文化相遇中展开自己的普遍人性。",
+            "explanationZh": "因此，教育和审美不是宗教哲学之外的附属主题，而是人实现无限性和共同世界关系的实际路径。",
+            "themeIds": [
+              "religion",
+              "ethics",
+              "politics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "tagore:evidence:007",
+                "titleZh": "《创造的统一》把艺术与自由人格相连",
+                "summaryZh": "《创造的统一》强调创造活动让人超出功利束缚，以艺术和关系性表达进入更丰富的世界统一。",
+                "source": {
+                  "workId": "tagore-primary-work",
+                  "locator": "Creative Unity, essays on art, creative freedom, and unity",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "tagore:evidence:008",
+                "titleZh": "Visva-Bharati 理想体现世界文化相遇",
+                "summaryZh": "泰戈尔关于世界大学的构想把印度文化根基和世界文化交流结合起来，教育由此成为不同文明相遇的场所。",
+                "source": {
+                  "workId": "tagore-primary-work",
+                  "locator": "Education essays, An Eastern University and Visva-Bharati addresses, on world meeting in one nest",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "tagore:problem:003",
+        "titleZh": "如何批判民族主义而不否定文化自我？",
+        "questionZh": "在殖民时代的印度，泰戈尔为什么批判民族主义和国家机器，同时又维护文化尊严、教育自立和世界主义？",
+        "summaryZh": "泰戈尔批判的是把人组织成竞争机器的现代民族国家逻辑，而不是否定文化自我。他主张以普遍人性和文明相遇限制排他集体主义，使自由人格不被国家机器吞没。",
+        "themeIds": [
+          "politics",
+          "ethics",
+          "religion"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "tagore:claim:005",
+            "titleZh": "民族主义会把人降为国家机器零件",
+            "claimZh": "泰戈尔批判排他民族主义和机械国家，因为它们会让人性、伦理和文化服从权力竞争与组织效率。",
+            "explanationZh": "他的批判不是抽象反政治，而是担心国家机器占据人的精神生活，使社会创造力和道德判断被集体激情吞没。",
+            "themeIds": [
+              "politics",
+              "ethics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "tagore:evidence:009",
+                "titleZh": "《民族主义》批判现代国家机器",
+                "summaryZh": "《民族主义》把现代民族国家描述为组织化权力机器，警惕它将社会、文化和人的道德生活从属于竞争逻辑。",
+                "source": {
+                  "workId": "tagore-primary-work",
+                  "locator": "Nationalism, lectures Nationalism in the West and Nationalism in India, critique of the Nation as machine",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "tagore:evidence:010",
+                "titleZh": "泰戈尔与甘地争论显示其反机械化政治关切",
+                "summaryZh": "《圣雄与诗人》所收通信和编注显示，泰戈尔在 swadeshi 和民族动员问题上担心道德判断被集体激情和符号政治取代。",
+                "source": {
+                  "workId": "tagore-primary-work",
+                  "locator": "The Mahatma and the Poet, correspondence on swadeshi, nationalism, and moral autonomy",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "tagore:claim:006",
+            "titleZh": "世界主义以文化根基和普遍人性相互支撑",
+            "claimZh": "泰戈尔的世界主义不是无根同质化，而是要求地方文化在开放相遇中实现自我，并受普遍人性约束。",
+            "explanationZh": "因此，他既反对帝国主义和文化傲慢，也反对把民族身份绝对化。教育和文化交流成为克服机械民族主义的重要路径。",
+            "themeIds": [
+              "politics",
+              "ethics",
+              "religion"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "tagore:evidence:011",
+                "titleZh": "世界大学理想连接印度根基与世界交流",
+                "summaryZh": "泰戈尔关于 Visva-Bharati 的论述把印度文化自我和世界文明相遇结合起来，体现一种非排他的文化世界主义。",
+                "source": {
+                  "workId": "tagore-primary-work",
+                  "locator": "Education essays and Visva-Bharati addresses, on Indian culture and world fellowship",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "tagore:evidence:012",
+                "titleZh": "《民族主义》区分社会文化生命与国家机器",
+                "summaryZh": "《民族主义》不仅批判国家机器，也强调社会、文化和人的生命关系比政治组织更根本，由此保留文化自我更新的空间。",
+                "source": {
+                  "workId": "tagore-primary-work",
+                  "locator": "Nationalism, lecture Nationalism in India, distinction between society and political nation",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
 }

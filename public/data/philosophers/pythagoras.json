@@ -1,0 +1,51 @@
+{
+  "id": "pythagoras",
+  "names": {"zh": "毕达哥拉斯", "en": "Pythagoras"},
+  "life": {"birth": -570, "death": -495, "display": "约前 570—前 495"},
+  "civilization": "ancient_greek",
+  "traditions": ["pythagoreanism", "ancient_greek_philosophy"],
+  "periods": ["first_release"],
+  "themes": ["metaphysics", "ethics", "knowledge"],
+  "keywordsZh": ["形而上学", "伦理", "知识"],
+  "oneLineZh": "毕达哥拉斯传统把数、宇宙秩序、灵魂净化和共同体生活连接起来。",
+  "influenceWeight": 1,
+  "reviewStatus": "draft",
+  "summaryZh": "毕达哥拉斯传统把数、宇宙秩序、灵魂净化和共同体生活连接起来。本条目以 summary_only 方式整理，重点区分历史人物、学派传统和后世传说。",
+  "works": ["pythagoras-primary-work"],
+  "sourceNotes": [
+    {"label": "primary-dossier", "noteZh": "本轮采用亚里士多德、柏拉图相关见证、第欧根尼·拉尔修、扬布里柯、波菲利和现代研究交叉定位；不填逐字摘录。"},
+    {"label": "excerpt-status", "noteZh": "全部 evidence 使用 summary_only，locator 保留到作品、卷章或主题段落层级。"}
+  ],
+  "thoughtSystem": {"problems": [
+    {"id": "pythagoras:problem:001", "titleZh": "数如何成为宇宙秩序的原则？", "questionZh": "毕达哥拉斯传统为什么把数、比例、和谐和宇宙结构联系起来？", "summaryZh": "毕达哥拉斯主义把可度量的比例视为秩序线索，使数从计算工具上升为理解宇宙和音乐和谐的原则。", "themeIds": ["metaphysics", "knowledge"], "weight": 3, "claims": [
+      {"id": "pythagoras:claim:001", "titleZh": "数和比例揭示秩序", "claimZh": "毕达哥拉斯传统认为数和比例不仅描述事物，而且揭示宇宙秩序的基本结构。", "explanationZh": "音乐和谐、几何比例和天体秩序被放在同一解释图式中，形成数学化形而上学的早期源头。", "themeIds": ["metaphysics", "knowledge"], "weight": 3, "evidence": [
+        {"id": "pythagoras:evidence:001", "titleZh": "亚里士多德关于数原则的见证", "summaryZh": "亚里士多德多处记载毕达哥拉斯派把数视为万物原则，并用数解释事物属性和宇宙秩序。", "source": {"workId": "pythagoras-primary-work", "locator": "Aristotle, Metaphysics A.5, 985b-986a on Pythagoreans and number as principles", "excerptStatus": "summary_only"}},
+        {"id": "pythagoras:evidence:002", "titleZh": "音乐比例传统", "summaryZh": "古代传统把毕达哥拉斯派同弦长比例和音乐和谐的发现联系起来，显示数与秩序的结合。", "source": {"workId": "pythagoras-primary-work", "locator": "Ancient testimonia on Pythagorean harmonics in Aristoxenus, Nicomachus and later sources", "excerptStatus": "summary_only"}}
+      ]},
+      {"id": "pythagoras:claim:002", "titleZh": "宇宙可被理解为和谐整体", "claimZh": "毕达哥拉斯传统把 kosmos 理解为有秩序、有比例的整体，而非偶然堆积。", "explanationZh": "这种理解为后来的柏拉图主义、数学化自然观和宇宙和谐思想提供了源头之一。", "themeIds": ["metaphysics"], "weight": 2, "evidence": [
+        {"id": "pythagoras:evidence:003", "titleZh": "宇宙和谐见证", "summaryZh": "古代资料把毕达哥拉斯派与天体和谐、宇宙秩序和数的结构相联系。", "source": {"workId": "pythagoras-primary-work", "locator": "Aristotle, De Caelo II and Metaphysics A on Pythagorean cosmology and harmony", "excerptStatus": "summary_only"}},
+        {"id": "pythagoras:evidence:004", "titleZh": "现代研究的谨慎重构", "summaryZh": "现代研究通常把早期毕达哥拉斯主义的数论宇宙观作为学派传统重建，而不直接归给个人著作。", "source": {"workId": "pythagoras-primary-work", "locator": "Modern scholarship on early Pythagoreanism, number, harmony and evidence limits", "excerptStatus": "summary_only"}}
+      ]}
+    ]},
+    {"id": "pythagoras:problem:002", "titleZh": "灵魂净化为何需要生活纪律？", "questionZh": "毕达哥拉斯传统如何把灵魂轮回、禁忌、饮食和共同体规则组织成一种伦理训练？", "summaryZh": "毕达哥拉斯主义不只是数学传统，也是一种灵魂净化和生活纪律传统。人的生活方式被视为影响灵魂命运和认知状态。", "themeIds": ["ethics", "religion"], "weight": 3, "claims": [
+      {"id": "pythagoras:claim:003", "titleZh": "灵魂轮回支持净化伦理", "claimZh": "毕达哥拉斯传统与灵魂迁移或轮回观念相关，伦理生活被理解为灵魂净化的条件。", "explanationZh": "这把哲学从理论解释扩展到饮食、行为、共同体纪律和自我训练。", "themeIds": ["ethics", "religion"], "weight": 3, "evidence": [
+        {"id": "pythagoras:evidence:005", "titleZh": "色诺芬尼关于轮回轶事", "summaryZh": "色诺芬尼残篇讽刺毕达哥拉斯认出动物中朋友灵魂的故事，是早期灵魂迁移传统的重要线索。", "source": {"workId": "pythagoras-primary-work", "locator": "Xenophanes fragment on Pythagoras and transmigration, preserved in Diogenes Laertius VIII", "excerptStatus": "summary_only"}},
+        {"id": "pythagoras:evidence:006", "titleZh": "第欧根尼·拉尔修传记材料", "summaryZh": "第八卷汇集毕达哥拉斯关于灵魂、禁忌、生活纪律和学派共同体的传记传统。", "source": {"workId": "pythagoras-primary-work", "locator": "Diogenes Laertius VIII.1-50 on Pythagoras, soul, rules and way of life", "excerptStatus": "summary_only"}}
+      ]},
+      {"id": "pythagoras:claim:004", "titleZh": "共同体规则塑造哲学生活", "claimZh": "毕达哥拉斯传统把沉默、听学、财产安排、饮食禁忌和师徒关系纳入哲学共同体秩序。", "explanationZh": "这说明早期哲学并非只由文本命题组成，也由制度化生活方式和成员训练构成。", "themeIds": ["ethics", "politics"], "weight": 2, "evidence": [
+        {"id": "pythagoras:evidence:007", "titleZh": "扬布里柯关于毕达哥拉斯生活的记载", "summaryZh": "扬布里柯保存大量关于毕达哥拉斯共同体规则、教育分层和生活纪律的后出材料。", "source": {"workId": "pythagoras-primary-work", "locator": "Iamblichus, Life of Pythagoras, on community rules, discipline and education", "excerptStatus": "summary_only"}},
+        {"id": "pythagoras:evidence:008", "titleZh": "传记材料的后出性提醒", "summaryZh": "现代研究强调扬布里柯和波菲利材料较晚，应作为传统接受和重构，而非无条件历史事实。", "source": {"workId": "pythagoras-primary-work", "locator": "Modern scholarship on Porphyry, Iamblichus and the legendary layers of Pythagorean biography", "excerptStatus": "summary_only"}}
+      ]}
+    ]},
+    {"id": "pythagoras:problem:003", "titleZh": "历史人物和学派传说如何区分？", "questionZh": "面对毕达哥拉斯缺少本人著作、传记晚出和学派神圣化，如何稳健重建其思想地位？", "summaryZh": "毕达哥拉斯的思想史地位应分层处理：历史人物、早期毕达哥拉斯派、后世新毕达哥拉斯化传说和柏拉图主义接受不能混为一谈。", "themeIds": ["knowledge", "metaphysics"], "weight": 2, "claims": [
+      {"id": "pythagoras:claim:005", "titleZh": "个人毕达哥拉斯与毕达哥拉斯派需要区分", "claimZh": "许多思想内容更稳妥地归于毕达哥拉斯传统或早期毕达哥拉斯派，而不是直接归给毕达哥拉斯本人。", "explanationZh": "这种处理避免过度实证化传说，同时保留该传统对数学、伦理和宗教哲学的影响。", "themeIds": ["knowledge"], "weight": 3, "evidence": [
+        {"id": "pythagoras:evidence:009", "titleZh": "亚里士多德多称毕达哥拉斯派", "summaryZh": "亚里士多德常以“毕达哥拉斯派”而非个人毕达哥拉斯讨论数和原则，提示学派传统性质。", "source": {"workId": "pythagoras-primary-work", "locator": "Aristotle, Metaphysics A.5 and M-N on the Pythagoreans rather than Pythagoras alone", "excerptStatus": "summary_only"}},
+        {"id": "pythagoras:evidence:010", "titleZh": "证据层次研究", "summaryZh": "现代研究强调按早期见证、亚里士多德报告、传记文学和新毕达哥拉斯接受分层。", "source": {"workId": "pythagoras-primary-work", "locator": "Modern source-critical studies of Pythagoras and early Pythagoreanism", "excerptStatus": "summary_only"}}
+      ]},
+      {"id": "pythagoras:claim:006", "titleZh": "影响力来自传统综合而非单一著作", "claimZh": "毕达哥拉斯的重要性在于把数学、宇宙、灵魂和共同体生活综合为可持续传统。", "explanationZh": "这种综合影响柏拉图主义、古代数学形而上学和后世神秘主义，即使具体归属需谨慎。", "themeIds": ["metaphysics", "ethics"], "weight": 2, "evidence": [
+        {"id": "pythagoras:evidence:011", "titleZh": "柏拉图主义接受线索", "summaryZh": "柏拉图和后世柏拉图主义吸收数学秩序、灵魂净化和哲学生活等毕达哥拉斯主题。", "source": {"workId": "pythagoras-primary-work", "locator": "Plato, Republic VII and Timaeus as later philosophical contexts for mathematical order and soul training", "excerptStatus": "summary_only"}},
+        {"id": "pythagoras:evidence:012", "titleZh": "后世毕达哥拉斯传统", "summaryZh": "新毕达哥拉斯和新柏拉图主义材料扩大了毕达哥拉斯形象，使其成为数学神学和哲学生活的象征。", "source": {"workId": "pythagoras-primary-work", "locator": "Porphyry and Iamblichus on Pythagorean tradition and later reception", "excerptStatus": "summary_only"}}
+      ]}
+    ]}
+  ]}
+}

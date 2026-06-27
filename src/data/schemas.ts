@@ -23,6 +23,7 @@ export const thoughtEvidenceSchema = z.object({
   source: z.object({
     workId: z.string().min(1).optional(),
     locator: z.string().min(1).optional(),
+    publicDomainExcerptZh: z.string().optional(),
     excerptStatus: z.enum(["none", "public_domain", "summary_only"]),
   }),
 });

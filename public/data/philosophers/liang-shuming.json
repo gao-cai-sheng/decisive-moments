@@ -5,9 +5,9 @@
     "en": "Liang Shuming"
   },
   "life": {
-    "display": "1893—1988",
     "birth": 1893,
-    "death": 1988
+    "death": 1988,
+    "display": "1893—1988"
   },
   "civilization": "chinese",
   "traditions": [
@@ -38,5 +38,246 @@
       "label": "draft",
       "noteZh": "条目需要人工核对作品、年代和概念表述。"
     }
-  ]
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "liang-shuming:problem:001",
+        "titleZh": "文化现代化的方向是什么？",
+        "questionZh": "中国现代化应只是学习西方制度和技术，还是还要重新理解人生方向、文化路向与伦理秩序？",
+        "summaryZh": "梁漱溟把文化理解为人生意欲和生活方向的表现，认为西方、中国、印度代表不同文化路向；中国现代化既需要科学民主，也不能忽略自身伦理关系和人生问题。",
+        "themeIds": [
+          "ethics",
+          "politics"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "liang-shuming:claim:001",
+            "titleZh": "文化差异根源于人生方向",
+            "claimZh": "梁漱溟认为文化不是外在器物集合，而是人生意欲和生活方向的表现；因此现代化不能只看制度和技术，还要看人如何安顿欲望、关系和意义。",
+            "explanationZh": "《东西文化及其哲学》用三种文化路向解释西方、中国和印度文化差异。这种解释虽高度哲学化，却构成梁漱溟理解现代中国困境的起点。",
+            "themeIds": [
+              "ethics",
+              "politics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "liang-shuming:evidence:001",
+                "titleZh": "《东西文化及其哲学》论三种文化路向",
+                "summaryZh": "梁漱溟在《东西文化及其哲学》中以人生意欲方向区分西方、中国和印度三种文化路向，为其后来的中国文化论奠定基础。",
+                "source": {
+                  "workId": "liang-shuming-primary-work",
+                  "locator": "《东西文化及其哲学》论三种文化路向与意欲方向段",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "liang-shuming:evidence:002",
+                "titleZh": "佛学与生命哲学背景",
+                "summaryZh": "Meynard 的研究指出，梁漱溟文化哲学不能只理解为儒家复兴，也与佛学、宗教哲学和生命哲学背景密切相关。",
+                "source": {
+                  "workId": "liang-shuming-primary-work",
+                  "locator": "Meynard, The Religious Philosophy of Liang Shuming，早期佛学与文化哲学相关章节",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "liang-shuming:claim:002",
+            "titleZh": "科学民主必要但不足以重建中国",
+            "claimZh": "梁漱溟承认西方科学、民主和组织能力对中国现代化的重要性，但认为若忽略中国社会的伦理基础，制度移植难以真正重建社会秩序。",
+            "explanationZh": "梁漱溟不是简单排斥西方，而是在中西文化比较中追问现代制度如何与中国社会基础结合。这个问题贯穿其文化论和乡村建设实践。",
+            "themeIds": [
+              "politics",
+              "ethics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "liang-shuming:evidence:003",
+                "titleZh": "中国现代化中的文化选择",
+                "summaryZh": "Alitto 将梁漱溟置于中国现代性困境中，说明其思想既回应西方冲击，也试图从儒家和中国社会结构中寻找重建资源。",
+                "source": {
+                  "workId": "liang-shuming-primary-work",
+                  "locator": "Alitto, The Last Confucian，现代性困境与文化选择相关章节",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "liang-shuming:evidence:004",
+                "titleZh": "《中国文化要义》中的文化社会分析",
+                "summaryZh": "《中国文化要义》把中国文化特征与社会结构结合起来分析，显示梁漱溟关心制度背后的伦理和社会基础。",
+                "source": {
+                  "workId": "liang-shuming-primary-work",
+                  "locator": "《中国文化要义》论中国社会结构与文化特征段",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "liang-shuming:problem:002",
+        "titleZh": "中国社会秩序的基础是什么？",
+        "questionZh": "社会秩序主要建立在个人权利、国家法律、阶级组织，还是家庭、礼俗和相互义务构成的伦理关系上？",
+        "summaryZh": "梁漱溟用“伦理本位”概括中国社会，认为家庭、亲情、礼俗和相互义务构成中国秩序的基本网络；这一理论既解释中国社会整合，也暴露其与现代权利和法治之间的张力。",
+        "themeIds": [
+          "ethics",
+          "justice"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "liang-shuming:claim:003",
+            "titleZh": "伦理本位解释中国社会结构",
+            "claimZh": "梁漱溟认为中国社会的基本组织原则不是独立个人或阶级对抗，而是家庭、亲情、礼俗和相互义务交织成的伦理关系。",
+            "explanationZh": "伦理本位是梁漱溟理解中国文化和社会结构的核心概念。它不是单纯道德说教，而是关于中国社会如何整合、如何维持秩序的理论诊断。",
+            "themeIds": [
+              "ethics",
+              "justice"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "liang-shuming:evidence:005",
+                "titleZh": "《中国文化要义》论伦理本位",
+                "summaryZh": "梁漱溟在《中国文化要义》中将中国文化的社会基础概括为伦理本位，强调亲情、家庭和相互义务对社会秩序的构成作用。",
+                "source": {
+                  "workId": "liang-shuming-primary-work",
+                  "locator": "《中国文化要义》“伦理本位”相关章节",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "liang-shuming:evidence:006",
+                "titleZh": "最后的儒家框架中的伦理社会",
+                "summaryZh": "Alitto 的研究把梁漱溟的伦理社会论放在现代儒学与中国现代性困境中，显示其试图以关系和义务重构现代秩序。",
+                "source": {
+                  "workId": "liang-shuming-primary-work",
+                  "locator": "Alitto, The Last Confucian，伦理社会与现代儒家相关章节",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "liang-shuming:claim:004",
+            "titleZh": "关系性正义有贡献也有风险",
+            "claimZh": "梁漱溟以相互责任和人格成全理解社会正当性，提供了关系性正义视角；但它也可能低估个人权利、性别平等和法治保障的重要性。",
+            "explanationZh": "伦理本位强调关系中的义务和成全，能纠正原子化个人主义，却也可能为传统等级、家庭压力或权利不足提供辩护空间。后续评价必须保持张力。",
+            "themeIds": [
+              "justice",
+              "ethics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "liang-shuming:evidence:007",
+                "titleZh": "伦理本位与现代权利的张力",
+                "summaryZh": "《中国文化要义》强调中国社会的关系和义务结构，这为现代关系性正义提供资源，也留下与个人权利和现代法律制度协调的问题。",
+                "source": {
+                  "workId": "liang-shuming-primary-work",
+                  "locator": "《中国文化要义》论家庭、伦理关系与社会组织段",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "liang-shuming:evidence:008",
+                "titleZh": "乡村现代性研究中的自我与国家",
+                "summaryZh": "Merkel-Hess 对乡村建设运动的研究提示，梁漱溟式社会重建同时涉及个人塑造、国家建设和基层组织，不宜只作伦理理想化理解。",
+                "source": {
+                  "workId": "liang-shuming-primary-work",
+                  "locator": "Merkel-Hess, The Rural Modern，乡村建设与自我/国家重构相关章节",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "liang-shuming:problem:003",
+        "titleZh": "社会重建应从何处开始？",
+        "questionZh": "中国社会重建应从中央制度、市场发展、革命动员，还是从乡村教育、基层自治和社会组织能力开始？",
+        "summaryZh": "梁漱溟把乡村视为中国社会的基础场域，试图通过教育、合作、自治和组织训练重建社会能力；乡村建设既是政治实践，也是伦理和教育实践。",
+        "themeIds": [
+          "politics",
+          "justice"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "liang-shuming:claim:005",
+            "titleZh": "乡村建设是基层社会重建方案",
+            "claimZh": "梁漱溟认为中国问题的根基在乡村，因此社会重建必须通过乡村教育、合作组织、地方自治和公共责任训练来恢复基层能力。",
+            "explanationZh": "乡村建设不是单纯农业技术改良，而是把教育、治理、伦理和组织结合起来的现代化实验。邹平实验是这一思想的集中实践场域。",
+            "themeIds": [
+              "politics",
+              "justice"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "liang-shuming:evidence:009",
+                "titleZh": "《乡村建设理论》论基层重建",
+                "summaryZh": "梁漱溟在《乡村建设理论》中把乡村教育、地方自治、合作组织和社会训练结合起来，作为中国社会重建的路径。",
+                "source": {
+                  "workId": "liang-shuming-primary-work",
+                  "locator": "《乡村建设理论》论乡村社会重建与教育自治段",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "liang-shuming:evidence:010",
+                "titleZh": "乡村建设运动的历史语境",
+                "summaryZh": "Merkel-Hess 将梁漱溟的乡村建设置于民国乡村现代化和国家建设语境中，说明它同时关涉基层组织、个体改造和国家能力。",
+                "source": {
+                  "workId": "liang-shuming-primary-work",
+                  "locator": "Merkel-Hess, The Rural Modern，梁漱溟与乡村建设相关章节",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "liang-shuming:claim:006",
+            "titleZh": "教育和人格修养是政治秩序的前提",
+            "claimZh": "梁漱溟把教育和人格修养看作社会重建的基础，因为没有能够承担责任、合作和自治的人，制度文本难以转化为稳定秩序。",
+            "explanationZh": "这一主张把儒家修身传统与现代乡村组织训练相结合：政治秩序不只来自制度设计，也来自人心、习惯和公共责任的培育。",
+            "themeIds": [
+              "politics",
+              "ethics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "liang-shuming:evidence:011",
+                "titleZh": "《朝话》中的修养与实践伦理",
+                "summaryZh": "《朝话》以讲演和短论形式呈现梁漱溟关于人生修养、教育和实际工作的观点，显示其把社会改革落实到人格与日常行动。",
+                "source": {
+                  "workId": "liang-shuming-primary-work",
+                  "locator": "《朝话》关于修养、教育与乡村工作相关篇章",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "liang-shuming:evidence:012",
+                "titleZh": "晚年人心论与人生问题",
+                "summaryZh": "《人心与人生》显示梁漱溟晚年仍把人心、生命、理性和情感问题作为理解社会与人生的基础。",
+                "source": {
+                  "workId": "liang-shuming-primary-work",
+                  "locator": "《人心与人生》关于人心、理性与人生总论段",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
 }

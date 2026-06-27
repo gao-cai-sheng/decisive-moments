@@ -162,6 +162,29 @@
                 }
               }
             ]
+          },
+          {
+            "id": "buddha-middle-view",
+            "titleZh": "缘起避免常见与断见两端",
+            "claimZh": "佛陀以缘起说明经验世界，避免把存在理解为绝对有或绝对无。",
+            "explanationZh": "这种中道式理解把注意力转向条件网络：当条件具足时现象生起，条件止息时现象止息，因此不必预设一个永恒实体或完全虚无。",
+            "themeIds": [
+              "metaphysics",
+              "knowledge"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "buddha-middle-view-source",
+                "titleZh": "迦旃延经中的中道正见",
+                "summaryZh": "《迦旃延经》以缘起说明正见，避免落入世界绝对存在或绝对不存在两端。",
+                "source": {
+                  "workId": "kaccanagotta-sutta",
+                  "locator": "SN 12.15；避免有无两边的正见段落",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
           }
         ]
       },
@@ -258,6 +281,30 @@
                 }
               }
             ]
+          },
+          {
+            "id": "buddha-eightfold-path",
+            "titleZh": "八正道把解脱落实为训练路径",
+            "claimZh": "八正道把解脱实践组织为见解、意向、言行、生活方式、精进、正念和定力的综合训练。",
+            "explanationZh": "这说明佛陀的道路不是单一冥想技巧，也不是纯伦理戒律，而是把认知、行为与心智训练合为一体的实践系统。",
+            "themeIds": [
+              "religion",
+              "ethics",
+              "knowledge"
+            ],
+            "weight": 1,
+            "evidence": [
+              {
+                "id": "buddha-eightfold-path-source",
+                "titleZh": "《转法轮经》中的八正道",
+                "summaryZh": "《转法轮经》列出正见、正思维、正语、正业、正命、正精进、正念、正定，构成通向苦灭的道路。",
+                "source": {
+                  "workId": "dhammacakkappavattana-sutta",
+                  "locator": "SN 56.11；八正道列举段落",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
           }
         ]
       },
@@ -313,7 +360,7 @@
                 "summaryZh": "《大般涅槃经》记录佛陀晚年、入灭和僧团传承相关叙述，适合承载生命终点与教法延续节点。",
                 "source": {
                   "workId": "mahaparinibbana-sutta",
-                  "locator": "DN 16；入灭与遗教传统",
+                  "locator": "DN 16，第六诵品：最后遗教「诸行无常，应不放逸」段",
                   "excerptStatus": "summary_only"
                 }
               }

@@ -5,9 +5,9 @@
     "en": "Epicurus"
   },
   "life": {
-    "display": "前 341—前 270",
     "birth": -341,
-    "death": -270
+    "death": -270,
+    "display": "前 341—前 270"
   },
   "civilization": "ancient_greek",
   "traditions": [
@@ -38,5 +38,253 @@
       "label": "draft",
       "noteZh": "条目需要人工核对作品、年代和概念表述。"
     }
-  ]
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "epicurus:problem:001",
+        "titleZh": "自然哲学如何治疗恐惧？",
+        "questionZh": "伊壁鸠鲁为什么把原子论、虚空和天象自然解释放在伦理学之前，并用它们解除对神和死亡的恐惧？",
+        "summaryZh": "伊壁鸠鲁的自然哲学不是抽象宇宙论，而是伦理治疗的基础。原子、虚空和多重自然解释使世界不再受任意神意支配，从而解除人对天象、神和死亡的恐惧。",
+        "themeIds": [
+          "metaphysics",
+          "knowledge",
+          "religion",
+          "life_death"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "epicurus:claim:001",
+            "titleZh": "原子和虚空提供非神意的自然解释",
+            "claimZh": "伊壁鸠鲁用原子和虚空解释世界，使自然事件不再需要诉诸神的任意干预。",
+            "explanationZh": "这并非单纯物理假说，而是安宁生活的条件。只要人把天象和灾异看成神罚，灵魂就不能摆脱恐惧。",
+            "themeIds": [
+              "metaphysics",
+              "religion",
+              "knowledge"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "epicurus:evidence:001",
+                "titleZh": "《致希罗多德书》概述原子和虚空",
+                "summaryZh": "《致希罗多德书》以原子、虚空、运动和感觉解释自然，为排除超自然恐惧提供基础框架。",
+                "source": {
+                  "workId": "epicurus-primary-work",
+                  "locator": "Letter to Herodotus, sections 38-83 in Diogenes Laertius X on atoms, void, motion and perception",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "epicurus:evidence:002",
+                "titleZh": "卢克莱修系统化自然解释的反恐惧功能",
+                "summaryZh": "《物性论》把伊壁鸠鲁自然学呈现为解除宗教恐惧和死亡恐惧的力量，显示古代接受传统中的治疗功能。",
+                "source": {
+                  "workId": "epicurus-primary-work",
+                  "locator": "Lucretius, De Rerum Natura I.62-135 on Epicurus, religion and natural explanation",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "epicurus:claim:002",
+            "titleZh": "多重自然解释服务于心灵安宁",
+            "claimZh": "伊壁鸠鲁允许对天象给出多种自然解释，只要这些解释能排除神意恐惧并符合现象。",
+            "explanationZh": "这种方法显示其知识论的治疗方向：目的不是获得现代意义的唯一物理模型，而是让人停止被神秘化解释支配。",
+            "themeIds": [
+              "knowledge",
+              "religion"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "epicurus:evidence:003",
+                "titleZh": "《致皮托克勒斯书》强调天象多重解释",
+                "summaryZh": "关于天象的书信对月相、日月食和气象现象提出多种自然可能，核心目标是避免神话恐惧。",
+                "source": {
+                  "workId": "epicurus-primary-work",
+                  "locator": "Letter to Pythocles, sections 85-116 in Diogenes Laertius X on multiple explanations of celestial phenomena",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "epicurus:evidence:004",
+                "titleZh": "现代研究把自然学理解为治疗哲学部分",
+                "summaryZh": "James Warren 和 Catherine Wilson 等研究强调，伊壁鸠鲁自然学与伦理学互相支撑，核心是从迷信和恐惧中解放。",
+                "source": {
+                  "workId": "epicurus-primary-work",
+                  "locator": "Modern Epicurus scholarship on natural philosophy as therapy",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "epicurus:problem:002",
+        "titleZh": "快乐为何是最高善但不是放纵？",
+        "questionZh": "伊壁鸠鲁为什么把快乐作为最高善，同时又强调无痛、无扰、审慎和欲望节制？",
+        "summaryZh": "伊壁鸠鲁的快乐论不是无限享受论。最高善是身体无痛和灵魂无扰；审慎帮助人区分欲望、权衡选择，避免短期刺激破坏长期安宁。",
+        "themeIds": [
+          "ethics",
+          "life_death",
+          "freedom"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "epicurus:claim:003",
+            "titleZh": "快乐的核心是无痛和无扰",
+            "claimZh": "伊壁鸠鲁把快乐作为最高善，但成熟快乐主要表现为 aponia 和 ataraxia，而非不断增加刺激。",
+            "explanationZh": "这能纠正对伊壁鸠鲁主义的粗俗误解。快乐生活需要减少痛苦和扰动，而不是追逐奢侈、名声或权力。",
+            "themeIds": [
+              "ethics",
+              "life_death"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "epicurus:evidence:005",
+                "titleZh": "《致美诺寇书》说明快乐与审慎",
+                "summaryZh": "《致美诺寇书》把快乐称为幸福生活的起点和终点，同时强调应通过理性计算选择和避免快乐。",
+                "source": {
+                  "workId": "epicurus-primary-work",
+                  "locator": "Letter to Menoeceus, sections 127-132 on pleasure, prudence and choice",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "epicurus:evidence:006",
+                "titleZh": "主要教义区分安宁快乐与痛苦消除",
+                "summaryZh": "《主要教义》开头多条把快乐、痛苦限度和心灵安宁联系起来，显示其快乐论具有节制结构。",
+                "source": {
+                  "workId": "epicurus-primary-work",
+                  "locator": "Principal Doctrines 3-4 and 18-21 on limits of pleasure and pain",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "epicurus:claim:004",
+            "titleZh": "死亡与我们无关是恐惧治疗的核心",
+            "claimZh": "伊壁鸠鲁认为死亡与我们无关，因为一切善恶在感觉中，而死亡是感觉的消失。",
+            "explanationZh": "这个论证不是轻视生命，而是解除对死后惩罚和死亡体验的想象恐惧，使人把注意力放回有限生活的安宁。",
+            "themeIds": [
+              "life_death",
+              "ethics",
+              "knowledge"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "epicurus:evidence:007",
+                "titleZh": "《致美诺寇书》提出死亡与我们无关",
+                "summaryZh": "书信中伊壁鸠鲁论证，死亡在时我们不在，我们在时死亡不在，因此死亡本身不是可经验的恶。",
+                "source": {
+                  "workId": "epicurus-primary-work",
+                  "locator": "Letter to Menoeceus, sections 124-127 on death being nothing to us",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "epicurus:evidence:008",
+                "titleZh": "卢克莱修展开死亡恐惧批判",
+                "summaryZh": "《物性论》第三卷系统发展死亡不可经验、死后无痛苦等论证，展示伊壁鸠鲁传统的治疗方向。",
+                "source": {
+                  "workId": "epicurus-primary-work",
+                  "locator": "Lucretius, De Rerum Natura III.830-1094 on death and fear",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "epicurus:problem:003",
+        "titleZh": "欲望、友爱和正义如何组织安宁生活？",
+        "questionZh": "伊壁鸠鲁如何通过欲望分类、友爱共同体、简朴生活和互不伤害的正义观，形成实践性的生活方案？",
+        "summaryZh": "伊壁鸠鲁的伦理学是生活训练。人要区分自然必要欲望和空虚欲望，以友爱获得安全，以正义约定避免互害，并远离制造焦虑的权力竞争。",
+        "themeIds": [
+          "ethics",
+          "politics",
+          "freedom"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "epicurus:claim:005",
+            "titleZh": "欲望分类使快乐生活可训练",
+            "claimZh": "伊壁鸠鲁把欲望区分为自然且必要、自然但非必要、空虚欲望，并以此指导选择和生活简化。",
+            "explanationZh": "这种分类使快乐论成为实践技术：人不必满足所有欲望，而要理解哪些欲望真正消除痛苦，哪些只制造依赖和不安。",
+            "themeIds": [
+              "ethics",
+              "freedom"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "epicurus:evidence:009",
+                "titleZh": "《致美诺寇书》列出欲望分类",
+                "summaryZh": "书信中伊壁鸠鲁区分自然必要、自然非必要和空虚欲望，以说明审慎选择如何服务安宁。",
+                "source": {
+                  "workId": "epicurus-primary-work",
+                  "locator": "Letter to Menoeceus, sections 127-130 on classification of desires",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "epicurus:evidence:010",
+                "titleZh": "格言传统强调简朴与自足",
+                "summaryZh": "《梵蒂冈格言》和《主要教义》中多处强调自然欲望容易满足，空虚欲望没有稳定限度。",
+                "source": {
+                  "workId": "epicurus-primary-work",
+                  "locator": "Vatican Sayings 20-21 and Principal Doctrines 15 on natural wealth and limits",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "epicurus:claim:006",
+            "titleZh": "友爱和正义服务安全与无扰",
+            "claimZh": "伊壁鸠鲁把友爱视为幸福生活的重要保障，并将正义理解为互不伤害、共同有益的约定。",
+            "explanationZh": "这不是积极参与城邦权力的政治学，而是一种减少恐惧和伤害的共同生活方案。友爱提供安全，正义约定提供稳定预期。",
+            "themeIds": [
+              "ethics",
+              "politics",
+              "freedom"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "epicurus:evidence:011",
+                "titleZh": "主要教义把正义定义为互利约定",
+                "summaryZh": "《主要教义》后段将自然正义解释为互不伤害、互不受害的共同利益约定，并承认其随处境变化。",
+                "source": {
+                  "workId": "epicurus-primary-work",
+                  "locator": "Principal Doctrines 31-38 on justice as mutual advantage",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "epicurus:evidence:012",
+                "titleZh": "友爱格言显示共同体实践维度",
+                "summaryZh": "格言传统反复强调友爱在获得安全和幸福中的价值，说明伊壁鸠鲁伦理不是孤立个人主义。",
+                "source": {
+                  "workId": "epicurus-primary-work",
+                  "locator": "Principal Doctrines 27-28 and Vatican Sayings 23, 34, 52 on friendship",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
 }

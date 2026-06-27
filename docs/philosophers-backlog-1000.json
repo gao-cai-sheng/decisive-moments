@@ -1,0 +1,4581 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-06-26",
+  "quotaTotal": 1000,
+  "nominatedTotal": 495,
+  "gapTotal": 505,
+  "civilizations": [
+    {
+      "civilization": "ancient_greek",
+      "civilizationZh": "古希腊罗马",
+      "target": 70,
+      "nominatedCount": 36,
+      "gap": 34,
+      "nominated": [
+        {
+          "id": "aristotle",
+          "zh": "亚里士多德",
+          "en": "Aristotle",
+          "life": "",
+          "tier": 1,
+          "status": "in_dataset",
+          "source": "existing"
+        },
+        {
+          "id": "epicurus",
+          "zh": "伊壁鸠鲁",
+          "en": "Epicurus",
+          "life": "",
+          "tier": 1,
+          "status": "in_dataset",
+          "source": "existing"
+        },
+        {
+          "id": "heraclitus",
+          "zh": "赫拉克利特",
+          "en": "Heraclitus",
+          "life": "",
+          "tier": 1,
+          "status": "in_dataset",
+          "source": "existing"
+        },
+        {
+          "id": "hypatia",
+          "zh": "希帕提娅",
+          "en": "Hypatia",
+          "life": "",
+          "tier": 1,
+          "status": "in_dataset",
+          "source": "existing"
+        },
+        {
+          "id": "parmenides",
+          "zh": "巴门尼德",
+          "en": "Parmenides",
+          "life": "",
+          "tier": 1,
+          "status": "in_dataset",
+          "source": "existing"
+        },
+        {
+          "id": "plato",
+          "zh": "柏拉图",
+          "en": "Plato",
+          "life": "",
+          "tier": 1,
+          "status": "in_dataset",
+          "source": "existing"
+        },
+        {
+          "id": "plotinus",
+          "zh": "普罗提诺",
+          "en": "Plotinus",
+          "life": "",
+          "tier": 1,
+          "status": "in_dataset",
+          "source": "existing"
+        },
+        {
+          "id": "socrates",
+          "zh": "苏格拉底",
+          "en": "Socrates",
+          "life": "",
+          "tier": 1,
+          "status": "in_dataset",
+          "source": "existing"
+        },
+        {
+          "id": "thales",
+          "zh": "泰勒斯",
+          "en": "Thales",
+          "life": "",
+          "tier": 1,
+          "status": "in_dataset",
+          "source": "existing"
+        },
+        {
+          "id": "zeno-citium",
+          "zh": "芝诺",
+          "en": "Zeno of Citium",
+          "life": "",
+          "tier": 1,
+          "status": "in_dataset",
+          "source": "existing"
+        },
+        {
+          "id": "pythagoras",
+          "zh": "毕达哥拉斯",
+          "en": "Pythagoras",
+          "life": "约前570—前495",
+          "tier": 1,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "anaximander",
+          "zh": "阿那克西曼德",
+          "en": "Anaximander",
+          "life": "约前610—前546",
+          "tier": 2,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "anaximenes",
+          "zh": "阿那克西美尼",
+          "en": "Anaximenes",
+          "life": "约前586—前526",
+          "tier": 2,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "xenophanes",
+          "zh": "色诺芬尼",
+          "en": "Xenophanes",
+          "life": "约前570—前478",
+          "tier": 2,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "empedocles",
+          "zh": "恩培多克勒",
+          "en": "Empedocles",
+          "life": "约前494—前434",
+          "tier": 2,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "anaxagoras",
+          "zh": "阿那克萨戈拉",
+          "en": "Anaxagoras",
+          "life": "约前500—前428",
+          "tier": 2,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "zeno-elea",
+          "zh": "芝诺（爱利亚）",
+          "en": "Zeno of Elea",
+          "life": "约前490—前430",
+          "tier": 2,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "protagoras",
+          "zh": "普罗泰戈拉",
+          "en": "Protagoras",
+          "life": "约前490—前420",
+          "tier": 2,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "gorgias",
+          "zh": "高尔吉亚",
+          "en": "Gorgias",
+          "life": "约前483—前375",
+          "tier": 2,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "democritus",
+          "zh": "德谟克利特",
+          "en": "Democritus",
+          "life": "约前460—前370",
+          "tier": 1,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "antisthenes",
+          "zh": "安提斯泰尼",
+          "en": "Antisthenes",
+          "life": "约前446—前366",
+          "tier": 3,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "diogenes-sinope",
+          "zh": "第欧根尼",
+          "en": "Diogenes of Sinope",
+          "life": "约前412—前323",
+          "tier": 2,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "pyrrho",
+          "zh": "皮浪",
+          "en": "Pyrrho",
+          "life": "约前360—前270",
+          "tier": 2,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "theophrastus",
+          "zh": "泰奥弗拉斯托斯",
+          "en": "Theophrastus",
+          "life": "约前371—前287",
+          "tier": 3,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "chrysippus",
+          "zh": "克吕西波",
+          "en": "Chrysippus",
+          "life": "约前279—前206",
+          "tier": 2,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "carneades",
+          "zh": "卡尔涅阿德斯",
+          "en": "Carneades",
+          "life": "约前214—前129",
+          "tier": 3,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "cicero",
+          "zh": "西塞罗",
+          "en": "Cicero",
+          "life": "前106—前43",
+          "tier": 1,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "lucretius",
+          "zh": "卢克莱修",
+          "en": "Lucretius",
+          "life": "约前99—前55",
+          "tier": 2,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "seneca",
+          "zh": "塞涅卡",
+          "en": "Seneca the Younger",
+          "life": "约前4—65",
+          "tier": 1,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "epictetus",
+          "zh": "爱比克泰德",
+          "en": "Epictetus",
+          "life": "约50—135",
+          "tier": 1,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "marcus-aurelius",
+          "zh": "马可·奥勒留",
+          "en": "Marcus Aurelius",
+          "life": "121—180",
+          "tier": 1,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "sextus-empiricus",
+          "zh": "塞克斯都·恩披里柯",
+          "en": "Sextus Empiricus",
+          "life": "约160—210",
+          "tier": 2,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "alexander-aphrodisias",
+          "zh": "阿芙罗狄西亚的亚历山大",
+          "en": "Alexander of Aphrodisias",
+          "life": "约150—215",
+          "tier": 3,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "porphyry",
+          "zh": "波菲利",
+          "en": "Porphyry",
+          "life": "约234—305",
+          "tier": 2,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "iamblichus",
+          "zh": "扬布里柯",
+          "en": "Iamblichus",
+          "life": "约245—325",
+          "tier": 3,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "proclus",
+          "zh": "普罗克洛斯",
+          "en": "Proclus",
+          "life": "412—485",
+          "tier": 2,
+          "status": "needs_verification",
+          "source": "nominated"
+        }
+      ]
+    },
+    {
+      "civilization": "latin_christian",
+      "civilizationZh": "拉丁基督教（中世纪欧洲）",
+      "target": 60,
+      "nominatedCount": 25,
+      "gap": 35,
+      "nominated": [
+        {
+          "id": "anselm",
+          "zh": "安瑟尔谟",
+          "en": "Anselm of Canterbury",
+          "life": "",
+          "tier": 1,
+          "status": "in_dataset",
+          "source": "existing"
+        },
+        {
+          "id": "aquinas",
+          "zh": "托马斯·阿奎那",
+          "en": "Thomas Aquinas",
+          "life": "",
+          "tier": 1,
+          "status": "in_dataset",
+          "source": "existing"
+        },
+        {
+          "id": "augustine",
+          "zh": "奥古斯丁",
+          "en": "Augustine of Hippo",
+          "life": "",
+          "tier": 1,
+          "status": "in_dataset",
+          "source": "existing"
+        },
+        {
+          "id": "boethius",
+          "zh": "波爱修斯",
+          "en": "Boethius",
+          "life": "",
+          "tier": 1,
+          "status": "in_dataset",
+          "source": "existing"
+        },
+        {
+          "id": "ockham",
+          "zh": "奥卡姆",
+          "en": "William of Ockham",
+          "life": "",
+          "tier": 1,
+          "status": "in_dataset",
+          "source": "existing"
+        },
+        {
+          "id": "pseudo-dionysius",
+          "zh": "伪狄奥尼修斯",
+          "en": "Pseudo-Dionysius",
+          "life": "约5—6世纪",
+          "tier": 2,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "eriugena",
+          "zh": "爱留根纳",
+          "en": "John Scotus Eriugena",
+          "life": "约815—877",
+          "tier": 2,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "peter-damian",
+          "zh": "彼得·达米安",
+          "en": "Peter Damian",
+          "life": "约1007—1072",
+          "tier": 3,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "peter-abelard",
+          "zh": "阿伯拉尔",
+          "en": "Peter Abelard",
+          "life": "1079—1142",
+          "tier": 1,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "bernard-clairvaux",
+          "zh": "克莱尔沃的贝尔纳",
+          "en": "Bernard of Clairvaux",
+          "life": "约1090—1153",
+          "tier": 3,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "hugh-saint-victor",
+          "zh": "圣维克托的休",
+          "en": "Hugh of Saint Victor",
+          "life": "约1096—1141",
+          "tier": 3,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "peter-lombard",
+          "zh": "彼得·伦巴第",
+          "en": "Peter Lombard",
+          "life": "约1096—1160",
+          "tier": 2,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "hildegard-bingen",
+          "zh": "宾根的希尔德加德",
+          "en": "Hildegard of Bingen",
+          "life": "1098—1179",
+          "tier": 2,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "albertus-magnus",
+          "zh": "大阿尔伯特",
+          "en": "Albertus Magnus",
+          "life": "约1200—1280",
+          "tier": 1,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "bonaventure",
+          "zh": "波纳文图拉",
+          "en": "Bonaventure",
+          "life": "1221—1274",
+          "tier": 2,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "roger-bacon",
+          "zh": "罗吉尔·培根",
+          "en": "Roger Bacon",
+          "life": "约1219—1292",
+          "tier": 2,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "ramon-llull",
+          "zh": "拉蒙·柳利",
+          "en": "Ramon Llull",
+          "life": "约1232—1316",
+          "tier": 2,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "henry-ghent",
+          "zh": "根特的亨利",
+          "en": "Henry of Ghent",
+          "life": "约1217—1293",
+          "tier": 3,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "duns-scotus",
+          "zh": "邓斯·司各脱",
+          "en": "John Duns Scotus",
+          "life": "约1266—1308",
+          "tier": 1,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "meister-eckhart",
+          "zh": "埃克哈特大师",
+          "en": "Meister Eckhart",
+          "life": "约1260—1328",
+          "tier": 1,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "marsilius-padua",
+          "zh": "帕多瓦的马西利乌斯",
+          "en": "Marsilius of Padua",
+          "life": "约1275—1342",
+          "tier": 3,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "jean-buridan",
+          "zh": "布里丹",
+          "en": "Jean Buridan",
+          "life": "约1301—1362",
+          "tier": 2,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "nicole-oresme",
+          "zh": "奥雷姆",
+          "en": "Nicole Oresme",
+          "life": "约1320—1382",
+          "tier": 3,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "catherine-siena",
+          "zh": "锡耶纳的加大肋纳",
+          "en": "Catherine of Siena",
+          "life": "1347—1380",
+          "tier": 3,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "nicholas-cusa",
+          "zh": "库萨的尼古拉",
+          "en": "Nicholas of Cusa",
+          "life": "1401—1464",
+          "tier": 1,
+          "status": "needs_verification",
+          "source": "nominated"
+        }
+      ]
+    },
+    {
+      "civilization": "european_modern",
+      "civilizationZh": "近现代欧洲",
+      "target": 220,
+      "nominatedCount": 127,
+      "gap": 93,
+      "nominated": [
+        {
+          "id": "arendt",
+          "zh": "阿伦特",
+          "en": "Hannah Arendt",
+          "life": "",
+          "tier": 1,
+          "status": "in_dataset",
+          "source": "existing"
+        },
+        {
+          "id": "bacon",
+          "zh": "弗朗西斯·培根",
+          "en": "Francis Bacon",
+          "life": "",
+          "tier": 1,
+          "status": "in_dataset",
+          "source": "existing"
+        },
+        {
+          "id": "beauvoir",
+          "zh": "波伏娃",
+          "en": "Simone de Beauvoir",
+          "life": "",
+          "tier": 1,
+          "status": "in_dataset",
+          "source": "existing"
+        },
+        {
+          "id": "bergson",
+          "zh": "柏格森",
+          "en": "Henri Bergson",
+          "life": "",
+          "tier": 1,
+          "status": "in_dataset",
+          "source": "existing"
+        },
+        {
+          "id": "camus",
+          "zh": "加缪",
+          "en": "Albert Camus",
+          "life": "",
+          "tier": 1,
+          "status": "in_dataset",
+          "source": "existing"
+        },
+        {
+          "id": "carnap",
+          "zh": "卡尔纳普",
+          "en": "Rudolf Carnap",
+          "life": "",
+          "tier": 1,
+          "status": "in_dataset",
+          "source": "existing"
+        },
+        {
+          "id": "derrida",
+          "zh": "德里达",
+          "en": "Jacques Derrida",
+          "life": "",
+          "tier": 1,
+          "status": "in_dataset",
+          "source": "existing"
+        },
+        {
+          "id": "descartes",
+          "zh": "笛卡尔",
+          "en": "Rene Descartes",
+          "life": "",
+          "tier": 1,
+          "status": "in_dataset",
+          "source": "existing"
+        },
+        {
+          "id": "erasmus",
+          "zh": "伊拉斯谟",
+          "en": "Erasmus",
+          "life": "",
+          "tier": 1,
+          "status": "in_dataset",
+          "source": "existing"
+        },
+        {
+          "id": "foucault",
+          "zh": "福柯",
+          "en": "Michel Foucault",
+          "life": "",
+          "tier": 1,
+          "status": "in_dataset",
+          "source": "existing"
+        },
+        {
+          "id": "frege",
+          "zh": "弗雷格",
+          "en": "Gottlob Frege",
+          "life": "",
+          "tier": 1,
+          "status": "in_dataset",
+          "source": "existing"
+        },
+        {
+          "id": "habermas",
+          "zh": "哈贝马斯",
+          "en": "Jurgen Habermas",
+          "life": "",
+          "tier": 1,
+          "status": "in_dataset",
+          "source": "existing"
+        },
+        {
+          "id": "hegel",
+          "zh": "黑格尔",
+          "en": "G. W. F. Hegel",
+          "life": "",
+          "tier": 1,
+          "status": "in_dataset",
+          "source": "existing"
+        },
+        {
+          "id": "heidegger",
+          "zh": "海德格尔",
+          "en": "Martin Heidegger",
+          "life": "",
+          "tier": 1,
+          "status": "in_dataset",
+          "source": "existing"
+        },
+        {
+          "id": "hobbes",
+          "zh": "霍布斯",
+          "en": "Thomas Hobbes",
+          "life": "",
+          "tier": 1,
+          "status": "in_dataset",
+          "source": "existing"
+        },
+        {
+          "id": "hume",
+          "zh": "休谟",
+          "en": "David Hume",
+          "life": "",
+          "tier": 1,
+          "status": "in_dataset",
+          "source": "existing"
+        },
+        {
+          "id": "husserl",
+          "zh": "胡塞尔",
+          "en": "Edmund Husserl",
+          "life": "",
+          "tier": 1,
+          "status": "in_dataset",
+          "source": "existing"
+        },
+        {
+          "id": "kant",
+          "zh": "康德",
+          "en": "Immanuel Kant",
+          "life": "",
+          "tier": 1,
+          "status": "in_dataset",
+          "source": "existing"
+        },
+        {
+          "id": "kierkegaard",
+          "zh": "克尔凯郭尔",
+          "en": "Soren Kierkegaard",
+          "life": "",
+          "tier": 1,
+          "status": "in_dataset",
+          "source": "existing"
+        },
+        {
+          "id": "leibniz",
+          "zh": "莱布尼茨",
+          "en": "G. W. Leibniz",
+          "life": "",
+          "tier": 1,
+          "status": "in_dataset",
+          "source": "existing"
+        },
+        {
+          "id": "locke",
+          "zh": "洛克",
+          "en": "John Locke",
+          "life": "",
+          "tier": 1,
+          "status": "in_dataset",
+          "source": "existing"
+        },
+        {
+          "id": "machiavelli",
+          "zh": "马基雅维利",
+          "en": "Niccolo Machiavelli",
+          "life": "",
+          "tier": 1,
+          "status": "in_dataset",
+          "source": "existing"
+        },
+        {
+          "id": "marx",
+          "zh": "马克思",
+          "en": "Karl Marx",
+          "life": "",
+          "tier": 1,
+          "status": "in_dataset",
+          "source": "existing"
+        },
+        {
+          "id": "merleau-ponty",
+          "zh": "梅洛-庞蒂",
+          "en": "Maurice Merleau-Ponty",
+          "life": "",
+          "tier": 1,
+          "status": "in_dataset",
+          "source": "existing"
+        },
+        {
+          "id": "mill",
+          "zh": "约翰·密尔",
+          "en": "John Stuart Mill",
+          "life": "",
+          "tier": 1,
+          "status": "in_dataset",
+          "source": "existing"
+        },
+        {
+          "id": "montaigne",
+          "zh": "蒙田",
+          "en": "Michel de Montaigne",
+          "life": "",
+          "tier": 1,
+          "status": "in_dataset",
+          "source": "existing"
+        },
+        {
+          "id": "nietzsche",
+          "zh": "尼采",
+          "en": "Friedrich Nietzsche",
+          "life": "",
+          "tier": 1,
+          "status": "in_dataset",
+          "source": "existing"
+        },
+        {
+          "id": "rousseau",
+          "zh": "卢梭",
+          "en": "Jean-Jacques Rousseau",
+          "life": "",
+          "tier": 1,
+          "status": "in_dataset",
+          "source": "existing"
+        },
+        {
+          "id": "russell",
+          "zh": "罗素",
+          "en": "Bertrand Russell",
+          "life": "",
+          "tier": 1,
+          "status": "in_dataset",
+          "source": "existing"
+        },
+        {
+          "id": "sartre",
+          "zh": "萨特",
+          "en": "Jean-Paul Sartre",
+          "life": "",
+          "tier": 1,
+          "status": "in_dataset",
+          "source": "existing"
+        },
+        {
+          "id": "schopenhauer",
+          "zh": "叔本华",
+          "en": "Arthur Schopenhauer",
+          "life": "",
+          "tier": 1,
+          "status": "in_dataset",
+          "source": "existing"
+        },
+        {
+          "id": "spinoza",
+          "zh": "斯宾诺莎",
+          "en": "Baruch Spinoza",
+          "life": "",
+          "tier": 1,
+          "status": "in_dataset",
+          "source": "existing"
+        },
+        {
+          "id": "whitehead",
+          "zh": "怀特海",
+          "en": "Alfred North Whitehead",
+          "life": "",
+          "tier": 1,
+          "status": "in_dataset",
+          "source": "existing"
+        },
+        {
+          "id": "wittgenstein",
+          "zh": "维特根斯坦",
+          "en": "Ludwig Wittgenstein",
+          "life": "",
+          "tier": 1,
+          "status": "in_dataset",
+          "source": "existing"
+        },
+        {
+          "id": "pico-mirandola",
+          "zh": "皮科·德拉·米兰多拉",
+          "en": "Pico della Mirandola",
+          "life": "1463—1494",
+          "tier": 2,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "thomas-more",
+          "zh": "托马斯·莫尔",
+          "en": "Thomas More",
+          "life": "1478—1535",
+          "tier": 2,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "giordano-bruno",
+          "zh": "布鲁诺",
+          "en": "Giordano Bruno",
+          "life": "1548—1600",
+          "tier": 1,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "francisco-suarez",
+          "zh": "苏亚雷斯",
+          "en": "Francisco Suárez",
+          "life": "1548—1617",
+          "tier": 2,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "galileo",
+          "zh": "伽利略",
+          "en": "Galileo Galilei",
+          "life": "1564—1642",
+          "tier": 2,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "campanella",
+          "zh": "康帕内拉",
+          "en": "Tommaso Campanella",
+          "life": "1568—1639",
+          "tier": 3,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "grotius",
+          "zh": "格劳秀斯",
+          "en": "Hugo Grotius",
+          "life": "1583—1645",
+          "tier": 1,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "gassendi",
+          "zh": "伽桑狄",
+          "en": "Pierre Gassendi",
+          "life": "1592—1655",
+          "tier": 2,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "pascal",
+          "zh": "帕斯卡",
+          "en": "Blaise Pascal",
+          "life": "1623—1662",
+          "tier": 1,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "cudworth",
+          "zh": "卡德沃思",
+          "en": "Ralph Cudworth",
+          "life": "1617—1688",
+          "tier": 3,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "conway",
+          "zh": "安妮·康威",
+          "en": "Anne Conway",
+          "life": "1631—1679",
+          "tier": 3,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "malebranche",
+          "zh": "马勒伯朗士",
+          "en": "Nicolas Malebranche",
+          "life": "1638—1715",
+          "tier": 2,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "bayle",
+          "zh": "培尔",
+          "en": "Pierre Bayle",
+          "life": "1647—1706",
+          "tier": 2,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "vico",
+          "zh": "维柯",
+          "en": "Giambattista Vico",
+          "life": "1668—1744",
+          "tier": 1,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "berkeley",
+          "zh": "贝克莱",
+          "en": "George Berkeley",
+          "life": "1685—1753",
+          "tier": 1,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "montesquieu",
+          "zh": "孟德斯鸠",
+          "en": "Montesquieu",
+          "life": "1689—1755",
+          "tier": 1,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "voltaire",
+          "zh": "伏尔泰",
+          "en": "Voltaire",
+          "life": "1694—1778",
+          "tier": 1,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "reid",
+          "zh": "托马斯·里德",
+          "en": "Thomas Reid",
+          "life": "1710—1796",
+          "tier": 2,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "la-mettrie",
+          "zh": "拉美特利",
+          "en": "La Mettrie",
+          "life": "1709—1751",
+          "tier": 3,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "diderot",
+          "zh": "狄德罗",
+          "en": "Denis Diderot",
+          "life": "1713—1784",
+          "tier": 1,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "condillac",
+          "zh": "孔狄亚克",
+          "en": "Étienne de Condillac",
+          "life": "1714—1780",
+          "tier": 2,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "helvetius",
+          "zh": "爱尔维修",
+          "en": "Helvétius",
+          "life": "1715—1771",
+          "tier": 3,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "dalembert",
+          "zh": "达朗贝尔",
+          "en": "Jean d'Alembert",
+          "life": "1717—1783",
+          "tier": 3,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "adam-smith",
+          "zh": "亚当·斯密",
+          "en": "Adam Smith",
+          "life": "1723—1790",
+          "tier": 1,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "holbach",
+          "zh": "霍尔巴赫",
+          "en": "Baron d'Holbach",
+          "life": "1723—1789",
+          "tier": 3,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "lessing",
+          "zh": "莱辛",
+          "en": "Gotthold Ephraim Lessing",
+          "life": "1729—1781",
+          "tier": 2,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "burke",
+          "zh": "柏克",
+          "en": "Edmund Burke",
+          "life": "1729—1797",
+          "tier": 1,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "herder",
+          "zh": "赫尔德",
+          "en": "Johann Gottfried Herder",
+          "life": "1744—1803",
+          "tier": 2,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "bentham",
+          "zh": "边沁",
+          "en": "Jeremy Bentham",
+          "life": "1748—1832",
+          "tier": 1,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "condorcet",
+          "zh": "孔多塞",
+          "en": "Marquis de Condorcet",
+          "life": "1743—1794",
+          "tier": 2,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "jacobi",
+          "zh": "雅可比",
+          "en": "Friedrich Jacobi",
+          "life": "1743—1819",
+          "tier": 3,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "wollstonecraft",
+          "zh": "沃斯通克拉夫特",
+          "en": "Mary Wollstonecraft",
+          "life": "1759—1797",
+          "tier": 1,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "saint-simon",
+          "zh": "圣西门",
+          "en": "Henri de Saint-Simon",
+          "life": "1760—1825",
+          "tier": 2,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "fichte",
+          "zh": "费希特",
+          "en": "J. G. Fichte",
+          "life": "1762—1814",
+          "tier": 1,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "humboldt-w",
+          "zh": "威廉·冯·洪堡",
+          "en": "Wilhelm von Humboldt",
+          "life": "1767—1835",
+          "tier": 3,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "schleiermacher",
+          "zh": "施莱尔马赫",
+          "en": "Friedrich Schleiermacher",
+          "life": "1768—1834",
+          "tier": 2,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "schelling",
+          "zh": "谢林",
+          "en": "F. W. J. Schelling",
+          "life": "1775—1854",
+          "tier": 1,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "de-maistre",
+          "zh": "迈斯特",
+          "en": "Joseph de Maistre",
+          "life": "1753—1821",
+          "tier": 3,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "comte",
+          "zh": "孔德",
+          "en": "Auguste Comte",
+          "life": "1798—1857",
+          "tier": 1,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "feuerbach",
+          "zh": "费尔巴哈",
+          "en": "Ludwig Feuerbach",
+          "life": "1804—1872",
+          "tier": 1,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "stirner",
+          "zh": "施蒂纳",
+          "en": "Max Stirner",
+          "life": "1806—1856",
+          "tier": 2,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "proudhon",
+          "zh": "蒲鲁东",
+          "en": "Pierre-Joseph Proudhon",
+          "life": "1809—1865",
+          "tier": 2,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "bakunin",
+          "zh": "巴枯宁",
+          "en": "Mikhail Bakunin",
+          "life": "1814—1876",
+          "tier": 2,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "engels",
+          "zh": "恩格斯",
+          "en": "Friedrich Engels",
+          "life": "1820—1895",
+          "tier": 1,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "spencer",
+          "zh": "斯宾塞",
+          "en": "Herbert Spencer",
+          "life": "1820—1903",
+          "tier": 2,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "dostoevsky",
+          "zh": "陀思妥耶夫斯基",
+          "en": "Fyodor Dostoevsky",
+          "life": "1821—1881",
+          "tier": 2,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "dilthey",
+          "zh": "狄尔泰",
+          "en": "Wilhelm Dilthey",
+          "life": "1833—1911",
+          "tier": 1,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "sidgwick",
+          "zh": "西季威克",
+          "en": "Henry Sidgwick",
+          "life": "1838—1900",
+          "tier": 2,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "brentano",
+          "zh": "布伦塔诺",
+          "en": "Franz Brentano",
+          "life": "1838—1917",
+          "tier": 1,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "mach",
+          "zh": "马赫",
+          "en": "Ernst Mach",
+          "life": "1838—1916",
+          "tier": 2,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "bradley",
+          "zh": "布拉德利",
+          "en": "F. H. Bradley",
+          "life": "1846—1924",
+          "tier": 2,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "solovyov",
+          "zh": "索洛维约夫",
+          "en": "Vladimir Solovyov",
+          "life": "1853—1900",
+          "tier": 2,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "durkheim",
+          "zh": "涂尔干",
+          "en": "Émile Durkheim",
+          "life": "1858—1917",
+          "tier": 2,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "weber-max",
+          "zh": "马克斯·韦伯",
+          "en": "Max Weber",
+          "life": "1864—1920",
+          "tier": 2,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "croce",
+          "zh": "克罗齐",
+          "en": "Benedetto Croce",
+          "life": "1866—1952",
+          "tier": 2,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "moore-ge",
+          "zh": "摩尔",
+          "en": "G. E. Moore",
+          "life": "1873—1958",
+          "tier": 1,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "cassirer",
+          "zh": "卡西尔",
+          "en": "Ernst Cassirer",
+          "life": "1874—1945",
+          "tier": 1,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "jaspers",
+          "zh": "雅斯贝尔斯",
+          "en": "Karl Jaspers",
+          "life": "1883—1969",
+          "tier": 1,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "ortega-gasset",
+          "zh": "奥尔特加",
+          "en": "José Ortega y Gasset",
+          "life": "1883—1955",
+          "tier": 2,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "lukacs",
+          "zh": "卢卡奇",
+          "en": "György Lukács",
+          "life": "1885—1971",
+          "tier": 1,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "bloch-ernst",
+          "zh": "恩斯特·布洛赫",
+          "en": "Ernst Bloch",
+          "life": "1885—1977",
+          "tier": 2,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "schmitt",
+          "zh": "卡尔·施密特",
+          "en": "Carl Schmitt",
+          "life": "1888—1985",
+          "tier": 1,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "schlick",
+          "zh": "石里克",
+          "en": "Moritz Schlick",
+          "life": "1882—1936",
+          "tier": 2,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "gramsci",
+          "zh": "葛兰西",
+          "en": "Antonio Gramsci",
+          "life": "1891—1937",
+          "tier": 1,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "benjamin",
+          "zh": "本雅明",
+          "en": "Walter Benjamin",
+          "life": "1892—1940",
+          "tier": 1,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "horkheimer",
+          "zh": "霍克海默",
+          "en": "Max Horkheimer",
+          "life": "1895—1973",
+          "tier": 1,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "bakhtin",
+          "zh": "巴赫金",
+          "en": "Mikhail Bakhtin",
+          "life": "1895—1975",
+          "tier": 2,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "marcuse",
+          "zh": "马尔库塞",
+          "en": "Herbert Marcuse",
+          "life": "1898—1979",
+          "tier": 1,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "hayek",
+          "zh": "哈耶克",
+          "en": "Friedrich Hayek",
+          "life": "1899—1992",
+          "tier": 1,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "gadamer",
+          "zh": "伽达默尔",
+          "en": "Hans-Georg Gadamer",
+          "life": "1900—2002",
+          "tier": 1,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "ryle",
+          "zh": "赖尔",
+          "en": "Gilbert Ryle",
+          "life": "1900—1976",
+          "tier": 2,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "popper",
+          "zh": "波普尔",
+          "en": "Karl Popper",
+          "life": "1902—1994",
+          "tier": 1,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "adorno",
+          "zh": "阿多诺",
+          "en": "Theodor Adorno",
+          "life": "1903—1969",
+          "tier": 1,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "lacan",
+          "zh": "拉康",
+          "en": "Jacques Lacan",
+          "life": "1901—1981",
+          "tier": 2,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "simone-weil",
+          "zh": "西蒙娜·薇依",
+          "en": "Simone Weil",
+          "life": "1909—1943",
+          "tier": 1,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "berlin-isaiah",
+          "zh": "以赛亚·伯林",
+          "en": "Isaiah Berlin",
+          "life": "1909—1997",
+          "tier": 1,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "ricoeur",
+          "zh": "利科",
+          "en": "Paul Ricœur",
+          "life": "1913—2005",
+          "tier": 1,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "barthes",
+          "zh": "巴特",
+          "en": "Roland Barthes",
+          "life": "1915—1980",
+          "tier": 2,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "althusser",
+          "zh": "阿尔都塞",
+          "en": "Louis Althusser",
+          "life": "1918—1990",
+          "tier": 1,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "anscombe",
+          "zh": "安斯康姆",
+          "en": "G. E. M. Anscombe",
+          "life": "1919—2001",
+          "tier": 1,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "deleuze",
+          "zh": "德勒兹",
+          "en": "Gilles Deleuze",
+          "life": "1925—1995",
+          "tier": 1,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "lyotard",
+          "zh": "利奥塔",
+          "en": "Jean-François Lyotard",
+          "life": "1924—1998",
+          "tier": 1,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "feyerabend",
+          "zh": "费耶阿本德",
+          "en": "Paul Feyerabend",
+          "life": "1924—1994",
+          "tier": 2,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "bourdieu",
+          "zh": "布迪厄",
+          "en": "Pierre Bourdieu",
+          "life": "1930—2002",
+          "tier": 1,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "baudrillard",
+          "zh": "鲍德里亚",
+          "en": "Jean Baudrillard",
+          "life": "1929—2007",
+          "tier": 2,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "strawson-pf",
+          "zh": "斯特劳森",
+          "en": "P. F. Strawson",
+          "life": "1919—2006",
+          "tier": 1,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "dummett",
+          "zh": "达米特",
+          "en": "Michael Dummett",
+          "life": "1925—2011",
+          "tier": 2,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "badiou",
+          "zh": "巴迪欧",
+          "en": "Alain Badiou",
+          "life": "1937—",
+          "tier": 1,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "agamben",
+          "zh": "阿甘本",
+          "en": "Giorgio Agamben",
+          "life": "1942—",
+          "tier": 1,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "ranciere",
+          "zh": "朗西埃",
+          "en": "Jacques Rancière",
+          "life": "1940—",
+          "tier": 2,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "zizek",
+          "zh": "齐泽克",
+          "en": "Slavoj Žižek",
+          "life": "1949—",
+          "tier": 1,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "sloterdijk",
+          "zh": "斯洛特戴克",
+          "en": "Peter Sloterdijk",
+          "life": "1947—",
+          "tier": 2,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "honneth",
+          "zh": "霍耐特",
+          "en": "Axel Honneth",
+          "life": "1949—",
+          "tier": 2,
+          "status": "needs_verification",
+          "source": "nominated"
+        }
+      ]
+    },
+    {
+      "civilization": "american",
+      "civilizationZh": "美国",
+      "target": 60,
+      "nominatedCount": 33,
+      "gap": 27,
+      "nominated": [
+        {
+          "id": "dewey",
+          "zh": "杜威",
+          "en": "John Dewey",
+          "life": "",
+          "tier": 1,
+          "status": "in_dataset",
+          "source": "existing"
+        },
+        {
+          "id": "nozick",
+          "zh": "诺齐克",
+          "en": "Robert Nozick",
+          "life": "",
+          "tier": 1,
+          "status": "in_dataset",
+          "source": "existing"
+        },
+        {
+          "id": "quine",
+          "zh": "蒯因",
+          "en": "W. V. O. Quine",
+          "life": "",
+          "tier": 1,
+          "status": "in_dataset",
+          "source": "existing"
+        },
+        {
+          "id": "rawls",
+          "zh": "罗尔斯",
+          "en": "John Rawls",
+          "life": "",
+          "tier": 1,
+          "status": "in_dataset",
+          "source": "existing"
+        },
+        {
+          "id": "jonathan-edwards",
+          "zh": "乔纳森·爱德华兹",
+          "en": "Jonathan Edwards",
+          "life": "1703—1758",
+          "tier": 3,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "emerson",
+          "zh": "爱默生",
+          "en": "Ralph Waldo Emerson",
+          "life": "1803—1882",
+          "tier": 1,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "thoreau",
+          "zh": "梭罗",
+          "en": "Henry David Thoreau",
+          "life": "1817—1862",
+          "tier": 2,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "peirce",
+          "zh": "皮尔士",
+          "en": "Charles Sanders Peirce",
+          "life": "1839—1914",
+          "tier": 1,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "william-james",
+          "zh": "威廉·詹姆斯",
+          "en": "William James",
+          "life": "1842—1910",
+          "tier": 1,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "royce",
+          "zh": "罗伊斯",
+          "en": "Josiah Royce",
+          "life": "1855—1916",
+          "tier": 3,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "santayana",
+          "zh": "桑塔亚那",
+          "en": "George Santayana",
+          "life": "1863—1952",
+          "tier": 2,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "du-bois",
+          "zh": "杜波依斯",
+          "en": "W. E. B. Du Bois",
+          "life": "1868—1963",
+          "tier": 1,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "mead-gh",
+          "zh": "乔治·米德",
+          "en": "George Herbert Mead",
+          "life": "1863—1931",
+          "tier": 3,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "lewis-ci",
+          "zh": "C. I. 刘易斯",
+          "en": "C. I. Lewis",
+          "life": "1883—1964",
+          "tier": 3,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "langer",
+          "zh": "苏珊·朗格",
+          "en": "Susanne Langer",
+          "life": "1895—1985",
+          "tier": 3,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "sellars",
+          "zh": "塞拉斯",
+          "en": "Wilfrid Sellars",
+          "life": "1912—1989",
+          "tier": 1,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "goodman-nelson",
+          "zh": "纳尔逊·古德曼",
+          "en": "Nelson Goodman",
+          "life": "1906—1998",
+          "tier": 2,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "davidson",
+          "zh": "戴维森",
+          "en": "Donald Davidson",
+          "life": "1917—2003",
+          "tier": 1,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "kuhn",
+          "zh": "库恩",
+          "en": "Thomas Kuhn",
+          "life": "1922—1996",
+          "tier": 1,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "searle",
+          "zh": "塞尔",
+          "en": "John Searle",
+          "life": "1932—",
+          "tier": 1,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "putnam",
+          "zh": "普特南",
+          "en": "Hilary Putnam",
+          "life": "1926—2016",
+          "tier": 1,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "chomsky",
+          "zh": "乔姆斯基",
+          "en": "Noam Chomsky",
+          "life": "1928—",
+          "tier": 1,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "rorty",
+          "zh": "罗蒂",
+          "en": "Richard Rorty",
+          "life": "1931—2007",
+          "tier": 1,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "dworkin",
+          "zh": "德沃金",
+          "en": "Ronald Dworkin",
+          "life": "1931—2013",
+          "tier": 1,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "frankfurt",
+          "zh": "哈里·法兰克福",
+          "en": "Harry Frankfurt",
+          "life": "1929—2023",
+          "tier": 2,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "nagel-thomas",
+          "zh": "托马斯·内格尔",
+          "en": "Thomas Nagel",
+          "life": "1937—",
+          "tier": 1,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "kripke",
+          "zh": "克里普克",
+          "en": "Saul Kripke",
+          "life": "1940—2022",
+          "tier": 1,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "david-lewis",
+          "zh": "大卫·刘易斯",
+          "en": "David Lewis",
+          "life": "1941—2001",
+          "tier": 1,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "dennett",
+          "zh": "丹尼特",
+          "en": "Daniel Dennett",
+          "life": "1942—2024",
+          "tier": 1,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "fodor",
+          "zh": "福多",
+          "en": "Jerry Fodor",
+          "life": "1935—2017",
+          "tier": 2,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "cavell",
+          "zh": "卡维尔",
+          "en": "Stanley Cavell",
+          "life": "1926—2018",
+          "tier": 2,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "macintyre",
+          "zh": "麦金太尔",
+          "en": "Alasdair MacIntyre",
+          "life": "1929—2025",
+          "tier": 1,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "thomson-jj",
+          "zh": "汤姆森",
+          "en": "Judith Jarvis Thomson",
+          "life": "1929—2020",
+          "tier": 3,
+          "status": "needs_verification",
+          "source": "nominated"
+        }
+      ]
+    },
+    {
+      "civilization": "chinese",
+      "civilizationZh": "中国",
+      "target": 110,
+      "nominatedCount": 56,
+      "gap": 54,
+      "nominated": [
+        {
+          "id": "confucius",
+          "zh": "孔子",
+          "en": "Confucius",
+          "life": "",
+          "tier": 1,
+          "status": "in_dataset",
+          "source": "existing"
+        },
+        {
+          "id": "hu-shi",
+          "zh": "胡适",
+          "en": "Hu Shih",
+          "life": "",
+          "tier": 1,
+          "status": "in_dataset",
+          "source": "existing"
+        },
+        {
+          "id": "laozi",
+          "zh": "老子",
+          "en": "Laozi",
+          "life": "",
+          "tier": 1,
+          "status": "in_dataset",
+          "source": "existing"
+        },
+        {
+          "id": "liang-shuming",
+          "zh": "梁漱溟",
+          "en": "Liang Shuming",
+          "life": "",
+          "tier": 1,
+          "status": "in_dataset",
+          "source": "existing"
+        },
+        {
+          "id": "mencius",
+          "zh": "孟子",
+          "en": "Mencius",
+          "life": "",
+          "tier": 1,
+          "status": "in_dataset",
+          "source": "existing"
+        },
+        {
+          "id": "mozi",
+          "zh": "墨子",
+          "en": "Mozi",
+          "life": "",
+          "tier": 1,
+          "status": "in_dataset",
+          "source": "existing"
+        },
+        {
+          "id": "wang-yangming",
+          "zh": "王阳明",
+          "en": "Wang Yangming",
+          "life": "",
+          "tier": 1,
+          "status": "in_dataset",
+          "source": "existing"
+        },
+        {
+          "id": "xunzi",
+          "zh": "荀子",
+          "en": "Xunzi",
+          "life": "",
+          "tier": 1,
+          "status": "in_dataset",
+          "source": "existing"
+        },
+        {
+          "id": "zhu-xi",
+          "zh": "朱熹",
+          "en": "Zhu Xi",
+          "life": "",
+          "tier": 1,
+          "status": "in_dataset",
+          "source": "existing"
+        },
+        {
+          "id": "zhuangzi",
+          "zh": "庄子",
+          "en": "Zhuangzi",
+          "life": "",
+          "tier": 1,
+          "status": "in_dataset",
+          "source": "existing"
+        },
+        {
+          "id": "han-feizi",
+          "zh": "韩非子",
+          "en": "Han Feizi",
+          "life": "约前280—前233",
+          "tier": 1,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "hui-shi",
+          "zh": "惠施",
+          "en": "Hui Shi",
+          "life": "约前370—前310",
+          "tier": 3,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "gongsun-long",
+          "zh": "公孙龙",
+          "en": "Gongsun Long",
+          "life": "约前320—前250",
+          "tier": 2,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "shang-yang",
+          "zh": "商鞅",
+          "en": "Shang Yang",
+          "life": "约前390—前338",
+          "tier": 2,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "zou-yan",
+          "zh": "邹衍",
+          "en": "Zou Yan",
+          "life": "约前305—前240",
+          "tier": 3,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "dong-zhongshu",
+          "zh": "董仲舒",
+          "en": "Dong Zhongshu",
+          "life": "约前179—前104",
+          "tier": 1,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "yang-xiong",
+          "zh": "扬雄",
+          "en": "Yang Xiong",
+          "life": "前53—18",
+          "tier": 3,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "wang-chong",
+          "zh": "王充",
+          "en": "Wang Chong",
+          "life": "27—约97",
+          "tier": 1,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "wang-bi",
+          "zh": "王弼",
+          "en": "Wang Bi",
+          "life": "226—249",
+          "tier": 1,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "guo-xiang",
+          "zh": "郭象",
+          "en": "Guo Xiang",
+          "life": "约252—312",
+          "tier": 2,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "ji-kang",
+          "zh": "嵇康",
+          "en": "Ji Kang",
+          "life": "223—262",
+          "tier": 3,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "seng-zhao",
+          "zh": "僧肇",
+          "en": "Sengzhao",
+          "life": "384—414",
+          "tier": 2,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "zhiyi",
+          "zh": "智顗",
+          "en": "Zhiyi",
+          "life": "538—597",
+          "tier": 2,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "xuanzang",
+          "zh": "玄奘",
+          "en": "Xuanzang",
+          "life": "602—664",
+          "tier": 1,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "huineng",
+          "zh": "慧能",
+          "en": "Huineng",
+          "life": "638—713",
+          "tier": 1,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "fazang",
+          "zh": "法藏",
+          "en": "Fazang",
+          "life": "643—712",
+          "tier": 2,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "han-yu",
+          "zh": "韩愈",
+          "en": "Han Yu",
+          "life": "768—824",
+          "tier": 2,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "li-ao",
+          "zh": "李翱",
+          "en": "Li Ao",
+          "life": "772—841",
+          "tier": 3,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "zhou-dunyi",
+          "zh": "周敦颐",
+          "en": "Zhou Dunyi",
+          "life": "1017—1073",
+          "tier": 1,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "shao-yong",
+          "zh": "邵雍",
+          "en": "Shao Yong",
+          "life": "1011—1077",
+          "tier": 2,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "zhang-zai",
+          "zh": "张载",
+          "en": "Zhang Zai",
+          "life": "1020—1077",
+          "tier": 1,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "cheng-hao",
+          "zh": "程颢",
+          "en": "Cheng Hao",
+          "life": "1032—1085",
+          "tier": 1,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "cheng-yi",
+          "zh": "程颐",
+          "en": "Cheng Yi",
+          "life": "1033—1107",
+          "tier": 1,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "lu-jiuyuan",
+          "zh": "陆九渊",
+          "en": "Lu Jiuyuan",
+          "life": "1139—1192",
+          "tier": 1,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "chen-liang",
+          "zh": "陈亮",
+          "en": "Chen Liang",
+          "life": "1143—1194",
+          "tier": 3,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "ye-shi",
+          "zh": "叶适",
+          "en": "Ye Shi",
+          "life": "1150—1223",
+          "tier": 3,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "li-zhi",
+          "zh": "李贽",
+          "en": "Li Zhi",
+          "life": "1527—1602",
+          "tier": 1,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "wang-tingxiang",
+          "zh": "王廷相",
+          "en": "Wang Tingxiang",
+          "life": "1474—1544",
+          "tier": 3,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "luo-qinshun",
+          "zh": "罗钦顺",
+          "en": "Luo Qinshun",
+          "life": "1465—1547",
+          "tier": 3,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "wang-gen",
+          "zh": "王艮",
+          "en": "Wang Gen",
+          "life": "1483—1541",
+          "tier": 3,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "gu-yanwu",
+          "zh": "顾炎武",
+          "en": "Gu Yanwu",
+          "life": "1613—1682",
+          "tier": 1,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "huang-zongxi",
+          "zh": "黄宗羲",
+          "en": "Huang Zongxi",
+          "life": "1610—1695",
+          "tier": 1,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "wang-fuzhi",
+          "zh": "王夫之",
+          "en": "Wang Fuzhi",
+          "life": "1619—1692",
+          "tier": 1,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "yan-yuan",
+          "zh": "颜元",
+          "en": "Yan Yuan",
+          "life": "1635—1704",
+          "tier": 3,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "dai-zhen",
+          "zh": "戴震",
+          "en": "Dai Zhen",
+          "life": "1724—1777",
+          "tier": 1,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "kang-youwei",
+          "zh": "康有为",
+          "en": "Kang Youwei",
+          "life": "1858—1927",
+          "tier": 1,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "liang-qichao",
+          "zh": "梁启超",
+          "en": "Liang Qichao",
+          "life": "1873—1929",
+          "tier": 1,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "tan-sitong",
+          "zh": "谭嗣同",
+          "en": "Tan Sitong",
+          "life": "1865—1898",
+          "tier": 2,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "zhang-taiyan",
+          "zh": "章太炎",
+          "en": "Zhang Taiyan",
+          "life": "1869—1936",
+          "tier": 2,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "xiong-shili",
+          "zh": "熊十力",
+          "en": "Xiong Shili",
+          "life": "1885—1968",
+          "tier": 1,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "feng-youlan",
+          "zh": "冯友兰",
+          "en": "Feng Youlan",
+          "life": "1895—1990",
+          "tier": 1,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "jin-yuelin",
+          "zh": "金岳霖",
+          "en": "Jin Yuelin",
+          "life": "1895—1984",
+          "tier": 2,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "mou-zongsan",
+          "zh": "牟宗三",
+          "en": "Mou Zongsan",
+          "life": "1909—1995",
+          "tier": 1,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "tang-junyi",
+          "zh": "唐君毅",
+          "en": "Tang Junyi",
+          "life": "1909—1978",
+          "tier": 2,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "zhang-dongsun",
+          "zh": "张东荪",
+          "en": "Zhang Dongsun",
+          "life": "1886—1973",
+          "tier": 3,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "li-zehou",
+          "zh": "李泽厚",
+          "en": "Li Zehou",
+          "life": "1930—2021",
+          "tier": 1,
+          "status": "needs_verification",
+          "source": "nominated"
+        }
+      ]
+    },
+    {
+      "civilization": "indian",
+      "civilizationZh": "印度",
+      "target": 90,
+      "nominatedCount": 35,
+      "gap": 55,
+      "nominated": [
+        {
+          "id": "adi-shankara",
+          "zh": "商羯罗",
+          "en": "Adi Shankara",
+          "life": "",
+          "tier": 1,
+          "status": "in_dataset",
+          "source": "existing"
+        },
+        {
+          "id": "ambedkar",
+          "zh": "安贝德卡尔",
+          "en": "B. R. Ambedkar",
+          "life": "",
+          "tier": 1,
+          "status": "in_dataset",
+          "source": "existing"
+        },
+        {
+          "id": "buddha",
+          "zh": "释迦牟尼",
+          "en": "Gautama Buddha",
+          "life": "",
+          "tier": 1,
+          "status": "in_dataset",
+          "source": "existing"
+        },
+        {
+          "id": "gandhi",
+          "zh": "甘地",
+          "en": "M. K. Gandhi",
+          "life": "",
+          "tier": 1,
+          "status": "in_dataset",
+          "source": "existing"
+        },
+        {
+          "id": "krishnamurti",
+          "zh": "克里希那穆提",
+          "en": "Jiddu Krishnamurti",
+          "life": "",
+          "tier": 1,
+          "status": "in_dataset",
+          "source": "existing"
+        },
+        {
+          "id": "mahavira",
+          "zh": "摩诃毗罗",
+          "en": "Mahavira",
+          "life": "",
+          "tier": 1,
+          "status": "in_dataset",
+          "source": "existing"
+        },
+        {
+          "id": "nagarjuna",
+          "zh": "龙树",
+          "en": "Nagarjuna",
+          "life": "",
+          "tier": 1,
+          "status": "in_dataset",
+          "source": "existing"
+        },
+        {
+          "id": "ramanuja",
+          "zh": "罗摩奴阇",
+          "en": "Ramanuja",
+          "life": "",
+          "tier": 1,
+          "status": "in_dataset",
+          "source": "existing"
+        },
+        {
+          "id": "tagore",
+          "zh": "泰戈尔",
+          "en": "Rabindranath Tagore",
+          "life": "",
+          "tier": 1,
+          "status": "in_dataset",
+          "source": "existing"
+        },
+        {
+          "id": "vasubandhu",
+          "zh": "世亲",
+          "en": "Vasubandhu",
+          "life": "",
+          "tier": 1,
+          "status": "in_dataset",
+          "source": "existing"
+        },
+        {
+          "id": "patanjali",
+          "zh": "钵颠阇利",
+          "en": "Patañjali",
+          "life": "约前2世纪",
+          "tier": 2,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "panini",
+          "zh": "波你尼",
+          "en": "Pāṇini",
+          "life": "约前5—前4世纪",
+          "tier": 2,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "kanada",
+          "zh": "迦那陀",
+          "en": "Kaṇāda",
+          "life": "约前2世纪",
+          "tier": 3,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "gautama-nyaya",
+          "zh": "乔达摩（正理派）",
+          "en": "Akṣapāda Gautama",
+          "life": "约前2世纪",
+          "tier": 3,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "nagasena",
+          "zh": "那先",
+          "en": "Nāgasena",
+          "life": "约前2世纪",
+          "tier": 3,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "asanga",
+          "zh": "无著",
+          "en": "Asaṅga",
+          "life": "约4世纪",
+          "tier": 1,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "buddhaghosa",
+          "zh": "觉音",
+          "en": "Buddhaghosa",
+          "life": "约5世纪",
+          "tier": 2,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "dignaga",
+          "zh": "陈那",
+          "en": "Dignāga",
+          "life": "约480—540",
+          "tier": 1,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "bhartrhari",
+          "zh": "伐致诃利",
+          "en": "Bhartṛhari",
+          "life": "约5世纪",
+          "tier": 2,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "dharmakirti",
+          "zh": "法称",
+          "en": "Dharmakīrti",
+          "life": "约600—660",
+          "tier": 1,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "kumarila",
+          "zh": "鸠摩利罗",
+          "en": "Kumārila Bhaṭṭa",
+          "life": "约7世纪",
+          "tier": 3,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "abhinavagupta",
+          "zh": "阿毗那婆笈多",
+          "en": "Abhinavagupta",
+          "life": "约950—1016",
+          "tier": 1,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "ramananda",
+          "zh": "罗摩难陀",
+          "en": "Ramananda",
+          "life": "约14—15世纪",
+          "tier": 3,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "madhva",
+          "zh": "摩陀婆",
+          "en": "Madhva",
+          "life": "1238—1317",
+          "tier": 1,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "kabir",
+          "zh": "卡比尔",
+          "en": "Kabir",
+          "life": "约1440—1518",
+          "tier": 2,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "guru-nanak",
+          "zh": "古鲁那纳克",
+          "en": "Guru Nanak",
+          "life": "1469—1539",
+          "tier": 1,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "chaitanya",
+          "zh": "柴坦尼亚",
+          "en": "Chaitanya Mahaprabhu",
+          "life": "1486—1534",
+          "tier": 3,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "ram-mohan-roy",
+          "zh": "拉姆·莫汉·罗伊",
+          "en": "Ram Mohan Roy",
+          "life": "1772—1833",
+          "tier": 2,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "vivekananda",
+          "zh": "维韦卡南达",
+          "en": "Swami Vivekananda",
+          "life": "1863—1902",
+          "tier": 1,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "aurobindo",
+          "zh": "奥罗宾多",
+          "en": "Sri Aurobindo",
+          "life": "1872—1950",
+          "tier": 1,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "radhakrishnan",
+          "zh": "拉达克里希南",
+          "en": "S. Radhakrishnan",
+          "life": "1888—1975",
+          "tier": 1,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "coomaraswamy",
+          "zh": "库马拉斯瓦米",
+          "en": "Ananda Coomaraswamy",
+          "life": "1877—1947",
+          "tier": 3,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "k-c-bhattacharya",
+          "zh": "K.C. 巴塔查里亚",
+          "en": "Krishna Chandra Bhattacharya",
+          "life": "1875—1949",
+          "tier": 2,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "daya-krishna",
+          "zh": "达亚·克里希纳",
+          "en": "Daya Krishna",
+          "life": "1924—2007",
+          "tier": 3,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "bimal-matilal",
+          "zh": "马蒂拉尔",
+          "en": "Bimal Krishna Matilal",
+          "life": "1935—1991",
+          "tier": 2,
+          "status": "needs_verification",
+          "source": "nominated"
+        }
+      ]
+    },
+    {
+      "civilization": "japanese",
+      "civilizationZh": "日本",
+      "target": 50,
+      "nominatedCount": 29,
+      "gap": 21,
+      "nominated": [
+        {
+          "id": "dogen",
+          "zh": "道元",
+          "en": "Dogen",
+          "life": "",
+          "tier": 1,
+          "status": "in_dataset",
+          "source": "existing"
+        },
+        {
+          "id": "nishida",
+          "zh": "西田几多郎",
+          "en": "Nishida Kitaro",
+          "life": "",
+          "tier": 1,
+          "status": "in_dataset",
+          "source": "existing"
+        },
+        {
+          "id": "watsuji",
+          "zh": "和辻哲郎",
+          "en": "Watsuji Tetsuro",
+          "life": "",
+          "tier": 1,
+          "status": "in_dataset",
+          "source": "existing"
+        },
+        {
+          "id": "prince-shotoku",
+          "zh": "圣德太子",
+          "en": "Prince Shōtoku",
+          "life": "574—622",
+          "tier": 3,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "saicho",
+          "zh": "最澄",
+          "en": "Saichō",
+          "life": "767—822",
+          "tier": 2,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "kukai",
+          "zh": "空海",
+          "en": "Kūkai",
+          "life": "774—835",
+          "tier": 1,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "honen",
+          "zh": "法然",
+          "en": "Hōnen",
+          "life": "1133—1212",
+          "tier": 2,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "shinran",
+          "zh": "亲鸾",
+          "en": "Shinran",
+          "life": "1173—1263",
+          "tier": 1,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "nichiren",
+          "zh": "日莲",
+          "en": "Nichiren",
+          "life": "1222—1282",
+          "tier": 2,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "muso-soseki",
+          "zh": "梦窗疏石",
+          "en": "Musō Soseki",
+          "life": "1275—1351",
+          "tier": 3,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "hayashi-razan",
+          "zh": "林罗山",
+          "en": "Hayashi Razan",
+          "life": "1583—1657",
+          "tier": 3,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "nakae-toju",
+          "zh": "中江藤树",
+          "en": "Nakae Tōju",
+          "life": "1608—1648",
+          "tier": 3,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "yamazaki-ansai",
+          "zh": "山崎闇斋",
+          "en": "Yamazaki Ansai",
+          "life": "1619—1682",
+          "tier": 3,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "ito-jinsai",
+          "zh": "伊藤仁斋",
+          "en": "Itō Jinsai",
+          "life": "1627—1705",
+          "tier": 2,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "kaibara-ekken",
+          "zh": "贝原益轩",
+          "en": "Kaibara Ekken",
+          "life": "1630—1714",
+          "tier": 3,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "yamaga-soko",
+          "zh": "山鹿素行",
+          "en": "Yamaga Sokō",
+          "life": "1622—1685",
+          "tier": 3,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "arai-hakuseki",
+          "zh": "新井白石",
+          "en": "Arai Hakuseki",
+          "life": "1657—1725",
+          "tier": 3,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "ogyu-sorai",
+          "zh": "荻生徂徕",
+          "en": "Ogyū Sorai",
+          "life": "1666—1728",
+          "tier": 1,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "motoori-norinaga",
+          "zh": "本居宣长",
+          "en": "Motoori Norinaga",
+          "life": "1730—1801",
+          "tier": 1,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "ninomiya-sontoku",
+          "zh": "二宫尊德",
+          "en": "Ninomiya Sontoku",
+          "life": "1787—1856",
+          "tier": 3,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "fukuzawa-yukichi",
+          "zh": "福泽谕吉",
+          "en": "Fukuzawa Yukichi",
+          "life": "1835—1901",
+          "tier": 1,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "nakae-chomin",
+          "zh": "中江兆民",
+          "en": "Nakae Chōmin",
+          "life": "1847—1901",
+          "tier": 2,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "hakuin",
+          "zh": "白隐",
+          "en": "Hakuin Ekaku",
+          "life": "1686—1769",
+          "tier": 3,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "tanabe-hajime",
+          "zh": "田边元",
+          "en": "Tanabe Hajime",
+          "life": "1885—1962",
+          "tier": 1,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "kuki-shuzo",
+          "zh": "九鬼周造",
+          "en": "Kuki Shūzō",
+          "life": "1888—1941",
+          "tier": 2,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "nishitani-keiji",
+          "zh": "西谷启治",
+          "en": "Nishitani Keiji",
+          "life": "1900—1990",
+          "tier": 1,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "miki-kiyoshi",
+          "zh": "三木清",
+          "en": "Miki Kiyoshi",
+          "life": "1897—1945",
+          "tier": 2,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "maruyama-masao",
+          "zh": "丸山真男",
+          "en": "Maruyama Masao",
+          "life": "1914—1996",
+          "tier": 2,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "yuasa-yasuo",
+          "zh": "汤浅泰雄",
+          "en": "Yuasa Yasuo",
+          "life": "1925—2005",
+          "tier": 3,
+          "status": "needs_verification",
+          "source": "nominated"
+        }
+      ]
+    },
+    {
+      "civilization": "korean",
+      "civilizationZh": "朝鲜／韩国",
+      "target": 30,
+      "nominatedCount": 16,
+      "gap": 14,
+      "nominated": [
+        {
+          "id": "toegye",
+          "zh": "退溪李滉",
+          "en": "Yi Hwang",
+          "life": "",
+          "tier": 1,
+          "status": "in_dataset",
+          "source": "existing"
+        },
+        {
+          "id": "yulgok",
+          "zh": "栗谷李珥",
+          "en": "Yi I",
+          "life": "",
+          "tier": 1,
+          "status": "in_dataset",
+          "source": "existing"
+        },
+        {
+          "id": "wonhyo",
+          "zh": "元晓",
+          "en": "Wonhyo",
+          "life": "617—686",
+          "tier": 1,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "uisang",
+          "zh": "义湘",
+          "en": "Uisang",
+          "life": "625—702",
+          "tier": 2,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "jinul",
+          "zh": "知讷",
+          "en": "Jinul",
+          "life": "1158—1210",
+          "tier": 2,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "yi-saek",
+          "zh": "李穑",
+          "en": "Yi Saek",
+          "life": "1328—1396",
+          "tier": 3,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "jeong-dojeon",
+          "zh": "郑道传",
+          "en": "Jeong Dojeon",
+          "life": "1342—1398",
+          "tier": 1,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "gwon-geun",
+          "zh": "权近",
+          "en": "Gwon Geun",
+          "life": "1352—1409",
+          "tier": 3,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "seo-gyeongdeok",
+          "zh": "徐敬德",
+          "en": "Seo Gyeongdeok",
+          "life": "1489—1546",
+          "tier": 3,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "jo-gwangjo",
+          "zh": "赵光祖",
+          "en": "Jo Gwangjo",
+          "life": "1482—1519",
+          "tier": 3,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "gi-daeseung",
+          "zh": "奇大升",
+          "en": "Gi Daeseung",
+          "life": "1527—1572",
+          "tier": 3,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "jeong-yagyong",
+          "zh": "丁若镛（茶山）",
+          "en": "Jeong Yak-yong",
+          "life": "1762—1836",
+          "tier": 1,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "choe-jeu",
+          "zh": "崔济愚",
+          "en": "Choe Je-u",
+          "life": "1824—1864",
+          "tier": 2,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "hong-daeyong",
+          "zh": "洪大容",
+          "en": "Hong Dae-yong",
+          "life": "1731—1783",
+          "tier": 3,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "pak-jiwon",
+          "zh": "朴趾源",
+          "en": "Pak Ji-won",
+          "life": "1737—1805",
+          "tier": 3,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "sin-chaeho",
+          "zh": "申采浩",
+          "en": "Sin Chae-ho",
+          "life": "1880—1936",
+          "tier": 3,
+          "status": "needs_verification",
+          "source": "nominated"
+        }
+      ]
+    },
+    {
+      "civilization": "islamic",
+      "civilizationZh": "伊斯兰",
+      "target": 80,
+      "nominatedCount": 31,
+      "gap": 49,
+      "nominated": [
+        {
+          "id": "al-farabi",
+          "zh": "法拉比",
+          "en": "Al-Farabi",
+          "life": "",
+          "tier": 1,
+          "status": "in_dataset",
+          "source": "existing"
+        },
+        {
+          "id": "al-ghazali",
+          "zh": "安萨里",
+          "en": "Al-Ghazali",
+          "life": "",
+          "tier": 1,
+          "status": "in_dataset",
+          "source": "existing"
+        },
+        {
+          "id": "ibn-khaldun",
+          "zh": "伊本·赫勒敦",
+          "en": "Ibn Khaldun",
+          "life": "",
+          "tier": 1,
+          "status": "in_dataset",
+          "source": "existing"
+        },
+        {
+          "id": "ibn-rushd",
+          "zh": "伊本·鲁世德",
+          "en": "Ibn Rushd",
+          "life": "",
+          "tier": 1,
+          "status": "in_dataset",
+          "source": "existing"
+        },
+        {
+          "id": "ibn-sina",
+          "zh": "伊本·西那",
+          "en": "Ibn Sina",
+          "life": "",
+          "tier": 1,
+          "status": "in_dataset",
+          "source": "existing"
+        },
+        {
+          "id": "mulla-sadra",
+          "zh": "穆拉·萨德拉",
+          "en": "Mulla Sadra",
+          "life": "",
+          "tier": 1,
+          "status": "in_dataset",
+          "source": "existing"
+        },
+        {
+          "id": "al-kindi",
+          "zh": "肯迪",
+          "en": "Al-Kindi",
+          "life": "约801—873",
+          "tier": 1,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "al-razi-rhazes",
+          "zh": "拉齐",
+          "en": "Al-Razi (Rhazes)",
+          "life": "约854—925",
+          "tier": 1,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "al-ashari",
+          "zh": "艾什尔里",
+          "en": "Al-Ash'ari",
+          "life": "约874—936",
+          "tier": 1,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "al-maturidi",
+          "zh": "马图里迪",
+          "en": "Al-Maturidi",
+          "life": "约853—944",
+          "tier": 3,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "al-biruni",
+          "zh": "比鲁尼",
+          "en": "Al-Biruni",
+          "life": "973—1048",
+          "tier": 1,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "miskawayh",
+          "zh": "米斯卡瓦伊",
+          "en": "Miskawayh",
+          "life": "约932—1030",
+          "tier": 3,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "al-juwayni",
+          "zh": "朱韦尼",
+          "en": "Al-Juwayni",
+          "life": "1028—1085",
+          "tier": 3,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "ibn-bajja",
+          "zh": "伊本·巴哲",
+          "en": "Ibn Bajja",
+          "life": "约1085—1138",
+          "tier": 2,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "ibn-tufayl",
+          "zh": "伊本·图斐利",
+          "en": "Ibn Tufayl",
+          "life": "约1105—1185",
+          "tier": 2,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "suhrawardi",
+          "zh": "苏哈拉瓦迪",
+          "en": "Suhrawardi",
+          "life": "1154—1191",
+          "tier": 1,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "ibn-arabi",
+          "zh": "伊本·阿拉比",
+          "en": "Ibn Arabi",
+          "life": "1165—1240",
+          "tier": 1,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "fakhr-din-razi",
+          "zh": "法赫尔丁·拉齐",
+          "en": "Fakhr al-Din al-Razi",
+          "life": "1149—1209",
+          "tier": 2,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "rumi",
+          "zh": "鲁米",
+          "en": "Jalal al-Din Rumi",
+          "life": "1207—1273",
+          "tier": 1,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "nasir-din-tusi",
+          "zh": "纳西尔丁·图西",
+          "en": "Nasir al-Din al-Tusi",
+          "life": "1201—1274",
+          "tier": 1,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "ibn-taymiyya",
+          "zh": "伊本·泰米叶",
+          "en": "Ibn Taymiyya",
+          "life": "1263—1328",
+          "tier": 1,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "shah-waliullah",
+          "zh": "沙·瓦利乌拉",
+          "en": "Shah Waliullah",
+          "life": "1703—1762",
+          "tier": 3,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "al-afghani",
+          "zh": "阿富汗尼",
+          "en": "Jamal al-Din al-Afghani",
+          "life": "1838—1897",
+          "tier": 1,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "muhammad-abduh",
+          "zh": "穆罕默德·阿卜杜",
+          "en": "Muhammad Abduh",
+          "life": "1849—1905",
+          "tier": 1,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "iqbal",
+          "zh": "伊克巴尔",
+          "en": "Muhammad Iqbal",
+          "life": "1877—1938",
+          "tier": 1,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "sayyid-qutb",
+          "zh": "赛义德·库特卜",
+          "en": "Sayyid Qutb",
+          "life": "1906—1966",
+          "tier": 2,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "fazlur-rahman",
+          "zh": "法兹勒·拉赫曼",
+          "en": "Fazlur Rahman",
+          "life": "1919—1988",
+          "tier": 2,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "ali-shariati",
+          "zh": "阿里·沙里亚蒂",
+          "en": "Ali Shariati",
+          "life": "1933—1977",
+          "tier": 2,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "seyyed-hossein-nasr",
+          "zh": "纳斯尔",
+          "en": "Seyyed Hossein Nasr",
+          "life": "1933—",
+          "tier": 2,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "mohammed-arkoun",
+          "zh": "阿尔孔",
+          "en": "Mohammed Arkoun",
+          "life": "1928—2010",
+          "tier": 3,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "mohammed-abed-jabri",
+          "zh": "贾比里",
+          "en": "Mohammed Abed al-Jabri",
+          "life": "1935—2010",
+          "tier": 2,
+          "status": "needs_verification",
+          "source": "nominated"
+        }
+      ]
+    },
+    {
+      "civilization": "jewish",
+      "civilizationZh": "犹太",
+      "target": 40,
+      "nominatedCount": 22,
+      "gap": 18,
+      "nominated": [
+        {
+          "id": "buber",
+          "zh": "布伯",
+          "en": "Martin Buber",
+          "life": "",
+          "tier": 1,
+          "status": "in_dataset",
+          "source": "existing"
+        },
+        {
+          "id": "levinas",
+          "zh": "列维纳斯",
+          "en": "Emmanuel Levinas",
+          "life": "",
+          "tier": 1,
+          "status": "in_dataset",
+          "source": "existing"
+        },
+        {
+          "id": "maimonides",
+          "zh": "迈蒙尼德",
+          "en": "Maimonides",
+          "life": "",
+          "tier": 1,
+          "status": "in_dataset",
+          "source": "existing"
+        },
+        {
+          "id": "saadia-gaon",
+          "zh": "萨阿迪亚·高昂",
+          "en": "Saadia Gaon",
+          "life": "",
+          "tier": 1,
+          "status": "in_dataset",
+          "source": "existing"
+        },
+        {
+          "id": "philo",
+          "zh": "斐洛",
+          "en": "Philo of Alexandria",
+          "life": "约前20—50",
+          "tier": 1,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "isaac-israeli",
+          "zh": "伊萨克·伊斯雷利",
+          "en": "Isaac Israeli",
+          "life": "约832—932",
+          "tier": 3,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "ibn-gabirol",
+          "zh": "伊本·盖比鲁勒",
+          "en": "Solomon ibn Gabirol",
+          "life": "约1021—1058",
+          "tier": 2,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "bahya-ibn-paquda",
+          "zh": "巴希亚",
+          "en": "Bahya ibn Paquda",
+          "life": "约11世纪",
+          "tier": 3,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "judah-halevi",
+          "zh": "犹大·哈列维",
+          "en": "Judah Halevi",
+          "life": "约1075—1141",
+          "tier": 2,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "gersonides",
+          "zh": "革尔松尼",
+          "en": "Gersonides",
+          "life": "1288—1344",
+          "tier": 2,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "hasdai-crescas",
+          "zh": "克列斯卡斯",
+          "en": "Hasdai Crescas",
+          "life": "约1340—1410",
+          "tier": 2,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "isaac-abravanel",
+          "zh": "阿布拉瓦内尔",
+          "en": "Isaac Abravanel",
+          "life": "1437—1508",
+          "tier": 3,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "moses-mendelssohn",
+          "zh": "门德尔松",
+          "en": "Moses Mendelssohn",
+          "life": "1729—1786",
+          "tier": 1,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "nachman-krochmal",
+          "zh": "克罗赫马尔",
+          "en": "Nachman Krochmal",
+          "life": "1785—1840",
+          "tier": 3,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "hermann-cohen",
+          "zh": "赫尔曼·柯亨",
+          "en": "Hermann Cohen",
+          "life": "1842—1918",
+          "tier": 1,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "franz-rosenzweig",
+          "zh": "罗森茨维格",
+          "en": "Franz Rosenzweig",
+          "life": "1886—1929",
+          "tier": 1,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "leo-strauss",
+          "zh": "施特劳斯",
+          "en": "Leo Strauss",
+          "life": "1899—1973",
+          "tier": 1,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "hans-jonas",
+          "zh": "汉斯·约纳斯",
+          "en": "Hans Jonas",
+          "life": "1903—1993",
+          "tier": 1,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "heschel",
+          "zh": "赫舍尔",
+          "en": "Abraham Joshua Heschel",
+          "life": "1907—1972",
+          "tier": 2,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "gershom-scholem",
+          "zh": "朔勒姆",
+          "en": "Gershom Scholem",
+          "life": "1897—1982",
+          "tier": 2,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "soloveitchik",
+          "zh": "索洛维奇克",
+          "en": "Joseph B. Soloveitchik",
+          "life": "1903—1993",
+          "tier": 3,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "emil-fackenheim",
+          "zh": "法肯海姆",
+          "en": "Emil Fackenheim",
+          "life": "1916—2003",
+          "tier": 3,
+          "status": "needs_verification",
+          "source": "nominated"
+        }
+      ]
+    },
+    {
+      "civilization": "african",
+      "civilizationZh": "非洲",
+      "target": 40,
+      "nominatedCount": 23,
+      "gap": 17,
+      "nominated": [
+        {
+          "id": "amo",
+          "zh": "安东·威廉·阿莫",
+          "en": "Anton Wilhelm Amo",
+          "life": "",
+          "tier": 1,
+          "status": "in_dataset",
+          "source": "existing"
+        },
+        {
+          "id": "hountondji",
+          "zh": "洪通吉",
+          "en": "Paulin Hountondji",
+          "life": "",
+          "tier": 1,
+          "status": "in_dataset",
+          "source": "existing"
+        },
+        {
+          "id": "senghor",
+          "zh": "桑戈尔",
+          "en": "Leopold Sedar Senghor",
+          "life": "",
+          "tier": 1,
+          "status": "in_dataset",
+          "source": "existing"
+        },
+        {
+          "id": "wiredu",
+          "zh": "夸西·维雷杜",
+          "en": "Kwasi Wiredu",
+          "life": "",
+          "tier": 1,
+          "status": "in_dataset",
+          "source": "existing"
+        },
+        {
+          "id": "ptahhotep",
+          "zh": "普塔霍特普",
+          "en": "Ptahhotep",
+          "life": "约前24世纪",
+          "tier": 3,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "tertullian",
+          "zh": "德尔图良",
+          "en": "Tertullian",
+          "life": "约155—220",
+          "tier": 2,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "origen",
+          "zh": "奥利金",
+          "en": "Origen",
+          "life": "约185—253",
+          "tier": 1,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "zera-yacob",
+          "zh": "泽拉·雅各布",
+          "en": "Zera Yacob",
+          "life": "1599—1692",
+          "tier": 1,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "walda-heywat",
+          "zh": "瓦尔达·黑沃特",
+          "en": "Walda Heywat",
+          "life": "约17世纪",
+          "tier": 3,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "edward-blyden",
+          "zh": "布莱登",
+          "en": "Edward Wilmot Blyden",
+          "life": "1832—1912",
+          "tier": 2,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "nkrumah",
+          "zh": "恩克鲁玛",
+          "en": "Kwame Nkrumah",
+          "life": "1909—1972",
+          "tier": 1,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "nyerere",
+          "zh": "尼雷尔",
+          "en": "Julius Nyerere",
+          "life": "1922—1999",
+          "tier": 2,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "cesaire",
+          "zh": "塞泽尔",
+          "en": "Aimé Césaire",
+          "life": "1913—2008",
+          "tier": 1,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "fanon",
+          "zh": "法农",
+          "en": "Frantz Fanon",
+          "life": "1925—1961",
+          "tier": 1,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "cabral",
+          "zh": "卡布拉尔",
+          "en": "Amílcar Cabral",
+          "life": "1924—1973",
+          "tier": 2,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "steve-biko",
+          "zh": "史蒂夫·比科",
+          "en": "Steve Biko",
+          "life": "1946—1977",
+          "tier": 2,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "odera-oruka",
+          "zh": "奥德拉·奥鲁卡",
+          "en": "Henry Odera Oruka",
+          "life": "1944—1995",
+          "tier": 2,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "mbembe",
+          "zh": "姆贝姆贝",
+          "en": "Achille Mbembe",
+          "life": "1957—",
+          "tier": 1,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "mudimbe",
+          "zh": "穆迪姆贝",
+          "en": "V. Y. Mudimbe",
+          "life": "1941—",
+          "tier": 2,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "gyekye",
+          "zh": "吉耶凯",
+          "en": "Kwame Gyekye",
+          "life": "1939—2019",
+          "tier": 2,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "appiah",
+          "zh": "阿皮亚",
+          "en": "Kwame Anthony Appiah",
+          "life": "1954—",
+          "tier": 1,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "oyewumi",
+          "zh": "奥耶武米",
+          "en": "Oyèrónkẹ́ Oyěwùmí",
+          "life": "1957—",
+          "tier": 3,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "towa",
+          "zh": "马尔西安·托瓦",
+          "en": "Marcien Towa",
+          "life": "1931—2014",
+          "tier": 3,
+          "status": "needs_verification",
+          "source": "nominated"
+        }
+      ]
+    },
+    {
+      "civilization": "latin_american",
+      "civilizationZh": "拉丁美洲",
+      "target": 40,
+      "nominatedCount": 21,
+      "gap": 19,
+      "nominated": [
+        {
+          "id": "dussel",
+          "zh": "杜塞尔",
+          "en": "Enrique Dussel",
+          "life": "",
+          "tier": 1,
+          "status": "in_dataset",
+          "source": "existing"
+        },
+        {
+          "id": "sor-juana",
+          "zh": "胡安娜修女",
+          "en": "Sor Juana Ines de la Cruz",
+          "life": "",
+          "tier": 1,
+          "status": "in_dataset",
+          "source": "existing"
+        },
+        {
+          "id": "zelea",
+          "zh": "塞亚",
+          "en": "Leopoldo Zea",
+          "life": "",
+          "tier": 1,
+          "status": "in_dataset",
+          "source": "existing"
+        },
+        {
+          "id": "las-casas",
+          "zh": "拉斯·卡萨斯",
+          "en": "Bartolomé de las Casas",
+          "life": "1484—1566",
+          "tier": 1,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "andres-bello",
+          "zh": "安德烈斯·贝略",
+          "en": "Andrés Bello",
+          "life": "1781—1865",
+          "tier": 3,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "alberdi",
+          "zh": "阿尔贝迪",
+          "en": "Juan Bautista Alberdi",
+          "life": "1810—1884",
+          "tier": 3,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "sarmiento",
+          "zh": "萨米恩托",
+          "en": "Domingo F. Sarmiento",
+          "life": "1811—1888",
+          "tier": 3,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "jose-marti",
+          "zh": "何塞·马蒂",
+          "en": "José Martí",
+          "life": "1853—1895",
+          "tier": 1,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "rodo",
+          "zh": "罗多",
+          "en": "José Enrique Rodó",
+          "life": "1871—1917",
+          "tier": 2,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "vasconcelos",
+          "zh": "巴斯孔塞洛斯",
+          "en": "José Vasconcelos",
+          "life": "1882—1959",
+          "tier": 1,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "antonio-caso",
+          "zh": "安东尼奥·卡索",
+          "en": "Antonio Caso",
+          "life": "1883—1946",
+          "tier": 3,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "alejandro-korn",
+          "zh": "科恩",
+          "en": "Alejandro Korn",
+          "life": "1860—1936",
+          "tier": 3,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "mariategui",
+          "zh": "马里亚特吉",
+          "en": "José Carlos Mariátegui",
+          "life": "1894—1930",
+          "tier": 1,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "samuel-ramos",
+          "zh": "萨穆埃尔·拉莫斯",
+          "en": "Samuel Ramos",
+          "life": "1897—1959",
+          "tier": 3,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "octavio-paz",
+          "zh": "奥克塔维奥·帕斯",
+          "en": "Octavio Paz",
+          "life": "1914—1998",
+          "tier": 2,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "salazar-bondy",
+          "zh": "萨拉萨尔·邦迪",
+          "en": "Augusto Salazar Bondy",
+          "life": "1925—1974",
+          "tier": 2,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "paulo-freire",
+          "zh": "保罗·弗莱雷",
+          "en": "Paulo Freire",
+          "life": "1921—1997",
+          "tier": 1,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "gutierrez",
+          "zh": "古铁雷斯",
+          "en": "Gustavo Gutiérrez",
+          "life": "1928—2024",
+          "tier": 1,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "quijano",
+          "zh": "基哈诺",
+          "en": "Aníbal Quijano",
+          "life": "1928—2018",
+          "tier": 1,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "maria-lugones",
+          "zh": "卢戈内斯",
+          "en": "María Lugones",
+          "life": "1944—2020",
+          "tier": 2,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "mignolo",
+          "zh": "米尼奥洛",
+          "en": "Walter Mignolo",
+          "life": "1941—",
+          "tier": 1,
+          "status": "needs_verification",
+          "source": "nominated"
+        }
+      ]
+    },
+    {
+      "civilization": "global_modern",
+      "civilizationZh": "全球现代／跨域当代",
+      "target": 110,
+      "nominatedCount": 41,
+      "gap": 69,
+      "nominated": [
+        {
+          "id": "butler",
+          "zh": "巴特勒",
+          "en": "Judith Butler",
+          "life": "",
+          "tier": 1,
+          "status": "in_dataset",
+          "source": "existing"
+        },
+        {
+          "id": "hooks",
+          "zh": "贝尔·胡克斯",
+          "en": "bell hooks",
+          "life": "",
+          "tier": 1,
+          "status": "in_dataset",
+          "source": "existing"
+        },
+        {
+          "id": "nussbaum",
+          "zh": "努斯鲍姆",
+          "en": "Martha Nussbaum",
+          "life": "",
+          "tier": 1,
+          "status": "in_dataset",
+          "source": "existing"
+        },
+        {
+          "id": "plumwood",
+          "zh": "普拉姆伍德",
+          "en": "Val Plumwood",
+          "life": "",
+          "tier": 1,
+          "status": "in_dataset",
+          "source": "existing"
+        },
+        {
+          "id": "singer",
+          "zh": "彼得·辛格",
+          "en": "Peter Singer",
+          "life": "",
+          "tier": 1,
+          "status": "in_dataset",
+          "source": "existing"
+        },
+        {
+          "id": "amartya-sen",
+          "zh": "阿马蒂亚·森",
+          "en": "Amartya Sen",
+          "life": "1933—",
+          "tier": 1,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "charles-taylor",
+          "zh": "查尔斯·泰勒",
+          "en": "Charles Taylor",
+          "life": "1931—",
+          "tier": 1,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "michael-walzer",
+          "zh": "沃尔泽",
+          "en": "Michael Walzer",
+          "life": "1935—",
+          "tier": 1,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "michael-sandel",
+          "zh": "桑德尔",
+          "en": "Michael Sandel",
+          "life": "1953—",
+          "tier": 1,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "will-kymlicka",
+          "zh": "金里卡",
+          "en": "Will Kymlicka",
+          "life": "1962—",
+          "tier": 2,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "parfit",
+          "zh": "帕菲特",
+          "en": "Derek Parfit",
+          "life": "1942—2017",
+          "tier": 1,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "philippa-foot",
+          "zh": "菲利帕·富特",
+          "en": "Philippa Foot",
+          "life": "1920—2010",
+          "tier": 1,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "bernard-williams",
+          "zh": "伯纳德·威廉斯",
+          "en": "Bernard Williams",
+          "life": "1929—2003",
+          "tier": 1,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "ga-cohen",
+          "zh": "G. A. 柯亨",
+          "en": "G. A. Cohen",
+          "life": "1941—2009",
+          "tier": 1,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "scanlon",
+          "zh": "斯坎伦",
+          "en": "T. M. Scanlon",
+          "life": "1940—",
+          "tier": 1,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "onora-oneill",
+          "zh": "奥诺拉·奥尼尔",
+          "en": "Onora O'Neill",
+          "life": "1941—",
+          "tier": 2,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "brandom",
+          "zh": "布兰顿",
+          "en": "Robert Brandom",
+          "life": "1950—",
+          "tier": 1,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "mcdowell",
+          "zh": "麦克道尔",
+          "en": "John McDowell",
+          "life": "1942—",
+          "tier": 1,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "chalmers",
+          "zh": "查尔默斯",
+          "en": "David Chalmers",
+          "life": "1966—",
+          "tier": 1,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "timothy-williamson",
+          "zh": "威廉森",
+          "en": "Timothy Williamson",
+          "life": "1955—",
+          "tier": 1,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "ernest-sosa",
+          "zh": "索萨",
+          "en": "Ernest Sosa",
+          "life": "1940—",
+          "tier": 2,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "plantinga",
+          "zh": "普兰丁格",
+          "en": "Alvin Plantinga",
+          "life": "1932—",
+          "tier": 1,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "swinburne",
+          "zh": "斯温伯恩",
+          "en": "Richard Swinburne",
+          "life": "1934—",
+          "tier": 2,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "nancy-fraser",
+          "zh": "南希·弗雷泽",
+          "en": "Nancy Fraser",
+          "life": "1947—",
+          "tier": 1,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "seyla-benhabib",
+          "zh": "本哈比卜",
+          "en": "Seyla Benhabib",
+          "life": "1950—",
+          "tier": 2,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "iris-marion-young",
+          "zh": "艾里斯·杨",
+          "en": "Iris Marion Young",
+          "life": "1949—2006",
+          "tier": 1,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "catharine-mackinnon",
+          "zh": "麦金农",
+          "en": "Catharine MacKinnon",
+          "life": "1946—",
+          "tier": 2,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "sandra-harding",
+          "zh": "桑德拉·哈丁",
+          "en": "Sandra Harding",
+          "life": "1935—",
+          "tier": 2,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "carol-gilligan",
+          "zh": "吉利根",
+          "en": "Carol Gilligan",
+          "life": "1936—",
+          "tier": 2,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "donna-haraway",
+          "zh": "哈拉维",
+          "en": "Donna Haraway",
+          "life": "1944—",
+          "tier": 1,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "bruno-latour",
+          "zh": "布鲁诺·拉图尔",
+          "en": "Bruno Latour",
+          "life": "1947—2022",
+          "tier": 1,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "gayatri-spivak",
+          "zh": "斯皮瓦克",
+          "en": "Gayatri Spivak",
+          "life": "1942—",
+          "tier": 1,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "homi-bhabha",
+          "zh": "霍米·巴巴",
+          "en": "Homi Bhabha",
+          "life": "1949—",
+          "tier": 2,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "edward-said",
+          "zh": "萨义德",
+          "en": "Edward Said",
+          "life": "1935—2003",
+          "tier": 1,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "stuart-hall",
+          "zh": "斯图亚特·霍尔",
+          "en": "Stuart Hall",
+          "life": "1932—2014",
+          "tier": 1,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "cornel-west",
+          "zh": "康奈尔·韦斯特",
+          "en": "Cornel West",
+          "life": "1953—",
+          "tier": 2,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "thomas-pogge",
+          "zh": "波格",
+          "en": "Thomas Pogge",
+          "life": "1953—",
+          "tier": 3,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "agnes-heller",
+          "zh": "阿格尼丝·赫勒",
+          "en": "Ágnes Heller",
+          "life": "1929—2019",
+          "tier": 2,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "byung-chul-han",
+          "zh": "韩炳哲",
+          "en": "Byung-Chul Han",
+          "life": "1959—",
+          "tier": 2,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "kojin-karatani",
+          "zh": "柄谷行人",
+          "en": "Kōjin Karatani",
+          "life": "1941—",
+          "tier": 2,
+          "status": "needs_verification",
+          "source": "nominated"
+        },
+        {
+          "id": "mark-fisher",
+          "zh": "马克·费舍",
+          "en": "Mark Fisher",
+          "life": "1968—2017",
+          "tier": 3,
+          "status": "needs_verification",
+          "source": "nominated"
+        }
+      ]
+    }
+  ]
+}

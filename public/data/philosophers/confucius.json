@@ -68,8 +68,9 @@
                 "summaryZh": "《论语》多处以爱人、克己复礼、忠恕等方式解释仁的实践面向。",
                 "source": {
                   "workId": "confucius-primary-work",
-                  "locator": "仁相关章句",
-                  "excerptStatus": "summary_only"
+                  "locator": "《论语·颜渊》：樊迟问仁章",
+                  "publicDomainExcerptZh": "樊迟问仁。子曰：爱人。",
+                  "excerptStatus": "public_domain"
                 }
               }
             ]
@@ -91,8 +92,9 @@
                 "summaryZh": "相关章句把忠恕呈现为贯通孔子伦理实践的重要线索。",
                 "source": {
                   "workId": "confucius-primary-work",
-                  "locator": "忠恕相关章句",
-                  "excerptStatus": "summary_only"
+                  "locator": "《论语·里仁》：曾子曰夫子之道章",
+                  "publicDomainExcerptZh": "夫子之道，忠恕而已矣。",
+                  "excerptStatus": "public_domain"
                 }
               }
             ]
@@ -127,8 +129,9 @@
                 "summaryZh": "《论语》多次把礼与仁、敬、政治教化放在一起讨论。",
                 "source": {
                   "workId": "confucius-primary-work",
-                  "locator": "礼相关章句",
-                  "excerptStatus": "summary_only"
+                  "locator": "《论语·颜渊》：颜渊问仁章",
+                  "publicDomainExcerptZh": "克己复礼为仁。一日克己复礼，天下归仁焉。",
+                  "excerptStatus": "public_domain"
                 }
               }
             ]
@@ -150,8 +153,9 @@
                 "summaryZh": "正名相关章句显示孔子把语言秩序视为政治治理的基础条件之一。",
                 "source": {
                   "workId": "confucius-primary-work",
-                  "locator": "正名相关章句",
-                  "excerptStatus": "summary_only"
+                  "locator": "《论语·子路》：子路问正名章",
+                  "publicDomainExcerptZh": "名不正，则言不顺；言不顺，则事不成。",
+                  "excerptStatus": "public_domain"
                 }
               }
             ]
@@ -186,8 +190,33 @@
                 "summaryZh": "《论语》以学、思、习、问等词构成持续修养的实践场景。",
                 "source": {
                   "workId": "confucius-primary-work",
-                  "locator": "学思相关章句",
-                  "excerptStatus": "summary_only"
+                  "locator": "《论语·为政》：学而不思则罔章",
+                  "publicDomainExcerptZh": "学而不思则罔，思而不学则殆。",
+                  "excerptStatus": "public_domain"
+                }
+              }
+            ]
+          },
+          {
+            "id": "confucius-self-examination",
+            "titleZh": "君子以反省改过成德",
+            "claimZh": "君子之所以能承担公共责任，在于持续反省自身言行并主动改过。",
+            "explanationZh": "孔子把德性人格理解为长期自我检查和修正的结果；这种反省不是私人内省而已，也关乎与朋友、师长和公共事务的可信关系。",
+            "themeIds": [
+              "ethics",
+              "knowledge"
+            ],
+            "weight": 1,
+            "evidence": [
+              {
+                "id": "confucius-self-examination-analects",
+                "titleZh": "曾子三省吾身",
+                "summaryZh": "《论语》以曾子每日反省为例，说明忠、信、传习等实践是君子修身的日常工夫。",
+                "source": {
+                  "workId": "confucius-primary-work",
+                  "locator": "《论语·学而》：曾子三省吾身章",
+                  "publicDomainExcerptZh": "吾日三省吾身：为人谋而不忠乎？与朋友交而不信乎？传不习乎？",
+                  "excerptStatus": "public_domain"
                 }
               }
             ]
@@ -222,8 +251,33 @@
                 "summaryZh": "为政相关章句把治理者的德性、礼和民众的羞耻感联系起来。",
                 "source": {
                   "workId": "confucius-primary-work",
-                  "locator": "为政相关章句",
-                  "excerptStatus": "summary_only"
+                  "locator": "《论语·为政》：道之以政章",
+                  "publicDomainExcerptZh": "道之以政，齐之以刑，民免而无耻；道之以德，齐之以礼，有耻且格。",
+                  "excerptStatus": "public_domain"
+                }
+              }
+            ]
+          },
+          {
+            "id": "confucius-polaris-rule",
+            "titleZh": "君德具有凝聚秩序的中心作用",
+            "claimZh": "孔子认为治理者的德性像北辰一样形成政治共同体的中心，使众人自愿归向。",
+            "explanationZh": "这一主张进一步说明德治不是单纯的道德劝说，而是政治秩序的组织原则：治理者先稳定自身德性，才可能使礼乐教化具有方向。",
+            "themeIds": [
+              "politics",
+              "ethics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "confucius-polaris-analects",
+                "titleZh": "为政以德譬如北辰",
+                "summaryZh": "《论语·为政》以北辰为喻，说明君德的中心性和感召力是政治秩序得以形成的重要条件。",
+                "source": {
+                  "workId": "confucius-primary-work",
+                  "locator": "《论语·为政》：为政以德章",
+                  "publicDomainExcerptZh": "为政以德，譬如北辰，居其所而众星共之。",
+                  "excerptStatus": "public_domain"
                 }
               }
             ]

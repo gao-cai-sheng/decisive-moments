@@ -723,5 +723,33 @@
     "titleZh": "贝尔·胡克斯代表文本",
     "titleEn": "bell hooks primary text",
     "noteZh": "第一版用于展示的种子文本，审核时替换为具体作品。"
+  },
+  {
+    "id": "cleanthes-primary-work",
+    "philosopherId": "cleanthes",
+    "titleZh": "克里安忒斯代表文本与残篇材料",
+    "titleEn": "Cleanthes primary dossier",
+    "noteZh": "本轮 thoughtSystem 使用的代表性古代材料、残篇、传记见证和现代研究定位；证据均为 summary_only。"
+  },
+  {
+    "id": "chrysippus-primary-work",
+    "philosopherId": "chrysippus",
+    "titleZh": "克律西波斯代表文本与残篇材料",
+    "titleEn": "Chrysippus primary dossier",
+    "noteZh": "本轮 thoughtSystem 使用的代表性古代材料、残篇、传记见证和现代研究定位；证据均为 summary_only。"
+  },
+  {
+    "id": "diogenes-sinope-primary-work",
+    "philosopherId": "diogenes-sinope",
+    "titleZh": "第欧根尼代表文本与残篇材料",
+    "titleEn": "Diogenes of Sinope primary dossier",
+    "noteZh": "本轮 thoughtSystem 使用的代表性古代材料、残篇、传记见证和现代研究定位；证据均为 summary_only。"
+  },
+  {
+    "id": "antisthenes-primary-work",
+    "philosopherId": "antisthenes",
+    "titleZh": "安提斯泰尼代表文本与残篇材料",
+    "titleEn": "Antisthenes primary dossier",
+    "noteZh": "本轮 thoughtSystem 使用的代表性古代材料、残篇、传记见证和现代研究定位；证据均为 summary_only。"
   }
 ]

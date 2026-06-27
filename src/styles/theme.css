@@ -302,6 +302,17 @@ button {
   gap: 6px 10px;
 }
 
+.thought-excerpt {
+  margin: 6px 0;
+  padding: 6px 10px;
+  border-left: 2px solid var(--gold-soft);
+  background: rgba(255, 255, 255, 0.03);
+  border-radius: 0 6px 6px 0;
+  font-style: italic;
+  line-height: 1.6;
+  color: rgba(255, 255, 255, 0.82);
+}
+
 .thought-orbit-label {
   color: var(--gold-soft);
   font-size: 10px;

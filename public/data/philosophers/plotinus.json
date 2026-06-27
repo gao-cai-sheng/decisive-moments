@@ -1,42 +1,51 @@
 {
   "id": "plotinus",
-  "names": {
-    "zh": "普罗提诺",
-    "en": "Plotinus"
-  },
-  "life": {
-    "display": "204—270",
-    "birth": 204,
-    "death": 270
-  },
+  "names": {"zh": "普罗提诺", "en": "Plotinus"},
+  "life": {"birth": 204, "death": 270, "display": "204—270"},
   "civilization": "ancient_greek",
-  "traditions": [
-    "ancient_greek_philosophy"
-  ],
-  "periods": [
-    "first_release"
-  ],
-  "themes": [
-    "ethics",
-    "metaphysics",
-    "knowledge"
-  ],
-  "keywordsZh": [
-    "伦理",
-    "形而上学",
-    "知识"
-  ],
-  "oneLineZh": "普罗提诺是伦理、形而上学问题谱系中的第一版候选哲人。",
+  "traditions": ["neoplatonism", "ancient_greek_philosophy"],
+  "periods": ["first_release"],
+  "themes": ["metaphysics", "ethics", "knowledge"],
+  "keywordsZh": ["形而上学", "伦理", "知识"],
+  "oneLineZh": "新柏拉图主义奠基者，以太一、努斯和灵魂的流溢结构重建古代形而上学。",
   "influenceWeight": 1,
   "reviewStatus": "draft",
-  "summaryZh": "普罗提诺是伦理、形而上学问题谱系中的第一版候选哲人。 本条目是第一版结构化资料，已经保留文明、传统、主题、作品和论述字段，正式发布前需要继续核对年代、文本出处和概念表述。",
-  "works": [
-    "plotinus-primary-work"
-  ],
+  "summaryZh": "新柏拉图主义奠基者，以太一、努斯和灵魂的流溢结构重建古代形而上学。本条目以 summary_only 方式整理，重点保留低争议的问题结构、主张和可追溯证据定位。",
+  "works": ["plotinus-primary-work"],
   "sourceNotes": [
-    {
-      "label": "draft",
-      "noteZh": "条目需要人工核对作品、年代和概念表述。"
-    }
-  ]
+    {"label": "primary-dossier", "noteZh": "本轮采用《九章集》、波菲利《普罗提诺传》和现代新柏拉图主义研究交叉定位；不填逐字摘录。"},
+    {"label": "excerpt-status", "noteZh": "全部 evidence 使用 summary_only，locator 保留到作品、卷章或主题段落层级。"}
+  ],
+  "thoughtSystem": {"problems": [
+    {"id": "plotinus:problem:001", "titleZh": "万物如何从太一而来？", "questionZh": "普罗提诺如何以太一、努斯和灵魂的层级结构解释统一性、多样性和存在秩序？", "summaryZh": "普罗提诺把太一置于存在和思想之上，万物通过非时间性的流溢和回归结构获得秩序。", "themeIds": ["metaphysics", "knowledge"], "weight": 3, "claims": [
+      {"id": "plotinus:claim:001", "titleZh": "太一超越存在和思想", "claimZh": "普罗提诺的太一不是众多存在者中的最高存在者，而是超越存在、思想和规定性的绝对统一源头。", "explanationZh": "这解决多样性如何依赖统一性的问题，也使最高原则不能被普通概念完全把握。", "themeIds": ["metaphysics", "knowledge"], "weight": 3, "evidence": [
+        {"id": "plotinus:evidence:001", "titleZh": "《论善或太一》中的超越原则", "summaryZh": "《九章集》VI.9 把太一描述为超越存在和思想的善，是万物回归的最高对象。", "source": {"workId": "plotinus-primary-work", "locator": "Enneads VI.9 [9], On the Good or the One, on the One beyond being and intellect", "excerptStatus": "summary_only"}},
+        {"id": "plotinus:evidence:002", "titleZh": "《论三原始本体》中的层级结构", "summaryZh": "《九章集》V.1 说明太一、努斯和灵魂的关系，为新柏拉图主义三层结构提供核心文本。", "source": {"workId": "plotinus-primary-work", "locator": "Enneads V.1 [10], On the Three Primary Hypostases", "excerptStatus": "summary_only"}}
+      ]},
+      {"id": "plotinus:claim:002", "titleZh": "流溢不是时间中的制造", "claimZh": "普罗提诺的流溢关系不是神在时间中制作世界，而是较低层级恒常依赖较高原则。", "explanationZh": "这种模型既保留太一的超越性，也解释努斯、灵魂和可感世界的等级连续。", "themeIds": ["metaphysics"], "weight": 2, "evidence": [
+        {"id": "plotinus:evidence:003", "titleZh": "努斯和灵魂的生成关系", "summaryZh": "相关篇章把努斯对太一的依赖、灵魂对努斯的依赖描述为非时间性的原则关系。", "source": {"workId": "plotinus-primary-work", "locator": "Enneads V.2 [11] and V.3 [49] on procession from the One to Intellect and Soul", "excerptStatus": "summary_only"}},
+        {"id": "plotinus:evidence:004", "titleZh": "现代研究对 procession 的解释", "summaryZh": "现代研究通常强调流溢不是物理流出或历史创世，而是形而上依赖和解释秩序。", "source": {"workId": "plotinus-primary-work", "locator": "Modern scholarship on Plotinian procession, hierarchy and metaphysical dependence", "excerptStatus": "summary_only"}}
+      ]}
+    ]},
+    {"id": "plotinus:problem:002", "titleZh": "灵魂为何既下降又回归？", "questionZh": "普罗提诺如何解释灵魂同身体和可感世界的关系，并把哲学理解为回归更高自我的训练？", "summaryZh": "灵魂参与可感世界却不完全沉没其中。哲学、德性和观照使灵魂从分散返回统一和努斯。", "themeIds": ["ethics", "metaphysics"], "weight": 3, "claims": [
+      {"id": "plotinus:claim:003", "titleZh": "灵魂具有双重朝向", "claimZh": "普罗提诺认为灵魂既治理身体和世界，又可转向努斯和太一，人的处境由这种双重朝向构成。", "explanationZh": "这解释了人的混合状态：既在身体生活中行动，又能通过观照超越感性分散。", "themeIds": ["metaphysics", "ethics"], "weight": 3, "evidence": [
+        {"id": "plotinus:evidence:005", "titleZh": "关于灵魂下行的篇章", "summaryZh": "《九章集》IV.8 讨论灵魂为何进入身体，并避免把身体生活简单理解为纯粹堕落。", "source": {"workId": "plotinus-primary-work", "locator": "Enneads IV.8 [6], On the Descent of the Soul into Bodies", "excerptStatus": "summary_only"}},
+        {"id": "plotinus:evidence:006", "titleZh": "关于灵魂问题的系统篇章", "summaryZh": "《九章集》第四组多篇集中处理灵魂、身体、记忆和宇宙灵魂关系。", "source": {"workId": "plotinus-primary-work", "locator": "Enneads IV.3-5 on problems concerning the soul", "excerptStatus": "summary_only"}}
+      ]},
+      {"id": "plotinus:claim:004", "titleZh": "德性是灵魂净化和回归的阶梯", "claimZh": "普罗提诺把德性理解为灵魂脱离低级依附、重新转向理智和统一的实践过程。", "explanationZh": "伦理学因此不是普通行为规范集合，而是形而上回归的训练路线。", "themeIds": ["ethics", "knowledge"], "weight": 2, "evidence": [
+        {"id": "plotinus:evidence:007", "titleZh": "德性阶梯文本", "summaryZh": "《九章集》I.2 区分政治德性、净化德性和更高德性，说明伦理训练具有上升结构。", "source": {"workId": "plotinus-primary-work", "locator": "Enneads I.2 [19], On Virtues, on civic and purificatory virtues", "excerptStatus": "summary_only"}},
+        {"id": "plotinus:evidence:008", "titleZh": "波菲利传记中的修行形象", "summaryZh": "波菲利把普罗提诺描绘为以哲学生活和观照追求灵魂提升的人。", "source": {"workId": "plotinus-primary-work", "locator": "Porphyry, Life of Plotinus, on Plotinus' philosophical life and spiritual practice", "excerptStatus": "summary_only"}}
+      ]}
+    ]},
+    {"id": "plotinus:problem:003", "titleZh": "美和观照如何通向最高原则？", "questionZh": "普罗提诺为什么把美、内在转向和神秘联合看作认识和伦理转化的关键路径？", "summaryZh": "美把灵魂从感性形状引向形式和统一；观照把灵魂从外在追逐带回自身和太一。", "themeIds": ["aesthetics", "knowledge"], "weight": 2, "claims": [
+      {"id": "plotinus:claim:005", "titleZh": "美是从感性到形式的引导", "claimZh": "普罗提诺把美理解为形式和统一在可感事物中的显现，能唤醒灵魂向上转向。", "explanationZh": "美学在这里是认识论和伦理学的入口，而不是单独的审美趣味理论。", "themeIds": ["aesthetics", "knowledge"], "weight": 3, "evidence": [
+        {"id": "plotinus:evidence:009", "titleZh": "《论美》", "summaryZh": "《九章集》I.6 从身体美引向灵魂美和更高美，呈现上升路线。", "source": {"workId": "plotinus-primary-work", "locator": "Enneads I.6 [1], On Beauty, on ascent from sensible beauty to intelligible beauty", "excerptStatus": "summary_only"}},
+        {"id": "plotinus:evidence:010", "titleZh": "《论可理解的美》", "summaryZh": "《九章集》V.8 把真正美置于理智世界和形式秩序中。", "source": {"workId": "plotinus-primary-work", "locator": "Enneads V.8 [31], On Intelligible Beauty", "excerptStatus": "summary_only"}}
+      ]},
+      {"id": "plotinus:claim:006", "titleZh": "最高认识接近非话语性的联合", "claimZh": "普罗提诺认为对太一的最高接近不是普通推论，而是灵魂简化、内转和联合。", "explanationZh": "这使新柏拉图主义既是形而上学体系，也是一种精神实践传统。", "themeIds": ["knowledge", "religion"], "weight": 2, "evidence": [
+        {"id": "plotinus:evidence:011", "titleZh": "太一联合的文本线索", "summaryZh": "《九章集》VI.9 描述灵魂超越话语知识、朝向太一的联合经验。", "source": {"workId": "plotinus-primary-work", "locator": "Enneads VI.9 [9] on union with the One and non-discursive culmination", "excerptStatus": "summary_only"}},
+        {"id": "plotinus:evidence:012", "titleZh": "波菲利关于普罗提诺经验的记载", "summaryZh": "波菲利声称普罗提诺多次达到与最高原则联合的状态，成为后世神秘主义解释的重要材料。", "source": {"workId": "plotinus-primary-work", "locator": "Porphyry, Life of Plotinus 23 on Plotinus' union with the supreme principle", "excerptStatus": "summary_only"}}
+      ]}
+    ]}
+  ]}
 }

@@ -69,7 +69,7 @@
                 "summaryZh": "《理想国》以太阳、线段和洞穴等比喻说明可见世界与可知世界的层级差别。",
                 "source": {
                   "workId": "plato-primary-work",
-                  "locator": "《理想国》中卷",
+                  "locator": "《理想国》第六卷：线段比喻段落；第七卷：洞穴比喻开端段落",
                   "excerptStatus": "summary_only"
                 }
               }
@@ -84,7 +84,7 @@
               "metaphysics",
               "ethics"
             ],
-            "weight": 3,
+            "weight": 2,
             "evidence": [
               {
                 "id": "plato-good-sun",
@@ -92,7 +92,7 @@
                 "summaryZh": "太阳比喻把善呈现为让可知对象与认识能力同时成立的源头。",
                 "source": {
                   "workId": "plato-primary-work",
-                  "locator": "太阳比喻",
+                  "locator": "《理想国》第六卷：太阳比喻中善与可知性段落",
                   "excerptStatus": "summary_only"
                 }
               }
@@ -128,7 +128,7 @@
                 "summaryZh": "第四卷通过城邦阶层和灵魂部分的对应关系定义正义。",
                 "source": {
                   "workId": "plato-primary-work",
-                  "locator": "第四卷",
+                  "locator": "《理想国》第四卷：城邦三阶层与灵魂三部分对应段落",
                   "excerptStatus": "summary_only"
                 }
               }
@@ -151,7 +151,7 @@
                 "summaryZh": "柏拉图把真正的政治技艺理解为以善为尺度的知识，而不只是权术。",
                 "source": {
                   "workId": "plato-primary-work",
-                  "locator": "哲人王段落",
+                  "locator": "《理想国》第五卷：哲学家成为统治者段落",
                   "excerptStatus": "summary_only"
                 }
               }
@@ -187,7 +187,30 @@
                 "summaryZh": "洞穴比喻说明人从影像、信念到知识的转变，同时暗示哲学家的政治责任。",
                 "source": {
                   "workId": "plato-primary-work",
-                  "locator": "洞穴比喻",
+                  "locator": "《理想国》第七卷：洞穴比喻中转身与上升段落",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "plato-soul-harmony",
+            "titleZh": "灵魂秩序需要理性治理欲望与激情",
+            "claimZh": "柏拉图把灵魂理解为有不同部分的结构，教育的目标是让理性、激情和欲望形成有序关系。",
+            "explanationZh": "这使教育不仅是知识获得，也是人格与欲望的整顿；正义的人是灵魂各部分按其合宜功能运作的人。",
+            "themeIds": [
+              "ethics",
+              "knowledge"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "plato-soul-tripartite",
+                "titleZh": "《理想国》第四卷中的灵魂三分",
+                "summaryZh": "第四卷通过理性、激情与欲望的区分，将个人灵魂的秩序与城邦正义结构联系起来。",
+                "source": {
+                  "workId": "plato-primary-work",
+                  "locator": "《理想国》第四卷：灵魂三部分及其正义段落",
                   "excerptStatus": "summary_only"
                 }
               }
@@ -223,7 +246,30 @@
                 "summaryZh": "对话录形式不断展示定义、反例、修正和重新提问的哲学运动。",
                 "source": {
                   "workId": "plato-primary-work",
-                  "locator": "对话方法",
+                  "locator": "《理想国》第七卷：辩证法训练与上升段落",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "plato-aporia-method",
+            "titleZh": "困惑推动概念重新定义",
+            "claimZh": "柏拉图式对话常通过使参与者陷入困惑，迫使他们放弃未经检验的定义并重新思考问题。",
+            "explanationZh": "这种方法把哲学呈现为共同探究，而不是权威宣告；困惑本身成为从意见转向知识的必要阶段。",
+            "themeIds": [
+              "language",
+              "knowledge"
+            ],
+            "weight": 1,
+            "evidence": [
+              {
+                "id": "plato-aporia-dialogue",
+                "titleZh": "早期对话中的定义与反驳",
+                "summaryZh": "柏拉图早期对话常以定义尝试、反例和困惑结尾，显示概念澄清需要经过持续追问。",
+                "source": {
+                  "workId": "plato-primary-work",
+                  "locator": "《尤西弗罗》14c–15e：虔敬定义反复失败并以困惑收束段",
                   "excerptStatus": "summary_only"
                 }
               }

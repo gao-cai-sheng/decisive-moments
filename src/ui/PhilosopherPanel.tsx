@@ -209,6 +209,11 @@ export function PhilosopherPanel({ philosopher }: PhilosopherPanelProps) {
                                   <div className="thought-evidence" key={evidence.id}>
                                     <strong>{evidence.titleZh}</strong>
                                     <p>{evidence.summaryZh}</p>
+                                    {evidence.source.publicDomainExcerptZh && (
+                                      <blockquote className="thought-excerpt">
+                                        {evidence.source.publicDomainExcerptZh}
+                                      </blockquote>
+                                    )}
                                     <p className="muted">
                                       {workTitle && <span>{workTitle}</span>}
                                       {evidence.source.locator && <span>{evidence.source.locator}</span>}

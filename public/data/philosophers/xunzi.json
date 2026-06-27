@@ -5,9 +5,9 @@
     "en": "Xunzi"
   },
   "life": {
-    "display": "约前 310—前 235",
     "birth": -310,
-    "death": -235
+    "death": -235,
+    "display": "约前 310—前 235"
   },
   "civilization": "chinese",
   "traditions": [
@@ -38,5 +38,201 @@
       "label": "draft",
       "noteZh": "条目需要人工核对作品、年代和概念表述。"
     }
-  ]
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "xunzi:problem:001",
+        "titleZh": "性恶与化性起伪",
+        "questionZh": "荀子为什么说‘人之性恶，其善者伪也’？他的性恶论与孟子的性善论分歧究竟在哪里？",
+        "summaryZh": "性恶论是荀子伦理思想的起点。荀子区分性（自然欲望）与伪（人为努力），认为善并非天赋，而是通过礼义教化后天养成的；这一理论为礼乐制度提供了人性论必要性。",
+        "themeIds": [
+          "ethics"
+        ],
+        "weight": 1,
+        "claims": [
+          {
+            "id": "xunzi:claim:001",
+            "titleZh": "人之性恶，其善者伪也",
+            "claimZh": "荀子主张人生来具有欲望与利己倾向，若顺其发展会导致争夺与混乱；善的行为来自后天礼义教化的‘伪’（人为努力）。",
+            "explanationZh": "荀子的‘恶’并非基督教意义上的原罪，而是指人性缺乏自发的道德秩序；‘化性起伪’强调通过学习和制度将自然欲望纳入社会规范。",
+            "themeIds": [
+              "ethics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "xunzi:evidence:001",
+                "titleZh": "《荀子·性恶》篇论性伪之分",
+                "summaryZh": "《性恶》篇系统论证性伪之分，指出人之性生而有好利、疾恶、耳目之欲，顺之则争夺生；故需师长法礼以化性起伪。",
+                "source": {
+                  "workId": "xunzi-primary-work",
+                  "locator": "《荀子·性恶》：人之性恶其善者伪段",
+                  "publicDomainExcerptZh": "人之性恶，其善者伪也。今人之性，生而有好利焉，顺是，故争夺生而辞让亡焉。",
+                  "excerptStatus": "public_domain"
+                }
+              },
+              {
+                "id": "xunzi:evidence:002",
+                "titleZh": "《荀子·劝学》论积善成德",
+                "summaryZh": "《劝学》强调‘积善成德，而神明自得’，说明道德成就依赖于后天积累与礼义学习，与性善论的天赋取向形成对照。",
+                "source": {
+                  "workId": "xunzi-primary-work",
+                  "locator": "《荀子·劝学》：积善成德段",
+                  "publicDomainExcerptZh": "积土成山，风雨兴焉；积水成渊，蛟龙生焉；积善成德，而神明自得，圣心备焉。",
+                  "excerptStatus": "public_domain"
+                }
+              }
+            ]
+          },
+          {
+            "id": "xunzi:claim:006",
+            "titleZh": "礼义法度来自化性起伪",
+            "claimZh": "荀子认为礼义和法度不是自然自发生成，而是圣人通过人为制作来转化人性的结果。",
+            "explanationZh": "这一主张把性恶论和制度论连接起来：正因为自然欲望会走向争夺，所以必须通过学习、礼义和法度把人性重新组织起来。",
+            "themeIds": [
+              "ethics",
+              "politics"
+            ],
+            "weight": 1,
+            "evidence": [
+              {
+                "id": "xunzi:evidence:007",
+                "titleZh": "《荀子·性恶》论化性起伪",
+                "summaryZh": "《性恶》篇将礼义法度归于圣人化性起伪，说明道德秩序依赖后天制作和制度化教化。",
+                "source": {
+                  "workId": "xunzi-primary-work",
+                  "locator": "《荀子·性恶》：化性起伪段",
+                  "publicDomainExcerptZh": "故圣人化性而起伪，伪起而生礼义，礼义生而制法度。",
+                  "excerptStatus": "public_domain"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "xunzi:problem:002",
+        "titleZh": "礼乐、正名与政治秩序",
+        "questionZh": "荀子如何以礼乐和正名来建构政治秩序？这些制度如何回应人性中的欲望与纷争？",
+        "summaryZh": "荀子将礼乐视为约束欲望、区分等级、调和情感的核心制度；正名则通过名实相符来明确社会角色与责任，从而减少争端、维护分工。",
+        "themeIds": [
+          "politics",
+          "justice"
+        ],
+        "weight": 1,
+        "claims": [
+          {
+            "id": "xunzi:claim:002",
+            "titleZh": "礼者法之大分，类之纲纪",
+            "claimZh": "荀子认为礼是法律与社会规范的总纲，既能满足人的合理欲望，又能通过差等分配避免争夺。",
+            "explanationZh": "礼不是压制欲望，而是‘养人之欲，给人之求’的制度化方式；它通过名分、等级、仪式将个体欲望纳入可持续的社会秩序。",
+            "themeIds": [
+              "politics",
+              "justice"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "xunzi:evidence:003",
+                "titleZh": "《荀子·礼论》论礼之起",
+                "summaryZh": "《礼论》篇解释礼起源于调节欲望、避免争夺的需要，提出‘礼者，养也’，强调礼的社会整合与情感疏导功能。",
+                "source": {
+                  "workId": "xunzi-primary-work",
+                  "locator": "《荀子·礼论》：礼者养也段",
+                  "publicDomainExcerptZh": "礼者，养也。",
+                  "excerptStatus": "public_domain"
+                }
+              }
+            ]
+          },
+          {
+            "id": "xunzi:claim:003",
+            "titleZh": "正名以定分止争",
+            "claimZh": "荀子主张通过‘正名’使名实相符、贵贱有别，从而明确社会分工、减少因名分混乱导致的政治冲突。",
+            "explanationZh": "正名不仅是语言问题，更是政治治理问题；它要求君主与士大夫维护名分的稳定性，使每个人都在其位、任其职。",
+            "themeIds": [
+              "politics",
+              "justice"
+            ],
+            "weight": 1,
+            "evidence": [
+              {
+                "id": "xunzi:evidence:004",
+                "titleZh": "《荀子·正名》篇论名实关系",
+                "summaryZh": "《正名》篇系统讨论名、辞、辩说，主张制名以指实，并强调名分的政治功能在于‘明贵贱’‘辨同异’，从而稳定社会秩序。",
+                "source": {
+                  "workId": "xunzi-primary-work",
+                  "locator": "《荀子·正名》：约定俗成谓之宜段",
+                  "publicDomainExcerptZh": "名无固宜，约之以命，约定俗成谓之宜，异于约则谓之不宜。",
+                  "excerptStatus": "public_domain"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "xunzi:problem:003",
+        "titleZh": "天人之分",
+        "questionZh": "荀子如何理解天与人的关系？这种理解怎样支撑他的礼义学说？",
+        "summaryZh": "天人之分说明荀子并不把自然变化直接等同于道德评价。他强调自然有其常则，而人的责任在于通过学习、礼义和制度安排形成稳定秩序。",
+        "themeIds": [
+          "metaphysics",
+          "politics"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "xunzi:claim:004",
+            "titleZh": "天行有常，人应制礼义",
+            "claimZh": "荀子认为自然运行有其常则，人类应通过礼义和学习来安排社会生活。",
+            "explanationZh": "这一主张把注意力从揣测天意转向人的实践能力，说明礼义制度不是自然自发产生，而是人类学习和制作的成果。",
+            "themeIds": [
+              "metaphysics",
+              "politics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "xunzi:evidence:005",
+                "titleZh": "《荀子·天论》论天人之分",
+                "summaryZh": "《天论》强调天行有常，并提出理解天与人的分际，由此凸显礼义、学习和人为努力的重要性。",
+                "source": {
+                  "workId": "xunzi-primary-work",
+                  "locator": "《荀子·天论》：「天行有常」段",
+                  "publicDomainExcerptZh": "天行有常，不为尧存，不为桀亡。应之以治则吉，应之以乱则凶。",
+                  "excerptStatus": "public_domain"
+                }
+              }
+            ]
+          },
+          {
+            "id": "xunzi:claim:005",
+            "titleZh": "人应制天命而用之",
+            "claimZh": "荀子并不主张被动顺从自然，而是强调理解自然规律后加以利用和安排。",
+            "explanationZh": "这一主张把天人之分推进为实践哲学：人不应把精力放在赞叹或揣测天，而应通过制度、技术和礼义组织人间生活。",
+            "themeIds": [
+              "metaphysics",
+              "politics"
+            ],
+            "weight": 1,
+            "evidence": [
+              {
+                "id": "xunzi:evidence:006",
+                "titleZh": "《荀子·天论》论制天命而用之",
+                "summaryZh": "《天论》通过“大天而思之”与“制天命而用之”的对比，强调人的实践安排优先于被动颂天。",
+                "source": {
+                  "workId": "xunzi-primary-work",
+                  "locator": "《荀子·天论》：「大天而思之」段",
+                  "publicDomainExcerptZh": "大天而思之，孰与物畜而制之？从天而颂之，孰与制天命而用之？",
+                  "excerptStatus": "public_domain"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
 }

@@ -1,12 +1,43 @@
 import { OrbitControls } from "@react-three/drei";
 import { useFrame } from "@react-three/fiber";
-import { useEffect, useRef } from "react";
+import { useEffect, useRef, useState } from "react";
 import * as THREE from "three";
 import type { OrbitControls as OrbitControlsImpl } from "three-stdlib";
 
 type CameraRigProps = {
   target?: [number, number, number];
 };
+
+export const GALAXY_AUTO_ROTATE_SPEED = 0.18;
+
+export function getGalaxyAutoRotateSpeed(prefersReducedMotion: boolean) {
+  return prefersReducedMotion ? 0 : GALAXY_AUTO_ROTATE_SPEED;
+}
+
+function getReducedMotionQuery() {
+  if (typeof window === "undefined" || typeof window.matchMedia !== "function") return null;
+  return window.matchMedia("(prefers-reduced-motion: reduce)");
+}
+
+function readPrefersReducedMotion() {
+  return getReducedMotionQuery()?.matches ?? false;
+}
+
+function usePrefersReducedMotion() {
+  const [prefersReducedMotion, setPrefersReducedMotion] = useState(readPrefersReducedMotion);
+
+  useEffect(() => {
+    const query = getReducedMotionQuery();
+    if (!query) return undefined;
+
+    const update = () => setPrefersReducedMotion(query.matches);
+    update();
+    query.addEventListener("change", update);
+    return () => query.removeEventListener("change", update);
+  }, []);
+
+  return prefersReducedMotion;
+}
 
 export function interpolateTarget(
   current: [number, number, number],
@@ -26,6 +57,7 @@ export function CameraRig({ target = [0, 0, 0] }: CameraRigProps) {
   const controlsRef = useRef<OrbitControlsImpl | null>(null);
   const currentTargetRef = useRef<[number, number, number]>(target);
   const targetRef = useRef<[number, number, number]>(target);
+  const autoRotateSpeed = getGalaxyAutoRotateSpeed(usePrefersReducedMotion());
 
   useEffect(() => {
     targetRef.current = target;
@@ -47,6 +79,8 @@ export function CameraRig({ target = [0, 0, 0] }: CameraRigProps) {
       enableDamping
       dampingFactor={0.08}
       rotateSpeed={0.55}
+      autoRotate={autoRotateSpeed > 0}
+      autoRotateSpeed={autoRotateSpeed}
       zoomSpeed={0.7}
       minDistance={4}
       maxDistance={38}

@@ -6,11 +6,13 @@ import { describe, expect, it } from "vitest";
 import { validateResearchBatch } from "./validate-kimi-research.mjs";
 
 const kimiRoot = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..", ".research/tmp/kimi");
+const storedBatchRequiredFiles = ["brief.md", "sources.md", "notes.md", "claims.json", "open-questions.md"];
 const storedBatches = fs.existsSync(kimiRoot)
   ? fs
       .readdirSync(kimiRoot)
       .map((name) => path.join(kimiRoot, name))
       .filter((dir) => fs.statSync(dir).isDirectory())
+      .filter((dir) => storedBatchRequiredFiles.every((file) => fs.existsSync(path.join(dir, file))))
   : [];
 
 function makeBatch(files) {
@@ -81,6 +83,7 @@ describe("validateResearchBatch", () => {
     expect(validateResearchBatch(dir)).toEqual({
       claims: 1,
       sources: 1,
+      thoughtSystems: 0,
       timeline: 1,
     });
   });
@@ -140,6 +143,147 @@ describe("validateResearchBatch", () => {
     });
 
     expect(() => validateResearchBatch(dir)).toThrow(/timeline\.json is required/);
+  });
+
+  it("accepts thought-system candidates and checks nested source ids", () => {
+    const dir = makeBatch({
+      ...requiredMarkdown,
+      "claims.json": JSON.stringify({
+        schemaVersion: 1,
+        items: [
+          {
+            id: "laozi:fact:001",
+            subject: "Laozi",
+            subjectZh: "老子",
+            claimZh: "《老子》传统上归于老子名下。",
+            type: "fact",
+            sourceIds: ["S001"],
+            confidence: "medium",
+            reviewStatus: "needs_human_review",
+            notesZh: "仅作候选事实。",
+          },
+        ],
+      }),
+      "thought-systems.json": JSON.stringify({
+        schemaVersion: 1,
+        items: [
+          {
+            philosopherId: "laozi",
+            problems: [
+              {
+                id: "laozi:problem:001",
+                titleZh: "道与命名",
+                questionZh: "道能否被固定语言完整把握？",
+                summaryZh: "老子思想把道、名与语言限度联系起来，构成形而上学和语言问题的核心。",
+                themeIds: ["metaphysics", "language"],
+                weight: 3,
+                sourceIds: ["S001"],
+                claims: [
+                  {
+                    id: "laozi:claim:001",
+                    titleZh: "道不可被定名穷尽",
+                    claimZh: "道不是普通对象，不能被固定名称完全把握。",
+                    explanationZh: "这一主张使老子的形而上学同时具有语言批判意味。",
+                    themeIds: ["metaphysics", "language"],
+                    weight: 3,
+                    sourceIds: ["S001"],
+                    evidence: [
+                      {
+                        id: "laozi:evidence:001",
+                        titleZh: "《老子》开篇",
+                        summaryZh: "开篇围绕道与名的关系展开，可作为语言限度问题的证据。",
+                        source: {
+                          workId: "laozi-primary-work",
+                          locator: "第一章",
+                          excerptStatus: "summary_only",
+                        },
+                        sourceIds: ["S001"],
+                      },
+                    ],
+                  },
+                ],
+              },
+            ],
+            sourceIds: ["S001"],
+          },
+        ],
+      }),
+    });
+
+    expect(validateResearchBatch(dir)).toEqual({
+      claims: 1,
+      sources: 1,
+      thoughtSystems: 1,
+      timeline: 0,
+    });
+  });
+
+  it("rejects thought-system candidates with unknown nested source ids", () => {
+    const dir = makeBatch({
+      ...requiredMarkdown,
+      "claims.json": JSON.stringify({
+        schemaVersion: 1,
+        items: [
+          {
+            id: "laozi:fact:001",
+            subject: "Laozi",
+            subjectZh: "老子",
+            claimZh: "一条合法事实。",
+            type: "fact",
+            sourceIds: ["S001"],
+            confidence: "medium",
+            reviewStatus: "needs_human_review",
+            notesZh: "仅作候选事实。",
+          },
+        ],
+      }),
+      "thought-systems.json": JSON.stringify({
+        schemaVersion: 1,
+        items: [
+          {
+            philosopherId: "laozi",
+            problems: [
+              {
+                id: "laozi:problem:001",
+                titleZh: "道与命名",
+                questionZh: "道能否被固定语言完整把握？",
+                summaryZh: "老子思想把道、名与语言限度联系起来，构成形而上学和语言问题的核心。",
+                themeIds: ["metaphysics", "language"],
+                weight: 3,
+                sourceIds: ["S999"],
+                claims: [
+                  {
+                    id: "laozi:claim:001",
+                    titleZh: "道不可被定名穷尽",
+                    claimZh: "道不是普通对象，不能被固定名称完全把握。",
+                    explanationZh: "这一主张使老子的形而上学同时具有语言批判意味。",
+                    themeIds: ["metaphysics", "language"],
+                    weight: 3,
+                    sourceIds: ["S001"],
+                    evidence: [
+                      {
+                        id: "laozi:evidence:001",
+                        titleZh: "《老子》开篇",
+                        summaryZh: "开篇围绕道与名的关系展开，可作为语言限度问题的证据。",
+                        source: {
+                          workId: "laozi-primary-work",
+                          locator: "第一章",
+                          excerptStatus: "summary_only",
+                        },
+                        sourceIds: ["S001"],
+                      },
+                    ],
+                  },
+                ],
+              },
+            ],
+            sourceIds: ["S001"],
+          },
+        ],
+      }),
+    });
+
+    expect(() => validateResearchBatch(dir)).toThrow(/unknown sourceId: S999/);
   });
 
 });

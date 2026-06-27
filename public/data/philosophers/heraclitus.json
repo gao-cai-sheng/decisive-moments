@@ -5,9 +5,9 @@
     "en": "Heraclitus"
   },
   "life": {
-    "display": "约前 535—前 475",
     "birth": -535,
-    "death": -475
+    "death": -475,
+    "display": "约前 535—前 475"
   },
   "civilization": "ancient_greek",
   "traditions": [
@@ -38,5 +38,251 @@
       "label": "draft",
       "noteZh": "条目需要人工核对作品、年代和概念表述。"
     }
-  ]
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "heraclitus:problem:001",
+        "titleZh": "logos 如何使变化世界可理解？",
+        "questionZh": "赫拉克利特为什么一方面强调多数人不能理解世界，另一方面又主张存在共同的 logos 可以被聆听和理解？",
+        "summaryZh": "赫拉克利特把世界理解为可由 logos 把握的秩序。多数人沉睡在私人意见中，但变化并非无意义流散；它具有共同尺度、结构和可言说的理性纹理。",
+        "themeIds": [
+          "knowledge",
+          "metaphysics",
+          "language"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "heraclitus:claim:001",
+            "titleZh": "logos 是公共尺度而非私人意见",
+            "claimZh": "赫拉克利特以 logos 指称一种共同可听从的秩序，人的无知在于把私人意见误当现实。",
+            "explanationZh": "这使他的认识论带有伦理意味：理解世界不是积累见闻，而是从自我封闭的意见中醒来，转向共同尺度。",
+            "themeIds": [
+              "knowledge",
+              "language"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "heraclitus:evidence:001",
+                "titleZh": "B1 残篇把 logos 置于开端",
+                "summaryZh": "B1 残篇说明 logos 虽然总是如此，多数人却在听见前后都不能理解，显示 logos 是公共而被忽视的秩序。",
+                "source": {
+                  "workId": "heraclitus-primary-work",
+                  "locator": "DK B1, preserved in Sextus Empiricus, Against the Mathematicians VII.132",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "heraclitus:evidence:002",
+                "titleZh": "共同者与私人理解的对比",
+                "summaryZh": "相关残篇把共同的东西与多数人像有私人理解一样生活相对照，说明认识需要转向公共尺度。",
+                "source": {
+                  "workId": "heraclitus-primary-work",
+                  "locator": "DK B2 and related fragments on the common and private understanding",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "heraclitus:claim:002",
+            "titleZh": "残篇形式本身要求解释而非教条",
+            "claimZh": "赫拉克利特的晦涩格言不是简单谜语，而是迫使读者在张力、反讽和对立中理解 logos 的表达方式。",
+            "explanationZh": "现代研究常指出其文本具有高度艺术性：它不直接给出体系，而通过浓缩语句训练人从表面相反中看到结构。",
+            "themeIds": [
+              "language",
+              "knowledge",
+              "metaphysics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "heraclitus:evidence:003",
+                "titleZh": "Kahn 强调残篇的艺术结构",
+                "summaryZh": "Kahn 对赫拉克利特残篇的重构强调，其格言式表达通过重复、对称和悖论来组织思想，而非偶然破碎。",
+                "source": {
+                  "workId": "heraclitus-primary-work",
+                  "locator": "Kahn, The Art and Thought of Heraclitus, introductory chapters on logos and literary structure",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "heraclitus:evidence:004",
+                "titleZh": "现代残篇研究要求区分原句和保存语境",
+                "summaryZh": "Kirk-Raven-Schofield 等研究提醒，赫拉克利特残篇由后世保存，解释时必须同时关注片段语言和引用语境。",
+                "source": {
+                  "workId": "heraclitus-primary-work",
+                  "locator": "Kirk, Raven and Schofield, Presocratic Philosophers, section on Heraclitus' fragments and method",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "heraclitus:problem:002",
+        "titleZh": "流变、火与对立如何构成秩序？",
+        "questionZh": "赫拉克利特是否只是说万物不断变化，还是说变化本身具有冲突、尺度和相反者统一的结构？",
+        "summaryZh": "赫拉克利特的变化观不是无序流散。火、河流、战争、弓琴等意象共同表达一种动态秩序：事物在转化和冲突中保持比例，相反者的张力使世界成为世界。",
+        "themeIds": [
+          "metaphysics",
+          "knowledge"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "heraclitus:claim:003",
+            "titleZh": "流变不取消秩序而揭示动态秩序",
+            "claimZh": "赫拉克利特的流变思想并不意味着一切不可理解；变化依尺度和转化规律展开。",
+            "explanationZh": "柏拉图传统常强化“万物流变”，但残篇中的河流、火和尺度显示，变化同时也是稳定结构的表现。",
+            "themeIds": [
+              "metaphysics",
+              "knowledge"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "heraclitus:evidence:005",
+                "titleZh": "河流残篇显示同一与变化并存",
+                "summaryZh": "河流残篇常被理解为变化主题，但其思想重心在于同一河流与不同水流之间的张力，而非单纯否定同一性。",
+                "source": {
+                  "workId": "heraclitus-primary-work",
+                  "locator": "DK B12/B49a river fragments and Plato, Cratylus 402a reception",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "heraclitus:evidence:006",
+                "titleZh": "火的尺度化变化说明转化有比例",
+                "summaryZh": "关于永恒活火按尺度燃烧、按尺度熄灭的残篇，显示宇宙变化被理解为有比例的过程。",
+                "source": {
+                  "workId": "heraclitus-primary-work",
+                  "locator": "DK B30 on ever-living fire kindling and going out by measures",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "heraclitus:claim:004",
+            "titleZh": "冲突与相反者统一是生成秩序的条件",
+            "claimZh": "赫拉克利特把战争、张力和相反者的和合看作世界秩序的条件，而不是秩序的破坏者。",
+            "explanationZh": "弓与琴的张力、战争为万物之父等残篇说明，稳定来自对立力量的结构性关系。没有冲突，事物就失去生成和区分。",
+            "themeIds": [
+              "metaphysics",
+              "ethics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "heraclitus:evidence:007",
+                "titleZh": "战争为万物之父的残篇",
+                "summaryZh": "“战争为万物之父”残篇把冲突解释为事物区分、显现和秩序生成的根本条件。",
+                "source": {
+                  "workId": "heraclitus-primary-work",
+                  "locator": "DK B53 on war as father and king of all",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "heraclitus:evidence:008",
+                "titleZh": "弓与琴的反向和谐",
+                "summaryZh": "关于弓与琴的反向和谐残篇说明，和谐不是消除张力，而是在相反力量之间形成结构。",
+                "source": {
+                  "workId": "heraclitus-primary-work",
+                  "locator": "DK B51 on hidden harmony and the bow/lyre tension",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "heraclitus:problem:003",
+        "titleZh": "灵魂与共同法如何把宇宙论转为伦理？",
+        "questionZh": "赫拉克利特关于灵魂、清醒、自制和共同法的残篇如何说明理解 logos 不只是宇宙论问题，也是生活方式问题？",
+        "summaryZh": "赫拉克利特将宇宙秩序和人的生活相连。灵魂需要清醒、深度和自我探求；城邦和个人也应服从共同法。认识 logos 因而同时是伦理觉醒。",
+        "themeIds": [
+          "ethics",
+          "knowledge",
+          "politics"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "heraclitus:claim:005",
+            "titleZh": "灵魂深度与自我探求关联 logos",
+            "claimZh": "赫拉克利特把灵魂描述为有深度的尺度，理解世界要求人同时探求自身。",
+            "explanationZh": "这不是后世完整心理学，而是把人的清醒、节制和理解能力放进同一秩序中。宇宙论因此有内在伦理方向。",
+            "themeIds": [
+              "ethics",
+              "knowledge",
+              "life_death"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "heraclitus:evidence:009",
+                "titleZh": "灵魂深度残篇",
+                "summaryZh": "关于灵魂边界不可穷尽和灵魂拥有深 logos 的残篇，显示赫拉克利特把自我探求与理解秩序相连。",
+                "source": {
+                  "workId": "heraclitus-primary-work",
+                  "locator": "DK B45 on the soul's boundaries and deep logos",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "heraclitus:evidence:010",
+                "titleZh": "干燥灵魂和清醒的残篇传统",
+                "summaryZh": "关于干燥灵魂最智慧、醉者受孩童牵引等残篇，把灵魂状态、清醒和自制联系起来。",
+                "source": {
+                  "workId": "heraclitus-primary-work",
+                  "locator": "DK B117/B118 on drunkenness, dry soul and wisdom",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "heraclitus:claim:006",
+            "titleZh": "共同法把个人判断纳入公共尺度",
+            "claimZh": "赫拉克利特将人的生活和城邦法置于共同 logos 的尺度下，反对只凭私人意见生活。",
+            "explanationZh": "这使其伦理具有公共性：智慧不是孤立的玄想，而是要在言说、法律、城邦和生活判断中服从共同者。",
+            "themeIds": [
+              "ethics",
+              "politics",
+              "knowledge"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "heraclitus:evidence:011",
+                "titleZh": "人法由神法滋养的残篇",
+                "summaryZh": "有关城邦法和神法关系的残篇说明，赫拉克利特把公共法律理解为从更共同的秩序获得力量。",
+                "source": {
+                  "workId": "heraclitus-primary-work",
+                  "locator": "DK B114 on speaking with understanding and laws nourished by divine law",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "heraclitus:evidence:012",
+                "titleZh": "醒与睡的对比具有伦理意义",
+                "summaryZh": "多处残篇以醒者共享世界、睡者转向私人世界的对比，说明理解 logos 也是从私人幻觉中醒来的生活转变。",
+                "source": {
+                  "workId": "heraclitus-primary-work",
+                  "locator": "DK B89 and related waking/sleeping fragments",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
 }

@@ -5,9 +5,9 @@
     "en": "Ramanuja"
   },
   "life": {
-    "display": "1017—1137",
     "birth": 1017,
-    "death": 1137
+    "death": 1137,
+    "display": "1017—1137"
   },
   "civilization": "indian",
   "traditions": [
@@ -38,5 +38,251 @@
       "label": "draft",
       "noteZh": "条目需要人工核对作品、年代和概念表述。"
     }
-  ]
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "ramanuja:problem:001",
+        "titleZh": "最高真实能否既统一又有属性？",
+        "questionZh": "如果 Brahman 是最高真实，罗摩奴阇如何同时保存它的唯一性、无限吉祥属性，以及灵魂和世界的真实差异？",
+        "summaryZh": "罗摩奴阇的限定不二论把 Brahman 理解为具有属性的 Nārāyaṇa：最高真实不是无差别空白，而是以 cit 和 acit 为其方式、身体或限定的有机统一。",
+        "themeIds": [
+          "metaphysics",
+          "religion",
+          "life_death"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "ramanuja:claim:001",
+            "titleZh": "Brahman 是具有无限吉祥属性的个人神",
+            "claimZh": "罗摩奴阇反对把 Brahman 解释为无任何属性的纯粹绝对者；最高真实是具有无限吉祥属性的 Nārāyaṇa / Viṣṇu。",
+            "explanationZh": "若最高真实完全无属性，它就难以成为奥义书所赞颂、可被虔信和认识的对象。罗摩奴阇因此把属性理解为 Brahman 的真实完满，而非低级幻象。",
+            "themeIds": [
+              "religion",
+              "metaphysics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "ramanuja:evidence:001",
+                "titleZh": "《室利注》反对无属性 Brahman 解释",
+                "summaryZh": "《室利注》在开篇和对奥义书语句的解释中批评把 Brahman 理解为无属性绝对，强调 Brahman 具有可被经典肯定的真实性质。",
+                "source": {
+                  "workId": "ramanuja-primary-work",
+                  "locator": "Śrī-bhāṣya, introductory sections and Brahma-sūtra 1.1.1-1.1.2 discussion of Brahman inquiry",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "ramanuja:evidence:002",
+                "titleZh": "《吠陀义集成》综合有属性 Brahman 的奥义书证据",
+                "summaryZh": "《吠陀义集成》把不同奥义书段落解释为同指具有知识、力量、主宰性和吉祥属性的 Brahman，而非取消所有限定。",
+                "source": {
+                  "workId": "ramanuja-primary-work",
+                  "locator": "Vedārthasaṅgraha, opening synthesis of Upaniṣadic passages on qualified Brahman",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "ramanuja:claim:002",
+            "titleZh": "限定不二保存差异而不破坏统一",
+            "claimZh": "罗摩奴阇的不二不是消除差异，而是说明 cit 与 acit 真实存在并作为 Brahman 的限定而构成一个统一整体。",
+            "explanationZh": "这使他既能反对彻底二元论，也能反对把世界和个体灵魂视为最终无实的解释。差异不是第二个最高实体，而是依附于最高整体的真实差异。",
+            "themeIds": [
+              "metaphysics",
+              "religion"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "ramanuja:evidence:003",
+                "titleZh": "《室利注》以 cit/acit/Īśvara 结构说明限定不二",
+                "summaryZh": "《室利注》把有意识灵魂、无意识物质和最高主宰者纳入同一形而上学结构，说明统一并不等于无差别。",
+                "source": {
+                  "workId": "ramanuja-primary-work",
+                  "locator": "Śrī-bhāṣya, Brahma-sūtra 2.1, discussion of cause, sentient and non-sentient reality",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "ramanuja:evidence:004",
+                "titleZh": "Lipner 对限定不二关系性真实的重构",
+                "summaryZh": "Lipner 将罗摩奴阇理解为一种关系性形而上学：意义、差异和统一相互关联，不能被简化为普通折中论。",
+                "source": {
+                  "workId": "ramanuja-primary-work",
+                  "locator": "Lipner, The Face of Truth, chapters on meaning, difference, and qualified non-dualism",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ramanuja:problem:002",
+        "titleZh": "灵魂与世界如何真实而依附于神？",
+        "questionZh": "如果个体灵魂和物质世界都真实存在，它们如何既不是幻象，也不是与 Brahman 完全并列的独立实体？",
+        "summaryZh": "罗摩奴阇用身体—灵魂和内在支配者模型说明：世界与灵魂真实存在，却作为 Brahman 的身体被其支配、维持和内在贯通，因此差异真实而依附。",
+        "themeIds": [
+          "metaphysics",
+          "religion",
+          "life_death"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "ramanuja:claim:003",
+            "titleZh": "世界和灵魂是 Brahman 的身体",
+            "claimZh": "罗摩奴阇把 cit 与 acit 解释为 Brahman 的身体：它们真实存在，但其存在、意义和活动都依赖内在支配者。",
+            "explanationZh": "身体—灵魂模型避免两端：世界不是假象，灵魂也不是独立主宰；二者作为神的身体体现神的支配、内在性和统一。",
+            "themeIds": [
+              "metaphysics",
+              "religion"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "ramanuja:evidence:005",
+                "titleZh": "《室利注》使用身体—灵魂关系说明依附",
+                "summaryZh": "《室利注》借身体依附灵魂、受灵魂支配并为灵魂目的而存在的关系，说明世界和灵魂依附于 Brahman。",
+                "source": {
+                  "workId": "ramanuja-primary-work",
+                  "locator": "Śrī-bhāṣya, Brahma-sūtra 1.1.1-1.1.4 and 2.1, body-soul analogy for Brahman and world",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "ramanuja:evidence:006",
+                "titleZh": "《吠陀义集成》解释 antaryāmin 传统",
+                "summaryZh": "《吠陀义集成》运用内在支配者思想说明 Brahman 内在于灵魂和世界，同时作为其主宰和支撑根基。",
+                "source": {
+                  "workId": "ramanuja-primary-work",
+                  "locator": "Vedārthasaṅgraha, sections on antaryāmin and the body of Brahman",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "ramanuja:claim:004",
+            "titleZh": "解脱不取消灵魂个别性",
+            "claimZh": "罗摩奴阇认为个体灵魂在解脱中摆脱业缚并获得对神的直接认识和亲近，但并不被无差别地吞没。",
+            "explanationZh": "因为灵魂的个别性是真实依附结构的一部分，解脱不是取消灵魂，而是使灵魂恢复其对神的正确关系。",
+            "themeIds": [
+              "life_death",
+              "religion",
+              "metaphysics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "ramanuja:evidence:007",
+                "titleZh": "《室利注》讨论解脱灵魂与 Brahman 的关系",
+                "summaryZh": "《室利注》在解脱相关经节中说明解脱灵魂获得无障碍认识和神圣亲近，但并不因此失去真实个别性。",
+                "source": {
+                  "workId": "ramanuja-primary-work",
+                  "locator": "Śrī-bhāṣya, Brahma-sūtra 4.4, discussion of liberated self and Brahman",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "ramanuja:evidence:008",
+                "titleZh": "《薄伽梵歌注》把解脱理解为至上神亲近",
+                "summaryZh": "《薄伽梵歌注》在解释归依和至上目标时强调灵魂到达神、服事神和依赖神恩，而不是消失为无差别绝对。",
+                "source": {
+                  "workId": "ramanuja-primary-work",
+                  "locator": "Bhagavad-gītā-bhāṣya, chapters 12 and 18, on devotion, surrender, and attaining the Lord",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ramanuja:problem:003",
+        "titleZh": "解脱为何需要虔信与皈依？",
+        "questionZh": "在罗摩奴阇系统中，知识、行动、虔信和神恩各自扮演什么角色，为什么解脱不能被简化为抽象认识？",
+        "summaryZh": "罗摩奴阇把 jñāna、karma 与 bhakti 组织为面向人格神的实践道路；知识和行动准备灵魂，bhakti 表现为持续爱与专注，prapatti 则强调对神恩的彻底依归。",
+        "themeIds": [
+          "religion",
+          "life_death",
+          "ethics"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "ramanuja:claim:005",
+            "titleZh": "bhakti 是解脱路径的核心实践",
+            "claimZh": "罗摩奴阇把 bhakti 理解为以知识和纪律为基础、面向最高人格神的持续专注与爱，是通向解脱的核心道路。",
+            "explanationZh": "这一路径不是情绪化崇拜，而是建立在对 Brahman 性质、灵魂依附关系和神圣目标的正确认识之上。",
+            "themeIds": [
+              "religion",
+              "life_death",
+              "ethics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "ramanuja:evidence:009",
+                "titleZh": "《薄伽梵歌注》组织 karma、jñāna 与 bhakti 的层次",
+                "summaryZh": "《薄伽梵歌注》把行动、知识和虔信解释为相互关联的实践路径，最终导向对最高神的专一爱与亲近。",
+                "source": {
+                  "workId": "ramanuja-primary-work",
+                  "locator": "Bhagavad-gītā-bhāṣya, chapters 7-12, on knowledge of the Lord and bhakti-yoga",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "ramanuja:evidence:010",
+                "titleZh": "Carman 将罗摩奴阇解脱论置于神学虔信结构中",
+                "summaryZh": "Carman 说明罗摩奴阇的哲学结构不能脱离其神学目标：认识最高神、爱神并在神恩中获得解脱。",
+                "source": {
+                  "workId": "ramanuja-primary-work",
+                  "locator": "Carman, The Theology of Rāmānuja, chapters on devotion, grace, and salvation",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "ramanuja:claim:006",
+            "titleZh": "prapatti 强调对神恩的彻底依归",
+            "claimZh": "罗摩奴阇传统中的 prapatti 或 śaraṇāgati 表明灵魂最终依靠神的恩典与救护，而不是凭自身能力占有解脱。",
+            "explanationZh": "皈依并不取消知识和伦理准备，而是把灵魂的依附性在宗教实践中彻底表达出来；解脱由此呈现为关系性救度。",
+            "themeIds": [
+              "religion",
+              "life_death"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "ramanuja:evidence:011",
+                "titleZh": "《三散文》呈现皈依和神恩主题",
+                "summaryZh": "《三散文》以祈愿和托付形式表达灵魂向 Nārāyaṇa 与 Śrī 的依归，突出神恩、救护和进入神圣居处的愿望。",
+                "source": {
+                  "workId": "ramanuja-primary-work",
+                  "locator": "Gadyatraya, Śaraṇāgati-gadya and Vaikuṇṭha-gadya, sections on surrender and divine grace",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "ramanuja:evidence:012",
+                "titleZh": "《薄伽梵歌注》解释最终归依",
+                "summaryZh": "罗摩奴阇在《薄伽梵歌注》结尾处理完全归依主题，把解脱理解为灵魂对最高神的依靠和神的救护。",
+                "source": {
+                  "workId": "ramanuja-primary-work",
+                  "locator": "Bhagavad-gītā-bhāṣya 18.66, on final surrender to the Lord",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
 }

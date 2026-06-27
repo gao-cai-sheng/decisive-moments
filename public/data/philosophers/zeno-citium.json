@@ -5,12 +5,13 @@
     "en": "Zeno of Citium"
   },
   "life": {
-    "display": "约前 334—前 262",
     "birth": -334,
-    "death": -262
+    "death": -262,
+    "display": "约前 334—前 262"
   },
   "civilization": "ancient_greek",
   "traditions": [
+    "stoicism",
     "ancient_greek_philosophy"
   ],
   "periods": [
@@ -26,17 +27,262 @@
     "形而上学",
     "知识"
   ],
-  "oneLineZh": "芝诺是伦理、形而上学问题谱系中的第一版候选哲人。",
+  "oneLineZh": "斯多葛学派创始人，把自然、理性与德性统一成一种可训练的生活技艺。",
   "influenceWeight": 1,
   "reviewStatus": "draft",
-  "summaryZh": "芝诺是伦理、形而上学问题谱系中的第一版候选哲人。 本条目是第一版结构化资料，已经保留文明、传统、主题、作品和论述字段，正式发布前需要继续核对年代、文本出处和概念表述。",
+  "summaryZh": "斯多葛学派创始人，把自然、理性与德性统一成一种可训练的生活技艺。 本条目以 summary_only 方式整理，重点保留低争议的问题结构、主张和可追溯证据定位。",
   "works": [
     "zeno-citium-primary-work"
   ],
   "sourceNotes": [
     {
-      "label": "draft",
-      "noteZh": "条目需要人工核对作品、年代和概念表述。"
+      "label": "primary-dossier",
+      "noteZh": "本轮采用古代传记、斯多葛/犬儒残篇、后世引述与现代研究交叉定位；不填逐字摘录。"
+    },
+    {
+      "label": "excerpt-status",
+      "noteZh": "全部 evidence 使用 summary_only，locator 保留到作品、卷章或主题段落层级。"
     }
-  ]
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "zeno-citium:problem:001",
+        "titleZh": "宇宙理性如何支撑生活规范？",
+        "questionZh": "早期斯多葛把世界理解为贯穿理性、自然和神性秩序的整体；伦理学由此不是外在规则，而是按自然、按理性而活。",
+        "summaryZh": "早期斯多葛把世界理解为贯穿理性、自然和神性秩序的整体；伦理学由此不是外在规则，而是按自然、按理性而活。",
+        "themeIds": [
+          "metaphysics",
+          "knowledge"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "zeno-citium:claim:001",
+            "titleZh": "自然即理性秩序",
+            "claimZh": "早期斯多葛认为自然不是无序物质集合，而是由 logos、火、气息或命运贯通的有序整体。",
+            "explanationZh": "这使伦理学获得宇宙论背景：人作为理性动物，应把自身判断同整体自然秩序协调。",
+            "themeIds": [
+              "metaphysics",
+              "knowledge"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "zeno-citium:evidence:001",
+                "titleZh": "自然即理性秩序的原典线索",
+                "summaryZh": "早期斯多葛认为自然不是无序物质集合，而是由 logos、火、气息或命运贯通的有序整体。",
+                "source": {
+                  "workId": "zeno-citium-primary-work",
+                  "locator": "Diogenes Laertius VII.87-89 on living according to nature and reason; primary dossier",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "zeno-citium:evidence:002",
+                "titleZh": "自然即理性秩序的接受/研究线索",
+                "summaryZh": "这使伦理学获得宇宙论背景：人作为理性动物，应把自身判断同整体自然秩序协调。",
+                "source": {
+                  "workId": "zeno-citium-primary-work",
+                  "locator": "Diogenes Laertius VII.87-89 on living according to nature and reason; modern interpretive cross-check",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "zeno-citium:claim:002",
+            "titleZh": "神、命运与自然并非分离领域",
+            "claimZh": "斯多葛传统常把神、自然、命运和理性秩序作高度同一化理解。",
+            "explanationZh": "这种同一化说明其宗教语言与自然哲学并行，核心是世界可理解且可顺从。",
+            "themeIds": [
+              "metaphysics",
+              "knowledge"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "zeno-citium:evidence:003",
+                "titleZh": "神、命运与自然并非分离领域的原典线索",
+                "summaryZh": "斯多葛传统常把神、自然、命运和理性秩序作高度同一化理解。",
+                "source": {
+                  "workId": "zeno-citium-primary-work",
+                  "locator": "Cicero, De Natura Deorum II on Stoic providence and divine reason; Aetius fragments on Stoic physics; primary dossier",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "zeno-citium:evidence:004",
+                "titleZh": "神、命运与自然并非分离领域的接受/研究线索",
+                "summaryZh": "这种同一化说明其宗教语言与自然哲学并行，核心是世界可理解且可顺从。",
+                "source": {
+                  "workId": "zeno-citium-primary-work",
+                  "locator": "Cicero, De Natura Deorum II on Stoic providence and divine reason; Aetius fragments on Stoic physics; modern interpretive cross-check",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "zeno-citium:problem:002",
+        "titleZh": "德性为何足以幸福？",
+        "questionZh": "斯多葛伦理把善限定在德性和正确理性活动中，把财富、健康、名声等视为非真正善恶的外物，从而建立抗命运冲击的生活方案。",
+        "summaryZh": "斯多葛伦理把善限定在德性和正确理性活动中，把财富、健康、名声等视为非真正善恶的外物，从而建立抗命运冲击的生活方案。",
+        "themeIds": [
+          "ethics",
+          "freedom"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "zeno-citium:claim:003",
+            "titleZh": "德性是唯一真正的善",
+            "claimZh": "早期斯多葛主张只有德性本身是善，恶在于灵魂的错误状态，外在遭遇不构成真正的善恶。",
+            "explanationZh": "这把幸福从财富、地位和运气中移出，转向判断、选择和性格训练。",
+            "themeIds": [
+              "ethics",
+              "freedom"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "zeno-citium:evidence:005",
+                "titleZh": "德性是唯一真正的善的原典线索",
+                "summaryZh": "早期斯多葛主张只有德性本身是善，恶在于灵魂的错误状态，外在遭遇不构成真正的善恶。",
+                "source": {
+                  "workId": "zeno-citium-primary-work",
+                  "locator": "Diogenes Laertius VII.94-103 on Stoic goods, evils and indifferents; primary dossier",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "zeno-citium:evidence:006",
+                "titleZh": "德性是唯一真正的善的接受/研究线索",
+                "summaryZh": "这把幸福从财富、地位和运气中移出，转向判断、选择和性格训练。",
+                "source": {
+                  "workId": "zeno-citium-primary-work",
+                  "locator": "Diogenes Laertius VII.94-103 on Stoic goods, evils and indifferents; modern interpretive cross-check",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "zeno-citium:claim:004",
+            "titleZh": "合乎自然的生活需要训练欲望与判断",
+            "claimZh": "斯多葛不是简单压抑情感，而是把激情理解为错误判断所造成的灵魂扰动。",
+            "explanationZh": "情感训练因此成为认识训练：纠正对外物价值的误判，才能获得稳定生活。",
+            "themeIds": [
+              "ethics",
+              "freedom"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "zeno-citium:evidence:007",
+                "titleZh": "合乎自然的生活需要训练欲望与判断的原典线索",
+                "summaryZh": "斯多葛不是简单压抑情感，而是把激情理解为错误判断所造成的灵魂扰动。",
+                "source": {
+                  "workId": "zeno-citium-primary-work",
+                  "locator": "Stobaeus, Eclogae II on passions as judgments; Cicero, Tusculan Disputations IV on Stoic passions; primary dossier",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "zeno-citium:evidence:008",
+                "titleZh": "合乎自然的生活需要训练欲望与判断的接受/研究线索",
+                "summaryZh": "情感训练因此成为认识训练：纠正对外物价值的误判，才能获得稳定生活。",
+                "source": {
+                  "workId": "zeno-citium-primary-work",
+                  "locator": "Stobaeus, Eclogae II on passions as judgments; Cicero, Tusculan Disputations IV on Stoic passions; modern interpretive cross-check",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "zeno-citium:problem:003",
+        "titleZh": "命运中的行动自由如何可能？",
+        "questionZh": "早期斯多葛同时承认宇宙命运和人的责任，通过 assent、冲动和理性判断解释人在必然秩序中的主动性。",
+        "summaryZh": "早期斯多葛同时承认宇宙命运和人的责任，通过 assent、冲动和理性判断解释人在必然秩序中的主动性。",
+        "themeIds": [
+          "freedom",
+          "ethics"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "zeno-citium:claim:005",
+            "titleZh": "同意是伦理责任的关键环节",
+            "claimZh": "斯多葛把印象、同意和冲动区分开来，使人能够对表象作出理性接受或拒绝。",
+            "explanationZh": "人在命运中不能控制一切事件，但能训练自己如何判断事件、如何行动。",
+            "themeIds": [
+              "freedom",
+              "ethics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "zeno-citium:evidence:009",
+                "titleZh": "同意是伦理责任的关键环节的原典线索",
+                "summaryZh": "斯多葛把印象、同意和冲动区分开来，使人能够对表象作出理性接受或拒绝。",
+                "source": {
+                  "workId": "zeno-citium-primary-work",
+                  "locator": "Sextus Empiricus, Against the Logicians and Epictetus' later summaries on impression and assent; primary dossier",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "zeno-citium:evidence:010",
+                "titleZh": "同意是伦理责任的关键环节的接受/研究线索",
+                "summaryZh": "人在命运中不能控制一切事件，但能训练自己如何判断事件、如何行动。",
+                "source": {
+                  "workId": "zeno-citium-primary-work",
+                  "locator": "Sextus Empiricus, Against the Logicians and Epictetus' later summaries on impression and assent; modern interpretive cross-check",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "zeno-citium:claim:006",
+            "titleZh": "外物可被偏好但不构成幸福根基",
+            "claimZh": "斯多葛承认可取与不可取的 indifferent，用来解释健康、财富等可被合理选择，却不决定幸福。",
+            "explanationZh": "这避免把斯多葛伦理误解成完全漠视生活条件；它要求在条件中作理性选择。",
+            "themeIds": [
+              "freedom",
+              "ethics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "zeno-citium:evidence:011",
+                "titleZh": "外物可被偏好但不构成幸福根基的原典线索",
+                "summaryZh": "斯多葛承认可取与不可取的 indifferent，用来解释健康、财富等可被合理选择，却不决定幸福。",
+                "source": {
+                  "workId": "zeno-citium-primary-work",
+                  "locator": "Diogenes Laertius VII.104-107 on preferred and dispreferred indifferents; primary dossier",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "zeno-citium:evidence:012",
+                "titleZh": "外物可被偏好但不构成幸福根基的接受/研究线索",
+                "summaryZh": "这避免把斯多葛伦理误解成完全漠视生活条件；它要求在条件中作理性选择。",
+                "source": {
+                  "workId": "zeno-citium-primary-work",
+                  "locator": "Diogenes Laertius VII.104-107 on preferred and dispreferred indifferents; modern interpretive cross-check",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
 }

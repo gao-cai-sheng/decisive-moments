@@ -1,0 +1,51 @@
+{
+  "id": "chrysippus",
+  "names": {"zh": "克律西波斯", "en": "Chrysippus"},
+  "life": {"birth": -279, "death": -206, "display": "约前 279—前 206"},
+  "civilization": "ancient_greek",
+  "traditions": ["stoicism", "ancient_greek_philosophy"],
+  "periods": ["first_release"],
+  "themes": ["ethics", "metaphysics", "knowledge"],
+  "keywordsZh": ["伦理", "形而上学", "知识"],
+  "oneLineZh": "系统化早期斯多葛逻辑、物理学和伦理学，使斯多葛主义成为严整哲学体系。",
+  "influenceWeight": 1,
+  "reviewStatus": "draft",
+  "summaryZh": "系统化早期斯多葛逻辑、物理学和伦理学，使斯多葛主义成为严整哲学体系。本条目以 summary_only 方式整理，重点保留低争议的问题结构、主张和可追溯证据定位。",
+  "works": ["chrysippus-primary-work"],
+  "sourceNotes": [
+    {"label": "primary-dossier", "noteZh": "本轮采用第欧根尼·拉尔修、SVF 残篇、西塞罗、普鲁塔克、塞克斯都等见证交叉定位；不填逐字摘录。"},
+    {"label": "excerpt-status", "noteZh": "全部 evidence 使用 summary_only，locator 保留到作品、卷章或主题段落层级。"}
+  ],
+  "thoughtSystem": {"problems": [
+    {"id": "chrysippus:problem:001", "titleZh": "逻辑如何成为哲学体系的骨架？", "questionZh": "克律西波斯为什么大规模发展命题逻辑、条件句和论证形式，并把逻辑放进斯多葛整体哲学？", "summaryZh": "克律西波斯把逻辑发展为判断、论证和知识防御的工具，使斯多葛哲学能够系统回应怀疑论和学派竞争。", "themeIds": ["knowledge", "language"], "weight": 3, "claims": [
+      {"id": "chrysippus:claim:001", "titleZh": "命题逻辑是斯多葛知识论工具", "claimZh": "克律西波斯发展条件命题、析取命题和不可证明式，使斯多葛逻辑超出亚里士多德三段论范围。", "explanationZh": "这套逻辑服务于论证有效性、表象判断和学派争辩，不是孤立技巧。", "themeIds": ["knowledge", "language"], "weight": 3, "evidence": [
+        {"id": "chrysippus:evidence:001", "titleZh": "第欧根尼·拉尔修的斯多葛逻辑概述", "summaryZh": "第七卷保存了斯多葛关于命题、条件句、论证和不可证明式的概要。", "source": {"workId": "chrysippus-primary-work", "locator": "Diogenes Laertius VII.43-83 on Stoic logic, propositions and indemonstrables", "excerptStatus": "summary_only"}},
+        {"id": "chrysippus:evidence:002", "titleZh": "塞克斯都对斯多葛逻辑的见证", "summaryZh": "塞克斯都在批判中保存大量关于斯多葛符号、条件句和推理标准的材料。", "source": {"workId": "chrysippus-primary-work", "locator": "Sextus Empiricus, Against the Logicians on Stoic propositions, signs and conditionals", "excerptStatus": "summary_only"}}
+      ]},
+      {"id": "chrysippus:claim:002", "titleZh": "系统化使斯多葛主义获得抗辩能力", "claimZh": "克律西波斯通过大量著作和论证重构，使芝诺、克里安忒斯的学说变成可防守的体系。", "explanationZh": "古代传统所谓“若无克律西波斯，便无斯多葛”正体现其系统化地位。", "themeIds": ["knowledge", "ethics"], "weight": 2, "evidence": [
+        {"id": "chrysippus:evidence:003", "titleZh": "古代对克律西波斯著述量的记载", "summaryZh": "第欧根尼·拉尔修记录克律西波斯著作极多，并在逻辑、伦理和物理领域奠定学派论证。", "source": {"workId": "chrysippus-primary-work", "locator": "Diogenes Laertius VII.179-202 on Chrysippus' life, writings and intellectual authority", "excerptStatus": "summary_only"}},
+        {"id": "chrysippus:evidence:004", "titleZh": "现代研究对系统化角色的定位", "summaryZh": "现代斯多葛研究普遍把克律西波斯视为早期斯多葛理论系统化的核心人物。", "source": {"workId": "chrysippus-primary-work", "locator": "Modern scholarship on Chrysippus as systematizer of early Stoicism", "excerptStatus": "summary_only"}}
+      ]}
+    ]},
+    {"id": "chrysippus:problem:002", "titleZh": "命运、因果与责任如何并存？", "questionZh": "克律西波斯如何在普遍因果和命运框架中保存人的同意、冲动和责任？", "summaryZh": "克律西波斯的相容论区分外部原因与主体状态，说明命运决定事件链条，但人的性格和同意仍参与行动生成。", "themeIds": ["freedom", "metaphysics"], "weight": 3, "claims": [
+      {"id": "chrysippus:claim:003", "titleZh": "圆柱比喻区分外因与内因", "claimZh": "克律西波斯用圆柱被推动后按自身形状滚动的比喻，解释外部刺激与主体内在状态共同产生行动。", "explanationZh": "这为斯多葛责任论提供结构：外部印象属于命运，人的同意和性格也是因果链中的真实环节。", "themeIds": ["freedom", "metaphysics"], "weight": 3, "evidence": [
+        {"id": "chrysippus:evidence:005", "titleZh": "西塞罗保存圆柱比喻", "summaryZh": "西塞罗记述克律西波斯用圆柱或圆锥滚动说明行动既受推动又依自身性质展开。", "source": {"workId": "chrysippus-primary-work", "locator": "Cicero, De Fato 41-45 on Chrysippus' cylinder/cone analogy and fate", "excerptStatus": "summary_only"}},
+        {"id": "chrysippus:evidence:006", "titleZh": "相容论解释的研究线索", "summaryZh": "现代研究通常把该比喻解释为早期斯多葛保存责任的相容论方案。", "source": {"workId": "chrysippus-primary-work", "locator": "Modern scholarship on Chrysippus, fate, co-fated events and compatibilism", "excerptStatus": "summary_only"}}
+      ]},
+      {"id": "chrysippus:claim:004", "titleZh": "同意把认识论和伦理学连接起来", "claimZh": "在克律西波斯体系中，印象是否被同意既是认识问题，也是道德责任问题。", "explanationZh": "错误激情来自错误判断；正确同意则让行动与理性和自然一致。", "themeIds": ["knowledge", "ethics"], "weight": 2, "evidence": [
+        {"id": "chrysippus:evidence:007", "titleZh": "斯多葛表象与同意材料", "summaryZh": "古代材料把表象、同意、冲动和行动串联起来，显示伦理行动依赖判断结构。", "source": {"workId": "chrysippus-primary-work", "locator": "Diogenes Laertius VII and Sextus Empiricus on impression, assent, impulse and Stoic epistemology", "excerptStatus": "summary_only"}},
+        {"id": "chrysippus:evidence:008", "titleZh": "激情作为判断的传统", "summaryZh": "斯多葛传统把激情分析为价值判断错误，后世资料常把该理论归入克律西波斯系统化。", "source": {"workId": "chrysippus-primary-work", "locator": "Galen, On the Doctrines of Hippocrates and Plato, and Stobaeus on Chrysippus' theory of passions", "excerptStatus": "summary_only"}}
+      ]}
+    ]},
+    {"id": "chrysippus:problem:003", "titleZh": "物理学和伦理学为何必须互相支撑？", "questionZh": "克律西波斯如何把宇宙有机体、神意、命运、德性和情感治疗整合成一个整体系统？", "summaryZh": "克律西波斯不是只做逻辑技术，而是把逻辑、物理和伦理连成体系：世界有理性秩序，人通过正确判断和德性参与这一秩序。", "themeIds": ["metaphysics", "ethics"], "weight": 2, "claims": [
+      {"id": "chrysippus:claim:005", "titleZh": "宇宙是有理性秩序的整体", "claimZh": "克律西波斯继承并系统化斯多葛关于火、气息、神意和周期性宇宙的物理学。", "explanationZh": "这为伦理学提供背景：按自然生活意味着按世界理性结构生活。", "themeIds": ["metaphysics", "ethics"], "weight": 3, "evidence": [
+        {"id": "chrysippus:evidence:009", "titleZh": "斯多葛物理学残篇", "summaryZh": "Aetius、普鲁塔克等资料保存了关于斯多葛神意、元素、气息和宇宙周期的见证。", "source": {"workId": "chrysippus-primary-work", "locator": "Aetius and Plutarch testimonia in SVF II on Chrysippus' physics, pneuma and providence", "excerptStatus": "summary_only"}},
+        {"id": "chrysippus:evidence:010", "titleZh": "西塞罗对斯多葛神意论的转述", "summaryZh": "西塞罗保存了斯多葛关于世界理性、目的性秩序和神意治理的系统论证。", "source": {"workId": "chrysippus-primary-work", "locator": "Cicero, De Natura Deorum II on Stoic providential cosmology", "excerptStatus": "summary_only"}}
+      ]},
+      {"id": "chrysippus:claim:006", "titleZh": "激情治疗依赖整体哲学", "claimZh": "克律西波斯的激情理论把伦理病症归结为判断错误，并通过逻辑辨析和自然观校正欲望。", "explanationZh": "因此斯多葛治疗不是单纯意志压制，而是以逻辑、知识和宇宙观共同重塑价值判断。", "themeIds": ["ethics", "knowledge"], "weight": 2, "evidence": [
+        {"id": "chrysippus:evidence:011", "titleZh": "盖伦保存激情理论争论", "summaryZh": "盖伦批评并保存了克律西波斯关于灵魂、激情和判断的理论材料。", "source": {"workId": "chrysippus-primary-work", "locator": "Galen, On the Doctrines of Hippocrates and Plato, books IV-V on Chrysippus and passions", "excerptStatus": "summary_only"}},
+        {"id": "chrysippus:evidence:012", "titleZh": "斯多葛治疗哲学研究", "summaryZh": "现代研究把克律西波斯激情理论视为斯多葛伦理心理学和治疗实践的核心。", "source": {"workId": "chrysippus-primary-work", "locator": "Modern scholarship on Chrysippus' psychology, passions and Stoic therapy", "excerptStatus": "summary_only"}}
+      ]}
+    ]}
+  ]}
+}

@@ -1,0 +1,1103 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-06-26",
+  "total": 100,
+  "complete": 5,
+  "stub": 95,
+  "civilizations": [
+    {
+      "civilization": "ancient_greek",
+      "civilizationZh": "古希腊",
+      "count": 10,
+      "philosophers": [
+        {
+          "id": "thales",
+          "zh": "泰勒斯",
+          "en": "Thales",
+          "life": "约前 624—前 546",
+          "traditions": [
+            "ancient_greek_philosophy"
+          ],
+          "status": "stub"
+        },
+        {
+          "id": "heraclitus",
+          "zh": "赫拉克利特",
+          "en": "Heraclitus",
+          "life": "约前 535—前 475",
+          "traditions": [
+            "ancient_greek_philosophy"
+          ],
+          "status": "stub"
+        },
+        {
+          "id": "parmenides",
+          "zh": "巴门尼德",
+          "en": "Parmenides",
+          "life": "约前 515—前 450",
+          "traditions": [
+            "ancient_greek_philosophy"
+          ],
+          "status": "stub"
+        },
+        {
+          "id": "socrates",
+          "zh": "苏格拉底",
+          "en": "Socrates",
+          "life": "前 469—前 399",
+          "traditions": [
+            "ancient_greek_philosophy"
+          ],
+          "status": "stub"
+        },
+        {
+          "id": "plato",
+          "zh": "柏拉图",
+          "en": "Plato",
+          "life": "约公元前 428—前 348",
+          "traditions": [
+            "platonism"
+          ],
+          "status": "complete"
+        },
+        {
+          "id": "aristotle",
+          "zh": "亚里士多德",
+          "en": "Aristotle",
+          "life": "前 384—前 322",
+          "traditions": [
+            "peripatetic"
+          ],
+          "status": "stub"
+        },
+        {
+          "id": "epicurus",
+          "zh": "伊壁鸠鲁",
+          "en": "Epicurus",
+          "life": "前 341—前 270",
+          "traditions": [
+            "ancient_greek_philosophy"
+          ],
+          "status": "stub"
+        },
+        {
+          "id": "zeno-citium",
+          "zh": "芝诺",
+          "en": "Zeno of Citium",
+          "life": "约前 334—前 262",
+          "traditions": [
+            "ancient_greek_philosophy"
+          ],
+          "status": "stub"
+        },
+        {
+          "id": "plotinus",
+          "zh": "普罗提诺",
+          "en": "Plotinus",
+          "life": "204—270",
+          "traditions": [
+            "ancient_greek_philosophy"
+          ],
+          "status": "stub"
+        },
+        {
+          "id": "hypatia",
+          "zh": "希帕提娅",
+          "en": "Hypatia",
+          "life": "约360—415",
+          "traditions": [
+            "ancient_greek_philosophy"
+          ],
+          "status": "stub"
+        }
+      ]
+    },
+    {
+      "civilization": "latin_christian",
+      "civilizationZh": "拉丁基督教（中世纪欧洲）",
+      "count": 5,
+      "philosophers": [
+        {
+          "id": "augustine",
+          "zh": "奥古斯丁",
+          "en": "Augustine of Hippo",
+          "life": "354—430",
+          "traditions": [
+            "scholasticism"
+          ],
+          "status": "stub"
+        },
+        {
+          "id": "boethius",
+          "zh": "波爱修斯",
+          "en": "Boethius",
+          "life": "477—524",
+          "traditions": [
+            "scholasticism"
+          ],
+          "status": "stub"
+        },
+        {
+          "id": "anselm",
+          "zh": "安瑟尔谟",
+          "en": "Anselm of Canterbury",
+          "life": "1033—1109",
+          "traditions": [
+            "scholasticism"
+          ],
+          "status": "stub"
+        },
+        {
+          "id": "aquinas",
+          "zh": "托马斯·阿奎那",
+          "en": "Thomas Aquinas",
+          "life": "1225—1274",
+          "traditions": [
+            "scholasticism"
+          ],
+          "status": "stub"
+        },
+        {
+          "id": "ockham",
+          "zh": "奥卡姆",
+          "en": "William of Ockham",
+          "life": "约1287—1347",
+          "traditions": [
+            "scholasticism"
+          ],
+          "status": "stub"
+        }
+      ]
+    },
+    {
+      "civilization": "european_modern",
+      "civilizationZh": "近现代欧洲",
+      "count": 34,
+      "philosophers": [
+        {
+          "id": "erasmus",
+          "zh": "伊拉斯谟",
+          "en": "Erasmus",
+          "life": "1466—1536",
+          "traditions": [
+            "modern_european_philosophy"
+          ],
+          "status": "stub"
+        },
+        {
+          "id": "machiavelli",
+          "zh": "马基雅维利",
+          "en": "Niccolo Machiavelli",
+          "life": "1469—1527",
+          "traditions": [
+            "modern_european_philosophy"
+          ],
+          "status": "stub"
+        },
+        {
+          "id": "montaigne",
+          "zh": "蒙田",
+          "en": "Michel de Montaigne",
+          "life": "1533—1592",
+          "traditions": [
+            "modern_european_philosophy"
+          ],
+          "status": "stub"
+        },
+        {
+          "id": "bacon",
+          "zh": "弗朗西斯·培根",
+          "en": "Francis Bacon",
+          "life": "1561—1626",
+          "traditions": [
+            "modern_european_philosophy"
+          ],
+          "status": "stub"
+        },
+        {
+          "id": "hobbes",
+          "zh": "霍布斯",
+          "en": "Thomas Hobbes",
+          "life": "1588—1679",
+          "traditions": [
+            "modern_european_philosophy"
+          ],
+          "status": "stub"
+        },
+        {
+          "id": "descartes",
+          "zh": "笛卡尔",
+          "en": "Rene Descartes",
+          "life": "1596—1650",
+          "traditions": [
+            "modern_european_philosophy"
+          ],
+          "status": "stub"
+        },
+        {
+          "id": "locke",
+          "zh": "洛克",
+          "en": "John Locke",
+          "life": "1632—1704",
+          "traditions": [
+            "modern_european_philosophy"
+          ],
+          "status": "stub"
+        },
+        {
+          "id": "spinoza",
+          "zh": "斯宾诺莎",
+          "en": "Baruch Spinoza",
+          "life": "1632—1677",
+          "traditions": [
+            "modern_european_philosophy"
+          ],
+          "status": "stub"
+        },
+        {
+          "id": "leibniz",
+          "zh": "莱布尼茨",
+          "en": "G. W. Leibniz",
+          "life": "1646—1716",
+          "traditions": [
+            "modern_european_philosophy"
+          ],
+          "status": "stub"
+        },
+        {
+          "id": "hume",
+          "zh": "休谟",
+          "en": "David Hume",
+          "life": "1711—1776",
+          "traditions": [
+            "modern_european_philosophy"
+          ],
+          "status": "stub"
+        },
+        {
+          "id": "rousseau",
+          "zh": "卢梭",
+          "en": "Jean-Jacques Rousseau",
+          "life": "1712—1778",
+          "traditions": [
+            "modern_european_philosophy"
+          ],
+          "status": "stub"
+        },
+        {
+          "id": "kant",
+          "zh": "康德",
+          "en": "Immanuel Kant",
+          "life": "1724—1804",
+          "traditions": [
+            "critical_philosophy"
+          ],
+          "status": "complete"
+        },
+        {
+          "id": "hegel",
+          "zh": "黑格尔",
+          "en": "G. W. F. Hegel",
+          "life": "1770—1831",
+          "traditions": [
+            "modern_european_philosophy"
+          ],
+          "status": "stub"
+        },
+        {
+          "id": "schopenhauer",
+          "zh": "叔本华",
+          "en": "Arthur Schopenhauer",
+          "life": "1788—1860",
+          "traditions": [
+            "modern_european_philosophy"
+          ],
+          "status": "stub"
+        },
+        {
+          "id": "mill",
+          "zh": "约翰·密尔",
+          "en": "John Stuart Mill",
+          "life": "1806—1873",
+          "traditions": [
+            "modern_european_philosophy"
+          ],
+          "status": "stub"
+        },
+        {
+          "id": "kierkegaard",
+          "zh": "克尔凯郭尔",
+          "en": "Soren Kierkegaard",
+          "life": "1813—1855",
+          "traditions": [
+            "modern_european_philosophy"
+          ],
+          "status": "stub"
+        },
+        {
+          "id": "marx",
+          "zh": "马克思",
+          "en": "Karl Marx",
+          "life": "1818—1883",
+          "traditions": [
+            "modern_european_philosophy"
+          ],
+          "status": "stub"
+        },
+        {
+          "id": "nietzsche",
+          "zh": "尼采",
+          "en": "Friedrich Nietzsche",
+          "life": "1844—1900",
+          "traditions": [
+            "modern_european_philosophy"
+          ],
+          "status": "complete"
+        },
+        {
+          "id": "frege",
+          "zh": "弗雷格",
+          "en": "Gottlob Frege",
+          "life": "1848—1925",
+          "traditions": [
+            "modern_european_philosophy"
+          ],
+          "status": "stub"
+        },
+        {
+          "id": "bergson",
+          "zh": "柏格森",
+          "en": "Henri Bergson",
+          "life": "1859—1941",
+          "traditions": [
+            "modern_european_philosophy"
+          ],
+          "status": "stub"
+        },
+        {
+          "id": "husserl",
+          "zh": "胡塞尔",
+          "en": "Edmund Husserl",
+          "life": "1859—1938",
+          "traditions": [
+            "modern_european_philosophy"
+          ],
+          "status": "stub"
+        },
+        {
+          "id": "whitehead",
+          "zh": "怀特海",
+          "en": "Alfred North Whitehead",
+          "life": "1861—1947",
+          "traditions": [
+            "modern_european_philosophy"
+          ],
+          "status": "stub"
+        },
+        {
+          "id": "russell",
+          "zh": "罗素",
+          "en": "Bertrand Russell",
+          "life": "1872—1970",
+          "traditions": [
+            "modern_european_philosophy"
+          ],
+          "status": "stub"
+        },
+        {
+          "id": "heidegger",
+          "zh": "海德格尔",
+          "en": "Martin Heidegger",
+          "life": "1889—1976",
+          "traditions": [
+            "modern_european_philosophy"
+          ],
+          "status": "stub"
+        },
+        {
+          "id": "wittgenstein",
+          "zh": "维特根斯坦",
+          "en": "Ludwig Wittgenstein",
+          "life": "1889—1951",
+          "traditions": [
+            "modern_european_philosophy"
+          ],
+          "status": "stub"
+        },
+        {
+          "id": "carnap",
+          "zh": "卡尔纳普",
+          "en": "Rudolf Carnap",
+          "life": "1891—1970",
+          "traditions": [
+            "modern_european_philosophy"
+          ],
+          "status": "stub"
+        },
+        {
+          "id": "sartre",
+          "zh": "萨特",
+          "en": "Jean-Paul Sartre",
+          "life": "1905—1980",
+          "traditions": [
+            "modern_european_philosophy"
+          ],
+          "status": "stub"
+        },
+        {
+          "id": "arendt",
+          "zh": "阿伦特",
+          "en": "Hannah Arendt",
+          "life": "1906—1975",
+          "traditions": [
+            "modern_european_philosophy"
+          ],
+          "status": "stub"
+        },
+        {
+          "id": "beauvoir",
+          "zh": "波伏娃",
+          "en": "Simone de Beauvoir",
+          "life": "1908—1986",
+          "traditions": [
+            "modern_european_philosophy"
+          ],
+          "status": "stub"
+        },
+        {
+          "id": "merleau-ponty",
+          "zh": "梅洛-庞蒂",
+          "en": "Maurice Merleau-Ponty",
+          "life": "1908—1961",
+          "traditions": [
+            "modern_european_philosophy"
+          ],
+          "status": "stub"
+        },
+        {
+          "id": "camus",
+          "zh": "加缪",
+          "en": "Albert Camus",
+          "life": "1913—1960",
+          "traditions": [
+            "modern_european_philosophy"
+          ],
+          "status": "stub"
+        },
+        {
+          "id": "foucault",
+          "zh": "福柯",
+          "en": "Michel Foucault",
+          "life": "1926—1984",
+          "traditions": [
+            "modern_european_philosophy"
+          ],
+          "status": "stub"
+        },
+        {
+          "id": "habermas",
+          "zh": "哈贝马斯",
+          "en": "Jurgen Habermas",
+          "life": "1929 年生",
+          "traditions": [
+            "modern_european_philosophy"
+          ],
+          "status": "stub"
+        },
+        {
+          "id": "derrida",
+          "zh": "德里达",
+          "en": "Jacques Derrida",
+          "life": "1930—2004",
+          "traditions": [
+            "modern_european_philosophy"
+          ],
+          "status": "stub"
+        }
+      ]
+    },
+    {
+      "civilization": "american",
+      "civilizationZh": "美国",
+      "count": 4,
+      "philosophers": [
+        {
+          "id": "dewey",
+          "zh": "杜威",
+          "en": "John Dewey",
+          "life": "1859—1952",
+          "traditions": [
+            "american_philosophy"
+          ],
+          "status": "stub"
+        },
+        {
+          "id": "quine",
+          "zh": "蒯因",
+          "en": "W. V. O. Quine",
+          "life": "1908—2000",
+          "traditions": [
+            "american_philosophy"
+          ],
+          "status": "stub"
+        },
+        {
+          "id": "rawls",
+          "zh": "罗尔斯",
+          "en": "John Rawls",
+          "life": "1921—2002",
+          "traditions": [
+            "liberalism",
+            "political_philosophy"
+          ],
+          "status": "stub"
+        },
+        {
+          "id": "nozick",
+          "zh": "诺齐克",
+          "en": "Robert Nozick",
+          "life": "1938—2002",
+          "traditions": [
+            "american_philosophy"
+          ],
+          "status": "stub"
+        }
+      ]
+    },
+    {
+      "civilization": "chinese",
+      "civilizationZh": "中国",
+      "count": 10,
+      "philosophers": [
+        {
+          "id": "laozi",
+          "zh": "老子",
+          "en": "Laozi",
+          "life": "约前 571—前 471",
+          "traditions": [
+            "daoism"
+          ],
+          "status": "stub"
+        },
+        {
+          "id": "confucius",
+          "zh": "孔子",
+          "en": "Confucius",
+          "life": "约公元前 551—前 479",
+          "traditions": [
+            "confucianism"
+          ],
+          "status": "complete"
+        },
+        {
+          "id": "mozi",
+          "zh": "墨子",
+          "en": "Mozi",
+          "life": "约前 470—前 391",
+          "traditions": [
+            "chinese_philosophy"
+          ],
+          "status": "stub"
+        },
+        {
+          "id": "mencius",
+          "zh": "孟子",
+          "en": "Mencius",
+          "life": "约前 372—前 289",
+          "traditions": [
+            "chinese_philosophy"
+          ],
+          "status": "stub"
+        },
+        {
+          "id": "zhuangzi",
+          "zh": "庄子",
+          "en": "Zhuangzi",
+          "life": "约前 369—前 286",
+          "traditions": [
+            "daoism"
+          ],
+          "status": "stub"
+        },
+        {
+          "id": "xunzi",
+          "zh": "荀子",
+          "en": "Xunzi",
+          "life": "约前 310—前 235",
+          "traditions": [
+            "chinese_philosophy"
+          ],
+          "status": "stub"
+        },
+        {
+          "id": "zhu-xi",
+          "zh": "朱熹",
+          "en": "Zhu Xi",
+          "life": "1130—1200",
+          "traditions": [
+            "chinese_philosophy"
+          ],
+          "status": "stub"
+        },
+        {
+          "id": "wang-yangming",
+          "zh": "王阳明",
+          "en": "Wang Yangming",
+          "life": "1472—1529",
+          "traditions": [
+            "chinese_philosophy"
+          ],
+          "status": "stub"
+        },
+        {
+          "id": "hu-shi",
+          "zh": "胡适",
+          "en": "Hu Shih",
+          "life": "1891—1962",
+          "traditions": [
+            "chinese_philosophy"
+          ],
+          "status": "stub"
+        },
+        {
+          "id": "liang-shuming",
+          "zh": "梁漱溟",
+          "en": "Liang Shuming",
+          "life": "1893—1988",
+          "traditions": [
+            "chinese_philosophy"
+          ],
+          "status": "stub"
+        }
+      ]
+    },
+    {
+      "civilization": "indian",
+      "civilizationZh": "印度",
+      "count": 10,
+      "philosophers": [
+        {
+          "id": "mahavira",
+          "zh": "摩诃毗罗",
+          "en": "Mahavira",
+          "life": "约前 599—前 527",
+          "traditions": [
+            "indian_philosophy"
+          ],
+          "status": "stub"
+        },
+        {
+          "id": "buddha",
+          "zh": "释迦牟尼",
+          "en": "Gautama Buddha",
+          "life": "约公元前 5 世纪；传统年代多作约前 563 - 前 483，现代研究常采用更晚估计",
+          "traditions": [
+            "early_buddhism",
+            "indian_philosophy",
+            "sramana_tradition"
+          ],
+          "status": "complete"
+        },
+        {
+          "id": "nagarjuna",
+          "zh": "龙树",
+          "en": "Nagarjuna",
+          "life": "约150—250",
+          "traditions": [
+            "indian_philosophy"
+          ],
+          "status": "stub"
+        },
+        {
+          "id": "vasubandhu",
+          "zh": "世亲",
+          "en": "Vasubandhu",
+          "life": "约400—480",
+          "traditions": [
+            "indian_philosophy"
+          ],
+          "status": "stub"
+        },
+        {
+          "id": "adi-shankara",
+          "zh": "商羯罗",
+          "en": "Adi Shankara",
+          "life": "约788—820",
+          "traditions": [
+            "indian_philosophy"
+          ],
+          "status": "stub"
+        },
+        {
+          "id": "ramanuja",
+          "zh": "罗摩奴阇",
+          "en": "Ramanuja",
+          "life": "1017—1137",
+          "traditions": [
+            "indian_philosophy"
+          ],
+          "status": "stub"
+        },
+        {
+          "id": "tagore",
+          "zh": "泰戈尔",
+          "en": "Rabindranath Tagore",
+          "life": "1861—1941",
+          "traditions": [
+            "indian_philosophy"
+          ],
+          "status": "stub"
+        },
+        {
+          "id": "gandhi",
+          "zh": "甘地",
+          "en": "M. K. Gandhi",
+          "life": "1869—1948",
+          "traditions": [
+            "indian_philosophy"
+          ],
+          "status": "stub"
+        },
+        {
+          "id": "ambedkar",
+          "zh": "安贝德卡尔",
+          "en": "B. R. Ambedkar",
+          "life": "1891—1956",
+          "traditions": [
+            "indian_philosophy"
+          ],
+          "status": "stub"
+        },
+        {
+          "id": "krishnamurti",
+          "zh": "克里希那穆提",
+          "en": "Jiddu Krishnamurti",
+          "life": "1895—1986",
+          "traditions": [
+            "indian_philosophy"
+          ],
+          "status": "stub"
+        }
+      ]
+    },
+    {
+      "civilization": "japanese",
+      "civilizationZh": "日本",
+      "count": 3,
+      "philosophers": [
+        {
+          "id": "dogen",
+          "zh": "道元",
+          "en": "Dogen",
+          "life": "1200—1253",
+          "traditions": [
+            "japanese_philosophy"
+          ],
+          "status": "stub"
+        },
+        {
+          "id": "nishida",
+          "zh": "西田几多郎",
+          "en": "Nishida Kitaro",
+          "life": "1870—1945",
+          "traditions": [
+            "japanese_philosophy"
+          ],
+          "status": "stub"
+        },
+        {
+          "id": "watsuji",
+          "zh": "和辻哲郎",
+          "en": "Watsuji Tetsuro",
+          "life": "1889—1960",
+          "traditions": [
+            "japanese_philosophy"
+          ],
+          "status": "stub"
+        }
+      ]
+    },
+    {
+      "civilization": "korean",
+      "civilizationZh": "朝鲜／韩国",
+      "count": 2,
+      "philosophers": [
+        {
+          "id": "toegye",
+          "zh": "退溪李滉",
+          "en": "Yi Hwang",
+          "life": "1501—1570",
+          "traditions": [
+            "korean_confucianism"
+          ],
+          "status": "stub"
+        },
+        {
+          "id": "yulgok",
+          "zh": "栗谷李珥",
+          "en": "Yi I",
+          "life": "1536—1584",
+          "traditions": [
+            "korean_confucianism"
+          ],
+          "status": "stub"
+        }
+      ]
+    },
+    {
+      "civilization": "islamic",
+      "civilizationZh": "伊斯兰",
+      "count": 6,
+      "philosophers": [
+        {
+          "id": "al-farabi",
+          "zh": "法拉比",
+          "en": "Al-Farabi",
+          "life": "约872—950",
+          "traditions": [
+            "islamic_philosophy"
+          ],
+          "status": "stub"
+        },
+        {
+          "id": "ibn-sina",
+          "zh": "伊本·西那",
+          "en": "Ibn Sina",
+          "life": "980—1037",
+          "traditions": [
+            "islamic_philosophy"
+          ],
+          "status": "stub"
+        },
+        {
+          "id": "al-ghazali",
+          "zh": "安萨里",
+          "en": "Al-Ghazali",
+          "life": "1058—1111",
+          "traditions": [
+            "islamic_philosophy"
+          ],
+          "status": "stub"
+        },
+        {
+          "id": "ibn-rushd",
+          "zh": "伊本·鲁世德",
+          "en": "Ibn Rushd",
+          "life": "1126—1198",
+          "traditions": [
+            "islamic_philosophy"
+          ],
+          "status": "stub"
+        },
+        {
+          "id": "ibn-khaldun",
+          "zh": "伊本·赫勒敦",
+          "en": "Ibn Khaldun",
+          "life": "1332—1406",
+          "traditions": [
+            "islamic_philosophy"
+          ],
+          "status": "stub"
+        },
+        {
+          "id": "mulla-sadra",
+          "zh": "穆拉·萨德拉",
+          "en": "Mulla Sadra",
+          "life": "1571—1636",
+          "traditions": [
+            "islamic_philosophy"
+          ],
+          "status": "stub"
+        }
+      ]
+    },
+    {
+      "civilization": "jewish",
+      "civilizationZh": "犹太",
+      "count": 4,
+      "philosophers": [
+        {
+          "id": "saadia-gaon",
+          "zh": "萨阿迪亚·高昂",
+          "en": "Saadia Gaon",
+          "life": "882—942",
+          "traditions": [
+            "jewish_philosophy"
+          ],
+          "status": "stub"
+        },
+        {
+          "id": "maimonides",
+          "zh": "迈蒙尼德",
+          "en": "Maimonides",
+          "life": "1138—1204",
+          "traditions": [
+            "jewish_philosophy"
+          ],
+          "status": "stub"
+        },
+        {
+          "id": "buber",
+          "zh": "布伯",
+          "en": "Martin Buber",
+          "life": "1878—1965",
+          "traditions": [
+            "jewish_philosophy"
+          ],
+          "status": "stub"
+        },
+        {
+          "id": "levinas",
+          "zh": "列维纳斯",
+          "en": "Emmanuel Levinas",
+          "life": "1906—1995",
+          "traditions": [
+            "jewish_philosophy"
+          ],
+          "status": "stub"
+        }
+      ]
+    },
+    {
+      "civilization": "african",
+      "civilizationZh": "非洲",
+      "count": 4,
+      "philosophers": [
+        {
+          "id": "amo",
+          "zh": "安东·威廉·阿莫",
+          "en": "Anton Wilhelm Amo",
+          "life": "约1703—1759",
+          "traditions": [
+            "african_philosophy"
+          ],
+          "status": "stub"
+        },
+        {
+          "id": "senghor",
+          "zh": "桑戈尔",
+          "en": "Leopold Sedar Senghor",
+          "life": "1906—2001",
+          "traditions": [
+            "african_philosophy"
+          ],
+          "status": "stub"
+        },
+        {
+          "id": "wiredu",
+          "zh": "夸西·维雷杜",
+          "en": "Kwasi Wiredu",
+          "life": "1931—2022",
+          "traditions": [
+            "african_philosophy"
+          ],
+          "status": "stub"
+        },
+        {
+          "id": "hountondji",
+          "zh": "洪通吉",
+          "en": "Paulin Hountondji",
+          "life": "1942 年生",
+          "traditions": [
+            "african_philosophy"
+          ],
+          "status": "stub"
+        }
+      ]
+    },
+    {
+      "civilization": "latin_american",
+      "civilizationZh": "拉丁美洲",
+      "count": 3,
+      "philosophers": [
+        {
+          "id": "sor-juana",
+          "zh": "胡安娜修女",
+          "en": "Sor Juana Ines de la Cruz",
+          "life": "1648—1695",
+          "traditions": [
+            "latin_american_philosophy"
+          ],
+          "status": "stub"
+        },
+        {
+          "id": "zelea",
+          "zh": "塞亚",
+          "en": "Leopoldo Zea",
+          "life": "1912—2004",
+          "traditions": [
+            "latin_american_philosophy"
+          ],
+          "status": "stub"
+        },
+        {
+          "id": "dussel",
+          "zh": "杜塞尔",
+          "en": "Enrique Dussel",
+          "life": "1934—2023",
+          "traditions": [
+            "latin_american_philosophy"
+          ],
+          "status": "stub"
+        }
+      ]
+    },
+    {
+      "civilization": "global_modern",
+      "civilizationZh": "全球现代",
+      "count": 5,
+      "philosophers": [
+        {
+          "id": "plumwood",
+          "zh": "普拉姆伍德",
+          "en": "Val Plumwood",
+          "life": "1939—2008",
+          "traditions": [
+            "global_modern_thought"
+          ],
+          "status": "stub"
+        },
+        {
+          "id": "singer",
+          "zh": "彼得·辛格",
+          "en": "Peter Singer",
+          "life": "1946 年生",
+          "traditions": [
+            "global_modern_thought"
+          ],
+          "status": "stub"
+        },
+        {
+          "id": "nussbaum",
+          "zh": "努斯鲍姆",
+          "en": "Martha Nussbaum",
+          "life": "1947 年生",
+          "traditions": [
+            "global_modern_thought"
+          ],
+          "status": "stub"
+        },
+        {
+          "id": "hooks",
+          "zh": "贝尔·胡克斯",
+          "en": "bell hooks",
+          "life": "1952—2021",
+          "traditions": [
+            "global_modern_thought"
+          ],
+          "status": "stub"
+        },
+        {
+          "id": "butler",
+          "zh": "巴特勒",
+          "en": "Judith Butler",
+          "life": "1956 年生",
+          "traditions": [
+            "global_modern_thought"
+          ],
+          "status": "stub"
+        }
+      ]
+    }
+  ]
+}

@@ -55,11 +55,34 @@ Conditional files:
 quotes.md
 names.json
 timeline.json
+thought-systems.json
+works-candidates.json
 ```
 
 `timeline.json` is required when `brief.md` says the intended use includes `timeline`, or when the user explicitly asks for a chronological chain. It is optional for a standalone `event card`.
 
+`thought-systems.json` is required when the intended use includes `thoughtSystem`. It should mirror the app shape in `src/data/schemas.ts`: `problems[] -> claims[] -> evidence[]`, with temporary `sourceIds` at each level for review.
+
 `.research/` is temporary working material. Do not move it into `public/data/` until reviewed.
+
+### Queue Mode For Philosopher Thought Systems
+
+For the 100-philosopher content pipeline, do not use 4-5 person batch prompts. Use the resumable person queue instead:
+
+```bash
+npm run kimi:queue -- init
+npm run kimi:queue -- next
+npm run kimi:queue -- run-next
+```
+
+Queue policy:
+
+- One Kimi session handles one philosopher only.
+- One Kimi session handles one stage only: `sources-notes`, `claims`, or `thought-system`.
+- Stage output goes under `.research/tmp/kimi/people/<philosopher-id>/`.
+- Logs and state live under `.research/tmp/kimi/person-queue/`.
+- If Kimi output contains `429`, `usage limit`, or `rate_limit_reached_error`, the runner marks the stage `blocked_rate_limit` even when the CLI exits successfully.
+- Resume by running `npm run kimi:queue -- run-next` after quota returns; it picks the next `pending` stage from `manifest.json`.
 
 ---
 
@@ -95,7 +118,7 @@ Wikipedia can be used to find leads, names, dates, and bibliography. It should n
 
 ### JSON Contract
 
-`claims.json` and `timeline.json` use a versioned object root:
+`claims.json`, `timeline.json`, and `thought-systems.json` use a versioned object root:
 
 ```json
 {
@@ -124,6 +147,8 @@ Rules:
 - Do not reuse an id for a different claim.
 - If a new batch touches the same subject, note possible duplicates in `open-questions.md` instead of silently duplicating material.
 - Every `sourceIds` value must match an `S###` heading in `sources.md`.
+- In `thought-systems.json`, `evidence.source.workId` may only reference an existing ID in `public/data/works.json`, and it must belong to the same `philosopherId`.
+- Candidate works belong in `works-candidates.json`; never invent `*-candidate` work IDs inside `thought-systems.json`.
 - Run `npm run validate:kimi -- <batch-dir>` before handoff.
 
 ### `brief.md`
@@ -231,6 +256,57 @@ medium
 low
 ```
 
+### `thought-systems.json`
+
+Candidate material for `public/data/philosophers/<id>.json`. The core shape must match `philosopherThoughtSystemSchema`; temporary `sourceIds` are kept only for review and are stripped by `npm run admit:kimi`. `evidence.source.workId` must use a real work ID from `public/data/works.json`; if the evidence depends on a not-yet-modeled work, omit `workId` and record the candidate in `works-candidates.json`.
+
+```json
+{
+  "schemaVersion": 1,
+  "items": [
+    {
+      "philosopherId": "laozi",
+      "problems": [
+        {
+          "id": "laozi:problem:001",
+          "titleZh": "道与命名",
+          "questionZh": "道能否被固定语言完整把握？",
+          "summaryZh": "说明该问题为什么构成此哲人的核心问题。",
+          "themeIds": ["metaphysics", "language"],
+          "weight": 3,
+          "sourceIds": ["S001"],
+          "claims": [
+            {
+              "id": "laozi:claim:001",
+              "titleZh": "道不可被定名穷尽",
+              "claimZh": "道不是普通对象，不能被固定名称完全把握。",
+              "explanationZh": "说明主张含义与语境。",
+              "themeIds": ["metaphysics", "language"],
+              "weight": 3,
+              "sourceIds": ["S001"],
+              "evidence": [
+                {
+                  "id": "laozi:evidence:001",
+                  "titleZh": "《老子》开篇",
+                  "summaryZh": "概括证据，不要长引现代版权文本。",
+                  "source": {
+                    "workId": "laozi-primary-work",
+                    "locator": "第一章",
+                    "excerptStatus": "summary_only"
+                  },
+                  "sourceIds": ["S001"]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "sourceIds": ["S001"]
+    }
+  ]
+}
+```
+
 ### `open-questions.md`
 
 Record uncertainty instead of hiding it.
@@ -276,13 +352,19 @@ Paste this into Kimi CLI and fill the placeholders.
 4. claims.json
 5. open-questions.md
 
+如果目标用途包含 thoughtSystem，也必须生成：
+6. thought-systems.json
+7. works-candidates.json
+
 如果目标用途包含 timeline，或任务要求整理事件前后链条，也必须生成：
-6. timeline.json
+8. timeline.json
 
 采集规范：
-- claims.json 和 timeline.json 必须使用 { "schemaVersion": 1, "items": [...] } 结构。
-- item id 必须使用 topic-slug:type:NNN，例如 tennis-court-oath:fact:001。
+- claims.json、thought-systems.json 和 timeline.json 必须使用 { "schemaVersion": 1, "items": [...] } 结构。
+- item id 必须使用 topic-slug:type:NNN；thoughtSystem 批次用 philosopher-id:type:NNN，例如 laozi:problem:001。
 - sourceIds 必须引用 sources.md 里的 S### 编号。
+- thought-systems.json 的 evidence.source.workId 只能使用 public/data/works.json 已存在且属于该哲人的正式 workId。
+- 不要创造新的 workId，不要在 thought-systems.json 使用 *-candidate；候选作品只写入 works-candidates.json。
 - 教学网站和博客不得作为 high-confidence claim 的主来源。
 - 优先一手资料、大学、博物馆、档案馆、学术百科、学术出版社。
 - Wikipedia 只能用于发现线索，不能作为最终依据。
@@ -302,14 +384,17 @@ Paste this into Kimi CLI and fill the placeholders.
 
 ## 7. Handoff Back To Codex
 
+For person-queue research, first inspect `.research/tmp/kimi/person-queue/manifest.json`. A person is ready for review when all three stages are `done` or `done_legacy`, and the person status is `research_complete_needs_review`.
+
 When Kimi finishes, Codex should read only the relevant temporary folder and perform these checks:
 
 1. Run `npm run validate:kimi -- <batch-dir>`.
 2. `sources.md`: remove weak or circular sources.
-3. `claims.json`: verify claim quality after the machine shape/source-id check passes.
+3. `claims.json` and `thought-systems.json`: verify claim quality after the machine shape/source-id check passes.
 4. `open-questions.md`: decide whether uncertainty blocks use.
-5. Convert accepted claims into project data only after review.
-6. Add tests when the accepted data affects validation, search, layout, or UI behavior.
+5. For approved thought systems, dry-run `npm run admit:kimi -- <batch-dir>`; this also rejects unknown or cross-philosopher `workId` references.
+6. After human approval, write with `npm run admit:kimi -- <batch-dir> --write`, then run `npm run validate:data`.
+7. Add tests when the accepted data affects validation, search, layout, or UI behavior.
 
 Do not bulk-import Kimi output. The bridge is for research intake, not automatic publication.
 
@@ -321,10 +406,11 @@ A Kimi research batch is acceptable when:
 
 - It has all required files.
 - `npm run validate:kimi -- <batch-dir>` passes.
-- `claims.json` and any `timeline.json` set `schemaVersion: 1`.
+- `claims.json`, any `thought-systems.json`, and any `timeline.json` set `schemaVersion: 1`.
 - Item ids use `topic-slug:type:NNN` and are unique within the file.
-- Every claim has at least one `sourceId`.
+- Every claim and thought-system problem/claim/evidence has at least one `sourceId`.
 - Every `sourceId` exists in `sources.md`.
+- Every thought-system `workId` is an existing same-philosopher ID from `public/data/works.json`, or the evidence omits `workId`.
 - `sources.md` includes source type and reliability.
 - Conflicts are listed instead of hidden.
 - The output does not include long copyrighted excerpts.
