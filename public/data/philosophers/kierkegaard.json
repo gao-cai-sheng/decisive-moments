@@ -5,9 +5,9 @@
     "en": "Soren Kierkegaard"
   },
   "life": {
-    "display": "1813—1855",
     "birth": 1813,
-    "death": 1855
+    "death": 1855,
+    "display": "1813—1855"
   },
   "civilization": "european_modern",
   "traditions": [
@@ -38,5 +38,246 @@
       "label": "draft",
       "noteZh": "条目需要人工核对作品、年代和概念表述。"
     }
-  ]
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "kierkegaard:problem:001",
+        "titleZh": "真理为何关乎主体？",
+        "questionZh": "克尔凯郭尔如何围绕“真理为何关乎主体？”建立其思想问题？",
+        "summaryZh": "克尔凯郭尔在这一问题上形成了可辨认的论证路径，连接文本命题、概念区分和后世问题谱系。",
+        "themeIds": [
+          "knowledge",
+          "metaphysics"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "kierkegaard:claim:001",
+            "titleZh": "核心命题一：真理为何关乎主体？",
+            "claimZh": "克尔凯郭尔在“真理为何关乎主体？”中提出基础性立场，说明其理论问题的出发点。",
+            "explanationZh": "该命题概括其原典中反复出现的论证方向，并为本问题的后续分支提供基础。",
+            "themeIds": [
+              "knowledge",
+              "metaphysics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "kierkegaard:evidence:001",
+                "titleZh": "核心命题一：真理为何关乎主体？的文本依据",
+                "summaryZh": "克尔凯郭尔在 Concluding Unscientific Postscript part II chapter 2 on subjectivity 中提供该命题的原典定位，用于支撑“核心命题一：真理为何关乎主体？”这一解释。",
+                "source": {
+                  "workId": "kierkegaard-primary-work",
+                  "locator": "Concluding Unscientific Postscript part II chapter 2 on subjectivity",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "kierkegaard:evidence:002",
+                "titleZh": "核心命题一：真理为何关乎主体？的文本依据",
+                "summaryZh": "克尔凯郭尔在 Concluding Unscientific Postscript part I on objective reflection 中提供该命题的原典定位，用于支撑“核心命题一：真理为何关乎主体？”这一解释。",
+                "source": {
+                  "workId": "kierkegaard-primary-work",
+                  "locator": "Concluding Unscientific Postscript part I on objective reflection",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "kierkegaard:claim:002",
+            "titleZh": "核心命题二：真理为何关乎主体？",
+            "claimZh": "克尔凯郭尔在“真理为何关乎主体？”中进一步推出实践、制度或认识论后果。",
+            "explanationZh": "该命题把概念论证推进到可比较的问题谱系，避免只停留在术语解释。",
+            "themeIds": [
+              "knowledge",
+              "metaphysics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "kierkegaard:evidence:003",
+                "titleZh": "核心命题二：真理为何关乎主体？的文本依据",
+                "summaryZh": "克尔凯郭尔在 Concluding Unscientific Postscript part II chapter 2 on subjectivity 中提供该命题的原典定位，用于支撑“核心命题二：真理为何关乎主体？”这一解释。",
+                "source": {
+                  "workId": "kierkegaard-primary-work",
+                  "locator": "Concluding Unscientific Postscript part II chapter 2 on subjectivity",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "kierkegaard:evidence:004",
+                "titleZh": "核心命题二：真理为何关乎主体？的文本依据",
+                "summaryZh": "克尔凯郭尔在 Concluding Unscientific Postscript part I on objective reflection 中提供该命题的原典定位，用于支撑“核心命题二：真理为何关乎主体？”这一解释。",
+                "source": {
+                  "workId": "kierkegaard-primary-work",
+                  "locator": "Concluding Unscientific Postscript part I on objective reflection",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "kierkegaard:problem:002",
+        "titleZh": "信仰为何是悖论？",
+        "questionZh": "克尔凯郭尔如何围绕“信仰为何是悖论？”建立其思想问题？",
+        "summaryZh": "克尔凯郭尔在这一问题上形成了可辨认的论证路径，连接文本命题、概念区分和后世问题谱系。",
+        "themeIds": [
+          "freedom",
+          "ethics"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "kierkegaard:claim:003",
+            "titleZh": "核心命题一：信仰为何是悖论？",
+            "claimZh": "克尔凯郭尔在“信仰为何是悖论？”中提出基础性立场，说明其理论问题的出发点。",
+            "explanationZh": "该命题概括其原典中反复出现的论证方向，并为本问题的后续分支提供基础。",
+            "themeIds": [
+              "freedom",
+              "ethics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "kierkegaard:evidence:005",
+                "titleZh": "核心命题一：信仰为何是悖论？的文本依据",
+                "summaryZh": "克尔凯郭尔在 Fear and Trembling Problema I on teleological suspension 中提供该命题的原典定位，用于支撑“核心命题一：信仰为何是悖论？”这一解释。",
+                "source": {
+                  "workId": "kierkegaard-primary-work",
+                  "locator": "Fear and Trembling Problema I on teleological suspension",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "kierkegaard:evidence:006",
+                "titleZh": "核心命题一：信仰为何是悖论？的文本依据",
+                "summaryZh": "克尔凯郭尔在 Fear and Trembling Problema II on absolute duty to God 中提供该命题的原典定位，用于支撑“核心命题一：信仰为何是悖论？”这一解释。",
+                "source": {
+                  "workId": "kierkegaard-primary-work",
+                  "locator": "Fear and Trembling Problema II on absolute duty to God",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "kierkegaard:claim:004",
+            "titleZh": "核心命题二：信仰为何是悖论？",
+            "claimZh": "克尔凯郭尔在“信仰为何是悖论？”中进一步推出实践、制度或认识论后果。",
+            "explanationZh": "该命题把概念论证推进到可比较的问题谱系，避免只停留在术语解释。",
+            "themeIds": [
+              "freedom",
+              "ethics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "kierkegaard:evidence:007",
+                "titleZh": "核心命题二：信仰为何是悖论？的文本依据",
+                "summaryZh": "克尔凯郭尔在 Fear and Trembling Problema I on teleological suspension 中提供该命题的原典定位，用于支撑“核心命题二：信仰为何是悖论？”这一解释。",
+                "source": {
+                  "workId": "kierkegaard-primary-work",
+                  "locator": "Fear and Trembling Problema I on teleological suspension",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "kierkegaard:evidence:008",
+                "titleZh": "核心命题二：信仰为何是悖论？的文本依据",
+                "summaryZh": "克尔凯郭尔在 Fear and Trembling Problema II on absolute duty to God 中提供该命题的原典定位，用于支撑“核心命题二：信仰为何是悖论？”这一解释。",
+                "source": {
+                  "workId": "kierkegaard-primary-work",
+                  "locator": "Fear and Trembling Problema II on absolute duty to God",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "kierkegaard:problem:003",
+        "titleZh": "绝望如何揭示自我？",
+        "questionZh": "克尔凯郭尔如何围绕“绝望如何揭示自我？”建立其思想问题？",
+        "summaryZh": "克尔凯郭尔在这一问题上形成了可辨认的论证路径，连接文本命题、概念区分和后世问题谱系。",
+        "themeIds": [
+          "politics",
+          "ethics"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "kierkegaard:claim:005",
+            "titleZh": "核心命题一：绝望如何揭示自我？",
+            "claimZh": "克尔凯郭尔在“绝望如何揭示自我？”中提出基础性立场，说明其理论问题的出发点。",
+            "explanationZh": "该命题概括其原典中反复出现的论证方向，并为本问题的后续分支提供基础。",
+            "themeIds": [
+              "politics",
+              "ethics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "kierkegaard:evidence:009",
+                "titleZh": "核心命题一：绝望如何揭示自我？的文本依据",
+                "summaryZh": "克尔凯郭尔在 The Sickness unto Death part I.A on the self as relation 中提供该命题的原典定位，用于支撑“核心命题一：绝望如何揭示自我？”这一解释。",
+                "source": {
+                  "workId": "kierkegaard-primary-work",
+                  "locator": "The Sickness unto Death part I.A on the self as relation",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "kierkegaard:evidence:010",
+                "titleZh": "核心命题一：绝望如何揭示自我？的文本依据",
+                "summaryZh": "克尔凯郭尔在 The Sickness unto Death part I.C on forms of despair 中提供该命题的原典定位，用于支撑“核心命题一：绝望如何揭示自我？”这一解释。",
+                "source": {
+                  "workId": "kierkegaard-primary-work",
+                  "locator": "The Sickness unto Death part I.C on forms of despair",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "kierkegaard:claim:006",
+            "titleZh": "核心命题二：绝望如何揭示自我？",
+            "claimZh": "克尔凯郭尔在“绝望如何揭示自我？”中进一步推出实践、制度或认识论后果。",
+            "explanationZh": "该命题把概念论证推进到可比较的问题谱系，避免只停留在术语解释。",
+            "themeIds": [
+              "politics",
+              "ethics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "kierkegaard:evidence:011",
+                "titleZh": "核心命题二：绝望如何揭示自我？的文本依据",
+                "summaryZh": "克尔凯郭尔在 The Sickness unto Death part I.A on the self as relation 中提供该命题的原典定位，用于支撑“核心命题二：绝望如何揭示自我？”这一解释。",
+                "source": {
+                  "workId": "kierkegaard-primary-work",
+                  "locator": "The Sickness unto Death part I.A on the self as relation",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "kierkegaard:evidence:012",
+                "titleZh": "核心命题二：绝望如何揭示自我？的文本依据",
+                "summaryZh": "克尔凯郭尔在 The Sickness unto Death part I.C on forms of despair 中提供该命题的原典定位，用于支撑“核心命题二：绝望如何揭示自我？”这一解释。",
+                "source": {
+                  "workId": "kierkegaard-primary-work",
+                  "locator": "The Sickness unto Death part I.C on forms of despair",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
 }

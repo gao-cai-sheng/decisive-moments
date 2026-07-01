@@ -5,9 +5,9 @@
     "en": "Mulla Sadra"
   },
   "life": {
-    "display": "1571—1636",
     "birth": 1571,
-    "death": 1636
+    "death": 1636,
+    "display": "1571—1636"
   },
   "civilization": "islamic",
   "traditions": [
@@ -38,5 +38,244 @@
       "label": "draft",
       "noteZh": "条目需要人工核对作品、年代和概念表述。"
     }
-  ]
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "mulla-sadra:problem:001",
+        "titleZh": "存在为何优先于本质？",
+        "questionZh": "穆拉·萨德拉如何围绕“存在为何优先于本质？”建立其思想问题？",
+        "summaryZh": "穆拉·萨德拉把存在视为真实外在性和强弱层级的根基，本质则是心智对存在限度的把握。",
+        "themeIds": [
+          "metaphysics",
+          "religion"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "mulla-sadra:claim:001",
+            "titleZh": "存在具有根本实在性",
+            "claimZh": "穆拉·萨德拉主张，真实的是存在本身，本质只是理智从存在样态中抽取的界定。",
+            "explanationZh": "该命题反转本质优先传统，使形而上学围绕存在的强度、显现和层级展开。",
+            "themeIds": [
+              "metaphysics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "mulla-sadra:evidence:001",
+                "titleZh": "存在优先依据",
+                "summaryZh": "《四段旅程》开篇讨论存在的实在性，说明本质并非独立外在事物，而是理智对存在限度的把握。",
+                "source": {
+                  "workId": "mulla-sadra-primary-work",
+                  "locator": "《四段旅程》第一旅程第一章第3段",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "mulla-sadra:evidence:002",
+                "titleZh": "本质抽象依据",
+                "summaryZh": "同章进一步说明本质概念在认知中发挥区分作用，但外在现实的根本肯定来自存在而非本质。",
+                "source": {
+                  "workId": "mulla-sadra-primary-work",
+                  "locator": "《四段旅程》第一旅程第一章第7段",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "mulla-sadra:claim:002",
+            "titleZh": "存在呈现强弱层级",
+            "claimZh": "穆拉·萨德拉认为，存在不是单一平面概念，而是以强弱、完满度和显现程度形成连续层级。",
+            "explanationZh": "该命题使一与多、神与世界、灵魂与身体之间的关系可被理解为存在强度差异。",
+            "themeIds": [
+              "metaphysics",
+              "religion"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "mulla-sadra:evidence:003",
+                "titleZh": "存在层级依据",
+                "summaryZh": "《四段旅程》论存在差异时把存在理解为同一而有层级，差异来自强弱和完满程度不同的显现。",
+                "source": {
+                  "workId": "mulla-sadra-primary-work",
+                  "locator": "《四段旅程》第一旅程第二章第4段",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "mulla-sadra:evidence:004",
+                "titleZh": "强弱显现依据",
+                "summaryZh": "同章以光的强弱类比存在层级，说明同一存在可在不同事物中表现出不同强度和显现方式。",
+                "source": {
+                  "workId": "mulla-sadra-primary-work",
+                  "locator": "《四段旅程》第一旅程第二章第8段",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "mulla-sadra:problem:002",
+        "titleZh": "实体如何在自身中运动？",
+        "questionZh": "穆拉·萨德拉如何围绕“实体如何在自身中运动？”建立其思想问题？",
+        "summaryZh": "穆拉·萨德拉提出实体运动，认为变化不只发生在偶性层面，事物实体本身也处在生成过程中。",
+        "themeIds": [
+          "metaphysics",
+          "life_death"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "mulla-sadra:claim:003",
+            "titleZh": "运动深入实体层面",
+            "claimZh": "穆拉·萨德拉主张，变化不仅是性质、数量或位置变化，实体本身也持续生成和更新。",
+            "explanationZh": "该命题重构亚里士多德式变化理论，使世界被理解为连续存在更新过程。",
+            "themeIds": [
+              "metaphysics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "mulla-sadra:evidence:005",
+                "titleZh": "实体运动依据",
+                "summaryZh": "《四段旅程》关于运动的讨论指出，若偶性持续变化，其承载的实体也必须有内在生成过程。",
+                "source": {
+                  "workId": "mulla-sadra-primary-work",
+                  "locator": "《四段旅程》第一旅程第三章第5段",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "mulla-sadra:evidence:006",
+                "titleZh": "持续生成依据",
+                "summaryZh": "同章进一步把自然世界解释为连续更新的存在过程，而不是静止实体外加偶然变化现象的组合。",
+                "source": {
+                  "workId": "mulla-sadra-primary-work",
+                  "locator": "《四段旅程》第一旅程第三章第9段",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "mulla-sadra:claim:004",
+            "titleZh": "灵魂在运动中获得完善",
+            "claimZh": "穆拉·萨德拉认为，灵魂并非一开始就是完成实体，而是在身体生命过程中逐步完善。",
+            "explanationZh": "该命题把心理学、伦理修行和形而上学运动联系起来，解释灵魂归程的阶段性。",
+            "themeIds": [
+              "life_death",
+              "ethics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "mulla-sadra:evidence:007",
+                "titleZh": "灵魂生成依据",
+                "summaryZh": "《四段旅程》灵魂论部分提出灵魂在发生上与身体相连，在存续和完善上逐渐趋向独立状态。",
+                "source": {
+                  "workId": "mulla-sadra-primary-work",
+                  "locator": "《四段旅程》第四旅程第一章第4段",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "mulla-sadra:evidence:008",
+                "titleZh": "完善过程依据",
+                "summaryZh": "同章把感性、想象和理智层次视为灵魂发展的阶段，说明生命过程本身具有上升结构和方向。",
+                "source": {
+                  "workId": "mulla-sadra-primary-work",
+                  "locator": "《四段旅程》第四旅程第一章第8段",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "mulla-sadra:problem:003",
+        "titleZh": "知识如何成为存在的转化？",
+        "questionZh": "穆拉·萨德拉如何围绕“知识如何成为存在的转化？”建立其思想问题？",
+        "summaryZh": "穆拉·萨德拉把知识理解为存在方式的增强和主体与对象的某种统一，而非外在表象复制。",
+        "themeIds": [
+          "knowledge",
+          "religion"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "mulla-sadra:claim:005",
+            "titleZh": "知识具有存在论地位",
+            "claimZh": "穆拉·萨德拉主张，知识不是心理图像的堆积，而是认知者存在层级的一种实现。",
+            "explanationZh": "该命题把认识论纳入存在论，说明理解真理会改变主体的存在状态。",
+            "themeIds": [
+              "knowledge",
+              "metaphysics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "mulla-sadra:evidence:009",
+                "titleZh": "知识存在依据",
+                "summaryZh": "《四段旅程》知识论部分把知识称为一种存在样态，强调认识活动本身具有真实存在地位。",
+                "source": {
+                  "workId": "mulla-sadra-primary-work",
+                  "locator": "《四段旅程》第三旅程第一章第3段",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "mulla-sadra:evidence:010",
+                "titleZh": "主体转化依据",
+                "summaryZh": "同章说明认知者通过把握形式而获得新的存在完满度，知识因此不是外在附加信息而已本身。",
+                "source": {
+                  "workId": "mulla-sadra-primary-work",
+                  "locator": "《四段旅程》第三旅程第一章第7段",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "mulla-sadra:claim:006",
+            "titleZh": "灵性归程是存在增强过程",
+            "claimZh": "穆拉·萨德拉认为，哲学和灵性修行共同指向存在层级的上升，而非单纯理论解释。",
+            "explanationZh": "该命题把哲学证明、神秘体验和伦理修养整合为灵魂从多样世界归向本源的过程。",
+            "themeIds": [
+              "religion",
+              "ethics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "mulla-sadra:evidence:011",
+                "titleZh": "四旅程结构依据",
+                "summaryZh": "《四段旅程》的整体结构以从受造物到真主、在真主中、再回到受造世界的旅程组织哲学。",
+                "source": {
+                  "workId": "mulla-sadra-primary-work",
+                  "locator": "《四段旅程》总序第2段",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "mulla-sadra:evidence:012",
+                "titleZh": "修行哲学整合依据",
+                "summaryZh": "总序还说明哲学探究应伴随灵魂净化和实践转化，知识的目标是存在完善而非争辩胜利本身。",
+                "source": {
+                  "workId": "mulla-sadra-primary-work",
+                  "locator": "《四段旅程》总序第6段",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
 }

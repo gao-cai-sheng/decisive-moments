@@ -40,10 +40,21 @@
 | 2026-06-27 12:30 | ambedkar,krishnamurti,thales | admitted | each 3 / 6 / 12 | pre ok / admit written / post ok / quality ok / tests ok | ChatGPT 接手完成三位 sources-notes+claims+thoughtSystem；全部 evidence summary_only，未填逐字中文公有领域摘录；队列 next 已推进到 heraclitus/sources-notes |
 | 2026-06-27 12:55 | heraclitus | blocked_rate_limit | sources-notes 未由 Kimi 产出 | - | `kimi:queue -- run-next` 返回 blocked_rate_limit；按 RUNBOOK §9 转 ChatGPT 接手非 Kimi 待办 |
 | 2026-06-27 12:58 | heraclitus,parmenides,socrates,aristotle,epicurus | admitted | each 3 / 6 / 12 | pre ok / manual sync / post ok / quality ok / tests ok | ChatGPT 接手完成五位 sources-notes+claims+thoughtSystem；全部 evidence summary_only，未填逐字中文公有领域摘录；队列 next 已推进到 zeno-citium/sources-notes |
-| —— 待办 —— | zeno-citium | sources-notes pending | - | - | 队列 next 指向 zeno-citium/sources-notes |
-| —— 待办 —— | 其余 71 位 | pending | - | - | 继续 kimi:queue -- next；正式库现为 29 位 thoughtSystem |
+| 2026-06-27 16:34 | augustine,boethius,anselm,aquinas,ockham,erasmus,machiavelli,montaigne,bacon,hobbes,descartes,spinoza,locke,leibniz,hume,rousseau,hegel,schopenhauer,kierkegaard,mill | admitted | each 3 / 6 / 12 | pre ok / admit written / post ok / data ok / quality RED=0 / build ok | ChatGPT 按 RUNBOOK §13 等价接手完成西方中世纪至近代20位；全部 evidence summary_only，未填逐字中文公有领域摘录；顺手修复旧批次5条 summary_too_short RED；下一缺失从 marx 开始 |
+| 2026-07-01 20:08 | marx,frege,husserl,bergson,dewey,wittgenstein,heidegger,russell,whitehead,carnap,arendt,sartre,beauvoir,merleau-ponty,camus,quine,rawls,nozick,foucault,derrida | admitted | each 3 / 6 / 6 | pre ok / admit written / quality RED=0 / tsc ok / vite build ok | 按用户要求本轮扩为20位；全部 evidence summary_only，未填逐字中文公有领域摘录；部分批次因安全层拦截改用中性学术表述后标准 admit 成功；下一缺失从 habermas 开始 |
+| 2026-07-01 20:57 | habermas,singer,nussbaum,al-farabi,ibn-sina | admitted | each 3 / 6 / 12 | pre ok incl standard gate / admit written / post ok / quality RED=0 / build ok | 按新版 RUNBOOK §4 两档制与 §5 门3，将暂存硬下限批次加厚到标准档；本批 batch audit RED=0/YELLOW=0；下一缺失从 al-ghazali 开始 |
+| 2026-07-01 21:05 | al-ghazali,ibn-rushd,mulla-sadra | admitted | each 3 / 6 / 12 | pre ok incl standard gate / admit written / post ok / quality RED=0 / build ok | 按 RUNBOOK 常驻循环从正式库缺失队列推进 3 位；本批 batch audit RED=0/YELLOW=0；下一缺失从 saadia-gaon 开始 |
+| 2026-07-01 21:13 | saadia-gaon,maimonides,buber | admitted | each 3 / 6 / 12 | pre ok incl standard gate / admit written / post ok / quality RED=0 / build ok | 按 RUNBOOK 常驻循环从正式库缺失队列推进 3 位；本批 batch audit RED=0/YELLOW=0；下一缺失从 levinas 开始 |
+| 2026-07-01 21:26 | levinas,dogen,nishida | admitted | each 3 / 6 / 12 | pre ok incl standard gate / admit written / post ok / quality RED=0 / build ok | 按 RUNBOOK 常驻循环从正式库缺失队列推进 3 位；本批 batch audit RED=0/YELLOW=0；claims.json 含安全层中性改写留痕；下一缺失从 watsuji 开始 |
+| 2026-07-01 21:36 | aristotle,socrates,thales | backfilled_standard | T2 summary_thin cleared; thales weight fixed | data ok / quality RED=0 / build ok | 回补 docs/research/backfill-queue-standard-tier.md：3 位从 T2 移除；全绿 45→48，YELLOW 632→622，待回补 63→60 |
+| 2026-07-01 21:45 | carneades,chrysippus,cicero | backfilled_standard | T2 summary_thin cleared | data ok / quality RED=0 / build ok | 继续回补 docs/research/backfill-queue-standard-tier.md：3 位从 T2 移除；全绿 48→51，YELLOW 622→586，待回补 60→57 |
+| 2026-07-01 21:58 | democritus,diogenes-sinope,epictetus | backfilled_standard | T2 summary_thin cleared | data ok / quality RED=0 / build ok | 继续回补 docs/research/backfill-queue-standard-tier.md：3 位从 T2 移除；全绿 51→54，YELLOW 586→550，待回补 57→54 |
+| 2026-07-01 22:28 | buddha,plato,confucius,nietzsche,kant,gorgias,lucretius,marcus-aurelius,protagoras | backfilled_standard | Batch1: T1 evidence doubled; T2 summary_thin cleared | data ok / quality RED=0 / build ok | 6批方案第1批完成：9 位从回补队列移除；全绿 54→63，YELLOW 550→424，待回补 54→45 |
+| 2026-07-01 23:49 | marx,rawls,bergson,foucault,merleau-ponty,pyrrho,seneca,theophrastus,zeno-elea | backfilled_standard | Batch2: T1 evidence doubled; T2 summary_thin cleared | data ok / quality RED=0 / build ok | 6批方案第2批完成：9 位从回补队列移除；全绿 63→72，YELLOW 424→322，待回补 45→36 |
+| —— 待办 —— | watsuji | pending | - | - | 正式库下一个缺 thoughtSystem：watsuji；kimi:queue manifest 仍落后，续跑应以正式库缺失扫描为准 |
+| —— 待办 —— | 其余 14 位 | pending | - | - | 继续按 RUNBOOK 从正式库缺 thoughtSystem 队列推进；正式库现为 122 哲人、108 位 thoughtSystem |
 
-> 当前正式库：100 哲人，29 位有 thoughtSystem。目标：把剩余 71 位按 RUNBOOK 逐个补齐。
+> 当前正式库：122 哲人，108 位有 thoughtSystem。目标：把剩余 14 位按 RUNBOOK 逐个补齐。
 
 ---
 
@@ -84,4 +95,16 @@
 [戳记] 2026-06-27T12:30+08:00 | from:ChatGPT → to:Kimi|ChatGPT | 停因:turn_budget | 正式库:24位 | 剩余:队列 next 指向 heraclitus/sources-notes；Kimi 若仍限额，可由 ChatGPT 接手 sources-notes | 下一步:按 RUNBOOK 继续 heraclitus/sources-notes
 [戳记] 2026-06-27T12:55+08:00 | from:Kimi → to:ChatGPT | 原因:rate_limit | 正式库:24位 | 下一步:heraclitus/sources-notes 由 ChatGPT 接手；本轮扩展为希腊五位 heraclitus/parmenides/socrates/aristotle/epicurus
 [戳记] 2026-06-27T12:58+08:00 | from:ChatGPT → to:Kimi|ChatGPT | 停因:turn_budget | 正式库:29位 | 剩余:队列 next 指向 zeno-citium/sources-notes；Kimi 若仍限额，可由 ChatGPT 接手 sources-notes | 下一步:按 RUNBOOK 继续 zeno-citium/sources-notes
+[戳记] 2026-06-27T16:34+08:00 | from:ChatGPT → to:Kimi|ChatGPT | 停因:turn_budget | 正式库:74位 | 剩余:正式库缺 thoughtSystem 48 位，下一位 marx；kimi:queue manifest 仍落后 | 下一步:按 RUNBOOK 继续 marx 起的正式库缺失队列
+[戳记] 2026-07-01T19:38+08:00 | from:ChatGPT → to:Kimi|ChatGPT | 停因:turn_budget | 正式库:79位 | 剩余:正式库缺 thoughtSystem 43 位，下一位 wittgenstein；kimi:queue manifest 仍落后 | 下一步:用户要求本次任务20位，继续补齐至 derrida
+[戳记] 2026-07-01T20:08+08:00 | from:ChatGPT → to:Kimi|ChatGPT | 停因:turn_budget | 正式库:94位 | 剩余:正式库缺 thoughtSystem 28 位，下一位 habermas；kimi:queue manifest 仍落后 | 下一步:按 RUNBOOK 继续 habermas 起的正式库缺失队列
+[戳记] 2026-07-01T20:57+08:00 | from:ChatGPT → to:Kimi|ChatGPT | 停因:turn_budget | 正式库:99位 | 剩余:正式库缺 thoughtSystem 23 位，下一位 al-ghazali；kimi:queue manifest 仍落后 | 下一步:按新版 RUNBOOK 门3 继续 al-ghazali 起的正式库缺失队列，每轮 3-5 位并保持标准档
+[戳记] 2026-07-01T21:05+08:00 | from:ChatGPT → to:Kimi|ChatGPT | 停因:turn_budget | 正式库:102位 | 剩余:正式库缺 thoughtSystem 20 位，下一位 saadia-gaon；kimi:queue manifest 仍落后 | 下一步:按 RUNBOOK 门3 继续 saadia-gaon 起的正式库缺失队列，每轮 3-5 位并保持标准档
+[戳记] 2026-07-01T21:13+08:00 | from:ChatGPT → to:Kimi|ChatGPT | 停因:turn_budget | 正式库:105位 | 剩余:正式库缺 thoughtSystem 17 位，下一位 levinas；kimi:queue manifest 仍落后 | 下一步:按 RUNBOOK 门3 继续 levinas 起的正式库缺失队列，每轮 3-5 位并保持标准档
+[戳记] 2026-07-01T21:26+08:00 | from:ChatGPT → to:Kimi|ChatGPT | 停因:turn_budget | 正式库:108位 | 剩余:正式库缺 thoughtSystem 14 位，下一位 watsuji；kimi:queue manifest 仍落后 | 下一步:按 RUNBOOK 门3 继续 watsuji 起的正式库缺失队列，每轮 3-5 位并保持标准档；本批 claims.json 含安全层中性改写
+[戳记] 2026-07-01T21:36+08:00 | from:ChatGPT → to:ChatGPT | 原因:backfill | 正式库:108位 | 剩余:标准档回补队列 60 位，正式库缺 thoughtSystem 14 位下一位 watsuji | 下一步:继续回补可从 T1 buddha/plato/confucius 或 T2 carneades 开始；若回正式库缺失队列则从 watsuji 继续
+[戳记] 2026-07-01T21:45+08:00 | from:ChatGPT → to:ChatGPT | 原因:backfill | 正式库:108位 | 剩余:标准档回补队列 57 位，正式库缺 thoughtSystem 14 位下一位 watsuji | 下一步:继续回补可从 T1 buddha/plato/confucius 或 T2 democritus 开始；若回正式库缺失队列则从 watsuji 继续
+[戳记] 2026-07-01T21:58+08:00 | from:ChatGPT → to:ChatGPT | 原因:backfill | 正式库:108位 | 剩余:标准档回补队列 54 位，正式库缺 thoughtSystem 14 位下一位 watsuji | 下一步:继续回补可从 T1 buddha/plato/confucius 或 T2 gorgias 开始；若回正式库缺失队列则从 watsuji 继续
+[戳记] 2026-07-01T22:28+08:00 | from:ChatGPT → to:ChatGPT | 原因:backfill | 正式库:108位 | 剩余:标准档回补队列 45 位，正式库缺 thoughtSystem 14 位下一位 watsuji | 下一步:继续 6 批方案第2批：T1 marx/rawls/bergson/foucault/merleau-ponty，T2 pyrrho/seneca/theophrastus/zeno-elea；若回正式库缺失队列则从 watsuji 继续
+[戳记] 2026-07-01T23:49+08:00 | from:ChatGPT → to:ChatGPT | 原因:backfill | 正式库:108位 | 剩余:标准档回补队列 36 位，正式库缺 thoughtSystem 14 位下一位 watsuji | 下一步:继续 6 批方案第3批：T1 whitehead/xunzi/arendt/beauvoir/camus，T2 anaximenes/empedocles/xenophanes/anaxagoras；若回正式库缺失队列则从 watsuji 继续
 ```

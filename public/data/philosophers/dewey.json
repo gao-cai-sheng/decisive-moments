@@ -5,9 +5,9 @@
     "en": "John Dewey"
   },
   "life": {
-    "display": "1859—1952",
     "birth": 1859,
-    "death": 1952
+    "death": 1952,
+    "display": "1859—1952"
   },
   "civilization": "american",
   "traditions": [
@@ -38,5 +38,183 @@
       "label": "draft",
       "noteZh": "条目需要人工核对作品、年代和概念表述。"
     }
-  ]
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "dewey:problem:001",
+        "titleZh": "知识如何从探究活动中产生？",
+        "questionZh": "杜威如何围绕“知识如何从探究活动中产生？”建立其思想问题？",
+        "summaryZh": "杜威把知识理解为面对疑难情境的实验性探究成果，而不是旁观主体对现成对象的镜像复制。",
+        "themeIds": [
+          "knowledge"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "dewey:claim:001",
+            "titleZh": "探究始于不确定情境",
+            "claimZh": "杜威主张，思想不是脱离生活的内在表象游戏，而是在行动受阻、情境不确定时组织假设和实验的工具。",
+            "explanationZh": "该命题把认识论转化为实践过程分析，强调问题、假设、检验和后果之间的连续循环。",
+            "themeIds": [
+              "knowledge"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "dewey:evidence:001",
+                "titleZh": "探究始于不确定情境的文本依据",
+                "summaryZh": "杜威描述疑难、问题设定、假设、推理和检验的连续过程，说明思想发生于具体情境的重组。",
+                "source": {
+                  "workId": "dewey-primary-work",
+                  "locator": "《我们如何思维》修订版第6章关于反省思维的阶段",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "dewey:claim:002",
+            "titleZh": "真理体现可检验的成效",
+            "claimZh": "杜威认为观念的有效性要在行动后果和共同检验中确认；知识是解决问题的工具性稳定成果。",
+            "explanationZh": "该命题避免把实用主义降为主观有用论，强调公共检验、经验反馈和情境重构对真理的约束。",
+            "themeIds": [
+              "knowledge"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "dewey:evidence:002",
+                "titleZh": "真理体现可检验成效的文本依据",
+                "summaryZh": "杜威把现代实验科学的方法推广为哲学范式，强调观念应在经验后果中接受检验。",
+                "source": {
+                  "workId": "dewey-primary-work",
+                  "locator": "《哲学的改造》第6章关于经验与实验方法",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "dewey:problem:002",
+        "titleZh": "民主为何是一种生活方式？",
+        "questionZh": "杜威如何围绕“民主为何是一种生活方式？”建立其思想问题？",
+        "summaryZh": "杜威把民主理解为共同生活和公共沟通的形式，而不仅是投票制度或国家机器安排。",
+        "themeIds": [
+          "politics",
+          "ethics"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "dewey:claim:003",
+            "titleZh": "民主依赖共同经验的扩展",
+            "claimZh": "杜威认为民主社会的核心在于让不同群体共享经验、沟通利益并参与共同问题的解决。",
+            "explanationZh": "该命题把民主从制度程序扩展为社会伦理，强调教育、交往和公共参与对自由社会的基础作用。",
+            "themeIds": [
+              "politics",
+              "ethics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "dewey:evidence:003",
+                "titleZh": "民主依赖共同经验扩展的文本依据",
+                "summaryZh": "杜威把民主描述为联合生活方式，强调共同兴趣与自由交往的扩展。",
+                "source": {
+                  "workId": "dewey-primary-work",
+                  "locator": "《民主与教育》第7章关于民主概念",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "dewey:claim:004",
+            "titleZh": "教育是民主再生产的核心机制",
+            "claimZh": "杜威主张教育不是灌输固定知识，而是培养参与共同生活、处理问题和持续生长的能力。",
+            "explanationZh": "该命题把学校和民主公共生活相连，说明教育制度目标在于经验重组，而非单纯服从。",
+            "themeIds": [
+              "ethics",
+              "freedom"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "dewey:evidence:004",
+                "titleZh": "教育是民主再生产机制的文本依据",
+                "summaryZh": "杜威把教育理解为经验连续改造和能力生长，反对把教育只当作未来生活的外在准备。",
+                "source": {
+                  "workId": "dewey-primary-work",
+                  "locator": "《民主与教育》第4章关于教育即生长",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "dewey:problem:003",
+        "titleZh": "经验如何重建价值与公共生活？",
+        "questionZh": "杜威如何围绕“经验如何重建价值与公共生活？”建立其思想问题？",
+        "summaryZh": "杜威以经验自然主义重构价值、艺术和公共问题，反对把事实与价值、个人与社会机械分离。",
+        "themeIds": [
+          "ethics",
+          "politics"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "dewey:claim:005",
+            "titleZh": "价值判断来自情境评价",
+            "claimZh": "杜威认为价值不是外在永恒实体，也不是任意偏好，而是在具体情境中对欲望、后果和可行行动的反省评价。",
+            "explanationZh": "该命题使伦理学转向问题解决，评价标准要在经验后果和共同生活改善中获得检验。",
+            "themeIds": [
+              "ethics",
+              "knowledge"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "dewey:evidence:005",
+                "titleZh": "价值判断来自情境评价的文本依据",
+                "summaryZh": "杜威区分直接珍视与反省评价，说明价值判断需要考察欲望、手段和后果的关系。",
+                "source": {
+                  "workId": "dewey-primary-work",
+                  "locator": "《价值评价理论》关于 valuation 与 appraisal 的区分",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "dewey:claim:006",
+            "titleZh": "艺术经验揭示经验的整合形式",
+            "claimZh": "杜威主张艺术不是脱离日常生活的孤立美物，而是经验在情感、行动和意义上达到完整组织的形态。",
+            "explanationZh": "该命题把美学纳入经验哲学，说明公共文化和日常实践中也存在重建共同感受的力量。",
+            "themeIds": [
+              "aesthetics",
+              "politics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "dewey:evidence:006",
+                "titleZh": "艺术经验揭示整合形式的文本依据",
+                "summaryZh": "杜威以一次经验说明审美并非特殊心理装饰，而是经验过程达到完整统一的典型形式。",
+                "source": {
+                  "workId": "dewey-primary-work",
+                  "locator": "《艺术即经验》第3章关于一次经验",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
 }

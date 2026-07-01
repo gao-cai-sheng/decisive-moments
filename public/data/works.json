@@ -751,5 +751,71 @@
     "titleZh": "安提斯泰尼代表文本与残篇材料",
     "titleEn": "Antisthenes primary dossier",
     "noteZh": "本轮 thoughtSystem 使用的代表性古代材料、残篇、传记见证和现代研究定位；证据均为 summary_only。"
-  }
+  },
+  {
+    "id": "pythagoras-primary-work",
+    "philosopherId": "pythagoras",
+    "titleZh": "毕达哥拉斯代表文本与残篇材料",
+    "titleEn": "Pythagoras primary dossier",
+    "noteZh": "本轮 thoughtSystem 使用的代表性古代材料、残篇、传记见证和现代研究定位；证据均为 summary_only。"
+  },
+  {
+    "id": "anaximander-primary-work",
+    "philosopherId": "anaximander",
+    "titleZh": "阿那克西曼德代表文本与残篇材料",
+    "titleEn": "Anaximander primary dossier",
+    "noteZh": "本轮 thoughtSystem 使用的代表性古代材料、残篇、传记见证和现代研究定位；证据均为 summary_only。"
+  },
+  {
+    "id": "anaximenes-primary-work",
+    "philosopherId": "anaximenes",
+    "titleZh": "阿那克西美尼代表文本与残篇材料",
+    "titleEn": "Anaximenes primary dossier",
+    "noteZh": "本轮 thoughtSystem 使用的代表性古代材料、残篇、传记见证和现代研究定位；证据均为 summary_only。"
+  },
+  {
+    "id": "xenophanes-primary-work",
+    "philosopherId": "xenophanes",
+    "titleZh": "色诺芬尼代表文本与残篇材料",
+    "titleEn": "Xenophanes primary dossier",
+    "noteZh": "本轮 thoughtSystem 使用的代表性古代材料、残篇、传记见证和现代研究定位；证据均为 summary_only。"
+  },
+  {
+    "id": "empedocles-primary-work",
+    "philosopherId": "empedocles",
+    "titleZh": "恩培多克勒代表文本与残篇材料",
+    "titleEn": "Empedocles primary dossier",
+    "noteZh": "本轮 thoughtSystem 使用的代表性古代材料、残篇、传记见证和现代研究定位；证据均为 summary_only。"
+  },
+  {
+    "id": "anaxagoras-primary-work",
+    "philosopherId": "anaxagoras",
+    "titleZh": "阿那克萨戈拉代表文本与残篇材料",
+    "titleEn": "Anaxagoras primary dossier",
+    "noteZh": "本轮 thoughtSystem 使用的代表性古代材料、残篇、传记见证和现代研究定位；证据均为 summary_only。"
+  },
+  {
+    "id": "zeno-elea-primary-work",
+    "philosopherId": "zeno-elea",
+    "titleZh": "爱利亚芝诺代表文本与残篇材料",
+    "titleEn": "Zeno of Elea primary dossier",
+    "noteZh": "本轮 thoughtSystem 使用的代表性古代材料、残篇、传记见证和现代研究定位；证据均为 summary_only。"
+  },
+  {
+    "id": "democritus-primary-work",
+    "philosopherId": "democritus",
+    "titleZh": "德谟克利特代表文本与残篇材料",
+    "titleEn": "Democritus primary dossier",
+    "noteZh": "本轮 thoughtSystem 使用的代表性古代材料、残篇、传记见证和现代研究定位；证据均为 summary_only。"
+  },
+  {"id":"protagoras-primary-work","philosopherId":"protagoras","titleZh":"普罗泰戈拉代表文本与材料","titleEn":"Protagoras primary dossier","noteZh":"本轮 thoughtSystem 证据使用 summary_only。"},
+  {"id":"gorgias-primary-work","philosopherId":"gorgias","titleZh":"高尔吉亚代表文本与材料","titleEn":"Gorgias primary dossier","noteZh":"本轮 thoughtSystem 证据使用 summary_only。"},
+  {"id":"pyrrho-primary-work","philosopherId":"pyrrho","titleZh":"皮浪代表文本与材料","titleEn":"Pyrrho primary dossier","noteZh":"本轮 thoughtSystem 证据使用 summary_only。"},
+  {"id":"theophrastus-primary-work","philosopherId":"theophrastus","titleZh":"泰奥弗拉斯托斯代表文本与材料","titleEn":"Theophrastus primary dossier","noteZh":"本轮 thoughtSystem 证据使用 summary_only。"},
+  {"id":"carneades-primary-work","philosopherId":"carneades","titleZh":"卡尔涅阿德斯代表文本与材料","titleEn":"Carneades primary dossier","noteZh":"本轮 thoughtSystem 证据使用 summary_only。"},
+  {"id":"cicero-primary-work","philosopherId":"cicero","titleZh":"西塞罗代表文本与材料","titleEn":"Cicero primary dossier","noteZh":"本轮 thoughtSystem 证据使用 summary_only。"},
+  {"id":"lucretius-primary-work","philosopherId":"lucretius","titleZh":"卢克莱修代表文本与材料","titleEn":"Lucretius primary dossier","noteZh":"本轮 thoughtSystem 证据使用 summary_only。"},
+  {"id":"seneca-primary-work","philosopherId":"seneca","titleZh":"塞涅卡代表文本与材料","titleEn":"Seneca primary dossier","noteZh":"本轮 thoughtSystem 证据使用 summary_only。"},
+  {"id":"epictetus-primary-work","philosopherId":"epictetus","titleZh":"爱比克泰德代表文本与材料","titleEn":"Epictetus primary dossier","noteZh":"本轮 thoughtSystem 证据使用 summary_only。"},
+  {"id":"marcus-aurelius-primary-work","philosopherId":"marcus-aurelius","titleZh":"马可·奥勒留代表文本与材料","titleEn":"Marcus Aurelius primary dossier","noteZh":"本轮 thoughtSystem 证据使用 summary_only。"}
 ]

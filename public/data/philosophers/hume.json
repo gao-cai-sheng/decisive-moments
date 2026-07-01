@@ -5,9 +5,9 @@
     "en": "David Hume"
   },
   "life": {
-    "display": "1711—1776",
     "birth": 1711,
-    "death": 1776
+    "death": 1776,
+    "display": "1711—1776"
   },
   "civilization": "european_modern",
   "traditions": [
@@ -38,5 +38,246 @@
       "label": "draft",
       "noteZh": "条目需要人工核对作品、年代和概念表述。"
     }
-  ]
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "hume:problem:001",
+        "titleZh": "经验论如何限制因果知识？",
+        "questionZh": "休谟如何围绕“经验论如何限制因果知识？”建立其思想问题？",
+        "summaryZh": "休谟在这一问题上形成了可辨认的论证路径，连接文本命题、概念区分和后世问题谱系。",
+        "themeIds": [
+          "knowledge",
+          "metaphysics"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "hume:claim:001",
+            "titleZh": "核心命题一：经验论如何限制因果知识？",
+            "claimZh": "休谟在“经验论如何限制因果知识？”中提出基础性立场，说明其理论问题的出发点。",
+            "explanationZh": "该命题概括其原典中反复出现的论证方向，并为本问题的后续分支提供基础。",
+            "themeIds": [
+              "knowledge",
+              "metaphysics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "hume:evidence:001",
+                "titleZh": "核心命题一：经验论如何限制因果知识？的文本依据",
+                "summaryZh": "休谟在 Enquiry concerning Human Understanding section 2 on impressions and ideas 中提供该命题的原典定位，用于支撑“核心命题一：经验论如何限制因果知识？”这一解释。",
+                "source": {
+                  "workId": "hume-primary-work",
+                  "locator": "Enquiry concerning Human Understanding section 2 on impressions and ideas",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "hume:evidence:002",
+                "titleZh": "核心命题一：经验论如何限制因果知识？的文本依据",
+                "summaryZh": "休谟在 Enquiry section 7 on necessary connection 中提供该命题的原典定位，用于支撑“核心命题一：经验论如何限制因果知识？”这一解释。",
+                "source": {
+                  "workId": "hume-primary-work",
+                  "locator": "Enquiry section 7 on necessary connection",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "hume:claim:002",
+            "titleZh": "核心命题二：经验论如何限制因果知识？",
+            "claimZh": "休谟在“经验论如何限制因果知识？”中进一步推出实践、制度或认识论后果。",
+            "explanationZh": "该命题把概念论证推进到可比较的问题谱系，避免只停留在术语解释。",
+            "themeIds": [
+              "knowledge",
+              "metaphysics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "hume:evidence:003",
+                "titleZh": "核心命题二：经验论如何限制因果知识？的文本依据",
+                "summaryZh": "休谟在 Enquiry concerning Human Understanding section 2 on impressions and ideas 中提供该命题的原典定位，用于支撑“核心命题二：经验论如何限制因果知识？”这一解释。",
+                "source": {
+                  "workId": "hume-primary-work",
+                  "locator": "Enquiry concerning Human Understanding section 2 on impressions and ideas",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "hume:evidence:004",
+                "titleZh": "核心命题二：经验论如何限制因果知识？的文本依据",
+                "summaryZh": "休谟在 Enquiry section 7 on necessary connection 中提供该命题的原典定位，用于支撑“核心命题二：经验论如何限制因果知识？”这一解释。",
+                "source": {
+                  "workId": "hume-primary-work",
+                  "locator": "Enquiry section 7 on necessary connection",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "hume:problem:002",
+        "titleZh": "自我与外部世界能否被证明？",
+        "questionZh": "休谟如何围绕“自我与外部世界能否被证明？”建立其思想问题？",
+        "summaryZh": "休谟在这一问题上形成了可辨认的论证路径，连接文本命题、概念区分和后世问题谱系。",
+        "themeIds": [
+          "freedom",
+          "ethics"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "hume:claim:003",
+            "titleZh": "核心命题一：自我与外部世界能否被证明？",
+            "claimZh": "休谟在“自我与外部世界能否被证明？”中提出基础性立场，说明其理论问题的出发点。",
+            "explanationZh": "该命题概括其原典中反复出现的论证方向，并为本问题的后续分支提供基础。",
+            "themeIds": [
+              "freedom",
+              "ethics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "hume:evidence:005",
+                "titleZh": "核心命题一：自我与外部世界能否被证明？的文本依据",
+                "summaryZh": "休谟在 Treatise I.iv.6 on personal identity 中提供该命题的原典定位，用于支撑“核心命题一：自我与外部世界能否被证明？”这一解释。",
+                "source": {
+                  "workId": "hume-primary-work",
+                  "locator": "Treatise I.iv.6 on personal identity",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "hume:evidence:006",
+                "titleZh": "核心命题一：自我与外部世界能否被证明？的文本依据",
+                "summaryZh": "休谟在 Enquiry section 12 on academical philosophy 中提供该命题的原典定位，用于支撑“核心命题一：自我与外部世界能否被证明？”这一解释。",
+                "source": {
+                  "workId": "hume-primary-work",
+                  "locator": "Enquiry section 12 on academical philosophy",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "hume:claim:004",
+            "titleZh": "核心命题二：自我与外部世界能否被证明？",
+            "claimZh": "休谟在“自我与外部世界能否被证明？”中进一步推出实践、制度或认识论后果。",
+            "explanationZh": "该命题把概念论证推进到可比较的问题谱系，避免只停留在术语解释。",
+            "themeIds": [
+              "freedom",
+              "ethics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "hume:evidence:007",
+                "titleZh": "核心命题二：自我与外部世界能否被证明？的文本依据",
+                "summaryZh": "休谟在 Treatise I.iv.6 on personal identity 中提供该命题的原典定位，用于支撑“核心命题二：自我与外部世界能否被证明？”这一解释。",
+                "source": {
+                  "workId": "hume-primary-work",
+                  "locator": "Treatise I.iv.6 on personal identity",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "hume:evidence:008",
+                "titleZh": "核心命题二：自我与外部世界能否被证明？的文本依据",
+                "summaryZh": "休谟在 Enquiry section 12 on academical philosophy 中提供该命题的原典定位，用于支撑“核心命题二：自我与外部世界能否被证明？”这一解释。",
+                "source": {
+                  "workId": "hume-primary-work",
+                  "locator": "Enquiry section 12 on academical philosophy",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "hume:problem:003",
+        "titleZh": "道德是否来自理性？",
+        "questionZh": "休谟如何围绕“道德是否来自理性？”建立其思想问题？",
+        "summaryZh": "休谟在这一问题上形成了可辨认的论证路径，连接文本命题、概念区分和后世问题谱系。",
+        "themeIds": [
+          "politics",
+          "ethics"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "hume:claim:005",
+            "titleZh": "核心命题一：道德是否来自理性？",
+            "claimZh": "休谟在“道德是否来自理性？”中提出基础性立场，说明其理论问题的出发点。",
+            "explanationZh": "该命题概括其原典中反复出现的论证方向，并为本问题的后续分支提供基础。",
+            "themeIds": [
+              "politics",
+              "ethics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "hume:evidence:009",
+                "titleZh": "核心命题一：道德是否来自理性？的文本依据",
+                "summaryZh": "休谟在 Treatise II.iii.3 on reason and passions 中提供该命题的原典定位，用于支撑“核心命题一：道德是否来自理性？”这一解释。",
+                "source": {
+                  "workId": "hume-primary-work",
+                  "locator": "Treatise II.iii.3 on reason and passions",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "hume:evidence:010",
+                "titleZh": "核心命题一：道德是否来自理性？的文本依据",
+                "summaryZh": "休谟在 Enquiry concerning the Principles of Morals section 3 on justice and utility 中提供该命题的原典定位，用于支撑“核心命题一：道德是否来自理性？”这一解释。",
+                "source": {
+                  "workId": "hume-primary-work",
+                  "locator": "Enquiry concerning the Principles of Morals section 3 on justice and utility",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "hume:claim:006",
+            "titleZh": "核心命题二：道德是否来自理性？",
+            "claimZh": "休谟在“道德是否来自理性？”中进一步推出实践、制度或认识论后果。",
+            "explanationZh": "该命题把概念论证推进到可比较的问题谱系，避免只停留在术语解释。",
+            "themeIds": [
+              "politics",
+              "ethics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "hume:evidence:011",
+                "titleZh": "核心命题二：道德是否来自理性？的文本依据",
+                "summaryZh": "休谟在 Treatise II.iii.3 on reason and passions 中提供该命题的原典定位，用于支撑“核心命题二：道德是否来自理性？”这一解释。",
+                "source": {
+                  "workId": "hume-primary-work",
+                  "locator": "Treatise II.iii.3 on reason and passions",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "hume:evidence:012",
+                "titleZh": "核心命题二：道德是否来自理性？的文本依据",
+                "summaryZh": "休谟在 Enquiry concerning the Principles of Morals section 3 on justice and utility 中提供该命题的原典定位，用于支撑“核心命题二：道德是否来自理性？”这一解释。",
+                "source": {
+                  "workId": "hume-primary-work",
+                  "locator": "Enquiry concerning the Principles of Morals section 3 on justice and utility",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
 }

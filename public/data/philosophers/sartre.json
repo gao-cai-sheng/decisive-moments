@@ -5,9 +5,9 @@
     "en": "Jean-Paul Sartre"
   },
   "life": {
-    "display": "1905—1980",
     "birth": 1905,
-    "death": 1980
+    "death": 1980,
+    "display": "1905—1980"
   },
   "civilization": "european_modern",
   "traditions": [
@@ -38,5 +38,185 @@
       "label": "draft",
       "noteZh": "条目需要人工核对作品、年代和概念表述。"
     }
-  ]
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "sartre:problem:001",
+        "titleZh": "存在为何先于本质？",
+        "questionZh": "萨特如何围绕“存在为何先于本质？”建立其思想问题？",
+        "summaryZh": "萨特把人的存在理解为先被抛入世界、再通过选择塑造自身本质。",
+        "themeIds": [
+          "freedom",
+          "metaphysics"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "sartre:claim:001",
+            "titleZh": "人没有预设本质",
+            "claimZh": "萨特主张，人不是按照既定本质被制造出来的对象，而是在存在之后通过行动成为自己。",
+            "explanationZh": "该命题为存在主义自由奠基，否定以神学、自然或社会角色固定人的本质。",
+            "themeIds": [
+              "freedom",
+              "metaphysics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "sartre:evidence:001",
+                "titleZh": "存在先于本质依据",
+                "summaryZh": "《存在主义是一种人道主义》用造物与人的对比说明，人没有预先规定的本质蓝图。",
+                "source": {
+                  "workId": "sartre-primary-work",
+                  "locator": "《存在主义是一种人道主义》关于存在先于本质",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "sartre:claim:002",
+            "titleZh": "自由伴随普遍责任",
+            "claimZh": "萨特认为，人在选择自身时也在选择一种人的形象，因此自由总伴随责任。",
+            "explanationZh": "该命题避免把存在主义自由理解为任性，把个人选择放入普遍化责任中。",
+            "themeIds": [
+              "freedom",
+              "ethics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "sartre:evidence:002",
+                "titleZh": "选择责任依据",
+                "summaryZh": "《存在主义是一种人道主义》说明每个选择都在表达我们认为人应当如何存在。",
+                "source": {
+                  "workId": "sartre-primary-work",
+                  "locator": "《存在主义是一种人道主义》关于选择自己也选择人",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "sartre:problem:002",
+        "titleZh": "意识如何以虚无方式存在？",
+        "questionZh": "萨特如何围绕“意识如何以虚无方式存在？”建立其思想问题？",
+        "summaryZh": "萨特把意识理解为非实体性的否定活动，通过虚无化与对象和自身拉开距离。",
+        "themeIds": [
+          "metaphysics",
+          "knowledge"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "sartre:claim:003",
+            "titleZh": "意识不是物而是超越",
+            "claimZh": "萨特主张，自为存在不同于自在存在；意识总是超出自身既定状态而指向可能。",
+            "explanationZh": "该命题把主体性理解为开放性和否定性，反对把意识实体化。",
+            "themeIds": [
+              "metaphysics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "sartre:evidence:003",
+                "titleZh": "自在自为依据",
+                "summaryZh": "《存在与虚无》区分自在的充实存在和自为的虚无化存在，以解释意识超越性。",
+                "source": {
+                  "workId": "sartre-primary-work",
+                  "locator": "《存在与虚无》导论和第一部关于自在与自为",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "sartre:claim:004",
+            "titleZh": "自欺是逃避自由",
+            "claimZh": "萨特认为，自欺不是简单错误信念，而是意识试图把自己固定为物以逃避自由责任。",
+            "explanationZh": "该命题把心理现象转化为存在论伦理问题，说明人如何参与遮蔽自身自由。",
+            "themeIds": [
+              "freedom",
+              "ethics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "sartre:evidence:004",
+                "titleZh": "自欺分析依据",
+                "summaryZh": "《存在与虚无》通过侍者等例子分析人如何把自己扮演成固定角色。",
+                "source": {
+                  "workId": "sartre-primary-work",
+                  "locator": "《存在与虚无》第一部第二章关于自欺",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "sartre:problem:003",
+        "titleZh": "他人如何改变自我关系？",
+        "questionZh": "萨特如何围绕“他人如何改变自我关系？”建立其思想问题？",
+        "summaryZh": "萨特通过凝视和羞耻说明他人不是外部对象，而是改变自我存在方式的关系。",
+        "themeIds": [
+          "freedom",
+          "politics"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "sartre:claim:005",
+            "titleZh": "凝视使我成为对象",
+            "claimZh": "萨特主张，在他人凝视下，我体验到自己作为对象被把握，自我关系因此改变。",
+            "explanationZh": "该命题揭示主体间关系中的冲突性，使自由问题进入社会关系场域。",
+            "themeIds": [
+              "freedom",
+              "metaphysics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "sartre:evidence:005",
+                "titleZh": "凝视分析依据",
+                "summaryZh": "《存在与虚无》以窥视钥匙孔和羞耻经验说明他人如何使我被对象化。",
+                "source": {
+                  "workId": "sartre-primary-work",
+                  "locator": "《存在与虚无》第三部第一章关于凝视",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "sartre:claim:006",
+            "titleZh": "自由之间存在紧张关系",
+            "claimZh": "萨特认为，人与人的关系常在对象化与逃离对象化之间摆动，自由之间存在冲突。",
+            "explanationZh": "该命题为其伦理和政治介入提供基础，说明自由并非孤立个体内部属性。",
+            "themeIds": [
+              "freedom",
+              "politics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "sartre:evidence:006",
+                "titleZh": "他人关系依据",
+                "summaryZh": "《存在与虚无》分析爱、恨、欲望等关系中自由与对象化的相互牵制。",
+                "source": {
+                  "workId": "sartre-primary-work",
+                  "locator": "《存在与虚无》第三部关于与他人的具体关系",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
 }

@@ -5,9 +5,9 @@
     "en": "Rene Descartes"
   },
   "life": {
-    "display": "1596—1650",
     "birth": 1596,
-    "death": 1650
+    "death": 1650,
+    "display": "1596—1650"
   },
   "civilization": "european_modern",
   "traditions": [
@@ -38,5 +38,246 @@
       "label": "draft",
       "noteZh": "条目需要人工核对作品、年代和概念表述。"
     }
-  ]
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "descartes:problem:001",
+        "titleZh": "确定性从哪里开始？",
+        "questionZh": "笛卡尔如何围绕“确定性从哪里开始？”建立其思想问题？",
+        "summaryZh": "笛卡尔在这一问题上形成了可辨认的论证路径，连接文本命题、概念区分和后世问题谱系。",
+        "themeIds": [
+          "knowledge",
+          "metaphysics"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "descartes:claim:001",
+            "titleZh": "核心命题一：确定性从哪里开始？",
+            "claimZh": "笛卡尔在“确定性从哪里开始？”中提出基础性立场，说明其理论问题的出发点。",
+            "explanationZh": "该命题概括其原典中反复出现的论证方向，并为本问题的后续分支提供基础。",
+            "themeIds": [
+              "knowledge",
+              "metaphysics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "descartes:evidence:001",
+                "titleZh": "核心命题一：确定性从哪里开始？的文本依据",
+                "summaryZh": "笛卡尔在 Meditationes I on methodic doubt 中提供该命题的原典定位，用于支撑“核心命题一：确定性从哪里开始？”这一解释。",
+                "source": {
+                  "workId": "descartes-primary-work",
+                  "locator": "Meditationes I on methodic doubt",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "descartes:evidence:002",
+                "titleZh": "核心命题一：确定性从哪里开始？的文本依据",
+                "summaryZh": "笛卡尔在 Meditationes II on cogito and thinking thing 中提供该命题的原典定位，用于支撑“核心命题一：确定性从哪里开始？”这一解释。",
+                "source": {
+                  "workId": "descartes-primary-work",
+                  "locator": "Meditationes II on cogito and thinking thing",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "descartes:claim:002",
+            "titleZh": "核心命题二：确定性从哪里开始？",
+            "claimZh": "笛卡尔在“确定性从哪里开始？”中进一步推出实践、制度或认识论后果。",
+            "explanationZh": "该命题把概念论证推进到可比较的问题谱系，避免只停留在术语解释。",
+            "themeIds": [
+              "knowledge",
+              "metaphysics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "descartes:evidence:003",
+                "titleZh": "核心命题二：确定性从哪里开始？的文本依据",
+                "summaryZh": "笛卡尔在 Meditationes I on methodic doubt 中提供该命题的原典定位，用于支撑“核心命题二：确定性从哪里开始？”这一解释。",
+                "source": {
+                  "workId": "descartes-primary-work",
+                  "locator": "Meditationes I on methodic doubt",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "descartes:evidence:004",
+                "titleZh": "核心命题二：确定性从哪里开始？的文本依据",
+                "summaryZh": "笛卡尔在 Meditationes II on cogito and thinking thing 中提供该命题的原典定位，用于支撑“核心命题二：确定性从哪里开始？”这一解释。",
+                "source": {
+                  "workId": "descartes-primary-work",
+                  "locator": "Meditationes II on cogito and thinking thing",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "descartes:problem:002",
+        "titleZh": "心灵与身体如何区分？",
+        "questionZh": "笛卡尔如何围绕“心灵与身体如何区分？”建立其思想问题？",
+        "summaryZh": "笛卡尔在这一问题上形成了可辨认的论证路径，连接文本命题、概念区分和后世问题谱系。",
+        "themeIds": [
+          "freedom",
+          "ethics"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "descartes:claim:003",
+            "titleZh": "核心命题一：心灵与身体如何区分？",
+            "claimZh": "笛卡尔在“心灵与身体如何区分？”中提出基础性立场，说明其理论问题的出发点。",
+            "explanationZh": "该命题概括其原典中反复出现的论证方向，并为本问题的后续分支提供基础。",
+            "themeIds": [
+              "freedom",
+              "ethics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "descartes:evidence:005",
+                "titleZh": "核心命题一：心灵与身体如何区分？的文本依据",
+                "summaryZh": "笛卡尔在 Meditationes II on wax example 中提供该命题的原典定位，用于支撑“核心命题一：心灵与身体如何区分？”这一解释。",
+                "source": {
+                  "workId": "descartes-primary-work",
+                  "locator": "Meditationes II on wax example",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "descartes:evidence:006",
+                "titleZh": "核心命题一：心灵与身体如何区分？的文本依据",
+                "summaryZh": "笛卡尔在 Meditationes VI on mind-body distinction and union 中提供该命题的原典定位，用于支撑“核心命题一：心灵与身体如何区分？”这一解释。",
+                "source": {
+                  "workId": "descartes-primary-work",
+                  "locator": "Meditationes VI on mind-body distinction and union",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "descartes:claim:004",
+            "titleZh": "核心命题二：心灵与身体如何区分？",
+            "claimZh": "笛卡尔在“心灵与身体如何区分？”中进一步推出实践、制度或认识论后果。",
+            "explanationZh": "该命题把概念论证推进到可比较的问题谱系，避免只停留在术语解释。",
+            "themeIds": [
+              "freedom",
+              "ethics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "descartes:evidence:007",
+                "titleZh": "核心命题二：心灵与身体如何区分？的文本依据",
+                "summaryZh": "笛卡尔在 Meditationes II on wax example 中提供该命题的原典定位，用于支撑“核心命题二：心灵与身体如何区分？”这一解释。",
+                "source": {
+                  "workId": "descartes-primary-work",
+                  "locator": "Meditationes II on wax example",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "descartes:evidence:008",
+                "titleZh": "核心命题二：心灵与身体如何区分？的文本依据",
+                "summaryZh": "笛卡尔在 Meditationes VI on mind-body distinction and union 中提供该命题的原典定位，用于支撑“核心命题二：心灵与身体如何区分？”这一解释。",
+                "source": {
+                  "workId": "descartes-primary-work",
+                  "locator": "Meditationes VI on mind-body distinction and union",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "descartes:problem:003",
+        "titleZh": "上帝保证知识吗？",
+        "questionZh": "笛卡尔如何围绕“上帝保证知识吗？”建立其思想问题？",
+        "summaryZh": "笛卡尔在这一问题上形成了可辨认的论证路径，连接文本命题、概念区分和后世问题谱系。",
+        "themeIds": [
+          "politics",
+          "ethics"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "descartes:claim:005",
+            "titleZh": "核心命题一：上帝保证知识吗？",
+            "claimZh": "笛卡尔在“上帝保证知识吗？”中提出基础性立场，说明其理论问题的出发点。",
+            "explanationZh": "该命题概括其原典中反复出现的论证方向，并为本问题的后续分支提供基础。",
+            "themeIds": [
+              "politics",
+              "ethics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "descartes:evidence:009",
+                "titleZh": "核心命题一：上帝保证知识吗？的文本依据",
+                "summaryZh": "笛卡尔在 Meditationes III on idea of God 中提供该命题的原典定位，用于支撑“核心命题一：上帝保证知识吗？”这一解释。",
+                "source": {
+                  "workId": "descartes-primary-work",
+                  "locator": "Meditationes III on idea of God",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "descartes:evidence:010",
+                "titleZh": "核心命题一：上帝保证知识吗？的文本依据",
+                "summaryZh": "笛卡尔在 Meditationes IV on error, will and intellect 中提供该命题的原典定位，用于支撑“核心命题一：上帝保证知识吗？”这一解释。",
+                "source": {
+                  "workId": "descartes-primary-work",
+                  "locator": "Meditationes IV on error, will and intellect",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "descartes:claim:006",
+            "titleZh": "核心命题二：上帝保证知识吗？",
+            "claimZh": "笛卡尔在“上帝保证知识吗？”中进一步推出实践、制度或认识论后果。",
+            "explanationZh": "该命题把概念论证推进到可比较的问题谱系，避免只停留在术语解释。",
+            "themeIds": [
+              "politics",
+              "ethics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "descartes:evidence:011",
+                "titleZh": "核心命题二：上帝保证知识吗？的文本依据",
+                "summaryZh": "笛卡尔在 Meditationes III on idea of God 中提供该命题的原典定位，用于支撑“核心命题二：上帝保证知识吗？”这一解释。",
+                "source": {
+                  "workId": "descartes-primary-work",
+                  "locator": "Meditationes III on idea of God",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "descartes:evidence:012",
+                "titleZh": "核心命题二：上帝保证知识吗？的文本依据",
+                "summaryZh": "笛卡尔在 Meditationes IV on error, will and intellect 中提供该命题的原典定位，用于支撑“核心命题二：上帝保证知识吗？”这一解释。",
+                "source": {
+                  "workId": "descartes-primary-work",
+                  "locator": "Meditationes IV on error, will and intellect",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
 }

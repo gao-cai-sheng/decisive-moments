@@ -5,9 +5,9 @@
     "en": "Martin Heidegger"
   },
   "life": {
-    "display": "1889—1976",
     "birth": 1889,
-    "death": 1976
+    "death": 1976,
+    "display": "1889—1976"
   },
   "civilization": "european_modern",
   "traditions": [
@@ -38,5 +38,184 @@
       "label": "draft",
       "noteZh": "条目需要人工核对作品、年代和概念表述。"
     }
-  ]
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "heidegger:problem:001",
+        "titleZh": "存在问题为何被遗忘？",
+        "questionZh": "海德格尔如何围绕“存在问题为何被遗忘？”建立其思想问题？",
+        "summaryZh": "海德格尔认为西方形而上学长期追问存在者，却遗忘了存在本身的意义问题。",
+        "themeIds": [
+          "metaphysics",
+          "knowledge"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "heidegger:claim:001",
+            "titleZh": "存在不同于存在者",
+            "claimZh": "海德格尔主张，存在问题不能被还原为某个最高存在者，必须重建存在与存在者的差异。",
+            "explanationZh": "该命题构成基础存在论起点，使传统本体论的对象化倾向成为批判对象。",
+            "themeIds": [
+              "metaphysics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "heidegger:evidence:001",
+                "titleZh": "存在问题依据",
+                "summaryZh": "《存在与时间》导论指出存在意义虽被预设，却长期没有被作为问题本身展开。",
+                "source": {
+                  "workId": "heidegger-primary-work",
+                  "locator": "《存在与时间》导论第1—2节关于存在问题的必要性",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "heidegger:claim:002",
+            "titleZh": "此在是追问入口",
+            "claimZh": "海德格尔认为，能追问存在意义的存在者是此在，分析此在是进入存在问题的方法。",
+            "explanationZh": "该命题把哲学起点从抽象主体改为处境化存在，使存在论与人的世界关联相连。",
+            "themeIds": [
+              "metaphysics",
+              "knowledge"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "heidegger:evidence:002",
+                "titleZh": "此在优先性依据",
+                "summaryZh": "《存在与时间》说明此在在存在问题中具有存在者、存在论和前存在论三重优先性。",
+                "source": {
+                  "workId": "heidegger-primary-work",
+                  "locator": "《存在与时间》导论第4节关于此在的优先性",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "heidegger:problem:002",
+        "titleZh": "此在如何总已在世界中？",
+        "questionZh": "海德格尔如何围绕“此在如何总已在世界中？”建立其思想问题？",
+        "summaryZh": "海德格尔用在世存在、操劳和器具关联瓦解主客二分，说明理解世界先于理论认识。",
+        "themeIds": [
+          "metaphysics",
+          "knowledge"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "heidegger:claim:003",
+            "titleZh": "在世存在先于主客对立",
+            "claimZh": "海德格尔主张，此在不是孤立主体再面对对象世界，而是总已在有意义的世界关系中活动。",
+            "explanationZh": "该命题重构认识论前提，把实践性和情境性置于理论对象化之前。",
+            "themeIds": [
+              "metaphysics",
+              "knowledge"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "heidegger:evidence:003",
+                "titleZh": "在世存在依据",
+                "summaryZh": "《存在与时间》把世界性分析为此在的基本结构，而不是外部对象集合。",
+                "source": {
+                  "workId": "heidegger-primary-work",
+                  "locator": "《存在与时间》第一篇第三章关于在世存在",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "heidegger:claim:004",
+            "titleZh": "上手状态揭示实践世界",
+            "claimZh": "海德格尔认为，器具首先在使用中以上手方式出现，只有故障或抽离时才成为对象。",
+            "explanationZh": "该命题说明日常实践比旁观认识更原初，世界意义从关联整体中展开。",
+            "themeIds": [
+              "knowledge"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "heidegger:evidence:004",
+                "titleZh": "上手分析依据",
+                "summaryZh": "《存在与时间》通过器具分析展示实践关联如何先于理论凝视而显现世界。",
+                "source": {
+                  "workId": "heidegger-primary-work",
+                  "locator": "《存在与时间》第15—16节关于器具、上手与现成",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "heidegger:problem:003",
+        "titleZh": "向死而在如何开启本真自由？",
+        "questionZh": "海德格尔如何围绕“向死而在如何开启本真自由？”建立其思想问题？",
+        "summaryZh": "海德格尔把死亡、良知和决断联系起来，说明此在如何从常人沉沦中承担自身可能性。",
+        "themeIds": [
+          "freedom",
+          "life_death"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "heidegger:claim:005",
+            "titleZh": "死亡使本己可能性显现",
+            "claimZh": "海德格尔主张，死亡不是外在事件，而是此在最本己、不可替代、不可逾越的可能性。",
+            "explanationZh": "该命题把死亡从事实终点转化为存在结构，说明有限性如何塑造自我理解。",
+            "themeIds": [
+              "life_death",
+              "metaphysics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "heidegger:evidence:005",
+                "titleZh": "向死而在依据",
+                "summaryZh": "《存在与时间》通过死亡分析说明，此在面对自身不能由他人替代的可能性。",
+                "source": {
+                  "workId": "heidegger-primary-work",
+                  "locator": "《存在与时间》第50—53节关于向死而在",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "heidegger:claim:006",
+            "titleZh": "本真决断承担被抛处境",
+            "claimZh": "海德格尔认为，本真自由不是任意选择，而是在被抛世界中听从良知召唤。",
+            "explanationZh": "该命题把自由理解为有限处境中的决断，避免把自由简化为抽象意志。",
+            "themeIds": [
+              "freedom",
+              "ethics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "heidegger:evidence:006",
+                "titleZh": "良知决断依据",
+                "summaryZh": "《存在与时间》把良知理解为此在把自己从常人状态召回本己可能性的方式。",
+                "source": {
+                  "workId": "heidegger-primary-work",
+                  "locator": "《存在与时间》第57—60节关于良知和决断",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
 }

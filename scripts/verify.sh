@@ -40,11 +40,18 @@ case "$PHASE" in
     hr "门2 admit dry-run --overwrite（只读，不写正式库）"
     node tools/admit-kimi-thought-systems.mjs "$BATCH" --overwrite || fail=1
 
+    hr "门3 内容标准档硬门（只读，thin_evidence/summary_thin/weight 需清零）"
+    if [ -f "$BATCH/thought-systems.json" ]; then
+      node tools/quality-audit.mjs --batch "$BATCH/thought-systems.json" --require-standard || fail=1
+    else
+      echo "  ⚠️ 未找到 $BATCH/thought-systems.json，跳过标准档硬门（batch 目录结构异常，请核查）"; fail=1
+    fi
+
     hr "结论"
     if [ "$fail" -eq 0 ]; then
       echo "✅ 写前门全绿：可由智能体单独执行 admit --overwrite --write（看完上面 dry-run 计划再写）"
     else
-      echo "❌ 写前门未过：禁止 --write，回 §4 修内容/workId"
+      echo "❌ 写前门未过：禁止 --write，回 §4 加厚到标准档（每 claim >=2 evidence、summaryZh >=40、weight 有区分）或修 workId"
     fi
     ;;
 

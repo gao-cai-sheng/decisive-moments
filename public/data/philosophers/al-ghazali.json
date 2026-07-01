@@ -5,9 +5,9 @@
     "en": "Al-Ghazali"
   },
   "life": {
-    "display": "1058—1111",
     "birth": 1058,
-    "death": 1111
+    "death": 1111,
+    "display": "1058—1111"
   },
   "civilization": "islamic",
   "traditions": [
@@ -38,5 +38,246 @@
       "label": "draft",
       "noteZh": "条目需要人工核对作品、年代和概念表述。"
     }
-  ]
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "al-ghazali:problem:001",
+        "titleZh": "哲学证明在何处越界？",
+        "questionZh": "安萨里如何围绕“哲学证明在何处越界？”建立其思想问题？",
+        "summaryZh": "安萨里承认逻辑与证明的有限效力，但批判哲学家把形而上学推论伪装成不可动摇知识。",
+        "themeIds": [
+          "knowledge",
+          "religion"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "al-ghazali:claim:001",
+            "titleZh": "逻辑工具可用但不能保证形而上学结论",
+            "claimZh": "安萨里认为，逻辑和数学式推理可作为工具使用，但不能把所有神学问题化约为哲学必然证明。",
+            "explanationZh": "该命题区分推理形式的有效性与具体形而上学前提的可靠性，避免把反哲学误解为反理性。",
+            "themeIds": [
+              "knowledge",
+              "religion"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "al-ghazali:evidence:001",
+                "titleZh": "逻辑工具依据",
+                "summaryZh": "《哲学家的矛盾》导论区分数学、逻辑与形而上学争论，说明批判对象不是推理工具本身，而是哲学家的越界断言。",
+                "source": {
+                  "workId": "al-ghazali-primary-work",
+                  "locator": "《哲学家的矛盾》导论第4段",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "al-ghazali:evidence:002",
+                "titleZh": "形而上学争议依据",
+                "summaryZh": "同一导论进一步指出，形而上学命题不像数学结论那样强制一致，哲学家在关键问题上存在无法消除的分歧。",
+                "source": {
+                  "workId": "al-ghazali-primary-work",
+                  "locator": "《哲学家的矛盾》导论第8段",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "al-ghazali:claim:002",
+            "titleZh": "哲学家在三项教义上越过宗教边界",
+            "claimZh": "安萨里主张，世界永恒、神只知普遍、身体复活否定等主张触犯核心宗教信念。",
+            "explanationZh": "该命题把理性争论转化为信仰边界问题，明确哪些哲学主张不能仅作为学派差异处理。",
+            "themeIds": [
+              "religion",
+              "metaphysics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "al-ghazali:evidence:003",
+                "titleZh": "三项越界依据",
+                "summaryZh": "《哲学家的矛盾》结尾列出哲学家若坚持若干核心命题将触犯信仰边界，尤其涉及创造、神知和复活。",
+                "source": {
+                  "workId": "al-ghazali-primary-work",
+                  "locator": "《哲学家的矛盾》结语第2段",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "al-ghazali:evidence:004",
+                "titleZh": "教义边界依据",
+                "summaryZh": "文本在各问题之后不断区分可容许的解释差异与不可接受的根本否定，显示其批判具有明确教义限度。",
+                "source": {
+                  "workId": "al-ghazali-primary-work",
+                  "locator": "《哲学家的矛盾》结语第5段",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "al-ghazali:problem:002",
+        "titleZh": "因果关系是必然连接还是习惯秩序？",
+        "questionZh": "安萨里如何围绕“因果关系是必然连接还是习惯秩序？”建立其思想问题？",
+        "summaryZh": "安萨里通过火与棉花等例子质疑自然因果必然性，把规律性理解为神意维持的习惯秩序。",
+        "themeIds": [
+          "metaphysics",
+          "knowledge"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "al-ghazali:claim:003",
+            "titleZh": "经验相继不等于必然连接",
+            "claimZh": "安萨里认为，我们观察到事件恒常相继，并不能证明原因与结果之间存在独立必然联系。",
+            "explanationZh": "该命题削弱自然必然性，把经验归纳与形而上学必然区别开来，为偶因论打开空间。",
+            "themeIds": [
+              "knowledge",
+              "metaphysics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "al-ghazali:evidence:005",
+                "titleZh": "火棉例子依据",
+                "summaryZh": "《哲学家的矛盾》第十七问题用火接触棉花的例子说明，燃烧相伴出现并不证明火本身必然产生燃烧。",
+                "source": {
+                  "workId": "al-ghazali-primary-work",
+                  "locator": "《哲学家的矛盾》第十七问题第6段",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "al-ghazali:evidence:006",
+                "titleZh": "相继观察依据",
+                "summaryZh": "同段之后强调，感官只见一物与另一物同时或相继出现，并未直接见到不可分离的必然联系本身。",
+                "source": {
+                  "workId": "al-ghazali-primary-work",
+                  "locator": "《哲学家的矛盾》第十七问题第8段",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "al-ghazali:claim:004",
+            "titleZh": "规律稳定来自神意习惯而非自然自足",
+            "claimZh": "安萨里主张，自然秩序可以稳定运行，但这种稳定依赖神意习惯，而不是自然物自足能力。",
+            "explanationZh": "该命题允许日常经验和科学预期继续有效，同时保留神迹和创造性介入的可能。",
+            "themeIds": [
+              "religion",
+              "metaphysics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "al-ghazali:evidence:007",
+                "titleZh": "习惯秩序依据",
+                "summaryZh": "《哲学家的矛盾》第十七问题把通常自然过程解释为神按习惯创造结果，而非原因本身具有独立效力。",
+                "source": {
+                  "workId": "al-ghazali-primary-work",
+                  "locator": "《哲学家的矛盾》第十七问题第12段",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "al-ghazali:evidence:008",
+                "titleZh": "神迹可能依据",
+                "summaryZh": "该问题后部说明，若因果不是自然自足必然，神迹就不是矛盾事件，而是习惯秩序的例外安排。",
+                "source": {
+                  "workId": "al-ghazali-primary-work",
+                  "locator": "《哲学家的矛盾》第十七问题第18段",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "al-ghazali:problem:003",
+        "titleZh": "宗教确信如何通过实践获得？",
+        "questionZh": "安萨里如何围绕“宗教确信如何通过实践获得？”建立其思想问题？",
+        "summaryZh": "安萨里在怀疑经验后把知识、伦理修行和内在净化联系起来，强调确信不只是论证结论。",
+        "themeIds": [
+          "religion",
+          "ethics"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "al-ghazali:claim:005",
+            "titleZh": "怀疑推动寻找确定知识",
+            "claimZh": "安萨里认为，感官和权威都可能不足以支撑终极确定性，必须追问知识可靠性的根源。",
+            "explanationZh": "该命题把个人精神危机转化为认识论问题，说明其宗教思想不是单纯接受传统。",
+            "themeIds": [
+              "knowledge",
+              "religion"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "al-ghazali:evidence:009",
+                "titleZh": "怀疑经验依据",
+                "summaryZh": "《迷途指津》叙述他对感官和理性信念产生怀疑，显示寻找确信首先经历对知识来源的审查。",
+                "source": {
+                  "workId": "al-ghazali-primary-work",
+                  "locator": "《迷途指津》第2节第5段",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "al-ghazali:evidence:010",
+                "titleZh": "确定性追求依据",
+                "summaryZh": "同书说明他要求的知识必须达到不可能被怀疑推翻的程度，由此区分习惯信念和真正确信。",
+                "source": {
+                  "workId": "al-ghazali-primary-work",
+                  "locator": "《迷途指津》第2节第8段",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "al-ghazali:claim:006",
+            "titleZh": "苏非实践使知识成为内在经验",
+            "claimZh": "安萨里主张，宗教真理不仅要被理解，还要通过修行、净化和生活实践成为切身确信。",
+            "explanationZh": "该命题把伦理修行与认识论结合，使知识不只是命题判断，而是主体状态的转化。",
+            "themeIds": [
+              "religion",
+              "ethics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "al-ghazali:evidence:011",
+                "titleZh": "苏非道路依据",
+                "summaryZh": "《迷途指津》在讨论苏非道路时指出，核心不在口头理论，而在品尝式体验和灵魂状态的改变。",
+                "source": {
+                  "workId": "al-ghazali-primary-work",
+                  "locator": "《迷途指津》第5节第6段",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "al-ghazali:evidence:012",
+                "titleZh": "实践转化依据",
+                "summaryZh": "同节进一步把净化心灵、节制欲望和持续操练视为获得宗教确信的条件，强调实践优先性。",
+                "source": {
+                  "workId": "al-ghazali-primary-work",
+                  "locator": "《迷途指津》第5节第10段",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
 }

@@ -5,9 +5,9 @@
     "en": "Gottlob Frege"
   },
   "life": {
-    "display": "1848—1925",
     "birth": 1848,
-    "death": 1925
+    "death": 1925,
+    "display": "1848—1925"
   },
   "civilization": "european_modern",
   "traditions": [
@@ -38,5 +38,182 @@
       "label": "draft",
       "noteZh": "条目需要人工核对作品、年代和概念表述。"
     }
-  ]
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "frege:problem:001",
+        "titleZh": "算术真理如何获得客观性？",
+        "questionZh": "弗雷格如何围绕“算术真理如何获得客观性？”建立其思想问题？",
+        "summaryZh": "弗雷格试图说明算术不是心理习惯或经验归纳，而是由逻辑概念和严格定义支撑的客观知识。",
+        "themeIds": [
+          "knowledge"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "frege:claim:001",
+            "titleZh": "数不是心理表象",
+            "claimZh": "弗雷格主张数的客观性不依赖个别主体的内在图像；算术命题的公共有效性要求区别概念、对象与表象。",
+            "explanationZh": "该命题奠定反心理主义立场，把数学哲学从意识内容转向可共享的逻辑结构和语言表达。",
+            "themeIds": [
+              "knowledge"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "frege:evidence:001",
+                "titleZh": "数不是心理表象的文本依据",
+                "summaryZh": "弗雷格批判把数解释为心理图像的观点，强调同一算术真理必须能被不同主体共同把握。",
+                "source": {
+                  "workId": "frege-primary-work",
+                  "locator": "《算术基础》第26—27节关于数非主观表象",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "frege:claim:002",
+            "titleZh": "算术可还原为逻辑原则",
+            "claimZh": "弗雷格认为算术的基本概念应通过逻辑定义获得，其证明不应依赖直观或经验事实，而应依赖普遍有效的推理规则。",
+            "explanationZh": "该命题构成逻辑主义方案核心，使数学基础问题转化为逻辑语言、定义和证明体系的建构问题。",
+            "themeIds": [
+              "knowledge"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "frege:evidence:002",
+                "titleZh": "算术可还原为逻辑原则的文本依据",
+                "summaryZh": "弗雷格说明其符号语言旨在精确表达纯粹思想内容，避免自然语言歧义影响数学证明。",
+                "source": {
+                  "workId": "frege-primary-work",
+                  "locator": "《概念文字》序言与第1—3节关于形式语言目标",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "frege:problem:002",
+        "titleZh": "语言意义如何区别于指称？",
+        "questionZh": "弗雷格如何围绕“语言意义如何区别于指称？”建立其思想问题？",
+        "summaryZh": "弗雷格通过意义与指称之分解释同一对象的不同给出方式，改变了现代语言哲学的问题框架。",
+        "themeIds": [
+          "language",
+          "knowledge"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "frege:claim:003",
+            "titleZh": "意义是对象的给出方式",
+            "claimZh": "弗雷格主张，一个名称可以有同一指称却有不同意义；认知价值差异来自对象被呈现的方式，而非对象本身。",
+            "explanationZh": "该命题解释同一性陈述为何可能具有知识增益，并为后来的语义学提供基本区分。",
+            "themeIds": [
+              "language",
+              "knowledge"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "frege:evidence:003",
+                "titleZh": "意义是对象的给出方式的文本依据",
+                "summaryZh": "弗雷格通过晨星与昏星例子说明，若只看指称，就无法解释某些同一性命题为何具有认知价值。",
+                "source": {
+                  "workId": "frege-primary-work",
+                  "locator": "《论意义和指称》开篇关于“晨星/昏星”的同一性问题",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "frege:claim:004",
+            "titleZh": "句子的指称是真值",
+            "claimZh": "弗雷格认为完整陈述句的指称是真值，句子的意义则是思想；这一分析把逻辑推理与语言结构紧密联系起来。",
+            "explanationZh": "该命题把语义分析推进到命题层次，使复合句、量词和推理关系可在真假条件框架下处理。",
+            "themeIds": [
+              "knowledge",
+              "language"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "frege:evidence:004",
+                "titleZh": "句子的指称是真值的文本依据",
+                "summaryZh": "弗雷格提出陈述句也有指称，而陈述句的指称应理解为真或假这两个真值之一。",
+                "source": {
+                  "workId": "frege-primary-work",
+                  "locator": "《论意义和指称》中段关于陈述句指称为真值",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "frege:problem:003",
+        "titleZh": "逻辑形式如何澄清思想？",
+        "questionZh": "弗雷格如何围绕“逻辑形式如何澄清思想？”建立其思想问题？",
+        "summaryZh": "弗雷格以函数—自变量分析、量词和概念层级替代传统主谓逻辑，使复杂推理获得更精确表达。",
+        "themeIds": [
+          "knowledge",
+          "language"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "frege:claim:005",
+            "titleZh": "函数—自变量结构重塑命题分析",
+            "claimZh": "弗雷格主张，许多句子的逻辑结构不应按语法主谓划分，而应通过函数与自变量、概念与对象来分析。",
+            "explanationZh": "该命题打开现代谓词逻辑道路，使关系命题、多重量化和数学证明能被更精确地表示。",
+            "themeIds": [
+              "knowledge"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "frege:evidence:005",
+                "titleZh": "函数—自变量结构的文本依据",
+                "summaryZh": "弗雷格以函数表达式的未完成性解释概念结构，说明逻辑分析需超越传统语法分类。",
+                "source": {
+                  "workId": "frege-primary-work",
+                  "locator": "《函数与概念》关于函数不饱和性的说明",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "frege:claim:006",
+            "titleZh": "概念层级避免范畴混乱",
+            "claimZh": "弗雷格强调对象、一级概念和高阶概念不可混同；许多哲学误解来自把不同逻辑层级的表达当作同类对象。",
+            "explanationZh": "该命题把哲学澄清变成逻辑语法分析，为分析哲学的反混淆方法提供早期范式。",
+            "themeIds": [
+              "knowledge",
+              "metaphysics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "frege:evidence:006",
+                "titleZh": "概念层级避免范畴混乱的文本依据",
+                "summaryZh": "弗雷格回应概念似乎也能被命名的困难，强调语言表面形式不能取消逻辑层级差异。",
+                "source": {
+                  "workId": "frege-primary-work",
+                  "locator": "《论概念和对象》关于概念与对象不可互换",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
 }

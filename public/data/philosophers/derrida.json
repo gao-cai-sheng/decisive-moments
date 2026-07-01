@@ -5,9 +5,9 @@
     "en": "Jacques Derrida"
   },
   "life": {
-    "display": "1930—2004",
     "birth": 1930,
-    "death": 2004
+    "death": 2004,
+    "display": "1930—2004"
   },
   "civilization": "european_modern",
   "traditions": [
@@ -38,5 +38,185 @@
       "label": "draft",
       "noteZh": "条目需要人工核对作品、年代和概念表述。"
     }
-  ]
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "derrida:problem:001",
+        "titleZh": "意义为何总在差异中延异？",
+        "questionZh": "德里达如何围绕“意义为何总在差异中延异？”建立其思想问题？",
+        "summaryZh": "德里达批判意义作为稳定在场的观念，强调意义由差异、痕迹和延异构成。",
+        "themeIds": [
+          "language",
+          "metaphysics"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "derrida:claim:001",
+            "titleZh": "意义不以纯粹在场为基础",
+            "claimZh": "德里达主张，符号意义不能归结为完全在场的意图或本源，而总依赖差异网络。",
+            "explanationZh": "该命题动摇传统形而上学的在场优先，推动语言和文本的解构分析。",
+            "themeIds": [
+              "language",
+              "metaphysics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "derrida:evidence:001",
+                "titleZh": "在场批判依据",
+                "summaryZh": "《论文字学》批判西方传统把语音、意义和在场结合起来贬低书写。",
+                "source": {
+                  "workId": "derrida-primary-work",
+                  "locator": "《论文字学》第一部关于逻各斯中心主义和在场形而上学",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "derrida:claim:002",
+            "titleZh": "延异意味着差异和延期",
+            "claimZh": "德里达认为，意义通过与其他符号的差异产生，同时又不断推迟最终固定。",
+            "explanationZh": "该命题说明意义的开放性不是偶然缺陷，而是符号结构本身的条件。",
+            "themeIds": [
+              "language",
+              "knowledge"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "derrida:evidence:002",
+                "titleZh": "延异依据",
+                "summaryZh": "《延异》用différance说明意义既依赖差异又永远延期完成。",
+                "source": {
+                  "workId": "derrida-primary-work",
+                  "locator": "《延异》演讲关于différance的双重含义",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "derrida:problem:002",
+        "titleZh": "书写为何不是言语的次级复制？",
+        "questionZh": "德里达如何围绕“书写为何不是言语的次级复制？”建立其思想问题？",
+        "summaryZh": "德里达反转言语优先传统，指出所谓书写特征其实构成所有符号运作的普遍条件。",
+        "themeIds": [
+          "language",
+          "knowledge"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "derrida:claim:003",
+            "titleZh": "书写揭示符号可重复性",
+            "claimZh": "德里达主张，符号能发挥作用是因为它可脱离原初语境重复，而这不是书写缺陷。",
+            "explanationZh": "该命题把意义条件从主体意图转向可迭代性，影响文本、法律和政治解释。",
+            "themeIds": [
+              "language"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "derrida:evidence:003",
+                "titleZh": "可迭代性依据",
+                "summaryZh": "《签名、事件、语境》说明符号必须能在不同语境中重复，才可能成为符号。",
+                "source": {
+                  "workId": "derrida-primary-work",
+                  "locator": "《签名、事件、语境》关于可迭代性",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "derrida:claim:004",
+            "titleZh": "语境无法完全封闭意义",
+            "claimZh": "德里达认为，任何解释都依赖语境，但语境本身没有最终边界。",
+            "explanationZh": "该命题不是否认解释约束，而是指出约束总可被重新开启和补充。",
+            "themeIds": [
+              "language",
+              "knowledge"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "derrida:evidence:004",
+                "titleZh": "语境不可饱和依据",
+                "summaryZh": "《签名、事件、语境》反对把语境当作能最终固定意义的封闭整体。",
+                "source": {
+                  "workId": "derrida-primary-work",
+                  "locator": "《签名、事件、语境》关于语境不可饱和",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "derrida:problem:003",
+        "titleZh": "解构如何介入伦理与政治？",
+        "questionZh": "德里达如何围绕“解构如何介入伦理与政治？”建立其思想问题？",
+        "summaryZh": "德里达把解构推进到法律、正义、责任和他者问题，强调不可化约的决定困境。",
+        "themeIds": [
+          "justice",
+          "ethics"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "derrida:claim:005",
+            "titleZh": "正义不可还原为既定法律",
+            "claimZh": "德里达主张，法律可被制定和解释，正义却不能被完全等同于现有规则体系。",
+            "explanationZh": "该命题使解构具有政治伦理维度：规则必要，却永远可能被正义要求重新审视。",
+            "themeIds": [
+              "justice",
+              "politics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "derrida:evidence:005",
+                "titleZh": "法律与正义依据",
+                "summaryZh": "《法律的力量》区分可解构的法律和不可被制度穷尽的正义要求。",
+                "source": {
+                  "workId": "derrida-primary-work",
+                  "locator": "《法律的力量》关于法律与正义的区分",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "derrida:claim:006",
+            "titleZh": "责任发生在不可计算决定中",
+            "claimZh": "德里达认为，真正的责任不是机械执行规则，而是在规则不足以决定时仍必须承担决定。",
+            "explanationZh": "该命题把伦理理解为面对他者和不可判定性的行动，而非确定程序自动应用。",
+            "themeIds": [
+              "ethics",
+              "justice"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "derrida:evidence:006",
+                "titleZh": "不可判定性依据",
+                "summaryZh": "《法律的力量》说明，若决定完全由规则计算得出，就不能称为真正负责任的决定。",
+                "source": {
+                  "workId": "derrida-primary-work",
+                  "locator": "《法律的力量》关于不可判定性与决定",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
 }

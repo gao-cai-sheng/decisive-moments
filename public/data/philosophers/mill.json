@@ -5,9 +5,9 @@
     "en": "John Stuart Mill"
   },
   "life": {
-    "display": "1806—1873",
     "birth": 1806,
-    "death": 1873
+    "death": 1873,
+    "display": "1806—1873"
   },
   "civilization": "european_modern",
   "traditions": [
@@ -38,5 +38,246 @@
       "label": "draft",
       "noteZh": "条目需要人工核对作品、年代和概念表述。"
     }
-  ]
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "mill:problem:001",
+        "titleZh": "自由为何需要伤害原则？",
+        "questionZh": "约翰·密尔如何围绕“自由为何需要伤害原则？”建立其思想问题？",
+        "summaryZh": "约翰·密尔在这一问题上形成了可辨认的论证路径，连接文本命题、概念区分和后世问题谱系。",
+        "themeIds": [
+          "knowledge",
+          "metaphysics"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "mill:claim:001",
+            "titleZh": "核心命题一：自由为何需要伤害原则？",
+            "claimZh": "约翰·密尔在“自由为何需要伤害原则？”中提出基础性立场，说明其理论问题的出发点。",
+            "explanationZh": "该命题概括其原典中反复出现的论证方向，并为本问题的后续分支提供基础。",
+            "themeIds": [
+              "knowledge",
+              "metaphysics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "mill:evidence:001",
+                "titleZh": "核心命题一：自由为何需要伤害原则？的文本依据",
+                "summaryZh": "约翰·密尔在 On Liberty chapter 1 on harm principle 中提供该命题的原典定位，用于支撑“核心命题一：自由为何需要伤害原则？”这一解释。",
+                "source": {
+                  "workId": "mill-primary-work",
+                  "locator": "On Liberty chapter 1 on harm principle",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "mill:evidence:002",
+                "titleZh": "核心命题一：自由为何需要伤害原则？的文本依据",
+                "summaryZh": "约翰·密尔在 On Liberty chapter 1 on tyranny of the majority 中提供该命题的原典定位，用于支撑“核心命题一：自由为何需要伤害原则？”这一解释。",
+                "source": {
+                  "workId": "mill-primary-work",
+                  "locator": "On Liberty chapter 1 on tyranny of the majority",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "mill:claim:002",
+            "titleZh": "核心命题二：自由为何需要伤害原则？",
+            "claimZh": "约翰·密尔在“自由为何需要伤害原则？”中进一步推出实践、制度或认识论后果。",
+            "explanationZh": "该命题把概念论证推进到可比较的问题谱系，避免只停留在术语解释。",
+            "themeIds": [
+              "knowledge",
+              "metaphysics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "mill:evidence:003",
+                "titleZh": "核心命题二：自由为何需要伤害原则？的文本依据",
+                "summaryZh": "约翰·密尔在 On Liberty chapter 1 on harm principle 中提供该命题的原典定位，用于支撑“核心命题二：自由为何需要伤害原则？”这一解释。",
+                "source": {
+                  "workId": "mill-primary-work",
+                  "locator": "On Liberty chapter 1 on harm principle",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "mill:evidence:004",
+                "titleZh": "核心命题二：自由为何需要伤害原则？的文本依据",
+                "summaryZh": "约翰·密尔在 On Liberty chapter 1 on tyranny of the majority 中提供该命题的原典定位，用于支撑“核心命题二：自由为何需要伤害原则？”这一解释。",
+                "source": {
+                  "workId": "mill-primary-work",
+                  "locator": "On Liberty chapter 1 on tyranny of the majority",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "mill:problem:002",
+        "titleZh": "为什么保护异端意见？",
+        "questionZh": "约翰·密尔如何围绕“为什么保护异端意见？”建立其思想问题？",
+        "summaryZh": "约翰·密尔在这一问题上形成了可辨认的论证路径，连接文本命题、概念区分和后世问题谱系。",
+        "themeIds": [
+          "freedom",
+          "ethics"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "mill:claim:003",
+            "titleZh": "核心命题一：为什么保护异端意见？",
+            "claimZh": "约翰·密尔在“为什么保护异端意见？”中提出基础性立场，说明其理论问题的出发点。",
+            "explanationZh": "该命题概括其原典中反复出现的论证方向，并为本问题的后续分支提供基础。",
+            "themeIds": [
+              "freedom",
+              "ethics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "mill:evidence:005",
+                "titleZh": "核心命题一：为什么保护异端意见？的文本依据",
+                "summaryZh": "约翰·密尔在 On Liberty chapter 2 on fallibility 中提供该命题的原典定位，用于支撑“核心命题一：为什么保护异端意见？”这一解释。",
+                "source": {
+                  "workId": "mill-primary-work",
+                  "locator": "On Liberty chapter 2 on fallibility",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "mill:evidence:006",
+                "titleZh": "核心命题一：为什么保护异端意见？的文本依据",
+                "summaryZh": "约翰·密尔在 On Liberty chapter 2 on dead dogma 中提供该命题的原典定位，用于支撑“核心命题一：为什么保护异端意见？”这一解释。",
+                "source": {
+                  "workId": "mill-primary-work",
+                  "locator": "On Liberty chapter 2 on dead dogma",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "mill:claim:004",
+            "titleZh": "核心命题二：为什么保护异端意见？",
+            "claimZh": "约翰·密尔在“为什么保护异端意见？”中进一步推出实践、制度或认识论后果。",
+            "explanationZh": "该命题把概念论证推进到可比较的问题谱系，避免只停留在术语解释。",
+            "themeIds": [
+              "freedom",
+              "ethics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "mill:evidence:007",
+                "titleZh": "核心命题二：为什么保护异端意见？的文本依据",
+                "summaryZh": "约翰·密尔在 On Liberty chapter 2 on fallibility 中提供该命题的原典定位，用于支撑“核心命题二：为什么保护异端意见？”这一解释。",
+                "source": {
+                  "workId": "mill-primary-work",
+                  "locator": "On Liberty chapter 2 on fallibility",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "mill:evidence:008",
+                "titleZh": "核心命题二：为什么保护异端意见？的文本依据",
+                "summaryZh": "约翰·密尔在 On Liberty chapter 2 on dead dogma 中提供该命题的原典定位，用于支撑“核心命题二：为什么保护异端意见？”这一解释。",
+                "source": {
+                  "workId": "mill-primary-work",
+                  "locator": "On Liberty chapter 2 on dead dogma",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "mill:problem:003",
+        "titleZh": "功利主义如何处理个人与平等？",
+        "questionZh": "约翰·密尔如何围绕“功利主义如何处理个人与平等？”建立其思想问题？",
+        "summaryZh": "约翰·密尔在这一问题上形成了可辨认的论证路径，连接文本命题、概念区分和后世问题谱系。",
+        "themeIds": [
+          "politics",
+          "ethics"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "mill:claim:005",
+            "titleZh": "核心命题一：功利主义如何处理个人与平等？",
+            "claimZh": "约翰·密尔在“功利主义如何处理个人与平等？”中提出基础性立场，说明其理论问题的出发点。",
+            "explanationZh": "该命题概括其原典中反复出现的论证方向，并为本问题的后续分支提供基础。",
+            "themeIds": [
+              "politics",
+              "ethics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "mill:evidence:009",
+                "titleZh": "核心命题一：功利主义如何处理个人与平等？的文本依据",
+                "summaryZh": "约翰·密尔在 Utilitarianism chapter 2 on higher and lower pleasures 中提供该命题的原典定位，用于支撑“核心命题一：功利主义如何处理个人与平等？”这一解释。",
+                "source": {
+                  "workId": "mill-primary-work",
+                  "locator": "Utilitarianism chapter 2 on higher and lower pleasures",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "mill:evidence:010",
+                "titleZh": "核心命题一：功利主义如何处理个人与平等？的文本依据",
+                "summaryZh": "约翰·密尔在 The Subjection of Women chapter 1 on legal subordination 中提供该命题的原典定位，用于支撑“核心命题一：功利主义如何处理个人与平等？”这一解释。",
+                "source": {
+                  "workId": "mill-primary-work",
+                  "locator": "The Subjection of Women chapter 1 on legal subordination",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "mill:claim:006",
+            "titleZh": "核心命题二：功利主义如何处理个人与平等？",
+            "claimZh": "约翰·密尔在“功利主义如何处理个人与平等？”中进一步推出实践、制度或认识论后果。",
+            "explanationZh": "该命题把概念论证推进到可比较的问题谱系，避免只停留在术语解释。",
+            "themeIds": [
+              "politics",
+              "ethics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "mill:evidence:011",
+                "titleZh": "核心命题二：功利主义如何处理个人与平等？的文本依据",
+                "summaryZh": "约翰·密尔在 Utilitarianism chapter 2 on higher and lower pleasures 中提供该命题的原典定位，用于支撑“核心命题二：功利主义如何处理个人与平等？”这一解释。",
+                "source": {
+                  "workId": "mill-primary-work",
+                  "locator": "Utilitarianism chapter 2 on higher and lower pleasures",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "mill:evidence:012",
+                "titleZh": "核心命题二：功利主义如何处理个人与平等？的文本依据",
+                "summaryZh": "约翰·密尔在 The Subjection of Women chapter 1 on legal subordination 中提供该命题的原典定位，用于支撑“核心命题二：功利主义如何处理个人与平等？”这一解释。",
+                "source": {
+                  "workId": "mill-primary-work",
+                  "locator": "The Subjection of Women chapter 1 on legal subordination",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
 }

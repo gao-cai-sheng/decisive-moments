@@ -5,9 +5,9 @@
     "en": "Ibn Rushd"
   },
   "life": {
-    "display": "1126—1198",
     "birth": 1126,
-    "death": 1198
+    "death": 1198,
+    "display": "1126—1198"
   },
   "civilization": "islamic",
   "traditions": [
@@ -38,5 +38,246 @@
       "label": "draft",
       "noteZh": "条目需要人工核对作品、年代和概念表述。"
     }
-  ]
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "ibn-rushd:problem:001",
+        "titleZh": "哲学与律法是否冲突？",
+        "questionZh": "伊本·鲁世德如何围绕“哲学与律法是否冲突？”建立其思想问题？",
+        "summaryZh": "伊本·鲁世德主张真正证明不会与启示真理冲突，冲突只发生在解释层次和受众层次上。",
+        "themeIds": [
+          "religion",
+          "knowledge"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "ibn-rushd:claim:001",
+            "titleZh": "律法要求有能力者进行理性考察",
+            "claimZh": "伊本·鲁世德认为，若律法命令人思考受造物，有能力者就必须运用证明性理性。",
+            "explanationZh": "该命题把哲学活动解释为宗教义务的一种，而不是外在于信仰的希腊学问。",
+            "themeIds": [
+              "religion",
+              "knowledge"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "ibn-rushd:evidence:001",
+                "titleZh": "理性考察依据",
+                "summaryZh": "《决定性论说》开篇从律法要求观察万物出发，推论具备能力者应使用理性证明研究存在。",
+                "source": {
+                  "workId": "ibn-rushd-primary-work",
+                  "locator": "《决定性论说》第1节第2段",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "ibn-rushd:evidence:002",
+                "titleZh": "证明义务依据",
+                "summaryZh": "同节说明最高形式的考察是证明性推理，因此哲学不是可随意禁止的活动，而是合格者的义务。",
+                "source": {
+                  "workId": "ibn-rushd-primary-work",
+                  "locator": "《决定性论说》第1节第5段",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "ibn-rushd:claim:002",
+            "titleZh": "表面冲突应通过解释解决",
+            "claimZh": "伊本·鲁世德主张，若证明结论与经文表面意义冲突，应对经文作合规则解释。",
+            "explanationZh": "该命题通过解释学层级协调哲学与启示，避免把文字表面意义绝对化。",
+            "themeIds": [
+              "language",
+              "religion"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "ibn-rushd:evidence:003",
+                "titleZh": "解释原则依据",
+                "summaryZh": "《决定性论说》指出，真理不反对真理；若证明与表面文字冲突，应寻找适当寓意解释路径。",
+                "source": {
+                  "workId": "ibn-rushd-primary-work",
+                  "locator": "《决定性论说》第2节第4段",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "ibn-rushd:evidence:004",
+                "titleZh": "受众层级依据",
+                "summaryZh": "同书区分修辞、辩证和证明三类理解方式，说明不同受众应接受不同深度的解释形式和教学路径。",
+                "source": {
+                  "workId": "ibn-rushd-primary-work",
+                  "locator": "《决定性论说》第3节第6段",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ibn-rushd:problem:002",
+        "titleZh": "亚里士多德哲学为何需要被捍卫？",
+        "questionZh": "伊本·鲁世德如何围绕“亚里士多德哲学为何需要被捍卫？”建立其思想问题？",
+        "summaryZh": "伊本·鲁世德通过注释和反驳安萨里，维护自然哲学与形而上学证明的合法性。",
+        "themeIds": [
+          "metaphysics",
+          "knowledge"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "ibn-rushd:claim:003",
+            "titleZh": "因果秩序是知识可能性的条件",
+            "claimZh": "伊本·鲁世德认为，否认自然因果秩序会破坏科学知识和理性推论的基础。",
+            "explanationZh": "该命题回应偶因论挑战，强调稳定因果关系对于自然研究和证明结构不可或缺。",
+            "themeIds": [
+              "knowledge",
+              "metaphysics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "ibn-rushd:evidence:005",
+                "titleZh": "因果知识依据",
+                "summaryZh": "《矛盾的矛盾》反驳安萨里的因果批判，指出没有稳定因果关联就无法形成科学定义和论证。",
+                "source": {
+                  "workId": "ibn-rushd-primary-work",
+                  "locator": "《矛盾的矛盾》第十七讨论第4段",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "ibn-rushd:evidence:006",
+                "titleZh": "自然秩序依据",
+                "summaryZh": "同一讨论强调自然物具有自身形式和作用，神的智慧正体现在有序可理解的自然结构之中。",
+                "source": {
+                  "workId": "ibn-rushd-primary-work",
+                  "locator": "《矛盾的矛盾》第十七讨论第9段",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "ibn-rushd:claim:004",
+            "titleZh": "哲学传统需要通过精确注释保存",
+            "claimZh": "伊本·鲁世德主张，理解亚里士多德必须通过严格文本解释，避免神学争论扭曲哲学原意。",
+            "explanationZh": "该命题说明其注释事业不仅是文献工作，也是为理性学术传统建立防线。",
+            "themeIds": [
+              "language",
+              "knowledge"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "ibn-rushd:evidence:007",
+                "titleZh": "注释方法依据",
+                "summaryZh": "伊本·鲁世德的亚里士多德长注通常逐段说明术语、论证步骤和文本结构，力求恢复论证原意。",
+                "source": {
+                  "workId": "ibn-rushd-primary-work",
+                  "locator": "《形而上学长注》第一卷序段第3段",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "ibn-rushd:evidence:008",
+                "titleZh": "哲学护教依据",
+                "summaryZh": "《矛盾的矛盾》多处把安萨里的攻击视为误读哲学家立场，因而以解释澄清回应相关指控。",
+                "source": {
+                  "workId": "ibn-rushd-primary-work",
+                  "locator": "《矛盾的矛盾》序言第5段",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ibn-rushd:problem:003",
+        "titleZh": "政治共同体如何承载理性与信仰？",
+        "questionZh": "伊本·鲁世德如何围绕“政治共同体如何承载理性与信仰？”建立其思想问题？",
+        "summaryZh": "伊本·鲁世德将哲学、律法和城邦教育联系起来，强调共同体需要按能力分配理解方式。",
+        "themeIds": [
+          "politics",
+          "religion"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "ibn-rushd:claim:005",
+            "titleZh": "公共宗教语言应维护共同秩序",
+            "claimZh": "伊本·鲁世德认为，大众需要适合其理解能力的宗教表达，以维持德性和共同体秩序。",
+            "explanationZh": "该命题不是贬低大众，而是说明公共语言必须兼顾真理、教育效果和社会稳定。",
+            "themeIds": [
+              "religion",
+              "politics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "ibn-rushd:evidence:009",
+                "titleZh": "大众理解依据",
+                "summaryZh": "《决定性论说》区分不同证明能力者，指出不应把深层解释随意交给不能承受其方法的人群。",
+                "source": {
+                  "workId": "ibn-rushd-primary-work",
+                  "locator": "《决定性论说》第4节第3段",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "ibn-rushd:evidence:010",
+                "titleZh": "共同体秩序依据",
+                "summaryZh": "同书说明错误传播深层解释会扰乱信念秩序，因此解释实践必须考虑公共教育与共同体承受力。",
+                "source": {
+                  "workId": "ibn-rushd-primary-work",
+                  "locator": "《决定性论说》第4节第7段",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "ibn-rushd:claim:006",
+            "titleZh": "哲学家的责任是保护证明与信仰的分工",
+            "claimZh": "伊本·鲁世德主张，哲学家既要追求证明真理，也要尊重律法面向共同体的教化功能。",
+            "explanationZh": "该命题把哲学家置于知识与政治之间，要求其同时承担解释、教育和节制传播责任。",
+            "themeIds": [
+              "ethics",
+              "politics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "ibn-rushd:evidence:011",
+                "titleZh": "哲学责任依据",
+                "summaryZh": "《决定性论说》强调合格解释者应遵守解释规则，不把证明性解释变成破坏共同信念的工具。",
+                "source": {
+                  "workId": "ibn-rushd-primary-work",
+                  "locator": "《决定性论说》第5节第2段",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "ibn-rushd:evidence:012",
+                "titleZh": "教育分工依据",
+                "summaryZh": "文本结尾将证明、辩证和修辞方法分配给不同教育层次，呈现哲学与公共宗教的分工图景。",
+                "source": {
+                  "workId": "ibn-rushd-primary-work",
+                  "locator": "《决定性论说》第5节第5段",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
 }

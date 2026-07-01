@@ -5,9 +5,9 @@
     "en": "Hannah Arendt"
   },
   "life": {
-    "display": "1906—1975",
     "birth": 1906,
-    "death": 1975
+    "death": 1975,
+    "display": "1906—1975"
   },
   "civilization": "european_modern",
   "traditions": [
@@ -38,5 +38,185 @@
       "label": "draft",
       "noteZh": "条目需要人工核对作品、年代和概念表述。"
     }
-  ]
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "arendt:problem:001",
+        "titleZh": "行动如何开启政治自由？",
+        "questionZh": "阿伦特如何围绕“行动如何开启政治自由？”建立其思想问题？",
+        "summaryZh": "阿伦特把政治自由理解为公共空间中的行动和言说，而非单纯内心意志或权利保护。",
+        "themeIds": [
+          "freedom",
+          "politics"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "arendt:claim:001",
+            "titleZh": "行动显现是谁",
+            "claimZh": "阿伦特主张，人通过言说和行动在公共世界中显现独特身份，政治自由由此发生。",
+            "explanationZh": "该命题把政治从统治技术转回共同显现和开端能力，强调复数性。",
+            "themeIds": [
+              "freedom",
+              "politics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "arendt:evidence:001",
+                "titleZh": "行动言说依据",
+                "summaryZh": "《人的境况》说明行动和言说让行动者的“谁”在公共领域中显现。",
+                "source": {
+                  "workId": "arendt-primary-work",
+                  "locator": "《人的境况》第5章关于行动与言说",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "arendt:claim:002",
+            "titleZh": "诞生性使新开端可能",
+            "claimZh": "阿伦特认为，人的诞生性意味着每个人都能开启不可预见的新过程，这是政治行动的根基。",
+            "explanationZh": "该命题把自由与新开端相连，区别于主权意志和历史必然论。",
+            "themeIds": [
+              "freedom",
+              "life_death"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "arendt:evidence:002",
+                "titleZh": "诞生性依据",
+                "summaryZh": "《人的境况》以诞生性解释行动带来的新开端，而非把自由归结为内心选择。",
+                "source": {
+                  "workId": "arendt-primary-work",
+                  "locator": "《人的境况》第5章关于natality和beginning",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "arendt:problem:002",
+        "titleZh": "极权主义如何摧毁公共世界？",
+        "questionZh": "阿伦特如何围绕“极权主义如何摧毁公共世界？”建立其思想问题？",
+        "summaryZh": "阿伦特分析极权统治如何瓦解法律、社会联系和事实世界，使孤立个体被运动逻辑支配。",
+        "themeIds": [
+          "politics",
+          "freedom"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "arendt:claim:003",
+            "titleZh": "极权制造孤立",
+            "claimZh": "阿伦特认为，极权运动依赖群众孤立、社会关系断裂和共同世界崩解。",
+            "explanationZh": "该命题将极权主义解释为现代社会条件下的政治灾难，而不只是暴政升级。",
+            "themeIds": [
+              "politics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "arendt:evidence:003",
+                "titleZh": "群众孤独依据",
+                "summaryZh": "《极权主义的起源》分析群众社会、孤独和意识形态如何为极权运动提供条件。",
+                "source": {
+                  "workId": "arendt-primary-work",
+                  "locator": "《极权主义的起源》第三部分关于群众和孤独",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "arendt:claim:004",
+            "titleZh": "意识形态逻辑压倒事实",
+            "claimZh": "阿伦特主张，极权意识形态把历史或自然规律绝对化，使事实和责任被推理链条吞没。",
+            "explanationZh": "该命题揭示政治恶如何通过逻辑化世界观获得虚假必然性。",
+            "themeIds": [
+              "politics",
+              "knowledge"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "arendt:evidence:004",
+                "titleZh": "意识形态恐怖依据",
+                "summaryZh": "《极权主义的起源》把意识形态和恐怖看作极权统治实现运动逻辑的核心机制。",
+                "source": {
+                  "workId": "arendt-primary-work",
+                  "locator": "《极权主义的起源》第三部分关于意识形态与恐怖",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "arendt:problem:003",
+        "titleZh": "判断如何在无规则处仍可能？",
+        "questionZh": "阿伦特如何围绕“判断如何在无规则处仍可能？”建立其思想问题？",
+        "summaryZh": "阿伦特在康德审美判断启发下思考公共判断、责任和事实真理的脆弱性。",
+        "themeIds": [
+          "ethics",
+          "politics"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "arendt:claim:005",
+            "titleZh": "思考阻断平庸之恶",
+            "claimZh": "阿伦特认为，恶有时来自拒绝思考和不能从他人立场判断，而非深刻恶魔性。",
+            "explanationZh": "该命题把责任问题从动机深度转向判断能力和公共世界感。",
+            "themeIds": [
+              "ethics",
+              "politics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "arendt:evidence:005",
+                "titleZh": "平庸之恶依据",
+                "summaryZh": "《艾希曼在耶路撒冷》通过审判反思服从、官僚语言和缺乏思考之间的关系。",
+                "source": {
+                  "workId": "arendt-primary-work",
+                  "locator": "《艾希曼在耶路撒冷》结语及关于平庸之恶的论述",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "arendt:claim:006",
+            "titleZh": "政治判断需要扩展心灵",
+            "claimZh": "阿伦特主张，公共判断要求想象他人可能立场，并在复数性中形成可交流判断。",
+            "explanationZh": "该命题把判断理解为政治能力，既不同于演绎规则也不同于私人偏好。",
+            "themeIds": [
+              "ethics",
+              "politics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "arendt:evidence:006",
+                "titleZh": "扩展心灵依据",
+                "summaryZh": "《康德政治哲学讲演》借康德判断力理论解释政治判断如何寻求公共有效性。",
+                "source": {
+                  "workId": "arendt-primary-work",
+                  "locator": "《康德政治哲学讲演》关于扩展心灵和代表性思考",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
 }

@@ -1,0 +1,30 @@
+{
+  "id": "gorgias",
+  "names": {"zh": "高尔吉亚", "en": "Gorgias"},
+  "life": {"birth": -483, "death": -375, "display": "约前 483—前 375"},
+  "civilization": "ancient_greek",
+  "traditions": ["sophistic_movement", "ancient_greek_philosophy"],
+  "periods": ["first_release"],
+  "themes": ["language", "knowledge", "politics"],
+  "keywordsZh": ["语言", "知识", "政治"],
+  "oneLineZh": "智者和修辞家，以激进的存在论论证、语言力量和说服技艺闻名。",
+  "influenceWeight": 1,
+  "reviewStatus": "draft",
+  "summaryZh": "智者和修辞家，以激进的存在论论证、语言力量和说服技艺闻名。本条目以 summary_only 方式整理。",
+  "works": ["gorgias-primary-work"],
+  "sourceNotes": [{"label": "primary-dossier", "noteZh": "采用《论非存在》《海伦颂》《帕拉墨得斯辩护》、柏拉图《高尔吉亚》和现代智者研究。"}, {"label": "excerpt-status", "noteZh": "全部 evidence 使用 summary_only。"}],
+  "thoughtSystem": {"problems": [
+    {"id": "gorgias:problem:001", "titleZh": "不存在论在攻击什么？", "questionZh": "高尔吉亚为何提出无物存在、即使存在也不可知、即使可知也不可传达的三段论？", "summaryZh": "这组三段论可被理解为对爱利亚存在论和语言知识自信的反讽式挑战。", "themeIds": ["metaphysics", "language"], "weight": 3, "claims": [
+      {"id": "gorgias:claim:001", "titleZh": "三段论挑战存在与知识的直接同一", "claimZh": "高尔吉亚以极端论证切断存在、认识和表达之间的自然连续性。", "explanationZh": "它迫使哲学说明为什么存在可知、知识可传达、语言能指向实在。", "themeIds": ["knowledge", "language"], "weight": 3, "evidence": [{"id": "gorgias:evidence:001", "titleZh": "《论非存在》概要", "summaryZh": "塞克斯都和伪亚里士多德保存高尔吉亚三段论的版本，提供其存在论挑战的主要材料来源。", "source": {"workId": "gorgias-primary-work", "locator": "Sextus Empiricus, Against the Logicians VII.65-87; pseudo-Aristotle, MXG on Gorgias' On Non-Being", "excerptStatus": "summary_only"}}, {"id": "gorgias:evidence:002", "titleZh": "爱利亚背景", "summaryZh": "现代研究常把该文本放在巴门尼德和芝诺之后的论辩语境中理解，强调其反论证性质和修辞策略。", "source": {"workId": "gorgias-primary-work", "locator": "Modern scholarship on Gorgias, Eleaticism and On Non-Being", "excerptStatus": "summary_only"}}]},
+      {"id": "gorgias:claim:002", "titleZh": "文本可能是严肃哲学也是修辞展示", "claimZh": "《论非存在》既可作为认识论挑战，也可作为智者论证能力的展示。", "explanationZh": "这种双重性正体现智者运动中哲学和修辞的交叠。", "themeIds": ["language", "knowledge"], "weight": 2, "evidence": [{"id": "gorgias:evidence:003", "titleZh": "两个古代版本差异", "summaryZh": "塞克斯都和 MXG 的保存版本显示文本处于哲学论证与修辞传统交界，兼具概念和表演功能。", "source": {"workId": "gorgias-primary-work", "locator": "Comparison of Sextus and MXG versions of Gorgias' On Non-Being", "excerptStatus": "summary_only"}}, {"id": "gorgias:evidence:004", "titleZh": "智者展示语境", "summaryZh": "研究强调高尔吉亚作品常兼具示范演说和概念挑战，说明其修辞实践具有哲学意义和公共功能。", "source": {"workId": "gorgias-primary-work", "locator": "Modern scholarship on Gorgias' epideictic rhetoric and philosophical play", "excerptStatus": "summary_only"}}]}
+    ]},
+    {"id": "gorgias:problem:002", "titleZh": "语言如何像药物一样作用？", "questionZh": "《海伦颂》如何把 logos 描写为能改变灵魂、制造信念和支配行动的力量？", "summaryZh": "高尔吉亚把语言看作心理力量：它能说服、欺骗、安慰、恐吓和塑造现实经验。", "themeIds": ["language", "ethics"], "weight": 3, "claims": [
+      {"id": "gorgias:claim:003", "titleZh": "logos 具有强制性心理力量", "claimZh": "《海伦颂》把言辞比作强大的主宰和药物，可改变灵魂状态。", "explanationZh": "说服不只是理性传递信息，也能制造情感和行动倾向。", "themeIds": ["language"], "weight": 3, "evidence": [{"id": "gorgias:evidence:005", "titleZh": "《海伦颂》的 logos 段落", "summaryZh": "文本把言辞描述为以微小身体完成神奇作用的力量，突出语言对情感和判断的影响机制过程。", "source": {"workId": "gorgias-primary-work", "locator": "Gorgias, Encomium of Helen 8-14 on logos, persuasion and psychagogia", "excerptStatus": "summary_only"}}, {"id": "gorgias:evidence:006", "titleZh": "语言与药物类比", "summaryZh": "《海伦颂》把言辞对灵魂的作用同药物对身体的作用类比，说明语言具有强制和治疗双重面向。", "source": {"workId": "gorgias-primary-work", "locator": "Gorgias, Encomium of Helen 14 on speech and drugs", "excerptStatus": "summary_only"}}]},
+      {"id": "gorgias:claim:004", "titleZh": "修辞责任问题由此出现", "claimZh": "如果语言能强力塑造信念，演说者的伦理责任和听众的判断训练就成为政治问题。", "explanationZh": "柏拉图对高尔吉亚式修辞的批判正围绕这种权力展开。", "themeIds": ["politics", "ethics"], "weight": 2, "evidence": [{"id": "gorgias:evidence:007", "titleZh": "柏拉图《高尔吉亚》", "summaryZh": "柏拉图让苏格拉底追问修辞是否是技艺、是否关心正义，展示修辞能力与伦理责任的张力。", "source": {"workId": "gorgias-primary-work", "locator": "Plato, Gorgias 449c-466a on rhetoric, persuasion and justice", "excerptStatus": "summary_only"}}, {"id": "gorgias:evidence:008", "titleZh": "现代修辞伦理研究", "summaryZh": "研究常把高尔吉亚作为语言力量与公共责任问题的早期节点，连接智者教育和政治言说实践。", "source": {"workId": "gorgias-primary-work", "locator": "Modern scholarship on Gorgias, rhetoric, persuasion and ethics", "excerptStatus": "summary_only"}}]}
+    ]},
+    {"id": "gorgias:problem:003", "titleZh": "辩护演说如何重塑事实？", "questionZh": "高尔吉亚如何通过《海伦颂》和《帕拉墨得斯辩护》展示论证、概率和叙事反转？", "summaryZh": "高尔吉亚的示范演说把弱势案件转化为可辩护对象，展示语言重组责任和事实理解的能力。", "themeIds": ["language", "justice"], "weight": 2, "claims": [
+      {"id": "gorgias:claim:005", "titleZh": "海伦可被从责任中释放", "claimZh": "高尔吉亚列举神意、强迫、爱欲和语言说服等原因，为海伦脱罪。", "explanationZh": "文本展示责任归属如何依赖因果叙事和说服结构。", "themeIds": ["justice", "language"], "weight": 3, "evidence": [{"id": "gorgias:evidence:009", "titleZh": "四重辩护结构", "summaryZh": "《海伦颂》用多种原因证明海伦不应被责备，展示责任归属可以通过修辞分析重新组织判断。", "source": {"workId": "gorgias-primary-work", "locator": "Gorgias, Encomium of Helen 6-20 on possible causes exonerating Helen", "excerptStatus": "summary_only"}}, {"id": "gorgias:evidence:010", "titleZh": "责任与因果研究", "summaryZh": "现代解释常把该作品视为早期责任归属和修辞因果分析，强调辩护演说的理论价值意义所在。", "source": {"workId": "gorgias-primary-work", "locator": "Modern scholarship on Helen, causation and responsibility in Gorgias", "excerptStatus": "summary_only"}}]},
+      {"id": "gorgias:claim:006", "titleZh": "概率论证可替代直接证据", "claimZh": "《帕拉墨得斯辩护》通过可能性、动机和一致性分析构成反控方论证。", "explanationZh": "这显示法庭修辞如何在证据不足处组织合理怀疑。", "themeIds": ["justice", "knowledge"], "weight": 2, "evidence": [{"id": "gorgias:evidence:011", "titleZh": "帕拉墨得斯的无罪论证", "summaryZh": "文本以动机、能力和可能性分析反驳叛国指控，体现早期司法修辞中的概率推理方式特点。", "source": {"workId": "gorgias-primary-work", "locator": "Gorgias, Defense of Palamedes on probability, motive and impossibility", "excerptStatus": "summary_only"}}, {"id": "gorgias:evidence:012", "titleZh": "法庭修辞传统", "summaryZh": "研究将该文本视为早期司法修辞和概率推理范例，说明智者技术进入法庭论证场域之中实践。", "source": {"workId": "gorgias-primary-work", "locator": "Modern scholarship on Gorgias' Palamedes and forensic rhetoric", "excerptStatus": "summary_only"}}]}
+    ]}
+  ]}
+}

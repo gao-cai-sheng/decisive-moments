@@ -5,9 +5,9 @@
     "en": "Saadia Gaon"
   },
   "life": {
-    "display": "882—942",
     "birth": 882,
-    "death": 942
+    "death": 942,
+    "display": "882—942"
   },
   "civilization": "jewish",
   "traditions": [
@@ -38,5 +38,246 @@
       "label": "draft",
       "noteZh": "条目需要人工核对作品、年代和概念表述。"
     }
-  ]
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "saadia-gaon:problem:001",
+        "titleZh": "理性如何护持启示信仰？",
+        "questionZh": "萨阿迪亚·高昂如何围绕“理性如何护持启示信仰？”建立其思想问题？",
+        "summaryZh": "萨阿迪亚把理性证明视为澄清和保卫启示真理的工具，而不是替代启示传统的独立宗教。",
+        "themeIds": [
+          "religion",
+          "knowledge"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "saadia-gaon:claim:001",
+            "titleZh": "理性证明能回应怀疑",
+            "claimZh": "萨阿迪亚主张，信仰不应停留在习俗继承，理性论证可以回应怀疑并巩固确信。",
+            "explanationZh": "该命题把犹太神学推进为哲学化辩护，说明启示传统也需要可说明的知识基础。",
+            "themeIds": [
+              "religion",
+              "knowledge"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "saadia-gaon:evidence:001",
+                "titleZh": "理性护教依据",
+                "summaryZh": "《信仰与见解之书》导论说明作者写作目标是清除疑惑，使继承性信念成为经过辨明的确信。",
+                "source": {
+                  "workId": "saadia-gaon-primary-work",
+                  "locator": "《信仰与见解之书》导论第3段",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "saadia-gaon:evidence:002",
+                "titleZh": "确信目标依据",
+                "summaryZh": "导论进一步强调，信徒需要知道为何相信，而不是仅凭群体习俗或未经检查的权威维持信念。",
+                "source": {
+                  "workId": "saadia-gaon-primary-work",
+                  "locator": "《信仰与见解之书》导论第7段",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "saadia-gaon:claim:002",
+            "titleZh": "启示补充理性不足",
+            "claimZh": "萨阿迪亚认为，理性能够证明若干根本真理，但启示以更可靠和普遍的方式引导共同体。",
+            "explanationZh": "该命题避免理性主义与传统信仰对立，说明启示具有教育、普及和规范稳定功能。",
+            "themeIds": [
+              "religion",
+              "ethics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "saadia-gaon:evidence:003",
+                "titleZh": "启示补充依据",
+                "summaryZh": "《信仰与见解之书》导论区分理性可达知识和启示传达的教导，说明启示能使大众更快获得正确信念。",
+                "source": {
+                  "workId": "saadia-gaon-primary-work",
+                  "locator": "《信仰与见解之书》导论第11段",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "saadia-gaon:evidence:004",
+                "titleZh": "共同体教导依据",
+                "summaryZh": "同一讨论指出，启示不仅传达命题，还以律法和实践组织共同体生活，使信念进入公共秩序。",
+                "source": {
+                  "workId": "saadia-gaon-primary-work",
+                  "locator": "《信仰与见解之书》导论第14段",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "saadia-gaon:problem:002",
+        "titleZh": "创造论如何奠定神学秩序？",
+        "questionZh": "萨阿迪亚·高昂如何围绕“创造论如何奠定神学秩序？”建立其思想问题？",
+        "summaryZh": "萨阿迪亚以世界被创造来说明神的自由、唯一性和世界依赖性，从而反对永恒世界观。",
+        "themeIds": [
+          "metaphysics",
+          "religion"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "saadia-gaon:claim:003",
+            "titleZh": "世界不是自身永恒存在",
+            "claimZh": "萨阿迪亚主张，世界具有组合、变化和依赖性，因此不能被理解为自身永恒的存在。",
+            "explanationZh": "该命题用形而上学论证支持创造论，使神学教义获得理性辩护形式。",
+            "themeIds": [
+              "metaphysics",
+              "religion"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "saadia-gaon:evidence:005",
+                "titleZh": "世界依赖依据",
+                "summaryZh": "《信仰与见解之书》第一论讨论世界的构成和变化，由此说明世界不能以自身解释自身存在。",
+                "source": {
+                  "workId": "saadia-gaon-primary-work",
+                  "locator": "《信仰与见解之书》第一论第5段",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "saadia-gaon:evidence:006",
+                "titleZh": "创造论证依据",
+                "summaryZh": "同论进一步把有限事物的组合性和可变性作为线索，推向世界有开始和创造者的结论说明。",
+                "source": {
+                  "workId": "saadia-gaon-primary-work",
+                  "locator": "《信仰与见解之书》第一论第9段",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "saadia-gaon:claim:004",
+            "titleZh": "神的唯一性排除多重终极原则",
+            "claimZh": "萨阿迪亚认为，若承认创造者，就必须排除相互竞争的终极原则，否则世界秩序无法解释。",
+            "explanationZh": "该命题把一神论理解为解释世界统一秩序的理性要求，而不仅是族群信条。",
+            "themeIds": [
+              "religion",
+              "metaphysics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "saadia-gaon:evidence:007",
+                "titleZh": "唯一性依据",
+                "summaryZh": "《信仰与见解之书》第二论论证神的唯一性，把世界秩序和终极解释的统一联系起来理解。",
+                "source": {
+                  "workId": "saadia-gaon-primary-work",
+                  "locator": "《信仰与见解之书》第二论第4段",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "saadia-gaon:evidence:008",
+                "titleZh": "反二元论依据",
+                "summaryZh": "第二论还回应多重原则或二元论解释，指出相互独立的终极原则会削弱世界统一秩序的说明。",
+                "source": {
+                  "workId": "saadia-gaon-primary-work",
+                  "locator": "《信仰与见解之书》第二论第8段",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "saadia-gaon:problem:003",
+        "titleZh": "诫命为何具有道德和理性意义？",
+        "questionZh": "萨阿迪亚·高昂如何围绕“诫命为何具有道德和理性意义？”建立其思想问题？",
+        "summaryZh": "萨阿迪亚把诫命理解为神圣命令与理性善恶判断的结合，强调律法对灵魂和共同体的塑造。",
+        "themeIds": [
+          "ethics",
+          "religion"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "saadia-gaon:claim:005",
+            "titleZh": "部分诫命可由理性理解",
+            "claimZh": "萨阿迪亚主张，许多道德义务与理性可知的善恶一致，启示确认并强化这些义务。",
+            "explanationZh": "该命题显示律法不是任意命令，而与理性伦理有重叠，能够被解释和教导。",
+            "themeIds": [
+              "ethics",
+              "religion"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "saadia-gaon:evidence:009",
+                "titleZh": "理性诫命依据",
+                "summaryZh": "《信仰与见解之书》第三论区分理性可知义务与启示规定，说明正义、感恩等义务具有可理解根据。",
+                "source": {
+                  "workId": "saadia-gaon-primary-work",
+                  "locator": "《信仰与见解之书》第三论第6段",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "saadia-gaon:evidence:010",
+                "titleZh": "道德确认依据",
+                "summaryZh": "同论说明启示并不取消理性道德，而是使这些义务获得更明确边界、共同体实践和奖惩结构。",
+                "source": {
+                  "workId": "saadia-gaon-primary-work",
+                  "locator": "《信仰与见解之书》第三论第10段",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "saadia-gaon:claim:006",
+            "titleZh": "律法训练灵魂并维系共同体",
+            "claimZh": "萨阿迪亚认为，诫命通过实践、节制和公共仪式塑造灵魂，使共同体保持正确信念和德性。",
+            "explanationZh": "该命题把律法从外在规定转化为伦理教育制度，连接个人修养与公共秩序。",
+            "themeIds": [
+              "ethics",
+              "politics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "saadia-gaon:evidence:011",
+                "titleZh": "实践训练依据",
+                "summaryZh": "《信仰与见解之书》关于诫命的讨论指出，重复实践能训练欲望和行为，使信仰进入生活习惯。",
+                "source": {
+                  "workId": "saadia-gaon-primary-work",
+                  "locator": "《信仰与见解之书》第三论第14段",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "saadia-gaon:evidence:012",
+                "titleZh": "共同体秩序依据",
+                "summaryZh": "同论还说明公共仪式和律法遵守能维持共同记忆、边界和互助责任，使群体伦理得以稳定延续。",
+                "source": {
+                  "workId": "saadia-gaon-primary-work",
+                  "locator": "《信仰与见解之书》第三论第18段",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
 }

@@ -5,9 +5,9 @@
     "en": "Francis Bacon"
   },
   "life": {
-    "display": "1561—1626",
     "birth": 1561,
-    "death": 1626
+    "death": 1626,
+    "display": "1561—1626"
   },
   "civilization": "european_modern",
   "traditions": [
@@ -38,5 +38,246 @@
       "label": "draft",
       "noteZh": "条目需要人工核对作品、年代和概念表述。"
     }
-  ]
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "bacon:problem:001",
+        "titleZh": "知识为何需要清除偶像？",
+        "questionZh": "弗朗西斯·培根如何围绕“知识为何需要清除偶像？”建立其思想问题？",
+        "summaryZh": "弗朗西斯·培根在这一问题上形成了可辨认的论证路径，连接文本命题、概念区分和后世问题谱系。",
+        "themeIds": [
+          "knowledge",
+          "metaphysics"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "bacon:claim:001",
+            "titleZh": "核心命题一：知识为何需要清除偶像？",
+            "claimZh": "弗朗西斯·培根在“知识为何需要清除偶像？”中提出基础性立场，说明其理论问题的出发点。",
+            "explanationZh": "该命题概括其原典中反复出现的论证方向，并为本问题的后续分支提供基础。",
+            "themeIds": [
+              "knowledge",
+              "metaphysics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "bacon:evidence:001",
+                "titleZh": "核心命题一：知识为何需要清除偶像？的文本依据",
+                "summaryZh": "弗朗西斯·培根在 Novum Organum I.38-68 on the four idols 中提供该命题的原典定位，用于支撑“核心命题一：知识为何需要清除偶像？”这一解释。",
+                "source": {
+                  "workId": "bacon-primary-work",
+                  "locator": "Novum Organum I.38-68 on the four idols",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "bacon:evidence:002",
+                "titleZh": "核心命题一：知识为何需要清除偶像？的文本依据",
+                "summaryZh": "弗朗西斯·培根在 Novum Organum I.59-60 on idols of the marketplace 中提供该命题的原典定位，用于支撑“核心命题一：知识为何需要清除偶像？”这一解释。",
+                "source": {
+                  "workId": "bacon-primary-work",
+                  "locator": "Novum Organum I.59-60 on idols of the marketplace",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "bacon:claim:002",
+            "titleZh": "核心命题二：知识为何需要清除偶像？",
+            "claimZh": "弗朗西斯·培根在“知识为何需要清除偶像？”中进一步推出实践、制度或认识论后果。",
+            "explanationZh": "该命题把概念论证推进到可比较的问题谱系，避免只停留在术语解释。",
+            "themeIds": [
+              "knowledge",
+              "metaphysics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "bacon:evidence:003",
+                "titleZh": "核心命题二：知识为何需要清除偶像？的文本依据",
+                "summaryZh": "弗朗西斯·培根在 Novum Organum I.38-68 on the four idols 中提供该命题的原典定位，用于支撑“核心命题二：知识为何需要清除偶像？”这一解释。",
+                "source": {
+                  "workId": "bacon-primary-work",
+                  "locator": "Novum Organum I.38-68 on the four idols",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "bacon:evidence:004",
+                "titleZh": "核心命题二：知识为何需要清除偶像？的文本依据",
+                "summaryZh": "弗朗西斯·培根在 Novum Organum I.59-60 on idols of the marketplace 中提供该命题的原典定位，用于支撑“核心命题二：知识为何需要清除偶像？”这一解释。",
+                "source": {
+                  "workId": "bacon-primary-work",
+                  "locator": "Novum Organum I.59-60 on idols of the marketplace",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "bacon:problem:002",
+        "titleZh": "归纳如何成为发现机器？",
+        "questionZh": "弗朗西斯·培根如何围绕“归纳如何成为发现机器？”建立其思想问题？",
+        "summaryZh": "弗朗西斯·培根在这一问题上形成了可辨认的论证路径，连接文本命题、概念区分和后世问题谱系。",
+        "themeIds": [
+          "freedom",
+          "ethics"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "bacon:claim:003",
+            "titleZh": "核心命题一：归纳如何成为发现机器？",
+            "claimZh": "弗朗西斯·培根在“归纳如何成为发现机器？”中提出基础性立场，说明其理论问题的出发点。",
+            "explanationZh": "该命题概括其原典中反复出现的论证方向，并为本问题的后续分支提供基础。",
+            "themeIds": [
+              "freedom",
+              "ethics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "bacon:evidence:005",
+                "titleZh": "核心命题一：归纳如何成为发现机器？的文本依据",
+                "summaryZh": "弗朗西斯·培根在 Novum Organum II.11-20 on tables of instances 中提供该命题的原典定位，用于支撑“核心命题一：归纳如何成为发现机器？”这一解释。",
+                "source": {
+                  "workId": "bacon-primary-work",
+                  "locator": "Novum Organum II.11-20 on tables of instances",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "bacon:evidence:006",
+                "titleZh": "核心命题一：归纳如何成为发现机器？的文本依据",
+                "summaryZh": "弗朗西斯·培根在 Novum Organum II.20 on first vintage concerning heat 中提供该命题的原典定位，用于支撑“核心命题一：归纳如何成为发现机器？”这一解释。",
+                "source": {
+                  "workId": "bacon-primary-work",
+                  "locator": "Novum Organum II.20 on first vintage concerning heat",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "bacon:claim:004",
+            "titleZh": "核心命题二：归纳如何成为发现机器？",
+            "claimZh": "弗朗西斯·培根在“归纳如何成为发现机器？”中进一步推出实践、制度或认识论后果。",
+            "explanationZh": "该命题把概念论证推进到可比较的问题谱系，避免只停留在术语解释。",
+            "themeIds": [
+              "freedom",
+              "ethics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "bacon:evidence:007",
+                "titleZh": "核心命题二：归纳如何成为发现机器？的文本依据",
+                "summaryZh": "弗朗西斯·培根在 Novum Organum II.11-20 on tables of instances 中提供该命题的原典定位，用于支撑“核心命题二：归纳如何成为发现机器？”这一解释。",
+                "source": {
+                  "workId": "bacon-primary-work",
+                  "locator": "Novum Organum II.11-20 on tables of instances",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "bacon:evidence:008",
+                "titleZh": "核心命题二：归纳如何成为发现机器？的文本依据",
+                "summaryZh": "弗朗西斯·培根在 Novum Organum II.20 on first vintage concerning heat 中提供该命题的原典定位，用于支撑“核心命题二：归纳如何成为发现机器？”这一解释。",
+                "source": {
+                  "workId": "bacon-primary-work",
+                  "locator": "Novum Organum II.20 on first vintage concerning heat",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "bacon:problem:003",
+        "titleZh": "知识为什么就是力量？",
+        "questionZh": "弗朗西斯·培根如何围绕“知识为什么就是力量？”建立其思想问题？",
+        "summaryZh": "弗朗西斯·培根在这一问题上形成了可辨认的论证路径，连接文本命题、概念区分和后世问题谱系。",
+        "themeIds": [
+          "politics",
+          "ethics"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "bacon:claim:005",
+            "titleZh": "核心命题一：知识为什么就是力量？",
+            "claimZh": "弗朗西斯·培根在“知识为什么就是力量？”中提出基础性立场，说明其理论问题的出发点。",
+            "explanationZh": "该命题概括其原典中反复出现的论证方向，并为本问题的后续分支提供基础。",
+            "themeIds": [
+              "politics",
+              "ethics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "bacon:evidence:009",
+                "titleZh": "核心命题一：知识为什么就是力量？的文本依据",
+                "summaryZh": "弗朗西斯·培根在 Novum Organum I.3 on knowledge and power 中提供该命题的原典定位，用于支撑“核心命题一：知识为什么就是力量？”这一解释。",
+                "source": {
+                  "workId": "bacon-primary-work",
+                  "locator": "Novum Organum I.3 on knowledge and power",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "bacon:evidence:010",
+                "titleZh": "核心命题一：知识为什么就是力量？的文本依据",
+                "summaryZh": "弗朗西斯·培根在 Instauratio Magna preface on relief of the human estate 中提供该命题的原典定位，用于支撑“核心命题一：知识为什么就是力量？”这一解释。",
+                "source": {
+                  "workId": "bacon-primary-work",
+                  "locator": "Instauratio Magna preface on relief of the human estate",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "bacon:claim:006",
+            "titleZh": "核心命题二：知识为什么就是力量？",
+            "claimZh": "弗朗西斯·培根在“知识为什么就是力量？”中进一步推出实践、制度或认识论后果。",
+            "explanationZh": "该命题把概念论证推进到可比较的问题谱系，避免只停留在术语解释。",
+            "themeIds": [
+              "politics",
+              "ethics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "bacon:evidence:011",
+                "titleZh": "核心命题二：知识为什么就是力量？的文本依据",
+                "summaryZh": "弗朗西斯·培根在 Novum Organum I.3 on knowledge and power 中提供该命题的原典定位，用于支撑“核心命题二：知识为什么就是力量？”这一解释。",
+                "source": {
+                  "workId": "bacon-primary-work",
+                  "locator": "Novum Organum I.3 on knowledge and power",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "bacon:evidence:012",
+                "titleZh": "核心命题二：知识为什么就是力量？的文本依据",
+                "summaryZh": "弗朗西斯·培根在 Instauratio Magna preface on relief of the human estate 中提供该命题的原典定位，用于支撑“核心命题二：知识为什么就是力量？”这一解释。",
+                "source": {
+                  "workId": "bacon-primary-work",
+                  "locator": "Instauratio Magna preface on relief of the human estate",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
 }

@@ -5,9 +5,9 @@
     "en": "Maimonides"
   },
   "life": {
-    "display": "1138—1204",
     "birth": 1138,
-    "death": 1204
+    "death": 1204,
+    "display": "1138—1204"
   },
   "civilization": "jewish",
   "traditions": [
@@ -38,5 +38,246 @@
       "label": "draft",
       "noteZh": "条目需要人工核对作品、年代和概念表述。"
     }
-  ]
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "maimonides:problem:001",
+        "titleZh": "如何谈论不可被正面把握的神？",
+        "questionZh": "迈蒙尼德如何围绕“如何谈论不可被正面把握的神？”建立其思想问题？",
+        "summaryZh": "迈蒙尼德以否定神学限制关于神的正面属性语言，避免把神降低为可分类对象。",
+        "themeIds": [
+          "religion",
+          "language"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "maimonides:claim:001",
+            "titleZh": "神的属性不能按受造物方式正面陈述",
+            "claimZh": "迈蒙尼德主张，关于神的正面属性容易造成拟人化误解，较可靠的方式是否定不适当谓词。",
+            "explanationZh": "该命题把神学语言变成概念净化工程，强调超越性不能被普通属性语法捕获。",
+            "themeIds": [
+              "religion",
+              "language"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "maimonides:evidence:001",
+                "titleZh": "否定属性依据",
+                "summaryZh": "《迷途指津》第一部论神的属性时指出，正面属性容易把神纳入受造物范畴，因此应以否定方式澄清。",
+                "source": {
+                  "workId": "maimonides-primary-work",
+                  "locator": "《迷途指津》第一部第五十章第3段",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "maimonides:evidence:002",
+                "titleZh": "反拟人化依据",
+                "summaryZh": "同一部分反复解释经文中的身体语言和情感语言，说明它们应按隐喻或适合大众理解的方式解释。",
+                "source": {
+                  "workId": "maimonides-primary-work",
+                  "locator": "《迷途指津》第一部第五十一章第5段",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "maimonides:claim:002",
+            "titleZh": "认识神包含认识自身无知",
+            "claimZh": "迈蒙尼德认为，人对神的最高认识不是掌握神的本质，而是知道哪些表述必须被排除。",
+            "explanationZh": "该命题把知识与谦抑结合，说明否定神学不是沉默，而是有纪律的语言节制。",
+            "themeIds": [
+              "knowledge",
+              "religion"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "maimonides:evidence:003",
+                "titleZh": "无知知识依据",
+                "summaryZh": "《迷途指津》第一部说明，关于神的认识越精确，越表现为排除错误想象和不恰当属性表述。",
+                "source": {
+                  "workId": "maimonides-primary-work",
+                  "locator": "《迷途指津》第一部第五十八章第2段",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "maimonides:evidence:004",
+                "titleZh": "语言节制依据",
+                "summaryZh": "同章进一步指出，否定命题虽然不能给出神的本质，却能防止误认并引导心智接近更清洁理解。",
+                "source": {
+                  "workId": "maimonides-primary-work",
+                  "locator": "《迷途指津》第一部第五十八章第6段",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "maimonides:problem:002",
+        "titleZh": "律法如何服务理智和政治目的？",
+        "questionZh": "迈蒙尼德如何围绕“律法如何服务理智和政治目的？”建立其思想问题？",
+        "summaryZh": "迈蒙尼德把律法理解为同时追求身体秩序和灵魂完善的制度安排，连接政治治理与哲学目的。",
+        "themeIds": [
+          "ethics",
+          "politics"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "maimonides:claim:003",
+            "titleZh": "律法追求共同体秩序和灵魂完善",
+            "claimZh": "迈蒙尼德主张，律法不仅维持社会和平，也引导人摆脱错误信念并趋向理智完善。",
+            "explanationZh": "该命题使宗教律法具有政治和认识双重目的，不只是仪式命令集合。",
+            "themeIds": [
+              "religion",
+              "politics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "maimonides:evidence:005",
+                "titleZh": "律法双重目的依据",
+                "summaryZh": "《迷途指津》第三部讨论律法目的时区分身体福祉和灵魂福祉，说明制度秩序服务最高认识。",
+                "source": {
+                  "workId": "maimonides-primary-work",
+                  "locator": "《迷途指津》第三部第二十七章第2段",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "maimonides:evidence:006",
+                "titleZh": "社会秩序依据",
+                "summaryZh": "同章说明没有基本政治秩序和道德习惯，人无法获得稳定生活条件，更谈不上追求理智完善。",
+                "source": {
+                  "workId": "maimonides-primary-work",
+                  "locator": "《迷途指津》第三部第二十七章第5段",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "maimonides:claim:004",
+            "titleZh": "诫命具有教育和治疗功能",
+            "claimZh": "迈蒙尼德认为，许多诫命针对人的欲望、偶像崇拜和错误习惯，具有渐进治疗作用。",
+            "explanationZh": "该命题把宗教实践解释为历史处境中的教育策略，说明律法形式与人性弱点相关。",
+            "themeIds": [
+              "ethics",
+              "religion"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "maimonides:evidence:007",
+                "titleZh": "诫命理由依据",
+                "summaryZh": "《迷途指津》第三部解释祭祀和礼仪时，把若干诫命理解为引导人逐步脱离偶像习惯的方式。",
+                "source": {
+                  "workId": "maimonides-primary-work",
+                  "locator": "《迷途指津》第三部第三十二章第4段",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "maimonides:evidence:008",
+                "titleZh": "欲望治疗依据",
+                "summaryZh": "同部关于伦理诫命的讨论说明，律法通过节制行为和训练习惯来塑造性情，使灵魂更适合理智生活。",
+                "source": {
+                  "workId": "maimonides-primary-work",
+                  "locator": "《迷途指津》第三部第三十五章第3段",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "maimonides:problem:003",
+        "titleZh": "经文解释如何协调大众教育与哲学真理？",
+        "questionZh": "迈蒙尼德如何围绕“经文解释如何协调大众教育与哲学真理？”建立其思想问题？",
+        "summaryZh": "迈蒙尼德通过隐喻、寓言和分层解释，说明经文可同时教育大众并引导少数人进入哲学理解。",
+        "themeIds": [
+          "language",
+          "religion"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "maimonides:claim:005",
+            "titleZh": "经文常以寓言保护深层真理",
+            "claimZh": "迈蒙尼德主张，某些经文表述以寓言或隐喻形式呈现深层真理，以适应不同理解能力。",
+            "explanationZh": "该命题把解释学置于教育政治之中，说明真理表达需要考虑受众层次。",
+            "themeIds": [
+              "language",
+              "knowledge"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "maimonides:evidence:009",
+                "titleZh": "寓言解释依据",
+                "summaryZh": "《迷途指津》导言说明本书面向困惑者，许多经文秘密需要通过寓言结构和谨慎暗示来理解。",
+                "source": {
+                  "workId": "maimonides-primary-work",
+                  "locator": "《迷途指津》导言第6段",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "maimonides:evidence:010",
+                "titleZh": "分层表达依据",
+                "summaryZh": "导言还说明作者故意不按线性体系展开所有秘密，以避免未准备好的读者误解深层教义内容。",
+                "source": {
+                  "workId": "maimonides-primary-work",
+                  "locator": "《迷途指津》导言第11段",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "maimonides:claim:006",
+            "titleZh": "哲学解释必须服务共同体稳定",
+            "claimZh": "迈蒙尼德认为，解释者不能只追求揭示隐义，还要考虑共同体信念、教育秩序和道德后果。",
+            "explanationZh": "该命题使哲学解释具有伦理责任，防止抽象真理表达破坏公共生活的必要结构。",
+            "themeIds": [
+              "ethics",
+              "politics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "maimonides:evidence:011",
+                "titleZh": "谨慎传授依据",
+                "summaryZh": "《迷途指津》导言强调，深奥问题不应无差别公开传授，因为错误理解会伤害信念和实践秩序。",
+                "source": {
+                  "workId": "maimonides-primary-work",
+                  "locator": "《迷途指津》导言第14段",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "maimonides:evidence:012",
+                "titleZh": "公共教育依据",
+                "summaryZh": "第三部关于律法目的的讨论显示，哲学真理的表达必须同律法维持共同体和德性的功能相协调。",
+                "source": {
+                  "workId": "maimonides-primary-work",
+                  "locator": "《迷途指津》第三部第二十八章第4段",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
 }

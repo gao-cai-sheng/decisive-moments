@@ -5,9 +5,9 @@
     "en": "Augustine of Hippo"
   },
   "life": {
-    "display": "354—430",
     "birth": 354,
-    "death": 430
+    "death": 430,
+    "display": "354—430"
   },
   "civilization": "latin_christian",
   "traditions": [
@@ -38,5 +38,246 @@
       "label": "draft",
       "noteZh": "条目需要人工核对作品、年代和概念表述。"
     }
-  ]
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "augustine:problem:001",
+        "titleZh": "恶、自由与恩典",
+        "questionZh": "奥古斯丁如何围绕“恶、自由与恩典”建立其思想问题？",
+        "summaryZh": "奥古斯丁在这一问题上形成了可辨认的论证路径，连接文本命题、概念区分和后世问题谱系。",
+        "themeIds": [
+          "religion",
+          "knowledge"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "augustine:claim:001",
+            "titleZh": "核心命题一：恶、自由与恩典",
+            "claimZh": "奥古斯丁在“恶、自由与恩典”中提出基础性立场，说明其理论问题的出发点。",
+            "explanationZh": "该命题概括其原典中反复出现的论证方向，并为本问题的后续分支提供基础。",
+            "themeIds": [
+              "religion",
+              "knowledge"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "augustine:evidence:001",
+                "titleZh": "核心命题一：恶、自由与恩典的文本依据",
+                "summaryZh": "奥古斯丁在 Confessions VIII.5-12 on divided will and conversion 中提供该命题的原典定位，用于支撑“核心命题一：恶、自由与恩典”这一解释。",
+                "source": {
+                  "workId": "augustine-primary-work",
+                  "locator": "Confessions VIII.5-12 on divided will and conversion",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "augustine:evidence:002",
+                "titleZh": "核心命题一：恶、自由与恩典的文本依据",
+                "summaryZh": "奥古斯丁在 De libero arbitrio II.18-20 on evil and voluntary turning 中提供该命题的原典定位，用于支撑“核心命题一：恶、自由与恩典”这一解释。",
+                "source": {
+                  "workId": "augustine-primary-work",
+                  "locator": "De libero arbitrio II.18-20 on evil and voluntary turning",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "augustine:claim:002",
+            "titleZh": "核心命题二：恶、自由与恩典",
+            "claimZh": "奥古斯丁在“恶、自由与恩典”中进一步推出实践、制度或认识论后果。",
+            "explanationZh": "该命题把概念论证推进到可比较的问题谱系，避免只停留在术语解释。",
+            "themeIds": [
+              "religion",
+              "knowledge"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "augustine:evidence:003",
+                "titleZh": "核心命题二：恶、自由与恩典的文本依据",
+                "summaryZh": "奥古斯丁在 Confessions VIII.5-12 on divided will and conversion 中提供该命题的原典定位，用于支撑“核心命题二：恶、自由与恩典”这一解释。",
+                "source": {
+                  "workId": "augustine-primary-work",
+                  "locator": "Confessions VIII.5-12 on divided will and conversion",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "augustine:evidence:004",
+                "titleZh": "核心命题二：恶、自由与恩典的文本依据",
+                "summaryZh": "奥古斯丁在 De libero arbitrio II.18-20 on evil and voluntary turning 中提供该命题的原典定位，用于支撑“核心命题二：恶、自由与恩典”这一解释。",
+                "source": {
+                  "workId": "augustine-primary-work",
+                  "locator": "De libero arbitrio II.18-20 on evil and voluntary turning",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "augustine:problem:002",
+        "titleZh": "内在性与时间",
+        "questionZh": "奥古斯丁如何围绕“内在性与时间”建立其思想问题？",
+        "summaryZh": "奥古斯丁在这一问题上形成了可辨认的论证路径，连接文本命题、概念区分和后世问题谱系。",
+        "themeIds": [
+          "metaphysics",
+          "religion"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "augustine:claim:003",
+            "titleZh": "核心命题一：内在性与时间",
+            "claimZh": "奥古斯丁在“内在性与时间”中提出基础性立场，说明其理论问题的出发点。",
+            "explanationZh": "该命题概括其原典中反复出现的论证方向，并为本问题的后续分支提供基础。",
+            "themeIds": [
+              "metaphysics",
+              "religion"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "augustine:evidence:005",
+                "titleZh": "核心命题一：内在性与时间的文本依据",
+                "summaryZh": "奥古斯丁在 Confessions X.8-17 on memory as inner vastness 中提供该命题的原典定位，用于支撑“核心命题一：内在性与时间”这一解释。",
+                "source": {
+                  "workId": "augustine-primary-work",
+                  "locator": "Confessions X.8-17 on memory as inner vastness",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "augustine:evidence:006",
+                "titleZh": "核心命题一：内在性与时间的文本依据",
+                "summaryZh": "奥古斯丁在 Confessions XI.14-28 on time and distentio animi 中提供该命题的原典定位，用于支撑“核心命题一：内在性与时间”这一解释。",
+                "source": {
+                  "workId": "augustine-primary-work",
+                  "locator": "Confessions XI.14-28 on time and distentio animi",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "augustine:claim:004",
+            "titleZh": "核心命题二：内在性与时间",
+            "claimZh": "奥古斯丁在“内在性与时间”中进一步推出实践、制度或认识论后果。",
+            "explanationZh": "该命题把概念论证推进到可比较的问题谱系，避免只停留在术语解释。",
+            "themeIds": [
+              "metaphysics",
+              "religion"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "augustine:evidence:007",
+                "titleZh": "核心命题二：内在性与时间的文本依据",
+                "summaryZh": "奥古斯丁在 Confessions X.8-17 on memory as inner vastness 中提供该命题的原典定位，用于支撑“核心命题二：内在性与时间”这一解释。",
+                "source": {
+                  "workId": "augustine-primary-work",
+                  "locator": "Confessions X.8-17 on memory as inner vastness",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "augustine:evidence:008",
+                "titleZh": "核心命题二：内在性与时间的文本依据",
+                "summaryZh": "奥古斯丁在 Confessions XI.14-28 on time and distentio animi 中提供该命题的原典定位，用于支撑“核心命题二：内在性与时间”这一解释。",
+                "source": {
+                  "workId": "augustine-primary-work",
+                  "locator": "Confessions XI.14-28 on time and distentio animi",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "augustine:problem:003",
+        "titleZh": "历史与两座城",
+        "questionZh": "奥古斯丁如何围绕“历史与两座城”建立其思想问题？",
+        "summaryZh": "奥古斯丁在这一问题上形成了可辨认的论证路径，连接文本命题、概念区分和后世问题谱系。",
+        "themeIds": [
+          "ethics",
+          "politics"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "augustine:claim:005",
+            "titleZh": "核心命题一：历史与两座城",
+            "claimZh": "奥古斯丁在“历史与两座城”中提出基础性立场，说明其理论问题的出发点。",
+            "explanationZh": "该命题概括其原典中反复出现的论证方向，并为本问题的后续分支提供基础。",
+            "themeIds": [
+              "ethics",
+              "politics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "augustine:evidence:009",
+                "titleZh": "核心命题一：历史与两座城的文本依据",
+                "summaryZh": "奥古斯丁在 De civitate Dei XIV.28 on two loves and two cities 中提供该命题的原典定位，用于支撑“核心命题一：历史与两座城”这一解释。",
+                "source": {
+                  "workId": "augustine-primary-work",
+                  "locator": "De civitate Dei XIV.28 on two loves and two cities",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "augustine:evidence:010",
+                "titleZh": "核心命题一：历史与两座城的文本依据",
+                "summaryZh": "奥古斯丁在 De civitate Dei XIX.13-17 on earthly peace 中提供该命题的原典定位，用于支撑“核心命题一：历史与两座城”这一解释。",
+                "source": {
+                  "workId": "augustine-primary-work",
+                  "locator": "De civitate Dei XIX.13-17 on earthly peace",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "augustine:claim:006",
+            "titleZh": "核心命题二：历史与两座城",
+            "claimZh": "奥古斯丁在“历史与两座城”中进一步推出实践、制度或认识论后果。",
+            "explanationZh": "该命题把概念论证推进到可比较的问题谱系，避免只停留在术语解释。",
+            "themeIds": [
+              "ethics",
+              "politics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "augustine:evidence:011",
+                "titleZh": "核心命题二：历史与两座城的文本依据",
+                "summaryZh": "奥古斯丁在 De civitate Dei XIV.28 on two loves and two cities 中提供该命题的原典定位，用于支撑“核心命题二：历史与两座城”这一解释。",
+                "source": {
+                  "workId": "augustine-primary-work",
+                  "locator": "De civitate Dei XIV.28 on two loves and two cities",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "augustine:evidence:012",
+                "titleZh": "核心命题二：历史与两座城的文本依据",
+                "summaryZh": "奥古斯丁在 De civitate Dei XIX.13-17 on earthly peace 中提供该命题的原典定位，用于支撑“核心命题二：历史与两座城”这一解释。",
+                "source": {
+                  "workId": "augustine-primary-work",
+                  "locator": "De civitate Dei XIX.13-17 on earthly peace",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
 }

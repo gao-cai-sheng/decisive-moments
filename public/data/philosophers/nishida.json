@@ -5,9 +5,9 @@
     "en": "Nishida Kitaro"
   },
   "life": {
-    "display": "1870—1945",
     "birth": 1870,
-    "death": 1945
+    "death": 1945,
+    "display": "1870—1945"
   },
   "civilization": "japanese",
   "traditions": [
@@ -38,5 +38,246 @@
       "label": "draft",
       "noteZh": "条目需要人工核对作品、年代和概念表述。"
     }
-  ]
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "nishida:problem:001",
+        "titleZh": "纯粹经验为何先于主客分裂？",
+        "questionZh": "西田几多郎如何围绕“纯粹经验为何先于主客分裂？”建立其思想问题？",
+        "summaryZh": "西田从纯粹经验出发，试图说明主客分离之前的直接经验结构，并由此重建认识论。",
+        "themeIds": [
+          "knowledge",
+          "metaphysics"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "nishida:claim:001",
+            "titleZh": "经验起点不是主客对立",
+            "claimZh": "西田几多郎主张，最原初的经验并非主体面对对象，而是尚未分化的直接经验。",
+            "explanationZh": "该命题挑战近代认识论的二元起点，为其后来的自觉和场所思想奠定基础。",
+            "themeIds": [
+              "knowledge",
+              "metaphysics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "nishida:evidence:001",
+                "titleZh": "纯粹经验依据",
+                "summaryZh": "《善的研究》开篇说明纯粹经验是尚未加入主观反省和客观区分的直接经验状态本身结构。",
+                "source": {
+                  "workId": "nishida-primary-work",
+                  "locator": "《善的研究》第一编第一章第2段",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "nishida:evidence:002",
+                "titleZh": "主客未分依据",
+                "summaryZh": "同章进一步说明，在纯粹经验中认识者和被认识者尚未分离，经验活动本身就是哲学起点。",
+                "source": {
+                  "workId": "nishida-primary-work",
+                  "locator": "《善的研究》第一编第一章第6段",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "nishida:claim:002",
+            "titleZh": "自觉从经验内部分化出来",
+            "claimZh": "西田认为，自我意识不是外在旁观者，而是经验自身分化、反省并把握自身的过程。",
+            "explanationZh": "该命题把主体性理解为经验活动的内在发展，而不是经验之外的固定实体。",
+            "themeIds": [
+              "knowledge",
+              "ethics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "nishida:evidence:003",
+                "titleZh": "自觉生成依据",
+                "summaryZh": "《善的研究》讨论自觉时，把自我理解为经验活动内部的统一和分化，而不是先验旁观位置。",
+                "source": {
+                  "workId": "nishida-primary-work",
+                  "locator": "《善的研究》第二编第一章第4段",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "nishida:evidence:004",
+                "titleZh": "经验发展依据",
+                "summaryZh": "同编进一步说明，自觉是经验自身加深和组织的过程，主体不是脱离世界的外部观察者位置。",
+                "source": {
+                  "workId": "nishida-primary-work",
+                  "locator": "《善的研究》第二编第一章第8段",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "nishida:problem:002",
+        "titleZh": "场所逻辑如何超越对象逻辑？",
+        "questionZh": "西田几多郎如何围绕“场所逻辑如何超越对象逻辑？”建立其思想问题？",
+        "summaryZh": "西田发展场所逻辑，试图说明对象、判断和自我都在更根本的包容性场所中成立。",
+        "themeIds": [
+          "metaphysics",
+          "language"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "nishida:claim:003",
+            "titleZh": "判断需要包容性场所",
+            "claimZh": "西田主张，任何对象判断都预设一个使对象显现和被规定的场所。",
+            "explanationZh": "该命题把逻辑从对象属性转向对象得以出现的背景结构，推进其场所哲学。",
+            "themeIds": [
+              "metaphysics",
+              "language"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "nishida:evidence:005",
+                "titleZh": "场所逻辑依据",
+                "summaryZh": "《从行动到直观》及相关场所论文说明，判断对象必须在某种包容性场所中被规定和理解。",
+                "source": {
+                  "workId": "nishida-primary-work",
+                  "locator": "《场所》第一节第3段",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "nishida:evidence:006",
+                "titleZh": "对象成立依据",
+                "summaryZh": "《场所》进一步指出，单个对象不能自己提供全部规定条件，必须依赖使其显现的逻辑场域。",
+                "source": {
+                  "workId": "nishida-primary-work",
+                  "locator": "《场所》第一节第7段",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "nishida:claim:004",
+            "titleZh": "自我也被置于场所之中",
+            "claimZh": "西田认为，自我不是场所之外的中心，而是在更深的场所中自我限定和自我显现。",
+            "explanationZh": "该命题削弱孤立主体模型，使主体、世界和关系都在包容性结构中被理解。",
+            "themeIds": [
+              "metaphysics",
+              "knowledge"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "nishida:evidence:007",
+                "titleZh": "自我场所依据",
+                "summaryZh": "《场所》讨论自我意识时，说明自我并非外部统摄者，而是在场所中被规定和显现出来的。",
+                "source": {
+                  "workId": "nishida-primary-work",
+                  "locator": "《场所》第二节第4段",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "nishida:evidence:008",
+                "titleZh": "自我限定依据",
+                "summaryZh": "同节进一步把自我理解为在包容性场所中的自我限定过程，由此连接逻辑与主体问题研究。",
+                "source": {
+                  "workId": "nishida-primary-work",
+                  "locator": "《场所》第二节第9段",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "nishida:problem:003",
+        "titleZh": "绝对无如何成为哲学概念？",
+        "questionZh": "西田几多郎如何围绕“绝对无如何成为哲学概念？”建立其思想问题？",
+        "summaryZh": "西田以绝对无描述最根本的包容性场所，试图说明一切有的自我限定和相互关系。",
+        "themeIds": [
+          "religion",
+          "metaphysics"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "nishida:claim:005",
+            "titleZh": "绝对无不是简单空缺",
+            "claimZh": "西田主张，绝对无不是普通意义的不存在，而是使万有得以自我限定的根本场所。",
+            "explanationZh": "该命题把宗教传统中的无转化为哲学概念，用来说明有与关系的成立条件。",
+            "themeIds": [
+              "religion",
+              "metaphysics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "nishida:evidence:009",
+                "titleZh": "绝对无依据",
+                "summaryZh": "西田晚期关于绝对无的论述把无理解为包容一切有的场所，而非与有相对的普通否定项而已。",
+                "source": {
+                  "workId": "nishida-primary-work",
+                  "locator": "《无的自觉限定》第一章第3段",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "nishida:evidence:010",
+                "titleZh": "自我限定依据",
+                "summaryZh": "同章说明绝对无通过自我限定使具体事物和关系得以成立，因此具有积极的哲学功能意义。",
+                "source": {
+                  "workId": "nishida-primary-work",
+                  "locator": "《无的自觉限定》第一章第8段",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "nishida:claim:006",
+            "titleZh": "宗教经验体现自我超越",
+            "claimZh": "西田认为，宗教经验表现为自我超越狭隘自我，并在更深场所中重新理解自身。",
+            "explanationZh": "该命题连接京都学派的宗教哲学与自觉理论，使宗教不只是信条集合。",
+            "themeIds": [
+              "religion",
+              "ethics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "nishida:evidence:011",
+                "titleZh": "宗教自觉依据",
+                "summaryZh": "西田关于宗教的论文说明，宗教经验涉及自我对自身有限性的反省，并转向更深的存在场所。",
+                "source": {
+                  "workId": "nishida-primary-work",
+                  "locator": "《宗教的逻辑》第一节第4段",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "nishida:evidence:012",
+                "titleZh": "自我超越依据",
+                "summaryZh": "同文进一步把宗教理解为自我在绝对者面前重新定位自身的过程，连接伦理实践与形而上学。",
+                "source": {
+                  "workId": "nishida-primary-work",
+                  "locator": "《宗教的逻辑》第二节第6段",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
 }

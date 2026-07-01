@@ -5,9 +5,9 @@
     "en": "W. V. O. Quine"
   },
   "life": {
-    "display": "1908—2000",
     "birth": 1908,
-    "death": 2000
+    "death": 2000,
+    "display": "1908—2000"
   },
   "civilization": "american",
   "traditions": [
@@ -38,5 +38,184 @@
       "label": "draft",
       "noteZh": "条目需要人工核对作品、年代和概念表述。"
     }
-  ]
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "quine:problem:001",
+        "titleZh": "经验如何检验理论整体？",
+        "questionZh": "蒯因如何围绕“经验如何检验理论整体？”建立其思想问题？",
+        "summaryZh": "蒯因反对把单个命题孤立地交给经验裁决，主张知识体系作为整体面对经验压力。",
+        "themeIds": [
+          "knowledge",
+          "language"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "quine:claim:001",
+            "titleZh": "单个命题不单独面对经验",
+            "claimZh": "蒯因主张，经验检验总是作用于相互关联的信念网络，而不是孤立命题。",
+            "explanationZh": "该命题削弱还原主义经验论，使科学修正成为整体网络内部的再平衡。",
+            "themeIds": [
+              "knowledge"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "quine:evidence:001",
+                "titleZh": "还原主义批判依据",
+                "summaryZh": "《经验论的两个教条》批判每个有意义陈述都能还原为直接经验条件的设想。",
+                "source": {
+                  "workId": "quine-primary-work",
+                  "locator": "《经验论的两个教条》关于还原主义教条",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "quine:claim:002",
+            "titleZh": "信念网络可多点调整",
+            "claimZh": "蒯因认为，面对反常经验，我们可以修改观察判断、辅助假设、逻辑或定义。",
+            "explanationZh": "该命题解释科学理论的弹性，也引出本体论承诺和理论简约性的评价问题。",
+            "themeIds": [
+              "knowledge"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "quine:evidence:002",
+                "titleZh": "信念之网依据",
+                "summaryZh": "《经验论的两个教条》用信念之网比喻说明经验冲击与理论调整的整体性。",
+                "source": {
+                  "workId": "quine-primary-work",
+                  "locator": "《经验论的两个教条》结尾关于信念之网",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "quine:problem:002",
+        "titleZh": "分析与综合之分为何可疑？",
+        "questionZh": "蒯因如何围绕“分析与综合之分为何可疑？”建立其思想问题？",
+        "summaryZh": "蒯因批判逻辑经验主义依赖的分析/综合区分，认为同义性和规则说明无法独立奠基。",
+        "themeIds": [
+          "language",
+          "knowledge"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "quine:claim:003",
+            "titleZh": "同义性不能奠基分析性",
+            "claimZh": "蒯因主张，用同义性解释分析命题会陷入循环，因为同义性本身也待解释。",
+            "explanationZh": "该命题动摇语言真理与事实真理的硬分界，重塑二十世纪经验论。",
+            "themeIds": [
+              "language",
+              "knowledge"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "quine:evidence:003",
+                "titleZh": "同义性批判依据",
+                "summaryZh": "《经验论的两个教条》追问分析性、可互换性和语义规则能否非循环说明同义性。",
+                "source": {
+                  "workId": "quine-primary-work",
+                  "locator": "《经验论的两个教条》前半部分关于分析性和同义性",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "quine:claim:004",
+            "titleZh": "逻辑真理也嵌入理论选择",
+            "claimZh": "蒯因认为，没有绝对不可修正的语言真理，即使逻辑原则也处在理论整体中。",
+            "explanationZh": "该命题把知识看作连续整体，削弱先验真理与经验科学之间的界线。",
+            "themeIds": [
+              "knowledge",
+              "metaphysics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "quine:evidence:004",
+                "titleZh": "整体论依据",
+                "summaryZh": "《经验论的两个教条》把科学整体看成经验边界条件下的人工结构。",
+                "source": {
+                  "workId": "quine-primary-work",
+                  "locator": "《经验论的两个教条》结尾关于整体论和实用选择",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "quine:problem:003",
+        "titleZh": "本体论承诺如何由量化决定？",
+        "questionZh": "蒯因如何围绕“本体论承诺如何由量化决定？”建立其思想问题？",
+        "summaryZh": "蒯因用逻辑形式和量化变量判定理论承诺什么存在，连接语言分析与本体论。",
+        "themeIds": [
+          "metaphysics",
+          "language"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "quine:claim:005",
+            "titleZh": "存在就是变量取值",
+            "claimZh": "蒯因主张，一个理论承诺哪些实体，要看其最佳逻辑表述中哪些对象作为变量取值。",
+            "explanationZh": "该命题把本体论问题转化为理论形式化后的承诺问题，影响分析形而上学。",
+            "themeIds": [
+              "metaphysics",
+              "language"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "quine:evidence:005",
+                "titleZh": "变量取值依据",
+                "summaryZh": "《论何物存在》以量化逻辑说明本体论承诺应从理论的约束变量中读取。",
+                "source": {
+                  "workId": "quine-primary-work",
+                  "locator": "《论何物存在》关于to be is to be the value of a variable",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "quine:claim:006",
+            "titleZh": "本体论选择受理论效用制约",
+            "claimZh": "蒯因认为，本体论承诺没有外部法庭，应依据简约性、解释力和科学体系效用评估。",
+            "explanationZh": "该命题继承其整体论，使存在论成为科学理论选择的一部分。",
+            "themeIds": [
+              "metaphysics",
+              "knowledge"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "quine:evidence:006",
+                "titleZh": "本体论相对性依据",
+                "summaryZh": "《词与物》在语言和理论选择背景下讨论本体论承诺的相对性。",
+                "source": {
+                  "workId": "quine-primary-work",
+                  "locator": "《词与物》关于本体论相对性和翻译不确定性",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
 }

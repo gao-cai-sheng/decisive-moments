@@ -5,9 +5,9 @@
     "en": "John Locke"
   },
   "life": {
-    "display": "1632—1704",
     "birth": 1632,
-    "death": 1704
+    "death": 1704,
+    "display": "1632—1704"
   },
   "civilization": "european_modern",
   "traditions": [
@@ -38,5 +38,246 @@
       "label": "draft",
       "noteZh": "条目需要人工核对作品、年代和概念表述。"
     }
-  ]
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "locke:problem:001",
+        "titleZh": "经验如何生成观念？",
+        "questionZh": "洛克如何围绕“经验如何生成观念？”建立其思想问题？",
+        "summaryZh": "洛克在这一问题上形成了可辨认的论证路径，连接文本命题、概念区分和后世问题谱系。",
+        "themeIds": [
+          "knowledge",
+          "metaphysics"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "locke:claim:001",
+            "titleZh": "核心命题一：经验如何生成观念？",
+            "claimZh": "洛克在“经验如何生成观念？”中提出基础性立场，说明其理论问题的出发点。",
+            "explanationZh": "该命题概括其原典中反复出现的论证方向，并为本问题的后续分支提供基础。",
+            "themeIds": [
+              "knowledge",
+              "metaphysics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "locke:evidence:001",
+                "titleZh": "核心命题一：经验如何生成观念？的文本依据",
+                "summaryZh": "洛克在 Essay concerning Human Understanding I.2 on innate principles 中提供该命题的原典定位，用于支撑“核心命题一：经验如何生成观念？”这一解释。",
+                "source": {
+                  "workId": "locke-primary-work",
+                  "locator": "Essay concerning Human Understanding I.2 on innate principles",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "locke:evidence:002",
+                "titleZh": "核心命题一：经验如何生成观念？的文本依据",
+                "summaryZh": "洛克在 Essay II.1 on ideas from sensation and reflection 中提供该命题的原典定位，用于支撑“核心命题一：经验如何生成观念？”这一解释。",
+                "source": {
+                  "workId": "locke-primary-work",
+                  "locator": "Essay II.1 on ideas from sensation and reflection",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "locke:claim:002",
+            "titleZh": "核心命题二：经验如何生成观念？",
+            "claimZh": "洛克在“经验如何生成观念？”中进一步推出实践、制度或认识论后果。",
+            "explanationZh": "该命题把概念论证推进到可比较的问题谱系，避免只停留在术语解释。",
+            "themeIds": [
+              "knowledge",
+              "metaphysics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "locke:evidence:003",
+                "titleZh": "核心命题二：经验如何生成观念？的文本依据",
+                "summaryZh": "洛克在 Essay concerning Human Understanding I.2 on innate principles 中提供该命题的原典定位，用于支撑“核心命题二：经验如何生成观念？”这一解释。",
+                "source": {
+                  "workId": "locke-primary-work",
+                  "locator": "Essay concerning Human Understanding I.2 on innate principles",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "locke:evidence:004",
+                "titleZh": "核心命题二：经验如何生成观念？的文本依据",
+                "summaryZh": "洛克在 Essay II.1 on ideas from sensation and reflection 中提供该命题的原典定位，用于支撑“核心命题二：经验如何生成观念？”这一解释。",
+                "source": {
+                  "workId": "locke-primary-work",
+                  "locator": "Essay II.1 on ideas from sensation and reflection",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "locke:problem:002",
+        "titleZh": "人格同一性依赖什么？",
+        "questionZh": "洛克如何围绕“人格同一性依赖什么？”建立其思想问题？",
+        "summaryZh": "洛克在这一问题上形成了可辨认的论证路径，连接文本命题、概念区分和后世问题谱系。",
+        "themeIds": [
+          "freedom",
+          "ethics"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "locke:claim:003",
+            "titleZh": "核心命题一：人格同一性依赖什么？",
+            "claimZh": "洛克在“人格同一性依赖什么？”中提出基础性立场，说明其理论问题的出发点。",
+            "explanationZh": "该命题概括其原典中反复出现的论证方向，并为本问题的后续分支提供基础。",
+            "themeIds": [
+              "freedom",
+              "ethics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "locke:evidence:005",
+                "titleZh": "核心命题一：人格同一性依赖什么？的文本依据",
+                "summaryZh": "洛克在 Essay II.27.9 on person as thinking intelligent being 中提供该命题的原典定位，用于支撑“核心命题一：人格同一性依赖什么？”这一解释。",
+                "source": {
+                  "workId": "locke-primary-work",
+                  "locator": "Essay II.27.9 on person as thinking intelligent being",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "locke:evidence:006",
+                "titleZh": "核心命题一：人格同一性依赖什么？的文本依据",
+                "summaryZh": "洛克在 Essay II.27.26 on person as forensic term 中提供该命题的原典定位，用于支撑“核心命题一：人格同一性依赖什么？”这一解释。",
+                "source": {
+                  "workId": "locke-primary-work",
+                  "locator": "Essay II.27.26 on person as forensic term",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "locke:claim:004",
+            "titleZh": "核心命题二：人格同一性依赖什么？",
+            "claimZh": "洛克在“人格同一性依赖什么？”中进一步推出实践、制度或认识论后果。",
+            "explanationZh": "该命题把概念论证推进到可比较的问题谱系，避免只停留在术语解释。",
+            "themeIds": [
+              "freedom",
+              "ethics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "locke:evidence:007",
+                "titleZh": "核心命题二：人格同一性依赖什么？的文本依据",
+                "summaryZh": "洛克在 Essay II.27.9 on person as thinking intelligent being 中提供该命题的原典定位，用于支撑“核心命题二：人格同一性依赖什么？”这一解释。",
+                "source": {
+                  "workId": "locke-primary-work",
+                  "locator": "Essay II.27.9 on person as thinking intelligent being",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "locke:evidence:008",
+                "titleZh": "核心命题二：人格同一性依赖什么？的文本依据",
+                "summaryZh": "洛克在 Essay II.27.26 on person as forensic term 中提供该命题的原典定位，用于支撑“核心命题二：人格同一性依赖什么？”这一解释。",
+                "source": {
+                  "workId": "locke-primary-work",
+                  "locator": "Essay II.27.26 on person as forensic term",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "locke:problem:003",
+        "titleZh": "政府权力从何而来？",
+        "questionZh": "洛克如何围绕“政府权力从何而来？”建立其思想问题？",
+        "summaryZh": "洛克在这一问题上形成了可辨认的论证路径，连接文本命题、概念区分和后世问题谱系。",
+        "themeIds": [
+          "politics",
+          "ethics"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "locke:claim:005",
+            "titleZh": "核心命题一：政府权力从何而来？",
+            "claimZh": "洛克在“政府权力从何而来？”中提出基础性立场，说明其理论问题的出发点。",
+            "explanationZh": "该命题概括其原典中反复出现的论证方向，并为本问题的后续分支提供基础。",
+            "themeIds": [
+              "politics",
+              "ethics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "locke:evidence:009",
+                "titleZh": "核心命题一：政府权力从何而来？的文本依据",
+                "summaryZh": "洛克在 Second Treatise chapter 2 on state of nature 中提供该命题的原典定位，用于支撑“核心命题一：政府权力从何而来？”这一解释。",
+                "source": {
+                  "workId": "locke-primary-work",
+                  "locator": "Second Treatise chapter 2 on state of nature",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "locke:evidence:010",
+                "titleZh": "核心命题一：政府权力从何而来？的文本依据",
+                "summaryZh": "洛克在 Second Treatise chapter 5 on property and labor 中提供该命题的原典定位，用于支撑“核心命题一：政府权力从何而来？”这一解释。",
+                "source": {
+                  "workId": "locke-primary-work",
+                  "locator": "Second Treatise chapter 5 on property and labor",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "locke:claim:006",
+            "titleZh": "核心命题二：政府权力从何而来？",
+            "claimZh": "洛克在“政府权力从何而来？”中进一步推出实践、制度或认识论后果。",
+            "explanationZh": "该命题把概念论证推进到可比较的问题谱系，避免只停留在术语解释。",
+            "themeIds": [
+              "politics",
+              "ethics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "locke:evidence:011",
+                "titleZh": "核心命题二：政府权力从何而来？的文本依据",
+                "summaryZh": "洛克在 Second Treatise chapter 2 on state of nature 中提供该命题的原典定位，用于支撑“核心命题二：政府权力从何而来？”这一解释。",
+                "source": {
+                  "workId": "locke-primary-work",
+                  "locator": "Second Treatise chapter 2 on state of nature",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "locke:evidence:012",
+                "titleZh": "核心命题二：政府权力从何而来？的文本依据",
+                "summaryZh": "洛克在 Second Treatise chapter 5 on property and labor 中提供该命题的原典定位，用于支撑“核心命题二：政府权力从何而来？”这一解释。",
+                "source": {
+                  "workId": "locke-primary-work",
+                  "locator": "Second Treatise chapter 5 on property and labor",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
 }

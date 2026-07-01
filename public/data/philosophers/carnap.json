@@ -5,9 +5,9 @@
     "en": "Rudolf Carnap"
   },
   "life": {
-    "display": "1891—1970",
     "birth": 1891,
-    "death": 1970
+    "death": 1970,
+    "display": "1891—1970"
   },
   "civilization": "european_modern",
   "traditions": [
@@ -38,5 +38,185 @@
       "label": "draft",
       "noteZh": "条目需要人工核对作品、年代和概念表述。"
     }
-  ]
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "carnap:problem:001",
+        "titleZh": "哲学命题如何获得逻辑澄清？",
+        "questionZh": "卡尔纳普如何围绕“哲学命题如何获得逻辑澄清？”建立其思想问题？",
+        "summaryZh": "卡尔纳普把哲学工作理解为语言与逻辑句法的澄清，反对把形而上学伪命题当作知识。",
+        "themeIds": [
+          "language",
+          "knowledge"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "carnap:claim:001",
+            "titleZh": "哲学转向语言分析",
+            "claimZh": "卡尔纳普主张，许多传统哲学争论并非事实问题，而是语言框架和表达规则未被澄清。",
+            "explanationZh": "该命题使哲学成为概念语言的规范分析，减少不受检验的形而上学断言。",
+            "themeIds": [
+              "language",
+              "knowledge"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "carnap:evidence:001",
+                "titleZh": "逻辑句法依据",
+                "summaryZh": "《语言的逻辑句法》把哲学任务定位为对科学语言的逻辑句法研究。",
+                "source": {
+                  "workId": "carnap-primary-work",
+                  "locator": "《语言的逻辑句法》导论关于哲学作为逻辑句法",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "carnap:claim:002",
+            "titleZh": "形而上学语句缺乏认知意义",
+            "claimZh": "卡尔纳普认为，许多形而上学语句不能给出经验检验或逻辑规则中的使用条件。",
+            "explanationZh": "该命题是逻辑经验主义的标志性立场，将意义标准用于批判传统本体论。",
+            "themeIds": [
+              "knowledge",
+              "metaphysics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "carnap:evidence:002",
+                "titleZh": "伪命题依据",
+                "summaryZh": "《通过语言的逻辑分析克服形而上学》说明形而上学词句常缺乏可判定认知用法。",
+                "source": {
+                  "workId": "carnap-primary-work",
+                  "locator": "《通过语言的逻辑分析克服形而上学》关于伪命题",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "carnap:problem:002",
+        "titleZh": "科学语言如何统一？",
+        "questionZh": "卡尔纳普如何围绕“科学语言如何统一？”建立其思想问题？",
+        "summaryZh": "卡尔纳普试图用形式语言、还原句和统一科学计划协调不同科学陈述。",
+        "themeIds": [
+          "knowledge",
+          "language"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "carnap:claim:003",
+            "titleZh": "科学概念需要构造规则",
+            "claimZh": "卡尔纳普主张，科学概念应在清楚的语言框架中定义、构造或还原。",
+            "explanationZh": "该命题把科学哲学推进为概念工程，强调形式精确性和跨学科可通约性。",
+            "themeIds": [
+              "knowledge",
+              "language"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "carnap:evidence:003",
+                "titleZh": "构造系统依据",
+                "summaryZh": "《世界的逻辑构造》试图从基础经验元素构造科学对象，展示概念系统的逻辑秩序。",
+                "source": {
+                  "workId": "carnap-primary-work",
+                  "locator": "《世界的逻辑构造》序言与开篇关于构造系统目标",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "carnap:claim:004",
+            "titleZh": "物理主义提供公共语言",
+            "claimZh": "卡尔纳普认为，统一科学需要公共语言，物理主义语言因公共可检验性而适合承担协调功能。",
+            "explanationZh": "该命题不是简单还原所有科学，而是寻找跨学科沟通和检验的共同表达平台。",
+            "themeIds": [
+              "knowledge"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "carnap:evidence:004",
+                "titleZh": "统一科学依据",
+                "summaryZh": "《科学的统一》把物理语言看作统一科学的候选基础，以连接各科学术语。",
+                "source": {
+                  "workId": "carnap-primary-work",
+                  "locator": "《科学的统一》关于物理主义语言",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "carnap:problem:003",
+        "titleZh": "本体论问题是框架选择吗？",
+        "questionZh": "卡尔纳普如何围绕“本体论问题是实质争论还是框架选择？”建立其思想问题？",
+        "summaryZh": "卡尔纳普区分语言框架内部问题与框架外部选择，重塑本体论争论的意义。",
+        "themeIds": [
+          "metaphysics",
+          "language"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "carnap:claim:005",
+            "titleZh": "内部问题可按规则回答",
+            "claimZh": "卡尔纳普主张，在既定语言框架内部，数、物或性质是否存在的问题可按规则回答。",
+            "explanationZh": "该命题保留科学与数学中的存在说法，同时避免把它们误读为超框架形而上学。",
+            "themeIds": [
+              "language",
+              "metaphysics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "carnap:evidence:005",
+                "titleZh": "内部问题依据",
+                "summaryZh": "《经验主义、语义学与本体论》区分框架内存在问题和是否采用框架的问题。",
+                "source": {
+                  "workId": "carnap-primary-work",
+                  "locator": "《经验主义、语义学与本体论》关于内部问题",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "carnap:claim:006",
+            "titleZh": "外部问题是实用选择",
+            "claimZh": "卡尔纳普认为，是否采用某语言框架主要取决于简便、丰饶和理论效用。",
+            "explanationZh": "该命题把本体论承诺转化为语言工程选择，影响后来的元本体论争论。",
+            "themeIds": [
+              "language",
+              "knowledge"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "carnap:evidence:006",
+                "titleZh": "外部问题依据",
+                "summaryZh": "《经验主义、语义学与本体论》认为选择语言形式类似选择工具，应依据目的和效率。",
+                "source": {
+                  "workId": "carnap-primary-work",
+                  "locator": "《经验主义、语义学与本体论》关于外部问题的实用性质",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
 }

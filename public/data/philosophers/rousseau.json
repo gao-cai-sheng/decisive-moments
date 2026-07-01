@@ -5,9 +5,9 @@
     "en": "Jean-Jacques Rousseau"
   },
   "life": {
-    "display": "1712—1778",
     "birth": 1712,
-    "death": 1778
+    "death": 1778,
+    "display": "1712—1778"
   },
   "civilization": "european_modern",
   "traditions": [
@@ -38,5 +38,246 @@
       "label": "draft",
       "noteZh": "条目需要人工核对作品、年代和概念表述。"
     }
-  ]
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "rousseau:problem:001",
+        "titleZh": "文明为何制造不平等？",
+        "questionZh": "卢梭如何围绕“文明为何制造不平等？”建立其思想问题？",
+        "summaryZh": "卢梭在这一问题上形成了可辨认的论证路径，连接文本命题、概念区分和后世问题谱系。",
+        "themeIds": [
+          "knowledge",
+          "metaphysics"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "rousseau:claim:001",
+            "titleZh": "核心命题一：文明为何制造不平等？",
+            "claimZh": "卢梭在“文明为何制造不平等？”中提出基础性立场，说明其理论问题的出发点。",
+            "explanationZh": "该命题概括其原典中反复出现的论证方向，并为本问题的后续分支提供基础。",
+            "themeIds": [
+              "knowledge",
+              "metaphysics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "rousseau:evidence:001",
+                "titleZh": "核心命题一：文明为何制造不平等？的文本依据",
+                "summaryZh": "卢梭在 Second Discourse preface on method 中提供该命题的原典定位，用于支撑“核心命题一：文明为何制造不平等？”这一解释。",
+                "source": {
+                  "workId": "rousseau-primary-work",
+                  "locator": "Second Discourse preface on method",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "rousseau:evidence:002",
+                "titleZh": "核心命题一：文明为何制造不平等？的文本依据",
+                "summaryZh": "卢梭在 Second Discourse part II on first enclosure 中提供该命题的原典定位，用于支撑“核心命题一：文明为何制造不平等？”这一解释。",
+                "source": {
+                  "workId": "rousseau-primary-work",
+                  "locator": "Second Discourse part II on first enclosure",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "rousseau:claim:002",
+            "titleZh": "核心命题二：文明为何制造不平等？",
+            "claimZh": "卢梭在“文明为何制造不平等？”中进一步推出实践、制度或认识论后果。",
+            "explanationZh": "该命题把概念论证推进到可比较的问题谱系，避免只停留在术语解释。",
+            "themeIds": [
+              "knowledge",
+              "metaphysics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "rousseau:evidence:003",
+                "titleZh": "核心命题二：文明为何制造不平等？的文本依据",
+                "summaryZh": "卢梭在 Second Discourse preface on method 中提供该命题的原典定位，用于支撑“核心命题二：文明为何制造不平等？”这一解释。",
+                "source": {
+                  "workId": "rousseau-primary-work",
+                  "locator": "Second Discourse preface on method",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "rousseau:evidence:004",
+                "titleZh": "核心命题二：文明为何制造不平等？的文本依据",
+                "summaryZh": "卢梭在 Second Discourse part II on first enclosure 中提供该命题的原典定位，用于支撑“核心命题二：文明为何制造不平等？”这一解释。",
+                "source": {
+                  "workId": "rousseau-primary-work",
+                  "locator": "Second Discourse part II on first enclosure",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "rousseau:problem:002",
+        "titleZh": "如何既服从法律又保持自由？",
+        "questionZh": "卢梭如何围绕“如何既服从法律又保持自由？”建立其思想问题？",
+        "summaryZh": "卢梭在这一问题上形成了可辨认的论证路径，连接文本命题、概念区分和后世问题谱系。",
+        "themeIds": [
+          "freedom",
+          "ethics"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "rousseau:claim:003",
+            "titleZh": "核心命题一：如何既服从法律又保持自由？",
+            "claimZh": "卢梭在“如何既服从法律又保持自由？”中提出基础性立场，说明其理论问题的出发点。",
+            "explanationZh": "该命题概括其原典中反复出现的论证方向，并为本问题的后续分支提供基础。",
+            "themeIds": [
+              "freedom",
+              "ethics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "rousseau:evidence:005",
+                "titleZh": "核心命题一：如何既服从法律又保持自由？的文本依据",
+                "summaryZh": "卢梭在 Du contrat social I.6 on the social pact 中提供该命题的原典定位，用于支撑“核心命题一：如何既服从法律又保持自由？”这一解释。",
+                "source": {
+                  "workId": "rousseau-primary-work",
+                  "locator": "Du contrat social I.6 on the social pact",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "rousseau:evidence:006",
+                "titleZh": "核心命题一：如何既服从法律又保持自由？的文本依据",
+                "summaryZh": "卢梭在 Du contrat social II.3 on general will 中提供该命题的原典定位，用于支撑“核心命题一：如何既服从法律又保持自由？”这一解释。",
+                "source": {
+                  "workId": "rousseau-primary-work",
+                  "locator": "Du contrat social II.3 on general will",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "rousseau:claim:004",
+            "titleZh": "核心命题二：如何既服从法律又保持自由？",
+            "claimZh": "卢梭在“如何既服从法律又保持自由？”中进一步推出实践、制度或认识论后果。",
+            "explanationZh": "该命题把概念论证推进到可比较的问题谱系，避免只停留在术语解释。",
+            "themeIds": [
+              "freedom",
+              "ethics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "rousseau:evidence:007",
+                "titleZh": "核心命题二：如何既服从法律又保持自由？的文本依据",
+                "summaryZh": "卢梭在 Du contrat social I.6 on the social pact 中提供该命题的原典定位，用于支撑“核心命题二：如何既服从法律又保持自由？”这一解释。",
+                "source": {
+                  "workId": "rousseau-primary-work",
+                  "locator": "Du contrat social I.6 on the social pact",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "rousseau:evidence:008",
+                "titleZh": "核心命题二：如何既服从法律又保持自由？的文本依据",
+                "summaryZh": "卢梭在 Du contrat social II.3 on general will 中提供该命题的原典定位，用于支撑“核心命题二：如何既服从法律又保持自由？”这一解释。",
+                "source": {
+                  "workId": "rousseau-primary-work",
+                  "locator": "Du contrat social II.3 on general will",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "rousseau:problem:003",
+        "titleZh": "教育如何保护自由？",
+        "questionZh": "卢梭如何围绕“教育如何保护自由？”建立其思想问题？",
+        "summaryZh": "卢梭在这一问题上形成了可辨认的论证路径，连接文本命题、概念区分和后世问题谱系。",
+        "themeIds": [
+          "politics",
+          "ethics"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "rousseau:claim:005",
+            "titleZh": "核心命题一：教育如何保护自由？",
+            "claimZh": "卢梭在“教育如何保护自由？”中提出基础性立场，说明其理论问题的出发点。",
+            "explanationZh": "该命题概括其原典中反复出现的论证方向，并为本问题的后续分支提供基础。",
+            "themeIds": [
+              "politics",
+              "ethics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "rousseau:evidence:009",
+                "titleZh": "核心命题一：教育如何保护自由？的文本依据",
+                "summaryZh": "卢梭在 Émile book II on negative education 中提供该命题的原典定位，用于支撑“核心命题一：教育如何保护自由？”这一解释。",
+                "source": {
+                  "workId": "rousseau-primary-work",
+                  "locator": "Émile book II on negative education",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "rousseau:evidence:010",
+                "titleZh": "核心命题一：教育如何保护自由？的文本依据",
+                "summaryZh": "卢梭在 Émile book IV Profession of Faith of the Savoyard Vicar 中提供该命题的原典定位，用于支撑“核心命题一：教育如何保护自由？”这一解释。",
+                "source": {
+                  "workId": "rousseau-primary-work",
+                  "locator": "Émile book IV Profession of Faith of the Savoyard Vicar",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "rousseau:claim:006",
+            "titleZh": "核心命题二：教育如何保护自由？",
+            "claimZh": "卢梭在“教育如何保护自由？”中进一步推出实践、制度或认识论后果。",
+            "explanationZh": "该命题把概念论证推进到可比较的问题谱系，避免只停留在术语解释。",
+            "themeIds": [
+              "politics",
+              "ethics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "rousseau:evidence:011",
+                "titleZh": "核心命题二：教育如何保护自由？的文本依据",
+                "summaryZh": "卢梭在 Émile book II on negative education 中提供该命题的原典定位，用于支撑“核心命题二：教育如何保护自由？”这一解释。",
+                "source": {
+                  "workId": "rousseau-primary-work",
+                  "locator": "Émile book II on negative education",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "rousseau:evidence:012",
+                "titleZh": "核心命题二：教育如何保护自由？的文本依据",
+                "summaryZh": "卢梭在 Émile book IV Profession of Faith of the Savoyard Vicar 中提供该命题的原典定位，用于支撑“核心命题二：教育如何保护自由？”这一解释。",
+                "source": {
+                  "workId": "rousseau-primary-work",
+                  "locator": "Émile book IV Profession of Faith of the Savoyard Vicar",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
 }

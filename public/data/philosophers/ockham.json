@@ -5,9 +5,9 @@
     "en": "William of Ockham"
   },
   "life": {
-    "display": "约1287—1347",
     "birth": 1287,
-    "death": 1347
+    "death": 1347,
+    "display": "约1287—1347"
   },
   "civilization": "latin_christian",
   "traditions": [
@@ -38,5 +38,246 @@
       "label": "draft",
       "noteZh": "条目需要人工核对作品、年代和概念表述。"
     }
-  ]
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "ockham:problem:001",
+        "titleZh": "概念是否需要普遍实体？",
+        "questionZh": "奥卡姆如何围绕“概念是否需要普遍实体？”建立其思想问题？",
+        "summaryZh": "奥卡姆在这一问题上形成了可辨认的论证路径，连接文本命题、概念区分和后世问题谱系。",
+        "themeIds": [
+          "religion",
+          "knowledge"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "ockham:claim:001",
+            "titleZh": "核心命题一：概念是否需要普遍实体？",
+            "claimZh": "奥卡姆在“概念是否需要普遍实体？”中提出基础性立场，说明其理论问题的出发点。",
+            "explanationZh": "该命题概括其原典中反复出现的论证方向，并为本问题的后续分支提供基础。",
+            "themeIds": [
+              "religion",
+              "knowledge"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "ockham:evidence:001",
+                "titleZh": "核心命题一：概念是否需要普遍实体？的文本依据",
+                "summaryZh": "奥卡姆在 Summa Logicae I.14-17 on terms and universals 中提供该命题的原典定位，用于支撑“核心命题一：概念是否需要普遍实体？”这一解释。",
+                "source": {
+                  "workId": "ockham-primary-work",
+                  "locator": "Summa Logicae I.14-17 on terms and universals",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "ockham:evidence:002",
+                "titleZh": "核心命题一：概念是否需要普遍实体？的文本依据",
+                "summaryZh": "奥卡姆在 Ordinatio d.2 q.4-8 on universals and individuals 中提供该命题的原典定位，用于支撑“核心命题一：概念是否需要普遍实体？”这一解释。",
+                "source": {
+                  "workId": "ockham-primary-work",
+                  "locator": "Ordinatio d.2 q.4-8 on universals and individuals",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "ockham:claim:002",
+            "titleZh": "核心命题二：概念是否需要普遍实体？",
+            "claimZh": "奥卡姆在“概念是否需要普遍实体？”中进一步推出实践、制度或认识论后果。",
+            "explanationZh": "该命题把概念论证推进到可比较的问题谱系，避免只停留在术语解释。",
+            "themeIds": [
+              "religion",
+              "knowledge"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "ockham:evidence:003",
+                "titleZh": "核心命题二：概念是否需要普遍实体？的文本依据",
+                "summaryZh": "奥卡姆在 Summa Logicae I.14-17 on terms and universals 中提供该命题的原典定位，用于支撑“核心命题二：概念是否需要普遍实体？”这一解释。",
+                "source": {
+                  "workId": "ockham-primary-work",
+                  "locator": "Summa Logicae I.14-17 on terms and universals",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "ockham:evidence:004",
+                "titleZh": "核心命题二：概念是否需要普遍实体？的文本依据",
+                "summaryZh": "奥卡姆在 Ordinatio d.2 q.4-8 on universals and individuals 中提供该命题的原典定位，用于支撑“核心命题二：概念是否需要普遍实体？”这一解释。",
+                "source": {
+                  "workId": "ockham-primary-work",
+                  "locator": "Ordinatio d.2 q.4-8 on universals and individuals",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ockham:problem:002",
+        "titleZh": "神的全能如何影响形而上学？",
+        "questionZh": "奥卡姆如何围绕“神的全能如何影响形而上学？”建立其思想问题？",
+        "summaryZh": "奥卡姆在这一问题上形成了可辨认的论证路径，连接文本命题、概念区分和后世问题谱系。",
+        "themeIds": [
+          "metaphysics",
+          "religion"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "ockham:claim:003",
+            "titleZh": "核心命题一：神的全能如何影响形而上学？",
+            "claimZh": "奥卡姆在“神的全能如何影响形而上学？”中提出基础性立场，说明其理论问题的出发点。",
+            "explanationZh": "该命题概括其原典中反复出现的论证方向，并为本问题的后续分支提供基础。",
+            "themeIds": [
+              "metaphysics",
+              "religion"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "ockham:evidence:005",
+                "titleZh": "核心命题一：神的全能如何影响形而上学？的文本依据",
+                "summaryZh": "奥卡姆在 Quodlibeta VI q.1 on potentia absoluta and ordinata 中提供该命题的原典定位，用于支撑“核心命题一：神的全能如何影响形而上学？”这一解释。",
+                "source": {
+                  "workId": "ockham-primary-work",
+                  "locator": "Quodlibeta VI q.1 on potentia absoluta and ordinata",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "ockham:evidence:006",
+                "titleZh": "核心命题一：神的全能如何影响形而上学？的文本依据",
+                "summaryZh": "奥卡姆在 Ordinatio prologue q.1 on intuitive cognition 中提供该命题的原典定位，用于支撑“核心命题一：神的全能如何影响形而上学？”这一解释。",
+                "source": {
+                  "workId": "ockham-primary-work",
+                  "locator": "Ordinatio prologue q.1 on intuitive cognition",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "ockham:claim:004",
+            "titleZh": "核心命题二：神的全能如何影响形而上学？",
+            "claimZh": "奥卡姆在“神的全能如何影响形而上学？”中进一步推出实践、制度或认识论后果。",
+            "explanationZh": "该命题把概念论证推进到可比较的问题谱系，避免只停留在术语解释。",
+            "themeIds": [
+              "metaphysics",
+              "religion"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "ockham:evidence:007",
+                "titleZh": "核心命题二：神的全能如何影响形而上学？的文本依据",
+                "summaryZh": "奥卡姆在 Quodlibeta VI q.1 on potentia absoluta and ordinata 中提供该命题的原典定位，用于支撑“核心命题二：神的全能如何影响形而上学？”这一解释。",
+                "source": {
+                  "workId": "ockham-primary-work",
+                  "locator": "Quodlibeta VI q.1 on potentia absoluta and ordinata",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "ockham:evidence:008",
+                "titleZh": "核心命题二：神的全能如何影响形而上学？的文本依据",
+                "summaryZh": "奥卡姆在 Ordinatio prologue q.1 on intuitive cognition 中提供该命题的原典定位，用于支撑“核心命题二：神的全能如何影响形而上学？”这一解释。",
+                "source": {
+                  "workId": "ockham-primary-work",
+                  "locator": "Ordinatio prologue q.1 on intuitive cognition",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ockham:problem:003",
+        "titleZh": "教会权力是否有边界？",
+        "questionZh": "奥卡姆如何围绕“教会权力是否有边界？”建立其思想问题？",
+        "summaryZh": "奥卡姆在这一问题上形成了可辨认的论证路径，连接文本命题、概念区分和后世问题谱系。",
+        "themeIds": [
+          "ethics",
+          "politics"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "ockham:claim:005",
+            "titleZh": "核心命题一：教会权力是否有边界？",
+            "claimZh": "奥卡姆在“教会权力是否有边界？”中提出基础性立场，说明其理论问题的出发点。",
+            "explanationZh": "该命题概括其原典中反复出现的论证方向，并为本问题的后续分支提供基础。",
+            "themeIds": [
+              "ethics",
+              "politics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "ockham:evidence:009",
+                "titleZh": "核心命题一：教会权力是否有边界？的文本依据",
+                "summaryZh": "奥卡姆在 Dialogus I.5-6 on papal error and heresy 中提供该命题的原典定位，用于支撑“核心命题一：教会权力是否有边界？”这一解释。",
+                "source": {
+                  "workId": "ockham-primary-work",
+                  "locator": "Dialogus I.5-6 on papal error and heresy",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "ockham:evidence:010",
+                "titleZh": "核心命题一：教会权力是否有边界？的文本依据",
+                "summaryZh": "奥卡姆在 Breviloquium de principatu tyrannico III.7-9 on imperial authority 中提供该命题的原典定位，用于支撑“核心命题一：教会权力是否有边界？”这一解释。",
+                "source": {
+                  "workId": "ockham-primary-work",
+                  "locator": "Breviloquium de principatu tyrannico III.7-9 on imperial authority",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "ockham:claim:006",
+            "titleZh": "核心命题二：教会权力是否有边界？",
+            "claimZh": "奥卡姆在“教会权力是否有边界？”中进一步推出实践、制度或认识论后果。",
+            "explanationZh": "该命题把概念论证推进到可比较的问题谱系，避免只停留在术语解释。",
+            "themeIds": [
+              "ethics",
+              "politics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "ockham:evidence:011",
+                "titleZh": "核心命题二：教会权力是否有边界？的文本依据",
+                "summaryZh": "奥卡姆在 Dialogus I.5-6 on papal error and heresy 中提供该命题的原典定位，用于支撑“核心命题二：教会权力是否有边界？”这一解释。",
+                "source": {
+                  "workId": "ockham-primary-work",
+                  "locator": "Dialogus I.5-6 on papal error and heresy",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "ockham:evidence:012",
+                "titleZh": "核心命题二：教会权力是否有边界？的文本依据",
+                "summaryZh": "奥卡姆在 Breviloquium de principatu tyrannico III.7-9 on imperial authority 中提供该命题的原典定位，用于支撑“核心命题二：教会权力是否有边界？”这一解释。",
+                "source": {
+                  "workId": "ockham-primary-work",
+                  "locator": "Breviloquium de principatu tyrannico III.7-9 on imperial authority",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
 }

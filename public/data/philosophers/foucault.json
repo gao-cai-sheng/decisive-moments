@@ -5,9 +5,9 @@
     "en": "Michel Foucault"
   },
   "life": {
-    "display": "1926—1984",
     "birth": 1926,
-    "death": 1984
+    "death": 1984,
+    "display": "1926—1984"
   },
   "civilization": "european_modern",
   "traditions": [
@@ -38,5 +38,245 @@
       "label": "draft",
       "noteZh": "条目需要人工核对作品、年代和概念表述。"
     }
-  ]
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "foucault:problem:001",
+        "titleZh": "知识如何与权力共同生产主体？",
+        "questionZh": "福柯如何围绕“知识如何与权力共同生产主体？”建立其思想问题？",
+        "summaryZh": "福柯分析知识分类、制度实践和权力技术如何共同塑造正常/异常主体。",
+        "themeIds": [
+          "knowledge",
+          "politics"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "foucault:claim:001",
+            "titleZh": "知识分类嵌入权力关系",
+            "claimZh": "福柯主张，现代知识并非中立发现对象，而是在制度、话语和治理实践中形成对象。",
+            "explanationZh": "该命题把认识论与政治分析结合，说明知识对象本身具有历史构成。",
+            "themeIds": [
+              "knowledge",
+              "politics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "foucault:evidence:001",
+                "titleZh": "规范化判断依据",
+                "summaryZh": "《规训与惩罚》分析学校、军队、医院和监狱中的观察技术如何生产可管理个体和分类对象。",
+                "source": {
+                  "workId": "foucault-primary-work",
+                  "locator": "《规训与惩罚》第三部分关于规训、观察和规范化判断",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "foucault:evidence:001b",
+                "titleZh": "知识对象的考古学形成",
+                "summaryZh": "《知识考古学》说明话语规则如何界定可说对象、概念和陈述位置，补充知识对象历史形成的分析。",
+                "source": {
+                  "workId": "foucault-primary-work",
+                  "locator": "《知识考古学》第二部分：话语形成和对象形成规则段落",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "foucault:claim:002",
+            "titleZh": "主体是实践和话语的效果",
+            "claimZh": "福柯认为，现代主体不是权力之外的原初核心，而是在告白、医学和刑罚等话语中被生产。",
+            "explanationZh": "该命题挑战主体哲学，把自由问题放入主体化机制的历史分析。",
+            "themeIds": [
+              "freedom",
+              "knowledge"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "foucault:evidence:002",
+                "titleZh": "性主体依据",
+                "summaryZh": "相关晚期研究说明现代社会通过言说和专家知识生产主体形态，强调主体形成依赖历史实践。",
+                "source": {
+                  "workId": "foucault-primary-work",
+                  "locator": "晚期主体化研究关于告白机制与主体形成",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "foucault:evidence:002b",
+                "titleZh": "告白机制与主体化",
+                "summaryZh": "《性史》第一卷分析告白、医学和教育话语如何组织主体自我理解，说明主体不是权力之外的原初核心。",
+                "source": {
+                  "workId": "foucault-primary-work",
+                  "locator": "《性史》第一卷第二至三章：告白机制与性主体形成段落",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "foucault:problem:002",
+        "titleZh": "规训权力如何区别于主权权力？",
+        "questionZh": "福柯如何围绕“规训权力如何区别于主权权力？”建立其思想问题？",
+        "summaryZh": "福柯把现代权力理解为细密、生产性和规范化的身体训练，而不仅是法律禁止。",
+        "themeIds": [
+          "politics",
+          "freedom"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "foucault:claim:003",
+            "titleZh": "权力生产能力而非只压制",
+            "claimZh": "福柯主张，现代权力通过训练、记录和比较生产顺从而有用的身体。",
+            "explanationZh": "该命题重新定义权力，使学校、医院、军队等日常制度成为政治分析对象。",
+            "themeIds": [
+              "politics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "foucault:evidence:003",
+                "titleZh": "驯顺身体依据",
+                "summaryZh": "《规训与惩罚》描述时间表、操练和空间分配如何制造可用且可服从的身体和能力结构形式。",
+                "source": {
+                  "workId": "foucault-primary-work",
+                  "locator": "《规训与惩罚》第三部分“驯顺的身体”",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "foucault:evidence:003b",
+                "titleZh": "考试技术连接知识和权力",
+                "summaryZh": "《规训与惩罚》把考试描述为观察、记录和比较的结合，说明规训权力通过知识技术生产个体。",
+                "source": {
+                  "workId": "foucault-primary-work",
+                  "locator": "《规训与惩罚》第三部分“考试”段落",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "foucault:claim:004",
+            "titleZh": "全景敞视使监督内化",
+            "claimZh": "福柯认为，全景敞视结构通过可见性不对称让个体自我监督。",
+            "explanationZh": "该命题说明权力可在不持续暴力的情况下运行，通过可见性塑造行为。",
+            "themeIds": [
+              "politics",
+              "knowledge"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "foucault:evidence:004",
+                "titleZh": "全景敞视依据",
+                "summaryZh": "《规训与惩罚》借边沁全景监狱说明现代监督如何自动化和内化，形成可见性不对称机制。",
+                "source": {
+                  "workId": "foucault-primary-work",
+                  "locator": "《规训与惩罚》第三部分“全景敞视主义”",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "foucault:evidence:004b",
+                "titleZh": "可见性作为权力技术",
+                "summaryZh": "全景敞视章节说明被观看的可能性会促使个体调整自身行为，使监督不必持续依赖直接强制。",
+                "source": {
+                  "workId": "foucault-primary-work",
+                  "locator": "《规训与惩罚》第三部分“全景敞视主义”：可见性与自动化权力段落",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "foucault:problem:003",
+        "titleZh": "批判如何成为自我实践？",
+        "questionZh": "福柯如何围绕“批判如何成为自我实践？”建立其思想问题？",
+        "summaryZh": "晚期福柯把批判理解为对被治理方式的反思和自我技术实验。",
+        "themeIds": [
+          "freedom",
+          "ethics"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "foucault:claim:005",
+            "titleZh": "批判是不愿如此被治理的艺术",
+            "claimZh": "福柯主张，批判是追问某种治理方式的真理条件和限度，而非抽象否定权力。",
+            "explanationZh": "该命题把自由理解为历史处境中的反思实践，而非权力之外的位置。",
+            "themeIds": [
+              "freedom",
+              "politics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "foucault:evidence:005",
+                "titleZh": "批判态度依据",
+                "summaryZh": "《什么是批判？》把批判界定为对治理化和真理权力关系的反思态度，强调限度意识和实践。",
+                "source": {
+                  "workId": "foucault-primary-work",
+                  "locator": "《什么是批判？》关于不愿如此被治理",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "foucault:evidence:005b",
+                "titleZh": "启蒙问题与当下批判",
+                "summaryZh": "《什么是启蒙？》把批判理解为对当下边界的历史反思，说明自由实践是在具体限制中进行的。",
+                "source": {
+                  "workId": "foucault-primary-work",
+                  "locator": "《什么是启蒙？》关于当下本体论和边界态度段落",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "foucault:claim:006",
+            "titleZh": "自我技术打开伦理自由",
+            "claimZh": "福柯认为，古代伦理中的自我实践显示主体可通过训练和生活形式改造自身。",
+            "explanationZh": "该命题补充权力分析，说明主体化机制中也存在创造性自我关系。",
+            "themeIds": [
+              "ethics",
+              "freedom"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "foucault:evidence:006",
+                "titleZh": "自我技术依据",
+                "summaryZh": "晚期伦理研究转向古代自我实践，分析人如何把自己构成为道德主体和生活形式过程机制。",
+                "source": {
+                  "workId": "foucault-primary-work",
+                  "locator": "晚期伦理研究导论关于自我技术和伦理主体",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "foucault:evidence:006b",
+                "titleZh": "自我关怀与伦理主体",
+                "summaryZh": "《性史》第二、三卷讨论自我关怀和生活技艺，说明主体能够通过训练形成不同的伦理自我关系。",
+                "source": {
+                  "workId": "foucault-primary-work",
+                  "locator": "《性史》第二卷导论及第三卷关于自我关怀的段落",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
 }

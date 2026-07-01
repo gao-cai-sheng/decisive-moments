@@ -5,9 +5,9 @@
     "en": "Niccolo Machiavelli"
   },
   "life": {
-    "display": "1469—1527",
     "birth": 1469,
-    "death": 1527
+    "death": 1527,
+    "display": "1469—1527"
   },
   "civilization": "european_modern",
   "traditions": [
@@ -38,5 +38,246 @@
       "label": "draft",
       "noteZh": "条目需要人工核对作品、年代和概念表述。"
     }
-  ]
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "machiavelli:problem:001",
+        "titleZh": "政治是否需要自己的真理？",
+        "questionZh": "马基雅维利如何围绕“政治是否需要自己的真理？”建立其思想问题？",
+        "summaryZh": "马基雅维利在这一问题上形成了可辨认的论证路径，连接文本命题、概念区分和后世问题谱系。",
+        "themeIds": [
+          "knowledge",
+          "metaphysics"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "machiavelli:claim:001",
+            "titleZh": "核心命题一：政治是否需要自己的真理？",
+            "claimZh": "马基雅维利在“政治是否需要自己的真理？”中提出基础性立场，说明其理论问题的出发点。",
+            "explanationZh": "该命题概括其原典中反复出现的论证方向，并为本问题的后续分支提供基础。",
+            "themeIds": [
+              "knowledge",
+              "metaphysics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "machiavelli:evidence:001",
+                "titleZh": "核心命题一：政治是否需要自己的真理？的文本依据",
+                "summaryZh": "马基雅维利在 Il Principe chapter 15 on verità effettuale 中提供该命题的原典定位，用于支撑“核心命题一：政治是否需要自己的真理？”这一解释。",
+                "source": {
+                  "workId": "machiavelli-primary-work",
+                  "locator": "Il Principe chapter 15 on verità effettuale",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "machiavelli:evidence:002",
+                "titleZh": "核心命题一：政治是否需要自己的真理？的文本依据",
+                "summaryZh": "马基雅维利在 Il Principe chapter 18 on lion and fox 中提供该命题的原典定位，用于支撑“核心命题一：政治是否需要自己的真理？”这一解释。",
+                "source": {
+                  "workId": "machiavelli-primary-work",
+                  "locator": "Il Principe chapter 18 on lion and fox",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "machiavelli:claim:002",
+            "titleZh": "核心命题二：政治是否需要自己的真理？",
+            "claimZh": "马基雅维利在“政治是否需要自己的真理？”中进一步推出实践、制度或认识论后果。",
+            "explanationZh": "该命题把概念论证推进到可比较的问题谱系，避免只停留在术语解释。",
+            "themeIds": [
+              "knowledge",
+              "metaphysics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "machiavelli:evidence:003",
+                "titleZh": "核心命题二：政治是否需要自己的真理？的文本依据",
+                "summaryZh": "马基雅维利在 Il Principe chapter 15 on verità effettuale 中提供该命题的原典定位，用于支撑“核心命题二：政治是否需要自己的真理？”这一解释。",
+                "source": {
+                  "workId": "machiavelli-primary-work",
+                  "locator": "Il Principe chapter 15 on verità effettuale",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "machiavelli:evidence:004",
+                "titleZh": "核心命题二：政治是否需要自己的真理？的文本依据",
+                "summaryZh": "马基雅维利在 Il Principe chapter 18 on lion and fox 中提供该命题的原典定位，用于支撑“核心命题二：政治是否需要自己的真理？”这一解释。",
+                "source": {
+                  "workId": "machiavelli-primary-work",
+                  "locator": "Il Principe chapter 18 on lion and fox",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "machiavelli:problem:002",
+        "titleZh": "virtù 如何对抗 fortuna？",
+        "questionZh": "马基雅维利如何围绕“virtù 如何对抗 fortuna？”建立其思想问题？",
+        "summaryZh": "马基雅维利在这一问题上形成了可辨认的论证路径，连接文本命题、概念区分和后世问题谱系。",
+        "themeIds": [
+          "freedom",
+          "ethics"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "machiavelli:claim:003",
+            "titleZh": "核心命题一：virtù 如何对抗 fortuna？",
+            "claimZh": "马基雅维利在“virtù 如何对抗 fortuna？”中提出基础性立场，说明其理论问题的出发点。",
+            "explanationZh": "该命题概括其原典中反复出现的论证方向，并为本问题的后续分支提供基础。",
+            "themeIds": [
+              "freedom",
+              "ethics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "machiavelli:evidence:005",
+                "titleZh": "核心命题一：virtù 如何对抗 fortuna？的文本依据",
+                "summaryZh": "马基雅维利在 Il Principe chapter 6 on new principalities and virtù 中提供该命题的原典定位，用于支撑“核心命题一：virtù 如何对抗 fortuna？”这一解释。",
+                "source": {
+                  "workId": "machiavelli-primary-work",
+                  "locator": "Il Principe chapter 6 on new principalities and virtù",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "machiavelli:evidence:006",
+                "titleZh": "核心命题一：virtù 如何对抗 fortuna？的文本依据",
+                "summaryZh": "马基雅维利在 Il Principe chapter 25 on fortuna as river 中提供该命题的原典定位，用于支撑“核心命题一：virtù 如何对抗 fortuna？”这一解释。",
+                "source": {
+                  "workId": "machiavelli-primary-work",
+                  "locator": "Il Principe chapter 25 on fortuna as river",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "machiavelli:claim:004",
+            "titleZh": "核心命题二：virtù 如何对抗 fortuna？",
+            "claimZh": "马基雅维利在“virtù 如何对抗 fortuna？”中进一步推出实践、制度或认识论后果。",
+            "explanationZh": "该命题把概念论证推进到可比较的问题谱系，避免只停留在术语解释。",
+            "themeIds": [
+              "freedom",
+              "ethics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "machiavelli:evidence:007",
+                "titleZh": "核心命题二：virtù 如何对抗 fortuna？的文本依据",
+                "summaryZh": "马基雅维利在 Il Principe chapter 6 on new principalities and virtù 中提供该命题的原典定位，用于支撑“核心命题二：virtù 如何对抗 fortuna？”这一解释。",
+                "source": {
+                  "workId": "machiavelli-primary-work",
+                  "locator": "Il Principe chapter 6 on new principalities and virtù",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "machiavelli:evidence:008",
+                "titleZh": "核心命题二：virtù 如何对抗 fortuna？的文本依据",
+                "summaryZh": "马基雅维利在 Il Principe chapter 25 on fortuna as river 中提供该命题的原典定位，用于支撑“核心命题二：virtù 如何对抗 fortuna？”这一解释。",
+                "source": {
+                  "workId": "machiavelli-primary-work",
+                  "locator": "Il Principe chapter 25 on fortuna as river",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "machiavelli:problem:003",
+        "titleZh": "共和国如何维持自由？",
+        "questionZh": "马基雅维利如何围绕“共和国如何维持自由？”建立其思想问题？",
+        "summaryZh": "马基雅维利在这一问题上形成了可辨认的论证路径，连接文本命题、概念区分和后世问题谱系。",
+        "themeIds": [
+          "politics",
+          "ethics"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "machiavelli:claim:005",
+            "titleZh": "核心命题一：共和国如何维持自由？",
+            "claimZh": "马基雅维利在“共和国如何维持自由？”中提出基础性立场，说明其理论问题的出发点。",
+            "explanationZh": "该命题概括其原典中反复出现的论证方向，并为本问题的后续分支提供基础。",
+            "themeIds": [
+              "politics",
+              "ethics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "machiavelli:evidence:009",
+                "titleZh": "核心命题一：共和国如何维持自由？的文本依据",
+                "summaryZh": "马基雅维利在 Discorsi I.4 on tumults and liberty 中提供该命题的原典定位，用于支撑“核心命题一：共和国如何维持自由？”这一解释。",
+                "source": {
+                  "workId": "machiavelli-primary-work",
+                  "locator": "Discorsi I.4 on tumults and liberty",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "machiavelli:evidence:010",
+                "titleZh": "核心命题一：共和国如何维持自由？的文本依据",
+                "summaryZh": "马基雅维利在 Il Principe chapter 12 on mercenary arms 中提供该命题的原典定位，用于支撑“核心命题一：共和国如何维持自由？”这一解释。",
+                "source": {
+                  "workId": "machiavelli-primary-work",
+                  "locator": "Il Principe chapter 12 on mercenary arms",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "machiavelli:claim:006",
+            "titleZh": "核心命题二：共和国如何维持自由？",
+            "claimZh": "马基雅维利在“共和国如何维持自由？”中进一步推出实践、制度或认识论后果。",
+            "explanationZh": "该命题把概念论证推进到可比较的问题谱系，避免只停留在术语解释。",
+            "themeIds": [
+              "politics",
+              "ethics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "machiavelli:evidence:011",
+                "titleZh": "核心命题二：共和国如何维持自由？的文本依据",
+                "summaryZh": "马基雅维利在 Discorsi I.4 on tumults and liberty 中提供该命题的原典定位，用于支撑“核心命题二：共和国如何维持自由？”这一解释。",
+                "source": {
+                  "workId": "machiavelli-primary-work",
+                  "locator": "Discorsi I.4 on tumults and liberty",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "machiavelli:evidence:012",
+                "titleZh": "核心命题二：共和国如何维持自由？的文本依据",
+                "summaryZh": "马基雅维利在 Il Principe chapter 12 on mercenary arms 中提供该命题的原典定位，用于支撑“核心命题二：共和国如何维持自由？”这一解释。",
+                "source": {
+                  "workId": "machiavelli-primary-work",
+                  "locator": "Il Principe chapter 12 on mercenary arms",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
 }

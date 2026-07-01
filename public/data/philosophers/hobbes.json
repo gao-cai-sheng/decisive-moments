@@ -5,9 +5,9 @@
     "en": "Thomas Hobbes"
   },
   "life": {
-    "display": "1588—1679",
     "birth": 1588,
-    "death": 1679
+    "death": 1679,
+    "display": "1588—1679"
   },
   "civilization": "european_modern",
   "traditions": [
@@ -38,5 +38,246 @@
       "label": "draft",
       "noteZh": "条目需要人工核对作品、年代和概念表述。"
     }
-  ]
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "hobbes:problem:001",
+        "titleZh": "自然状态为何导致战争？",
+        "questionZh": "霍布斯如何围绕“自然状态为何导致战争？”建立其思想问题？",
+        "summaryZh": "霍布斯在这一问题上形成了可辨认的论证路径，连接文本命题、概念区分和后世问题谱系。",
+        "themeIds": [
+          "knowledge",
+          "metaphysics"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "hobbes:claim:001",
+            "titleZh": "核心命题一：自然状态为何导致战争？",
+            "claimZh": "霍布斯在“自然状态为何导致战争？”中提出基础性立场，说明其理论问题的出发点。",
+            "explanationZh": "该命题概括其原典中反复出现的论证方向，并为本问题的后续分支提供基础。",
+            "themeIds": [
+              "knowledge",
+              "metaphysics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "hobbes:evidence:001",
+                "titleZh": "核心命题一：自然状态为何导致战争？的文本依据",
+                "summaryZh": "霍布斯在 Leviathan chapter 13 on natural equality 中提供该命题的原典定位，用于支撑“核心命题一：自然状态为何导致战争？”这一解释。",
+                "source": {
+                  "workId": "hobbes-primary-work",
+                  "locator": "Leviathan chapter 13 on natural equality",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "hobbes:evidence:002",
+                "titleZh": "核心命题一：自然状态为何导致战争？的文本依据",
+                "summaryZh": "霍布斯在 Leviathan chapter 14 on first law of nature 中提供该命题的原典定位，用于支撑“核心命题一：自然状态为何导致战争？”这一解释。",
+                "source": {
+                  "workId": "hobbes-primary-work",
+                  "locator": "Leviathan chapter 14 on first law of nature",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "hobbes:claim:002",
+            "titleZh": "核心命题二：自然状态为何导致战争？",
+            "claimZh": "霍布斯在“自然状态为何导致战争？”中进一步推出实践、制度或认识论后果。",
+            "explanationZh": "该命题把概念论证推进到可比较的问题谱系，避免只停留在术语解释。",
+            "themeIds": [
+              "knowledge",
+              "metaphysics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "hobbes:evidence:003",
+                "titleZh": "核心命题二：自然状态为何导致战争？的文本依据",
+                "summaryZh": "霍布斯在 Leviathan chapter 13 on natural equality 中提供该命题的原典定位，用于支撑“核心命题二：自然状态为何导致战争？”这一解释。",
+                "source": {
+                  "workId": "hobbes-primary-work",
+                  "locator": "Leviathan chapter 13 on natural equality",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "hobbes:evidence:004",
+                "titleZh": "核心命题二：自然状态为何导致战争？的文本依据",
+                "summaryZh": "霍布斯在 Leviathan chapter 14 on first law of nature 中提供该命题的原典定位，用于支撑“核心命题二：自然状态为何导致战争？”这一解释。",
+                "source": {
+                  "workId": "hobbes-primary-work",
+                  "locator": "Leviathan chapter 14 on first law of nature",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "hobbes:problem:002",
+        "titleZh": "主权为何必须强大？",
+        "questionZh": "霍布斯如何围绕“主权为何必须强大？”建立其思想问题？",
+        "summaryZh": "霍布斯在这一问题上形成了可辨认的论证路径，连接文本命题、概念区分和后世问题谱系。",
+        "themeIds": [
+          "freedom",
+          "ethics"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "hobbes:claim:003",
+            "titleZh": "核心命题一：主权为何必须强大？",
+            "claimZh": "霍布斯在“主权为何必须强大？”中提出基础性立场，说明其理论问题的出发点。",
+            "explanationZh": "该命题概括其原典中反复出现的论证方向，并为本问题的后续分支提供基础。",
+            "themeIds": [
+              "freedom",
+              "ethics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "hobbes:evidence:005",
+                "titleZh": "核心命题一：主权为何必须强大？的文本依据",
+                "summaryZh": "霍布斯在 Leviathan chapter 17 on generation of the commonwealth 中提供该命题的原典定位，用于支撑“核心命题一：主权为何必须强大？”这一解释。",
+                "source": {
+                  "workId": "hobbes-primary-work",
+                  "locator": "Leviathan chapter 17 on generation of the commonwealth",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "hobbes:evidence:006",
+                "titleZh": "核心命题一：主权为何必须强大？的文本依据",
+                "summaryZh": "霍布斯在 Leviathan chapter 18 on rights of sovereigns 中提供该命题的原典定位，用于支撑“核心命题一：主权为何必须强大？”这一解释。",
+                "source": {
+                  "workId": "hobbes-primary-work",
+                  "locator": "Leviathan chapter 18 on rights of sovereigns",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "hobbes:claim:004",
+            "titleZh": "核心命题二：主权为何必须强大？",
+            "claimZh": "霍布斯在“主权为何必须强大？”中进一步推出实践、制度或认识论后果。",
+            "explanationZh": "该命题把概念论证推进到可比较的问题谱系，避免只停留在术语解释。",
+            "themeIds": [
+              "freedom",
+              "ethics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "hobbes:evidence:007",
+                "titleZh": "核心命题二：主权为何必须强大？的文本依据",
+                "summaryZh": "霍布斯在 Leviathan chapter 17 on generation of the commonwealth 中提供该命题的原典定位，用于支撑“核心命题二：主权为何必须强大？”这一解释。",
+                "source": {
+                  "workId": "hobbes-primary-work",
+                  "locator": "Leviathan chapter 17 on generation of the commonwealth",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "hobbes:evidence:008",
+                "titleZh": "核心命题二：主权为何必须强大？的文本依据",
+                "summaryZh": "霍布斯在 Leviathan chapter 18 on rights of sovereigns 中提供该命题的原典定位，用于支撑“核心命题二：主权为何必须强大？”这一解释。",
+                "source": {
+                  "workId": "hobbes-primary-work",
+                  "locator": "Leviathan chapter 18 on rights of sovereigns",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "hobbes:problem:003",
+        "titleZh": "物质主义如何改写人性？",
+        "questionZh": "霍布斯如何围绕“物质主义如何改写人性？”建立其思想问题？",
+        "summaryZh": "霍布斯在这一问题上形成了可辨认的论证路径，连接文本命题、概念区分和后世问题谱系。",
+        "themeIds": [
+          "politics",
+          "ethics"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "hobbes:claim:005",
+            "titleZh": "核心命题一：物质主义如何改写人性？",
+            "claimZh": "霍布斯在“物质主义如何改写人性？”中提出基础性立场，说明其理论问题的出发点。",
+            "explanationZh": "该命题概括其原典中反复出现的论证方向，并为本问题的后续分支提供基础。",
+            "themeIds": [
+              "politics",
+              "ethics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "hobbes:evidence:009",
+                "titleZh": "核心命题一：物质主义如何改写人性？的文本依据",
+                "summaryZh": "霍布斯在 Leviathan chapter 1 on sense 中提供该命题的原典定位，用于支撑“核心命题一：物质主义如何改写人性？”这一解释。",
+                "source": {
+                  "workId": "hobbes-primary-work",
+                  "locator": "Leviathan chapter 1 on sense",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "hobbes:evidence:010",
+                "titleZh": "核心命题一：物质主义如何改写人性？的文本依据",
+                "summaryZh": "霍布斯在 Leviathan chapter 6 on appetites and good 中提供该命题的原典定位，用于支撑“核心命题一：物质主义如何改写人性？”这一解释。",
+                "source": {
+                  "workId": "hobbes-primary-work",
+                  "locator": "Leviathan chapter 6 on appetites and good",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "hobbes:claim:006",
+            "titleZh": "核心命题二：物质主义如何改写人性？",
+            "claimZh": "霍布斯在“物质主义如何改写人性？”中进一步推出实践、制度或认识论后果。",
+            "explanationZh": "该命题把概念论证推进到可比较的问题谱系，避免只停留在术语解释。",
+            "themeIds": [
+              "politics",
+              "ethics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "hobbes:evidence:011",
+                "titleZh": "核心命题二：物质主义如何改写人性？的文本依据",
+                "summaryZh": "霍布斯在 Leviathan chapter 1 on sense 中提供该命题的原典定位，用于支撑“核心命题二：物质主义如何改写人性？”这一解释。",
+                "source": {
+                  "workId": "hobbes-primary-work",
+                  "locator": "Leviathan chapter 1 on sense",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "hobbes:evidence:012",
+                "titleZh": "核心命题二：物质主义如何改写人性？的文本依据",
+                "summaryZh": "霍布斯在 Leviathan chapter 6 on appetites and good 中提供该命题的原典定位，用于支撑“核心命题二：物质主义如何改写人性？”这一解释。",
+                "source": {
+                  "workId": "hobbes-primary-work",
+                  "locator": "Leviathan chapter 6 on appetites and good",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
 }

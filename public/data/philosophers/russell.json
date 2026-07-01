@@ -5,9 +5,9 @@
     "en": "Bertrand Russell"
   },
   "life": {
-    "display": "1872—1970",
     "birth": 1872,
-    "death": 1970
+    "death": 1970,
+    "display": "1872—1970"
   },
   "civilization": "european_modern",
   "traditions": [
@@ -38,5 +38,184 @@
       "label": "draft",
       "noteZh": "条目需要人工核对作品、年代和概念表述。"
     }
-  ]
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "russell:problem:001",
+        "titleZh": "逻辑分析如何澄清知识？",
+        "questionZh": "罗素如何围绕“逻辑分析如何澄清知识？”建立其思想问题？",
+        "summaryZh": "罗素用逻辑分析处理数学基础、命题结构和哲学混乱，力图让知识主张获得清晰形式。",
+        "themeIds": [
+          "knowledge",
+          "language"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "russell:claim:001",
+            "titleZh": "数学可由逻辑关系重建",
+            "claimZh": "罗素主张，数学基础应通过逻辑概念和关系理论来重建，而不是依赖心理直观。",
+            "explanationZh": "该命题延续并改造逻辑主义，把数学哲学与现代逻辑形式化绑定起来。",
+            "themeIds": [
+              "knowledge"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "russell:evidence:001",
+                "titleZh": "逻辑主义依据",
+                "summaryZh": "《数学原理》试图以符号逻辑系统表达数学命题的推理基础和概念结构。",
+                "source": {
+                  "workId": "russell-primary-work",
+                  "locator": "《数学原理》导论关于数学与逻辑的关系",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "russell:claim:002",
+            "titleZh": "摹状词分析消解虚假对象",
+            "claimZh": "罗素认为，许多表面指称短语并不真正指称对象，通过逻辑分析可避免承诺不存在实体。",
+            "explanationZh": "该命题展示分析哲学方法：把语法形式转写为逻辑形式，从而消解形而上学困惑。",
+            "themeIds": [
+              "language",
+              "knowledge"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "russell:evidence:002",
+                "titleZh": "摹状词理论依据",
+                "summaryZh": "《论指称》用摹状词理论说明，语句表面主词并不必然对应独立对象。",
+                "source": {
+                  "workId": "russell-primary-work",
+                  "locator": "《论指称》关于“现任法国国王”类摹状词",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "russell:problem:002",
+        "titleZh": "经验知识如何在怀疑中成立？",
+        "questionZh": "罗素如何围绕“经验知识如何在怀疑中成立？”建立其思想问题？",
+        "summaryZh": "罗素在感觉材料、熟知与描述知识之间区分层级，试图回应外部世界与科学知识的可靠性。",
+        "themeIds": [
+          "knowledge",
+          "metaphysics"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "russell:claim:003",
+            "titleZh": "熟知提供直接基础",
+            "claimZh": "罗素主张，我们直接熟知感觉材料和共相，而对物理对象多通过描述来认识。",
+            "explanationZh": "该命题为经验知识建立层级结构，说明直接经验与科学对象之间需要逻辑桥梁。",
+            "themeIds": [
+              "knowledge"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "russell:evidence:003",
+                "titleZh": "熟知知识依据",
+                "summaryZh": "《哲学问题》区分直接熟知和描述知识，以说明我们如何谈论未直接给出的对象。",
+                "source": {
+                  "workId": "russell-primary-work",
+                  "locator": "《哲学问题》第5章关于熟知知识与描述知识",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "russell:claim:004",
+            "titleZh": "物理对象是解释性构造",
+            "claimZh": "罗素认为，外部物理对象虽不能被直接把握，却可作为解释经验秩序的合理构造。",
+            "explanationZh": "该命题在怀疑论与常识实在论之间寻找中间道路，保留科学世界图景的理性根据。",
+            "themeIds": [
+              "knowledge",
+              "metaphysics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "russell:evidence:004",
+                "titleZh": "物质存在依据",
+                "summaryZh": "《哲学问题》从桌子的颜色和形状变化出发，讨论感觉材料与物理对象的区别。",
+                "source": {
+                  "workId": "russell-primary-work",
+                  "locator": "《哲学问题》第2—3章关于物质存在和感觉材料",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "russell:problem:003",
+        "titleZh": "自由社会如何防止权力迷信？",
+        "questionZh": "罗素如何围绕“自由社会如何防止权力迷信？”建立其思想问题？",
+        "summaryZh": "罗素把理性怀疑、自由讨论和反教条精神视为政治伦理的重要条件。",
+        "themeIds": [
+          "freedom",
+          "politics"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "russell:claim:005",
+            "titleZh": "理性怀疑保护思想自由",
+            "claimZh": "罗素主张，公共生活需要保留可错性意识和批判精神，反对把权威绝对化。",
+            "explanationZh": "该命题把认识论谦逊转化为政治伦理，说明自由制度依赖开放批判。",
+            "themeIds": [
+              "freedom",
+              "knowledge"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "russell:evidence:005",
+                "titleZh": "自由思想依据",
+                "summaryZh": "《自由思想与官方宣传》批判官方宣传和群体偏见，强调自由思想对社会理性的必要性。",
+                "source": {
+                  "workId": "russell-primary-work",
+                  "locator": "《自由思想与官方宣传》关于自由讨论和怀疑精神",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "russell:claim:006",
+            "titleZh": "权力冲动必须受制度约束",
+            "claimZh": "罗素认为，社会冲突常由权力欲驱动，自由社会必须以制度和公共批判限制支配冲动。",
+            "explanationZh": "该命题把政治自由理解为对权力心理和组织形式的双重约束。",
+            "themeIds": [
+              "politics",
+              "ethics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "russell:evidence:006",
+                "titleZh": "权力论依据",
+                "summaryZh": "《权力论》把权力作为社会科学核心范畴，分析不同权力形态对现代社会的影响。",
+                "source": {
+                  "workId": "russell-primary-work",
+                  "locator": "《权力论》第1—3章关于权力欲和社会组织",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
 }

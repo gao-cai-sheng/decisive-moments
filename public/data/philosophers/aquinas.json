@@ -5,9 +5,9 @@
     "en": "Thomas Aquinas"
   },
   "life": {
-    "display": "1225—1274",
     "birth": 1225,
-    "death": 1274
+    "death": 1274,
+    "display": "1225—1274"
   },
   "civilization": "latin_christian",
   "traditions": [
@@ -38,5 +38,246 @@
       "label": "draft",
       "noteZh": "条目需要人工核对作品、年代和概念表述。"
     }
-  ]
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "aquinas:problem:001",
+        "titleZh": "信仰与理性如何分工？",
+        "questionZh": "托马斯·阿奎那如何围绕“信仰与理性如何分工？”建立其思想问题？",
+        "summaryZh": "托马斯·阿奎那在这一问题上形成了可辨认的论证路径，连接文本命题、概念区分和后世问题谱系。",
+        "themeIds": [
+          "religion",
+          "knowledge"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "aquinas:claim:001",
+            "titleZh": "核心命题一：信仰与理性如何分工？",
+            "claimZh": "托马斯·阿奎那在“信仰与理性如何分工？”中提出基础性立场，说明其理论问题的出发点。",
+            "explanationZh": "该命题概括其原典中反复出现的论证方向，并为本问题的后续分支提供基础。",
+            "themeIds": [
+              "religion",
+              "knowledge"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "aquinas:evidence:001",
+                "titleZh": "核心命题一：信仰与理性如何分工？的文本依据",
+                "summaryZh": "托马斯·阿奎那在 Summa Theologiae I q.2 a.3 on the five ways 中提供该命题的原典定位，用于支撑“核心命题一：信仰与理性如何分工？”这一解释。",
+                "source": {
+                  "workId": "aquinas-primary-work",
+                  "locator": "Summa Theologiae I q.2 a.3 on the five ways",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "aquinas:evidence:002",
+                "titleZh": "核心命题一：信仰与理性如何分工？的文本依据",
+                "summaryZh": "托马斯·阿奎那在 Summa Theologiae I q.1 a.1 on sacred doctrine 中提供该命题的原典定位，用于支撑“核心命题一：信仰与理性如何分工？”这一解释。",
+                "source": {
+                  "workId": "aquinas-primary-work",
+                  "locator": "Summa Theologiae I q.1 a.1 on sacred doctrine",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "aquinas:claim:002",
+            "titleZh": "核心命题二：信仰与理性如何分工？",
+            "claimZh": "托马斯·阿奎那在“信仰与理性如何分工？”中进一步推出实践、制度或认识论后果。",
+            "explanationZh": "该命题把概念论证推进到可比较的问题谱系，避免只停留在术语解释。",
+            "themeIds": [
+              "religion",
+              "knowledge"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "aquinas:evidence:003",
+                "titleZh": "核心命题二：信仰与理性如何分工？的文本依据",
+                "summaryZh": "托马斯·阿奎那在 Summa Theologiae I q.2 a.3 on the five ways 中提供该命题的原典定位，用于支撑“核心命题二：信仰与理性如何分工？”这一解释。",
+                "source": {
+                  "workId": "aquinas-primary-work",
+                  "locator": "Summa Theologiae I q.2 a.3 on the five ways",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "aquinas:evidence:004",
+                "titleZh": "核心命题二：信仰与理性如何分工？的文本依据",
+                "summaryZh": "托马斯·阿奎那在 Summa Theologiae I q.1 a.1 on sacred doctrine 中提供该命题的原典定位，用于支撑“核心命题二：信仰与理性如何分工？”这一解释。",
+                "source": {
+                  "workId": "aquinas-primary-work",
+                  "locator": "Summa Theologiae I q.1 a.1 on sacred doctrine",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "aquinas:problem:002",
+        "titleZh": "存在、形式与目的如何组织世界？",
+        "questionZh": "托马斯·阿奎那如何围绕“存在、形式与目的如何组织世界？”建立其思想问题？",
+        "summaryZh": "托马斯·阿奎那在这一问题上形成了可辨认的论证路径，连接文本命题、概念区分和后世问题谱系。",
+        "themeIds": [
+          "metaphysics",
+          "religion"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "aquinas:claim:003",
+            "titleZh": "核心命题一：存在、形式与目的如何组织世界？",
+            "claimZh": "托马斯·阿奎那在“存在、形式与目的如何组织世界？”中提出基础性立场，说明其理论问题的出发点。",
+            "explanationZh": "该命题概括其原典中反复出现的论证方向，并为本问题的后续分支提供基础。",
+            "themeIds": [
+              "metaphysics",
+              "religion"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "aquinas:evidence:005",
+                "titleZh": "核心命题一：存在、形式与目的如何组织世界？的文本依据",
+                "summaryZh": "托马斯·阿奎那在 De ente et essentia chapters 4-5 on essence and existence 中提供该命题的原典定位，用于支撑“核心命题一：存在、形式与目的如何组织世界？”这一解释。",
+                "source": {
+                  "workId": "aquinas-primary-work",
+                  "locator": "De ente et essentia chapters 4-5 on essence and existence",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "aquinas:evidence:006",
+                "titleZh": "核心命题一：存在、形式与目的如何组织世界？的文本依据",
+                "summaryZh": "托马斯·阿奎那在 Summa Theologiae I q.3 a.4 on God as ipsum esse subsistens 中提供该命题的原典定位，用于支撑“核心命题一：存在、形式与目的如何组织世界？”这一解释。",
+                "source": {
+                  "workId": "aquinas-primary-work",
+                  "locator": "Summa Theologiae I q.3 a.4 on God as ipsum esse subsistens",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "aquinas:claim:004",
+            "titleZh": "核心命题二：存在、形式与目的如何组织世界？",
+            "claimZh": "托马斯·阿奎那在“存在、形式与目的如何组织世界？”中进一步推出实践、制度或认识论后果。",
+            "explanationZh": "该命题把概念论证推进到可比较的问题谱系，避免只停留在术语解释。",
+            "themeIds": [
+              "metaphysics",
+              "religion"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "aquinas:evidence:007",
+                "titleZh": "核心命题二：存在、形式与目的如何组织世界？的文本依据",
+                "summaryZh": "托马斯·阿奎那在 De ente et essentia chapters 4-5 on essence and existence 中提供该命题的原典定位，用于支撑“核心命题二：存在、形式与目的如何组织世界？”这一解释。",
+                "source": {
+                  "workId": "aquinas-primary-work",
+                  "locator": "De ente et essentia chapters 4-5 on essence and existence",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "aquinas:evidence:008",
+                "titleZh": "核心命题二：存在、形式与目的如何组织世界？的文本依据",
+                "summaryZh": "托马斯·阿奎那在 Summa Theologiae I q.3 a.4 on God as ipsum esse subsistens 中提供该命题的原典定位，用于支撑“核心命题二：存在、形式与目的如何组织世界？”这一解释。",
+                "source": {
+                  "workId": "aquinas-primary-work",
+                  "locator": "Summa Theologiae I q.3 a.4 on God as ipsum esse subsistens",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "aquinas:problem:003",
+        "titleZh": "自然法如何约束政治生活？",
+        "questionZh": "托马斯·阿奎那如何围绕“自然法如何约束政治生活？”建立其思想问题？",
+        "summaryZh": "托马斯·阿奎那在这一问题上形成了可辨认的论证路径，连接文本命题、概念区分和后世问题谱系。",
+        "themeIds": [
+          "ethics",
+          "politics"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "aquinas:claim:005",
+            "titleZh": "核心命题一：自然法如何约束政治生活？",
+            "claimZh": "托马斯·阿奎那在“自然法如何约束政治生活？”中提出基础性立场，说明其理论问题的出发点。",
+            "explanationZh": "该命题概括其原典中反复出现的论证方向，并为本问题的后续分支提供基础。",
+            "themeIds": [
+              "ethics",
+              "politics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "aquinas:evidence:009",
+                "titleZh": "核心命题一：自然法如何约束政治生活？的文本依据",
+                "summaryZh": "托马斯·阿奎那在 Summa Theologiae I-II q.90 a.4 on definition of law 中提供该命题的原典定位，用于支撑“核心命题一：自然法如何约束政治生活？”这一解释。",
+                "source": {
+                  "workId": "aquinas-primary-work",
+                  "locator": "Summa Theologiae I-II q.90 a.4 on definition of law",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "aquinas:evidence:010",
+                "titleZh": "核心命题一：自然法如何约束政治生活？的文本依据",
+                "summaryZh": "托马斯·阿奎那在 Summa Theologiae I-II q.94 a.2 on natural law 中提供该命题的原典定位，用于支撑“核心命题一：自然法如何约束政治生活？”这一解释。",
+                "source": {
+                  "workId": "aquinas-primary-work",
+                  "locator": "Summa Theologiae I-II q.94 a.2 on natural law",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "aquinas:claim:006",
+            "titleZh": "核心命题二：自然法如何约束政治生活？",
+            "claimZh": "托马斯·阿奎那在“自然法如何约束政治生活？”中进一步推出实践、制度或认识论后果。",
+            "explanationZh": "该命题把概念论证推进到可比较的问题谱系，避免只停留在术语解释。",
+            "themeIds": [
+              "ethics",
+              "politics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "aquinas:evidence:011",
+                "titleZh": "核心命题二：自然法如何约束政治生活？的文本依据",
+                "summaryZh": "托马斯·阿奎那在 Summa Theologiae I-II q.90 a.4 on definition of law 中提供该命题的原典定位，用于支撑“核心命题二：自然法如何约束政治生活？”这一解释。",
+                "source": {
+                  "workId": "aquinas-primary-work",
+                  "locator": "Summa Theologiae I-II q.90 a.4 on definition of law",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "aquinas:evidence:012",
+                "titleZh": "核心命题二：自然法如何约束政治生活？的文本依据",
+                "summaryZh": "托马斯·阿奎那在 Summa Theologiae I-II q.94 a.2 on natural law 中提供该命题的原典定位，用于支撑“核心命题二：自然法如何约束政治生活？”这一解释。",
+                "source": {
+                  "workId": "aquinas-primary-work",
+                  "locator": "Summa Theologiae I-II q.94 a.2 on natural law",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
 }

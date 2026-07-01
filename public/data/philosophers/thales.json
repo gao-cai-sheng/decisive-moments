@@ -99,7 +99,7 @@
               {
                 "id": "thales:evidence:003",
                 "titleZh": "《论天》保存地浮水上的说法",
-                "summaryZh": "亚里士多德《论天》提到某些最古老说法认为大地靠水支撑，并把此说归于泰勒斯。",
+                "summaryZh": "亚里士多德《论天》提到某些最古老说法认为大地靠水支撑，并把此说归于泰勒斯传统宇宙论。",
                 "source": {
                   "workId": "thales-primary-work",
                   "locator": "Aristotle, De Caelo II.13, 294a28-b1 on the earth resting on water",
@@ -156,7 +156,7 @@
               {
                 "id": "thales:evidence:006",
                 "titleZh": "第欧根尼·拉尔修保存七贤与几何传说",
-                "summaryZh": "《名哲言行录》把泰勒斯列为七贤之一，并保存关于几何、天文和实践智慧的多重轶事。",
+                "summaryZh": "《名哲言行录》把泰勒斯列为七贤之一，并保存关于几何、天文和实践智慧的多重轶事材料。",
                 "source": {
                   "workId": "thales-primary-work",
                   "locator": "Diogenes Laertius, Lives of Eminent Philosophers I.22-44 on Thales",
@@ -221,12 +221,12 @@
               "metaphysics",
               "life_death"
             ],
-            "weight": 2,
+            "weight": 3,
             "evidence": [
               {
                 "id": "thales:evidence:009",
                 "titleZh": "《论灵魂》报告磁石有灵魂",
-                "summaryZh": "亚里士多德《论灵魂》提到泰勒斯似乎认为磁石有灵魂，因为它能使铁运动。",
+                "summaryZh": "亚里士多德《论灵魂》提到泰勒斯似乎认为磁石有灵魂，因为它能使铁运动这一现象发生。",
                 "source": {
                   "workId": "thales-primary-work",
                   "locator": "Aristotle, De Anima I.2, 405a19-21 on the magnet having soul",

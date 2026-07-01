@@ -5,9 +5,9 @@
     "en": "Arthur Schopenhauer"
   },
   "life": {
-    "display": "1788—1860",
     "birth": 1788,
-    "death": 1860
+    "death": 1860,
+    "display": "1788—1860"
   },
   "civilization": "european_modern",
   "traditions": [
@@ -38,5 +38,246 @@
       "label": "draft",
       "noteZh": "条目需要人工核对作品、年代和概念表述。"
     }
-  ]
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "schopenhauer:problem:001",
+        "titleZh": "世界为何是表象？",
+        "questionZh": "叔本华如何围绕“世界为何是表象？”建立其思想问题？",
+        "summaryZh": "叔本华在这一问题上形成了可辨认的论证路径，连接文本命题、概念区分和后世问题谱系。",
+        "themeIds": [
+          "knowledge",
+          "metaphysics"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "schopenhauer:claim:001",
+            "titleZh": "核心命题一：世界为何是表象？",
+            "claimZh": "叔本华在“世界为何是表象？”中提出基础性立场，说明其理论问题的出发点。",
+            "explanationZh": "该命题概括其原典中反复出现的论证方向，并为本问题的后续分支提供基础。",
+            "themeIds": [
+              "knowledge",
+              "metaphysics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "schopenhauer:evidence:001",
+                "titleZh": "核心命题一：世界为何是表象？的文本依据",
+                "summaryZh": "叔本华在 World as Will and Representation I §1 on world as representation 中提供该命题的原典定位，用于支撑“核心命题一：世界为何是表象？”这一解释。",
+                "source": {
+                  "workId": "schopenhauer-primary-work",
+                  "locator": "World as Will and Representation I §1 on world as representation",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "schopenhauer:evidence:002",
+                "titleZh": "核心命题一：世界为何是表象？的文本依据",
+                "summaryZh": "叔本华在 Fourfold Root §§16-20 on sufficient reason 中提供该命题的原典定位，用于支撑“核心命题一：世界为何是表象？”这一解释。",
+                "source": {
+                  "workId": "schopenhauer-primary-work",
+                  "locator": "Fourfold Root §§16-20 on sufficient reason",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "schopenhauer:claim:002",
+            "titleZh": "核心命题二：世界为何是表象？",
+            "claimZh": "叔本华在“世界为何是表象？”中进一步推出实践、制度或认识论后果。",
+            "explanationZh": "该命题把概念论证推进到可比较的问题谱系，避免只停留在术语解释。",
+            "themeIds": [
+              "knowledge",
+              "metaphysics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "schopenhauer:evidence:003",
+                "titleZh": "核心命题二：世界为何是表象？的文本依据",
+                "summaryZh": "叔本华在 World as Will and Representation I §1 on world as representation 中提供该命题的原典定位，用于支撑“核心命题二：世界为何是表象？”这一解释。",
+                "source": {
+                  "workId": "schopenhauer-primary-work",
+                  "locator": "World as Will and Representation I §1 on world as representation",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "schopenhauer:evidence:004",
+                "titleZh": "核心命题二：世界为何是表象？的文本依据",
+                "summaryZh": "叔本华在 Fourfold Root §§16-20 on sufficient reason 中提供该命题的原典定位，用于支撑“核心命题二：世界为何是表象？”这一解释。",
+                "source": {
+                  "workId": "schopenhauer-primary-work",
+                  "locator": "Fourfold Root §§16-20 on sufficient reason",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "schopenhauer:problem:002",
+        "titleZh": "意志为何是世界本体？",
+        "questionZh": "叔本华如何围绕“意志为何是世界本体？”建立其思想问题？",
+        "summaryZh": "叔本华在这一问题上形成了可辨认的论证路径，连接文本命题、概念区分和后世问题谱系。",
+        "themeIds": [
+          "freedom",
+          "ethics"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "schopenhauer:claim:003",
+            "titleZh": "核心命题一：意志为何是世界本体？",
+            "claimZh": "叔本华在“意志为何是世界本体？”中提出基础性立场，说明其理论问题的出发点。",
+            "explanationZh": "该命题概括其原典中反复出现的论证方向，并为本问题的后续分支提供基础。",
+            "themeIds": [
+              "freedom",
+              "ethics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "schopenhauer:evidence:005",
+                "titleZh": "核心命题一：意志为何是世界本体？的文本依据",
+                "summaryZh": "叔本华在 World as Will and Representation II §18 on body as will 中提供该命题的原典定位，用于支撑“核心命题一：意志为何是世界本体？”这一解释。",
+                "source": {
+                  "workId": "schopenhauer-primary-work",
+                  "locator": "World as Will and Representation II §18 on body as will",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "schopenhauer:evidence:006",
+                "titleZh": "核心命题一：意志为何是世界本体？的文本依据",
+                "summaryZh": "叔本华在 World as Will and Representation IV §57 on suffering and boredom 中提供该命题的原典定位，用于支撑“核心命题一：意志为何是世界本体？”这一解释。",
+                "source": {
+                  "workId": "schopenhauer-primary-work",
+                  "locator": "World as Will and Representation IV §57 on suffering and boredom",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "schopenhauer:claim:004",
+            "titleZh": "核心命题二：意志为何是世界本体？",
+            "claimZh": "叔本华在“意志为何是世界本体？”中进一步推出实践、制度或认识论后果。",
+            "explanationZh": "该命题把概念论证推进到可比较的问题谱系，避免只停留在术语解释。",
+            "themeIds": [
+              "freedom",
+              "ethics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "schopenhauer:evidence:007",
+                "titleZh": "核心命题二：意志为何是世界本体？的文本依据",
+                "summaryZh": "叔本华在 World as Will and Representation II §18 on body as will 中提供该命题的原典定位，用于支撑“核心命题二：意志为何是世界本体？”这一解释。",
+                "source": {
+                  "workId": "schopenhauer-primary-work",
+                  "locator": "World as Will and Representation II §18 on body as will",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "schopenhauer:evidence:008",
+                "titleZh": "核心命题二：意志为何是世界本体？的文本依据",
+                "summaryZh": "叔本华在 World as Will and Representation IV §57 on suffering and boredom 中提供该命题的原典定位，用于支撑“核心命题二：意志为何是世界本体？”这一解释。",
+                "source": {
+                  "workId": "schopenhauer-primary-work",
+                  "locator": "World as Will and Representation IV §57 on suffering and boredom",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "schopenhauer:problem:003",
+        "titleZh": "审美与同情如何暂时解脱？",
+        "questionZh": "叔本华如何围绕“审美与同情如何暂时解脱？”建立其思想问题？",
+        "summaryZh": "叔本华在这一问题上形成了可辨认的论证路径，连接文本命题、概念区分和后世问题谱系。",
+        "themeIds": [
+          "politics",
+          "ethics"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "schopenhauer:claim:005",
+            "titleZh": "核心命题一：审美与同情如何暂时解脱？",
+            "claimZh": "叔本华在“审美与同情如何暂时解脱？”中提出基础性立场，说明其理论问题的出发点。",
+            "explanationZh": "该命题概括其原典中反复出现的论证方向，并为本问题的后续分支提供基础。",
+            "themeIds": [
+              "politics",
+              "ethics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "schopenhauer:evidence:009",
+                "titleZh": "核心命题一：审美与同情如何暂时解脱？的文本依据",
+                "summaryZh": "叔本华在 World as Will and Representation III §34 on aesthetic contemplation 中提供该命题的原典定位，用于支撑“核心命题一：审美与同情如何暂时解脱？”这一解释。",
+                "source": {
+                  "workId": "schopenhauer-primary-work",
+                  "locator": "World as Will and Representation III §34 on aesthetic contemplation",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "schopenhauer:evidence:010",
+                "titleZh": "核心命题一：审美与同情如何暂时解脱？的文本依据",
+                "summaryZh": "叔本华在 On the Basis of Morality §16 on compassion 中提供该命题的原典定位，用于支撑“核心命题一：审美与同情如何暂时解脱？”这一解释。",
+                "source": {
+                  "workId": "schopenhauer-primary-work",
+                  "locator": "On the Basis of Morality §16 on compassion",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "schopenhauer:claim:006",
+            "titleZh": "核心命题二：审美与同情如何暂时解脱？",
+            "claimZh": "叔本华在“审美与同情如何暂时解脱？”中进一步推出实践、制度或认识论后果。",
+            "explanationZh": "该命题把概念论证推进到可比较的问题谱系，避免只停留在术语解释。",
+            "themeIds": [
+              "politics",
+              "ethics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "schopenhauer:evidence:011",
+                "titleZh": "核心命题二：审美与同情如何暂时解脱？的文本依据",
+                "summaryZh": "叔本华在 World as Will and Representation III §34 on aesthetic contemplation 中提供该命题的原典定位，用于支撑“核心命题二：审美与同情如何暂时解脱？”这一解释。",
+                "source": {
+                  "workId": "schopenhauer-primary-work",
+                  "locator": "World as Will and Representation III §34 on aesthetic contemplation",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "schopenhauer:evidence:012",
+                "titleZh": "核心命题二：审美与同情如何暂时解脱？的文本依据",
+                "summaryZh": "叔本华在 On the Basis of Morality §16 on compassion 中提供该命题的原典定位，用于支撑“核心命题二：审美与同情如何暂时解脱？”这一解释。",
+                "source": {
+                  "workId": "schopenhauer-primary-work",
+                  "locator": "On the Basis of Morality §16 on compassion",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
 }

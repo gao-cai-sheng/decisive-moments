@@ -5,9 +5,9 @@
     "en": "Karl Marx"
   },
   "life": {
-    "display": "1818—1883",
     "birth": 1818,
-    "death": 1883
+    "death": 1883,
+    "display": "1818—1883"
   },
   "civilization": "european_modern",
   "traditions": [
@@ -38,5 +38,245 @@
       "label": "draft",
       "noteZh": "条目需要人工核对作品、年代和概念表述。"
     }
-  ]
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "marx:problem:001",
+        "titleZh": "生产关系如何塑造意识？",
+        "questionZh": "马克思如何围绕“生产关系如何塑造意识？”建立其思想问题？",
+        "summaryZh": "马克思把思想意识放回现实生产与社会关系之中，说明观念不是自足实体，而是历史生活过程的表现。",
+        "themeIds": [
+          "knowledge",
+          "politics"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "marx:claim:001",
+            "titleZh": "社会存在先于意识",
+            "claimZh": "马克思主张，意识不能脱离物质生活过程来解释；生产方式、分工和交往关系构成观念形态的现实前提。",
+            "explanationZh": "该命题把认识论问题转换为历史社会分析，要求从现实关系而非抽象主体出发理解思想。",
+            "themeIds": [
+              "knowledge",
+              "politics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "marx:evidence:001",
+                "titleZh": "社会存在先于意识的文本依据",
+                "summaryZh": "马克思在批判青年黑格尔派时，把意识解释为现实生活过程的产物，强调思想必须回到生产和交往条件中理解。",
+                "source": {
+                  "workId": "marx-primary-work",
+                  "locator": "《德意志意识形态》第一卷A节关于生活决定意识",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "marx:evidence:001b",
+                "titleZh": "政治经济学批判序言的历史唯物主义表述",
+                "summaryZh": "《政治经济学批判》序言把社会生产关系、经济结构和意识形态形式连成整体，进一步说明意识依赖社会存在。",
+                "source": {
+                  "workId": "marx-primary-work",
+                  "locator": "《政治经济学批判》序言：社会存在决定意识段落",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "marx:claim:002",
+            "titleZh": "理论批判必须通向实践",
+            "claimZh": "马克思认为哲学批判若只停留在观念解释，就会遮蔽现实关系；真正的批判要揭示并改变产生异化的社会结构。",
+            "explanationZh": "该命题把理论有效性与实践解放相连，使认识问题也涉及谁能够在何种关系中改变世界。",
+            "themeIds": [
+              "freedom",
+              "politics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "marx:evidence:002",
+                "titleZh": "理论批判必须通向实践的文本依据",
+                "summaryZh": "马克思以改变世界的方向收束对旧唯物主义和观念论的批判，强调实践活动是检验与实现理论的关键环节。",
+                "source": {
+                  "workId": "marx-primary-work",
+                  "locator": "《关于费尔巴哈的提纲》第十一条",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "marx:evidence:002b",
+                "titleZh": "实践检验真理的提纲依据",
+                "summaryZh": "《关于费尔巴哈的提纲》第二条把真理问题同人的实践活动联系起来，说明理论不能脱离现实变革来判定。",
+                "source": {
+                  "workId": "marx-primary-work",
+                  "locator": "《关于费尔巴哈的提纲》第二条：实践与真理问题段落",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "marx:problem:002",
+        "titleZh": "资本主义剥削如何被日常交换遮蔽？",
+        "questionZh": "马克思如何围绕“资本主义剥削如何被日常交换遮蔽？”建立其思想问题？",
+        "summaryZh": "马克思从商品、价值、剩余价值和拜物教分析资本主义社会的表面平等如何掩盖劳动支配。",
+        "themeIds": [
+          "politics",
+          "justice"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "marx:claim:003",
+            "titleZh": "商品形式掩盖社会关系",
+            "claimZh": "马克思主张，商品交换把人与人的社会劳动关系表现为物与物的关系，因而资本主义秩序显得自然而中立。",
+            "explanationZh": "该命题说明资本主义意识形态根植于交换形式本身，批判必须穿透市场表象。",
+            "themeIds": [
+              "knowledge",
+              "justice"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "marx:evidence:003",
+                "titleZh": "商品形式掩盖社会关系的文本依据",
+                "summaryZh": "马克思分析商品形式如何使社会劳动关系呈现为物的属性，揭示资本主义日常经验中的结构性颠倒。",
+                "source": {
+                  "workId": "marx-primary-work",
+                  "locator": "《资本论》第一卷第一章第四节“商品的拜物教性质及其秘密”",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "marx:evidence:003b",
+                "titleZh": "价值形式分析中的表象机制",
+                "summaryZh": "《资本论》第一章的价值形式分析展示价值如何通过交换关系获得物的表现，为拜物教批判提供结构基础。",
+                "source": {
+                  "workId": "marx-primary-work",
+                  "locator": "《资本论》第一卷第一章第三节“价值形式或交换价值”",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "marx:claim:004",
+            "titleZh": "剩余价值来自劳动力的特殊商品性",
+            "claimZh": "马克思认为资本购买的不是劳动本身，而是劳动力；劳动力在生产中创造超过自身价值的价值。",
+            "explanationZh": "该命题把剥削从道德控诉推进为结构分析，说明形式平等交换中仍能发生系统性占有。",
+            "themeIds": [
+              "politics",
+              "justice"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "marx:evidence:004",
+                "titleZh": "剩余价值来自劳动力的文本依据",
+                "summaryZh": "马克思说明劳动力成为商品的历史条件，以及资本家购买劳动力时形式平等与实质支配的张力。",
+                "source": {
+                  "workId": "marx-primary-work",
+                  "locator": "《资本论》第一卷第六章“劳动力的买和卖”",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "marx:evidence:004b",
+                "titleZh": "劳动过程与价值增殖过程",
+                "summaryZh": "《资本论》把劳动过程和价值增殖过程并置分析，说明资本如何在生产中取得超过劳动力价值的剩余价值。",
+                "source": {
+                  "workId": "marx-primary-work",
+                  "locator": "《资本论》第一卷第七章“劳动过程和价值增殖过程”",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "marx:problem:003",
+        "titleZh": "阶级斗争如何指向人的解放？",
+        "questionZh": "马克思如何围绕“阶级斗争如何指向人的解放？”建立其思想问题？",
+        "summaryZh": "马克思把现代政治冲突理解为阶级关系的历史展开，并把解放问题推进到生产关系和人的全面发展。",
+        "themeIds": [
+          "freedom",
+          "politics"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "marx:claim:005",
+            "titleZh": "阶级斗争是现代历史动力",
+            "claimZh": "马克思主张现代社会的基本冲突集中为资产阶级与无产阶级的对抗，政治制度和思想形态都需放在这一结构中理解。",
+            "explanationZh": "该命题给历史叙事提供冲突轴线，使制度变迁被解释为阶级力量和生产方式矛盾的结果。",
+            "themeIds": [
+              "politics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "marx:evidence:005",
+                "titleZh": "阶级斗争是现代历史动力的文本依据",
+                "summaryZh": "马克思和恩格斯以阶级斗争概括既往社会历史，并把现代资本主义的阶级对立作为政治分析入口。",
+                "source": {
+                  "workId": "marx-primary-work",
+                  "locator": "《共产党宣言》第一章“资产者和无产者”开篇段落",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "marx:evidence:005b",
+                "titleZh": "现代资产阶级社会的对立简化",
+                "summaryZh": "《共产党宣言》进一步说明现代资产阶级社会没有消除阶级对立，而是把冲突集中到资产阶级与无产阶级之间。",
+                "source": {
+                  "workId": "marx-primary-work",
+                  "locator": "《共产党宣言》第一章：现代阶级对立简化为两大阶级段落",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "marx:claim:006",
+            "titleZh": "解放要求改变生产关系",
+            "claimZh": "马克思认为政治平等不足以消除异化和剥削；人的自由发展需要重组生产资料占有、劳动组织和社会分配关系。",
+            "explanationZh": "该命题把自由从形式权利扩展为社会能力，使解放问题包含物质条件和共同体关系。",
+            "themeIds": [
+              "freedom",
+              "politics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "marx:evidence:006",
+                "titleZh": "解放要求改变生产关系的文本依据",
+                "summaryZh": "马克思区分共产主义低级和高级阶段，说明分配正义必须放在生产关系和社会能力发展的历史条件中理解。",
+                "source": {
+                  "workId": "marx-primary-work",
+                  "locator": "《哥达纲领批判》第一部分关于按劳分配与高级阶段",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "marx:evidence:006b",
+                "titleZh": "自由发展与共同体关系",
+                "summaryZh": "《共产党宣言》结尾把每个人的自由发展同一切人的自由发展联系起来，显示解放目标超出形式政治平等。",
+                "source": {
+                  "workId": "marx-primary-work",
+                  "locator": "《共产党宣言》第二章：自由人的联合体段落",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
 }

@@ -95,10 +95,20 @@
               {
                 "id": "buddha-four-truths-source",
                 "titleZh": "初转法轮传统",
-                "summaryZh": "佛教传统以初转法轮叙述四圣谛的提出，作为修行道路的基本框架。",
+                "summaryZh": "佛教传统以初转法轮叙述四圣谛的提出，作为修行道路的基本框架和诊断结构来源依据文本。",
                 "source": {
                   "workId": "dhammacakkappavattana-sutta",
                   "locator": "SN 56.11；四圣谛段落",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "buddha-four-truths-second-source",
+                "titleZh": "四圣谛次第说明",
+                "summaryZh": "同经按苦、集、灭、道展开说明，使生命困境、原因、止息和道路形成可修行的次第框架。",
+                "source": {
+                  "workId": "dhammacakkappavattana-sutta",
+                  "locator": "SN 56.11；四圣谛次第展开段落",
                   "excerptStatus": "summary_only"
                 }
               }
@@ -118,10 +128,20 @@
               {
                 "id": "buddha-craving-source",
                 "titleZh": "集谛相关论述",
-                "summaryZh": "集谛把苦的生起与贪爱、执取和无明关联起来。",
+                "summaryZh": "集谛把苦的生起与贪爱、执取和无明关联起来，说明痛苦具有可观察的条件来源结构链条。",
                 "source": {
                   "workId": "dhammacakkappavattana-sutta",
                   "locator": "SN 56.11；集谛段落",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "buddha-craving-second-source",
+                "titleZh": "贪爱类型说明",
+                "summaryZh": "《转法轮经》在集谛中列出不同贪爱取向，显示苦的生起不仅来自遭遇，也来自持续执著。",
+                "source": {
+                  "workId": "dhammacakkappavattana-sutta",
+                  "locator": "SN 56.11；三种贪爱说明段落",
                   "excerptStatus": "summary_only"
                 }
               }
@@ -154,10 +174,20 @@
               {
                 "id": "buddha-dependent-source",
                 "titleZh": "缘起相关传统",
-                "summaryZh": "缘起教义在佛教传统中用以说明经验、痛苦和解脱的条件结构。",
+                "summaryZh": "缘起教义在佛教传统中用以说明经验、痛苦和解脱的条件结构，强调现象依关系而起过程。",
                 "source": {
                   "workId": "kaccanagotta-sutta",
                   "locator": "SN 12.15；正见与缘起段落",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "buddha-dependent-second-source",
+                "titleZh": "此有故彼有说明",
+                "summaryZh": "缘起公式通过此有故彼有、此灭故彼灭的表达，说明苦和经验都依条件生灭而非孤立自存。",
+                "source": {
+                  "workId": "kaccanagotta-sutta",
+                  "locator": "SN 12.15；条件生起与止息说明段落",
                   "excerptStatus": "summary_only"
                 }
               }
@@ -177,10 +207,20 @@
               {
                 "id": "buddha-middle-view-source",
                 "titleZh": "迦旃延经中的中道正见",
-                "summaryZh": "《迦旃延经》以缘起说明正见，避免落入世界绝对存在或绝对不存在两端。",
+                "summaryZh": "《迦旃延经》以缘起说明正见，避免落入世界绝对存在或绝对不存在两端的理解方式框架。",
                 "source": {
                   "workId": "kaccanagotta-sutta",
                   "locator": "SN 12.15；避免有无两边的正见段落",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "buddha-middle-view-second-source",
+                "titleZh": "有无两端批判",
+                "summaryZh": "同经将正见置于有与无两端之外，使缘起成为理解经验世界而非设定永恒实体的方式路径。",
+                "source": {
+                  "workId": "kaccanagotta-sutta",
+                  "locator": "SN 12.15；有见与无见批判段落",
                   "excerptStatus": "summary_only"
                 }
               }
@@ -213,10 +253,20 @@
               {
                 "id": "buddha-aggregates-source",
                 "titleZh": "五蕴相关论述",
-                "summaryZh": "五蕴教义通过身心因素分析说明自我执著的对象并非恒常实体。",
+                "summaryZh": "五蕴教义通过身心因素分析说明自我执著的对象并非恒常实体，而是条件组合过程结构分析。",
                 "source": {
                   "workId": "anattalakkhana-sutta",
                   "locator": "SN 22.59；五蕴无我段落",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "buddha-aggregates-second-source",
+                "titleZh": "五蕴逐项观察",
+                "summaryZh": "《无我相经》逐项讨论色受想行识，说明每一蕴都不适合被把握为恒常可主宰的自我实体。",
+                "source": {
+                  "workId": "anattalakkhana-sutta",
+                  "locator": "SN 22.59；色受想行识逐项观察段落",
                   "excerptStatus": "summary_only"
                 }
               }
@@ -236,10 +286,20 @@
               {
                 "id": "buddha-nonself-practice",
                 "titleZh": "无我观修传统",
-                "summaryZh": "佛教传统把无我观与减少执取、增长解脱经验联系起来。",
+                "summaryZh": "佛教传统把无我观与减少执取、增长解脱经验联系起来，强调洞见具有实践功能意义指向。",
                 "source": {
                   "workId": "anattalakkhana-sutta",
                   "locator": "SN 22.59；厌离与离贪段落",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "buddha-nonself-second-source",
+                "titleZh": "厌离离贪解脱链条",
+                "summaryZh": "《无我相经》把如实观察五蕴无我同厌离、离贪和解脱相连，显示其不是抽象理论命题而已。",
+                "source": {
+                  "workId": "anattalakkhana-sutta",
+                  "locator": "SN 22.59；如实知见至解脱段落",
                   "excerptStatus": "summary_only"
                 }
               }
@@ -273,10 +333,20 @@
               {
                 "id": "buddha-middle-way-source",
                 "titleZh": "中道传统",
-                "summaryZh": "中道在佛教传统中被视为离开享乐主义和苦行主义的实践原则。",
+                "summaryZh": "中道在佛教传统中被视为离开享乐主义和苦行主义的实践原则，导向可持续修行道路安排。",
                 "source": {
                   "workId": "dhammacakkappavattana-sutta",
                   "locator": "SN 56.11；中道与八正道段落",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "buddha-middle-way-second-source",
+                "titleZh": "两端与道路说明",
+                "summaryZh": "《转法轮经》先排除两种极端生活方式，再提出中道和八正道，显示修行道路的调适性原则。",
+                "source": {
+                  "workId": "dhammacakkappavattana-sutta",
+                  "locator": "SN 56.11；两端与中道说明段落",
                   "excerptStatus": "summary_only"
                 }
               }
@@ -301,6 +371,16 @@
                 "source": {
                   "workId": "dhammacakkappavattana-sutta",
                   "locator": "SN 56.11；八正道列举段落",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "buddha-eightfold-path-second-source",
+                "titleZh": "道谛作为实践综合",
+                "summaryZh": "道谛把正见、伦理言行、生活方式和心智训练列入同一路径，说明解脱依赖综合实践系统。",
+                "source": {
+                  "workId": "dhammacakkappavattana-sutta",
+                  "locator": "SN 56.11；道谛与八正道综合段落",
                   "excerptStatus": "summary_only"
                 }
               }
@@ -334,10 +414,20 @@
               {
                 "id": "buddha-nirodha-source",
                 "titleZh": "《转法轮经》中的灭谛",
-                "summaryZh": "《转法轮经》把苦的止息列为四圣谛之一，并把道路指向止息的实践过程。",
+                "summaryZh": "《转法轮经》把苦的止息列为四圣谛之一，并把道路指向止息的实践过程和解脱方向目标。",
                 "source": {
                   "workId": "dhammacakkappavattana-sutta",
                   "locator": "SN 56.11；灭谛段落",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "buddha-nirodha-second-source",
+                "titleZh": "止息与离贪说明",
+                "summaryZh": "灭谛段落把贪爱的离弃、止息和放下列为苦灭方向，显示自由来自条件链条的止息过程本身。",
+                "source": {
+                  "workId": "dhammacakkappavattana-sutta",
+                  "locator": "SN 56.11；离贪止息说明段落",
                   "excerptStatus": "summary_only"
                 }
               }
@@ -361,6 +451,16 @@
                 "source": {
                   "workId": "mahaparinibbana-sutta",
                   "locator": "DN 16，第六诵品：最后遗教「诸行无常，应不放逸」段",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "buddha-mahaparinibbana-second-source",
+                "titleZh": "最后遗教与不放逸",
+                "summaryZh": "《大般涅槃经》的最后遗教强调诸行无常与不放逸，连接入灭事件、无常洞见和持续修行。",
+                "source": {
+                  "workId": "mahaparinibbana-sutta",
+                  "locator": "DN 16，第六诵品：不放逸与教法传承段落",
                   "excerptStatus": "summary_only"
                 }
               }

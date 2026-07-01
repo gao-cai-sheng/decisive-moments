@@ -5,9 +5,9 @@
     "en": "Baruch Spinoza"
   },
   "life": {
-    "display": "1632—1677",
     "birth": 1632,
-    "death": 1677
+    "death": 1677,
+    "display": "1632—1677"
   },
   "civilization": "european_modern",
   "traditions": [
@@ -38,5 +38,246 @@
       "label": "draft",
       "noteZh": "条目需要人工核对作品、年代和概念表述。"
     }
-  ]
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "spinoza:problem:001",
+        "titleZh": "一实体意味着什么？",
+        "questionZh": "斯宾诺莎如何围绕“一实体意味着什么？”建立其思想问题？",
+        "summaryZh": "斯宾诺莎在这一问题上形成了可辨认的论证路径，连接文本命题、概念区分和后世问题谱系。",
+        "themeIds": [
+          "knowledge",
+          "metaphysics"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "spinoza:claim:001",
+            "titleZh": "核心命题一：一实体意味着什么？",
+            "claimZh": "斯宾诺莎在“一实体意味着什么？”中提出基础性立场，说明其理论问题的出发点。",
+            "explanationZh": "该命题概括其原典中反复出现的论证方向，并为本问题的后续分支提供基础。",
+            "themeIds": [
+              "knowledge",
+              "metaphysics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "spinoza:evidence:001",
+                "titleZh": "核心命题一：一实体意味着什么？的文本依据",
+                "summaryZh": "斯宾诺莎在 Ethica I proposition 14 on one substance 中提供该命题的原典定位，用于支撑“核心命题一：一实体意味着什么？”这一解释。",
+                "source": {
+                  "workId": "spinoza-primary-work",
+                  "locator": "Ethica I proposition 14 on one substance",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "spinoza:evidence:002",
+                "titleZh": "核心命题一：一实体意味着什么？的文本依据",
+                "summaryZh": "斯宾诺莎在 Ethica I appendix on final causes 中提供该命题的原典定位，用于支撑“核心命题一：一实体意味着什么？”这一解释。",
+                "source": {
+                  "workId": "spinoza-primary-work",
+                  "locator": "Ethica I appendix on final causes",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "spinoza:claim:002",
+            "titleZh": "核心命题二：一实体意味着什么？",
+            "claimZh": "斯宾诺莎在“一实体意味着什么？”中进一步推出实践、制度或认识论后果。",
+            "explanationZh": "该命题把概念论证推进到可比较的问题谱系，避免只停留在术语解释。",
+            "themeIds": [
+              "knowledge",
+              "metaphysics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "spinoza:evidence:003",
+                "titleZh": "核心命题二：一实体意味着什么？的文本依据",
+                "summaryZh": "斯宾诺莎在 Ethica I proposition 14 on one substance 中提供该命题的原典定位，用于支撑“核心命题二：一实体意味着什么？”这一解释。",
+                "source": {
+                  "workId": "spinoza-primary-work",
+                  "locator": "Ethica I proposition 14 on one substance",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "spinoza:evidence:004",
+                "titleZh": "核心命题二：一实体意味着什么？的文本依据",
+                "summaryZh": "斯宾诺莎在 Ethica I appendix on final causes 中提供该命题的原典定位，用于支撑“核心命题二：一实体意味着什么？”这一解释。",
+                "source": {
+                  "workId": "spinoza-primary-work",
+                  "locator": "Ethica I appendix on final causes",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "spinoza:problem:002",
+        "titleZh": "自由是否等于理解必然性？",
+        "questionZh": "斯宾诺莎如何围绕“自由是否等于理解必然性？”建立其思想问题？",
+        "summaryZh": "斯宾诺莎在这一问题上形成了可辨认的论证路径，连接文本命题、概念区分和后世问题谱系。",
+        "themeIds": [
+          "freedom",
+          "ethics"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "spinoza:claim:003",
+            "titleZh": "核心命题一：自由是否等于理解必然性？",
+            "claimZh": "斯宾诺莎在“自由是否等于理解必然性？”中提出基础性立场，说明其理论问题的出发点。",
+            "explanationZh": "该命题概括其原典中反复出现的论证方向，并为本问题的后续分支提供基础。",
+            "themeIds": [
+              "freedom",
+              "ethics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "spinoza:evidence:005",
+                "titleZh": "核心命题一：自由是否等于理解必然性？的文本依据",
+                "summaryZh": "斯宾诺莎在 Ethica I definition 7 on freedom 中提供该命题的原典定位，用于支撑“核心命题一：自由是否等于理解必然性？”这一解释。",
+                "source": {
+                  "workId": "spinoza-primary-work",
+                  "locator": "Ethica I definition 7 on freedom",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "spinoza:evidence:006",
+                "titleZh": "核心命题一：自由是否等于理解必然性？的文本依据",
+                "summaryZh": "斯宾诺莎在 Ethica V proposition 3 on understanding affects 中提供该命题的原典定位，用于支撑“核心命题一：自由是否等于理解必然性？”这一解释。",
+                "source": {
+                  "workId": "spinoza-primary-work",
+                  "locator": "Ethica V proposition 3 on understanding affects",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "spinoza:claim:004",
+            "titleZh": "核心命题二：自由是否等于理解必然性？",
+            "claimZh": "斯宾诺莎在“自由是否等于理解必然性？”中进一步推出实践、制度或认识论后果。",
+            "explanationZh": "该命题把概念论证推进到可比较的问题谱系，避免只停留在术语解释。",
+            "themeIds": [
+              "freedom",
+              "ethics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "spinoza:evidence:007",
+                "titleZh": "核心命题二：自由是否等于理解必然性？的文本依据",
+                "summaryZh": "斯宾诺莎在 Ethica I definition 7 on freedom 中提供该命题的原典定位，用于支撑“核心命题二：自由是否等于理解必然性？”这一解释。",
+                "source": {
+                  "workId": "spinoza-primary-work",
+                  "locator": "Ethica I definition 7 on freedom",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "spinoza:evidence:008",
+                "titleZh": "核心命题二：自由是否等于理解必然性？的文本依据",
+                "summaryZh": "斯宾诺莎在 Ethica V proposition 3 on understanding affects 中提供该命题的原典定位，用于支撑“核心命题二：自由是否等于理解必然性？”这一解释。",
+                "source": {
+                  "workId": "spinoza-primary-work",
+                  "locator": "Ethica V proposition 3 on understanding affects",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "spinoza:problem:003",
+        "titleZh": "政治与宗教应如何安排？",
+        "questionZh": "斯宾诺莎如何围绕“政治与宗教应如何安排？”建立其思想问题？",
+        "summaryZh": "斯宾诺莎在这一问题上形成了可辨认的论证路径，连接文本命题、概念区分和后世问题谱系。",
+        "themeIds": [
+          "politics",
+          "ethics"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "spinoza:claim:005",
+            "titleZh": "核心命题一：政治与宗教应如何安排？",
+            "claimZh": "斯宾诺莎在“政治与宗教应如何安排？”中提出基础性立场，说明其理论问题的出发点。",
+            "explanationZh": "该命题概括其原典中反复出现的论证方向，并为本问题的后续分支提供基础。",
+            "themeIds": [
+              "politics",
+              "ethics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "spinoza:evidence:009",
+                "titleZh": "核心命题一：政治与宗教应如何安排？的文本依据",
+                "summaryZh": "斯宾诺莎在 Tractatus Theologico-Politicus chapter 20 on freedom of philosophizing 中提供该命题的原典定位，用于支撑“核心命题一：政治与宗教应如何安排？”这一解释。",
+                "source": {
+                  "workId": "spinoza-primary-work",
+                  "locator": "Tractatus Theologico-Politicus chapter 20 on freedom of philosophizing",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "spinoza:evidence:010",
+                "titleZh": "核心命题一：政治与宗教应如何安排？的文本依据",
+                "summaryZh": "斯宾诺莎在 Tractatus Theologico-Politicus chapter 7 on interpretation of Scripture 中提供该命题的原典定位，用于支撑“核心命题一：政治与宗教应如何安排？”这一解释。",
+                "source": {
+                  "workId": "spinoza-primary-work",
+                  "locator": "Tractatus Theologico-Politicus chapter 7 on interpretation of Scripture",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "spinoza:claim:006",
+            "titleZh": "核心命题二：政治与宗教应如何安排？",
+            "claimZh": "斯宾诺莎在“政治与宗教应如何安排？”中进一步推出实践、制度或认识论后果。",
+            "explanationZh": "该命题把概念论证推进到可比较的问题谱系，避免只停留在术语解释。",
+            "themeIds": [
+              "politics",
+              "ethics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "spinoza:evidence:011",
+                "titleZh": "核心命题二：政治与宗教应如何安排？的文本依据",
+                "summaryZh": "斯宾诺莎在 Tractatus Theologico-Politicus chapter 20 on freedom of philosophizing 中提供该命题的原典定位，用于支撑“核心命题二：政治与宗教应如何安排？”这一解释。",
+                "source": {
+                  "workId": "spinoza-primary-work",
+                  "locator": "Tractatus Theologico-Politicus chapter 20 on freedom of philosophizing",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "spinoza:evidence:012",
+                "titleZh": "核心命题二：政治与宗教应如何安排？的文本依据",
+                "summaryZh": "斯宾诺莎在 Tractatus Theologico-Politicus chapter 7 on interpretation of Scripture 中提供该命题的原典定位，用于支撑“核心命题二：政治与宗教应如何安排？”这一解释。",
+                "source": {
+                  "workId": "spinoza-primary-work",
+                  "locator": "Tractatus Theologico-Politicus chapter 7 on interpretation of Scripture",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
 }

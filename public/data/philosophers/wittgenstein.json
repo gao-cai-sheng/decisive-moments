@@ -5,9 +5,9 @@
     "en": "Ludwig Wittgenstein"
   },
   "life": {
-    "display": "1889—1951",
     "birth": 1889,
-    "death": 1951
+    "death": 1951,
+    "display": "1889—1951"
   },
   "civilization": "european_modern",
   "traditions": [
@@ -38,5 +38,185 @@
       "label": "draft",
       "noteZh": "条目需要人工核对作品、年代和概念表述。"
     }
-  ]
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "wittgenstein:problem:001",
+        "titleZh": "语言如何给思想划界？",
+        "questionZh": "维特根斯坦如何围绕“语言如何给思想划界？”建立其思想问题？",
+        "summaryZh": "维特根斯坦把哲学问题追溯到语言形式的误用，早期以逻辑图像说明命题如何描绘事实。",
+        "themeIds": [
+          "language",
+          "knowledge"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "wittgenstein:claim:001",
+            "titleZh": "命题描绘可能事实",
+            "claimZh": "维特根斯坦主张，命题有意义在于它以逻辑形式描绘可能事实，而不是复制感觉图像。",
+            "explanationZh": "该命题把意义问题转化为命题、事实和逻辑形式之间的结构关系。",
+            "themeIds": [
+              "language",
+              "knowledge"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "wittgenstein:evidence:001",
+                "titleZh": "图像理论依据",
+                "summaryZh": "《逻辑哲学论》把图像理解为事实的模型，说明图像与被描绘事实共享某种逻辑形式。",
+                "source": {
+                  "workId": "wittgenstein-primary-work",
+                  "locator": "《逻辑哲学论》2.1—2.225关于图像理论",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "wittgenstein:claim:002",
+            "titleZh": "不可说者显示自身",
+            "claimZh": "维特根斯坦认为，逻辑形式、伦理和世界意义不能被普通事实命题陈述，却能显示自身。",
+            "explanationZh": "该命题限定哲学言说边界，使哲学不再提供形而上学命题。",
+            "themeIds": [
+              "language",
+              "metaphysics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "wittgenstein:evidence:002",
+                "titleZh": "沉默命题依据",
+                "summaryZh": "《逻辑哲学论》书末把价值、世界意义和逻辑界限放到不可命题化却可显示的范围。",
+                "source": {
+                  "workId": "wittgenstein-primary-work",
+                  "locator": "《逻辑哲学论》6.4—7关于伦理、神秘与沉默",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "wittgenstein:problem:002",
+        "titleZh": "规则如何在生活中获得意义？",
+        "questionZh": "维特根斯坦如何围绕“规则如何在生活中获得意义？”建立其思想问题？",
+        "summaryZh": "后期维特根斯坦从理想逻辑语言转向日常语言游戏，说明意义根植于规则实践和生活形式。",
+        "themeIds": [
+          "language",
+          "freedom"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "wittgenstein:claim:003",
+            "titleZh": "意义是使用功能",
+            "claimZh": "维特根斯坦主张，词语意义不能脱离具体语言游戏来固定，而要从使用方式中把握。",
+            "explanationZh": "该命题反对寻找隐藏本质定义，把哲学工作转向描述多样语言实践。",
+            "themeIds": [
+              "language",
+              "knowledge"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "wittgenstein:evidence:003",
+                "titleZh": "意义即使用依据",
+                "summaryZh": "《哲学研究》以意义即使用概括日常语言分析方向，反对脱离用法寻找抽象实体。",
+                "source": {
+                  "workId": "wittgenstein-primary-work",
+                  "locator": "《哲学研究》第43节及周边关于meaning as use",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "wittgenstein:claim:004",
+            "titleZh": "规则遵从依赖公共实践",
+            "claimZh": "维特根斯坦认为，规则能否被遵守取决于公共实践中的训练、判断和纠正。",
+            "explanationZh": "该命题把规范性放入共同生活，解释为什么纯私人语言不能支撑稳定意义。",
+            "themeIds": [
+              "language",
+              "ethics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "wittgenstein:evidence:004",
+                "titleZh": "规则遵从依据",
+                "summaryZh": "《哲学研究》通过规则遵从悖论说明，规则意义不能由孤立解释无限决定。",
+                "source": {
+                  "workId": "wittgenstein-primary-work",
+                  "locator": "《哲学研究》第185—202节关于规则遵从",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "wittgenstein:problem:003",
+        "titleZh": "哲学如何治疗概念困惑？",
+        "questionZh": "维特根斯坦如何围绕“哲学如何治疗概念困惑？”建立其思想问题？",
+        "summaryZh": "维特根斯坦把哲学看作消解语言迷雾的治疗活动，而不是建立新理论体系的学科。",
+        "themeIds": [
+          "knowledge",
+          "language"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "wittgenstein:claim:005",
+            "titleZh": "哲学问题源于语法迷惑",
+            "claimZh": "维特根斯坦认为，许多哲学困惑产生于词语脱离日常工作岗位后的语法误导。",
+            "explanationZh": "该命题说明哲学错误常来自语法误导，治疗方法是把词语带回日常用法。",
+            "themeIds": [
+              "knowledge",
+              "language"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "wittgenstein:evidence:005",
+                "titleZh": "语言休假依据",
+                "summaryZh": "《哲学研究》反复要求哲学把词语从形而上学误用中带回实际语言游戏。",
+                "source": {
+                  "workId": "wittgenstein-primary-work",
+                  "locator": "《哲学研究》第38节与第116节关于语言休假和回到粗糙地面",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "wittgenstein:claim:006",
+            "titleZh": "哲学描述而不解释机制",
+            "claimZh": "维特根斯坦主张，哲学应排列我们已经知道的用法，使困惑消失，而不是提出隐藏机制。",
+            "explanationZh": "该命题改变哲学任务的自我理解，强调清理概念地形而非构造科学式理论。",
+            "themeIds": [
+              "knowledge"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "wittgenstein:evidence:006",
+                "titleZh": "哲学方法依据",
+                "summaryZh": "《哲学研究》明确反对哲学中的解释冲动，主张以概观性描述化解问题。",
+                "source": {
+                  "workId": "wittgenstein-primary-work",
+                  "locator": "《哲学研究》第109—133节关于哲学方法",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
 }

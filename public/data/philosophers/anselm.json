@@ -5,9 +5,9 @@
     "en": "Anselm of Canterbury"
   },
   "life": {
-    "display": "1033—1109",
     "birth": 1033,
-    "death": 1109
+    "death": 1109,
+    "display": "1033—1109"
   },
   "civilization": "latin_christian",
   "traditions": [
@@ -38,5 +38,246 @@
       "label": "draft",
       "noteZh": "条目需要人工核对作品、年代和概念表述。"
     }
-  ]
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "anselm:problem:001",
+        "titleZh": "信仰如何寻求理解？",
+        "questionZh": "安瑟尔谟如何围绕“信仰如何寻求理解？”建立其思想问题？",
+        "summaryZh": "安瑟尔谟在这一问题上形成了可辨认的论证路径，连接文本命题、概念区分和后世问题谱系。",
+        "themeIds": [
+          "religion",
+          "knowledge"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "anselm:claim:001",
+            "titleZh": "核心命题一：信仰如何寻求理解？",
+            "claimZh": "安瑟尔谟在“信仰如何寻求理解？”中提出基础性立场，说明其理论问题的出发点。",
+            "explanationZh": "该命题概括其原典中反复出现的论证方向，并为本问题的后续分支提供基础。",
+            "themeIds": [
+              "religion",
+              "knowledge"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "anselm:evidence:001",
+                "titleZh": "核心命题一：信仰如何寻求理解？的文本依据",
+                "summaryZh": "安瑟尔谟在 Proslogion proemium and chapter 1 on faith seeking understanding 中提供该命题的原典定位，用于支撑“核心命题一：信仰如何寻求理解？”这一解释。",
+                "source": {
+                  "workId": "anselm-primary-work",
+                  "locator": "Proslogion proemium and chapter 1 on faith seeking understanding",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "anselm:evidence:002",
+                "titleZh": "核心命题一：信仰如何寻求理解？的文本依据",
+                "summaryZh": "安瑟尔谟在 Monologion chapters 1-4 on supreme nature 中提供该命题的原典定位，用于支撑“核心命题一：信仰如何寻求理解？”这一解释。",
+                "source": {
+                  "workId": "anselm-primary-work",
+                  "locator": "Monologion chapters 1-4 on supreme nature",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "anselm:claim:002",
+            "titleZh": "核心命题二：信仰如何寻求理解？",
+            "claimZh": "安瑟尔谟在“信仰如何寻求理解？”中进一步推出实践、制度或认识论后果。",
+            "explanationZh": "该命题把概念论证推进到可比较的问题谱系，避免只停留在术语解释。",
+            "themeIds": [
+              "religion",
+              "knowledge"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "anselm:evidence:003",
+                "titleZh": "核心命题二：信仰如何寻求理解？的文本依据",
+                "summaryZh": "安瑟尔谟在 Proslogion proemium and chapter 1 on faith seeking understanding 中提供该命题的原典定位，用于支撑“核心命题二：信仰如何寻求理解？”这一解释。",
+                "source": {
+                  "workId": "anselm-primary-work",
+                  "locator": "Proslogion proemium and chapter 1 on faith seeking understanding",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "anselm:evidence:004",
+                "titleZh": "核心命题二：信仰如何寻求理解？的文本依据",
+                "summaryZh": "安瑟尔谟在 Monologion chapters 1-4 on supreme nature 中提供该命题的原典定位，用于支撑“核心命题二：信仰如何寻求理解？”这一解释。",
+                "source": {
+                  "workId": "anselm-primary-work",
+                  "locator": "Monologion chapters 1-4 on supreme nature",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "anselm:problem:002",
+        "titleZh": "本体论论证证明了什么？",
+        "questionZh": "安瑟尔谟如何围绕“本体论论证证明了什么？”建立其思想问题？",
+        "summaryZh": "安瑟尔谟在这一问题上形成了可辨认的论证路径，连接文本命题、概念区分和后世问题谱系。",
+        "themeIds": [
+          "metaphysics",
+          "religion"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "anselm:claim:003",
+            "titleZh": "核心命题一：本体论论证证明了什么？",
+            "claimZh": "安瑟尔谟在“本体论论证证明了什么？”中提出基础性立场，说明其理论问题的出发点。",
+            "explanationZh": "该命题概括其原典中反复出现的论证方向，并为本问题的后续分支提供基础。",
+            "themeIds": [
+              "metaphysics",
+              "religion"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "anselm:evidence:005",
+                "titleZh": "核心命题一：本体论论证证明了什么？的文本依据",
+                "summaryZh": "安瑟尔谟在 Proslogion chapter 2 on that than which nothing greater can be conceived 中提供该命题的原典定位，用于支撑“核心命题一：本体论论证证明了什么？”这一解释。",
+                "source": {
+                  "workId": "anselm-primary-work",
+                  "locator": "Proslogion chapter 2 on that than which nothing greater can be conceived",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "anselm:evidence:006",
+                "titleZh": "核心命题一：本体论论证证明了什么？的文本依据",
+                "summaryZh": "安瑟尔谟在 Proslogion chapter 3 on necessary existence 中提供该命题的原典定位，用于支撑“核心命题一：本体论论证证明了什么？”这一解释。",
+                "source": {
+                  "workId": "anselm-primary-work",
+                  "locator": "Proslogion chapter 3 on necessary existence",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "anselm:claim:004",
+            "titleZh": "核心命题二：本体论论证证明了什么？",
+            "claimZh": "安瑟尔谟在“本体论论证证明了什么？”中进一步推出实践、制度或认识论后果。",
+            "explanationZh": "该命题把概念论证推进到可比较的问题谱系，避免只停留在术语解释。",
+            "themeIds": [
+              "metaphysics",
+              "religion"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "anselm:evidence:007",
+                "titleZh": "核心命题二：本体论论证证明了什么？的文本依据",
+                "summaryZh": "安瑟尔谟在 Proslogion chapter 2 on that than which nothing greater can be conceived 中提供该命题的原典定位，用于支撑“核心命题二：本体论论证证明了什么？”这一解释。",
+                "source": {
+                  "workId": "anselm-primary-work",
+                  "locator": "Proslogion chapter 2 on that than which nothing greater can be conceived",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "anselm:evidence:008",
+                "titleZh": "核心命题二：本体论论证证明了什么？的文本依据",
+                "summaryZh": "安瑟尔谟在 Proslogion chapter 3 on necessary existence 中提供该命题的原典定位，用于支撑“核心命题二：本体论论证证明了什么？”这一解释。",
+                "source": {
+                  "workId": "anselm-primary-work",
+                  "locator": "Proslogion chapter 3 on necessary existence",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "anselm:problem:003",
+        "titleZh": "补赎如何连接正义与怜悯？",
+        "questionZh": "安瑟尔谟如何围绕“补赎如何连接正义与怜悯？”建立其思想问题？",
+        "summaryZh": "安瑟尔谟在这一问题上形成了可辨认的论证路径，连接文本命题、概念区分和后世问题谱系。",
+        "themeIds": [
+          "ethics",
+          "politics"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "anselm:claim:005",
+            "titleZh": "核心命题一：补赎如何连接正义与怜悯？",
+            "claimZh": "安瑟尔谟在“补赎如何连接正义与怜悯？”中提出基础性立场，说明其理论问题的出发点。",
+            "explanationZh": "该命题概括其原典中反复出现的论证方向，并为本问题的后续分支提供基础。",
+            "themeIds": [
+              "ethics",
+              "politics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "anselm:evidence:009",
+                "titleZh": "核心命题一：补赎如何连接正义与怜悯？的文本依据",
+                "summaryZh": "安瑟尔谟在 Cur Deus Homo I.11-15 on sin as debt of honor 中提供该命题的原典定位，用于支撑“核心命题一：补赎如何连接正义与怜悯？”这一解释。",
+                "source": {
+                  "workId": "anselm-primary-work",
+                  "locator": "Cur Deus Homo I.11-15 on sin as debt of honor",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "anselm:evidence:010",
+                "titleZh": "核心命题一：补赎如何连接正义与怜悯？的文本依据",
+                "summaryZh": "安瑟尔谟在 Cur Deus Homo II.6-8 on why the God-man is necessary 中提供该命题的原典定位，用于支撑“核心命题一：补赎如何连接正义与怜悯？”这一解释。",
+                "source": {
+                  "workId": "anselm-primary-work",
+                  "locator": "Cur Deus Homo II.6-8 on why the God-man is necessary",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "anselm:claim:006",
+            "titleZh": "核心命题二：补赎如何连接正义与怜悯？",
+            "claimZh": "安瑟尔谟在“补赎如何连接正义与怜悯？”中进一步推出实践、制度或认识论后果。",
+            "explanationZh": "该命题把概念论证推进到可比较的问题谱系，避免只停留在术语解释。",
+            "themeIds": [
+              "ethics",
+              "politics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "anselm:evidence:011",
+                "titleZh": "核心命题二：补赎如何连接正义与怜悯？的文本依据",
+                "summaryZh": "安瑟尔谟在 Cur Deus Homo I.11-15 on sin as debt of honor 中提供该命题的原典定位，用于支撑“核心命题二：补赎如何连接正义与怜悯？”这一解释。",
+                "source": {
+                  "workId": "anselm-primary-work",
+                  "locator": "Cur Deus Homo I.11-15 on sin as debt of honor",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "anselm:evidence:012",
+                "titleZh": "核心命题二：补赎如何连接正义与怜悯？的文本依据",
+                "summaryZh": "安瑟尔谟在 Cur Deus Homo II.6-8 on why the God-man is necessary 中提供该命题的原典定位，用于支撑“核心命题二：补赎如何连接正义与怜悯？”这一解释。",
+                "source": {
+                  "workId": "anselm-primary-work",
+                  "locator": "Cur Deus Homo II.6-8 on why the God-man is necessary",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
 }

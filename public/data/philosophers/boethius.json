@@ -5,9 +5,9 @@
     "en": "Boethius"
   },
   "life": {
-    "display": "477—524",
     "birth": 477,
-    "death": 524
+    "death": 524,
+    "display": "477—524"
   },
   "civilization": "latin_christian",
   "traditions": [
@@ -38,5 +38,246 @@
       "label": "draft",
       "noteZh": "条目需要人工核对作品、年代和概念表述。"
     }
-  ]
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "boethius:problem:001",
+        "titleZh": "不幸如何转化为哲学治疗？",
+        "questionZh": "波爱修斯如何围绕“不幸如何转化为哲学治疗？”建立其思想问题？",
+        "summaryZh": "波爱修斯在这一问题上形成了可辨认的论证路径，连接文本命题、概念区分和后世问题谱系。",
+        "themeIds": [
+          "religion",
+          "knowledge"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "boethius:claim:001",
+            "titleZh": "核心命题一：不幸如何转化为哲学治疗？",
+            "claimZh": "波爱修斯在“不幸如何转化为哲学治疗？”中提出基础性立场，说明其理论问题的出发点。",
+            "explanationZh": "该命题概括其原典中反复出现的论证方向，并为本问题的后续分支提供基础。",
+            "themeIds": [
+              "religion",
+              "knowledge"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "boethius:evidence:001",
+                "titleZh": "核心命题一：不幸如何转化为哲学治疗？的文本依据",
+                "summaryZh": "波爱修斯在 Consolatio Philosophiae II prose 1-2 on Fortune's wheel 中提供该命题的原典定位，用于支撑“核心命题一：不幸如何转化为哲学治疗？”这一解释。",
+                "source": {
+                  "workId": "boethius-primary-work",
+                  "locator": "Consolatio Philosophiae II prose 1-2 on Fortune's wheel",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "boethius:evidence:002",
+                "titleZh": "核心命题一：不幸如何转化为哲学治疗？的文本依据",
+                "summaryZh": "波爱修斯在 Consolatio Philosophiae III prose 2-8 on false goods 中提供该命题的原典定位，用于支撑“核心命题一：不幸如何转化为哲学治疗？”这一解释。",
+                "source": {
+                  "workId": "boethius-primary-work",
+                  "locator": "Consolatio Philosophiae III prose 2-8 on false goods",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "boethius:claim:002",
+            "titleZh": "核心命题二：不幸如何转化为哲学治疗？",
+            "claimZh": "波爱修斯在“不幸如何转化为哲学治疗？”中进一步推出实践、制度或认识论后果。",
+            "explanationZh": "该命题把概念论证推进到可比较的问题谱系，避免只停留在术语解释。",
+            "themeIds": [
+              "religion",
+              "knowledge"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "boethius:evidence:003",
+                "titleZh": "核心命题二：不幸如何转化为哲学治疗？的文本依据",
+                "summaryZh": "波爱修斯在 Consolatio Philosophiae II prose 1-2 on Fortune's wheel 中提供该命题的原典定位，用于支撑“核心命题二：不幸如何转化为哲学治疗？”这一解释。",
+                "source": {
+                  "workId": "boethius-primary-work",
+                  "locator": "Consolatio Philosophiae II prose 1-2 on Fortune's wheel",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "boethius:evidence:004",
+                "titleZh": "核心命题二：不幸如何转化为哲学治疗？的文本依据",
+                "summaryZh": "波爱修斯在 Consolatio Philosophiae III prose 2-8 on false goods 中提供该命题的原典定位，用于支撑“核心命题二：不幸如何转化为哲学治疗？”这一解释。",
+                "source": {
+                  "workId": "boethius-primary-work",
+                  "locator": "Consolatio Philosophiae III prose 2-8 on false goods",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "boethius:problem:002",
+        "titleZh": "天意与自由如何相容？",
+        "questionZh": "波爱修斯如何围绕“天意与自由如何相容？”建立其思想问题？",
+        "summaryZh": "波爱修斯在这一问题上形成了可辨认的论证路径，连接文本命题、概念区分和后世问题谱系。",
+        "themeIds": [
+          "metaphysics",
+          "religion"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "boethius:claim:003",
+            "titleZh": "核心命题一：天意与自由如何相容？",
+            "claimZh": "波爱修斯在“天意与自由如何相容？”中提出基础性立场，说明其理论问题的出发点。",
+            "explanationZh": "该命题概括其原典中反复出现的论证方向，并为本问题的后续分支提供基础。",
+            "themeIds": [
+              "metaphysics",
+              "religion"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "boethius:evidence:005",
+                "titleZh": "核心命题一：天意与自由如何相容？的文本依据",
+                "summaryZh": "波爱修斯在 Consolatio Philosophiae V prose 6 on eternity as tota simul 中提供该命题的原典定位，用于支撑“核心命题一：天意与自由如何相容？”这一解释。",
+                "source": {
+                  "workId": "boethius-primary-work",
+                  "locator": "Consolatio Philosophiae V prose 6 on eternity as tota simul",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "boethius:evidence:006",
+                "titleZh": "核心命题一：天意与自由如何相容？的文本依据",
+                "summaryZh": "波爱修斯在 Consolatio Philosophiae V prose 3 on foreknowledge and free will 中提供该命题的原典定位，用于支撑“核心命题一：天意与自由如何相容？”这一解释。",
+                "source": {
+                  "workId": "boethius-primary-work",
+                  "locator": "Consolatio Philosophiae V prose 3 on foreknowledge and free will",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "boethius:claim:004",
+            "titleZh": "核心命题二：天意与自由如何相容？",
+            "claimZh": "波爱修斯在“天意与自由如何相容？”中进一步推出实践、制度或认识论后果。",
+            "explanationZh": "该命题把概念论证推进到可比较的问题谱系，避免只停留在术语解释。",
+            "themeIds": [
+              "metaphysics",
+              "religion"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "boethius:evidence:007",
+                "titleZh": "核心命题二：天意与自由如何相容？的文本依据",
+                "summaryZh": "波爱修斯在 Consolatio Philosophiae V prose 6 on eternity as tota simul 中提供该命题的原典定位，用于支撑“核心命题二：天意与自由如何相容？”这一解释。",
+                "source": {
+                  "workId": "boethius-primary-work",
+                  "locator": "Consolatio Philosophiae V prose 6 on eternity as tota simul",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "boethius:evidence:008",
+                "titleZh": "核心命题二：天意与自由如何相容？的文本依据",
+                "summaryZh": "波爱修斯在 Consolatio Philosophiae V prose 3 on foreknowledge and free will 中提供该命题的原典定位，用于支撑“核心命题二：天意与自由如何相容？”这一解释。",
+                "source": {
+                  "workId": "boethius-primary-work",
+                  "locator": "Consolatio Philosophiae V prose 3 on foreknowledge and free will",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "boethius:problem:003",
+        "titleZh": "理性秩序如何支撑宇宙？",
+        "questionZh": "波爱修斯如何围绕“理性秩序如何支撑宇宙？”建立其思想问题？",
+        "summaryZh": "波爱修斯在这一问题上形成了可辨认的论证路径，连接文本命题、概念区分和后世问题谱系。",
+        "themeIds": [
+          "ethics",
+          "politics"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "boethius:claim:005",
+            "titleZh": "核心命题一：理性秩序如何支撑宇宙？",
+            "claimZh": "波爱修斯在“理性秩序如何支撑宇宙？”中提出基础性立场，说明其理论问题的出发点。",
+            "explanationZh": "该命题概括其原典中反复出现的论证方向，并为本问题的后续分支提供基础。",
+            "themeIds": [
+              "ethics",
+              "politics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "boethius:evidence:009",
+                "titleZh": "核心命题一：理性秩序如何支撑宇宙？的文本依据",
+                "summaryZh": "波爱修斯在 Consolatio Philosophiae III prose 10-12 on happiness and highest good 中提供该命题的原典定位，用于支撑“核心命题一：理性秩序如何支撑宇宙？”这一解释。",
+                "source": {
+                  "workId": "boethius-primary-work",
+                  "locator": "Consolatio Philosophiae III prose 10-12 on happiness and highest good",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "boethius:evidence:010",
+                "titleZh": "核心命题一：理性秩序如何支撑宇宙？的文本依据",
+                "summaryZh": "波爱修斯在 Consolatio Philosophiae IV prose 6 on providence and fate 中提供该命题的原典定位，用于支撑“核心命题一：理性秩序如何支撑宇宙？”这一解释。",
+                "source": {
+                  "workId": "boethius-primary-work",
+                  "locator": "Consolatio Philosophiae IV prose 6 on providence and fate",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "boethius:claim:006",
+            "titleZh": "核心命题二：理性秩序如何支撑宇宙？",
+            "claimZh": "波爱修斯在“理性秩序如何支撑宇宙？”中进一步推出实践、制度或认识论后果。",
+            "explanationZh": "该命题把概念论证推进到可比较的问题谱系，避免只停留在术语解释。",
+            "themeIds": [
+              "ethics",
+              "politics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "boethius:evidence:011",
+                "titleZh": "核心命题二：理性秩序如何支撑宇宙？的文本依据",
+                "summaryZh": "波爱修斯在 Consolatio Philosophiae III prose 10-12 on happiness and highest good 中提供该命题的原典定位，用于支撑“核心命题二：理性秩序如何支撑宇宙？”这一解释。",
+                "source": {
+                  "workId": "boethius-primary-work",
+                  "locator": "Consolatio Philosophiae III prose 10-12 on happiness and highest good",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "boethius:evidence:012",
+                "titleZh": "核心命题二：理性秩序如何支撑宇宙？的文本依据",
+                "summaryZh": "波爱修斯在 Consolatio Philosophiae IV prose 6 on providence and fate 中提供该命题的原典定位，用于支撑“核心命题二：理性秩序如何支撑宇宙？”这一解释。",
+                "source": {
+                  "workId": "boethius-primary-work",
+                  "locator": "Consolatio Philosophiae IV prose 6 on providence and fate",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
 }

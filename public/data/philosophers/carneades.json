@@ -1,0 +1,30 @@
+{
+  "id": "carneades",
+  "names": {"zh": "卡尔涅阿德斯", "en": "Carneades"},
+  "life": {"birth": -214, "death": -129, "display": "约前 214—前 129"},
+  "civilization": "ancient_greek",
+  "traditions": ["academic_skepticism", "ancient_greek_philosophy"],
+  "periods": ["first_release"],
+  "themes": ["knowledge", "ethics", "politics"],
+  "keywordsZh": ["知识", "伦理", "政治"],
+  "oneLineZh": "新学园怀疑主义代表，以反斯多葛知识论、概率性判断和罗马正义演说闻名。",
+  "influenceWeight": 1,
+  "reviewStatus": "draft",
+  "summaryZh": "新学园怀疑主义代表，以反斯多葛知识论、概率性判断和罗马正义演说闻名。本条目以 summary_only 方式整理。",
+  "works": ["carneades-primary-work"],
+  "sourceNotes": [{"label": "primary-dossier", "noteZh": "采用西塞罗《学园派问题》《论神性》、塞克斯都、第欧根尼·拉尔修和现代学园怀疑主义研究。"}, {"label": "excerpt-status", "noteZh": "全部 evidence 使用 summary_only。"}],
+  "thoughtSystem": {"problems": [
+    {"id": "carneades:problem:001", "titleZh": "可把握表象为何不可靠？", "questionZh": "卡尔涅阿德斯如何攻击斯多葛的 katalēptic phantasia，并削弱确定知识标准？", "summaryZh": "他通过相似表象、梦、疯狂和错误知觉等案例，挑战斯多葛关于可靠认知印象的标准。", "themeIds": ["knowledge"], "weight": 3, "claims": [
+      {"id": "carneades:claim:001", "titleZh": "没有不可错认的认知印象", "claimZh": "卡尔涅阿德斯认为任何表象都可能有不可区分的假表象对应，因此不能作为绝对知识标准。", "explanationZh": "这直接攻击斯多葛知识论的基础。", "themeIds": ["knowledge"], "weight": 3, "evidence": [{"id": "carneades:evidence:001", "titleZh": "西塞罗《学园派问题》", "summaryZh": "西塞罗保存新学园对斯多葛可把握表象的系统批评，显示争论集中在知识标准和确信根据。", "source": {"workId": "carneades-primary-work", "locator": "Cicero, Academica II on Carneadean arguments against cognitive impressions", "excerptStatus": "summary_only"}}, {"id": "carneades:evidence:002", "titleZh": "塞克斯都关于学园派", "summaryZh": "塞克斯都记录学园派同斯多葛围绕知识标准的争论，说明怀疑论以反驳确定性为核心策略。", "source": {"workId": "carneades-primary-work", "locator": "Sextus Empiricus, Against the Logicians I on Academic criticism of Stoic epistemology", "excerptStatus": "summary_only"}}]},
+      {"id": "carneades:claim:002", "titleZh": "怀疑论是反教条工具", "claimZh": "卡尔涅阿德斯并非提出另一套确定教义，而是用反论证揭示各种教条的脆弱。", "explanationZh": "这延续学园怀疑主义的苏格拉底式反诘传统。", "themeIds": ["knowledge", "language"], "weight": 2, "evidence": [{"id": "carneades:evidence:003", "titleZh": "正反论证传统", "summaryZh": "古代资料强调卡尔涅阿德斯善于对同一问题作相反论辩，由此训练判断并削弱独断立场及其确定感。", "source": {"workId": "carneades-primary-work", "locator": "Cicero, De Oratore and Academica on Carneades' argumentative practice", "excerptStatus": "summary_only"}}, {"id": "carneades:evidence:004", "titleZh": "现代学园怀疑主义研究", "summaryZh": "研究常把他视为以辩证反驳而非建构体系为核心的怀疑论者，重在检验主张的脆弱处和前提。", "source": {"workId": "carneades-primary-work", "locator": "Modern scholarship on Carneades and Academic skepticism", "excerptStatus": "summary_only"}}]}
+    ]},
+    {"id": "carneades:problem:002", "titleZh": "没有确定知识如何行动？", "questionZh": "卡尔涅阿德斯如何用 pithanon 或可信/可采纳表象回应行动瘫痪问题？", "summaryZh": "他以可信、无反驳、经检验的表象作为实践判断标准，使怀疑主义仍能行动。", "themeIds": ["ethics", "knowledge"], "weight": 3, "claims": [
+      {"id": "carneades:claim:003", "titleZh": "可信表象可指导行动", "claimZh": "卡尔涅阿德斯区分不同强度的可信表象，用以指导实践选择而非保证真理。", "explanationZh": "这让怀疑者在缺少确定性时仍能理性行动。", "themeIds": ["knowledge", "ethics"], "weight": 3, "evidence": [{"id": "carneades:evidence:005", "titleZh": "可信标准", "summaryZh": "塞克斯都和西塞罗保存卡尔涅阿德斯关于 pithanon 的分层说明，用以解释怀疑者如何行动。", "source": {"workId": "carneades-primary-work", "locator": "Sextus, Against the Logicians I.166-189; Cicero, Academica II on the plausible/pithanon", "excerptStatus": "summary_only"}}, {"id": "carneades:evidence:006", "titleZh": "行动标准研究", "summaryZh": "现代研究把 pithanon 视为学园怀疑主义对实践生活的回应，避免悬置判断变成行动瘫痪。", "source": {"workId": "carneades-primary-work", "locator": "Modern scholarship on Carneades' practical criterion", "excerptStatus": "summary_only"}}]},
+      {"id": "carneades:claim:004", "titleZh": "概率性判断不同于教条知识", "claimZh": "可信表象只提供行动许可，不宣称获得不可错的真实把握。", "explanationZh": "这种区分避免怀疑论退回斯多葛式知识标准。", "themeIds": ["knowledge"], "weight": 2, "evidence": [{"id": "carneades:evidence:007", "titleZh": "三层可信性", "summaryZh": "资料区分单纯可信、无反驳可信和经周密检验可信，显示其行动标准具有层级结构和实践尺度。", "source": {"workId": "carneades-primary-work", "locator": "Sextus, Against the Logicians I.174-184 on degrees of plausibility", "excerptStatus": "summary_only"}}, {"id": "carneades:evidence:008", "titleZh": "非教条解释", "summaryZh": "研究强调卡尔涅阿德斯的行动标准不等于新的真理标准，而是有限实践中的可用判断方式。", "source": {"workId": "carneades-primary-work", "locator": "Modern scholarship on non-dogmatic interpretations of Carneades", "excerptStatus": "summary_only"}}]}
+    ]},
+    {"id": "carneades:problem:003", "titleZh": "正义是否只是利益？", "questionZh": "罗马演说中卡尔涅阿德斯为何一天赞美正义、一天反驳正义？", "summaryZh": "卡尔涅阿德斯通过正反演说展示政治道德论证的可争议性，震动罗马精英。", "themeIds": ["justice", "politics"], "weight": 2, "claims": [
+      {"id": "carneades:claim:005", "titleZh": "正反演说暴露道德论证张力", "claimZh": "他在罗马先为正义辩护，再反驳正义，显示自然正义与利益政治之间的冲突。", "explanationZh": "这是一种怀疑论演示，也是修辞和政治哲学事件。", "themeIds": ["justice", "politics"], "weight": 3, "evidence": [{"id": "carneades:evidence:009", "titleZh": "罗马使团演说", "summaryZh": "古代资料记载卡尔涅阿德斯在罗马关于正义作相反演说，展示怀疑论的公共修辞力量和冲击。", "source": {"workId": "carneades-primary-work", "locator": "Lactantius, Divine Institutes V.14-16; Cicero, Republic fragments on Carneades' justice speeches", "excerptStatus": "summary_only"}}, {"id": "carneades:evidence:010", "titleZh": "卡托反应传统", "summaryZh": "传记传统称卡托担心希腊哲学修辞腐蚀罗马青年，反映哲学论辩进入政治教育场域的张力。", "source": {"workId": "carneades-primary-work", "locator": "Plutarch, Cato the Elder 22 on the Athenian embassy and Carneades", "excerptStatus": "summary_only"}}]},
+      {"id": "carneades:claim:006", "titleZh": "怀疑论进入罗马政治文化", "claimZh": "卡尔涅阿德斯把希腊学园怀疑主义带入罗马公共场域，影响西塞罗等人的哲学写作。", "explanationZh": "这使怀疑主义从学院争论进入共和国政治伦理反思。", "themeIds": ["politics", "knowledge"], "weight": 2, "evidence": [{"id": "carneades:evidence:011", "titleZh": "西塞罗的接受", "summaryZh": "西塞罗大量保存并运用新学园怀疑主义论证方式，使卡尔涅阿德斯传统进入拉丁哲学写作。", "source": {"workId": "carneades-primary-work", "locator": "Cicero, Academica and De Natura Deorum as reception of Carneadean method", "excerptStatus": "summary_only"}}, {"id": "carneades:evidence:012", "titleZh": "现代罗马接受研究", "summaryZh": "研究把卡尔涅阿德斯视为希腊哲学进入罗马精英文化的重要节点，连接学园怀疑论与共和辩论。", "source": {"workId": "carneades-primary-work", "locator": "Modern scholarship on Carneades' embassy and Roman reception", "excerptStatus": "summary_only"}}]}
+    ]}
+  ]}
+}

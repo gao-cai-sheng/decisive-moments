@@ -5,9 +5,9 @@
     "en": "Alfred North Whitehead"
   },
   "life": {
-    "display": "1861—1947",
     "birth": 1861,
-    "death": 1947
+    "death": 1947,
+    "display": "1861—1947"
   },
   "civilization": "european_modern",
   "traditions": [
@@ -38,5 +38,182 @@
       "label": "draft",
       "noteZh": "条目需要人工核对作品、年代和概念表述。"
     }
-  ]
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "whitehead:problem:001",
+        "titleZh": "现实为何应理解为过程？",
+        "questionZh": "怀特海如何围绕“现实为何应理解为过程？”建立其思想问题？",
+        "summaryZh": "怀特海反对把实体看成静止基底，提出现实由事件、生成和关系构成。",
+        "themeIds": [
+          "metaphysics",
+          "knowledge"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "whitehead:claim:001",
+            "titleZh": "现实基本单位是实际机缘",
+            "claimZh": "怀特海主张，最终实在不是持存物质实体，而是实际机缘的生成过程和相互摄取。",
+            "explanationZh": "该命题把形而上学从实体本体论转向过程本体论，强调关系和生成优先性。",
+            "themeIds": [
+              "metaphysics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "whitehead:evidence:001",
+                "titleZh": "实际机缘依据",
+                "summaryZh": "《过程与实在》把实际实体称为世界的最终真实事物，并以生成过程说明其存在方式。",
+                "source": {
+                  "workId": "whitehead-primary-work",
+                  "locator": "《过程与实在》第一部第二章关于实际实体/实际机缘",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "whitehead:claim:002",
+            "titleZh": "关系内在于事物构成",
+            "claimZh": "怀特海认为，一个现实事物由其对过去世界的摄取构成，关系不是外加属性。",
+            "explanationZh": "该命题挑战孤立实体观，说明每个现实单元都内含世界历史的选择性继承。",
+            "themeIds": [
+              "metaphysics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "whitehead:evidence:002",
+                "titleZh": "摄取理论依据",
+                "summaryZh": "《过程与实在》通过摄取概念说明现实如何把既有世界纳入自身生成。",
+                "source": {
+                  "workId": "whitehead-primary-work",
+                  "locator": "《过程与实在》第二部关于摄取与合生",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "whitehead:problem:002",
+        "titleZh": "科学自然观为何需要修正？",
+        "questionZh": "怀特海如何围绕“科学自然观为何需要修正？”建立其思想问题？",
+        "summaryZh": "怀特海批判将自然还原为无色无声物质的位置变换，试图重建经验与自然的连续性。",
+        "themeIds": [
+          "knowledge",
+          "metaphysics"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "whitehead:claim:003",
+            "titleZh": "抽象不能替代具体经验",
+            "claimZh": "怀特海主张，科学抽象极有力量，但若把抽象模型误当具体现实，就会产生错置具体性谬误。",
+            "explanationZh": "该命题指出科学哲学风险：方法上的抽象成功不等于本体论上的还原成功。",
+            "themeIds": [
+              "knowledge"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "whitehead:evidence:003",
+                "titleZh": "错置具体性依据",
+                "summaryZh": "《科学与现代世界》批评把抽象结构当作具体事实本身，强调科学概念的限制。",
+                "source": {
+                  "workId": "whitehead-primary-work",
+                  "locator": "《科学与现代世界》第3章关于错置具体性的谬误",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "whitehead:claim:004",
+            "titleZh": "自然包含价值和感受维度",
+            "claimZh": "怀特海认为，自然不是纯粹外在物质集合，经验中的感受和价值应被纳入自然哲学。",
+            "explanationZh": "该命题试图弥合科学世界图景与生活经验之间的裂缝。",
+            "themeIds": [
+              "metaphysics",
+              "aesthetics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "whitehead:evidence:004",
+                "titleZh": "自然价值依据",
+                "summaryZh": "《科学与现代世界》重新安置生命、感受和价值，反对机械自然的封闭图景。",
+                "source": {
+                  "workId": "whitehead-primary-work",
+                  "locator": "《科学与现代世界》第5—6章关于自然、生命与价值",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "whitehead:problem:003",
+        "titleZh": "创造性如何解释新颖性？",
+        "questionZh": "怀特海如何围绕“创造性如何解释新颖性？”建立其思想问题？",
+        "summaryZh": "怀特海以创造性、永恒客体和合生解释世界中秩序、可能性与新事物的出现。",
+        "themeIds": [
+          "metaphysics",
+          "freedom"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "whitehead:claim:005",
+            "titleZh": "创造性是生成范畴",
+            "claimZh": "怀特海主张，创造性不是某个存在者的属性，而是多者成为一者并增加一者的原则。",
+            "explanationZh": "该命题为过程形而上学提供动力范畴，说明现实持续产生新统一。",
+            "themeIds": [
+              "metaphysics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "whitehead:evidence:005",
+                "titleZh": "创造性范畴依据",
+                "summaryZh": "《过程与实在》把创造性列为终极范畴，用以说明现实从多样过去生成新现实。",
+                "source": {
+                  "workId": "whitehead-primary-work",
+                  "locator": "《过程与实在》范畴说明中关于创造性的表述",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "whitehead:claim:006",
+            "titleZh": "可能形式进入具体生成",
+            "claimZh": "怀特海认为，永恒客体作为可能形式进入实际机缘，使世界既有秩序重复也有新颖选择。",
+            "explanationZh": "该命题解释可能性与现实性的联系，避免把新颖性看成无根据偶然。",
+            "themeIds": [
+              "metaphysics",
+              "freedom"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "whitehead:evidence:006",
+                "titleZh": "永恒客体依据",
+                "summaryZh": "《过程与实在》用永恒客体说明形式可能如何在具体生成中获得现实性。",
+                "source": {
+                  "workId": "whitehead-primary-work",
+                  "locator": "《过程与实在》第一部关于永恒客体与具体化",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
 }

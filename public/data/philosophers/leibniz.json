@@ -5,9 +5,9 @@
     "en": "G. W. Leibniz"
   },
   "life": {
-    "display": "1646—1716",
     "birth": 1646,
-    "death": 1716
+    "death": 1716,
+    "display": "1646—1716"
   },
   "civilization": "european_modern",
   "traditions": [
@@ -38,5 +38,246 @@
       "label": "draft",
       "noteZh": "条目需要人工核对作品、年代和概念表述。"
     }
-  ]
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "leibniz:problem:001",
+        "titleZh": "为什么存在的是有秩序世界？",
+        "questionZh": "莱布尼茨如何围绕“为什么存在的是有秩序世界？”建立其思想问题？",
+        "summaryZh": "莱布尼茨在这一问题上形成了可辨认的论证路径，连接文本命题、概念区分和后世问题谱系。",
+        "themeIds": [
+          "knowledge",
+          "metaphysics"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "leibniz:claim:001",
+            "titleZh": "核心命题一：为什么存在的是有秩序世界？",
+            "claimZh": "莱布尼茨在“为什么存在的是有秩序世界？”中提出基础性立场，说明其理论问题的出发点。",
+            "explanationZh": "该命题概括其原典中反复出现的论证方向，并为本问题的后续分支提供基础。",
+            "themeIds": [
+              "knowledge",
+              "metaphysics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "leibniz:evidence:001",
+                "titleZh": "核心命题一：为什么存在的是有秩序世界？的文本依据",
+                "summaryZh": "莱布尼茨在 Monadology sections 31-32 on sufficient reason 中提供该命题的原典定位，用于支撑“核心命题一：为什么存在的是有秩序世界？”这一解释。",
+                "source": {
+                  "workId": "leibniz-primary-work",
+                  "locator": "Monadology sections 31-32 on sufficient reason",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "leibniz:evidence:002",
+                "titleZh": "核心命题一：为什么存在的是有秩序世界？的文本依据",
+                "summaryZh": "莱布尼茨在 Théodicée part I sections 8-10 on best possible world 中提供该命题的原典定位，用于支撑“核心命题一：为什么存在的是有秩序世界？”这一解释。",
+                "source": {
+                  "workId": "leibniz-primary-work",
+                  "locator": "Théodicée part I sections 8-10 on best possible world",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "leibniz:claim:002",
+            "titleZh": "核心命题二：为什么存在的是有秩序世界？",
+            "claimZh": "莱布尼茨在“为什么存在的是有秩序世界？”中进一步推出实践、制度或认识论后果。",
+            "explanationZh": "该命题把概念论证推进到可比较的问题谱系，避免只停留在术语解释。",
+            "themeIds": [
+              "knowledge",
+              "metaphysics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "leibniz:evidence:003",
+                "titleZh": "核心命题二：为什么存在的是有秩序世界？的文本依据",
+                "summaryZh": "莱布尼茨在 Monadology sections 31-32 on sufficient reason 中提供该命题的原典定位，用于支撑“核心命题二：为什么存在的是有秩序世界？”这一解释。",
+                "source": {
+                  "workId": "leibniz-primary-work",
+                  "locator": "Monadology sections 31-32 on sufficient reason",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "leibniz:evidence:004",
+                "titleZh": "核心命题二：为什么存在的是有秩序世界？的文本依据",
+                "summaryZh": "莱布尼茨在 Théodicée part I sections 8-10 on best possible world 中提供该命题的原典定位，用于支撑“核心命题二：为什么存在的是有秩序世界？”这一解释。",
+                "source": {
+                  "workId": "leibniz-primary-work",
+                  "locator": "Théodicée part I sections 8-10 on best possible world",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "leibniz:problem:002",
+        "titleZh": "单子如何构成世界？",
+        "questionZh": "莱布尼茨如何围绕“单子如何构成世界？”建立其思想问题？",
+        "summaryZh": "莱布尼茨在这一问题上形成了可辨认的论证路径，连接文本命题、概念区分和后世问题谱系。",
+        "themeIds": [
+          "freedom",
+          "ethics"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "leibniz:claim:003",
+            "titleZh": "核心命题一：单子如何构成世界？",
+            "claimZh": "莱布尼茨在“单子如何构成世界？”中提出基础性立场，说明其理论问题的出发点。",
+            "explanationZh": "该命题概括其原典中反复出现的论证方向，并为本问题的后续分支提供基础。",
+            "themeIds": [
+              "freedom",
+              "ethics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "leibniz:evidence:005",
+                "titleZh": "核心命题一：单子如何构成世界？的文本依据",
+                "summaryZh": "莱布尼茨在 Monadology sections 1-7 on simple substances 中提供该命题的原典定位，用于支撑“核心命题一：单子如何构成世界？”这一解释。",
+                "source": {
+                  "workId": "leibniz-primary-work",
+                  "locator": "Monadology sections 1-7 on simple substances",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "leibniz:evidence:006",
+                "titleZh": "核心命题一：单子如何构成世界？的文本依据",
+                "summaryZh": "莱布尼茨在 Monadology sections 78-81 on pre-established harmony 中提供该命题的原典定位，用于支撑“核心命题一：单子如何构成世界？”这一解释。",
+                "source": {
+                  "workId": "leibniz-primary-work",
+                  "locator": "Monadology sections 78-81 on pre-established harmony",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "leibniz:claim:004",
+            "titleZh": "核心命题二：单子如何构成世界？",
+            "claimZh": "莱布尼茨在“单子如何构成世界？”中进一步推出实践、制度或认识论后果。",
+            "explanationZh": "该命题把概念论证推进到可比较的问题谱系，避免只停留在术语解释。",
+            "themeIds": [
+              "freedom",
+              "ethics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "leibniz:evidence:007",
+                "titleZh": "核心命题二：单子如何构成世界？的文本依据",
+                "summaryZh": "莱布尼茨在 Monadology sections 1-7 on simple substances 中提供该命题的原典定位，用于支撑“核心命题二：单子如何构成世界？”这一解释。",
+                "source": {
+                  "workId": "leibniz-primary-work",
+                  "locator": "Monadology sections 1-7 on simple substances",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "leibniz:evidence:008",
+                "titleZh": "核心命题二：单子如何构成世界？的文本依据",
+                "summaryZh": "莱布尼茨在 Monadology sections 78-81 on pre-established harmony 中提供该命题的原典定位，用于支撑“核心命题二：单子如何构成世界？”这一解释。",
+                "source": {
+                  "workId": "leibniz-primary-work",
+                  "locator": "Monadology sections 78-81 on pre-established harmony",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "leibniz:problem:003",
+        "titleZh": "真理与概念如何关联？",
+        "questionZh": "莱布尼茨如何围绕“真理与概念如何关联？”建立其思想问题？",
+        "summaryZh": "莱布尼茨在这一问题上形成了可辨认的论证路径，连接文本命题、概念区分和后世问题谱系。",
+        "themeIds": [
+          "politics",
+          "ethics"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "leibniz:claim:005",
+            "titleZh": "核心命题一：真理与概念如何关联？",
+            "claimZh": "莱布尼茨在“真理与概念如何关联？”中提出基础性立场，说明其理论问题的出发点。",
+            "explanationZh": "该命题概括其原典中反复出现的论证方向，并为本问题的后续分支提供基础。",
+            "themeIds": [
+              "politics",
+              "ethics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "leibniz:evidence:009",
+                "titleZh": "核心命题一：真理与概念如何关联？的文本依据",
+                "summaryZh": "莱布尼茨在 Monadology sections 33-36 on truths of reason and fact 中提供该命题的原典定位，用于支撑“核心命题一：真理与概念如何关联？”这一解释。",
+                "source": {
+                  "workId": "leibniz-primary-work",
+                  "locator": "Monadology sections 33-36 on truths of reason and fact",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "leibniz:evidence:010",
+                "titleZh": "核心命题一：真理与概念如何关联？的文本依据",
+                "summaryZh": "莱布尼茨在 Discourse on Metaphysics section 8 on complete concept 中提供该命题的原典定位，用于支撑“核心命题一：真理与概念如何关联？”这一解释。",
+                "source": {
+                  "workId": "leibniz-primary-work",
+                  "locator": "Discourse on Metaphysics section 8 on complete concept",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "leibniz:claim:006",
+            "titleZh": "核心命题二：真理与概念如何关联？",
+            "claimZh": "莱布尼茨在“真理与概念如何关联？”中进一步推出实践、制度或认识论后果。",
+            "explanationZh": "该命题把概念论证推进到可比较的问题谱系，避免只停留在术语解释。",
+            "themeIds": [
+              "politics",
+              "ethics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "leibniz:evidence:011",
+                "titleZh": "核心命题二：真理与概念如何关联？的文本依据",
+                "summaryZh": "莱布尼茨在 Monadology sections 33-36 on truths of reason and fact 中提供该命题的原典定位，用于支撑“核心命题二：真理与概念如何关联？”这一解释。",
+                "source": {
+                  "workId": "leibniz-primary-work",
+                  "locator": "Monadology sections 33-36 on truths of reason and fact",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "leibniz:evidence:012",
+                "titleZh": "核心命题二：真理与概念如何关联？的文本依据",
+                "summaryZh": "莱布尼茨在 Discourse on Metaphysics section 8 on complete concept 中提供该命题的原典定位，用于支撑“核心命题二：真理与概念如何关联？”这一解释。",
+                "source": {
+                  "workId": "leibniz-primary-work",
+                  "locator": "Discourse on Metaphysics section 8 on complete concept",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
 }

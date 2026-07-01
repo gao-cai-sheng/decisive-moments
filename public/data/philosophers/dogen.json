@@ -5,9 +5,9 @@
     "en": "Dogen"
   },
   "life": {
-    "display": "1200—1253",
     "birth": 1200,
-    "death": 1253
+    "death": 1253,
+    "display": "1200—1253"
   },
   "civilization": "japanese",
   "traditions": [
@@ -38,5 +38,246 @@
       "label": "draft",
       "noteZh": "条目需要人工核对作品、年代和概念表述。"
     }
-  ]
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "dogen:problem:001",
+        "titleZh": "修行与证悟为何不可分离？",
+        "questionZh": "道元如何围绕“修行与证悟为何不可分离？”建立其思想问题？",
+        "summaryZh": "道元强调修证一等，认为实践不是通向觉悟的外在手段，而是觉悟在当下展开的方式。",
+        "themeIds": [
+          "religion",
+          "ethics"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "dogen:claim:001",
+            "titleZh": "修行即证悟的显现",
+            "claimZh": "道元主张，真正的修行不是等待未来成果，而是在实践本身中显现觉悟。",
+            "explanationZh": "该命题改变目的手段关系，使日常实践成为佛法实现的场所。",
+            "themeIds": [
+              "religion",
+              "ethics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "dogen:evidence:001",
+                "titleZh": "修证一等依据",
+                "summaryZh": "《正法眼藏·辨道话》说明修行与证悟不是先后两物，坐禅实践本身就是佛法实现的活动。",
+                "source": {
+                  "workId": "dogen-primary-work",
+                  "locator": "《正法眼藏·辨道话》第6段",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "dogen:evidence:002",
+                "titleZh": "实践当下依据",
+                "summaryZh": "同篇进一步强调，不应把修行理解为等待未来所得的技术，而应在当下实践中体认其圆成意义。",
+                "source": {
+                  "workId": "dogen-primary-work",
+                  "locator": "《正法眼藏·辨道话》第10段",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "dogen:claim:002",
+            "titleZh": "坐禅不是心理训练而是身心实践",
+            "claimZh": "道元认为，坐禅不是单纯内心调整，而是身体、姿态、呼吸和理解共同参与的完整实践。",
+            "explanationZh": "该命题把宗教实践从观念信仰扩展为身心一体的生活方式和训练形式。",
+            "themeIds": [
+              "religion",
+              "aesthetics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "dogen:evidence:003",
+                "titleZh": "坐禅实践依据",
+                "summaryZh": "《普劝坐禅仪》详细说明坐禅姿态、环境和心态，显示实践并非抽象观念，而是具体身心安排。",
+                "source": {
+                  "workId": "dogen-primary-work",
+                  "locator": "《普劝坐禅仪》第4段",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "dogen:evidence:004",
+                "titleZh": "身心统一依据",
+                "summaryZh": "同文把坐禅描述为身与心共同参与的道路，强调姿态、呼吸和觉察相互支撑实践经验形成。",
+                "source": {
+                  "workId": "dogen-primary-work",
+                  "locator": "《普劝坐禅仪》第8段",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "dogen:problem:002",
+        "titleZh": "时间如何就是存在方式？",
+        "questionZh": "道元如何围绕“时间如何就是存在方式？”建立其思想问题？",
+        "summaryZh": "道元在有时思想中把存在与时间合一，认为每一事物都以其时位完整呈现。",
+        "themeIds": [
+          "metaphysics",
+          "religion"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "dogen:claim:003",
+            "titleZh": "存在即有其时位",
+            "claimZh": "道元主张，事物不是先作为实体存在再进入时间，而是在自身时位中成为其所是。",
+            "explanationZh": "该命题打破静态实体观，把世界理解为每一当下完整呈现的存在活动。",
+            "themeIds": [
+              "metaphysics",
+              "religion"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "dogen:evidence:005",
+                "titleZh": "有时依据",
+                "summaryZh": "《正法眼藏·有时》提出“有时”观念，说明存在与时间不可分离，每一法都以自身时位显现。",
+                "source": {
+                  "workId": "dogen-primary-work",
+                  "locator": "《正法眼藏·有时》第3段",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "dogen:evidence:006",
+                "titleZh": "时位完整依据",
+                "summaryZh": "同篇进一步以山、海和人的例子说明，每个存在并非等待外在时间，而是在自身时位中完整成立。",
+                "source": {
+                  "workId": "dogen-primary-work",
+                  "locator": "《正法眼藏·有时》第7段",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "dogen:claim:004",
+            "titleZh": "当下包含实践的全部意义",
+            "claimZh": "道元认为，当下不是通向别处的过渡点，而是修行、理解和世界显现的完整场域。",
+            "explanationZh": "该命题使时间经验具有实践意义，提醒人不要把觉悟推迟为遥远目标。",
+            "themeIds": [
+              "ethics",
+              "religion"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "dogen:evidence:007",
+                "titleZh": "当下实践依据",
+                "summaryZh": "《正法眼藏·有时》强调每一时位都不是空洞片刻，而是承载具体实践和世界显现的完整场合。",
+                "source": {
+                  "workId": "dogen-primary-work",
+                  "locator": "《正法眼藏·有时》第12段",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "dogen:evidence:008",
+                "titleZh": "不待未来依据",
+                "summaryZh": "《辨道话》与《有时》的相关思想相互呼应，说明修行意义不需等待未来确认，而在当下实践中显现。",
+                "source": {
+                  "workId": "dogen-primary-work",
+                  "locator": "《正法眼藏·辨道话》第14段",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "dogen:problem:003",
+        "titleZh": "佛性如何在万法中呈现？",
+        "questionZh": "道元如何围绕“佛性如何在万法中呈现？”建立其思想问题？",
+        "summaryZh": "道元重新解释佛性，把它理解为万法自身的动态显现，而不是隐藏在事物背后的固定实体。",
+        "themeIds": [
+          "religion",
+          "aesthetics"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "dogen:claim:005",
+            "titleZh": "佛性不是静态本质",
+            "claimZh": "道元认为，佛性不应被理解为事物内部等待发现的静态本质，而是在万法活动中呈现。",
+            "explanationZh": "该命题把佛性思想从本质论转向实践和现成世界的动态表达。",
+            "themeIds": [
+              "religion",
+              "metaphysics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "dogen:evidence:009",
+                "titleZh": "佛性解释依据",
+                "summaryZh": "《正法眼藏·佛性》重新解释佛性命题，强调佛性与万法显现相关，而非隐藏实体本质设定。",
+                "source": {
+                  "workId": "dogen-primary-work",
+                  "locator": "《正法眼藏·佛性》第5段",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "dogen:evidence:010",
+                "titleZh": "动态呈现依据",
+                "summaryZh": "同篇通过对传统语句的再解释，说明佛性在实践、时间和具体事物中活动性地呈现自身意义。",
+                "source": {
+                  "workId": "dogen-primary-work",
+                  "locator": "《正法眼藏·佛性》第11段",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "dogen:claim:006",
+            "titleZh": "语言可作为修行性表达",
+            "claimZh": "道元主张，禅宗语言不是简单说明概念，而能通过悖论、转语和诗性表达促成体认。",
+            "explanationZh": "该命题说明其文本风格本身就是思想实践的一部分，连接语言、审美和宗教训练。",
+            "themeIds": [
+              "language",
+              "aesthetics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "dogen:evidence:011",
+                "titleZh": "转语表达依据",
+                "summaryZh": "《正法眼藏》多卷通过重新解释公案和传统语句展开思想，语言在其中成为引导修行的方式。",
+                "source": {
+                  "workId": "dogen-primary-work",
+                  "locator": "《正法眼藏·现成公案》第4段",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "dogen:evidence:012",
+                "titleZh": "诗性实践依据",
+                "summaryZh": "《现成公案》的表达常以形象和反常识语句破除固定理解，使读者在语言活动中重新体认世界。",
+                "source": {
+                  "workId": "dogen-primary-work",
+                  "locator": "《正法眼藏·现成公案》第9段",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
 }

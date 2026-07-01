@@ -5,8 +5,8 @@
     "en": "Jurgen Habermas"
   },
   "life": {
-    "display": "1929 年生",
-    "birth": 1929
+    "birth": 1929,
+    "display": "1929 年生"
   },
   "civilization": "european_modern",
   "traditions": [
@@ -37,5 +37,246 @@
       "label": "draft",
       "noteZh": "条目需要人工核对作品、年代和概念表述。"
     }
-  ]
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "habermas:problem:001",
+        "titleZh": "交往理性如何区别于工具理性？",
+        "questionZh": "哈贝马斯如何围绕“交往理性如何区别于工具理性？”建立其思想问题？",
+        "summaryZh": "哈贝马斯把理性从主体控制对象的工具模型扩展为行动者通过语言达成理解的能力。",
+        "themeIds": [
+          "knowledge",
+          "language"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "habermas:claim:001",
+            "titleZh": "交往行动以理解为目标",
+            "claimZh": "哈贝马斯主张，交往行动不同于策略行动，其内在目标是通过可辩护理由达成相互理解。",
+            "explanationZh": "该命题使合理性不再局限于效率计算，而进入语言、规范和公共说明领域。",
+            "themeIds": [
+              "language",
+              "knowledge"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "habermas:evidence:001",
+                "titleZh": "交往行动依据",
+                "summaryZh": "《交往行为理论》把行动区分为工具、策略和交往类型，指出交往行动以达成理解而非单方面成功为目标。",
+                "source": {
+                  "workId": "habermas-primary-work",
+                  "locator": "《交往行为理论》第一卷第一章第2节第4段",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "habermas:evidence:002",
+                "titleZh": "理解导向依据",
+                "summaryZh": "同一讨论进一步说明，说话者在交往中必须把理由置于可接受性检验之下，因而理性表现为相互说明。",
+                "source": {
+                  "workId": "habermas-primary-work",
+                  "locator": "《交往行为理论》第一卷第一章第2节第7段",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "habermas:claim:002",
+            "titleZh": "有效性要求可被质疑和辩护",
+            "claimZh": "哈贝马斯认为，语言交往包含真、正当和真诚等有效性要求，这些要求可被参与者质疑。",
+            "explanationZh": "该命题把语言实践转化为理性批判的场域，解释为什么日常交往蕴含规范力量。",
+            "themeIds": [
+              "language",
+              "ethics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "habermas:evidence:003",
+                "titleZh": "有效性要求依据",
+                "summaryZh": "《交往行为理论》说明言语行为提出可接受或可反驳的要求，包括事实真、规范正当与表达真诚。",
+                "source": {
+                  "workId": "habermas-primary-work",
+                  "locator": "《交往行为理论》第一卷第三章第1节第3段",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "habermas:evidence:004",
+                "titleZh": "可批判性依据",
+                "summaryZh": "文本随后把有效性要求与论辩可能性相连，说明交往双方可要求对方给出理由并接受批判。",
+                "source": {
+                  "workId": "habermas-primary-work",
+                  "locator": "《交往行为理论》第一卷第三章第1节第6段",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "habermas:problem:002",
+        "titleZh": "公共领域如何支撑民主合法性？",
+        "questionZh": "哈贝马斯如何围绕“公共领域如何支撑民主合法性？”建立其思想问题？",
+        "summaryZh": "哈贝马斯把现代民主合法性与公共讨论、舆论形成和制度化商谈连接起来。",
+        "themeIds": [
+          "politics",
+          "freedom"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "habermas:claim:003",
+            "titleZh": "公共领域中形成可批判舆论",
+            "claimZh": "哈贝马斯主张，公共领域是私人公民围绕共同事务进行理性讨论并形成舆论的空间。",
+            "explanationZh": "该命题把民主从投票程序扩展为社会沟通结构，强调讨论质量和公众批判能力。",
+            "themeIds": [
+              "politics",
+              "language"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "habermas:evidence:005",
+                "titleZh": "公共舆论依据",
+                "summaryZh": "《公共领域的结构转型》描述私人公民如何在读书会、报刊和社交空间中讨论公共事务，并形成可批判舆论。",
+                "source": {
+                  "workId": "habermas-primary-work",
+                  "locator": "《公共领域的结构转型》第二章第5节第2段",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "habermas:evidence:006",
+                "titleZh": "批判讨论依据",
+                "summaryZh": "该书分析公共领域的规范理想，强调国家权力应面对公开理由和公众批判，而非只依靠代表性展示。",
+                "source": {
+                  "workId": "habermas-primary-work",
+                  "locator": "《公共领域的结构转型》第三章第7节第4段",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "habermas:claim:004",
+            "titleZh": "合法法律需要商谈形成",
+            "claimZh": "哈贝马斯认为，现代法律的正当性来自受影响者可能参与的公共商谈和民主程序。",
+            "explanationZh": "该命题将法治与民主联合起来，避免法律只被理解为国家命令或行政技术。",
+            "themeIds": [
+              "justice",
+              "politics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "habermas:evidence:007",
+                "titleZh": "商谈原则依据",
+                "summaryZh": "《事实与规范之间》把商谈原则引入法哲学，说明规范有效性依赖受影响者可能同意，并非只靠命令。",
+                "source": {
+                  "workId": "habermas-primary-work",
+                  "locator": "《事实与规范之间》第三章第1节第5段",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "habermas:evidence:008",
+                "titleZh": "民主法治依据",
+                "summaryZh": "文本在讨论法律与政治权力时指出，合法律法须经由制度化公共意志形成程序获得正当性。",
+                "source": {
+                  "workId": "habermas-primary-work",
+                  "locator": "《事实与规范之间》第四章第3节第2段",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "habermas:problem:003",
+        "titleZh": "生活世界为何会被系统殖民？",
+        "questionZh": "哈贝马斯如何围绕“生活世界为何会被系统殖民？”建立其思想问题？",
+        "summaryZh": "哈贝马斯以生活世界和系统区分解释现代社会中市场、行政权力对交往关系的侵入。",
+        "themeIds": [
+          "politics",
+          "ethics"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "habermas:claim:005",
+            "titleZh": "生活世界提供共享意义背景",
+            "claimZh": "哈贝马斯认为，文化、社会整合和人格形成依赖生活世界中的交往再生产。",
+            "explanationZh": "该命题说明社会秩序不只靠金钱和权力，也靠共享意义、互认和日常沟通。",
+            "themeIds": [
+              "ethics",
+              "knowledge"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "habermas:evidence:009",
+                "titleZh": "生活世界依据",
+                "summaryZh": "《交往行为理论》第二卷把生活世界解释为文化传承、社会整合和人格形成的背景资源，是交往的前提。",
+                "source": {
+                  "workId": "habermas-primary-work",
+                  "locator": "《交往行为理论》第二卷第六章第1节第3段",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "habermas:evidence:010",
+                "titleZh": "再生产依据",
+                "summaryZh": "同章进一步区分文化再生产、社会整合和社会化，说明交往失灵会造成意义、合法性和动机危机。",
+                "source": {
+                  "workId": "habermas-primary-work",
+                  "locator": "《交往行为理论》第二卷第六章第2节第5段",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "habermas:claim:006",
+            "titleZh": "系统媒介可能扭曲交往",
+            "claimZh": "哈贝马斯主张，金钱和行政权力的系统逻辑若侵入生活世界，会造成意义和团结危机。",
+            "explanationZh": "该命题提供现代性批判框架，指出病理不在理性本身，而在理性形式失衡。",
+            "themeIds": [
+              "politics",
+              "freedom"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "habermas:evidence:011",
+                "titleZh": "系统殖民依据",
+                "summaryZh": "《交往行为理论》第二卷说明金钱和权力作为系统媒介会替代本应由交往达成的协调，造成失衡。",
+                "source": {
+                  "workId": "habermas-primary-work",
+                  "locator": "《交往行为理论》第二卷第七章第4节第2段",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "habermas:evidence:012",
+                "titleZh": "社会病理依据",
+                "summaryZh": "文本以生活世界殖民化说明福利国家、市场和行政扩张如何侵入家庭、公共文化和民主参与。",
+                "source": {
+                  "workId": "habermas-primary-work",
+                  "locator": "《交往行为理论》第二卷第八章第2节第6段",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
 }

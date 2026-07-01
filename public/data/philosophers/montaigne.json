@@ -5,9 +5,9 @@
     "en": "Michel de Montaigne"
   },
   "life": {
-    "display": "1533—1592",
     "birth": 1533,
-    "death": 1592
+    "death": 1592,
+    "display": "1533—1592"
   },
   "civilization": "european_modern",
   "traditions": [
@@ -38,5 +38,246 @@
       "label": "draft",
       "noteZh": "条目需要人工核对作品、年代和概念表述。"
     }
-  ]
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "montaigne:problem:001",
+        "titleZh": "怀疑如何成为生活方式？",
+        "questionZh": "蒙田如何围绕“怀疑如何成为生活方式？”建立其思想问题？",
+        "summaryZh": "蒙田在这一问题上形成了可辨认的论证路径，连接文本命题、概念区分和后世问题谱系。",
+        "themeIds": [
+          "knowledge",
+          "metaphysics"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "montaigne:claim:001",
+            "titleZh": "核心命题一：怀疑如何成为生活方式？",
+            "claimZh": "蒙田在“怀疑如何成为生活方式？”中提出基础性立场，说明其理论问题的出发点。",
+            "explanationZh": "该命题概括其原典中反复出现的论证方向，并为本问题的后续分支提供基础。",
+            "themeIds": [
+              "knowledge",
+              "metaphysics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "montaigne:evidence:001",
+                "titleZh": "核心命题一：怀疑如何成为生活方式？的文本依据",
+                "summaryZh": "蒙田在 Essais II.12 Apologie de Raymond Sebond on human weakness 中提供该命题的原典定位，用于支撑“核心命题一：怀疑如何成为生活方式？”这一解释。",
+                "source": {
+                  "workId": "montaigne-primary-work",
+                  "locator": "Essais II.12 Apologie de Raymond Sebond on human weakness",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "montaigne:evidence:002",
+                "titleZh": "核心命题一：怀疑如何成为生活方式？的文本依据",
+                "summaryZh": "蒙田在 Essais I.31 Des cannibales on custom and barbarism 中提供该命题的原典定位，用于支撑“核心命题一：怀疑如何成为生活方式？”这一解释。",
+                "source": {
+                  "workId": "montaigne-primary-work",
+                  "locator": "Essais I.31 Des cannibales on custom and barbarism",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "montaigne:claim:002",
+            "titleZh": "核心命题二：怀疑如何成为生活方式？",
+            "claimZh": "蒙田在“怀疑如何成为生活方式？”中进一步推出实践、制度或认识论后果。",
+            "explanationZh": "该命题把概念论证推进到可比较的问题谱系，避免只停留在术语解释。",
+            "themeIds": [
+              "knowledge",
+              "metaphysics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "montaigne:evidence:003",
+                "titleZh": "核心命题二：怀疑如何成为生活方式？的文本依据",
+                "summaryZh": "蒙田在 Essais II.12 Apologie de Raymond Sebond on human weakness 中提供该命题的原典定位，用于支撑“核心命题二：怀疑如何成为生活方式？”这一解释。",
+                "source": {
+                  "workId": "montaigne-primary-work",
+                  "locator": "Essais II.12 Apologie de Raymond Sebond on human weakness",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "montaigne:evidence:004",
+                "titleZh": "核心命题二：怀疑如何成为生活方式？的文本依据",
+                "summaryZh": "蒙田在 Essais I.31 Des cannibales on custom and barbarism 中提供该命题的原典定位，用于支撑“核心命题二：怀疑如何成为生活方式？”这一解释。",
+                "source": {
+                  "workId": "montaigne-primary-work",
+                  "locator": "Essais I.31 Des cannibales on custom and barbarism",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "montaigne:problem:002",
+        "titleZh": "自我书写能否产生知识？",
+        "questionZh": "蒙田如何围绕“自我书写能否产生知识？”建立其思想问题？",
+        "summaryZh": "蒙田在这一问题上形成了可辨认的论证路径，连接文本命题、概念区分和后世问题谱系。",
+        "themeIds": [
+          "freedom",
+          "ethics"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "montaigne:claim:003",
+            "titleZh": "核心命题一：自我书写能否产生知识？",
+            "claimZh": "蒙田在“自我书写能否产生知识？”中提出基础性立场，说明其理论问题的出发点。",
+            "explanationZh": "该命题概括其原典中反复出现的论证方向，并为本问题的后续分支提供基础。",
+            "themeIds": [
+              "freedom",
+              "ethics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "montaigne:evidence:005",
+                "titleZh": "核心命题一：自我书写能否产生知识？的文本依据",
+                "summaryZh": "蒙田在 Essais Au lecteur on self as matter of the book 中提供该命题的原典定位，用于支撑“核心命题一：自我书写能否产生知识？”这一解释。",
+                "source": {
+                  "workId": "montaigne-primary-work",
+                  "locator": "Essais Au lecteur on self as matter of the book",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "montaigne:evidence:006",
+                "titleZh": "核心命题一：自我书写能否产生知识？的文本依据",
+                "summaryZh": "蒙田在 Essais III.2 Du repentir on painting passage 中提供该命题的原典定位，用于支撑“核心命题一：自我书写能否产生知识？”这一解释。",
+                "source": {
+                  "workId": "montaigne-primary-work",
+                  "locator": "Essais III.2 Du repentir on painting passage",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "montaigne:claim:004",
+            "titleZh": "核心命题二：自我书写能否产生知识？",
+            "claimZh": "蒙田在“自我书写能否产生知识？”中进一步推出实践、制度或认识论后果。",
+            "explanationZh": "该命题把概念论证推进到可比较的问题谱系，避免只停留在术语解释。",
+            "themeIds": [
+              "freedom",
+              "ethics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "montaigne:evidence:007",
+                "titleZh": "核心命题二：自我书写能否产生知识？的文本依据",
+                "summaryZh": "蒙田在 Essais Au lecteur on self as matter of the book 中提供该命题的原典定位，用于支撑“核心命题二：自我书写能否产生知识？”这一解释。",
+                "source": {
+                  "workId": "montaigne-primary-work",
+                  "locator": "Essais Au lecteur on self as matter of the book",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "montaigne:evidence:008",
+                "titleZh": "核心命题二：自我书写能否产生知识？的文本依据",
+                "summaryZh": "蒙田在 Essais III.2 Du repentir on painting passage 中提供该命题的原典定位，用于支撑“核心命题二：自我书写能否产生知识？”这一解释。",
+                "source": {
+                  "workId": "montaigne-primary-work",
+                  "locator": "Essais III.2 Du repentir on painting passage",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "montaigne:problem:003",
+        "titleZh": "宽容如何来自认识谦卑？",
+        "questionZh": "蒙田如何围绕“宽容如何来自认识谦卑？”建立其思想问题？",
+        "summaryZh": "蒙田在这一问题上形成了可辨认的论证路径，连接文本命题、概念区分和后世问题谱系。",
+        "themeIds": [
+          "politics",
+          "ethics"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "montaigne:claim:005",
+            "titleZh": "核心命题一：宽容如何来自认识谦卑？",
+            "claimZh": "蒙田在“宽容如何来自认识谦卑？”中提出基础性立场，说明其理论问题的出发点。",
+            "explanationZh": "该命题概括其原典中反复出现的论证方向，并为本问题的后续分支提供基础。",
+            "themeIds": [
+              "politics",
+              "ethics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "montaigne:evidence:009",
+                "titleZh": "核心命题一：宽容如何来自认识谦卑？的文本依据",
+                "summaryZh": "蒙田在 Essais III.11 Des boiteux on witch trials and credulity 中提供该命题的原典定位，用于支撑“核心命题一：宽容如何来自认识谦卑？”这一解释。",
+                "source": {
+                  "workId": "montaigne-primary-work",
+                  "locator": "Essais III.11 Des boiteux on witch trials and credulity",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "montaigne:evidence:010",
+                "titleZh": "核心命题一：宽容如何来自认识谦卑？的文本依据",
+                "summaryZh": "蒙田在 Essais II.11 De la cruauté on cruelty 中提供该命题的原典定位，用于支撑“核心命题一：宽容如何来自认识谦卑？”这一解释。",
+                "source": {
+                  "workId": "montaigne-primary-work",
+                  "locator": "Essais II.11 De la cruauté on cruelty",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "montaigne:claim:006",
+            "titleZh": "核心命题二：宽容如何来自认识谦卑？",
+            "claimZh": "蒙田在“宽容如何来自认识谦卑？”中进一步推出实践、制度或认识论后果。",
+            "explanationZh": "该命题把概念论证推进到可比较的问题谱系，避免只停留在术语解释。",
+            "themeIds": [
+              "politics",
+              "ethics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "montaigne:evidence:011",
+                "titleZh": "核心命题二：宽容如何来自认识谦卑？的文本依据",
+                "summaryZh": "蒙田在 Essais III.11 Des boiteux on witch trials and credulity 中提供该命题的原典定位，用于支撑“核心命题二：宽容如何来自认识谦卑？”这一解释。",
+                "source": {
+                  "workId": "montaigne-primary-work",
+                  "locator": "Essais III.11 Des boiteux on witch trials and credulity",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "montaigne:evidence:012",
+                "titleZh": "核心命题二：宽容如何来自认识谦卑？的文本依据",
+                "summaryZh": "蒙田在 Essais II.11 De la cruauté on cruelty 中提供该命题的原典定位，用于支撑“核心命题二：宽容如何来自认识谦卑？”这一解释。",
+                "source": {
+                  "workId": "montaigne-primary-work",
+                  "locator": "Essais II.11 De la cruauté on cruelty",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
 }

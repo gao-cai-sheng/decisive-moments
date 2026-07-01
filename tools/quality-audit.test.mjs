@@ -2,7 +2,7 @@ import fs from "node:fs";
 import os from "node:os";
 import path from "node:path";
 import { describe, expect, it } from "vitest";
-import { auditPhilosopher, runAudit, jaccardChars } from "./quality-audit.mjs";
+import { auditPhilosopher, runAudit, runAuditBatch, shouldFail, jaccardChars } from "./quality-audit.mjs";
 
 const worksById = new Map([
   ["sage-work", { id: "sage-work", philosopherId: "sage" }],
@@ -14,7 +14,8 @@ function ev(over = {}) {
   return {
     id: over.id || "sage:evidence:001",
     titleZh: "证据标题",
-    summaryZh: over.summaryZh ?? "这是一段足够长的证据概括，超过二十字以满足最小长度要求。",
+    // 默认 summaryZh 达到标准档（>=40 字），干净数据不触发 summary_thin
+    summaryZh: over.summaryZh ?? "这是一段足够长的证据概括文字，长度超过四十个汉字，用以满足标准档的厚度目标而不触发偏薄告警。",
     source: {
       workId: "sage-work",
       locator: "第一章：开篇段",
@@ -24,14 +25,16 @@ function ev(over = {}) {
   };
 }
 function claim(over = {}) {
+  const cid = over.id || "sage:claim:001";
   return {
-    id: over.id || "sage:claim:001",
+    id: cid,
     titleZh: over.titleZh || "主张甲",
     claimZh: over.claimZh || "智慧来自对经验的反复省察与提炼。",
     explanationZh: "这是一段足够长的解释文字，用于满足最小长度的硬性要求。",
     themeIds: over.themeIds || ["ethics"],
     weight: over.weight ?? 2,
-    evidence: over.evidence || [ev()],
+    // 默认每 claim 挂 2 条 evidence（标准档），干净数据不触发 thin_evidence
+    evidence: over.evidence || [ev({ id: `${cid}:e1` }), ev({ id: `${cid}:e2` })],
   };
 }
 function problem(over = {}) {
@@ -189,6 +192,28 @@ describe("quality-audit：每类问题都必须被抓到", () => {
     const d = philosopher([p, problem({ id: "sage:problem:002" }), problem({ id: "sage:problem:003" })]);
     expect(codes(d)).toContain("missing_locator");
   });
+
+  it("thin_evidence（claim 仅 1 evidence，过 RED 底线但低于标准档）", () => {
+    const p = problem({
+      id: "sage:problem:001",
+      claims: [claim({ id: "c1", titleZh: "甲", weight: 2, evidence: [ev({ id: "e1" })] }),
+               claim({ id: "c2", titleZh: "乙", weight: 1, evidence: [ev({ id: "e2" })] })],
+    });
+    const d = philosopher([p, problem({ id: "sage:problem:002" }), problem({ id: "sage:problem:003" })]);
+    const cs = codes(d);
+    expect(cs).toContain("thin_evidence");     // 每 claim 仅 1 条 → YELLOW
+    expect(cs).not.toContain("evidence_lt_2"); // 问题合计 2 条 → 不触发 RED 底线
+  });
+
+  it("summary_thin（summaryZh 介于 20 与 40 之间 → YELLOW 而非 RED）", () => {
+    const p = problem({ id: "sage:problem:001",
+      claims: [claim({ id: "c1", titleZh: "甲", weight: 2, evidence: [ev({ id: "e1", summaryZh: "刚好超过二十字但不足四十字的偏薄概括文字。" }), ev({ id: "e2" })] }),
+               claim({ id: "c2", titleZh: "乙", weight: 1 })] });
+    const d = philosopher([p, problem({ id: "sage:problem:002" }), problem({ id: "sage:problem:003" })]);
+    const cs = codes(d);
+    expect(cs).toContain("summary_thin");
+    expect(cs).not.toContain("summary_too_short");
+  });
 });
 
 describe("runAudit：整目录扫描与分级", () => {
@@ -210,5 +235,76 @@ describe("runAudit：整目录扫描与分级", () => {
     expect(r.redByCode.problems_lt_3).toBeGreaterThanOrEqual(1);
     // themes.json 里 metaphysics 没人用 → 应被标无人覆盖
     expect(r.uncoveredThemes).toContain("metaphysics");
+    // 逐字原文欠债：两位哲人的 evidence 全为 summary_only → excerptDebt 与分布应统计到
+    expect(r.totals.excerptDebt).toBeGreaterThan(0);
+    expect(r.excerptStatusCount.summary_only).toBe(r.totals.excerptDebt);
+  });
+});
+
+describe("shouldFail：写前门退出决策", () => {
+  const mk = (red, yellowCodes = []) => ({
+    totals: { red, yellow: yellowCodes.length },
+    findings: yellowCodes.map((code) => ({ pid: "x", sev: "YELLOW", code })),
+  });
+
+  it("有 RED → 任何模式都失败", () => {
+    const r = mk(1);
+    expect(shouldFail(r, {})).toBe(true);
+    expect(shouldFail(r, { requireStandard: true })).toBe(true);
+  });
+  it("干净 → 都通过", () => {
+    const r = mk(0);
+    expect(shouldFail(r, {})).toBe(false);
+    expect(shouldFail(r, { strict: true })).toBe(false);
+    expect(shouldFail(r, { requireStandard: true })).toBe(false);
+  });
+  it("仅标准档 YELLOW：默认过，--require-standard 阻断", () => {
+    const r = mk(0, ["thin_evidence", "summary_thin"]);
+    expect(shouldFail(r, {})).toBe(false);
+    expect(shouldFail(r, { requireStandard: true })).toBe(true);
+    expect(shouldFail(r, { strict: true })).toBe(true);
+  });
+  it("weight_uniform 也算标准档阻断项", () => {
+    expect(shouldFail(mk(0, ["weight_uniform"]), { requireStandard: true })).toBe(true);
+  });
+  it("非标准档 YELLOW（如 vague_locator）不被 --require-standard 阻断", () => {
+    expect(shouldFail(mk(0, ["vague_locator"]), { requireStandard: true })).toBe(false);
+  });
+});
+
+describe("runAuditBatch：审计暂存 batch 的 thought-systems.json", () => {
+  function writeBatch(dir, items) {
+    fs.writeFileSync(path.join(dir, "works.json"), JSON.stringify([{ id: "sage-work", philosopherId: "sage" }]));
+    const bf = path.join(dir, "thought-systems.json");
+    fs.writeFileSync(bf, JSON.stringify({ schemaVersion: 1, items }));
+    return bf;
+  }
+  // batch item 形状：{ philosopherId, problems }
+  const itemFrom = (probs) => ({ philosopherId: "sage", problems: probs });
+
+  it("标准档 batch（2 evidence/claim、40字摘要）→ 无阻断项", () => {
+    const dir = fs.mkdtempSync(path.join(os.tmpdir(), "qab-"));
+    const clean = cleanPhilosopher().thoughtSystem.problems;
+    const bf = writeBatch(dir, [itemFrom(clean)]);
+    const r = runAuditBatch({ batchFile: bf, dataDir: dir });
+    expect(r.totals.red).toBe(0);
+    expect(shouldFail(r, { requireStandard: true })).toBe(false);
+  });
+
+  it("底线 batch（每 claim 仅 1 evidence）→ thin_evidence，--require-standard 阻断", () => {
+    const dir = fs.mkdtempSync(path.join(os.tmpdir(), "qab-"));
+    const thin = [
+      problem({ id: "sage:problem:001", claims: [claim({ id: "c1", titleZh: "甲", weight: 2, evidence: [ev({ id: "e1" })] }),
+                                                 claim({ id: "c2", titleZh: "乙", weight: 1, evidence: [ev({ id: "e2" })] })] }),
+      problem({ id: "sage:problem:002", claims: [claim({ id: "c3", titleZh: "丙", weight: 2, evidence: [ev({ id: "e3" })] }),
+                                                 claim({ id: "c4", titleZh: "丁", weight: 1, evidence: [ev({ id: "e4" })] })] }),
+      problem({ id: "sage:problem:003", claims: [claim({ id: "c5", titleZh: "戊", weight: 2, evidence: [ev({ id: "e5" })] }),
+                                                 claim({ id: "c6", titleZh: "己", weight: 1, evidence: [ev({ id: "e6" })] })] }),
+    ];
+    const bf = writeBatch(dir, [itemFrom(thin)]);
+    const r = runAuditBatch({ batchFile: bf, dataDir: dir });
+    expect(r.totals.red).toBe(0);                       // 过硬下限
+    expect(r.yellowByCode.thin_evidence).toBeGreaterThan(0);
+    expect(shouldFail(r, { requireStandard: true })).toBe(true); // 但标准档硬门拦住
   });
 });

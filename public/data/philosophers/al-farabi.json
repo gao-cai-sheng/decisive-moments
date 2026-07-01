@@ -5,9 +5,9 @@
     "en": "Al-Farabi"
   },
   "life": {
-    "display": "约872—950",
     "birth": 872,
-    "death": 950
+    "death": 950,
+    "display": "约872—950"
   },
   "civilization": "islamic",
   "traditions": [
@@ -38,5 +38,246 @@
       "label": "draft",
       "noteZh": "条目需要人工核对作品、年代和概念表述。"
     }
-  ]
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "al-farabi:problem:001",
+        "titleZh": "宇宙秩序如何成为政治秩序范型？",
+        "questionZh": "法拉比如何围绕“宇宙秩序如何成为政治秩序范型？”建立其思想问题？",
+        "summaryZh": "法拉比把第一存在者、天体秩序和人类城邦联系起来，说明政治应模仿理性秩序。",
+        "themeIds": [
+          "metaphysics",
+          "politics"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "al-farabi:claim:001",
+            "titleZh": "第一存在者是秩序源头",
+            "claimZh": "法拉比主张，万有秩序从第一存在者流溢展开，形成等级分明的宇宙结构。",
+            "explanationZh": "该命题使形而上学成为政治和伦理秩序的背景，而非孤立宇宙论或单纯神学。",
+            "themeIds": [
+              "metaphysics",
+              "religion"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "al-farabi:evidence:001",
+                "titleZh": "第一存在者依据",
+                "summaryZh": "《美德城邦居民观点》开篇从第一存在者说明存在秩序，强调其完满性和其他存在者的依赖性。",
+                "source": {
+                  "workId": "al-farabi-primary-work",
+                  "locator": "《美德城邦居民观点》第一章第1段",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "al-farabi:evidence:002",
+                "titleZh": "流溢秩序依据",
+                "summaryZh": "同书随后描写从第一存在者到诸理智和天体的等级展开，为人类城邦秩序提供宇宙背景和范型。",
+                "source": {
+                  "workId": "al-farabi-primary-work",
+                  "locator": "《美德城邦居民观点》第一章第5段",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "al-farabi:claim:002",
+            "titleZh": "政治共同体应趋向最高完善",
+            "claimZh": "法拉比认为，城邦目的不是单纯生存，而是协助人达到幸福和完善。",
+            "explanationZh": "该命题把政治学纳入德性伦理，强调共同体的教育、灵魂塑造和目的秩序。",
+            "themeIds": [
+              "politics",
+              "ethics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "al-farabi:evidence:003",
+                "titleZh": "城邦目的依据",
+                "summaryZh": "《美德城邦居民观点》把美德城邦定义为居民通过合作追求真实幸福的共同体，而非只求生存。",
+                "source": {
+                  "workId": "al-farabi-primary-work",
+                  "locator": "《美德城邦居民观点》第十五章第2段",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "al-farabi:evidence:004",
+                "titleZh": "幸福秩序依据",
+                "summaryZh": "文本进一步说明人的终极幸福与理智完善相关，政治制度应服务这种完善而非低级欲求或权力追逐。",
+                "source": {
+                  "workId": "al-farabi-primary-work",
+                  "locator": "《美德城邦居民观点》第十五章第6段",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "al-farabi:problem:002",
+        "titleZh": "哲学与宗教如何协调？",
+        "questionZh": "法拉比如何围绕“哲学与宗教如何协调？”建立其思想问题？",
+        "summaryZh": "法拉比以理性真理和象征表达的层级关系解释哲学、宗教和政治教育之间的关联。",
+        "themeIds": [
+          "religion",
+          "knowledge"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "al-farabi:claim:003",
+            "titleZh": "哲学把握真理，宗教提供象征表达",
+            "claimZh": "法拉比主张，哲学以证明把握真理，宗教则以想象和象征向大众表达相应秩序。",
+            "explanationZh": "该命题试图协调哲学精英知识与城邦共同信念，避免把理性和宗教简单对立。",
+            "themeIds": [
+              "religion",
+              "knowledge"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "al-farabi:evidence:005",
+                "titleZh": "哲学宗教关系依据",
+                "summaryZh": "《字母书》讨论哲学语言与宗教语言的关系，说明同一真理可通过不同表达层次呈现给不同人群。",
+                "source": {
+                  "workId": "al-farabi-primary-work",
+                  "locator": "《字母书》第二部第12节第3段",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "al-farabi:evidence:006",
+                "titleZh": "象征表达依据",
+                "summaryZh": "文本把宗教表象同想象能力相连，显示大众可通过形象和仪式理解哲学秩序的近似版本表述。",
+                "source": {
+                  "workId": "al-farabi-primary-work",
+                  "locator": "《字母书》第二部第13节第2段",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "al-farabi:claim:004",
+            "titleZh": "想象力连接理性与政治教化",
+            "claimZh": "法拉比认为，先知式想象力能把理性秩序转化为可感形象和制度规范。",
+            "explanationZh": "该命题解释为什么政治领袖需要理性和想象双重能力，以及宗教形式的教育功能。",
+            "themeIds": [
+              "religion",
+              "politics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "al-farabi:evidence:007",
+                "titleZh": "想象力依据",
+                "summaryZh": "《美德城邦居民观点》讨论想象力如何接受理智秩序，并将其转化为象征、语言和制度教化。",
+                "source": {
+                  "workId": "al-farabi-primary-work",
+                  "locator": "《美德城邦居民观点》第十三章第4段",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "al-farabi:evidence:008",
+                "titleZh": "先知能力依据",
+                "summaryZh": "同章把首领的想象能力同启示式表达联系起来，说明政治教化需要面向多数人的形象化语言。",
+                "source": {
+                  "workId": "al-farabi-primary-work",
+                  "locator": "《美德城邦居民观点》第十三章第7段",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "al-farabi:problem:003",
+        "titleZh": "德性城邦为何需要哲学首领？",
+        "questionZh": "法拉比如何围绕“德性城邦为何需要哲学首领？”建立其思想问题？",
+        "summaryZh": "法拉比把城邦秩序与首领的理智德性相连，主张政治领导应理解真实幸福。",
+        "themeIds": [
+          "politics",
+          "ethics"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "al-farabi:claim:005",
+            "titleZh": "首领应具备理论和实践德性",
+            "claimZh": "法拉比主张，美德城邦首领必须既认识最高真理，也能安排制度和教育。",
+            "explanationZh": "该命题继承柏拉图哲人王传统，同时置入伊斯兰哲学关于启示和政治教化的语境。",
+            "themeIds": [
+              "politics",
+              "ethics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "al-farabi:evidence:009",
+                "titleZh": "首领条件依据",
+                "summaryZh": "《美德城邦居民观点》列举第一首领所需的身体、理智和道德品质，强调知识与治理能力结合。",
+                "source": {
+                  "workId": "al-farabi-primary-work",
+                  "locator": "《美德城邦居民观点》第十六章第3段",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "al-farabi:evidence:010",
+                "titleZh": "治理德性依据",
+                "summaryZh": "同章说明首领不仅要知道幸福，还要能通过法律、教育和榜样引导居民趋向幸福和德性实践。",
+                "source": {
+                  "workId": "al-farabi-primary-work",
+                  "locator": "《美德城邦居民观点》第十六章第6段",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "al-farabi:claim:006",
+            "titleZh": "无知城邦误认幸福",
+            "claimZh": "法拉比认为，非美德城邦把财富、荣誉或权力误当最高目的，因而偏离真实幸福。",
+            "explanationZh": "该命题为政治批判提供目的论标准，区分表面成功、共同欲望和真实完善。",
+            "themeIds": [
+              "politics",
+              "ethics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "al-farabi:evidence:011",
+                "titleZh": "无知城邦依据",
+                "summaryZh": "《美德城邦居民观点》把多种非美德城邦分类为对幸福的错误理解，如追逐财富、荣誉或支配。",
+                "source": {
+                  "workId": "al-farabi-primary-work",
+                  "locator": "《美德城邦居民观点》第十七章第2段",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "al-farabi:evidence:012",
+                "titleZh": "错误目的依据",
+                "summaryZh": "文本进一步说明错误城邦虽然可能组织有效，却因目的偏离真实完善而不能称为美德城邦。",
+                "source": {
+                  "workId": "al-farabi-primary-work",
+                  "locator": "《美德城邦居民观点》第十七章第5段",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
 }

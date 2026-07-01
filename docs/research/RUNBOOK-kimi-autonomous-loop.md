@@ -90,14 +90,27 @@ npm run kimi:queue -- run-next   # 跑一个 Kimi 阶段，状态写回 manifest
 
 Kimi 初产的 thought-system 往往偏薄（旧批次就是每 problem 仅 1 claim/1 evidence）。**入库前必须加厚到下列标准**，否则只是"应试式"垃圾数据：
 
+**两档制：硬下限（低于=RED，不许入库）＋ 标准档（低于=YELLOW，算"没加厚完"）。只压到硬下限不叫达标——那正是 round B（2026-07-01）退化的样子：全绿门禁下 evidence 密度砍半、行文贴着 20 字线。**
+
+硬下限（RED，入库前必须清零）：
+
 ```text
 每位哲人 thoughtSystem.problems >= 3
 每个 problem: claims >= 2
 每个 problem: evidence 合计 >= 2
-同一 problem 内 claim 的 weight 有区分（不要全部同权；主张强弱体现在 weight=1/2/3）
 每个 claim 是该哲人在该问题上的【实质立场】，不是复述问题
 每条 evidence 的 summaryZh 长度 >= 20 字
 ```
+
+标准档（本轮交付前应做到；未达则 quality-audit 报 YELLOW，需在交付说明里显式解释为何停在下限）：
+
+```text
+每个 claim: evidence >= 2（低于报 YELLOW thin_evidence）——round A（2026-06-27）是 2/claim=每人12条，别退回 1/claim=每人6条
+每条 evidence 的 summaryZh 长度 >= 40 字（介于 20-40 报 YELLOW summary_thin）
+同一 problem 内 claim 的 weight 有区分（全同权报 YELLOW weight_uniform）
+```
+
+> 判据（已升级为硬门，见 §5 门3）：写前门 `scripts/verify.sh pre` 会跑 `quality-audit --batch <batchDir>/thought-systems.json --require-standard`，本批只要有 RED 或标准档码（`thin_evidence`/`summary_thin`/`weight_uniform`）就**判未过、禁止 `--write`**。也就是说标准档不再是"建议"——不达标的 batch 根本过不了写前门。若确因限额只能产出下限数据，要么先加厚再入库，要么记 `needs_human` 停车，不许绕过门直接手工同步。
 
 引证（evidence.source）要求：
 
@@ -120,9 +133,11 @@ excerptStatus 与实际一致：有逐字原文=public_domain；仅概括=summar
 
 ```bash
 bash scripts/verify.sh pre <batchDir>
-# 内部依次跑：validate:kimi → admit dry-run(--overwrite，不写)
+# 内部依次跑：validate:kimi → admit dry-run(--overwrite，不写) → 内容标准档硬门(quality-audit --batch --require-standard)
 # 期望末尾：✅ 写前门全绿
 ```
+
+**门3 是硬门（2026-07-01 强化）**：直接审计 `<batchDir>/thought-systems.json`，只要本批出现 `thin_evidence`（某 claim <2 evidence）/ `summary_thin`（summaryZh <40）/ `weight_uniform`（同 problem 内 claim 全同权），**写前门即判未过、禁止 `--write`**。这把 §4 标准档从"建议"变成"不加厚就进不去"，正是为了堵住 round B / habermas 批次那种"压过硬下限就停"的退化。
 
 `<batchDir>` 例：`.research/tmp/kimi/people/wang-yangming` 或 `.research/tmp/kimi/2026-06-26-batch-01-chinese-classical`。
 
@@ -142,6 +157,14 @@ npm run admit:kimi -- <batchDir> --overwrite --write
 ```
 
 **若 `--write` 被 OpenAI 安全层拦截**（ChatGPT 环境常见）：按 dry-run 的 replace/add 计划，**逐文件手工同步** `public/data/philosophers/<id>.json` 到加厚后的等价内容。
+
+**若为过安全层而【改写了内容措辞】（如 round B 把加缪/福柯条目改成"中性学术表述"）——必须留痕，否则本人不算完成：**
+
+```text
+- 交付说明里逐条列出：<id> 的哪个字段（claimZh/summaryZh/...）、改前原文、改后表述、改动原因（触发词/合规）。
+- LEDGER 备注标注"含安全层改写：<id> N 条"，让审计者知道该批内容经过软化、需人工复核语义保真。
+- 铁律不变：改写只为过合规，不得因此弱化或歪曲该哲人的实质立场；若无法在不失真的前提下改写 → 走 §10 needs_human，别硬压。
+```
 
 写完后跑**写后门**（一次调用，只读，含克隆逐字节自检）：
 
@@ -235,6 +258,10 @@ ChatGPT 与 Codex 额度独立——若编排方自己也额度将尽，按 §12
 只动 .research/tmp/ 暂存 与 public/data/philosophers/*.json
 不碰本批次以外、已有 thoughtSystem 的哲人数据
 不为过校验填假引文；不把仓库既有的、非本轮产生的改动算作本轮成果
+【溯源铁律】禁止跨哲人复用/覆写研究批次目录：thought-systems.json 里的 philosopherId 必须与所在目录名对应的人一致。
+  需要给新一批人跑研究，就【新建目录】，不许把 arendt-camus 目录的 thought-systems.json 覆写成 quine-derrida
+  （round B 就这样把 arendt-camus 自己的研究产物冲掉、导致 quine-derrida 无独立 sources/notes 溯源）。
+  一旦发现目录名与内容 philosopherId 不符 → 记 needs_human，别将就入库。
 ```
 
 ---
@@ -325,8 +352,9 @@ D. orchestrator_quota   —— 当前编排方自己额度将尽 → 按 §12.1 
    以及任何 problem 仅1 claim/1 evidence 者）→ 补到 §4 质量门槛
 3. locator 精确化：扫正式库所有 evidence.source.locator，把"等相关篇章/上中下"这类宽泛定位收敛到单一段落
 4. 补逐字原文：给已有 evidence 补 publicDomainExcerptZh（逐字、公有领域、真伪存疑则留空），提升前端可读性
+   —— 这是一笔持续增长的技术债：`quality-audit` 现会打印 `逐字原文欠债 summary_only=N`，限额窗口优先啃这块，别让它只增不减
 5. relationship 候选：为已入库哲人生成跨哲人关系候选 → 只写 .research/tmp/.../relationship-candidates.md 待人工审
-6. 数据体检：跑 `node tools/quality-audit.mjs`（一条命令出全库红/黄/绿，替代逐哲人手检：薄项、模糊locator、假引文、claim复述题目、weight区分、重复claim、theme覆盖），再核账本与正式库一致、补齐漏记戳记。RED 必修，YELLOW 建议修。详见 docs/research/delivery-quality-audit.md
+6. 数据体检：跑 `node tools/quality-audit.mjs`（一条命令出全库红/黄/绿，替代逐哲人手检：薄项 thin_evidence/summary_thin、模糊locator、假引文、claim复述题目、weight区分、重复claim、theme覆盖、逐字原文欠债 excerptDebt），再核账本与正式库一致、补齐漏记戳记。RED 必修，YELLOW（含 thin_evidence/summary_thin=退回硬下限的加厚欠账）建议修。详见 docs/research/delivery-quality-audit.md
 ```
 
 每做一项，§5 校验门全绿 + 账本记账 + 打戳记。清单见底就停车等 Kimi。**注意**：第 2-4 项是"修改已入库哲人数据"，属 §4 允许范围内的同人加厚，**但不得触碰 §10 红线**（schema/脚本/UI/works.json/正式 relationships）。

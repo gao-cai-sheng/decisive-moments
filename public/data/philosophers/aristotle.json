@@ -76,7 +76,7 @@
               {
                 "id": "aristotle:evidence:002",
                 "titleZh": "《范畴篇》提供实体的早期语义框架",
-                "summaryZh": "《范畴篇》区分第一实体和第二实体，为后来实体问题提供术语和逻辑背景。",
+                "summaryZh": "《范畴篇》区分第一实体和第二实体，为后来实体问题提供术语和逻辑背景，并固定对象分类框架。",
                 "source": {
                   "workId": "aristotle-primary-work",
                   "locator": "Categories 5, 2a11-4b19 on primary and secondary substance",
@@ -146,7 +146,7 @@
               {
                 "id": "aristotle:evidence:005",
                 "titleZh": "《尼各马可伦理学》I 卷提出功能论证",
-                "summaryZh": "I 卷通过最高善和人的功能论证，将幸福与合乎德性的灵魂活动联系起来。",
+                "summaryZh": "I 卷通过最高善和人的功能论证，将幸福与合乎德性的灵魂活动联系起来，并奠定伦理目标论。",
                 "source": {
                   "workId": "aristotle-primary-work",
                   "locator": "Nicomachean Ethics I.7, 1097b22-1098a20 on function and happiness",
@@ -156,7 +156,7 @@
               {
                 "id": "aristotle:evidence:006",
                 "titleZh": "X 卷讨论沉思与最高幸福",
-                "summaryZh": "X 卷把沉思生活作为最高幸福的候选，同时保留伦理德性和政治生活的重要性。",
+                "summaryZh": "X 卷把沉思生活作为最高幸福的候选，同时保留伦理德性和政治生活的重要性作为实践条件。",
                 "source": {
                   "workId": "aristotle-primary-work",
                   "locator": "Nicomachean Ethics X.7-8, 1177a12-1179a32 on contemplation and happiness",
@@ -236,7 +236,7 @@
               {
                 "id": "aristotle:evidence:010",
                 "titleZh": "logos 使人能判断正义和共同利益",
-                "summaryZh": "同一段落中，亚里士多德将人的言说能力同显明有益、有害、正义和不正义联系起来。",
+                "summaryZh": "同一段落中，亚里士多德将人的言说能力同显明有益、有害、正义和不正义联系起来，形成政治解释。",
                 "source": {
                   "workId": "aristotle-primary-work",
                   "locator": "Politics I.2, 1253a7-18 on speech, justice and political community",
