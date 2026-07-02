@@ -45,7 +45,7 @@
         "id": "dewey:problem:001",
         "titleZh": "知识如何从探究活动中产生？",
         "questionZh": "杜威如何围绕“知识如何从探究活动中产生？”建立其思想问题？",
-        "summaryZh": "杜威把知识理解为面对疑难情境的实验性探究成果，而不是旁观主体对现成对象的镜像复制。",
+        "summaryZh": "杜威把知识理解为从不确定情境中展开的探究活动，强调实验、后果和共同检验。",
         "themeIds": [
           "knowledge"
         ],
@@ -55,7 +55,7 @@
             "id": "dewey:claim:001",
             "titleZh": "探究始于不确定情境",
             "claimZh": "杜威主张，思想不是脱离生活的内在表象游戏，而是在行动受阻、情境不确定时组织假设和实验的工具。",
-            "explanationZh": "该命题把认识论转化为实践过程分析，强调问题、假设、检验和后果之间的连续循环。",
+            "explanationZh": "该命题把认识论从旁观者模型转向行动者的问题解决模型。",
             "themeIds": [
               "knowledge"
             ],
@@ -64,10 +64,20 @@
               {
                 "id": "dewey:evidence:001",
                 "titleZh": "探究始于不确定情境的文本依据",
-                "summaryZh": "杜威描述疑难、问题设定、假设、推理和检验的连续过程，说明思想发生于具体情境的重组。",
+                "summaryZh": "《我们如何思维》修订版第6章把反省思维描述为从困惑、不确定和受阻情境中逐步形成问题与假设的过程。",
                 "source": {
                   "workId": "dewey-primary-work",
-                  "locator": "《我们如何思维》修订版第6章关于反省思维的阶段",
+                  "locator": "《我们如何思维》修订版第6章“反省思维的阶段”段",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "dewey:evidence:007",
+                "titleZh": "探究逻辑依据",
+                "summaryZh": "《逻辑：探究理论》把探究界定为把不确定情境转化为确定情境的受控过程，强调问题、资料和操作相互塑造。",
+                "source": {
+                  "workId": "dewey-primary-work",
+                  "locator": "《逻辑：探究理论》第6章“探究的模式”段",
                   "excerptStatus": "summary_only"
                 }
               }
@@ -77,7 +87,7 @@
             "id": "dewey:claim:002",
             "titleZh": "真理体现可检验的成效",
             "claimZh": "杜威认为观念的有效性要在行动后果和共同检验中确认；知识是解决问题的工具性稳定成果。",
-            "explanationZh": "该命题避免把实用主义降为主观有用论，强调公共检验、经验反馈和情境重构对真理的约束。",
+            "explanationZh": "该命题把真理从静态符合关系转向可检验后果和公共探究。",
             "themeIds": [
               "knowledge"
             ],
@@ -86,10 +96,20 @@
               {
                 "id": "dewey:evidence:002",
                 "titleZh": "真理体现可检验成效的文本依据",
-                "summaryZh": "杜威把现代实验科学的方法推广为哲学范式，强调观念应在经验后果中接受检验。",
+                "summaryZh": "《哲学的改造》第6章从经验与实验方法说明观念需要在行动后果中接受检验，知识由探究成效稳定下来。",
                 "source": {
                   "workId": "dewey-primary-work",
-                  "locator": "《哲学的改造》第6章关于经验与实验方法",
+                  "locator": "《哲学的改造》第6章“经验与实验方法”段",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "dewey:evidence:008",
+                "titleZh": "保证性断言依据",
+                "summaryZh": "《逻辑：探究理论》以保证性断言替代孤立真理观，说明命题可靠性来自完成探究后的公共可检验状态。",
+                "source": {
+                  "workId": "dewey-primary-work",
+                  "locator": "《逻辑：探究理论》第7章“保证性断言”段",
                   "excerptStatus": "summary_only"
                 }
               }
@@ -101,7 +121,7 @@
         "id": "dewey:problem:002",
         "titleZh": "民主为何是一种生活方式？",
         "questionZh": "杜威如何围绕“民主为何是一种生活方式？”建立其思想问题？",
-        "summaryZh": "杜威把民主理解为共同生活和公共沟通的形式，而不仅是投票制度或国家机器安排。",
+        "summaryZh": "杜威把民主理解为共同经验、公共沟通和教育实践的生活方式，而不只是投票制度。",
         "themeIds": [
           "politics",
           "ethics"
@@ -112,7 +132,7 @@
             "id": "dewey:claim:003",
             "titleZh": "民主依赖共同经验的扩展",
             "claimZh": "杜威认为民主社会的核心在于让不同群体共享经验、沟通利益并参与共同问题的解决。",
-            "explanationZh": "该命题把民主从制度程序扩展为社会伦理，强调教育、交往和公共参与对自由社会的基础作用。",
+            "explanationZh": "该命题把民主从制度程序扩展为社会沟通结构和共同生活习惯。",
             "themeIds": [
               "politics",
               "ethics"
@@ -122,10 +142,20 @@
               {
                 "id": "dewey:evidence:003",
                 "titleZh": "民主依赖共同经验扩展的文本依据",
-                "summaryZh": "杜威把民主描述为联合生活方式，强调共同兴趣与自由交往的扩展。",
+                "summaryZh": "《民主与教育》第7章把民主解释为共同经验的扩展和利益沟通的自由流动，而不只是政府形式。",
                 "source": {
                   "workId": "dewey-primary-work",
-                  "locator": "《民主与教育》第7章关于民主概念",
+                  "locator": "《民主与教育》第7章“民主概念”段",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "dewey:evidence:009",
+                "titleZh": "公众形成依据",
+                "summaryZh": "《公众及其问题》说明公共事务产生于行动后果的间接影响，民主需要公众通过沟通识别和处理共同问题。",
+                "source": {
+                  "workId": "dewey-primary-work",
+                  "locator": "《公众及其问题》第1章“公众的形成”段",
                   "excerptStatus": "summary_only"
                 }
               }
@@ -135,7 +165,7 @@
             "id": "dewey:claim:004",
             "titleZh": "教育是民主再生产的核心机制",
             "claimZh": "杜威主张教育不是灌输固定知识，而是培养参与共同生活、处理问题和持续生长的能力。",
-            "explanationZh": "该命题把学校和民主公共生活相连，说明教育制度目标在于经验重组，而非单纯服从。",
+            "explanationZh": "该命题把学校、社会和民主连接起来，强调教育是共同生活的更新机制。",
             "themeIds": [
               "ethics",
               "freedom"
@@ -145,10 +175,20 @@
               {
                 "id": "dewey:evidence:004",
                 "titleZh": "教育是民主再生产机制的文本依据",
-                "summaryZh": "杜威把教育理解为经验连续改造和能力生长，反对把教育只当作未来生活的外在准备。",
+                "summaryZh": "《民主与教育》第4章把教育理解为生长和经验重组，说明民主社会需要培养主动参与和共同探究能力。",
                 "source": {
                   "workId": "dewey-primary-work",
-                  "locator": "《民主与教育》第4章关于教育即生长",
+                  "locator": "《民主与教育》第4章“教育即生长”段",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "dewey:evidence:010",
+                "titleZh": "学校与社会依据",
+                "summaryZh": "《学校与社会》把学校视为共同生活的缩影，强调儿童通过合作活动学习民主习惯，而非单向接受知识。",
+                "source": {
+                  "workId": "dewey-primary-work",
+                  "locator": "《学校与社会》第1讲“学校和社会进步”段",
                   "excerptStatus": "summary_only"
                 }
               }
@@ -160,7 +200,7 @@
         "id": "dewey:problem:003",
         "titleZh": "经验如何重建价值与公共生活？",
         "questionZh": "杜威如何围绕“经验如何重建价值与公共生活？”建立其思想问题？",
-        "summaryZh": "杜威以经验自然主义重构价值、艺术和公共问题，反对把事实与价值、个人与社会机械分离。",
+        "summaryZh": "杜威将价值、艺术和公共生活都放回经验过程，强调情境评价、后果检验和经验整合。",
         "themeIds": [
           "ethics",
           "politics"
@@ -171,7 +211,7 @@
             "id": "dewey:claim:005",
             "titleZh": "价值判断来自情境评价",
             "claimZh": "杜威认为价值不是外在永恒实体，也不是任意偏好，而是在具体情境中对欲望、后果和可行行动的反省评价。",
-            "explanationZh": "该命题使伦理学转向问题解决，评价标准要在经验后果和共同生活改善中获得检验。",
+            "explanationZh": "该命题把伦理学变成对行动情境和后果的公共反思，而非固定规范清单。",
             "themeIds": [
               "ethics",
               "knowledge"
@@ -181,10 +221,20 @@
               {
                 "id": "dewey:evidence:005",
                 "titleZh": "价值判断来自情境评价的文本依据",
-                "summaryZh": "杜威区分直接珍视与反省评价，说明价值判断需要考察欲望、手段和后果的关系。",
+                "summaryZh": "《价值评价理论》区分 valuation 与 appraisal，说明价值判断要在欲望、手段、后果和情境条件中被检验。",
                 "source": {
                   "workId": "dewey-primary-work",
-                  "locator": "《价值评价理论》关于 valuation 与 appraisal 的区分",
+                  "locator": "《价值评价理论》“valuation 与 appraisal 的区分”段",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "dewey:evidence:011",
+                "titleZh": "人性行为依据",
+                "summaryZh": "《人性与行为》把道德问题放在习惯、冲动和智能调节中分析，说明价值形成依赖可改变的行为情境。",
+                "source": {
+                  "workId": "dewey-primary-work",
+                  "locator": "《人性与行为》第2部分“习惯与智能”段",
                   "excerptStatus": "summary_only"
                 }
               }
@@ -194,7 +244,7 @@
             "id": "dewey:claim:006",
             "titleZh": "艺术经验揭示经验的整合形式",
             "claimZh": "杜威主张艺术不是脱离日常生活的孤立美物，而是经验在情感、行动和意义上达到完整组织的形态。",
-            "explanationZh": "该命题把美学纳入经验哲学，说明公共文化和日常实践中也存在重建共同感受的力量。",
+            "explanationZh": "该命题把美学、日常经验和公共文化连接起来，反对把艺术封闭在博物馆式对象中。",
             "themeIds": [
               "aesthetics",
               "politics"
@@ -204,10 +254,20 @@
               {
                 "id": "dewey:evidence:006",
                 "titleZh": "艺术经验揭示整合形式的文本依据",
-                "summaryZh": "杜威以一次经验说明审美并非特殊心理装饰，而是经验过程达到完整统一的典型形式。",
+                "summaryZh": "《艺术即经验》第3章通过“一次经验”说明艺术来自经验过程的完整组织，而不是与日常生活隔绝的物件。",
                 "source": {
                   "workId": "dewey-primary-work",
-                  "locator": "《艺术即经验》第3章关于一次经验",
+                  "locator": "《艺术即经验》第3章“一次经验”段",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "dewey:evidence:012",
+                "titleZh": "艺术与共同生活依据",
+                "summaryZh": "《艺术即经验》批判把艺术隔离在博物馆和精英趣味中，强调审美经验与共同生活、劳动和交流连续相通。",
+                "source": {
+                  "workId": "dewey-primary-work",
+                  "locator": "《艺术即经验》第1章“活物和以太事物”段",
                   "excerptStatus": "summary_only"
                 }
               }

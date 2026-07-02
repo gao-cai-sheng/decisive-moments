@@ -31,7 +31,10 @@
   "reviewStatus": "draft",
   "summaryZh": "洛克是知识、自由问题谱系中的第一版候选哲人。 本条目是第一版结构化资料，已经保留文明、传统、主题、作品和论述字段，正式发布前需要继续核对年代、文本出处和概念表述。",
   "works": [
-    "locke-primary-work"
+    "locke-essay-human-understanding",
+    "locke-two-treatises",
+    "locke-letter-toleration",
+    "locke-thoughts-education"
   ],
   "sourceNotes": [
     {
@@ -43,43 +46,41 @@
     "problems": [
       {
         "id": "locke:problem:001",
-        "titleZh": "经验如何生成观念？",
-        "questionZh": "洛克如何围绕“经验如何生成观念？”建立其思想问题？",
-        "summaryZh": "洛克在这一问题上形成了可辨认的论证路径，连接文本命题、概念区分和后世问题谱系。",
+        "titleZh": "经验如何形成知识？",
+        "questionZh": "洛克如何反对天赋观念，并解释心灵从经验获得观念材料？",
+        "summaryZh": "洛克把人的理解力放在经验来源和能力边界中考察。他反对天赋原则，认为观念来自感觉和反省；知识则受观念清晰度、语言和经验范围限制。",
         "themeIds": [
-          "knowledge",
-          "metaphysics"
+          "knowledge"
         ],
         "weight": 3,
         "claims": [
           {
             "id": "locke:claim:001",
-            "titleZh": "核心命题一：经验如何生成观念？",
-            "claimZh": "洛克在“经验如何生成观念？”中提出基础性立场，说明其理论问题的出发点。",
-            "explanationZh": "该命题概括其原典中反复出现的论证方向，并为本问题的后续分支提供基础。",
+            "titleZh": "心灵材料来自感觉和反省",
+            "claimZh": "洛克认为心灵没有现成天赋观念，所有观念材料来自外物作用于感官和心灵对自身活动的反省。",
+            "explanationZh": "这一主张把认识论从先天原则转向经验发生史，也要求追踪复杂观念如何由简单观念组合而成。",
             "themeIds": [
-              "knowledge",
-              "metaphysics"
+              "knowledge"
             ],
             "weight": 3,
             "evidence": [
               {
                 "id": "locke:evidence:001",
-                "titleZh": "核心命题一：经验如何生成观念？的文本依据",
-                "summaryZh": "洛克在 Essay concerning Human Understanding I.2 on innate principles 中提供该命题的原典定位，用于支撑“核心命题一：经验如何生成观念？”这一解释。",
+                "titleZh": "反对天赋原则",
+                "summaryZh": "《人类理解论》第一卷第二章反驳普遍同意证明天赋原则，指出儿童和未受教育者并不实际拥有这些原则。",
                 "source": {
-                  "workId": "locke-primary-work",
-                  "locator": "Essay concerning Human Understanding I.2 on innate principles",
+                  "workId": "locke-essay-human-understanding",
+                  "locator": "Essay Concerning Human Understanding I.2 on no innate principles",
                   "excerptStatus": "summary_only"
                 }
               },
               {
                 "id": "locke:evidence:002",
-                "titleZh": "核心命题一：经验如何生成观念？的文本依据",
-                "summaryZh": "洛克在 Essay II.1 on ideas from sensation and reflection 中提供该命题的原典定位，用于支撑“核心命题一：经验如何生成观念？”这一解释。",
+                "titleZh": "感觉与反省",
+                "summaryZh": "第二卷第一章提出感觉和反省两种经验来源，说明心灵观念材料如何进入理解，进一步说明“感觉与反省”如何进入“心灵材料来自感觉和反省”的论证链条。",
                 "source": {
-                  "workId": "locke-primary-work",
-                  "locator": "Essay II.1 on ideas from sensation and reflection",
+                  "workId": "locke-essay-human-understanding",
+                  "locator": "Essay Concerning Human Understanding II.1 on sensation and reflection",
                   "excerptStatus": "summary_only"
                 }
               }
@@ -87,32 +88,32 @@
           },
           {
             "id": "locke:claim:002",
-            "titleZh": "核心命题二：经验如何生成观念？",
-            "claimZh": "洛克在“经验如何生成观念？”中进一步推出实践、制度或认识论后果。",
-            "explanationZh": "该命题把概念论证推进到可比较的问题谱系，避免只停留在术语解释。",
+            "titleZh": "知识边界由观念来源和语言限制决定",
+            "claimZh": "洛克认为人类知识只能达到观念相合或相离的认知，因观念来源有限、词语含混，知识必然有边界。",
+            "explanationZh": "这让洛克经验论同时具有批判功能：它不是承诺全知，而是界定何处可知、何处只能判断或信念。",
             "themeIds": [
               "knowledge",
-              "metaphysics"
+              "language"
             ],
             "weight": 2,
             "evidence": [
               {
                 "id": "locke:evidence:003",
-                "titleZh": "核心命题二：经验如何生成观念？的文本依据",
-                "summaryZh": "洛克在 Essay concerning Human Understanding I.2 on innate principles 中提供该命题的原典定位，用于支撑“核心命题二：经验如何生成观念？”这一解释。",
+                "titleZh": "知识范围",
+                "summaryZh": "第四卷第三章讨论人类知识范围，指出我们对实体本质和许多自然联系只能拥有有限把握。",
                 "source": {
-                  "workId": "locke-primary-work",
-                  "locator": "Essay concerning Human Understanding I.2 on innate principles",
+                  "workId": "locke-essay-human-understanding",
+                  "locator": "Essay Concerning Human Understanding IV.3 on the extent of human knowledge",
                   "excerptStatus": "summary_only"
                 }
               },
               {
                 "id": "locke:evidence:004",
-                "titleZh": "核心命题二：经验如何生成观念？的文本依据",
-                "summaryZh": "洛克在 Essay II.1 on ideas from sensation and reflection 中提供该命题的原典定位，用于支撑“核心命题二：经验如何生成观念？”这一解释。",
+                "titleZh": "词语滥用",
+                "summaryZh": "第三卷第十章批评词语滥用和含混定义，说明语言会扩大争论并遮蔽真实无知，进一步说明“词语滥用”如何进入“知识边界由观念来源和语言限制决定”的论证链条。",
                 "source": {
-                  "workId": "locke-primary-work",
-                  "locator": "Essay II.1 on ideas from sensation and reflection",
+                  "workId": "locke-essay-human-understanding",
+                  "locator": "Essay Concerning Human Understanding III.10 on the abuse of words",
                   "excerptStatus": "summary_only"
                 }
               }
@@ -122,10 +123,11 @@
       },
       {
         "id": "locke:problem:002",
-        "titleZh": "人格同一性依赖什么？",
-        "questionZh": "洛克如何围绕“人格同一性依赖什么？”建立其思想问题？",
-        "summaryZh": "洛克在这一问题上形成了可辨认的论证路径，连接文本命题、概念区分和后世问题谱系。",
+        "titleZh": "人格同一性与自由如何建立责任？",
+        "questionZh": "洛克如何用意识、记忆和行动能力重构道德责任？",
+        "summaryZh": "洛克把人格同一性从灵魂实体或身体连续性转向意识连续性，并把自由解释为按心灵决定行动或暂停行动的能力。责任因此系于可归属的意识和行动能力。",
         "themeIds": [
+          "knowledge",
           "freedom",
           "ethics"
         ],
@@ -133,32 +135,32 @@
         "claims": [
           {
             "id": "locke:claim:003",
-            "titleZh": "核心命题一：人格同一性依赖什么？",
-            "claimZh": "洛克在“人格同一性依赖什么？”中提出基础性立场，说明其理论问题的出发点。",
-            "explanationZh": "该命题概括其原典中反复出现的论证方向，并为本问题的后续分支提供基础。",
+            "titleZh": "人格同一性取决于意识连续性",
+            "claimZh": "洛克认为作为法律和道德主体的 person 由意识能追溯到过去行为来界定，而不等同于同一灵魂实体或同一身体。",
+            "explanationZh": "这把责任归属建立在可自我认领的记忆与意识上，为现代人格身份讨论提供核心框架。",
             "themeIds": [
-              "freedom",
+              "knowledge",
               "ethics"
             ],
             "weight": 3,
             "evidence": [
               {
                 "id": "locke:evidence:005",
-                "titleZh": "核心命题一：人格同一性依赖什么？的文本依据",
-                "summaryZh": "洛克在 Essay II.27.9 on person as thinking intelligent being 中提供该命题的原典定位，用于支撑“核心命题一：人格同一性依赖什么？”这一解释。",
+                "titleZh": "人格同一性",
+                "summaryZh": "第二卷第二十七章区分人、物质和人格同一性，把人格定义为能把自己视为自己的思维存在。",
                 "source": {
-                  "workId": "locke-primary-work",
-                  "locator": "Essay II.27.9 on person as thinking intelligent being",
+                  "workId": "locke-essay-human-understanding",
+                  "locator": "Essay Concerning Human Understanding II.27 on identity and diversity",
                   "excerptStatus": "summary_only"
                 }
               },
               {
                 "id": "locke:evidence:006",
-                "titleZh": "核心命题一：人格同一性依赖什么？的文本依据",
-                "summaryZh": "洛克在 Essay II.27.26 on person as forensic term 中提供该命题的原典定位，用于支撑“核心命题一：人格同一性依赖什么？”这一解释。",
+                "titleZh": "法庭性人格",
+                "summaryZh": "洛克把人格称为法庭性概念，强调奖惩和责任依赖意识能否延伸到过去行动，进一步说明“法庭性人格”如何进入“人格同一性取决于意识连续性”的论证链条。",
                 "source": {
-                  "workId": "locke-primary-work",
-                  "locator": "Essay II.27.26 on person as forensic term",
+                  "workId": "locke-essay-human-understanding",
+                  "locator": "Essay Concerning Human Understanding II.27 on consciousness, memory and forensic personhood",
                   "excerptStatus": "summary_only"
                 }
               }
@@ -166,9 +168,9 @@
           },
           {
             "id": "locke:claim:004",
-            "titleZh": "核心命题二：人格同一性依赖什么？",
-            "claimZh": "洛克在“人格同一性依赖什么？”中进一步推出实践、制度或认识论后果。",
-            "explanationZh": "该命题把概念论证推进到可比较的问题谱系，避免只停留在术语解释。",
+            "titleZh": "自由是行动能力与暂停欲望的能力",
+            "claimZh": "洛克认为自由不在于意志本身是否自由，而在于人能否按心灵选择行动，并能暂停欲望以审议善。",
+            "explanationZh": "这使自由成为实践能力问题：人不是摆脱动机，而是在反省中重排欲望和判断。",
             "themeIds": [
               "freedom",
               "ethics"
@@ -177,21 +179,21 @@
             "evidence": [
               {
                 "id": "locke:evidence:007",
-                "titleZh": "核心命题二：人格同一性依赖什么？的文本依据",
-                "summaryZh": "洛克在 Essay II.27.9 on person as thinking intelligent being 中提供该命题的原典定位，用于支撑“核心命题二：人格同一性依赖什么？”这一解释。",
+                "titleZh": "自由与能力",
+                "summaryZh": "第二卷第二十一章把自由定义为依照心灵决定去行动或不行动的能力，反对“自由意志”这一混乱问法。",
                 "source": {
-                  "workId": "locke-primary-work",
-                  "locator": "Essay II.27.9 on person as thinking intelligent being",
+                  "workId": "locke-essay-human-understanding",
+                  "locator": "Essay Concerning Human Understanding II.21 on power, liberty and will",
                   "excerptStatus": "summary_only"
                 }
               },
               {
                 "id": "locke:evidence:008",
-                "titleZh": "核心命题二：人格同一性依赖什么？的文本依据",
-                "summaryZh": "洛克在 Essay II.27.26 on person as forensic term 中提供该命题的原典定位，用于支撑“核心命题二：人格同一性依赖什么？”这一解释。",
+                "titleZh": "暂停欲望",
+                "summaryZh": "同章关于暂停欲望的讨论说明，人能延迟行动、比较善恶，由此承担道德修养责任，进一步说明“暂停欲望”如何进入“自由是行动能力与暂停欲望的能力”的论证链条。",
                 "source": {
-                  "workId": "locke-primary-work",
-                  "locator": "Essay II.27.26 on person as forensic term",
+                  "workId": "locke-essay-human-understanding",
+                  "locator": "Essay Concerning Human Understanding II.21 on suspension of desire",
                   "excerptStatus": "summary_only"
                 }
               }
@@ -201,43 +203,44 @@
       },
       {
         "id": "locke:problem:003",
-        "titleZh": "政府权力从何而来？",
-        "questionZh": "洛克如何围绕“政府权力从何而来？”建立其思想问题？",
-        "summaryZh": "洛克在这一问题上形成了可辨认的论证路径，连接文本命题、概念区分和后世问题谱系。",
+        "titleZh": "政治权力为何必须受同意和权利限制？",
+        "questionZh": "洛克如何从自然权利、财产和宗教宽容论证有限政府？",
+        "summaryZh": "洛克把政治权力建立在自然自由和平等之上，政府的正当性来自被治理者同意，目的在保护生命、自由和财产。宗教信念不能由强制制造，因此宽容也是有限权力的一部分。",
         "themeIds": [
           "politics",
-          "ethics"
+          "justice",
+          "freedom"
         ],
-        "weight": 2,
+        "weight": 3,
         "claims": [
           {
             "id": "locke:claim:005",
-            "titleZh": "核心命题一：政府权力从何而来？",
-            "claimZh": "洛克在“政府权力从何而来？”中提出基础性立场，说明其理论问题的出发点。",
-            "explanationZh": "该命题概括其原典中反复出现的论证方向，并为本问题的后续分支提供基础。",
+            "titleZh": "政府正当性来自同意和权利保护",
+            "claimZh": "洛克认为人在自然状态中拥有平等自由和自然权利，政治社会通过同意建立，政府受保护权利的目的限制。",
+            "explanationZh": "这使政府不是父权或征服的延伸，而是可被信托、可被撤换的公共权力。",
             "themeIds": [
               "politics",
-              "ethics"
+              "justice"
             ],
             "weight": 3,
             "evidence": [
               {
                 "id": "locke:evidence:009",
-                "titleZh": "核心命题一：政府权力从何而来？的文本依据",
-                "summaryZh": "洛克在 Second Treatise chapter 2 on state of nature 中提供该命题的原典定位，用于支撑“核心命题一：政府权力从何而来？”这一解释。",
+                "titleZh": "自然自由与同意",
+                "summaryZh": "《政府论下篇》第二、八章从自然自由和平等推出政治社会需经同意建立，进一步说明“自然自由与同意”如何进入“政府正当性来自同意和权利保护”的论证链条。",
                 "source": {
-                  "workId": "locke-primary-work",
-                  "locator": "Second Treatise chapter 2 on state of nature",
+                  "workId": "locke-two-treatises",
+                  "locator": "Second Treatise chapters 2 and 8 on natural freedom, equality and consent",
                   "excerptStatus": "summary_only"
                 }
               },
               {
                 "id": "locke:evidence:010",
-                "titleZh": "核心命题一：政府权力从何而来？的文本依据",
-                "summaryZh": "洛克在 Second Treatise chapter 5 on property and labor 中提供该命题的原典定位，用于支撑“核心命题一：政府权力从何而来？”这一解释。",
+                "titleZh": "政府目的与解体",
+                "summaryZh": "第九章说明人进入政治社会是为保护财产和安全，第十九章则说明政府违背信托时可被解散。",
                 "source": {
-                  "workId": "locke-primary-work",
-                  "locator": "Second Treatise chapter 5 on property and labor",
+                  "workId": "locke-two-treatises",
+                  "locator": "Second Treatise chapters 9 and 19 on ends of political society and dissolution of government",
                   "excerptStatus": "summary_only"
                 }
               }
@@ -245,32 +248,33 @@
           },
           {
             "id": "locke:claim:006",
-            "titleZh": "核心命题二：政府权力从何而来？",
-            "claimZh": "洛克在“政府权力从何而来？”中进一步推出实践、制度或认识论后果。",
-            "explanationZh": "该命题把概念论证推进到可比较的问题谱系，避免只停留在术语解释。",
+            "titleZh": "财产和宽容共同限制国家权力",
+            "claimZh": "洛克以劳动说明财产权取得，又以信仰不能被强制制造说明宗教宽容，二者都限制政治权力可介入范围。",
+            "explanationZh": "他的自由主义不是单一原则，而是在财产、良心和有限政府之间建立边界。",
             "themeIds": [
+              "freedom",
               "politics",
-              "ethics"
+              "justice"
             ],
             "weight": 2,
             "evidence": [
               {
                 "id": "locke:evidence:011",
-                "titleZh": "核心命题二：政府权力从何而来？的文本依据",
-                "summaryZh": "洛克在 Second Treatise chapter 2 on state of nature 中提供该命题的原典定位，用于支撑“核心命题二：政府权力从何而来？”这一解释。",
+                "titleZh": "劳动财产权及限制",
+                "summaryZh": "第五章从劳动混入共有自然物论证财产，同时以足够且同样好、避免浪费等条件限制占有。",
                 "source": {
-                  "workId": "locke-primary-work",
-                  "locator": "Second Treatise chapter 2 on state of nature",
+                  "workId": "locke-two-treatises",
+                  "locator": "Second Treatise chapter 5 on property, labour and provisos",
                   "excerptStatus": "summary_only"
                 }
               },
               {
                 "id": "locke:evidence:012",
-                "titleZh": "核心命题二：政府权力从何而来？的文本依据",
-                "summaryZh": "洛克在 Second Treatise chapter 5 on property and labor 中提供该命题的原典定位，用于支撑“核心命题二：政府权力从何而来？”这一解释。",
+                "titleZh": "宗教宽容与权力边界",
+                "summaryZh": "《论宽容》指出国家强制不能产生真诚信仰，民事权力应限于世俗利益和平秩序，进一步说明“宗教宽容与权力边界”如何进入“财产和宽容共同限制国家权力”的论证链条。",
                 "source": {
-                  "workId": "locke-primary-work",
-                  "locator": "Second Treatise chapter 5 on property and labor",
+                  "workId": "locke-letter-toleration",
+                  "locator": "A Letter Concerning Toleration on the limits of civil magistrate in religion",
                   "excerptStatus": "summary_only"
                 }
               }

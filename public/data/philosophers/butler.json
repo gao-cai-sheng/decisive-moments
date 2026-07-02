@@ -5,8 +5,8 @@
     "en": "Judith Butler"
   },
   "life": {
-    "display": "1956 年生",
-    "birth": 1956
+    "birth": 1956,
+    "display": "1956 年生"
   },
   "civilization": "global_modern",
   "traditions": [
@@ -30,12 +30,262 @@
   "reviewStatus": "draft",
   "summaryZh": "巴特勒是伦理、正义问题谱系中的第一版候选哲人。 本条目是第一版结构化资料，已经保留文明、传统、主题、作品和论述字段，正式发布前需要继续核对年代、文本出处和概念表述。",
   "works": [
-    "butler-primary-work"
+    "butler-gender-trouble",
+    "butler-bodies-that-matter",
+    "butler-excitable-speech",
+    "butler-undoing-gender",
+    "butler-giving-account",
+    "butler-precarious-life",
+    "butler-frames-war"
   ],
   "sourceNotes": [
     {
       "label": "draft",
       "noteZh": "条目需要人工核对作品、年代和概念表述。"
     }
-  ]
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "butler:problem:001",
+        "titleZh": "性别如何通过重复实践被生产？",
+        "questionZh": "巴特勒为何把性别理解为操演性过程，而不是内在身份的外部表达？",
+        "summaryZh": "巴特勒的性别理论把身份从自然本质转向规范化的重复实践。性别不是先在主体的内核，而是在话语、身体姿态、制度期待和惩罚机制中持续被生产。",
+        "themeIds": [
+          "freedom",
+          "ethics",
+          "language"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "butler:claim:001",
+            "titleZh": "性别是操演而非本质表达",
+            "claimZh": "巴特勒认为性别身份不是内在性别本质的表现，而是由重复行为和规范引用构成的操演性效果。",
+            "explanationZh": "这不是说性别可以任意选择，而是说明规范通过不断重复变得像自然事实一样稳定。",
+            "themeIds": [
+              "freedom",
+              "language"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "butler:evidence:001",
+                "titleZh": "性别麻烦中的操演性",
+                "summaryZh": "《性别麻烦》把性别解释为重复的行为样式和规范化效果，反对把女人或男人理解为预先给定的实体。",
+                "source": {
+                  "workId": "butler-gender-trouble",
+                  "locator": "Gender Trouble, chapter 3 on performative acts and gender constitution",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "butler:evidence:002",
+                "titleZh": "异性恋矩阵的规范结构",
+                "summaryZh": "《性别麻烦》分析性、性别和欲望之间被强制排列的矩阵，说明身份稳定依赖排除不合规范的生活形式。",
+                "source": {
+                  "workId": "butler-gender-trouble",
+                  "locator": "Gender Trouble on the heterosexual matrix and intelligible gender",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "butler:claim:002",
+            "titleZh": "身体物质性也被规范化地形成",
+            "claimZh": "巴特勒进一步主张身体的物质性并非纯粹前话语事实，而是在规范重复中被界定、划界和可理解化。",
+            "explanationZh": "她并不否认身体存在，而是追问哪些身体被承认为可理解、可生活、可保护的身体。",
+            "themeIds": [
+              "ethics",
+              "metaphysics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "butler:evidence:003",
+                "titleZh": "重要身体中的物质化",
+                "summaryZh": "《重要身体》把身体物质性解释为规范反复作用的沉积过程，说明身体边界和性别可理解性相互构成。",
+                "source": {
+                  "workId": "butler-bodies-that-matter",
+                  "locator": "Bodies That Matter, introduction on materialization and regulatory norms",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "butler:evidence:004",
+                "titleZh": "排除性规范与可生活身体",
+                "summaryZh": "《重要身体》讨论规范如何通过排除不可承认的身体来稳定自身，使身体问题同时成为伦理和政治问题。",
+                "source": {
+                  "workId": "butler-bodies-that-matter",
+                  "locator": "Bodies That Matter on exclusion, abjection and the limits of bodily intelligibility",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "butler:problem:002",
+        "titleZh": "语言为何既能伤害也能打开行动？",
+        "questionZh": "巴特勒如何理解话语、称名和身体规范之间的权力关系？",
+        "summaryZh": "巴特勒把语言看成能命名主体、伤害主体并赋予行动空间的社会力量。话语不是事后描述，而是通过称呼、禁令和可重复性塑造谁能被承认。",
+        "themeIds": [
+          "language",
+          "freedom",
+          "justice"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "butler:claim:003",
+            "titleZh": "称名能使主体受伤并被召唤",
+            "claimZh": "巴特勒认为侮辱、称名和规范话语能够伤害主体，因为主体本身是在被呼唤和承认中形成的。",
+            "explanationZh": "语言伤害之所以真实，是因为主体依赖社会可理解性；但这种依赖也让反用和重新命名成为可能。",
+            "themeIds": [
+              "language",
+              "justice"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "butler:evidence:005",
+                "titleZh": "激动人心的言说中的话语伤害",
+                "summaryZh": "《激动人心的言说》分析仇恨言论和称名如何伤害主体，说明语言权力不只是表达意见而会构成社会位置。",
+                "source": {
+                  "workId": "butler-excitable-speech",
+                  "locator": "Excitable Speech, chapters on injurious speech and interpellation",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "butler:evidence:006",
+                "titleZh": "可重复性与反用空间",
+                "summaryZh": "《激动人心的言说》借助话语可重复性解释伤害语言为何可能被重新占用，从而打开抵抗和再命名空间。",
+                "source": {
+                  "workId": "butler-excitable-speech",
+                  "locator": "Excitable Speech on citationality, resignification and political agency",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "butler:claim:004",
+            "titleZh": "承认规范决定哪些生命可见",
+            "claimZh": "巴特勒认为社会承认规范决定哪些身体和生命能被看见、被保护、被哀悼或被排除。",
+            "explanationZh": "因此身份政治必须转向承认条件本身，追问哪些人还没有进入可生活的社会框架。",
+            "themeIds": [
+              "justice",
+              "ethics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "butler:evidence:007",
+                "titleZh": "解除性别中的可生活生命",
+                "summaryZh": "《解除性别》把性别规范与可生活生命联系起来，说明政治问题在于哪些生活形式被承认为可能生活。",
+                "source": {
+                  "workId": "butler-undoing-gender",
+                  "locator": "Undoing Gender on livable life, recognition and norms",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "butler:evidence:008",
+                "titleZh": "自我叙述中的承认条件",
+                "summaryZh": "《为自己作说明》指出主体向他人说明自己时总依赖既有承认语汇，这限制并开启伦理责任。",
+                "source": {
+                  "workId": "butler-giving-account",
+                  "locator": "Giving an Account of Oneself on recognition, opacity and ethical address",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "butler:problem:003",
+        "titleZh": "脆弱生命如何成为政治伦理的起点？",
+        "questionZh": "巴特勒如何从身体脆弱性、哀悼和战争框架重构伦理政治？",
+        "summaryZh": "巴特勒的晚期政治伦理从人的相互依赖和身体脆弱性出发。她关注社会框架如何决定哪些死亡值得哀悼，并由此批判战争、国家暴力和排除性公共话语。",
+        "themeIds": [
+          "ethics",
+          "justice",
+          "politics"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "butler:claim:005",
+            "titleZh": "脆弱性显示人的相互依赖",
+            "claimZh": "巴特勒认为人的身体暴露于他人和制度之中，脆弱性不是缺陷，而是伦理和政治责任的条件。",
+            "explanationZh": "这一思路把自由主体从自足模型中拉出，强调我们从一开始就被关系、依赖和伤害可能性构成。",
+            "themeIds": [
+              "ethics",
+              "freedom"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "butler:evidence:009",
+                "titleZh": "脆弱生命中的暴露与依赖",
+                "summaryZh": "《脆弱生命》把哀伤和伤害经验解释为人类相互依赖的显现，反对把主体想象为完全自足。",
+                "source": {
+                  "workId": "butler-precarious-life",
+                  "locator": "Precarious Life on grief, vulnerability and interdependence",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "butler:evidence:010",
+                "titleZh": "伦理责任与自我不透明",
+                "summaryZh": "《为自己作说明》把主体对自身的不完全透明视为伦理条件，说明责任并不要求完全自我掌控。",
+                "source": {
+                  "workId": "butler-giving-account",
+                  "locator": "Giving an Account of Oneself on opacity, relationality and responsibility",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "butler:claim:006",
+            "titleZh": "战争框架决定谁可被哀悼",
+            "claimZh": "巴特勒认为政治和媒体框架会预先安排哪些生命可被视为生命，哪些死亡能进入公共哀悼。",
+            "explanationZh": "战争批判因此必须分析感知框架本身，揭示国家暴力如何通过可见性和不可见性运作。",
+            "themeIds": [
+              "politics",
+              "justice"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "butler:evidence:011",
+                "titleZh": "战争框架中的可哀悼性",
+                "summaryZh": "《战争框架》分析影像、叙事和政治框架如何决定某些生命是否被公共理解为可哀悼的生命。",
+                "source": {
+                  "workId": "butler-frames-war",
+                  "locator": "Frames of War on grievability and the framing of life",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "butler:evidence:012",
+                "titleZh": "脆弱性与反暴力政治",
+                "summaryZh": "《脆弱生命》把共同脆弱性转化为反暴力政治资源，批判用安全名义取消他者生命价值的做法。",
+                "source": {
+                  "workId": "butler-precarious-life",
+                  "locator": "Precarious Life on violence, mourning and political response after 9/11",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
 }

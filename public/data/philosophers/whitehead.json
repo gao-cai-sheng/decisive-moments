@@ -65,10 +65,20 @@
               {
                 "id": "whitehead:evidence:001",
                 "titleZh": "实际机缘依据",
-                "summaryZh": "《过程与实在》把实际实体称为世界的最终真实事物，并以生成过程说明其存在方式。",
+                "summaryZh": "《过程与实在》把实际实体称为世界的最终真实事物，并用“生成”而非静止承载物来说明现实单位的存在方式。",
                 "source": {
                   "workId": "whitehead-primary-work",
-                  "locator": "《过程与实在》第一部第二章关于实际实体/实际机缘",
+                  "locator": "《过程与实在》第一部第二章“实际实体”条",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "whitehead:evidence:007",
+                "titleZh": "实际实体终极性依据",
+                "summaryZh": "《过程与实在》的范畴说明反复把实际机缘置于分析核心，说明一切复合对象都要回到具体发生的现实事件来理解。",
+                "source": {
+                  "workId": "whitehead-primary-work",
+                  "locator": "《过程与实在》第一部第二章“实际机缘与复合对象”条",
                   "excerptStatus": "summary_only"
                 }
               }
@@ -87,10 +97,20 @@
               {
                 "id": "whitehead:evidence:002",
                 "titleZh": "摄取理论依据",
-                "summaryZh": "《过程与实在》通过摄取概念说明现实如何把既有世界纳入自身生成。",
+                "summaryZh": "《过程与实在》通过摄取概念说明现实如何把既有世界纳入自身生成，关系因此成为实际机缘内部构成的一部分。",
                 "source": {
                   "workId": "whitehead-primary-work",
-                  "locator": "《过程与实在》第二部关于摄取与合生",
+                  "locator": "《过程与实在》第二部第一章“摄取”条",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "whitehead:evidence:008",
+                "titleZh": "合生过程依据",
+                "summaryZh": "《过程与实在》把合生描述为多重资料形成一个具体经验统一体的过程，显示过去世界并非外在背景而是现实生成的材料。",
+                "source": {
+                  "workId": "whitehead-primary-work",
+                  "locator": "《过程与实在》第二部第三章“合生”条",
                   "excerptStatus": "summary_only"
                 }
               }
@@ -122,10 +142,20 @@
               {
                 "id": "whitehead:evidence:003",
                 "titleZh": "错置具体性依据",
-                "summaryZh": "《科学与现代世界》批评把抽象结构当作具体事实本身，强调科学概念的限制。",
+                "summaryZh": "《科学与现代世界》批评把抽象结构当作具体事实本身，强调科学概念虽然有效，却不能替代经验世界的复杂具体性。",
                 "source": {
                   "workId": "whitehead-primary-work",
-                  "locator": "《科学与现代世界》第3章关于错置具体性的谬误",
+                  "locator": "《科学与现代世界》第3章“错置具体性的谬误”段",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "whitehead:evidence:009",
+                "titleZh": "抽象方法限度依据",
+                "summaryZh": "《科学与现代世界》在讨论近代科学形成时指出，数学化抽象带来巨大解释力，也容易遮蔽被抽取掉的感受、价值和过程维度。",
+                "source": {
+                  "workId": "whitehead-primary-work",
+                  "locator": "《科学与现代世界》第2章“数学抽象与自然图景”段",
                   "excerptStatus": "summary_only"
                 }
               }
@@ -145,10 +175,20 @@
               {
                 "id": "whitehead:evidence:004",
                 "titleZh": "自然价值依据",
-                "summaryZh": "《科学与现代世界》重新安置生命、感受和价值，反对机械自然的封闭图景。",
+                "summaryZh": "《科学与现代世界》重新安置生命、感受和价值，反对把自然理解成与经验质量完全分离的机械封闭图景。",
                 "source": {
                   "workId": "whitehead-primary-work",
-                  "locator": "《科学与现代世界》第5—6章关于自然、生命与价值",
+                  "locator": "《科学与现代世界》第5章“浪漫主义反动”段",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "whitehead:evidence:010",
+                "titleZh": "自然二分批判依据",
+                "summaryZh": "《自然概念》批判把自然分裂为科学所说的真实自然和感官所见的表象自然，要求从经验中的自然本身出发。",
+                "source": {
+                  "workId": "whitehead-primary-work",
+                  "locator": "《自然概念》第1章“自然的二分”段",
                   "excerptStatus": "summary_only"
                 }
               }
@@ -180,10 +220,20 @@
               {
                 "id": "whitehead:evidence:005",
                 "titleZh": "创造性范畴依据",
-                "summaryZh": "《过程与实在》把创造性列为终极范畴，用以说明现实从多样过去生成新现实。",
+                "summaryZh": "《过程与实在》把创造性列为终极范畴，用以说明现实从多样过去生成新的统一体，而不是从固定实体中派生变化。",
                 "source": {
                   "workId": "whitehead-primary-work",
-                  "locator": "《过程与实在》范畴说明中关于创造性的表述",
+                  "locator": "《过程与实在》第一部第二章“终极范畴”条",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "whitehead:evidence:011",
+                "titleZh": "多者成为一者依据",
+                "summaryZh": "《过程与实在》的范畴论用“多者成为一者”概括创造性，说明每个实际机缘既继承既有世界又为世界增加新的事实。",
+                "source": {
+                  "workId": "whitehead-primary-work",
+                  "locator": "《过程与实在》第一部第二章“创造性、多者与一者”条",
                   "excerptStatus": "summary_only"
                 }
               }
@@ -203,10 +253,20 @@
               {
                 "id": "whitehead:evidence:006",
                 "titleZh": "永恒客体依据",
-                "summaryZh": "《过程与实在》用永恒客体说明形式可能如何在具体生成中获得现实性。",
+                "summaryZh": "《过程与实在》用永恒客体说明形式可能如何在具体生成中获得现实性，从而连接抽象可能与实际机缘的完成。",
                 "source": {
                   "workId": "whitehead-primary-work",
-                  "locator": "《过程与实在》第一部关于永恒客体与具体化",
+                  "locator": "《过程与实在》第一部第二章“永恒客体”条",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "whitehead:evidence:012",
+                "titleZh": "可能性具体化依据",
+                "summaryZh": "《过程与实在》讨论实际机缘如何选择并具体化永恒客体，说明秩序不是外在模板，而是在生成过程中被限定和实现。",
+                "source": {
+                  "workId": "whitehead-primary-work",
+                  "locator": "《过程与实在》第二部第三章“永恒客体的具体化”条",
                   "excerptStatus": "summary_only"
                 }
               }

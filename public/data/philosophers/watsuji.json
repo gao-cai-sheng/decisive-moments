@@ -5,9 +5,9 @@
     "en": "Watsuji Tetsuro"
   },
   "life": {
-    "display": "1889—1960",
     "birth": 1889,
-    "death": 1960
+    "death": 1960,
+    "display": "1889—1960"
   },
   "civilization": "japanese",
   "traditions": [
@@ -31,12 +31,258 @@
   "reviewStatus": "draft",
   "summaryZh": "和辻哲郎是宗教、审美问题谱系中的第一版候选哲人。 本条目是第一版结构化资料，已经保留文明、传统、主题、作品和论述字段，正式发布前需要继续核对年代、文本出处和概念表述。",
   "works": [
-    "watsuji-primary-work"
+    "watsuji-fudo",
+    "watsuji-rinrigaku",
+    "watsuji-history-japanese-ethical-thought",
+    "watsuji-pilgrimages-ancient-temples"
   ],
   "sourceNotes": [
     {
       "label": "draft",
       "noteZh": "条目需要人工核对作品、年代和概念表述。"
     }
-  ]
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "watsuji:problem:001",
+        "titleZh": "伦理为何必须从人间关系出发？",
+        "questionZh": "和辻哲郎为何反对把伦理学建立在孤立个体之上，而要从人与人之间的关系结构出发？",
+        "summaryZh": "和辻把伦理学理解为研究“人间”的学问：人既是个体又处在关系之中，伦理不是外加规则，而是个体否定自身孤立性、回到共同关系中的实践结构。",
+        "themeIds": [
+          "ethics",
+          "metaphysics"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "watsuji:claim:001",
+            "titleZh": "人是个体与关系的双重存在",
+            "claimZh": "和辻认为“人间”同时包含个人和人与人之间的关系，伦理学必须把这种双重结构作为出发点。",
+            "explanationZh": "这使他既拒绝把共同体看成压扁个人的实体，也拒绝把个人看成先于关系的封闭原子。",
+            "themeIds": [
+              "ethics",
+              "metaphysics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "watsuji:evidence:001",
+                "titleZh": "伦理学作为人间之学",
+                "summaryZh": "《伦理学》导论把伦理学规定为研究“人间”的学问，说明人的存在总是在个体性和共同关系之间展开。",
+                "source": {
+                  "workId": "watsuji-rinrigaku",
+                  "locator": "Rinrigaku introduction on ethics as the study of ningen",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "watsuji:evidence:002",
+                "titleZh": "间柄中的自我否定",
+                "summaryZh": "《伦理学》关于 aidagara 的讨论把伦理关系解释为个体从自我封闭中否定自身并重新回到共同性的运动。",
+                "source": {
+                  "workId": "watsuji-rinrigaku",
+                  "locator": "Rinrigaku book I on aidagara and the double structure of human existence",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "watsuji:claim:002",
+            "titleZh": "伦理主体通过否定孤立自我而形成",
+            "claimZh": "和辻把伦理实践理解为个体不断否定孤立自我、承担关系责任并恢复共同性的过程。",
+            "explanationZh": "伦理行动不是服从外部命令，而是在关系结构中把自由、自我和共同生活重新连接起来。",
+            "themeIds": [
+              "ethics",
+              "freedom"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "watsuji:evidence:003",
+                "titleZh": "否定性与共同性的回归",
+                "summaryZh": "《伦理学》把伦理运动描述为个体性与总体性之间的否定往复，强调共同性必须通过个人行动实现。",
+                "source": {
+                  "workId": "watsuji-rinrigaku",
+                  "locator": "Rinrigaku book I on negation and the movement between individuality and totality",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "watsuji:evidence:004",
+                "titleZh": "伦理学的人类学定位",
+                "summaryZh": "《伦理学》第一卷将伦理问题放入人的存在结构而非抽象规范表中，说明责任来自人本已处在关系之中。",
+                "source": {
+                  "workId": "watsuji-rinrigaku",
+                  "locator": "Rinrigaku volume I on ethics as philosophical anthropology",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "watsuji:problem:002",
+        "titleZh": "风土如何塑造人的历史存在？",
+        "questionZh": "和辻如何把气候、地理和生活方式纳入哲学人类学，而不把人简化为自然环境的产物？",
+        "summaryZh": "和辻的风土论不是单纯地理决定论，而是说明人通过衣食住、劳动、宗教和审美形式回应自然环境。风土是自然与历史生活相互中介后的人的存在方式。",
+        "themeIds": [
+          "aesthetics",
+          "ethics",
+          "metaphysics"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "watsuji:claim:003",
+            "titleZh": "风土是自然环境与历史生活的中介",
+            "claimZh": "和辻认为风土不是外在背景，而是人在共同生活中感受、解释并实践自然环境的历史方式。",
+            "explanationZh": "因此风土既限制人的生活，又通过文化、技术和制度被人类共同体重新塑形。",
+            "themeIds": [
+              "aesthetics",
+              "metaphysics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "watsuji:evidence:005",
+                "titleZh": "风土作为人的自我理解",
+                "summaryZh": "《风土》开篇把寒暑、湿度和季节经验解释为人理解自身生活处境的方式，而不只是物理变量。",
+                "source": {
+                  "workId": "watsuji-fudo",
+                  "locator": "Fudo introduction on climate as a moment of human self-understanding",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "watsuji:evidence:006",
+                "titleZh": "季风、沙漠与牧场类型",
+                "summaryZh": "《风土》区分季风、沙漠和牧场等类型，用来说明不同环境经验如何关联生活组织、情感气质和文化形式。",
+                "source": {
+                  "workId": "watsuji-fudo",
+                  "locator": "Fudo chapters on monsoon, desert and meadow climatic types",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "watsuji:claim:004",
+            "titleZh": "文化差异应从生活形式中理解",
+            "claimZh": "和辻通过风土分析文化差异，但重点在生活形式的历史展开，而不是用自然因素直接决定价值高低。",
+            "explanationZh": "这一点使风土论可以连接审美、宗教和伦理，却也需要警惕文化类型化带来的概括风险。",
+            "themeIds": [
+              "aesthetics",
+              "ethics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "watsuji:evidence:007",
+                "titleZh": "自然经验与文化表达",
+                "summaryZh": "《风土》把自然环境同住居、服饰、食物和宗教感受联系起来，显示文化形式来自共同生活的环境回应。",
+                "source": {
+                  "workId": "watsuji-fudo",
+                  "locator": "Fudo on clothing, dwelling, food and religious feeling as climatic expressions",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "watsuji:evidence:008",
+                "titleZh": "古寺巡礼中的审美历史",
+                "summaryZh": "《古寺巡礼》通过佛教艺术和寺院空间理解日本文化记忆，表现和辻从具体审美经验进入历史伦理的问题意识。",
+                "source": {
+                  "workId": "watsuji-pilgrimages-ancient-temples",
+                  "locator": "Pilgrimages to the Ancient Temples in Nara on Buddhist art and cultural memory",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "watsuji:problem:003",
+        "titleZh": "日本伦理思想史如何成为现代反思资源？",
+        "questionZh": "和辻为何通过日本伦理思想史来反思现代主体、共同体和宗教传统？",
+        "summaryZh": "和辻并不把日本思想史当作古物陈列，而是用它追问伦理共同体如何在佛教、武士道、家族和国家等历史形式中变化。历史研究因此服务于现代伦理反思。",
+        "themeIds": [
+          "religion",
+          "ethics",
+          "politics"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "watsuji:claim:005",
+            "titleZh": "思想史揭示伦理共同体的变形",
+            "claimZh": "和辻通过日本伦理思想史考察伦理共同体在宗教、家族、武士和国家形式中的历史变形。",
+            "explanationZh": "历史研究让伦理学摆脱抽象概念，转向具体制度、礼俗和精神传统中的人间关系。",
+            "themeIds": [
+              "religion",
+              "ethics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "watsuji:evidence:009",
+                "titleZh": "日本伦理思想史的历史方法",
+                "summaryZh": "《日本伦理思想史》以历史阶段组织伦理观念，说明共同体关系在宗教与政治制度中不断改变。",
+                "source": {
+                  "workId": "watsuji-history-japanese-ethical-thought",
+                  "locator": "History of Japanese Ethical Thought on historical stages of ethical consciousness",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "watsuji:evidence:010",
+                "titleZh": "佛教传统与伦理关系",
+                "summaryZh": "《日本伦理思想史》讨论佛教传入后对日本伦理意识的重塑，显示宗教形式如何改变自我与共同体的理解。",
+                "source": {
+                  "workId": "watsuji-history-japanese-ethical-thought",
+                  "locator": "History of Japanese Ethical Thought on Buddhism and ethical consciousness",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "watsuji:claim:006",
+            "titleZh": "现代伦理批判需要历史自觉",
+            "claimZh": "和辻认为现代伦理危机不能只用外来抽象理论解决，还需要对本土历史经验中的关系形式进行批判性理解。",
+            "explanationZh": "他的日本伦理思想史具有双重功能：既保存传统问题，也为现代共同体和主体观念提供反思材料。",
+            "themeIds": [
+              "ethics",
+              "politics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "watsuji:evidence:011",
+                "titleZh": "现代个人主义批判",
+                "summaryZh": "《伦理学》批评只从孤立个体出发的现代伦理观，要求把主体重新放入历史形成的共同关系。",
+                "source": {
+                  "workId": "watsuji-rinrigaku",
+                  "locator": "Rinrigaku on critique of abstract individualism",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "watsuji:evidence:012",
+                "titleZh": "历史伦理与共同体反思",
+                "summaryZh": "《日本伦理思想史》把思想史写作变成现代伦理自我理解的资源，强调传统必须在批判解释中重新被理解。",
+                "source": {
+                  "workId": "watsuji-history-japanese-ethical-thought",
+                  "locator": "History of Japanese Ethical Thought on tradition and modern ethical reflection",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
 }

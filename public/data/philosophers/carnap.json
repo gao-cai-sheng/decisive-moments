@@ -66,10 +66,20 @@
               {
                 "id": "carnap:evidence:001",
                 "titleZh": "逻辑句法依据",
-                "summaryZh": "《语言的逻辑句法》把哲学任务定位为对科学语言的逻辑句法研究。",
+                "summaryZh": "《语言的逻辑句法》把哲学任务定位为对科学语言的逻辑句法研究，强调哲学应澄清表达规则而非提出超经验事实。",
                 "source": {
                   "workId": "carnap-primary-work",
-                  "locator": "《语言的逻辑句法》导论关于哲学作为逻辑句法",
+                  "locator": "《语言的逻辑句法》导论“哲学作为逻辑句法”段",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "carnap:evidence:007",
+                "titleZh": "容许原则依据",
+                "summaryZh": "《语言的逻辑句法》提出可按目的自由选择语言形式的容许原则，说明哲学争论常可转化为框架规则选择。",
+                "source": {
+                  "workId": "carnap-primary-work",
+                  "locator": "《语言的逻辑句法》第17节“容许原则”段",
                   "excerptStatus": "summary_only"
                 }
               }
@@ -89,10 +99,20 @@
               {
                 "id": "carnap:evidence:002",
                 "titleZh": "伪命题依据",
-                "summaryZh": "《通过语言的逻辑分析克服形而上学》说明形而上学词句常缺乏可判定认知用法。",
+                "summaryZh": "《通过语言的逻辑分析克服形而上学》说明形而上学词句常缺乏可判定认知用法，因而不能当作知识命题。",
                 "source": {
                   "workId": "carnap-primary-work",
-                  "locator": "《通过语言的逻辑分析克服形而上学》关于伪命题",
+                  "locator": "《通过语言的逻辑分析克服形而上学》“伪命题”段",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "carnap:evidence:008",
+                "titleZh": "语义条件批判依据",
+                "summaryZh": "同文通过分析词的句法位置和经验使用条件，指出某些表面合语法的哲学句子无法给出认知内容。",
+                "source": {
+                  "workId": "carnap-primary-work",
+                  "locator": "《通过语言的逻辑分析克服形而上学》“词的意义标准”段",
                   "excerptStatus": "summary_only"
                 }
               }
@@ -125,10 +145,20 @@
               {
                 "id": "carnap:evidence:003",
                 "titleZh": "构造系统依据",
-                "summaryZh": "《世界的逻辑构造》试图从基础经验元素构造科学对象，展示概念系统的逻辑秩序。",
+                "summaryZh": "《世界的逻辑构造》试图从基础经验元素构造科学对象，展示概念系统可以按明确规则组织为逻辑秩序。",
                 "source": {
                   "workId": "carnap-primary-work",
-                  "locator": "《世界的逻辑构造》序言与开篇关于构造系统目标",
+                  "locator": "《世界的逻辑构造》序言“构造系统目标”段",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "carnap:evidence:009",
+                "titleZh": "概念构造方法依据",
+                "summaryZh": "《世界的逻辑构造》通过准分析、相似性和层级构造展示科学对象如何在符号系统内获得可追踪定义。",
+                "source": {
+                  "workId": "carnap-primary-work",
+                  "locator": "《世界的逻辑构造》第一部“构造理论的方法”段",
                   "excerptStatus": "summary_only"
                 }
               }
@@ -147,10 +177,20 @@
               {
                 "id": "carnap:evidence:004",
                 "titleZh": "统一科学依据",
-                "summaryZh": "《科学的统一》把物理语言看作统一科学的候选基础，以连接各科学术语。",
+                "summaryZh": "《科学的统一》把物理语言看作统一科学的候选基础，用公共可检验的术语连接不同学科的陈述。",
                 "source": {
                   "workId": "carnap-primary-work",
-                  "locator": "《科学的统一》关于物理主义语言",
+                  "locator": "《科学的统一》“物理主义语言”段",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "carnap:evidence:010",
+                "titleZh": "心理学物理语言依据",
+                "summaryZh": "卡尔纳普关于心理学物理语言的论文把心理陈述翻译和协调到公共观察语言中，以支持统一科学计划。",
+                "source": {
+                  "workId": "carnap-primary-work",
+                  "locator": "《心理学的物理语言》“心理陈述的物理语言表述”段",
                   "excerptStatus": "summary_only"
                 }
               }
@@ -183,10 +223,20 @@
               {
                 "id": "carnap:evidence:005",
                 "titleZh": "内部问题依据",
-                "summaryZh": "《经验主义、语义学与本体论》区分框架内存在问题和是否采用框架的问题。",
+                "summaryZh": "《经验主义、语义学与本体论》区分框架内存在问题和是否采用框架的问题，前者可按框架规则回答。",
                 "source": {
                   "workId": "carnap-primary-work",
-                  "locator": "《经验主义、语义学与本体论》关于内部问题",
+                  "locator": "《经验主义、语义学与本体论》“内部问题”段",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "carnap:evidence:011",
+                "titleZh": "数与物框架例子依据",
+                "summaryZh": "同文用数、物和性质等语言框架说明，一旦接受相应表达规则，存在陈述就成为内部可判定问题。",
+                "source": {
+                  "workId": "carnap-primary-work",
+                  "locator": "《经验主义、语义学与本体论》“数框架与物框架”段",
                   "excerptStatus": "summary_only"
                 }
               }
@@ -206,10 +256,20 @@
               {
                 "id": "carnap:evidence:006",
                 "titleZh": "外部问题依据",
-                "summaryZh": "《经验主义、语义学与本体论》认为选择语言形式类似选择工具，应依据目的和效率。",
+                "summaryZh": "《经验主义、语义学与本体论》认为选择语言形式类似选择工具，应依据研究目的、效率和表达能力评估。",
                 "source": {
                   "workId": "carnap-primary-work",
-                  "locator": "《经验主义、语义学与本体论》关于外部问题的实用性质",
+                  "locator": "《经验主义、语义学与本体论》“外部问题的实用性质”段",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "carnap:evidence:012",
+                "titleZh": "框架宽容依据",
+                "summaryZh": "卡尔纳普晚期语义学延续语言框架宽容态度，把争论焦点转向采用框架的收益和代价，而非超框架事实。",
+                "source": {
+                  "workId": "carnap-primary-work",
+                  "locator": "《意义与必然性》导论“语义系统和框架选择”段",
                   "excerptStatus": "summary_only"
                 }
               }

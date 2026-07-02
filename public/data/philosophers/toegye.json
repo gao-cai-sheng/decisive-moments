@@ -5,9 +5,9 @@
     "en": "Yi Hwang"
   },
   "life": {
-    "display": "1501—1570",
     "birth": 1501,
-    "death": 1570
+    "death": 1570,
+    "display": "1501—1570"
   },
   "civilization": "korean",
   "traditions": [
@@ -31,12 +31,256 @@
   "reviewStatus": "draft",
   "summaryZh": "退溪李滉是伦理、政治问题谱系中的第一版候选哲人。 本条目是第一版结构化资料，已经保留文明、传统、主题、作品和论述字段，正式发布前需要继续核对年代、文本出处和概念表述。",
   "works": [
-    "toegye-primary-work"
+    "toegye-ten-diagrams",
+    "toegye-four-seven-debate",
+    "toegye-zhuzi-explanations"
   ],
   "sourceNotes": [
     {
       "label": "draft",
       "noteZh": "条目需要人工核对作品、年代和概念表述。"
     }
-  ]
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "toegye:problem:001",
+        "titleZh": "四端七情如何显示理气关系？",
+        "questionZh": "退溪李滉如何通过四端七情论辩说明理、气与道德情感的关系？",
+        "summaryZh": "退溪在四端七情论辩中强调道德端绪不能被化约为气质情感的自然波动。四端体现理的发动，七情则更直接关联气的流行，二者都需在修养中被辨析。",
+        "themeIds": [
+          "ethics",
+          "metaphysics"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "toegye:claim:001",
+            "titleZh": "四端显出理的道德规范性",
+            "claimZh": "退溪认为四端之所以重要，是因为它们显示理在道德情感中的规范性发动，而不只是普通心理反应。",
+            "explanationZh": "这使恻隐、羞恶、辞让、是非之心成为成德工夫的入口，而不是偶然情绪材料。",
+            "themeIds": [
+              "ethics",
+              "metaphysics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "toegye:evidence:001",
+                "titleZh": "四端七情书札中的理发说",
+                "summaryZh": "《四端七情论辩》书札中，退溪以四端与七情的不同来源说明理与气在道德情感中的层次差异。",
+                "source": {
+                  "workId": "toegye-four-seven-debate",
+                  "locator": "The Four-Seven Debate, early letters on the arousal of the Four Beginnings and Seven Feelings",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "toegye:evidence:002",
+                "titleZh": "孟子四端的朱子学解释",
+                "summaryZh": "退溪在朱子学诠释中把孟子的四端理解为天理在人心中的端绪，强调道德判断有可培养的本体根基。",
+                "source": {
+                  "workId": "toegye-zhuzi-explanations",
+                  "locator": "Outline and Explanations of the Works of Zhu Xi on Mencian Four Beginnings",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "toegye:claim:002",
+            "titleZh": "七情需要在气质流行中被节制",
+            "claimZh": "退溪并不否定七情，而是认为七情与气的流行密切相关，必须通过敬和省察使其合乎理。",
+            "explanationZh": "这样既保留人的情感现实，又避免把道德修养降低为顺从自然情绪。",
+            "themeIds": [
+              "ethics",
+              "knowledge"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "toegye:evidence:003",
+                "titleZh": "七情与气的发动",
+                "summaryZh": "《四端七情论辩》围绕七情是否可善可恶展开，退溪强调气质偏差需要由理的标准加以检点。",
+                "source": {
+                  "workId": "toegye-four-seven-debate",
+                  "locator": "The Four-Seven Debate on the Seven Feelings and qi-endowment",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "toegye:evidence:004",
+                "titleZh": "敬作为情感节制方法",
+                "summaryZh": "《圣学十图》以敬贯穿心性修养，说明情感不是被压抑，而是在主一无适的工夫中被端正。",
+                "source": {
+                  "workId": "toegye-ten-diagrams",
+                  "locator": "Ten Diagrams on Sage Learning, diagrams on reverent composure and mind cultivation",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "toegye:problem:002",
+        "titleZh": "圣学如何成为君主修养技术？",
+        "questionZh": "退溪为何把图式、经典摘录和个人评论组合成面向君主的修养教材？",
+        "summaryZh": "《圣学十图》把朱子学修养压缩为可观看、可诵读、可反复体认的图式。退溪借此把君主治理的基础放在心性工夫上，强调政治首先要求统治者成德。",
+        "themeIds": [
+          "ethics",
+          "politics",
+          "knowledge"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "toegye:claim:003",
+            "titleZh": "图式使圣学成为持续工夫",
+            "claimZh": "退溪用十幅图组织经典与评论，是为了让圣学成为日常凝视、记忆和反省的持续工夫。",
+            "explanationZh": "图式不是装饰，而是把复杂理学体系转化为君主可不断回到自身心性的训练装置。",
+            "themeIds": [
+              "knowledge",
+              "ethics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "toegye:evidence:005",
+                "titleZh": "十图的屏风与册子设计",
+                "summaryZh": "《圣学十图》序意说明十图既可作屏风也可成册，目的是使学习者在反复观看中内化圣学纲领。",
+                "source": {
+                  "workId": "toegye-ten-diagrams",
+                  "locator": "Ten Diagrams on Sage Learning, preface on screen and booklet use",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "toegye:evidence:006",
+                "titleZh": "太极与心学图式",
+                "summaryZh": "《圣学十图》从太极、天命和心统性情等图式展开，把宇宙论、心性论和修养论压缩为可操作的学习路径。",
+                "source": {
+                  "workId": "toegye-ten-diagrams",
+                  "locator": "Ten Diagrams on Sage Learning, diagrams on taiji, heavenly mandate and mind-heart",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "toegye:claim:004",
+            "titleZh": "君主治理以心性修养为根本",
+            "claimZh": "退溪把君主政治的根本放在心性修养上，认为治理国家必须先端正统治者的敬与德。",
+            "explanationZh": "政治秩序因此不是单纯制度技巧，而是由君主的自我约束、学习和道德感应启动。",
+            "themeIds": [
+              "politics",
+              "ethics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "toegye:evidence:007",
+                "titleZh": "面向国王的圣学献呈",
+                "summaryZh": "《圣学十图》献给年轻君主，文本把理学修养直接置于王道政治的教育场景之中，说明君主学习本身就是治理秩序的开端。",
+                "source": {
+                  "workId": "toegye-ten-diagrams",
+                  "locator": "Ten Diagrams on Sage Learning, presentation to King Seonjo",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "toegye:evidence:008",
+                "titleZh": "敬与政治责任",
+                "summaryZh": "《圣学十图》关于敬的图与说把个人心术和公共治理相连，说明君主若不能主敬就难以成就政治秩序。",
+                "source": {
+                  "workId": "toegye-ten-diagrams",
+                  "locator": "Ten Diagrams on Sage Learning, diagram of reverence and rulerly self-cultivation",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "toegye:problem:003",
+        "titleZh": "敬如何统一知与行？",
+        "questionZh": "退溪如何用敬把经典理解、心性省察和道德实践连接起来？",
+        "summaryZh": "退溪的敬不是单一心理状态，而是贯穿读书、静坐、省察和行动的工夫纲领。它使知识不止于义理解释，而转化为心术端正和日常实践。",
+        "themeIds": [
+          "knowledge",
+          "ethics"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "toegye:claim:005",
+            "titleZh": "敬保持心的主宰性",
+            "claimZh": "退溪认为敬能使心保持专一和警醒，从而在情感发动前后都维持道德判断的主宰性。",
+            "explanationZh": "敬既是认识工夫也是伦理工夫，因为它让人能够持续辨别理与私欲、端绪与偏情。",
+            "themeIds": [
+              "ethics",
+              "knowledge"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "toegye:evidence:009",
+                "titleZh": "主敬图中的心法",
+                "summaryZh": "《圣学十图》主敬相关图式把专一、警醒和涵养结合起来，显示敬是贯穿未发与已发的心法。",
+                "source": {
+                  "workId": "toegye-ten-diagrams",
+                  "locator": "Ten Diagrams on Sage Learning, reverence diagrams on composure before and after arousal",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "toegye:evidence:010",
+                "titleZh": "朱子学诠释中的居敬穷理",
+                "summaryZh": "退溪解释朱子时反复把居敬与穷理相连，说明读书明理必须伴随持续的心术约束，避免知识停留在章句训诂。",
+                "source": {
+                  "workId": "toegye-zhuzi-explanations",
+                  "locator": "Outline and Explanations of the Works of Zhu Xi on reverence and investigation of principle",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "toegye:claim:006",
+            "titleZh": "知行统一靠日常省察完成",
+            "claimZh": "退溪把经典知识落实为日常省察和身体力行，认为只会解释义理而不能改变气质并不足以成德。",
+            "explanationZh": "这使他的哲学既重视文本解释，又把解释导向反复训练的伦理实践。",
+            "themeIds": [
+              "knowledge",
+              "ethics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "toegye:evidence:011",
+                "titleZh": "圣学十图的实践次第",
+                "summaryZh": "《圣学十图》从宇宙图式推进到心性工夫，显示学习者必须把所知义理转化为具体修养次第。",
+                "source": {
+                  "workId": "toegye-ten-diagrams",
+                  "locator": "Ten Diagrams on Sage Learning, sequence from cosmology to self-cultivation",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "toegye:evidence:012",
+                "titleZh": "四七论辩中的实践关切",
+                "summaryZh": "《四端七情论辩》虽处理理气细辨，但核心关切仍是人在情感发动中如何识别善端并克服气质偏蔽。",
+                "source": {
+                  "workId": "toegye-four-seven-debate",
+                  "locator": "The Four-Seven Debate on practical implications for self-cultivation",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
 }

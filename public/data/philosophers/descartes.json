@@ -31,7 +31,10 @@
   "reviewStatus": "draft",
   "summaryZh": "笛卡尔是知识、自由问题谱系中的第一版候选哲人。 本条目是第一版结构化资料，已经保留文明、传统、主题、作品和论述字段，正式发布前需要继续核对年代、文本出处和概念表述。",
   "works": [
-    "descartes-primary-work"
+    "descartes-discourse-method",
+    "descartes-meditations",
+    "descartes-principles-philosophy",
+    "descartes-passions-soul"
   ],
   "sourceNotes": [
     {
@@ -43,43 +46,41 @@
     "problems": [
       {
         "id": "descartes:problem:001",
-        "titleZh": "确定性从哪里开始？",
-        "questionZh": "笛卡尔如何围绕“确定性从哪里开始？”建立其思想问题？",
-        "summaryZh": "笛卡尔在这一问题上形成了可辨认的论证路径，连接文本命题、概念区分和后世问题谱系。",
+        "titleZh": "怀疑如何通向确定性？",
+        "questionZh": "笛卡尔为何把怀疑作为方法，而不是把怀疑当作终点？",
+        "summaryZh": "笛卡尔的怀疑是一种有规则的清理程序：它暂时撤销可疑信念，以寻找不能被怀疑摧毁的基础。自我作为思维活动的确定性由此出现。",
         "themeIds": [
-          "knowledge",
-          "metaphysics"
+          "knowledge"
         ],
         "weight": 3,
         "claims": [
           {
             "id": "descartes:claim:001",
-            "titleZh": "核心命题一：确定性从哪里开始？",
-            "claimZh": "笛卡尔在“确定性从哪里开始？”中提出基础性立场，说明其理论问题的出发点。",
-            "explanationZh": "该命题概括其原典中反复出现的论证方向，并为本问题的后续分支提供基础。",
+            "titleZh": "方法怀疑是寻基程序而非怀疑主义",
+            "claimZh": "笛卡尔使用普遍怀疑来筛除不可靠信念，但目标是建立更稳固的科学基础，而不是停留在不可知论。",
+            "explanationZh": "梦境和恶魔假设都是方法性压力测试，用来检验哪些信念能在最强怀疑下保留。",
             "themeIds": [
-              "knowledge",
-              "metaphysics"
+              "knowledge"
             ],
             "weight": 3,
             "evidence": [
               {
                 "id": "descartes:evidence:001",
-                "titleZh": "核心命题一：确定性从哪里开始？的文本依据",
-                "summaryZh": "笛卡尔在 Meditationes I on methodic doubt 中提供该命题的原典定位，用于支撑“核心命题一：确定性从哪里开始？”这一解释。",
+                "titleZh": "方法规则",
+                "summaryZh": "《方法谈》第二部分提出明证、分析、综合和枚举规则，显示怀疑嵌入有序求知方法，进一步说明“方法规则”如何进入“方法怀疑是寻基程序而非怀疑主义”的论证链条。",
                 "source": {
-                  "workId": "descartes-primary-work",
-                  "locator": "Meditationes I on methodic doubt",
+                  "workId": "descartes-discourse-method",
+                  "locator": "Discourse on the Method part II on rules of method",
                   "excerptStatus": "summary_only"
                 }
               },
               {
                 "id": "descartes:evidence:002",
-                "titleZh": "核心命题一：确定性从哪里开始？的文本依据",
-                "summaryZh": "笛卡尔在 Meditationes II on cogito and thinking thing 中提供该命题的原典定位，用于支撑“核心命题一：确定性从哪里开始？”这一解释。",
+                "titleZh": "第一沉思的怀疑程序",
+                "summaryZh": "《第一沉思》通过感官错误、梦境和欺骗者假设扩大怀疑范围，为寻找不可怀疑基础做准备。",
                 "source": {
-                  "workId": "descartes-primary-work",
-                  "locator": "Meditationes II on cogito and thinking thing",
+                  "workId": "descartes-meditations",
+                  "locator": "Meditations I on reasons for doubt, dream argument and deceiver hypothesis",
                   "excerptStatus": "summary_only"
                 }
               }
@@ -87,9 +88,9 @@
           },
           {
             "id": "descartes:claim:002",
-            "titleZh": "核心命题二：确定性从哪里开始？",
-            "claimZh": "笛卡尔在“确定性从哪里开始？”中进一步推出实践、制度或认识论后果。",
-            "explanationZh": "该命题把概念论证推进到可比较的问题谱系，避免只停留在术语解释。",
+            "titleZh": "我思提供第一确定性",
+            "claimZh": "笛卡尔认为即使一切外物和身体信念都可疑，正在怀疑和思维的我仍不可被否定。",
+            "explanationZh": "我思不是经验自传，而是思想活动自我呈现出的确定性，成为重建知识的第一支点。",
             "themeIds": [
               "knowledge",
               "metaphysics"
@@ -98,21 +99,21 @@
             "evidence": [
               {
                 "id": "descartes:evidence:003",
-                "titleZh": "核心命题二：确定性从哪里开始？的文本依据",
-                "summaryZh": "笛卡尔在 Meditationes I on methodic doubt 中提供该命题的原典定位，用于支撑“核心命题二：确定性从哪里开始？”这一解释。",
+                "titleZh": "第二沉思中的我思",
+                "summaryZh": "《第二沉思》在怀疑最强处确认“我是、我存在”，并把自我理解为思维之物，进一步说明“第二沉思中的我思”如何进入“我思提供第一确定性”的论证链条。",
                 "source": {
-                  "workId": "descartes-primary-work",
-                  "locator": "Meditationes I on methodic doubt",
+                  "workId": "descartes-meditations",
+                  "locator": "Meditations II on cogito and the thinking thing",
                   "excerptStatus": "summary_only"
                 }
               },
               {
                 "id": "descartes:evidence:004",
-                "titleZh": "核心命题二：确定性从哪里开始？的文本依据",
-                "summaryZh": "笛卡尔在 Meditationes II on cogito and thinking thing 中提供该命题的原典定位，用于支撑“核心命题二：确定性从哪里开始？”这一解释。",
+                "titleZh": "哲学原理中的第一原则",
+                "summaryZh": "《哲学原理》第一部把我思表述为哲学第一原则，并说明思想包括怀疑、理解、肯定和否定等活动。",
                 "source": {
-                  "workId": "descartes-primary-work",
-                  "locator": "Meditationes II on cogito and thinking thing",
+                  "workId": "descartes-principles-philosophy",
+                  "locator": "Principles of Philosophy I.7-10 on cogito and thought",
                   "excerptStatus": "summary_only"
                 }
               }
@@ -122,43 +123,43 @@
       },
       {
         "id": "descartes:problem:002",
-        "titleZh": "心灵与身体如何区分？",
-        "questionZh": "笛卡尔如何围绕“心灵与身体如何区分？”建立其思想问题？",
-        "summaryZh": "笛卡尔在这一问题上形成了可辨认的论证路径，连接文本命题、概念区分和后世问题谱系。",
+        "titleZh": "清楚分明观念如何保证知识？",
+        "questionZh": "笛卡尔如何从个体确定性过渡到数学和自然科学的可靠性？",
+        "summaryZh": "笛卡尔需要说明明证为何不只是心理确信。他通过上帝非欺骗者论证和错误理论，把清楚分明知觉、判断意志和真理保障连接起来。",
         "themeIds": [
-          "freedom",
-          "ethics"
+          "knowledge",
+          "religion"
         ],
         "weight": 3,
         "claims": [
           {
             "id": "descartes:claim:003",
-            "titleZh": "核心命题一：心灵与身体如何区分？",
-            "claimZh": "笛卡尔在“心灵与身体如何区分？”中提出基础性立场，说明其理论问题的出发点。",
-            "explanationZh": "该命题概括其原典中反复出现的论证方向，并为本问题的后续分支提供基础。",
+            "titleZh": "清楚分明知觉需要真诚上帝保障",
+            "claimZh": "笛卡尔认为凡清楚分明知觉到的都是真的，但这一规则的稳定性要通过上帝存在和非欺骗性来保障。",
+            "explanationZh": "这使笛卡尔从我思的瞬间确定性推进到数学和形而上学命题的持续可靠性。",
             "themeIds": [
-              "freedom",
-              "ethics"
+              "knowledge",
+              "religion"
             ],
             "weight": 3,
             "evidence": [
               {
                 "id": "descartes:evidence:005",
-                "titleZh": "核心命题一：心灵与身体如何区分？的文本依据",
-                "summaryZh": "笛卡尔在 Meditationes II on wax example 中提供该命题的原典定位，用于支撑“核心命题一：心灵与身体如何区分？”这一解释。",
+                "titleZh": "第三沉思的上帝论证",
+                "summaryZh": "《第三沉思》从上帝观念的客观实在性论证上帝存在，并把上帝非欺骗性作为知识可靠性的条件。",
                 "source": {
-                  "workId": "descartes-primary-work",
-                  "locator": "Meditationes II on wax example",
+                  "workId": "descartes-meditations",
+                  "locator": "Meditations III on the idea of God and the non-deceiving God",
                   "excerptStatus": "summary_only"
                 }
               },
               {
                 "id": "descartes:evidence:006",
-                "titleZh": "核心命题一：心灵与身体如何区分？的文本依据",
-                "summaryZh": "笛卡尔在 Meditationes VI on mind-body distinction and union 中提供该命题的原典定位，用于支撑“核心命题一：心灵与身体如何区分？”这一解释。",
+                "titleZh": "第五沉思与明证规则",
+                "summaryZh": "《第五沉思》把几何本质、上帝存在和清楚分明规则联系起来，巩固数学真理的可靠性，进一步说明“第五沉思与明证规则”如何进入“清楚分明知觉需要真诚上帝保障”的论证链条。",
                 "source": {
-                  "workId": "descartes-primary-work",
-                  "locator": "Meditationes VI on mind-body distinction and union",
+                  "workId": "descartes-meditations",
+                  "locator": "Meditations V on essence, God and clear and distinct perception",
                   "excerptStatus": "summary_only"
                 }
               }
@@ -166,32 +167,32 @@
           },
           {
             "id": "descartes:claim:004",
-            "titleZh": "核心命题二：心灵与身体如何区分？",
-            "claimZh": "笛卡尔在“心灵与身体如何区分？”中进一步推出实践、制度或认识论后果。",
-            "explanationZh": "该命题把概念论证推进到可比较的问题谱系，避免只停留在术语解释。",
+            "titleZh": "错误来自意志越出理解范围",
+            "claimZh": "笛卡尔把错误解释为意志判断超过理解所清楚把握的范围，而不是理智能力本身必然虚假。",
+            "explanationZh": "因此避免错误的伦理也是认识论纪律：只在清楚分明处下判断，暂停含混处的肯定。",
             "themeIds": [
-              "freedom",
+              "knowledge",
               "ethics"
             ],
             "weight": 2,
             "evidence": [
               {
                 "id": "descartes:evidence:007",
-                "titleZh": "核心命题二：心灵与身体如何区分？的文本依据",
-                "summaryZh": "笛卡尔在 Meditationes II on wax example 中提供该命题的原典定位，用于支撑“核心命题二：心灵与身体如何区分？”这一解释。",
+                "titleZh": "第四沉思的错误理论",
+                "summaryZh": "《第四沉思》说明理解有限而意志较广，当意志肯定未被清楚理解之事时就产生错误，进一步说明“第四沉思的错误理论”如何进入“错误来自意志越出理解范围”的论证链条。",
                 "source": {
-                  "workId": "descartes-primary-work",
-                  "locator": "Meditationes II on wax example",
+                  "workId": "descartes-meditations",
+                  "locator": "Meditations IV on truth, falsity, intellect and will",
                   "excerptStatus": "summary_only"
                 }
               },
               {
                 "id": "descartes:evidence:008",
-                "titleZh": "核心命题二：心灵与身体如何区分？的文本依据",
-                "summaryZh": "笛卡尔在 Meditationes VI on mind-body distinction and union 中提供该命题的原典定位，用于支撑“核心命题二：心灵与身体如何区分？”这一解释。",
+                "titleZh": "哲学原理中的判断纪律",
+                "summaryZh": "《哲学原理》第一部系统说明判断、自由意志与错误关系，把认识错误纳入判断纪律，进一步说明“哲学原理中的判断纪律”如何进入“错误来自意志越出理解范围”的论证链条。",
                 "source": {
-                  "workId": "descartes-primary-work",
-                  "locator": "Meditationes VI on mind-body distinction and union",
+                  "workId": "descartes-principles-philosophy",
+                  "locator": "Principles of Philosophy I.30-43 on judgment, error and free will",
                   "excerptStatus": "summary_only"
                 }
               }
@@ -201,43 +202,44 @@
       },
       {
         "id": "descartes:problem:003",
-        "titleZh": "上帝保证知识吗？",
-        "questionZh": "笛卡尔如何围绕“上帝保证知识吗？”建立其思想问题？",
-        "summaryZh": "笛卡尔在这一问题上形成了可辨认的论证路径，连接文本命题、概念区分和后世问题谱系。",
+        "titleZh": "心身区分如何支撑科学与生活？",
+        "questionZh": "笛卡尔如何同时主张心身实在区分，又解释具身人的感觉和情感？",
+        "summaryZh": "笛卡尔区分思维实体和广延实体，为机械自然科学开路；但他又承认人在经验中是心身结合体，需要用激情理论解释身体变化如何进入生活判断。",
         "themeIds": [
-          "politics",
-          "ethics"
+          "metaphysics",
+          "knowledge",
+          "life_death"
         ],
         "weight": 2,
         "claims": [
           {
             "id": "descartes:claim:005",
-            "titleZh": "核心命题一：上帝保证知识吗？",
-            "claimZh": "笛卡尔在“上帝保证知识吗？”中提出基础性立场，说明其理论问题的出发点。",
-            "explanationZh": "该命题概括其原典中反复出现的论证方向，并为本问题的后续分支提供基础。",
+            "titleZh": "心与身体可被清楚地区分",
+            "claimZh": "笛卡尔认为心灵本质是思维，身体本质是广延，二者可被清楚分明地理解为不同实体。",
+            "explanationZh": "这一论证为机械自然观提供形而上学基础，同时留下心身结合和相互作用问题。",
             "themeIds": [
-              "politics",
-              "ethics"
+              "metaphysics",
+              "knowledge"
             ],
             "weight": 3,
             "evidence": [
               {
                 "id": "descartes:evidence:009",
-                "titleZh": "核心命题一：上帝保证知识吗？的文本依据",
-                "summaryZh": "笛卡尔在 Meditationes III on idea of God 中提供该命题的原典定位，用于支撑“核心命题一：上帝保证知识吗？”这一解释。",
+                "titleZh": "第六沉思的心身区分",
+                "summaryZh": "《第六沉思》以可清楚理解心灵无广延、身体无思想来论证二者实在区分，进一步说明“第六沉思的心身区分”如何进入“心与身体可被清楚地区分”的论证链条。",
                 "source": {
-                  "workId": "descartes-primary-work",
-                  "locator": "Meditationes III on idea of God",
+                  "workId": "descartes-meditations",
+                  "locator": "Meditations VI on real distinction between mind and body",
                   "excerptStatus": "summary_only"
                 }
               },
               {
                 "id": "descartes:evidence:010",
-                "titleZh": "核心命题一：上帝保证知识吗？的文本依据",
-                "summaryZh": "笛卡尔在 Meditationes IV on error, will and intellect 中提供该命题的原典定位，用于支撑“核心命题一：上帝保证知识吗？”这一解释。",
+                "titleZh": "物体作为广延",
+                "summaryZh": "《哲学原理》第二部把物体本质规定为广延，为用几何和运动解释自然奠定基础，进一步说明“物体作为广延”如何进入“心与身体可被清楚地区分”的论证链条。",
                 "source": {
-                  "workId": "descartes-primary-work",
-                  "locator": "Meditationes IV on error, will and intellect",
+                  "workId": "descartes-principles-philosophy",
+                  "locator": "Principles of Philosophy II.1-4 on body as extension",
                   "excerptStatus": "summary_only"
                 }
               }
@@ -245,32 +247,32 @@
           },
           {
             "id": "descartes:claim:006",
-            "titleZh": "核心命题二：上帝保证知识吗？",
-            "claimZh": "笛卡尔在“上帝保证知识吗？”中进一步推出实践、制度或认识论后果。",
-            "explanationZh": "该命题把概念论证推进到可比较的问题谱系，避免只停留在术语解释。",
+            "titleZh": "激情显示心身结合的实践问题",
+            "claimZh": "笛卡尔并未把人简化为纯心灵，他在激情理论中分析身体运动如何影响心灵感受和行动。",
+            "explanationZh": "激情研究把机械生理、道德训练和自我治理连接起来，说明笛卡尔哲学也处理具身生活。",
             "themeIds": [
-              "politics",
-              "ethics"
+              "ethics",
+              "life_death"
             ],
             "weight": 2,
             "evidence": [
               {
                 "id": "descartes:evidence:011",
-                "titleZh": "核心命题二：上帝保证知识吗？的文本依据",
-                "summaryZh": "笛卡尔在 Meditationes III on idea of God 中提供该命题的原典定位，用于支撑“核心命题二：上帝保证知识吗？”这一解释。",
+                "titleZh": "激情与心身结合",
+                "summaryZh": "《灵魂的激情》第一部把激情定义为由身体运动引起并归属于灵魂的感受，集中处理心身结合。",
                 "source": {
-                  "workId": "descartes-primary-work",
-                  "locator": "Meditationes III on idea of God",
+                  "workId": "descartes-passions-soul",
+                  "locator": "Passions of the Soul I.27-50 on passions and the union of soul and body",
                   "excerptStatus": "summary_only"
                 }
               },
               {
                 "id": "descartes:evidence:012",
-                "titleZh": "核心命题二：上帝保证知识吗？的文本依据",
-                "summaryZh": "笛卡尔在 Meditationes IV on error, will and intellect 中提供该命题的原典定位，用于支撑“核心命题二：上帝保证知识吗？”这一解释。",
+                "titleZh": "实践哲学与自然控制",
+                "summaryZh": "《方法谈》第六部分把新科学同医学、技术和改善生活相连，显示方法论最终面向实践哲学。",
                 "source": {
-                  "workId": "descartes-primary-work",
-                  "locator": "Meditationes IV on error, will and intellect",
+                  "workId": "descartes-discourse-method",
+                  "locator": "Discourse on the Method part VI on practical philosophy and mastery of nature",
                   "excerptStatus": "summary_only"
                 }
               }

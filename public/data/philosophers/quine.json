@@ -65,10 +65,20 @@
               {
                 "id": "quine:evidence:001",
                 "titleZh": "还原主义批判依据",
-                "summaryZh": "《经验论的两个教条》批判每个有意义陈述都能还原为直接经验条件的设想。",
+                "summaryZh": "《经验论的两个教条》批判每个有意义陈述都能还原为直接经验条件的设想，认为检验涉及理论整体。",
                 "source": {
                   "workId": "quine-primary-work",
-                  "locator": "《经验论的两个教条》关于还原主义教条",
+                  "locator": "《经验论的两个教条》“还原主义教条”段",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "quine:evidence:007",
+                "titleZh": "整体面对经验依据",
+                "summaryZh": "《经验论的两个教条》结尾把科学看作整体面对经验法庭的系统，单个陈述并不孤立接受裁决。",
+                "source": {
+                  "workId": "quine-primary-work",
+                  "locator": "《经验论的两个教条》“整体论结论”段",
                   "excerptStatus": "summary_only"
                 }
               }
@@ -87,10 +97,20 @@
               {
                 "id": "quine:evidence:002",
                 "titleZh": "信念之网依据",
-                "summaryZh": "《经验论的两个教条》用信念之网比喻说明经验冲击与理论调整的整体性。",
+                "summaryZh": "《经验论的两个教条》用信念之网比喻说明经验冲击与理论调整的整体性，边缘和中心信念可有不同修正代价。",
                 "source": {
                   "workId": "quine-primary-work",
-                  "locator": "《经验论的两个教条》结尾关于信念之网",
+                  "locator": "《经验论的两个教条》“信念之网”段",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "quine:evidence:008",
+                "titleZh": "修正选择依据",
+                "summaryZh": "同文指出面对顽固经验时原则上可调整多处信念，包括辅助假设、定义甚至逻辑，只是代价和效用不同。",
+                "source": {
+                  "workId": "quine-primary-work",
+                  "locator": "《经验论的两个教条》“经验冲击和理论调整”段",
                   "excerptStatus": "summary_only"
                 }
               }
@@ -123,10 +143,20 @@
               {
                 "id": "quine:evidence:003",
                 "titleZh": "同义性批判依据",
-                "summaryZh": "《经验论的两个教条》追问分析性、可互换性和语义规则能否非循环说明同义性。",
+                "summaryZh": "《经验论的两个教条》追问分析性、可互换性和语义规则能否非循环说明同义性，认为这些说明并不独立。",
                 "source": {
                   "workId": "quine-primary-work",
-                  "locator": "《经验论的两个教条》前半部分关于分析性和同义性",
+                  "locator": "《经验论的两个教条》“分析性和同义性”段",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "quine:evidence:009",
+                "titleZh": "定义解释不足依据",
+                "summaryZh": "蒯因分析定义、说明和可互换性时指出，它们常预设已经理解的同义关系，无法为分析性提供最终基础。",
+                "source": {
+                  "workId": "quine-primary-work",
+                  "locator": "《经验论的两个教条》“定义和可互换性”段",
                   "excerptStatus": "summary_only"
                 }
               }
@@ -146,10 +176,20 @@
               {
                 "id": "quine:evidence:004",
                 "titleZh": "整体论依据",
-                "summaryZh": "《经验论的两个教条》把科学整体看成经验边界条件下的人工结构。",
+                "summaryZh": "《经验论的两个教条》把科学整体看成经验边界条件下的人工结构，逻辑和数学也位于网络的核心区域。",
                 "source": {
                   "workId": "quine-primary-work",
-                  "locator": "《经验论的两个教条》结尾关于整体论和实用选择",
+                  "locator": "《经验论的两个教条》“科学整体作为人工结构”段",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "quine:evidence:010",
+                "titleZh": "可修正性依据",
+                "summaryZh": "蒯因并不把逻辑修正当作日常选择，而是指出任何信念原则上都可在理论整体压力下被重新评估。",
+                "source": {
+                  "workId": "quine-primary-work",
+                  "locator": "《经验论的两个教条》“没有绝对免疫陈述”段",
                   "excerptStatus": "summary_only"
                 }
               }
@@ -182,10 +222,20 @@
               {
                 "id": "quine:evidence:005",
                 "titleZh": "变量取值依据",
-                "summaryZh": "《论何物存在》以量化逻辑说明本体论承诺应从理论的约束变量中读取。",
+                "summaryZh": "《论何物存在》以量化逻辑说明本体论承诺应从理论的约束变量中读取，存在问题因而与形式化相关。",
                 "source": {
                   "workId": "quine-primary-work",
-                  "locator": "《论何物存在》关于to be is to be the value of a variable",
+                  "locator": "《论何物存在》“to be is to be the value of a variable”段",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "quine:evidence:011",
+                "titleZh": "柏拉图胡须问题依据",
+                "summaryZh": "《论何物存在》讨论虚构对象和抽象对象争论，借逻辑重述说明如何避免被名称表面形式误导。",
+                "source": {
+                  "workId": "quine-primary-work",
+                  "locator": "《论何物存在》“柏拉图的胡须和名称问题”段",
                   "excerptStatus": "summary_only"
                 }
               }
@@ -205,10 +255,20 @@
               {
                 "id": "quine:evidence:006",
                 "titleZh": "本体论相对性依据",
-                "summaryZh": "《词与物》在语言和理论选择背景下讨论本体论承诺的相对性。",
+                "summaryZh": "《词与物》在语言和理论选择背景下讨论本体论承诺的相对性，显示存在论依赖翻译和理论框架。",
                 "source": {
                   "workId": "quine-primary-work",
-                  "locator": "《词与物》关于本体论相对性和翻译不确定性",
+                  "locator": "《词与物》“本体论相对性和翻译不确定性”段",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "quine:evidence:012",
+                "titleZh": "荒漠景观依据",
+                "summaryZh": "《论何物存在》以偏好“荒漠景观”说明本体论选择重视简约性，但这种选择仍服务于整体理论效用。",
+                "source": {
+                  "workId": "quine-primary-work",
+                  "locator": "《论何物存在》“荒漠景观和理论简约性”段",
                   "excerptStatus": "summary_only"
                 }
               }

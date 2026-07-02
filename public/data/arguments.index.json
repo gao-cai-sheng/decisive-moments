@@ -1161,7 +1161,7 @@
     "claimZh": "奥古斯丁围绕宗教提出了可供第一版检索的核心观点。",
     "explanationZh": "奥古斯丁的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
     "source": {
-      "workId": "augustine-primary-work",
+      "workId": "augustine-confessions",
       "excerptStatus": "summary_only"
     },
     "keywordsZh": [
@@ -1180,7 +1180,7 @@
     "claimZh": "奥古斯丁围绕形而上学提出了可供第一版检索的核心观点。",
     "explanationZh": "奥古斯丁的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
     "source": {
-      "workId": "augustine-primary-work",
+      "workId": "augustine-city-of-god",
       "excerptStatus": "summary_only"
     },
     "keywordsZh": [
@@ -1199,7 +1199,7 @@
     "claimZh": "波爱修斯围绕宗教提出了可供第一版检索的核心观点。",
     "explanationZh": "波爱修斯的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
     "source": {
-      "workId": "boethius-primary-work",
+      "workId": "boethius-consolation",
       "excerptStatus": "summary_only"
     },
     "keywordsZh": [
@@ -1218,7 +1218,7 @@
     "claimZh": "波爱修斯围绕形而上学提出了可供第一版检索的核心观点。",
     "explanationZh": "波爱修斯的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
     "source": {
-      "workId": "boethius-primary-work",
+      "workId": "boethius-consolation",
       "excerptStatus": "summary_only"
     },
     "keywordsZh": [
@@ -1237,7 +1237,7 @@
     "claimZh": "安瑟尔谟围绕宗教提出了可供第一版检索的核心观点。",
     "explanationZh": "安瑟尔谟的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
     "source": {
-      "workId": "anselm-primary-work",
+      "workId": "anselm-proslogion",
       "excerptStatus": "summary_only"
     },
     "keywordsZh": [
@@ -1256,7 +1256,7 @@
     "claimZh": "安瑟尔谟围绕形而上学提出了可供第一版检索的核心观点。",
     "explanationZh": "安瑟尔谟的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
     "source": {
-      "workId": "anselm-primary-work",
+      "workId": "anselm-proslogion",
       "excerptStatus": "summary_only"
     },
     "keywordsZh": [
@@ -1275,7 +1275,7 @@
     "claimZh": "托马斯·阿奎那围绕宗教提出了可供第一版检索的核心观点。",
     "explanationZh": "托马斯·阿奎那的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
     "source": {
-      "workId": "aquinas-primary-work",
+      "workId": "aquinas-summa-theologiae",
       "excerptStatus": "summary_only"
     },
     "keywordsZh": [
@@ -1294,7 +1294,7 @@
     "claimZh": "托马斯·阿奎那围绕形而上学提出了可供第一版检索的核心观点。",
     "explanationZh": "托马斯·阿奎那的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
     "source": {
-      "workId": "aquinas-primary-work",
+      "workId": "aquinas-de-ente",
       "excerptStatus": "summary_only"
     },
     "keywordsZh": [
@@ -1313,7 +1313,7 @@
     "claimZh": "奥卡姆围绕宗教提出了可供第一版检索的核心观点。",
     "explanationZh": "奥卡姆的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
     "source": {
-      "workId": "ockham-primary-work",
+      "workId": "ockham-dialogus",
       "excerptStatus": "summary_only"
     },
     "keywordsZh": [
@@ -1332,7 +1332,7 @@
     "claimZh": "奥卡姆围绕形而上学提出了可供第一版检索的核心观点。",
     "explanationZh": "奥卡姆的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
     "source": {
-      "workId": "ockham-primary-work",
+      "workId": "ockham-ordinatio",
       "excerptStatus": "summary_only"
     },
     "keywordsZh": [
@@ -1351,7 +1351,7 @@
     "claimZh": "伊拉斯谟围绕知识提出了可供第一版检索的核心观点。",
     "explanationZh": "伊拉斯谟的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
     "source": {
-      "workId": "erasmus-primary-work",
+      "workId": "erasmus-enchiridion",
       "excerptStatus": "summary_only"
     },
     "keywordsZh": [
@@ -1370,7 +1370,7 @@
     "claimZh": "伊拉斯谟围绕自由提出了可供第一版检索的核心观点。",
     "explanationZh": "伊拉斯谟的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
     "source": {
-      "workId": "erasmus-primary-work",
+      "workId": "erasmus-free-will",
       "excerptStatus": "summary_only"
     },
     "keywordsZh": [
@@ -1389,7 +1389,7 @@
     "claimZh": "马基雅维利围绕知识提出了可供第一版检索的核心观点。",
     "explanationZh": "马基雅维利的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
     "source": {
-      "workId": "machiavelli-primary-work",
+      "workId": "machiavelli-prince",
       "excerptStatus": "summary_only"
     },
     "keywordsZh": [
@@ -1408,7 +1408,7 @@
     "claimZh": "马基雅维利围绕自由提出了可供第一版检索的核心观点。",
     "explanationZh": "马基雅维利的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
     "source": {
-      "workId": "machiavelli-primary-work",
+      "workId": "machiavelli-discourses",
       "excerptStatus": "summary_only"
     },
     "keywordsZh": [
@@ -1427,7 +1427,7 @@
     "claimZh": "蒙田围绕知识提出了可供第一版检索的核心观点。",
     "explanationZh": "蒙田的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
     "source": {
-      "workId": "montaigne-primary-work",
+      "workId": "montaigne-essays",
       "excerptStatus": "summary_only"
     },
     "keywordsZh": [
@@ -1446,7 +1446,7 @@
     "claimZh": "蒙田围绕自由提出了可供第一版检索的核心观点。",
     "explanationZh": "蒙田的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
     "source": {
-      "workId": "montaigne-primary-work",
+      "workId": "montaigne-essays",
       "excerptStatus": "summary_only"
     },
     "keywordsZh": [
@@ -1465,8 +1465,9 @@
     "claimZh": "弗朗西斯·培根围绕知识提出了可供第一版检索的核心观点。",
     "explanationZh": "弗朗西斯·培根的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
     "source": {
-      "workId": "bacon-primary-work",
-      "excerptStatus": "summary_only"
+      "workId": "bacon-novum-organum",
+      "excerptStatus": "summary_only",
+      "locator": "Novum Organum I.38-68 on idols"
     },
     "keywordsZh": [
       "知识",
@@ -1484,8 +1485,9 @@
     "claimZh": "弗朗西斯·培根围绕自由提出了可供第一版检索的核心观点。",
     "explanationZh": "弗朗西斯·培根的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
     "source": {
-      "workId": "bacon-primary-work",
-      "excerptStatus": "summary_only"
+      "workId": "bacon-new-atlantis",
+      "excerptStatus": "summary_only",
+      "locator": "New Atlantis on Salomon's House"
     },
     "keywordsZh": [
       "自由",
@@ -1503,8 +1505,9 @@
     "claimZh": "霍布斯围绕知识提出了可供第一版检索的核心观点。",
     "explanationZh": "霍布斯的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
     "source": {
-      "workId": "hobbes-primary-work",
-      "excerptStatus": "summary_only"
+      "workId": "hobbes-leviathan",
+      "excerptStatus": "summary_only",
+      "locator": "Leviathan chapters 4-5 on language and reason"
     },
     "keywordsZh": [
       "知识",
@@ -1522,8 +1525,9 @@
     "claimZh": "霍布斯围绕自由提出了可供第一版检索的核心观点。",
     "explanationZh": "霍布斯的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
     "source": {
-      "workId": "hobbes-primary-work",
-      "excerptStatus": "summary_only"
+      "workId": "hobbes-leviathan",
+      "excerptStatus": "summary_only",
+      "locator": "Leviathan chapter 21 on liberty of subjects"
     },
     "keywordsZh": [
       "自由",
@@ -1541,8 +1545,9 @@
     "claimZh": "笛卡尔围绕知识提出了可供第一版检索的核心观点。",
     "explanationZh": "笛卡尔的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
     "source": {
-      "workId": "descartes-primary-work",
-      "excerptStatus": "summary_only"
+      "workId": "descartes-meditations",
+      "excerptStatus": "summary_only",
+      "locator": "Meditations I-II on doubt and cogito"
     },
     "keywordsZh": [
       "知识",
@@ -1560,8 +1565,9 @@
     "claimZh": "笛卡尔围绕自由提出了可供第一版检索的核心观点。",
     "explanationZh": "笛卡尔的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
     "source": {
-      "workId": "descartes-primary-work",
-      "excerptStatus": "summary_only"
+      "workId": "descartes-passions-soul",
+      "excerptStatus": "summary_only",
+      "locator": "Passions of the Soul I on passions and mind-body union"
     },
     "keywordsZh": [
       "自由",
@@ -1579,8 +1585,9 @@
     "claimZh": "斯宾诺莎围绕知识提出了可供第一版检索的核心观点。",
     "explanationZh": "斯宾诺莎的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
     "source": {
-      "workId": "spinoza-primary-work",
-      "excerptStatus": "summary_only"
+      "workId": "spinoza-ethics",
+      "excerptStatus": "summary_only",
+      "locator": "Ethics I-II on substance, ideas and knowledge"
     },
     "keywordsZh": [
       "知识",
@@ -1598,8 +1605,9 @@
     "claimZh": "斯宾诺莎围绕自由提出了可供第一版检索的核心观点。",
     "explanationZh": "斯宾诺莎的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
     "source": {
-      "workId": "spinoza-primary-work",
-      "excerptStatus": "summary_only"
+      "workId": "spinoza-ethics",
+      "excerptStatus": "summary_only",
+      "locator": "Ethics IV-V on bondage and freedom"
     },
     "keywordsZh": [
       "自由",
@@ -1617,8 +1625,9 @@
     "claimZh": "洛克围绕知识提出了可供第一版检索的核心观点。",
     "explanationZh": "洛克的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
     "source": {
-      "workId": "locke-primary-work",
-      "excerptStatus": "summary_only"
+      "workId": "locke-essay-human-understanding",
+      "excerptStatus": "summary_only",
+      "locator": "Essay Concerning Human Understanding I-II on ideas"
     },
     "keywordsZh": [
       "知识",
@@ -1636,8 +1645,9 @@
     "claimZh": "洛克围绕自由提出了可供第一版检索的核心观点。",
     "explanationZh": "洛克的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
     "source": {
-      "workId": "locke-primary-work",
-      "excerptStatus": "summary_only"
+      "workId": "locke-two-treatises",
+      "excerptStatus": "summary_only",
+      "locator": "Second Treatise chapters 2, 5, 8-9 on rights, property and consent"
     },
     "keywordsZh": [
       "自由",
@@ -1655,7 +1665,8 @@
     "claimZh": "莱布尼茨围绕知识提出了可供第一版检索的核心观点。",
     "explanationZh": "莱布尼茨的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
     "source": {
-      "workId": "leibniz-primary-work",
+      "workId": "leibniz-monadology",
+      "locator": "Monadology §§31-36 on sufficient reason",
       "excerptStatus": "summary_only"
     },
     "keywordsZh": [
@@ -1674,7 +1685,8 @@
     "claimZh": "莱布尼茨围绕自由提出了可供第一版检索的核心观点。",
     "explanationZh": "莱布尼茨的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
     "source": {
-      "workId": "leibniz-primary-work",
+      "workId": "leibniz-theodicy",
+      "locator": "Theodicy on freedom, contingency and moral necessity",
       "excerptStatus": "summary_only"
     },
     "keywordsZh": [
@@ -1693,7 +1705,8 @@
     "claimZh": "休谟围绕知识提出了可供第一版检索的核心观点。",
     "explanationZh": "休谟的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
     "source": {
-      "workId": "hume-primary-work",
+      "workId": "hume-enquiry-human-understanding",
+      "locator": "Enquiry sections 2 and 7 on ideas and causation",
       "excerptStatus": "summary_only"
     },
     "keywordsZh": [
@@ -1712,7 +1725,8 @@
     "claimZh": "休谟围绕自由提出了可供第一版检索的核心观点。",
     "explanationZh": "休谟的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
     "source": {
-      "workId": "hume-primary-work",
+      "workId": "hume-treatise",
+      "locator": "Treatise II.iii on passions, liberty and necessity",
       "excerptStatus": "summary_only"
     },
     "keywordsZh": [
@@ -1731,7 +1745,8 @@
     "claimZh": "卢梭围绕知识提出了可供第一版检索的核心观点。",
     "explanationZh": "卢梭的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
     "source": {
-      "workId": "rousseau-primary-work",
+      "workId": "rousseau-discourse-inequality",
+      "locator": "Discourse on Inequality part I on natural man",
       "excerptStatus": "summary_only"
     },
     "keywordsZh": [
@@ -1750,7 +1765,8 @@
     "claimZh": "卢梭围绕自由提出了可供第一版检索的核心观点。",
     "explanationZh": "卢梭的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
     "source": {
-      "workId": "rousseau-primary-work",
+      "workId": "rousseau-social-contract",
+      "locator": "Social Contract I.6-8 and II.1-4 on pact and general will",
       "excerptStatus": "summary_only"
     },
     "keywordsZh": [
@@ -1807,7 +1823,8 @@
     "claimZh": "黑格尔围绕知识提出了可供第一版检索的核心观点。",
     "explanationZh": "黑格尔的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
     "source": {
-      "workId": "hegel-primary-work",
+      "workId": "hegel-phenomenology-spirit",
+      "locator": "Phenomenology of Spirit Introduction and Preface",
       "excerptStatus": "summary_only"
     },
     "keywordsZh": [
@@ -1826,7 +1843,8 @@
     "claimZh": "黑格尔围绕自由提出了可供第一版检索的核心观点。",
     "explanationZh": "黑格尔的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
     "source": {
-      "workId": "hegel-primary-work",
+      "workId": "hegel-philosophy-right",
+      "locator": "Philosophy of Right §§142-260 on ethical life and state",
       "excerptStatus": "summary_only"
     },
     "keywordsZh": [
@@ -1845,7 +1863,8 @@
     "claimZh": "叔本华围绕知识提出了可供第一版检索的核心观点。",
     "explanationZh": "叔本华的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
     "source": {
-      "workId": "schopenhauer-primary-work",
+      "workId": "schopenhauer-world-will-representation",
+      "locator": "World as Will and Representation I §§1 and 18-20",
       "excerptStatus": "summary_only"
     },
     "keywordsZh": [
@@ -1864,7 +1883,8 @@
     "claimZh": "叔本华围绕自由提出了可供第一版检索的核心观点。",
     "explanationZh": "叔本华的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
     "source": {
-      "workId": "schopenhauer-primary-work",
+      "workId": "schopenhauer-world-will-representation",
+      "locator": "World as Will and Representation I §§56-71 on suffering and denial of will",
       "excerptStatus": "summary_only"
     },
     "keywordsZh": [
@@ -1883,7 +1903,8 @@
     "claimZh": "克尔凯郭尔围绕知识提出了可供第一版检索的核心观点。",
     "explanationZh": "克尔凯郭尔的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
     "source": {
-      "workId": "kierkegaard-primary-work",
+      "workId": "kierkegaard-concluding-postscript",
+      "locator": "Concluding Unscientific Postscript on subjective truth",
       "excerptStatus": "summary_only"
     },
     "keywordsZh": [
@@ -1902,7 +1923,8 @@
     "claimZh": "克尔凯郭尔围绕自由提出了可供第一版检索的核心观点。",
     "explanationZh": "克尔凯郭尔的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
     "source": {
-      "workId": "kierkegaard-primary-work",
+      "workId": "kierkegaard-fear-trembling",
+      "locator": "Fear and Trembling on faith and the teleological suspension of the ethical",
       "excerptStatus": "summary_only"
     },
     "keywordsZh": [
@@ -1921,7 +1943,8 @@
     "claimZh": "约翰·密尔围绕知识提出了可供第一版检索的核心观点。",
     "explanationZh": "约翰·密尔的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
     "source": {
-      "workId": "mill-primary-work",
+      "workId": "mill-system-logic",
+      "locator": "A System of Logic book III on induction and causation",
       "excerptStatus": "summary_only"
     },
     "keywordsZh": [
@@ -1940,7 +1963,8 @@
     "claimZh": "约翰·密尔围绕自由提出了可供第一版检索的核心观点。",
     "explanationZh": "约翰·密尔的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
     "source": {
-      "workId": "mill-primary-work",
+      "workId": "mill-on-liberty",
+      "locator": "On Liberty chapters 1-3 on harm, discussion and individuality",
       "excerptStatus": "summary_only"
     },
     "keywordsZh": [
@@ -3289,8 +3313,9 @@
     "claimZh": "和辻哲郎围绕宗教提出了可供第一版检索的核心观点。",
     "explanationZh": "和辻哲郎的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
     "source": {
-      "workId": "watsuji-primary-work",
-      "excerptStatus": "summary_only"
+      "workId": "watsuji-history-japanese-ethical-thought",
+      "excerptStatus": "summary_only",
+      "locator": "History of Japanese Ethical Thought on Buddhism and Japanese ethical consciousness"
     },
     "keywordsZh": [
       "宗教",
@@ -3308,8 +3333,9 @@
     "claimZh": "和辻哲郎围绕审美提出了可供第一版检索的核心观点。",
     "explanationZh": "和辻哲郎的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
     "source": {
-      "workId": "watsuji-primary-work",
-      "excerptStatus": "summary_only"
+      "workId": "watsuji-fudo",
+      "excerptStatus": "summary_only",
+      "locator": "Fudo on climate, culture and aesthetic-religious forms"
     },
     "keywordsZh": [
       "审美",
@@ -3327,8 +3353,9 @@
     "claimZh": "退溪李滉围绕伦理提出了可供第一版检索的核心观点。",
     "explanationZh": "退溪李滉的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
     "source": {
-      "workId": "toegye-primary-work",
-      "excerptStatus": "summary_only"
+      "workId": "toegye-ten-diagrams",
+      "excerptStatus": "summary_only",
+      "locator": "Ten Diagrams on Sage Learning on reverence and self-cultivation"
     },
     "keywordsZh": [
       "伦理",
@@ -3346,8 +3373,9 @@
     "claimZh": "退溪李滉围绕政治提出了可供第一版检索的核心观点。",
     "explanationZh": "退溪李滉的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
     "source": {
-      "workId": "toegye-primary-work",
-      "excerptStatus": "summary_only"
+      "workId": "toegye-ten-diagrams",
+      "excerptStatus": "summary_only",
+      "locator": "Ten Diagrams on Sage Learning as rulerly education"
     },
     "keywordsZh": [
       "政治",
@@ -3365,8 +3393,9 @@
     "claimZh": "栗谷李珥围绕伦理提出了可供第一版检索的核心观点。",
     "explanationZh": "栗谷李珥的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
     "source": {
-      "workId": "yulgok-primary-work",
-      "excerptStatus": "summary_only"
+      "workId": "yulgok-essentials-sage-learning",
+      "excerptStatus": "summary_only",
+      "locator": "Essentials of the Studies of the Sages on self-cultivation"
     },
     "keywordsZh": [
       "伦理",
@@ -3384,8 +3413,9 @@
     "claimZh": "栗谷李珥围绕政治提出了可供第一版检索的核心观点。",
     "explanationZh": "栗谷李珥的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
     "source": {
-      "workId": "yulgok-primary-work",
-      "excerptStatus": "summary_only"
+      "workId": "yulgok-memorial-ten-thousand-words",
+      "excerptStatus": "summary_only",
+      "locator": "Memorial in Ten Thousand Words on government reform"
     },
     "keywordsZh": [
       "政治",
@@ -3403,8 +3433,9 @@
     "claimZh": "伊本·赫勒敦围绕形而上学提出了可供第一版检索的核心观点。",
     "explanationZh": "伊本·赫勒敦的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
     "source": {
-      "workId": "ibn-khaldun-primary-work",
-      "excerptStatus": "summary_only"
+      "workId": "ibn-khaldun-muqaddimah",
+      "excerptStatus": "summary_only",
+      "locator": "Muqaddimah on umran, civilization and social causality"
     },
     "keywordsZh": [
       "形而上学",
@@ -3422,8 +3453,9 @@
     "claimZh": "伊本·赫勒敦围绕宗教提出了可供第一版检索的核心观点。",
     "explanationZh": "伊本·赫勒敦的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
     "source": {
-      "workId": "ibn-khaldun-primary-work",
-      "excerptStatus": "summary_only"
+      "workId": "ibn-khaldun-muqaddimah",
+      "excerptStatus": "summary_only",
+      "locator": "Muqaddimah on religion, caliphate and royal authority"
     },
     "keywordsZh": [
       "宗教",
@@ -3441,8 +3473,9 @@
     "claimZh": "安东·威廉·阿莫围绕政治提出了可供第一版检索的核心观点。",
     "explanationZh": "安东·威廉·阿莫的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
     "source": {
-      "workId": "amo-primary-work",
-      "excerptStatus": "summary_only"
+      "workId": "amo-right-moors-europe",
+      "excerptStatus": "summary_only",
+      "locator": "De jure Maurorum in Europa on legal status and freedom"
     },
     "keywordsZh": [
       "政治",
@@ -3460,8 +3493,9 @@
     "claimZh": "安东·威廉·阿莫围绕伦理提出了可供第一版检索的核心观点。",
     "explanationZh": "安东·威廉·阿莫的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
     "source": {
-      "workId": "amo-primary-work",
-      "excerptStatus": "summary_only"
+      "workId": "amo-impassivity-human-mind",
+      "excerptStatus": "summary_only",
+      "locator": "De humanae mentis apatheia on mind, body and sensation"
     },
     "keywordsZh": [
       "伦理",
@@ -3479,8 +3513,9 @@
     "claimZh": "夸西·维雷杜围绕政治提出了可供第一版检索的核心观点。",
     "explanationZh": "夸西·维雷杜的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
     "source": {
-      "workId": "wiredu-primary-work",
-      "excerptStatus": "summary_only"
+      "workId": "wiredu-democracy-consensus",
+      "excerptStatus": "summary_only",
+      "locator": "Democracy and Consensus in African Traditional Politics on consensus democracy"
     },
     "keywordsZh": [
       "政治",
@@ -3498,8 +3533,9 @@
     "claimZh": "夸西·维雷杜围绕伦理提出了可供第一版检索的核心观点。",
     "explanationZh": "夸西·维雷杜的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
     "source": {
-      "workId": "wiredu-primary-work",
-      "excerptStatus": "summary_only"
+      "workId": "wiredu-cultural-universals-particulars",
+      "excerptStatus": "summary_only",
+      "locator": "Cultural Universals and Particulars on personhood and moral concepts"
     },
     "keywordsZh": [
       "伦理",
@@ -3517,8 +3553,9 @@
     "claimZh": "桑戈尔围绕政治提出了可供第一版检索的核心观点。",
     "explanationZh": "桑戈尔的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
     "source": {
-      "workId": "senghor-primary-work",
-      "excerptStatus": "summary_only"
+      "workId": "senghor-african-socialism",
+      "excerptStatus": "summary_only",
+      "locator": "On African Socialism on communal traditions and postcolonial politics"
     },
     "keywordsZh": [
       "政治",
@@ -3536,8 +3573,9 @@
     "claimZh": "桑戈尔围绕伦理提出了可供第一版检索的核心观点。",
     "explanationZh": "桑戈尔的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
     "source": {
-      "workId": "senghor-primary-work",
-      "excerptStatus": "summary_only"
+      "workId": "senghor-liberte-negritude-humanism",
+      "excerptStatus": "summary_only",
+      "locator": "Liberté I on negritude, humanism and cultural dignity"
     },
     "keywordsZh": [
       "伦理",
@@ -3555,8 +3593,9 @@
     "claimZh": "洪通吉围绕政治提出了可供第一版检索的核心观点。",
     "explanationZh": "洪通吉的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
     "source": {
-      "workId": "hountondji-primary-work",
-      "excerptStatus": "summary_only"
+      "workId": "hountondji-struggle-meaning",
+      "excerptStatus": "summary_only",
+      "locator": "The Struggle for Meaning on culture, democracy and public meaning"
     },
     "keywordsZh": [
       "政治",
@@ -3574,8 +3613,9 @@
     "claimZh": "洪通吉围绕伦理提出了可供第一版检索的核心观点。",
     "explanationZh": "洪通吉的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
     "source": {
-      "workId": "hountondji-primary-work",
-      "excerptStatus": "summary_only"
+      "workId": "hountondji-african-philosophy",
+      "excerptStatus": "summary_only",
+      "locator": "African Philosophy: Myth and Reality on ethnophilosophy and philosophical discourse"
     },
     "keywordsZh": [
       "伦理",
@@ -3593,8 +3633,9 @@
     "claimZh": "杜塞尔围绕政治提出了可供第一版检索的核心观点。",
     "explanationZh": "杜塞尔的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
     "source": {
-      "workId": "dussel-primary-work",
-      "excerptStatus": "summary_only"
+      "workId": "dussel-twenty-theses-politics",
+      "excerptStatus": "summary_only",
+      "locator": "Twenty Theses on Politics on people, power and institutions"
     },
     "keywordsZh": [
       "政治",
@@ -3612,8 +3653,9 @@
     "claimZh": "杜塞尔围绕正义提出了可供第一版检索的核心观点。",
     "explanationZh": "杜塞尔的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
     "source": {
-      "workId": "dussel-primary-work",
-      "excerptStatus": "summary_only"
+      "workId": "dussel-ethics-liberation",
+      "excerptStatus": "summary_only",
+      "locator": "Ethics of Liberation on victims and exclusion"
     },
     "keywordsZh": [
       "正义",
@@ -3631,8 +3673,9 @@
     "claimZh": "塞亚围绕政治提出了可供第一版检索的核心观点。",
     "explanationZh": "塞亚的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
     "source": {
-      "workId": "zelea-primary-work",
-      "excerptStatus": "summary_only"
+      "workId": "zelea-america-consciousness",
+      "excerptStatus": "summary_only",
+      "locator": "America as Consciousness on Latin American historical agency"
     },
     "keywordsZh": [
       "政治",
@@ -3650,8 +3693,9 @@
     "claimZh": "塞亚围绕正义提出了可供第一版检索的核心观点。",
     "explanationZh": "塞亚的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
     "source": {
-      "workId": "zelea-primary-work",
-      "excerptStatus": "summary_only"
+      "workId": "zelea-discourse-margins",
+      "excerptStatus": "summary_only",
+      "locator": "Discourse from the Margins and Barbarism on marginality and justice"
     },
     "keywordsZh": [
       "正义",
@@ -3669,8 +3713,9 @@
     "claimZh": "胡安娜修女围绕政治提出了可供第一版检索的核心观点。",
     "explanationZh": "胡安娜修女的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
     "source": {
-      "workId": "sor-juana-primary-work",
-      "excerptStatus": "summary_only"
+      "workId": "sor-juana-respuesta",
+      "excerptStatus": "summary_only",
+      "locator": "Respuesta a Sor Filotea on women’s learning and authority"
     },
     "keywordsZh": [
       "政治",
@@ -3688,8 +3733,9 @@
     "claimZh": "胡安娜修女围绕正义提出了可供第一版检索的核心观点。",
     "explanationZh": "胡安娜修女的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
     "source": {
-      "workId": "sor-juana-primary-work",
-      "excerptStatus": "summary_only"
+      "workId": "sor-juana-respuesta",
+      "excerptStatus": "summary_only",
+      "locator": "Respuesta a Sor Filotea on women, knowledge and intellectual freedom"
     },
     "keywordsZh": [
       "正义",
@@ -3707,8 +3753,9 @@
     "claimZh": "普拉姆伍德围绕伦理提出了可供第一版检索的核心观点。",
     "explanationZh": "普拉姆伍德的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
     "source": {
-      "workId": "plumwood-primary-work",
-      "excerptStatus": "summary_only"
+      "workId": "plumwood-feminism-mastery-nature",
+      "excerptStatus": "summary_only",
+      "locator": "Feminism and the Mastery of Nature on dualism and ethics"
     },
     "keywordsZh": [
       "伦理",
@@ -3726,8 +3773,9 @@
     "claimZh": "普拉姆伍德围绕正义提出了可供第一版检索的核心观点。",
     "explanationZh": "普拉姆伍德的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
     "source": {
-      "workId": "plumwood-primary-work",
-      "excerptStatus": "summary_only"
+      "workId": "plumwood-environmental-culture",
+      "excerptStatus": "summary_only",
+      "locator": "Environmental Culture on ecological justice and human/nature relations"
     },
     "keywordsZh": [
       "正义",
@@ -3745,8 +3793,9 @@
     "claimZh": "巴特勒围绕伦理提出了可供第一版检索的核心观点。",
     "explanationZh": "巴特勒的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
     "source": {
-      "workId": "butler-primary-work",
-      "excerptStatus": "summary_only"
+      "workId": "butler-giving-account",
+      "excerptStatus": "summary_only",
+      "locator": "Giving an Account of Oneself on recognition and ethical responsibility"
     },
     "keywordsZh": [
       "伦理",
@@ -3764,8 +3813,9 @@
     "claimZh": "巴特勒围绕正义提出了可供第一版检索的核心观点。",
     "explanationZh": "巴特勒的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
     "source": {
-      "workId": "butler-primary-work",
-      "excerptStatus": "summary_only"
+      "workId": "butler-frames-war",
+      "excerptStatus": "summary_only",
+      "locator": "Frames of War on grievability and political framing"
     },
     "keywordsZh": [
       "正义",
@@ -3783,8 +3833,9 @@
     "claimZh": "贝尔·胡克斯围绕伦理提出了可供第一版检索的核心观点。",
     "explanationZh": "贝尔·胡克斯的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
     "source": {
-      "workId": "hooks-primary-work",
-      "excerptStatus": "summary_only"
+      "workId": "hooks-all-about-love",
+      "excerptStatus": "summary_only",
+      "locator": "All About Love on love as ethical action"
     },
     "keywordsZh": [
       "伦理",
@@ -3802,8 +3853,9 @@
     "claimZh": "贝尔·胡克斯围绕正义提出了可供第一版检索的核心观点。",
     "explanationZh": "贝尔·胡克斯的这条论述先作为结构化摘要骨架，用来验证命题检索、详情面板和收藏札记流程；审核阶段需要替换为准确表述。",
     "source": {
-      "workId": "hooks-primary-work",
-      "excerptStatus": "summary_only"
+      "workId": "hooks-feminist-theory-margin-center",
+      "excerptStatus": "summary_only",
+      "locator": "Feminist Theory: From Margin to Center on marginality and justice"
     },
     "keywordsZh": [
       "正义",

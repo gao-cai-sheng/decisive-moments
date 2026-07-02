@@ -98,7 +98,7 @@
               "knowledge",
               "ethics"
             ],
-            "weight": 3,
+            "weight": 2,
             "evidence": [
               {
                 "id": "krishnamurti:evidence:003",
@@ -235,7 +235,7 @@
               {
                 "id": "krishnamurti:evidence:009",
                 "titleZh": "《最初与最终的自由》把关系作为镜子",
-                "summaryZh": "相关章节以关系中的依赖、孤独和冲突说明，人通过他者看到自己的心理结构。",
+                "summaryZh": "相关章节以关系中的依赖、孤独和冲突说明，人通过他者看到自己的心理结构，关系由此成为自我认识场域。",
                 "source": {
                   "workId": "krishnamurti-primary-work",
                   "locator": "The First and Last Freedom, chapters on relationship, loneliness and self-knowledge",

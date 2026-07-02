@@ -66,10 +66,20 @@
               {
                 "id": "derrida:evidence:001",
                 "titleZh": "在场批判依据",
-                "summaryZh": "《论文字学》批判西方传统把语音、意义和在场结合起来贬低书写。",
+                "summaryZh": "《论文字学》批判西方传统把语音、意义和在场结合起来贬低书写，指出这种等级结构遮蔽了符号差异。",
                 "source": {
                   "workId": "derrida-primary-work",
-                  "locator": "《论文字学》第一部关于逻各斯中心主义和在场形而上学",
+                  "locator": "《论文字学》第一部“逻各斯中心主义和在场形而上学”段",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "derrida:evidence:007",
+                "titleZh": "胡塞尔符号批判依据",
+                "summaryZh": "《声音与现象》通过分析胡塞尔的表达和指示区分，说明意义的自我在场仍依赖可重复的符号结构。",
+                "source": {
+                  "workId": "derrida-primary-work",
+                  "locator": "《声音与现象》第1章“符号和在场”段",
                   "excerptStatus": "summary_only"
                 }
               }
@@ -89,10 +99,20 @@
               {
                 "id": "derrida:evidence:002",
                 "titleZh": "延异依据",
-                "summaryZh": "《延异》用différance说明意义既依赖差异又永远延期完成。",
+                "summaryZh": "《延异》用 différance 说明意义既依赖差异又不断延期完成，因而不能被还原为单一在场原点。",
                 "source": {
                   "workId": "derrida-primary-work",
-                  "locator": "《延异》演讲关于différance的双重含义",
+                  "locator": "《延异》演讲“différance 的双重含义”段",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "derrida:evidence:008",
+                "titleZh": "痕迹结构依据",
+                "summaryZh": "《论文字学》把痕迹理解为差异网络中的残留和指向，说明每个符号都携带不在场的他者关系。",
+                "source": {
+                  "workId": "derrida-primary-work",
+                  "locator": "《论文字学》第一部“痕迹与原书写”段",
                   "excerptStatus": "summary_only"
                 }
               }
@@ -124,10 +144,20 @@
               {
                 "id": "derrida:evidence:003",
                 "titleZh": "可迭代性依据",
-                "summaryZh": "《签名、事件、语境》说明符号必须能在不同语境中重复，才可能成为符号。",
+                "summaryZh": "《签名、事件、语境》说明符号必须能在不同语境中重复，才可能成为符号；可重复性不是偶然附加物。",
                 "source": {
                   "workId": "derrida-primary-work",
-                  "locator": "《签名、事件、语境》关于可迭代性",
+                  "locator": "《签名、事件、语境》“可迭代性”段",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "derrida:evidence:009",
+                "titleZh": "签名脱离原境依据",
+                "summaryZh": "《签名、事件、语境》用签名和书写例子说明，符号能运作正因为它可脱离发送者意图和原初场景。",
+                "source": {
+                  "workId": "derrida-primary-work",
+                  "locator": "《签名、事件、语境》“签名和脱离语境”段",
                   "excerptStatus": "summary_only"
                 }
               }
@@ -147,10 +177,20 @@
               {
                 "id": "derrida:evidence:004",
                 "titleZh": "语境不可饱和依据",
-                "summaryZh": "《签名、事件、语境》反对把语境当作能最终固定意义的封闭整体。",
+                "summaryZh": "《签名、事件、语境》反对把语境当作能最终固定意义的封闭整体，指出语境总可被补充和重新划界。",
                 "source": {
                   "workId": "derrida-primary-work",
-                  "locator": "《签名、事件、语境》关于语境不可饱和",
+                  "locator": "《签名、事件、语境》“语境不可饱和”段",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "derrida:evidence:010",
+                "titleZh": "有限语境批判依据",
+                "summaryZh": "《有限公司》回应误读争论时继续强调语境的必要性和不可完全封闭性，避免把解构理解成任意解释。",
+                "source": {
+                  "workId": "derrida-primary-work",
+                  "locator": "《有限公司》“语境、意图与迭代性”段",
                   "excerptStatus": "summary_only"
                 }
               }
@@ -183,10 +223,20 @@
               {
                 "id": "derrida:evidence:005",
                 "titleZh": "法律与正义依据",
-                "summaryZh": "《法律的力量》区分可解构的法律和不可被制度穷尽的正义要求。",
+                "summaryZh": "《法律的力量》区分可解构的法律和不可被制度穷尽的正义要求，说明规则与正义之间保留张力。",
                 "source": {
                   "workId": "derrida-primary-work",
-                  "locator": "《法律的力量》关于法律与正义的区分",
+                  "locator": "《法律的力量》“法律与正义的区分”段",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "derrida:evidence:011",
+                "titleZh": "可解构法律依据",
+                "summaryZh": "《法律的力量》强调法律制度、解释和执行总处于历史结构中，因此可以被审视、修订和解构。",
+                "source": {
+                  "workId": "derrida-primary-work",
+                  "locator": "《法律的力量》“法律的可解构性”段",
                   "excerptStatus": "summary_only"
                 }
               }
@@ -206,10 +256,20 @@
               {
                 "id": "derrida:evidence:006",
                 "titleZh": "不可判定性依据",
-                "summaryZh": "《法律的力量》说明，若决定完全由规则计算得出，就不能称为真正负责任的决定。",
+                "summaryZh": "《法律的力量》说明，若决定完全由规则计算得出，就不能称为真正负责任的决定；责任产生于不可判定处。",
                 "source": {
                   "workId": "derrida-primary-work",
-                  "locator": "《法律的力量》关于不可判定性与决定",
+                  "locator": "《法律的力量》“不可判定性与决定”段",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "derrida:evidence:012",
+                "titleZh": "他者责任依据",
+                "summaryZh": "《死亡的赠礼》讨论责任、秘密和他者召唤，显示伦理决定常在互相冲突的义务之间发生。",
+                "source": {
+                  "workId": "derrida-primary-work",
+                  "locator": "《死亡的赠礼》“责任与他者召唤”段",
                   "excerptStatus": "summary_only"
                 }
               }

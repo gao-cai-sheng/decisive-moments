@@ -235,116 +235,434 @@
     "noteZh": "第一版用于展示的种子文本，审核时替换为具体作品。"
   },
   {
-    "id": "augustine-primary-work",
+    "id": "augustine-confessions",
     "philosopherId": "augustine",
-    "titleZh": "奥古斯丁代表文本",
-    "titleEn": "Augustine of Hippo primary text",
-    "noteZh": "第一版用于展示的种子文本，审核时替换为具体作品。"
+    "titleZh": "忏悔录",
+    "titleEn": "Confessions",
+    "originalTitle": "Confessiones",
+    "noteZh": "奥古斯丁关于皈依、记忆、时间和内在性的核心文本。"
   },
   {
-    "id": "boethius-primary-work",
+    "id": "augustine-free-will",
+    "philosopherId": "augustine",
+    "titleZh": "论自由意志",
+    "titleEn": "On Free Choice of the Will",
+    "originalTitle": "De libero arbitrio",
+    "noteZh": "讨论恶、自由意志和责任问题的早期对话文本。"
+  },
+  {
+    "id": "augustine-city-of-god",
+    "philosopherId": "augustine",
+    "titleZh": "上帝之城",
+    "titleEn": "The City of God",
+    "originalTitle": "De civitate Dei",
+    "noteZh": "奥古斯丁关于历史、政治秩序、两座城和地上和平的代表作。"
+  },
+  {
+    "id": "boethius-consolation",
     "philosopherId": "boethius",
-    "titleZh": "波爱修斯代表文本",
-    "titleEn": "Boethius primary text",
-    "noteZh": "第一版用于展示的种子文本，审核时替换为具体作品。"
+    "titleZh": "哲学的慰藉",
+    "titleEn": "The Consolation of Philosophy",
+    "originalTitle": "Consolatio Philosophiae",
+    "noteZh": "波爱修斯关于命运、幸福、天意、自由和最高善的核心文本。"
   },
   {
-    "id": "anselm-primary-work",
+    "id": "anselm-proslogion",
     "philosopherId": "anselm",
-    "titleZh": "安瑟尔谟代表文本",
-    "titleEn": "Anselm of Canterbury primary text",
-    "noteZh": "第一版用于展示的种子文本，审核时替换为具体作品。"
+    "titleZh": "宣讲",
+    "titleEn": "Proslogion",
+    "originalTitle": "Proslogion",
+    "noteZh": "提出“信仰寻求理解”和本体论论证的核心文本。"
   },
   {
-    "id": "aquinas-primary-work",
+    "id": "anselm-monologion",
+    "philosopherId": "anselm",
+    "titleZh": "独白",
+    "titleEn": "Monologion",
+    "originalTitle": "Monologion",
+    "noteZh": "通过理性路径讨论最高本性和神学对象的早期文本。"
+  },
+  {
+    "id": "anselm-cur-deus-homo",
+    "philosopherId": "anselm",
+    "titleZh": "上帝为何成人",
+    "titleEn": "Why God Became Man",
+    "originalTitle": "Cur Deus Homo",
+    "noteZh": "安瑟尔谟关于补赎、正义、怜悯和道成肉身必要性的代表作。"
+  },
+  {
+    "id": "aquinas-summa-theologiae",
     "philosopherId": "aquinas",
-    "titleZh": "托马斯·阿奎那代表文本",
-    "titleEn": "Thomas Aquinas primary text",
-    "noteZh": "第一版用于展示的种子文本，审核时替换为具体作品。"
+    "titleZh": "神学大全",
+    "titleEn": "Summa Theologiae",
+    "originalTitle": "Summa Theologiae",
+    "noteZh": "阿奎那关于神学、形而上学、自然法和伦理秩序的系统著作。"
   },
   {
-    "id": "ockham-primary-work",
+    "id": "aquinas-de-ente",
+    "philosopherId": "aquinas",
+    "titleZh": "论存在者与本质",
+    "titleEn": "On Being and Essence",
+    "originalTitle": "De ente et essentia",
+    "noteZh": "阿奎那关于本质、存在和受造物形而上学结构的重要短论。"
+  },
+  {
+    "id": "ockham-summa-logicae",
     "philosopherId": "ockham",
-    "titleZh": "奥卡姆代表文本",
-    "titleEn": "William of Ockham primary text",
-    "noteZh": "第一版用于展示的种子文本，审核时替换为具体作品。"
+    "titleZh": "逻辑大全",
+    "titleEn": "Summa of Logic",
+    "originalTitle": "Summa Logicae",
+    "noteZh": "奥卡姆关于概念、项、共相和语言逻辑的代表文本。"
   },
   {
-    "id": "erasmus-primary-work",
+    "id": "ockham-ordinatio",
+    "philosopherId": "ockham",
+    "titleZh": "《伦巴底命题集》评注",
+    "titleEn": "Ordinatio",
+    "originalTitle": "Ordinatio",
+    "noteZh": "奥卡姆关于共相、个体和直观认识等经院问题的重要文本。"
+  },
+  {
+    "id": "ockham-quodlibeta",
+    "philosopherId": "ockham",
+    "titleZh": "任意问题集",
+    "titleEn": "Quodlibetal Questions",
+    "originalTitle": "Quodlibeta septem",
+    "noteZh": "奥卡姆讨论神的绝对能力、秩序能力和认识问题的重要材料。"
+  },
+  {
+    "id": "ockham-dialogus",
+    "philosopherId": "ockham",
+    "titleZh": "对话录",
+    "titleEn": "Dialogus",
+    "originalTitle": "Dialogus",
+    "noteZh": "奥卡姆关于教会权威、异端和教宗权力边界的政治神学文本。"
+  },
+  {
+    "id": "ockham-breviloquium",
+    "philosopherId": "ockham",
+    "titleZh": "政制简论",
+    "titleEn": "Short Discourse on Government",
+    "originalTitle": "Breviloquium de principatu tyrannico",
+    "noteZh": "奥卡姆关于教宗权力、帝国权威和政治边界的文本。"
+  },
+  {
+    "id": "erasmus-enchiridion",
     "philosopherId": "erasmus",
-    "titleZh": "伊拉斯谟代表文本",
-    "titleEn": "Erasmus primary text",
-    "noteZh": "第一版用于展示的种子文本，审核时替换为具体作品。"
+    "titleZh": "基督徒骑士手册",
+    "titleEn": "Handbook of the Christian Soldier",
+    "originalTitle": "Enchiridion militis Christiani",
+    "noteZh": "伊拉斯谟关于内在虔敬、伦理修养和基督教人文主义的代表文本。"
   },
   {
-    "id": "machiavelli-primary-work",
+    "id": "erasmus-praise-of-folly",
+    "philosopherId": "erasmus",
+    "titleZh": "愚人颂",
+    "titleEn": "The Praise of Folly",
+    "originalTitle": "Moriae Encomium",
+    "noteZh": "伊拉斯谟以讽刺方式批判经院空谈、教会弊病和社会虚荣的文本。"
+  },
+  {
+    "id": "erasmus-free-will",
+    "philosopherId": "erasmus",
+    "titleZh": "论自由意志",
+    "titleEn": "On Free Will",
+    "originalTitle": "De libero arbitrio diatribe sive collatio",
+    "noteZh": "伊拉斯谟回应宗教改革争论、维护有限自由意志和道德劝勉意义的文本。"
+  },
+  {
+    "id": "machiavelli-prince",
     "philosopherId": "machiavelli",
-    "titleZh": "马基雅维利代表文本",
-    "titleEn": "Niccolo Machiavelli primary text",
-    "noteZh": "第一版用于展示的种子文本，审核时替换为具体作品。"
+    "titleZh": "君主论",
+    "titleEn": "The Prince",
+    "originalTitle": "Il Principe",
+    "noteZh": "马基雅维利关于新君主、权力维持、德性与命运的代表作。"
   },
   {
-    "id": "montaigne-primary-work",
+    "id": "machiavelli-discourses",
+    "philosopherId": "machiavelli",
+    "titleZh": "论李维",
+    "titleEn": "Discourses on Livy",
+    "originalTitle": "Discorsi sopra la prima deca di Tito Livio",
+    "noteZh": "马基雅维利关于共和国、冲突、法律和公民德性的政治文本。"
+  },
+  {
+    "id": "montaigne-essays",
     "philosopherId": "montaigne",
-    "titleZh": "蒙田代表文本",
-    "titleEn": "Michel de Montaigne primary text",
-    "noteZh": "第一版用于展示的种子文本，审核时替换为具体作品。"
+    "titleZh": "随笔集",
+    "titleEn": "Essays",
+    "originalTitle": "Essais",
+    "noteZh": "蒙田关于怀疑、自我观察、习俗、死亡和生活判断的代表作。"
   },
   {
-    "id": "bacon-primary-work",
+    "id": "bacon-novum-organum",
     "philosopherId": "bacon",
-    "titleZh": "弗朗西斯·培根代表文本",
-    "titleEn": "Francis Bacon primary text",
-    "noteZh": "第一版用于展示的种子文本，审核时替换为具体作品。"
+    "titleZh": "新工具",
+    "titleEn": "Novum Organum",
+    "originalTitle": "Novum Organum",
+    "yearDisplay": "1620",
+    "noteZh": "培根关于偶像批判、新归纳法和科学发现程序的核心著作。"
   },
   {
-    "id": "hobbes-primary-work",
+    "id": "bacon-advancement-learning",
+    "philosopherId": "bacon",
+    "titleZh": "学术的进展",
+    "titleEn": "The Advancement of Learning",
+    "originalTitle": "The Advancement of Learning",
+    "yearDisplay": "1605",
+    "noteZh": "培根论述知识分类、学术制度缺陷和知识公共推进的英文著作。"
+  },
+  {
+    "id": "bacon-new-atlantis",
+    "philosopherId": "bacon",
+    "titleZh": "新大西岛",
+    "titleEn": "New Atlantis",
+    "originalTitle": "New Atlantis",
+    "yearDisplay": "1627",
+    "noteZh": "培根以所罗门宫描绘科学共同体、实验分工和知识公共效用的乌托邦文本。"
+  },
+  {
+    "id": "hobbes-leviathan",
     "philosopherId": "hobbes",
-    "titleZh": "霍布斯代表文本",
-    "titleEn": "Thomas Hobbes primary text",
-    "noteZh": "第一版用于展示的种子文本，审核时替换为具体作品。"
+    "titleZh": "利维坦",
+    "titleEn": "Leviathan",
+    "originalTitle": "Leviathan, or The Matter, Forme and Power of a Common-Wealth Ecclesiasticall and Civil",
+    "yearDisplay": "1651",
+    "noteZh": "霍布斯系统论述人性、语言、自然状态、契约、主权和臣民自由的政治哲学代表作。"
   },
   {
-    "id": "descartes-primary-work",
+    "id": "hobbes-de-cive",
+    "philosopherId": "hobbes",
+    "titleZh": "论公民",
+    "titleEn": "De Cive",
+    "originalTitle": "De Cive",
+    "yearDisplay": "1642",
+    "noteZh": "霍布斯较早集中论述自然状态、公民社会和主权秩序的拉丁文政治哲学著作。"
+  },
+  {
+    "id": "hobbes-elements-law",
+    "philosopherId": "hobbes",
+    "titleZh": "法律、自然与政治的要素",
+    "titleEn": "The Elements of Law",
+    "originalTitle": "The Elements of Law, Natural and Politic",
+    "yearDisplay": "1640",
+    "noteZh": "霍布斯早期阐述激情、人性、自然法和政治权力的著作。"
+  },
+  {
+    "id": "descartes-discourse-method",
     "philosopherId": "descartes",
-    "titleZh": "笛卡尔代表文本",
-    "titleEn": "Rene Descartes primary text",
-    "noteZh": "第一版用于展示的种子文本，审核时替换为具体作品。"
+    "titleZh": "方法谈",
+    "titleEn": "Discourse on the Method",
+    "originalTitle": "Discours de la méthode",
+    "yearDisplay": "1637",
+    "noteZh": "笛卡尔提出方法规则、科学改革理想和实践哲学方向的法文著作。"
   },
   {
-    "id": "spinoza-primary-work",
+    "id": "descartes-meditations",
+    "philosopherId": "descartes",
+    "titleZh": "第一哲学沉思集",
+    "titleEn": "Meditations on First Philosophy",
+    "originalTitle": "Meditationes de prima philosophia",
+    "yearDisplay": "1641",
+    "noteZh": "笛卡尔论证方法怀疑、我思、上帝、错误理论和心身区分的核心形而上学文本。"
+  },
+  {
+    "id": "descartes-principles-philosophy",
+    "philosopherId": "descartes",
+    "titleZh": "哲学原理",
+    "titleEn": "Principles of Philosophy",
+    "originalTitle": "Principia philosophiae",
+    "yearDisplay": "1644",
+    "noteZh": "笛卡尔以教科书形式系统陈述形而上学原则和机械自然哲学。"
+  },
+  {
+    "id": "descartes-passions-soul",
+    "philosopherId": "descartes",
+    "titleZh": "灵魂的激情",
+    "titleEn": "Passions of the Soul",
+    "originalTitle": "Les Passions de l’âme",
+    "yearDisplay": "1649",
+    "noteZh": "笛卡尔晚期分析激情、心身结合和情感治理的著作。"
+  },
+  {
+    "id": "spinoza-ethics",
     "philosopherId": "spinoza",
-    "titleZh": "斯宾诺莎代表文本",
-    "titleEn": "Baruch Spinoza primary text",
-    "noteZh": "第一版用于展示的种子文本，审核时替换为具体作品。"
+    "titleZh": "伦理学",
+    "titleEn": "Ethics",
+    "originalTitle": "Ethica ordine geometrico demonstrata",
+    "yearDisplay": "1677",
+    "noteZh": "斯宾诺莎以几何方式论证实体一元论、情感理论、奴役与自由的核心著作。"
   },
   {
-    "id": "locke-primary-work",
+    "id": "spinoza-ttp",
+    "philosopherId": "spinoza",
+    "titleZh": "神学政治论",
+    "titleEn": "Theological-Political Treatise",
+    "originalTitle": "Tractatus Theologico-Politicus",
+    "yearDisplay": "1670",
+    "noteZh": "斯宾诺莎论述圣经解释、神学与理性、思想自由和政治和平的关键著作。"
+  },
+  {
+    "id": "spinoza-political-treatise",
+    "philosopherId": "spinoza",
+    "titleZh": "政治论",
+    "titleEn": "Political Treatise",
+    "originalTitle": "Tractatus Politicus",
+    "yearDisplay": "1677",
+    "noteZh": "斯宾诺莎晚期未完成政治哲学著作，讨论权利、国家形式和政治稳定。"
+  },
+  {
+    "id": "spinoza-emendation-intellect",
+    "philosopherId": "spinoza",
+    "titleZh": "知性改进论",
+    "titleEn": "Treatise on the Emendation of the Intellect",
+    "originalTitle": "Tractatus de Intellectus Emendatione",
+    "yearDisplay": "1677",
+    "noteZh": "斯宾诺莎关于认识方法、最高善和知性改进的早期未完成著作。"
+  },
+  {
+    "id": "locke-essay-human-understanding",
     "philosopherId": "locke",
-    "titleZh": "洛克代表文本",
-    "titleEn": "John Locke primary text",
-    "noteZh": "第一版用于展示的种子文本，审核时替换为具体作品。"
+    "titleZh": "人类理解论",
+    "titleEn": "An Essay Concerning Human Understanding",
+    "originalTitle": "An Essay Concerning Human Understanding",
+    "yearDisplay": "1689",
+    "noteZh": "洛克系统论述观念来源、语言、知识范围、人格同一性和自由问题的认识论代表作。"
   },
   {
-    "id": "leibniz-primary-work",
+    "id": "locke-two-treatises",
+    "philosopherId": "locke",
+    "titleZh": "政府论两篇",
+    "titleEn": "Two Treatises of Government",
+    "originalTitle": "Two Treatises of Government",
+    "yearDisplay": "1689",
+    "noteZh": "洛克论述自然权利、同意、财产、政府信托和反抗权的政治哲学著作。"
+  },
+  {
+    "id": "locke-letter-toleration",
+    "philosopherId": "locke",
+    "titleZh": "论宽容书简",
+    "titleEn": "A Letter Concerning Toleration",
+    "originalTitle": "Epistola de Tolerantia / A Letter Concerning Toleration",
+    "yearDisplay": "1689",
+    "noteZh": "洛克论述宗教宽容、良心自由和民事权力边界的文本。"
+  },
+  {
+    "id": "locke-thoughts-education",
+    "philosopherId": "locke",
+    "titleZh": "教育漫话",
+    "titleEn": "Some Thoughts Concerning Education",
+    "originalTitle": "Some Thoughts Concerning Education",
+    "yearDisplay": "1693",
+    "noteZh": "洛克关于习惯、品格、教育和实践理性的教育哲学著作。"
+  },
+  {
+    "id": "leibniz-discourse-metaphysics",
     "philosopherId": "leibniz",
-    "titleZh": "莱布尼茨代表文本",
-    "titleEn": "G. W. Leibniz primary text",
-    "noteZh": "第一版用于展示的种子文本，审核时替换为具体作品。"
+    "titleZh": "形而上学谈",
+    "titleEn": "Discourse on Metaphysics",
+    "originalTitle": "Discours de métaphysique",
+    "yearDisplay": "1686",
+    "noteZh": "莱布尼茨论述个体实体、完整概念和神学秩序的重要形而上学文本。"
   },
   {
-    "id": "hume-primary-work",
+    "id": "leibniz-monadology",
+    "philosopherId": "leibniz",
+    "titleZh": "单子论",
+    "titleEn": "Monadology",
+    "originalTitle": "Monadologie",
+    "yearDisplay": "1714",
+    "noteZh": "莱布尼茨集中阐述单子、前定和谐、充足理由和最佳世界的短篇体系文本。"
+  },
+  {
+    "id": "leibniz-new-essays",
+    "philosopherId": "leibniz",
+    "titleZh": "人类理解新论",
+    "titleEn": "New Essays on Human Understanding",
+    "originalTitle": "Nouveaux essais sur l’entendement humain",
+    "yearDisplay": "1704/1765",
+    "noteZh": "莱布尼茨回应洛克经验论、论述天赋倾向和认识能力的对话体著作。"
+  },
+  {
+    "id": "leibniz-theodicy",
+    "philosopherId": "leibniz",
+    "titleZh": "神义论",
+    "titleEn": "Theodicy",
+    "originalTitle": "Essais de Théodicée",
+    "yearDisplay": "1710",
+    "noteZh": "莱布尼茨处理恶的问题、自由、神的正义和最佳可能世界的主要著作。"
+  },
+  {
+    "id": "hume-treatise",
     "philosopherId": "hume",
-    "titleZh": "休谟代表文本",
-    "titleEn": "David Hume primary text",
-    "noteZh": "第一版用于展示的种子文本，审核时替换为具体作品。"
+    "titleZh": "人性论",
+    "titleEn": "A Treatise of Human Nature",
+    "originalTitle": "A Treatise of Human Nature",
+    "yearDisplay": "1739–1740",
+    "noteZh": "休谟系统论述印象观念、因果、自我、激情和道德情感的早期代表作。"
   },
   {
-    "id": "rousseau-primary-work",
+    "id": "hume-enquiry-human-understanding",
+    "philosopherId": "hume",
+    "titleZh": "人类理解研究",
+    "titleEn": "An Enquiry Concerning Human Understanding",
+    "originalTitle": "An Enquiry Concerning Human Understanding",
+    "yearDisplay": "1748",
+    "noteZh": "休谟以较简洁形式重述经验论、因果怀疑、自由与必然、神迹问题的著作。"
+  },
+  {
+    "id": "hume-enquiry-morals",
+    "philosopherId": "hume",
+    "titleZh": "道德原则研究",
+    "titleEn": "An Enquiry Concerning the Principles of Morals",
+    "originalTitle": "An Enquiry Concerning the Principles of Morals",
+    "yearDisplay": "1751",
+    "noteZh": "休谟集中论述道德情感、效用、同情和德性的成熟伦理学文本。"
+  },
+  {
+    "id": "hume-dialogues-natural-religion",
+    "philosopherId": "hume",
+    "titleZh": "自然宗教对话录",
+    "titleEn": "Dialogues Concerning Natural Religion",
+    "originalTitle": "Dialogues Concerning Natural Religion",
+    "yearDisplay": "1779",
+    "noteZh": "休谟通过对话形式审查设计论和自然神学论证的遗作。"
+  },
+  {
+    "id": "rousseau-discourse-inequality",
     "philosopherId": "rousseau",
-    "titleZh": "卢梭代表文本",
-    "titleEn": "Jean-Jacques Rousseau primary text",
-    "noteZh": "第一版用于展示的种子文本，审核时替换为具体作品。"
+    "titleZh": "论人类不平等的起源和基础",
+    "titleEn": "Discourse on the Origin and Foundations of Inequality among Men",
+    "originalTitle": "Discours sur l’origine et les fondements de l’inégalité parmi les hommes",
+    "yearDisplay": "1755",
+    "noteZh": "卢梭以自然状态假说批判文明、财产和社会不平等的核心文本。"
+  },
+  {
+    "id": "rousseau-social-contract",
+    "philosopherId": "rousseau",
+    "titleZh": "社会契约论",
+    "titleEn": "The Social Contract",
+    "originalTitle": "Du contrat social",
+    "yearDisplay": "1762",
+    "noteZh": "卢梭论述人民主权、公意、法律和公民自由的政治哲学代表作。"
+  },
+  {
+    "id": "rousseau-emile",
+    "philosopherId": "rousseau",
+    "titleZh": "爱弥儿",
+    "titleEn": "Emile, or On Education",
+    "originalTitle": "Émile, ou De l’éducation",
+    "yearDisplay": "1762",
+    "noteZh": "卢梭通过教育论展开自然、自由、怜悯、宗教和现代主体形成问题。"
+  },
+  {
+    "id": "rousseau-confessions",
+    "philosopherId": "rousseau",
+    "titleZh": "忏悔录",
+    "titleEn": "Confessions",
+    "originalTitle": "Les Confessions",
+    "yearDisplay": "1782–1789",
+    "noteZh": "卢梭以自我书写处理真实性、社会目光和现代主体自我辩护的文本。"
   },
   {
     "id": "kant-primary-work",
@@ -354,32 +672,166 @@
     "noteZh": "第一版用于展示的种子文本，审核时替换为具体作品。"
   },
   {
-    "id": "hegel-primary-work",
+    "id": "hegel-phenomenology-spirit",
     "philosopherId": "hegel",
-    "titleZh": "黑格尔代表文本",
-    "titleEn": "G. W. F. Hegel primary text",
-    "noteZh": "第一版用于展示的种子文本，审核时替换为具体作品。"
+    "titleZh": "精神现象学",
+    "titleEn": "Phenomenology of Spirit",
+    "originalTitle": "Phänomenologie des Geistes",
+    "yearDisplay": "1807",
+    "noteZh": "黑格尔展示意识、自我意识、承认、精神和绝对知识发展道路的核心著作。"
   },
   {
-    "id": "schopenhauer-primary-work",
+    "id": "hegel-science-logic",
+    "philosopherId": "hegel",
+    "titleZh": "逻辑学",
+    "titleEn": "Science of Logic",
+    "originalTitle": "Wissenschaft der Logik",
+    "yearDisplay": "1812–1816",
+    "noteZh": "黑格尔系统展开有、无、生成、本质、概念和辩证逻辑的著作。"
+  },
+  {
+    "id": "hegel-philosophy-right",
+    "philosopherId": "hegel",
+    "titleZh": "法哲学原理",
+    "titleEn": "Elements of the Philosophy of Right",
+    "originalTitle": "Grundlinien der Philosophie des Rechts",
+    "yearDisplay": "1820",
+    "noteZh": "黑格尔论述抽象权利、道德、伦理生活、市民社会、国家和自由制度化的著作。"
+  },
+  {
+    "id": "hegel-encyclopaedia",
+    "philosopherId": "hegel",
+    "titleZh": "哲学科学百科全书",
+    "titleEn": "Encyclopaedia of the Philosophical Sciences",
+    "originalTitle": "Enzyklopädie der philosophischen Wissenschaften",
+    "yearDisplay": "1817/1827/1830",
+    "noteZh": "黑格尔以纲要形式系统呈现逻辑、自然哲学和精神哲学的体系文本。"
+  },
+  {
+    "id": "schopenhauer-world-will-representation",
     "philosopherId": "schopenhauer",
-    "titleZh": "叔本华代表文本",
-    "titleEn": "Arthur Schopenhauer primary text",
-    "noteZh": "第一版用于展示的种子文本，审核时替换为具体作品。"
+    "titleZh": "作为意志和表象的世界",
+    "titleEn": "The World as Will and Representation",
+    "originalTitle": "Die Welt als Wille und Vorstellung",
+    "yearDisplay": "1818/1844",
+    "noteZh": "叔本华论述世界作为表象、意志、艺术、痛苦和否定意志的代表作。"
   },
   {
-    "id": "kierkegaard-primary-work",
+    "id": "schopenhauer-fourfold-root",
+    "philosopherId": "schopenhauer",
+    "titleZh": "充足理由律的四重根",
+    "titleEn": "On the Fourfold Root of the Principle of Sufficient Reason",
+    "originalTitle": "Über die vierfache Wurzel des Satzes vom zureichenden Grunde",
+    "yearDisplay": "1813",
+    "noteZh": "叔本华分析理由原则四种形态，为其表象理论和认识论奠基的著作。"
+  },
+  {
+    "id": "schopenhauer-basis-morality",
+    "philosopherId": "schopenhauer",
+    "titleZh": "论道德的基础",
+    "titleEn": "On the Basis of Morality",
+    "originalTitle": "Über die Grundlage der Moral",
+    "yearDisplay": "1840",
+    "noteZh": "叔本华反对理性主义伦理学、以同情作为道德基础的论文。"
+  },
+  {
+    "id": "schopenhauer-parerga",
+    "philosopherId": "schopenhauer",
+    "titleZh": "附录与补遗",
+    "titleEn": "Parerga and Paralipomena",
+    "originalTitle": "Parerga und Paralipomena",
+    "yearDisplay": "1851",
+    "noteZh": "叔本华晚期论文和短论合集，扩展其人生论、悲观主义、美学和伦理观察。"
+  },
+  {
+    "id": "kierkegaard-either-or",
     "philosopherId": "kierkegaard",
-    "titleZh": "克尔凯郭尔代表文本",
-    "titleEn": "Soren Kierkegaard primary text",
-    "noteZh": "第一版用于展示的种子文本，审核时替换为具体作品。"
+    "titleZh": "非此即彼",
+    "titleEn": "Either/Or",
+    "originalTitle": "Enten – Eller",
+    "yearDisplay": "1843",
+    "noteZh": "克尔凯郭尔通过审美与伦理生活对照展开存在阶段和自我选择问题的代表作。"
   },
   {
-    "id": "mill-primary-work",
+    "id": "kierkegaard-fear-trembling",
+    "philosopherId": "kierkegaard",
+    "titleZh": "恐惧与战栗",
+    "titleEn": "Fear and Trembling",
+    "originalTitle": "Frygt og Bæven",
+    "yearDisplay": "1843",
+    "noteZh": "克尔凯郭尔以亚伯拉罕故事讨论信仰、荒谬和伦理悬置的核心文本。"
+  },
+  {
+    "id": "kierkegaard-concept-anxiety",
+    "philosopherId": "kierkegaard",
+    "titleZh": "焦虑的概念",
+    "titleEn": "The Concept of Anxiety",
+    "originalTitle": "Begrebet Angest",
+    "yearDisplay": "1844",
+    "noteZh": "克尔凯郭尔围绕自由、可能性、罪和焦虑展开的存在心理学著作。"
+  },
+  {
+    "id": "kierkegaard-concluding-postscript",
+    "philosopherId": "kierkegaard",
+    "titleZh": "终结性非科学后记",
+    "titleEn": "Concluding Unscientific Postscript",
+    "originalTitle": "Afsluttende uvidenskabelig Efterskrift",
+    "yearDisplay": "1846",
+    "noteZh": "克尔凯郭尔集中论述主体真理、间接传达和宗教存在的著作。"
+  },
+  {
+    "id": "kierkegaard-sickness-unto-death",
+    "philosopherId": "kierkegaard",
+    "titleZh": "致死的疾病",
+    "titleEn": "The Sickness Unto Death",
+    "originalTitle": "Sygdommen til Døden",
+    "yearDisplay": "1849",
+    "noteZh": "克尔凯郭尔以绝望分析自我关系和宗教自我的晚期核心著作。"
+  },
+  {
+    "id": "mill-system-logic",
     "philosopherId": "mill",
-    "titleZh": "约翰·密尔代表文本",
-    "titleEn": "John Stuart Mill primary text",
-    "noteZh": "第一版用于展示的种子文本，审核时替换为具体作品。"
+    "titleZh": "逻辑体系",
+    "titleEn": "A System of Logic",
+    "originalTitle": "A System of Logic, Ratiocinative and Inductive",
+    "yearDisplay": "1843",
+    "noteZh": "密尔系统论述归纳、因果、科学方法和社会科学逻辑的著作。"
+  },
+  {
+    "id": "mill-on-liberty",
+    "philosopherId": "mill",
+    "titleZh": "论自由",
+    "titleEn": "On Liberty",
+    "originalTitle": "On Liberty",
+    "yearDisplay": "1859",
+    "noteZh": "密尔论述伤害原则、思想自由、个性和社会权威限度的自由主义经典。"
+  },
+  {
+    "id": "mill-utilitarianism",
+    "philosopherId": "mill",
+    "titleZh": "功利主义",
+    "titleEn": "Utilitarianism",
+    "originalTitle": "Utilitarianism",
+    "yearDisplay": "1861/1863",
+    "noteZh": "密尔系统阐明最大幸福原则、高低快乐、正义和效用关系的伦理学文本。"
+  },
+  {
+    "id": "mill-subjection-women",
+    "philosopherId": "mill",
+    "titleZh": "妇女的屈从地位",
+    "titleEn": "The Subjection of Women",
+    "originalTitle": "The Subjection of Women",
+    "yearDisplay": "1869",
+    "noteZh": "密尔批判性别从属、论证平等和社会进步关系的政治伦理文本。"
+  },
+  {
+    "id": "mill-representative-government",
+    "philosopherId": "mill",
+    "titleZh": "代议制政府",
+    "titleEn": "Considerations on Representative Government",
+    "originalTitle": "Considerations on Representative Government",
+    "yearDisplay": "1861",
+    "noteZh": "密尔讨论好政府、政治参与、公民能力和代议制设计的政治哲学著作。"
   },
   {
     "id": "marx-primary-work",
@@ -627,102 +1079,502 @@
     "noteZh": "第一版用于展示的种子文本，审核时替换为具体作品。"
   },
   {
-    "id": "watsuji-primary-work",
+    "id": "watsuji-fudo",
     "philosopherId": "watsuji",
-    "titleZh": "和辻哲郎代表文本",
-    "titleEn": "Watsuji Tetsuro primary text",
-    "noteZh": "第一版用于展示的种子文本，审核时替换为具体作品。"
+    "titleZh": "风土",
+    "titleEn": "Fudo: Climate and Culture",
+    "originalTitle": "風土",
+    "yearDisplay": "1935",
+    "noteZh": "和辻哲郎关于气候、地理、生活形式与人的历史存在关系的代表作。"
   },
   {
-    "id": "toegye-primary-work",
+    "id": "watsuji-rinrigaku",
+    "philosopherId": "watsuji",
+    "titleZh": "伦理学",
+    "titleEn": "Rinrigaku: Ethics in Japan",
+    "originalTitle": "倫理学",
+    "yearDisplay": "1937–1949",
+    "noteZh": "和辻哲郎系统阐述人间、间柄、个体性与共同性结构的伦理学代表作。"
+  },
+  {
+    "id": "watsuji-history-japanese-ethical-thought",
+    "philosopherId": "watsuji",
+    "titleZh": "日本伦理思想史",
+    "titleEn": "History of Japanese Ethical Thought",
+    "originalTitle": "日本倫理思想史",
+    "yearDisplay": "1952",
+    "noteZh": "和辻哲郎以历史方式整理日本伦理意识、宗教传统与共同体形态的著作。"
+  },
+  {
+    "id": "watsuji-pilgrimages-ancient-temples",
+    "philosopherId": "watsuji",
+    "titleZh": "古寺巡礼",
+    "titleEn": "Pilgrimages to the Ancient Temples in Nara",
+    "originalTitle": "古寺巡礼",
+    "yearDisplay": "1919",
+    "noteZh": "和辻哲郎从佛教艺术、寺院空间和审美经验进入日本文化史反思的早期著作。"
+  },
+  {
+    "id": "toegye-ten-diagrams",
     "philosopherId": "toegye",
-    "titleZh": "退溪李滉代表文本",
-    "titleEn": "Yi Hwang primary text",
-    "noteZh": "第一版用于展示的种子文本，审核时替换为具体作品。"
+    "titleZh": "圣学十图",
+    "titleEn": "Ten Diagrams on Sage Learning",
+    "originalTitle": "聖學十圖",
+    "yearDisplay": "1568",
+    "noteZh": "退溪李滉为朝鲜君主编撰的朱子学修养图式，以十图组织心性工夫与王道政治。"
   },
   {
-    "id": "yulgok-primary-work",
+    "id": "toegye-four-seven-debate",
+    "philosopherId": "toegye",
+    "titleZh": "四端七情论辩",
+    "titleEn": "The Four-Seven Debate",
+    "originalTitle": "四端七情論辯",
+    "yearDisplay": "1559–1566",
+    "noteZh": "退溪李滉与奇大升围绕四端、七情、理与气关系展开的往复书札论辩。"
+  },
+  {
+    "id": "toegye-zhuzi-explanations",
+    "philosopherId": "toegye",
+    "titleZh": "朱子书节要",
+    "titleEn": "Outline and Explanations of the Works of Zhu Xi",
+    "originalTitle": "朱子書節要",
+    "noteZh": "退溪李滉节录并解释朱子文本，用以组织居敬穷理与圣学修养。"
+  },
+  {
+    "id": "yulgok-essentials-sage-learning",
     "philosopherId": "yulgok",
-    "titleZh": "栗谷李珥代表文本",
-    "titleEn": "Yi I primary text",
-    "noteZh": "第一版用于展示的种子文本，审核时替换为具体作品。"
+    "titleZh": "圣学辑要",
+    "titleEn": "The Essentials of the Studies of the Sages",
+    "originalTitle": "聖學輯要",
+    "noteZh": "栗谷李珥呈献君主的儒学纲领，将心性修养、经典学习与治国责任贯通。"
   },
   {
-    "id": "ibn-khaldun-primary-work",
+    "id": "yulgok-memorial-ten-thousand-words",
+    "philosopherId": "yulgok",
+    "titleZh": "万言封事",
+    "titleEn": "Memorial in Ten Thousand Words",
+    "originalTitle": "萬言封事",
+    "noteZh": "栗谷李珥向君主陈述修身、行政、民生和国家危机的长篇奏议。"
+  },
+  {
+    "id": "yulgok-east-lake-questions",
+    "philosopherId": "yulgok",
+    "titleZh": "东湖问答",
+    "titleEn": "Questions and Answers at East Lake",
+    "originalTitle": "東湖問答",
+    "noteZh": "栗谷李珥以问答形式讨论政治改革、制度弊端和经世治理的著作。"
+  },
+  {
+    "id": "ibn-khaldun-muqaddimah",
     "philosopherId": "ibn-khaldun",
-    "titleZh": "伊本·赫勒敦代表文本",
-    "titleEn": "Ibn Khaldun primary text",
-    "noteZh": "第一版用于展示的种子文本，审核时替换为具体作品。"
+    "titleZh": "历史绪论",
+    "titleEn": "The Muqaddimah",
+    "originalTitle": "المقدمة / Al-Muqaddimah",
+    "noteZh": "伊本·赫勒敦关于历史方法、文明、asabiyyah、王朝循环和知识分类的代表作。"
   },
   {
-    "id": "amo-primary-work",
+    "id": "ibn-khaldun-kitab-al-ibar",
+    "philosopherId": "ibn-khaldun",
+    "titleZh": "大历史",
+    "titleEn": "Book of Lessons",
+    "originalTitle": "كتاب العبر / Kitab al-Ibar",
+    "noteZh": "伊本·赫勒敦的世界史巨著，《历史绪论》原为其导论。"
+  },
+  {
+    "id": "ibn-khaldun-autobiography",
+    "philosopherId": "ibn-khaldun",
+    "titleZh": "自传",
+    "titleEn": "Autobiography",
+    "originalTitle": "التعريف بابن خلدون ورحلته غربا وشرقا",
+    "noteZh": "伊本·赫勒敦记述自身学术、政治与旅行经历的自传性文本。"
+  },
+  {
+    "id": "amo-right-moors-europe",
     "philosopherId": "amo",
-    "titleZh": "安东·威廉·阿莫代表文本",
-    "titleEn": "Anton Wilhelm Amo primary text",
-    "noteZh": "第一版用于展示的种子文本，审核时替换为具体作品。"
+    "titleZh": "论摩尔人在欧洲的权利",
+    "titleEn": "On the Right of Moors in Europe",
+    "originalTitle": "De jure Maurorum in Europa",
+    "yearDisplay": "1729",
+    "noteZh": "阿莫关于非洲人在欧洲法律地位和自由权利的早期法学论文。"
   },
   {
-    "id": "wiredu-primary-work",
+    "id": "amo-impassivity-human-mind",
+    "philosopherId": "amo",
+    "titleZh": "论人的心灵无感受性",
+    "titleEn": "On the Impassivity of the Human Mind",
+    "originalTitle": "De humanae mentis apatheia",
+    "yearDisplay": "1734",
+    "noteZh": "阿莫讨论心灵、身体、感觉与认识活动关系的哲学论文。"
+  },
+  {
+    "id": "amo-art-philosophising",
+    "philosopherId": "amo",
+    "titleZh": "清醒而准确地哲学思考的艺术",
+    "titleEn": "Treatise on the Art of Philosophising Soberly and Accurately",
+    "originalTitle": "Tractatus de arte sobrie et accurate philosophandi",
+    "yearDisplay": "1738",
+    "noteZh": "阿莫关于定义、推理和哲学方法的逻辑方法论著作。"
+  },
+  {
+    "id": "wiredu-philosophy-african-culture",
     "philosopherId": "wiredu",
-    "titleZh": "夸西·维雷杜代表文本",
-    "titleEn": "Kwasi Wiredu primary text",
-    "noteZh": "第一版用于展示的种子文本，审核时替换为具体作品。"
+    "titleZh": "哲学与非洲文化",
+    "titleEn": "Philosophy and an African Culture",
+    "yearDisplay": "1980",
+    "noteZh": "维雷杜关于非洲文化、阿肯概念、真理和哲学方法的代表作。"
   },
   {
-    "id": "senghor-primary-work",
+    "id": "wiredu-cultural-universals-particulars",
+    "philosopherId": "wiredu",
+    "titleZh": "文化普遍与特殊",
+    "titleEn": "Cultural Universals and Particulars",
+    "yearDisplay": "1996",
+    "noteZh": "维雷杜关于跨文化哲学、阿肯概念分析和普遍性问题的著作。"
+  },
+  {
+    "id": "wiredu-conceptual-decolonization",
+    "philosopherId": "wiredu",
+    "titleZh": "非洲哲学中的概念去殖民",
+    "titleEn": "Conceptual Decolonization in African Philosophy",
+    "noteZh": "维雷杜关于语言、殖民概念框架和非洲哲学去殖民的核心文本。"
+  },
+  {
+    "id": "wiredu-democracy-consensus",
+    "philosopherId": "wiredu",
+    "titleZh": "非洲传统政治中的民主与共识",
+    "titleEn": "Democracy and Consensus in African Traditional Politics",
+    "noteZh": "维雷杜关于共识民主、非洲传统政治和多数主义批判的文章。"
+  },
+  {
+    "id": "senghor-liberte-negritude-humanism",
     "philosopherId": "senghor",
-    "titleZh": "桑戈尔代表文本",
-    "titleEn": "Leopold Sedar Senghor primary text",
-    "noteZh": "第一版用于展示的种子文本，审核时替换为具体作品。"
+    "titleZh": "自由 I：黑人性与人文主义",
+    "titleEn": "Liberté I: Négritude et humanisme",
+    "yearDisplay": "1964",
+    "noteZh": "桑戈尔关于黑人性、非洲文化、人文主义和世界文明对话的论文集。"
   },
   {
-    "id": "hountondji-primary-work",
+    "id": "senghor-african-socialism",
+    "philosopherId": "senghor",
+    "titleZh": "论非洲社会主义",
+    "titleEn": "On African Socialism",
+    "yearDisplay": "1964",
+    "noteZh": "桑戈尔论述非洲共同体传统、社会主义和后殖民国家建设的政治著作。"
+  },
+  {
+    "id": "senghor-nation-african-socialism",
+    "philosopherId": "senghor",
+    "titleZh": "民族与非洲社会主义道路",
+    "titleEn": "Nation and African Road to Socialism",
+    "noteZh": "桑戈尔关于民族建设、非洲社会主义与发展道路的政治文本。"
+  },
+  {
+    "id": "senghor-hosties-noires",
+    "philosopherId": "senghor",
+    "titleZh": "黑色祭品",
+    "titleEn": "Hosties noires",
+    "yearDisplay": "1948",
+    "noteZh": "桑戈尔以殖民战争、牺牲和黑人尊严为主题的诗集。"
+  },
+  {
+    "id": "senghor-chants-ombre",
+    "philosopherId": "senghor",
+    "titleZh": "阴影之歌",
+    "titleEn": "Chants d'ombre",
+    "yearDisplay": "1945",
+    "noteZh": "桑戈尔以非洲记忆、节奏和法语诗性表达为核心的早期诗集。"
+  },
+  {
+    "id": "hountondji-african-philosophy",
     "philosopherId": "hountondji",
-    "titleZh": "洪通吉代表文本",
-    "titleEn": "Paulin Hountondji primary text",
-    "noteZh": "第一版用于展示的种子文本，审核时替换为具体作品。"
+    "titleZh": "非洲哲学：神话与现实",
+    "titleEn": "African Philosophy: Myth and Reality",
+    "originalTitle": "Sur la philosophie africaine",
+    "yearDisplay": "1976 / 1983",
+    "noteZh": "洪通吉批判民族哲学并主张非洲哲学应是明确文本和论证传统的代表作。"
   },
   {
-    "id": "dussel-primary-work",
+    "id": "hountondji-struggle-meaning",
+    "philosopherId": "hountondji",
+    "titleZh": "为意义而斗争",
+    "titleEn": "The Struggle for Meaning",
+    "originalTitle": "The Struggle for Meaning: Reflections on Philosophy, Culture and Democracy in Africa",
+    "yearDisplay": "2002",
+    "noteZh": "洪通吉关于非洲哲学、文化、民主和公共意义斗争的论文集。"
+  },
+  {
+    "id": "hountondji-endogenous-knowledge",
+    "philosopherId": "hountondji",
+    "titleZh": "内生知识：研究路径",
+    "titleEn": "Endogenous Knowledge: Research Trails",
+    "originalTitle": "Les savoirs endogènes: pistes pour une recherche",
+    "yearDisplay": "1994 / 1997",
+    "noteZh": "洪通吉关于非洲本土知识研究、方法和制度条件的编著。"
+  },
+  {
+    "id": "hountondji-combats-sens",
+    "philosopherId": "hountondji",
+    "titleZh": "意义之战",
+    "titleEn": "Combats pour le sens",
+    "originalTitle": "Combats pour le sens: un itinéraire africain",
+    "yearDisplay": "1997",
+    "noteZh": "洪通吉关于非洲思想、公共意义和知识责任的法文著作。"
+  },
+  {
+    "id": "dussel-philosophy-liberation",
     "philosopherId": "dussel",
-    "titleZh": "杜塞尔代表文本",
-    "titleEn": "Enrique Dussel primary text",
-    "noteZh": "第一版用于展示的种子文本，审核时替换为具体作品。"
+    "titleZh": "解放哲学",
+    "titleEn": "Philosophy of Liberation",
+    "originalTitle": "Filosofía de la liberación",
+    "yearDisplay": "1977",
+    "noteZh": "杜塞尔系统阐述外在性、总体性、中心外围和解放实践的代表作。"
   },
   {
-    "id": "zelea-primary-work",
+    "id": "dussel-underside-modernity",
+    "philosopherId": "dussel",
+    "titleZh": "现代性的背面",
+    "titleEn": "The Underside of Modernity",
+    "originalTitle": "The Underside of Modernity",
+    "yearDisplay": "1996",
+    "noteZh": "杜塞尔从殖民性和欧洲中心主义批判现代性叙事的英文论文集。"
+  },
+  {
+    "id": "dussel-invention-americas",
+    "philosopherId": "dussel",
+    "titleZh": "美洲的发明",
+    "titleEn": "The Invention of the Americas",
+    "originalTitle": "El encubrimiento del Otro / The Invention of the Americas",
+    "yearDisplay": "1992",
+    "noteZh": "杜塞尔围绕 1492、他者遮蔽和现代性起点展开的殖民现代性批判。"
+  },
+  {
+    "id": "dussel-ethics-liberation",
+    "philosopherId": "dussel",
+    "titleZh": "解放伦理学",
+    "titleEn": "Ethics of Liberation in the Age of Globalization and Exclusion",
+    "originalTitle": "Ética de la liberación en la edad de la globalización y de la exclusión",
+    "yearDisplay": "1998",
+    "noteZh": "杜塞尔从受害者、生命再生产和制度批判出发建构解放伦理的巨著。"
+  },
+  {
+    "id": "dussel-twenty-theses-politics",
+    "philosopherId": "dussel",
+    "titleZh": "政治二十命题",
+    "titleEn": "Twenty Theses on Politics",
+    "originalTitle": "20 tesis de política",
+    "yearDisplay": "2006",
+    "noteZh": "杜塞尔以二十个命题概括人民权能、制度权力和解放政治的著作。"
+  },
+  {
+    "id": "zelea-america-consciousness",
     "philosopherId": "zelea",
-    "titleZh": "塞亚代表文本",
-    "titleEn": "Leopoldo Zea primary text",
-    "noteZh": "第一版用于展示的种子文本，审核时替换为具体作品。"
+    "titleZh": "美洲作为意识",
+    "titleEn": "America as Consciousness",
+    "originalTitle": "América como conciencia",
+    "yearDisplay": "1953",
+    "noteZh": "塞亚关于拉丁美洲历史自觉和哲学主体化的代表作。"
   },
   {
-    "id": "sor-juana-primary-work",
+    "id": "zelea-latin-american-mind",
+    "philosopherId": "zelea",
+    "titleZh": "拉丁美洲心灵",
+    "titleEn": "The Latin-American Mind",
+    "noteZh": "塞亚从思想史角度分析拉丁美洲身份、依附和自我理解的著作。"
+  },
+  {
+    "id": "zelea-role-americas-history",
+    "philosopherId": "zelea",
+    "titleZh": "美洲在历史中的角色",
+    "titleEn": "The Role of the Americas in History",
+    "noteZh": "塞亚把美洲经验纳入世界历史和普遍性问题的著作。"
+  },
+  {
+    "id": "zelea-bolivar-integration-freedom",
+    "philosopherId": "zelea",
+    "titleZh": "西蒙·玻利瓦尔：自由中的一体化",
+    "titleEn": "Simón Bolívar: Integration in Freedom",
+    "originalTitle": "Simón Bolívar: Integración en la libertad",
+    "noteZh": "塞亚以玻利瓦尔思想讨论拉美一体化和自由政治的著作。"
+  },
+  {
+    "id": "zelea-discourse-margins",
+    "philosopherId": "zelea",
+    "titleZh": "从边缘和野蛮出发的话语",
+    "titleEn": "Discourse from the Margins and Barbarism",
+    "noteZh": "塞亚从边缘、野蛮和中心批判角度重构拉美哲学普遍性的著作。"
+  },
+  {
+    "id": "sor-juana-respuesta",
     "philosopherId": "sor-juana",
-    "titleZh": "胡安娜修女代表文本",
-    "titleEn": "Sor Juana Ines de la Cruz primary text",
-    "noteZh": "第一版用于展示的种子文本，审核时替换为具体作品。"
+    "titleZh": "答菲洛特亚修女",
+    "titleEn": "Response to Sor Filotea de la Cruz",
+    "originalTitle": "Respuesta a Sor Filotea de la Cruz",
+    "yearDisplay": "1691",
+    "noteZh": "胡安娜修女为女性学习、写作和知识追求辩护的代表性书信。"
   },
   {
-    "id": "plumwood-primary-work",
+    "id": "sor-juana-first-dream",
+    "philosopherId": "sor-juana",
+    "titleZh": "第一梦",
+    "titleEn": "First Dream",
+    "originalTitle": "Primero sueño",
+    "noteZh": "胡安娜修女以梦、宇宙和知识限度为主题的巴洛克哲学长诗。"
+  },
+  {
+    "id": "sor-juana-carta-atenagorica",
+    "philosopherId": "sor-juana",
+    "titleZh": "雅典娜书信",
+    "titleEn": "Carta atenagórica",
+    "originalTitle": "Carta atenagórica",
+    "yearDisplay": "1690",
+    "noteZh": "胡安娜修女对维埃拉神父讲道进行神学批评并引发争议的文本。"
+  },
+  {
+    "id": "sor-juana-selected-poetry-drama",
+    "philosopherId": "sor-juana",
+    "titleZh": "诗歌与戏剧选",
+    "titleEn": "Selected Poetry and Drama",
+    "noteZh": "胡安娜修女关于性别、公共文化、宗教和殖民文学主体的诗歌与戏剧作品。"
+  },
+  {
+    "id": "plumwood-feminism-mastery-nature",
     "philosopherId": "plumwood",
-    "titleZh": "普拉姆伍德代表文本",
-    "titleEn": "Val Plumwood primary text",
-    "noteZh": "第一版用于展示的种子文本，审核时替换为具体作品。"
+    "titleZh": "女性主义与掌控自然",
+    "titleEn": "Feminism and the Mastery of Nature",
+    "yearDisplay": "1993",
+    "noteZh": "普拉姆伍德关于理性/自然二元论、生态女性主义和支配逻辑批判的代表作。"
   },
   {
-    "id": "butler-primary-work",
+    "id": "plumwood-environmental-culture",
+    "philosopherId": "plumwood",
+    "titleZh": "环境文化",
+    "titleEn": "Environmental Culture",
+    "yearDisplay": "2002",
+    "noteZh": "普拉姆伍德提出生态理性、环境文化和超越人类中心主义的著作。"
+  },
+  {
+    "id": "plumwood-being-prey",
+    "philosopherId": "plumwood",
+    "titleZh": "成为猎物",
+    "titleEn": "Being Prey",
+    "yearDisplay": "1996",
+    "noteZh": "普拉姆伍德反思被鳄鱼袭击经验、人类脆弱性和被捕食位置的文章。"
+  },
+  {
+    "id": "plumwood-eye-crocodile",
+    "philosopherId": "plumwood",
+    "titleZh": "鳄鱼之眼",
+    "titleEn": "The Eye of the Crocodile",
+    "yearDisplay": "2012",
+    "noteZh": "普拉姆伍德围绕人类例外主义、死亡和生态关系展开的遗著。"
+  },
+  {
+    "id": "butler-gender-trouble",
     "philosopherId": "butler",
-    "titleZh": "巴特勒代表文本",
-    "titleEn": "Judith Butler primary text",
-    "noteZh": "第一版用于展示的种子文本，审核时替换为具体作品。"
+    "titleZh": "性别麻烦",
+    "titleEn": "Gender Trouble",
+    "originalTitle": "Gender Trouble: Feminism and the Subversion of Identity",
+    "yearDisplay": "1990",
+    "noteZh": "巴特勒关于性别操演性、异性恋矩阵和身份颠覆的代表作。"
   },
   {
-    "id": "hooks-primary-work",
+    "id": "butler-bodies-that-matter",
+    "philosopherId": "butler",
+    "titleZh": "重要身体",
+    "titleEn": "Bodies That Matter",
+    "originalTitle": "Bodies That Matter: On the Discursive Limits of Sex",
+    "yearDisplay": "1993",
+    "noteZh": "巴特勒讨论身体物质化、规范重复和可理解性边界的著作。"
+  },
+  {
+    "id": "butler-excitable-speech",
+    "philosopherId": "butler",
+    "titleZh": "激动人心的言说",
+    "titleEn": "Excitable Speech",
+    "originalTitle": "Excitable Speech: A Politics of the Performative",
+    "yearDisplay": "1997",
+    "noteZh": "巴特勒分析话语伤害、称名、可重复性和政治反用的著作。"
+  },
+  {
+    "id": "butler-undoing-gender",
+    "philosopherId": "butler",
+    "titleZh": "解除性别",
+    "titleEn": "Undoing Gender",
+    "originalTitle": "Undoing Gender",
+    "yearDisplay": "2004",
+    "noteZh": "巴特勒讨论性别规范、可生活生命和承认政治的论文集。"
+  },
+  {
+    "id": "butler-giving-account",
+    "philosopherId": "butler",
+    "titleZh": "为自己作说明",
+    "titleEn": "Giving an Account of Oneself",
+    "originalTitle": "Giving an Account of Oneself",
+    "yearDisplay": "2005",
+    "noteZh": "巴特勒关于承认、主体不透明性和伦理责任的著作。"
+  },
+  {
+    "id": "butler-precarious-life",
+    "philosopherId": "butler",
+    "titleZh": "脆弱生命",
+    "titleEn": "Precarious Life",
+    "originalTitle": "Precarious Life: The Powers of Mourning and Violence",
+    "yearDisplay": "2004",
+    "noteZh": "巴特勒从哀悼、暴力和脆弱性出发重构政治伦理的著作。"
+  },
+  {
+    "id": "butler-frames-war",
+    "philosopherId": "butler",
+    "titleZh": "战争框架",
+    "titleEn": "Frames of War",
+    "originalTitle": "Frames of War: When Is Life Grievable?",
+    "yearDisplay": "2009",
+    "noteZh": "巴特勒关于可哀悼性、战争感知框架和生命政治的著作。"
+  },
+  {
+    "id": "hooks-aint-i-a-woman",
     "philosopherId": "hooks",
-    "titleZh": "贝尔·胡克斯代表文本",
-    "titleEn": "bell hooks primary text",
-    "noteZh": "第一版用于展示的种子文本，审核时替换为具体作品。"
+    "titleZh": "难道我不是女人？",
+    "titleEn": "Ain't I a Woman? Black Women and Feminism",
+    "originalTitle": "Ain't I a Woman? Black Women and Feminism",
+    "yearDisplay": "1981",
+    "noteZh": "贝尔·胡克斯关于黑人女性、奴隶制遗产、种族主义和性别压迫交织的早期代表作。"
+  },
+  {
+    "id": "hooks-feminist-theory-margin-center",
+    "philosopherId": "hooks",
+    "titleZh": "女性主义理论：从边缘到中心",
+    "titleEn": "Feminist Theory: From Margin to Center",
+    "originalTitle": "Feminist Theory: From Margin to Center",
+    "yearDisplay": "1984",
+    "noteZh": "胡克斯批判主流女性主义中心化经验，并提出从边缘重构运动目标的著作。"
+  },
+  {
+    "id": "hooks-teaching-transgress",
+    "philosopherId": "hooks",
+    "titleZh": "越界教学",
+    "titleEn": "Teaching to Transgress",
+    "originalTitle": "Teaching to Transgress: Education as the Practice of Freedom",
+    "yearDisplay": "1994",
+    "noteZh": "胡克斯关于参与式教育、自由实践和课堂政治的教育哲学著作。"
+  },
+  {
+    "id": "hooks-all-about-love",
+    "philosopherId": "hooks",
+    "titleZh": "关于爱的一切",
+    "titleEn": "All About Love",
+    "originalTitle": "All About Love: New Visions",
+    "yearDisplay": "2000",
+    "noteZh": "胡克斯把爱理解为责任、关怀、尊重和反支配伦理实践的著作。"
+  },
+  {
+    "id": "hooks-feminism-everybody",
+    "philosopherId": "hooks",
+    "titleZh": "女性主义是给所有人的",
+    "titleEn": "Feminism Is for Everybody",
+    "originalTitle": "Feminism Is for Everybody: Passionate Politics",
+    "yearDisplay": "2000",
+    "noteZh": "胡克斯以大众化语言阐明女性主义反性别歧视、反剥削和反压迫目标的著作。"
   },
   {
     "id": "cleanthes-primary-work",
@@ -808,14 +1660,74 @@
     "titleEn": "Democritus primary dossier",
     "noteZh": "本轮 thoughtSystem 使用的代表性古代材料、残篇、传记见证和现代研究定位；证据均为 summary_only。"
   },
-  {"id":"protagoras-primary-work","philosopherId":"protagoras","titleZh":"普罗泰戈拉代表文本与材料","titleEn":"Protagoras primary dossier","noteZh":"本轮 thoughtSystem 证据使用 summary_only。"},
-  {"id":"gorgias-primary-work","philosopherId":"gorgias","titleZh":"高尔吉亚代表文本与材料","titleEn":"Gorgias primary dossier","noteZh":"本轮 thoughtSystem 证据使用 summary_only。"},
-  {"id":"pyrrho-primary-work","philosopherId":"pyrrho","titleZh":"皮浪代表文本与材料","titleEn":"Pyrrho primary dossier","noteZh":"本轮 thoughtSystem 证据使用 summary_only。"},
-  {"id":"theophrastus-primary-work","philosopherId":"theophrastus","titleZh":"泰奥弗拉斯托斯代表文本与材料","titleEn":"Theophrastus primary dossier","noteZh":"本轮 thoughtSystem 证据使用 summary_only。"},
-  {"id":"carneades-primary-work","philosopherId":"carneades","titleZh":"卡尔涅阿德斯代表文本与材料","titleEn":"Carneades primary dossier","noteZh":"本轮 thoughtSystem 证据使用 summary_only。"},
-  {"id":"cicero-primary-work","philosopherId":"cicero","titleZh":"西塞罗代表文本与材料","titleEn":"Cicero primary dossier","noteZh":"本轮 thoughtSystem 证据使用 summary_only。"},
-  {"id":"lucretius-primary-work","philosopherId":"lucretius","titleZh":"卢克莱修代表文本与材料","titleEn":"Lucretius primary dossier","noteZh":"本轮 thoughtSystem 证据使用 summary_only。"},
-  {"id":"seneca-primary-work","philosopherId":"seneca","titleZh":"塞涅卡代表文本与材料","titleEn":"Seneca primary dossier","noteZh":"本轮 thoughtSystem 证据使用 summary_only。"},
-  {"id":"epictetus-primary-work","philosopherId":"epictetus","titleZh":"爱比克泰德代表文本与材料","titleEn":"Epictetus primary dossier","noteZh":"本轮 thoughtSystem 证据使用 summary_only。"},
-  {"id":"marcus-aurelius-primary-work","philosopherId":"marcus-aurelius","titleZh":"马可·奥勒留代表文本与材料","titleEn":"Marcus Aurelius primary dossier","noteZh":"本轮 thoughtSystem 证据使用 summary_only。"}
+  {
+    "id": "protagoras-primary-work",
+    "philosopherId": "protagoras",
+    "titleZh": "普罗泰戈拉代表文本与材料",
+    "titleEn": "Protagoras primary dossier",
+    "noteZh": "本轮 thoughtSystem 证据使用 summary_only。"
+  },
+  {
+    "id": "gorgias-primary-work",
+    "philosopherId": "gorgias",
+    "titleZh": "高尔吉亚代表文本与材料",
+    "titleEn": "Gorgias primary dossier",
+    "noteZh": "本轮 thoughtSystem 证据使用 summary_only。"
+  },
+  {
+    "id": "pyrrho-primary-work",
+    "philosopherId": "pyrrho",
+    "titleZh": "皮浪代表文本与材料",
+    "titleEn": "Pyrrho primary dossier",
+    "noteZh": "本轮 thoughtSystem 证据使用 summary_only。"
+  },
+  {
+    "id": "theophrastus-primary-work",
+    "philosopherId": "theophrastus",
+    "titleZh": "泰奥弗拉斯托斯代表文本与材料",
+    "titleEn": "Theophrastus primary dossier",
+    "noteZh": "本轮 thoughtSystem 证据使用 summary_only。"
+  },
+  {
+    "id": "carneades-primary-work",
+    "philosopherId": "carneades",
+    "titleZh": "卡尔涅阿德斯代表文本与材料",
+    "titleEn": "Carneades primary dossier",
+    "noteZh": "本轮 thoughtSystem 证据使用 summary_only。"
+  },
+  {
+    "id": "cicero-primary-work",
+    "philosopherId": "cicero",
+    "titleZh": "西塞罗代表文本与材料",
+    "titleEn": "Cicero primary dossier",
+    "noteZh": "本轮 thoughtSystem 证据使用 summary_only。"
+  },
+  {
+    "id": "lucretius-primary-work",
+    "philosopherId": "lucretius",
+    "titleZh": "卢克莱修代表文本与材料",
+    "titleEn": "Lucretius primary dossier",
+    "noteZh": "本轮 thoughtSystem 证据使用 summary_only。"
+  },
+  {
+    "id": "seneca-primary-work",
+    "philosopherId": "seneca",
+    "titleZh": "塞涅卡代表文本与材料",
+    "titleEn": "Seneca primary dossier",
+    "noteZh": "本轮 thoughtSystem 证据使用 summary_only。"
+  },
+  {
+    "id": "epictetus-primary-work",
+    "philosopherId": "epictetus",
+    "titleZh": "爱比克泰德代表文本与材料",
+    "titleEn": "Epictetus primary dossier",
+    "noteZh": "本轮 thoughtSystem 证据使用 summary_only。"
+  },
+  {
+    "id": "marcus-aurelius-primary-work",
+    "philosopherId": "marcus-aurelius",
+    "titleZh": "马可·奥勒留代表文本与材料",
+    "titleEn": "Marcus Aurelius primary dossier",
+    "noteZh": "本轮 thoughtSystem 证据使用 summary_only。"
+  }
 ]

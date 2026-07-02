@@ -43,33 +43,43 @@
     "problems": [
       {
         "id": "beauvoir:problem:001",
-        "titleZh": "女人如何被建构为他者？",
-        "questionZh": "波伏娃如何围绕“女人如何被建构为他者？”建立其思想问题？",
-        "summaryZh": "波伏娃分析女性被历史、神话、制度和日常经验塑造成相对于男性主体的他者。",
+        "titleZh": "女人如何被历史地制造？",
+        "questionZh": "波伏娃如何围绕“女人如何被历史地制造？”建立其思想问题？",
+        "summaryZh": "波伏娃分析女性处境如何由身体、经济、神话、家庭和社会制度共同塑造，而非由自然事实直接决定。",
         "themeIds": [
-          "freedom",
-          "politics"
+          "ethics",
+          "freedom"
         ],
         "weight": 3,
         "claims": [
           {
             "id": "beauvoir:claim:001",
-            "titleZh": "女性不是天生而是成为",
+            "titleZh": "女人是在社会化中生成",
             "claimZh": "波伏娃主张，女人并非由生物事实直接决定，而是在社会化和制度中被塑造。",
-            "explanationZh": "该命题奠定现代女性主义存在论，把性别问题从自然本质转向历史建构。",
+            "explanationZh": "该命题打开女性处境的历史分析空间，把所谓自然命运转化为可批判、可改变的社会过程。",
             "themeIds": [
-              "freedom",
-              "politics"
+              "ethics",
+              "freedom"
             ],
             "weight": 3,
             "evidence": [
               {
                 "id": "beauvoir:evidence:001",
                 "titleZh": "成为女人依据",
-                "summaryZh": "《第二性》以“不是天生的，而是变成的”概括女性处境的社会历史生成。",
+                "summaryZh": "《第二性》以“不是天生的，而是变成的”概括女性处境的社会历史生成，说明性别身份在成长和制度安排中被塑造。",
                 "source": {
                   "workId": "beauvoir-primary-work",
-                  "locator": "《第二性》第二卷导论关于“成为女人”",
+                  "locator": "《第二性》第二卷导论“成为女人”段",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "beauvoir:evidence:007",
+                "titleZh": "形成阶段依据",
+                "summaryZh": "《第二性》第二卷考察童年和少女阶段，说明家庭教育、身体规训和社会期待如何逐步把女孩训练成被规定的女性角色。",
+                "source": {
+                  "workId": "beauvoir-primary-work",
+                  "locator": "《第二性》第二卷第一部“形成”章",
                   "excerptStatus": "summary_only"
                 }
               }
@@ -77,22 +87,32 @@
           },
           {
             "id": "beauvoir:claim:002",
-            "titleZh": "男性被设为主体尺度",
+            "titleZh": "女性被规定为他者",
             "claimZh": "波伏娃认为，父权文化把男性设为中性主体和普遍标准，女性则被定义为相对的他者。",
-            "explanationZh": "该命题揭示不平等的认识论结构：压迫不仅是权利缺失，也是定义权失衡。",
+            "explanationZh": "该命题揭示性别等级的象征结构：男性占据主体和普遍位置，女性被迫以相对性和附属性被理解。",
             "themeIds": [
               "politics",
-              "knowledge"
+              "ethics"
             ],
             "weight": 2,
             "evidence": [
               {
                 "id": "beauvoir:evidence:002",
                 "titleZh": "第二性依据",
-                "summaryZh": "《第二性》导论分析男性如何占据主体位置，把女性规定为第二性和相对存在。",
+                "summaryZh": "《第二性》导论分析男性如何占据主体位置，把女性规定为第二性和相对存在，从而使不平等呈现为文化常识。",
                 "source": {
                   "workId": "beauvoir-primary-work",
-                  "locator": "《第二性》第一卷导论关于主体与他者",
+                  "locator": "《第二性》第一卷导论“主体与他者”段",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "beauvoir:evidence:008",
+                "titleZh": "神话结构依据",
+                "summaryZh": "《第二性》第一卷“神话”部分分析文学、宗教和文化想象如何把女性塑造成永恒女性形象，巩固女性作为他者的地位。",
+                "source": {
+                  "workId": "beauvoir-primary-work",
+                  "locator": "《第二性》第一卷第三部“神话”章",
                   "excerptStatus": "summary_only"
                 }
               }
@@ -102,9 +122,9 @@
       },
       {
         "id": "beauvoir:problem:002",
-        "titleZh": "自由为何处于处境之中？",
-        "questionZh": "波伏娃如何围绕“自由为何处于处境之中？”建立其思想问题？",
-        "summaryZh": "波伏娃发展存在主义伦理，强调自由总在身体、制度、依赖和他人自由中展开。",
+        "titleZh": "自由如何受处境限制？",
+        "questionZh": "波伏娃如何围绕“自由如何受处境限制？”建立其思想问题？",
+        "summaryZh": "波伏娃把存在主义自由放回身体、阶级、性别和历史处境中，说明自由既真实又会被制度性压缩。",
         "themeIds": [
           "freedom",
           "ethics"
@@ -113,9 +133,9 @@
         "claims": [
           {
             "id": "beauvoir:claim:003",
-            "titleZh": "自由不是抽象意志",
+            "titleZh": "自由必须在具体处境中实现",
             "claimZh": "波伏娃主张，人的自由必须通过具体处境中的行动实现，压迫会系统性压缩可能性。",
-            "explanationZh": "该命题修正抽象自由观，说明同样的选择语言在不同社会条件下并不等价。",
+            "explanationZh": "该命题修正抽象自由观，说明主体能否行动取决于经济、身体、教育和承认结构提供的可能性。",
             "themeIds": [
               "freedom",
               "ethics"
@@ -125,10 +145,20 @@
               {
                 "id": "beauvoir:evidence:003",
                 "titleZh": "处境自由依据",
-                "summaryZh": "《暧昧伦理学》把存在主义自由放入有限处境，讨论压迫者和被压迫者的不同责任。",
+                "summaryZh": "《暧昧伦理学》把存在主义自由放入有限处境，讨论压迫者和被压迫者的不同责任，避免把自由说成抽象能力。",
                 "source": {
                   "workId": "beauvoir-primary-work",
-                  "locator": "《暧昧伦理学》第二部分关于自由与处境",
+                  "locator": "《暧昧伦理学》第二部分“个人自由与处境”段",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "beauvoir:evidence:009",
+                "titleZh": "压迫结构依据",
+                "summaryZh": "《第二性》把婚姻、劳动和经济依赖纳入自由分析，说明压迫不是个别心理失败，而是持续缩小行动可能性的社会结构。",
+                "source": {
+                  "workId": "beauvoir-primary-work",
+                  "locator": "《第二性》第二卷第三部“处境”章",
                   "excerptStatus": "summary_only"
                 }
               }
@@ -136,22 +166,32 @@
           },
           {
             "id": "beauvoir:claim:004",
-            "titleZh": "我的自由需要他人自由",
+            "titleZh": "伦理要求促进他人自由",
             "claimZh": "波伏娃认为，真正伦理关系要求承认并促进他人自由，而不是把他人降为工具。",
-            "explanationZh": "该命题把个人自由与共同解放相连，为女性主义政治和反压迫伦理提供基础。",
+            "explanationZh": "该命题把存在主义自由转化为相互责任：我的自由不能以否定他人开放未来的能力为代价。",
             "themeIds": [
-              "freedom",
-              "ethics"
+              "ethics",
+              "freedom"
             ],
             "weight": 2,
             "evidence": [
               {
                 "id": "beauvoir:evidence:004",
                 "titleZh": "他人自由依据",
-                "summaryZh": "《暧昧伦理学》强调自由要通过面向他人的行动获得意义，而不能孤立保存。",
+                "summaryZh": "《暧昧伦理学》强调自由要通过面向他人的行动获得意义，不能孤立保存，也不能把他人仅当作个人计划工具。",
                 "source": {
                   "workId": "beauvoir-primary-work",
-                  "locator": "《暧昧伦理学》第三部分关于他人自由",
+                  "locator": "《暧昧伦理学》第三部分“积极自由与他人”段",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "beauvoir:evidence:010",
+                "titleZh": "暧昧伦理依据",
+                "summaryZh": "《暧昧伦理学》把人描述为既有限又超越自身的暧昧存在，因此伦理行动必须同时承担自身自由与他人自由的条件。",
+                "source": {
+                  "workId": "beauvoir-primary-work",
+                  "locator": "《暧昧伦理学》第一部分“存在的暧昧性”段",
                   "excerptStatus": "summary_only"
                 }
               }
@@ -161,22 +201,22 @@
       },
       {
         "id": "beauvoir:problem:003",
-        "titleZh": "解放如何穿过身体经验？",
-        "questionZh": "波伏娃如何围绕“解放如何穿过身体经验？”建立其思想问题？",
-        "summaryZh": "波伏娃把身体理解为处境，而非单纯物体或命运，分析成长、性、母职与衰老中的自由限制。",
+        "titleZh": "身体经验为何不是命运？",
+        "questionZh": "波伏娃如何围绕“身体经验为何不是命运？”建立其思想问题？",
+        "summaryZh": "波伏娃承认身体经验的重要性，但反对把身体事实直接解释为社会命运或政治从属。",
         "themeIds": [
-          "freedom",
-          "life_death"
+          "ethics",
+          "metaphysics"
         ],
         "weight": 2,
         "claims": [
           {
             "id": "beauvoir:claim:005",
-            "titleZh": "身体是被解释的处境",
+            "titleZh": "身体事实需要社会解释",
             "claimZh": "波伏娃主张，身体事实本身不足以决定命运，关键在于社会如何解释和组织身体经验。",
-            "explanationZh": "该命题避免生物决定论，也避免忽视身体差异，凸显身体与制度的交织。",
+            "explanationZh": "该命题使身体成为处境的一部分，而不是命运的自然判决；它允许同时讨论生理差异和制度解释。",
             "themeIds": [
-              "freedom",
+              "ethics",
               "metaphysics"
             ],
             "weight": 3,
@@ -184,10 +224,20 @@
               {
                 "id": "beauvoir:evidence:005",
                 "titleZh": "身体处境依据",
-                "summaryZh": "《第二性》评估生物学和精神分析解释，同时拒绝把女性命运直接还原为身体。",
+                "summaryZh": "《第二性》评估生物学和精神分析解释，同时拒绝把女性命运直接还原为身体，强调身体意义来自具体社会处境。",
                 "source": {
                   "workId": "beauvoir-primary-work",
-                  "locator": "《第二性》第一卷“生物学资料”与“精神分析观点”章节",
+                  "locator": "《第二性》第一卷第一部“生物学资料”章",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "beauvoir:evidence:011",
+                "titleZh": "精神分析批判依据",
+                "summaryZh": "《第二性》讨论精神分析解释的贡献和限度，指出欲望和身体经验必须放入社会关系中理解，不能直接推出女性从属。",
+                "source": {
+                  "workId": "beauvoir-primary-work",
+                  "locator": "《第二性》第一卷第一部“精神分析观点”章",
                   "excerptStatus": "summary_only"
                 }
               }
@@ -195,22 +245,32 @@
           },
           {
             "id": "beauvoir:claim:006",
-            "titleZh": "日常经验塑造顺从和反抗",
+            "titleZh": "日常训练生产女性处境",
             "claimZh": "波伏娃认为，女孩成长、恋爱、婚姻和劳动中的日常训练不断生产女性处境，也留下反抗可能。",
-            "explanationZh": "该命题把宏观压迫落实到经验过程，说明解放需要改变制度与生活实践。",
+            "explanationZh": "该命题把压迫机制落到日常生活层面，说明改变性别处境需要改变教育、亲密关系和劳动制度。",
             "themeIds": [
-              "politics",
-              "ethics"
+              "ethics",
+              "politics"
             ],
             "weight": 2,
             "evidence": [
               {
                 "id": "beauvoir:evidence:006",
                 "titleZh": "日常处境依据",
-                "summaryZh": "《第二性》通过生命阶段分析女性如何在日常关系中被限制并寻求自主。",
+                "summaryZh": "《第二性》通过生命阶段分析女性如何在日常关系中被限制并寻求自主，显示女性处境在习惯、爱情和家庭中被重复生产。",
                 "source": {
                   "workId": "beauvoir-primary-work",
-                  "locator": "《第二性》第二卷关于少女、婚姻和独立女性章节",
+                  "locator": "《第二性》第二卷第二部“恋爱、婚姻与家庭”章",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "beauvoir:evidence:012",
+                "titleZh": "独立女性依据",
+                "summaryZh": "《第二性》讨论独立女性的劳动、创造和矛盾处境，说明反抗并非脱离社会条件，而是在既有限制中争取新的生活可能。",
+                "source": {
+                  "workId": "beauvoir-primary-work",
+                  "locator": "《第二性》第二卷第四部“独立女性”章",
                   "excerptStatus": "summary_only"
                 }
               }

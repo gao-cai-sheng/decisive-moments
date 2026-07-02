@@ -5,9 +5,9 @@
     "en": "Enrique Dussel"
   },
   "life": {
-    "display": "1934—2023",
     "birth": 1934,
-    "death": 2023
+    "death": 2023,
+    "display": "1934—2023"
   },
   "civilization": "latin_american",
   "traditions": [
@@ -31,12 +31,259 @@
   "reviewStatus": "draft",
   "summaryZh": "杜塞尔是政治、正义问题谱系中的第一版候选哲人。 本条目是第一版结构化资料，已经保留文明、传统、主题、作品和论述字段，正式发布前需要继续核对年代、文本出处和概念表述。",
   "works": [
-    "dussel-primary-work"
+    "dussel-philosophy-liberation",
+    "dussel-underside-modernity",
+    "dussel-invention-americas",
+    "dussel-ethics-liberation",
+    "dussel-twenty-theses-politics"
   ],
   "sourceNotes": [
     {
       "label": "draft",
       "noteZh": "条目需要人工核对作品、年代和概念表述。"
     }
-  ]
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "dussel:problem:001",
+        "titleZh": "现代性为何必须从受压迫者背面重写？",
+        "questionZh": "杜塞尔如何从拉美殖民经验出发批判欧洲中心现代性叙事？",
+        "summaryZh": "杜塞尔把现代性的诞生同征服、美洲殖民和资本主义世界体系联系起来。他认为现代性不仅有理性解放面，也有被遮蔽的暴力背面。",
+        "themeIds": [
+          "politics",
+          "justice"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "dussel:claim:001",
+            "titleZh": "1492 是现代性暴力的开端之一",
+            "claimZh": "杜塞尔认为欧洲现代性不能只从启蒙理性叙述，而必须从 1492 年征服美洲的殖民暴力重新理解。",
+            "explanationZh": "现代性因此具有双重结构：中心内部宣称理性和自由，外围则承受征服、掠夺和去人化。",
+            "themeIds": [
+              "politics",
+              "justice"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "dussel:evidence:001",
+                "titleZh": "美洲发明与现代性的开端",
+                "summaryZh": "《美洲的发明》把 1492 年解释为欧洲自我建构和他者征服同时发生的事件，重写现代性起点。",
+                "source": {
+                  "workId": "dussel-invention-americas",
+                  "locator": "The Invention of the Americas on 1492 and the birth of modernity",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "dussel:evidence:002",
+                "titleZh": "现代性的阴暗面",
+                "summaryZh": "《现代性的背面》把殖民征服和欧洲中心理性放在同一历史结构中，说明现代性自带被压迫者的背面。",
+                "source": {
+                  "workId": "dussel-underside-modernity",
+                  "locator": "The Underside of Modernity on coloniality and Eurocentrism",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "dussel:claim:002",
+            "titleZh": "解放哲学从外在性发言",
+            "claimZh": "杜塞尔把受压迫者的外在性作为哲学起点，要求思想从体系无法吸收的他者处开始。",
+            "explanationZh": "这使解放哲学不是中心理论的应用，而是从被排除者遭遇中重构伦理和政治范畴。",
+            "themeIds": [
+              "freedom",
+              "justice"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "dussel:evidence:003",
+                "titleZh": "解放哲学中的外在性",
+                "summaryZh": "《解放哲学》以外在性和他者为核心范畴，说明受压迫者不是体系内部变量，而是判断体系的伦理起点。",
+                "source": {
+                  "workId": "dussel-philosophy-liberation",
+                  "locator": "Philosophy of Liberation on exteriority, totality and the Other",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "dussel:evidence:004",
+                "titleZh": "中心与外围的哲学位置",
+                "summaryZh": "《解放哲学》把中心、外围和被压迫者的位置纳入概念结构，显示哲学发言地点本身具有政治意义。",
+                "source": {
+                  "workId": "dussel-philosophy-liberation",
+                  "locator": "Philosophy of Liberation on center, periphery and geo-political location of thought",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "dussel:problem:002",
+        "titleZh": "解放伦理如何从受害者的生命出发？",
+        "questionZh": "杜塞尔如何把伦理学建立在被排除者的生命、苦难和否定性经验之上？",
+        "summaryZh": "杜塞尔的解放伦理以被压迫者生命不能被再生产为判断起点。伦理要求从受害者的否定性经验出发，批判造成排除的制度并组织实际解放行动。",
+        "themeIds": [
+          "ethics",
+          "justice",
+          "freedom"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "dussel:claim:003",
+            "titleZh": "伦理判断以生命再生产为最低标准",
+            "claimZh": "杜塞尔认为制度是否正当，首先要看它能否让被排除者的生命得到生产、再生产和发展。",
+            "explanationZh": "这使伦理不再只是形式程序，而必须面对贫困、饥饿、剥削和殖民造成的生命破坏。",
+            "themeIds": [
+              "ethics",
+              "justice"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "dussel:evidence:005",
+                "titleZh": "全球化与排除时代的生命原则",
+                "summaryZh": "《解放伦理学》把人类生命的生产和再生产设为伦理判断基础，批判全球体系制造的排除和死亡。",
+                "source": {
+                  "workId": "dussel-ethics-liberation",
+                  "locator": "Ethics of Liberation in the Age of Globalization and Exclusion on the material principle of life",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "dussel:evidence:006",
+                "titleZh": "受害者作为批判起点",
+                "summaryZh": "《解放伦理学》把受害者的否定性经验作为批判现存制度的起点，说明苦难不是附带事实而是伦理证据。",
+                "source": {
+                  "workId": "dussel-ethics-liberation",
+                  "locator": "Ethics of Liberation on victims, negativity and critique of systems",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "dussel:claim:004",
+            "titleZh": "解放伦理要求批判和实践转化",
+            "claimZh": "杜塞尔认为伦理批判必须通向组织化的解放实践，而不能停在同情受害者或描述不平等。",
+            "explanationZh": "他的伦理学把规范原则、受害者意识和政治实践连成一个过程，强调被排除者成为行动主体。",
+            "themeIds": [
+              "ethics",
+              "politics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "dussel:evidence:007",
+                "titleZh": "解放伦理的批判阶段",
+                "summaryZh": "《解放伦理学》区分制度有效性与受害者批判，要求从否定性经验进入实际改变制度的实践。",
+                "source": {
+                  "workId": "dussel-ethics-liberation",
+                  "locator": "Ethics of Liberation on critical validity and transformative praxis",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "dussel:evidence:008",
+                "titleZh": "解放哲学中的实践方向",
+                "summaryZh": "《解放哲学》把哲学任务指向被压迫者的解放实践，说明思想必须参与打破总体化体系的政治行动。",
+                "source": {
+                  "workId": "dussel-philosophy-liberation",
+                  "locator": "Philosophy of Liberation on praxis of liberation and critique of totality",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "dussel:problem:003",
+        "titleZh": "人民政治如何超越国家中心主义？",
+        "questionZh": "杜塞尔如何把政治权力理解为人民的权能，而不是统治机器的自我保存？",
+        "summaryZh": "杜塞尔的政治哲学区分人民的创制性权力和制度化权力。政治制度只有在服务人民生命和参与时才正当，否则就会变成自我崇拜的统治结构。",
+        "themeIds": [
+          "politics",
+          "justice",
+          "freedom"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "dussel:claim:005",
+            "titleZh": "政治权力来自人民的共同能力",
+            "claimZh": "杜塞尔把政治权力的根源放在人民共同生活和共同决断的能力中，而不是国家机器本身。",
+            "explanationZh": "制度权力因此只是受托形式；一旦脱离人民的生命需求，它就会从服务转为支配。",
+            "themeIds": [
+              "politics",
+              "freedom"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "dussel:evidence:009",
+                "titleZh": "政治二十命题中的权力区分",
+                "summaryZh": "《政治二十命题》区分人民的权能和制度化权力，说明政治合法性来自被治理者共同体的生命实践。",
+                "source": {
+                  "workId": "dussel-twenty-theses-politics",
+                  "locator": "Twenty Theses on Politics, theses on potentia and potestas",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "dussel:evidence:010",
+                "titleZh": "权力的服从性定位",
+                "summaryZh": "《政治二十命题》把正当政治理解为服从人民生命的服务性制度，批判权力把自身绝对化的腐败逻辑。",
+                "source": {
+                  "workId": "dussel-twenty-theses-politics",
+                  "locator": "Twenty Theses on Politics on obedient power and institutional corruption",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "dussel:claim:006",
+            "titleZh": "解放政治需要跨越欧洲中心现代性",
+            "claimZh": "杜塞尔主张以跨现代性重新组织政治想象，让被殖民和被排除世界参与创造现代性的超越形式。",
+            "explanationZh": "这不是简单反现代，而是从现代性的受害者位置提出另一种普遍性和民主实践。",
+            "themeIds": [
+              "politics",
+              "justice"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "dussel:evidence:011",
+                "titleZh": "跨现代性的政治想象",
+                "summaryZh": "《现代性的背面》提出跨现代性思路，要求从现代性外围和受害者经验中重构普遍解放项目。",
+                "source": {
+                  "workId": "dussel-underside-modernity",
+                  "locator": "The Underside of Modernity on transmodernity and liberation",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "dussel:evidence:012",
+                "titleZh": "人民参与与制度转化",
+                "summaryZh": "《政治二十命题》强调人民参与和制度转化，说明解放政治必须把受排除者重新带回政治创制过程。",
+                "source": {
+                  "workId": "dussel-twenty-theses-politics",
+                  "locator": "Twenty Theses on Politics on participation, people and transformation of institutions",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
 }

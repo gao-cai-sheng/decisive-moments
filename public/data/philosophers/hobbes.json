@@ -31,7 +31,9 @@
   "reviewStatus": "draft",
   "summaryZh": "霍布斯是知识、自由问题谱系中的第一版候选哲人。 本条目是第一版结构化资料，已经保留文明、传统、主题、作品和论述字段，正式发布前需要继续核对年代、文本出处和概念表述。",
   "works": [
-    "hobbes-primary-work"
+    "hobbes-leviathan",
+    "hobbes-de-cive",
+    "hobbes-elements-law"
   ],
   "sourceNotes": [
     {
@@ -43,43 +45,43 @@
     "problems": [
       {
         "id": "hobbes:problem:001",
-        "titleZh": "自然状态为何导致战争？",
-        "questionZh": "霍布斯如何围绕“自然状态为何导致战争？”建立其思想问题？",
-        "summaryZh": "霍布斯在这一问题上形成了可辨认的论证路径，连接文本命题、概念区分和后世问题谱系。",
+        "titleZh": "人的欲望为何导致自然状态？",
+        "questionZh": "霍布斯如何从人的激情、平等脆弱性和未来不安推出现代政治问题？",
+        "summaryZh": "霍布斯把人理解为由欲望、厌恶、恐惧和荣誉心驱动的运动体。人们能力相近却互不信任，在没有共同权力时会陷入预防性冲突。",
         "themeIds": [
-          "knowledge",
-          "metaphysics"
+          "politics",
+          "ethics"
         ],
         "weight": 3,
         "claims": [
           {
             "id": "hobbes:claim:001",
-            "titleZh": "核心命题一：自然状态为何导致战争？",
-            "claimZh": "霍布斯在“自然状态为何导致战争？”中提出基础性立场，说明其理论问题的出发点。",
-            "explanationZh": "该命题概括其原典中反复出现的论证方向，并为本问题的后续分支提供基础。",
+            "titleZh": "幸福是持续欲望而非静止终点",
+            "claimZh": "霍布斯认为人的幸福不是达到一个终极善，而是欲望从一个对象通向另一个对象的持续成功。",
+            "explanationZh": "这种人性图像使政治不能预设天然和谐，而必须处理不断扩张的欲望和对未来安全的追求。",
             "themeIds": [
-              "knowledge",
-              "metaphysics"
+              "ethics",
+              "politics"
             ],
             "weight": 3,
             "evidence": [
               {
                 "id": "hobbes:evidence:001",
-                "titleZh": "核心命题一：自然状态为何导致战争？的文本依据",
-                "summaryZh": "霍布斯在 Leviathan chapter 13 on natural equality 中提供该命题的原典定位，用于支撑“核心命题一：自然状态为何导致战争？”这一解释。",
+                "titleZh": "激情作为身体运动",
+                "summaryZh": "《利维坦》第六章把欲望、厌恶、爱、恨和希望解释为身体运动的方向，奠定机械论人性观。",
                 "source": {
-                  "workId": "hobbes-primary-work",
-                  "locator": "Leviathan chapter 13 on natural equality",
+                  "workId": "hobbes-leviathan",
+                  "locator": "Leviathan chapter 6 on passions and endeavours",
                   "excerptStatus": "summary_only"
                 }
               },
               {
                 "id": "hobbes:evidence:002",
-                "titleZh": "核心命题一：自然状态为何导致战争？的文本依据",
-                "summaryZh": "霍布斯在 Leviathan chapter 14 on first law of nature 中提供该命题的原典定位，用于支撑“核心命题一：自然状态为何导致战争？”这一解释。",
+                "titleZh": "持续欲望与权力追求",
+                "summaryZh": "第十一章把幸福描述为欲望不断推进，并指出人追求权力以保证未来欲望满足，进一步说明“持续欲望与权力追求”如何进入“幸福是持续欲望而非静止终点”的论证链条。",
                 "source": {
-                  "workId": "hobbes-primary-work",
-                  "locator": "Leviathan chapter 14 on first law of nature",
+                  "workId": "hobbes-leviathan",
+                  "locator": "Leviathan chapter 11 on felicity and restless desire of power after power",
                   "excerptStatus": "summary_only"
                 }
               }
@@ -87,32 +89,32 @@
           },
           {
             "id": "hobbes:claim:002",
-            "titleZh": "核心命题二：自然状态为何导致战争？",
-            "claimZh": "霍布斯在“自然状态为何导致战争？”中进一步推出实践、制度或认识论后果。",
-            "explanationZh": "该命题把概念论证推进到可比较的问题谱系，避免只停留在术语解释。",
+            "titleZh": "自然状态来自平等脆弱性和互疑",
+            "claimZh": "霍布斯的自然状态不是因为人天生嗜血，而是因为能力大体平等、资源竞争和互不信任使预防性攻击变得理性。",
+            "explanationZh": "战争状态由安全困境产生：没有共同权威时，合理自保会变成彼此威胁。",
             "themeIds": [
-              "knowledge",
-              "metaphysics"
+              "politics",
+              "freedom"
             ],
             "weight": 2,
             "evidence": [
               {
                 "id": "hobbes:evidence:003",
-                "titleZh": "核心命题二：自然状态为何导致战争？的文本依据",
-                "summaryZh": "霍布斯在 Leviathan chapter 13 on natural equality 中提供该命题的原典定位，用于支撑“核心命题二：自然状态为何导致战争？”这一解释。",
+                "titleZh": "平等与互疑导致战争",
+                "summaryZh": "第十三章从身体和心智能力的相近推导竞争、猜疑和荣誉争夺，说明无共同权力时战争状态如何形成。",
                 "source": {
-                  "workId": "hobbes-primary-work",
-                  "locator": "Leviathan chapter 13 on natural equality",
+                  "workId": "hobbes-leviathan",
+                  "locator": "Leviathan chapter 13 on equality, diffidence and war of every man against every man",
                   "excerptStatus": "summary_only"
                 }
               },
               {
                 "id": "hobbes:evidence:004",
-                "titleZh": "核心命题二：自然状态为何导致战争？的文本依据",
-                "summaryZh": "霍布斯在 Leviathan chapter 14 on first law of nature 中提供该命题的原典定位，用于支撑“核心命题二：自然状态为何导致战争？”这一解释。",
+                "titleZh": "论公民中的相互恐惧",
+                "summaryZh": "《论公民》开篇以相互恐惧解释自然状态，强调政治秩序的起点是安全问题而非自然亲善。",
                 "source": {
-                  "workId": "hobbes-primary-work",
-                  "locator": "Leviathan chapter 14 on first law of nature",
+                  "workId": "hobbes-de-cive",
+                  "locator": "De Cive I.12-14 on the natural condition and mutual fear",
                   "excerptStatus": "summary_only"
                 }
               }
@@ -122,43 +124,44 @@
       },
       {
         "id": "hobbes:problem:002",
-        "titleZh": "主权为何必须强大？",
-        "questionZh": "霍布斯如何围绕“主权为何必须强大？”建立其思想问题？",
-        "summaryZh": "霍布斯在这一问题上形成了可辨认的论证路径，连接文本命题、概念区分和后世问题谱系。",
+        "titleZh": "语言、理性与契约如何建立秩序？",
+        "questionZh": "霍布斯为何把语言、计算和契约视为政治秩序的条件，同时又警惕语言制造纷争？",
+        "summaryZh": "霍布斯把理性理解为对名称的计算，契约则把未来行动纳入可承诺结构。但语言也会制造空洞名词和争辩，因此契约需要共同权力保障。",
         "themeIds": [
-          "freedom",
-          "ethics"
+          "language",
+          "knowledge",
+          "politics"
         ],
         "weight": 3,
         "claims": [
           {
             "id": "hobbes:claim:003",
-            "titleZh": "核心命题一：主权为何必须强大？",
-            "claimZh": "霍布斯在“主权为何必须强大？”中提出基础性立场，说明其理论问题的出发点。",
-            "explanationZh": "该命题概括其原典中反复出现的论证方向，并为本问题的后续分支提供基础。",
+            "titleZh": "理性是名称计算并依赖语言纪律",
+            "claimZh": "霍布斯把推理解释为加减名称的计算，因而理性必须依赖清楚定义，否则会陷入荒谬词语。",
+            "explanationZh": "这种语言观让政治争端部分成为语词争端：不清楚的名词会制造虚假学说和权威争夺。",
             "themeIds": [
-              "freedom",
-              "ethics"
+              "language",
+              "knowledge"
             ],
             "weight": 3,
             "evidence": [
               {
                 "id": "hobbes:evidence:005",
-                "titleZh": "核心命题一：主权为何必须强大？的文本依据",
-                "summaryZh": "霍布斯在 Leviathan chapter 17 on generation of the commonwealth 中提供该命题的原典定位，用于支撑“核心命题一：主权为何必须强大？”这一解释。",
+                "titleZh": "语言的用途与风险",
+                "summaryZh": "第四章说明语言让人记录思想、互相教导和订立契约，但名称误用也会把人带入荒谬，进一步说明“语言的用途与风险”如何进入“理性是名称计算并依赖语言纪律”的论证链条。",
                 "source": {
-                  "workId": "hobbes-primary-work",
-                  "locator": "Leviathan chapter 17 on generation of the commonwealth",
+                  "workId": "hobbes-leviathan",
+                  "locator": "Leviathan chapter 4 on speech, names and the uses of language",
                   "excerptStatus": "summary_only"
                 }
               },
               {
                 "id": "hobbes:evidence:006",
-                "titleZh": "核心命题一：主权为何必须强大？的文本依据",
-                "summaryZh": "霍布斯在 Leviathan chapter 18 on rights of sovereigns 中提供该命题的原典定位，用于支撑“核心命题一：主权为何必须强大？”这一解释。",
+                "titleZh": "理性作为计算",
+                "summaryZh": "第五章把理性定义为名称的计算，显示正确推理取决于定义和连续演算，进一步说明“理性作为计算”如何进入“理性是名称计算并依赖语言纪律”的论证链条。",
                 "source": {
-                  "workId": "hobbes-primary-work",
-                  "locator": "Leviathan chapter 18 on rights of sovereigns",
+                  "workId": "hobbes-leviathan",
+                  "locator": "Leviathan chapter 5 on reason as reckoning",
                   "excerptStatus": "summary_only"
                 }
               }
@@ -166,32 +169,32 @@
           },
           {
             "id": "hobbes:claim:004",
-            "titleZh": "核心命题二：主权为何必须强大？",
-            "claimZh": "霍布斯在“主权为何必须强大？”中进一步推出实践、制度或认识论后果。",
-            "explanationZh": "该命题把概念论证推进到可比较的问题谱系，避免只停留在术语解释。",
+            "titleZh": "契约没有强制保障就不稳定",
+            "claimZh": "霍布斯认为自然法能指示和平道路，但契约若没有共同权力执行，就会被恐惧和机会主义破坏。",
+            "explanationZh": "因此国家不是道德劝说的补充，而是让承诺变得可信的制度条件。",
             "themeIds": [
-              "freedom",
-              "ethics"
+              "politics",
+              "justice"
             ],
             "weight": 2,
             "evidence": [
               {
                 "id": "hobbes:evidence:007",
-                "titleZh": "核心命题二：主权为何必须强大？的文本依据",
-                "summaryZh": "霍布斯在 Leviathan chapter 17 on generation of the commonwealth 中提供该命题的原典定位，用于支撑“核心命题二：主权为何必须强大？”这一解释。",
+                "titleZh": "自然法与契约",
+                "summaryZh": "第十四、十五章区分自然权利和自然法，说明放弃权利与守约构成和平道路，但仍需要安全条件。",
                 "source": {
-                  "workId": "hobbes-primary-work",
-                  "locator": "Leviathan chapter 17 on generation of the commonwealth",
+                  "workId": "hobbes-leviathan",
+                  "locator": "Leviathan chapters 14-15 on right of nature, laws of nature and covenants",
                   "excerptStatus": "summary_only"
                 }
               },
               {
                 "id": "hobbes:evidence:008",
-                "titleZh": "核心命题二：主权为何必须强大？的文本依据",
-                "summaryZh": "霍布斯在 Leviathan chapter 18 on rights of sovereigns 中提供该命题的原典定位，用于支撑“核心命题二：主权为何必须强大？”这一解释。",
+                "titleZh": "无剑契约为空言",
+                "summaryZh": "第十七章指出没有剑的契约只是空言，说明强制权力是契约秩序的必要保障，进一步说明“无剑契约为空言”如何进入“契约没有强制保障就不稳定”的论证链条。",
                 "source": {
-                  "workId": "hobbes-primary-work",
-                  "locator": "Leviathan chapter 18 on rights of sovereigns",
+                  "workId": "hobbes-leviathan",
+                  "locator": "Leviathan chapter 17 on covenants without the sword",
                   "excerptStatus": "summary_only"
                 }
               }
@@ -201,43 +204,43 @@
       },
       {
         "id": "hobbes:problem:003",
-        "titleZh": "物质主义如何改写人性？",
-        "questionZh": "霍布斯如何围绕“物质主义如何改写人性？”建立其思想问题？",
-        "summaryZh": "霍布斯在这一问题上形成了可辨认的论证路径，连接文本命题、概念区分和后世问题谱系。",
+        "titleZh": "主权为何必须集中？",
+        "questionZh": "霍布斯为何认为和平需要一个能代表众人的主权者？自由又如何在强国家中保留？",
+        "summaryZh": "霍布斯的主权论把众人通过授权合成一个政治人格。主权集中不是为了赞美专断，而是为结束内战式多中心裁判，同时把自由限定为法律未禁止处的行动空间。",
         "themeIds": [
           "politics",
-          "ethics"
+          "freedom",
+          "justice"
         ],
         "weight": 2,
         "claims": [
           {
             "id": "hobbes:claim:005",
-            "titleZh": "核心命题一：物质主义如何改写人性？",
-            "claimZh": "霍布斯在“物质主义如何改写人性？”中提出基础性立场，说明其理论问题的出发点。",
-            "explanationZh": "该命题概括其原典中反复出现的论证方向，并为本问题的后续分支提供基础。",
+            "titleZh": "主权者代表并统一多数意志",
+            "claimZh": "霍布斯认为国家通过授权形成一个人格，主权者代表众人行动，因而能把分散判断转化为统一裁判。",
+            "explanationZh": "这解释了为什么他反对分权式最高裁判：多个最终权威会把共同体重新推回争端。",
             "themeIds": [
-              "politics",
-              "ethics"
+              "politics"
             ],
             "weight": 3,
             "evidence": [
               {
                 "id": "hobbes:evidence:009",
-                "titleZh": "核心命题一：物质主义如何改写人性？的文本依据",
-                "summaryZh": "霍布斯在 Leviathan chapter 1 on sense 中提供该命题的原典定位，用于支撑“核心命题一：物质主义如何改写人性？”这一解释。",
+                "titleZh": "授权与人格",
+                "summaryZh": "第十六章以作者、行动者和代表关系解释授权，为国家人格理论提供概念工具，进一步说明“授权与人格”如何进入“主权者代表并统一多数意志”的论证链条。",
                 "source": {
-                  "workId": "hobbes-primary-work",
-                  "locator": "Leviathan chapter 1 on sense",
+                  "workId": "hobbes-leviathan",
+                  "locator": "Leviathan chapter 16 on persons, authors and authorization",
                   "excerptStatus": "summary_only"
                 }
               },
               {
                 "id": "hobbes:evidence:010",
-                "titleZh": "核心命题一：物质主义如何改写人性？的文本依据",
-                "summaryZh": "霍布斯在 Leviathan chapter 6 on appetites and good 中提供该命题的原典定位，用于支撑“核心命题一：物质主义如何改写人性？”这一解释。",
+                "titleZh": "主权设立与权利",
+                "summaryZh": "第十七、十八章说明众人通过相互约定设立主权，并列出主权不可分割的核心权利，进一步说明“主权设立与权利”如何进入“主权者代表并统一多数意志”的论证链条。",
                 "source": {
-                  "workId": "hobbes-primary-work",
-                  "locator": "Leviathan chapter 6 on appetites and good",
+                  "workId": "hobbes-leviathan",
+                  "locator": "Leviathan chapters 17-18 on institution and rights of sovereigns",
                   "excerptStatus": "summary_only"
                 }
               }
@@ -245,32 +248,32 @@
           },
           {
             "id": "hobbes:claim:006",
-            "titleZh": "核心命题二：物质主义如何改写人性？",
-            "claimZh": "霍布斯在“物质主义如何改写人性？”中进一步推出实践、制度或认识论后果。",
-            "explanationZh": "该命题把概念论证推进到可比较的问题谱系，避免只停留在术语解释。",
+            "titleZh": "臣民自由是法律沉默处的行动余地",
+            "claimZh": "霍布斯并不把自由定义为参政自治，而是定义为外在阻碍的缺乏；在国家中，臣民自由存在于法律未规定之处。",
+            "explanationZh": "这使他的自由概念能与强主权并存，但也把政治自由大幅收缩为安全秩序下的许可空间。",
             "themeIds": [
-              "politics",
-              "ethics"
+              "freedom",
+              "politics"
             ],
             "weight": 2,
             "evidence": [
               {
                 "id": "hobbes:evidence:011",
-                "titleZh": "核心命题二：物质主义如何改写人性？的文本依据",
-                "summaryZh": "霍布斯在 Leviathan chapter 1 on sense 中提供该命题的原典定位，用于支撑“核心命题二：物质主义如何改写人性？”这一解释。",
+                "titleZh": "臣民自由",
+                "summaryZh": "第二十一章把自由定义为没有外在阻碍，并讨论臣民在法律沉默处保留的行动自由，进一步说明“臣民自由”如何进入“臣民自由是法律沉默处的行动余地”的论证链条。",
                 "source": {
-                  "workId": "hobbes-primary-work",
-                  "locator": "Leviathan chapter 1 on sense",
+                  "workId": "hobbes-leviathan",
+                  "locator": "Leviathan chapter 21 on liberty of subjects",
                   "excerptStatus": "summary_only"
                 }
               },
               {
                 "id": "hobbes:evidence:012",
-                "titleZh": "核心命题二：物质主义如何改写人性？的文本依据",
-                "summaryZh": "霍布斯在 Leviathan chapter 6 on appetites and good 中提供该命题的原典定位，用于支撑“核心命题二：物质主义如何改写人性？”这一解释。",
+                "titleZh": "主权集中与公共和平",
+                "summaryZh": "《论公民》第六章把主权权利同公共和平相连，显示主权集中以防止私人裁判重新引发战争。",
                 "source": {
-                  "workId": "hobbes-primary-work",
-                  "locator": "Leviathan chapter 6 on appetites and good",
+                  "workId": "hobbes-de-cive",
+                  "locator": "De Cive VI on sovereignty and civil peace",
                   "excerptStatus": "summary_only"
                 }
               }

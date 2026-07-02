@@ -27,6 +27,10 @@ export const TARGET_SUMMARY = 40;         // 标准档：summaryZh 目标厚度�
 export const TARGET_EV_PER_CLAIM = 2;     // 标准档：每 claim 目标 evidence 数（>=1 但 <2=YELLOW thin_evidence）
 export const RESTATE_JACCARD = 0.72;      // claimZh 与 questionZh 字符 Jaccard 超此值疑似复述
 
+// 反模板规则：这类句子满足长度/证据数门槛，却没有实质内容，必须直接 RED。
+export const TEMPLATE_CLAIM = /(在[“\"][^”\"]+[”\"]中提出基础性立场，说明其理论问题的出发点|在[“\"][^”\"]+[”\"]中进一步推出实践、制度或认识论后果)/;
+export const TEMPLATE_EVIDENCE_SUMMARY = /(提供该命题的原典定位，用于支撑|用于支撑[^。；]*命题|原典定位，用于支撑)/;
+
 // 标准档 YELLOW 码：在 --require-standard（写前门硬门）下，这些也当作阻断项，不清零禁止入库。
 export const STANDARD_TIER_CODES = new Set(["thin_evidence", "summary_thin", "weight_uniform"]);
 
@@ -73,6 +77,8 @@ export function auditPhilosopher(detail, worksById) {
       const j = jaccardChars(c.claimZh, p.questionZh);
       if (j >= RESTATE_JACCARD)
         add("YELLOW", "claim_restates_question", `${c.id}: claimZh 与 questionZh 高度重叠(${j.toFixed(2)})，疑似复述`);
+      if (TEMPLATE_CLAIM.test(c.claimZh || ""))
+        add("RED", "template_claim", `${c.id}: claimZh 命中模板灌水句式，缺少实质主张`);
 
       const key = (c.titleZh || "").trim();
       if (key) {
@@ -87,6 +93,8 @@ export function auditPhilosopher(detail, worksById) {
           add("RED", "summary_too_short", `${e.id}: summaryZh 长度 ${sumLen} (<${MIN_SUMMARY})`);
         else if (sumLen < TARGET_SUMMARY)
           add("YELLOW", "summary_thin", `${e.id}: summaryZh 长度 ${sumLen}（>=${MIN_SUMMARY} 但 <${TARGET_SUMMARY} 标准档，偏薄）`);
+        if (TEMPLATE_EVIDENCE_SUMMARY.test(e.summaryZh || ""))
+          add("RED", "template_evidence_summary", `${e.id}: summaryZh 命中“复述 locator/用于支撑命题”模板，缺少实质证据概括`);
         if (s.excerptStatus === "public_domain" && !s.publicDomainExcerptZh)
           add("RED", "fake_public_domain", `${e.id}: 标 public_domain 但无 publicDomainExcerptZh`);
         if (s.publicDomainExcerptZh && s.excerptStatus !== "public_domain")

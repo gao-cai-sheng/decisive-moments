@@ -214,6 +214,22 @@ describe("quality-audit：每类问题都必须被抓到", () => {
     expect(cs).toContain("summary_thin");
     expect(cs).not.toContain("summary_too_short");
   });
+
+  it("template_claim（模板化 claim 直接 RED）", () => {
+    const p = problem({ id: "sage:problem:001",
+      claims: [claim({ id: "c1", titleZh: "甲", weight: 2, claimZh: "某某在“知识问题”中提出基础性立场，说明其理论问题的出发点。" }),
+               claim({ id: "c2", titleZh: "乙", weight: 1 })] });
+    const d = philosopher([p, problem({ id: "sage:problem:002" }), problem({ id: "sage:problem:003" })]);
+    expect(codes(d)).toContain("template_claim");
+  });
+
+  it("template_evidence_summary（复述 locator 的证据摘要直接 RED）", () => {
+    const p = problem({ id: "sage:problem:001",
+      claims: [claim({ id: "c1", titleZh: "甲", weight: 2, evidence: [ev({ id: "e1", summaryZh: "某某在第一章中提供该命题的原典定位，用于支撑这条命题的文本依据。" }), ev({ id: "e2" })] }),
+               claim({ id: "c2", titleZh: "乙", weight: 1 })] });
+    const d = philosopher([p, problem({ id: "sage:problem:002" }), problem({ id: "sage:problem:003" })]);
+    expect(codes(d)).toContain("template_evidence_summary");
+  });
 });
 
 describe("runAudit：整目录扫描与分级", () => {

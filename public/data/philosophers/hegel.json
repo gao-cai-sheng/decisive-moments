@@ -31,7 +31,10 @@
   "reviewStatus": "draft",
   "summaryZh": "黑格尔是知识、自由问题谱系中的第一版候选哲人。 本条目是第一版结构化资料，已经保留文明、传统、主题、作品和论述字段，正式发布前需要继续核对年代、文本出处和概念表述。",
   "works": [
-    "hegel-primary-work"
+    "hegel-phenomenology-spirit",
+    "hegel-science-logic",
+    "hegel-philosophy-right",
+    "hegel-encyclopaedia"
   ],
   "sourceNotes": [
     {
@@ -43,43 +46,42 @@
     "problems": [
       {
         "id": "hegel:problem:001",
-        "titleZh": "意识如何走向自我知识？",
-        "questionZh": "黑格尔如何围绕“意识如何走向自我知识？”建立其思想问题？",
-        "summaryZh": "黑格尔在这一问题上形成了可辨认的论证路径，连接文本命题、概念区分和后世问题谱系。",
+        "titleZh": "意识如何通过承认走向精神？",
+        "questionZh": "黑格尔如何把认识问题转化为意识、他者和历史经验的运动？",
+        "summaryZh": "黑格尔的意识不是孤立主体，而是在经验失败、否定和承认斗争中形成。知识的道路也是精神自我教育的历史过程。",
         "themeIds": [
           "knowledge",
-          "metaphysics"
+          "freedom"
         ],
         "weight": 3,
         "claims": [
           {
             "id": "hegel:claim:001",
-            "titleZh": "核心命题一：意识如何走向自我知识？",
-            "claimZh": "黑格尔在“意识如何走向自我知识？”中提出基础性立场，说明其理论问题的出发点。",
-            "explanationZh": "该命题概括其原典中反复出现的论证方向，并为本问题的后续分支提供基础。",
+            "titleZh": "经验是意识自我否定和提升的过程",
+            "claimZh": "黑格尔认为意识每一种确定性都会在自身标准下遭遇失败，并由否定推动到更高形态。",
+            "explanationZh": "这让哲学方法不再外加于对象，而是跟随意识自身经验的内在运动。",
             "themeIds": [
-              "knowledge",
-              "metaphysics"
+              "knowledge"
             ],
             "weight": 3,
             "evidence": [
               {
                 "id": "hegel:evidence:001",
-                "titleZh": "核心命题一：意识如何走向自我知识？的文本依据",
-                "summaryZh": "黑格尔在 Phenomenology Preface on truth as the whole 中提供该命题的原典定位，用于支撑“核心命题一：意识如何走向自我知识？”这一解释。",
+                "titleZh": "意识经验的内在运动",
+                "summaryZh": "《精神现象学》导论把经验描述为意识对象和知识标准同时改变的过程，进一步说明“意识经验的内在运动”如何进入“经验是意识自我否定和提升的过程”的论证链条。",
                 "source": {
-                  "workId": "hegel-primary-work",
-                  "locator": "Phenomenology Preface on truth as the whole",
+                  "workId": "hegel-phenomenology-spirit",
+                  "locator": "Phenomenology of Spirit Introduction on experience of consciousness",
                   "excerptStatus": "summary_only"
                 }
               },
               {
                 "id": "hegel:evidence:002",
-                "titleZh": "核心命题一：意识如何走向自我知识？的文本依据",
-                "summaryZh": "黑格尔在 Phenomenology Introduction on experience of consciousness 中提供该命题的原典定位，用于支撑“核心命题一：意识如何走向自我知识？”这一解释。",
+                "titleZh": "否定性的劳动",
+                "summaryZh": "序言强调否定性和概念劳动，说明真理不是静止命题而是自我展开的整体，进一步说明“否定性的劳动”如何进入“经验是意识自我否定和提升的过程”的论证链条。",
                 "source": {
-                  "workId": "hegel-primary-work",
-                  "locator": "Phenomenology Introduction on experience of consciousness",
+                  "workId": "hegel-phenomenology-spirit",
+                  "locator": "Phenomenology of Spirit Preface on the labor of the negative",
                   "excerptStatus": "summary_only"
                 }
               }
@@ -87,32 +89,32 @@
           },
           {
             "id": "hegel:claim:002",
-            "titleZh": "核心命题二：意识如何走向自我知识？",
-            "claimZh": "黑格尔在“意识如何走向自我知识？”中进一步推出实践、制度或认识论后果。",
-            "explanationZh": "该命题把概念论证推进到可比较的问题谱系，避免只停留在术语解释。",
+            "titleZh": "自我意识需要承认关系",
+            "claimZh": "黑格尔认为自我意识只有在另一个自我意识的承认中才能获得现实性，承认斗争暴露自由的社会结构。",
+            "explanationZh": "主奴辩证法说明主体不是先成的孤立自我，而是在依赖、劳动和承认冲突中形成。",
             "themeIds": [
-              "knowledge",
-              "metaphysics"
+              "freedom",
+              "politics"
             ],
             "weight": 2,
             "evidence": [
               {
                 "id": "hegel:evidence:003",
-                "titleZh": "核心命题二：意识如何走向自我知识？的文本依据",
-                "summaryZh": "黑格尔在 Phenomenology Preface on truth as the whole 中提供该命题的原典定位，用于支撑“核心命题二：意识如何走向自我知识？”这一解释。",
+                "titleZh": "自我意识与承认",
+                "summaryZh": "第四章把自我意识定义为为他者而存在，并展开承认斗争，进一步说明“自我意识与承认”如何进入“自我意识需要承认关系”的论证链条。",
                 "source": {
-                  "workId": "hegel-primary-work",
-                  "locator": "Phenomenology Preface on truth as the whole",
+                  "workId": "hegel-phenomenology-spirit",
+                  "locator": "Phenomenology of Spirit chapter IV on self-consciousness and recognition",
                   "excerptStatus": "summary_only"
                 }
               },
               {
                 "id": "hegel:evidence:004",
-                "titleZh": "核心命题二：意识如何走向自我知识？的文本依据",
-                "summaryZh": "黑格尔在 Phenomenology Introduction on experience of consciousness 中提供该命题的原典定位，用于支撑“核心命题二：意识如何走向自我知识？”这一解释。",
+                "titleZh": "主奴辩证法",
+                "summaryZh": "主奴段落通过生死斗争、劳动和恐惧说明依赖关系如何反转并形成自我意识，进一步说明“主奴辩证法”如何进入“自我意识需要承认关系”的论证链条。",
                 "source": {
-                  "workId": "hegel-primary-work",
-                  "locator": "Phenomenology Introduction on experience of consciousness",
+                  "workId": "hegel-phenomenology-spirit",
+                  "locator": "Phenomenology of Spirit lordship and bondage section",
                   "excerptStatus": "summary_only"
                 }
               }
@@ -122,43 +124,43 @@
       },
       {
         "id": "hegel:problem:002",
-        "titleZh": "承认为何构成自由？",
-        "questionZh": "黑格尔如何围绕“承认为何构成自由？”建立其思想问题？",
-        "summaryZh": "黑格尔在这一问题上形成了可辨认的论证路径，连接文本命题、概念区分和后世问题谱系。",
+        "titleZh": "辩证法如何成为逻辑？",
+        "questionZh": "黑格尔为何认为矛盾和否定不是思维错误，而是概念发展的动力？",
+        "summaryZh": "黑格尔的逻辑不是形式推理手册，而是范畴自身生成的科学。概念通过自身限制、矛盾和扬弃展开，最终显示现实的理性结构。",
         "themeIds": [
-          "freedom",
-          "ethics"
+          "metaphysics",
+          "knowledge"
         ],
         "weight": 3,
         "claims": [
           {
             "id": "hegel:claim:003",
-            "titleZh": "核心命题一：承认为何构成自由？",
-            "claimZh": "黑格尔在“承认为何构成自由？”中提出基础性立场，说明其理论问题的出发点。",
-            "explanationZh": "该命题概括其原典中反复出现的论证方向，并为本问题的后续分支提供基础。",
+            "titleZh": "矛盾推动概念自我展开",
+            "claimZh": "黑格尔把矛盾理解为有限规定自身的内在张力，而不是单纯应被排除的错误。",
+            "explanationZh": "辩证法因此不是任意三段式，而是概念因自身不足而进入更丰富规定的运动。",
             "themeIds": [
-              "freedom",
-              "ethics"
+              "metaphysics",
+              "knowledge"
             ],
             "weight": 3,
             "evidence": [
               {
                 "id": "hegel:evidence:005",
-                "titleZh": "核心命题一：承认为何构成自由？的文本依据",
-                "summaryZh": "黑格尔在 Phenomenology Self-Consciousness on recognition 中提供该命题的原典定位，用于支撑“核心命题一：承认为何构成自由？”这一解释。",
+                "titleZh": "有、无与生成",
+                "summaryZh": "《逻辑学》开端从纯有和纯无的空洞同一转向生成，展示范畴如何因自身贫乏而过渡，进一步说明“有、无与生成”如何进入“矛盾推动概念自我展开”的论证链条。",
                 "source": {
-                  "workId": "hegel-primary-work",
-                  "locator": "Phenomenology Self-Consciousness on recognition",
+                  "workId": "hegel-science-logic",
+                  "locator": "Science of Logic doctrine of being on becoming from being and nothing",
                   "excerptStatus": "summary_only"
                 }
               },
               {
                 "id": "hegel:evidence:006",
-                "titleZh": "核心命题一：承认为何构成自由？的文本依据",
-                "summaryZh": "黑格尔在 Phenomenology Lordship and Bondage on labor 中提供该命题的原典定位，用于支撑“核心命题一：承认为何构成自由？”这一解释。",
+                "titleZh": "矛盾作为内在规定",
+                "summaryZh": "本质论关于矛盾的讨论把矛盾置于事物运动和规定性的核心，而非外部逻辑事故，进一步说明“矛盾作为内在规定”如何进入“矛盾推动概念自我展开”的论证链条。",
                 "source": {
-                  "workId": "hegel-primary-work",
-                  "locator": "Phenomenology Lordship and Bondage on labor",
+                  "workId": "hegel-science-logic",
+                  "locator": "Science of Logic doctrine of essence on contradiction",
                   "excerptStatus": "summary_only"
                 }
               }
@@ -166,32 +168,32 @@
           },
           {
             "id": "hegel:claim:004",
-            "titleZh": "核心命题二：承认为何构成自由？",
-            "claimZh": "黑格尔在“承认为何构成自由？”中进一步推出实践、制度或认识论后果。",
-            "explanationZh": "该命题把概念论证推进到可比较的问题谱系，避免只停留在术语解释。",
+            "titleZh": "真理是具体整体而非孤立命题",
+            "claimZh": "黑格尔认为真理必须在概念展开的整体中把握，孤立判断只有在其关系和生成中才获得意义。",
+            "explanationZh": "这使他的体系哲学强调中介、过程和总体，而非直接给出抽象原则。",
             "themeIds": [
-              "freedom",
-              "ethics"
+              "knowledge",
+              "metaphysics"
             ],
             "weight": 2,
             "evidence": [
               {
                 "id": "hegel:evidence:007",
-                "titleZh": "核心命题二：承认为何构成自由？的文本依据",
-                "summaryZh": "黑格尔在 Phenomenology Self-Consciousness on recognition 中提供该命题的原典定位，用于支撑“核心命题二：承认为何构成自由？”这一解释。",
+                "titleZh": "真理是全体",
+                "summaryZh": "《精神现象学》序言提出真理是全体，但全体只是通过自身发展完成的本质，进一步说明“真理是全体”如何进入“真理是具体整体而非孤立命题”的论证链条。",
                 "source": {
-                  "workId": "hegel-primary-work",
-                  "locator": "Phenomenology Self-Consciousness on recognition",
+                  "workId": "hegel-phenomenology-spirit",
+                  "locator": "Phenomenology of Spirit Preface on truth as the whole",
                   "excerptStatus": "summary_only"
                 }
               },
               {
                 "id": "hegel:evidence:008",
-                "titleZh": "核心命题二：承认为何构成自由？的文本依据",
-                "summaryZh": "黑格尔在 Phenomenology Lordship and Bondage on labor 中提供该命题的原典定位，用于支撑“核心命题二：承认为何构成自由？”这一解释。",
+                "titleZh": "逻辑的三个环节",
+                "summaryZh": "《百科全书》小逻辑区分抽象、辩证和思辨环节，说明概念认识需要经历否定和统一，进一步说明“逻辑的三个环节”如何进入“真理是具体整体而非孤立命题”的论证链条。",
                 "source": {
-                  "workId": "hegel-primary-work",
-                  "locator": "Phenomenology Lordship and Bondage on labor",
+                  "workId": "hegel-encyclopaedia",
+                  "locator": "Encyclopaedia Logic §§79-82 on abstract, dialectical and speculative moments",
                   "excerptStatus": "summary_only"
                 }
               }
@@ -201,20 +203,21 @@
       },
       {
         "id": "hegel:problem:003",
-        "titleZh": "国家如何实现伦理生活？",
-        "questionZh": "黑格尔如何围绕“国家如何实现伦理生活？”建立其思想问题？",
-        "summaryZh": "黑格尔在这一问题上形成了可辨认的论证路径，连接文本命题、概念区分和后世问题谱系。",
+        "titleZh": "现代自由如何制度化？",
+        "questionZh": "黑格尔如何把自由从主观任性推进到家庭、市民社会和国家中的伦理生活？",
+        "summaryZh": "黑格尔认为自由不是任意选择，而是在理性制度中成为现实。家庭、市民社会和国家构成伦理生活的环节，使个人自由通过承认、权利和公共制度获得客观形态。",
         "themeIds": [
           "politics",
-          "ethics"
+          "freedom",
+          "justice"
         ],
-        "weight": 2,
+        "weight": 3,
         "claims": [
           {
             "id": "hegel:claim:005",
-            "titleZh": "核心命题一：国家如何实现伦理生活？",
-            "claimZh": "黑格尔在“国家如何实现伦理生活？”中提出基础性立场，说明其理论问题的出发点。",
-            "explanationZh": "该命题概括其原典中反复出现的论证方向，并为本问题的后续分支提供基础。",
+            "titleZh": "抽象权利和道德必须进入伦理生活",
+            "claimZh": "黑格尔认为个人权利和主观良心都是自由的重要环节，但若脱离制度共同体就会保持抽象。",
+            "explanationZh": "伦理生活把自由落实在家庭、市民社会和国家中，使主观意志获得客观现实。",
             "themeIds": [
               "politics",
               "ethics"
@@ -223,21 +226,21 @@
             "evidence": [
               {
                 "id": "hegel:evidence:009",
-                "titleZh": "核心命题一：国家如何实现伦理生活？的文本依据",
-                "summaryZh": "黑格尔在 Philosophy of Right §§142-157 on ethical life 中提供该命题的原典定位，用于支撑“核心命题一：国家如何实现伦理生活？”这一解释。",
+                "titleZh": "抽象权利与道德限制",
+                "summaryZh": "《法哲学原理》前两部分说明抽象权利和道德意志的必要性及其限制，进一步说明“抽象权利与道德限制”如何进入“抽象权利和道德必须进入伦理生活”的论证链条。",
                 "source": {
-                  "workId": "hegel-primary-work",
-                  "locator": "Philosophy of Right §§142-157 on ethical life",
+                  "workId": "hegel-philosophy-right",
+                  "locator": "Philosophy of Right §§33-157 on abstract right and morality",
                   "excerptStatus": "summary_only"
                 }
               },
               {
                 "id": "hegel:evidence:010",
-                "titleZh": "核心命题一：国家如何实现伦理生活？的文本依据",
-                "summaryZh": "黑格尔在 Philosophy of Right §§241-245 on poverty and rabble 中提供该命题的原典定位，用于支撑“核心命题一：国家如何实现伦理生活？”这一解释。",
+                "titleZh": "伦理生活概念",
+                "summaryZh": "伦理生活部分把自由定义为活的善，即主体意志和普遍制度的统一，进一步说明“伦理生活概念”如何进入“抽象权利和道德必须进入伦理生活”的论证链条。",
                 "source": {
-                  "workId": "hegel-primary-work",
-                  "locator": "Philosophy of Right §§241-245 on poverty and rabble",
+                  "workId": "hegel-philosophy-right",
+                  "locator": "Philosophy of Right §§142-157 on ethical life",
                   "excerptStatus": "summary_only"
                 }
               }
@@ -245,32 +248,32 @@
           },
           {
             "id": "hegel:claim:006",
-            "titleZh": "核心命题二：国家如何实现伦理生活？",
-            "claimZh": "黑格尔在“国家如何实现伦理生活？”中进一步推出实践、制度或认识论后果。",
-            "explanationZh": "该命题把概念论证推进到可比较的问题谱系，避免只停留在术语解释。",
+            "titleZh": "国家是自由的理性制度而非私人契约",
+            "claimZh": "黑格尔把国家理解为伦理理念的现实，不是个人利益交换的外在契约。",
+            "explanationZh": "这并不等于任意专制辩护；其核心在于自由需要公共制度、法和承认关系才能稳定存在。",
             "themeIds": [
               "politics",
-              "ethics"
+              "freedom"
             ],
             "weight": 2,
             "evidence": [
               {
                 "id": "hegel:evidence:011",
-                "titleZh": "核心命题二：国家如何实现伦理生活？的文本依据",
-                "summaryZh": "黑格尔在 Philosophy of Right §§142-157 on ethical life 中提供该命题的原典定位，用于支撑“核心命题二：国家如何实现伦理生活？”这一解释。",
+                "titleZh": "市民社会与国家过渡",
+                "summaryZh": "《法哲学原理》从市民社会的需要体系、贫困和团体过渡到国家，说明私人利益需要公共调解。",
                 "source": {
-                  "workId": "hegel-primary-work",
-                  "locator": "Philosophy of Right §§142-157 on ethical life",
+                  "workId": "hegel-philosophy-right",
+                  "locator": "Philosophy of Right §§182-256 on civil society and the state",
                   "excerptStatus": "summary_only"
                 }
               },
               {
                 "id": "hegel:evidence:012",
-                "titleZh": "核心命题二：国家如何实现伦理生活？的文本依据",
-                "summaryZh": "黑格尔在 Philosophy of Right §§241-245 on poverty and rabble 中提供该命题的原典定位，用于支撑“核心命题二：国家如何实现伦理生活？”这一解释。",
+                "titleZh": "国家与伦理理念",
+                "summaryZh": "国家章节开头把国家称为伦理理念的现实，强调自由在制度整体中的客观化，进一步说明“国家与伦理理念”如何进入“国家是自由的理性制度而非私人契约”的论证链条。",
                 "source": {
-                  "workId": "hegel-primary-work",
-                  "locator": "Philosophy of Right §§241-245 on poverty and rabble",
+                  "workId": "hegel-philosophy-right",
+                  "locator": "Philosophy of Right §§257-260 on the state as actuality of ethical idea",
                   "excerptStatus": "summary_only"
                 }
               }

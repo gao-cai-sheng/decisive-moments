@@ -31,7 +31,10 @@
   "reviewStatus": "draft",
   "summaryZh": "休谟是知识、自由问题谱系中的第一版候选哲人。 本条目是第一版结构化资料，已经保留文明、传统、主题、作品和论述字段，正式发布前需要继续核对年代、文本出处和概念表述。",
   "works": [
-    "hume-primary-work"
+    "hume-treatise",
+    "hume-enquiry-human-understanding",
+    "hume-enquiry-morals",
+    "hume-dialogues-natural-religion"
   ],
   "sourceNotes": [
     {
@@ -43,9 +46,9 @@
     "problems": [
       {
         "id": "hume:problem:001",
-        "titleZh": "经验论如何限制因果知识？",
-        "questionZh": "休谟如何围绕“经验论如何限制因果知识？”建立其思想问题？",
-        "summaryZh": "休谟在这一问题上形成了可辨认的论证路径，连接文本命题、概念区分和后世问题谱系。",
+        "titleZh": "经验为何不能给出必然因果？",
+        "questionZh": "休谟如何从印象和观念理论走向因果与归纳怀疑？",
+        "summaryZh": "休谟把思想内容追溯到印象，并用这一原则审查形而上学概念。因果必然性并非从对象中直接知觉到，而是由重复经验形成的习惯期待。",
         "themeIds": [
           "knowledge",
           "metaphysics"
@@ -54,32 +57,31 @@
         "claims": [
           {
             "id": "hume:claim:001",
-            "titleZh": "核心命题一：经验论如何限制因果知识？",
-            "claimZh": "休谟在“经验论如何限制因果知识？”中提出基础性立场，说明其理论问题的出发点。",
-            "explanationZh": "该命题概括其原典中反复出现的论证方向，并为本问题的后续分支提供基础。",
+            "titleZh": "观念必须回到印象来源",
+            "claimZh": "休谟认为复杂思想最终应能追溯到较生动的印象，否则就可能只是空洞词语。",
+            "explanationZh": "这一复制原则成为他清理形而上学概念的标准：没有经验来源的观念需要被怀疑。",
             "themeIds": [
-              "knowledge",
-              "metaphysics"
+              "knowledge"
             ],
             "weight": 3,
             "evidence": [
               {
                 "id": "hume:evidence:001",
-                "titleZh": "核心命题一：经验论如何限制因果知识？的文本依据",
-                "summaryZh": "休谟在 Enquiry concerning Human Understanding section 2 on impressions and ideas 中提供该命题的原典定位，用于支撑“核心命题一：经验论如何限制因果知识？”这一解释。",
+                "titleZh": "印象与观念区分",
+                "summaryZh": "《人性论》开篇区分印象和观念，并提出观念来自印象的复制关系，进一步说明“印象与观念区分”如何进入“观念必须回到印象来源”的论证链条。",
                 "source": {
-                  "workId": "hume-primary-work",
-                  "locator": "Enquiry concerning Human Understanding section 2 on impressions and ideas",
+                  "workId": "hume-treatise",
+                  "locator": "Treatise of Human Nature I.i.1 on impressions and ideas",
                   "excerptStatus": "summary_only"
                 }
               },
               {
                 "id": "hume:evidence:002",
-                "titleZh": "核心命题一：经验论如何限制因果知识？的文本依据",
-                "summaryZh": "休谟在 Enquiry section 7 on necessary connection 中提供该命题的原典定位，用于支撑“核心命题一：经验论如何限制因果知识？”这一解释。",
+                "titleZh": "观念来源原则",
+                "summaryZh": "《人类理解研究》第二节以较简洁方式重述复制原则，用来检验抽象哲学词语是否有经验来源。",
                 "source": {
-                  "workId": "hume-primary-work",
-                  "locator": "Enquiry section 7 on necessary connection",
+                  "workId": "hume-enquiry-human-understanding",
+                  "locator": "Enquiry Concerning Human Understanding section 2 on the origin of ideas",
                   "excerptStatus": "summary_only"
                 }
               }
@@ -87,9 +89,9 @@
           },
           {
             "id": "hume:claim:002",
-            "titleZh": "核心命题二：经验论如何限制因果知识？",
-            "claimZh": "休谟在“经验论如何限制因果知识？”中进一步推出实践、制度或认识论后果。",
-            "explanationZh": "该命题把概念论证推进到可比较的问题谱系，避免只停留在术语解释。",
+            "titleZh": "因果必然性来自习惯期待",
+            "claimZh": "休谟认为我们从经验中只观察到事件恒常连接，而没有观察到使结果必然发生的力量。",
+            "explanationZh": "因果信念因此是心理习惯的产物：重复经验让心灵从一个对象自然过渡到另一个对象。",
             "themeIds": [
               "knowledge",
               "metaphysics"
@@ -98,21 +100,21 @@
             "evidence": [
               {
                 "id": "hume:evidence:003",
-                "titleZh": "核心命题二：经验论如何限制因果知识？的文本依据",
-                "summaryZh": "休谟在 Enquiry concerning Human Understanding section 2 on impressions and ideas 中提供该命题的原典定位，用于支撑“核心命题二：经验论如何限制因果知识？”这一解释。",
+                "titleZh": "习惯与必然联系",
+                "summaryZh": "《人性论》关于必然联系的讨论把因果推断归因于习惯造成的心理过渡，进一步说明“习惯与必然联系”如何进入“因果必然性来自习惯期待”的论证链条。",
                 "source": {
-                  "workId": "hume-primary-work",
-                  "locator": "Enquiry concerning Human Understanding section 2 on impressions and ideas",
+                  "workId": "hume-treatise",
+                  "locator": "Treatise I.iii.14 on necessary connexion and custom",
                   "excerptStatus": "summary_only"
                 }
               },
               {
                 "id": "hume:evidence:004",
-                "titleZh": "核心命题二：经验论如何限制因果知识？的文本依据",
-                "summaryZh": "休谟在 Enquiry section 7 on necessary connection 中提供该命题的原典定位，用于支撑“核心命题二：经验论如何限制因果知识？”这一解释。",
+                "titleZh": "必然联系的来源",
+                "summaryZh": "《人类理解研究》第七节指出我们在对象中找不到必然联系印象，只能在心灵习惯中找到其来源。",
                 "source": {
-                  "workId": "hume-primary-work",
-                  "locator": "Enquiry section 7 on necessary connection",
+                  "workId": "hume-enquiry-human-understanding",
+                  "locator": "Enquiry section 7 on necessary connexion",
                   "excerptStatus": "summary_only"
                 }
               }
@@ -122,43 +124,44 @@
       },
       {
         "id": "hume:problem:002",
-        "titleZh": "自我与外部世界能否被证明？",
-        "questionZh": "休谟如何围绕“自我与外部世界能否被证明？”建立其思想问题？",
-        "summaryZh": "休谟在这一问题上形成了可辨认的论证路径，连接文本命题、概念区分和后世问题谱系。",
+        "titleZh": "自我与理性为何不再是主宰？",
+        "questionZh": "休谟如何动摇实体自我和理性统治激情的传统图像？",
+        "summaryZh": "休谟把自我分析为知觉束，把实践动力交给激情。理性能够比较关系和事实，但不能独自发动行动；道德与行动需要情感结构。",
         "themeIds": [
-          "freedom",
+          "knowledge",
+          "life_death",
           "ethics"
         ],
         "weight": 3,
         "claims": [
           {
             "id": "hume:claim:003",
-            "titleZh": "核心命题一：自我与外部世界能否被证明？",
-            "claimZh": "休谟在“自我与外部世界能否被证明？”中提出基础性立场，说明其理论问题的出发点。",
-            "explanationZh": "该命题概括其原典中反复出现的论证方向，并为本问题的后续分支提供基础。",
+            "titleZh": "自我是知觉束而非可直观实体",
+            "claimZh": "休谟认为内省时只能遇到具体知觉，不能遇到一个独立不变的自我实体。",
+            "explanationZh": "这使人格同一性成为想象和记忆组织经验的结果，而非形而上实体的直接把握。",
             "themeIds": [
-              "freedom",
-              "ethics"
+              "knowledge",
+              "metaphysics"
             ],
             "weight": 3,
             "evidence": [
               {
                 "id": "hume:evidence:005",
-                "titleZh": "核心命题一：自我与外部世界能否被证明？的文本依据",
-                "summaryZh": "休谟在 Treatise I.iv.6 on personal identity 中提供该命题的原典定位，用于支撑“核心命题一：自我与外部世界能否被证明？”这一解释。",
+                "titleZh": "自我作为知觉束",
+                "summaryZh": "《人性论》关于人格同一性的章节说明，自我不过是一束不断变化的知觉集合，进一步说明“自我作为知觉束”如何进入“自我是知觉束而非可直观实体”的论证链条。",
                 "source": {
-                  "workId": "hume-primary-work",
+                  "workId": "hume-treatise",
                   "locator": "Treatise I.iv.6 on personal identity",
                   "excerptStatus": "summary_only"
                 }
               },
               {
                 "id": "hume:evidence:006",
-                "titleZh": "核心命题一：自我与外部世界能否被证明？的文本依据",
-                "summaryZh": "休谟在 Enquiry section 12 on academical philosophy 中提供该命题的原典定位，用于支撑“核心命题一：自我与外部世界能否被证明？”这一解释。",
+                "titleZh": "持续对象与想象构造",
+                "summaryZh": "感官怀疑章节展示休谟如何追问持续对象和自我同一性的心理构造，而非直接接受实体假设。",
                 "source": {
-                  "workId": "hume-primary-work",
-                  "locator": "Enquiry section 12 on academical philosophy",
+                  "workId": "hume-treatise",
+                  "locator": "Treatise I.iv.2 on skepticism with regard to the senses",
                   "excerptStatus": "summary_only"
                 }
               }
@@ -166,32 +169,32 @@
           },
           {
             "id": "hume:claim:004",
-            "titleZh": "核心命题二：自我与外部世界能否被证明？",
-            "claimZh": "休谟在“自我与外部世界能否被证明？”中进一步推出实践、制度或认识论后果。",
-            "explanationZh": "该命题把概念论证推进到可比较的问题谱系，避免只停留在术语解释。",
+            "titleZh": "理性是激情的工具而非行动主宰",
+            "claimZh": "休谟认为理性本身不能产生行动目的，只能告诉我们事实关系和手段关系；行动动力来自激情。",
+            "explanationZh": "这不是反理性主义的放任，而是把实践哲学建立在真实心理动力上。",
             "themeIds": [
-              "freedom",
-              "ethics"
+              "ethics",
+              "freedom"
             ],
             "weight": 2,
             "evidence": [
               {
                 "id": "hume:evidence:007",
-                "titleZh": "核心命题二：自我与外部世界能否被证明？的文本依据",
-                "summaryZh": "休谟在 Treatise I.iv.6 on personal identity 中提供该命题的原典定位，用于支撑“核心命题二：自我与外部世界能否被证明？”这一解释。",
+                "titleZh": "理性与激情关系",
+                "summaryZh": "《人性论》第二卷著名段落把理性称为激情的奴隶，说明理性不能单独决定意志，进一步说明“理性与激情关系”如何进入“理性是激情的工具而非行动主宰”的论证链条。",
                 "source": {
-                  "workId": "hume-primary-work",
-                  "locator": "Treatise I.iv.6 on personal identity",
+                  "workId": "hume-treatise",
+                  "locator": "Treatise II.iii.3 on reason as slave of the passions",
                   "excerptStatus": "summary_only"
                 }
               },
               {
                 "id": "hume:evidence:008",
-                "titleZh": "核心命题二：自我与外部世界能否被证明？的文本依据",
-                "summaryZh": "休谟在 Enquiry section 12 on academical philosophy 中提供该命题的原典定位，用于支撑“核心命题二：自我与外部世界能否被证明？”这一解释。",
+                "titleZh": "动机、性格与行动",
+                "summaryZh": "关于自由与必然的讨论把行动放在动机、性格和因果规律中理解，弱化无因自由意志，进一步说明“动机、性格与行动”如何进入“理性是激情的工具而非行动主宰”的论证链条。",
                 "source": {
-                  "workId": "hume-primary-work",
-                  "locator": "Enquiry section 12 on academical philosophy",
+                  "workId": "hume-treatise",
+                  "locator": "Treatise II.iii.9 on direct passions and liberty and necessity",
                   "excerptStatus": "summary_only"
                 }
               }
@@ -201,43 +204,43 @@
       },
       {
         "id": "hume:problem:003",
-        "titleZh": "道德是否来自理性？",
-        "questionZh": "休谟如何围绕“道德是否来自理性？”建立其思想问题？",
-        "summaryZh": "休谟在这一问题上形成了可辨认的论证路径，连接文本命题、概念区分和后世问题谱系。",
+        "titleZh": "道德与宗教如何接受自然化审查？",
+        "questionZh": "休谟如何用情感、效用和经验概率审查道德判断与宗教论证？",
+        "summaryZh": "休谟把道德判断解释为由同情和效用引发的赞许感，而不是理性发现的客观关系。他也用经验主义审查神迹和设计论，限制宗教论证的认知权威。",
         "themeIds": [
-          "politics",
-          "ethics"
+          "ethics",
+          "religion",
+          "knowledge"
         ],
         "weight": 2,
         "claims": [
           {
             "id": "hume:claim:005",
-            "titleZh": "核心命题一：道德是否来自理性？",
-            "claimZh": "休谟在“道德是否来自理性？”中提出基础性立场，说明其理论问题的出发点。",
-            "explanationZh": "该命题概括其原典中反复出现的论证方向，并为本问题的后续分支提供基础。",
+            "titleZh": "道德判断根源于情感赞许",
+            "claimZh": "休谟认为德性之所以被赞许，往往因为其有用或令人愉快，并通过同情影响旁观者情感。",
+            "explanationZh": "道德不是纯粹理性推导，而是人类共同情感和社会效用的自然产物。",
             "themeIds": [
-              "politics",
               "ethics"
             ],
             "weight": 3,
             "evidence": [
               {
                 "id": "hume:evidence:009",
-                "titleZh": "核心命题一：道德是否来自理性？的文本依据",
-                "summaryZh": "休谟在 Treatise II.iii.3 on reason and passions 中提供该命题的原典定位，用于支撑“核心命题一：道德是否来自理性？”这一解释。",
+                "titleZh": "效用与道德情感",
+                "summaryZh": "《道德原则研究》把公共效用和人类情感作为德性赞许的重要来源，进一步说明“效用与道德情感”如何进入“道德判断根源于情感赞许”的论证链条。",
                 "source": {
-                  "workId": "hume-primary-work",
-                  "locator": "Treatise II.iii.3 on reason and passions",
+                  "workId": "hume-enquiry-morals",
+                  "locator": "Enquiry Concerning the Principles of Morals sections 5 and 9 on utility and sentiment",
                   "excerptStatus": "summary_only"
                 }
               },
               {
                 "id": "hume:evidence:010",
-                "titleZh": "核心命题一：道德是否来自理性？的文本依据",
-                "summaryZh": "休谟在 Enquiry concerning the Principles of Morals section 3 on justice and utility 中提供该命题的原典定位，用于支撑“核心命题一：道德是否来自理性？”这一解释。",
+                "titleZh": "道德区别非源于理性",
+                "summaryZh": "《人性论》第三卷开篇论证道德区别并非由理性单独推出，而依赖感受和赞许，进一步说明“道德区别非源于理性”如何进入“道德判断根源于情感赞许”的论证链条。",
                 "source": {
-                  "workId": "hume-primary-work",
-                  "locator": "Enquiry concerning the Principles of Morals section 3 on justice and utility",
+                  "workId": "hume-treatise",
+                  "locator": "Treatise III.i.1 on moral distinctions not derived from reason",
                   "excerptStatus": "summary_only"
                 }
               }
@@ -245,32 +248,32 @@
           },
           {
             "id": "hume:claim:006",
-            "titleZh": "核心命题二：道德是否来自理性？",
-            "claimZh": "休谟在“道德是否来自理性？”中进一步推出实践、制度或认识论后果。",
-            "explanationZh": "该命题把概念论证推进到可比较的问题谱系，避免只停留在术语解释。",
+            "titleZh": "宗教论证必须服从经验概率",
+            "claimZh": "休谟用经验概率审查神迹证言，并在设计论中质疑从世界秩序直接推出传统神学结论。",
+            "explanationZh": "他的宗教批判不是简单嘲笑信仰，而是要求宗教主张接受经验和推理强度的比例检验。",
             "themeIds": [
-              "politics",
-              "ethics"
+              "religion",
+              "knowledge"
             ],
             "weight": 2,
             "evidence": [
               {
                 "id": "hume:evidence:011",
-                "titleZh": "核心命题二：道德是否来自理性？的文本依据",
-                "summaryZh": "休谟在 Treatise II.iii.3 on reason and passions 中提供该命题的原典定位，用于支撑“核心命题二：道德是否来自理性？”这一解释。",
+                "titleZh": "神迹与证言概率",
+                "summaryZh": "《人类理解研究》第十节把神迹证言同经验规律的稳定性比较，要求信念强度服从证据权重。",
                 "source": {
-                  "workId": "hume-primary-work",
-                  "locator": "Treatise II.iii.3 on reason and passions",
+                  "workId": "hume-enquiry-human-understanding",
+                  "locator": "Enquiry section 10 on miracles",
                   "excerptStatus": "summary_only"
                 }
               },
               {
                 "id": "hume:evidence:012",
-                "titleZh": "核心命题二：道德是否来自理性？的文本依据",
-                "summaryZh": "休谟在 Enquiry concerning the Principles of Morals section 3 on justice and utility 中提供该命题的原典定位，用于支撑“核心命题二：道德是否来自理性？”这一解释。",
+                "titleZh": "设计论批判",
+                "summaryZh": "《自然宗教对话录》通过对话质疑从宇宙秩序类比人造设计能否推出无限、善和唯一的神。",
                 "source": {
-                  "workId": "hume-primary-work",
-                  "locator": "Enquiry concerning the Principles of Morals section 3 on justice and utility",
+                  "workId": "hume-dialogues-natural-religion",
+                  "locator": "Dialogues Concerning Natural Religion parts 2-8 on design argument",
                   "excerptStatus": "summary_only"
                 }
               }

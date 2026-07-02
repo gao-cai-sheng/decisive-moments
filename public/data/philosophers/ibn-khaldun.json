@@ -5,9 +5,9 @@
     "en": "Ibn Khaldun"
   },
   "life": {
-    "display": "1332—1406",
     "birth": 1332,
-    "death": 1406
+    "death": 1406,
+    "display": "1332—1406"
   },
   "civilization": "islamic",
   "traditions": [
@@ -31,12 +31,254 @@
   "reviewStatus": "draft",
   "summaryZh": "伊本·赫勒敦是形而上学、宗教问题谱系中的第一版候选哲人。 本条目是第一版结构化资料，已经保留文明、传统、主题、作品和论述字段，正式发布前需要继续核对年代、文本出处和概念表述。",
   "works": [
-    "ibn-khaldun-primary-work"
+    "ibn-khaldun-muqaddimah",
+    "ibn-khaldun-kitab-al-ibar",
+    "ibn-khaldun-autobiography"
   ],
   "sourceNotes": [
     {
       "label": "draft",
       "noteZh": "条目需要人工核对作品、年代和概念表述。"
     }
-  ]
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "ibn-khaldun:problem:001",
+        "titleZh": "历史学如何成为有方法的知识？",
+        "questionZh": "伊本·赫勒敦为何反对只汇编传闻，而要为历史判断建立社会因果方法？",
+        "summaryZh": "伊本·赫勒敦把历史学从编年轶闻提升为关于人类群居、政权兴衰和文明条件的研究。他要求史家检验传闻是否合乎社会可能性。",
+        "themeIds": [
+          "knowledge",
+          "politics"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "ibn-khaldun:claim:001",
+            "titleZh": "历史传闻必须接受社会可能性检验",
+            "claimZh": "伊本·赫勒敦认为史家不能只转述权威传闻，而应判断事件是否符合人口、经济、权力和习俗条件。",
+            "explanationZh": "这种方法把历史知识建立在关于社会结构的因果判断上，避免夸张传说和政治宣传混入史学。",
+            "themeIds": [
+              "knowledge"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "ibn-khaldun:evidence:001",
+                "titleZh": "导论中的史学批判",
+                "summaryZh": "《历史绪论》开篇批评史家轻信传闻，要求用人类社会和文明规律检验叙事真伪，而不是只沿袭权威说法。",
+                "source": {
+                  "workId": "ibn-khaldun-muqaddimah",
+                  "locator": "Muqaddimah, introduction on errors of historians and critical verification",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "ibn-khaldun:evidence:002",
+                "titleZh": "文明条件与事件可信性",
+                "summaryZh": "《历史绪论》以人口、财政、军力和习俗条件判断历史记载，显示史实必须放入社会结构中评估。",
+                "source": {
+                  "workId": "ibn-khaldun-muqaddimah",
+                  "locator": "Muqaddimah on social conditions, population and plausibility of reports",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "ibn-khaldun:claim:002",
+            "titleZh": "历史研究需要一门关于文明的科学",
+            "claimZh": "伊本·赫勒敦把历史学基础放在对 umran 的研究上，即研究人类群居、生产、权力和文化的生成条件。",
+            "explanationZh": "史学因此不只是记过去，而是寻找文明生活的结构性规律，用以解释政权与社会为什么变化。",
+            "themeIds": [
+              "knowledge",
+              "metaphysics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "ibn-khaldun:evidence:003",
+                "titleZh": "umran 作为新科学对象",
+                "summaryZh": "《历史绪论》把人类文明和社会组织列为独立研究对象，说明历史判断需要一门关于群居生活的科学。",
+                "source": {
+                  "workId": "ibn-khaldun-muqaddimah",
+                  "locator": "Muqaddimah, introduction on the science of human civilization or umran",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "ibn-khaldun:evidence:004",
+                "titleZh": "从王朝史到社会规律",
+                "summaryZh": "《大历史》叙事依托《历史绪论》的方法框架，把王朝变迁理解为社会力量和文明条件的结果。",
+                "source": {
+                  "workId": "ibn-khaldun-kitab-al-ibar",
+                  "locator": "Kitab al-Ibar in relation to the Muqaddimah's method of dynastic history",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ibn-khaldun:problem:002",
+        "titleZh": "王朝为何会从团结走向衰败？",
+        "questionZh": "伊本·赫勒敦如何用 asabiyyah 解释政权兴起、扩张、奢侈和衰亡？",
+        "summaryZh": "伊本·赫勒敦用群体凝聚力解释政治权力的生成。游牧或边缘集团凭借强 asabiyyah 夺取政权，但定居、税赋和奢侈会逐渐削弱这种力量。",
+        "themeIds": [
+          "politics",
+          "life_death"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "ibn-khaldun:claim:003",
+            "titleZh": "asabiyyah 是建国力量",
+            "claimZh": "伊本·赫勒敦认为王朝兴起依赖群体凝聚力，它使部族或联盟能够承受斗争、服从领导并夺取统治。",
+            "explanationZh": "政治权力不是单靠个人才智产生，而来自能组织牺牲、忠诚和军事行动的群体纽带。",
+            "themeIds": [
+              "politics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "ibn-khaldun:evidence:005",
+                "titleZh": "群体凝聚力与王权",
+                "summaryZh": "《历史绪论》关于 asabiyyah 的章节说明强凝聚力如何使集团形成领导、战争能力和王权基础。",
+                "source": {
+                  "workId": "ibn-khaldun-muqaddimah",
+                  "locator": "Muqaddimah on asabiyyah, leadership and royal authority",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "ibn-khaldun:evidence:006",
+                "titleZh": "游牧集团的政治优势",
+                "summaryZh": "《历史绪论》比较游牧与定居生活，指出边缘集团因艰苦生活和亲族纽带更容易保持政治动员力。",
+                "source": {
+                  "workId": "ibn-khaldun-muqaddimah",
+                  "locator": "Muqaddimah on Bedouin life, toughness and political domination",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "ibn-khaldun:claim:004",
+            "titleZh": "定居奢侈会侵蚀王朝根基",
+            "claimZh": "伊本·赫勒敦认为王朝成功后会走向定居、税负增加和奢侈消费，从而削弱原先的凝聚力。",
+            "explanationZh": "王朝周期不是道德寓言，而是权力组织、财政压力和生活方式变化共同造成的结构性衰败。",
+            "themeIds": [
+              "politics",
+              "life_death"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "ibn-khaldun:evidence:007",
+                "titleZh": "王朝阶段与奢侈",
+                "summaryZh": "《历史绪论》描述王朝从征服到独占权力、安逸和奢侈的阶段，说明成功本身会制造衰败条件。",
+                "source": {
+                  "workId": "ibn-khaldun-muqaddimah",
+                  "locator": "Muqaddimah on stages of dynasties, luxury and decline",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "ibn-khaldun:evidence:008",
+                "titleZh": "税负与生产衰退",
+                "summaryZh": "《历史绪论》关于税收的分析显示，晚期王朝提高税率会压抑生产并削弱财政基础，进而加速政治衰败。",
+                "source": {
+                  "workId": "ibn-khaldun-muqaddimah",
+                  "locator": "Muqaddimah on taxation, incentives and economic decline of dynasties",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ibn-khaldun:problem:003",
+        "titleZh": "宗教、知识与政治秩序如何相互支撑？",
+        "questionZh": "伊本·赫勒敦如何把宗教权威、学术分类和政治团结放入文明理论？",
+        "summaryZh": "伊本·赫勒敦承认宗教能强化政治凝聚力，也分析知识在文明中的制度位置。他既区分宗教知识和理性知识，又说明城市文明为学术专业化提供条件。",
+        "themeIds": [
+          "religion",
+          "knowledge",
+          "politics"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "ibn-khaldun:claim:005",
+            "titleZh": "宗教使命能放大政治凝聚力",
+            "claimZh": "伊本·赫勒敦认为宗教召唤能把群体凝聚力导向更广泛目标，使政权动员获得超越血缘的正当性。",
+            "explanationZh": "宗教不是政治外部装饰，而能改变团结的方向、范围和持久性，尤其在建国阶段具有力量。",
+            "themeIds": [
+              "religion",
+              "politics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "ibn-khaldun:evidence:009",
+                "titleZh": "宗教号召与王权扩张",
+                "summaryZh": "《历史绪论》说明宗教使命能增强 asabiyyah，使政治集团获得更强动员力和合法性。",
+                "source": {
+                  "workId": "ibn-khaldun-muqaddimah",
+                  "locator": "Muqaddimah on religious mission strengthening group solidarity",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "ibn-khaldun:evidence:010",
+                "titleZh": "哈里发与王权的区分",
+                "summaryZh": "《历史绪论》区分宗教领导和世俗王权，显示政治权威可被宗教目的提升也会退化为统治技术。",
+                "source": {
+                  "workId": "ibn-khaldun-muqaddimah",
+                  "locator": "Muqaddimah on caliphate, kingship and religious law",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "ibn-khaldun:claim:006",
+            "titleZh": "学术专业化依赖城市文明",
+            "claimZh": "伊本·赫勒敦把知识分类放入文明发展中理解，认为复杂城市生活为学术分工和教学制度提供条件。",
+            "explanationZh": "知识并非脱离社会的纯粹观念活动，而依赖城市、闲暇、职业教师和文字传统的制度支持。",
+            "themeIds": [
+              "knowledge",
+              "religion"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "ibn-khaldun:evidence:011",
+                "titleZh": "知识分类与文明阶段",
+                "summaryZh": "《历史绪论》对宗教科学、理性科学和语言科学分类，并把学术繁荣同城市文明联系起来。",
+                "source": {
+                  "workId": "ibn-khaldun-muqaddimah",
+                  "locator": "Muqaddimah on classification of sciences and urban civilization",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "ibn-khaldun:evidence:012",
+                "titleZh": "自传中的学术与政治经验",
+                "summaryZh": "《自传》展示伊本·赫勒敦在学术、官职和流亡之间转换，说明其知识论来自实际政治经验。",
+                "source": {
+                  "workId": "ibn-khaldun-autobiography",
+                  "locator": "Autobiography on scholarly formation, offices and political experience",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
 }

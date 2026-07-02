@@ -31,7 +31,7 @@
   "reviewStatus": "draft",
   "summaryZh": "波爱修斯是宗教、形而上学问题谱系中的第一版候选哲人。 本条目是第一版结构化资料，已经保留文明、传统、主题、作品和论述字段，正式发布前需要继续核对年代、文本出处和概念表述。",
   "works": [
-    "boethius-primary-work"
+    "boethius-consolation"
   ],
   "sourceNotes": [
     {
@@ -44,41 +44,40 @@
       {
         "id": "boethius:problem:001",
         "titleZh": "不幸如何转化为哲学治疗？",
-        "questionZh": "波爱修斯如何围绕“不幸如何转化为哲学治疗？”建立其思想问题？",
-        "summaryZh": "波爱修斯在这一问题上形成了可辨认的论证路径，连接文本命题、概念区分和后世问题谱系。",
+        "questionZh": "波爱修斯如何把囚禁和失势经验转化为哲学治疗，而不是单纯的命运抱怨？",
+        "summaryZh": "《哲学的慰藉》把不幸理解为灵魂误认外物为幸福之后的病症。哲学女士通过拆解命运、财富、权力和名声的虚假稳定性，引导灵魂重新转向真正的善。",
         "themeIds": [
-          "religion",
-          "knowledge"
+          "ethics",
+          "life_death"
         ],
         "weight": 3,
         "claims": [
           {
             "id": "boethius:claim:001",
-            "titleZh": "核心命题一：不幸如何转化为哲学治疗？",
-            "claimZh": "波爱修斯在“不幸如何转化为哲学治疗？”中提出基础性立场，说明其理论问题的出发点。",
-            "explanationZh": "该命题概括其原典中反复出现的论证方向，并为本问题的后续分支提供基础。",
+            "titleZh": "命运之轮暴露外物不稳",
+            "claimZh": "波爱修斯把命运描绘为不断转动的轮，借此说明财富、权位和声誉本就不具备真正幸福所需的稳定性。",
+            "explanationZh": "哲学治疗不是保证外在成功，而是改变灵魂对外物的价值判断。",
             "themeIds": [
-              "religion",
-              "knowledge"
+              "ethics"
             ],
             "weight": 3,
             "evidence": [
               {
                 "id": "boethius:evidence:001",
-                "titleZh": "核心命题一：不幸如何转化为哲学治疗？的文本依据",
-                "summaryZh": "波爱修斯在 Consolatio Philosophiae II prose 1-2 on Fortune's wheel 中提供该命题的原典定位，用于支撑“核心命题一：不幸如何转化为哲学治疗？”这一解释。",
+                "titleZh": "命运之轮的论证",
+                "summaryZh": "《哲学的慰藉》第二卷以命运之轮说明外在荣华随时翻转，受害者真正失去的是对外物可保有性的幻觉。",
                 "source": {
-                  "workId": "boethius-primary-work",
+                  "workId": "boethius-consolation",
                   "locator": "Consolatio Philosophiae II prose 1-2 on Fortune's wheel",
                   "excerptStatus": "summary_only"
                 }
               },
               {
                 "id": "boethius:evidence:002",
-                "titleZh": "核心命题一：不幸如何转化为哲学治疗？的文本依据",
-                "summaryZh": "波爱修斯在 Consolatio Philosophiae III prose 2-8 on false goods 中提供该命题的原典定位，用于支撑“核心命题一：不幸如何转化为哲学治疗？”这一解释。",
+                "titleZh": "虚假善的逐项拆解",
+                "summaryZh": "第三卷逐项分析财富、官职、王权、名声和快乐，指出这些对象都不能自足地给予幸福，只会制造依赖。",
                 "source": {
-                  "workId": "boethius-primary-work",
+                  "workId": "boethius-consolation",
                   "locator": "Consolatio Philosophiae III prose 2-8 on false goods",
                   "excerptStatus": "summary_only"
                 }
@@ -87,31 +86,31 @@
           },
           {
             "id": "boethius:claim:002",
-            "titleZh": "核心命题二：不幸如何转化为哲学治疗？",
-            "claimZh": "波爱修斯在“不幸如何转化为哲学治疗？”中进一步推出实践、制度或认识论后果。",
-            "explanationZh": "该命题把概念论证推进到可比较的问题谱系，避免只停留在术语解释。",
+            "titleZh": "幸福必须回到最高善",
+            "claimZh": "波爱修斯认为真正幸福不能由可失去的外物构成，而要回到统一、充足且不受命运摆布的最高善。",
+            "explanationZh": "这使其慰藉论从心理安慰转为形而上学治疗：灵魂必须重新认识善的对象。",
             "themeIds": [
-              "religion",
-              "knowledge"
+              "ethics",
+              "metaphysics"
             ],
             "weight": 2,
             "evidence": [
               {
                 "id": "boethius:evidence:003",
-                "titleZh": "核心命题二：不幸如何转化为哲学治疗？的文本依据",
-                "summaryZh": "波爱修斯在 Consolatio Philosophiae II prose 1-2 on Fortune's wheel 中提供该命题的原典定位，用于支撑“核心命题二：不幸如何转化为哲学治疗？”这一解释。",
+                "titleZh": "从外物失落到价值校正",
+                "summaryZh": "第二卷并不否认遭遇的痛苦，而是把痛苦转化为辨认外物不可靠性的机会，从而启动哲学治疗。",
                 "source": {
-                  "workId": "boethius-primary-work",
+                  "workId": "boethius-consolation",
                   "locator": "Consolatio Philosophiae II prose 1-2 on Fortune's wheel",
                   "excerptStatus": "summary_only"
                 }
               },
               {
                 "id": "boethius:evidence:004",
-                "titleZh": "核心命题二：不幸如何转化为哲学治疗？的文本依据",
-                "summaryZh": "波爱修斯在 Consolatio Philosophiae III prose 2-8 on false goods 中提供该命题的原典定位，用于支撑“核心命题二：不幸如何转化为哲学治疗？”这一解释。",
+                "titleZh": "虚假幸福指向真正幸福",
+                "summaryZh": "第三卷对虚假善的批判不是虚无主义，而是为了显示人追求的统一、充足和安宁只能在最高善中完成。",
                 "source": {
-                  "workId": "boethius-primary-work",
+                  "workId": "boethius-consolation",
                   "locator": "Consolatio Philosophiae III prose 2-8 on false goods",
                   "excerptStatus": "summary_only"
                 }
@@ -123,41 +122,42 @@
       {
         "id": "boethius:problem:002",
         "titleZh": "天意与自由如何相容？",
-        "questionZh": "波爱修斯如何围绕“天意与自由如何相容？”建立其思想问题？",
-        "summaryZh": "波爱修斯在这一问题上形成了可辨认的论证路径，连接文本命题、概念区分和后世问题谱系。",
+        "questionZh": "如果上帝预知一切，人的自由选择是否仍然真实？",
+        "summaryZh": "波爱修斯通过区分永恒知识与时间中的预先知道，试图说明神圣知识并不以时间方式强迫人的选择。上帝永恒地观看全部时间，人的行动仍在自身层面保持自愿性。",
         "themeIds": [
-          "metaphysics",
-          "religion"
+          "religion",
+          "freedom",
+          "knowledge"
         ],
         "weight": 3,
         "claims": [
           {
             "id": "boethius:claim:003",
-            "titleZh": "核心命题一：天意与自由如何相容？",
-            "claimZh": "波爱修斯在“天意与自由如何相容？”中提出基础性立场，说明其理论问题的出发点。",
-            "explanationZh": "该命题概括其原典中反复出现的论证方向，并为本问题的后续分支提供基础。",
+            "titleZh": "永恒不是无限延长的时间",
+            "claimZh": "波爱修斯把上帝的永恒理解为同时完整地拥有无尽生命，而不是在时间线上无限延长。",
+            "explanationZh": "这一区分避免把上帝理解成提前观看未来事件的时间内观察者。",
             "themeIds": [
-              "metaphysics",
-              "religion"
+              "religion",
+              "metaphysics"
             ],
             "weight": 3,
             "evidence": [
               {
                 "id": "boethius:evidence:005",
-                "titleZh": "核心命题一：天意与自由如何相容？的文本依据",
-                "summaryZh": "波爱修斯在 Consolatio Philosophiae V prose 6 on eternity as tota simul 中提供该命题的原典定位，用于支撑“核心命题一：天意与自由如何相容？”这一解释。",
+                "titleZh": "永恒的 tota simul 定义",
+                "summaryZh": "第五卷第六散文将永恒定义为完整而同时地拥有无尽生命，为解决预知和自由的冲突提供关键概念。",
                 "source": {
-                  "workId": "boethius-primary-work",
+                  "workId": "boethius-consolation",
                   "locator": "Consolatio Philosophiae V prose 6 on eternity as tota simul",
                   "excerptStatus": "summary_only"
                 }
               },
               {
                 "id": "boethius:evidence:006",
-                "titleZh": "核心命题一：天意与自由如何相容？的文本依据",
-                "summaryZh": "波爱修斯在 Consolatio Philosophiae V prose 3 on foreknowledge and free will 中提供该命题的原典定位，用于支撑“核心命题一：天意与自由如何相容？”这一解释。",
+                "titleZh": "预知难题的提出",
+                "summaryZh": "第五卷第三散文明确提出，如果未来被预知似乎必然发生，人的选择就会失去偶然性和责任。",
                 "source": {
-                  "workId": "boethius-primary-work",
+                  "workId": "boethius-consolation",
                   "locator": "Consolatio Philosophiae V prose 3 on foreknowledge and free will",
                   "excerptStatus": "summary_only"
                 }
@@ -166,31 +166,31 @@
           },
           {
             "id": "boethius:claim:004",
-            "titleZh": "核心命题二：天意与自由如何相容？",
-            "claimZh": "波爱修斯在“天意与自由如何相容？”中进一步推出实践、制度或认识论后果。",
-            "explanationZh": "该命题把概念论证推进到可比较的问题谱系，避免只停留在术语解释。",
+            "titleZh": "神知不取消人的自愿性",
+            "claimZh": "波爱修斯认为上帝以永恒方式知道时间中的选择，并不使人的选择在自身层面变成被迫或无责任。",
+            "explanationZh": "知识的方式不同于因果强迫；永恒观看不等于时间内预定。",
             "themeIds": [
-              "metaphysics",
-              "religion"
+              "religion",
+              "freedom"
             ],
             "weight": 2,
             "evidence": [
               {
                 "id": "boethius:evidence:007",
-                "titleZh": "核心命题二：天意与自由如何相容？的文本依据",
-                "summaryZh": "波爱修斯在 Consolatio Philosophiae V prose 6 on eternity as tota simul 中提供该命题的原典定位，用于支撑“核心命题二：天意与自由如何相容？”这一解释。",
+                "titleZh": "永恒观看与时间行动区分",
+                "summaryZh": "第五卷第六散文把神圣知识置于永恒现在中，从而区分上帝知道事件和事件被时间内原因强迫发生。",
                 "source": {
-                  "workId": "boethius-primary-work",
+                  "workId": "boethius-consolation",
                   "locator": "Consolatio Philosophiae V prose 6 on eternity as tota simul",
                   "excerptStatus": "summary_only"
                 }
               },
               {
                 "id": "boethius:evidence:008",
-                "titleZh": "核心命题二：天意与自由如何相容？的文本依据",
-                "summaryZh": "波爱修斯在 Consolatio Philosophiae V prose 3 on foreknowledge and free will 中提供该命题的原典定位，用于支撑“核心命题二：天意与自由如何相容？”这一解释。",
+                "titleZh": "自由问题保留伦理责任",
+                "summaryZh": "第五卷第三散文之所以严肃提出预知难题，是因为波爱修斯要保留祈祷、德性、奖惩和责任的意义。",
                 "source": {
-                  "workId": "boethius-primary-work",
+                  "workId": "boethius-consolation",
                   "locator": "Consolatio Philosophiae V prose 3 on foreknowledge and free will",
                   "excerptStatus": "summary_only"
                 }
@@ -202,41 +202,42 @@
       {
         "id": "boethius:problem:003",
         "titleZh": "理性秩序如何支撑宇宙？",
-        "questionZh": "波爱修斯如何围绕“理性秩序如何支撑宇宙？”建立其思想问题？",
-        "summaryZh": "波爱修斯在这一问题上形成了可辨认的论证路径，连接文本命题、概念区分和后世问题谱系。",
+        "questionZh": "波爱修斯如何把最高善、天意和命运组织成一个可理解的宇宙秩序？",
+        "summaryZh": "波爱修斯把幸福论、神意论和宇宙秩序联系起来。最高善不仅是伦理目标，也是万物秩序的源头；命运则是天意在时间中的展开，而不是任意混乱。",
         "themeIds": [
-          "ethics",
-          "politics"
+          "metaphysics",
+          "religion",
+          "ethics"
         ],
         "weight": 2,
         "claims": [
           {
             "id": "boethius:claim:005",
-            "titleZh": "核心命题一：理性秩序如何支撑宇宙？",
-            "claimZh": "波爱修斯在“理性秩序如何支撑宇宙？”中提出基础性立场，说明其理论问题的出发点。",
-            "explanationZh": "该命题概括其原典中反复出现的论证方向，并为本问题的后续分支提供基础。",
+            "titleZh": "最高善统一幸福与存在秩序",
+            "claimZh": "波爱修斯把最高善理解为真正幸福和世界秩序的共同根据，因此伦理治疗最终通向形而上学。",
+            "explanationZh": "人的幸福不是主观满足，而是参与更高的善和秩序。",
             "themeIds": [
               "ethics",
-              "politics"
+              "metaphysics"
             ],
             "weight": 3,
             "evidence": [
               {
                 "id": "boethius:evidence:009",
-                "titleZh": "核心命题一：理性秩序如何支撑宇宙？的文本依据",
-                "summaryZh": "波爱修斯在 Consolatio Philosophiae III prose 10-12 on happiness and highest good 中提供该命题的原典定位，用于支撑“核心命题一：理性秩序如何支撑宇宙？”这一解释。",
+                "titleZh": "幸福与最高善合一",
+                "summaryZh": "第三卷后段把真正幸福推进到最高善问题，说明所有局部善只有在统一善中才获得完成并取得稳定尺度。",
                 "source": {
-                  "workId": "boethius-primary-work",
+                  "workId": "boethius-consolation",
                   "locator": "Consolatio Philosophiae III prose 10-12 on happiness and highest good",
                   "excerptStatus": "summary_only"
                 }
               },
               {
                 "id": "boethius:evidence:010",
-                "titleZh": "核心命题一：理性秩序如何支撑宇宙？的文本依据",
-                "summaryZh": "波爱修斯在 Consolatio Philosophiae IV prose 6 on providence and fate 中提供该命题的原典定位，用于支撑“核心命题一：理性秩序如何支撑宇宙？”这一解释。",
+                "titleZh": "天意和命运的区分",
+                "summaryZh": "第四卷第六散文把天意解释为神圣理性中的简单秩序，把命运解释为该秩序在时间和变化中的展开。",
                 "source": {
-                  "workId": "boethius-primary-work",
+                  "workId": "boethius-consolation",
                   "locator": "Consolatio Philosophiae IV prose 6 on providence and fate",
                   "excerptStatus": "summary_only"
                 }
@@ -245,31 +246,31 @@
           },
           {
             "id": "boethius:claim:006",
-            "titleZh": "核心命题二：理性秩序如何支撑宇宙？",
-            "claimZh": "波爱修斯在“理性秩序如何支撑宇宙？”中进一步推出实践、制度或认识论后果。",
-            "explanationZh": "该命题把概念论证推进到可比较的问题谱系，避免只停留在术语解释。",
+            "titleZh": "命运服从天意的理性秩序",
+            "claimZh": "波爱修斯认为看似混乱的命运变化仍隶属于更高天意，哲学任务是提升视角而非只抱怨遭遇。",
+            "explanationZh": "这一命题解释了为什么慰藉需要认识宇宙秩序，而不是停留在情绪安抚。",
             "themeIds": [
-              "ethics",
-              "politics"
+              "religion",
+              "knowledge"
             ],
             "weight": 2,
             "evidence": [
               {
                 "id": "boethius:evidence:011",
-                "titleZh": "核心命题二：理性秩序如何支撑宇宙？的文本依据",
-                "summaryZh": "波爱修斯在 Consolatio Philosophiae III prose 10-12 on happiness and highest good 中提供该命题的原典定位，用于支撑“核心命题二：理性秩序如何支撑宇宙？”这一解释。",
+                "titleZh": "最高善使局部善获得尺度",
+                "summaryZh": "第三卷关于最高善的论证使财富、权力等局部对象获得评判尺度，避免把命运给予的东西误认为终极善。",
                 "source": {
-                  "workId": "boethius-primary-work",
+                  "workId": "boethius-consolation",
                   "locator": "Consolatio Philosophiae III prose 10-12 on happiness and highest good",
                   "excerptStatus": "summary_only"
                 }
               },
               {
                 "id": "boethius:evidence:012",
-                "titleZh": "核心命题二：理性秩序如何支撑宇宙？的文本依据",
-                "summaryZh": "波爱修斯在 Consolatio Philosophiae IV prose 6 on providence and fate 中提供该命题的原典定位，用于支撑“核心命题二：理性秩序如何支撑宇宙？”这一解释。",
+                "titleZh": "从时间混乱上升到天意秩序",
+                "summaryZh": "第四卷第六散文要求读者从命运的时间链条上升到天意的整体秩序，由此重新理解不幸和正义。",
                 "source": {
-                  "workId": "boethius-primary-work",
+                  "workId": "boethius-consolation",
                   "locator": "Consolatio Philosophiae IV prose 6 on providence and fate",
                   "excerptStatus": "summary_only"
                 }

@@ -31,7 +31,8 @@
   "reviewStatus": "draft",
   "summaryZh": "托马斯·阿奎那是宗教、形而上学问题谱系中的第一版候选哲人。 本条目是第一版结构化资料，已经保留文明、传统、主题、作品和论述字段，正式发布前需要继续核对年代、文本出处和概念表述。",
   "works": [
-    "aquinas-primary-work"
+    "aquinas-summa-theologiae",
+    "aquinas-de-ente"
   ],
   "sourceNotes": [
     {
@@ -44,8 +45,8 @@
       {
         "id": "aquinas:problem:001",
         "titleZh": "信仰与理性如何分工？",
-        "questionZh": "托马斯·阿奎那如何围绕“信仰与理性如何分工？”建立其思想问题？",
-        "summaryZh": "托马斯·阿奎那在这一问题上形成了可辨认的论证路径，连接文本命题、概念区分和后世问题谱系。",
+        "questionZh": "启示真理和自然理性如何各自成立，又如何在同一真理秩序中配合？",
+        "summaryZh": "阿奎那认为神学依靠启示，但并不废除自然理性。理性能够证明某些关于上帝和世界的前提，启示则引导人进入超出自然理性能力的救恩真理。",
         "themeIds": [
           "religion",
           "knowledge"
@@ -54,31 +55,32 @@
         "claims": [
           {
             "id": "aquinas:claim:001",
-            "titleZh": "核心命题一：信仰与理性如何分工？",
-            "claimZh": "托马斯·阿奎那在“信仰与理性如何分工？”中提出基础性立场，说明其理论问题的出发点。",
-            "explanationZh": "该命题概括其原典中反复出现的论证方向，并为本问题的后续分支提供基础。",
+            "titleZh": "自然理性可通达上帝存在的线索",
+            "claimZh": "阿奎那认为人类理性可以从运动、因果、必然性、等级和目的秩序中推论上帝存在，而不只依赖权威宣告。",
+            "explanationZh": "五路证明不是完整神学的替代，而是说明自然理性可在受造秩序中找到通向第一原则的路径。",
             "themeIds": [
               "religion",
-              "knowledge"
+              "knowledge",
+              "metaphysics"
             ],
             "weight": 3,
             "evidence": [
               {
                 "id": "aquinas:evidence:001",
-                "titleZh": "核心命题一：信仰与理性如何分工？的文本依据",
-                "summaryZh": "托马斯·阿奎那在 Summa Theologiae I q.2 a.3 on the five ways 中提供该命题的原典定位，用于支撑“核心命题一：信仰与理性如何分工？”这一解释。",
+                "titleZh": "五路证明的自然理性结构",
+                "summaryZh": "《神学大全》第一部第二题第三节从运动、因果、可能与必然、等级和目的性出发，展示自然理性论证上帝存在的路径。",
                 "source": {
-                  "workId": "aquinas-primary-work",
+                  "workId": "aquinas-summa-theologiae",
                   "locator": "Summa Theologiae I q.2 a.3 on the five ways",
                   "excerptStatus": "summary_only"
                 }
               },
               {
                 "id": "aquinas:evidence:002",
-                "titleZh": "核心命题一：信仰与理性如何分工？的文本依据",
-                "summaryZh": "托马斯·阿奎那在 Summa Theologiae I q.1 a.1 on sacred doctrine 中提供该命题的原典定位，用于支撑“核心命题一：信仰与理性如何分工？”这一解释。",
+                "titleZh": "神圣教义与理性学科区分",
+                "summaryZh": "《神学大全》第一部第一题第一节说明神圣教义有启示根据，但并不否认其他学科通过自然理性获得自身真理。",
                 "source": {
-                  "workId": "aquinas-primary-work",
+                  "workId": "aquinas-summa-theologiae",
                   "locator": "Summa Theologiae I q.1 a.1 on sacred doctrine",
                   "excerptStatus": "summary_only"
                 }
@@ -87,9 +89,9 @@
           },
           {
             "id": "aquinas:claim:002",
-            "titleZh": "核心命题二：信仰与理性如何分工？",
-            "claimZh": "托马斯·阿奎那在“信仰与理性如何分工？”中进一步推出实践、制度或认识论后果。",
-            "explanationZh": "该命题把概念论证推进到可比较的问题谱系，避免只停留在术语解释。",
+            "titleZh": "启示补足自然理性的限度",
+            "claimZh": "阿奎那把启示理解为人通向终极目的所需的补足，因为救恩真理超出多数人自然推理的稳定能力。",
+            "explanationZh": "理性与信仰不是两个真理来源的冲突，而是人在不同能力和目的层次上接受同一真理秩序。",
             "themeIds": [
               "religion",
               "knowledge"
@@ -98,21 +100,21 @@
             "evidence": [
               {
                 "id": "aquinas:evidence:003",
-                "titleZh": "核心命题二：信仰与理性如何分工？的文本依据",
-                "summaryZh": "托马斯·阿奎那在 Summa Theologiae I q.2 a.3 on the five ways 中提供该命题的原典定位，用于支撑“核心命题二：信仰与理性如何分工？”这一解释。",
+                "titleZh": "神圣教义的必要性",
+                "summaryZh": "第一题第一节指出，若只有少数人经漫长推理才能接近神学真理，人类就需要启示以更稳妥地趋向救恩。",
                 "source": {
-                  "workId": "aquinas-primary-work",
-                  "locator": "Summa Theologiae I q.2 a.3 on the five ways",
+                  "workId": "aquinas-summa-theologiae",
+                  "locator": "Summa Theologiae I q.1 a.1 on sacred doctrine",
                   "excerptStatus": "summary_only"
                 }
               },
               {
                 "id": "aquinas:evidence:004",
-                "titleZh": "核心命题二：信仰与理性如何分工？的文本依据",
-                "summaryZh": "托马斯·阿奎那在 Summa Theologiae I q.1 a.1 on sacred doctrine 中提供该命题的原典定位，用于支撑“核心命题二：信仰与理性如何分工？”这一解释。",
+                "titleZh": "五路证明的有限功能",
+                "summaryZh": "五路证明展示理性通向上帝存在的入口，但并未包含三位一体、恩典等启示内容，体现理性边界。",
                 "source": {
-                  "workId": "aquinas-primary-work",
-                  "locator": "Summa Theologiae I q.1 a.1 on sacred doctrine",
+                  "workId": "aquinas-summa-theologiae",
+                  "locator": "Summa Theologiae I q.2 a.3 on the five ways",
                   "excerptStatus": "summary_only"
                 }
               }
@@ -123,8 +125,8 @@
       {
         "id": "aquinas:problem:002",
         "titleZh": "存在、形式与目的如何组织世界？",
-        "questionZh": "托马斯·阿奎那如何围绕“存在、形式与目的如何组织世界？”建立其思想问题？",
-        "summaryZh": "托马斯·阿奎那在这一问题上形成了可辨认的论证路径，连接文本命题、概念区分和后世问题谱系。",
+        "questionZh": "阿奎那如何把亚里士多德形而上学改造为基督教创造论中的存在秩序？",
+        "summaryZh": "阿奎那用本质和存在的区分解释受造物的依赖性，并把上帝理解为自存的存在本身。受造物通过形式、目的和参与存在形成有层级的世界秩序。",
         "themeIds": [
           "metaphysics",
           "religion"
@@ -133,9 +135,9 @@
         "claims": [
           {
             "id": "aquinas:claim:003",
-            "titleZh": "核心命题一：存在、形式与目的如何组织世界？",
-            "claimZh": "托马斯·阿奎那在“存在、形式与目的如何组织世界？”中提出基础性立场，说明其理论问题的出发点。",
-            "explanationZh": "该命题概括其原典中反复出现的论证方向，并为本问题的后续分支提供基础。",
+            "titleZh": "受造物中本质不同于存在",
+            "claimZh": "阿奎那认为有限受造物的本质并不自动包含存在，它们必须从外部获得存在并依赖第一存在者。",
+            "explanationZh": "这一区分让他能够解释有限事物为什么真实存在又不是自足存在。",
             "themeIds": [
               "metaphysics",
               "religion"
@@ -144,20 +146,20 @@
             "evidence": [
               {
                 "id": "aquinas:evidence:005",
-                "titleZh": "核心命题一：存在、形式与目的如何组织世界？的文本依据",
-                "summaryZh": "托马斯·阿奎那在 De ente et essentia chapters 4-5 on essence and existence 中提供该命题的原典定位，用于支撑“核心命题一：存在、形式与目的如何组织世界？”这一解释。",
+                "titleZh": "本质与存在的区分",
+                "summaryZh": "《论存在者与本质》第四、五章说明复合受造物的本质与存在相区分，有限存在者因此不是自身存在的来源。",
                 "source": {
-                  "workId": "aquinas-primary-work",
+                  "workId": "aquinas-de-ente",
                   "locator": "De ente et essentia chapters 4-5 on essence and existence",
                   "excerptStatus": "summary_only"
                 }
               },
               {
                 "id": "aquinas:evidence:006",
-                "titleZh": "核心命题一：存在、形式与目的如何组织世界？的文本依据",
-                "summaryZh": "托马斯·阿奎那在 Summa Theologiae I q.3 a.4 on God as ipsum esse subsistens 中提供该命题的原典定位，用于支撑“核心命题一：存在、形式与目的如何组织世界？”这一解释。",
+                "titleZh": "上帝作为自存存在",
+                "summaryZh": "《神学大全》第一部第三题第四节把上帝理解为 ipsum esse subsistens，即自存的存在本身，与受造物依赖存在相区分。",
                 "source": {
-                  "workId": "aquinas-primary-work",
+                  "workId": "aquinas-summa-theologiae",
                   "locator": "Summa Theologiae I q.3 a.4 on God as ipsum esse subsistens",
                   "excerptStatus": "summary_only"
                 }
@@ -166,31 +168,31 @@
           },
           {
             "id": "aquinas:claim:004",
-            "titleZh": "核心命题二：存在、形式与目的如何组织世界？",
-            "claimZh": "托马斯·阿奎那在“存在、形式与目的如何组织世界？”中进一步推出实践、制度或认识论后果。",
-            "explanationZh": "该命题把概念论证推进到可比较的问题谱系，避免只停留在术语解释。",
+            "titleZh": "目的秩序使自然具有可理解性",
+            "claimZh": "阿奎那认为自然事物的形式和目的不是任意附加，而是使事物活动、趋向和善能够被理性理解的结构。",
+            "explanationZh": "这种目的论并非只用于神学证明，也支撑其伦理学和自然法思想。",
             "themeIds": [
               "metaphysics",
-              "religion"
+              "ethics"
             ],
             "weight": 2,
             "evidence": [
               {
                 "id": "aquinas:evidence:007",
-                "titleZh": "核心命题二：存在、形式与目的如何组织世界？的文本依据",
-                "summaryZh": "托马斯·阿奎那在 De ente et essentia chapters 4-5 on essence and existence 中提供该命题的原典定位，用于支撑“核心命题二：存在、形式与目的如何组织世界？”这一解释。",
+                "titleZh": "受造物参与存在秩序",
+                "summaryZh": "《论存在者与本质》通过本质和存在结构说明有限事物以参与方式拥有存在，由此形成依赖性的秩序。",
                 "source": {
-                  "workId": "aquinas-primary-work",
+                  "workId": "aquinas-de-ente",
                   "locator": "De ente et essentia chapters 4-5 on essence and existence",
                   "excerptStatus": "summary_only"
                 }
               },
               {
                 "id": "aquinas:evidence:008",
-                "titleZh": "核心命题二：存在、形式与目的如何组织世界？的文本依据",
-                "summaryZh": "托马斯·阿奎那在 Summa Theologiae I q.3 a.4 on God as ipsum esse subsistens 中提供该命题的原典定位，用于支撑“核心命题二：存在、形式与目的如何组织世界？”这一解释。",
+                "titleZh": "上帝的单纯性与秩序根基",
+                "summaryZh": "《神学大全》关于上帝即自存存在的论证，使世界秩序有一个不依赖外部组成和原因的最终根基。",
                 "source": {
-                  "workId": "aquinas-primary-work",
+                  "workId": "aquinas-summa-theologiae",
                   "locator": "Summa Theologiae I q.3 a.4 on God as ipsum esse subsistens",
                   "excerptStatus": "summary_only"
                 }
@@ -202,41 +204,42 @@
       {
         "id": "aquinas:problem:003",
         "titleZh": "自然法如何约束政治生活？",
-        "questionZh": "托马斯·阿奎那如何围绕“自然法如何约束政治生活？”建立其思想问题？",
-        "summaryZh": "托马斯·阿奎那在这一问题上形成了可辨认的论证路径，连接文本命题、概念区分和后世问题谱系。",
+        "questionZh": "法律为何不仅是命令，而必须服务共同善并植根于理性和自然目的？",
+        "summaryZh": "阿奎那把法律定义为理性为了共同善而作出的安排，并以自然法解释人类实践理性如何参与永恒法。政治权威因此有正当目的，也受到理性和共同善的限制。",
         "themeIds": [
-          "ethics",
-          "politics"
+          "justice",
+          "politics",
+          "ethics"
         ],
         "weight": 2,
         "claims": [
           {
             "id": "aquinas:claim:005",
-            "titleZh": "核心命题一：自然法如何约束政治生活？",
-            "claimZh": "托马斯·阿奎那在“自然法如何约束政治生活？”中提出基础性立场，说明其理论问题的出发点。",
-            "explanationZh": "该命题概括其原典中反复出现的论证方向，并为本问题的后续分支提供基础。",
+            "titleZh": "法律必须是指向共同善的理性安排",
+            "claimZh": "阿奎那认为法律不只是统治者意志，而是由有权者为共同善颁布的理性秩序。",
+            "explanationZh": "这一定义为评判权威和法律正当性提供了共同善与理性两个标准。",
             "themeIds": [
-              "ethics",
+              "justice",
               "politics"
             ],
             "weight": 3,
             "evidence": [
               {
                 "id": "aquinas:evidence:009",
-                "titleZh": "核心命题一：自然法如何约束政治生活？的文本依据",
-                "summaryZh": "托马斯·阿奎那在 Summa Theologiae I-II q.90 a.4 on definition of law 中提供该命题的原典定位，用于支撑“核心命题一：自然法如何约束政治生活？”这一解释。",
+                "titleZh": "法律定义中的共同善",
+                "summaryZh": "《神学大全》第一二部第九十题第四节将法律定义为理性安排、指向共同善并由照管共同体者公布。",
                 "source": {
-                  "workId": "aquinas-primary-work",
+                  "workId": "aquinas-summa-theologiae",
                   "locator": "Summa Theologiae I-II q.90 a.4 on definition of law",
                   "excerptStatus": "summary_only"
                 }
               },
               {
                 "id": "aquinas:evidence:010",
-                "titleZh": "核心命题一：自然法如何约束政治生活？的文本依据",
-                "summaryZh": "托马斯·阿奎那在 Summa Theologiae I-II q.94 a.2 on natural law 中提供该命题的原典定位，用于支撑“核心命题一：自然法如何约束政治生活？”这一解释。",
+                "titleZh": "自然法的第一原则",
+                "summaryZh": "第九十四题第二节说明自然法以趋善避恶为第一原则，并由人类基本倾向导出实践理性的规范。",
                 "source": {
-                  "workId": "aquinas-primary-work",
+                  "workId": "aquinas-summa-theologiae",
                   "locator": "Summa Theologiae I-II q.94 a.2 on natural law",
                   "excerptStatus": "summary_only"
                 }
@@ -245,10 +248,11 @@
           },
           {
             "id": "aquinas:claim:006",
-            "titleZh": "核心命题二：自然法如何约束政治生活？",
-            "claimZh": "托马斯·阿奎那在“自然法如何约束政治生活？”中进一步推出实践、制度或认识论后果。",
-            "explanationZh": "该命题把概念论证推进到可比较的问题谱系，避免只停留在术语解释。",
+            "titleZh": "自然法使政治权威受理性限制",
+            "claimZh": "阿奎那认为人的法律应当从自然法获得方向，若脱离理性和共同善，就会失去完整的法律正当性。",
+            "explanationZh": "自然法不是单纯宗教命令，而是人类实践理性参与更高秩序的方式。",
             "themeIds": [
+              "justice",
               "ethics",
               "politics"
             ],
@@ -256,20 +260,20 @@
             "evidence": [
               {
                 "id": "aquinas:evidence:011",
-                "titleZh": "核心命题二：自然法如何约束政治生活？的文本依据",
-                "summaryZh": "托马斯·阿奎那在 Summa Theologiae I-II q.90 a.4 on definition of law 中提供该命题的原典定位，用于支撑“核心命题二：自然法如何约束政治生活？”这一解释。",
+                "titleZh": "法律不是任意命令",
+                "summaryZh": "第九十题第四节把公布、权威、理性和共同善共同纳入法律定义，排除了纯粹任意命令的法律观。",
                 "source": {
-                  "workId": "aquinas-primary-work",
+                  "workId": "aquinas-summa-theologiae",
                   "locator": "Summa Theologiae I-II q.90 a.4 on definition of law",
                   "excerptStatus": "summary_only"
                 }
               },
               {
                 "id": "aquinas:evidence:012",
-                "titleZh": "核心命题二：自然法如何约束政治生活？的文本依据",
-                "summaryZh": "托马斯·阿奎那在 Summa Theologiae I-II q.94 a.2 on natural law 中提供该命题的原典定位，用于支撑“核心命题二：自然法如何约束政治生活？”这一解释。",
+                "titleZh": "自然倾向与实践理性",
+                "summaryZh": "第九十四题第二节把生命保存、繁衍、求知和社会生活等倾向纳入自然法讨论，显示政治规范与人类目的相连。",
                 "source": {
-                  "workId": "aquinas-primary-work",
+                  "workId": "aquinas-summa-theologiae",
                   "locator": "Summa Theologiae I-II q.94 a.2 on natural law",
                   "excerptStatus": "summary_only"
                 }

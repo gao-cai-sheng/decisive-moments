@@ -31,7 +31,7 @@
   "reviewStatus": "draft",
   "summaryZh": "蒙田是知识、自由问题谱系中的第一版候选哲人。 本条目是第一版结构化资料，已经保留文明、传统、主题、作品和论述字段，正式发布前需要继续核对年代、文本出处和概念表述。",
   "works": [
-    "montaigne-primary-work"
+    "montaigne-essays"
   ],
   "sourceNotes": [
     {
@@ -44,42 +44,42 @@
       {
         "id": "montaigne:problem:001",
         "titleZh": "怀疑如何成为生活方式？",
-        "questionZh": "蒙田如何围绕“怀疑如何成为生活方式？”建立其思想问题？",
-        "summaryZh": "蒙田在这一问题上形成了可辨认的论证路径，连接文本命题、概念区分和后世问题谱系。",
+        "questionZh": "蒙田如何把怀疑从抽象认识论转化为日常判断和自我节制？",
+        "summaryZh": "蒙田的怀疑不是简单否定知识，而是训练人承认自身判断的有限性。他通过自我观察、习俗比较和古典怀疑论，削弱狂热确定性并恢复生活判断的弹性。",
         "themeIds": [
           "knowledge",
-          "metaphysics"
+          "ethics"
         ],
         "weight": 3,
         "claims": [
           {
             "id": "montaigne:claim:001",
-            "titleZh": "核心命题一：怀疑如何成为生活方式？",
-            "claimZh": "蒙田在“怀疑如何成为生活方式？”中提出基础性立场，说明其理论问题的出发点。",
-            "explanationZh": "该命题概括其原典中反复出现的论证方向，并为本问题的后续分支提供基础。",
+            "titleZh": "我知道什么是一种自我约束",
+            "claimZh": "蒙田用“我知道什么？”表达判断的有限性，要求人在意见冲突中保持谦逊而非迅速绝对化。",
+            "explanationZh": "怀疑在他那里是一种生活训练，帮助人抵抗自负、狂热和教条争斗。",
             "themeIds": [
               "knowledge",
-              "metaphysics"
+              "ethics"
             ],
             "weight": 3,
             "evidence": [
               {
                 "id": "montaigne:evidence:001",
-                "titleZh": "核心命题一：怀疑如何成为生活方式？的文本依据",
-                "summaryZh": "蒙田在 Essais II.12 Apologie de Raymond Sebond on human weakness 中提供该命题的原典定位，用于支撑“核心命题一：怀疑如何成为生活方式？”这一解释。",
+                "titleZh": "雷蒙·塞邦辩护中的怀疑",
+                "summaryZh": "《为雷蒙·塞邦辩护》大量运用怀疑论材料，削弱人类理性自负并强调判断应承认自身限度。",
                 "source": {
-                  "workId": "montaigne-primary-work",
-                  "locator": "Essais II.12 Apologie de Raymond Sebond on human weakness",
+                  "workId": "montaigne-essays",
+                  "locator": "Essais II.12, Apology for Raymond Sebond, on skeptical limits of reason",
                   "excerptStatus": "summary_only"
                 }
               },
               {
                 "id": "montaigne:evidence:002",
-                "titleZh": "核心命题一：怀疑如何成为生活方式？的文本依据",
-                "summaryZh": "蒙田在 Essais I.31 Des cannibales on custom and barbarism 中提供该命题的原典定位，用于支撑“核心命题一：怀疑如何成为生活方式？”这一解释。",
+                "titleZh": "习俗比较中的不确定性",
+                "summaryZh": "《论习俗》通过比较不同社会习惯，显示许多被当作自然的判断其实来自习惯和地方传统。",
                 "source": {
-                  "workId": "montaigne-primary-work",
-                  "locator": "Essais I.31 Des cannibales on custom and barbarism",
+                  "workId": "montaigne-essays",
+                  "locator": "Essais I.23, On Custom, on habit and social judgment",
                   "excerptStatus": "summary_only"
                 }
               }
@@ -87,32 +87,32 @@
           },
           {
             "id": "montaigne:claim:002",
-            "titleZh": "核心命题二：怀疑如何成为生活方式？",
-            "claimZh": "蒙田在“怀疑如何成为生活方式？”中进一步推出实践、制度或认识论后果。",
-            "explanationZh": "该命题把概念论证推进到可比较的问题谱系，避免只停留在术语解释。",
+            "titleZh": "怀疑抵抗残酷确定性",
+            "claimZh": "蒙田认为承认判断不确定性有伦理意义，因为过度确信常会导向迫害、傲慢和对他者生活的粗暴裁判。",
+            "explanationZh": "怀疑论因此不只是理论姿态，也是一种温和、宽容和自我节制的政治伦理。",
             "themeIds": [
-              "knowledge",
-              "metaphysics"
+              "ethics",
+              "justice"
             ],
             "weight": 2,
             "evidence": [
               {
                 "id": "montaigne:evidence:003",
-                "titleZh": "核心命题二：怀疑如何成为生活方式？的文本依据",
-                "summaryZh": "蒙田在 Essais II.12 Apologie de Raymond Sebond on human weakness 中提供该命题的原典定位，用于支撑“核心命题二：怀疑如何成为生活方式？”这一解释。",
+                "titleZh": "理性自负与宗教争斗",
+                "summaryZh": "《塞邦辩护》的怀疑论语气与宗教战争背景相连，显示蒙田担心确定性话语助长残酷和迫害。",
                 "source": {
-                  "workId": "montaigne-primary-work",
-                  "locator": "Essais II.12 Apologie de Raymond Sebond on human weakness",
+                  "workId": "montaigne-essays",
+                  "locator": "Essais II.12 on skepticism amid religious conflict",
                   "excerptStatus": "summary_only"
                 }
               },
               {
                 "id": "montaigne:evidence:004",
-                "titleZh": "核心命题二：怀疑如何成为生活方式？的文本依据",
-                "summaryZh": "蒙田在 Essais I.31 Des cannibales on custom and barbarism 中提供该命题的原典定位，用于支撑“核心命题二：怀疑如何成为生活方式？”这一解释。",
+                "titleZh": "习俗塑造判断尺度",
+                "summaryZh": "《论习俗》说明人常把习惯误认为自然正当，从而对异俗作出过快且严厉的判断，缺少反省。",
                 "source": {
-                  "workId": "montaigne-primary-work",
-                  "locator": "Essais I.31 Des cannibales on custom and barbarism",
+                  "workId": "montaigne-essays",
+                  "locator": "Essais I.23 on custom and prejudice",
                   "excerptStatus": "summary_only"
                 }
               }
@@ -122,43 +122,44 @@
       },
       {
         "id": "montaigne:problem:002",
-        "titleZh": "自我书写能否产生知识？",
-        "questionZh": "蒙田如何围绕“自我书写能否产生知识？”建立其思想问题？",
-        "summaryZh": "蒙田在这一问题上形成了可辨认的论证路径，连接文本命题、概念区分和后世问题谱系。",
+        "titleZh": "自我书写为何具有哲学意义？",
+        "questionZh": "蒙田为什么把自己作为书写对象？这种自我观察如何生成哲学判断？",
+        "summaryZh": "蒙田把自我作为不断变化的观察对象，而不是树立固定榜样。他通过记录身体、情绪、习惯和判断变化，展示人如何在不稳定生活中练习判断。",
         "themeIds": [
-          "freedom",
+          "knowledge",
+          "life_death",
           "ethics"
         ],
         "weight": 3,
         "claims": [
           {
             "id": "montaigne:claim:003",
-            "titleZh": "核心命题一：自我书写能否产生知识？",
-            "claimZh": "蒙田在“自我书写能否产生知识？”中提出基础性立场，说明其理论问题的出发点。",
-            "explanationZh": "该命题概括其原典中反复出现的论证方向，并为本问题的后续分支提供基础。",
+            "titleZh": "自我是变化中的研究对象",
+            "claimZh": "蒙田写自己不是为了塑造英雄形象，而是把变化、矛盾和偶然经验作为理解人的材料。",
+            "explanationZh": "这种自我书写让哲学从抽象定义返回日常经验和具体判断。",
             "themeIds": [
-              "freedom",
-              "ethics"
+              "knowledge",
+              "life_death"
             ],
             "weight": 3,
             "evidence": [
               {
                 "id": "montaigne:evidence:005",
-                "titleZh": "核心命题一：自我书写能否产生知识？的文本依据",
-                "summaryZh": "蒙田在 Essais Au lecteur on self as matter of the book 中提供该命题的原典定位，用于支撑“核心命题一：自我书写能否产生知识？”这一解释。",
+                "titleZh": "论后悔中的变动自我",
+                "summaryZh": "《论后悔》强调作者描写的是流动中的自己，人的判断和行为会随情境变化而显出复杂性。",
                 "source": {
-                  "workId": "montaigne-primary-work",
-                  "locator": "Essais Au lecteur on self as matter of the book",
+                  "workId": "montaigne-essays",
+                  "locator": "Essais III.2, On Repentance, on the changing self",
                   "excerptStatus": "summary_only"
                 }
               },
               {
                 "id": "montaigne:evidence:006",
-                "titleZh": "核心命题一：自我书写能否产生知识？的文本依据",
-                "summaryZh": "蒙田在 Essais III.2 Du repentir on painting passage 中提供该命题的原典定位，用于支撑“核心命题一：自我书写能否产生知识？”这一解释。",
+                "titleZh": "经验作为判断材料",
+                "summaryZh": "《论经验》把身体感受、疾病、习惯和日常生活纳入哲学反思，说明自我观察具有认识价值。",
                 "source": {
-                  "workId": "montaigne-primary-work",
-                  "locator": "Essais III.2 Du repentir on painting passage",
+                  "workId": "montaigne-essays",
+                  "locator": "Essais III.13, On Experience, on body, habit and judgment",
                   "excerptStatus": "summary_only"
                 }
               }
@@ -166,32 +167,32 @@
           },
           {
             "id": "montaigne:claim:004",
-            "titleZh": "核心命题二：自我书写能否产生知识？",
-            "claimZh": "蒙田在“自我书写能否产生知识？”中进一步推出实践、制度或认识论后果。",
-            "explanationZh": "该命题把概念论证推进到可比较的问题谱系，避免只停留在术语解释。",
+            "titleZh": "判断训练来自日常经验",
+            "claimZh": "蒙田认为哲学不应脱离身体、习惯和死亡经验，真正的判断训练就在日常生活材料中展开。",
+            "explanationZh": "他降低体系哲学姿态，提升经验、节制和自我反省的地位。",
             "themeIds": [
-              "freedom",
-              "ethics"
+              "ethics",
+              "knowledge"
             ],
             "weight": 2,
             "evidence": [
               {
                 "id": "montaigne:evidence:007",
-                "titleZh": "核心命题二：自我书写能否产生知识？的文本依据",
-                "summaryZh": "蒙田在 Essais Au lecteur on self as matter of the book 中提供该命题的原典定位，用于支撑“核心命题二：自我书写能否产生知识？”这一解释。",
+                "titleZh": "经验中的身体限制",
+                "summaryZh": "《论经验》反复讨论身体和习惯对判断的影响，显示理性总是在具体生活条件中运作，不能脱离经验。",
                 "source": {
-                  "workId": "montaigne-primary-work",
-                  "locator": "Essais Au lecteur on self as matter of the book",
+                  "workId": "montaigne-essays",
+                  "locator": "Essais III.13 on bodily experience and judgment",
                   "excerptStatus": "summary_only"
                 }
               },
               {
                 "id": "montaigne:evidence:008",
-                "titleZh": "核心命题二：自我书写能否产生知识？的文本依据",
-                "summaryZh": "蒙田在 Essais III.2 Du repentir on painting passage 中提供该命题的原典定位，用于支撑“核心命题二：自我书写能否产生知识？”这一解释。",
+                "titleZh": "自我记录避免道德伪装",
+                "summaryZh": "《论后悔》拒绝把自我写成无瑕范本，而是通过承认变化和局限来保持判断诚实和自我清醒。",
                 "source": {
-                  "workId": "montaigne-primary-work",
-                  "locator": "Essais III.2 Du repentir on painting passage",
+                  "workId": "montaigne-essays",
+                  "locator": "Essais III.2 on self-portrait and moral honesty",
                   "excerptStatus": "summary_only"
                 }
               }
@@ -201,43 +202,43 @@
       },
       {
         "id": "montaigne:problem:003",
-        "titleZh": "宽容如何来自认识谦卑？",
-        "questionZh": "蒙田如何围绕“宽容如何来自认识谦卑？”建立其思想问题？",
-        "summaryZh": "蒙田在这一问题上形成了可辨认的论证路径，连接文本命题、概念区分和后世问题谱系。",
+        "titleZh": "如何学习死亡并热爱生活？",
+        "questionZh": "蒙田如何把死亡意识从恐惧对象转化为生活判断的一部分？",
+        "summaryZh": "蒙田早期强调哲学是学习死亡，后来更强调与身体、习惯和有限生活和解。死亡意识不是逃离生活，而是帮助人减少恐惧、珍惜具体经验并保持节制。",
         "themeIds": [
-          "politics",
+          "life_death",
           "ethics"
         ],
         "weight": 2,
         "claims": [
           {
             "id": "montaigne:claim:005",
-            "titleZh": "核心命题一：宽容如何来自认识谦卑？",
-            "claimZh": "蒙田在“宽容如何来自认识谦卑？”中提出基础性立场，说明其理论问题的出发点。",
-            "explanationZh": "该命题概括其原典中反复出现的论证方向，并为本问题的后续分支提供基础。",
+            "titleZh": "学习死亡是削弱恐惧",
+            "claimZh": "蒙田认为持续面对死亡能削弱想象造成的恐惧，使人不再被不可避免的终点支配。",
+            "explanationZh": "死亡训练的目标不是厌弃生活，而是解除恐惧对生活判断的绑架。",
             "themeIds": [
-              "politics",
+              "life_death",
               "ethics"
             ],
             "weight": 3,
             "evidence": [
               {
                 "id": "montaigne:evidence:009",
-                "titleZh": "核心命题一：宽容如何来自认识谦卑？的文本依据",
-                "summaryZh": "蒙田在 Essais III.11 Des boiteux on witch trials and credulity 中提供该命题的原典定位，用于支撑“核心命题一：宽容如何来自认识谦卑？”这一解释。",
+                "titleZh": "哲学即学习死亡",
+                "summaryZh": "《哲学就是学习死亡》把死亡意识作为自由训练，认为熟悉死亡可以减少恐惧对行动的支配。",
                 "source": {
-                  "workId": "montaigne-primary-work",
-                  "locator": "Essais III.11 Des boiteux on witch trials and credulity",
+                  "workId": "montaigne-essays",
+                  "locator": "Essais I.20, That to philosophize is to learn to die",
                   "excerptStatus": "summary_only"
                 }
               },
               {
                 "id": "montaigne:evidence:010",
-                "titleZh": "核心命题一：宽容如何来自认识谦卑？的文本依据",
-                "summaryZh": "蒙田在 Essais II.11 De la cruauté on cruelty 中提供该命题的原典定位，用于支撑“核心命题一：宽容如何来自认识谦卑？”这一解释。",
+                "titleZh": "经验中的有限性",
+                "summaryZh": "《论经验》把衰老、疾病和身体限制纳入生活智慧，显示死亡意识应服务于更清醒地生活。",
                 "source": {
-                  "workId": "montaigne-primary-work",
-                  "locator": "Essais II.11 De la cruauté on cruelty",
+                  "workId": "montaigne-essays",
+                  "locator": "Essais III.13 on aging, illness and living with limits",
                   "excerptStatus": "summary_only"
                 }
               }
@@ -245,32 +246,32 @@
           },
           {
             "id": "montaigne:claim:006",
-            "titleZh": "核心命题二：宽容如何来自认识谦卑？",
-            "claimZh": "蒙田在“宽容如何来自认识谦卑？”中进一步推出实践、制度或认识论后果。",
-            "explanationZh": "该命题把概念论证推进到可比较的问题谱系，避免只停留在术语解释。",
+            "titleZh": "有限生活仍值得肯定",
+            "claimZh": "蒙田晚期更强调顺应身体和经验的有限性，在不完美生活中保持温和判断和现实满足。",
+            "explanationZh": "这使他的死亡哲学从禁欲式准备转向与有限生活和解。",
             "themeIds": [
-              "politics",
+              "life_death",
               "ethics"
             ],
             "weight": 2,
             "evidence": [
               {
                 "id": "montaigne:evidence:011",
-                "titleZh": "核心命题二：宽容如何来自认识谦卑？的文本依据",
-                "summaryZh": "蒙田在 Essais III.11 Des boiteux on witch trials and credulity 中提供该命题的原典定位，用于支撑“核心命题二：宽容如何来自认识谦卑？”这一解释。",
+                "titleZh": "从死亡训练到生活智慧",
+                "summaryZh": "《论经验》将生活智慧放在饮食、疾病、习惯和日常节制中，显示哲学应帮助人过有限生活。",
                 "source": {
-                  "workId": "montaigne-primary-work",
-                  "locator": "Essais III.11 Des boiteux on witch trials and credulity",
+                  "workId": "montaigne-essays",
+                  "locator": "Essais III.13 on ordinary life and moderation",
                   "excerptStatus": "summary_only"
                 }
               },
               {
                 "id": "montaigne:evidence:012",
-                "titleZh": "核心命题二：宽容如何来自认识谦卑？的文本依据",
-                "summaryZh": "蒙田在 Essais II.11 De la cruauté on cruelty 中提供该命题的原典定位，用于支撑“核心命题二：宽容如何来自认识谦卑？”这一解释。",
+                "titleZh": "死亡意识反向照亮生活",
+                "summaryZh": "第一卷关于死亡的沉思和第三卷关于经验的文字共同表明，面对死亡最终是为了更自由地生活。",
                 "source": {
-                  "workId": "montaigne-primary-work",
-                  "locator": "Essais II.11 De la cruauté on cruelty",
+                  "workId": "montaigne-essays",
+                  "locator": "Essais I.20 and III.13 on death and living well",
                   "excerptStatus": "summary_only"
                 }
               }

@@ -44,8 +44,8 @@
       {
         "id": "mozi:problem:001",
         "titleZh": "兼爱与功利伦理",
-        "questionZh": "墨子为何主张‘兼爱’？他以什么标准判断道德与政治行为的对错？",
-        "summaryZh": "兼爱是墨子伦理思想的核心，它要求人们像爱自己一样爱他人，并以互利为基础。墨子进一步以‘天下之利’作为道德判断的功利标准，使伦理成为可计算后果的实践学问。",
+        "questionZh": "墨子为何主张兼爱？他以什么标准判断道德与政治行为的对错？",
+        "summaryZh": "兼爱是墨子伦理思想的核心，它要求人们像爱自己一样爱他人，并以互利为基础。墨子进一步以天下之利作为道德判断的功利标准，使伦理成为可计算后果的实践学问。",
         "themeIds": [
           "ethics"
         ],
@@ -55,7 +55,7 @@
             "id": "mozi:claim:001",
             "titleZh": "兼相爱、交相利",
             "claimZh": "墨子主张以无差等的兼爱取代儒家的亲亲差等之爱，认为兼爱能消除人与人之间的冲突与战争。",
-            "explanationZh": "墨子将战乱根源归于‘别爱’与自爱而不爱他；兼爱通过‘视人之国若视其国，视人之家若视其家’的推扩，实现交相利的社会秩序。",
+            "explanationZh": "墨子将战乱根源归于别爱与自爱而不爱他；兼爱通过视人之国若视其国、视人之家若视其家的推扩，实现交相利的社会秩序。",
             "themeIds": [
               "ethics"
             ],
@@ -71,13 +71,23 @@
                   "publicDomainExcerptZh": "天下兼相爱则治，交相恶则乱。",
                   "excerptStatus": "public_domain"
                 }
+              },
+              {
+                "id": "mozi:evidence:007",
+                "titleZh": "《墨子·兼爱中》论视人若己",
+                "summaryZh": "《兼爱中》用视人国、家、身如己的推论说明兼爱不是情感口号，而是减少攻伐和争夺的公共秩序原则。",
+                "source": {
+                  "workId": "mozi-primary-work",
+                  "locator": "《墨子·兼爱中》：视人之国若视其国段",
+                  "excerptStatus": "summary_only"
+                }
               }
             ]
           },
           {
             "id": "mozi:claim:002",
             "titleZh": "以天下之利为道德标准",
-            "claimZh": "墨子以‘兴天下之利，除天下之害’作为判断政策、行为与信念的最终标准，体现出早期功利主义或后果主义取向。",
+            "claimZh": "墨子以兴天下之利、除天下之害作为判断政策、行为与信念的最终标准，体现出早期功利主义或后果主义取向。",
             "explanationZh": "这一标准使墨子的伦理学区别于以动机或德性为核心的儒家；它也解释了墨子为何反对无益的礼乐、厚葬与攻战，而支持节用、节葬、非攻。",
             "themeIds": [
               "ethics"
@@ -87,12 +97,22 @@
               {
                 "id": "mozi:evidence:002",
                 "titleZh": "《墨子》十论以功利为取舍",
-                "summaryZh": "《墨子》核心篇章反复以‘利天下’‘利百姓’论证尚贤、尚同、兼爱、非攻、节用等主张，显示功利标准是贯穿各篇的统一判准。",
+                "summaryZh": "《墨子》核心篇章反复以利天下、利百姓论证尚贤、尚同、兼爱、非攻、节用等主张，显示功利标准是贯穿各篇的统一判准。",
                 "source": {
                   "workId": "mozi-primary-work",
                   "locator": "《墨子·兼爱中》：仁人兴利除害段",
                   "publicDomainExcerptZh": "仁人之所以为事者，必兴天下之利，除去天下之害，以此为事者也。",
                   "excerptStatus": "public_domain"
+                }
+              },
+              {
+                "id": "mozi:evidence:008",
+                "titleZh": "《墨子·非攻上》论攻战害利",
+                "summaryZh": "《非攻上》把战争造成的死亡、财用损耗和社会破坏作为反对攻伐的依据，显示墨子以后果衡量政治行为。",
+                "source": {
+                  "workId": "mozi-primary-work",
+                  "locator": "《墨子·非攻上》：攻国之害段",
+                  "excerptStatus": "summary_only"
                 }
               }
             ]
@@ -114,7 +134,7 @@
             "id": "mozi:claim:003",
             "titleZh": "选贤任能，打破世袭",
             "claimZh": "墨子主张政治职位应向所有人开放，依据德行与能力选拔，从而打破贵族血缘垄断。",
-            "explanationZh": "尚贤论强调‘官无常贵，民无终贱’，将贤能作为政治合法性的重要来源；这一主张与儒家重血缘差等的立场形成鲜明对比。",
+            "explanationZh": "尚贤论强调官无常贵、民无终贱，将贤能作为政治合法性的重要来源；这一主张与重血缘差等的立场形成鲜明对比。",
             "themeIds": [
               "politics",
               "justice"
@@ -124,12 +144,22 @@
               {
                 "id": "mozi:evidence:003",
                 "titleZh": "《墨子·尚贤上》论贤者为政",
-                "summaryZh": "《尚贤上》主张‘列德而尚贤’，以农与工肆之人亦可被举用为例，论证贤能应成为任官标准。",
+                "summaryZh": "《尚贤上》主张列德而尚贤，以农与工肆之人亦可被举用为例，论证贤能应成为任官标准。",
                 "source": {
                   "workId": "mozi-primary-work",
                   "locator": "《墨子·尚贤上》：官无常贵段",
                   "publicDomainExcerptZh": "官无常贵，而民无终贱。有能则举之，无能则下之。",
                   "excerptStatus": "public_domain"
+                }
+              },
+              {
+                "id": "mozi:evidence:009",
+                "titleZh": "《墨子·尚贤中》论义政用贤",
+                "summaryZh": "《尚贤中》继续把贤能选拔和国家治乱联系起来，说明政治正义要求破除出身限制并重用可兴利除害者。",
+                "source": {
+                  "workId": "mozi-primary-work",
+                  "locator": "《墨子·尚贤中》：尚贤为政本段",
+                  "excerptStatus": "summary_only"
                 }
               }
             ]
@@ -154,6 +184,16 @@
                   "locator": "《墨子·尚同上》：上之所是必皆是之段",
                   "publicDomainExcerptZh": "上之所是，必皆是之；所非，必皆非之。",
                   "excerptStatus": "public_domain"
+                }
+              },
+              {
+                "id": "mozi:evidence:010",
+                "titleZh": "《墨子·尚同中》论一同天下之义",
+                "summaryZh": "《尚同中》把统一义理和赏罚秩序相连，说明共同标准能把分散私见转化为可执行的公共规范。",
+                "source": {
+                  "workId": "mozi-primary-work",
+                  "locator": "《墨子·尚同中》：一同天下之义段",
+                  "excerptStatus": "summary_only"
                 }
               }
             ]
@@ -192,13 +232,23 @@
                   "publicDomainExcerptZh": "顺天意者，兼相爱，交相利。",
                   "excerptStatus": "public_domain"
                 }
+              },
+              {
+                "id": "mozi:evidence:011",
+                "titleZh": "《墨子·明鬼下》论赏善罚暴",
+                "summaryZh": "《明鬼下》通过鬼神赏善罚暴的论证强化公共规范约束，说明天志和明鬼共同服务于政治伦理秩序。",
+                "source": {
+                  "workId": "mozi-primary-work",
+                  "locator": "《墨子·明鬼下》：赏贤罚暴段",
+                  "excerptStatus": "summary_only"
+                }
               }
             ]
           },
           {
             "id": "mozi:claim:005",
             "titleZh": "法天为政治判断提供法仪",
-            "claimZh": "墨子以“法天”建立公共判断标准，试图让治理和伦理判断不再只依赖私人习俗或贵族偏好。",
+            "claimZh": "墨子以法天建立公共判断标准，试图让治理和伦理判断不再只依赖私人习俗或贵族偏好。",
             "explanationZh": "法仪论说明墨子需要一个可共同遵循的尺度；天作为最高法仪，使兼爱、交利、非攻等主张获得公共规范的地位。",
             "themeIds": [
               "politics",
@@ -215,6 +265,16 @@
                   "locator": "《墨子·法仪》：「故曰莫若法天」段",
                   "publicDomainExcerptZh": "然则奚以为治法而可？故曰莫若法天。天之行广而无私，其施厚而不德，其明久而不衰，故圣王法之。",
                   "excerptStatus": "public_domain"
+                }
+              },
+              {
+                "id": "mozi:evidence:012",
+                "titleZh": "《墨子·法仪》论法仪必要",
+                "summaryZh": "《法仪》开篇强调百工与治理皆须有法仪，墨子由此把政治伦理判断转化为需要公共尺度的问题。",
+                "source": {
+                  "workId": "mozi-primary-work",
+                  "locator": "《墨子·法仪》：天下从事者不可无法仪段",
+                  "excerptStatus": "summary_only"
                 }
               }
             ]

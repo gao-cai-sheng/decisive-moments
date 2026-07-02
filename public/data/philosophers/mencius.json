@@ -45,7 +45,7 @@
         "id": "mencius:problem:001",
         "titleZh": "性善与四端",
         "questionZh": "孟子为什么认为人性本善？恻隐、羞恶、辞让、是非之心如何成为道德的根基？",
-        "summaryZh": "性善论是孟子伦理思想的基石。孟子以‘四端’为证据，说明人天生具有向善的道德萌芽；这些萌芽通过修养可扩展为仁、义、礼、智，并为仁政提供人性论依据。",
+        "summaryZh": "性善论是孟子伦理思想的基石。孟子以四端为证据，说明人天生具有向善的道德萌芽；这些萌芽通过修养可扩展为仁、义、礼、智，并为仁政提供人性论依据。",
         "themeIds": [
           "ethics"
         ],
@@ -55,7 +55,7 @@
             "id": "mencius:claim:001",
             "titleZh": "人皆有四端之心",
             "claimZh": "孟子认为每个人天生具有恻隐、羞恶、辞让、是非四种道德萌芽，它们是仁、义、礼、智的开端。",
-            "explanationZh": "四端不是已完成的德性，而是需要‘扩而充之’的潜能；孟子以乍见孺子将入于井为例，说明恻隐之心的自然涌现不依赖于功利计算。",
+            "explanationZh": "四端不是已完成的德性，而是需要扩而充之的潜能；孟子以乍见孺子将入于井为例，说明恻隐之心的自然涌现不依赖于功利计算。",
             "themeIds": [
               "ethics"
             ],
@@ -64,7 +64,7 @@
               {
                 "id": "mencius:evidence:001",
                 "titleZh": "《孟子·公孙丑上》论四端",
-                "summaryZh": "该章明确提出恻隐、羞恶、辞让、是非之心分别为仁、义、礼、智之端，并以孺子入井为例说明恻隐之心的直接性与非功利性。",
+                "summaryZh": "该章明确提出恻隐、羞恶、辞让、是非之心分别为仁、义、礼、智之端，并以孺子入井说明恻隐之心的直接性与非功利性。",
                 "source": {
                   "workId": "mencius-primary-work",
                   "locator": "《孟子·公孙丑上》：四端章",
@@ -105,6 +105,16 @@
                   "publicDomainExcerptZh": "凡有四端于我者，知皆扩而充之矣，若火之始然，泉之始达。",
                   "excerptStatus": "public_domain"
                 }
+              },
+              {
+                "id": "mencius:evidence:008",
+                "titleZh": "《孟子·告子上》论求放心",
+                "summaryZh": "《告子上》以求放心说明道德修养不是外求新物，而是保存和恢复本心，使四端不被欲望和环境遮蔽。",
+                "source": {
+                  "workId": "mencius-primary-work",
+                  "locator": "《孟子·告子上》：学问之道无他求其放心章",
+                  "excerptStatus": "summary_only"
+                }
               }
             ]
           }
@@ -135,12 +145,22 @@
               {
                 "id": "mencius:evidence:003",
                 "titleZh": "《孟子·梁惠王上》论仁政开端",
-                "summaryZh": "孟子以‘不忍其觳觫’劝说齐宣王将恻隐之心推广于百姓，说明仁政的出发点是君主的不忍之心而非强力控制。",
+                "summaryZh": "孟子以不忍其觳觫劝说齐宣王将恻隐之心推广于百姓，说明仁政的出发点是君主的不忍之心而非强力控制。",
                 "source": {
                   "workId": "mencius-primary-work",
                   "locator": "《孟子·梁惠王上》：以羊易牛章",
                   "publicDomainExcerptZh": "无伤也，是乃仁术也，见牛未见羊也。君子之于禽兽也，见其生，不忍见其死。",
                   "excerptStatus": "public_domain"
+                }
+              },
+              {
+                "id": "mencius:evidence:009",
+                "titleZh": "《孟子·梁惠王上》论制民之产",
+                "summaryZh": "《梁惠王上》把仁政落实到恒产、农业时序、养老教育等制度安排，显示不忍人之政必须进入民生治理。",
+                "source": {
+                  "workId": "mencius-primary-work",
+                  "locator": "《孟子·梁惠王上》：五亩之宅百亩之田章",
+                  "excerptStatus": "summary_only"
                 }
               }
             ]
@@ -159,12 +179,22 @@
               {
                 "id": "mencius:evidence:004",
                 "titleZh": "《孟子·尽心下》论民贵君轻",
-                "summaryZh": "该章明确提出‘民为贵，社稷次之，君为轻’，并肯定诛杀暴君如诛独夫，是孟子民本与革命思想最直接的文本依据。",
+                "summaryZh": "该章明确提出民为贵、社稷次之、君为轻，并肯定诛杀暴君如诛独夫，是孟子民本与革命思想最直接的文本依据。",
                 "source": {
                   "workId": "mencius-primary-work",
                   "locator": "《孟子·尽心下》：民为贵章",
                   "publicDomainExcerptZh": "民为贵，社稷次之，君为轻。",
                   "excerptStatus": "public_domain"
+                }
+              },
+              {
+                "id": "mencius:evidence:010",
+                "titleZh": "《孟子·梁惠王下》论汤武革命",
+                "summaryZh": "孟子在汤武革命讨论中把暴君称为一夫，说明君主若失去仁义与民心，其政治身份就会被重新判断。",
+                "source": {
+                  "workId": "mencius-primary-work",
+                  "locator": "《孟子·梁惠王下》：闻诛一夫纣矣章",
+                  "excerptStatus": "summary_only"
                 }
               }
             ]
@@ -196,12 +226,22 @@
               {
                 "id": "mencius:evidence:005",
                 "titleZh": "《孟子》关于义利之辨的章句",
-                "summaryZh": "《孟子》多处讨论义与利的先后关系，并以修养论说明道德判断需要长期保存和扩充。",
+                "summaryZh": "《孟子》多处讨论义与利的先后关系，并以修养论说明道德判断需要长期保存和扩充，不能只按眼前利益决定行动。",
                 "source": {
                   "workId": "mencius-primary-work",
                   "locator": "《孟子·梁惠王上》：「王何必曰利」章",
                   "publicDomainExcerptZh": "王何必曰利？亦有仁义而已矣。",
                   "excerptStatus": "public_domain"
+                }
+              },
+              {
+                "id": "mencius:evidence:011",
+                "titleZh": "《孟子·告子上》论鱼与熊掌",
+                "summaryZh": "《告子上》以鱼与熊掌不可得兼比喻义与生的取舍，说明在根本冲突中义可以高于生命和利益。",
+                "source": {
+                  "workId": "mencius-primary-work",
+                  "locator": "《孟子·告子上》：鱼我所欲也章",
+                  "excerptStatus": "summary_only"
                 }
               }
             ]
@@ -219,12 +259,22 @@
               {
                 "id": "mencius:evidence:006",
                 "titleZh": "《孟子·公孙丑上》论浩然之气与集义",
-                "summaryZh": "《公孙丑上》将浩然之气与义、道相配，并说明它由集义而生，不是偶然袭取。",
+                "summaryZh": "《公孙丑上》将浩然之气与义、道相配，并说明它由集义而生，不是偶然袭取，强调道德力量来自长期实践。",
                 "source": {
                   "workId": "mencius-primary-work",
                   "locator": "《孟子·公孙丑上》：「我善养吾浩然之气」章",
                   "publicDomainExcerptZh": "其为气也，配义与道；无是，馁也。是集义所生者，非义袭而取之也。",
                   "excerptStatus": "public_domain"
+                }
+              },
+              {
+                "id": "mencius:evidence:012",
+                "titleZh": "《孟子·尽心上》论尽心知性",
+                "summaryZh": "《尽心上》把尽心、知性、知天相连，说明义的积累不仅是行为重复，也涉及心性自觉和长期保存。",
+                "source": {
+                  "workId": "mencius-primary-work",
+                  "locator": "《孟子·尽心上》：尽其心者知其性章",
+                  "excerptStatus": "summary_only"
                 }
               }
             ]

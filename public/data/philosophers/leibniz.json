@@ -31,7 +31,10 @@
   "reviewStatus": "draft",
   "summaryZh": "莱布尼茨是知识、自由问题谱系中的第一版候选哲人。 本条目是第一版结构化资料，已经保留文明、传统、主题、作品和论述字段，正式发布前需要继续核对年代、文本出处和概念表述。",
   "works": [
-    "leibniz-primary-work"
+    "leibniz-discourse-metaphysics",
+    "leibniz-monadology",
+    "leibniz-new-essays",
+    "leibniz-theodicy"
   ],
   "sourceNotes": [
     {
@@ -43,43 +46,42 @@
     "problems": [
       {
         "id": "leibniz:problem:001",
-        "titleZh": "为什么存在的是有秩序世界？",
-        "questionZh": "莱布尼茨如何围绕“为什么存在的是有秩序世界？”建立其思想问题？",
-        "summaryZh": "莱布尼茨在这一问题上形成了可辨认的论证路径，连接文本命题、概念区分和后世问题谱系。",
+        "titleZh": "个体实体如何表达整个宇宙？",
+        "questionZh": "莱布尼茨如何既保留个体实体，又说明万物之间的秩序关联？",
+        "summaryZh": "莱布尼茨把真正实体理解为具有内在活动原则的个体单子。每个单子都从自身角度表达整个宇宙，因而世界秩序不是外在碰撞的结果，而是由个体内部原则和神的选择共同构成。",
         "themeIds": [
-          "knowledge",
-          "metaphysics"
+          "metaphysics",
+          "knowledge"
         ],
         "weight": 3,
         "claims": [
           {
             "id": "leibniz:claim:001",
-            "titleZh": "核心命题一：为什么存在的是有秩序世界？",
-            "claimZh": "莱布尼茨在“为什么存在的是有秩序世界？”中提出基础性立场，说明其理论问题的出发点。",
-            "explanationZh": "该命题概括其原典中反复出现的论证方向，并为本问题的后续分支提供基础。",
+            "titleZh": "单子是无窗而有表象的实体",
+            "claimZh": "莱布尼茨认为真正的实体不是可分割的物体块，而是无部分、无窗、具有知觉和欲求的单子。",
+            "explanationZh": "单子论把实体性从外在机械结构转向内在表象活动，使每个个体都成为世界秩序的表达点。",
             "themeIds": [
-              "knowledge",
               "metaphysics"
             ],
             "weight": 3,
             "evidence": [
               {
                 "id": "leibniz:evidence:001",
-                "titleZh": "核心命题一：为什么存在的是有秩序世界？的文本依据",
-                "summaryZh": "莱布尼茨在 Monadology sections 31-32 on sufficient reason 中提供该命题的原典定位，用于支撑“核心命题一：为什么存在的是有秩序世界？”这一解释。",
+                "titleZh": "单子的简单性和内在活动",
+                "summaryZh": "《单子论》开篇把单子定义为无部分的简单实体，并以知觉和欲求说明其内在活动，进一步说明“单子的简单性和内在活动”如何进入“单子是无窗而有表象的实体”的论证链条。",
                 "source": {
-                  "workId": "leibniz-primary-work",
-                  "locator": "Monadology sections 31-32 on sufficient reason",
+                  "workId": "leibniz-monadology",
+                  "locator": "Monadology §§1-18 on monads, perception and appetition",
                   "excerptStatus": "summary_only"
                 }
               },
               {
                 "id": "leibniz:evidence:002",
-                "titleZh": "核心命题一：为什么存在的是有秩序世界？的文本依据",
-                "summaryZh": "莱布尼茨在 Théodicée part I sections 8-10 on best possible world 中提供该命题的原典定位，用于支撑“核心命题一：为什么存在的是有秩序世界？”这一解释。",
+                "titleZh": "个体实体的完整概念",
+                "summaryZh": "《形而上学谈》第八、九节用完整概念说明个体实体包含其全部谓词和历史，不只是抽象种类成员。",
                 "source": {
-                  "workId": "leibniz-primary-work",
-                  "locator": "Théodicée part I sections 8-10 on best possible world",
+                  "workId": "leibniz-discourse-metaphysics",
+                  "locator": "Discourse on Metaphysics §§8-9 on individual substance and complete concept",
                   "excerptStatus": "summary_only"
                 }
               }
@@ -87,32 +89,32 @@
           },
           {
             "id": "leibniz:claim:002",
-            "titleZh": "核心命题二：为什么存在的是有秩序世界？",
-            "claimZh": "莱布尼茨在“为什么存在的是有秩序世界？”中进一步推出实践、制度或认识论后果。",
-            "explanationZh": "该命题把概念论证推进到可比较的问题谱系，避免只停留在术语解释。",
+            "titleZh": "每个实体从自身角度表达全体",
+            "claimZh": "莱布尼茨认为个体实体虽不相互因果输入，却以不同清晰度表达同一宇宙。",
+            "explanationZh": "这让个体差异和宇宙统一同时成立：每个单子都有独特视角，世界又有共同秩序。",
             "themeIds": [
-              "knowledge",
-              "metaphysics"
+              "metaphysics",
+              "knowledge"
             ],
             "weight": 2,
             "evidence": [
               {
                 "id": "leibniz:evidence:003",
-                "titleZh": "核心命题二：为什么存在的是有秩序世界？的文本依据",
-                "summaryZh": "莱布尼茨在 Monadology sections 31-32 on sufficient reason 中提供该命题的原典定位，用于支撑“核心命题二：为什么存在的是有秩序世界？”这一解释。",
+                "titleZh": "单子作为宇宙活镜",
+                "summaryZh": "《单子论》中段把每个单子比作宇宙的活镜，说明个体从自身角度表达整个世界，进一步说明“单子作为宇宙活镜”如何进入“每个实体从自身角度表达全体”的论证链条。",
                 "source": {
-                  "workId": "leibniz-primary-work",
-                  "locator": "Monadology sections 31-32 on sufficient reason",
+                  "workId": "leibniz-monadology",
+                  "locator": "Monadology §§56-60 on each monad as a mirror of the universe",
                   "excerptStatus": "summary_only"
                 }
               },
               {
                 "id": "leibniz:evidence:004",
-                "titleZh": "核心命题二：为什么存在的是有秩序世界？的文本依据",
-                "summaryZh": "莱布尼茨在 Théodicée part I sections 8-10 on best possible world 中提供该命题的原典定位，用于支撑“核心命题二：为什么存在的是有秩序世界？”这一解释。",
+                "titleZh": "实体表达全宇宙",
+                "summaryZh": "《形而上学谈》第十四节明确说每一实体以自己的方式表达全宇宙，支撑其个体主义的整体秩序观。",
                 "source": {
-                  "workId": "leibniz-primary-work",
-                  "locator": "Théodicée part I sections 8-10 on best possible world",
+                  "workId": "leibniz-discourse-metaphysics",
+                  "locator": "Discourse on Metaphysics §14 on each substance expressing the whole universe",
                   "excerptStatus": "summary_only"
                 }
               }
@@ -122,43 +124,44 @@
       },
       {
         "id": "leibniz:problem:002",
-        "titleZh": "单子如何构成世界？",
-        "questionZh": "莱布尼茨如何围绕“单子如何构成世界？”建立其思想问题？",
-        "summaryZh": "莱布尼茨在这一问题上形成了可辨认的论证路径，连接文本命题、概念区分和后世问题谱系。",
+        "titleZh": "充足理由如何解释世界秩序？",
+        "questionZh": "莱布尼茨为何认为存在、真理和世界选择都需要理由？",
+        "summaryZh": "莱布尼茨的理性主义以矛盾律和充足理由律为核心。事实真理不只是偶然散点，而是有理由可追溯；现实世界也必须被理解为神在可能世界中作出的最优选择。",
         "themeIds": [
-          "freedom",
-          "ethics"
+          "knowledge",
+          "religion",
+          "metaphysics"
         ],
         "weight": 3,
         "claims": [
           {
             "id": "leibniz:claim:003",
-            "titleZh": "核心命题一：单子如何构成世界？",
-            "claimZh": "莱布尼茨在“单子如何构成世界？”中提出基础性立场，说明其理论问题的出发点。",
-            "explanationZh": "该命题概括其原典中反复出现的论证方向，并为本问题的后续分支提供基础。",
+            "titleZh": "事实真理需要充足理由",
+            "claimZh": "莱布尼茨认为凡真实存在或真实发生者都有其为什么如此而不另样的理由，即使有限心灵不能完全把握。",
+            "explanationZh": "这一区别支撑他对偶然事实、历史事件和神学选择的解释，避免把世界看成无理由事实堆。",
             "themeIds": [
-              "freedom",
-              "ethics"
+              "knowledge",
+              "metaphysics"
             ],
             "weight": 3,
             "evidence": [
               {
                 "id": "leibniz:evidence:005",
-                "titleZh": "核心命题一：单子如何构成世界？的文本依据",
-                "summaryZh": "莱布尼茨在 Monadology sections 1-7 on simple substances 中提供该命题的原典定位，用于支撑“核心命题一：单子如何构成世界？”这一解释。",
+                "titleZh": "两大理性原则",
+                "summaryZh": "《单子论》第三十一至三十六节区分矛盾律和充足理由律，说明事实真理必须有理由，进一步说明“两大理性原则”如何进入“事实真理需要充足理由”的论证链条。",
                 "source": {
-                  "workId": "leibniz-primary-work",
-                  "locator": "Monadology sections 1-7 on simple substances",
+                  "workId": "leibniz-monadology",
+                  "locator": "Monadology §§31-36 on contradiction and sufficient reason",
                   "excerptStatus": "summary_only"
                 }
               },
               {
                 "id": "leibniz:evidence:006",
-                "titleZh": "核心命题一：单子如何构成世界？的文本依据",
-                "summaryZh": "莱布尼茨在 Monadology sections 78-81 on pre-established harmony 中提供该命题的原典定位，用于支撑“核心命题一：单子如何构成世界？”这一解释。",
+                "titleZh": "神义论中的理由要求",
+                "summaryZh": "《神义论》序论把理性原则用于信仰问题，说明神学命题也不能脱离理由结构，进一步说明“神义论中的理由要求”如何进入“事实真理需要充足理由”的论证链条。",
                 "source": {
-                  "workId": "leibniz-primary-work",
-                  "locator": "Monadology sections 78-81 on pre-established harmony",
+                  "workId": "leibniz-theodicy",
+                  "locator": "Theodicy preliminary discourse on reason, faith and sufficient reason",
                   "excerptStatus": "summary_only"
                 }
               }
@@ -166,32 +169,32 @@
           },
           {
             "id": "leibniz:claim:004",
-            "titleZh": "核心命题二：单子如何构成世界？",
-            "claimZh": "莱布尼茨在“单子如何构成世界？”中进一步推出实践、制度或认识论后果。",
-            "explanationZh": "该命题把概念论证推进到可比较的问题谱系，避免只停留在术语解释。",
+            "titleZh": "最优世界论把恶纳入总体理由",
+            "claimZh": "莱布尼茨主张神选择的是可能世界中总体最好的世界，局部恶可能因整体秩序和更大善而被允许。",
+            "explanationZh": "这不是否认痛苦存在，而是把恶的问题放进可能世界、神的智慧和整体和谐中解释。",
             "themeIds": [
-              "freedom",
+              "religion",
               "ethics"
             ],
             "weight": 2,
             "evidence": [
               {
                 "id": "leibniz:evidence:007",
-                "titleZh": "核心命题二：单子如何构成世界？的文本依据",
-                "summaryZh": "莱布尼茨在 Monadology sections 1-7 on simple substances 中提供该命题的原典定位，用于支撑“核心命题二：单子如何构成世界？”这一解释。",
+                "titleZh": "最优可能世界",
+                "summaryZh": "《神义论》集中回应恶的问题，主张神在可能世界中选择总体最佳秩序，进一步说明“最优可能世界”如何进入“最优世界论把恶纳入总体理由”的论证链条。",
                 "source": {
-                  "workId": "leibniz-primary-work",
-                  "locator": "Monadology sections 1-7 on simple substances",
+                  "workId": "leibniz-theodicy",
+                  "locator": "Theodicy essays on the best of all possible worlds and the problem of evil",
                   "excerptStatus": "summary_only"
                 }
               },
               {
                 "id": "leibniz:evidence:008",
-                "titleZh": "核心命题二：单子如何构成世界？的文本依据",
-                "summaryZh": "莱布尼茨在 Monadology sections 78-81 on pre-established harmony 中提供该命题的原典定位，用于支撑“核心命题二：单子如何构成世界？”这一解释。",
+                "titleZh": "神选择最佳世界",
+                "summaryZh": "《单子论》第五十三至五十五节说明神的智慧、善和能力共同导向最佳世界选择，进一步说明“神选择最佳世界”如何进入“最优世界论把恶纳入总体理由”的论证链条。",
                 "source": {
-                  "workId": "leibniz-primary-work",
-                  "locator": "Monadology sections 78-81 on pre-established harmony",
+                  "workId": "leibniz-monadology",
+                  "locator": "Monadology §§53-55 on God choosing the best possible world",
                   "excerptStatus": "summary_only"
                 }
               }
@@ -201,43 +204,43 @@
       },
       {
         "id": "leibniz:problem:003",
-        "titleZh": "真理与概念如何关联？",
-        "questionZh": "莱布尼茨如何围绕“真理与概念如何关联？”建立其思想问题？",
-        "summaryZh": "莱布尼茨在这一问题上形成了可辨认的论证路径，连接文本命题、概念区分和后世问题谱系。",
+        "titleZh": "自由与前定和谐如何相容？",
+        "questionZh": "莱布尼茨如何在预定秩序中保留自由、道德责任和经验知识？",
+        "summaryZh": "莱布尼茨用前定和谐解释心物一致，用倾向性天赋观念解释经验知识，并以自发性与理性动机解释自由。自由不是无理由任意，而是由主体内在原则和理性倾向行动。",
         "themeIds": [
-          "politics",
-          "ethics"
+          "freedom",
+          "knowledge",
+          "metaphysics"
         ],
         "weight": 2,
         "claims": [
           {
             "id": "leibniz:claim:005",
-            "titleZh": "核心命题一：真理与概念如何关联？",
-            "claimZh": "莱布尼茨在“真理与概念如何关联？”中提出基础性立场，说明其理论问题的出发点。",
-            "explanationZh": "该命题概括其原典中反复出现的论证方向，并为本问题的后续分支提供基础。",
+            "titleZh": "前定和谐替代心物相互作用",
+            "claimZh": "莱布尼茨认为心灵和身体并不直接相互推动，而是各按自身法则运行，并由神预先协调一致。",
+            "explanationZh": "前定和谐避免身心因果输入难题，同时保留心理序列和物理序列各自的规律性。",
             "themeIds": [
-              "politics",
-              "ethics"
+              "metaphysics"
             ],
             "weight": 3,
             "evidence": [
               {
                 "id": "leibniz:evidence:009",
-                "titleZh": "核心命题一：真理与概念如何关联？的文本依据",
-                "summaryZh": "莱布尼茨在 Monadology sections 33-36 on truths of reason and fact 中提供该命题的原典定位，用于支撑“核心命题一：真理与概念如何关联？”这一解释。",
+                "titleZh": "身心前定和谐",
+                "summaryZh": "《单子论》后段以两种王国的和谐说明灵魂和身体无需相互作用仍保持对应，进一步说明“身心前定和谐”如何进入“前定和谐替代心物相互作用”的论证链条。",
                 "source": {
-                  "workId": "leibniz-primary-work",
-                  "locator": "Monadology sections 33-36 on truths of reason and fact",
+                  "workId": "leibniz-monadology",
+                  "locator": "Monadology §§78-81 on pre-established harmony between soul and body",
                   "excerptStatus": "summary_only"
                 }
               },
               {
                 "id": "leibniz:evidence:010",
-                "titleZh": "核心命题一：真理与概念如何关联？的文本依据",
-                "summaryZh": "莱布尼茨在 Discourse on Metaphysics section 8 on complete concept 中提供该命题的原典定位，用于支撑“核心命题一：真理与概念如何关联？”这一解释。",
+                "titleZh": "灵魂身体相合",
+                "summaryZh": "《形而上学谈》后段以神的预先安排解释灵魂与身体的相合，反对偶然干预式解释，进一步说明“灵魂身体相合”如何进入“前定和谐替代心物相互作用”的论证链条。",
                 "source": {
-                  "workId": "leibniz-primary-work",
-                  "locator": "Discourse on Metaphysics section 8 on complete concept",
+                  "workId": "leibniz-discourse-metaphysics",
+                  "locator": "Discourse on Metaphysics §§32-33 on the agreement of soul and body",
                   "excerptStatus": "summary_only"
                 }
               }
@@ -245,32 +248,32 @@
           },
           {
             "id": "leibniz:claim:006",
-            "titleZh": "核心命题二：真理与概念如何关联？",
-            "claimZh": "莱布尼茨在“真理与概念如何关联？”中进一步推出实践、制度或认识论后果。",
-            "explanationZh": "该命题把概念论证推进到可比较的问题谱系，避免只停留在术语解释。",
+            "titleZh": "自由是有理由的自发行动",
+            "claimZh": "莱布尼茨认为自由行动有理由和倾向，但不等于外在强迫；理性主体按自身内在原则行动。",
+            "explanationZh": "这使他既拒绝无差别任意选择，也避免把必然理由等同于强制。",
             "themeIds": [
-              "politics",
+              "freedom",
               "ethics"
             ],
             "weight": 2,
             "evidence": [
               {
                 "id": "leibniz:evidence:011",
-                "titleZh": "核心命题二：真理与概念如何关联？的文本依据",
-                "summaryZh": "莱布尼茨在 Monadology sections 33-36 on truths of reason and fact 中提供该命题的原典定位，用于支撑“核心命题二：真理与概念如何关联？”这一解释。",
+                "titleZh": "天赋倾向与经验",
+                "summaryZh": "《人类理解新论》以倾向和能力解释天赋观念，表明心灵不是白板，而有可被经验激发的理性结构。",
                 "source": {
-                  "workId": "leibniz-primary-work",
-                  "locator": "Monadology sections 33-36 on truths of reason and fact",
+                  "workId": "leibniz-new-essays",
+                  "locator": "New Essays on Human Understanding preface and Book I on innate dispositions",
                   "excerptStatus": "summary_only"
                 }
               },
               {
                 "id": "leibniz:evidence:012",
-                "titleZh": "核心命题二：真理与概念如何关联？的文本依据",
-                "summaryZh": "莱布尼茨在 Discourse on Metaphysics section 8 on complete concept 中提供该命题的原典定位，用于支撑“核心命题二：真理与概念如何关联？”这一解释。",
+                "titleZh": "自由与道德必然",
+                "summaryZh": "《神义论》关于自由的讨论区分必然、确定和强制，说明有理由的确定性不取消责任，进一步说明“自由与道德必然”如何进入“自由是有理由的自发行动”的论证链条。",
                 "source": {
-                  "workId": "leibniz-primary-work",
-                  "locator": "Discourse on Metaphysics section 8 on complete concept",
+                  "workId": "leibniz-theodicy",
+                  "locator": "Theodicy on freedom, contingency and moral necessity",
                   "excerptStatus": "summary_only"
                 }
               }

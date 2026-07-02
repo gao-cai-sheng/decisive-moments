@@ -5,8 +5,8 @@
     "en": "Paulin Hountondji"
   },
   "life": {
-    "display": "1942 年生",
-    "birth": 1942
+    "birth": 1942,
+    "display": "1942 年生"
   },
   "civilization": "african",
   "traditions": [
@@ -30,12 +30,256 @@
   "reviewStatus": "draft",
   "summaryZh": "洪通吉是政治、伦理问题谱系中的第一版候选哲人。 本条目是第一版结构化资料，已经保留文明、传统、主题、作品和论述字段，正式发布前需要继续核对年代、文本出处和概念表述。",
   "works": [
-    "hountondji-primary-work"
+    "hountondji-african-philosophy",
+    "hountondji-struggle-meaning",
+    "hountondji-endogenous-knowledge",
+    "hountondji-combats-sens"
   ],
   "sourceNotes": [
     {
       "label": "draft",
       "noteZh": "条目需要人工核对作品、年代和概念表述。"
     }
-  ]
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "hountondji:problem:001",
+        "titleZh": "非洲哲学为何不能等同民族世界观？",
+        "questionZh": "洪通吉为何批判把非洲哲学理解为集体、匿名、不可争辩的民族世界观？",
+        "summaryZh": "洪通吉反对民族哲学，因为它把哲学变成外部研究者重建的集体信念，遮蔽了非洲作者真实的文本、争论和批判劳动。哲学必须是明确的、可辩论的理论实践。",
+        "themeIds": [
+          "knowledge",
+          "language"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "hountondji:claim:001",
+            "titleZh": "民族哲学混淆了哲学与人类学",
+            "claimZh": "洪通吉认为民族哲学把非洲哲学描述为集体世界观，实际上常把人类学解释误当成哲学论证。",
+            "explanationZh": "他的批判不是否认非洲思想，而是要求非洲哲学以作者、文本和争辩形式进入普遍理论空间。",
+            "themeIds": [
+              "knowledge",
+              "language"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "hountondji:evidence:001",
+                "titleZh": "非洲哲学中的民族哲学批判",
+                "summaryZh": "《非洲哲学：神话与现实》批判把非洲哲学说成无作者集体世界观，指出这种做法常服务于外部解释者。",
+                "source": {
+                  "workId": "hountondji-african-philosophy",
+                  "locator": "African Philosophy: Myth and Reality on ethnophilosophy and collective worldviews",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "hountondji:evidence:002",
+                "titleZh": "哲学作为显明文本传统",
+                "summaryZh": "《非洲哲学：神话与现实》强调哲学应是明确文本和论证的传统，而不是被研究者代为归纳的沉默信念。",
+                "source": {
+                  "workId": "hountondji-african-philosophy",
+                  "locator": "African Philosophy: Myth and Reality on written discourse and philosophical authorship",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "hountondji:claim:002",
+            "titleZh": "非洲哲学需要内部批判共同体",
+            "claimZh": "洪通吉主张非洲哲学应由非洲思想者之间的公开争论构成，而非由外部学者宣称某种共同精神。",
+            "explanationZh": "哲学共同体的关键是可反驳、可修正和可继续写作，这使非洲哲学成为活的学术实践。",
+            "themeIds": [
+              "knowledge",
+              "politics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "hountondji:evidence:003",
+                "titleZh": "思想争论而非民俗图像",
+                "summaryZh": "《为意义而斗争》把非洲哲学放在学术争论和政治责任中理解，反对把非洲思想固定成民俗图像。",
+                "source": {
+                  "workId": "hountondji-struggle-meaning",
+                  "locator": "The Struggle for Meaning on philosophy, culture and democracy in Africa",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "hountondji:evidence:004",
+                "titleZh": "意义斗争中的知识责任",
+                "summaryZh": "《为意义而斗争》把哲学写作同公共意义斗争联系起来，说明学者需要参与定义自身社会的解释权。",
+                "source": {
+                  "workId": "hountondji-struggle-meaning",
+                  "locator": "The Struggle for Meaning on intellectual responsibility and public meaning",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "hountondji:problem:002",
+        "titleZh": "内生知识如何避免被浪漫化？",
+        "questionZh": "洪通吉如何在重视非洲内生知识的同时避免把传统知识神秘化或封闭化？",
+        "summaryZh": "洪通吉后期并不拒绝研究本土知识，而是要求以严格、开放和可批判的方式研究。内生知识不是反科学的传统圣物，而是需要制度支持和方法检验的研究领域。",
+        "themeIds": [
+          "knowledge",
+          "politics"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "hountondji:claim:003",
+            "titleZh": "内生知识需要科学研究而非神秘化",
+            "claimZh": "洪通吉认为本土知识值得研究，但必须通过公开方法、概念分析和经验检验来避免浪漫化。",
+            "explanationZh": "这让他从反民族哲学延伸到知识政治：问题不是传统是否存在，而是如何把它转化为自主研究能力。",
+            "themeIds": [
+              "knowledge"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "hountondji:evidence:005",
+                "titleZh": "内生知识研究路径",
+                "summaryZh": "《内生知识：研究路径》把本土知识当作可调查和可讨论的研究对象，而不是不可质疑的文化本质。",
+                "source": {
+                  "workId": "hountondji-endogenous-knowledge",
+                  "locator": "Endogenous Knowledge: Research Trails on research methods for local knowledge",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "hountondji:evidence:006",
+                "titleZh": "传统知识与现代研究制度",
+                "summaryZh": "《内生知识：研究路径》强调本土知识需要大学、科研和出版制度支持，才能从口头资源转化为共享知识。",
+                "source": {
+                  "workId": "hountondji-endogenous-knowledge",
+                  "locator": "Endogenous Knowledge: Research Trails on institutions, research and publication",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "hountondji:claim:004",
+            "titleZh": "知识自主要求改变全球分工",
+            "claimZh": "洪通吉认为非洲知识生产不能只向外部理论市场提供材料，而应形成能提出问题和检验理论的自主机构。",
+            "explanationZh": "他的知识政治批判指向全球学术分工，要求非洲研究者不只是资料供应者，也是理论生产者。",
+            "themeIds": [
+              "knowledge",
+              "justice"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "hountondji:evidence:007",
+                "titleZh": "非洲研究的外向性批判",
+                "summaryZh": "《为意义而斗争》批评非洲学术生产常为外部学术中心服务，指出知识自主需要改变研究议程的方向。",
+                "source": {
+                  "workId": "hountondji-struggle-meaning",
+                  "locator": "The Struggle for Meaning on extraversion of African research",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "hountondji:evidence:008",
+                "titleZh": "意义斗争与学术制度",
+                "summaryZh": "《意义之战》把学术自主、民主文化和公共讨论联系起来，说明知识生产本身也是政治争取的一部分。",
+                "source": {
+                  "workId": "hountondji-combats-sens",
+                  "locator": "Combats pour le sens on academic autonomy, democracy and public culture",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "hountondji:problem:003",
+        "titleZh": "哲学批判如何服务非洲民主？",
+        "questionZh": "洪通吉如何把哲学写作、公共意义斗争和民主政治联系起来？",
+        "summaryZh": "洪通吉把哲学视为争夺意义和公共理性的实践。哲学批判既要反对外部凝视，也要反对内部权威化叙事，从而为民主讨论和知识自主提供语言。",
+        "themeIds": [
+          "politics",
+          "freedom",
+          "language"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "hountondji:claim:005",
+            "titleZh": "民主需要公开可争辩的意义生产",
+            "claimZh": "洪通吉认为民主不仅是制度安排，也需要公民和知识分子参与公共意义的公开争辩。",
+            "explanationZh": "哲学的作用在于拆解权威叙事，让社会能够讨论自身目标、传统和未来，而不被单一声音封闭。",
+            "themeIds": [
+              "politics",
+              "language"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "hountondji:evidence:009",
+                "titleZh": "文化、民主与意义斗争",
+                "summaryZh": "《为意义而斗争》把文化解释权和民主政治联系起来，说明公共意义不是自然给定而需持续争辩。",
+                "source": {
+                  "workId": "hountondji-struggle-meaning",
+                  "locator": "The Struggle for Meaning on culture, democracy and public debate",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "hountondji:evidence:010",
+                "titleZh": "哲学作为反权威话语",
+                "summaryZh": "《意义之战》强调哲学批判能够抵抗政治和文化权威对意义的垄断，维护开放讨论空间和公共理性实践。",
+                "source": {
+                  "workId": "hountondji-combats-sens",
+                  "locator": "Combats pour le sens on critique, authority and democratic discourse",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "hountondji:claim:006",
+            "titleZh": "非洲哲学应进入普遍讨论而不失具体责任",
+            "claimZh": "洪通吉主张非洲哲学既要参与普遍哲学讨论，也要承担对非洲社会知识制度和政治现实的具体责任。",
+            "explanationZh": "这种立场避免两种退化：一是被外部普遍性吞没，二是退回不可批判的文化特殊主义。",
+            "themeIds": [
+              "freedom",
+              "knowledge"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "hountondji:evidence:011",
+                "titleZh": "真实与神话之间的非洲哲学",
+                "summaryZh": "《非洲哲学：神话与现实》要求非洲哲学以明确文本参与普遍争论，同时保留对非洲处境的批判责任。",
+                "source": {
+                  "workId": "hountondji-african-philosophy",
+                  "locator": "African Philosophy: Myth and Reality on universality and African philosophical discourse",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "hountondji:evidence:012",
+                "titleZh": "内生知识与普遍研究共同体",
+                "summaryZh": "《内生知识：研究路径》把本土问题放入可共享研究共同体中，显示特殊处境可以通过严格方法参与普遍知识。",
+                "source": {
+                  "workId": "hountondji-endogenous-knowledge",
+                  "locator": "Endogenous Knowledge: Research Trails on local problems and universal research communities",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
 }

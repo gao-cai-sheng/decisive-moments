@@ -66,10 +66,20 @@
               {
                 "id": "nozick:evidence:001",
                 "titleZh": "侧约束依据",
-                "summaryZh": "《无政府、国家与乌托邦》以权利作为侧约束，说明人不能仅作为他人目标的工具。",
+                "summaryZh": "《无政府、国家与乌托邦》以权利作为侧约束，说明人不能仅作为他人目标的工具，政治权力必须受边界限制。",
                 "source": {
                   "workId": "nozick-primary-work",
-                  "locator": "《无政府、国家与乌托邦》第一部关于道德侧约束",
+                  "locator": "《无政府、国家与乌托邦》第一部“道德侧约束”段",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "nozick:evidence:007",
+                "titleZh": "人的分离性依据",
+                "summaryZh": "《无政府、国家与乌托邦》用人的分离性反驳把个人牺牲并入总体福利计算的思路，强化权利边界。",
+                "source": {
+                  "workId": "nozick-primary-work",
+                  "locator": "《无政府、国家与乌托邦》第一部“人的分离性”段",
                   "excerptStatus": "summary_only"
                 }
               }
@@ -89,10 +99,20 @@
               {
                 "id": "nozick:evidence:002",
                 "titleZh": "保护机构依据",
-                "summaryZh": "《无政府、国家与乌托邦》描述保护机构如何在市场和补偿逻辑中演化为国家式结构。",
+                "summaryZh": "《无政府、国家与乌托邦》描述保护机构如何在市场竞争、风险控制和补偿逻辑中演化为国家式结构。",
                 "source": {
                   "workId": "nozick-primary-work",
-                  "locator": "《无政府、国家与乌托邦》第一部关于保护社团和占优势保护机构",
+                  "locator": "《无政府、国家与乌托邦》第一部“保护社团和占优势保护机构”段",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "nozick:evidence:008",
+                "titleZh": "补偿原则依据",
+                "summaryZh": "诺齐克通过禁止不可靠私人执行并给予补偿的论证，说明最小国家可在不侵犯权利的条件下形成。",
+                "source": {
+                  "workId": "nozick-primary-work",
+                  "locator": "《无政府、国家与乌托邦》第一部“禁止、补偿和最小国家”段",
                   "excerptStatus": "summary_only"
                 }
               }
@@ -124,10 +144,20 @@
               {
                 "id": "nozick:evidence:003",
                 "titleZh": "资格理论依据",
-                "summaryZh": "《无政府、国家与乌托邦》提出取得正义、转让正义和纠正正义构成资格理论。",
+                "summaryZh": "《无政府、国家与乌托邦》提出取得正义、转让正义和纠正正义构成资格理论，分配正义因此具有历史性。",
                 "source": {
                   "workId": "nozick-primary-work",
-                  "locator": "《无政府、国家与乌托邦》第二部关于资格理论",
+                  "locator": "《无政府、国家与乌托邦》第二部“资格理论”段",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "nozick:evidence:009",
+                "titleZh": "历史原则依据",
+                "summaryZh": "诺齐克区分历史原则和终态原则，强调当前持有状态是否正义取决于形成过程，而非静态图案。",
+                "source": {
+                  "workId": "nozick-primary-work",
+                  "locator": "《无政府、国家与乌托邦》第二部“历史原则和终态原则”段",
                   "excerptStatus": "summary_only"
                 }
               }
@@ -147,10 +177,20 @@
               {
                 "id": "nozick:evidence:004",
                 "titleZh": "张伯伦例子依据",
-                "summaryZh": "《无政府、国家与乌托邦》用张伯伦例子说明自愿交易会破坏原先设定的分配模式。",
+                "summaryZh": "《无政府、国家与乌托邦》用张伯伦例子说明自愿交易会破坏原先设定的分配模式，除非持续干预个人选择。",
                 "source": {
                   "workId": "nozick-primary-work",
-                  "locator": "《无政府、国家与乌托邦》第二部“张伯伦例子”",
+                  "locator": "《无政府、国家与乌托邦》第二部“张伯伦例子”段",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "nozick:evidence:010",
+                "titleZh": "模式化原则干预依据",
+                "summaryZh": "诺齐克指出模式化原则若要长期维持，就必须不断阻止或纠正自愿转让，这会与个人自由发生冲突。",
+                "source": {
+                  "workId": "nozick-primary-work",
+                  "locator": "《无政府、国家与乌托邦》第二部“自由扰乱模式”段",
                   "excerptStatus": "summary_only"
                 }
               }
@@ -183,10 +223,20 @@
               {
                 "id": "nozick:evidence:005",
                 "titleZh": "乌托邦框架依据",
-                "summaryZh": "《无政府、国家与乌托邦》把乌托邦设想为多种共同体自愿形成和竞争的框架。",
+                "summaryZh": "《无政府、国家与乌托邦》把乌托邦设想为多种共同体自愿形成和竞争的框架，而不是单一生活蓝图。",
                 "source": {
                   "workId": "nozick-primary-work",
-                  "locator": "《无政府、国家与乌托邦》第三部关于乌托邦框架",
+                  "locator": "《无政府、国家与乌托邦》第三部“乌托邦框架”段",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "nozick:evidence:011",
+                "titleZh": "多元共同体依据",
+                "summaryZh": "诺齐克的乌托邦讨论强调不同人会选择不同共同体，理想制度应提供迁移、退出和实验的背景条件。",
+                "source": {
+                  "workId": "nozick-primary-work",
+                  "locator": "《无政府、国家与乌托邦》第三部“多元共同体和选择”段",
                   "excerptStatus": "summary_only"
                 }
               }
@@ -206,10 +256,20 @@
               {
                 "id": "nozick:evidence:006",
                 "titleZh": "最小国家结论依据",
-                "summaryZh": "《无政府、国家与乌托邦》认为最小国家能容纳丰富的自愿共同体实践。",
+                "summaryZh": "《无政府、国家与乌托邦》认为最小国家能容纳丰富的自愿共同体实践，因为它不预设单一善生活模式。",
                 "source": {
                   "workId": "nozick-primary-work",
-                  "locator": "《无政府、国家与乌托邦》第三部结论",
+                  "locator": "《无政府、国家与乌托邦》第三部“最小国家和乌托邦结论”段",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "nozick:evidence:012",
+                "titleZh": "过滤装置依据",
+                "summaryZh": "诺齐克把乌托邦框架理解为社会实验的过滤装置，允许人们通过自愿进入和退出寻找适合自身的共同体。",
+                "source": {
+                  "workId": "nozick-primary-work",
+                  "locator": "《无政府、国家与乌托邦》第三部“过滤装置”段",
                   "excerptStatus": "summary_only"
                 }
               }
