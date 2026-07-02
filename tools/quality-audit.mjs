@@ -26,6 +26,7 @@ export const MIN_SUMMARY = 20;            // 硬下限：schema 要求 summaryZh
 export const TARGET_SUMMARY = 40;         // 标准档：summaryZh 目标厚度（20<=len<40=YELLOW summary_thin）
 export const TARGET_EV_PER_CLAIM = 2;     // 标准档：每 claim 目标 evidence 数（>=1 但 <2=YELLOW thin_evidence）
 export const RESTATE_JACCARD = 0.72;      // claimZh 与 questionZh 字符 Jaccard 超此值疑似复述
+export const TEMPLATE_SUMMARY_JACCARD = 0.55; // 同一哲人 evidence.summaryZh 两两字符 Jaccard 均值超此值疑似二代模板
 
 // 反模板规则：这类句子满足长度/证据数门槛，却没有实质内容，必须直接 RED。
 export const TEMPLATE_CLAIM = /(在[“\"][^”\"]+[”\"]中提出基础性立场，说明其理论问题的出发点|在[“\"][^”\"]+[”\"]中进一步推出实践、制度或认识论后果)/;
@@ -58,9 +59,11 @@ export function auditPhilosopher(detail, worksById) {
   if (problems.length < 3) add("RED", "problems_lt_3", `problems=${problems.length} (<3)`);
 
   const claimTitles = new Map();
+  const evidenceSummaries = [];
 
   for (const p of problems) {
     const claims = p.claims || [];
+    const claimTextsInProblem = new Map();
     const evCount = claims.reduce((n, c) => n + (c.evidence?.length || 0), 0);
     if (claims.length < 2) add("RED", "claims_lt_2", `${p.id}: claims=${claims.length} (<2)`);
     if (evCount < 2) add("RED", "evidence_lt_2", `${p.id}: evidence=${evCount} (<2)`);
@@ -80,6 +83,13 @@ export function auditPhilosopher(detail, worksById) {
       if (TEMPLATE_CLAIM.test(c.claimZh || ""))
         add("RED", "template_claim", `${c.id}: claimZh 命中模板灌水句式，缺少实质主张`);
 
+      const claimText = (c.claimZh || "").trim();
+      if (claimText) {
+        if (claimTextsInProblem.has(claimText))
+          add("RED", "duplicate_claim_text", `${p.id}: ${c.id} 与 ${claimTextsInProblem.get(claimText)} 的 claimZh 精确重复`);
+        else claimTextsInProblem.set(claimText, c.id);
+      }
+
       const key = (c.titleZh || "").trim();
       if (key) {
         if (claimTitles.has(key)) add("YELLOW", "duplicate_claim", `${c.id}: 与 ${claimTitles.get(key)} 标题重复「${key}」`);
@@ -95,6 +105,9 @@ export function auditPhilosopher(detail, worksById) {
           add("YELLOW", "summary_thin", `${e.id}: summaryZh 长度 ${sumLen}（>=${MIN_SUMMARY} 但 <${TARGET_SUMMARY} 标准档，偏薄）`);
         if (TEMPLATE_EVIDENCE_SUMMARY.test(e.summaryZh || ""))
           add("RED", "template_evidence_summary", `${e.id}: summaryZh 命中“复述 locator/用于支撑命题”模板，缺少实质证据概括`);
+        if (e.summaryZh) evidenceSummaries.push({ id: e.id, text: e.summaryZh });
+        if (s.workId && (e.summaryZh || "").includes(s.workId))
+          add("RED", "workid_in_summary", `${e.id}: summaryZh 含 workId 子串「${s.workId}」，疑似把定位字段粘入摘要`);
         if (s.excerptStatus === "public_domain" && !s.publicDomainExcerptZh)
           add("RED", "fake_public_domain", `${e.id}: 标 public_domain 但无 publicDomainExcerptZh`);
         if (s.publicDomainExcerptZh && s.excerptStatus !== "public_domain")
@@ -112,6 +125,21 @@ export function auditPhilosopher(detail, worksById) {
       }
     }
   }
+
+  if (evidenceSummaries.length >= 6) {
+    let total = 0;
+    let pairs = 0;
+    for (let i = 0; i < evidenceSummaries.length; i++) {
+      for (let j = i + 1; j < evidenceSummaries.length; j++) {
+        total += jaccardChars(evidenceSummaries[i].text, evidenceSummaries[j].text);
+        pairs++;
+      }
+    }
+    const mean = pairs ? total / pairs : 0;
+    if (mean > TEMPLATE_SUMMARY_JACCARD)
+      add("RED", "template_similarity", `summaryZh 两两字符 Jaccard 均值 ${mean.toFixed(2)} (>${TEMPLATE_SUMMARY_JACCARD})，疑似同一模板批量改写`);
+  }
+
   return { pid, hasTS: true, findings };
 }
 

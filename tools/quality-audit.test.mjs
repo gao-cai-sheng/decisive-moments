@@ -10,12 +10,33 @@ const worksById = new Map([
 ]);
 
 // ---- 构造助手：默认产出"干净"内容，按需用 overrides 注入问题 ----
+const SUMMARY_POOL = [
+  "这一证据聚焦经验如何校正判断，并把德性理解为长期实践中逐渐稳定的能力。",
+  "材料强调制度安排对行动选择的限制，说明责任不能脱离具体场景来抽象处理。",
+  "文本把知识形成放在公共讨论中观察，突出理由交换和可修正性的作用。",
+  "段落分析欲望、习惯与训练之间的关系，用来说明伦理能力需要持续培养。",
+  "论证从语言用法入手，指出概念意义要通过实际判断和生活形式来确认。",
+  "作者借历史案例说明政治权威需要公共理由，而不能只诉诸传统身份。",
+  "相关章节讨论自然秩序与人的技艺如何互相限定，避免把理论化成空洞原则。",
+  "此处把教育视为塑造判断力的过程，强调学习者要在行动后果中获得理解。",
+  "材料展现个体经验与共同规范之间的张力，说明自由必须接受责任检验。",
+  "段落围绕解释、证据与信念转换展开，显示思想系统内部的层次关系。",
+  "文本分析社会分工造成的视角差异，并把正义问题放入具体生活结构中考察。",
+  "论述强调批判不是简单否定，而是在保留问题压力时重新安排概念关系。",
+];
+function defaultSummaryFor(id) {
+  const s = String(id || "sage:evidence:001");
+  let n = 0;
+  for (const ch of s) n += ch.charCodeAt(0);
+  return `${SUMMARY_POOL[n % SUMMARY_POOL.length]}此证据概括保留具体文本脉络，避免仅复述题目或来源。`;
+}
 function ev(over = {}) {
+  const id = over.id || "sage:evidence:001";
   return {
-    id: over.id || "sage:evidence:001",
+    id,
     titleZh: "证据标题",
-    // 默认 summaryZh 达到标准档（>=40 字），干净数据不触发 summary_thin
-    summaryZh: over.summaryZh ?? "这是一段足够长的证据概括文字，长度超过四十个汉字，用以满足标准档的厚度目标而不触发偏薄告警。",
+    // 默认 summaryZh 达到标准档（>=40 字），且相互差异足够，干净数据不触发相似度规则
+    summaryZh: over.summaryZh ?? defaultSummaryFor(id),
     source: {
       workId: "sage-work",
       locator: "第一章：开篇段",
@@ -29,7 +50,7 @@ function claim(over = {}) {
   return {
     id: cid,
     titleZh: over.titleZh || "主张甲",
-    claimZh: over.claimZh || "智慧来自对经验的反复省察与提炼。",
+    claimZh: over.claimZh || `智慧来自对经验的反复省察与提炼，并在 ${cid} 的论证位置上获得具体含义。`,
     explanationZh: "这是一段足够长的解释文字，用于满足最小长度的硬性要求。",
     themeIds: over.themeIds || ["ethics"],
     weight: over.weight ?? 2,
@@ -229,6 +250,34 @@ describe("quality-audit：每类问题都必须被抓到", () => {
                claim({ id: "c2", titleZh: "乙", weight: 1 })] });
     const d = philosopher([p, problem({ id: "sage:problem:002" }), problem({ id: "sage:problem:003" })]);
     expect(codes(d)).toContain("template_evidence_summary");
+  });
+
+  it("duplicate_claim_text（同一 problem 内 claimZh 精确重复直接 RED）", () => {
+    const repeated = "自由不是抽象口号，而是在制度与教育安排中被具体训练出来的责任能力。";
+    const p = problem({ id: "sage:problem:001",
+      claims: [claim({ id: "c1", titleZh: "甲", weight: 2, claimZh: repeated }),
+               claim({ id: "c2", titleZh: "乙", weight: 1, claimZh: repeated })] });
+    const d = philosopher([p, problem({ id: "sage:problem:002" }), problem({ id: "sage:problem:003" })]);
+    expect(codes(d)).toContain("duplicate_claim_text");
+  });
+
+  it("workid_in_summary（summaryZh 粘贴 evidence workId 子串直接 RED）", () => {
+    const p = problem({ id: "sage:problem:001",
+      claims: [claim({ id: "c1", titleZh: "甲", weight: 2, evidence: [
+        ev({ id: "e1", summaryZh: "该证据依据 sage-work 的核心段落和问题结构，说明主张如何获得文本支撑。" }),
+        ev({ id: "e2" }),
+      ] }), claim({ id: "c2", titleZh: "乙", weight: 1 })] });
+    const d = philosopher([p, problem({ id: "sage:problem:002" }), problem({ id: "sage:problem:003" })]);
+    expect(codes(d)).toContain("workid_in_summary");
+  });
+
+  it("template_similarity（同一哲人 summaryZh 两两字符 Jaccard 均值过高直接 RED）", () => {
+    const similarEvidence = (id) => ev({ id, summaryZh: `该证据依据核心段落和问题结构，说明文本如何支撑相关主张，并保持几乎相同的模板表达${id}。` });
+    const probs = [1, 2, 3].map((n) => problem({ id: `sage:problem:00${n}`, claims: [
+      claim({ id: `p${n}c1`, titleZh: `甲${n}`, weight: 2, evidence: [similarEvidence(`p${n}e1`), similarEvidence(`p${n}e2`)] }),
+      claim({ id: `p${n}c2`, titleZh: `乙${n}`, weight: 1, evidence: [similarEvidence(`p${n}e3`), similarEvidence(`p${n}e4`)] }),
+    ] }));
+    expect(codes(philosopher(probs))).toContain("template_similarity");
   });
 });
 

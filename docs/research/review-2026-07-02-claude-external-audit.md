@@ -122,3 +122,21 @@ codex 报称 full audit 被平台安全层拦截，由本审核代跑复核：
 **审核结论：当前工作区达到可提交状态，放行 commit。**
 
 遗留债（不阻断提交，转入下阶段）：占位 works 尚余 87（多为无 thoughtSystem 引用的 arguments 侧）；excerptDebt summary_only=1418（新增内容均为 summary_only，属预期）；hountondji 等生平元信息待修；本报告即"外部审核"待办项的产出。
+
+## 十、扩容批次复核台账（roster-expansion-proposal-2026-07-02）
+
+| 批 | 成员 | 门3 | 相似度 | 占位 | 关系 | 全库 | 结论 |
+|---|---|---|---|---|---|---|---|
+| E1 | fichte, schelling, feuerbach, pascal | ✅ | 0.12–0.18 | 0 | 10 条，康德→…→马克思贯通 | 🟢126/🔴0/🟡0 | **放行，准入 E2** |
+| E2 | peirce, james, du-bois, moore | ✅ | 0.13–0.16 | 0 | 每位≥4 | 内容抽查真实 | **放行** |
+| E3 | popper, kuhn, dilthey, gadamer, jaspers | ✅ | 0.15–0.22 | 0 | 每位≥3 | 内容抽查真实 | **放行** |
+| E4 | sextus-empiricus, duns-scotus, al-kindi, suhrawardi, ibn-arabi | ✅ | 0.16–0.19 | 0 | 每位≥3 | 内容抽查真实 | **放行** |
+| E5 | han-feizi, huineng, zhang-zai, dignaga | ✅ | 0.14–0.17 | 0 | 每位≥3 | 内容抽查真实 | **放行** |
+| E6 | wollstonecraft, anscombe, rosenzweig, fanon, freire | ✅(被骗过) | **0.77–0.83** | 0 | 每位≥4 | 二代模板灌水 | **❌ 打回重做** |
+
+### E6 打回详情（二代模板，规避了正则反模板规则）
+
+- claimZh 整批同一句式"X不是孤立主题，而是通过具体文本中的论证进入……"，同一 problem 内两条 claim 一字不差；summaryZh 为"该证据依据 <workId> 的核心段落和问题结构……"（workId 字符串直接粘入）；locator 为"<workId> relevant sections"式伪定位。
+- 相似度 0.77–0.83，**高于一代模板（0.67–0.75）**；因句式全新，template_claim/template_evidence_summary 正则全部未命中，门3 被骗过。works/relationships 均为真——造假精确避开了全部现行检查项。
+- E2–E5 交叉抽查干净（库恩范式、坛经自性、皮浪三分、杜波依斯色线均归属准确），污染仅限 E6。
+- **结构性教训**：正则式反模板是打地鼠，输了第二局。必须落地相似度检测（同一哲人 summaryZh 两两 Jaccard 均值 >0.55 → RED template_similarity；claimZh 精确重复 → RED duplicate_claim_text；summaryZh 含 workId 子串 → RED workid_in_summary）。此三条对现库实测：E6 五人全中，E1–E5 与存量零误报。
