@@ -1,0 +1,297 @@
+{
+  "id": "gadamer",
+  "names": {
+    "zh": "伽达默尔",
+    "en": "Hans-Georg Gadamer"
+  },
+  "life": {
+    "birth": 1900,
+    "death": 2002,
+    "display": "1900—2002"
+  },
+  "civilization": "european_modern",
+  "traditions": [
+    "philosophical_hermeneutics",
+    "continental_philosophy",
+    "phenomenology"
+  ],
+  "periods": [
+    "expansion_e3"
+  ],
+  "themes": [
+    "language",
+    "knowledge",
+    "aesthetics"
+  ],
+  "keywordsZh": [
+    "哲学解释学",
+    "效果历史",
+    "视域融合",
+    "语言",
+    "真理与方法"
+  ],
+  "oneLineZh": "以效果历史、视域融合和语言性把解释学从方法论扩展为哲学本体论。",
+  "influenceWeight": 3,
+  "reviewStatus": "draft",
+  "summaryZh": "伽达默尔在海德格尔存在论和狄尔泰解释学之后，把理解说明为处在传统、语言和效果历史中的事件；《真理与方法》批判把人文科学简化为方法规则，并使解释学成为与哈贝马斯、德里达等人争论的核心哲学位置。",
+  "works": [
+    "gadamer-platos-dialectical-ethics",
+    "gadamer-truth-method",
+    "gadamer-philosophical-hermeneutics",
+    "gadamer-reason-age-science",
+    "gadamer-heideggers-ways",
+    "gadamer-dialogue-dialectic"
+  ],
+  "sourceNotes": [
+    {
+      "label": "SEP",
+      "url": "https://plato.stanford.edu/entries/gadamer/",
+      "noteZh": "用于核对伽达默尔生平、真理与方法、效果历史、视域融合和语言性。"
+    },
+    {
+      "label": "review",
+      "noteZh": "E3 批新增条目，重点连接狄尔泰、海德格尔、哈贝马斯与德里达。"
+    }
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "gadamer:problem:001",
+        "titleZh": "理解为何不是可中立操控的方法？",
+        "questionZh": "伽达默尔如何批判人文科学方法主义并重新说明真理经验？",
+        "summaryZh": "伽达默尔认为艺术、历史和文本理解中的真理不能被自然科学式方法完全把握，理解本身是传统中发生的事件。",
+        "themeIds": [
+          "knowledge",
+          "aesthetics"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "gadamer:claim:001",
+            "titleZh": "真理经验超出方法控制",
+            "claimZh": "人文理解中的真理并不等于方法规则的产物，而在艺术、历史和语言经验中向理解者发生。",
+            "explanationZh": "这不是反理性，而是反对把所有真理都压缩为可复制的技术程序，恢复人文科学的经验厚度。",
+            "themeIds": [
+              "knowledge",
+              "aesthetics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "gadamer:evidence:001",
+                "titleZh": "《真理与方法》的标题张力",
+                "summaryZh": "《真理与方法》以艺术经验、人文科学和语言理解为主轴，批判现代方法意识遮蔽了理解中的真理事件。",
+                "source": {
+                  "workId": "gadamer-truth-method",
+                  "locator": "Truth and Method, parts on art, historical understanding, and language",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "gadamer:evidence:002",
+                "titleZh": "SEP 对 Truth and Method 的定位",
+                "summaryZh": "SEP 将《真理与方法》定位为伽达默尔主要著作，强调其哲学解释学反对将理解化约为方法论规则。",
+                "source": {
+                  "workId": "gadamer-truth-method",
+                  "locator": "SEP Gadamer, Truth and Method sections",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "gadamer:claim:002",
+            "titleZh": "艺术经验展示理解的参与性",
+            "claimZh": "艺术作品的真理不只是观众主观感受，而是在作品呈现、游戏和参与中展开的共同经验。",
+            "explanationZh": "伽达默尔用艺术说明理解者不是外在观察者，真理经验要求被传统和作品本身牵引。",
+            "themeIds": [
+              "aesthetics",
+              "knowledge"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "gadamer:evidence:003",
+                "titleZh": "《真理与方法》的游戏和艺术分析",
+                "summaryZh": "《真理与方法》通过游戏、节庆和艺术呈现分析作品真理，说明理解不是主体任意投射，而是在作品事件中参与。",
+                "source": {
+                  "workId": "gadamer-truth-method",
+                  "locator": "Truth and Method, play and the ontology of the work of art",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "gadamer:evidence:004",
+                "titleZh": "柏拉图研究中的对话经验",
+                "summaryZh": "《柏拉图的辩证伦理学》通过对话和实践理性展示早期伽达默尔对理解参与性与古典传统的关切。",
+                "source": {
+                  "workId": "gadamer-platos-dialectical-ethics",
+                  "locator": "Plato's Dialectical Ethics, dialogue and practical reason",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "gadamer:problem:002",
+        "titleZh": "传统和偏见为何是理解条件？",
+        "questionZh": "伽达默尔如何重新评价偏见、权威和效果历史在理解中的作用？",
+        "summaryZh": "伽达默尔认为理解者无法跳出历史处境，偏见并非必然错误，而是需要在与文本和传统的对话中被检验和改造的前理解。",
+        "themeIds": [
+          "language",
+          "knowledge"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "gadamer:claim:003",
+            "titleZh": "效果历史构成理解处境",
+            "claimZh": "理解者总是在传统的影响史中提出问题，因此没有无历史前提的纯粹解释位置。",
+            "explanationZh": "效果历史意识要求解释者意识到自身被传统塑造，同时让传统在新的问题中重新发声。",
+            "themeIds": [
+              "knowledge",
+              "language"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "gadamer:evidence:005",
+                "titleZh": "效果历史意识段落",
+                "summaryZh": "《真理与方法》提出效果历史意识，说明理解者与文本之间的距离不是障碍，而是意义生成的历史条件。",
+                "source": {
+                  "workId": "gadamer-truth-method",
+                  "locator": "Truth and Method, historically effected consciousness",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "gadamer:evidence:006",
+                "titleZh": "SEP 对偏见和传统的概括",
+                "summaryZh": "SEP 说明伽达默尔重新评价偏见、权威和传统，主张它们是理解的条件而非单纯障碍。",
+                "source": {
+                  "workId": "gadamer-truth-method",
+                  "locator": "SEP Gadamer, prejudice, tradition, and historically effected consciousness",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "gadamer:claim:004",
+            "titleZh": "视域融合不是消除差异",
+            "claimZh": "理解通过文本和解释者视域的相互调整发生，而不是把过去完全同化为现在。",
+            "explanationZh": "视域融合保留距离、问题和异质性，使理解成为对话性过程，而非主体占有对象。",
+            "themeIds": [
+              "language",
+              "knowledge"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "gadamer:evidence:007",
+                "titleZh": "视域融合的解释结构",
+                "summaryZh": "《真理与方法》用视域融合说明解释者和文本传统在问题对话中形成新的理解范围，并保留历史距离的生产性。",
+                "source": {
+                  "workId": "gadamer-truth-method",
+                  "locator": "Truth and Method, fusion of horizons",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "gadamer:evidence:008",
+                "titleZh": "《哲学解释学》的语言对话延伸",
+                "summaryZh": "《哲学解释学》进一步把理解描述为语言中的对话事件，强调解释不是技术控制而是参与共同意义形成。",
+                "source": {
+                  "workId": "gadamer-philosophical-hermeneutics",
+                  "locator": "Philosophical Hermeneutics, essays on language and dialogue",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "gadamer:problem:003",
+        "titleZh": "语言为何是解释学的中心？",
+        "questionZh": "伽达默尔如何把语言性、对话和应用说明为理解的本体结构？",
+        "summaryZh": "伽达默尔认为能被理解的存在就是语言，解释不是先理解后应用，而是在语言对话中把意义带入当下处境。",
+        "themeIds": [
+          "language",
+          "metaphysics"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "gadamer:claim:005",
+            "titleZh": "理解本质上具有语言性",
+            "claimZh": "意义不是先在内心完成再被语言表达，而是在语言对话中成为可理解之物。",
+            "explanationZh": "这一命题把解释学推进到本体论层面，使语言不只是工具，而是世界向我们呈现的媒介。",
+            "themeIds": [
+              "language",
+              "metaphysics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "gadamer:evidence:009",
+                "titleZh": "《真理与方法》的语言部分",
+                "summaryZh": "《真理与方法》末部把语言置于解释学中心，说明理解、传统和世界经验都通过语言发生。",
+                "source": {
+                  "workId": "gadamer-truth-method",
+                  "locator": "Truth and Method, third part on language",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "gadamer:evidence:010",
+                "titleZh": "SEP 对语言性主张的说明",
+                "summaryZh": "SEP 概括伽达默尔哲学解释学的语言转向，指出语言不是附加媒介而是理解发生的基本场域。",
+                "source": {
+                  "workId": "gadamer-truth-method",
+                  "locator": "SEP Gadamer, language and hermeneutics",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "gadamer:claim:006",
+            "titleZh": "解释学在争论中显示边界",
+            "claimZh": "与哈贝马斯和德里达的争论显示，理解既需要传统和对话，也必须面对权力、断裂和差异问题。",
+            "explanationZh": "伽达默尔的影响并不在于消除批判理论或解构，而在于让这些对手都必须重新说明语言理解的历史条件。",
+            "themeIds": [
+              "language",
+              "politics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "gadamer:evidence:011",
+                "titleZh": "与哈贝马斯的方法论争",
+                "summaryZh": "伽达默尔与哈贝马斯围绕传统权威、意识形态批判和反思距离展开争论，使解释学进入社会批判问题。",
+                "source": {
+                  "workId": "gadamer-reason-age-science",
+                  "locator": "Reason in the Age of Science, hermeneutics and critique context",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "gadamer:evidence:012",
+                "titleZh": "与德里达的对谈接口",
+                "summaryZh": "伽达默尔与德里达的对话围绕理解意愿、文本差异和对话可能性展开，成为解释学与解构的重要交会点。",
+                "source": {
+                  "workId": "gadamer-philosophical-hermeneutics",
+                  "locator": "Gadamer-Derrida encounter, hermeneutics and deconstruction",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

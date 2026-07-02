@@ -1,0 +1,297 @@
+{
+  "id": "duns-scotus",
+  "names": {
+    "zh": "邓斯·司各脱",
+    "en": "John Duns Scotus"
+  },
+  "life": {
+    "birth": 1266,
+    "death": 1308,
+    "display": "约1266—1308"
+  },
+  "civilization": "latin_christian",
+  "traditions": [
+    "scholasticism",
+    "franciscan_theology",
+    "scotism"
+  ],
+  "periods": [
+    "expansion_e4"
+  ],
+  "themes": [
+    "metaphysics",
+    "religion",
+    "knowledge"
+  ],
+  "keywordsZh": [
+    "存在单义性",
+    "个体性",
+    "形式区别",
+    "意志优先",
+    "无染原罪"
+  ],
+  "oneLineZh": "以存在单义性、形式区别和个体性理论构成阿奎那与奥卡姆之间的经院哲学关键中环。",
+  "influenceWeight": 3,
+  "reviewStatus": "draft",
+  "summaryZh": "邓斯·司各脱在经院哲学内部重写形而上学、神学和认识论，主张存在以单义方式适用于神与受造物，发展形式区别和个体性理论，并以意志、自由和无染原罪辩护影响后来的奥卡姆及司各脱主义传统。",
+  "works": [
+    "scotus-ordinatio",
+    "scotus-lectura",
+    "scotus-reportatio-parisiensis",
+    "scotus-questions-metaphysics",
+    "scotus-treatise-first-principle",
+    "scotus-quodlibetal-questions"
+  ],
+  "sourceNotes": [
+    {
+      "label": "SEP",
+      "url": "https://plato.stanford.edu/entries/duns-scotus/",
+      "noteZh": "用于核对生平、主要著作、存在单义性、形式区别、个体性和神学争论。"
+    },
+    {
+      "label": "review",
+      "noteZh": "E4 批新增条目，重点连接阿奎那到奥卡姆的经院断链。"
+    }
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "scotus:problem:001",
+        "titleZh": "存在如何能同时适用于神和受造物？",
+        "questionZh": "司各脱如何以存在单义性重写经院形而上学和神学语言问题？",
+        "summaryZh": "司各脱主张存在概念以单义方式适用于神和受造物，否则关于神的论证和形而上学知识将失去共同概念基础。",
+        "themeIds": [
+          "metaphysics",
+          "religion"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "scotus:claim:001",
+            "titleZh": "存在概念必须具有单义核心",
+            "claimZh": "若存在对神和受造物完全异义，关于神存在的论证就无法在同一概念下推进。",
+            "explanationZh": "司各脱并不否认神与受造物无限差异，而是要求形而上学至少拥有可共同使用的存在概念。",
+            "themeIds": [
+              "metaphysics",
+              "religion"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "scotus:evidence:001",
+                "titleZh": "《牛津注疏》的存在单义性论证",
+                "summaryZh": "《牛津注疏》在神学和形而上学问题中论证存在概念必须有单义性，才能支撑关于神的自然知识。",
+                "source": {
+                  "workId": "scotus-ordinatio",
+                  "locator": "Ordinatio I, distinction 3, on univocity of being",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "scotus:evidence:002",
+                "titleZh": "SEP 对 univocity 的定位",
+                "summaryZh": "SEP 将存在单义性列为司各脱最重要的形而上学立场之一，并说明其服务于神学论证和科学性要求。",
+                "source": {
+                  "workId": "scotus-ordinatio",
+                  "locator": "SEP Duns Scotus, sections on univocity",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "scotus:claim:002",
+            "titleZh": "形而上学研究作为存在的存在",
+            "claimZh": "形而上学的对象不是某类特殊实体，而是作为存在的存在以及与其相随的属性。",
+            "explanationZh": "这使司各脱能够把亚里士多德形而上学、神学论证和概念科学统一在一个更抽象的对象层面。",
+            "themeIds": [
+              "metaphysics",
+              "knowledge"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "scotus:evidence:003",
+                "titleZh": "《形而上学问题集》的对象问题",
+                "summaryZh": "《亚里士多德〈形而上学〉问题集》讨论形而上学对象和存在属性，展示司各脱如何重组亚里士多德传统。",
+                "source": {
+                  "workId": "scotus-questions-metaphysics",
+                  "locator": "Questions on the Metaphysics, questions on the subject of metaphysics",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "scotus:evidence:004",
+                "titleZh": "《第一原理论》的第一原则论证",
+                "summaryZh": "《第一原理论》以概念化和因果次序论证第一存在者，显示单义存在概念如何进入神存在证明。",
+                "source": {
+                  "workId": "scotus-treatise-first-principle",
+                  "locator": "De Primo Principio, proof of a first principle",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "scotus:problem:002",
+        "titleZh": "个体性如何不是偶然附加物？",
+        "questionZh": "司各脱怎样用个体性和形式区别解释共相、个体和实在差异？",
+        "summaryZh": "司各脱认为个体不是共相加偶然性质的松散组合，而有使这个个体成为此个体的个体性原则，并用形式区别处理实在中可区分但不可分离的方面。",
+        "themeIds": [
+          "metaphysics",
+          "knowledge"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "scotus:claim:003",
+            "titleZh": "个体性具有正面原则",
+            "claimZh": "个体成为此个体并非只是质料或否定性限制，而需要正面的此性原则。",
+            "explanationZh": "此性理论让司各脱在共相实在论和个体唯一性之间建立中介，避免把个体化完全交给偶然条件。",
+            "themeIds": [
+              "metaphysics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "scotus:evidence:005",
+                "titleZh": "《牛津注疏》的个体化问题",
+                "summaryZh": "《牛津注疏》处理个体化原则时提出此性思路，说明共同本性如何在具体个体中被收缩为此物。",
+                "source": {
+                  "workId": "scotus-ordinatio",
+                  "locator": "Ordinatio II, distinction 3, individuation and haecceity",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "scotus:evidence:006",
+                "titleZh": "SEP 对 haecceity 的说明",
+                "summaryZh": "SEP 将此性和个体化列为司各脱的标志性理论，说明其用于解释共同本性与个体差异的关系。",
+                "source": {
+                  "workId": "scotus-ordinatio",
+                  "locator": "SEP Duns Scotus, section on individuation",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "scotus:claim:004",
+            "titleZh": "形式区别介于实在区别和理性区别之间",
+            "claimZh": "同一事物中可有并非纯主观、却也不能彼此分离的形式方面。",
+            "explanationZh": "形式区别使司各脱能分析神性属性、灵魂能力和形而上学属性，而不把复杂性变成实体组合。",
+            "themeIds": [
+              "metaphysics",
+              "religion"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "scotus:evidence:007",
+                "titleZh": "《任意问题集》的形式区别应用",
+                "summaryZh": "《任意问题集》在神学和形而上学争论中运用形式区别，处理属性差异而不破坏实体统一。",
+                "source": {
+                  "workId": "scotus-quodlibetal-questions",
+                  "locator": "Quodlibetal Questions, formal distinction applications",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "scotus:evidence:008",
+                "titleZh": "SEP 对 formal distinction 的概括",
+                "summaryZh": "SEP 说明形式区别是司各脱区分神性属性、共相结构和个体差异时的重要工具，并指出它介于实在区别与理性区别之间。",
+                "source": {
+                  "workId": "scotus-quodlibetal-questions",
+                  "locator": "SEP Duns Scotus, section on formal distinction",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "scotus:problem:003",
+        "titleZh": "自由和神学为何需要意志优先？",
+        "questionZh": "司各脱如何在伦理、神学和无染原罪争论中突出意志、自由和偶然性？",
+        "summaryZh": "司各脱强调意志的自我决定和同步偶然性，使自由不仅是理智判断的自然后果，也为神的自由创造和伦理责任提供空间。",
+        "themeIds": [
+          "freedom",
+          "religion",
+          "ethics"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "scotus:claim:005",
+            "titleZh": "意志具有自我决定能力",
+            "claimZh": "自由意志不能被理智对善的呈现完全决定，而能在相反可能性之间自我决定。",
+            "explanationZh": "这一立场让司各脱区别于更强理智主义路线，并为责任、功德和神的自由行动提供形而上基础。",
+            "themeIds": [
+              "freedom",
+              "ethics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "scotus:evidence:009",
+                "titleZh": "《牛津注疏》的意志自由论",
+                "summaryZh": "《牛津注疏》在意志和自由问题中强调相反可能性与同步偶然性，说明意志不是自然必然地跟随理智。",
+                "source": {
+                  "workId": "scotus-ordinatio",
+                  "locator": "Ordinatio II, will and synchronic contingency",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "scotus:evidence:010",
+                "titleZh": "SEP 对自由意志理论的定位",
+                "summaryZh": "SEP 将自由意志和同步偶然性列为司各脱哲学的关键贡献，说明其反对把意志化约为自然倾向。",
+                "source": {
+                  "workId": "scotus-ordinatio",
+                  "locator": "SEP Duns Scotus, will and freedom sections",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "scotus:claim:006",
+            "titleZh": "神学论证需要自由与秩序并存",
+            "claimZh": "神的自由意志和受造秩序并不互相排斥，正因秩序可由自由意志建立，偶然世界才可被理性研究。",
+            "explanationZh": "司各脱在神学、无染原罪和伦理命令问题中保持自由与理性之间的张力，影响后来的经院争论。",
+            "themeIds": [
+              "religion",
+              "freedom"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "scotus:evidence:011",
+                "titleZh": "《巴黎报告》的神学争论背景",
+                "summaryZh": "《巴黎报告》保存司各脱在巴黎语境下对意志、神学和命题集问题的成熟讨论，可补充牛津文本中的自由论证。",
+                "source": {
+                  "workId": "scotus-reportatio-parisiensis",
+                  "locator": "Reportatio Parisiensis, theological will and freedom discussions",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "scotus:evidence:012",
+                "titleZh": "SEP 对无染原罪和神学影响的说明",
+                "summaryZh": "SEP 说明司各脱以精细神学论证支持无染原罪，并将其自由和意志理论带入重要教义争论。",
+                "source": {
+                  "workId": "scotus-ordinatio",
+                  "locator": "SEP Duns Scotus, theology and immaculate conception",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

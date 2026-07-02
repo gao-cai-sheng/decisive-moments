@@ -4073,5 +4073,657 @@
     "oneLineZh": "以人的脆弱、理性的限度和信仰赌注重塑早期现代基督教护教与存在论感受。",
     "influenceWeight": 3,
     "reviewStatus": "draft"
+  },
+  {
+    "id": "peirce",
+    "names": {
+      "zh": "皮尔士",
+      "en": "Charles Sanders Peirce"
+    },
+    "life": {
+      "birth": 1839,
+      "death": 1914,
+      "display": "1839—1914"
+    },
+    "civilization": "american_modern",
+    "traditions": [
+      "american_pragmatism",
+      "semiotics",
+      "logic"
+    ],
+    "periods": [
+      "expansion_e2"
+    ],
+    "themes": [
+      "knowledge",
+      "language",
+      "metaphysics"
+    ],
+    "keywordsZh": [
+      "实用主义",
+      "符号学",
+      "溯因",
+      "范畴",
+      "科学共同体"
+    ],
+    "oneLineZh": "以探究逻辑、实用主义准则和三元符号学奠定美国实用主义的科学形态。",
+    "influenceWeight": 3,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "james",
+    "names": {
+      "zh": "威廉·詹姆斯",
+      "en": "William James"
+    },
+    "life": {
+      "birth": 1842,
+      "death": 1910,
+      "display": "1842—1910"
+    },
+    "civilization": "american_modern",
+    "traditions": [
+      "american_pragmatism",
+      "radical_empiricism",
+      "psychology"
+    ],
+    "periods": [
+      "expansion_e2"
+    ],
+    "themes": [
+      "knowledge",
+      "religion",
+      "freedom"
+    ],
+    "keywordsZh": [
+      "意识流",
+      "实用主义",
+      "信仰意志",
+      "宗教经验",
+      "多元宇宙"
+    ],
+    "oneLineZh": "把心理学、宗教经验、自由意志和实用主义真理观连接成经验多元论。",
+    "influenceWeight": 3,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "du-bois",
+    "names": {
+      "zh": "杜波依斯",
+      "en": "W. E. B. Du Bois"
+    },
+    "life": {
+      "birth": 1868,
+      "death": 1963,
+      "display": "1868—1963"
+    },
+    "civilization": "american_modern",
+    "traditions": [
+      "afro_modern_political_thought",
+      "sociology",
+      "critical_race_thought"
+    ],
+    "periods": [
+      "expansion_e2"
+    ],
+    "themes": [
+      "justice",
+      "politics",
+      "knowledge"
+    ],
+    "keywordsZh": [
+      "色线",
+      "双重意识",
+      "面纱",
+      "废奴民主",
+      "黑色重建"
+    ],
+    "oneLineZh": "以双重意识、色线和废奴民主把种族经验推进为现代政治哲学和社会科学问题。",
+    "influenceWeight": 3,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "moore",
+    "names": {
+      "zh": "G. E. 摩尔",
+      "en": "George Edward Moore"
+    },
+    "life": {
+      "birth": 1873,
+      "death": 1958,
+      "display": "1873—1958"
+    },
+    "civilization": "european_modern",
+    "traditions": [
+      "analytic_philosophy",
+      "ethical_non_naturalism",
+      "common_sense_realism"
+    ],
+    "periods": [
+      "expansion_e2"
+    ],
+    "themes": [
+      "ethics",
+      "knowledge",
+      "metaphysics"
+    ],
+    "keywordsZh": [
+      "自然主义谬误",
+      "善不可定义",
+      "反观念论",
+      "常识",
+      "外部世界"
+    ],
+    "oneLineZh": "以伦理非自然主义、反观念论和常识实在论推动剑桥分析哲学成形。",
+    "influenceWeight": 3,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "popper",
+    "names": {
+      "zh": "波普尔",
+      "en": "Karl Popper"
+    },
+    "life": {
+      "birth": 1902,
+      "death": 1994,
+      "display": "1902—1994"
+    },
+    "civilization": "european_modern",
+    "traditions": [
+      "philosophy_of_science",
+      "critical_rationalism",
+      "liberal_political_philosophy"
+    ],
+    "periods": [
+      "expansion_e3"
+    ],
+    "themes": [
+      "knowledge",
+      "politics",
+      "metaphysics"
+    ],
+    "keywordsZh": [
+      "可证伪性",
+      "批判理性主义",
+      "开放社会",
+      "历史主义批判",
+      "客观知识"
+    ],
+    "oneLineZh": "以可证伪性、批判理性主义和开放社会论重塑二十世纪科学哲学与政治哲学。",
+    "influenceWeight": 3,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "kuhn",
+    "names": {
+      "zh": "库恩",
+      "en": "Thomas Kuhn"
+    },
+    "life": {
+      "birth": 1922,
+      "death": 1996,
+      "display": "1922—1996"
+    },
+    "civilization": "american_modern",
+    "traditions": [
+      "philosophy_of_science",
+      "history_of_science",
+      "post_positivism"
+    ],
+    "periods": [
+      "expansion_e3"
+    ],
+    "themes": [
+      "knowledge",
+      "language",
+      "metaphysics"
+    ],
+    "keywordsZh": [
+      "范式",
+      "常规科学",
+      "科学革命",
+      "不可通约性",
+      "历史科学哲学"
+    ],
+    "oneLineZh": "以范式、常规科学和科学革命改写科学进步的历史哲学图景。",
+    "influenceWeight": 3,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "dilthey",
+    "names": {
+      "zh": "狄尔泰",
+      "en": "Wilhelm Dilthey"
+    },
+    "life": {
+      "birth": 1833,
+      "death": 1911,
+      "display": "1833—1911"
+    },
+    "civilization": "european_modern",
+    "traditions": [
+      "hermeneutics",
+      "life_philosophy",
+      "historicism"
+    ],
+    "periods": [
+      "expansion_e3"
+    ],
+    "themes": [
+      "knowledge",
+      "life_death",
+      "language"
+    ],
+    "keywordsZh": [
+      "精神科学",
+      "理解",
+      "体验",
+      "历史世界",
+      "世界观"
+    ],
+    "oneLineZh": "以精神科学、体验和理解理论把历史生命世界纳入哲学方法论。",
+    "influenceWeight": 3,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "gadamer",
+    "names": {
+      "zh": "伽达默尔",
+      "en": "Hans-Georg Gadamer"
+    },
+    "life": {
+      "birth": 1900,
+      "death": 2002,
+      "display": "1900—2002"
+    },
+    "civilization": "european_modern",
+    "traditions": [
+      "philosophical_hermeneutics",
+      "continental_philosophy",
+      "phenomenology"
+    ],
+    "periods": [
+      "expansion_e3"
+    ],
+    "themes": [
+      "language",
+      "knowledge",
+      "aesthetics"
+    ],
+    "keywordsZh": [
+      "哲学解释学",
+      "效果历史",
+      "视域融合",
+      "语言",
+      "真理与方法"
+    ],
+    "oneLineZh": "以效果历史、视域融合和语言性把解释学从方法论扩展为哲学本体论。",
+    "influenceWeight": 3,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "jaspers",
+    "names": {
+      "zh": "雅斯贝尔斯",
+      "en": "Karl Jaspers"
+    },
+    "life": {
+      "birth": 1883,
+      "death": 1969,
+      "display": "1883—1969"
+    },
+    "civilization": "european_modern",
+    "traditions": [
+      "existenzphilosophie",
+      "phenomenology",
+      "political_philosophy"
+    ],
+    "periods": [
+      "expansion_e3"
+    ],
+    "themes": [
+      "freedom",
+      "religion",
+      "politics"
+    ],
+    "keywordsZh": [
+      "生存",
+      "界限处境",
+      "包围者",
+      "轴心时代",
+      "罪责问题"
+    ],
+    "oneLineZh": "以生存哲学、界限处境和轴心时代思想连接克尔凯郭尔、尼采、海德格尔与阿伦特。",
+    "influenceWeight": 3,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "sextus-empiricus",
+    "names": {
+      "zh": "塞克斯都·恩披里柯",
+      "en": "Sextus Empiricus"
+    },
+    "life": {
+      "birth": 160,
+      "death": 210,
+      "display": "约2世纪末—3世纪初"
+    },
+    "civilization": "ancient_greek",
+    "traditions": [
+      "pyrrhonism",
+      "ancient_skepticism",
+      "empiric_medicine"
+    ],
+    "periods": [
+      "expansion_e4"
+    ],
+    "themes": [
+      "knowledge",
+      "ethics",
+      "life_death"
+    ],
+    "keywordsZh": [
+      "悬搁判断",
+      "等势论证",
+      "宁静",
+      "皮浪主义",
+      "反独断论"
+    ],
+    "oneLineZh": "以《皮浪主义纲要》和《反学者》保存古代皮浪主义，并成为近代怀疑论复兴的文本枢纽。",
+    "influenceWeight": 3,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "duns-scotus",
+    "names": {
+      "zh": "邓斯·司各脱",
+      "en": "John Duns Scotus"
+    },
+    "life": {
+      "birth": 1266,
+      "death": 1308,
+      "display": "约1266—1308"
+    },
+    "civilization": "latin_christian",
+    "traditions": [
+      "scholasticism",
+      "franciscan_theology",
+      "scotism"
+    ],
+    "periods": [
+      "expansion_e4"
+    ],
+    "themes": [
+      "metaphysics",
+      "religion",
+      "knowledge"
+    ],
+    "keywordsZh": [
+      "存在单义性",
+      "个体性",
+      "形式区别",
+      "意志优先",
+      "无染原罪"
+    ],
+    "oneLineZh": "以存在单义性、形式区别和个体性理论构成阿奎那与奥卡姆之间的经院哲学关键中环。",
+    "influenceWeight": 3,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "al-kindi",
+    "names": {
+      "zh": "肯迪",
+      "en": "al-Kindi",
+      "native": "Yaʿqūb ibn Isḥāq al-Kindī"
+    },
+    "life": {
+      "birth": 801,
+      "death": 873,
+      "display": "约801—873"
+    },
+    "civilization": "islamic",
+    "traditions": [
+      "islamic_peripateticism",
+      "arabic_philosophy",
+      "translation_movement"
+    ],
+    "periods": [
+      "expansion_e4"
+    ],
+    "themes": [
+      "metaphysics",
+      "knowledge",
+      "religion"
+    ],
+    "keywordsZh": [
+      "阿拉伯哲学",
+      "第一哲学",
+      "翻译运动",
+      "理智",
+      "创造"
+    ],
+    "oneLineZh": "作为阿拉伯哲学源头人物，把希腊哲学翻译运动、第一哲学和伊斯兰一神论组织到同一项目中。",
+    "influenceWeight": 3,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "suhrawardi",
+    "names": {
+      "zh": "苏赫拉瓦迪",
+      "en": "Shihab al-Din Suhrawardi",
+      "native": "Shihāb al-Dīn Yaḥyā al-Suhrawardī"
+    },
+    "life": {
+      "birth": 1154,
+      "death": 1191,
+      "display": "1154—1191"
+    },
+    "civilization": "islamic",
+    "traditions": [
+      "illuminationism",
+      "islamic_philosophy",
+      "persian_philosophy"
+    ],
+    "periods": [
+      "expansion_e4"
+    ],
+    "themes": [
+      "metaphysics",
+      "knowledge",
+      "religion"
+    ],
+    "keywordsZh": [
+      "照明哲学",
+      "光",
+      "临现知识",
+      "伊本·西那批判",
+      "东方哲学"
+    ],
+    "oneLineZh": "以照明哲学把伊本·西那传统、柏拉图主义光形而上学和临现知识改造成伊斯兰哲学新路线。",
+    "influenceWeight": 3,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "ibn-arabi",
+    "names": {
+      "zh": "伊本·阿拉比",
+      "en": "Ibn ʿArabi",
+      "native": "Muḥyī al-Dīn Ibn ʿArabī"
+    },
+    "life": {
+      "birth": 1165,
+      "death": 1240,
+      "display": "1165—1240"
+    },
+    "civilization": "islamic",
+    "traditions": [
+      "sufism",
+      "islamic_metaphysics",
+      "akbarian_school"
+    ],
+    "periods": [
+      "expansion_e4"
+    ],
+    "themes": [
+      "religion",
+      "metaphysics",
+      "life_death"
+    ],
+    "keywordsZh": [
+      "存在一性",
+      "完人",
+      "想象",
+      "神名",
+      "麦加启示"
+    ],
+    "oneLineZh": "以存在一性、完人、想象和神名理论塑造伊斯兰神秘形而上学，并深刻影响穆拉·萨德拉。",
+    "influenceWeight": 3,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "han-feizi",
+    "names": {
+      "zh": "韩非子",
+      "en": "Han Fei"
+    },
+    "life": {
+      "birth": -280,
+      "death": -233,
+      "display": "约前280—前233"
+    },
+    "civilization": "chinese",
+    "traditions": [
+      "legalism",
+      "warring_states_thought",
+      "chinese_political_philosophy"
+    ],
+    "periods": [
+      "expansion_e5"
+    ],
+    "themes": [
+      "politics",
+      "justice",
+      "language"
+    ],
+    "keywordsZh": [
+      "法",
+      "术",
+      "势",
+      "刑名",
+      "君主集权"
+    ],
+    "oneLineZh": "综合法、术、势与刑名之学，构成战国末期法家政治哲学的系统表达。",
+    "influenceWeight": 3,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "huineng",
+    "names": {
+      "zh": "慧能",
+      "en": "Huineng"
+    },
+    "life": {
+      "birth": 638,
+      "death": 713,
+      "display": "638—713"
+    },
+    "civilization": "chinese",
+    "traditions": [
+      "chan_buddhism",
+      "mahayana_buddhism",
+      "sudden_enlightenment"
+    ],
+    "periods": [
+      "expansion_e5"
+    ],
+    "themes": [
+      "religion",
+      "knowledge",
+      "freedom"
+    ],
+    "keywordsZh": [
+      "顿悟",
+      "无念",
+      "自性",
+      "定慧不二",
+      "坛经"
+    ],
+    "oneLineZh": "以《坛经》中的顿悟、自性、无念和定慧不二塑造中国禅宗南宗经典形象。",
+    "influenceWeight": 3,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "zhang-zai",
+    "names": {
+      "zh": "张载",
+      "en": "Zhang Zai"
+    },
+    "life": {
+      "birth": 1020,
+      "death": 1077,
+      "display": "1020—1077"
+    },
+    "civilization": "chinese",
+    "traditions": [
+      "neo_confucianism",
+      "qi_monism",
+      "song_learning"
+    ],
+    "periods": [
+      "expansion_e5"
+    ],
+    "themes": [
+      "metaphysics",
+      "ethics",
+      "politics"
+    ],
+    "keywordsZh": [
+      "气",
+      "太虚",
+      "民胞物与",
+      "横渠四句",
+      "正蒙"
+    ],
+    "oneLineZh": "以太虚即气、民胞物与和成德工夫奠定北宋道学气本论传统。",
+    "influenceWeight": 3,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "dignaga",
+    "names": {
+      "zh": "陈那",
+      "en": "Dignāga",
+      "native": "Dignāga / Diṅnāga"
+    },
+    "life": {
+      "birth": 480,
+      "death": 540,
+      "display": "约480—540"
+    },
+    "civilization": "indian",
+    "traditions": [
+      "buddhist_epistemology",
+      "yogacara",
+      "indian_logic"
+    ],
+    "periods": [
+      "expansion_e5"
+    ],
+    "themes": [
+      "knowledge",
+      "language",
+      "metaphysics"
+    ],
+    "keywordsZh": [
+      "量论",
+      "现量",
+      "比量",
+      "因明",
+      "遮诠"
+    ],
+    "oneLineZh": "以《集量论》奠定佛教量论，把有效认知限定为现量与比量，并提出遮诠语言理论。",
+    "influenceWeight": 3,
+    "reviewStatus": "draft"
   }
 ]

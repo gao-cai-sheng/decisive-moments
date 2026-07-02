@@ -1,0 +1,295 @@
+{
+  "id": "moore",
+  "names": {
+    "zh": "G. E. 摩尔",
+    "en": "George Edward Moore"
+  },
+  "life": {
+    "birth": 1873,
+    "death": 1958,
+    "display": "1873—1958"
+  },
+  "civilization": "european_modern",
+  "traditions": [
+    "analytic_philosophy",
+    "ethical_non_naturalism",
+    "common_sense_realism"
+  ],
+  "periods": [
+    "expansion_e2"
+  ],
+  "themes": [
+    "ethics",
+    "knowledge",
+    "metaphysics"
+  ],
+  "keywordsZh": [
+    "自然主义谬误",
+    "善不可定义",
+    "反观念论",
+    "常识",
+    "外部世界"
+  ],
+  "oneLineZh": "以伦理非自然主义、反观念论和常识实在论推动剑桥分析哲学成形。",
+  "influenceWeight": 3,
+  "reviewStatus": "draft",
+  "summaryZh": "G. E. 摩尔从反观念论和命题分析出发，主张善不可由自然属性定义，并以常识命题和外部世界证明反击怀疑论；他对罗素、维特根斯坦和分析哲学的形成具有关键作用。",
+  "works": [
+    "moore-nature-judgment",
+    "moore-refutation-idealism",
+    "moore-principia-ethica",
+    "moore-ethics",
+    "moore-philosophical-studies",
+    "moore-defence-common-sense",
+    "moore-proof-external-world"
+  ],
+  "sourceNotes": [
+    {
+      "label": "SEP",
+      "url": "https://plato.stanford.edu/entries/moore/",
+      "noteZh": "用于核对摩尔反观念论、伦理学、哲学分析、常识和外部世界论证。"
+    },
+    {
+      "label": "review",
+      "noteZh": "E2 批新增条目，重点连接弗雷格、罗素、维特根斯坦与早期分析哲学。"
+    }
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "moore:problem:001",
+        "titleZh": "善为什么不能被自然属性定义？",
+        "questionZh": "摩尔如何用善不可定义和自然主义谬误重塑二十世纪元伦理学？",
+        "summaryZh": "摩尔在《伦理学原理》中反对把善等同于快乐、欲望或进化结果，认为善是不可分析的基本价值概念。",
+        "themeIds": [
+          "ethics"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "moore:claim:001",
+            "titleZh": "善是不可分析的简单概念",
+            "claimZh": "善不能被还原为任何自然属性或心理属性，否则仍可有意义地追问该属性是否真的善。",
+            "explanationZh": "摩尔由此把伦理学从自然科学和形而上学化约中区分出来，为元伦理学的开放问题和非自然主义奠基。",
+            "themeIds": [
+              "ethics",
+              "metaphysics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "moore:evidence:001",
+                "titleZh": "《伦理学原理》的善不可定义论",
+                "summaryZh": "《伦理学原理》开篇论证善是伦理学的基本不可分析对象，不能通过快乐、欲望或自然事实给出定义。",
+                "source": {
+                  "workId": "moore-principia-ethica",
+                  "locator": "Principia Ethica, chapters 1–2 on indefinability of good",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "moore:evidence:002",
+                "titleZh": "SEP 对善不可定义的概括",
+                "summaryZh": "SEP 说明摩尔反对把 goodness 用自然术语定义，主张伦理学作为自主科学不可还原为自然科学或形而上学。",
+                "source": {
+                  "workId": "moore-principia-ethica",
+                  "locator": "SEP Moore, section 3 Principia Ethica",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "moore:claim:002",
+            "titleZh": "自然主义谬误批评伦理化约",
+            "claimZh": "把善定义为快乐、欲望满足或进化适应，混淆了某物具有某性质与该性质就是善本身。",
+            "explanationZh": "自然主义谬误不是拒绝经验研究行动后果，而是拒绝用经验属性替代价值概念本身的意义。",
+            "themeIds": [
+              "ethics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "moore:evidence:003",
+                "titleZh": "自然主义谬误的核心段落",
+                "summaryZh": "《伦理学原理》前三章集中批评伦理自然主义，认为用自然属性定义善会犯自然主义谬误。",
+                "source": {
+                  "workId": "moore-principia-ethica",
+                  "locator": "Principia Ethica, chapters 1–3 on naturalistic ethics",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "moore:evidence:004",
+                "titleZh": "SEP 对自然主义谬误的解释",
+                "summaryZh": "SEP 指出摩尔把伦理自然主义的核心错误概括为把善定义为快乐、欲望或进化过程等自然术语。",
+                "source": {
+                  "workId": "moore-principia-ethica",
+                  "locator": "SEP Moore, section 3 on naturalistic fallacy",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "moore:problem:002",
+        "titleZh": "分析哲学如何摆脱观念论？",
+        "questionZh": "摩尔如何通过命题、概念和意识对象的区分反击英国观念论？",
+        "summaryZh": "摩尔早期从判断、意义和感觉经验入手，强调概念和对象不依赖于被思想或被经验，从而帮助剑桥哲学转向分析实在论。",
+        "themeIds": [
+          "knowledge",
+          "metaphysics",
+          "language"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "moore:claim:003",
+            "titleZh": "命题和概念不是心理内容",
+            "claimZh": "判断的对象不能被化约为内在心理表象，概念和命题具有可被思想但不依赖思想的客观性。",
+            "explanationZh": "这一反心理主义立场使分析哲学能够把意义、真理和命题结构作为公共对象研究，而不陷入主观观念论。",
+            "themeIds": [
+              "knowledge",
+              "language"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "moore:evidence:005",
+                "titleZh": "《判断的性质》的命题实在论",
+                "summaryZh": "《判断的性质》把概念和命题同心理表象区分开，主张真命题不是主观内容而是可思想的客观事实结构。",
+                "source": {
+                  "workId": "moore-nature-judgment",
+                  "locator": "The Nature of Judgment, Mind 1899",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "moore:evidence:006",
+                "titleZh": "SEP 对早期意义论的说明",
+                "summaryZh": "SEP 说明摩尔在《判断的性质》中反对布拉德雷式意义观，认为概念完全非心理学并进入命题结构。",
+                "source": {
+                  "workId": "moore-nature-judgment",
+                  "locator": "SEP Moore, section 2 The Refutation of Idealism",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "moore:claim:004",
+            "titleZh": "意识不吞并其对象",
+            "claimZh": "经验中的蓝色等对象不能被说成只是意识内容；意识和被意识到的对象必须区分。",
+            "explanationZh": "摩尔用这种透明性分析打击存在即被经验的观念论倾向，保留经验对象相对于意识行为的独立性。",
+            "themeIds": [
+              "metaphysics",
+              "knowledge"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "moore:evidence:007",
+                "titleZh": "《观念论的反驳》的蓝色例子",
+                "summaryZh": "《观念论的反驳》通过蓝色感觉说明意识活动和被意识到的对象不是同一个东西，对象不能被还原为经验内容。",
+                "source": {
+                  "workId": "moore-refutation-idealism",
+                  "locator": "The Refutation of Idealism, sensation of blue argument",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "moore:evidence:008",
+                "titleZh": "SEP 对反观念论论证的概括",
+                "summaryZh": "SEP 指出摩尔在《观念论的反驳》中把意识与对象的强区分扩展到感觉经验，以批判英国观念论。",
+                "source": {
+                  "workId": "moore-refutation-idealism",
+                  "locator": "SEP Moore, section 2 The Refutation of Idealism",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "moore:problem:003",
+        "titleZh": "常识能否抵抗怀疑论？",
+        "questionZh": "摩尔如何用常识真理、外部世界证明和分析区分来处理怀疑论挑战？",
+        "summaryZh": "摩尔不把常识当作完整体系，而是列举我们确知的平凡命题，并认为哲学分析可以很激进，但不能否认这些知识事实。",
+        "themeIds": [
+          "knowledge"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "moore:claim:005",
+            "titleZh": "常识命题具有反怀疑力量",
+            "claimZh": "我有身体、地球早在我出生前存在等平凡命题，是哲学理论必须解释而非轻易否认的知识。",
+            "explanationZh": "摩尔的常识实在论把证明负担转回怀疑论和观念论，要求它们说明为什么明显知识会被理论取消。",
+            "themeIds": [
+              "knowledge",
+              "metaphysics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "moore:evidence:009",
+                "titleZh": "《常识的辩护》的平凡真理清单",
+                "summaryZh": "《常识的辩护》列出身体、过去世界和他人存在等平凡真理，并主张自己和他人都确知这些命题。",
+                "source": {
+                  "workId": "moore-defence-common-sense",
+                  "locator": "A Defence of Common Sense, list of truisms",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "moore:evidence:010",
+                "titleZh": "SEP 对常识立场的概括",
+                "summaryZh": "SEP 指出摩尔把普通常识世界观视为大体正确，并用若干 truisms 对抗否认外部世界知识的哲学立场。",
+                "source": {
+                  "workId": "moore-defence-common-sense",
+                  "locator": "SEP Moore, section 6 Common Sense and Certainty",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "moore:claim:006",
+            "titleZh": "外部世界证明依赖已知实例",
+            "claimZh": "证明外部对象存在不必先击败所有怀疑论场景，只需给出确知的外部对象实例。",
+            "explanationZh": "摩尔举手式证明故意显得朴素，却迫使怀疑论解释为何抽象怀疑比日常确知更有权威。",
+            "themeIds": [
+              "knowledge"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "moore:evidence:011",
+                "titleZh": "《外部世界的证明》的举手策略",
+                "summaryZh": "《外部世界的证明》把手这样的外部对象作为实例，试图以已知前提直接推出外部世界中至少有外部对象。",
+                "source": {
+                  "workId": "moore-proof-external-world",
+                  "locator": "Proof of an External World, British Academy lecture 1939",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "moore:evidence:012",
+                "titleZh": "SEP 对外部世界证明的说明",
+                "summaryZh": "SEP 说明摩尔在 1939 年讲演中试图完成康德意义上的外部对象证明，并以具体外部物实例推进论证。",
+                "source": {
+                  "workId": "moore-proof-external-world",
+                  "locator": "SEP Moore, section 6 on Proof of an External World",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

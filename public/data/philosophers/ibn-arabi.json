@@ -1,0 +1,299 @@
+{
+  "id": "ibn-arabi",
+  "names": {
+    "zh": "伊本·阿拉比",
+    "en": "Ibn ʿArabi",
+    "native": "Muḥyī al-Dīn Ibn ʿArabī"
+  },
+  "life": {
+    "birth": 1165,
+    "death": 1240,
+    "display": "1165—1240"
+  },
+  "civilization": "islamic",
+  "traditions": [
+    "sufism",
+    "islamic_metaphysics",
+    "akbarian_school"
+  ],
+  "periods": [
+    "expansion_e4"
+  ],
+  "themes": [
+    "religion",
+    "metaphysics",
+    "life_death"
+  ],
+  "keywordsZh": [
+    "存在一性",
+    "完人",
+    "想象",
+    "神名",
+    "麦加启示"
+  ],
+  "oneLineZh": "以存在一性、完人、想象和神名理论塑造伊斯兰神秘形而上学，并深刻影响穆拉·萨德拉。",
+  "influenceWeight": 3,
+  "reviewStatus": "draft",
+  "summaryZh": "伊本·阿拉比是伊斯兰苏非形而上学最具影响力的作者之一，他以存在、显现、神名、想象和完人理论解释神与世界的关系；其庞大文本传统经阿克巴里学派进入后期伊斯兰哲学并影响穆拉·萨德拉。",
+  "works": [
+    "ibnarabi-meccan-openings",
+    "ibnarabi-ringstones-wisdom",
+    "ibnarabi-tarjuman-ashwaq",
+    "ibnarabi-insha-al-dawair",
+    "ibnarabi-uqlat-mustawfiz",
+    "ibnarabi-book-annihilation"
+  ],
+  "sourceNotes": [
+    {
+      "label": "SEP",
+      "url": "https://plato.stanford.edu/entries/ibn-arabi/",
+      "noteZh": "用于核对生平、主要著作、存在、神名、想象、完人和后世影响。"
+    },
+    {
+      "label": "review",
+      "noteZh": "E4 批新增条目，重点连接伊斯兰神秘主义与穆拉·萨德拉存在论。"
+    }
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "ibnarabi:problem:001",
+        "titleZh": "存在如何是神性显现？",
+        "questionZh": "伊本·阿拉比如何用存在、显现和神名解释神与世界的关系？",
+        "summaryZh": "伊本·阿拉比把世界理解为神名和神性可能性的显现，存在不是普通属性，而是理解神、世界和人的根本问题。",
+        "themeIds": [
+          "metaphysics",
+          "religion"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "ibnarabi:claim:001",
+            "titleZh": "世界是神名显现的场域",
+            "claimZh": "受造世界不是与神并列的独立实在，而是神名和神性关系在不同层级中的显现。",
+            "explanationZh": "这一立场后来常被概括为存在一性，但在伊本·阿拉比那里更准确地表现为显现、关系和神名的复杂网络。",
+            "themeIds": [
+              "metaphysics",
+              "religion"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "ibnarabi:evidence:001",
+                "titleZh": "《麦加启示》的神名宇宙论",
+                "summaryZh": "《麦加启示》反复通过神名、宇宙等级和灵修道路说明世界如何作为神性显现被理解，并连接实践修行。",
+                "source": {
+                  "workId": "ibnarabi-meccan-openings",
+                  "locator": "al-Futuhat al-Makkiyya, divine names and cosmology",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "ibnarabi:evidence:002",
+                "titleZh": "SEP 对存在和显现主题的概括",
+                "summaryZh": "SEP 将存在、神名和显现列为伊本·阿拉比思想核心，并提醒后世术语不能简单替代其文本复杂性。",
+                "source": {
+                  "workId": "ibnarabi-meccan-openings",
+                  "locator": "SEP Ibn Arabi, being and divine names sections",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "ibnarabi:claim:002",
+            "titleZh": "完人汇聚宇宙和神名",
+            "claimZh": "完人不是普通道德榜样，而是汇聚神名、宇宙层级和认识可能性的镜像中心。",
+            "explanationZh": "完人理论使人类主体成为宇宙论和神学的交叉点，也解释先知智慧为何能呈现不同神性面向。",
+            "themeIds": [
+              "religion",
+              "life_death"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "ibnarabi:evidence:003",
+                "titleZh": "《智慧宝石》的先知智慧结构",
+                "summaryZh": "《智慧宝石》通过不同先知呈现神性智慧，集中展示完人、神名和显现形式之间的关系，成为后世注疏核心。",
+                "source": {
+                  "workId": "ibnarabi-ringstones-wisdom",
+                  "locator": "Fusus al-Hikam, prophetic wisdoms and perfect human",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "ibnarabi:evidence:004",
+                "titleZh": "SEP 对完人主题的说明",
+                "summaryZh": "SEP 说明完人在伊本·阿拉比思想中连接宇宙、神名和人类认识，是后世阿克巴里传统核心概念。",
+                "source": {
+                  "workId": "ibnarabi-ringstones-wisdom",
+                  "locator": "SEP Ibn Arabi, perfect human and cosmology",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ibnarabi:problem:002",
+        "titleZh": "想象为何具有本体论地位？",
+        "questionZh": "伊本·阿拉比如何把想象、象征和爱纳入认识神与世界的结构？",
+        "summaryZh": "伊本·阿拉比认为想象不是虚假心理影像，而是连接可见与不可见、有限与无限的中介域，使象征和诗成为真实知识形式。",
+        "themeIds": [
+          "knowledge",
+          "aesthetics",
+          "religion"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "ibnarabi:claim:003",
+            "titleZh": "想象连接相反层级",
+            "claimZh": "想象界能让精神成为形象、形象承载精神，因此是理解启示、梦、象征和宇宙显现的关键。",
+            "explanationZh": "这使伊本·阿拉比的形而上学不只是抽象存在论，也包含诗性、图像和经验转化。",
+            "themeIds": [
+              "knowledge",
+              "religion"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "ibnarabi:evidence:005",
+                "titleZh": "《麦加启示》的想象理论",
+                "summaryZh": "《麦加启示》用想象解释梦、启示图像和中间世界，赋予象征经验真实认识地位，并超出主观幻想。",
+                "source": {
+                  "workId": "ibnarabi-meccan-openings",
+                  "locator": "al-Futuhat al-Makkiyya, imagination and imaginal world",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "ibnarabi:evidence:006",
+                "titleZh": "SEP 对想象地位的概括",
+                "summaryZh": "SEP 强调想象在伊本·阿拉比思想中具有本体论和认识论意义，不只是主观幻想，而是连接可见与不可见的中介。",
+                "source": {
+                  "workId": "ibnarabi-meccan-openings",
+                  "locator": "SEP Ibn Arabi, imagination sections",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "ibnarabi:claim:004",
+            "titleZh": "爱和诗可承载形而上学",
+            "claimZh": "爱诗和象征语言能够表达神性显现与人类欲望之间的深层关系，而不只是文学装饰。",
+            "explanationZh": "伊本·阿拉比的诗学说明哲学、神秘经验和美学表达在苏非传统中可以相互转化。",
+            "themeIds": [
+              "aesthetics",
+              "religion"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "ibnarabi:evidence:007",
+                "titleZh": "《热望的译者》的诗与自注",
+                "summaryZh": "《热望的译者》以爱情诗和作者自注展示感性形象如何被解释为神秘和形而上意义，使诗学进入认识结构。",
+                "source": {
+                  "workId": "ibnarabi-tarjuman-ashwaq",
+                  "locator": "Tarjuman al-Ashwaq, poems and mystical commentary",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "ibnarabi:evidence:008",
+                "titleZh": "《观照中的消融之书》的主体转化",
+                "summaryZh": "《观照中的消融之书》围绕观照中的自我消融展开，说明灵性经验如何改变主体与神的关系。",
+                "source": {
+                  "workId": "ibnarabi-book-annihilation",
+                  "locator": "Kitab al-Fana fi al-Mushahada, annihilation in contemplation",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ibnarabi:problem:003",
+        "titleZh": "阿克巴里传统如何影响后期伊斯兰哲学？",
+        "questionZh": "伊本·阿拉比的存在论和宇宙论怎样进入穆拉·萨德拉等后期思想综合？",
+        "summaryZh": "伊本·阿拉比的著作经弟子、注疏和阿克巴里传统传播，其存在、神名、想象和完人理论成为后期哲学与神秘主义综合的重要资源。",
+        "themeIds": [
+          "religion",
+          "metaphysics"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "ibnarabi:claim:005",
+            "titleZh": "阿克巴里传统是一套解释网络",
+            "claimZh": "伊本·阿拉比的影响不是单本著作线性传播，而是通过注疏、术语和灵修共同体形成解释传统。",
+            "explanationZh": "这解释了为何他能在哲学、神学、诗学和苏非实践中同时发挥作用，并被不同后世体系重新组织。",
+            "themeIds": [
+              "religion",
+              "language"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "ibnarabi:evidence:009",
+                "titleZh": "《麦加启示》的百科全书式结构",
+                "summaryZh": "《麦加启示》规模庞大，涵盖宇宙论、法、灵修、神名和知识等级，为后世注释传统提供巨大材料库。",
+                "source": {
+                  "workId": "ibnarabi-meccan-openings",
+                  "locator": "al-Futuhat al-Makkiyya, encyclopedic structure",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "ibnarabi:evidence:010",
+                "titleZh": "SEP 对后世影响的说明",
+                "summaryZh": "SEP 说明伊本·阿拉比影响广泛且复杂，后来的阿克巴里传统和伊斯兰哲学不断重释其核心术语。",
+                "source": {
+                  "workId": "ibnarabi-meccan-openings",
+                  "locator": "SEP Ibn Arabi, influence and school",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "ibnarabi:claim:006",
+            "titleZh": "穆拉·萨德拉综合吸收存在显现问题",
+            "claimZh": "后期伊朗哲学把伊本·阿拉比关于存在和显现的主题同伊本·西那、照明哲学结合，形成新的存在论综合。",
+            "explanationZh": "因此伊本·阿拉比是连接苏非形而上学与哲学存在论的关键断链，而不仅是宗教神秘主义者。",
+            "themeIds": [
+              "metaphysics",
+              "religion"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "ibnarabi:evidence:011",
+                "titleZh": "《智慧宝石》的存在论浓缩",
+                "summaryZh": "《智慧宝石》以高度浓缩的先知智慧结构呈现存在、显现和完人理论，成为后世注疏和哲学吸收的核心文本。",
+                "source": {
+                  "workId": "ibnarabi-ringstones-wisdom",
+                  "locator": "Fusus al-Hikam, later commentary tradition",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "ibnarabi:evidence:012",
+                "titleZh": "《圆圈的生成》的宇宙图式",
+                "summaryZh": "《圆圈的生成》用图式化宇宙论处理存在等级和人类位置，为后世哲学化解释提供早期结构。",
+                "source": {
+                  "workId": "ibnarabi-insha-al-dawair",
+                  "locator": "Insha al-Dawair, cosmological diagrams and hierarchy",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

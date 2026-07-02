@@ -1918,5 +1918,937 @@
     "originalTitle": "Entretien avec M. de Sacy sur Épictète et Montaigne",
     "yearDisplay": "posthumous",
     "noteZh": "通过爱比克泰德与蒙田对照人的骄傲和软弱，为帕斯卡的人论提供入口。"
+  },
+  {
+    "id": "peirce-new-list-categories",
+    "philosopherId": "peirce",
+    "titleZh": "《论新范畴表》",
+    "titleEn": "On a New List of Categories",
+    "yearDisplay": "1867",
+    "noteZh": "皮尔士早期范畴论文，提出第一性、第二性、第三性等后来贯穿符号学和形而上学的结构。"
+  },
+  {
+    "id": "peirce-fixation-belief",
+    "philosopherId": "peirce",
+    "titleZh": "《信念的固定》",
+    "titleEn": "The Fixation of Belief",
+    "yearDisplay": "1877",
+    "noteZh": "《科学逻辑例解》系列首篇，比较固执、权威、先验和科学方法来说明探究如何克服怀疑。"
+  },
+  {
+    "id": "peirce-how-make-ideas-clear",
+    "philosopherId": "peirce",
+    "titleZh": "《如何使我们的观念清楚》",
+    "titleEn": "How to Make Our Ideas Clear",
+    "yearDisplay": "1878",
+    "noteZh": "提出实用主义准则的经典论文，以可设想实践后果澄清概念意义。"
+  },
+  {
+    "id": "peirce-architecture-theories",
+    "philosopherId": "peirce",
+    "titleZh": "《理论建筑术》",
+    "titleEn": "The Architecture of Theories",
+    "yearDisplay": "1891",
+    "noteZh": "皮尔士晚期形而上学系列开端，围绕科学理论、连续性和进化宇宙论展开。"
+  },
+  {
+    "id": "peirce-law-mind",
+    "philosopherId": "peirce",
+    "titleZh": "《心灵律》",
+    "titleEn": "The Law of Mind",
+    "yearDisplay": "1892",
+    "noteZh": "阐述连续性、习惯形成和心灵扩展的形而上学论文。"
+  },
+  {
+    "id": "peirce-pragmatism-pragmaticism",
+    "philosopherId": "peirce",
+    "titleZh": "《实用主义与实效主义相关论文》",
+    "titleEn": "Pragmatism and Pragmaticism Essays",
+    "yearDisplay": "1903—1905",
+    "noteZh": "包括哈佛实用主义讲座以及《什么是实用主义》《实效主义诸问题》等后期文本。"
+  },
+  {
+    "id": "james-principles-psychology",
+    "philosopherId": "james",
+    "titleZh": "《心理学原理》",
+    "titleEn": "The Principles of Psychology",
+    "yearDisplay": "1890",
+    "noteZh": "詹姆斯心理学和哲学代表作，提出意识流、自我、习惯、意志和情绪等核心分析。"
+  },
+  {
+    "id": "james-will-to-believe",
+    "philosopherId": "james",
+    "titleZh": "《信仰意志及其他通俗哲学论文》",
+    "titleEn": "The Will to Believe and Other Essays in Popular Philosophy",
+    "yearDisplay": "1897",
+    "noteZh": "为在活的、被迫的、重大的选项中先于证据完全化而信仰辩护的论文集。"
+  },
+  {
+    "id": "james-talks-teachers",
+    "philosopherId": "james",
+    "titleZh": "《对教师谈心理学并对学生谈人生理想》",
+    "titleEn": "Talks to Teachers on Psychology and to Students on Some of Life's Ideals",
+    "yearDisplay": "1899",
+    "noteZh": "将心理学、教育和人生理想面向公共读者的讲演文本。"
+  },
+  {
+    "id": "james-varieties-religious-experience",
+    "philosopherId": "james",
+    "titleZh": "《宗教经验之种种》",
+    "titleEn": "The Varieties of Religious Experience",
+    "yearDisplay": "1902",
+    "noteZh": "以个人宗教经验、皈依、圣徒性和宗教果实为对象的吉福德讲座。"
+  },
+  {
+    "id": "james-pragmatism",
+    "philosopherId": "james",
+    "titleZh": "《实用主义》",
+    "titleEn": "Pragmatism: A New Name for Some Old Ways of Thinking",
+    "yearDisplay": "1907",
+    "noteZh": "詹姆斯系统阐述实用主义方法和真理观的公共讲演集。"
+  },
+  {
+    "id": "james-pluralistic-universe",
+    "philosopherId": "james",
+    "titleZh": "《多元的宇宙》",
+    "titleEn": "A Pluralistic Universe",
+    "yearDisplay": "1909",
+    "noteZh": "批判绝对唯心论，提出经验多元论和与柏格森相通的反智识主义方向。"
+  },
+  {
+    "id": "james-essays-radical-empiricism",
+    "philosopherId": "james",
+    "titleZh": "《彻底经验主义论文集》",
+    "titleEn": "Essays in Radical Empiricism",
+    "yearDisplay": "1912 posthumous",
+    "noteZh": "死后结集的彻底经验主义论文，主张关系与经验项同样属于经验世界。"
+  },
+  {
+    "id": "dubois-suppression-slave-trade",
+    "philosopherId": "du-bois",
+    "titleZh": "《美国非洲奴隶贸易之废止》",
+    "titleEn": "The Suppression of the African Slave-Trade to the United States of America",
+    "yearDisplay": "1896",
+    "noteZh": "杜波依斯博士论文改写的历史研究，处理美国奴隶贸易的法律和政治结构。"
+  },
+  {
+    "id": "dubois-philadelphia-negro",
+    "philosopherId": "du-bois",
+    "titleZh": "《费城黑人》",
+    "titleEn": "The Philadelphia Negro",
+    "yearDisplay": "1899",
+    "noteZh": "美国城市社会学早期经典，以调查和统计反驳种族贫困的生物化解释。"
+  },
+  {
+    "id": "dubois-souls-black-folk",
+    "philosopherId": "du-bois",
+    "titleZh": "《黑人的灵魂》",
+    "titleEn": "The Souls of Black Folk",
+    "yearDisplay": "1903",
+    "noteZh": "提出色线、面纱和双重意识的经典文本，结合散文、历史、社会批评和精神歌曲。"
+  },
+  {
+    "id": "dubois-talented-tenth",
+    "philosopherId": "du-bois",
+    "titleZh": "《有才华的十分之一》",
+    "titleEn": "The Talented Tenth",
+    "yearDisplay": "1903",
+    "noteZh": "收入《黑人问题》的论文，阐述黑人高等教育和领导阶层的政治文化角色。"
+  },
+  {
+    "id": "dubois-john-brown",
+    "philosopherId": "du-bois",
+    "titleZh": "《约翰·布朗》",
+    "titleEn": "John Brown",
+    "yearDisplay": "1909",
+    "noteZh": "以废奴主义者约翰·布朗为中心的传记和政治历史文本。"
+  },
+  {
+    "id": "dubois-darkwater",
+    "philosopherId": "du-bois",
+    "titleZh": "《暗水：来自面纱内的声音》",
+    "titleEn": "Darkwater: Voices from Within the Veil",
+    "yearDisplay": "1920",
+    "noteZh": "将自传、政治批判、诗歌和全球色线问题结合的论文集。"
+  },
+  {
+    "id": "dubois-black-reconstruction",
+    "philosopherId": "du-bois",
+    "titleZh": "《美国黑色重建》",
+    "titleEn": "Black Reconstruction in America",
+    "yearDisplay": "1935",
+    "noteZh": "重写重建史的巨著，强调黑人劳动者、普选、总罢工和废奴民主的历史意义。"
+  },
+  {
+    "id": "dubois-dusk-of-dawn",
+    "philosopherId": "du-bois",
+    "titleZh": "《黎明的薄暮》",
+    "titleEn": "Dusk of Dawn",
+    "yearDisplay": "1940",
+    "noteZh": "杜波依斯自传性社会学文本，回顾种族概念、个人经验和二十世纪黑人政治。"
+  },
+  {
+    "id": "moore-nature-judgment",
+    "philosopherId": "moore",
+    "titleZh": "《判断的性质》",
+    "titleEn": "The Nature of Judgment",
+    "yearDisplay": "1899",
+    "noteZh": "摩尔早期命题实在论文本，反对把概念和命题化约为心理内容。"
+  },
+  {
+    "id": "moore-refutation-idealism",
+    "philosopherId": "moore",
+    "titleZh": "《观念论的反驳》",
+    "titleEn": "The Refutation of Idealism",
+    "yearDisplay": "1903",
+    "noteZh": "通过意识与对象区分批判英国观念论的核心论文。"
+  },
+  {
+    "id": "moore-principia-ethica",
+    "philosopherId": "moore",
+    "titleZh": "《伦理学原理》",
+    "titleEn": "Principia Ethica",
+    "yearDisplay": "1903",
+    "noteZh": "提出善不可定义和自然主义谬误的伦理学代表作。"
+  },
+  {
+    "id": "moore-ethics",
+    "philosopherId": "moore",
+    "titleZh": "《伦理学》",
+    "titleEn": "Ethics",
+    "yearDisplay": "1912",
+    "noteZh": "面向更广读者系统说明伦理判断、自由、善和行为正确性的著作。"
+  },
+  {
+    "id": "moore-philosophical-studies",
+    "philosopherId": "moore",
+    "titleZh": "《哲学研究》",
+    "titleEn": "Philosophical Studies",
+    "yearDisplay": "1922",
+    "noteZh": "收录摩尔关于内外关系、价值、经验和哲学分析的论文集。"
+  },
+  {
+    "id": "moore-defence-common-sense",
+    "philosopherId": "moore",
+    "titleZh": "《常识的辩护》",
+    "titleEn": "A Defence of Common Sense",
+    "yearDisplay": "1925",
+    "noteZh": "摩尔以常识真理和日常知识对抗怀疑论和观念论的代表论文。"
+  },
+  {
+    "id": "moore-proof-external-world",
+    "philosopherId": "moore",
+    "titleZh": "《外部世界的证明》",
+    "titleEn": "Proof of an External World",
+    "yearDisplay": "1939",
+    "noteZh": "通过举手等常识证明策略讨论外部对象存在的英国科学院讲演。"
+  },
+  {
+    "id": "popper-logic-scientific-discovery",
+    "philosopherId": "popper",
+    "titleZh": "《科学发现的逻辑》",
+    "titleEn": "The Logic of Scientific Discovery",
+    "originalTitle": "Logik der Forschung",
+    "yearDisplay": "1934/1959",
+    "noteZh": "波普尔科学哲学代表作，系统提出可证伪性、经验基础和科学方法的批判理性主义框架。"
+  },
+  {
+    "id": "popper-poverty-historicism",
+    "philosopherId": "popper",
+    "titleZh": "《历史主义的贫困》",
+    "titleEn": "The Poverty of Historicism",
+    "yearDisplay": "1944/1957",
+    "noteZh": "批判历史规律预测和社会整体工程的政治哲学文本。"
+  },
+  {
+    "id": "popper-open-society",
+    "philosopherId": "popper",
+    "titleZh": "《开放社会及其敌人》",
+    "titleEn": "The Open Society and Its Enemies",
+    "yearDisplay": "1945",
+    "noteZh": "波普尔战时政治哲学巨著，批判柏拉图、黑格尔、马克思传统中的历史主义和极权倾向。"
+  },
+  {
+    "id": "popper-conjectures-refutations",
+    "philosopherId": "popper",
+    "titleZh": "《猜想与反驳》",
+    "titleEn": "Conjectures and Refutations",
+    "yearDisplay": "1963",
+    "noteZh": "汇集波普尔关于科学、形而上学、历史主义和批判理性主义的关键论文。"
+  },
+  {
+    "id": "popper-objective-knowledge",
+    "philosopherId": "popper",
+    "titleZh": "《客观知识》",
+    "titleEn": "Objective Knowledge",
+    "yearDisplay": "1972",
+    "noteZh": "提出三世界论和客观知识观，强调知识内容可脱离个人心理状态进入公共批判空间。"
+  },
+  {
+    "id": "popper-unended-quest",
+    "philosopherId": "popper",
+    "titleZh": "《无尽的探索》",
+    "titleEn": "Unended Quest",
+    "yearDisplay": "1976",
+    "noteZh": "波普尔思想自传，回顾维也纳、科学哲学形成和政治哲学关切。"
+  },
+  {
+    "id": "kuhn-copernican-revolution",
+    "philosopherId": "kuhn",
+    "titleZh": "《哥白尼革命》",
+    "titleEn": "The Copernican Revolution",
+    "yearDisplay": "1957",
+    "noteZh": "库恩早期科学史著作，以天文学革命展示科学、宗教、哲学和文化背景的交织。"
+  },
+  {
+    "id": "kuhn-structure-scientific-revolutions",
+    "philosopherId": "kuhn",
+    "titleZh": "《科学革命的结构》",
+    "titleEn": "The Structure of Scientific Revolutions",
+    "yearDisplay": "1962",
+    "noteZh": "提出范式、常规科学、危机、科学革命和不可通约性等概念的二十世纪科学哲学经典。"
+  },
+  {
+    "id": "kuhn-essential-tension",
+    "philosopherId": "kuhn",
+    "titleZh": "《必要的张力》",
+    "titleEn": "The Essential Tension",
+    "yearDisplay": "1977",
+    "noteZh": "收录库恩关于科学传统、创新、发现和历史科学哲学方法的论文。"
+  },
+  {
+    "id": "kuhn-black-body-theory",
+    "philosopherId": "kuhn",
+    "titleZh": "《黑体理论与量子不连续性》",
+    "titleEn": "Black-Body Theory and the Quantum Discontinuity",
+    "yearDisplay": "1978",
+    "noteZh": "库恩关于量子理论史的专著，展示其历史科学哲学在具体物理学案例中的运用。"
+  },
+  {
+    "id": "kuhn-road-since-structure",
+    "philosopherId": "kuhn",
+    "titleZh": "《结构以来的道路》",
+    "titleEn": "The Road Since Structure",
+    "yearDisplay": "2000 posthumous",
+    "noteZh": "死后结集的后期论文，集中处理不可通约性、语义和后期科学哲学修正。"
+  },
+  {
+    "id": "dilthey-schleiermacher-life",
+    "philosopherId": "dilthey",
+    "titleZh": "《施莱尔马赫传》",
+    "titleEn": "Life of Schleiermacher",
+    "originalTitle": "Leben Schleiermachers",
+    "yearDisplay": "1870",
+    "noteZh": "狄尔泰早期传记和解释学研究，显示其从历史个体生命理解精神传统的方式。"
+  },
+  {
+    "id": "dilthey-introduction-human-sciences",
+    "philosopherId": "dilthey",
+    "titleZh": "《精神科学导论》",
+    "titleEn": "Introduction to the Human Sciences",
+    "originalTitle": "Einleitung in die Geisteswissenschaften",
+    "yearDisplay": "1883",
+    "noteZh": "为历史和社会人文学科建立认识论基础的代表作。"
+  },
+  {
+    "id": "dilthey-poetry-experience",
+    "philosopherId": "dilthey",
+    "titleZh": "《体验与诗》",
+    "titleEn": "Poetry and Experience",
+    "originalTitle": "Das Erlebnis und die Dichtung",
+    "yearDisplay": "1905",
+    "noteZh": "以文学、体验和生命表达说明历史精神世界的可理解性。"
+  },
+  {
+    "id": "dilthey-formation-historical-world",
+    "philosopherId": "dilthey",
+    "titleZh": "《精神科学中历史世界的形成》",
+    "titleEn": "The Formation of the Historical World in the Human Sciences",
+    "originalTitle": "Der Aufbau der geschichtlichen Welt in den Geisteswissenschaften",
+    "yearDisplay": "1910",
+    "noteZh": "晚期代表作，系统处理体验、表达、理解和历史世界构成。"
+  },
+  {
+    "id": "dilthey-types-worldview",
+    "philosopherId": "dilthey",
+    "titleZh": "《世界观的类型》",
+    "titleEn": "The Types of Worldview",
+    "originalTitle": "Die Typen der Weltanschauung",
+    "yearDisplay": "1911",
+    "noteZh": "以世界观类型分析哲学、宗教和艺术中生命解释的基本形态。"
+  },
+  {
+    "id": "dilthey-selected-writings",
+    "philosopherId": "dilthey",
+    "titleZh": "《狄尔泰选集》",
+    "titleEn": "Selected Writings",
+    "yearDisplay": "posthumous collections",
+    "noteZh": "后世结集的精神科学、解释学和生命哲学相关论文材料。"
+  },
+  {
+    "id": "gadamer-platos-dialectical-ethics",
+    "philosopherId": "gadamer",
+    "titleZh": "《柏拉图的辩证伦理学》",
+    "titleEn": "Plato's Dialectical Ethics",
+    "originalTitle": "Platos dialektische Ethik",
+    "yearDisplay": "1931",
+    "noteZh": "伽达默尔早期柏拉图研究，显示其从古典哲学、对话和实践理性进入解释学。"
+  },
+  {
+    "id": "gadamer-truth-method",
+    "philosopherId": "gadamer",
+    "titleZh": "《真理与方法》",
+    "titleEn": "Truth and Method",
+    "originalTitle": "Wahrheit und Methode",
+    "yearDisplay": "1960",
+    "noteZh": "哲学解释学代表作，提出效果历史、视域融合和理解的语言性。"
+  },
+  {
+    "id": "gadamer-philosophical-hermeneutics",
+    "philosopherId": "gadamer",
+    "titleZh": "《哲学解释学》",
+    "titleEn": "Philosophical Hermeneutics",
+    "yearDisplay": "1976",
+    "noteZh": "伽达默尔解释学论文英文结集，延伸其关于语言、传统和理解事件的论述。"
+  },
+  {
+    "id": "gadamer-reason-age-science",
+    "philosopherId": "gadamer",
+    "titleZh": "《科学时代的理性》",
+    "titleEn": "Reason in the Age of Science",
+    "yearDisplay": "1976",
+    "noteZh": "讨论现代科学、实践理性和哲学解释学位置的论文集。"
+  },
+  {
+    "id": "gadamer-heideggers-ways",
+    "philosopherId": "gadamer",
+    "titleZh": "《海德格尔之路》",
+    "titleEn": "Heidegger's Ways",
+    "originalTitle": "Heideggers Wege",
+    "yearDisplay": "1983",
+    "noteZh": "伽达默尔回顾和解释海德格尔思想道路的后期文本。"
+  },
+  {
+    "id": "gadamer-dialogue-dialectic",
+    "philosopherId": "gadamer",
+    "titleZh": "《对话与辩证法》",
+    "titleEn": "Dialogue and Dialectic",
+    "yearDisplay": "1980",
+    "noteZh": "收录伽达默尔关于柏拉图对话、辩证法和解释学的论文。"
+  },
+  {
+    "id": "jaspers-general-psychopathology",
+    "philosopherId": "jaspers",
+    "titleZh": "《普通精神病理学》",
+    "titleEn": "General Psychopathology",
+    "originalTitle": "Allgemeine Psychopathologie",
+    "yearDisplay": "1913",
+    "noteZh": "雅斯贝尔斯精神病理学经典，区分说明和理解并为其哲学方法奠定临床背景。"
+  },
+  {
+    "id": "jaspers-psychology-worldviews",
+    "philosopherId": "jaspers",
+    "titleZh": "《世界观心理学》",
+    "titleEn": "Psychology of Worldviews",
+    "originalTitle": "Psychologie der Weltanschauungen",
+    "yearDisplay": "1919",
+    "noteZh": "从心理学进入生存哲学的过渡文本，处理世界观、界限处境和精神类型。"
+  },
+  {
+    "id": "jaspers-philosophy",
+    "philosopherId": "jaspers",
+    "titleZh": "《哲学》",
+    "titleEn": "Philosophy",
+    "originalTitle": "Philosophie",
+    "yearDisplay": "1932",
+    "noteZh": "雅斯贝尔斯三卷本代表作，系统展开世界定向、存在澄明和形而上学。"
+  },
+  {
+    "id": "jaspers-reason-existence",
+    "philosopherId": "jaspers",
+    "titleZh": "《理性与生存》",
+    "titleEn": "Reason and Existenz",
+    "originalTitle": "Vernunft und Existenz",
+    "yearDisplay": "1935",
+    "noteZh": "围绕生存、理性、交往和超越问题的讲演文本。"
+  },
+  {
+    "id": "jaspers-origin-goal-history",
+    "philosopherId": "jaspers",
+    "titleZh": "《历史的起源与目标》",
+    "titleEn": "The Origin and Goal of History",
+    "originalTitle": "Vom Ursprung und Ziel der Geschichte",
+    "yearDisplay": "1949",
+    "noteZh": "提出轴心时代观念，将世界历史、宗教哲学和人类共同命运联系起来。"
+  },
+  {
+    "id": "jaspers-question-german-guilt",
+    "philosopherId": "jaspers",
+    "titleZh": "《德国罪责问题》",
+    "titleEn": "The Question of German Guilt",
+    "originalTitle": "Die Schuldfrage",
+    "yearDisplay": "1946",
+    "noteZh": "战后政治哲学文本，区分刑事、政治、道德和形而上罪责。"
+  },
+  {
+    "id": "jaspers-great-philosophers",
+    "philosopherId": "jaspers",
+    "titleZh": "《大哲学家》",
+    "titleEn": "The Great Philosophers",
+    "originalTitle": "Die großen Philosophen",
+    "yearDisplay": "1957",
+    "noteZh": "雅斯贝尔斯以哲学家群像组织世界哲学史和生存思想传统的后期著作。"
+  },
+  {
+    "id": "sextus-outlines-pyrrhonism",
+    "philosopherId": "sextus-empiricus",
+    "titleZh": "《皮浪主义纲要》",
+    "titleEn": "Outlines of Pyrrhonism",
+    "originalTitle": "Pyrrhoniae Hypotyposes",
+    "yearDisplay": "2nd/3rd century CE",
+    "noteZh": "塞克斯都最完整保存皮浪主义自我说明的三卷本，阐述悬搁判断、宁静和怀疑论诸模式。"
+  },
+  {
+    "id": "sextus-against-professors",
+    "philosopherId": "sextus-empiricus",
+    "titleZh": "《反学者》",
+    "titleEn": "Against the Professors",
+    "originalTitle": "Adversus Mathematicos I–VI",
+    "yearDisplay": "2nd/3rd century CE",
+    "noteZh": "针对语法、修辞、几何、算术、占星和音乐等学科的怀疑论批判文本。"
+  },
+  {
+    "id": "sextus-against-logicians",
+    "philosopherId": "sextus-empiricus",
+    "titleZh": "《反逻辑学家》",
+    "titleEn": "Against the Logicians",
+    "originalTitle": "Adversus Mathematicos VII–VIII",
+    "yearDisplay": "2nd/3rd century CE",
+    "noteZh": "针对真理标准、符号、证明和逻辑学 dogma 的怀疑论论辩。"
+  },
+  {
+    "id": "sextus-against-physicists",
+    "philosopherId": "sextus-empiricus",
+    "titleZh": "《反自然哲学家》",
+    "titleEn": "Against the Physicists",
+    "originalTitle": "Adversus Mathematicos IX–X",
+    "yearDisplay": "2nd/3rd century CE",
+    "noteZh": "针对神、原因、时间、运动和自然哲学对象的怀疑论批判。"
+  },
+  {
+    "id": "sextus-against-ethicists",
+    "philosopherId": "sextus-empiricus",
+    "titleZh": "《反伦理学家》",
+    "titleEn": "Against the Ethicists",
+    "originalTitle": "Adversus Mathematicos XI",
+    "yearDisplay": "2nd/3rd century CE",
+    "noteZh": "围绕善、恶、技艺和生活目的展开的伦理学怀疑论文本。"
+  },
+  {
+    "id": "scotus-ordinatio",
+    "philosopherId": "duns-scotus",
+    "titleZh": "《牛津注疏》",
+    "titleEn": "Ordinatio",
+    "yearDisplay": "c. 1300s",
+    "noteZh": "司各脱修订其《伦巴德命题集》评注的主要神学哲学文本，包含存在、知识、自由和神学论证。"
+  },
+  {
+    "id": "scotus-lectura",
+    "philosopherId": "duns-scotus",
+    "titleZh": "《讲义》",
+    "titleEn": "Lectura",
+    "yearDisplay": "c. 1290s",
+    "noteZh": "司各脱早期牛津《命题集》讲义，是重建其思想发展和关键论证的重要文本。"
+  },
+  {
+    "id": "scotus-reportatio-parisiensis",
+    "philosopherId": "duns-scotus",
+    "titleZh": "《巴黎报告》",
+    "titleEn": "Reportatio Parisiensis",
+    "yearDisplay": "c. 1300s",
+    "noteZh": "巴黎讲授传统中的《命题集》评注记录，显示司各脱成熟期的神学和形而上学论辩。"
+  },
+  {
+    "id": "scotus-questions-metaphysics",
+    "philosopherId": "duns-scotus",
+    "titleZh": "《亚里士多德〈形而上学〉问题集》",
+    "titleEn": "Questions on the Metaphysics of Aristotle",
+    "yearDisplay": "c. 1290s",
+    "noteZh": "司各脱围绕存在、实体、因果、共相和形而上学对象展开的亚里士多德评注式问题集。"
+  },
+  {
+    "id": "scotus-treatise-first-principle",
+    "philosopherId": "duns-scotus",
+    "titleZh": "《第一原理论》",
+    "titleEn": "Treatise on the First Principle",
+    "originalTitle": "De Primo Principio",
+    "yearDisplay": "c. 1300s",
+    "noteZh": "以高度压缩形式论证第一原则、神的存在和神性属性的独立短论。"
+  },
+  {
+    "id": "scotus-quodlibetal-questions",
+    "philosopherId": "duns-scotus",
+    "titleZh": "《任意问题集》",
+    "titleEn": "Quodlibetal Questions",
+    "yearDisplay": "c. 1306/1307",
+    "noteZh": "司各脱晚期公开论辩问题集，涵盖神学、形而上学、认识论和伦理问题。"
+  },
+  {
+    "id": "alkindi-on-first-philosophy",
+    "philosopherId": "al-kindi",
+    "titleZh": "《论第一哲学》",
+    "titleEn": "On First Philosophy",
+    "yearDisplay": "9th century",
+    "noteZh": "肯迪代表性形而上学文本，讨论第一真理、神的唯一性、因果和哲学与启示的关系。"
+  },
+  {
+    "id": "alkindi-definitions-descriptions",
+    "philosopherId": "al-kindi",
+    "titleZh": "《事物定义与描述》",
+    "titleEn": "On the Definitions and Descriptions of Things",
+    "yearDisplay": "9th century",
+    "noteZh": "收集哲学术语定义的短论，反映阿拉伯哲学早期概念翻译和整理工作。"
+  },
+  {
+    "id": "alkindi-on-intellect",
+    "philosopherId": "al-kindi",
+    "titleZh": "《论理智》",
+    "titleEn": "On the Intellect",
+    "yearDisplay": "9th century",
+    "noteZh": "肯迪关于潜能理智、获得理智和主动理智等问题的短论，是阿拉伯理智论早期文本。"
+  },
+  {
+    "id": "alkindi-quantity-aristotle-books",
+    "philosopherId": "al-kindi",
+    "titleZh": "《论亚里士多德著作的数量》",
+    "titleEn": "On the Quantity of Aristotle's Books",
+    "yearDisplay": "9th century",
+    "noteZh": "肯迪关于亚里士多德著作秩序和学习路径的文本，显示其组织希腊哲学课程的意图。"
+  },
+  {
+    "id": "alkindi-prostration-sphere",
+    "philosopherId": "al-kindi",
+    "titleZh": "《论外层天球的俯伏》",
+    "titleEn": "On the Prostration of the Outermost Sphere",
+    "yearDisplay": "9th century",
+    "noteZh": "将宇宙论、经文解释和天体秩序联系起来的肯迪短论。"
+  },
+  {
+    "id": "alkindi-dispelling-sorrows",
+    "philosopherId": "al-kindi",
+    "titleZh": "《消除忧愁之术》",
+    "titleEn": "On the Art of Dispelling Sorrows",
+    "yearDisplay": "9th century",
+    "noteZh": "肯迪伦理与灵魂治疗文本，说明哲学如何通过欲望节制和理性判断处理忧愁。"
+  },
+  {
+    "id": "suhrawardi-philosophy-illumination",
+    "philosopherId": "suhrawardi",
+    "titleZh": "《照明哲学》",
+    "titleEn": "The Philosophy of Illumination",
+    "originalTitle": "Ḥikmat al-Ishrāq",
+    "yearDisplay": "1186",
+    "noteZh": "苏赫拉瓦迪代表作，以光的形而上学和临现知识系统阐述照明哲学。"
+  },
+  {
+    "id": "suhrawardi-intimations",
+    "philosopherId": "suhrawardi",
+    "titleZh": "《暗示》",
+    "titleEn": "The Intimations",
+    "originalTitle": "al-Talwīḥāt",
+    "yearDisplay": "12th century",
+    "noteZh": "以逍遥派结构展开逻辑、自然哲学和形而上学，是苏赫拉瓦迪与伊本·西那传统对话的重要文本。"
+  },
+  {
+    "id": "suhrawardi-paths-havens",
+    "philosopherId": "suhrawardi",
+    "titleZh": "《道路与归宿》",
+    "titleEn": "The Paths and Havens",
+    "originalTitle": "al-Mashāriʿ wa-l-Muṭāraḥāt",
+    "yearDisplay": "12th century",
+    "noteZh": "较详细展示苏赫拉瓦迪逻辑、物理和形而上学立场的哲学文本。"
+  },
+  {
+    "id": "suhrawardi-oppositions",
+    "philosopherId": "suhrawardi",
+    "titleZh": "《抵抗》",
+    "titleEn": "The Oppositions",
+    "originalTitle": "al-Muqāwamāt",
+    "yearDisplay": "12th century",
+    "noteZh": "苏赫拉瓦迪对自身逍遥派式著作进行修正和批判推进的文本。"
+  },
+  {
+    "id": "suhrawardi-temples-light",
+    "philosopherId": "suhrawardi",
+    "titleZh": "《光之神殿》",
+    "titleEn": "The Temples of Light",
+    "originalTitle": "Hayākil al-Nūr",
+    "yearDisplay": "12th century",
+    "noteZh": "以较短形式表达照明哲学宇宙论、灵魂和光等级结构的波斯/阿拉伯文本。"
+  },
+  {
+    "id": "suhrawardi-occidental-exile",
+    "philosopherId": "suhrawardi",
+    "titleZh": "《西方流寓记》",
+    "titleEn": "The Occidental Exile",
+    "originalTitle": "Qiṣṣat al-Ghurbah al-Gharbiyyah",
+    "yearDisplay": "12th century",
+    "noteZh": "以寓言叙事表达灵魂流寓、东方归返和照明智慧的象征文本。"
+  },
+  {
+    "id": "ibnarabi-meccan-openings",
+    "philosopherId": "ibn-arabi",
+    "titleZh": "《麦加启示》",
+    "titleEn": "The Meccan Openings",
+    "originalTitle": "al-Futūḥāt al-Makkiyya",
+    "yearDisplay": "1203–1238",
+    "noteZh": "伊本·阿拉比最大规模著作，系统呈现神名、宇宙论、灵修道路、想象和存在显现。"
+  },
+  {
+    "id": "ibnarabi-ringstones-wisdom",
+    "philosopherId": "ibn-arabi",
+    "titleZh": "《智慧宝石》",
+    "titleEn": "The Ringstones of Wisdom",
+    "originalTitle": "Fuṣūṣ al-Ḥikam",
+    "yearDisplay": "1229",
+    "noteZh": "通过诸先知智慧阐述神性显现、完人和存在关系的高度浓缩代表作。"
+  },
+  {
+    "id": "ibnarabi-tarjuman-ashwaq",
+    "philosopherId": "ibn-arabi",
+    "titleZh": "《热望的译者》",
+    "titleEn": "The Interpreter of Desires",
+    "originalTitle": "Tarjumān al-Ashwāq",
+    "yearDisplay": "1215",
+    "noteZh": "伊本·阿拉比诗集及其自注，展示爱、象征和神秘解释之间的关系。"
+  },
+  {
+    "id": "ibnarabi-insha-al-dawair",
+    "philosopherId": "ibn-arabi",
+    "titleZh": "《圆圈的生成》",
+    "titleEn": "The Creation of Circles",
+    "originalTitle": "Inshāʾ al-Dawāʾir",
+    "yearDisplay": "c. 1201",
+    "noteZh": "早期宇宙论文本，以圆圈图式说明存在等级、宇宙秩序和人之位置。"
+  },
+  {
+    "id": "ibnarabi-uqlat-mustawfiz",
+    "philosopherId": "ibn-arabi",
+    "titleZh": "《受益者的绳结》",
+    "titleEn": "The Universal Tree and the Four Birds",
+    "originalTitle": "ʿUqlat al-Mustawfiz",
+    "yearDisplay": "early 13th century",
+    "noteZh": "以象征叙述和宇宙论结构处理创造、灵魂和存在显现的早期文本。"
+  },
+  {
+    "id": "ibnarabi-book-annihilation",
+    "philosopherId": "ibn-arabi",
+    "titleZh": "《观照中的消融之书》",
+    "titleEn": "Book of Annihilation in Contemplation",
+    "originalTitle": "Kitāb al-Fanāʾ fī al-Mushāhada",
+    "yearDisplay": "early 13th century",
+    "noteZh": "围绕神秘观照、消融和主体转化展开的短篇苏非文本。"
+  },
+  {
+    "id": "hanfeizi-text",
+    "philosopherId": "han-feizi",
+    "titleZh": "《韩非子》",
+    "titleEn": "Han Feizi",
+    "yearDisplay": "战国末期；今本55篇",
+    "noteZh": "战国法家经典汇编，保存韩非法术势、刑名、赏罚和对儒墨道等诸子的批判与吸收。"
+  },
+  {
+    "id": "hanfeizi-wudu",
+    "philosopherId": "han-feizi",
+    "titleZh": "《五蠹》",
+    "titleEn": "Five Vermin",
+    "yearDisplay": "战国末期",
+    "noteZh": "《韩非子》名篇，批判儒者、侠士、纵横家等群体对法治国家秩序的侵蚀。"
+  },
+  {
+    "id": "hanfeizi-xianxue",
+    "philosopherId": "han-feizi",
+    "titleZh": "《显学》",
+    "titleEn": "Eminent Learning",
+    "yearDisplay": "战国末期",
+    "noteZh": "集中批判儒墨显学的政治无效性，主张以法令和功效判断治理学说。"
+  },
+  {
+    "id": "hanfeizi-shuo-nan",
+    "philosopherId": "han-feizi",
+    "titleZh": "《说难》",
+    "titleEn": "The Difficulties of Persuasion",
+    "yearDisplay": "战国末期",
+    "noteZh": "讨论臣下向君主进言的危险、策略和心理结构，显示韩非对权力关系的高度敏感。"
+  },
+  {
+    "id": "hanfeizi-nan",
+    "philosopherId": "han-feizi",
+    "titleZh": "《难》诸篇",
+    "titleEn": "The Difficulties / Objections",
+    "yearDisplay": "战国末期",
+    "noteZh": "以反驳和辨难方式处理历史案例、政治原则和先王故事，展示名实与法术判断。"
+  },
+  {
+    "id": "hanfeizi-jie-lao",
+    "philosopherId": "han-feizi",
+    "titleZh": "《解老》",
+    "titleEn": "Explaining Laozi",
+    "yearDisplay": "战国末期",
+    "noteZh": "《韩非子》中解释《老子》的篇章，以道、德、理等语言服务政治秩序和君主术。"
+  },
+  {
+    "id": "hanfeizi-yu-lao",
+    "philosopherId": "han-feizi",
+    "titleZh": "《喻老》",
+    "titleEn": "Illustrating Laozi",
+    "yearDisplay": "战国末期",
+    "noteZh": "通过历史故事阐释《老子》语句，是早期《老子》接受史和法家道家交汇的重要材料。"
+  },
+  {
+    "id": "huineng-platform-sutra",
+    "philosopherId": "huineng",
+    "titleZh": "《六祖坛经》",
+    "titleEn": "Platform Sutra of the Sixth Patriarch",
+    "yearDisplay": "约8世纪成书；后世多次增订",
+    "noteZh": "以慧能说法为核心的中国佛教经典，系统呈现顿悟、自性、无念、无相、无住和定慧不二。"
+  },
+  {
+    "id": "huineng-dunhuang-platform-sutra",
+    "philosopherId": "huineng",
+    "titleZh": "敦煌本《坛经》",
+    "titleEn": "Dunhuang Platform Sutra",
+    "yearDisplay": "约9世纪写本；底本或约780",
+    "noteZh": "现存较早《坛经》系统，保留南宗顿教、无相戒和早期禅宗身份建构的重要材料。"
+  },
+  {
+    "id": "huineng-zongbao-platform-sutra",
+    "philosopherId": "huineng",
+    "titleZh": "宗宝本《六祖大师法宝坛经》",
+    "titleEn": "Zongbao edition of the Platform Sutra",
+    "yearDisplay": "1291",
+    "noteZh": "元代宗宝编定本，进入明代大藏经系统，对后世通行《坛经》形态影响极大。"
+  },
+  {
+    "id": "huineng-formless-precepts",
+    "philosopherId": "huineng",
+    "titleZh": "《无相戒》相关说法",
+    "titleEn": "Formless Precepts teachings",
+    "yearDisplay": "《坛经》传统",
+    "noteZh": "《坛经》中围绕无相忏悔、无相戒和自性戒展开的修行文本单元。"
+  },
+  {
+    "id": "huineng-verses-patriarch",
+    "philosopherId": "huineng",
+    "titleZh": "慧能传法偈",
+    "titleEn": "Transmission Verses attributed to Huineng",
+    "yearDisplay": "《坛经》传统",
+    "noteZh": "围绕菩提本无树等偈颂形成的禅宗顿悟叙事，是慧能形象建构核心材料。"
+  },
+  {
+    "id": "zhangzai-zhengmeng",
+    "philosopherId": "zhang-zai",
+    "titleZh": "《正蒙》",
+    "titleEn": "Correcting Youthful Ignorance",
+    "originalTitle": "Zhengmeng",
+    "yearDisplay": "北宋",
+    "noteZh": "张载最重要哲学著作，集中阐述太虚即气、气化、天地之性、鬼神和成德工夫。"
+  },
+  {
+    "id": "zhangzai-ximing",
+    "philosopherId": "zhang-zai",
+    "titleZh": "《西铭》",
+    "titleEn": "Western Inscription",
+    "originalTitle": "Ximing",
+    "yearDisplay": "北宋",
+    "noteZh": "以民胞物与表达天地父母、万物同体和儒家伦理宇宙论的短篇名作。"
+  },
+  {
+    "id": "zhangzai-dongming",
+    "philosopherId": "zhang-zai",
+    "titleZh": "《东铭》",
+    "titleEn": "Eastern Inscription",
+    "originalTitle": "Dongming",
+    "yearDisplay": "北宋",
+    "noteZh": "与《西铭》相配的铭文，强调修身、敬畏和日用工夫中的道德警醒。"
+  },
+  {
+    "id": "zhangzai-jingxue-liku",
+    "philosopherId": "zhang-zai",
+    "titleZh": "《经学理窟》",
+    "titleEn": "Principles Cave of Classical Learning",
+    "originalTitle": "Jingxue Liku",
+    "yearDisplay": "北宋",
+    "noteZh": "张载经学和义理讨论汇编，涉及礼、乐、性命、政治和经典解释。"
+  },
+  {
+    "id": "zhangzai-yishuo",
+    "philosopherId": "zhang-zai",
+    "titleZh": "《易说》",
+    "titleEn": "Explanation of the Changes",
+    "originalTitle": "Yishuo",
+    "yearDisplay": "北宋",
+    "noteZh": "张载关于《易经》的解释文本，以变化、气化和天道观贯通经学与形而上学。"
+  },
+  {
+    "id": "zhangzai-collected-works",
+    "philosopherId": "zhang-zai",
+    "titleZh": "《张子全书》",
+    "titleEn": "Complete Works of Master Zhang",
+    "yearDisplay": "后世汇编",
+    "noteZh": "后世汇编的张载著作和语录材料，是研究其气论、经学和道学影响的重要文本系统。"
+  },
+  {
+    "id": "dignaga-pramanasamuccaya",
+    "philosopherId": "dignaga",
+    "titleZh": "《集量论》",
+    "titleEn": "Compendium of Valid Cognition",
+    "originalTitle": "Pramāṇasamuccaya",
+    "yearDisplay": "约6世纪",
+    "noteZh": "陈那代表作，系统提出现量和比量两种有效认知、因明结构和遮诠语义理论。"
+  },
+  {
+    "id": "dignaga-alambanapariksa",
+    "philosopherId": "dignaga",
+    "titleZh": "《观所缘缘论》",
+    "titleEn": "Investigation of the Percept",
+    "originalTitle": "Ālambanaparīkṣā",
+    "yearDisplay": "约6世纪",
+    "noteZh": "围绕认知对象和所缘条件展开的短论，体现陈那对表象、对象和识的分析。"
+  },
+  {
+    "id": "dignaga-hetucakra",
+    "philosopherId": "dignaga",
+    "titleZh": "《因轮论》",
+    "titleEn": "Wheel of Reasons",
+    "originalTitle": "Hetucakra",
+    "yearDisplay": "约6世纪",
+    "noteZh": "以九句因结构分析因与所立之间关系，是印度因明形式化发展的重要节点。"
+  },
+  {
+    "id": "dignaga-nyayamukha",
+    "philosopherId": "dignaga",
+    "titleZh": "《因明正理门论》",
+    "titleEn": "Introduction to Logic",
+    "originalTitle": "Nyāyamukha",
+    "yearDisplay": "约6世纪；汉译保存",
+    "noteZh": "陈那因明入门性文本，经汉译进入东亚佛教逻辑传统并影响玄奘系因明。"
+  },
+  {
+    "id": "dignaga-trikala-pariksa",
+    "philosopherId": "dignaga",
+    "titleZh": "《三时观察论》",
+    "titleEn": "Investigation of the Three Times",
+    "originalTitle": "Trikālaparīkṣā",
+    "yearDisplay": "约6世纪",
+    "noteZh": "归于陈那的时间与存在问题短论，体现佛教逻辑传统对三世实有争论的处理。"
+  },
+  {
+    "id": "dignaga-apoha-treatise",
+    "philosopherId": "dignaga",
+    "titleZh": "遮诠相关论述",
+    "titleEn": "Apoha theory passages",
+    "yearDisplay": "《集量论》第五品传统",
+    "noteZh": "围绕词义通过排除非对象而成立的语义理论，是佛教语言哲学的重要来源。"
   }
 ]

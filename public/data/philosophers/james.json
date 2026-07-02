@@ -1,0 +1,297 @@
+{
+  "id": "james",
+  "names": {
+    "zh": "威廉·詹姆斯",
+    "en": "William James"
+  },
+  "life": {
+    "birth": 1842,
+    "death": 1910,
+    "display": "1842—1910"
+  },
+  "civilization": "american_modern",
+  "traditions": [
+    "american_pragmatism",
+    "radical_empiricism",
+    "psychology"
+  ],
+  "periods": [
+    "expansion_e2"
+  ],
+  "themes": [
+    "knowledge",
+    "religion",
+    "freedom"
+  ],
+  "keywordsZh": [
+    "意识流",
+    "实用主义",
+    "信仰意志",
+    "宗教经验",
+    "多元宇宙"
+  ],
+  "oneLineZh": "把心理学、宗教经验、自由意志和实用主义真理观连接成经验多元论。",
+  "influenceWeight": 3,
+  "reviewStatus": "draft",
+  "summaryZh": "威廉·詹姆斯从心理学和生理学进入哲学，以意识流、信仰意志、宗教经验、实用主义真理观和彻底经验主义反对封闭的一元理性体系；他把皮尔士的实用主义带入公共哲学，并影响杜威、杜波依斯、柏格森和二十世纪经验哲学。",
+  "works": [
+    "james-principles-psychology",
+    "james-will-to-believe",
+    "james-talks-teachers",
+    "james-varieties-religious-experience",
+    "james-pragmatism",
+    "james-pluralistic-universe",
+    "james-essays-radical-empiricism"
+  ],
+  "sourceNotes": [
+    {
+      "label": "SEP",
+      "url": "https://plato.stanford.edu/entries/james/",
+      "noteZh": "用于核对詹姆斯的心理学、信仰意志、宗教经验、实用主义和彻底经验主义。"
+    },
+    {
+      "label": "review",
+      "noteZh": "E2 批新增条目，重点连接皮尔士、杜威、柏格森和杜波依斯。"
+    }
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "james:problem:001",
+        "titleZh": "经验为什么不是由孤立原子组成？",
+        "questionZh": "詹姆斯如何用意识流和彻底经验主义反对把经验拆成静态内在表象？",
+        "summaryZh": "詹姆斯从心理学出发把意识描述为连续流动的个人生活过程，又在彻底经验主义中把关系、过渡和连接也纳入经验本身。",
+        "themeIds": [
+          "knowledge",
+          "life_death"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "james:claim:001",
+            "titleZh": "意识以流的方式发生",
+            "claimZh": "意识不是由孤立观念颗粒堆成，而是在个人生命中连续、选择性地流动。",
+            "explanationZh": "意识流概念使经验哲学获得时间性和身体性，也为后来现象学、实用主义和心理学中的动态自我问题提供基础。",
+            "themeIds": [
+              "knowledge",
+              "life_death"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "james:evidence:001",
+                "titleZh": "《心理学原理》的意识流章节",
+                "summaryZh": "《心理学原理》以意识流、自我、习惯和意志等章节把心理学、哲学和个人经验结合为一个动态分析。",
+                "source": {
+                  "workId": "james-principles-psychology",
+                  "locator": "The Principles of Psychology, chapter on The Stream of Thought",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "james:evidence:002",
+                "titleZh": "SEP 对《心理学原理》的概括",
+                "summaryZh": "SEP 称《心理学原理》为詹姆斯十二百页代表作，并指出其中包含意识流等影响深远的观念。",
+                "source": {
+                  "workId": "james-principles-psychology",
+                  "locator": "SEP William James, introduction and section 3",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "james:claim:002",
+            "titleZh": "关系也属于经验本身",
+            "claimZh": "彻底经验主义主张经验中的连接、过渡和关系不需要由外在理智额外添加。",
+            "explanationZh": "这使经验主义摆脱原子化感觉材料模型，把经验的连续性、脉动和相互渗透视为世界自身的组织方式。",
+            "themeIds": [
+              "knowledge",
+              "metaphysics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "james:evidence:003",
+                "titleZh": "《彻底经验主义论文集》的纯粹经验",
+                "summaryZh": "彻底经验主义论文把经验项和经验关系同时视为可描述事实，反对只承认可分离感觉点的狭窄经验主义。",
+                "source": {
+                  "workId": "james-essays-radical-empiricism",
+                  "locator": "Essays in Radical Empiricism, essays on pure experience",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "james:evidence:004",
+                "titleZh": "《多元的宇宙》中的连续经验",
+                "summaryZh": "《多元的宇宙》借柏格森批判智识主义，强调具体经验脉冲会互相贯通而不受概念替代物的硬边界限制。",
+                "source": {
+                  "workId": "james-pluralistic-universe",
+                  "locator": "A Pluralistic Universe, lectures on Bergson and intellectualism",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "james:problem:002",
+        "titleZh": "信仰如何在证据不足处仍有理性位置？",
+        "questionZh": "詹姆斯怎样为自由意志、宗教经验和生命选择中的信念承诺辩护？",
+        "summaryZh": "詹姆斯把信仰问题放在活的、被迫的、重大的选择中，并用宗教经验的实际果实而非抽象证明来评价其意义。",
+        "themeIds": [
+          "religion",
+          "freedom"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "james:claim:003",
+            "titleZh": "活的选项允许信仰意志",
+            "claimZh": "在无法等待决定性证据的重大生命选项中，先行信仰可以是一种负责任的实践姿态。",
+            "explanationZh": "詹姆斯反对把理性缩成避免错误的冷静旁观，认为在某些处境中不选择本身也会关闭真实可能性。",
+            "themeIds": [
+              "freedom",
+              "religion"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "james:evidence:005",
+                "titleZh": "《信仰意志》的选项结构",
+                "summaryZh": "《信仰意志》区分活的、被迫的、重大的选项，说明在这类处境中人的情感本性可以合法参与信念形成。",
+                "source": {
+                  "workId": "james-will-to-believe",
+                  "locator": "The Will to Believe, live/forced/momentous option",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "james:evidence:006",
+                "titleZh": "SEP 对宗教关切的时间线",
+                "summaryZh": "SEP 指出詹姆斯从早期论文到《信仰意志》《宗教经验之种种》和《多元的宇宙》持续展开宗教关切。",
+                "source": {
+                  "workId": "james-will-to-believe",
+                  "locator": "SEP William James, early writings and essays in popular philosophy",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "james:claim:004",
+            "titleZh": "宗教要从经验果实判断",
+            "claimZh": "宗教的哲学意义首先表现在个人经验、转化效果和生活果实中，而不只在教义证明中。",
+            "explanationZh": "《宗教经验之种种》把宗教研究从制度神学转向个人经验类型，使信仰成为心理、伦理和生命实践交会的问题。",
+            "themeIds": [
+              "religion",
+              "life_death"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "james:evidence:007",
+                "titleZh": "《宗教经验之种种》的研究对象",
+                "summaryZh": "《宗教经验之种种》以人的本性中与宗教相关的部分为对象，集中分析个人宗教经验而非教会制度。",
+                "source": {
+                  "workId": "james-varieties-religious-experience",
+                  "locator": "The Varieties of Religious Experience, lectures on individual religion",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "james:evidence:008",
+                "titleZh": "SEP 对 Varieties 的范围说明",
+                "summaryZh": "SEP 说明《宗教经验之种种》副标题为人的本性研究，篇幅较《心理学原理》更集中但仍处理广阔宗教经验。",
+                "source": {
+                  "workId": "james-varieties-religious-experience",
+                  "locator": "SEP William James, section 5 The Varieties of Religious Experience",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "james:problem:003",
+        "titleZh": "真理和宇宙为什么应按多元实践理解？",
+        "questionZh": "詹姆斯如何把实用主义真理观、多元宇宙和反绝对主义连成一个哲学立场？",
+        "summaryZh": "詹姆斯把实用主义看作方法、意义理论和真理理论，同时反对绝对一元论，强调世界仍在生成并允许多种实践路线。",
+        "themeIds": [
+          "knowledge",
+          "metaphysics"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "james:claim:005",
+            "titleZh": "真理在验证过程中生成",
+            "claimZh": "真理不是与经验隔绝的静态关系，而是在经验中被验证、确认和使用的可工作关系。",
+            "explanationZh": "詹姆斯的真理观使观念价值取决于它们在探究和生活中的导向能力，但仍要求经验后果提供检验。",
+            "themeIds": [
+              "knowledge"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "james:evidence:009",
+                "titleZh": "《实用主义》的多重功能",
+                "summaryZh": "SEP 概括《实用主义》同时是一种哲学气质、真理理论、意义理论、整体知识观、形而上学立场和争端解决方法。",
+                "source": {
+                  "workId": "james-pragmatism",
+                  "locator": "SEP William James, section Pragmatism (1907)",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "james:evidence:010",
+                "titleZh": "《实用主义》中的真理章节",
+                "summaryZh": "《实用主义》把观念真理同其在经验中被证实、引导和兑现的方式联系起来，而非只诉诸抽象符合。",
+                "source": {
+                  "workId": "james-pragmatism",
+                  "locator": "Pragmatism, lectures on truth and verification",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "james:claim:006",
+            "titleZh": "多元宇宙反对封闭绝对",
+            "claimZh": "世界不是已经由一个绝对整体穷尽的封闭系统，而是仍含偶然、选择和新关系的多元过程。",
+            "explanationZh": "詹姆斯的多元论把自由、宗教可能性和经验开放性连在一起，反对把活经验牺牲给完成的总体概念。",
+            "themeIds": [
+              "freedom",
+              "metaphysics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "james:evidence:011",
+                "titleZh": "《多元的宇宙》对黑格尔式智识主义的批判",
+                "summaryZh": "《多元的宇宙》批评黑格尔式智识主义的过度技术化，并转向费希纳和柏格森式的生命连续图景。",
+                "source": {
+                  "workId": "james-pluralistic-universe",
+                  "locator": "A Pluralistic Universe, lectures against absolutism",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "james:evidence:012",
+                "titleZh": "SEP 对詹姆斯哲学张力的概括",
+                "summaryZh": "SEP 指出詹姆斯同时重视宇宙的亲密性和野性，并把两种精神气质的冲突视为贯穿其哲学判断的重要线索。",
+                "source": {
+                  "workId": "james-pluralistic-universe",
+                  "locator": "SEP William James, sections on philosophical temperament",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,292 @@
+{
+  "id": "sextus-empiricus",
+  "names": {
+    "zh": "塞克斯都·恩披里柯",
+    "en": "Sextus Empiricus"
+  },
+  "life": {
+    "birth": 160,
+    "death": 210,
+    "display": "约2世纪末—3世纪初"
+  },
+  "civilization": "ancient_greek",
+  "traditions": [
+    "pyrrhonism",
+    "ancient_skepticism",
+    "empiric_medicine"
+  ],
+  "periods": [
+    "expansion_e4"
+  ],
+  "themes": [
+    "knowledge",
+    "ethics",
+    "life_death"
+  ],
+  "keywordsZh": [
+    "悬搁判断",
+    "等势论证",
+    "宁静",
+    "皮浪主义",
+    "反独断论"
+  ],
+  "oneLineZh": "以《皮浪主义纲要》和《反学者》保存古代皮浪主义，并成为近代怀疑论复兴的文本枢纽。",
+  "influenceWeight": 3,
+  "reviewStatus": "draft",
+  "summaryZh": "塞克斯都·恩披里柯是保存最完整的皮浪主义怀疑论作者，他把怀疑论理解为设置相反论证、达到悬搁判断并获得宁静的能力；其文本经文艺复兴和近代接受影响蒙田、休谟以及知识论中的反基础主义问题。",
+  "works": [
+    "sextus-outlines-pyrrhonism",
+    "sextus-against-professors",
+    "sextus-against-logicians",
+    "sextus-against-physicists",
+    "sextus-against-ethicists"
+  ],
+  "sourceNotes": [
+    {
+      "label": "SEP",
+      "url": "https://plato.stanford.edu/entries/sextus-empiricus/",
+      "noteZh": "用于核对生平、现存著作、皮浪主义、悬搁判断、宁静和后世接受。"
+    },
+    {
+      "label": "review",
+      "noteZh": "E4 批新增条目，重点连接皮浪/卡尔涅阿德斯与蒙田/休谟的怀疑论断链。"
+    }
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "sextus:problem:001",
+        "titleZh": "怀疑论是一组教义还是一种能力？",
+        "questionZh": "塞克斯都如何把皮浪主义定义为设置相反论证并导向悬搁判断的能力？",
+        "summaryZh": "塞克斯都把怀疑论描述为处理显现与思想对象的能力，而不是关于世界的正面学说，从而避免把怀疑论变成另一种独断论。",
+        "themeIds": [
+          "knowledge"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "sextus:claim:001",
+            "titleZh": "怀疑论不是否定一切的教条",
+            "claimZh": "皮浪主义者不以不可知为新学说，而是在相反论证等势时继续探究并悬搁判断。",
+            "explanationZh": "这使塞克斯都区别于被他理解为更接近否定性教条的学院怀疑论，保留怀疑论作为实践能力的开放性。",
+            "themeIds": [
+              "knowledge"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "sextus:evidence:001",
+                "titleZh": "《皮浪主义纲要》开篇的三类探究者",
+                "summaryZh": "《皮浪主义纲要》开篇区分自称已经发现真理者、断言不可发现者和仍在探究者，皮浪主义属于第三类。",
+                "source": {
+                  "workId": "sextus-outlines-pyrrhonism",
+                  "locator": "PH I 1–4, three kinds of philosophy",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "sextus:evidence:002",
+                "titleZh": "SEP 对皮浪主义定位的概括",
+                "summaryZh": "SEP 指出皮浪主义不同于现代知识怀疑论，它更集中质疑信念的理性根据并保持持续探究。",
+                "source": {
+                  "workId": "sextus-outlines-pyrrhonism",
+                  "locator": "SEP Sextus Empiricus, introduction and section 3.1",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "sextus:claim:002",
+            "titleZh": "等势论证产生悬搁判断",
+            "claimZh": "当支持和反对某主张的论证在说服力上相互抵消时，怀疑论者进入悬搁判断。",
+            "explanationZh": "悬搁不是懒惰无知，而是经过双向考察后拒绝在理性不足处仓促立场化。",
+            "themeIds": [
+              "knowledge"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "sextus:evidence:003",
+                "titleZh": "PH I 8 的怀疑论能力定义",
+                "summaryZh": "《皮浪主义纲要》把怀疑论定义为以相反设置和等势性导向悬搁判断、继而产生宁静的能力。",
+                "source": {
+                  "workId": "sextus-outlines-pyrrhonism",
+                  "locator": "PH I 8–10, skeptical ability and equipollence",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "sextus:evidence:004",
+                "titleZh": "SEP 对 skeptical ability 的解释",
+                "summaryZh": "SEP 说明塞克斯都的怀疑论能力在于为任一论证找到相反且同等有力的论证，从而触发悬搁判断。",
+                "source": {
+                  "workId": "sextus-outlines-pyrrhonism",
+                  "locator": "SEP Sextus Empiricus, section 3.2",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "sextus:problem:002",
+        "titleZh": "悬搁判断如何连接生活与宁静？",
+        "questionZh": "塞克斯都怎样解释怀疑论者在无教条信念中仍能生活，并把悬搁判断同宁静相连？",
+        "summaryZh": "塞克斯都认为怀疑论者可依显现、习俗、感受和技艺生活，同时在理论意见上悬搁判断，宁静则像影子一样伴随悬搁而来。",
+        "themeIds": [
+          "life_death",
+          "ethics"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "sextus:claim:003",
+            "titleZh": "宁静不是直接追逐的教义目标",
+            "claimZh": "怀疑论者原本寻求解决纷争以获得宁静，却在悬搁判断后意外发现宁静随之而来。",
+            "explanationZh": "塞克斯都用这种偶然伴随关系避免把宁静变成需要证明的最高善教义，同时保留怀疑论的生活吸引力。",
+            "themeIds": [
+              "life_death",
+              "ethics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "sextus:evidence:005",
+                "titleZh": "PH I 25–30 的宁静叙述",
+                "summaryZh": "《皮浪主义纲要》说明怀疑论者因相互冲突的现象而寻求宁静，最终在悬搁判断后获得宁静。",
+                "source": {
+                  "workId": "sextus-outlines-pyrrhonism",
+                  "locator": "PH I 25–30, tranquillity follows suspension",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "sextus:evidence:006",
+                "titleZh": "SEP 对宁静和悬搁关系的说明",
+                "summaryZh": "SEP 解释塞克斯都将宁静描述为悬搁判断之后的结果，并讨论这一目标是否构成怀疑论内部张力。",
+                "source": {
+                  "workId": "sextus-outlines-pyrrhonism",
+                  "locator": "SEP Sextus Empiricus, section 3.3",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "sextus:claim:004",
+            "titleZh": "怀疑论者按显现生活",
+            "claimZh": "悬搁理论判断并不阻止日常行动，怀疑论者仍按照感受、习俗、法律和技艺训练行动。",
+            "explanationZh": "这一点回应怀疑论能否生活的反驳：塞克斯都不是要求身体和社会实践停摆，而是限制独断性理论同意。",
+            "themeIds": [
+              "ethics",
+              "life_death"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "sextus:evidence:007",
+                "titleZh": "PH I 21–24 的生活准则",
+                "summaryZh": "《皮浪主义纲要》列出自然引导、情感强制、法律习俗和技艺教导，说明怀疑论者仍有生活导向。",
+                "source": {
+                  "workId": "sextus-outlines-pyrrhonism",
+                  "locator": "PH I 21–24, fourfold observance",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "sextus:evidence:008",
+                "titleZh": "SEP 对怀疑论信念争论的说明",
+                "summaryZh": "SEP 讨论皮浪主义者是否有信念，并区分按显现承认与独断性理论同意之间的解释分歧。",
+                "source": {
+                  "workId": "sextus-outlines-pyrrhonism",
+                  "locator": "SEP Sextus Empiricus, section 3.4",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "sextus:problem:003",
+        "titleZh": "反独断论怎样进入近代怀疑论？",
+        "questionZh": "塞克斯都如何通过反逻辑、反自然和反伦理论证成为近代怀疑论复兴的文本资源？",
+        "summaryZh": "塞克斯都保存大量反独断论工具，尤其针对真理标准、因果、符号和伦理目的的论证，为蒙田和休谟之后的怀疑论问题提供古典材料。",
+        "themeIds": [
+          "knowledge",
+          "metaphysics"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "sextus:claim:005",
+            "titleZh": "真理标准问题破坏独断体系入口",
+            "claimZh": "若没有可独立证明的真理标准，逻辑、自然哲学和伦理学的正面体系都面临循环或争议。",
+            "explanationZh": "塞克斯都的反标准论使知识论难题前置化，迫使独断论说明何以能开始证明。",
+            "themeIds": [
+              "knowledge"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "sextus:evidence:009",
+                "titleZh": "《反逻辑学家》的标准论争",
+                "summaryZh": "《反逻辑学家》集中处理真理标准、符号和证明问题，展示塞克斯都如何攻击独断论的认识入口。",
+                "source": {
+                  "workId": "sextus-against-logicians",
+                  "locator": "M VII–VIII, criterion of truth and signs",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "sextus:evidence:010",
+                "titleZh": "SEP 对 PH II 与 M VII–XI 的说明",
+                "summaryZh": "SEP 指出《皮浪主义纲要》第二、三卷和《反学者》后五卷展开对逻辑、物理和伦理学 dogma 的怀疑论反驳。",
+                "source": {
+                  "workId": "sextus-against-logicians",
+                  "locator": "SEP Sextus Empiricus, sections 4–5",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "sextus:claim:006",
+            "titleZh": "塞克斯都成为近代怀疑论文本枢纽",
+            "claimZh": "文艺复兴以后塞克斯都文本重新流通，使古代皮浪主义成为蒙田、休谟和现代知识论的重要背景。",
+            "explanationZh": "这种影响不是单一命题传递，而是提供了一套反独断论姿态、论证库和对日常生活的怀疑论解释。",
+            "themeIds": [
+              "knowledge",
+              "life_death"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "sextus:evidence:011",
+                "titleZh": "SEP 对后世传播的参考定位",
+                "summaryZh": "SEP 专设塞克斯都著作后世历史参考，说明其文本传播与近代怀疑论复兴之间有重要关系。",
+                "source": {
+                  "workId": "sextus-outlines-pyrrhonism",
+                  "locator": "SEP Sextus Empiricus, section 6 on later history of writings",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "sextus:evidence:012",
+                "titleZh": "《反伦理学家》的生活目的批判",
+                "summaryZh": "《反伦理学家》攻击善、恶和生活目的的理论定义，为蒙田式习俗反省和休谟式实践怀疑提供古代资源。",
+                "source": {
+                  "workId": "sextus-against-ethicists",
+                  "locator": "M XI, against ethical dogmatists",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

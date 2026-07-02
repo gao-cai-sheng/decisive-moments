@@ -1,0 +1,297 @@
+{
+  "id": "suhrawardi",
+  "names": {
+    "zh": "苏赫拉瓦迪",
+    "en": "Shihab al-Din Suhrawardi",
+    "native": "Shihāb al-Dīn Yaḥyā al-Suhrawardī"
+  },
+  "life": {
+    "birth": 1154,
+    "death": 1191,
+    "display": "1154—1191"
+  },
+  "civilization": "islamic",
+  "traditions": [
+    "illuminationism",
+    "islamic_philosophy",
+    "persian_philosophy"
+  ],
+  "periods": [
+    "expansion_e4"
+  ],
+  "themes": [
+    "metaphysics",
+    "knowledge",
+    "religion"
+  ],
+  "keywordsZh": [
+    "照明哲学",
+    "光",
+    "临现知识",
+    "伊本·西那批判",
+    "东方哲学"
+  ],
+  "oneLineZh": "以照明哲学把伊本·西那传统、柏拉图主义光形而上学和临现知识改造成伊斯兰哲学新路线。",
+  "influenceWeight": 3,
+  "reviewStatus": "draft",
+  "summaryZh": "苏赫拉瓦迪创立照明哲学，在继承并批判伊本·西那的同时，以光的等级、临现知识、想象世界和东方智慧重构形而上学与认识论；其思想成为穆拉·萨德拉等后期伊朗伊斯兰哲学的重要来源。",
+  "works": [
+    "suhrawardi-philosophy-illumination",
+    "suhrawardi-intimations",
+    "suhrawardi-paths-havens",
+    "suhrawardi-oppositions",
+    "suhrawardi-temples-light",
+    "suhrawardi-occidental-exile"
+  ],
+  "sourceNotes": [
+    {
+      "label": "SEP",
+      "url": "https://plato.stanford.edu/entries/suhrawardi/",
+      "noteZh": "用于核对生平、照明哲学、临现知识、主要著作和后世影响。"
+    },
+    {
+      "label": "review",
+      "noteZh": "E4 批新增条目，重点连接伊本·西那/安萨里与穆拉·萨德拉。"
+    }
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "suhrawardi:problem:001",
+        "titleZh": "照明哲学如何改写逍遥派传统？",
+        "questionZh": "苏赫拉瓦迪如何继承并批判伊本·西那式哲学，建立以光为中心的形而上学？",
+        "summaryZh": "苏赫拉瓦迪保留逻辑和哲学论证，却认为真正智慧还需要照明和临现，以光的等级解释存在、知识和灵魂上升。",
+        "themeIds": [
+          "metaphysics",
+          "knowledge"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "suhrawardi:claim:001",
+            "titleZh": "光是存在和显现的核心隐喻与结构",
+            "claimZh": "照明哲学用光的强弱、遮蔽和显现来组织存在等级，而不是只沿用实体和本质语言。",
+            "explanationZh": "这使苏赫拉瓦迪能把形而上学、认识论和灵性实践合并成一个象征与论证并行的体系。",
+            "themeIds": [
+              "metaphysics",
+              "religion"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "suhrawardi:evidence:001",
+                "titleZh": "《照明哲学》的光等级",
+                "summaryZh": "《照明哲学》以光之光、支配光和暗质等结构组织存在等级，构成照明派形而上学核心并重写实体语言。",
+                "source": {
+                  "workId": "suhrawardi-philosophy-illumination",
+                  "locator": "The Philosophy of Illumination, metaphysics of lights",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "suhrawardi:evidence:002",
+                "titleZh": "SEP 对照明项目的定位",
+                "summaryZh": "SEP 将苏赫拉瓦迪定位为照明学派创立者，说明其综合哲学论证、古代智慧和神秘经验。",
+                "source": {
+                  "workId": "suhrawardi-philosophy-illumination",
+                  "locator": "SEP Suhrawardi, illuminationist project",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "suhrawardi:claim:002",
+            "titleZh": "逍遥派论证需要被照明经验补充",
+            "claimZh": "单靠概念定义和证明无法完成智慧，哲学家还必须获得临现和照明式认知。",
+            "explanationZh": "苏赫拉瓦迪不是反逻辑，而是把逻辑放在更高的知识转化和灵魂实践框架中。",
+            "themeIds": [
+              "knowledge",
+              "religion"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "suhrawardi:evidence:003",
+                "titleZh": "《暗示》的逍遥派结构",
+                "summaryZh": "《暗示》采用逻辑、自然哲学和形而上学结构，显示苏赫拉瓦迪仍认真继承伊本·西那式哲学技术。",
+                "source": {
+                  "workId": "suhrawardi-intimations",
+                  "locator": "al-Talwihat, logic and metaphysics",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "suhrawardi:evidence:004",
+                "titleZh": "《照明哲学》的方法转换",
+                "summaryZh": "《照明哲学》在论证之后要求读者进入照明性领悟，说明哲学知识必须由临现经验和灵魂训练完成。",
+                "source": {
+                  "workId": "suhrawardi-philosophy-illumination",
+                  "locator": "The Philosophy of Illumination, method and mystical realization",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "suhrawardi:problem:002",
+        "titleZh": "知识为何可以是临现的？",
+        "questionZh": "苏赫拉瓦迪如何用临现知识批判表象式认识论并说明自我认识？",
+        "summaryZh": "苏赫拉瓦迪认为自我并非通过图像或定义认识自身，而是在无中介的临现中被自身照亮，其他知识也可按显现关系重新理解。",
+        "themeIds": [
+          "knowledge",
+          "metaphysics"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "suhrawardi:claim:003",
+            "titleZh": "自我知识是无中介临现",
+            "claimZh": "灵魂认识自身不是因为获得自身的表象，而是因为自身直接向自身显现。",
+            "explanationZh": "这一论证挑战把知识理解为主体内部图像的模式，并成为后期伊斯兰认识论的重要资源。",
+            "themeIds": [
+              "knowledge"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "suhrawardi:evidence:005",
+                "titleZh": "《照明哲学》的临现知识论证",
+                "summaryZh": "《照明哲学》用自我意识和光显现说明临现知识，反对一切认识都必须通过抽象表象获得。",
+                "source": {
+                  "workId": "suhrawardi-philosophy-illumination",
+                  "locator": "The Philosophy of Illumination, knowledge by presence",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "suhrawardi:evidence:006",
+                "titleZh": "SEP 对 knowledge by presence 的概括",
+                "summaryZh": "SEP 将临现知识列为苏赫拉瓦迪最重要贡献之一，说明其对自我认识和后期伊朗哲学影响巨大。",
+                "source": {
+                  "workId": "suhrawardi-philosophy-illumination",
+                  "locator": "SEP Suhrawardi, epistemology and knowledge by presence",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "suhrawardi:claim:004",
+            "titleZh": "想象世界连接感性与理智",
+            "claimZh": "显现并不只有物质感性和抽象理智两层，中间的想象界为象征、梦和灵性经验提供本体位置。",
+            "explanationZh": "苏赫拉瓦迪借此解释寓言、异象和灵魂旅程，使叙事文本与形而上学体系互相支撑。",
+            "themeIds": [
+              "metaphysics",
+              "religion"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "suhrawardi:evidence:007",
+                "titleZh": "《西方流寓记》的灵魂寓言",
+                "summaryZh": "《西方流寓记》以流寓和归返叙事表达灵魂从黑暗世界回到东方光明的照明旅程，并展示象征叙事的哲学功能。",
+                "source": {
+                  "workId": "suhrawardi-occidental-exile",
+                  "locator": "Qissat al-Ghurbah al-Gharbiyyah, allegory of exile and return",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "suhrawardi:evidence:008",
+                "titleZh": "《光之神殿》的象征宇宙论",
+                "summaryZh": "《光之神殿》以简洁象征结构呈现灵魂、天体和光等级，展示想象表达与哲学论证的结合。",
+                "source": {
+                  "workId": "suhrawardi-temples-light",
+                  "locator": "Hayakil al-Nur, symbolic metaphysics",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "suhrawardi:problem:003",
+        "titleZh": "照明传统怎样通向穆拉·萨德拉？",
+        "questionZh": "苏赫拉瓦迪如何成为伊本·西那之后、穆拉·萨德拉之前的伊斯兰哲学中介？",
+        "summaryZh": "苏赫拉瓦迪既批判逍遥派本质论，又保存系统哲学雄心；其光形而上学和临现知识被后期伊朗哲学吸收并重组。",
+        "themeIds": [
+          "metaphysics",
+          "religion"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "suhrawardi:claim:005",
+            "titleZh": "照明哲学重开伊斯兰哲学路线",
+            "claimZh": "伊本·西那之后的哲学并未终结，苏赫拉瓦迪以照明传统提供新的问题语法。",
+            "explanationZh": "这条路线使哲学、神秘主义和波斯智慧资源合流，为穆拉·萨德拉式综合准备材料。",
+            "themeIds": [
+              "metaphysics",
+              "religion"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "suhrawardi:evidence:009",
+                "titleZh": "《道路与归宿》的系统哲学",
+                "summaryZh": "《道路与归宿》详细处理逻辑、物理和形而上学问题，说明照明哲学仍保留系统哲学结构。",
+                "source": {
+                  "workId": "suhrawardi-paths-havens",
+                  "locator": "al-Mashari wa-l-Mutarahat, systematic philosophy",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "suhrawardi:evidence:010",
+                "titleZh": "SEP 对后世照明学派的说明",
+                "summaryZh": "SEP 说明苏赫拉瓦迪的照明哲学在后期伊朗哲学中持续发挥影响，尤其进入穆拉·萨德拉综合。",
+                "source": {
+                  "workId": "suhrawardi-philosophy-illumination",
+                  "locator": "SEP Suhrawardi, legacy and later illuminationism",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "suhrawardi:claim:006",
+            "titleZh": "批判伊本·西那不等于抛弃他",
+            "claimZh": "苏赫拉瓦迪的创新建立在吸收伊本·西那逻辑和形而上学问题之后，对其进行方向性改造。",
+            "explanationZh": "因此他是断裂中的继承者：既要超出逍遥派，也离不开逍遥派训练和术语。",
+            "themeIds": [
+              "knowledge",
+              "metaphysics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "suhrawardi:evidence:011",
+                "titleZh": "《抵抗》的自我修正姿态",
+                "summaryZh": "《抵抗》对苏赫拉瓦迪早期逍遥派式表达进行调整，体现其从继承伊本·西那走向照明哲学的过渡。",
+                "source": {
+                  "workId": "suhrawardi-oppositions",
+                  "locator": "al-Muqawamat, revisions of Peripatetic formulations",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "suhrawardi:evidence:012",
+                "titleZh": "SEP 对逍遥派背景的说明",
+                "summaryZh": "SEP 指出苏赫拉瓦迪深受伊本·西那传统训练，同时以照明哲学批判并改造该传统，使继承与断裂并存。",
+                "source": {
+                  "workId": "suhrawardi-intimations",
+                  "locator": "SEP Suhrawardi, Avicennan background and critique",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

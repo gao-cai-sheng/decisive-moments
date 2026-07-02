@@ -1265,5 +1265,836 @@
     ],
     "noteZh": "帕斯卡关于理性限度、信仰风险和个体处境的写法常被视为克尔凯郭尔式存在宗教问题的先声。",
     "reviewStatus": "draft"
+  },
+  {
+    "id": "kant-peirce-influence",
+    "from": "kant",
+    "to": "peirce",
+    "type": "influence",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "knowledge",
+      "metaphysics"
+    ],
+    "noteZh": "皮尔士早年持续研读康德，并在范畴、先验逻辑和科学哲学问题上形成批判性继承。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "peirce-james-pragmatism",
+    "from": "peirce",
+    "to": "james",
+    "type": "influence",
+    "strength": 3,
+    "confidence": "high",
+    "themeIds": [
+      "knowledge"
+    ],
+    "noteZh": "詹姆斯把皮尔士的实用主义带入公共哲学语境，但也使皮尔士后来用 pragmaticism 标明自身逻辑版本。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "peirce-dewey-influence",
+    "from": "peirce",
+    "to": "dewey",
+    "type": "influence",
+    "strength": 3,
+    "confidence": "high",
+    "themeIds": [
+      "knowledge",
+      "politics"
+    ],
+    "noteZh": "杜威在约翰斯·霍普金斯接触皮尔士逻辑课程，后来把探究、习惯和实验主义扩展到教育与民主。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "james-dewey-influence",
+    "from": "james",
+    "to": "dewey",
+    "type": "influence",
+    "strength": 3,
+    "confidence": "high",
+    "themeIds": [
+      "knowledge",
+      "freedom"
+    ],
+    "noteZh": "杜威继承詹姆斯关于经验、习惯和实践后果的思想，将实用主义转向社会制度和民主教育。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "james-bergson-shared_problem",
+    "from": "james",
+    "to": "bergson",
+    "type": "shared_problem",
+    "strength": 2,
+    "confidence": "high",
+    "themeIds": [
+      "life_death",
+      "metaphysics"
+    ],
+    "noteZh": "詹姆斯和柏格森共同反对静态智识主义，强调经验流动、生命过程和概念边界之外的连续性。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "james-du-bois-teacher",
+    "from": "james",
+    "to": "du-bois",
+    "type": "direct_student",
+    "strength": 2,
+    "confidence": "high",
+    "themeIds": [
+      "knowledge",
+      "justice"
+    ],
+    "noteZh": "杜波依斯在哈佛修读詹姆斯课程，詹姆斯式心理学和经验问题成为其后期种族心理分析的背景。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "hegel-du-bois-reception",
+    "from": "hegel",
+    "to": "du-bois",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "politics",
+      "justice"
+    ],
+    "noteZh": "杜波依斯的双重意识、历史进展和废奴民主常被放在黑格尔精神、承认和伦理生活问题中解释。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "marx-du-bois-influence",
+    "from": "marx",
+    "to": "du-bois",
+    "type": "influence",
+    "strength": 2,
+    "confidence": "high",
+    "themeIds": [
+      "politics",
+      "justice"
+    ],
+    "noteZh": "《黑色重建》与后期政治思想吸收并改写马克思主义阶级、劳动和革命传统，以处理种族资本主义。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "du-bois-dewey-shared_problem",
+    "from": "du-bois",
+    "to": "dewey",
+    "type": "shared_problem",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "politics",
+      "justice"
+    ],
+    "noteZh": "杜波依斯和杜威都把民主理解为教育、公共判断和制度实验问题，但杜波依斯更集中于种族支配结构。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "moore-russell-influence",
+    "from": "moore",
+    "to": "russell",
+    "type": "influence",
+    "strength": 3,
+    "confidence": "high",
+    "themeIds": [
+      "knowledge",
+      "metaphysics"
+    ],
+    "noteZh": "摩尔的反观念论和命题实在论帮助罗素摆脱英国观念论，推动剑桥分析哲学形成。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "moore-wittgenstein-reception",
+    "from": "moore",
+    "to": "wittgenstein",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "high",
+    "themeIds": [
+      "knowledge",
+      "language"
+    ],
+    "noteZh": "维特根斯坦晚年《论确定性》直接回应摩尔常识命题和知道之说，形成对确定性的语言实践分析。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "frege-moore-shared_problem",
+    "from": "frege",
+    "to": "moore",
+    "type": "shared_problem",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "knowledge",
+      "language"
+    ],
+    "noteZh": "弗雷格与摩尔都反对心理主义，把意义、命题或思想对象从主观心理内容中区分出来。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "mill-moore-critique",
+    "from": "moore",
+    "to": "mill",
+    "type": "critique",
+    "strength": 2,
+    "confidence": "high",
+    "themeIds": [
+      "ethics"
+    ],
+    "noteZh": "摩尔在《伦理学原理》中以自然主义谬误批评把善化约为快乐或欲望满足的经验主义伦理路线。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "carnap-popper-critique",
+    "from": "popper",
+    "to": "carnap",
+    "type": "critique",
+    "strength": 2,
+    "confidence": "high",
+    "themeIds": [
+      "knowledge"
+    ],
+    "noteZh": "波普尔以证伪、反归纳和批判理性主义回应逻辑经验主义的确认与意义标准，卡尔纳普是其近邻争论对象。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "russell-popper-reception",
+    "from": "russell",
+    "to": "popper",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "knowledge",
+      "politics"
+    ],
+    "noteZh": "罗素赞赏波普尔的科学哲学和开放社会方向，使波普尔进入英语分析哲学和自由主义公共讨论的谱系。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "popper-wittgenstein-critique",
+    "from": "popper",
+    "to": "wittgenstein",
+    "type": "critique",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "knowledge",
+      "language"
+    ],
+    "noteZh": "波普尔反对把哲学问题化约为语言困惑，维特根斯坦则成为其战后英国哲学环境中的重要反面参照。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "popper-kuhn-critique",
+    "from": "popper",
+    "to": "kuhn",
+    "type": "critique",
+    "strength": 3,
+    "confidence": "high",
+    "themeIds": [
+      "knowledge"
+    ],
+    "noteZh": "库恩的范式和革命图景被广泛视为对波普尔证伪论和线性科学进步模型的历史化修正。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "kuhn-quine-shared_problem",
+    "from": "kuhn",
+    "to": "quine",
+    "type": "shared_problem",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "knowledge",
+      "language"
+    ],
+    "noteZh": "库恩的不可通约性和蒯因的整体论都削弱单命题经验检验模型，转向理论网络与语言框架问题。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "carnap-kuhn-shared_problem",
+    "from": "carnap",
+    "to": "kuhn",
+    "type": "shared_problem",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "knowledge"
+    ],
+    "noteZh": "库恩从逻辑经验主义之后的科学哲学语境出发，把卡尔纳普等人的逻辑重构转向科学史和共同体训练分析。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "hegel-dilthey-reception",
+    "from": "hegel",
+    "to": "dilthey",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "knowledge"
+    ],
+    "noteZh": "狄尔泰继承并历史化德国观念论的问题，把黑格尔式精神史转化为精神科学和生命表达的研究。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "dilthey-heidegger-influence",
+    "from": "dilthey",
+    "to": "heidegger",
+    "type": "influence",
+    "strength": 3,
+    "confidence": "high",
+    "themeIds": [
+      "life_death",
+      "knowledge"
+    ],
+    "noteZh": "海德格尔从狄尔泰的历史生命和理解问题出发，将解释学推进到此在的存在论分析。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "dilthey-gadamer-influence",
+    "from": "dilthey",
+    "to": "gadamer",
+    "type": "influence",
+    "strength": 3,
+    "confidence": "high",
+    "themeIds": [
+      "knowledge",
+      "language"
+    ],
+    "noteZh": "伽达默尔继承狄尔泰关于人文科学和理解的问题，同时批判其仍过分方法论化和主体化。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "heidegger-gadamer-influence",
+    "from": "heidegger",
+    "to": "gadamer",
+    "type": "influence",
+    "strength": 3,
+    "confidence": "high",
+    "themeIds": [
+      "language",
+      "metaphysics"
+    ],
+    "noteZh": "伽达默尔把海德格尔的存在论解释学转化为传统、语言和效果历史中的哲学解释学。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "gadamer-habermas-critique",
+    "from": "gadamer",
+    "to": "habermas",
+    "type": "critique",
+    "strength": 3,
+    "confidence": "high",
+    "themeIds": [
+      "language",
+      "politics"
+    ],
+    "noteZh": "伽达默尔与哈贝马斯围绕传统、权威、方法和批判反思展开解释学与批判理论之间的著名争论。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "gadamer-derrida-dialogue",
+    "from": "gadamer",
+    "to": "derrida",
+    "type": "shared_problem",
+    "strength": 2,
+    "confidence": "high",
+    "themeIds": [
+      "language"
+    ],
+    "noteZh": "伽达默尔和德里达围绕理解、对话、文本和差异发生直接对谈，构成解释学与解构之间的关键接口。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "kierkegaard-jaspers-reception",
+    "from": "kierkegaard",
+    "to": "jaspers",
+    "type": "reception",
+    "strength": 3,
+    "confidence": "high",
+    "themeIds": [
+      "freedom",
+      "religion"
+    ],
+    "noteZh": "雅斯贝尔斯把克尔凯郭尔视为生存哲学源头之一，从个体、决断和信仰处境中发展界限处境问题。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "nietzsche-jaspers-reception",
+    "from": "nietzsche",
+    "to": "jaspers",
+    "type": "reception",
+    "strength": 3,
+    "confidence": "high",
+    "themeIds": [
+      "freedom",
+      "life_death"
+    ],
+    "noteZh": "雅斯贝尔斯以尼采研究理解现代虚无主义、自由和超越问题，并将尼采纳入生存哲学谱系。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "heidegger-jaspers-shared_problem",
+    "from": "heidegger",
+    "to": "jaspers",
+    "type": "shared_problem",
+    "strength": 2,
+    "confidence": "high",
+    "themeIds": [
+      "metaphysics",
+      "freedom"
+    ],
+    "noteZh": "海德格尔和雅斯贝尔斯共同处在二十世纪德国生存哲学语境中，围绕存在、历史性和超越形成相近而分歧的路线。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "jaspers-arendt-direct_student",
+    "from": "jaspers",
+    "to": "arendt",
+    "type": "direct_student",
+    "strength": 3,
+    "confidence": "high",
+    "themeIds": [
+      "politics",
+      "freedom"
+    ],
+    "noteZh": "阿伦特曾师从并长期通信雅斯贝尔斯，政治责任、判断和公共世界问题在两人对话中持续展开。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "pyrrho-sextus-reception",
+    "from": "pyrrho",
+    "to": "sextus-empiricus",
+    "type": "reception",
+    "strength": 3,
+    "confidence": "high",
+    "themeIds": [
+      "knowledge",
+      "life_death"
+    ],
+    "noteZh": "塞克斯都系统保存并重述以皮浪命名的怀疑论传统，使皮浪主义成为后世可阅读的哲学路线。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "sextus-carneades-critique",
+    "from": "sextus-empiricus",
+    "to": "carneades",
+    "type": "critique",
+    "strength": 2,
+    "confidence": "high",
+    "themeIds": [
+      "knowledge"
+    ],
+    "noteZh": "塞克斯都区分皮浪主义与学院怀疑论，批评后者仍可能把不可知论变成一种独断主张。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "sextus-montaigne-influence",
+    "from": "sextus-empiricus",
+    "to": "montaigne",
+    "type": "influence",
+    "strength": 3,
+    "confidence": "high",
+    "themeIds": [
+      "knowledge",
+      "life_death"
+    ],
+    "noteZh": "塞克斯都文本的文艺复兴传播为蒙田的怀疑论、习俗相对性和自我反省提供关键古代资源。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "sextus-hume-reception",
+    "from": "sextus-empiricus",
+    "to": "hume",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "knowledge"
+    ],
+    "noteZh": "休谟的近代怀疑论处在塞克斯都复兴后的问题传统中，尤其围绕归纳、理性限度和日常生活形成回应。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "aquinas-duns-scotus-critique",
+    "from": "duns-scotus",
+    "to": "aquinas",
+    "type": "critique",
+    "strength": 3,
+    "confidence": "high",
+    "themeIds": [
+      "metaphysics",
+      "religion"
+    ],
+    "noteZh": "司各脱在存在、个体化、神学语言和意志问题上批判并改写托马斯主义框架。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "duns-scotus-ockham-influence",
+    "from": "duns-scotus",
+    "to": "ockham",
+    "type": "influence",
+    "strength": 3,
+    "confidence": "high",
+    "themeIds": [
+      "metaphysics",
+      "knowledge"
+    ],
+    "noteZh": "奥卡姆在经院争论中继承并反转司各脱关于共相、个体和神学语言的问题。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "duns-scotus-peirce-reception",
+    "from": "duns-scotus",
+    "to": "peirce",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "metaphysics",
+      "knowledge"
+    ],
+    "noteZh": "皮尔士曾把司各脱式经院实在论作为反唯名论资源，用以支撑其共相、规律和科学实在论倾向。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "aristotle-al-kindi-reception",
+    "from": "aristotle",
+    "to": "al-kindi",
+    "type": "reception",
+    "strength": 3,
+    "confidence": "high",
+    "themeIds": [
+      "metaphysics",
+      "knowledge"
+    ],
+    "noteZh": "肯迪通过阿拉伯翻译运动接收并整理亚里士多德哲学，将其纳入伊斯兰一神论和科学分类框架。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "plotinus-al-kindi-reception",
+    "from": "plotinus",
+    "to": "al-kindi",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "metaphysics",
+      "religion"
+    ],
+    "noteZh": "以《亚里士多德神学》等名义流通的新柏拉图主义材料影响肯迪对神、流溢和理智结构的理解。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "al-kindi-al-farabi-influence",
+    "from": "al-kindi",
+    "to": "al-farabi",
+    "type": "influence",
+    "strength": 3,
+    "confidence": "high",
+    "themeIds": [
+      "knowledge",
+      "metaphysics"
+    ],
+    "noteZh": "肯迪开创的阿拉伯哲学和希腊科学整理工作为法拉比的逻辑、政治和形而上学体系化提供早期基础。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "al-kindi-ibn-sina-influence",
+    "from": "al-kindi",
+    "to": "ibn-sina",
+    "type": "influence",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "metaphysics",
+      "knowledge"
+    ],
+    "noteZh": "肯迪代表的早期阿拉伯哲学传统为伊本·西那后来的存在论、理智论和科学分类提供前史。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "ibn-sina-suhrawardi-critique",
+    "from": "suhrawardi",
+    "to": "ibn-sina",
+    "type": "critique",
+    "strength": 3,
+    "confidence": "high",
+    "themeIds": [
+      "metaphysics",
+      "knowledge"
+    ],
+    "noteZh": "苏赫拉瓦迪继承伊本·西那术语和问题，却以照明哲学、临现知识和光等级批判逍遥派限制。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "al-ghazali-suhrawardi-shared_problem",
+    "from": "al-ghazali",
+    "to": "suhrawardi",
+    "type": "shared_problem",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "religion",
+      "knowledge"
+    ],
+    "noteZh": "安萨里和苏赫拉瓦迪都处理哲学证明、直观知识和灵性经验的关系，但苏赫拉瓦迪将其改造成系统照明哲学。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "suhrawardi-mulla-sadra-influence",
+    "from": "suhrawardi",
+    "to": "mulla-sadra",
+    "type": "influence",
+    "strength": 3,
+    "confidence": "high",
+    "themeIds": [
+      "metaphysics",
+      "religion"
+    ],
+    "noteZh": "穆拉·萨德拉综合伊本·西那、照明哲学和苏非思想时，苏赫拉瓦迪的光形而上学与临现知识是关键来源。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "al-ghazali-ibn-arabi-reception",
+    "from": "al-ghazali",
+    "to": "ibn-arabi",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "religion",
+      "life_death"
+    ],
+    "noteZh": "伊本·阿拉比继承更广泛的苏非和神学问题场，在知识、灵修和神人关系上延展安萨里之后的伊斯兰内在传统。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "plotinus-ibn-arabi-shared_problem",
+    "from": "plotinus",
+    "to": "ibn-arabi",
+    "type": "shared_problem",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "metaphysics",
+      "religion"
+    ],
+    "noteZh": "伊本·阿拉比的存在显现和等级宇宙论常与新柏拉图主义问题并读，但不能简单写成直接师承。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "ibn-arabi-mulla-sadra-influence",
+    "from": "ibn-arabi",
+    "to": "mulla-sadra",
+    "type": "influence",
+    "strength": 3,
+    "confidence": "high",
+    "themeIds": [
+      "metaphysics",
+      "religion"
+    ],
+    "noteZh": "穆拉·萨德拉的存在论综合深受伊本·阿拉比及阿克巴里学派关于存在、显现和神名问题的影响。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "xunzi-han-feizi-direct_student",
+    "from": "xunzi",
+    "to": "han-feizi",
+    "type": "direct_student",
+    "strength": 3,
+    "confidence": "high",
+    "themeIds": [
+      "politics",
+      "ethics"
+    ],
+    "noteZh": "传统记载韩非与李斯同学于荀子，韩非政治人性论可视为对荀子礼法问题的激进制度化改写。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "laozi-han-feizi-reception",
+    "from": "laozi",
+    "to": "han-feizi",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "high",
+    "themeIds": [
+      "politics",
+      "metaphysics"
+    ],
+    "noteZh": "《韩非子》含《解老》《喻老》，将《老子》道、德、无为等语言转化为君主术和政治秩序资源。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "han-feizi-confucius-critique",
+    "from": "han-feizi",
+    "to": "confucius",
+    "type": "critique",
+    "strength": 3,
+    "confidence": "high",
+    "themeIds": [
+      "politics",
+      "ethics"
+    ],
+    "noteZh": "韩非批判儒家仁义、复古和贤人政治，主张以法令、名实和赏罚替代德性榜样治理。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "han-feizi-mozi-critique",
+    "from": "han-feizi",
+    "to": "mozi",
+    "type": "critique",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "politics",
+      "justice"
+    ],
+    "noteZh": "《显学》等篇把儒墨并列为战国显学，批评其言说多端而不适合统一国家的功效治理。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "buddha-huineng-reception",
+    "from": "buddha",
+    "to": "huineng",
+    "type": "reception",
+    "strength": 3,
+    "confidence": "high",
+    "themeIds": [
+      "religion",
+      "freedom"
+    ],
+    "noteZh": "慧能《坛经》传统把佛陀觉悟、般若和解脱问题转化为中国禅宗见性成佛的顿悟语言。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "nagarjuna-huineng-shared_problem",
+    "from": "nagarjuna",
+    "to": "huineng",
+    "type": "shared_problem",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "religion",
+      "metaphysics"
+    ],
+    "noteZh": "慧能无相、无念和不住之说与大乘空性问题相通，但不宜写成龙树对慧能的直接师承。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "huineng-dogen-influence",
+    "from": "huineng",
+    "to": "dogen",
+    "type": "influence",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "religion",
+      "freedom"
+    ],
+    "noteZh": "道元继承中国禅宗世界，虽以曹洞传统为主，但慧能南宗形象构成东亚禅宗谱系的重要上游。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "huineng-zhuangzi-shared_problem",
+    "from": "zhuangzi",
+    "to": "huineng",
+    "type": "shared_problem",
+    "strength": 1,
+    "confidence": "medium",
+    "themeIds": [
+      "freedom",
+      "language"
+    ],
+    "noteZh": "庄子式不执著语言与禅宗无念、无住常被并读，但本条仅标记中国思想中的问题共振而非直接影响。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "mencius-zhang-zai-reception",
+    "from": "mencius",
+    "to": "zhang-zai",
+    "type": "reception",
+    "strength": 3,
+    "confidence": "high",
+    "themeIds": [
+      "ethics",
+      "politics"
+    ],
+    "noteZh": "张载以天地之性、民胞物与和成德工夫重写孟子性善、仁义和士人使命问题。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "zhang-zai-zhu-xi-influence",
+    "from": "zhang-zai",
+    "to": "zhu-xi",
+    "type": "influence",
+    "strength": 3,
+    "confidence": "high",
+    "themeIds": [
+      "metaphysics",
+      "ethics"
+    ],
+    "noteZh": "朱熹将张载《西铭》和气论纳入道学谱系，同时对理气关系作出不同重组。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "zhang-zai-wang-yangming-reception",
+    "from": "zhang-zai",
+    "to": "wang-yangming",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "ethics",
+      "freedom"
+    ],
+    "noteZh": "阳明学虽走向心学，但仍继承宋明理学关于成德、万物一体和士人责任的张载式问题背景。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "vasubandhu-dignaga-influence",
+    "from": "vasubandhu",
+    "to": "dignaga",
+    "type": "influence",
+    "strength": 3,
+    "confidence": "high",
+    "themeIds": [
+      "knowledge",
+      "metaphysics"
+    ],
+    "noteZh": "陈那继承世亲和瑜伽行派关于识、对象和论证的背景，将其改造成严格的量论体系。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "nagarjuna-dignaga-shared_problem",
+    "from": "nagarjuna",
+    "to": "dignaga",
+    "type": "shared_problem",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "knowledge",
+      "language"
+    ],
+    "noteZh": "陈那的遮诠和二量理论与中观关于概念、世俗和自性的争论相接，但并非龙树直接师承。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "dignaga-buddha-reception",
+    "from": "buddha",
+    "to": "dignaga",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "high",
+    "themeIds": [
+      "religion",
+      "knowledge"
+    ],
+    "noteZh": "陈那以量论方式重建佛教认识论，使佛法的解脱目标与有效认知、推理和语言分析相连接。",
+    "reviewStatus": "draft"
   }
 ]

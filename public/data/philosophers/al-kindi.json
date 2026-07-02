@@ -1,0 +1,299 @@
+{
+  "id": "al-kindi",
+  "names": {
+    "zh": "肯迪",
+    "en": "al-Kindi",
+    "native": "Yaʿqūb ibn Isḥāq al-Kindī"
+  },
+  "life": {
+    "birth": 801,
+    "death": 873,
+    "display": "约801—873"
+  },
+  "civilization": "islamic",
+  "traditions": [
+    "islamic_peripateticism",
+    "arabic_philosophy",
+    "translation_movement"
+  ],
+  "periods": [
+    "expansion_e4"
+  ],
+  "themes": [
+    "metaphysics",
+    "knowledge",
+    "religion"
+  ],
+  "keywordsZh": [
+    "阿拉伯哲学",
+    "第一哲学",
+    "翻译运动",
+    "理智",
+    "创造"
+  ],
+  "oneLineZh": "作为阿拉伯哲学源头人物，把希腊哲学翻译运动、第一哲学和伊斯兰一神论组织到同一项目中。",
+  "influenceWeight": 3,
+  "reviewStatus": "draft",
+  "summaryZh": "肯迪处在阿拔斯翻译运动和早期阿拉伯哲学形成期，他把亚里士多德、柏拉图和新柏拉图主义材料转化为阿拉伯语哲学问题，围绕第一哲学、神的唯一性、创造、理智和科学分类奠定法拉比与伊本·西那之前的传统起点。",
+  "works": [
+    "alkindi-on-first-philosophy",
+    "alkindi-definitions-descriptions",
+    "alkindi-on-intellect",
+    "alkindi-quantity-aristotle-books",
+    "alkindi-prostration-sphere",
+    "alkindi-dispelling-sorrows"
+  ],
+  "sourceNotes": [
+    {
+      "label": "SEP",
+      "url": "https://plato.stanford.edu/entries/al-kindi/",
+      "noteZh": "用于核对生平、翻译运动、第一哲学、神学、理智和后继影响。"
+    },
+    {
+      "label": "review",
+      "noteZh": "E4 批新增条目，重点补上法拉比和伊本·西那之前的伊斯兰哲学源头。"
+    }
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "alkindi:problem:001",
+        "titleZh": "希腊哲学如何成为阿拉伯语第一哲学？",
+        "questionZh": "肯迪如何在翻译运动中把亚里士多德和新柏拉图主义材料转化为伊斯兰哲学问题？",
+        "summaryZh": "肯迪把哲学定义为追求真理的最高知识，并将希腊形而上学、数学和自然哲学纳入阿拉伯语学术世界。",
+        "themeIds": [
+          "knowledge",
+          "metaphysics"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "alkindi:claim:001",
+            "titleZh": "哲学是寻求第一真理的知识",
+            "claimZh": "第一哲学研究第一真理和第一原因，因此与神的唯一性和世界秩序问题直接相连。",
+            "explanationZh": "肯迪由此将希腊哲学正当化为服务真理和神学理解的知识，而不是外来异教材料。",
+            "themeIds": [
+              "metaphysics",
+              "religion"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "alkindi:evidence:001",
+                "titleZh": "《论第一哲学》的真理定义",
+                "summaryZh": "《论第一哲学》把哲学理解为人按能力追求事物真理，并把第一真理与神的唯一性联系起来。",
+                "source": {
+                  "workId": "alkindi-on-first-philosophy",
+                  "locator": "On First Philosophy, opening definition and first truth",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "alkindi:evidence:002",
+                "titleZh": "SEP 对肯迪第一哲学的概括",
+                "summaryZh": "SEP 将《论第一哲学》列为肯迪核心文本，说明其以希腊哲学资源论证神、因果和一的问题。",
+                "source": {
+                  "workId": "alkindi-on-first-philosophy",
+                  "locator": "SEP al-Kindi, sections on metaphysics and first philosophy",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "alkindi:claim:002",
+            "titleZh": "翻译和定义建立哲学语言",
+            "claimZh": "阿拉伯哲学必须先整理术语、著作次序和学科分类，才能把希腊思想转化为可持续传统。",
+            "explanationZh": "肯迪的角色不只是提出孤立命题，而是创建阿拉伯哲学的语言基础和学习路径。",
+            "themeIds": [
+              "knowledge",
+              "language"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "alkindi:evidence:003",
+                "titleZh": "《事物定义与描述》的术语工程",
+                "summaryZh": "《事物定义与描述》汇集哲学术语解释，显示肯迪为阿拉伯语哲学建立概念词汇和学术翻译框架的努力。",
+                "source": {
+                  "workId": "alkindi-definitions-descriptions",
+                  "locator": "On Definitions and Descriptions, philosophical terminology",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "alkindi:evidence:004",
+                "titleZh": "《论亚里士多德著作的数量》的学习秩序",
+                "summaryZh": "《论亚里士多德著作的数量》整理亚里士多德著作和学习顺序，反映肯迪构建哲学课程的意图。",
+                "source": {
+                  "workId": "alkindi-quantity-aristotle-books",
+                  "locator": "On the Quantity of Aristotle's Books, curriculum and order",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "alkindi:problem:002",
+        "titleZh": "神的唯一性如何与宇宙因果相容？",
+        "questionZh": "肯迪怎样在创造、一和因果问题上协调伊斯兰神学与希腊形而上学？",
+        "summaryZh": "肯迪用一、因果和有限性论证世界依赖第一原因，同时坚持神的独一性和超越性，使形而上学服务于一神论。",
+        "themeIds": [
+          "religion",
+          "metaphysics"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "alkindi:claim:003",
+            "titleZh": "第一原因不是同类中的第一物",
+            "claimZh": "神作为真正的一和第一原因，不能被理解为世界中一个较高实体，而是万物依赖的超越根源。",
+            "explanationZh": "这一立场借用希腊形而上学语言，却服务于严格一神论，避免把神纳入同一等级链条。",
+            "themeIds": [
+              "religion",
+              "metaphysics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "alkindi:evidence:005",
+                "titleZh": "《论第一哲学》的一与因果",
+                "summaryZh": "《论第一哲学》通过一、多、因果和有限性讨论第一原因，强调神作为真正一者的超越性。",
+                "source": {
+                  "workId": "alkindi-on-first-philosophy",
+                  "locator": "On First Philosophy, unity and first cause",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "alkindi:evidence:006",
+                "titleZh": "SEP 对神学目标的说明",
+                "summaryZh": "SEP 指出肯迪的形而上学讨论服务于证明神的唯一性和超越性，并改写希腊材料以适应伊斯兰语境。",
+                "source": {
+                  "workId": "alkindi-on-first-philosophy",
+                  "locator": "SEP al-Kindi, God and creation sections",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "alkindi:claim:004",
+            "titleZh": "宇宙论可成为经文解释工具",
+            "claimZh": "天体秩序、运动和宇宙层级能够被用来解释经文中的创造和服从问题。",
+            "explanationZh": "肯迪不是把宗教与自然哲学分离，而是尝试让数学化宇宙论、亚里士多德传统和经文解释互相支撑。",
+            "themeIds": [
+              "religion",
+              "knowledge"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "alkindi:evidence:007",
+                "titleZh": "《论外层天球的俯伏》的经文宇宙论",
+                "summaryZh": "《论外层天球的俯伏》把天球秩序同经文中俯伏意象相连，展示哲学宇宙论服务经文解释的功能。",
+                "source": {
+                  "workId": "alkindi-prostration-sphere",
+                  "locator": "On the Prostration of the Outermost Sphere, cosmology and scripture",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "alkindi:evidence:008",
+                "titleZh": "SEP 对肯迪科学广度的说明",
+                "summaryZh": "SEP 说明肯迪不仅写形而上学，也涉足数学、天文学、光学和医学等学科，体现哲学与科学的综合项目。",
+                "source": {
+                  "workId": "alkindi-prostration-sphere",
+                  "locator": "SEP al-Kindi, works and scientific writings",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "alkindi:problem:003",
+        "titleZh": "理智与灵魂治疗如何连接？",
+        "questionZh": "肯迪如何在理智论和伦理治疗中说明人类有限心灵的完善路径？",
+        "summaryZh": "肯迪把人类理智理解为从潜能走向现实的能力，同时用哲学训练处理忧愁和欲望，使认识论与灵魂实践相连。",
+        "themeIds": [
+          "knowledge",
+          "ethics",
+          "life_death"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "alkindi:claim:005",
+            "titleZh": "理智从潜能走向现实",
+            "claimZh": "人类理智需要通过形式获得和主动理智关系，从潜在理解进入实际认识。",
+            "explanationZh": "肯迪的理智论为后来的法拉比和伊本·西那提供早期问题框架，尤其围绕主动理智和人类认识完善。",
+            "themeIds": [
+              "knowledge",
+              "metaphysics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "alkindi:evidence:009",
+                "titleZh": "《论理智》的四种理智",
+                "summaryZh": "《论理智》区分不同意义上的理智，说明人类理解如何从潜能状态转向现实知识，并为后续主动理智论奠基。",
+                "source": {
+                  "workId": "alkindi-on-intellect",
+                  "locator": "On the Intellect, types of intellect",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "alkindi:evidence:010",
+                "titleZh": "SEP 对肯迪理智论的定位",
+                "summaryZh": "SEP 将《论理智》列为阿拉伯理智论早期关键文本，并说明其影响后续伊斯兰哲学认识论。",
+                "source": {
+                  "workId": "alkindi-on-intellect",
+                  "locator": "SEP al-Kindi, psychology and intellect",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "alkindi:claim:006",
+            "titleZh": "哲学治疗忧愁",
+            "claimZh": "忧愁来自对易失事物的执著，理性训练能引导灵魂把价值转向更稳定的对象。",
+            "explanationZh": "这一伦理治疗传统把哲学从理论知识扩展为灵魂修炼，也显示肯迪与古代伦理和医学化哲学的连续性。",
+            "themeIds": [
+              "ethics",
+              "life_death"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "alkindi:evidence:011",
+                "titleZh": "《消除忧愁之术》的欲望治疗",
+                "summaryZh": "《消除忧愁之术》用理性分析说明财物、名声和身体对象的易失性，以减轻灵魂痛苦并训练价值判断。",
+                "source": {
+                  "workId": "alkindi-dispelling-sorrows",
+                  "locator": "On the Art of Dispelling Sorrows, therapy of attachment",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "alkindi:evidence:012",
+                "titleZh": "SEP 对肯迪伦理和心理文本的说明",
+                "summaryZh": "SEP 说明肯迪作品包含灵魂、忧愁和实践生活的讨论，显示其哲学项目不局限于抽象形而上学。",
+                "source": {
+                  "workId": "alkindi-dispelling-sorrows",
+                  "locator": "SEP al-Kindi, ethical and psychological writings",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

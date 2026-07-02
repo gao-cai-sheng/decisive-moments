@@ -1,0 +1,293 @@
+{
+  "id": "popper",
+  "names": {
+    "zh": "波普尔",
+    "en": "Karl Popper"
+  },
+  "life": {
+    "birth": 1902,
+    "death": 1994,
+    "display": "1902—1994"
+  },
+  "civilization": "european_modern",
+  "traditions": [
+    "philosophy_of_science",
+    "critical_rationalism",
+    "liberal_political_philosophy"
+  ],
+  "periods": [
+    "expansion_e3"
+  ],
+  "themes": [
+    "knowledge",
+    "politics",
+    "metaphysics"
+  ],
+  "keywordsZh": [
+    "可证伪性",
+    "批判理性主义",
+    "开放社会",
+    "历史主义批判",
+    "客观知识"
+  ],
+  "oneLineZh": "以可证伪性、批判理性主义和开放社会论重塑二十世纪科学哲学与政治哲学。",
+  "influenceWeight": 3,
+  "reviewStatus": "draft",
+  "summaryZh": "波普尔把科学理解为猜想与反驳的批判过程，以可证伪性区分科学和伪科学，并反对历史决定论和整体主义政治；他与维也纳圈、罗素、维特根斯坦、卡尔纳普和库恩共同构成二十世纪科学哲学的关键争论场。",
+  "works": [
+    "popper-logic-scientific-discovery",
+    "popper-poverty-historicism",
+    "popper-open-society",
+    "popper-conjectures-refutations",
+    "popper-objective-knowledge",
+    "popper-unended-quest"
+  ],
+  "sourceNotes": [
+    {
+      "label": "SEP",
+      "url": "https://plato.stanford.edu/entries/popper/",
+      "noteZh": "用于核对波普尔生平、可证伪性、批判理性主义、三世界与开放社会。"
+    },
+    {
+      "label": "review",
+      "noteZh": "E3 批新增条目，重点连接卡尔纳普/罗素/维特根斯坦与库恩的科学哲学链。"
+    }
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "popper:problem:001",
+        "titleZh": "科学如何区别于伪科学？",
+        "questionZh": "波普尔如何用可证伪性和批判检验改写科学划界问题？",
+        "summaryZh": "波普尔反对把科学建立在归纳验证上，认为科学理论应冒着被经验反驳的风险，通过严格检验获得暂时保留。",
+        "themeIds": [
+          "knowledge"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "popper:claim:001",
+            "titleZh": "可证伪性是科学划界标准",
+            "claimZh": "科学理论的经验性不在于被多少事例确认，而在于它禁止某些可能情况并可被反例击中。",
+            "explanationZh": "该命题把科学性从累积证据转向风险、禁止和批判检验，直接回应归纳主义和心理分析等伪科学争论。",
+            "themeIds": [
+              "knowledge"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "popper:evidence:001",
+                "titleZh": "《科学发现的逻辑》的划界问题",
+                "summaryZh": "《科学发现的逻辑》把划界问题置于中心，主张经验科学必须提出可能与经验冲突的普遍命题。",
+                "source": {
+                  "workId": "popper-logic-scientific-discovery",
+                  "locator": "The Logic of Scientific Discovery, chapters on demarcation and falsifiability",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "popper:evidence:002",
+                "titleZh": "SEP 对划界和证伪的说明",
+                "summaryZh": "SEP 将划界、基本陈述和可证伪性列为波普尔科学哲学核心章节，强调他用反例不对称性替代归纳验证。",
+                "source": {
+                  "workId": "popper-logic-scientific-discovery",
+                  "locator": "SEP Popper, sections 3–4",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "popper:claim:002",
+            "titleZh": "科学从问题和猜想开始",
+            "claimZh": "科学不是从无理论观察出发，而是从问题、猜想和演绎后果的检验出发。",
+            "explanationZh": "波普尔由此拒绝纯观察和归纳积累模型，把科学家理解为提出大胆猜想并主动寻找反驳的解题者。",
+            "themeIds": [
+              "knowledge"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "popper:evidence:003",
+                "titleZh": "《猜想与反驳》的方法口号",
+                "summaryZh": "《猜想与反驳》把知识增长描述为提出大胆理论并接受批判反驳的过程，而不是逐步积累确定观察。",
+                "source": {
+                  "workId": "popper-conjectures-refutations",
+                  "locator": "Conjectures and Refutations, essays on science and pseudo-science",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "popper:evidence:004",
+                "titleZh": "SEP 对知识增长的概括",
+                "summaryZh": "SEP 指出波普尔把科学知识增长理解为从问题出发的理论创造和演绎检验，观察本身也受理论引导。",
+                "source": {
+                  "workId": "popper-conjectures-refutations",
+                  "locator": "SEP Popper, section 5 The Growth of Human Knowledge",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "popper:problem:002",
+        "titleZh": "客观知识如何在无基础主义中增长？",
+        "questionZh": "波普尔如何在承认可错性的同时维持知识的客观性和进步性？",
+        "summaryZh": "波普尔拒绝经验基础主义，却认为理论、论证和问题可以作为第三世界对象进入公共批判，从而使知识增长不等于私人信念变化。",
+        "themeIds": [
+          "knowledge",
+          "metaphysics"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "popper:claim:003",
+            "titleZh": "知识增长依赖可错的公共批判",
+            "claimZh": "所有理论都可错，但正因它们可被公开批评，知识才可能通过淘汰错误而前进。",
+            "explanationZh": "这使波普尔能够同时反对怀疑论和教条主义：确定性并非目标，持续批判和问题改进才是理性形式。",
+            "themeIds": [
+              "knowledge"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "popper:evidence:005",
+                "titleZh": "《客观知识》的进化认识论",
+                "summaryZh": "《客观知识》把知识看成问题、理论和论证的客观内容，强调通过试错和批判选择实现增长。",
+                "source": {
+                  "workId": "popper-objective-knowledge",
+                  "locator": "Objective Knowledge, evolutionary epistemology essays",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "popper:evidence:006",
+                "titleZh": "SEP 对三世界论的章节定位",
+                "summaryZh": "SEP 专设三世界和客观知识章节，说明波普尔用第三世界解释理论内容相对于个体心理的独立性。",
+                "source": {
+                  "workId": "popper-objective-knowledge",
+                  "locator": "SEP Popper, section 7 Objective Knowledge and Three Worlds",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "popper:claim:004",
+            "titleZh": "逼真性保存科学进步观",
+            "claimZh": "即使多数理论最终为假，科学仍可通过更好问题、更高解释力和更接近真理的理论前进。",
+            "explanationZh": "逼真性概念试图说明可错论并不导致相对主义，科学史中的替代理论仍可按问题解决能力排序。",
+            "themeIds": [
+              "knowledge",
+              "metaphysics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "popper:evidence:007",
+                "titleZh": "《猜想与反驳》中的真理目标",
+                "summaryZh": "《猜想与反驳》把科学目标理解为通过批判接近真理，失败理论也能成为后续理论改进的资源。",
+                "source": {
+                  "workId": "popper-conjectures-refutations",
+                  "locator": "Conjectures and Refutations, truth and approximation discussions",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "popper:evidence:008",
+                "titleZh": "SEP 对概率、知识和逼真性的说明",
+                "summaryZh": "SEP 将概率、知识和逼真性列为波普尔体系的重要部分，说明其试图维持真理目标和可错论之间的张力。",
+                "source": {
+                  "workId": "popper-objective-knowledge",
+                  "locator": "SEP Popper, section 6 Probability, Knowledge and Verisimilitude",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "popper:problem:003",
+        "titleZh": "开放社会如何抵抗历史决定论？",
+        "questionZh": "波普尔如何把科学中的批判理性主义延伸为反历史主义和开放社会政治哲学？",
+        "summaryZh": "波普尔认为社会不能被历史规律整体预测，政治理性应以可修正的制度、公开批评和渐进改革取代乌托邦整体工程。",
+        "themeIds": [
+          "politics",
+          "freedom"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "popper:claim:005",
+            "titleZh": "历史主义误把趋势当规律",
+            "claimZh": "社会历史中的趋势不能像自然定律那样支持对未来整体进程的科学预言。",
+            "explanationZh": "该命题把波普尔的科学方法论转入政治领域，反对把革命或国家计划包装成历史必然性。",
+            "themeIds": [
+              "politics",
+              "knowledge"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "popper:evidence:009",
+                "titleZh": "《历史主义的贫困》的反预测论",
+                "summaryZh": "《历史主义的贫困》批评以历史规律预测社会整体未来的企图，强调知识增长本身会改变未来社会条件。",
+                "source": {
+                  "workId": "popper-poverty-historicism",
+                  "locator": "The Poverty of Historicism, critique of historical prediction",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "popper:evidence:010",
+                "titleZh": "SEP 对反历史主义政治思想的概括",
+                "summaryZh": "SEP 将历史主义和整体主义批判列入波普尔社会政治思想核心，说明其与开放社会立场相连。",
+                "source": {
+                  "workId": "popper-poverty-historicism",
+                  "locator": "SEP Popper, sections 8–10",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "popper:claim:006",
+            "titleZh": "开放社会依靠制度化批评",
+            "claimZh": "好的政治制度不应承诺完美蓝图，而应允许公众批评、替换统治者和逐步纠错。",
+            "explanationZh": "波普尔把政治自由理解为错误可被发现和纠正的制度条件，因此开放社会是批判理性的政治形式。",
+            "themeIds": [
+              "politics",
+              "freedom"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "popper:evidence:011",
+                "titleZh": "《开放社会及其敌人》的制度方向",
+                "summaryZh": "《开放社会及其敌人》批判柏拉图、黑格尔和马克思式历史主义，维护可批评、可改革的自由制度。",
+                "source": {
+                  "workId": "popper-open-society",
+                  "locator": "The Open Society and Its Enemies, critique of historicist politics",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "popper:evidence:012",
+                "titleZh": "SEP 对开放社会地位的说明",
+                "summaryZh": "SEP 开篇即把波普尔称为开放社会的倡导者，并把其政治哲学与科学中的反教条主义联系起来。",
+                "source": {
+                  "workId": "popper-open-society",
+                  "locator": "SEP Popper, introduction and social-political thought",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

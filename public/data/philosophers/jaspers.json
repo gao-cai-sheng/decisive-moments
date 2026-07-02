@@ -1,0 +1,299 @@
+{
+  "id": "jaspers",
+  "names": {
+    "zh": "雅斯贝尔斯",
+    "en": "Karl Jaspers"
+  },
+  "life": {
+    "birth": 1883,
+    "death": 1969,
+    "display": "1883—1969"
+  },
+  "civilization": "european_modern",
+  "traditions": [
+    "existenzphilosophie",
+    "phenomenology",
+    "political_philosophy"
+  ],
+  "periods": [
+    "expansion_e3"
+  ],
+  "themes": [
+    "freedom",
+    "religion",
+    "politics"
+  ],
+  "keywordsZh": [
+    "生存",
+    "界限处境",
+    "包围者",
+    "轴心时代",
+    "罪责问题"
+  ],
+  "oneLineZh": "以生存哲学、界限处境和轴心时代思想连接克尔凯郭尔、尼采、海德格尔与阿伦特。",
+  "influenceWeight": 3,
+  "reviewStatus": "draft",
+  "summaryZh": "雅斯贝尔斯从精神病理学进入哲学，以生存、界限处境、交往和超越问题回应克尔凯郭尔与尼采，并在战后以德国罪责、大学理念和轴心时代讨论政治责任；他也是阿伦特的重要老师和思想对话者。",
+  "works": [
+    "jaspers-general-psychopathology",
+    "jaspers-psychology-worldviews",
+    "jaspers-philosophy",
+    "jaspers-reason-existence",
+    "jaspers-origin-goal-history",
+    "jaspers-question-german-guilt",
+    "jaspers-great-philosophers"
+  ],
+  "sourceNotes": [
+    {
+      "label": "SEP",
+      "url": "https://plato.stanford.edu/entries/jaspers/",
+      "noteZh": "用于核对雅斯贝尔斯生平、精神病理学、生存哲学、轴心时代和政治责任。"
+    },
+    {
+      "label": "review",
+      "noteZh": "E3 批新增条目，重点连接克尔凯郭尔、尼采、海德格尔与阿伦特。"
+    }
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "jaspers:problem:001",
+        "titleZh": "生存如何在界限处境中显现？",
+        "questionZh": "雅斯贝尔斯如何从精神病理学和世界观心理学走向生存哲学？",
+        "summaryZh": "雅斯贝尔斯认为人在死亡、苦难、斗争、罪责等界限处境中发现自身无法被客观知识穷尽的生存可能。",
+        "themeIds": [
+          "freedom",
+          "life_death"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "jaspers:claim:001",
+            "titleZh": "界限处境暴露客观知识的边界",
+            "claimZh": "死亡、痛苦、斗争和罪责无法被纯对象化知识解决，却迫使个体面对自身生存。",
+            "explanationZh": "该命题把哲学从世界知识转向生存澄明，说明人不是可由科学描述完全替代的对象。",
+            "themeIds": [
+              "life_death",
+              "freedom"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "jaspers:evidence:001",
+                "titleZh": "《世界观心理学》的界限处境",
+                "summaryZh": "《世界观心理学》把界限处境作为人面对世界观崩解和生存可能时的关键经验，显示生存并非普通对象知识。",
+                "source": {
+                  "workId": "jaspers-psychology-worldviews",
+                  "locator": "Psychology of Worldviews, limit situations",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "jaspers:evidence:002",
+                "titleZh": "SEP 对生存哲学起点的概括",
+                "summaryZh": "SEP 说明雅斯贝尔斯由精神病理学转入哲学，围绕界限处境、生存和超越形成其核心问题。",
+                "source": {
+                  "workId": "jaspers-psychology-worldviews",
+                  "locator": "SEP Jaspers, existential philosophy sections",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "jaspers:claim:002",
+            "titleZh": "生存需要在自由中澄明",
+            "claimZh": "生存不是给定实体，而是在选择、交往和面对超越时被澄明的自由可能性。",
+            "explanationZh": "雅斯贝尔斯由此区别对象知识和生存哲学：哲学不制造对象体系，而唤醒个体成为自身。",
+            "themeIds": [
+              "freedom",
+              "religion"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "jaspers:evidence:003",
+                "titleZh": "《哲学》的三卷结构",
+                "summaryZh": "《哲学》以世界定向、生存澄明和形而上学组织体系，显示雅斯贝尔斯从知识转向自由和超越的路线。",
+                "source": {
+                  "workId": "jaspers-philosophy",
+                  "locator": "Philosophy, volumes on world orientation, elucidation of Existenz, metaphysics",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "jaspers:evidence:004",
+                "titleZh": "《理性与生存》的主题",
+                "summaryZh": "《理性与生存》围绕理性、生存、交往和超越展开，强调哲学通过沟通而非教条体系唤醒自由。",
+                "source": {
+                  "workId": "jaspers-reason-existence",
+                  "locator": "Reason and Existenz, lectures on reason and communication",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "jaspers:problem:002",
+        "titleZh": "超越和交往如何避免封闭体系？",
+        "questionZh": "雅斯贝尔斯如何在宗教、哲学信仰和包围者之间保持开放的超越关系？",
+        "summaryZh": "雅斯贝尔斯拒绝把超越对象化为可掌握知识，主张哲学信仰、密码和交往保持人与超越之间的开放张力。",
+        "themeIds": [
+          "religion",
+          "metaphysics"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "jaspers:claim:003",
+            "titleZh": "包围者不能被对象化",
+            "claimZh": "作为一切对象出现的条件，包围者不能被当成普通对象加以证明或占有。",
+            "explanationZh": "这一命题使雅斯贝尔斯既反对封闭形而上学体系，也反对把宗教经验压缩为心理事实。",
+            "themeIds": [
+              "religion",
+              "metaphysics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "jaspers:evidence:005",
+                "titleZh": "《哲学》的形而上学卷",
+                "summaryZh": "《哲学》第三卷把超越、密码和形而上学经验联系起来，拒绝把终极存在转成可掌握对象。",
+                "source": {
+                  "workId": "jaspers-philosophy",
+                  "locator": "Philosophy, metaphysics volume on transcendence and ciphers",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "jaspers:evidence:006",
+                "titleZh": "SEP 对包围者和超越的说明",
+                "summaryZh": "SEP 将包围者、超越和哲学信仰列为雅斯贝尔斯思想核心，说明其宗教哲学保持开放而非教义化。",
+                "source": {
+                  "workId": "jaspers-reason-existence",
+                  "locator": "SEP Jaspers, transcendence and encompassing",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "jaspers:claim:004",
+            "titleZh": "交往是生存真理的条件",
+            "claimZh": "个体不能在孤立内心中完成自身，真实生存需要在自由者之间的交往中被澄明。",
+            "explanationZh": "雅斯贝尔斯把哲学理解为开放沟通，这为其政治自由和大学理念提供存在论基础。",
+            "themeIds": [
+              "freedom",
+              "politics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "jaspers:evidence:007",
+                "titleZh": "《理性与生存》的交往主题",
+                "summaryZh": "《理性与生存》强调理性与生存必须通过交往相互打开，哲学不能退化为孤立主体的独白。",
+                "source": {
+                  "workId": "jaspers-reason-existence",
+                  "locator": "Reason and Existenz, communication and reason",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "jaspers:evidence:008",
+                "titleZh": "SEP 对沟通的政治含义",
+                "summaryZh": "SEP 说明交往和自由在雅斯贝尔斯思想中贯穿哲学、宗教和政治责任，而非附属主题。",
+                "source": {
+                  "workId": "jaspers-reason-existence",
+                  "locator": "SEP Jaspers, communication and freedom",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "jaspers:problem:003",
+        "titleZh": "历史责任如何成为哲学问题？",
+        "questionZh": "雅斯贝尔斯如何把轴心时代、德国罪责和公共责任纳入生存哲学？",
+        "summaryZh": "雅斯贝尔斯把世界历史理解为多文明共同开启的问题场，也在战后德国处境中要求个体和共同体承担政治与道德责任。",
+        "themeIds": [
+          "politics",
+          "religion",
+          "freedom"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "jaspers:claim:005",
+            "titleZh": "轴心时代建立世界历史共通问题",
+            "claimZh": "人类历史中多个文明曾相对同步地提出超越、伦理和反思问题，构成世界哲学的共同起点。",
+            "explanationZh": "轴心时代观念使雅斯贝尔斯超出民族哲学史，把哲学理解为跨文明的人类自我理解进程。",
+            "themeIds": [
+              "religion",
+              "politics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "jaspers:evidence:009",
+                "titleZh": "《历史的起源与目标》的轴心时代",
+                "summaryZh": "《历史的起源与目标》提出轴心时代概念，将中国、印度、希腊和以色列等传统的精神突破并置考察。",
+                "source": {
+                  "workId": "jaspers-origin-goal-history",
+                  "locator": "The Origin and Goal of History, axial age chapters",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "jaspers:evidence:010",
+                "titleZh": "SEP 对轴心时代的定位",
+                "summaryZh": "SEP 将轴心时代列入雅斯贝尔斯后期历史哲学，说明其把多文明精神突破纳入世界历史结构。",
+                "source": {
+                  "workId": "jaspers-origin-goal-history",
+                  "locator": "SEP Jaspers, history and Axial Age",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "jaspers:claim:006",
+            "titleZh": "罪责区分要求政治自我审判",
+            "claimZh": "战后德国不能只诉诸集体免责，而必须区分刑事、政治、道德和形而上罪责来承担责任。",
+            "explanationZh": "这一立场把生存哲学推入公共政治：个体和共同体都需要通过真诚判断摆脱逃避和神话。",
+            "themeIds": [
+              "politics",
+              "ethics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "jaspers:evidence:011",
+                "titleZh": "《德国罪责问题》的四重区分",
+                "summaryZh": "《德国罪责问题》区分刑事、政治、道德和形而上罪责，为战后公共责任和自我审判提供框架。",
+                "source": {
+                  "workId": "jaspers-question-german-guilt",
+                  "locator": "The Question of German Guilt, four types of guilt",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "jaspers:evidence:012",
+                "titleZh": "与阿伦特的政治对话背景",
+                "summaryZh": "雅斯贝尔斯与阿伦特长期通信并讨论责任、判断和政治灾难，使其战后哲学影响进入阿伦特政治思想。",
+                "source": {
+                  "workId": "jaspers-question-german-guilt",
+                  "locator": "Jaspers-Arendt correspondence and postwar responsibility context",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

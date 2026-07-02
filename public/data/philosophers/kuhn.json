@@ -1,0 +1,292 @@
+{
+  "id": "kuhn",
+  "names": {
+    "zh": "库恩",
+    "en": "Thomas Kuhn"
+  },
+  "life": {
+    "birth": 1922,
+    "death": 1996,
+    "display": "1922—1996"
+  },
+  "civilization": "american_modern",
+  "traditions": [
+    "philosophy_of_science",
+    "history_of_science",
+    "post_positivism"
+  ],
+  "periods": [
+    "expansion_e3"
+  ],
+  "themes": [
+    "knowledge",
+    "language",
+    "metaphysics"
+  ],
+  "keywordsZh": [
+    "范式",
+    "常规科学",
+    "科学革命",
+    "不可通约性",
+    "历史科学哲学"
+  ],
+  "oneLineZh": "以范式、常规科学和科学革命改写科学进步的历史哲学图景。",
+  "influenceWeight": 3,
+  "reviewStatus": "draft",
+  "summaryZh": "库恩把科学发展描述为常规科学、危机和革命交替的历史过程，强调范式、样例和共同体训练对事实、问题和评价标准的塑形作用；他既回应逻辑经验主义和波普尔式证伪论，也为后续历史化科学哲学开辟核心问题。",
+  "works": [
+    "kuhn-copernican-revolution",
+    "kuhn-structure-scientific-revolutions",
+    "kuhn-essential-tension",
+    "kuhn-black-body-theory",
+    "kuhn-road-since-structure"
+  ],
+  "sourceNotes": [
+    {
+      "label": "SEP",
+      "url": "https://plato.stanford.edu/entries/thomas-kuhn/",
+      "noteZh": "用于核对库恩生平、范式、科学革命、不可通约性与后期修正。"
+    },
+    {
+      "label": "review",
+      "noteZh": "E3 批新增条目，重点连接波普尔、卡尔纳普与蒯因之后的科学哲学问题。"
+    }
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "kuhn:problem:001",
+        "titleZh": "科学为何长期处在常规解谜中？",
+        "questionZh": "库恩如何用范式和常规科学解释科学共同体的稳定研究实践？",
+        "summaryZh": "库恩认为成熟科学通常不是不断推翻理论，而是在范式提供的样例、工具和问题空间中进行常规解谜。",
+        "themeIds": [
+          "knowledge"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "kuhn:claim:001",
+            "titleZh": "范式塑造问题和合格答案",
+            "claimZh": "范式不仅是一组命题，还包括样例、训练、工具和共同体认可的好问题。",
+            "explanationZh": "库恩因此把科学知识放进共同体实践之中，说明事实并非独立排队等待理论解释，而是经训练被看见和处理。",
+            "themeIds": [
+              "knowledge",
+              "language"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "kuhn:evidence:001",
+                "titleZh": "《科学革命的结构》的范式框架",
+                "summaryZh": "《科学革命的结构》把范式描述为共同体共享的成就和样例，常规研究在其规定的问题空间中展开。",
+                "source": {
+                  "workId": "kuhn-structure-scientific-revolutions",
+                  "locator": "The Structure of Scientific Revolutions, chapters on paradigms and normal science",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "kuhn:evidence:002",
+                "titleZh": "SEP 对范式概念的说明",
+                "summaryZh": "SEP 指出范式是库恩最著名但多义的概念，既指示例性科学成就，也指共同体共享的研究矩阵。",
+                "source": {
+                  "workId": "kuhn-structure-scientific-revolutions",
+                  "locator": "SEP Thomas Kuhn, sections on paradigms and disciplinary matrix",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "kuhn:claim:002",
+            "titleZh": "常规科学不是低级科学",
+            "claimZh": "常规科学通过细化测量、解决异常和扩展范式能力，使科学获得累积性的专业进展。",
+            "explanationZh": "库恩把常规研究从保守僵化中解放出来：它既依赖承诺，也创造后来危机和革命所需的精密压力。",
+            "themeIds": [
+              "knowledge"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "kuhn:evidence:003",
+                "titleZh": "常规科学的解谜结构",
+                "summaryZh": "《科学革命的结构》把常规科学比作解谜活动，研究者默认范式有效并努力消除具体难题和异常。",
+                "source": {
+                  "workId": "kuhn-structure-scientific-revolutions",
+                  "locator": "The Structure of Scientific Revolutions, chapters on puzzle-solving",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "kuhn:evidence:004",
+                "titleZh": "《必要的张力》的传统与创新",
+                "summaryZh": "《必要的张力》说明科学发展需要传统承诺和创新压力并存，常规训练本身为创造性突破提供条件。",
+                "source": {
+                  "workId": "kuhn-essential-tension",
+                  "locator": "The Essential Tension, essays on tradition and innovation",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "kuhn:problem:002",
+        "titleZh": "科学革命如何改变世界图像？",
+        "questionZh": "库恩怎样解释危机、革命和范式转换并不只是单个理论命题替换？",
+        "summaryZh": "库恩认为严重异常会引发危机，新范式改变问题、标准、事实组织和世界呈现方式，因此科学革命具有整体转换性质。",
+        "themeIds": [
+          "knowledge",
+          "metaphysics"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "kuhn:claim:003",
+            "titleZh": "危机打开范式转换空间",
+            "claimZh": "异常本身不会自动推翻范式，只有在累积压力改变共同体信心时才会形成危机。",
+            "explanationZh": "库恩由此修正朴素证伪论：科学共同体不会因单一反例立即放弃范式，而是在危机中重新评估研究传统。",
+            "themeIds": [
+              "knowledge"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "kuhn:evidence:005",
+                "titleZh": "危机章节的异常累积",
+                "summaryZh": "《科学革命的结构》通过异常、危机和新理论出现说明范式转换需要共同体实践结构发生动摇。",
+                "source": {
+                  "workId": "kuhn-structure-scientific-revolutions",
+                  "locator": "The Structure of Scientific Revolutions, chapters on anomaly and crisis",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "kuhn:evidence:006",
+                "titleZh": "SEP 对波普尔式证伪的比较",
+                "summaryZh": "SEP 说明库恩与波普尔不同，不把科学变革解释为单个反例造成的即时证伪，而强调历史共同体过程。",
+                "source": {
+                  "workId": "kuhn-structure-scientific-revolutions",
+                  "locator": "SEP Thomas Kuhn, section on normal science and falsification",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "kuhn:claim:004",
+            "titleZh": "革命改变观察和评价标准",
+            "claimZh": "新范式改变科学家看见什么、如何分类以及用何种标准判断问题解决成功。",
+            "explanationZh": "这使科学进步同时具有认知和语言结构变化，不能被还原为旧标准下的线性积累。",
+            "themeIds": [
+              "knowledge",
+              "language"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "kuhn:evidence:007",
+                "titleZh": "《哥白尼革命》的世界图像转换",
+                "summaryZh": "《哥白尼革命》展示天文学革命如何牵动数学、物理、宗教和宇宙图像，而不只是替换一个局部假说。",
+                "source": {
+                  "workId": "kuhn-copernican-revolution",
+                  "locator": "The Copernican Revolution, astronomical and cosmological change",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "kuhn:evidence:008",
+                "titleZh": "SEP 对世界变化说的概括",
+                "summaryZh": "SEP 指出库恩用科学革命描述共同体在范式转换后似乎生活在不同世界中的经验和评价差异。",
+                "source": {
+                  "workId": "kuhn-structure-scientific-revolutions",
+                  "locator": "SEP Thomas Kuhn, sections on scientific revolutions",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "kuhn:problem:003",
+        "titleZh": "不可通约性是否导致相对主义？",
+        "questionZh": "库恩如何处理不同范式之间翻译、比较和理性选择的困难？",
+        "summaryZh": "库恩后期把不可通约性更多解释为分类和词汇结构差异，试图在承认可比性困难的同时避免简单相对主义。",
+        "themeIds": [
+          "language",
+          "knowledge"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "kuhn:claim:005",
+            "titleZh": "不可通约性首先是语义和分类差异",
+            "claimZh": "不同范式可能用不同分类网络组织对象，使术语翻译和证据评价不能完全一一对应。",
+            "explanationZh": "库恩后期把革命差异从神秘世界转换重新表述为词汇和分类结构问题，从而保留理性比较的有限空间。",
+            "themeIds": [
+              "language",
+              "knowledge"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "kuhn:evidence:009",
+                "titleZh": "《结构以来的道路》的后期修正",
+                "summaryZh": "《结构以来的道路》收录库恩关于不可通约性、词汇结构和科学变化的后期论文，显示其对早期表述的语义化修正。",
+                "source": {
+                  "workId": "kuhn-road-since-structure",
+                  "locator": "The Road Since Structure, essays on incommensurability and lexicons",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "kuhn:evidence:010",
+                "titleZh": "SEP 对后期不可通约性的说明",
+                "summaryZh": "SEP 说明库恩后期把不可通约性限定为局部分类和翻译问题，避免将其理解成完全无法比较。",
+                "source": {
+                  "workId": "kuhn-road-since-structure",
+                  "locator": "SEP Thomas Kuhn, later philosophy and incommensurability",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "kuhn:claim:006",
+            "titleZh": "科学理性包含历史判断",
+            "claimZh": "理论选择不能只靠一条形式规则决定，而涉及准确性、范围、简洁性、成果潜力等价值权衡。",
+            "explanationZh": "库恩把科学理性从算法化规则转向训练有素的历史判断，说明共同价值可指导选择但不保证所有人同时同意。",
+            "themeIds": [
+              "knowledge"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "kuhn:evidence:011",
+                "titleZh": "《必要的张力》的理论选择价值",
+                "summaryZh": "《必要的张力》讨论科学选择中的准确性、一致性、范围、简洁性和成果性等价值，并指出这些价值可被不同权衡。",
+                "source": {
+                  "workId": "kuhn-essential-tension",
+                  "locator": "The Essential Tension, essay on objectivity, value judgment, and theory choice",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "kuhn:evidence:012",
+                "titleZh": "SEP 对相对主义指控的回应",
+                "summaryZh": "SEP 说明库恩并不简单否认科学理性，而是认为科学评价标准在历史共同体中运作且不总能形成算法结论。",
+                "source": {
+                  "workId": "kuhn-essential-tension",
+                  "locator": "SEP Thomas Kuhn, sections on theory choice and relativism",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
