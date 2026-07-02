@@ -1,0 +1,291 @@
+{
+  "id": "wollstonecraft",
+  "names": {
+    "zh": "玛丽·沃斯通克拉夫特",
+    "en": "Mary Wollstonecraft"
+  },
+  "life": {
+    "birth": 1759,
+    "death": 1797,
+    "display": "1759—1797"
+  },
+  "civilization": "european_modern",
+  "traditions": [
+    "early_feminism",
+    "enlightenment_political_thought"
+  ],
+  "periods": [
+    "expansion_e6"
+  ],
+  "themes": [
+    "justice",
+    "politics",
+    "ethics"
+  ],
+  "keywordsZh": [
+    "女性权利",
+    "理性教育",
+    "卢梭批判",
+    "公民德性"
+  ],
+  "oneLineZh": "以女性理性教育和公民平等批判启蒙时代的性别秩序。",
+  "influenceWeight": 3,
+  "reviewStatus": "draft",
+  "summaryZh": "沃斯通克拉夫特把女性教育、理性能力和公民身份连接起来，批判卢梭式性别教育和婚姻依附，成为现代女性主义政治哲学的重要源头。",
+  "works": [
+    "wollstonecraft-vindication-rights-woman",
+    "wollstonecraft-vindication-rights-men",
+    "wollstonecraft-historical-moral-view",
+    "wollstonecraft-thoughts-education-daughters",
+    "wollstonecraft-maria",
+    "wollstonecraft-letters-sweden"
+  ],
+  "sourceNotes": [
+    {
+      "label": "SEP",
+      "url": "https://plato.stanford.edu/entries/wollstonecraft/",
+      "noteZh": "核对生平、女性权利、教育和政治语境。"
+    }
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "wollstonecraft:problem:001",
+        "titleZh": "女性理性与公民教育",
+        "questionZh": "女性被排除出公民身份时，沃斯通克拉夫特如何把理性能力、教育和德性连在一起？",
+        "summaryZh": "沃斯通克拉夫特把女性受教育权理解为共和国德性和人格独立的条件，而不是私人家庭内部的装饰性修养。",
+        "themeIds": [
+          "justice",
+          "politics"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "wollstonecraft:claim:001",
+            "titleZh": "理性能力不是男性特权",
+            "claimZh": "沃斯通克拉夫特主张女性与男性同样具有可训练的理性能力，因此性别从属主要来自教育制度和社会习俗，而非自然本性。",
+            "explanationZh": "这条主张把她的女性权利论建立在启蒙理性和平等人格之上，直接反驳把女性限制在取悦男性角色中的教育观。",
+            "themeIds": [
+              "justice",
+              "knowledge"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "wollstonecraft:evidence:001",
+                "titleZh": "《为女权辩护》第二章论女性教育",
+                "summaryZh": "《为女权辩护》第二章把女性轻浮、依赖和虚荣解释为错误教育的产物，并要求用同一理性标准衡量两性德性。",
+                "source": {
+                  "workId": "wollstonecraft-vindication-rights-woman",
+                  "locator": "Chapter II, discussion of prevailing opinions about women and education",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "wollstonecraft:evidence:002",
+                "titleZh": "《关于女儿教育的思考》论道德训练",
+                "summaryZh": "早期教育文本已把女儿教育放在习惯、节制和判断力训练中处理，显示她并非只要求知识装饰，而是要求人格能力。",
+                "source": {
+                  "workId": "wollstonecraft-thoughts-education-daughters",
+                  "locator": "Moral Discipline and early chapters on female education",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "wollstonecraft:claim:002",
+            "titleZh": "公民德性需要女性独立",
+            "claimZh": "她把女性独立理解为公共德性的前提：若女性只能依附婚姻和男性评价，家庭与国家都无法形成真正负责任的公民。",
+            "explanationZh": "这条主张把女权问题推进到政治共同体层面，使女性教育、婚姻改革和共和国德性成为同一个问题。",
+            "themeIds": [
+              "justice",
+              "politics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "wollstonecraft:evidence:003",
+                "titleZh": "《为女权辩护》第九章论政治与家庭依附",
+                "summaryZh": "第九章把女性财产、职业和公民地位联系起来，指出经济依附会让婚姻关系变成奴役式关系。",
+                "source": {
+                  "workId": "wollstonecraft-vindication-rights-woman",
+                  "locator": "Chapter IX, political and civil degradation of women",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "wollstonecraft:evidence:004",
+                "titleZh": "《玛丽亚》开篇的婚姻囚禁叙事",
+                "summaryZh": "《玛丽亚》用小说形式呈现婚姻法和精神病院式禁闭如何剥夺女性行动能力，使政治论证转化为生活处境。",
+                "source": {
+                  "workId": "wollstonecraft-maria",
+                  "locator": "Opening chapters on Maria's confinement and marital dispossession",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "wollstonecraft:problem:002",
+        "titleZh": "启蒙权利与卢梭批判",
+        "questionZh": "她怎样把法国革命语境中的权利语言用于批判性别秩序和卢梭式女性教育？",
+        "summaryZh": "在权利论和卢梭批判中，沃斯通克拉夫特要求启蒙平等原则承担自身后果，不能在性别边界前停止。",
+        "themeIds": [
+          "justice",
+          "politics"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "wollstonecraft:claim:003",
+            "titleZh": "自然权利不能停在男性边界",
+            "claimZh": "沃斯通克拉夫特把反世袭、反等级的权利语言延伸到女性，认为若自由和平等只保护男性公民，它们就仍保留贵族式特权结构。",
+            "explanationZh": "这条主张使她与伯克、卢梭和革命政治相接，显示女权论不是附属议题，而是检验启蒙普遍性的试金石。",
+            "themeIds": [
+              "justice",
+              "politics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "wollstonecraft:evidence:005",
+                "titleZh": "《为人权辩护》反驳世袭等级",
+                "summaryZh": "《为人权辩护》以反伯克的小册子形式批评世袭权威和贵族感伤，为后来把权利原则扩展到女性奠定政治语境。",
+                "source": {
+                  "workId": "wollstonecraft-vindication-rights-men",
+                  "locator": "Reply to Burke on hereditary rank and rights",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "wollstonecraft:evidence:006",
+                "titleZh": "《法国革命的历史与道德观》论革命原则",
+                "summaryZh": "法国革命史论把政治自由、公共德性和制度腐败连在一起，说明她对权利的理解始终带有制度改革维度。",
+                "source": {
+                  "workId": "wollstonecraft-historical-moral-view",
+                  "locator": "Book I, account of revolutionary principles and civic corruption",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "wollstonecraft:claim:004",
+            "titleZh": "卢梭女性教育制造依附人格",
+            "claimZh": "她批判卢梭把女性教育导向顺从、魅力和取悦男性，认为这种教育不是自然差异的表达，而是人为制造的不平等。",
+            "explanationZh": "这条主张准确落在《爱弥儿》接受史上：她不是拒绝教育论本身，而是反对把教育变成性别支配技术。",
+            "themeIds": [
+              "justice",
+              "ethics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "wollstonecraft:evidence:007",
+                "titleZh": "《为女权辩护》第五章批判卢梭",
+                "summaryZh": "第五章直接反驳卢梭关于索菲的教育方案，指出以取悦男性为目的的训练会败坏女性理性和男性德性。",
+                "source": {
+                  "workId": "wollstonecraft-vindication-rights-woman",
+                  "locator": "Chapter V, Rousseau section on Sophie and female character",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "wollstonecraft:evidence:008",
+                "titleZh": "《为女权辩护》第十二章论国民教育",
+                "summaryZh": "第十二章提出男女共同教育和公共学校方案，把对卢梭家庭性别分工的批判推进为制度性替代方案。",
+                "source": {
+                  "workId": "wollstonecraft-vindication-rights-woman",
+                  "locator": "Chapter XII, national education and co-education",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "wollstonecraft:problem:003",
+        "titleZh": "情感、自我与女性主义后效",
+        "questionZh": "她的情感书写和小说文本如何影响后世女性主义对人格、自我和制度压迫的理解？",
+        "summaryZh": "沃斯通克拉夫特不仅写权利论，也通过书信和小说呈现女性主体在情感、法律和经济结构中的受限经验。",
+        "themeIds": [
+          "ethics",
+          "freedom"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "wollstonecraft:claim:005",
+            "titleZh": "感受性需要理性约束而非贬低",
+            "claimZh": "她没有简单压制情感，而是要求感受性接受理性和德性的塑形，使女性主体既能感受不义，也能形成判断。",
+            "explanationZh": "这条主张避免把她误读成冷硬理性主义者；其北欧书信显示情感、自我反省和道德判断可以互相支撑。",
+            "themeIds": [
+              "ethics",
+              "freedom"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "wollstonecraft:evidence:009",
+                "titleZh": "《瑞典、挪威和丹麦短居书简》的自我反省",
+                "summaryZh": "北欧书信以旅行、孤独和商业社会观察交织出情感自我，显示她把敏感性转化为道德和政治判断资源。",
+                "source": {
+                  "workId": "wollstonecraft-letters-sweden",
+                  "locator": "Letter I and later reflections on commerce, solitude, and feeling",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "wollstonecraft:evidence:010",
+                "titleZh": "《为女权辩护》第四章论美德与欲望",
+                "summaryZh": "第四章批评把女性感情训练成虚荣和取悦，主张欲望必须在理性德性中获得方向，并把女性自我塑造成可判断的主体。",
+                "source": {
+                  "workId": "wollstonecraft-vindication-rights-woman",
+                  "locator": "Chapter IV, observations on degraded female character and virtue",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "wollstonecraft:claim:006",
+            "titleZh": "后世女性主义继承制度压迫分析",
+            "claimZh": "后世女性主义从她那里继承的不只是平等口号，更是把教育、婚姻法、经济依附和文化想象作为同一压迫结构来分析的方法。",
+            "explanationZh": "这条主张解释她与密尔、波伏娃、hooks 等关系：她提供了把私人生活政治化的早期模型。",
+            "themeIds": [
+              "justice",
+              "politics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "wollstonecraft:evidence:011",
+                "titleZh": "《玛丽亚》中的法律与经济剥夺",
+                "summaryZh": "《玛丽亚》通过女主人公财产和子女被夺的情节，把婚姻法、医学权威和男性监护连接成制度性压迫。",
+                "source": {
+                  "workId": "wollstonecraft-maria",
+                  "locator": "Chapters on marriage law, property loss, and maternal separation",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "wollstonecraft:evidence:012",
+                "titleZh": "《为女权辩护》第十三章的习俗批判",
+                "summaryZh": "第十三章把礼仪、阅读趣味、婚恋市场和家庭教育作为互相强化的习俗网络批判，预示后世女性主义的社会化分析。",
+                "source": {
+                  "workId": "wollstonecraft-vindication-rights-woman",
+                  "locator": "Chapter XIII, examples of folly produced by custom and manners",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

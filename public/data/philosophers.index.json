@@ -4725,5 +4725,178 @@
     "oneLineZh": "以《集量论》奠定佛教量论，把有效认知限定为现量与比量，并提出遮诠语言理论。",
     "influenceWeight": 3,
     "reviewStatus": "draft"
+  },
+  {
+    "id": "wollstonecraft",
+    "names": {
+      "zh": "玛丽·沃斯通克拉夫特",
+      "en": "Mary Wollstonecraft"
+    },
+    "life": {
+      "birth": 1759,
+      "death": 1797,
+      "display": "1759—1797"
+    },
+    "civilization": "european_modern",
+    "traditions": [
+      "early_feminism",
+      "enlightenment_political_thought"
+    ],
+    "periods": [
+      "expansion_e6"
+    ],
+    "themes": [
+      "justice",
+      "politics",
+      "ethics"
+    ],
+    "keywordsZh": [
+      "女性权利",
+      "理性教育",
+      "卢梭批判",
+      "公民德性"
+    ],
+    "oneLineZh": "以女性理性教育和公民平等批判启蒙时代的性别秩序。",
+    "influenceWeight": 3,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "anscombe",
+    "names": {
+      "zh": "安斯康姆",
+      "en": "G. E. M. Anscombe"
+    },
+    "life": {
+      "birth": 1919,
+      "death": 2001,
+      "display": "1919—2001"
+    },
+    "civilization": "european_modern",
+    "traditions": [
+      "analytic_philosophy",
+      "virtue_ethics",
+      "philosophy_of_action"
+    ],
+    "periods": [
+      "expansion_e6"
+    ],
+    "themes": [
+      "ethics",
+      "language",
+      "freedom"
+    ],
+    "keywordsZh": [
+      "意向",
+      "行动哲学",
+      "德性伦理",
+      "维特根斯坦"
+    ],
+    "oneLineZh": "以意向行动分析和现代道德哲学批判推动德性伦理复兴。",
+    "influenceWeight": 3,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "rosenzweig",
+    "names": {
+      "zh": "罗森茨维格",
+      "en": "Franz Rosenzweig"
+    },
+    "life": {
+      "birth": 1886,
+      "death": 1929,
+      "display": "1886—1929"
+    },
+    "civilization": "european_modern",
+    "traditions": [
+      "jewish_philosophy",
+      "dialogical_philosophy",
+      "existentialism"
+    ],
+    "periods": [
+      "expansion_e6"
+    ],
+    "themes": [
+      "religion",
+      "language",
+      "metaphysics"
+    ],
+    "keywordsZh": [
+      "救赎之星",
+      "启示",
+      "对话",
+      "反黑格尔"
+    ],
+    "oneLineZh": "以《救赎之星》反击总体体系，并开出现代犹太对话哲学路线。",
+    "influenceWeight": 3,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "fanon",
+    "names": {
+      "zh": "法农",
+      "en": "Frantz Fanon"
+    },
+    "life": {
+      "birth": 1925,
+      "death": 1961,
+      "display": "1925—1961"
+    },
+    "civilization": "global_south_modern",
+    "traditions": [
+      "postcolonial_theory",
+      "black_radical_thought",
+      "psychiatry_and_politics"
+    ],
+    "periods": [
+      "expansion_e6"
+    ],
+    "themes": [
+      "justice",
+      "politics",
+      "freedom"
+    ],
+    "keywordsZh": [
+      "殖民心理",
+      "主体形成",
+      "民族解放",
+      "后殖民"
+    ],
+    "oneLineZh": "以殖民心理分析和民族解放理论连接存在主义与后殖民思想。",
+    "influenceWeight": 3,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "freire",
+    "names": {
+      "zh": "弗莱雷",
+      "en": "Paulo Freire"
+    },
+    "life": {
+      "birth": 1921,
+      "death": 1997,
+      "display": "1921—1997"
+    },
+    "civilization": "latin_american_modern",
+    "traditions": [
+      "critical_pedagogy",
+      "popular_education"
+    ],
+    "periods": [
+      "expansion_e6"
+    ],
+    "themes": [
+      "justice",
+      "politics",
+      "knowledge"
+    ],
+    "keywordsZh": [
+      "被压迫者教育学",
+      "意识化",
+      "对话",
+      "银行式教育批判"
+    ],
+    "oneLineZh": "以对话、意识化和银行式教育批判奠定批判教育学。",
+    "influenceWeight": 3,
+    "reviewStatus": "draft"
   }
 ]

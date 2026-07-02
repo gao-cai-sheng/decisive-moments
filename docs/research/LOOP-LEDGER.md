@@ -74,9 +74,10 @@
 | 2026-07-02 | popper,kuhn,dilthey,gadamer,jaspers | expansion_e3_admitted | each 3 / 6 / 12 + real workIds + ≥2 relationships | validate-kimi ok / admit dry-run ok / batch --require-standard ok / admit written / validate-data ok / full --require-standard ok / build ok | A档 E3 科学哲学/解释学/生存哲学链完成；新增5位 philosopher、30个真实 works、16条 relationships；正式库 130→135，relationships 105→121；每位关系≥3且连接既有哲人≥2；停等外部审核复核放行 |
 | 2026-07-02 | sextus-empiricus,duns-scotus,al-kindi,suhrawardi,ibn-arabi | expansion_e4_admitted | each 3 / 6 / 12 + real workIds + ≥2 relationships | validate-kimi ok / admit dry-run ok / batch --require-standard ok / admit written / validate-data ok / full --require-standard ok / build ok | A档 E4 古代怀疑论/经院/伊斯兰哲学断链完成；新增5位 philosopher、29个真实 works、17条 relationships；正式库 135→140，relationships 121→138；每位关系≥3且连接既有哲人≥3；停等外部审核复核放行 |
 | 2026-07-02 | han-feizi,huineng,zhang-zai,dignaga | expansion_e5_admitted_resolved | each 3 / 6 / 12 + real workIds + ≥2 relationships | validate-kimi ok / admit dry-run ok / batch --require-standard ok / admit written on retry / validate-data ok / full --require-standard ok / build ok | A档 E5 东亚印度断链完成；新增4位 philosopher、24个真实 works、14条 relationships；正式库基础计数 140→144，relationships 138→152；2026-07-02T22:29+08:00 重试写入成功，缺口清零 |
-| —— 待办 —— | external_review | needs_human | - | - | E2–E5 已交付，停等外部审核；下一步是否进入 E6 需复核放行；B档 Zera Yacob 后续入库 id 必须用 zera-yacob，与现有 zelea 区分 |
+| 2026-07-02 | wollstonecraft,anscombe,rosenzweig,fanon,freire | expansion_e6_redone_after_template_reject | each 3 / 6 / 12 + real workIds + ≥2 relationships | 外部审核打回旧 E6 / quality-audit 新增 template_similarity + duplicate_claim_text + workid_in_summary RED 并单测通过 / 旧 E6 五人全 RED 且其余144零误报 / validate-kimi ok / admit dry-run ok / batch --require-standard ok / admit written / post verify ok / full quality-audit ok / validate-data ok / build ok | E6 首版为二代模板灌水：同 problem 内 claimZh 精确重复、summaryZh 粘贴 workId、locator 伪定位；works/relationships 保留为真；本轮重写五位 thoughtSystem，新增5位 philosopher、30个真实 works、20条 relationships；正式库基础计数 144→149，relationships 152→172；当前 149/149 全绿，停等外部复核 |
+| —— 待办 —— | external_review | needs_human | - | - | E6 已按外部审核意见重做并通过新门3，停等外部复核；下一步是否进入 E7/B档需复核放行；B档 Zera Yacob 后续入库 id 必须用 zera-yacob，与现有 zelea 区分 |
 
-> 当前正式库：144 哲人，144 位有 thoughtSystem。E2–E5 已完成；下一步停等外部审核决定是否进入 E6。
+> 当前正式库：149 哲人，149 位有 thoughtSystem。E6 已打回重做并通过新门3；下一步停等外部审核决定是否进入 E7/B档。
 
 ---
 
@@ -150,5 +151,7 @@
 [戳记] 2026-07-02T20:50+08:00 | from:ChatGPT → to:ChatGPT | 原因:expansion_e3_done | 正式库:135位 | 剩余:E3 待外部审核；下一批 E4 暂不执行 | 下一步:等待外部复核放行后再进 E4；禁止 git commit/push；B档 Zera Yacob id 用 zera-yacob，与 zelea 区分
 [戳记] 2026-07-02T21:18+08:00 | from:ChatGPT → to:ChatGPT | 原因:expansion_e4_done | 正式库:140位 | 剩余:E4 待外部审核；下一批 E5 暂不执行 | 下一步:等待外部复核放行后再进 E5；禁止 git commit/push；B档 Zera Yacob id 用 zera-yacob，与 zelea 区分
 [戳记] 2026-07-02T21:32+08:00 | from:ChatGPT → to:ChatGPT | 原因:expansion_e5_blocked | 正式库:144位/140位有thoughtSystem | 剩余:E5 thoughtSystem 暂存批全绿但 admit --write 被安全层拦截；下一批 E6 暂不执行 | 下一步:外部/人工处理 E5 admit 写入或解除安全层后续跑；禁止 git commit/push；B档 Zera Yacob id 用 zera-yacob，与 zelea 区分
-[戳记] 2026-07-02T22:29+08:00 | from:ChatGPT → to:ChatGPT | 原因:expansion_e5_gap_resolved | 正式库:144位/144位有thoughtSystem | 剩余:E2–E5 待外部审核；下一批 E6 暂不执行 | 下一步:等待外部复核放行后再进 E6；禁止 git commit/push；B档 Zera Yacob id 用 zera-yacob，与现有 zelea 区分
+[戳记] 2026-07-02T21:47+08:00 | from:ChatGPT → to:ChatGPT | 原因:expansion_e6_initial_rejected | 正式库:149位/149位有thoughtSystem | 剩余:E6 首版被外部审核打回：wollstonecraft/anscombe/rosenzweig/fanon/freire 为二代模板灌水，claimZh 同句式且同 problem 内重复，summaryZh 粘贴 workId，locator 伪定位 | 下一步:先提交 E2–E5 干净成果；给 quality-audit 增加 template_similarity / duplicate_claim_text / workid_in_summary 三条结构性 RED；随后重做 E6，禁止 push
+[戳记] 2026-07-02T22:29+08:00 | from:ChatGPT → to:ChatGPT | 原因:expansion_e5_gap_resolved | 正式库:144位/144位有thoughtSystem | 剩余:E2–E5 已干净提交；E6 旧内容不进入 E2–E5 commit；下一批 E6 重做 | 下一步:按外部审核意见修 quality-audit 后再重做 E6；禁止 push；B档 Zera Yacob id 用 zera-yacob，与 zelea 区分
+[戳记] 2026-07-02T23:29+08:00 | from:ChatGPT → to:ChatGPT | 原因:expansion_e6_redone_after_template_reject | 正式库:149位/149位有thoughtSystem | 剩余:E6 重做待外部审核复核；下一批 E7/B档 暂不执行 | 下一步:停车等复核；禁止 push；B档 Zera Yacob id 用 zera-yacob，与 zelea 区分
 ```

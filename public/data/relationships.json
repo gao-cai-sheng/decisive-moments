@@ -2096,5 +2096,284 @@
     ],
     "noteZh": "陈那以量论方式重建佛教认识论，使佛法的解脱目标与有效认知、推理和语言分析相连接。",
     "reviewStatus": "draft"
+  },
+  {
+    "id": "rousseau-wollstonecraft-critique",
+    "from": "wollstonecraft",
+    "to": "rousseau",
+    "type": "critique",
+    "strength": 3,
+    "confidence": "high",
+    "themeIds": [
+      "justice",
+      "politics"
+    ],
+    "noteZh": "沃斯通克拉夫特批判卢梭对女性教育和性别角色的安排，要求女性作为理性公民被培养。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "wollstonecraft-mill-influence",
+    "from": "wollstonecraft",
+    "to": "mill",
+    "type": "influence",
+    "strength": 2,
+    "confidence": "high",
+    "themeIds": [
+      "justice",
+      "politics"
+    ],
+    "noteZh": "沃斯通克拉夫特的女性权利和教育平等论证，是密尔女性平等论之前的重要思想源头。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "wollstonecraft-beauvoir-reception",
+    "from": "wollstonecraft",
+    "to": "beauvoir",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "justice",
+      "freedom"
+    ],
+    "noteZh": "波伏娃继承并改写女性被社会塑造为附属者的问题，沃斯通克拉夫特构成前史节点。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "wollstonecraft-hooks-reception",
+    "from": "wollstonecraft",
+    "to": "hooks",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "justice",
+      "politics"
+    ],
+    "noteZh": "胡克斯的交叉女性主义超出启蒙平等框架，但仍回接教育、主体和性别压迫的源头问题。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "wittgenstein-anscombe-direct_student",
+    "from": "wittgenstein",
+    "to": "anscombe",
+    "type": "direct_student",
+    "strength": 3,
+    "confidence": "high",
+    "themeIds": [
+      "language",
+      "knowledge"
+    ],
+    "noteZh": "安斯康姆是维特根斯坦学生、译者和遗稿执行人，其语言和行动哲学深受维特根斯坦方法影响。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "aristotle-anscombe-reception",
+    "from": "aristotle",
+    "to": "anscombe",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "high",
+    "themeIds": [
+      "ethics",
+      "freedom"
+    ],
+    "noteZh": "安斯康姆呼吁恢复德性、实践理性和人的生活形式，重新开启亚里士多德传统。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "anscombe-nussbaum-influence",
+    "from": "anscombe",
+    "to": "nussbaum",
+    "type": "influence",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "ethics",
+      "justice"
+    ],
+    "noteZh": "努斯鲍姆的亚里士多德式德性和能力论处在安斯康姆开启的德性伦理复兴之后。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "anscombe-mill-critique",
+    "from": "anscombe",
+    "to": "mill",
+    "type": "critique",
+    "strength": 2,
+    "confidence": "high",
+    "themeIds": [
+      "ethics"
+    ],
+    "noteZh": "《现代道德哲学》批评后果论式道德计算，密尔功利主义是其批判背景中的核心对象。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "hegel-rosenzweig-critique",
+    "from": "rosenzweig",
+    "to": "hegel",
+    "type": "critique",
+    "strength": 3,
+    "confidence": "high",
+    "themeIds": [
+      "metaphysics",
+      "religion"
+    ],
+    "noteZh": "罗森茨维格从黑格尔研究出发，在《救赎之星》中反击总体性体系。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "buber-rosenzweig-collaboration",
+    "from": "buber",
+    "to": "rosenzweig",
+    "type": "shared_problem",
+    "strength": 3,
+    "confidence": "high",
+    "themeIds": [
+      "language",
+      "religion"
+    ],
+    "noteZh": "布伯与罗森茨维格共同翻译圣经，并在对话、语言和犹太生活问题上形成交汇。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "rosenzweig-levinas-influence",
+    "from": "rosenzweig",
+    "to": "levinas",
+    "type": "influence",
+    "strength": 3,
+    "confidence": "high",
+    "themeIds": [
+      "religion",
+      "ethics"
+    ],
+    "noteZh": "列维纳斯吸收罗森茨维格对总体性哲学的批判和犹太思想资源，发展他者伦理。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "kierkegaard-rosenzweig-shared_problem",
+    "from": "kierkegaard",
+    "to": "rosenzweig",
+    "type": "shared_problem",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "religion",
+      "freedom"
+    ],
+    "noteZh": "两者都反对把信仰和存在纳入纯体系总体，强调时间、决断和具体生命。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "sartre-fanon-reception",
+    "from": "sartre",
+    "to": "fanon",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "high",
+    "themeIds": [
+      "freedom",
+      "politics"
+    ],
+    "noteZh": "萨特为法农代表作作序，使其进入存在主义和反殖民公共语境的交叉点。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "fanon-senghor-critique",
+    "from": "fanon",
+    "to": "senghor",
+    "type": "critique",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "justice",
+      "politics"
+    ],
+    "noteZh": "法农批评固定化的黑人性身份和文化本质化倾向，与桑戈尔路线形成张力。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "du-bois-fanon-shared_problem",
+    "from": "du-bois",
+    "to": "fanon",
+    "type": "shared_problem",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "justice",
+      "politics"
+    ],
+    "noteZh": "杜波依斯的双重意识和色线问题与法农的殖民主体分析共同构成黑人现代性思想谱系。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "fanon-hooks-influence",
+    "from": "fanon",
+    "to": "hooks",
+    "type": "influence",
+    "strength": 2,
+    "confidence": "high",
+    "themeIds": [
+      "justice",
+      "freedom"
+    ],
+    "noteZh": "胡克斯在种族、性别和教育问题中回应法农关于主体形成和支配内化的分析。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "dewey-freire-influence",
+    "from": "dewey",
+    "to": "freire",
+    "type": "influence",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "politics",
+      "knowledge"
+    ],
+    "noteZh": "弗莱雷与杜威都把教育理解为民主实践和经验转化，弗莱雷将其转入解放教育语境。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "marx-freire-reception",
+    "from": "marx",
+    "to": "freire",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "high",
+    "themeIds": [
+      "politics",
+      "justice"
+    ],
+    "noteZh": "弗莱雷的压迫、意识化和实践概念吸收马克思主义问题场，并转化为教育理论。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "fanon-freire-shared_problem",
+    "from": "fanon",
+    "to": "freire",
+    "type": "shared_problem",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "freedom",
+      "justice"
+    ],
+    "noteZh": "法农和弗莱雷都关注被压迫者如何从内化支配中形成主体，只是入口不同。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "freire-hooks-influence",
+    "from": "freire",
+    "to": "hooks",
+    "type": "influence",
+    "strength": 3,
+    "confidence": "high",
+    "themeIds": [
+      "justice",
+      "politics"
+    ],
+    "noteZh": "胡克斯明确继承弗莱雷的对话教育和解放教育思想，并将其扩展到女性主义课堂实践。",
+    "reviewStatus": "draft"
   }
 ]

@@ -1,0 +1,292 @@
+{
+  "id": "anscombe",
+  "names": {
+    "zh": "安斯康姆",
+    "en": "G. E. M. Anscombe"
+  },
+  "life": {
+    "birth": 1919,
+    "death": 2001,
+    "display": "1919—2001"
+  },
+  "civilization": "european_modern",
+  "traditions": [
+    "analytic_philosophy",
+    "virtue_ethics",
+    "philosophy_of_action"
+  ],
+  "periods": [
+    "expansion_e6"
+  ],
+  "themes": [
+    "ethics",
+    "language",
+    "freedom"
+  ],
+  "keywordsZh": [
+    "意向",
+    "行动哲学",
+    "德性伦理",
+    "维特根斯坦"
+  ],
+  "oneLineZh": "以意向行动分析和现代道德哲学批判推动德性伦理复兴。",
+  "influenceWeight": 3,
+  "reviewStatus": "draft",
+  "summaryZh": "安斯康姆是维特根斯坦的重要学生、译者和遗稿执行人，也是行动哲学与当代德性伦理复兴的关键人物。",
+  "works": [
+    "anscombe-intention",
+    "anscombe-modern-moral-philosophy",
+    "anscombe-tractatus-translation",
+    "anscombe-introduction-tractatus",
+    "anscombe-collected-papers",
+    "anscombe-human-life-action-ethics"
+  ],
+  "sourceNotes": [
+    {
+      "label": "SEP",
+      "url": "https://plato.stanford.edu/entries/anscombe/",
+      "noteZh": "核对行动哲学、伦理学和维特根斯坦关系。"
+    }
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "anscombe:problem:001",
+        "titleZh": "意向行动与实践知识",
+        "questionZh": "安斯康姆如何把意向从内在心理事件改写为行动描述和实践知识问题？",
+        "summaryZh": "安斯康姆的行动哲学把意向放在可回答“为什么”的行动结构中，由此改变了分析哲学对心灵和行为关系的处理。",
+        "themeIds": [
+          "freedom",
+          "language"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "anscombe:claim:001",
+            "titleZh": "意向通过行动描述显现",
+            "claimZh": "安斯康姆认为一个行为是否有意向，取决于行动者能在何种描述下回答“为什么”，而不是取决于一个隐藏的内心伴随物。",
+            "explanationZh": "这条主张把意向从心理对象转为语法和实践结构，使行动哲学能分析同一身体动作在不同描述下的意义。",
+            "themeIds": [
+              "freedom",
+              "language"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "anscombe:evidence:001",
+                "titleZh": "《意向》开端的问题设置",
+                "summaryZh": "《意向》开篇用“为什么”问题区分意向行动，说明行动的可说明性比内在影像更能界定意向。",
+                "source": {
+                  "workId": "anscombe-intention",
+                  "locator": "Sections 5–8, intentional action and the why-question",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "anscombe:evidence:002",
+                "titleZh": "《意向》中行动描述的多重性",
+                "summaryZh": "书中关于泵水、毒害居民等例子显示，同一动作可落在多个描述下，意向分析必须说明哪一描述属于行动者实践理由。",
+                "source": {
+                  "workId": "anscombe-intention",
+                  "locator": "Sections 23–27, pumping example and multiple descriptions",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "anscombe:claim:002",
+            "titleZh": "实践知识不是旁观观察",
+            "claimZh": "她把行动者对自己正在做什么的知识称为实践知识：这种知识通过指导行动而成立，不是像旁观者那样从证据推断出来。",
+            "explanationZh": "这条主张是后来行动哲学的核心资源，也使意向、理由和身体运动之间的关系获得新的解释。",
+            "themeIds": [
+              "knowledge",
+              "freedom"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "anscombe:evidence:003",
+                "titleZh": "《意向》论非观察知识",
+                "summaryZh": "关于“不经观察而知道自己在做什么”的段落把第一人称行动知识同感知证据区分开来，突出行动者知识的实践地位。",
+                "source": {
+                  "workId": "anscombe-intention",
+                  "locator": "Sections 28–32, knowledge without observation",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "anscombe:evidence:004",
+                "titleZh": "《意向》结尾论实践知识的方向",
+                "summaryZh": "结尾部分把实践知识说成行动的形式原因之一，强调它并非记录事实，而是参与造成行动秩序。",
+                "source": {
+                  "workId": "anscombe-intention",
+                  "locator": "Sections 45–48, practical knowledge and direction of fit",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "anscombe:problem:002",
+        "titleZh": "现代道德哲学批判",
+        "questionZh": "她为什么认为现代道德哲学在义务、后果和德性问题上需要重新奠基？",
+        "summaryZh": "安斯康姆批判现代义务论和后果主义共享同一病灶：脱离行动心理学、德性概念和法律神学背景后，道德词汇变得空转。",
+        "themeIds": [
+          "ethics",
+          "freedom"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "anscombe:claim:003",
+            "titleZh": "义务语言失去法源后变成空壳",
+            "claimZh": "她认为现代哲学继续使用“道德义务”和“道德应当”，却不再承认赋予这些词以法律形式的神圣立法者背景，因此概念上失去支点。",
+            "explanationZh": "这条主张不是简单反现代，而是要求在恢复充分行动心理学之前暂停用抽象义务词解决伦理问题。",
+            "themeIds": [
+              "ethics",
+              "religion"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "anscombe:evidence:005",
+                "titleZh": "《现代道德哲学》开篇三条论题",
+                "summaryZh": "论文开头提出在缺少充分心理学前不应继续道德哲学，并质疑现代义务语言的可理解性，要求伦理学先重建概念基础。",
+                "source": {
+                  "workId": "anscombe-modern-moral-philosophy",
+                  "locator": "Opening paragraphs and three theses",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "anscombe:evidence:006",
+                "titleZh": "《现代道德哲学》论法律式伦理词汇",
+                "summaryZh": "文章解释“应当”“义务”等词曾依赖法律观念，现代语境保留词形却抽掉立法背景，导致伦理概念混乱。",
+                "source": {
+                  "workId": "anscombe-modern-moral-philosophy",
+                  "locator": "Middle section on law conception of ethics and moral ought",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "anscombe:claim:004",
+            "titleZh": "德性与行动心理学先于后果计算",
+            "claimZh": "她反对把杀害无辜者等行动只按后果净值评估，主张伦理判断必须分析意图、行动种类和德性概念。",
+            "explanationZh": "这条主张后来推动德性伦理复兴，也为双重效果、意向与责任的讨论提供分析框架。",
+            "themeIds": [
+              "ethics",
+              "freedom"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "anscombe:evidence:007",
+                "titleZh": "《现代道德哲学》批判后果主义",
+                "summaryZh": "论文把某些现代伦理学说称为后果主义，批评它们抹平行动种类和意图差异，特别是对杀害无辜者的判断。",
+                "source": {
+                  "workId": "anscombe-modern-moral-philosophy",
+                  "locator": "Section criticizing consequentialism and modern moral theories",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "anscombe:evidence:008",
+                "titleZh": "《人类生命、行动与伦理学》中的双重效果讨论",
+                "summaryZh": "后收论文围绕行动、意图和双重效果原则展开，显示她的伦理批判建立在细密行动分析之上。",
+                "source": {
+                  "workId": "anscombe-human-life-action-ethics",
+                  "locator": "Essays on action, intention, and double effect",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "anscombe:problem:003",
+        "titleZh": "维特根斯坦解释与分析哲学转向",
+        "questionZh": "她如何通过翻译、导论和论文延续维特根斯坦传统，并把分析方法用于伦理与实践问题？",
+        "summaryZh": "安斯康姆既是维特根斯坦的重要译者和解释者，也是把语言分析推进到行动、伦理、第一人称和宗教问题上的关键人物。",
+        "themeIds": [
+          "language",
+          "ethics"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "anscombe:claim:005",
+            "titleZh": "理解命题要回到使用和说明规则",
+            "claimZh": "她解释维特根斯坦时强调命题、图像和语言的意义不能脱离使用规则与说明方式，而不是把逻辑形式当作孤立图式。",
+            "explanationZh": "这条主张说明她与维特根斯坦关系并非传记事实，而是贯穿她自己分析方法的哲学立场。",
+            "themeIds": [
+              "language",
+              "knowledge"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "anscombe:evidence:009",
+                "titleZh": "《维特根斯坦〈逻辑哲学论〉导论》论图像理论",
+                "summaryZh": "导论前几章解释图像理论、事实和命题之间的关系，强调理解逻辑形式需要分析语言如何表征世界。",
+                "source": {
+                  "workId": "anscombe-introduction-tractatus",
+                  "locator": "Chapters 1–3 on facts, propositions, and the picture theory",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "anscombe:evidence:010",
+                "titleZh": "《逻辑哲学论》英译的术语选择",
+                "summaryZh": "英译工作通过术语和句法选择塑造英语世界对维特根斯坦早期哲学的接受，尤其影响 proposition、fact、sense 等概念理解。",
+                "source": {
+                  "workId": "anscombe-tractatus-translation",
+                  "locator": "Translator's choices and prefatory material in the English edition",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "anscombe:claim:006",
+            "titleZh": "分析方法可进入伦理和宗教实践",
+            "claimZh": "她的论文显示分析哲学不必局限于形式语言或认识论，也能处理第一人称、因果、宗教信念和政治责任等实践主题。",
+            "explanationZh": "这条主张把她放入早期分析哲学和德性伦理复兴之间的桥梁位置。",
+            "themeIds": [
+              "ethics",
+              "language"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "anscombe:evidence:011",
+                "titleZh": "《论文集》第二卷关于第一人称与因果",
+                "summaryZh": "论文集第二卷处理第一人称表达、因果和心灵概念，显示她将语言分析用于行动者视角，而非停留在形式逻辑层面。",
+                "source": {
+                  "workId": "anscombe-collected-papers",
+                  "locator": "Collected Philosophical Papers, Volume II, essays on first person and causality",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "anscombe:evidence:012",
+                "titleZh": "《论文集》第三卷关于伦理、宗教与政治",
+                "summaryZh": "第三卷收录伦理、宗教和政治论文，说明她的分析方法始终与实践判断和公共责任相连，并延伸到具体生活争议。",
+                "source": {
+                  "workId": "anscombe-collected-papers",
+                  "locator": "Collected Philosophical Papers, Volume III, essays on ethics, religion, and politics",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

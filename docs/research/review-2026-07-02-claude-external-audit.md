@@ -133,6 +133,7 @@ codex 报称 full audit 被平台安全层拦截，由本审核代跑复核：
 | E4 | sextus-empiricus, duns-scotus, al-kindi, suhrawardi, ibn-arabi | ✅ | 0.16–0.19 | 0 | 每位≥3 | 内容抽查真实 | **放行** |
 | E5 | han-feizi, huineng, zhang-zai, dignaga | ✅ | 0.14–0.17 | 0 | 每位≥3 | 内容抽查真实 | **放行** |
 | E6 | wollstonecraft, anscombe, rosenzweig, fanon, freire | ✅(被骗过) | **0.77–0.83** | 0 | 每位≥4 | 二代模板灌水 | **❌ 打回重做** |
+| E6重做 | 同上五位 | ✅（新门3 含结构性规则） | 0.12–0.14 | 0 | 每位≥4 | 内容抽查真实（凝视/银行式教育/救赎之星均归属准确） | **放行；结构性 RED 三条已落地并通过对抗测试：旧E6五人全RED、其余144零误报；quality-audit 单测 31/31** |
 
 ### E6 打回详情（二代模板，规避了正则反模板规则）
 

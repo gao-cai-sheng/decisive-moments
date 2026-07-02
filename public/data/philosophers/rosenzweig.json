@@ -1,0 +1,292 @@
+{
+  "id": "rosenzweig",
+  "names": {
+    "zh": "罗森茨维格",
+    "en": "Franz Rosenzweig"
+  },
+  "life": {
+    "birth": 1886,
+    "death": 1929,
+    "display": "1886—1929"
+  },
+  "civilization": "european_modern",
+  "traditions": [
+    "jewish_philosophy",
+    "dialogical_philosophy",
+    "existentialism"
+  ],
+  "periods": [
+    "expansion_e6"
+  ],
+  "themes": [
+    "religion",
+    "language",
+    "metaphysics"
+  ],
+  "keywordsZh": [
+    "救赎之星",
+    "启示",
+    "对话",
+    "反黑格尔"
+  ],
+  "oneLineZh": "以《救赎之星》反击总体体系，并开出现代犹太对话哲学路线。",
+  "influenceWeight": 3,
+  "reviewStatus": "draft",
+  "summaryZh": "罗森茨维格以创造、启示和救赎结构回应黑格尔总体哲学，与布伯合作翻译圣经，并影响列维纳斯。",
+  "works": [
+    "rosenzweig-star-redemption",
+    "rosenzweig-hegel-state",
+    "rosenzweig-new-thinking",
+    "rosenzweig-understanding-sick-healthy",
+    "rosenzweig-bible-translation",
+    "rosenzweig-ninety-two-poems"
+  ],
+  "sourceNotes": [
+    {
+      "label": "SEP",
+      "url": "https://plato.stanford.edu/entries/rosenzweig/",
+      "noteZh": "核对《救赎之星》、新思维、布伯合作和列维纳斯影响。"
+    }
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "rosenzweig:problem:001",
+        "titleZh": "启示、创造与救赎",
+        "questionZh": "罗森茨维格如何用创造、启示和救赎重组体系哲学无法容纳的有限生命经验？",
+        "summaryZh": "罗森茨维格以死亡、时间和关系性打断总体化体系，把神、人、世界的关系写成开放的救赎结构。",
+        "themeIds": [
+          "religion",
+          "metaphysics"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "rosenzweig:claim:001",
+            "titleZh": "体系不能吞没死亡经验",
+            "claimZh": "罗森茨维格从个体面对死亡的恐惧出发，反对把人化入全体概念的体系哲学，因为这种体系会抹去有限生命的不可替代性。",
+            "explanationZh": "这条主张说明他与黑格尔传统的关系：他熟悉体系哲学，却从存在经验内部发现其盲点。",
+            "themeIds": [
+              "life_death",
+              "metaphysics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "rosenzweig:evidence:001",
+                "titleZh": "《救赎之星》导言论死亡",
+                "summaryZh": "《救赎之星》导言以死亡恐惧开场，明确把哲学从总体知识拉回有限个人的不可替代处境。",
+                "source": {
+                  "workId": "rosenzweig-star-redemption",
+                  "locator": "Introduction, opening meditation on death and the All",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "rosenzweig:evidence:002",
+                "titleZh": "《黑格尔与国家》结尾的国家批判语境",
+                "summaryZh": "黑格尔研究显示他熟悉国家与体系问题，也为后来拒绝把政治总体当作最高现实提供背景。",
+                "source": {
+                  "workId": "rosenzweig-hegel-state",
+                  "locator": "Conclusion on Hegel, state, and totality",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "rosenzweig:claim:002",
+            "titleZh": "创造启示救赎构成关系秩序",
+            "claimZh": "他把神、世界和人分别放入创造、启示和救赎的动态关系中，拒绝用单一实体或概念把三者合并。",
+            "explanationZh": "这条主张是《救赎之星》的结构核心，使宗教哲学成为关系、语言和时间的哲学。",
+            "themeIds": [
+              "religion",
+              "metaphysics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "rosenzweig:evidence:003",
+                "titleZh": "《救赎之星》第一部论三元素",
+                "summaryZh": "第一部区分神、世界和人三个元素，先保持差异，再为后续关系展开准备，避免把三者提前合并为体系概念。",
+                "source": {
+                  "workId": "rosenzweig-star-redemption",
+                  "locator": "Part I, Elements, books on God, World, and Man",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "rosenzweig:evidence:004",
+                "titleZh": "《救赎之星》第二部论启示语言",
+                "summaryZh": "第二部把启示写成爱的呼唤和回应，说明关系不是抽象连接，而在语言和时间中发生，并由回应者承担。",
+                "source": {
+                  "workId": "rosenzweig-star-redemption",
+                  "locator": "Part II, Revelation, dialogue of love and response",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "rosenzweig:problem:002",
+        "titleZh": "新思维与对话语言",
+        "questionZh": "他的“新思维”如何把哲学从无时间的观看转向说话、翻译和回应？",
+        "summaryZh": "新思维以说话者、听者和时间中的回答替代旁观式知识，进而影响对话哲学和犹太现代思想。",
+        "themeIds": [
+          "language",
+          "religion"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "rosenzweig:claim:003",
+            "titleZh": "思想必须承认时间性",
+            "claimZh": "罗森茨维格认为真实思维发生在等待、回应和继续说话之中，不能假装哲学家已在永恒视角中拥有全部答案。",
+            "explanationZh": "这条主张把哲学方法本身改写为时间中的实践，与布伯、列维纳斯等对话传统相通。",
+            "themeIds": [
+              "language",
+              "knowledge"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "rosenzweig:evidence:005",
+                "titleZh": "《新思维》论说话和时间",
+                "summaryZh": "《新思维》把《救赎之星》解释为从旧哲学转向说话、时间和关系的思想方式，强调思考必须等待回应。",
+                "source": {
+                  "workId": "rosenzweig-new-thinking",
+                  "locator": "Opening and methodological sections on speech and time",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "rosenzweig:evidence:006",
+                "titleZh": "《病人与健康者的理解》的对话形式",
+                "summaryZh": "这部短文用病人与健康者的对话形式展示理解如何在具体问答中发生，而非在抽象体系里完成。",
+                "source": {
+                  "workId": "rosenzweig-understanding-sick-healthy",
+                  "locator": "Central dialogue between the sick and the healthy",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "rosenzweig:claim:004",
+            "titleZh": "翻译是对话神学的实践",
+            "claimZh": "他与布伯的圣经德译不是单纯语言转换，而是试图让希伯来文本的节奏、词根和呼唤性进入现代德语。",
+            "explanationZh": "这条主张显示他的语言哲学落实在共同体实践中：翻译成为犹太复兴和对话关系的实验。",
+            "themeIds": [
+              "language",
+              "religion"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "rosenzweig:evidence:007",
+                "titleZh": "布伯—罗森茨维格圣经德译的词根策略",
+                "summaryZh": "圣经德译计划追求保留希伯来语重复、词根和声音结构，使读者在德语中遭遇经文的陌生性。",
+                "source": {
+                  "workId": "rosenzweig-bible-translation",
+                  "locator": "Translation principles on Hebrew rhythm, roots, and repeated words",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "rosenzweig:evidence:008",
+                "titleZh": "《九十二首诗与赞歌》的礼仪语言",
+                "summaryZh": "诗歌和赞歌材料显示他的语言思想与犹太礼仪、祈祷和共同体时间相连，而非只是翻译理论。",
+                "source": {
+                  "workId": "rosenzweig-ninety-two-poems",
+                  "locator": "Liturgical poems and hymns in posthumous collections",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "rosenzweig:problem:003",
+        "titleZh": "犹太共同体与普遍历史",
+        "questionZh": "罗森茨维格如何在犹太生活、基督教历史使命和普遍救赎之间保持张力？",
+        "summaryZh": "他把犹太共同体理解为在礼仪时间中见证永恒，同时把基督教看作进入世界历史的传播力量，二者在救赎结构中保持差异。",
+        "themeIds": [
+          "religion",
+          "politics"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "rosenzweig:claim:005",
+            "titleZh": "犹太生活不是民族国家项目",
+            "claimZh": "罗森茨维格把犹太共同体的核心放在律法、节庆和礼仪时间中，而不是把它化约为普通民族国家的政治形式。",
+            "explanationZh": "这条主张解释他为什么能同时进入现代政治讨论和犹太复兴问题，而不把宗教身份交给国家逻辑。",
+            "themeIds": [
+              "religion",
+              "politics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "rosenzweig:evidence:009",
+                "titleZh": "《救赎之星》第三部论犹太永恒性",
+                "summaryZh": "第三部把犹太生活描述为通过节庆、律法和共同体时间预尝救赎，区别于国家历史的进步叙事。",
+                "source": {
+                  "workId": "rosenzweig-star-redemption",
+                  "locator": "Part III, Judaism and liturgical time",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "rosenzweig:evidence:010",
+                "titleZh": "《新思维》论学习、说话和实践",
+                "summaryZh": "《新思维》回顾其方法时强调学习和言说的现实场域，帮助理解他的犹太教育和成人学习实践。",
+                "source": {
+                  "workId": "rosenzweig-new-thinking",
+                  "locator": "Sections on learning, speech, and lived practice",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "rosenzweig:claim:006",
+            "titleZh": "普遍救赎保留差异",
+            "claimZh": "他对犹太教和基督教的安排并非简单调和，而是让不同共同体在救赎进程中承担不同见证方式。",
+            "explanationZh": "这条主张避免把他读成排他主义或普遍主义二选一；其宗教哲学强调差异中的关系。",
+            "themeIds": [
+              "religion",
+              "metaphysics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "rosenzweig:evidence:011",
+                "titleZh": "《救赎之星》第三部论基督教道路",
+                "summaryZh": "第三部讨论基督教进入世界民族和历史传播的道路，与犹太共同体的礼仪见证形成结构性差异。",
+                "source": {
+                  "workId": "rosenzweig-star-redemption",
+                  "locator": "Part III, Christianity and world history",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "rosenzweig:evidence:012",
+                "titleZh": "《救赎之星》结尾的真理与生命",
+                "summaryZh": "结尾把真理、生命和救赎联系起来，要求人在现实生活中走向关系，而非停留在体系观念中。",
+                "source": {
+                  "workId": "rosenzweig-star-redemption",
+                  "locator": "Conclusion, truth, life, and the gate",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

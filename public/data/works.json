@@ -2850,5 +2850,245 @@
     "titleEn": "Apoha theory passages",
     "yearDisplay": "《集量论》第五品传统",
     "noteZh": "围绕词义通过排除非对象而成立的语义理论，是佛教语言哲学的重要来源。"
+  },
+  {
+    "id": "wollstonecraft-vindication-rights-woman",
+    "philosopherId": "wollstonecraft",
+    "titleZh": "《为女权辩护》",
+    "titleEn": "A Vindication of the Rights of Woman",
+    "yearDisplay": "1792",
+    "noteZh": "主张女性理性教育和公民身份，批判性别依附结构。"
+  },
+  {
+    "id": "wollstonecraft-vindication-rights-men",
+    "philosopherId": "wollstonecraft",
+    "titleZh": "《为人权辩护》",
+    "titleEn": "A Vindication of the Rights of Men",
+    "yearDisplay": "1790",
+    "noteZh": "回应伯克，维护权利、改革和反贵族特权。"
+  },
+  {
+    "id": "wollstonecraft-historical-moral-view",
+    "philosopherId": "wollstonecraft",
+    "titleZh": "《法国革命的历史与道德观》",
+    "titleEn": "An Historical and Moral View of the French Revolution",
+    "yearDisplay": "1794",
+    "noteZh": "以历史和道德判断讨论法国革命的原因与前景。"
+  },
+  {
+    "id": "wollstonecraft-thoughts-education-daughters",
+    "philosopherId": "wollstonecraft",
+    "titleZh": "《关于女儿教育的思考》",
+    "titleEn": "Thoughts on the Education of Daughters",
+    "yearDisplay": "1787",
+    "noteZh": "早期女性教育论，讨论品格形成和社会期待。"
+  },
+  {
+    "id": "wollstonecraft-maria",
+    "philosopherId": "wollstonecraft",
+    "titleZh": "《玛丽亚，或女人的冤屈》",
+    "titleEn": "Maria: or, The Wrongs of Woman",
+    "yearDisplay": "1798 posthumous",
+    "noteZh": "未完成小说，呈现婚姻和财产制度中的女性困境。"
+  },
+  {
+    "id": "wollstonecraft-letters-sweden",
+    "philosopherId": "wollstonecraft",
+    "titleZh": "《瑞典、挪威和丹麦短居书简》",
+    "titleEn": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
+    "yearDisplay": "1796",
+    "noteZh": "旅行书信体作品，结合感情、政治经济观察和自我反省。"
+  },
+  {
+    "id": "anscombe-intention",
+    "philosopherId": "anscombe",
+    "titleZh": "《意向》",
+    "titleEn": "Intention",
+    "yearDisplay": "1957",
+    "noteZh": "行动哲学经典，分析意向行动、实践知识和理由。"
+  },
+  {
+    "id": "anscombe-modern-moral-philosophy",
+    "philosopherId": "anscombe",
+    "titleZh": "《现代道德哲学》",
+    "titleEn": "Modern Moral Philosophy",
+    "yearDisplay": "1958",
+    "noteZh": "批判现代义务语言和后果论，推动德性伦理复兴。"
+  },
+  {
+    "id": "anscombe-tractatus-translation",
+    "philosopherId": "anscombe",
+    "titleZh": "《逻辑哲学论》英译",
+    "titleEn": "English translation of Wittgenstein's Tractatus",
+    "yearDisplay": "1961",
+    "noteZh": "维特根斯坦早期代表作的重要英译工作。"
+  },
+  {
+    "id": "anscombe-introduction-tractatus",
+    "philosopherId": "anscombe",
+    "titleZh": "《维特根斯坦〈逻辑哲学论〉导论》",
+    "titleEn": "An Introduction to Wittgenstein's Tractatus",
+    "yearDisplay": "1959",
+    "noteZh": "解释维特根斯坦早期语言、逻辑和世界图像。"
+  },
+  {
+    "id": "anscombe-collected-papers",
+    "philosopherId": "anscombe",
+    "titleZh": "《安斯康姆论文集》",
+    "titleEn": "Collected Philosophical Papers",
+    "yearDisplay": "1981",
+    "noteZh": "三卷本论文集，收录行动、伦理、心灵和语言论文。"
+  },
+  {
+    "id": "anscombe-human-life-action-ethics",
+    "philosopherId": "anscombe",
+    "titleZh": "《人类生命、行动与伦理学》",
+    "titleEn": "Human Life, Action and Ethics",
+    "yearDisplay": "2005 posthumous",
+    "noteZh": "死后文集，集中呈现行动、生命和伦理论文。"
+  },
+  {
+    "id": "rosenzweig-star-redemption",
+    "philosopherId": "rosenzweig",
+    "titleZh": "《救赎之星》",
+    "titleEn": "The Star of Redemption",
+    "yearDisplay": "1921",
+    "noteZh": "代表作，以创造、启示和救赎重构哲学与神学关系。"
+  },
+  {
+    "id": "rosenzweig-hegel-state",
+    "philosopherId": "rosenzweig",
+    "titleZh": "《黑格尔与国家》",
+    "titleEn": "Hegel and the State",
+    "yearDisplay": "1920",
+    "noteZh": "早期黑格尔研究，是其反总体性思想的重要背景。"
+  },
+  {
+    "id": "rosenzweig-new-thinking",
+    "philosopherId": "rosenzweig",
+    "titleZh": "《新思维》",
+    "titleEn": "The New Thinking",
+    "yearDisplay": "1925",
+    "noteZh": "说明《救赎之星》的方法，强调语言、时间和对话。"
+  },
+  {
+    "id": "rosenzweig-understanding-sick-healthy",
+    "philosopherId": "rosenzweig",
+    "titleZh": "《病人与健康者的理解》",
+    "titleEn": "Understanding the Sick and the Healthy",
+    "yearDisplay": "1921",
+    "noteZh": "以哲学治疗形式批评脱离生活的观念体系。"
+  },
+  {
+    "id": "rosenzweig-bible-translation",
+    "philosopherId": "rosenzweig",
+    "titleZh": "布伯—罗森茨维格《圣经》德译",
+    "titleEn": "Buber-Rosenzweig Bible Translation",
+    "yearDisplay": "1925–1961 project",
+    "noteZh": "与布伯合作的希伯来圣经德译工程。"
+  },
+  {
+    "id": "rosenzweig-ninety-two-poems",
+    "philosopherId": "rosenzweig",
+    "titleZh": "《九十二首诗与赞歌》",
+    "titleEn": "Ninety-Two Poems and Hymns",
+    "yearDisplay": "posthumous collections",
+    "noteZh": "诗歌和礼仪文本，显示哲学与犹太生活的连接。"
+  },
+  {
+    "id": "fanon-black-skin-white-masks",
+    "philosopherId": "fanon",
+    "titleZh": "《黑皮肤，白面具》",
+    "titleEn": "Black Skin, White Masks",
+    "yearDisplay": "1952",
+    "noteZh": "分析殖民种族秩序中的语言、身体和主体经验。"
+  },
+  {
+    "id": "fanon-wretched-earth",
+    "philosopherId": "fanon",
+    "titleZh": "《大地上的受苦者》",
+    "titleEn": "The Wretched of the Earth",
+    "yearDisplay": "1961",
+    "noteZh": "讨论去殖民、民族文化和新政治主体的代表作。"
+  },
+  {
+    "id": "fanon-dying-colonialism",
+    "philosopherId": "fanon",
+    "titleZh": "《垂死的殖民主义》",
+    "titleEn": "A Dying Colonialism",
+    "yearDisplay": "1959",
+    "noteZh": "分析阿尔及利亚革命中的家庭、医学和媒介变化。"
+  },
+  {
+    "id": "fanon-toward-african-revolution",
+    "philosopherId": "fanon",
+    "titleZh": "《走向非洲革命》",
+    "titleEn": "Toward the African Revolution",
+    "yearDisplay": "1964 posthumous",
+    "noteZh": "死后文集，收录非洲革命和反殖民政治文章。"
+  },
+  {
+    "id": "fanon-alienation-freedom",
+    "philosopherId": "fanon",
+    "titleZh": "《异化与自由》",
+    "titleEn": "Alienation and Freedom",
+    "yearDisplay": "posthumous collections",
+    "noteZh": "临床、文学和政治材料的后期整理。"
+  },
+  {
+    "id": "fanon-studies-dying-colonialism",
+    "philosopherId": "fanon",
+    "titleZh": "《阿尔及利亚革命研究》",
+    "titleEn": "Studies in a Dying Colonialism",
+    "yearDisplay": "1959/1965",
+    "noteZh": "《垂死的殖民主义》的英译传统标题。"
+  },
+  {
+    "id": "freire-pedagogy-oppressed",
+    "philosopherId": "freire",
+    "titleZh": "《被压迫者教育学》",
+    "titleEn": "Pedagogy of the Oppressed",
+    "yearDisplay": "1968/1970",
+    "noteZh": "批判银行式教育，提出对话和问题化教育。"
+  },
+  {
+    "id": "freire-education-critical-consciousness",
+    "philosopherId": "freire",
+    "titleZh": "《教育即批判意识》",
+    "titleEn": "Education for Critical Consciousness",
+    "yearDisplay": "1974",
+    "noteZh": "呈现成人识字、意识化和教育政治性的论文。"
+  },
+  {
+    "id": "freire-cultural-action-freedom",
+    "philosopherId": "freire",
+    "titleZh": "《作为自由实践的文化行动》",
+    "titleEn": "Cultural Action for Freedom",
+    "yearDisplay": "1970",
+    "noteZh": "讨论文化行动、识字教育和主体化过程。"
+  },
+  {
+    "id": "freire-pedagogy-hope",
+    "philosopherId": "freire",
+    "titleZh": "《希望教育学》",
+    "titleEn": "Pedagogy of Hope",
+    "yearDisplay": "1992",
+    "noteZh": "回顾《被压迫者教育学》的历史处境和后续争论。"
+  },
+  {
+    "id": "freire-politics-education",
+    "philosopherId": "freire",
+    "titleZh": "《教育的政治》",
+    "titleEn": "The Politics of Education",
+    "yearDisplay": "1985",
+    "noteZh": "讨论文化、权力、识字和教育政治性的论文集。"
+  },
+  {
+    "id": "freire-teachers-cultural-workers",
+    "philosopherId": "freire",
+    "titleZh": "《教师作为文化工作者》",
+    "titleEn": "Teachers as Cultural Workers",
+    "yearDisplay": "1998",
+    "noteZh": "面向教师实践讨论批判教育和文化责任。"
   }
 ]
