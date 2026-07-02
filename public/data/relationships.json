@@ -1125,5 +1125,145 @@
     ],
     "noteZh": "杜威和罗尔斯都关心民主制度中的公共理性、教育和公平合作条件。",
     "reviewStatus": "draft"
+  },
+  {
+    "id": "kant-fichte-influence",
+    "from": "kant",
+    "to": "fichte",
+    "type": "influence",
+    "strength": 3,
+    "confidence": "high",
+    "themeIds": [
+      "knowledge",
+      "freedom"
+    ],
+    "noteZh": "费希特由康德批判哲学出发，把先验哲学改写为从自我活动和自由出发的知识学。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "fichte-hegel-influence",
+    "from": "fichte",
+    "to": "hegel",
+    "type": "influence",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "freedom",
+      "metaphysics"
+    ],
+    "noteZh": "黑格尔的精神、自我意识和承认问题在批判费希特主观观念论时获得系统化推进。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "fichte-schelling-influence",
+    "from": "fichte",
+    "to": "schelling",
+    "type": "influence",
+    "strength": 3,
+    "confidence": "high",
+    "themeIds": [
+      "freedom",
+      "metaphysics"
+    ],
+    "noteZh": "谢林早期从费希特知识学出发，但很快把自然理解为与主体同等原初的能动过程。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "schelling-hegel-influence",
+    "from": "schelling",
+    "to": "hegel",
+    "type": "influence",
+    "strength": 3,
+    "confidence": "high",
+    "themeIds": [
+      "metaphysics",
+      "aesthetics"
+    ],
+    "noteZh": "黑格尔在德国观念论内部继承并批判谢林的同一哲学、自然哲学和艺术哲学位置。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "schelling-kierkegaard-influence",
+    "from": "schelling",
+    "to": "kierkegaard",
+    "type": "influence",
+    "strength": 2,
+    "confidence": "high",
+    "themeIds": [
+      "freedom",
+      "religion"
+    ],
+    "noteZh": "克尔凯郭尔曾在柏林听谢林后期讲座，虽然失望，却在存在、启示和自由问题上形成重要反向参照。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "hegel-feuerbach-influence",
+    "from": "hegel",
+    "to": "feuerbach",
+    "type": "influence",
+    "strength": 3,
+    "confidence": "high",
+    "themeIds": [
+      "religion",
+      "metaphysics"
+    ],
+    "noteZh": "费尔巴哈从青年黑格尔派内部出发，把黑格尔思辨神学倒转为人本学和宗教投射批判。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "feuerbach-marx-influence",
+    "from": "feuerbach",
+    "to": "marx",
+    "type": "influence",
+    "strength": 3,
+    "confidence": "high",
+    "themeIds": [
+      "religion",
+      "politics"
+    ],
+    "noteZh": "马克思早期吸收费尔巴哈宗教异化和感性人本学框架，随后在实践和社会关系层面加以批判转化。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "feuerbach-hegel-critique",
+    "from": "feuerbach",
+    "to": "hegel",
+    "type": "critique",
+    "strength": 2,
+    "confidence": "high",
+    "themeIds": [
+      "metaphysics",
+      "religion"
+    ],
+    "noteZh": "费尔巴哈批评黑格尔把人的感性存在抽象为思辨神学，要求哲学回到人、自然和感性现实。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "montaigne-pascal-influence",
+    "from": "montaigne",
+    "to": "pascal",
+    "type": "influence",
+    "strength": 3,
+    "confidence": "high",
+    "themeIds": [
+      "life_death",
+      "knowledge"
+    ],
+    "noteZh": "帕斯卡继承蒙田关于人之软弱、习俗和怀疑的观察，同时把它们转入基督教护教结构。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "pascal-kierkegaard-reception",
+    "from": "pascal",
+    "to": "kierkegaard",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "religion",
+      "freedom"
+    ],
+    "noteZh": "帕斯卡关于理性限度、信仰风险和个体处境的写法常被视为克尔凯郭尔式存在宗教问题的先声。",
+    "reviewStatus": "draft"
   }
 ]

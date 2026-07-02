@@ -69,9 +69,10 @@
 | 2026-07-02 | watsuji,toegye,yulgok | missing_thoughtsystem_backfill_eastasia_b1 | each 3 / 6 / 12 + real workIds | validate-kimi ok / batch --require-standard ok / works realigned / admit dry-run ok / admit written / no placeholder refs / validate-data ok / full --require-standard ok / build ok | 正式库缺 thoughtSystem 队列东亚小批次完成：新增3位 thoughtSystem；新增10个真实 works，删除3个占位 works，迁移6条 arguments；正式库 108→111 位 thoughtSystem，缺失 14→11 |
 | 2026-07-02 | amo,butler,dussel,hooks,hountondji | missing_thoughtsystem_backfill_global_south_b2 | each 3 / 6 / 12 + real workIds | validate-kimi ok / batch --require-standard ok / works realigned / admit dry-run ok / admit written / no placeholder refs / validate-data ok / full --require-standard ok / build ok | 正式库缺 thoughtSystem 队列全球南方小批次完成：新增5位 thoughtSystem；新增24个真实 works，删除5个占位 works，迁移10条 arguments；正式库 111→116 位 thoughtSystem，缺失 11→6；Hountondji life 元信息另记待修 |
 | 2026-07-02 | ibn-khaldun,plumwood,senghor,sor-juana,wiredu,zelea | missing_thoughtsystem_backfill_final_b3 | each 3 / 6 / 12 + real workIds | validate-kimi ok / batch --require-standard ok / works realigned / admit dry-run ok / admit written / no placeholder refs / validate-data ok / full --require-standard ok / build ok | 正式库缺 thoughtSystem 收尾批完成：新增6位 thoughtSystem；新增25个真实 works，删除6个占位 works，迁移12条 arguments；正式库 116→122 位 thoughtSystem，缺失 6→0 |
-| —— 待办 —— | none | complete | - | - | 正式库 122 位 philosopher 全部已有 thoughtSystem；后续转入 metadata 修正、excerptDebt、公有领域摘录和外部审核 |
+| 2026-07-02 | fichte,schelling,feuerbach,pascal | expansion_e1_admitted | each 3 / 6 / 12 + real workIds + ≥2 relationships | validate-kimi ok / admit dry-run ok / batch --require-standard ok / admit written / validate-data ok / full --require-standard ok / build ok | A档 E1 德国观念论/帕斯卡断链完成；新增4位 philosopher、21个真实 works、10条 relationships；正式库 122→126，relationships 82→92；每位关系≥2且连接既有哲人；停等外部审核复核放行 |
+| —— 待办 —— | external_review | needs_human | - | - | E1 已交付，停等外部审核复核放行；获批后继续 E2 peirce,james,du-bois,moore；B档 Zera Yacob 后续入库 id 必须用 zera-yacob，与现有 zelea 区分 |
 
-> 当前正式库：122 哲人，122 位有 thoughtSystem。目标：缺失 thoughtSystem 队列已清零。
+> 当前正式库：126 哲人，126 位有 thoughtSystem。E1 已完成；下一步停等外部审核放行 E2。
 
 ---
 
@@ -140,4 +141,5 @@
 [戳记] 2026-07-02T13:31+08:00 | from:ChatGPT → to:ChatGPT | 原因:missing_thoughtsystem_eastasia_b1 | 正式库:111位 | 剩余:正式库缺 thoughtSystem 11 位，下一批可从 amo/butler/dussel/hooks/hountondji 开始 | 下一步:继续缺失队列；禁止 git commit/push，待外部复核放行
 [戳记] 2026-07-02T14:05+08:00 | from:ChatGPT → to:ChatGPT | 原因:missing_thoughtsystem_global_south_b2 | 正式库:116位 | 剩余:正式库缺 thoughtSystem 6 位，下一批可从 ibn-khaldun/plumwood/senghor/sor-juana/wiredu/zelea 开始 | 下一步:继续缺失队列收尾；注意 Hountondji life 元信息疑似需修正为 1942—2024；禁止 git commit/push，待外部复核放行
 [戳记] 2026-07-02T14:43+08:00 | from:ChatGPT → to:ChatGPT | 原因:missing_thoughtsystem_final_b3_done | 正式库:122位 | 剩余:正式库缺 thoughtSystem 0 位；Hountondji life 元信息疑似需修正为 1942—2024 | 下一步:转入 metadata 修正 / excerptDebt / publicDomainExcerptZh / 外部审核；禁止 git commit/push，待外部复核放行
+[戳记] 2026-07-02T20:03+08:00 | from:ChatGPT → to:ChatGPT | 原因:expansion_e1_done | 正式库:126位 | 剩余:E1 待外部审核；下一批 E2 peirce/james/du-bois/moore 暂不执行 | 下一步:等待外部复核放行后再进 E2；禁止 git commit/push；B档 Zera Yacob id 用 zera-yacob，与 zelea 区分
 ```

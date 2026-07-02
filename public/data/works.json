@@ -1729,5 +1729,194 @@
     "titleZh": "马可·奥勒留代表文本与材料",
     "titleEn": "Marcus Aurelius primary dossier",
     "noteZh": "本轮 thoughtSystem 证据使用 summary_only。"
+  },
+  {
+    "id": "fichte-critique-revelation",
+    "philosopherId": "fichte",
+    "titleZh": "《一切天启的批判尝试》",
+    "titleEn": "Attempt at a Critique of All Revelation",
+    "originalTitle": "Versuch einer Critik aller Offenbarung",
+    "yearDisplay": "1792",
+    "noteZh": "费希特早期以康德批判哲学处理天启与道德法则关系的成名作。"
+  },
+  {
+    "id": "fichte-foundation-wissenschaftslehre",
+    "philosopherId": "fichte",
+    "titleZh": "《全部知识学的基础》",
+    "titleEn": "Foundation of the Entire Wissenschaftslehre",
+    "originalTitle": "Grundlage der gesammten Wissenschaftslehre",
+    "yearDisplay": "1794/1795",
+    "noteZh": "耶拿时期知识学的系统奠基文本，以自我设定、自我限制和经验条件为核心。"
+  },
+  {
+    "id": "fichte-natural-right",
+    "philosopherId": "fichte",
+    "titleZh": "《自然法权基础》",
+    "titleEn": "Foundations of Natural Right",
+    "originalTitle": "Grundlage des Naturrechts",
+    "yearDisplay": "1796/1797",
+    "noteZh": "把相互承认、身体性和权利关系纳入知识学原则下的法权哲学文本。"
+  },
+  {
+    "id": "fichte-system-ethics",
+    "philosopherId": "fichte",
+    "titleZh": "《伦理学体系》",
+    "titleEn": "System of Ethics",
+    "originalTitle": "Das System der Sittenlehre",
+    "yearDisplay": "1798",
+    "noteZh": "以知识学原则重构义务、自由行动和道德世界秩序的实践哲学文本。"
+  },
+  {
+    "id": "fichte-vocation-man",
+    "philosopherId": "fichte",
+    "titleZh": "《人的使命》",
+    "titleEn": "The Vocation of Man",
+    "originalTitle": "Die Bestimmung des Menschen",
+    "yearDisplay": "1800",
+    "noteZh": "以怀疑、知识和信仰三部曲面向公众表达费希特自由体系和宗教理解。"
+  },
+  {
+    "id": "fichte-addresses-german-nation",
+    "philosopherId": "fichte",
+    "titleZh": "《告德意志民族书》",
+    "titleEn": "Addresses to the German Nation",
+    "originalTitle": "Reden an die deutsche Nation",
+    "yearDisplay": "1808",
+    "noteZh": "拿破仑占领时期的政治教育演说，强调语言、教育和民族更新。"
+  },
+  {
+    "id": "schelling-ideas-nature",
+    "philosopherId": "schelling",
+    "titleZh": "《自然哲学观念》",
+    "titleEn": "Ideas for a Philosophy of Nature",
+    "originalTitle": "Ideen zu einer Philosophie der Natur",
+    "yearDisplay": "1797",
+    "noteZh": "谢林早期自然哲学代表作，试图把自然理解为能动、生成和有组织的过程。"
+  },
+  {
+    "id": "schelling-system-transcendental-idealism",
+    "philosopherId": "schelling",
+    "titleZh": "《先验唯心论体系》",
+    "titleEn": "System of Transcendental Idealism",
+    "originalTitle": "System des transzendentalen Idealismus",
+    "yearDisplay": "1800",
+    "noteZh": "从主体活动、历史和艺术出发组织先验哲学，提出艺术是体系完成的器官。"
+  },
+  {
+    "id": "schelling-human-freedom",
+    "philosopherId": "schelling",
+    "titleZh": "《关于人类自由本质的哲学研究》",
+    "titleEn": "Philosophical Investigations into the Essence of Human Freedom",
+    "originalTitle": "Philosophische Untersuchungen über das Wesen der menschlichen Freiheit",
+    "yearDisplay": "1809",
+    "noteZh": "谢林中期自由论文，以根据、存在、恶和人格性重写自由与神学问题。"
+  },
+  {
+    "id": "schelling-ages-world",
+    "philosopherId": "schelling",
+    "titleZh": "《世界时代》",
+    "titleEn": "The Ages of the World",
+    "originalTitle": "Die Weltalter",
+    "yearDisplay": "1811/1813/1815 manuscripts",
+    "noteZh": "谢林未完成的后期思辨文本，围绕神性生命、时间生成和历史展开。"
+  },
+  {
+    "id": "schelling-philosophy-revelation",
+    "philosopherId": "schelling",
+    "titleZh": "《启示哲学》",
+    "titleEn": "Philosophy of Revelation",
+    "originalTitle": "Philosophie der Offenbarung",
+    "yearDisplay": "posthumous lectures",
+    "noteZh": "柏林时期后期哲学讲授文本，区分消极哲学与积极哲学并处理神话和启示。"
+  },
+  {
+    "id": "feuerbach-thoughts-death-immortality",
+    "philosopherId": "feuerbach",
+    "titleZh": "《关于死亡与不朽的思想》",
+    "titleEn": "Thoughts on Death and Immortality",
+    "originalTitle": "Gedanken über Tod und Unsterblichkeit",
+    "yearDisplay": "1830",
+    "noteZh": "费尔巴哈早期匿名出版文本，因批判个人不朽观念而影响其学术道路。"
+  },
+  {
+    "id": "feuerbach-essence-christianity",
+    "philosopherId": "feuerbach",
+    "titleZh": "《基督教的本质》",
+    "titleEn": "The Essence of Christianity",
+    "originalTitle": "Das Wesen des Christentums",
+    "yearDisplay": "1841",
+    "noteZh": "费尔巴哈最重要的宗教批判文本，把神理解为人的本质和愿望的对象化。"
+  },
+  {
+    "id": "feuerbach-preliminary-theses-reform",
+    "philosopherId": "feuerbach",
+    "titleZh": "《哲学改革临时纲要》",
+    "titleEn": "Preliminary Theses on the Reform of Philosophy",
+    "originalTitle": "Vorläufige Thesen zur Reform der Philosophie",
+    "yearDisplay": "1842",
+    "noteZh": "从黑格尔思辨哲学转向感性、人和自然的改革性纲要。"
+  },
+  {
+    "id": "feuerbach-principles-philosophy-future",
+    "philosopherId": "feuerbach",
+    "titleZh": "《未来哲学原理》",
+    "titleEn": "Principles of the Philosophy of the Future",
+    "originalTitle": "Grundsätze der Philosophie der Zukunft",
+    "yearDisplay": "1843",
+    "noteZh": "以人本学和感性现实替代思辨神学的纲领性文本。"
+  },
+  {
+    "id": "feuerbach-lectures-essence-religion",
+    "philosopherId": "feuerbach",
+    "titleZh": "《宗教的本质讲演录》",
+    "titleEn": "Lectures on the Essence of Religion",
+    "originalTitle": "Vorlesungen über das Wesen der Religion",
+    "yearDisplay": "1851",
+    "noteZh": "继续展开宗教的自然基础、人类需要和投射机制的讲演文本。"
+  },
+  {
+    "id": "pascal-provincial-letters",
+    "philosopherId": "pascal",
+    "titleZh": "《致外省人信札》",
+    "titleEn": "The Provincial Letters",
+    "originalTitle": "Lettres provinciales",
+    "yearDisplay": "1656/1657",
+    "noteZh": "帕斯卡为詹森主义争论所写的讽刺与护教文本，批判耶稣会道德神学。"
+  },
+  {
+    "id": "pascal-pensees",
+    "philosopherId": "pascal",
+    "titleZh": "《思想录》",
+    "titleEn": "Pensées",
+    "originalTitle": "Pensées",
+    "yearDisplay": "1670 posthumous",
+    "noteZh": "帕斯卡未完成基督教护教计划的遗稿汇编，包含赌注、娱乐、心灵和人的处境等片段。"
+  },
+  {
+    "id": "pascal-geometrical-spirit",
+    "philosopherId": "pascal",
+    "titleZh": "《论几何精神》",
+    "titleEn": "On the Geometrical Spirit",
+    "originalTitle": "De l'esprit géométrique",
+    "yearDisplay": "c. 1658",
+    "noteZh": "讨论定义、原则、证明秩序和几何方法限度的短论。"
+  },
+  {
+    "id": "pascal-art-of-persuasion",
+    "philosopherId": "pascal",
+    "titleZh": "《论说服的艺术》",
+    "titleEn": "On the Art of Persuasion",
+    "originalTitle": "De l'art de persuader",
+    "yearDisplay": "c. 1658",
+    "noteZh": "与几何精神相邻的片段，区分证明、说服和人的意志接受条件。"
+  },
+  {
+    "id": "pascal-conversation-sacy",
+    "philosopherId": "pascal",
+    "titleZh": "《与萨西先生论爱比克泰德和蒙田》",
+    "titleEn": "Conversation with Monsieur de Sacy on Epictetus and Montaigne",
+    "originalTitle": "Entretien avec M. de Sacy sur Épictète et Montaigne",
+    "yearDisplay": "posthumous",
+    "noteZh": "通过爱比克泰德与蒙田对照人的骄傲和软弱，为帕斯卡的人论提供入口。"
   }
 ]

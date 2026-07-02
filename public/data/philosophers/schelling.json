@@ -1,0 +1,295 @@
+{
+  "id": "schelling",
+  "names": {
+    "zh": "谢林",
+    "en": "Friedrich Wilhelm Joseph Schelling"
+  },
+  "life": {
+    "birth": 1775,
+    "death": 1854,
+    "display": "1775—1854"
+  },
+  "civilization": "european_modern",
+  "traditions": [
+    "german_idealism",
+    "philosophy_of_nature"
+  ],
+  "periods": [
+    "expansion_e1"
+  ],
+  "themes": [
+    "metaphysics",
+    "freedom",
+    "aesthetics"
+  ],
+  "keywordsZh": [
+    "自然哲学",
+    "同一哲学",
+    "自由",
+    "艺术",
+    "启示"
+  ],
+  "oneLineZh": "把自然、精神、艺术和自由组织为德国观念论内部最具生成性的体系实验。",
+  "influenceWeight": 3,
+  "reviewStatus": "draft",
+  "summaryZh": "谢林承接费希特的主体性问题，却拒绝把自然降为自我的派生物；他以自然哲学、同一哲学、艺术哲学和自由论打通自然与精神，并成为黑格尔、克尔凯郭尔和后期存在论问题的重要中介。",
+  "works": [
+    "schelling-ideas-nature",
+    "schelling-system-transcendental-idealism",
+    "schelling-human-freedom",
+    "schelling-ages-world",
+    "schelling-philosophy-revelation"
+  ],
+  "sourceNotes": [
+    {
+      "label": "SEP",
+      "url": "https://plato.stanford.edu/entries/schelling/",
+      "noteZh": "用于核对自然哲学、同一哲学、自由论文和后期启示哲学。"
+    },
+    {
+      "label": "review",
+      "noteZh": "E1 批新增条目，特别用于修补费希特—黑格尔与谢林—克尔凯郭尔链条。"
+    }
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "schelling:problem:001",
+        "titleZh": "自然是否只是主体的对象？",
+        "questionZh": "谢林如何反对把自然降为自我表象，并把自然理解为自身能动的生成过程？",
+        "summaryZh": "谢林认为自然不是被动材料，而是与精神同源的生产性力量；自然哲学要说明有机体、极性和生成如何预示精神的出现。",
+        "themeIds": [
+          "metaphysics",
+          "knowledge"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "schelling:claim:001",
+            "titleZh": "自然具有生产性而非惰性",
+            "claimZh": "自然应被理解为自我组织和自我显现的活动，而不是主体外部的死物。",
+            "explanationZh": "这使谢林既承接观念论，又修正费希特式主体中心，把自然自身的动力纳入体系。",
+            "themeIds": [
+              "metaphysics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "schelling:evidence:001",
+                "titleZh": "《自然哲学观念》的自然生成论",
+                "summaryZh": "《自然哲学观念》把自然描述为动态组织过程，通过吸引、排斥、有机性和生产性解释自然自身的活动。",
+                "source": {
+                  "workId": "schelling-ideas-nature",
+                  "locator": "Introduction and first division on productive nature",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "schelling:evidence:002",
+                "titleZh": "SEP 对自然哲学问题的定位",
+                "summaryZh": "SEP 将谢林自然哲学置于德国观念论内部，说明他试图克服自然作为纯粹对象的理解。",
+                "source": {
+                  "workId": "schelling-ideas-nature",
+                  "locator": "SEP Schelling, early philosophy of nature",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "schelling:claim:002",
+            "titleZh": "精神是自然自我显现的高阶形态",
+            "claimZh": "自然与精神不是两种绝对异质实体，而是同一生产过程在不同层级的显现。",
+            "explanationZh": "这为谢林后来同一哲学和艺术哲学提供基础，使自然科学、生命和意识被放在同一发生论框架中。",
+            "themeIds": [
+              "metaphysics",
+              "knowledge"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "schelling:evidence:003",
+                "titleZh": "自然与精神的连续性",
+                "summaryZh": "早期自然哲学文本把自然层级理解为通向意识的组织过程，精神不是脱离自然的外加原则。",
+                "source": {
+                  "workId": "schelling-ideas-nature",
+                  "locator": "Sections on organism and productivity",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "schelling:evidence:004",
+                "titleZh": "先验体系中的双向证明",
+                "summaryZh": "《先验唯心论体系》从主体活动回推自然与历史的条件，与自然哲学从自然上升到精神构成互补路线。",
+                "source": {
+                  "workId": "schelling-system-transcendental-idealism",
+                  "locator": "Introduction on transcendental and nature philosophy",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "schelling:problem:002",
+        "titleZh": "艺术为何能完成哲学体系？",
+        "questionZh": "谢林为什么把艺术看成有限与无限、意识与无意识统一的最高显现？",
+        "summaryZh": "在谢林的先验唯心论中，艺术作品显示有意识创造与无意识生产的统一，因此艺术成为哲学难以概念化之同一性的直观显现。",
+        "themeIds": [
+          "aesthetics",
+          "metaphysics"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "schelling:claim:003",
+            "titleZh": "艺术呈现意识与无意识的统一",
+            "claimZh": "艺术作品把主体的自由创造和自然般的无意识生产结合在同一对象中。",
+            "explanationZh": "因此艺术并非哲学的装饰，而是让观念论体系看到其根本同一性的特殊媒介。",
+            "themeIds": [
+              "aesthetics",
+              "freedom"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "schelling:evidence:005",
+                "titleZh": "《先验唯心论体系》的艺术结论",
+                "summaryZh": "该书末尾把艺术称为哲学的器官，因为艺术直观展示自由活动与自然生产之间不可分割的统一。",
+                "source": {
+                  "workId": "schelling-system-transcendental-idealism",
+                  "locator": "Final section on philosophy of art",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "schelling:evidence:006",
+                "titleZh": "审美直观的系统功能",
+                "summaryZh": "艺术部分把审美直观放在体系完成位置，说明概念推演需要由作品中的统一经验获得显现。",
+                "source": {
+                  "workId": "schelling-system-transcendental-idealism",
+                  "locator": "Conclusion on aesthetic intuition",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "schelling:claim:004",
+            "titleZh": "艺术哲学连接康德与浪漫派",
+            "claimZh": "谢林把康德判断力问题转化为浪漫主义的艺术绝对性问题。",
+            "explanationZh": "他既继承审美判断中的自然与自由中介问题，又把艺术提升为观念论体系的中心证据。",
+            "themeIds": [
+              "aesthetics",
+              "knowledge"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "schelling:evidence:007",
+                "titleZh": "SEP 对艺术位置的说明",
+                "summaryZh": "SEP 说明谢林在先验体系中赋予艺术关键角色，使艺术承担自然和自由统一的哲学功能。",
+                "source": {
+                  "workId": "schelling-system-transcendental-idealism",
+                  "locator": "SEP Schelling, System of Transcendental Idealism",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "schelling:evidence:008",
+                "titleZh": "体系末章的媒介转换",
+                "summaryZh": "先验体系末章将哲学无法完全对象化的同一性转交给艺术作品，构成从知识论到审美论的转折。",
+                "source": {
+                  "workId": "schelling-system-transcendental-idealism",
+                  "locator": "Final paragraphs on art as organon",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "schelling:problem:003",
+        "titleZh": "自由如何包含恶的可能？",
+        "questionZh": "谢林如何在自由论文和后期哲学中把恶、人格和神性根据纳入观念论？",
+        "summaryZh": "谢林拒绝把自由化约为理性自律，强调真正自由必须能解释恶的现实可能；这使他的后期思想转向根据、历史、启示和人格性的复杂结构。",
+        "themeIds": [
+          "freedom",
+          "religion",
+          "metaphysics"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "schelling:claim:005",
+            "titleZh": "恶显示自由不是抽象选择",
+            "claimZh": "自由的真实性在于主体能够把自我性从普遍秩序中分离出来，因此恶具有形而上学意义。",
+            "explanationZh": "谢林用恶的问题突破单纯和谐的同一哲学，使自由成为涉及人格、根据和历史的深层结构。",
+            "themeIds": [
+              "freedom",
+              "metaphysics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "schelling:evidence:009",
+                "titleZh": "自由论文中的恶的可能性",
+                "summaryZh": "《人类自由本质研究》把恶解释为自我性对普遍爱的颠倒关系，说明自由必须包含真实分裂的可能。",
+                "source": {
+                  "workId": "schelling-human-freedom",
+                  "locator": "Main discussion of evil and selfhood",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "schelling:evidence:010",
+                "titleZh": "根据与存在的区分",
+                "summaryZh": "自由论文通过神中根据与存在的区分解释自然、欲望和人格，避免把恶归结为单纯缺陷或认识错误。",
+                "source": {
+                  "workId": "schelling-human-freedom",
+                  "locator": "Section on ground and existence in God",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "schelling:claim:006",
+            "titleZh": "后期积极哲学转向历史与启示",
+            "claimZh": "谢林后期认为单靠概念必然性不能穷尽存在，哲学还要面对事实性、神话和启示。",
+            "explanationZh": "这一路线影响后来关于存在、宗教和历史经验的思考，也解释克尔凯郭尔为何关注又反感谢林柏林讲座。",
+            "themeIds": [
+              "religion",
+              "metaphysics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "schelling:evidence:011",
+                "titleZh": "启示哲学中的积极哲学",
+                "summaryZh": "后期讲座区分消极哲学与积极哲学，强调存在事实、神话材料和启示经验不能由纯概念演绎完全推出。",
+                "source": {
+                  "workId": "schelling-philosophy-revelation",
+                  "locator": "Berlin lectures, distinction between negative and positive philosophy",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "schelling:evidence:012",
+                "titleZh": "《世界时代》的历史生成尝试",
+                "summaryZh": "《世界时代》手稿以神性生命和时间展开为主题，显示谢林把体系问题转向历史生成与存在事实。",
+                "source": {
+                  "workId": "schelling-ages-world",
+                  "locator": "Opening book on past and divine life",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

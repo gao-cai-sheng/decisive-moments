@@ -3932,5 +3932,146 @@
     "oneLineZh": "罗马皇帝和斯多葛作者，以《沉思录》把宇宙秩序、职责和自我训练结合起来。",
     "influenceWeight": 1,
     "reviewStatus": "draft"
+  },
+  {
+    "id": "fichte",
+    "names": {
+      "zh": "费希特",
+      "en": "Johann Gottlieb Fichte"
+    },
+    "life": {
+      "birth": 1762,
+      "death": 1814,
+      "display": "1762—1814"
+    },
+    "civilization": "european_modern",
+    "traditions": [
+      "german_idealism",
+      "transcendental_idealism"
+    ],
+    "periods": [
+      "expansion_e1"
+    ],
+    "themes": [
+      "freedom",
+      "knowledge",
+      "politics"
+    ],
+    "keywordsZh": [
+      "自我",
+      "知识学",
+      "自由",
+      "法权",
+      "民族教育"
+    ],
+    "oneLineZh": "以知识学把康德批判哲学推进为从自我活动出发的自由体系。",
+    "influenceWeight": 3,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "schelling",
+    "names": {
+      "zh": "谢林",
+      "en": "Friedrich Wilhelm Joseph Schelling"
+    },
+    "life": {
+      "birth": 1775,
+      "death": 1854,
+      "display": "1775—1854"
+    },
+    "civilization": "european_modern",
+    "traditions": [
+      "german_idealism",
+      "philosophy_of_nature"
+    ],
+    "periods": [
+      "expansion_e1"
+    ],
+    "themes": [
+      "metaphysics",
+      "freedom",
+      "aesthetics"
+    ],
+    "keywordsZh": [
+      "自然哲学",
+      "同一哲学",
+      "自由",
+      "艺术",
+      "启示"
+    ],
+    "oneLineZh": "把自然、精神、艺术和自由组织为德国观念论内部最具生成性的体系实验。",
+    "influenceWeight": 3,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "feuerbach",
+    "names": {
+      "zh": "费尔巴哈",
+      "en": "Ludwig Andreas Feuerbach"
+    },
+    "life": {
+      "birth": 1804,
+      "death": 1872,
+      "display": "1804—1872"
+    },
+    "civilization": "european_modern",
+    "traditions": [
+      "young_hegelian",
+      "anthropological_materialism"
+    ],
+    "periods": [
+      "expansion_e1"
+    ],
+    "themes": [
+      "religion",
+      "metaphysics",
+      "politics"
+    ],
+    "keywordsZh": [
+      "宗教批判",
+      "投射",
+      "人本学",
+      "青年黑格尔派",
+      "马克思"
+    ],
+    "oneLineZh": "把黑格尔思辨神学倒转为人本学宗教批判，并成为马克思早期异化批判的近端入口。",
+    "influenceWeight": 3,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "pascal",
+    "names": {
+      "zh": "帕斯卡",
+      "en": "Blaise Pascal"
+    },
+    "life": {
+      "birth": 1623,
+      "death": 1662,
+      "display": "1623—1662"
+    },
+    "civilization": "european_modern",
+    "traditions": [
+      "christian_apologetics",
+      "jansenism",
+      "early_modern_philosophy"
+    ],
+    "periods": [
+      "expansion_e1"
+    ],
+    "themes": [
+      "religion",
+      "life_death",
+      "knowledge"
+    ],
+    "keywordsZh": [
+      "思想录",
+      "赌注",
+      "心灵",
+      "几何精神",
+      "蒙田"
+    ],
+    "oneLineZh": "以人的脆弱、理性的限度和信仰赌注重塑早期现代基督教护教与存在论感受。",
+    "influenceWeight": 3,
+    "reviewStatus": "draft"
   }
 ]
