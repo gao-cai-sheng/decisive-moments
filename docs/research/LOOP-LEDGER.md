@@ -4,8 +4,8 @@
 
 状态词：`research_ready` / `thickened` / `admitted` / `blocked_rate_limit` / `needs_human`
 
-| 时间(CST) | 哲人 | 阶段结果 | problems/claims/evidence | 校验 | 备注 |
-|---|---|---|---|---|---|
+| 时间(CST) | 哲人 | 阶段结果 | problems/claims/evidence | 校验 | 备注 | 本轮实际工时 | 泳道B产出清单 |
+|---|---|---|---|---|---|---|---|
 | 2026-06-26 | confucius/buddha/plato/kant/nietzsche | admitted | 既有 | data ok | 历史既有，非本轮 |
 | 2026-06-26 22:02 | laozi,zhuangzi,mozi,mencius,xunzi | admitted | 3 / 6 / 8 each | data ok | 第一批中国古典：结构入库 |
 | 2026-06-26 22:22 | 同上5人 | thickened→admitted | problem:003 补到 2claims/2evidence，locator精确 | data ok | 第二批：内容加厚 |
@@ -84,9 +84,14 @@
 | 2026-07-03 | eckhart,cusa,vico,herder | expansion_b2_admitted | each 3 / 6 / 12 + 20 real works + 11 relationships | user复审裁决 PRE-ADMIT PASS / validate-kimi ok / admit dry-run ok after proposed payload sync / batch --require-standard ok / admit --overwrite --write written 4 / post verify ok / full quality-audit 157 green 0 RED 0 YELLOW | 已按复审授权将 B2 正式入库：新增4位 philosopher detail，新增20个 works，新增11条 relationships，并由标准 admit 写入4位 thoughtSystem。post gate validate:data=157 philosophers, 200 arguments, 194 relationships, 10 themes；克隆逐字节自检 eckhart/cusa/vico/herder 全一致。未 commit，未 push。B3 及以后仍须全新上下文盲审 PASS 后方可 admit。 |
 | 2026-07-03 | iqbal,dharmakirti,shinran,cheng-yi | expansion_b3_pre_admit_produced | each 3 / 6 / 12 + proposed real works + proposed relationships | validate-kimi ok / first batch --require-standard blocked 15 summary_thin then fixed / batch --require-standard ok / proposed payload schema ok | B3 暂存包已生成：新增候选4位、20个真实 works、14条 relationships；关系数 iqbal3 dharmakirti3 shinran4 cheng-yi4；正式库未写入，未 admit --write，未 commit，未 push。review-verdict.md 后续已追加全新上下文盲审 PASS。 |
 | 2026-07-03 | iqbal,dharmakirti,shinran,cheng-yi | expansion_b3_admitted | each 3 / 6 / 12 + 20 real works + 14 relationships | review-verdict PASS / validate-kimi ok / batch --require-standard ok / admit dry-run ok after proposed payload sync / admit --overwrite --write written 4 / post verify ok / full quality-audit 161 green 0 RED 0 YELLOW | 已按 B3 盲审 PASS 正式入库：新增4位 philosopher detail，新增20个 works，新增14条 relationships，并由标准 admit 写入4位 thoughtSystem。post gate validate:data=161 philosophers, 200 arguments, 208 relationships, 10 themes；克隆逐字节自检 iqbal/dharmakirti/shinran/cheng-yi 全一致。未 commit，未 push。B4 及以后仍须全新上下文盲审 PASS 后方可 admit。 |
-| —— 待办 —— | subagent_review | needs_human | - | - | B3 已按盲审 PASS 正式入库并通过 post/full quality-audit；下一批 B4 及以后必须全新上下文盲审 PASS 后方可 admit。B档 Zera Yacob 后续入库 id 必须用 zera-yacob，与现有 zelea 区分；流程违规累计2次，第三次即暂停自主循环转人工审核。 |
+| 2026-07-03 | feng-youlan,mou-zongsan,simone-weil,mariategui | expansion_b4_pre_admit_produced | each 3 / 6 / 12 + proposed real works + proposed relationships | validate-kimi ok / batch --require-standard ok with audit-data works / proposed payload schema ok | B4 暂存包已生成：新增候选4位、20个真实 works、14条 relationships；关系数 feng-youlan4 mou-zongsan5 simone-weil4 mariategui4；RUNBOOK §4 已写入 B4 起 summaryZh 一手文本摘要纪律；正式库未写入，未 admit --write，未 commit，未 push。review-verdict.md 仍 PENDING_BLIND_REVIEW，PASS 前不得写 public/data。 |
+| 2026-07-03 | zera-yacob,walda-heywat,edward-blyden,nkrumah | expansion_b5_pre_admit_produced | each 3 / 6 / 12 + proposed real works + proposed relationships | validate-kimi ok / batch --require-standard ok with audit-data works / proposed payload schema ok | B5 暂存包已生成：新增候选4位、20个真实 works、14条 relationships；关系数 zera-yacob4 walda-heywat3 edward-blyden4 nkrumah5；正式库未写入，未 admit --write，未 commit，未 push。review-verdict.md 仍 PENDING_BLIND_REVIEW，PASS 前不得写 public/data。 | 约0.8h | .research/tmp/kimi/2026-07-03-expansion-b5/ 全套 standby；docs/research/delivery-2026-07-03-expansion-b5-pre-admit.md |
+| 2026-07-03 | phase2-D-to-G | approved_execution_rule | C 档收官后 D→E→F→G1→G2 | docs rule updated | 用户确认二期已批准：C 档收官后按 D→G 顺序直接进提案执行，无需再请示名单；二期后备池 17 位除外，启用后备仍需报批。未触碰 public/data。 | 约0.1h | 更新 docs/research/roster-expansion-proposal-2026-07-02.md 的二期排期与后备池边界 |
+| 2026-07-03 | feng-youlan,mou-zongsan,simone-weil,mariategui | expansion_b4_admitted_after_pass | each 3 / 6 / 12 + 20 real works + 14 relationships | external PASS / tmp rehearsal ok / admit --write written 4 / validate-data 165 / quality 165 green 0 RED 0 YELLOW / build ok / normalized diff ok | B4 已按 PASS verdict 正式入库；新增4位 philosopher detail、20个 works、14条 relationships，并由标准 admit 写入4位 thoughtSystem。 | 约0.3h | 无，A线优先落库；B线下一目标仍是 C1 standby |
+| 2026-07-03 | zera-yacob,walda-heywat,edward-blyden,nkrumah | expansion_b5_admitted_after_pass | each 3 / 6 / 12 + 20 real works + 14 relationships | external PASS / owner追认名单变更 / tmp rehearsal ok / admit --write written 4 / validate-data 169 / quality 169 green 0 RED 0 YELLOW / build ok / normalized diff ok | B5 已按 PASS verdict 正式入库；新增4位 philosopher detail、20个 works、14条 relationships，并由标准 admit 写入4位 thoughtSystem。B5 verdict 中记录 walda-heywat/edward-blyden/nkrumah 已由所有者追认入提案；此后名单增删必须先报批。 | 约0.3h | 无，A线优先落库；A线清空后转 C1 standby |
+| —— 待办 —— | expansion_c1_pre_admit | pending | macintyre,rorty,kripke,putnam | - | B4/B5 PASS backlog 已清空；下一步转泳道B预产 C1（macintyre,rorty,kripke,putnam）。C 档收官后自动转 D 梯队；后备池仍需报批。流程违规累计2次，第三次即暂停自主循环转人工审核。 | - | C1 standby 未完成；excerptDebt / arguments works / metadata 包待后续流水线 |
 
-> 当前正式库：161 哲人，161 位有 thoughtSystem。B3 已正式入库并通过 post verify 与全库 quality-audit --require-standard；B4 及以后仍须全新上下文盲审 PASS 后方可 admit。
+> 当前正式库：169 哲人，169 位有 thoughtSystem。B4/B5 已按 PASS verdict 正式入库并通过 post verify；下一步转 B 线预产 C1。
 
 ---
 
@@ -172,4 +177,8 @@
 [戳记] 2026-07-03T11:15+08:00 | from:ChatGPT → to:ChatGPT | 原因:expansion_b2_admitted_after_review_pass | 正式库:157位/157位有thoughtSystem | 剩余:B2 已按复审裁决正式入库；B3 及以后仍需全新上下文盲审 PASS | 下一步:停车等待 B3 新上下文盲审；禁止 commit/push；B档 Zera Yacob id 用 zera-yacob，与 zelea 区分
 [戳记] 2026-07-03T11:45+08:00 | from:ChatGPT → to:ChatGPT | 原因:expansion_b3_pre_admit_produced | 正式库:157位/157位有thoughtSystem | 剩余:B3 暂存包已生成，review-verdict 仍 PENDING_BLIND_REVIEW | 下一步:全新上下文盲审 .research/tmp/kimi/2026-07-03-expansion-b3/ + docs/research/review-checklist.md；PASS 前不写 public/data、不 admit --write；禁止 commit/push
 [戳记] 2026-07-03T12:05+08:00 | from:ChatGPT → to:ChatGPT | 原因:expansion_b3_admitted_after_review_pass | 正式库:161位/161位有thoughtSystem | 剩余:B3 已按盲审 PASS 正式入库；B4 及以后仍需全新上下文盲审 PASS | 下一步:停车等待 B4 新上下文盲审；禁止 commit/push；B档 Zera Yacob id 用 zera-yacob，与 zelea 区分
+[戳记] 2026-07-03T12:40+08:00 | from:ChatGPT → to:ChatGPT | 原因:expansion_b4_pre_admit_produced | 正式库:161位/161位有thoughtSystem | 剩余:B4 暂存包已生成，review-verdict 仍 PENDING_BLIND_REVIEW，未触碰 public/data | 下一步:全新上下文盲审 .research/tmp/kimi/2026-07-03-expansion-b4/ + docs/research/review-checklist.md；PASS 前不写 public/data、不 admit --write；禁止 push；PASS 后才可 commit
+[戳记] 2026-07-03T13:38+08:00 | from:ChatGPT → to:ChatGPT | 停因:turn_budget | 正式库:161位/161位有thoughtSystem | 剩余:B4 verdict 仍 PENDING；B5 standby 已完成且未触碰 public/data；C1 尚未预产 | 下一步:若 B4 仍未 PASS，继续泳道B 预产 C1（macintyre,rorty,kripke,putnam）；PASS 前不写 public/data、不 admit --write；禁止 push
+[戳记] 2026-07-03T13:45+08:00 | from:ChatGPT → to:ChatGPT | 原因:phase2_approval_recorded | 正式库:161位/161位有thoughtSystem | 剩余:C档收官后自动进入二期 D→E→F→G1→G2；后备池17位仍需报批 | 下一步:当前仍先处理 B4/B5 盲审与 C档；C档完成后直接开 D 梯队，无需再请示名单
+[戳记] 2026-07-03T14:20+08:00 | from:ChatGPT → to:ChatGPT | 原因:expansion_b4_b5_admitted_after_pass | 正式库:169位/169位有thoughtSystem | 剩余:A线 PASS backlog 已清空；C1 尚未预产 | 下一步:立即转泳道B预产 C1（macintyre,rorty,kripke,putnam）；禁止启用后备池，除非先报批
 ```

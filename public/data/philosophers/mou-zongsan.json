@@ -1,0 +1,293 @@
+{
+  "id": "mou-zongsan",
+  "names": {
+    "zh": "牟宗三",
+    "en": "Mou Zongsan",
+    "native": "牟宗三"
+  },
+  "life": {
+    "birth": 1909,
+    "death": 1995,
+    "display": "1909—1995"
+  },
+  "civilization": "chinese_modern",
+  "traditions": [
+    "new_confucianism",
+    "kantianism",
+    "moral_metaphysics"
+  ],
+  "periods": [
+    "expansion_b4"
+  ],
+  "themes": [
+    "ethics",
+    "metaphysics",
+    "freedom"
+  ],
+  "keywordsZh": [
+    "道德形上学",
+    "智的直觉",
+    "良知",
+    "两层存有论",
+    "圆善"
+  ],
+  "oneLineZh": "以康德批判、智的直觉和儒家良知论建立现代新儒家的道德形上学。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "牟宗三继承熊十力以来的新儒家问题意识，借康德、佛学和宋明儒学重构良知、物自身、智的直觉和圆善问题。",
+  "works": [
+    "mou-zongsan-intellectual-intuition",
+    "mou-zongsan-phenomenon-thing-itself",
+    "mou-zongsan-treatise-perfect-good",
+    "mou-zongsan-moral-idealism",
+    "mou-zongsan-heart-mind-and-nature"
+  ],
+  "sourceNotes": [
+    {
+      "label": "Primary and terminology note",
+      "url": "https://iep.utm.edu/mou-zongsan/",
+      "noteZh": "二手条目仅用于核对英文题名和术语；evidence 仍以牟宗三原著自身论证为摘要对象。"
+    }
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "mou-zongsan:problem:001",
+        "titleZh": "康德界限与智的直觉",
+        "questionZh": "牟宗三如何通过中国哲学改写康德关于智性直观和物自身的限制？",
+        "summaryZh": "牟宗三把康德的有限理性边界转化为新儒家问题，主张道德主体可通过智的直觉触及物自身层面的价值实在。",
+        "themeIds": [
+          "metaphysics",
+          "freedom"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "mou-zongsan:claim:001",
+            "titleZh": "智的直觉属于道德主体",
+            "claimZh": "牟宗三认为中国哲学中的圣贤人格显示人并非只能停留在感性直观和现象知识中。",
+            "explanationZh": "这不是简单否定康德，而是把康德留给神的智性直观改写为儒家道德实践中可能显现的主体能力。",
+            "themeIds": [
+              "freedom",
+              "metaphysics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "mou-zongsan:evidence:001",
+                "titleZh": "《智的直觉与中国哲学》回应康德限制",
+                "summaryZh": "文本从康德否定人类智性直观出发，转向儒释道传统中的实践主体，论证道德生命可呈现超越经验对象的直觉能力。",
+                "source": {
+                  "workId": "mou-zongsan-intellectual-intuition",
+                  "locator": "Opening chapters on Kant and intellectual intuition",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "mou-zongsan:evidence:002",
+                "titleZh": "《现象与物自身》重释物自身",
+                "summaryZh": "书中把物自身问题从不可知对象改写为道德主体自我呈现的实在层面，显示牟宗三试图突破现象界封闭。",
+                "source": {
+                  "workId": "mou-zongsan-phenomenon-thing-itself",
+                  "locator": "Chapters on thing-in-itself and moral subjectivity",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "mou-zongsan:claim:002",
+            "titleZh": "良知承担形上学功能",
+            "claimZh": "牟宗三把儒家良知理解为能够开显价值实在的主体根源，而不只是道德心理感受。",
+            "explanationZh": "这条主张把阳明学与康德问题相连，使良知成为新儒家形上学的核心而非伦理经验之一。",
+            "themeIds": [
+              "ethics",
+              "metaphysics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "mou-zongsan:evidence:003",
+                "titleZh": "《心体与性体》判释宋明心性论",
+                "summaryZh": "文本通过周敦颐、二程、朱子、陆王等谱系分析心体与性体，说明儒家道德主体具有本体论开显意义。",
+                "source": {
+                  "workId": "mou-zongsan-heart-mind-and-nature",
+                  "locator": "Introductory and Wang Yangming sections on heart-mind substance",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "mou-zongsan:evidence:004",
+                "titleZh": "《道德的理想主义》确立道德主体中心",
+                "summaryZh": "书中把儒家生命方向解释为道德理想主义，强调人格自觉和文化生命不能被经验功利或制度技术完全解释。",
+                "source": {
+                  "workId": "mou-zongsan-moral-idealism",
+                  "locator": "Chapters on moral idealism and Confucian subjectivity",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "mou-zongsan:problem:002",
+        "titleZh": "两层存有论与判教",
+        "questionZh": "牟宗三如何用两层存有论组织儒释道资源和现代哲学问题？",
+        "summaryZh": "牟宗三以执的存有论和无执的存有论区分经验对象化世界与道德超越开显，同时借判教方式定位儒释道差异。",
+        "themeIds": [
+          "metaphysics",
+          "religion"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "mou-zongsan:claim:003",
+            "titleZh": "两层存有论处理现象和价值实在",
+            "claimZh": "牟宗三区分对象化的现象层和道德主体开显的超越层，以此回应康德物自身难题。",
+            "explanationZh": "这让他既保留现代知识的有限性，又给儒家成德和圣贤境界留下形上学地位。",
+            "themeIds": [
+              "metaphysics",
+              "knowledge"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "mou-zongsan:evidence:005",
+                "titleZh": "《现象与物自身》提出两层存有论",
+                "summaryZh": "文本通过执与无执的区别说明同一世界可在对象化知识和道德开显中呈现不同层面，从而重排现象与物自身。",
+                "source": {
+                  "workId": "mou-zongsan-phenomenon-thing-itself",
+                  "locator": "Sections on two-level ontology and non-attachment",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "mou-zongsan:evidence:006",
+                "titleZh": "《圆善论》把最高善纳入儒家实践",
+                "summaryZh": "书中围绕德福关系讨论康德最高善难题，试图用儒家道德创造说明价值世界如何可能圆满实现。",
+                "source": {
+                  "workId": "mou-zongsan-treatise-perfect-good",
+                  "locator": "Chapters on Kant's highest good and Confucian fulfillment",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "mou-zongsan:claim:004",
+            "titleZh": "判教服务于新儒家系统定位",
+            "claimZh": "牟宗三借佛教判教方法整理儒释道差异，以显示儒家在道德创造问题上的独特位置。",
+            "explanationZh": "这条主张说明他并非把中国传统混合为一，而是通过系统判准安排各传统的哲学功能。",
+            "themeIds": [
+              "religion",
+              "ethics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "mou-zongsan:evidence:007",
+                "titleZh": "《智的直觉与中国哲学》比较儒释道直觉形态",
+                "summaryZh": "文本把儒释道都纳入智的直觉问题，却进一步区分其修行方向和价值承担，显示判教服务于体系定位。",
+                "source": {
+                  "workId": "mou-zongsan-intellectual-intuition",
+                  "locator": "Comparative chapters on Confucian, Buddhist, and Daoist intuition",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "mou-zongsan:evidence:008",
+                "titleZh": "《心体与性体》重估朱陆王谱系",
+                "summaryZh": "书中通过细密判释宋明儒家各系，确认心性论内部差异，并把陆王良知传统推为道德形上学关键。",
+                "source": {
+                  "workId": "mou-zongsan-heart-mind-and-nature",
+                  "locator": "Sections comparing Zhu Xi, Lu Xiangshan, and Wang Yangming",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "mou-zongsan:problem:003",
+        "titleZh": "现代新儒学的文化方案",
+        "questionZh": "牟宗三如何把道德形上学转化为现代中国文化自我理解？",
+        "summaryZh": "牟宗三的新儒学不是单纯传统复兴，而是把中国文化生命、民主科学和道德主体统一到现代哲学论证中。",
+        "themeIds": [
+          "politics",
+          "ethics"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "mou-zongsan:claim:005",
+            "titleZh": "文化现代性需要道德主体支撑",
+            "claimZh": "牟宗三认为现代制度和知识必须由道德主体承载，否则文化生命会沦为外在技术模仿。",
+            "explanationZh": "这使新儒学既面对现代民主科学，又坚持儒家道德创造作为文化更新的根基。",
+            "themeIds": [
+              "politics",
+              "ethics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "mou-zongsan:evidence:009",
+                "titleZh": "《道德的理想主义》论文化生命",
+                "summaryZh": "文本把儒家理想主义解释为文化生命的内在动力，强调现代化不能只复制制度形式，还要保存道德主体的创造力。",
+                "source": {
+                  "workId": "mou-zongsan-moral-idealism",
+                  "locator": "Chapters on Chinese culture and moral idealism",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "mou-zongsan:evidence:010",
+                "titleZh": "《圆善论》连接实践和圆满价值",
+                "summaryZh": "书中将最高善问题落实到实践完成，显示现代新儒家不只讨论义务形式，也关心价值世界如何在历史中实现。",
+                "source": {
+                  "workId": "mou-zongsan-treatise-perfect-good",
+                  "locator": "Concluding discussions on perfect good and practice",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "mou-zongsan:claim:006",
+            "titleZh": "新儒学以哲学论证回应现代断裂",
+            "claimZh": "牟宗三通过康德问题、宋明儒学和佛学判教重建传统，使中国文化自我理解进入严格哲学论证。",
+            "explanationZh": "这区别于一般文化认同叙事：他把传统合法性放在概念和体系论证中重新检验。",
+            "themeIds": [
+              "knowledge",
+              "ethics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "mou-zongsan:evidence:011",
+                "titleZh": "《现象与物自身》以康德问题重建儒学入口",
+                "summaryZh": "文本把现代哲学的认识界限问题作为进入儒家道德形上学的入口，使传统不靠权威而靠概念论证重新呈现。",
+                "source": {
+                  "workId": "mou-zongsan-phenomenon-thing-itself",
+                  "locator": "Opening methodological chapters on Kant and Chinese philosophy",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "mou-zongsan:evidence:012",
+                "titleZh": "《心体与性体》的思想史义理判准",
+                "summaryZh": "书中不是平铺宋明材料，而是用心体、性体和良知等问题判准组织思想史，使传统谱系具有现代哲学可争辩性。",
+                "source": {
+                  "workId": "mou-zongsan-heart-mind-and-nature",
+                  "locator": "Methodological prefaces and doctrinal classification sections",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

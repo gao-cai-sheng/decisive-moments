@@ -1,0 +1,292 @@
+{
+  "id": "feng-youlan",
+  "names": {
+    "zh": "冯友兰",
+    "en": "Feng Youlan",
+    "native": "馮友蘭"
+  },
+  "life": {
+    "birth": 1895,
+    "death": 1990,
+    "display": "1895—1990"
+  },
+  "civilization": "chinese_modern",
+  "traditions": [
+    "modern_confucianism",
+    "neo_confucianism",
+    "history_of_chinese_philosophy"
+  ],
+  "periods": [
+    "expansion_b4"
+  ],
+  "themes": [
+    "metaphysics",
+    "ethics",
+    "knowledge"
+  ],
+  "keywordsZh": [
+    "新理学",
+    "中国哲学史",
+    "人生境界",
+    "理",
+    "现代儒学"
+  ],
+  "oneLineZh": "以现代哲学史写作和新理学体系把中国传统义理转译为二十世纪哲学问题。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "冯友兰用现代哲学史框架重写中国思想谱系，并以新理学、人生境界论和形上学方法重建儒家传统的现代表达。",
+  "works": [
+    "feng-youlan-history-chinese-philosophy",
+    "feng-youlan-short-history-chinese-philosophy",
+    "feng-youlan-new-rational-philosophy",
+    "feng-youlan-new-treatise-nature-man",
+    "feng-youlan-new-treatise-methodology-metaphysics"
+  ],
+  "sourceNotes": [
+    {
+      "label": "Primary corpus note",
+      "url": "https://archive.org/details/shorthistoryofch0000fung",
+      "noteZh": "以《中国哲学史》《中国哲学简史》和贞元六书中的新理学文本为主；英文出版常见 Fung Yu-lan 拼写。"
+    }
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "feng-youlan:problem:001",
+        "titleZh": "哲学史与中国哲学精神",
+        "questionZh": "冯友兰如何把中国传统思想改写为现代哲学史，同时保留其自身问题意识？",
+        "summaryZh": "冯友兰把传统学案、经学和义理材料整理为哲学问题史，使中国哲学获得可与世界哲学对话的现代叙述形式。",
+        "themeIds": [
+          "knowledge",
+          "language"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "feng-youlan:claim:001",
+            "titleZh": "哲学史是传统现代化的形式",
+            "claimZh": "冯友兰用现代哲学史结构重排中国思想，使传统材料从学派沿革转化为问题和概念的历史。",
+            "explanationZh": "这条主张解释了冯友兰为何既像历史家又像体系哲学家：他的哲学史写作本身就是中国哲学现代化工程。",
+            "themeIds": [
+              "knowledge",
+              "language"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "feng-youlan:evidence:001",
+                "titleZh": "《中国哲学史》重排传统问题",
+                "summaryZh": "文本按诸子、经学、玄学、佛学和理学等阶段组织中国思想，把旧有学案转化为可比较的哲学问题史。",
+                "source": {
+                  "workId": "feng-youlan-history-chinese-philosophy",
+                  "locator": "Vol. I–II, framing chapters on the periods of Chinese philosophy",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "feng-youlan:evidence:002",
+                "titleZh": "《中国哲学简史》论中国哲学精神",
+                "summaryZh": "简史以人生境界、内圣外王和人与宇宙关系概括传统主轴，使中国哲学不只是材料汇编，而成为有整体问题意识的传统。",
+                "source": {
+                  "workId": "feng-youlan-short-history-chinese-philosophy",
+                  "locator": "Opening and concluding chapters on the spirit of Chinese philosophy",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "feng-youlan:claim:002",
+            "titleZh": "中国哲学围绕人生与宇宙关系展开",
+            "claimZh": "冯友兰把中国哲学的核心理解为人如何在道德、社会和宇宙秩序中安顿自身。",
+            "explanationZh": "这使其哲学史不同于纯观念目录，而是把人生论、政治伦理和形上学放入统一叙述。",
+            "themeIds": [
+              "ethics",
+              "metaphysics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "feng-youlan:evidence:009",
+                "titleZh": "《中国哲学简史》面向世界读者",
+                "summaryZh": "简史通过比较术语解释儒、道、墨、名、佛等传统，让中国思想在世界哲学课堂中获得可沟通的概念形式。",
+                "source": {
+                  "workId": "feng-youlan-short-history-chinese-philosophy",
+                  "locator": "A Short History, chapters introducing major schools and their spirit",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "feng-youlan:evidence:010",
+                "titleZh": "《中国哲学史》处理中西方法张力",
+                "summaryZh": "叙述采用现代学科分类，却持续回到中国材料自身的问题线索，显示冯友兰在翻译传统与保持脉络之间寻求平衡。",
+                "source": {
+                  "workId": "feng-youlan-history-chinese-philosophy",
+                  "locator": "Methodological framing and concluding comparative discussions",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "feng-youlan:problem:002",
+        "titleZh": "新理学的形上学方法",
+        "questionZh": "冯友兰如何用现代语言重建理学形上学，而不只是重复宋明术语？",
+        "summaryZh": "冯友兰的新理学把理、气和大全等传统概念抽象化、逻辑化，使理学成为现代形上学体系而非单纯经学注释。",
+        "themeIds": [
+          "metaphysics",
+          "knowledge"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "feng-youlan:claim:003",
+            "titleZh": "理是形式原则而非经验物",
+            "claimZh": "冯友兰把理解释为事物所以为其所是的形式原则，避免把理当成可经验观察的具体对象。",
+            "explanationZh": "这条主张使新理学既延续程朱理学的本体论语言，又转向现代逻辑和形上学问题。",
+            "themeIds": [
+              "metaphysics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "feng-youlan:evidence:003",
+                "titleZh": "《新理学》以理解释存在结构",
+                "summaryZh": "文本把理描述为事物所以可能的形式原则，并将其同具体气化世界区分，形成抽象而理性化的形而上学框架。",
+                "source": {
+                  "workId": "feng-youlan-new-rational-philosophy",
+                  "locator": "Xin Lixue, chapters on li and qi",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "feng-youlan:evidence:004",
+                "titleZh": "《新知言》说明形上命题方法",
+                "summaryZh": "书中区分可说的逻辑说明和不可完全对象化的形上意义，试图为新理学避免经验命题化误读提供方法论。",
+                "source": {
+                  "workId": "feng-youlan-new-treatise-methodology-metaphysics",
+                  "locator": "Xin Zhiyan, sections on metaphysical language and method",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "feng-youlan:claim:004",
+            "titleZh": "形上语言需要方法自觉",
+            "claimZh": "冯友兰认为形上学必须说明自身语言的层级和限制，否则容易被误读为自然科学式事实陈述。",
+            "explanationZh": "这使其体系在建立本体论时同时包含方法论防线，避免新理学只成为传统术语复兴。",
+            "themeIds": [
+              "language",
+              "metaphysics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "feng-youlan:evidence:011",
+                "titleZh": "《新知言》保护形上语言限度",
+                "summaryZh": "文本把形上学言说理解为引导性表达而非普通事实报告，说明哲学体系必须意识到自身语言的边界和功能。",
+                "source": {
+                  "workId": "feng-youlan-new-treatise-methodology-metaphysics",
+                  "locator": "Xin Zhiyan, discussions of speaking and knowing in metaphysics",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "feng-youlan:evidence:012",
+                "titleZh": "《新理学》连接知识与精神修养",
+                "summaryZh": "新理学不是单纯概念游戏，它把对理的理解导向人生境界提升，使形而上学承担人格教育和文化更新任务。",
+                "source": {
+                  "workId": "feng-youlan-new-rational-philosophy",
+                  "locator": "Xin Lixue, concluding materials on metaphysics and human life",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "feng-youlan:problem:003",
+        "titleZh": "人生境界与现代儒学",
+        "questionZh": "冯友兰如何把现代哲学体系转回人生修养和儒家价值？",
+        "summaryZh": "冯友兰用四境界论把形上学、道德行动和宇宙意识连接起来，使现代儒学既有概念体系也有修养方向。",
+        "themeIds": [
+          "ethics",
+          "freedom"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "feng-youlan:claim:005",
+            "titleZh": "四境界说明人格提升",
+            "claimZh": "冯友兰把人生境界分为自然、功利、道德和天地层级，强调人能通过自觉提升生命意义。",
+            "explanationZh": "这条主张把传统成圣论改写为现代人生哲学，使儒家修养不只依赖礼教身份。",
+            "themeIds": [
+              "ethics",
+              "freedom"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "feng-youlan:evidence:005",
+                "titleZh": "《新原人》提出四境界次第",
+                "summaryZh": "文本把人生分为自然、功利、道德和天地境界，说明人可以从本能生活提升到自觉承担宇宙意义的生活。",
+                "source": {
+                  "workId": "feng-youlan-new-treatise-nature-man",
+                  "locator": "Xin Yuan Ren, chapters on four spheres of life",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "feng-youlan:evidence:006",
+                "titleZh": "《新原人》论天地境界的自觉",
+                "summaryZh": "天地境界不是逃离社会伦理，而是在道德活动中意识到人与大全的关系，使有限行动获得超越性的自我理解。",
+                "source": {
+                  "workId": "feng-youlan-new-treatise-nature-man",
+                  "locator": "Xin Yuan Ren, sections on the sphere of Heaven and Earth",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "feng-youlan:claim:006",
+            "titleZh": "现代儒学需要体系化重述",
+            "claimZh": "冯友兰通过新理学把儒家伦理、理学本体论和现代哲学方法整合为一个可论证体系。",
+            "explanationZh": "这使他与单纯文化保守不同：他并非只保存传统，而是把传统改造成现代哲学语言中的体系。",
+            "themeIds": [
+              "ethics",
+              "metaphysics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "feng-youlan:evidence:007",
+                "titleZh": "《新理学》重释程朱理学概念",
+                "summaryZh": "文本吸收程朱理气语言，却用现代逻辑和本体论方式表达，使传统理学从经学语境进入现代哲学体系建构。",
+                "source": {
+                  "workId": "feng-youlan-new-rational-philosophy",
+                  "locator": "Xin Lixue, systematic reconstruction of Neo-Confucian terms",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "feng-youlan:evidence:008",
+                "titleZh": "《中国哲学史》评价宋明理学位置",
+                "summaryZh": "哲学史叙述把宋明理学视为中国哲学成熟阶段之一，突出其对宇宙论、心性论和伦理实践统一的追求。",
+                "source": {
+                  "workId": "feng-youlan-history-chinese-philosophy",
+                  "locator": "Vol. II, chapters on Song-Ming Neo-Confucianism",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

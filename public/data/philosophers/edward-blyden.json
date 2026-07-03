@@ -1,0 +1,292 @@
+{
+  "id": "edward-blyden",
+  "names": {
+    "zh": "爱德华·布莱登",
+    "en": "Edward Wilmot Blyden"
+  },
+  "life": {
+    "birth": 1832,
+    "death": 1912,
+    "display": "1832—1912"
+  },
+  "civilization": "african",
+  "traditions": [
+    "pan_africanism",
+    "african_personality",
+    "anti_colonial_thought"
+  ],
+  "periods": [
+    "expansion_b5"
+  ],
+  "themes": [
+    "politics",
+    "knowledge",
+    "religion"
+  ],
+  "keywordsZh": [
+    "非洲人格",
+    "泛非主义",
+    "教育",
+    "伊斯兰",
+    "殖民批判"
+  ],
+  "oneLineZh": "以非洲人格、宗教比较和教育批判奠定泛非思想与非洲现代主体性的早期语言。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "布莱登批判殖民教育和欧洲中心评价，把非洲人格、伊斯兰经验和文化自信置于黑人民族现代性问题中心。",
+  "works": [
+    "edward-blyden-christianity-islam-negro-race",
+    "edward-blyden-african-life-customs",
+    "edward-blyden-west-africa-before-europe",
+    "edward-blyden-call-providence",
+    "edward-blyden-africa-for-africans"
+  ],
+  "sourceNotes": [
+    {
+      "label": "Primary corpus note",
+      "url": "https://archive.org/details/christianityisla00blyd",
+      "noteZh": "以《基督教、伊斯兰与黑人种族》为主，辅以非洲人格、教育和殖民批判相关文本。"
+    }
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "edward-blyden:problem:001",
+        "titleZh": "非洲人格与殖民知识批判",
+        "questionZh": "布莱登如何用非洲人格反驳殖民教育和欧洲中心评价？",
+        "summaryZh": "布莱登把非洲人格理解为历史、宗教、语言和社会习俗塑造出的独特主体性，反对以欧洲尺度取消非洲价值。",
+        "themeIds": [
+          "knowledge",
+          "politics"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "edward-blyden:claim:001",
+            "titleZh": "非洲人格是文化主体性概念",
+            "claimZh": "布莱登主张非洲人应从自身历史和社会经验理解自我，而非模仿欧洲文明尺度。",
+            "explanationZh": "这使其思想成为后来黑人性、泛非主义和去殖民知识批判的重要前史。",
+            "themeIds": [
+              "knowledge",
+              "politics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "edward-blyden:evidence:001",
+                "titleZh": "《基督教、伊斯兰与黑人种族》提出非洲人格问题",
+                "summaryZh": "书中反复比较非洲社会、宗教和教育经验，强调黑人民族不能只按欧洲文化理想来衡量自身未来。",
+                "source": {
+                  "workId": "edward-blyden-christianity-islam-negro-race",
+                  "locator": "Essays on African personality, race, and education",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "edward-blyden:evidence:002",
+                "titleZh": "《非洲生活与习俗》维护地方制度意义",
+                "summaryZh": "文本把非洲习俗解释为有其社会功能和道德秩序的生活形式，而不是等待欧洲启蒙的落后残余。",
+                "source": {
+                  "workId": "edward-blyden-african-life-customs",
+                  "locator": "Chapters on African customs and social organization",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "edward-blyden:claim:002",
+            "titleZh": "殖民教育制造自我疏离",
+            "claimZh": "布莱登批评殖民教育让非洲学生鄙视自身文化，从而削弱非洲复兴的主体力量。",
+            "explanationZh": "这一主张把知识制度和政治解放联系起来，使教育问题成为泛非思想的核心战场。",
+            "themeIds": [
+              "knowledge",
+              "freedom"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "edward-blyden:evidence:003",
+                "titleZh": "《基督教、伊斯兰与黑人种族》论教育误导",
+                "summaryZh": "相关论文指出欧洲化学校常把学生训练成离开本土生活的模仿者，而不是能建设非洲社会的主体。",
+                "source": {
+                  "workId": "edward-blyden-christianity-islam-negro-race",
+                  "locator": "Essays on education and alienation from African life",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "edward-blyden:evidence:004",
+                "titleZh": "《非洲属于非洲人》强调自主教育方向",
+                "summaryZh": "演讲材料把非洲复兴和教育目标相连，要求知识训练服务于非洲人的公共使命，而非殖民行政需要。",
+                "source": {
+                  "workId": "edward-blyden-africa-for-africans",
+                  "locator": "Speeches and essays on education for African self-direction",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "edward-blyden:problem:002",
+        "titleZh": "宗教比较与非洲历史使命",
+        "questionZh": "布莱登为什么把基督教、伊斯兰和非洲社会放在同一政治哲学问题中比较？",
+        "summaryZh": "布莱登通过宗教比较讨论非洲社会的历史道路，认为宗教形式会影响教育、共同体纪律和民族自我理解。",
+        "themeIds": [
+          "religion",
+          "politics"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "edward-blyden:claim:003",
+            "titleZh": "宗教塑造民族性而非只是信条",
+            "claimZh": "布莱登把宗教视为塑造社会纪律、教育和集体人格的力量，因此比较宗教就是比较文明道路。",
+            "explanationZh": "这说明他关注宗教的社会哲学功能，而非只讨论教义真假。",
+            "themeIds": [
+              "religion",
+              "politics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "edward-blyden:evidence:005",
+                "titleZh": "《基督教、伊斯兰与黑人种族》比较宗教影响",
+                "summaryZh": "书中比较伊斯兰和基督教在非洲社会中的教育、纪律和身份效果，借此思考哪种制度更能支持黑人共同体。",
+                "source": {
+                  "workId": "edward-blyden-christianity-islam-negro-race",
+                  "locator": "Comparative essays on Islam, Christianity, and African society",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "edward-blyden:evidence:006",
+                "titleZh": "《天命召唤》把宗教语言转化为民族使命",
+                "summaryZh": "早期演讲用天命和召唤解释散居黑人与非洲未来的关系，显示宗教语言被用于组织政治想象。",
+                "source": {
+                  "workId": "edward-blyden-call-providence",
+                  "locator": "Providential mission and descendants of Africa",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "edward-blyden:claim:004",
+            "titleZh": "非洲历史不是欧洲到来后才开始",
+            "claimZh": "布莱登反对把非洲描述为无历史对象，强调欧洲殖民前已有社会秩序和文化发展。",
+            "explanationZh": "这条主张为后来的非洲史学和去殖民知识论提供了早期论证资源。",
+            "themeIds": [
+              "knowledge",
+              "justice"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "edward-blyden:evidence:007",
+                "titleZh": "《欧洲之前的西非》重建历史主体",
+                "summaryZh": "文本强调西非在欧洲介入之前已有政治、商业和文化发展，从而反驳殖民叙事中的历史空白论。",
+                "source": {
+                  "workId": "edward-blyden-west-africa-before-europe",
+                  "locator": "Historical essays on West Africa before European domination",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "edward-blyden:evidence:008",
+                "titleZh": "《非洲生活与习俗》保存地方知识价值",
+                "summaryZh": "书中对本土制度的辩护表明非洲社会不是原始材料库，而包含可供现代复兴重新理解的历史智慧。",
+                "source": {
+                  "workId": "edward-blyden-african-life-customs",
+                  "locator": "Accounts of indigenous institutions and cultural value",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "edward-blyden:problem:003",
+        "titleZh": "泛非主义前史与关系网位置",
+        "questionZh": "布莱登如何连接杜波依斯、桑戈尔和恩克鲁玛等后续思想线？",
+        "summaryZh": "布莱登在十九世纪就把非洲复兴、散居黑人使命和文化自尊连成问题链，为二十世纪泛非主义提供历史前奏。",
+        "themeIds": [
+          "politics",
+          "freedom"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "edward-blyden:claim:005",
+            "titleZh": "泛非使命先于国家解放政治",
+            "claimZh": "布莱登把非洲与散居黑人命运连接起来，使泛非主义在国家独立运动之前已有思想基础。",
+            "explanationZh": "这使他能够补上杜波依斯和恩克鲁玛之间更早的泛非思想前史。",
+            "themeIds": [
+              "politics",
+              "freedom"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "edward-blyden:evidence:009",
+                "titleZh": "《天命召唤》论散居黑人使命",
+                "summaryZh": "演讲把美洲黑人后裔同非洲复兴联系起来，提出跨大西洋黑人共同使命，而非单一殖民地归属。",
+                "source": {
+                  "workId": "edward-blyden-call-providence",
+                  "locator": "Diasporic mission and African return in early speeches",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "edward-blyden:evidence:010",
+                "titleZh": "《非洲属于非洲人》强调大陆自主",
+                "summaryZh": "相关文本把非洲政治和文化前途归还给非洲人自身决定，为后来的大陆统一和反殖民运动提供口号资源。",
+                "source": {
+                  "workId": "edward-blyden-africa-for-africans",
+                  "locator": "Africa for Africans speeches and essays",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "edward-blyden:claim:006",
+            "titleZh": "文化自尊开启黑人性问题链",
+            "claimZh": "布莱登的非洲人格论为桑戈尔黑人性和杜波依斯黑人现代性提供可追溯的问题背景。",
+            "explanationZh": "关系线应采用影响和共享问题的保守表达，避免把后续思想简单还原为布莱登的直接推论。",
+            "themeIds": [
+              "aesthetics",
+              "knowledge"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "edward-blyden:evidence:011",
+                "titleZh": "《基督教、伊斯兰与黑人种族》肯定黑人文化能力",
+                "summaryZh": "书中反驳黑人只能接受欧洲文明移植的看法，主张黑人民族有独特贡献和适合自身发展的道路。",
+                "source": {
+                  "workId": "edward-blyden-christianity-islam-negro-race",
+                  "locator": "Essays on Black capacity, race, and African contribution",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "edward-blyden:evidence:012",
+                "titleZh": "研究传统承认其泛非前驱地位",
+                "summaryZh": "现代研究常把布莱登称为泛非主义早期奠基者，这一定位来自其对非洲人格、散居使命和大陆复兴的组合论述。",
+                "source": {
+                  "workId": "edward-blyden-christianity-islam-negro-race",
+                  "locator": "Scholarly reception of Blyden as Pan-African precursor",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

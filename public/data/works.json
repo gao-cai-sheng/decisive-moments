@@ -3456,24 +3456,519 @@
     "yearDisplay": "1769",
     "noteZh": "早期美学与批评文本，回应莱辛等人的诗学和艺术判断问题。"
   },
-{"id":"iqbal-reconstruction","philosopherId":"iqbal","titleZh":"《伊斯兰宗教思想的重构》","titleEn":"The Reconstruction of Religious Thought in Islam","yearDisplay":"1930 / 1934","noteZh":"伊克巴尔英文讲稿结集，集中讨论宗教经验、上帝、祈祷、自我、伊斯兰文化和法的运动原则。"},
-{"id":"iqbal-asrar-i-khudi","philosopherId":"iqbal","titleZh":"《自我的秘密》","titleEn":"The Secrets of the Self","originalTitle":"Asrār-i Khudī","yearDisplay":"1915","noteZh":"以诗性哲学形式阐发 khudi 自我、行动、爱与人格强化。"},
-{"id":"iqbal-rumuz-i-bekhudi","philosopherId":"iqbal","titleZh":"《无我之奥秘》","titleEn":"The Secrets of Selflessness","originalTitle":"Rumūz-i Bekhudī","yearDisplay":"1918","noteZh":"把个体自我放入共同体、律法和历史使命中讨论。"},
-{"id":"iqbal-javid-nama","philosopherId":"iqbal","titleZh":"《贾维德书》","titleEn":"Javid Nama","yearDisplay":"1932","noteZh":"以宇宙旅行诗体表达灵魂上升、文明批判和宗教政治想象。"},
-{"id":"iqbal-development-metaphysics-persia","philosopherId":"iqbal","titleZh":"《波斯形而上学的发展》","titleEn":"The Development of Metaphysics in Persia","yearDisplay":"1908","noteZh":"早期学术著作，梳理波斯与伊斯兰哲学中的形而上学线索。"},
-{"id":"dharmakirti-pramanavarttika","philosopherId":"dharmakirti","titleZh":"《量评释》","titleEn":"Commentary on Valid Cognition","originalTitle":"Pramāṇavārttika","yearDisplay":"7th c.","noteZh":"法称最重要论书，围绕陈那《集量论》发展量论、语言、逻辑和佛陀权威论证。"},
-{"id":"dharmakirti-pramanaviniscaya","philosopherId":"dharmakirti","titleZh":"《定量论》","titleEn":"Ascertainment of Valid Cognition","originalTitle":"Pramāṇaviniścaya","yearDisplay":"7th c.","noteZh":"系统整理现量、比量和认识可靠性问题，是《量评释》后续精炼文本。"},
-{"id":"dharmakirti-nyayabindu","philosopherId":"dharmakirti","titleZh":"《正理滴论》","titleEn":"Drop of Reasoning","originalTitle":"Nyāyabindu","yearDisplay":"7th c.","noteZh":"简明呈现因明与推理结构，后来在印度和藏传传统中广泛注释。"},
-{"id":"dharmakirti-hetubindu","philosopherId":"dharmakirti","titleZh":"《因滴论》","titleEn":"Drop of Logical Reasons","originalTitle":"Hetubindu","yearDisplay":"7th c.","noteZh":"集中处理因、遍充和有效理由，为推理论证提供技术基础。"},
-{"id":"dharmakirti-santanantarasiddhi","philosopherId":"dharmakirti","titleZh":"《他相续成立论》","titleEn":"Proof of Other Minds","originalTitle":"Saṃtānāntarasiddhi","yearDisplay":"7th c.","noteZh":"回应唯识语境中的他心问题，说明如何避免滑向唯我论。"},
-{"id":"shinran-kyogyoshinsho","philosopherId":"shinran","titleZh":"《教行信证》","titleEn":"The True Teaching, Practice, and Realization of the Pure Land Way","originalTitle":"Kyōgyōshinshō","yearDisplay":"c. 1224","noteZh":"亲鸾代表作，按教、行、信、证、真佛土、化身土组织净土真宗教义。"},
-{"id":"shinran-tannisho","philosopherId":"shinran","titleZh":"《叹异抄》","titleEn":"A Record in Lament of Divergences","yearDisplay":"late 13th c.","noteZh":"由弟子唯圆整理的亲鸾语录传统，集中呈现恶人正机、他力与异义辨析。"},
-{"id":"shinran-jodo-wasan","philosopherId":"shinran","titleZh":"《净土和赞》","titleEn":"Hymns of the Pure Land","originalTitle":"Jōdo Wasan","yearDisplay":"13th c.","noteZh":"以和赞形式表达阿弥陀本愿、净土庄严和信心体验。"},
-{"id":"shinran-notes-faith-alone","philosopherId":"shinran","titleZh":"《唯信钞文意》","titleEn":"Notes on Essentials of Faith Alone","yearDisplay":"13th c.","noteZh":"解释信心、他力与名号意义，是亲鸾后期教义阐释的重要文本。"},
-{"id":"shinran-lamp-latter-ages","philosopherId":"shinran","titleZh":"《末灯钞》","titleEn":"Lamp for the Latter Ages","yearDisplay":"13th c.","noteZh":"亲鸾书信集传统，反映晚年对教团、异义和信心实践的回应。"},
-{"id":"cheng-yi-yichuan-yizhuan","philosopherId":"cheng-yi","titleZh":"《伊川易传》","titleEn":"Yichuan Commentary on the Book of Changes","originalTitle":"伊川易传","yearDisplay":"Northern Song","noteZh":"程颐对《易》的义理阐释，体现以理解释经典和宇宙秩序的方向。"},
-{"id":"cheng-yi-wenji","philosopherId":"cheng-yi","titleZh":"《伊川文集》","titleEn":"Collected Writings of Yichuan","originalTitle":"伊川文集","yearDisplay":"Northern Song","noteZh":"收录程颐书信、奏议和论说，提供政治伦理与修养论材料。"},
-{"id":"cheng-brothers-surviving-works","philosopherId":"cheng-yi","titleZh":"《二程遗书》","titleEn":"Surviving Works of the Cheng Brothers","originalTitle":"二程遗书","yearDisplay":"compiled Song-Yuan","noteZh":"程门语录与讲学材料，朱熹整理后成为理解二程理学的关键文本。"},
-{"id":"cheng-brothers-classified-sayings","philosopherId":"cheng-yi","titleZh":"《二程外书》","titleEn":"Additional Works of the Cheng Brothers","originalTitle":"二程外书","yearDisplay":"compiled Song-Yuan","noteZh":"补充程氏兄弟语录与问答，呈现敬、格物、性理等问题。"},
-{"id":"cheng-yi-henan-collected","philosopherId":"cheng-yi","titleZh":"《河南程氏粹言》","titleEn":"Essential Sayings of the Chengs of Henan","originalTitle":"河南程氏粹言","yearDisplay":"compiled tradition","noteZh":"后出程氏语录选编，反映程颐思想在朱子学传统中的整理方式。"}
+  {
+    "id": "iqbal-reconstruction",
+    "philosopherId": "iqbal",
+    "titleZh": "《伊斯兰宗教思想的重构》",
+    "titleEn": "The Reconstruction of Religious Thought in Islam",
+    "yearDisplay": "1930 / 1934",
+    "noteZh": "伊克巴尔英文讲稿结集，集中讨论宗教经验、上帝、祈祷、自我、伊斯兰文化和法的运动原则。"
+  },
+  {
+    "id": "iqbal-asrar-i-khudi",
+    "philosopherId": "iqbal",
+    "titleZh": "《自我的秘密》",
+    "titleEn": "The Secrets of the Self",
+    "originalTitle": "Asrār-i Khudī",
+    "yearDisplay": "1915",
+    "noteZh": "以诗性哲学形式阐发 khudi 自我、行动、爱与人格强化。"
+  },
+  {
+    "id": "iqbal-rumuz-i-bekhudi",
+    "philosopherId": "iqbal",
+    "titleZh": "《无我之奥秘》",
+    "titleEn": "The Secrets of Selflessness",
+    "originalTitle": "Rumūz-i Bekhudī",
+    "yearDisplay": "1918",
+    "noteZh": "把个体自我放入共同体、律法和历史使命中讨论。"
+  },
+  {
+    "id": "iqbal-javid-nama",
+    "philosopherId": "iqbal",
+    "titleZh": "《贾维德书》",
+    "titleEn": "Javid Nama",
+    "yearDisplay": "1932",
+    "noteZh": "以宇宙旅行诗体表达灵魂上升、文明批判和宗教政治想象。"
+  },
+  {
+    "id": "iqbal-development-metaphysics-persia",
+    "philosopherId": "iqbal",
+    "titleZh": "《波斯形而上学的发展》",
+    "titleEn": "The Development of Metaphysics in Persia",
+    "yearDisplay": "1908",
+    "noteZh": "早期学术著作，梳理波斯与伊斯兰哲学中的形而上学线索。"
+  },
+  {
+    "id": "dharmakirti-pramanavarttika",
+    "philosopherId": "dharmakirti",
+    "titleZh": "《量评释》",
+    "titleEn": "Commentary on Valid Cognition",
+    "originalTitle": "Pramāṇavārttika",
+    "yearDisplay": "7th c.",
+    "noteZh": "法称最重要论书，围绕陈那《集量论》发展量论、语言、逻辑和佛陀权威论证。"
+  },
+  {
+    "id": "dharmakirti-pramanaviniscaya",
+    "philosopherId": "dharmakirti",
+    "titleZh": "《定量论》",
+    "titleEn": "Ascertainment of Valid Cognition",
+    "originalTitle": "Pramāṇaviniścaya",
+    "yearDisplay": "7th c.",
+    "noteZh": "系统整理现量、比量和认识可靠性问题，是《量评释》后续精炼文本。"
+  },
+  {
+    "id": "dharmakirti-nyayabindu",
+    "philosopherId": "dharmakirti",
+    "titleZh": "《正理滴论》",
+    "titleEn": "Drop of Reasoning",
+    "originalTitle": "Nyāyabindu",
+    "yearDisplay": "7th c.",
+    "noteZh": "简明呈现因明与推理结构，后来在印度和藏传传统中广泛注释。"
+  },
+  {
+    "id": "dharmakirti-hetubindu",
+    "philosopherId": "dharmakirti",
+    "titleZh": "《因滴论》",
+    "titleEn": "Drop of Logical Reasons",
+    "originalTitle": "Hetubindu",
+    "yearDisplay": "7th c.",
+    "noteZh": "集中处理因、遍充和有效理由，为推理论证提供技术基础。"
+  },
+  {
+    "id": "dharmakirti-santanantarasiddhi",
+    "philosopherId": "dharmakirti",
+    "titleZh": "《他相续成立论》",
+    "titleEn": "Proof of Other Minds",
+    "originalTitle": "Saṃtānāntarasiddhi",
+    "yearDisplay": "7th c.",
+    "noteZh": "回应唯识语境中的他心问题，说明如何避免滑向唯我论。"
+  },
+  {
+    "id": "shinran-kyogyoshinsho",
+    "philosopherId": "shinran",
+    "titleZh": "《教行信证》",
+    "titleEn": "The True Teaching, Practice, and Realization of the Pure Land Way",
+    "originalTitle": "Kyōgyōshinshō",
+    "yearDisplay": "c. 1224",
+    "noteZh": "亲鸾代表作，按教、行、信、证、真佛土、化身土组织净土真宗教义。"
+  },
+  {
+    "id": "shinran-tannisho",
+    "philosopherId": "shinran",
+    "titleZh": "《叹异抄》",
+    "titleEn": "A Record in Lament of Divergences",
+    "yearDisplay": "late 13th c.",
+    "noteZh": "由弟子唯圆整理的亲鸾语录传统，集中呈现恶人正机、他力与异义辨析。"
+  },
+  {
+    "id": "shinran-jodo-wasan",
+    "philosopherId": "shinran",
+    "titleZh": "《净土和赞》",
+    "titleEn": "Hymns of the Pure Land",
+    "originalTitle": "Jōdo Wasan",
+    "yearDisplay": "13th c.",
+    "noteZh": "以和赞形式表达阿弥陀本愿、净土庄严和信心体验。"
+  },
+  {
+    "id": "shinran-notes-faith-alone",
+    "philosopherId": "shinran",
+    "titleZh": "《唯信钞文意》",
+    "titleEn": "Notes on Essentials of Faith Alone",
+    "yearDisplay": "13th c.",
+    "noteZh": "解释信心、他力与名号意义，是亲鸾后期教义阐释的重要文本。"
+  },
+  {
+    "id": "shinran-lamp-latter-ages",
+    "philosopherId": "shinran",
+    "titleZh": "《末灯钞》",
+    "titleEn": "Lamp for the Latter Ages",
+    "yearDisplay": "13th c.",
+    "noteZh": "亲鸾书信集传统，反映晚年对教团、异义和信心实践的回应。"
+  },
+  {
+    "id": "cheng-yi-yichuan-yizhuan",
+    "philosopherId": "cheng-yi",
+    "titleZh": "《伊川易传》",
+    "titleEn": "Yichuan Commentary on the Book of Changes",
+    "originalTitle": "伊川易传",
+    "yearDisplay": "Northern Song",
+    "noteZh": "程颐对《易》的义理阐释，体现以理解释经典和宇宙秩序的方向。"
+  },
+  {
+    "id": "cheng-yi-wenji",
+    "philosopherId": "cheng-yi",
+    "titleZh": "《伊川文集》",
+    "titleEn": "Collected Writings of Yichuan",
+    "originalTitle": "伊川文集",
+    "yearDisplay": "Northern Song",
+    "noteZh": "收录程颐书信、奏议和论说，提供政治伦理与修养论材料。"
+  },
+  {
+    "id": "cheng-brothers-surviving-works",
+    "philosopherId": "cheng-yi",
+    "titleZh": "《二程遗书》",
+    "titleEn": "Surviving Works of the Cheng Brothers",
+    "originalTitle": "二程遗书",
+    "yearDisplay": "compiled Song-Yuan",
+    "noteZh": "程门语录与讲学材料，朱熹整理后成为理解二程理学的关键文本。"
+  },
+  {
+    "id": "cheng-brothers-classified-sayings",
+    "philosopherId": "cheng-yi",
+    "titleZh": "《二程外书》",
+    "titleEn": "Additional Works of the Cheng Brothers",
+    "originalTitle": "二程外书",
+    "yearDisplay": "compiled Song-Yuan",
+    "noteZh": "补充程氏兄弟语录与问答，呈现敬、格物、性理等问题。"
+  },
+  {
+    "id": "cheng-yi-henan-collected",
+    "philosopherId": "cheng-yi",
+    "titleZh": "《河南程氏粹言》",
+    "titleEn": "Essential Sayings of the Chengs of Henan",
+    "originalTitle": "河南程氏粹言",
+    "yearDisplay": "compiled tradition",
+    "noteZh": "后出程氏语录选编，反映程颐思想在朱子学传统中的整理方式。"
+  },
+  {
+    "id": "feng-youlan-history-chinese-philosophy",
+    "philosopherId": "feng-youlan",
+    "titleZh": "《中国哲学史》",
+    "titleEn": "A History of Chinese Philosophy",
+    "originalTitle": "中國哲學史",
+    "yearDisplay": "1934",
+    "noteZh": "两卷本中国哲学史，按先秦、汉唐、宋明等阶段组织中国思想的哲学问题谱系。"
+  },
+  {
+    "id": "feng-youlan-short-history-chinese-philosophy",
+    "philosopherId": "feng-youlan",
+    "titleZh": "《中国哲学简史》",
+    "titleEn": "A Short History of Chinese Philosophy",
+    "originalTitle": "中國哲學簡史",
+    "yearDisplay": "1948",
+    "noteZh": "面向英文读者的简明中国哲学史，突出人生境界、内圣外王和中国哲学精神。"
+  },
+  {
+    "id": "feng-youlan-new-rational-philosophy",
+    "philosopherId": "feng-youlan",
+    "titleZh": "《新理学》",
+    "titleEn": "New Rational Philosophy",
+    "originalTitle": "新理學",
+    "yearDisplay": "1939",
+    "noteZh": "贞元六书核心文本，以理、气、道体等概念建立现代形上学体系。"
+  },
+  {
+    "id": "feng-youlan-new-treatise-nature-man",
+    "philosopherId": "feng-youlan",
+    "titleZh": "《新原人》",
+    "titleEn": "A New Treatise on the Nature of Man",
+    "originalTitle": "新原人",
+    "yearDisplay": "1943",
+    "noteZh": "提出人生四境界，从自然、功利、道德到天地境界说明人格提升。"
+  },
+  {
+    "id": "feng-youlan-new-treatise-methodology-metaphysics",
+    "philosopherId": "feng-youlan",
+    "titleZh": "《新知言》",
+    "titleEn": "A New Treatise on the Methodology of Metaphysics",
+    "originalTitle": "新知言",
+    "yearDisplay": "1946",
+    "noteZh": "讨论形上学语言和方法，说明新理学命题如何避免被误解为经验事实命题。"
+  },
+  {
+    "id": "mou-zongsan-intellectual-intuition",
+    "philosopherId": "mou-zongsan",
+    "titleZh": "《智的直觉与中国哲学》",
+    "titleEn": "Intellectual Intuition and Chinese Philosophy",
+    "originalTitle": "智的直覺與中國哲學",
+    "yearDisplay": "1971",
+    "noteZh": "围绕康德的智性直观限制，论证儒释道传统中道德主体的智的直觉可能。"
+  },
+  {
+    "id": "mou-zongsan-phenomenon-thing-itself",
+    "philosopherId": "mou-zongsan",
+    "titleZh": "《现象与物自身》",
+    "titleEn": "Phenomenon and Thing-in-Itself",
+    "originalTitle": "現象與物自身",
+    "yearDisplay": "1975",
+    "noteZh": "重释康德现象与物自身区分，提出两层存有论和无执存有论。"
+  },
+  {
+    "id": "mou-zongsan-treatise-perfect-good",
+    "philosopherId": "mou-zongsan",
+    "titleZh": "《圆善论》",
+    "titleEn": "Treatise on the Perfect Good",
+    "originalTitle": "圓善論",
+    "yearDisplay": "1985",
+    "noteZh": "处理康德最高善问题，试图以儒家道德形上学说明德福圆融。"
+  },
+  {
+    "id": "mou-zongsan-moral-idealism",
+    "philosopherId": "mou-zongsan",
+    "titleZh": "《道德的理想主义》",
+    "titleEn": "Moral Idealism",
+    "originalTitle": "道德的理想主義",
+    "yearDisplay": "1959",
+    "noteZh": "早期新儒家代表作之一，强调道德主体、文化生命和儒家理想主义。"
+  },
+  {
+    "id": "mou-zongsan-heart-mind-and-nature",
+    "philosopherId": "mou-zongsan",
+    "titleZh": "《心体与性体》",
+    "titleEn": "Heart-Mind Substance and Nature Substance",
+    "originalTitle": "心體與性體",
+    "yearDisplay": "1968–1969",
+    "noteZh": "系统判释宋明儒学，以心体、性体和良知结构说明道德形上学传统。"
+  },
+  {
+    "id": "simone-weil-waiting-for-god",
+    "philosopherId": "simone-weil",
+    "titleZh": "《等待上帝》",
+    "titleEn": "Waiting for God",
+    "originalTitle": "Attente de Dieu",
+    "yearDisplay": "posthumous 1950",
+    "noteZh": "书信和论文集，集中呈现注意力、祈祷、爱、苦难和神秘经验。"
+  },
+  {
+    "id": "simone-weil-gravity-and-grace",
+    "philosopherId": "simone-weil",
+    "titleZh": "《重力与恩典》",
+    "titleEn": "Gravity and Grace",
+    "originalTitle": "La Pesanteur et la Grâce",
+    "yearDisplay": "posthumous 1947",
+    "noteZh": "笔记选集，以重力、恩典、去创造和必然性等概念表达神秘伦理学。"
+  },
+  {
+    "id": "simone-weil-need-for-roots",
+    "philosopherId": "simone-weil",
+    "titleZh": "《扎根》",
+    "titleEn": "The Need for Roots",
+    "originalTitle": "L'Enracinement",
+    "yearDisplay": "posthumous 1949",
+    "noteZh": "战时政治伦理文本，以义务优先和灵魂需要分析现代失根问题。"
+  },
+  {
+    "id": "simone-weil-iliad-force",
+    "philosopherId": "simone-weil",
+    "titleZh": "《伊利亚特，或力量之诗》",
+    "titleEn": "The Iliad, or The Poem of Force",
+    "originalTitle": "L'Iliade ou le poème de la force",
+    "yearDisplay": "1940",
+    "noteZh": "以《伊利亚特》解释力量如何把人降为物，构成她战争批判的重要文本。"
+  },
+  {
+    "id": "simone-weil-oppression-liberty",
+    "philosopherId": "simone-weil",
+    "titleZh": "《压迫与自由》",
+    "titleEn": "Oppression and Liberty",
+    "originalTitle": "Oppression et liberté",
+    "yearDisplay": "posthumous 1955",
+    "noteZh": "政治和劳动论文集，分析现代压迫机制、革命幻想和自由条件。"
+  },
+  {
+    "id": "mariategui-seven-essays",
+    "philosopherId": "mariategui",
+    "titleZh": "《秘鲁现实的七篇解释论文》",
+    "titleEn": "Seven Interpretive Essays on Peruvian Reality",
+    "originalTitle": "Siete ensayos de interpretación de la realidad peruana",
+    "yearDisplay": "1928",
+    "noteZh": "代表作，从经济、土地、印第安问题、教育、宗教、区域和文学解释秘鲁现实。"
+  },
+  {
+    "id": "mariategui-defense-marxism",
+    "philosopherId": "mariategui",
+    "titleZh": "《为马克思主义辩护》",
+    "titleEn": "Defense of Marxism",
+    "originalTitle": "Defensa del marxismo",
+    "yearDisplay": "posthumous 1955",
+    "noteZh": "回应修正主义和机械化理解，强调马克思主义的革命意志、历史创造和实践性。"
+  },
+  {
+    "id": "mariategui-contemporary-scene",
+    "philosopherId": "mariategui",
+    "titleZh": "《当代场景》",
+    "titleEn": "The Contemporary Scene",
+    "originalTitle": "La escena contemporánea",
+    "yearDisplay": "1925",
+    "noteZh": "评论欧洲战后政治、法西斯主义、革命运动和国际局势，提供其全球视野背景。"
+  },
+  {
+    "id": "mariategui-heroic-creative-socialism",
+    "philosopherId": "mariategui",
+    "titleZh": "《社会主义的英雄性与创造性意义》",
+    "titleEn": "The Heroic and Creative Meaning of Socialism",
+    "yearDisplay": "1928",
+    "noteZh": "短文强调拉丁美洲社会主义不能照抄公式，而要成为本土历史中的创造。"
+  },
+  {
+    "id": "mariategui-amauta-editorials",
+    "philosopherId": "mariategui",
+    "titleZh": "《阿毛塔》社论与文艺论文",
+    "titleEn": "Amauta Editorials and Cultural Essays",
+    "originalTitle": "Amauta",
+    "yearDisplay": "1926–1930",
+    "noteZh": "围绕杂志《阿毛塔》的文化政治实践，连接先锋艺术、印第安问题和社会主义运动。"
+  },
+  {
+    "id": "zera-yacob-hatata",
+    "philosopherId": "zera-yacob",
+    "titleZh": "《探究》",
+    "titleEn": "Hatata",
+    "originalTitle": "Hatäta",
+    "yearDisplay": "1667",
+    "noteZh": "以自传性逃亡叙事、理性探究和自然神学讨论信仰、伦理、平等与习俗检验。"
+  },
+  {
+    "id": "zera-yacob-prayer-and-light",
+    "philosopherId": "zera-yacob",
+    "titleZh": "《祈祷与自然光》",
+    "titleEn": "Prayer and Natural Light",
+    "yearDisplay": "1660s",
+    "noteZh": "用于标识《探究》中关于祈祷、上帝善性和自然理性之光的论述段落。"
+  },
+  {
+    "id": "zera-yacob-religious-discrimination",
+    "philosopherId": "zera-yacob",
+    "titleZh": "《宗教分别与理性判断》",
+    "titleEn": "Religious Discrimination and Rational Judgment",
+    "yearDisplay": "1660s",
+    "noteZh": "用于标识《探究》中批判宗教迫害、教派习俗冲突和非理性服从的论述。"
+  },
+  {
+    "id": "zera-yacob-marriage-and-equality",
+    "philosopherId": "zera-yacob",
+    "titleZh": "《婚姻与男女平等》",
+    "titleEn": "Marriage and Equality",
+    "yearDisplay": "1660s",
+    "noteZh": "用于标识《探究》中围绕婚姻、性别互补、伦理平等和身体生活的讨论。"
+  },
+  {
+    "id": "zera-yacob-slavery-critique",
+    "philosopherId": "zera-yacob",
+    "titleZh": "《奴役批判》",
+    "titleEn": "Critique of Slavery",
+    "yearDisplay": "1660s",
+    "noteZh": "用于标识《探究》中把奴役与造物主意志和人类共同本性相冲突的论述。"
+  },
+  {
+    "id": "walda-heywat-hatata",
+    "philosopherId": "walda-heywat",
+    "titleZh": "《瓦尔达·黑沃特的探究》",
+    "titleEn": "The Treatise of Walda Heywat",
+    "originalTitle": "Hatäta of Walda Heywat",
+    "yearDisplay": "late 17th century",
+    "noteZh": "承接泽拉·雅各布的理性探究传统，集中讨论日常伦理、教育、劳动和社会秩序。"
+  },
+  {
+    "id": "walda-heywat-social-ethics",
+    "philosopherId": "walda-heywat",
+    "titleZh": "《社会伦理论》",
+    "titleEn": "Social Ethics",
+    "yearDisplay": "late 17th century",
+    "noteZh": "用于标识其《探究》中关于家庭、邻人、互助、劳动和社会责任的论述段落。"
+  },
+  {
+    "id": "walda-heywat-education-reason",
+    "philosopherId": "walda-heywat",
+    "titleZh": "《教育与理性》",
+    "titleEn": "Education and Reason",
+    "yearDisplay": "late 17th century",
+    "noteZh": "用于标识其《探究》中关于教化、学习、理性习惯和实践判断的论述。"
+  },
+  {
+    "id": "walda-heywat-religious-practice",
+    "philosopherId": "walda-heywat",
+    "titleZh": "《宗教实践与道德生活》",
+    "titleEn": "Religious Practice and Moral Life",
+    "yearDisplay": "late 17th century",
+    "noteZh": "用于标识其《探究》中将敬神、道德行为和日常生活联系起来的段落。"
+  },
+  {
+    "id": "walda-heywat-wise-philosophers",
+    "philosopherId": "walda-heywat",
+    "titleZh": "《哲人与实践智慧》",
+    "titleEn": "Wise Philosophers and Practical Wisdom",
+    "yearDisplay": "late 17th century",
+    "noteZh": "用于标识其《探究》中关于哲学家、智慧、劝诫和公共教化功能的讨论。"
+  },
+  {
+    "id": "edward-blyden-christianity-islam-negro-race",
+    "philosopherId": "edward-blyden",
+    "titleZh": "《基督教、伊斯兰与黑人种族》",
+    "titleEn": "Christianity, Islam and the Negro Race",
+    "yearDisplay": "1887",
+    "noteZh": "布莱登代表作，比较宗教、教育和殖民结构，提出非洲人格与黑人民族自我理解。"
+  },
+  {
+    "id": "edward-blyden-african-life-customs",
+    "philosopherId": "edward-blyden",
+    "titleZh": "《非洲生活与习俗》",
+    "titleEn": "African Life and Customs",
+    "yearDisplay": "1908",
+    "noteZh": "围绕非洲社会习俗、文化自信和欧洲评价框架的局限展开论述。"
+  },
+  {
+    "id": "edward-blyden-west-africa-before-europe",
+    "philosopherId": "edward-blyden",
+    "titleZh": "《欧洲之前的西非》",
+    "titleEn": "West Africa Before Europe",
+    "yearDisplay": "1905",
+    "noteZh": "强调非洲历史与制度并非殖民时代才开始，反驳把非洲理解为无历史对象的叙述。"
+  },
+  {
+    "id": "edward-blyden-call-providence",
+    "philosopherId": "edward-blyden",
+    "titleZh": "《天命召唤》",
+    "titleEn": "The Call of Providence to the Descendants of Africa in America",
+    "yearDisplay": "1862",
+    "noteZh": "早期泛非与回归非洲论述，把散居黑人命运、使命和非洲复兴联系起来。"
+  },
+  {
+    "id": "edward-blyden-africa-for-africans",
+    "philosopherId": "edward-blyden",
+    "titleZh": "《非洲属于非洲人》",
+    "titleEn": "Africa for the Africans",
+    "yearDisplay": "1872",
+    "noteZh": "用于标识布莱登关于非洲自主、教育方向和文化政治主体性的演讲与论文材料。"
+  },
+  {
+    "id": "nkrumah-consciencism",
+    "philosopherId": "nkrumah",
+    "titleZh": "《良知主义》",
+    "titleEn": "Consciencism",
+    "yearDisplay": "1964",
+    "noteZh": "把非洲传统、人道主义、伊斯兰、基督教和社会主义置于独立后非洲意识形态重建中。"
+  },
+  {
+    "id": "nkrumah-africa-must-unite",
+    "philosopherId": "nkrumah",
+    "titleZh": "《非洲必须统一》",
+    "titleEn": "Africa Must Unite",
+    "yearDisplay": "1963",
+    "noteZh": "论证非洲国家政治独立后仍需大陆联合，才能抵御帝国主义和经济依附。"
+  },
+  {
+    "id": "nkrumah-neo-colonialism",
+    "philosopherId": "nkrumah",
+    "titleZh": "《新殖民主义：帝国主义的最后阶段》",
+    "titleEn": "Neo-Colonialism: The Last Stage of Imperialism",
+    "yearDisplay": "1965",
+    "noteZh": "分析形式独立国家如何继续受资本、援助、贸易和军事结构支配。"
+  },
+  {
+    "id": "nkrumah-class-struggle-africa",
+    "philosopherId": "nkrumah",
+    "titleZh": "《非洲的阶级斗争》",
+    "titleEn": "Class Struggle in Africa",
+    "yearDisplay": "1970",
+    "noteZh": "把非洲解放运动放入阶级、民族和帝国主义力量关系中分析。"
+  },
+  {
+    "id": "nkrumah-handbook-revolutionary-warfare",
+    "philosopherId": "nkrumah",
+    "titleZh": "《革命战争手册》",
+    "titleEn": "Handbook of Revolutionary Warfare",
+    "yearDisplay": "1968",
+    "noteZh": "讨论泛非革命组织、反殖民斗争和非洲统一战略的实践维度。"
+  }
 ]

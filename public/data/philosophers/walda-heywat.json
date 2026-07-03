@@ -1,0 +1,293 @@
+{
+  "id": "walda-heywat",
+  "names": {
+    "zh": "瓦尔达·黑沃特",
+    "en": "Walda Heywat",
+    "native": "Wäldä Heywat"
+  },
+  "life": {
+    "birth": 1633,
+    "death": 1710,
+    "display": "约1633—约1710"
+  },
+  "civilization": "african",
+  "traditions": [
+    "ethiopian_rationalism",
+    "social_ethics",
+    "religious_philosophy"
+  ],
+  "periods": [
+    "expansion_b5"
+  ],
+  "themes": [
+    "ethics",
+    "knowledge",
+    "religion"
+  ],
+  "keywordsZh": [
+    "探究",
+    "社会伦理",
+    "教育",
+    "理性宗教",
+    "实践智慧"
+  ],
+  "oneLineZh": "承接泽拉·雅各布的理性探究，把自然理性推进到教育、家庭、劳动和社会责任问题。",
+  "influenceWeight": 1,
+  "reviewStatus": "draft",
+  "summaryZh": "瓦尔达·黑沃特把埃塞俄比亚《探究》传统从个人理性辩护推进到社会伦理和教育秩序，使哲学更贴近日常实践。",
+  "works": [
+    "walda-heywat-hatata",
+    "walda-heywat-social-ethics",
+    "walda-heywat-education-reason",
+    "walda-heywat-religious-practice",
+    "walda-heywat-wise-philosophers"
+  ],
+  "sourceNotes": [
+    {
+      "label": "Primary and reception note",
+      "url": "https://plato.stanford.edu/entries/ethiopian-philosophy/",
+      "noteZh": "以瓦尔达·黑沃特《探究》及其与泽拉·雅各布的师承关系为核心，保持归属谨慎。"
+    }
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "walda-heywat:problem:001",
+        "titleZh": "继承《探究》传统",
+        "questionZh": "瓦尔达·黑沃特如何继承并改写泽拉·雅各布的理性探究？",
+        "summaryZh": "瓦尔达·黑沃特继承自然理性和敬神主题，但把论证重点从个人真理寻找转向日常社会生活中的德性实践。",
+        "themeIds": [
+          "knowledge",
+          "ethics"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "walda-heywat:claim:001",
+            "titleZh": "师承关系转化为实践伦理",
+            "claimZh": "瓦尔达·黑沃特把泽拉·雅各布的理性宗教转化为面向家庭、教育和社会行为的实践伦理。",
+            "explanationZh": "这说明他不是简单重复老师文本，而是在同一传统中重新安排哲学关注点。",
+            "themeIds": [
+              "ethics",
+              "knowledge"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "walda-heywat:evidence:001",
+                "titleZh": "《瓦尔达·黑沃特的探究》延续理性问答",
+                "summaryZh": "文本继承《探究》传统的提问方式，但更多讨论普通人如何在行为、教化和社会角色中遵循理性。",
+                "source": {
+                  "workId": "walda-heywat-hatata",
+                  "locator": "Hatata of Walda Heywat, opening sections on inquiry and instruction",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "walda-heywat:evidence:002",
+                "titleZh": "《社会伦理论》展开共同生活问题",
+                "summaryZh": "相关段落把理性判断放入邻人、家庭和劳动关系中，显示哲学任务包括塑造可持续的共同生活秩序。",
+                "source": {
+                  "workId": "walda-heywat-social-ethics",
+                  "locator": "Sections on family, neighbor, work, and mutual duties",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "walda-heywat:claim:002",
+            "titleZh": "理性需要教育成习惯",
+            "claimZh": "瓦尔达·黑沃特强调理性不只是个人领悟，还要通过教育和劝诫成为稳定习惯。",
+            "explanationZh": "这使他的哲学具有教化论方向，连接知识、德性和社会传承。",
+            "themeIds": [
+              "knowledge",
+              "ethics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "walda-heywat:evidence:003",
+                "titleZh": "《教育与理性》讨论学习和判断",
+                "summaryZh": "文本把教育理解为训练判断和行为的过程，反对让人只凭习俗或恐惧行动，强调理解之后的自觉遵行。",
+                "source": {
+                  "workId": "walda-heywat-education-reason",
+                  "locator": "Sections on education, instruction, and disciplined judgment",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "walda-heywat:evidence:004",
+                "titleZh": "《哲人与实践智慧》说明劝诫功能",
+                "summaryZh": "相关段落把哲学家和智者理解为引导实践生活的人，其任务不是炫耀知识，而是帮助共同体形成良好判断。",
+                "source": {
+                  "workId": "walda-heywat-wise-philosophers",
+                  "locator": "Passages on wise persons, counsel, and public instruction",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "walda-heywat:problem:002",
+        "titleZh": "宗教生活与道德秩序",
+        "questionZh": "瓦尔达·黑沃特如何把敬神和社会伦理连接起来？",
+        "summaryZh": "瓦尔达·黑沃特把宗教实践理解为道德生活的支撑，而不是脱离世界的仪式服从，强调敬神必须体现在行为中。",
+        "themeIds": [
+          "religion",
+          "ethics"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "walda-heywat:claim:003",
+            "titleZh": "敬神应表现为正当行为",
+            "claimZh": "瓦尔达·黑沃特认为真正的宗教生活必须通过公正、节制和对他人的责任表现出来。",
+            "explanationZh": "这条主张把宗教从仪式中心转向伦理实践，延续《探究》传统对空洞习俗的警惕。",
+            "themeIds": [
+              "religion",
+              "ethics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "walda-heywat:evidence:005",
+                "titleZh": "《宗教实践与道德生活》连接敬神和德性",
+                "summaryZh": "文本讨论敬神时不断回到行为的正当性，说明祈祷和礼仪若不导向德性，就不能构成完整宗教生活。",
+                "source": {
+                  "workId": "walda-heywat-religious-practice",
+                  "locator": "Sections on worship, conduct, and moral practice",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "walda-heywat:evidence:006",
+                "titleZh": "《社会伦理论》把义务放在共同体中",
+                "summaryZh": "相关论述把人的责任安排在家庭、邻里和社会交往之内，说明善并非独处沉思，而需要在关系中实现。",
+                "source": {
+                  "workId": "walda-heywat-social-ethics",
+                  "locator": "Social duties, neighborly obligation, and communal life",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "walda-heywat:claim:004",
+            "titleZh": "哲学应纠正迷信和懒惰",
+            "claimZh": "瓦尔达·黑沃特把理性教导用于纠正迷信、放纵和逃避责任等日常道德失序。",
+            "explanationZh": "这种主张使其思想具有社会规训面向，但基础不是权威命令，而是可说明的实践理由。",
+            "themeIds": [
+              "ethics",
+              "knowledge"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "walda-heywat:evidence:007",
+                "titleZh": "《教育与理性》反对无理解的服从",
+                "summaryZh": "文本强调人需要理解为何行动，而不是被恐惧或盲信牵引；教育的目的在于让理性支配日常选择。",
+                "source": {
+                  "workId": "walda-heywat-education-reason",
+                  "locator": "Education as correction of fear, habit, and unexamined obedience",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "walda-heywat:evidence:008",
+                "titleZh": "《哲人与实践智慧》强调生活指导",
+                "summaryZh": "相关段落把智慧描述为能够指导饮食、劳动、交友和敬神等事务的能力，显示哲学深入普通生活。",
+                "source": {
+                  "workId": "walda-heywat-wise-philosophers",
+                  "locator": "Practical guidance across ordinary conduct",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "walda-heywat:problem:003",
+        "titleZh": "非洲文本哲学的延展",
+        "questionZh": "瓦尔达·黑沃特为什么应作为独立节点进入非洲哲学关系网？",
+        "summaryZh": "瓦尔达·黑沃特证明《探究》不是孤立奇文本，而是形成了可继承、可教学、可转向社会伦理的论辩传统。",
+        "themeIds": [
+          "knowledge",
+          "language"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "walda-heywat:claim:005",
+            "titleZh": "继承文本显示传统连续性",
+            "claimZh": "瓦尔达·黑沃特的存在使埃塞俄比亚理性主义呈现师承和文本延续，而非单一作者现象。",
+            "explanationZh": "这条主张为关系网提供理由：他既连接泽拉·雅各布，也连接后续非洲哲学对文本和传统的争论。",
+            "themeIds": [
+              "knowledge",
+              "language"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "walda-heywat:evidence:009",
+                "titleZh": "研究资料将其列为学生和继承者",
+                "summaryZh": "现代研究通常把瓦尔达·黑沃特置于泽拉·雅各布之后，说明《探究》传统包含传播、学习和再阐释过程。",
+                "source": {
+                  "workId": "walda-heywat-hatata",
+                  "locator": "Scholarly framing of Walda Heywat as student and continuer",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "walda-heywat:evidence:010",
+                "titleZh": "《瓦尔达·黑沃特的探究》改变主题重心",
+                "summaryZh": "文本保留理性和敬神问题，却把大量篇幅用于社会生活和教育，使传统在继承中出现新的实践方向。",
+                "source": {
+                  "workId": "walda-heywat-hatata",
+                  "locator": "Later thematic development toward social and educational ethics",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "walda-heywat:claim:006",
+            "titleZh": "实践伦理补足署名理性传统",
+            "claimZh": "瓦尔达·黑沃特让非洲署名哲学文本不只讨论知识根据，也讨论如何组织共同生活。",
+            "explanationZh": "这使他能与维雷杜等现代非洲哲学家形成共享问题，而不是只作为历史附录出现。",
+            "themeIds": [
+              "ethics",
+              "knowledge"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "walda-heywat:evidence:011",
+                "titleZh": "《社会伦理论》使理性面向制度习惯",
+                "summaryZh": "相关段落处理家庭、工作和互助，表明理性不仅审查信条，也要指导一个社会如何培养可靠行为。",
+                "source": {
+                  "workId": "walda-heywat-social-ethics",
+                  "locator": "Practical social order, work, and mutual assistance",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "walda-heywat:evidence:012",
+                "titleZh": "《教育与理性》把传统变成可传递能力",
+                "summaryZh": "文本把学习和训练置于哲学核心，说明理性传统若要延续，必须成为共同体成员能够获得的判断能力。",
+                "source": {
+                  "workId": "walda-heywat-education-reason",
+                  "locator": "Reason as cultivated and transmissible judgment",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

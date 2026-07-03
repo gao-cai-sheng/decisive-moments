@@ -2383,7 +2383,10 @@
     "type": "reception",
     "strength": 3,
     "confidence": "high",
-    "themeIds": ["justice", "politics"],
+    "themeIds": [
+      "justice",
+      "politics"
+    ],
     "noteZh": "霍克海默把马克思的资本主义批判转化为跨学科社会研究和现代性支配分析。",
     "reviewStatus": "draft"
   },
@@ -2394,7 +2397,10 @@
     "type": "shared_problem",
     "strength": 3,
     "confidence": "high",
-    "themeIds": ["knowledge", "politics"],
+    "themeIds": [
+      "knowledge",
+      "politics"
+    ],
     "noteZh": "两人合写《启蒙辩证法》，共同分析启蒙理性、神话、文化工业和现代支配。",
     "reviewStatus": "draft"
   },
@@ -2405,7 +2411,10 @@
     "type": "influence",
     "strength": 3,
     "confidence": "high",
-    "themeIds": ["knowledge", "politics"],
+    "themeIds": [
+      "knowledge",
+      "politics"
+    ],
     "noteZh": "哈贝马斯继承法兰克福批判理论的问题意识，同时把工具理性批判改造为交往理性理论。",
     "reviewStatus": "draft"
   },
@@ -2416,7 +2425,10 @@
     "type": "critique",
     "strength": 2,
     "confidence": "high",
-    "themeIds": ["knowledge", "politics"],
+    "themeIds": [
+      "knowledge",
+      "politics"
+    ],
     "noteZh": "哈贝马斯从阿多诺的否定批判出发，又批评其理性观缺少可重建的规范基础。",
     "reviewStatus": "draft"
   },
@@ -2427,7 +2439,10 @@
     "type": "critique",
     "strength": 3,
     "confidence": "high",
-    "themeIds": ["metaphysics", "aesthetics"],
+    "themeIds": [
+      "metaphysics",
+      "aesthetics"
+    ],
     "noteZh": "阿多诺以否定辩证法继承并反转黑格尔，反对把非同一物纳入和解总体。",
     "reviewStatus": "draft"
   },
@@ -2438,7 +2453,10 @@
     "type": "reception",
     "strength": 2,
     "confidence": "high",
-    "themeIds": ["politics", "aesthetics"],
+    "themeIds": [
+      "politics",
+      "aesthetics"
+    ],
     "noteZh": "本雅明吸收马克思关于商品、技术和资本主义现代性的批判，并转入媒介与感知结构分析。",
     "reviewStatus": "draft"
   },
@@ -2449,7 +2467,10 @@
     "type": "reception",
     "strength": 2,
     "confidence": "high",
-    "themeIds": ["politics", "life_death"],
+    "themeIds": [
+      "politics",
+      "life_death"
+    ],
     "noteZh": "阿伦特保存、编辑和阐释本雅明文本，使其历史哲学和政治判断进入英语世界接受史。",
     "reviewStatus": "draft"
   },
@@ -2460,7 +2481,10 @@
     "type": "shared_problem",
     "strength": 2,
     "confidence": "high",
-    "themeIds": ["aesthetics", "politics"],
+    "themeIds": [
+      "aesthetics",
+      "politics"
+    ],
     "noteZh": "本雅明与阿多诺围绕艺术技术、现代主义和大众文化持续通信争论，共同构成批判美学核心线索。",
     "reviewStatus": "draft"
   },
@@ -2471,7 +2495,10 @@
     "type": "reception",
     "strength": 3,
     "confidence": "high",
-    "themeIds": ["knowledge", "ethics"],
+    "themeIds": [
+      "knowledge",
+      "ethics"
+    ],
     "noteZh": "科恩以康德经验理论和先验方法为起点，建立马堡新康德主义的科学认识与伦理体系。",
     "reviewStatus": "draft"
   },
@@ -2482,7 +2509,10 @@
     "type": "influence",
     "strength": 3,
     "confidence": "high",
-    "themeIds": ["religion", "ethics"],
+    "themeIds": [
+      "religion",
+      "ethics"
+    ],
     "noteZh": "罗森茨维格在犹太思想和德国观念论问题上回应科恩，既继承理性宗教问题又转向启示和对话。",
     "reviewStatus": "draft"
   },
@@ -2493,7 +2523,10 @@
     "type": "reception",
     "strength": 2,
     "confidence": "medium",
-    "themeIds": ["ethics", "religion"],
+    "themeIds": [
+      "ethics",
+      "religion"
+    ],
     "noteZh": "列维纳斯在犹太伦理和理性宗教问题上处在科恩开启的现代犹太哲学问题谱系中。",
     "reviewStatus": "draft"
   },
@@ -2654,18 +2687,592 @@
     "noteZh": "赫尔德关于历史个体性、语言和文化理解的思想，为后来德国历史主义与解释学问题提供重要前史。",
     "reviewStatus": "draft"
   },
-{"id":"bergson-iqbal-reception","from":"bergson","to":"iqbal","type":"reception","strength":2,"confidence":"medium","themeIds":["metaphysics","freedom"],"noteZh":"伊克巴尔在创造、时间和生命动力问题上吸收并改写柏格森资源，但将其置入伊斯兰人格神和自我论框架。","reviewStatus":"draft"},
-{"id":"nietzsche-iqbal-reception","from":"nietzsche","to":"iqbal","type":"reception","strength":2,"confidence":"medium","themeIds":["freedom","religion"],"noteZh":"伊克巴尔借用强力人格和价值创造问题回应尼采，同时拒绝无神论和自我封闭的超人方向。","reviewStatus":"draft"},
-{"id":"iqbal-al-ghazali-shared_problem","from":"iqbal","to":"al-ghazali","type":"shared_problem","strength":2,"confidence":"medium","themeIds":["religion","knowledge"],"noteZh":"二者都处理宗教经验、理性论证和信仰生命之间的张力；伊克巴尔把该问题移入现代科学与伊斯兰重构语境。","reviewStatus":"draft"},
-{"id":"dignaga-dharmakirti-influence","from":"dignaga","to":"dharmakirti","type":"influence","strength":3,"confidence":"high","themeIds":["knowledge","language"],"noteZh":"法称以陈那《集量论》为出发点，扩展现量、比量、排除论和有效理由理论。","reviewStatus":"draft"},
-{"id":"vasubandhu-dharmakirti-reception","from":"vasubandhu","to":"dharmakirti","type":"reception","strength":2,"confidence":"medium","themeIds":["knowledge","metaphysics"],"noteZh":"法称在唯识与认知内部性问题上继承世亲之后的论题，同时以量论方式重构外境和心识关系。","reviewStatus":"draft"},
-{"id":"dharmakirti-nagarjuna-shared_problem","from":"dharmakirti","to":"nagarjuna","type":"shared_problem","strength":1,"confidence":"medium","themeIds":["knowledge","metaphysics"],"noteZh":"法称与龙树传统都处理概念、真实性和解脱认识的边界，但法称采取量论和因果效用的论证路线。","reviewStatus":"draft"},
-{"id":"buddha-shinran-reception","from":"buddha","to":"shinran","type":"reception","strength":2,"confidence":"medium","themeIds":["religion","life_death"],"noteZh":"亲鸾把净土教理解为释迦出世本怀之一，并通过《无量寿经》传统解释末法凡夫的救度可能。","reviewStatus":"draft"},
-{"id":"vasubandhu-shinran-reception","from":"vasubandhu","to":"shinran","type":"reception","strength":2,"confidence":"high","themeIds":["religion","knowledge"],"noteZh":"亲鸾在净土七高僧谱系中接受世亲《净土论》传统，并把愿生、信心和他力纳入自身体系。","reviewStatus":"draft"},
-{"id":"shinran-dogen-shared_problem","from":"shinran","to":"dogen","type":"shared_problem","strength":2,"confidence":"medium","themeIds":["religion","freedom"],"noteZh":"亲鸾与道元同处镰仓佛教转型，分别以他力信心和只管打坐回应修行主体与成佛道路问题。","reviewStatus":"draft"},
-{"id":"huineng-shinran-shared_problem","from":"huineng","to":"shinran","type":"shared_problem","strength":1,"confidence":"medium","themeIds":["religion","knowledge"],"noteZh":"慧能和亲鸾都弱化纯外在阶梯式修行，但前者强调顿悟心性，后者强调阿弥陀本愿所成就的信心。","reviewStatus":"draft"},
-{"id":"zhang-zai-cheng-yi-shared_problem","from":"zhang-zai","to":"cheng-yi","type":"shared_problem","strength":2,"confidence":"high","themeIds":["metaphysics","ethics"],"noteZh":"张载与程颐同处北宋道学形成期，共同处理气、理、天道和道德修养如何统一的问题。","reviewStatus":"draft"},
-{"id":"cheng-yi-zhu-xi-influence","from":"cheng-yi","to":"zhu-xi","type":"influence","strength":3,"confidence":"high","themeIds":["metaphysics","knowledge","ethics"],"noteZh":"朱熹把程颐的理、格物和敬的工夫整理为程朱理学核心框架，使程颐成为后世正统理学关键源头。","reviewStatus":"draft"},
-{"id":"cheng-yi-wang-yangming-critique","from":"wang-yangming","to":"cheng-yi","type":"critique","strength":2,"confidence":"high","themeIds":["knowledge","ethics"],"noteZh":"王阳明的心学批判以程朱格物穷理传统为主要对手之一，转而强调良知与心即理。","reviewStatus":"draft"},
-{"id":"cheng-yi-toegye-reception","from":"cheng-yi","to":"toegye","type":"reception","strength":2,"confidence":"medium","themeIds":["metaphysics","ethics"],"noteZh":"退溪所继承的朝鲜朱子学以程朱理学为正统资源，程颐的理与敬构成其性理讨论的远源。","reviewStatus":"draft"}
+  {
+    "id": "bergson-iqbal-reception",
+    "from": "bergson",
+    "to": "iqbal",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "metaphysics",
+      "freedom"
+    ],
+    "noteZh": "伊克巴尔在创造、时间和生命动力问题上吸收并改写柏格森资源，但将其置入伊斯兰人格神和自我论框架。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "nietzsche-iqbal-reception",
+    "from": "nietzsche",
+    "to": "iqbal",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "freedom",
+      "religion"
+    ],
+    "noteZh": "伊克巴尔借用强力人格和价值创造问题回应尼采，同时拒绝无神论和自我封闭的超人方向。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "iqbal-al-ghazali-shared_problem",
+    "from": "iqbal",
+    "to": "al-ghazali",
+    "type": "shared_problem",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "religion",
+      "knowledge"
+    ],
+    "noteZh": "二者都处理宗教经验、理性论证和信仰生命之间的张力；伊克巴尔把该问题移入现代科学与伊斯兰重构语境。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "dignaga-dharmakirti-influence",
+    "from": "dignaga",
+    "to": "dharmakirti",
+    "type": "influence",
+    "strength": 3,
+    "confidence": "high",
+    "themeIds": [
+      "knowledge",
+      "language"
+    ],
+    "noteZh": "法称以陈那《集量论》为出发点，扩展现量、比量、排除论和有效理由理论。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "vasubandhu-dharmakirti-reception",
+    "from": "vasubandhu",
+    "to": "dharmakirti",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "knowledge",
+      "metaphysics"
+    ],
+    "noteZh": "法称在唯识与认知内部性问题上继承世亲之后的论题，同时以量论方式重构外境和心识关系。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "dharmakirti-nagarjuna-shared_problem",
+    "from": "dharmakirti",
+    "to": "nagarjuna",
+    "type": "shared_problem",
+    "strength": 1,
+    "confidence": "medium",
+    "themeIds": [
+      "knowledge",
+      "metaphysics"
+    ],
+    "noteZh": "法称与龙树传统都处理概念、真实性和解脱认识的边界，但法称采取量论和因果效用的论证路线。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "buddha-shinran-reception",
+    "from": "buddha",
+    "to": "shinran",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "religion",
+      "life_death"
+    ],
+    "noteZh": "亲鸾把净土教理解为释迦出世本怀之一，并通过《无量寿经》传统解释末法凡夫的救度可能。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "vasubandhu-shinran-reception",
+    "from": "vasubandhu",
+    "to": "shinran",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "high",
+    "themeIds": [
+      "religion",
+      "knowledge"
+    ],
+    "noteZh": "亲鸾在净土七高僧谱系中接受世亲《净土论》传统，并把愿生、信心和他力纳入自身体系。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "shinran-dogen-shared_problem",
+    "from": "shinran",
+    "to": "dogen",
+    "type": "shared_problem",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "religion",
+      "freedom"
+    ],
+    "noteZh": "亲鸾与道元同处镰仓佛教转型，分别以他力信心和只管打坐回应修行主体与成佛道路问题。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "huineng-shinran-shared_problem",
+    "from": "huineng",
+    "to": "shinran",
+    "type": "shared_problem",
+    "strength": 1,
+    "confidence": "medium",
+    "themeIds": [
+      "religion",
+      "knowledge"
+    ],
+    "noteZh": "慧能和亲鸾都弱化纯外在阶梯式修行，但前者强调顿悟心性，后者强调阿弥陀本愿所成就的信心。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "zhang-zai-cheng-yi-shared_problem",
+    "from": "zhang-zai",
+    "to": "cheng-yi",
+    "type": "shared_problem",
+    "strength": 2,
+    "confidence": "high",
+    "themeIds": [
+      "metaphysics",
+      "ethics"
+    ],
+    "noteZh": "张载与程颐同处北宋道学形成期，共同处理气、理、天道和道德修养如何统一的问题。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "cheng-yi-zhu-xi-influence",
+    "from": "cheng-yi",
+    "to": "zhu-xi",
+    "type": "influence",
+    "strength": 3,
+    "confidence": "high",
+    "themeIds": [
+      "metaphysics",
+      "knowledge",
+      "ethics"
+    ],
+    "noteZh": "朱熹把程颐的理、格物和敬的工夫整理为程朱理学核心框架，使程颐成为后世正统理学关键源头。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "cheng-yi-wang-yangming-critique",
+    "from": "wang-yangming",
+    "to": "cheng-yi",
+    "type": "critique",
+    "strength": 2,
+    "confidence": "high",
+    "themeIds": [
+      "knowledge",
+      "ethics"
+    ],
+    "noteZh": "王阳明的心学批判以程朱格物穷理传统为主要对手之一，转而强调良知与心即理。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "cheng-yi-toegye-reception",
+    "from": "cheng-yi",
+    "to": "toegye",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "metaphysics",
+      "ethics"
+    ],
+    "noteZh": "退溪所继承的朝鲜朱子学以程朱理学为正统资源，程颐的理与敬构成其性理讨论的远源。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "zhu-xi-feng-youlan-reception",
+    "from": "zhu-xi",
+    "to": "feng-youlan",
+    "type": "reception",
+    "strength": 3,
+    "confidence": "high",
+    "themeIds": [
+      "metaphysics",
+      "ethics"
+    ],
+    "noteZh": "冯友兰的新理学直接重释程朱理学的理、气和境界问题，但以现代形上学语言重新组织。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "feng-youlan-mou-zongsan-shared_problem",
+    "from": "feng-youlan",
+    "to": "mou-zongsan",
+    "type": "shared_problem",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "metaphysics",
+      "ethics"
+    ],
+    "noteZh": "二者都把宋明儒学转化为现代哲学体系；冯友兰偏向新理学本体论，牟宗三偏向道德形上学。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "feng-youlan-hu-shi-critique",
+    "from": "feng-youlan",
+    "to": "hu-shi",
+    "type": "critique",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "knowledge",
+      "language"
+    ],
+    "noteZh": "冯友兰哲学史写法与胡适实验主义、考据式整理形成张力，二者代表中国哲学现代化的不同路径。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "wang-yangming-mou-zongsan-reception",
+    "from": "wang-yangming",
+    "to": "mou-zongsan",
+    "type": "reception",
+    "strength": 3,
+    "confidence": "high",
+    "themeIds": [
+      "ethics",
+      "metaphysics"
+    ],
+    "noteZh": "牟宗三将阳明良知传统解释为道德主体和智的直觉的核心资源。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "kant-mou-zongsan-critique",
+    "from": "mou-zongsan",
+    "to": "kant",
+    "type": "critique",
+    "strength": 3,
+    "confidence": "high",
+    "themeIds": [
+      "metaphysics",
+      "freedom"
+    ],
+    "noteZh": "牟宗三围绕智的直觉、物自身和最高善批判康德对人类理性有限性的设定。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "liang-shuming-mou-zongsan-shared_problem",
+    "from": "liang-shuming",
+    "to": "mou-zongsan",
+    "type": "shared_problem",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "ethics",
+      "politics"
+    ],
+    "noteZh": "梁漱溟与牟宗三都从现代危机中重申儒家生命方向，但牟宗三更系统地走向康德式道德形上学。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "plato-simone-weil-reception",
+    "from": "plato",
+    "to": "simone-weil",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "religion",
+      "metaphysics"
+    ],
+    "noteZh": "薇依长期借柏拉图式善、真理和灵魂转向语言表达注意力与超越问题。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "simone-weil-arendt-shared_problem",
+    "from": "simone-weil",
+    "to": "arendt",
+    "type": "shared_problem",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "politics",
+      "justice"
+    ],
+    "noteZh": "薇依和阿伦特都从战争、极权和现代失根经验出发思考公共世界与人的尊严。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "simone-weil-levinas-shared_problem",
+    "from": "simone-weil",
+    "to": "levinas",
+    "type": "shared_problem",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "ethics",
+      "religion"
+    ],
+    "noteZh": "二者都把伦理要求置于主体自足性之前；薇依以义务和苦难表达，列维纳斯以他者面容表达。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "marx-mariategui-reception",
+    "from": "marx",
+    "to": "mariategui",
+    "type": "reception",
+    "strength": 3,
+    "confidence": "high",
+    "themeIds": [
+      "politics",
+      "justice"
+    ],
+    "noteZh": "马里亚特吉明确在马克思主义框架内解释秘鲁现实，但反对把马克思主义变成机械公式。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "mariategui-du-bois-shared_problem",
+    "from": "mariategui",
+    "to": "du-bois",
+    "type": "shared_problem",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "justice",
+      "politics"
+    ],
+    "noteZh": "二者都把种族化或殖民化群体的历史经验置于现代资本主义和民主问题中心。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "mariategui-zelea-shared_problem",
+    "from": "mariategui",
+    "to": "zelea",
+    "type": "shared_problem",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "politics",
+      "knowledge"
+    ],
+    "noteZh": "马里亚特吉和塞亚都反对照搬欧洲范式，强调拉丁美洲思想必须从自身历史处境中形成。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "simone-weil-mariategui-shared_problem",
+    "from": "simone-weil",
+    "to": "mariategui",
+    "type": "shared_problem",
+    "strength": 1,
+    "confidence": "medium",
+    "themeIds": [
+      "justice",
+      "politics"
+    ],
+    "noteZh": "二者都关注劳动、压迫和现代社会结构，但薇依以灵性伦理切入，马里亚特吉以历史唯物主义和殖民结构切入。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "feng-youlan-mou-zongsan-modern_confucianism",
+    "from": "feng-youlan",
+    "to": "mou-zongsan",
+    "type": "school",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "ethics",
+      "metaphysics"
+    ],
+    "noteZh": "二者同属现代儒学重建谱系，但一个偏重理学形上学系统，一个偏重良知道德主体和康德对话。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "zera-yacob-walda-heywat-direct_student",
+    "from": "zera-yacob",
+    "to": "walda-heywat",
+    "type": "direct_student",
+    "strength": 3,
+    "confidence": "high",
+    "themeIds": [
+      "knowledge",
+      "ethics"
+    ],
+    "noteZh": "瓦尔达·黑沃特通常被置于泽拉·雅各布《探究》传统的学生和继承者位置，把理性探究推进到社会伦理。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "zera-yacob-descartes-shared_problem",
+    "from": "zera-yacob",
+    "to": "descartes",
+    "type": "shared_problem",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "knowledge",
+      "religion"
+    ],
+    "noteZh": "二者同处十七世纪理性主义语境，都从怀疑、上帝和理性确定性切入，但泽拉·雅各布更强调自然光检验宗教习俗。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "zera-yacob-amo-shared_problem",
+    "from": "zera-yacob",
+    "to": "amo",
+    "type": "shared_problem",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "knowledge",
+      "ethics"
+    ],
+    "noteZh": "泽拉·雅各布与阿莫都为非洲哲学史提供早期理性论节点，一个从埃塞俄比亚神学伦理出发，一个进入欧洲大学哲学语境。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "zera-yacob-hountondji-reception",
+    "from": "zera-yacob",
+    "to": "hountondji",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "knowledge"
+    ],
+    "noteZh": "洪通吉关于非洲哲学文本性和论辩性的要求，可把《探究》传统作为非民俗化非洲哲学的早期案例。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "walda-heywat-wiredu-shared_problem",
+    "from": "walda-heywat",
+    "to": "wiredu",
+    "type": "shared_problem",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "ethics",
+      "knowledge"
+    ],
+    "noteZh": "瓦尔达·黑沃特的实践理性伦理与维雷杜的概念去殖民都强调非洲思想可以在清晰论证中处理公共生活问题。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "walda-heywat-amo-shared_problem",
+    "from": "walda-heywat",
+    "to": "amo",
+    "type": "shared_problem",
+    "strength": 1,
+    "confidence": "medium",
+    "themeIds": [
+      "knowledge",
+      "ethics"
+    ],
+    "noteZh": "二者都显示非洲思想不只是集体习俗材料，也包含以个人署名文本展开的理性论证。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "edward-blyden-du-bois-influence",
+    "from": "edward-blyden",
+    "to": "du-bois",
+    "type": "influence",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "politics",
+      "knowledge"
+    ],
+    "noteZh": "布莱登的非洲人格和黑人民族使命语言为杜波依斯的泛非主义和黑人现代性问题提供前史背景。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "edward-blyden-senghor-reception",
+    "from": "edward-blyden",
+    "to": "senghor",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "aesthetics",
+      "politics"
+    ],
+    "noteZh": "布莱登关于非洲文化人格的早期论述与桑戈尔黑人性思想共享文化自我肯定和欧洲中心批判问题。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "edward-blyden-nkrumah-influence",
+    "from": "edward-blyden",
+    "to": "nkrumah",
+    "type": "influence",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "politics",
+      "freedom"
+    ],
+    "noteZh": "布莱登的泛非和非洲自主思想为恩克鲁玛的大陆统一和反帝国主义政治哲学提供历史前奏。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "edward-blyden-amo-shared_problem",
+    "from": "edward-blyden",
+    "to": "amo",
+    "type": "shared_problem",
+    "strength": 1,
+    "confidence": "medium",
+    "themeIds": [
+      "knowledge",
+      "politics"
+    ],
+    "noteZh": "二者都反驳把非洲人排除在理性和文明主体之外的殖民知识结构，但所处制度场景不同。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "du-bois-nkrumah-influence",
+    "from": "du-bois",
+    "to": "nkrumah",
+    "type": "influence",
+    "strength": 3,
+    "confidence": "high",
+    "themeIds": [
+      "politics",
+      "justice"
+    ],
+    "noteZh": "杜波依斯晚年移居加纳并参与泛非事业，恩克鲁玛将其泛非主义传统转化为国家和大陆统一计划。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "nkrumah-fanon-shared_problem",
+    "from": "nkrumah",
+    "to": "fanon",
+    "type": "shared_problem",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "politics",
+      "freedom"
+    ],
+    "noteZh": "恩克鲁玛和法农都把形式独立之后的殖民结构、民族解放和暴力/制度问题置于非洲政治哲学中心。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "nkrumah-freire-shared_problem",
+    "from": "nkrumah",
+    "to": "freire",
+    "type": "shared_problem",
+    "strength": 1,
+    "confidence": "medium",
+    "themeIds": [
+      "freedom",
+      "justice"
+    ],
+    "noteZh": "二者都把解放理解为意识转化与制度变革的结合；恩克鲁玛偏政治经济结构，弗莱雷偏教育实践。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "nkrumah-wiredu-shared_problem",
+    "from": "nkrumah",
+    "to": "wiredu",
+    "type": "shared_problem",
+    "strength": 1,
+    "confidence": "medium",
+    "themeIds": [
+      "politics",
+      "knowledge"
+    ],
+    "noteZh": "恩克鲁玛的非洲社会主义和维雷杜的概念去殖民都面对独立后非洲如何以本土资源重构现代制度的问题。",
+    "reviewStatus": "draft"
+  }
 ]

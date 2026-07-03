@@ -125,6 +125,15 @@ excerptStatus 与实际一致：有逐字原文=public_domain；仅概括=summar
 
 **铁律：内容正确性 > 通过校验。** 宁可留空 excerpt、宁可 problem 少而扎实，也不许为过门槛填假引文。
 
+新增 B4 起生效的 evidence 摘要纪律：
+
+```text
+summaryZh 必须概括所引文本自身的论证或叙述内容。
+禁止以“SEP 概述指出”“IEP 条目认为”“学界一般认为”等二手转述充当一手 evidence 摘要。
+确需二手来源支撑作品、术语、日期或研究背景时，只能在 notes.md 记录来源与用途，不进入 evidence.summaryZh。
+二手来源可用于校对，不可替代对被引 workId/locator 所指文本的实质概括。
+```
+
 ---
 
 ## 5. 写前门（一次调用，只读，全绿才允许写）

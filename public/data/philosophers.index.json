@@ -4901,52 +4901,142 @@
   },
   {
     "id": "horkheimer",
-    "names": { "zh": "霍克海默", "en": "Max Horkheimer" },
-    "life": { "birth": 1895, "death": 1973, "display": "1895—1973" },
+    "names": {
+      "zh": "霍克海默",
+      "en": "Max Horkheimer"
+    },
+    "life": {
+      "birth": 1895,
+      "death": 1973,
+      "display": "1895—1973"
+    },
     "civilization": "european_modern",
-    "traditions": ["critical_theory", "frankfurt_school", "social_philosophy"],
-    "periods": ["expansion_b1"],
-    "themes": ["justice", "knowledge", "politics"],
-    "keywordsZh": ["批判理论", "工具理性", "法兰克福学派", "启蒙辩证法"],
+    "traditions": [
+      "critical_theory",
+      "frankfurt_school",
+      "social_philosophy"
+    ],
+    "periods": [
+      "expansion_b1"
+    ],
+    "themes": [
+      "justice",
+      "knowledge",
+      "politics"
+    ],
+    "keywordsZh": [
+      "批判理论",
+      "工具理性",
+      "法兰克福学派",
+      "启蒙辩证法"
+    ],
     "oneLineZh": "以批判理论和工具理性批判把马克思主义社会哲学改造为现代性诊断。",
     "influenceWeight": 3,
     "reviewStatus": "draft"
   },
   {
     "id": "adorno",
-    "names": { "zh": "阿多诺", "en": "Theodor W. Adorno" },
-    "life": { "birth": 1903, "death": 1969, "display": "1903—1969" },
+    "names": {
+      "zh": "阿多诺",
+      "en": "Theodor W. Adorno"
+    },
+    "life": {
+      "birth": 1903,
+      "death": 1969,
+      "display": "1903—1969"
+    },
     "civilization": "european_modern",
-    "traditions": ["critical_theory", "frankfurt_school", "aesthetics"],
-    "periods": ["expansion_b1"],
-    "themes": ["aesthetics", "metaphysics", "justice"],
-    "keywordsZh": ["否定辩证法", "文化工业", "现代主义艺术", "同一性批判"],
+    "traditions": [
+      "critical_theory",
+      "frankfurt_school",
+      "aesthetics"
+    ],
+    "periods": [
+      "expansion_b1"
+    ],
+    "themes": [
+      "aesthetics",
+      "metaphysics",
+      "justice"
+    ],
+    "keywordsZh": [
+      "否定辩证法",
+      "文化工业",
+      "现代主义艺术",
+      "同一性批判"
+    ],
     "oneLineZh": "以否定辩证法、文化工业批判和现代主义美学揭示同一性思维中的社会支配。",
     "influenceWeight": 3,
     "reviewStatus": "draft"
   },
   {
     "id": "benjamin",
-    "names": { "zh": "本雅明", "en": "Walter Benjamin" },
-    "life": { "birth": 1892, "death": 1940, "display": "1892—1940" },
+    "names": {
+      "zh": "本雅明",
+      "en": "Walter Benjamin"
+    },
+    "life": {
+      "birth": 1892,
+      "death": 1940,
+      "display": "1892—1940"
+    },
     "civilization": "european_modern",
-    "traditions": ["critical_theory", "media_theory", "jewish_messianism"],
-    "periods": ["expansion_b1"],
-    "themes": ["aesthetics", "life_death", "politics"],
-    "keywordsZh": ["灵韵", "机械复制", "历史天使", "拱廊计划", "弥赛亚时间"],
+    "traditions": [
+      "critical_theory",
+      "media_theory",
+      "jewish_messianism"
+    ],
+    "periods": [
+      "expansion_b1"
+    ],
+    "themes": [
+      "aesthetics",
+      "life_death",
+      "politics"
+    ],
+    "keywordsZh": [
+      "灵韵",
+      "机械复制",
+      "历史天使",
+      "拱廊计划",
+      "弥赛亚时间"
+    ],
     "oneLineZh": "以机械复制时代艺术、历史哲学和城市碎片书写重塑现代性批判的媒介维度。",
     "influenceWeight": 3,
     "reviewStatus": "draft"
   },
   {
     "id": "cohen",
-    "names": { "zh": "赫尔曼·科恩", "en": "Hermann Cohen" },
-    "life": { "birth": 1842, "death": 1918, "display": "1842—1918" },
+    "names": {
+      "zh": "赫尔曼·科恩",
+      "en": "Hermann Cohen"
+    },
+    "life": {
+      "birth": 1842,
+      "death": 1918,
+      "display": "1842—1918"
+    },
     "civilization": "european_modern",
-    "traditions": ["neo_kantianism", "marburg_school", "jewish_philosophy"],
-    "periods": ["expansion_b1"],
-    "themes": ["knowledge", "religion", "ethics"],
-    "keywordsZh": ["马堡学派", "新康德主义", "纯粹认识", "纯粹意志", "理性宗教"],
+    "traditions": [
+      "neo_kantianism",
+      "marburg_school",
+      "jewish_philosophy"
+    ],
+    "periods": [
+      "expansion_b1"
+    ],
+    "themes": [
+      "knowledge",
+      "religion",
+      "ethics"
+    ],
+    "keywordsZh": [
+      "马堡学派",
+      "新康德主义",
+      "纯粹认识",
+      "纯粹意志",
+      "理性宗教"
+    ],
     "oneLineZh": "以马堡新康德主义和犹太理性宗教哲学连接康德传统与罗森茨维格。",
     "influenceWeight": 3,
     "reviewStatus": "draft"
@@ -5096,8 +5186,440 @@
     "influenceWeight": 2,
     "reviewStatus": "draft"
   },
-{"id":"iqbal","names":{"zh":"伊克巴尔","en":"Muhammad Iqbal"},"life":{"birth":1877,"death":1938,"display":"1877—1938"},"civilization":"islamic_modern","traditions":["islamic_modernism","philosophy_of_religion","poetic_philosophy"],"periods":["expansion_b3"],"themes":["religion","freedom","politics"],"keywordsZh":["自我","胡迪","伊斯兰重构","创造性进程","精神民主"],"oneLineZh":"以自我哲学、伊斯兰思想重构和诗性政治想象回应现代性中的宗教与主体问题。","influenceWeight":2,"reviewStatus":"draft"},
-{"id":"dharmakirti","names":{"zh":"法称","en":"Dharmakīrti"},"life":{"display":"c. 6th–7th c."},"civilization":"indian","traditions":["buddhist_epistemology","yogacara","logic"],"periods":["expansion_b3"],"themes":["knowledge","language","metaphysics"],"keywordsZh":["量论","现量","比量","apoha","刹那灭"],"oneLineZh":"以量论、因明和语言排除论把陈那之后的佛教认识论推向印度与藏传传统的高峰。","influenceWeight":2,"reviewStatus":"draft"},
-{"id":"shinran","names":{"zh":"亲鸾","en":"Shinran"},"life":{"birth":1173,"death":1263,"display":"1173—1263"},"civilization":"japanese","traditions":["pure_land_buddhism","jodo_shinshu","mahayana"],"periods":["expansion_b3"],"themes":["religion","freedom","life_death"],"keywordsZh":["他力","信心","念佛","恶人正机","净土真宗"],"oneLineZh":"以他力信心、念佛感恩和凡夫自觉重塑日本净土传统，奠定净土真宗。","influenceWeight":2,"reviewStatus":"draft"},
-{"id":"cheng-yi","names":{"zh":"程颐","en":"Cheng Yi","native":"程頤"},"life":{"birth":1033,"death":1107,"display":"1033—1107"},"civilization":"chinese","traditions":["neo_confucianism","cheng_zhu_school","school_of_principle"],"periods":["expansion_b3"],"themes":["ethics","metaphysics","knowledge"],"keywordsZh":["天理","格物","敬","性即理","程朱理学"],"oneLineZh":"以天理、格物和敬的修养论奠定程朱理学的核心方向，成为朱熹思想直接源头。","influenceWeight":2,"reviewStatus":"draft"}
+  {
+    "id": "iqbal",
+    "names": {
+      "zh": "伊克巴尔",
+      "en": "Muhammad Iqbal"
+    },
+    "life": {
+      "birth": 1877,
+      "death": 1938,
+      "display": "1877—1938"
+    },
+    "civilization": "islamic_modern",
+    "traditions": [
+      "islamic_modernism",
+      "philosophy_of_religion",
+      "poetic_philosophy"
+    ],
+    "periods": [
+      "expansion_b3"
+    ],
+    "themes": [
+      "religion",
+      "freedom",
+      "politics"
+    ],
+    "keywordsZh": [
+      "自我",
+      "胡迪",
+      "伊斯兰重构",
+      "创造性进程",
+      "精神民主"
+    ],
+    "oneLineZh": "以自我哲学、伊斯兰思想重构和诗性政治想象回应现代性中的宗教与主体问题。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "dharmakirti",
+    "names": {
+      "zh": "法称",
+      "en": "Dharmakīrti"
+    },
+    "life": {
+      "display": "c. 6th–7th c."
+    },
+    "civilization": "indian",
+    "traditions": [
+      "buddhist_epistemology",
+      "yogacara",
+      "logic"
+    ],
+    "periods": [
+      "expansion_b3"
+    ],
+    "themes": [
+      "knowledge",
+      "language",
+      "metaphysics"
+    ],
+    "keywordsZh": [
+      "量论",
+      "现量",
+      "比量",
+      "apoha",
+      "刹那灭"
+    ],
+    "oneLineZh": "以量论、因明和语言排除论把陈那之后的佛教认识论推向印度与藏传传统的高峰。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "shinran",
+    "names": {
+      "zh": "亲鸾",
+      "en": "Shinran"
+    },
+    "life": {
+      "birth": 1173,
+      "death": 1263,
+      "display": "1173—1263"
+    },
+    "civilization": "japanese",
+    "traditions": [
+      "pure_land_buddhism",
+      "jodo_shinshu",
+      "mahayana"
+    ],
+    "periods": [
+      "expansion_b3"
+    ],
+    "themes": [
+      "religion",
+      "freedom",
+      "life_death"
+    ],
+    "keywordsZh": [
+      "他力",
+      "信心",
+      "念佛",
+      "恶人正机",
+      "净土真宗"
+    ],
+    "oneLineZh": "以他力信心、念佛感恩和凡夫自觉重塑日本净土传统，奠定净土真宗。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "cheng-yi",
+    "names": {
+      "zh": "程颐",
+      "en": "Cheng Yi",
+      "native": "程頤"
+    },
+    "life": {
+      "birth": 1033,
+      "death": 1107,
+      "display": "1033—1107"
+    },
+    "civilization": "chinese",
+    "traditions": [
+      "neo_confucianism",
+      "cheng_zhu_school",
+      "school_of_principle"
+    ],
+    "periods": [
+      "expansion_b3"
+    ],
+    "themes": [
+      "ethics",
+      "metaphysics",
+      "knowledge"
+    ],
+    "keywordsZh": [
+      "天理",
+      "格物",
+      "敬",
+      "性即理",
+      "程朱理学"
+    ],
+    "oneLineZh": "以天理、格物和敬的修养论奠定程朱理学的核心方向，成为朱熹思想直接源头。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "feng-youlan",
+    "names": {
+      "zh": "冯友兰",
+      "en": "Feng Youlan",
+      "native": "馮友蘭"
+    },
+    "life": {
+      "birth": 1895,
+      "death": 1990,
+      "display": "1895—1990"
+    },
+    "civilization": "chinese_modern",
+    "traditions": [
+      "modern_confucianism",
+      "neo_confucianism",
+      "history_of_chinese_philosophy"
+    ],
+    "periods": [
+      "expansion_b4"
+    ],
+    "themes": [
+      "metaphysics",
+      "ethics",
+      "knowledge"
+    ],
+    "keywordsZh": [
+      "新理学",
+      "中国哲学史",
+      "人生境界",
+      "理",
+      "现代儒学"
+    ],
+    "oneLineZh": "以现代哲学史写作和新理学体系把中国传统义理转译为二十世纪哲学问题。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "mou-zongsan",
+    "names": {
+      "zh": "牟宗三",
+      "en": "Mou Zongsan",
+      "native": "牟宗三"
+    },
+    "life": {
+      "birth": 1909,
+      "death": 1995,
+      "display": "1909—1995"
+    },
+    "civilization": "chinese_modern",
+    "traditions": [
+      "new_confucianism",
+      "kantianism",
+      "moral_metaphysics"
+    ],
+    "periods": [
+      "expansion_b4"
+    ],
+    "themes": [
+      "ethics",
+      "metaphysics",
+      "freedom"
+    ],
+    "keywordsZh": [
+      "道德形上学",
+      "智的直觉",
+      "良知",
+      "两层存有论",
+      "圆善"
+    ],
+    "oneLineZh": "以康德批判、智的直觉和儒家良知论建立现代新儒家的道德形上学。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "simone-weil",
+    "names": {
+      "zh": "西蒙娜·薇依",
+      "en": "Simone Weil"
+    },
+    "life": {
+      "birth": 1909,
+      "death": 1943,
+      "display": "1909—1943"
+    },
+    "civilization": "french",
+    "traditions": [
+      "christian_mysticism",
+      "political_philosophy",
+      "ethics"
+    ],
+    "periods": [
+      "expansion_b4"
+    ],
+    "themes": [
+      "ethics",
+      "religion",
+      "justice"
+    ],
+    "keywordsZh": [
+      "注意力",
+      "苦难",
+      "重力与恩典",
+      "根",
+      "义务"
+    ],
+    "oneLineZh": "以注意力、苦难、力量、义务和扎根思想连接神秘主义、伦理学与现代政治批判。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "mariategui",
+    "names": {
+      "zh": "马里亚特吉",
+      "en": "José Carlos Mariátegui",
+      "native": "José Carlos Mariátegui"
+    },
+    "life": {
+      "birth": 1894,
+      "death": 1930,
+      "display": "1894—1930"
+    },
+    "civilization": "latin_american",
+    "traditions": [
+      "marxism",
+      "indigenism",
+      "latin_american_socialism"
+    ],
+    "periods": [
+      "expansion_b4"
+    ],
+    "themes": [
+      "politics",
+      "justice",
+      "aesthetics"
+    ],
+    "keywordsZh": [
+      "秘鲁现实",
+      "土地问题",
+      "印第安问题",
+      "创造性社会主义",
+      "阿毛塔"
+    ],
+    "oneLineZh": "以秘鲁现实分析、印第安土地问题和创造性社会主义构成拉丁美洲马克思主义的重要源头。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "zera-yacob",
+    "names": {
+      "zh": "泽拉·雅各布",
+      "en": "Zera Yacob",
+      "native": "Zär'a Yaʿəqob"
+    },
+    "life": {
+      "birth": 1599,
+      "death": 1692,
+      "display": "1599—1692"
+    },
+    "civilization": "african",
+    "traditions": [
+      "ethiopian_rationalism",
+      "christian_philosophy",
+      "natural_reason"
+    ],
+    "periods": [
+      "expansion_b5"
+    ],
+    "themes": [
+      "knowledge",
+      "ethics",
+      "religion"
+    ],
+    "keywordsZh": [
+      "探究",
+      "理性",
+      "自然光",
+      "宗教宽容",
+      "平等"
+    ],
+    "oneLineZh": "以《探究》把信仰、理性、自然光和伦理平等组织为埃塞俄比亚理性主义传统。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "walda-heywat",
+    "names": {
+      "zh": "瓦尔达·黑沃特",
+      "en": "Walda Heywat",
+      "native": "Wäldä Heywat"
+    },
+    "life": {
+      "birth": 1633,
+      "death": 1710,
+      "display": "约1633—约1710"
+    },
+    "civilization": "african",
+    "traditions": [
+      "ethiopian_rationalism",
+      "social_ethics",
+      "religious_philosophy"
+    ],
+    "periods": [
+      "expansion_b5"
+    ],
+    "themes": [
+      "ethics",
+      "knowledge",
+      "religion"
+    ],
+    "keywordsZh": [
+      "探究",
+      "社会伦理",
+      "教育",
+      "理性宗教",
+      "实践智慧"
+    ],
+    "oneLineZh": "承接泽拉·雅各布的理性探究，把自然理性推进到教育、家庭、劳动和社会责任问题。",
+    "influenceWeight": 1,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "edward-blyden",
+    "names": {
+      "zh": "爱德华·布莱登",
+      "en": "Edward Wilmot Blyden"
+    },
+    "life": {
+      "birth": 1832,
+      "death": 1912,
+      "display": "1832—1912"
+    },
+    "civilization": "african",
+    "traditions": [
+      "pan_africanism",
+      "african_personality",
+      "anti_colonial_thought"
+    ],
+    "periods": [
+      "expansion_b5"
+    ],
+    "themes": [
+      "politics",
+      "knowledge",
+      "religion"
+    ],
+    "keywordsZh": [
+      "非洲人格",
+      "泛非主义",
+      "教育",
+      "伊斯兰",
+      "殖民批判"
+    ],
+    "oneLineZh": "以非洲人格、宗教比较和教育批判奠定泛非思想与非洲现代主体性的早期语言。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "nkrumah",
+    "names": {
+      "zh": "恩克鲁玛",
+      "en": "Kwame Nkrumah"
+    },
+    "life": {
+      "birth": 1909,
+      "death": 1972,
+      "display": "1909—1972"
+    },
+    "civilization": "african",
+    "traditions": [
+      "pan_africanism",
+      "african_socialism",
+      "anti_imperialism"
+    ],
+    "periods": [
+      "expansion_b5"
+    ],
+    "themes": [
+      "politics",
+      "justice",
+      "freedom"
+    ],
+    "keywordsZh": [
+      "良知主义",
+      "泛非统一",
+      "新殖民主义",
+      "非洲社会主义",
+      "反帝国主义"
+    ],
+    "oneLineZh": "以良知主义、泛非统一和新殖民主义批判构成独立后非洲政治哲学的重要节点。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  }
 ]
