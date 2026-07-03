@@ -27,8 +27,12 @@ const SUMMARY_POOL = [
 function defaultSummaryFor(id) {
   const s = String(id || "sage:evidence:001");
   let n = 0;
-  for (const ch of s) n += ch.charCodeAt(0);
-  return `${SUMMARY_POOL[n % SUMMARY_POOL.length]}此证据概括保留具体文本脉络，避免仅复述题目或来源。`;
+  let h = 0;
+  for (const ch of s) {
+    n += ch.charCodeAt(0);
+    h = (h * 31 + ch.charCodeAt(0)) % 1000000;
+  }
+  return `${SUMMARY_POOL[n % SUMMARY_POOL.length]}此证据的差异尾码为${h}。`;
 }
 function ev(over = {}) {
   const id = over.id || "sage:evidence:001";
@@ -206,12 +210,14 @@ describe("quality-audit：每类问题都必须被抓到", () => {
     expect(codes(d)).toContain("vague_locator");
   });
 
-  it("missing_locator（无 locator 且 excerptStatus 非 none）", () => {
+  it("missing_locator（无 locator 且 excerptStatus 非 none）→ RED", () => {
     const p = problem({ id: "sage:problem:001",
       claims: [claim({ id: "c1", titleZh: "甲", weight: 2, evidence: [ev({ id: "e1", source: { locator: "", excerptStatus: "summary_only" } }), ev({ id: "e2" })] }),
                claim({ id: "c2", titleZh: "乙", weight: 1 })] });
     const d = philosopher([p, problem({ id: "sage:problem:002" }), problem({ id: "sage:problem:003" })]);
-    expect(codes(d)).toContain("missing_locator");
+    const r = auditPhilosopher(d, worksById);
+    expect(r.findings.map((f) => f.code)).toContain("missing_locator");
+    expect(r.findings.find((f) => f.code === "missing_locator")?.sev).toBe("RED");
   });
 
   it("thin_evidence（claim 仅 1 evidence，过 RED 底线但低于标准档）", () => {
@@ -244,12 +250,30 @@ describe("quality-audit：每类问题都必须被抓到", () => {
     expect(codes(d)).toContain("template_claim");
   });
 
+  it("template_foundational_stance（claimZh 含基础性立场套话直接 RED）", () => {
+    const p = problem({ id: "sage:problem:001",
+      claims: [claim({ id: "c1", titleZh: "甲", weight: 2, claimZh: "这位哲人在伦理问题上提出基础性立场，说明其理论问题的出发点。" }),
+               claim({ id: "c2", titleZh: "乙", weight: 1 })] });
+    const d = philosopher([p, problem({ id: "sage:problem:002" }), problem({ id: "sage:problem:003" })]);
+    expect(codes(d)).toContain("template_foundational_stance");
+  });
+
   it("template_evidence_summary（复述 locator 的证据摘要直接 RED）", () => {
     const p = problem({ id: "sage:problem:001",
       claims: [claim({ id: "c1", titleZh: "甲", weight: 2, evidence: [ev({ id: "e1", summaryZh: "某某在第一章中提供该命题的原典定位，用于支撑这条命题的文本依据。" }), ev({ id: "e2" })] }),
                claim({ id: "c2", titleZh: "乙", weight: 1 })] });
     const d = philosopher([p, problem({ id: "sage:problem:002" }), problem({ id: "sage:problem:003" })]);
     expect(codes(d)).toContain("template_evidence_summary");
+  });
+
+  it("template_primary_locator（summaryZh 含提供该命题的原典定位套话直接 RED）", () => {
+    const p = problem({ id: "sage:problem:001",
+      claims: [claim({ id: "c1", titleZh: "甲", weight: 2, evidence: [
+        ev({ id: "e1", summaryZh: "文本在第一章中提供该命题的原典定位，但没有说明任何实际哲学内容。" }),
+        ev({ id: "e2" }),
+      ] }), claim({ id: "c2", titleZh: "乙", weight: 1 })] });
+    const d = philosopher([p, problem({ id: "sage:problem:002" }), problem({ id: "sage:problem:003" })]);
+    expect(codes(d)).toContain("template_primary_locator");
   });
 
   it("duplicate_claim_text（同一 problem 内 claimZh 精确重复直接 RED）", () => {
@@ -278,6 +302,27 @@ describe("quality-audit：每类问题都必须被抓到", () => {
       claim({ id: `p${n}c2`, titleZh: `乙${n}`, weight: 1, evidence: [similarEvidence(`p${n}e3`), similarEvidence(`p${n}e4`)] }),
     ] }));
     expect(codes(philosopher(probs))).toContain("template_similarity");
+  });
+
+  it("malformed_punct（summaryZh 含病句标点 '。，' 直接 RED）", () => {
+    const p = problem({ id: "sage:problem:001",
+      claims: [claim({ id: "c1", titleZh: "甲", weight: 2, evidence: [
+        ev({ id: "e1", summaryZh: "这条摘要先以句号收束。，随后又接逗号，显示机械拼接痕迹。" }),
+        ev({ id: "e2" }),
+      ] }), claim({ id: "c2", titleZh: "乙", weight: 1 })] });
+    const d = philosopher([p, problem({ id: "sage:problem:002" }), problem({ id: "sage:problem:003" })]);
+    expect(codes(d)).toContain("malformed_punct");
+  });
+
+  it("shared_suffix（同一哲人至少 3 条 summaryZh 共享 >=12 字符尾缀直接 RED）", () => {
+    const suffix = "共同尾缀用于机械凑长。";
+    const mk = (id, head) => ev({ id, summaryZh: `${head}，并在真实段落中说明不同论点的文本根据。${suffix}` });
+    const p = problem({ id: "sage:problem:001", claims: [
+      claim({ id: "c1", titleZh: "甲", weight: 2, evidence: [mk("e1", "第一条证据讨论经验判断"), mk("e2", "第二条证据分析制度语境")] }),
+      claim({ id: "c2", titleZh: "乙", weight: 1, evidence: [mk("e3", "第三条证据转向语言用法"), ev({ id: "e4" })] }),
+    ] });
+    const d = philosopher([p, problem({ id: "sage:problem:002" }), problem({ id: "sage:problem:003" })]);
+    expect(codes(d)).toContain("shared_suffix");
   });
 });
 

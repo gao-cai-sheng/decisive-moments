@@ -2375,5 +2375,297 @@
     ],
     "noteZh": "胡克斯明确继承弗莱雷的对话教育和解放教育思想，并将其扩展到女性主义课堂实践。",
     "reviewStatus": "draft"
-  }
+  },
+  {
+    "id": "marx-horkheimer-reception",
+    "from": "marx",
+    "to": "horkheimer",
+    "type": "reception",
+    "strength": 3,
+    "confidence": "high",
+    "themeIds": ["justice", "politics"],
+    "noteZh": "霍克海默把马克思的资本主义批判转化为跨学科社会研究和现代性支配分析。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "horkheimer-adorno-collaboration",
+    "from": "horkheimer",
+    "to": "adorno",
+    "type": "shared_problem",
+    "strength": 3,
+    "confidence": "high",
+    "themeIds": ["knowledge", "politics"],
+    "noteZh": "两人合写《启蒙辩证法》，共同分析启蒙理性、神话、文化工业和现代支配。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "horkheimer-habermas-influence",
+    "from": "horkheimer",
+    "to": "habermas",
+    "type": "influence",
+    "strength": 3,
+    "confidence": "high",
+    "themeIds": ["knowledge", "politics"],
+    "noteZh": "哈贝马斯继承法兰克福批判理论的问题意识，同时把工具理性批判改造为交往理性理论。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "adorno-habermas-critique",
+    "from": "adorno",
+    "to": "habermas",
+    "type": "critique",
+    "strength": 2,
+    "confidence": "high",
+    "themeIds": ["knowledge", "politics"],
+    "noteZh": "哈贝马斯从阿多诺的否定批判出发，又批评其理性观缺少可重建的规范基础。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "hegel-adorno-critique",
+    "from": "adorno",
+    "to": "hegel",
+    "type": "critique",
+    "strength": 3,
+    "confidence": "high",
+    "themeIds": ["metaphysics", "aesthetics"],
+    "noteZh": "阿多诺以否定辩证法继承并反转黑格尔，反对把非同一物纳入和解总体。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "marx-benjamin-reception",
+    "from": "marx",
+    "to": "benjamin",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "high",
+    "themeIds": ["politics", "aesthetics"],
+    "noteZh": "本雅明吸收马克思关于商品、技术和资本主义现代性的批判，并转入媒介与感知结构分析。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "benjamin-arendt-reception",
+    "from": "benjamin",
+    "to": "arendt",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "high",
+    "themeIds": ["politics", "life_death"],
+    "noteZh": "阿伦特保存、编辑和阐释本雅明文本，使其历史哲学和政治判断进入英语世界接受史。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "benjamin-adorno-shared_problem",
+    "from": "benjamin",
+    "to": "adorno",
+    "type": "shared_problem",
+    "strength": 2,
+    "confidence": "high",
+    "themeIds": ["aesthetics", "politics"],
+    "noteZh": "本雅明与阿多诺围绕艺术技术、现代主义和大众文化持续通信争论，共同构成批判美学核心线索。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "kant-cohen-reception",
+    "from": "kant",
+    "to": "cohen",
+    "type": "reception",
+    "strength": 3,
+    "confidence": "high",
+    "themeIds": ["knowledge", "ethics"],
+    "noteZh": "科恩以康德经验理论和先验方法为起点，建立马堡新康德主义的科学认识与伦理体系。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "cohen-rosenzweig-influence",
+    "from": "cohen",
+    "to": "rosenzweig",
+    "type": "influence",
+    "strength": 3,
+    "confidence": "high",
+    "themeIds": ["religion", "ethics"],
+    "noteZh": "罗森茨维格在犹太思想和德国观念论问题上回应科恩，既继承理性宗教问题又转向启示和对话。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "cohen-levinas-reception",
+    "from": "cohen",
+    "to": "levinas",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": ["ethics", "religion"],
+    "noteZh": "列维纳斯在犹太伦理和理性宗教问题上处在科恩开启的现代犹太哲学问题谱系中。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "aquinas-eckhart-shared_problem",
+    "from": "aquinas",
+    "to": "eckhart",
+    "type": "shared_problem",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "religion",
+      "metaphysics"
+    ],
+    "noteZh": "二者同处多明我会经院神学背景，并共同处理神、存在、灵魂和理智问题；本批不把它写成直接师承。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "eckhart-heidegger-reception",
+    "from": "eckhart",
+    "to": "heidegger",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "high",
+    "themeIds": [
+      "metaphysics",
+      "religion"
+    ],
+    "noteZh": "海德格尔对 Gelassenheit 等词汇和中世纪神秘主义资源的接受，使埃克哈特成为现代存在论语境中的重要回声。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "eckhart-cusa-reception",
+    "from": "eckhart",
+    "to": "cusa",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "religion",
+      "metaphysics",
+      "knowledge"
+    ],
+    "noteZh": "库萨的否定神学、无限者和有限认识边界问题可与埃克哈特传统相连，但正式入库前需复核具体文本链。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "cusa-ockham-shared_problem",
+    "from": "cusa",
+    "to": "ockham",
+    "type": "shared_problem",
+    "strength": 1,
+    "confidence": "medium",
+    "themeIds": [
+      "knowledge",
+      "metaphysics",
+      "religion"
+    ],
+    "noteZh": "库萨与奥卡姆同处晚期经院传统之后的认识边界问题域；库萨反对把神学与理性收缩为名辞和逻辑技术，因而与唯名论批判形成问题交叉。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "cusa-leibniz-reception",
+    "from": "cusa",
+    "to": "leibniz",
+    "type": "reception",
+    "strength": 1,
+    "confidence": "medium",
+    "themeIds": [
+      "metaphysics",
+      "knowledge"
+    ],
+    "noteZh": "库萨关于无限、比例和对立相合的讨论常被放入近代形而上学前史；此关系暂列低强度接受。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "descartes-vico-critique",
+    "from": "vico",
+    "to": "descartes",
+    "type": "critique",
+    "strength": 3,
+    "confidence": "high",
+    "themeIds": [
+      "knowledge",
+      "language"
+    ],
+    "noteZh": "维柯批评笛卡尔式方法的单一化，主张历史、修辞、法学和实践判断有不可替代的知识价值。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "vico-dilthey-reception",
+    "from": "vico",
+    "to": "dilthey",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "knowledge",
+      "language"
+    ],
+    "noteZh": "维柯的人类自造历史世界和解释性知识常被视为现代历史主义与精神科学问题的前史。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "vico-herder-shared_problem",
+    "from": "vico",
+    "to": "herder",
+    "type": "shared_problem",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "language",
+      "politics",
+      "knowledge"
+    ],
+    "noteZh": "二者都反对抽象理性主义独占知识地位，并把语言、民族传统和历史生成放到哲学中心。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "rousseau-herder-reception",
+    "from": "rousseau",
+    "to": "herder",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "language",
+      "politics"
+    ],
+    "noteZh": "赫尔德继承并改写卢梭关于语言、自然、社会和文明批判的问题域，同时反对把民族历史压成单线进步。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "kant-herder-critique",
+    "from": "herder",
+    "to": "kant",
+    "type": "critique",
+    "strength": 2,
+    "confidence": "high",
+    "themeIds": [
+      "knowledge",
+      "metaphysics"
+    ],
+    "noteZh": "赫尔德曾受康德影响，但其历史哲学和有机整体观也构成对康德式先验框架的明显张力。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "herder-dilthey-reception",
+    "from": "herder",
+    "to": "dilthey",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "language",
+      "knowledge"
+    ],
+    "noteZh": "赫尔德关于历史个体性、语言和文化理解的思想，为后来德国历史主义与解释学问题提供重要前史。",
+    "reviewStatus": "draft"
+  },
+{"id":"bergson-iqbal-reception","from":"bergson","to":"iqbal","type":"reception","strength":2,"confidence":"medium","themeIds":["metaphysics","freedom"],"noteZh":"伊克巴尔在创造、时间和生命动力问题上吸收并改写柏格森资源，但将其置入伊斯兰人格神和自我论框架。","reviewStatus":"draft"},
+{"id":"nietzsche-iqbal-reception","from":"nietzsche","to":"iqbal","type":"reception","strength":2,"confidence":"medium","themeIds":["freedom","religion"],"noteZh":"伊克巴尔借用强力人格和价值创造问题回应尼采，同时拒绝无神论和自我封闭的超人方向。","reviewStatus":"draft"},
+{"id":"iqbal-al-ghazali-shared_problem","from":"iqbal","to":"al-ghazali","type":"shared_problem","strength":2,"confidence":"medium","themeIds":["religion","knowledge"],"noteZh":"二者都处理宗教经验、理性论证和信仰生命之间的张力；伊克巴尔把该问题移入现代科学与伊斯兰重构语境。","reviewStatus":"draft"},
+{"id":"dignaga-dharmakirti-influence","from":"dignaga","to":"dharmakirti","type":"influence","strength":3,"confidence":"high","themeIds":["knowledge","language"],"noteZh":"法称以陈那《集量论》为出发点，扩展现量、比量、排除论和有效理由理论。","reviewStatus":"draft"},
+{"id":"vasubandhu-dharmakirti-reception","from":"vasubandhu","to":"dharmakirti","type":"reception","strength":2,"confidence":"medium","themeIds":["knowledge","metaphysics"],"noteZh":"法称在唯识与认知内部性问题上继承世亲之后的论题，同时以量论方式重构外境和心识关系。","reviewStatus":"draft"},
+{"id":"dharmakirti-nagarjuna-shared_problem","from":"dharmakirti","to":"nagarjuna","type":"shared_problem","strength":1,"confidence":"medium","themeIds":["knowledge","metaphysics"],"noteZh":"法称与龙树传统都处理概念、真实性和解脱认识的边界，但法称采取量论和因果效用的论证路线。","reviewStatus":"draft"},
+{"id":"buddha-shinran-reception","from":"buddha","to":"shinran","type":"reception","strength":2,"confidence":"medium","themeIds":["religion","life_death"],"noteZh":"亲鸾把净土教理解为释迦出世本怀之一，并通过《无量寿经》传统解释末法凡夫的救度可能。","reviewStatus":"draft"},
+{"id":"vasubandhu-shinran-reception","from":"vasubandhu","to":"shinran","type":"reception","strength":2,"confidence":"high","themeIds":["religion","knowledge"],"noteZh":"亲鸾在净土七高僧谱系中接受世亲《净土论》传统，并把愿生、信心和他力纳入自身体系。","reviewStatus":"draft"},
+{"id":"shinran-dogen-shared_problem","from":"shinran","to":"dogen","type":"shared_problem","strength":2,"confidence":"medium","themeIds":["religion","freedom"],"noteZh":"亲鸾与道元同处镰仓佛教转型，分别以他力信心和只管打坐回应修行主体与成佛道路问题。","reviewStatus":"draft"},
+{"id":"huineng-shinran-shared_problem","from":"huineng","to":"shinran","type":"shared_problem","strength":1,"confidence":"medium","themeIds":["religion","knowledge"],"noteZh":"慧能和亲鸾都弱化纯外在阶梯式修行，但前者强调顿悟心性，后者强调阿弥陀本愿所成就的信心。","reviewStatus":"draft"},
+{"id":"zhang-zai-cheng-yi-shared_problem","from":"zhang-zai","to":"cheng-yi","type":"shared_problem","strength":2,"confidence":"high","themeIds":["metaphysics","ethics"],"noteZh":"张载与程颐同处北宋道学形成期，共同处理气、理、天道和道德修养如何统一的问题。","reviewStatus":"draft"},
+{"id":"cheng-yi-zhu-xi-influence","from":"cheng-yi","to":"zhu-xi","type":"influence","strength":3,"confidence":"high","themeIds":["metaphysics","knowledge","ethics"],"noteZh":"朱熹把程颐的理、格物和敬的工夫整理为程朱理学核心框架，使程颐成为后世正统理学关键源头。","reviewStatus":"draft"},
+{"id":"cheng-yi-wang-yangming-critique","from":"wang-yangming","to":"cheng-yi","type":"critique","strength":2,"confidence":"high","themeIds":["knowledge","ethics"],"noteZh":"王阳明的心学批判以程朱格物穷理传统为主要对手之一，转而强调良知与心即理。","reviewStatus":"draft"},
+{"id":"cheng-yi-toegye-reception","from":"cheng-yi","to":"toegye","type":"reception","strength":2,"confidence":"medium","themeIds":["metaphysics","ethics"],"noteZh":"退溪所继承的朝鲜朱子学以程朱理学为正统资源，程颐的理与敬构成其性理讨论的远源。","reviewStatus":"draft"}
 ]

@@ -1,0 +1,292 @@
+{
+  "id": "iqbal",
+  "names": {
+    "zh": "伊克巴尔",
+    "en": "Muhammad Iqbal"
+  },
+  "life": {
+    "birth": 1877,
+    "death": 1938,
+    "display": "1877—1938"
+  },
+  "civilization": "islamic_modern",
+  "traditions": [
+    "islamic_modernism",
+    "philosophy_of_religion",
+    "poetic_philosophy"
+  ],
+  "periods": [
+    "expansion_b3"
+  ],
+  "themes": [
+    "religion",
+    "freedom",
+    "politics"
+  ],
+  "keywordsZh": [
+    "自我",
+    "胡迪",
+    "伊斯兰重构",
+    "创造性进程",
+    "精神民主"
+  ],
+  "oneLineZh": "以自我哲学、伊斯兰思想重构和诗性政治想象回应现代性中的宗教与主体问题。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "伊克巴尔把古典伊斯兰思想、苏菲传统、柏格森生命哲学和现代科学问题重新组织为自我、创造与共同体的现代伊斯兰哲学。",
+  "works": [
+    "iqbal-reconstruction",
+    "iqbal-asrar-i-khudi",
+    "iqbal-rumuz-i-bekhudi",
+    "iqbal-javid-nama",
+    "iqbal-development-metaphysics-persia"
+  ],
+  "sourceNotes": [
+    {
+      "label": "Primary and contextual note",
+      "url": "https://allamaiqbal.com/works/prose/english/reconstruction/",
+      "noteZh": "以《伊斯兰宗教思想的重构》为主，辅以自我哲学诗作和波斯形而上学研究。"
+    }
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "iqbal:problem:001",
+        "titleZh": "自我与人格生成",
+        "questionZh": "伊克巴尔如何把自我理解为需要强化和创造的宗教人格？",
+        "summaryZh": "伊克巴尔的 khudi 不是孤立个人主义，而是由爱、行动、律法和神圣召唤不断锻炼出的能动人格。",
+        "themeIds": [
+          "freedom",
+          "religion"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "iqbal:claim:001",
+            "titleZh": "自我是可成长的实在",
+            "claimZh": "伊克巴尔把自我视为具有现实程度和成长方向的能动中心，而不是应被消融的幻象。",
+            "explanationZh": "这使他同时反对宿命论和某些消极出世的自我消灭倾向，将宗教生活解释为人格强度的形成。",
+            "themeIds": [
+              "freedom",
+              "metaphysics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "iqbal:evidence:001",
+                "titleZh": "《自我的秘密》论 khudi 的强化",
+                "summaryZh": "诗中把自我塑造成需要经由爱、欲望、行动和纪律不断凝结的力量，强调人格不是给定实体，而是在实践中增强。",
+                "source": {
+                  "workId": "iqbal-asrar-i-khudi",
+                  "locator": "Asrar-i Khudi, opening movement on strengthening khudi",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "iqbal:evidence:002",
+                "titleZh": "《重构》论人的自我与自由",
+                "summaryZh": "讲稿把人的自我置于创造性宇宙中讨论，强调有限人格在选择和责任中参与现实生成，而非被动承受命运。",
+                "source": {
+                  "workId": "iqbal-reconstruction",
+                  "locator": "Lecture IV, The Human Ego: His Freedom and Immortality",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "iqbal:claim:002",
+            "titleZh": "自我需要共同体和律法成形",
+            "claimZh": "自我的成熟不是逃离共同体，而是在共同律法、历史记忆和伦理责任中获得稳定方向。",
+            "explanationZh": "这解释了伊克巴尔为什么把个体人格论与穆斯林共同体更新相连，而不把 khudi 降为私人心理学。",
+            "themeIds": [
+              "politics",
+              "ethics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "iqbal:evidence:003",
+                "titleZh": "《无我之奥秘》论共同体秩序",
+                "summaryZh": "诗作把个体自我安置在 ummah 的律法、记忆和使命中，说明人格需要共同体形式避免任意扩张。",
+                "source": {
+                  "workId": "iqbal-rumuz-i-bekhudi",
+                  "locator": "Rumuz-i Bekhudi, early cantos on community and law",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "iqbal:evidence:004",
+                "titleZh": "《贾维德书》的文明旅程",
+                "summaryZh": "宇宙旅行叙事通过先知、诗人和政治形象检验灵魂成熟，显示自我必须在文明选择中承担历史判断。",
+                "source": {
+                  "workId": "iqbal-javid-nama",
+                  "locator": "Javid Nama, celestial journey encounters on self and community",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "iqbal:problem:002",
+        "titleZh": "宗教经验与现代知识",
+        "questionZh": "伊克巴尔如何把伊斯兰信仰重新解释为可与现代知识对话的经验结构？",
+        "summaryZh": "伊克巴尔没有简单防守传统教义，而是以宗教经验、过程宇宙和现代科学问题重构伊斯兰哲学语言。",
+        "themeIds": [
+          "religion",
+          "knowledge"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "iqbal:claim:003",
+            "titleZh": "宗教经验具有认知价值",
+            "claimZh": "宗教经验在伊克巴尔那里不是非理性情绪，而是一种需要被哲学检验和概念化的经验事实。",
+            "explanationZh": "这使《重构》能够把神秘经验、启示和哲学论证放在同一问题框架内，而不是把它们互相排斥。",
+            "themeIds": [
+              "religion",
+              "knowledge"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "iqbal:evidence:005",
+                "titleZh": "《重构》第一讲论知识与宗教经验",
+                "summaryZh": "第一讲把宗教经验列为需要认真解释的意识事实，并要求哲学在现代知识条件下重新理解其结构。",
+                "source": {
+                  "workId": "iqbal-reconstruction",
+                  "locator": "Lecture I, Knowledge and Religious Experience",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "iqbal:evidence:006",
+                "titleZh": "《波斯形而上学的发展》的思想史训练",
+                "summaryZh": "早期研究梳理波斯与伊斯兰哲学中理性、神秘和存在论问题，为后来重构宗教思想提供历史资源。",
+                "source": {
+                  "workId": "iqbal-development-metaphysics-persia",
+                  "locator": "Chapter on Persian Sufism and metaphysical development",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "iqbal:claim:004",
+            "titleZh": "上帝被理解为创造性生命中心",
+            "claimZh": "伊克巴尔倾向把神理解为创造性、人格性和时间性现实的中心，而非静止的抽象实体。",
+            "explanationZh": "这条主张把他与柏格森式过程感、伊斯兰人格神观和现代宇宙论问题连接起来。",
+            "themeIds": [
+              "metaphysics",
+              "religion"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "iqbal:evidence:007",
+                "titleZh": "《重构》第三讲论上帝观和祈祷",
+                "summaryZh": "第三讲把上帝观、祈祷和宇宙创造性联系起来，反对把神圣现实压成静态第一因或抽象实体。",
+                "source": {
+                  "workId": "iqbal-reconstruction",
+                  "locator": "Lecture III, The Conception of God and the Meaning of Prayer",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "iqbal:evidence:008",
+                "titleZh": "《重构》第二讲检验宗教启示",
+                "summaryZh": "第二讲以哲学检验宗教经验，显示伊克巴尔试图在理性批判内保留启示经验的真实性，并避免把启示降为主观情绪。",
+                "source": {
+                  "workId": "iqbal-reconstruction",
+                  "locator": "Lecture II, The Philosophical Test of the Revelations of Religious Experience",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "iqbal:problem:003",
+        "titleZh": "伊斯兰法与精神民主",
+        "questionZh": "伊克巴尔如何把伊斯兰传统解释为能够运动和更新的文明原则？",
+        "summaryZh": "伊克巴尔把伊斯兰理解为精神原则、历史共同体和法的运动机制，重点是重新开启创造性解释而非复制旧制度。",
+        "themeIds": [
+          "politics",
+          "religion"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "iqbal:claim:005",
+            "titleZh": "伊斯兰传统需要创造性解释",
+            "claimZh": "伊克巴尔主张伊斯兰法和共同体生活应恢复运动原则，使经典传统能回应新的历史条件。",
+            "explanationZh": "这不是世俗化地抛弃宗教，而是把 ijtihad 理解为共同体在现代处境中的责任形式。",
+            "themeIds": [
+              "politics",
+              "religion"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "iqbal:evidence:009",
+                "titleZh": "《重构》第六讲论运动原则",
+                "summaryZh": "第六讲把伊斯兰法中的运动原则与共同体更新联系起来，强调解释权不能停留在封闭的历史形式中。",
+                "source": {
+                  "workId": "iqbal-reconstruction",
+                  "locator": "Lecture VI, The Principle of Movement in the Structure of Islam",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "iqbal:evidence:010",
+                "titleZh": "《重构》第五讲论穆斯林文化精神",
+                "summaryZh": "第五讲通过历史文化论述说明伊斯兰文明包含经验、行动和共同体建构的动态方向，不只是保存既有教条。",
+                "source": {
+                  "workId": "iqbal-reconstruction",
+                  "locator": "Lecture V, The Spirit of Muslim Culture",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "iqbal:claim:006",
+            "titleZh": "精神民主约束民族政治想象",
+            "claimZh": "伊克巴尔的政治思想强调宗教人格与共同体正义，不能被简化为单纯民族国家宣传。",
+            "explanationZh": "这条主张有助于保守处理其现代政治影响：既承认其共同体想象，也避免把诗性哲学改写成单线政治纲领。",
+            "themeIds": [
+              "politics",
+              "justice"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "iqbal:evidence:011",
+                "titleZh": "《贾维德书》中的文明审判",
+                "summaryZh": "诗体旅程通过多种文明与政治形象呈现精神尺度，说明政治共同体需要接受人格和正义的检验。",
+                "source": {
+                  "workId": "iqbal-javid-nama",
+                  "locator": "Javid Nama, passages judging modern civilization",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "iqbal:evidence:012",
+                "titleZh": "《重构》终讲论宗教可能性",
+                "summaryZh": "终讲讨论宗教在现代条件下是否可能，显示伊克巴尔关心的是精神生命如何继续组织公共世界。",
+                "source": {
+                  "workId": "iqbal-reconstruction",
+                  "locator": "Lecture VII, Is Religion Possible?",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

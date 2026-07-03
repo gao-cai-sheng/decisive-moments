@@ -27,10 +27,14 @@ export const TARGET_SUMMARY = 40;         // 标准档：summaryZh 目标厚度�
 export const TARGET_EV_PER_CLAIM = 2;     // 标准档：每 claim 目标 evidence 数（>=1 但 <2=YELLOW thin_evidence）
 export const RESTATE_JACCARD = 0.72;      // claimZh 与 questionZh 字符 Jaccard 超此值疑似复述
 export const TEMPLATE_SUMMARY_JACCARD = 0.55; // 同一哲人 evidence.summaryZh 两两字符 Jaccard 均值超此值疑似二代模板
+export const SHARED_SUFFIX_LEN = 12;       // 同一哲人 >=3 条 summaryZh 共享此长度尾缀，疑似机械凑长
+export const SHARED_SUFFIX_MIN = 3;
 
 // 反模板规则：这类句子满足长度/证据数门槛，却没有实质内容，必须直接 RED。
 export const TEMPLATE_CLAIM = /(在[“\"][^”\"]+[”\"]中提出基础性立场，说明其理论问题的出发点|在[“\"][^”\"]+[”\"]中进一步推出实践、制度或认识论后果)/;
+export const TEMPLATE_FOUNDATIONAL_STANCE = /基础性立场，说明其理论问题的出发点/;
 export const TEMPLATE_EVIDENCE_SUMMARY = /(提供该命题的原典定位，用于支撑|用于支撑[^。；]*命题|原典定位，用于支撑)/;
+export const TEMPLATE_PRIMARY_LOCATOR = /提供该命题的原典定位/;
 
 // 标准档 YELLOW 码：在 --require-standard（写前门硬门）下，这些也当作阻断项，不清零禁止入库。
 export const STANDARD_TIER_CODES = new Set(["thin_evidence", "summary_thin", "weight_uniform"]);
@@ -82,6 +86,8 @@ export function auditPhilosopher(detail, worksById) {
         add("YELLOW", "claim_restates_question", `${c.id}: claimZh 与 questionZh 高度重叠(${j.toFixed(2)})，疑似复述`);
       if (TEMPLATE_CLAIM.test(c.claimZh || ""))
         add("RED", "template_claim", `${c.id}: claimZh 命中模板灌水句式，缺少实质主张`);
+      if (TEMPLATE_FOUNDATIONAL_STANCE.test(c.claimZh || ""))
+        add("RED", "template_foundational_stance", `${c.id}: claimZh 含“基础性立场，说明其理论问题的出发点”套话，缺少实质主张`);
 
       const claimText = (c.claimZh || "").trim();
       if (claimText) {
@@ -105,6 +111,10 @@ export function auditPhilosopher(detail, worksById) {
           add("YELLOW", "summary_thin", `${e.id}: summaryZh 长度 ${sumLen}（>=${MIN_SUMMARY} 但 <${TARGET_SUMMARY} 标准档，偏薄）`);
         if (TEMPLATE_EVIDENCE_SUMMARY.test(e.summaryZh || ""))
           add("RED", "template_evidence_summary", `${e.id}: summaryZh 命中“复述 locator/用于支撑命题”模板，缺少实质证据概括`);
+        if (TEMPLATE_PRIMARY_LOCATOR.test(e.summaryZh || ""))
+          add("RED", "template_primary_locator", `${e.id}: summaryZh 含“提供该命题的原典定位”套话，缺少实质证据概括`);
+        if ((e.summaryZh || "").includes("。，"))
+          add("RED", "malformed_punct", `${e.id}: summaryZh 含病句标点「。，」，疑似机械拼接凑长度`);
         if (e.summaryZh) evidenceSummaries.push({ id: e.id, text: e.summaryZh });
         if (s.workId && (e.summaryZh || "").includes(s.workId))
           add("RED", "workid_in_summary", `${e.id}: summaryZh 含 workId 子串「${s.workId}」，疑似把定位字段粘入摘要`);
@@ -119,7 +129,7 @@ export function auditPhilosopher(detail, worksById) {
         }
         const loc = s.locator || "";
         if (!loc && s.excerptStatus !== "none")
-          add("YELLOW", "missing_locator", `${e.id}: 无 locator (excerptStatus=${s.excerptStatus})`);
+          add("RED", "missing_locator", `${e.id}: 无 locator (excerptStatus=${s.excerptStatus})，违反溯源铁律`);
         else if (VAGUE_LOCATOR.test(loc))
           add("YELLOW", "vague_locator", `${e.id}: locator 宽泛「${loc}」`);
       }
@@ -138,6 +148,22 @@ export function auditPhilosopher(detail, worksById) {
     const mean = pairs ? total / pairs : 0;
     if (mean > TEMPLATE_SUMMARY_JACCARD)
       add("RED", "template_similarity", `summaryZh 两两字符 Jaccard 均值 ${mean.toFixed(2)} (>${TEMPLATE_SUMMARY_JACCARD})，疑似同一模板批量改写`);
+
+    const suffixes = new Map();
+    for (const e of evidenceSummaries) {
+      const text = (e.text || "").trim();
+      if (text.length < SHARED_SUFFIX_LEN) continue;
+      const suffix = text.slice(-SHARED_SUFFIX_LEN);
+      const ids = suffixes.get(suffix) || [];
+      ids.push(e.id);
+      suffixes.set(suffix, ids);
+    }
+    for (const [suffix, ids] of suffixes) {
+      if (ids.length >= SHARED_SUFFIX_MIN) {
+        add("RED", "shared_suffix", `summaryZh 有 ${ids.length} 条共享 ${SHARED_SUFFIX_LEN} 字符尾缀「${suffix}」，疑似机械拼接凑长度：${ids.slice(0, 6).join(", ")}`);
+        break;
+      }
+    }
   }
 
   return { pid, hasTS: true, findings };

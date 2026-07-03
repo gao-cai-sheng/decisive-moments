@@ -1,0 +1,293 @@
+{
+  "id": "adorno",
+  "names": {
+    "zh": "阿多诺",
+    "en": "Theodor W. Adorno"
+  },
+  "life": {
+    "birth": 1903,
+    "death": 1969,
+    "display": "1903—1969"
+  },
+  "civilization": "european_modern",
+  "traditions": [
+    "critical_theory",
+    "frankfurt_school",
+    "aesthetics"
+  ],
+  "periods": [
+    "expansion_b1"
+  ],
+  "themes": [
+    "aesthetics",
+    "metaphysics",
+    "justice"
+  ],
+  "keywordsZh": [
+    "否定辩证法",
+    "文化工业",
+    "现代主义艺术",
+    "同一性批判",
+    "奥斯维辛之后"
+  ],
+  "oneLineZh": "以否定辩证法、文化工业批判和现代主义美学揭示同一性思维中的社会支配。",
+  "influenceWeight": 3,
+  "reviewStatus": "draft",
+  "summaryZh": "阿多诺把黑格尔和马克思传统转化为反同一性的现代性批判，并以艺术和经验残余抵抗概念总体化。",
+  "works": [
+    "adorno-dialectic-enlightenment",
+    "adorno-minima-moralia",
+    "adorno-negative-dialectics",
+    "adorno-aesthetic-theory",
+    "adorno-philosophy-new-music",
+    "adorno-authoritarian-personality"
+  ],
+  "sourceNotes": [
+    {
+      "label": "SEP / critical theory and aesthetics references",
+      "url": "https://plato.stanford.edu/entries/adorno/",
+      "noteZh": "核对否定辩证法、文化工业和美学理论定位。"
+    }
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "adorno:problem:001",
+        "titleZh": "否定辩证法与非同一物",
+        "questionZh": "阿多诺如何用否定辩证法反对概念总体化，并保留对象不能被概念吸收的部分？",
+        "summaryZh": "阿多诺的否定辩证法从黑格尔辩证法内部反转同一性冲动，要求概念持续面对被它压扁的经验残余。",
+        "themeIds": [
+          "metaphysics",
+          "knowledge"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "adorno:claim:001",
+            "titleZh": "概念必须承认非同一物",
+            "claimZh": "概念不可避免地概括对象，但哲学的批判任务是让概念意识到自身无法穷尽对象。",
+            "explanationZh": "这条主张是其反体系哲学核心，也解释他为何既继承黑格尔又反对最终和解总体。",
+            "themeIds": [
+              "metaphysics",
+              "knowledge"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "adorno:evidence:001",
+                "titleZh": "《否定辩证法》导言论反体系",
+                "summaryZh": "导言拒绝把辩证法完成为正面体系，要求哲学在概念与对象的裂缝中工作，而不是用体系和解消除非同一物。",
+                "source": {
+                  "workId": "adorno-negative-dialectics",
+                  "locator": "Introduction on anti-system and nonidentity",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "adorno:evidence:002",
+                "titleZh": "《否定辩证法》论同一性思维",
+                "summaryZh": "同一性思维批判显示，概念把差异经验纳入可管理范畴时，会在认识形式中复制社会支配和行政化秩序。",
+                "source": {
+                  "workId": "adorno-negative-dialectics",
+                  "locator": "Sections on identity thinking and the priority of the object",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "adorno:claim:002",
+            "titleZh": "形而上学在灾难之后破碎继续",
+            "claimZh": "阿多诺没有宣布形而上学终结，而是认为奥斯维辛之后的思想只能以受损和反体系的方式追问真理。",
+            "explanationZh": "这条主张把非同一性、苦难记忆和现代历史灾难连接起来，是其哲学严肃性的来源。",
+            "themeIds": [
+              "metaphysics",
+              "life_death"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "adorno:evidence:003",
+                "titleZh": "《否定辩证法》最后一章论形而上学",
+                "summaryZh": "最后一章在奥斯维辛经验之后重新讨论形而上学可能性，拒绝用体系意义抚平受害者苦难。",
+                "source": {
+                  "workId": "adorno-negative-dialectics",
+                  "locator": "Final meditations on metaphysics after Auschwitz",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "adorno:evidence:004",
+                "titleZh": "《最低限度的道德》的受损生活形式",
+                "summaryZh": "格言体文本从流亡、消费和日常细节出发呈现受损生活，说明社会总体如何进入个体经验。",
+                "source": {
+                  "workId": "adorno-minima-moralia",
+                  "locator": "Dedication and aphorisms on damaged life",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "adorno:problem:002",
+        "titleZh": "文化工业与大众社会",
+        "questionZh": "阿多诺如何把文化工业分析为现代资本主义支配感知和欲望的机制？",
+        "summaryZh": "文化工业批判说明现代娱乐不是单纯虚假内容，而是通过标准化形式训练顺从、注意力和消费习惯。",
+        "themeIds": [
+          "aesthetics",
+          "politics"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "adorno:claim:003",
+            "titleZh": "文化工业生产伪差异",
+            "claimZh": "大众文化表面提供选择，实则以标准化格式组织欲望，使差异成为市场可管理的伪差异。",
+            "explanationZh": "这条主张把美学、经济和社会心理连接起来，是法兰克福学派现代传媒批判的核心。",
+            "themeIds": [
+              "aesthetics",
+              "politics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "adorno:evidence:005",
+                "titleZh": "《启蒙辩证法》文化工业章",
+                "summaryZh": "文化工业章分析电影、广播和流行音乐的标准化结构，指出娱乐形式会训练观众适应既有秩序。",
+                "source": {
+                  "workId": "adorno-dialectic-enlightenment",
+                  "locator": "Chapter on the culture industry",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "adorno:evidence:006",
+                "titleZh": "《新音乐哲学》论音乐材料与社会压力",
+                "summaryZh": "音乐研究通过现代作曲技术显示艺术材料并不纯粹自律，而承受社会形式和市场趣味压力。",
+                "source": {
+                  "workId": "adorno-philosophy-new-music",
+                  "locator": "Sections contrasting Schoenberg, Stravinsky, and social form",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "adorno:claim:004",
+            "titleZh": "权威主义人格显示支配内化",
+            "claimZh": "经验研究把反民主倾向、偏见和家庭权威联系起来，展示支配不只在制度外部运作，也进入人格结构。",
+            "explanationZh": "这条主张补足他常被忽视的社会研究面向，使其文化批判不只是纯哲学判断。",
+            "themeIds": [
+              "justice",
+              "politics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "adorno:evidence:007",
+                "titleZh": "《权威主义人格》的反犹主义与人格量表",
+                "summaryZh": "合作研究用访谈和量表分析偏见、服从和投射机制，试图解释法西斯倾向在民主社会中的潜伏。",
+                "source": {
+                  "workId": "adorno-authoritarian-personality",
+                  "locator": "Studies on anti-Semitism, prejudice, and the F-scale",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "adorno:evidence:008",
+                "titleZh": "《最低限度的道德》论日常顺从",
+                "summaryZh": "书中从礼貌、消费、家庭和交往细节切入，显示社会权力如何沉入微小习惯，并转化为个体自我约束。",
+                "source": {
+                  "workId": "adorno-minima-moralia",
+                  "locator": "Aphorisms on everyday conformity and administered life",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "adorno:problem:003",
+        "titleZh": "现代艺术的真理内容",
+        "questionZh": "为什么阿多诺把现代主义艺术看作社会批判的重要场所，而不是审美逃避？",
+        "summaryZh": "现代艺术通过形式困难、自律和不和谐保存社会矛盾，使被管理世界中仍能出现非同一经验。",
+        "themeIds": [
+          "aesthetics",
+          "justice"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "adorno:claim:005",
+            "titleZh": "艺术自律不是脱离社会",
+            "claimZh": "艺术越坚持形式自律，越能以非直接宣传的方式暴露社会矛盾和被压抑经验。",
+            "explanationZh": "这条主张解释他为何重视艰深现代主义，而不把政治艺术化约为清楚口号。",
+            "themeIds": [
+              "aesthetics",
+              "politics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "adorno:evidence:009",
+                "titleZh": "《美学理论》论艺术自律和社会事实",
+                "summaryZh": "《美学理论》把艺术作品同时视为社会事实和自律形式，说明作品的形式结构会沉淀历史冲突与未解决矛盾。",
+                "source": {
+                  "workId": "adorno-aesthetic-theory",
+                  "locator": "Opening sections on autonomy, social fact, and truth content",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "adorno:evidence:010",
+                "titleZh": "《新音乐哲学》论勋伯格",
+                "summaryZh": "对勋伯格的分析把无调性、材料解放和作曲结构的紧张联系起来，呈现现代社会矛盾在音乐形式中的压力。",
+                "source": {
+                  "workId": "adorno-philosophy-new-music",
+                  "locator": "Part on Schoenberg and the emancipation of dissonance",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "adorno:claim:006",
+            "titleZh": "灾难之后的艺术承担记忆压力",
+            "claimZh": "灾难之后的艺术不能把苦难审美化为可消费安慰，而要在形式中保留无法和解的历史压力。",
+            "explanationZh": "这条主张把美学理论和历史伦理合在一起，说明现代艺术的真理内容包含对受害者的责任。",
+            "themeIds": [
+              "aesthetics",
+              "ethics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "adorno:evidence:011",
+                "titleZh": "《美学理论》论苦难与表现",
+                "summaryZh": "书中讨论现代艺术表现苦难的困难，强调作品若要保持真理内容，必须抵抗和解叙事和廉价抚慰。",
+                "source": {
+                  "workId": "adorno-aesthetic-theory",
+                  "locator": "Sections on suffering, expression, and reconciliation",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "adorno:evidence:012",
+                "titleZh": "《最低限度的道德》中的流亡书写",
+                "summaryZh": "流亡格言把个人生活的破碎感转化为社会批判，显示文学形式如何承载历史灾难后的伦理压力。",
+                "source": {
+                  "workId": "adorno-minima-moralia",
+                  "locator": "Aphorisms written in exile on damaged life and memory",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

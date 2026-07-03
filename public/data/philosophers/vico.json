@@ -1,0 +1,291 @@
+{
+  "id": "vico",
+  "names": {
+    "zh": "维柯",
+    "en": "Giambattista Vico"
+  },
+  "life": {
+    "birth": 1668,
+    "death": 1744,
+    "display": "1668—1744"
+  },
+  "civilization": "european_modern",
+  "traditions": [
+    "historicism",
+    "philosophy_of_history",
+    "rhetoric"
+  ],
+  "periods": [
+    "expansion_b2"
+  ],
+  "themes": [
+    "knowledge",
+    "language",
+    "politics"
+  ],
+  "keywordsZh": [
+    "新科学",
+    "verum factum",
+    "诗性智慧",
+    "民族世界",
+    "反笛卡尔"
+  ],
+  "oneLineZh": "以 verum factum 原则和《新科学》开出历史、法、神话和语言的人类自造世界。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "维柯批评单一化的笛卡尔方法，主张人类最能认识自身所造的历史制度、语言、神话和法律，因此成为现代历史主义的重要前驱。",
+  "works": [
+    "vico-new-science",
+    "vico-study-methods",
+    "vico-ancient-wisdom",
+    "vico-universal-law",
+    "vico-autobiography"
+  ],
+  "sourceNotes": [
+    {
+      "label": "Primary corpus note",
+      "noteZh": "本批以《新科学》和方法论文本为主，兼顾法学与自传材料。"
+    }
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "vico:problem:001",
+        "titleZh": "真理与制作原则",
+        "questionZh": "维柯为什么认为人类最能认识自己所制造的历史世界？",
+        "summaryZh": "维柯用 verum factum 原则反转笛卡尔式确定性，把历史制度、语言和法律变成人类可知对象。",
+        "themeIds": [
+          "knowledge",
+          "language"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "vico:claim:001",
+            "titleZh": "真理与所造之物相互对应",
+            "claimZh": "人能充分认识的不是外在自然整体，而是自身共同制造出来的语言、制度、法律和历史世界。",
+            "explanationZh": "这条主张是维柯历史哲学的认识论基础，使历史研究不再只是经验杂录，而成为人的自我知识。",
+            "themeIds": [
+              "knowledge",
+              "politics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "vico:evidence:001",
+                "titleZh": "《意大利人的古代智慧》论 verum factum",
+                "summaryZh": "文本提出真与做相互转换的原则，用来说明数学和人类制度之所以可知，是因为它们出自人的制作活动。",
+                "source": {
+                  "workId": "vico-ancient-wisdom",
+                  "locator": "De antiquissima Italorum sapientia, chapters on verum et factum convertuntur",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "vico:evidence:002",
+                "titleZh": "《新科学》开篇论民族世界",
+                "summaryZh": "《新科学》把民族世界称为人类自己造成的世界，因此它比自然整体更适合通过历史和制度分析来认识。",
+                "source": {
+                  "workId": "vico-new-science",
+                  "locator": "New Science, introductory axioms on the world of nations made by human beings",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "vico:claim:002",
+            "titleZh": "笛卡尔方法不能垄断知识标准",
+            "claimZh": "若把清楚分明的几何确定性当作唯一知识标准，历史、法学、修辞和实践判断都会被错误贬低。",
+            "explanationZh": "维柯的反笛卡尔立场不是反理性，而是反对一种方法把所有学科压成同一种证明模式。",
+            "themeIds": [
+              "knowledge",
+              "language"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "vico:evidence:003",
+                "titleZh": "《论我们时代的研究方法》批评单一方法",
+                "summaryZh": "演讲批评教育中过度崇拜分析方法会损害记忆、想象、修辞和公共判断，使青年缺少处理人事的能力。",
+                "source": {
+                  "workId": "vico-study-methods",
+                  "locator": "De nostri temporis studiorum ratione, critique of modern analytic method in education",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "vico:evidence:004",
+                "titleZh": "《自传》中的方法论处境",
+                "summaryZh": "自传叙述维柯如何在那不勒斯学术环境中坚持法学、修辞和历史研究，呈现其反方法垄断的个人背景。",
+                "source": {
+                  "workId": "vico-autobiography",
+                  "locator": "Autobiography, account of studies, rhetoric, law, and opposition to fashionable Cartesianism",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "vico:problem:002",
+        "titleZh": "诗性智慧与神话",
+        "questionZh": "维柯为什么把早期神话和诗性语言视为民族理性的开端，而不是无理性的错误？",
+        "summaryZh": "他把神话、隐喻和诗性智慧理解为早期民族组织经验的方式，从而为历史语言学和制度史奠基。",
+        "themeIds": [
+          "language",
+          "aesthetics"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "vico:claim:003",
+            "titleZh": "诗性智慧组织早期民族经验",
+            "claimZh": "早期人类不是先拥有抽象概念再创造神话，而是通过身体化想象和诗性普遍者组织世界。",
+            "explanationZh": "这使神话成为历史认识的材料，而非哲学必须清除的幼稚迷信。",
+            "themeIds": [
+              "language",
+              "aesthetics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "vico:evidence:005",
+                "titleZh": "《新科学》论诗性智慧",
+                "summaryZh": "维柯把早期民族的神话和想象称作诗性智慧，认为它们以感性图像承载共同生活的最初秩序。",
+                "source": {
+                  "workId": "vico-new-science",
+                  "locator": "New Science, Book II, section on poetic wisdom",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "vico:evidence:006",
+                "titleZh": "《新科学》论诗性普遍者",
+                "summaryZh": "诗性普遍者概念说明荷马式形象并非个别装饰，而是早期民族用具体人物承载普遍意义的方式。",
+                "source": {
+                  "workId": "vico-new-science",
+                  "locator": "New Science, Book II, discussion of poetic universals and heroic characters",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "vico:claim:004",
+            "titleZh": "语言发展记录社会制度生成",
+            "claimZh": "词语、神名和法律表达保存了民族早期制度经验，因此语言学可以成为历史哲学的入口。",
+            "explanationZh": "这条主张把语源学、法学和政治史连接起来，解释《新科学》为何大量分析词源和古代习俗。",
+            "themeIds": [
+              "language",
+              "politics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "vico:evidence:007",
+                "titleZh": "《新科学》论神名和制度记忆",
+                "summaryZh": "维柯通过朱庇特等神名解释恐惧、天象和权威如何凝结为早期制度，使神话成为社会记忆。",
+                "source": {
+                  "workId": "vico-new-science",
+                  "locator": "New Science, Book II, sections on Jove, thunder, fear, and founding institutions",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "vico:evidence:008",
+                "titleZh": "《普遍法》论法律与民族生活",
+                "summaryZh": "法学文本把法律理解为民族生活的制度表达，为《新科学》中从法到历史的解释路径提供基础。",
+                "source": {
+                  "workId": "vico-universal-law",
+                  "locator": "Diritto universale, discussions of law, nations, and historical development",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "vico:problem:003",
+        "titleZh": "历史循环与共同世界",
+        "questionZh": "维柯如何说明民族历史既有生成秩序，又不会化约为线性进步？",
+        "summaryZh": "维柯用神祇、英雄和人类时代的循环结构解释制度演化，同时保留历史倒退和再野蛮化可能。",
+        "themeIds": [
+          "politics",
+          "knowledge"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "vico:claim:005",
+            "titleZh": "民族历史呈现制度生成次序",
+            "claimZh": "历史不是偶然事件堆积，而是家庭、宗教、法、语言和政治形式逐步组织共同世界的过程。",
+            "explanationZh": "维柯的循环不是机械周期，而是通过制度形态说明人类共同生活如何获得稳定结构。",
+            "themeIds": [
+              "politics",
+              "knowledge"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "vico:evidence:009",
+                "titleZh": "《新科学》论三时代结构",
+                "summaryZh": "神祇时代、英雄时代和人类时代构成制度与语言演化框架，显示民族世界如何从权威和习俗中成形。",
+                "source": {
+                  "workId": "vico-new-science",
+                  "locator": "New Science, structure of divine, heroic, and human ages",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "vico:evidence:010",
+                "titleZh": "《新科学》论共同本性",
+                "summaryZh": "维柯寻找各民族共同的制度生成规律，但这些规律来自历史比较，而不是抽象自然状态推演。",
+                "source": {
+                  "workId": "vico-new-science",
+                  "locator": "New Science, axioms on common nature of nations and comparative method",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "vico:claim:006",
+            "titleZh": "历史可能回落为反思的野蛮",
+            "claimZh": "文明发展并不保证永久进步，过度反思和私利撕裂共同纽带时，社会可能进入新的野蛮状态。",
+            "explanationZh": "这使维柯的历史哲学具有现代批判性：理性化本身若破坏共同生活，也会产生倒退。",
+            "themeIds": [
+              "politics",
+              "ethics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "vico:evidence:011",
+                "titleZh": "《新科学》论诸民族的循环",
+                "summaryZh": "corso 与 ricorso 结构说明民族会经历形成、成熟和回返，历史秩序包含衰败和重组的内在可能。",
+                "source": {
+                  "workId": "vico-new-science",
+                  "locator": "New Science, concluding sections on corso, ricorso, and historical return",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "vico:evidence:012",
+                "titleZh": "《新科学》论反思的野蛮",
+                "summaryZh": "维柯把极端个人化和计算性聪明称为反思的野蛮，指出高度文明也可能瓦解公共语言和共同正义。",
+                "source": {
+                  "workId": "vico-new-science",
+                  "locator": "New Science, passages on barbarism of reflection and dissolution of civic bonds",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

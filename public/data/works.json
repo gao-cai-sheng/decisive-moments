@@ -3090,5 +3090,390 @@
     "titleEn": "Teachers as Cultural Workers",
     "yearDisplay": "1998",
     "noteZh": "面向教师实践讨论批判教育和文化责任。"
-  }
+  },
+  {
+    "id": "horkheimer-traditional-critical-theory",
+    "philosopherId": "horkheimer",
+    "titleZh": "《传统理论与批判理论》",
+    "titleEn": "Traditional and Critical Theory",
+    "yearDisplay": "1937",
+    "noteZh": "提出批判理论区别于传统理论的纲领文本。"
+  },
+  {
+    "id": "horkheimer-dialectic-enlightenment",
+    "philosopherId": "horkheimer",
+    "titleZh": "《启蒙辩证法》",
+    "titleEn": "Dialectic of Enlightenment",
+    "yearDisplay": "1944/1947",
+    "noteZh": "与阿多诺合著，分析启蒙理性如何转化为支配和神话。"
+  },
+  {
+    "id": "horkheimer-eclipse-reason",
+    "philosopherId": "horkheimer",
+    "titleZh": "《理性的蚀落》",
+    "titleEn": "Eclipse of Reason",
+    "yearDisplay": "1947",
+    "noteZh": "集中讨论主观理性、客观理性和工具理性问题。"
+  },
+  {
+    "id": "horkheimer-critical-theory-essays",
+    "philosopherId": "horkheimer",
+    "titleZh": "《批判理论文集》",
+    "titleEn": "Critical Theory: Selected Essays",
+    "yearDisplay": "1930s–1940s essays",
+    "noteZh": "收录社会哲学、资本主义和理论方法论文。"
+  },
+  {
+    "id": "horkheimer-authority-family",
+    "philosopherId": "horkheimer",
+    "titleZh": "《权威与家庭研究》",
+    "titleEn": "Studies on Authority and the Family",
+    "yearDisplay": "1936",
+    "noteZh": "法兰克福社会研究所跨学科研究项目成果。"
+  },
+  {
+    "id": "horkheimer-longing-totally-other",
+    "philosopherId": "horkheimer",
+    "titleZh": "《对全然他者的渴望》",
+    "titleEn": "Longing for the Totally Other",
+    "yearDisplay": "1970",
+    "noteZh": "晚期关于宗教、正义和绝望政治的访谈文本。"
+  },
+  {
+    "id": "adorno-dialectic-enlightenment",
+    "philosopherId": "adorno",
+    "titleZh": "《启蒙辩证法》",
+    "titleEn": "Dialectic of Enlightenment",
+    "yearDisplay": "1944/1947",
+    "noteZh": "与霍克海默合著，提出文化工业和启蒙自毁问题。"
+  },
+  {
+    "id": "adorno-minima-moralia",
+    "philosopherId": "adorno",
+    "titleZh": "《最低限度的道德》",
+    "titleEn": "Minima Moralia",
+    "yearDisplay": "1951",
+    "noteZh": "以格言和短章形式书写被损害生活的伦理经验。"
+  },
+  {
+    "id": "adorno-negative-dialectics",
+    "philosopherId": "adorno",
+    "titleZh": "《否定辩证法》",
+    "titleEn": "Negative Dialectics",
+    "yearDisplay": "1966",
+    "noteZh": "反同一性哲学代表作，主张概念必须承认非同一物。"
+  },
+  {
+    "id": "adorno-aesthetic-theory",
+    "philosopherId": "adorno",
+    "titleZh": "《美学理论》",
+    "titleEn": "Aesthetic Theory",
+    "yearDisplay": "1970 posthumous",
+    "noteZh": "以现代艺术的自律和社会性分析艺术真理内容。"
+  },
+  {
+    "id": "adorno-philosophy-new-music",
+    "philosopherId": "adorno",
+    "titleZh": "《新音乐哲学》",
+    "titleEn": "Philosophy of New Music",
+    "yearDisplay": "1949",
+    "noteZh": "通过勋伯格和斯特拉文斯基讨论现代音乐与社会形式。"
+  },
+  {
+    "id": "adorno-authoritarian-personality",
+    "philosopherId": "adorno",
+    "titleZh": "《权威主义人格》",
+    "titleEn": "The Authoritarian Personality",
+    "yearDisplay": "1950",
+    "noteZh": "合作社会心理学研究，分析反民主人格倾向。"
+  },
+  {
+    "id": "benjamin-work-art-mechanical-reproduction",
+    "philosopherId": "benjamin",
+    "titleZh": "《机械复制时代的艺术作品》",
+    "titleEn": "The Work of Art in the Age of Mechanical Reproduction",
+    "yearDisplay": "1935/1936",
+    "noteZh": "提出灵韵、复制技术和政治化艺术等核心问题。"
+  },
+  {
+    "id": "benjamin-theses-history",
+    "philosopherId": "benjamin",
+    "titleZh": "《论历史概念》",
+    "titleEn": "On the Concept of History",
+    "yearDisplay": "1940",
+    "noteZh": "以历史天使和弥赛亚时间批判进步主义历史观。"
+  },
+  {
+    "id": "benjamin-arcades-project",
+    "philosopherId": "benjamin",
+    "titleZh": "《拱廊计划》",
+    "titleEn": "The Arcades Project",
+    "yearDisplay": "1927–1940 / posthumous",
+    "noteZh": "通过巴黎拱廊、商品和碎片材料分析十九世纪资本主义梦境。"
+  },
+  {
+    "id": "benjamin-origin-german-tragic-drama",
+    "philosopherId": "benjamin",
+    "titleZh": "《德国悲剧的起源》",
+    "titleEn": "The Origin of German Tragic Drama",
+    "yearDisplay": "1928",
+    "noteZh": "讨论巴洛克悲剧、寓言和主权者形象。"
+  },
+  {
+    "id": "benjamin-goethes-elective-affinities",
+    "philosopherId": "benjamin",
+    "titleZh": "《歌德〈亲和力〉》",
+    "titleEn": "Goethe's Elective Affinities",
+    "yearDisplay": "1922",
+    "noteZh": "文学批评论文，区分事实内容与真理内容。"
+  },
+  {
+    "id": "benjamin-task-translator",
+    "philosopherId": "benjamin",
+    "titleZh": "《译者的任务》",
+    "titleEn": "The Task of the Translator",
+    "yearDisplay": "1923",
+    "noteZh": "讨论纯语言、译本和原作生命延续。"
+  },
+  {
+    "id": "cohen-kants-theory-experience",
+    "philosopherId": "cohen",
+    "titleZh": "《康德的经验理论》",
+    "titleEn": "Kant's Theory of Experience",
+    "yearDisplay": "1871 / 1885",
+    "noteZh": "马堡新康德主义开端性著作，重释康德经验问题。"
+  },
+  {
+    "id": "cohen-logic-pure-knowledge",
+    "philosopherId": "cohen",
+    "titleZh": "《纯粹认识逻辑》",
+    "titleEn": "Logic of Pure Knowledge",
+    "yearDisplay": "1902",
+    "noteZh": "系统哲学第一部，以科学认识和生成逻辑为中心。"
+  },
+  {
+    "id": "cohen-ethics-pure-will",
+    "philosopherId": "cohen",
+    "titleZh": "《纯粹意志伦理学》",
+    "titleEn": "Ethics of Pure Will",
+    "yearDisplay": "1904",
+    "noteZh": "把康德伦理学发展为法、共同体和社会正义理论。"
+  },
+  {
+    "id": "cohen-aesthetics-pure-feeling",
+    "philosopherId": "cohen",
+    "titleZh": "《纯粹情感美学》",
+    "titleEn": "Aesthetics of Pure Feeling",
+    "yearDisplay": "1912",
+    "noteZh": "系统哲学的美学部分，讨论艺术与纯粹情感。"
+  },
+  {
+    "id": "cohen-religion-reason-judaism",
+    "philosopherId": "cohen",
+    "titleZh": "《出自犹太教源泉的理性宗教》",
+    "titleEn": "Religion of Reason out of the Sources of Judaism",
+    "yearDisplay": "1919 posthumous",
+    "noteZh": "晚期犹太宗教哲学代表作，连接理性、伦理和一神教。"
+  },
+  {
+    "id": "cohen-concept-religion-system-philosophy",
+    "philosopherId": "cohen",
+    "titleZh": "《哲学体系中的宗教概念》",
+    "titleEn": "The Concept of Religion in the System of Philosophy",
+    "yearDisplay": "1915",
+    "noteZh": "说明宗教在其系统哲学中与伦理和理性的关系。"
+  },
+  {
+    "id": "eckhart-german-sermons",
+    "philosopherId": "eckhart",
+    "titleZh": "德语讲道集",
+    "titleEn": "German Sermons",
+    "yearDisplay": "14th c.",
+    "noteZh": "埃克哈特德语讲道传统，用于离执、灵魂贫乏和神在灵魂中诞生等主题。"
+  },
+  {
+    "id": "eckhart-latin-works",
+    "philosopherId": "eckhart",
+    "titleZh": "拉丁著作集",
+    "titleEn": "Latin Works",
+    "yearDisplay": "14th c.",
+    "noteZh": "包含拉丁讲道、注释和神学论辩材料，用于其经院概念背景。"
+  },
+  {
+    "id": "eckhart-book-divine-consolation",
+    "philosopherId": "eckhart",
+    "titleZh": "神圣安慰书",
+    "titleEn": "The Book of Divine Consolation",
+    "yearDisplay": "c. 1308",
+    "noteZh": "讨论苦难、安慰和内在转化，体现其灵魂训练维度。"
+  },
+  {
+    "id": "eckhart-talks-instruction",
+    "philosopherId": "eckhart",
+    "titleZh": "教诲谈话",
+    "titleEn": "Talks of Instruction",
+    "yearDisplay": "c. 1294–1298",
+    "noteZh": "面向修会生活的实践文本，集中呈现离执与顺服训练。"
+  },
+  {
+    "id": "eckhart-parisian-questions",
+    "philosopherId": "eckhart",
+    "titleZh": "巴黎问题集",
+    "titleEn": "Parisian Questions",
+    "yearDisplay": "1302–1303",
+    "noteZh": "体现埃克哈特在巴黎大学语境中处理存在、认识和神学问题的经院侧面。"
+  },
+  {
+    "id": "cusa-learned-ignorance",
+    "philosopherId": "cusa",
+    "titleZh": "有学问的无知",
+    "titleEn": "On Learned Ignorance",
+    "originalTitle": "De docta ignorantia",
+    "yearDisplay": "1440",
+    "noteZh": "库萨代表作，提出有学问的无知、对立相合和无限最大者。"
+  },
+  {
+    "id": "cusa-conjectures",
+    "philosopherId": "cusa",
+    "titleZh": "论猜测",
+    "titleEn": "On Conjectures",
+    "originalTitle": "De coniecturis",
+    "yearDisplay": "1441–1442",
+    "noteZh": "说明有限认识只能以有层级的猜测方式接近真理。"
+  },
+  {
+    "id": "cusa-vision-god",
+    "philosopherId": "cusa",
+    "titleZh": "论神之视觉",
+    "titleEn": "The Vision of God",
+    "originalTitle": "De visione Dei",
+    "yearDisplay": "1453",
+    "noteZh": "通过全视圣像实验讨论视角、观看和神圣无限。"
+  },
+  {
+    "id": "cusa-peace-faith",
+    "philosopherId": "cusa",
+    "titleZh": "论信仰和平",
+    "titleEn": "On the Peace of Faith",
+    "originalTitle": "De pace fidei",
+    "yearDisplay": "1453",
+    "noteZh": "以多宗教对话方式讨论差异中的信仰统一。"
+  },
+  {
+    "id": "cusa-beryl",
+    "philosopherId": "cusa",
+    "titleZh": "绿柱石",
+    "titleEn": "The Beryl",
+    "originalTitle": "De beryllo",
+    "yearDisplay": "1458",
+    "noteZh": "以光学隐喻继续讨论理智之眼、比例和认识界限。"
+  },
+  {
+    "id": "vico-new-science",
+    "philosopherId": "vico",
+    "titleZh": "新科学",
+    "titleEn": "The New Science",
+    "originalTitle": "Scienza nuova",
+    "yearDisplay": "1725 / 1730 / 1744",
+    "noteZh": "维柯成熟代表作，提出民族世界、诗性智慧、历史循环和 verum factum 原则。"
+  },
+  {
+    "id": "vico-study-methods",
+    "philosopherId": "vico",
+    "titleZh": "论我们时代的研究方法",
+    "titleEn": "On the Study Methods of Our Time",
+    "originalTitle": "De nostri temporis studiorum ratione",
+    "yearDisplay": "1709",
+    "noteZh": "批评单一化笛卡尔方法，捍卫修辞、法学、历史和实践判断。"
+  },
+  {
+    "id": "vico-ancient-wisdom",
+    "philosopherId": "vico",
+    "titleZh": "意大利人的古代智慧",
+    "titleEn": "On the Most Ancient Wisdom of the Italians",
+    "originalTitle": "De antiquissima Italorum sapientia",
+    "yearDisplay": "1710",
+    "noteZh": "阐发真理与制作的关系，是 verum factum 公式的重要文本。"
+  },
+  {
+    "id": "vico-universal-law",
+    "philosopherId": "vico",
+    "titleZh": "普遍法",
+    "titleEn": "Universal Law",
+    "originalTitle": "Diritto universale",
+    "yearDisplay": "1720–1722",
+    "noteZh": "讨论法律、民族和历史制度生成，为《新科学》提供法学背景。"
+  },
+  {
+    "id": "vico-autobiography",
+    "philosopherId": "vico",
+    "titleZh": "自传",
+    "titleEn": "Autobiography",
+    "yearDisplay": "1725–1728",
+    "noteZh": "呈现维柯对自身学术道路和方法论处境的回顾。"
+  },
+  {
+    "id": "herder-origin-language",
+    "philosopherId": "herder",
+    "titleZh": "论语言的起源",
+    "titleEn": "Treatise on the Origin of Language",
+    "originalTitle": "Abhandlung über den Ursprung der Sprache",
+    "yearDisplay": "1772",
+    "noteZh": "赫尔德语言哲学代表作，反对把语言起源还原为机械声音或神授成品。"
+  },
+  {
+    "id": "herder-another-philosophy-history",
+    "philosopherId": "herder",
+    "titleZh": "另一种历史哲学",
+    "titleEn": "Another Philosophy of History",
+    "originalTitle": "Auch eine Philosophie der Geschichte",
+    "yearDisplay": "1774",
+    "noteZh": "批判启蒙进步叙事，强调时代和民族的内在尺度。"
+  },
+  {
+    "id": "herder-ideas-history-humanity",
+    "philosopherId": "herder",
+    "titleZh": "人类历史哲学观念",
+    "titleEn": "Ideas for the Philosophy of History of Humanity",
+    "originalTitle": "Ideen zur Philosophie der Geschichte der Menschheit",
+    "yearDisplay": "1784–1791",
+    "noteZh": "系统呈现自然、人类、文化和历史发展的整体图景。"
+  },
+  {
+    "id": "herder-letters-humanity",
+    "philosopherId": "herder",
+    "titleZh": "促进人道的书信",
+    "titleEn": "Letters for the Advancement of Humanity",
+    "yearDisplay": "1793–1797",
+    "noteZh": "晚期人道主义文本，讨论教育、文化多样性和历史判断。"
+  },
+  {
+    "id": "herder-critical-forests",
+    "philosopherId": "herder",
+    "titleZh": "批评森林",
+    "titleEn": "Critical Forests",
+    "originalTitle": "Kritische Wälder",
+    "yearDisplay": "1769",
+    "noteZh": "早期美学与批评文本，回应莱辛等人的诗学和艺术判断问题。"
+  },
+{"id":"iqbal-reconstruction","philosopherId":"iqbal","titleZh":"《伊斯兰宗教思想的重构》","titleEn":"The Reconstruction of Religious Thought in Islam","yearDisplay":"1930 / 1934","noteZh":"伊克巴尔英文讲稿结集，集中讨论宗教经验、上帝、祈祷、自我、伊斯兰文化和法的运动原则。"},
+{"id":"iqbal-asrar-i-khudi","philosopherId":"iqbal","titleZh":"《自我的秘密》","titleEn":"The Secrets of the Self","originalTitle":"Asrār-i Khudī","yearDisplay":"1915","noteZh":"以诗性哲学形式阐发 khudi 自我、行动、爱与人格强化。"},
+{"id":"iqbal-rumuz-i-bekhudi","philosopherId":"iqbal","titleZh":"《无我之奥秘》","titleEn":"The Secrets of Selflessness","originalTitle":"Rumūz-i Bekhudī","yearDisplay":"1918","noteZh":"把个体自我放入共同体、律法和历史使命中讨论。"},
+{"id":"iqbal-javid-nama","philosopherId":"iqbal","titleZh":"《贾维德书》","titleEn":"Javid Nama","yearDisplay":"1932","noteZh":"以宇宙旅行诗体表达灵魂上升、文明批判和宗教政治想象。"},
+{"id":"iqbal-development-metaphysics-persia","philosopherId":"iqbal","titleZh":"《波斯形而上学的发展》","titleEn":"The Development of Metaphysics in Persia","yearDisplay":"1908","noteZh":"早期学术著作，梳理波斯与伊斯兰哲学中的形而上学线索。"},
+{"id":"dharmakirti-pramanavarttika","philosopherId":"dharmakirti","titleZh":"《量评释》","titleEn":"Commentary on Valid Cognition","originalTitle":"Pramāṇavārttika","yearDisplay":"7th c.","noteZh":"法称最重要论书，围绕陈那《集量论》发展量论、语言、逻辑和佛陀权威论证。"},
+{"id":"dharmakirti-pramanaviniscaya","philosopherId":"dharmakirti","titleZh":"《定量论》","titleEn":"Ascertainment of Valid Cognition","originalTitle":"Pramāṇaviniścaya","yearDisplay":"7th c.","noteZh":"系统整理现量、比量和认识可靠性问题，是《量评释》后续精炼文本。"},
+{"id":"dharmakirti-nyayabindu","philosopherId":"dharmakirti","titleZh":"《正理滴论》","titleEn":"Drop of Reasoning","originalTitle":"Nyāyabindu","yearDisplay":"7th c.","noteZh":"简明呈现因明与推理结构，后来在印度和藏传传统中广泛注释。"},
+{"id":"dharmakirti-hetubindu","philosopherId":"dharmakirti","titleZh":"《因滴论》","titleEn":"Drop of Logical Reasons","originalTitle":"Hetubindu","yearDisplay":"7th c.","noteZh":"集中处理因、遍充和有效理由，为推理论证提供技术基础。"},
+{"id":"dharmakirti-santanantarasiddhi","philosopherId":"dharmakirti","titleZh":"《他相续成立论》","titleEn":"Proof of Other Minds","originalTitle":"Saṃtānāntarasiddhi","yearDisplay":"7th c.","noteZh":"回应唯识语境中的他心问题，说明如何避免滑向唯我论。"},
+{"id":"shinran-kyogyoshinsho","philosopherId":"shinran","titleZh":"《教行信证》","titleEn":"The True Teaching, Practice, and Realization of the Pure Land Way","originalTitle":"Kyōgyōshinshō","yearDisplay":"c. 1224","noteZh":"亲鸾代表作，按教、行、信、证、真佛土、化身土组织净土真宗教义。"},
+{"id":"shinran-tannisho","philosopherId":"shinran","titleZh":"《叹异抄》","titleEn":"A Record in Lament of Divergences","yearDisplay":"late 13th c.","noteZh":"由弟子唯圆整理的亲鸾语录传统，集中呈现恶人正机、他力与异义辨析。"},
+{"id":"shinran-jodo-wasan","philosopherId":"shinran","titleZh":"《净土和赞》","titleEn":"Hymns of the Pure Land","originalTitle":"Jōdo Wasan","yearDisplay":"13th c.","noteZh":"以和赞形式表达阿弥陀本愿、净土庄严和信心体验。"},
+{"id":"shinran-notes-faith-alone","philosopherId":"shinran","titleZh":"《唯信钞文意》","titleEn":"Notes on Essentials of Faith Alone","yearDisplay":"13th c.","noteZh":"解释信心、他力与名号意义，是亲鸾后期教义阐释的重要文本。"},
+{"id":"shinran-lamp-latter-ages","philosopherId":"shinran","titleZh":"《末灯钞》","titleEn":"Lamp for the Latter Ages","yearDisplay":"13th c.","noteZh":"亲鸾书信集传统，反映晚年对教团、异义和信心实践的回应。"},
+{"id":"cheng-yi-yichuan-yizhuan","philosopherId":"cheng-yi","titleZh":"《伊川易传》","titleEn":"Yichuan Commentary on the Book of Changes","originalTitle":"伊川易传","yearDisplay":"Northern Song","noteZh":"程颐对《易》的义理阐释，体现以理解释经典和宇宙秩序的方向。"},
+{"id":"cheng-yi-wenji","philosopherId":"cheng-yi","titleZh":"《伊川文集》","titleEn":"Collected Writings of Yichuan","originalTitle":"伊川文集","yearDisplay":"Northern Song","noteZh":"收录程颐书信、奏议和论说，提供政治伦理与修养论材料。"},
+{"id":"cheng-brothers-surviving-works","philosopherId":"cheng-yi","titleZh":"《二程遗书》","titleEn":"Surviving Works of the Cheng Brothers","originalTitle":"二程遗书","yearDisplay":"compiled Song-Yuan","noteZh":"程门语录与讲学材料，朱熹整理后成为理解二程理学的关键文本。"},
+{"id":"cheng-brothers-classified-sayings","philosopherId":"cheng-yi","titleZh":"《二程外书》","titleEn":"Additional Works of the Cheng Brothers","originalTitle":"二程外书","yearDisplay":"compiled Song-Yuan","noteZh":"补充程氏兄弟语录与问答，呈现敬、格物、性理等问题。"},
+{"id":"cheng-yi-henan-collected","philosopherId":"cheng-yi","titleZh":"《河南程氏粹言》","titleEn":"Essential Sayings of the Chengs of Henan","originalTitle":"河南程氏粹言","yearDisplay":"compiled tradition","noteZh":"后出程氏语录选编，反映程颐思想在朱子学传统中的整理方式。"}
 ]

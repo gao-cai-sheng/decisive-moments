@@ -1,0 +1,291 @@
+{
+  "id": "herder",
+  "names": {
+    "zh": "赫尔德",
+    "en": "Johann Gottfried Herder"
+  },
+  "life": {
+    "birth": 1744,
+    "death": 1803,
+    "display": "1744—1803"
+  },
+  "civilization": "european_modern",
+  "traditions": [
+    "historicism",
+    "philosophy_of_language",
+    "romanticism"
+  ],
+  "periods": [
+    "expansion_b2"
+  ],
+  "themes": [
+    "language",
+    "politics",
+    "aesthetics"
+  ],
+  "keywordsZh": [
+    "语言起源",
+    "民族精神",
+    "历史主义",
+    "人道",
+    "文化多样性"
+  ],
+  "oneLineZh": "以语言、民族精神和历史个体性批判抽象普遍主义，塑造德国历史主义与浪漫主义前史。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "赫尔德把语言起源、民族文化和历史发展理解为有机生成过程，反对以单一文明尺度衡量人类多样经验。",
+  "works": [
+    "herder-origin-language",
+    "herder-another-philosophy-history",
+    "herder-ideas-history-humanity",
+    "herder-letters-humanity",
+    "herder-critical-forests"
+  ],
+  "sourceNotes": [
+    {
+      "label": "Primary corpus note",
+      "noteZh": "本批以语言论文、历史哲学文本和人道书信为主要依据。"
+    }
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "herder:problem:001",
+        "titleZh": "语言起源与人类能力",
+        "questionZh": "赫尔德为什么把语言看成人类反思能力和文化形成的核心？",
+        "summaryZh": "赫尔德反对把语言起源解释为机械声音或一次性神授，而把语言理解为人类反思和世界分节的能力。",
+        "themeIds": [
+          "language",
+          "knowledge"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "herder:claim:001",
+            "titleZh": "语言源于人的反思性标记能力",
+            "claimZh": "人通过注意、区分和命名把经验组织成可共享世界，语言因此是人类特有反思能力的展开。",
+            "explanationZh": "这条主张把语言哲学与人类学连接起来，避免把语言还原为动物叫声的复杂化。",
+            "themeIds": [
+              "language",
+              "knowledge"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "herder:evidence:001",
+                "titleZh": "《论语言的起源》论 Besonnenheit",
+                "summaryZh": "赫尔德用反思性和审慎注意说明人能够从感性流中抓住特征，并把声音转化为有意义的标记。",
+                "source": {
+                  "workId": "herder-origin-language",
+                  "locator": "Treatise on the Origin of Language, discussion of Besonnenheit and marking features",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "herder:evidence:002",
+                "titleZh": "语言论文反对机械模仿说",
+                "summaryZh": "文本批评把语言解释成自然叫声累积的方案，指出人类语言依赖判断、记忆和共同指认，而非声音数量增加。",
+                "source": {
+                  "workId": "herder-origin-language",
+                  "locator": "Treatise on the Origin of Language, critique of animal-sound and imitation accounts",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "herder:claim:002",
+            "titleZh": "语言塑造民族经验而非附着于思想之后",
+            "claimZh": "语言不是思想完成后的外壳，而是民族记忆、感情和判断方式得以形成的媒介。",
+            "explanationZh": "这使赫尔德成为语言相对性和文化历史主义的重要前驱，但他并未主张各民族不可交流。",
+            "themeIds": [
+              "language",
+              "politics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "herder:evidence:003",
+                "titleZh": "《人类历史哲学观念》论语言与民族",
+                "summaryZh": "赫尔德把语言放入气候、习俗、教育和历史记忆的网络中，说明民族经验通过语言长期成形。",
+                "source": {
+                  "workId": "herder-ideas-history-humanity",
+                  "locator": "Ideas for the Philosophy of History of Humanity, books on language, peoples, and historical formation",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "herder:evidence:004",
+                "titleZh": "《促进人道的书信》论语言教育",
+                "summaryZh": "书信把语言、教育和人道形成相连，强调文化传承不是抽象灌输，而是通过母语和共同记忆完成。",
+                "source": {
+                  "workId": "herder-letters-humanity",
+                  "locator": "Letters for the Advancement of Humanity, letters on language, education, and humanity",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "herder:problem:002",
+        "titleZh": "历史个体性与反抽象进步论",
+        "questionZh": "赫尔德如何批判用单一进步尺度评价所有时代和民族？",
+        "summaryZh": "他主张每个时代和民族都有自己的内在重心，历史理解必须先进入其生活条件和意义世界。",
+        "themeIds": [
+          "politics",
+          "knowledge"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "herder:claim:003",
+            "titleZh": "每个时代有自身幸福中心",
+            "claimZh": "历史时代不能只按后来欧洲理性标准排列高低，因为每个时代都有自己的生活重心和价值尺度。",
+            "explanationZh": "这条主张构成赫尔德反启蒙单线进步论的核心，也为后来历史主义提供方法论资源。",
+            "themeIds": [
+              "knowledge",
+              "politics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "herder:evidence:005",
+                "titleZh": "《另一种历史哲学》论时代中心",
+                "summaryZh": "文本批评后人用自己的尺度轻蔑古代和东方社会，要求从各时代自身需要和感受理解其意义。",
+                "source": {
+                  "workId": "herder-another-philosophy-history",
+                  "locator": "Another Philosophy of History, critique of judging ages by later Enlightenment standards",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "herder:evidence:006",
+                "titleZh": "《人类历史哲学观念》论多样人类形态",
+                "summaryZh": "赫尔德把自然环境、生活方式和历史传承结合起来，呈现人类发展的多样路径而非单一阶梯。",
+                "source": {
+                  "workId": "herder-ideas-history-humanity",
+                  "locator": "Ideas for the Philosophy of History of Humanity, books on climate, peoples, and varied development",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "herder:claim:004",
+            "titleZh": "人道理想要求承认文化差异",
+            "claimZh": "真正的人道不是抹平民族差异，而是在差异中发展同情、教育和相互理解。",
+            "explanationZh": "赫尔德的文化多元论并非简单相对主义；他用人道概念为比较和批判保留规范方向。",
+            "themeIds": [
+              "ethics",
+              "politics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "herder:evidence:007",
+                "titleZh": "《促进人道的书信》论 Humanität",
+                "summaryZh": "书信把人道描述为通过教育、诗歌、历史记忆和公共情感培养出来的能力，而非抽象口号。",
+                "source": {
+                  "workId": "herder-letters-humanity",
+                  "locator": "Letters for the Advancement of Humanity, letters on Humanität and cultivation",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "herder:evidence:008",
+                "titleZh": "《另一种历史哲学》反对文明傲慢",
+                "summaryZh": "赫尔德讽刺自命开明的欧洲判断，把所谓野蛮民族重新放回其生活条件和历史贡献中考察。",
+                "source": {
+                  "workId": "herder-another-philosophy-history",
+                  "locator": "Another Philosophy of History, passages against enlightened contempt for other peoples",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "herder:problem:003",
+        "titleZh": "诗歌、民族精神与审美判断",
+        "questionZh": "赫尔德为什么把诗歌和民歌视为理解民族历史的关键材料？",
+        "summaryZh": "他认为诗歌保存民族感受和语言节奏，审美材料因此能揭示抽象政治史看不见的生活世界。",
+        "themeIds": [
+          "aesthetics",
+          "language"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "herder:claim:005",
+            "titleZh": "诗歌是民族感受的历史档案",
+            "claimZh": "民歌和诗歌不只是审美对象，也保存一个民族如何感受自然、战争、爱情、死亡和共同记忆。",
+            "explanationZh": "这条主张把美学材料变成历史理解的证据，使赫尔德不同于只研究制度和事件的历史书写。",
+            "themeIds": [
+              "aesthetics",
+              "language"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "herder:evidence:009",
+                "titleZh": "《批评森林》论诗歌和感性判断",
+                "summaryZh": "早期批评文本把诗歌理解为感性、历史和语言力量交织的形式，反对把审美判断化为冷抽象规则。",
+                "source": {
+                  "workId": "herder-critical-forests",
+                  "locator": "Critical Forests, essays on poetry, criticism, and sensuous judgment",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "herder:evidence:010",
+                "titleZh": "《促进人道的书信》论诗与民族记忆",
+                "summaryZh": "书信强调诗歌和历史叙述能培养共同情感，使民族记忆不只是年代事实，而成为人道教育材料。",
+                "source": {
+                  "workId": "herder-letters-humanity",
+                  "locator": "Letters for the Advancement of Humanity, letters on poetry, history, and national memory",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "herder:claim:006",
+            "titleZh": "审美批评必须尊重作品的历史语言",
+            "claimZh": "评价文学作品不能脱离其语言、时代和民族表达方式，否则批评会把活的作品压成普遍规则实例。",
+            "explanationZh": "这条主张把赫尔德的语言哲学、历史主义和美学批评连成一体，也解释他对古典主义规则的警惕。",
+            "themeIds": [
+              "aesthetics",
+              "knowledge"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "herder:evidence:011",
+                "titleZh": "《批评森林》回应规则化批评",
+                "summaryZh": "赫尔德批评只按固定规范评价诗歌的方式，要求批评进入作品自身语言和民族感受结构，再判断其历史力量。",
+                "source": {
+                  "workId": "herder-critical-forests",
+                  "locator": "Critical Forests, critique of rule-based literary judgment and abstract taste",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "herder:evidence:012",
+                "titleZh": "《论语言的起源》对诗性表达的基础说明",
+                "summaryZh": "语言论文把人类命名能力和感性分节相连，为诗歌为何能呈现民族经验提供语言哲学基础。",
+                "source": {
+                  "workId": "herder-origin-language",
+                  "locator": "Treatise on the Origin of Language, sections on naming, marks, and sensuous articulation",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

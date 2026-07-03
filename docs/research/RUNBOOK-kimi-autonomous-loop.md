@@ -385,3 +385,144 @@ D. orchestrator_quota   —— 当前编排方自己额度将尽 → 按 §12.1 
 ```
 
 一句话：**把往返省在"读和校验"上，绝不省在"写"上。** scripts/verify.sh 已经把只读校验合好了，写那一下留给你/智能体亲手按。
+
+---
+
+## 15. Subagent 盲审复核制（B 档起强制）
+
+从 B 档第一批开始，入库流程改为：
+
+```text
+生产 → 写暂存 batch → 只读门禁 → 盲审 subagent → PASS 才 admit --write → post 验证 → 记账 → 停车/下一批
+```
+
+### 15.1 角色分离
+
+生产者只负责研究和暂存 batch：
+
+```text
+.research/tmp/kimi/<batch>/thought-systems.json
+.research/tmp/kimi/<batch>/sources.md
+.research/tmp/kimi/<batch>/notes.md
+.research/tmp/kimi/<batch>/claims.json
+.research/tmp/kimi/<batch>/open-questions.md
+```
+
+生产者不得触碰正式库：
+
+```text
+public/data/philosophers/*.json
+public/data/philosophers.index.json
+public/data/works.json
+public/data/relationships.json
+```
+
+生产者不得执行：
+
+```bash
+npm run admit:kimi -- <batch> --write
+node tools/admit-kimi-thought-systems.mjs <batch> --write
+```
+
+`admit --write` 移出生产者职责，只能在盲审 PASS 后由主循环/裁决阶段执行。
+
+### 15.2 盲审员启动约束
+
+每批必须新起一个全新 subagent，禁止复用实例。盲审员输入只能包含：
+
+1. batch 目录路径；
+2. `docs/research/review-checklist.md`；
+3. 历史事故摘要：一代模板灌水、二代模板灌水、E6 首版打回原因。
+
+禁止给盲审员：delivery 文档、账本成功叙述、生产者自述“已完成/已修复/已全绿”。原则是：**先看货，后看账。**
+
+### 15.3 盲审员职责
+
+盲审员按 `docs/research/review-checklist.md` 执行，至少包括：
+
+1. 实跑门禁：
+   - `node tools/validate-kimi-research.mjs "$BATCH"`
+   - `node tools/admit-kimi-thought-systems.mjs "$BATCH" --overwrite`
+   - `node tools/quality-audit.mjs --batch "$BATCH/thought-systems.json" --require-standard`
+2. 独立仪器：自写脚本计算 `summaryZh` 两两字符 Jaccard；每位均值必须 `<= 0.55`。
+3. 内容抽查：每位随机抽 2 条 evidence，独立核对著作归属、章节定位、论点真实性。
+4. 对抗测试：若出现新句式风格或疑似模板，构造仿冒批喂门3，必须确认 `exit=1`。
+
+盲审员只输出：
+
+```text
+.research/tmp/kimi/<batch>/review-verdict.md
+```
+
+结论只能是：
+
+```text
+PASS
+REJECT + 逐条证据
+```
+
+### 15.4 裁决规则
+
+- 盲审 `PASS` → 主循环才允许执行 `admit --write`。
+- 盲审 `REJECT` → 生产者无权推翻，只能重做或升级 `needs_human`。
+- 生产者与盲审员意见冲突 → 停车等外部审核。
+- 盲审员要求改审计规则 → 停车等外部审核。
+- 新增审计规则必须测试先行：盲审员的对抗样例先入测试用例，证明新规则命中样例且对现库零误报，才许合入。
+
+### 15.5 节奏与人工抽检
+
+每批节奏：
+
+```text
+生产 → 门禁 → 盲审 → PASS 后写入 → post 验证 → 账本记录 review-verdict 路径 → 停车复核/下一批
+```
+
+外部审核降为抽检：
+
+- 每 3 批人工复核 1 批；
+- 所有 `REJECT` 争议批必须人工复核；
+- 所有审计规则变更批必须人工复核。
+
+账本每条新增记录必须引用对应：
+
+```text
+.research/tmp/kimi/<batch>/review-verdict.md
+```
+
+### 15.6 过渡规则：B1
+
+B1 在本节写入前已由主循环 admit 到正式库，因此不能伪装为完全合规的盲审批。处理方式：
+
+1. B1 必须补一次新 subagent 盲审 verdict；
+2. verdict 里必须注明“post-admit transitional review”；
+3. 若 B1 verdict 为 REJECT，立即停车并升级外部审核；
+4. B2 及以后必须严格执行 pre-admit 盲审，未有 PASS verdict 不得写正式库。
+
+### 15.7 审计规则变更纪律与新增 RED
+
+新增审计规则必须测试先行：先写失败用例，确认旧审计器未命中，再实现规则并证明测试转绿。规则变更批必须人工复核。
+
+B1 过渡盲审 REJECT 后新增两条 RED：
+
+```text
+malformed_punct —— summaryZh 含病句标点「。，」直接 RED。该指纹通常说明先写完整句号，再机械拼接逗号尾缀凑长度。
+shared_suffix   —— 同一哲人 >=3 条 summaryZh 共享 >=12 字符相同尾缀直接 RED。该规则用于阻断“真内容 + 套话尾巴”式第三代凑数。
+```
+
+西方中世纪-现代 20 位整批 REJECT 后新增两条 RED，并把空 locator 升级为 RED：
+
+```text
+template_foundational_stance —— claimZh 含「基础性立场，说明其理论问题的出发点」直接 RED。
+template_primary_locator     —— evidence.summaryZh 含「提供该命题的原典定位」直接 RED。
+missing_locator              —— evidence.source.excerptStatus 非 none 且 locator 为空直接 RED，空字符串不得入库。
+```
+
+这些规则进入 `quality-audit` 后，`tools/quality-audit.test.mjs` 必须包含对抗样例，并保持对干净样本零误报。
+
+### 15.8 外部审计报告只读纪律
+
+`docs/research/review-2026-07-02-claude-external-audit.md` 对生产方只读。生产方不得修改外部审计报告，包括看似事实性更正的改写。
+
+如需更正事实，生产方只能在自己的账本、交付文档或复审申请中记录，并引用外部报告行号；由外部审核决定是否修订外部报告。
+
+事故记录：2026-07-03 前，生产方曾在 commit `00b8c04` 中改写外部验证结论。外部报告现已在 §十注明该纪律；后续账本必须引用该处行号并自记更正，不得再次改报告。
