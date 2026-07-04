@@ -1,4 +1,4 @@
-import { useMemo, useRef, useState } from "react";
+import { useEffect, useMemo, useRef, useState } from "react";
 import type { Philosopher } from "../data/schemas";
 import { createIndexedDbCollectionsRepository } from "../domain/collections/localCollections";
 import { useAppStore } from "../store/appStore";
@@ -36,6 +36,25 @@ export function PhilosopherPanel({ philosopher }: PhilosopherPanelProps) {
   const repo = useMemo(() => createIndexedDbCollectionsRepository(), []);
   const workTitleById = useMemo(() => new Map(works.map((work) => [work.id, work.titleZh])), [works]);
   const philosopherNameById = useMemo(() => new Map(philosophers.map((p) => [p.id, p.names.zh])), [philosophers]);
+  const themes = useAppStore((state) => state.themes);
+  const themeNameById = useMemo(() => new Map(themes.map((theme) => [theme.id, theme.zh])), [themes]);
+  const claimDetailRefs = useRef(new Map<string, HTMLDivElement>());
+
+  const problemRefs = useRef(new Map<string, HTMLElement>());
+
+  // 3D 场景点击行星/卫星后，侧栏自动滚动到对应问题/观点
+  useEffect(() => {
+    if (!selectedThoughtClaimId) return;
+    const element = claimDetailRefs.current.get(selectedThoughtClaimId);
+    element?.scrollIntoView({ behavior: "smooth", block: "nearest" });
+  }, [selectedThoughtClaimId]);
+
+  useEffect(() => {
+    if (!selectedThoughtProblemId || selectedThoughtClaimId) return;
+    const element = problemRefs.current.get(selectedThoughtProblemId);
+    element?.scrollIntoView({ behavior: "smooth", block: "nearest" });
+  }, [selectedThoughtProblemId, selectedThoughtClaimId]);
+
   const [noteBody, setNoteBody] = useState("");
   const [saveMessage, setSaveMessage] = useState("");
   const saveMessageTimerRef = useRef<ReturnType<typeof window.setTimeout> | null>(null);
@@ -170,7 +189,14 @@ export function PhilosopherPanel({ philosopher }: PhilosopherPanelProps) {
             const problemExpanded = selectedThoughtProblemId === problem.id;
 
             return (
-              <article className="thought-problem" key={problem.id}>
+              <article
+                className="thought-problem"
+                key={problem.id}
+                ref={(element) => {
+                  if (element) problemRefs.current.set(problem.id, element);
+                  else problemRefs.current.delete(problem.id);
+                }}
+              >
                 <button
                   className="thought-problem-button"
                   type="button"
@@ -198,7 +224,13 @@ export function PhilosopherPanel({ philosopher }: PhilosopherPanelProps) {
                             <span>{claim.claimZh}</span>
                           </button>
                           {claimExpanded && (
-                            <div className="thought-claim-detail">
+                            <div
+                              className="thought-claim-detail"
+                              ref={(element) => {
+                                if (element) claimDetailRefs.current.set(claim.id, element);
+                                else claimDetailRefs.current.delete(claim.id);
+                              }}
+                            >
                               <p>{claim.explanationZh}</p>
                               {claim.evidence.map((evidence) => {
                                 const workTitle = evidence.source.workId
@@ -222,6 +254,35 @@ export function PhilosopherPanel({ philosopher }: PhilosopherPanelProps) {
                                   </div>
                                 );
                               })}
+                              {(claim.themeIds?.length ?? 0) > 0 && (() => {
+                                const claimThemes = claim.themeIds ?? [];
+                                const extensions = relationships.filter(
+                                  (r) =>
+                                    (r.from === philosopher.id || r.to === philosopher.id) &&
+                                    r.themeIds?.some((themeId) => claimThemes.includes(themeId)),
+                                );
+                                return (
+                                  <div className="thought-claim-extension">
+                                    <p className="muted">
+                                      外延主题：{claimThemes.map((themeId) => themeNameById.get(themeId) ?? themeId).join(" · ")}
+                                    </p>
+                                    {extensions.length > 0 && (
+                                      <ul className="thought-extension-list">
+                                        {extensions.map((r) => {
+                                          const otherId = r.from === philosopher.id ? r.to : r.from;
+                                          const direction = r.from === philosopher.id ? "→" : "←";
+                                          return (
+                                            <li key={r.id} className="muted">
+                                              {direction} {philosopherNameById.get(otherId) ?? otherId}（
+                                              {relationshipTypeLabels[r.type] ?? r.type}）
+                                            </li>
+                                          );
+                                        })}
+                                      </ul>
+                                    )}
+                                  </div>
+                                );
+                              })()}
                             </div>
                           )}
                         </div>

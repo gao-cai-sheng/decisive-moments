@@ -1,4 +1,5 @@
 import { Html, Sphere } from "@react-three/drei";
+import { useState } from "react";
 import * as THREE from "three";
 import type { PhilosopherIndexEntry } from "../data/schemas";
 import type { StarLayoutNode } from "../domain/layout/starLayout";
@@ -35,11 +36,35 @@ type PhilosopherStarsProps = {
   philosophers: PhilosopherIndexEntry[];
   layout: StarLayoutNode[];
   selectedId: string | null;
-  onSelect(id: string): void;
+  onSelect(id: string | null): void;
+  surfaceTexture?: THREE.Texture | null;
+  registerStar?(id: string, mesh: THREE.Mesh | null): void;
+  labelsHidden?: boolean;
 };
 
-export function PhilosopherStars({ philosophers, layout, selectedId, onSelect }: PhilosopherStarsProps) {
+export function PhilosopherStars({
+  philosophers,
+  layout,
+  selectedId,
+  onSelect,
+  surfaceTexture,
+  registerStar,
+  labelsHidden = false,
+}: PhilosopherStarsProps) {
   const byId = new Map(philosophers.map((item) => [item.id, item]));
+  const [hoveredId, setHoveredId] = useState<string | null>(null);
+
+  const hoverProps = (id: string) => ({
+    onPointerOver: (event: { stopPropagation(): void }) => {
+      event.stopPropagation();
+      setHoveredId(id);
+      document.body.style.cursor = "pointer";
+    },
+    onPointerOut: () => {
+      setHoveredId((current) => (current === id ? null : current));
+      document.body.style.cursor = "";
+    },
+  });
 
   return (
     <>
@@ -47,8 +72,11 @@ export function PhilosopherStars({ philosophers, layout, selectedId, onSelect }:
         const philosopher = byId.get(node.id);
         if (!philosopher) return null;
         const selected = selectedId === node.id;
+        const focusMode = selectedId !== null;
+        // 聚焦模式下，其余恒星退为置灰背景：不可悬停，点击 = 退出聚焦
+        const dimmed = focusMode && !selected;
         const color = getStarColor(node.colorKey);
-        const showHalo = selected || philosopher.influenceWeight >= 3;
+        const showHalo = selected || (!focusMode && philosopher.influenceWeight >= 3);
         const haloScale = selected ? 4.2 : 1.9;
         const visualRadius = node.radius * (selected ? 1.75 : 0.72);
 
@@ -58,8 +86,9 @@ export function PhilosopherStars({ philosophers, layout, selectedId, onSelect }:
               args={[Math.max(node.radius * 4, 0.34), 10, 10]}
               onClick={(event) => {
                 event.stopPropagation();
-                onSelect(node.id);
+                onSelect(dimmed ? null : node.id);
               }}
+              {...(dimmed ? {} : hoverProps(node.id))}
             >
               <meshBasicMaterial transparent opacity={0} depthWrite={false} />
             </Sphere>
@@ -77,21 +106,29 @@ export function PhilosopherStars({ philosophers, layout, selectedId, onSelect }:
             )}
             <Sphere
               args={[visualRadius, 12, 12]}
+              ref={(mesh) => registerStar?.(node.id, mesh as THREE.Mesh | null)}
               onClick={(event) => {
                 event.stopPropagation();
-                onSelect(node.id);
+                onSelect(dimmed ? null : node.id);
               }}
             >
-              <meshBasicMaterial color={selected ? "#ffe0a0" : color} toneMapped={false} />
+              <meshBasicMaterial
+                color={selected ? "#ffe0a0" : dimmed ? "#4a5058" : color}
+                toneMapped={false}
+                map={dimmed ? undefined : surfaceTexture ?? undefined}
+                transparent={dimmed}
+                opacity={dimmed ? 0.3 : 1}
+              />
             </Sphere>
-            {selected && (
-              <Html center distanceFactor={10}>
+            {!labelsHidden && (selected || (hoveredId === node.id && !dimmed)) && (
+              <Html center distanceFactor={10} position={[0, node.radius * 3.2 + 0.18, 0]}>
                 <span
                   style={{
-                    color: "#ffd27a",
+                    color: selected ? "#ffd27a" : "#e8f0ff",
                     fontSize: 13,
                     whiteSpace: "nowrap",
                     textShadow: "0 1px 12px #000",
+                    pointerEvents: "none",
                   }}
                 >
                   {philosopher.names.zh}

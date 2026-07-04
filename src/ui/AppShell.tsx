@@ -16,6 +16,7 @@ import { Onboarding } from "./Onboarding";
 import { PhilosopherPanel } from "./PhilosopherPanel";
 import { SearchPanel } from "./SearchPanel";
 import { SettingsPanel } from "./SettingsPanel";
+import { ThoughtInfographic } from "./ThoughtInfographic";
 import { TopHud } from "./TopHud";
 
 export function AppShell() {
@@ -55,6 +56,7 @@ export function AppShell() {
       <TopHud />
       <SearchPanel />
       {selectedPhilosopher && <PhilosopherPanel philosopher={selectedPhilosopher} />}
+      {selectedPhilosopher && <ThoughtInfographic philosopher={selectedPhilosopher} />}
       <CollectionsDrawer />
       <SettingsPanel />
       <Onboarding />
