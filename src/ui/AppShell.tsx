@@ -24,6 +24,7 @@ export function AppShell() {
   const loadError = useAppStore((state) => state.loadError);
   const selectedPhilosopherId = useAppStore((state) => state.selectedPhilosopherId);
   const selectedPhilosopher = useAppStore((state) => state.selectedPhilosopher);
+  const selectedThoughtProblemId = useAppStore((state) => state.selectedThoughtProblemId);
   const setBootstrapData = useAppStore((state) => state.setBootstrapData);
   const setLoadError = useAppStore((state) => state.setLoadError);
   const setSelectedPhilosopher = useAppStore((state) => state.setSelectedPhilosopher);
@@ -55,7 +56,8 @@ export function AppShell() {
       <StarScene />
       <TopHud />
       <SearchPanel />
-      {selectedPhilosopher && <PhilosopherPanel philosopher={selectedPhilosopher} />}
+      {/* 信息图打开时隐藏右栏面板，防止其透过半透明遮罩形成鬼影叠字 */}
+      {selectedPhilosopher && !selectedThoughtProblemId && <PhilosopherPanel philosopher={selectedPhilosopher} />}
       {selectedPhilosopher && <ThoughtInfographic philosopher={selectedPhilosopher} />}
       <CollectionsDrawer />
       <SettingsPanel />
