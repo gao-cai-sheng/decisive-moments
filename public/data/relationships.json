@@ -3274,5 +3274,703 @@
     ],
     "noteZh": "恩克鲁玛的非洲社会主义和维雷杜的概念去殖民都面对独立后非洲如何以本土资源重构现代制度的问题。",
     "reviewStatus": "draft"
+  },
+  {
+    "id": "anscombe-macintyre-influence",
+    "from": "anscombe",
+    "to": "macintyre",
+    "type": "influence",
+    "strength": 3,
+    "confidence": "high",
+    "themeIds": [
+      "ethics"
+    ],
+    "noteZh": "安斯康姆对现代道德义务语言的批判为麦金太尔复兴德性伦理提供关键前提。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "aristotle-macintyre-reception",
+    "from": "aristotle",
+    "to": "macintyre",
+    "type": "reception",
+    "strength": 3,
+    "confidence": "high",
+    "themeIds": [
+      "ethics",
+      "politics"
+    ],
+    "noteZh": "麦金太尔在德性、实践和目的论问题上明确重读亚里士多德传统，并将其置入现代性批判。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "rawls-macintyre-critique",
+    "from": "macintyre",
+    "to": "rawls",
+    "type": "critique",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "justice",
+      "politics"
+    ],
+    "noteZh": "麦金太尔批判自由主义正义理论脱离具体传统和共同体实践，构成罗尔斯语境的对手盘。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "nussbaum-macintyre-shared_problem",
+    "from": "macintyre",
+    "to": "nussbaum",
+    "type": "shared_problem",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "ethics",
+      "justice"
+    ],
+    "noteZh": "二者都重读亚里士多德德性和实践理性，但努斯鲍姆走向能力理论，麦金太尔坚持传统和共同体。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "dewey-rorty-reception",
+    "from": "dewey",
+    "to": "rorty",
+    "type": "reception",
+    "strength": 3,
+    "confidence": "high",
+    "themeIds": [
+      "knowledge",
+      "politics"
+    ],
+    "noteZh": "罗蒂将德威实用主义重新解释为反基础主义和民主文化哲学的重要资源。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "quine-rorty-influence",
+    "from": "quine",
+    "to": "rorty",
+    "type": "influence",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "knowledge",
+      "language"
+    ],
+    "noteZh": "蒯因对分析/综合区分和认识论基础的拆解，是罗蒂反表象主义叙事中的关键前史。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "putnam-rorty-critique",
+    "from": "putnam",
+    "to": "rorty",
+    "type": "critique",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "knowledge",
+      "language"
+    ],
+    "noteZh": "普特南与罗蒂围绕真理、实在论和相对主义展开长期分歧，构成新实用主义内部争论。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "habermas-rorty-critique",
+    "from": "habermas",
+    "to": "rorty",
+    "type": "critique",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "language",
+      "politics"
+    ],
+    "noteZh": "哈贝马斯批评罗蒂的语境主义削弱理性批判的规范基础，二者形成后形而上学民主理论争论。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "frege-kripke-critique",
+    "from": "kripke",
+    "to": "frege",
+    "type": "critique",
+    "strength": 2,
+    "confidence": "high",
+    "themeIds": [
+      "language",
+      "metaphysics"
+    ],
+    "noteZh": "克里普克通过刚性指称批判名称描述论，重排弗雷格式意义、指称与必然性问题。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "russell-kripke-critique",
+    "from": "kripke",
+    "to": "russell",
+    "type": "critique",
+    "strength": 2,
+    "confidence": "high",
+    "themeIds": [
+      "language"
+    ],
+    "noteZh": "克里普克对名称描述论的批判同时针对罗素式专名分析，强调名称链条和对象固定性。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "wittgenstein-kripke-reception",
+    "from": "wittgenstein",
+    "to": "kripke",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "high",
+    "themeIds": [
+      "language",
+      "knowledge"
+    ],
+    "noteZh": "克里普克对规则遵循的怀疑论解释重塑了后期维特根斯坦接受史。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "kripke-putnam-shared_problem",
+    "from": "kripke",
+    "to": "putnam",
+    "type": "shared_problem",
+    "strength": 3,
+    "confidence": "high",
+    "themeIds": [
+      "language",
+      "metaphysics"
+    ],
+    "noteZh": "克里普克的刚性指称和普特南的语义外在论共同改变了名称、自然种类和意义理论。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "quine-putnam-influence",
+    "from": "quine",
+    "to": "putnam",
+    "type": "influence",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "knowledge",
+      "language"
+    ],
+    "noteZh": "普特南在科学实在论、整体论和意义问题上长期回应蒯因，同时逐渐转向不同的实在论立场。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "carnap-putnam-critique",
+    "from": "putnam",
+    "to": "carnap",
+    "type": "critique",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "knowledge",
+      "language"
+    ],
+    "noteZh": "普特南对逻辑实证主义和语言框架问题的讨论，常以卡尔纳普式方案为背景进行修正或批判。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "rorty-putnam-shared_problem",
+    "from": "rorty",
+    "to": "putnam",
+    "type": "shared_problem",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "knowledge",
+      "ethics"
+    ],
+    "noteZh": "罗蒂和普特南都继承实用主义并批判旧基础主义，但对真理、实在论和规范性保留程度不同。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "quine-davidson-influence",
+    "from": "quine",
+    "to": "davidson",
+    "type": "influence",
+    "strength": 3,
+    "confidence": "high",
+    "themeIds": [
+      "language",
+      "knowledge"
+    ],
+    "noteZh": "戴维森继承蒯因对意义、翻译和概念方案的整体论问题，但转向真理论语义学和激进解释。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "wittgenstein-davidson-shared_problem",
+    "from": "wittgenstein",
+    "to": "davidson",
+    "type": "shared_problem",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "language",
+      "knowledge"
+    ],
+    "noteZh": "二者都反对把意义解释为私人内在对象，转向公共语言实践和可解释性条件。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "carnap-davidson-critique",
+    "from": "davidson",
+    "to": "carnap",
+    "type": "critique",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "language",
+      "knowledge"
+    ],
+    "noteZh": "戴维森对概念方案和经验内容二分的批判，可放在卡尔纳普式语言框架问题之后理解。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "davidson-kripke-shared_problem",
+    "from": "davidson",
+    "to": "kripke",
+    "type": "shared_problem",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "language",
+      "metaphysics"
+    ],
+    "noteZh": "戴维森和克里普克都重塑后分析语言哲学，但前者从解释和真理入手，后者从命名与模态入手。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "nietzsche-deleuze-reception",
+    "from": "nietzsche",
+    "to": "deleuze",
+    "type": "reception",
+    "strength": 3,
+    "confidence": "high",
+    "themeIds": [
+      "metaphysics",
+      "freedom"
+    ],
+    "noteZh": "德勒兹以尼采的力、生成和价值创造思想反对同一性形而上学，是其差异哲学的重要来源。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "bergson-deleuze-reception",
+    "from": "bergson",
+    "to": "deleuze",
+    "type": "reception",
+    "strength": 3,
+    "confidence": "high",
+    "themeIds": [
+      "metaphysics",
+      "life_death"
+    ],
+    "noteZh": "德勒兹借柏格森的绵延、记忆和生命生成问题发展差异、重复和虚拟性的哲学。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "spinoza-deleuze-reception",
+    "from": "spinoza",
+    "to": "deleuze",
+    "type": "reception",
+    "strength": 3,
+    "confidence": "high",
+    "themeIds": [
+      "metaphysics",
+      "ethics"
+    ],
+    "noteZh": "德勒兹反复重读斯宾诺莎的内在性、能力和情感理论，将其纳入自身反超越哲学。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "foucault-deleuze-shared_problem",
+    "from": "foucault",
+    "to": "deleuze",
+    "type": "shared_problem",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "politics",
+      "knowledge"
+    ],
+    "noteZh": "德勒兹与福柯共享权力、欲望和主体化问题，但德勒兹更强调生成、多重体和欲望生产。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "derrida-deleuze-shared_problem",
+    "from": "derrida",
+    "to": "deleuze",
+    "type": "shared_problem",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "language",
+      "metaphysics"
+    ],
+    "noteZh": "二者都反对传统在场形而上学和再现图式，但分别通过解构和差异生成展开。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "gadamer-ricoeur-shared_problem",
+    "from": "gadamer",
+    "to": "ricoeur",
+    "type": "shared_problem",
+    "strength": 3,
+    "confidence": "high",
+    "themeIds": [
+      "language",
+      "knowledge"
+    ],
+    "noteZh": "利科与伽达默尔同属现代解释学核心，但利科更强调文本中介、怀疑解释和叙事结构。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "husserl-ricoeur-reception",
+    "from": "husserl",
+    "to": "ricoeur",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "knowledge",
+      "metaphysics"
+    ],
+    "noteZh": "利科从胡塞尔现象学出发，将意向性、时间和自我问题转入解释学与叙事哲学。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "heidegger-ricoeur-reception",
+    "from": "heidegger",
+    "to": "ricoeur",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "metaphysics",
+      "language"
+    ],
+    "noteZh": "利科吸收海德格尔对理解和存在的解释学转向，同时保持文本、象征和叙事分析的中介层。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "arendt-ricoeur-shared_problem",
+    "from": "arendt",
+    "to": "ricoeur",
+    "type": "shared_problem",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "ethics",
+      "politics"
+    ],
+    "noteZh": "利科和阿伦特都重视行动、承诺、叙事和责任在公共世界中塑造自我身份。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "marx-weber-shared_problem",
+    "from": "marx",
+    "to": "weber",
+    "type": "shared_problem",
+    "strength": 3,
+    "confidence": "high",
+    "themeIds": [
+      "politics",
+      "justice"
+    ],
+    "noteZh": "韦伯与马克思共同分析现代资本主义，但韦伯将宗教伦理、理性化和支配类型纳入更复合解释。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "nietzsche-weber-influence",
+    "from": "nietzsche",
+    "to": "weber",
+    "type": "influence",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "ethics",
+      "freedom"
+    ],
+    "noteZh": "韦伯关于价值多神论、祛魅和责任伦理的张力，可与尼采后的价值危机语境相连。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "weber-habermas-reception",
+    "from": "weber",
+    "to": "habermas",
+    "type": "reception",
+    "strength": 3,
+    "confidence": "high",
+    "themeIds": [
+      "politics",
+      "knowledge"
+    ],
+    "noteZh": "哈贝马斯从韦伯理性化诊断出发，重构工具理性、交往理性和现代性问题。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "weber-horkheimer-reception",
+    "from": "weber",
+    "to": "horkheimer",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "politics",
+      "knowledge"
+    ],
+    "noteZh": "法兰克福早期批判理论继承韦伯理性化和工具理性问题，并将其与资本主义批判结合。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "weber-adorno-reception",
+    "from": "weber",
+    "to": "adorno",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "politics",
+      "knowledge"
+    ],
+    "noteZh": "阿多诺对启蒙理性和社会支配的批判，可与韦伯关于理性化、祛魅和官僚支配的诊断相接。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "nishida-nishitani-reception",
+    "from": "nishida",
+    "to": "nishitani",
+    "type": "reception",
+    "strength": 3,
+    "confidence": "high",
+    "themeIds": [
+      "religion",
+      "metaphysics"
+    ],
+    "noteZh": "西谷继承京都学派和西田哲学的问题域，但把绝对无和宗教觉悟更集中地转向虚无主义与空。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "heidegger-nishitani-reception",
+    "from": "heidegger",
+    "to": "nishitani",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "metaphysics",
+      "life_death"
+    ],
+    "noteZh": "西谷在欧洲存在论和虚无问题中吸收海德格尔的问题意识，并以佛教空性重新处理存在与无。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "nietzsche-nishitani-shared_problem",
+    "from": "nietzsche",
+    "to": "nishitani",
+    "type": "shared_problem",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "religion",
+      "ethics"
+    ],
+    "noteZh": "尼采的虚无主义诊断为西谷提供现代宗教危机的入口，西谷则以宗教觉悟和空回应该危机。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "nagarjuna-nishitani-reception",
+    "from": "nagarjuna",
+    "to": "nishitani",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "metaphysics",
+      "religion"
+    ],
+    "noteZh": "西谷以佛教空性处理现代虚无问题，可与龙树中观的空和缘起问题形成接受关系。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "dogen-nishitani-shared_problem",
+    "from": "dogen",
+    "to": "nishitani",
+    "type": "shared_problem",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "religion",
+      "life_death"
+    ],
+    "noteZh": "道元与西谷都把修行、时间和自我转化置于佛教哲学中心，但西谷更直接面对现代虚无主义。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "adi-shankara-radhakrishnan-reception",
+    "from": "adi-shankara",
+    "to": "radhakrishnan",
+    "type": "reception",
+    "strength": 3,
+    "confidence": "high",
+    "themeIds": [
+      "religion",
+      "metaphysics"
+    ],
+    "noteZh": "拉达克里希南的现代吠檀多解释大量继承商羯罗传统，同时以比较哲学方式重述其精神统一论。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "gandhi-radhakrishnan-shared_problem",
+    "from": "gandhi",
+    "to": "radhakrishnan",
+    "type": "shared_problem",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "ethics",
+      "religion"
+    ],
+    "noteZh": "甘地与拉达克里希南都把印度宗教传统转化为现代伦理和公共精神资源，但前者偏实践政治，后者偏哲学解释。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "tagore-radhakrishnan-shared_problem",
+    "from": "tagore",
+    "to": "radhakrishnan",
+    "type": "shared_problem",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "religion",
+      "aesthetics"
+    ],
+    "noteZh": "泰戈尔与拉达克里希南都用普遍精神和跨文化语言表达印度传统，分别偏诗性人文主义与哲学系统化。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "radhakrishnan-nishitani-shared_problem",
+    "from": "radhakrishnan",
+    "to": "nishitani",
+    "type": "shared_problem",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "religion",
+      "knowledge"
+    ],
+    "noteZh": "二者都把亚洲宗教哲学放入现代世界哲学对话中，但拉达克里希南偏吠檀多综合，西谷偏佛教空与虚无。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "madhva-radhakrishnan-reception",
+    "from": "madhva",
+    "to": "radhakrishnan",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "religion",
+      "metaphysics"
+    ],
+    "noteZh": "拉达克里希南在重述印度哲学时处理摩陀婆二元论吠檀多，使其进入现代比较哲学叙述。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "madhva-adi-shankara-critique",
+    "from": "madhva",
+    "to": "adi-shankara",
+    "type": "critique",
+    "strength": 3,
+    "confidence": "high",
+    "themeIds": [
+      "religion",
+      "metaphysics"
+    ],
+    "noteZh": "摩陀婆以二元论吠檀多批判商羯罗不二论，强调神、灵魂和世界之间真实不可化约的差异。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "madhva-ramanuja-shared_problem",
+    "from": "madhva",
+    "to": "ramanuja",
+    "type": "shared_problem",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "religion",
+      "metaphysics"
+    ],
+    "noteZh": "摩陀婆与罗摩奴阇都反对纯粹不二论并重视有神论吠檀多，但对差异、依存和神人关系给出不同解释。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "madhva-nagarjuna-critique",
+    "from": "madhva",
+    "to": "nagarjuna",
+    "type": "critique",
+    "strength": 1,
+    "confidence": "low",
+    "themeIds": [
+      "metaphysics",
+      "knowledge"
+    ],
+    "noteZh": "摩陀婆的实在差异论与中观空性可形成问题性对照；此关系置信度保守，需盲审核对是否保留。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "hegel-charles-taylor-reception",
+    "from": "hegel",
+    "to": "charles-taylor",
+    "type": "reception",
+    "strength": 3,
+    "confidence": "high",
+    "themeIds": [
+      "politics",
+      "ethics"
+    ],
+    "noteZh": "泰勒长期重读黑格尔，并把承认、表达、历史自我和现代自由问题带入当代政治哲学。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "rawls-charles-taylor-critique",
+    "from": "charles-taylor",
+    "to": "rawls",
+    "type": "critique",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "politics",
+      "justice"
+    ],
+    "noteZh": "泰勒与社群主义论争相关，批判抽象自由主义主体模型，强调身份、共同体和承认的构成性。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "habermas-charles-taylor-shared_problem",
+    "from": "habermas",
+    "to": "charles-taylor",
+    "type": "shared_problem",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "politics",
+      "religion"
+    ],
+    "noteZh": "哈贝马斯与泰勒都讨论现代性、公共理性和宗教在世俗社会中的位置，但理论路径不同。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "charles-taylor-radhakrishnan-shared_problem",
+    "from": "charles-taylor",
+    "to": "radhakrishnan",
+    "type": "shared_problem",
+    "strength": 1,
+    "confidence": "low",
+    "themeIds": [
+      "religion",
+      "ethics"
+    ],
+    "noteZh": "泰勒与拉达克里希南都关心现代性中宗教经验和道德框架的可理解性，此关系作为跨传统问题线保守保留。",
+    "reviewStatus": "draft"
   }
 ]

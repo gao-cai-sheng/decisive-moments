@@ -1,0 +1,292 @@
+{
+  "id": "madhva",
+  "names": {
+    "zh": "摩陀婆",
+    "en": "Madhva"
+  },
+  "life": {
+    "birth": 1238,
+    "death": 1317,
+    "display": "约1238—1317"
+  },
+  "civilization": "indian",
+  "traditions": [
+    "dvaita_vedanta",
+    "vedanta",
+    "theistic_philosophy"
+  ],
+  "periods": [
+    "expansion_c3"
+  ],
+  "themes": [
+    "religion",
+    "metaphysics",
+    "knowledge"
+  ],
+  "keywordsZh": [
+    "二元论吠檀多",
+    "毗湿奴信仰",
+    "差异",
+    "注疏",
+    "解脱"
+  ],
+  "oneLineZh": "以二元论吠檀多反对不二论，强调神、灵魂和世界之间真实差异。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "摩陀婆建立二元论吠檀多，主张毗湿奴最高性、灵魂依赖性以及神、灵魂、物质之间不可消解的真实差异。",
+  "works": [
+    "madhva-brahma-sutra-bhashya",
+    "madhva-anuvyakhyana",
+    "madhva-mahabharata-tatparya-nirnaya",
+    "madhva-bhagavata-tatparya-nirnaya",
+    "madhva-tattvodyota"
+  ],
+  "sourceNotes": [
+    {
+      "label": "Primary corpus note",
+      "url": "https://iep.utm.edu/madhva/",
+      "noteZh": "二手条目只用于核对年代、作品和关系线；evidence 以摩陀婆代表注疏自身问题为摘要对象。"
+    }
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "madhva:problem:001",
+        "titleZh": "二元论吠檀多与真实差异",
+        "questionZh": "摩陀婆为什么坚持神、灵魂和世界之间的真实差异？",
+        "summaryZh": "摩陀婆反对把差异解释为无明或较低层次真实，认为真实差异是理解神、灵魂、世界和解脱秩序的基础。",
+        "themeIds": [
+          "metaphysics",
+          "religion"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "madhva:claim:001",
+            "titleZh": "差异具有最终实在性",
+            "claimZh": "摩陀婆主张神、个体灵魂和物质世界之间的差异不是幻相，而是实在结构的一部分。",
+            "explanationZh": "这一主张直接构成二元论吠檀多的核心，并与商羯罗不二论形成鲜明争论。",
+            "themeIds": [
+              "metaphysics",
+              "religion"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "madhva:evidence:001",
+                "titleZh": "《梵经注》以差异解释经典",
+                "summaryZh": "注释把《梵经》读作支持神、灵魂和世界真实区分的文本，而非通向梵我绝对同一的证明。",
+                "source": {
+                  "workId": "madhva-brahma-sutra-bhashya",
+                  "locator": "Brahma-sutra-bhashya, opening interpretive arguments on difference",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "madhva:evidence:002",
+                "titleZh": "《再注释》强化对不二论的反驳",
+                "summaryZh": "文本进一步展开二元论解释，批判将世界差异降为无明显现的读法，强调经文必须保存真实关系。",
+                "source": {
+                  "workId": "madhva-anuvyakhyana",
+                  "locator": "Anuvyakhyana, arguments against non-dualist interpretation",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "madhva:claim:002",
+            "titleZh": "最高神和灵魂之间存在依赖关系",
+            "claimZh": "摩陀婆认为毗湿奴为最高实在，灵魂永远依赖于神而不能与神完全同一。",
+            "explanationZh": "这使其形而上学具有强烈有神论结构，解脱也被理解为依赖和奉爱的完成而非身份合一。",
+            "themeIds": [
+              "religion",
+              "metaphysics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "madhva:evidence:003",
+                "titleZh": "《薄伽梵往世书旨趣判定》强调毗湿奴中心",
+                "summaryZh": "文本解释往世书叙事时突出毗湿奴最高性和灵魂依赖性，使奉爱和神恩成为解脱秩序的重要部分。",
+                "source": {
+                  "workId": "madhva-bhagavata-tatparya-nirnaya",
+                  "locator": "Bhagavata Tatparya Nirnaya, Vishnu-centered theological interpretation",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "madhva:evidence:004",
+                "titleZh": "史诗解释服务二元论神学",
+                "summaryZh": "《摩诃婆罗多旨趣判定》把史诗人物和叙事纳入毗湿奴神学框架，说明宇宙秩序依赖最高神。",
+                "source": {
+                  "workId": "madhva-mahabharata-tatparya-nirnaya",
+                  "locator": "Mahabharata Tatparya Nirnaya, theistic reading of epic order",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "madhva:problem:002",
+        "titleZh": "经典解释与论辩方法",
+        "questionZh": "摩陀婆如何通过注疏和论辩建立学派边界？",
+        "summaryZh": "摩陀婆不仅提出形而上学命题，还通过经典注释、反驳对手和解释史诗往世书来建立二元论学派的权威。",
+        "themeIds": [
+          "knowledge",
+          "religion"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "madhva:claim:003",
+            "titleZh": "注疏是学派论证的核心载体",
+            "claimZh": "摩陀婆通过对《梵经》等权威文本的重新解释，把二元论塑造成正统吠檀多读法。",
+            "explanationZh": "这说明印度哲学争论常以内在经典解释方式展开，而不只是抽象命题之间的辩论。",
+            "themeIds": [
+              "knowledge",
+              "religion"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "madhva:evidence:005",
+                "titleZh": "《梵经注》重排经文意义",
+                "summaryZh": "注释逐段把经文解释为支持神与灵魂区分、世界真实和依赖秩序，构成学派合法性的主要文本根据。",
+                "source": {
+                  "workId": "madhva-brahma-sutra-bhashya",
+                  "locator": "Brahma-sutra-bhashya, sutra commentary across opening sections",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "madhva:evidence:006",
+                "titleZh": "《再注释》补充原注的争辩性",
+                "summaryZh": "文本在原注基础上进一步铺开反驳和证明，显示摩陀婆学派通过连续注释来稳定自身解释传统。",
+                "source": {
+                  "workId": "madhva-anuvyakhyana",
+                  "locator": "Anuvyakhyana, supplementary arguments to Brahma-sutra-bhashya",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "madhva:claim:004",
+            "titleZh": "论辩文本直接划定与不二论的分歧",
+            "claimZh": "摩陀婆用专门论辩文本集中批判不二论，显示差异论不只是注释倾向，而是学派身份核心。",
+            "explanationZh": "这让摩陀婆成为吠檀多三家对照中的必要节点，与商羯罗和罗摩奴阇构成清晰三角。",
+            "themeIds": [
+              "metaphysics",
+              "knowledge"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "madhva:evidence:007",
+                "titleZh": "《真理显明》集中批判不二论",
+                "summaryZh": "文本针对不二论的幻相世界和梵我同一解释提出反驳，强调经验证据和经典解释都指向真实差异。",
+                "source": {
+                  "workId": "madhva-tattvodyota",
+                  "locator": "Tattvodyota, polemical critique of Advaita",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "madhva:evidence:008",
+                "titleZh": "真实差异成为论证枢纽",
+                "summaryZh": "论辩不断回到差异不可取消这一核心点，用它同时支撑知识、伦理责任、奉爱和解脱秩序。",
+                "source": {
+                  "workId": "madhva-tattvodyota",
+                  "locator": "Tattvodyota, arguments for real difference",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "madhva:problem:003",
+        "titleZh": "奉爱、等级和解脱秩序",
+        "questionZh": "摩陀婆如何把形而上学差异转化为宗教实践和解脱理论？",
+        "summaryZh": "摩陀婆的二元论不仅说明世界结构，也规定灵魂依赖神、通过奉爱与正知走向解脱的宗教秩序。",
+        "themeIds": [
+          "religion",
+          "ethics"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "madhva:claim:005",
+            "titleZh": "奉爱以真实差异为前提",
+            "claimZh": "摩陀婆认为灵魂与神真实不同，因此奉爱不是暂时方便，而是人与最高神之间恰当关系的表达。",
+            "explanationZh": "这与不二论中最终身份合一的解释形成差别，使宗教实践具有不可化约的终极意义。",
+            "themeIds": [
+              "religion",
+              "ethics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "madhva:evidence:009",
+                "titleZh": "《薄伽梵往世书旨趣判定》突出奉爱秩序",
+                "summaryZh": "文本以往世书故事说明灵魂对毗湿奴的依赖和敬爱，奉爱被呈现为符合宇宙真实等级的实践。",
+                "source": {
+                  "workId": "madhva-bhagavata-tatparya-nirnaya",
+                  "locator": "Bhagavata Tatparya Nirnaya, devotion and dependence on Vishnu",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "madhva:evidence:010",
+                "titleZh": "史诗解释连接伦理和神学",
+                "summaryZh": "《摩诃婆罗多旨趣判定》通过英雄、冲突和神圣秩序解释伦理行动，说明实践生活服务于有神论宇宙观。",
+                "source": {
+                  "workId": "madhva-mahabharata-tatparya-nirnaya",
+                  "locator": "Mahabharata Tatparya Nirnaya, ethics and theistic order",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "madhva:claim:006",
+            "titleZh": "知识、恩典和解脱相互关联",
+            "claimZh": "摩陀婆把正确知识、神恩和奉爱联系起来，认为解脱不是主体自足完成的认知事件。",
+            "explanationZh": "这条主张说明其认识论和神学不能分割，二元论结构最终服务于救赎论。",
+            "themeIds": [
+              "knowledge",
+              "religion"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "madhva:evidence:011",
+                "titleZh": "《再注释》把正知和依赖性相连",
+                "summaryZh": "文本在解释经典时把正确理解与承认灵魂依赖神联系起来，反对把知识解释为自我同一的发现。",
+                "source": {
+                  "workId": "madhva-anuvyakhyana",
+                  "locator": "Anuvyakhyana, knowledge and dependence in liberation arguments",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "madhva:evidence:012",
+                "titleZh": "《梵经注》将解脱置于有神论框架",
+                "summaryZh": "注释把解脱理解为灵魂在保持自身差异的情况下亲近最高神，而不是消失于无差别绝对，因此救赎仍保留神人关系。",
+                "source": {
+                  "workId": "madhva-brahma-sutra-bhashya",
+                  "locator": "Brahma-sutra-bhashya, liberation and relation to supreme God",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

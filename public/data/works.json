@@ -3970,5 +3970,485 @@
     "titleEn": "Handbook of Revolutionary Warfare",
     "yearDisplay": "1968",
     "noteZh": "讨论泛非革命组织、反殖民斗争和非洲统一战略的实践维度。"
+  },
+  {
+    "id": "macintyre-after-virtue",
+    "philosopherId": "macintyre",
+    "titleZh": "《追寻美德》",
+    "titleEn": "After Virtue",
+    "yearDisplay": "1981",
+    "noteZh": "麦金太尔代表作，批判现代道德语言碎片化并重建德性、实践和传统问题。"
+  },
+  {
+    "id": "macintyre-whose-justice",
+    "philosopherId": "macintyre",
+    "titleZh": "《谁之正义？何种合理性？》",
+    "titleEn": "Whose Justice? Which Rationality?",
+    "yearDisplay": "1988",
+    "noteZh": "通过亚里士多德、奥古斯丁、休谟和现代自由主义传统比较，论证理性总在传统内部展开。"
+  },
+  {
+    "id": "macintyre-three-rival-versions",
+    "philosopherId": "macintyre",
+    "titleZh": "《道德探究的三种竞争版本》",
+    "titleEn": "Three Rival Versions of Moral Enquiry",
+    "yearDisplay": "1990",
+    "noteZh": "比较百科全书式、谱系学式和传统式探究，维护以传统为单位的理性争辩。"
+  },
+  {
+    "id": "macintyre-dependent-rational-animals",
+    "philosopherId": "macintyre",
+    "titleZh": "《依赖性的理性动物》",
+    "titleEn": "Dependent Rational Animals",
+    "yearDisplay": "1999",
+    "noteZh": "以脆弱性、依赖和共同体照护修正早期德性伦理中过强的英雄式实践图像。"
+  },
+  {
+    "id": "macintyre-ethics-conflicts-modernity",
+    "philosopherId": "macintyre",
+    "titleZh": "《现代性的伦理冲突》",
+    "titleEn": "Ethics in the Conflicts of Modernity",
+    "yearDisplay": "2016",
+    "noteZh": "晚期作品，重申亚里士多德-托马斯传统在现代资本主义冲突中的伦理批判功能。"
+  },
+  {
+    "id": "rorty-philosophy-mirror-nature",
+    "philosopherId": "rorty",
+    "titleZh": "《哲学与自然之镜》",
+    "titleEn": "Philosophy and the Mirror of Nature",
+    "yearDisplay": "1979",
+    "noteZh": "批判把心灵或语言理解为自然镜像的认识论传统，推动反表象主义转向。"
+  },
+  {
+    "id": "rorty-consequences-pragmatism",
+    "philosopherId": "rorty",
+    "titleZh": "《实用主义的后果》",
+    "titleEn": "Consequences of Pragmatism",
+    "yearDisplay": "1982",
+    "noteZh": "汇集罗蒂关于实用主义、哲学专业化和后分析哲学文化角色的论文。"
+  },
+  {
+    "id": "rorty-contingency-irony-solidarity",
+    "philosopherId": "rorty",
+    "titleZh": "《偶然性、反讽与团结》",
+    "titleEn": "Contingency, Irony, and Solidarity",
+    "yearDisplay": "1989",
+    "noteZh": "以语言偶然性、自由主义反讽者和团结叙事重写政治伦理与文化希望。"
+  },
+  {
+    "id": "rorty-objectivity-relativism-truth",
+    "philosopherId": "rorty",
+    "titleZh": "《客观性、相对主义与真理》",
+    "titleEn": "Objectivity, Relativism, and Truth",
+    "yearDisplay": "1991",
+    "noteZh": "讨论真理、客观性、共同体赞许和实用主义反基础主义，回应相对主义指控。"
+  },
+  {
+    "id": "rorty-achieving-our-country",
+    "philosopherId": "rorty",
+    "titleZh": "《成就我们的国家》",
+    "titleEn": "Achieving Our Country",
+    "yearDisplay": "1998",
+    "noteZh": "将新实用主义转向美国民主文化和左翼公共希望，批判旁观式文化政治。"
+  },
+  {
+    "id": "kripke-naming-necessity",
+    "philosopherId": "kripke",
+    "titleZh": "《命名与必然性》",
+    "titleEn": "Naming and Necessity",
+    "yearDisplay": "1980",
+    "noteZh": "基于1970年讲座，提出刚性指称、必然后验和对名称描述论的系统批判。"
+  },
+  {
+    "id": "kripke-wittgenstein-rules",
+    "philosopherId": "kripke",
+    "titleZh": "《维特根斯坦论规则与私人语言》",
+    "titleEn": "Wittgenstein on Rules and Private Language",
+    "yearDisplay": "1982",
+    "noteZh": "提出所谓克里普克式维特根斯坦，围绕规则遵循、怀疑论和共同体实践展开解释。"
+  },
+  {
+    "id": "kripke-reference-existence",
+    "philosopherId": "kripke",
+    "titleZh": "《指称与存在》",
+    "titleEn": "Reference and Existence",
+    "yearDisplay": "2013",
+    "noteZh": "围绕虚构对象、名称和存在问题整理讲座，延伸命名理论到虚构语境。"
+  },
+  {
+    "id": "kripke-modal-logic",
+    "philosopherId": "kripke",
+    "titleZh": "《模态逻辑的语义考虑》",
+    "titleEn": "Semantical Considerations on Modal Logic",
+    "yearDisplay": "1963",
+    "noteZh": "早期模态逻辑论文，为可能世界语义和可达关系提供技术基础。"
+  },
+  {
+    "id": "kripke-theory-truth",
+    "philosopherId": "kripke",
+    "titleZh": "《真理论纲》",
+    "titleEn": "Outline of a Theory of Truth",
+    "yearDisplay": "1975",
+    "noteZh": "以部分定义和固定点思路处理真理谓词和语义悖论。"
+  },
+  {
+    "id": "putnam-meaning-moral-sciences",
+    "philosopherId": "putnam",
+    "titleZh": "《意义与道德科学》",
+    "titleEn": "Meaning and the Moral Sciences",
+    "yearDisplay": "1978",
+    "noteZh": "收录语义外在论、科学实在论和社会科学方法相关论证。"
+  },
+  {
+    "id": "putnam-reason-truth-history",
+    "philosopherId": "putnam",
+    "titleZh": "《理性、真理与历史》",
+    "titleEn": "Reason, Truth and History",
+    "yearDisplay": "1981",
+    "noteZh": "提出缸中之脑论证、内在实在论和对形而上学实在论的批判。"
+  },
+  {
+    "id": "putnam-many-faces-realism",
+    "philosopherId": "putnam",
+    "titleZh": "《实在论的多重面貌》",
+    "titleEn": "The Many Faces of Realism",
+    "yearDisplay": "1987",
+    "noteZh": "讨论实在论、概念相对性和不同实践中的对象性，延续内在实在论问题。"
+  },
+  {
+    "id": "putnam-representation-reality",
+    "philosopherId": "putnam",
+    "titleZh": "《表象与实在》",
+    "titleEn": "Representation and Reality",
+    "yearDisplay": "1988",
+    "noteZh": "批判心灵的计算主义和单一表象模型，修正功能主义心灵哲学立场。"
+  },
+  {
+    "id": "putnam-ethics-without-ontology",
+    "philosopherId": "putnam",
+    "titleZh": "《无本体论的伦理学》",
+    "titleEn": "Ethics Without Ontology",
+    "yearDisplay": "2004",
+    "noteZh": "晚期伦理哲学文本，反对事实与价值截然二分并拒绝为伦理寻找厚重本体论担保。"
+  },
+  {
+    "id": "davidson-essays-actions-events",
+    "philosopherId": "davidson",
+    "titleZh": "《行动与事件论文集》",
+    "titleEn": "Essays on Actions and Events",
+    "yearDisplay": "1980",
+    "noteZh": "汇集行动、理由、原因和反常一元论相关论文，是戴维森行动哲学和心灵哲学的核心文本。"
+  },
+  {
+    "id": "davidson-inquiries-truth-interpretation",
+    "philosopherId": "davidson",
+    "titleZh": "《真理与解释研究》",
+    "titleEn": "Inquiries into Truth and Interpretation",
+    "yearDisplay": "1984",
+    "noteZh": "汇集真理论语义学、激进解释和语言理解论文，展示戴维森意义理论的主体框架。"
+  },
+  {
+    "id": "davidson-subjective-intersubjective-objective",
+    "philosopherId": "davidson",
+    "titleZh": "《主观、主体间与客观》",
+    "titleEn": "Subjective, Intersubjective, Objective",
+    "yearDisplay": "2001",
+    "noteZh": "围绕第一人称、他心、客观世界和三角测量展开，说明理解和客观性相互依赖。"
+  },
+  {
+    "id": "davidson-problems-rationality",
+    "philosopherId": "davidson",
+    "titleZh": "《理性问题》",
+    "titleEn": "Problems of Rationality",
+    "yearDisplay": "2004",
+    "noteZh": "讨论非理性、意向、实践理性和行动解释，延续行动理由与解释问题。"
+  },
+  {
+    "id": "davidson-truth-language-history",
+    "philosopherId": "davidson",
+    "titleZh": "《真理、语言与历史》",
+    "titleEn": "Truth, Language, and History",
+    "yearDisplay": "2005",
+    "noteZh": "晚期论文集，处理真理、语言、概念方案和解释历史中的剩余争议。"
+  },
+  {
+    "id": "deleuze-difference-repetition",
+    "philosopherId": "deleuze",
+    "titleZh": "《差异与重复》",
+    "titleEn": "Difference and Repetition",
+    "yearDisplay": "1968",
+    "noteZh": "德勒兹代表性形而上学文本，批判同一性再现并建立差异自身的哲学。"
+  },
+  {
+    "id": "deleuze-logic-sense",
+    "philosopherId": "deleuze",
+    "titleZh": "《意义的逻辑》",
+    "titleEn": "The Logic of Sense",
+    "yearDisplay": "1969",
+    "noteZh": "围绕事件、表面、悖论和斯多亚传统展开，发展意义和生成理论。"
+  },
+  {
+    "id": "deleuze-anti-oedipus",
+    "philosopherId": "deleuze",
+    "titleZh": "《反俄狄浦斯》",
+    "titleEn": "Anti-Oedipus",
+    "yearDisplay": "1972",
+    "noteZh": "与瓜塔里合著，批判精神分析家庭化模型并提出欲望生产和社会机器。"
+  },
+  {
+    "id": "deleuze-thousand-plateaus",
+    "philosopherId": "deleuze",
+    "titleZh": "《千高原》",
+    "titleEn": "A Thousand Plateaus",
+    "yearDisplay": "1980",
+    "noteZh": "与瓜塔里合著，提出根茎、组合体、游牧、去疆域化等概念。"
+  },
+  {
+    "id": "deleuze-what-is-philosophy",
+    "philosopherId": "deleuze",
+    "titleZh": "《什么是哲学？》",
+    "titleEn": "What Is Philosophy?",
+    "yearDisplay": "1991",
+    "noteZh": "晚期与瓜塔里合著，界定哲学为概念创造，并区分哲学、科学和艺术。"
+  },
+  {
+    "id": "ricoeur-symbolism-evil",
+    "philosopherId": "ricoeur",
+    "titleZh": "《恶的象征》",
+    "titleEn": "The Symbolism of Evil",
+    "yearDisplay": "1960",
+    "noteZh": "以污秽、罪和罪责象征分析恶的问题，奠定利科早期解释学方向。"
+  },
+  {
+    "id": "ricoeur-freud-philosophy",
+    "philosopherId": "ricoeur",
+    "titleZh": "《弗洛伊德与哲学》",
+    "titleEn": "Freud and Philosophy",
+    "yearDisplay": "1965",
+    "noteZh": "提出怀疑解释学与象征解释的张力，将精神分析纳入解释学哲学。"
+  },
+  {
+    "id": "ricoeur-rule-metaphor",
+    "philosopherId": "ricoeur",
+    "titleZh": "《隐喻的规则》",
+    "titleEn": "The Rule of Metaphor",
+    "yearDisplay": "1975",
+    "noteZh": "研究隐喻如何通过语义创新打开新的世界描述，连接语言、文本和存在理解。"
+  },
+  {
+    "id": "ricoeur-time-narrative",
+    "philosopherId": "ricoeur",
+    "titleZh": "《时间与叙事》",
+    "titleEn": "Time and Narrative",
+    "yearDisplay": "1983—1985",
+    "noteZh": "三卷本，以叙事配置调解宇宙时间和经验时间，发展叙事身份问题。"
+  },
+  {
+    "id": "ricoeur-oneself-as-another",
+    "philosopherId": "ricoeur",
+    "titleZh": "《作为他者的自身》",
+    "titleEn": "Oneself as Another",
+    "yearDisplay": "1990",
+    "noteZh": "晚期自我哲学文本，讨论同一性、他者性、承诺、责任和伦理意向。"
+  },
+  {
+    "id": "weber-protestant-ethic",
+    "philosopherId": "weber",
+    "titleZh": "《新教伦理与资本主义精神》",
+    "titleEn": "The Protestant Ethic and the Spirit of Capitalism",
+    "yearDisplay": "1905",
+    "noteZh": "分析禁欲新教伦理与现代资本主义精神之间的亲和关系。"
+  },
+  {
+    "id": "weber-economy-society",
+    "philosopherId": "weber",
+    "titleZh": "《经济与社会》",
+    "titleEn": "Economy and Society",
+    "yearDisplay": "1922",
+    "noteZh": "韦伯遗著，系统呈现社会行动、支配类型、官僚制、法律和宗教社会学。"
+  },
+  {
+    "id": "weber-science-vocation",
+    "philosopherId": "weber",
+    "titleZh": "《以学术为业》",
+    "titleEn": "Science as a Vocation",
+    "yearDisplay": "1917",
+    "noteZh": "讨论现代学术、价值中立、祛魅和学者面对价值多神论的责任。"
+  },
+  {
+    "id": "weber-politics-vocation",
+    "philosopherId": "weber",
+    "titleZh": "《以政治为业》",
+    "titleEn": "Politics as a Vocation",
+    "yearDisplay": "1919",
+    "noteZh": "讨论国家、暴力垄断、责任伦理、信念伦理和政治领袖的志业问题。"
+  },
+  {
+    "id": "weber-methodology-social-sciences",
+    "philosopherId": "weber",
+    "titleZh": "《社会科学方法论》",
+    "titleEn": "The Methodology of the Social Sciences",
+    "yearDisplay": "1904—1917",
+    "noteZh": "汇集价值中立、理想类型、理解解释和社会科学客观性相关论文。"
+  },
+  {
+    "id": "nishitani-religion-nothingness",
+    "philosopherId": "nishitani",
+    "titleZh": "《宗教与虚无》",
+    "titleEn": "Religion and Nothingness",
+    "yearDisplay": "1961",
+    "noteZh": "西谷代表作，以佛教空性回应现代虚无主义和宗教问题。"
+  },
+  {
+    "id": "nishitani-self-overcoming-nihilism",
+    "philosopherId": "nishitani",
+    "titleZh": "《虚无主义的自我超克》",
+    "titleEn": "The Self-Overcoming of Nihilism",
+    "yearDisplay": "1949",
+    "noteZh": "通过尼采和欧洲思想史讨论虚无主义如何被自身推进并超克。"
+  },
+  {
+    "id": "nishitani-nishida-kitaro",
+    "philosopherId": "nishitani",
+    "titleZh": "《西田几多郎》",
+    "titleEn": "Nishida Kitaro",
+    "yearDisplay": "1949",
+    "noteZh": "阐释西田哲学及京都学派背景，呈现西谷与老师思想的连续和差异。"
+  },
+  {
+    "id": "nishitani-standpoint-zen",
+    "philosopherId": "nishitani",
+    "titleZh": "《禅的立场》",
+    "titleEn": "The Standpoint of Zen",
+    "yearDisplay": "1986",
+    "noteZh": "围绕禅、宗教经验和自我转化讨论佛教哲学立场。"
+  },
+  {
+    "id": "nishitani-on-buddhism",
+    "philosopherId": "nishitani",
+    "titleZh": "《论佛教》",
+    "titleEn": "On Buddhism",
+    "yearDisplay": "2006",
+    "noteZh": "英文编选本，呈现西谷关于佛教、空、现代性和宗教对话的论文。"
+  },
+  {
+    "id": "radhakrishnan-indian-philosophy",
+    "philosopherId": "radhakrishnan",
+    "titleZh": "《印度哲学》",
+    "titleEn": "Indian Philosophy",
+    "yearDisplay": "1923—1927",
+    "noteZh": "两卷本，以现代学术方式系统重述印度哲学传统。"
+  },
+  {
+    "id": "radhakrishnan-hindu-view-life",
+    "philosopherId": "radhakrishnan",
+    "titleZh": "《印度教的人生观》",
+    "titleEn": "The Hindu View of Life",
+    "yearDisplay": "1927",
+    "noteZh": "以讲演形式说明印度教的精神、伦理和世界宗教意义。"
+  },
+  {
+    "id": "radhakrishnan-idealist-view-life",
+    "philosopherId": "radhakrishnan",
+    "titleZh": "《人生的理想主义观点》",
+    "titleEn": "An Idealist View of Life",
+    "yearDisplay": "1932",
+    "noteZh": "围绕宗教经验、直觉、理性和精神实在论展开系统哲学辩护。"
+  },
+  {
+    "id": "radhakrishnan-eastern-religions-western-thought",
+    "philosopherId": "radhakrishnan",
+    "titleZh": "《东方宗教与西方思想》",
+    "titleEn": "Eastern Religions and Western Thought",
+    "yearDisplay": "1939",
+    "noteZh": "比较印度宗教思想与西方哲学、基督教和现代人文传统。"
+  },
+  {
+    "id": "radhakrishnan-principal-upanishads",
+    "philosopherId": "radhakrishnan",
+    "titleZh": "《主要奥义书》",
+    "titleEn": "The Principal Upanishads",
+    "yearDisplay": "1953",
+    "noteZh": "翻译并注释主要奥义书，体现其现代吠檀多解释取向。"
+  },
+  {
+    "id": "madhva-brahma-sutra-bhashya",
+    "philosopherId": "madhva",
+    "titleZh": "《梵经注》",
+    "titleEn": "Brahma-sutra-bhashya",
+    "yearDisplay": "13世纪",
+    "noteZh": "摩陀婆对《梵经》的核心注释，提出二元论吠檀多解释。"
+  },
+  {
+    "id": "madhva-anuvyakhyana",
+    "philosopherId": "madhva",
+    "titleZh": "《再注释》",
+    "titleEn": "Anuvyakhyana",
+    "yearDisplay": "13世纪",
+    "noteZh": "进一步阐明《梵经注》的论证，强化对不二论和限定不二论的批判。"
+  },
+  {
+    "id": "madhva-mahabharata-tatparya-nirnaya",
+    "philosopherId": "madhva",
+    "titleZh": "《摩诃婆罗多旨趣判定》",
+    "titleEn": "Mahabharata Tatparya Nirnaya",
+    "yearDisplay": "13世纪",
+    "noteZh": "以二元论神学解释史诗传统，说明毗湿奴最高性和救赎秩序。"
+  },
+  {
+    "id": "madhva-bhagavata-tatparya-nirnaya",
+    "philosopherId": "madhva",
+    "titleZh": "《薄伽梵往世书旨趣判定》",
+    "titleEn": "Bhagavata Tatparya Nirnaya",
+    "yearDisplay": "13世纪",
+    "noteZh": "解释《薄伽梵往世书》的神学意义，突出奉爱和毗湿奴中心论。"
+  },
+  {
+    "id": "madhva-tattvodyota",
+    "philosopherId": "madhva",
+    "titleZh": "《真理显明》",
+    "titleEn": "Tattvodyota",
+    "yearDisplay": "13世纪",
+    "noteZh": "论辩性文本，集中批判不二论并说明真实差异和知识根据。"
+  },
+  {
+    "id": "charles-taylor-explanation-behaviour",
+    "philosopherId": "charles-taylor",
+    "titleZh": "《行为解释》",
+    "titleEn": "The Explanation of Behaviour",
+    "yearDisplay": "1964",
+    "noteZh": "早期心灵哲学和行动解释文本，批判行为主义和机械论解释。"
+  },
+  {
+    "id": "charles-taylor-hegel",
+    "philosopherId": "charles-taylor",
+    "titleZh": "《黑格尔》",
+    "titleEn": "Hegel",
+    "yearDisplay": "1975",
+    "noteZh": "系统阐释黑格尔哲学，是泰勒现代自我和承认理论的重要背景。"
+  },
+  {
+    "id": "charles-taylor-sources-self",
+    "philosopherId": "charles-taylor",
+    "titleZh": "《自我的根源》",
+    "titleEn": "Sources of the Self",
+    "yearDisplay": "1989",
+    "noteZh": "重构现代身份的道德来源，分析内在性、普通生活肯定和表现主义。"
+  },
+  {
+    "id": "charles-taylor-politics-recognition",
+    "philosopherId": "charles-taylor",
+    "titleZh": "《承认政治》",
+    "titleEn": "Multiculturalism and The Politics of Recognition",
+    "yearDisplay": "1992",
+    "noteZh": "提出承认在现代多元政治中的规范地位，影响身份政治和多元文化主义讨论。"
+  },
+  {
+    "id": "charles-taylor-secular-age",
+    "philosopherId": "charles-taylor",
+    "titleZh": "《世俗时代》",
+    "titleEn": "A Secular Age",
+    "yearDisplay": "2007",
+    "noteZh": "分析西方现代性中信仰条件的变化，提出世俗化不是宗教简单消退。"
   }
 ]

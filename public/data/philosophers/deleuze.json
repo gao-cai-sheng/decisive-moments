@@ -1,0 +1,291 @@
+{
+  "id": "deleuze",
+  "names": {
+    "zh": "德勒兹",
+    "en": "Gilles Deleuze"
+  },
+  "life": {
+    "birth": 1925,
+    "death": 1995,
+    "display": "1925—1995"
+  },
+  "civilization": "western_modern",
+  "traditions": [
+    "continental_philosophy",
+    "poststructuralism",
+    "immanence_philosophy"
+  ],
+  "periods": [
+    "expansion_c2"
+  ],
+  "themes": [
+    "metaphysics",
+    "freedom",
+    "politics"
+  ],
+  "keywordsZh": [
+    "差异",
+    "重复",
+    "内在性",
+    "欲望",
+    "生成"
+  ],
+  "oneLineZh": "以差异、重复、生成和内在性重写形而上学、欲望理论与后结构主义政治想象。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "德勒兹反对以同一性和再现统摄差异，转而从生成、强度、欲望机器和多重体组织一种内在性哲学。",
+  "works": [
+    "deleuze-difference-repetition",
+    "deleuze-logic-sense",
+    "deleuze-anti-oedipus",
+    "deleuze-thousand-plateaus",
+    "deleuze-what-is-philosophy"
+  ],
+  "sourceNotes": [
+    {
+      "label": "Primary corpus note",
+      "url": "https://plato.stanford.edu/entries/deleuze/",
+      "noteZh": "以德勒兹及其与瓜塔里合著文本为核心；二手来源只校对尼采、柏格森、斯宾诺莎、福柯和德里达关系。"
+    }
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "deleuze:problem:001",
+        "titleZh": "差异自身与反再现哲学",
+        "questionZh": "德勒兹如何反对用同一性、相似和对立来驯服差异？",
+        "summaryZh": "德勒兹试图把差异从同一性和再现的附属位置中解放出来，使差异成为生成、强度和思想发生的积极原则。",
+        "themeIds": [
+          "metaphysics",
+          "knowledge"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "deleuze:claim:001",
+            "titleZh": "差异不是同一性的派生物",
+            "claimZh": "德勒兹主张差异应被理解为积极生产力量，而不是同一对象之间的外在比较结果。",
+            "explanationZh": "这一主张使其形而上学不从实体、主体或概念同一性出发，而从生成和强度关系出发。",
+            "themeIds": [
+              "metaphysics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "deleuze:evidence:001",
+                "titleZh": "《差异与重复》批判再现四重根",
+                "summaryZh": "文本批判同一性、类比、对立和相似所构成的再现结构，认为这些范畴把差异降格为已知概念的变体。",
+                "source": {
+                  "workId": "deleuze-difference-repetition",
+                  "locator": "Difference and Repetition, critique of representation and identity",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "deleuze:evidence:002",
+                "titleZh": "强度差异生成经验场",
+                "summaryZh": "书中把强度、差异化和发生过程置于经验之前，说明对象不是先有同一实体再偶然带有差别。",
+                "source": {
+                  "workId": "deleuze-difference-repetition",
+                  "locator": "Difference and Repetition, intensity and individuation chapters",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "deleuze:claim:002",
+            "titleZh": "重复是差异的生产形式",
+            "claimZh": "德勒兹认为真正的重复不是机械复制，而是在每次返回中产生新的差异和时间结构。",
+            "explanationZh": "这条主张让尼采永恒回归和柏格森时间问题进入反同一性的形而上学核心。",
+            "themeIds": [
+              "metaphysics",
+              "life_death"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "deleuze:evidence:003",
+                "titleZh": "重复章节区分裸重复和复杂重复",
+                "summaryZh": "《差异与重复》把习惯、记忆和永恒回归作为不同时间综合，说明重复在深层产生主体和世界结构。",
+                "source": {
+                  "workId": "deleuze-difference-repetition",
+                  "locator": "Difference and Repetition, repetitions and syntheses of time",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "deleuze:evidence:004",
+                "titleZh": "永恒回归筛选差异而非同一",
+                "summaryZh": "文本把永恒回归解释为肯定差异和生成的选择原则，而不是同一事件的宇宙循环复制，从而使重复成为差异筛选机制。",
+                "source": {
+                  "workId": "deleuze-difference-repetition",
+                  "locator": "Difference and Repetition, eternal return and selection",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "deleuze:problem:002",
+        "titleZh": "意义、事件与表面",
+        "questionZh": "德勒兹如何用事件和表面改写意义理论？",
+        "summaryZh": "德勒兹在意义理论中避开主体意向和对象本质，把意义放在事件、表面效应和悖论运动之中理解。",
+        "themeIds": [
+          "language",
+          "metaphysics"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "deleuze:claim:003",
+            "titleZh": "事件不是物体属性的简单总和",
+            "claimZh": "德勒兹把事件理解为发生在物体和语言之间的表面效应，既不同于实体，也不同于主观表象。",
+            "explanationZh": "这一主张使意义问题从指称或心理内容转向生成中的事件结构，并连接斯多亚传统。",
+            "themeIds": [
+              "language",
+              "metaphysics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "deleuze:evidence:005",
+                "titleZh": "《意义的逻辑》重读斯多亚事件",
+                "summaryZh": "文本通过斯多亚的身体和无形物区分，说明事件以表面方式发生，不能还原为实体属性或心理观念。",
+                "source": {
+                  "workId": "deleuze-logic-sense",
+                  "locator": "The Logic of Sense, series on Stoic events and surface effects",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "deleuze:evidence:006",
+                "titleZh": "悖论推动意义生成",
+                "summaryZh": "书中借刘易斯·卡罗尔式悖论展示意义如何在方向、系列和表面滑动中生成，而非由固定概念一次决定。",
+                "source": {
+                  "workId": "deleuze-logic-sense",
+                  "locator": "The Logic of Sense, paradox and series of sense",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "deleuze:claim:004",
+            "titleZh": "哲学是概念创造而非普遍意见整理",
+            "claimZh": "德勒兹晚期认为哲学的任务是创造概念，并在内在平面上组织问题，而不是复制常识或科学命题。",
+            "explanationZh": "这条主张总结其思想风格：哲学通过发明概念开辟问题空间，与科学函数和艺术感知块不同。",
+            "themeIds": [
+              "knowledge",
+              "language"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "deleuze:evidence:007",
+                "titleZh": "《什么是哲学？》定义概念创造",
+                "summaryZh": "文本明确把哲学界定为创造概念的活动，概念不是标签，而是在问题场中连接组成部分的构造物。",
+                "source": {
+                  "workId": "deleuze-what-is-philosophy",
+                  "locator": "What Is Philosophy?, opening chapters on concept creation",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "deleuze:evidence:008",
+                "titleZh": "内在平面区分哲学、科学和艺术",
+                "summaryZh": "书中将哲学的内在平面、科学的函数和艺术的感知情感块分开，说明思想有多种创造方式。",
+                "source": {
+                  "workId": "deleuze-what-is-philosophy",
+                  "locator": "What Is Philosophy?, plane of immanence and rival modes of thought",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "deleuze:problem:003",
+        "titleZh": "欲望生产与多重体政治",
+        "questionZh": "德勒兹如何把欲望和社会组织从缺失模型中释放出来？",
+        "summaryZh": "德勒兹与瓜塔里把欲望理解为生产性组合，而不是家庭缺失的心理剧，并以根茎、多重体和去疆域化分析政治社会。",
+        "themeIds": [
+          "politics",
+          "freedom"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "deleuze:claim:005",
+            "titleZh": "欲望是生产而非匮乏",
+            "claimZh": "德勒兹和瓜塔里批判把欲望缩减为家庭缺失的精神分析模型，主张欲望直接生产社会连接。",
+            "explanationZh": "这一主张把无意识、资本主义和政治组织放在同一平面上，形成反俄狄浦斯的核心。",
+            "themeIds": [
+              "freedom",
+              "politics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "deleuze:evidence:009",
+                "titleZh": "《反俄狄浦斯》提出欲望机器",
+                "summaryZh": "文本把欲望描述为连接、切割和流动的机器过程，反对把无意识关回父母三角和家庭戏剧。",
+                "source": {
+                  "workId": "deleuze-anti-oedipus",
+                  "locator": "Anti-Oedipus, desiring-machines and critique of Oedipus",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "deleuze:evidence:010",
+                "titleZh": "资本主义与精神分析共同被批判",
+                "summaryZh": "书中分析资本主义如何释放又重新编码欲望流，精神分析则在家庭模型中重新限制这种社会生产性。",
+                "source": {
+                  "workId": "deleuze-anti-oedipus",
+                  "locator": "Anti-Oedipus, capitalism, coding, and psychoanalysis",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "deleuze:claim:006",
+            "titleZh": "根茎和多重体反对树状秩序",
+            "claimZh": "德勒兹和瓜塔里用根茎、多重体和组合体概念反对中心化、层级化的组织图式。",
+            "explanationZh": "这条主张使其政治哲学能够描述非线性连接、游牧运动和制度边缘的生成力量。",
+            "themeIds": [
+              "politics",
+              "metaphysics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "deleuze:evidence:011",
+                "titleZh": "《千高原》开篇根茎模型",
+                "summaryZh": "文本以根茎反对树和根的组织图式，强调任意连接、异质性、多入口和反中心结构，借此描述非层级的思想组织。",
+                "source": {
+                  "workId": "deleuze-thousand-plateaus",
+                  "locator": "A Thousand Plateaus, introduction Rhizome",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "deleuze:evidence:012",
+                "titleZh": "去疆域化描述社会运动",
+                "summaryZh": "书中通过去疆域化、再疆域化和组合体概念分析社会空间，说明权力和创造都在流动连接中发生。",
+                "source": {
+                  "workId": "deleuze-thousand-plateaus",
+                  "locator": "A Thousand Plateaus, assemblages and deterritorialization plateaus",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

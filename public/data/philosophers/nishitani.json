@@ -1,0 +1,292 @@
+{
+  "id": "nishitani",
+  "names": {
+    "zh": "西谷启治",
+    "en": "Keiji Nishitani"
+  },
+  "life": {
+    "birth": 1900,
+    "death": 1990,
+    "display": "1900—1990"
+  },
+  "civilization": "east_asian",
+  "traditions": [
+    "kyoto_school",
+    "zen_buddhism",
+    "existential_philosophy"
+  ],
+  "periods": [
+    "expansion_c3"
+  ],
+  "themes": [
+    "religion",
+    "metaphysics",
+    "life_death"
+  ],
+  "keywordsZh": [
+    "虚无",
+    "空",
+    "宗教哲学",
+    "京都学派",
+    "自我超克"
+  ],
+  "oneLineZh": "在京都学派中以佛教空回应现代虚无主义、宗教经验与欧洲存在论。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "西谷启治把尼采、海德格尔式虚无问题转入佛教空性语境，试图说明现代主体如何在宗教觉悟中超克虚无。",
+  "works": [
+    "nishitani-religion-nothingness",
+    "nishitani-self-overcoming-nihilism",
+    "nishitani-nishida-kitaro",
+    "nishitani-standpoint-zen",
+    "nishitani-on-buddhism"
+  ],
+  "sourceNotes": [
+    {
+      "label": "Primary corpus note",
+      "url": "https://plato.stanford.edu/entries/japanese-kyoto-school/",
+      "noteZh": "二手条目只用于核对生卒、作品和关系线；evidence 以西谷代表作自身问题为摘要对象。"
+    }
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "nishitani:problem:001",
+        "titleZh": "虚无主义与宗教觉悟",
+        "questionZh": "西谷如何把现代虚无主义转化为宗教哲学问题？",
+        "summaryZh": "西谷认为现代虚无主义不是单纯思想错误，而是自我、世界和意义基础同时失效的经验，必须在宗教觉悟中重新面对。",
+        "themeIds": [
+          "religion",
+          "life_death"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "nishitani:claim:001",
+            "titleZh": "虚无主义需要自我超克",
+            "claimZh": "西谷认为虚无主义只有在自身被彻底经验时才可能被超克，不能靠回到旧形而上学或外在信条解决。",
+            "explanationZh": "这使他既吸收尼采对欧洲价值崩解的诊断，又拒绝停留在意志或主体自我肯定层面。",
+            "themeIds": [
+              "religion",
+              "ethics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "nishitani:evidence:001",
+                "titleZh": "《虚无主义的自我超克》论欧洲虚无",
+                "summaryZh": "文本通过尼采、俄罗斯文学和欧洲思想史说明，虚无主义会从价值怀疑推进到存在根基的动摇，因此必须被内在地穿越。",
+                "source": {
+                  "workId": "nishitani-self-overcoming-nihilism",
+                  "locator": "The Self-Overcoming of Nihilism, chapters on Nietzsche and European nihilism",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "nishitani:evidence:002",
+                "titleZh": "虚无不是可被观念封堵的对象",
+                "summaryZh": "书中把虚无主义描述为主体自身立足地的瓦解，说明单纯补充信念或道德命令无法恢复真实的生存基础。",
+                "source": {
+                  "workId": "nishitani-self-overcoming-nihilism",
+                  "locator": "The Self-Overcoming of Nihilism, existential diagnosis of nihilism",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "nishitani:claim:002",
+            "titleZh": "宗教从自我中心性的崩解处开始",
+            "claimZh": "西谷主张真正的宗教问题发生在自我中心立场破裂之处，而不是在对象化神学命题中完成。",
+            "explanationZh": "宗教不是给世界添加一个超越对象，而是改变自我与世界显现方式的根本立场转换。",
+            "themeIds": [
+              "religion",
+              "metaphysics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "nishitani:evidence:003",
+                "titleZh": "《宗教与虚无》开篇追问宗教是什么",
+                "summaryZh": "文本从人为什么需要宗教出发，指出宗教问题只有当人生意义和自我存在被根本质疑时才真正出现。",
+                "source": {
+                  "workId": "nishitani-religion-nothingness",
+                  "locator": "Religion and Nothingness, opening chapters on the question of religion",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "nishitani:evidence:004",
+                "titleZh": "宗教问题不是理论对象问题",
+                "summaryZh": "书中反复区分对象化知识和存在立场转换，说明宗教觉悟要求主体自身被问题触及，而非旁观式研究宗教。",
+                "source": {
+                  "workId": "nishitani-religion-nothingness",
+                  "locator": "Religion and Nothingness, religion as existential standpoint",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "nishitani:problem:002",
+        "titleZh": "空、无和自我转化",
+        "questionZh": "西谷如何用佛教空性回应欧洲无的问题？",
+        "summaryZh": "西谷把空理解为超越主体和对象对立的场所，使自我在放下自我中心性时重新进入万物相互显现的世界。",
+        "themeIds": [
+          "metaphysics",
+          "religion"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "nishitani:claim:003",
+            "titleZh": "空不是虚无的否定版本",
+            "claimZh": "西谷认为空并非一切消失的虚无，而是万物如其自身显现且彼此相依的开放场。",
+            "explanationZh": "这条主张把佛教空性从纯否定误读中解放出来，使其能够回应现代虚无主义而不坠入无意义。",
+            "themeIds": [
+              "metaphysics",
+              "religion"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "nishitani:evidence:005",
+                "titleZh": "《宗教与虚无》区分虚无之场与空之场",
+                "summaryZh": "文本把虚无之场描述为意义基础崩塌，把空之场描述为自我和事物脱离对象化后重新显现的立场。",
+                "source": {
+                  "workId": "nishitani-religion-nothingness",
+                  "locator": "Religion and Nothingness, field of nihility and field of emptiness",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "nishitani:evidence:006",
+                "titleZh": "空使事物从自性执著中释放",
+                "summaryZh": "书中说明空并不取消具体事物，而是让事物摆脱被主体占有和实体化的方式，作为相依存在显现出来。",
+                "source": {
+                  "workId": "nishitani-religion-nothingness",
+                  "locator": "Religion and Nothingness, emptiness and things as they are",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "nishitani:claim:004",
+            "titleZh": "禅的立场要求实践性转身",
+            "claimZh": "西谷将禅理解为改变自我立足处的实践立场，而不是可被抽象定义穷尽的理论学说。",
+            "explanationZh": "这使他的佛教哲学保持实践维度：空不是概念结论，而是自我执著被实际松动后的世界经验。",
+            "themeIds": [
+              "religion",
+              "knowledge"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "nishitani:evidence:007",
+                "titleZh": "《禅的立场》论自我和实践",
+                "summaryZh": "文本强调禅不是关于内心对象的理论，而是通过修行和转身改变自我与世界的关系结构，使宗教觉悟成为实践性的立场转换。",
+                "source": {
+                  "workId": "nishitani-standpoint-zen",
+                  "locator": "The Standpoint of Zen, essays on Zen standpoint and self",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "nishitani:evidence:008",
+                "titleZh": "《论佛教》连接空与现代经验",
+                "summaryZh": "论文集中西谷把佛教空性放在现代文化和宗教对话中讨论，显示空必须被现实人生问题不断重新激活。",
+                "source": {
+                  "workId": "nishitani-on-buddhism",
+                  "locator": "On Buddhism, essays on emptiness and modernity",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "nishitani:problem:003",
+        "titleZh": "京都学派与东西方对话",
+        "questionZh": "西谷如何继承西田又超出单纯学派内部阐释？",
+        "summaryZh": "西谷从西田哲学和京都学派出发，同时把佛教、欧洲虚无主义和存在论并置，形成跨传统宗教哲学。",
+        "themeIds": [
+          "knowledge",
+          "religion"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "nishitani:claim:005",
+            "titleZh": "西田哲学提供绝对无的问题背景",
+            "claimZh": "西谷接受西田关于绝对无和场所的思想资源，但把它转向虚无主义、宗教觉悟和空的具体问题。",
+            "explanationZh": "这条继承线说明西谷不是孤立佛教思想家，而是在京都学派内部继续推进现代性问题。",
+            "themeIds": [
+              "metaphysics",
+              "religion"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "nishitani:evidence:009",
+                "titleZh": "《西田几多郎》阐释老师的问题域",
+                "summaryZh": "文本呈现西田哲学如何围绕纯粹经验、绝对无和自我觉醒展开，为西谷后来的宗教哲学提供背景。",
+                "source": {
+                  "workId": "nishitani-nishida-kitaro",
+                  "locator": "Nishida Kitaro, discussion of absolute nothingness and self-awareness",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "nishitani:evidence:010",
+                "titleZh": "西谷将京都学派问题宗教化",
+                "summaryZh": "相关阐释显示西谷并非重复西田术语，而是把无的问题放入现代虚无和宗教觉悟的生存场景中处理。",
+                "source": {
+                  "workId": "nishitani-nishida-kitaro",
+                  "locator": "Nishida Kitaro, Nishida legacy and religious standpoint",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "nishitani:claim:006",
+            "titleZh": "东西方对话必须进入根本经验层面",
+            "claimZh": "西谷认为佛教和欧洲哲学的对话不能停留在概念比较，而应在虚无、死亡和自我转化等根本经验中相遇。",
+            "explanationZh": "这使他成为C档收官中连接京都学派、欧陆存在论和亚洲宗教哲学的重要节点。",
+            "themeIds": [
+              "religion",
+              "life_death"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "nishitani:evidence:011",
+                "titleZh": "《宗教与虚无》并置佛教和欧洲虚无问题",
+                "summaryZh": "文本在讨论虚无、空和自我时持续调用尼采、海德格尔与佛教传统，显示比较哲学必须处理共同危机经验。",
+                "source": {
+                  "workId": "nishitani-religion-nothingness",
+                  "locator": "Religion and Nothingness, comparative use of Buddhism and European philosophy",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "nishitani:evidence:012",
+                "titleZh": "《论佛教》把佛教置入现代世界语境",
+                "summaryZh": "论文集以现代文化和宗教危机为背景谈佛教，说明西谷关注的是传统如何在现代世界中重新显现其哲学力量。",
+                "source": {
+                  "workId": "nishitani-on-buddhism",
+                  "locator": "On Buddhism, Buddhism and modern world essays",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

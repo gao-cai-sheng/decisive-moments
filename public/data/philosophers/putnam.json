@@ -1,0 +1,292 @@
+{
+  "id": "putnam",
+  "names": {
+    "zh": "普特南",
+    "en": "Hilary Putnam"
+  },
+  "life": {
+    "birth": 1926,
+    "death": 2016,
+    "display": "1926—2016"
+  },
+  "civilization": "american",
+  "traditions": [
+    "analytic_philosophy",
+    "pragmatism",
+    "philosophy_of_mind"
+  ],
+  "periods": [
+    "expansion_c1"
+  ],
+  "themes": [
+    "knowledge",
+    "language",
+    "ethics"
+  ],
+  "keywordsZh": [
+    "语义外在论",
+    "内在实在论",
+    "双生地球",
+    "事实价值纠缠",
+    "多重可实现性"
+  ],
+  "oneLineZh": "以语义外在论、实在论转向和事实价值纠缠贯穿语言、心灵、科学与伦理哲学。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "普特南不断修正自己的实在论、心灵哲学和伦理立场，以语义外在论和实践理性反对简单还原论。",
+  "works": [
+    "putnam-meaning-moral-sciences",
+    "putnam-reason-truth-history",
+    "putnam-many-faces-realism",
+    "putnam-representation-reality",
+    "putnam-ethics-without-ontology"
+  ],
+  "sourceNotes": [
+    {
+      "label": "Primary corpus note",
+      "url": "https://plato.stanford.edu/entries/putnam/",
+      "noteZh": "以普特南各时期代表作为核心；二手来源只校对与蒯因、克里普克、罗蒂和卡尔纳普的关系。"
+    }
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "putnam:problem:001",
+        "titleZh": "语义外在论与意义理论",
+        "questionZh": "普特南如何改变意义、心理状态和自然种类的关系？",
+        "summaryZh": "普特南通过双生地球和自然种类讨论说明，意义不只在头脑之中，而依赖外部环境、语言共同体和科学实践。",
+        "themeIds": [
+          "language",
+          "knowledge"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "putnam:claim:001",
+            "titleZh": "意义不只在头脑中",
+            "claimZh": "普特南认为说话者的心理状态不足以决定词语外延，环境和共同体分工参与意义构成。",
+            "explanationZh": "这条主张让他与克里普克共同改变自然种类语义学，并挑战内在主义心灵图像。",
+            "themeIds": [
+              "language",
+              "knowledge"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "putnam:evidence:001",
+                "titleZh": "《意义与道德科学》中的双生地球论证",
+                "summaryZh": "文本通过水和双生地球案例说明，两个心理状态相同的人可能因环境差异说出外延不同的词。",
+                "source": {
+                  "workId": "putnam-meaning-moral-sciences",
+                  "locator": "Meaning and the Moral Sciences, Twin Earth and meaning externalism",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "putnam:evidence:002",
+                "titleZh": "语言分工解释共同体外延固定",
+                "summaryZh": "相关论述强调普通说话者依赖专家和社会分工来固定自然种类词的使用，意义因此具有公共实践维度。",
+                "source": {
+                  "workId": "putnam-meaning-moral-sciences",
+                  "locator": "Meaning and the Moral Sciences, division of linguistic labor",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "putnam:claim:002",
+            "titleZh": "功能主义需要自我修正",
+            "claimZh": "普特南早期参与功能主义心灵哲学，后来批判把心理内容化约为计算表象的简单模型。",
+            "explanationZh": "他的思想转向显示其哲学风格：用自身旧理论中的困难推动新阶段，而不是固定在一个主义上。",
+            "themeIds": [
+              "knowledge",
+              "metaphysics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "putnam:evidence:003",
+                "titleZh": "《表象与实在》批判计算主义心灵图像",
+                "summaryZh": "书中反思功能主义和认知科学中的表象模型，指出心理内容不能由单一内部计算结构充分解释。",
+                "source": {
+                  "workId": "putnam-representation-reality",
+                  "locator": "Representation and Reality, critique of computational representationalism",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "putnam:evidence:004",
+                "titleZh": "多重可实现性削弱类型同一论",
+                "summaryZh": "相关讨论表明同一心理功能可由不同物理结构实现，心灵哲学不能简单还原为神经类型同一。",
+                "source": {
+                  "workId": "putnam-representation-reality",
+                  "locator": "Representation and Reality, functionalism and multiple realizability reconsidered",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "putnam:problem:002",
+        "titleZh": "实在论、真理与概念相对性",
+        "questionZh": "普特南如何在形而上学实在论和相对主义之间寻找位置？",
+        "summaryZh": "普特南批判上帝视角的形而上学实在论，同时拒绝把真理降为任意偏好，提出内在实在论和概念相对性的中间路径。",
+        "themeIds": [
+          "knowledge",
+          "metaphysics"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "putnam:claim:003",
+            "titleZh": "缸中之脑挑战全局怀疑论",
+            "claimZh": "普特南用语义外在论处理缸中之脑，认为某些全局怀疑论设想无法按其自身条件成功指称。",
+            "explanationZh": "这条主张把语言哲学用于认识论和实在论，显示怀疑论并非只靠感官证据问题驱动。",
+            "themeIds": [
+              "knowledge",
+              "language"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "putnam:evidence:005",
+                "titleZh": "《理性、真理与历史》提出缸中之脑论证",
+                "summaryZh": "书中指出若主体一直在缸中，其词语不会以普通方式指称真实脑和缸，因此怀疑论句子无法简单说出自身设想。",
+                "source": {
+                  "workId": "putnam-reason-truth-history",
+                  "locator": "Reason, Truth and History, brains in a vat argument",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "putnam:evidence:006",
+                "titleZh": "内在实在论拒绝上帝视角",
+                "summaryZh": "文本反对从完全外在的视角比较语言和世界，强调对象和真理只能在概念方案与实践中被把握。",
+                "source": {
+                  "workId": "putnam-reason-truth-history",
+                  "locator": "Reason, Truth and History, internal realism and truth",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "putnam:claim:004",
+            "titleZh": "概念相对性不等于任意相对主义",
+            "claimZh": "普特南认为同一实践领域可有多种等价描述方式，但这不意味着所有描述都同样合理。",
+            "explanationZh": "这使他既批评强实在论，也与罗蒂式反表象主义保持距离，保留规范评价和理性约束。",
+            "themeIds": [
+              "knowledge",
+              "language"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "putnam:evidence:007",
+                "titleZh": "《实在论的多重面貌》论对象和方案",
+                "summaryZh": "文本通过不同描述框架说明对象划分并非脱离概念实践预先给定，但合理性仍受用途、经验和推理约束。",
+                "source": {
+                  "workId": "putnam-many-faces-realism",
+                  "locator": "The Many Faces of Realism, conceptual relativity and objectivity",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "putnam:evidence:008",
+                "titleZh": "实在论多面向保留实践理性",
+                "summaryZh": "书中将实在论分解为科学、常识和伦理等多个面向，说明不同实践中的客观性不能用单一模型统一。",
+                "source": {
+                  "workId": "putnam-many-faces-realism",
+                  "locator": "The Many Faces of Realism, plural realism and practical reason",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "putnam:problem:003",
+        "titleZh": "事实价值纠缠与晚期伦理",
+        "questionZh": "普特南晚期为什么反对事实与价值的硬分离？",
+        "summaryZh": "普特南晚期把认识、语言和伦理联系起来，主张事实判断常含评价维度，伦理也不需要厚重本体论才能保持客观讨论。",
+        "themeIds": [
+          "ethics",
+          "knowledge"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "putnam:claim:005",
+            "titleZh": "事实和价值在实践中交织",
+            "claimZh": "普特南认为许多厚伦理概念同时描述事实和评价行动，不能被严格拆成中性事实加主观态度。",
+            "explanationZh": "这条主张延续其反还原论，说明伦理客观性可以建立在实践判断和语言使用中。",
+            "themeIds": [
+              "ethics",
+              "language"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "putnam:evidence:009",
+                "titleZh": "《无本体论的伦理学》拒绝二分",
+                "summaryZh": "文本批评事实与价值的硬分离，指出残酷、勇敢和公正等概念在描述情境时已经携带评价取向。",
+                "source": {
+                  "workId": "putnam-ethics-without-ontology",
+                  "locator": "Ethics Without Ontology, fact-value entanglement chapters",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "putnam:evidence:010",
+                "titleZh": "伦理不需要厚重对象论担保",
+                "summaryZh": "书中主张伦理讨论无需假设特殊价值实体，也不必因缺少这种实体就坠入主观主义；伦理客观性可保留在论证实践中。",
+                "source": {
+                  "workId": "putnam-ethics-without-ontology",
+                  "locator": "Ethics Without Ontology, objectivity without heavy ontology",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "putnam:claim:006",
+            "titleZh": "普特南以自我修正保持哲学开放",
+            "claimZh": "普特南的多次转向本身体现一种反教条方法：哲学应在科学、语言和伦理实践的压力下不断修正。",
+            "explanationZh": "这使他成为分析哲学内部通向实用主义和伦理复兴的桥梁，也解释其与蒯因、罗蒂和卡尔纳普的复杂关系。",
+            "themeIds": [
+              "knowledge",
+              "ethics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "putnam:evidence:011",
+                "titleZh": "《理性、真理与历史》标志实在论转向",
+                "summaryZh": "文本从早期科学实在论转入内在实在论，显示普特南愿意因语义和怀疑论问题重构自身立场。",
+                "source": {
+                  "workId": "putnam-reason-truth-history",
+                  "locator": "Reason, Truth and History, realism and rational acceptability",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "putnam:evidence:012",
+                "titleZh": "晚期伦理回到实用主义关切",
+                "summaryZh": "《无本体论的伦理学》把理性、语言和价值放在可讨论的公共实践中，延续其晚期实用主义取向。",
+                "source": {
+                  "workId": "putnam-ethics-without-ontology",
+                  "locator": "Ethics Without Ontology, ethics, reason, and pragmatist orientation",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

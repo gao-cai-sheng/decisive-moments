@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "items": [
+    {
+      "id": "dharmakirti-debt:claim:secondary-summary-repair",
+      "type": "work",
+      "claimZh": "dharmakirti 的 5 条当前二手转述 evidence 应改为一手文本摘要，避免继续把 SEP 概述当作 evidence.summaryZh。",
+      "evidenceZh": "目标 evidence 为 003、005、008、010、012；修复包给出一手标题、summaryZh 和 locator 替换建议。",
+      "confidence": "high",
+      "reviewStatus": "needs_human_review",
+      "sourceIds": ["S1", "S3"]
+    },
+    {
+      "id": "dharmakirti-debt:claim:merge-with-d1",
+      "type": "relationship",
+      "claimZh": "该修复属于内容债而非 D1 新增人物，适合随 D1 合并审但不应阻断 C档收官。",
+      "evidenceZh": "D1 为二期预产，欠债包只涉及既有 dharmakirti 的 evidence 摘要来源口径修复，正式库暂不写入。",
+      "confidence": "high",
+      "reviewStatus": "needs_human_review",
+      "sourceIds": ["S2", "S3"]
+    }
+  ]
+}

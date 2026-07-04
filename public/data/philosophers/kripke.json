@@ -1,0 +1,291 @@
+{
+  "id": "kripke",
+  "names": {
+    "zh": "克里普克",
+    "en": "Saul Kripke"
+  },
+  "life": {
+    "birth": 1940,
+    "death": 2022,
+    "display": "1940—2022"
+  },
+  "civilization": "american",
+  "traditions": [
+    "analytic_philosophy",
+    "modal_logic",
+    "philosophy_of_language"
+  ],
+  "periods": [
+    "expansion_c1"
+  ],
+  "themes": [
+    "language",
+    "metaphysics",
+    "knowledge"
+  ],
+  "keywordsZh": [
+    "刚性指称",
+    "必然性",
+    "可能世界",
+    "命名",
+    "规则遵循"
+  ],
+  "oneLineZh": "以模态逻辑、刚性指称和命名理论重塑二十世纪后期语言哲学与形而上学。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "克里普克用命名与必然性理论挑战描述论，恢复本质、必然后验和可能世界语义在分析哲学中的中心位置。",
+  "works": [
+    "kripke-naming-necessity",
+    "kripke-wittgenstein-rules",
+    "kripke-reference-existence",
+    "kripke-modal-logic",
+    "kripke-theory-truth"
+  ],
+  "sourceNotes": [
+    {
+      "label": "Primary corpus note",
+      "url": "https://plato.stanford.edu/entries/kripke/",
+      "noteZh": "以《命名与必然性》和规则遵循文本为核心；二手来源只辅助核对题名和关系线。"
+    }
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "kripke:problem:001",
+        "titleZh": "命名、刚性指称与必然性",
+        "questionZh": "克里普克如何改变专名、指称和模态必然性的关系？",
+        "summaryZh": "克里普克反对把专名化约为描述集合，主张名称通过因果历史链固定对象，并在可能世界中刚性指称同一对象。",
+        "themeIds": [
+          "language",
+          "metaphysics"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "kripke:claim:001",
+            "titleZh": "专名不是缩略描述",
+            "claimZh": "克里普克认为专名的指称不由说话者掌握的一组描述决定，因此描述论无法解释命名稳定性。",
+            "explanationZh": "这一主张直接重排弗雷格和罗素以来名称理论，使指称问题从意义内容转向命名链条和对象固定。",
+            "themeIds": [
+              "language"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "kripke:evidence:001",
+                "titleZh": "《命名与必然性》批判描述论",
+                "summaryZh": "讲座通过亚里士多德、哥德尔和费曼等例子说明，说话者可能掌握错误描述，名称仍能指向同一对象。",
+                "source": {
+                  "workId": "kripke-naming-necessity",
+                  "locator": "Naming and Necessity, Lecture I criticism of descriptivism",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "kripke:evidence:002",
+                "titleZh": "因果历史链解释指称传递",
+                "summaryZh": "文本把命名理解为初始命名和共同体传递的链条，使名称指称不依赖每个使用者能给出识别性描述。",
+                "source": {
+                  "workId": "kripke-naming-necessity",
+                  "locator": "Naming and Necessity, causal-historical picture of reference",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "kripke:claim:002",
+            "titleZh": "刚性指称连接名称和模态",
+            "claimZh": "克里普克主张专名在可能世界中刚性指称同一对象，因此名称语句可表达必然后验真理。",
+            "explanationZh": "这条主张使必然性不再只等同于先验分析真理，为现代形而上学恢复本质问题打开空间。",
+            "themeIds": [
+              "metaphysics",
+              "language"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "kripke:evidence:003",
+                "titleZh": "水是H2O的必然后验例子",
+                "summaryZh": "《命名与必然性》用自然种类例子说明，经验发现固定了水的本质后，该同一性在相关可能世界中具有必然性。",
+                "source": {
+                  "workId": "kripke-naming-necessity",
+                  "locator": "Naming and Necessity, Lecture III natural kind terms and necessary a posteriori",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "kripke:evidence:004",
+                "titleZh": "热和分子运动显示同一性结构",
+                "summaryZh": "文本通过科学同一性案例区分认识路径和模态地位，说明经验发现可以揭示并非偶然的本质关系。",
+                "source": {
+                  "workId": "kripke-naming-necessity",
+                  "locator": "Naming and Necessity, scientific identity statements and necessity",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "kripke:problem:002",
+        "titleZh": "可能世界语义与模态逻辑",
+        "questionZh": "克里普克如何把模态逻辑转化为可处理可达关系的语义系统？",
+        "summaryZh": "克里普克早期模态逻辑工作用可能世界和可达关系解释必然与可能，使模态系统获得清晰模型论结构。",
+        "themeIds": [
+          "metaphysics",
+          "knowledge"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "kripke:claim:003",
+            "titleZh": "可达关系区分模态系统",
+            "claimZh": "克里普克语义通过世界之间的可达关系说明不同模态逻辑系统的有效性条件。",
+            "explanationZh": "这条主张展示克里普克不仅是语言哲学家，也为二十世纪模态逻辑提供了技术框架。",
+            "themeIds": [
+              "metaphysics",
+              "knowledge"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "kripke:evidence:005",
+                "titleZh": "《模态逻辑的语义考虑》引入模型结构",
+                "summaryZh": "论文使用可能世界、可达关系和赋值解释模态公式，使必然性和可能性获得精确的语义条件。",
+                "source": {
+                  "workId": "kripke-modal-logic",
+                  "locator": "Semantical Considerations on Modal Logic, model structures and accessibility",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "kripke:evidence:006",
+                "titleZh": "语义方法连接证明论和模型论",
+                "summaryZh": "早期论文说明不同公理系统对应不同关系性质，从而让模态逻辑比较不只停留在符号推演层面。",
+                "source": {
+                  "workId": "kripke-modal-logic",
+                  "locator": "Semantical Considerations, modal systems and frame conditions",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "kripke:claim:004",
+            "titleZh": "真理理论可用部分性处理悖论",
+            "claimZh": "克里普克在真理论中使用部分定义和固定点思路，避免简单层级理论对自然语言真理谓词的过度切割。",
+            "explanationZh": "这条主张显示其形式工具不只服务模态，也进入语义悖论和自然语言真理问题。",
+            "themeIds": [
+              "language",
+              "knowledge"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "kripke:evidence:007",
+                "titleZh": "《真理论纲》处理说谎者悖论",
+                "summaryZh": "论文通过允许语句暂时无真值并逐步构造固定点，给自然语言真理谓词提供更弹性的语义说明。",
+                "source": {
+                  "workId": "kripke-theory-truth",
+                  "locator": "Outline of a Theory of Truth, fixed points and truth-value gaps",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "kripke:evidence:008",
+                "titleZh": "部分真理谓词保留自然语言直觉",
+                "summaryZh": "文本不把真理谓词简单排除出对象语言，而是说明在适当构造中许多普通真理断言仍可获得稳定值。",
+                "source": {
+                  "workId": "kripke-theory-truth",
+                  "locator": "Outline of a Theory of Truth, natural language truth predicate",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "kripke:problem:003",
+        "titleZh": "规则遵循与私人语言",
+        "questionZh": "克里普克式维特根斯坦为什么使规则遵循成为怀疑论问题？",
+        "summaryZh": "克里普克将维特根斯坦解释为提出关于规则遵循的怀疑论挑战：过去事实似乎不能决定我现在应如何继续应用规则。",
+        "themeIds": [
+          "language",
+          "knowledge"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "kripke:claim:005",
+            "titleZh": "规则没有由私人事实完全固定",
+            "claimZh": "克里普克式解释认为，关于我过去意图的私人事实不足以决定我现在是在遵循加法还是别的规则。",
+            "explanationZh": "这条主张把语言意义和规范性转化为共同体实践问题，也造成维特根斯坦研究中的重要争论。",
+            "themeIds": [
+              "language",
+              "knowledge"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "kripke:evidence:009",
+                "titleZh": "《规则与私人语言》提出quus例子",
+                "summaryZh": "书中用异常运算例子说明，有限过去用法似乎总可由多种规则解释，因此意义归属面临怀疑论压力。",
+                "source": {
+                  "workId": "kripke-wittgenstein-rules",
+                  "locator": "Wittgenstein on Rules and Private Language, skeptical paradox and quus example",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "kripke:evidence:010",
+                "titleZh": "怀疑论解答诉诸共同体断言条件",
+                "summaryZh": "文本将意义从私人事实转向共同体认可的使用条件，说明规则遵循需要公共实践中的纠错和训练。",
+                "source": {
+                  "workId": "kripke-wittgenstein-rules",
+                  "locator": "Wittgenstein on Rules and Private Language, skeptical solution and community practice",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "kripke:claim:006",
+            "titleZh": "虚构名称扩展指称问题",
+            "claimZh": "克里普克在虚构对象讨论中继续追问名称如何在没有普通对象时发挥语言功能。",
+            "explanationZh": "这使命名理论从自然种类和个人名称进入文学、虚构和存在论承诺问题。",
+            "themeIds": [
+              "language",
+              "metaphysics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "kripke:evidence:011",
+                "titleZh": "《指称与存在》讨论虚构名称",
+                "summaryZh": "讲座整理了福尔摩斯等虚构名称的语义地位，区分文本内部谈论和现实存在承诺之间的差异。",
+                "source": {
+                  "workId": "kripke-reference-existence",
+                  "locator": "Reference and Existence, lectures on fictional names",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "kripke:evidence:012",
+                "titleZh": "虚构语境显示语言层级复杂性",
+                "summaryZh": "文本说明同一名称可在故事内部、文学批评和现实存在断言中承担不同功能，指称理论必须区分这些语境。",
+                "source": {
+                  "workId": "kripke-reference-existence",
+                  "locator": "Reference and Existence, fictional discourse and existence claims",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

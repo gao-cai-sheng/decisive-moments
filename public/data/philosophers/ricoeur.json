@@ -1,0 +1,291 @@
+{
+  "id": "ricoeur",
+  "names": {
+    "zh": "利科",
+    "en": "Paul Ricoeur"
+  },
+  "life": {
+    "birth": 1913,
+    "death": 2005,
+    "display": "1913—2005"
+  },
+  "civilization": "western_modern",
+  "traditions": [
+    "hermeneutics",
+    "phenomenology",
+    "narrative_philosophy"
+  ],
+  "periods": [
+    "expansion_c2"
+  ],
+  "themes": [
+    "language",
+    "ethics",
+    "knowledge"
+  ],
+  "keywordsZh": [
+    "解释学",
+    "象征",
+    "隐喻",
+    "叙事身份",
+    "承认"
+  ],
+  "oneLineZh": "在现象学和解释学之间发展象征、隐喻、叙事和自我身份理论。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "利科把解释学从文本意义扩展到象征、隐喻、叙事时间和自我身份，兼容怀疑解释与信任解释。",
+  "works": [
+    "ricoeur-symbolism-evil",
+    "ricoeur-freud-philosophy",
+    "ricoeur-rule-metaphor",
+    "ricoeur-time-narrative",
+    "ricoeur-oneself-as-another"
+  ],
+  "sourceNotes": [
+    {
+      "label": "Primary corpus note",
+      "url": "https://plato.stanford.edu/entries/ricoeur/",
+      "noteZh": "以利科代表作为核心；二手来源只校对伽达默尔、胡塞尔、海德格尔和阿伦特关系。"
+    }
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "ricoeur:problem:001",
+        "titleZh": "象征与怀疑解释学",
+        "questionZh": "利科如何在信任象征和怀疑解释之间保持张力？",
+        "summaryZh": "利科从恶的象征和弗洛伊德解释出发，说明解释学既要倾听意义的给予，也要揭示遮蔽、欲望和意识形态。",
+        "themeIds": [
+          "language",
+          "ethics"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "ricoeur:claim:001",
+            "titleZh": "象征给予思想可解释的多重意义",
+            "claimZh": "利科认为象征不是简单符号替代，而是在多重意义中召唤解释，使恶、罪责和希望获得语言形式。",
+            "explanationZh": "这一主张使早期利科把宗教象征、伦理经验和解释学问题连接起来，而不是把象征还原为心理事实。",
+            "themeIds": [
+              "language",
+              "ethics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "ricoeur:evidence:001",
+                "titleZh": "《恶的象征》分析污秽、罪和罪责",
+                "summaryZh": "文本通过污秽、罪和罪责等象征说明，恶的经验不能由抽象概念直接把握，需要象征语言打开解释层次。",
+                "source": {
+                  "workId": "ricoeur-symbolism-evil",
+                  "locator": "The Symbolism of Evil, symbols of defilement, sin, and guilt",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "ricoeur:evidence:002",
+                "titleZh": "象征引发而非结束思想",
+                "summaryZh": "书中把象征理解为引人思考的结构，解释者不是抛弃象征，而是在解释中展开其多重意义。",
+                "source": {
+                  "workId": "ricoeur-symbolism-evil",
+                  "locator": "The Symbolism of Evil, conclusion on symbol and thought",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "ricoeur:claim:002",
+            "titleZh": "怀疑解释揭露意识表面之下的意义",
+            "claimZh": "利科把弗洛伊德、马克思和尼采式怀疑视为解释学内部力量，用以揭露意识自我理解的遮蔽。",
+            "explanationZh": "这条主张使利科不是传统保守解释学家，而是在恢复意义和批判幻象之间寻找中介道路。",
+            "themeIds": [
+              "knowledge",
+              "language"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "ricoeur:evidence:003",
+                "titleZh": "《弗洛伊德与哲学》解释梦和欲望",
+                "summaryZh": "文本把精神分析视为解释冲突和伪装意义的方式，说明意识并不透明掌握自身动机，主体需要经由解释面对欲望结构。",
+                "source": {
+                  "workId": "ricoeur-freud-philosophy",
+                  "locator": "Freud and Philosophy, interpretation of dreams and desire",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "ricoeur:evidence:004",
+                "titleZh": "怀疑大师改变解释任务",
+                "summaryZh": "书中把弗洛伊德与马克思、尼采并列为怀疑大师，显示解释既要恢复意义，也要揭穿虚假意识。",
+                "source": {
+                  "workId": "ricoeur-freud-philosophy",
+                  "locator": "Freud and Philosophy, hermeneutics of suspicion",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ricoeur:problem:002",
+        "titleZh": "隐喻、文本与世界展开",
+        "questionZh": "利科如何把语言创新理解为新的世界显示？",
+        "summaryZh": "利科把隐喻看成语义创新，不只是修辞装饰；文本通过重新配置意义，让读者在语言中发现新的可能世界。",
+        "themeIds": [
+          "language",
+          "knowledge"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "ricoeur:claim:003",
+            "titleZh": "活隐喻创造新的意义关联",
+            "claimZh": "利科认为活隐喻通过语义张力产生新的谓述关系，从而扩展语言描述世界的能力。",
+            "explanationZh": "这一主张使语言哲学从命题对应转向创造性解释，也为叙事理论中的世界配置奠基。",
+            "themeIds": [
+              "language"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "ricoeur:evidence:005",
+                "titleZh": "《隐喻的规则》分析语义创新",
+                "summaryZh": "文本说明隐喻不是单词替换，而是在句子层面制造张力，使看似不相容的意义产生新的可理解关系。",
+                "source": {
+                  "workId": "ricoeur-rule-metaphor",
+                  "locator": "The Rule of Metaphor, semantic innovation and predication",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "ricoeur:evidence:006",
+                "titleZh": "隐喻重新描述现实",
+                "summaryZh": "书中强调诗性语言并非逃离现实，而是通过新的可见方式重述世界，使读者获得不同理解。",
+                "source": {
+                  "workId": "ricoeur-rule-metaphor",
+                  "locator": "The Rule of Metaphor, metaphor and redescription of reality",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "ricoeur:claim:004",
+            "titleZh": "文本解释在距离中展开意义",
+            "claimZh": "利科认为书写文本脱离原始说话情境后获得解释距离，读者可在这种距离中展开新的世界。",
+            "explanationZh": "这条主张把伽达默尔式理解转向文本中介，强调意义不被作者意图或原场景完全封闭。",
+            "themeIds": [
+              "language",
+              "knowledge"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "ricoeur:evidence:007",
+                "titleZh": "隐喻文本开启可居住世界",
+                "summaryZh": "《隐喻的规则》把文本意义理解为面向读者的世界投射，读者通过解释进入被语言重新配置的现实。",
+                "source": {
+                  "workId": "ricoeur-rule-metaphor",
+                  "locator": "The Rule of Metaphor, text and world disclosure",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "ricoeur:evidence:008",
+                "titleZh": "解释不等于还原作者心理",
+                "summaryZh": "相关章节强调文本意义经过书写固定后具有自主性，解释关注作品所开启的意义结构，而非只追溯作者意图。",
+                "source": {
+                  "workId": "ricoeur-rule-metaphor",
+                  "locator": "The Rule of Metaphor, discourse, text, and interpretation",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ricoeur:problem:003",
+        "titleZh": "叙事时间与自身作为他者",
+        "questionZh": "利科如何用叙事解释时间经验和自我身份？",
+        "summaryZh": "利科通过叙事配置连接宇宙时间和生活时间，并在自我身份中区分同一性和守诺、责任、他者性。",
+        "themeIds": [
+          "ethics",
+          "life_death"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "ricoeur:claim:005",
+            "titleZh": "叙事配置调解时间经验",
+            "claimZh": "利科认为人类通过叙事把零散事件配置为有意义的时间整体，从而理解行动、历史和人生。",
+            "explanationZh": "这一主张连接奥古斯丁时间问题和亚里士多德情节理论，使时间经验经由叙事获得可理解形态。",
+            "themeIds": [
+              "life_death",
+              "language"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "ricoeur:evidence:009",
+                "titleZh": "《时间与叙事》调解奥古斯丁和亚里士多德",
+                "summaryZh": "文本把奥古斯丁的时间困惑与亚里士多德的情节配置相连，说明叙事能组织经验时间的张力。",
+                "source": {
+                  "workId": "ricoeur-time-narrative",
+                  "locator": "Time and Narrative, volume I on Augustine and Aristotle",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "ricoeur:evidence:010",
+                "titleZh": "历史叙事和虚构叙事共同塑形时间",
+                "summaryZh": "三卷本比较历史和虚构叙事，说明二者都通过配置、重述和阅读活动改变人理解时间的方式。",
+                "source": {
+                  "workId": "ricoeur-time-narrative",
+                  "locator": "Time and Narrative, volumes II-III on historical and fictional narrative",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "ricoeur:claim:006",
+            "titleZh": "自我身份包含他者性和承诺",
+            "claimZh": "利科区分同一性身份和保持承诺的自身性，认为自我总在他者关系和责任中形成。",
+            "explanationZh": "这条主张让解释学进入伦理学：自我不是封闭实体，而是在叙事、承诺和与他者的关系中被维持。",
+            "themeIds": [
+              "ethics",
+              "freedom"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "ricoeur:evidence:011",
+                "titleZh": "《作为他者的自身》区分idem和ipse",
+                "summaryZh": "文本区分持久相同性和守诺中的自身性，说明人格身份不是单靠不变特征维持，而是在时间、叙事和承诺中形成。",
+                "source": {
+                  "workId": "ricoeur-oneself-as-another",
+                  "locator": "Oneself as Another, studies on idem and ipse identity",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "ricoeur:evidence:012",
+                "titleZh": "伦理意向连接自我和他者",
+                "summaryZh": "书中把好生活、与他人共处和正义制度相连，说明自我实现必须经过他者承认和公共伦理。",
+                "source": {
+                  "workId": "ricoeur-oneself-as-another",
+                  "locator": "Oneself as Another, ethical aim and solicitude studies",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

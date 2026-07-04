@@ -5621,5 +5621,436 @@
     "oneLineZh": "以良知主义、泛非统一和新殖民主义批判构成独立后非洲政治哲学的重要节点。",
     "influenceWeight": 2,
     "reviewStatus": "draft"
+  },
+  {
+    "id": "macintyre",
+    "names": {
+      "zh": "麦金太尔",
+      "en": "Alasdair MacIntyre"
+    },
+    "life": {
+      "birth": 1929,
+      "death": 2025,
+      "display": "1929—2025"
+    },
+    "civilization": "western_modern",
+    "traditions": [
+      "virtue_ethics",
+      "aristotelianism",
+      "communitarianism"
+    ],
+    "periods": [
+      "expansion_c1"
+    ],
+    "themes": [
+      "ethics",
+      "politics",
+      "knowledge"
+    ],
+    "keywordsZh": [
+      "德性伦理",
+      "实践",
+      "传统",
+      "叙事统一",
+      "现代道德碎片化"
+    ],
+    "oneLineZh": "以德性、实践和传统构成现代道德哲学中反自由主义与反情感主义的重要方案。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "rorty",
+    "names": {
+      "zh": "罗蒂",
+      "en": "Richard Rorty"
+    },
+    "life": {
+      "birth": 1931,
+      "death": 2007,
+      "display": "1931—2007"
+    },
+    "civilization": "american",
+    "traditions": [
+      "pragmatism",
+      "neopragmatism",
+      "anti_representationalism"
+    ],
+    "periods": [
+      "expansion_c1"
+    ],
+    "themes": [
+      "language",
+      "knowledge",
+      "politics"
+    ],
+    "keywordsZh": [
+      "新实用主义",
+      "反表象主义",
+      "词汇",
+      "自由主义反讽",
+      "民主希望"
+    ],
+    "oneLineZh": "以反表象主义和新实用主义把分析哲学、德威传统和自由民主文化重新连接。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "kripke",
+    "names": {
+      "zh": "克里普克",
+      "en": "Saul Kripke"
+    },
+    "life": {
+      "birth": 1940,
+      "death": 2022,
+      "display": "1940—2022"
+    },
+    "civilization": "american",
+    "traditions": [
+      "analytic_philosophy",
+      "modal_logic",
+      "philosophy_of_language"
+    ],
+    "periods": [
+      "expansion_c1"
+    ],
+    "themes": [
+      "language",
+      "metaphysics",
+      "knowledge"
+    ],
+    "keywordsZh": [
+      "刚性指称",
+      "必然性",
+      "可能世界",
+      "命名",
+      "规则遵循"
+    ],
+    "oneLineZh": "以模态逻辑、刚性指称和命名理论重塑二十世纪后期语言哲学与形而上学。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "putnam",
+    "names": {
+      "zh": "普特南",
+      "en": "Hilary Putnam"
+    },
+    "life": {
+      "birth": 1926,
+      "death": 2016,
+      "display": "1926—2016"
+    },
+    "civilization": "american",
+    "traditions": [
+      "analytic_philosophy",
+      "pragmatism",
+      "philosophy_of_mind"
+    ],
+    "periods": [
+      "expansion_c1"
+    ],
+    "themes": [
+      "knowledge",
+      "language",
+      "ethics"
+    ],
+    "keywordsZh": [
+      "语义外在论",
+      "内在实在论",
+      "双生地球",
+      "事实价值纠缠",
+      "多重可实现性"
+    ],
+    "oneLineZh": "以语义外在论、实在论转向和事实价值纠缠贯穿语言、心灵、科学与伦理哲学。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "davidson",
+    "names": {
+      "zh": "戴维森",
+      "en": "Donald Davidson"
+    },
+    "life": {
+      "birth": 1917,
+      "death": 2003,
+      "display": "1917—2003"
+    },
+    "civilization": "american",
+    "traditions": [
+      "analytic_philosophy",
+      "philosophy_of_language",
+      "action_theory"
+    ],
+    "periods": [
+      "expansion_c2"
+    ],
+    "themes": [
+      "language",
+      "knowledge",
+      "metaphysics"
+    ],
+    "keywordsZh": [
+      "真理论语义学",
+      "激进解释",
+      "行动理由",
+      "反常一元论",
+      "三角测量"
+    ],
+    "oneLineZh": "以真理论语义学、激进解释和行动理论重塑后蒯因时代的语言哲学与心灵哲学。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "deleuze",
+    "names": {
+      "zh": "德勒兹",
+      "en": "Gilles Deleuze"
+    },
+    "life": {
+      "birth": 1925,
+      "death": 1995,
+      "display": "1925—1995"
+    },
+    "civilization": "western_modern",
+    "traditions": [
+      "continental_philosophy",
+      "poststructuralism",
+      "immanence_philosophy"
+    ],
+    "periods": [
+      "expansion_c2"
+    ],
+    "themes": [
+      "metaphysics",
+      "freedom",
+      "politics"
+    ],
+    "keywordsZh": [
+      "差异",
+      "重复",
+      "内在性",
+      "欲望",
+      "生成"
+    ],
+    "oneLineZh": "以差异、重复、生成和内在性重写形而上学、欲望理论与后结构主义政治想象。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "ricoeur",
+    "names": {
+      "zh": "利科",
+      "en": "Paul Ricoeur"
+    },
+    "life": {
+      "birth": 1913,
+      "death": 2005,
+      "display": "1913—2005"
+    },
+    "civilization": "western_modern",
+    "traditions": [
+      "hermeneutics",
+      "phenomenology",
+      "narrative_philosophy"
+    ],
+    "periods": [
+      "expansion_c2"
+    ],
+    "themes": [
+      "language",
+      "ethics",
+      "knowledge"
+    ],
+    "keywordsZh": [
+      "解释学",
+      "象征",
+      "隐喻",
+      "叙事身份",
+      "承认"
+    ],
+    "oneLineZh": "在现象学和解释学之间发展象征、隐喻、叙事和自我身份理论。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "weber",
+    "names": {
+      "zh": "韦伯",
+      "en": "Max Weber"
+    },
+    "life": {
+      "birth": 1864,
+      "death": 1920,
+      "display": "1864—1920"
+    },
+    "civilization": "western_modern",
+    "traditions": [
+      "social_theory",
+      "interpretive_sociology",
+      "political_theory"
+    ],
+    "periods": [
+      "expansion_c2"
+    ],
+    "themes": [
+      "politics",
+      "knowledge",
+      "ethics"
+    ],
+    "keywordsZh": [
+      "理性化",
+      "新教伦理",
+      "科层制",
+      "支配类型",
+      "志业"
+    ],
+    "oneLineZh": "以理解社会学、理性化和支配类型分析现代资本主义、官僚制与政治责任。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "nishitani",
+    "names": {
+      "zh": "西谷启治",
+      "en": "Keiji Nishitani"
+    },
+    "life": {
+      "birth": 1900,
+      "death": 1990,
+      "display": "1900—1990"
+    },
+    "civilization": "east_asian",
+    "traditions": [
+      "kyoto_school",
+      "zen_buddhism",
+      "existential_philosophy"
+    ],
+    "periods": [
+      "expansion_c3"
+    ],
+    "themes": [
+      "religion",
+      "metaphysics",
+      "life_death"
+    ],
+    "keywordsZh": [
+      "虚无",
+      "空",
+      "宗教哲学",
+      "京都学派",
+      "自我超克"
+    ],
+    "oneLineZh": "在京都学派中以佛教空回应现代虚无主义、宗教经验与欧洲存在论。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "radhakrishnan",
+    "names": {
+      "zh": "拉达克里希南",
+      "en": "Sarvepalli Radhakrishnan"
+    },
+    "life": {
+      "birth": 1888,
+      "death": 1975,
+      "display": "1888—1975"
+    },
+    "civilization": "indian",
+    "traditions": [
+      "modern_vedanta",
+      "comparative_philosophy",
+      "religious_philosophy"
+    ],
+    "periods": [
+      "expansion_c3"
+    ],
+    "themes": [
+      "religion",
+      "knowledge",
+      "ethics"
+    ],
+    "keywordsZh": [
+      "印度哲学",
+      "比较宗教",
+      "吠檀多",
+      "直觉",
+      "精神人文主义"
+    ],
+    "oneLineZh": "以现代吠檀多和比较哲学方式重述印度思想，并把宗教经验置于世界哲学对话中。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "madhva",
+    "names": {
+      "zh": "摩陀婆",
+      "en": "Madhva"
+    },
+    "life": {
+      "birth": 1238,
+      "death": 1317,
+      "display": "约1238—1317"
+    },
+    "civilization": "indian",
+    "traditions": [
+      "dvaita_vedanta",
+      "vedanta",
+      "theistic_philosophy"
+    ],
+    "periods": [
+      "expansion_c3"
+    ],
+    "themes": [
+      "religion",
+      "metaphysics",
+      "knowledge"
+    ],
+    "keywordsZh": [
+      "二元论吠檀多",
+      "毗湿奴信仰",
+      "差异",
+      "注疏",
+      "解脱"
+    ],
+    "oneLineZh": "以二元论吠檀多反对不二论，强调神、灵魂和世界之间真实差异。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "charles-taylor",
+    "names": {
+      "zh": "查尔斯·泰勒",
+      "en": "Charles Taylor"
+    },
+    "life": {
+      "birth": 1931,
+      "display": "1931—"
+    },
+    "civilization": "western_modern",
+    "traditions": [
+      "communitarianism",
+      "political_philosophy",
+      "hermeneutics"
+    ],
+    "periods": [
+      "expansion_c3"
+    ],
+    "themes": [
+      "politics",
+      "ethics",
+      "religion"
+    ],
+    "keywordsZh": [
+      "承认政治",
+      "现代自我",
+      "世俗时代",
+      "强评价",
+      "社群主义"
+    ],
+    "oneLineZh": "以现代自我、承认政治和世俗化理论重塑政治哲学、伦理学与宗教现代性研究。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
   }
 ]
