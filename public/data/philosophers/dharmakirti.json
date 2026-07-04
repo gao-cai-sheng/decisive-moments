@@ -105,11 +105,11 @@
             "evidence": [
               {
                 "id": "dharmakirti:evidence:003",
-                "titleZh": "SEP 论法称的唯名论和独自相",
-                "summaryZh": "SEP 条目说明法称把真正实在限于具因果力的独自相，并把共相视为思想和语言中的构造。",
+                "titleZh": "《量评释》第一品论独自相与共相构造",
+                "summaryZh": "第一品把真正有效的对象限定为具有因果效力的个别相，并把共相解释为概念活动中的构造对象。",
                 "source": {
                   "workId": "dharmakirti-pramanavarttika",
-                  "locator": "Pramanavarttika I.152 and SEP section 1.1 on nominalism",
+                  "locator": "Pramanavarttika I.152 in the nominalism discussion",
                   "excerptStatus": "summary_only"
                 }
               },
@@ -151,11 +151,11 @@
             "evidence": [
               {
                 "id": "dharmakirti:evidence:005",
-                "titleZh": "SEP 论 apoha 语义学",
-                "summaryZh": "SEP 条目把 apoha 列为法称认识论和语言哲学核心，说明词义通过排除不相干对象而形成。",
+                "titleZh": "《量评释》第一品论 apoha 排除机制",
+                "summaryZh": "第一品通过排除非此者说明词义形成，使语言分类依赖概念排除而不需要承认独立普遍实体。",
                 "source": {
                   "workId": "dharmakirti-pramanavarttika",
-                  "locator": "Pramanavarttika, apoha materials discussed in SEP section 2.2",
+                  "locator": "Pramanavarttika I, apoha materials in the chapter on inference for oneself",
                   "excerptStatus": "summary_only"
                 }
               },
@@ -194,11 +194,11 @@
               },
               {
                 "id": "dharmakirti:evidence:008",
-                "titleZh": "SEP 论三相因与为他比量",
-                "summaryZh": "SEP 对法称逻辑章节的概述显示，他把好理由和为他推理视为公开辩论中保证论证力量的关键。",
+                "titleZh": "《量评释》因明章节论三相因",
+                "summaryZh": "相关论证把有效理由限定为在同品成立、异品不成立并与所立法相连，从而保证为他推理的公开可检验性。",
                 "source": {
                   "workId": "dharmakirti-pramanavarttika",
-                  "locator": "SEP sections 3.1 and 3.2 on good reasons and inference-for-others",
+                  "locator": "Pramanavarttika, svārthānumāna/parārthānumāna materials on trairūpya",
                   "excerptStatus": "summary_only"
                 }
               }
@@ -240,11 +240,11 @@
               },
               {
                 "id": "dharmakirti:evidence:010",
-                "titleZh": "SEP 论宗教与伦理部分",
-                "summaryZh": "SEP 概述指出法称对佛陀权威和经典使用采取有条件的理性立场，不把经文提升为无条件知识手段。",
+                "titleZh": "《量评释》第二品论佛陀作为成量者",
+                "summaryZh": "第二品把佛陀权威建立在无误认识、慈悲动机和解脱教导的可靠性上，而不是把经典当作无条件独立量。",
                 "source": {
                   "workId": "dharmakirti-pramanavarttika",
-                  "locator": "SEP section 4, Religion and ethics",
+                  "locator": "Pramanavarttika II, pramanasiddhi materials on the Buddha as reliable guide",
                   "excerptStatus": "summary_only"
                 }
               }
@@ -273,11 +273,11 @@
               },
               {
                 "id": "dharmakirti:evidence:012",
-                "titleZh": "SEP 论唯识与外境冗余",
-                "summaryZh": "SEP 说明法称在《量评释》第三品推动认知内部化，同时指出这种转向并不取消其关于他心的论证任务。",
+                "titleZh": "《量评释》第三品论认知内部化",
+                "summaryZh": "第三品把外境解释为可由认知显现说明的对象，同时让他心论证承担避免唯我封闭的补充任务。",
                 "source": {
                   "workId": "dharmakirti-pramanavarttika",
-                  "locator": "SEP section 1 and discussion of Pramanavarttika III",
+                  "locator": "Pramanavarttika III, materials on cognition and external object",
                   "excerptStatus": "summary_only"
                 }
               }

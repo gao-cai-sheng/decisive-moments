@@ -6052,5 +6052,293 @@
     "oneLineZh": "以现代自我、承认政治和世俗化理论重塑政治哲学、伦理学与宗教现代性研究。",
     "influenceWeight": 2,
     "reviewStatus": "draft"
+  },
+  {
+    "id": "bentham",
+    "names": {
+      "zh": "边沁",
+      "en": "Jeremy Bentham"
+    },
+    "life": {
+      "birth": 1748,
+      "death": 1832,
+      "display": "1748—1832"
+    },
+    "civilization": "western_modern",
+    "traditions": [
+      "utilitarianism",
+      "legal_reform",
+      "radical_politics"
+    ],
+    "periods": [
+      "expansion_d1"
+    ],
+    "themes": [
+      "ethics",
+      "politics",
+      "justice"
+    ],
+    "keywordsZh": [
+      "功利原则",
+      "最大幸福",
+      "法改革",
+      "刑罚",
+      "权利批判"
+    ],
+    "oneLineZh": "以最大幸福原则和制度化法改革把伦理学、立法学与现代政治计算连接起来。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "comte",
+    "names": {
+      "zh": "孔德",
+      "en": "Auguste Comte"
+    },
+    "life": {
+      "birth": 1798,
+      "death": 1857,
+      "display": "1798—1857"
+    },
+    "civilization": "western_modern",
+    "traditions": [
+      "positivism",
+      "sociology",
+      "philosophy_of_science"
+    ],
+    "periods": [
+      "expansion_d1"
+    ],
+    "themes": [
+      "knowledge",
+      "politics",
+      "religion"
+    ],
+    "keywordsZh": [
+      "实证主义",
+      "三阶段律",
+      "科学分类",
+      "社会学",
+      "人类宗教"
+    ],
+    "oneLineZh": "以三阶段律、科学分类和社会学构想把现代知识秩序与社会重组方案结合起来。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "schleiermacher",
+    "names": {
+      "zh": "施莱尔马赫",
+      "en": "Friedrich Schleiermacher"
+    },
+    "life": {
+      "birth": 1768,
+      "death": 1834,
+      "display": "1768—1834"
+    },
+    "civilization": "western_modern",
+    "traditions": [
+      "hermeneutics",
+      "romanticism",
+      "protestant_theology"
+    ],
+    "periods": [
+      "expansion_d1"
+    ],
+    "themes": [
+      "religion",
+      "language",
+      "knowledge"
+    ],
+    "keywordsZh": [
+      "诠释学",
+      "宗教感情",
+      "绝对依赖",
+      "个体性",
+      "浪漫主义神学"
+    ],
+    "oneLineZh": "以宗教感情理论和普遍诠释学把现代神学、解释理论与主体个体性连接起来。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "reid",
+    "names": {
+      "zh": "里德",
+      "en": "Thomas Reid"
+    },
+    "life": {
+      "birth": 1710,
+      "death": 1796,
+      "display": "1710—1796"
+    },
+    "civilization": "western_modern",
+    "traditions": [
+      "scottish_enlightenment",
+      "common_sense_philosophy",
+      "direct_realism"
+    ],
+    "periods": [
+      "expansion_d1"
+    ],
+    "themes": [
+      "knowledge",
+      "metaphysics",
+      "freedom"
+    ],
+    "keywordsZh": [
+      "常识哲学",
+      "直接实在论",
+      "反怀疑论",
+      "知觉",
+      "主动能力"
+    ],
+    "oneLineZh": "以常识原则和直接实在论回应怀疑论，并把认识论延伸到行动、责任和自由问题。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "tocqueville",
+    "names": {
+      "zh": "托克维尔",
+      "en": "Alexis de Tocqueville"
+    },
+    "life": {
+      "birth": 1805,
+      "death": 1859,
+      "display": "1805—1859"
+    },
+    "civilization": "western_modern",
+    "traditions": [
+      "liberalism",
+      "political_sociology",
+      "democratic_theory"
+    ],
+    "periods": [
+      "expansion_d2"
+    ],
+    "themes": [
+      "politics",
+      "freedom",
+      "justice"
+    ],
+    "keywordsZh": [
+      "民主",
+      "平等条件",
+      "结社",
+      "地方自治",
+      "温和专制"
+    ],
+    "oneLineZh": "以民主平等条件、结社生活和中央集权批判分析现代自由社会的脆弱条件。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "gramsci",
+    "names": {
+      "zh": "葛兰西",
+      "en": "Antonio Gramsci"
+    },
+    "life": {
+      "birth": 1891,
+      "death": 1937,
+      "display": "1891—1937"
+    },
+    "civilization": "western_modern",
+    "traditions": [
+      "marxism",
+      "critical_theory",
+      "political_philosophy"
+    ],
+    "periods": [
+      "expansion_d2"
+    ],
+    "themes": [
+      "politics",
+      "freedom",
+      "knowledge"
+    ],
+    "keywordsZh": [
+      "霸权",
+      "市民社会",
+      "有机知识分子",
+      "阵地战",
+      "被动革命"
+    ],
+    "oneLineZh": "以霸权、市民社会和有机知识分子理论重写马克思主义革命策略与文化政治。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "lukacs",
+    "names": {
+      "zh": "卢卡奇",
+      "en": "György Lukács"
+    },
+    "life": {
+      "birth": 1885,
+      "death": 1971,
+      "display": "1885—1971"
+    },
+    "civilization": "western_modern",
+    "traditions": [
+      "western_marxism",
+      "critical_theory",
+      "aesthetics"
+    ],
+    "periods": [
+      "expansion_d2"
+    ],
+    "themes": [
+      "politics",
+      "knowledge",
+      "aesthetics"
+    ],
+    "keywordsZh": [
+      "物化",
+      "阶级意识",
+      "总体性",
+      "辩证法",
+      "现实主义"
+    ],
+    "oneLineZh": "以物化、总体性和阶级意识理论奠定西方马克思主义与批判理论的重要前史。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "bloch",
+    "names": {
+      "zh": "布洛赫",
+      "en": "Ernst Bloch"
+    },
+    "life": {
+      "birth": 1885,
+      "death": 1977,
+      "display": "1885—1977"
+    },
+    "civilization": "western_modern",
+    "traditions": [
+      "western_marxism",
+      "utopian_thought",
+      "philosophy_of_religion"
+    ],
+    "periods": [
+      "expansion_d2"
+    ],
+    "themes": [
+      "freedom",
+      "religion",
+      "politics"
+    ],
+    "keywordsZh": [
+      "希望原则",
+      "乌托邦",
+      "尚未意识",
+      "预期意识",
+      "弥赛亚意象"
+    ],
+    "oneLineZh": "以希望原则和尚未意识把马克思主义解放政治、宗教象征和乌托邦想象连接起来。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
   }
 ]

@@ -1,0 +1,292 @@
+{
+  "id": "lukacs",
+  "names": {
+    "zh": "卢卡奇",
+    "en": "György Lukács"
+  },
+  "life": {
+    "birth": 1885,
+    "death": 1971,
+    "display": "1885—1971"
+  },
+  "civilization": "western_modern",
+  "traditions": [
+    "western_marxism",
+    "critical_theory",
+    "aesthetics"
+  ],
+  "periods": [
+    "expansion_d2"
+  ],
+  "themes": [
+    "politics",
+    "knowledge",
+    "aesthetics"
+  ],
+  "keywordsZh": [
+    "物化",
+    "阶级意识",
+    "总体性",
+    "辩证法",
+    "现实主义"
+  ],
+  "oneLineZh": "以物化、总体性和阶级意识理论奠定西方马克思主义与批判理论的重要前史。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "卢卡奇从早期文学形式转向马克思主义辩证法，以物化和总体性分析资本主义社会意识，并持续争论现实主义美学。",
+  "works": [
+    "lukacs-history-class-consciousness",
+    "lukacs-theory-novel",
+    "lukacs-historical-novel",
+    "lukacs-studies-european-realism",
+    "lukacs-ontology-social-being"
+  ],
+  "sourceNotes": [
+    {
+      "label": "Primary corpus note",
+      "url": "https://plato.stanford.edu/entries/lukacs/",
+      "noteZh": "以《历史与阶级意识》和文学美学文本为核心；二手资料只用于核对谱系关系。"
+    }
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "lukacs:problem:001",
+        "titleZh": "物化与资本主义意识",
+        "questionZh": "卢卡奇如何用物化概念分析资本主义社会中的意识形式？",
+        "summaryZh": "卢卡奇把商品形式扩展为资本主义社会的普遍结构，认为它使人和关系表现为可计算、可支配的物。",
+        "themeIds": [
+          "politics",
+          "knowledge"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "lukacs:claim:001",
+            "titleZh": "商品形式扩展为社会物化结构",
+            "claimZh": "卢卡奇认为资本主义商品形式不仅支配经济交换，也塑造法律、行政、科学和日常意识中的对象化结构。",
+            "explanationZh": "这把马克思商品拜物教扩展为现代社会整体诊断，解释人为何把历史关系误认为自然物性。",
+            "themeIds": [
+              "politics",
+              "knowledge"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "lukacs:evidence:001",
+                "titleZh": "《历史与阶级意识》物化论文开篇",
+                "summaryZh": "物化论文从商品结构出发，说明资本主义中人与人的关系以物的关系形式出现并支配意识。",
+                "source": {
+                  "workId": "lukacs-history-class-consciousness",
+                  "locator": "essay Reification and the Consciousness of the Proletariat, section 1",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "lukacs:evidence:002",
+                "titleZh": "《历史与阶级意识》论理性化和计算",
+                "summaryZh": "论文把劳动过程、官僚制和形式法律的可计算化联系起来，显示物化如何渗入现代制度理性。",
+                "source": {
+                  "workId": "lukacs-history-class-consciousness",
+                  "locator": "Reification essay, section 2 on rationalization and calculation",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "lukacs:claim:002",
+            "titleZh": "物化批判需要总体性视角",
+            "claimZh": "卢卡奇认为孤立事实无法突破物化，只有把现象放入资本主义总体运动中才能形成批判意识。",
+            "explanationZh": "总体性不是抽象大全，而是说明局部事实如何由社会关系组织，因而具有政治认识论意义。",
+            "themeIds": [
+              "knowledge",
+              "metaphysics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "lukacs:evidence:003",
+                "titleZh": "《历史与阶级意识》论总体性范畴",
+                "summaryZh": "文本把总体性称为马克思主义方法的核心，强调个别事实必须在历史社会整体中获得意义。",
+                "source": {
+                  "workId": "lukacs-history-class-consciousness",
+                  "locator": "essay What is Orthodox Marxism? on totality",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "lukacs:evidence:004",
+                "titleZh": "《历史与阶级意识》批判资产阶级思想二律背反",
+                "summaryZh": "相关章节把资产阶级哲学的形式理性困境同物化社会结构相连，说明认识论难题具有历史根源。",
+                "source": {
+                  "workId": "lukacs-history-class-consciousness",
+                  "locator": "Reification essay, section 3 on antinomies of bourgeois thought",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "lukacs:problem:002",
+        "titleZh": "阶级意识与革命主体",
+        "questionZh": "卢卡奇如何把无产阶级理解为能够认识总体并改变历史的主体？",
+        "summaryZh": "卢卡奇把无产阶级阶级意识理解为在资本主义总体中认识自身处境并实践地突破物化的历史能力。",
+        "themeIds": [
+          "politics",
+          "freedom"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "lukacs:claim:003",
+            "titleZh": "阶级意识不是经验心理总和",
+            "claimZh": "卢卡奇把阶级意识同阶级在总体结构中的客观位置联系起来，而不是把它等同于工人即时意见的统计。",
+            "explanationZh": "这让革命主体问题具有理论维度：意识需要从结构位置和历史可能性中理解，而非只从民意调查读取。",
+            "themeIds": [
+              "politics",
+              "knowledge"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "lukacs:evidence:005",
+                "titleZh": "《历史与阶级意识》论阶级意识",
+                "summaryZh": "阶级意识论文把归属意识和经验心理区分开来，说明阶级能够认识自身在生产总体中的历史位置。",
+                "source": {
+                  "workId": "lukacs-history-class-consciousness",
+                  "locator": "essay Class Consciousness on imputed consciousness",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "lukacs:evidence:006",
+                "titleZh": "《历史与阶级意识》论无产阶级立场",
+                "summaryZh": "物化论文后段把无产阶级处境视为突破物化的可能立场，因为它同时是资本主义对象和潜在主体。",
+                "source": {
+                  "workId": "lukacs-history-class-consciousness",
+                  "locator": "Reification essay, section 3 on proletarian standpoint",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "lukacs:claim:004",
+            "titleZh": "革命实践统一认识和历史行动",
+            "claimZh": "卢卡奇认为真正的马克思主义认识不能停留在观察，而要在革命实践中把主体和客体关系重新组织。",
+            "explanationZh": "这使其思想带有强烈实践哲学色彩，也解释了他对第二国际机械决定论和实证主义的批判。",
+            "themeIds": [
+              "freedom",
+              "knowledge"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "lukacs:evidence:007",
+                "titleZh": "《历史与阶级意识》论正统马克思主义方法",
+                "summaryZh": "卢卡奇把正统马克思主义定位为辩证方法和实践立场，而不是固定教条清单或经验命题集合。",
+                "source": {
+                  "workId": "lukacs-history-class-consciousness",
+                  "locator": "essay What is Orthodox Marxism? on method and praxis",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "lukacs:evidence:008",
+                "titleZh": "《社会存在的本体论》晚期重申实践维度",
+                "summaryZh": "晚期本体论以劳动和实践为社会存在基础，显示卢卡奇持续把人的能动活动置于马克思主义哲学中心。",
+                "source": {
+                  "workId": "lukacs-ontology-social-being",
+                  "locator": "sections on labor as model of social praxis",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "lukacs:problem:003",
+        "titleZh": "文学形式、现实主义与总体性",
+        "questionZh": "卢卡奇为什么把小说和现实主义美学放入社会总体性问题中讨论？",
+        "summaryZh": "卢卡奇把文学形式视为现代生活破碎和总体性追求的表现，并以现实主义争论社会关系如何被艺术呈现。",
+        "themeIds": [
+          "aesthetics",
+          "politics"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "lukacs:claim:005",
+            "titleZh": "小说形式表现总体性失落",
+            "claimZh": "早期卢卡奇把小说理解为现代世界总体意义失落后的形式，主人公在破碎世界中追寻意义。",
+            "explanationZh": "这条美学线索后来被马克思主义总体性问题重新吸收，显示其文学理论和社会理论并非断裂。",
+            "themeIds": [
+              "aesthetics",
+              "metaphysics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "lukacs:evidence:009",
+                "titleZh": "《小说理论》论史诗与小说差异",
+                "summaryZh": "文本把史诗世界的完整意义同现代小说的失家园状态相对照，说明小说形式根植于现代分裂经验。",
+                "source": {
+                  "workId": "lukacs-theory-novel",
+                  "locator": "part 1 on epic and novel forms",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "lukacs:evidence:010",
+                "titleZh": "《小说理论》论问题性个人",
+                "summaryZh": "卢卡奇把小说主人公称为问题性个人，其追寻显示主体和世界之间不再拥有直接和谐或稳定意义。",
+                "source": {
+                  "workId": "lukacs-theory-novel",
+                  "locator": "part 2 on the problematic individual",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "lukacs:claim:006",
+            "titleZh": "现实主义应呈现社会类型和总体关系",
+            "claimZh": "卢卡奇捍卫现实主义，是因为他认为伟大文学能通过典型人物和情境呈现社会总体关系。",
+            "explanationZh": "这使他与现代主义美学发生冲突，也使文学批评成为资本主义社会认识的一部分。",
+            "themeIds": [
+              "aesthetics",
+              "knowledge"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "lukacs:evidence:011",
+                "titleZh": "《历史小说》论历史现实主义",
+                "summaryZh": "文本把历史小说的成就归于其呈现社会力量和历史转型中的典型人物，而非装饰性古代背景。",
+                "source": {
+                  "workId": "lukacs-historical-novel",
+                  "locator": "chapters on Scott and the classical historical novel",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "lukacs:evidence:012",
+                "titleZh": "《欧洲现实主义研究》论典型性",
+                "summaryZh": "现实主义研究强调文学典型能够把个体命运和社会结构联系起来，抵抗纯主观碎片化描写。",
+                "source": {
+                  "workId": "lukacs-studies-european-realism",
+                  "locator": "essays on Balzac and Tolstoy as realists",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

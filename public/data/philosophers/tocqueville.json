@@ -1,0 +1,292 @@
+{
+  "id": "tocqueville",
+  "names": {
+    "zh": "托克维尔",
+    "en": "Alexis de Tocqueville"
+  },
+  "life": {
+    "birth": 1805,
+    "death": 1859,
+    "display": "1805—1859"
+  },
+  "civilization": "western_modern",
+  "traditions": [
+    "liberalism",
+    "political_sociology",
+    "democratic_theory"
+  ],
+  "periods": [
+    "expansion_d2"
+  ],
+  "themes": [
+    "politics",
+    "freedom",
+    "justice"
+  ],
+  "keywordsZh": [
+    "民主",
+    "平等条件",
+    "结社",
+    "地方自治",
+    "温和专制"
+  ],
+  "oneLineZh": "以民主平等条件、结社生活和中央集权批判分析现代自由社会的脆弱条件。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "托克维尔把民主视为平等条件的社会事实，关注它如何同时激发公民参与、个人主义、舆论压力和中央集权风险。",
+  "works": [
+    "tocqueville-democracy-america",
+    "tocqueville-old-regime-revolution",
+    "tocqueville-recollections",
+    "tocqueville-writings-empire-slavery",
+    "tocqueville-pauperism"
+  ],
+  "sourceNotes": [
+    {
+      "label": "Primary corpus note",
+      "url": "https://plato.stanford.edu/entries/tocqueville/",
+      "noteZh": "以托克维尔民主、革命、贫困和帝国相关文本为核心；二手资料只用于核对年代、题名和关系线。"
+    }
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "tocqueville:problem:001",
+        "titleZh": "平等条件与民主社会",
+        "questionZh": "托克维尔如何把民主理解为一种平等条件下的社会状态，而不只是政体形式？",
+        "summaryZh": "托克维尔把民主看作平等条件扩展带来的社会事实，政治制度、习俗、宗教和舆论都围绕这种状态重新组织。",
+        "themeIds": [
+          "politics",
+          "justice"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "tocqueville:claim:001",
+            "titleZh": "民主首先是平等条件的扩展",
+            "claimZh": "托克维尔认为现代民主的根本事实是身份等级松动和平等条件扩展，而非单一选举制度的出现。",
+            "explanationZh": "这让他能够同时分析法律、习俗、家庭、宗教和经济生活，把民主看成贯穿社会整体的历史趋势。",
+            "themeIds": [
+              "politics",
+              "justice"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "tocqueville:evidence:001",
+                "titleZh": "《论美国的民主》导论论平等条件",
+                "summaryZh": "导论把平等条件的逐步发展称为支配美国社会和欧洲未来的基本事实，并据此展开全书政治分析。",
+                "source": {
+                  "workId": "tocqueville-democracy-america",
+                  "locator": "introduction on equality of conditions as the generative fact",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "tocqueville:evidence:002",
+                "titleZh": "《论美国的民主》第一卷论社会状态",
+                "summaryZh": "第一卷把美国社会状态描述为相对平等的条件结构，说明法律和政治习惯都受这种背景塑造。",
+                "source": {
+                  "workId": "tocqueville-democracy-america",
+                  "locator": "volume 1, part 1, chapter 3 on social condition",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "tocqueville:claim:002",
+            "titleZh": "民主平等会产生新的多数压力",
+            "claimZh": "托克维尔看到平等并不自动保障自由，它可能通过多数意见和社会从众制造新的精神压力。",
+            "explanationZh": "这使其民主理论不同于简单进步叙事：平等条件既削弱贵族压迫，也可能让个人更孤立、更依赖公共意见。",
+            "themeIds": [
+              "politics",
+              "freedom"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "tocqueville:evidence:003",
+                "titleZh": "《论美国的民主》论多数暴政",
+                "summaryZh": "第一卷分析多数在政治和舆论层面的巨大权威，指出民主社会也可能压缩少数意见和独立判断。",
+                "source": {
+                  "workId": "tocqueville-democracy-america",
+                  "locator": "volume 1, part 2, chapter 7 on tyranny of the majority",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "tocqueville:evidence:004",
+                "titleZh": "《论美国的民主》第二卷论思想趋同",
+                "summaryZh": "第二卷讨论平等社会中个人倾向相信大众判断，说明舆论权威可在没有贵族等级时形成新的思想约束。",
+                "source": {
+                  "workId": "tocqueville-democracy-america",
+                  "locator": "volume 2, part 1, chapters 1-2 on opinion and intellectual authority",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "tocqueville:problem:002",
+        "titleZh": "结社、地方自治与自由习惯",
+        "questionZh": "托克维尔为什么把结社、地方自治和宗教习俗视为民主自由的保护条件？",
+        "summaryZh": "托克维尔认为民主自由不能只靠宪法条文维系，还需要地方自治、陪审、结社和宗教习俗训练公民行动能力。",
+        "themeIds": [
+          "politics",
+          "freedom"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "tocqueville:claim:003",
+            "titleZh": "地方自治训练公民自由",
+            "claimZh": "托克维尔把地方自治视为自由的学校，因为公民只有在具体公共事务中才会学习共同判断和责任。",
+            "explanationZh": "这说明自由不是纯粹防御性权利，而是一种需要制度机会和日常练习维持的政治能力。",
+            "themeIds": [
+              "politics",
+              "freedom"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "tocqueville:evidence:005",
+                "titleZh": "《论美国的民主》论乡镇制度",
+                "summaryZh": "托克维尔把新英格兰乡镇描述为自由习惯的基础场所，公民在那里亲自处理公共事务并学习自治。",
+                "source": {
+                  "workId": "tocqueville-democracy-america",
+                  "locator": "volume 1, part 1, chapter 5 on township system",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "tocqueville:evidence:006",
+                "titleZh": "《论美国的民主》论陪审制度",
+                "summaryZh": "陪审制度被解释为政治教育机制，它让普通人进入判断和责任训练，而不只是司法技术安排。",
+                "source": {
+                  "workId": "tocqueville-democracy-america",
+                  "locator": "volume 1, part 2, chapter 8 on jury as political institution",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "tocqueville:claim:004",
+            "titleZh": "结社抵抗民主个人主义",
+            "claimZh": "托克维尔认为民主社会容易产生个人主义，结社则把孤立个人重新连接为能行动的公共力量。",
+            "explanationZh": "这种分析把社团、报刊和公共讨论视为自由的社会基础，预示后来的公民社会和公共领域问题。",
+            "themeIds": [
+              "politics",
+              "language"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "tocqueville:evidence:007",
+                "titleZh": "《论美国的民主》第二卷论个人主义",
+                "summaryZh": "第二卷把个人主义描述为民主时代的温和退缩倾向，它使人离开公共事务并收缩到私人圈子。",
+                "source": {
+                  "workId": "tocqueville-democracy-america",
+                  "locator": "volume 2, part 2, chapter 2 on individualism",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "tocqueville:evidence:008",
+                "titleZh": "《论美国的民主》第二卷论政治结社",
+                "summaryZh": "托克维尔强调美国人通过各种结社完成共同目标，结社把平等个人转化为能够抵抗集中权力的力量。",
+                "source": {
+                  "workId": "tocqueville-democracy-america",
+                  "locator": "volume 2, part 2, chapters 5-7 on associations",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "tocqueville:problem:003",
+        "titleZh": "革命、中央集权与温和专制",
+        "questionZh": "托克维尔如何解释民主时代的中央集权风险和革命连续性？",
+        "summaryZh": "托克维尔把法国革命放入旧制度中央集权的延续中，并警惕民主平等可能制造照护式、行政化的温和专制。",
+        "themeIds": [
+          "politics",
+          "freedom"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "tocqueville:claim:005",
+            "titleZh": "革命继承旧制度的中央集权",
+            "claimZh": "托克维尔认为法国革命并非彻底从旧制度断裂，它继承并加速了王权时代形成的行政集中趋势。",
+            "explanationZh": "这使革命史不再只是自由战胜贵族的故事，而成为国家能力、官僚结构和社会平等相互作用的历史。",
+            "themeIds": [
+              "politics",
+              "justice"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "tocqueville:evidence:009",
+                "titleZh": "《旧制度与大革命》论中央集权连续性",
+                "summaryZh": "文本指出革命前的君主制已削弱地方和等级中介，革命在摧毁旧形式时延续了行政集中逻辑。",
+                "source": {
+                  "workId": "tocqueville-old-regime-revolution",
+                  "locator": "book 2, chapters 2-5 on administrative centralization",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "tocqueville:evidence:010",
+                "titleZh": "《回忆录》观察一八四八年政治断裂",
+                "summaryZh": "回忆录把革命激情、阶级恐惧和政治人物短视联系起来，显示托克维尔对民主危机的经验判断。",
+                "source": {
+                  "workId": "tocqueville-recollections",
+                  "locator": "parts on the February revolution and June days",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "tocqueville:claim:006",
+            "titleZh": "温和专制来自平等社会的行政依赖",
+            "claimZh": "托克维尔担心民主个人主义和中央行政结合，会产生照护个人却削弱公民能力的温和专制。",
+            "explanationZh": "这种专制不必表现为暴君恐怖，而可能表现为细密管理、福利化照料和公共行动能力萎缩。",
+            "themeIds": [
+              "politics",
+              "freedom"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "tocqueville:evidence:011",
+                "titleZh": "《论美国的民主》第二卷论民主专制",
+                "summaryZh": "托克维尔描绘一种照看个人生活、替人安排幸福却削弱成人行动能力的民主时代行政权力形态。",
+                "source": {
+                  "workId": "tocqueville-democracy-america",
+                  "locator": "volume 2, part 4, chapter 6 on democratic despotism",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "tocqueville:evidence:012",
+                "titleZh": "《论贫困》显示社会照护的制度悖论",
+                "summaryZh": "贫困论文本警惕救济制度可能制造依赖和行政扩张，显示其自由主义社会政策中的双重关切。",
+                "source": {
+                  "workId": "tocqueville-pauperism",
+                  "locator": "memoir on public charity and dependence",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

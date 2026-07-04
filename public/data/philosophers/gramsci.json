@@ -1,0 +1,292 @@
+{
+  "id": "gramsci",
+  "names": {
+    "zh": "葛兰西",
+    "en": "Antonio Gramsci"
+  },
+  "life": {
+    "birth": 1891,
+    "death": 1937,
+    "display": "1891—1937"
+  },
+  "civilization": "western_modern",
+  "traditions": [
+    "marxism",
+    "critical_theory",
+    "political_philosophy"
+  ],
+  "periods": [
+    "expansion_d2"
+  ],
+  "themes": [
+    "politics",
+    "freedom",
+    "knowledge"
+  ],
+  "keywordsZh": [
+    "霸权",
+    "市民社会",
+    "有机知识分子",
+    "阵地战",
+    "被动革命"
+  ],
+  "oneLineZh": "以霸权、市民社会和有机知识分子理论重写马克思主义革命策略与文化政治。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "葛兰西把统治理解为强制与同意的结合，强调文化领导权、市民社会和知识分子组织在现代政治变革中的中心性。",
+  "works": [
+    "gramsci-prison-notebooks",
+    "gramsci-southern-question",
+    "gramsci-pre-prison-writings",
+    "gramsci-letters-prison",
+    "gramsci-modern-prince"
+  ],
+  "sourceNotes": [
+    {
+      "label": "Primary corpus note",
+      "url": "https://plato.stanford.edu/entries/gramsci/",
+      "noteZh": "以《狱中札记》和政治论文为核心；二手资料只用于核对术语接收和关系线。"
+    }
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "gramsci:problem:001",
+        "titleZh": "霸权与市民社会",
+        "questionZh": "葛兰西如何把统治解释为强制、同意和文化领导权的结合？",
+        "summaryZh": "葛兰西把现代统治理解为国家强制和市民社会同意的结合，霸权则是阶级力量获得文化和道德领导的过程。",
+        "themeIds": [
+          "politics",
+          "knowledge"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "gramsci:claim:001",
+            "titleZh": "霸权是强制之外的领导权",
+            "claimZh": "葛兰西认为现代统治不能只靠暴力解释，统治阶级还必须在市民社会中取得同意和文化领导权。",
+            "explanationZh": "这使马克思主义政治分析从国家机器扩展到学校、教会、报刊、常识和日常文化。",
+            "themeIds": [
+              "politics",
+              "knowledge"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "gramsci:evidence:001",
+                "titleZh": "《狱中札记》论国家与市民社会",
+                "summaryZh": "札记把国家理解为政治社会和市民社会的结合，说明强制机关之外还存在组织同意的复杂网络。",
+                "source": {
+                  "workId": "gramsci-prison-notebooks",
+                  "locator": "notebook 6 and notebook 13 notes on state and civil society",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "gramsci:evidence:002",
+                "titleZh": "《狱中札记》论霸权与领导",
+                "summaryZh": "相关札记把霸权描述为阶级在政治、道德和文化层面的领导能力，而不是单纯政府占有或行政命令。",
+                "source": {
+                  "workId": "gramsci-prison-notebooks",
+                  "locator": "notebook 1 and notebook 13 notes on hegemony",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "gramsci:claim:002",
+            "titleZh": "常识是斗争中的历史沉积物",
+            "claimZh": "葛兰西把常识看成杂多历史力量的沉积，政治斗争必须改造日常理解而非只夺取国家权力。",
+            "explanationZh": "这种观点解释了为什么教育、文化和语言成为革命策略的一部分，也让意识形态批判具有实践方向。",
+            "themeIds": [
+              "knowledge",
+              "language"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "gramsci:evidence:003",
+                "titleZh": "《狱中札记》论常识与良识",
+                "summaryZh": "葛兰西区分常识的碎片化和良识的批判潜能，说明群众意识既含统治沉积也含改造可能和组织方向。",
+                "source": {
+                  "workId": "gramsci-prison-notebooks",
+                  "locator": "notebook 11 on common sense and good sense",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "gramsci:evidence:004",
+                "titleZh": "《狱中札记》论哲学与群众文化",
+                "summaryZh": "札记把每个人都具有某种自发哲学作为出发点，要求把分散世界观提升为有组织的批判意识。",
+                "source": {
+                  "workId": "gramsci-prison-notebooks",
+                  "locator": "notebook 11 on philosophy of praxis and popular beliefs",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "gramsci:problem:002",
+        "titleZh": "知识分子、政党与阵地战",
+        "questionZh": "葛兰西如何解释知识分子和政党在现代革命中的组织功能？",
+        "summaryZh": "葛兰西把知识分子视为社会集团组织世界观的功能承担者，并把现代政党理解为形成集体意志的现代君主。",
+        "themeIds": [
+          "politics",
+          "language"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "gramsci:claim:003",
+            "titleZh": "有机知识分子组织阶级世界观",
+            "claimZh": "葛兰西认为每个上升社会集团都会产生有机知识分子，用来组织经验、语言和政治方向。",
+            "explanationZh": "知识分子在这里不是孤立学者，而是阶级形成和文化领导权建设中的组织功能。",
+            "themeIds": [
+              "knowledge",
+              "politics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "gramsci:evidence:005",
+                "titleZh": "《狱中札记》论知识分子形成",
+                "summaryZh": "札记把传统知识分子和有机知识分子区分开来，说明知识活动与社会集团组织、教育和领导权密切相连。",
+                "source": {
+                  "workId": "gramsci-prison-notebooks",
+                  "locator": "notebook 12 on the formation of intellectuals",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "gramsci:evidence:006",
+                "titleZh": "《南方问题》论知识分子与工农联盟",
+                "summaryZh": "文本分析南方知识分子和农民关系，显示政治联盟需要改造文化中介、区域结构和工农组织方式。",
+                "source": {
+                  "workId": "gramsci-southern-question",
+                  "locator": "sections on southern intellectuals and worker-peasant alliance",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "gramsci:claim:004",
+            "titleZh": "现代君主组织集体意志",
+            "claimZh": "葛兰西借马基雅维利问题把政党理解为现代君主，即能把分散意志组织成历史行动的集体形式。",
+            "explanationZh": "这使革命策略从自发暴动转向组织、教育、联盟和长期阵地战，尤其适用于市民社会发达的西方国家。",
+            "themeIds": [
+              "politics",
+              "freedom"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "gramsci:evidence:007",
+                "titleZh": "现代君主札记论政党",
+                "summaryZh": "葛兰西把政党称作现代君主，强调它在形成集体意志、政治教育、战略统一和群众组织中的功能。",
+                "source": {
+                  "workId": "gramsci-modern-prince",
+                  "locator": "notebook 13 notes on the modern prince",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "gramsci:evidence:008",
+                "titleZh": "《狱中札记》论阵地战",
+                "summaryZh": "札记把发达市民社会中的革命策略描述为阵地战，强调长期文化和组织建设先于直接冲击。",
+                "source": {
+                  "workId": "gramsci-prison-notebooks",
+                  "locator": "notebook 7 and notebook 13 notes on war of position",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "gramsci:problem:003",
+        "titleZh": "被动革命与历史集团",
+        "questionZh": "葛兰西如何解释现代化、改革和革命之间的非线性关系？",
+        "summaryZh": "葛兰西用被动革命和历史集团分析统治阶级吸收变革压力的方式，说明改革可能重组而非打破霸权。",
+        "themeIds": [
+          "politics",
+          "freedom"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "gramsci:claim:005",
+            "titleZh": "被动革命吸收变革能量",
+            "claimZh": "葛兰西用被动革命描述统治力量在不彻底动员群众的情况下吸收改革要求并重组秩序。",
+            "explanationZh": "这个概念解释了为什么现代化不必自动走向解放，它可能通过有限改革保存既有领导权。",
+            "themeIds": [
+              "politics",
+              "freedom"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "gramsci:evidence:009",
+                "titleZh": "《狱中札记》论被动革命",
+                "summaryZh": "札记用意大利复兴运动等材料说明自上而下改革如何吸收社会压力，同时避免群众成为主动历史主体。",
+                "source": {
+                  "workId": "gramsci-prison-notebooks",
+                  "locator": "notebook 15 on passive revolution and Risorgimento",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "gramsci:evidence:010",
+                "titleZh": "《狱中札记》论凯撒主义",
+                "summaryZh": "葛兰西通过凯撒主义分析力量均衡僵局中的强人调停，说明危机解决可能产生保守或进步方向。",
+                "source": {
+                  "workId": "gramsci-prison-notebooks",
+                  "locator": "notebook 13 on Caesarism and equilibrium of forces",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "gramsci:claim:006",
+            "titleZh": "历史集团连接结构与意识",
+            "claimZh": "葛兰西的历史集团概念把经济结构、政治组织和文化世界观联系起来，反对机械决定论。",
+            "explanationZh": "这使马克思主义分析能够同时处理制度、阶级联盟和思想领导权，而不是把文化视为单纯反映。",
+            "themeIds": [
+              "politics",
+              "knowledge"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "gramsci:evidence:011",
+                "titleZh": "《狱中札记》论历史集团",
+                "summaryZh": "札记把历史集团理解为物质力量和意识形态形式的统一，强调政治实践必须组织这种统一。",
+                "source": {
+                  "workId": "gramsci-prison-notebooks",
+                  "locator": "notebook 10 on historical bloc and philosophy of praxis",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "gramsci:evidence:012",
+                "titleZh": "《狱中书信》呈现教育和意志问题",
+                "summaryZh": "狱中书信反复讨论教育、纪律和意志形成，为札记中的文化政治和主体塑造问题提供生活背景。",
+                "source": {
+                  "workId": "gramsci-letters-prison",
+                  "locator": "letters on education, discipline, and intellectual formation",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,292 @@
+{
+  "id": "bentham",
+  "names": {
+    "zh": "边沁",
+    "en": "Jeremy Bentham"
+  },
+  "life": {
+    "birth": 1748,
+    "death": 1832,
+    "display": "1748—1832"
+  },
+  "civilization": "western_modern",
+  "traditions": [
+    "utilitarianism",
+    "legal_reform",
+    "radical_politics"
+  ],
+  "periods": [
+    "expansion_d1"
+  ],
+  "themes": [
+    "ethics",
+    "politics",
+    "justice"
+  ],
+  "keywordsZh": [
+    "功利原则",
+    "最大幸福",
+    "法改革",
+    "刑罚",
+    "权利批判"
+  ],
+  "oneLineZh": "以最大幸福原则和制度化法改革把伦理学、立法学与现代政治计算连接起来。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "边沁把快乐与痛苦作为公共立法和道德评价的基础，以功利原则推动刑罚、宪制、行政和权利语言的系统改革。",
+  "works": [
+    "bentham-principles-morals-legislation",
+    "bentham-fragment-government",
+    "bentham-panopticon",
+    "bentham-book-fallacies",
+    "bentham-constitutional-code"
+  ],
+  "sourceNotes": [
+    {
+      "label": "Primary corpus note",
+      "url": "https://plato.stanford.edu/entries/bentham/",
+      "noteZh": "以边沁主要法哲学与政治改革文本为核心；二手条目只用于核对作品、年代和关系线。"
+    }
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "bentham:problem:001",
+        "titleZh": "功利原则与道德计算",
+        "questionZh": "边沁如何把快乐、痛苦和最大幸福原则变成道德与立法的公共尺度？",
+        "summaryZh": "边沁把行为和制度的价值放在可比较的后果中考察，以快乐痛苦和最大幸福原则取代传统权威或抽象自然法。",
+        "themeIds": [
+          "ethics",
+          "justice"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "bentham:claim:001",
+            "titleZh": "最大幸福原则是公共评价尺度",
+            "claimZh": "边沁把最大幸福原则作为评价行动、法律和制度的共同标准，而不是私人德性或传统名分的附属物。",
+            "explanationZh": "这一标准要求讨论者说明制度究竟增加还是减少相关人的幸福，从而把道德判断转化为公开可争辩的后果评估。",
+            "themeIds": [
+              "ethics",
+              "justice"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "bentham:evidence:001",
+                "titleZh": "《道德与立法原则导论》第一章提出功利原则",
+                "summaryZh": "第一章把自然置于快乐与痛苦支配之下，并把功利原则定义为按幸福增减来赞成或反对行为的尺度。",
+                "source": {
+                  "workId": "bentham-principles-morals-legislation",
+                  "locator": "chapter 1, sections 1-6 on the principle of utility",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "bentham:evidence:002",
+                "titleZh": "《政府片论》以效用批判传统法学",
+                "summaryZh": "文本批判把既有法律和君主制语言神圣化的做法，要求以共同体利益和公共效用检验政府结构。",
+                "source": {
+                  "workId": "bentham-fragment-government",
+                  "locator": "preface and chapter 1 on utility against Blackstone",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "bentham:claim:002",
+            "titleZh": "快乐痛苦计算服务于立法比较",
+            "claimZh": "边沁的快乐痛苦计算不是心理享乐主义口号，而是要求立法者比较强度、持续、确定性和范围等维度。",
+            "explanationZh": "计算框架把不同政策后果放进同一讨论空间，使刑罚、奖励、行政和公共利益可以被系统比较。",
+            "themeIds": [
+              "ethics",
+              "politics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "bentham:evidence:003",
+                "titleZh": "《道德与立法原则导论》第四章列出价值维度",
+                "summaryZh": "第四章把快乐和痛苦的价值拆成强度、持续、确定性、接近、丰富性、纯度和范围，形成政策比较清单。",
+                "source": {
+                  "workId": "bentham-principles-morals-legislation",
+                  "locator": "chapter 4 on value of a lot of pleasure or pain",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "bentham:evidence:004",
+                "titleZh": "《道德与立法原则导论》第七章连接行为与动机",
+                "summaryZh": "第七章把行动后果、意向、动机和情境区分开来，说明立法评价不能只看道德词语的表面褒贬。",
+                "source": {
+                  "workId": "bentham-principles-morals-legislation",
+                  "locator": "chapter 7 on human actions in general",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "bentham:problem:002",
+        "titleZh": "刑罚、监督与制度设计",
+        "questionZh": "边沁如何把功利原则转化为刑罚改革、行政监督和法律制度设计？",
+        "summaryZh": "边沁把刑罚看成需要被证明的痛苦，并把公开性、监督和责任机制纳入制度设计，以降低权力滥用和社会成本。",
+        "themeIds": [
+          "politics",
+          "justice"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "bentham:claim:003",
+            "titleZh": "刑罚必须以预防性效用证明",
+            "claimZh": "边沁认为刑罚本身就是痛苦，只有在预防更大恶害、减少未来损失时才具备正当性。",
+            "explanationZh": "这使刑法不再以报复或威严为中心，而必须说明惩罚的必要性、比例性和实际预防效果。",
+            "themeIds": [
+              "justice",
+              "politics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "bentham:evidence:005",
+                "titleZh": "《道德与立法原则导论》第十三章论不应惩罚情形",
+                "summaryZh": "第十三章列出无根据、无效果、无必要和代价过高的惩罚情形，表明刑罚必须接受效用检验。",
+                "source": {
+                  "workId": "bentham-principles-morals-legislation",
+                  "locator": "chapter 13 on cases unmeet for punishment",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "bentham:evidence:006",
+                "titleZh": "《道德与立法原则导论》第十四章论刑罚比例",
+                "summaryZh": "第十四章把刑罚量同犯罪损害、诱因和预防目标联系起来，要求惩罚设计避免超过必要痛苦。",
+                "source": {
+                  "workId": "bentham-principles-morals-legislation",
+                  "locator": "chapter 14 on proportion between punishments and offences",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "bentham:claim:004",
+            "titleZh": "监督设计体现行政功利主义",
+            "claimZh": "边沁的圆形监狱方案把可见性、成本和纪律组织在一起，显示其功利主义不仅是伦理原则，也是治理技术。",
+            "explanationZh": "该方案后来争议很大，但在边沁体系中它表达的是以监督、公开和效率降低行政浪费的制度想象。",
+            "themeIds": [
+              "politics",
+              "freedom"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "bentham:evidence:007",
+                "titleZh": "《圆形监狱》书信论检查机制",
+                "summaryZh": "书信文本把建筑结构、持续可见性和低成本管理连接起来，试图用制度安排塑造守法和劳动纪律。",
+                "source": {
+                  "workId": "bentham-panopticon",
+                  "locator": "letters 1-3 on inspection principle and building plan",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "bentham:evidence:008",
+                "titleZh": "《宪法典》论公开性和官员责任",
+                "summaryZh": "晚期宪制方案把公开记录、官员责任和防腐败机制纳入政治制度，延伸了监督原则的公共治理面向。",
+                "source": {
+                  "workId": "bentham-constitutional-code",
+                  "locator": "book 1 on publicity and official responsibility",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "bentham:problem:003",
+        "titleZh": "权利语言与改革政治",
+        "questionZh": "边沁为什么批判自然权利和政治谬误，同时又推动激进改革？",
+        "summaryZh": "边沁反对脱离法律和效用的自然权利话语，却并不保守，而是以反谬误分析和制度设计推进代议、公开和改革。",
+        "themeIds": [
+          "politics",
+          "freedom"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "bentham:claim:005",
+            "titleZh": "自然权利批判服务于法律实证化",
+            "claimZh": "边沁批判自然权利，是为了把权利理解为法律和制度产物，避免把政治诉求伪装成不可争辩的实体。",
+            "explanationZh": "这种批判并不否认改革，而是要求改革者说明制度安排如何真实改善幸福、自由和安全。",
+            "themeIds": [
+              "politics",
+              "justice"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "bentham:evidence:009",
+                "titleZh": "《政府片论》反对以传统权威封闭改革",
+                "summaryZh": "文本把法律合法性从古老性和权威背书中移开，要求用社会利益评价制度安排和法学论证。",
+                "source": {
+                  "workId": "bentham-fragment-government",
+                  "locator": "chapter 4 on political society and utility",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "bentham:evidence:010",
+                "titleZh": "《谬误之书》分析反改革修辞",
+                "summaryZh": "书中把诉诸权威、恐惧和拖延的政治话术列为阻碍改革的谬误，服务于更透明的公共审议。",
+                "source": {
+                  "workId": "bentham-book-fallacies",
+                  "locator": "part 1 on fallacies of authority and delay",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "bentham:claim:006",
+            "titleZh": "激进改革依赖可检查的制度细节",
+            "claimZh": "边沁的改革政治不是抽象革命热情，而是通过选举、行政、公开性和责任机制等细节改造公共权力。",
+            "explanationZh": "这使其成为十九世纪自由主义和法改革的重要源头，也解释了他与密尔传统的持续关系。",
+            "themeIds": [
+              "politics",
+              "freedom"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "bentham:evidence:011",
+                "titleZh": "《宪法典》组织代议与行政责任",
+                "summaryZh": "宪制文本把公共权力拆解为可监督岗位和程序，试图通过制度透明度减少统治者的特殊利益。",
+                "source": {
+                  "workId": "bentham-constitutional-code",
+                  "locator": "book 2 on representative and administrative arrangements",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "bentham:evidence:012",
+                "titleZh": "《谬误之书》把辩论净化视为改革条件",
+                "summaryZh": "文本认为公共改革常被既得利益的语言策略拖延，因而需要识别谬误并迫使政治主张接受后果检验。",
+                "source": {
+                  "workId": "bentham-book-fallacies",
+                  "locator": "part 4 on fallacies of confusion and obstruction",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

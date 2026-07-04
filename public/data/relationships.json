@@ -3972,5 +3972,505 @@
     ],
     "noteZh": "泰勒与拉达克里希南都关心现代性中宗教经验和道德框架的可理解性，此关系作为跨传统问题线保守保留。",
     "reviewStatus": "draft"
+  },
+  {
+    "id": "hume-bentham-influence",
+    "from": "hume",
+    "to": "bentham",
+    "type": "influence",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "ethics",
+      "knowledge"
+    ],
+    "noteZh": "边沁继承经验主义和反抽象形而上学倾向，把道德与法律评价转向可观察的快乐、痛苦和后果。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "bentham-mill-influence",
+    "from": "bentham",
+    "to": "mill",
+    "type": "influence",
+    "strength": 3,
+    "confidence": "high",
+    "themeIds": [
+      "ethics",
+      "politics"
+    ],
+    "noteZh": "密尔在功利主义和自由理论中继承并改造边沁传统，尤其调整快乐质量、个体自由和社会进步问题。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "bentham-kant-critique",
+    "from": "bentham",
+    "to": "kant",
+    "type": "critique",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "ethics",
+      "justice"
+    ],
+    "noteZh": "边沁以后果和公共效用衡量道德与法律，和康德以义务、人格与普遍法则为中心的路线形成典型张力。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "bentham-rousseau-critique",
+    "from": "bentham",
+    "to": "rousseau",
+    "type": "critique",
+    "strength": 1,
+    "confidence": "medium",
+    "themeIds": [
+      "politics",
+      "freedom"
+    ],
+    "noteZh": "边沁反对抽象自然权利话语，而卢梭以公意和政治自由重塑权利与主权问题，二者构成现代政治语言的分叉。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "bentham-comte-shared_problem",
+    "from": "bentham",
+    "to": "comte",
+    "type": "shared_problem",
+    "strength": 1,
+    "confidence": "medium",
+    "themeIds": [
+      "politics",
+      "knowledge"
+    ],
+    "noteZh": "二者都试图以可公共检验的知识和制度设计回应革命后社会秩序问题，但边沁偏立法功利，孔德偏科学分类和社会学。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "hume-comte-reception",
+    "from": "hume",
+    "to": "comte",
+    "type": "reception",
+    "strength": 1,
+    "confidence": "medium",
+    "themeIds": [
+      "knowledge"
+    ],
+    "noteZh": "孔德的反形而上学和实证知识观可放入经验主义接收线中，但他把经验主义改造为科学史和社会秩序理论。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "kant-comte-critique",
+    "from": "kant",
+    "to": "comte",
+    "type": "critique",
+    "strength": 1,
+    "confidence": "medium",
+    "themeIds": [
+      "knowledge",
+      "metaphysics"
+    ],
+    "noteZh": "康德为科学知识划定先验条件，孔德则以实证阶段排除形而上学，两者都限制传统形而上学但路线不同。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "comte-marx-shared_problem",
+    "from": "comte",
+    "to": "marx",
+    "type": "shared_problem",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "politics",
+      "knowledge"
+    ],
+    "noteZh": "孔德和马克思都把现代社会当作可系统分析和改造的对象，但孔德强调秩序与科学等级，马克思强调阶级冲突和历史实践。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "kant-schleiermacher-reception",
+    "from": "kant",
+    "to": "schleiermacher",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "religion",
+      "knowledge"
+    ],
+    "noteZh": "施莱尔马赫在康德之后重设宗教地位，把宗教从纯粹知识和道德命令中区分出来，转向直观与感情。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "hegel-schleiermacher-critique",
+    "from": "hegel",
+    "to": "schleiermacher",
+    "type": "critique",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "religion",
+      "metaphysics"
+    ],
+    "noteZh": "黑格尔与施莱尔马赫都重构现代宗教哲学，但前者偏概念和精神体系，后者偏宗教意识与绝对依赖感。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "schleiermacher-dilthey-influence",
+    "from": "schleiermacher",
+    "to": "dilthey",
+    "type": "influence",
+    "strength": 3,
+    "confidence": "high",
+    "themeIds": [
+      "language",
+      "knowledge"
+    ],
+    "noteZh": "狄尔泰继承施莱尔马赫普遍诠释学，把理解问题扩展为精神科学的方法论基础。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "schleiermacher-gadamer-reception",
+    "from": "schleiermacher",
+    "to": "gadamer",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "high",
+    "themeIds": [
+      "language",
+      "knowledge"
+    ],
+    "noteZh": "伽达默尔把施莱尔马赫的重构式诠释学作为现代解释学前史来讨论，并转向历史效果和对话经验。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "schleiermacher-kierkegaard-shared_problem",
+    "from": "schleiermacher",
+    "to": "kierkegaard",
+    "type": "shared_problem",
+    "strength": 1,
+    "confidence": "medium",
+    "themeIds": [
+      "religion",
+      "freedom"
+    ],
+    "noteZh": "二者都反对把宗教压缩为抽象教义，但施莱尔马赫偏宗教意识结构，克尔凯郭尔偏个体抉择和信仰悖论。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "hume-reid-critique",
+    "from": "reid",
+    "to": "hume",
+    "type": "critique",
+    "strength": 3,
+    "confidence": "high",
+    "themeIds": [
+      "knowledge",
+      "metaphysics"
+    ],
+    "noteZh": "里德直接回应休谟怀疑论，认为观念理论把人困在表象中，而常识原则能恢复知觉和外物的直接关系。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "locke-reid-critique",
+    "from": "reid",
+    "to": "locke",
+    "type": "critique",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "knowledge"
+    ],
+    "noteZh": "里德批判洛克以来的观念理论，认为把观念作为知觉直接对象会导致代表论和怀疑论困境。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "reid-moore-reception",
+    "from": "reid",
+    "to": "moore",
+    "type": "reception",
+    "strength": 1,
+    "confidence": "medium",
+    "themeIds": [
+      "knowledge",
+      "metaphysics"
+    ],
+    "noteZh": "摩尔的常识实在论可与里德传统形成接收线，二者都以普通判断抵抗过度怀疑论。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "reid-peirce-shared_problem",
+    "from": "reid",
+    "to": "peirce",
+    "type": "shared_problem",
+    "strength": 1,
+    "confidence": "medium",
+    "themeIds": [
+      "knowledge",
+      "language"
+    ],
+    "noteZh": "里德和皮尔士都拒绝笛卡尔式彻底怀疑起点，但里德诉诸常识能力，皮尔士诉诸共同探究和信念固定。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "tocqueville-mill-reception",
+    "from": "tocqueville",
+    "to": "mill",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "high",
+    "themeIds": [
+      "politics",
+      "freedom"
+    ],
+    "noteZh": "密尔积极评论托克维尔的民主分析，并在自由、代议制和多数压力问题上与其形成持续对话。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "rousseau-tocqueville-shared_problem",
+    "from": "rousseau",
+    "to": "tocqueville",
+    "type": "shared_problem",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "politics",
+      "freedom"
+    ],
+    "noteZh": "二者都面对民主主权和自由的关系，但卢梭强调公意形成，托克维尔强调平等条件下的社会习俗和制度缓冲。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "tocqueville-arendt-shared_problem",
+    "from": "tocqueville",
+    "to": "arendt",
+    "type": "shared_problem",
+    "strength": 1,
+    "confidence": "medium",
+    "themeIds": [
+      "politics",
+      "freedom"
+    ],
+    "noteZh": "托克维尔的结社和地方自治分析可与阿伦特对公共行动、革命传统和公民自由的关注形成共享问题。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "tocqueville-habermas-shared_problem",
+    "from": "tocqueville",
+    "to": "habermas",
+    "type": "shared_problem",
+    "strength": 1,
+    "confidence": "medium",
+    "themeIds": [
+      "politics",
+      "language"
+    ],
+    "noteZh": "托克维尔关注民主社会中的舆论和结社，哈贝马斯关注公共领域和交往理性，二者都追问现代自由的社会条件。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "tocqueville-weber-shared_problem",
+    "from": "tocqueville",
+    "to": "weber",
+    "type": "shared_problem",
+    "strength": 1,
+    "confidence": "medium",
+    "themeIds": [
+      "politics"
+    ],
+    "noteZh": "托克维尔和韦伯都分析现代社会中行政集中、理性化和个人自由的紧张关系，但理论语言和历史材料不同。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "marx-gramsci-reception",
+    "from": "marx",
+    "to": "gramsci",
+    "type": "reception",
+    "strength": 3,
+    "confidence": "high",
+    "themeIds": [
+      "politics",
+      "freedom"
+    ],
+    "noteZh": "葛兰西继承马克思的历史实践和阶级分析，同时把革命策略转向霸权、市民社会和文化领导权问题。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "gramsci-lukacs-shared_problem",
+    "from": "gramsci",
+    "to": "lukacs",
+    "type": "shared_problem",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "politics",
+      "knowledge"
+    ],
+    "noteZh": "二者都在西方马克思主义中处理意识、阶级和文化中介问题；葛兰西偏霸权组织，卢卡奇偏物化和总体性。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "gramsci-horkheimer-reception",
+    "from": "gramsci",
+    "to": "horkheimer",
+    "type": "reception",
+    "strength": 1,
+    "confidence": "medium",
+    "themeIds": [
+      "politics",
+      "knowledge"
+    ],
+    "noteZh": "葛兰西的文化和意识形态分析可与法兰克福批判理论的问题域相接，二者都反对把统治化约为经济强制。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "gramsci-dussel-reception",
+    "from": "gramsci",
+    "to": "dussel",
+    "type": "reception",
+    "strength": 1,
+    "confidence": "medium",
+    "themeIds": [
+      "politics",
+      "freedom"
+    ],
+    "noteZh": "杜塞尔等解放哲学语境可接收葛兰西霸权和被压迫者政治组织问题，用于分析依附、文化和解放主体。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "gramsci-machiavelli-reception",
+    "from": "machiavelli",
+    "to": "gramsci",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "high",
+    "themeIds": [
+      "politics"
+    ],
+    "noteZh": "葛兰西以现代君主重读马基雅维利，把政党理解为组织集体意志的现代政治形式。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "marx-lukacs-reception",
+    "from": "marx",
+    "to": "lukacs",
+    "type": "reception",
+    "strength": 3,
+    "confidence": "high",
+    "themeIds": [
+      "politics",
+      "knowledge"
+    ],
+    "noteZh": "卢卡奇以马克思商品拜物教和阶级斗争理论为基础，发展物化、总体性和阶级意识概念。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "hegel-lukacs-reception",
+    "from": "hegel",
+    "to": "lukacs",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "high",
+    "themeIds": [
+      "metaphysics",
+      "knowledge"
+    ],
+    "noteZh": "卢卡奇通过黑格尔辩证法和总体性问题重读马克思主义，反对把社会事实拆成孤立经验对象。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "weber-lukacs-critique",
+    "from": "weber",
+    "to": "lukacs",
+    "type": "critique",
+    "strength": 1,
+    "confidence": "medium",
+    "themeIds": [
+      "politics",
+      "knowledge"
+    ],
+    "noteZh": "卢卡奇的物化分析与韦伯理性化诊断共享现代抽象支配问题，但他把这种诊断转入资本主义总体性批判。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "lukacs-horkheimer-influence",
+    "from": "lukacs",
+    "to": "horkheimer",
+    "type": "influence",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "politics",
+      "knowledge"
+    ],
+    "noteZh": "卢卡奇的物化和总体性问题为早期法兰克福学派提供重要背景，影响其对资本主义理性和文化形式的批判。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "lukacs-adorno-critique",
+    "from": "lukacs",
+    "to": "adorno",
+    "type": "critique",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "aesthetics",
+      "politics"
+    ],
+    "noteZh": "卢卡奇现实主义立场与阿多诺现代主义美学存在显著张力，二者围绕艺术形式和社会总体性展开分歧。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "marx-bloch-reception",
+    "from": "marx",
+    "to": "bloch",
+    "type": "reception",
+    "strength": 3,
+    "confidence": "high",
+    "themeIds": [
+      "politics",
+      "freedom"
+    ],
+    "noteZh": "布洛赫在马克思主义框架内发展希望和乌托邦问题，把解放实践同尚未实现的历史可能性相连。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "bloch-benjamin-shared_problem",
+    "from": "bloch",
+    "to": "benjamin",
+    "type": "shared_problem",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "religion",
+      "politics"
+    ],
+    "noteZh": "布洛赫和本雅明都把马克思主义、弥赛亚意象和历史救赎问题交织起来，但布洛赫更系统地阐发希望和乌托邦。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "bloch-adorno-critique",
+    "from": "bloch",
+    "to": "adorno",
+    "type": "critique",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "aesthetics",
+      "freedom"
+    ],
+    "noteZh": "布洛赫强调乌托邦希望的积极功能，阿多诺则更警惕和否定化地处理救赎、艺术和总体性，两者构成内部批判张力。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "lukacs-bloch-shared_problem",
+    "from": "lukacs",
+    "to": "bloch",
+    "type": "shared_problem",
+    "strength": 1,
+    "confidence": "medium",
+    "themeIds": [
+      "politics",
+      "aesthetics"
+    ],
+    "noteZh": "卢卡奇和布洛赫同属西方马克思主义语境，都关注艺术和历史可能性，但前者强调总体性与现实主义，后者强调希望和乌托邦。",
+    "reviewStatus": "draft"
   }
 ]
