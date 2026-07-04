@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "items": [
+    { "id": "marx-marcuse-reception", "from": "marx", "to": "marcuse", "type": "reception", "strength": 3, "confidence": "high", "themeIds": ["politics", "freedom"], "noteZh": "马尔库塞在马克思主义批判框架内分析异化、资本主义整合和解放可能性。", "reviewStatus": "draft" },
+    { "id": "hegel-marcuse-reception", "from": "hegel", "to": "marcuse", "type": "reception", "strength": 2, "confidence": "high", "themeIds": ["metaphysics", "freedom"], "noteZh": "马尔库塞通过黑格尔否定理性和自由概念重建批判理论的哲学谱系。", "reviewStatus": "draft" },
+    { "id": "horkheimer-marcuse-shared_problem", "from": "horkheimer", "to": "marcuse", "type": "shared_problem", "strength": 2, "confidence": "medium", "themeIds": ["politics", "knowledge"], "noteZh": "二者共享法兰克福批判理论问题域，都关注工具理性、资本主义整合和社会批判。", "reviewStatus": "draft" },
+    { "id": "adorno-marcuse-critique", "from": "adorno", "to": "marcuse", "type": "critique", "strength": 2, "confidence": "medium", "themeIds": ["aesthetics", "politics"], "noteZh": "阿多诺和马尔库塞都分析晚期资本主义文化，但在政治实践、艺术否定性和解放主体上存在张力。", "reviewStatus": "draft" },
+    { "id": "marcuse-habermas-reception", "from": "marcuse", "to": "habermas", "type": "reception", "strength": 1, "confidence": "medium", "themeIds": ["politics", "knowledge"], "noteZh": "哈贝马斯继承并修正早期批判理论问题，把马尔库塞式技术理性批判转向交往理性框架。", "reviewStatus": "draft" },
+    { "id": "fromm-marcuse-critique", "from": "fromm", "to": "marcuse", "type": "critique", "strength": 1, "confidence": "medium", "themeIds": ["freedom", "ethics"], "noteZh": "二者都结合精神分析与社会批判，但弗洛姆偏人本伦理，马尔库塞偏欲望解放和技术社会批判。", "reviewStatus": "draft" },
+
+    { "id": "marx-fromm-reception", "from": "marx", "to": "fromm", "type": "reception", "strength": 2, "confidence": "high", "themeIds": ["politics", "ethics"], "noteZh": "弗洛姆重读青年马克思的人本主义和异化理论，用以批判资本主义社会病理。", "reviewStatus": "draft" },
+    { "id": "fromm-mill-shared_problem", "from": "fromm", "to": "mill", "type": "shared_problem", "strength": 1, "confidence": "medium", "themeIds": ["freedom", "ethics"], "noteZh": "弗洛姆和密尔都关注个人发展和自由人格，但前者以心理社会分析解释逃避自由。", "reviewStatus": "draft" },
+    { "id": "fromm-arendt-shared_problem", "from": "fromm", "to": "arendt", "type": "shared_problem", "strength": 1, "confidence": "medium", "themeIds": ["politics", "freedom"], "noteZh": "二者都分析现代孤立、顺从和极权主义条件，但阿伦特偏公共行动，弗洛姆偏心理机制。", "reviewStatus": "draft" },
+
+    { "id": "mill-berlin-reception", "from": "mill", "to": "berlin", "type": "reception", "strength": 2, "confidence": "high", "themeIds": ["freedom", "politics"], "noteZh": "伯林继承密尔自由主义对个人选择和多样生活的重视，同时以价值多元论重构其根据。", "reviewStatus": "draft" },
+    { "id": "berlin-rawls-shared_problem", "from": "berlin", "to": "rawls", "type": "shared_problem", "strength": 1, "confidence": "medium", "themeIds": ["justice", "freedom"], "noteZh": "伯林和罗尔斯都重视自由主义制度条件，但伯林更强调价值冲突和不可通约性。", "reviewStatus": "draft" },
+    { "id": "berlin-nozick-shared_problem", "from": "berlin", "to": "nozick", "type": "shared_problem", "strength": 1, "confidence": "medium", "themeIds": ["freedom", "justice"], "noteZh": "伯林的消极自由概念和诺齐克的权利自由主义共享反强制关切，但规范基础不同。", "reviewStatus": "draft" },
+    { "id": "berlin-hayek-shared_problem", "from": "berlin", "to": "hayek", "type": "shared_problem", "strength": 2, "confidence": "medium", "themeIds": ["freedom", "politics"], "noteZh": "伯林与哈耶克都警惕积极自由和计划理性转化为强制，但伯林以价值多元论展开。", "reviewStatus": "draft" },
+    { "id": "popper-berlin-shared_problem", "from": "popper", "to": "berlin", "type": "shared_problem", "strength": 1, "confidence": "medium", "themeIds": ["knowledge", "politics"], "noteZh": "波普尔和伯林都批判历史决定论，强调开放社会、责任和反乌托邦政治警惕。", "reviewStatus": "draft" },
+
+    { "id": "mill-hayek-reception", "from": "mill", "to": "hayek", "type": "reception", "strength": 1, "confidence": "medium", "themeIds": ["freedom", "politics"], "noteZh": "哈耶克继承古典自由主义问题域，但以分散知识和自发秩序重构自由论。", "reviewStatus": "draft" },
+    { "id": "popper-hayek-shared_problem", "from": "popper", "to": "hayek", "type": "shared_problem", "strength": 2, "confidence": "medium", "themeIds": ["knowledge", "politics"], "noteZh": "波普尔与哈耶克都批判历史主义和集中计划，强调开放秩序与知识有限性。", "reviewStatus": "draft" },
+    { "id": "hayek-rawls-critique", "from": "hayek", "to": "rawls", "type": "critique", "strength": 1, "confidence": "medium", "themeIds": ["justice", "politics"], "noteZh": "哈耶克反对把社会正义作为整体分配目标，与罗尔斯制度化正义理论形成重要张力。", "reviewStatus": "draft" },
+    { "id": "hayek-nozick-shared_problem", "from": "hayek", "to": "nozick", "type": "shared_problem", "strength": 2, "confidence": "medium", "themeIds": ["freedom", "justice"], "noteZh": "哈耶克和诺齐克都维护有限国家和个人自由，但哈耶克更强调规则演化和知识秩序。", "reviewStatus": "draft" },
+    { "id": "hayek-schmitt-critique", "from": "hayek", "to": "schmitt", "type": "critique", "strength": 1, "confidence": "medium", "themeIds": ["politics", "justice"], "noteZh": "哈耶克法治和一般规则论与施米特例外决断论构成自由法治和主权决断之间的尖锐对立。", "reviewStatus": "draft" },
+
+    { "id": "hobbes-schmitt-reception", "from": "hobbes", "to": "schmitt", "type": "reception", "strength": 2, "confidence": "high", "themeIds": ["politics"], "noteZh": "施米特重读霍布斯主权和国家统一问题，把现代政治秩序理解为决定和保护结构。", "reviewStatus": "draft" },
+    { "id": "schmitt-arendt-critique", "from": "schmitt", "to": "arendt", "type": "critique", "strength": 1, "confidence": "medium", "themeIds": ["politics", "freedom"], "noteZh": "施米特敌友政治与阿伦特公共行动和自由政治形成反向对照，必须保留批判语境。", "reviewStatus": "draft" },
+    { "id": "schmitt-habermas-critique", "from": "schmitt", "to": "habermas", "type": "critique", "strength": 2, "confidence": "medium", "themeIds": ["politics", "language"], "noteZh": "施米特反议会主义和决断论与哈贝马斯公共理性和商谈民主形成根本张力。", "reviewStatus": "draft" },
+    { "id": "schmitt-benjamin-shared_problem", "from": "schmitt", "to": "benjamin", "type": "shared_problem", "strength": 1, "confidence": "medium", "themeIds": ["politics", "religion"], "noteZh": "施米特与本雅明都处理暴力、例外和神学政治问题，但方向和规范含义差异巨大。", "reviewStatus": "draft" },
+
+    { "id": "vico-croce-reception", "from": "vico", "to": "croce", "type": "reception", "strength": 3, "confidence": "high", "themeIds": ["knowledge", "metaphysics"], "noteZh": "克罗齐推动维柯现代复兴，把历史知识、人造世界和精神活动问题重新置于中心。", "reviewStatus": "draft" },
+    { "id": "hegel-croce-reception", "from": "hegel", "to": "croce", "type": "reception", "strength": 2, "confidence": "medium", "themeIds": ["metaphysics", "knowledge"], "noteZh": "克罗齐在黑格尔之后重构精神哲学和历史主义，但反对封闭体系化形而上学。", "reviewStatus": "draft" },
+    { "id": "marx-croce-critique", "from": "marx", "to": "croce", "type": "critique", "strength": 1, "confidence": "medium", "themeIds": ["politics", "knowledge"], "noteZh": "克罗齐同马克思主义保持复杂争论，既重视历史实践又反对经济决定论式解释。", "reviewStatus": "draft" },
+    { "id": "croce-mill-shared_problem", "from": "croce", "to": "mill", "type": "shared_problem", "strength": 1, "confidence": "medium", "themeIds": ["freedom", "politics"], "noteZh": "克罗齐和密尔都维护自由主义，但克罗齐以历史主义和精神自由重构自由传统。", "reviewStatus": "draft" }
+  ]
+}

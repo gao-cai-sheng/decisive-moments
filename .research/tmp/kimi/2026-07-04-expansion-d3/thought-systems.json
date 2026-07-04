@@ -1,0 +1,302 @@
+{
+  "schemaVersion": 1,
+  "items": [
+    {
+      "philosopherId": "marcuse",
+      "sourceIds": ["S1", "S2"],
+      "problems": [
+        {
+          "id": "marcuse:problem:001",
+          "titleZh": "技术理性与单向度社会",
+          "questionZh": "马尔库塞如何解释发达工业社会通过技术理性和消费整合削弱批判能力？",
+          "summaryZh": "马尔库塞认为发达工业社会以技术理性、消费需要和大众文化整合反抗，使个人难以想象制度外的生活可能。",
+          "themeIds": ["politics", "knowledge"],
+          "weight": 3,
+          "sourceIds": ["S1"],
+          "claims": [
+            {
+              "id": "marcuse:claim:001",
+              "titleZh": "技术理性成为统治形式",
+              "claimZh": "马尔库塞认为现代技术理性不只是中性工具，它会把社会目标重写为效率、控制和适应。",
+              "explanationZh": "这种理性把政治冲突转化为管理问题，使现存制度显得唯一合理，从而压缩否定性和批判想象。",
+              "themeIds": ["politics", "knowledge"],
+              "weight": 3,
+              "sourceIds": ["S1"],
+              "evidence": [
+                { "id": "marcuse:evidence:001", "titleZh": "《单向度的人》论技术理性", "summaryZh": "文本把技术理性描述为发达工业社会的统治逻辑，它通过效率和可操作性重塑需要、语言和判断。", "sourceIds": ["S1"], "source": { "workId": "marcuse-one-dimensional-man", "locator": "chapters 1-2 on technological rationality", "excerptStatus": "summary_only" } },
+                { "id": "marcuse:evidence:002", "titleZh": "《理性与革命》追溯否定理性", "summaryZh": "文本通过黑格尔辩证法说明理性也可具有否定和批判功能，不应被化约为技术管理，并作为marcuse-e002的文本支点。", "sourceIds": ["S1"], "source": { "workId": "marcuse-reason-revolution", "locator": "parts on Hegelian reason and social theory", "excerptStatus": "summary_only" } }
+              ]
+            },
+            {
+              "id": "marcuse:claim:002",
+              "titleZh": "消费需要制造社会整合",
+              "claimZh": "马尔库塞认为虚假需要和消费满足会把个人整合进制度，使支配以舒适和选择的形式出现。",
+              "explanationZh": "统治不再只靠匮乏和暴力，也靠可购买的满足、媒体语言和生活方式，使反抗显得不必要。",
+              "themeIds": ["freedom", "politics"],
+              "weight": 2,
+              "sourceIds": ["S1"],
+              "evidence": [
+                { "id": "marcuse:evidence:003", "titleZh": "《单向度的人》论虚假需要", "summaryZh": "马尔库塞把被广告、生产和社会竞争塑造的需要称为虚假需要，说明满足也可能服务服从。", "sourceIds": ["S1"], "source": { "workId": "marcuse-one-dimensional-man", "locator": "chapter 1 on false needs", "excerptStatus": "summary_only" } },
+                { "id": "marcuse:evidence:004", "titleZh": "《压抑性宽容》论中立的统治效果", "summaryZh": "文章指出形式上平等的宽容在不平等传播结构中可能维护支配，使激进批判被同化或中和。", "sourceIds": ["S1"], "source": { "workId": "marcuse-repressive-tolerance", "locator": "essay on tolerance and unequal society", "excerptStatus": "summary_only" } }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "marcuse:problem:002",
+          "titleZh": "爱欲、压抑与解放",
+          "questionZh": "马尔库塞如何把精神分析中的欲望问题转化为文明批判和解放理论？",
+          "summaryZh": "马尔库塞把弗洛伊德压抑理论改造为社会批判，主张文明组织欲望的方式并非不可改变。",
+          "themeIds": ["freedom", "ethics"],
+          "weight": 3,
+          "sourceIds": ["S1"],
+          "claims": [
+            {
+              "id": "marcuse:claim:003",
+              "titleZh": "额外压抑具有历史社会性",
+              "claimZh": "马尔库塞区分文明必要压抑和历史上特定统治形式制造的额外压抑。",
+              "explanationZh": "这使精神分析不再只是宿命论，而能说明某些痛苦和顺从来自可改变的社会组织。",
+              "themeIds": ["freedom", "ethics"],
+              "weight": 3,
+              "sourceIds": ["S1"],
+              "evidence": [
+                { "id": "marcuse:evidence:005", "titleZh": "《爱欲与文明》论剩余压抑", "summaryZh": "文本把剩余压抑同支配性劳动组织相连，指出文明压抑的具体形式具有历史可变性，并作为marcuse-e005的文本支点。", "sourceIds": ["S1"], "source": { "workId": "marcuse-eros-civilization", "locator": "chapters on surplus repression and performance principle", "excerptStatus": "summary_only" } },
+                { "id": "marcuse:evidence:006", "titleZh": "《爱欲与文明》论绩效原则", "summaryZh": "绩效原则被解释为现代社会组织欲望和劳动的历史原则，它把生命能量导向生产纪律，并作为marcuse-e006的文本支点。", "sourceIds": ["S1"], "source": { "workId": "marcuse-eros-civilization", "locator": "chapter on performance principle", "excerptStatus": "summary_only" } }
+              ]
+            },
+            {
+              "id": "marcuse:claim:004",
+              "titleZh": "新感性承载解放想象",
+              "claimZh": "马尔库塞把新感性和审美经验看作解放政治的一部分，因为它们能改变需要和感知结构。",
+              "explanationZh": "解放不是只换制度机器，也要求人对身体、自然、艺术和非压抑关系形成新的感受能力。",
+              "themeIds": ["aesthetics", "freedom"],
+              "weight": 2,
+              "sourceIds": ["S1"],
+              "evidence": [
+                { "id": "marcuse:evidence:007", "titleZh": "《论解放》论新感性", "summaryZh": "文本把新感性描述为反抗既有需要体系的感知能力，它把审美、身体和政治愿望联系起来。", "sourceIds": ["S1"], "source": { "workId": "marcuse-essay-liberation", "locator": "sections on new sensibility", "excerptStatus": "summary_only" } },
+                { "id": "marcuse:evidence:008", "titleZh": "《爱欲与文明》论审美维度", "summaryZh": "马尔库塞借审美经验说明快乐、形式和自由可成为非压抑文明的想象资源，并作为marcuse-e008的文本支点。", "sourceIds": ["S1"], "source": { "workId": "marcuse-eros-civilization", "locator": "chapters on the aesthetic dimension", "excerptStatus": "summary_only" } }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "marcuse:problem:003",
+          "titleZh": "批判理论与政治主体",
+          "questionZh": "马尔库塞如何在法兰克福传统中寻找晚期资本主义的反抗主体？",
+          "summaryZh": "马尔库塞在传统工人阶级被整合的条件下，转向边缘群体、学生、新感性和否定性文化寻找解放可能。",
+          "themeIds": ["politics", "freedom"],
+          "weight": 2,
+          "sourceIds": ["S1", "S2"],
+          "claims": [
+            {
+              "id": "marcuse:claim:005",
+              "titleZh": "整合社会削弱传统主体",
+              "claimZh": "马尔库塞认为发达工业社会把反抗阶级部分纳入消费和福利结构，导致批判主体位置变得不稳定。",
+              "explanationZh": "这解释了他为何关注学生、少数群体和文化反叛，同时也引发批判理论内部关于主体的争论。",
+              "themeIds": ["politics", "freedom"],
+              "weight": 3,
+              "sourceIds": ["S1"],
+              "evidence": [
+                { "id": "marcuse:evidence:009", "titleZh": "《单向度的人》论反对派整合", "summaryZh": "文本认为工会、政党和消费社会可把对立力量纳入制度，削弱根本否定现存秩序的能力，并作为marcuse-e009的文本支点。", "sourceIds": ["S1"], "source": { "workId": "marcuse-one-dimensional-man", "locator": "chapters on integration of opposition", "excerptStatus": "summary_only" } },
+                { "id": "marcuse:evidence:010", "titleZh": "《论解放》寻找新反抗力量", "summaryZh": "文本把新左翼、边缘群体和感性变革视为可能突破单向度社会的历史力量，并作为marcuse-e010的文本支点。", "sourceIds": ["S1"], "source": { "workId": "marcuse-essay-liberation", "locator": "sections on new agents of liberation", "excerptStatus": "summary_only" } }
+              ]
+            },
+            {
+              "id": "marcuse:claim:006",
+              "titleZh": "批判理论必须保留否定性",
+              "claimZh": "马尔库塞坚持批判理论需要保存对现存总体的否定，而不能降格为技术改良或行政咨询。",
+              "explanationZh": "这使他与哈贝马斯式重建理性形成张力，也保持了早期法兰克福学派的激进批判冲动。",
+              "themeIds": ["knowledge", "politics"],
+              "weight": 2,
+              "sourceIds": ["S1", "S2"],
+              "evidence": [
+                { "id": "marcuse:evidence:011", "titleZh": "《理性与革命》论否定理性传统", "summaryZh": "文本把黑格尔和马克思传统解释为对既成现实的否定性批判，而不是对事实秩序的服从，并作为marcuse-e011的文本支点。", "sourceIds": ["S1"], "source": { "workId": "marcuse-reason-revolution", "locator": "final parts on social theory and negation", "excerptStatus": "summary_only" } },
+                { "id": "marcuse:evidence:012", "titleZh": "《单向度的人》论语言封闭", "summaryZh": "马尔库塞分析操作主义语言如何排除超出现存制度的概念，从而使批判思想失去表达空间。", "sourceIds": ["S1"], "source": { "workId": "marcuse-one-dimensional-man", "locator": "chapters on one-dimensional thought and language", "excerptStatus": "summary_only" } }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "philosopherId": "fromm",
+      "sourceIds": ["S3", "S4"],
+      "problems": [
+        { "id": "fromm:problem:001", "titleZh": "自由的负担与逃避", "questionZh": "弗洛姆如何解释现代个人既追求自由又逃避自由的心理机制？", "summaryZh": "弗洛姆认为现代人摆脱传统束缚后获得形式自由，却因孤立、焦虑和无力感转向威权、破坏或自动顺从。", "themeIds": ["freedom", "politics"], "weight": 3, "sourceIds": ["S3"], "claims": [
+          { "id": "fromm:claim:001", "titleZh": "现代自由伴随孤立焦虑", "claimZh": "弗洛姆认为现代自由切断旧共同体纽带后，也使个人暴露在孤立、无意义和无力感中。", "explanationZh": "自由因此不是简单解放状态，而是需要人格成熟和社会条件支持的困难任务。", "themeIds": ["freedom", "ethics"], "weight": 3, "sourceIds": ["S3"], "evidence": [
+            { "id": "fromm:evidence:001", "titleZh": "《逃避自由》论个体化双重性", "summaryZh": "文本把个体化解释为既带来独立也制造孤立的历史过程，说明现代自由内含焦虑结构，并作为fromm-e001的文本支点。", "sourceIds": ["S3"], "source": { "workId": "fromm-escape-freedom", "locator": "chapters on individuation and freedom", "excerptStatus": "summary_only" } },
+            { "id": "fromm:evidence:002", "titleZh": "《逃避自由》论无力感", "summaryZh": "弗洛姆把现代人的无力感和孤独感作为理解威权依恋的重要心理社会前提，并作为fromm-e002的文本支点。", "sourceIds": ["S3"], "source": { "workId": "fromm-escape-freedom", "locator": "chapter on mechanisms of escape", "excerptStatus": "summary_only" } }
+          ] },
+          { "id": "fromm:claim:002", "titleZh": "逃避机制把自由转化为服从", "claimZh": "弗洛姆把威权主义、破坏性和自动顺从理解为逃避自由的不同心理社会机制。", "explanationZh": "这些机制说明人可能主动寻找支配和同质化，从而把自由压力转化为安全幻觉。", "themeIds": ["politics", "freedom"], "weight": 2, "sourceIds": ["S3"], "evidence": [
+            { "id": "fromm:evidence:003", "titleZh": "《逃避自由》论威权主义", "summaryZh": "文本分析施虐和受虐倾向如何共同构成威权性格，使个人通过依附权力逃离自由负担，并作为fromm-e003的文本支点。", "sourceIds": ["S3"], "source": { "workId": "fromm-escape-freedom", "locator": "chapter on authoritarianism", "excerptStatus": "summary_only" } },
+            { "id": "fromm:evidence:004", "titleZh": "《逃避自由》论自动顺从", "summaryZh": "弗洛姆把自动顺从描述为个人把自己变成社会期待的样子，以消除孤独和责任焦虑，并作为fromm-e004的文本支点。", "sourceIds": ["S3"], "source": { "workId": "fromm-escape-freedom", "locator": "chapter on automaton conformity", "excerptStatus": "summary_only" } }
+          ] }
+        ] },
+        { "id": "fromm:problem:002", "titleZh": "异化、社会性格与健全社会", "questionZh": "弗洛姆如何把心理病理同资本主义社会结构和异化劳动联系起来？", "summaryZh": "弗洛姆把现代社会病理解释为异化、市场人格和占有式生活方式的结果，主张以人的需要重构社会。", "themeIds": ["politics", "ethics"], "weight": 3, "sourceIds": ["S3"], "claims": [
+          { "id": "fromm:claim:003", "titleZh": "社会性格连接人格与制度", "claimZh": "弗洛姆用社会性格说明经济制度如何塑造人们的欲望、习惯和自我理解。", "explanationZh": "人格不是孤立心理事实，而是在家庭、劳动、市场和文化期待中形成的社会结构。", "themeIds": ["knowledge", "politics"], "weight": 3, "sourceIds": ["S3"], "evidence": [
+            { "id": "fromm:evidence:005", "titleZh": "《健全的社会》论社会性格", "summaryZh": "文本把社会性格定义为社会结构要求在个体心理中的内化形式，连接人格与制度再生产，并作为fromm-e005的文本支点。", "sourceIds": ["S3"], "source": { "workId": "fromm-sane-society", "locator": "chapters on social character", "excerptStatus": "summary_only" } },
+            { "id": "fromm:evidence:006", "titleZh": "《自为的人》论生产性取向", "summaryZh": "弗洛姆把生产性取向描述为人的潜能积极实现，反对把人格降为市场成功和占有能力，并作为fromm-e006的文本支点。", "sourceIds": ["S3"], "source": { "workId": "fromm-man-for-himself", "locator": "sections on productive orientation", "excerptStatus": "summary_only" } }
+          ] },
+          { "id": "fromm:claim:004", "titleZh": "异化社会制造非健全生活", "claimZh": "弗洛姆认为现代资本主义会把人变成商品、角色和消费单位，形成社会性病理。", "explanationZh": "健全社会的标准不是增长和秩序，而是人能否发展爱、理性、创造和非异化关系。", "themeIds": ["ethics", "politics"], "weight": 2, "sourceIds": ["S3"], "evidence": [
+            { "id": "fromm:evidence:007", "titleZh": "《健全的社会》批判异化", "summaryZh": "文本把异化解释为人同自身活动、他人和世界疏离的状态，并把它看作现代社会常态病理。", "sourceIds": ["S3"], "source": { "workId": "fromm-sane-society", "locator": "chapters on alienation and capitalism", "excerptStatus": "summary_only" } },
+            { "id": "fromm:evidence:008", "titleZh": "《占有还是存在》区分生活方式", "summaryZh": "弗洛姆以占有和存在区分现代消费人格与非占有式生命展开，提出伦理和社会转向，并作为fromm-e008的文本支点。", "sourceIds": ["S3"], "source": { "workId": "fromm-to-have-or-to-be", "locator": "parts on having and being modes", "excerptStatus": "summary_only" } }
+          ] }
+        ] },
+        { "id": "fromm:problem:003", "titleZh": "人本马克思主义与伦理人格", "questionZh": "弗洛姆如何用人本马克思主义重读自由、劳动和人的实现？", "summaryZh": "弗洛姆把马克思解释为人本主义思想家，强调自由劳动、非异化关系和生产性人格，而不是机械经济决定论。", "themeIds": ["ethics", "freedom"], "weight": 2, "sourceIds": ["S3", "S4"], "claims": [
+          { "id": "fromm:claim:005", "titleZh": "马克思的核心是人的实现", "claimZh": "弗洛姆认为马克思关于人的概念围绕人的自我活动、非异化劳动和共同体关系展开。", "explanationZh": "这种解释把马克思从经济技术决定论中解放出来，强调伦理人类学和自由实践维度。", "themeIds": ["freedom", "ethics"], "weight": 3, "sourceIds": ["S3"], "evidence": [
+            { "id": "fromm:evidence:009", "titleZh": "《马克思关于人的概念》论异化劳动", "summaryZh": "弗洛姆通过青年马克思文本强调异化劳动损害人的生命活动和自我实现，而非只是分配不公。", "sourceIds": ["S3"], "source": { "workId": "fromm-marx-concept-man", "locator": "chapters on alienated labor and human essence", "excerptStatus": "summary_only" } },
+            { "id": "fromm:evidence:010", "titleZh": "《马克思关于人的概念》论人本主义", "summaryZh": "文本把马克思解释为关心完整人的人本主义者，反对把马克思主义化约为生产力崇拜，并作为fromm-e010的文本支点。", "sourceIds": ["S3"], "source": { "workId": "fromm-marx-concept-man", "locator": "introduction and essays on Marx's humanism", "excerptStatus": "summary_only" } }
+          ] },
+          { "id": "fromm:claim:006", "titleZh": "爱和理性是成熟自由条件", "claimZh": "弗洛姆把成熟自由同爱、理性和生产性人格相连，反对把自由理解为任意选择。", "explanationZh": "自由需要能承担关系和创造意义的人格结构，因此心理学和伦理学在他那里不可分割。", "themeIds": ["ethics", "freedom"], "weight": 2, "sourceIds": ["S3"], "evidence": [
+            { "id": "fromm:evidence:011", "titleZh": "《自为的人》论人本伦理", "summaryZh": "文本提出人本伦理学，以人的成长、爱和生产性能力作为评价生活方式的标准，并作为fromm-e011的文本支点。", "sourceIds": ["S3"], "source": { "workId": "fromm-man-for-himself", "locator": "chapters on humanistic ethics", "excerptStatus": "summary_only" } },
+            { "id": "fromm:evidence:012", "titleZh": "《占有还是存在》论存在方式", "summaryZh": "晚期文本把存在方式同爱、分享和活的关系联系起来，作为克服占有式异化的伦理方向，并作为fromm-e012的文本支点。", "sourceIds": ["S3"], "source": { "workId": "fromm-to-have-or-to-be", "locator": "parts on being and transformation", "excerptStatus": "summary_only" } }
+          ] }
+        ] }
+      ]
+    },
+    {
+      "philosopherId": "berlin",
+      "sourceIds": ["S5", "S6"],
+      "problems": [
+        { "id": "berlin:problem:001", "titleZh": "两种自由与强制风险", "questionZh": "伯林为什么区分消极自由和积极自由，并警惕积极自由的政治滥用？", "summaryZh": "伯林把自由区分为免于干涉和自我主宰两种传统，指出积极自由可能被整体主义改造成强制他人的理由。", "themeIds": ["freedom", "politics"], "weight": 3, "sourceIds": ["S5"], "claims": [
+          { "id": "berlin:claim:001", "titleZh": "消极自由关注不受干涉", "claimZh": "伯林把消极自由理解为个人行动领域不被他人强制干涉的范围。", "explanationZh": "这种定义为自由主义提供最低政治边界，使权力必须说明为何可以进入个人选择空间。", "themeIds": ["freedom", "politics"], "weight": 3, "sourceIds": ["S5"], "evidence": [
+            { "id": "berlin:evidence:001", "titleZh": "《两种自由概念》定义消极自由", "summaryZh": "讲演把消极自由界定为免于他人干涉的领域，并将其作为自由主义政治的核心关切，并作为berlin-e001的文本支点。", "sourceIds": ["S5"], "source": { "workId": "berlin-two-concepts-liberty", "locator": "sections on negative liberty", "excerptStatus": "summary_only" } },
+            { "id": "berlin:evidence:002", "titleZh": "《自由四论》延展自由边界问题", "summaryZh": "论文集围绕政治自由、责任和强制展开，显示伯林反复维护个人选择空间的重要性，并作为berlin-e002的文本支点。", "sourceIds": ["S5"], "source": { "workId": "berlin-four-essays-liberty", "locator": "essays on political liberty", "excerptStatus": "summary_only" } }
+          ] },
+          { "id": "berlin:claim:002", "titleZh": "积极自由可能滑向强制", "claimZh": "伯林警惕积极自由被解释为真实自我或集体理性，从而授权替别人决定其自由。", "explanationZh": "当政治权力声称知道个人真实利益时，自我主宰语言可能变成家长制或极权主义工具。", "themeIds": ["freedom", "politics"], "weight": 2, "sourceIds": ["S5"], "evidence": [
+            { "id": "berlin:evidence:003", "titleZh": "《两种自由概念》论积极自由危险", "summaryZh": "伯林分析积极自由从自我主宰转向理性统治和集体意志时，可能为强制提供道德包装，并作为berlin-e003的文本支点。", "sourceIds": ["S5"], "source": { "workId": "berlin-two-concepts-liberty", "locator": "sections on positive liberty and self-mastery", "excerptStatus": "summary_only" } },
+            { "id": "berlin:evidence:004", "titleZh": "《历史必然性》反对牺牲责任", "summaryZh": "文本批判以历史规律消解个人选择和责任的理论，为伯林反强制政治立场提供背景，并作为berlin-e004的文本支点。", "sourceIds": ["S5"], "source": { "workId": "berlin-historical-inevitability", "locator": "essay on determinism and responsibility", "excerptStatus": "summary_only" } }
+          ] }
+        ] },
+        { "id": "berlin:problem:002", "titleZh": "价值多元与自由主义", "questionZh": "伯林如何用价值多元论反对单一终极善和乌托邦政治？", "summaryZh": "伯林认为人类价值真实、多样且常常不可通约，因此政治必须承认冲突和妥协，而不是追求最终和谐。", "themeIds": ["ethics", "politics"], "weight": 3, "sourceIds": ["S5", "S6"], "claims": [
+          { "id": "berlin:claim:003", "titleZh": "价值冲突是真实而非误解", "claimZh": "伯林认为自由、平等、幸福、正义等价值可能真实冲突，不一定能由更高原则完全调和。", "explanationZh": "这使自由主义成为承认悲剧和选择代价的政治哲学，而非通往完美秩序的工程。", "themeIds": ["ethics", "justice"], "weight": 3, "sourceIds": ["S5"], "evidence": [
+            { "id": "berlin:evidence:005", "titleZh": "《自由四论》论价值多元", "summaryZh": "伯林在自由相关论文中反复强调人类目的多样且不可完全调和，政治必须承认选择损失，并作为berlin-e005的文本支点。", "sourceIds": ["S5"], "source": { "workId": "berlin-four-essays-liberty", "locator": "essays on pluralism and liberty", "excerptStatus": "summary_only" } },
+            { "id": "berlin:evidence:006", "titleZh": "《刺猬与狐狸》呈现多元理解", "summaryZh": "伯林借刺猬和狐狸区分单一大观念与多元现实感，展示他对一元解释的警惕，并作为berlin-e006的文本支点。", "sourceIds": ["S5"], "source": { "workId": "berlin-hedgehog-fox", "locator": "essay on Tolstoy and plural vision", "excerptStatus": "summary_only" } }
+          ] },
+          { "id": "berlin:claim:004", "titleZh": "多元论反对乌托邦强制", "claimZh": "伯林认为如果没有单一最终和谐，政治就不能以完美未来为名牺牲现存个人。", "explanationZh": "反乌托邦冲动是其自由主义核心：承认不完美和平衡，比追求总体救赎更能保护自由。", "themeIds": ["politics", "freedom"], "weight": 2, "sourceIds": ["S5"], "evidence": [
+            { "id": "berlin:evidence:007", "titleZh": "《历史必然性》批判决定论政治", "summaryZh": "文本反对把历史趋势当成替个人责任和制度选择背书的权威，削弱政治乌托邦确定性，并作为berlin-e007的文本支点。", "sourceIds": ["S5"], "source": { "workId": "berlin-historical-inevitability", "locator": "sections on historical laws and moral responsibility", "excerptStatus": "summary_only" } },
+            { "id": "berlin:evidence:008", "titleZh": "《浪漫主义的根源》论价值创造", "summaryZh": "讲演把浪漫主义视为现代价值创造和多元冲突的重要来源，说明一元理性秩序被打破，并作为berlin-e008的文本支点。", "sourceIds": ["S5"], "source": { "workId": "berlin-roots-romanticism", "locator": "lectures on romanticism and value creation", "excerptStatus": "summary_only" } }
+          ] }
+        ] },
+        { "id": "berlin:problem:003", "titleZh": "思想史与政治判断", "questionZh": "伯林为什么把思想史作为理解政治自由和现代性冲突的方法？", "summaryZh": "伯林通过思想史展示观念如何塑造政治行动，并以历史个体性反对抽象体系化解释。", "themeIds": ["knowledge", "language"], "weight": 2, "sourceIds": ["S5"], "claims": [
+          { "id": "berlin:claim:005", "titleZh": "观念史揭示政治想象来源", "claimZh": "伯林认为政治观念不是装饰，它们塑造人们理解自由、权威和历史使命的方式。", "explanationZh": "思想史因此能解释制度背后的道德想象，也能暴露危险政治语言的历史根源。", "themeIds": ["knowledge", "politics"], "weight": 3, "sourceIds": ["S5"], "evidence": [
+            { "id": "berlin:evidence:009", "titleZh": "《浪漫主义的根源》追溯现代价值冲突", "summaryZh": "讲演说明浪漫主义如何改变现代人对自我、创造和价值的理解，影响后来的政治想象，并作为berlin-e009的文本支点。", "sourceIds": ["S5"], "source": { "workId": "berlin-roots-romanticism", "locator": "lectures on modern self and romantic revolt", "excerptStatus": "summary_only" } },
+            { "id": "berlin:evidence:010", "titleZh": "《刺猬与狐狸》分析托尔斯泰观念矛盾", "summaryZh": "伯林通过托尔斯泰案例展示历史理解中的单一解释欲望和多元现实感之间的冲突，并作为berlin-e010的文本支点。", "sourceIds": ["S5"], "source": { "workId": "berlin-hedgehog-fox", "locator": "sections on Tolstoy's philosophy of history", "excerptStatus": "summary_only" } }
+          ] },
+          { "id": "berlin:claim:006", "titleZh": "政治判断需要历史个体性", "claimZh": "伯林反对把政治判断交给抽象历史规律，强调具体人物、情境和选择不可被公式替代。", "explanationZh": "这种方法把自由主义和历史敏感性结合起来，维护责任、偶然性和判断的开放空间。", "themeIds": ["knowledge", "freedom"], "weight": 2, "sourceIds": ["S5"], "evidence": [
+            { "id": "berlin:evidence:011", "titleZh": "《历史必然性》论个体责任", "summaryZh": "伯林批判历史必然性叙事遮蔽个人选择，强调道德评价仍需要面对具体行动者，并作为berlin-e011的文本支点。", "sourceIds": ["S5"], "source": { "workId": "berlin-historical-inevitability", "locator": "sections on responsibility and historical explanation", "excerptStatus": "summary_only" } },
+            { "id": "berlin:evidence:012", "titleZh": "《自由四论》连接自由和判断", "summaryZh": "自由论文集把政治自由同选择、责任和价值冲突联系起来，呈现伯林重视判断而非体系的风格。", "sourceIds": ["S5"], "source": { "workId": "berlin-four-essays-liberty", "locator": "essays on liberty and political judgment", "excerptStatus": "summary_only" } }
+          ] }
+        ] }
+      ]
+    },
+    {
+      "philosopherId": "hayek",
+      "sourceIds": ["S7", "S8"],
+      "problems": [
+        { "id": "hayek:problem:001", "titleZh": "分散知识与计划批判", "questionZh": "哈耶克如何用知识分散问题批判集中计划经济和建构理性？", "summaryZh": "哈耶克认为社会知识分散在个人处境和价格信号中，无法由中央计划者完整收集和计算。", "themeIds": ["knowledge", "politics"], "weight": 3, "sourceIds": ["S7"], "claims": [
+          { "id": "hayek:claim:001", "titleZh": "经济知识分散在社会实践中", "claimZh": "哈耶克认为关键经济知识往往是局部、情境化和默会的，不能被集中机关完整掌握。", "explanationZh": "这一命题把自由市场辩护转化为认识论论证：协调问题源自知识结构而不只是动机问题。", "themeIds": ["knowledge", "politics"], "weight": 3, "sourceIds": ["S7"], "evidence": [
+            { "id": "hayek:evidence:001", "titleZh": "《知识在社会中的运用》论分散知识", "summaryZh": "文章指出社会中最重要的知识常是特定时间地点的知识，无法被中央统计完整替代，并作为hayek-e001的文本支点。", "sourceIds": ["S7"], "source": { "workId": "hayek-use-knowledge", "locator": "sections on knowledge of particular circumstances", "excerptStatus": "summary_only" } },
+            { "id": "hayek:evidence:002", "titleZh": "《致命的自负》批判建构主义", "summaryZh": "晚期文本批判理性能够设计整体社会秩序的自负，强调文明规则多来自演化而非计划，并作为hayek-e002的文本支点。", "sourceIds": ["S7"], "source": { "workId": "hayek-fatal-conceit", "locator": "chapters on constructivist rationalism", "excerptStatus": "summary_only" } }
+          ] },
+          { "id": "hayek:claim:002", "titleZh": "价格机制协调无法集中计算的信息", "claimZh": "哈耶克把价格理解为传递稀缺和机会信息的机制，使个人无需掌握整体即可协调行动。", "explanationZh": "市场在这里不是单纯交换场所，而是社会知识处理制度，因此计划替代会破坏信息协调。", "themeIds": ["knowledge", "politics"], "weight": 2, "sourceIds": ["S7"], "evidence": [
+            { "id": "hayek:evidence:003", "titleZh": "《知识在社会中的运用》论价格信号", "summaryZh": "文章说明价格通过压缩和传递变化信息，使分散行动者能调整计划而不必知道全部原因，并作为hayek-e003的文本支点。", "sourceIds": ["S7"], "source": { "workId": "hayek-use-knowledge", "locator": "sections on price system as communication", "excerptStatus": "summary_only" } },
+            { "id": "hayek:evidence:004", "titleZh": "《通往奴役之路》论计划权力", "summaryZh": "文本认为集中计划需要集中决策和价值排序，因而容易侵蚀个人选择和政治自由，并作为hayek-e004的文本支点。", "sourceIds": ["S7"], "source": { "workId": "hayek-road-serfdom", "locator": "chapters on planning and power", "excerptStatus": "summary_only" } }
+          ] }
+        ] },
+        { "id": "hayek:problem:002", "titleZh": "法治、自由与一般规则", "questionZh": "哈耶克为什么把法治和一般抽象规则视为自由社会的制度核心？", "summaryZh": "哈耶克认为自由需要可预期的一般规则，而不是行政机关针对结果进行连续裁量和分配设计。", "themeIds": ["justice", "freedom"], "weight": 3, "sourceIds": ["S7"], "claims": [
+          { "id": "hayek:claim:003", "titleZh": "法治限制任意权力", "claimZh": "哈耶克把法治理解为政府受一般、公开和可预期规则约束，而非按具体目标任意裁量。", "explanationZh": "这使个人能够形成自己的计划，也把自由同法律形式和制度可预期性连接起来。", "themeIds": ["justice", "freedom"], "weight": 3, "sourceIds": ["S7"], "evidence": [
+            { "id": "hayek:evidence:005", "titleZh": "《自由宪章》论法治原则", "summaryZh": "文本把法治定义为一般规则对政府行为的约束，强调法律可预期性对于个人自由的意义，并作为hayek-e005的文本支点。", "sourceIds": ["S7"], "source": { "workId": "hayek-constitution-liberty", "locator": "chapters on rule of law", "excerptStatus": "summary_only" } },
+            { "id": "hayek:evidence:006", "titleZh": "《法律、立法与自由》区分法和命令", "summaryZh": "哈耶克区分演化法规则与组织命令，说明自由社会依赖一般规则而非目的性支配，并作为hayek-e006的文本支点。", "sourceIds": ["S7"], "source": { "workId": "hayek-law-legislation-liberty", "locator": "volume 1 on rules and order", "excerptStatus": "summary_only" } }
+          ] },
+          { "id": "hayek:claim:004", "titleZh": "社会正义概念可能破坏规则秩序", "claimZh": "哈耶克批评以社会正义名义追求特定分配结果，认为它会扩大裁量并破坏自发秩序。", "explanationZh": "其争议点在于把正义主要置于规则和程序层面，而非最终分配格局。", "themeIds": ["justice", "politics"], "weight": 2, "sourceIds": ["S7"], "evidence": [
+            { "id": "hayek:evidence:007", "titleZh": "《法律、立法与自由》批判社会正义", "summaryZh": "第二卷集中批判社会正义概念，认为市场结果无人整体分配，因此不宜按人格化标准评价。", "sourceIds": ["S7"], "source": { "workId": "hayek-law-legislation-liberty", "locator": "volume 2 on social justice", "excerptStatus": "summary_only" } },
+            { "id": "hayek:evidence:008", "titleZh": "《自由宪章》论自由与保障", "summaryZh": "文本在承认最低保障可能性的同时，坚持保障政策不能破坏一般规则和竞争秩序，并作为hayek-e008的文本支点。", "sourceIds": ["S7"], "source": { "workId": "hayek-constitution-liberty", "locator": "chapters on freedom and welfare", "excerptStatus": "summary_only" } }
+          ] }
+        ] },
+        { "id": "hayek:problem:003", "titleZh": "自发秩序与文明演化", "questionZh": "哈耶克如何解释传统规则和市场秩序的非设计性形成？", "summaryZh": "哈耶克把许多制度看作人类行动但非人类设计的结果，强调规则演化和自发秩序对文明合作的作用。", "themeIds": ["knowledge", "politics"], "weight": 2, "sourceIds": ["S7", "S8"], "claims": [
+          { "id": "hayek:claim:005", "titleZh": "秩序可来自行动而非设计", "claimZh": "哈耶克认为语言、法、市场等复杂秩序常由个人行动互动生成，并非由总体计划预先设计。", "explanationZh": "这构成其反建构主义政治哲学的核心，也解释了他为何重视传统和演化规则。", "themeIds": ["knowledge", "politics"], "weight": 3, "sourceIds": ["S7"], "evidence": [
+            { "id": "hayek:evidence:009", "titleZh": "《法律、立法与自由》论自发秩序", "summaryZh": "文本系统区分自发秩序和组织秩序，说明社会规则可在长期互动中生成而非被制定，并作为hayek-e009的文本支点。", "sourceIds": ["S7"], "source": { "workId": "hayek-law-legislation-liberty", "locator": "volume 1 on cosmos and taxis", "excerptStatus": "summary_only" } },
+            { "id": "hayek:evidence:010", "titleZh": "《致命的自负》论扩展秩序", "summaryZh": "晚期文本把市场文明描述为扩展秩序，强调道德规则和交换制度通过选择和演化形成，并作为hayek-e010的文本支点。", "sourceIds": ["S7"], "source": { "workId": "hayek-fatal-conceit", "locator": "chapters on extended order", "excerptStatus": "summary_only" } }
+          ] },
+          { "id": "hayek:claim:006", "titleZh": "传统规则承载超个人知识", "claimZh": "哈耶克认为许多传统规则并非因被个体完全理解而有效，而是承载长期演化出的适应性知识。", "explanationZh": "这让自由主义不再只是抽象理性设计，而包含对制度复杂性和知识有限性的承认。", "themeIds": ["knowledge", "ethics"], "weight": 2, "sourceIds": ["S7"], "evidence": [
+            { "id": "hayek:evidence:011", "titleZh": "《自由宪章》论传统与理性", "summaryZh": "文本主张尊重传统规则不是盲从，而是承认个人理性难以把握全部社会协调知识，并作为hayek-e011的文本支点。", "sourceIds": ["S7"], "source": { "workId": "hayek-constitution-liberty", "locator": "chapters on tradition and reason", "excerptStatus": "summary_only" } },
+            { "id": "hayek:evidence:012", "titleZh": "《致命的自负》批判理性全能观", "summaryZh": "哈耶克认为试图按理性蓝图重造社会会摧毁支撑扩展合作的规则和知识结构，并作为hayek-e012的文本支点。", "sourceIds": ["S7"], "source": { "workId": "hayek-fatal-conceit", "locator": "chapters on reason and tradition", "excerptStatus": "summary_only" } }
+          ] }
+        ] }
+      ]
+    },
+    {
+      "philosopherId": "schmitt",
+      "sourceIds": ["S9", "S10"],
+      "problems": [
+        { "id": "schmitt:problem:001", "titleZh": "主权与例外状态", "questionZh": "施米特为何把主权定义为决定例外状态的权力？", "summaryZh": "施米特认为法律秩序无法由规范自身封闭维持，例外状态暴露出主权决断在秩序成立中的位置。", "themeIds": ["politics", "justice"], "weight": 3, "sourceIds": ["S9"], "claims": [
+          { "id": "schmitt:claim:001", "titleZh": "例外暴露规范秩序的边界", "claimZh": "施米特主张主权者是决定例外状态者，因为危机时谁能暂停规范决定了秩序基础。", "explanationZh": "这一命题揭示法律规范对政治决定的依赖，但也为威权决断论打开危险空间。", "themeIds": ["politics", "justice"], "weight": 3, "sourceIds": ["S9"], "evidence": [
+            { "id": "schmitt:evidence:001", "titleZh": "《政治神学》开篇定义主权", "summaryZh": "文本以决定例外状态界定主权，说明法秩序在极端危机中依赖不能由普通规范穷尽的决定。", "sourceIds": ["S9"], "source": { "workId": "schmitt-political-theology", "locator": "chapter 1 on sovereignty and exception", "excerptStatus": "summary_only" } },
+            { "id": "schmitt:evidence:002", "titleZh": "《合法性与正当性》论魏玛危机", "summaryZh": "文本把合法程序和政治正当性的裂缝作为宪制危机核心，显示施米特对规范秩序脆弱性的关注。", "sourceIds": ["S9"], "source": { "workId": "schmitt-legality-legitimacy", "locator": "sections on legality and legitimacy in Weimar", "excerptStatus": "summary_only" } }
+          ] },
+          { "id": "schmitt:claim:002", "titleZh": "政治神学揭示世俗概念来源", "claimZh": "施米特认为现代国家理论中的核心概念保留神学结构，尤其是主权、奇迹和例外之间的类比。", "explanationZh": "这种谱系分析影响深远，但不能遮蔽其反自由主义和决断主义政治倾向。", "themeIds": ["religion", "politics"], "weight": 2, "sourceIds": ["S9"], "evidence": [
+            { "id": "schmitt:evidence:003", "titleZh": "《政治神学》论世俗化概念", "summaryZh": "施米特把现代国家概念解释为世俗化神学概念，借此说明政治秩序仍带有超规范结构，并作为schmitt-e003的文本支点。", "sourceIds": ["S9"], "source": { "workId": "schmitt-political-theology", "locator": "chapter 3 on political theology", "excerptStatus": "summary_only" } },
+            { "id": "schmitt:evidence:004", "titleZh": "《宪法学说》论制宪权", "summaryZh": "宪法学说把制宪权置于成文规范之前，显示施米特持续强调政治决定先于规范体系，并作为schmitt-e004的文本支点。", "sourceIds": ["S9"], "source": { "workId": "schmitt-constitutional-theory", "locator": "sections on constituent power", "excerptStatus": "summary_only" } }
+          ] }
+        ] },
+        { "id": "schmitt:problem:002", "titleZh": "政治的概念与敌友区分", "questionZh": "施米特为何用敌友区分界定政治，并如何导致反自由主义后果？", "summaryZh": "施米特把政治的特殊强度定位在敌友区分上，认为自由主义讨论和经济交换无法消除这种冲突维度。", "themeIds": ["politics", "freedom"], "weight": 3, "sourceIds": ["S9", "S10"], "claims": [
+          { "id": "schmitt:claim:003", "titleZh": "敌友区分定义政治强度", "claimZh": "施米特认为政治区别不等于道德、审美或经济区别，而在于可能形成敌友对立。", "explanationZh": "这个定义把冲突放在政治中心，挑战自由主义中立化政治的想象，也带来危险的排除逻辑。", "themeIds": ["politics"], "weight": 3, "sourceIds": ["S9"], "evidence": [
+            { "id": "schmitt:evidence:005", "titleZh": "《政治的概念》提出敌友区分", "summaryZh": "文本把敌友区分作为政治的判准，强调政治共同体可在极端情形中要求成员面对敌人，并作为schmitt-e005的文本支点。", "sourceIds": ["S9"], "source": { "workId": "schmitt-concept-political", "locator": "sections 2-4 on friend/enemy distinction", "excerptStatus": "summary_only" } },
+            { "id": "schmitt:evidence:006", "titleZh": "《政治的概念》批判中立化", "summaryZh": "施米特批判现代自由主义试图以经济、技术和道德语言中立化政治冲突的倾向，并作为schmitt-e006的文本支点。", "sourceIds": ["S9"], "source": { "workId": "schmitt-concept-political", "locator": "sections on neutralization and depoliticization", "excerptStatus": "summary_only" } }
+          ] },
+          { "id": "schmitt:claim:004", "titleZh": "议会制批判导向反自由主义", "claimZh": "施米特对议会制讨论和程序的批判，服务于其对自由主义政治形式的不信任。", "explanationZh": "这一批判必须放在魏玛危机和施米特威权倾向中审视，不能仅当作程序民主反思。", "themeIds": ["politics", "language"], "weight": 2, "sourceIds": ["S9", "S10"], "evidence": [
+            { "id": "schmitt:evidence:007", "titleZh": "《议会制民主的危机》批判讨论原则", "summaryZh": "文本怀疑议会公开讨论仍能产生理性政治意志，转而强调同质性和决断问题，并作为schmitt-e007的文本支点。", "sourceIds": ["S9"], "source": { "workId": "schmitt-crisis-parliamentary-democracy", "locator": "chapters on parliamentarism and discussion", "excerptStatus": "summary_only" } },
+            { "id": "schmitt:evidence:008", "titleZh": "《宪法学说》论民主同质性", "summaryZh": "施米特把民主同质性置于自由多元程序之前，显示其民主概念具有排除性和反自由主义倾向。", "sourceIds": ["S9"], "source": { "workId": "schmitt-constitutional-theory", "locator": "sections on democracy and homogeneity", "excerptStatus": "summary_only" } }
+          ] }
+        ] },
+        { "id": "schmitt:problem:003", "titleZh": "批判语境与危险遗产", "questionZh": "如何在入库时呈现施米特影响而不正常化其威权和纳粹牵连？", "summaryZh": "施米特理论必须以批判语境呈现：其问题意识影响现代政治理论，但其反自由主义、排除政治和纳粹合作不可淡化。", "themeIds": ["politics", "justice"], "weight": 2, "sourceIds": ["S9", "S10"], "claims": [
+          { "id": "schmitt:claim:005", "titleZh": "影响力不等于规范认可", "claimZh": "施米特对主权、例外和政治神学的影响应被记录，但不能被表述为对其政治立场的认可。", "explanationZh": "条目需要同时呈现理论诊断力和政治危险性，避免把争议人物美化为中性分析家。", "themeIds": ["justice", "politics"], "weight": 3, "sourceIds": ["S9", "S10"], "evidence": [
+            { "id": "schmitt:evidence:009", "titleZh": "《政治的概念》显示排除性政治逻辑", "summaryZh": "敌友框架把政治共同体建构为面对敌人的统一体，必须批判其排除和暴力升级风险，并作为schmitt-e009的文本支点。", "sourceIds": ["S9"], "source": { "workId": "schmitt-concept-political", "locator": "sections on enemy and political unity", "excerptStatus": "summary_only" } },
+            { "id": "schmitt:evidence:010", "titleZh": "《合法性与正当性》体现反自由主义危机论", "summaryZh": "文本借魏玛危机质疑自由法治程序，显示其理论容易向威权决断和反多元政治倾斜，并作为schmitt-e010的文本支点。", "sourceIds": ["S9"], "source": { "workId": "schmitt-legality-legitimacy", "locator": "sections on constitutional crisis", "excerptStatus": "summary_only" } }
+          ] },
+          { "id": "schmitt:claim:006", "titleZh": "批判接收构成其现代意义", "claimZh": "施米特的重要性部分来自阿伦特、哈贝马斯、本雅明等后续批判接收和反向利用。", "explanationZh": "因此关系图应强调批判、对手盘和问题共享，而不是建立单线传承或正面崇拜。", "themeIds": ["politics", "knowledge"], "weight": 2, "sourceIds": ["S9", "S10"], "evidence": [
+            { "id": "schmitt:evidence:011", "titleZh": "《政治神学》提供后续政治神学争论对象", "summaryZh": "政治神学命题成为后续批判理论和法哲学反复回应的对象，影响来自争议性而非单纯贡献。", "sourceIds": ["S9"], "source": { "workId": "schmitt-political-theology", "locator": "chapters on sovereignty and theological concepts", "excerptStatus": "summary_only" } },
+            { "id": "schmitt:evidence:012", "titleZh": "《议会制民主的危机》作为反面资源", "summaryZh": "议会制批判可作为理解反自由主义攻击民主程序的材料，但必须明确其规范危险，并作为schmitt-e012的文本支点。", "sourceIds": ["S9"], "source": { "workId": "schmitt-crisis-parliamentary-democracy", "locator": "chapters on democracy and parliamentarism", "excerptStatus": "summary_only" } }
+          ] }
+        ] }
+      ]
+    },
+    {
+      "philosopherId": "croce",
+      "sourceIds": ["S11", "S12"],
+      "problems": [
+        { "id": "croce:problem:001", "titleZh": "表现美学与直觉", "questionZh": "克罗齐如何把艺术理解为直觉和表现的统一？", "summaryZh": "克罗齐反对把艺术化约为概念、道德或技术，把艺术本质定位为直觉在表现中的形成。", "themeIds": ["aesthetics", "knowledge"], "weight": 3, "sourceIds": ["S11"], "claims": [
+          { "id": "croce:claim:001", "titleZh": "艺术是直觉表现", "claimZh": "克罗齐认为艺术不是模仿对象或传达概念，而是直觉和表现不可分的精神活动。", "explanationZh": "这使美学从外在规则和题材评价转向表现形式本身，影响现代美学和文学批评。", "themeIds": ["aesthetics"], "weight": 3, "sourceIds": ["S11"], "evidence": [
+            { "id": "croce:evidence:001", "titleZh": "《美学》论直觉与表现同一", "summaryZh": "文本把艺术界定为直觉即表现，认为未被表现的直觉不是完整艺术活动，并作为croce-e001的文本支点。", "sourceIds": ["S11"], "source": { "workId": "croce-aesthetic-expression", "locator": "opening chapters on intuition and expression", "excerptStatus": "summary_only" } },
+            { "id": "croce:evidence:002", "titleZh": "《美学》批判艺术分类外在化", "summaryZh": "克罗齐反对用题材、媒介或道德目的外在分类艺术，强调表现活动的内在统一，并作为croce-e002的文本支点。", "sourceIds": ["S11"], "source": { "workId": "croce-aesthetic-expression", "locator": "chapters on criticism of genres and external classifications", "excerptStatus": "summary_only" } }
+          ] },
+          { "id": "croce:claim:002", "titleZh": "表现先于概念判断", "claimZh": "克罗齐把审美直觉置于概念逻辑之前，认为艺术表达是精神活动的基本层次。", "explanationZh": "这种层次区分连接其美学和逻辑学，说明不同精神形式各有不可还原的功能。", "themeIds": ["aesthetics", "knowledge"], "weight": 2, "sourceIds": ["S11"], "evidence": [
+            { "id": "croce:evidence:003", "titleZh": "《逻辑学》区分概念和表现", "summaryZh": "逻辑学文本把纯概念活动同审美表现区分，说明思想形式不能互相化约，并作为croce-e003的文本支点。", "sourceIds": ["S11"], "source": { "workId": "croce-logic-pure-concept", "locator": "chapters on pure concept and expressive form", "excerptStatus": "summary_only" } },
+            { "id": "croce:evidence:004", "titleZh": "《美学》连接语言与表现", "summaryZh": "克罗齐把语言视为表现活动的基本形式，使美学、语言和精神活动紧密相连，并作为croce-e004的文本支点。", "sourceIds": ["S11"], "source": { "workId": "croce-aesthetic-expression", "locator": "chapters on language and expression", "excerptStatus": "summary_only" } }
+          ] }
+        ] },
+        { "id": "croce:problem:002", "titleZh": "历史主义与精神哲学", "questionZh": "克罗齐如何把历史理解为精神生活的自我认识？", "summaryZh": "克罗齐把历史视为现实精神活动的理解形式，反对把史学降为事实堆积或自然科学式因果解释。", "themeIds": ["knowledge", "metaphysics"], "weight": 3, "sourceIds": ["S11"], "claims": [
+          { "id": "croce:claim:003", "titleZh": "一切真正历史都是当代史", "claimZh": "克罗齐认为历史理解总由当下问题驱动，因此历史不是死事实集合，而是活的精神认识。", "explanationZh": "这并非任意主义，而是说明历史问题、材料选择和解释都嵌入现实精神生活。", "themeIds": ["knowledge"], "weight": 3, "sourceIds": ["S11"], "evidence": [
+            { "id": "croce:evidence:005", "titleZh": "《历史编纂的理论与历史》论当代史", "summaryZh": "文本提出真正历史都是当代史，强调历史认识总与当前精神问题和判断活动相关，并作为croce-e005的文本支点。", "sourceIds": ["S11"], "source": { "workId": "croce-theory-history-historiography", "locator": "chapters on all history as contemporary history", "excerptStatus": "summary_only" } },
+            { "id": "croce:evidence:006", "titleZh": "《逻辑学》论判断与历史", "summaryZh": "逻辑学把具体判断同历史认识相连，说明事实只有在概念判断中才成为可理解历史，并作为croce-e006的文本支点。", "sourceIds": ["S11"], "source": { "workId": "croce-logic-pure-concept", "locator": "sections on judgment and history", "excerptStatus": "summary_only" } }
+          ] },
+          { "id": "croce:claim:004", "titleZh": "历史主义反对机械实证主义", "claimZh": "克罗齐反对把历史解释为自然科学式规律，强调历史事件的精神意义和个体性。", "explanationZh": "这使他同实证主义和经济决定论保持距离，也形成意大利历史主义的重要资源。", "themeIds": ["knowledge", "metaphysics"], "weight": 2, "sourceIds": ["S11"], "evidence": [
+            { "id": "croce:evidence:007", "titleZh": "《历史编纂的理论与历史》批判实证主义史学", "summaryZh": "文本反对把史学化为档案事实堆积，强调历史叙述必须包含判断、意义和精神活动，并作为croce-e007的文本支点。", "sourceIds": ["S11"], "source": { "workId": "croce-theory-history-historiography", "locator": "chapters against positivist historiography", "excerptStatus": "summary_only" } },
+            { "id": "croce:evidence:008", "titleZh": "《维柯的哲学》重估人造世界", "summaryZh": "克罗齐通过维柯说明人能理解自身创造的历史世界，反对把历史完全交给外在自然因果，并作为croce-e008的文本支点。", "sourceIds": ["S11"], "source": { "workId": "croce-philosophy-vico", "locator": "chapters on verum factum and historical knowledge", "excerptStatus": "summary_only" } }
+          ] }
+        ] },
+        { "id": "croce:problem:003", "titleZh": "自由史观与反决定论", "questionZh": "克罗齐如何把自由理解为历史解释和政治判断的核心？", "summaryZh": "克罗齐把历史看作自由展开的故事，以此反对法西斯威权、机械决定论和把政治化为技术管理的倾向。", "themeIds": ["freedom", "politics"], "weight": 2, "sourceIds": ["S11", "S12"], "claims": [
+          { "id": "croce:claim:005", "titleZh": "历史是自由的故事", "claimZh": "克罗齐把自由作为理解历史斗争和精神发展的中心范畴，而不是外在政治口号。", "explanationZh": "这种自由史观使历史理解具有规范方向，也支持其反法西斯和自由主义立场。", "themeIds": ["freedom", "politics"], "weight": 3, "sourceIds": ["S11"], "evidence": [
+            { "id": "croce:evidence:009", "titleZh": "《历史作为自由的故事》论自由史观", "summaryZh": "文本把自由理解为贯穿历史判断和政治生活的核心范畴，反对把历史化约为必然机制，并作为croce-e009的文本支点。", "sourceIds": ["S11"], "source": { "workId": "croce-history-liberty", "locator": "chapters on liberty as historical category", "excerptStatus": "summary_only" } },
+            { "id": "croce:evidence:010", "titleZh": "《历史作为自由的故事》呈现反威权立场", "summaryZh": "自由史观在反法西斯语境中强调精神自由和政治判断，拒绝把国家权力神圣化，并作为croce-e010的文本支点。", "sourceIds": ["S11"], "source": { "workId": "croce-history-liberty", "locator": "chapters on liberalism and history", "excerptStatus": "summary_only" } }
+          ] },
+          { "id": "croce:claim:006", "titleZh": "维柯复兴支撑历史人文主义", "claimZh": "克罗齐重读维柯，把人造历史世界和诗性智慧问题带回现代哲学中心。", "explanationZh": "这条线为后来意大利历史主义和人文学科自我理解提供资源，也构成与黑格尔、马克思争论的背景。", "themeIds": ["knowledge", "aesthetics"], "weight": 2, "sourceIds": ["S11", "S12"], "evidence": [
+            { "id": "croce:evidence:011", "titleZh": "《维柯的哲学》论历史知识", "summaryZh": "克罗齐把维柯解释为历史知识哲学的先驱，强调人理解自己创造的制度、语言和神话，并作为croce-e011的文本支点。", "sourceIds": ["S11"], "source": { "workId": "croce-philosophy-vico", "locator": "chapters on Vico's philosophy of history", "excerptStatus": "summary_only" } },
+            { "id": "croce:evidence:012", "titleZh": "《维柯的哲学》论诗性智慧", "summaryZh": "文本重估维柯的诗性智慧，把早期人类想象和语言创造纳入历史精神发展的理解，并作为croce-e012的文本支点。", "sourceIds": ["S11"], "source": { "workId": "croce-philosophy-vico", "locator": "chapters on poetic wisdom and myth", "excerptStatus": "summary_only" } }
+          ] }
+        ] }
+      ]
+    }
+  ]
+}
