@@ -1,0 +1,192 @@
+{
+  "schemaVersion": 1,
+  "items": [
+    {
+      "id": "hume-bentham-influence",
+      "from": "hume",
+      "to": "bentham",
+      "type": "influence",
+      "strength": 2,
+      "confidence": "medium",
+      "themeIds": ["ethics", "knowledge"],
+      "noteZh": "边沁继承经验主义和反抽象形而上学倾向，把道德与法律评价转向可观察的快乐、痛苦和后果。",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "bentham-mill-influence",
+      "from": "bentham",
+      "to": "mill",
+      "type": "influence",
+      "strength": 3,
+      "confidence": "high",
+      "themeIds": ["ethics", "politics"],
+      "noteZh": "密尔在功利主义和自由理论中继承并改造边沁传统，尤其调整快乐质量、个体自由和社会进步问题。",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "bentham-kant-critique",
+      "from": "bentham",
+      "to": "kant",
+      "type": "critique",
+      "strength": 2,
+      "confidence": "medium",
+      "themeIds": ["ethics", "justice"],
+      "noteZh": "边沁以后果和公共效用衡量道德与法律，和康德以义务、人格与普遍法则为中心的路线形成典型张力。",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "bentham-rousseau-critique",
+      "from": "bentham",
+      "to": "rousseau",
+      "type": "critique",
+      "strength": 1,
+      "confidence": "medium",
+      "themeIds": ["politics", "freedom"],
+      "noteZh": "边沁反对抽象自然权利话语，而卢梭以公意和政治自由重塑权利与主权问题，二者构成现代政治语言的分叉。",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "bentham-comte-shared_problem",
+      "from": "bentham",
+      "to": "comte",
+      "type": "shared_problem",
+      "strength": 1,
+      "confidence": "medium",
+      "themeIds": ["politics", "knowledge"],
+      "noteZh": "二者都试图以可公共检验的知识和制度设计回应革命后社会秩序问题，但边沁偏立法功利，孔德偏科学分类和社会学。",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "hume-comte-reception",
+      "from": "hume",
+      "to": "comte",
+      "type": "reception",
+      "strength": 1,
+      "confidence": "medium",
+      "themeIds": ["knowledge"],
+      "noteZh": "孔德的反形而上学和实证知识观可放入经验主义接收线中，但他把经验主义改造为科学史和社会秩序理论。",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "kant-comte-critique",
+      "from": "kant",
+      "to": "comte",
+      "type": "critique",
+      "strength": 1,
+      "confidence": "medium",
+      "themeIds": ["knowledge", "metaphysics"],
+      "noteZh": "康德为科学知识划定先验条件，孔德则以实证阶段排除形而上学，两者都限制传统形而上学但路线不同。",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "comte-marx-shared_problem",
+      "from": "comte",
+      "to": "marx",
+      "type": "shared_problem",
+      "strength": 2,
+      "confidence": "medium",
+      "themeIds": ["politics", "knowledge"],
+      "noteZh": "孔德和马克思都把现代社会当作可系统分析和改造的对象，但孔德强调秩序与科学等级，马克思强调阶级冲突和历史实践。",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "kant-schleiermacher-reception",
+      "from": "kant",
+      "to": "schleiermacher",
+      "type": "reception",
+      "strength": 2,
+      "confidence": "medium",
+      "themeIds": ["religion", "knowledge"],
+      "noteZh": "施莱尔马赫在康德之后重设宗教地位，把宗教从纯粹知识和道德命令中区分出来，转向直观与感情。",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "hegel-schleiermacher-critique",
+      "from": "hegel",
+      "to": "schleiermacher",
+      "type": "critique",
+      "strength": 2,
+      "confidence": "medium",
+      "themeIds": ["religion", "metaphysics"],
+      "noteZh": "黑格尔与施莱尔马赫都重构现代宗教哲学，但前者偏概念和精神体系，后者偏宗教意识与绝对依赖感。",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "schleiermacher-dilthey-influence",
+      "from": "schleiermacher",
+      "to": "dilthey",
+      "type": "influence",
+      "strength": 3,
+      "confidence": "high",
+      "themeIds": ["language", "knowledge"],
+      "noteZh": "狄尔泰继承施莱尔马赫普遍诠释学，把理解问题扩展为精神科学的方法论基础。",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "schleiermacher-gadamer-reception",
+      "from": "schleiermacher",
+      "to": "gadamer",
+      "type": "reception",
+      "strength": 2,
+      "confidence": "high",
+      "themeIds": ["language", "knowledge"],
+      "noteZh": "伽达默尔把施莱尔马赫的重构式诠释学作为现代解释学前史来讨论，并转向历史效果和对话经验。",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "schleiermacher-kierkegaard-shared_problem",
+      "from": "schleiermacher",
+      "to": "kierkegaard",
+      "type": "shared_problem",
+      "strength": 1,
+      "confidence": "medium",
+      "themeIds": ["religion", "freedom"],
+      "noteZh": "二者都反对把宗教压缩为抽象教义，但施莱尔马赫偏宗教意识结构，克尔凯郭尔偏个体抉择和信仰悖论。",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "hume-reid-critique",
+      "from": "reid",
+      "to": "hume",
+      "type": "critique",
+      "strength": 3,
+      "confidence": "high",
+      "themeIds": ["knowledge", "metaphysics"],
+      "noteZh": "里德直接回应休谟怀疑论，认为观念理论把人困在表象中，而常识原则能恢复知觉和外物的直接关系。",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "locke-reid-critique",
+      "from": "reid",
+      "to": "locke",
+      "type": "critique",
+      "strength": 2,
+      "confidence": "medium",
+      "themeIds": ["knowledge"],
+      "noteZh": "里德批判洛克以来的观念理论，认为把观念作为知觉直接对象会导致代表论和怀疑论困境。",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "reid-moore-reception",
+      "from": "reid",
+      "to": "moore",
+      "type": "reception",
+      "strength": 1,
+      "confidence": "medium",
+      "themeIds": ["knowledge", "metaphysics"],
+      "noteZh": "摩尔的常识实在论可与里德传统形成接收线，二者都以普通判断抵抗过度怀疑论。",
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "reid-peirce-shared_problem",
+      "from": "reid",
+      "to": "peirce",
+      "type": "shared_problem",
+      "strength": 1,
+      "confidence": "medium",
+      "themeIds": ["knowledge", "language"],
+      "noteZh": "里德和皮尔士都拒绝笛卡尔式彻底怀疑起点，但里德诉诸常识能力，皮尔士诉诸共同探究和信念固定。",
+      "reviewStatus": "draft"
+    }
+  ]
+}

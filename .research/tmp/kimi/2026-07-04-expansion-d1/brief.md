@@ -2,7 +2,7 @@
 
 Batch path: `.research/tmp/kimi/2026-07-04-expansion-d1/`
 
-Scope: B-lane pre-production kickoff package only. D1 starts after C档收官 and remains outside `public/data`.
+Scope: B-lane full standby package. D1 starts after C档收官 and remains outside `public/data` until fresh external/blind review PASS.
 
 Members:
 
@@ -11,4 +11,4 @@ Members:
 - `schleiermacher` — hermeneutics, religious feeling, absolute dependence, romantic theology.
 - `reid` — Scottish common-sense philosophy, direct realism, anti-skepticism, agency.
 
-No `public/data` files are touched by this pre-admit kickoff package.
+No `public/data` files are touched by this pre-admit standby package. Full proposed payload and `thought-systems.json` are present for review.
