@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "items": [
+    { "id": "tocqueville-democracy-america", "philosopherId": "tocqueville", "titleZh": "《论美国的民主》", "titleEn": "Democracy in America", "originalTitle": "De la démocratie en Amérique", "yearDisplay": "1835/1840", "noteZh": "分析民主平等条件、结社、地方自治、舆论压力和温和专制等现代民主问题。" },
+    { "id": "tocqueville-old-regime-revolution", "philosopherId": "tocqueville", "titleZh": "《旧制度与大革命》", "titleEn": "The Old Regime and the Revolution", "originalTitle": "L'Ancien Régime et la Révolution", "yearDisplay": "1856", "noteZh": "论证法国革命与旧制度中央集权之间的连续性，重估革命断裂叙事。" },
+    { "id": "tocqueville-recollections", "philosopherId": "tocqueville", "titleZh": "《回忆录》", "titleEn": "Recollections", "originalTitle": "Souvenirs", "yearDisplay": "1893 posthumous", "noteZh": "记录一八四八年前后政治经验，体现其对民主政治、阶级恐惧和公共人物的观察。" },
+    { "id": "tocqueville-writings-empire-slavery", "philosopherId": "tocqueville", "titleZh": "帝国与奴隶制相关政治文稿", "titleEn": "Writings on Empire and Slavery", "yearDisplay": "1830s–1840s", "noteZh": "涉及殖民、奴隶制和帝国政策，显示其自由主义中的历史局限和张力。" },
+    { "id": "tocqueville-pauperism", "philosopherId": "tocqueville", "titleZh": "《论贫困》", "titleEn": "Memoir on Pauperism", "originalTitle": "Mémoire sur le paupérisme", "yearDisplay": "1835", "noteZh": "讨论现代工业社会贫困和慈善制度的悖论，连接民主社会与社会问题。" },
+
+    { "id": "gramsci-prison-notebooks", "philosopherId": "gramsci", "titleZh": "《狱中札记》", "titleEn": "Prison Notebooks", "originalTitle": "Quaderni del carcere", "yearDisplay": "1929–1935", "noteZh": "集中发展霸权、市民社会、有机知识分子、阵地战和被动革命等概念。" },
+    { "id": "gramsci-southern-question", "philosopherId": "gramsci", "titleZh": "《南方问题若干方面》", "titleEn": "Some Aspects of the Southern Question", "originalTitle": "Alcuni temi della quistione meridionale", "yearDisplay": "1926", "noteZh": "讨论意大利南北结构、工农联盟和知识分子问题，是霸权分析的重要前奏。" },
+    { "id": "gramsci-pre-prison-writings", "philosopherId": "gramsci", "titleZh": "入狱前政治文集", "titleEn": "Pre-Prison Writings", "yearDisplay": "1910s–1926", "noteZh": "涵盖工厂委员会、党、革命策略和文化政治，显示其理论形成过程。" },
+    { "id": "gramsci-letters-prison", "philosopherId": "gramsci", "titleZh": "《狱中书信》", "titleEn": "Letters from Prison", "originalTitle": "Lettere dal carcere", "yearDisplay": "1926–1937", "noteZh": "在私人书信中呈现教育、意志、文化和政治失败经验的思想背景。" },
+    { "id": "gramsci-modern-prince", "philosopherId": "gramsci", "titleZh": "现代君主论札记", "titleEn": "Notes on the Modern Prince", "yearDisplay": "Prison Notebooks section", "noteZh": "把政党理解为现代集体意志的组织形式，连接马基雅维利问题与革命策略。" },
+
+    { "id": "lukacs-history-class-consciousness", "philosopherId": "lukacs", "titleZh": "《历史与阶级意识》", "titleEn": "History and Class Consciousness", "originalTitle": "Geschichte und Klassenbewußtsein", "yearDisplay": "1923", "noteZh": "提出物化、总体性和无产阶级阶级意识，是西方马克思主义的标志性文本。" },
+    { "id": "lukacs-theory-novel", "philosopherId": "lukacs", "titleZh": "《小说理论》", "titleEn": "The Theory of the Novel", "originalTitle": "Die Theorie des Romans", "yearDisplay": "1916/1920", "noteZh": "从现代性破碎经验和总体性失落解释小说形式，展现其前马克思主义美学阶段。" },
+    { "id": "lukacs-historical-novel", "philosopherId": "lukacs", "titleZh": "《历史小说》", "titleEn": "The Historical Novel", "originalTitle": "Der historische Roman", "yearDisplay": "1937", "noteZh": "讨论历史现实主义、社会类型和小说形式，连接文学批评与历史社会分析。" },
+    { "id": "lukacs-studies-european-realism", "philosopherId": "lukacs", "titleZh": "《欧洲现实主义研究》", "titleEn": "Studies in European Realism", "yearDisplay": "1948", "noteZh": "以巴尔扎克、托尔斯泰等现实主义作家讨论文学如何呈现社会总体性。" },
+    { "id": "lukacs-ontology-social-being", "philosopherId": "lukacs", "titleZh": "《社会存在的本体论》", "titleEn": "Ontology of Social Being", "originalTitle": "Zur Ontologie des gesellschaftlichen Seins", "yearDisplay": "late 1960s", "noteZh": "晚期文本重新讨论劳动、实践和社会存在，为其马克思主义哲学作系统总结。" },
+
+    { "id": "bloch-principle-hope", "philosopherId": "bloch", "titleZh": "《希望原则》", "titleEn": "The Principle of Hope", "originalTitle": "Das Prinzip Hoffnung", "yearDisplay": "1954–1959", "noteZh": "系统阐发尚未意识、预期意识、乌托邦功能和希望的解放意义。" },
+    { "id": "bloch-spirit-utopia", "philosopherId": "bloch", "titleZh": "《乌托邦精神》", "titleEn": "The Spirit of Utopia", "originalTitle": "Geist der Utopie", "yearDisplay": "1918/1923", "noteZh": "早期文本把艺术、宗教和革命期待结合起来，形成其弥赛亚式马克思主义风格。" },
+    { "id": "bloch-thomas-muntzer", "philosopherId": "bloch", "titleZh": "《作为革命神学家的托马斯·闵采尔》", "titleEn": "Thomas Müntzer as Theologian of Revolution", "originalTitle": "Thomas Müntzer als Theologe der Revolution", "yearDisplay": "1921", "noteZh": "以宗教叛乱和革命神学解释历史中的解放冲动和民众期待。" },
+    { "id": "bloch-natural-law-human-dignity", "philosopherId": "bloch", "titleZh": "《自然法与人的尊严》", "titleEn": "Natural Law and Human Dignity", "originalTitle": "Naturrecht und menschliche Würde", "yearDisplay": "1961", "noteZh": "把自然法传统重新解释为尊严、权利和解放要求的历史资源。" },
+    { "id": "bloch-atheism-christianity", "philosopherId": "bloch", "titleZh": "《基督教中的无神论》", "titleEn": "Atheism in Christianity", "originalTitle": "Atheismus im Christentum", "yearDisplay": "1968", "noteZh": "从圣经和宗教象征中寻找反权威、出埃及和解放的无神论内核。" }
+  ]
+}
