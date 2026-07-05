@@ -1,0 +1,44 @@
+{
+  "id": "dolpopa",
+  "tier": "seed",
+  "names": {
+    "zh": "多波巴",
+    "en": "Dolpopa Sherab Gyaltsen"
+  },
+  "life": {
+    "birth": 1292,
+    "death": 1361,
+    "display": "1292—1361"
+  },
+  "civilization": "tibetan_buddhist",
+  "traditions": [
+    "jonang",
+    "tibetan_buddhism"
+  ],
+  "periods": [
+    "medieval"
+  ],
+  "themes": [
+    "religion",
+    "metaphysics"
+  ],
+  "keywordsZh": [
+    "觉囊派",
+    "他空见",
+    "山法"
+  ],
+  "oneLineZh": "觉囊派系统家，以他空见构成藏传中观解释的重要分歧。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "多波巴（1292—1361）是 Seed W6 藏传佛教文明补线候选。其身份层入选理由为：觉囊派系统家，以他空见构成藏传中观解释的重要分歧。 本条仅作 seed 档基本定位，后续若升级标准档，必须重新做著作、论点与 evidence 研究。",
+  "works": [
+    "dolpopa-mountain-doctrine"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S002",
+      "url": "https://treasuryoflives.org/biographies/",
+      "noteZh": "来源：Treasury of Lives / Dolpopa；用于核验人物身份、断代、代表作与思想史定位。"
+    }
+  ]
+}

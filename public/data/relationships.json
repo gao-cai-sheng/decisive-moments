@@ -10977,5 +10977,382 @@
     ],
     "noteZh": "W5 seed 朝鲜实学谱系内部挂接。",
     "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w6-b1-001-santaraksita-nagarjuna-reception",
+    "from": "santaraksita",
+    "to": "nagarjuna",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "metaphysics"
+    ],
+    "noteZh": "寂护的中观传统挂接龙树标准档。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w6-b1-002-santaraksita-vasubandhu-reception",
+    "from": "santaraksita",
+    "to": "vasubandhu",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "knowledge"
+    ],
+    "noteZh": "寂护的瑜伽行中观挂接世亲标准档。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w6-b1-003-santaraksita-kamalasila-influence",
+    "from": "santaraksita",
+    "to": "kamalasila",
+    "type": "influence",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "religion"
+    ],
+    "noteZh": "寂护与莲花戒构成师承和入藏论辩谱系。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w6-b1-004-kamalasila-huineng-critique",
+    "from": "kamalasila",
+    "to": "huineng",
+    "type": "critique",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "religion"
+    ],
+    "noteZh": "莲花戒渐门与汉传顿门构成桑耶论诤语境。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w6-b1-005-kamalasila-buddha-reception",
+    "from": "kamalasila",
+    "to": "buddha",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "religion"
+    ],
+    "noteZh": "莲花戒修道论挂接佛陀标准档。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w6-b1-006-atisa-nagarjuna-reception",
+    "from": "atisa",
+    "to": "nagarjuna",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "religion"
+    ],
+    "noteZh": "阿底峡道次第传统挂接龙树标准档。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w6-b1-007-atisa-buddha-reception",
+    "from": "atisa",
+    "to": "buddha",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "ethics"
+    ],
+    "noteZh": "阿底峡菩提道灯论挂接佛陀教法与伦理修行问题。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w6-b1-008-milarepa-buddha-reception",
+    "from": "milarepa",
+    "to": "buddha",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "life_death"
+    ],
+    "noteZh": "密勒日巴修行叙事挂接佛陀解脱传统。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w6-b1-009-milarepa-gampopa-influence",
+    "from": "milarepa",
+    "to": "gampopa",
+    "type": "influence",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "religion"
+    ],
+    "noteZh": "密勒日巴影响冈波巴噶举传统。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w6-b1-010-gampopa-nagarjuna-reception",
+    "from": "gampopa",
+    "to": "nagarjuna",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "religion"
+    ],
+    "noteZh": "冈波巴噶举修道论挂接龙树中观传统。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w6-b1-011-sakya-pandita-dharmakirti-reception",
+    "from": "sakya-pandita",
+    "to": "dharmakirti",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "knowledge"
+    ],
+    "noteZh": "萨迦班智达量论挂接法称标准档。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w6-b1-012-sakya-pandita-dignaga-reception",
+    "from": "sakya-pandita",
+    "to": "dignaga",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "language"
+    ],
+    "noteZh": "萨迦班智达量论挂接陈那标准档。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w6-b1-013-longchenpa-nagarjuna-reception",
+    "from": "longchenpa",
+    "to": "nagarjuna",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "metaphysics"
+    ],
+    "noteZh": "隆钦巴大圆满形而上学挂接龙树标准档。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w6-b1-014-longchenpa-vasubandhu-shared_problem",
+    "from": "longchenpa",
+    "to": "vasubandhu",
+    "type": "shared_problem",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "knowledge"
+    ],
+    "noteZh": "隆钦巴心性论问题挂接世亲标准档。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w6-b2-001-tsongkhapa-nagarjuna-reception",
+    "from": "tsongkhapa",
+    "to": "nagarjuna",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "metaphysics"
+    ],
+    "noteZh": "宗喀巴应成中观挂接龙树标准档。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w6-b2-002-tsongkhapa-dharmakirti-reception",
+    "from": "tsongkhapa",
+    "to": "dharmakirti",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "knowledge"
+    ],
+    "noteZh": "宗喀巴经院体系挂接法称量论标准档。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w6-b2-003-gorampa-tsongkhapa-critique",
+    "from": "gorampa",
+    "to": "tsongkhapa",
+    "type": "critique",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "metaphysics"
+    ],
+    "noteZh": "果然巴与宗喀巴构成藏传中观解释争论。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w6-b2-004-dolpopa-vasubandhu-reception",
+    "from": "dolpopa",
+    "to": "vasubandhu",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "metaphysics"
+    ],
+    "noteZh": "多波巴他空见挂接世亲标准档。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w6-b2-005-dolpopa-nagarjuna-shared_problem",
+    "from": "dolpopa",
+    "to": "nagarjuna",
+    "type": "shared_problem",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "metaphysics"
+    ],
+    "noteZh": "多波巴与龙树传统围绕空性解释构成问题域。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w6-b2-006-gorampa-nagarjuna-reception",
+    "from": "gorampa",
+    "to": "nagarjuna",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "metaphysics"
+    ],
+    "noteZh": "果然巴中观解释挂接龙树标准档。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w6-b2-007-buton-vasubandhu-reception",
+    "from": "buton",
+    "to": "vasubandhu",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "knowledge"
+    ],
+    "noteZh": "布顿佛教史与藏经整理挂接世亲论书传统。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w6-b2-008-buton-buddha-reception",
+    "from": "buton",
+    "to": "buddha",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "religion"
+    ],
+    "noteZh": "布顿大藏经整理挂接佛陀教法标准档。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w6-b2-009-jamgon-kongtrul-vasubandhu-reception",
+    "from": "jamgon-kongtrul",
+    "to": "vasubandhu",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "knowledge"
+    ],
+    "noteZh": "蒋贡康楚知识体系挂接世亲标准档。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w6-b2-010-jamgon-kongtrul-buddha-reception",
+    "from": "jamgon-kongtrul",
+    "to": "buddha",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "religion"
+    ],
+    "noteZh": "蒋贡康楚利美整理挂接佛陀教法标准档。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w6-b2-011-mipham-jamgon-kongtrul-school",
+    "from": "mipham",
+    "to": "jamgon-kongtrul",
+    "type": "school",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "religion"
+    ],
+    "noteZh": "米滂与蒋贡康楚同处利美运动语境。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w6-b2-012-mipham-dharmakirti-reception",
+    "from": "mipham",
+    "to": "dharmakirti",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "knowledge"
+    ],
+    "noteZh": "米滂量论注疏挂接法称标准档。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w6-b2-013-mipham-nagarjuna-reception",
+    "from": "mipham",
+    "to": "nagarjuna",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "metaphysics"
+    ],
+    "noteZh": "米滂中观解释挂接龙树标准档。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w6-b2-014-dalai-lama-14-nagarjuna-reception",
+    "from": "dalai-lama-14",
+    "to": "nagarjuna",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "metaphysics"
+    ],
+    "noteZh": "第十四世达赖喇嘛当代中观解释挂接龙树标准档。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w6-b2-015-dalai-lama-14-buddha-reception",
+    "from": "dalai-lama-14",
+    "to": "buddha",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "religion"
+    ],
+    "noteZh": "第十四世达赖喇嘛伦理和佛教实践论挂接佛陀标准档。",
+    "reviewStatus": "draft"
   }
 ]

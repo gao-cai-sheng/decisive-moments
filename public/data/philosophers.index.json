@@ -14305,5 +14305,469 @@
     "oneLineZh": "朝鲜实学集大成者，重释经学并发展经世政治思想。",
     "influenceWeight": 2,
     "reviewStatus": "draft"
+  },
+  {
+    "id": "santaraksita",
+    "tier": "seed",
+    "names": {
+      "zh": "寂护",
+      "en": "Śāntarakṣita"
+    },
+    "life": {
+      "birth": 725,
+      "death": 788,
+      "display": "725—788"
+    },
+    "civilization": "tibetan_buddhist",
+    "traditions": [
+      "madhyamaka",
+      "yogacara",
+      "tibetan_buddhism"
+    ],
+    "periods": [
+      "medieval"
+    ],
+    "themes": [
+      "religion",
+      "metaphysics"
+    ],
+    "keywordsZh": [
+      "瑜伽行中观",
+      "桑耶寺",
+      "入藏祖师"
+    ],
+    "oneLineZh": "瑜伽行中观代表，入藏建桑耶寺，是印度佛教入藏的关键节点。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "kamalasila",
+    "tier": "seed",
+    "names": {
+      "zh": "莲花戒",
+      "en": "Kamalaśīla"
+    },
+    "life": {
+      "birth": 740,
+      "death": 795,
+      "display": "约740—795"
+    },
+    "civilization": "tibetan_buddhist",
+    "traditions": [
+      "madhyamaka",
+      "tibetan_buddhism"
+    ],
+    "periods": [
+      "medieval"
+    ],
+    "themes": [
+      "religion",
+      "knowledge"
+    ],
+    "keywordsZh": [
+      "桑耶论诤",
+      "修习次第",
+      "渐门"
+    ],
+    "oneLineZh": "桑耶论诤中渐门代表，以《修习次第》成为入藏佛教修道论节点。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "atisa",
+    "tier": "seed",
+    "names": {
+      "zh": "阿底峡",
+      "en": "Atiśa Dīpaṃkara Śrījñāna"
+    },
+    "life": {
+      "birth": 982,
+      "death": 1054,
+      "display": "982—1054"
+    },
+    "civilization": "tibetan_buddhist",
+    "traditions": [
+      "kadampa",
+      "tibetan_buddhism"
+    ],
+    "periods": [
+      "medieval"
+    ],
+    "themes": [
+      "religion",
+      "ethics"
+    ],
+    "keywordsZh": [
+      "噶当派",
+      "菩提道灯论",
+      "道次第"
+    ],
+    "oneLineZh": "噶当派关键人物，以《菩提道灯论》影响藏传道次第传统。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "milarepa",
+    "tier": "seed",
+    "names": {
+      "zh": "密勒日巴",
+      "en": "Milarepa"
+    },
+    "life": {
+      "birth": 1052,
+      "death": 1135,
+      "display": "1052—1135"
+    },
+    "civilization": "tibetan_buddhist",
+    "traditions": [
+      "kagyu",
+      "tibetan_buddhism"
+    ],
+    "periods": [
+      "medieval"
+    ],
+    "themes": [
+      "religion",
+      "life_death"
+    ],
+    "keywordsZh": [
+      "噶举",
+      "瑜伽士",
+      "道歌"
+    ],
+    "oneLineZh": "噶举派瑜伽士，以道歌传统代表藏传修行文学和解脱叙事。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "gampopa",
+    "tier": "seed",
+    "names": {
+      "zh": "冈波巴",
+      "en": "Gampopa"
+    },
+    "life": {
+      "birth": 1079,
+      "death": 1153,
+      "display": "1079—1153"
+    },
+    "civilization": "tibetan_buddhist",
+    "traditions": [
+      "kagyu",
+      "kadampa",
+      "tibetan_buddhism"
+    ],
+    "periods": [
+      "medieval"
+    ],
+    "themes": [
+      "religion",
+      "ethics"
+    ],
+    "keywordsZh": [
+      "达波噶举",
+      "大手印",
+      "解脱庄严宝论"
+    ],
+    "oneLineZh": "达波噶举奠基者，融合噶当道次第和大手印传统。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "sakya-pandita",
+    "tier": "seed",
+    "names": {
+      "zh": "萨迦班智达",
+      "en": "Sakya Paṇḍita"
+    },
+    "life": {
+      "birth": 1182,
+      "death": 1251,
+      "display": "1182—1251"
+    },
+    "civilization": "tibetan_buddhist",
+    "traditions": [
+      "sakya",
+      "buddhist_epistemology"
+    ],
+    "periods": [
+      "medieval"
+    ],
+    "themes": [
+      "knowledge",
+      "language"
+    ],
+    "keywordsZh": [
+      "萨迦派",
+      "量论",
+      "量理宝藏论"
+    ],
+    "oneLineZh": "萨迦派系统家，以《量理宝藏论》推进藏传量论传统。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "longchenpa",
+    "tier": "seed",
+    "names": {
+      "zh": "隆钦饶绛巴",
+      "en": "Longchenpa"
+    },
+    "life": {
+      "birth": 1308,
+      "death": 1364,
+      "display": "1308—1364"
+    },
+    "civilization": "tibetan_buddhist",
+    "traditions": [
+      "nyingma",
+      "dzogchen"
+    ],
+    "periods": [
+      "medieval"
+    ],
+    "themes": [
+      "religion",
+      "metaphysics"
+    ],
+    "keywordsZh": [
+      "宁玛",
+      "大圆满",
+      "七宝藏"
+    ],
+    "oneLineZh": "宁玛大圆满系统家，以《七宝藏》等著作成为藏传形而上学和修行论核心节点。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "tsongkhapa",
+    "tier": "seed",
+    "names": {
+      "zh": "宗喀巴",
+      "en": "Tsongkhapa"
+    },
+    "life": {
+      "birth": 1357,
+      "death": 1419,
+      "display": "1357—1419"
+    },
+    "civilization": "tibetan_buddhist",
+    "traditions": [
+      "gelug",
+      "madhyamaka"
+    ],
+    "periods": [
+      "medieval"
+    ],
+    "themes": [
+      "religion",
+      "metaphysics"
+    ],
+    "keywordsZh": [
+      "格鲁派",
+      "应成中观",
+      "菩提道次第广论"
+    ],
+    "oneLineZh": "格鲁派创立者，以应成中观解释和道次第体系影响藏传佛教。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "dolpopa",
+    "tier": "seed",
+    "names": {
+      "zh": "多波巴",
+      "en": "Dolpopa Sherab Gyaltsen"
+    },
+    "life": {
+      "birth": 1292,
+      "death": 1361,
+      "display": "1292—1361"
+    },
+    "civilization": "tibetan_buddhist",
+    "traditions": [
+      "jonang",
+      "tibetan_buddhism"
+    ],
+    "periods": [
+      "medieval"
+    ],
+    "themes": [
+      "religion",
+      "metaphysics"
+    ],
+    "keywordsZh": [
+      "觉囊派",
+      "他空见",
+      "山法"
+    ],
+    "oneLineZh": "觉囊派系统家，以他空见构成藏传中观解释的重要分歧。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "gorampa",
+    "tier": "seed",
+    "names": {
+      "zh": "果然巴",
+      "en": "Gorampa Sonam Senge"
+    },
+    "life": {
+      "birth": 1429,
+      "death": 1489,
+      "display": "1429—1489"
+    },
+    "civilization": "tibetan_buddhist",
+    "traditions": [
+      "sakya",
+      "madhyamaka"
+    ],
+    "periods": [
+      "medieval"
+    ],
+    "themes": [
+      "religion",
+      "metaphysics"
+    ],
+    "keywordsZh": [
+      "萨迦派",
+      "中观",
+      "宗喀巴批评"
+    ],
+    "oneLineZh": "萨迦派中观系统家，以对宗喀巴解释的批评成为藏传中观内部重要节点。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "buton",
+    "tier": "seed",
+    "names": {
+      "zh": "布顿",
+      "en": "Butön Rinchen Drub"
+    },
+    "life": {
+      "birth": 1290,
+      "death": 1364,
+      "display": "1290—1364"
+    },
+    "civilization": "tibetan_buddhist",
+    "traditions": [
+      "sakya",
+      "tibetan_buddhist_history"
+    ],
+    "periods": [
+      "medieval"
+    ],
+    "themes": [
+      "religion",
+      "knowledge"
+    ],
+    "keywordsZh": [
+      "佛教史",
+      "大藏经",
+      "布顿佛教史"
+    ],
+    "oneLineZh": "藏传佛教史家和大藏经编定关键人物。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "jamgon-kongtrul",
+    "tier": "seed",
+    "names": {
+      "zh": "蒋贡康楚",
+      "en": "Jamgön Kongtrul Lodrö Tayé"
+    },
+    "life": {
+      "birth": 1813,
+      "death": 1899,
+      "display": "1813—1899"
+    },
+    "civilization": "tibetan_buddhist",
+    "traditions": [
+      "rime",
+      "kagyu",
+      "nyingma"
+    ],
+    "periods": [
+      "modern"
+    ],
+    "themes": [
+      "religion",
+      "knowledge"
+    ],
+    "keywordsZh": [
+      "利美运动",
+      "知识总汇",
+      "五大藏"
+    ],
+    "oneLineZh": "利美运动核心人物，以《知识总汇》等整合藏传多传统。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "mipham",
+    "tier": "seed",
+    "names": {
+      "zh": "米滂",
+      "en": "Mipham Gyatso"
+    },
+    "life": {
+      "birth": 1846,
+      "death": 1912,
+      "display": "1846—1912"
+    },
+    "civilization": "tibetan_buddhist",
+    "traditions": [
+      "nyingma",
+      "rime"
+    ],
+    "periods": [
+      "modern"
+    ],
+    "themes": [
+      "knowledge",
+      "metaphysics"
+    ],
+    "keywordsZh": [
+      "宁玛",
+      "利美",
+      "中观量论"
+    ],
+    "oneLineZh": "宁玛利美代表人物，以中观和量论注疏成为近现代藏传系统家。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "dalai-lama-14",
+    "tier": "seed",
+    "names": {
+      "zh": "第十四世达赖喇嘛",
+      "en": "14th Dalai Lama"
+    },
+    "life": {
+      "birth": 1935,
+      "display": "1935—"
+    },
+    "civilization": "tibetan_buddhist",
+    "traditions": [
+      "gelug",
+      "modern_buddhist_philosophy"
+    ],
+    "periods": [
+      "contemporary"
+    ],
+    "themes": [
+      "religion",
+      "knowledge"
+    ],
+    "keywordsZh": [
+      "格鲁派",
+      "当代中观",
+      "科学对话"
+    ],
+    "oneLineZh": "格鲁派当代领袖，以中观解释、伦理和科学对话进入全球哲学语境。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
   }
 ]

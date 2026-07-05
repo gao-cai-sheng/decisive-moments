@@ -1,0 +1,44 @@
+{
+  "id": "atisa",
+  "tier": "seed",
+  "names": {
+    "zh": "阿底峡",
+    "en": "Atiśa Dīpaṃkara Śrījñāna"
+  },
+  "life": {
+    "birth": 982,
+    "death": 1054,
+    "display": "982—1054"
+  },
+  "civilization": "tibetan_buddhist",
+  "traditions": [
+    "kadampa",
+    "tibetan_buddhism"
+  ],
+  "periods": [
+    "medieval"
+  ],
+  "themes": [
+    "religion",
+    "ethics"
+  ],
+  "keywordsZh": [
+    "噶当派",
+    "菩提道灯论",
+    "道次第"
+  ],
+  "oneLineZh": "噶当派关键人物，以《菩提道灯论》影响藏传道次第传统。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "阿底峡（982—1054）是 Seed W6 藏传佛教文明补线候选。其身份层入选理由为：噶当派关键人物，以《菩提道灯论》影响藏传道次第传统。 本条仅作 seed 档基本定位，后续若升级标准档，必须重新做著作、论点与 evidence 研究。",
+  "works": [
+    "atisa-lamp-path-enlightenment"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S003",
+      "url": "https://treasuryoflives.org/biographies/",
+      "noteZh": "来源：Treasury of Lives / Atiśa；用于核验人物身份、断代、代表作与思想史定位。"
+    }
+  ]
+}

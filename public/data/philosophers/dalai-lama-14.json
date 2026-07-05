@@ -1,0 +1,44 @@
+{
+  "id": "dalai-lama-14",
+  "tier": "seed",
+  "names": {
+    "zh": "第十四世达赖喇嘛",
+    "en": "14th Dalai Lama"
+  },
+  "life": {
+    "birth": 1935,
+    "display": "1935—"
+  },
+  "civilization": "tibetan_buddhist",
+  "traditions": [
+    "gelug",
+    "modern_buddhist_philosophy"
+  ],
+  "periods": [
+    "contemporary"
+  ],
+  "themes": [
+    "religion",
+    "knowledge"
+  ],
+  "keywordsZh": [
+    "格鲁派",
+    "当代中观",
+    "科学对话"
+  ],
+  "oneLineZh": "格鲁派当代领袖，以中观解释、伦理和科学对话进入全球哲学语境。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "第十四世达赖喇嘛（1935—）是 Seed W6 藏传佛教文明补线候选。其身份层入选理由为：格鲁派当代领袖，以中观解释、伦理和科学对话进入全球哲学语境。 本条仅作 seed 档基本定位，后续若升级标准档，必须重新做著作、论点与 evidence 研究。",
+  "works": [
+    "dalai-lama-14-universe-in-single-atom",
+    "dalai-lama-14-ethics-for-new-millennium"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S007",
+      "url": "https://www.dalailama.com/the-dalai-lama/biography-and-daily-life/brief-biography",
+      "noteZh": "来源：Official biography / 14th Dalai Lama；用于核验人物身份、断代、代表作与思想史定位。"
+    }
+  ]
+}

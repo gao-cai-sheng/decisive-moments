@@ -1,0 +1,46 @@
+{
+  "id": "jamgon-kongtrul",
+  "tier": "seed",
+  "names": {
+    "zh": "蒋贡康楚",
+    "en": "Jamgön Kongtrul Lodrö Tayé"
+  },
+  "life": {
+    "birth": 1813,
+    "death": 1899,
+    "display": "1813—1899"
+  },
+  "civilization": "tibetan_buddhist",
+  "traditions": [
+    "rime",
+    "kagyu",
+    "nyingma"
+  ],
+  "periods": [
+    "modern"
+  ],
+  "themes": [
+    "religion",
+    "knowledge"
+  ],
+  "keywordsZh": [
+    "利美运动",
+    "知识总汇",
+    "五大藏"
+  ],
+  "oneLineZh": "利美运动核心人物，以《知识总汇》等整合藏传多传统。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "蒋贡康楚（1813—1899）是 Seed W6 藏传佛教文明补线候选。其身份层入选理由为：利美运动核心人物，以《知识总汇》等整合藏传多传统。 本条仅作 seed 档基本定位，后续若升级标准档，必须重新做著作、论点与 evidence 研究。",
+  "works": [
+    "jamgon-kongtrul-treasury-of-knowledge",
+    "jamgon-kongtrul-five-treasuries"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S005",
+      "url": "https://treasuryoflives.org/biographies/",
+      "noteZh": "来源：Treasury of Lives / Jamgon Kongtrul；用于核验人物身份、断代、代表作与思想史定位。"
+    }
+  ]
+}

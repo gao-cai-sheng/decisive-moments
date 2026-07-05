@@ -1,0 +1,44 @@
+{
+  "id": "gorampa",
+  "tier": "seed",
+  "names": {
+    "zh": "果然巴",
+    "en": "Gorampa Sonam Senge"
+  },
+  "life": {
+    "birth": 1429,
+    "death": 1489,
+    "display": "1429—1489"
+  },
+  "civilization": "tibetan_buddhist",
+  "traditions": [
+    "sakya",
+    "madhyamaka"
+  ],
+  "periods": [
+    "medieval"
+  ],
+  "themes": [
+    "religion",
+    "metaphysics"
+  ],
+  "keywordsZh": [
+    "萨迦派",
+    "中观",
+    "宗喀巴批评"
+  ],
+  "oneLineZh": "萨迦派中观系统家，以对宗喀巴解释的批评成为藏传中观内部重要节点。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "果然巴（1429—1489）是 Seed W6 藏传佛教文明补线候选。其身份层入选理由为：萨迦派中观系统家，以对宗喀巴解释的批评成为藏传中观内部重要节点。 本条仅作 seed 档基本定位，后续若升级标准档，必须重新做著作、论点与 evidence 研究。",
+  "works": [
+    "gorampa-distinguishing-views"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S003",
+      "url": "https://treasuryoflives.org/biographies/",
+      "noteZh": "来源：Treasury of Lives / Gorampa；用于核验人物身份、断代、代表作与思想史定位。"
+    }
+  ]
+}

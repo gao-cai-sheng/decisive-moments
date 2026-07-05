@@ -8169,5 +8169,173 @@
     "titleEn": "Gyeongse Yupyo",
     "yearDisplay": "19世纪",
     "noteZh": "丁若镛制度改革思想代表作。"
+  },
+  {
+    "id": "santaraksita-tattvasamgraha",
+    "philosopherId": "santaraksita",
+    "titleZh": "《摄真实论》",
+    "titleEn": "Tattvasaṃgraha",
+    "yearDisplay": "8世纪",
+    "noteZh": "寂护身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "santaraksita-madhyamakalamkara",
+    "philosopherId": "santaraksita",
+    "titleZh": "《中观庄严论》",
+    "titleEn": "Madhyamakālaṃkāra",
+    "yearDisplay": "8世纪",
+    "noteZh": "寂护身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "kamalasila-bhavanakrama",
+    "philosopherId": "kamalasila",
+    "titleZh": "《修习次第》",
+    "titleEn": "Bhāvanākrama",
+    "yearDisplay": "8世纪",
+    "noteZh": "莲花戒身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "atisa-lamp-path-enlightenment",
+    "philosopherId": "atisa",
+    "titleZh": "《菩提道灯论》",
+    "titleEn": "Lamp for the Path to Enlightenment",
+    "yearDisplay": "11世纪",
+    "noteZh": "阿底峡身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "milarepa-hundred-thousand-songs",
+    "philosopherId": "milarepa",
+    "titleZh": "《十万道歌》",
+    "titleEn": "The Hundred Thousand Songs of Milarepa",
+    "yearDisplay": "传统汇编",
+    "noteZh": "密勒日巴身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "gampopa-jewel-ornament-liberation",
+    "philosopherId": "gampopa",
+    "titleZh": "《解脱庄严宝论》",
+    "titleEn": "The Jewel Ornament of Liberation",
+    "yearDisplay": "12世纪",
+    "noteZh": "冈波巴身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "sakya-pandita-treasury-valid-reasoning",
+    "philosopherId": "sakya-pandita",
+    "titleZh": "《量理宝藏论》",
+    "titleEn": "Treasury of Valid Reasoning",
+    "yearDisplay": "13世纪",
+    "noteZh": "萨迦班智达身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "sakya-pandita-clarifying-sages-intent",
+    "philosopherId": "sakya-pandita",
+    "titleZh": "《显明圣意》",
+    "titleEn": "Clarifying the Sage’s Intent",
+    "yearDisplay": "13世纪",
+    "noteZh": "萨迦班智达身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "longchenpa-seven-treasuries",
+    "philosopherId": "longchenpa",
+    "titleZh": "《七宝藏》",
+    "titleEn": "Seven Treasuries",
+    "yearDisplay": "14世纪",
+    "noteZh": "隆钦饶绛巴身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "longchenpa-resting-in-illusion",
+    "philosopherId": "longchenpa",
+    "titleZh": "《如幻休息》",
+    "titleEn": "Finding Rest in Illusion",
+    "yearDisplay": "14世纪",
+    "noteZh": "隆钦饶绛巴身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "tsongkhapa-great-treatise-stages-path",
+    "philosopherId": "tsongkhapa",
+    "titleZh": "《菩提道次第广论》",
+    "titleEn": "Great Treatise on the Stages of the Path to Enlightenment",
+    "yearDisplay": "1402",
+    "noteZh": "宗喀巴身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "tsongkhapa-ocean-reasoning",
+    "philosopherId": "tsongkhapa",
+    "titleZh": "《中论广释·正理海》",
+    "titleEn": "Ocean of Reasoning",
+    "yearDisplay": "15世纪",
+    "noteZh": "宗喀巴身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "dolpopa-mountain-doctrine",
+    "philosopherId": "dolpopa",
+    "titleZh": "《山法》",
+    "titleEn": "Mountain Doctrine",
+    "yearDisplay": "14世纪",
+    "noteZh": "多波巴身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "gorampa-distinguishing-views",
+    "philosopherId": "gorampa",
+    "titleZh": "《辨见》",
+    "titleEn": "Distinguishing the Views",
+    "yearDisplay": "15世纪",
+    "noteZh": "果然巴身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "buton-history-of-buddhism",
+    "philosopherId": "buton",
+    "titleZh": "《布顿佛教史》",
+    "titleEn": "History of Buddhism",
+    "yearDisplay": "14世纪",
+    "noteZh": "布顿身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "jamgon-kongtrul-treasury-of-knowledge",
+    "philosopherId": "jamgon-kongtrul",
+    "titleZh": "《知识总汇》",
+    "titleEn": "Treasury of Knowledge",
+    "yearDisplay": "19世纪",
+    "noteZh": "蒋贡康楚身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "jamgon-kongtrul-five-treasuries",
+    "philosopherId": "jamgon-kongtrul",
+    "titleZh": "《五大藏》",
+    "titleEn": "Five Treasuries",
+    "yearDisplay": "19世纪",
+    "noteZh": "蒋贡康楚身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "mipham-beacon-certainty",
+    "philosopherId": "mipham",
+    "titleZh": "《定解宝灯论》",
+    "titleEn": "Beacon of Certainty",
+    "yearDisplay": "19世纪",
+    "noteZh": "米滂身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "mipham-commentary-madhyamakalamkara",
+    "philosopherId": "mipham",
+    "titleZh": "《中观庄严论注》",
+    "titleEn": "Commentary on Madhyamakālaṃkāra",
+    "yearDisplay": "19世纪",
+    "noteZh": "米滂身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "dalai-lama-14-universe-in-single-atom",
+    "philosopherId": "dalai-lama-14",
+    "titleZh": "《一颗原子的宇宙》",
+    "titleEn": "The Universe in a Single Atom",
+    "yearDisplay": "2005",
+    "noteZh": "第十四世达赖喇嘛身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "dalai-lama-14-ethics-for-new-millennium",
+    "philosopherId": "dalai-lama-14",
+    "titleZh": "《新千年的伦理》",
+    "titleEn": "Ethics for the New Millennium",
+    "yearDisplay": "1999",
+    "noteZh": "第十四世达赖喇嘛身份层代表作或核心关联文本，用于 seed 档基本定位。"
   }
 ]

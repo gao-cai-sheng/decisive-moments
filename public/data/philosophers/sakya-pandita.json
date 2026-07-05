@@ -1,0 +1,45 @@
+{
+  "id": "sakya-pandita",
+  "tier": "seed",
+  "names": {
+    "zh": "萨迦班智达",
+    "en": "Sakya Paṇḍita"
+  },
+  "life": {
+    "birth": 1182,
+    "death": 1251,
+    "display": "1182—1251"
+  },
+  "civilization": "tibetan_buddhist",
+  "traditions": [
+    "sakya",
+    "buddhist_epistemology"
+  ],
+  "periods": [
+    "medieval"
+  ],
+  "themes": [
+    "knowledge",
+    "language"
+  ],
+  "keywordsZh": [
+    "萨迦派",
+    "量论",
+    "量理宝藏论"
+  ],
+  "oneLineZh": "萨迦派系统家，以《量理宝藏论》推进藏传量论传统。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "萨迦班智达（1182—1251）是 Seed W6 藏传佛教文明补线候选。其身份层入选理由为：萨迦派系统家，以《量理宝藏论》推进藏传量论传统。 本条仅作 seed 档基本定位，后续若升级标准档，必须重新做著作、论点与 evidence 研究。",
+  "works": [
+    "sakya-pandita-treasury-valid-reasoning",
+    "sakya-pandita-clarifying-sages-intent"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S006",
+      "url": "https://iep.utm.edu/",
+      "noteZh": "来源：IEP / Sakya Pandita；用于核验人物身份、断代、代表作与思想史定位。"
+    }
+  ]
+}
