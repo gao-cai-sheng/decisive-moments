@@ -1,0 +1,47 @@
+{
+  "id": "nachmanides",
+  "tier": "seed",
+  "names": {
+    "zh": "纳赫曼尼德",
+    "en": "Nachmanides",
+    "native": "משה בן נחמן"
+  },
+  "life": {
+    "birth": 1194,
+    "death": 1270,
+    "display": "1194—1270"
+  },
+  "civilization": "jewish",
+  "traditions": [
+    "jewish_philosophy",
+    "kabbalah",
+    "rabbinic_judaism"
+  ],
+  "periods": [
+    "seed_w8"
+  ],
+  "themes": [
+    "religion",
+    "metaphysics"
+  ],
+  "keywordsZh": [
+    "拉姆班",
+    "迈蒙尼德之争",
+    "早期卡巴拉"
+  ],
+  "oneLineZh": "拉姆班以释经、哈拉卡与早期卡巴拉参与迈蒙尼德之争。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "纳赫曼尼德（1194—1270）是 Seed W8 犹太文明补线候选。其身份层定位为：中世纪拉比、释经家与早期卡巴拉思想节点，在迈蒙尼德之争、托拉评注和神秘主义传统中都占有重要位置。本条仅作 seed 档基本定位，后续若升级标准档，必须重新做著作、论点与 evidence 研究。",
+  "works": [
+    "nachmanides-commentary-on-the-torah",
+    "nachmanides-torat-ha-adam"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S001",
+      "url": "https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/nachmanides",
+      "noteZh": "来源：Encyclopaedia Judaica / Nachmanides；用于核验人物身份、1194—1270断代、托拉评注、迈蒙尼德之争和早期卡巴拉定位。"
+    }
+  ]
+}

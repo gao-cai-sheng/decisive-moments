@@ -1,0 +1,47 @@
+{
+  "id": "moses-mendelssohn",
+  "tier": "seed",
+  "names": {
+    "zh": "摩西·门德尔松",
+    "en": "Moses Mendelssohn",
+    "native": "משה מנדלסון"
+  },
+  "life": {
+    "birth": 1729,
+    "death": 1786,
+    "display": "1729—1786"
+  },
+  "civilization": "european_modern",
+  "traditions": [
+    "haskalah",
+    "jewish_philosophy",
+    "enlightenment"
+  ],
+  "periods": [
+    "seed_w8"
+  ],
+  "themes": [
+    "religion",
+    "politics"
+  ],
+  "keywordsZh": [
+    "哈斯卡拉",
+    "耶路撒冷",
+    "宗教宽容"
+  ],
+  "oneLineZh": "犹太启蒙关键人物，以《耶路撒冷》讨论宗教权力、宽容与犹太公民身份。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "摩西·门德尔松（1729—1786）是 Seed W8 犹太文明补线候选。其身份层定位为：德国启蒙与犹太启蒙关键人物，以宗教宽容、犹太公民权、自然神学和美学批评连接现代欧洲哲学与犹太思想。本条仅作 seed 档基本定位，后续若升级标准档，必须重新做著作、论点与 evidence 研究。",
+  "works": [
+    "moses-mendelssohn-jerusalem",
+    "moses-mendelssohn-phaedon"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S001",
+      "url": "https://plato.stanford.edu/entries/mendelssohn/",
+      "noteZh": "来源：SEP / Moses Mendelssohn；用于核验人物身份、1729—1786断代、《耶路撒冷》、启蒙哲学与哈斯卡拉定位。"
+    }
+  ]
+}

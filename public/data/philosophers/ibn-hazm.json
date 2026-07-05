@@ -1,0 +1,48 @@
+{
+  "id": "ibn-hazm",
+  "tier": "seed",
+  "names": {
+    "zh": "伊本·哈兹姆",
+    "en": "Ibn Ḥazm",
+    "native": "ابن حزم"
+  },
+  "life": {
+    "birth": 994,
+    "death": 1064,
+    "display": "994—1064"
+  },
+  "civilization": "islamic",
+  "traditions": [
+    "zahiri",
+    "andalusian_thought",
+    "logic"
+  ],
+  "periods": [
+    "medieval"
+  ],
+  "themes": [
+    "language",
+    "knowledge",
+    "religion"
+  ],
+  "keywordsZh": [
+    "查希里派",
+    "逻辑与法学",
+    "鸽子的项圈"
+  ],
+  "oneLineZh": "安达卢斯查希里派思想家，兼具法学、逻辑、宗教论辩和爱情文学写作。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "伊本·哈兹姆（994—1064）是 Seed W7 伊斯兰文明 falsafa 补线候选。其身份层入选理由为：安达卢斯查希里派思想家，兼具法学、逻辑、宗教论辩和爱情文学写作。本条仅作 seed 档基本定位，后续若升级标准档，必须重新做著作、论点与 evidence 研究。",
+  "works": [
+    "ibn-hazm-fisal",
+    "ibn-hazm-tawq-al-hamama"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S005",
+      "url": "https://referenceworks.brill.com/display/entries/EI2/SIM-3241.xml",
+      "noteZh": "来源：Encyclopaedia of Islam / Ibn Ḥazm；用于核验人物身份、生卒断代、查希里法学、逻辑论辩和代表著作。"
+    }
+  ]
+}

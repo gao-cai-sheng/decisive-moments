@@ -1,0 +1,46 @@
+{
+  "id": "rabia-al-adawiyya",
+  "tier": "seed",
+  "names": {
+    "zh": "拉比雅",
+    "en": "Rābiʿa al-ʿAdawiyya",
+    "native": "رابعة العدوية"
+  },
+  "life": {
+    "birth": 714,
+    "death": 801,
+    "display": "约714—801"
+  },
+  "civilization": "islamic",
+  "traditions": [
+    "early_sufism",
+    "asceticism"
+  ],
+  "periods": [
+    "medieval"
+  ],
+  "themes": [
+    "religion",
+    "ethics",
+    "life_death"
+  ],
+  "keywordsZh": [
+    "纯粹神爱",
+    "早期苏非",
+    "禁欲传统"
+  ],
+  "oneLineZh": "早期苏非圣徒形象，以不为天堂地狱而只为真主的纯粹神爱成为苏非爱的经典源头。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "拉比雅（约714—801）是 Seed W7 伊斯兰文明苏非线候选。其身份层入选理由为：早期苏非圣徒形象，以不为天堂地狱而只为真主的纯粹神爱成为苏非爱的经典源头。本条仅作 seed 档基本定位；其言行诗句多由传记传统保存，后续若升级标准档，必须重新做著作、论点与 evidence 研究。",
+  "works": [
+    "rabia-al-adawiyya-sayings-poems"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S001",
+      "url": "https://www.oxfordreference.com/display/10.1093/oi/authority.20110803100401388",
+      "noteZh": "来源：Oxford Reference / Rabia al-Adawiyya；用于核验人物身份、生卒断代、早期苏非神爱传统定位。其言行诗句多经传记传统保存，升级标准档前需另做文本归属复核。"
+    }
+  ]
+}

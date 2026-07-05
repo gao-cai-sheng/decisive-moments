@@ -8337,5 +8337,711 @@
     "titleEn": "Ethics for the New Millennium",
     "yearDisplay": "1999",
     "noteZh": "第十四世达赖喇嘛身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "wasil-ibn-ata-manzila-bayn-al-manzilatayn",
+    "philosopherId": "wasil-ibn-ata",
+    "titleZh": "《介于两种地位之间》",
+    "titleEn": "al-Manzila bayn al-Manzilatayn",
+    "originalTitle": "المنزلة بين المنزلتين",
+    "yearDisplay": "8世纪",
+    "noteZh": "瓦绥勒·本·阿塔身份层代表性 doctrine/归名文本，用于 seed 档基本定位；传世状况和标题归属需在标准档阶段复核。"
+  },
+  {
+    "id": "wasil-ibn-ata-khutba-without-ra",
+    "philosopherId": "wasil-ibn-ata",
+    "titleZh": "《无字母 rāʾ 演说》",
+    "titleEn": "Sermon without the Letter Rāʾ",
+    "yearDisplay": "8世纪",
+    "noteZh": "瓦绥勒·本·阿塔传记传统中的著名演说，用于 seed 档身份层补充；升级标准档前需核验文本传统。"
+  },
+  {
+    "id": "al-ashari-maqalat-al-islamiyyin",
+    "philosopherId": "al-ashari",
+    "titleZh": "《伊斯兰各派论说》",
+    "titleEn": "Maqālāt al-Islāmiyyīn",
+    "originalTitle": "مقالات الإسلاميين",
+    "yearDisplay": "10世纪",
+    "noteZh": "艾什尔里代表作，用于 seed 档基本定位。"
+  },
+  {
+    "id": "al-ashari-al-luma",
+    "philosopherId": "al-ashari",
+    "titleZh": "《光芒》",
+    "titleEn": "al-Lumaʿ fī al-Radd ʿalā Ahl al-Zaygh wa-l-Bidaʿ",
+    "originalTitle": "اللمع في الرد على أهل الزيغ والبدع",
+    "yearDisplay": "10世纪",
+    "noteZh": "艾什尔里教义学代表作，用于 seed 档基本定位。"
+  },
+  {
+    "id": "al-maturidi-kitab-al-tawhid",
+    "philosopherId": "al-maturidi",
+    "titleZh": "《认主独一书》",
+    "titleEn": "Kitāb al-Tawḥīd",
+    "originalTitle": "كتاب التوحيد",
+    "yearDisplay": "10世纪",
+    "noteZh": "马图里迪教义学代表作，用于 seed 档基本定位。"
+  },
+  {
+    "id": "al-maturidi-tawilat-al-quran",
+    "philosopherId": "al-maturidi",
+    "titleZh": "《古兰经诠释》",
+    "titleEn": "Taʾwīlāt al-Qurʾān",
+    "originalTitle": "تأويلات القرآن",
+    "yearDisplay": "10世纪",
+    "noteZh": "马图里迪经注与神学解释代表作，用于 seed 档基本定位。"
+  },
+  {
+    "id": "al-baqillani-tamhid-al-awail",
+    "philosopherId": "al-baqillani",
+    "titleZh": "《开端奠基与证明提要》",
+    "titleEn": "Tamhīd al-Awāʾil wa-Talkhīṣ al-Dalāʾil",
+    "originalTitle": "تمهيد الأوائل وتلخيص الدلائل",
+    "yearDisplay": "10—11世纪",
+    "noteZh": "巴基拉尼系统教义学代表作，用于 seed 档基本定位。"
+  },
+  {
+    "id": "al-baqillani-ijaz-al-quran",
+    "philosopherId": "al-baqillani",
+    "titleZh": "《古兰经不可模仿性》",
+    "titleEn": "Iʿjāz al-Qurʾān",
+    "originalTitle": "إعجاز القرآن",
+    "yearDisplay": "10—11世纪",
+    "noteZh": "巴基拉尼关于《古兰经》不可模仿性的代表作，用于 seed 档基本定位。"
+  },
+  {
+    "id": "al-juwayni-al-irshad",
+    "philosopherId": "al-juwayni",
+    "titleZh": "《信仰原则确证指南》",
+    "titleEn": "al-Irshād ilā Qawāṭiʿ al-Adilla fī Uṣūl al-Iʿtiqād",
+    "originalTitle": "الإرشاد إلى قواطع الأدلة في أصول الاعتقاد",
+    "yearDisplay": "11世纪",
+    "noteZh": "朱韦尼教义学代表作，用于 seed 档基本定位。"
+  },
+  {
+    "id": "al-juwayni-al-shamil",
+    "philosopherId": "al-juwayni",
+    "titleZh": "《宗教原则总论》",
+    "titleEn": "al-Shāmil fī Uṣūl al-Dīn",
+    "originalTitle": "الشامل في أصول الدين",
+    "yearDisplay": "11世纪",
+    "noteZh": "朱韦尼系统教义学著作，用于 seed 档基本定位。"
+  },
+  {
+    "id": "fakhr-al-din-al-razi-al-muhassal",
+    "philosopherId": "fakhr-al-din-al-razi",
+    "titleZh": "《前后学者思想要义》",
+    "titleEn": "Muḥaṣṣal Afkār al-Mutaqaddimīn wa-l-Mutaʾakhkhirīn",
+    "originalTitle": "محصل أفكار المتقدمين والمتأخرين",
+    "yearDisplay": "12—13世纪",
+    "noteZh": "法赫尔丁·拉齐哲学神学代表作，用于 seed 档基本定位。"
+  },
+  {
+    "id": "fakhr-al-din-al-razi-al-matalib-al-aliya",
+    "philosopherId": "fakhr-al-din-al-razi",
+    "titleZh": "《高远问题》",
+    "titleEn": "al-Maṭālib al-ʿĀliya",
+    "originalTitle": "المطالب العالية",
+    "yearDisplay": "12—13世纪",
+    "noteZh": "法赫尔丁·拉齐晚期哲学神学与形而上学代表作，用于 seed 档基本定位。"
+  },
+  {
+    "id": "abu-bakr-al-razi-spiritual-medicine",
+    "philosopherId": "abu-bakr-al-razi",
+    "titleZh": "《精神医学》",
+    "titleEn": "al-Ṭibb al-Rūḥānī",
+    "originalTitle": "الطب الروحاني",
+    "yearDisplay": "9—10世纪",
+    "noteZh": "阿布·伯克尔·拉齐伦理—心理治疗著作，用于 seed 档基本定位。"
+  },
+  {
+    "id": "abu-bakr-al-razi-doubts-about-galen",
+    "philosopherId": "abu-bakr-al-razi",
+    "titleZh": "《对盖伦的怀疑》",
+    "titleEn": "Shukūk ʿalā Jālīnūs",
+    "originalTitle": "شكوك على جالينوس",
+    "yearDisplay": "9—10世纪",
+    "noteZh": "阿布·伯克尔·拉齐医学与理性批判代表作，用于 seed 档基本定位。"
+  },
+  {
+    "id": "miskawayh-tahdhib-al-akhlaq",
+    "philosopherId": "miskawayh",
+    "titleZh": "《性理之净化》",
+    "titleEn": "Tahdhīb al-Akhlāq",
+    "originalTitle": "تهذيب الأخلاق",
+    "yearDisplay": "10—11世纪",
+    "noteZh": "米斯凯韦伦理学代表作，用于 seed 档基本定位。"
+  },
+  {
+    "id": "miskawayh-al-fawz-al-asghar",
+    "philosopherId": "miskawayh",
+    "titleZh": "《小胜利》",
+    "titleEn": "al-Fawz al-Aṣghar",
+    "originalTitle": "الفوز الأصغر",
+    "yearDisplay": "10—11世纪",
+    "noteZh": "米斯凯韦哲学与灵魂论相关著作，用于 seed 档基本定位。"
+  },
+  {
+    "id": "ibn-bajja-governance-solitary",
+    "philosopherId": "ibn-bajja",
+    "titleZh": "《孤独者之治理》",
+    "titleEn": "Tadbīr al-Mutawaḥḥid",
+    "originalTitle": "تدبير المتوحد",
+    "yearDisplay": "12世纪",
+    "noteZh": "伊本·巴哲政治—理智完善论代表作，用于 seed 档基本定位。"
+  },
+  {
+    "id": "ibn-bajja-conjunction-intellect",
+    "philosopherId": "ibn-bajja",
+    "titleZh": "《论人与能动理智的结合》",
+    "titleEn": "On the Conjunction of Man with the Active Intellect",
+    "yearDisplay": "12世纪",
+    "noteZh": "伊本·巴哲理智论相关著作，用于 seed 档基本定位。"
+  },
+  {
+    "id": "ibn-tufayl-hayy-ibn-yaqzan",
+    "philosopherId": "ibn-tufayl",
+    "titleZh": "《哈义·本·叶格赞》",
+    "titleEn": "Ḥayy ibn Yaqẓān",
+    "originalTitle": "حي بن يقظان",
+    "yearDisplay": "12世纪",
+    "noteZh": "伊本·图斐利哲学小说代表作，用于 seed 档基本定位。"
+  },
+  {
+    "id": "ibn-hazm-fisal",
+    "philosopherId": "ibn-hazm",
+    "titleZh": "《宗教、教派与学派辨析》",
+    "titleEn": "al-Fiṣal fī al-Milal wa-l-Ahwāʾ wa-l-Niḥal",
+    "originalTitle": "الفصل في الملل والأهواء والنحل",
+    "yearDisplay": "11世纪",
+    "noteZh": "伊本·哈兹姆宗教论辩与教派学代表作，用于 seed 档基本定位。"
+  },
+  {
+    "id": "ibn-hazm-tawq-al-hamama",
+    "philosopherId": "ibn-hazm",
+    "titleZh": "《鸽子的项圈》",
+    "titleEn": "Ṭawq al-Ḥamāma",
+    "originalTitle": "طوق الحمامة",
+    "yearDisplay": "11世纪",
+    "noteZh": "伊本·哈兹姆爱情与人性观察代表作，用于 seed 档基本定位。"
+  },
+  {
+    "id": "nasir-al-din-tusi-akhlaq-i-nasiri",
+    "philosopherId": "nasir-al-din-tusi",
+    "titleZh": "《纳西里伦理学》",
+    "titleEn": "Akhlāq-i Nāṣirī",
+    "originalTitle": "اخلاق ناصری",
+    "yearDisplay": "13世纪",
+    "noteZh": "纳绥尔丁·图西伦理学代表作，用于 seed 档基本定位。"
+  },
+  {
+    "id": "nasir-al-din-tusi-tajrid-al-itiqad",
+    "philosopherId": "nasir-al-din-tusi",
+    "titleZh": "《信仰剥离》",
+    "titleEn": "Tajrīd al-Iʿtiqād",
+    "originalTitle": "تجريد الاعتقاد",
+    "yearDisplay": "13世纪",
+    "noteZh": "纳绥尔丁·图西什叶神学代表作，用于 seed 档基本定位。"
+  },
+  {
+    "id": "rabia-al-adawiyya-sayings-poems",
+    "philosopherId": "rabia-al-adawiyya",
+    "titleZh": "《拉比雅言行与诗句》",
+    "titleEn": "Sayings and Poems Attributed to Rabia al-Adawiyya",
+    "yearDisplay": "8世纪传统；后世传记保存",
+    "noteZh": "拉比雅身份层代表性言行诗句传统，用于 seed 档基本定位；非严格作者著作，升级标准档前必须复核文本归属。"
+  },
+  {
+    "id": "al-junayd-letters",
+    "philosopherId": "al-junayd",
+    "titleZh": "《朱奈德书信》",
+    "titleEn": "Letters of al-Junayd",
+    "yearDisplay": "9—10世纪",
+    "noteZh": "朱奈德书信传统，用于 seed 档基本定位；升级标准档前须核验文本归属。"
+  },
+  {
+    "id": "al-junayd-sayings",
+    "philosopherId": "al-junayd",
+    "titleZh": "《朱奈德语录》",
+    "titleEn": "Sayings of al-Junayd",
+    "yearDisplay": "9—10世纪传统；后世保存",
+    "noteZh": "朱奈德苏非语录传统，用于 seed 档基本定位；升级标准档前须核验文本归属。"
+  },
+  {
+    "id": "al-hallaj-kitab-al-tawasin",
+    "philosopherId": "al-hallaj",
+    "titleZh": "《塔瓦辛书》",
+    "titleEn": "Kitāb al-Ṭawāsīn",
+    "originalTitle": "كتاب الطواسين",
+    "yearDisplay": "10世纪",
+    "noteZh": "哈拉智代表作，用于 seed 档基本定位。"
+  },
+  {
+    "id": "al-hallaj-diwan",
+    "philosopherId": "al-hallaj",
+    "titleZh": "《哈拉智诗集》",
+    "titleEn": "Dīwān of al-Ḥallāj",
+    "yearDisplay": "10世纪传统；后世编集",
+    "noteZh": "哈拉智诗歌传统，用于 seed 档基本定位；升级标准档前须核验文本层级。"
+  },
+  {
+    "id": "rumi-masnavi",
+    "philosopherId": "rumi",
+    "titleZh": "《玛斯纳维》",
+    "titleEn": "Masnavi-ye Ma'navi",
+    "originalTitle": "مثنوی معنوی",
+    "yearDisplay": "13世纪",
+    "noteZh": "鲁米代表作，用于 seed 档基本定位。"
+  },
+  {
+    "id": "rumi-diwan-e-shams",
+    "philosopherId": "rumi",
+    "titleZh": "《沙姆斯诗集》",
+    "titleEn": "Dīwān-e Shams-e Tabrīzī",
+    "originalTitle": "دیوان شمس تبریزی",
+    "yearDisplay": "13世纪",
+    "noteZh": "鲁米抒情诗代表作，用于 seed 档基本定位。"
+  },
+  {
+    "id": "nasir-khusraw-wajh-i-din",
+    "philosopherId": "nasir-khusraw",
+    "titleZh": "《宗教之面》",
+    "titleEn": "Wajh-i Dīn",
+    "originalTitle": "وجه دین",
+    "yearDisplay": "11世纪",
+    "noteZh": "纳西尔·霍斯鲁伊斯玛仪派哲学—宗教解释代表作，用于 seed 档基本定位。"
+  },
+  {
+    "id": "nasir-khusraw-safar-nama",
+    "philosopherId": "nasir-khusraw",
+    "titleZh": "《旅行记》",
+    "titleEn": "Safar-nāma",
+    "originalTitle": "سفرنامه",
+    "yearDisplay": "11世纪",
+    "noteZh": "纳西尔·霍斯鲁旅行记代表作，用于 seed 档基本定位。"
+  },
+  {
+    "id": "ibn-taymiyya-dar-taarud",
+    "philosopherId": "ibn-taymiyya",
+    "titleZh": "《驳理性与传述冲突》",
+    "titleEn": "Darʾ Taʿāruḍ al-ʿAql wa-l-Naql",
+    "originalTitle": "درء تعارض العقل والنقل",
+    "yearDisplay": "14世纪",
+    "noteZh": "伊本·泰米叶反哲学与理性—传述关系代表作，用于 seed 档基本定位。"
+  },
+  {
+    "id": "ibn-taymiyya-minhaj-al-sunna",
+    "philosopherId": "ibn-taymiyya",
+    "titleZh": "《圣行之道》",
+    "titleEn": "Minhāj al-Sunna al-Nabawiyya",
+    "originalTitle": "منهاج السنة النبوية",
+    "yearDisplay": "14世纪",
+    "noteZh": "伊本·泰米叶神学与论辩代表作，用于 seed 档基本定位。"
+  },
+  {
+    "id": "mir-damad-qabasat",
+    "philosopherId": "mir-damad",
+    "titleZh": "《火炬》",
+    "titleEn": "al-Qabasāt",
+    "originalTitle": "القبسات",
+    "yearDisplay": "17世纪",
+    "noteZh": "米尔·达马德关于时间与创生问题的代表作，用于 seed 档基本定位。"
+  },
+  {
+    "id": "mir-damad-taqwim-al-iman",
+    "philosopherId": "mir-damad",
+    "titleZh": "《信仰校准》",
+    "titleEn": "Taqwīm al-Īmān",
+    "originalTitle": "تقويم الإيمان",
+    "yearDisplay": "17世纪",
+    "noteZh": "米尔·达马德哲学神学著作，用于 seed 档基本定位。"
+  },
+  {
+    "id": "tabatabai-principles-philosophy-method-realism",
+    "philosopherId": "tabatabai",
+    "titleZh": "《哲学原理与现实主义方法》",
+    "titleEn": "The Principles of Philosophy and the Method of Realism",
+    "yearDisplay": "20世纪",
+    "noteZh": "塔巴塔巴伊当代哲学代表作，用于 seed 档基本定位。"
+  },
+  {
+    "id": "tabatabai-al-mizan",
+    "philosopherId": "tabatabai",
+    "titleZh": "《天秤经注》",
+    "titleEn": "al-Mīzān fī Tafsīr al-Qurʾān",
+    "originalTitle": "الميزان في تفسير القرآن",
+    "yearDisplay": "20世纪",
+    "noteZh": "塔巴塔巴伊《古兰经》经注代表作，用于 seed 档基本定位。"
+  },
+  {
+    "id": "al-afghani-refutation-materialists",
+    "philosopherId": "al-afghani",
+    "titleZh": "《驳物质主义者》",
+    "titleEn": "Refutation of the Materialists",
+    "yearDisplay": "19世纪",
+    "noteZh": "阿富汗尼现代主义与反唯物主义论辩代表作，用于 seed 档基本定位。"
+  },
+  {
+    "id": "al-afghani-al-urwa-al-wuthqa",
+    "philosopherId": "al-afghani",
+    "titleZh": "《坚固纽带》",
+    "titleEn": "al-ʿUrwa al-Wuthqā",
+    "originalTitle": "العروة الوثقى",
+    "yearDisplay": "1884",
+    "noteZh": "阿富汗尼与穆罕默德·阿卜杜合作的改革刊物，用于 seed 档基本定位。"
+  },
+  {
+    "id": "muhammad-abduh-risalat-al-tawhid",
+    "philosopherId": "muhammad-abduh",
+    "titleZh": "《认主独一论》",
+    "titleEn": "Risālat al-Tawḥīd",
+    "originalTitle": "رسالة التوحيد",
+    "yearDisplay": "19世纪末",
+    "noteZh": "穆罕默德·阿卜杜神学改革代表作，用于 seed 档基本定位。"
+  },
+  {
+    "id": "muhammad-abduh-tafsir-al-manar",
+    "philosopherId": "muhammad-abduh",
+    "titleZh": "《灯塔经注》",
+    "titleEn": "Tafsīr al-Manār",
+    "originalTitle": "تفسير المنار",
+    "yearDisplay": "20世纪初",
+    "noteZh": "穆罕默德·阿卜杜及其学派相关现代主义经注项目，用于 seed 档基本定位。"
+  },
+  {
+    "id": "fazlur-rahman-islam-and-modernity",
+    "philosopherId": "fazlur-rahman",
+    "titleZh": "《伊斯兰与现代性》",
+    "titleEn": "Islam and Modernity",
+    "yearDisplay": "1982",
+    "noteZh": "法兹鲁尔·拉赫曼新现代主义诠释学代表作，用于 seed 档基本定位。"
+  },
+  {
+    "id": "fazlur-rahman-major-themes-quran",
+    "philosopherId": "fazlur-rahman",
+    "titleZh": "《古兰经主要主题》",
+    "titleEn": "Major Themes of the Qur'an",
+    "yearDisplay": "1980",
+    "noteZh": "法兹鲁尔·拉赫曼古兰经伦理解释代表作，用于 seed 档基本定位。"
+  },
+  {
+    "id": "seyyed-hossein-nasr-knowledge-and-sacred",
+    "philosopherId": "seyyed-hossein-nasr",
+    "titleZh": "《知识与神圣》",
+    "titleEn": "Knowledge and the Sacred",
+    "yearDisplay": "1981",
+    "noteZh": "纳斯尔传统学派与神圣知识论代表作，用于 seed 档基本定位。"
+  },
+  {
+    "id": "seyyed-hossein-nasr-science-civilization-islam",
+    "philosopherId": "seyyed-hossein-nasr",
+    "titleZh": "《伊斯兰的科学与文明》",
+    "titleEn": "Science and Civilization in Islam",
+    "yearDisplay": "1968",
+    "noteZh": "纳斯尔伊斯兰科学史与文明论代表作，用于 seed 档基本定位。"
+  },
+  {
+    "id": "philo-of-alexandria-on-creation",
+    "philosopherId": "philo-of-alexandria",
+    "titleZh": "《论创世》",
+    "titleEn": "On the Creation / De Opificio Mundi",
+    "yearDisplay": "1世纪",
+    "noteZh": "斐洛身份层代表作，以创世记释经连接犹太经文与希腊哲学宇宙论。"
+  },
+  {
+    "id": "philo-of-alexandria-allegorical-interpretation",
+    "philosopherId": "philo-of-alexandria",
+    "titleZh": "《寓意解释》",
+    "titleEn": "Allegorical Interpretation",
+    "yearDisplay": "1世纪",
+    "noteZh": "斐洛身份层核心释经文本，用于标识其寓意释经方法。"
+  },
+  {
+    "id": "isaac-israeli-book-of-definitions",
+    "philosopherId": "isaac-israeli",
+    "titleZh": "《定义之书》",
+    "titleEn": "Book of Definitions",
+    "yearDisplay": "10世纪",
+    "noteZh": "以撒·以色列利身份层代表作，用于标识其哲学术语与定义传统。"
+  },
+  {
+    "id": "isaac-israeli-book-of-substances",
+    "philosopherId": "isaac-israeli",
+    "titleZh": "《实体之书》",
+    "titleEn": "Book of Substances",
+    "yearDisplay": "10世纪",
+    "noteZh": "以撒·以色列利身份层代表作，用于标识其新柏拉图主义形而上学。"
+  },
+  {
+    "id": "ibn-gabirol-fons-vitae",
+    "philosopherId": "ibn-gabirol",
+    "titleZh": "《生命之源》",
+    "titleEn": "Fons Vitae / The Fountain of Life",
+    "yearDisplay": "11世纪",
+    "noteZh": "伊本·盖比鲁勒身份层代表作，拉丁传统中以 Avicebron 名义流传。"
+  },
+  {
+    "id": "ibn-gabirol-improvement-moral-qualities",
+    "philosopherId": "ibn-gabirol",
+    "titleZh": "《道德品质的改善》",
+    "titleEn": "The Improvement of the Moral Qualities",
+    "yearDisplay": "11世纪",
+    "noteZh": "伊本·盖比鲁勒身份层伦理文本，用于补足其诗人与哲学家双重定位。"
+  },
+  {
+    "id": "bahya-ibn-paquda-duties-of-the-heart",
+    "philosopherId": "bahya-ibn-paquda",
+    "titleZh": "《心之义务》",
+    "titleEn": "Duties of the Heart / Ḥovot ha-Levavot",
+    "yearDisplay": "11世纪",
+    "noteZh": "巴希亚身份层代表作，强调内在虔敬与伦理修养。"
+  },
+  {
+    "id": "judah-halevi-kuzari",
+    "philosopherId": "judah-halevi",
+    "titleZh": "《库萨里》",
+    "titleEn": "The Kuzari",
+    "yearDisplay": "约1140",
+    "noteZh": "犹大·哈列维身份层代表作，以对话体为犹太信仰传统辩护。"
+  },
+  {
+    "id": "abraham-ibn-daud-exalted-faith",
+    "philosopherId": "abraham-ibn-daud",
+    "titleZh": "《崇高信仰》",
+    "titleEn": "The Exalted Faith / Emunah Ramah",
+    "yearDisplay": "12世纪",
+    "noteZh": "亚伯拉罕·伊本·达乌德身份层代表作，展示犹太亚里士多德主义。"
+  },
+  {
+    "id": "abraham-ibn-daud-sefer-ha-qabbalah",
+    "philosopherId": "abraham-ibn-daud",
+    "titleZh": "《传承之书》",
+    "titleEn": "Sefer ha-Qabbalah",
+    "yearDisplay": "12世纪",
+    "noteZh": "亚伯拉罕·伊本·达乌德史学文本，用于标识其传统连续性论述。"
+  },
+  {
+    "id": "gersonides-wars-of-the-lord",
+    "philosopherId": "gersonides",
+    "titleZh": "《主的战争》",
+    "titleEn": "The Wars of the Lord / Milḥamot HaShem",
+    "yearDisplay": "1329",
+    "noteZh": "革尔松尼德身份层代表作，讨论神知、灵魂、预言和宇宙问题。"
+  },
+  {
+    "id": "gersonides-commentary-on-the-torah",
+    "philosopherId": "gersonides",
+    "titleZh": "《托拉评注》",
+    "titleEn": "Commentary on the Torah",
+    "yearDisplay": "14世纪",
+    "noteZh": "革尔松尼德释经代表文本，用于标识其哲学释经活动。"
+  },
+  {
+    "id": "hasdai-crescas-light-of-the-lord",
+    "philosopherId": "hasdai-crescas",
+    "titleZh": "《主之光》",
+    "titleEn": "Light of the Lord / Or Adonai",
+    "yearDisplay": "15世纪初",
+    "noteZh": "哈斯代·克雷斯卡斯身份层代表作，系统批判亚里士多德主义。"
+  },
+  {
+    "id": "joseph-albo-book-of-principles",
+    "philosopherId": "joseph-albo",
+    "titleZh": "《信条书》",
+    "titleEn": "Book of Principles / Sefer ha-Ikkarim",
+    "yearDisplay": "15世纪",
+    "noteZh": "约瑟·阿尔博身份层代表作，重整犹太信仰原则。"
+  },
+  {
+    "id": "nachmanides-commentary-on-the-torah",
+    "philosopherId": "nachmanides",
+    "titleZh": "《托拉评注》",
+    "titleEn": "Commentary on the Torah",
+    "yearDisplay": "13世纪",
+    "noteZh": "纳赫曼尼德身份层代表作，结合释经、拉比传统与神秘主义线索。"
+  },
+  {
+    "id": "nachmanides-torat-ha-adam",
+    "philosopherId": "nachmanides",
+    "titleZh": "《人的律法》",
+    "titleEn": "Torat ha-Adam",
+    "yearDisplay": "13世纪",
+    "noteZh": "纳赫曼尼德关于哀悼、死亡与末世问题的哈拉卡—神学文本。"
+  },
+  {
+    "id": "moses-de-leon-zohar",
+    "philosopherId": "moses-de-leon",
+    "titleZh": "《光辉之书》",
+    "titleEn": "Zohar",
+    "yearDisplay": "13世纪",
+    "noteZh": "中世纪卡巴拉核心文本；与摩西·德·莱昂的作者/传播问题密切相关。"
+  },
+  {
+    "id": "moses-de-leon-sefer-ha-rimmon",
+    "philosopherId": "moses-de-leon",
+    "titleZh": "《石榴之书》",
+    "titleEn": "Sefer ha-Rimmon",
+    "yearDisplay": "13世纪",
+    "noteZh": "摩西·德·莱昂身份层代表性卡巴拉文本。"
+  },
+  {
+    "id": "abraham-abulafia-sefer-ha-ot",
+    "philosopherId": "abraham-abulafia",
+    "titleZh": "《记号之书》",
+    "titleEn": "Sefer ha-Ot",
+    "yearDisplay": "13世纪",
+    "noteZh": "亚伯拉罕·阿布拉菲亚身份层代表作，关联先知卡巴拉。"
+  },
+  {
+    "id": "abraham-abulafia-hayyei-ha-olam-ha-ba",
+    "philosopherId": "abraham-abulafia",
+    "titleZh": "《来世生命》",
+    "titleEn": "Ḥayyei ha-Olam ha-Ba",
+    "yearDisplay": "13世纪",
+    "noteZh": "阿布拉菲亚关于神名、字母与默想方法的重要文本。"
+  },
+  {
+    "id": "isaac-luria-etz-chaim",
+    "philosopherId": "isaac-luria",
+    "titleZh": "《生命树》",
+    "titleEn": "Etz Ḥayim",
+    "yearDisplay": "16—17世纪整理",
+    "noteZh": "卢里亚教义核心关联文本，由哈伊姆·维塔尔等弟子记录整理。"
+  },
+  {
+    "id": "isaac-luria-shaar-ha-gilgulim",
+    "philosopherId": "isaac-luria",
+    "titleZh": "《轮回之门》",
+    "titleEn": "Sha'ar ha-Gilgulim",
+    "yearDisplay": "16—17世纪整理",
+    "noteZh": "卢里亚传统中关于灵魂轮回的核心关联文本，由弟子传统整理。"
+  },
+  {
+    "id": "baal-shem-tov-keter-shem-tov",
+    "philosopherId": "baal-shem-tov",
+    "titleZh": "《善名之冠》",
+    "titleEn": "Keter Shem Tov",
+    "yearDisplay": "1794汇编",
+    "noteZh": "巴尔·谢姆·托夫教导的后世汇编，用于 seed 档身份层定位。"
+  },
+  {
+    "id": "baal-shem-tov-tzavaat-harivash",
+    "philosopherId": "baal-shem-tov",
+    "titleZh": "《里巴什遗训》",
+    "titleEn": "Tzava'at HaRibash",
+    "yearDisplay": "18世纪汇编",
+    "noteZh": "归于巴尔·谢姆·托夫传统的教导汇编；非亲撰体系著作，seed 档注明传承性质。"
+  },
+  {
+    "id": "schneur-zalman-tanya",
+    "philosopherId": "schneur-zalman",
+    "titleZh": "《坦尼亚》",
+    "titleEn": "Tanya / Likkutei Amarim",
+    "yearDisplay": "1796",
+    "noteZh": "什内乌尔·扎尔曼身份层代表作，哈巴德思想核心文本。"
+  },
+  {
+    "id": "schneur-zalman-shulchan-aruch-harav",
+    "philosopherId": "schneur-zalman",
+    "titleZh": "《拉比之法典》",
+    "titleEn": "Shulchan Aruch HaRav",
+    "yearDisplay": "18—19世纪",
+    "noteZh": "什内乌尔·扎尔曼哈拉卡代表作，体现其哈西德法典传统。"
+  },
+  {
+    "id": "moses-mendelssohn-jerusalem",
+    "philosopherId": "moses-mendelssohn",
+    "titleZh": "《耶路撒冷》",
+    "titleEn": "Jerusalem, or on Religious Power and Judaism",
+    "yearDisplay": "1783",
+    "noteZh": "门德尔松身份层代表作，讨论宗教权力、犹太教与公民宽容。"
+  },
+  {
+    "id": "moses-mendelssohn-phaedon",
+    "philosopherId": "moses-mendelssohn",
+    "titleZh": "《斐多》",
+    "titleEn": "Phaedon, or On the Immortality of the Soul",
+    "yearDisplay": "1767",
+    "noteZh": "门德尔松关于灵魂不朽的哲学对话，体现其启蒙形而上学。"
+  },
+  {
+    "id": "gershom-scholem-major-trends",
+    "philosopherId": "gershom-scholem",
+    "titleZh": "《犹太神秘主义主流》",
+    "titleEn": "Major Trends in Jewish Mysticism",
+    "yearDisplay": "1941",
+    "noteZh": "肖勒姆身份层代表作，奠定现代卡巴拉研究的历史叙述。"
+  },
+  {
+    "id": "gershom-scholem-sabbatai-sevi",
+    "philosopherId": "gershom-scholem",
+    "titleZh": "《沙巴泰·泽维》",
+    "titleEn": "Sabbatai Sevi: The Mystical Messiah",
+    "yearDisplay": "1957",
+    "noteZh": "肖勒姆关于弥赛亚主义和犹太现代性前史的重要研究。"
+  },
+  {
+    "id": "abraham-joshua-heschel-god-in-search-of-man",
+    "philosopherId": "abraham-joshua-heschel",
+    "titleZh": "《人在寻求神》",
+    "titleEn": "God in Search of Man",
+    "yearDisplay": "1955",
+    "noteZh": "赫舍尔身份层代表作，讨论启示、敬畏和犹太宗教经验。"
+  },
+  {
+    "id": "abraham-joshua-heschel-the-prophets",
+    "philosopherId": "abraham-joshua-heschel",
+    "titleZh": "《先知》",
+    "titleEn": "The Prophets",
+    "yearDisplay": "1962",
+    "noteZh": "赫舍尔关于先知精神、神圣关切与伦理抗议的代表作。"
+  },
+  {
+    "id": "joseph-soloveitchik-halakhic-man",
+    "philosopherId": "joseph-soloveitchik",
+    "titleZh": "《哈拉哈人》",
+    "titleEn": "Halakhic Man",
+    "yearDisplay": "1944",
+    "noteZh": "索洛维奇克身份层代表作，塑造哈拉哈主体的宗教哲学形象。"
+  },
+  {
+    "id": "joseph-soloveitchik-lonely-man-of-faith",
+    "philosopherId": "joseph-soloveitchik",
+    "titleZh": "《孤独的信仰人》",
+    "titleEn": "The Lonely Man of Faith",
+    "yearDisplay": "1965",
+    "noteZh": "索洛维奇克关于现代信仰处境与双重亚当类型的代表性论文。"
+  },
+  {
+    "id": "mordecai-kaplan-judaism-as-civilization",
+    "philosopherId": "mordecai-kaplan",
+    "titleZh": "《犹太教作为一种文明》",
+    "titleEn": "Judaism as a Civilization",
+    "yearDisplay": "1934",
+    "noteZh": "卡普兰身份层代表作，提出犹太教是演化中的宗教文明。"
+  },
+  {
+    "id": "mordecai-kaplan-meaning-of-god",
+    "philosopherId": "mordecai-kaplan",
+    "titleZh": "《现代犹太宗教中的神之意义》",
+    "titleEn": "The Meaning of God in Modern Jewish Religion",
+    "yearDisplay": "1937",
+    "noteZh": "卡普兰自然主义神学代表作，用于标识其重建主义思想。"
+  },
+  {
+    "id": "yeshayahu-leibowitz-judaism-human-values-jewish-state",
+    "philosopherId": "yeshayahu-leibowitz",
+    "titleZh": "《犹太教、人类价值与犹太国家》",
+    "titleEn": "Judaism, Human Values, and the Jewish State",
+    "yearDisplay": "1992英译",
+    "noteZh": "莱博维茨论文集，体现其宗教、伦理与国家问题立场。"
+  },
+  {
+    "id": "yeshayahu-leibowitz-faith-of-maimonides",
+    "philosopherId": "yeshayahu-leibowitz",
+    "titleZh": "《迈蒙尼德的信仰》",
+    "titleEn": "The Faith of Maimonides",
+    "yearDisplay": "20世纪",
+    "noteZh": "莱博维茨关于迈蒙尼德宗教哲学诠释的核心关联文本。"
   }
 ]

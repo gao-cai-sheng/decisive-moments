@@ -1,0 +1,48 @@
+{
+  "id": "nasir-khusraw",
+  "tier": "seed",
+  "names": {
+    "zh": "纳西尔·霍斯鲁",
+    "en": "Nāṣir-i Khusraw",
+    "native": "ناصر خسرو"
+  },
+  "life": {
+    "birth": 1004,
+    "death": 1088,
+    "display": "1004—约1088"
+  },
+  "civilization": "islamic",
+  "traditions": [
+    "ismaili",
+    "persian_philosophy",
+    "poetry"
+  ],
+  "periods": [
+    "medieval"
+  ],
+  "themes": [
+    "religion",
+    "metaphysics",
+    "knowledge"
+  ],
+  "keywordsZh": [
+    "伊斯玛仪派",
+    "新柏拉图主义",
+    "波斯哲学诗"
+  ],
+  "oneLineZh": "伊斯玛仪派诗人和思想家，以波斯语哲学诗文表达宇宙论、启示解释和灵魂归返问题。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "纳西尔·霍斯鲁（1004—约1088）是 Seed W7 伊斯兰文明苏非/伊斯玛仪线候选。其身份层入选理由为：伊斯玛仪派诗人和思想家，以波斯语哲学诗文表达宇宙论、启示解释和灵魂归返问题。本条仅作 seed 档基本定位，后续若升级标准档，必须重新做著作、论点与 evidence 研究。",
+  "works": [
+    "nasir-khusraw-wajh-i-din",
+    "nasir-khusraw-safar-nama"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S005",
+      "url": "https://www.iranicaonline.org/articles/naser-e-kosrow",
+      "noteZh": "来源：Encyclopaedia Iranica / Nasir-e Khusraw；用于核验人物身份、生卒断代、伊斯玛仪派思想、诗文和代表著作。"
+    }
+  ]
+}

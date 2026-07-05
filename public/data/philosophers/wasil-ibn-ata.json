@@ -1,0 +1,47 @@
+{
+  "id": "wasil-ibn-ata",
+  "tier": "seed",
+  "names": {
+    "zh": "瓦绥勒·本·阿塔",
+    "en": "Wāṣil ibn ʿAṭāʾ",
+    "native": "واصل بن عطاء"
+  },
+  "life": {
+    "birth": 700,
+    "death": 748,
+    "display": "约700—748"
+  },
+  "civilization": "islamic",
+  "traditions": [
+    "mutazila",
+    "kalam"
+  ],
+  "periods": [
+    "medieval"
+  ],
+  "themes": [
+    "religion",
+    "freedom",
+    "justice"
+  ],
+  "keywordsZh": [
+    "穆尔太齐赖派",
+    "自由意志",
+    "两种地位之间"
+  ],
+  "oneLineZh": "早期穆尔太齐赖派奠基者，以理性神学、自由意志和“介于两种地位之间”问题开启 kalam 传统分歧。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "瓦绥勒·本·阿塔（约700—748）是 Seed W7 伊斯兰文明教义学试点候选。其身份层入选理由为：早期穆尔太齐赖派奠基者，以理性神学、自由意志和“介于两种地位之间”问题开启 kalam 传统分歧。本条仅作 seed 档基本定位；其文本多经传记和教派史保存，后续若升级标准档，必须重新做著作、论点与 evidence 研究。",
+  "works": [
+    "wasil-ibn-ata-manzila-bayn-al-manzilatayn",
+    "wasil-ibn-ata-khutba-without-ra"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S001",
+      "url": "https://www.oxfordreference.com/display/10.1093/oi/authority.20110803095955512",
+      "noteZh": "来源：Oxford Reference / Ibn ‘Ata’, Wasil；用于核验人物身份、断代、穆尔太齐赖派创始定位。其归名文本多为佚文或片段性传统，升级标准档前需另做文献复核。"
+    }
+  ]
+}

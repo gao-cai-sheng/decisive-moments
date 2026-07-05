@@ -1,0 +1,46 @@
+{
+  "id": "baal-shem-tov",
+  "tier": "seed",
+  "names": {
+    "zh": "巴尔·谢姆·托夫",
+    "en": "Baal Shem Tov",
+    "native": "ישראל בן אליעזר"
+  },
+  "life": {
+    "birth": 1698,
+    "death": 1760,
+    "display": "约1698—1760"
+  },
+  "civilization": "jewish",
+  "traditions": [
+    "hasidism",
+    "jewish_mysticism"
+  ],
+  "periods": [
+    "seed_w8"
+  ],
+  "themes": [
+    "religion",
+    "life_death"
+  ],
+  "keywordsZh": [
+    "哈西德派",
+    "灵性喜乐",
+    "神圣临在"
+  ],
+  "oneLineZh": "哈西德派创始人物，以灵性喜乐、虔敬生活和神圣临在感影响东欧犹太教。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "巴尔·谢姆·托夫（约1698—1760）是 Seed W8 犹太文明补线候选。其身份层定位为：东欧哈西德派创始人物，强调喜乐、祈祷、虔敬生活与日常中的神圣临在；其教导主要经弟子和后世汇编保存，并非以亲撰体系著作为主。本条仅作 seed 档基本定位，后续若升级标准档，必须重新做著作、论点与 evidence 研究。",
+  "works": [
+    "baal-shem-tov-keter-shem-tov",
+    "baal-shem-tov-tzavaat-harivash"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S005",
+      "url": "https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/baal-shem-tov",
+      "noteZh": "来源：Encyclopaedia Judaica / Baal Shem Tov；用于核验人物身份、约1698—1760断代、哈西德创始定位与教导汇编情况。"
+    }
+  ]
+}

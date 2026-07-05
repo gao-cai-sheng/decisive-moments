@@ -1,0 +1,47 @@
+{
+  "id": "philo-of-alexandria",
+  "tier": "seed",
+  "names": {
+    "zh": "亚历山大的斐洛",
+    "en": "Philo of Alexandria",
+    "native": "Φίλων ὁ Ἀλεξανδρεύς"
+  },
+  "life": {
+    "birth": -20,
+    "death": 50,
+    "display": "约前20—约50"
+  },
+  "civilization": "jewish",
+  "traditions": [
+    "hellenistic_judaism",
+    "middle_platonism",
+    "jewish_philosophy"
+  ],
+  "periods": [
+    "seed_w8"
+  ],
+  "themes": [
+    "religion",
+    "metaphysics"
+  ],
+  "keywordsZh": [
+    "寓意释经",
+    "逻各斯",
+    "希腊化犹太哲学"
+  ],
+  "oneLineZh": "以希腊哲学范畴解释托拉，是犹太哲学古代谱系的关键起点。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "亚历山大的斐洛（约前20—约50）是 Seed W8 犹太文明补线候选。其身份层定位为：在希腊化亚历山大语境中，以寓意释经、逻各斯与神圣超越性把托拉诠释同柏拉图主义和斯多亚问题连接起来。本条仅作 seed 档基本定位，后续若升级标准档，必须重新做著作、论点与 evidence 研究。",
+  "works": [
+    "philo-of-alexandria-on-creation",
+    "philo-of-alexandria-allegorical-interpretation"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S001",
+      "url": "https://plato.stanford.edu/entries/philo/",
+      "noteZh": "来源：SEP / Philo of Alexandria；用于核验人物身份、断代、寓意释经、逻各斯主题与主要著作。"
+    }
+  ]
+}

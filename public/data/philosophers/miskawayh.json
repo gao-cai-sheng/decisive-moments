@@ -1,0 +1,47 @@
+{
+  "id": "miskawayh",
+  "tier": "seed",
+  "names": {
+    "zh": "米斯凯韦",
+    "en": "Aḥmad ibn Muḥammad Miskawayh",
+    "native": "مسكويه"
+  },
+  "life": {
+    "birth": 932,
+    "death": 1030,
+    "display": "约932—1030"
+  },
+  "civilization": "islamic",
+  "traditions": [
+    "falsafa",
+    "ethics"
+  ],
+  "periods": [
+    "medieval"
+  ],
+  "themes": [
+    "ethics",
+    "life_death",
+    "knowledge"
+  ],
+  "keywordsZh": [
+    "性理之净化",
+    "品格修养",
+    "亚里士多德伦理学"
+  ],
+  "oneLineZh": "伊斯兰伦理学系统家，以《性理之净化》把希腊德性伦理转化为灵魂训练和品格教育方案。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "米斯凯韦（约932—1030）是 Seed W7 伊斯兰文明 falsafa 补线候选。其身份层入选理由为：伊斯兰伦理学系统家，以《性理之净化》把希腊德性伦理转化为灵魂训练和品格教育方案。本条仅作 seed 档基本定位，后续若升级标准档，必须重新做著作、论点与 evidence 研究。",
+  "works": [
+    "miskawayh-tahdhib-al-akhlaq",
+    "miskawayh-al-fawz-al-asghar"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S002",
+      "url": "https://www.iranicaonline.org/articles/miskawayh-abu-ali-ahmad",
+      "noteZh": "来源：Encyclopaedia Iranica / MISKAWAYH；用于核验人物身份、生卒断代、伦理学定位和代表著作。"
+    }
+  ]
+}

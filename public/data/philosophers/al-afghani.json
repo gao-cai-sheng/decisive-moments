@@ -1,0 +1,48 @@
+{
+  "id": "al-afghani",
+  "tier": "seed",
+  "names": {
+    "zh": "哲马鲁丁·阿富汗尼",
+    "en": "Jamāl al-Dīn al-Afghānī",
+    "native": "جمال الدين الأفغاني"
+  },
+  "life": {
+    "birth": 1838,
+    "death": 1897,
+    "display": "1838—1897"
+  },
+  "civilization": "islamic",
+  "traditions": [
+    "islamic_modernism",
+    "pan-islamism",
+    "political_reform"
+  ],
+  "periods": [
+    "modern"
+  ],
+  "themes": [
+    "politics",
+    "religion",
+    "freedom"
+  ],
+  "keywordsZh": [
+    "泛伊斯兰主义",
+    "现代主义改革",
+    "反殖民政治"
+  ],
+  "oneLineZh": "泛伊斯兰政治活动家和现代主义先声，以反殖民、宗教改革和穆斯林公共政治动员影响近现代伊斯兰思想。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "哲马鲁丁·阿富汗尼（1838—1897）是 Seed W7 伊斯兰文明晚期与近现代补线候选。其身份层入选理由为：泛伊斯兰政治活动家和现代主义先声，以反殖民、宗教改革和穆斯林公共政治动员影响近现代伊斯兰思想。本条仅作 seed 档基本定位；其出生地和身份叙述存在争议，后续若升级标准档，必须重新做著作、论点与 evidence 研究。",
+  "works": [
+    "al-afghani-refutation-materialists",
+    "al-afghani-al-urwa-al-wuthqa"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S004",
+      "url": "https://www.iranicaonline.org/articles/afgani-jamal-al-din",
+      "noteZh": "来源：Encyclopaedia Iranica / AFGHANI, JAMAL-AL-DIN；用于核验人物身份、生卒断代、泛伊斯兰改革和现代主义先声定位；出生地和身份叙述须保留争议意识。"
+    }
+  ]
+}

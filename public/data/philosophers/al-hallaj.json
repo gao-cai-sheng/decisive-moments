@@ -1,0 +1,47 @@
+{
+  "id": "al-hallaj",
+  "tier": "seed",
+  "names": {
+    "zh": "哈拉智",
+    "en": "al-Ḥallāj",
+    "native": "الحلاج"
+  },
+  "life": {
+    "birth": 858,
+    "death": 922,
+    "display": "858—922"
+  },
+  "civilization": "islamic",
+  "traditions": [
+    "sufism",
+    "martyr_mysticism"
+  ],
+  "periods": [
+    "medieval"
+  ],
+  "themes": [
+    "religion",
+    "life_death",
+    "freedom"
+  ],
+  "keywordsZh": [
+    "我即真理",
+    "苏非殉道",
+    "神秘合一"
+  ],
+  "oneLineZh": "以“我即真理”形象和殉道结局成为苏非神秘合一、言说边界与宗教权威冲突的核心节点。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "哈拉智（858—922）是 Seed W7 伊斯兰文明苏非线候选。其身份层入选理由为：以“我即真理”形象和殉道结局成为苏非神秘合一、言说边界与宗教权威冲突的核心节点。本条仅作 seed 档基本定位，后续若升级标准档，必须重新做著作、论点与 evidence 研究。",
+  "works": [
+    "al-hallaj-kitab-al-tawasin",
+    "al-hallaj-diwan"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S003",
+      "url": "https://referenceworks.brill.com/display/entries/EI2/SIM-2685.xml",
+      "noteZh": "来源：Encyclopaedia of Islam / al-Hallaj；用于核验人物身份、生卒断代、苏非殉道传统和代表著作。"
+    }
+  ]
+}

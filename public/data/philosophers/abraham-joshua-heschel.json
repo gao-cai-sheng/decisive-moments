@@ -1,0 +1,47 @@
+{
+  "id": "abraham-joshua-heschel",
+  "tier": "seed",
+  "names": {
+    "zh": "亚伯拉罕·约书亚·赫舍尔",
+    "en": "Abraham Joshua Heschel",
+    "native": "אברהם יהושע השל"
+  },
+  "life": {
+    "birth": 1907,
+    "death": 1972,
+    "display": "1907—1972"
+  },
+  "civilization": "jewish",
+  "traditions": [
+    "jewish_theology",
+    "hasidism",
+    "american_jewish_thought"
+  ],
+  "periods": [
+    "seed_w8"
+  ],
+  "themes": [
+    "religion",
+    "ethics"
+  ],
+  "keywordsZh": [
+    "敬畏",
+    "先知精神",
+    "安息日"
+  ],
+  "oneLineZh": "20世纪犹太神学家，以敬畏、先知伦理与宗教经验论连接灵修和公共正义。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "亚伯拉罕·约书亚·赫舍尔（1907—1972）是 Seed W8 犹太文明补线候选。其身份层定位为：20世纪美国犹太神学家和公共知识分子，以《人在寻求神》《先知》等作品讨论敬畏、启示、先知伦理和宗教经验，并参与民权运动语境。本条仅作 seed 档基本定位，后续若升级标准档，必须重新做著作、论点与 evidence 研究。",
+  "works": [
+    "abraham-joshua-heschel-god-in-search-of-man",
+    "abraham-joshua-heschel-the-prophets"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S003",
+      "url": "https://www.encyclopedia.com/people/philosophy-and-religion/judaism-biographies/abraham-joshua-heschel",
+      "noteZh": "来源：Encyclopaedia Judaica / Abraham Joshua Heschel；用于核验人物身份、1907—1972断代、代表作、先知伦理与犹太神学定位。"
+    }
+  ]
+}

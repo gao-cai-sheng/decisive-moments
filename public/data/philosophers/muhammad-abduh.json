@@ -1,0 +1,48 @@
+{
+  "id": "muhammad-abduh",
+  "tier": "seed",
+  "names": {
+    "zh": "穆罕默德·阿卜杜",
+    "en": "Muḥammad ʿAbduh",
+    "native": "محمد عبده"
+  },
+  "life": {
+    "birth": 1849,
+    "death": 1905,
+    "display": "1849—1905"
+  },
+  "civilization": "islamic",
+  "traditions": [
+    "islamic_modernism",
+    "egyptian_reform",
+    "legal_reform"
+  ],
+  "periods": [
+    "modern"
+  ],
+  "themes": [
+    "religion",
+    "politics",
+    "knowledge"
+  ],
+  "keywordsZh": [
+    "埃及现代主义",
+    "宗教教育改革",
+    "理性诠释"
+  ],
+  "oneLineZh": "埃及现代主义改革者，以宗教教育、法学改革和理性化诠释推动伊斯兰与现代社会的协调。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "穆罕默德·阿卜杜（1849—1905）是 Seed W7 伊斯兰文明晚期与近现代补线候选。其身份层入选理由为：埃及现代主义改革者，以宗教教育、法学改革和理性化诠释推动伊斯兰与现代社会的协调。本条仅作 seed 档基本定位，后续若升级标准档，必须重新做著作、论点与 evidence 研究。",
+  "works": [
+    "muhammad-abduh-risalat-al-tawhid",
+    "muhammad-abduh-tafsir-al-manar"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S005",
+      "url": "https://referenceworks.brill.com/display/entries/EI2/SIM-5317.xml",
+      "noteZh": "来源：Encyclopaedia of Islam / Muhammad Abduh；用于核验人物身份、生卒断代、埃及现代主义改革、宗教教育和法学改革定位。"
+    }
+  ]
+}

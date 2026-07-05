@@ -1,0 +1,47 @@
+{
+  "id": "mir-damad",
+  "tier": "seed",
+  "names": {
+    "zh": "米尔·达马德",
+    "en": "Mīr Dāmād",
+    "native": "میر داماد"
+  },
+  "life": {
+    "birth": 1561,
+    "death": 1631,
+    "display": "约1561—1631"
+  },
+  "civilization": "islamic",
+  "traditions": [
+    "school_of_isfahan",
+    "shia_philosophy"
+  ],
+  "periods": [
+    "early_modern"
+  ],
+  "themes": [
+    "metaphysics",
+    "religion",
+    "knowledge"
+  ],
+  "keywordsZh": [
+    "伊斯法罕学派",
+    "萨德拉之师",
+    "时间创生"
+  ],
+  "oneLineZh": "伊斯法罕学派核心人物和萨德拉之师，以时间、永恒和创生问题构成萨法维哲学的重要节点。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "米尔·达马德（约1561—1631）是 Seed W7 伊斯兰文明晚期与近现代补线候选。其身份层入选理由为：伊斯法罕学派核心人物和萨德拉之师，以时间、永恒和创生问题构成萨法维哲学的重要节点。本条仅作 seed 档基本定位，后续若升级标准档，必须重新做著作、论点与 evidence 研究。",
+  "works": [
+    "mir-damad-qabasat",
+    "mir-damad-taqwim-al-iman"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S002",
+      "url": "https://www.iranicaonline.org/articles/damad-mir-mohammad-baqer",
+      "noteZh": "来源：Encyclopaedia Iranica / DAMAD, MIR；用于核验人物身份、生卒断代、伊斯法罕学派和萨德拉之师定位。"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "seyyed-hossein-nasr",
+  "tier": "seed",
+  "names": {
+    "zh": "赛义德·侯赛因·纳斯尔",
+    "en": "Seyyed Hossein Nasr",
+    "native": "سید حسین نصر"
+  },
+  "life": {
+    "birth": 1933,
+    "display": "1933—"
+  },
+  "civilization": "islamic",
+  "traditions": [
+    "traditionalism",
+    "islamic_science",
+    "sufism"
+  ],
+  "periods": [
+    "contemporary"
+  ],
+  "themes": [
+    "religion",
+    "knowledge",
+    "metaphysics"
+  ],
+  "keywordsZh": [
+    "传统学派",
+    "伊斯兰科学",
+    "灵性与现代性批判"
+  ],
+  "oneLineZh": "当代伊斯兰传统学派思想家，以伊斯兰科学、形而上学和灵性传统批判现代世俗化知识观。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "赛义德·侯赛因·纳斯尔（1933—）是 Seed W7 伊斯兰文明晚期与近现代补线候选。其身份层入选理由为：当代伊斯兰传统学派思想家，以伊斯兰科学、形而上学和灵性传统批判现代世俗化知识观。本条仅作 seed 档基本定位；在世状态须在正式入库前由盲审或外部复核，后续若升级标准档，必须重新做著作、论点与 evidence 研究。",
+  "works": [
+    "seyyed-hossein-nasr-knowledge-and-sacred",
+    "seyyed-hossein-nasr-science-civilization-islam"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S007",
+      "url": "https://www.nasrfoundation.org/biography.html",
+      "noteZh": "来源：Official biography / Seyyed Hossein Nasr；用于核验人物身份、生卒断代、传统学派、伊斯兰科学与灵性研究定位；在世状态需后续入库前复核。"
+    }
+  ]
+}

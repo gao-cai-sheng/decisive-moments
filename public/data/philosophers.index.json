@@ -14769,5 +14769,1578 @@
     "oneLineZh": "格鲁派当代领袖，以中观解释、伦理和科学对话进入全球哲学语境。",
     "influenceWeight": 2,
     "reviewStatus": "draft"
+  },
+  {
+    "id": "wasil-ibn-ata",
+    "tier": "seed",
+    "names": {
+      "zh": "瓦绥勒·本·阿塔",
+      "en": "Wāṣil ibn ʿAṭāʾ",
+      "native": "واصل بن عطاء"
+    },
+    "life": {
+      "birth": 700,
+      "death": 748,
+      "display": "约700—748"
+    },
+    "civilization": "islamic",
+    "traditions": [
+      "mutazila",
+      "kalam"
+    ],
+    "periods": [
+      "medieval"
+    ],
+    "themes": [
+      "religion",
+      "freedom",
+      "justice"
+    ],
+    "keywordsZh": [
+      "穆尔太齐赖派",
+      "自由意志",
+      "两种地位之间"
+    ],
+    "oneLineZh": "早期穆尔太齐赖派奠基者，以理性神学、自由意志和“介于两种地位之间”问题开启 kalam 传统分歧。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "al-ashari",
+    "tier": "seed",
+    "names": {
+      "zh": "艾什尔里",
+      "en": "Abū al-Ḥasan al-Ashʿarī",
+      "native": "أبو الحسن الأشعري"
+    },
+    "life": {
+      "birth": 874,
+      "death": 936,
+      "display": "874—936"
+    },
+    "civilization": "islamic",
+    "traditions": [
+      "ashariyya",
+      "kalam"
+    ],
+    "periods": [
+      "medieval"
+    ],
+    "themes": [
+      "religion",
+      "knowledge",
+      "metaphysics"
+    ],
+    "keywordsZh": [
+      "艾什尔里派",
+      "kalam",
+      "理性与传统"
+    ],
+    "oneLineZh": "艾什尔里派创立者，在反穆尔太齐赖与维护逊尼教义之间重塑理性神学。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "al-maturidi",
+    "tier": "seed",
+    "names": {
+      "zh": "马图里迪",
+      "en": "Abū Manṣūr al-Māturīdī",
+      "native": "أبو منصور الماتريدي"
+    },
+    "life": {
+      "birth": 853,
+      "death": 944,
+      "display": "约853—944"
+    },
+    "civilization": "islamic",
+    "traditions": [
+      "maturidiyya",
+      "hanafi",
+      "kalam"
+    ],
+    "periods": [
+      "medieval"
+    ],
+    "themes": [
+      "religion",
+      "knowledge",
+      "freedom"
+    ],
+    "keywordsZh": [
+      "马图里迪派",
+      "哈乃斐传统",
+      "理性认识"
+    ],
+    "oneLineZh": "马图里迪派奠基者，在哈乃斐语境中发展关于理性、启示和人类责任的逊尼教义学。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "al-baqillani",
+    "tier": "seed",
+    "names": {
+      "zh": "巴基拉尼",
+      "en": "Abū Bakr al-Bāqillānī",
+      "native": "أبو بكر الباقلاني"
+    },
+    "life": {
+      "birth": 940,
+      "death": 1013,
+      "display": "约940—1013"
+    },
+    "civilization": "islamic",
+    "traditions": [
+      "ashariyya",
+      "maliki",
+      "kalam"
+    ],
+    "periods": [
+      "medieval"
+    ],
+    "themes": [
+      "religion",
+      "metaphysics",
+      "language"
+    ],
+    "keywordsZh": [
+      "艾什尔里派系统化",
+      "原子论",
+      "古兰经不可模仿性"
+    ],
+    "oneLineZh": "艾什尔里派系统化者，以教义论证、原子论时间观和《古兰经》不可模仿性论证著称。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "al-juwayni",
+    "tier": "seed",
+    "names": {
+      "zh": "朱韦尼",
+      "en": "Imām al-Ḥaramayn al-Juwaynī",
+      "native": "إمام الحرمين الجويني"
+    },
+    "life": {
+      "birth": 1028,
+      "death": 1085,
+      "display": "1028—1085"
+    },
+    "civilization": "islamic",
+    "traditions": [
+      "ashariyya",
+      "shafii",
+      "kalam"
+    ],
+    "periods": [
+      "medieval"
+    ],
+    "themes": [
+      "religion",
+      "knowledge",
+      "politics"
+    ],
+    "keywordsZh": [
+      "两圣地伊玛目",
+      "安萨里之师",
+      "教义学证明"
+    ],
+    "oneLineZh": "“两圣地伊玛目”，安萨里之师，在艾什尔里教义学和法学原理中强化证明结构。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "fakhr-al-din-al-razi",
+    "tier": "seed",
+    "names": {
+      "zh": "法赫尔丁·拉齐",
+      "en": "Fakhr al-Dīn al-Rāzī",
+      "native": "فخر الدين الرازي"
+    },
+    "life": {
+      "birth": 1150,
+      "death": 1210,
+      "display": "1150—1210"
+    },
+    "civilization": "islamic",
+    "traditions": [
+      "ashariyya",
+      "shafii",
+      "post-avicennian_kalam"
+    ],
+    "periods": [
+      "medieval"
+    ],
+    "themes": [
+      "religion",
+      "metaphysics",
+      "knowledge"
+    ],
+    "keywordsZh": [
+      "后伊本·西那哲学神学",
+      "艾什尔里教义学",
+      "经注与形而上学"
+    ],
+    "oneLineZh": "集大成教义学家和哲学神学家，在吸收并批判伊本·西那之后重塑后期 kalam 的问题格局。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "abu-bakr-al-razi",
+    "tier": "seed",
+    "names": {
+      "zh": "阿布·伯克尔·拉齐",
+      "en": "Abū Bakr Muḥammad ibn Zakariyyāʾ al-Rāzī",
+      "native": "أبو بكر محمد بن زكريا الرازي"
+    },
+    "life": {
+      "birth": 854,
+      "death": 925,
+      "display": "854—925"
+    },
+    "civilization": "islamic",
+    "traditions": [
+      "falsafa",
+      "medicine",
+      "free_thought"
+    ],
+    "periods": [
+      "medieval"
+    ],
+    "themes": [
+      "knowledge",
+      "metaphysics",
+      "religion"
+    ],
+    "keywordsZh": [
+      "医师哲学家",
+      "理性自然主义",
+      "批先知论"
+    ],
+    "oneLineZh": "医师—哲学家和自由思想家，以理性自然主义、医学百科和对宗教权威的激进批判著称。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "miskawayh",
+    "tier": "seed",
+    "names": {
+      "zh": "米斯凯韦",
+      "en": "Aḥmad ibn Muḥammad Miskawayh",
+      "native": "مسكويه"
+    },
+    "life": {
+      "birth": 932,
+      "death": 1030,
+      "display": "约932—1030"
+    },
+    "civilization": "islamic",
+    "traditions": [
+      "falsafa",
+      "ethics"
+    ],
+    "periods": [
+      "medieval"
+    ],
+    "themes": [
+      "ethics",
+      "life_death",
+      "knowledge"
+    ],
+    "keywordsZh": [
+      "性理之净化",
+      "品格修养",
+      "亚里士多德伦理学"
+    ],
+    "oneLineZh": "伊斯兰伦理学系统家，以《性理之净化》把希腊德性伦理转化为灵魂训练和品格教育方案。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "ibn-bajja",
+    "tier": "seed",
+    "names": {
+      "zh": "伊本·巴哲",
+      "en": "Ibn Bājja / Avempace",
+      "native": "ابن باجة"
+    },
+    "life": {
+      "birth": 1085,
+      "death": 1138,
+      "display": "约1085—1138"
+    },
+    "civilization": "islamic",
+    "traditions": [
+      "andalusian_falsafa",
+      "aristotelianism"
+    ],
+    "periods": [
+      "medieval"
+    ],
+    "themes": [
+      "knowledge",
+      "politics",
+      "life_death"
+    ],
+    "keywordsZh": [
+      "阿文帕塞",
+      "孤独者之治理",
+      "安达卢斯哲学"
+    ],
+    "oneLineZh": "安达卢斯哲学家，以《孤独者之治理》讨论哲人如何在不完善城邦中保存理智完善。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "ibn-tufayl",
+    "tier": "seed",
+    "names": {
+      "zh": "伊本·图斐利",
+      "en": "Ibn Ṭufayl / Abubacer",
+      "native": "ابن طفيل"
+    },
+    "life": {
+      "birth": 1105,
+      "death": 1185,
+      "display": "约1105—1185"
+    },
+    "civilization": "islamic",
+    "traditions": [
+      "andalusian_falsafa",
+      "philosophical_fiction"
+    ],
+    "periods": [
+      "medieval"
+    ],
+    "themes": [
+      "knowledge",
+      "religion",
+      "metaphysics"
+    ],
+    "keywordsZh": [
+      "哈义·本·叶格赞",
+      "自然理性",
+      "哲学小说"
+    ],
+    "oneLineZh": "安达卢斯哲学家，以《哈义·本·叶格赞》叙述孤岛理性如何从自然观察上升到形而上学与宗教真理。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "ibn-hazm",
+    "tier": "seed",
+    "names": {
+      "zh": "伊本·哈兹姆",
+      "en": "Ibn Ḥazm",
+      "native": "ابن حزم"
+    },
+    "life": {
+      "birth": 994,
+      "death": 1064,
+      "display": "994—1064"
+    },
+    "civilization": "islamic",
+    "traditions": [
+      "zahiri",
+      "andalusian_thought",
+      "logic"
+    ],
+    "periods": [
+      "medieval"
+    ],
+    "themes": [
+      "language",
+      "knowledge",
+      "religion"
+    ],
+    "keywordsZh": [
+      "查希里派",
+      "逻辑与法学",
+      "鸽子的项圈"
+    ],
+    "oneLineZh": "安达卢斯查希里派思想家，兼具法学、逻辑、宗教论辩和爱情文学写作。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "nasir-al-din-tusi",
+    "tier": "seed",
+    "names": {
+      "zh": "纳绥尔丁·图西",
+      "en": "Naṣīr al-Dīn al-Ṭūsī",
+      "native": "نصير الدين الطوسي"
+    },
+    "life": {
+      "birth": 1201,
+      "death": 1274,
+      "display": "1201—1274"
+    },
+    "civilization": "islamic",
+    "traditions": [
+      "post-avicennian_philosophy",
+      "shia_kalam",
+      "astronomy"
+    ],
+    "periods": [
+      "medieval"
+    ],
+    "themes": [
+      "knowledge",
+      "metaphysics",
+      "ethics"
+    ],
+    "keywordsZh": [
+      "伊本·西那传统",
+      "阿赫拉格·纳西里",
+      "马拉盖天文台"
+    ],
+    "oneLineZh": "哲学家、伦理学家和天文学家，在后伊本·西那哲学、什叶神学和数学天文学之间建立关键连接。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "rabia-al-adawiyya",
+    "tier": "seed",
+    "names": {
+      "zh": "拉比雅",
+      "en": "Rābiʿa al-ʿAdawiyya",
+      "native": "رابعة العدوية"
+    },
+    "life": {
+      "birth": 714,
+      "death": 801,
+      "display": "约714—801"
+    },
+    "civilization": "islamic",
+    "traditions": [
+      "early_sufism",
+      "asceticism"
+    ],
+    "periods": [
+      "medieval"
+    ],
+    "themes": [
+      "religion",
+      "ethics",
+      "life_death"
+    ],
+    "keywordsZh": [
+      "纯粹神爱",
+      "早期苏非",
+      "禁欲传统"
+    ],
+    "oneLineZh": "早期苏非圣徒形象，以不为天堂地狱而只为真主的纯粹神爱成为苏非爱的经典源头。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "al-junayd",
+    "tier": "seed",
+    "names": {
+      "zh": "朱奈德",
+      "en": "al-Junayd of Baghdad",
+      "native": "الجنيد البغدادي"
+    },
+    "life": {
+      "birth": 830,
+      "death": 910,
+      "display": "约830—910"
+    },
+    "civilization": "islamic",
+    "traditions": [
+      "baghdad_sufism",
+      "sober_sufism"
+    ],
+    "periods": [
+      "medieval"
+    ],
+    "themes": [
+      "religion",
+      "knowledge",
+      "life_death"
+    ],
+    "keywordsZh": [
+      "巴格达苏非",
+      "清醒派",
+      "神秘合一"
+    ],
+    "oneLineZh": "巴格达苏非“清醒派”核心人物，以在神秘体验与教法边界之间保持纪律化表达著称。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "al-hallaj",
+    "tier": "seed",
+    "names": {
+      "zh": "哈拉智",
+      "en": "al-Ḥallāj",
+      "native": "الحلاج"
+    },
+    "life": {
+      "birth": 858,
+      "death": 922,
+      "display": "858—922"
+    },
+    "civilization": "islamic",
+    "traditions": [
+      "sufism",
+      "martyr_mysticism"
+    ],
+    "periods": [
+      "medieval"
+    ],
+    "themes": [
+      "religion",
+      "life_death",
+      "freedom"
+    ],
+    "keywordsZh": [
+      "我即真理",
+      "苏非殉道",
+      "神秘合一"
+    ],
+    "oneLineZh": "以“我即真理”形象和殉道结局成为苏非神秘合一、言说边界与宗教权威冲突的核心节点。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "rumi",
+    "tier": "seed",
+    "names": {
+      "zh": "鲁米",
+      "en": "Jalāl al-Dīn Rūmī",
+      "native": "جلال‌الدین رومی"
+    },
+    "life": {
+      "birth": 1207,
+      "death": 1273,
+      "display": "1207—1273"
+    },
+    "civilization": "islamic",
+    "traditions": [
+      "sufism",
+      "persian_poetry",
+      "mevlevi"
+    ],
+    "periods": [
+      "medieval"
+    ],
+    "themes": [
+      "religion",
+      "aesthetics",
+      "life_death"
+    ],
+    "keywordsZh": [
+      "玛斯纳维",
+      "爱与合一",
+      "波斯苏非诗"
+    ],
+    "oneLineZh": "波斯苏非诗人与神秘思想家，以《玛斯纳维》将爱、合一和灵魂转化写成影响深远的诗性哲学。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "nasir-khusraw",
+    "tier": "seed",
+    "names": {
+      "zh": "纳西尔·霍斯鲁",
+      "en": "Nāṣir-i Khusraw",
+      "native": "ناصر خسرو"
+    },
+    "life": {
+      "birth": 1004,
+      "death": 1088,
+      "display": "1004—约1088"
+    },
+    "civilization": "islamic",
+    "traditions": [
+      "ismaili",
+      "persian_philosophy",
+      "poetry"
+    ],
+    "periods": [
+      "medieval"
+    ],
+    "themes": [
+      "religion",
+      "metaphysics",
+      "knowledge"
+    ],
+    "keywordsZh": [
+      "伊斯玛仪派",
+      "新柏拉图主义",
+      "波斯哲学诗"
+    ],
+    "oneLineZh": "伊斯玛仪派诗人和思想家，以波斯语哲学诗文表达宇宙论、启示解释和灵魂归返问题。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "ibn-taymiyya",
+    "tier": "seed",
+    "names": {
+      "zh": "伊本·泰米叶",
+      "en": "Ibn Taymiyya",
+      "native": "ابن تيمية"
+    },
+    "life": {
+      "birth": 1263,
+      "death": 1328,
+      "display": "1263—1328"
+    },
+    "civilization": "islamic",
+    "traditions": [
+      "hanbali",
+      "kalam_critique",
+      "salafi_theology"
+    ],
+    "periods": [
+      "medieval"
+    ],
+    "themes": [
+      "religion",
+      "politics",
+      "metaphysics"
+    ],
+    "keywordsZh": [
+      "罕百里派",
+      "批判哲学与kalam",
+      "反苏非一元论"
+    ],
+    "oneLineZh": "罕百里派法学家和神学批判者，以反哲学、反kalam、反苏非一元论和政治神学影响后世。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "mir-damad",
+    "tier": "seed",
+    "names": {
+      "zh": "米尔·达马德",
+      "en": "Mīr Dāmād",
+      "native": "میر داماد"
+    },
+    "life": {
+      "birth": 1561,
+      "death": 1631,
+      "display": "约1561—1631"
+    },
+    "civilization": "islamic",
+    "traditions": [
+      "school_of_isfahan",
+      "shia_philosophy"
+    ],
+    "periods": [
+      "early_modern"
+    ],
+    "themes": [
+      "metaphysics",
+      "religion",
+      "knowledge"
+    ],
+    "keywordsZh": [
+      "伊斯法罕学派",
+      "萨德拉之师",
+      "时间创生"
+    ],
+    "oneLineZh": "伊斯法罕学派核心人物和萨德拉之师，以时间、永恒和创生问题构成萨法维哲学的重要节点。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "tabatabai",
+    "tier": "seed",
+    "names": {
+      "zh": "塔巴塔巴伊",
+      "en": "Sayyid Muḥammad Ḥusayn Ṭabāṭabāʾī",
+      "native": "سید محمدحسین طباطبایی"
+    },
+    "life": {
+      "birth": 1903,
+      "death": 1981,
+      "display": "1903—1981"
+    },
+    "civilization": "islamic",
+    "traditions": [
+      "shia_philosophy",
+      "quranic_exegesis",
+      "post-sadrian_philosophy"
+    ],
+    "periods": [
+      "modern"
+    ],
+    "themes": [
+      "religion",
+      "metaphysics",
+      "knowledge"
+    ],
+    "keywordsZh": [
+      "当代什叶哲学",
+      "原理与方法",
+      "古兰经经注"
+    ],
+    "oneLineZh": "当代什叶哲学家和经注家，以萨德拉传统、哲学认识论和《古兰经》诠释连接现代伊朗思想。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "al-afghani",
+    "tier": "seed",
+    "names": {
+      "zh": "哲马鲁丁·阿富汗尼",
+      "en": "Jamāl al-Dīn al-Afghānī",
+      "native": "جمال الدين الأفغاني"
+    },
+    "life": {
+      "birth": 1838,
+      "death": 1897,
+      "display": "1838—1897"
+    },
+    "civilization": "islamic",
+    "traditions": [
+      "islamic_modernism",
+      "pan-islamism",
+      "political_reform"
+    ],
+    "periods": [
+      "modern"
+    ],
+    "themes": [
+      "politics",
+      "religion",
+      "freedom"
+    ],
+    "keywordsZh": [
+      "泛伊斯兰主义",
+      "现代主义改革",
+      "反殖民政治"
+    ],
+    "oneLineZh": "泛伊斯兰政治活动家和现代主义先声，以反殖民、宗教改革和穆斯林公共政治动员影响近现代伊斯兰思想。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "muhammad-abduh",
+    "tier": "seed",
+    "names": {
+      "zh": "穆罕默德·阿卜杜",
+      "en": "Muḥammad ʿAbduh",
+      "native": "محمد عبده"
+    },
+    "life": {
+      "birth": 1849,
+      "death": 1905,
+      "display": "1849—1905"
+    },
+    "civilization": "islamic",
+    "traditions": [
+      "islamic_modernism",
+      "egyptian_reform",
+      "legal_reform"
+    ],
+    "periods": [
+      "modern"
+    ],
+    "themes": [
+      "religion",
+      "politics",
+      "knowledge"
+    ],
+    "keywordsZh": [
+      "埃及现代主义",
+      "宗教教育改革",
+      "理性诠释"
+    ],
+    "oneLineZh": "埃及现代主义改革者，以宗教教育、法学改革和理性化诠释推动伊斯兰与现代社会的协调。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "fazlur-rahman",
+    "tier": "seed",
+    "names": {
+      "zh": "法兹鲁尔·拉赫曼",
+      "en": "Fazlur Rahman",
+      "native": "فضل الرحمان"
+    },
+    "life": {
+      "birth": 1919,
+      "death": 1988,
+      "display": "1919—1988"
+    },
+    "civilization": "islamic",
+    "traditions": [
+      "neo-modernism",
+      "quranic_hermeneutics",
+      "islamic_reform"
+    ],
+    "periods": [
+      "modern"
+    ],
+    "themes": [
+      "religion",
+      "knowledge",
+      "ethics"
+    ],
+    "keywordsZh": [
+      "新现代主义",
+      "双重运动诠释学",
+      "古兰经伦理"
+    ],
+    "oneLineZh": "新现代主义伊斯兰思想家，以“双重运动”诠释学和古兰经伦理重构现代改革方法。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seyyed-hossein-nasr",
+    "tier": "seed",
+    "names": {
+      "zh": "赛义德·侯赛因·纳斯尔",
+      "en": "Seyyed Hossein Nasr",
+      "native": "سید حسین نصر"
+    },
+    "life": {
+      "birth": 1933,
+      "display": "1933—"
+    },
+    "civilization": "islamic",
+    "traditions": [
+      "traditionalism",
+      "islamic_science",
+      "sufism"
+    ],
+    "periods": [
+      "contemporary"
+    ],
+    "themes": [
+      "religion",
+      "knowledge",
+      "metaphysics"
+    ],
+    "keywordsZh": [
+      "传统学派",
+      "伊斯兰科学",
+      "灵性与现代性批判"
+    ],
+    "oneLineZh": "当代伊斯兰传统学派思想家，以伊斯兰科学、形而上学和灵性传统批判现代世俗化知识观。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "philo-of-alexandria",
+    "tier": "seed",
+    "names": {
+      "zh": "亚历山大的斐洛",
+      "en": "Philo of Alexandria",
+      "native": "Φίλων ὁ Ἀλεξανδρεύς"
+    },
+    "life": {
+      "birth": -20,
+      "death": 50,
+      "display": "约前20—约50"
+    },
+    "civilization": "jewish",
+    "traditions": [
+      "hellenistic_judaism",
+      "middle_platonism",
+      "jewish_philosophy"
+    ],
+    "periods": [
+      "seed_w8"
+    ],
+    "themes": [
+      "religion",
+      "metaphysics"
+    ],
+    "keywordsZh": [
+      "寓意释经",
+      "逻各斯",
+      "希腊化犹太哲学"
+    ],
+    "oneLineZh": "以希腊哲学范畴解释托拉，是犹太哲学古代谱系的关键起点。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "isaac-israeli",
+    "tier": "seed",
+    "names": {
+      "zh": "以撒·以色列利",
+      "en": "Isaac Israeli",
+      "native": "יצחק בן שלמה הישראלי"
+    },
+    "life": {
+      "birth": 855,
+      "death": 955,
+      "display": "约855—约955"
+    },
+    "civilization": "jewish",
+    "traditions": [
+      "jewish_neoplatonism",
+      "jewish_philosophy"
+    ],
+    "periods": [
+      "seed_w8"
+    ],
+    "themes": [
+      "metaphysics",
+      "knowledge"
+    ],
+    "keywordsZh": [
+      "犹太新柏拉图主义",
+      "定义之书",
+      "流溢论"
+    ],
+    "oneLineZh": "早期中世纪犹太新柏拉图主义者，将阿拉伯哲学与犹太思想相接。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "ibn-gabirol",
+    "tier": "seed",
+    "names": {
+      "zh": "伊本·盖比鲁勒",
+      "en": "Solomon Ibn Gabirol",
+      "native": "שלמה אבן גבירול"
+    },
+    "life": {
+      "birth": 1021,
+      "death": 1070,
+      "display": "约1021—约1070"
+    },
+    "civilization": "jewish",
+    "traditions": [
+      "jewish_neoplatonism",
+      "jewish_philosophy"
+    ],
+    "periods": [
+      "seed_w8"
+    ],
+    "themes": [
+      "metaphysics",
+      "ethics"
+    ],
+    "keywordsZh": [
+      "生命之源",
+      "阿维斯布朗",
+      "普遍质料"
+    ],
+    "oneLineZh": "以《生命之源》提出新柏拉图主义形而上学，在拉丁经院传统中以 Avicebron 著称。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "bahya-ibn-paquda",
+    "tier": "seed",
+    "names": {
+      "zh": "巴希亚·伊本·帕库达",
+      "en": "Bahya ibn Paquda",
+      "native": "בחיי אבן פקודה"
+    },
+    "life": {
+      "birth": 1040,
+      "death": 1120,
+      "display": "约11世纪"
+    },
+    "civilization": "jewish",
+    "traditions": [
+      "jewish_ethics",
+      "jewish_philosophy"
+    ],
+    "periods": [
+      "seed_w8"
+    ],
+    "themes": [
+      "ethics",
+      "religion"
+    ],
+    "keywordsZh": [
+      "心之义务",
+      "内在虔敬",
+      "犹太伦理"
+    ],
+    "oneLineZh": "《心之义务》作者，把内在虔敬、伦理修养与犹太律法生活结合起来。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "judah-halevi",
+    "tier": "seed",
+    "names": {
+      "zh": "犹大·哈列维",
+      "en": "Judah Halevi",
+      "native": "יהודה הלוי"
+    },
+    "life": {
+      "birth": 1075,
+      "death": 1141,
+      "display": "约1075—1141"
+    },
+    "civilization": "jewish",
+    "traditions": [
+      "jewish_philosophy",
+      "andalusian_judaism"
+    ],
+    "periods": [
+      "seed_w8"
+    ],
+    "themes": [
+      "religion",
+      "knowledge"
+    ],
+    "keywordsZh": [
+      "库萨里",
+      "启示护教",
+      "反哲学"
+    ],
+    "oneLineZh": "《库萨里》作者，以对话体为犹太启示与历史共同体辩护。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "abraham-ibn-daud",
+    "tier": "seed",
+    "names": {
+      "zh": "亚伯拉罕·伊本·达乌德",
+      "en": "Abraham Ibn Daud",
+      "native": "אברהם אבן דאוד"
+    },
+    "life": {
+      "birth": 1110,
+      "death": 1180,
+      "display": "约1110—约1180"
+    },
+    "civilization": "jewish",
+    "traditions": [
+      "jewish_aristotelianism",
+      "jewish_philosophy"
+    ],
+    "periods": [
+      "seed_w8"
+    ],
+    "themes": [
+      "metaphysics",
+      "knowledge"
+    ],
+    "keywordsZh": [
+      "崇高信仰",
+      "犹太亚里士多德主义",
+      "理性与传统"
+    ],
+    "oneLineZh": "《崇高信仰》作者，是迈蒙尼德之前犹太亚里士多德主义的重要节点。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "gersonides",
+    "tier": "seed",
+    "names": {
+      "zh": "革尔松尼德",
+      "en": "Gersonides",
+      "native": "לוי בן גרשום"
+    },
+    "life": {
+      "birth": 1288,
+      "death": 1344,
+      "display": "1288—1344"
+    },
+    "civilization": "jewish",
+    "traditions": [
+      "jewish_aristotelianism",
+      "jewish_philosophy"
+    ],
+    "periods": [
+      "seed_w8"
+    ],
+    "themes": [
+      "metaphysics",
+      "knowledge"
+    ],
+    "keywordsZh": [
+      "主的战争",
+      "亚里士多德主义",
+      "阿威罗伊传统"
+    ],
+    "oneLineZh": "《主的战争》作者，将亚里士多德—阿威罗伊传统推进到犹太哲学内部。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "hasdai-crescas",
+    "tier": "seed",
+    "names": {
+      "zh": "哈斯代·克雷斯卡斯",
+      "en": "Hasdai Crescas",
+      "native": "חסדאי קרשקש"
+    },
+    "life": {
+      "birth": 1340,
+      "death": 1410,
+      "display": "约1340—1410/1411"
+    },
+    "civilization": "jewish",
+    "traditions": [
+      "jewish_philosophy",
+      "anti_aristotelianism"
+    ],
+    "periods": [
+      "seed_w8"
+    ],
+    "themes": [
+      "metaphysics",
+      "religion"
+    ],
+    "keywordsZh": [
+      "主之光",
+      "反亚里士多德主义",
+      "斯宾诺莎前史"
+    ],
+    "oneLineZh": "《主之光》作者，系统批判中世纪亚里士多德主义并重估神爱与无限性。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "joseph-albo",
+    "tier": "seed",
+    "names": {
+      "zh": "约瑟·阿尔博",
+      "en": "Joseph Albo",
+      "native": "יוסף אלבו"
+    },
+    "life": {
+      "birth": 1380,
+      "death": 1444,
+      "display": "约1380—1444"
+    },
+    "civilization": "jewish",
+    "traditions": [
+      "jewish_philosophy",
+      "jewish_theology"
+    ],
+    "periods": [
+      "seed_w8"
+    ],
+    "themes": [
+      "religion",
+      "knowledge"
+    ],
+    "keywordsZh": [
+      "信条书",
+      "犹太教义原理",
+      "信仰原则"
+    ],
+    "oneLineZh": "《信条书》作者，重整犹太教义原则与信仰分类。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "nachmanides",
+    "tier": "seed",
+    "names": {
+      "zh": "纳赫曼尼德",
+      "en": "Nachmanides",
+      "native": "משה בן נחמן"
+    },
+    "life": {
+      "birth": 1194,
+      "death": 1270,
+      "display": "1194—1270"
+    },
+    "civilization": "jewish",
+    "traditions": [
+      "jewish_philosophy",
+      "kabbalah",
+      "rabbinic_judaism"
+    ],
+    "periods": [
+      "seed_w8"
+    ],
+    "themes": [
+      "religion",
+      "metaphysics"
+    ],
+    "keywordsZh": [
+      "拉姆班",
+      "迈蒙尼德之争",
+      "早期卡巴拉"
+    ],
+    "oneLineZh": "拉姆班以释经、哈拉卡与早期卡巴拉参与迈蒙尼德之争。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "moses-de-leon",
+    "tier": "seed",
+    "names": {
+      "zh": "摩西·德·莱昂",
+      "en": "Moses de León",
+      "native": "משה די ליאון"
+    },
+    "life": {
+      "birth": 1240,
+      "death": 1305,
+      "display": "约1240—1305"
+    },
+    "civilization": "jewish",
+    "traditions": [
+      "kabbalah",
+      "jewish_mysticism"
+    ],
+    "periods": [
+      "seed_w8"
+    ],
+    "themes": [
+      "religion",
+      "language"
+    ],
+    "keywordsZh": [
+      "光辉之书",
+      "佐哈尔",
+      "中世纪卡巴拉"
+    ],
+    "oneLineZh": "《光辉之书》传播与作者问题的核心人物，是中世纪卡巴拉谱系关键节点。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "abraham-abulafia",
+    "tier": "seed",
+    "names": {
+      "zh": "亚伯拉罕·阿布拉菲亚",
+      "en": "Abraham Abulafia",
+      "native": "אברהם אבולעפיה"
+    },
+    "life": {
+      "birth": 1240,
+      "death": 1291,
+      "display": "1240—约1291"
+    },
+    "civilization": "jewish",
+    "traditions": [
+      "prophetic_kabbalah",
+      "jewish_mysticism"
+    ],
+    "periods": [
+      "seed_w8"
+    ],
+    "themes": [
+      "religion",
+      "language"
+    ],
+    "keywordsZh": [
+      "先知卡巴拉",
+      "字母冥想",
+      "迷狂神秘主义"
+    ],
+    "oneLineZh": "先知/迷狂卡巴拉代表，以字母组合、神名默想和预言经验理论著称。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "isaac-luria",
+    "tier": "seed",
+    "names": {
+      "zh": "以撒·卢里亚",
+      "en": "Isaac Luria",
+      "native": "יצחק לוריא"
+    },
+    "life": {
+      "birth": 1534,
+      "death": 1572,
+      "display": "1534—1572"
+    },
+    "civilization": "jewish",
+    "traditions": [
+      "lurianic_kabbalah",
+      "jewish_mysticism"
+    ],
+    "periods": [
+      "seed_w8"
+    ],
+    "themes": [
+      "religion",
+      "metaphysics"
+    ],
+    "keywordsZh": [
+      "收缩",
+      "破碎",
+      "修复"
+    ],
+    "oneLineZh": "卢里亚卡巴拉核心人物，以收缩、器皿破碎和修复理论重塑近世犹太神秘主义。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "baal-shem-tov",
+    "tier": "seed",
+    "names": {
+      "zh": "巴尔·谢姆·托夫",
+      "en": "Baal Shem Tov",
+      "native": "ישראל בן אליעזר"
+    },
+    "life": {
+      "birth": 1698,
+      "death": 1760,
+      "display": "约1698—1760"
+    },
+    "civilization": "jewish",
+    "traditions": [
+      "hasidism",
+      "jewish_mysticism"
+    ],
+    "periods": [
+      "seed_w8"
+    ],
+    "themes": [
+      "religion",
+      "life_death"
+    ],
+    "keywordsZh": [
+      "哈西德派",
+      "灵性喜乐",
+      "神圣临在"
+    ],
+    "oneLineZh": "哈西德派创始人物，以灵性喜乐、虔敬生活和神圣临在感影响东欧犹太教。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "schneur-zalman",
+    "tier": "seed",
+    "names": {
+      "zh": "什内乌尔·扎尔曼",
+      "en": "Shneur Zalman of Liadi",
+      "native": "שניאור זלמן מלאדי"
+    },
+    "life": {
+      "birth": 1745,
+      "death": 1812,
+      "display": "1745—1812"
+    },
+    "civilization": "jewish",
+    "traditions": [
+      "chabad",
+      "hasidism",
+      "jewish_philosophy"
+    ],
+    "periods": [
+      "seed_w8"
+    ],
+    "themes": [
+      "religion",
+      "knowledge"
+    ],
+    "keywordsZh": [
+      "哈巴德",
+      "坦尼亚",
+      "智性哈西德"
+    ],
+    "oneLineZh": "哈巴德创始人，《坦尼亚》作者，将哈西德灵修组织为智性化神学体系。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "moses-mendelssohn",
+    "tier": "seed",
+    "names": {
+      "zh": "摩西·门德尔松",
+      "en": "Moses Mendelssohn",
+      "native": "משה מנדלסון"
+    },
+    "life": {
+      "birth": 1729,
+      "death": 1786,
+      "display": "1729—1786"
+    },
+    "civilization": "european_modern",
+    "traditions": [
+      "haskalah",
+      "jewish_philosophy",
+      "enlightenment"
+    ],
+    "periods": [
+      "seed_w8"
+    ],
+    "themes": [
+      "religion",
+      "politics"
+    ],
+    "keywordsZh": [
+      "哈斯卡拉",
+      "耶路撒冷",
+      "宗教宽容"
+    ],
+    "oneLineZh": "犹太启蒙关键人物，以《耶路撒冷》讨论宗教权力、宽容与犹太公民身份。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "gershom-scholem",
+    "tier": "seed",
+    "names": {
+      "zh": "格肖姆·肖勒姆",
+      "en": "Gershom Scholem",
+      "native": "גרשם שלום"
+    },
+    "life": {
+      "birth": 1897,
+      "death": 1982,
+      "display": "1897—1982"
+    },
+    "civilization": "jewish",
+    "traditions": [
+      "jewish_mysticism_studies",
+      "jewish_philosophy"
+    ],
+    "periods": [
+      "seed_w8"
+    ],
+    "themes": [
+      "religion",
+      "language"
+    ],
+    "keywordsZh": [
+      "卡巴拉研究",
+      "犹太神秘主义",
+      "本雅明"
+    ],
+    "oneLineZh": "现代卡巴拉研究奠基者，以历史—文献方法重塑犹太神秘主义研究。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "abraham-joshua-heschel",
+    "tier": "seed",
+    "names": {
+      "zh": "亚伯拉罕·约书亚·赫舍尔",
+      "en": "Abraham Joshua Heschel",
+      "native": "אברהם יהושע השל"
+    },
+    "life": {
+      "birth": 1907,
+      "death": 1972,
+      "display": "1907—1972"
+    },
+    "civilization": "jewish",
+    "traditions": [
+      "jewish_theology",
+      "hasidism",
+      "american_jewish_thought"
+    ],
+    "periods": [
+      "seed_w8"
+    ],
+    "themes": [
+      "religion",
+      "ethics"
+    ],
+    "keywordsZh": [
+      "敬畏",
+      "先知精神",
+      "安息日"
+    ],
+    "oneLineZh": "20世纪犹太神学家，以敬畏、先知伦理与宗教经验论连接灵修和公共正义。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "joseph-soloveitchik",
+    "tier": "seed",
+    "names": {
+      "zh": "约瑟夫·索洛维奇克",
+      "en": "Joseph B. Soloveitchik",
+      "native": "יוסף דוב הלוי סולובייצ׳יק"
+    },
+    "life": {
+      "birth": 1903,
+      "death": 1993,
+      "display": "1903—1993"
+    },
+    "civilization": "jewish",
+    "traditions": [
+      "modern_orthodox_judaism",
+      "jewish_philosophy"
+    ],
+    "periods": [
+      "seed_w8"
+    ],
+    "themes": [
+      "religion",
+      "freedom"
+    ],
+    "keywordsZh": [
+      "哈拉哈人",
+      "孤独的信仰人",
+      "现代正统派"
+    ],
+    "oneLineZh": "现代正统犹太思想代表，以哈拉哈主体、创造性人格和信仰孤独构造宗教哲学。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "mordecai-kaplan",
+    "tier": "seed",
+    "names": {
+      "zh": "莫迪凯·卡普兰",
+      "en": "Mordecai M. Kaplan",
+      "native": "מרדכי קפלן"
+    },
+    "life": {
+      "birth": 1881,
+      "death": 1983,
+      "display": "1881—1983"
+    },
+    "civilization": "jewish",
+    "traditions": [
+      "reconstructionist_judaism",
+      "american_jewish_thought"
+    ],
+    "periods": [
+      "seed_w8"
+    ],
+    "themes": [
+      "religion",
+      "politics"
+    ],
+    "keywordsZh": [
+      "重建主义",
+      "犹太文明",
+      "宗教自然主义"
+    ],
+    "oneLineZh": "重建主义犹太教奠基者，将犹太教解释为演化中的宗教文明。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "yeshayahu-leibowitz",
+    "tier": "seed",
+    "names": {
+      "zh": "耶沙亚胡·莱博维茨",
+      "en": "Yeshayahu Leibowitz",
+      "native": "ישעיהו ליבוביץ"
+    },
+    "life": {
+      "birth": 1903,
+      "death": 1994,
+      "display": "1903—1994"
+    },
+    "civilization": "jewish",
+    "traditions": [
+      "jewish_philosophy",
+      "israeli_thought"
+    ],
+    "periods": [
+      "seed_w8"
+    ],
+    "themes": [
+      "religion",
+      "ethics"
+    ],
+    "keywordsZh": [
+      "诫命中心论",
+      "迈蒙尼德诠释",
+      "以色列公共思想"
+    ],
+    "oneLineZh": "以色列犹太思想家，强调信仰即服从诫命，并以尖锐公共批评著称。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
   }
 ]

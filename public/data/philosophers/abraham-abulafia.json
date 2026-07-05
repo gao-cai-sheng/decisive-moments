@@ -1,0 +1,46 @@
+{
+  "id": "abraham-abulafia",
+  "tier": "seed",
+  "names": {
+    "zh": "亚伯拉罕·阿布拉菲亚",
+    "en": "Abraham Abulafia",
+    "native": "אברהם אבולעפיה"
+  },
+  "life": {
+    "birth": 1240,
+    "death": 1291,
+    "display": "1240—约1291"
+  },
+  "civilization": "jewish",
+  "traditions": [
+    "prophetic_kabbalah",
+    "jewish_mysticism"
+  ],
+  "periods": [
+    "seed_w8"
+  ],
+  "themes": [
+    "religion",
+    "language"
+  ],
+  "keywordsZh": [
+    "先知卡巴拉",
+    "字母冥想",
+    "迷狂神秘主义"
+  ],
+  "oneLineZh": "先知/迷狂卡巴拉代表，以字母组合、神名默想和预言经验理论著称。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "亚伯拉罕·阿布拉菲亚（1240—约1291）是 Seed W8 犹太文明补线候选。其身份层定位为：先知卡巴拉和迷狂神秘主义代表，围绕希伯来字母、神名组合、呼吸与默想方法发展独特的预言经验理论。本条仅作 seed 档基本定位，后续若升级标准档，必须重新做著作、论点与 evidence 研究。",
+  "works": [
+    "abraham-abulafia-sefer-ha-ot",
+    "abraham-abulafia-hayyei-ha-olam-ha-ba"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S003",
+      "url": "https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/abulafia-abraham-ben-samuel",
+      "noteZh": "来源：Encyclopaedia Judaica / Abraham Abulafia；用于核验人物身份、1240—约1291断代、先知卡巴拉与代表文本。"
+    }
+  ]
+}

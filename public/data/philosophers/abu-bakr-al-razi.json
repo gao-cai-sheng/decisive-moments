@@ -1,0 +1,48 @@
+{
+  "id": "abu-bakr-al-razi",
+  "tier": "seed",
+  "names": {
+    "zh": "阿布·伯克尔·拉齐",
+    "en": "Abū Bakr Muḥammad ibn Zakariyyāʾ al-Rāzī",
+    "native": "أبو بكر محمد بن زكريا الرازي"
+  },
+  "life": {
+    "birth": 854,
+    "death": 925,
+    "display": "854—925"
+  },
+  "civilization": "islamic",
+  "traditions": [
+    "falsafa",
+    "medicine",
+    "free_thought"
+  ],
+  "periods": [
+    "medieval"
+  ],
+  "themes": [
+    "knowledge",
+    "metaphysics",
+    "religion"
+  ],
+  "keywordsZh": [
+    "医师哲学家",
+    "理性自然主义",
+    "批先知论"
+  ],
+  "oneLineZh": "医师—哲学家和自由思想家，以理性自然主义、医学百科和对宗教权威的激进批判著称。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "阿布·伯克尔·拉齐（854—925）是 Seed W7 伊斯兰文明 falsafa 补线候选。其身份层入选理由为：医师—哲学家和自由思想家，以理性自然主义、医学百科和对宗教权威的激进批判著称。本条仅作 seed 档基本定位，并明确区别于 b1 的教义学家 `fakhr-al-din-al-razi`。后续若升级标准档，必须重新做著作、论点与 evidence 研究。",
+  "works": [
+    "abu-bakr-al-razi-spiritual-medicine",
+    "abu-bakr-al-razi-doubts-about-galen"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S001",
+      "url": "https://www.iranicaonline.org/articles/razi-abu-bakr-mohammad-zakariya",
+      "noteZh": "来源：Encyclopaedia Iranica / ABŪ BAKR RĀZĪ；用于核验人物身份、生卒断代、医师—哲学家定位和代表著作；本条不是 `fakhr-al-din-al-razi`。"
+    }
+  ]
+}

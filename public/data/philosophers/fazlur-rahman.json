@@ -1,0 +1,48 @@
+{
+  "id": "fazlur-rahman",
+  "tier": "seed",
+  "names": {
+    "zh": "法兹鲁尔·拉赫曼",
+    "en": "Fazlur Rahman",
+    "native": "فضل الرحمان"
+  },
+  "life": {
+    "birth": 1919,
+    "death": 1988,
+    "display": "1919—1988"
+  },
+  "civilization": "islamic",
+  "traditions": [
+    "neo-modernism",
+    "quranic_hermeneutics",
+    "islamic_reform"
+  ],
+  "periods": [
+    "modern"
+  ],
+  "themes": [
+    "religion",
+    "knowledge",
+    "ethics"
+  ],
+  "keywordsZh": [
+    "新现代主义",
+    "双重运动诠释学",
+    "古兰经伦理"
+  ],
+  "oneLineZh": "新现代主义伊斯兰思想家，以“双重运动”诠释学和古兰经伦理重构现代改革方法。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "法兹鲁尔·拉赫曼（1919—1988）是 Seed W7 伊斯兰文明晚期与近现代补线候选。其身份层入选理由为：新现代主义伊斯兰思想家，以“双重运动”诠释学和古兰经伦理重构现代改革方法。本条仅作 seed 档基本定位，后续若升级标准档，必须重新做著作、论点与 evidence 研究。",
+  "works": [
+    "fazlur-rahman-islam-and-modernity",
+    "fazlur-rahman-major-themes-quran"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S006",
+      "url": "https://www.oxfordreference.com/display/10.1093/oi/authority.20110803100334179",
+      "noteZh": "来源：Oxford Reference / Fazlur Rahman；用于核验人物身份、生卒断代、新现代主义诠释学和代表著作。"
+    }
+  ]
+}

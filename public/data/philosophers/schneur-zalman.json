@@ -1,0 +1,47 @@
+{
+  "id": "schneur-zalman",
+  "tier": "seed",
+  "names": {
+    "zh": "什内乌尔·扎尔曼",
+    "en": "Shneur Zalman of Liadi",
+    "native": "שניאור זלמן מלאדי"
+  },
+  "life": {
+    "birth": 1745,
+    "death": 1812,
+    "display": "1745—1812"
+  },
+  "civilization": "jewish",
+  "traditions": [
+    "chabad",
+    "hasidism",
+    "jewish_philosophy"
+  ],
+  "periods": [
+    "seed_w8"
+  ],
+  "themes": [
+    "religion",
+    "knowledge"
+  ],
+  "keywordsZh": [
+    "哈巴德",
+    "坦尼亚",
+    "智性哈西德"
+  ],
+  "oneLineZh": "哈巴德创始人，《坦尼亚》作者，将哈西德灵修组织为智性化神学体系。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "什内乌尔·扎尔曼（1745—1812）是 Seed W8 犹太文明补线候选。其身份层定位为：哈巴德—卢巴维奇传统奠基者，《坦尼亚》把哈西德灵修、神性观和心理伦理训练组织为智性化体系，同时也是哈西德法典传统的重要作者。本条仅作 seed 档基本定位，后续若升级标准档，必须重新做著作、论点与 evidence 研究。",
+  "works": [
+    "schneur-zalman-tanya",
+    "schneur-zalman-shulchan-aruch-harav"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S006",
+      "url": "https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/shneur-zalman-liadi",
+      "noteZh": "来源：Encyclopaedia Judaica / Shneur Zalman of Liadi；用于核验人物身份、1745—1812断代、《坦尼亚》、哈巴德与哈西德法典定位。"
+    }
+  ]
+}

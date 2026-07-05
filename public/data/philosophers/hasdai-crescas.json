@@ -1,0 +1,45 @@
+{
+  "id": "hasdai-crescas",
+  "tier": "seed",
+  "names": {
+    "zh": "哈斯代·克雷斯卡斯",
+    "en": "Hasdai Crescas",
+    "native": "חסדאי קרשקש"
+  },
+  "life": {
+    "birth": 1340,
+    "death": 1410,
+    "display": "约1340—1410/1411"
+  },
+  "civilization": "jewish",
+  "traditions": [
+    "jewish_philosophy",
+    "anti_aristotelianism"
+  ],
+  "periods": [
+    "seed_w8"
+  ],
+  "themes": [
+    "metaphysics",
+    "religion"
+  ],
+  "keywordsZh": [
+    "主之光",
+    "反亚里士多德主义",
+    "斯宾诺莎前史"
+  ],
+  "oneLineZh": "《主之光》作者，系统批判中世纪亚里士多德主义并重估神爱与无限性。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "哈斯代·克雷斯卡斯（约1340—1410/1411）是 Seed W8 犹太文明补线候选。其身份层定位为：晚期中世纪犹太哲学家，《主之光》批判亚里士多德主义与迈蒙尼德传统中的若干前提，并在神爱、无限性和决定论问题上影响后续犹太与近代哲学讨论。本条仅作 seed 档基本定位，后续若升级标准档，必须重新做著作、论点与 evidence 研究。",
+  "works": [
+    "hasdai-crescas-light-of-the-lord"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S008",
+      "url": "https://plato.stanford.edu/entries/crescas/",
+      "noteZh": "来源：SEP / Hasdai Crescas；用于核验人物身份、断代、《主之光》、反亚里士多德主义与后续影响。"
+    }
+  ]
+}

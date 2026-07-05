@@ -11354,5 +11354,1163 @@
     ],
     "noteZh": "第十四世达赖喇嘛伦理和佛教实践论挂接佛陀标准档。",
     "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w7-b1-001-wasil-ibn-ata-maimonides-shared_problem",
+    "from": "wasil-ibn-ata",
+    "to": "maimonides",
+    "type": "shared_problem",
+    "strength": 1,
+    "confidence": "low",
+    "themeIds": [
+      "religion",
+      "knowledge"
+    ],
+    "noteZh": "瓦绥勒的早期理性神学与迈蒙尼德的理性化神学共同挂接启示、理性和神学论证的问题域；仅作 seed 低置信身份层连接。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w7-b1-002-al-ashari-wasil-ibn-ata-critique",
+    "from": "al-ashari",
+    "to": "wasil-ibn-ata",
+    "type": "critique",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "religion",
+      "freedom"
+    ],
+    "noteZh": "艾什尔里派形成于反穆尔太齐赖论战语境，瓦绥勒作为穆尔太齐赖派奠基者构成其批判背景。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w7-b1-003-al-ghazali-al-ashari-reception",
+    "from": "al-ghazali",
+    "to": "al-ashari",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "religion",
+      "knowledge"
+    ],
+    "noteZh": "安萨里承接并发展艾什尔里派教义学传统，是 `al-ashari` 与现库标准档的主要挂接。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w7-b1-004-al-maturidi-al-ashari-shared_problem",
+    "from": "al-maturidi",
+    "to": "al-ashari",
+    "type": "shared_problem",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "religion",
+      "knowledge"
+    ],
+    "noteZh": "马图里迪派与艾什尔里派同为逊尼 kalam 主线，围绕理性、启示、神性属性与人类责任形成平行问题域。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w7-b1-005-al-maturidi-al-ghazali-shared_problem",
+    "from": "al-maturidi",
+    "to": "al-ghazali",
+    "type": "shared_problem",
+    "strength": 1,
+    "confidence": "medium",
+    "themeIds": [
+      "religion",
+      "freedom"
+    ],
+    "noteZh": "马图里迪的理性认识与人类责任议题，与安萨里所在逊尼神学传统共享理性—启示协调问题。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w7-b1-006-al-baqillani-al-juwayni-influence",
+    "from": "al-baqillani",
+    "to": "al-juwayni",
+    "type": "influence",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "religion",
+      "metaphysics"
+    ],
+    "noteZh": "巴基拉尼的艾什尔里派系统化工作构成朱韦尼之前教义学证明结构的重要背景。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w7-b1-007-al-baqillani-al-ghazali-shared_problem",
+    "from": "al-baqillani",
+    "to": "al-ghazali",
+    "type": "shared_problem",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "religion",
+      "metaphysics"
+    ],
+    "noteZh": "巴基拉尼与安萨里同处艾什尔里派神学谱系，围绕偶因论、神性属性和理性论证共享问题域。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w7-b1-008-al-juwayni-al-ghazali-direct_student",
+    "from": "al-juwayni",
+    "to": "al-ghazali",
+    "type": "direct_student",
+    "strength": 3,
+    "confidence": "high",
+    "themeIds": [
+      "religion",
+      "knowledge"
+    ],
+    "noteZh": "朱韦尼是安萨里的老师，此关系将 `al-juwayni` 直接挂接现库标准档 `al-ghazali`。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w7-b1-009-fakhr-al-din-al-razi-ibn-sina-critique",
+    "from": "fakhr-al-din-al-razi",
+    "to": "ibn-sina",
+    "type": "critique",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "metaphysics",
+      "knowledge"
+    ],
+    "noteZh": "法赫尔丁·拉齐在后伊本·西那语境中吸收并批判伊本·西那形而上学，是后期哲学神学的核心连接。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w7-b1-010-fakhr-al-din-al-razi-al-ghazali-reception",
+    "from": "fakhr-al-din-al-razi",
+    "to": "al-ghazali",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "religion",
+      "metaphysics"
+    ],
+    "noteZh": "法赫尔丁·拉齐承接安萨里之后的艾什尔里—哲学论战语境，并进一步推进哲学化 kalam。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w7-b2-001-abu-bakr-al-razi-al-kindi-shared_problem",
+    "from": "abu-bakr-al-razi",
+    "to": "al-kindi",
+    "type": "shared_problem",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "knowledge",
+      "metaphysics"
+    ],
+    "noteZh": "阿布·伯克尔·拉齐与肯迪共同处于早期阿拉伯哲学和理性自然研究的问题域。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w7-b2-002-abu-bakr-al-razi-plato-reception",
+    "from": "abu-bakr-al-razi",
+    "to": "plato",
+    "type": "reception",
+    "strength": 1,
+    "confidence": "medium",
+    "themeIds": [
+      "metaphysics"
+    ],
+    "noteZh": "阿布·伯克尔·拉齐的灵魂论和宇宙论常被置于柏拉图式传统背景中理解。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w7-b2-003-miskawayh-al-farabi-shared_problem",
+    "from": "miskawayh",
+    "to": "al-farabi",
+    "type": "shared_problem",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "ethics",
+      "politics"
+    ],
+    "noteZh": "米斯凯韦与法拉比共享德性、灵魂完善和城邦秩序的问题域。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w7-b2-004-miskawayh-aristotle-reception",
+    "from": "miskawayh",
+    "to": "aristotle",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "ethics"
+    ],
+    "noteZh": "米斯凯韦的德性伦理学吸收亚里士多德式灵魂与品格修养框架。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w7-b2-005-ibn-bajja-al-farabi-reception",
+    "from": "ibn-bajja",
+    "to": "al-farabi",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "knowledge",
+      "politics"
+    ],
+    "noteZh": "伊本·巴哲承接法拉比关于理智完善和政治共同体的哲学问题。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w7-b2-006-ibn-rushd-ibn-bajja-reception",
+    "from": "ibn-rushd",
+    "to": "ibn-bajja",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "knowledge"
+    ],
+    "noteZh": "伊本·鲁世德之后的安达卢斯哲学讨论继承并回应伊本·巴哲的理智论问题。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w7-b2-007-ibn-tufayl-ibn-sina-reception",
+    "from": "ibn-tufayl",
+    "to": "ibn-sina",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "knowledge",
+      "metaphysics"
+    ],
+    "noteZh": "《哈义·本·叶格赞》承接伊本·西那式自然理性、灵魂和形而上学上升问题。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w7-b2-008-ibn-rushd-ibn-tufayl-direct_student",
+    "from": "ibn-tufayl",
+    "to": "ibn-rushd",
+    "type": "influence",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "knowledge"
+    ],
+    "noteZh": "伊本·图斐利与伊本·鲁世德同处安达卢斯宫廷哲学圈，传统叙述中伊本·图斐利推动伊本·鲁世德展开亚里士多德注释事业。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w7-b2-009-ibn-hazm-aristotle-critique",
+    "from": "ibn-hazm",
+    "to": "aristotle",
+    "type": "critique",
+    "strength": 1,
+    "confidence": "medium",
+    "themeIds": [
+      "language",
+      "knowledge"
+    ],
+    "noteZh": "伊本·哈兹姆在法学和逻辑论辩中吸收并限制亚里士多德逻辑的使用范围。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w7-b2-010-ibn-hazm-ibn-rushd-shared_problem",
+    "from": "ibn-hazm",
+    "to": "ibn-rushd",
+    "type": "shared_problem",
+    "strength": 1,
+    "confidence": "medium",
+    "themeIds": [
+      "religion",
+      "knowledge"
+    ],
+    "noteZh": "伊本·哈兹姆与伊本·鲁世德同属安达卢斯思想史，围绕文本解释、法学论证和理性方法共享问题域。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w7-b2-011-nasir-al-din-tusi-ibn-sina-reception",
+    "from": "nasir-al-din-tusi",
+    "to": "ibn-sina",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "metaphysics",
+      "knowledge"
+    ],
+    "noteZh": "纳绥尔丁·图西是后伊本·西那哲学传统的重要整理者和辩护者。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w7-b2-012-nasir-al-din-tusi-aristotle-reception",
+    "from": "nasir-al-din-tusi",
+    "to": "aristotle",
+    "type": "reception",
+    "strength": 1,
+    "confidence": "medium",
+    "themeIds": [
+      "ethics",
+      "knowledge"
+    ],
+    "noteZh": "纳绥尔丁·图西的伦理学与哲学体系间接承接亚里士多德—伊斯兰哲学传统。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w7-b3-001-rabia-al-adawiyya-al-ghazali-shared_problem",
+    "from": "rabia-al-adawiyya",
+    "to": "al-ghazali",
+    "type": "shared_problem",
+    "strength": 1,
+    "confidence": "medium",
+    "themeIds": [
+      "religion",
+      "ethics"
+    ],
+    "noteZh": "拉比雅的纯粹神爱传统与安萨里关于意向、灵魂净化和敬拜目的的问题域相连。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w7-b3-002-rabia-al-adawiyya-al-junayd-influence",
+    "from": "rabia-al-adawiyya",
+    "to": "al-junayd",
+    "type": "influence",
+    "strength": 1,
+    "confidence": "low",
+    "themeIds": [
+      "religion",
+      "life_death"
+    ],
+    "noteZh": "拉比雅代表的早期禁欲与神爱传统构成朱奈德之前苏非灵修谱系的背景；仅作 seed 低置信连接。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w7-b3-003-al-ghazali-al-junayd-reception",
+    "from": "al-ghazali",
+    "to": "al-junayd",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "religion",
+      "knowledge"
+    ],
+    "noteZh": "安萨里的苏非综合继承并规范化朱奈德式清醒苏非传统。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w7-b3-004-al-junayd-al-hallaj-influence",
+    "from": "al-junayd",
+    "to": "al-hallaj",
+    "type": "influence",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "religion",
+      "freedom"
+    ],
+    "noteZh": "哈拉智通常被置于朱奈德之后的巴格达苏非语境中，两者构成清醒表达与醉态表达的经典对照。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w7-b3-005-ibn-arabi-al-hallaj-reception",
+    "from": "ibn-arabi",
+    "to": "al-hallaj",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "religion",
+      "metaphysics"
+    ],
+    "noteZh": "伊本·阿拉比之后的存在论苏非传统持续解释哈拉智的神秘言说和合一问题。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w7-b3-006-rumi-ibn-arabi-shared_problem",
+    "from": "rumi",
+    "to": "ibn-arabi",
+    "type": "shared_problem",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "religion",
+      "metaphysics"
+    ],
+    "noteZh": "鲁米与伊本·阿拉比共同处于爱、合一、存在与灵魂归返的苏非问题域。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w7-b3-007-rumi-al-ghazali-reception",
+    "from": "rumi",
+    "to": "al-ghazali",
+    "type": "reception",
+    "strength": 1,
+    "confidence": "medium",
+    "themeIds": [
+      "religion",
+      "ethics"
+    ],
+    "noteZh": "鲁米的苏非诗学承接安萨里之后将神学、伦理和灵性修行整合的伊斯兰语境。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w7-b3-008-nasir-khusraw-ibn-sina-reception",
+    "from": "nasir-khusraw",
+    "to": "ibn-sina",
+    "type": "reception",
+    "strength": 1,
+    "confidence": "medium",
+    "themeIds": [
+      "metaphysics",
+      "knowledge"
+    ],
+    "noteZh": "纳西尔·霍斯鲁的伊斯玛仪派宇宙论和灵魂论可与伊本·西那式哲学问题相接。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w7-b3-009-nasir-khusraw-al-farabi-reception",
+    "from": "nasir-khusraw",
+    "to": "al-farabi",
+    "type": "reception",
+    "strength": 1,
+    "confidence": "medium",
+    "themeIds": [
+      "religion",
+      "politics"
+    ],
+    "noteZh": "纳西尔·霍斯鲁的哲学化宗教解释与法拉比以来的启示、理性和共同体秩序问题相接。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w7-b4-001-ibn-taymiyya-ibn-arabi-critique",
+    "from": "ibn-taymiyya",
+    "to": "ibn-arabi",
+    "type": "critique",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "religion",
+      "metaphysics"
+    ],
+    "noteZh": "伊本·泰米叶对苏非一元论和伊本·阿拉比传统构成重要批判节点。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w7-b4-002-ibn-taymiyya-ibn-rushd-critique",
+    "from": "ibn-taymiyya",
+    "to": "ibn-rushd",
+    "type": "critique",
+    "strength": 1,
+    "confidence": "medium",
+    "themeIds": [
+      "religion",
+      "knowledge"
+    ],
+    "noteZh": "伊本·泰米叶的反哲学与理性—传述论辩可与伊本·鲁世德式哲学理性辩护构成对照。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w7-b4-003-mir-damad-mulla-sadra-direct_student",
+    "from": "mir-damad",
+    "to": "mulla-sadra",
+    "type": "direct_student",
+    "strength": 3,
+    "confidence": "high",
+    "themeIds": [
+      "metaphysics",
+      "religion"
+    ],
+    "noteZh": "米尔·达马德是萨德拉之师，直接连接伊斯法罕学派与现库标准档 `mulla-sadra`。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w7-b4-004-mir-damad-ibn-sina-reception",
+    "from": "mir-damad",
+    "to": "ibn-sina",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "metaphysics",
+      "knowledge"
+    ],
+    "noteZh": "米尔·达马德的时间与创生论处于后伊本·西那哲学传统内部。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w7-b4-005-tabatabai-mulla-sadra-reception",
+    "from": "tabatabai",
+    "to": "mulla-sadra",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "metaphysics",
+      "knowledge"
+    ],
+    "noteZh": "塔巴塔巴伊承接萨德拉之后的什叶哲学传统，并在现代语境中重述存在论与认识论问题。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w7-b4-006-tabatabai-suhrawardi-reception",
+    "from": "tabatabai",
+    "to": "suhrawardi",
+    "type": "reception",
+    "strength": 1,
+    "confidence": "medium",
+    "themeIds": [
+      "metaphysics",
+      "religion"
+    ],
+    "noteZh": "塔巴塔巴伊所处伊朗哲学语境延续照明学、萨德拉学派与什叶思想的复合传统。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w7-b4-007-al-afghani-iqbal-influence",
+    "from": "al-afghani",
+    "to": "iqbal",
+    "type": "influence",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "politics",
+      "freedom"
+    ],
+    "noteZh": "阿富汗尼的泛伊斯兰改革和反殖民政治问题影响后来的伊克巴尔式穆斯林主体与复兴思考。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w7-b4-008-al-afghani-muhammad-abduh-influence",
+    "from": "al-afghani",
+    "to": "muhammad-abduh",
+    "type": "influence",
+    "strength": 3,
+    "confidence": "high",
+    "themeIds": [
+      "religion",
+      "politics"
+    ],
+    "noteZh": "阿富汗尼与穆罕默德·阿卜杜有直接师友和合作关系，共同构成伊斯兰现代主义早期核心链条。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w7-b4-009-muhammad-abduh-iqbal-shared_problem",
+    "from": "muhammad-abduh",
+    "to": "iqbal",
+    "type": "shared_problem",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "religion",
+      "knowledge"
+    ],
+    "noteZh": "穆罕默德·阿卜杜与伊克巴尔共享伊斯兰现代性、理性解释和宗教改革的问题域。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w7-b4-010-fazlur-rahman-iqbal-reception",
+    "from": "fazlur-rahman",
+    "to": "iqbal",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "religion",
+      "ethics"
+    ],
+    "noteZh": "法兹鲁尔·拉赫曼承接伊克巴尔之后南亚穆斯林现代主义和宗教思想重构的问题。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w7-b4-011-fazlur-rahman-ibn-sina-shared_problem",
+    "from": "fazlur-rahman",
+    "to": "ibn-sina",
+    "type": "shared_problem",
+    "strength": 1,
+    "confidence": "medium",
+    "themeIds": [
+      "knowledge",
+      "religion"
+    ],
+    "noteZh": "法兹鲁尔·拉赫曼的伊斯兰思想史与启示解释研究持续处理伊本·西那以来哲学理性和宗教知识的张力。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w7-b4-012-seyyed-hossein-nasr-mulla-sadra-reception",
+    "from": "seyyed-hossein-nasr",
+    "to": "mulla-sadra",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "metaphysics",
+      "religion"
+    ],
+    "noteZh": "纳斯尔对伊朗伊斯兰哲学和传统形而上学的阐释大量连接萨德拉传统。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w7-b4-013-seyyed-hossein-nasr-suhrawardi-reception",
+    "from": "seyyed-hossein-nasr",
+    "to": "suhrawardi",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "metaphysics",
+      "knowledge"
+    ],
+    "noteZh": "纳斯尔关于伊斯兰灵性、知识与传统哲学的书写持续吸收照明学问题。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w8-b1-001-philo-plato-reception",
+    "from": "philo-of-alexandria",
+    "to": "plato",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "metaphysics"
+    ],
+    "noteZh": "斐洛用柏拉图主义范畴解释创世、神圣超越与灵魂问题，挂接柏拉图标准档。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w8-b1-002-philo-aristotle-reception",
+    "from": "philo-of-alexandria",
+    "to": "aristotle",
+    "type": "reception",
+    "strength": 1,
+    "confidence": "medium",
+    "themeIds": [
+      "knowledge"
+    ],
+    "noteZh": "斐洛接受并改造希腊哲学论证资源，挂接亚里士多德标准档。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w8-b1-003-philo-plotinus-shared-problem",
+    "from": "philo-of-alexandria",
+    "to": "plotinus",
+    "type": "shared_problem",
+    "strength": 1,
+    "confidence": "low",
+    "themeIds": [
+      "metaphysics"
+    ],
+    "noteZh": "斐洛的神圣超越、逻各斯与流溢式问题同后来的新柏拉图主义构成问题相邻。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w8-b1-004-isaac-israeli-saadia-reception",
+    "from": "isaac-israeli",
+    "to": "saadia-gaon",
+    "type": "shared_problem",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "religion"
+    ],
+    "noteZh": "以撒·以色列利与萨阿迪亚共同构成早期中世纪犹太哲学的理性化谱系。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w8-b1-005-isaac-israeli-plotinus-reception",
+    "from": "isaac-israeli",
+    "to": "plotinus",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "metaphysics"
+    ],
+    "noteZh": "以撒·以色列利的新柏拉图主义形而上学挂接普罗提诺标准档。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w8-b1-006-ibn-gabirol-isaac-israeli-reception",
+    "from": "ibn-gabirol",
+    "to": "isaac-israeli",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "metaphysics"
+    ],
+    "noteZh": "伊本·盖比鲁勒延展早期犹太新柏拉图主义，批内挂接以撒·以色列利。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w8-b1-007-ibn-gabirol-plotinus-reception",
+    "from": "ibn-gabirol",
+    "to": "plotinus",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "metaphysics"
+    ],
+    "noteZh": "《生命之源》的流溢论和普遍质料问题挂接普罗提诺标准档。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w8-b1-008-bahya-saadia-reception",
+    "from": "bahya-ibn-paquda",
+    "to": "saadia-gaon",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "religion"
+    ],
+    "noteZh": "巴希亚延续犹太理性护教与虔敬伦理问题，挂接萨阿迪亚标准档。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w8-b1-009-bahya-ghazali-shared-problem",
+    "from": "bahya-ibn-paquda",
+    "to": "al-ghazali",
+    "type": "shared_problem",
+    "strength": 1,
+    "confidence": "low",
+    "themeIds": [
+      "ethics"
+    ],
+    "noteZh": "《心之义务》的内在虔敬与自我省察可同加扎利的宗教伦理问题并置。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w8-b1-010-judah-halevi-maimonides-shared-problem",
+    "from": "judah-halevi",
+    "to": "maimonides",
+    "type": "shared_problem",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "religion"
+    ],
+    "noteZh": "哈列维与迈蒙尼德围绕启示、理性和犹太传统权威形成对照问题。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w8-b1-011-judah-halevi-ghazali-critique",
+    "from": "judah-halevi",
+    "to": "al-ghazali",
+    "type": "shared_problem",
+    "strength": 1,
+    "confidence": "low",
+    "themeIds": [
+      "knowledge"
+    ],
+    "noteZh": "哈列维对抽象哲学的限制感与加扎利相关问题可构成跨传统对照。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w8-b1-012-abraham-ibn-daud-aristotle-reception",
+    "from": "abraham-ibn-daud",
+    "to": "aristotle",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "metaphysics"
+    ],
+    "noteZh": "伊本·达乌德以亚里士多德主义协调哲学与犹太教义，挂接亚里士多德标准档。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w8-b1-013-abraham-ibn-daud-maimonides-influence",
+    "from": "abraham-ibn-daud",
+    "to": "maimonides",
+    "type": "influence",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "knowledge"
+    ],
+    "noteZh": "伊本·达乌德是迈蒙尼德之前犹太亚里士多德主义的重要前史节点。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w8-b1-014-gersonides-maimonides-reception",
+    "from": "gersonides",
+    "to": "maimonides",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "religion"
+    ],
+    "noteZh": "革尔松尼德在迈蒙尼德之后继续处理神知、预言与理性问题。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w8-b1-015-gersonides-ibn-rushd-reception",
+    "from": "gersonides",
+    "to": "ibn-rushd",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "knowledge"
+    ],
+    "noteZh": "革尔松尼德的亚里士多德主义语境与阿威罗伊传统相连。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w8-b1-016-hasdai-crescas-maimonides-critique",
+    "from": "hasdai-crescas",
+    "to": "maimonides",
+    "type": "critique",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "metaphysics"
+    ],
+    "noteZh": "克雷斯卡斯在《主之光》中批判迈蒙尼德体系中的亚里士多德主义前提。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w8-b1-017-hasdai-crescas-spinoza-influence",
+    "from": "hasdai-crescas",
+    "to": "spinoza",
+    "type": "influence",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "metaphysics"
+    ],
+    "noteZh": "克雷斯卡斯关于无限性、神与决定论的讨论常被置于斯宾诺莎前史。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w8-b1-018-joseph-albo-hasdai-crescas-reception",
+    "from": "joseph-albo",
+    "to": "hasdai-crescas",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "religion"
+    ],
+    "noteZh": "阿尔博在信仰原则问题上继承并重组克雷斯卡斯之后的讨论。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w8-b1-019-joseph-albo-maimonides-reception",
+    "from": "joseph-albo",
+    "to": "maimonides",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "religion"
+    ],
+    "noteZh": "阿尔博的教义原则论以迈蒙尼德十三原则为重要前提和对照。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w8-b2-001-nachmanides-maimonides-critique",
+    "from": "nachmanides",
+    "to": "maimonides",
+    "type": "critique",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "religion"
+    ],
+    "noteZh": "纳赫曼尼德在迈蒙尼德之争语境中与迈蒙尼德传统形成关键张力。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w8-b2-002-nachmanides-moses-de-leon-influence",
+    "from": "nachmanides",
+    "to": "moses-de-leon",
+    "type": "influence",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "religion"
+    ],
+    "noteZh": "纳赫曼尼德的早期卡巴拉与释经传统为后续《光辉之书》语境提供批内前史。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w8-b2-003-moses-de-leon-maimonides-reception",
+    "from": "moses-de-leon",
+    "to": "maimonides",
+    "type": "reception",
+    "strength": 1,
+    "confidence": "low",
+    "themeIds": [
+      "language"
+    ],
+    "noteZh": "摩西·德·莱昂及《光辉之书》语境与中世纪哲学—释经问题相邻，挂接迈蒙尼德标准档。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w8-b2-004-abulafia-maimonides-reception",
+    "from": "abraham-abulafia",
+    "to": "maimonides",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "religion"
+    ],
+    "noteZh": "阿布拉菲亚注释并改造《迷途指津》相关问题，挂接迈蒙尼德标准档。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w8-b2-005-abulafia-nachmanides-shared-problem",
+    "from": "abraham-abulafia",
+    "to": "nachmanides",
+    "type": "shared_problem",
+    "strength": 1,
+    "confidence": "low",
+    "themeIds": [
+      "language"
+    ],
+    "noteZh": "阿布拉菲亚的字母—神名神秘主义与纳赫曼尼德早期卡巴拉同属中世纪卡巴拉问题域。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w8-b2-006-isaac-luria-moses-de-leon-reception",
+    "from": "isaac-luria",
+    "to": "moses-de-leon",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "metaphysics"
+    ],
+    "noteZh": "卢里亚卡巴拉承接并重构《光辉之书》之后的神秘宇宙论。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w8-b2-007-isaac-luria-maimonides-shared-problem",
+    "from": "isaac-luria",
+    "to": "maimonides",
+    "type": "shared_problem",
+    "strength": 1,
+    "confidence": "low",
+    "themeIds": [
+      "religion"
+    ],
+    "noteZh": "卢里亚的神、创造和修复问题同迈蒙尼德传统构成犹太神学内部对照。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w8-b2-008-baal-shem-tov-isaac-luria-reception",
+    "from": "baal-shem-tov",
+    "to": "isaac-luria",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "religion"
+    ],
+    "noteZh": "哈西德派兴起吸收并普及卢里亚卡巴拉中的神圣临在与修复主题。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w8-b2-009-buber-baal-shem-tov-reception",
+    "from": "buber",
+    "to": "baal-shem-tov",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "religion"
+    ],
+    "noteZh": "布伯通过哈西德叙事与解释重新呈现巴尔·谢姆·托夫传统，挂接布伯标准档。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w8-b2-010-schneur-zalman-baal-shem-tov-reception",
+    "from": "schneur-zalman",
+    "to": "baal-shem-tov",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "religion"
+    ],
+    "noteZh": "什内乌尔·扎尔曼继承哈西德运动源头传统，并将其智性化为哈巴德体系。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w8-b2-011-schneur-zalman-maimonides-reception",
+    "from": "schneur-zalman",
+    "to": "maimonides",
+    "type": "reception",
+    "strength": 1,
+    "confidence": "medium",
+    "themeIds": [
+      "knowledge"
+    ],
+    "noteZh": "什内乌尔·扎尔曼在理智、神知与法典传统上挂接迈蒙尼德标准档。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w8-b3-001-mendelssohn-kant-shared-problem",
+    "from": "moses-mendelssohn",
+    "to": "kant",
+    "type": "shared_problem",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "knowledge"
+    ],
+    "noteZh": "门德尔松与康德在启蒙、形而上学证成和理性限度问题上构成同时代对照。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w8-b3-002-mendelssohn-spinoza-critique",
+    "from": "moses-mendelssohn",
+    "to": "spinoza",
+    "type": "critique",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "religion"
+    ],
+    "noteZh": "门德尔松在泛神论争论和犹太启蒙语境中回应斯宾诺莎问题。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w8-b3-003-scholem-benjamin-shared-problem",
+    "from": "gershom-scholem",
+    "to": "benjamin",
+    "type": "shared_problem",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "language"
+    ],
+    "noteZh": "肖勒姆与本雅明围绕语言、启示、历史和弥赛亚主义构成重要思想友谊与问题交汇。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w8-b3-004-scholem-buber-critique",
+    "from": "gershom-scholem",
+    "to": "buber",
+    "type": "critique",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "religion"
+    ],
+    "noteZh": "肖勒姆的历史文献学卡巴拉研究与布伯的哈西德解释形成现代犹太思想内部对照。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w8-b3-005-heschel-buber-shared-problem",
+    "from": "abraham-joshua-heschel",
+    "to": "buber",
+    "type": "shared_problem",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "religion"
+    ],
+    "noteZh": "赫舍尔与布伯共同处理宗教经验、对话和现代犹太灵性问题。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w8-b3-006-heschel-maimonides-reception",
+    "from": "abraham-joshua-heschel",
+    "to": "maimonides",
+    "type": "reception",
+    "strength": 1,
+    "confidence": "medium",
+    "themeIds": [
+      "knowledge"
+    ],
+    "noteZh": "赫舍尔的犹太神学研究背景承接中世纪犹太哲学资源，挂接迈蒙尼德标准档。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w8-b3-007-soloveitchik-maimonides-reception",
+    "from": "joseph-soloveitchik",
+    "to": "maimonides",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "religion"
+    ],
+    "noteZh": "索洛维奇克的哈拉哈主体与现代正统思想深受迈蒙尼德法哲学与理性传统影响。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w8-b3-008-soloveitchik-cohen-shared-problem",
+    "from": "joseph-soloveitchik",
+    "to": "cohen",
+    "type": "shared_problem",
+    "strength": 1,
+    "confidence": "low",
+    "themeIds": [
+      "ethics"
+    ],
+    "noteZh": "索洛维奇克与赫尔曼·科恩在伦理、律法和现代犹太理性传统上可构成问题对照。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w8-b3-009-kaplan-spinoza-reception",
+    "from": "mordecai-kaplan",
+    "to": "spinoza",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "metaphysics"
+    ],
+    "noteZh": "卡普兰的宗教自然主义可挂接斯宾诺莎式自然与神问题传统。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w8-b3-010-kaplan-maimonides-critique",
+    "from": "mordecai-kaplan",
+    "to": "maimonides",
+    "type": "critique",
+    "strength": 1,
+    "confidence": "low",
+    "themeIds": [
+      "religion"
+    ],
+    "noteZh": "卡普兰重建主义以现代文明论重释犹太教，与迈蒙尼德规范—理性传统形成对照。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w8-b3-011-leibowitz-maimonides-reception",
+    "from": "yeshayahu-leibowitz",
+    "to": "maimonides",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "religion"
+    ],
+    "noteZh": "莱博维茨长期诠释迈蒙尼德，并以诫命中心论重读犹太信仰。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w8-b3-012-leibowitz-kant-shared-problem",
+    "from": "yeshayahu-leibowitz",
+    "to": "kant",
+    "type": "shared_problem",
+    "strength": 1,
+    "confidence": "low",
+    "themeIds": [
+      "ethics"
+    ],
+    "noteZh": "莱博维茨关于义务、价值和实践承诺的问题可同康德伦理学形成对照。",
+    "reviewStatus": "draft"
   }
 ]

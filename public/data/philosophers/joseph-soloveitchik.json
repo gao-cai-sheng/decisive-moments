@@ -1,0 +1,46 @@
+{
+  "id": "joseph-soloveitchik",
+  "tier": "seed",
+  "names": {
+    "zh": "约瑟夫·索洛维奇克",
+    "en": "Joseph B. Soloveitchik",
+    "native": "יוסף דוב הלוי סולובייצ׳יק"
+  },
+  "life": {
+    "birth": 1903,
+    "death": 1993,
+    "display": "1903—1993"
+  },
+  "civilization": "jewish",
+  "traditions": [
+    "modern_orthodox_judaism",
+    "jewish_philosophy"
+  ],
+  "periods": [
+    "seed_w8"
+  ],
+  "themes": [
+    "religion",
+    "freedom"
+  ],
+  "keywordsZh": [
+    "哈拉哈人",
+    "孤独的信仰人",
+    "现代正统派"
+  ],
+  "oneLineZh": "现代正统犹太思想代表，以哈拉哈主体、创造性人格和信仰孤独构造宗教哲学。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "约瑟夫·索洛维奇克（1903—1993）是 Seed W8 犹太文明补线候选。其身份层定位为：现代正统犹太哲学和塔木德学术代表，以《哈拉哈人》《孤独的信仰人》讨论哈拉哈主体、创造性人格、盟约和现代信仰处境。本条仅作 seed 档基本定位，后续若升级标准档，必须重新做著作、论点与 evidence 研究。",
+  "works": [
+    "joseph-soloveitchik-halakhic-man",
+    "joseph-soloveitchik-lonely-man-of-faith"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S004",
+      "url": "https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/soloveitchik-joseph-dov-ber",
+      "noteZh": "来源：Encyclopaedia Judaica / Joseph Dov Ber Soloveitchik；用于核验人物身份、1903—1993断代、《哈拉哈人》《孤独的信仰人》与现代正统派定位。"
+    }
+  ]
+}

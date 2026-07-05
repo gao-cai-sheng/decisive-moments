@@ -1,0 +1,48 @@
+{
+  "id": "tabatabai",
+  "tier": "seed",
+  "names": {
+    "zh": "塔巴塔巴伊",
+    "en": "Sayyid Muḥammad Ḥusayn Ṭabāṭabāʾī",
+    "native": "سید محمدحسین طباطبایی"
+  },
+  "life": {
+    "birth": 1903,
+    "death": 1981,
+    "display": "1903—1981"
+  },
+  "civilization": "islamic",
+  "traditions": [
+    "shia_philosophy",
+    "quranic_exegesis",
+    "post-sadrian_philosophy"
+  ],
+  "periods": [
+    "modern"
+  ],
+  "themes": [
+    "religion",
+    "metaphysics",
+    "knowledge"
+  ],
+  "keywordsZh": [
+    "当代什叶哲学",
+    "原理与方法",
+    "古兰经经注"
+  ],
+  "oneLineZh": "当代什叶哲学家和经注家，以萨德拉传统、哲学认识论和《古兰经》诠释连接现代伊朗思想。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "塔巴塔巴伊（1903—1981）是 Seed W7 伊斯兰文明晚期与近现代补线候选。其身份层入选理由为：当代什叶哲学家和经注家，以萨德拉传统、哲学认识论和《古兰经》诠释连接现代伊朗思想。本条仅作 seed 档基本定位，后续若升级标准档，必须重新做著作、论点与 evidence 研究。",
+  "works": [
+    "tabatabai-principles-philosophy-method-realism",
+    "tabatabai-al-mizan"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S003",
+      "url": "https://www.iranicaonline.org/articles/tabatabai-sayyed-mohammad-hosayn",
+      "noteZh": "来源：Encyclopaedia Iranica / TABATABAI, SAYYED MOHAMMAD HOSAYN；用于核验人物身份、生卒断代、当代什叶哲学、经注与代表著作。"
+    }
+  ]
+}
