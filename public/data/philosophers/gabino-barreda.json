@@ -1,0 +1,46 @@
+{
+  "id": "gabino-barreda",
+  "tier": "seed",
+  "names": {
+    "zh": "加维诺·巴雷达",
+    "en": "Gabino Barreda"
+  },
+  "life": {
+    "birth": 1818,
+    "death": 1881,
+    "display": "1818—1881"
+  },
+  "civilization": "latin_american",
+  "traditions": [
+    "positivism",
+    "mexican_philosophy"
+  ],
+  "periods": [
+    "seed_w9"
+  ],
+  "themes": [
+    "knowledge",
+    "politics",
+    "ethics"
+  ],
+  "keywordsZh": [
+    "墨西哥实证主义",
+    "国民预科学校",
+    "秩序与进步"
+  ],
+  "oneLineZh": "墨西哥孔德式实证主义代表，把教育制度改革作为社会秩序重建工具。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "巴雷达是墨西哥实证主义和国民教育制度改革的关键人物，以孔德式秩序、进步和教育组织回应19世纪墨西哥的政治与知识重建问题。",
+  "works": [
+    "gabino-barreda-oracion-civica",
+    "gabino-barreda-educacion-moral"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S002",
+      "url": "https://iep.utm.edu/latin-am/",
+      "noteZh": "IEP Latin American Philosophy 条目说明 Barreda 在墨西哥实证主义和教育改革中的位置。"
+    }
+  ]
+}

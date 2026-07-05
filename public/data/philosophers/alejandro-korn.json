@@ -1,0 +1,46 @@
+{
+  "id": "alejandro-korn",
+  "tier": "seed",
+  "names": {
+    "zh": "亚历杭德罗·科恩",
+    "en": "Alejandro Korn"
+  },
+  "life": {
+    "birth": 1860,
+    "death": 1936,
+    "display": "1860—1936"
+  },
+  "civilization": "latin_american",
+  "traditions": [
+    "argentine_philosophy",
+    "anti_positivism"
+  ],
+  "periods": [
+    "seed_w9"
+  ],
+  "themes": [
+    "freedom",
+    "ethics",
+    "knowledge"
+  ],
+  "keywordsZh": [
+    "创造性自由",
+    "阿根廷反实证主义",
+    "价值"
+  ],
+  "oneLineZh": "阿根廷反实证主义思想家，以创造性自由和价值问题重构哲学任务。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "科恩是阿根廷反实证主义与价值哲学的重要人物，常以‘创造性自由’概念回应实证主义决定论和文化自我理解问题。本条仅作 seed 身份层。",
+  "works": [
+    "alejandro-korn-libertad-creadora",
+    "alejandro-korn-influencias-filosoficas"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S002",
+      "url": "https://iep.utm.edu/latin-am/",
+      "noteZh": "IEP Latin American Philosophy 条目用于核验 Korn 在阿根廷反实证主义和自由/价值问题中的位置。"
+    }
+  ]
+}

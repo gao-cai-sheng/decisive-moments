@@ -1,0 +1,46 @@
+{
+  "id": "gustavo-gutierrez",
+  "tier": "seed",
+  "names": {
+    "zh": "古斯塔沃·古铁雷斯",
+    "en": "Gustavo Gutiérrez"
+  },
+  "life": {
+    "birth": 1928,
+    "death": 2024,
+    "display": "1928—2024"
+  },
+  "civilization": "latin_american",
+  "traditions": [
+    "liberation_theology",
+    "latin_american_christian_thought"
+  ],
+  "periods": [
+    "seed_w9"
+  ],
+  "themes": [
+    "religion",
+    "justice",
+    "politics"
+  ],
+  "keywordsZh": [
+    "解放神学",
+    "穷人优先选项",
+    "实践"
+  ],
+  "oneLineZh": "秘鲁神学家，《解放神学》奠定拉美解放神学的问题框架。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "古铁雷斯以《解放神学》把基督教神学、贫穷经验和社会解放实践结合起来，是拉美解放神学的奠基人物之一。本条仅作 seed 身份层。",
+  "works": [
+    "gustavo-gutierrez-theology-liberation",
+    "gustavo-gutierrez-power-poor"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S002",
+      "url": "https://plato.stanford.edu/entries/liberation-theology/",
+      "noteZh": "SEP Liberation Theology 条目用于核验 Gutiérrez 的解放神学奠基地位和代表作。"
+    }
+  ]
+}

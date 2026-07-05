@@ -1,0 +1,46 @@
+{
+  "id": "anibal-quijano",
+  "tier": "seed",
+  "names": {
+    "zh": "阿尼瓦尔·基哈诺",
+    "en": "Aníbal Quijano"
+  },
+  "life": {
+    "birth": 1930,
+    "death": 2018,
+    "display": "1930—2018"
+  },
+  "civilization": "latin_american",
+  "traditions": [
+    "decolonial_theory",
+    "dependency_theory"
+  ],
+  "periods": [
+    "seed_w9"
+  ],
+  "themes": [
+    "politics",
+    "justice",
+    "knowledge"
+  ],
+  "keywordsZh": [
+    "权力的殖民性",
+    "现代性/殖民性",
+    "去殖民"
+  ],
+  "oneLineZh": "秘鲁社会理论家，提出‘权力的殖民性’并影响去殖民理论。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "基哈诺以‘权力的殖民性’重构现代世界体系、种族分类和知识权力问题，是拉美去殖民理论的核心人物之一。本条仅作 seed 身份层。",
+  "works": [
+    "anibal-quijano-coloniality-power",
+    "anibal-quijano-modernity-identity-utopia"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S003",
+      "url": "https://plato.stanford.edu/entries/coloniality-power/",
+      "noteZh": "SEP Coloniality of Power 条目用于核验 Quijano 的权力殖民性概念和现代性/殖民性谱系。"
+    }
+  ]
+}

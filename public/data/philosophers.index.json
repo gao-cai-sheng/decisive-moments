@@ -16342,5 +16342,755 @@
     "oneLineZh": "以色列犹太思想家，强调信仰即服从诫命，并以尖锐公共批评著称。",
     "influenceWeight": 2,
     "reviewStatus": "draft"
+  },
+  {
+    "id": "las-casas",
+    "tier": "seed",
+    "names": {
+      "zh": "巴托洛梅·德·拉斯·卡萨斯",
+      "en": "Bartolomé de las Casas"
+    },
+    "life": {
+      "birth": 1484,
+      "death": 1566,
+      "display": "1484—1566"
+    },
+    "civilization": "latin_american",
+    "traditions": [
+      "colonial_latin_american_philosophy",
+      "natural_rights"
+    ],
+    "periods": [
+      "seed_w9"
+    ],
+    "themes": [
+      "justice",
+      "religion",
+      "politics"
+    ],
+    "keywordsZh": [
+      "巴利亚多利德之辩",
+      "原住民权利",
+      "和平传教"
+    ],
+    "oneLineZh": "殖民早期为美洲原住民理性与权利辩护的多明我会思想家。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "andres-bello",
+    "tier": "seed",
+    "names": {
+      "zh": "安德烈斯·贝略",
+      "en": "Andrés Bello"
+    },
+    "life": {
+      "birth": 1781,
+      "death": 1865,
+      "display": "1781—1865"
+    },
+    "civilization": "latin_american",
+    "traditions": [
+      "latin_american_liberalism",
+      "legal_humanism"
+    ],
+    "periods": [
+      "seed_w9"
+    ],
+    "themes": [
+      "politics",
+      "language",
+      "knowledge"
+    ],
+    "keywordsZh": [
+      "法律",
+      "语言规范",
+      "教育"
+    ],
+    "oneLineZh": "委内瑞拉—智利思想家，以法律、教育和语言工程参与独立后国家建构。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "simon-rodriguez",
+    "tier": "seed",
+    "names": {
+      "zh": "西蒙·罗德里格斯",
+      "en": "Simón Rodríguez"
+    },
+    "life": {
+      "birth": 1769,
+      "death": 1854,
+      "display": "1769—1854"
+    },
+    "civilization": "latin_american",
+    "traditions": [
+      "popular_education",
+      "republicanism"
+    ],
+    "periods": [
+      "seed_w9"
+    ],
+    "themes": [
+      "politics",
+      "knowledge",
+      "freedom"
+    ],
+    "keywordsZh": [
+      "玻利瓦尔之师",
+      "大众教育",
+      "美洲共和国"
+    ],
+    "oneLineZh": "委内瑞拉教育思想家，以美洲共和国和大众教育方案回应独立后的社会重建。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "alberdi",
+    "tier": "seed",
+    "names": {
+      "zh": "胡安·B·阿尔韦迪",
+      "en": "Juan Bautista Alberdi"
+    },
+    "life": {
+      "birth": 1810,
+      "death": 1884,
+      "display": "1810—1884"
+    },
+    "civilization": "latin_american",
+    "traditions": [
+      "latin_american_liberalism",
+      "constitutionalism"
+    ],
+    "periods": [
+      "seed_w9"
+    ],
+    "themes": [
+      "politics",
+      "freedom",
+      "justice"
+    ],
+    "keywordsZh": [
+      "阿根廷宪政",
+      "治理即移民",
+      "美洲哲学"
+    ],
+    "oneLineZh": "阿根廷自由主义与宪政思想家，提出国家组织和美洲哲学的现实任务。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "sarmiento",
+    "tier": "seed",
+    "names": {
+      "zh": "多明戈·萨米恩托",
+      "en": "Domingo Faustino Sarmiento"
+    },
+    "life": {
+      "birth": 1811,
+      "death": 1888,
+      "display": "1811—1888"
+    },
+    "civilization": "latin_american",
+    "traditions": [
+      "latin_american_liberalism",
+      "positivism"
+    ],
+    "periods": [
+      "seed_w9"
+    ],
+    "themes": [
+      "politics",
+      "knowledge",
+      "justice"
+    ],
+    "keywordsZh": [
+      "文明与野蛮",
+      "教育",
+      "国家建设"
+    ],
+    "oneLineZh": "阿根廷思想家，《法昆多》以文明/野蛮框架塑造19世纪拉美现代化论述。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "hostos",
+    "tier": "seed",
+    "names": {
+      "zh": "欧亨尼奥·玛丽亚·德·奥斯托斯",
+      "en": "Eugenio María de Hostos"
+    },
+    "life": {
+      "birth": 1839,
+      "death": 1903,
+      "display": "1839—1903"
+    },
+    "civilization": "latin_american",
+    "traditions": [
+      "positivism",
+      "popular_education",
+      "antillean_federalism"
+    ],
+    "periods": [
+      "seed_w9"
+    ],
+    "themes": [
+      "ethics",
+      "politics",
+      "knowledge"
+    ],
+    "keywordsZh": [
+      "社会伦理",
+      "教育改革",
+      "安的列斯联邦"
+    ],
+    "oneLineZh": "波多黎各教育家与伦理思想家，以社会伦理和安的列斯解放方案连接实证主义与反殖民政治。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "gabino-barreda",
+    "tier": "seed",
+    "names": {
+      "zh": "加维诺·巴雷达",
+      "en": "Gabino Barreda"
+    },
+    "life": {
+      "birth": 1818,
+      "death": 1881,
+      "display": "1818—1881"
+    },
+    "civilization": "latin_american",
+    "traditions": [
+      "positivism",
+      "mexican_philosophy"
+    ],
+    "periods": [
+      "seed_w9"
+    ],
+    "themes": [
+      "knowledge",
+      "politics",
+      "ethics"
+    ],
+    "keywordsZh": [
+      "墨西哥实证主义",
+      "国民预科学校",
+      "秩序与进步"
+    ],
+    "oneLineZh": "墨西哥孔德式实证主义代表，把教育制度改革作为社会秩序重建工具。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "jose-marti",
+    "tier": "seed",
+    "names": {
+      "zh": "何塞·马蒂",
+      "en": "José Martí"
+    },
+    "life": {
+      "birth": 1853,
+      "death": 1895,
+      "display": "1853—1895"
+    },
+    "civilization": "latin_american",
+    "traditions": [
+      "latin_american_republicanism",
+      "anti_imperialism"
+    ],
+    "periods": [
+      "seed_w9"
+    ],
+    "themes": [
+      "politics",
+      "freedom",
+      "aesthetics"
+    ],
+    "keywordsZh": [
+      "我们的美洲",
+      "古巴独立",
+      "反帝国主义"
+    ],
+    "oneLineZh": "古巴独立思想家，《我们的美洲》以美洲主体性回应殖民与帝国秩序。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "jose-enrique-rodo",
+    "tier": "seed",
+    "names": {
+      "zh": "何塞·恩里克·罗多",
+      "en": "José Enrique Rodó"
+    },
+    "life": {
+      "birth": 1871,
+      "death": 1917,
+      "display": "1871—1917"
+    },
+    "civilization": "latin_american",
+    "traditions": [
+      "arielismo",
+      "latin_american_essay"
+    ],
+    "periods": [
+      "seed_w9"
+    ],
+    "themes": [
+      "aesthetics",
+      "ethics",
+      "politics"
+    ],
+    "keywordsZh": [
+      "爱丽尔主义",
+      "反功利主义",
+      "青年教育"
+    ],
+    "oneLineZh": "乌拉圭思想家，《爱丽尔》以审美—伦理教育塑造拉美精神身份论。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "antonio-caso",
+    "tier": "seed",
+    "names": {
+      "zh": "安东尼奥·卡索",
+      "en": "Antonio Caso"
+    },
+    "life": {
+      "birth": 1883,
+      "death": 1946,
+      "display": "1883—1946"
+    },
+    "civilization": "latin_american",
+    "traditions": [
+      "mexican_philosophy",
+      "anti_positivism"
+    ],
+    "periods": [
+      "seed_w9"
+    ],
+    "themes": [
+      "ethics",
+      "life_death",
+      "knowledge"
+    ],
+    "keywordsZh": [
+      "青年学会",
+      "反实证主义",
+      "生命哲学"
+    ],
+    "oneLineZh": "墨西哥反实证主义思想家，以生命、伦理和人格问题反拨孔德式知识秩序。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "jose-vasconcelos",
+    "tier": "seed",
+    "names": {
+      "zh": "何塞·巴斯孔塞洛斯",
+      "en": "José Vasconcelos"
+    },
+    "life": {
+      "birth": 1882,
+      "death": 1959,
+      "display": "1882—1959"
+    },
+    "civilization": "latin_american",
+    "traditions": [
+      "mexican_philosophy",
+      "aesthetic_spiritualism"
+    ],
+    "periods": [
+      "seed_w9"
+    ],
+    "themes": [
+      "aesthetics",
+      "politics",
+      "ethics"
+    ],
+    "keywordsZh": [
+      "宇宙种族",
+      "美学救赎",
+      "墨西哥教育"
+    ],
+    "oneLineZh": "墨西哥思想家与教育家，《宇宙种族》以混血宇宙论重写美洲身份。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "alejandro-korn",
+    "tier": "seed",
+    "names": {
+      "zh": "亚历杭德罗·科恩",
+      "en": "Alejandro Korn"
+    },
+    "life": {
+      "birth": 1860,
+      "death": 1936,
+      "display": "1860—1936"
+    },
+    "civilization": "latin_american",
+    "traditions": [
+      "argentine_philosophy",
+      "anti_positivism"
+    ],
+    "periods": [
+      "seed_w9"
+    ],
+    "themes": [
+      "freedom",
+      "ethics",
+      "knowledge"
+    ],
+    "keywordsZh": [
+      "创造性自由",
+      "阿根廷反实证主义",
+      "价值"
+    ],
+    "oneLineZh": "阿根廷反实证主义思想家，以创造性自由和价值问题重构哲学任务。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "samuel-ramos",
+    "tier": "seed",
+    "names": {
+      "zh": "萨穆埃尔·拉莫斯",
+      "en": "Samuel Ramos"
+    },
+    "life": {
+      "birth": 1897,
+      "death": 1959,
+      "display": "1897—1959"
+    },
+    "civilization": "latin_american",
+    "traditions": [
+      "mexican_philosophy",
+      "philosophy_of_identity"
+    ],
+    "periods": [
+      "seed_w9"
+    ],
+    "themes": [
+      "knowledge",
+      "ethics",
+      "politics"
+    ],
+    "keywordsZh": [
+      "墨西哥人的轮廓",
+      "墨西哥性",
+      "民族性格"
+    ],
+    "oneLineZh": "墨西哥身份哲学代表，《墨西哥人的轮廓》分析民族性格与文化自我认识。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "francisco-romero",
+    "tier": "seed",
+    "names": {
+      "zh": "弗朗西斯科·罗梅罗",
+      "en": "Francisco Romero"
+    },
+    "life": {
+      "birth": 1891,
+      "death": 1962,
+      "display": "1891—1962"
+    },
+    "civilization": "latin_american",
+    "traditions": [
+      "argentine_philosophy",
+      "philosophy_of_person"
+    ],
+    "periods": [
+      "seed_w9"
+    ],
+    "themes": [
+      "freedom",
+      "metaphysics",
+      "knowledge"
+    ],
+    "keywordsZh": [
+      "人的理论",
+      "阿根廷哲学",
+      "奥尔特加受容"
+    ],
+    "oneLineZh": "阿根廷哲学家，推动专业哲学制度化并发展人格与精神生命理论。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "risieri-frondizi",
+    "tier": "seed",
+    "names": {
+      "zh": "里西耶里·弗龙迪西",
+      "en": "Risieri Frondizi"
+    },
+    "life": {
+      "birth": 1910,
+      "death": 1985,
+      "display": "1910—1985"
+    },
+    "civilization": "latin_american",
+    "traditions": [
+      "value_theory",
+      "argentine_philosophy"
+    ],
+    "periods": [
+      "seed_w9"
+    ],
+    "themes": [
+      "ethics",
+      "knowledge",
+      "metaphysics"
+    ],
+    "keywordsZh": [
+      "价值论",
+      "自我理论",
+      "拉美学院哲学"
+    ],
+    "oneLineZh": "阿根廷价值论哲学家，以价值结构和自我理论进入20世纪拉美学院哲学谱系。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "salazar-bondy",
+    "tier": "seed",
+    "names": {
+      "zh": "奥古斯托·萨拉萨尔·邦迪",
+      "en": "Augusto Salazar Bondy"
+    },
+    "life": {
+      "birth": 1925,
+      "death": 1974,
+      "display": "1925—1974"
+    },
+    "civilization": "latin_american",
+    "traditions": [
+      "philosophy_of_liberation",
+      "peruvian_philosophy"
+    ],
+    "periods": [
+      "seed_w9"
+    ],
+    "themes": [
+      "politics",
+      "knowledge",
+      "freedom"
+    ],
+    "keywordsZh": [
+      "我们美洲有哲学吗",
+      "真实性",
+      "依附"
+    ],
+    "oneLineZh": "秘鲁哲学家，以拉美哲学真实性问题开启与 Zea 的经典争论。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "ignacio-ellacuria",
+    "tier": "seed",
+    "names": {
+      "zh": "伊格纳西奥·埃拉库里亚",
+      "en": "Ignacio Ellacuría"
+    },
+    "life": {
+      "birth": 1930,
+      "death": 1989,
+      "display": "1930—1989"
+    },
+    "civilization": "latin_american",
+    "traditions": [
+      "philosophy_of_liberation",
+      "liberation_theology"
+    ],
+    "periods": [
+      "seed_w9"
+    ],
+    "themes": [
+      "politics",
+      "justice",
+      "religion"
+    ],
+    "keywordsZh": [
+      "历史现实",
+      "解放哲学",
+      "萨尔瓦多"
+    ],
+    "oneLineZh": "萨尔瓦多耶稣会哲学家，以历史现实概念连接解放哲学、神学与政治实践。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "gustavo-gutierrez",
+    "tier": "seed",
+    "names": {
+      "zh": "古斯塔沃·古铁雷斯",
+      "en": "Gustavo Gutiérrez"
+    },
+    "life": {
+      "birth": 1928,
+      "death": 2024,
+      "display": "1928—2024"
+    },
+    "civilization": "latin_american",
+    "traditions": [
+      "liberation_theology",
+      "latin_american_christian_thought"
+    ],
+    "periods": [
+      "seed_w9"
+    ],
+    "themes": [
+      "religion",
+      "justice",
+      "politics"
+    ],
+    "keywordsZh": [
+      "解放神学",
+      "穷人优先选项",
+      "实践"
+    ],
+    "oneLineZh": "秘鲁神学家，《解放神学》奠定拉美解放神学的问题框架。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "rodolfo-kusch",
+    "tier": "seed",
+    "names": {
+      "zh": "罗多尔福·库什",
+      "en": "Rodolfo Kusch"
+    },
+    "life": {
+      "birth": 1922,
+      "death": 1979,
+      "display": "1922—1979"
+    },
+    "civilization": "latin_american",
+    "traditions": [
+      "latin_american_philosophy",
+      "indigenous_thought"
+    ],
+    "periods": [
+      "seed_w9"
+    ],
+    "themes": [
+      "metaphysics",
+      "politics",
+      "aesthetics"
+    ],
+    "keywordsZh": [
+      "美洲存在",
+      "estar",
+      "原住民思想"
+    ],
+    "oneLineZh": "阿根廷思想家，以美洲在场、原住民世界和大众文化批判欧洲存在论。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "anibal-quijano",
+    "tier": "seed",
+    "names": {
+      "zh": "阿尼瓦尔·基哈诺",
+      "en": "Aníbal Quijano"
+    },
+    "life": {
+      "birth": 1930,
+      "death": 2018,
+      "display": "1930—2018"
+    },
+    "civilization": "latin_american",
+    "traditions": [
+      "decolonial_theory",
+      "dependency_theory"
+    ],
+    "periods": [
+      "seed_w9"
+    ],
+    "themes": [
+      "politics",
+      "justice",
+      "knowledge"
+    ],
+    "keywordsZh": [
+      "权力的殖民性",
+      "现代性/殖民性",
+      "去殖民"
+    ],
+    "oneLineZh": "秘鲁社会理论家，提出‘权力的殖民性’并影响去殖民理论。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "maria-lugones",
+    "tier": "seed",
+    "names": {
+      "zh": "玛丽亚·卢戈内斯",
+      "en": "María Lugones"
+    },
+    "life": {
+      "birth": 1944,
+      "death": 2020,
+      "display": "1944—2020"
+    },
+    "civilization": "latin_american",
+    "traditions": [
+      "decolonial_feminism",
+      "feminist_philosophy"
+    ],
+    "periods": [
+      "seed_w9"
+    ],
+    "themes": [
+      "justice",
+      "politics",
+      "knowledge"
+    ],
+    "keywordsZh": [
+      "性别殖民性",
+      "去殖民女性主义",
+      "交叉压迫"
+    ],
+    "oneLineZh": "阿根廷裔女性主义哲学家，以性别殖民性理论推进去殖民女性主义。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "octavio-paz",
+    "tier": "seed",
+    "names": {
+      "zh": "奥克塔维奥·帕斯",
+      "en": "Octavio Paz"
+    },
+    "life": {
+      "birth": 1914,
+      "death": 1998,
+      "display": "1914—1998"
+    },
+    "civilization": "latin_american",
+    "traditions": [
+      "mexican_philosophy",
+      "latin_american_essay",
+      "aesthetics"
+    ],
+    "periods": [
+      "seed_w9"
+    ],
+    "themes": [
+      "aesthetics",
+      "politics",
+      "ethics"
+    ],
+    "keywordsZh": [
+      "孤独的迷宫",
+      "墨西哥性",
+      "诗与现代性"
+    ],
+    "oneLineZh": "墨西哥诗人兼思想家，以《孤独的迷宫》分析墨西哥身份、孤独与现代性。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
   }
 ]

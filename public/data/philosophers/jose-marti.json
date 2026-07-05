@@ -1,0 +1,46 @@
+{
+  "id": "jose-marti",
+  "tier": "seed",
+  "names": {
+    "zh": "何塞·马蒂",
+    "en": "José Martí"
+  },
+  "life": {
+    "birth": 1853,
+    "death": 1895,
+    "display": "1853—1895"
+  },
+  "civilization": "latin_american",
+  "traditions": [
+    "latin_american_republicanism",
+    "anti_imperialism"
+  ],
+  "periods": [
+    "seed_w9"
+  ],
+  "themes": [
+    "politics",
+    "freedom",
+    "aesthetics"
+  ],
+  "keywordsZh": [
+    "我们的美洲",
+    "古巴独立",
+    "反帝国主义"
+  ],
+  "oneLineZh": "古巴独立思想家，《我们的美洲》以美洲主体性回应殖民与帝国秩序。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "何塞·马蒂以政治散文、诗歌和革命实践进入拉美思想史；其关键位置在于把独立、反帝国主义和‘我们的美洲’的文化主体性结合起来。本条仅作 seed 身份层。",
+  "works": [
+    "jose-marti-nuestra-america",
+    "jose-marti-escenas-norteamericanas"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S002",
+      "url": "https://iep.utm.edu/latin-am/",
+      "noteZh": "IEP Latin American Philosophy 条目用于核验 Martí 在拉美文化解放、反实证主义前后和美洲身份论中的位置。"
+    }
+  ]
+}

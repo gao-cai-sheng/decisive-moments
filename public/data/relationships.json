@@ -12512,5 +12512,547 @@
     ],
     "noteZh": "莱博维茨关于义务、价值和实践承诺的问题可同康德伦理学形成对照。",
     "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w9-b1-001-las-casas-sor-juana-shared-problem",
+    "from": "las-casas",
+    "to": "sor-juana",
+    "type": "shared_problem",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "justice",
+      "religion"
+    ],
+    "noteZh": "二者同属殖民拉美思想史中以神学—人文主义语言回应殖民社会秩序和主体地位的关键节点。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w9-b1-002-las-casas-aristotle-critique",
+    "from": "las-casas",
+    "to": "aristotle",
+    "type": "critique",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "justice"
+    ],
+    "noteZh": "拉斯·卡萨斯围绕自然奴役论和原住民理性地位，对亚里士多德传统的殖民用法构成批判性接续。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w9-b1-003-andres-bello-bentham-reception",
+    "from": "andres-bello",
+    "to": "bentham",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "politics",
+      "justice"
+    ],
+    "noteZh": "贝略的法律和制度思考处在19世纪拉美吸收英国功利主义与自由主义法学的语境中。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w9-b1-004-andres-bello-simon-rodriguez-shared-problem",
+    "from": "andres-bello",
+    "to": "simon-rodriguez",
+    "type": "shared_problem",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "knowledge",
+      "politics"
+    ],
+    "noteZh": "贝略和罗德里格斯分别从语言/法律制度与大众教育出发，回应独立后美洲社会重建问题。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w9-b1-005-simon-rodriguez-rousseau-reception",
+    "from": "simon-rodriguez",
+    "to": "rousseau",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "freedom",
+      "knowledge"
+    ],
+    "noteZh": "罗德里格斯的教育共和主义可作为卢梭式教育与公民形成问题在美洲语境中的再造。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w9-b1-006-alberdi-tocqueville-shared-problem",
+    "from": "alberdi",
+    "to": "tocqueville",
+    "type": "shared_problem",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "politics",
+      "freedom"
+    ],
+    "noteZh": "阿尔韦迪与托克维尔共享独立后民主社会如何组织制度、地方自治与自由秩序的问题域。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w9-b1-007-alberdi-sarmiento-critique",
+    "from": "alberdi",
+    "to": "sarmiento",
+    "type": "critique",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "politics"
+    ],
+    "noteZh": "阿尔韦迪与萨米恩托同属阿根廷国家建构论述，但在宪政、移民、战争和国家组织路径上形成可比张力。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w9-b1-008-sarmiento-tocqueville-shared-problem",
+    "from": "sarmiento",
+    "to": "tocqueville",
+    "type": "shared_problem",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "politics",
+      "knowledge"
+    ],
+    "noteZh": "萨米恩托和托克维尔都把社会类型、教育、地方生活与现代政治制度的成败联系起来分析。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w9-b1-009-hostos-comte-reception",
+    "from": "hostos",
+    "to": "comte",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "knowledge",
+      "ethics"
+    ],
+    "noteZh": "奥斯托斯的社会伦理和教育思想处在拉美实证主义吸收孔德社会科学理想的背景中。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w9-b1-010-hostos-gabino-barreda-shared-problem",
+    "from": "hostos",
+    "to": "gabino-barreda",
+    "type": "shared_problem",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "knowledge",
+      "politics"
+    ],
+    "noteZh": "奥斯托斯与巴雷达都把教育制度视为独立后社会秩序和公民形成的核心机制。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w9-b1-011-gabino-barreda-comte-reception",
+    "from": "gabino-barreda",
+    "to": "comte",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "high",
+    "themeIds": [
+      "knowledge",
+      "politics"
+    ],
+    "noteZh": "巴雷达明确以孔德实证主义为墨西哥国民预科学校和知识秩序重建的理论资源。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w9-b2-001-jose-marti-mariategui-reception",
+    "from": "jose-marti",
+    "to": "mariategui",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "politics",
+      "freedom"
+    ],
+    "noteZh": "马蒂的‘我们的美洲’为后续拉美反帝国主义和本土现代性论述提供重要前史，马里亚特吉可作为20世纪社会主义转化锚点。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w9-b2-002-jose-marti-jose-enrique-rodo-shared-problem",
+    "from": "jose-marti",
+    "to": "jose-enrique-rodo",
+    "type": "shared_problem",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "politics",
+      "aesthetics"
+    ],
+    "noteZh": "马蒂与罗多都以散文形式讨论美洲主体性、文化使命和对北方现代性的警惕。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w9-b2-003-rodo-unamuno-shared-problem",
+    "from": "jose-enrique-rodo",
+    "to": "miguel-de-unamuno",
+    "type": "shared_problem",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "aesthetics",
+      "ethics"
+    ],
+    "noteZh": "罗多与乌纳穆诺同处西语世界反实证主义与精神主义问题域，均以人格、文化和精神生活反拨狭义功利理性。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w9-b2-004-antonio-caso-bergson-reception",
+    "from": "antonio-caso",
+    "to": "bergson",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "life_death",
+      "ethics"
+    ],
+    "noteZh": "卡索反实证主义中的生命、直觉和人格问题可与柏格森生命哲学受容相连。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w9-b2-005-antonio-caso-jose-vasconcelos-shared-problem",
+    "from": "antonio-caso",
+    "to": "jose-vasconcelos",
+    "type": "shared_problem",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "ethics",
+      "aesthetics"
+    ],
+    "noteZh": "卡索与巴斯孔塞洛斯同属墨西哥反实证主义一代，分别从伦理人格和美学精神主义回应实证主义遗产。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w9-b2-006-jose-vasconcelos-bergson-reception",
+    "from": "jose-vasconcelos",
+    "to": "bergson",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "aesthetics",
+      "life_death"
+    ],
+    "noteZh": "巴斯孔塞洛斯的精神主义和美学宇宙论可与柏格森式生命哲学和创造性问题相连。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w9-b2-007-alejandro-korn-bergson-reception",
+    "from": "alejandro-korn",
+    "to": "bergson",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "freedom",
+      "life_death"
+    ],
+    "noteZh": "科恩的创造性自由和反实证主义问题域与柏格森式生命、创造和反决定论资源相接。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w9-b2-008-alejandro-korn-kant-reception",
+    "from": "alejandro-korn",
+    "to": "kant",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "freedom",
+      "ethics"
+    ],
+    "noteZh": "科恩围绕自由和价值问题反拨实证主义，其问题结构可接入康德式实践自由与价值规范性传统。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w9-b2-009-samuel-ramos-zelea-reception",
+    "from": "samuel-ramos",
+    "to": "zelea",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "knowledge",
+      "politics"
+    ],
+    "noteZh": "拉莫斯对墨西哥性和民族自我认识的分析，是 Zea 后续拉美哲学身份论与历史意识的重要前史之一。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w9-b2-010-samuel-ramos-jose-vasconcelos-shared-problem",
+    "from": "samuel-ramos",
+    "to": "jose-vasconcelos",
+    "type": "shared_problem",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "politics",
+      "ethics"
+    ],
+    "noteZh": "拉莫斯与巴斯孔塞洛斯都围绕墨西哥/美洲身份展开，但分别侧重文化心理诊断和混血宇宙论。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w9-b2-011-francisco-romero-ortega-reception",
+    "from": "francisco-romero",
+    "to": "jose-ortega-y-gasset",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "freedom",
+      "knowledge"
+    ],
+    "noteZh": "罗梅罗作为阿根廷学院哲学重要人物，可作为本波唯一连接 Ortega 的拉美 seed 锚点。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w9-b2-012-francisco-romero-alejandro-korn-reception",
+    "from": "francisco-romero",
+    "to": "alejandro-korn",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "freedom",
+      "ethics"
+    ],
+    "noteZh": "罗梅罗承接阿根廷反实证主义与专业哲学制度化语境，科恩可作为前一代自由与价值问题锚点。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w9-b2-013-risieri-frondizi-max-scheler-reception",
+    "from": "risieri-frondizi",
+    "to": "max-scheler",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "ethics"
+    ],
+    "noteZh": "弗龙迪西的价值论可与 Scheler 的价值现象学传统构成受容和问题继承关系，本条为本波唯一 Scheler seed 连接。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w9-b2-014-risieri-frondizi-francisco-romero-reception",
+    "from": "risieri-frondizi",
+    "to": "francisco-romero",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "ethics",
+      "metaphysics"
+    ],
+    "noteZh": "弗龙迪西与罗梅罗同属20世纪阿根廷学院哲学谱系，围绕人格、自我和价值问题形成代际关联。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w9-b3-001-salazar-bondy-zelea-critique",
+    "from": "salazar-bondy",
+    "to": "zelea",
+    "type": "critique",
+    "strength": 2,
+    "confidence": "high",
+    "themeIds": [
+      "knowledge",
+      "politics"
+    ],
+    "noteZh": "萨拉萨尔·邦迪与 Zea 围绕拉美哲学是否真实存在及其历史条件形成经典争论。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w9-b3-002-salazar-bondy-mariategui-reception",
+    "from": "salazar-bondy",
+    "to": "mariategui",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "politics",
+      "justice"
+    ],
+    "noteZh": "萨拉萨尔·邦迪的依附与解放问题可接续马里亚特吉关于拉美现实和社会主义原创性的前史。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w9-b3-003-ignacio-ellacuria-dussel-shared-problem",
+    "from": "ignacio-ellacuria",
+    "to": "dussel",
+    "type": "shared_problem",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "justice",
+      "politics"
+    ],
+    "noteZh": "埃拉库里亚与杜塞尔同属拉美解放哲学问题域，均把哲学任务置于压迫结构和解放实践之中。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w9-b3-004-ignacio-ellacuria-gustavo-gutierrez-shared-problem",
+    "from": "ignacio-ellacuria",
+    "to": "gustavo-gutierrez",
+    "type": "shared_problem",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "religion",
+      "justice"
+    ],
+    "noteZh": "埃拉库里亚和古铁雷斯在解放哲学/神学交界处共享历史现实、贫穷和解放实践问题。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w9-b3-005-gustavo-gutierrez-dussel-shared-problem",
+    "from": "gustavo-gutierrez",
+    "to": "dussel",
+    "type": "shared_problem",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "religion",
+      "justice"
+    ],
+    "noteZh": "古铁雷斯的解放神学与杜塞尔的解放哲学共同构成拉美以受压迫者为中心的伦理政治转向。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w9-b3-006-gustavo-gutierrez-freire-shared-problem",
+    "from": "gustavo-gutierrez",
+    "to": "freire",
+    "type": "shared_problem",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "justice",
+      "knowledge"
+    ],
+    "noteZh": "古铁雷斯和弗莱雷都把解放理解为从受压迫者经验出发的实践、意识化和社会转化过程。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w9-b3-007-rodolfo-kusch-heidegger-reception",
+    "from": "rodolfo-kusch",
+    "to": "heidegger",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "metaphysics"
+    ],
+    "noteZh": "库什的美洲存在论可与海德格尔存在问题构成受容和转化关系，但其重心转向美洲在场与原住民世界。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w9-b3-008-rodolfo-kusch-dussel-shared-problem",
+    "from": "rodolfo-kusch",
+    "to": "dussel",
+    "type": "shared_problem",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "politics",
+      "metaphysics"
+    ],
+    "noteZh": "库什与杜塞尔均从拉美处境出发反拨欧洲中心哲学，只是分别侧重存在论文化批判和解放伦理政治。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w9-b3-009-anibal-quijano-mariategui-reception",
+    "from": "anibal-quijano",
+    "to": "mariategui",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "politics",
+      "justice"
+    ],
+    "noteZh": "基哈诺的拉美社会理论可接续马里亚特吉对殖民遗产、土地和本土现实的非欧洲中心分析。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w9-b3-010-anibal-quijano-fanon-shared-problem",
+    "from": "anibal-quijano",
+    "to": "fanon",
+    "type": "shared_problem",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "justice",
+      "politics"
+    ],
+    "noteZh": "基哈诺与法农共享殖民种族化、主体形成和世界体系暴力的问题域。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w9-b3-011-maria-lugones-fanon-reception",
+    "from": "maria-lugones",
+    "to": "fanon",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "justice",
+      "politics"
+    ],
+    "noteZh": "卢戈内斯的去殖民女性主义可与法农关于殖民主体、身体和暴力的分析形成批判性继承关系。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w9-b3-012-maria-lugones-anibal-quijano-critique",
+    "from": "maria-lugones",
+    "to": "anibal-quijano",
+    "type": "critique",
+    "strength": 2,
+    "confidence": "high",
+    "themeIds": [
+      "justice",
+      "knowledge"
+    ],
+    "noteZh": "卢戈内斯在基哈诺权力殖民性框架上推进性别殖民性分析，既继承又批判其性别维度不足。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w9-b3-013-octavio-paz-zelea-shared-problem",
+    "from": "octavio-paz",
+    "to": "zelea",
+    "type": "shared_problem",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "politics",
+      "aesthetics"
+    ],
+    "noteZh": "帕斯与 Zea 都围绕墨西哥/拉美身份、历史意识和现代性展开，但分别以思想散文和哲学史论述推进。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w9-b3-014-octavio-paz-sartre-reception",
+    "from": "octavio-paz",
+    "to": "sartre",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "aesthetics",
+      "freedom"
+    ],
+    "noteZh": "帕斯关于文学、公共责任和现代主体的论述可与萨特存在主义和介入文学语境形成思想史关联。",
+    "reviewStatus": "draft"
   }
 ]

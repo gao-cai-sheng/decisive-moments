@@ -1,0 +1,46 @@
+{
+  "id": "andres-bello",
+  "tier": "seed",
+  "names": {
+    "zh": "安德烈斯·贝略",
+    "en": "Andrés Bello"
+  },
+  "life": {
+    "birth": 1781,
+    "death": 1865,
+    "display": "1781—1865"
+  },
+  "civilization": "latin_american",
+  "traditions": [
+    "latin_american_liberalism",
+    "legal_humanism"
+  ],
+  "periods": [
+    "seed_w9"
+  ],
+  "themes": [
+    "politics",
+    "language",
+    "knowledge"
+  ],
+  "keywordsZh": [
+    "法律",
+    "语言规范",
+    "教育"
+  ],
+  "oneLineZh": "委内瑞拉—智利思想家，以法律、教育和语言工程参与独立后国家建构。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "贝略是独立后拉美文化与制度建设的重要人物，连接法律秩序、教育制度和美洲西班牙语规范化问题。seed 档保留其在拉美19世纪文化解放与国家建构中的身份层位置。",
+  "works": [
+    "andres-bello-principles-international-law",
+    "andres-bello-grammar"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S002",
+      "url": "https://iep.utm.edu/latin-am/",
+      "noteZh": "IEP Latin American Philosophy 条目将 Bello 列为19世纪精神/文化解放一代的重要人物。"
+    }
+  ]
+}

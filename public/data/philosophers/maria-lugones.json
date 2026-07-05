@@ -1,0 +1,46 @@
+{
+  "id": "maria-lugones",
+  "tier": "seed",
+  "names": {
+    "zh": "玛丽亚·卢戈内斯",
+    "en": "María Lugones"
+  },
+  "life": {
+    "birth": 1944,
+    "death": 2020,
+    "display": "1944—2020"
+  },
+  "civilization": "latin_american",
+  "traditions": [
+    "decolonial_feminism",
+    "feminist_philosophy"
+  ],
+  "periods": [
+    "seed_w9"
+  ],
+  "themes": [
+    "justice",
+    "politics",
+    "knowledge"
+  ],
+  "keywordsZh": [
+    "性别殖民性",
+    "去殖民女性主义",
+    "交叉压迫"
+  ],
+  "oneLineZh": "阿根廷裔女性主义哲学家，以性别殖民性理论推进去殖民女性主义。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "卢戈内斯把去殖民理论、女性主义和交叉压迫分析结合起来，提出性别殖民性问题，是拉美去殖民女性主义的重要人物。本条仅作 seed 身份层。",
+  "works": [
+    "maria-lugones-coloniality-gender",
+    "maria-lugones-pilgrimages"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S005",
+      "url": "https://plato.stanford.edu/entries/feminism-latin-america/",
+      "noteZh": "SEP Feminist Philosophy in Latin America and Spain 条目用于核验 Lugones 在去殖民女性主义和性别殖民性问题中的位置。"
+    }
+  ]
+}

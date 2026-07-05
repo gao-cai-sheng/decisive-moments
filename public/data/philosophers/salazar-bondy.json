@@ -1,0 +1,46 @@
+{
+  "id": "salazar-bondy",
+  "tier": "seed",
+  "names": {
+    "zh": "奥古斯托·萨拉萨尔·邦迪",
+    "en": "Augusto Salazar Bondy"
+  },
+  "life": {
+    "birth": 1925,
+    "death": 1974,
+    "display": "1925—1974"
+  },
+  "civilization": "latin_american",
+  "traditions": [
+    "philosophy_of_liberation",
+    "peruvian_philosophy"
+  ],
+  "periods": [
+    "seed_w9"
+  ],
+  "themes": [
+    "politics",
+    "knowledge",
+    "freedom"
+  ],
+  "keywordsZh": [
+    "我们美洲有哲学吗",
+    "真实性",
+    "依附"
+  ],
+  "oneLineZh": "秘鲁哲学家，以拉美哲学真实性问题开启与 Zea 的经典争论。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "萨拉萨尔·邦迪以《我们美洲有哲学吗？》质疑依附结构下拉美哲学的真实性，是解放哲学前史与拉美哲学自我反思的重要人物。本条仅作 seed 身份层。",
+  "works": [
+    "salazar-bondy-existe-filosofia-america",
+    "salazar-bondy-dominacion-liberacion"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S001",
+      "url": "https://plato.stanford.edu/entries/liberation/",
+      "noteZh": "SEP Philosophy of Liberation 条目用于核验 Salazar Bondy 与拉美哲学真实性/解放哲学前史的关系。"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": "alberdi",
+  "tier": "seed",
+  "names": {
+    "zh": "胡安·B·阿尔韦迪",
+    "en": "Juan Bautista Alberdi"
+  },
+  "life": {
+    "birth": 1810,
+    "death": 1884,
+    "display": "1810—1884"
+  },
+  "civilization": "latin_american",
+  "traditions": [
+    "latin_american_liberalism",
+    "constitutionalism"
+  ],
+  "periods": [
+    "seed_w9"
+  ],
+  "themes": [
+    "politics",
+    "freedom",
+    "justice"
+  ],
+  "keywordsZh": [
+    "阿根廷宪政",
+    "治理即移民",
+    "美洲哲学"
+  ],
+  "oneLineZh": "阿根廷自由主义与宪政思想家，提出国家组织和美洲哲学的现实任务。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "阿尔韦迪把哲学、法学和政治经济问题直接连到独立后阿根廷的制度组织，尤其以《基础与出发点》影响1853年宪法。seed 档记录其拉美自由主义与宪政思想锚点身份。",
+  "works": [
+    "alberdi-bases",
+    "alberdi-fragmento-derecho"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S002",
+      "url": "https://iep.utm.edu/latin-am/",
+      "noteZh": "IEP Latin American Philosophy 条目说明 Alberdi 对美洲哲学任务和阿根廷1853年宪法基础的思想史位置。"
+    }
+  ]
+}

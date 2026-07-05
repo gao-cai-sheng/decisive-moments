@@ -1,0 +1,46 @@
+{
+  "id": "samuel-ramos",
+  "tier": "seed",
+  "names": {
+    "zh": "萨穆埃尔·拉莫斯",
+    "en": "Samuel Ramos"
+  },
+  "life": {
+    "birth": 1897,
+    "death": 1959,
+    "display": "1897—1959"
+  },
+  "civilization": "latin_american",
+  "traditions": [
+    "mexican_philosophy",
+    "philosophy_of_identity"
+  ],
+  "periods": [
+    "seed_w9"
+  ],
+  "themes": [
+    "knowledge",
+    "ethics",
+    "politics"
+  ],
+  "keywordsZh": [
+    "墨西哥人的轮廓",
+    "墨西哥性",
+    "民族性格"
+  ],
+  "oneLineZh": "墨西哥身份哲学代表，《墨西哥人的轮廓》分析民族性格与文化自我认识。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "拉莫斯以《墨西哥人的轮廓》进入拉美身份哲学，尝试把心理、教育和文化史问题转化为墨西哥自我认识问题。因关系上限，本批不挂 Ortega。本条仅作 seed 身份层。",
+  "works": [
+    "samuel-ramos-profile-man-culture-mexico",
+    "samuel-ramos-history-philosophy-mexico"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S002",
+      "url": "https://iep.utm.edu/latin-am/",
+      "noteZh": "IEP Latin American Philosophy 条目用于核验 Ramos 与 lo mexicano / 墨西哥身份哲学的关系。"
+    }
+  ]
+}

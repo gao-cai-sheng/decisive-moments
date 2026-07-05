@@ -1,0 +1,46 @@
+{
+  "id": "antonio-caso",
+  "tier": "seed",
+  "names": {
+    "zh": "安东尼奥·卡索",
+    "en": "Antonio Caso"
+  },
+  "life": {
+    "birth": 1883,
+    "death": 1946,
+    "display": "1883—1946"
+  },
+  "civilization": "latin_american",
+  "traditions": [
+    "mexican_philosophy",
+    "anti_positivism"
+  ],
+  "periods": [
+    "seed_w9"
+  ],
+  "themes": [
+    "ethics",
+    "life_death",
+    "knowledge"
+  ],
+  "keywordsZh": [
+    "青年学会",
+    "反实证主义",
+    "生命哲学"
+  ],
+  "oneLineZh": "墨西哥反实证主义思想家，以生命、伦理和人格问题反拨孔德式知识秩序。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "安东尼奥·卡索是墨西哥青年学会一代的核心人物之一，代表20世纪初墨西哥哲学从实证主义转向生命、价值和人格问题的过程。本条仅作 seed 身份层。",
+  "works": [
+    "antonio-caso-existencia-economia-caridad",
+    "antonio-caso-problema-mexico"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S002",
+      "url": "https://iep.utm.edu/latin-am/",
+      "noteZh": "IEP Latin American Philosophy 条目用于核验 Caso 在墨西哥反实证主义和青年学会语境中的位置。"
+    }
+  ]
+}

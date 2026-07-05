@@ -9043,5 +9043,401 @@
     "titleEn": "The Faith of Maimonides",
     "yearDisplay": "20世纪",
     "noteZh": "莱博维茨关于迈蒙尼德宗教哲学诠释的核心关联文本。"
+  },
+  {
+    "id": "las-casas-brief-account",
+    "philosopherId": "las-casas",
+    "titleZh": "《西印度毁灭述略》",
+    "titleEn": "A Short Account of the Destruction of the Indies",
+    "originalTitle": "Brevísima relación de la destrucción de las Indias",
+    "yearDisplay": "1552",
+    "noteZh": "拉斯·卡萨斯控诉征服暴力和殖民虐待的代表性文本。"
+  },
+  {
+    "id": "las-casas-apologetica-historia",
+    "philosopherId": "las-casas",
+    "titleZh": "《护教性简史》",
+    "titleEn": "Apologetic History Summary",
+    "originalTitle": "Apologética historia sumaria",
+    "yearDisplay": "16世纪",
+    "noteZh": "围绕美洲原住民社会、理性与人性地位展开的护教与人类学论述。"
+  },
+  {
+    "id": "andres-bello-principles-international-law",
+    "philosopherId": "andres-bello",
+    "titleZh": "《国际法原理》",
+    "titleEn": "Principles of International Law",
+    "originalTitle": "Principios de derecho de jentes",
+    "yearDisplay": "1832",
+    "noteZh": "贝略关于国际法和共和国间秩序的代表性法学著作。"
+  },
+  {
+    "id": "andres-bello-grammar",
+    "philosopherId": "andres-bello",
+    "titleZh": "《美洲人使用的西班牙语语法》",
+    "titleEn": "Grammar of the Castilian Language Intended for the Use of Americans",
+    "originalTitle": "Gramática de la lengua castellana destinada al uso de los americanos",
+    "yearDisplay": "1847",
+    "noteZh": "美洲西班牙语规范化和文化自主建设的重要文本。"
+  },
+  {
+    "id": "simon-rodriguez-sociedades-americanas",
+    "philosopherId": "simon-rodriguez",
+    "titleZh": "《美洲社会》",
+    "titleEn": "American Societies",
+    "originalTitle": "Sociedades americanas",
+    "yearDisplay": "1828起",
+    "noteZh": "罗德里格斯关于独立后美洲社会、教育和共和国建构的代表作。"
+  },
+  {
+    "id": "simon-rodriguez-luces-virtudes-sociales",
+    "philosopherId": "simon-rodriguez",
+    "titleZh": "《光明与社会德性》",
+    "titleEn": "Lights and Social Virtues",
+    "originalTitle": "Luces y virtudes sociales",
+    "yearDisplay": "1840",
+    "noteZh": "以教育和社会德性为中心的共和改革文本。"
+  },
+  {
+    "id": "alberdi-bases",
+    "philosopherId": "alberdi",
+    "titleZh": "《阿根廷共和国政治组织的基础与出发点》",
+    "titleEn": "Bases and Points of Departure for the Political Organization of the Argentine Republic",
+    "originalTitle": "Bases y puntos de partida para la organización política de la República Argentina",
+    "yearDisplay": "1852",
+    "noteZh": "阿尔韦迪影响阿根廷1853年宪法的代表性宪政文本。"
+  },
+  {
+    "id": "alberdi-fragmento-derecho",
+    "philosopherId": "alberdi",
+    "titleZh": "《法学研究初步片论》",
+    "titleEn": "Preliminary Fragment to the Study of Law",
+    "originalTitle": "Fragmento preliminar al estudio del derecho",
+    "yearDisplay": "1837",
+    "noteZh": "阿尔韦迪早期关于法学、历史和社会问题的思想文本。"
+  },
+  {
+    "id": "sarmiento-facundo",
+    "philosopherId": "sarmiento",
+    "titleZh": "《法昆多：文明与野蛮》",
+    "titleEn": "Facundo: Civilization and Barbarism",
+    "originalTitle": "Facundo: Civilización y barbarie",
+    "yearDisplay": "1845",
+    "noteZh": "以文明/野蛮框架分析阿根廷政治社会结构的经典文本。"
+  },
+  {
+    "id": "sarmiento-conflicto-armonias",
+    "philosopherId": "sarmiento",
+    "titleZh": "《美洲种族的冲突与和谐》",
+    "titleEn": "Conflict and Harmonies of the Races in America",
+    "originalTitle": "Conflicto y armonías de las razas en América",
+    "yearDisplay": "1883",
+    "noteZh": "萨米恩托晚年关于种族、文明和美洲社会发展的论述。"
+  },
+  {
+    "id": "hostos-moral-social",
+    "philosopherId": "hostos",
+    "titleZh": "《社会道德》",
+    "titleEn": "Social Morality",
+    "originalTitle": "Moral social",
+    "yearDisplay": "1888",
+    "noteZh": "奥斯托斯以社会伦理和教育为核心的代表作。"
+  },
+  {
+    "id": "hostos-peregrinacion-bayoan",
+    "philosopherId": "hostos",
+    "titleZh": "《巴约安的朝圣》",
+    "titleEn": "The Pilgrimage of Bayoán",
+    "originalTitle": "La peregrinación de Bayoán",
+    "yearDisplay": "1863",
+    "noteZh": "以文学形式表达加勒比身份、殖民处境和政治觉醒的早期文本。"
+  },
+  {
+    "id": "gabino-barreda-oracion-civica",
+    "philosopherId": "gabino-barreda",
+    "titleZh": "《公民演说》",
+    "titleEn": "Civic Oration",
+    "originalTitle": "Oración cívica",
+    "yearDisplay": "1867",
+    "noteZh": "巴雷达把孔德实证主义引入墨西哥国家教育和社会重建论述的标志性演说。"
+  },
+  {
+    "id": "gabino-barreda-educacion-moral",
+    "philosopherId": "gabino-barreda",
+    "titleZh": "《论道德教育》",
+    "titleEn": "On Moral Education",
+    "originalTitle": "De la educación moral",
+    "yearDisplay": "1863",
+    "noteZh": "巴雷达关于教育、道德训练和社会秩序的早期文本。"
+  },
+  {
+    "id": "jose-marti-nuestra-america",
+    "philosopherId": "jose-marti",
+    "titleZh": "《我们的美洲》",
+    "titleEn": "Our America",
+    "originalTitle": "Nuestra América",
+    "yearDisplay": "1891",
+    "noteZh": "马蒂关于美洲主体性、反殖民与反帝国主义的核心散文。"
+  },
+  {
+    "id": "jose-marti-escenas-norteamericanas",
+    "philosopherId": "jose-marti",
+    "titleZh": "《北美场景》",
+    "titleEn": "North American Scenes",
+    "originalTitle": "Escenas norteamericanas",
+    "yearDisplay": "1880年代",
+    "noteZh": "马蒂观察美国政治社会与现代文明问题的散文系列。"
+  },
+  {
+    "id": "rodo-ariel",
+    "philosopherId": "jose-enrique-rodo",
+    "titleZh": "《爱丽尔》",
+    "titleEn": "Ariel",
+    "originalTitle": "Ariel",
+    "yearDisplay": "1900",
+    "noteZh": "罗多以莎士比亚意象建构拉美青年审美—伦理教育的代表作。"
+  },
+  {
+    "id": "rodo-motivos-proteo",
+    "philosopherId": "jose-enrique-rodo",
+    "titleZh": "《普罗透斯的动机》",
+    "titleEn": "Motives of Proteus",
+    "originalTitle": "Motivos de Proteo",
+    "yearDisplay": "1909",
+    "noteZh": "罗多关于人格形成、变化和精神修养的散文著作。"
+  },
+  {
+    "id": "antonio-caso-existencia-economia-caridad",
+    "philosopherId": "antonio-caso",
+    "titleZh": "《作为经济、无私和慈善的存在》",
+    "titleEn": "Existence as Economy, as Disinterest, and as Charity",
+    "originalTitle": "La existencia como economía, como desinterés y como caridad",
+    "yearDisplay": "1916",
+    "noteZh": "卡索反拨功利主义和实证主义的人格伦理文本。"
+  },
+  {
+    "id": "antonio-caso-problema-mexico",
+    "philosopherId": "antonio-caso",
+    "titleZh": "《墨西哥问题与民族意识形态》",
+    "titleEn": "The Problem of Mexico and National Ideology",
+    "originalTitle": "El problema de México y la ideología nacional",
+    "yearDisplay": "1924",
+    "noteZh": "卡索关于墨西哥社会问题和民族意识的政治文化文本。"
+  },
+  {
+    "id": "jose-vasconcelos-raza-cosmica",
+    "philosopherId": "jose-vasconcelos",
+    "titleZh": "《宇宙种族》",
+    "titleEn": "The Cosmic Race",
+    "originalTitle": "La raza cósmica",
+    "yearDisplay": "1925",
+    "noteZh": "巴斯孔塞洛斯关于美洲混血、未来人类和文化使命的代表作。"
+  },
+  {
+    "id": "jose-vasconcelos-estetica",
+    "philosopherId": "jose-vasconcelos",
+    "titleZh": "《美学》",
+    "titleEn": "Aesthetics",
+    "originalTitle": "Estética",
+    "yearDisplay": "1935",
+    "noteZh": "巴斯孔塞洛斯精神主义美学体系的重要文本。"
+  },
+  {
+    "id": "alejandro-korn-libertad-creadora",
+    "philosopherId": "alejandro-korn",
+    "titleZh": "《创造性自由》",
+    "titleEn": "Creative Freedom",
+    "originalTitle": "La libertad creadora",
+    "yearDisplay": "1922",
+    "noteZh": "科恩关于自由、价值和反决定论的代表作。"
+  },
+  {
+    "id": "alejandro-korn-influencias-filosoficas",
+    "philosopherId": "alejandro-korn",
+    "titleZh": "《阿根廷民族演化中的哲学影响》",
+    "titleEn": "Philosophical Influences in the National Evolution of Argentina",
+    "originalTitle": "Influencias filosóficas en la evolución nacional",
+    "yearDisplay": "1936",
+    "noteZh": "科恩梳理阿根廷思想史和哲学受容的代表性文本。"
+  },
+  {
+    "id": "samuel-ramos-profile-man-culture-mexico",
+    "philosopherId": "samuel-ramos",
+    "titleZh": "《墨西哥人的轮廓与文化》",
+    "titleEn": "Profile of Man and Culture in Mexico",
+    "originalTitle": "El perfil del hombre y la cultura en México",
+    "yearDisplay": "1934",
+    "noteZh": "拉莫斯关于墨西哥民族性格、文化心理和自我认识的核心著作。"
+  },
+  {
+    "id": "samuel-ramos-history-philosophy-mexico",
+    "philosopherId": "samuel-ramos",
+    "titleZh": "《墨西哥哲学史》",
+    "titleEn": "History of Philosophy in Mexico",
+    "originalTitle": "Historia de la filosofía en México",
+    "yearDisplay": "1943",
+    "noteZh": "拉莫斯关于墨西哥哲学传统的历史整理文本。"
+  },
+  {
+    "id": "francisco-romero-teoria-del-hombre",
+    "philosopherId": "francisco-romero",
+    "titleZh": "《人的理论》",
+    "titleEn": "Theory of Man",
+    "originalTitle": "Teoría del hombre",
+    "yearDisplay": "1952",
+    "noteZh": "罗梅罗关于人格、精神生命和人学问题的代表作。"
+  },
+  {
+    "id": "francisco-romero-filosofia-persona",
+    "philosopherId": "francisco-romero",
+    "titleZh": "《人的哲学》",
+    "titleEn": "Philosophy of the Person",
+    "originalTitle": "Filosofía de la persona",
+    "yearDisplay": "1944",
+    "noteZh": "罗梅罗围绕人格和精神存在展开的哲学文本。"
+  },
+  {
+    "id": "risieri-frondizi-what-is-value",
+    "philosopherId": "risieri-frondizi",
+    "titleZh": "《价值是什么？》",
+    "titleEn": "What Is Value?",
+    "originalTitle": "¿Qué son los valores?",
+    "yearDisplay": "1958",
+    "noteZh": "弗龙迪西关于价值论的代表性著作。"
+  },
+  {
+    "id": "risieri-frondizi-substancialidad-yo",
+    "philosopherId": "risieri-frondizi",
+    "titleZh": "《自我的实体性》",
+    "titleEn": "The Substantiality of the Self",
+    "originalTitle": "La substancialidad del yo",
+    "yearDisplay": "1952",
+    "noteZh": "弗龙迪西关于自我、经验和形而上学问题的著作。"
+  },
+  {
+    "id": "salazar-bondy-existe-filosofia-america",
+    "philosopherId": "salazar-bondy",
+    "titleZh": "《我们美洲有哲学吗？》",
+    "titleEn": "Does a Philosophy of Our America Exist?",
+    "originalTitle": "¿Existe una filosofía de nuestra América?",
+    "yearDisplay": "1968",
+    "noteZh": "萨拉萨尔·邦迪提出拉美哲学真实性与依附问题的代表作。"
+  },
+  {
+    "id": "salazar-bondy-dominacion-liberacion",
+    "philosopherId": "salazar-bondy",
+    "titleZh": "《统治与解放文集》",
+    "titleEn": "Domination and Liberation",
+    "originalTitle": "Dominación y liberación",
+    "yearDisplay": "20世纪后期",
+    "noteZh": "围绕拉美依附、统治结构和解放任务的论述集合。"
+  },
+  {
+    "id": "ignacio-ellacuria-filosofia-realidad-historica",
+    "philosopherId": "ignacio-ellacuria",
+    "titleZh": "《历史现实哲学》",
+    "titleEn": "Philosophy of Historical Reality",
+    "originalTitle": "Filosofía de la realidad histórica",
+    "yearDisplay": "1990",
+    "noteZh": "埃拉库里亚关于历史现实、实践和解放任务的核心哲学著作。"
+  },
+  {
+    "id": "ignacio-ellacuria-utopia-profetismo",
+    "philosopherId": "ignacio-ellacuria",
+    "titleZh": "《从拉丁美洲出发的乌托邦与先知性》",
+    "titleEn": "Utopia and Prophetism from Latin America",
+    "originalTitle": "Utopía y profetismo desde América Latina",
+    "yearDisplay": "20世纪后期",
+    "noteZh": "连接解放神学、历史实践和拉美政治现实的代表性文本。"
+  },
+  {
+    "id": "gustavo-gutierrez-theology-liberation",
+    "philosopherId": "gustavo-gutierrez",
+    "titleZh": "《解放神学》",
+    "titleEn": "A Theology of Liberation",
+    "originalTitle": "Teología de la liberación",
+    "yearDisplay": "1971",
+    "noteZh": "古铁雷斯奠定拉美解放神学问题框架的代表作。"
+  },
+  {
+    "id": "gustavo-gutierrez-power-poor",
+    "philosopherId": "gustavo-gutierrez",
+    "titleZh": "《穷人的力量》",
+    "titleEn": "The Power of the Poor in History",
+    "originalTitle": "La fuerza histórica de los pobres",
+    "yearDisplay": "1979",
+    "noteZh": "围绕穷人主体性、历史实践和解放神学政治含义的文本。"
+  },
+  {
+    "id": "rodolfo-kusch-america-profunda",
+    "philosopherId": "rodolfo-kusch",
+    "titleZh": "《深层美洲》",
+    "titleEn": "Deep America (América Profunda)",
+    "originalTitle": "América profunda",
+    "yearDisplay": "1962",
+    "noteZh": "库什关于美洲原住民世界、在场和欧洲化存在论批判的代表作。"
+  },
+  {
+    "id": "rodolfo-kusch-indigenous-popular-america",
+    "philosopherId": "rodolfo-kusch",
+    "titleZh": "《美洲的原住民与大众思想》",
+    "titleEn": "Indigenous and Popular Thought in America",
+    "originalTitle": "El pensamiento indígena y popular en América",
+    "yearDisplay": "1970",
+    "noteZh": "库什讨论原住民和大众思想结构的关键文本。"
+  },
+  {
+    "id": "anibal-quijano-coloniality-power",
+    "philosopherId": "anibal-quijano",
+    "titleZh": "《权力的殖民性、欧洲中心主义与拉丁美洲》",
+    "titleEn": "Coloniality of Power, Eurocentrism, and Latin America",
+    "originalTitle": "Colonialidad del poder, eurocentrismo y América Latina",
+    "yearDisplay": "2000",
+    "noteZh": "基哈诺提出权力殖民性概念的核心论文。"
+  },
+  {
+    "id": "anibal-quijano-modernity-identity-utopia",
+    "philosopherId": "anibal-quijano",
+    "titleZh": "《现代性、身份与拉丁美洲乌托邦》",
+    "titleEn": "Modernity, Identity, and Utopia in Latin America",
+    "originalTitle": "Modernidad, identidad y utopía en América Latina",
+    "yearDisplay": "1988",
+    "noteZh": "基哈诺关于现代性、身份和拉美历史想象的代表性著作。"
+  },
+  {
+    "id": "maria-lugones-coloniality-gender",
+    "philosopherId": "maria-lugones",
+    "titleZh": "《走向去殖民女性主义》",
+    "titleEn": "Toward a Decolonial Feminism",
+    "originalTitle": "Toward a Decolonial Feminism",
+    "yearDisplay": "2010",
+    "noteZh": "卢戈内斯提出去殖民女性主义和性别殖民性分析的代表性论文。"
+  },
+  {
+    "id": "maria-lugones-pilgrimages",
+    "philosopherId": "maria-lugones",
+    "titleZh": "《朝圣/行旅》",
+    "titleEn": "Pilgrimages/Peregrinajes",
+    "originalTitle": "Pilgrimages/Peregrinajes: Theorizing Coalition Against Multiple Oppressions",
+    "yearDisplay": "2003",
+    "noteZh": "卢戈内斯关于联盟、身份和多重压迫理论的重要著作。"
+  },
+  {
+    "id": "octavio-paz-labyrinth-solitude",
+    "philosopherId": "octavio-paz",
+    "titleZh": "《孤独的迷宫》",
+    "titleEn": "The Labyrinth of Solitude",
+    "originalTitle": "El laberinto de la soledad",
+    "yearDisplay": "1950",
+    "noteZh": "帕斯分析墨西哥身份、孤独与现代性的代表性思想散文。"
+  },
+  {
+    "id": "octavio-paz-other-voice",
+    "philosopherId": "octavio-paz",
+    "titleZh": "《另一个声音》",
+    "titleEn": "The Other Voice",
+    "originalTitle": "La otra voz",
+    "yearDisplay": "1990",
+    "noteZh": "帕斯关于诗、现代性和公共生活的思想文本。"
   }
 ]
