@@ -10,6 +10,7 @@
     "test": "vitest run --passWithNoTests",
     "test:watch": "vitest",
     "test:smoke": "playwright test",
+    "sync:dist": "node tools/sync-dist-data.mjs",
     "validate:data": "node tools/validate-data.mjs",
     "validate:kimi": "node tools/validate-kimi-research.mjs",
     "admit:kimi": "node tools/admit-kimi-thought-systems.mjs",
