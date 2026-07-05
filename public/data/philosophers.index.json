@@ -14325,7 +14325,8 @@
       "tibetan_buddhism"
     ],
     "periods": [
-      "medieval"
+      "medieval",
+      "tibetan_early_dissemination"
     ],
     "themes": [
       "religion",
@@ -14358,7 +14359,8 @@
       "tibetan_buddhism"
     ],
     "periods": [
-      "medieval"
+      "medieval",
+      "tibetan_early_dissemination"
     ],
     "themes": [
       "religion",
@@ -14391,7 +14393,8 @@
       "tibetan_buddhism"
     ],
     "periods": [
-      "medieval"
+      "medieval",
+      "tibetan_later_dissemination"
     ],
     "themes": [
       "religion",
@@ -14424,7 +14427,8 @@
       "tibetan_buddhism"
     ],
     "periods": [
-      "medieval"
+      "medieval",
+      "tibetan_later_dissemination"
     ],
     "themes": [
       "religion",
@@ -14458,7 +14462,8 @@
       "tibetan_buddhism"
     ],
     "periods": [
-      "medieval"
+      "medieval",
+      "tibetan_later_dissemination"
     ],
     "themes": [
       "religion",
@@ -14491,7 +14496,8 @@
       "buddhist_epistemology"
     ],
     "periods": [
-      "medieval"
+      "medieval",
+      "tibetan_later_dissemination"
     ],
     "themes": [
       "knowledge",
@@ -14524,7 +14530,8 @@
       "dzogchen"
     ],
     "periods": [
-      "medieval"
+      "medieval",
+      "tibetan_later_dissemination"
     ],
     "themes": [
       "religion",
@@ -14557,7 +14564,8 @@
       "madhyamaka"
     ],
     "periods": [
-      "medieval"
+      "medieval",
+      "tibetan_later_dissemination"
     ],
     "themes": [
       "religion",
@@ -14590,7 +14598,8 @@
       "tibetan_buddhism"
     ],
     "periods": [
-      "medieval"
+      "medieval",
+      "tibetan_later_dissemination"
     ],
     "themes": [
       "religion",
@@ -14623,7 +14632,8 @@
       "madhyamaka"
     ],
     "periods": [
-      "medieval"
+      "medieval",
+      "tibetan_later_dissemination"
     ],
     "themes": [
       "religion",
@@ -14656,7 +14666,8 @@
       "tibetan_buddhist_history"
     ],
     "periods": [
-      "medieval"
+      "medieval",
+      "tibetan_later_dissemination"
     ],
     "themes": [
       "religion",
@@ -14690,7 +14701,8 @@
       "nyingma"
     ],
     "periods": [
-      "modern"
+      "modern",
+      "tibetan_modern"
     ],
     "themes": [
       "religion",
@@ -14723,7 +14735,8 @@
       "rime"
     ],
     "periods": [
-      "modern"
+      "modern",
+      "tibetan_modern"
     ],
     "themes": [
       "knowledge",
@@ -14755,7 +14768,8 @@
       "modern_buddhist_philosophy"
     ],
     "periods": [
-      "contemporary"
+      "contemporary",
+      "tibetan_modern"
     ],
     "themes": [
       "religion",

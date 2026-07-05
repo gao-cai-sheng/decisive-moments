@@ -16,7 +16,8 @@
     "rime"
   ],
   "periods": [
-    "modern"
+    "modern",
+    "tibetan_modern"
   ],
   "themes": [
     "knowledge",
