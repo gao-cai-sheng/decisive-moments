@@ -17486,7 +17486,7 @@
   },
   {
     "id": "zoroaster",
-    "tier": "seed",
+    "tier": "standard",
     "names": {
       "zh": "琐罗亚斯德（查拉图斯特拉）",
       "en": "Zoroaster",
@@ -17494,7 +17494,7 @@
     },
     "life": {
       "birth": -1000,
-      "display": "约前1000？—断代争议"
+      "display": "约前1000（断代争议，另有前600等说）"
     },
     "civilization": "persian",
     "traditions": [
