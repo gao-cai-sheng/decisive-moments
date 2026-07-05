@@ -100,6 +100,12 @@ function isPlaceholderWorkId(id) {
   return /(?:primary-work|placeholder|candidate)$/i.test(id || "");
 }
 
+function assertKnownThemeIds(philosopher, validThemeIds) {
+  for (const themeId of philosopher.themes ?? []) {
+    assert(validThemeIds.has(themeId), philosopher.id + " uses unknown themeId: " + themeId);
+  }
+}
+
 function assertSeedIdentity(philosopher, relationships, worksById) {
   assert(!philosopher.thoughtSystem, "seed tier cannot include thoughtSystem: " + philosopher.id);
   assert(Array.isArray(philosopher.sourceNotes) && philosopher.sourceNotes.length > 0, philosopher.id + " seed tier needs sourceNotes");
@@ -171,11 +177,17 @@ export function admitKimiBatch(options) {
   const works = readJson(worksFile);
   const relationships = readJson(relationshipsFile);
 
+  const themesFile = path.join(normalized.dataDir, "themes.json");
+  const validThemeIds = new Set(readJson(themesFile).map((item) => item.id));
+
   const existingPhilosopherIds = new Set(philosophersIndex.map((item) => item.id));
   const allPhilosopherIds = new Set([...existingPhilosopherIds, ...proposedPhilosopherIds]);
   for (const relationship of proposedRelationships) {
     assert(allPhilosopherIds.has(relationship.from), "relationship " + relationship.id + " has unknown from: " + relationship.from);
     assert(allPhilosopherIds.has(relationship.to), "relationship " + relationship.id + " has unknown to: " + relationship.to);
+    for (const themeId of relationship.themeIds ?? []) {
+      assert(validThemeIds.has(themeId), "relationship " + relationship.id + " uses unknown themeId: " + themeId);
+    }
   }
 
   const workIds = new Set(works.map((item) => item.id));
@@ -196,6 +208,7 @@ export function admitKimiBatch(options) {
         }
       : { ...item, thoughtSystem: undefined };
     const parsed = philosopherSchema.parse(payload);
+    assertKnownThemeIds(parsed, validThemeIds);
     if (normalized.tier === "standard") assertKnownWorkIds(parsed, worksById);
     else assertSeedIdentity(parsed, proposedRelationships, worksById);
     return parsed;

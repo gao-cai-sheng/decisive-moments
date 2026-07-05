@@ -152,4 +152,11 @@ describe("Plan B seed tier gates", () => {
 
     expect(() => admitKimiBatch({ batchDir, dataDir: path.join(dataRoot, "public/data"), tier: "seed" })).toThrow(/sourceNotes/i);
   });
+
+  it("admit --tier seed rejects out-of-whitelist themeId at the write gate", () => {
+    const dataRoot = makeDataDir([standardPhilosopher()]);
+    const batchDir = makeSeedBatch({ philosopher: { themes: ["history"] } });
+
+    expect(() => admitKimiBatch({ batchDir, dataDir: path.join(dataRoot, "public/data"), tier: "seed" })).toThrow(/unknown themeId: history/i);
+  });
 });
