@@ -9079,5 +9079,759 @@
     ],
     "noteZh": "W2 seed 身份层挂接：`cornelius-castoriadis` 与 `habermas` 围绕 freedom 主题构成 shared_problem 关系，供后续标准档研究复核。",
     "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w3-b1-001-cournot-comte-reception",
+    "from": "cournot",
+    "to": "comte",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "knowledge"
+    ],
+    "noteZh": "W3 seed 身份层挂接：`cournot` 与 `comte` 围绕 knowledge 主题构成 reception 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w3-b1-002-cournot-mill-shared_problem",
+    "from": "cournot",
+    "to": "mill",
+    "type": "shared_problem",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "politics"
+    ],
+    "noteZh": "W3 seed 身份层挂接：`cournot` 与 `mill` 围绕 politics 主题构成 shared_problem 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w3-b1-003-poincare-russell-shared_problem",
+    "from": "poincare",
+    "to": "russell",
+    "type": "shared_problem",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "knowledge"
+    ],
+    "noteZh": "W3 seed 身份层挂接：`poincare` 与 `russell` 围绕 knowledge 主题构成 shared_problem 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w3-b1-004-poincare-bergson-shared_problem",
+    "from": "poincare",
+    "to": "bergson",
+    "type": "shared_problem",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "metaphysics"
+    ],
+    "noteZh": "W3 seed 身份层挂接：`poincare` 与 `bergson` 围绕 metaphysics 主题构成 shared_problem 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w3-b1-005-duhem-poincare-shared_problem",
+    "from": "duhem",
+    "to": "poincare",
+    "type": "shared_problem",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "knowledge"
+    ],
+    "noteZh": "W3 seed 身份层挂接：`duhem` 与 `poincare` 围绕 knowledge 主题构成 shared_problem 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w3-b1-006-duhem-quine-reception",
+    "from": "duhem",
+    "to": "quine",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "knowledge"
+    ],
+    "noteZh": "W3 seed 身份层挂接：`duhem` 与 `quine` 围绕 knowledge 主题构成 reception 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w3-b1-007-brunschvicg-kant-reception",
+    "from": "brunschvicg",
+    "to": "kant",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "knowledge"
+    ],
+    "noteZh": "W3 seed 身份层挂接：`brunschvicg` 与 `kant` 围绕 knowledge 主题构成 reception 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w3-b1-008-brunschvicg-cavailles-influence",
+    "from": "brunschvicg",
+    "to": "cavailles",
+    "type": "influence",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "knowledge"
+    ],
+    "noteZh": "W3 seed 身份层挂接：`brunschvicg` 与 `cavailles` 围绕 knowledge 主题构成 influence 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w3-b1-009-koyre-kuhn-influence",
+    "from": "koyre",
+    "to": "kuhn",
+    "type": "influence",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "knowledge"
+    ],
+    "noteZh": "W3 seed 身份层挂接：`koyre` 与 `kuhn` 围绕 knowledge 主题构成 influence 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w3-b1-010-koyre-husserl-reception",
+    "from": "koyre",
+    "to": "husserl",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "metaphysics"
+    ],
+    "noteZh": "W3 seed 身份层挂接：`koyre` 与 `husserl` 围绕 metaphysics 主题构成 reception 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w3-b1-011-bachelard-foucault-influence",
+    "from": "bachelard",
+    "to": "foucault",
+    "type": "influence",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "knowledge"
+    ],
+    "noteZh": "W3 seed 身份层挂接：`bachelard` 与 `foucault` 围绕 knowledge 主题构成 influence 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w3-b1-012-bergson-bachelard-critique",
+    "from": "bergson",
+    "to": "bachelard",
+    "type": "critique",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "metaphysics"
+    ],
+    "noteZh": "W3 seed 身份层挂接：`bergson` 与 `bachelard` 围绕 metaphysics 主题构成 critique 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w3-b1-013-bachelard-canguilhem-influence",
+    "from": "bachelard",
+    "to": "canguilhem",
+    "type": "influence",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "knowledge"
+    ],
+    "noteZh": "W3 seed 身份层挂接：`bachelard` 与 `canguilhem` 围绕 knowledge 主题构成 influence 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w3-b1-014-cavailles-husserl-critique",
+    "from": "cavailles",
+    "to": "husserl",
+    "type": "critique",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "knowledge"
+    ],
+    "noteZh": "W3 seed 身份层挂接：`cavailles` 与 `husserl` 围绕 knowledge 主题构成 critique 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w3-b1-015-cavailles-canguilhem-influence",
+    "from": "cavailles",
+    "to": "canguilhem",
+    "type": "influence",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "knowledge"
+    ],
+    "noteZh": "W3 seed 身份层挂接：`cavailles` 与 `canguilhem` 围绕 knowledge 主题构成 influence 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w3-b1-016-canguilhem-foucault-direct_student",
+    "from": "canguilhem",
+    "to": "foucault",
+    "type": "direct_student",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "knowledge"
+    ],
+    "noteZh": "W3 seed 身份层挂接：`canguilhem` 与 `foucault` 围绕 knowledge 主题构成 direct_student 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w3-b2-001-levi-strauss-rousseau-reception",
+    "from": "levi-strauss",
+    "to": "rousseau",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "politics"
+    ],
+    "noteZh": "W3 seed 身份层挂接：`levi-strauss` 与 `rousseau` 围绕 politics 主题构成 reception 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w3-b2-002-levi-strauss-sartre-critique",
+    "from": "levi-strauss",
+    "to": "sartre",
+    "type": "critique",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "freedom"
+    ],
+    "noteZh": "W3 seed 身份层挂接：`levi-strauss` 与 `sartre` 围绕 freedom 主题构成 critique 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w3-b2-003-levi-strauss-lacan-shared_problem",
+    "from": "levi-strauss",
+    "to": "lacan",
+    "type": "shared_problem",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "language"
+    ],
+    "noteZh": "W3 seed 身份层挂接：`levi-strauss` 与 `lacan` 围绕 language 主题构成 shared_problem 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w3-b2-004-lacan-alexandre-kojeve-influence",
+    "from": "lacan",
+    "to": "alexandre-kojeve",
+    "type": "influence",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "metaphysics"
+    ],
+    "noteZh": "W3 seed 身份层挂接：`lacan` 与 `alexandre-kojeve` 围绕 metaphysics 主题构成 influence 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w3-b2-005-lacan-hegel-reception",
+    "from": "lacan",
+    "to": "hegel",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "metaphysics"
+    ],
+    "noteZh": "W3 seed 身份层挂接：`lacan` 与 `hegel` 围绕 metaphysics 主题构成 reception 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w3-b2-006-bourdieu-weber-shared_problem",
+    "from": "bourdieu",
+    "to": "weber",
+    "type": "shared_problem",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "politics"
+    ],
+    "noteZh": "W3 seed 身份层挂接：`bourdieu` 与 `weber` 围绕 politics 主题构成 shared_problem 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w3-b2-007-bourdieu-marx-reception",
+    "from": "bourdieu",
+    "to": "marx",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "politics"
+    ],
+    "noteZh": "W3 seed 身份层挂接：`bourdieu` 与 `marx` 围绕 politics 主题构成 reception 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w3-b2-008-lyotard-wittgenstein-reception",
+    "from": "lyotard",
+    "to": "wittgenstein",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "language"
+    ],
+    "noteZh": "W3 seed 身份层挂接：`lyotard` 与 `wittgenstein` 围绕 language 主题构成 reception 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w3-b2-009-lyotard-kant-reception",
+    "from": "lyotard",
+    "to": "kant",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "aesthetics"
+    ],
+    "noteZh": "W3 seed 身份层挂接：`lyotard` 与 `kant` 围绕 aesthetics 主题构成 reception 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w3-b2-010-baudrillard-marx-critique",
+    "from": "baudrillard",
+    "to": "marx",
+    "type": "critique",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "politics"
+    ],
+    "noteZh": "W3 seed 身份层挂接：`baudrillard` 与 `marx` 围绕 politics 主题构成 critique 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w3-b2-011-baudrillard-foucault-critique",
+    "from": "baudrillard",
+    "to": "foucault",
+    "type": "critique",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "politics"
+    ],
+    "noteZh": "W3 seed 身份层挂接：`baudrillard` 与 `foucault` 围绕 politics 主题构成 critique 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w3-b2-012-michel-serres-leibniz-reception",
+    "from": "michel-serres",
+    "to": "leibniz",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "metaphysics"
+    ],
+    "noteZh": "W3 seed 身份层挂接：`michel-serres` 与 `leibniz` 围绕 metaphysics 主题构成 reception 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w3-b2-013-michel-serres-bergson-shared_problem",
+    "from": "michel-serres",
+    "to": "bergson",
+    "type": "shared_problem",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "metaphysics"
+    ],
+    "noteZh": "W3 seed 身份层挂接：`michel-serres` 与 `bergson` 围绕 metaphysics 主题构成 shared_problem 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w3-b2-014-bruno-latour-michel-serres-influence",
+    "from": "bruno-latour",
+    "to": "michel-serres",
+    "type": "influence",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "knowledge"
+    ],
+    "noteZh": "W3 seed 身份层挂接：`bruno-latour` 与 `michel-serres` 围绕 knowledge 主题构成 influence 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w3-b2-015-rene-girard-nietzsche-shared_problem",
+    "from": "rene-girard",
+    "to": "nietzsche",
+    "type": "shared_problem",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "ethics"
+    ],
+    "noteZh": "W3 seed 身份层挂接：`rene-girard` 与 `nietzsche` 围绕 ethics 主题构成 shared_problem 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w3-b2-016-rene-girard-hobbes-shared_problem",
+    "from": "rene-girard",
+    "to": "hobbes",
+    "type": "shared_problem",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "politics"
+    ],
+    "noteZh": "W3 seed 身份层挂接：`rene-girard` 与 `hobbes` 围绕 politics 主题构成 shared_problem 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w3-b2-017-bruno-latour-whitehead-reception",
+    "from": "bruno-latour",
+    "to": "whitehead",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "metaphysics"
+    ],
+    "noteZh": "W3 seed 身份层挂接：`bruno-latour` 与 `whitehead` 围绕 metaphysics 主题构成 reception 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w3-b2-018-bruno-latour-bourdieu-shared_problem",
+    "from": "bruno-latour",
+    "to": "bourdieu",
+    "type": "shared_problem",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "politics"
+    ],
+    "noteZh": "W3 seed 身份层挂接：`bruno-latour` 与 `bourdieu` 围绕 politics 主题构成 shared_problem 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w3-b2-019-claude-lefort-cornelius-castoriadis-school",
+    "from": "claude-lefort",
+    "to": "cornelius-castoriadis",
+    "type": "school",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "politics"
+    ],
+    "noteZh": "W3 seed 身份层挂接：`claude-lefort` 与 `cornelius-castoriadis` 围绕 politics 主题构成 school 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w3-b2-020-claude-lefort-machiavelli-reception",
+    "from": "claude-lefort",
+    "to": "machiavelli",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "politics"
+    ],
+    "noteZh": "W3 seed 身份层挂接：`claude-lefort` 与 `machiavelli` 围绕 politics 主题构成 reception 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w3-b2-021-claude-lefort-arendt-shared_problem",
+    "from": "claude-lefort",
+    "to": "arendt",
+    "type": "shared_problem",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "freedom"
+    ],
+    "noteZh": "W3 seed 身份层挂接：`claude-lefort` 与 `arendt` 围绕 freedom 主题构成 shared_problem 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w3-b2-022-badiou-deleuze-reception",
+    "from": "badiou",
+    "to": "deleuze",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "metaphysics"
+    ],
+    "noteZh": "W3 seed 身份层挂接（修复关系上限）：重指标准档锚点，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w3-b2-023-badiou-plato-reception",
+    "from": "badiou",
+    "to": "plato",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "metaphysics"
+    ],
+    "noteZh": "W3 seed 身份层挂接：`badiou` 与 `plato` 围绕 metaphysics 主题构成 reception 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w3-b2-024-badiou-ranciere-shared_problem",
+    "from": "badiou",
+    "to": "ranciere",
+    "type": "shared_problem",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "politics"
+    ],
+    "noteZh": "W3 seed 身份层挂接：`badiou` 与 `ranciere` 围绕 politics 主题构成 shared_problem 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w3-b2-025-ranciere-aristotle-critique",
+    "from": "ranciere",
+    "to": "aristotle",
+    "type": "critique",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "politics"
+    ],
+    "noteZh": "W3 seed 身份层挂接（修复关系上限）：重指标准档锚点，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w3-b2-026-ranciere-plato-critique",
+    "from": "ranciere",
+    "to": "plato",
+    "type": "critique",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "politics"
+    ],
+    "noteZh": "W3 seed 身份层挂接：`ranciere` 与 `plato` 围绕 politics 主题构成 critique 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w3-b2-027-jean-luc-nancy-derrida-influence",
+    "from": "jean-luc-nancy",
+    "to": "derrida",
+    "type": "influence",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "language"
+    ],
+    "noteZh": "W3 seed 身份层挂接：`jean-luc-nancy` 与 `derrida` 围绕 language 主题构成 influence 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w3-b2-028-jean-luc-nancy-heidegger-reception",
+    "from": "jean-luc-nancy",
+    "to": "heidegger",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "metaphysics"
+    ],
+    "noteZh": "W3 seed 身份层挂接：`jean-luc-nancy` 与 `heidegger` 围绕 metaphysics 主题构成 reception 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w3-b2-029-jean-luc-nancy-levinas-shared_problem",
+    "from": "jean-luc-nancy",
+    "to": "levinas",
+    "type": "shared_problem",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "ethics"
+    ],
+    "noteZh": "W3 seed 身份层挂接：`jean-luc-nancy` 与 `levinas` 围绕 ethics 主题构成 shared_problem 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w3-b3-001-raymond-aron-weber-reception",
+    "from": "raymond-aron",
+    "to": "weber",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "politics"
+    ],
+    "noteZh": "W3 seed 身份层挂接：`raymond-aron` 与 `weber` 围绕 politics 主题构成 reception 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w3-b3-002-raymond-aron-sartre-critique",
+    "from": "raymond-aron",
+    "to": "sartre",
+    "type": "critique",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "freedom"
+    ],
+    "noteZh": "W3 seed 身份层挂接：`raymond-aron` 与 `sartre` 围绕 freedom 主题构成 critique 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w3-b3-003-georges-bataille-nietzsche-reception",
+    "from": "georges-bataille",
+    "to": "nietzsche",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "life_death"
+    ],
+    "noteZh": "W3 seed 身份层挂接：`georges-bataille` 与 `nietzsche` 围绕 life_death 主题构成 reception 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w3-b3-004-georges-bataille-hegel-reception",
+    "from": "georges-bataille",
+    "to": "hegel",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "metaphysics"
+    ],
+    "noteZh": "W3 seed 身份层挂接：`georges-bataille` 与 `hegel` 围绕 metaphysics 主题构成 reception 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w3-b3-005-georges-bataille-maurice-blanchot-influence",
+    "from": "georges-bataille",
+    "to": "maurice-blanchot",
+    "type": "influence",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "aesthetics"
+    ],
+    "noteZh": "W3 seed 身份层挂接：`georges-bataille` 与 `maurice-blanchot` 围绕 aesthetics 主题构成 influence 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w3-b3-006-maurice-blanchot-levinas-shared_problem",
+    "from": "maurice-blanchot",
+    "to": "levinas",
+    "type": "shared_problem",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "ethics"
+    ],
+    "noteZh": "W3 seed 身份层挂接：`maurice-blanchot` 与 `levinas` 围绕 ethics 主题构成 shared_problem 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w3-b3-007-maurice-blanchot-derrida-influence",
+    "from": "maurice-blanchot",
+    "to": "derrida",
+    "type": "influence",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "language"
+    ],
+    "noteZh": "W3 seed 身份层挂接：`maurice-blanchot` 与 `derrida` 围绕 language 主题构成 influence 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w3-b3-008-jankelevitch-bergson-reception",
+    "from": "jankelevitch",
+    "to": "bergson",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "life_death"
+    ],
+    "noteZh": "W3 seed 身份层挂接：`jankelevitch` 与 `bergson` 围绕 life_death 主题构成 reception 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w3-b3-009-jankelevitch-schelling-reception",
+    "from": "jankelevitch",
+    "to": "schelling",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "freedom"
+    ],
+    "noteZh": "W3 seed 身份层挂接：`jankelevitch` 与 `schelling` 围绕 freedom 主题构成 reception 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w3-b3-010-etienne-gilson-aquinas-reception",
+    "from": "etienne-gilson",
+    "to": "aquinas",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "religion"
+    ],
+    "noteZh": "W3 seed 身份层挂接：`etienne-gilson` 与 `aquinas` 围绕 religion 主题构成 reception 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w3-b3-011-etienne-gilson-augustine-reception",
+    "from": "etienne-gilson",
+    "to": "augustine",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "religion"
+    ],
+    "noteZh": "W3 seed 身份层挂接（修复关系上限）：重指标准档锚点，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w3-b3-012-emmanuel-mounier-jacques-maritain-shared_problem",
+    "from": "emmanuel-mounier",
+    "to": "jacques-maritain",
+    "type": "shared_problem",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "politics"
+    ],
+    "noteZh": "W3 seed 身份层挂接：`emmanuel-mounier` 与 `jacques-maritain` 围绕 politics 主题构成 shared_problem 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w3-b3-013-emmanuel-mounier-gabriel-marcel-shared_problem",
+    "from": "emmanuel-mounier",
+    "to": "gabriel-marcel",
+    "type": "shared_problem",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "religion"
+    ],
+    "noteZh": "W3 seed 身份层挂接：`emmanuel-mounier` 与 `gabriel-marcel` 围绕 religion 主题构成 shared_problem 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
   }
 ]

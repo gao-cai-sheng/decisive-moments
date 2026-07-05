@@ -1,0 +1,45 @@
+{
+  "id": "baudrillard",
+  "tier": "seed",
+  "names": {
+    "zh": "让·鲍德里亚",
+    "en": "Jean Baudrillard"
+  },
+  "life": {
+    "birth": 1929,
+    "death": 2007,
+    "display": "1929—2007"
+  },
+  "civilization": "western",
+  "traditions": [
+    "poststructuralism",
+    "social_theory"
+  ],
+  "periods": [
+    "contemporary"
+  ],
+  "themes": [
+    "politics",
+    "aesthetics"
+  ],
+  "keywordsZh": [
+    "法国哲学",
+    "身份层",
+    "思想史补线"
+  ],
+  "oneLineZh": "拟像与消费社会。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "让·鲍德里亚（1929—2007）是 Seed W3 法国近现代—现当代二线哲人候选。其身份层入选理由为：拟像与消费社会。 本条仅作 seed 档基本定位，后续若升级标准档，必须重新做著作、论点与 evidence 研究。",
+  "works": [
+    "baudrillard-consumer-society",
+    "baudrillard-simulacra-and-simulation"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S005",
+      "url": "https://iep.utm.edu/baudrillard/",
+      "noteZh": "权威来源条目：IEP: Jean Baudrillard；用于核验人物身份、生卒、代表著作和思想史定位。"
+    }
+  ]
+}

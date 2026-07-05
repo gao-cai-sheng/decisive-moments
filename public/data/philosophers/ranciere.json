@@ -1,0 +1,44 @@
+{
+  "id": "ranciere",
+  "tier": "seed",
+  "names": {
+    "zh": "雅克·朗西埃",
+    "en": "Jacques Rancière"
+  },
+  "life": {
+    "birth": 1940,
+    "display": "1940—"
+  },
+  "civilization": "western",
+  "traditions": [
+    "political_philosophy",
+    "aesthetics"
+  ],
+  "periods": [
+    "contemporary"
+  ],
+  "themes": [
+    "politics",
+    "aesthetics"
+  ],
+  "keywordsZh": [
+    "法国哲学",
+    "身份层",
+    "思想史补线"
+  ],
+  "oneLineZh": "感性的分配与政治美学，接 althusser。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "雅克·朗西埃（1940—）是 Seed W3 法国近现代—现当代二线哲人候选。其身份层入选理由为：感性的分配与政治美学，接 althusser。 本条仅作 seed 档基本定位，后续若升级标准档，必须重新做著作、论点与 evidence 研究。",
+  "works": [
+    "ranciere-ignorant-schoolmaster",
+    "ranciere-disagreement"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S011",
+      "url": "https://www.rep.routledge.com/articles/biographical/ranciere-jacques-1940/v-1",
+      "noteZh": "权威来源条目：Routledge: Rancière, Jacques；用于核验人物身份、生卒、代表著作和思想史定位。"
+    }
+  ]
+}

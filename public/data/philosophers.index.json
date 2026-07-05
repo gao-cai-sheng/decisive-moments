@@ -12046,5 +12046,850 @@
     "oneLineZh": "社会想象与自治理论代表，可补西方马克思主义异端与政治哲学线索。",
     "influenceWeight": 2,
     "reviewStatus": "draft"
+  },
+  {
+    "id": "cournot",
+    "tier": "seed",
+    "names": {
+      "zh": "安托万·库尔诺",
+      "en": "Antoine Augustin Cournot"
+    },
+    "life": {
+      "birth": 1801,
+      "death": 1877,
+      "display": "1801—1877"
+    },
+    "civilization": "western",
+    "traditions": [
+      "french_epistemology"
+    ],
+    "periods": [
+      "modern"
+    ],
+    "themes": [
+      "knowledge",
+      "politics"
+    ],
+    "keywordsZh": [
+      "法国哲学",
+      "身份层",
+      "思想史补线"
+    ],
+    "oneLineZh": "概率/经济与科学哲学枢纽，接 comte 实证论与后续法国认识论。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "poincare",
+    "tier": "seed",
+    "names": {
+      "zh": "昂利·庞加莱",
+      "en": "Henri Poincaré"
+    },
+    "life": {
+      "birth": 1854,
+      "death": 1912,
+      "display": "1854—1912"
+    },
+    "civilization": "western",
+    "traditions": [
+      "philosophy_of_science"
+    ],
+    "periods": [
+      "modern"
+    ],
+    "themes": [
+      "knowledge",
+      "metaphysics"
+    ],
+    "keywordsZh": [
+      "法国哲学",
+      "身份层",
+      "思想史补线"
+    ],
+    "oneLineZh": "约定论与科学方法论代表，接数学基础与 duhem。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "duhem",
+    "tier": "seed",
+    "names": {
+      "zh": "皮埃尔·迪昂",
+      "en": "Pierre Duhem"
+    },
+    "life": {
+      "birth": 1861,
+      "death": 1916,
+      "display": "1861—1916"
+    },
+    "civilization": "western",
+    "traditions": [
+      "philosophy_of_science"
+    ],
+    "periods": [
+      "modern"
+    ],
+    "themes": [
+      "knowledge",
+      "metaphysics"
+    ],
+    "keywordsZh": [
+      "法国哲学",
+      "身份层",
+      "思想史补线"
+    ],
+    "oneLineZh": "整体论与不充分决定论（Duhem 命题），接 quine。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "brunschvicg",
+    "tier": "seed",
+    "names": {
+      "zh": "莱昂·布伦茨维格",
+      "en": "Léon Brunschvicg"
+    },
+    "life": {
+      "birth": 1869,
+      "death": 1944,
+      "display": "1869—1944"
+    },
+    "civilization": "western",
+    "traditions": [
+      "neo_kantianism",
+      "french_epistemology"
+    ],
+    "periods": [
+      "modern"
+    ],
+    "themes": [
+      "knowledge",
+      "metaphysics"
+    ],
+    "keywordsZh": [
+      "法国哲学",
+      "身份层",
+      "思想史补线"
+    ],
+    "oneLineZh": "判断哲学与科学精神史，法国认识论学院枢纽。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "koyre",
+    "tier": "seed",
+    "names": {
+      "zh": "亚历山大·柯瓦雷",
+      "en": "Alexandre Koyré"
+    },
+    "life": {
+      "birth": 1892,
+      "death": 1964,
+      "display": "1892—1964"
+    },
+    "civilization": "western",
+    "traditions": [
+      "history_of_science",
+      "phenomenology"
+    ],
+    "periods": [
+      "modern"
+    ],
+    "themes": [
+      "knowledge",
+      "metaphysics"
+    ],
+    "keywordsZh": [
+      "法国哲学",
+      "身份层",
+      "思想史补线"
+    ],
+    "oneLineZh": "科学革命史（从封闭世界到无限宇宙），接 kuhn。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "bachelard",
+    "tier": "seed",
+    "names": {
+      "zh": "加斯东·巴什拉",
+      "en": "Gaston Bachelard"
+    },
+    "life": {
+      "birth": 1884,
+      "death": 1962,
+      "display": "1884—1962"
+    },
+    "civilization": "western",
+    "traditions": [
+      "french_epistemology"
+    ],
+    "periods": [
+      "modern"
+    ],
+    "themes": [
+      "knowledge",
+      "aesthetics"
+    ],
+    "keywordsZh": [
+      "法国哲学",
+      "身份层",
+      "思想史补线"
+    ],
+    "oneLineZh": "认识论断裂与科学精神，接 foucault 知识考古学源头。★升档候选",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "cavailles",
+    "tier": "seed",
+    "names": {
+      "zh": "让·卡瓦耶斯",
+      "en": "Jean Cavaillès"
+    },
+    "life": {
+      "birth": 1903,
+      "death": 1944,
+      "display": "1903—1944"
+    },
+    "civilization": "western",
+    "traditions": [
+      "philosophy_of_mathematics",
+      "french_epistemology"
+    ],
+    "periods": [
+      "contemporary"
+    ],
+    "themes": [
+      "knowledge",
+      "language"
+    ],
+    "keywordsZh": [
+      "法国哲学",
+      "身份层",
+      "思想史补线"
+    ],
+    "oneLineZh": "概念哲学与数学哲学，接 canguilhem/foucault。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "canguilhem",
+    "tier": "seed",
+    "names": {
+      "zh": "乔治·康吉莱姆",
+      "en": "Georges Canguilhem"
+    },
+    "life": {
+      "birth": 1904,
+      "death": 1995,
+      "display": "1904—1995"
+    },
+    "civilization": "western",
+    "traditions": [
+      "french_epistemology",
+      "philosophy_of_science"
+    ],
+    "periods": [
+      "contemporary"
+    ],
+    "themes": [
+      "knowledge",
+      "life_death"
+    ],
+    "keywordsZh": [
+      "法国哲学",
+      "身份层",
+      "思想史补线"
+    ],
+    "oneLineZh": "正常与病态、生命科学史，foucault 直系导师。★升档候选",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "levi-strauss",
+    "tier": "seed",
+    "names": {
+      "zh": "克洛德·列维-斯特劳斯",
+      "en": "Claude Lévi-Strauss"
+    },
+    "life": {
+      "birth": 1908,
+      "death": 2009,
+      "display": "1908—2009"
+    },
+    "civilization": "western",
+    "traditions": [
+      "structuralism",
+      "anthropology"
+    ],
+    "periods": [
+      "contemporary"
+    ],
+    "themes": [
+      "knowledge",
+      "language"
+    ],
+    "keywordsZh": [
+      "法国哲学",
+      "身份层",
+      "思想史补线"
+    ],
+    "oneLineZh": "结构人类学奠基，结构主义总源。★升档候选",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "lacan",
+    "tier": "seed",
+    "names": {
+      "zh": "雅克·拉康",
+      "en": "Jacques Lacan"
+    },
+    "life": {
+      "birth": 1901,
+      "death": 1981,
+      "display": "1901—1981"
+    },
+    "civilization": "western",
+    "traditions": [
+      "psychoanalysis",
+      "structuralism"
+    ],
+    "periods": [
+      "contemporary"
+    ],
+    "themes": [
+      "language",
+      "metaphysics"
+    ],
+    "keywordsZh": [
+      "法国哲学",
+      "身份层",
+      "思想史补线"
+    ],
+    "oneLineZh": "结构主义精神分析，接 freud/结构语言学。★升档候选",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "bourdieu",
+    "tier": "seed",
+    "names": {
+      "zh": "皮埃尔·布迪厄",
+      "en": "Pierre Bourdieu"
+    },
+    "life": {
+      "birth": 1930,
+      "death": 2002,
+      "display": "1930—2002"
+    },
+    "civilization": "western",
+    "traditions": [
+      "social_theory"
+    ],
+    "periods": [
+      "contemporary"
+    ],
+    "themes": [
+      "politics",
+      "knowledge"
+    ],
+    "keywordsZh": [
+      "法国哲学",
+      "身份层",
+      "思想史补线"
+    ],
+    "oneLineZh": "惯习/场域/文化资本，社会实践理论。★升档候选",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "lyotard",
+    "tier": "seed",
+    "names": {
+      "zh": "让-弗朗索瓦·利奥塔",
+      "en": "Jean-François Lyotard"
+    },
+    "life": {
+      "birth": 1924,
+      "death": 1998,
+      "display": "1924—1998"
+    },
+    "civilization": "western",
+    "traditions": [
+      "poststructuralism",
+      "postmodernism"
+    ],
+    "periods": [
+      "contemporary"
+    ],
+    "themes": [
+      "language",
+      "aesthetics"
+    ],
+    "keywordsZh": [
+      "法国哲学",
+      "身份层",
+      "思想史补线"
+    ],
+    "oneLineZh": "后现代状况与元叙事之终结。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "baudrillard",
+    "tier": "seed",
+    "names": {
+      "zh": "让·鲍德里亚",
+      "en": "Jean Baudrillard"
+    },
+    "life": {
+      "birth": 1929,
+      "death": 2007,
+      "display": "1929—2007"
+    },
+    "civilization": "western",
+    "traditions": [
+      "poststructuralism",
+      "social_theory"
+    ],
+    "periods": [
+      "contemporary"
+    ],
+    "themes": [
+      "politics",
+      "aesthetics"
+    ],
+    "keywordsZh": [
+      "法国哲学",
+      "身份层",
+      "思想史补线"
+    ],
+    "oneLineZh": "拟像与消费社会。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "michel-serres",
+    "tier": "seed",
+    "names": {
+      "zh": "米歇尔·塞尔",
+      "en": "Michel Serres"
+    },
+    "life": {
+      "birth": 1930,
+      "death": 2019,
+      "display": "1930—2019"
+    },
+    "civilization": "western",
+    "traditions": [
+      "philosophy_of_science"
+    ],
+    "periods": [
+      "contemporary"
+    ],
+    "themes": [
+      "knowledge",
+      "metaphysics"
+    ],
+    "keywordsZh": [
+      "法国哲学",
+      "身份层",
+      "思想史补线"
+    ],
+    "oneLineZh": "科学与人文的第三者/寄生者哲学。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "rene-girard",
+    "tier": "seed",
+    "names": {
+      "zh": "勒内·吉拉尔",
+      "en": "René Girard"
+    },
+    "life": {
+      "birth": 1923,
+      "death": 2015,
+      "display": "1923—2015"
+    },
+    "civilization": "western",
+    "traditions": [
+      "social_theory",
+      "religion"
+    ],
+    "periods": [
+      "contemporary"
+    ],
+    "themes": [
+      "ethics",
+      "religion"
+    ],
+    "keywordsZh": [
+      "法国哲学",
+      "身份层",
+      "思想史补线"
+    ],
+    "oneLineZh": "模仿欲望与替罪羊机制。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "bruno-latour",
+    "tier": "seed",
+    "names": {
+      "zh": "布鲁诺·拉图尔",
+      "en": "Bruno Latour"
+    },
+    "life": {
+      "birth": 1947,
+      "death": 2022,
+      "display": "1947—2022"
+    },
+    "civilization": "western",
+    "traditions": [
+      "science_and_technology_studies"
+    ],
+    "periods": [
+      "contemporary"
+    ],
+    "themes": [
+      "knowledge",
+      "politics"
+    ],
+    "keywordsZh": [
+      "法国哲学",
+      "身份层",
+      "思想史补线"
+    ],
+    "oneLineZh": "行动者网络与科学人类学，接 canguilhem/koyre。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "claude-lefort",
+    "tier": "seed",
+    "names": {
+      "zh": "克洛德·勒福尔",
+      "en": "Claude Lefort"
+    },
+    "life": {
+      "birth": 1924,
+      "death": 2010,
+      "display": "1924—2010"
+    },
+    "civilization": "western",
+    "traditions": [
+      "political_philosophy"
+    ],
+    "periods": [
+      "contemporary"
+    ],
+    "themes": [
+      "politics",
+      "freedom"
+    ],
+    "keywordsZh": [
+      "法国哲学",
+      "身份层",
+      "思想史补线"
+    ],
+    "oneLineZh": "民主的空位与极权批判，接 castoriadis。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "badiou",
+    "tier": "seed",
+    "names": {
+      "zh": "阿兰·巴迪欧",
+      "en": "Alain Badiou"
+    },
+    "life": {
+      "birth": 1937,
+      "display": "1937—"
+    },
+    "civilization": "western",
+    "traditions": [
+      "continental_philosophy"
+    ],
+    "periods": [
+      "contemporary"
+    ],
+    "themes": [
+      "metaphysics",
+      "politics"
+    ],
+    "keywordsZh": [
+      "法国哲学",
+      "身份层",
+      "思想史补线"
+    ],
+    "oneLineZh": "存在与事件、集合论本体论。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "ranciere",
+    "tier": "seed",
+    "names": {
+      "zh": "雅克·朗西埃",
+      "en": "Jacques Rancière"
+    },
+    "life": {
+      "birth": 1940,
+      "display": "1940—"
+    },
+    "civilization": "western",
+    "traditions": [
+      "political_philosophy",
+      "aesthetics"
+    ],
+    "periods": [
+      "contemporary"
+    ],
+    "themes": [
+      "politics",
+      "aesthetics"
+    ],
+    "keywordsZh": [
+      "法国哲学",
+      "身份层",
+      "思想史补线"
+    ],
+    "oneLineZh": "感性的分配与政治美学，接 althusser。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "jean-luc-nancy",
+    "tier": "seed",
+    "names": {
+      "zh": "让-吕克·南希",
+      "en": "Jean-Luc Nancy"
+    },
+    "life": {
+      "birth": 1940,
+      "death": 2021,
+      "display": "1940—2021"
+    },
+    "civilization": "western",
+    "traditions": [
+      "poststructuralism",
+      "phenomenology"
+    ],
+    "periods": [
+      "contemporary"
+    ],
+    "themes": [
+      "metaphysics",
+      "politics"
+    ],
+    "keywordsZh": [
+      "法国哲学",
+      "身份层",
+      "思想史补线"
+    ],
+    "oneLineZh": "共通体与解构性存在论，接 derrida。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "raymond-aron",
+    "tier": "seed",
+    "names": {
+      "zh": "雷蒙·阿隆",
+      "en": "Raymond Aron"
+    },
+    "life": {
+      "birth": 1905,
+      "death": 1983,
+      "display": "1905—1983"
+    },
+    "civilization": "western",
+    "traditions": [
+      "political_philosophy"
+    ],
+    "periods": [
+      "contemporary"
+    ],
+    "themes": [
+      "politics",
+      "freedom"
+    ],
+    "keywordsZh": [
+      "法国哲学",
+      "身份层",
+      "思想史补线"
+    ],
+    "oneLineZh": "自由主义政治哲学与历史哲学，接 weber/sartre。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "georges-bataille",
+    "tier": "seed",
+    "names": {
+      "zh": "乔治·巴塔耶",
+      "en": "Georges Bataille"
+    },
+    "life": {
+      "birth": 1897,
+      "death": 1962,
+      "display": "1897—1962"
+    },
+    "civilization": "western",
+    "traditions": [
+      "continental_philosophy"
+    ],
+    "periods": [
+      "modern"
+    ],
+    "themes": [
+      "life_death",
+      "aesthetics"
+    ],
+    "keywordsZh": [
+      "法国哲学",
+      "身份层",
+      "思想史补线"
+    ],
+    "oneLineZh": "耗费/逾越/普遍经济，接 nietzsche/blanchot。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "maurice-blanchot",
+    "tier": "seed",
+    "names": {
+      "zh": "莫里斯·布朗肖",
+      "en": "Maurice Blanchot"
+    },
+    "life": {
+      "birth": 1907,
+      "death": 2003,
+      "display": "1907—2003"
+    },
+    "civilization": "western",
+    "traditions": [
+      "literary_theory",
+      "continental_philosophy"
+    ],
+    "periods": [
+      "contemporary"
+    ],
+    "themes": [
+      "aesthetics",
+      "language"
+    ],
+    "keywordsZh": [
+      "法国哲学",
+      "身份层",
+      "思想史补线"
+    ],
+    "oneLineZh": "文学空间与中性、灾异书写，接 levinas/bataille。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "jankelevitch",
+    "tier": "seed",
+    "names": {
+      "zh": "弗拉基米尔·扬凯列维奇",
+      "en": "Vladimir Jankélévitch"
+    },
+    "life": {
+      "birth": 1903,
+      "death": 1985,
+      "display": "1903—1985"
+    },
+    "civilization": "western",
+    "traditions": [
+      "ethics",
+      "french_philosophy"
+    ],
+    "periods": [
+      "contemporary"
+    ],
+    "themes": [
+      "ethics",
+      "life_death"
+    ],
+    "keywordsZh": [
+      "法国哲学",
+      "身份层",
+      "思想史补线"
+    ],
+    "oneLineZh": "道德的不可名状与不可宽恕，接 bergson。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "etienne-gilson",
+    "tier": "seed",
+    "names": {
+      "zh": "艾蒂安·吉尔松",
+      "en": "Étienne Gilson"
+    },
+    "life": {
+      "birth": 1884,
+      "death": 1978,
+      "display": "1884—1978"
+    },
+    "civilization": "western",
+    "traditions": [
+      "christian_philosophy",
+      "medievalism"
+    ],
+    "periods": [
+      "modern"
+    ],
+    "themes": [
+      "religion",
+      "metaphysics"
+    ],
+    "keywordsZh": [
+      "法国哲学",
+      "身份层",
+      "思想史补线"
+    ],
+    "oneLineZh": "中世纪哲学史与托马斯主义复兴，接 aquinas/maritain。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "emmanuel-mounier",
+    "tier": "seed",
+    "names": {
+      "zh": "埃马纽埃尔·穆尼耶",
+      "en": "Emmanuel Mounier"
+    },
+    "life": {
+      "birth": 1905,
+      "death": 1950,
+      "display": "1905—1950"
+    },
+    "civilization": "western",
+    "traditions": [
+      "personalism",
+      "christian_philosophy"
+    ],
+    "periods": [
+      "contemporary"
+    ],
+    "themes": [
+      "ethics",
+      "politics"
+    ],
+    "keywordsZh": [
+      "法国哲学",
+      "身份层",
+      "思想史补线"
+    ],
+    "oneLineZh": "人格主义，接 maritain/marcel。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
   }
 ]

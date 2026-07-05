@@ -7137,5 +7137,421 @@
     "titleEn": "Crossroads in the Labyrinth",
     "yearDisplay": "1978",
     "noteZh": "科尔内留斯·卡斯托里亚迪斯身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "cournot-probability-chance",
+    "philosopherId": "cournot",
+    "titleZh": "《关于机会与概率理论基础的阐述》",
+    "titleEn": "Exposition de la théorie des chances et des probabilités",
+    "yearDisplay": "1843",
+    "noteZh": "安托万·库尔诺身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "cournot-wealth-theory",
+    "philosopherId": "cournot",
+    "titleZh": "《财富理论的数学原理研究》",
+    "titleEn": "Researches into the Mathematical Principles of the Theory of Wealth",
+    "yearDisplay": "1838",
+    "noteZh": "安托万·库尔诺身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "poincare-science-and-hypothesis",
+    "philosopherId": "poincare",
+    "titleZh": "《科学与假设》",
+    "titleEn": "Science and Hypothesis",
+    "yearDisplay": "1902",
+    "noteZh": "昂利·庞加莱身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "poincare-value-of-science",
+    "philosopherId": "poincare",
+    "titleZh": "《科学的价值》",
+    "titleEn": "The Value of Science",
+    "yearDisplay": "1905",
+    "noteZh": "昂利·庞加莱身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "duhem-physical-theory",
+    "philosopherId": "duhem",
+    "titleZh": "《物理理论：其对象与结构》",
+    "titleEn": "The Aim and Structure of Physical Theory",
+    "yearDisplay": "1906",
+    "noteZh": "皮埃尔·迪昂身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "duhem-system-of-the-world",
+    "philosopherId": "duhem",
+    "titleZh": "《世界体系》",
+    "titleEn": "Le système du monde",
+    "yearDisplay": "1913—1959",
+    "noteZh": "皮埃尔·迪昂身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "brunschvicg-stages-mathematical-philosophy",
+    "philosopherId": "brunschvicg",
+    "titleZh": "《数学哲学的阶段》",
+    "titleEn": "Les étapes de la philosophie mathématique",
+    "yearDisplay": "1912",
+    "noteZh": "莱昂·布伦茨维格身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "brunschvicg-human-experience-causality",
+    "philosopherId": "brunschvicg",
+    "titleZh": "《人类经验与物理因果性》",
+    "titleEn": "L’expérience humaine et la causalité physique",
+    "yearDisplay": "1922",
+    "noteZh": "莱昂·布伦茨维格身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "koyre-closed-world-infinite-universe",
+    "philosopherId": "koyre",
+    "titleZh": "《从封闭世界到无限宇宙》",
+    "titleEn": "From the Closed World to the Infinite Universe",
+    "yearDisplay": "1957",
+    "noteZh": "亚历山大·柯瓦雷身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "koyre-galilean-studies",
+    "philosopherId": "koyre",
+    "titleZh": "《伽利略研究》",
+    "titleEn": "Études galiléennes",
+    "yearDisplay": "1939",
+    "noteZh": "亚历山大·柯瓦雷身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "bachelard-new-scientific-spirit",
+    "philosopherId": "bachelard",
+    "titleZh": "《新科学精神》",
+    "titleEn": "The New Scientific Spirit",
+    "yearDisplay": "1934",
+    "noteZh": "加斯东·巴什拉身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "bachelard-formation-scientific-mind",
+    "philosopherId": "bachelard",
+    "titleZh": "《科学精神的形成》",
+    "titleEn": "The Formation of the Scientific Mind",
+    "yearDisplay": "1938",
+    "noteZh": "加斯东·巴什拉身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "cavailles-logic-theory-science",
+    "philosopherId": "cavailles",
+    "titleZh": "《论逻辑与科学理论》",
+    "titleEn": "On Logic and the Theory of Science",
+    "yearDisplay": "1947",
+    "noteZh": "让·卡瓦耶斯身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "cavailles-axiomatic-method-formalism",
+    "philosopherId": "cavailles",
+    "titleZh": "《公理方法与形式主义》",
+    "titleEn": "Méthode axiomatique et formalisme",
+    "yearDisplay": "1938",
+    "noteZh": "让·卡瓦耶斯身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "canguilhem-normal-and-pathological",
+    "philosopherId": "canguilhem",
+    "titleZh": "《正常与病态》",
+    "titleEn": "The Normal and the Pathological",
+    "yearDisplay": "1943/1966",
+    "noteZh": "乔治·康吉莱姆身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "canguilhem-knowledge-of-life",
+    "philosopherId": "canguilhem",
+    "titleZh": "《生命的知识》",
+    "titleEn": "Knowledge of Life",
+    "yearDisplay": "1952",
+    "noteZh": "乔治·康吉莱姆身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "levi-strauss-structural-anthropology",
+    "philosopherId": "levi-strauss",
+    "titleZh": "《结构人类学》",
+    "titleEn": "Structural Anthropology",
+    "yearDisplay": "1958",
+    "noteZh": "克洛德·列维-斯特劳斯身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "levi-strauss-savage-mind",
+    "philosopherId": "levi-strauss",
+    "titleZh": "《野性的思维》",
+    "titleEn": "The Savage Mind",
+    "yearDisplay": "1962",
+    "noteZh": "克洛德·列维-斯特劳斯身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "lacan-ecrits",
+    "philosopherId": "lacan",
+    "titleZh": "《文集》",
+    "titleEn": "Écrits",
+    "yearDisplay": "1966",
+    "noteZh": "雅克·拉康身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "lacan-seminar-xi",
+    "philosopherId": "lacan",
+    "titleZh": "《研讨班第十一卷：精神分析的四个基本概念》",
+    "titleEn": "The Seminar, Book XI: The Four Fundamental Concepts of Psychoanalysis",
+    "yearDisplay": "1973",
+    "noteZh": "雅克·拉康身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "bourdieu-outline-theory-practice",
+    "philosopherId": "bourdieu",
+    "titleZh": "《实践理论大纲》",
+    "titleEn": "Outline of a Theory of Practice",
+    "yearDisplay": "1972",
+    "noteZh": "皮埃尔·布迪厄身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "bourdieu-distinction",
+    "philosopherId": "bourdieu",
+    "titleZh": "《区分》",
+    "titleEn": "Distinction",
+    "yearDisplay": "1979",
+    "noteZh": "皮埃尔·布迪厄身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "lyotard-postmodern-condition",
+    "philosopherId": "lyotard",
+    "titleZh": "《后现代状况》",
+    "titleEn": "The Postmodern Condition",
+    "yearDisplay": "1979",
+    "noteZh": "让-弗朗索瓦·利奥塔身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "lyotard-differend",
+    "philosopherId": "lyotard",
+    "titleZh": "《歧义》",
+    "titleEn": "The Differend",
+    "yearDisplay": "1983",
+    "noteZh": "让-弗朗索瓦·利奥塔身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "baudrillard-consumer-society",
+    "philosopherId": "baudrillard",
+    "titleZh": "《消费社会》",
+    "titleEn": "The Consumer Society",
+    "yearDisplay": "1970",
+    "noteZh": "让·鲍德里亚身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "baudrillard-simulacra-and-simulation",
+    "philosopherId": "baudrillard",
+    "titleZh": "《拟像与仿真》",
+    "titleEn": "Simulacra and Simulation",
+    "yearDisplay": "1981",
+    "noteZh": "让·鲍德里亚身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "michel-serres-hermes",
+    "philosopherId": "michel-serres",
+    "titleZh": "《赫耳墨斯》",
+    "titleEn": "Hermes",
+    "yearDisplay": "1969—1980",
+    "noteZh": "米歇尔·塞尔身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "michel-serres-parasite",
+    "philosopherId": "michel-serres",
+    "titleZh": "《寄生者》",
+    "titleEn": "The Parasite",
+    "yearDisplay": "1980",
+    "noteZh": "米歇尔·塞尔身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "rene-girard-deceit-desire-novel",
+    "philosopherId": "rene-girard",
+    "titleZh": "《浪漫的谎言与小说的真实》",
+    "titleEn": "Deceit, Desire, and the Novel",
+    "yearDisplay": "1961",
+    "noteZh": "勒内·吉拉尔身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "rene-girard-violence-and-sacred",
+    "philosopherId": "rene-girard",
+    "titleZh": "《暴力与神圣》",
+    "titleEn": "Violence and the Sacred",
+    "yearDisplay": "1972",
+    "noteZh": "勒内·吉拉尔身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "bruno-latour-science-in-action",
+    "philosopherId": "bruno-latour",
+    "titleZh": "《行动中的科学》",
+    "titleEn": "Science in Action",
+    "yearDisplay": "1987",
+    "noteZh": "布鲁诺·拉图尔身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "bruno-latour-never-been-modern",
+    "philosopherId": "bruno-latour",
+    "titleZh": "《我们从未现代过》",
+    "titleEn": "We Have Never Been Modern",
+    "yearDisplay": "1991",
+    "noteZh": "布鲁诺·拉图尔身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "claude-lefort-political-forms-modern-society",
+    "philosopherId": "claude-lefort",
+    "titleZh": "《现代社会的政治形式》",
+    "titleEn": "The Political Forms of Modern Society",
+    "yearDisplay": "1986",
+    "noteZh": "克洛德·勒福尔身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "claude-lefort-democracy-political-theory",
+    "philosopherId": "claude-lefort",
+    "titleZh": "《民主与政治理论》",
+    "titleEn": "Democracy and Political Theory",
+    "yearDisplay": "1988",
+    "noteZh": "克洛德·勒福尔身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "badiou-being-and-event",
+    "philosopherId": "badiou",
+    "titleZh": "《存在与事件》",
+    "titleEn": "Being and Event",
+    "yearDisplay": "1988",
+    "noteZh": "阿兰·巴迪欧身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "badiou-logics-of-worlds",
+    "philosopherId": "badiou",
+    "titleZh": "《世界的逻辑》",
+    "titleEn": "Logics of Worlds",
+    "yearDisplay": "2006",
+    "noteZh": "阿兰·巴迪欧身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "ranciere-ignorant-schoolmaster",
+    "philosopherId": "ranciere",
+    "titleZh": "《无知的教师》",
+    "titleEn": "The Ignorant Schoolmaster",
+    "yearDisplay": "1987",
+    "noteZh": "雅克·朗西埃身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "ranciere-disagreement",
+    "philosopherId": "ranciere",
+    "titleZh": "《歧见》",
+    "titleEn": "Disagreement",
+    "yearDisplay": "1995",
+    "noteZh": "雅克·朗西埃身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "jean-luc-nancy-inoperative-community",
+    "philosopherId": "jean-luc-nancy",
+    "titleZh": "《无作的共同体》",
+    "titleEn": "The Inoperative Community",
+    "yearDisplay": "1986",
+    "noteZh": "让-吕克·南希身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "jean-luc-nancy-being-singular-plural",
+    "philosopherId": "jean-luc-nancy",
+    "titleZh": "《单数复数的存在》",
+    "titleEn": "Being Singular Plural",
+    "yearDisplay": "1996",
+    "noteZh": "让-吕克·南希身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "raymond-aron-introduction-philosophy-history",
+    "philosopherId": "raymond-aron",
+    "titleZh": "《历史哲学导论》",
+    "titleEn": "Introduction to the Philosophy of History",
+    "yearDisplay": "1938",
+    "noteZh": "雷蒙·阿隆身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "raymond-aron-peace-and-war",
+    "philosopherId": "raymond-aron",
+    "titleZh": "《和平与战争》",
+    "titleEn": "Peace and War",
+    "yearDisplay": "1962",
+    "noteZh": "雷蒙·阿隆身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "georges-bataille-inner-experience",
+    "philosopherId": "georges-bataille",
+    "titleZh": "《内在经验》",
+    "titleEn": "Inner Experience",
+    "yearDisplay": "1943",
+    "noteZh": "乔治·巴塔耶身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "georges-bataille-accursed-share",
+    "philosopherId": "georges-bataille",
+    "titleZh": "《被诅咒的部分》",
+    "titleEn": "The Accursed Share",
+    "yearDisplay": "1949",
+    "noteZh": "乔治·巴塔耶身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "maurice-blanchot-space-of-literature",
+    "philosopherId": "maurice-blanchot",
+    "titleZh": "《文学空间》",
+    "titleEn": "The Space of Literature",
+    "yearDisplay": "1955",
+    "noteZh": "莫里斯·布朗肖身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "maurice-blanchot-writing-of-disaster",
+    "philosopherId": "maurice-blanchot",
+    "titleZh": "《灾异的书写》",
+    "titleEn": "The Writing of the Disaster",
+    "yearDisplay": "1980",
+    "noteZh": "莫里斯·布朗肖身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "jankelevitch-bergson",
+    "philosopherId": "jankelevitch",
+    "titleZh": "《柏格森》",
+    "titleEn": "Bergson",
+    "yearDisplay": "1931",
+    "noteZh": "弗拉基米尔·扬凯列维奇身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "jankelevitch-forgiveness",
+    "philosopherId": "jankelevitch",
+    "titleZh": "《宽恕》",
+    "titleEn": "Forgiveness",
+    "yearDisplay": "1967",
+    "noteZh": "弗拉基米尔·扬凯列维奇身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "etienne-gilson-spirit-medieval-philosophy",
+    "philosopherId": "etienne-gilson",
+    "titleZh": "《中世纪哲学精神》",
+    "titleEn": "The Spirit of Medieval Philosophy",
+    "yearDisplay": "1932",
+    "noteZh": "艾蒂安·吉尔松身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "etienne-gilson-being-and-some-philosophers",
+    "philosopherId": "etienne-gilson",
+    "titleZh": "《存在与若干哲学家》",
+    "titleEn": "Being and Some Philosophers",
+    "yearDisplay": "1949",
+    "noteZh": "艾蒂安·吉尔松身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "emmanuel-mounier-personalist-communitarian-revolution",
+    "philosopherId": "emmanuel-mounier",
+    "titleZh": "《人格主义与共同体革命》",
+    "titleEn": "Personalist and Communitarian Revolution",
+    "yearDisplay": "1935",
+    "noteZh": "埃马纽埃尔·穆尼耶身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "emmanuel-mounier-personalism",
+    "philosopherId": "emmanuel-mounier",
+    "titleZh": "《人格主义》",
+    "titleEn": "Personalism",
+    "yearDisplay": "1949",
+    "noteZh": "埃马纽埃尔·穆尼耶身份层代表作或核心关联文本，用于 seed 档基本定位。"
   }
 ]

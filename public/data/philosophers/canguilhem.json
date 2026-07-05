@@ -1,0 +1,45 @@
+{
+  "id": "canguilhem",
+  "tier": "seed",
+  "names": {
+    "zh": "乔治·康吉莱姆",
+    "en": "Georges Canguilhem"
+  },
+  "life": {
+    "birth": 1904,
+    "death": 1995,
+    "display": "1904—1995"
+  },
+  "civilization": "western",
+  "traditions": [
+    "french_epistemology",
+    "philosophy_of_science"
+  ],
+  "periods": [
+    "contemporary"
+  ],
+  "themes": [
+    "knowledge",
+    "life_death"
+  ],
+  "keywordsZh": [
+    "法国哲学",
+    "身份层",
+    "思想史补线"
+  ],
+  "oneLineZh": "正常与病态、生命科学史，foucault 直系导师。★升档候选",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "乔治·康吉莱姆（1904—1995）是 Seed W3 法国近现代—现当代二线哲人候选。其身份层入选理由为：正常与病态、生命科学史，foucault 直系导师。★升档候选 本条仅作 seed 档基本定位，后续若升级标准档，必须重新做著作、论点与 evidence 研究。",
+  "works": [
+    "canguilhem-normal-and-pathological",
+    "canguilhem-knowledge-of-life"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S008",
+      "url": "https://plato.stanford.edu/entries/canguilhem/",
+      "noteZh": "权威来源条目：SEP: Georges Canguilhem；用于核验人物身份、生卒、代表著作和思想史定位。"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "jean-luc-nancy",
+  "tier": "seed",
+  "names": {
+    "zh": "让-吕克·南希",
+    "en": "Jean-Luc Nancy"
+  },
+  "life": {
+    "birth": 1940,
+    "death": 2021,
+    "display": "1940—2021"
+  },
+  "civilization": "western",
+  "traditions": [
+    "poststructuralism",
+    "phenomenology"
+  ],
+  "periods": [
+    "contemporary"
+  ],
+  "themes": [
+    "metaphysics",
+    "politics"
+  ],
+  "keywordsZh": [
+    "法国哲学",
+    "身份层",
+    "思想史补线"
+  ],
+  "oneLineZh": "共通体与解构性存在论，接 derrida。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "让-吕克·南希（1940—2021）是 Seed W3 法国近现代—现当代二线哲人候选。其身份层入选理由为：共通体与解构性存在论，接 derrida。 本条仅作 seed 档基本定位，后续若升级标准档，必须重新做著作、论点与 evidence 研究。",
+  "works": [
+    "jean-luc-nancy-inoperative-community",
+    "jean-luc-nancy-being-singular-plural"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S012",
+      "url": "https://plato.stanford.edu/entries/nancy/",
+      "noteZh": "权威来源条目：SEP: Jean-Luc Nancy；用于核验人物身份、生卒、代表著作和思想史定位。"
+    }
+  ]
+}

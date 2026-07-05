@@ -1,0 +1,45 @@
+{
+  "id": "etienne-gilson",
+  "tier": "seed",
+  "names": {
+    "zh": "艾蒂安·吉尔松",
+    "en": "Étienne Gilson"
+  },
+  "life": {
+    "birth": 1884,
+    "death": 1978,
+    "display": "1884—1978"
+  },
+  "civilization": "western",
+  "traditions": [
+    "christian_philosophy",
+    "medievalism"
+  ],
+  "periods": [
+    "modern"
+  ],
+  "themes": [
+    "religion",
+    "metaphysics"
+  ],
+  "keywordsZh": [
+    "法国哲学",
+    "身份层",
+    "思想史补线"
+  ],
+  "oneLineZh": "中世纪哲学史与托马斯主义复兴，接 aquinas/maritain。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "艾蒂安·吉尔松（1884—1978）是 Seed W3 法国近现代—现当代二线哲人候选。其身份层入选理由为：中世纪哲学史与托马斯主义复兴，接 aquinas/maritain。 本条仅作 seed 档基本定位，后续若升级标准档，必须重新做著作、论点与 evidence 研究。",
+  "works": [
+    "etienne-gilson-spirit-medieval-philosophy",
+    "etienne-gilson-being-and-some-philosophers"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S005",
+      "url": "https://plato.stanford.edu/entries/medieval-philosophy/",
+      "noteZh": "权威来源条目：SEP (adjacent): Étienne Gilson；用于核验人物身份、生卒、代表著作和思想史定位。"
+    }
+  ]
+}

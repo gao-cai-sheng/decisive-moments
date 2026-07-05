@@ -1,0 +1,45 @@
+{
+  "id": "levi-strauss",
+  "tier": "seed",
+  "names": {
+    "zh": "克洛德·列维-斯特劳斯",
+    "en": "Claude Lévi-Strauss"
+  },
+  "life": {
+    "birth": 1908,
+    "death": 2009,
+    "display": "1908—2009"
+  },
+  "civilization": "western",
+  "traditions": [
+    "structuralism",
+    "anthropology"
+  ],
+  "periods": [
+    "contemporary"
+  ],
+  "themes": [
+    "knowledge",
+    "language"
+  ],
+  "keywordsZh": [
+    "法国哲学",
+    "身份层",
+    "思想史补线"
+  ],
+  "oneLineZh": "结构人类学奠基，结构主义总源。★升档候选",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "克洛德·列维-斯特劳斯（1908—2009）是 Seed W3 法国近现代—现当代二线哲人候选。其身份层入选理由为：结构人类学奠基，结构主义总源。★升档候选 本条仅作 seed 档基本定位，后续若升级标准档，必须重新做著作、论点与 evidence 研究。",
+  "works": [
+    "levi-strauss-structural-anthropology",
+    "levi-strauss-savage-mind"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S001",
+      "url": "https://iep.utm.edu/levi-strauss/",
+      "noteZh": "权威来源条目：IEP: Claude Lévi-Strauss；用于核验人物身份、生卒、代表著作和思想史定位。"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "maurice-blanchot",
+  "tier": "seed",
+  "names": {
+    "zh": "莫里斯·布朗肖",
+    "en": "Maurice Blanchot"
+  },
+  "life": {
+    "birth": 1907,
+    "death": 2003,
+    "display": "1907—2003"
+  },
+  "civilization": "western",
+  "traditions": [
+    "literary_theory",
+    "continental_philosophy"
+  ],
+  "periods": [
+    "contemporary"
+  ],
+  "themes": [
+    "aesthetics",
+    "language"
+  ],
+  "keywordsZh": [
+    "法国哲学",
+    "身份层",
+    "思想史补线"
+  ],
+  "oneLineZh": "文学空间与中性、灾异书写，接 levinas/bataille。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "莫里斯·布朗肖（1907—2003）是 Seed W3 法国近现代—现当代二线哲人候选。其身份层入选理由为：文学空间与中性、灾异书写，接 levinas/bataille。 本条仅作 seed 档基本定位，后续若升级标准档，必须重新做著作、论点与 evidence 研究。",
+  "works": [
+    "maurice-blanchot-space-of-literature",
+    "maurice-blanchot-writing-of-disaster"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S003",
+      "url": "https://www.rep.routledge.com/articles/biographical/blanchot-maurice-1907-2003/v-1",
+      "noteZh": "权威来源条目：Routledge: Blanchot, Maurice；用于核验人物身份、生卒、代表著作和思想史定位。"
+    }
+  ]
+}

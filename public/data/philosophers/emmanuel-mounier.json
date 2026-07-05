@@ -1,0 +1,45 @@
+{
+  "id": "emmanuel-mounier",
+  "tier": "seed",
+  "names": {
+    "zh": "埃马纽埃尔·穆尼耶",
+    "en": "Emmanuel Mounier"
+  },
+  "life": {
+    "birth": 1905,
+    "death": 1950,
+    "display": "1905—1950"
+  },
+  "civilization": "western",
+  "traditions": [
+    "personalism",
+    "christian_philosophy"
+  ],
+  "periods": [
+    "contemporary"
+  ],
+  "themes": [
+    "ethics",
+    "politics"
+  ],
+  "keywordsZh": [
+    "法国哲学",
+    "身份层",
+    "思想史补线"
+  ],
+  "oneLineZh": "人格主义，接 maritain/marcel。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "埃马纽埃尔·穆尼耶（1905—1950）是 Seed W3 法国近现代—现当代二线哲人候选。其身份层入选理由为：人格主义，接 maritain/marcel。 本条仅作 seed 档基本定位，后续若升级标准档，必须重新做著作、论点与 evidence 研究。",
+  "works": [
+    "emmanuel-mounier-personalist-communitarian-revolution",
+    "emmanuel-mounier-personalism"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S006",
+      "url": "https://iep.utm.edu/mounier/",
+      "noteZh": "权威来源条目：IEP: Emmanuel Mounier；用于核验人物身份、生卒、代表著作和思想史定位。"
+    }
+  ]
+}

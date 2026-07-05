@@ -1,0 +1,45 @@
+{
+  "id": "brunschvicg",
+  "tier": "seed",
+  "names": {
+    "zh": "莱昂·布伦茨维格",
+    "en": "Léon Brunschvicg"
+  },
+  "life": {
+    "birth": 1869,
+    "death": 1944,
+    "display": "1869—1944"
+  },
+  "civilization": "western",
+  "traditions": [
+    "neo_kantianism",
+    "french_epistemology"
+  ],
+  "periods": [
+    "modern"
+  ],
+  "themes": [
+    "knowledge",
+    "metaphysics"
+  ],
+  "keywordsZh": [
+    "法国哲学",
+    "身份层",
+    "思想史补线"
+  ],
+  "oneLineZh": "判断哲学与科学精神史，法国认识论学院枢纽。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "莱昂·布伦茨维格（1869—1944）是 Seed W3 法国近现代—现当代二线哲人候选。其身份层入选理由为：判断哲学与科学精神史，法国认识论学院枢纽。 本条仅作 seed 档基本定位，后续若升级标准档，必须重新做著作、论点与 evidence 研究。",
+  "works": [
+    "brunschvicg-stages-mathematical-philosophy",
+    "brunschvicg-human-experience-causality"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S004",
+      "url": "https://www.rep.routledge.com/articles/biographical/brunschvicg-leon-1869-1944/v-1",
+      "noteZh": "权威来源条目：Routledge: Brunschvicg, Léon；用于核验人物身份、生卒、代表著作和思想史定位。"
+    }
+  ]
+}

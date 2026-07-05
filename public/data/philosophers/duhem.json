@@ -1,0 +1,44 @@
+{
+  "id": "duhem",
+  "tier": "seed",
+  "names": {
+    "zh": "皮埃尔·迪昂",
+    "en": "Pierre Duhem"
+  },
+  "life": {
+    "birth": 1861,
+    "death": 1916,
+    "display": "1861—1916"
+  },
+  "civilization": "western",
+  "traditions": [
+    "philosophy_of_science"
+  ],
+  "periods": [
+    "modern"
+  ],
+  "themes": [
+    "knowledge",
+    "metaphysics"
+  ],
+  "keywordsZh": [
+    "法国哲学",
+    "身份层",
+    "思想史补线"
+  ],
+  "oneLineZh": "整体论与不充分决定论（Duhem 命题），接 quine。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "皮埃尔·迪昂（1861—1916）是 Seed W3 法国近现代—现当代二线哲人候选。其身份层入选理由为：整体论与不充分决定论（Duhem 命题），接 quine。 本条仅作 seed 档基本定位，后续若升级标准档，必须重新做著作、论点与 evidence 研究。",
+  "works": [
+    "duhem-physical-theory",
+    "duhem-system-of-the-world"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S003",
+      "url": "https://plato.stanford.edu/entries/duhem/",
+      "noteZh": "权威来源条目：SEP: Pierre Duhem；用于核验人物身份、生卒、代表著作和思想史定位。"
+    }
+  ]
+}

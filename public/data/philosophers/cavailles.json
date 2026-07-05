@@ -1,0 +1,45 @@
+{
+  "id": "cavailles",
+  "tier": "seed",
+  "names": {
+    "zh": "让·卡瓦耶斯",
+    "en": "Jean Cavaillès"
+  },
+  "life": {
+    "birth": 1903,
+    "death": 1944,
+    "display": "1903—1944"
+  },
+  "civilization": "western",
+  "traditions": [
+    "philosophy_of_mathematics",
+    "french_epistemology"
+  ],
+  "periods": [
+    "contemporary"
+  ],
+  "themes": [
+    "knowledge",
+    "language"
+  ],
+  "keywordsZh": [
+    "法国哲学",
+    "身份层",
+    "思想史补线"
+  ],
+  "oneLineZh": "概念哲学与数学哲学，接 canguilhem/foucault。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "让·卡瓦耶斯（1903—1944）是 Seed W3 法国近现代—现当代二线哲人候选。其身份层入选理由为：概念哲学与数学哲学，接 canguilhem/foucault。 本条仅作 seed 档基本定位，后续若升级标准档，必须重新做著作、论点与 evidence 研究。",
+  "works": [
+    "cavailles-logic-theory-science",
+    "cavailles-axiomatic-method-formalism"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S007",
+      "url": "https://plato.stanford.edu/entries/philosophy-mathematics/",
+      "noteZh": "权威来源条目：SEP (Philosophy of Mathematics): Cavaillès；用于核验人物身份、生卒、代表著作和思想史定位。"
+    }
+  ]
+}

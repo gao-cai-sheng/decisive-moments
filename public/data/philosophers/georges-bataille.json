@@ -1,0 +1,44 @@
+{
+  "id": "georges-bataille",
+  "tier": "seed",
+  "names": {
+    "zh": "乔治·巴塔耶",
+    "en": "Georges Bataille"
+  },
+  "life": {
+    "birth": 1897,
+    "death": 1962,
+    "display": "1897—1962"
+  },
+  "civilization": "western",
+  "traditions": [
+    "continental_philosophy"
+  ],
+  "periods": [
+    "modern"
+  ],
+  "themes": [
+    "life_death",
+    "aesthetics"
+  ],
+  "keywordsZh": [
+    "法国哲学",
+    "身份层",
+    "思想史补线"
+  ],
+  "oneLineZh": "耗费/逾越/普遍经济，接 nietzsche/blanchot。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "乔治·巴塔耶（1897—1962）是 Seed W3 法国近现代—现当代二线哲人候选。其身份层入选理由为：耗费/逾越/普遍经济，接 nietzsche/blanchot。 本条仅作 seed 档基本定位，后续若升级标准档，必须重新做著作、论点与 evidence 研究。",
+  "works": [
+    "georges-bataille-inner-experience",
+    "georges-bataille-accursed-share"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S002",
+      "url": "https://www.rep.routledge.com/articles/biographical/bataille-georges-1897-1962/v-1",
+      "noteZh": "权威来源条目：Routledge: Bataille, Georges；用于核验人物身份、生卒、代表著作和思想史定位。"
+    }
+  ]
+}

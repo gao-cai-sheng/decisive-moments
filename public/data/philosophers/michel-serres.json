@@ -1,0 +1,44 @@
+{
+  "id": "michel-serres",
+  "tier": "seed",
+  "names": {
+    "zh": "米歇尔·塞尔",
+    "en": "Michel Serres"
+  },
+  "life": {
+    "birth": 1930,
+    "death": 2019,
+    "display": "1930—2019"
+  },
+  "civilization": "western",
+  "traditions": [
+    "philosophy_of_science"
+  ],
+  "periods": [
+    "contemporary"
+  ],
+  "themes": [
+    "knowledge",
+    "metaphysics"
+  ],
+  "keywordsZh": [
+    "法国哲学",
+    "身份层",
+    "思想史补线"
+  ],
+  "oneLineZh": "科学与人文的第三者/寄生者哲学。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "米歇尔·塞尔（1930—2019）是 Seed W3 法国近现代—现当代二线哲人候选。其身份层入选理由为：科学与人文的第三者/寄生者哲学。 本条仅作 seed 档基本定位，后续若升级标准档，必须重新做著作、论点与 evidence 研究。",
+  "works": [
+    "michel-serres-hermes",
+    "michel-serres-parasite"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S006",
+      "url": "https://www.rep.routledge.com/articles/biographical/serres-michel-1930-2019/v-1",
+      "noteZh": "权威来源条目：Routledge: Serres, Michel；用于核验人物身份、生卒、代表著作和思想史定位。"
+    }
+  ]
+}
