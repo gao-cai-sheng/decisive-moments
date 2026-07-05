@@ -1,0 +1,56 @@
+{
+  "id": "nikolai-chernyshevsky",
+  "tier": "seed",
+  "names": {
+    "zh": "车尔尼雪夫斯基",
+    "en": "Nikolai Chernyshevsky",
+    "native": "Николай Гаврилович Чернышевский"
+  },
+  "life": {
+    "birth": 1828,
+    "death": 1889,
+    "display": "1828—1889"
+  },
+  "civilization": "russian",
+  "traditions": [
+    "russian_materialism",
+    "social_thought",
+    "aesthetics"
+  ],
+  "periods": [
+    "seed_w11",
+    "imperial_russia",
+    "pre_revolutionary_russian_thought"
+  ],
+  "themes": [
+    "ethics",
+    "aesthetics",
+    "politics"
+  ],
+  "keywordsZh": [
+    "怎么办？",
+    "理性利己",
+    "现实美学",
+    "社会思想"
+  ],
+  "oneLineZh": "俄国唯物主义与社会思想代表，以理性利己、现实美学和《怎么办？》影响19世纪激进传统。",
+  "influenceWeight": 3,
+  "reviewStatus": "draft",
+  "summaryZh": "车尔尼雪夫斯基以费尔巴哈式人本唯物主义、理性利己和现实主义美学构成俄国社会思想的重要资源；其《怎么办？》虽为小说体，但在本项目按思想性文本收录。本 seed 档不作纯文学条目。",
+  "works": [
+    "chernyshevsky-what-is-to-be-done",
+    "chernyshevsky-aesthetic-relations"
+  ],
+  "sourceNotes": [
+    {
+      "label": "W11-B1-S010",
+      "url": "https://iep.utm.edu/russian/",
+      "noteZh": "IEP Russian Philosophy 总论用于核验19世纪俄国思想中唯物主义、政治与美学纠缠的背景。"
+    },
+    {
+      "label": "W11-B1-S011",
+      "url": "https://www.britannica.com/biography/Nikolay-Gavrilovich-Chernyshevsky",
+      "noteZh": "Britannica Chernyshevsky 条目用于核验其作家、批评家和思想家身份。"
+    }
+  ]
+}

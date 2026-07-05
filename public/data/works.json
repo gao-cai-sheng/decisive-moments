@@ -9583,5 +9583,336 @@
     "titleEn": "On the Differences Between Aristotle and Plato",
     "originalTitle": "Περὶ ὧν Ἀριστοτέλης πρὸς Πλάτωνα διαφέρεται",
     "noteZh": "普勒东在晚期拜占庭和文艺复兴语境中重申柏拉图优先性的代表文本。"
+  },
+  {
+    "id": "zoroaster-gathas",
+    "philosopherId": "zoroaster",
+    "titleZh": "《伽萨》",
+    "titleEn": "Gathas",
+    "originalTitle": "Gāθās",
+    "yearDisplay": "年代争议；古阿维斯陀语层",
+    "noteZh": "《亚斯纳》中的十七首古阿维斯陀语颂诗，本批仅登记为部分可归属琐罗亚斯德的最古层文本，不等同于整部《阿维斯陀》。"
+  },
+  {
+    "id": "mani-shabuhragan",
+    "philosopherId": "mani",
+    "titleZh": "《沙卜拉干》",
+    "titleEn": "Shabuhragan",
+    "originalTitle": "Šābuhragān",
+    "yearDisplay": "3世纪中叶",
+    "noteZh": "摩尼献给萨珊君主沙普尔一世的中古波斯语著作，常被视为其向萨珊王权说明新宗教纲要的重要文本；今存残片与引文。"
+  },
+  {
+    "id": "mani-living-gospel",
+    "philosopherId": "mani",
+    "titleZh": "《生命福音》",
+    "titleEn": "Living Gospel",
+    "originalTitle": "Evangelion / Gospel of Mani",
+    "yearDisplay": "3世纪",
+    "noteZh": "摩尼传统中的核心自著经典之一；原作不完整传世，主要经残片、译本和后世引文确认其在摩尼教经典中的位置。"
+  },
+  {
+    "id": "chaadaev-philosophical-letters",
+    "philosopherId": "pyotr-chaadaev",
+    "titleZh": "哲学书简",
+    "titleEn": "Philosophical Letters",
+    "originalTitle": "Lettres philosophiques",
+    "noteZh": "恰达耶夫关于俄国历史使命、宗教根基与欧洲文明道路的核心文本。"
+  },
+  {
+    "id": "khomyakov-sobornost-essays",
+    "philosopherId": "aleksei-khomyakov",
+    "titleZh": "论聚和性文集",
+    "titleEn": "Essays on Sobornost",
+    "originalTitle": "Sobornost essays",
+    "noteZh": "围绕 sobornost、教会共同体、自由与统一的斯拉夫派文本汇编口径。"
+  },
+  {
+    "id": "kireevsky-european-culture-russia",
+    "philosopherId": "ivan-kireevsky",
+    "titleZh": "论欧洲文化及其对俄国之关系",
+    "titleEn": "On the Nature of European Culture and Its Relation to Russian Culture",
+    "originalTitle": "О характере просвещения Европы и о его отношении к просвещению России",
+    "noteZh": "基列耶夫斯基反思西欧理性主义、教父传统与俄国整全知识的代表文本。"
+  },
+  {
+    "id": "herzen-my-past-and-thoughts",
+    "philosopherId": "alexander-herzen",
+    "titleZh": "往事与随想",
+    "titleEn": "My Past and Thoughts",
+    "originalTitle": "Былое и думы",
+    "noteZh": "赫尔岑兼具自传、政治反思与俄国思想史见证的核心文本。"
+  },
+  {
+    "id": "herzen-russian-revolutionary-ideas",
+    "philosopherId": "alexander-herzen",
+    "titleZh": "论俄国革命思想的发展",
+    "titleEn": "On the Development of Revolutionary Ideas in Russia",
+    "originalTitle": "О развитии революционных идей в России",
+    "noteZh": "赫尔岑关于俄国思想道路与社会变革传统的代表性论述。"
+  },
+  {
+    "id": "bakunin-statism-and-anarchy",
+    "philosopherId": "mikhail-bakunin",
+    "titleZh": "国家制度与无政府状态",
+    "titleEn": "Statism and Anarchy",
+    "originalTitle": "Государственность и анархия",
+    "noteZh": "巴枯宁晚期政治理论核心文本，集中呈现国家批判与无政府主义立场。"
+  },
+  {
+    "id": "bakunin-god-and-state",
+    "philosopherId": "mikhail-bakunin",
+    "titleZh": "上帝与国家",
+    "titleEn": "God and the State",
+    "originalTitle": "Dieu et l'État",
+    "noteZh": "巴枯宁关于宗教、权威与自由关系的通行代表文本。"
+  },
+  {
+    "id": "chernyshevsky-what-is-to-be-done",
+    "philosopherId": "nikolai-chernyshevsky",
+    "titleZh": "怎么办？",
+    "titleEn": "What Is to Be Done?",
+    "originalTitle": "Что делать?",
+    "noteZh": "车尔尼雪夫斯基以小说形式承载理性利己与社会理想的思想性文本。"
+  },
+  {
+    "id": "chernyshevsky-aesthetic-relations",
+    "philosopherId": "nikolai-chernyshevsky",
+    "titleZh": "艺术对现实的美学关系",
+    "titleEn": "The Aesthetic Relation of Art to Reality",
+    "originalTitle": "Эстетические отношения искусства к действительности",
+    "noteZh": "车尔尼雪夫斯基现实主义美学与唯物主义文艺观的核心文本。"
+  },
+  {
+    "id": "kropotkin-mutual-aid",
+    "philosopherId": "peter-kropotkin",
+    "titleZh": "互助论",
+    "titleEn": "Mutual Aid: A Factor of Evolution",
+    "originalTitle": "Mutual Aid: A Factor of Evolution",
+    "noteZh": "克鲁泡特金把互助、合作和进化论联系起来的核心文本。"
+  },
+  {
+    "id": "kropotkin-conquest-of-bread",
+    "philosopherId": "peter-kropotkin",
+    "titleZh": "面包与自由",
+    "titleEn": "The Conquest of Bread",
+    "originalTitle": "La Conquête du Pain",
+    "noteZh": "克鲁泡特金关于无政府共产主义社会组织想象的代表文本。"
+  },
+  {
+    "id": "dostoevsky-brothers-karamazov",
+    "philosopherId": "fyodor-dostoevsky",
+    "titleZh": "卡拉马佐夫兄弟",
+    "titleEn": "The Brothers Karamazov",
+    "originalTitle": "Братья Карамазовы",
+    "noteZh": "陀思妥耶夫斯基关于信仰、自由、罪与救赎问题的思想性小说。"
+  },
+  {
+    "id": "dostoevsky-notes-from-underground",
+    "philosopherId": "fyodor-dostoevsky",
+    "titleZh": "地下室手记",
+    "titleEn": "Notes from Underground",
+    "originalTitle": "Записки из подполья",
+    "noteZh": "陀思妥耶夫斯基关于自由意志、理性主义和现代主体困境的思想性文本。"
+  },
+  {
+    "id": "tolstoy-kingdom-of-god-within-you",
+    "philosopherId": "leo-tolstoy",
+    "titleZh": "天国在你心中",
+    "titleEn": "The Kingdom of God Is Within You",
+    "originalTitle": "Царство Божие внутри вас",
+    "noteZh": "托尔斯泰阐述基督教伦理、非暴力和良心抵抗的核心文本。"
+  },
+  {
+    "id": "tolstoy-confession",
+    "philosopherId": "leo-tolstoy",
+    "titleZh": "忏悔录",
+    "titleEn": "A Confession",
+    "originalTitle": "Исповедь",
+    "noteZh": "托尔斯泰关于信仰危机、生命意义和宗教转向的代表文本。"
+  },
+  {
+    "id": "solovyov-justification-of-the-good",
+    "philosopherId": "vladimir-solovyov",
+    "titleZh": "善的证明",
+    "titleEn": "The Justification of the Good",
+    "originalTitle": "Оправдание добра",
+    "noteZh": "索洛维约夫关于伦理、宗教与全统一思想的核心著作。"
+  },
+  {
+    "id": "solovyov-lectures-divine-humanity",
+    "philosopherId": "vladimir-solovyov",
+    "titleZh": "神人类讲座",
+    "titleEn": "Lectures on Divine Humanity",
+    "originalTitle": "Чтения о Богочеловечестве",
+    "noteZh": "索洛维约夫阐发神人类、索菲亚学和宗教形而上学的代表文本。"
+  },
+  {
+    "id": "fedorov-philosophy-common-task",
+    "philosopherId": "nikolai-fedorov",
+    "titleZh": "共同事业的哲学",
+    "titleEn": "The Philosophy of the Common Task",
+    "originalTitle": "Философия общего дела",
+    "noteZh": "费奥多罗夫关于共同事业、祖先复活和俄国宇宙主义的核心文本。"
+  },
+  {
+    "id": "shestov-athens-and-jerusalem",
+    "philosopherId": "lev-shestov",
+    "titleZh": "雅典与耶路撒冷",
+    "titleEn": "Athens and Jerusalem",
+    "originalTitle": "Афины и Иерусалим",
+    "noteZh": "舍斯托夫关于理性、信仰、必然性和自由的代表性晚期著作。"
+  },
+  {
+    "id": "shestov-all-things-are-possible",
+    "philosopherId": "lev-shestov",
+    "titleZh": "旷野呼告",
+    "titleEn": "All Things Are Possible",
+    "originalTitle": "Апофеоз беспочвенности",
+    "noteZh": "舍斯托夫反理性主义和存在主义问题意识的早期代表文本。"
+  },
+  {
+    "id": "berdyaev-philosophy-of-freedom",
+    "philosopherId": "nikolai-berdyaev",
+    "titleZh": "自由的哲学",
+    "titleEn": "The Philosophy of Freedom",
+    "originalTitle": "Философия свободы",
+    "noteZh": "别尔嘉耶夫早期自由哲学与宗教人格主义问题的核心文本。"
+  },
+  {
+    "id": "berdyaev-slavery-and-freedom",
+    "philosopherId": "nikolai-berdyaev",
+    "titleZh": "论人的奴役与自由",
+    "titleEn": "Slavery and Freedom",
+    "originalTitle": "О рабстве и свободе человека",
+    "noteZh": "别尔嘉耶夫关于人格、奴役与自由的代表性晚期文本。"
+  },
+  {
+    "id": "bulgakov-unfading-light",
+    "philosopherId": "sergei-bulgakov",
+    "titleZh": "不暮之光",
+    "titleEn": "Unfading Light",
+    "originalTitle": "Свет невечерний",
+    "noteZh": "布尔加科夫宗教哲学和索菲亚学问题的代表文本。"
+  },
+  {
+    "id": "bulgakov-lamb-of-god",
+    "philosopherId": "sergei-bulgakov",
+    "titleZh": "神人类",
+    "titleEn": "The Lamb of God",
+    "originalTitle": "Агнец Божий",
+    "noteZh": "布尔加科夫神人类学与基督论—索菲亚学问题的代表文本；中文题名按生产口径暂用《神人类》。"
+  },
+  {
+    "id": "florensky-pillar-ground-truth",
+    "philosopherId": "pavel-florensky",
+    "titleZh": "真理的柱石与根基",
+    "titleEn": "The Pillar and Ground of the Truth",
+    "originalTitle": "Столп и утверждение истины",
+    "noteZh": "弗洛连斯基连接东正教神学、爱、知识和象征思想的核心文本。"
+  },
+  {
+    "id": "frank-unknowable",
+    "philosopherId": "semyon-frank",
+    "titleZh": "不可测度者",
+    "titleEn": "The Unknowable",
+    "originalTitle": "Непостижимое",
+    "noteZh": "弗兰克关于全一、不可测度者和宗教形而上学的代表文本。"
+  },
+  {
+    "id": "frank-spiritual-foundations-society",
+    "philosopherId": "semyon-frank",
+    "titleZh": "社会的精神基础",
+    "titleEn": "The Spiritual Foundations of Society",
+    "originalTitle": "Духовные основы общества",
+    "noteZh": "弗兰克把宗教形而上学与社会哲学相连的代表文本。"
+  },
+  {
+    "id": "buddhaghosa-visuddhimagga",
+    "philosopherId": "buddhaghosa",
+    "titleZh": "清净道论",
+    "titleEn": "Visuddhimagga / The Path of Purification",
+    "originalTitle": "Visuddhimagga",
+    "noteZh": "觉音综合戒、定、慧与上座部阿毗达磨修道论的核心文本。"
+  },
+  {
+    "id": "dhammapala-paramatthadipani",
+    "philosopherId": "dhammapala",
+    "titleZh": "胜义灯疏",
+    "titleEn": "Paramatthadīpanī",
+    "originalTitle": "Paramatthadīpanī",
+    "noteZh": "传统归于护法的小部注疏系列；断代和具体文本归属需在后续标准档中细核。"
+  },
+  {
+    "id": "ledi-paramattha-dipani",
+    "philosopherId": "ledi-sayadaw",
+    "titleZh": "胜义要义手册",
+    "titleEn": "Paramattha-dīpanī / Manual of Ultimate Truth",
+    "originalTitle": "Paramattha-dīpanī",
+    "noteZh": "雷迪长老关于阿毗达磨胜义法分析的代表性手册。"
+  },
+  {
+    "id": "ledi-manuals-of-dhamma",
+    "philosopherId": "ledi-sayadaw",
+    "titleZh": "法之手册",
+    "titleEn": "Manuals of Dhamma",
+    "originalTitle": "Dhamma Dīpanī and related manuals",
+    "noteZh": "雷迪长老以通俗手册形式传播上座部教理与修行的文本口径。"
+  },
+  {
+    "id": "mahasi-manual-of-vipassana",
+    "philosopherId": "mahasi-sayadaw",
+    "titleZh": "内观手册",
+    "titleEn": "Manual of Vipassana Meditation",
+    "originalTitle": "Vipassanā manuals",
+    "noteZh": "马哈希长老关于念处与内观实践方法的代表文本。"
+  },
+  {
+    "id": "mahasi-practical-insight-meditation",
+    "philosopherId": "mahasi-sayadaw",
+    "titleZh": "实用内观禅修",
+    "titleEn": "Practical Insight Meditation",
+    "originalTitle": "Practical Insight Meditation",
+    "noteZh": "马哈希体系现代传播中常见的内观修行文本。"
+  },
+  {
+    "id": "buddhadasa-mindfulness-with-breathing",
+    "philosopherId": "buddhadasa",
+    "titleZh": "观呼吸",
+    "titleEn": "Mindfulness With Breathing",
+    "originalTitle": "Ānāpānasati teachings",
+    "noteZh": "佛使比丘关于呼吸念、修行实践和缘起理解的代表文本。"
+  },
+  {
+    "id": "buddhadasa-no-religion",
+    "philosopherId": "buddhadasa",
+    "titleZh": "无我 / 无宗教",
+    "titleEn": "No Religion",
+    "originalTitle": "No Religion",
+    "noteZh": "佛使比丘重释宗教、无我和法的普遍性的现代佛教文本。"
+  },
+  {
+    "id": "tran-thai-tong-khoa-hu-luc",
+    "philosopherId": "tran-thai-tong",
+    "titleZh": "课虚录",
+    "titleEn": "Khóa hư lục / Instructions on Emptiness",
+    "originalTitle": "Khóa hư lục / 課虛錄",
+    "noteZh": "陈太宗关于越南禅修、空性、伦理和生死反思的核心文本。"
+  },
+  {
+    "id": "tran-nhan-tong-cu-tran-lac-dao-phu",
+    "philosopherId": "tran-nhan-tong",
+    "titleZh": "居尘乐道赋",
+    "titleEn": "Dwelling in the Dust and Delighting in the Way",
+    "originalTitle": "Cư trần lạc đạo phú / 居塵樂道賦",
+    "noteZh": "陈仁宗竹林禅思想中关于世间生活与修道统一的代表性诗文。"
+  },
+  {
+    "id": "le-quy-don-van-dai-loai-ngu",
+    "philosopherId": "le-quy-don",
+    "titleZh": "芸台类语",
+    "titleEn": "Vân đài loại ngữ / Classified Sayings from the Van Terrace",
+    "originalTitle": "Vân đài loại ngữ / 芸臺類語",
+    "noteZh": "黎贵惇1773年编纂的百科式著作，体现越南儒学、理气论与博物知识体系。"
   }
 ]

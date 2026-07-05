@@ -1,0 +1,55 @@
+{
+  "id": "zoroaster",
+  "tier": "seed",
+  "names": {
+    "zh": "琐罗亚斯德（查拉图斯特拉）",
+    "en": "Zoroaster",
+    "native": "Zaraθuštra"
+  },
+  "life": {
+    "birth": -1000,
+    "display": "约前1000（断代争议，另有前600等说）"
+  },
+  "civilization": "persian",
+  "traditions": [
+    "zoroastrianism",
+    "ancient_iranian_religion"
+  ],
+  "periods": [
+    "seed_w10",
+    "pre_islamic_persian"
+  ],
+  "themes": [
+    "metaphysics",
+    "ethics",
+    "freedom",
+    "justice",
+    "life_death",
+    "religion"
+  ],
+  "keywordsZh": [
+    "阿胡拉·马兹达",
+    "善恶二元",
+    "阿沙",
+    "伽萨"
+  ],
+  "oneLineZh": "古伊朗先知与祆教传统核心人物，以善恶抉择、真理秩序和末世审判构成前伊斯兰波斯思想源头。",
+  "influenceWeight": 3,
+  "reviewStatus": "draft",
+  "summaryZh": "琐罗亚斯德作为古伊朗先知，其历史年代和文本归属均有争议；本 seed 档只登记其身份层，并把作品边界限于《阿维斯陀》最古层《伽萨》部分可归属的颂诗传统。其思想史位置在于把阿胡拉·马兹达、asha 真理秩序、善恶自由抉择与末世审判组织为前伊斯兰波斯宗教哲学的核心源头。",
+  "works": [
+    "zoroaster-gathas"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S001",
+      "url": "https://iranicaonline.org/articles/zoroaster-index",
+      "noteZh": "Encyclopaedia Iranica Zoroaster 条目用于核验其古伊朗先知身份与祆教传统核心位置；断代仍有前1000至前600等不同学说，本批采约前1000为生产口径并保留断代争议。"
+    },
+    {
+      "label": "S002",
+      "url": "https://iranicaonline.org/articles/gathas",
+      "noteZh": "Encyclopaedia Iranica Gathas 条目用于核验《伽萨》作为《亚斯纳》核心、古阿维斯陀语十七首颂诗的文本性质；《伽萨》作者归属学界亦有争议（传统多归于 Zoroaster 本人，Kellens/Skjærvø 等存疑、甚或质疑是否有单一作者），本批按可部分归属处理，且不把整部《阿维斯陀》归于 Zoroaster。"
+    }
+  ]
+}

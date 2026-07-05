@@ -1,0 +1,56 @@
+{
+  "id": "vladimir-solovyov",
+  "tier": "seed",
+  "names": {
+    "zh": "索洛维约夫",
+    "en": "Vladimir Solovyov",
+    "native": "Владимир Сергеевич Соловьёв"
+  },
+  "life": {
+    "birth": 1853,
+    "death": 1900,
+    "display": "1853—1900"
+  },
+  "civilization": "russian",
+  "traditions": [
+    "russian_religious_philosophy",
+    "sophiology",
+    "all_unity"
+  ],
+  "periods": [
+    "seed_w11",
+    "imperial_russia",
+    "pre_revolutionary_russian_thought"
+  ],
+  "themes": [
+    "metaphysics",
+    "ethics",
+    "religion"
+  ],
+  "keywordsZh": [
+    "善的证明",
+    "神人类",
+    "索菲亚学",
+    "全统一"
+  ],
+  "oneLineZh": "俄国宗教哲学枢纽人物，以全统一、神人类、索菲亚学和善的证明影响白银时代。",
+  "influenceWeight": 3,
+  "reviewStatus": "draft",
+  "summaryZh": "索洛维约夫是俄国宗教哲学和白银时代思想谱系的枢纽人物，围绕全统一、神人类、索菲亚学和善的证明展开系统性宗教哲学。本 seed 档只建身份层；关系数按 W11 生产口径严格限制为 Schelling、Hegel 与 b3 Bulgakov 三条。",
+  "works": [
+    "solovyov-justification-of-the-good",
+    "solovyov-lectures-divine-humanity"
+  ],
+  "sourceNotes": [
+    {
+      "label": "W11-B2-S005",
+      "url": "https://iep.utm.edu/russian/",
+      "noteZh": "IEP Russian Philosophy 总论用于核验 Solovyov 在俄国宗教哲学和专业哲学兴起中的枢纽地位。"
+    },
+    {
+      "label": "W11-B2-S006",
+      "url": "https://www.britannica.com/biography/Vladimir-Solovyov",
+      "noteZh": "Britannica Solovyov 条目用于核验其生卒、宗教哲学家身份和核心学说口径。"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "leo-tolstoy",
+  "tier": "seed",
+  "names": {
+    "zh": "托尔斯泰",
+    "en": "Leo Tolstoy",
+    "native": "Лев Николаевич Толстой"
+  },
+  "life": {
+    "birth": 1828,
+    "death": 1910,
+    "display": "1828—1910"
+  },
+  "civilization": "russian",
+  "traditions": [
+    "christian_ethics",
+    "nonviolence",
+    "russian_religious_thought"
+  ],
+  "periods": [
+    "seed_w11",
+    "imperial_russia",
+    "pre_revolutionary_russian_thought"
+  ],
+  "themes": [
+    "religion",
+    "ethics",
+    "politics"
+  ],
+  "keywordsZh": [
+    "天国在你心中",
+    "忏悔录",
+    "非暴力",
+    "基督教伦理"
+  ],
+  "oneLineZh": "以基督教伦理、非暴力和良心批判组织社会思想的俄国作家思想家。",
+  "influenceWeight": 3,
+  "reviewStatus": "draft",
+  "summaryZh": "托尔斯泰晚期宗教伦理思想以良心、非暴力、简朴生活和对制度化权威的批判为核心。《天国在你心中》和《忏悔录》构成其思想家身份的 seed 文本口径。",
+  "works": [
+    "tolstoy-kingdom-of-god-within-you",
+    "tolstoy-confession"
+  ],
+  "sourceNotes": [
+    {
+      "label": "W11-B2-S003",
+      "url": "https://iep.utm.edu/russian/",
+      "noteZh": "IEP Russian Philosophy 总论用于核验 Tolstoy 在俄国广义思想史中的收录口径。"
+    },
+    {
+      "label": "W11-B2-S004",
+      "url": "https://www.britannica.com/biography/Leo-Tolstoy",
+      "noteZh": "Britannica Tolstoy 条目用于核验其生卒、主要作品和宗教伦理思想。"
+    }
+  ]
+}

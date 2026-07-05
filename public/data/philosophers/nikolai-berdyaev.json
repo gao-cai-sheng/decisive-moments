@@ -1,0 +1,56 @@
+{
+  "id": "nikolai-berdyaev",
+  "tier": "seed",
+  "names": {
+    "zh": "别尔嘉耶夫",
+    "en": "Nikolai Berdyaev",
+    "native": "Николай Александрович Бердяев"
+  },
+  "life": {
+    "birth": 1874,
+    "death": 1948,
+    "display": "1874—1948"
+  },
+  "civilization": "russian",
+  "traditions": [
+    "russian_religious_philosophy",
+    "personalism",
+    "philosophy_of_freedom"
+  ],
+  "periods": [
+    "seed_w11",
+    "pre_revolutionary_russian_thought",
+    "silver_age"
+  ],
+  "themes": [
+    "freedom",
+    "religion",
+    "ethics"
+  ],
+  "keywordsZh": [
+    "自由哲学",
+    "人格主义",
+    "奴役与自由",
+    "创造"
+  ],
+  "oneLineZh": "白银时代宗教哲学家，以自由、人格、创造和反奴役问题为核心。",
+  "influenceWeight": 3,
+  "reviewStatus": "draft",
+  "summaryZh": "别尔嘉耶夫虽主要以流亡时期著作为人熟知，但其思想形成属于革命前俄国宗教哲学和白银时代语境；本 seed 档只记录自由哲学、人格主义和创造问题，不挂 Solovyov，以免枢纽关系超限。",
+  "works": [
+    "berdyaev-philosophy-of-freedom",
+    "berdyaev-slavery-and-freedom"
+  ],
+  "sourceNotes": [
+    {
+      "label": "W11-B3-S001",
+      "url": "https://iep.utm.edu/berdyaev/",
+      "noteZh": "IEP Berdyaev 条目用于核验其自由哲学、人格主义、宗教哲学和流亡思想位置。"
+    },
+    {
+      "label": "W11-B3-S002",
+      "url": "https://plato.stanford.edu/entries/religion-russia-ukraine/",
+      "noteZh": "SEP 俄乌宗教哲学条目用于核验白银时代宗教哲学谱系和革命前传统口径。"
+    }
+  ]
+}

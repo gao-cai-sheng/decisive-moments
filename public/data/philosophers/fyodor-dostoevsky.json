@@ -1,0 +1,57 @@
+{
+  "id": "fyodor-dostoevsky",
+  "tier": "seed",
+  "names": {
+    "zh": "陀思妥耶夫斯基",
+    "en": "Fyodor Dostoevsky",
+    "native": "Фёдор Михайлович Достоевский"
+  },
+  "life": {
+    "birth": 1821,
+    "death": 1881,
+    "display": "1821—1881"
+  },
+  "civilization": "russian",
+  "traditions": [
+    "russian_religious_thought",
+    "existential_literature",
+    "moral_psychology"
+  ],
+  "periods": [
+    "seed_w11",
+    "imperial_russia",
+    "pre_revolutionary_russian_thought"
+  ],
+  "themes": [
+    "freedom",
+    "religion",
+    "ethics",
+    "life_death"
+  ],
+  "keywordsZh": [
+    "卡拉马佐夫兄弟",
+    "地下室手记",
+    "自由",
+    "罪与救赎"
+  ],
+  "oneLineZh": "以小说承载宗教、自由、恶与救赎问题的俄国思想家型作家。",
+  "influenceWeight": 3,
+  "reviewStatus": "draft",
+  "summaryZh": "陀思妥耶夫斯基在《卡拉马佐夫兄弟》《地下室手记》等作品中集中呈现自由意志、恶、信仰、虚无主义和救赎问题。本 seed 档按思想家身份收录其思想性文学文本，不作纯文学条目。",
+  "works": [
+    "dostoevsky-brothers-karamazov",
+    "dostoevsky-notes-from-underground"
+  ],
+  "sourceNotes": [
+    {
+      "label": "W11-B2-S001",
+      "url": "https://iep.utm.edu/russian/",
+      "noteZh": "IEP Russian Philosophy 总论用于核验俄国哲学史常把 Dostoevsky 与 Tolstoy 这类文学人物纳入广义思想史。"
+    },
+    {
+      "label": "W11-B2-S002",
+      "url": "https://www.britannica.com/biography/Fyodor-Dostoyevsky",
+      "noteZh": "Britannica Dostoevsky 条目用于核验其生卒、核心作品和思想性文学位置。"
+    }
+  ]
+}

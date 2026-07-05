@@ -1,0 +1,53 @@
+{
+  "id": "ivan-kireevsky",
+  "tier": "seed",
+  "names": {
+    "zh": "基列耶夫斯基",
+    "en": "Ivan Kireevsky",
+    "native": "Иван Васильевич Киреевский"
+  },
+  "life": {
+    "birth": 1806,
+    "death": 1856,
+    "display": "1806—1856"
+  },
+  "civilization": "russian",
+  "traditions": [
+    "slavophilism",
+    "orthodox_philosophy"
+  ],
+  "periods": [
+    "seed_w11",
+    "imperial_russia",
+    "pre_revolutionary_russian_thought"
+  ],
+  "themes": [
+    "knowledge",
+    "religion"
+  ],
+  "keywordsZh": [
+    "整全知识",
+    "斯拉夫派",
+    "欧洲文化",
+    "东正教传统"
+  ],
+  "oneLineZh": "斯拉夫派共同奠基者之一，以整全知识和东正教传统反思西欧理性主义。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "基列耶夫斯基与霍米亚科夫共同构成早期斯拉夫派的思想核心；他以整全知识、教父传统和俄国精神生活批判西欧抽象理性主义。本 seed 档只收其身份层和核心文本口径。",
+  "works": [
+    "kireevsky-european-culture-russia"
+  ],
+  "sourceNotes": [
+    {
+      "label": "W11-B1-S005",
+      "url": "https://iep.utm.edu/russian/",
+      "noteZh": "IEP Russian Philosophy 总论用于核验 Kireevsky 与 Khomyakov 在斯拉夫派和俄国哲学史中的位置。"
+    },
+    {
+      "label": "W11-B1-S006",
+      "url": "https://www.britannica.com/biography/Ivan-Vasilyevich-Kireyevsky",
+      "noteZh": "Britannica Kireevsky 条目用于核验其生卒、斯拉夫派身份与作品传统。"
+    }
+  ]
+}

@@ -13320,5 +13320,739 @@
     ],
     "noteZh": "库萨与普勒东同处15世纪希腊学问、柏拉图主义和文艺复兴宗教哲学交汇语境；此边标后世/同场接收语境，不写成普勒东受库萨影响。",
     "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w10-b1-001-suhrawardi-zoroaster-reception",
+    "from": "suhrawardi",
+    "to": "zoroaster",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "metaphysics",
+      "religion"
+    ],
+    "noteZh": "苏赫拉瓦迪把古波斯光智传统纳入照明学派的自我谱系；此关系标注为后世哲学性接收，不等同于可考师承链。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w10-b1-002-nietzsche-zoroaster-reception",
+    "from": "nietzsche",
+    "to": "zoroaster",
+    "type": "reception",
+    "strength": 1,
+    "confidence": "medium",
+    "themeIds": [
+      "ethics",
+      "religion"
+    ],
+    "noteZh": "尼采在《查拉图斯特拉如是说》中借用 Zarathustra 形象进行现代哲学再诠释；此处只标后世借名与反讽式重写，不表示历史师承或直接影响。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w10-b1-003-mani-zoroaster-reception",
+    "from": "mani",
+    "to": "zoroaster",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "metaphysics",
+      "religion"
+    ],
+    "noteZh": "摩尼教在萨珊波斯语境中吸收并改写祆教二元论和末世论资源，形成自身的光暗二元宇宙论。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w10-b1-004-augustine-mani-critique",
+    "from": "augustine",
+    "to": "mani",
+    "type": "critique",
+    "strength": 2,
+    "confidence": "high",
+    "themeIds": [
+      "religion",
+      "ethics",
+      "freedom"
+    ],
+    "noteZh": "奥古斯丁早年曾受摩尼教吸引，后在反摩尼教论著中批判其恶之实体化、自由意志与救赎论口径。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w10-b1-005-mani-plotinus-shared-problem",
+    "from": "mani",
+    "to": "plotinus",
+    "type": "shared_problem",
+    "strength": 1,
+    "confidence": "low",
+    "themeIds": [
+      "metaphysics",
+      "religion"
+    ],
+    "noteZh": "摩尼与普罗提诺处在晚期古代灵魂救赎、宇宙恶与物质贬抑的共同论争背景中；普罗提诺《驳诺斯替派》不是直接驳摩尼教，本关系仅作思想语境对照。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w11-b1-001-chaadaev-schelling-reception",
+    "from": "pyotr-chaadaev",
+    "to": "schelling",
+    "type": "reception",
+    "strength": 1,
+    "confidence": "medium",
+    "themeIds": [
+      "religion",
+      "knowledge"
+    ],
+    "noteZh": "恰达耶夫的问题意识处在俄国早期德国观念论接收语境中；此处只作思想资源锚定，不标为师承。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w11-b1-002-khomyakov-chaadaev-critique",
+    "from": "aleksei-khomyakov",
+    "to": "pyotr-chaadaev",
+    "type": "critique",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "religion",
+      "politics"
+    ],
+    "noteZh": "霍米亚科夫及斯拉夫派回应恰达耶夫提出的俄国文明道路问题；这是论争关系，不是师承链。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w11-b1-003-khomyakov-schelling-reception",
+    "from": "aleksei-khomyakov",
+    "to": "schelling",
+    "type": "reception",
+    "strength": 1,
+    "confidence": "medium",
+    "themeIds": [
+      "religion",
+      "knowledge"
+    ],
+    "noteZh": "霍米亚科夫的斯拉夫派神学—哲学问题处在俄国 Schelling 接收语境中；本边只作观念论背景锚定。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w11-b1-004-kireevsky-schelling-reception",
+    "from": "ivan-kireevsky",
+    "to": "schelling",
+    "type": "reception",
+    "strength": 1,
+    "confidence": "medium",
+    "themeIds": [
+      "knowledge",
+      "religion"
+    ],
+    "noteZh": "基列耶夫斯基的整全知识问题与俄国早期 Schelling 接收相关；此处只作哲学背景锚定。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w11-b1-005-kireevsky-khomyakov-shared-problem",
+    "from": "ivan-kireevsky",
+    "to": "aleksei-khomyakov",
+    "type": "shared_problem",
+    "strength": 2,
+    "confidence": "high",
+    "themeIds": [
+      "religion",
+      "knowledge"
+    ],
+    "noteZh": "基列耶夫斯基与霍米亚科夫共同构成斯拉夫派核心，对整全知识、共同体与东正教传统有共同问题域。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w11-b1-006-herzen-hegel-reception",
+    "from": "alexander-herzen",
+    "to": "hegel",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "high",
+    "themeIds": [
+      "politics",
+      "freedom"
+    ],
+    "noteZh": "赫尔岑青年时期深受黑格尔主义影响，后把辩证法问题转入俄国自由与社会道路反思。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w11-b1-007-herzen-feuerbach-reception",
+    "from": "alexander-herzen",
+    "to": "feuerbach",
+    "type": "reception",
+    "strength": 1,
+    "confidence": "medium",
+    "themeIds": [
+      "freedom",
+      "justice"
+    ],
+    "noteZh": "赫尔岑的人本主义和社会批判与费尔巴哈式人学资源相关；此边只作思想资源锚定。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w11-b1-008-bakunin-hegel-reception",
+    "from": "mikhail-bakunin",
+    "to": "hegel",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "high",
+    "themeIds": [
+      "politics",
+      "freedom"
+    ],
+    "noteZh": "巴枯宁早期处在青年黑格尔主义语境中，后转向自己的自由与社会理论。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w11-b1-009-bakunin-marx-critique",
+    "from": "mikhail-bakunin",
+    "to": "marx",
+    "type": "critique",
+    "strength": 2,
+    "confidence": "high",
+    "themeIds": [
+      "politics",
+      "freedom",
+      "justice"
+    ],
+    "noteZh": "巴枯宁与马克思在国家、组织和社会道路问题上形成著名分歧；此处标为批判/论敌关系。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w11-b1-010-chernyshevsky-feuerbach-reception",
+    "from": "nikolai-chernyshevsky",
+    "to": "feuerbach",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "ethics",
+      "aesthetics"
+    ],
+    "noteZh": "车尔尼雪夫斯基的理性利己、现实主义美学和人本唯物主义口径可锚定到费尔巴哈接收。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w11-b1-011-chernyshevsky-comte-reception",
+    "from": "nikolai-chernyshevsky",
+    "to": "comte",
+    "type": "reception",
+    "strength": 1,
+    "confidence": "medium",
+    "themeIds": [
+      "politics",
+      "knowledge"
+    ],
+    "noteZh": "车尔尼雪夫斯基所在的19世纪俄国社会思想语境吸收实证主义与社会科学话语；此边作背景锚定。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w11-b1-012-kropotkin-bakunin-reception",
+    "from": "peter-kropotkin",
+    "to": "mikhail-bakunin",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "politics",
+      "freedom"
+    ],
+    "noteZh": "克鲁泡特金继承俄国无政府主义传统，但把重点转向互助、合作和无政府共产主义。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w11-b1-013-kropotkin-comte-shared-problem",
+    "from": "peter-kropotkin",
+    "to": "comte",
+    "type": "shared_problem",
+    "strength": 1,
+    "confidence": "low",
+    "themeIds": [
+      "ethics",
+      "knowledge"
+    ],
+    "noteZh": "克鲁泡特金以自然科学与社会理论解释互助伦理；此处仅与实证主义社会科学问题域作低置信度对照。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w11-b2-001-dostoevsky-kant-shared-problem",
+    "from": "fyodor-dostoevsky",
+    "to": "kant",
+    "type": "shared_problem",
+    "strength": 1,
+    "confidence": "medium",
+    "themeIds": [
+      "freedom",
+      "ethics"
+    ],
+    "noteZh": "陀思妥耶夫斯基以文学形式处理自由、责任和道德律问题；此处与康德作问题域对照，不表示文本师承。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w11-b2-002-nietzsche-dostoevsky-reception",
+    "from": "nietzsche",
+    "to": "fyodor-dostoevsky",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "high",
+    "themeIds": [
+      "freedom",
+      "ethics",
+      "life_death"
+    ],
+    "noteZh": "尼采是后世接收者；本边标记尼采对陀思妥耶夫斯基心理和道德问题的接收，不表示陀氏受尼采影响。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w11-b2-003-tolstoy-rousseau-reception",
+    "from": "leo-tolstoy",
+    "to": "rousseau",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "ethics",
+      "politics"
+    ],
+    "noteZh": "托尔斯泰的自然、良心和社会批判问题可锚定到卢梭传统；此处作思想资源关系。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w11-b2-004-tolstoy-kant-reception",
+    "from": "leo-tolstoy",
+    "to": "kant",
+    "type": "reception",
+    "strength": 1,
+    "confidence": "medium",
+    "themeIds": [
+      "religion",
+      "ethics"
+    ],
+    "noteZh": "托尔斯泰的宗教伦理与道德自律问题可与康德道德宗教传统关联；本边作背景锚定。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w11-b2-005-solovyov-schelling-reception",
+    "from": "vladimir-solovyov",
+    "to": "schelling",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "high",
+    "themeIds": [
+      "metaphysics",
+      "religion"
+    ],
+    "noteZh": "索洛维约夫的全统一和宗教形而上学可锚定到德国观念论尤其 Schelling 的接收语境。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w11-b2-006-solovyov-hegel-reception",
+    "from": "vladimir-solovyov",
+    "to": "hegel",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "metaphysics",
+      "religion"
+    ],
+    "noteZh": "索洛维约夫的历史和整体性思维与黑格尔传统构成重要背景；此为观念论接收边。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w11-b2-007-fedorov-comte-shared-problem",
+    "from": "nikolai-fedorov",
+    "to": "comte",
+    "type": "shared_problem",
+    "strength": 1,
+    "confidence": "low",
+    "themeIds": [
+      "knowledge",
+      "life_death"
+    ],
+    "noteZh": "费奥多罗夫把科学组织、社会共同任务与宗教目的结合；此处只与实证主义社会组织问题作低置信度对照。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w11-b2-008-dostoevsky-fedorov-reception",
+    "from": "fyodor-dostoevsky",
+    "to": "nikolai-fedorov",
+    "type": "reception",
+    "strength": 1,
+    "confidence": "medium",
+    "themeIds": [
+      "religion",
+      "life_death"
+    ],
+    "noteZh": "费奥多罗夫的共同事业与复活论思想影响陀思妥耶夫斯基的问题语境；方向为陀氏接收费氏，不是反向。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w11-b2-009-shestov-kierkegaard-reception",
+    "from": "lev-shestov",
+    "to": "kierkegaard",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "high",
+    "themeIds": [
+      "religion",
+      "freedom"
+    ],
+    "noteZh": "舍斯托夫与基尔凯郭尔共享信仰、荒诞和自由问题，并在宗教存在主义谱系中形成明确关联。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w11-b2-010-shestov-nietzsche-reception",
+    "from": "lev-shestov",
+    "to": "nietzsche",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "high",
+    "themeIds": [
+      "knowledge",
+      "freedom"
+    ],
+    "noteZh": "舍斯托夫接收并重写尼采对理性、价值和必然性的批判，形成反理性主义宗教哲学。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w11-b3-001-berdyaev-nietzsche-reception",
+    "from": "nikolai-berdyaev",
+    "to": "nietzsche",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "freedom",
+      "ethics"
+    ],
+    "noteZh": "别尔嘉耶夫的自由、创造和人格问题与尼采接收相关；按生产口径不挂 Solovyov。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w11-b3-002-berdyaev-kant-reception",
+    "from": "nikolai-berdyaev",
+    "to": "kant",
+    "type": "reception",
+    "strength": 1,
+    "confidence": "medium",
+    "themeIds": [
+      "freedom",
+      "ethics"
+    ],
+    "noteZh": "别尔嘉耶夫对自由与人格的反思可锚定到康德道德自由传统；此边为标准档锚点。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w11-b3-003-bulgakov-solovyov-reception",
+    "from": "sergei-bulgakov",
+    "to": "vladimir-solovyov",
+    "type": "reception",
+    "strength": 3,
+    "confidence": "high",
+    "themeIds": [
+      "religion",
+      "metaphysics"
+    ],
+    "noteZh": "布尔加科夫在索菲亚学和神人类宗教哲学上直承索洛维约夫；这是 W11 中唯一允许挂入 Solovyov 的白银时代继承边，使 Solovyov 全图关系数为3。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w11-b3-004-bulgakov-marx-reception",
+    "from": "sergei-bulgakov",
+    "to": "marx",
+    "type": "reception",
+    "strength": 1,
+    "confidence": "medium",
+    "themeIds": [
+      "politics",
+      "religion"
+    ],
+    "noteZh": "布尔加科夫早年接收马克思主义政治经济学，后转向宗教哲学；此边标转向背景，不把他列入俄国马克思主义延续波。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w11-b3-005-florensky-schelling-reception",
+    "from": "pavel-florensky",
+    "to": "schelling",
+    "type": "reception",
+    "strength": 1,
+    "confidence": "medium",
+    "themeIds": [
+      "metaphysics",
+      "religion"
+    ],
+    "noteZh": "弗洛连斯基的宗教形而上学和象征思想可锚定到德国观念论背景；按生产口径不挂 Solovyov。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w11-b3-006-florensky-cusa-shared-problem",
+    "from": "pavel-florensky",
+    "to": "cusa",
+    "type": "shared_problem",
+    "strength": 1,
+    "confidence": "low",
+    "themeIds": [
+      "knowledge",
+      "religion"
+    ],
+    "noteZh": "弗洛连斯基与库萨在神学知识、象征和有限理性面对无限的问题上可作低置信度对照。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w11-b3-007-frank-schelling-reception",
+    "from": "semyon-frank",
+    "to": "schelling",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "metaphysics",
+      "knowledge"
+    ],
+    "noteZh": "弗兰克的全一与宗教形而上学可锚定到 Schelling 及德国观念论传统；按生产口径不挂 Solovyov。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w11-b3-008-frank-shestov-shared-problem",
+    "from": "semyon-frank",
+    "to": "lev-shestov",
+    "type": "shared_problem",
+    "strength": 1,
+    "confidence": "medium",
+    "themeIds": [
+      "knowledge",
+      "religion"
+    ],
+    "noteZh": "弗兰克与舍斯托夫同处白银时代宗教哲学语境，但一个偏全一与直觉知识，一个偏反理性和信仰自由；此边标共同问题与张力。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w13-b1-001-buddhaghosa-buddha-reception",
+    "from": "buddhaghosa",
+    "to": "buddha",
+    "type": "reception",
+    "strength": 3,
+    "confidence": "high",
+    "themeIds": [
+      "ethics",
+      "knowledge",
+      "life_death"
+    ],
+    "noteZh": "觉音以巴利三藏和上座部传统为基础系统组织解脱道路；此边锚定其对佛陀教法的注疏性接收。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w13-b1-002-buddhaghosa-vasubandhu-shared-problem",
+    "from": "buddhaghosa",
+    "to": "vasubandhu",
+    "type": "shared_problem",
+    "strength": 1,
+    "confidence": "medium",
+    "themeIds": [
+      "metaphysics",
+      "knowledge"
+    ],
+    "noteZh": "觉音与世亲分属上座部和说一切有部/瑜伽行脉络，但都以阿毗达磨范畴分析心识、法和修道问题；此边作跨传统问题对参。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w13-b1-003-dhammapala-buddhaghosa-reception",
+    "from": "dhammapala",
+    "to": "buddhaghosa",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "knowledge",
+      "ethics"
+    ],
+    "noteZh": "护法处在觉音之后的巴利注疏传统中，本边作为唯一批内继承边，使 Buddhaghosa 合并关系数达到3。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w13-b1-004-dhammapala-buddha-reception",
+    "from": "dhammapala",
+    "to": "buddha",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "ethics",
+      "knowledge"
+    ],
+    "noteZh": "护法的注疏写作以巴利经典和佛陀教法解释为核心；此边作上座部经典接收锚点。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w13-b2-001-ledi-buddha-reception",
+    "from": "ledi-sayadaw",
+    "to": "buddha",
+    "type": "reception",
+    "strength": 3,
+    "confidence": "high",
+    "themeIds": [
+      "ethics",
+      "knowledge"
+    ],
+    "noteZh": "雷迪长老的教理手册和内观复兴以佛陀教法与巴利传统为核心；此边作上座部标准锚点。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w13-b2-002-ledi-vasubandhu-shared-problem",
+    "from": "ledi-sayadaw",
+    "to": "vasubandhu",
+    "type": "shared_problem",
+    "strength": 1,
+    "confidence": "medium",
+    "themeIds": [
+      "metaphysics",
+      "knowledge"
+    ],
+    "noteZh": "雷迪长老的阿毗达磨复兴与世亲的阿毗达磨分析共享心识、法和修道分类问题；此边作跨传统问题对参。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w13-b2-003-mahasi-ledi-reception",
+    "from": "mahasi-sayadaw",
+    "to": "ledi-sayadaw",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "ethics",
+      "knowledge"
+    ],
+    "noteZh": "马哈希长老继承缅甸内观和教理复兴背景；此为唯一挂入 Ledi 的批内继承边，使 Ledi 合并关系数达到3。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w13-b2-004-mahasi-buddha-reception",
+    "from": "mahasi-sayadaw",
+    "to": "buddha",
+    "type": "reception",
+    "strength": 3,
+    "confidence": "high",
+    "themeIds": [
+      "ethics",
+      "knowledge",
+      "life_death"
+    ],
+    "noteZh": "马哈希内观体系以念处、无常苦无我和解脱道为核心，锚定佛陀教法传统。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w13-b2-005-buddhadasa-buddha-reception",
+    "from": "buddhadasa",
+    "to": "buddha",
+    "type": "reception",
+    "strength": 3,
+    "confidence": "high",
+    "themeIds": [
+      "religion",
+      "metaphysics"
+    ],
+    "noteZh": "佛使比丘以现代语言重释缘起、无我和修行生活，本边锚定其对佛陀教法的现代上座部接收。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w13-b2-006-buddhadasa-nagarjuna-shared-problem",
+    "from": "buddhadasa",
+    "to": "nagarjuna",
+    "type": "shared_problem",
+    "strength": 1,
+    "confidence": "medium",
+    "themeIds": [
+      "metaphysics",
+      "religion"
+    ],
+    "noteZh": "佛使比丘对缘起和空性的现代诠释可与龙树缘起性空问题作思想对话；此处不是师承关系。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w13-b3-001-tran-thai-tong-huineng-reception",
+    "from": "tran-thai-tong",
+    "to": "huineng",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "religion",
+      "ethics"
+    ],
+    "noteZh": "陈太宗的越南禅学可锚定到汉传禅宗传统；此边以慧能作为标准档禅宗源头锚点。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w13-b3-002-tran-thai-tong-buddha-reception",
+    "from": "tran-thai-tong",
+    "to": "buddha",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "high",
+    "themeIds": [
+      "religion",
+      "life_death"
+    ],
+    "noteZh": "《课虚录》围绕佛教修行、空性和生死问题展开，锚定佛陀教法传统。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w13-b3-003-tran-nhan-tong-tran-thai-tong-reception",
+    "from": "tran-nhan-tong",
+    "to": "tran-thai-tong",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "religion",
+      "ethics"
+    ],
+    "noteZh": "陈仁宗的竹林禅派承接陈朝早期禅学传统，本边标越南禅内部承续，不作单纯王朝关系。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w13-b3-004-tran-nhan-tong-huineng-reception",
+    "from": "tran-nhan-tong",
+    "to": "huineng",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "religion",
+      "ethics"
+    ],
+    "noteZh": "竹林禅派处在汉传禅宗传播和越南本土化语境中；此边以慧能作禅宗标准档锚点。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w13-b3-005-le-quy-don-zhu-xi-reception",
+    "from": "le-quy-don",
+    "to": "zhu-xi",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "high",
+    "themeIds": [
+      "metaphysics",
+      "knowledge",
+      "ethics"
+    ],
+    "noteZh": "黎贵惇《芸台类语》体现对宋明理学尤其理气论与朱子学资源的接收和整理。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w13-b3-006-le-quy-don-confucius-reception",
+    "from": "le-quy-don",
+    "to": "confucius",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "high",
+    "themeIds": [
+      "ethics",
+      "knowledge"
+    ],
+    "noteZh": "黎贵惇作为越南儒学博学家，其经学与伦理知识秩序锚定儒家传统。",
+    "reviewStatus": "draft"
   }
 ]

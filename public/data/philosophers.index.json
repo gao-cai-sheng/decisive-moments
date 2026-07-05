@@ -17483,5 +17483,1002 @@
     "oneLineZh": "晚期拜占庭柏拉图主义者，以《法律篇》和佛罗伦萨大公会议影响意大利文艺复兴的古典哲学复兴。",
     "influenceWeight": 3,
     "reviewStatus": "draft"
+  },
+  {
+    "id": "zoroaster",
+    "tier": "seed",
+    "names": {
+      "zh": "琐罗亚斯德（查拉图斯特拉）",
+      "en": "Zoroaster",
+      "native": "Zaraθuštra"
+    },
+    "life": {
+      "birth": -1000,
+      "display": "约前1000？—断代争议"
+    },
+    "civilization": "persian",
+    "traditions": [
+      "zoroastrianism",
+      "ancient_iranian_religion"
+    ],
+    "periods": [
+      "seed_w10",
+      "pre_islamic_persian"
+    ],
+    "themes": [
+      "metaphysics",
+      "ethics",
+      "freedom",
+      "justice",
+      "life_death",
+      "religion"
+    ],
+    "keywordsZh": [
+      "阿胡拉·马兹达",
+      "善恶二元",
+      "阿沙",
+      "伽萨"
+    ],
+    "oneLineZh": "古伊朗先知与祆教传统核心人物，以善恶抉择、真理秩序和末世审判构成前伊斯兰波斯思想源头。",
+    "influenceWeight": 3,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "mani",
+    "tier": "seed",
+    "names": {
+      "zh": "摩尼",
+      "en": "Mani",
+      "native": "Mānī"
+    },
+    "life": {
+      "birth": 216,
+      "death": 274,
+      "display": "216—274/277"
+    },
+    "civilization": "persian",
+    "traditions": [
+      "manichaeism",
+      "gnostic_dualism",
+      "sasanian_religion"
+    ],
+    "periods": [
+      "seed_w10",
+      "pre_islamic_persian"
+    ],
+    "themes": [
+      "metaphysics",
+      "religion",
+      "life_death",
+      "ethics"
+    ],
+    "keywordsZh": [
+      "摩尼教",
+      "光暗二元",
+      "救赎",
+      "沙卜拉干"
+    ],
+    "oneLineZh": "萨珊时期摩尼教创立者，以亲撰经典组织光暗二元宇宙论、救赎论与禁欲伦理。",
+    "influenceWeight": 3,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "pyotr-chaadaev",
+    "tier": "seed",
+    "names": {
+      "zh": "恰达耶夫",
+      "en": "Pyotr Chaadaev",
+      "native": "Пётр Яковлевич Чаадаев"
+    },
+    "life": {
+      "birth": 1794,
+      "death": 1856,
+      "display": "1794—1856"
+    },
+    "civilization": "russian",
+    "traditions": [
+      "westernizers",
+      "russian_religious_philosophy"
+    ],
+    "periods": [
+      "seed_w11",
+      "imperial_russia",
+      "pre_revolutionary_russian_thought"
+    ],
+    "themes": [
+      "religion",
+      "politics",
+      "knowledge"
+    ],
+    "keywordsZh": [
+      "哲学书简",
+      "西化派",
+      "俄国使命",
+      "历史哲学"
+    ],
+    "oneLineZh": "19世纪俄国思想家，《哲学书简》引发关于俄国历史使命与文明道路的论争。",
+    "influenceWeight": 3,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "aleksei-khomyakov",
+    "tier": "seed",
+    "names": {
+      "zh": "霍米亚科夫",
+      "en": "Aleksei Khomyakov",
+      "native": "Алексей Степанович Хомяков"
+    },
+    "life": {
+      "birth": 1804,
+      "death": 1860,
+      "display": "1804—1860"
+    },
+    "civilization": "russian",
+    "traditions": [
+      "slavophilism",
+      "orthodox_theology"
+    ],
+    "periods": [
+      "seed_w11",
+      "imperial_russia",
+      "pre_revolutionary_russian_thought"
+    ],
+    "themes": [
+      "religion",
+      "politics",
+      "knowledge"
+    ],
+    "keywordsZh": [
+      "斯拉夫派",
+      "聚和性",
+      "sobornost",
+      "东正教共同体"
+    ],
+    "oneLineZh": "斯拉夫派核心理论家，以 sobornost 组织自由、共同体和东正教传统的思想口径。",
+    "influenceWeight": 3,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "ivan-kireevsky",
+    "tier": "seed",
+    "names": {
+      "zh": "基列耶夫斯基",
+      "en": "Ivan Kireevsky",
+      "native": "Иван Васильевич Киреевский"
+    },
+    "life": {
+      "birth": 1806,
+      "death": 1856,
+      "display": "1806—1856"
+    },
+    "civilization": "russian",
+    "traditions": [
+      "slavophilism",
+      "orthodox_philosophy"
+    ],
+    "periods": [
+      "seed_w11",
+      "imperial_russia",
+      "pre_revolutionary_russian_thought"
+    ],
+    "themes": [
+      "knowledge",
+      "religion"
+    ],
+    "keywordsZh": [
+      "整全知识",
+      "斯拉夫派",
+      "欧洲文化",
+      "东正教传统"
+    ],
+    "oneLineZh": "斯拉夫派共同奠基者之一，以整全知识和东正教传统反思西欧理性主义。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "alexander-herzen",
+    "tier": "seed",
+    "names": {
+      "zh": "赫尔岑",
+      "en": "Alexander Herzen",
+      "native": "Александр Иванович Герцен"
+    },
+    "life": {
+      "birth": 1812,
+      "death": 1870,
+      "display": "1812—1870"
+    },
+    "civilization": "russian",
+    "traditions": [
+      "westernizers",
+      "russian_socialism",
+      "populism"
+    ],
+    "periods": [
+      "seed_w11",
+      "imperial_russia",
+      "pre_revolutionary_russian_thought"
+    ],
+    "themes": [
+      "politics",
+      "freedom",
+      "justice"
+    ],
+    "keywordsZh": [
+      "往事与随想",
+      "农民社会主义",
+      "西化派",
+      "自由"
+    ],
+    "oneLineZh": "俄国西化派与流亡思想家，以个人自由、农民社会主义和俄国现代化问题著称。",
+    "influenceWeight": 3,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "mikhail-bakunin",
+    "tier": "seed",
+    "names": {
+      "zh": "巴枯宁",
+      "en": "Mikhail Bakunin",
+      "native": "Михаил Александрович Бакунин"
+    },
+    "life": {
+      "birth": 1814,
+      "death": 1876,
+      "display": "1814—1876"
+    },
+    "civilization": "russian",
+    "traditions": [
+      "anarchism",
+      "left_hegelianism",
+      "political_philosophy"
+    ],
+    "periods": [
+      "seed_w11",
+      "imperial_russia",
+      "pre_revolutionary_russian_thought"
+    ],
+    "themes": [
+      "politics",
+      "freedom",
+      "justice"
+    ],
+    "keywordsZh": [
+      "无政府主义",
+      "国家制度与无政府状态",
+      "上帝与国家",
+      "自由"
+    ],
+    "oneLineZh": "俄国无政府主义代表人物，以自由、国家批判和集体主义政治理论著称。",
+    "influenceWeight": 3,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "nikolai-chernyshevsky",
+    "tier": "seed",
+    "names": {
+      "zh": "车尔尼雪夫斯基",
+      "en": "Nikolai Chernyshevsky",
+      "native": "Николай Гаврилович Чернышевский"
+    },
+    "life": {
+      "birth": 1828,
+      "death": 1889,
+      "display": "1828—1889"
+    },
+    "civilization": "russian",
+    "traditions": [
+      "russian_materialism",
+      "social_thought",
+      "aesthetics"
+    ],
+    "periods": [
+      "seed_w11",
+      "imperial_russia",
+      "pre_revolutionary_russian_thought"
+    ],
+    "themes": [
+      "ethics",
+      "aesthetics",
+      "politics"
+    ],
+    "keywordsZh": [
+      "怎么办？",
+      "理性利己",
+      "现实美学",
+      "社会思想"
+    ],
+    "oneLineZh": "俄国唯物主义与社会思想代表，以理性利己、现实美学和《怎么办？》影响19世纪激进传统。",
+    "influenceWeight": 3,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "peter-kropotkin",
+    "tier": "seed",
+    "names": {
+      "zh": "克鲁泡特金",
+      "en": "Peter Kropotkin",
+      "native": "Пётр Алексеевич Кропоткин"
+    },
+    "life": {
+      "birth": 1842,
+      "death": 1921,
+      "display": "1842—1921"
+    },
+    "civilization": "russian",
+    "traditions": [
+      "anarchism",
+      "anarchist_communism",
+      "evolutionary_ethics"
+    ],
+    "periods": [
+      "seed_w11",
+      "imperial_russia",
+      "pre_revolutionary_russian_thought"
+    ],
+    "themes": [
+      "politics",
+      "freedom",
+      "ethics"
+    ],
+    "keywordsZh": [
+      "互助论",
+      "面包与自由",
+      "无政府共产主义",
+      "合作"
+    ],
+    "oneLineZh": "俄国无政府共产主义思想家，以《互助论》把合作、进化与自由共同体组织为政治伦理。",
+    "influenceWeight": 3,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "fyodor-dostoevsky",
+    "tier": "seed",
+    "names": {
+      "zh": "陀思妥耶夫斯基",
+      "en": "Fyodor Dostoevsky",
+      "native": "Фёдор Михайлович Достоевский"
+    },
+    "life": {
+      "birth": 1821,
+      "death": 1881,
+      "display": "1821—1881"
+    },
+    "civilization": "russian",
+    "traditions": [
+      "russian_religious_thought",
+      "existential_literature",
+      "moral_psychology"
+    ],
+    "periods": [
+      "seed_w11",
+      "imperial_russia",
+      "pre_revolutionary_russian_thought"
+    ],
+    "themes": [
+      "freedom",
+      "religion",
+      "ethics",
+      "life_death"
+    ],
+    "keywordsZh": [
+      "卡拉马佐夫兄弟",
+      "地下室手记",
+      "自由",
+      "罪与救赎"
+    ],
+    "oneLineZh": "以小说承载宗教、自由、恶与救赎问题的俄国思想家型作家。",
+    "influenceWeight": 3,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "leo-tolstoy",
+    "tier": "seed",
+    "names": {
+      "zh": "托尔斯泰",
+      "en": "Leo Tolstoy",
+      "native": "Лев Николаевич Толстой"
+    },
+    "life": {
+      "birth": 1828,
+      "death": 1910,
+      "display": "1828—1910"
+    },
+    "civilization": "russian",
+    "traditions": [
+      "christian_ethics",
+      "nonviolence",
+      "russian_religious_thought"
+    ],
+    "periods": [
+      "seed_w11",
+      "imperial_russia",
+      "pre_revolutionary_russian_thought"
+    ],
+    "themes": [
+      "religion",
+      "ethics",
+      "politics"
+    ],
+    "keywordsZh": [
+      "天国在你心中",
+      "忏悔录",
+      "非暴力",
+      "基督教伦理"
+    ],
+    "oneLineZh": "以基督教伦理、非暴力和良心批判组织社会思想的俄国作家思想家。",
+    "influenceWeight": 3,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "vladimir-solovyov",
+    "tier": "seed",
+    "names": {
+      "zh": "索洛维约夫",
+      "en": "Vladimir Solovyov",
+      "native": "Владимир Сергеевич Соловьёв"
+    },
+    "life": {
+      "birth": 1853,
+      "death": 1900,
+      "display": "1853—1900"
+    },
+    "civilization": "russian",
+    "traditions": [
+      "russian_religious_philosophy",
+      "sophiology",
+      "all_unity"
+    ],
+    "periods": [
+      "seed_w11",
+      "imperial_russia",
+      "pre_revolutionary_russian_thought"
+    ],
+    "themes": [
+      "metaphysics",
+      "ethics",
+      "religion"
+    ],
+    "keywordsZh": [
+      "善的证明",
+      "神人类",
+      "索菲亚学",
+      "全统一"
+    ],
+    "oneLineZh": "俄国宗教哲学枢纽人物，以全统一、神人类、索菲亚学和善的证明影响白银时代。",
+    "influenceWeight": 3,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "nikolai-fedorov",
+    "tier": "seed",
+    "names": {
+      "zh": "费奥多罗夫",
+      "en": "Nikolai Fedorov",
+      "native": "Николай Фёдорович Фёдоров"
+    },
+    "life": {
+      "birth": 1829,
+      "death": 1903,
+      "display": "1829—1903"
+    },
+    "civilization": "russian",
+    "traditions": [
+      "russian_cosmism",
+      "religious_philosophy"
+    ],
+    "periods": [
+      "seed_w11",
+      "imperial_russia",
+      "pre_revolutionary_russian_thought"
+    ],
+    "themes": [
+      "life_death",
+      "religion",
+      "metaphysics"
+    ],
+    "keywordsZh": [
+      "共同事业",
+      "宇宙主义",
+      "复活论",
+      "父辈"
+    ],
+    "oneLineZh": "俄国宇宙主义先驱，以《共同事业的哲学》把人类联合、科学与复活论联结起来。",
+    "influenceWeight": 3,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "lev-shestov",
+    "tier": "seed",
+    "names": {
+      "zh": "舍斯托夫",
+      "en": "Lev Shestov",
+      "native": "Лев Исаакович Шестов"
+    },
+    "life": {
+      "birth": 1866,
+      "death": 1938,
+      "display": "1866—1938"
+    },
+    "civilization": "russian",
+    "traditions": [
+      "religious_existentialism",
+      "anti_rationalism"
+    ],
+    "periods": [
+      "seed_w11",
+      "pre_revolutionary_russian_thought",
+      "silver_age"
+    ],
+    "themes": [
+      "religion",
+      "knowledge",
+      "freedom"
+    ],
+    "keywordsZh": [
+      "雅典与耶路撒冷",
+      "反理性",
+      "存在主义",
+      "信仰"
+    ],
+    "oneLineZh": "俄国宗教存在主义思想家，以《雅典与耶路撒冷》对抗理性必然性与信仰自由。",
+    "influenceWeight": 3,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "nikolai-berdyaev",
+    "tier": "seed",
+    "names": {
+      "zh": "别尔嘉耶夫",
+      "en": "Nikolai Berdyaev",
+      "native": "Николай Александрович Бердяев"
+    },
+    "life": {
+      "birth": 1874,
+      "death": 1948,
+      "display": "1874—1948"
+    },
+    "civilization": "russian",
+    "traditions": [
+      "russian_religious_philosophy",
+      "personalism",
+      "philosophy_of_freedom"
+    ],
+    "periods": [
+      "seed_w11",
+      "pre_revolutionary_russian_thought",
+      "silver_age"
+    ],
+    "themes": [
+      "freedom",
+      "religion",
+      "ethics"
+    ],
+    "keywordsZh": [
+      "自由哲学",
+      "人格主义",
+      "奴役与自由",
+      "创造"
+    ],
+    "oneLineZh": "白银时代宗教哲学家，以自由、人格、创造和反奴役问题为核心。",
+    "influenceWeight": 3,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "sergei-bulgakov",
+    "tier": "seed",
+    "names": {
+      "zh": "布尔加科夫",
+      "en": "Sergei Bulgakov",
+      "native": "Сергей Николаевич Булгаков"
+    },
+    "life": {
+      "birth": 1871,
+      "death": 1944,
+      "display": "1871—1944"
+    },
+    "civilization": "russian",
+    "traditions": [
+      "russian_religious_philosophy",
+      "sophiology",
+      "political_economy"
+    ],
+    "periods": [
+      "seed_w11",
+      "pre_revolutionary_russian_thought",
+      "silver_age"
+    ],
+    "themes": [
+      "religion",
+      "metaphysics"
+    ],
+    "keywordsZh": [
+      "索菲亚学",
+      "不暮之光",
+      "神人类",
+      "从马克思主义转向宗教"
+    ],
+    "oneLineZh": "白银时代宗教哲学家，早年接收马克思主义，后转向索菲亚学和神人类宗教哲学。",
+    "influenceWeight": 3,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "pavel-florensky",
+    "tier": "seed",
+    "names": {
+      "zh": "弗洛连斯基",
+      "en": "Pavel Florensky",
+      "native": "Павел Александрович Флоренский"
+    },
+    "life": {
+      "birth": 1882,
+      "death": 1937,
+      "display": "1882—1937"
+    },
+    "civilization": "russian",
+    "traditions": [
+      "russian_religious_philosophy",
+      "orthodox_theology",
+      "mathematical_philosophy"
+    ],
+    "periods": [
+      "seed_w11",
+      "pre_revolutionary_russian_thought",
+      "silver_age"
+    ],
+    "themes": [
+      "religion",
+      "metaphysics",
+      "knowledge"
+    ],
+    "keywordsZh": [
+      "真理的柱石与根基",
+      "神学",
+      "数学",
+      "象征"
+    ],
+    "oneLineZh": "白银时代神学家和哲学家，以《真理的柱石与根基》连接东正教、知识论和象征思想。",
+    "influenceWeight": 3,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "semyon-frank",
+    "tier": "seed",
+    "names": {
+      "zh": "弗兰克",
+      "en": "Semyon Frank",
+      "native": "Семён Людвигович Франк"
+    },
+    "life": {
+      "birth": 1877,
+      "death": 1950,
+      "display": "1877—1950"
+    },
+    "civilization": "russian",
+    "traditions": [
+      "russian_religious_philosophy",
+      "all_unity",
+      "intuitionism"
+    ],
+    "periods": [
+      "seed_w11",
+      "pre_revolutionary_russian_thought",
+      "silver_age"
+    ],
+    "themes": [
+      "metaphysics",
+      "knowledge",
+      "religion"
+    ],
+    "keywordsZh": [
+      "不可测度者",
+      "全一",
+      "直觉主义",
+      "社会的精神基础"
+    ],
+    "oneLineZh": "俄国宗教哲学家，以全一、不可测度者和直觉主义知识论连接形而上学与社会哲学。",
+    "influenceWeight": 3,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "buddhaghosa",
+    "tier": "seed",
+    "names": {
+      "zh": "觉音",
+      "en": "Buddhaghosa",
+      "native": "Buddhaghosa"
+    },
+    "life": {
+      "birth": 420,
+      "display": "5世纪，约420年前后活跃"
+    },
+    "civilization": "theravada_buddhist",
+    "traditions": [
+      "theravada",
+      "pali_commentarial_tradition",
+      "abhidhamma"
+    ],
+    "periods": [
+      "seed_w13",
+      "theravada_classical"
+    ],
+    "themes": [
+      "metaphysics",
+      "ethics",
+      "knowledge",
+      "life_death"
+    ],
+    "keywordsZh": [
+      "清净道论",
+      "巴利注疏",
+      "上座部",
+      "修道次第"
+    ],
+    "oneLineZh": "上座部巴利注疏传统的核心系统家，以《清净道论》综合戒定慧、阿毗达磨和解脱道路。",
+    "influenceWeight": 3,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "dhammapala",
+    "tier": "seed",
+    "names": {
+      "zh": "护法",
+      "en": "Dhammapala",
+      "native": "Dhammapāla"
+    },
+    "life": {
+      "birth": 600,
+      "display": "约6—7世纪，断代不确"
+    },
+    "civilization": "theravada_buddhist",
+    "traditions": [
+      "theravada",
+      "pali_commentarial_tradition"
+    ],
+    "periods": [
+      "seed_w13",
+      "theravada_classical"
+    ],
+    "themes": [
+      "metaphysics",
+      "ethics",
+      "knowledge"
+    ],
+    "keywordsZh": [
+      "胜义灯疏",
+      "小部注疏",
+      "巴利注疏",
+      "断代不确"
+    ],
+    "oneLineZh": "上座部巴利注疏家，传统上与《胜义灯疏》系列小部注疏相连，断代约6—7世纪但不确。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "ledi-sayadaw",
+    "tier": "seed",
+    "names": {
+      "zh": "雷迪长老",
+      "en": "Ledi Sayadaw",
+      "native": "U Ñāṇadhaja"
+    },
+    "life": {
+      "birth": 1846,
+      "death": 1923,
+      "display": "1846—1923"
+    },
+    "civilization": "theravada_buddhist",
+    "traditions": [
+      "theravada",
+      "burmese_vipassana",
+      "abhidhamma"
+    ],
+    "periods": [
+      "seed_w13",
+      "theravada_modern"
+    ],
+    "themes": [
+      "metaphysics",
+      "ethics",
+      "knowledge"
+    ],
+    "keywordsZh": [
+      "缅甸内观",
+      "阿毗达磨",
+      "胜义要义手册",
+      "法之手册"
+    ],
+    "oneLineZh": "缅甸上座部阿毗达磨与内观复兴代表，以通俗手册推动教理学习和修行普及。",
+    "influenceWeight": 3,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "mahasi-sayadaw",
+    "tier": "seed",
+    "names": {
+      "zh": "马哈希长老",
+      "en": "Mahasi Sayadaw",
+      "native": "U Sobhana"
+    },
+    "life": {
+      "birth": 1904,
+      "death": 1982,
+      "display": "1904—1982"
+    },
+    "civilization": "theravada_buddhist",
+    "traditions": [
+      "theravada",
+      "burmese_vipassana",
+      "satipatthana"
+    ],
+    "periods": [
+      "seed_w13",
+      "theravada_modern"
+    ],
+    "themes": [
+      "ethics",
+      "knowledge",
+      "life_death"
+    ],
+    "keywordsZh": [
+      "内观",
+      "念处",
+      "马哈希体系",
+      "内观手册"
+    ],
+    "oneLineZh": "缅甸内观体系代表人物，以念处实践和马哈希方法影响现代全球上座部禅修。",
+    "influenceWeight": 3,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "buddhadasa",
+    "tier": "seed",
+    "names": {
+      "zh": "佛使比丘",
+      "en": "Buddhadasa",
+      "native": "Buddhadāsa Bhikkhu"
+    },
+    "life": {
+      "birth": 1906,
+      "death": 1993,
+      "display": "1906—1993"
+    },
+    "civilization": "theravada_buddhist",
+    "traditions": [
+      "thai_theravada",
+      "modern_buddhist_reform",
+      "dependent_origination"
+    ],
+    "periods": [
+      "seed_w13",
+      "theravada_modern"
+    ],
+    "themes": [
+      "religion",
+      "metaphysics",
+      "politics"
+    ],
+    "keywordsZh": [
+      "泰国佛教改革",
+      "缘起",
+      "法的社会主义",
+      "观呼吸"
+    ],
+    "oneLineZh": "泰国现代佛教思想家，以缘起重释、观呼吸修行和“法的社会主义”连接佛教改革与政治伦理。",
+    "influenceWeight": 3,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "tran-thai-tong",
+    "tier": "seed",
+    "names": {
+      "zh": "陈太宗",
+      "en": "Trần Thái Tông",
+      "native": "Trần Thái Tông / 陳太宗"
+    },
+    "life": {
+      "birth": 1218,
+      "death": 1277,
+      "display": "1218—1277"
+    },
+    "civilization": "vietnamese",
+    "traditions": [
+      "vietnamese_zen",
+      "thien_buddhism",
+      "tran_dynasty"
+    ],
+    "periods": [
+      "seed_w13",
+      "vietnamese_medieval"
+    ],
+    "themes": [
+      "religion",
+      "ethics",
+      "life_death"
+    ],
+    "keywordsZh": [
+      "课虚录",
+      "越南禅",
+      "陈朝",
+      "帝王-禅师"
+    ],
+    "oneLineZh": "陈朝帝王-禅师，以《课虚录》奠定越南中世禅学思想表达。",
+    "influenceWeight": 3,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "tran-nhan-tong",
+    "tier": "seed",
+    "names": {
+      "zh": "陈仁宗",
+      "en": "Trần Nhân Tông",
+      "native": "Trần Nhân Tông / 陳仁宗"
+    },
+    "life": {
+      "birth": 1258,
+      "death": 1308,
+      "display": "1258—1308"
+    },
+    "civilization": "vietnamese",
+    "traditions": [
+      "vietnamese_zen",
+      "truc_lam",
+      "thien_buddhism"
+    ],
+    "periods": [
+      "seed_w13",
+      "vietnamese_medieval"
+    ],
+    "themes": [
+      "religion",
+      "ethics"
+    ],
+    "keywordsZh": [
+      "竹林禅派",
+      "居尘乐道赋",
+      "越南禅",
+      "陈朝"
+    ],
+    "oneLineZh": "陈朝帝王-禅师和竹林禅派开创者，统合越南诸禅派并留下禅诗文传统。",
+    "influenceWeight": 3,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "le-quy-don",
+    "tier": "seed",
+    "names": {
+      "zh": "黎贵惇",
+      "en": "Lê Quý Đôn",
+      "native": "Lê Quý Đôn / 黎貴惇"
+    },
+    "life": {
+      "birth": 1726,
+      "death": 1784,
+      "display": "1726—1784"
+    },
+    "civilization": "vietnamese",
+    "traditions": [
+      "vietnamese_confucianism",
+      "encyclopedic_learning",
+      "song_ming_learning"
+    ],
+    "periods": [
+      "seed_w13",
+      "vietnamese_early_modern"
+    ],
+    "themes": [
+      "knowledge",
+      "metaphysics",
+      "ethics"
+    ],
+    "keywordsZh": [
+      "芸台类语",
+      "越南儒学",
+      "百科",
+      "宋明理学"
+    ],
+    "oneLineZh": "越南早期近世儒学与百科传统代表，以《芸台类语》承接宋明理学和博物知识体系。",
+    "influenceWeight": 3,
+    "reviewStatus": "draft"
   }
 ]

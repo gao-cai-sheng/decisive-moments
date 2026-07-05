@@ -1,0 +1,54 @@
+{
+  "id": "le-quy-don",
+  "tier": "seed",
+  "names": {
+    "zh": "黎贵惇",
+    "en": "Lê Quý Đôn",
+    "native": "Lê Quý Đôn / 黎貴惇"
+  },
+  "life": {
+    "birth": 1726,
+    "death": 1784,
+    "display": "1726—1784"
+  },
+  "civilization": "vietnamese",
+  "traditions": [
+    "vietnamese_confucianism",
+    "encyclopedic_learning",
+    "song_ming_learning"
+  ],
+  "periods": [
+    "seed_w13",
+    "vietnamese_early_modern"
+  ],
+  "themes": [
+    "knowledge",
+    "metaphysics",
+    "ethics"
+  ],
+  "keywordsZh": [
+    "芸台类语",
+    "越南儒学",
+    "百科",
+    "宋明理学"
+  ],
+  "oneLineZh": "越南早期近世儒学与百科传统代表，以《芸台类语》承接宋明理学和博物知识体系。",
+  "influenceWeight": 3,
+  "reviewStatus": "draft",
+  "summaryZh": "黎贵惇是越南早期近世最重要的博学家之一，《芸台类语》体现其对儒学、理气论、博物知识和百科分类的系统整理。本 seed 档把他作为越南儒学思想家收录。",
+  "works": [
+    "le-quy-don-van-dai-loai-ngu"
+  ],
+  "sourceNotes": [
+    {
+      "label": "W13-B3-S005",
+      "url": "https://en.wikipedia.org/wiki/L%C3%AA_Qu%C3%BD_%C4%90%C3%B4n",
+      "noteZh": "Lê Quý Đôn 条目用于核验其生卒、越南博学家身份和大量著述口径。"
+    },
+    {
+      "label": "W13-B3-S006",
+      "url": "https://en.wikipedia.org/wiki/V%C3%A2n_%C4%91%C3%A0i_lo%E1%BA%A1i_ng%E1%BB%AF",
+      "noteZh": "Vân đài loại ngữ 条目用于核验《芸台类语》1773年成书、黎贵惇编纂和宋明理学影响口径。"
+    }
+  ]
+}

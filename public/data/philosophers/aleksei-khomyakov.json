@@ -1,0 +1,54 @@
+{
+  "id": "aleksei-khomyakov",
+  "tier": "seed",
+  "names": {
+    "zh": "霍米亚科夫",
+    "en": "Aleksei Khomyakov",
+    "native": "Алексей Степанович Хомяков"
+  },
+  "life": {
+    "birth": 1804,
+    "death": 1860,
+    "display": "1804—1860"
+  },
+  "civilization": "russian",
+  "traditions": [
+    "slavophilism",
+    "orthodox_theology"
+  ],
+  "periods": [
+    "seed_w11",
+    "imperial_russia",
+    "pre_revolutionary_russian_thought"
+  ],
+  "themes": [
+    "religion",
+    "politics",
+    "knowledge"
+  ],
+  "keywordsZh": [
+    "斯拉夫派",
+    "聚和性",
+    "sobornost",
+    "东正教共同体"
+  ],
+  "oneLineZh": "斯拉夫派核心理论家，以 sobornost 组织自由、共同体和东正教传统的思想口径。",
+  "influenceWeight": 3,
+  "reviewStatus": "draft",
+  "summaryZh": "霍米亚科夫是斯拉夫派的代表人物之一，其 sobornost 概念把教会共同体、自由与有机统一联系起来，回应恰达耶夫提出的俄国文明道路问题。本 seed 档只记录其身份层、聚和性关键词和斯拉夫派位置。",
+  "works": [
+    "khomyakov-sobornost-essays"
+  ],
+  "sourceNotes": [
+    {
+      "label": "W11-B1-S003",
+      "url": "https://iep.utm.edu/russian/",
+      "noteZh": "IEP Russian Philosophy 总论用于核验19世纪斯拉夫派及 Khomyakov 与 Kireevsky 的位置。"
+    },
+    {
+      "label": "W11-B1-S004",
+      "url": "https://www.britannica.com/biography/Aleksey-Stepanovich-Khomyakov",
+      "noteZh": "Britannica Khomyakov 条目用于核验其斯拉夫派、东正教思想和 sobornost 相关口径。"
+    }
+  ]
+}

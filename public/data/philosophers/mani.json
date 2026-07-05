@@ -1,0 +1,56 @@
+{
+  "id": "mani",
+  "tier": "seed",
+  "names": {
+    "zh": "摩尼",
+    "en": "Mani",
+    "native": "Mānī"
+  },
+  "life": {
+    "birth": 216,
+    "death": 274,
+    "display": "216—274/277"
+  },
+  "civilization": "persian",
+  "traditions": [
+    "manichaeism",
+    "gnostic_dualism",
+    "sasanian_religion"
+  ],
+  "periods": [
+    "seed_w10",
+    "pre_islamic_persian"
+  ],
+  "themes": [
+    "metaphysics",
+    "religion",
+    "life_death",
+    "ethics"
+  ],
+  "keywordsZh": [
+    "摩尼教",
+    "光暗二元",
+    "救赎",
+    "沙卜拉干"
+  ],
+  "oneLineZh": "萨珊时期摩尼教创立者，以亲撰经典组织光暗二元宇宙论、救赎论与禁欲伦理。",
+  "influenceWeight": 3,
+  "reviewStatus": "draft",
+  "summaryZh": "摩尼是前伊斯兰波斯—晚期古代宗教思想中最清晰的创立者案例之一；传统强调其有意亲撰经典以防教义篡改。本 seed 档记录其作为摩尼教创立者的身份层、萨珊语境、光暗二元宇宙论与救赎伦理，并标注原作多已散佚、主要经残卷、译本和引文保存的流传边界。",
+  "works": [
+    "mani-shabuhragan",
+    "mani-living-gospel"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S003",
+      "url": "https://iranicaonline.org/articles/mani-founder-manicheism",
+      "noteZh": "Encyclopaedia Iranica Mani 条目用于核验 Mani 的创立者身份、萨珊时期生平口径、216—274/277 年代范围及其亲撰经典传统。"
+    },
+    {
+      "label": "S004",
+      "url": "https://iranicaonline.org/articles/manicheism-1-general-survey",
+      "noteZh": "Encyclopaedia Iranica Manicheism 总论用于核验摩尼教光暗二元、救赎论、跨宗教综合和文本流传状况。"
+    }
+  ]
+}

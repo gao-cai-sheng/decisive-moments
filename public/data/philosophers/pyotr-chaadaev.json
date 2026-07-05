@@ -1,0 +1,54 @@
+{
+  "id": "pyotr-chaadaev",
+  "tier": "seed",
+  "names": {
+    "zh": "恰达耶夫",
+    "en": "Pyotr Chaadaev",
+    "native": "Пётр Яковлевич Чаадаев"
+  },
+  "life": {
+    "birth": 1794,
+    "death": 1856,
+    "display": "1794—1856"
+  },
+  "civilization": "russian",
+  "traditions": [
+    "westernizers",
+    "russian_religious_philosophy"
+  ],
+  "periods": [
+    "seed_w11",
+    "imperial_russia",
+    "pre_revolutionary_russian_thought"
+  ],
+  "themes": [
+    "religion",
+    "politics",
+    "knowledge"
+  ],
+  "keywordsZh": [
+    "哲学书简",
+    "西化派",
+    "俄国使命",
+    "历史哲学"
+  ],
+  "oneLineZh": "19世纪俄国思想家，《哲学书简》引发关于俄国历史使命与文明道路的论争。",
+  "influenceWeight": 3,
+  "reviewStatus": "draft",
+  "summaryZh": "恰达耶夫以《哲学书简》提出俄国与西欧历史道路、宗教根基和文明使命的尖锐问题，被视为俄国西化派与斯拉夫派论争的重要起点。本 seed 档只登记其身份层、核心文本和问题位置。",
+  "works": [
+    "chaadaev-philosophical-letters"
+  ],
+  "sourceNotes": [
+    {
+      "label": "W11-B1-S001",
+      "url": "https://iep.utm.edu/russian/",
+      "noteZh": "IEP Russian Philosophy 总论用于核验19世纪俄国哲学以 Chaadaev 的历史哲学问题为重要起点。"
+    },
+    {
+      "label": "W11-B1-S002",
+      "url": "https://www.britannica.com/biography/Pyotr-Yakovlevich-Chaadayev",
+      "noteZh": "Britannica Chaadayev 条目用于核验其生卒、俄国哲学家身份和《哲学书简》口径。"
+    }
+  ]
+}
