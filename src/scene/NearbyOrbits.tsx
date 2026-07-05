@@ -56,7 +56,10 @@ export function NearbyOrbits({ layout, selectedId, onSelect }: NearbyOrbitsProps
     }
 
     const camera = state.camera.position;
+    // 只有标准档才有 thoughtSystem（=行星）；seed 星渲染不出轨道，
+    // 若参与「最近 3 颗」竞争会挤占名额、把附近的标准星饿死（苏格拉底/柏拉图行星消失即此因）。
     const next = layout
+      .filter((node) => node.tier === "standard")
       .map((node) => ({ id: node.id, distance: camera.distanceTo(new THREE.Vector3(...node.position)) }))
       .filter((entry) => entry.distance < NEARBY_RADIUS)
       .sort((a, b) => a.distance - b.distance)

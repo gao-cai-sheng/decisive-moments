@@ -1,4 +1,4 @@
-import type { PhilosopherIndexEntry } from "../../data/schemas";
+import type { PhilosopherIndexEntry, PhilosopherTier } from "../../data/schemas";
 
 type RelationshipLike = { from: string; to: string };
 
@@ -17,6 +17,7 @@ export type StarLayoutNode = {
   colorKey: string;
   periodBucket: PeriodBucket;
   radius: number;
+  tier: PhilosopherTier;
 };
 
 const CURRENT_LAYOUT_YEAR = 2026;
@@ -167,6 +168,7 @@ export function computeStarLayout(
       colorKey: `${philosopher.civilization}:${primaryTradition}`,
       periodBucket,
       radius: Number((0.065 + philosopher.influenceWeight * 0.018 + Math.min(count, 8) * 0.005).toFixed(4)),
+      tier: philosopher.tier,
     };
   });
 }
