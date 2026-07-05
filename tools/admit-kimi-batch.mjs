@@ -220,6 +220,27 @@ export function admitKimiBatch(options) {
   const worksMerge = replaceOrAppend(works, proposedWorks, "works.json", normalized.overwrite);
   const relationshipsMerge = replaceOrAppend(relationships, proposedRelationships, "relationships.json", normalized.overwrite);
 
+  // Guard: incoming edges must not push any seed philosopher past 3 relationships
+  // (existing seed hubs can be over-subscribed by new batches; assertSeedIdentity only
+  // checks the batch's own philosophers, so recompute whole-graph counts post-merge).
+  const mergedTierById = new Map(indexMerge.result.map((entry) => [entry.id, entry.tier]));
+  const mergedRelCount = new Map();
+  for (const relationship of relationshipsMerge.result) {
+    mergedRelCount.set(relationship.from, (mergedRelCount.get(relationship.from) ?? 0) + 1);
+    mergedRelCount.set(relationship.to, (mergedRelCount.get(relationship.to) ?? 0) + 1);
+  }
+  const touchedByBatch = new Set();
+  for (const relationship of proposedRelationships) {
+    touchedByBatch.add(relationship.from);
+    touchedByBatch.add(relationship.to);
+  }
+  for (const id of touchedByBatch) {
+    if (mergedTierById.get(id) === "seed") {
+      const count = mergedRelCount.get(id) ?? 0;
+      assert(count <= 3, "seed philosopher exceeds 3 relationships after merge: " + id + " has " + count);
+    }
+  }
+
   const detailPlans = proposedDetails.map((detail) => {
     const file = path.join(philosophersDir, detail.id + ".json");
     const exists = fs.existsSync(file);

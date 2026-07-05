@@ -159,4 +159,36 @@ describe("Plan B seed tier gates", () => {
 
     expect(() => admitKimiBatch({ batchDir, dataDir: path.join(dataRoot, "public/data"), tier: "seed" })).toThrow(/unknown themeId: history/i);
   });
+
+  it("admit --tier seed rejects a batch that pushes an existing seed hub past 3 relationships", () => {
+    const root = fs.mkdtempSync(path.join(os.tmpdir(), "seed-hub-"));
+    const dataDir = path.join(root, "public/data");
+    writeJson(path.join(dataDir, "philosophers.index.json"), [
+      { id: "plato", tier: "standard" },
+      { id: "seed-hub", tier: "seed" },
+    ]);
+    writeJson(path.join(dataDir, "arguments.index.json"), []);
+    writeJson(path.join(dataDir, "themes.json"), [{ id: "knowledge", zh: "知识", en: "Knowledge", aliasesZh: [] }]);
+    writeJson(path.join(dataDir, "works.json"), []);
+    writeJson(path.join(dataDir, "relationships.json"), [
+      { id: "hub-1", from: "seed-hub", to: "plato", type: "reception", strength: 1, confidence: "low", themeIds: ["knowledge"], noteZh: "既有一。", reviewStatus: "draft" },
+      { id: "hub-2", from: "plato", to: "seed-hub", type: "shared_problem", strength: 1, confidence: "low", themeIds: ["knowledge"], noteZh: "既有二。", reviewStatus: "draft" },
+      { id: "hub-3", from: "seed-hub", to: "plato", type: "critique", strength: 1, confidence: "low", themeIds: ["knowledge"], noteZh: "既有三。", reviewStatus: "draft" },
+    ]);
+
+    const batchDir = fs.mkdtempSync(path.join(os.tmpdir(), "seed-hub-batch-"));
+    fs.writeFileSync(path.join(batchDir, "brief.md"), "# Seed batch\n");
+    fs.writeFileSync(path.join(batchDir, "sources.md"), "# Sources\n\n## S001: Newbie\n\n- URL: https://ctext.org/\n");
+    fs.writeFileSync(path.join(batchDir, "notes.md"), "# Notes\n");
+    fs.writeFileSync(path.join(batchDir, "open-questions.md"), "# Open Questions\n");
+    writeJson(path.join(batchDir, "claims.json"), { schemaVersion: 1, items: [] });
+    writeJson(path.join(batchDir, "proposed-philosophers.json"), { schemaVersion: 1, items: [seedPhilosopher({ id: "newbie", works: ["newbie-work"] })] });
+    writeJson(path.join(batchDir, "proposed-works.json"), { schemaVersion: 1, items: [{ id: "newbie-work", philosopherId: "newbie", titleZh: "《新代表作》", titleEn: "Newbie Work", yearDisplay: "2nd c.", noteZh: "测试。" }] });
+    writeJson(path.join(batchDir, "proposed-relationships.json"), { schemaVersion: 1, items: [
+      { id: "newbie-seed-hub", from: "newbie", to: "seed-hub", type: "reception", strength: 1, confidence: "low", themeIds: ["knowledge"], noteZh: "把 hub 顶到 4。", reviewStatus: "draft" },
+      { id: "newbie-plato", from: "newbie", to: "plato", type: "shared_problem", strength: 1, confidence: "low", themeIds: ["knowledge"], noteZh: "第二条。", reviewStatus: "draft" },
+    ] });
+
+    expect(() => admitKimiBatch({ batchDir, dataDir, tier: "seed" })).toThrow(/exceeds 3 relationships after merge/i);
+  });
 });
