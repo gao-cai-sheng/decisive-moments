@@ -1,0 +1,45 @@
+{
+  "id": "motoori-norinaga",
+  "tier": "seed",
+  "names": {
+    "zh": "本居宣长",
+    "en": "Motoori Norinaga"
+  },
+  "life": {
+    "birth": 1730,
+    "death": 1801,
+    "display": "1730—1801"
+  },
+  "civilization": "east_asian",
+  "traditions": [
+    "kokugaku",
+    "aesthetics"
+  ],
+  "periods": [
+    "early_modern"
+  ],
+  "themes": [
+    "aesthetics",
+    "language"
+  ],
+  "keywordsZh": [
+    "国学",
+    "物哀",
+    "古事记传"
+  ],
+  "oneLineZh": "日本国学代表，围绕古典文本和“物哀”重构审美与身份论述。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "本居宣长是日本国学代表人物，以《古事记传》和“物哀”理论构成反儒学的古典解释路径。本条仅作 seed 身份层定位。",
+  "works": [
+    "motoori-norinaga-kojikiden",
+    "motoori-norinaga-shibun-yoryo"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S006",
+      "url": "https://plato.stanford.edu/entries/japanese-kokugaku/",
+      "noteZh": "SEP Japanese Kokugaku 条目用于核验本居宣长的国学定位。"
+    }
+  ]
+}

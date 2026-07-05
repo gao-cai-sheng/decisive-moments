@@ -13418,5 +13418,892 @@
     "oneLineZh": "以自然律偶然性批判严格决定论，连接法国科学哲学与唯灵论。",
     "influenceWeight": 2,
     "reviewStatus": "draft"
+  },
+  {
+    "id": "badarayana",
+    "tier": "seed",
+    "names": {
+      "zh": "跋达罗衍那",
+      "en": "Bādarāyaṇa"
+    },
+    "life": {
+      "display": "约前1世纪"
+    },
+    "civilization": "indian",
+    "traditions": [
+      "vedanta"
+    ],
+    "periods": [
+      "ancient"
+    ],
+    "themes": [
+      "religion",
+      "metaphysics"
+    ],
+    "keywordsZh": [
+      "吠檀多",
+      "梵经",
+      "传统归属"
+    ],
+    "oneLineZh": "《梵经》的传统归属作者，吠檀多根本经和三大注家共同锚点。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "jaimini",
+    "tier": "seed",
+    "names": {
+      "zh": "阇弥尼",
+      "en": "Jaimini"
+    },
+    "life": {
+      "display": "约前2世纪"
+    },
+    "civilization": "indian",
+    "traditions": [
+      "mimamsa"
+    ],
+    "periods": [
+      "ancient"
+    ],
+    "themes": [
+      "religion",
+      "language"
+    ],
+    "keywordsZh": [
+      "弥曼差",
+      "祭祀解释学",
+      "传统归属"
+    ],
+    "oneLineZh": "《弥曼差经》的传统归属作者，前弥曼差祭祀解释学的身份层锚点。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "kapila-ishvarakrishna",
+    "tier": "seed",
+    "names": {
+      "zh": "自在黑（数论）",
+      "en": "Īśvarakṛṣṇa / Kapila tradition"
+    },
+    "life": {
+      "display": "约350；数论奠基传统更早"
+    },
+    "civilization": "indian",
+    "traditions": [
+      "samkhya"
+    ],
+    "periods": [
+      "ancient"
+    ],
+    "themes": [
+      "metaphysics",
+      "life_death"
+    ],
+    "keywordsZh": [
+      "数论",
+      "二元论",
+      "三德"
+    ],
+    "oneLineZh": "以《数论颂》系统化数论派二元论和三德理论。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "patanjali",
+    "tier": "seed",
+    "names": {
+      "zh": "钵颠阇利",
+      "en": "Patañjali"
+    },
+    "life": {
+      "display": "约前2世纪—400"
+    },
+    "civilization": "indian",
+    "traditions": [
+      "yoga"
+    ],
+    "periods": [
+      "ancient"
+    ],
+    "themes": [
+      "life_death",
+      "metaphysics"
+    ],
+    "keywordsZh": [
+      "瑜伽经",
+      "八支瑜伽",
+      "修行论"
+    ],
+    "oneLineZh": "《瑜伽经》的传统归属作者，瑜伽派八支修行论的身份层锚点。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "aksapada-gautama",
+    "tier": "seed",
+    "names": {
+      "zh": "足目·乔达摩",
+      "en": "Akṣapāda Gautama"
+    },
+    "life": {
+      "display": "约前2世纪"
+    },
+    "civilization": "indian",
+    "traditions": [
+      "nyaya"
+    ],
+    "periods": [
+      "ancient"
+    ],
+    "themes": [
+      "knowledge",
+      "language"
+    ],
+    "keywordsZh": [
+      "正理经",
+      "逻辑",
+      "知识论"
+    ],
+    "oneLineZh": "《正理经》的传统归属作者，正理派逻辑与知识论源头。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "kanada",
+    "tier": "seed",
+    "names": {
+      "zh": "迦那陀",
+      "en": "Kaṇāda"
+    },
+    "life": {
+      "display": "约前2世纪"
+    },
+    "civilization": "indian",
+    "traditions": [
+      "vaisesika"
+    ],
+    "periods": [
+      "ancient"
+    ],
+    "themes": [
+      "metaphysics",
+      "knowledge"
+    ],
+    "keywordsZh": [
+      "胜论经",
+      "原子论",
+      "范畴论"
+    ],
+    "oneLineZh": "《胜论经》的传统归属作者，胜论派原子论和范畴论的身份层锚点。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "bhartrhari",
+    "tier": "seed",
+    "names": {
+      "zh": "伐致呵利",
+      "en": "Bhartṛhari"
+    },
+    "life": {
+      "birth": 450,
+      "death": 510,
+      "display": "约450—510"
+    },
+    "civilization": "indian",
+    "traditions": [
+      "grammar",
+      "language_philosophy"
+    ],
+    "periods": [
+      "ancient"
+    ],
+    "themes": [
+      "language",
+      "metaphysics"
+    ],
+    "keywordsZh": [
+      "句词论",
+      "语言哲学",
+      "声常"
+    ],
+    "oneLineZh": "《句词论》作者，印度语言哲学与语法传统的关键节点。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "kumarila-bhatta",
+    "tier": "seed",
+    "names": {
+      "zh": "鸠摩利罗",
+      "en": "Kumārila Bhaṭṭa"
+    },
+    "life": {
+      "display": "约7世纪"
+    },
+    "civilization": "indian",
+    "traditions": [
+      "mimamsa"
+    ],
+    "periods": [
+      "medieval"
+    ],
+    "themes": [
+      "knowledge",
+      "religion"
+    ],
+    "keywordsZh": [
+      "弥曼差",
+      "量论争辩",
+      "经典权威"
+    ],
+    "oneLineZh": "弥曼差知识论代表，以维护吠陀权威和批评佛教量论著称。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "udayana",
+    "tier": "seed",
+    "names": {
+      "zh": "乌达衍那",
+      "en": "Udayana"
+    },
+    "life": {
+      "display": "约10—11世纪"
+    },
+    "civilization": "indian",
+    "traditions": [
+      "nyaya"
+    ],
+    "periods": [
+      "medieval"
+    ],
+    "themes": [
+      "knowledge",
+      "religion"
+    ],
+    "keywordsZh": [
+      "正理派",
+      "神存在论证",
+      "反佛教论证"
+    ],
+    "oneLineZh": "正理派代表，系统论证神存在并回应佛教哲学批评。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "gangesa",
+    "tier": "seed",
+    "names": {
+      "zh": "甘吉沙",
+      "en": "Gaṅgeśa"
+    },
+    "life": {
+      "display": "约14世纪"
+    },
+    "civilization": "indian",
+    "traditions": [
+      "navya_nyaya"
+    ],
+    "periods": [
+      "medieval"
+    ],
+    "themes": [
+      "knowledge",
+      "language"
+    ],
+    "keywordsZh": [
+      "新正理",
+      "逻辑",
+      "知识论"
+    ],
+    "oneLineZh": "新正理派核心人物，以《真理宝珠》推进精密逻辑和知识论分析。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "abhinavagupta",
+    "tier": "seed",
+    "names": {
+      "zh": "阿毗那婆笈多",
+      "en": "Abhinavagupta"
+    },
+    "life": {
+      "birth": 950,
+      "death": 1016,
+      "display": "约950—1016"
+    },
+    "civilization": "indian",
+    "traditions": [
+      "kashmir_shaivism",
+      "aesthetics"
+    ],
+    "periods": [
+      "medieval"
+    ],
+    "themes": [
+      "aesthetics",
+      "religion"
+    ],
+    "keywordsZh": [
+      "克什米尔湿婆派",
+      "味论",
+      "美学"
+    ],
+    "oneLineZh": "克什米尔湿婆派与印度美学代表，连接宗教形而上学和味论传统。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "vivekananda",
+    "tier": "seed",
+    "names": {
+      "zh": "辨喜",
+      "en": "Swami Vivekananda"
+    },
+    "life": {
+      "birth": 1863,
+      "death": 1902,
+      "display": "1863—1902"
+    },
+    "civilization": "indian",
+    "traditions": [
+      "neo_vedanta"
+    ],
+    "periods": [
+      "modern"
+    ],
+    "themes": [
+      "religion",
+      "freedom"
+    ],
+    "keywordsZh": [
+      "新吠檀多",
+      "印度现代思想",
+      "宗教传播"
+    ],
+    "oneLineZh": "新吠檀多与印度现代宗教思想传播的代表人物。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "aurobindo",
+    "tier": "seed",
+    "names": {
+      "zh": "奥罗宾多",
+      "en": "Sri Aurobindo"
+    },
+    "life": {
+      "birth": 1872,
+      "death": 1950,
+      "display": "1872—1950"
+    },
+    "civilization": "indian",
+    "traditions": [
+      "integral_yoga",
+      "neo_vedanta"
+    ],
+    "periods": [
+      "modern"
+    ],
+    "themes": [
+      "religion",
+      "metaphysics"
+    ],
+    "keywordsZh": [
+      "整体瑜伽",
+      "进化灵性",
+      "近现代印度"
+    ],
+    "oneLineZh": "整体瑜伽与进化灵性思想代表，连接吠檀多、瑜伽和现代印度思想。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "kukai",
+    "tier": "seed",
+    "names": {
+      "zh": "空海",
+      "en": "Kūkai"
+    },
+    "life": {
+      "birth": 774,
+      "death": 835,
+      "display": "774—835"
+    },
+    "civilization": "east_asian",
+    "traditions": [
+      "shingon_buddhism"
+    ],
+    "periods": [
+      "medieval"
+    ],
+    "themes": [
+      "religion",
+      "language"
+    ],
+    "keywordsZh": [
+      "真言宗",
+      "入唐求法",
+      "密教"
+    ],
+    "oneLineZh": "日本真言宗奠基者，连接唐代密教与日本佛教。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "honen",
+    "tier": "seed",
+    "names": {
+      "zh": "法然",
+      "en": "Hōnen"
+    },
+    "life": {
+      "birth": 1133,
+      "death": 1212,
+      "display": "1133—1212"
+    },
+    "civilization": "east_asian",
+    "traditions": [
+      "pure_land_buddhism"
+    ],
+    "periods": [
+      "medieval"
+    ],
+    "themes": [
+      "religion",
+      "life_death"
+    ],
+    "keywordsZh": [
+      "净土宗",
+      "专修念佛",
+      "日本佛教"
+    ],
+    "oneLineZh": "日本净土宗奠基者，以专修念佛重组净土传统。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "nichiren",
+    "tier": "seed",
+    "names": {
+      "zh": "日莲",
+      "en": "Nichiren"
+    },
+    "life": {
+      "birth": 1222,
+      "death": 1282,
+      "display": "1222—1282"
+    },
+    "civilization": "east_asian",
+    "traditions": [
+      "nichiren_buddhism"
+    ],
+    "periods": [
+      "medieval"
+    ],
+    "themes": [
+      "religion",
+      "politics"
+    ],
+    "keywordsZh": [
+      "法华信仰",
+      "日莲宗",
+      "护国论"
+    ],
+    "oneLineZh": "日莲佛教奠基者，以法华经信仰和护国论形成独特日本佛教路线。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "hakuin",
+    "tier": "seed",
+    "names": {
+      "zh": "白隐",
+      "en": "Hakuin Ekaku"
+    },
+    "life": {
+      "birth": 1686,
+      "death": 1769,
+      "display": "1686—1769"
+    },
+    "civilization": "east_asian",
+    "traditions": [
+      "zen_buddhism"
+    ],
+    "periods": [
+      "early_modern"
+    ],
+    "themes": [
+      "religion",
+      "knowledge"
+    ],
+    "keywordsZh": [
+      "临济禅",
+      "公案",
+      "禅宗中兴"
+    ],
+    "oneLineZh": "江户时期临济禅中兴人物，强化公案训练体系。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "ito-jinsai",
+    "tier": "seed",
+    "names": {
+      "zh": "伊藤仁斋",
+      "en": "Itō Jinsai"
+    },
+    "life": {
+      "birth": 1627,
+      "death": 1705,
+      "display": "1627—1705"
+    },
+    "civilization": "east_asian",
+    "traditions": [
+      "japanese_confucianism"
+    ],
+    "periods": [
+      "early_modern"
+    ],
+    "themes": [
+      "ethics",
+      "language"
+    ],
+    "keywordsZh": [
+      "古学派",
+      "孔孟",
+      "朱子学批评"
+    ],
+    "oneLineZh": "江户古学派代表，主张回到孔孟文本并批评朱子学。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "ogyu-sorai",
+    "tier": "seed",
+    "names": {
+      "zh": "荻生徂徕",
+      "en": "Ogyū Sorai"
+    },
+    "life": {
+      "birth": 1666,
+      "death": 1728,
+      "display": "1666—1728"
+    },
+    "civilization": "east_asian",
+    "traditions": [
+      "japanese_confucianism"
+    ],
+    "periods": [
+      "early_modern"
+    ],
+    "themes": [
+      "politics",
+      "language"
+    ],
+    "keywordsZh": [
+      "古文辞学",
+      "礼乐制度",
+      "江户儒学"
+    ],
+    "oneLineZh": "江户儒学代表，以古文辞学和礼乐制度论批评朱子学。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "motoori-norinaga",
+    "tier": "seed",
+    "names": {
+      "zh": "本居宣长",
+      "en": "Motoori Norinaga"
+    },
+    "life": {
+      "birth": 1730,
+      "death": 1801,
+      "display": "1730—1801"
+    },
+    "civilization": "east_asian",
+    "traditions": [
+      "kokugaku",
+      "aesthetics"
+    ],
+    "periods": [
+      "early_modern"
+    ],
+    "themes": [
+      "aesthetics",
+      "language"
+    ],
+    "keywordsZh": [
+      "国学",
+      "物哀",
+      "古事记传"
+    ],
+    "oneLineZh": "日本国学代表，围绕古典文本和“物哀”重构审美与身份论述。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "fukuzawa-yukichi",
+    "tier": "seed",
+    "names": {
+      "zh": "福泽谕吉",
+      "en": "Fukuzawa Yukichi"
+    },
+    "life": {
+      "birth": 1835,
+      "death": 1901,
+      "display": "1835—1901"
+    },
+    "civilization": "east_asian",
+    "traditions": [
+      "modern_japanese_thought",
+      "liberalism"
+    ],
+    "periods": [
+      "modern"
+    ],
+    "themes": [
+      "freedom",
+      "politics"
+    ],
+    "keywordsZh": [
+      "明治启蒙",
+      "文明论",
+      "独立自尊"
+    ],
+    "oneLineZh": "明治启蒙代表，以文明论和独立观念推动日本现代思想转型。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "kuki-shuzo",
+    "tier": "seed",
+    "names": {
+      "zh": "九鬼周造",
+      "en": "Kuki Shūzō"
+    },
+    "life": {
+      "birth": 1888,
+      "death": 1941,
+      "display": "1888—1941"
+    },
+    "civilization": "east_asian",
+    "traditions": [
+      "japanese_aesthetics",
+      "kyoto_school"
+    ],
+    "periods": [
+      "modern"
+    ],
+    "themes": [
+      "aesthetics",
+      "metaphysics"
+    ],
+    "keywordsZh": [
+      "粹",
+      "偶然性",
+      "京都学派"
+    ],
+    "oneLineZh": "以“粹”的美学和偶然性问题连接日本美学与欧陆哲学。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "tanabe-hajime",
+    "tier": "seed",
+    "names": {
+      "zh": "田边元",
+      "en": "Tanabe Hajime"
+    },
+    "life": {
+      "birth": 1885,
+      "death": 1962,
+      "display": "1885—1962"
+    },
+    "civilization": "east_asian",
+    "traditions": [
+      "kyoto_school"
+    ],
+    "periods": [
+      "modern"
+    ],
+    "themes": [
+      "religion",
+      "metaphysics"
+    ],
+    "keywordsZh": [
+      "京都学派",
+      "种的逻辑",
+      "忏悔道"
+    ],
+    "oneLineZh": "京都学派核心人物，以种的逻辑和忏悔道形成独特哲学体系。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "wonhyo",
+    "tier": "seed",
+    "names": {
+      "zh": "元晓",
+      "en": "Wonhyo"
+    },
+    "life": {
+      "birth": 617,
+      "death": 686,
+      "display": "617—686"
+    },
+    "civilization": "east_asian",
+    "traditions": [
+      "korean_buddhism"
+    ],
+    "periods": [
+      "medieval"
+    ],
+    "themes": [
+      "religion",
+      "knowledge"
+    ],
+    "keywordsZh": [
+      "和诤",
+      "中观",
+      "唯识"
+    ],
+    "oneLineZh": "朝鲜佛教代表人物，以和诤思想统合不同佛教教义。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "jinul",
+    "tier": "seed",
+    "names": {
+      "zh": "知讷",
+      "en": "Jinul"
+    },
+    "life": {
+      "birth": 1158,
+      "death": 1210,
+      "display": "1158—1210"
+    },
+    "civilization": "east_asian",
+    "traditions": [
+      "korean_buddhism",
+      "zen_buddhism"
+    ],
+    "periods": [
+      "medieval"
+    ],
+    "themes": [
+      "religion",
+      "knowledge"
+    ],
+    "keywordsZh": [
+      "曹溪宗",
+      "顿悟渐修",
+      "朝鲜禅"
+    ],
+    "oneLineZh": "朝鲜禅宗关键人物，以顿悟渐修和曹溪传统重组朝鲜佛教。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seo-gyeongdeok",
+    "tier": "seed",
+    "names": {
+      "zh": "徐敬德（花潭）",
+      "en": "Seo Gyeongdeok"
+    },
+    "life": {
+      "birth": 1489,
+      "death": 1546,
+      "display": "1489—1546"
+    },
+    "civilization": "east_asian",
+    "traditions": [
+      "korean_confucianism"
+    ],
+    "periods": [
+      "early_modern"
+    ],
+    "themes": [
+      "metaphysics",
+      "knowledge"
+    ],
+    "keywordsZh": [
+      "气一元论",
+      "朝鲜儒学",
+      "花潭"
+    ],
+    "oneLineZh": "朝鲜儒学中气一元论代表，连接张载气论和退溪语境。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "yi-ik",
+    "tier": "seed",
+    "names": {
+      "zh": "李瀷（星湖）",
+      "en": "Yi Ik"
+    },
+    "life": {
+      "birth": 1681,
+      "death": 1763,
+      "display": "1681—1763"
+    },
+    "civilization": "east_asian",
+    "traditions": [
+      "korean_confucianism",
+      "silhak"
+    ],
+    "periods": [
+      "early_modern"
+    ],
+    "themes": [
+      "politics",
+      "ethics"
+    ],
+    "keywordsZh": [
+      "实学",
+      "星湖",
+      "朝鲜儒学"
+    ],
+    "oneLineZh": "朝鲜实学重要人物，连接退溪朱子学传统与社会经世问题。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "jeong-yakyong",
+    "tier": "seed",
+    "names": {
+      "zh": "丁若镛（茶山）",
+      "en": "Jeong Yakyong"
+    },
+    "life": {
+      "birth": 1762,
+      "death": 1836,
+      "display": "1762—1836"
+    },
+    "civilization": "east_asian",
+    "traditions": [
+      "korean_confucianism",
+      "silhak"
+    ],
+    "periods": [
+      "modern"
+    ],
+    "themes": [
+      "politics",
+      "ethics"
+    ],
+    "keywordsZh": [
+      "实学",
+      "茶山",
+      "经世"
+    ],
+    "oneLineZh": "朝鲜实学集大成者，重释经学并发展经世政治思想。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
   }
 ]

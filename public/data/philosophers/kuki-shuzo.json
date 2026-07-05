@@ -1,0 +1,45 @@
+{
+  "id": "kuki-shuzo",
+  "tier": "seed",
+  "names": {
+    "zh": "九鬼周造",
+    "en": "Kuki Shūzō"
+  },
+  "life": {
+    "birth": 1888,
+    "death": 1941,
+    "display": "1888—1941"
+  },
+  "civilization": "east_asian",
+  "traditions": [
+    "japanese_aesthetics",
+    "kyoto_school"
+  ],
+  "periods": [
+    "modern"
+  ],
+  "themes": [
+    "aesthetics",
+    "metaphysics"
+  ],
+  "keywordsZh": [
+    "粹",
+    "偶然性",
+    "京都学派"
+  ],
+  "oneLineZh": "以“粹”的美学和偶然性问题连接日本美学与欧陆哲学。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "九鬼周造以《粹的结构》和偶然性研究连接日本审美经验、京都学派语境和欧陆哲学资源。本条仅作 seed 身份层定位。",
+  "works": [
+    "kuki-shuzo-structure-of-iki",
+    "kuki-shuzo-problem-of-contingency"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S008",
+      "url": "https://www.rep.routledge.com/articles/biographical/kuki-shuzo-1888-1941/v-1",
+      "noteZh": "Routledge Kuki Shuzo 条目用于核验九鬼周造身份和美学定位。"
+    }
+  ]
+}

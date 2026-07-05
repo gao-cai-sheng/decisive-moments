@@ -1,0 +1,41 @@
+{
+  "id": "patanjali",
+  "tier": "seed",
+  "names": {
+    "zh": "钵颠阇利",
+    "en": "Patañjali"
+  },
+  "life": {
+    "display": "约前2世纪—400"
+  },
+  "civilization": "indian",
+  "traditions": [
+    "yoga"
+  ],
+  "periods": [
+    "ancient"
+  ],
+  "themes": [
+    "life_death",
+    "metaphysics"
+  ],
+  "keywordsZh": [
+    "瑜伽经",
+    "八支瑜伽",
+    "修行论"
+  ],
+  "oneLineZh": "《瑜伽经》的传统归属作者，瑜伽派八支修行论的身份层锚点。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "钵颠阇利是《瑜伽经》的传统归属作者，代表瑜伽派修行论的经典化节点。其身份与断代存在争议，本条仅保留 seed 档基本定位。",
+  "works": [
+    "patanjali-yoga-sutra"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S004",
+      "url": "https://iep.utm.edu/yoga/",
+      "noteZh": "IEP Yoga 条目用于核验《瑜伽经》、八支瑜伽和钵颠阇利传统归属；断代范围存在争议。"
+    }
+  ]
+}

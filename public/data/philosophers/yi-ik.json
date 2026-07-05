@@ -1,0 +1,44 @@
+{
+  "id": "yi-ik",
+  "tier": "seed",
+  "names": {
+    "zh": "李瀷（星湖）",
+    "en": "Yi Ik"
+  },
+  "life": {
+    "birth": 1681,
+    "death": 1763,
+    "display": "1681—1763"
+  },
+  "civilization": "east_asian",
+  "traditions": [
+    "korean_confucianism",
+    "silhak"
+  ],
+  "periods": [
+    "early_modern"
+  ],
+  "themes": [
+    "politics",
+    "ethics"
+  ],
+  "keywordsZh": [
+    "实学",
+    "星湖",
+    "朝鲜儒学"
+  ],
+  "oneLineZh": "朝鲜实学重要人物，连接退溪朱子学传统与社会经世问题。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "李瀷是朝鲜实学传统的重要人物，其经世论述连接儒学经典解释和社会制度问题。本条仅作 seed 身份层定位。",
+  "works": [
+    "yi-ik-seongho-saseol"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S002",
+      "url": "https://plato.stanford.edu/entries/korean-confucianism/",
+      "noteZh": "SEP Korean Confucianism 条目用于核验李瀷与实学传统定位。"
+    }
+  ]
+}

@@ -7809,5 +7809,365 @@
     "titleEn": "Science and Religion",
     "yearDisplay": "1908",
     "noteZh": "布特鲁身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "badarayana-brahma-sutra",
+    "philosopherId": "badarayana",
+    "titleZh": "《梵经》",
+    "titleEn": "Brahma Sūtra",
+    "yearDisplay": "传统归属；成书断代有争议",
+    "noteZh": "吠檀多传统根本经，传统上归于跋达罗衍那。"
+  },
+  {
+    "id": "jaimini-mimamsa-sutra",
+    "philosopherId": "jaimini",
+    "titleZh": "《弥曼差经》",
+    "titleEn": "Mīmāṃsā Sūtra",
+    "yearDisplay": "传统归属；约前2世纪上下",
+    "noteZh": "前弥曼差传统根本经，传统上归于阇弥尼。"
+  },
+  {
+    "id": "kapila-ishvarakrishna-samkhyakarika",
+    "philosopherId": "kapila-ishvarakrishna",
+    "titleZh": "《数论颂》",
+    "titleEn": "Sāṃkhyakārikā",
+    "yearDisplay": "约4世纪",
+    "noteZh": "数论派系统化文本，归于自在黑，承接迦毗罗传统。"
+  },
+  {
+    "id": "patanjali-yoga-sutra",
+    "philosopherId": "patanjali",
+    "titleZh": "《瑜伽经》",
+    "titleEn": "Yoga Sūtra",
+    "yearDisplay": "传统归属；断代有争议",
+    "noteZh": "瑜伽派经典文本，传统上归于钵颠阇利。"
+  },
+  {
+    "id": "aksapada-gautama-nyaya-sutra",
+    "philosopherId": "aksapada-gautama",
+    "titleZh": "《正理经》",
+    "titleEn": "Nyāya Sūtra",
+    "yearDisplay": "传统归属；断代有争议",
+    "noteZh": "正理派根本经，传统上归于足目·乔达摩。"
+  },
+  {
+    "id": "kanada-vaisesika-sutra",
+    "philosopherId": "kanada",
+    "titleZh": "《胜论经》",
+    "titleEn": "Vaiśeṣika Sūtra",
+    "yearDisplay": "传统归属；断代有争议",
+    "noteZh": "胜论派根本经，传统上归于迦那陀。"
+  },
+  {
+    "id": "bhartrhari-vakyapadiya",
+    "philosopherId": "bhartrhari",
+    "titleZh": "《句词论》",
+    "titleEn": "Vākyapadīya",
+    "yearDisplay": "约5世纪",
+    "noteZh": "印度语言哲学与语法哲学代表作。"
+  },
+  {
+    "id": "kumarila-bhatta-slokavarttika",
+    "philosopherId": "kumarila-bhatta",
+    "titleZh": "《颂评》",
+    "titleEn": "Ślokavārttika",
+    "yearDisplay": "约7世纪",
+    "noteZh": "鸠摩利罗代表作之一，用于弥曼差知识论与经典权威定位。"
+  },
+  {
+    "id": "kumarila-bhatta-tantravarttika",
+    "philosopherId": "kumarila-bhatta",
+    "titleZh": "《本论评》",
+    "titleEn": "Tantravārttika",
+    "yearDisplay": "约7世纪",
+    "noteZh": "鸠摩利罗弥曼差注疏传统代表文本。"
+  },
+  {
+    "id": "udayana-nyayakusumanjali",
+    "philosopherId": "udayana",
+    "titleZh": "《正理花束》",
+    "titleEn": "Nyāyakusumāñjali",
+    "yearDisplay": "约10—11世纪",
+    "noteZh": "乌达衍那论证神存在的代表作。"
+  },
+  {
+    "id": "udayana-atmatattvaviveka",
+    "philosopherId": "udayana",
+    "titleZh": "《自我真理论辨析》",
+    "titleEn": "Ātmatattvaviveka",
+    "yearDisplay": "约10—11世纪",
+    "noteZh": "乌达衍那反佛教无我论相关代表作。"
+  },
+  {
+    "id": "gangesa-tattvacintamani",
+    "philosopherId": "gangesa",
+    "titleZh": "《真理宝珠》",
+    "titleEn": "Tattvacintāmaṇi",
+    "yearDisplay": "约14世纪",
+    "noteZh": "新正理派奠基性知识论文本。"
+  },
+  {
+    "id": "abhinavagupta-tantraloka",
+    "philosopherId": "abhinavagupta",
+    "titleZh": "《密续之光》",
+    "titleEn": "Tantrāloka",
+    "yearDisplay": "约10—11世纪",
+    "noteZh": "阿毗那婆笈多宗教哲学代表作。"
+  },
+  {
+    "id": "abhinavagupta-abhinavabharati",
+    "philosopherId": "abhinavagupta",
+    "titleZh": "《阿毗那婆婆罗蒂》",
+    "titleEn": "Abhinavabhāratī",
+    "yearDisplay": "约10—11世纪",
+    "noteZh": "印度审美理论与味论重要注疏。"
+  },
+  {
+    "id": "vivekananda-raja-yoga",
+    "philosopherId": "vivekananda",
+    "titleZh": "《王瑜伽》",
+    "titleEn": "Raja Yoga",
+    "yearDisplay": "1896",
+    "noteZh": "辨喜近现代瑜伽与吠檀多传播代表作。"
+  },
+  {
+    "id": "vivekananda-complete-works",
+    "philosopherId": "vivekananda",
+    "titleZh": "《辨喜全集》",
+    "titleEn": "The Complete Works of Swami Vivekananda",
+    "yearDisplay": "1890s—1900s",
+    "noteZh": "辨喜演讲和著述汇编，用于 seed 身份层定位。"
+  },
+  {
+    "id": "aurobindo-life-divine",
+    "philosopherId": "aurobindo",
+    "titleZh": "《神圣生命》",
+    "titleEn": "The Life Divine",
+    "yearDisplay": "1914—1919/1939",
+    "noteZh": "奥罗宾多整体瑜伽和进化形而上学代表作。"
+  },
+  {
+    "id": "aurobindo-synthesis-of-yoga",
+    "philosopherId": "aurobindo",
+    "titleZh": "《瑜伽综合》",
+    "titleEn": "The Synthesis of Yoga",
+    "yearDisplay": "1914—1921",
+    "noteZh": "奥罗宾多整体瑜伽代表作。"
+  },
+  {
+    "id": "kukai-ten-stages",
+    "philosopherId": "kukai",
+    "titleZh": "《秘密曼荼罗十住心论》",
+    "titleEn": "Treatise on the Ten Stages of Mind",
+    "yearDisplay": "约9世纪",
+    "noteZh": "空海真言宗思想代表作。"
+  },
+  {
+    "id": "kukai-attaining-enlightenment",
+    "philosopherId": "kukai",
+    "titleZh": "《即身成佛义》",
+    "titleEn": "The Meaning of Becoming a Buddha in This Very Body",
+    "yearDisplay": "约9世纪",
+    "noteZh": "空海密教成佛论代表文本。"
+  },
+  {
+    "id": "honen-senchakushu",
+    "philosopherId": "honen",
+    "titleZh": "《选择本愿念佛集》",
+    "titleEn": "Senchaku Hongan Nembutsu-shū",
+    "yearDisplay": "1198",
+    "noteZh": "法然净土宗代表作。"
+  },
+  {
+    "id": "nichiren-rissho-ankoku-ron",
+    "philosopherId": "nichiren",
+    "titleZh": "《立正安国论》",
+    "titleEn": "Risshō Ankoku Ron",
+    "yearDisplay": "1260",
+    "noteZh": "日莲护国论代表文本。"
+  },
+  {
+    "id": "nichiren-kaimoku-sho",
+    "philosopherId": "nichiren",
+    "titleZh": "《开目抄》",
+    "titleEn": "Kaimoku-shō",
+    "yearDisplay": "1272",
+    "noteZh": "日莲法华信仰代表文本。"
+  },
+  {
+    "id": "hakuin-wild-ivy",
+    "philosopherId": "hakuin",
+    "titleZh": "《远罗天釜》",
+    "titleEn": "Wild Ivy",
+    "yearDisplay": "18世纪",
+    "noteZh": "白隐自传/禅修传统代表文本。"
+  },
+  {
+    "id": "hakuin-yasen-kanna",
+    "philosopherId": "hakuin",
+    "titleZh": "《夜船闲话》",
+    "titleEn": "Yasen Kanna",
+    "yearDisplay": "1757",
+    "noteZh": "白隐禅修与养生论相关文本。"
+  },
+  {
+    "id": "ito-jinsai-gomo-jigi",
+    "philosopherId": "ito-jinsai",
+    "titleZh": "《语孟字义》",
+    "titleEn": "Gomō Jigi",
+    "yearDisplay": "1683",
+    "noteZh": "伊藤仁斋古义学代表作。"
+  },
+  {
+    "id": "ito-jinsai-dojimon",
+    "philosopherId": "ito-jinsai",
+    "titleZh": "《童子问》",
+    "titleEn": "Dōjimon",
+    "yearDisplay": "17世纪",
+    "noteZh": "伊藤仁斋儒学教学代表文本。"
+  },
+  {
+    "id": "ogyu-sorai-bendo",
+    "philosopherId": "ogyu-sorai",
+    "titleZh": "《辨道》",
+    "titleEn": "Bendō",
+    "yearDisplay": "1717",
+    "noteZh": "荻生徂徕政治与古文辞学代表作。"
+  },
+  {
+    "id": "ogyu-sorai-benmei",
+    "philosopherId": "ogyu-sorai",
+    "titleZh": "《辨名》",
+    "titleEn": "Benmei",
+    "yearDisplay": "1728",
+    "noteZh": "荻生徂徕名物与语言政治论代表作。"
+  },
+  {
+    "id": "motoori-norinaga-kojikiden",
+    "philosopherId": "motoori-norinaga",
+    "titleZh": "《古事记传》",
+    "titleEn": "Kojikiden",
+    "yearDisplay": "1764—1798",
+    "noteZh": "本居宣长国学代表作。"
+  },
+  {
+    "id": "motoori-norinaga-shibun-yoryo",
+    "philosopherId": "motoori-norinaga",
+    "titleZh": "《紫文要领》",
+    "titleEn": "Shibun Yōryō",
+    "yearDisplay": "1763",
+    "noteZh": "本居宣长物哀美学相关文本。"
+  },
+  {
+    "id": "fukuzawa-yukichi-encouragement-learning",
+    "philosopherId": "fukuzawa-yukichi",
+    "titleZh": "《劝学篇》",
+    "titleEn": "An Encouragement of Learning",
+    "yearDisplay": "1872—1876",
+    "noteZh": "福泽谕吉明治启蒙代表作。"
+  },
+  {
+    "id": "fukuzawa-yukichi-outline-civilization",
+    "philosopherId": "fukuzawa-yukichi",
+    "titleZh": "《文明论概略》",
+    "titleEn": "An Outline of a Theory of Civilization",
+    "yearDisplay": "1875",
+    "noteZh": "福泽谕吉文明论代表作。"
+  },
+  {
+    "id": "kuki-shuzo-structure-of-iki",
+    "philosopherId": "kuki-shuzo",
+    "titleZh": "《粹的结构》",
+    "titleEn": "The Structure of Iki",
+    "yearDisplay": "1930",
+    "noteZh": "九鬼周造日本美学代表作。"
+  },
+  {
+    "id": "kuki-shuzo-problem-of-contingency",
+    "philosopherId": "kuki-shuzo",
+    "titleZh": "《偶然性的问题》",
+    "titleEn": "The Problem of Contingency",
+    "yearDisplay": "1935",
+    "noteZh": "九鬼周造形而上学相关代表作。"
+  },
+  {
+    "id": "tanabe-hajime-philosophy-as-metanoetics",
+    "philosopherId": "tanabe-hajime",
+    "titleZh": "《作为忏悔道的哲学》",
+    "titleEn": "Philosophy as Metanoetics",
+    "yearDisplay": "1946",
+    "noteZh": "田边元后期代表作。"
+  },
+  {
+    "id": "tanabe-hajime-logic-of-species",
+    "philosopherId": "tanabe-hajime",
+    "titleZh": "《种的逻辑》",
+    "titleEn": "Logic of Species",
+    "yearDisplay": "1930s",
+    "noteZh": "田边元京都学派思想代表主题文本。"
+  },
+  {
+    "id": "wonhyo-awakening-faith-commentary",
+    "philosopherId": "wonhyo",
+    "titleZh": "《大乘起信论疏》",
+    "titleEn": "Commentary on the Awakening of Faith",
+    "yearDisplay": "7世纪",
+    "noteZh": "元晓佛教解释学代表文本。"
+  },
+  {
+    "id": "wonhyo-hwajaeng-non",
+    "philosopherId": "wonhyo",
+    "titleZh": "《十门和诤论》",
+    "titleEn": "Ten Approaches to the Reconciliation of Doctrinal Controversy",
+    "yearDisplay": "7世纪",
+    "noteZh": "元晓和诤思想代表文本。"
+  },
+  {
+    "id": "jinul-excerpts-dharma-collection",
+    "philosopherId": "jinul",
+    "titleZh": "《法集别行录节要并入私记》",
+    "titleEn": "Excerpts from the Dharma Collection and Special Practice Record",
+    "yearDisplay": "12—13世纪",
+    "noteZh": "知讷禅修思想代表文本。"
+  },
+  {
+    "id": "jinul-secrets-cultivating-mind",
+    "philosopherId": "jinul",
+    "titleZh": "《修心诀》",
+    "titleEn": "Secrets on Cultivating the Mind",
+    "yearDisplay": "12—13世纪",
+    "noteZh": "知讷顿悟渐修思想代表文本。"
+  },
+  {
+    "id": "seo-gyeongdeok-hwadamjip",
+    "philosopherId": "seo-gyeongdeok",
+    "titleZh": "《花潭集》",
+    "titleEn": "Collected Works of Hwadam",
+    "yearDisplay": "16世纪",
+    "noteZh": "徐敬德著作汇编，用于气一元论身份层定位。"
+  },
+  {
+    "id": "yi-ik-seongho-saseol",
+    "philosopherId": "yi-ik",
+    "titleZh": "《星湖僿说》",
+    "titleEn": "Seongho Saseol",
+    "yearDisplay": "18世纪",
+    "noteZh": "李瀷实学思想代表作。"
+  },
+  {
+    "id": "jeong-yakyong-mongmin-simseo",
+    "philosopherId": "jeong-yakyong",
+    "titleZh": "《牧民心书》",
+    "titleEn": "Mongmin Simseo",
+    "yearDisplay": "1818",
+    "noteZh": "丁若镛经世政治思想代表作。"
+  },
+  {
+    "id": "jeong-yakyong-gyeongse-yupyo",
+    "philosopherId": "jeong-yakyong",
+    "titleZh": "《经世遗表》",
+    "titleEn": "Gyeongse Yupyo",
+    "yearDisplay": "19世纪",
+    "noteZh": "丁若镛制度改革思想代表作。"
   }
 ]

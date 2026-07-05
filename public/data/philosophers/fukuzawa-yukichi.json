@@ -1,0 +1,45 @@
+{
+  "id": "fukuzawa-yukichi",
+  "tier": "seed",
+  "names": {
+    "zh": "福泽谕吉",
+    "en": "Fukuzawa Yukichi"
+  },
+  "life": {
+    "birth": 1835,
+    "death": 1901,
+    "display": "1835—1901"
+  },
+  "civilization": "east_asian",
+  "traditions": [
+    "modern_japanese_thought",
+    "liberalism"
+  ],
+  "periods": [
+    "modern"
+  ],
+  "themes": [
+    "freedom",
+    "politics"
+  ],
+  "keywordsZh": [
+    "明治启蒙",
+    "文明论",
+    "独立自尊"
+  ],
+  "oneLineZh": "明治启蒙代表，以文明论和独立观念推动日本现代思想转型。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "福泽谕吉是明治启蒙思想代表，其文明论、教育论和独立观念连接自由主义与日本现代化问题。本条仅作 seed 身份层定位。",
+  "works": [
+    "fukuzawa-yukichi-encouragement-learning",
+    "fukuzawa-yukichi-outline-civilization"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S007",
+      "url": "https://iep.utm.edu/fukuzawa-yukichi/",
+      "noteZh": "IEP Fukuzawa Yukichi 条目用于核验福泽谕吉身份和明治启蒙定位。"
+    }
+  ]
+}

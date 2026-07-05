@@ -1,0 +1,41 @@
+{
+  "id": "kanada",
+  "tier": "seed",
+  "names": {
+    "zh": "迦那陀",
+    "en": "Kaṇāda"
+  },
+  "life": {
+    "display": "约前2世纪"
+  },
+  "civilization": "indian",
+  "traditions": [
+    "vaisesika"
+  ],
+  "periods": [
+    "ancient"
+  ],
+  "themes": [
+    "metaphysics",
+    "knowledge"
+  ],
+  "keywordsZh": [
+    "胜论经",
+    "原子论",
+    "范畴论"
+  ],
+  "oneLineZh": "《胜论经》的传统归属作者，胜论派原子论和范畴论的身份层锚点。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "迦那陀被传统归为《胜论经》作者，是胜论派原子论和范畴论的奠基人物。其时代和文本层次仍需盲审与后续标准档复核。",
+  "works": [
+    "kanada-vaisesika-sutra"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S006",
+      "url": "https://plato.stanford.edu/entries/vaisesika/",
+      "noteZh": "SEP Vaiśeṣika 条目用于核验胜论派、《胜论经》和迦那陀传统归属。"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "aurobindo",
+  "tier": "seed",
+  "names": {
+    "zh": "奥罗宾多",
+    "en": "Sri Aurobindo"
+  },
+  "life": {
+    "birth": 1872,
+    "death": 1950,
+    "display": "1872—1950"
+  },
+  "civilization": "indian",
+  "traditions": [
+    "integral_yoga",
+    "neo_vedanta"
+  ],
+  "periods": [
+    "modern"
+  ],
+  "themes": [
+    "religion",
+    "metaphysics"
+  ],
+  "keywordsZh": [
+    "整体瑜伽",
+    "进化灵性",
+    "近现代印度"
+  ],
+  "oneLineZh": "整体瑜伽与进化灵性思想代表，连接吠檀多、瑜伽和现代印度思想。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "奥罗宾多以整体瑜伽和进化灵性思想连接印度宗教传统与现代哲学表达。本条仅作 seed 身份层定位。",
+  "works": [
+    "aurobindo-life-divine",
+    "aurobindo-synthesis-of-yoga"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S006",
+      "url": "https://iep.utm.edu/aurobindo/",
+      "noteZh": "IEP Aurobindo 条目用于核验人物身份、整体瑜伽定位和代表作。"
+    }
+  ]
+}

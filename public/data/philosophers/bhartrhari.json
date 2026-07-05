@@ -1,0 +1,44 @@
+{
+  "id": "bhartrhari",
+  "tier": "seed",
+  "names": {
+    "zh": "伐致呵利",
+    "en": "Bhartṛhari"
+  },
+  "life": {
+    "birth": 450,
+    "death": 510,
+    "display": "约450—510"
+  },
+  "civilization": "indian",
+  "traditions": [
+    "grammar",
+    "language_philosophy"
+  ],
+  "periods": [
+    "ancient"
+  ],
+  "themes": [
+    "language",
+    "metaphysics"
+  ],
+  "keywordsZh": [
+    "句词论",
+    "语言哲学",
+    "声常"
+  ],
+  "oneLineZh": "《句词论》作者，印度语言哲学与语法传统的关键节点。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "伐致呵利以《句词论》成为印度语言哲学和语法哲学的重要人物，连接语词、意义、显现和认识论问题。本条为 seed 身份层定位。",
+  "works": [
+    "bhartrhari-vakyapadiya"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S007",
+      "url": "https://plato.stanford.edu/entries/bhartrhari/",
+      "noteZh": "SEP Bhartṛhari 条目用于核验伐致呵利身份、语言哲学定位和《句词论》。"
+    }
+  ]
+}

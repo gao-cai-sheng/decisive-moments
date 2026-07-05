@@ -1,0 +1,45 @@
+{
+  "id": "jeong-yakyong",
+  "tier": "seed",
+  "names": {
+    "zh": "丁若镛（茶山）",
+    "en": "Jeong Yakyong"
+  },
+  "life": {
+    "birth": 1762,
+    "death": 1836,
+    "display": "1762—1836"
+  },
+  "civilization": "east_asian",
+  "traditions": [
+    "korean_confucianism",
+    "silhak"
+  ],
+  "periods": [
+    "modern"
+  ],
+  "themes": [
+    "politics",
+    "ethics"
+  ],
+  "keywordsZh": [
+    "实学",
+    "茶山",
+    "经世"
+  ],
+  "oneLineZh": "朝鲜实学集大成者，重释经学并发展经世政治思想。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "丁若镛是朝鲜实学的重要集大成人物，其经学重释和经世思想补足东亚儒学近世转型图谱。本条仅作 seed 身份层定位。",
+  "works": [
+    "jeong-yakyong-mongmin-simseo",
+    "jeong-yakyong-gyeongse-yupyo"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S002",
+      "url": "https://plato.stanford.edu/entries/korean-confucianism/",
+      "noteZh": "SEP Korean Confucianism 条目用于核验丁若镛与实学传统定位。"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": "vivekananda",
+  "tier": "seed",
+  "names": {
+    "zh": "辨喜",
+    "en": "Swami Vivekananda"
+  },
+  "life": {
+    "birth": 1863,
+    "death": 1902,
+    "display": "1863—1902"
+  },
+  "civilization": "indian",
+  "traditions": [
+    "neo_vedanta"
+  ],
+  "periods": [
+    "modern"
+  ],
+  "themes": [
+    "religion",
+    "freedom"
+  ],
+  "keywordsZh": [
+    "新吠檀多",
+    "印度现代思想",
+    "宗教传播"
+  ],
+  "oneLineZh": "新吠檀多与印度现代宗教思想传播的代表人物。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "辨喜将吠檀多传统以现代宗教哲学和跨文化传播的方式重新组织，是印度近现代思想史的重要节点。本条仅作 seed 身份层定位。",
+  "works": [
+    "vivekananda-raja-yoga",
+    "vivekananda-complete-works"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S005",
+      "url": "https://iep.utm.edu/vivekananda/",
+      "noteZh": "IEP Vivekananda 条目用于核验人物身份、新吠檀多定位和代表作。"
+    }
+  ]
+}
