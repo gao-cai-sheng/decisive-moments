@@ -1,0 +1,55 @@
+{
+  "id": "basil-the-great",
+  "tier": "seed",
+  "names": {
+    "zh": "大巴西尔（该撒利亚的巴西尔）",
+    "en": "Basil the Great",
+    "native": "Βασίλειος ὁ Μέγας"
+  },
+  "life": {
+    "birth": 330,
+    "death": 379,
+    "display": "约330—379"
+  },
+  "civilization": "eastern_orthodox",
+  "traditions": [
+    "greek_patristic",
+    "cappadocian_fathers",
+    "monastic_theology"
+  ],
+  "periods": [
+    "seed_w12",
+    "greek_patristic"
+  ],
+  "themes": [
+    "religion",
+    "ethics",
+    "metaphysics"
+  ],
+  "keywordsZh": [
+    "卡帕多西亚三杰",
+    "三一神学",
+    "六日创世",
+    "修道规章"
+  ],
+  "oneLineZh": "卡帕多西亚三杰之一，以三一神学、创世解释和修道规章构成希腊教父传统核心。",
+  "influenceWeight": 3,
+  "reviewStatus": "draft",
+  "summaryZh": "大巴西尔是4世纪希腊教父和卡帕多西亚三杰之一，虽处晚期罗马语境，但在 W12 中按希腊基督教/东正教源头收录。他的《六日创世讲道集》和修道规章把神学、宇宙论、伦理操练与共同生活组织起来。",
+  "works": [
+    "basil-hexaemeron",
+    "basil-longer-rules"
+  ],
+  "sourceNotes": [
+    {
+      "label": "W12-B1-S001",
+      "url": "https://iep.utm.edu/byz-phil/",
+      "noteZh": "IEP Byzantine Philosophy 总论用于核验希腊教父与拜占庭/东正教思想连续性。"
+    },
+    {
+      "label": "W12-B1-S002",
+      "url": "https://www.britannica.com/biography/Saint-Basil-the-Great",
+      "noteZh": "Britannica Basil 条目用于核验其生卒、卡帕多西亚教父身份和修道/神学位置。"
+    }
+  ]
+}

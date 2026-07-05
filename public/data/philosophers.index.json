@@ -17106,5 +17106,382 @@
     "oneLineZh": "墨西哥诗人兼思想家，以《孤独的迷宫》分析墨西哥身份、孤独与现代性。",
     "influenceWeight": 2,
     "reviewStatus": "draft"
+  },
+  {
+    "id": "basil-the-great",
+    "tier": "seed",
+    "names": {
+      "zh": "大巴西尔（该撒利亚的巴西尔）",
+      "en": "Basil the Great",
+      "native": "Βασίλειος ὁ Μέγας"
+    },
+    "life": {
+      "birth": 330,
+      "death": 379,
+      "display": "约330—379"
+    },
+    "civilization": "eastern_orthodox",
+    "traditions": [
+      "greek_patristic",
+      "cappadocian_fathers",
+      "monastic_theology"
+    ],
+    "periods": [
+      "seed_w12",
+      "greek_patristic"
+    ],
+    "themes": [
+      "religion",
+      "ethics",
+      "metaphysics"
+    ],
+    "keywordsZh": [
+      "卡帕多西亚三杰",
+      "三一神学",
+      "六日创世",
+      "修道规章"
+    ],
+    "oneLineZh": "卡帕多西亚三杰之一，以三一神学、创世解释和修道规章构成希腊教父传统核心。",
+    "influenceWeight": 3,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "gregory-of-nazianzus",
+    "tier": "seed",
+    "names": {
+      "zh": "拿先斯的格里高利",
+      "en": "Gregory of Nazianzus",
+      "native": "Γρηγόριος ὁ Ναζιανζηνός"
+    },
+    "life": {
+      "birth": 329,
+      "death": 390,
+      "display": "约329—390"
+    },
+    "civilization": "eastern_orthodox",
+    "traditions": [
+      "greek_patristic",
+      "cappadocian_fathers",
+      "trinitarian_theology"
+    ],
+    "periods": [
+      "seed_w12",
+      "greek_patristic"
+    ],
+    "themes": [
+      "religion",
+      "metaphysics"
+    ],
+    "keywordsZh": [
+      "神学家",
+      "神学演讲",
+      "三位一体",
+      "卡帕多西亚三杰"
+    ],
+    "oneLineZh": "卡帕多西亚三杰之一，以《神学演讲五篇》奠定东正教三一神学表达。",
+    "influenceWeight": 3,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "gregory-of-nyssa",
+    "tier": "seed",
+    "names": {
+      "zh": "尼撒的格里高利",
+      "en": "Gregory of Nyssa",
+      "native": "Γρηγόριος Νύσσης"
+    },
+    "life": {
+      "birth": 335,
+      "death": 395,
+      "display": "约335—395"
+    },
+    "civilization": "eastern_orthodox",
+    "traditions": [
+      "greek_patristic",
+      "cappadocian_fathers",
+      "mystical_theology"
+    ],
+    "periods": [
+      "seed_w12",
+      "greek_patristic"
+    ],
+    "themes": [
+      "metaphysics",
+      "religion",
+      "life_death"
+    ],
+    "keywordsZh": [
+      "摩西的生平",
+      "无限进展",
+      "神秘神学",
+      "人的创造"
+    ],
+    "oneLineZh": "卡帕多西亚三杰之一，以神秘神学、无限进展和人论深化希腊教父传统。",
+    "influenceWeight": 3,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "pseudo-dionysius",
+    "tier": "seed",
+    "names": {
+      "zh": "伪狄奥尼修斯（亚略巴古的丢尼修）",
+      "en": "Pseudo-Dionysius the Areopagite",
+      "native": "Διονύσιος ὁ Ἀρεοπαγίτης"
+    },
+    "life": {
+      "birth": 500,
+      "display": "约500年成书；作者佚名"
+    },
+    "civilization": "eastern_orthodox",
+    "traditions": [
+      "greek_patristic",
+      "negative_theology",
+      "mystical_theology"
+    ],
+    "periods": [
+      "seed_w12",
+      "greek_patristic"
+    ],
+    "themes": [
+      "metaphysics",
+      "religion",
+      "knowledge"
+    ],
+    "keywordsZh": [
+      "托名",
+      "否定神学",
+      "神圣名称",
+      "天阶体系"
+    ],
+    "oneLineZh": "约500年成书的托名作者传统，以否定神学、神圣名称和等级论深刻影响东方与拉丁中世纪。",
+    "influenceWeight": 3,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "maximus-the-confessor",
+    "tier": "seed",
+    "names": {
+      "zh": "忏悔者马克西姆",
+      "en": "Maximus the Confessor",
+      "native": "Μάξιμος ὁ Ὁμολογητής"
+    },
+    "life": {
+      "birth": 580,
+      "death": 662,
+      "display": "约580—662"
+    },
+    "civilization": "eastern_orthodox",
+    "traditions": [
+      "byzantine_theology",
+      "christology",
+      "greek_patristic_synthesis"
+    ],
+    "periods": [
+      "seed_w12",
+      "byzantine"
+    ],
+    "themes": [
+      "metaphysics",
+      "freedom",
+      "religion"
+    ],
+    "keywordsZh": [
+      "难题集",
+      "两种意志论",
+      "忏悔者",
+      "宇宙-基督神学"
+    ],
+    "oneLineZh": "拜占庭神学综合者，以《难题集》、两种意志论和宇宙-基督神学承接希腊教父传统。",
+    "influenceWeight": 3,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "john-of-damascus",
+    "tier": "seed",
+    "names": {
+      "zh": "大马士革的约翰",
+      "en": "John of Damascus",
+      "native": "Ἰωάννης ὁ Δαμασκηνός"
+    },
+    "life": {
+      "birth": 675,
+      "death": 749,
+      "display": "约675—749"
+    },
+    "civilization": "eastern_orthodox",
+    "traditions": [
+      "byzantine_theology",
+      "icon_theology",
+      "orthodox_dogmatics"
+    ],
+    "periods": [
+      "seed_w12",
+      "byzantine"
+    ],
+    "themes": [
+      "religion",
+      "knowledge",
+      "metaphysics"
+    ],
+    "keywordsZh": [
+      "知识的源泉",
+      "正统信仰详解",
+      "圣像辩护",
+      "亚里士多德逻辑"
+    ],
+    "oneLineZh": "拜占庭教义系统化者，以《知识的源泉》和圣像辩护连接亚里士多德逻辑与东正教神学。",
+    "influenceWeight": 3,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "symeon-the-new-theologian",
+    "tier": "seed",
+    "names": {
+      "zh": "新神学家西门",
+      "en": "Symeon the New Theologian",
+      "native": "Συμεὼν ὁ Νέος Θεολόγος"
+    },
+    "life": {
+      "birth": 949,
+      "death": 1022,
+      "display": "949—1022"
+    },
+    "civilization": "eastern_orthodox",
+    "traditions": [
+      "byzantine_mysticism",
+      "hesychast_background",
+      "spiritual_experience"
+    ],
+    "periods": [
+      "seed_w12",
+      "byzantine"
+    ],
+    "themes": [
+      "religion",
+      "knowledge"
+    ],
+    "keywordsZh": [
+      "新神学家",
+      "神圣之光",
+      "亲证经验",
+      "赞美诗"
+    ],
+    "oneLineZh": "拜占庭神秘主义思想家，以神圣之光的亲证经验和灵性知识影响后来的静修传统。",
+    "influenceWeight": 3,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "michael-psellos",
+    "tier": "seed",
+    "names": {
+      "zh": "米海尔·普塞洛斯",
+      "en": "Michael Psellos",
+      "native": "Μιχαήλ Ψελλός"
+    },
+    "life": {
+      "birth": 1018,
+      "death": 1078,
+      "display": "约1018—约1078"
+    },
+    "civilization": "eastern_orthodox",
+    "traditions": [
+      "byzantine_humanism",
+      "platonism",
+      "encyclopedic_learning"
+    ],
+    "periods": [
+      "seed_w12",
+      "byzantine"
+    ],
+    "themes": [
+      "knowledge",
+      "metaphysics",
+      "politics"
+    ],
+    "keywordsZh": [
+      "编年史",
+      "柏拉图主义复兴",
+      "拜占庭博学者",
+      "杂论"
+    ],
+    "oneLineZh": "拜占庭博学者和哲学家，以柏拉图主义复兴、宫廷政治观察和百科式学问连接古典与中世纪希腊传统。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "gregory-palamas",
+    "tier": "seed",
+    "names": {
+      "zh": "格里高利·帕拉马斯",
+      "en": "Gregory Palamas",
+      "native": "Γρηγόριος Παλαμᾶς"
+    },
+    "life": {
+      "birth": 1296,
+      "death": 1359,
+      "display": "1296—1359"
+    },
+    "civilization": "eastern_orthodox",
+    "traditions": [
+      "hesychasm",
+      "late_byzantine_theology",
+      "orthodox_mysticism"
+    ],
+    "periods": [
+      "seed_w12",
+      "byzantine"
+    ],
+    "themes": [
+      "religion",
+      "metaphysics",
+      "knowledge"
+    ],
+    "keywordsZh": [
+      "静修主义",
+      "本质/能质之分",
+      "为静修者辩护",
+      "神圣之光"
+    ],
+    "oneLineZh": "晚期拜占庭静修主义神学家，以本质/能质之分和《为静修者辩护》组织东正教神秘经验论证。",
+    "influenceWeight": 3,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "gemistos-plethon",
+    "tier": "seed",
+    "names": {
+      "zh": "格弥斯托斯·普勒东",
+      "en": "Gemistos Plethon",
+      "native": "Γεώργιος Γεμιστός Πλήθων"
+    },
+    "life": {
+      "birth": 1355,
+      "death": 1452,
+      "display": "约1355—1452"
+    },
+    "civilization": "eastern_orthodox",
+    "traditions": [
+      "late_byzantine_platonism",
+      "renaissance_platonism",
+      "political_philosophy"
+    ],
+    "periods": [
+      "seed_w12",
+      "late_byzantine"
+    ],
+    "themes": [
+      "metaphysics",
+      "politics",
+      "religion"
+    ],
+    "keywordsZh": [
+      "法律篇",
+      "柏拉图主义复兴",
+      "佛罗伦萨大公会议",
+      "文艺复兴桥梁"
+    ],
+    "oneLineZh": "晚期拜占庭柏拉图主义者，以《法律篇》和佛罗伦萨大公会议影响意大利文艺复兴的古典哲学复兴。",
+    "influenceWeight": 3,
+    "reviewStatus": "draft"
   }
 ]

@@ -1,0 +1,55 @@
+{
+  "id": "maximus-the-confessor",
+  "tier": "seed",
+  "names": {
+    "zh": "忏悔者马克西姆",
+    "en": "Maximus the Confessor",
+    "native": "Μάξιμος ὁ Ὁμολογητής"
+  },
+  "life": {
+    "birth": 580,
+    "death": 662,
+    "display": "约580—662"
+  },
+  "civilization": "eastern_orthodox",
+  "traditions": [
+    "byzantine_theology",
+    "christology",
+    "greek_patristic_synthesis"
+  ],
+  "periods": [
+    "seed_w12",
+    "byzantine"
+  ],
+  "themes": [
+    "metaphysics",
+    "freedom",
+    "religion"
+  ],
+  "keywordsZh": [
+    "难题集",
+    "两种意志论",
+    "忏悔者",
+    "宇宙-基督神学"
+  ],
+  "oneLineZh": "拜占庭神学综合者，以《难题集》、两种意志论和宇宙-基督神学承接希腊教父传统。",
+  "influenceWeight": 3,
+  "reviewStatus": "draft",
+  "summaryZh": "忏悔者马克西姆把希腊教父、伪狄奥尼修斯接收和基督论论争综合起来，围绕基督的意志、自由、宇宙秩序和神化展开思想。本 seed 档只建身份层，并按 W12 口径把其关系数限制在三条。",
+  "works": [
+    "maximus-ambigua",
+    "maximus-questions-thalassius"
+  ],
+  "sourceNotes": [
+    {
+      "label": "W12-B2-S001",
+      "url": "https://iep.utm.edu/byz-phil/",
+      "noteZh": "IEP Byzantine Philosophy 总论用于核验 Maximus 在拜占庭哲学和希腊教父综合中的地位。"
+    },
+    {
+      "label": "W12-B2-S002",
+      "url": "https://www.britannica.com/biography/Saint-Maximus-the-Confessor",
+      "noteZh": "Britannica Maximus 条目用于核验其生卒、忏悔者身份与神学位置。"
+    }
+  ]
+}

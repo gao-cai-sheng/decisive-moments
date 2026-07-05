@@ -1,0 +1,55 @@
+{
+  "id": "michael-psellos",
+  "tier": "seed",
+  "names": {
+    "zh": "米海尔·普塞洛斯",
+    "en": "Michael Psellos",
+    "native": "Μιχαήλ Ψελλός"
+  },
+  "life": {
+    "birth": 1018,
+    "death": 1078,
+    "display": "约1018—约1078"
+  },
+  "civilization": "eastern_orthodox",
+  "traditions": [
+    "byzantine_humanism",
+    "platonism",
+    "encyclopedic_learning"
+  ],
+  "periods": [
+    "seed_w12",
+    "byzantine"
+  ],
+  "themes": [
+    "knowledge",
+    "metaphysics",
+    "politics"
+  ],
+  "keywordsZh": [
+    "编年史",
+    "柏拉图主义复兴",
+    "拜占庭博学者",
+    "杂论"
+  ],
+  "oneLineZh": "拜占庭博学者和哲学家，以柏拉图主义复兴、宫廷政治观察和百科式学问连接古典与中世纪希腊传统。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "米海尔·普塞洛斯是11世纪拜占庭博学者，以《编年史》、哲学教学和柏拉图主义复兴著称。本 seed 档按思想家身份层收录，强调其在古典哲学文本与拜占庭宫廷文化之间的桥梁位置。",
+  "works": [
+    "psellos-chronographia",
+    "psellos-de-omnifaria-doctrina"
+  ],
+  "sourceNotes": [
+    {
+      "label": "W12-B2-S007",
+      "url": "https://iep.utm.edu/byz-phil/",
+      "noteZh": "IEP Byzantine Philosophy 总论用于核验 Psellos 在拜占庭哲学与柏拉图主义复兴中的位置。"
+    },
+    {
+      "label": "W12-B2-S008",
+      "url": "https://www.britannica.com/biography/Michael-Psellus",
+      "noteZh": "Britannica Michael Psellus 条目用于核验其生卒、拜占庭博学者身份和《编年史》口径。"
+    }
+  ]
+}

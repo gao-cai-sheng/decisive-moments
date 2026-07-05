@@ -1,0 +1,55 @@
+{
+  "id": "gregory-of-nyssa",
+  "tier": "seed",
+  "names": {
+    "zh": "尼撒的格里高利",
+    "en": "Gregory of Nyssa",
+    "native": "Γρηγόριος Νύσσης"
+  },
+  "life": {
+    "birth": 335,
+    "death": 395,
+    "display": "约335—395"
+  },
+  "civilization": "eastern_orthodox",
+  "traditions": [
+    "greek_patristic",
+    "cappadocian_fathers",
+    "mystical_theology"
+  ],
+  "periods": [
+    "seed_w12",
+    "greek_patristic"
+  ],
+  "themes": [
+    "metaphysics",
+    "religion",
+    "life_death"
+  ],
+  "keywordsZh": [
+    "摩西的生平",
+    "无限进展",
+    "神秘神学",
+    "人的创造"
+  ],
+  "oneLineZh": "卡帕多西亚三杰之一，以神秘神学、无限进展和人论深化希腊教父传统。",
+  "influenceWeight": 3,
+  "reviewStatus": "draft",
+  "summaryZh": "尼撒的格里高利把新柏拉图主义背景、圣经诠释和基督教人论结合起来，在《摩西的生平》《论人的创造》中处理灵魂上升、无限进展和人被造问题。本 seed 档按希腊教父身份层收录。",
+  "works": [
+    "gregory-nyssa-life-of-moses",
+    "gregory-nyssa-making-of-man"
+  ],
+  "sourceNotes": [
+    {
+      "label": "W12-B1-S005",
+      "url": "https://iep.utm.edu/byz-phil/",
+      "noteZh": "IEP Byzantine Philosophy 总论用于核验希腊教父与新柏拉图主义背景的思想史连接。"
+    },
+    {
+      "label": "W12-B1-S006",
+      "url": "https://www.britannica.com/biography/Saint-Gregory-of-Nyssa",
+      "noteZh": "Britannica Gregory of Nyssa 条目用于核验其生卒、卡帕多西亚教父身份和神秘神学口径。"
+    }
+  ]
+}

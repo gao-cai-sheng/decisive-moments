@@ -9439,5 +9439,149 @@
     "originalTitle": "La otra voz",
     "yearDisplay": "1990",
     "noteZh": "帕斯关于诗、现代性和公共生活的思想文本。"
+  },
+  {
+    "id": "basil-hexaemeron",
+    "philosopherId": "basil-the-great",
+    "titleZh": "六日创世讲道集",
+    "titleEn": "Hexaemeron",
+    "originalTitle": "Ἑξαήμερον",
+    "noteZh": "大巴西尔关于创世、宇宙秩序和神学解释的代表性讲道。"
+  },
+  {
+    "id": "basil-longer-rules",
+    "philosopherId": "basil-the-great",
+    "titleZh": "大规程",
+    "titleEn": "Longer Rules",
+    "originalTitle": "Regulae fusius tractatae",
+    "noteZh": "大巴西尔关于修道共同体、伦理操练和教会生活的核心文本。"
+  },
+  {
+    "id": "gregory-nazianzus-theological-orations",
+    "philosopherId": "gregory-of-nazianzus",
+    "titleZh": "神学演讲五篇",
+    "titleEn": "Five Theological Orations",
+    "originalTitle": "Λόγοι θεολογικοί",
+    "noteZh": "拿先斯的格里高利关于三位一体、神性语言和尼西亚传统的核心文本。"
+  },
+  {
+    "id": "gregory-nyssa-life-of-moses",
+    "philosopherId": "gregory-of-nyssa",
+    "titleZh": "摩西的生平",
+    "titleEn": "The Life of Moses",
+    "originalTitle": "Περὶ τοῦ βίου Μωυσέως",
+    "noteZh": "尼撒的格里高利关于灵魂上升、神秘神学和无限进展的代表文本。"
+  },
+  {
+    "id": "gregory-nyssa-making-of-man",
+    "philosopherId": "gregory-of-nyssa",
+    "titleZh": "论人的创造",
+    "titleEn": "On the Making of Man",
+    "originalTitle": "Περὶ κατασκευῆς ἀνθρώπου",
+    "noteZh": "尼撒的格里高利关于人论、被造性和神学人类学的核心文本。"
+  },
+  {
+    "id": "pseudo-dionysius-mystical-theology",
+    "philosopherId": "pseudo-dionysius",
+    "titleZh": "神秘神学",
+    "titleEn": "Mystical Theology",
+    "originalTitle": "Περὶ μυστικῆς θεολογίας",
+    "noteZh": "伪狄奥尼修斯否定神学传统的核心短篇文本。"
+  },
+  {
+    "id": "pseudo-dionysius-divine-names",
+    "philosopherId": "pseudo-dionysius",
+    "titleZh": "神圣名称",
+    "titleEn": "The Divine Names",
+    "originalTitle": "Περὶ θείων ὀνομάτων",
+    "noteZh": "伪狄奥尼修斯关于神名、否定与肯定神学的代表文本。"
+  },
+  {
+    "id": "maximus-ambigua",
+    "philosopherId": "maximus-the-confessor",
+    "titleZh": "难题集",
+    "titleEn": "Ambigua",
+    "originalTitle": "Ambigua",
+    "noteZh": "忏悔者马克西姆解释希腊教父难题、神化和宇宙-基督神学的核心文本。"
+  },
+  {
+    "id": "maximus-questions-thalassius",
+    "philosopherId": "maximus-the-confessor",
+    "titleZh": "致塔拉修问答",
+    "titleEn": "Questions to Thalassius",
+    "originalTitle": "Quaestiones ad Thalassium",
+    "noteZh": "忏悔者马克西姆关于圣经解释、救赎和神学综合的重要文本。"
+  },
+  {
+    "id": "john-damascus-fount-of-knowledge",
+    "philosopherId": "john-of-damascus",
+    "titleZh": "知识的源泉",
+    "titleEn": "The Fount of Knowledge",
+    "originalTitle": "Πηγὴ γνώσεως",
+    "noteZh": "大马士革的约翰系统组织逻辑、异端论和正统信仰的核心著作。"
+  },
+  {
+    "id": "john-damascus-divine-images",
+    "philosopherId": "john-of-damascus",
+    "titleZh": "论神圣图像",
+    "titleEn": "On the Divine Images",
+    "originalTitle": "Περὶ τῶν ἁγίων εἰκόνων",
+    "noteZh": "大马士革的约翰为圣像崇敬辩护的代表文本。"
+  },
+  {
+    "id": "symeon-theological-ethical-discourses",
+    "philosopherId": "symeon-the-new-theologian",
+    "titleZh": "神学与伦理论文集",
+    "titleEn": "Theological and Ethical Discourses",
+    "originalTitle": "Θεολογικοὶ καὶ ἠθικοὶ λόγοι",
+    "noteZh": "新神学家西门关于灵性经验、悔改和神圣之光的代表性论文集。"
+  },
+  {
+    "id": "symeon-hymns-divine-love",
+    "philosopherId": "symeon-the-new-theologian",
+    "titleZh": "神圣之爱赞美诗",
+    "titleEn": "Hymns of Divine Love",
+    "originalTitle": "Ὕμνοι θείων ἐρώτων",
+    "noteZh": "新神学家西门以诗歌形式表达神秘经验和神圣之光亲证的核心文本。"
+  },
+  {
+    "id": "psellos-chronographia",
+    "philosopherId": "michael-psellos",
+    "titleZh": "编年史",
+    "titleEn": "Chronographia",
+    "originalTitle": "Χρονογραφία",
+    "noteZh": "普塞洛斯关于拜占庭宫廷、政治观察和历史叙述的代表文本。"
+  },
+  {
+    "id": "psellos-de-omnifaria-doctrina",
+    "philosopherId": "michael-psellos",
+    "titleZh": "杂论",
+    "titleEn": "De omnifaria doctrina",
+    "originalTitle": "De omnifaria doctrina",
+    "noteZh": "普塞洛斯百科式学问和哲学教学传统的代表文本口径。"
+  },
+  {
+    "id": "palamas-triads",
+    "philosopherId": "gregory-palamas",
+    "titleZh": "为静修者辩护",
+    "titleEn": "The Triads",
+    "originalTitle": "Ὑπὲρ τῶν ἱερῶς ἡσυχαζόντων",
+    "noteZh": "格里高利·帕拉马斯为静修主义、神圣之光经验和本质/能质之分辩护的核心文本。"
+  },
+  {
+    "id": "plethon-nomoi",
+    "philosopherId": "gemistos-plethon",
+    "titleZh": "法律篇",
+    "titleEn": "Nomoi / Book of Laws",
+    "originalTitle": "Νόμων συγγραφή",
+    "noteZh": "普勒东晚期柏拉图主义宗教政治构想的代表文本，现存状况需后续标准档细核。"
+  },
+  {
+    "id": "plethon-differences-aristotle-plato",
+    "philosopherId": "gemistos-plethon",
+    "titleZh": "论亚里士多德与柏拉图之别",
+    "titleEn": "On the Differences Between Aristotle and Plato",
+    "originalTitle": "Περὶ ὧν Ἀριστοτέλης πρὸς Πλάτωνα διαφέρεται",
+    "noteZh": "普勒东在晚期拜占庭和文艺复兴语境中重申柏拉图优先性的代表文本。"
   }
 ]

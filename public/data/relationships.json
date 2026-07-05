@@ -13054,5 +13054,271 @@
     ],
     "noteZh": "帕斯关于文学、公共责任和现代主体的论述可与萨特存在主义和介入文学语境形成思想史关联。",
     "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w12-b1-001-basil-plotinus-reception",
+    "from": "basil-the-great",
+    "to": "plotinus",
+    "type": "reception",
+    "strength": 1,
+    "confidence": "medium",
+    "themeIds": [
+      "metaphysics",
+      "religion"
+    ],
+    "noteZh": "大巴西尔处在希腊哲学和新柏拉图主义背景中；此边只作思想语境锚定，不表示直接师承。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w12-b1-002-gregory-nazianzus-plato-reception",
+    "from": "gregory-of-nazianzus",
+    "to": "plato",
+    "type": "reception",
+    "strength": 1,
+    "confidence": "medium",
+    "themeIds": [
+      "metaphysics",
+      "religion"
+    ],
+    "noteZh": "拿先斯的格里高利在希腊哲学语言中展开神学论述；此边以柏拉图传统作背景锚点。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w12-b1-003-gregory-nazianzus-basil-shared-problem",
+    "from": "gregory-of-nazianzus",
+    "to": "basil-the-great",
+    "type": "shared_problem",
+    "strength": 2,
+    "confidence": "high",
+    "themeIds": [
+      "religion",
+      "metaphysics"
+    ],
+    "noteZh": "拿先斯的格里高利与大巴西尔同属卡帕多西亚三杰，共同处理三一神学与希腊教父传统问题。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w12-b1-004-gregory-nyssa-plotinus-reception",
+    "from": "gregory-of-nyssa",
+    "to": "plotinus",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "metaphysics",
+      "life_death"
+    ],
+    "noteZh": "尼撒的格里高利的灵魂上升、无限进展和神秘神学问题与新柏拉图主义背景相关；此边为思想资源锚点。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w12-b1-005-gregory-nyssa-basil-shared-problem",
+    "from": "gregory-of-nyssa",
+    "to": "basil-the-great",
+    "type": "shared_problem",
+    "strength": 2,
+    "confidence": "high",
+    "themeIds": [
+      "religion",
+      "metaphysics"
+    ],
+    "noteZh": "尼撒的格里高利与大巴西尔同属卡帕多西亚传统，围绕三一神学、人论和修道实践构成共同问题域。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w12-b1-006-pseudo-dionysius-plotinus-reception",
+    "from": "pseudo-dionysius",
+    "to": "plotinus",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "high",
+    "themeIds": [
+      "metaphysics",
+      "religion"
+    ],
+    "noteZh": "伪狄奥尼修斯的否定神学、等级论和超越性语言明显处在新柏拉图主义语境中。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w12-b1-007-cusa-pseudo-dionysius-reception",
+    "from": "cusa",
+    "to": "pseudo-dionysius",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "high",
+    "themeIds": [
+      "knowledge",
+      "religion"
+    ],
+    "noteZh": "库萨的否定神学和有限理性面对无限的问题可追溯到伪狄奥尼修斯拉丁接收传统；方向为后世接收伪狄奥尼修斯。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w12-b2-001-maximus-pseudo-dionysius-reception",
+    "from": "maximus-the-confessor",
+    "to": "pseudo-dionysius",
+    "type": "reception",
+    "strength": 3,
+    "confidence": "high",
+    "themeIds": [
+      "metaphysics",
+      "religion"
+    ],
+    "noteZh": "忏悔者马克西姆系统接收并解释伪狄奥尼修斯传统；此边是跨 b1 的核心继承关系，使 pseudo-dionysius 合并关系数达到3。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w12-b2-002-maximus-augustine-shared-problem",
+    "from": "maximus-the-confessor",
+    "to": "augustine",
+    "type": "shared_problem",
+    "strength": 1,
+    "confidence": "medium",
+    "themeIds": [
+      "freedom",
+      "religion"
+    ],
+    "noteZh": "马克西姆与奥古斯丁都处理意志、自由、恩典和神学人论问题；此边作东西方基督教共同问题对照。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w12-b2-003-john-damascus-aristotle-reception",
+    "from": "john-of-damascus",
+    "to": "aristotle",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "knowledge",
+      "metaphysics"
+    ],
+    "noteZh": "大马士革的约翰在《知识的源泉》中使用亚里士多德逻辑和范畴资源来组织教义系统。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w12-b2-004-aquinas-john-damascus-reception",
+    "from": "aquinas",
+    "to": "john-of-damascus",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "high",
+    "themeIds": [
+      "religion",
+      "knowledge"
+    ],
+    "noteZh": "阿奎那等拉丁经院作者后世引用并接收大马士革的约翰；方向为 Aquinas 接收 John，不是 John 受 Aquinas 影响。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w12-b2-005-symeon-maximus-reception",
+    "from": "symeon-the-new-theologian",
+    "to": "maximus-the-confessor",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "religion",
+      "knowledge"
+    ],
+    "noteZh": "新神学家西门继承拜占庭神化、灵性知识和希腊教父神秘传统；此边使 Maximus 合并关系数达到3。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w12-b2-006-symeon-augustine-shared-problem",
+    "from": "symeon-the-new-theologian",
+    "to": "augustine",
+    "type": "shared_problem",
+    "strength": 1,
+    "confidence": "low",
+    "themeIds": [
+      "religion",
+      "knowledge"
+    ],
+    "noteZh": "西门与奥古斯丁都处理内在经验、恩典和亲证知识问题；此边仅作东西方基督教共同问题低置信度对照。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w12-b2-007-psellos-plato-reception",
+    "from": "michael-psellos",
+    "to": "plato",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "high",
+    "themeIds": [
+      "metaphysics",
+      "knowledge"
+    ],
+    "noteZh": "普塞洛斯在拜占庭语境中复兴柏拉图主义，并以古典哲学训练组织百科式学问。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w12-b2-008-psellos-plotinus-reception",
+    "from": "michael-psellos",
+    "to": "plotinus",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "metaphysics",
+      "knowledge"
+    ],
+    "noteZh": "普塞洛斯的柏拉图主义复兴也接续新柏拉图主义资源；此边以 Plotinus 作标准档锚点。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w12-b3-001-palamas-symeon-reception",
+    "from": "gregory-palamas",
+    "to": "symeon-the-new-theologian",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "religion",
+      "knowledge"
+    ],
+    "noteZh": "帕拉马斯继承东正教神秘主义和神圣之光经验传统；此边按生产口径挂 Symeon，使 Symeon 合并关系数达到3。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w12-b3-002-palamas-augustine-shared-problem",
+    "from": "gregory-palamas",
+    "to": "augustine",
+    "type": "shared_problem",
+    "strength": 1,
+    "confidence": "low",
+    "themeIds": [
+      "religion",
+      "knowledge"
+    ],
+    "noteZh": "帕拉马斯与奥古斯丁都处理恩典、亲证经验和神学知识问题；此边仅作东西方基督教共同问题低置信度对照。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w12-b3-003-plethon-plato-reception",
+    "from": "gemistos-plethon",
+    "to": "plato",
+    "type": "reception",
+    "strength": 3,
+    "confidence": "high",
+    "themeIds": [
+      "metaphysics",
+      "politics"
+    ],
+    "noteZh": "普勒东在晚期拜占庭明确复兴柏拉图主义，并以柏拉图传统重构宗教政治秩序想象。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w12-b3-004-cusa-plethon-shared-problem",
+    "from": "cusa",
+    "to": "gemistos-plethon",
+    "type": "shared_problem",
+    "strength": 1,
+    "confidence": "medium",
+    "themeIds": [
+      "metaphysics",
+      "religion"
+    ],
+    "noteZh": "库萨与普勒东同处15世纪希腊学问、柏拉图主义和文艺复兴宗教哲学交汇语境；此边标后世/同场接收语境，不写成普勒东受库萨影响。",
+    "reviewStatus": "draft"
   }
 ]

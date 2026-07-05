@@ -1,0 +1,55 @@
+{
+  "id": "gemistos-plethon",
+  "tier": "seed",
+  "names": {
+    "zh": "格弥斯托斯·普勒东",
+    "en": "Gemistos Plethon",
+    "native": "Γεώργιος Γεμιστός Πλήθων"
+  },
+  "life": {
+    "birth": 1355,
+    "death": 1452,
+    "display": "约1355—1452"
+  },
+  "civilization": "eastern_orthodox",
+  "traditions": [
+    "late_byzantine_platonism",
+    "renaissance_platonism",
+    "political_philosophy"
+  ],
+  "periods": [
+    "seed_w12",
+    "late_byzantine"
+  ],
+  "themes": [
+    "metaphysics",
+    "politics",
+    "religion"
+  ],
+  "keywordsZh": [
+    "法律篇",
+    "柏拉图主义复兴",
+    "佛罗伦萨大公会议",
+    "文艺复兴桥梁"
+  ],
+  "oneLineZh": "晚期拜占庭柏拉图主义者，以《法律篇》和佛罗伦萨大公会议影响意大利文艺复兴的古典哲学复兴。",
+  "influenceWeight": 3,
+  "reviewStatus": "draft",
+  "summaryZh": "格弥斯托斯·普勒东在晚期拜占庭复兴柏拉图主义，并通过佛罗伦萨大公会议等场景影响意大利文艺复兴的希腊学问接收。本 seed 档按 late_byzantine 标签收录，关系锚定 Plato 与 Cusa。",
+  "works": [
+    "plethon-nomoi",
+    "plethon-differences-aristotle-plato"
+  ],
+  "sourceNotes": [
+    {
+      "label": "W12-B3-S003",
+      "url": "https://iep.utm.edu/byz-phil/",
+      "noteZh": "IEP Byzantine Philosophy 总论用于核验晚期拜占庭哲学和古典哲学向文艺复兴传递的语境。"
+    },
+    {
+      "label": "W12-B3-S004",
+      "url": "https://www.britannica.com/biography/Gemistus-Plethon",
+      "noteZh": "Britannica Plethon 条目用于核验其生卒、新柏拉图主义复兴、佛罗伦萨大公会议和意大利文艺复兴影响。"
+    }
+  ]
+}

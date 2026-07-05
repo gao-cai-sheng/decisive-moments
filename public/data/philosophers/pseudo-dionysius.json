@@ -1,0 +1,54 @@
+{
+  "id": "pseudo-dionysius",
+  "tier": "seed",
+  "names": {
+    "zh": "伪狄奥尼修斯（亚略巴古的丢尼修）",
+    "en": "Pseudo-Dionysius the Areopagite",
+    "native": "Διονύσιος ὁ Ἀρεοπαγίτης"
+  },
+  "life": {
+    "birth": 500,
+    "display": "约500年成书；作者佚名"
+  },
+  "civilization": "eastern_orthodox",
+  "traditions": [
+    "greek_patristic",
+    "negative_theology",
+    "mystical_theology"
+  ],
+  "periods": [
+    "seed_w12",
+    "greek_patristic"
+  ],
+  "themes": [
+    "metaphysics",
+    "religion",
+    "knowledge"
+  ],
+  "keywordsZh": [
+    "托名",
+    "否定神学",
+    "神圣名称",
+    "天阶体系"
+  ],
+  "oneLineZh": "约500年成书的托名作者传统，以否定神学、神圣名称和等级论深刻影响东方与拉丁中世纪。",
+  "influenceWeight": 3,
+  "reviewStatus": "draft",
+  "summaryZh": "伪狄奥尼修斯不是《使徒行传》中的亚略巴古丢尼修，而是约500年前后以其名义写作的佚名作者传统。本 seed 档按“有可归属系统性文本、作者半隐”的托名先例收录，明确标注托名与断代边界，核心文本为《神秘神学》《神圣名称》和《天阶体系》。",
+  "works": [
+    "pseudo-dionysius-mystical-theology",
+    "pseudo-dionysius-divine-names"
+  ],
+  "sourceNotes": [
+    {
+      "label": "W12-B1-S007",
+      "url": "https://plato.stanford.edu/entries/pseudo-dionysius-areopagite/",
+      "noteZh": "SEP Pseudo-Dionysius 条目用于核验其佚名作者、约500年成书、托名《使徒行传》中亚略巴古的丢尼修，以及否定神学和等级论文本。"
+    },
+    {
+      "label": "W12-B1-S008",
+      "url": "https://www.britannica.com/biography/Pseudo-Dionysius-the-Areopagite",
+      "noteZh": "Britannica Pseudo-Dionysius 条目用于辅助核验其托名身份和后世影响；本批不把他误记为使徒时代人物。"
+    }
+  ]
+}

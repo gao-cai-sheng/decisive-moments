@@ -1,0 +1,55 @@
+{
+  "id": "john-of-damascus",
+  "tier": "seed",
+  "names": {
+    "zh": "大马士革的约翰",
+    "en": "John of Damascus",
+    "native": "Ἰωάννης ὁ Δαμασκηνός"
+  },
+  "life": {
+    "birth": 675,
+    "death": 749,
+    "display": "约675—749"
+  },
+  "civilization": "eastern_orthodox",
+  "traditions": [
+    "byzantine_theology",
+    "icon_theology",
+    "orthodox_dogmatics"
+  ],
+  "periods": [
+    "seed_w12",
+    "byzantine"
+  ],
+  "themes": [
+    "religion",
+    "knowledge",
+    "metaphysics"
+  ],
+  "keywordsZh": [
+    "知识的源泉",
+    "正统信仰详解",
+    "圣像辩护",
+    "亚里士多德逻辑"
+  ],
+  "oneLineZh": "拜占庭教义系统化者，以《知识的源泉》和圣像辩护连接亚里士多德逻辑与东正教神学。",
+  "influenceWeight": 3,
+  "reviewStatus": "draft",
+  "summaryZh": "大马士革的约翰以《知识的源泉》系统组织逻辑、异端论和正统教义，并在圣像破坏论争中为圣像崇敬辩护。本 seed 档只建身份层，并把 Aquinas 关系明确为后世拉丁接收方向。",
+  "works": [
+    "john-damascus-fount-of-knowledge",
+    "john-damascus-divine-images"
+  ],
+  "sourceNotes": [
+    {
+      "label": "W12-B2-S003",
+      "url": "https://iep.utm.edu/byz-phil/",
+      "noteZh": "IEP Byzantine Philosophy 总论用于核验 John of Damascus 在拜占庭思想中的位置。"
+    },
+    {
+      "label": "W12-B2-S004",
+      "url": "https://www.britannica.com/biography/Saint-John-of-Damascus",
+      "noteZh": "Britannica John of Damascus 条目用于核验其生卒、《知识的源泉》和圣像辩护口径。"
+    }
+  ]
+}

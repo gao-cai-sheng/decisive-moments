@@ -1,0 +1,53 @@
+{
+  "id": "gregory-of-nazianzus",
+  "tier": "seed",
+  "names": {
+    "zh": "拿先斯的格里高利",
+    "en": "Gregory of Nazianzus",
+    "native": "Γρηγόριος ὁ Ναζιανζηνός"
+  },
+  "life": {
+    "birth": 329,
+    "death": 390,
+    "display": "约329—390"
+  },
+  "civilization": "eastern_orthodox",
+  "traditions": [
+    "greek_patristic",
+    "cappadocian_fathers",
+    "trinitarian_theology"
+  ],
+  "periods": [
+    "seed_w12",
+    "greek_patristic"
+  ],
+  "themes": [
+    "religion",
+    "metaphysics"
+  ],
+  "keywordsZh": [
+    "神学家",
+    "神学演讲",
+    "三位一体",
+    "卡帕多西亚三杰"
+  ],
+  "oneLineZh": "卡帕多西亚三杰之一，以《神学演讲五篇》奠定东正教三一神学表达。",
+  "influenceWeight": 3,
+  "reviewStatus": "draft",
+  "summaryZh": "拿先斯的格里高利被东正教传统称为“神学家”，其《神学演讲五篇》集中处理三位一体、神性语言和尼西亚传统。本 seed 档按希腊教父身份层收录，并与 Basil 构成卡帕多西亚共同问题域。",
+  "works": [
+    "gregory-nazianzus-theological-orations"
+  ],
+  "sourceNotes": [
+    {
+      "label": "W12-B1-S003",
+      "url": "https://iep.utm.edu/byz-phil/",
+      "noteZh": "IEP Byzantine Philosophy 总论用于核验希腊教父在东正教思想史中的源头地位。"
+    },
+    {
+      "label": "W12-B1-S004",
+      "url": "https://www.britannica.com/biography/Saint-Gregory-of-Nazianzus",
+      "noteZh": "Britannica Gregory of Nazianzus 条目用于核验其生卒、神学家身份和三一神学口径。"
+    }
+  ]
+}
