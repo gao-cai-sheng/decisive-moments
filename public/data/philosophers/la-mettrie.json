@@ -1,0 +1,45 @@
+{
+  "id": "la-mettrie",
+  "tier": "seed",
+  "names": {
+    "zh": "拉美特利",
+    "en": "Julien Offray de La Mettrie"
+  },
+  "life": {
+    "birth": 1709,
+    "death": 1751,
+    "display": "1709—1751"
+  },
+  "civilization": "western",
+  "traditions": [
+    "enlightenment",
+    "materialism"
+  ],
+  "periods": [
+    "modern"
+  ],
+  "themes": [
+    "metaphysics",
+    "life_death"
+  ],
+  "keywordsZh": [
+    "机械唯物论",
+    "身心问题",
+    "人是机器"
+  ],
+  "oneLineZh": "《人是机器》将机械论推向人类身心解释，是启蒙唯物论极端形态。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "拉美特利（1709—1751）是 Seed W4 法国断代补全候选。其身份层入选理由为：《人是机器》将机械论推向人类身心解释，是启蒙唯物论极端形态。 本条仅作 seed 档基本定位，后续若升级标准档，必须重新做著作、论点与 evidence 研究。",
+  "works": [
+    "la-mettrie-man-a-machine",
+    "la-mettrie-natural-history-of-soul"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S008",
+      "url": "https://plato.stanford.edu/entries/la-mettrie/",
+      "noteZh": "权威来源条目：SEP: Julien Offray de La Mettrie；用于核验人物身份、生卒、代表著作和思想史定位。"
+    }
+  ]
+}

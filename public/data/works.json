@@ -7553,5 +7553,261 @@
     "titleEn": "Personalism",
     "yearDisplay": "1949",
     "noteZh": "埃马纽埃尔·穆尼耶身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "voltaire-letters-on-the-english",
+    "philosopherId": "voltaire",
+    "titleZh": "《哲学通信》",
+    "titleEn": "Letters Concerning the English Nation",
+    "yearDisplay": "1733",
+    "noteZh": "伏尔泰身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "voltaire-treatise-on-tolerance",
+    "philosopherId": "voltaire",
+    "titleZh": "《论宽容》",
+    "titleEn": "Treatise on Tolerance",
+    "yearDisplay": "1763",
+    "noteZh": "伏尔泰身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "diderot-encyclopedie",
+    "philosopherId": "diderot",
+    "titleZh": "《百科全书》",
+    "titleEn": "Encyclopédie",
+    "yearDisplay": "1751—1772",
+    "noteZh": "狄德罗身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "diderot-rameaus-nephew",
+    "philosopherId": "diderot",
+    "titleZh": "《拉摩的侄儿》",
+    "titleEn": "Rameau’s Nephew",
+    "yearDisplay": "1761—1774",
+    "noteZh": "狄德罗身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "montesquieu-spirit-of-laws",
+    "philosopherId": "montesquieu",
+    "titleZh": "《论法的精神》",
+    "titleEn": "The Spirit of the Laws",
+    "yearDisplay": "1748",
+    "noteZh": "孟德斯鸠身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "montesquieu-persian-letters",
+    "philosopherId": "montesquieu",
+    "titleZh": "《波斯人信札》",
+    "titleEn": "Persian Letters",
+    "yearDisplay": "1721",
+    "noteZh": "孟德斯鸠身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "condillac-essay-origin-human-knowledge",
+    "philosopherId": "condillac",
+    "titleZh": "《人类知识起源论》",
+    "titleEn": "Essay on the Origin of Human Knowledge",
+    "yearDisplay": "1746",
+    "noteZh": "孔狄亚克身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "condillac-treatise-on-sensations",
+    "philosopherId": "condillac",
+    "titleZh": "《感觉论》",
+    "titleEn": "Treatise on Sensations",
+    "yearDisplay": "1754",
+    "noteZh": "孔狄亚克身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "condorcet-sketch-progress-human-mind",
+    "philosopherId": "condorcet",
+    "titleZh": "《人类精神进步史表纲要》",
+    "titleEn": "Sketch for a Historical Picture of the Progress of the Human Mind",
+    "yearDisplay": "1795",
+    "noteZh": "孔多塞身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "condorcet-essay-analysis-decisions",
+    "philosopherId": "condorcet",
+    "titleZh": "《多数决概率分析论》",
+    "titleEn": "Essay on the Application of Analysis to the Probability of Majority Decisions",
+    "yearDisplay": "1785",
+    "noteZh": "孔多塞身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "holbach-system-of-nature",
+    "philosopherId": "holbach",
+    "titleZh": "《自然的体系》",
+    "titleEn": "The System of Nature",
+    "yearDisplay": "1770",
+    "noteZh": "霍尔巴赫身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "holbach-good-sense",
+    "philosopherId": "holbach",
+    "titleZh": "《健全理性》",
+    "titleEn": "Good Sense",
+    "yearDisplay": "1772",
+    "noteZh": "霍尔巴赫身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "helvetius-de-lesprit",
+    "philosopherId": "helvetius",
+    "titleZh": "《论精神》",
+    "titleEn": "De l’esprit",
+    "yearDisplay": "1758",
+    "noteZh": "爱尔维修身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "helvetius-de-lhomme",
+    "philosopherId": "helvetius",
+    "titleZh": "《论人》",
+    "titleEn": "De l’homme",
+    "yearDisplay": "1773",
+    "noteZh": "爱尔维修身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "la-mettrie-man-a-machine",
+    "philosopherId": "la-mettrie",
+    "titleZh": "《人是机器》",
+    "titleEn": "Man a Machine",
+    "yearDisplay": "1747/1748",
+    "noteZh": "拉美特利身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "la-mettrie-natural-history-of-soul",
+    "philosopherId": "la-mettrie",
+    "titleZh": "《灵魂自然史》",
+    "titleEn": "Natural History of the Soul",
+    "yearDisplay": "1745",
+    "noteZh": "拉美特利身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "malebranche-search-after-truth",
+    "philosopherId": "malebranche",
+    "titleZh": "《真理的探求》",
+    "titleEn": "The Search After Truth",
+    "yearDisplay": "1674—1675",
+    "noteZh": "马勒伯朗士身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "malebranche-dialogues-metaphysics-religion",
+    "philosopherId": "malebranche",
+    "titleZh": "《形而上学与宗教对话》",
+    "titleEn": "Dialogues on Metaphysics and Religion",
+    "yearDisplay": "1688",
+    "noteZh": "马勒伯朗士身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "gassendi-syntagma-philosophicum",
+    "philosopherId": "gassendi",
+    "titleZh": "《哲学纲要》",
+    "titleEn": "Syntagma Philosophicum",
+    "yearDisplay": "1658",
+    "noteZh": "伽桑狄身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "gassendi-disquisitio-metaphysica",
+    "philosopherId": "gassendi",
+    "titleZh": "《形而上学诘难》",
+    "titleEn": "Disquisitio Metaphysica",
+    "yearDisplay": "1644",
+    "noteZh": "伽桑狄身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "pierre-bayle-historical-critical-dictionary",
+    "philosopherId": "pierre-bayle",
+    "titleZh": "《历史批判辞典》",
+    "titleEn": "Historical and Critical Dictionary",
+    "yearDisplay": "1697",
+    "noteZh": "培尔身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "pierre-bayle-philosophical-commentary",
+    "philosopherId": "pierre-bayle",
+    "titleZh": "《哲学评论》",
+    "titleEn": "Philosophical Commentary",
+    "yearDisplay": "1686",
+    "noteZh": "培尔身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "maine-de-biran-influence-of-habit",
+    "philosopherId": "maine-de-biran",
+    "titleZh": "《习惯对思维能力的影响》",
+    "titleEn": "Influence of Habit on the Faculty of Thinking",
+    "yearDisplay": "1802",
+    "noteZh": "曼恩·德·比朗身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "maine-de-biran-new-essays-anthropology",
+    "philosopherId": "maine-de-biran",
+    "titleZh": "《人类学新论》",
+    "titleEn": "New Essays on Anthropology",
+    "yearDisplay": "1823—1824",
+    "noteZh": "曼恩·德·比朗身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "victor-cousin-introduction-history-philosophy",
+    "philosopherId": "victor-cousin",
+    "titleZh": "《哲学史导论》",
+    "titleEn": "Introduction to the History of Philosophy",
+    "yearDisplay": "1828",
+    "noteZh": "库赞身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "victor-cousin-course-history-modern-philosophy",
+    "philosopherId": "victor-cousin",
+    "titleZh": "《近代哲学史课程》",
+    "titleEn": "Course of the History of Modern Philosophy",
+    "yearDisplay": "1841",
+    "noteZh": "库赞身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "renouvier-essais-critique-generale",
+    "philosopherId": "renouvier",
+    "titleZh": "《一般批判论》",
+    "titleEn": "Essays in General Criticism",
+    "yearDisplay": "1854—1864",
+    "noteZh": "勒努维耶身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "renouvier-science-de-la-morale",
+    "philosopherId": "renouvier",
+    "titleZh": "《道德科学》",
+    "titleEn": "Science de la morale",
+    "yearDisplay": "1869",
+    "noteZh": "勒努维耶身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "ravaisson-of-habit",
+    "philosopherId": "ravaisson",
+    "titleZh": "《论习惯》",
+    "titleEn": "Of Habit",
+    "yearDisplay": "1838",
+    "noteZh": "拉韦松身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "ravaisson-metaphysics-aristotle",
+    "philosopherId": "ravaisson",
+    "titleZh": "《亚里士多德形而上学论》",
+    "titleEn": "Essay on Aristotle’s Metaphysics",
+    "yearDisplay": "1837—1846",
+    "noteZh": "拉韦松身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "boutroux-contingency-laws-nature",
+    "philosopherId": "boutroux",
+    "titleZh": "《自然律的偶然性》",
+    "titleEn": "The Contingency of the Laws of Nature",
+    "yearDisplay": "1874",
+    "noteZh": "布特鲁身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "boutroux-science-and-religion",
+    "philosopherId": "boutroux",
+    "titleZh": "《科学与宗教》",
+    "titleEn": "Science and Religion",
+    "yearDisplay": "1908",
+    "noteZh": "布特鲁身份层代表作或核心关联文本，用于 seed 档基本定位。"
   }
 ]

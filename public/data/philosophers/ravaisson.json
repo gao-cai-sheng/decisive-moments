@@ -1,0 +1,45 @@
+{
+  "id": "ravaisson",
+  "tier": "seed",
+  "names": {
+    "zh": "拉韦松",
+    "en": "Félix Ravaisson"
+  },
+  "life": {
+    "birth": 1813,
+    "death": 1900,
+    "display": "1813—1900"
+  },
+  "civilization": "western",
+  "traditions": [
+    "french_spiritualism",
+    "aristotelianism"
+  ],
+  "periods": [
+    "modern"
+  ],
+  "themes": [
+    "metaphysics",
+    "life_death"
+  ],
+  "keywordsZh": [
+    "习惯",
+    "亚里士多德研究",
+    "生命哲学"
+  ],
+  "oneLineZh": "《论习惯》影响柏格森，并通过亚里士多德研究连接法国唯灵论和古典形而上学。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "拉韦松（1813—1900）是 Seed W4 法国断代补全候选。其身份层入选理由为：《论习惯》影响柏格森，并通过亚里士多德研究连接法国唯灵论和古典形而上学。 本条仅作 seed 档基本定位，后续若升级标准档，必须重新做著作、论点与 evidence 研究。",
+  "works": [
+    "ravaisson-of-habit",
+    "ravaisson-metaphysics-aristotle"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S007",
+      "url": "https://plato.stanford.edu/entries/ravaisson/",
+      "noteZh": "权威来源条目：SEP: Félix Ravaisson；用于核验人物身份、生卒、代表著作和思想史定位。"
+    }
+  ]
+}

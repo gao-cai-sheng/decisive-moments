@@ -12891,5 +12891,532 @@
     "oneLineZh": "人格主义，接 maritain/marcel。",
     "influenceWeight": 2,
     "reviewStatus": "draft"
+  },
+  {
+    "id": "voltaire",
+    "tier": "seed",
+    "names": {
+      "zh": "伏尔泰",
+      "en": "Voltaire"
+    },
+    "life": {
+      "birth": 1694,
+      "death": 1778,
+      "display": "1694—1778"
+    },
+    "civilization": "western",
+    "traditions": [
+      "enlightenment",
+      "french_philosophy"
+    ],
+    "periods": [
+      "early_modern"
+    ],
+    "themes": [
+      "freedom",
+      "religion"
+    ],
+    "keywordsZh": [
+      "启蒙",
+      "宽容",
+      "反教权"
+    ],
+    "oneLineZh": "启蒙旗手，宽容、理性与反教权论争，接洛克经验论并与卢梭构成同代张力。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "diderot",
+    "tier": "seed",
+    "names": {
+      "zh": "狄德罗",
+      "en": "Denis Diderot"
+    },
+    "life": {
+      "birth": 1713,
+      "death": 1784,
+      "display": "1713—1784"
+    },
+    "civilization": "western",
+    "traditions": [
+      "enlightenment",
+      "materialism"
+    ],
+    "periods": [
+      "modern"
+    ],
+    "themes": [
+      "knowledge",
+      "aesthetics"
+    ],
+    "keywordsZh": [
+      "百科全书",
+      "唯物论",
+      "美学"
+    ],
+    "oneLineZh": "《百科全书》主编，连接启蒙知识工程、唯物论与美学批评。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "montesquieu",
+    "tier": "seed",
+    "names": {
+      "zh": "孟德斯鸠",
+      "en": "Montesquieu"
+    },
+    "life": {
+      "birth": 1689,
+      "death": 1755,
+      "display": "1689—1755"
+    },
+    "civilization": "western",
+    "traditions": [
+      "enlightenment",
+      "political_philosophy"
+    ],
+    "periods": [
+      "early_modern"
+    ],
+    "themes": [
+      "politics",
+      "justice"
+    ],
+    "keywordsZh": [
+      "分权",
+      "政体论",
+      "法精神"
+    ],
+    "oneLineZh": "《论法的精神》以分权与政体类型学成为现代政治哲学关键节点。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "condillac",
+    "tier": "seed",
+    "names": {
+      "zh": "孔狄亚克",
+      "en": "Étienne Bonnot de Condillac"
+    },
+    "life": {
+      "birth": 1714,
+      "death": 1780,
+      "display": "1714—1780"
+    },
+    "civilization": "western",
+    "traditions": [
+      "enlightenment",
+      "empiricism"
+    ],
+    "periods": [
+      "modern"
+    ],
+    "themes": [
+      "knowledge",
+      "language"
+    ],
+    "keywordsZh": [
+      "感觉论",
+      "经验论",
+      "语言起源"
+    ],
+    "oneLineZh": "感觉论把洛克经验论推向系统化，雕像譬喻成为认识论史线索。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "condorcet",
+    "tier": "seed",
+    "names": {
+      "zh": "孔多塞",
+      "en": "Marquis de Condorcet"
+    },
+    "life": {
+      "birth": 1743,
+      "death": 1794,
+      "display": "1743—1794"
+    },
+    "civilization": "western",
+    "traditions": [
+      "enlightenment",
+      "political_philosophy"
+    ],
+    "periods": [
+      "modern"
+    ],
+    "themes": [
+      "politics",
+      "knowledge"
+    ],
+    "keywordsZh": [
+      "进步史观",
+      "社会数学",
+      "启蒙政治"
+    ],
+    "oneLineZh": "进步史观与社会数学连接启蒙政治哲学和后来的实证主义叙事。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "holbach",
+    "tier": "seed",
+    "names": {
+      "zh": "霍尔巴赫",
+      "en": "Baron d’Holbach"
+    },
+    "life": {
+      "birth": 1723,
+      "death": 1789,
+      "display": "1723—1789"
+    },
+    "civilization": "western",
+    "traditions": [
+      "enlightenment",
+      "materialism"
+    ],
+    "periods": [
+      "modern"
+    ],
+    "themes": [
+      "metaphysics",
+      "religion"
+    ],
+    "keywordsZh": [
+      "唯物论",
+      "决定论",
+      "无神论"
+    ],
+    "oneLineZh": "《自然的体系》代表法国启蒙的彻底唯物论与决定论。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "helvetius",
+    "tier": "seed",
+    "names": {
+      "zh": "爱尔维修",
+      "en": "Claude Adrien Helvétius"
+    },
+    "life": {
+      "birth": 1715,
+      "death": 1771,
+      "display": "1715—1771"
+    },
+    "civilization": "western",
+    "traditions": [
+      "enlightenment",
+      "utilitarianism"
+    ],
+    "periods": [
+      "modern"
+    ],
+    "themes": [
+      "ethics",
+      "knowledge"
+    ],
+    "keywordsZh": [
+      "感觉论伦理",
+      "功利",
+      "教育"
+    ],
+    "oneLineZh": "感觉论伦理与功利主义前史，连接洛克经验论和边沁功利主义。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "la-mettrie",
+    "tier": "seed",
+    "names": {
+      "zh": "拉美特利",
+      "en": "Julien Offray de La Mettrie"
+    },
+    "life": {
+      "birth": 1709,
+      "death": 1751,
+      "display": "1709—1751"
+    },
+    "civilization": "western",
+    "traditions": [
+      "enlightenment",
+      "materialism"
+    ],
+    "periods": [
+      "modern"
+    ],
+    "themes": [
+      "metaphysics",
+      "life_death"
+    ],
+    "keywordsZh": [
+      "机械唯物论",
+      "身心问题",
+      "人是机器"
+    ],
+    "oneLineZh": "《人是机器》将机械论推向人类身心解释，是启蒙唯物论极端形态。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "malebranche",
+    "tier": "seed",
+    "names": {
+      "zh": "马勒伯朗士",
+      "en": "Nicolas Malebranche"
+    },
+    "life": {
+      "birth": 1638,
+      "death": 1715,
+      "display": "1638—1715"
+    },
+    "civilization": "western",
+    "traditions": [
+      "cartesianism",
+      "christian_philosophy"
+    ],
+    "periods": [
+      "early_modern"
+    ],
+    "themes": [
+      "metaphysics",
+      "religion"
+    ],
+    "keywordsZh": [
+      "偶因论",
+      "笛卡尔主义",
+      "神学形而上学"
+    ],
+    "oneLineZh": "偶因论与“在上帝中看见万物”使笛卡尔主义进入神学形而上学争论。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "gassendi",
+    "tier": "seed",
+    "names": {
+      "zh": "伽桑狄",
+      "en": "Pierre Gassendi"
+    },
+    "life": {
+      "birth": 1592,
+      "death": 1655,
+      "display": "1592—1655"
+    },
+    "civilization": "western",
+    "traditions": [
+      "early_modern_philosophy",
+      "atomism"
+    ],
+    "periods": [
+      "early_modern"
+    ],
+    "themes": [
+      "metaphysics",
+      "knowledge"
+    ],
+    "keywordsZh": [
+      "原子论",
+      "伊壁鸠鲁复兴",
+      "笛卡尔批评"
+    ],
+    "oneLineZh": "复兴伊壁鸠鲁原子论，并在《沉思》诘难中成为笛卡尔同时代批评者。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "pierre-bayle",
+    "tier": "seed",
+    "names": {
+      "zh": "培尔",
+      "en": "Pierre Bayle"
+    },
+    "life": {
+      "birth": 1647,
+      "death": 1706,
+      "display": "1647—1706"
+    },
+    "civilization": "western",
+    "traditions": [
+      "early_modern_philosophy",
+      "skepticism"
+    ],
+    "periods": [
+      "early_modern"
+    ],
+    "themes": [
+      "religion",
+      "knowledge"
+    ],
+    "keywordsZh": [
+      "怀疑论",
+      "宽容",
+      "历史批判辞典"
+    ],
+    "oneLineZh": "《历史批判辞典》以怀疑论、宽容和神义论问题影响莱布尼茨。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "maine-de-biran",
+    "tier": "seed",
+    "names": {
+      "zh": "曼恩·德·比朗",
+      "en": "Maine de Biran"
+    },
+    "life": {
+      "birth": 1766,
+      "death": 1824,
+      "display": "1766—1824"
+    },
+    "civilization": "western",
+    "traditions": [
+      "french_spiritualism"
+    ],
+    "periods": [
+      "modern"
+    ],
+    "themes": [
+      "metaphysics",
+      "freedom"
+    ],
+    "keywordsZh": [
+      "意志",
+      "努力",
+      "内在经验"
+    ],
+    "oneLineZh": "努力与意志的内在经验开启法国唯灵论，连接笛卡尔反思传统和柏格森。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "victor-cousin",
+    "tier": "seed",
+    "names": {
+      "zh": "库赞",
+      "en": "Victor Cousin"
+    },
+    "life": {
+      "birth": 1792,
+      "death": 1867,
+      "display": "1792—1867"
+    },
+    "civilization": "western",
+    "traditions": [
+      "french_spiritualism",
+      "eclecticism"
+    ],
+    "periods": [
+      "modern"
+    ],
+    "themes": [
+      "knowledge",
+      "metaphysics"
+    ],
+    "keywordsZh": [
+      "折衷主义",
+      "学院哲学",
+      "观念论接受"
+    ],
+    "oneLineZh": "折衷主义和法国学院哲学建制，吸收德国观念论与批判哲学。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "renouvier",
+    "tier": "seed",
+    "names": {
+      "zh": "勒努维耶",
+      "en": "Charles Renouvier"
+    },
+    "life": {
+      "birth": 1815,
+      "death": 1903,
+      "display": "1815—1903"
+    },
+    "civilization": "western",
+    "traditions": [
+      "neo_criticism",
+      "kantianism"
+    ],
+    "periods": [
+      "modern"
+    ],
+    "themes": [
+      "freedom",
+      "knowledge"
+    ],
+    "keywordsZh": [
+      "新批判主义",
+      "自由意志",
+      "康德接受"
+    ],
+    "oneLineZh": "新批判主义重写康德问题，并对威廉·詹姆斯的自由意志论产生影响。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "ravaisson",
+    "tier": "seed",
+    "names": {
+      "zh": "拉韦松",
+      "en": "Félix Ravaisson"
+    },
+    "life": {
+      "birth": 1813,
+      "death": 1900,
+      "display": "1813—1900"
+    },
+    "civilization": "western",
+    "traditions": [
+      "french_spiritualism",
+      "aristotelianism"
+    ],
+    "periods": [
+      "modern"
+    ],
+    "themes": [
+      "metaphysics",
+      "life_death"
+    ],
+    "keywordsZh": [
+      "习惯",
+      "亚里士多德研究",
+      "生命哲学"
+    ],
+    "oneLineZh": "《论习惯》影响柏格森，并通过亚里士多德研究连接法国唯灵论和古典形而上学。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "boutroux",
+    "tier": "seed",
+    "names": {
+      "zh": "布特鲁",
+      "en": "Émile Boutroux"
+    },
+    "life": {
+      "birth": 1845,
+      "death": 1921,
+      "display": "1845—1921"
+    },
+    "civilization": "western",
+    "traditions": [
+      "french_spiritualism",
+      "philosophy_of_science"
+    ],
+    "periods": [
+      "modern"
+    ],
+    "themes": [
+      "knowledge",
+      "freedom"
+    ],
+    "keywordsZh": [
+      "偶然性",
+      "自然律",
+      "决定论批判"
+    ],
+    "oneLineZh": "以自然律偶然性批判严格决定论，连接法国科学哲学与唯灵论。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
   }
 ]

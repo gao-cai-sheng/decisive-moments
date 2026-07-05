@@ -1,0 +1,45 @@
+{
+  "id": "pierre-bayle",
+  "tier": "seed",
+  "names": {
+    "zh": "培尔",
+    "en": "Pierre Bayle"
+  },
+  "life": {
+    "birth": 1647,
+    "death": 1706,
+    "display": "1647—1706"
+  },
+  "civilization": "western",
+  "traditions": [
+    "early_modern_philosophy",
+    "skepticism"
+  ],
+  "periods": [
+    "early_modern"
+  ],
+  "themes": [
+    "religion",
+    "knowledge"
+  ],
+  "keywordsZh": [
+    "怀疑论",
+    "宽容",
+    "历史批判辞典"
+  ],
+  "oneLineZh": "《历史批判辞典》以怀疑论、宽容和神义论问题影响莱布尼茨。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "培尔（1647—1706）是 Seed W4 法国断代补全候选。其身份层入选理由为：《历史批判辞典》以怀疑论、宽容和神义论问题影响莱布尼茨。 本条仅作 seed 档基本定位，后续若升级标准档，必须重新做著作、论点与 evidence 研究。",
+  "works": [
+    "pierre-bayle-historical-critical-dictionary",
+    "pierre-bayle-philosophical-commentary"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S003",
+      "url": "https://plato.stanford.edu/entries/bayle/",
+      "noteZh": "权威来源条目：SEP: Pierre Bayle；用于核验人物身份、生卒、代表著作和思想史定位。"
+    }
+  ]
+}

@@ -9833,5 +9833,408 @@
     ],
     "noteZh": "W3 seed 身份层挂接：`emmanuel-mounier` 与 `gabriel-marcel` 围绕 religion 主题构成 shared_problem 关系，供后续标准档研究复核。",
     "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w4-b1-001-voltaire-locke-reception",
+    "from": "voltaire",
+    "to": "locke",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "knowledge"
+    ],
+    "noteZh": "W4 seed 身份层挂接：`voltaire` 与 `locke` 围绕 knowledge 主题构成 reception 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w4-b1-002-voltaire-rousseau-critique",
+    "from": "voltaire",
+    "to": "rousseau",
+    "type": "critique",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "politics"
+    ],
+    "noteZh": "W4 seed 身份层挂接：`voltaire` 与 `rousseau` 围绕 politics 主题构成 critique 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w4-b1-003-diderot-rousseau-critique",
+    "from": "diderot",
+    "to": "rousseau",
+    "type": "critique",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "freedom"
+    ],
+    "noteZh": "W4 seed 身份层挂接：`diderot` 与 `rousseau` 围绕 freedom 主题构成 critique 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w4-b1-004-diderot-holbach-school",
+    "from": "diderot",
+    "to": "holbach",
+    "type": "school",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "metaphysics"
+    ],
+    "noteZh": "W4 seed 身份层挂接：`diderot` 与 `holbach` 围绕 metaphysics 主题构成 school 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w4-b1-005-montesquieu-hobbes-critique",
+    "from": "montesquieu",
+    "to": "hobbes",
+    "type": "critique",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "politics"
+    ],
+    "noteZh": "W4 seed 身份层挂接：`montesquieu` 与 `hobbes` 围绕 politics 主题构成 critique 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w4-b1-006-montesquieu-tocqueville-influence",
+    "from": "montesquieu",
+    "to": "tocqueville",
+    "type": "influence",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "politics"
+    ],
+    "noteZh": "W4 seed 身份层挂接：`montesquieu` 与 `tocqueville` 围绕 politics 主题构成 influence 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w4-b1-007-condillac-locke-reception",
+    "from": "condillac",
+    "to": "locke",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "knowledge"
+    ],
+    "noteZh": "W4 seed 身份层挂接：`condillac` 与 `locke` 围绕 knowledge 主题构成 reception 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w4-b1-008-condillac-diderot-shared_problem",
+    "from": "condillac",
+    "to": "diderot",
+    "type": "shared_problem",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "language"
+    ],
+    "noteZh": "W4 seed 身份层挂接：`condillac` 与 `diderot` 围绕 language 主题构成 shared_problem 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w4-b1-009-condorcet-comte-influence",
+    "from": "condorcet",
+    "to": "comte",
+    "type": "influence",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "knowledge"
+    ],
+    "noteZh": "W4 seed 身份层挂接：`condorcet` 与 `comte` 围绕 knowledge 主题构成 influence 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w4-b1-010-condorcet-rousseau-shared_problem",
+    "from": "condorcet",
+    "to": "rousseau",
+    "type": "shared_problem",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "politics"
+    ],
+    "noteZh": "W4 seed 身份层挂接：`condorcet` 与 `rousseau` 围绕 politics 主题构成 shared_problem 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w4-b1-011-holbach-spinoza-reception",
+    "from": "holbach",
+    "to": "spinoza",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "metaphysics"
+    ],
+    "noteZh": "W4 seed 身份层挂接：`holbach` 与 `spinoza` 围绕 metaphysics 主题构成 reception 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w4-b1-012-helvetius-locke-reception",
+    "from": "helvetius",
+    "to": "locke",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "knowledge"
+    ],
+    "noteZh": "W4 seed 身份层挂接：`helvetius` 与 `locke` 围绕 knowledge 主题构成 reception 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w4-b1-013-helvetius-bentham-influence",
+    "from": "helvetius",
+    "to": "bentham",
+    "type": "influence",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "ethics"
+    ],
+    "noteZh": "W4 seed 身份层挂接：`helvetius` 与 `bentham` 围绕 ethics 主题构成 influence 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w4-b1-014-la-mettrie-descartes-critique",
+    "from": "la-mettrie",
+    "to": "descartes",
+    "type": "critique",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "metaphysics"
+    ],
+    "noteZh": "W4 seed 身份层挂接：`la-mettrie` 与 `descartes` 围绕 metaphysics 主题构成 critique 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w4-b1-015-la-mettrie-spinoza-reception",
+    "from": "la-mettrie",
+    "to": "spinoza",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "metaphysics"
+    ],
+    "noteZh": "W4 seed 身份层挂接：`la-mettrie` 与 `spinoza` 围绕 metaphysics 主题构成 reception 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w4-b2-001-malebranche-descartes-reception",
+    "from": "malebranche",
+    "to": "descartes",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "metaphysics"
+    ],
+    "noteZh": "W4 seed 身份层挂接：`malebranche` 与 `descartes` 围绕 metaphysics 主题构成 reception 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w4-b2-002-malebranche-leibniz-critique",
+    "from": "malebranche",
+    "to": "leibniz",
+    "type": "critique",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "religion"
+    ],
+    "noteZh": "W4 seed 身份层挂接：`malebranche` 与 `leibniz` 围绕 religion 主题构成 critique 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w4-b2-003-gassendi-descartes-critique",
+    "from": "gassendi",
+    "to": "descartes",
+    "type": "critique",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "metaphysics"
+    ],
+    "noteZh": "W4 seed 身份层挂接：`gassendi` 与 `descartes` 围绕 metaphysics 主题构成 critique 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w4-b2-004-gassendi-epicurus-reception",
+    "from": "gassendi",
+    "to": "epicurus",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "metaphysics"
+    ],
+    "noteZh": "W4 seed 身份层挂接：`gassendi` 与 `epicurus` 围绕 metaphysics 主题构成 reception 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w4-b2-005-pierre-bayle-leibniz-critique",
+    "from": "pierre-bayle",
+    "to": "leibniz",
+    "type": "critique",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "religion"
+    ],
+    "noteZh": "W4 seed 身份层挂接：`pierre-bayle` 与 `leibniz` 围绕 religion 主题构成 critique 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w4-b2-006-pierre-bayle-spinoza-critique",
+    "from": "pierre-bayle",
+    "to": "spinoza",
+    "type": "critique",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "religion"
+    ],
+    "noteZh": "W4 seed 身份层挂接：`pierre-bayle` 与 `spinoza` 围绕 religion 主题构成 critique 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w4-b2-007-maine-de-biran-descartes-reception",
+    "from": "maine-de-biran",
+    "to": "descartes",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "metaphysics"
+    ],
+    "noteZh": "W4 seed 身份层挂接：`maine-de-biran` 与 `descartes` 围绕 metaphysics 主题构成 reception 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w4-b2-008-maine-de-biran-bergson-influence",
+    "from": "maine-de-biran",
+    "to": "bergson",
+    "type": "influence",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "life_death"
+    ],
+    "noteZh": "W4 seed 身份层挂接：`maine-de-biran` 与 `bergson` 围绕 life_death 主题构成 influence 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w4-b2-009-victor-cousin-hegel-reception",
+    "from": "victor-cousin",
+    "to": "hegel",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "metaphysics"
+    ],
+    "noteZh": "W4 seed 身份层挂接：`victor-cousin` 与 `hegel` 围绕 metaphysics 主题构成 reception 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w4-b2-010-victor-cousin-kant-reception",
+    "from": "victor-cousin",
+    "to": "kant",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "knowledge"
+    ],
+    "noteZh": "W4 seed 身份层挂接：`victor-cousin` 与 `kant` 围绕 knowledge 主题构成 reception 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w4-b2-011-renouvier-kant-reception",
+    "from": "renouvier",
+    "to": "kant",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "freedom"
+    ],
+    "noteZh": "W4 seed 身份层挂接：`renouvier` 与 `kant` 围绕 freedom 主题构成 reception 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w4-b2-012-renouvier-james-influence",
+    "from": "renouvier",
+    "to": "james",
+    "type": "influence",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "freedom"
+    ],
+    "noteZh": "W4 seed 身份层挂接：`renouvier` 与 `james` 围绕 freedom 主题构成 influence 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w4-b2-013-ravaisson-bergson-influence",
+    "from": "ravaisson",
+    "to": "bergson",
+    "type": "influence",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "life_death"
+    ],
+    "noteZh": "W4 seed 身份层挂接：`ravaisson` 与 `bergson` 围绕 life_death 主题构成 influence 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w4-b2-014-ravaisson-aristotle-reception",
+    "from": "ravaisson",
+    "to": "aristotle",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "metaphysics"
+    ],
+    "noteZh": "W4 seed 身份层挂接：`ravaisson` 与 `aristotle` 围绕 metaphysics 主题构成 reception 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w4-b2-015-boutroux-comte-critique",
+    "from": "boutroux",
+    "to": "comte",
+    "type": "critique",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "knowledge"
+    ],
+    "noteZh": "W4 seed 身份层挂接：`boutroux` 与 `comte` 围绕 knowledge 主题构成 critique 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w4-b2-016-boutroux-bergson-influence",
+    "from": "boutroux",
+    "to": "bergson",
+    "type": "influence",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "freedom"
+    ],
+    "noteZh": "W4 seed 身份层挂接：`boutroux` 与 `bergson` 围绕 freedom 主题构成 influence 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
   }
 ]

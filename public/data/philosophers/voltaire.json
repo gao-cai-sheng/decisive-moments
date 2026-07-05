@@ -1,0 +1,45 @@
+{
+  "id": "voltaire",
+  "tier": "seed",
+  "names": {
+    "zh": "伏尔泰",
+    "en": "Voltaire"
+  },
+  "life": {
+    "birth": 1694,
+    "death": 1778,
+    "display": "1694—1778"
+  },
+  "civilization": "western",
+  "traditions": [
+    "enlightenment",
+    "french_philosophy"
+  ],
+  "periods": [
+    "early_modern"
+  ],
+  "themes": [
+    "freedom",
+    "religion"
+  ],
+  "keywordsZh": [
+    "启蒙",
+    "宽容",
+    "反教权"
+  ],
+  "oneLineZh": "启蒙旗手，宽容、理性与反教权论争，接洛克经验论并与卢梭构成同代张力。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "伏尔泰（1694—1778）是 Seed W4 法国断代补全候选。其身份层入选理由为：启蒙旗手，宽容、理性与反教权论争，接洛克经验论并与卢梭构成同代张力。 本条仅作 seed 档基本定位，后续若升级标准档，必须重新做著作、论点与 evidence 研究。",
+  "works": [
+    "voltaire-letters-on-the-english",
+    "voltaire-treatise-on-tolerance"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S001",
+      "url": "https://iep.utm.edu/voltaire/",
+      "noteZh": "权威来源条目：IEP: Voltaire；用于核验人物身份、生卒、代表著作和思想史定位。"
+    }
+  ]
+}

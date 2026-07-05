@@ -1,0 +1,45 @@
+{
+  "id": "montesquieu",
+  "tier": "seed",
+  "names": {
+    "zh": "孟德斯鸠",
+    "en": "Montesquieu"
+  },
+  "life": {
+    "birth": 1689,
+    "death": 1755,
+    "display": "1689—1755"
+  },
+  "civilization": "western",
+  "traditions": [
+    "enlightenment",
+    "political_philosophy"
+  ],
+  "periods": [
+    "early_modern"
+  ],
+  "themes": [
+    "politics",
+    "justice"
+  ],
+  "keywordsZh": [
+    "分权",
+    "政体论",
+    "法精神"
+  ],
+  "oneLineZh": "《论法的精神》以分权与政体类型学成为现代政治哲学关键节点。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "孟德斯鸠（1689—1755）是 Seed W4 法国断代补全候选。其身份层入选理由为：《论法的精神》以分权与政体类型学成为现代政治哲学关键节点。 本条仅作 seed 档基本定位，后续若升级标准档，必须重新做著作、论点与 evidence 研究。",
+  "works": [
+    "montesquieu-spirit-of-laws",
+    "montesquieu-persian-letters"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S003",
+      "url": "https://plato.stanford.edu/entries/montesquieu/",
+      "noteZh": "权威来源条目：SEP: Montesquieu；用于核验人物身份、生卒、代表著作和思想史定位。"
+    }
+  ]
+}

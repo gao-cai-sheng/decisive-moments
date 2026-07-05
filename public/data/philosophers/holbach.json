@@ -1,0 +1,45 @@
+{
+  "id": "holbach",
+  "tier": "seed",
+  "names": {
+    "zh": "霍尔巴赫",
+    "en": "Baron d’Holbach"
+  },
+  "life": {
+    "birth": 1723,
+    "death": 1789,
+    "display": "1723—1789"
+  },
+  "civilization": "western",
+  "traditions": [
+    "enlightenment",
+    "materialism"
+  ],
+  "periods": [
+    "modern"
+  ],
+  "themes": [
+    "metaphysics",
+    "religion"
+  ],
+  "keywordsZh": [
+    "唯物论",
+    "决定论",
+    "无神论"
+  ],
+  "oneLineZh": "《自然的体系》代表法国启蒙的彻底唯物论与决定论。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "霍尔巴赫（1723—1789）是 Seed W4 法国断代补全候选。其身份层入选理由为：《自然的体系》代表法国启蒙的彻底唯物论与决定论。 本条仅作 seed 档基本定位，后续若升级标准档，必须重新做著作、论点与 evidence 研究。",
+  "works": [
+    "holbach-system-of-nature",
+    "holbach-good-sense"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S006",
+      "url": "https://plato.stanford.edu/entries/holbach/",
+      "noteZh": "权威来源条目：SEP: Baron d’Holbach；用于核验人物身份、生卒、代表著作和思想史定位。"
+    }
+  ]
+}
