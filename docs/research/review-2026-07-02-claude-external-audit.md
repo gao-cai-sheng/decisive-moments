@@ -138,6 +138,15 @@ codex 报称 full audit 被平台安全层拦截，由本审核代跑复核：
 | B1复审 | 同上四位 | ✅（含 malformed_punct/shared_suffix） | 尾缀0、加厚真实 | 0 | 不变 | 内容 PASS；**流程违规#2**：冻结期写库（申请后19分钟） | **结案**；违规计入台账，累计3次即暂停自主循环 |
 | B2 | eckhart, cusa, vico, herder | ✅ | 0.12–0.16 | 0 | 每位≥3 | 抽检真实（《论神的观看》/维柯三时代/《人类历史哲学的观念》） | **抽检通过** |
 | B3 | iqbal, dharmakirti, shinran, cheng-yi | ✅（盲审 subagent pre-admit PASS 后入库，制度首次完整走通） | 0.13–0.14 | 0 | 每位≥3 | 抽检真实（和赞/量评释/程颐文集）；小瑕疵：dharmakirti 一条 summary 以"SEP 概述"充当一手文本摘要 | **抽检通过**；B4 起 summaryZh 须描述文本本身，二手来源另行标注 |
+| B4 | feng-youlan, mou-zongsan, simone-weil, mariategui | ✅（合并 proposed-works 复现） | 0.14–0.16 | 0 | 每位≥4 | 抽检真实（新理学/智的直觉/扎根/保卫马克思主义） | **PASS 入库** |
+| B5 | zera-yacob, walda-heywat, edward-blyden, nkrumah | ✅ | 0.14–0.15 | 0 | 每位≥3 | 抽检真实；名单 3 位经所有者追认 | **PASS 入库**；名单纪律立规 |
+| **B档全量复核** | 20 位 | — | 全部 <0.4 | 0 | 全部≥2 | 唯一遗留：dharmakirti 5 条二手转述（已列债） | **B 档收官确认，C 档开闸** |
+| C1 | macintyre, rorty, kripke, putnam | ✅（合并复现） | 0.12–0.14 | 0 | 每位≥4 | 抽检真实（德性之后/命名与必然性因果链） | **PASS，准予入库** |
+| C2 | davidson, deleuze, ricoeur, weber | ✅（合并复现） | 0.13–0.15 | 0 | 每位≥4 | 抽检真实（递归真理论/差异与重复/祛魅） | **PASS，准予入库** |
+| C3 | nishitani, radhakrishnan, madhva, charles-taylor | ✅（合并复现） | 0.15–0.18 | 0 | 每位≥4 | 抽检真实（京都学派二代/吠檀多三家补全/自我的诸源泉） | **PASS，准予入库** |
+| D1+欠债包 | bentham, comte, schleiermacher, reid ＋ dharmakirti 二手修复 | ✅ | 0.12–0.16 | 0 | — | 抽检真实；欠债包合并审通过 | **PASS** |
+| D2 | tocqueville, gramsci, lukacs, bloch | ✅ | 0.12–0.15 | 0 | — | 抽检真实 | **PASS** |
+| D3 | marcuse, fromm, berlin, hayek, schmitt, croce | ✅(被骗过) | 0.20–0.32 | 0 | — | **四代凑数尾缀**："，并作为<evidence-id>的文本支点"×59/72；id 变化绕过 shared_suffix，evidence id 绕过 workid_in_summary | **❌ REJECT**：删尾缀+真实加厚；新增 evidence_id_in_summary RED + shared_suffix 剥离 ASCII 升级 |
 
 ### 附则：本报告的编辑权
 

@@ -1,0 +1,44 @@
+{
+  "id": "luo-qinshun",
+  "tier": "seed",
+  "names": {
+    "zh": "罗钦顺",
+    "en": "Luo Qinshun",
+    "native": "羅欽順"
+  },
+  "life": {
+    "birth": 1465,
+    "death": 1547,
+    "display": "1465—1547"
+  },
+  "civilization": "chinese",
+  "traditions": [
+    "neo_confucianism"
+  ],
+  "periods": [
+    "ming"
+  ],
+  "themes": [
+    "metaphysics",
+    "knowledge"
+  ],
+  "keywordsZh": [
+    "困知记",
+    "理气一物",
+    "反王学"
+  ],
+  "oneLineZh": "明代理学家，以《困知记》讨论理气、心性并批评王学。",
+  "influenceWeight": 3,
+  "reviewStatus": "draft",
+  "summaryZh": "罗钦顺，字允升，号整庵，明代思想家。《困知记》围绕理气关系、心性工夫和知识判断展开，强调理不离气、理气为一物，批评将心体过度主观化的学风。罗钦顺在明代朱王论争中占据重要位置，他既继承程朱问题，又以气化实在论修正抽象理本体。",
+  "works": [
+    "luo-qinshun-kunzhi-ji"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S022",
+      "url": "https://ctext.org/wiki.pl?if=en&res=821860",
+      "noteZh": "以罗钦顺《困知记》支撑身份层。"
+    }
+  ]
+}

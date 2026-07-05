@@ -24,6 +24,20 @@ const SUMMARY_POOL = [
   "文本分析社会分工造成的视角差异，并把正义问题放入具体生活结构中考察。",
   "论述强调批判不是简单否定，而是在保留问题压力时重新安排概念关系。",
 ];
+const SUMMARY_TAIL_POOL = [
+  "经验判断余波。",
+  "制度语境余波。",
+  "公共理由余波。",
+  "习惯训练余波。",
+  "语言用法余波。",
+  "政治权威余波。",
+  "自然技艺余波。",
+  "教育过程余波。",
+  "责任检验余波。",
+  "信念转换余波。",
+  "生活结构余波。",
+  "概念重排余波。",
+];
 function defaultSummaryFor(id) {
   const s = String(id || "sage:evidence:001");
   let n = 0;
@@ -32,7 +46,7 @@ function defaultSummaryFor(id) {
     n += ch.charCodeAt(0);
     h = (h * 31 + ch.charCodeAt(0)) % 1000000;
   }
-  return `${SUMMARY_POOL[n % SUMMARY_POOL.length]}此证据的差异尾码为${h}。`;
+  return `${SUMMARY_POOL[n % SUMMARY_POOL.length]}此证据的差异尾意为${SUMMARY_TAIL_POOL[h % SUMMARY_TAIL_POOL.length]}`;
 }
 function ev(over = {}) {
   const id = over.id || "sage:evidence:001";
@@ -320,6 +334,28 @@ describe("quality-audit：每类问题都必须被抓到", () => {
     const p = problem({ id: "sage:problem:001", claims: [
       claim({ id: "c1", titleZh: "甲", weight: 2, evidence: [mk("e1", "第一条证据讨论经验判断"), mk("e2", "第二条证据分析制度语境")] }),
       claim({ id: "c2", titleZh: "乙", weight: 1, evidence: [mk("e3", "第三条证据转向语言用法"), ev({ id: "e4" })] }),
+    ] });
+    const d = philosopher([p, problem({ id: "sage:problem:002" }), problem({ id: "sage:problem:003" })]);
+    expect(codes(d)).toContain("shared_suffix");
+  });
+
+  it("evidence_id_in_summary（summaryZh 粘贴自身 evidence id 或 -eNNN 变体直接 RED）", () => {
+    const p = problem({ id: "sage:problem:001", claims: [
+      claim({ id: "c1", titleZh: "甲", weight: 2, evidence: [
+        ev({ id: "sage:evidence:001", summaryZh: "文本讨论经验判断如何被公共理由校正，并作为sage-e001的文本支点。" }),
+        ev({ id: "e2" }),
+      ] }),
+      claim({ id: "c2", titleZh: "乙", weight: 1 }),
+    ] });
+    const d = philosopher([p, problem({ id: "sage:problem:002" }), problem({ id: "sage:problem:003" })]);
+    expect(codes(d)).toContain("evidence_id_in_summary");
+  });
+
+  it("shared_suffix 会在剥离 ASCII/id 子串后继续识别变体尾缀", () => {
+    const mk = (id, head, tag) => ev({ id, summaryZh: `${head}，并在具体段落中说明不同论点的文本根据，并作为${tag}的文本支点。` });
+    const p = problem({ id: "sage:problem:001", claims: [
+      claim({ id: "c1", titleZh: "甲", weight: 2, evidence: [mk("e1", "第一条证据讨论经验判断", "sage-e001"), mk("e2", "第二条证据分析制度语境", "sage-e002")] }),
+      claim({ id: "c2", titleZh: "乙", weight: 1, evidence: [mk("e3", "第三条证据转向语言用法", "sage-e003"), ev({ id: "e4" })] }),
     ] });
     const d = philosopher([p, problem({ id: "sage:problem:002" }), problem({ id: "sage:problem:003" })]);
     expect(codes(d)).toContain("shared_suffix");

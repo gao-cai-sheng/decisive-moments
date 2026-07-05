@@ -1,0 +1,46 @@
+{
+  "id": "dao-an",
+  "tier": "seed",
+  "names": {
+    "zh": "道安",
+    "en": "Dao An",
+    "native": "釋道安"
+  },
+  "life": {
+    "birth": 312,
+    "death": 385,
+    "display": "312—385"
+  },
+  "civilization": "chinese",
+  "traditions": [
+    "buddhism",
+    "chinese_buddhism"
+  ],
+  "periods": [
+    "eastern_jin"
+  ],
+  "themes": [
+    "religion",
+    "knowledge"
+  ],
+  "keywordsZh": [
+    "格义批判",
+    "僧团制度",
+    "经录"
+  ],
+  "oneLineZh": "东晋高僧，推动佛典目录、僧团规范和中国佛教自主化。",
+  "influenceWeight": 3,
+  "reviewStatus": "draft",
+  "summaryZh": "道安，俗姓卫，东晋高僧，是中国佛教制度化的关键人物。他组织译经、编订经录，主张僧人以“释”为姓，并推动僧团戒律和讲学规范。道安反思早期格义方法，强调依据佛典自身语境理解佛法。其弟子和影响延伸至慧远、鸠摩罗什译场，是中国佛教从移植走向本土体系化的核心人物。",
+  "works": [
+    "dao-an-zongli-zhongjing-mulu",
+    "dao-an-biography-gaosengzhuan"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S018",
+      "url": "https://cbetaonline.dila.edu.tw/zh/T2059",
+      "noteZh": "以《高僧传》道安传和经录传统支撑身份层。"
+    }
+  ]
+}

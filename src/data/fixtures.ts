@@ -19,6 +19,7 @@ export const validWork: Work = {
 
 export const validPhilosopher: Philosopher = {
   id: "plato",
+  tier: "standard",
   names: { zh: "柏拉图", en: "Plato", native: "Πλάτων" },
   life: { birth: -428, death: -348, display: "约公元前 428/427 - 前 348/347" },
   civilization: "ancient_greek",

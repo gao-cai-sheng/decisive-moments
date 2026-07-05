@@ -1,0 +1,47 @@
+{
+  "id": "huang-zongxi",
+  "tier": "seed",
+  "names": {
+    "zh": "黄宗羲",
+    "en": "Huang Zongxi",
+    "native": "黃宗羲"
+  },
+  "life": {
+    "birth": 1610,
+    "death": 1695,
+    "display": "1610—1695"
+  },
+  "civilization": "chinese",
+  "traditions": [
+    "confucianism",
+    "qing_kaozheng"
+  ],
+  "periods": [
+    "ming",
+    "qing"
+  ],
+  "themes": [
+    "politics",
+    "knowledge"
+  ],
+  "keywordsZh": [
+    "明夷待访录",
+    "明儒学案",
+    "浙东学术"
+  ],
+  "oneLineZh": "明清之际思想家和史学家，以君主批判与学术史书写著称。",
+  "influenceWeight": 3,
+  "reviewStatus": "draft",
+  "summaryZh": "黄宗羲，字太冲，号梨洲，明清之际思想家、史学家和经世学者。《明夷待访录》批判君主专制，主张学校议政和限制君权；《明儒学案》以学案体整理明代思想谱系。黄宗羲承接刘宗周蕺山学，又开启清初浙东史学和制度批判，是明清思想转型的核心人物。",
+  "works": [
+    "huang-zongxi-mingyi-daifang-lu",
+    "huang-zongxi-mingru-xuean"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S006",
+      "url": "https://ctext.org/ming-yi-dai-fang-lu",
+      "noteZh": "以黄宗羲《明夷待访录》《明儒学案》支撑身份层。"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "tang-zhen",
+  "tier": "seed",
+  "names": {
+    "zh": "唐甄",
+    "en": "Tang Zhen",
+    "native": "唐甄"
+  },
+  "life": {
+    "birth": 1630,
+    "death": 1704,
+    "display": "1630—1704"
+  },
+  "civilization": "chinese",
+  "traditions": [
+    "confucianism",
+    "qing_political_thought"
+  ],
+  "periods": [
+    "qing"
+  ],
+  "themes": [
+    "politics",
+    "justice"
+  ],
+  "keywordsZh": [
+    "潜书",
+    "君主批判",
+    "经世"
+  ],
+  "oneLineZh": "清初思想家，以《潜书》批判君主权力和社会不平。",
+  "influenceWeight": 3,
+  "reviewStatus": "draft",
+  "summaryZh": "唐甄，字铸万，号圃亭，清初思想家和政论家。《潜书》以激烈语言批判君主、官僚、财富不均和社会压迫，强调养民、实政和士人责任。唐甄虽然仕途不显，却在政治思想史上以对君权和制度弊病的深刻揭露著称，与黄宗羲等共同构成明清之际反专制经世传统。",
+  "works": [
+    "tang-zhen-qianshu"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S010",
+      "url": "https://ctext.org/wiki.pl?if=en&searchu=%E5%94%90%E7%94%84",
+      "noteZh": "以唐甄《潜书》支撑身份层。"
+    }
+  ]
+}

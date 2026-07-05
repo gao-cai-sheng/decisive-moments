@@ -1,0 +1,44 @@
+{
+  "id": "chen-xianzhang",
+  "tier": "seed",
+  "names": {
+    "zh": "陈献章",
+    "en": "Chen Xianzhang",
+    "native": "陳獻章"
+  },
+  "life": {
+    "birth": 1428,
+    "death": 1500,
+    "display": "1428—1500"
+  },
+  "civilization": "chinese",
+  "traditions": [
+    "neo_confucianism"
+  ],
+  "periods": [
+    "ming"
+  ],
+  "themes": [
+    "ethics",
+    "metaphysics"
+  ],
+  "keywordsZh": [
+    "白沙心学",
+    "静坐",
+    "自然自得"
+  ],
+  "oneLineZh": "明代白沙学派创始人，重视心体自得和静坐涵养。",
+  "influenceWeight": 3,
+  "reviewStatus": "draft",
+  "summaryZh": "陈献章，字公甫，号白沙，明代广东新会人，是白沙学派创始人。其学强调静坐涵养、心体自得和自然活泼，反对只在文字训诂中求道。《白沙子全集》保存其诗文书札。陈献章上承吴与弼，下启湛若水、王阳明时代的心学气候，是明代儒学由程朱格套转向主体体验的重要人物。",
+  "works": [
+    "chen-xianzhang-baishazi-quanji"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S020",
+      "url": "https://ctext.org/wiki.pl?if=en&res=821800",
+      "noteZh": "以陈献章《白沙子全集》和明儒学案材料支撑身份层。"
+    }
+  ]
+}

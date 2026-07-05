@@ -1,0 +1,46 @@
+{
+  "id": "gu-xiancheng",
+  "tier": "seed",
+  "names": {
+    "zh": "顾宪成",
+    "en": "Gu Xiancheng",
+    "native": "顧憲成"
+  },
+  "life": {
+    "birth": 1550,
+    "death": 1612,
+    "display": "1550—1612"
+  },
+  "civilization": "chinese",
+  "traditions": [
+    "neo_confucianism",
+    "donglin"
+  ],
+  "periods": [
+    "ming"
+  ],
+  "themes": [
+    "ethics",
+    "politics"
+  ],
+  "keywordsZh": [
+    "东林书院",
+    "顾端文公遗书",
+    "讲学"
+  ],
+  "oneLineZh": "晚明东林学派代表，重建东林书院并强调士人公共责任。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "顾宪成，字叔时，号泾阳，晚明无锡人，东林书院重建者之一。他以讲学和士人结社回应朝政败坏，强调儒者应关切天下、砥砺名节和监督政治。《顾端文公遗书》等保存其讲学与政论材料。顾宪成使书院从修身场域扩展为晚明公共议论和政治伦理中心。",
+  "works": [
+    "gu-xiancheng-guduanwengong-yishu",
+    "gu-xiancheng-donglin-huiyue"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S003",
+      "url": "https://ctext.org/wiki.pl?if=en&searchu=%E9%A1%A7%E6%86%B2%E6%88%90",
+      "noteZh": "以顾宪成文集、东林书院和明儒学案材料支撑身份层。"
+    }
+  ]
+}

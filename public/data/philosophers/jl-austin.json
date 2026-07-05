@@ -1,0 +1,43 @@
+{
+  "id": "jl-austin",
+  "tier": "seed",
+  "names": {
+    "zh": "约翰·兰肖·奥斯汀",
+    "en": "J. L. Austin"
+  },
+  "life": {
+    "birth": 1911,
+    "death": 1960,
+    "display": "1911—1960"
+  },
+  "civilization": "western",
+  "traditions": [
+    "analytic_philosophy"
+  ],
+  "periods": [
+    "contemporary"
+  ],
+  "themes": [
+    "language",
+    "knowledge"
+  ],
+  "keywordsZh": [
+    "言语行为",
+    "身份层",
+    "二线哲人"
+  ],
+  "oneLineZh": "言语行为理论源头，可补语言哲学从意义到行动的转向。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "约翰·兰肖·奥斯汀（1911—1960）是 W2 欧陆与英美近现代二线哲人候选。其身份层入选理由为：言语行为理论源头，可补语言哲学从意义到行动的转向。 本条仅作 seed 档基本定位，后续若升级标准档，需要重新做著作、论点与 evidence 研究。",
+  "works": [
+    "jl-austin-how-to-do-things-with-words",
+    "jl-austin-sense-and-sensibilia"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S018",
+      "noteZh": "权威来源条目：SEP: John Langshaw Austin；用于核验人物身份、生卒、代表著作和思想史定位。"
+    }
+  ]
+}

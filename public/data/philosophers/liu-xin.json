@@ -1,0 +1,47 @@
+{
+  "id": "liu-xin",
+  "tier": "seed",
+  "names": {
+    "zh": "刘歆",
+    "en": "Liu Xin",
+    "native": "劉歆"
+  },
+  "life": {
+    "birth": -50,
+    "death": 23,
+    "display": "约前50—23"
+  },
+  "civilization": "chinese",
+  "traditions": [
+    "confucianism",
+    "han_bibliography"
+  ],
+  "periods": [
+    "western_han",
+    "xin"
+  ],
+  "themes": [
+    "knowledge",
+    "politics"
+  ],
+  "keywordsZh": [
+    "七略",
+    "古文经学",
+    "校书"
+  ],
+  "oneLineZh": "西汉末至新莽时期经学家和目录学家，推动古文经学与目录体系。",
+  "influenceWeight": 3,
+  "reviewStatus": "draft",
+  "summaryZh": "刘歆，字子骏，刘向之子，继承并推进宫廷校书工程，编成《七略》目录体系，对后世《汉书·艺文志》影响重大。他也是古文经学的重要推动者，围绕《左氏春秋》《周官》等经典地位引发争论。刘歆的身份兼具目录学家、经学争论者和新莽政治参与者，是两汉知识制度转折的核心人物。",
+  "works": [
+    "liu-xin-qilue",
+    "liu-xin-yishu-taichangboshi"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S006",
+      "url": "https://ctext.org/han-shu/yi-wen-zhi",
+      "noteZh": "以《汉书·艺文志》和刘歆古文经学材料支撑身份层。"
+    }
+  ]
+}

@@ -1,30 +1,288 @@
 {
   "id": "seneca",
-  "names": {"zh": "塞涅卡", "en": "Seneca the Younger"},
-  "life": {"birth": -4, "death": 65, "display": "约前 4—65"},
+  "names": {
+    "zh": "塞涅卡",
+    "en": "Seneca the Younger"
+  },
+  "life": {
+    "birth": -4,
+    "death": 65,
+    "display": "约前 4—65"
+  },
   "civilization": "ancient_greek",
-  "traditions": ["stoicism", "roman_philosophy"],
-  "periods": ["first_release"],
-  "themes": ["ethics", "freedom", "life_death"],
-  "keywordsZh": ["伦理", "自由", "生死"],
+  "traditions": [
+    "stoicism",
+    "roman_philosophy"
+  ],
+  "periods": [
+    "first_release"
+  ],
+  "themes": [
+    "ethics",
+    "freedom",
+    "life_death"
+  ],
+  "keywordsZh": [
+    "伦理",
+    "自由",
+    "生死"
+  ],
   "oneLineZh": "罗马斯多葛哲人和政治家，以书信、论怒、论仁慈和有限生命训练展开实践伦理。",
   "influenceWeight": 1,
   "reviewStatus": "draft",
   "summaryZh": "罗马斯多葛哲人和政治家，以书信、论怒、论仁慈和有限生命训练展开实践伦理。本条目以 summary_only 方式整理。",
-  "works": ["seneca-primary-work"],
-  "sourceNotes": [{"label": "primary-dossier", "noteZh": "采用《道德书信》《论怒》《论生命短暂》《论仁慈》和现代斯多葛研究。"}, {"label": "excerpt-status", "noteZh": "全部 evidence 使用 summary_only。"}],
-  "thoughtSystem": {"problems": [
-    {"id": "seneca:problem:001", "titleZh": "哲学如何治疗激情？", "questionZh": "塞涅卡如何把怒、恐惧、贪欲等激情理解为可训练的判断错误？", "summaryZh": "塞涅卡把斯多葛激情理论转化为心理训练：通过预演、审查和理性劝诫减少灵魂失控。", "themeIds": ["ethics", "knowledge"], "weight": 3, "claims": [
-      {"id": "seneca:claim:001", "titleZh": "怒是判断失控", "claimZh": "塞涅卡把怒视为最具破坏性的激情之一，是错误判断放大后的灵魂失控。", "explanationZh": "治疗怒需要在初起印象、同意和习惯层面干预。", "themeIds": ["ethics"], "weight": 3, "evidence": [{"id": "seneca:evidence:001", "titleZh": "《论怒》", "summaryZh": "三卷系统分析怒的起源、危害和治疗，展示斯多葛激情疗法的实践面向和训练方法脉络结构。", "source": {"workId": "seneca-primary-work", "locator": "Seneca, De Ira I-III on anger, judgment and therapy", "excerptStatus": "summary_only"}}, {"id": "seneca:evidence:002", "titleZh": "斯多葛激情研究", "summaryZh": "现代研究把塞涅卡视为把斯多葛心理学写成实践治疗文本的重要作者和拉丁代表人物之一。", "source": {"workId": "seneca-primary-work", "locator": "Modern scholarship on Seneca, Stoic passions and therapy", "excerptStatus": "summary_only"}}]},
-      {"id": "seneca:claim:002", "titleZh": "每日自审训练判断", "claimZh": "塞涅卡强调自我审查、预演困难和反复劝诫，以重塑价值判断。", "explanationZh": "哲学不是知识收藏，而是日常操练。", "themeIds": ["ethics", "freedom"], "weight": 2, "evidence": [{"id": "seneca:evidence:003", "titleZh": "书信中的自我训练", "summaryZh": "《道德书信》反复讨论简朴预演、生命有限性和日常自审，突出哲学训练的日用性方法之一。", "source": {"workId": "seneca-primary-work", "locator": "Seneca, Epistles 18, 26, 83 on exercises and self-examination", "excerptStatus": "summary_only"}}, {"id": "seneca:evidence:004", "titleZh": "实践哲学研究", "summaryZh": "研究强调塞涅卡作品面向读者转化，而非抽象体系展示，具有劝诫和治疗功能面向特征之一。", "source": {"workId": "seneca-primary-work", "locator": "Modern scholarship on Seneca's letters as spiritual exercises", "excerptStatus": "summary_only"}}]}
-    ]},
-    {"id": "seneca:problem:002", "titleZh": "财富和权力中的自由如何可能？", "questionZh": "塞涅卡如何在极端政治权力和财富处境中谈自足、德性和内在自由？", "summaryZh": "塞涅卡承认外物可被使用，但坚持它们不能成为幸福根基；自由来自不被外物奴役。", "themeIds": ["freedom", "ethics"], "weight": 3, "claims": [
-      {"id": "seneca:claim:003", "titleZh": "外物可用但不可依附", "claimZh": "塞涅卡认为财富可被贤者使用，但一旦成为身份和安全来源就会奴役人。", "explanationZh": "这回应罗马精英处境下斯多葛外物论的实践难题。", "themeIds": ["ethics", "freedom"], "weight": 3, "evidence": [{"id": "seneca:evidence:005", "titleZh": "《论幸福生活》", "summaryZh": "文本讨论德性、快乐、财富和贤者使用外物的问题，说明外物不能决定真正幸福状态本身。", "source": {"workId": "seneca-primary-work", "locator": "Seneca, De Vita Beata on virtue, wealth and happiness", "excerptStatus": "summary_only"}}, {"id": "seneca:evidence:006", "titleZh": "书信中的简朴预演", "summaryZh": "塞涅卡建议主动练习简朴生活以削弱对财富的依赖，训练面对损失的自由能力基础实践方式。", "source": {"workId": "seneca-primary-work", "locator": "Seneca, Epistle 18 on practicing simplicity", "excerptStatus": "summary_only"}}]},
-      {"id": "seneca:claim:004", "titleZh": "政治权力需要仁慈约束", "claimZh": "在君主政治现实中，塞涅卡以仁慈约束权力暴力。", "explanationZh": "这不是共和自由理论，而是帝制处境中的伦理限权方案。", "themeIds": ["politics", "ethics"], "weight": 2, "evidence": [{"id": "seneca:evidence:007", "titleZh": "《论仁慈》", "summaryZh": "该书写给尼禄，论证统治者应以仁慈而非残酷维系统治，连接伦理和政治判断问题场景依据。", "source": {"workId": "seneca-primary-work", "locator": "Seneca, De Clementia I-II on mercy and imperial power", "excerptStatus": "summary_only"}}, {"id": "seneca:evidence:008", "titleZh": "政治处境研究", "summaryZh": "现代研究将《论仁慈》置于塞涅卡与尼禄宫廷政治关系中解释，显示文本的实践语境内容。", "source": {"workId": "seneca-primary-work", "locator": "Modern scholarship on Seneca, Nero and De Clementia", "excerptStatus": "summary_only"}}]}
-    ]},
-    {"id": "seneca:problem:003", "titleZh": "有限生命训练为何是自由训练？", "questionZh": "塞涅卡为什么反复要求珍惜时间、预想终点和摆脱命运恐惧？", "summaryZh": "有限生命训练使人把不可控制的终点转化为自由判断的对象，从而摆脱恐惧支配。", "themeIds": ["life_death", "freedom"], "weight": 2, "claims": [
-      {"id": "seneca:claim:005", "titleZh": "生命短暂问题其实是时间浪费问题", "claimZh": "塞涅卡认为人生并非绝对太短，而是人把时间交给无价值事务。", "explanationZh": "时间管理在这里是伦理和有限性意识问题。", "themeIds": ["life_death", "ethics"], "weight": 3, "evidence": [{"id": "seneca:evidence:009", "titleZh": "《论生命短暂》", "summaryZh": "文本论证人因野心、社交和欲望浪费生命，提醒哲学训练要重新安排时间和注意力分配方式。", "source": {"workId": "seneca-primary-work", "locator": "Seneca, De Brevitate Vitae on time, busyness and philosophical life", "excerptStatus": "summary_only"}}, {"id": "seneca:evidence:010", "titleZh": "书信中的时间主题", "summaryZh": "第一封书信即要求卢基利乌斯夺回自己的时间，把时间管理提升为伦理修行问题核心之一。", "source": {"workId": "seneca-primary-work", "locator": "Seneca, Epistle 1 on reclaiming time", "excerptStatus": "summary_only"}}]},
-      {"id": "seneca:claim:006", "titleZh": "命运事件不可剥夺德性", "claimZh": "痛苦、流放和生命终点都是命运事件，不能破坏由德性构成的真正自由。", "explanationZh": "这使斯多葛自由可在极端处境中维持。", "themeIds": ["freedom", "life_death"], "weight": 2, "evidence": [{"id": "seneca:evidence:011", "titleZh": "书信中的有限性训练", "summaryZh": "多封书信要求把每一天当作完整生命来过，并练习不被终点恐惧支配和扰乱影响因素作用。", "source": {"workId": "seneca-primary-work", "locator": "Seneca, Epistles 26, 54, 70 on finitude and freedom", "excerptStatus": "summary_only"}}, {"id": "seneca:evidence:012", "titleZh": "现代斯多葛自由研究", "summaryZh": "研究强调塞涅卡把自由定义为价值判断不被外部事件奴役，而非单纯外在选择空间范围本身。", "source": {"workId": "seneca-primary-work", "locator": "Modern scholarship on Seneca, freedom and Stoic endurance", "excerptStatus": "summary_only"}}]}
-    ]}
-  ]}
+  "works": [
+    "seneca-primary-work"
+  ],
+  "sourceNotes": [
+    {
+      "label": "primary-dossier",
+      "noteZh": "采用《道德书信》《论怒》《论生命短暂》《论仁慈》和现代斯多葛研究。"
+    },
+    {
+      "label": "excerpt-status",
+      "noteZh": "全部 evidence 使用 summary_only。"
+    }
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "seneca:problem:001",
+        "titleZh": "哲学如何治疗激情？",
+        "questionZh": "塞涅卡如何把怒、恐惧、贪欲等激情理解为可训练的判断错误？",
+        "summaryZh": "塞涅卡把斯多葛激情理论转化为心理训练：通过预演、审查和理性劝诫减少灵魂失控。",
+        "themeIds": [
+          "ethics",
+          "knowledge"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "seneca:claim:001",
+            "titleZh": "怒是判断失控",
+            "claimZh": "塞涅卡把怒视为最具破坏性的激情之一，是错误判断放大后的灵魂失控。",
+            "explanationZh": "治疗怒需要在初起印象、同意和习惯层面干预。",
+            "themeIds": [
+              "ethics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "seneca:evidence:001",
+                "titleZh": "《论怒》",
+                "summaryZh": "三卷系统分析怒的起源、危害和治疗，展示斯多葛激情疗法的实践面向和训练方法脉络结构。",
+                "source": {
+                  "workId": "seneca-primary-work",
+                  "locator": "Seneca, De Ira I-III on anger, judgment and therapy",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "seneca:evidence:002",
+                "titleZh": "斯多葛激情研究",
+                "summaryZh": "现代研究把塞涅卡视为把斯多葛心理学写成实践治疗文本的重要作者和拉丁代表人物之一。",
+                "source": {
+                  "workId": "seneca-primary-work",
+                  "locator": "Modern scholarship on Seneca, Stoic passions and therapy",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "seneca:claim:002",
+            "titleZh": "每日自审训练判断",
+            "claimZh": "塞涅卡强调自我审查、预演困难和反复劝诫，以重塑价值判断。",
+            "explanationZh": "哲学不是知识收藏，而是日常操练。",
+            "themeIds": [
+              "ethics",
+              "freedom"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "seneca:evidence:003",
+                "titleZh": "书信中的自我训练",
+                "summaryZh": "《道德书信》反复讨论简朴预演、生命有限性和日常自审，突出哲学训练的日用性方法之一。",
+                "source": {
+                  "workId": "seneca-primary-work",
+                  "locator": "Seneca, Epistles 18, 26, 83 on exercises and self-examination",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "seneca:evidence:004",
+                "titleZh": "实践哲学研究",
+                "summaryZh": "研究强调塞涅卡作品面向读者转化，而非抽象体系展示，具有劝诫和治疗功能面向特征之一。",
+                "source": {
+                  "workId": "seneca-primary-work",
+                  "locator": "Modern scholarship on Seneca's letters as spiritual exercises",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "seneca:problem:002",
+        "titleZh": "财富和权力中的自由如何可能？",
+        "questionZh": "塞涅卡如何在极端政治权力和财富处境中谈自足、德性和内在自由？",
+        "summaryZh": "塞涅卡承认外物可被使用，但坚持它们不能成为幸福根基；自由来自不被外物奴役。",
+        "themeIds": [
+          "freedom",
+          "ethics"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "seneca:claim:003",
+            "titleZh": "外物可用但不可依附",
+            "claimZh": "塞涅卡认为财富可被贤者使用，但一旦成为身份和安全来源就会奴役人。",
+            "explanationZh": "这回应罗马精英处境下斯多葛外物论的实践难题。",
+            "themeIds": [
+              "ethics",
+              "freedom"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "seneca:evidence:005",
+                "titleZh": "《论幸福生活》",
+                "summaryZh": "文本讨论德性、快乐、财富和贤者使用外物的问题，说明外物不能决定真正幸福状态本身。",
+                "source": {
+                  "workId": "seneca-primary-work",
+                  "locator": "Seneca, De Vita Beata on virtue, wealth and happiness",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "seneca:evidence:006",
+                "titleZh": "书信中的简朴预演",
+                "summaryZh": "塞涅卡建议主动练习简朴生活以削弱对财富的依赖，训练面对损失的自由能力基础实践方式。",
+                "source": {
+                  "workId": "seneca-primary-work",
+                  "locator": "Seneca, Epistle 18 on practicing simplicity",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "seneca:claim:004",
+            "titleZh": "政治权力需要仁慈约束",
+            "claimZh": "在君主政治现实中，塞涅卡以仁慈约束权力暴力。",
+            "explanationZh": "这不是共和自由理论，而是帝制处境中的伦理限权方案。",
+            "themeIds": [
+              "politics",
+              "ethics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "seneca:evidence:007",
+                "titleZh": "《论仁慈》",
+                "summaryZh": "该书写给尼禄，论证统治者应以仁慈而非残酷维系统治，连接伦理和政治判断问题场景依据。",
+                "source": {
+                  "workId": "seneca-primary-work",
+                  "locator": "Seneca, De Clementia I-II on mercy and imperial power",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "seneca:evidence:008",
+                "titleZh": "政治处境研究",
+                "summaryZh": "现代研究将《论仁慈》置于塞涅卡与尼禄宫廷政治关系中解释，显示文本的实践语境内容。",
+                "source": {
+                  "workId": "seneca-primary-work",
+                  "locator": "Modern scholarship on Seneca, Nero and De Clementia",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "seneca:problem:003",
+        "titleZh": "有限生命训练为何是自由训练？",
+        "questionZh": "塞涅卡为什么反复要求珍惜时间、预想终点和摆脱命运恐惧？",
+        "summaryZh": "有限生命训练使人把不可控制的终点转化为自由判断的对象，从而摆脱恐惧支配。",
+        "themeIds": [
+          "life_death",
+          "freedom"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "seneca:claim:005",
+            "titleZh": "生命短暂问题其实是时间浪费问题",
+            "claimZh": "塞涅卡认为人生并非绝对太短，而是人把时间交给无价值事务。",
+            "explanationZh": "时间管理在这里是伦理和有限性意识问题。",
+            "themeIds": [
+              "life_death",
+              "ethics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "seneca:evidence:009",
+                "titleZh": "《论生命短暂》",
+                "summaryZh": "文本论证人因野心、社交和欲望浪费生命，提醒哲学训练要重新安排时间和注意力分配方式。",
+                "source": {
+                  "workId": "seneca-primary-work",
+                  "locator": "Seneca, De Brevitate Vitae on time, busyness and philosophical life",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "seneca:evidence:010",
+                "titleZh": "书信中的时间主题",
+                "summaryZh": "第一封书信即要求卢基利乌斯夺回自己的时间，把时间管理提升为伦理修行问题核心之一。",
+                "source": {
+                  "workId": "seneca-primary-work",
+                  "locator": "Seneca, Epistle 1 on reclaiming time",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "seneca:claim:006",
+            "titleZh": "命运事件不可剥夺德性",
+            "claimZh": "痛苦、流放和生命终点都是命运事件，不能破坏由德性构成的真正自由。",
+            "explanationZh": "这使斯多葛自由可在极端处境中维持。",
+            "themeIds": [
+              "freedom",
+              "life_death"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "seneca:evidence:011",
+                "titleZh": "书信中的有限性训练",
+                "summaryZh": "多封书信要求把每一天当作完整生命来过，并练习不被终点恐惧支配和扰乱影响因素作用。",
+                "source": {
+                  "workId": "seneca-primary-work",
+                  "locator": "Seneca, Epistles 26, 54, 70 on finitude and freedom",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "seneca:evidence:012",
+                "titleZh": "现代斯多葛自由研究",
+                "summaryZh": "研究强调塞涅卡把自由定义为价值判断不被外部事件奴役，而非单纯外在选择空间范围本身。",
+                "source": {
+                  "workId": "seneca-primary-work",
+                  "locator": "Modern scholarship on Seneca, freedom and Stoic endurance",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "tier": "standard"
 }

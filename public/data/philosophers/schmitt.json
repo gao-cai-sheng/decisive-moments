@@ -1,0 +1,292 @@
+{
+  "id": "schmitt",
+  "tier": "standard",
+  "names": {
+    "zh": "施米特",
+    "en": "Carl Schmitt"
+  },
+  "life": {
+    "birth": 1888,
+    "death": 1985,
+    "display": "1888—1985"
+  },
+  "civilization": "western_modern",
+  "traditions": [
+    "political_theology",
+    "legal_theory",
+    "decisionism"
+  ],
+  "periods": [
+    "expansion_d3"
+  ],
+  "themes": [
+    "politics",
+    "justice",
+    "religion"
+  ],
+  "keywordsZh": [
+    "主权",
+    "例外状态",
+    "敌友区分",
+    "政治神学",
+    "议会制批判"
+  ],
+  "oneLineZh": "以主权决断、例外状态和敌友区分揭示现代政治秩序的危机，同时必须置于反自由主义和纳粹牵连的批判语境中。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "施米特强调政治秩序依赖决定例外的主权和敌友区分，其理论影响巨大但与威权主义、反自由主义和纳粹时期合作紧密相连，必须批判性呈现。",
+  "works": [
+    "schmitt-political-theology",
+    "schmitt-concept-political",
+    "schmitt-constitutional-theory",
+    "schmitt-crisis-parliamentary-democracy",
+    "schmitt-legality-legitimacy"
+  ],
+  "sourceNotes": [
+    {
+      "label": "Primary corpus note",
+      "url": "https://plato.stanford.edu/entries/schmitt/",
+      "noteZh": "以施米特政治神学和法理论文本为核心；二手资料只用于核对争议语境和关系线。"
+    }
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "schmitt:problem:001",
+        "titleZh": "主权与例外状态",
+        "questionZh": "施米特为何把主权定义为决定例外状态的权力？",
+        "summaryZh": "施米特认为法律秩序无法由规范自身封闭维持，例外状态暴露出主权决断在秩序成立中的位置。",
+        "themeIds": [
+          "politics",
+          "justice"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "schmitt:claim:001",
+            "titleZh": "例外暴露规范秩序的边界",
+            "claimZh": "施米特主张主权者是决定例外状态者，因为危机时谁能暂停规范决定了秩序基础。",
+            "explanationZh": "这一命题揭示法律规范对政治决定的依赖，但也为威权决断论打开危险空间。",
+            "themeIds": [
+              "politics",
+              "justice"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "schmitt:evidence:001",
+                "titleZh": "《政治神学》开篇定义主权",
+                "summaryZh": "文本以决定例外状态界定主权，说明法秩序在极端危机中依赖不能由普通规范穷尽的决定。",
+                "source": {
+                  "workId": "schmitt-political-theology",
+                  "locator": "chapter 1 on sovereignty and exception",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "schmitt:evidence:002",
+                "titleZh": "《合法性与正当性》论魏玛危机",
+                "summaryZh": "文本把合法程序和政治正当性的裂缝作为宪制危机核心，显示施米特对规范秩序脆弱性的关注。",
+                "source": {
+                  "workId": "schmitt-legality-legitimacy",
+                  "locator": "sections on legality and legitimacy in Weimar",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "schmitt:claim:002",
+            "titleZh": "政治神学揭示世俗概念来源",
+            "claimZh": "施米特认为现代国家理论中的核心概念保留神学结构，尤其是主权、奇迹和例外之间的类比。",
+            "explanationZh": "这种谱系分析影响深远，但不能遮蔽其反自由主义和决断主义政治倾向。",
+            "themeIds": [
+              "religion",
+              "politics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "schmitt:evidence:003",
+                "titleZh": "《政治神学》论世俗化概念",
+                "summaryZh": "施米特把现代国家概念解释为世俗化神学概念，借此说明政治秩序仍带有超规范结构，这一路线需要批判地识别其为决断权提供的正当化空间。",
+                "source": {
+                  "workId": "schmitt-political-theology",
+                  "locator": "chapter 3 on political theology",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "schmitt:evidence:004",
+                "titleZh": "《宪法学说》论制宪权",
+                "summaryZh": "宪法学说把制宪权置于成文规范之前，显示施米特持续强调政治决定先于规范体系，并暴露其理论对自由法治限制机制的持续不信任。",
+                "source": {
+                  "workId": "schmitt-constitutional-theory",
+                  "locator": "sections on constituent power",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "schmitt:problem:002",
+        "titleZh": "政治的概念与敌友区分",
+        "questionZh": "施米特为何用敌友区分界定政治，并如何导致反自由主义后果？",
+        "summaryZh": "施米特把政治的特殊强度定位在敌友区分上，认为自由主义讨论和经济交换无法消除这种冲突维度。",
+        "themeIds": [
+          "politics",
+          "freedom"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "schmitt:claim:003",
+            "titleZh": "敌友区分定义政治强度",
+            "claimZh": "施米特认为政治区别不等于道德、审美或经济区别，而在于可能形成敌友对立。",
+            "explanationZh": "这个定义把冲突放在政治中心，挑战自由主义中立化政治的想象，也带来危险的排除逻辑。",
+            "themeIds": [
+              "politics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "schmitt:evidence:005",
+                "titleZh": "《政治的概念》提出敌友区分",
+                "summaryZh": "文本把敌友区分作为政治的判准，强调政治共同体可在极端情形中要求成员面对敌人，这一判准尤其需要警惕其把冲突推向生存斗争的后果。",
+                "source": {
+                  "workId": "schmitt-concept-political",
+                  "locator": "sections 2-4 on friend/enemy distinction",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "schmitt:evidence:006",
+                "titleZh": "《政治的概念》批判中立化",
+                "summaryZh": "施米特批判现代自由主义试图以经济、技术和道德语言中立化政治冲突的倾向，但这种批判也可能把多元协商贬低为软弱和遮蔽。",
+                "source": {
+                  "workId": "schmitt-concept-political",
+                  "locator": "sections on neutralization and depoliticization",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "schmitt:claim:004",
+            "titleZh": "议会制批判导向反自由主义",
+            "claimZh": "施米特对议会制讨论和程序的批判，服务于其对自由主义政治形式的不信任。",
+            "explanationZh": "这一批判必须放在魏玛危机和施米特威权倾向中审视，不能仅当作程序民主反思。",
+            "themeIds": [
+              "politics",
+              "language"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "schmitt:evidence:007",
+                "titleZh": "《议会制民主的危机》批判讨论原则",
+                "summaryZh": "文本怀疑议会公开讨论仍能产生理性政治意志，转而强调同质性和决断问题，该转向构成其反自由主义和威权政治倾向的重要环节。",
+                "source": {
+                  "workId": "schmitt-crisis-parliamentary-democracy",
+                  "locator": "chapters on parliamentarism and discussion",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "schmitt:evidence:008",
+                "titleZh": "《宪法学说》论民主同质性",
+                "summaryZh": "施米特把民主同质性置于自由多元程序之前，显示其民主概念具有排除性和反自由主义倾向。",
+                "source": {
+                  "workId": "schmitt-constitutional-theory",
+                  "locator": "sections on democracy and homogeneity",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "schmitt:problem:003",
+        "titleZh": "批判语境与危险遗产",
+        "questionZh": "如何在入库时呈现施米特影响而不正常化其威权和纳粹牵连？",
+        "summaryZh": "施米特理论必须以批判语境呈现：其问题意识影响现代政治理论，但其反自由主义、排除政治和纳粹合作不可淡化。",
+        "themeIds": [
+          "politics",
+          "justice"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "schmitt:claim:005",
+            "titleZh": "影响力不等于规范认可",
+            "claimZh": "施米特对主权、例外和政治神学的影响应被记录，但不能被表述为对其政治立场的认可。",
+            "explanationZh": "条目需要同时呈现理论诊断力和政治危险性，避免把争议人物美化为中性分析家。",
+            "themeIds": [
+              "justice",
+              "politics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "schmitt:evidence:009",
+                "titleZh": "《政治的概念》显示排除性政治逻辑",
+                "summaryZh": "敌友框架把政治共同体建构为面对敌人的统一体，必须批判其排除和暴力升级风险，因此接收时必须把排除机制和暴力升级风险置于中心。",
+                "source": {
+                  "workId": "schmitt-concept-political",
+                  "locator": "sections on enemy and political unity",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "schmitt:evidence:010",
+                "titleZh": "《合法性与正当性》体现反自由主义危机论",
+                "summaryZh": "文本借魏玛危机质疑自由法治程序，显示其理论容易向威权决断和反多元政治倾斜，使程序合法性被置于决断政治压力之下，危险性十分明确。",
+                "source": {
+                  "workId": "schmitt-legality-legitimacy",
+                  "locator": "sections on constitutional crisis",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "schmitt:claim:006",
+            "titleZh": "批判接收构成其现代意义",
+            "claimZh": "施米特的重要性部分来自阿伦特、哈贝马斯、本雅明等后续批判接收和反向利用。",
+            "explanationZh": "因此关系图应强调批判、对手盘和问题共享，而不是建立单线传承或正面崇拜。",
+            "themeIds": [
+              "politics",
+              "knowledge"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "schmitt:evidence:011",
+                "titleZh": "《政治神学》提供后续政治神学争论对象",
+                "summaryZh": "政治神学命题成为后续批判理论和法哲学反复回应的对象，影响来自争议性而非单纯贡献。",
+                "source": {
+                  "workId": "schmitt-political-theology",
+                  "locator": "chapters on sovereignty and theological concepts",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "schmitt:evidence:012",
+                "titleZh": "《议会制民主的危机》作为反面资源",
+                "summaryZh": "议会制批判可作为理解反自由主义攻击民主程序的材料，但必须明确其规范危险，可用于研究反议会论证如何侵蚀民主程序的正当性。",
+                "source": {
+                  "workId": "schmitt-crisis-parliamentary-democracy",
+                  "locator": "chapters on democracy and parliamentarism",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

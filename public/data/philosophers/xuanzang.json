@@ -1,0 +1,46 @@
+{
+  "id": "xuanzang",
+  "tier": "seed",
+  "names": {
+    "zh": "玄奘",
+    "en": "Xuanzang",
+    "native": "玄奘"
+  },
+  "life": {
+    "birth": 602,
+    "death": 664,
+    "display": "602—664"
+  },
+  "civilization": "chinese",
+  "traditions": [
+    "buddhism",
+    "yogacara"
+  ],
+  "periods": [
+    "tang"
+  ],
+  "themes": [
+    "religion",
+    "knowledge"
+  ],
+  "keywordsZh": [
+    "唯识",
+    "大唐西域记",
+    "译经"
+  ],
+  "oneLineZh": "唐代高僧、译经家和旅行者，奠定法相唯识学基础。",
+  "influenceWeight": 3,
+  "reviewStatus": "draft",
+  "summaryZh": "玄奘，俗姓陈，唐代高僧，西行印度求法并返唐主持大规模译经。他译出《瑜伽师地论》《成唯识论》等唯识经典，又撰《大唐西域记》记录中亚和印度佛教地理。玄奘的意义兼具宗教、哲学和知识交流维度：他以译经和学派建构奠定法相宗基础，也成为中印佛教交通的标志人物。",
+  "works": [
+    "xuanzang-datang-xiyu-ji",
+    "xuanzang-cheng-weishi-lun"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S022",
+      "url": "https://cbetaonline.dila.edu.tw/zh/T2087",
+      "noteZh": "以《大唐西域记》和玄奘译经传统支撑身份层。"
+    }
+  ]
+}

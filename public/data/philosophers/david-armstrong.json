@@ -1,0 +1,43 @@
+{
+  "id": "david-armstrong",
+  "tier": "seed",
+  "names": {
+    "zh": "大卫·阿姆斯特朗",
+    "en": "D. M. Armstrong"
+  },
+  "life": {
+    "birth": 1926,
+    "death": 2014,
+    "display": "1926—2014"
+  },
+  "civilization": "western",
+  "traditions": [
+    "analytic_philosophy"
+  ],
+  "periods": [
+    "contemporary"
+  ],
+  "themes": [
+    "metaphysics",
+    "knowledge"
+  ],
+  "keywordsZh": [
+    "身份层",
+    "二线哲人",
+    "思想史补线"
+  ],
+  "oneLineZh": "澳大利亚实在论与心灵物理主义代表，可补当代形而上学板块。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "大卫·阿姆斯特朗（1926—2014）是 W2 欧陆与英美近现代二线哲人候选。其身份层入选理由为：澳大利亚实在论与心灵物理主义代表，可补当代形而上学板块。 本条仅作 seed 档基本定位，后续若升级标准档，需要重新做著作、论点与 evidence 研究。",
+  "works": [
+    "david-armstrong-materialist-theory-mind",
+    "david-armstrong-universals-opinionated-introduction"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S015",
+      "noteZh": "权威来源条目：SEP: David Armstrong；用于核验人物身份、生卒、代表著作和思想史定位。"
+    }
+  ]
+}

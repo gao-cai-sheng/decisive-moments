@@ -1,0 +1,43 @@
+{
+  "id": "giovanni-gentile",
+  "tier": "seed",
+  "names": {
+    "zh": "乔瓦尼·金蒂莱",
+    "en": "Giovanni Gentile"
+  },
+  "life": {
+    "birth": 1875,
+    "death": 1944,
+    "display": "1875—1944"
+  },
+  "civilization": "western",
+  "traditions": [
+    "western_philosophy"
+  ],
+  "periods": [
+    "modern"
+  ],
+  "themes": [
+    "knowledge",
+    "metaphysics"
+  ],
+  "keywordsZh": [
+    "唯心主义",
+    "身份层",
+    "二线哲人"
+  ],
+  "oneLineZh": "实际唯心主义代表，可补意大利观念论与克罗齐同代分歧。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "乔瓦尼·金蒂莱（1875—1944）是 W2 欧陆与英美近现代二线哲人候选。其身份层入选理由为：实际唯心主义代表，可补意大利观念论与克罗齐同代分歧。 本条仅作 seed 档基本定位，后续若升级标准档，需要重新做著作、论点与 evidence 研究。",
+  "works": [
+    "giovanni-gentile-theory-of-mind-pure-act",
+    "giovanni-gentile-genesis-structure-society"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S014",
+      "noteZh": "权威来源条目：IEP: Giovanni Gentile；用于核验人物身份、生卒、代表著作和思想史定位。"
+    }
+  ]
+}

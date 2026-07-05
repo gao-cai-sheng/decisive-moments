@@ -1,0 +1,46 @@
+{
+  "id": "daoxuan",
+  "tier": "seed",
+  "names": {
+    "zh": "道宣",
+    "en": "Daoxuan",
+    "native": "釋道宣"
+  },
+  "life": {
+    "birth": 596,
+    "death": 667,
+    "display": "596—667"
+  },
+  "civilization": "chinese",
+  "traditions": [
+    "buddhism",
+    "vinaya"
+  ],
+  "periods": [
+    "tang"
+  ],
+  "themes": [
+    "religion",
+    "ethics"
+  ],
+  "keywordsZh": [
+    "律宗",
+    "续高僧传",
+    "四分律行事钞"
+  ],
+  "oneLineZh": "唐代律宗大师和佛教史家，以律学与僧传编纂著称。",
+  "influenceWeight": 3,
+  "reviewStatus": "draft",
+  "summaryZh": "道宣，俗姓钱，唐代高僧，是中国律宗南山一系的奠基者。《四分律删繁补阙行事钞》系统整理僧团戒律实践，《续高僧传》则延续僧传书写，保存大量中古佛教史料。道宣把戒律、僧团制度、佛教史学和国家佛教环境连接起来，是唐代佛教制度化的关键人物。",
+  "works": [
+    "daoxuan-sifenlu-xingshi-chao",
+    "daoxuan-xu-gaoseng-zhuan"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S024",
+      "url": "https://cbetaonline.dila.edu.tw/zh/T2060",
+      "noteZh": "以道宣《续高僧传》《四分律删繁补阙行事钞》支撑身份层。"
+    }
+  ]
+}

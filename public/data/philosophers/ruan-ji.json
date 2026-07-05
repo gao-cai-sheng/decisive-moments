@@ -1,0 +1,46 @@
+{
+  "id": "ruan-ji",
+  "tier": "seed",
+  "names": {
+    "zh": "阮籍",
+    "en": "Ruan Ji",
+    "native": "阮籍"
+  },
+  "life": {
+    "birth": 210,
+    "death": 263,
+    "display": "210—263"
+  },
+  "civilization": "chinese",
+  "traditions": [
+    "xuanxue"
+  ],
+  "periods": [
+    "three_kingdoms",
+    "western_jin"
+  ],
+  "themes": [
+    "freedom",
+    "ethics"
+  ],
+  "keywordsZh": [
+    "竹林七贤",
+    "达庄论",
+    "大人先生传"
+  ],
+  "oneLineZh": "魏晋玄学名士，以人格自由、礼法批判和庄学接受著称。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "阮籍，字嗣宗，陈留尉氏人，竹林七贤之一。其诗文和《达庄论》《大人先生传》等展示了魏晋名士在礼法政治、生命困境和精神自由之间的张力。阮籍不以系统哲学著称，而以文本姿态、人物风度和对庄子传统的创造性接受，成为魏晋玄学与士人自我保护政治的代表。",
+  "works": [
+    "ruan-ji-dazhuanglun",
+    "ruan-ji-darenxianshengzhuan"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S008",
+      "url": "https://ctext.org/wiki.pl?if=en&res=834174",
+      "noteZh": "以阮籍文集题名传统和《晋书》材料支撑身份层。"
+    }
+  ]
+}

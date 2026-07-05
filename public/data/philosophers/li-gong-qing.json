@@ -1,0 +1,46 @@
+{
+  "id": "li-gong-qing",
+  "tier": "seed",
+  "names": {
+    "zh": "李塨",
+    "en": "Li Gong",
+    "native": "李塨"
+  },
+  "life": {
+    "birth": 1659,
+    "death": 1733,
+    "display": "1659—1733"
+  },
+  "civilization": "chinese",
+  "traditions": [
+    "confucianism",
+    "qing_practical_learning"
+  ],
+  "periods": [
+    "qing"
+  ],
+  "themes": [
+    "ethics",
+    "knowledge"
+  ],
+  "keywordsZh": [
+    "恕谷",
+    "颜李学派",
+    "实学教育"
+  ],
+  "oneLineZh": "清初颜李学派代表，继承颜元实学和实践教育路线。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "李塨，字刚主，号恕谷，清代蠡县人，颜元弟子和颜李学派重要代表。其学强调礼乐兵农、习行实践和反对章句空谈，继承并推广颜元实学。《李恕谷集》《论语传注问》等保存其经学和教育思想。李塨使习斋之学更具教学组织和经典解释形态。",
+  "works": [
+    "li-gong-qing-lishugu-ji",
+    "li-gong-qing-lunyu-zhuanzhu-wen"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S012",
+      "url": "https://ctext.org/wiki.pl?if=en&searchu=%E6%9D%8E%E5%A1%A8",
+      "noteZh": "以李塨《李恕谷集》《论语传注问》题名传统支撑身份层。"
+    }
+  ]
+}

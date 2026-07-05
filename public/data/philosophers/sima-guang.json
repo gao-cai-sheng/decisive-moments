@@ -1,0 +1,46 @@
+{
+  "id": "sima-guang",
+  "tier": "seed",
+  "names": {
+    "zh": "司马光",
+    "en": "Sima Guang",
+    "native": "司馬光"
+  },
+  "life": {
+    "birth": 1019,
+    "death": 1086,
+    "display": "1019—1086"
+  },
+  "civilization": "chinese",
+  "traditions": [
+    "confucianism",
+    "historiography"
+  ],
+  "periods": [
+    "northern_song"
+  ],
+  "themes": [
+    "politics",
+    "knowledge"
+  ],
+  "keywordsZh": [
+    "资治通鉴",
+    "潜虚",
+    "保守政治"
+  ],
+  "oneLineZh": "北宋史学家和政治家，以《资治通鉴》与政治秩序论著称。",
+  "influenceWeight": 3,
+  "reviewStatus": "draft",
+  "summaryZh": "司马光，字君实，北宋政治家、史学家。《资治通鉴》以编年体贯通战国至五代历史，服务君主政治鉴戒；《潜虚》则以象数结构表达宇宙和政治秩序。司马光在王安石变法中代表反对派，其思想重视历史经验、名分秩序和渐进治理，是宋代经世政治和史学理性的核心人物。",
+  "works": [
+    "sima-guang-zizhi-tongjian",
+    "sima-guang-qianxu"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S010",
+      "url": "https://ctext.org/zi-zhi-tong-jian",
+      "noteZh": "以司马光《资治通鉴》《潜虚》支撑身份层。"
+    }
+  ]
+}

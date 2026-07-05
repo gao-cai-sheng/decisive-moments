@@ -1,0 +1,48 @@
+{
+  "id": "yanshou",
+  "tier": "seed",
+  "names": {
+    "zh": "延寿",
+    "en": "Yanshou",
+    "native": "永明延壽"
+  },
+  "life": {
+    "birth": 904,
+    "death": 975,
+    "display": "904—975"
+  },
+  "civilization": "chinese",
+  "traditions": [
+    "buddhism",
+    "chan",
+    "pure_land"
+  ],
+  "periods": [
+    "five_dynasties",
+    "song"
+  ],
+  "themes": [
+    "religion",
+    "knowledge"
+  ],
+  "keywordsZh": [
+    "宗镜录",
+    "万善同归集",
+    "禅净合流"
+  ],
+  "oneLineZh": "五代宋初佛教大师，以《宗镜录》综合禅教与万善归心。",
+  "influenceWeight": 3,
+  "reviewStatus": "draft",
+  "summaryZh": "延寿，号永明，五代至北宋初僧人，活跃于吴越佛教环境。《宗镜录》广引经论和诸宗材料，以心为宗镜，整合禅、教、华严、天台和净土资源。《万善同归集》强调诸善归于一心修行。延寿在唐末五代宗派重组后，为宋代以后禅教净融合提供了百科式框架。",
+  "works": [
+    "yanshou-zongjing-lu",
+    "yanshou-wanshan-tonggui-ji"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S003",
+      "url": "https://cbetaonline.dila.edu.tw/zh/T2016",
+      "noteZh": "以延寿《宗镜录》《万善同归集》支撑身份层。"
+    }
+  ]
+}

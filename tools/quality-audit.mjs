@@ -51,6 +51,25 @@ export function jaccardChars(a, b) {
   return inter / (A.size + B.size - inter);
 }
 
+export function normalizeSharedSuffixText(s) {
+  return (s || "").replace(/[A-Za-z0-9-]+/g, "").trim();
+}
+
+export function summaryContainsEvidenceId(summary, evidenceId) {
+  const text = summary || "";
+  const id = evidenceId || "";
+  if (!text || !id) return false;
+  const variants = new Set([id]);
+  variants.add(id.replace(/:evidence:/, "-e"));
+  variants.add(id.replace(/:/g, "-"));
+  const last = id.split(":").pop();
+  if (last) variants.add(last);
+  for (const v of variants) {
+    if (v && v.length >= 3 && text.includes(v)) return true;
+  }
+  return /-e\d{3}\b/.test(text);
+}
+
 // 审计单个哲人，返回 { pid, hasTS, findings:[{pid,sev,code,msg}] }
 export function auditPhilosopher(detail, worksById) {
   const findings = [];
@@ -118,6 +137,8 @@ export function auditPhilosopher(detail, worksById) {
         if (e.summaryZh) evidenceSummaries.push({ id: e.id, text: e.summaryZh });
         if (s.workId && (e.summaryZh || "").includes(s.workId))
           add("RED", "workid_in_summary", `${e.id}: summaryZh 含 workId 子串「${s.workId}」，疑似把定位字段粘入摘要`);
+        if (summaryContainsEvidenceId(e.summaryZh || "", e.id || ""))
+          add("RED", "evidence_id_in_summary", `${e.id}: summaryZh 含自身 evidence id 或 -eNNN 变体，疑似把编号粘入摘要凑长`);
         if (s.excerptStatus === "public_domain" && !s.publicDomainExcerptZh)
           add("RED", "fake_public_domain", `${e.id}: 标 public_domain 但无 publicDomainExcerptZh`);
         if (s.publicDomainExcerptZh && s.excerptStatus !== "public_domain")
@@ -151,7 +172,7 @@ export function auditPhilosopher(detail, worksById) {
 
     const suffixes = new Map();
     for (const e of evidenceSummaries) {
-      const text = (e.text || "").trim();
+      const text = normalizeSharedSuffixText((e.text || "").trim());
       if (text.length < SHARED_SUFFIX_LEN) continue;
       const suffix = text.slice(-SHARED_SUFFIX_LEN);
       const ids = suffixes.get(suffix) || [];
@@ -160,7 +181,7 @@ export function auditPhilosopher(detail, worksById) {
     }
     for (const [suffix, ids] of suffixes) {
       if (ids.length >= SHARED_SUFFIX_MIN) {
-        add("RED", "shared_suffix", `summaryZh 有 ${ids.length} 条共享 ${SHARED_SUFFIX_LEN} 字符尾缀「${suffix}」，疑似机械拼接凑长度：${ids.slice(0, 6).join(", ")}`);
+        add("RED", "shared_suffix", `summaryZh 有 ${ids.length} 条共享 ${SHARED_SUFFIX_LEN} 字符尾缀「${suffix}」（已剥离 ASCII/id 子串后比对），疑似机械拼接凑长度：${ids.slice(0, 6).join(", ")}`);
         break;
       }
     }
@@ -183,9 +204,13 @@ export function runAudit({ dataDir }) {
   let withTS = 0;
   // 逐字原文欠债计数：excerptStatus 分布（summary_only 是待补的技术债，见 RUNBOOK §13 第4项）
   const excerptStatusCount = {};
+  let standardPeople = 0;
+  let seedPeople = 0;
 
   for (const f of files) {
     const detail = readJson(path.join(phDir, f));
+    if (detail.tier === "seed") seedPeople++;
+    else standardPeople++;
     const r = auditPhilosopher(detail, worksById);
     if (r.hasTS) {
       withTS++;
@@ -214,7 +239,7 @@ export function runAudit({ dataDir }) {
     dataDir, scannedAt: new Date().toISOString(),
     totals: { philosophersWithThoughtSystem: withTS, red: red.length, yellow: yellow.length,
               greenPeople: greenPeople.length, redPeople: redPeople.length, yellowOnlyPeople: yellowOnly.length,
-              excerptDebt: excerptStatusCount.summary_only || 0 },
+              standardPeople, seedPeople, excerptDebt: excerptStatusCount.summary_only || 0 },
     excerptStatusCount,
     redByCode: byCode(red), yellowByCode: byCode(yellow),
     uncoveredThemes, greenPeople, redPeople, yellowOnlyPeople: yellowOnly,
@@ -267,7 +292,7 @@ export function renderMarkdown(report) {
   md.push(`# 内容质量审计报告`);
   md.push(`数据目录：\`${report.dataDir}\`  扫描时间：${report.scannedAt}`);
   md.push(``);
-  md.push(`有 thoughtSystem：**${report.totals.philosophersWithThoughtSystem}** 位 ｜ 🟢全绿 ${report.totals.greenPeople} ｜ 🔴有RED ${report.totals.redPeople} ｜ 🟡仅YELLOW ${report.totals.yellowOnlyPeople}`);
+  md.push(`标准档 **${report.totals.standardPeople}** ｜ 种子档 **${report.totals.seedPeople}** ｜ 有 thoughtSystem：**${report.totals.philosophersWithThoughtSystem}** 位 ｜ 🟢全绿 ${report.totals.greenPeople} ｜ 🔴有RED ${report.totals.redPeople} ｜ 🟡仅YELLOW ${report.totals.yellowOnlyPeople}`);
   md.push(`RED **${report.totals.red}** 条 ｜ YELLOW **${report.totals.yellow}** 条`);
   md.push(``);
   md.push(`## RED（硬性违规，必须修）`);
@@ -336,7 +361,7 @@ function cli() {
   if (opt.md) fs.writeFileSync(opt.md, renderMarkdown(report));
 
   const t = report.totals;
-  console.log(`内容质量审计：${t.philosophersWithThoughtSystem} 位有 thoughtSystem`);
+  console.log(`内容质量审计：标准档 ${t.standardPeople} ｜ 种子档 ${t.seedPeople}（${t.philosophersWithThoughtSystem} 位有 thoughtSystem）`);
   console.log(`  🟢 全绿 ${t.greenPeople} ｜ 🔴 有RED ${t.redPeople} ｜ 🟡 仅YELLOW ${t.yellowOnlyPeople}`);
   console.log(`  RED ${t.red} 条 ${JSON.stringify(report.redByCode)}`);
   console.log(`  YELLOW ${t.yellow} 条 ${JSON.stringify(report.yellowByCode)}`);

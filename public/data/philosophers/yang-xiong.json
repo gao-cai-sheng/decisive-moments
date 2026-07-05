@@ -1,0 +1,47 @@
+{
+  "id": "yang-xiong",
+  "tier": "seed",
+  "names": {
+    "zh": "扬雄",
+    "en": "Yang Xiong",
+    "native": "揚雄"
+  },
+  "life": {
+    "birth": -53,
+    "death": 18,
+    "display": "前53—18"
+  },
+  "civilization": "chinese",
+  "traditions": [
+    "confucianism",
+    "han_confucianism"
+  ],
+  "periods": [
+    "western_han",
+    "xin"
+  ],
+  "themes": [
+    "knowledge",
+    "metaphysics"
+  ],
+  "keywordsZh": [
+    "法言",
+    "太玄",
+    "拟经"
+  ],
+  "oneLineZh": "西汉末思想家和文学家，以《法言》《太玄》拟经著称。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "扬雄，西汉末蜀郡成都人，兼具辞赋家、经学化思想家与语言学者身份。《法言》仿《论语》体讨论圣人、学问与政治，《太玄》则以复杂符号系统回应《易》学传统。扬雄在汉代经典权威和个人著述之间寻找位置，既承接孔孟，也开启后世对拟经、性善恶和文本权威的争论。",
+  "works": [
+    "yang-xiong-fa-yan",
+    "yang-xiong-tai-xuan-jing"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S022",
+      "url": "https://ctext.org/fa-yan",
+      "noteZh": "以《法言》《太玄经》和《汉书》支撑扬雄身份、作品和思想定位。"
+    }
+  ]
+}

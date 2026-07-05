@@ -59,6 +59,7 @@ function basePhilosopher() {
     names: { zh: "老子", en: "Laozi" },
     life: { display: "约前 571—前 471", birth: -571, death: -471 },
     civilization: "chinese",
+    tier: "standard",
     traditions: ["daoism"],
     periods: ["first_release"],
     themes: ["metaphysics", "politics", "life_death"],

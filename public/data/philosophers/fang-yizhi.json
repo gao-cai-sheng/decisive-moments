@@ -1,0 +1,48 @@
+{
+  "id": "fang-yizhi",
+  "tier": "seed",
+  "names": {
+    "zh": "方以智",
+    "en": "Fang Yizhi",
+    "native": "方以智"
+  },
+  "life": {
+    "birth": 1611,
+    "death": 1671,
+    "display": "1611—1671"
+  },
+  "civilization": "chinese",
+  "traditions": [
+    "confucianism",
+    "buddhism",
+    "science"
+  ],
+  "periods": [
+    "ming",
+    "qing"
+  ],
+  "themes": [
+    "knowledge",
+    "metaphysics"
+  ],
+  "keywordsZh": [
+    "东西均",
+    "物理小识",
+    "质测通几"
+  ],
+  "oneLineZh": "明清之际思想家，兼通儒释道与自然知识。",
+  "influenceWeight": 3,
+  "reviewStatus": "draft",
+  "summaryZh": "方以智，字密之，号曼公，明清之际学者、思想家，后出家为僧。《物理小识》汇集自然知识、器物、天文和博物材料，《东西均》则以会通方式讨论儒释道、名理和知识分类。方以智处在明清鼎革和西学输入背景下，体现晚明知识综合向清初实证与哲思并行的过渡。",
+  "works": [
+    "fang-yizhi-wuli-xiaoshi",
+    "fang-yizhi-dongxi-jun"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S008",
+      "url": "https://ctext.org/wiki.pl?if=en&searchu=%E6%96%B9%E4%BB%A5%E6%99%BA",
+      "noteZh": "以方以智《物理小识》《东西均》支撑身份层。"
+    }
+  ]
+}

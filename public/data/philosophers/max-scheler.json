@@ -1,0 +1,42 @@
+{
+  "id": "max-scheler",
+  "tier": "seed",
+  "names": {
+    "zh": "马克斯·舍勒",
+    "en": "Max Scheler"
+  },
+  "life": {
+    "birth": 1874,
+    "death": 1928,
+    "display": "1874—1928"
+  },
+  "civilization": "western",
+  "traditions": [
+    "phenomenology"
+  ],
+  "periods": [
+    "modern"
+  ],
+  "themes": [
+    "ethics"
+  ],
+  "keywordsZh": [
+    "价值伦理",
+    "身份层",
+    "二线哲人"
+  ],
+  "oneLineZh": "现象学价值伦理学代表，可补胡塞尔之后的价值与人格线索。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "马克斯·舍勒（1874—1928）是 W2 欧陆与英美近现代二线哲人候选。其身份层入选理由为：现象学价值伦理学代表，可补胡塞尔之后的价值与人格线索。 本条仅作 seed 档基本定位，后续若升级标准档，需要重新做著作、论点与 evidence 研究。",
+  "works": [
+    "max-scheler-formalism-in-ethics",
+    "max-scheler-nature-of-sympathy"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S010",
+      "noteZh": "权威来源条目：SEP: Max Scheler；用于核验人物身份、生卒、代表著作和思想史定位。"
+    }
+  ]
+}

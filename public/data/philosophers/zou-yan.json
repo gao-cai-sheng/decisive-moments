@@ -1,0 +1,44 @@
+{
+  "id": "zou-yan",
+  "tier": "seed",
+  "names": {
+    "zh": "邹衍",
+    "en": "Zou Yan",
+    "native": "鄒衍"
+  },
+  "life": {
+    "birth": -305,
+    "death": -240,
+    "display": "约前305—约前240"
+  },
+  "civilization": "chinese",
+  "traditions": [
+    "yin_yang_jia"
+  ],
+  "periods": [
+    "warring_states"
+  ],
+  "themes": [
+    "metaphysics",
+    "politics"
+  ],
+  "keywordsZh": [
+    "阴阳家",
+    "五德终始",
+    "稷下"
+  ],
+  "oneLineZh": "战国阴阳家代表，以五德终始和大九州说著称。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "邹衍，齐国人，活跃于战国后期稷下学术环境，是阴阳家代表。《史记·孟子荀卿列传》称其推演阴阳消息、五德终始和大九州之说。其著作不传，但他把宇宙周期、历史更替和政治正当性联结起来，对秦汉天人感应、王朝德运和方术传统均有深远影响。",
+  "works": [
+    "zou-yan-shiji-biography"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S012",
+      "url": "https://ctext.org/shiji/meng-zi-xun-qing-lie-zhuan",
+      "noteZh": "以《史记》邹衍条为主，辅以战国末阴阳五行文献背景。"
+    }
+  ]
+}

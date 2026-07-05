@@ -1,0 +1,45 @@
+{
+  "id": "yin-wen",
+  "tier": "seed",
+  "names": {
+    "zh": "尹文",
+    "en": "Yin Wen",
+    "native": "尹文"
+  },
+  "life": {
+    "birth": -360,
+    "death": -280,
+    "display": "约前360—约前280"
+  },
+  "civilization": "chinese",
+  "traditions": [
+    "mingjia",
+    "jixia"
+  ],
+  "periods": [
+    "warring_states"
+  ],
+  "themes": [
+    "language",
+    "politics"
+  ],
+  "keywordsZh": [
+    "名实",
+    "稷下",
+    "尹文子"
+  ],
+  "oneLineZh": "战国稷下人物，常与名实、刑名和尹文子传统相连。",
+  "influenceWeight": 1,
+  "reviewStatus": "draft",
+  "summaryZh": "尹文，战国齐地稷下相关人物，常与宋钘并称，并同名实、刑名之学相连。传世《尹文子》篇幅短小，成书和归属存在争议，但其题名传统反映了战国后期以名称、法度和政治秩序相互校准的思想关切。作为 seed 身份层，尹文可连接名家、法家和稷下学术网络。",
+  "works": [
+    "yin-wen-zi"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S014",
+      "url": "https://ctext.org/yin-wen-zi",
+      "noteZh": "以《庄子·天下》和传世《尹文子》题名传统支撑尹文身份层。"
+    }
+  ]
+}

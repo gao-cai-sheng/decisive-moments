@@ -1,0 +1,42 @@
+{
+  "id": "ernst-cassirer",
+  "tier": "seed",
+  "names": {
+    "zh": "恩斯特·卡西尔",
+    "en": "Ernst Cassirer"
+  },
+  "life": {
+    "birth": 1874,
+    "death": 1945,
+    "display": "1874—1945"
+  },
+  "civilization": "western",
+  "traditions": [
+    "neo_kantianism"
+  ],
+  "periods": [
+    "modern"
+  ],
+  "themes": [
+    "aesthetics"
+  ],
+  "keywordsZh": [
+    "符号形式",
+    "新康德主义",
+    "身份层"
+  ],
+  "oneLineZh": "符号形式哲学代表，可连接新康德主义、文化哲学与科学哲学。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "恩斯特·卡西尔（1874—1945）是 W2 欧陆与英美近现代二线哲人候选。其身份层入选理由为：符号形式哲学代表，可连接新康德主义、文化哲学与科学哲学。 本条仅作 seed 档基本定位，后续若升级标准档，需要重新做著作、论点与 evidence 研究。",
+  "works": [
+    "ernst-cassirer-philosophy-symbolic-forms",
+    "ernst-cassirer-substance-function"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S003",
+      "noteZh": "权威来源条目：SEP: Ernst Cassirer；用于核验人物身份、生卒、代表著作和思想史定位。"
+    }
+  ]
+}

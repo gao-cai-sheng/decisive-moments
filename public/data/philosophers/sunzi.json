@@ -1,0 +1,44 @@
+{
+  "id": "sunzi",
+  "tier": "seed",
+  "names": {
+    "zh": "孙子",
+    "en": "Sunzi",
+    "native": "孫武"
+  },
+  "life": {
+    "birth": -544,
+    "death": -496,
+    "display": "约前544—约前496"
+  },
+  "civilization": "chinese",
+  "traditions": [
+    "military_thought"
+  ],
+  "periods": [
+    "spring_autumn"
+  ],
+  "themes": [
+    "politics",
+    "knowledge"
+  ],
+  "keywordsZh": [
+    "兵法",
+    "吴国",
+    "谋略"
+  ],
+  "oneLineZh": "《孙子兵法》所系兵学传统的核心人物。",
+  "influenceWeight": 3,
+  "reviewStatus": "draft",
+  "summaryZh": "孙子，通常指孙武，春秋末期齐人而仕吴，传统上为《孙子兵法》作者。《史记·孙子吴起列传》以吴宫练兵故事和吴王阖闾用兵叙述其身份。《孙子兵法》强调计、势、虚实、知彼知己和不战而屈人之兵，超越军事技术，成为中国战略思想、政治理性和组织判断的核心经典。",
+  "works": [
+    "sunzi-art-of-war"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S017",
+      "url": "https://ctext.org/art-of-war",
+      "noteZh": "以《孙子兵法》和《史记》相关列传支撑孙子身份、兵学归属与作品传统。"
+    }
+  ]
+}

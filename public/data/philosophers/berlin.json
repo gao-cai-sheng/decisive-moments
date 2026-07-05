@@ -1,0 +1,293 @@
+{
+  "id": "berlin",
+  "tier": "standard",
+  "names": {
+    "zh": "伯林",
+    "en": "Isaiah Berlin"
+  },
+  "life": {
+    "birth": 1909,
+    "death": 1997,
+    "display": "1909—1997"
+  },
+  "civilization": "western_modern",
+  "traditions": [
+    "liberalism",
+    "value_pluralism",
+    "history_of_ideas"
+  ],
+  "periods": [
+    "expansion_d3"
+  ],
+  "themes": [
+    "freedom",
+    "politics",
+    "ethics"
+  ],
+  "keywordsZh": [
+    "消极自由",
+    "积极自由",
+    "价值多元",
+    "反决定论",
+    "思想史"
+  ],
+  "oneLineZh": "以两种自由概念和价值多元论重塑二十世纪自由主义的反乌托邦论证。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "伯林把自由主义建立在价值冲突和人类目的不可通约的事实之上，警惕以历史必然性或积极自由名义压制个人。",
+  "works": [
+    "berlin-two-concepts-liberty",
+    "berlin-historical-inevitability",
+    "berlin-hedgehog-fox",
+    "berlin-four-essays-liberty",
+    "berlin-roots-romanticism"
+  ],
+  "sourceNotes": [
+    {
+      "label": "Primary corpus note",
+      "url": "https://plato.stanford.edu/entries/berlin/",
+      "noteZh": "以伯林自由、历史决定论和思想史文本为核心；二手资料只用于核对关系线。"
+    }
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "berlin:problem:001",
+        "titleZh": "两种自由与强制风险",
+        "questionZh": "伯林为什么区分消极自由和积极自由，并警惕积极自由的政治滥用？",
+        "summaryZh": "伯林把自由区分为免于干涉和自我主宰两种传统，指出积极自由可能被整体主义改造成强制他人的理由。",
+        "themeIds": [
+          "freedom",
+          "politics"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "berlin:claim:001",
+            "titleZh": "消极自由关注不受干涉",
+            "claimZh": "伯林把消极自由理解为个人行动领域不被他人强制干涉的范围。",
+            "explanationZh": "这种定义为自由主义提供最低政治边界，使权力必须说明为何可以进入个人选择空间。",
+            "themeIds": [
+              "freedom",
+              "politics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "berlin:evidence:001",
+                "titleZh": "《两种自由概念》定义消极自由",
+                "summaryZh": "讲演把消极自由界定为免于他人干涉的领域，并将其作为自由主义政治的核心关切，其重点是限制强制边界，而非规定唯一善生活。",
+                "source": {
+                  "workId": "berlin-two-concepts-liberty",
+                  "locator": "sections on negative liberty",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "berlin:evidence:002",
+                "titleZh": "《自由四论》延展自由边界问题",
+                "summaryZh": "论文集围绕政治自由、责任和强制展开，显示伯林反复维护个人选择空间的重要性，从不同论题维护选择空间，反对把自由交给集体目标吞没。",
+                "source": {
+                  "workId": "berlin-four-essays-liberty",
+                  "locator": "essays on political liberty",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "berlin:claim:002",
+            "titleZh": "积极自由可能滑向强制",
+            "claimZh": "伯林警惕积极自由被解释为真实自我或集体理性，从而授权替别人决定其自由。",
+            "explanationZh": "当政治权力声称知道个人真实利益时，自我主宰语言可能变成家长制或极权主义工具。",
+            "themeIds": [
+              "freedom",
+              "politics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "berlin:evidence:003",
+                "titleZh": "《两种自由概念》论积极自由危险",
+                "summaryZh": "伯林分析积极自由从自我主宰转向理性统治和集体意志时，可能为强制提供道德包装，因此自由语言本身也可能被一元理性政治挪用。",
+                "source": {
+                  "workId": "berlin-two-concepts-liberty",
+                  "locator": "sections on positive liberty and self-mastery",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "berlin:evidence:004",
+                "titleZh": "《历史必然性》反对牺牲责任",
+                "summaryZh": "文本批判以历史规律消解个人选择和责任的理论，为伯林反强制政治立场提供背景，使反决定论成为维护政治责任和个体判断的前提。",
+                "source": {
+                  "workId": "berlin-historical-inevitability",
+                  "locator": "essay on determinism and responsibility",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "berlin:problem:002",
+        "titleZh": "价值多元与自由主义",
+        "questionZh": "伯林如何用价值多元论反对单一终极善和乌托邦政治？",
+        "summaryZh": "伯林认为人类价值真实、多样且常常不可通约，因此政治必须承认冲突和妥协，而不是追求最终和谐。",
+        "themeIds": [
+          "ethics",
+          "politics"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "berlin:claim:003",
+            "titleZh": "价值冲突是真实而非误解",
+            "claimZh": "伯林认为自由、平等、幸福、正义等价值可能真实冲突，不一定能由更高原则完全调和。",
+            "explanationZh": "这使自由主义成为承认悲剧和选择代价的政治哲学，而非通往完美秩序的工程。",
+            "themeIds": [
+              "ethics",
+              "justice"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "berlin:evidence:005",
+                "titleZh": "《自由四论》论价值多元",
+                "summaryZh": "伯林在自由相关论文中反复强调人类目的多样且不可完全调和，政治必须承认选择损失，这让自由政治必须处理不可消除的冲突与取舍。",
+                "source": {
+                  "workId": "berlin-four-essays-liberty",
+                  "locator": "essays on pluralism and liberty",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "berlin:evidence:006",
+                "titleZh": "《刺猬与狐狸》呈现多元理解",
+                "summaryZh": "伯林借刺猬和狐狸区分单一大观念与多元现实感，展示他对一元解释的警惕，从思想史比喻上说明多元视野优于一套总解释。",
+                "source": {
+                  "workId": "berlin-hedgehog-fox",
+                  "locator": "essay on Tolstoy and plural vision",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "berlin:claim:004",
+            "titleZh": "多元论反对乌托邦强制",
+            "claimZh": "伯林认为如果没有单一最终和谐，政治就不能以完美未来为名牺牲现存个人。",
+            "explanationZh": "反乌托邦冲动是其自由主义核心：承认不完美和平衡，比追求总体救赎更能保护自由。",
+            "themeIds": [
+              "politics",
+              "freedom"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "berlin:evidence:007",
+                "titleZh": "《历史必然性》批判决定论政治",
+                "summaryZh": "文本反对把历史趋势当成替个人责任和制度选择背书的权威，削弱政治乌托邦确定性，把历史必然论视为削弱责任伦理和政治节制的危险。",
+                "source": {
+                  "workId": "berlin-historical-inevitability",
+                  "locator": "sections on historical laws and moral responsibility",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "berlin:evidence:008",
+                "titleZh": "《浪漫主义的根源》论价值创造",
+                "summaryZh": "讲演把浪漫主义视为现代价值创造和多元冲突的重要来源，说明一元理性秩序被打破，也解释现代主体为何不再满足于单一等级秩序。",
+                "source": {
+                  "workId": "berlin-roots-romanticism",
+                  "locator": "lectures on romanticism and value creation",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "berlin:problem:003",
+        "titleZh": "思想史与政治判断",
+        "questionZh": "伯林为什么把思想史作为理解政治自由和现代性冲突的方法？",
+        "summaryZh": "伯林通过思想史展示观念如何塑造政治行动，并以历史个体性反对抽象体系化解释。",
+        "themeIds": [
+          "knowledge",
+          "language"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "berlin:claim:005",
+            "titleZh": "观念史揭示政治想象来源",
+            "claimZh": "伯林认为政治观念不是装饰，它们塑造人们理解自由、权威和历史使命的方式。",
+            "explanationZh": "思想史因此能解释制度背后的道德想象，也能暴露危险政治语言的历史根源。",
+            "themeIds": [
+              "knowledge",
+              "politics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "berlin:evidence:009",
+                "titleZh": "《浪漫主义的根源》追溯现代价值冲突",
+                "summaryZh": "讲演说明浪漫主义如何改变现代人对自我、创造和价值的理解，影响后来的政治想象，为理解民族主义、表现主义和现代政治激情提供线索。",
+                "source": {
+                  "workId": "berlin-roots-romanticism",
+                  "locator": "lectures on modern self and romantic revolt",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "berlin:evidence:010",
+                "titleZh": "《刺猬与狐狸》分析托尔斯泰观念矛盾",
+                "summaryZh": "伯林通过托尔斯泰案例展示历史理解中的单一解释欲望和多元现实感之间的冲突，借文学思想史呈现伯林反一元论的解释方法。",
+                "source": {
+                  "workId": "berlin-hedgehog-fox",
+                  "locator": "sections on Tolstoy's philosophy of history",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "berlin:claim:006",
+            "titleZh": "政治判断需要历史个体性",
+            "claimZh": "伯林反对把政治判断交给抽象历史规律，强调具体人物、情境和选择不可被公式替代。",
+            "explanationZh": "这种方法把自由主义和历史敏感性结合起来，维护责任、偶然性和判断的开放空间。",
+            "themeIds": [
+              "knowledge",
+              "freedom"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "berlin:evidence:011",
+                "titleZh": "《历史必然性》论个体责任",
+                "summaryZh": "伯林批判历史必然性叙事遮蔽个人选择，强调道德评价仍需要面对具体行动者，使政治判断不能躲进宏大规律，而要承担具体归责。",
+                "source": {
+                  "workId": "berlin-historical-inevitability",
+                  "locator": "sections on responsibility and historical explanation",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "berlin:evidence:012",
+                "titleZh": "《自由四论》连接自由和判断",
+                "summaryZh": "自由论文集把政治自由同选择、责任和价值冲突联系起来，呈现伯林重视判断而非体系的风格。",
+                "source": {
+                  "workId": "berlin-four-essays-liberty",
+                  "locator": "essays on liberty and political judgment",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

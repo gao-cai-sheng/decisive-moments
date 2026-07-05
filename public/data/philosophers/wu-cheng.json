@@ -1,0 +1,45 @@
+{
+  "id": "wu-cheng",
+  "tier": "seed",
+  "names": {
+    "zh": "吴澄",
+    "en": "Wu Cheng",
+    "native": "吳澄"
+  },
+  "life": {
+    "birth": 1249,
+    "death": 1333,
+    "display": "1249—1333"
+  },
+  "civilization": "chinese",
+  "traditions": [
+    "neo_confucianism"
+  ],
+  "periods": [
+    "yuan"
+  ],
+  "themes": [
+    "knowledge",
+    "ethics"
+  ],
+  "keywordsZh": [
+    "草庐先生",
+    "礼记纂言",
+    "元代理学"
+  ],
+  "oneLineZh": "元代理学家和经学家，调和朱陆并重整经学。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "吴澄，字幼清，号草庐，元代理学家和经学家。他在宋元学术转换中整理经学，著有《礼记纂言》《吴文正集》等。吴澄一方面尊崇程朱，另一方面也试图调和陆九渊心学资源，在元代官学和书院语境中维持儒家经典解释传统。其意义在于承上启下地保存并重组宋代理学。",
+  "works": [
+    "wu-cheng-liji-zuanyan",
+    "wu-cheng-wuwenzheng-ji"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S017",
+      "url": "https://ctext.org/wiki.pl?if=en&res=821700",
+      "noteZh": "以吴澄《礼记纂言》《吴文正集》支撑身份层。"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": "jia-yi",
+  "tier": "seed",
+  "names": {
+    "zh": "贾谊",
+    "en": "Jia Yi",
+    "native": "賈誼"
+  },
+  "life": {
+    "birth": -200,
+    "death": -168,
+    "display": "前200—前168"
+  },
+  "civilization": "chinese",
+  "traditions": [
+    "confucianism",
+    "han_political_thought"
+  ],
+  "periods": [
+    "western_han"
+  ],
+  "themes": [
+    "politics",
+    "justice"
+  ],
+  "keywordsZh": [
+    "新书",
+    "过秦论",
+    "汉初政论"
+  ],
+  "oneLineZh": "西汉初政论家，以制度改革和秦亡反思著称。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "贾谊，洛阳人，西汉初政论家、文学家，年少被文帝召用，后贬长沙。《新书》保存其礼制、治安、诸侯、货币和教育等政论，《过秦论》则以秦亡经验说明仁义不施、攻守异势和制度失衡。贾谊代表汉初士人以历史反思参与国家制度设计的努力。",
+  "works": [
+    "jia-yi-xin-shu",
+    "jia-yi-guo-qin-lun"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S026",
+      "url": "https://ctext.org/xin-shu",
+      "noteZh": "以《新书》和《史记》支撑贾谊身份、作品和汉初政论地位。"
+    }
+  ]
+}

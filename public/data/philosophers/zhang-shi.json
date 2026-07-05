@@ -1,0 +1,45 @@
+{
+  "id": "zhang-shi",
+  "tier": "seed",
+  "names": {
+    "zh": "张栻",
+    "en": "Zhang Shi",
+    "native": "張栻"
+  },
+  "life": {
+    "birth": 1133,
+    "death": 1180,
+    "display": "1133—1180"
+  },
+  "civilization": "chinese",
+  "traditions": [
+    "neo_confucianism"
+  ],
+  "periods": [
+    "southern_song"
+  ],
+  "themes": [
+    "ethics",
+    "knowledge"
+  ],
+  "keywordsZh": [
+    "南轩先生",
+    "湖湘学派",
+    "敬义"
+  ],
+  "oneLineZh": "南宋理学家，湖湘学派代表，与朱熹长期论学。",
+  "influenceWeight": 3,
+  "reviewStatus": "draft",
+  "summaryZh": "张栻，字敬夫，号南轩，南宋理学家和教育家，胡宏之后湖湘学派的重要代表。他主持岳麓书院，重视敬、义、讲学和经世实践，与朱熹多次通信论学，推动南宋理学共同体形成。其《南轩集》和经解材料保存了湖湘学派在心性修养与公共政治之间的张力。",
+  "works": [
+    "zhang-shi-nanxuan-ji",
+    "zhang-shi-lunyu-jie"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S014",
+      "url": "https://ctext.org/wiki.pl?if=en&res=821590",
+      "noteZh": "以张栻《南轩集》《论语解》题名传统支撑身份层。"
+    }
+  ]
+}

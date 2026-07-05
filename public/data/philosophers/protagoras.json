@@ -1,30 +1,287 @@
 {
   "id": "protagoras",
-  "names": {"zh": "普罗泰戈拉", "en": "Protagoras"},
-  "life": {"birth": -490, "death": -420, "display": "约前 490—前 420"},
+  "names": {
+    "zh": "普罗泰戈拉",
+    "en": "Protagoras"
+  },
+  "life": {
+    "birth": -490,
+    "death": -420,
+    "display": "约前 490—前 420"
+  },
   "civilization": "ancient_greek",
-  "traditions": ["sophistic_movement", "ancient_greek_philosophy"],
-  "periods": ["first_release"],
-  "themes": ["knowledge", "politics", "ethics"],
-  "keywordsZh": ["知识", "政治", "伦理"],
+  "traditions": [
+    "sophistic_movement",
+    "ancient_greek_philosophy"
+  ],
+  "periods": [
+    "first_release"
+  ],
+  "themes": [
+    "knowledge",
+    "politics",
+    "ethics"
+  ],
+  "keywordsZh": [
+    "知识",
+    "政治",
+    "伦理"
+  ],
   "oneLineZh": "智者运动代表人物，以“人是万物尺度”、德性教育和城邦实践理性著称。",
   "influenceWeight": 1,
   "reviewStatus": "draft",
   "summaryZh": "智者运动代表人物，以“人是万物尺度”、德性教育和城邦实践理性著称。本条目以 summary_only 方式整理，重点保留低争议的问题结构、主张和可追溯证据定位。",
-  "works": ["protagoras-primary-work"],
-  "sourceNotes": [{"label": "primary-dossier", "noteZh": "采用柏拉图《普罗泰戈拉》《泰阿泰德》、第欧根尼·拉尔修和现代智者研究；不填逐字摘录。"}, {"label": "excerpt-status", "noteZh": "全部 evidence 使用 summary_only。"}],
-  "thoughtSystem": {"problems": [
-    {"id": "protagoras:problem:001", "titleZh": "人为何是万物尺度？", "questionZh": "普罗泰戈拉的尺度命题如何改变真理、感觉和意见的理解？", "summaryZh": "尺度命题把认识从超越视角拉回人的经验、判断和共同生活语境。", "themeIds": ["knowledge"], "weight": 3, "claims": [
-      {"id": "protagoras:claim:001", "titleZh": "尺度命题强调经验相对性", "claimZh": "普罗泰戈拉所谓人是万物尺度，通常被理解为把显现、判断和真理同经验主体相关联。", "explanationZh": "这挑战了单一绝对真理的直观，也迫使柏拉图系统回应相对主义。", "themeIds": ["knowledge"], "weight": 3, "evidence": [{"id": "protagoras:evidence:001", "titleZh": "《泰阿泰德》中的尺度命题", "summaryZh": "柏拉图把普罗泰戈拉命题同感觉即知识的讨论联系起来，显示尺度命题的认识论影响范围。", "source": {"workId": "protagoras-primary-work", "locator": "Plato, Theaetetus 151e-172b on Protagoras' measure doctrine", "excerptStatus": "summary_only"}}, {"id": "protagoras:evidence:002", "titleZh": "古代传记中的作品线索", "summaryZh": "第欧根尼·拉尔修保存其作品题名和尺度命题传统，提供智者思想的传记线索材料来源依据。", "source": {"workId": "protagoras-primary-work", "locator": "Diogenes Laertius IX.50-56 on Protagoras and his writings", "excerptStatus": "summary_only"}}]},
-      {"id": "protagoras:claim:002", "titleZh": "相对性不等于放弃教育", "claimZh": "即使意见因人而异，普罗泰戈拉仍强调通过教育让判断变得更有益、更适合城邦生活。", "explanationZh": "这使智者实践从真理垄断转向判断改良和公共说服。", "themeIds": ["knowledge", "politics"], "weight": 2, "evidence": [{"id": "protagoras:evidence:003", "titleZh": "柏拉图对改良判断的呈现", "summaryZh": "《泰阿泰德》中普罗泰戈拉立场被解释为使较差状态变为较好状态，强调教育和判断改善。", "source": {"workId": "protagoras-primary-work", "locator": "Plato, Theaetetus 166d-168c on the sophist making better appearances", "excerptStatus": "summary_only"}}, {"id": "protagoras:evidence:004", "titleZh": "现代智者研究", "summaryZh": "现代研究常把尺度命题同民主辩论、实践判断和教育职业联系起来，突出其公共语境意义。", "source": {"workId": "protagoras-primary-work", "locator": "Modern scholarship on Protagoras, relativism and sophistic education", "excerptStatus": "summary_only"}}]}
-    ]},
-    {"id": "protagoras:problem:002", "titleZh": "德性可以教授吗？", "questionZh": "普罗泰戈拉如何论证政治德性可通过共同体、法律和教育培养？", "summaryZh": "普罗泰戈拉把德性看作城邦生活必需的可训练能力，而非贵族天赋。", "themeIds": ["ethics", "politics"], "weight": 3, "claims": [
-      {"id": "protagoras:claim:003", "titleZh": "政治德性是城邦共享能力", "claimZh": "普罗泰戈拉神话说明所有人都必须分享到正义和羞耻，城邦才能存在。", "explanationZh": "这为民主参与和公民教育提供智者式论证。", "themeIds": ["politics", "ethics"], "weight": 3, "evidence": [{"id": "protagoras:evidence:005", "titleZh": "普罗米修斯神话", "summaryZh": "《普罗泰戈拉》中神话说明技艺分配不足以成城邦，还需要正义和羞耻维系共同生活秩序。", "source": {"workId": "protagoras-primary-work", "locator": "Plato, Protagoras 320c-323a on Prometheus myth and political virtue", "excerptStatus": "summary_only"}}, {"id": "protagoras:evidence:006", "titleZh": "人人参与政治判断", "summaryZh": "对话中普罗泰戈拉解释雅典人为何允许所有公民就政治发言，显示政治德性可教育观念基础。", "source": {"workId": "protagoras-primary-work", "locator": "Plato, Protagoras 322d-324d on civic virtue and democratic deliberation", "excerptStatus": "summary_only"}}]},
-      {"id": "protagoras:claim:004", "titleZh": "惩罚具有教育功能", "claimZh": "普罗泰戈拉把惩罚理解为面向未来的教育和矫正，而非只为报复过去。", "explanationZh": "这使法律成为培养德性的制度机制。", "themeIds": ["justice", "ethics"], "weight": 2, "evidence": [{"id": "protagoras:evidence:007", "titleZh": "惩罚与教化论证", "summaryZh": "对话中普罗泰戈拉认为人惩罚是为了防止未来作恶，体现法律的教育性功能和预防性目标。", "source": {"workId": "protagoras-primary-work", "locator": "Plato, Protagoras 324a-326e on punishment as education", "excerptStatus": "summary_only"}}, {"id": "protagoras:evidence:008", "titleZh": "现代政治教育解释", "summaryZh": "研究常把该段视为早期社会化、法律教育和政治德性理论，连接智者教育与城邦秩序建构。", "source": {"workId": "protagoras-primary-work", "locator": "Modern scholarship on Protagoras and civic education", "excerptStatus": "summary_only"}}]}
-    ]},
-    {"id": "protagoras:problem:003", "titleZh": "宗教判断为何要保持悬置？", "questionZh": "普罗泰戈拉关于神的不可知说如何关联智者的知识限度意识？", "summaryZh": "关于神的不可知说把宗教问题置于证据、生命短暂和对象隐晦的限制下。", "themeIds": ["religion", "knowledge"], "weight": 2, "claims": [
-      {"id": "protagoras:claim:005", "titleZh": "神学问题受认识条件限制", "claimZh": "普罗泰戈拉称关于神是否存在无法知道，因为问题隐晦而人生短促。", "explanationZh": "这不是系统无神论，而是把神学断言纳入认识限度。", "themeIds": ["religion", "knowledge"], "weight": 3, "evidence": [{"id": "protagoras:evidence:009", "titleZh": "不可知说残篇", "summaryZh": "古代材料保存其关于神不可知的著名开篇，显示其认识论谨慎与宗教判断限制立场边界意识。", "source": {"workId": "protagoras-primary-work", "locator": "Protagoras DK 80 B4 on gods, obscurity and shortness of life", "excerptStatus": "summary_only"}}, {"id": "protagoras:evidence:010", "titleZh": "传记中的不敬传统", "summaryZh": "传记材料把不可知说与雅典不敬争议和焚书传说联系起来，需谨慎处理其史实性问题背景。", "source": {"workId": "protagoras-primary-work", "locator": "Diogenes Laertius IX.52 on Protagoras' book on gods and impiety tradition", "excerptStatus": "summary_only"}}]},
-      {"id": "protagoras:claim:006", "titleZh": "智者方法重视可讨论事务", "claimZh": "神学悬置把注意力转回人在城邦中能辩论、教育和改良的事务。", "explanationZh": "这与其政治教育和实践判断方向一致。", "themeIds": ["politics", "knowledge"], "weight": 2, "evidence": [{"id": "protagoras:evidence:011", "titleZh": "智者实践语境", "summaryZh": "柏拉图对话呈现普罗泰戈拉以教育、辩论和公共德性为职业核心，体现智者角色定位方式。", "source": {"workId": "protagoras-primary-work", "locator": "Plato, Protagoras 316c-319a on Protagoras' teaching profession", "excerptStatus": "summary_only"}}, {"id": "protagoras:evidence:012", "titleZh": "现代解释", "summaryZh": "研究通常把不可知说同智者运动的公共实践和认识谨慎联系起来，强调其方法论意义所在。", "source": {"workId": "protagoras-primary-work", "locator": "Modern scholarship on Protagoras' agnosticism and sophistic pragmatism", "excerptStatus": "summary_only"}}]}
-    ]}
-  ]}
+  "works": [
+    "protagoras-primary-work"
+  ],
+  "sourceNotes": [
+    {
+      "label": "primary-dossier",
+      "noteZh": "采用柏拉图《普罗泰戈拉》《泰阿泰德》、第欧根尼·拉尔修和现代智者研究；不填逐字摘录。"
+    },
+    {
+      "label": "excerpt-status",
+      "noteZh": "全部 evidence 使用 summary_only。"
+    }
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "protagoras:problem:001",
+        "titleZh": "人为何是万物尺度？",
+        "questionZh": "普罗泰戈拉的尺度命题如何改变真理、感觉和意见的理解？",
+        "summaryZh": "尺度命题把认识从超越视角拉回人的经验、判断和共同生活语境。",
+        "themeIds": [
+          "knowledge"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "protagoras:claim:001",
+            "titleZh": "尺度命题强调经验相对性",
+            "claimZh": "普罗泰戈拉所谓人是万物尺度，通常被理解为把显现、判断和真理同经验主体相关联。",
+            "explanationZh": "这挑战了单一绝对真理的直观，也迫使柏拉图系统回应相对主义。",
+            "themeIds": [
+              "knowledge"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "protagoras:evidence:001",
+                "titleZh": "《泰阿泰德》中的尺度命题",
+                "summaryZh": "柏拉图把普罗泰戈拉命题同感觉即知识的讨论联系起来，显示尺度命题的认识论影响范围。",
+                "source": {
+                  "workId": "protagoras-primary-work",
+                  "locator": "Plato, Theaetetus 151e-172b on Protagoras' measure doctrine",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "protagoras:evidence:002",
+                "titleZh": "古代传记中的作品线索",
+                "summaryZh": "第欧根尼·拉尔修保存其作品题名和尺度命题传统，提供智者思想的传记线索材料来源依据。",
+                "source": {
+                  "workId": "protagoras-primary-work",
+                  "locator": "Diogenes Laertius IX.50-56 on Protagoras and his writings",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "protagoras:claim:002",
+            "titleZh": "相对性不等于放弃教育",
+            "claimZh": "即使意见因人而异，普罗泰戈拉仍强调通过教育让判断变得更有益、更适合城邦生活。",
+            "explanationZh": "这使智者实践从真理垄断转向判断改良和公共说服。",
+            "themeIds": [
+              "knowledge",
+              "politics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "protagoras:evidence:003",
+                "titleZh": "柏拉图对改良判断的呈现",
+                "summaryZh": "《泰阿泰德》中普罗泰戈拉立场被解释为使较差状态变为较好状态，强调教育和判断改善。",
+                "source": {
+                  "workId": "protagoras-primary-work",
+                  "locator": "Plato, Theaetetus 166d-168c on the sophist making better appearances",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "protagoras:evidence:004",
+                "titleZh": "现代智者研究",
+                "summaryZh": "现代研究常把尺度命题同民主辩论、实践判断和教育职业联系起来，突出其公共语境意义。",
+                "source": {
+                  "workId": "protagoras-primary-work",
+                  "locator": "Modern scholarship on Protagoras, relativism and sophistic education",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "protagoras:problem:002",
+        "titleZh": "德性可以教授吗？",
+        "questionZh": "普罗泰戈拉如何论证政治德性可通过共同体、法律和教育培养？",
+        "summaryZh": "普罗泰戈拉把德性看作城邦生活必需的可训练能力，而非贵族天赋。",
+        "themeIds": [
+          "ethics",
+          "politics"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "protagoras:claim:003",
+            "titleZh": "政治德性是城邦共享能力",
+            "claimZh": "普罗泰戈拉神话说明所有人都必须分享到正义和羞耻，城邦才能存在。",
+            "explanationZh": "这为民主参与和公民教育提供智者式论证。",
+            "themeIds": [
+              "politics",
+              "ethics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "protagoras:evidence:005",
+                "titleZh": "普罗米修斯神话",
+                "summaryZh": "《普罗泰戈拉》中神话说明技艺分配不足以成城邦，还需要正义和羞耻维系共同生活秩序。",
+                "source": {
+                  "workId": "protagoras-primary-work",
+                  "locator": "Plato, Protagoras 320c-323a on Prometheus myth and political virtue",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "protagoras:evidence:006",
+                "titleZh": "人人参与政治判断",
+                "summaryZh": "对话中普罗泰戈拉解释雅典人为何允许所有公民就政治发言，显示政治德性可教育观念基础。",
+                "source": {
+                  "workId": "protagoras-primary-work",
+                  "locator": "Plato, Protagoras 322d-324d on civic virtue and democratic deliberation",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "protagoras:claim:004",
+            "titleZh": "惩罚具有教育功能",
+            "claimZh": "普罗泰戈拉把惩罚理解为面向未来的教育和矫正，而非只为报复过去。",
+            "explanationZh": "这使法律成为培养德性的制度机制。",
+            "themeIds": [
+              "justice",
+              "ethics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "protagoras:evidence:007",
+                "titleZh": "惩罚与教化论证",
+                "summaryZh": "对话中普罗泰戈拉认为人惩罚是为了防止未来作恶，体现法律的教育性功能和预防性目标。",
+                "source": {
+                  "workId": "protagoras-primary-work",
+                  "locator": "Plato, Protagoras 324a-326e on punishment as education",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "protagoras:evidence:008",
+                "titleZh": "现代政治教育解释",
+                "summaryZh": "研究常把该段视为早期社会化、法律教育和政治德性理论，连接智者教育与城邦秩序建构。",
+                "source": {
+                  "workId": "protagoras-primary-work",
+                  "locator": "Modern scholarship on Protagoras and civic education",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "protagoras:problem:003",
+        "titleZh": "宗教判断为何要保持悬置？",
+        "questionZh": "普罗泰戈拉关于神的不可知说如何关联智者的知识限度意识？",
+        "summaryZh": "关于神的不可知说把宗教问题置于证据、生命短暂和对象隐晦的限制下。",
+        "themeIds": [
+          "religion",
+          "knowledge"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "protagoras:claim:005",
+            "titleZh": "神学问题受认识条件限制",
+            "claimZh": "普罗泰戈拉称关于神是否存在无法知道，因为问题隐晦而人生短促。",
+            "explanationZh": "这不是系统无神论，而是把神学断言纳入认识限度。",
+            "themeIds": [
+              "religion",
+              "knowledge"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "protagoras:evidence:009",
+                "titleZh": "不可知说残篇",
+                "summaryZh": "古代材料保存其关于神不可知的著名开篇，显示其认识论谨慎与宗教判断限制立场边界意识。",
+                "source": {
+                  "workId": "protagoras-primary-work",
+                  "locator": "Protagoras DK 80 B4 on gods, obscurity and shortness of life",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "protagoras:evidence:010",
+                "titleZh": "传记中的不敬传统",
+                "summaryZh": "传记材料把不可知说与雅典不敬争议和焚书传说联系起来，需谨慎处理其史实性问题背景。",
+                "source": {
+                  "workId": "protagoras-primary-work",
+                  "locator": "Diogenes Laertius IX.52 on Protagoras' book on gods and impiety tradition",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "protagoras:claim:006",
+            "titleZh": "智者方法重视可讨论事务",
+            "claimZh": "神学悬置把注意力转回人在城邦中能辩论、教育和改良的事务。",
+            "explanationZh": "这与其政治教育和实践判断方向一致。",
+            "themeIds": [
+              "politics",
+              "knowledge"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "protagoras:evidence:011",
+                "titleZh": "智者实践语境",
+                "summaryZh": "柏拉图对话呈现普罗泰戈拉以教育、辩论和公共德性为职业核心，体现智者角色定位方式。",
+                "source": {
+                  "workId": "protagoras-primary-work",
+                  "locator": "Plato, Protagoras 316c-319a on Protagoras' teaching profession",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "protagoras:evidence:012",
+                "titleZh": "现代解释",
+                "summaryZh": "研究通常把不可知说同智者运动的公共实践和认识谨慎联系起来，强调其方法论意义所在。",
+                "source": {
+                  "workId": "protagoras-primary-work",
+                  "locator": "Modern scholarship on Protagoras' agnosticism and sophistic pragmatism",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "tier": "standard"
 }

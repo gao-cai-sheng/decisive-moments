@@ -1,0 +1,46 @@
+{
+  "id": "li-gou",
+  "tier": "seed",
+  "names": {
+    "zh": "李觏",
+    "en": "Li Gou",
+    "native": "李覯"
+  },
+  "life": {
+    "birth": 1009,
+    "death": 1059,
+    "display": "1009—1059"
+  },
+  "civilization": "chinese",
+  "traditions": [
+    "confucianism",
+    "song_learning"
+  ],
+  "periods": [
+    "northern_song"
+  ],
+  "themes": [
+    "politics",
+    "justice"
+  ],
+  "keywordsZh": [
+    "盱江先生",
+    "周礼致太平论",
+    "礼论"
+  ],
+  "oneLineZh": "北宋儒者和制度思想家，以礼制、财政和经世论著称。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "李觏，字泰伯，建昌军南城人，北宋儒者，世称盱江先生。他重视礼制、财政、兵制和学校，对空疏章句之学不满，主张以经术服务国家治理。《周礼致太平论》《礼论》等体现其经世关怀。李觏处于理学兴起前夜，是北宋儒学从文辞经义转向制度建构的重要人物。",
+  "works": [
+    "li-gou-zhouli-zhi-taiping-lun",
+    "li-gou-li-lun"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S007",
+      "url": "https://ctext.org/wiki.pl?if=en&res=821310",
+      "noteZh": "以李觏文集、《周礼致太平论》《礼论》题名传统支撑身份层。"
+    }
+  ]
+}

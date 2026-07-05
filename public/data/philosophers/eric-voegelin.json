@@ -1,0 +1,43 @@
+{
+  "id": "eric-voegelin",
+  "tier": "seed",
+  "names": {
+    "zh": "埃里克·沃格林",
+    "en": "Eric Voegelin"
+  },
+  "life": {
+    "birth": 1901,
+    "death": 1985,
+    "display": "1901—1985"
+  },
+  "civilization": "western",
+  "traditions": [
+    "christian_philosophy"
+  ],
+  "periods": [
+    "contemporary"
+  ],
+  "themes": [
+    "politics",
+    "religion"
+  ],
+  "keywordsZh": [
+    "政治宗教",
+    "身份层",
+    "二线哲人"
+  ],
+  "oneLineZh": "政治宗教与秩序哲学代表，可补现代性批判的保守谱系。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "埃里克·沃格林（1901—1985）是 W2 欧陆与英美近现代二线哲人候选。其身份层入选理由为：政治宗教与秩序哲学代表，可补现代性批判的保守谱系。 本条仅作 seed 档基本定位，后续若升级标准档，需要重新做著作、论点与 evidence 研究。",
+  "works": [
+    "eric-voegelin-order-and-history",
+    "eric-voegelin-new-science-of-politics"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S012",
+      "noteZh": "权威来源条目：IEP: Eric Voegelin；用于核验人物身份、生卒、代表著作和思想史定位。"
+    }
+  ]
+}

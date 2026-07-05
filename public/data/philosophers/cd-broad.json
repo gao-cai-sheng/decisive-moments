@@ -1,0 +1,43 @@
+{
+  "id": "cd-broad",
+  "tier": "seed",
+  "names": {
+    "zh": "C. D. 布罗德",
+    "en": "C. D. Broad"
+  },
+  "life": {
+    "birth": 1887,
+    "death": 1971,
+    "display": "1887—1971"
+  },
+  "civilization": "western",
+  "traditions": [
+    "analytic_philosophy"
+  ],
+  "periods": [
+    "modern"
+  ],
+  "themes": [
+    "ethics",
+    "metaphysics"
+  ],
+  "keywordsZh": [
+    "身份层",
+    "二线哲人",
+    "思想史补线"
+  ],
+  "oneLineZh": "心灵哲学、伦理学与形而上学的剑桥综合人物，可补摩尔之后的英国分析线。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "C. D. 布罗德（1887—1971）是 W2 欧陆与英美近现代二线哲人候选。其身份层入选理由为：心灵哲学、伦理学与形而上学的剑桥综合人物，可补摩尔之后的英国分析线。 本条仅作 seed 档基本定位，后续若升级标准档，需要重新做著作、论点与 evidence 研究。",
+  "works": [
+    "cd-broad-mind-and-place-in-nature",
+    "cd-broad-five-types-ethical-theory"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S012",
+      "noteZh": "权威来源条目：SEP: Charlie Dunbar Broad；用于核验人物身份、生卒、代表著作和思想史定位。"
+    }
+  ]
+}

@@ -4795,5 +4795,2347 @@
     "originalTitle": "Atheismus im Christentum",
     "yearDisplay": "1968",
     "noteZh": "从圣经和宗教象征中寻找反权威、出埃及和解放的无神论内核。"
+  },
+  {
+    "id": "marcuse-eros-civilization",
+    "philosopherId": "marcuse",
+    "titleZh": "《爱欲与文明》",
+    "titleEn": "Eros and Civilization",
+    "yearDisplay": "1955",
+    "noteZh": "把弗洛伊德欲望理论同马克思主义解放问题结合，讨论非压抑性文明可能性。"
+  },
+  {
+    "id": "marcuse-one-dimensional-man",
+    "philosopherId": "marcuse",
+    "titleZh": "《单向度的人》",
+    "titleEn": "One-Dimensional Man",
+    "yearDisplay": "1964",
+    "noteZh": "分析发达工业社会如何通过技术理性、消费和文化整合压缩批判与否定性。"
+  },
+  {
+    "id": "marcuse-reason-revolution",
+    "philosopherId": "marcuse",
+    "titleZh": "《理性与革命》",
+    "titleEn": "Reason and Revolution",
+    "yearDisplay": "1941",
+    "noteZh": "从黑格尔到社会理论解释否定理性与批判传统，为其马克思主义黑格尔解释奠基。"
+  },
+  {
+    "id": "marcuse-essay-liberation",
+    "philosopherId": "marcuse",
+    "titleZh": "《论解放》",
+    "titleEn": "An Essay on Liberation",
+    "yearDisplay": "1969",
+    "noteZh": "讨论新感性、反抗主体和解放想象，回应六十年代新左翼政治语境。"
+  },
+  {
+    "id": "marcuse-repressive-tolerance",
+    "philosopherId": "marcuse",
+    "titleZh": "《压抑性宽容》",
+    "titleEn": "Repressive Tolerance",
+    "yearDisplay": "1965",
+    "noteZh": "批判形式中立宽容在不平等社会中可能维护支配结构和既有舆论权力。"
+  },
+  {
+    "id": "fromm-escape-freedom",
+    "philosopherId": "fromm",
+    "titleZh": "《逃避自由》",
+    "titleEn": "Escape from Freedom",
+    "yearDisplay": "1941",
+    "noteZh": "分析现代个人在获得自由后因孤立和焦虑转向威权、破坏和自动顺从。"
+  },
+  {
+    "id": "fromm-man-for-himself",
+    "philosopherId": "fromm",
+    "titleZh": "《自为的人》",
+    "titleEn": "Man for Himself",
+    "yearDisplay": "1947",
+    "noteZh": "提出人本伦理学，把生产性人格和人的潜能实现作为伦理评价中心。"
+  },
+  {
+    "id": "fromm-sane-society",
+    "philosopherId": "fromm",
+    "titleZh": "《健全的社会》",
+    "titleEn": "The Sane Society",
+    "yearDisplay": "1955",
+    "noteZh": "批判资本主义社会的异化和病理，提出以人的需要为中心的社会重组。"
+  },
+  {
+    "id": "fromm-marx-concept-man",
+    "philosopherId": "fromm",
+    "titleZh": "《马克思关于人的概念》",
+    "titleEn": "Marx's Concept of Man",
+    "yearDisplay": "1961",
+    "noteZh": "阐释青年马克思的人本主义、异化和自由劳动思想，反对机械化马克思主义。"
+  },
+  {
+    "id": "fromm-to-have-or-to-be",
+    "philosopherId": "fromm",
+    "titleZh": "《占有还是存在》",
+    "titleEn": "To Have or To Be?",
+    "yearDisplay": "1976",
+    "noteZh": "区分占有式和存在式生活，批判消费社会并提出存在方式的伦理转向。"
+  },
+  {
+    "id": "berlin-two-concepts-liberty",
+    "philosopherId": "berlin",
+    "titleZh": "《两种自由概念》",
+    "titleEn": "Two Concepts of Liberty",
+    "yearDisplay": "1958",
+    "noteZh": "区分消极自由与积极自由，警惕积极自由被整体主义和强制政治挪用。"
+  },
+  {
+    "id": "berlin-historical-inevitability",
+    "philosopherId": "berlin",
+    "titleZh": "《历史必然性》",
+    "titleEn": "Historical Inevitability",
+    "yearDisplay": "1954",
+    "noteZh": "批判历史决定论和责任消解，维护选择、偶然性和道德责任。"
+  },
+  {
+    "id": "berlin-hedgehog-fox",
+    "philosopherId": "berlin",
+    "titleZh": "《刺猬与狐狸》",
+    "titleEn": "The Hedgehog and the Fox",
+    "yearDisplay": "1953",
+    "noteZh": "以托尔斯泰为例讨论单一大观念与多元现实理解之间的思想史张力。"
+  },
+  {
+    "id": "berlin-four-essays-liberty",
+    "philosopherId": "berlin",
+    "titleZh": "《自由四论》",
+    "titleEn": "Four Essays on Liberty",
+    "yearDisplay": "1969",
+    "noteZh": "汇集自由、政治判断和历史责任相关论文，集中呈现伯林自由主义立场。"
+  },
+  {
+    "id": "berlin-roots-romanticism",
+    "philosopherId": "berlin",
+    "titleZh": "《浪漫主义的根源》",
+    "titleEn": "The Roots of Romanticism",
+    "yearDisplay": "1999 posthumous",
+    "noteZh": "以讲演形式解释浪漫主义对价值多元、自我创造和现代思想的影响。"
+  },
+  {
+    "id": "hayek-road-serfdom",
+    "philosopherId": "hayek",
+    "titleZh": "《通往奴役之路》",
+    "titleEn": "The Road to Serfdom",
+    "yearDisplay": "1944",
+    "noteZh": "批判集中经济计划可能侵蚀法治、个人自由和民主政治的制度条件。"
+  },
+  {
+    "id": "hayek-use-knowledge",
+    "philosopherId": "hayek",
+    "titleZh": "《知识在社会中的运用》",
+    "titleEn": "The Use of Knowledge in Society",
+    "yearDisplay": "1945",
+    "noteZh": "提出分散知识问题，解释价格机制如何协调个人无法集中掌握的信息。"
+  },
+  {
+    "id": "hayek-constitution-liberty",
+    "philosopherId": "hayek",
+    "titleZh": "《自由宪章》",
+    "titleEn": "The Constitution of Liberty",
+    "yearDisplay": "1960",
+    "noteZh": "系统阐述自由、法治、传统演化和有限政府之间的关系。"
+  },
+  {
+    "id": "hayek-law-legislation-liberty",
+    "philosopherId": "hayek",
+    "titleZh": "《法律、立法与自由》",
+    "titleEn": "Law, Legislation and Liberty",
+    "yearDisplay": "1973–1979",
+    "noteZh": "区分演化法秩序和建构性立法，深化自发秩序与规则治理理论。"
+  },
+  {
+    "id": "hayek-fatal-conceit",
+    "philosopherId": "hayek",
+    "titleZh": "《致命的自负》",
+    "titleEn": "The Fatal Conceit",
+    "yearDisplay": "1988",
+    "noteZh": "批判理性建构主义自负，强调文明秩序依赖演化规则和扩展合作。"
+  },
+  {
+    "id": "schmitt-political-theology",
+    "philosopherId": "schmitt",
+    "titleZh": "《政治神学》",
+    "titleEn": "Political Theology",
+    "originalTitle": "Politische Theologie",
+    "yearDisplay": "1922",
+    "noteZh": "提出主权者是决定例外状态者，并分析现代国家概念的神学结构。"
+  },
+  {
+    "id": "schmitt-concept-political",
+    "philosopherId": "schmitt",
+    "titleZh": "《政治的概念》",
+    "titleEn": "The Concept of the Political",
+    "originalTitle": "Der Begriff des Politischen",
+    "yearDisplay": "1932",
+    "noteZh": "以敌友区分定义政治，形成反自由主义政治理论中最具争议的核心命题。"
+  },
+  {
+    "id": "schmitt-constitutional-theory",
+    "philosopherId": "schmitt",
+    "titleZh": "《宪法学说》",
+    "titleEn": "Constitutional Theory",
+    "originalTitle": "Verfassungslehre",
+    "yearDisplay": "1928",
+    "noteZh": "讨论宪法、制宪权、民主同质性和自由法治要素之间的张力。"
+  },
+  {
+    "id": "schmitt-crisis-parliamentary-democracy",
+    "philosopherId": "schmitt",
+    "titleZh": "《议会制民主的危机》",
+    "titleEn": "The Crisis of Parliamentary Democracy",
+    "yearDisplay": "1923",
+    "noteZh": "批判议会制公开讨论和自由主义程序，体现其反议会主义政治立场。"
+  },
+  {
+    "id": "schmitt-legality-legitimacy",
+    "philosopherId": "schmitt",
+    "titleZh": "《合法性与正当性》",
+    "titleEn": "Legality and Legitimacy",
+    "originalTitle": "Legalität und Legitimität",
+    "yearDisplay": "1932",
+    "noteZh": "分析魏玛宪制危机中合法程序和政治正当性之间的危险断裂。"
+  },
+  {
+    "id": "croce-aesthetic-expression",
+    "philosopherId": "croce",
+    "titleZh": "《作为表现科学的美学》",
+    "titleEn": "Aesthetic as Science of Expression",
+    "originalTitle": "Estetica come scienza dell'espressione",
+    "yearDisplay": "1902",
+    "noteZh": "把艺术理解为直觉和表现的统一，确立克罗齐美学的基础。"
+  },
+  {
+    "id": "croce-logic-pure-concept",
+    "philosopherId": "croce",
+    "titleZh": "《作为纯概念科学的逻辑学》",
+    "titleEn": "Logic as the Science of the Pure Concept",
+    "yearDisplay": "1909",
+    "noteZh": "讨论概念、判断和精神活动的逻辑结构，连接其美学与历史哲学。"
+  },
+  {
+    "id": "croce-theory-history-historiography",
+    "philosopherId": "croce",
+    "titleZh": "《历史编纂的理论与历史》",
+    "titleEn": "Theory and History of Historiography",
+    "yearDisplay": "1917",
+    "noteZh": "把历史理解为现实精神的自我认识，反对机械实证主义史学。"
+  },
+  {
+    "id": "croce-history-liberty",
+    "philosopherId": "croce",
+    "titleZh": "《历史作为自由的故事》",
+    "titleEn": "History as the Story of Liberty",
+    "yearDisplay": "1938",
+    "noteZh": "以自由作为历史理解的核心范畴，表达反法西斯自由主义史观。"
+  },
+  {
+    "id": "croce-philosophy-vico",
+    "philosopherId": "croce",
+    "titleZh": "《詹巴蒂斯塔·维柯的哲学》",
+    "titleEn": "The Philosophy of Giambattista Vico",
+    "yearDisplay": "1911",
+    "noteZh": "推动维柯在现代思想中的复兴，把历史知识和人造世界问题重新置于中心。"
+  },
+  {
+    "id": "yan-hui-analects-yan-yuan",
+    "philosopherId": "yan-hui",
+    "titleZh": "《论语·颜渊》",
+    "titleEn": "Analects: Yan Yuan",
+    "noteZh": "关联文本，保存颜回及孔门德行讨论。"
+  },
+  {
+    "id": "yan-hui-analects-yongye",
+    "philosopherId": "yan-hui",
+    "titleZh": "《论语·雍也》",
+    "titleEn": "Analects: Yong Ye",
+    "noteZh": "关联文本，保存孔子称许颜回安贫好学的材料。"
+  },
+  {
+    "id": "zengzi-daxue",
+    "philosopherId": "zengzi",
+    "titleZh": "《大学》",
+    "titleEn": "Great Learning",
+    "noteZh": "传统上与曾子传承相关的儒家修身治国文本。"
+  },
+  {
+    "id": "zengzi-analects",
+    "philosopherId": "zengzi",
+    "titleZh": "《论语》曾子章句",
+    "titleEn": "Analects passages on Zengzi",
+    "noteZh": "保存曾子言论和孔门后学形象的核心文本。"
+  },
+  {
+    "id": "zisi-zhongyong",
+    "philosopherId": "zisi",
+    "titleZh": "《中庸》",
+    "titleEn": "Doctrine of the Mean",
+    "noteZh": "传统上归入子思学派或子思传承的儒家经典。"
+  },
+  {
+    "id": "zisi-mengzi-records",
+    "philosopherId": "zisi",
+    "titleZh": "《孟子》子思相关记载",
+    "titleEn": "Mencius records on Zisi",
+    "noteZh": "保存子思后学与孔孟之间传承关系的材料。"
+  },
+  {
+    "id": "zigong-analects",
+    "philosopherId": "zigong",
+    "titleZh": "《论语》子贡章句",
+    "titleEn": "Analects passages on Zigong",
+    "noteZh": "保存子贡问答与孔门言语科形象的核心文本。"
+  },
+  {
+    "id": "zigong-shiji-biography",
+    "philosopherId": "zigong",
+    "titleZh": "《史记·仲尼弟子列传》子贡材料",
+    "titleEn": "Shiji biography materials on Zigong",
+    "noteZh": "保存子贡政治活动和师门传承形象。"
+  },
+  {
+    "id": "shang-yang-shang-jun-shu",
+    "philosopherId": "shang-yang",
+    "titleZh": "《商君书》",
+    "titleEn": "Book of Lord Shang",
+    "noteZh": "商鞅学派法家政治和变法思想的核心传世文本。"
+  },
+  {
+    "id": "shen-buhai-shenzi-fragments",
+    "philosopherId": "shen-buhai",
+    "titleZh": "《申子》佚文",
+    "titleEn": "Shenzi fragments",
+    "noteZh": "申不害术治传统的佚文和目录著录。"
+  },
+  {
+    "id": "shen-dao-shenzi",
+    "philosopherId": "shen-dao",
+    "titleZh": "《慎子》",
+    "titleEn": "Shenzi",
+    "noteZh": "慎到学派势论和黄老法家思想的残存文本。"
+  },
+  {
+    "id": "hui-shi-zhuangzi-tianxia",
+    "philosopherId": "hui-shi",
+    "titleZh": "《庄子·天下》惠施十事",
+    "titleEn": "Zhuangzi: Tianxia on Hui Shi",
+    "noteZh": "保存惠施辩学命题的主要传世材料。"
+  },
+  {
+    "id": "hui-shi-zhuangzi-dialogues",
+    "philosopherId": "hui-shi",
+    "titleZh": "《庄子》惠施对话",
+    "titleEn": "Zhuangzi dialogues with Hui Shi",
+    "noteZh": "保存惠施与庄子互动和名家形象的文本。"
+  },
+  {
+    "id": "gongsun-longzi",
+    "philosopherId": "gongsun-long",
+    "titleZh": "《公孙龙子》",
+    "titleEn": "Gongsun Longzi",
+    "noteZh": "公孙龙名实论辩的核心传世文本。"
+  },
+  {
+    "id": "yang-zhu-mengzi-records",
+    "philosopherId": "yang-zhu",
+    "titleZh": "《孟子》杨朱批判材料",
+    "titleEn": "Mencius on Yang Zhu",
+    "noteZh": "保存儒家对杨朱为我传统的批评性材料。"
+  },
+  {
+    "id": "yang-zhu-liezi-yangzhu",
+    "philosopherId": "yang-zhu",
+    "titleZh": "《列子·杨朱》",
+    "titleEn": "Liezi: Yang Zhu",
+    "noteZh": "后世保存杨朱接受形象的重要文本。"
+  },
+  {
+    "id": "xu-xing-mengzi-tengwengong",
+    "philosopherId": "xu-xing",
+    "titleZh": "《孟子·滕文公上》许行章",
+    "titleEn": "Mencius: Teng Wen Gong I on Xu Xing",
+    "noteZh": "保存农家许行并耕主张的主要材料。"
+  },
+  {
+    "id": "zou-yan-shiji-biography",
+    "philosopherId": "zou-yan",
+    "titleZh": "《史记·孟子荀卿列传》邹衍材料",
+    "titleEn": "Shiji biography materials on Zou Yan",
+    "noteZh": "保存邹衍阴阳五德与大九州说的核心史传材料。"
+  },
+  {
+    "id": "song-xing-zhuangzi-tianxia",
+    "philosopherId": "song-xing",
+    "titleZh": "《庄子·天下》宋钘材料",
+    "titleEn": "Zhuangzi: Tianxia on Song Xing",
+    "noteZh": "保存宋钘非斗节欲形象的重要材料。"
+  },
+  {
+    "id": "song-xing-xunzi-records",
+    "philosopherId": "song-xing",
+    "titleZh": "《荀子》宋钘批评材料",
+    "titleEn": "Xunzi records on Song Xing",
+    "noteZh": "保存荀子对宋钘学说批评的材料。"
+  },
+  {
+    "id": "yin-wen-zi",
+    "philosopherId": "yin-wen",
+    "titleZh": "《尹文子》",
+    "titleEn": "Yin Wenzi",
+    "noteZh": "题名归于尹文传统的短篇名实和政治文本。"
+  },
+  {
+    "id": "guan-zhong-guanzi",
+    "philosopherId": "guan-zhong",
+    "titleZh": "《管子》",
+    "titleEn": "Guanzi",
+    "noteZh": "以管仲为名的政治、经济和黄老法术汇编。"
+  },
+  {
+    "id": "yan-ying-yanzi-chunqiu",
+    "philosopherId": "yan-ying",
+    "titleZh": "《晏子春秋》",
+    "titleEn": "Yanzi Chunqiu",
+    "noteZh": "保存晏婴谏诤、外交与政治故事的核心文本。"
+  },
+  {
+    "id": "sunzi-art-of-war",
+    "philosopherId": "sunzi",
+    "titleZh": "《孙子兵法》",
+    "titleEn": "The Art of War",
+    "noteZh": "孙武所系兵学传统的核心经典。"
+  },
+  {
+    "id": "wu-qi-wuzi",
+    "philosopherId": "wu-qi",
+    "titleZh": "《吴子》",
+    "titleEn": "Wuzi",
+    "noteZh": "吴起所系兵家政治与治军文本。"
+  },
+  {
+    "id": "lu-buwei-lushi-chunqiu",
+    "philosopherId": "lu-buwei",
+    "titleZh": "《吕氏春秋》",
+    "titleEn": "Lüshi Chunqiu",
+    "noteZh": "吕不韦宾客编纂的杂家知识总汇。"
+  },
+  {
+    "id": "li-si-jianzhukeshu",
+    "philosopherId": "li-si",
+    "titleZh": "《谏逐客书》",
+    "titleEn": "Memorial Against the Expulsion of Guest Officers",
+    "noteZh": "李斯代表性政论文章。"
+  },
+  {
+    "id": "li-si-shiji-biography",
+    "philosopherId": "li-si",
+    "titleZh": "《史记·李斯列传》",
+    "titleEn": "Shiji biography of Li Si",
+    "noteZh": "保存李斯政治生涯和秦制实践的史传材料。"
+  },
+  {
+    "id": "dong-zhongshu-chunqiu-fanlu",
+    "philosopherId": "dong-zhongshu",
+    "titleZh": "《春秋繁露》",
+    "titleEn": "Luxuriant Dew of the Spring and Autumn Annals",
+    "noteZh": "董仲舒题名传统下的汉儒天人政治文本。"
+  },
+  {
+    "id": "yang-xiong-fa-yan",
+    "philosopherId": "yang-xiong",
+    "titleZh": "《法言》",
+    "titleEn": "Fayan",
+    "noteZh": "扬雄仿《论语》体的思想文本。"
+  },
+  {
+    "id": "yang-xiong-tai-xuan-jing",
+    "philosopherId": "yang-xiong",
+    "titleZh": "《太玄经》",
+    "titleEn": "Taixuanjing",
+    "noteZh": "扬雄以符号系统回应易学传统的著作。"
+  },
+  {
+    "id": "wang-chong-lunheng",
+    "philosopherId": "wang-chong",
+    "titleZh": "《论衡》",
+    "titleEn": "Lunheng",
+    "noteZh": "王充批判虚妄和灾异解释的核心著作。"
+  },
+  {
+    "id": "liu-an-huainanzi",
+    "philosopherId": "liu-an",
+    "titleZh": "《淮南子》",
+    "titleEn": "Huainanzi",
+    "noteZh": "刘安宾客编纂的黄老杂家百科式文本。"
+  },
+  {
+    "id": "lu-jia-xin-yu",
+    "philosopherId": "lu-jia",
+    "titleZh": "《新语》",
+    "titleEn": "Xinyu",
+    "noteZh": "陆贾汉初政论代表作。"
+  },
+  {
+    "id": "jia-yi-xin-shu",
+    "philosopherId": "jia-yi",
+    "titleZh": "《新书》",
+    "titleEn": "Xinshu",
+    "noteZh": "贾谊政论文章汇编。"
+  },
+  {
+    "id": "jia-yi-guo-qin-lun",
+    "philosopherId": "jia-yi",
+    "titleZh": "《过秦论》",
+    "titleEn": "Disquisition Finding Fault with Qin",
+    "noteZh": "贾谊反思秦亡的代表性政论。"
+  },
+  {
+    "id": "sima-tan-lun-liu-jia-yao-zhi",
+    "philosopherId": "sima-tan",
+    "titleZh": "《论六家要旨》",
+    "titleEn": "Essential Points of the Six Schools",
+    "noteZh": "司马谈关于六家分类的代表性文本。"
+  },
+  {
+    "id": "sima-qian-shiji",
+    "philosopherId": "sima-qian",
+    "titleZh": "《史记》",
+    "titleEn": "Records of the Grand Historian",
+    "noteZh": "司马迁撰写的纪传体通史。"
+  },
+  {
+    "id": "sima-qian-bao-ren-an-shu",
+    "philosopherId": "sima-qian",
+    "titleZh": "《报任安书》",
+    "titleEn": "Letter to Ren An",
+    "noteZh": "司马迁说明著史志向和生命处境的重要书信。"
+  },
+  {
+    "id": "huan-tan-xinlun-fragments",
+    "philosopherId": "huan-tan",
+    "titleZh": "《新论》辑佚",
+    "titleEn": "Xinlun fragments",
+    "noteZh": "桓谭思想的辑佚传世材料。"
+  },
+  {
+    "id": "zheng-xuan-maoshi-jian",
+    "philosopherId": "zheng-xuan",
+    "titleZh": "《毛诗笺》",
+    "titleEn": "Annotations to the Mao Odes",
+    "noteZh": "郑玄诗经学注笺代表作。"
+  },
+  {
+    "id": "zheng-xuan-zhouli-zhu",
+    "philosopherId": "zheng-xuan",
+    "titleZh": "《周礼注》",
+    "titleEn": "Commentary on the Rites of Zhou",
+    "noteZh": "郑玄礼学注释传统代表作。"
+  },
+  {
+    "id": "xu-gan-zhonglun",
+    "philosopherId": "xu-gan",
+    "titleZh": "《中论》",
+    "titleEn": "Zhonglun",
+    "noteZh": "徐干代表作，讨论修身、政治、名实和士人规范。"
+  },
+  {
+    "id": "wang-fu-qianfulun",
+    "philosopherId": "wang-fu",
+    "titleZh": "《潜夫论》",
+    "titleEn": "Qianfu Lun",
+    "noteZh": "王符代表作，批评东汉政治和社会风气。"
+  },
+  {
+    "id": "xun-yue-shenjian",
+    "philosopherId": "xun-yue",
+    "titleZh": "《申鉴》",
+    "titleEn": "Shenjian",
+    "noteZh": "荀悦政论代表作，讨论君臣、法度和教化。"
+  },
+  {
+    "id": "xun-yue-hanji",
+    "philosopherId": "xun-yue",
+    "titleZh": "《汉纪》",
+    "titleEn": "Hanji",
+    "noteZh": "荀悦编年体史书，重述两汉历史。"
+  },
+  {
+    "id": "zhongchang-tong-changyan-fragments",
+    "philosopherId": "zhongchang-tong",
+    "titleZh": "《昌言》辑佚",
+    "titleEn": "Changyan fragments",
+    "noteZh": "仲长统政论著作，今多散佚。"
+  },
+  {
+    "id": "liu-xiang-shuoyuan",
+    "philosopherId": "liu-xiang",
+    "titleZh": "《说苑》",
+    "titleEn": "Shuoyuan",
+    "noteZh": "刘向编纂的政治伦理故事集。"
+  },
+  {
+    "id": "liu-xiang-xinxu",
+    "philosopherId": "liu-xiang",
+    "titleZh": "《新序》",
+    "titleEn": "Xinxu",
+    "noteZh": "刘向编纂的历史故事和政治劝戒文本。"
+  },
+  {
+    "id": "liu-xin-qilue",
+    "philosopherId": "liu-xin",
+    "titleZh": "《七略》",
+    "titleEn": "Qilue",
+    "noteZh": "刘歆目录学代表作，今佚而影响《汉书·艺文志》。"
+  },
+  {
+    "id": "liu-xin-yishu-taichangboshi",
+    "philosopherId": "liu-xin",
+    "titleZh": "《移书让太常博士》",
+    "titleEn": "Memorial to the Erudites",
+    "noteZh": "刘歆古文经学争论中的代表性文献。"
+  },
+  {
+    "id": "he-yan-lunyu-jijie",
+    "philosopherId": "he-yan",
+    "titleZh": "《论语集解》",
+    "titleEn": "Collected Explanations of the Analects",
+    "noteZh": "何晏主持编成的《论语》注解总集。"
+  },
+  {
+    "id": "he-yan-daodelun-fragments",
+    "philosopherId": "he-yan",
+    "titleZh": "《道德论》佚文",
+    "titleEn": "Daode Lun fragments",
+    "noteZh": "何晏玄学论著佚文传统。"
+  },
+  {
+    "id": "ruan-ji-dazhuanglun",
+    "philosopherId": "ruan-ji",
+    "titleZh": "《达庄论》",
+    "titleEn": "Da Zhuang Lun",
+    "noteZh": "阮籍接受庄子思想的代表性文本。"
+  },
+  {
+    "id": "ruan-ji-darenxianshengzhuan",
+    "philosopherId": "ruan-ji",
+    "titleZh": "《大人先生传》",
+    "titleEn": "Biography of Master Great Man",
+    "noteZh": "阮籍表达超越礼法人格的寓言性文本。"
+  },
+  {
+    "id": "ji-kang-shengwu-aile-lun",
+    "philosopherId": "ji-kang",
+    "titleZh": "《声无哀乐论》",
+    "titleEn": "Discourse on Sound Without Sorrow or Joy",
+    "noteZh": "嵇康音乐哲学代表作。"
+  },
+  {
+    "id": "ji-kang-yangsheng-lun",
+    "philosopherId": "ji-kang",
+    "titleZh": "《养生论》",
+    "titleEn": "Discourse on Nourishing Life",
+    "noteZh": "嵇康讨论养生、自然和身体修养的文本。"
+  },
+  {
+    "id": "xiang-xiu-zhuangzi-zhu",
+    "philosopherId": "xiang-xiu",
+    "titleZh": "《庄子注》",
+    "titleEn": "Commentary on the Zhuangzi",
+    "noteZh": "向秀庄学注释代表作。"
+  },
+  {
+    "id": "xiang-xiu-sijiu-fu",
+    "philosopherId": "xiang-xiu",
+    "titleZh": "《思旧赋》",
+    "titleEn": "Rhapsody on Remembering the Old",
+    "noteZh": "向秀悼念嵇康、吕安的名篇。"
+  },
+  {
+    "id": "pei-wei-chongyou-lun",
+    "philosopherId": "pei-wei",
+    "titleZh": "《崇有论》",
+    "titleEn": "Discourse on Esteeming Being",
+    "noteZh": "裴頠反思贵无玄学的代表作。"
+  },
+  {
+    "id": "ge-hong-baopuzi",
+    "philosopherId": "ge-hong",
+    "titleZh": "《抱朴子》",
+    "titleEn": "Baopuzi",
+    "noteZh": "葛洪道教理论和政论代表作。"
+  },
+  {
+    "id": "ge-hong-shenxian-zhuan",
+    "philosopherId": "ge-hong",
+    "titleZh": "《神仙传》",
+    "titleEn": "Traditions of Divine Transcendents",
+    "noteZh": "葛洪题名传统中的神仙传记集。"
+  },
+  {
+    "id": "fan-zhen-shenmie-lun",
+    "philosopherId": "fan-zhen",
+    "titleZh": "《神灭论》",
+    "titleEn": "Discourse on the Extinction of the Spirit",
+    "noteZh": "范缜反对神不灭论的代表作。"
+  },
+  {
+    "id": "tao-hongjing-zhengao",
+    "philosopherId": "tao-hongjing",
+    "titleZh": "《真诰》",
+    "titleEn": "Declarations of the Perfected",
+    "noteZh": "陶弘景整理上清启示传统的代表作。"
+  },
+  {
+    "id": "tao-hongjing-bencao-jing-jizhu",
+    "philosopherId": "tao-hongjing",
+    "titleZh": "《本草经集注》",
+    "titleEn": "Collected Commentaries on the Materia Medica",
+    "noteZh": "陶弘景医药知识整理代表作。"
+  },
+  {
+    "id": "lu-xiujing-sandong-jingmu",
+    "philosopherId": "lu-xiujing",
+    "titleZh": "《三洞经目》",
+    "titleEn": "Catalogue of the Three Caverns",
+    "noteZh": "陆修静道经目录传统代表作。"
+  },
+  {
+    "id": "lu-xiujing-daomen-kelue",
+    "philosopherId": "lu-xiujing",
+    "titleZh": "《道门科略》",
+    "titleEn": "Abridged Codes of the Daoist Community",
+    "noteZh": "陆修静道教科仪规范题名传统。"
+  },
+  {
+    "id": "kou-qianzhi-laojun-yinsong-jiejing",
+    "philosopherId": "kou-qianzhi",
+    "titleZh": "《老君音诵诫经》",
+    "titleEn": "Precept Scripture of Lord Lao",
+    "noteZh": "寇谦之新天师道戒律传统代表文本。"
+  },
+  {
+    "id": "cheng-xuanying-laozi-yishu",
+    "philosopherId": "cheng-xuanying",
+    "titleZh": "《老子义疏》",
+    "titleEn": "Subcommentary on the Laozi",
+    "noteZh": "成玄英老子注疏代表作。"
+  },
+  {
+    "id": "cheng-xuanying-zhuangzi-shu",
+    "philosopherId": "cheng-xuanying",
+    "titleZh": "《庄子疏》",
+    "titleEn": "Subcommentary on the Zhuangzi",
+    "noteZh": "成玄英庄子注疏代表作。"
+  },
+  {
+    "id": "dao-an-zongli-zhongjing-mulu",
+    "philosopherId": "dao-an",
+    "titleZh": "《综理众经目录》",
+    "titleEn": "Comprehensive Catalogue of Scriptures",
+    "noteZh": "道安佛典目录学代表作，今佚。"
+  },
+  {
+    "id": "dao-an-biography-gaosengzhuan",
+    "philosopherId": "dao-an",
+    "titleZh": "《高僧传》道安传",
+    "titleEn": "Biography of Dao An in Gaoseng Zhuan",
+    "noteZh": "保存道安生平和僧团活动的核心传记材料。"
+  },
+  {
+    "id": "huiyuan-shamen-bujing-wangzhe-lun",
+    "philosopherId": "huiyuan",
+    "titleZh": "《沙门不敬王者论》",
+    "titleEn": "Discourse on Monastics Not Bowing to Kings",
+    "noteZh": "慧远论证沙门宗教独立的代表作。"
+  },
+  {
+    "id": "huiyuan-dasheng-dayi-zhang",
+    "philosopherId": "huiyuan",
+    "titleZh": "《大乘大义章》",
+    "titleEn": "Chapters on the Great Meaning of the Mahayana",
+    "noteZh": "慧远与鸠摩罗什问答相关文本。"
+  },
+  {
+    "id": "daosheng-biography-gaosengzhuan",
+    "philosopherId": "daosheng",
+    "titleZh": "《高僧传》道生传",
+    "titleEn": "Biography of Daosheng in Gaoseng Zhuan",
+    "noteZh": "保存道生生平和义学争论的传记材料。"
+  },
+  {
+    "id": "daosheng-fahua-jingshu-fragments",
+    "philosopherId": "daosheng",
+    "titleZh": "《法华经疏》辑佚",
+    "titleEn": "Lotus Sutra commentary fragments",
+    "noteZh": "道生法华学传统题名材料。"
+  },
+  {
+    "id": "jizang-sanlun-xuanyi",
+    "philosopherId": "jizang",
+    "titleZh": "《三论玄义》",
+    "titleEn": "Profound Meaning of the Three Treatises",
+    "noteZh": "吉藏三论宗纲领性著作。"
+  },
+  {
+    "id": "jizang-zhongguanlun-shu",
+    "philosopherId": "jizang",
+    "titleZh": "《中观论疏》",
+    "titleEn": "Commentary on the Madhyamaka Treatise",
+    "noteZh": "吉藏中观注疏代表作。"
+  },
+  {
+    "id": "xuanzang-datang-xiyu-ji",
+    "philosopherId": "xuanzang",
+    "titleZh": "《大唐西域记》",
+    "titleEn": "Great Tang Records on the Western Regions",
+    "noteZh": "玄奘记录西行见闻和佛教地理的代表作。"
+  },
+  {
+    "id": "xuanzang-cheng-weishi-lun",
+    "philosopherId": "xuanzang",
+    "titleZh": "《成唯识论》",
+    "titleEn": "Cheng Weishi Lun",
+    "noteZh": "玄奘译编的唯识学核心文本。"
+  },
+  {
+    "id": "kuiji-cheng-weishi-lun-shuji",
+    "philosopherId": "kuiji",
+    "titleZh": "《成唯识论述记》",
+    "titleEn": "Notes on the Cheng Weishi Lun",
+    "noteZh": "窥基解释《成唯识论》的代表作。"
+  },
+  {
+    "id": "kuiji-dasheng-fayuan-yilin-zhang",
+    "philosopherId": "kuiji",
+    "titleZh": "《大乘法苑义林章》",
+    "titleEn": "Chapters on the Forest of Meanings in the Mahayana Dharma Garden",
+    "noteZh": "窥基法相宗义理总集。"
+  },
+  {
+    "id": "daoxuan-sifenlu-xingshi-chao",
+    "philosopherId": "daoxuan",
+    "titleZh": "《四分律删繁补阙行事钞》",
+    "titleEn": "Procedural Manual for the Dharmaguptaka Vinaya",
+    "noteZh": "道宣律学代表作。"
+  },
+  {
+    "id": "daoxuan-xu-gaoseng-zhuan",
+    "philosopherId": "daoxuan",
+    "titleZh": "《续高僧传》",
+    "titleEn": "Continued Biographies of Eminent Monks",
+    "noteZh": "道宣佛教史传代表作。"
+  },
+  {
+    "id": "tanluan-wangshenglun-zhu",
+    "philosopherId": "tanluan",
+    "titleZh": "《往生论注》",
+    "titleEn": "Commentary on the Treatise on Rebirth",
+    "noteZh": "昙鸾净土思想代表作。"
+  },
+  {
+    "id": "tanluan-luelun-anle-jingtu-yi",
+    "philosopherId": "tanluan",
+    "titleZh": "《略论安乐净土义》",
+    "titleEn": "Brief Discourse on the Pure Land of Peace and Bliss",
+    "noteZh": "昙鸾净土义理题名传统文本。"
+  },
+  {
+    "id": "shandao-guanjing-shu",
+    "philosopherId": "shandao",
+    "titleZh": "《观无量寿佛经疏》",
+    "titleEn": "Commentary on the Contemplation Sutra",
+    "noteZh": "善导净土思想代表作。"
+  },
+  {
+    "id": "shandao-fashi-zan",
+    "philosopherId": "shandao",
+    "titleZh": "《法事赞》",
+    "titleEn": "Hymns for Ritual Service",
+    "noteZh": "善导净土礼赞文献。"
+  },
+  {
+    "id": "zongmi-chanyuan-zhuquanji-duxu",
+    "philosopherId": "zongmi",
+    "titleZh": "《禅源诸诠集都序》",
+    "titleEn": "Preface to the Collection of Explanations on the Source of Chan",
+    "noteZh": "宗密会通禅教的纲领性著作。"
+  },
+  {
+    "id": "zongmi-yuanren-lun",
+    "philosopherId": "zongmi",
+    "titleZh": "《原人论》",
+    "titleEn": "Inquiry into the Origin of Humanity",
+    "noteZh": "宗密比较儒释道并阐明佛教人论的代表作。"
+  },
+  {
+    "id": "yanshou-zongjing-lu",
+    "philosopherId": "yanshou",
+    "titleZh": "《宗镜录》",
+    "titleEn": "Records of the Source-Mirror",
+    "noteZh": "延寿综合禅教诸宗的百科式著作。"
+  },
+  {
+    "id": "yanshou-wanshan-tonggui-ji",
+    "philosopherId": "yanshou",
+    "titleZh": "《万善同归集》",
+    "titleEn": "Collection on the Common End of Myriad Good Deeds",
+    "noteZh": "延寿会通诸善和一心修行的文本。"
+  },
+  {
+    "id": "han-yu-yuandao",
+    "philosopherId": "han-yu",
+    "titleZh": "《原道》",
+    "titleEn": "Inquiry into the Way",
+    "noteZh": "韩愈重申儒家道统并批评佛老的代表作。"
+  },
+  {
+    "id": "han-yu-shishuo",
+    "philosopherId": "han-yu",
+    "titleZh": "《师说》",
+    "titleEn": "On Teachers",
+    "noteZh": "韩愈论传道授业的名篇。"
+  },
+  {
+    "id": "li-ao-fuxing-shu",
+    "philosopherId": "li-ao",
+    "titleZh": "《复性书》",
+    "titleEn": "Book on Recovering the Nature",
+    "noteZh": "李翱心性修养代表作。"
+  },
+  {
+    "id": "liu-zongyuan-tianshuo",
+    "philosopherId": "liu-zongyuan",
+    "titleZh": "《天说》",
+    "titleEn": "Discourse on Heaven",
+    "noteZh": "柳宗元天人关系论代表作。"
+  },
+  {
+    "id": "liu-zongyuan-fengjian-lun",
+    "philosopherId": "liu-zongyuan",
+    "titleZh": "《封建论》",
+    "titleEn": "Discourse on Feudal Enfeoffment",
+    "noteZh": "柳宗元政治制度论代表作。"
+  },
+  {
+    "id": "li-gou-zhouli-zhi-taiping-lun",
+    "philosopherId": "li-gou",
+    "titleZh": "《周礼致太平论》",
+    "titleEn": "Discourse on the Zhouli and Great Peace",
+    "noteZh": "李觏经世制度论代表作。"
+  },
+  {
+    "id": "li-gou-li-lun",
+    "philosopherId": "li-gou",
+    "titleZh": "《礼论》",
+    "titleEn": "Discourse on Rites",
+    "noteZh": "李觏礼制思想文本。"
+  },
+  {
+    "id": "hu-yuan-zhouyi-kouyi",
+    "philosopherId": "hu-yuan",
+    "titleZh": "《周易口义》",
+    "titleEn": "Oral Meanings of the Zhouyi",
+    "noteZh": "胡瑗易学讲义题名传统。"
+  },
+  {
+    "id": "hu-yuan-hongfan-kouyi",
+    "philosopherId": "hu-yuan",
+    "titleZh": "《洪范口义》",
+    "titleEn": "Oral Meanings of the Hongfan",
+    "noteZh": "胡瑗经学讲义题名传统。"
+  },
+  {
+    "id": "shao-yong-huangji-jingshi",
+    "philosopherId": "shao-yong",
+    "titleZh": "《皇极经世》",
+    "titleEn": "Supreme Principles Governing the World",
+    "noteZh": "邵雍象数宇宙论代表作。"
+  },
+  {
+    "id": "shao-yong-guanwu-neiwai-pian",
+    "philosopherId": "shao-yong",
+    "titleZh": "《观物内外篇》",
+    "titleEn": "Inner and Outer Chapters on Observing Things",
+    "noteZh": "邵雍观物思想文本。"
+  },
+  {
+    "id": "sima-guang-zizhi-tongjian",
+    "philosopherId": "sima-guang",
+    "titleZh": "《资治通鉴》",
+    "titleEn": "Comprehensive Mirror for Aid in Government",
+    "noteZh": "司马光编年体通史代表作。"
+  },
+  {
+    "id": "sima-guang-qianxu",
+    "philosopherId": "sima-guang",
+    "titleZh": "《潜虚》",
+    "titleEn": "Qianxu",
+    "noteZh": "司马光象数和秩序论文本。"
+  },
+  {
+    "id": "su-shi-dongpo-yizhuan",
+    "philosopherId": "su-shi",
+    "titleZh": "《东坡易传》",
+    "titleEn": "Dongpo Commentary on the Changes",
+    "noteZh": "苏轼易学解释代表作。"
+  },
+  {
+    "id": "su-shi-wenji",
+    "philosopherId": "su-shi",
+    "titleZh": "《苏轼文集》",
+    "titleEn": "Collected Writings of Su Shi",
+    "noteZh": "苏轼诗文、政论和思想材料总集。"
+  },
+  {
+    "id": "luo-congyan-yuzhang-wenji",
+    "philosopherId": "luo-congyan",
+    "titleZh": "《豫章文集》",
+    "titleEn": "Yuzhang Collected Writings",
+    "noteZh": "罗从彦文集题名传统。"
+  },
+  {
+    "id": "luo-congyan-zunyao-lu",
+    "philosopherId": "luo-congyan",
+    "titleZh": "《遵尧录》",
+    "titleEn": "Zunyao Lu",
+    "noteZh": "罗从彦理学言行材料题名传统。"
+  },
+  {
+    "id": "hu-hong-zhiyan",
+    "philosopherId": "hu-hong",
+    "titleZh": "《知言》",
+    "titleEn": "Knowing Words",
+    "noteZh": "胡宏湖湘学派代表作。"
+  },
+  {
+    "id": "hu-hong-huangwang-daji",
+    "philosopherId": "hu-hong",
+    "titleZh": "《皇王大纪》",
+    "titleEn": "Great Records of Emperors and Kings",
+    "noteZh": "胡宏历史政治著作。"
+  },
+  {
+    "id": "zhang-shi-nanxuan-ji",
+    "philosopherId": "zhang-shi",
+    "titleZh": "《南轩集》",
+    "titleEn": "Nanxuan Collected Writings",
+    "noteZh": "张栻文集。"
+  },
+  {
+    "id": "zhang-shi-lunyu-jie",
+    "philosopherId": "zhang-shi",
+    "titleZh": "《论语解》",
+    "titleEn": "Explanation of the Analects",
+    "noteZh": "张栻经学解释题名传统。"
+  },
+  {
+    "id": "chen-liang-longchuan-wenji",
+    "philosopherId": "chen-liang",
+    "titleZh": "《龙川文集》",
+    "titleEn": "Longchuan Collected Writings",
+    "noteZh": "陈亮文集，保存事功政论和朱陈论辩材料。"
+  },
+  {
+    "id": "ye-shi-xixue-jiyan-xumu",
+    "philosopherId": "ye-shi",
+    "titleZh": "《习学记言序目》",
+    "titleEn": "Prefatory Catalogue of Recorded Words on Learning",
+    "noteZh": "叶适学术史和经史评论代表作。"
+  },
+  {
+    "id": "ye-shi-shuixin-wenji",
+    "philosopherId": "ye-shi",
+    "titleZh": "《水心文集》",
+    "titleEn": "Shuixin Collected Writings",
+    "noteZh": "叶适文集。"
+  },
+  {
+    "id": "wu-cheng-liji-zuanyan",
+    "philosopherId": "wu-cheng",
+    "titleZh": "《礼记纂言》",
+    "titleEn": "Collected Explanations on the Liji",
+    "noteZh": "吴澄礼学经解代表作。"
+  },
+  {
+    "id": "wu-cheng-wuwenzheng-ji",
+    "philosopherId": "wu-cheng",
+    "titleZh": "《吴文正集》",
+    "titleEn": "Collected Works of Wu Wenzheng",
+    "noteZh": "吴澄文集。"
+  },
+  {
+    "id": "xu-heng-luzhai-yishu",
+    "philosopherId": "xu-heng",
+    "titleZh": "《鲁斋遗书》",
+    "titleEn": "Posthumous Writings of Luzhai",
+    "noteZh": "许衡文集和讲学材料。"
+  },
+  {
+    "id": "xu-heng-daxue-zhijie",
+    "philosopherId": "xu-heng",
+    "titleZh": "《大学直解》",
+    "titleEn": "Direct Explanation of the Great Learning",
+    "noteZh": "许衡大学解释题名传统。"
+  },
+  {
+    "id": "wu-yubi-kangzhai-ji",
+    "philosopherId": "wu-yubi",
+    "titleZh": "《康斋集》",
+    "titleEn": "Kangzhai Collection",
+    "noteZh": "吴与弼诗文和讲学材料。"
+  },
+  {
+    "id": "chen-xianzhang-baishazi-quanji",
+    "philosopherId": "chen-xianzhang",
+    "titleZh": "《白沙子全集》",
+    "titleEn": "Complete Works of Master Baisha",
+    "noteZh": "陈献章文集。"
+  },
+  {
+    "id": "xue-xuan-dushu-lu",
+    "philosopherId": "xue-xuan",
+    "titleZh": "《读书录》",
+    "titleEn": "Record of Reading",
+    "noteZh": "薛瑄理学札记代表作。"
+  },
+  {
+    "id": "xue-xuan-xuewenqing-ji",
+    "philosopherId": "xue-xuan",
+    "titleZh": "《薛文清集》",
+    "titleEn": "Collected Works of Xue Wenqing",
+    "noteZh": "薛瑄文集。"
+  },
+  {
+    "id": "luo-qinshun-kunzhi-ji",
+    "philosopherId": "luo-qinshun",
+    "titleZh": "《困知记》",
+    "titleEn": "Record of Knowledge Won through Difficulty",
+    "noteZh": "罗钦顺理气论代表作。"
+  },
+  {
+    "id": "wang-tingxiang-shenyan",
+    "philosopherId": "wang-tingxiang",
+    "titleZh": "《慎言》",
+    "titleEn": "Careful Words",
+    "noteZh": "王廷相思想代表作。"
+  },
+  {
+    "id": "wang-tingxiang-yashu",
+    "philosopherId": "wang-tingxiang",
+    "titleZh": "《雅述》",
+    "titleEn": "Elegant Expositions",
+    "noteZh": "王廷相论学文本。"
+  },
+  {
+    "id": "zhan-ruoshui-ganquan-ji",
+    "philosopherId": "zhan-ruoshui",
+    "titleZh": "《甘泉集》",
+    "titleEn": "Ganquan Collection",
+    "noteZh": "湛若水文集。"
+  },
+  {
+    "id": "zhan-ruoshui-xinxing-tushuo",
+    "philosopherId": "zhan-ruoshui",
+    "titleZh": "《心性图说》",
+    "titleEn": "Illustrated Explanation of Mind and Nature",
+    "noteZh": "湛若水心性论题名传统。"
+  },
+  {
+    "id": "wang-gen-wang-xinzhai-yiji",
+    "philosopherId": "wang-gen",
+    "titleZh": "《王心斋先生遗集》",
+    "titleEn": "Posthumous Works of Master Wang Xinzhai",
+    "noteZh": "王艮讲学和思想材料。"
+  },
+  {
+    "id": "luo-rufang-jinxi-quanji",
+    "philosopherId": "luo-rufang",
+    "titleZh": "《罗近溪先生全集》",
+    "titleEn": "Complete Works of Master Luo Jinxi",
+    "noteZh": "罗汝芳语录、书札和讲学材料汇编。"
+  },
+  {
+    "id": "li-zhi-fen-shu",
+    "philosopherId": "li-zhi",
+    "titleZh": "《焚书》",
+    "titleEn": "A Book to Burn",
+    "noteZh": "李贽代表性批判文集。"
+  },
+  {
+    "id": "li-zhi-cang-shu",
+    "philosopherId": "li-zhi",
+    "titleZh": "《藏书》",
+    "titleEn": "A Book to Hide",
+    "noteZh": "李贽史论和人物评价著作。"
+  },
+  {
+    "id": "gu-xiancheng-guduanwengong-yishu",
+    "philosopherId": "gu-xiancheng",
+    "titleZh": "《顾端文公遗书》",
+    "titleEn": "Posthumous Writings of Gu Duanwen",
+    "noteZh": "顾宪成讲学和政论材料。"
+  },
+  {
+    "id": "gu-xiancheng-donglin-huiyue",
+    "philosopherId": "gu-xiancheng",
+    "titleZh": "《东林会约》",
+    "titleEn": "Donglin Association Compact",
+    "noteZh": "东林讲学和结社规范相关文本。"
+  },
+  {
+    "id": "gao-panlong-gaozi-yishu",
+    "philosopherId": "gao-panlong",
+    "titleZh": "《高子遗书》",
+    "titleEn": "Posthumous Writings of Master Gao",
+    "noteZh": "高攀龙讲学和书札材料。"
+  },
+  {
+    "id": "gao-panlong-kunxue-ji",
+    "philosopherId": "gao-panlong",
+    "titleZh": "《困学记》",
+    "titleEn": "Record of Difficult Learning",
+    "noteZh": "高攀龙修养札记题名传统。"
+  },
+  {
+    "id": "liu-zongzhou-renpu",
+    "philosopherId": "liu-zongzhou",
+    "titleZh": "《人谱》",
+    "titleEn": "Genealogy of Humanity",
+    "noteZh": "刘宗周慎独和过恶工夫代表作。"
+  },
+  {
+    "id": "liu-zongzhou-liuzi-quanshu",
+    "philosopherId": "liu-zongzhou",
+    "titleZh": "《刘子全书》",
+    "titleEn": "Complete Works of Master Liu",
+    "noteZh": "刘宗周文集和讲学材料总汇。"
+  },
+  {
+    "id": "huang-zongxi-mingyi-daifang-lu",
+    "philosopherId": "huang-zongxi",
+    "titleZh": "《明夷待访录》",
+    "titleEn": "Waiting for the Dawn",
+    "noteZh": "黄宗羲政治批判代表作。"
+  },
+  {
+    "id": "huang-zongxi-mingru-xuean",
+    "philosopherId": "huang-zongxi",
+    "titleZh": "《明儒学案》",
+    "titleEn": "Records of Ming Scholars",
+    "noteZh": "黄宗羲学案体思想史代表作。"
+  },
+  {
+    "id": "gu-yanwu-rizhi-lu",
+    "philosopherId": "gu-yanwu",
+    "titleZh": "《日知录》",
+    "titleEn": "Record of Daily Knowledge",
+    "noteZh": "顾炎武札记体经史考证与政论代表作。"
+  },
+  {
+    "id": "gu-yanwu-tianxia-junguo-libing-shu",
+    "philosopherId": "gu-yanwu",
+    "titleZh": "《天下郡国利病书》",
+    "titleEn": "Advantages and Problems of the Commanderies and States",
+    "noteZh": "顾炎武地理制度调查著作。"
+  },
+  {
+    "id": "fang-yizhi-wuli-xiaoshi",
+    "philosopherId": "fang-yizhi",
+    "titleZh": "《物理小识》",
+    "titleEn": "Small Encyclopaedia of the Principles of Things",
+    "noteZh": "方以智自然知识和博物著作。"
+  },
+  {
+    "id": "fang-yizhi-dongxi-jun",
+    "philosopherId": "fang-yizhi",
+    "titleZh": "《东西均》",
+    "titleEn": "Equalizing East and West",
+    "noteZh": "方以智会通儒释道和知识分类的著作。"
+  },
+  {
+    "id": "chen-que-daxue-bian",
+    "philosopherId": "chen-que",
+    "titleZh": "《大学辨》",
+    "titleEn": "Critique of the Great Learning",
+    "noteZh": "陈确质疑《大学》传统解释的代表作。"
+  },
+  {
+    "id": "chen-que-ji",
+    "philosopherId": "chen-que",
+    "titleZh": "《陈确集》",
+    "titleEn": "Collected Works of Chen Que",
+    "noteZh": "陈确文集。"
+  },
+  {
+    "id": "tang-zhen-qianshu",
+    "philosopherId": "tang-zhen",
+    "titleZh": "《潜书》",
+    "titleEn": "Hidden Book",
+    "noteZh": "唐甄政治批判代表作。"
+  },
+  {
+    "id": "yan-yuan-qing-cunxue-bian",
+    "philosopherId": "yan-yuan-qing",
+    "titleZh": "《存学编》",
+    "titleEn": "Essays Preserving Learning",
+    "noteZh": "颜元实学代表作。"
+  },
+  {
+    "id": "yan-yuan-qing-cunxing-bian",
+    "philosopherId": "yan-yuan-qing",
+    "titleZh": "《存性编》",
+    "titleEn": "Essays Preserving Nature",
+    "noteZh": "颜元心性和实践修养文本。"
+  },
+  {
+    "id": "li-gong-qing-lishugu-ji",
+    "philosopherId": "li-gong-qing",
+    "titleZh": "《李恕谷集》",
+    "titleEn": "Collected Works of Li Shugu",
+    "noteZh": "李塨文集。"
+  },
+  {
+    "id": "li-gong-qing-lunyu-zhuanzhu-wen",
+    "philosopherId": "li-gong-qing",
+    "titleZh": "《论语传注问》",
+    "titleEn": "Questions on Analects Commentaries",
+    "noteZh": "李塨经学问答文本。"
+  },
+  {
+    "id": "lu-longqi-sanyutang-wenji",
+    "philosopherId": "lu-longqi",
+    "titleZh": "《三鱼堂文集》",
+    "titleEn": "Sanyutang Collected Writings",
+    "noteZh": "陆陇其文集。"
+  },
+  {
+    "id": "lu-longqi-songyang-jiangyi",
+    "philosopherId": "lu-longqi",
+    "titleZh": "《松阳讲义》",
+    "titleEn": "Songyang Lectures",
+    "noteZh": "陆陇其讲学材料。"
+  },
+  {
+    "id": "mao-qiling-jingwen",
+    "philosopherId": "mao-qiling",
+    "titleZh": "《经问》",
+    "titleEn": "Questions on the Classics",
+    "noteZh": "毛奇龄经学问答代表作。"
+  },
+  {
+    "id": "mao-qiling-sishu-gaicuo",
+    "philosopherId": "mao-qiling",
+    "titleZh": "《四书改错》",
+    "titleEn": "Corrections to the Four Books",
+    "noteZh": "毛奇龄批评四书旧说的著作。"
+  },
+  {
+    "id": "zhang-xuecheng-wenshi-tongyi",
+    "philosopherId": "zhang-xuecheng",
+    "titleZh": "《文史通义》",
+    "titleEn": "General Principles of Literature and History",
+    "noteZh": "章学诚史学理论代表作。"
+  },
+  {
+    "id": "zhang-xuecheng-jiaochou-tongyi",
+    "philosopherId": "zhang-xuecheng",
+    "titleZh": "《校雠通义》",
+    "titleEn": "General Principles of Bibliographical Collation",
+    "noteZh": "章学诚目录校雠理论著作。"
+  },
+  {
+    "id": "cui-shu-kaoxin-lu",
+    "philosopherId": "cui-shu",
+    "titleZh": "《考信录》",
+    "titleEn": "Record of Testing Credibility",
+    "noteZh": "崔述古史考辨代表作。"
+  },
+  {
+    "id": "ruan-yuan-jingji-zuangu",
+    "philosopherId": "ruan-yuan",
+    "titleZh": "《经籍纂诂》",
+    "titleEn": "Collected Glosses on the Classics",
+    "noteZh": "阮元组织编纂的训诂总集。"
+  },
+  {
+    "id": "ruan-yuan-yanjingshi-ji",
+    "philosopherId": "ruan-yuan",
+    "titleZh": "《揅经室集》",
+    "titleEn": "Yanjingshi Collection",
+    "noteZh": "阮元文集和学术材料。"
+  },
+  {
+    "id": "jiao-xun-mengzi-zhengyi",
+    "philosopherId": "jiao-xun",
+    "titleZh": "《孟子正义》",
+    "titleEn": "Correct Meaning of the Mencius",
+    "noteZh": "焦循孟子学代表作。"
+  },
+  {
+    "id": "jiao-xun-yi-tongshi",
+    "philosopherId": "jiao-xun",
+    "titleZh": "《易通释》",
+    "titleEn": "Comprehensive Explanation of the Changes",
+    "noteZh": "焦循易学代表作。"
+  },
+  {
+    "id": "gong-zizhen-mingliang-lun",
+    "philosopherId": "gong-zizhen",
+    "titleZh": "《明良论》",
+    "titleEn": "Discourse on Enlightened Rulers and Good Ministers",
+    "noteZh": "龚自珍政治批判代表作。"
+  },
+  {
+    "id": "gong-zizhen-jihaizashi",
+    "philosopherId": "gong-zizhen",
+    "titleZh": "《己亥杂诗》",
+    "titleEn": "Miscellaneous Poems of 1839",
+    "noteZh": "龚自珍晚年诗作，保存时代批判和个人精神。"
+  },
+  {
+    "id": "wei-yuan-haiguo-tuzhi",
+    "philosopherId": "wei-yuan",
+    "titleZh": "《海国图志》",
+    "titleEn": "Illustrated Treatise on the Maritime Kingdoms",
+    "noteZh": "魏源世界地理和海防知识代表作。"
+  },
+  {
+    "id": "wei-yuan-shengwu-ji",
+    "philosopherId": "wei-yuan",
+    "titleZh": "《圣武记》",
+    "titleEn": "Record of Imperial Military Achievements",
+    "noteZh": "魏源军事和边疆史著作。"
+  },
+  {
+    "id": "franz-brentano-psychology-empirical-standpoint",
+    "philosopherId": "franz-brentano",
+    "titleZh": "《从经验立场出发的心理学》",
+    "titleEn": "Psychology from an Empirical Standpoint",
+    "yearDisplay": "1874",
+    "noteZh": "弗朗茨·布伦塔诺身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "franz-brentano-several-senses-being",
+    "philosopherId": "franz-brentano",
+    "titleZh": "《论亚里士多德所谓存在的多重意义》",
+    "titleEn": "On the Several Senses of Being in Aristotle",
+    "yearDisplay": "1862",
+    "noteZh": "弗朗茨·布伦塔诺身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "alexius-meinong-on-assumptions",
+    "philosopherId": "alexius-meinong",
+    "titleZh": "《论假设》",
+    "titleEn": "On Assumptions",
+    "yearDisplay": "1902",
+    "noteZh": "阿莱克修斯·迈农身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "alexius-meinong-theory-of-objects",
+    "philosopherId": "alexius-meinong",
+    "titleZh": "《对象论》",
+    "titleEn": "Theory of Objects",
+    "yearDisplay": "1904",
+    "noteZh": "阿莱克修斯·迈农身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "ernst-cassirer-philosophy-symbolic-forms",
+    "philosopherId": "ernst-cassirer",
+    "titleZh": "《符号形式哲学》",
+    "titleEn": "The Philosophy of Symbolic Forms",
+    "yearDisplay": "1923—1929",
+    "noteZh": "恩斯特·卡西尔身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "ernst-cassirer-substance-function",
+    "philosopherId": "ernst-cassirer",
+    "titleZh": "《实体与功能》",
+    "titleEn": "Substance and Function",
+    "yearDisplay": "1910",
+    "noteZh": "恩斯特·卡西尔身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "josiah-royce-world-and-individual",
+    "philosopherId": "josiah-royce",
+    "titleZh": "《世界与个人》",
+    "titleEn": "The World and the Individual",
+    "yearDisplay": "1899—1901",
+    "noteZh": "乔赛亚·罗伊斯身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "josiah-royce-problem-of-christianity",
+    "philosopherId": "josiah-royce",
+    "titleZh": "《基督教问题》",
+    "titleEn": "The Problem of Christianity",
+    "yearDisplay": "1913",
+    "noteZh": "乔赛亚·罗伊斯身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "george-santayana-life-of-reason",
+    "philosopherId": "george-santayana",
+    "titleZh": "《理性生活》",
+    "titleEn": "The Life of Reason",
+    "yearDisplay": "1905—1906",
+    "noteZh": "乔治·桑塔亚那身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "george-santayana-sense-of-beauty",
+    "philosopherId": "george-santayana",
+    "titleZh": "《美感》",
+    "titleEn": "The Sense of Beauty",
+    "yearDisplay": "1896",
+    "noteZh": "乔治·桑塔亚那身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "fh-bradley-appearance-and-reality",
+    "philosopherId": "fh-bradley",
+    "titleZh": "《现象与实在》",
+    "titleEn": "Appearance and Reality",
+    "yearDisplay": "1893",
+    "noteZh": "弗朗西斯·赫伯特·布拉德利身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "fh-bradley-ethical-studies",
+    "philosopherId": "fh-bradley",
+    "titleZh": "《伦理学研究》",
+    "titleEn": "Ethical Studies",
+    "yearDisplay": "1876",
+    "noteZh": "弗朗西斯·赫伯特·布拉德利身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "th-green-prolegomena-to-ethics",
+    "philosopherId": "th-green",
+    "titleZh": "《伦理学导论》",
+    "titleEn": "Prolegomena to Ethics",
+    "yearDisplay": "1883",
+    "noteZh": "托马斯·希尔·格林身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "th-green-political-obligation",
+    "philosopherId": "th-green",
+    "titleZh": "《政治义务原则讲演》",
+    "titleEn": "Lectures on the Principles of Political Obligation",
+    "yearDisplay": "1885",
+    "noteZh": "托马斯·希尔·格林身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "henry-sidgwick-methods-of-ethics",
+    "philosopherId": "henry-sidgwick",
+    "titleZh": "《伦理学方法》",
+    "titleEn": "The Methods of Ethics",
+    "yearDisplay": "1874",
+    "noteZh": "亨利·西季威克身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "georg-simmel-philosophy-of-money",
+    "philosopherId": "georg-simmel",
+    "titleZh": "《货币哲学》",
+    "titleEn": "The Philosophy of Money",
+    "yearDisplay": "1900",
+    "noteZh": "格奥尔格·齐美尔身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "georg-simmel-problems-philosophy-history",
+    "philosopherId": "georg-simmel",
+    "titleZh": "《历史哲学问题》",
+    "titleEn": "Problems of the Philosophy of History",
+    "yearDisplay": "1892",
+    "noteZh": "格奥尔格·齐美尔身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "max-scheler-formalism-in-ethics",
+    "philosopherId": "max-scheler",
+    "titleZh": "《伦理学中的形式主义与非形式价值伦理学》",
+    "titleEn": "Formalism in Ethics and Non-Formal Ethics of Values",
+    "yearDisplay": "1913—1916",
+    "noteZh": "马克斯·舍勒身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "max-scheler-nature-of-sympathy",
+    "philosopherId": "max-scheler",
+    "titleZh": "《同情的本质》",
+    "titleEn": "The Nature of Sympathy",
+    "yearDisplay": "1913/1923",
+    "noteZh": "马克斯·舍勒身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "gabriel-marcel-mystery-of-being",
+    "philosopherId": "gabriel-marcel",
+    "titleZh": "《存在的奥秘》",
+    "titleEn": "The Mystery of Being",
+    "yearDisplay": "1951",
+    "noteZh": "加布里埃尔·马塞尔身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "gabriel-marcel-being-and-having",
+    "philosopherId": "gabriel-marcel",
+    "titleZh": "《存在与拥有》",
+    "titleEn": "Being and Having",
+    "yearDisplay": "1935",
+    "noteZh": "加布里埃尔·马塞尔身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "jose-ortega-y-gasset-revolt-of-the-masses",
+    "philosopherId": "jose-ortega-y-gasset",
+    "titleZh": "《大众的反叛》",
+    "titleEn": "The Revolt of the Masses",
+    "yearDisplay": "1930",
+    "noteZh": "何塞·奥尔特加-伊-加塞特身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "jose-ortega-y-gasset-meditations-on-quixote",
+    "philosopherId": "jose-ortega-y-gasset",
+    "titleZh": "《堂吉诃德沉思录》",
+    "titleEn": "Meditations on Quixote",
+    "yearDisplay": "1914",
+    "noteZh": "何塞·奥尔特加-伊-加塞特身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "miguel-de-unamuno-tragic-sense-of-life",
+    "philosopherId": "miguel-de-unamuno",
+    "titleZh": "《人生的悲剧感》",
+    "titleEn": "The Tragic Sense of Life",
+    "yearDisplay": "1913",
+    "noteZh": "米格尔·德·乌纳穆诺身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "miguel-de-unamuno-agony-of-christianity",
+    "philosopherId": "miguel-de-unamuno",
+    "titleZh": "《基督教的痛苦》",
+    "titleEn": "The Agony of Christianity",
+    "yearDisplay": "1925",
+    "noteZh": "米格尔·德·乌纳穆诺身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "giovanni-gentile-theory-of-mind-pure-act",
+    "philosopherId": "giovanni-gentile",
+    "titleZh": "《作为纯粹行动的心灵理论》",
+    "titleEn": "The Theory of Mind as Pure Act",
+    "yearDisplay": "1916",
+    "noteZh": "乔瓦尼·金蒂莱身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "giovanni-gentile-genesis-structure-society",
+    "philosopherId": "giovanni-gentile",
+    "titleZh": "《社会的发生与结构》",
+    "titleEn": "Genesis and Structure of Society",
+    "yearDisplay": "1946",
+    "noteZh": "乔瓦尼·金蒂莱身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "rg-collingwood-idea-of-history",
+    "philosopherId": "rg-collingwood",
+    "titleZh": "《历史的观念》",
+    "titleEn": "The Idea of History",
+    "yearDisplay": "1946",
+    "noteZh": "罗宾·乔治·柯林伍德身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "rg-collingwood-essay-on-metaphysics",
+    "philosopherId": "rg-collingwood",
+    "titleZh": "《形而上学论稿》",
+    "titleEn": "An Essay on Metaphysics",
+    "yearDisplay": "1940",
+    "noteZh": "罗宾·乔治·柯林伍德身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "michael-oakeshott-experience-and-its-modes",
+    "philosopherId": "michael-oakeshott",
+    "titleZh": "《经验及其模式》",
+    "titleEn": "Experience and Its Modes",
+    "yearDisplay": "1933",
+    "noteZh": "迈克尔·奥克肖特身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "michael-oakeshott-rationalism-in-politics",
+    "philosopherId": "michael-oakeshott",
+    "titleZh": "《政治中的理性主义》",
+    "titleEn": "Rationalism in Politics",
+    "yearDisplay": "1962",
+    "noteZh": "迈克尔·奥克肖特身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "gilbert-ryle-concept-of-mind",
+    "philosopherId": "gilbert-ryle",
+    "titleZh": "《心的概念》",
+    "titleEn": "The Concept of Mind",
+    "yearDisplay": "1949",
+    "noteZh": "吉尔伯特·赖尔身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "jl-austin-how-to-do-things-with-words",
+    "philosopherId": "jl-austin",
+    "titleZh": "《如何以言行事》",
+    "titleEn": "How to Do Things with Words",
+    "yearDisplay": "1962",
+    "noteZh": "约翰·兰肖·奥斯汀身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "jl-austin-sense-and-sensibilia",
+    "philosopherId": "jl-austin",
+    "titleZh": "《感觉与可感物》",
+    "titleEn": "Sense and Sensibilia",
+    "yearDisplay": "1962",
+    "noteZh": "约翰·兰肖·奥斯汀身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "pf-strawson-individuals",
+    "philosopherId": "pf-strawson",
+    "titleZh": "《个体》",
+    "titleEn": "Individuals",
+    "yearDisplay": "1959",
+    "noteZh": "彼得·弗雷德里克·斯特劳森身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "pf-strawson-bounds-of-sense",
+    "philosopherId": "pf-strawson",
+    "titleZh": "《意义的界限》",
+    "titleEn": "The Bounds of Sense",
+    "yearDisplay": "1966",
+    "noteZh": "彼得·弗雷德里克·斯特劳森身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "michael-dummett-frege-philosophy-of-language",
+    "philosopherId": "michael-dummett",
+    "titleZh": "《弗雷格：语言哲学》",
+    "titleEn": "Frege: Philosophy of Language",
+    "yearDisplay": "1973",
+    "noteZh": "迈克尔·达米特身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "michael-dummett-logical-basis-of-metaphysics",
+    "philosopherId": "michael-dummett",
+    "titleZh": "《形而上学的逻辑基础》",
+    "titleEn": "The Logical Basis of Metaphysics",
+    "yearDisplay": "1991",
+    "noteZh": "迈克尔·达米特身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "thomas-nagel-what-is-it-like-to-be-a-bat",
+    "philosopherId": "thomas-nagel",
+    "titleZh": "《成为一只蝙蝠是什么样子》",
+    "titleEn": "What Is It Like to Be a Bat?",
+    "yearDisplay": "1974",
+    "noteZh": "托马斯·内格尔身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "thomas-nagel-view-from-nowhere",
+    "philosopherId": "thomas-nagel",
+    "titleZh": "《无处观点》",
+    "titleEn": "The View from Nowhere",
+    "yearDisplay": "1986",
+    "noteZh": "托马斯·内格尔身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "georges-sorel-reflections-on-violence",
+    "philosopherId": "georges-sorel",
+    "titleZh": "《暴力论》",
+    "titleEn": "Reflections on Violence",
+    "yearDisplay": "1908",
+    "noteZh": "乔治·索雷尔身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "nicolai-hartmann-new-ways-of-ontology",
+    "philosopherId": "nicolai-hartmann",
+    "titleZh": "《本体论的新道路》",
+    "titleEn": "New Ways of Ontology",
+    "yearDisplay": "1942",
+    "noteZh": "尼古拉·哈特曼身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "nicolai-hartmann-ethics",
+    "philosopherId": "nicolai-hartmann",
+    "titleZh": "《伦理学》",
+    "titleEn": "Ethics",
+    "yearDisplay": "1926",
+    "noteZh": "尼古拉·哈特曼身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "paul-natorp-platos-theory-of-ideas",
+    "philosopherId": "paul-natorp",
+    "titleZh": "《柏拉图的理念论》",
+    "titleEn": "Plato’s Theory of Ideas",
+    "yearDisplay": "1903",
+    "noteZh": "保罗·纳托普身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "paul-natorp-social-pedagogy",
+    "philosopherId": "paul-natorp",
+    "titleZh": "《社会教育学》",
+    "titleEn": "Social Pedagogy",
+    "yearDisplay": "1899",
+    "noteZh": "保罗·纳托普身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "wilhelm-windelband-history-and-natural-science",
+    "philosopherId": "wilhelm-windelband",
+    "titleZh": "《历史与自然科学》",
+    "titleEn": "History and Natural Science",
+    "yearDisplay": "1894",
+    "noteZh": "威廉·文德尔班身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "wilhelm-windelband-history-of-philosophy",
+    "philosopherId": "wilhelm-windelband",
+    "titleZh": "《哲学史》",
+    "titleEn": "A History of Philosophy",
+    "yearDisplay": "1892",
+    "noteZh": "威廉·文德尔班身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "heinrich-rickert-limits-concept-formation",
+    "philosopherId": "heinrich-rickert",
+    "titleZh": "《自然科学概念形成的界限》",
+    "titleEn": "The Limits of Concept Formation in Natural Science",
+    "yearDisplay": "1896—1902",
+    "noteZh": "海因里希·李凯尔特身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "heinrich-rickert-science-and-history",
+    "philosopherId": "heinrich-rickert",
+    "titleZh": "《科学与历史》",
+    "titleEn": "Science and History",
+    "yearDisplay": "1899",
+    "noteZh": "海因里希·李凯尔特身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "ernst-troeltsch-social-teaching-churches",
+    "philosopherId": "ernst-troeltsch",
+    "titleZh": "《基督教会的社会教义》",
+    "titleEn": "The Social Teaching of the Christian Churches",
+    "yearDisplay": "1912",
+    "noteZh": "恩斯特·特勒尔奇身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "ernst-troeltsch-absoluteness-of-christianity",
+    "philosopherId": "ernst-troeltsch",
+    "titleZh": "《基督教的绝对性与宗教史》",
+    "titleEn": "The Absoluteness of Christianity and the History of Religions",
+    "yearDisplay": "1902",
+    "noteZh": "恩斯特·特勒尔奇身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "maurice-blondel-action-1893",
+    "philosopherId": "maurice-blondel",
+    "titleZh": "《行动》",
+    "titleEn": "Action",
+    "yearDisplay": "1893",
+    "noteZh": "莫里斯·布隆代尔身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "maurice-blondel-history-and-dogma",
+    "philosopherId": "maurice-blondel",
+    "titleZh": "《历史与教义》",
+    "titleEn": "History and Dogma",
+    "yearDisplay": "1904",
+    "noteZh": "莫里斯·布隆代尔身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "ci-lewis-mind-and-world-order",
+    "philosopherId": "ci-lewis",
+    "titleZh": "《心灵与世界秩序》",
+    "titleEn": "Mind and the World Order",
+    "yearDisplay": "1929",
+    "noteZh": "克拉伦斯·欧文·刘易斯身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "ci-lewis-survey-symbolic-logic",
+    "philosopherId": "ci-lewis",
+    "titleZh": "《符号逻辑概览》",
+    "titleEn": "A Survey of Symbolic Logic",
+    "yearDisplay": "1918",
+    "noteZh": "克拉伦斯·欧文·刘易斯身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "frank-ramsey-foundations-of-mathematics",
+    "philosopherId": "frank-ramsey",
+    "titleZh": "《数学基础》",
+    "titleEn": "The Foundations of Mathematics",
+    "yearDisplay": "1931",
+    "noteZh": "弗兰克·拉姆齐身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "frank-ramsey-truth-and-probability",
+    "philosopherId": "frank-ramsey",
+    "titleZh": "《真理与概率》",
+    "titleEn": "Truth and Probability",
+    "yearDisplay": "1926",
+    "noteZh": "弗兰克·拉姆齐身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "susan-stebbing-modern-introduction-logic",
+    "philosopherId": "susan-stebbing",
+    "titleZh": "《现代逻辑导论》",
+    "titleEn": "A Modern Introduction to Logic",
+    "yearDisplay": "1930",
+    "noteZh": "苏珊·斯特宾身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "susan-stebbing-philosophy-and-physicists",
+    "philosopherId": "susan-stebbing",
+    "titleZh": "《哲学与物理学家》",
+    "titleEn": "Philosophy and the Physicists",
+    "yearDisplay": "1937",
+    "noteZh": "苏珊·斯特宾身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "cd-broad-mind-and-place-in-nature",
+    "philosopherId": "cd-broad",
+    "titleZh": "《心灵及其在自然中的位置》",
+    "titleEn": "The Mind and Its Place in Nature",
+    "yearDisplay": "1925",
+    "noteZh": "C. D. 布罗德身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "cd-broad-five-types-ethical-theory",
+    "philosopherId": "cd-broad",
+    "titleZh": "《五种伦理理论》",
+    "titleEn": "Five Types of Ethical Theory",
+    "yearDisplay": "1930",
+    "noteZh": "C. D. 布罗德身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "aj-ayer-language-truth-logic",
+    "philosopherId": "aj-ayer",
+    "titleZh": "《语言、真理与逻辑》",
+    "titleEn": "Language, Truth and Logic",
+    "yearDisplay": "1936",
+    "noteZh": "A. J. 艾耶尔身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "aj-ayer-problem-of-knowledge",
+    "philosopherId": "aj-ayer",
+    "titleZh": "《知识问题》",
+    "titleEn": "The Problem of Knowledge",
+    "yearDisplay": "1956",
+    "noteZh": "A. J. 艾耶尔身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "nelson-goodman-fact-fiction-forecast",
+    "philosopherId": "nelson-goodman",
+    "titleZh": "《事实、虚构与预测》",
+    "titleEn": "Fact, Fiction, and Forecast",
+    "yearDisplay": "1955",
+    "noteZh": "纳尔逊·古德曼身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "nelson-goodman-languages-of-art",
+    "philosopherId": "nelson-goodman",
+    "titleZh": "《艺术的语言》",
+    "titleEn": "Languages of Art",
+    "yearDisplay": "1968",
+    "noteZh": "纳尔逊·古德曼身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "david-armstrong-materialist-theory-mind",
+    "philosopherId": "david-armstrong",
+    "titleZh": "《心灵的唯物主义理论》",
+    "titleEn": "A Materialist Theory of the Mind",
+    "yearDisplay": "1968",
+    "noteZh": "大卫·阿姆斯特朗身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "david-armstrong-universals-opinionated-introduction",
+    "philosopherId": "david-armstrong",
+    "titleZh": "《共相：一种有立场的导论》",
+    "titleEn": "Universals: An Opinionated Introduction",
+    "yearDisplay": "1989",
+    "noteZh": "大卫·阿姆斯特朗身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "jjc-smart-philosophy-and-scientific-realism",
+    "philosopherId": "jjc-smart",
+    "titleZh": "《哲学与科学实在论》",
+    "titleEn": "Philosophy and Scientific Realism",
+    "yearDisplay": "1963",
+    "noteZh": "J. J. C. 斯马特身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "jjc-smart-ethics-persuasion-and-truth",
+    "philosopherId": "jjc-smart",
+    "titleZh": "《伦理学、劝服与真理》",
+    "titleEn": "Ethics, Persuasion and Truth",
+    "yearDisplay": "1984",
+    "noteZh": "J. J. C. 斯马特身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "ruth-barcan-marcus-functional-calculus-strict-implication",
+    "philosopherId": "ruth-barcan-marcus",
+    "titleZh": "《基于严格蕴涵的一阶函数演算》",
+    "titleEn": "A Functional Calculus of First Order Based on Strict Implication",
+    "yearDisplay": "1946",
+    "noteZh": "露丝·巴坎·马库斯身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "ruth-barcan-marcus-modalities",
+    "philosopherId": "ruth-barcan-marcus",
+    "titleZh": "《模态》",
+    "titleEn": "Modalities",
+    "yearDisplay": "1993",
+    "noteZh": "露丝·巴坎·马库斯身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "john-mcdowell-mind-and-world",
+    "philosopherId": "john-mcdowell",
+    "titleZh": "《心灵与世界》",
+    "titleEn": "Mind and World",
+    "yearDisplay": "1994",
+    "noteZh": "约翰·麦克道威尔身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "john-mcdowell-mind-value-reality",
+    "philosopherId": "john-mcdowell",
+    "titleZh": "《心灵、价值与实在》",
+    "titleEn": "Mind, Value, and Reality",
+    "yearDisplay": "1998",
+    "noteZh": "约翰·麦克道威尔身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "tyler-burge-individualism-and-the-mental",
+    "philosopherId": "tyler-burge",
+    "titleZh": "《个体主义与心理》",
+    "titleEn": "Individualism and the Mental",
+    "yearDisplay": "1979",
+    "noteZh": "泰勒·伯奇身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "tyler-burge-origins-of-objectivity",
+    "philosopherId": "tyler-burge",
+    "titleZh": "《客观性的起源》",
+    "titleEn": "Origins of Objectivity",
+    "yearDisplay": "2010",
+    "noteZh": "泰勒·伯奇身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "robert-brandom-making-it-explicit",
+    "philosopherId": "robert-brandom",
+    "titleZh": "《使之明示》",
+    "titleEn": "Making It Explicit",
+    "yearDisplay": "1994",
+    "noteZh": "罗伯特·布兰顿身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "robert-brandom-articulating-reasons",
+    "philosopherId": "robert-brandom",
+    "titleZh": "《阐明理由》",
+    "titleEn": "Articulating Reasons",
+    "yearDisplay": "2000",
+    "noteZh": "罗伯特·布兰顿身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "alvin-plantinga-nature-of-necessity",
+    "philosopherId": "alvin-plantinga",
+    "titleZh": "《必然性的本质》",
+    "titleEn": "The Nature of Necessity",
+    "yearDisplay": "1974",
+    "noteZh": "阿尔文·普兰廷加身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "alvin-plantinga-warranted-christian-belief",
+    "philosopherId": "alvin-plantinga",
+    "titleZh": "《有保证的基督教信念》",
+    "titleEn": "Warranted Christian Belief",
+    "yearDisplay": "2000",
+    "noteZh": "阿尔文·普兰廷加身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "richard-swinburne-existence-of-god",
+    "philosopherId": "richard-swinburne",
+    "titleZh": "《上帝的存在》",
+    "titleEn": "The Existence of God",
+    "yearDisplay": "1979",
+    "noteZh": "理查德·斯温伯恩身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "richard-swinburne-coherence-of-theism",
+    "philosopherId": "richard-swinburne",
+    "titleZh": "《有神论的融贯性》",
+    "titleEn": "The Coherence of Theism",
+    "yearDisplay": "1977",
+    "noteZh": "理查德·斯温伯恩身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "rm-hare-language-of-morals",
+    "philosopherId": "rm-hare",
+    "titleZh": "《道德语言》",
+    "titleEn": "The Language of Morals",
+    "yearDisplay": "1952",
+    "noteZh": "理查德·默文·黑尔身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "rm-hare-freedom-and-reason",
+    "philosopherId": "rm-hare",
+    "titleZh": "《自由与理性》",
+    "titleEn": "Freedom and Reason",
+    "yearDisplay": "1963",
+    "noteZh": "理查德·默文·黑尔身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "judith-jarvis-thomson-defense-of-abortion",
+    "philosopherId": "judith-jarvis-thomson",
+    "titleZh": "《为堕胎辩护》",
+    "titleEn": "A Defense of Abortion",
+    "yearDisplay": "1971",
+    "noteZh": "朱迪思·贾维斯·汤姆森身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "judith-jarvis-thomson-rights-restitution-risk",
+    "philosopherId": "judith-jarvis-thomson",
+    "titleZh": "《权利、补偿与风险》",
+    "titleEn": "Rights, Restitution, and Risk",
+    "yearDisplay": "1986",
+    "noteZh": "朱迪思·贾维斯·汤姆森身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "jane-addams-democracy-and-social-ethics",
+    "philosopherId": "jane-addams",
+    "titleZh": "《民主与社会伦理》",
+    "titleEn": "Democracy and Social Ethics",
+    "yearDisplay": "1902",
+    "noteZh": "简·亚当斯身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "jane-addams-twenty-years-hull-house",
+    "philosopherId": "jane-addams",
+    "titleZh": "《赫尔之家二十年》",
+    "titleEn": "Twenty Years at Hull-House",
+    "yearDisplay": "1910",
+    "noteZh": "简·亚当斯身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "alain-locke-new-negro",
+    "philosopherId": "alain-locke",
+    "titleZh": "《新黑人》",
+    "titleEn": "The New Negro",
+    "yearDisplay": "1925",
+    "noteZh": "阿兰·洛克身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "alain-locke-race-contacts-interracial-relations",
+    "philosopherId": "alain-locke",
+    "titleZh": "《种族接触与种族间关系》",
+    "titleEn": "Race Contacts and Interracial Relations",
+    "yearDisplay": "1916",
+    "noteZh": "阿兰·洛克身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "george-herbert-mead-mind-self-society",
+    "philosopherId": "george-herbert-mead",
+    "titleZh": "《心灵、自我与社会》",
+    "titleEn": "Mind, Self, and Society",
+    "yearDisplay": "1934",
+    "noteZh": "乔治·赫伯特·米德身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "george-herbert-mead-philosophy-of-the-present",
+    "philosopherId": "george-herbert-mead",
+    "titleZh": "《现在的哲学》",
+    "titleEn": "The Philosophy of the Present",
+    "yearDisplay": "1932",
+    "noteZh": "乔治·赫伯特·米德身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "leo-strauss-natural-right-and-history",
+    "philosopherId": "leo-strauss",
+    "titleZh": "《自然权利与历史》",
+    "titleEn": "Natural Right and History",
+    "yearDisplay": "1953",
+    "noteZh": "列奥·施特劳斯身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "leo-strauss-persecution-and-art-of-writing",
+    "philosopherId": "leo-strauss",
+    "titleZh": "《迫害与写作技艺》",
+    "titleEn": "Persecution and the Art of Writing",
+    "yearDisplay": "1952",
+    "noteZh": "列奥·施特劳斯身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "judith-shklar-legalism",
+    "philosopherId": "judith-shklar",
+    "titleZh": "《法律主义》",
+    "titleEn": "Legalism",
+    "yearDisplay": "1964",
+    "noteZh": "朱迪思·施克拉身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "judith-shklar-ordinary-vices",
+    "philosopherId": "judith-shklar",
+    "titleZh": "《普通恶》",
+    "titleEn": "Ordinary Vices",
+    "yearDisplay": "1984",
+    "noteZh": "朱迪思·施克拉身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "hans-jonas-imperative-of-responsibility",
+    "philosopherId": "hans-jonas",
+    "titleZh": "《责任原则》",
+    "titleEn": "The Imperative of Responsibility",
+    "yearDisplay": "1979",
+    "noteZh": "汉斯·约纳斯身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "hans-jonas-phenomenon-of-life",
+    "philosopherId": "hans-jonas",
+    "titleZh": "《生命现象》",
+    "titleEn": "The Phenomenon of Life",
+    "yearDisplay": "1966",
+    "noteZh": "汉斯·约纳斯身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "karl-lowith-meaning-in-history",
+    "philosopherId": "karl-lowith",
+    "titleZh": "《历史中的意义》",
+    "titleEn": "Meaning in History",
+    "yearDisplay": "1949",
+    "noteZh": "卡尔·洛维特身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "karl-lowith-from-hegel-to-nietzsche",
+    "philosopherId": "karl-lowith",
+    "titleZh": "《从黑格尔到尼采》",
+    "titleEn": "From Hegel to Nietzsche",
+    "yearDisplay": "1941",
+    "noteZh": "卡尔·洛维特身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "eric-voegelin-order-and-history",
+    "philosopherId": "eric-voegelin",
+    "titleZh": "《秩序与历史》",
+    "titleEn": "Order and History",
+    "yearDisplay": "1956—1987",
+    "noteZh": "埃里克·沃格林身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "eric-voegelin-new-science-of-politics",
+    "philosopherId": "eric-voegelin",
+    "titleZh": "《政治的新科学》",
+    "titleEn": "The New Science of Politics",
+    "yearDisplay": "1952",
+    "noteZh": "埃里克·沃格林身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "jacques-maritain-integral-humanism",
+    "philosopherId": "jacques-maritain",
+    "titleZh": "《整体人文主义》",
+    "titleEn": "Integral Humanism",
+    "yearDisplay": "1936",
+    "noteZh": "雅克·马里坦身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "jacques-maritain-degrees-of-knowledge",
+    "philosopherId": "jacques-maritain",
+    "titleZh": "《知识的等级》",
+    "titleEn": "The Degrees of Knowledge",
+    "yearDisplay": "1932",
+    "noteZh": "雅克·马里坦身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "alexandre-kojeve-introduction-reading-hegel",
+    "philosopherId": "alexandre-kojeve",
+    "titleZh": "《黑格尔导读》",
+    "titleEn": "Introduction to the Reading of Hegel",
+    "yearDisplay": "1947",
+    "noteZh": "亚历山大·科耶夫身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "louis-althusser-for-marx",
+    "philosopherId": "louis-althusser",
+    "titleZh": "《保卫马克思》",
+    "titleEn": "For Marx",
+    "yearDisplay": "1965",
+    "noteZh": "路易·阿尔都塞身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "louis-althusser-reading-capital",
+    "philosopherId": "louis-althusser",
+    "titleZh": "《读〈资本论〉》",
+    "titleEn": "Reading Capital",
+    "yearDisplay": "1965",
+    "noteZh": "路易·阿尔都塞身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "gilbert-simondon-mode-existence-technical-objects",
+    "philosopherId": "gilbert-simondon",
+    "titleZh": "《论技术对象的存在方式》",
+    "titleEn": "On the Mode of Existence of Technical Objects",
+    "yearDisplay": "1958",
+    "noteZh": "吉尔贝尔·西蒙东身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "gilbert-simondon-individuation-form-information",
+    "philosopherId": "gilbert-simondon",
+    "titleZh": "《从形式与信息概念看个体化》",
+    "titleEn": "Individuation in Light of Notions of Form and Information",
+    "yearDisplay": "1958",
+    "noteZh": "吉尔贝尔·西蒙东身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "michel-henry-essence-of-manifestation",
+    "philosopherId": "michel-henry",
+    "titleZh": "《显现的本质》",
+    "titleEn": "The Essence of Manifestation",
+    "yearDisplay": "1963",
+    "noteZh": "米歇尔·亨利身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "michel-henry-i-am-the-truth",
+    "philosopherId": "michel-henry",
+    "titleZh": "《我是真理》",
+    "titleEn": "I Am the Truth",
+    "yearDisplay": "1996",
+    "noteZh": "米歇尔·亨利身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "jan-patocka-heretical-essays-history",
+    "philosopherId": "jan-patocka",
+    "titleZh": "《历史哲学异端论集》",
+    "titleEn": "Heretical Essays in the Philosophy of History",
+    "yearDisplay": "1975",
+    "noteZh": "扬·帕托奇卡身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "jan-patocka-plato-and-europe",
+    "philosopherId": "jan-patocka",
+    "titleZh": "《柏拉图与欧洲》",
+    "titleEn": "Plato and Europe",
+    "yearDisplay": "1973",
+    "noteZh": "扬·帕托奇卡身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "leszek-kolakowski-main-currents-marxism",
+    "philosopherId": "leszek-kolakowski",
+    "titleZh": "《马克思主义主要流派》",
+    "titleEn": "Main Currents of Marxism",
+    "yearDisplay": "1976—1978",
+    "noteZh": "莱谢克·科瓦科夫斯基身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "leszek-kolakowski-presence-of-myth",
+    "philosopherId": "leszek-kolakowski",
+    "titleZh": "《神话的在场》",
+    "titleEn": "The Presence of Myth",
+    "yearDisplay": "1972",
+    "noteZh": "莱谢克·科瓦科夫斯基身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "cornelius-castoriadis-imaginary-institution-society",
+    "philosopherId": "cornelius-castoriadis",
+    "titleZh": "《社会的想象制度》",
+    "titleEn": "The Imaginary Institution of Society",
+    "yearDisplay": "1975",
+    "noteZh": "科尔内留斯·卡斯托里亚迪斯身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "cornelius-castoriadis-crossroads-in-the-labyrinth",
+    "philosopherId": "cornelius-castoriadis",
+    "titleZh": "《迷宫中的十字路口》",
+    "titleEn": "Crossroads in the Labyrinth",
+    "yearDisplay": "1978",
+    "noteZh": "科尔内留斯·卡斯托里亚迪斯身份层代表作或核心关联文本，用于 seed 档基本定位。"
   }
 ]

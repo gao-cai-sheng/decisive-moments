@@ -1,0 +1,45 @@
+{
+  "id": "zisi",
+  "tier": "seed",
+  "names": {
+    "zh": "子思",
+    "en": "Zisi",
+    "native": "孔伋"
+  },
+  "life": {
+    "birth": -483,
+    "death": -402,
+    "display": "约前483—约前402"
+  },
+  "civilization": "chinese",
+  "traditions": [
+    "confucianism"
+  ],
+  "periods": [
+    "warring_states"
+  ],
+  "themes": [
+    "ethics",
+    "metaphysics"
+  ],
+  "keywordsZh": [
+    "中庸",
+    "孔门后学",
+    "性命"
+  ],
+  "oneLineZh": "孔子之孙、战国早期儒家传承中连接孔孟的重要人物。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "子思，名孔伋，孔子之孙，处于孔子弟子群之后、孟子之前的战国儒家谱系节点。后世常把《中庸》与子思传统相连，强调中和、诚、性命与天道之间的连续性。虽然其著述归属有复杂传承问题，子思在儒家道统叙事中仍被视为孔孟之间的重要桥梁。",
+  "works": [
+    "zisi-zhongyong",
+    "zisi-mengzi-records"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S003",
+      "url": "https://ctext.org/liji/zhong-yong",
+      "noteZh": "以《中庸》传统与《孟子》相关记载支撑子思身份层。"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "yan-hui",
+  "tier": "seed",
+  "names": {
+    "zh": "颜回",
+    "en": "Yan Hui",
+    "native": "颜回"
+  },
+  "life": {
+    "birth": -521,
+    "death": -481,
+    "display": "前521—前481"
+  },
+  "civilization": "chinese",
+  "traditions": [
+    "confucianism"
+  ],
+  "periods": [
+    "spring_autumn"
+  ],
+  "themes": [
+    "ethics",
+    "knowledge"
+  ],
+  "keywordsZh": [
+    "孔门",
+    "仁学",
+    "安贫乐道"
+  ],
+  "oneLineZh": "孔门弟子中以德行著称的颜渊，后世常以其代表儒家修身典范。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "颜回，字子渊，鲁人，是孔子弟子中最受称许者之一。《论语》多处记其好学、近仁与安贫乐道，孔子叹其“不迁怒，不贰过”，又以“一箪食，一瓢饮”突出其德性境界。颜回没有自成学派或传世著作，但在儒家记忆中成为内在修养、师生关系与君子人格的核心象征。",
+  "works": [
+    "yan-hui-analects-yan-yuan",
+    "yan-hui-analects-yongye"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S001",
+      "url": "https://ctext.org/analects/yan-yuan",
+      "noteZh": "以《论语》相关篇章支撑颜回生平定位、孔门身份与德行声誉。"
+    }
+  ]
+}

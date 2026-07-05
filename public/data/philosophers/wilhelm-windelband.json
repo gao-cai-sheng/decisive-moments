@@ -1,0 +1,43 @@
+{
+  "id": "wilhelm-windelband",
+  "tier": "seed",
+  "names": {
+    "zh": "威廉·文德尔班",
+    "en": "Wilhelm Windelband"
+  },
+  "life": {
+    "birth": 1848,
+    "death": 1915,
+    "display": "1848—1915"
+  },
+  "civilization": "western",
+  "traditions": [
+    "neo_kantianism"
+  ],
+  "periods": [
+    "modern"
+  ],
+  "themes": [
+    "ethics",
+    "aesthetics"
+  ],
+  "keywordsZh": [
+    "新康德主义",
+    "文化科学",
+    "身份层"
+  ],
+  "oneLineZh": "价值哲学与文化科学方法论代表，可补新康德主义西南学派源头。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "威廉·文德尔班（1848—1915）是 W2 欧陆与英美近现代二线哲人候选。其身份层入选理由为：价值哲学与文化科学方法论代表，可补新康德主义西南学派源头。 本条仅作 seed 档基本定位，后续若升级标准档，需要重新做著作、论点与 evidence 研究。",
+  "works": [
+    "wilhelm-windelband-history-and-natural-science",
+    "wilhelm-windelband-history-of-philosophy"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S005",
+      "noteZh": "权威来源条目：Routledge Encyclopedia of Philosophy: Windelband, Wilhelm；用于核验人物身份、生卒、代表著作和思想史定位。"
+    }
+  ]
+}

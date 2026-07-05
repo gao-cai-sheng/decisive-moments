@@ -1,0 +1,43 @@
+{
+  "id": "judith-shklar",
+  "tier": "seed",
+  "names": {
+    "zh": "朱迪思·施克拉",
+    "en": "Judith Shklar"
+  },
+  "life": {
+    "birth": 1928,
+    "death": 1992,
+    "display": "1928—1992"
+  },
+  "civilization": "western",
+  "traditions": [
+    "political_philosophy"
+  ],
+  "periods": [
+    "contemporary"
+  ],
+  "themes": [
+    "politics",
+    "knowledge"
+  ],
+  "keywordsZh": [
+    "身份层",
+    "二线哲人",
+    "思想史补线"
+  ],
+  "oneLineZh": "恐惧自由主义与政治恶论代表，可补战后自由主义内部批判。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "朱迪思·施克拉（1928—1992）是 W2 欧陆与英美近现代二线哲人候选。其身份层入选理由为：恐惧自由主义与政治恶论代表，可补战后自由主义内部批判。 本条仅作 seed 档基本定位，后续若升级标准档，需要重新做著作、论点与 evidence 研究。",
+  "works": [
+    "judith-shklar-legalism",
+    "judith-shklar-ordinary-vices"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S009",
+      "noteZh": "权威来源条目：SEP: Judith Shklar；用于核验人物身份、生卒、代表著作和思想史定位。"
+    }
+  ]
+}

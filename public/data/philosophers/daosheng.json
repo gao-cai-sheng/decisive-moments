@@ -1,0 +1,47 @@
+{
+  "id": "daosheng",
+  "tier": "seed",
+  "names": {
+    "zh": "道生",
+    "en": "Daosheng",
+    "native": "竺道生"
+  },
+  "life": {
+    "birth": 355,
+    "death": 434,
+    "display": "约355—434"
+  },
+  "civilization": "chinese",
+  "traditions": [
+    "buddhism",
+    "chinese_buddhism"
+  ],
+  "periods": [
+    "eastern_jin",
+    "liu_song"
+  ],
+  "themes": [
+    "religion",
+    "metaphysics"
+  ],
+  "keywordsZh": [
+    "顿悟成佛",
+    "一阐提",
+    "涅槃学"
+  ],
+  "oneLineZh": "东晋刘宋僧人，以顿悟成佛和一阐提成佛争论著称。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "道生，俗姓魏，东晋末至刘宋初高僧，曾参与鸠摩罗什译场，后以顿悟成佛和一阐提皆得成佛等主张闻名。其观点一度遭排斥，后随《大般涅槃经》译出而获得重新评价。道生的意义在于将佛性、顿悟和成佛普遍性问题推向中国佛教义理中心。",
+  "works": [
+    "daosheng-biography-gaosengzhuan",
+    "daosheng-fahua-jingshu-fragments"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S020",
+      "url": "https://cbetaonline.dila.edu.tw/zh/T2059",
+      "noteZh": "以《高僧传》道生传和法华、涅槃学传统支撑身份层。"
+    }
+  ]
+}

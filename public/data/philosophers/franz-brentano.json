@@ -1,0 +1,42 @@
+{
+  "id": "franz-brentano",
+  "tier": "seed",
+  "names": {
+    "zh": "弗朗茨·布伦塔诺",
+    "en": "Franz Brentano"
+  },
+  "life": {
+    "birth": 1838,
+    "death": 1917,
+    "display": "1838—1917"
+  },
+  "civilization": "western",
+  "traditions": [
+    "analytic_philosophy"
+  ],
+  "periods": [
+    "modern"
+  ],
+  "themes": [
+    "metaphysics"
+  ],
+  "keywordsZh": [
+    "意向性",
+    "身份层",
+    "二线哲人"
+  ],
+  "oneLineZh": "意向性复兴的枢纽，可连接亚里士多德、经院心理学、胡塞尔与分析心灵哲学。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "弗朗茨·布伦塔诺（1838—1917）是 W2 欧陆与英美近现代二线哲人候选。其身份层入选理由为：意向性复兴的枢纽，可连接亚里士多德、经院心理学、胡塞尔与分析心灵哲学。 本条仅作 seed 档基本定位，后续若升级标准档，需要重新做著作、论点与 evidence 研究。",
+  "works": [
+    "franz-brentano-psychology-empirical-standpoint",
+    "franz-brentano-several-senses-being"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S001",
+      "noteZh": "权威来源条目：SEP: Franz Brentano；用于核验人物身份、生卒、代表著作和思想史定位。"
+    }
+  ]
+}

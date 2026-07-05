@@ -1,0 +1,43 @@
+{
+  "id": "rm-hare",
+  "tier": "seed",
+  "names": {
+    "zh": "理查德·默文·黑尔",
+    "en": "R. M. Hare"
+  },
+  "life": {
+    "birth": 1919,
+    "death": 2002,
+    "display": "1919—2002"
+  },
+  "civilization": "western",
+  "traditions": [
+    "western_philosophy"
+  ],
+  "periods": [
+    "contemporary"
+  ],
+  "themes": [
+    "ethics",
+    "knowledge"
+  ],
+  "keywordsZh": [
+    "身份层",
+    "二线哲人",
+    "思想史补线"
+  ],
+  "oneLineZh": "规范伦理学中的规定主义代表，可补元伦理学与应用伦理学过渡。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "理查德·默文·黑尔（1919—2002）是 W2 欧陆与英美近现代二线哲人候选。其身份层入选理由为：规范伦理学中的规定主义代表，可补元伦理学与应用伦理学过渡。 本条仅作 seed 档基本定位，后续若升级标准档，需要重新做著作、论点与 evidence 研究。",
+  "works": [
+    "rm-hare-language-of-morals",
+    "rm-hare-freedom-and-reason"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S003",
+      "noteZh": "权威来源条目：IEP: R. M. Hare；用于核验人物身份、生卒、代表著作和思想史定位。"
+    }
+  ]
+}

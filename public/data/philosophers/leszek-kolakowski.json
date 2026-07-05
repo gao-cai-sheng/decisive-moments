@@ -1,0 +1,43 @@
+{
+  "id": "leszek-kolakowski",
+  "tier": "seed",
+  "names": {
+    "zh": "莱谢克·科瓦科夫斯基",
+    "en": "Leszek Kołakowski"
+  },
+  "life": {
+    "birth": 1927,
+    "death": 2009,
+    "display": "1927—2009"
+  },
+  "civilization": "western",
+  "traditions": [
+    "christian_philosophy"
+  ],
+  "periods": [
+    "contemporary"
+  ],
+  "themes": [
+    "politics",
+    "religion"
+  ],
+  "keywordsZh": [
+    "宗教哲学",
+    "宗教哲学",
+    "身份层"
+  ],
+  "oneLineZh": "马克思主义批判与宗教哲学代表，可补东欧思想转型线索。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "莱谢克·科瓦科夫斯基（1927—2009）是 W2 欧陆与英美近现代二线哲人候选。其身份层入选理由为：马克思主义批判与宗教哲学代表，可补东欧思想转型线索。 本条仅作 seed 档基本定位，后续若升级标准档，需要重新做著作、论点与 evidence 研究。",
+  "works": [
+    "leszek-kolakowski-main-currents-marxism",
+    "leszek-kolakowski-presence-of-myth"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S019",
+      "noteZh": "权威来源条目：IEP: Leszek Kołakowski；用于核验人物身份、生卒、代表著作和思想史定位。"
+    }
+  ]
+}

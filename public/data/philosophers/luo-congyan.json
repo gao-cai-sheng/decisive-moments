@@ -1,0 +1,46 @@
+{
+  "id": "luo-congyan",
+  "tier": "seed",
+  "names": {
+    "zh": "罗从彦",
+    "en": "Luo Congyan",
+    "native": "羅從彥"
+  },
+  "life": {
+    "birth": 1072,
+    "death": 1135,
+    "display": "1072—1135"
+  },
+  "civilization": "chinese",
+  "traditions": [
+    "neo_confucianism"
+  ],
+  "periods": [
+    "northern_song",
+    "southern_song"
+  ],
+  "themes": [
+    "ethics",
+    "metaphysics"
+  ],
+  "keywordsZh": [
+    "豫章先生",
+    "程门后学",
+    "闽学前驱"
+  ],
+  "oneLineZh": "宋代理学人物，承接程门并影响李侗、朱熹学脉。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "罗从彦，字仲素，号豫章先生，宋代理学人物。他受学于杨时，承接二程洛学传统，又传于李侗，成为朱熹闽学谱系中的关键前驱。罗从彦著述不多，后世以《豫章文集》《遵尧录》等题名整理其言行。其意义主要在理学传承链条：把程门义理转入南方讲学网络。",
+  "works": [
+    "luo-congyan-yuzhang-wenji",
+    "luo-congyan-zunyao-lu"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S012",
+      "url": "https://ctext.org/wiki.pl?if=en&res=821520",
+      "noteZh": "以罗从彦文集、传记和理学谱系材料支撑身份层。"
+    }
+  ]
+}

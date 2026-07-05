@@ -1,0 +1,43 @@
+{
+  "id": "maurice-blondel",
+  "tier": "seed",
+  "names": {
+    "zh": "莫里斯·布隆代尔",
+    "en": "Maurice Blondel"
+  },
+  "life": {
+    "birth": 1861,
+    "death": 1949,
+    "display": "1861—1949"
+  },
+  "civilization": "western",
+  "traditions": [
+    "phenomenology"
+  ],
+  "periods": [
+    "modern"
+  ],
+  "themes": [
+    "freedom",
+    "knowledge"
+  ],
+  "keywordsZh": [
+    "行动哲学",
+    "身份层",
+    "二线哲人"
+  ],
+  "oneLineZh": "行动哲学代表，可补法国天主教现代思想与现象学前史。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "莫里斯·布隆代尔（1861—1949）是 W2 欧陆与英美近现代二线哲人候选。其身份层入选理由为：行动哲学代表，可补法国天主教现代思想与现象学前史。 本条仅作 seed 档基本定位，后续若升级标准档，需要重新做著作、论点与 evidence 研究。",
+  "works": [
+    "maurice-blondel-action-1893",
+    "maurice-blondel-history-and-dogma"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S008",
+      "noteZh": "权威来源条目：SEP: Maurice Blondel；用于核验人物身份、生卒、代表著作和思想史定位。"
+    }
+  ]
+}

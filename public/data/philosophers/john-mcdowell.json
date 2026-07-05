@@ -1,0 +1,42 @@
+{
+  "id": "john-mcdowell",
+  "tier": "seed",
+  "names": {
+    "zh": "约翰·麦克道威尔",
+    "en": "John McDowell"
+  },
+  "life": {
+    "birth": 1942,
+    "display": "1942—"
+  },
+  "civilization": "western",
+  "traditions": [
+    "analytic_philosophy"
+  ],
+  "periods": [
+    "contemporary"
+  ],
+  "themes": [
+    "ethics",
+    "metaphysics"
+  ],
+  "keywordsZh": [
+    "身份层",
+    "二线哲人",
+    "思想史补线"
+  ],
+  "oneLineZh": "心灵与世界、德性伦理与概念经验代表，可补分析哲学与黑格尔传统接口。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "约翰·麦克道威尔（1942—）是 W2 欧陆与英美近现代二线哲人候选。其身份层入选理由为：心灵与世界、德性伦理与概念经验代表，可补分析哲学与黑格尔传统接口。 本条仅作 seed 档基本定位，后续若升级标准档，需要重新做著作、论点与 evidence 研究。",
+  "works": [
+    "john-mcdowell-mind-and-world",
+    "john-mcdowell-mind-value-reality"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S018",
+      "noteZh": "权威来源条目：SEP: John McDowell；用于核验人物身份、生卒、代表著作和思想史定位。"
+    }
+  ]
+}

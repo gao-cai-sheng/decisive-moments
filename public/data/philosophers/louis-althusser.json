@@ -1,0 +1,43 @@
+{
+  "id": "louis-althusser",
+  "tier": "seed",
+  "names": {
+    "zh": "路易·阿尔都塞",
+    "en": "Louis Althusser"
+  },
+  "life": {
+    "birth": 1918,
+    "death": 1990,
+    "display": "1918—1990"
+  },
+  "civilization": "western",
+  "traditions": [
+    "marxism"
+  ],
+  "periods": [
+    "contemporary"
+  ],
+  "themes": [
+    "politics",
+    "knowledge"
+  ],
+  "keywordsZh": [
+    "结构主义马克思主义",
+    "身份层",
+    "二线哲人"
+  ],
+  "oneLineZh": "结构主义马克思主义代表，可补马克思主义与法国理论接口。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "路易·阿尔都塞（1918—1990）是 W2 欧陆与英美近现代二线哲人候选。其身份层入选理由为：结构主义马克思主义代表，可补马克思主义与法国理论接口。 本条仅作 seed 档基本定位，后续若升级标准档，需要重新做著作、论点与 evidence 研究。",
+  "works": [
+    "louis-althusser-for-marx",
+    "louis-althusser-reading-capital"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S015",
+      "noteZh": "权威来源条目：SEP: Louis Althusser；用于核验人物身份、生卒、代表著作和思想史定位。"
+    }
+  ]
+}

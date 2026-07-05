@@ -1,0 +1,44 @@
+{
+  "id": "kou-qianzhi",
+  "tier": "seed",
+  "names": {
+    "zh": "寇谦之",
+    "en": "Kou Qianzhi",
+    "native": "寇謙之"
+  },
+  "life": {
+    "birth": 365,
+    "death": 448,
+    "display": "365—448"
+  },
+  "civilization": "chinese",
+  "traditions": [
+    "daoism"
+  ],
+  "periods": [
+    "northern_southern_dynasties"
+  ],
+  "themes": [
+    "religion",
+    "politics"
+  ],
+  "keywordsZh": [
+    "北天师道",
+    "太平真君",
+    "老君音诵诫经"
+  ],
+  "oneLineZh": "北魏道教改革者，推动新天师道与国家政治结合。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "寇谦之，北魏道士，自称受太上老君启示，推动北天师道改革。《魏书·释老志》记其与崔浩、太武帝关系密切，促成道教在北魏国家祭祀和政治中的上升。其传统文本如《老君音诵诫经》体现新天师道戒律和教团规范。寇谦之是中古道教国家化的重要节点。",
+  "works": [
+    "kou-qianzhi-laojun-yinsong-jiejing"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S016",
+      "url": "https://ctext.org/wei-shu/shi-lao-zhi",
+      "noteZh": "以《魏书·释老志》和寇谦之相关道经传统支撑身份层。"
+    }
+  ]
+}

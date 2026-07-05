@@ -1,0 +1,43 @@
+{
+  "id": "michael-dummett",
+  "tier": "seed",
+  "names": {
+    "zh": "迈克尔·达米特",
+    "en": "Michael Dummett"
+  },
+  "life": {
+    "birth": 1925,
+    "death": 2011,
+    "display": "1925—2011"
+  },
+  "civilization": "western",
+  "traditions": [
+    "analytic_philosophy"
+  ],
+  "periods": [
+    "contemporary"
+  ],
+  "themes": [
+    "language",
+    "knowledge"
+  ],
+  "keywordsZh": [
+    "反实在论",
+    "身份层",
+    "二线哲人"
+  ],
+  "oneLineZh": "意义理论与反实在论代表，可补弗雷格解释与分析哲学后期线索。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "迈克尔·达米特（1925—2011）是 W2 欧陆与英美近现代二线哲人候选。其身份层入选理由为：意义理论与反实在论代表，可补弗雷格解释与分析哲学后期线索。 本条仅作 seed 档基本定位，后续若升级标准档，需要重新做著作、论点与 evidence 研究。",
+  "works": [
+    "michael-dummett-frege-philosophy-of-language",
+    "michael-dummett-logical-basis-of-metaphysics"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S020",
+      "noteZh": "权威来源条目：SEP: Michael Dummett；用于核验人物身份、生卒、代表著作和思想史定位。"
+    }
+  ]
+}

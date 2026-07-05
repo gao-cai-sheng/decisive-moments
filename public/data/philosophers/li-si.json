@@ -1,0 +1,46 @@
+{
+  "id": "li-si",
+  "tier": "seed",
+  "names": {
+    "zh": "李斯",
+    "en": "Li Si",
+    "native": "李斯"
+  },
+  "life": {
+    "birth": -280,
+    "death": -208,
+    "display": "约前280—前208"
+  },
+  "civilization": "chinese",
+  "traditions": [
+    "legalism"
+  ],
+  "periods": [
+    "warring_states",
+    "qin"
+  ],
+  "themes": [
+    "politics",
+    "language"
+  ],
+  "keywordsZh": [
+    "秦制",
+    "小篆",
+    "谏逐客书"
+  ],
+  "oneLineZh": "秦帝国制度建设核心官僚，承接荀学与法家治理。",
+  "influenceWeight": 3,
+  "reviewStatus": "draft",
+  "summaryZh": "李斯，楚国上蔡人，早年从荀子学，后入秦为相，是秦统一与帝国制度建设的重要官僚。《史记·李斯列传》保存其政治生涯，《谏逐客书》展现其以功利国家理性反驳排外政策。李斯参与郡县制、文字规范和严刑法制实践，处于荀学、法家与秦帝国官僚制的交叉点。",
+  "works": [
+    "li-si-jianzhukeshu",
+    "li-si-shiji-biography"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S020",
+      "url": "https://ctext.org/shiji/li-si-lie-zhuan",
+      "noteZh": "以《史记·李斯列传》和《谏逐客书》支撑李斯身份、作品和秦制位置。"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": "gongsun-long",
+  "tier": "seed",
+  "names": {
+    "zh": "公孙龙",
+    "en": "Gongsun Long",
+    "native": "公孫龍"
+  },
+  "life": {
+    "birth": -320,
+    "death": -250,
+    "display": "约前320—约前250"
+  },
+  "civilization": "chinese",
+  "traditions": [
+    "mingjia"
+  ],
+  "periods": [
+    "warring_states"
+  ],
+  "themes": [
+    "language",
+    "knowledge"
+  ],
+  "keywordsZh": [
+    "名家",
+    "白马非马",
+    "辩学"
+  ],
+  "oneLineZh": "战国名家代表，以白马非马等名实论辩著称。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "公孙龙，战国赵人，名家代表人物，传统上与“白马非马”论辩相连。《公孙龙子》保存若干短篇，围绕名、实、类、指称和同异关系展开高密度辩析。其文本真伪与成书层次仍有争议，但公孙龙在中国哲学史上通常代表先秦对语言分类、逻辑形式和论辩规则的集中探索。",
+  "works": [
+    "gongsun-longzi"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S009",
+      "url": "https://ctext.org/gongsunlongzi",
+      "noteZh": "以《公孙龙子》支撑公孙龙身份、作品和名家归属。"
+    }
+  ]
+}

@@ -29,7 +29,8 @@
     ],
     "oneLineZh": "以仁、礼和君子修养奠定儒家伦理政治传统。",
     "influenceWeight": 3,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "laozi",
@@ -61,7 +62,8 @@
     ],
     "oneLineZh": "以道、无为和反强制秩序开辟道家思想。",
     "influenceWeight": 1,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "zhuangzi",
@@ -93,7 +95,8 @@
     ],
     "oneLineZh": "以逍遥、齐物和语言怀疑展开自由哲学。",
     "influenceWeight": 1,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "mozi",
@@ -125,7 +128,8 @@
     ],
     "oneLineZh": "墨子是伦理、政治问题谱系中的第一版候选哲人。",
     "influenceWeight": 1,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "mencius",
@@ -157,7 +161,8 @@
     ],
     "oneLineZh": "孟子是伦理、政治问题谱系中的第一版候选哲人。",
     "influenceWeight": 1,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "xunzi",
@@ -189,7 +194,8 @@
     ],
     "oneLineZh": "荀子是伦理、政治问题谱系中的第一版候选哲人。",
     "influenceWeight": 2,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "wang-yangming",
@@ -221,7 +227,8 @@
     ],
     "oneLineZh": "王阳明是伦理、政治问题谱系中的第一版候选哲人。",
     "influenceWeight": 1,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "zhu-xi",
@@ -253,7 +260,8 @@
     ],
     "oneLineZh": "朱熹是伦理、政治问题谱系中的第一版候选哲人。",
     "influenceWeight": 1,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "hu-shi",
@@ -285,7 +293,8 @@
     ],
     "oneLineZh": "胡适是伦理、政治问题谱系中的第一版候选哲人。",
     "influenceWeight": 1,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "liang-shuming",
@@ -317,7 +326,8 @@
     ],
     "oneLineZh": "梁漱溟是伦理、政治问题谱系中的第一版候选哲人。",
     "influenceWeight": 1,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "buddha",
@@ -359,7 +369,8 @@
     ],
     "oneLineZh": "以苦、缘起、无我和解脱道路重塑印度思想中关于生命、执著与自由的根本问题。",
     "influenceWeight": 3,
-    "reviewStatus": "reviewed"
+    "reviewStatus": "reviewed",
+    "tier": "standard"
   },
   {
     "id": "mahavira",
@@ -391,7 +402,8 @@
     ],
     "oneLineZh": "摩诃毗罗是宗教、形而上学问题谱系中的第一版候选哲人。",
     "influenceWeight": 1,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "nagarjuna",
@@ -423,7 +435,8 @@
     ],
     "oneLineZh": "龙树是宗教、形而上学问题谱系中的第一版候选哲人。",
     "influenceWeight": 1,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "vasubandhu",
@@ -455,7 +468,8 @@
     ],
     "oneLineZh": "世亲是宗教、形而上学问题谱系中的第一版候选哲人。",
     "influenceWeight": 1,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "adi-shankara",
@@ -487,7 +501,8 @@
     ],
     "oneLineZh": "商羯罗是宗教、形而上学问题谱系中的第一版候选哲人。",
     "influenceWeight": 1,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "ramanuja",
@@ -519,7 +534,8 @@
     ],
     "oneLineZh": "罗摩奴阇是宗教、形而上学问题谱系中的第一版候选哲人。",
     "influenceWeight": 2,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "tagore",
@@ -551,7 +567,8 @@
     ],
     "oneLineZh": "泰戈尔是宗教、形而上学问题谱系中的第一版候选哲人。",
     "influenceWeight": 1,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "gandhi",
@@ -583,7 +600,8 @@
     ],
     "oneLineZh": "甘地是宗教、形而上学问题谱系中的第一版候选哲人。",
     "influenceWeight": 1,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "ambedkar",
@@ -615,7 +633,8 @@
     ],
     "oneLineZh": "安贝德卡尔是宗教、形而上学问题谱系中的第一版候选哲人。",
     "influenceWeight": 1,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "krishnamurti",
@@ -647,7 +666,8 @@
     ],
     "oneLineZh": "克里希那穆提是宗教、形而上学问题谱系中的第一版候选哲人。",
     "influenceWeight": 1,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "thales",
@@ -679,7 +699,8 @@
     ],
     "oneLineZh": "泰勒斯是伦理、形而上学问题谱系中的第一版候选哲人。",
     "influenceWeight": 2,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "heraclitus",
@@ -711,7 +732,8 @@
     ],
     "oneLineZh": "赫拉克利特是伦理、形而上学问题谱系中的第一版候选哲人。",
     "influenceWeight": 1,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "parmenides",
@@ -743,7 +765,8 @@
     ],
     "oneLineZh": "巴门尼德是伦理、形而上学问题谱系中的第一版候选哲人。",
     "influenceWeight": 1,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "socrates",
@@ -775,7 +798,8 @@
     ],
     "oneLineZh": "苏格拉底是伦理、形而上学问题谱系中的第一版候选哲人。",
     "influenceWeight": 3,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "plato",
@@ -807,7 +831,8 @@
     ],
     "oneLineZh": "以理念论和《理想国》构成西方哲学核心源头之一。",
     "influenceWeight": 3,
-    "reviewStatus": "reviewed"
+    "reviewStatus": "reviewed",
+    "tier": "standard"
   },
   {
     "id": "aristotle",
@@ -839,7 +864,8 @@
     ],
     "oneLineZh": "以实体、目的因和德性伦理建立系统哲学框架。",
     "influenceWeight": 3,
-    "reviewStatus": "reviewed"
+    "reviewStatus": "reviewed",
+    "tier": "standard"
   },
   {
     "id": "epicurus",
@@ -871,7 +897,8 @@
     ],
     "oneLineZh": "伊壁鸠鲁是伦理、形而上学问题谱系中的第一版候选哲人。",
     "influenceWeight": 1,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "zeno-citium",
@@ -903,7 +930,8 @@
     ],
     "oneLineZh": "芝诺是伦理、形而上学问题谱系中的第一版候选哲人。",
     "influenceWeight": 1,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "plotinus",
@@ -935,7 +963,8 @@
     ],
     "oneLineZh": "普罗提诺是伦理、形而上学问题谱系中的第一版候选哲人。",
     "influenceWeight": 1,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "hypatia",
@@ -967,7 +996,8 @@
     ],
     "oneLineZh": "希帕提娅是伦理、形而上学问题谱系中的第一版候选哲人。",
     "influenceWeight": 1,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "augustine",
@@ -999,7 +1029,8 @@
     ],
     "oneLineZh": "奥古斯丁是宗教、形而上学问题谱系中的第一版候选哲人。",
     "influenceWeight": 2,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "boethius",
@@ -1031,7 +1062,8 @@
     ],
     "oneLineZh": "波爱修斯是宗教、形而上学问题谱系中的第一版候选哲人。",
     "influenceWeight": 1,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "anselm",
@@ -1063,7 +1095,8 @@
     ],
     "oneLineZh": "安瑟尔谟是宗教、形而上学问题谱系中的第一版候选哲人。",
     "influenceWeight": 1,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "aquinas",
@@ -1095,7 +1128,8 @@
     ],
     "oneLineZh": "托马斯·阿奎那是宗教、形而上学问题谱系中的第一版候选哲人。",
     "influenceWeight": 1,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "ockham",
@@ -1127,7 +1161,8 @@
     ],
     "oneLineZh": "奥卡姆是宗教、形而上学问题谱系中的第一版候选哲人。",
     "influenceWeight": 1,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "erasmus",
@@ -1159,7 +1194,8 @@
     ],
     "oneLineZh": "伊拉斯谟是知识、自由问题谱系中的第一版候选哲人。",
     "influenceWeight": 2,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "machiavelli",
@@ -1191,7 +1227,8 @@
     ],
     "oneLineZh": "马基雅维利是知识、自由问题谱系中的第一版候选哲人。",
     "influenceWeight": 1,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "montaigne",
@@ -1223,7 +1260,8 @@
     ],
     "oneLineZh": "蒙田是知识、自由问题谱系中的第一版候选哲人。",
     "influenceWeight": 1,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "bacon",
@@ -1255,7 +1293,8 @@
     ],
     "oneLineZh": "弗朗西斯·培根是知识、自由问题谱系中的第一版候选哲人。",
     "influenceWeight": 1,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "hobbes",
@@ -1287,7 +1326,8 @@
     ],
     "oneLineZh": "霍布斯是知识、自由问题谱系中的第一版候选哲人。",
     "influenceWeight": 1,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "descartes",
@@ -1319,7 +1359,8 @@
     ],
     "oneLineZh": "笛卡尔是知识、自由问题谱系中的第一版候选哲人。",
     "influenceWeight": 3,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "spinoza",
@@ -1351,7 +1392,8 @@
     ],
     "oneLineZh": "斯宾诺莎是知识、自由问题谱系中的第一版候选哲人。",
     "influenceWeight": 1,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "locke",
@@ -1383,7 +1425,8 @@
     ],
     "oneLineZh": "洛克是知识、自由问题谱系中的第一版候选哲人。",
     "influenceWeight": 1,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "leibniz",
@@ -1415,7 +1458,8 @@
     ],
     "oneLineZh": "莱布尼茨是知识、自由问题谱系中的第一版候选哲人。",
     "influenceWeight": 1,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "hume",
@@ -1447,7 +1491,8 @@
     ],
     "oneLineZh": "休谟是知识、自由问题谱系中的第一版候选哲人。",
     "influenceWeight": 3,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "rousseau",
@@ -1479,7 +1524,8 @@
     ],
     "oneLineZh": "卢梭是知识、自由问题谱系中的第一版候选哲人。",
     "influenceWeight": 2,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "kant",
@@ -1511,7 +1557,8 @@
     ],
     "oneLineZh": "以批判哲学重设知识、自由和道德法则的边界。",
     "influenceWeight": 3,
-    "reviewStatus": "reviewed"
+    "reviewStatus": "reviewed",
+    "tier": "standard"
   },
   {
     "id": "hegel",
@@ -1543,7 +1590,8 @@
     ],
     "oneLineZh": "黑格尔是知识、自由问题谱系中的第一版候选哲人。",
     "influenceWeight": 3,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "schopenhauer",
@@ -1575,7 +1623,8 @@
     ],
     "oneLineZh": "叔本华是知识、自由问题谱系中的第一版候选哲人。",
     "influenceWeight": 1,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "kierkegaard",
@@ -1607,7 +1656,8 @@
     ],
     "oneLineZh": "克尔凯郭尔是知识、自由问题谱系中的第一版候选哲人。",
     "influenceWeight": 1,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "mill",
@@ -1639,7 +1689,8 @@
     ],
     "oneLineZh": "约翰·密尔是知识、自由问题谱系中的第一版候选哲人。",
     "influenceWeight": 2,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "marx",
@@ -1671,7 +1722,8 @@
     ],
     "oneLineZh": "马克思是知识、自由问题谱系中的第一版候选哲人。",
     "influenceWeight": 3,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "nietzsche",
@@ -1703,7 +1755,8 @@
     ],
     "oneLineZh": "尼采是知识、自由问题谱系中的第一版候选哲人。",
     "influenceWeight": 3,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "frege",
@@ -1735,7 +1788,8 @@
     ],
     "oneLineZh": "弗雷格是知识、自由问题谱系中的第一版候选哲人。",
     "influenceWeight": 1,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "husserl",
@@ -1767,7 +1821,8 @@
     ],
     "oneLineZh": "胡塞尔是知识、自由问题谱系中的第一版候选哲人。",
     "influenceWeight": 1,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "bergson",
@@ -1799,7 +1854,8 @@
     ],
     "oneLineZh": "柏格森是知识、自由问题谱系中的第一版候选哲人。",
     "influenceWeight": 2,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "dewey",
@@ -1831,7 +1887,8 @@
     ],
     "oneLineZh": "杜威是正义、政治问题谱系中的第一版候选哲人。",
     "influenceWeight": 1,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "wittgenstein",
@@ -1863,7 +1920,8 @@
     ],
     "oneLineZh": "维特根斯坦是知识、自由问题谱系中的第一版候选哲人。",
     "influenceWeight": 1,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "heidegger",
@@ -1895,7 +1953,8 @@
     ],
     "oneLineZh": "海德格尔是知识、自由问题谱系中的第一版候选哲人。",
     "influenceWeight": 1,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "russell",
@@ -1927,7 +1986,8 @@
     ],
     "oneLineZh": "罗素是知识、自由问题谱系中的第一版候选哲人。",
     "influenceWeight": 1,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "whitehead",
@@ -1959,7 +2019,8 @@
     ],
     "oneLineZh": "怀特海是知识、自由问题谱系中的第一版候选哲人。",
     "influenceWeight": 2,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "carnap",
@@ -1991,7 +2052,8 @@
     ],
     "oneLineZh": "卡尔纳普是知识、自由问题谱系中的第一版候选哲人。",
     "influenceWeight": 1,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "arendt",
@@ -2023,7 +2085,8 @@
     ],
     "oneLineZh": "阿伦特是知识、自由问题谱系中的第一版候选哲人。",
     "influenceWeight": 1,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "sartre",
@@ -2055,7 +2118,8 @@
     ],
     "oneLineZh": "萨特是知识、自由问题谱系中的第一版候选哲人。",
     "influenceWeight": 1,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "beauvoir",
@@ -2087,7 +2151,8 @@
     ],
     "oneLineZh": "波伏娃是知识、自由问题谱系中的第一版候选哲人。",
     "influenceWeight": 1,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "merleau-ponty",
@@ -2119,7 +2184,8 @@
     ],
     "oneLineZh": "梅洛-庞蒂是知识、自由问题谱系中的第一版候选哲人。",
     "influenceWeight": 2,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "camus",
@@ -2151,7 +2217,8 @@
     ],
     "oneLineZh": "加缪是知识、自由问题谱系中的第一版候选哲人。",
     "influenceWeight": 1,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "quine",
@@ -2183,7 +2250,8 @@
     ],
     "oneLineZh": "蒯因是正义、政治问题谱系中的第一版候选哲人。",
     "influenceWeight": 1,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "rawls",
@@ -2216,7 +2284,8 @@
     ],
     "oneLineZh": "以公平正义理论重塑当代政治哲学的问题框架。",
     "influenceWeight": 3,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "nozick",
@@ -2248,7 +2317,8 @@
     ],
     "oneLineZh": "诺齐克是正义、政治问题谱系中的第一版候选哲人。",
     "influenceWeight": 1,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "foucault",
@@ -2280,7 +2350,8 @@
     ],
     "oneLineZh": "福柯是知识、自由问题谱系中的第一版候选哲人。",
     "influenceWeight": 2,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "derrida",
@@ -2312,7 +2383,8 @@
     ],
     "oneLineZh": "德里达是知识、自由问题谱系中的第一版候选哲人。",
     "influenceWeight": 1,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "habermas",
@@ -2343,7 +2415,8 @@
     ],
     "oneLineZh": "哈贝马斯是知识、自由问题谱系中的第一版候选哲人。",
     "influenceWeight": 1,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "singer",
@@ -2374,7 +2447,8 @@
     ],
     "oneLineZh": "彼得·辛格是伦理、正义问题谱系中的第一版候选哲人。",
     "influenceWeight": 1,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "nussbaum",
@@ -2405,7 +2479,8 @@
     ],
     "oneLineZh": "努斯鲍姆是伦理、正义问题谱系中的第一版候选哲人。",
     "influenceWeight": 1,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "al-farabi",
@@ -2437,7 +2512,8 @@
     ],
     "oneLineZh": "法拉比是形而上学、宗教问题谱系中的第一版候选哲人。",
     "influenceWeight": 2,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "ibn-sina",
@@ -2469,7 +2545,8 @@
     ],
     "oneLineZh": "伊本·西那是形而上学、宗教问题谱系中的第一版候选哲人。",
     "influenceWeight": 1,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "al-ghazali",
@@ -2501,7 +2578,8 @@
     ],
     "oneLineZh": "安萨里是形而上学、宗教问题谱系中的第一版候选哲人。",
     "influenceWeight": 1,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "ibn-rushd",
@@ -2533,7 +2611,8 @@
     ],
     "oneLineZh": "伊本·鲁世德是形而上学、宗教问题谱系中的第一版候选哲人。",
     "influenceWeight": 1,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "mulla-sadra",
@@ -2565,7 +2644,8 @@
     ],
     "oneLineZh": "穆拉·萨德拉是形而上学、宗教问题谱系中的第一版候选哲人。",
     "influenceWeight": 1,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "saadia-gaon",
@@ -2597,7 +2677,8 @@
     ],
     "oneLineZh": "萨阿迪亚·高昂是宗教、伦理问题谱系中的第一版候选哲人。",
     "influenceWeight": 2,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "maimonides",
@@ -2629,7 +2710,8 @@
     ],
     "oneLineZh": "迈蒙尼德是宗教、伦理问题谱系中的第一版候选哲人。",
     "influenceWeight": 1,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "buber",
@@ -2661,7 +2743,8 @@
     ],
     "oneLineZh": "布伯是宗教、伦理问题谱系中的第一版候选哲人。",
     "influenceWeight": 1,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "levinas",
@@ -2693,7 +2776,8 @@
     ],
     "oneLineZh": "列维纳斯是宗教、伦理问题谱系中的第一版候选哲人。",
     "influenceWeight": 1,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "dogen",
@@ -2725,7 +2809,8 @@
     ],
     "oneLineZh": "道元是宗教、审美问题谱系中的第一版候选哲人。",
     "influenceWeight": 1,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "nishida",
@@ -2757,7 +2842,8 @@
     ],
     "oneLineZh": "西田几多郎是宗教、审美问题谱系中的第一版候选哲人。",
     "influenceWeight": 2,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "watsuji",
@@ -2789,7 +2875,8 @@
     ],
     "oneLineZh": "和辻哲郎是宗教、审美问题谱系中的第一版候选哲人。",
     "influenceWeight": 1,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "toegye",
@@ -2821,7 +2908,8 @@
     ],
     "oneLineZh": "退溪李滉是伦理、政治问题谱系中的第一版候选哲人。",
     "influenceWeight": 1,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "yulgok",
@@ -2853,7 +2941,8 @@
     ],
     "oneLineZh": "栗谷李珥是伦理、政治问题谱系中的第一版候选哲人。",
     "influenceWeight": 1,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "ibn-khaldun",
@@ -2885,7 +2974,8 @@
     ],
     "oneLineZh": "伊本·赫勒敦是形而上学、宗教问题谱系中的第一版候选哲人。",
     "influenceWeight": 1,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "amo",
@@ -2917,7 +3007,8 @@
     ],
     "oneLineZh": "安东·威廉·阿莫是政治、伦理问题谱系中的第一版候选哲人。",
     "influenceWeight": 2,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "wiredu",
@@ -2949,7 +3040,8 @@
     ],
     "oneLineZh": "夸西·维雷杜是政治、伦理问题谱系中的第一版候选哲人。",
     "influenceWeight": 1,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "senghor",
@@ -2981,7 +3073,8 @@
     ],
     "oneLineZh": "桑戈尔是政治、伦理问题谱系中的第一版候选哲人。",
     "influenceWeight": 1,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "hountondji",
@@ -3012,7 +3105,8 @@
     ],
     "oneLineZh": "洪通吉是政治、伦理问题谱系中的第一版候选哲人。",
     "influenceWeight": 1,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "dussel",
@@ -3044,7 +3138,8 @@
     ],
     "oneLineZh": "杜塞尔是政治、正义问题谱系中的第一版候选哲人。",
     "influenceWeight": 1,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "zelea",
@@ -3076,7 +3171,8 @@
     ],
     "oneLineZh": "塞亚是政治、正义问题谱系中的第一版候选哲人。",
     "influenceWeight": 2,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "sor-juana",
@@ -3108,7 +3204,8 @@
     ],
     "oneLineZh": "胡安娜修女是政治、正义问题谱系中的第一版候选哲人。",
     "influenceWeight": 1,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "plumwood",
@@ -3140,7 +3237,8 @@
     ],
     "oneLineZh": "普拉姆伍德是伦理、正义问题谱系中的第一版候选哲人。",
     "influenceWeight": 1,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "butler",
@@ -3171,7 +3269,8 @@
     ],
     "oneLineZh": "巴特勒是伦理、正义问题谱系中的第一版候选哲人。",
     "influenceWeight": 1,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "hooks",
@@ -3203,7 +3302,8 @@
     ],
     "oneLineZh": "贝尔·胡克斯是伦理、正义问题谱系中的第一版候选哲人。",
     "influenceWeight": 1,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "cleanthes",
@@ -3236,7 +3336,8 @@
     ],
     "oneLineZh": "芝诺之后的斯多葛学派领袖，以《宙斯赞歌》和顺从宇宙理性的虔敬伦理著称。",
     "influenceWeight": 1,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "chrysippus",
@@ -3269,7 +3370,8 @@
     ],
     "oneLineZh": "系统化早期斯多葛逻辑、物理学和伦理学，使斯多葛主义成为严整哲学体系。",
     "influenceWeight": 1,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "diogenes-sinope",
@@ -3302,7 +3404,8 @@
     ],
     "oneLineZh": "犬儒学派代表人物，用贫穷、自足和公开挑衅把哲学变成生活批判。",
     "influenceWeight": 1,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "antisthenes",
@@ -3336,7 +3439,8 @@
     ],
     "oneLineZh": "苏格拉底弟子之一，强调德性、自足和艰苦训练，被视为犬儒传统的重要先驱。",
     "influenceWeight": 1,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "pythagoras",
@@ -3369,7 +3473,8 @@
     ],
     "oneLineZh": "毕达哥拉斯传统把数、宇宙秩序、灵魂净化和共同体生活连接起来。",
     "influenceWeight": 1,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "anaximander",
@@ -3402,7 +3507,8 @@
     ],
     "oneLineZh": "米利都学派代表人物，以 apeiron、宇宙生成和自然化解释推进早期希腊哲学。",
     "influenceWeight": 1,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "anaximenes",
@@ -3435,7 +3541,8 @@
     ],
     "oneLineZh": "米利都学派哲人，以气、凝聚和稀薄化解释自然变化与宇宙结构。",
     "influenceWeight": 1,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "xenophanes",
@@ -3468,7 +3575,8 @@
     ],
     "oneLineZh": "前苏格拉底诗哲，批判拟人神观，并提出关于神、自然和人类知识限度的早期反思。",
     "influenceWeight": 1,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "empedocles",
@@ -3501,7 +3609,8 @@
     ],
     "oneLineZh": "以四根、爱与争斗、宇宙循环和灵魂净化综合自然哲学与宗教伦理。",
     "influenceWeight": 1,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "anaxagoras",
@@ -3534,7 +3643,8 @@
     ],
     "oneLineZh": "把无限种子、万物相含和 Nous 引入自然哲学，并把爱奥尼亚自然解释带入雅典。",
     "influenceWeight": 1,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "zeno-elea",
@@ -3567,7 +3677,8 @@
     ],
     "oneLineZh": "爱利亚学派哲人，以反多和反运动悖论捍卫巴门尼德式存在论。",
     "influenceWeight": 1,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "democritus",
@@ -3601,7 +3712,8 @@
     ],
     "oneLineZh": "古代原子论代表人物，以原子与虚空解释自然，并提出感知、约定和安宁伦理问题。",
     "influenceWeight": 1,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "protagoras",
@@ -3634,7 +3746,8 @@
     ],
     "oneLineZh": "智者运动代表人物，以“人是万物尺度”、德性教育和城邦实践理性著称。",
     "influenceWeight": 1,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "gorgias",
@@ -3667,7 +3780,8 @@
     ],
     "oneLineZh": "智者和修辞家，以激进的存在论论证、语言力量和说服技艺闻名。",
     "influenceWeight": 1,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "pyrrho",
@@ -3700,7 +3814,8 @@
     ],
     "oneLineZh": "皮浪主义源头人物，以悬置判断和心灵安宁的传统影响古代怀疑论。",
     "influenceWeight": 1,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "theophrastus",
@@ -3733,7 +3848,8 @@
     ],
     "oneLineZh": "亚里士多德继承者，扩展逍遥学派自然研究、植物学、性格描写和学术制度。",
     "influenceWeight": 1,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "carneades",
@@ -3766,7 +3882,8 @@
     ],
     "oneLineZh": "新学园怀疑主义代表，以反斯多葛知识论、概率性判断和罗马正义演说闻名。",
     "influenceWeight": 1,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "cicero",
@@ -3799,7 +3916,8 @@
     ],
     "oneLineZh": "罗马政治家和哲学作者，把希腊哲学翻译进拉丁公共理性、共和伦理和自然法传统。",
     "influenceWeight": 1,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "lucretius",
@@ -3832,7 +3950,8 @@
     ],
     "oneLineZh": "罗马伊壁鸠鲁主义诗人，以《物性论》用原子论治疗宗教恐惧和死亡恐惧。",
     "influenceWeight": 1,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "seneca",
@@ -3865,7 +3984,8 @@
     ],
     "oneLineZh": "罗马斯多葛哲人和政治家，以书信、论怒、论仁慈和有限生命训练展开实践伦理。",
     "influenceWeight": 1,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "epictetus",
@@ -3898,7 +4018,8 @@
     ],
     "oneLineZh": "罗马斯多葛教师，以控制二分、同意训练和内在自由构成最具实践性的斯多葛手册传统。",
     "influenceWeight": 1,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "marcus-aurelius",
@@ -3931,7 +4052,8 @@
     ],
     "oneLineZh": "罗马皇帝和斯多葛作者，以《沉思录》把宇宙秩序、职责和自我训练结合起来。",
     "influenceWeight": 1,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "fichte",
@@ -3966,7 +4088,8 @@
     ],
     "oneLineZh": "以知识学把康德批判哲学推进为从自我活动出发的自由体系。",
     "influenceWeight": 3,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "schelling",
@@ -4001,7 +4124,8 @@
     ],
     "oneLineZh": "把自然、精神、艺术和自由组织为德国观念论内部最具生成性的体系实验。",
     "influenceWeight": 3,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "feuerbach",
@@ -4036,7 +4160,8 @@
     ],
     "oneLineZh": "把黑格尔思辨神学倒转为人本学宗教批判，并成为马克思早期异化批判的近端入口。",
     "influenceWeight": 3,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "pascal",
@@ -4072,7 +4197,8 @@
     ],
     "oneLineZh": "以人的脆弱、理性的限度和信仰赌注重塑早期现代基督教护教与存在论感受。",
     "influenceWeight": 3,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "peirce",
@@ -4108,7 +4234,8 @@
     ],
     "oneLineZh": "以探究逻辑、实用主义准则和三元符号学奠定美国实用主义的科学形态。",
     "influenceWeight": 3,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "james",
@@ -4144,7 +4271,8 @@
     ],
     "oneLineZh": "把心理学、宗教经验、自由意志和实用主义真理观连接成经验多元论。",
     "influenceWeight": 3,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "du-bois",
@@ -4180,7 +4308,8 @@
     ],
     "oneLineZh": "以双重意识、色线和废奴民主把种族经验推进为现代政治哲学和社会科学问题。",
     "influenceWeight": 3,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "moore",
@@ -4216,7 +4345,8 @@
     ],
     "oneLineZh": "以伦理非自然主义、反观念论和常识实在论推动剑桥分析哲学成形。",
     "influenceWeight": 3,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "popper",
@@ -4252,7 +4382,8 @@
     ],
     "oneLineZh": "以可证伪性、批判理性主义和开放社会论重塑二十世纪科学哲学与政治哲学。",
     "influenceWeight": 3,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "kuhn",
@@ -4288,7 +4419,8 @@
     ],
     "oneLineZh": "以范式、常规科学和科学革命改写科学进步的历史哲学图景。",
     "influenceWeight": 3,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "dilthey",
@@ -4324,7 +4456,8 @@
     ],
     "oneLineZh": "以精神科学、体验和理解理论把历史生命世界纳入哲学方法论。",
     "influenceWeight": 3,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "gadamer",
@@ -4360,7 +4493,8 @@
     ],
     "oneLineZh": "以效果历史、视域融合和语言性把解释学从方法论扩展为哲学本体论。",
     "influenceWeight": 3,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "jaspers",
@@ -4396,7 +4530,8 @@
     ],
     "oneLineZh": "以生存哲学、界限处境和轴心时代思想连接克尔凯郭尔、尼采、海德格尔与阿伦特。",
     "influenceWeight": 3,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "sextus-empiricus",
@@ -4432,7 +4567,8 @@
     ],
     "oneLineZh": "以《皮浪主义纲要》和《反学者》保存古代皮浪主义，并成为近代怀疑论复兴的文本枢纽。",
     "influenceWeight": 3,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "duns-scotus",
@@ -4468,7 +4604,8 @@
     ],
     "oneLineZh": "以存在单义性、形式区别和个体性理论构成阿奎那与奥卡姆之间的经院哲学关键中环。",
     "influenceWeight": 3,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "al-kindi",
@@ -4505,7 +4642,8 @@
     ],
     "oneLineZh": "作为阿拉伯哲学源头人物，把希腊哲学翻译运动、第一哲学和伊斯兰一神论组织到同一项目中。",
     "influenceWeight": 3,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "suhrawardi",
@@ -4542,7 +4680,8 @@
     ],
     "oneLineZh": "以照明哲学把伊本·西那传统、柏拉图主义光形而上学和临现知识改造成伊斯兰哲学新路线。",
     "influenceWeight": 3,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "ibn-arabi",
@@ -4579,7 +4718,8 @@
     ],
     "oneLineZh": "以存在一性、完人、想象和神名理论塑造伊斯兰神秘形而上学，并深刻影响穆拉·萨德拉。",
     "influenceWeight": 3,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "han-feizi",
@@ -4615,7 +4755,8 @@
     ],
     "oneLineZh": "综合法、术、势与刑名之学，构成战国末期法家政治哲学的系统表达。",
     "influenceWeight": 3,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "huineng",
@@ -4651,7 +4792,8 @@
     ],
     "oneLineZh": "以《坛经》中的顿悟、自性、无念和定慧不二塑造中国禅宗南宗经典形象。",
     "influenceWeight": 3,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "zhang-zai",
@@ -4687,7 +4829,8 @@
     ],
     "oneLineZh": "以太虚即气、民胞物与和成德工夫奠定北宋道学气本论传统。",
     "influenceWeight": 3,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "dignaga",
@@ -4724,7 +4867,8 @@
     ],
     "oneLineZh": "以《集量论》奠定佛教量论，把有效认知限定为现量与比量，并提出遮诠语言理论。",
     "influenceWeight": 3,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "wollstonecraft",
@@ -4758,7 +4902,8 @@
     ],
     "oneLineZh": "以女性理性教育和公民平等批判启蒙时代的性别秩序。",
     "influenceWeight": 3,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "anscombe",
@@ -4793,7 +4938,8 @@
     ],
     "oneLineZh": "以意向行动分析和现代道德哲学批判推动德性伦理复兴。",
     "influenceWeight": 3,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "rosenzweig",
@@ -4828,7 +4974,8 @@
     ],
     "oneLineZh": "以《救赎之星》反击总体体系，并开出现代犹太对话哲学路线。",
     "influenceWeight": 3,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "fanon",
@@ -4863,7 +5010,8 @@
     ],
     "oneLineZh": "以殖民心理分析和民族解放理论连接存在主义与后殖民思想。",
     "influenceWeight": 3,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "freire",
@@ -4897,7 +5045,8 @@
     ],
     "oneLineZh": "以对话、意识化和银行式教育批判奠定批判教育学。",
     "influenceWeight": 3,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "horkheimer",
@@ -4932,7 +5081,8 @@
     ],
     "oneLineZh": "以批判理论和工具理性批判把马克思主义社会哲学改造为现代性诊断。",
     "influenceWeight": 3,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "adorno",
@@ -4967,7 +5117,8 @@
     ],
     "oneLineZh": "以否定辩证法、文化工业批判和现代主义美学揭示同一性思维中的社会支配。",
     "influenceWeight": 3,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "benjamin",
@@ -5003,7 +5154,8 @@
     ],
     "oneLineZh": "以机械复制时代艺术、历史哲学和城市碎片书写重塑现代性批判的媒介维度。",
     "influenceWeight": 3,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "cohen",
@@ -5039,7 +5191,8 @@
     ],
     "oneLineZh": "以马堡新康德主义和犹太理性宗教哲学连接康德传统与罗森茨维格。",
     "influenceWeight": 3,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "eckhart",
@@ -5075,7 +5228,8 @@
     ],
     "oneLineZh": "以离执、灵魂贫乏和神秘合一把经院神学推进到德语神秘主义核心。",
     "influenceWeight": 2,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "cusa",
@@ -5112,7 +5266,8 @@
     ],
     "oneLineZh": "以有学问的无知、对立相合和无限者问题把中世纪神学推向文艺复兴形而上学。",
     "influenceWeight": 2,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "vico",
@@ -5148,7 +5303,8 @@
     ],
     "oneLineZh": "以 verum factum 原则和《新科学》开出历史、法、神话和语言的人类自造世界。",
     "influenceWeight": 2,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "herder",
@@ -5184,7 +5340,8 @@
     ],
     "oneLineZh": "以语言、民族精神和历史个体性批判抽象普遍主义，塑造德国历史主义与浪漫主义前史。",
     "influenceWeight": 2,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "iqbal",
@@ -5220,7 +5377,8 @@
     ],
     "oneLineZh": "以自我哲学、伊斯兰思想重构和诗性政治想象回应现代性中的宗教与主体问题。",
     "influenceWeight": 2,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "dharmakirti",
@@ -5254,7 +5412,8 @@
     ],
     "oneLineZh": "以量论、因明和语言排除论把陈那之后的佛教认识论推向印度与藏传传统的高峰。",
     "influenceWeight": 2,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "shinran",
@@ -5290,7 +5449,8 @@
     ],
     "oneLineZh": "以他力信心、念佛感恩和凡夫自觉重塑日本净土传统，奠定净土真宗。",
     "influenceWeight": 2,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "cheng-yi",
@@ -5327,7 +5487,8 @@
     ],
     "oneLineZh": "以天理、格物和敬的修养论奠定程朱理学的核心方向，成为朱熹思想直接源头。",
     "influenceWeight": 2,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "feng-youlan",
@@ -5364,7 +5525,8 @@
     ],
     "oneLineZh": "以现代哲学史写作和新理学体系把中国传统义理转译为二十世纪哲学问题。",
     "influenceWeight": 2,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "mou-zongsan",
@@ -5401,7 +5563,8 @@
     ],
     "oneLineZh": "以康德批判、智的直觉和儒家良知论建立现代新儒家的道德形上学。",
     "influenceWeight": 2,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "simone-weil",
@@ -5437,7 +5600,8 @@
     ],
     "oneLineZh": "以注意力、苦难、力量、义务和扎根思想连接神秘主义、伦理学与现代政治批判。",
     "influenceWeight": 2,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "mariategui",
@@ -5474,7 +5638,8 @@
     ],
     "oneLineZh": "以秘鲁现实分析、印第安土地问题和创造性社会主义构成拉丁美洲马克思主义的重要源头。",
     "influenceWeight": 2,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "zera-yacob",
@@ -5511,7 +5676,8 @@
     ],
     "oneLineZh": "以《探究》把信仰、理性、自然光和伦理平等组织为埃塞俄比亚理性主义传统。",
     "influenceWeight": 2,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "walda-heywat",
@@ -5548,7 +5714,8 @@
     ],
     "oneLineZh": "承接泽拉·雅各布的理性探究，把自然理性推进到教育、家庭、劳动和社会责任问题。",
     "influenceWeight": 1,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "edward-blyden",
@@ -5584,7 +5751,8 @@
     ],
     "oneLineZh": "以非洲人格、宗教比较和教育批判奠定泛非思想与非洲现代主体性的早期语言。",
     "influenceWeight": 2,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "nkrumah",
@@ -5620,7 +5788,8 @@
     ],
     "oneLineZh": "以良知主义、泛非统一和新殖民主义批判构成独立后非洲政治哲学的重要节点。",
     "influenceWeight": 2,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "macintyre",
@@ -5656,7 +5825,8 @@
     ],
     "oneLineZh": "以德性、实践和传统构成现代道德哲学中反自由主义与反情感主义的重要方案。",
     "influenceWeight": 2,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "rorty",
@@ -5692,7 +5862,8 @@
     ],
     "oneLineZh": "以反表象主义和新实用主义把分析哲学、德威传统和自由民主文化重新连接。",
     "influenceWeight": 2,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "kripke",
@@ -5728,7 +5899,8 @@
     ],
     "oneLineZh": "以模态逻辑、刚性指称和命名理论重塑二十世纪后期语言哲学与形而上学。",
     "influenceWeight": 2,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "putnam",
@@ -5764,7 +5936,8 @@
     ],
     "oneLineZh": "以语义外在论、实在论转向和事实价值纠缠贯穿语言、心灵、科学与伦理哲学。",
     "influenceWeight": 2,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "davidson",
@@ -5800,7 +5973,8 @@
     ],
     "oneLineZh": "以真理论语义学、激进解释和行动理论重塑后蒯因时代的语言哲学与心灵哲学。",
     "influenceWeight": 2,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "deleuze",
@@ -5836,7 +6010,8 @@
     ],
     "oneLineZh": "以差异、重复、生成和内在性重写形而上学、欲望理论与后结构主义政治想象。",
     "influenceWeight": 2,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "ricoeur",
@@ -5872,7 +6047,8 @@
     ],
     "oneLineZh": "在现象学和解释学之间发展象征、隐喻、叙事和自我身份理论。",
     "influenceWeight": 2,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "weber",
@@ -5908,7 +6084,8 @@
     ],
     "oneLineZh": "以理解社会学、理性化和支配类型分析现代资本主义、官僚制与政治责任。",
     "influenceWeight": 2,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "nishitani",
@@ -5944,7 +6121,8 @@
     ],
     "oneLineZh": "在京都学派中以佛教空回应现代虚无主义、宗教经验与欧洲存在论。",
     "influenceWeight": 2,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "radhakrishnan",
@@ -5980,7 +6158,8 @@
     ],
     "oneLineZh": "以现代吠檀多和比较哲学方式重述印度思想，并把宗教经验置于世界哲学对话中。",
     "influenceWeight": 2,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "madhva",
@@ -6016,7 +6195,8 @@
     ],
     "oneLineZh": "以二元论吠檀多反对不二论，强调神、灵魂和世界之间真实差异。",
     "influenceWeight": 2,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "charles-taylor",
@@ -6051,7 +6231,8 @@
     ],
     "oneLineZh": "以现代自我、承认政治和世俗化理论重塑政治哲学、伦理学与宗教现代性研究。",
     "influenceWeight": 2,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "bentham",
@@ -6087,7 +6268,8 @@
     ],
     "oneLineZh": "以最大幸福原则和制度化法改革把伦理学、立法学与现代政治计算连接起来。",
     "influenceWeight": 2,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "comte",
@@ -6123,7 +6305,8 @@
     ],
     "oneLineZh": "以三阶段律、科学分类和社会学构想把现代知识秩序与社会重组方案结合起来。",
     "influenceWeight": 2,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "schleiermacher",
@@ -6159,7 +6342,8 @@
     ],
     "oneLineZh": "以宗教感情理论和普遍诠释学把现代神学、解释理论与主体个体性连接起来。",
     "influenceWeight": 2,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "reid",
@@ -6195,7 +6379,8 @@
     ],
     "oneLineZh": "以常识原则和直接实在论回应怀疑论，并把认识论延伸到行动、责任和自由问题。",
     "influenceWeight": 2,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "tocqueville",
@@ -6231,7 +6416,8 @@
     ],
     "oneLineZh": "以民主平等条件、结社生活和中央集权批判分析现代自由社会的脆弱条件。",
     "influenceWeight": 2,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "gramsci",
@@ -6267,7 +6453,8 @@
     ],
     "oneLineZh": "以霸权、市民社会和有机知识分子理论重写马克思主义革命策略与文化政治。",
     "influenceWeight": 2,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "lukacs",
@@ -6303,7 +6490,8 @@
     ],
     "oneLineZh": "以物化、总体性和阶级意识理论奠定西方马克思主义与批判理论的重要前史。",
     "influenceWeight": 2,
-    "reviewStatus": "draft"
+    "reviewStatus": "draft",
+    "tier": "standard"
   },
   {
     "id": "bloch",
@@ -6338,6 +6526,5524 @@
       "弥赛亚意象"
     ],
     "oneLineZh": "以希望原则和尚未意识把马克思主义解放政治、宗教象征和乌托邦想象连接起来。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft",
+    "tier": "standard"
+  },
+  {
+    "id": "marcuse",
+    "tier": "standard",
+    "names": {
+      "zh": "马尔库塞",
+      "en": "Herbert Marcuse"
+    },
+    "life": {
+      "birth": 1898,
+      "death": 1979,
+      "display": "1898—1979"
+    },
+    "civilization": "western_modern",
+    "traditions": [
+      "critical_theory",
+      "western_marxism",
+      "philosophy_of_technology"
+    ],
+    "periods": [
+      "expansion_d3"
+    ],
+    "themes": [
+      "politics",
+      "freedom",
+      "aesthetics"
+    ],
+    "keywordsZh": [
+      "单向度社会",
+      "技术理性",
+      "爱欲",
+      "压抑性宽容",
+      "解放"
+    ],
+    "oneLineZh": "以技术理性、欲望解放和发达工业社会批判推进法兰克福学派政治哲学。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "fromm",
+    "tier": "standard",
+    "names": {
+      "zh": "弗洛姆",
+      "en": "Erich Fromm"
+    },
+    "life": {
+      "birth": 1900,
+      "death": 1980,
+      "display": "1900—1980"
+    },
+    "civilization": "western_modern",
+    "traditions": [
+      "humanistic_psychoanalysis",
+      "western_marxism",
+      "social_philosophy"
+    ],
+    "periods": [
+      "expansion_d3"
+    ],
+    "themes": [
+      "freedom",
+      "ethics",
+      "politics"
+    ],
+    "keywordsZh": [
+      "逃避自由",
+      "社会性格",
+      "异化",
+      "人本伦理",
+      "占有与存在"
+    ],
+    "oneLineZh": "以人本精神分析和马克思主义异化理论解释现代自由、人格和社会病理。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "berlin",
+    "tier": "standard",
+    "names": {
+      "zh": "伯林",
+      "en": "Isaiah Berlin"
+    },
+    "life": {
+      "birth": 1909,
+      "death": 1997,
+      "display": "1909—1997"
+    },
+    "civilization": "western_modern",
+    "traditions": [
+      "liberalism",
+      "value_pluralism",
+      "history_of_ideas"
+    ],
+    "periods": [
+      "expansion_d3"
+    ],
+    "themes": [
+      "freedom",
+      "politics",
+      "ethics"
+    ],
+    "keywordsZh": [
+      "消极自由",
+      "积极自由",
+      "价值多元",
+      "反决定论",
+      "思想史"
+    ],
+    "oneLineZh": "以两种自由概念和价值多元论重塑二十世纪自由主义的反乌托邦论证。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "hayek",
+    "tier": "standard",
+    "names": {
+      "zh": "哈耶克",
+      "en": "Friedrich Hayek"
+    },
+    "life": {
+      "birth": 1899,
+      "death": 1992,
+      "display": "1899—1992"
+    },
+    "civilization": "western_modern",
+    "traditions": [
+      "classical_liberalism",
+      "political_economy",
+      "social_epistemology"
+    ],
+    "periods": [
+      "expansion_d3"
+    ],
+    "themes": [
+      "politics",
+      "knowledge",
+      "freedom"
+    ],
+    "keywordsZh": [
+      "自发秩序",
+      "知识问题",
+      "法治",
+      "计划批判",
+      "市场秩序"
+    ],
+    "oneLineZh": "以分散知识和自发秩序理论批判计划理性，并重构自由主义法治论。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "schmitt",
+    "tier": "standard",
+    "names": {
+      "zh": "施米特",
+      "en": "Carl Schmitt"
+    },
+    "life": {
+      "birth": 1888,
+      "death": 1985,
+      "display": "1888—1985"
+    },
+    "civilization": "western_modern",
+    "traditions": [
+      "political_theology",
+      "legal_theory",
+      "decisionism"
+    ],
+    "periods": [
+      "expansion_d3"
+    ],
+    "themes": [
+      "politics",
+      "justice",
+      "religion"
+    ],
+    "keywordsZh": [
+      "主权",
+      "例外状态",
+      "敌友区分",
+      "政治神学",
+      "议会制批判"
+    ],
+    "oneLineZh": "以主权决断、例外状态和敌友区分揭示现代政治秩序的危机，同时必须置于反自由主义和纳粹牵连的批判语境中。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "croce",
+    "tier": "standard",
+    "names": {
+      "zh": "克罗齐",
+      "en": "Benedetto Croce"
+    },
+    "life": {
+      "birth": 1866,
+      "death": 1952,
+      "display": "1866—1952"
+    },
+    "civilization": "western_modern",
+    "traditions": [
+      "historicism",
+      "idealism",
+      "aesthetics"
+    ],
+    "periods": [
+      "expansion_d3"
+    ],
+    "themes": [
+      "aesthetics",
+      "knowledge",
+      "freedom"
+    ],
+    "keywordsZh": [
+      "表现美学",
+      "历史主义",
+      "自由史观",
+      "精神哲学",
+      "维柯复兴"
+    ],
+    "oneLineZh": "以表现美学、历史主义和自由史观重构意大利唯心主义，并推动维柯的现代复兴。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "yan-hui",
+    "tier": "seed",
+    "names": {
+      "zh": "颜回",
+      "en": "Yan Hui",
+      "native": "颜回"
+    },
+    "life": {
+      "birth": -521,
+      "death": -481,
+      "display": "前521—前481"
+    },
+    "civilization": "chinese",
+    "traditions": [
+      "confucianism"
+    ],
+    "periods": [
+      "spring_autumn"
+    ],
+    "themes": [
+      "ethics",
+      "knowledge"
+    ],
+    "keywordsZh": [
+      "孔门",
+      "仁学",
+      "安贫乐道"
+    ],
+    "oneLineZh": "孔门弟子中以德行著称的颜渊，后世常以其代表儒家修身典范。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "zengzi",
+    "tier": "seed",
+    "names": {
+      "zh": "曾子",
+      "en": "Zengzi",
+      "native": "曾參"
+    },
+    "life": {
+      "birth": -505,
+      "death": -435,
+      "display": "约前505—约前435"
+    },
+    "civilization": "chinese",
+    "traditions": [
+      "confucianism"
+    ],
+    "periods": [
+      "spring_autumn",
+      "warring_states"
+    ],
+    "themes": [
+      "ethics",
+      "knowledge"
+    ],
+    "keywordsZh": [
+      "孝道",
+      "孔门",
+      "大学"
+    ],
+    "oneLineZh": "孔门后学中以孝道、慎独与修身传承著称的儒家人物。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "zisi",
+    "tier": "seed",
+    "names": {
+      "zh": "子思",
+      "en": "Zisi",
+      "native": "孔伋"
+    },
+    "life": {
+      "birth": -483,
+      "death": -402,
+      "display": "约前483—约前402"
+    },
+    "civilization": "chinese",
+    "traditions": [
+      "confucianism"
+    ],
+    "periods": [
+      "warring_states"
+    ],
+    "themes": [
+      "ethics",
+      "metaphysics"
+    ],
+    "keywordsZh": [
+      "中庸",
+      "孔门后学",
+      "性命"
+    ],
+    "oneLineZh": "孔子之孙、战国早期儒家传承中连接孔孟的重要人物。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "zigong",
+    "tier": "seed",
+    "names": {
+      "zh": "子贡",
+      "en": "Zigong",
+      "native": "端木賜"
+    },
+    "life": {
+      "birth": -520,
+      "death": -456,
+      "display": "约前520—约前456"
+    },
+    "civilization": "chinese",
+    "traditions": [
+      "confucianism"
+    ],
+    "periods": [
+      "spring_autumn"
+    ],
+    "themes": [
+      "ethics",
+      "politics"
+    ],
+    "keywordsZh": [
+      "孔门",
+      "外交",
+      "言语科"
+    ],
+    "oneLineZh": "以言语、政事与外交能力著称的孔门弟子。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "shang-yang",
+    "tier": "seed",
+    "names": {
+      "zh": "商鞅",
+      "en": "Shang Yang",
+      "native": "商鞅"
+    },
+    "life": {
+      "birth": -390,
+      "death": -338,
+      "display": "约前390—前338"
+    },
+    "civilization": "chinese",
+    "traditions": [
+      "legalism"
+    ],
+    "periods": [
+      "warring_states"
+    ],
+    "themes": [
+      "politics",
+      "justice"
+    ],
+    "keywordsZh": [
+      "法家",
+      "变法",
+      "秦国"
+    ],
+    "oneLineZh": "战国法家改革者，秦国制度转型的关键人物。",
+    "influenceWeight": 3,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "shen-buhai",
+    "tier": "seed",
+    "names": {
+      "zh": "申不害",
+      "en": "Shen Buhai",
+      "native": "申不害"
+    },
+    "life": {
+      "birth": -400,
+      "death": -337,
+      "display": "约前400—前337"
+    },
+    "civilization": "chinese",
+    "traditions": [
+      "legalism"
+    ],
+    "periods": [
+      "warring_states"
+    ],
+    "themes": [
+      "politics",
+      "knowledge"
+    ],
+    "keywordsZh": [
+      "术",
+      "法家",
+      "官僚制"
+    ],
+    "oneLineZh": "战国韩国相，以“术”与官僚控制问题著称的法家人物。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "shen-dao",
+    "tier": "seed",
+    "names": {
+      "zh": "慎到",
+      "en": "Shen Dao",
+      "native": "慎到"
+    },
+    "life": {
+      "birth": -350,
+      "death": -275,
+      "display": "约前350—约前275"
+    },
+    "civilization": "chinese",
+    "traditions": [
+      "legalism",
+      "daoism"
+    ],
+    "periods": [
+      "warring_states"
+    ],
+    "themes": [
+      "politics",
+      "metaphysics"
+    ],
+    "keywordsZh": [
+      "势",
+      "黄老",
+      "稷下"
+    ],
+    "oneLineZh": "战国稷下学者，常被视为法家“势”论代表。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "hui-shi",
+    "tier": "seed",
+    "names": {
+      "zh": "惠施",
+      "en": "Hui Shi",
+      "native": "惠施"
+    },
+    "life": {
+      "birth": -380,
+      "death": -305,
+      "display": "约前380—约前305"
+    },
+    "civilization": "chinese",
+    "traditions": [
+      "mingjia"
+    ],
+    "periods": [
+      "warring_states"
+    ],
+    "themes": [
+      "language",
+      "metaphysics"
+    ],
+    "keywordsZh": [
+      "名家",
+      "辩者",
+      "合同异"
+    ],
+    "oneLineZh": "战国名家代表，与庄子同时并以辩学和合同异命题著称。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "gongsun-long",
+    "tier": "seed",
+    "names": {
+      "zh": "公孙龙",
+      "en": "Gongsun Long",
+      "native": "公孫龍"
+    },
+    "life": {
+      "birth": -320,
+      "death": -250,
+      "display": "约前320—约前250"
+    },
+    "civilization": "chinese",
+    "traditions": [
+      "mingjia"
+    ],
+    "periods": [
+      "warring_states"
+    ],
+    "themes": [
+      "language",
+      "knowledge"
+    ],
+    "keywordsZh": [
+      "名家",
+      "白马非马",
+      "辩学"
+    ],
+    "oneLineZh": "战国名家代表，以白马非马等名实论辩著称。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "yang-zhu",
+    "tier": "seed",
+    "names": {
+      "zh": "杨朱",
+      "en": "Yang Zhu",
+      "native": "楊朱"
+    },
+    "life": {
+      "birth": -440,
+      "death": -360,
+      "display": "约前440—约前360"
+    },
+    "civilization": "chinese",
+    "traditions": [
+      "yangism"
+    ],
+    "periods": [
+      "warring_states"
+    ],
+    "themes": [
+      "ethics",
+      "freedom"
+    ],
+    "keywordsZh": [
+      "为我",
+      "贵己",
+      "孟子批判"
+    ],
+    "oneLineZh": "战国思想人物，因“为我”“贵己”传统而在儒墨之间成为重要参照。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "xu-xing",
+    "tier": "seed",
+    "names": {
+      "zh": "许行",
+      "en": "Xu Xing",
+      "native": "許行"
+    },
+    "life": {
+      "birth": -390,
+      "death": -315,
+      "display": "约前390—约前315"
+    },
+    "civilization": "chinese",
+    "traditions": [
+      "nongjia"
+    ],
+    "periods": [
+      "warring_states"
+    ],
+    "themes": [
+      "politics",
+      "ethics"
+    ],
+    "keywordsZh": [
+      "农家",
+      "并耕",
+      "孟子辩论"
+    ],
+    "oneLineZh": "战国农家代表人物，以并耕主张见于《孟子》。",
+    "influenceWeight": 1,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "zou-yan",
+    "tier": "seed",
+    "names": {
+      "zh": "邹衍",
+      "en": "Zou Yan",
+      "native": "鄒衍"
+    },
+    "life": {
+      "birth": -305,
+      "death": -240,
+      "display": "约前305—约前240"
+    },
+    "civilization": "chinese",
+    "traditions": [
+      "yin_yang_jia"
+    ],
+    "periods": [
+      "warring_states"
+    ],
+    "themes": [
+      "metaphysics",
+      "politics"
+    ],
+    "keywordsZh": [
+      "阴阳家",
+      "五德终始",
+      "稷下"
+    ],
+    "oneLineZh": "战国阴阳家代表，以五德终始和大九州说著称。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "song-xing",
+    "tier": "seed",
+    "names": {
+      "zh": "宋钘",
+      "en": "Song Xing",
+      "native": "宋鈃"
+    },
+    "life": {
+      "birth": -370,
+      "death": -291,
+      "display": "约前370—约前291"
+    },
+    "civilization": "chinese",
+    "traditions": [
+      "jixia",
+      "mohism"
+    ],
+    "periods": [
+      "warring_states"
+    ],
+    "themes": [
+      "ethics",
+      "politics"
+    ],
+    "keywordsZh": [
+      "稷下",
+      "兼爱非斗",
+      "寡欲"
+    ],
+    "oneLineZh": "战国稷下思想人物，常与尹文并称，主张节欲与非斗。",
+    "influenceWeight": 1,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "yin-wen",
+    "tier": "seed",
+    "names": {
+      "zh": "尹文",
+      "en": "Yin Wen",
+      "native": "尹文"
+    },
+    "life": {
+      "birth": -360,
+      "death": -280,
+      "display": "约前360—约前280"
+    },
+    "civilization": "chinese",
+    "traditions": [
+      "mingjia",
+      "jixia"
+    ],
+    "periods": [
+      "warring_states"
+    ],
+    "themes": [
+      "language",
+      "politics"
+    ],
+    "keywordsZh": [
+      "名实",
+      "稷下",
+      "尹文子"
+    ],
+    "oneLineZh": "战国稷下人物，常与名实、刑名和尹文子传统相连。",
+    "influenceWeight": 1,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "guan-zhong",
+    "tier": "seed",
+    "names": {
+      "zh": "管仲",
+      "en": "Guan Zhong",
+      "native": "管仲"
+    },
+    "life": {
+      "birth": -720,
+      "death": -645,
+      "display": "约前720—前645"
+    },
+    "civilization": "chinese",
+    "traditions": [
+      "legalism",
+      "confucian_political_thought"
+    ],
+    "periods": [
+      "spring_autumn"
+    ],
+    "themes": [
+      "politics",
+      "justice"
+    ],
+    "keywordsZh": [
+      "齐桓公",
+      "霸政",
+      "管子"
+    ],
+    "oneLineZh": "春秋齐国政治家，传统上被视为富国强兵和制度治理先驱。",
+    "influenceWeight": 3,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "yan-ying",
+    "tier": "seed",
+    "names": {
+      "zh": "晏婴",
+      "en": "Yan Ying",
+      "native": "晏嬰"
+    },
+    "life": {
+      "birth": -578,
+      "death": -500,
+      "display": "约前578—前500"
+    },
+    "civilization": "chinese",
+    "traditions": [
+      "confucian_political_thought"
+    ],
+    "periods": [
+      "spring_autumn"
+    ],
+    "themes": [
+      "ethics",
+      "politics"
+    ],
+    "keywordsZh": [
+      "齐国",
+      "谏诤",
+      "晏子春秋"
+    ],
+    "oneLineZh": "春秋齐国政治家，以节俭、机智和谏诤形象著称。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "sunzi",
+    "tier": "seed",
+    "names": {
+      "zh": "孙子",
+      "en": "Sunzi",
+      "native": "孫武"
+    },
+    "life": {
+      "birth": -544,
+      "death": -496,
+      "display": "约前544—约前496"
+    },
+    "civilization": "chinese",
+    "traditions": [
+      "military_thought"
+    ],
+    "periods": [
+      "spring_autumn"
+    ],
+    "themes": [
+      "politics",
+      "knowledge"
+    ],
+    "keywordsZh": [
+      "兵法",
+      "吴国",
+      "谋略"
+    ],
+    "oneLineZh": "《孙子兵法》所系兵学传统的核心人物。",
+    "influenceWeight": 3,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "wu-qi",
+    "tier": "seed",
+    "names": {
+      "zh": "吴起",
+      "en": "Wu Qi",
+      "native": "吳起"
+    },
+    "life": {
+      "birth": -440,
+      "death": -381,
+      "display": "约前440—前381"
+    },
+    "civilization": "chinese",
+    "traditions": [
+      "military_thought",
+      "legalism"
+    ],
+    "periods": [
+      "warring_states"
+    ],
+    "themes": [
+      "politics",
+      "justice"
+    ],
+    "keywordsZh": [
+      "兵家",
+      "变法",
+      "吴子"
+    ],
+    "oneLineZh": "战国军事家和改革者，兼具兵家与法家制度色彩。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "lu-buwei",
+    "tier": "seed",
+    "names": {
+      "zh": "吕不韦",
+      "en": "Lü Buwei",
+      "native": "呂不韋"
+    },
+    "life": {
+      "birth": -291,
+      "death": -235,
+      "display": "约前291—前235"
+    },
+    "civilization": "chinese",
+    "traditions": [
+      "zajia",
+      "legalism"
+    ],
+    "periods": [
+      "warring_states"
+    ],
+    "themes": [
+      "politics",
+      "knowledge"
+    ],
+    "keywordsZh": [
+      "吕氏春秋",
+      "秦相",
+      "杂家"
+    ],
+    "oneLineZh": "战国末秦相，《吕氏春秋》编纂工程的组织者。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "li-si",
+    "tier": "seed",
+    "names": {
+      "zh": "李斯",
+      "en": "Li Si",
+      "native": "李斯"
+    },
+    "life": {
+      "birth": -280,
+      "death": -208,
+      "display": "约前280—前208"
+    },
+    "civilization": "chinese",
+    "traditions": [
+      "legalism"
+    ],
+    "periods": [
+      "warring_states",
+      "qin"
+    ],
+    "themes": [
+      "politics",
+      "language"
+    ],
+    "keywordsZh": [
+      "秦制",
+      "小篆",
+      "谏逐客书"
+    ],
+    "oneLineZh": "秦帝国制度建设核心官僚，承接荀学与法家治理。",
+    "influenceWeight": 3,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "dong-zhongshu",
+    "tier": "seed",
+    "names": {
+      "zh": "董仲舒",
+      "en": "Dong Zhongshu",
+      "native": "董仲舒"
+    },
+    "life": {
+      "birth": -179,
+      "death": -104,
+      "display": "约前179—前104"
+    },
+    "civilization": "chinese",
+    "traditions": [
+      "confucianism",
+      "han_confucianism"
+    ],
+    "periods": [
+      "western_han"
+    ],
+    "themes": [
+      "politics",
+      "metaphysics"
+    ],
+    "keywordsZh": [
+      "春秋繁露",
+      "天人感应",
+      "汉儒"
+    ],
+    "oneLineZh": "西汉儒家代表，将春秋学、阴阳五行与王朝政治结合。",
+    "influenceWeight": 3,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "yang-xiong",
+    "tier": "seed",
+    "names": {
+      "zh": "扬雄",
+      "en": "Yang Xiong",
+      "native": "揚雄"
+    },
+    "life": {
+      "birth": -53,
+      "death": 18,
+      "display": "前53—18"
+    },
+    "civilization": "chinese",
+    "traditions": [
+      "confucianism",
+      "han_confucianism"
+    ],
+    "periods": [
+      "western_han",
+      "xin"
+    ],
+    "themes": [
+      "knowledge",
+      "metaphysics"
+    ],
+    "keywordsZh": [
+      "法言",
+      "太玄",
+      "拟经"
+    ],
+    "oneLineZh": "西汉末思想家和文学家，以《法言》《太玄》拟经著称。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "wang-chong",
+    "tier": "seed",
+    "names": {
+      "zh": "王充",
+      "en": "Wang Chong",
+      "native": "王充"
+    },
+    "life": {
+      "birth": 27,
+      "death": 97,
+      "display": "27—约97"
+    },
+    "civilization": "chinese",
+    "traditions": [
+      "han_confucianism",
+      "naturalism"
+    ],
+    "periods": [
+      "eastern_han"
+    ],
+    "themes": [
+      "knowledge",
+      "metaphysics"
+    ],
+    "keywordsZh": [
+      "论衡",
+      "疾虚妄",
+      "自然论"
+    ],
+    "oneLineZh": "东汉思想家，以《论衡》批判谶纬迷信和虚妄之说。",
+    "influenceWeight": 3,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "liu-an",
+    "tier": "seed",
+    "names": {
+      "zh": "刘安",
+      "en": "Liu An",
+      "native": "劉安"
+    },
+    "life": {
+      "birth": -179,
+      "death": -122,
+      "display": "前179—前122"
+    },
+    "civilization": "chinese",
+    "traditions": [
+      "daoism",
+      "zajia"
+    ],
+    "periods": [
+      "western_han"
+    ],
+    "themes": [
+      "metaphysics",
+      "politics"
+    ],
+    "keywordsZh": [
+      "淮南子",
+      "黄老",
+      "诸子汇编"
+    ],
+    "oneLineZh": "西汉淮南王，《淮南子》编纂工程的中心人物。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "lu-jia",
+    "tier": "seed",
+    "names": {
+      "zh": "陆贾",
+      "en": "Lu Jia",
+      "native": "陸賈"
+    },
+    "life": {
+      "birth": -240,
+      "death": -170,
+      "display": "约前240—约前170"
+    },
+    "civilization": "chinese",
+    "traditions": [
+      "confucianism",
+      "han_political_thought"
+    ],
+    "periods": [
+      "western_han"
+    ],
+    "themes": [
+      "politics",
+      "ethics"
+    ],
+    "keywordsZh": [
+      "新语",
+      "汉初儒生",
+      "马上治天下"
+    ],
+    "oneLineZh": "汉初政论家，以《新语》说明秦亡汉兴和文治秩序。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "jia-yi",
+    "tier": "seed",
+    "names": {
+      "zh": "贾谊",
+      "en": "Jia Yi",
+      "native": "賈誼"
+    },
+    "life": {
+      "birth": -200,
+      "death": -168,
+      "display": "前200—前168"
+    },
+    "civilization": "chinese",
+    "traditions": [
+      "confucianism",
+      "han_political_thought"
+    ],
+    "periods": [
+      "western_han"
+    ],
+    "themes": [
+      "politics",
+      "justice"
+    ],
+    "keywordsZh": [
+      "新书",
+      "过秦论",
+      "汉初政论"
+    ],
+    "oneLineZh": "西汉初政论家，以制度改革和秦亡反思著称。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "sima-tan",
+    "tier": "seed",
+    "names": {
+      "zh": "司马谈",
+      "en": "Sima Tan",
+      "native": "司馬談"
+    },
+    "life": {
+      "birth": -165,
+      "death": -110,
+      "display": "约前165—前110"
+    },
+    "civilization": "chinese",
+    "traditions": [
+      "han_confucianism",
+      "historiography"
+    ],
+    "periods": [
+      "western_han"
+    ],
+    "themes": [
+      "knowledge",
+      "politics"
+    ],
+    "keywordsZh": [
+      "论六家要旨",
+      "太史令",
+      "史记前史"
+    ],
+    "oneLineZh": "西汉太史令，以六家分类奠定《史记》思想框架。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "sima-qian",
+    "tier": "seed",
+    "names": {
+      "zh": "司马迁",
+      "en": "Sima Qian",
+      "native": "司馬遷"
+    },
+    "life": {
+      "birth": -145,
+      "death": -86,
+      "display": "约前145—约前86"
+    },
+    "civilization": "chinese",
+    "traditions": [
+      "historiography",
+      "han_confucianism"
+    ],
+    "periods": [
+      "western_han"
+    ],
+    "themes": [
+      "knowledge",
+      "politics"
+    ],
+    "keywordsZh": [
+      "史记",
+      "太史公",
+      "究天人之际"
+    ],
+    "oneLineZh": "西汉史学家，《史记》作者，开创纪传体通史典范。",
+    "influenceWeight": 3,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "huan-tan",
+    "tier": "seed",
+    "names": {
+      "zh": "桓谭",
+      "en": "Huan Tan",
+      "native": "桓譚"
+    },
+    "life": {
+      "birth": -43,
+      "death": 28,
+      "display": "约前43—28"
+    },
+    "civilization": "chinese",
+    "traditions": [
+      "han_confucianism",
+      "naturalism"
+    ],
+    "periods": [
+      "western_han",
+      "eastern_han"
+    ],
+    "themes": [
+      "knowledge",
+      "metaphysics"
+    ],
+    "keywordsZh": [
+      "新论",
+      "反谶纬",
+      "东汉思想"
+    ],
+    "oneLineZh": "两汉之际思想家，以《新论》与反谶纬立场著称。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "zheng-xuan",
+    "tier": "seed",
+    "names": {
+      "zh": "郑玄",
+      "en": "Zheng Xuan",
+      "native": "鄭玄"
+    },
+    "life": {
+      "birth": 127,
+      "death": 200,
+      "display": "127—200"
+    },
+    "civilization": "chinese",
+    "traditions": [
+      "confucianism",
+      "han_confucianism"
+    ],
+    "periods": [
+      "eastern_han"
+    ],
+    "themes": [
+      "knowledge",
+      "language"
+    ],
+    "keywordsZh": [
+      "经学",
+      "郑笺",
+      "汉末注疏"
+    ],
+    "oneLineZh": "东汉经学大师，以综合今古文经学和经注体系著称。",
+    "influenceWeight": 3,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "xu-gan",
+    "tier": "seed",
+    "names": {
+      "zh": "徐干",
+      "en": "Xu Gan",
+      "native": "徐幹"
+    },
+    "life": {
+      "birth": 171,
+      "death": 218,
+      "display": "171—218"
+    },
+    "civilization": "chinese",
+    "traditions": [
+      "confucianism",
+      "jianan_thought"
+    ],
+    "periods": [
+      "eastern_han",
+      "three_kingdoms"
+    ],
+    "themes": [
+      "ethics",
+      "politics"
+    ],
+    "keywordsZh": [
+      "中论",
+      "建安七子",
+      "名实"
+    ],
+    "oneLineZh": "东汉末建安思想家，以《中论》讨论治国、修身和名实问题。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "wang-fu",
+    "tier": "seed",
+    "names": {
+      "zh": "王符",
+      "en": "Wang Fu",
+      "native": "王符"
+    },
+    "life": {
+      "birth": 78,
+      "death": 163,
+      "display": "约78—约163"
+    },
+    "civilization": "chinese",
+    "traditions": [
+      "confucianism",
+      "han_political_thought"
+    ],
+    "periods": [
+      "eastern_han"
+    ],
+    "themes": [
+      "politics",
+      "ethics"
+    ],
+    "keywordsZh": [
+      "潜夫论",
+      "隐士批判",
+      "东汉政论"
+    ],
+    "oneLineZh": "东汉政论家，以《潜夫论》批评时政与士风。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "xun-yue",
+    "tier": "seed",
+    "names": {
+      "zh": "荀悦",
+      "en": "Xun Yue",
+      "native": "荀悅"
+    },
+    "life": {
+      "birth": 148,
+      "death": 209,
+      "display": "148—209"
+    },
+    "civilization": "chinese",
+    "traditions": [
+      "confucianism",
+      "historiography"
+    ],
+    "periods": [
+      "eastern_han"
+    ],
+    "themes": [
+      "politics",
+      "knowledge"
+    ],
+    "keywordsZh": [
+      "申鉴",
+      "汉纪",
+      "荀氏"
+    ],
+    "oneLineZh": "东汉末史学家和政论家，以《申鉴》《汉纪》著称。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "zhongchang-tong",
+    "tier": "seed",
+    "names": {
+      "zh": "仲长统",
+      "en": "Zhongchang Tong",
+      "native": "仲長統"
+    },
+    "life": {
+      "birth": 180,
+      "death": 220,
+      "display": "180—220"
+    },
+    "civilization": "chinese",
+    "traditions": [
+      "confucianism",
+      "jianan_thought"
+    ],
+    "periods": [
+      "eastern_han",
+      "three_kingdoms"
+    ],
+    "themes": [
+      "politics",
+      "freedom"
+    ],
+    "keywordsZh": [
+      "昌言",
+      "汉末政论",
+      "士人独立"
+    ],
+    "oneLineZh": "汉末政论家，以《昌言》表达制度批判和士人自立意识。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "liu-xiang",
+    "tier": "seed",
+    "names": {
+      "zh": "刘向",
+      "en": "Liu Xiang",
+      "native": "劉向"
+    },
+    "life": {
+      "birth": -77,
+      "death": -6,
+      "display": "前77—前6"
+    },
+    "civilization": "chinese",
+    "traditions": [
+      "confucianism",
+      "han_bibliography"
+    ],
+    "periods": [
+      "western_han"
+    ],
+    "themes": [
+      "knowledge",
+      "ethics"
+    ],
+    "keywordsZh": [
+      "说苑",
+      "新序",
+      "校书"
+    ],
+    "oneLineZh": "西汉经学家、目录学家和故事编纂者，整理典籍并重塑儒家政治记忆。",
+    "influenceWeight": 3,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "liu-xin",
+    "tier": "seed",
+    "names": {
+      "zh": "刘歆",
+      "en": "Liu Xin",
+      "native": "劉歆"
+    },
+    "life": {
+      "birth": -50,
+      "death": 23,
+      "display": "约前50—23"
+    },
+    "civilization": "chinese",
+    "traditions": [
+      "confucianism",
+      "han_bibliography"
+    ],
+    "periods": [
+      "western_han",
+      "xin"
+    ],
+    "themes": [
+      "knowledge",
+      "politics"
+    ],
+    "keywordsZh": [
+      "七略",
+      "古文经学",
+      "校书"
+    ],
+    "oneLineZh": "西汉末至新莽时期经学家和目录学家，推动古文经学与目录体系。",
+    "influenceWeight": 3,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "he-yan",
+    "tier": "seed",
+    "names": {
+      "zh": "何晏",
+      "en": "He Yan",
+      "native": "何晏"
+    },
+    "life": {
+      "birth": 195,
+      "death": 249,
+      "display": "195—249"
+    },
+    "civilization": "chinese",
+    "traditions": [
+      "xuanxue",
+      "confucianism"
+    ],
+    "periods": [
+      "three_kingdoms"
+    ],
+    "themes": [
+      "metaphysics",
+      "ethics"
+    ],
+    "keywordsZh": [
+      "玄学",
+      "论语集解",
+      "贵无"
+    ],
+    "oneLineZh": "曹魏玄学人物，主持《论语集解》并推动贵无论讨论。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "ruan-ji",
+    "tier": "seed",
+    "names": {
+      "zh": "阮籍",
+      "en": "Ruan Ji",
+      "native": "阮籍"
+    },
+    "life": {
+      "birth": 210,
+      "death": 263,
+      "display": "210—263"
+    },
+    "civilization": "chinese",
+    "traditions": [
+      "xuanxue"
+    ],
+    "periods": [
+      "three_kingdoms",
+      "western_jin"
+    ],
+    "themes": [
+      "freedom",
+      "ethics"
+    ],
+    "keywordsZh": [
+      "竹林七贤",
+      "达庄论",
+      "大人先生传"
+    ],
+    "oneLineZh": "魏晋玄学名士，以人格自由、礼法批判和庄学接受著称。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "ji-kang",
+    "tier": "seed",
+    "names": {
+      "zh": "嵇康",
+      "en": "Ji Kang",
+      "native": "嵇康"
+    },
+    "life": {
+      "birth": 223,
+      "death": 262,
+      "display": "223—262"
+    },
+    "civilization": "chinese",
+    "traditions": [
+      "xuanxue"
+    ],
+    "periods": [
+      "three_kingdoms",
+      "western_jin"
+    ],
+    "themes": [
+      "freedom",
+      "aesthetics"
+    ],
+    "keywordsZh": [
+      "竹林七贤",
+      "声无哀乐论",
+      "养生论"
+    ],
+    "oneLineZh": "魏晋玄学名士，以自然、音乐和养生论著称。",
+    "influenceWeight": 3,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "xiang-xiu",
+    "tier": "seed",
+    "names": {
+      "zh": "向秀",
+      "en": "Xiang Xiu",
+      "native": "向秀"
+    },
+    "life": {
+      "birth": 227,
+      "death": 272,
+      "display": "约227—272"
+    },
+    "civilization": "chinese",
+    "traditions": [
+      "xuanxue",
+      "daoism"
+    ],
+    "periods": [
+      "western_jin"
+    ],
+    "themes": [
+      "metaphysics",
+      "aesthetics"
+    ],
+    "keywordsZh": [
+      "庄子注",
+      "竹林七贤",
+      "自然名教"
+    ],
+    "oneLineZh": "魏晋玄学人物，以《庄子注》和自然名教讨论著称。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "pei-wei",
+    "tier": "seed",
+    "names": {
+      "zh": "裴頠",
+      "en": "Pei Wei",
+      "native": "裴頠"
+    },
+    "life": {
+      "birth": 267,
+      "death": 300,
+      "display": "267—300"
+    },
+    "civilization": "chinese",
+    "traditions": [
+      "xuanxue",
+      "confucianism"
+    ],
+    "periods": [
+      "western_jin"
+    ],
+    "themes": [
+      "metaphysics",
+      "politics"
+    ],
+    "keywordsZh": [
+      "崇有论",
+      "反贵无",
+      "西晋玄学"
+    ],
+    "oneLineZh": "西晋思想家，以《崇有论》反思贵无玄学。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "ge-hong",
+    "tier": "seed",
+    "names": {
+      "zh": "葛洪",
+      "en": "Ge Hong",
+      "native": "葛洪"
+    },
+    "life": {
+      "birth": 283,
+      "death": 343,
+      "display": "283—343"
+    },
+    "civilization": "chinese",
+    "traditions": [
+      "daoism"
+    ],
+    "periods": [
+      "eastern_jin"
+    ],
+    "themes": [
+      "religion",
+      "metaphysics"
+    ],
+    "keywordsZh": [
+      "抱朴子",
+      "神仙传",
+      "道教"
+    ],
+    "oneLineZh": "东晋道教思想家和炼养理论家，以《抱朴子》著称。",
+    "influenceWeight": 3,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "fan-zhen",
+    "tier": "seed",
+    "names": {
+      "zh": "范缜",
+      "en": "Fan Zhen",
+      "native": "范縝"
+    },
+    "life": {
+      "birth": 450,
+      "death": 515,
+      "display": "约450—约515"
+    },
+    "civilization": "chinese",
+    "traditions": [
+      "confucianism",
+      "anti_buddhist_thought"
+    ],
+    "periods": [
+      "northern_southern_dynasties"
+    ],
+    "themes": [
+      "metaphysics",
+      "religion"
+    ],
+    "keywordsZh": [
+      "神灭论",
+      "形神关系",
+      "反佛论"
+    ],
+    "oneLineZh": "南朝思想家，以《神灭论》批判神不灭和因果报应观。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "tao-hongjing",
+    "tier": "seed",
+    "names": {
+      "zh": "陶弘景",
+      "en": "Tao Hongjing",
+      "native": "陶弘景"
+    },
+    "life": {
+      "birth": 456,
+      "death": 536,
+      "display": "456—536"
+    },
+    "civilization": "chinese",
+    "traditions": [
+      "daoism"
+    ],
+    "periods": [
+      "northern_southern_dynasties"
+    ],
+    "themes": [
+      "religion",
+      "knowledge"
+    ],
+    "keywordsZh": [
+      "上清派",
+      "真诰",
+      "本草经集注"
+    ],
+    "oneLineZh": "南朝道教上清派宗师，兼具医药、山林和经典整理身份。",
+    "influenceWeight": 3,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "lu-xiujing",
+    "tier": "seed",
+    "names": {
+      "zh": "陆修静",
+      "en": "Lu Xiujing",
+      "native": "陸修靜"
+    },
+    "life": {
+      "birth": 406,
+      "death": 477,
+      "display": "406—477"
+    },
+    "civilization": "chinese",
+    "traditions": [
+      "daoism"
+    ],
+    "periods": [
+      "northern_southern_dynasties"
+    ],
+    "themes": [
+      "religion",
+      "knowledge"
+    ],
+    "keywordsZh": [
+      "灵宝派",
+      "三洞目录",
+      "斋仪"
+    ],
+    "oneLineZh": "南朝道士和道教制度整理者，推动灵宝经典与三洞目录体系。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "kou-qianzhi",
+    "tier": "seed",
+    "names": {
+      "zh": "寇谦之",
+      "en": "Kou Qianzhi",
+      "native": "寇謙之"
+    },
+    "life": {
+      "birth": 365,
+      "death": 448,
+      "display": "365—448"
+    },
+    "civilization": "chinese",
+    "traditions": [
+      "daoism"
+    ],
+    "periods": [
+      "northern_southern_dynasties"
+    ],
+    "themes": [
+      "religion",
+      "politics"
+    ],
+    "keywordsZh": [
+      "北天师道",
+      "太平真君",
+      "老君音诵诫经"
+    ],
+    "oneLineZh": "北魏道教改革者，推动新天师道与国家政治结合。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "cheng-xuanying",
+    "tier": "seed",
+    "names": {
+      "zh": "成玄英",
+      "en": "Cheng Xuanying",
+      "native": "成玄英"
+    },
+    "life": {
+      "birth": 608,
+      "death": 669,
+      "display": "约608—约669"
+    },
+    "civilization": "chinese",
+    "traditions": [
+      "daoism",
+      "xuanxue"
+    ],
+    "periods": [
+      "tang"
+    ],
+    "themes": [
+      "metaphysics",
+      "language"
+    ],
+    "keywordsZh": [
+      "重玄学",
+      "老子义疏",
+      "庄子疏"
+    ],
+    "oneLineZh": "唐代道教学者，以老庄义疏和重玄思想著称。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "dao-an",
+    "tier": "seed",
+    "names": {
+      "zh": "道安",
+      "en": "Dao An",
+      "native": "釋道安"
+    },
+    "life": {
+      "birth": 312,
+      "death": 385,
+      "display": "312—385"
+    },
+    "civilization": "chinese",
+    "traditions": [
+      "buddhism",
+      "chinese_buddhism"
+    ],
+    "periods": [
+      "eastern_jin"
+    ],
+    "themes": [
+      "religion",
+      "knowledge"
+    ],
+    "keywordsZh": [
+      "格义批判",
+      "僧团制度",
+      "经录"
+    ],
+    "oneLineZh": "东晋高僧，推动佛典目录、僧团规范和中国佛教自主化。",
+    "influenceWeight": 3,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "huiyuan",
+    "tier": "seed",
+    "names": {
+      "zh": "慧远",
+      "en": "Huiyuan",
+      "native": "釋慧遠"
+    },
+    "life": {
+      "birth": 334,
+      "death": 416,
+      "display": "334—416"
+    },
+    "civilization": "chinese",
+    "traditions": [
+      "buddhism",
+      "chinese_buddhism"
+    ],
+    "periods": [
+      "eastern_jin"
+    ],
+    "themes": [
+      "religion",
+      "politics"
+    ],
+    "keywordsZh": [
+      "庐山",
+      "沙门不敬王者论",
+      "净土"
+    ],
+    "oneLineZh": "东晋庐山高僧，围绕沙门独立、净土信仰和佛教共同体形成影响。",
+    "influenceWeight": 3,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "daosheng",
+    "tier": "seed",
+    "names": {
+      "zh": "道生",
+      "en": "Daosheng",
+      "native": "竺道生"
+    },
+    "life": {
+      "birth": 355,
+      "death": 434,
+      "display": "约355—434"
+    },
+    "civilization": "chinese",
+    "traditions": [
+      "buddhism",
+      "chinese_buddhism"
+    ],
+    "periods": [
+      "eastern_jin",
+      "liu_song"
+    ],
+    "themes": [
+      "religion",
+      "metaphysics"
+    ],
+    "keywordsZh": [
+      "顿悟成佛",
+      "一阐提",
+      "涅槃学"
+    ],
+    "oneLineZh": "东晋刘宋僧人，以顿悟成佛和一阐提成佛争论著称。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "jizang",
+    "tier": "seed",
+    "names": {
+      "zh": "吉藏",
+      "en": "Jizang",
+      "native": "釋吉藏"
+    },
+    "life": {
+      "birth": 549,
+      "death": 623,
+      "display": "549—623"
+    },
+    "civilization": "chinese",
+    "traditions": [
+      "buddhism",
+      "sanlun"
+    ],
+    "periods": [
+      "sui",
+      "tang"
+    ],
+    "themes": [
+      "religion",
+      "metaphysics"
+    ],
+    "keywordsZh": [
+      "三论宗",
+      "中观",
+      "二谛"
+    ],
+    "oneLineZh": "隋唐三论宗大师，以中观二谛和破邪显正著称。",
+    "influenceWeight": 3,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "xuanzang",
+    "tier": "seed",
+    "names": {
+      "zh": "玄奘",
+      "en": "Xuanzang",
+      "native": "玄奘"
+    },
+    "life": {
+      "birth": 602,
+      "death": 664,
+      "display": "602—664"
+    },
+    "civilization": "chinese",
+    "traditions": [
+      "buddhism",
+      "yogacara"
+    ],
+    "periods": [
+      "tang"
+    ],
+    "themes": [
+      "religion",
+      "knowledge"
+    ],
+    "keywordsZh": [
+      "唯识",
+      "大唐西域记",
+      "译经"
+    ],
+    "oneLineZh": "唐代高僧、译经家和旅行者，奠定法相唯识学基础。",
+    "influenceWeight": 3,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "kuiji",
+    "tier": "seed",
+    "names": {
+      "zh": "窥基",
+      "en": "Kuiji",
+      "native": "窺基"
+    },
+    "life": {
+      "birth": 632,
+      "death": 682,
+      "display": "632—682"
+    },
+    "civilization": "chinese",
+    "traditions": [
+      "buddhism",
+      "yogacara"
+    ],
+    "periods": [
+      "tang"
+    ],
+    "themes": [
+      "religion",
+      "knowledge"
+    ],
+    "keywordsZh": [
+      "慈恩宗",
+      "成唯识论述记",
+      "法相"
+    ],
+    "oneLineZh": "唐代法相宗大师，玄奘弟子，以唯识注疏体系著称。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "daoxuan",
+    "tier": "seed",
+    "names": {
+      "zh": "道宣",
+      "en": "Daoxuan",
+      "native": "釋道宣"
+    },
+    "life": {
+      "birth": 596,
+      "death": 667,
+      "display": "596—667"
+    },
+    "civilization": "chinese",
+    "traditions": [
+      "buddhism",
+      "vinaya"
+    ],
+    "periods": [
+      "tang"
+    ],
+    "themes": [
+      "religion",
+      "ethics"
+    ],
+    "keywordsZh": [
+      "律宗",
+      "续高僧传",
+      "四分律行事钞"
+    ],
+    "oneLineZh": "唐代律宗大师和佛教史家，以律学与僧传编纂著称。",
+    "influenceWeight": 3,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "tanluan",
+    "tier": "seed",
+    "names": {
+      "zh": "昙鸾",
+      "en": "Tanluan",
+      "native": "曇鸞"
+    },
+    "life": {
+      "birth": 476,
+      "death": 542,
+      "display": "476—542"
+    },
+    "civilization": "chinese",
+    "traditions": [
+      "buddhism",
+      "pure_land"
+    ],
+    "periods": [
+      "northern_southern_dynasties"
+    ],
+    "themes": [
+      "religion",
+      "life_death"
+    ],
+    "keywordsZh": [
+      "净土",
+      "往生论注",
+      "他力"
+    ],
+    "oneLineZh": "北魏至东魏净土思想高僧，以《往生论注》阐发他力往生。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "shandao",
+    "tier": "seed",
+    "names": {
+      "zh": "善导",
+      "en": "Shandao",
+      "native": "善導"
+    },
+    "life": {
+      "birth": 613,
+      "death": 681,
+      "display": "613—681"
+    },
+    "civilization": "chinese",
+    "traditions": [
+      "buddhism",
+      "pure_land"
+    ],
+    "periods": [
+      "tang"
+    ],
+    "themes": [
+      "religion",
+      "life_death"
+    ],
+    "keywordsZh": [
+      "净土宗",
+      "观经疏",
+      "称名念佛"
+    ],
+    "oneLineZh": "唐代净土宗大师，以《观经疏》系统阐发凡夫往生与称名念佛。",
+    "influenceWeight": 3,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "zongmi",
+    "tier": "seed",
+    "names": {
+      "zh": "宗密",
+      "en": "Zongmi",
+      "native": "圭峰宗密"
+    },
+    "life": {
+      "birth": 780,
+      "death": 841,
+      "display": "780—841"
+    },
+    "civilization": "chinese",
+    "traditions": [
+      "buddhism",
+      "huayan",
+      "chan"
+    ],
+    "periods": [
+      "tang"
+    ],
+    "themes": [
+      "religion",
+      "metaphysics"
+    ],
+    "keywordsZh": [
+      "华严宗",
+      "禅源诸诠集都序",
+      "原人论"
+    ],
+    "oneLineZh": "唐代华严五祖与禅教会通思想家，兼具宗派判教和儒释道比较。",
+    "influenceWeight": 3,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "yanshou",
+    "tier": "seed",
+    "names": {
+      "zh": "延寿",
+      "en": "Yanshou",
+      "native": "永明延壽"
+    },
+    "life": {
+      "birth": 904,
+      "death": 975,
+      "display": "904—975"
+    },
+    "civilization": "chinese",
+    "traditions": [
+      "buddhism",
+      "chan",
+      "pure_land"
+    ],
+    "periods": [
+      "five_dynasties",
+      "song"
+    ],
+    "themes": [
+      "religion",
+      "knowledge"
+    ],
+    "keywordsZh": [
+      "宗镜录",
+      "万善同归集",
+      "禅净合流"
+    ],
+    "oneLineZh": "五代宋初佛教大师，以《宗镜录》综合禅教与万善归心。",
+    "influenceWeight": 3,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "han-yu",
+    "tier": "seed",
+    "names": {
+      "zh": "韩愈",
+      "en": "Han Yu",
+      "native": "韓愈"
+    },
+    "life": {
+      "birth": 768,
+      "death": 824,
+      "display": "768—824"
+    },
+    "civilization": "chinese",
+    "traditions": [
+      "confucianism",
+      "tang_classical_prose"
+    ],
+    "periods": [
+      "tang"
+    ],
+    "themes": [
+      "ethics",
+      "politics"
+    ],
+    "keywordsZh": [
+      "原道",
+      "古文运动",
+      "排佛"
+    ],
+    "oneLineZh": "唐代儒家复兴和古文运动代表，以《原道》重申儒家道统。",
+    "influenceWeight": 3,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "li-ao",
+    "tier": "seed",
+    "names": {
+      "zh": "李翱",
+      "en": "Li Ao",
+      "native": "李翱"
+    },
+    "life": {
+      "birth": 772,
+      "death": 841,
+      "display": "772—841"
+    },
+    "civilization": "chinese",
+    "traditions": [
+      "confucianism"
+    ],
+    "periods": [
+      "tang"
+    ],
+    "themes": [
+      "ethics",
+      "metaphysics"
+    ],
+    "keywordsZh": [
+      "复性书",
+      "性命",
+      "唐代儒学"
+    ],
+    "oneLineZh": "唐代儒者，以《复性书》讨论性情和恢复本性。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "liu-zongyuan",
+    "tier": "seed",
+    "names": {
+      "zh": "柳宗元",
+      "en": "Liu Zongyuan",
+      "native": "柳宗元"
+    },
+    "life": {
+      "birth": 773,
+      "death": 819,
+      "display": "773—819"
+    },
+    "civilization": "chinese",
+    "traditions": [
+      "confucianism",
+      "tang_classical_prose"
+    ],
+    "periods": [
+      "tang"
+    ],
+    "themes": [
+      "politics",
+      "metaphysics"
+    ],
+    "keywordsZh": [
+      "天说",
+      "封建论",
+      "永州八记"
+    ],
+    "oneLineZh": "唐代思想家和文学家，以天人、封建与政治制度论著称。",
+    "influenceWeight": 3,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "li-gou",
+    "tier": "seed",
+    "names": {
+      "zh": "李觏",
+      "en": "Li Gou",
+      "native": "李覯"
+    },
+    "life": {
+      "birth": 1009,
+      "death": 1059,
+      "display": "1009—1059"
+    },
+    "civilization": "chinese",
+    "traditions": [
+      "confucianism",
+      "song_learning"
+    ],
+    "periods": [
+      "northern_song"
+    ],
+    "themes": [
+      "politics",
+      "justice"
+    ],
+    "keywordsZh": [
+      "盱江先生",
+      "周礼致太平论",
+      "礼论"
+    ],
+    "oneLineZh": "北宋儒者和制度思想家，以礼制、财政和经世论著称。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "hu-yuan",
+    "tier": "seed",
+    "names": {
+      "zh": "胡瑗",
+      "en": "Hu Yuan",
+      "native": "胡瑗"
+    },
+    "life": {
+      "birth": 993,
+      "death": 1059,
+      "display": "993—1059"
+    },
+    "civilization": "chinese",
+    "traditions": [
+      "confucianism",
+      "song_learning"
+    ],
+    "periods": [
+      "northern_song"
+    ],
+    "themes": [
+      "ethics",
+      "knowledge"
+    ],
+    "keywordsZh": [
+      "安定先生",
+      "苏湖教法",
+      "经世教育"
+    ],
+    "oneLineZh": "北宋教育家和儒者，以安定学派、经义治事教育著称。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "shao-yong",
+    "tier": "seed",
+    "names": {
+      "zh": "邵雍",
+      "en": "Shao Yong",
+      "native": "邵雍"
+    },
+    "life": {
+      "birth": 1011,
+      "death": 1077,
+      "display": "1011—1077"
+    },
+    "civilization": "chinese",
+    "traditions": [
+      "confucianism",
+      "neo_confucianism"
+    ],
+    "periods": [
+      "northern_song"
+    ],
+    "themes": [
+      "metaphysics",
+      "knowledge"
+    ],
+    "keywordsZh": [
+      "皇极经世",
+      "观物",
+      "象数学"
+    ],
+    "oneLineZh": "北宋理学先驱，以象数宇宙论和观物思想著称。",
+    "influenceWeight": 3,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "sima-guang",
+    "tier": "seed",
+    "names": {
+      "zh": "司马光",
+      "en": "Sima Guang",
+      "native": "司馬光"
+    },
+    "life": {
+      "birth": 1019,
+      "death": 1086,
+      "display": "1019—1086"
+    },
+    "civilization": "chinese",
+    "traditions": [
+      "confucianism",
+      "historiography"
+    ],
+    "periods": [
+      "northern_song"
+    ],
+    "themes": [
+      "politics",
+      "knowledge"
+    ],
+    "keywordsZh": [
+      "资治通鉴",
+      "潜虚",
+      "保守政治"
+    ],
+    "oneLineZh": "北宋史学家和政治家，以《资治通鉴》与政治秩序论著称。",
+    "influenceWeight": 3,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "su-shi",
+    "tier": "seed",
+    "names": {
+      "zh": "苏轼",
+      "en": "Su Shi",
+      "native": "蘇軾"
+    },
+    "life": {
+      "birth": 1037,
+      "death": 1101,
+      "display": "1037—1101"
+    },
+    "civilization": "chinese",
+    "traditions": [
+      "confucianism",
+      "song_learning"
+    ],
+    "periods": [
+      "northern_song"
+    ],
+    "themes": [
+      "aesthetics",
+      "politics"
+    ],
+    "keywordsZh": [
+      "东坡易传",
+      "苏轼文集",
+      "通达"
+    ],
+    "oneLineZh": "北宋文学家和思想人物，兼通儒释道，以经解、政论和人生论著称。",
+    "influenceWeight": 3,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "luo-congyan",
+    "tier": "seed",
+    "names": {
+      "zh": "罗从彦",
+      "en": "Luo Congyan",
+      "native": "羅從彥"
+    },
+    "life": {
+      "birth": 1072,
+      "death": 1135,
+      "display": "1072—1135"
+    },
+    "civilization": "chinese",
+    "traditions": [
+      "neo_confucianism"
+    ],
+    "periods": [
+      "northern_song",
+      "southern_song"
+    ],
+    "themes": [
+      "ethics",
+      "metaphysics"
+    ],
+    "keywordsZh": [
+      "豫章先生",
+      "程门后学",
+      "闽学前驱"
+    ],
+    "oneLineZh": "宋代理学人物，承接程门并影响李侗、朱熹学脉。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "hu-hong",
+    "tier": "seed",
+    "names": {
+      "zh": "胡宏",
+      "en": "Hu Hong",
+      "native": "胡宏"
+    },
+    "life": {
+      "birth": 1106,
+      "death": 1161,
+      "display": "1106—1161"
+    },
+    "civilization": "chinese",
+    "traditions": [
+      "neo_confucianism"
+    ],
+    "periods": [
+      "southern_song"
+    ],
+    "themes": [
+      "ethics",
+      "metaphysics"
+    ],
+    "keywordsZh": [
+      "知言",
+      "湖湘学派",
+      "性体"
+    ],
+    "oneLineZh": "南宋湖湘学派代表，以《知言》讨论性体和修养。",
+    "influenceWeight": 3,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "zhang-shi",
+    "tier": "seed",
+    "names": {
+      "zh": "张栻",
+      "en": "Zhang Shi",
+      "native": "張栻"
+    },
+    "life": {
+      "birth": 1133,
+      "death": 1180,
+      "display": "1133—1180"
+    },
+    "civilization": "chinese",
+    "traditions": [
+      "neo_confucianism"
+    ],
+    "periods": [
+      "southern_song"
+    ],
+    "themes": [
+      "ethics",
+      "knowledge"
+    ],
+    "keywordsZh": [
+      "南轩先生",
+      "湖湘学派",
+      "敬义"
+    ],
+    "oneLineZh": "南宋理学家，湖湘学派代表，与朱熹长期论学。",
+    "influenceWeight": 3,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "chen-liang",
+    "tier": "seed",
+    "names": {
+      "zh": "陈亮",
+      "en": "Chen Liang",
+      "native": "陳亮"
+    },
+    "life": {
+      "birth": 1143,
+      "death": 1194,
+      "display": "1143—1194"
+    },
+    "civilization": "chinese",
+    "traditions": [
+      "neo_confucianism",
+      "yongkang_learning"
+    ],
+    "periods": [
+      "southern_song"
+    ],
+    "themes": [
+      "politics",
+      "ethics"
+    ],
+    "keywordsZh": [
+      "永康学派",
+      "事功",
+      "龙川文集"
+    ],
+    "oneLineZh": "南宋永康学派代表，以事功论和朱熹王霸义利之辨著称。",
+    "influenceWeight": 3,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "ye-shi",
+    "tier": "seed",
+    "names": {
+      "zh": "叶适",
+      "en": "Ye Shi",
+      "native": "葉適"
+    },
+    "life": {
+      "birth": 1150,
+      "death": 1223,
+      "display": "1150—1223"
+    },
+    "civilization": "chinese",
+    "traditions": [
+      "neo_confucianism",
+      "yongjia_learning"
+    ],
+    "periods": [
+      "southern_song"
+    ],
+    "themes": [
+      "politics",
+      "knowledge"
+    ],
+    "keywordsZh": [
+      "永嘉学派",
+      "习学记言序目",
+      "水心"
+    ],
+    "oneLineZh": "南宋永嘉学派代表，以制度、功利和学术史批评著称。",
+    "influenceWeight": 3,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "wu-cheng",
+    "tier": "seed",
+    "names": {
+      "zh": "吴澄",
+      "en": "Wu Cheng",
+      "native": "吳澄"
+    },
+    "life": {
+      "birth": 1249,
+      "death": 1333,
+      "display": "1249—1333"
+    },
+    "civilization": "chinese",
+    "traditions": [
+      "neo_confucianism"
+    ],
+    "periods": [
+      "yuan"
+    ],
+    "themes": [
+      "knowledge",
+      "ethics"
+    ],
+    "keywordsZh": [
+      "草庐先生",
+      "礼记纂言",
+      "元代理学"
+    ],
+    "oneLineZh": "元代理学家和经学家，调和朱陆并重整经学。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "xu-heng",
+    "tier": "seed",
+    "names": {
+      "zh": "许衡",
+      "en": "Xu Heng",
+      "native": "許衡"
+    },
+    "life": {
+      "birth": 1209,
+      "death": 1281,
+      "display": "1209—1281"
+    },
+    "civilization": "chinese",
+    "traditions": [
+      "neo_confucianism"
+    ],
+    "periods": [
+      "yuan"
+    ],
+    "themes": [
+      "ethics",
+      "politics"
+    ],
+    "keywordsZh": [
+      "鲁斋",
+      "元初儒学",
+      "小学大学直解"
+    ],
+    "oneLineZh": "元初理学家和政治教育人物，推动程朱学进入元代制度。",
+    "influenceWeight": 3,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "wu-yubi",
+    "tier": "seed",
+    "names": {
+      "zh": "吴与弼",
+      "en": "Wu Yubi",
+      "native": "吳與弼"
+    },
+    "life": {
+      "birth": 1391,
+      "death": 1469,
+      "display": "1391—1469"
+    },
+    "civilization": "chinese",
+    "traditions": [
+      "neo_confucianism"
+    ],
+    "periods": [
+      "ming"
+    ],
+    "themes": [
+      "ethics",
+      "knowledge"
+    ],
+    "keywordsZh": [
+      "康斋",
+      "明代理学",
+      "静坐读书"
+    ],
+    "oneLineZh": "明初理学家，以康斋学派和居敬实践影响陈献章。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "chen-xianzhang",
+    "tier": "seed",
+    "names": {
+      "zh": "陈献章",
+      "en": "Chen Xianzhang",
+      "native": "陳獻章"
+    },
+    "life": {
+      "birth": 1428,
+      "death": 1500,
+      "display": "1428—1500"
+    },
+    "civilization": "chinese",
+    "traditions": [
+      "neo_confucianism"
+    ],
+    "periods": [
+      "ming"
+    ],
+    "themes": [
+      "ethics",
+      "metaphysics"
+    ],
+    "keywordsZh": [
+      "白沙心学",
+      "静坐",
+      "自然自得"
+    ],
+    "oneLineZh": "明代白沙学派创始人，重视心体自得和静坐涵养。",
+    "influenceWeight": 3,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "xue-xuan",
+    "tier": "seed",
+    "names": {
+      "zh": "薛瑄",
+      "en": "Xue Xuan",
+      "native": "薛瑄"
+    },
+    "life": {
+      "birth": 1389,
+      "death": 1464,
+      "display": "1389—1464"
+    },
+    "civilization": "chinese",
+    "traditions": [
+      "neo_confucianism"
+    ],
+    "periods": [
+      "ming"
+    ],
+    "themes": [
+      "ethics",
+      "knowledge"
+    ],
+    "keywordsZh": [
+      "河东学派",
+      "读书录",
+      "复性"
+    ],
+    "oneLineZh": "明代理学家，河东学派代表，强调复性和笃实践履。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "luo-qinshun",
+    "tier": "seed",
+    "names": {
+      "zh": "罗钦顺",
+      "en": "Luo Qinshun",
+      "native": "羅欽順"
+    },
+    "life": {
+      "birth": 1465,
+      "death": 1547,
+      "display": "1465—1547"
+    },
+    "civilization": "chinese",
+    "traditions": [
+      "neo_confucianism"
+    ],
+    "periods": [
+      "ming"
+    ],
+    "themes": [
+      "metaphysics",
+      "knowledge"
+    ],
+    "keywordsZh": [
+      "困知记",
+      "理气一物",
+      "反王学"
+    ],
+    "oneLineZh": "明代理学家，以《困知记》讨论理气、心性并批评王学。",
+    "influenceWeight": 3,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "wang-tingxiang",
+    "tier": "seed",
+    "names": {
+      "zh": "王廷相",
+      "en": "Wang Tingxiang",
+      "native": "王廷相"
+    },
+    "life": {
+      "birth": 1474,
+      "death": 1544,
+      "display": "1474—1544"
+    },
+    "civilization": "chinese",
+    "traditions": [
+      "neo_confucianism",
+      "qi_monism"
+    ],
+    "periods": [
+      "ming"
+    ],
+    "themes": [
+      "metaphysics",
+      "knowledge"
+    ],
+    "keywordsZh": [
+      "慎言",
+      "气一元论",
+      "格物"
+    ],
+    "oneLineZh": "明代气学思想家，以气一元论和经验取向批评空疏心学。",
+    "influenceWeight": 3,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "zhan-ruoshui",
+    "tier": "seed",
+    "names": {
+      "zh": "湛若水",
+      "en": "Zhan Ruoshui",
+      "native": "湛若水"
+    },
+    "life": {
+      "birth": 1466,
+      "death": 1560,
+      "display": "1466—1560"
+    },
+    "civilization": "chinese",
+    "traditions": [
+      "neo_confucianism",
+      "ming_xinxue"
+    ],
+    "periods": [
+      "ming"
+    ],
+    "themes": [
+      "ethics",
+      "metaphysics"
+    ],
+    "keywordsZh": [
+      "甘泉学派",
+      "随处体认天理",
+      "心性图说"
+    ],
+    "oneLineZh": "明代甘泉学派代表，与王阳明并立而论学。",
+    "influenceWeight": 3,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "wang-gen",
+    "tier": "seed",
+    "names": {
+      "zh": "王艮",
+      "en": "Wang Gen",
+      "native": "王艮"
+    },
+    "life": {
+      "birth": 1483,
+      "death": 1541,
+      "display": "1483—1541"
+    },
+    "civilization": "chinese",
+    "traditions": [
+      "neo_confucianism",
+      "taizhou_school"
+    ],
+    "periods": [
+      "ming"
+    ],
+    "themes": [
+      "ethics",
+      "politics"
+    ],
+    "keywordsZh": [
+      "泰州学派",
+      "百姓日用即道",
+      "格物安身"
+    ],
+    "oneLineZh": "明代泰州学派创始人，以百姓日用即道和格物安身著称。",
+    "influenceWeight": 3,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "luo-rufang",
+    "tier": "seed",
+    "names": {
+      "zh": "罗汝芳",
+      "en": "Luo Rufang",
+      "native": "羅汝芳"
+    },
+    "life": {
+      "birth": 1515,
+      "death": 1588,
+      "display": "1515—1588"
+    },
+    "civilization": "chinese",
+    "traditions": [
+      "neo_confucianism",
+      "taizhou_school"
+    ],
+    "periods": [
+      "ming"
+    ],
+    "themes": [
+      "ethics",
+      "religion"
+    ],
+    "keywordsZh": [
+      "近溪",
+      "泰州学派",
+      "赤子良心"
+    ],
+    "oneLineZh": "晚明泰州学派人物，以赤子良心、日用教化和平民讲学著称。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "li-zhi",
+    "tier": "seed",
+    "names": {
+      "zh": "李贽",
+      "en": "Li Zhi",
+      "native": "李贄"
+    },
+    "life": {
+      "birth": 1527,
+      "death": 1602,
+      "display": "1527—1602"
+    },
+    "civilization": "chinese",
+    "traditions": [
+      "neo_confucianism",
+      "taizhou_school"
+    ],
+    "periods": [
+      "ming"
+    ],
+    "themes": [
+      "freedom",
+      "ethics"
+    ],
+    "keywordsZh": [
+      "焚书",
+      "童心说",
+      "异端"
+    ],
+    "oneLineZh": "晚明思想家，以童心说、反伪道学和个体真诚著称。",
+    "influenceWeight": 3,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "gu-xiancheng",
+    "tier": "seed",
+    "names": {
+      "zh": "顾宪成",
+      "en": "Gu Xiancheng",
+      "native": "顧憲成"
+    },
+    "life": {
+      "birth": 1550,
+      "death": 1612,
+      "display": "1550—1612"
+    },
+    "civilization": "chinese",
+    "traditions": [
+      "neo_confucianism",
+      "donglin"
+    ],
+    "periods": [
+      "ming"
+    ],
+    "themes": [
+      "ethics",
+      "politics"
+    ],
+    "keywordsZh": [
+      "东林书院",
+      "顾端文公遗书",
+      "讲学"
+    ],
+    "oneLineZh": "晚明东林学派代表，重建东林书院并强调士人公共责任。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "gao-panlong",
+    "tier": "seed",
+    "names": {
+      "zh": "高攀龙",
+      "en": "Gao Panlong",
+      "native": "高攀龍"
+    },
+    "life": {
+      "birth": 1562,
+      "death": 1626,
+      "display": "1562—1626"
+    },
+    "civilization": "chinese",
+    "traditions": [
+      "neo_confucianism",
+      "donglin"
+    ],
+    "periods": [
+      "ming"
+    ],
+    "themes": [
+      "ethics",
+      "politics"
+    ],
+    "keywordsZh": [
+      "东林",
+      "静坐",
+      "高子遗书"
+    ],
+    "oneLineZh": "晚明东林领袖，兼重静坐工夫与政治名节。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "liu-zongzhou",
+    "tier": "seed",
+    "names": {
+      "zh": "刘宗周",
+      "en": "Liu Zongzhou",
+      "native": "劉宗周"
+    },
+    "life": {
+      "birth": 1578,
+      "death": 1645,
+      "display": "1578—1645"
+    },
+    "civilization": "chinese",
+    "traditions": [
+      "neo_confucianism"
+    ],
+    "periods": [
+      "ming",
+      "qing_transition"
+    ],
+    "themes": [
+      "ethics",
+      "metaphysics"
+    ],
+    "keywordsZh": [
+      "蕺山学派",
+      "慎独",
+      "人谱"
+    ],
+    "oneLineZh": "明末大儒，蕺山学派创始人，以慎独和诚意工夫著称。",
+    "influenceWeight": 3,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "huang-zongxi",
+    "tier": "seed",
+    "names": {
+      "zh": "黄宗羲",
+      "en": "Huang Zongxi",
+      "native": "黃宗羲"
+    },
+    "life": {
+      "birth": 1610,
+      "death": 1695,
+      "display": "1610—1695"
+    },
+    "civilization": "chinese",
+    "traditions": [
+      "confucianism",
+      "qing_kaozheng"
+    ],
+    "periods": [
+      "ming",
+      "qing"
+    ],
+    "themes": [
+      "politics",
+      "knowledge"
+    ],
+    "keywordsZh": [
+      "明夷待访录",
+      "明儒学案",
+      "浙东学术"
+    ],
+    "oneLineZh": "明清之际思想家和史学家，以君主批判与学术史书写著称。",
+    "influenceWeight": 3,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "gu-yanwu",
+    "tier": "seed",
+    "names": {
+      "zh": "顾炎武",
+      "en": "Gu Yanwu",
+      "native": "顧炎武"
+    },
+    "life": {
+      "birth": 1613,
+      "death": 1682,
+      "display": "1613—1682"
+    },
+    "civilization": "chinese",
+    "traditions": [
+      "confucianism",
+      "qing_kaozheng"
+    ],
+    "periods": [
+      "ming",
+      "qing"
+    ],
+    "themes": [
+      "knowledge",
+      "politics"
+    ],
+    "keywordsZh": [
+      "日知录",
+      "经世致用",
+      "考据"
+    ],
+    "oneLineZh": "明清之际经世考据学者，以《日知录》开清代实学风气。",
+    "influenceWeight": 3,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "fang-yizhi",
+    "tier": "seed",
+    "names": {
+      "zh": "方以智",
+      "en": "Fang Yizhi",
+      "native": "方以智"
+    },
+    "life": {
+      "birth": 1611,
+      "death": 1671,
+      "display": "1611—1671"
+    },
+    "civilization": "chinese",
+    "traditions": [
+      "confucianism",
+      "buddhism",
+      "science"
+    ],
+    "periods": [
+      "ming",
+      "qing"
+    ],
+    "themes": [
+      "knowledge",
+      "metaphysics"
+    ],
+    "keywordsZh": [
+      "东西均",
+      "物理小识",
+      "质测通几"
+    ],
+    "oneLineZh": "明清之际思想家，兼通儒释道与自然知识。",
+    "influenceWeight": 3,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "chen-que",
+    "tier": "seed",
+    "names": {
+      "zh": "陈确",
+      "en": "Chen Que",
+      "native": "陳確"
+    },
+    "life": {
+      "birth": 1604,
+      "death": 1677,
+      "display": "1604—1677"
+    },
+    "civilization": "chinese",
+    "traditions": [
+      "confucianism"
+    ],
+    "periods": [
+      "ming",
+      "qing"
+    ],
+    "themes": [
+      "ethics",
+      "knowledge"
+    ],
+    "keywordsZh": [
+      "大学辨",
+      "反理学教条",
+      "清初儒学"
+    ],
+    "oneLineZh": "明清之际儒者，以《大学辨》质疑经典权威和理学解释。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "tang-zhen",
+    "tier": "seed",
+    "names": {
+      "zh": "唐甄",
+      "en": "Tang Zhen",
+      "native": "唐甄"
+    },
+    "life": {
+      "birth": 1630,
+      "death": 1704,
+      "display": "1630—1704"
+    },
+    "civilization": "chinese",
+    "traditions": [
+      "confucianism",
+      "qing_political_thought"
+    ],
+    "periods": [
+      "qing"
+    ],
+    "themes": [
+      "politics",
+      "justice"
+    ],
+    "keywordsZh": [
+      "潜书",
+      "君主批判",
+      "经世"
+    ],
+    "oneLineZh": "清初思想家，以《潜书》批判君主权力和社会不平。",
+    "influenceWeight": 3,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "yan-yuan-qing",
+    "tier": "seed",
+    "names": {
+      "zh": "颜元",
+      "en": "Yan Yuan",
+      "native": "顏元"
+    },
+    "life": {
+      "birth": 1635,
+      "death": 1704,
+      "display": "1635—1704"
+    },
+    "civilization": "chinese",
+    "traditions": [
+      "confucianism",
+      "qing_practical_learning"
+    ],
+    "periods": [
+      "qing"
+    ],
+    "themes": [
+      "ethics",
+      "knowledge"
+    ],
+    "keywordsZh": [
+      "习斋",
+      "实学",
+      "存学编"
+    ],
+    "oneLineZh": "清初实学代表，主张实文、实行、实用，反对空谈理学。",
+    "influenceWeight": 3,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "li-gong-qing",
+    "tier": "seed",
+    "names": {
+      "zh": "李塨",
+      "en": "Li Gong",
+      "native": "李塨"
+    },
+    "life": {
+      "birth": 1659,
+      "death": 1733,
+      "display": "1659—1733"
+    },
+    "civilization": "chinese",
+    "traditions": [
+      "confucianism",
+      "qing_practical_learning"
+    ],
+    "periods": [
+      "qing"
+    ],
+    "themes": [
+      "ethics",
+      "knowledge"
+    ],
+    "keywordsZh": [
+      "恕谷",
+      "颜李学派",
+      "实学教育"
+    ],
+    "oneLineZh": "清初颜李学派代表，继承颜元实学和实践教育路线。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "lu-longqi",
+    "tier": "seed",
+    "names": {
+      "zh": "陆陇其",
+      "en": "Lu Longqi",
+      "native": "陸隴其"
+    },
+    "life": {
+      "birth": 1630,
+      "death": 1692,
+      "display": "1630—1692"
+    },
+    "civilization": "chinese",
+    "traditions": [
+      "confucianism",
+      "cheng_zhu_learning"
+    ],
+    "periods": [
+      "qing"
+    ],
+    "themes": [
+      "ethics",
+      "politics"
+    ],
+    "keywordsZh": [
+      "三鱼堂",
+      "朱子学",
+      "清初循吏"
+    ],
+    "oneLineZh": "清初程朱学者和循吏，以尊朱、讲学和地方治理著称。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "mao-qiling",
+    "tier": "seed",
+    "names": {
+      "zh": "毛奇龄",
+      "en": "Mao Qiling",
+      "native": "毛奇齡"
+    },
+    "life": {
+      "birth": 1623,
+      "death": 1716,
+      "display": "1623—1716"
+    },
+    "civilization": "chinese",
+    "traditions": [
+      "confucianism",
+      "qing_kaozheng"
+    ],
+    "periods": [
+      "qing"
+    ],
+    "themes": [
+      "knowledge",
+      "language"
+    ],
+    "keywordsZh": [
+      "经问",
+      "四书改错",
+      "反朱子"
+    ],
+    "oneLineZh": "清初经学家，以博辨考据和反朱子《四书》解释著称。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "zhang-xuecheng",
+    "tier": "seed",
+    "names": {
+      "zh": "章学诚",
+      "en": "Zhang Xuecheng",
+      "native": "章學誠"
+    },
+    "life": {
+      "birth": 1738,
+      "death": 1801,
+      "display": "1738—1801"
+    },
+    "civilization": "chinese",
+    "traditions": [
+      "confucianism",
+      "qing_historiography"
+    ],
+    "periods": [
+      "qing"
+    ],
+    "themes": [
+      "knowledge"
+    ],
+    "keywordsZh": [
+      "文史通义",
+      "六经皆史",
+      "校雠通义"
+    ],
+    "oneLineZh": "清代史学理论家，以六经皆史和文史校雠理论著称。",
+    "influenceWeight": 3,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "cui-shu",
+    "tier": "seed",
+    "names": {
+      "zh": "崔述",
+      "en": "Cui Shu",
+      "native": "崔述"
+    },
+    "life": {
+      "birth": 1740,
+      "death": 1816,
+      "display": "1740—1816"
+    },
+    "civilization": "chinese",
+    "traditions": [
+      "confucianism",
+      "qing_kaozheng"
+    ],
+    "periods": [
+      "qing"
+    ],
+    "themes": [
+      "knowledge"
+    ],
+    "keywordsZh": [
+      "考信录",
+      "疑古",
+      "经史考辨"
+    ],
+    "oneLineZh": "清代考据学者，以《考信录》辨析上古史传可信度。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "ruan-yuan",
+    "tier": "seed",
+    "names": {
+      "zh": "阮元",
+      "en": "Ruan Yuan",
+      "native": "阮元"
+    },
+    "life": {
+      "birth": 1764,
+      "death": 1849,
+      "display": "1764—1849"
+    },
+    "civilization": "chinese",
+    "traditions": [
+      "confucianism",
+      "qing_kaozheng"
+    ],
+    "periods": [
+      "qing"
+    ],
+    "themes": [
+      "knowledge",
+      "language"
+    ],
+    "keywordsZh": [
+      "经籍纂诂",
+      "揅经室集",
+      "乾嘉学术"
+    ],
+    "oneLineZh": "清代经学家、官员和学术组织者，乾嘉考据集大成者之一。",
+    "influenceWeight": 3,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "jiao-xun",
+    "tier": "seed",
+    "names": {
+      "zh": "焦循",
+      "en": "Jiao Xun",
+      "native": "焦循"
+    },
+    "life": {
+      "birth": 1763,
+      "death": 1820,
+      "display": "1763—1820"
+    },
+    "civilization": "chinese",
+    "traditions": [
+      "confucianism",
+      "qing_kaozheng"
+    ],
+    "periods": [
+      "qing"
+    ],
+    "themes": [
+      "knowledge",
+      "metaphysics"
+    ],
+    "keywordsZh": [
+      "孟子正义",
+      "易通释",
+      "扬州学派"
+    ],
+    "oneLineZh": "清代经学家和数学家，以孟子学、易学和逻辑分析著称。",
+    "influenceWeight": 3,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "gong-zizhen",
+    "tier": "seed",
+    "names": {
+      "zh": "龚自珍",
+      "en": "Gong Zizhen",
+      "native": "龔自珍"
+    },
+    "life": {
+      "birth": 1792,
+      "death": 1841,
+      "display": "1792—1841"
+    },
+    "civilization": "chinese",
+    "traditions": [
+      "confucianism",
+      "qing_reform_thought"
+    ],
+    "periods": [
+      "qing"
+    ],
+    "themes": [
+      "politics",
+      "freedom"
+    ],
+    "keywordsZh": [
+      "己亥杂诗",
+      "明良论",
+      "经世改革"
+    ],
+    "oneLineZh": "晚清思想家和文学家，以经世改革、个体精神和制度批判著称。",
+    "influenceWeight": 3,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "wei-yuan",
+    "tier": "seed",
+    "names": {
+      "zh": "魏源",
+      "en": "Wei Yuan",
+      "native": "魏源"
+    },
+    "life": {
+      "birth": 1794,
+      "death": 1857,
+      "display": "1794—1857"
+    },
+    "civilization": "chinese",
+    "traditions": [
+      "confucianism",
+      "qing_reform_thought"
+    ],
+    "periods": [
+      "qing"
+    ],
+    "themes": [
+      "politics",
+      "knowledge"
+    ],
+    "keywordsZh": [
+      "海国图志",
+      "师夷长技",
+      "经世致用"
+    ],
+    "oneLineZh": "晚清经世思想家，以《海国图志》提出师夷长技以制夷。",
+    "influenceWeight": 3,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "franz-brentano",
+    "tier": "seed",
+    "names": {
+      "zh": "弗朗茨·布伦塔诺",
+      "en": "Franz Brentano"
+    },
+    "life": {
+      "birth": 1838,
+      "death": 1917,
+      "display": "1838—1917"
+    },
+    "civilization": "western",
+    "traditions": [
+      "analytic_philosophy"
+    ],
+    "periods": [
+      "modern"
+    ],
+    "themes": [
+      "metaphysics"
+    ],
+    "keywordsZh": [
+      "意向性",
+      "身份层",
+      "二线哲人"
+    ],
+    "oneLineZh": "意向性复兴的枢纽，可连接亚里士多德、经院心理学、胡塞尔与分析心灵哲学。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "alexius-meinong",
+    "tier": "seed",
+    "names": {
+      "zh": "阿莱克修斯·迈农",
+      "en": "Alexius Meinong"
+    },
+    "life": {
+      "birth": 1853,
+      "death": 1920,
+      "display": "1853—1920"
+    },
+    "civilization": "western",
+    "traditions": [
+      "analytic_philosophy"
+    ],
+    "periods": [
+      "modern"
+    ],
+    "themes": [
+      "language",
+      "knowledge"
+    ],
+    "keywordsZh": [
+      "对象论",
+      "身份层",
+      "二线哲人"
+    ],
+    "oneLineZh": "对象论代表，可补语言、存在与非存在对象问题。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "ernst-cassirer",
+    "tier": "seed",
+    "names": {
+      "zh": "恩斯特·卡西尔",
+      "en": "Ernst Cassirer"
+    },
+    "life": {
+      "birth": 1874,
+      "death": 1945,
+      "display": "1874—1945"
+    },
+    "civilization": "western",
+    "traditions": [
+      "neo_kantianism"
+    ],
+    "periods": [
+      "modern"
+    ],
+    "themes": [
+      "aesthetics"
+    ],
+    "keywordsZh": [
+      "符号形式",
+      "新康德主义",
+      "身份层"
+    ],
+    "oneLineZh": "符号形式哲学代表，可连接新康德主义、文化哲学与科学哲学。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "josiah-royce",
+    "tier": "seed",
+    "names": {
+      "zh": "乔赛亚·罗伊斯",
+      "en": "Josiah Royce"
+    },
+    "life": {
+      "birth": 1855,
+      "death": 1916,
+      "display": "1855—1916"
+    },
+    "civilization": "western",
+    "traditions": [
+      "western_philosophy"
+    ],
+    "periods": [
+      "modern"
+    ],
+    "themes": [
+      "knowledge",
+      "metaphysics"
+    ],
+    "keywordsZh": [
+      "唯心主义",
+      "实用主义",
+      "身份层"
+    ],
+    "oneLineZh": "美国绝对唯心主义与共同体哲学代表，可补实用主义同代对手盘。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "george-santayana",
+    "tier": "seed",
+    "names": {
+      "zh": "乔治·桑塔亚那",
+      "en": "George Santayana"
+    },
+    "life": {
+      "birth": 1863,
+      "death": 1952,
+      "display": "1863—1952"
+    },
+    "civilization": "western",
+    "traditions": [
+      "western_philosophy"
+    ],
+    "periods": [
+      "modern"
+    ],
+    "themes": [
+      "aesthetics"
+    ],
+    "keywordsZh": [
+      "实用主义",
+      "美学",
+      "身份层"
+    ],
+    "oneLineZh": "自然主义、怀疑论与美学交界人物，可补美国哲学的非实用主义线索。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "fh-bradley",
+    "tier": "seed",
+    "names": {
+      "zh": "弗朗西斯·赫伯特·布拉德利",
+      "en": "F. H. Bradley"
+    },
+    "life": {
+      "birth": 1846,
+      "death": 1924,
+      "display": "1846—1924"
+    },
+    "civilization": "western",
+    "traditions": [
+      "western_philosophy"
+    ],
+    "periods": [
+      "modern"
+    ],
+    "themes": [
+      "knowledge",
+      "metaphysics"
+    ],
+    "keywordsZh": [
+      "唯心主义",
+      "身份层",
+      "二线哲人"
+    ],
+    "oneLineZh": "英国绝对唯心主义代表，可补罗素与摩尔反叛前的靶心。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "th-green",
+    "tier": "seed",
+    "names": {
+      "zh": "托马斯·希尔·格林",
+      "en": "T. H. Green"
+    },
+    "life": {
+      "birth": 1836,
+      "death": 1882,
+      "display": "1836—1882"
+    },
+    "civilization": "western",
+    "traditions": [
+      "political_philosophy"
+    ],
+    "periods": [
+      "modern"
+    ],
+    "themes": [
+      "ethics",
+      "politics"
+    ],
+    "keywordsZh": [
+      "身份层",
+      "二线哲人",
+      "思想史补线"
+    ],
+    "oneLineZh": "英国新黑格尔主义与新自由主义源头人物，可补伦理国家与积极自由线索。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "henry-sidgwick",
+    "tier": "seed",
+    "names": {
+      "zh": "亨利·西季威克",
+      "en": "Henry Sidgwick"
+    },
+    "life": {
+      "birth": 1838,
+      "death": 1900,
+      "display": "1838—1900"
+    },
+    "civilization": "western",
+    "traditions": [
+      "western_philosophy"
+    ],
+    "periods": [
+      "modern"
+    ],
+    "themes": [
+      "ethics"
+    ],
+    "keywordsZh": [
+      "功利主义",
+      "身份层",
+      "二线哲人"
+    ],
+    "oneLineZh": "古典功利主义系统化者，可补密尔之后的伦理学技术化过渡。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "georg-simmel",
+    "tier": "seed",
+    "names": {
+      "zh": "格奥尔格·齐美尔",
+      "en": "Georg Simmel"
+    },
+    "life": {
+      "birth": 1858,
+      "death": 1918,
+      "display": "1858—1918"
+    },
+    "civilization": "western",
+    "traditions": [
+      "existentialism"
+    ],
+    "periods": [
+      "modern"
+    ],
+    "themes": [
+      "politics",
+      "aesthetics"
+    ],
+    "keywordsZh": [
+      "身份层",
+      "二线哲人",
+      "思想史补线"
+    ],
+    "oneLineZh": "形式社会学与文化哲学代表，可连接生命哲学、现代性与社会理论。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "max-scheler",
+    "tier": "seed",
+    "names": {
+      "zh": "马克斯·舍勒",
+      "en": "Max Scheler"
+    },
+    "life": {
+      "birth": 1874,
+      "death": 1928,
+      "display": "1874—1928"
+    },
+    "civilization": "western",
+    "traditions": [
+      "phenomenology"
+    ],
+    "periods": [
+      "modern"
+    ],
+    "themes": [
+      "ethics"
+    ],
+    "keywordsZh": [
+      "价值伦理",
+      "身份层",
+      "二线哲人"
+    ],
+    "oneLineZh": "现象学价值伦理学代表，可补胡塞尔之后的价值与人格线索。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "gabriel-marcel",
+    "tier": "seed",
+    "names": {
+      "zh": "加布里埃尔·马塞尔",
+      "en": "Gabriel Marcel"
+    },
+    "life": {
+      "birth": 1889,
+      "death": 1973,
+      "display": "1889—1973"
+    },
+    "civilization": "western",
+    "traditions": [
+      "existentialism"
+    ],
+    "periods": [
+      "modern"
+    ],
+    "themes": [
+      "metaphysics",
+      "religion"
+    ],
+    "keywordsZh": [
+      "存在主义",
+      "身份层",
+      "二线哲人"
+    ],
+    "oneLineZh": "基督教存在主义代表，可补萨特之外的存在主义分支。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "jose-ortega-y-gasset",
+    "tier": "seed",
+    "names": {
+      "zh": "何塞·奥尔特加-伊-加塞特",
+      "en": "José Ortega y Gasset"
+    },
+    "life": {
+      "birth": 1883,
+      "death": 1955,
+      "display": "1883—1955"
+    },
+    "civilization": "western",
+    "traditions": [
+      "existentialism"
+    ],
+    "periods": [
+      "modern"
+    ],
+    "themes": [
+      "politics",
+      "life_death"
+    ],
+    "keywordsZh": [
+      "生命理性",
+      "身份层",
+      "二线哲人"
+    ],
+    "oneLineZh": "生命理性、视角主义与群众社会批判代表，可补西班牙现代哲学。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "miguel-de-unamuno",
+    "tier": "seed",
+    "names": {
+      "zh": "米格尔·德·乌纳穆诺",
+      "en": "Miguel de Unamuno"
+    },
+    "life": {
+      "birth": 1864,
+      "death": 1936,
+      "display": "1864—1936"
+    },
+    "civilization": "western",
+    "traditions": [
+      "existentialism"
+    ],
+    "periods": [
+      "modern"
+    ],
+    "themes": [
+      "metaphysics",
+      "religion"
+    ],
+    "keywordsZh": [
+      "存在主义",
+      "身份层",
+      "二线哲人"
+    ],
+    "oneLineZh": "生命悲剧感与信仰焦虑代表，可补存在主义前史的西班牙线索。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "giovanni-gentile",
+    "tier": "seed",
+    "names": {
+      "zh": "乔瓦尼·金蒂莱",
+      "en": "Giovanni Gentile"
+    },
+    "life": {
+      "birth": 1875,
+      "death": 1944,
+      "display": "1875—1944"
+    },
+    "civilization": "western",
+    "traditions": [
+      "western_philosophy"
+    ],
+    "periods": [
+      "modern"
+    ],
+    "themes": [
+      "knowledge",
+      "metaphysics"
+    ],
+    "keywordsZh": [
+      "唯心主义",
+      "身份层",
+      "二线哲人"
+    ],
+    "oneLineZh": "实际唯心主义代表，可补意大利观念论与克罗齐同代分歧。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "rg-collingwood",
+    "tier": "seed",
+    "names": {
+      "zh": "罗宾·乔治·柯林伍德",
+      "en": "R. G. Collingwood"
+    },
+    "life": {
+      "birth": 1889,
+      "death": 1943,
+      "display": "1889—1943"
+    },
+    "civilization": "western",
+    "traditions": [
+      "analytic_philosophy"
+    ],
+    "periods": [
+      "modern"
+    ],
+    "themes": [
+      "language",
+      "knowledge"
+    ],
+    "keywordsZh": [
+      "历史哲学",
+      "身份层",
+      "二线哲人"
+    ],
+    "oneLineZh": "历史哲学与问答逻辑代表，可补英美历史认识论。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "michael-oakeshott",
+    "tier": "seed",
+    "names": {
+      "zh": "迈克尔·奥克肖特",
+      "en": "Michael Oakeshott"
+    },
+    "life": {
+      "birth": 1901,
+      "death": 1990,
+      "display": "1901—1990"
+    },
+    "civilization": "western",
+    "traditions": [
+      "political_philosophy"
+    ],
+    "periods": [
+      "contemporary"
+    ],
+    "themes": [
+      "politics"
+    ],
+    "keywordsZh": [
+      "身份层",
+      "二线哲人",
+      "思想史补线"
+    ],
+    "oneLineZh": "实践知识与政治理性主义批判代表，可补英国保守主义哲学。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "gilbert-ryle",
+    "tier": "seed",
+    "names": {
+      "zh": "吉尔伯特·赖尔",
+      "en": "Gilbert Ryle"
+    },
+    "life": {
+      "birth": 1900,
+      "death": 1976,
+      "display": "1900—1976"
+    },
+    "civilization": "western",
+    "traditions": [
+      "analytic_philosophy"
+    ],
+    "periods": [
+      "contemporary"
+    ],
+    "themes": [
+      "language",
+      "knowledge"
+    ],
+    "keywordsZh": [
+      "日常语言",
+      "身份层",
+      "二线哲人"
+    ],
+    "oneLineZh": "日常语言哲学与行为主义心灵哲学代表，可补牛津分析传统。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "jl-austin",
+    "tier": "seed",
+    "names": {
+      "zh": "约翰·兰肖·奥斯汀",
+      "en": "J. L. Austin"
+    },
+    "life": {
+      "birth": 1911,
+      "death": 1960,
+      "display": "1911—1960"
+    },
+    "civilization": "western",
+    "traditions": [
+      "analytic_philosophy"
+    ],
+    "periods": [
+      "contemporary"
+    ],
+    "themes": [
+      "language",
+      "knowledge"
+    ],
+    "keywordsZh": [
+      "言语行为",
+      "身份层",
+      "二线哲人"
+    ],
+    "oneLineZh": "言语行为理论源头，可补语言哲学从意义到行动的转向。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "pf-strawson",
+    "tier": "seed",
+    "names": {
+      "zh": "彼得·弗雷德里克·斯特劳森",
+      "en": "P. F. Strawson"
+    },
+    "life": {
+      "birth": 1919,
+      "death": 2006,
+      "display": "1919—2006"
+    },
+    "civilization": "western",
+    "traditions": [
+      "analytic_philosophy"
+    ],
+    "periods": [
+      "contemporary"
+    ],
+    "themes": [
+      "language",
+      "knowledge"
+    ],
+    "keywordsZh": [
+      "身份层",
+      "二线哲人",
+      "思想史补线"
+    ],
+    "oneLineZh": "描述形而上学与普通语言传统代表，可补康德与分析哲学接口。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "michael-dummett",
+    "tier": "seed",
+    "names": {
+      "zh": "迈克尔·达米特",
+      "en": "Michael Dummett"
+    },
+    "life": {
+      "birth": 1925,
+      "death": 2011,
+      "display": "1925—2011"
+    },
+    "civilization": "western",
+    "traditions": [
+      "analytic_philosophy"
+    ],
+    "periods": [
+      "contemporary"
+    ],
+    "themes": [
+      "language",
+      "knowledge"
+    ],
+    "keywordsZh": [
+      "反实在论",
+      "身份层",
+      "二线哲人"
+    ],
+    "oneLineZh": "意义理论与反实在论代表，可补弗雷格解释与分析哲学后期线索。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "thomas-nagel",
+    "tier": "seed",
+    "names": {
+      "zh": "托马斯·内格尔",
+      "en": "Thomas Nagel"
+    },
+    "life": {
+      "birth": 1937,
+      "display": "1937—"
+    },
+    "civilization": "western",
+    "traditions": [
+      "analytic_philosophy"
+    ],
+    "periods": [
+      "contemporary"
+    ],
+    "themes": [
+      "ethics",
+      "politics"
+    ],
+    "keywordsZh": [
+      "主观经验",
+      "身份层",
+      "二线哲人"
+    ],
+    "oneLineZh": "主观经验、道德运气与自由主义批判代表，可补心灵与伦理接口。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "georges-sorel",
+    "tier": "seed",
+    "names": {
+      "zh": "乔治·索雷尔",
+      "en": "Georges Sorel"
+    },
+    "life": {
+      "birth": 1847,
+      "death": 1922,
+      "display": "1847—1922"
+    },
+    "civilization": "western",
+    "traditions": [
+      "marxism"
+    ],
+    "periods": [
+      "modern"
+    ],
+    "themes": [
+      "politics",
+      "knowledge"
+    ],
+    "keywordsZh": [
+      "暴力",
+      "身份层",
+      "二线哲人"
+    ],
+    "oneLineZh": "神话、暴力与革命工团主义理论代表，可补马克思主义异端谱系。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "nicolai-hartmann",
+    "tier": "seed",
+    "names": {
+      "zh": "尼古拉·哈特曼",
+      "en": "Nicolai Hartmann"
+    },
+    "life": {
+      "birth": 1882,
+      "death": 1950,
+      "display": "1882—1950"
+    },
+    "civilization": "western",
+    "traditions": [
+      "phenomenology"
+    ],
+    "periods": [
+      "modern"
+    ],
+    "themes": [
+      "metaphysics",
+      "knowledge"
+    ],
+    "keywordsZh": [
+      "新本体论",
+      "身份层",
+      "二线哲人"
+    ],
+    "oneLineZh": "新本体论代表，可补现象学与形而上学之间的德国线索。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "paul-natorp",
+    "tier": "seed",
+    "names": {
+      "zh": "保罗·纳托普",
+      "en": "Paul Natorp"
+    },
+    "life": {
+      "birth": 1854,
+      "death": 1924,
+      "display": "1854—1924"
+    },
+    "civilization": "western",
+    "traditions": [
+      "neo_kantianism"
+    ],
+    "periods": [
+      "modern"
+    ],
+    "themes": [
+      "politics",
+      "knowledge"
+    ],
+    "keywordsZh": [
+      "新康德主义",
+      "身份层",
+      "二线哲人"
+    ],
+    "oneLineZh": "马堡新康德主义核心人物，可补科恩之后的认识论与社会教育哲学。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "wilhelm-windelband",
+    "tier": "seed",
+    "names": {
+      "zh": "威廉·文德尔班",
+      "en": "Wilhelm Windelband"
+    },
+    "life": {
+      "birth": 1848,
+      "death": 1915,
+      "display": "1848—1915"
+    },
+    "civilization": "western",
+    "traditions": [
+      "neo_kantianism"
+    ],
+    "periods": [
+      "modern"
+    ],
+    "themes": [
+      "ethics",
+      "aesthetics"
+    ],
+    "keywordsZh": [
+      "新康德主义",
+      "文化科学",
+      "身份层"
+    ],
+    "oneLineZh": "价值哲学与文化科学方法论代表，可补新康德主义西南学派源头。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "heinrich-rickert",
+    "tier": "seed",
+    "names": {
+      "zh": "海因里希·李凯尔特",
+      "en": "Heinrich Rickert"
+    },
+    "life": {
+      "birth": 1863,
+      "death": 1936,
+      "display": "1863—1936"
+    },
+    "civilization": "western",
+    "traditions": [
+      "western_philosophy"
+    ],
+    "periods": [
+      "modern"
+    ],
+    "themes": [
+      "ethics",
+      "aesthetics"
+    ],
+    "keywordsZh": [
+      "文化科学",
+      "身份层",
+      "二线哲人"
+    ],
+    "oneLineZh": "价值关联与文化科学方法论代表，可补韦伯方法论背景。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "ernst-troeltsch",
+    "tier": "seed",
+    "names": {
+      "zh": "恩斯特·特勒尔奇",
+      "en": "Ernst Troeltsch"
+    },
+    "life": {
+      "birth": 1865,
+      "death": 1923,
+      "display": "1865—1923"
+    },
+    "civilization": "western",
+    "traditions": [
+      "christian_philosophy"
+    ],
+    "periods": [
+      "modern"
+    ],
+    "themes": [
+      "religion",
+      "knowledge"
+    ],
+    "keywordsZh": [
+      "宗教哲学",
+      "宗教哲学",
+      "身份层"
+    ],
+    "oneLineZh": "历史主义与宗教哲学代表，可补狄尔泰、韦伯与神学现代性接口。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "maurice-blondel",
+    "tier": "seed",
+    "names": {
+      "zh": "莫里斯·布隆代尔",
+      "en": "Maurice Blondel"
+    },
+    "life": {
+      "birth": 1861,
+      "death": 1949,
+      "display": "1861—1949"
+    },
+    "civilization": "western",
+    "traditions": [
+      "phenomenology"
+    ],
+    "periods": [
+      "modern"
+    ],
+    "themes": [
+      "freedom",
+      "knowledge"
+    ],
+    "keywordsZh": [
+      "行动哲学",
+      "身份层",
+      "二线哲人"
+    ],
+    "oneLineZh": "行动哲学代表，可补法国天主教现代思想与现象学前史。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "ci-lewis",
+    "tier": "seed",
+    "names": {
+      "zh": "克拉伦斯·欧文·刘易斯",
+      "en": "C. I. Lewis"
+    },
+    "life": {
+      "birth": 1883,
+      "death": 1964,
+      "display": "1883—1964"
+    },
+    "civilization": "western",
+    "traditions": [
+      "analytic_philosophy"
+    ],
+    "periods": [
+      "modern"
+    ],
+    "themes": [
+      "language",
+      "knowledge"
+    ],
+    "keywordsZh": [
+      "模态逻辑",
+      "身份层",
+      "二线哲人"
+    ],
+    "oneLineZh": "概念实用主义与模态逻辑代表，可补皮尔士—奎因之间的美国分析线索。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "frank-ramsey",
+    "tier": "seed",
+    "names": {
+      "zh": "弗兰克·拉姆齐",
+      "en": "Frank Ramsey"
+    },
+    "life": {
+      "birth": 1903,
+      "death": 1930,
+      "display": "1903—1930"
+    },
+    "civilization": "western",
+    "traditions": [
+      "analytic_philosophy"
+    ],
+    "periods": [
+      "contemporary"
+    ],
+    "themes": [
+      "knowledge",
+      "metaphysics"
+    ],
+    "keywordsZh": [
+      "剑桥分析",
+      "身份层",
+      "二线哲人"
+    ],
+    "oneLineZh": "真理、概率、决策与经济哲学的早期枢纽，可补剑桥分析传统。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "susan-stebbing",
+    "tier": "seed",
+    "names": {
+      "zh": "苏珊·斯特宾",
+      "en": "Susan Stebbing"
+    },
+    "life": {
+      "birth": 1885,
+      "death": 1943,
+      "display": "1885—1943"
+    },
+    "civilization": "western",
+    "traditions": [
+      "analytic_philosophy"
+    ],
+    "periods": [
+      "modern"
+    ],
+    "themes": [
+      "language",
+      "knowledge"
+    ],
+    "keywordsZh": [
+      "身份层",
+      "二线哲人",
+      "思想史补线"
+    ],
+    "oneLineZh": "早期分析哲学与逻辑经验主义传播者，可补女性分析哲学前史。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "cd-broad",
+    "tier": "seed",
+    "names": {
+      "zh": "C. D. 布罗德",
+      "en": "C. D. Broad"
+    },
+    "life": {
+      "birth": 1887,
+      "death": 1971,
+      "display": "1887—1971"
+    },
+    "civilization": "western",
+    "traditions": [
+      "analytic_philosophy"
+    ],
+    "periods": [
+      "modern"
+    ],
+    "themes": [
+      "ethics",
+      "metaphysics"
+    ],
+    "keywordsZh": [
+      "身份层",
+      "二线哲人",
+      "思想史补线"
+    ],
+    "oneLineZh": "心灵哲学、伦理学与形而上学的剑桥综合人物，可补摩尔之后的英国分析线。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "aj-ayer",
+    "tier": "seed",
+    "names": {
+      "zh": "A. J. 艾耶尔",
+      "en": "A. J. Ayer"
+    },
+    "life": {
+      "birth": 1910,
+      "death": 1989,
+      "display": "1910—1989"
+    },
+    "civilization": "western",
+    "traditions": [
+      "analytic_philosophy"
+    ],
+    "periods": [
+      "contemporary"
+    ],
+    "themes": [
+      "language",
+      "knowledge"
+    ],
+    "keywordsZh": [
+      "逻辑实证主义",
+      "身份层",
+      "二线哲人"
+    ],
+    "oneLineZh": "逻辑实证主义在英国的传播代表，可补维也纳学派到英美分析哲学的桥梁。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "nelson-goodman",
+    "tier": "seed",
+    "names": {
+      "zh": "纳尔逊·古德曼",
+      "en": "Nelson Goodman"
+    },
+    "life": {
+      "birth": 1906,
+      "death": 1998,
+      "display": "1906—1998"
+    },
+    "civilization": "western",
+    "traditions": [
+      "western_philosophy"
+    ],
+    "periods": [
+      "contemporary"
+    ],
+    "themes": [
+      "aesthetics",
+      "knowledge"
+    ],
+    "keywordsZh": [
+      "身份层",
+      "二线哲人",
+      "思想史补线"
+    ],
+    "oneLineZh": "构造主义认识论、符号系统与艺术哲学代表，可补奎因周边线索。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "david-armstrong",
+    "tier": "seed",
+    "names": {
+      "zh": "大卫·阿姆斯特朗",
+      "en": "D. M. Armstrong"
+    },
+    "life": {
+      "birth": 1926,
+      "death": 2014,
+      "display": "1926—2014"
+    },
+    "civilization": "western",
+    "traditions": [
+      "analytic_philosophy"
+    ],
+    "periods": [
+      "contemporary"
+    ],
+    "themes": [
+      "metaphysics",
+      "knowledge"
+    ],
+    "keywordsZh": [
+      "身份层",
+      "二线哲人",
+      "思想史补线"
+    ],
+    "oneLineZh": "澳大利亚实在论与心灵物理主义代表，可补当代形而上学板块。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "jjc-smart",
+    "tier": "seed",
+    "names": {
+      "zh": "J. J. C. 斯马特",
+      "en": "J. J. C. Smart"
+    },
+    "life": {
+      "birth": 1920,
+      "death": 2012,
+      "display": "1920—2012"
+    },
+    "civilization": "western",
+    "traditions": [
+      "analytic_philosophy"
+    ],
+    "periods": [
+      "contemporary"
+    ],
+    "themes": [
+      "ethics",
+      "knowledge"
+    ],
+    "keywordsZh": [
+      "心脑同一论",
+      "身份层",
+      "二线哲人"
+    ],
+    "oneLineZh": "心脑同一论与功利主义代表，可补澳大利亚分析哲学。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "ruth-barcan-marcus",
+    "tier": "seed",
+    "names": {
+      "zh": "露丝·巴坎·马库斯",
+      "en": "Ruth Barcan Marcus"
+    },
+    "life": {
+      "birth": 1921,
+      "death": 2012,
+      "display": "1921—2012"
+    },
+    "civilization": "western",
+    "traditions": [
+      "analytic_philosophy"
+    ],
+    "periods": [
+      "contemporary"
+    ],
+    "themes": [
+      "language",
+      "knowledge"
+    ],
+    "keywordsZh": [
+      "模态逻辑",
+      "身份层",
+      "二线哲人"
+    ],
+    "oneLineZh": "量化模态逻辑先驱，可补克里普克之前的模态语义背景。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "john-mcdowell",
+    "tier": "seed",
+    "names": {
+      "zh": "约翰·麦克道威尔",
+      "en": "John McDowell"
+    },
+    "life": {
+      "birth": 1942,
+      "display": "1942—"
+    },
+    "civilization": "western",
+    "traditions": [
+      "analytic_philosophy"
+    ],
+    "periods": [
+      "contemporary"
+    ],
+    "themes": [
+      "ethics",
+      "metaphysics"
+    ],
+    "keywordsZh": [
+      "身份层",
+      "二线哲人",
+      "思想史补线"
+    ],
+    "oneLineZh": "心灵与世界、德性伦理与概念经验代表，可补分析哲学与黑格尔传统接口。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "tyler-burge",
+    "tier": "seed",
+    "names": {
+      "zh": "泰勒·伯奇",
+      "en": "Tyler Burge"
+    },
+    "life": {
+      "birth": 1946,
+      "display": "1946—"
+    },
+    "civilization": "western",
+    "traditions": [
+      "analytic_philosophy"
+    ],
+    "periods": [
+      "contemporary"
+    ],
+    "themes": [
+      "language",
+      "metaphysics"
+    ],
+    "keywordsZh": [
+      "身份层",
+      "二线哲人",
+      "思想史补线"
+    ],
+    "oneLineZh": "反个体主义与心灵内容外在论代表，可补普特南之后的心灵语言线索。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "robert-brandom",
+    "tier": "seed",
+    "names": {
+      "zh": "罗伯特·布兰顿",
+      "en": "Robert Brandom"
+    },
+    "life": {
+      "birth": 1950,
+      "display": "1950—"
+    },
+    "civilization": "western",
+    "traditions": [
+      "western_philosophy"
+    ],
+    "periods": [
+      "contemporary"
+    ],
+    "themes": [
+      "knowledge",
+      "metaphysics"
+    ],
+    "keywordsZh": [
+      "推论主义",
+      "身份层",
+      "二线哲人"
+    ],
+    "oneLineZh": "推论主义语义学代表，可补塞拉斯之后的匹兹堡学派。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "alvin-plantinga",
+    "tier": "seed",
+    "names": {
+      "zh": "阿尔文·普兰廷加",
+      "en": "Alvin Plantinga"
+    },
+    "life": {
+      "birth": 1932,
+      "display": "1932—"
+    },
+    "civilization": "western",
+    "traditions": [
+      "analytic_philosophy"
+    ],
+    "periods": [
+      "contemporary"
+    ],
+    "themes": [
+      "language",
+      "metaphysics"
+    ],
+    "keywordsZh": [
+      "宗教哲学",
+      "宗教哲学",
+      "身份层"
+    ],
+    "oneLineZh": "改革宗认识论与模态本体论证代表，可补当代宗教哲学。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "richard-swinburne",
+    "tier": "seed",
+    "names": {
+      "zh": "理查德·斯温伯恩",
+      "en": "Richard Swinburne"
+    },
+    "life": {
+      "birth": 1934,
+      "display": "1934—"
+    },
+    "civilization": "western",
+    "traditions": [
+      "christian_philosophy"
+    ],
+    "periods": [
+      "contemporary"
+    ],
+    "themes": [
+      "religion",
+      "knowledge"
+    ],
+    "keywordsZh": [
+      "宗教哲学",
+      "宗教哲学",
+      "身份层"
+    ],
+    "oneLineZh": "概率神学与宗教哲学代表，可补英美自然神学当代线索。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "rm-hare",
+    "tier": "seed",
+    "names": {
+      "zh": "理查德·默文·黑尔",
+      "en": "R. M. Hare"
+    },
+    "life": {
+      "birth": 1919,
+      "death": 2002,
+      "display": "1919—2002"
+    },
+    "civilization": "western",
+    "traditions": [
+      "western_philosophy"
+    ],
+    "periods": [
+      "contemporary"
+    ],
+    "themes": [
+      "ethics",
+      "knowledge"
+    ],
+    "keywordsZh": [
+      "身份层",
+      "二线哲人",
+      "思想史补线"
+    ],
+    "oneLineZh": "规范伦理学中的规定主义代表，可补元伦理学与应用伦理学过渡。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "judith-jarvis-thomson",
+    "tier": "seed",
+    "names": {
+      "zh": "朱迪思·贾维斯·汤姆森",
+      "en": "Judith Jarvis Thomson"
+    },
+    "life": {
+      "birth": 1929,
+      "death": 2020,
+      "display": "1929—2020"
+    },
+    "civilization": "western",
+    "traditions": [
+      "western_philosophy"
+    ],
+    "periods": [
+      "contemporary"
+    ],
+    "themes": [
+      "ethics",
+      "life_death"
+    ],
+    "keywordsZh": [
+      "身份层",
+      "二线哲人",
+      "思想史补线"
+    ],
+    "oneLineZh": "权利、生命伦理与道德难题代表，可补应用伦理学核心案例线。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "jane-addams",
+    "tier": "seed",
+    "names": {
+      "zh": "简·亚当斯",
+      "en": "Jane Addams"
+    },
+    "life": {
+      "birth": 1860,
+      "death": 1935,
+      "display": "1860—1935"
+    },
+    "civilization": "western",
+    "traditions": [
+      "political_philosophy"
+    ],
+    "periods": [
+      "modern"
+    ],
+    "themes": [
+      "ethics",
+      "politics"
+    ],
+    "keywordsZh": [
+      "身份层",
+      "二线哲人",
+      "思想史补线"
+    ],
+    "oneLineZh": "社会伦理、民主与实用主义改革思想代表，可补美国女性哲学线索。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "alain-locke",
+    "tier": "seed",
+    "names": {
+      "zh": "阿兰·洛克",
+      "en": "Alain Locke"
+    },
+    "life": {
+      "birth": 1885,
+      "death": 1954,
+      "display": "1885—1954"
+    },
+    "civilization": "western",
+    "traditions": [
+      "western_philosophy"
+    ],
+    "periods": [
+      "modern"
+    ],
+    "themes": [
+      "ethics",
+      "knowledge"
+    ],
+    "keywordsZh": [
+      "身份层",
+      "二线哲人",
+      "思想史补线"
+    ],
+    "oneLineZh": "哈莱姆文艺复兴与价值多元主义代表，可补非裔美国哲学传统。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "george-herbert-mead",
+    "tier": "seed",
+    "names": {
+      "zh": "乔治·赫伯特·米德",
+      "en": "George Herbert Mead"
+    },
+    "life": {
+      "birth": 1863,
+      "death": 1931,
+      "display": "1863—1931"
+    },
+    "civilization": "western",
+    "traditions": [
+      "western_philosophy"
+    ],
+    "periods": [
+      "modern"
+    ],
+    "themes": [
+      "politics",
+      "knowledge"
+    ],
+    "keywordsZh": [
+      "身份层",
+      "二线哲人",
+      "思想史补线"
+    ],
+    "oneLineZh": "社会行为主义与自我理论代表，可补实用主义社会心理学线索。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "leo-strauss",
+    "tier": "seed",
+    "names": {
+      "zh": "列奥·施特劳斯",
+      "en": "Leo Strauss"
+    },
+    "life": {
+      "birth": 1899,
+      "death": 1973,
+      "display": "1899—1973"
+    },
+    "civilization": "western",
+    "traditions": [
+      "political_philosophy"
+    ],
+    "periods": [
+      "modern"
+    ],
+    "themes": [
+      "politics",
+      "knowledge"
+    ],
+    "keywordsZh": [
+      "身份层",
+      "二线哲人",
+      "思想史补线"
+    ],
+    "oneLineZh": "古典政治哲学复兴与隐微写作解释代表，可补施米特、阿伦特同代政治思想语境。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "judith-shklar",
+    "tier": "seed",
+    "names": {
+      "zh": "朱迪思·施克拉",
+      "en": "Judith Shklar"
+    },
+    "life": {
+      "birth": 1928,
+      "death": 1992,
+      "display": "1928—1992"
+    },
+    "civilization": "western",
+    "traditions": [
+      "political_philosophy"
+    ],
+    "periods": [
+      "contemporary"
+    ],
+    "themes": [
+      "politics",
+      "knowledge"
+    ],
+    "keywordsZh": [
+      "身份层",
+      "二线哲人",
+      "思想史补线"
+    ],
+    "oneLineZh": "恐惧自由主义与政治恶论代表，可补战后自由主义内部批判。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "hans-jonas",
+    "tier": "seed",
+    "names": {
+      "zh": "汉斯·约纳斯",
+      "en": "Hans Jonas"
+    },
+    "life": {
+      "birth": 1903,
+      "death": 1993,
+      "display": "1903—1993"
+    },
+    "civilization": "western",
+    "traditions": [
+      "western_philosophy"
+    ],
+    "periods": [
+      "contemporary"
+    ],
+    "themes": [
+      "ethics",
+      "knowledge"
+    ],
+    "keywordsZh": [
+      "责任伦理",
+      "身份层",
+      "二线哲人"
+    ],
+    "oneLineZh": "责任伦理与技术文明批判代表，可补海德格尔弟子线及环境伦理前史。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "karl-lowith",
+    "tier": "seed",
+    "names": {
+      "zh": "卡尔·洛维特",
+      "en": "Karl Löwith"
+    },
+    "life": {
+      "birth": 1897,
+      "death": 1973,
+      "display": "1897—1973"
+    },
+    "civilization": "western",
+    "traditions": [
+      "western_philosophy"
+    ],
+    "periods": [
+      "modern"
+    ],
+    "themes": [
+      "knowledge",
+      "metaphysics"
+    ],
+    "keywordsZh": [
+      "身份层",
+      "二线哲人",
+      "思想史补线"
+    ],
+    "oneLineZh": "世俗化历史哲学批判代表，可补海德格尔、尼采与现代历史意识线索。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "eric-voegelin",
+    "tier": "seed",
+    "names": {
+      "zh": "埃里克·沃格林",
+      "en": "Eric Voegelin"
+    },
+    "life": {
+      "birth": 1901,
+      "death": 1985,
+      "display": "1901—1985"
+    },
+    "civilization": "western",
+    "traditions": [
+      "christian_philosophy"
+    ],
+    "periods": [
+      "contemporary"
+    ],
+    "themes": [
+      "politics",
+      "religion"
+    ],
+    "keywordsZh": [
+      "政治宗教",
+      "身份层",
+      "二线哲人"
+    ],
+    "oneLineZh": "政治宗教与秩序哲学代表，可补现代性批判的保守谱系。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "jacques-maritain",
+    "tier": "seed",
+    "names": {
+      "zh": "雅克·马里坦",
+      "en": "Jacques Maritain"
+    },
+    "life": {
+      "birth": 1882,
+      "death": 1973,
+      "display": "1882—1973"
+    },
+    "civilization": "western",
+    "traditions": [
+      "christian_philosophy"
+    ],
+    "periods": [
+      "modern"
+    ],
+    "themes": [
+      "politics",
+      "knowledge"
+    ],
+    "keywordsZh": [
+      "新托马斯主义",
+      "身份层",
+      "二线哲人"
+    ],
+    "oneLineZh": "新托马斯主义与人权哲学代表，可补天主教政治哲学现代线索。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "alexandre-kojeve",
+    "tier": "seed",
+    "names": {
+      "zh": "亚历山大·科耶夫",
+      "en": "Alexandre Kojève"
+    },
+    "life": {
+      "birth": 1902,
+      "death": 1968,
+      "display": "1902—1968"
+    },
+    "civilization": "western",
+    "traditions": [
+      "phenomenology"
+    ],
+    "periods": [
+      "contemporary"
+    ],
+    "themes": [
+      "metaphysics",
+      "life_death"
+    ],
+    "keywordsZh": [
+      "身份层",
+      "二线哲人",
+      "思想史补线"
+    ],
+    "oneLineZh": "黑格尔《精神现象学》法国解释的关键人物，可补法国存在主义与后结构主义前史。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "louis-althusser",
+    "tier": "seed",
+    "names": {
+      "zh": "路易·阿尔都塞",
+      "en": "Louis Althusser"
+    },
+    "life": {
+      "birth": 1918,
+      "death": 1990,
+      "display": "1918—1990"
+    },
+    "civilization": "western",
+    "traditions": [
+      "marxism"
+    ],
+    "periods": [
+      "contemporary"
+    ],
+    "themes": [
+      "politics",
+      "knowledge"
+    ],
+    "keywordsZh": [
+      "结构主义马克思主义",
+      "身份层",
+      "二线哲人"
+    ],
+    "oneLineZh": "结构主义马克思主义代表，可补马克思主义与法国理论接口。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "gilbert-simondon",
+    "tier": "seed",
+    "names": {
+      "zh": "吉尔贝尔·西蒙东",
+      "en": "Gilbert Simondon"
+    },
+    "life": {
+      "birth": 1924,
+      "death": 1989,
+      "display": "1924—1989"
+    },
+    "civilization": "western",
+    "traditions": [
+      "western_philosophy"
+    ],
+    "periods": [
+      "contemporary"
+    ],
+    "themes": [
+      "knowledge",
+      "metaphysics"
+    ],
+    "keywordsZh": [
+      "技术哲学",
+      "身份层",
+      "二线哲人"
+    ],
+    "oneLineZh": "个体化与技术哲学代表，可补德勒兹、斯蒂格勒等后续线索。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "michel-henry",
+    "tier": "seed",
+    "names": {
+      "zh": "米歇尔·亨利",
+      "en": "Michel Henry"
+    },
+    "life": {
+      "birth": 1922,
+      "death": 2002,
+      "display": "1922—2002"
+    },
+    "civilization": "western",
+    "traditions": [
+      "phenomenology"
+    ],
+    "periods": [
+      "contemporary"
+    ],
+    "themes": [
+      "life_death",
+      "knowledge"
+    ],
+    "keywordsZh": [
+      "生命现象学",
+      "身份层",
+      "二线哲人"
+    ],
+    "oneLineZh": "生命现象学代表，可补法国现象学的非海德格尔分支。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "jan-patocka",
+    "tier": "seed",
+    "names": {
+      "zh": "扬·帕托奇卡",
+      "en": "Jan Patočka"
+    },
+    "life": {
+      "birth": 1907,
+      "death": 1977,
+      "display": "1907—1977"
+    },
+    "civilization": "western",
+    "traditions": [
+      "phenomenology"
+    ],
+    "periods": [
+      "contemporary"
+    ],
+    "themes": [
+      "politics",
+      "knowledge"
+    ],
+    "keywordsZh": [
+      "身份层",
+      "二线哲人",
+      "思想史补线"
+    ],
+    "oneLineZh": "捷克现象学与异见政治思想代表，可补胡塞尔—海德格尔东欧线索。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "leszek-kolakowski",
+    "tier": "seed",
+    "names": {
+      "zh": "莱谢克·科瓦科夫斯基",
+      "en": "Leszek Kołakowski"
+    },
+    "life": {
+      "birth": 1927,
+      "death": 2009,
+      "display": "1927—2009"
+    },
+    "civilization": "western",
+    "traditions": [
+      "christian_philosophy"
+    ],
+    "periods": [
+      "contemporary"
+    ],
+    "themes": [
+      "politics",
+      "religion"
+    ],
+    "keywordsZh": [
+      "宗教哲学",
+      "宗教哲学",
+      "身份层"
+    ],
+    "oneLineZh": "马克思主义批判与宗教哲学代表，可补东欧思想转型线索。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "cornelius-castoriadis",
+    "tier": "seed",
+    "names": {
+      "zh": "科尔内留斯·卡斯托里亚迪斯",
+      "en": "Cornelius Castoriadis"
+    },
+    "life": {
+      "birth": 1922,
+      "death": 1997,
+      "display": "1922—1997"
+    },
+    "civilization": "western",
+    "traditions": [
+      "marxism"
+    ],
+    "periods": [
+      "contemporary"
+    ],
+    "themes": [
+      "politics",
+      "knowledge"
+    ],
+    "keywordsZh": [
+      "自治理论",
+      "身份层",
+      "二线哲人"
+    ],
+    "oneLineZh": "社会想象与自治理论代表，可补西方马克思主义异端与政治哲学线索。",
     "influenceWeight": 2,
     "reviewStatus": "draft"
   }

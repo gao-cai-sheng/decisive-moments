@@ -1,0 +1,293 @@
+{
+  "id": "fromm",
+  "tier": "standard",
+  "names": {
+    "zh": "弗洛姆",
+    "en": "Erich Fromm"
+  },
+  "life": {
+    "birth": 1900,
+    "death": 1980,
+    "display": "1900—1980"
+  },
+  "civilization": "western_modern",
+  "traditions": [
+    "humanistic_psychoanalysis",
+    "western_marxism",
+    "social_philosophy"
+  ],
+  "periods": [
+    "expansion_d3"
+  ],
+  "themes": [
+    "freedom",
+    "ethics",
+    "politics"
+  ],
+  "keywordsZh": [
+    "逃避自由",
+    "社会性格",
+    "异化",
+    "人本伦理",
+    "占有与存在"
+  ],
+  "oneLineZh": "以人本精神分析和马克思主义异化理论解释现代自由、人格和社会病理。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "弗洛姆把自由理解为现代人的心理和社会任务，分析人为何逃避自由，并以存在方式、人本伦理和社会性格回应异化。",
+  "works": [
+    "fromm-escape-freedom",
+    "fromm-man-for-himself",
+    "fromm-sane-society",
+    "fromm-marx-concept-man",
+    "fromm-to-have-or-to-be"
+  ],
+  "sourceNotes": [
+    {
+      "label": "Primary corpus note",
+      "url": "https://plato.stanford.edu/entries/fromm/",
+      "noteZh": "以弗洛姆自由、异化和人本伦理文本为核心；二手资料只用于核对接收关系。"
+    }
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "fromm:problem:001",
+        "titleZh": "自由的负担与逃避",
+        "questionZh": "弗洛姆如何解释现代个人既追求自由又逃避自由的心理机制？",
+        "summaryZh": "弗洛姆认为现代人摆脱传统束缚后获得形式自由，却因孤立、焦虑和无力感转向威权、破坏或自动顺从。",
+        "themeIds": [
+          "freedom",
+          "politics"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "fromm:claim:001",
+            "titleZh": "现代自由伴随孤立焦虑",
+            "claimZh": "弗洛姆认为现代自由切断旧共同体纽带后，也使个人暴露在孤立、无意义和无力感中。",
+            "explanationZh": "自由因此不是简单解放状态，而是需要人格成熟和社会条件支持的困难任务。",
+            "themeIds": [
+              "freedom",
+              "ethics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "fromm:evidence:001",
+                "titleZh": "《逃避自由》论个体化双重性",
+                "summaryZh": "文本把个体化解释为既带来独立也制造孤立的历史过程，说明现代自由内含焦虑结构，由此解释自由为何可能转成对安全和归属的渴望。",
+                "source": {
+                  "workId": "fromm-escape-freedom",
+                  "locator": "chapters on individuation and freedom",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "fromm:evidence:002",
+                "titleZh": "《逃避自由》论无力感",
+                "summaryZh": "弗洛姆把现代人的无力感和孤独感作为理解威权依恋的重要心理社会前提，为后文威权主义、破坏性和自动顺从三机制铺垫。",
+                "source": {
+                  "workId": "fromm-escape-freedom",
+                  "locator": "chapter on mechanisms of escape",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "fromm:claim:002",
+            "titleZh": "逃避机制把自由转化为服从",
+            "claimZh": "弗洛姆把威权主义、破坏性和自动顺从理解为逃避自由的不同心理社会机制。",
+            "explanationZh": "这些机制说明人可能主动寻找支配和同质化，从而把自由压力转化为安全幻觉。",
+            "themeIds": [
+              "politics",
+              "freedom"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "fromm:evidence:003",
+                "titleZh": "《逃避自由》论威权主义",
+                "summaryZh": "文本分析施虐和受虐倾向如何共同构成威权性格，使个人通过依附权力逃离自由负担，并显示服从权威与支配弱者可在同一心理结构中结合。",
+                "source": {
+                  "workId": "fromm-escape-freedom",
+                  "locator": "chapter on authoritarianism",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "fromm:evidence:004",
+                "titleZh": "《逃避自由》论自动顺从",
+                "summaryZh": "弗洛姆把自动顺从描述为个人把自己变成社会期待的样子，以消除孤独和责任焦虑，使人格表面独立却在判断和欲望上被匿名规范塑造。",
+                "source": {
+                  "workId": "fromm-escape-freedom",
+                  "locator": "chapter on automaton conformity",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "fromm:problem:002",
+        "titleZh": "异化、社会性格与健全社会",
+        "questionZh": "弗洛姆如何把心理病理同资本主义社会结构和异化劳动联系起来？",
+        "summaryZh": "弗洛姆把现代社会病理解释为异化、市场人格和占有式生活方式的结果，主张以人的需要重构社会。",
+        "themeIds": [
+          "politics",
+          "ethics"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "fromm:claim:003",
+            "titleZh": "社会性格连接人格与制度",
+            "claimZh": "弗洛姆用社会性格说明经济制度如何塑造人们的欲望、习惯和自我理解。",
+            "explanationZh": "人格不是孤立心理事实，而是在家庭、劳动、市场和文化期待中形成的社会结构。",
+            "themeIds": [
+              "knowledge",
+              "politics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "fromm:evidence:005",
+                "titleZh": "《健全的社会》论社会性格",
+                "summaryZh": "文本把社会性格定义为社会结构要求在个体心理中的内化形式，连接人格与制度再生产，说明制度不是外在背景，而会进入欲望和习惯结构。",
+                "source": {
+                  "workId": "fromm-sane-society",
+                  "locator": "chapters on social character",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "fromm:evidence:006",
+                "titleZh": "《自为的人》论生产性取向",
+                "summaryZh": "弗洛姆把生产性取向描述为人的潜能积极实现，反对把人格降为市场成功和占有能力，并把自由理解为创造、爱和理性能力的积极展开。",
+                "source": {
+                  "workId": "fromm-man-for-himself",
+                  "locator": "sections on productive orientation",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "fromm:claim:004",
+            "titleZh": "异化社会制造非健全生活",
+            "claimZh": "弗洛姆认为现代资本主义会把人变成商品、角色和消费单位，形成社会性病理。",
+            "explanationZh": "健全社会的标准不是增长和秩序，而是人能否发展爱、理性、创造和非异化关系。",
+            "themeIds": [
+              "ethics",
+              "politics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "fromm:evidence:007",
+                "titleZh": "《健全的社会》批判异化",
+                "summaryZh": "文本把异化解释为人同自身活动、他人和世界疏离的状态，并把它看作现代社会常态病理。",
+                "source": {
+                  "workId": "fromm-sane-society",
+                  "locator": "chapters on alienation and capitalism",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "fromm:evidence:008",
+                "titleZh": "《占有还是存在》区分生活方式",
+                "summaryZh": "弗洛姆以占有和存在区分现代消费人格与非占有式生命展开，提出伦理和社会转向，把社会批判从经济占有推进到日常生命方式层面。",
+                "source": {
+                  "workId": "fromm-to-have-or-to-be",
+                  "locator": "parts on having and being modes",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "fromm:problem:003",
+        "titleZh": "人本马克思主义与伦理人格",
+        "questionZh": "弗洛姆如何用人本马克思主义重读自由、劳动和人的实现？",
+        "summaryZh": "弗洛姆把马克思解释为人本主义思想家，强调自由劳动、非异化关系和生产性人格，而不是机械经济决定论。",
+        "themeIds": [
+          "ethics",
+          "freedom"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "fromm:claim:005",
+            "titleZh": "马克思的核心是人的实现",
+            "claimZh": "弗洛姆认为马克思关于人的概念围绕人的自我活动、非异化劳动和共同体关系展开。",
+            "explanationZh": "这种解释把马克思从经济技术决定论中解放出来，强调伦理人类学和自由实践维度。",
+            "themeIds": [
+              "freedom",
+              "ethics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "fromm:evidence:009",
+                "titleZh": "《马克思关于人的概念》论异化劳动",
+                "summaryZh": "弗洛姆通过青年马克思文本强调异化劳动损害人的生命活动和自我实现，而非只是分配不公。",
+                "source": {
+                  "workId": "fromm-marx-concept-man",
+                  "locator": "chapters on alienated labor and human essence",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "fromm:evidence:010",
+                "titleZh": "《马克思关于人的概念》论人本主义",
+                "summaryZh": "文本把马克思解释为关心完整人的人本主义者，反对把马克思主义化约为生产力崇拜，使异化劳动、自由活动和人类潜能成为解释中心。",
+                "source": {
+                  "workId": "fromm-marx-concept-man",
+                  "locator": "introduction and essays on Marx's humanism",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "fromm:claim:006",
+            "titleZh": "爱和理性是成熟自由条件",
+            "claimZh": "弗洛姆把成熟自由同爱、理性和生产性人格相连，反对把自由理解为任意选择。",
+            "explanationZh": "自由需要能承担关系和创造意义的人格结构，因此心理学和伦理学在他那里不可分割。",
+            "themeIds": [
+              "ethics",
+              "freedom"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "fromm:evidence:011",
+                "titleZh": "《自为的人》论人本伦理",
+                "summaryZh": "文本提出人本伦理学，以人的成长、爱和生产性能力作为评价生活方式的标准，并拒绝以市场适应或权威服从替代人的成熟发展。",
+                "source": {
+                  "workId": "fromm-man-for-himself",
+                  "locator": "chapters on humanistic ethics",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "fromm:evidence:012",
+                "titleZh": "《占有还是存在》论存在方式",
+                "summaryZh": "晚期文本把存在方式同爱、分享和活的关系联系起来，作为克服占有式异化的伦理方向，使晚期伦理批判指向关系、实践和社会制度的转换。",
+                "source": {
+                  "workId": "fromm-to-have-or-to-be",
+                  "locator": "parts on being and transformation",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

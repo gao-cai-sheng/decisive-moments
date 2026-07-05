@@ -1,0 +1,43 @@
+{
+  "id": "ruth-barcan-marcus",
+  "tier": "seed",
+  "names": {
+    "zh": "露丝·巴坎·马库斯",
+    "en": "Ruth Barcan Marcus"
+  },
+  "life": {
+    "birth": 1921,
+    "death": 2012,
+    "display": "1921—2012"
+  },
+  "civilization": "western",
+  "traditions": [
+    "analytic_philosophy"
+  ],
+  "periods": [
+    "contemporary"
+  ],
+  "themes": [
+    "language",
+    "knowledge"
+  ],
+  "keywordsZh": [
+    "模态逻辑",
+    "身份层",
+    "二线哲人"
+  ],
+  "oneLineZh": "量化模态逻辑先驱，可补克里普克之前的模态语义背景。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "露丝·巴坎·马库斯（1921—2012）是 W2 欧陆与英美近现代二线哲人候选。其身份层入选理由为：量化模态逻辑先驱，可补克里普克之前的模态语义背景。 本条仅作 seed 档基本定位，后续若升级标准档，需要重新做著作、论点与 evidence 研究。",
+  "works": [
+    "ruth-barcan-marcus-functional-calculus-strict-implication",
+    "ruth-barcan-marcus-modalities"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S017",
+      "noteZh": "权威来源条目：SEP: Ruth Barcan Marcus；用于核验人物身份、生卒、代表著作和思想史定位。"
+    }
+  ]
+}

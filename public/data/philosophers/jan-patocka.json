@@ -1,0 +1,43 @@
+{
+  "id": "jan-patocka",
+  "tier": "seed",
+  "names": {
+    "zh": "扬·帕托奇卡",
+    "en": "Jan Patočka"
+  },
+  "life": {
+    "birth": 1907,
+    "death": 1977,
+    "display": "1907—1977"
+  },
+  "civilization": "western",
+  "traditions": [
+    "phenomenology"
+  ],
+  "periods": [
+    "contemporary"
+  ],
+  "themes": [
+    "politics",
+    "knowledge"
+  ],
+  "keywordsZh": [
+    "身份层",
+    "二线哲人",
+    "思想史补线"
+  ],
+  "oneLineZh": "捷克现象学与异见政治思想代表，可补胡塞尔—海德格尔东欧线索。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "扬·帕托奇卡（1907—1977）是 W2 欧陆与英美近现代二线哲人候选。其身份层入选理由为：捷克现象学与异见政治思想代表，可补胡塞尔—海德格尔东欧线索。 本条仅作 seed 档基本定位，后续若升级标准档，需要重新做著作、论点与 evidence 研究。",
+  "works": [
+    "jan-patocka-heretical-essays-history",
+    "jan-patocka-plato-and-europe"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S018",
+      "noteZh": "权威来源条目：SEP: Jan Patočka；用于核验人物身份、生卒、代表著作和思想史定位。"
+    }
+  ]
+}

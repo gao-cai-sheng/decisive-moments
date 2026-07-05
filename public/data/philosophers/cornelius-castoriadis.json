@@ -1,0 +1,43 @@
+{
+  "id": "cornelius-castoriadis",
+  "tier": "seed",
+  "names": {
+    "zh": "科尔内留斯·卡斯托里亚迪斯",
+    "en": "Cornelius Castoriadis"
+  },
+  "life": {
+    "birth": 1922,
+    "death": 1997,
+    "display": "1922—1997"
+  },
+  "civilization": "western",
+  "traditions": [
+    "marxism"
+  ],
+  "periods": [
+    "contemporary"
+  ],
+  "themes": [
+    "politics",
+    "knowledge"
+  ],
+  "keywordsZh": [
+    "自治理论",
+    "身份层",
+    "二线哲人"
+  ],
+  "oneLineZh": "社会想象与自治理论代表，可补西方马克思主义异端与政治哲学线索。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "科尔内留斯·卡斯托里亚迪斯（1922—1997）是 W2 欧陆与英美近现代二线哲人候选。其身份层入选理由为：社会想象与自治理论代表，可补西方马克思主义异端与政治哲学线索。 本条仅作 seed 档基本定位，后续若升级标准档，需要重新做著作、论点与 evidence 研究。",
+  "works": [
+    "cornelius-castoriadis-imaginary-institution-society",
+    "cornelius-castoriadis-crossroads-in-the-labyrinth"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S020",
+      "noteZh": "权威来源条目：IEP: Cornelius Castoriadis；用于核验人物身份、生卒、代表著作和思想史定位。"
+    }
+  ]
+}

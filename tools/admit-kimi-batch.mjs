@@ -42,9 +42,12 @@ function uniqueById(items, label) {
 function normalizeOptions(options) {
   const batchDir = path.resolve(options.batchDir);
   const dataDir = path.resolve(options.dataDir ?? path.join(process.cwd(), "public", "data"));
+  const tier = options.tier ?? "standard";
+  assert(["standard", "seed"].includes(tier), "--tier must be standard or seed");
   return {
     batchDir,
     dataDir,
+    tier,
     write: options.write === true,
     overwrite: options.overwrite === true,
   };
@@ -93,21 +96,52 @@ function assertKnownWorkIds(philosopher, worksById) {
   }
 }
 
+function isPlaceholderWorkId(id) {
+  return /(?:primary-work|placeholder|candidate)$/i.test(id || "");
+}
+
+function assertSeedIdentity(philosopher, relationships, worksById) {
+  assert(!philosopher.thoughtSystem, "seed tier cannot include thoughtSystem: " + philosopher.id);
+  assert(Array.isArray(philosopher.sourceNotes) && philosopher.sourceNotes.length > 0, philosopher.id + " seed tier needs sourceNotes");
+  assert(Array.isArray(philosopher.works) && philosopher.works.length >= 1 && philosopher.works.length <= 2, philosopher.id + " seed tier needs 1-2 works");
+  for (const workId of philosopher.works) {
+    assert(!isPlaceholderWorkId(workId), philosopher.id + " seed tier uses placeholder work: " + workId);
+    const work = worksById.get(workId);
+    assert(work, philosopher.id + " lists unknown work: " + workId);
+    assert(work.philosopherId === philosopher.id, philosopher.id + " lists work belonging to another philosopher: " + workId);
+  }
+  const relationshipCount = relationships.filter((relationship) => relationship.from === philosopher.id || relationship.to === philosopher.id).length;
+  assert(relationshipCount >= 2 && relationshipCount <= 3, philosopher.id + " seed tier needs 2-3 relationships, got " + relationshipCount);
+}
+
+function readThoughtSystemsForTier(thoughtSystemsPath, tier) {
+  if (tier === "seed") {
+    if (!fs.existsSync(thoughtSystemsPath)) return [];
+    const items = readVersionedItems(thoughtSystemsPath, "thought-systems.json");
+    assert(items.length === 0, "seed tier batch cannot include thoughtSystem payloads");
+    return [];
+  }
+  return readVersionedItems(thoughtSystemsPath, "thought-systems.json");
+}
+
 export function admitKimiBatch(options) {
   const normalized = normalizeOptions(options);
+  const thoughtSystemsPath = path.join(normalized.batchDir, "thought-systems.json");
+  const thoughtSystems = readThoughtSystemsForTier(thoughtSystemsPath, normalized.tier);
   validateResearchBatch(normalized.batchDir);
 
   const philosophersPath = path.join(normalized.batchDir, "proposed-philosophers.json");
   const worksPath = path.join(normalized.batchDir, "proposed-works.json");
   const relationshipsPath = path.join(normalized.batchDir, "proposed-relationships.json");
-  const thoughtSystemsPath = path.join(normalized.batchDir, "thought-systems.json");
 
-  const proposedPhilosophers = readVersionedItems(philosophersPath, "proposed-philosophers.json");
+  const proposedPhilosophers = readVersionedItems(philosophersPath, "proposed-philosophers.json").map((item) => {
+    assert(!item.tier || item.tier === normalized.tier, item.id + " tier does not match --tier " + normalized.tier);
+    return { ...item, tier: normalized.tier };
+  });
   const proposedWorks = readVersionedItems(worksPath, "proposed-works.json").map((item) => workSchema.parse(item));
   const proposedRelationships = readVersionedItems(relationshipsPath, "proposed-relationships.json").map((item) =>
     relationshipSchema.parse(item),
   );
-  const thoughtSystems = readVersionedItems(thoughtSystemsPath, "thought-systems.json");
 
   uniqueById(proposedPhilosophers, "proposed-philosophers.json");
   uniqueById(proposedWorks, "proposed-works.json");
@@ -116,11 +150,13 @@ export function admitKimiBatch(options) {
   const thoughtByPhilosopherId = new Map(thoughtSystems.map((item) => [item.philosopherId, item]));
   const proposedPhilosopherIds = new Set(proposedPhilosophers.map((item) => item.id));
 
-  for (const item of proposedPhilosophers) {
-    assert(thoughtByPhilosopherId.has(item.id), "missing thought-system for proposed philosopher: " + item.id);
-  }
-  for (const item of thoughtSystems) {
-    assert(proposedPhilosopherIds.has(item.philosopherId), "thought-system has no proposed philosopher: " + item.philosopherId);
+  if (normalized.tier === "standard") {
+    for (const item of proposedPhilosophers) {
+      assert(thoughtByPhilosopherId.has(item.id), "missing thought-system for proposed philosopher: " + item.id);
+    }
+    for (const item of thoughtSystems) {
+      assert(proposedPhilosopherIds.has(item.philosopherId), "thought-system has no proposed philosopher: " + item.philosopherId);
+    }
   }
   for (const work of proposedWorks) {
     assert(proposedPhilosopherIds.has(work.philosopherId), "proposed work has unknown proposed philosopher: " + work.id);
@@ -151,13 +187,17 @@ export function admitKimiBatch(options) {
     for (const workId of item.works ?? []) {
       assert(workIds.has(workId) || incomingWorksById.has(workId), item.id + " lists unknown work: " + workId);
     }
-    const parsed = philosopherSchema.parse({
-      ...item,
-      thoughtSystem: {
-        problems: thought.problems,
-      },
-    });
-    assertKnownWorkIds(parsed, worksById);
+    const payload = normalized.tier === "standard"
+      ? {
+          ...item,
+          thoughtSystem: {
+            problems: thought.problems,
+          },
+        }
+      : { ...item, thoughtSystem: undefined };
+    const parsed = philosopherSchema.parse(payload);
+    if (normalized.tier === "standard") assertKnownWorkIds(parsed, worksById);
+    else assertSeedIdentity(parsed, proposedRelationships, worksById);
     return parsed;
   });
 
@@ -211,6 +251,9 @@ function parseArgs(argv) {
     } else if (arg === "--data-dir") {
       options.dataDir = args.shift();
       assert(options.dataDir, "--data-dir needs a value");
+    } else if (arg === "--tier") {
+      options.tier = args.shift();
+      assert(options.tier, "--tier needs a value");
     } else if (!options.batchDir) {
       options.batchDir = arg;
     } else {
@@ -226,7 +269,7 @@ if (isCli) {
   try {
     const options = parseArgs(process.argv.slice(2));
     if (!options.batchDir) {
-      console.error("Usage: node tools/admit-kimi-batch.mjs <research-batch-dir> [--write] [--overwrite] [--data-dir public/data]");
+      console.error("Usage: node tools/admit-kimi-batch.mjs <research-batch-dir> [--write] [--overwrite] [--tier standard|seed] [--data-dir public/data]");
       process.exit(1);
     }
     const result = admitKimiBatch(options);

@@ -1,0 +1,47 @@
+{
+  "id": "zongmi",
+  "tier": "seed",
+  "names": {
+    "zh": "宗密",
+    "en": "Zongmi",
+    "native": "圭峰宗密"
+  },
+  "life": {
+    "birth": 780,
+    "death": 841,
+    "display": "780—841"
+  },
+  "civilization": "chinese",
+  "traditions": [
+    "buddhism",
+    "huayan",
+    "chan"
+  ],
+  "periods": [
+    "tang"
+  ],
+  "themes": [
+    "religion",
+    "metaphysics"
+  ],
+  "keywordsZh": [
+    "华严宗",
+    "禅源诸诠集都序",
+    "原人论"
+  ],
+  "oneLineZh": "唐代华严五祖与禅教会通思想家，兼具宗派判教和儒释道比较。",
+  "influenceWeight": 3,
+  "reviewStatus": "draft",
+  "summaryZh": "宗密，俗姓何，号圭峰，唐代僧人，华严宗五祖，同时深度参与禅宗谱系解释。《禅源诸诠集都序》试图会通诸禅与教理，《原人论》则以佛教立场比较儒、道、佛关于人的根源解释。宗密的思想处在唐代佛教宗派成熟和三教论衡高峰，代表禅、华严与士人文化之间的系统整合。",
+  "works": [
+    "zongmi-chanyuan-zhuquanji-duxu",
+    "zongmi-yuanren-lun"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S002",
+      "url": "https://cbetaonline.dila.edu.tw/zh/T2015",
+      "noteZh": "以宗密《禅源诸诠集都序》《原人论》支撑身份层。"
+    }
+  ]
+}

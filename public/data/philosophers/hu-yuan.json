@@ -1,0 +1,46 @@
+{
+  "id": "hu-yuan",
+  "tier": "seed",
+  "names": {
+    "zh": "胡瑗",
+    "en": "Hu Yuan",
+    "native": "胡瑗"
+  },
+  "life": {
+    "birth": 993,
+    "death": 1059,
+    "display": "993—1059"
+  },
+  "civilization": "chinese",
+  "traditions": [
+    "confucianism",
+    "song_learning"
+  ],
+  "periods": [
+    "northern_song"
+  ],
+  "themes": [
+    "ethics",
+    "knowledge"
+  ],
+  "keywordsZh": [
+    "安定先生",
+    "苏湖教法",
+    "经世教育"
+  ],
+  "oneLineZh": "北宋教育家和儒者，以安定学派、经义治事教育著称。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "胡瑗，字翼之，泰州海陵人，北宋儒者和教育家，世称安定先生。他在苏州、湖州讲学，形成“经义”“治事”并重的教学传统，强调儒学应培养德行和治理能力。胡瑗著述存佚复杂，常以《周易口义》等题名传承。其影响在于把宋代儒学复兴落实为学校制度和士人训练。",
+  "works": [
+    "hu-yuan-zhouyi-kouyi",
+    "hu-yuan-hongfan-kouyi"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S008",
+      "url": "https://ctext.org/wiki.pl?if=en&res=821340",
+      "noteZh": "以胡瑗传记和《周易口义》《洪范口义》题名传统支撑身份层。"
+    }
+  ]
+}

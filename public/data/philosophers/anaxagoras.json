@@ -1,51 +1,288 @@
 {
   "id": "anaxagoras",
-  "names": {"zh": "阿那克萨戈拉", "en": "Anaxagoras"},
-  "life": {"birth": -500, "death": -428, "display": "约前 500—前 428"},
+  "names": {
+    "zh": "阿那克萨戈拉",
+    "en": "Anaxagoras"
+  },
+  "life": {
+    "birth": -500,
+    "death": -428,
+    "display": "约前 500—前 428"
+  },
   "civilization": "ancient_greek",
-  "traditions": ["presocratic_philosophy", "ancient_greek_philosophy"],
-  "periods": ["first_release"],
-  "themes": ["metaphysics", "knowledge", "politics"],
-  "keywordsZh": ["形而上学", "知识", "政治"],
+  "traditions": [
+    "presocratic_philosophy",
+    "ancient_greek_philosophy"
+  ],
+  "periods": [
+    "first_release"
+  ],
+  "themes": [
+    "metaphysics",
+    "knowledge",
+    "politics"
+  ],
+  "keywordsZh": [
+    "形而上学",
+    "知识",
+    "政治"
+  ],
   "oneLineZh": "把无限种子、万物相含和 Nous 引入自然哲学，并把爱奥尼亚自然解释带入雅典。",
   "influenceWeight": 1,
   "reviewStatus": "draft",
   "summaryZh": "把无限种子、万物相含和 Nous 引入自然哲学，并把爱奥尼亚自然解释带入雅典。本条目以 summary_only 方式整理，重点保留低争议的问题结构、主张和可追溯证据定位。",
-  "works": ["anaxagoras-primary-work"],
-  "sourceNotes": [
-    {"label": "primary-dossier", "noteZh": "本轮采用残篇、亚里士多德、辛普里丘、柏拉图、普鲁塔克和现代前苏格拉底研究交叉定位；不填逐字摘录。"},
-    {"label": "excerpt-status", "noteZh": "全部 evidence 使用 summary_only，locator 保留到残篇编号或古代见证层级。"}
+  "works": [
+    "anaxagoras-primary-work"
   ],
-  "thoughtSystem": {"problems": [
-    {"id": "anaxagoras:problem:001", "titleZh": "万物为何在万物之中？", "questionZh": "阿那克萨戈拉如何用无限种子和万物相含解释变化、生成和事物性质？", "summaryZh": "阿那克萨戈拉否认绝对生成，认为一切中含有一切，只是某些成分占优势而呈现特定性质。", "themeIds": ["metaphysics", "knowledge"], "weight": 3, "claims": [
-      {"id": "anaxagoras:claim:001", "titleZh": "生成是分离和显现而非无中生有", "claimZh": "阿那克萨戈拉认为没有真正的生成和毁灭，所谓变化是原有成分的分离、混合和显现。", "explanationZh": "这延续对巴门尼德挑战的回应：存在不能从不存在中产生，但经验变化可由混合结构说明。", "themeIds": ["metaphysics"], "weight": 3, "evidence": [
-        {"id": "anaxagoras:evidence:001", "titleZh": "生成和毁灭残篇", "summaryZh": "残篇指出希腊人错误地说生成和毁灭，实际上只有混合与分离，从而把变化解释为成分关系调整。", "source": {"workId": "anaxagoras-primary-work", "locator": "Anaxagoras DK 59 B17 on coming-to-be and perishing as mixing and separating", "excerptStatus": "summary_only"}},
-        {"id": "anaxagoras:evidence:002", "titleZh": "辛普里丘保存的混合理论", "summaryZh": "辛普里丘保存多处关于一切混在一起、无一完全分离的残篇，支撑阿那克萨戈拉的普遍混合理论。", "source": {"workId": "anaxagoras-primary-work", "locator": "Simplicius, Commentary on Physics preserving Anaxagoras DK 59 B1-B6 on mixture and separation", "excerptStatus": "summary_only"}}
-      ]},
-      {"id": "anaxagoras:claim:002", "titleZh": "事物性质来自优势成分", "claimZh": "在万物相含框架中，一个事物被称为什么，取决于其中占优势或最显明的成分。", "explanationZh": "这解释了食物如何转化为肉、骨、毛发等，也解释性质变化中的连续性。", "themeIds": ["metaphysics", "life_death"], "weight": 2, "evidence": [
-        {"id": "anaxagoras:evidence:003", "titleZh": "一切中有一切残篇", "summaryZh": "残篇说明万物中都有每一种成分，区别在于数量、显现和支配成分，由此解释事物性质差异。", "source": {"workId": "anaxagoras-primary-work", "locator": "Anaxagoras DK 59 B6, B10-B12 on everything in everything and predominant portions", "excerptStatus": "summary_only"}},
-        {"id": "anaxagoras:evidence:004", "titleZh": "亚里士多德对同质部分的解释", "summaryZh": "亚里士多德把阿那克萨戈拉理论联系到肉、骨等同质部分和无限成分问题，显示其理论的古代接受方式。", "source": {"workId": "anaxagoras-primary-work", "locator": "Aristotle, Physics I.4 and Metaphysics A.3 on Anaxagoras' homoeomeries and mixture", "excerptStatus": "summary_only"}}
-      ]}
-    ]},
-    {"id": "anaxagoras:problem:002", "titleZh": "Nous 如何启动宇宙秩序？", "questionZh": "阿那克萨戈拉为什么引入 Nous，并如何把它同混合物的旋转、分离和宇宙形成联系起来？", "summaryZh": "Nous 是最纯、最自主、知晓并支配万物的原则，启动旋转和分离，使混沌混合物形成有序宇宙。", "themeIds": ["metaphysics", "knowledge"], "weight": 3, "claims": [
-      {"id": "anaxagoras:claim:003", "titleZh": "Nous 是自主而纯粹的秩序原则", "claimZh": "阿那克萨戈拉把 Nous 描述为不与其他事物混合、最精细、最纯、具有知识和支配力的原则。", "explanationZh": "这使宇宙秩序不只由物质混合解释，还需要一种能够启动和辨别秩序的理智原则。", "themeIds": ["metaphysics", "knowledge"], "weight": 3, "evidence": [
-        {"id": "anaxagoras:evidence:005", "titleZh": "Nous 残篇", "summaryZh": "残篇 B12 集中说明 Nous 的纯粹、自主、知识和支配功能，使心灵成为启动宇宙秩序的特殊原则。", "source": {"workId": "anaxagoras-primary-work", "locator": "Anaxagoras DK 59 B12 on Nous as unmixed, pure, knowing and ruling", "excerptStatus": "summary_only"}},
-        {"id": "anaxagoras:evidence:006", "titleZh": "旋转与分离见证", "summaryZh": "残篇和古代见证把 Nous 与宇宙旋转开始、分离和秩序形成联系起来，强调其宇宙生成中的启动作用。", "source": {"workId": "anaxagoras-primary-work", "locator": "Anaxagoras DK 59 B12-B13 and Simplicius testimonia on Nous initiating rotation", "excerptStatus": "summary_only"}}
-      ]},
-      {"id": "anaxagoras:claim:004", "titleZh": "Nous 的目的论使用受到古代批评", "claimZh": "柏拉图和亚里士多德认为阿那克萨戈拉提出 Nous 后，实际解释中仍大量依赖机械原因。", "explanationZh": "这使 Nous 成为古代目的论争论的关键节点：它既开启理智原则，也暴露机械解释与目的解释的张力。", "themeIds": ["knowledge", "metaphysics"], "weight": 2, "evidence": [
-        {"id": "anaxagoras:evidence:007", "titleZh": "柏拉图《斐多》批评", "summaryZh": "苏格拉底在《斐多》中说曾期待 Nous 作善的目的解释，却发现阿那克萨戈拉多诉诸物理原因。", "source": {"workId": "anaxagoras-primary-work", "locator": "Plato, Phaedo 97b-99c on disappointment with Anaxagoras' Nous", "excerptStatus": "summary_only"}},
-        {"id": "anaxagoras:evidence:008", "titleZh": "亚里士多德目的论评价", "summaryZh": "亚里士多德认为阿那克萨戈拉像清醒者一样引入 Nous，但使用上不够充分和系统，形成经典目的论评价。", "source": {"workId": "anaxagoras-primary-work", "locator": "Aristotle, Metaphysics A.3-4 and A.7 on Anaxagoras' Nous and causation", "excerptStatus": "summary_only"}}
-      ]}
-    ]},
-    {"id": "anaxagoras:problem:003", "titleZh": "自然解释如何改变雅典公共思想？", "questionZh": "阿那克萨戈拉把日月、天象和自然原因带入雅典后，为什么会与宗教和政治发生冲突？", "summaryZh": "阿那克萨戈拉以自然原因解释天体和天象，在雅典知识圈具有重要影响，也暴露自然哲学与城邦宗教政治的紧张。", "themeIds": ["knowledge", "politics"], "weight": 2, "claims": [
-      {"id": "anaxagoras:claim:005", "titleZh": "天体可被自然化解释", "claimZh": "阿那克萨戈拉把太阳、月亮和天象解释为自然物和自然过程，而非神话人格。", "explanationZh": "这强化了爱奥尼亚自然哲学传统在雅典的冲击。", "themeIds": ["knowledge", "religion"], "weight": 3, "evidence": [
-        {"id": "anaxagoras:evidence:009", "titleZh": "太阳和月亮自然解释", "summaryZh": "古代材料称阿那克萨戈拉把太阳解释为炽热石块、月亮有土质并反射太阳光，体现天体解释自然化。", "source": {"workId": "anaxagoras-primary-work", "locator": "Diogenes Laertius II.8-14 and Hippolytus on Anaxagoras' astronomy, sun and moon", "excerptStatus": "summary_only"}},
-        {"id": "anaxagoras:evidence:010", "titleZh": "日食和陨石等自然解释传统", "summaryZh": "见证材料把阿那克萨戈拉同日食、陨石和天象自然解释联系起来，显示其对神话天象解释的替代。", "source": {"workId": "anaxagoras-primary-work", "locator": "Plutarch and doxographical testimonia on Anaxagoras, eclipses and meteorite explanations", "excerptStatus": "summary_only"}}
-      ]},
-      {"id": "anaxagoras:claim:006", "titleZh": "自然哲学可能触犯城邦宗教政治", "claimZh": "阿那克萨戈拉被控不敬的传统说明自然解释在雅典公共语境中可能被政治化。", "explanationZh": "具体审判细节需谨慎，但它显示哲学、宗教和城邦派系之间的压力。", "themeIds": ["politics", "religion"], "weight": 2, "evidence": [
-        {"id": "anaxagoras:evidence:011", "titleZh": "审判和流亡传记传统", "summaryZh": "第欧根尼·拉尔修和普鲁塔克等材料记载阿那克萨戈拉因不敬或政治牵连离开雅典，反映自然哲学的城邦风险。", "source": {"workId": "anaxagoras-primary-work", "locator": "Diogenes Laertius II.12-15 and Plutarch, Pericles on Anaxagoras' trial/exile traditions", "excerptStatus": "summary_only"}},
-        {"id": "anaxagoras:evidence:012", "titleZh": "现代研究对雅典语境的处理", "summaryZh": "现代研究通常把阿那克萨戈拉视为连接爱奥尼亚自然哲学和雅典公共思想的重要人物，但谨慎处理审判细节。", "source": {"workId": "anaxagoras-primary-work", "locator": "Modern scholarship on Anaxagoras in Athens, Pericles, impiety and natural philosophy", "excerptStatus": "summary_only"}}
-      ]}
-    ]}
-  ]}
+  "sourceNotes": [
+    {
+      "label": "primary-dossier",
+      "noteZh": "本轮采用残篇、亚里士多德、辛普里丘、柏拉图、普鲁塔克和现代前苏格拉底研究交叉定位；不填逐字摘录。"
+    },
+    {
+      "label": "excerpt-status",
+      "noteZh": "全部 evidence 使用 summary_only，locator 保留到残篇编号或古代见证层级。"
+    }
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "anaxagoras:problem:001",
+        "titleZh": "万物为何在万物之中？",
+        "questionZh": "阿那克萨戈拉如何用无限种子和万物相含解释变化、生成和事物性质？",
+        "summaryZh": "阿那克萨戈拉否认绝对生成，认为一切中含有一切，只是某些成分占优势而呈现特定性质。",
+        "themeIds": [
+          "metaphysics",
+          "knowledge"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "anaxagoras:claim:001",
+            "titleZh": "生成是分离和显现而非无中生有",
+            "claimZh": "阿那克萨戈拉认为没有真正的生成和毁灭，所谓变化是原有成分的分离、混合和显现。",
+            "explanationZh": "这延续对巴门尼德挑战的回应：存在不能从不存在中产生，但经验变化可由混合结构说明。",
+            "themeIds": [
+              "metaphysics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "anaxagoras:evidence:001",
+                "titleZh": "生成和毁灭残篇",
+                "summaryZh": "残篇指出希腊人错误地说生成和毁灭，实际上只有混合与分离，从而把变化解释为成分关系调整。",
+                "source": {
+                  "workId": "anaxagoras-primary-work",
+                  "locator": "Anaxagoras DK 59 B17 on coming-to-be and perishing as mixing and separating",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "anaxagoras:evidence:002",
+                "titleZh": "辛普里丘保存的混合理论",
+                "summaryZh": "辛普里丘保存多处关于一切混在一起、无一完全分离的残篇，支撑阿那克萨戈拉的普遍混合理论。",
+                "source": {
+                  "workId": "anaxagoras-primary-work",
+                  "locator": "Simplicius, Commentary on Physics preserving Anaxagoras DK 59 B1-B6 on mixture and separation",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "anaxagoras:claim:002",
+            "titleZh": "事物性质来自优势成分",
+            "claimZh": "在万物相含框架中，一个事物被称为什么，取决于其中占优势或最显明的成分。",
+            "explanationZh": "这解释了食物如何转化为肉、骨、毛发等，也解释性质变化中的连续性。",
+            "themeIds": [
+              "metaphysics",
+              "life_death"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "anaxagoras:evidence:003",
+                "titleZh": "一切中有一切残篇",
+                "summaryZh": "残篇说明万物中都有每一种成分，区别在于数量、显现和支配成分，由此解释事物性质差异。",
+                "source": {
+                  "workId": "anaxagoras-primary-work",
+                  "locator": "Anaxagoras DK 59 B6, B10-B12 on everything in everything and predominant portions",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "anaxagoras:evidence:004",
+                "titleZh": "亚里士多德对同质部分的解释",
+                "summaryZh": "亚里士多德把阿那克萨戈拉理论联系到肉、骨等同质部分和无限成分问题，显示其理论的古代接受方式。",
+                "source": {
+                  "workId": "anaxagoras-primary-work",
+                  "locator": "Aristotle, Physics I.4 and Metaphysics A.3 on Anaxagoras' homoeomeries and mixture",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "anaxagoras:problem:002",
+        "titleZh": "Nous 如何启动宇宙秩序？",
+        "questionZh": "阿那克萨戈拉为什么引入 Nous，并如何把它同混合物的旋转、分离和宇宙形成联系起来？",
+        "summaryZh": "Nous 是最纯、最自主、知晓并支配万物的原则，启动旋转和分离，使混沌混合物形成有序宇宙。",
+        "themeIds": [
+          "metaphysics",
+          "knowledge"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "anaxagoras:claim:003",
+            "titleZh": "Nous 是自主而纯粹的秩序原则",
+            "claimZh": "阿那克萨戈拉把 Nous 描述为不与其他事物混合、最精细、最纯、具有知识和支配力的原则。",
+            "explanationZh": "这使宇宙秩序不只由物质混合解释，还需要一种能够启动和辨别秩序的理智原则。",
+            "themeIds": [
+              "metaphysics",
+              "knowledge"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "anaxagoras:evidence:005",
+                "titleZh": "Nous 残篇",
+                "summaryZh": "残篇 B12 集中说明 Nous 的纯粹、自主、知识和支配功能，使心灵成为启动宇宙秩序的特殊原则。",
+                "source": {
+                  "workId": "anaxagoras-primary-work",
+                  "locator": "Anaxagoras DK 59 B12 on Nous as unmixed, pure, knowing and ruling",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "anaxagoras:evidence:006",
+                "titleZh": "旋转与分离见证",
+                "summaryZh": "残篇和古代见证把 Nous 与宇宙旋转开始、分离和秩序形成联系起来，强调其宇宙生成中的启动作用。",
+                "source": {
+                  "workId": "anaxagoras-primary-work",
+                  "locator": "Anaxagoras DK 59 B12-B13 and Simplicius testimonia on Nous initiating rotation",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "anaxagoras:claim:004",
+            "titleZh": "Nous 的目的论使用受到古代批评",
+            "claimZh": "柏拉图和亚里士多德认为阿那克萨戈拉提出 Nous 后，实际解释中仍大量依赖机械原因。",
+            "explanationZh": "这使 Nous 成为古代目的论争论的关键节点：它既开启理智原则，也暴露机械解释与目的解释的张力。",
+            "themeIds": [
+              "knowledge",
+              "metaphysics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "anaxagoras:evidence:007",
+                "titleZh": "柏拉图《斐多》批评",
+                "summaryZh": "苏格拉底在《斐多》中说曾期待 Nous 作善的目的解释，却发现阿那克萨戈拉多诉诸物理原因。",
+                "source": {
+                  "workId": "anaxagoras-primary-work",
+                  "locator": "Plato, Phaedo 97b-99c on disappointment with Anaxagoras' Nous",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "anaxagoras:evidence:008",
+                "titleZh": "亚里士多德目的论评价",
+                "summaryZh": "亚里士多德认为阿那克萨戈拉像清醒者一样引入 Nous，但使用上不够充分和系统，形成经典目的论评价。",
+                "source": {
+                  "workId": "anaxagoras-primary-work",
+                  "locator": "Aristotle, Metaphysics A.3-4 and A.7 on Anaxagoras' Nous and causation",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "anaxagoras:problem:003",
+        "titleZh": "自然解释如何改变雅典公共思想？",
+        "questionZh": "阿那克萨戈拉把日月、天象和自然原因带入雅典后，为什么会与宗教和政治发生冲突？",
+        "summaryZh": "阿那克萨戈拉以自然原因解释天体和天象，在雅典知识圈具有重要影响，也暴露自然哲学与城邦宗教政治的紧张。",
+        "themeIds": [
+          "knowledge",
+          "politics"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "anaxagoras:claim:005",
+            "titleZh": "天体可被自然化解释",
+            "claimZh": "阿那克萨戈拉把太阳、月亮和天象解释为自然物和自然过程，而非神话人格。",
+            "explanationZh": "这强化了爱奥尼亚自然哲学传统在雅典的冲击。",
+            "themeIds": [
+              "knowledge",
+              "religion"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "anaxagoras:evidence:009",
+                "titleZh": "太阳和月亮自然解释",
+                "summaryZh": "古代材料称阿那克萨戈拉把太阳解释为炽热石块、月亮有土质并反射太阳光，体现天体解释自然化。",
+                "source": {
+                  "workId": "anaxagoras-primary-work",
+                  "locator": "Diogenes Laertius II.8-14 and Hippolytus on Anaxagoras' astronomy, sun and moon",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "anaxagoras:evidence:010",
+                "titleZh": "日食和陨石等自然解释传统",
+                "summaryZh": "见证材料把阿那克萨戈拉同日食、陨石和天象自然解释联系起来，显示其对神话天象解释的替代。",
+                "source": {
+                  "workId": "anaxagoras-primary-work",
+                  "locator": "Plutarch and doxographical testimonia on Anaxagoras, eclipses and meteorite explanations",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "anaxagoras:claim:006",
+            "titleZh": "自然哲学可能触犯城邦宗教政治",
+            "claimZh": "阿那克萨戈拉被控不敬的传统说明自然解释在雅典公共语境中可能被政治化。",
+            "explanationZh": "具体审判细节需谨慎，但它显示哲学、宗教和城邦派系之间的压力。",
+            "themeIds": [
+              "politics",
+              "religion"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "anaxagoras:evidence:011",
+                "titleZh": "审判和流亡传记传统",
+                "summaryZh": "第欧根尼·拉尔修和普鲁塔克等材料记载阿那克萨戈拉因不敬或政治牵连离开雅典，反映自然哲学的城邦风险。",
+                "source": {
+                  "workId": "anaxagoras-primary-work",
+                  "locator": "Diogenes Laertius II.12-15 and Plutarch, Pericles on Anaxagoras' trial/exile traditions",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "anaxagoras:evidence:012",
+                "titleZh": "现代研究对雅典语境的处理",
+                "summaryZh": "现代研究通常把阿那克萨戈拉视为连接爱奥尼亚自然哲学和雅典公共思想的重要人物，但谨慎处理审判细节。",
+                "source": {
+                  "workId": "anaxagoras-primary-work",
+                  "locator": "Modern scholarship on Anaxagoras in Athens, Pericles, impiety and natural philosophy",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "tier": "standard"
 }

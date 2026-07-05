@@ -1,0 +1,46 @@
+{
+  "id": "he-yan",
+  "tier": "seed",
+  "names": {
+    "zh": "何晏",
+    "en": "He Yan",
+    "native": "何晏"
+  },
+  "life": {
+    "birth": 195,
+    "death": 249,
+    "display": "195—249"
+  },
+  "civilization": "chinese",
+  "traditions": [
+    "xuanxue",
+    "confucianism"
+  ],
+  "periods": [
+    "three_kingdoms"
+  ],
+  "themes": [
+    "metaphysics",
+    "ethics"
+  ],
+  "keywordsZh": [
+    "玄学",
+    "论语集解",
+    "贵无"
+  ],
+  "oneLineZh": "曹魏玄学人物，主持《论语集解》并推动贵无论讨论。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "何晏，字平叔，曹魏名士和政治人物，既参与朝廷权力斗争，也在思想史上被视为早期玄学代表。他主持《论语集解》，又以贵无、名教与自然等问题开启魏晋玄学讨论。何晏的文本多散佚，形象常与王弼并提，代表汉魏经学向形上解释和名士清谈转换的关键阶段。",
+  "works": [
+    "he-yan-lunyu-jijie",
+    "he-yan-daodelun-fragments"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S007",
+      "url": "https://ctext.org/lunyu-jijie",
+      "noteZh": "以《论语集解》和何晏相关佚文传统支撑身份层。"
+    }
+  ]
+}

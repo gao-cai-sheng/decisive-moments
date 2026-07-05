@@ -1,0 +1,44 @@
+{
+  "id": "xu-xing",
+  "tier": "seed",
+  "names": {
+    "zh": "许行",
+    "en": "Xu Xing",
+    "native": "許行"
+  },
+  "life": {
+    "birth": -390,
+    "death": -315,
+    "display": "约前390—约前315"
+  },
+  "civilization": "chinese",
+  "traditions": [
+    "nongjia"
+  ],
+  "periods": [
+    "warring_states"
+  ],
+  "themes": [
+    "politics",
+    "ethics"
+  ],
+  "keywordsZh": [
+    "农家",
+    "并耕",
+    "孟子辩论"
+  ],
+  "oneLineZh": "战国农家代表人物，以并耕主张见于《孟子》。",
+  "influenceWeight": 1,
+  "reviewStatus": "draft",
+  "summaryZh": "许行，战国楚人或农家人物，主要见于《孟子·滕文公上》。文本记其门人主张贤者与民并耕而食，反对脱离农事的统治者消费结构。虽然许行自身著述不传，其形象保留了农家对生产劳动、政治供养和社会分工的激烈质疑，是理解先秦诸子政治经济观的重要边缘节点。",
+  "works": [
+    "xu-xing-mengzi-tengwengong"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S011",
+      "url": "https://ctext.org/mengzi/teng-wen-gong-i",
+      "noteZh": "以《孟子》相关章支撑许行身份、农家归属与并耕主张。"
+    }
+  ]
+}

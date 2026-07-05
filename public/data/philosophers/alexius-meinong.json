@@ -1,0 +1,43 @@
+{
+  "id": "alexius-meinong",
+  "tier": "seed",
+  "names": {
+    "zh": "阿莱克修斯·迈农",
+    "en": "Alexius Meinong"
+  },
+  "life": {
+    "birth": 1853,
+    "death": 1920,
+    "display": "1853—1920"
+  },
+  "civilization": "western",
+  "traditions": [
+    "analytic_philosophy"
+  ],
+  "periods": [
+    "modern"
+  ],
+  "themes": [
+    "language",
+    "knowledge"
+  ],
+  "keywordsZh": [
+    "对象论",
+    "身份层",
+    "二线哲人"
+  ],
+  "oneLineZh": "对象论代表，可补语言、存在与非存在对象问题。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "阿莱克修斯·迈农（1853—1920）是 W2 欧陆与英美近现代二线哲人候选。其身份层入选理由为：对象论代表，可补语言、存在与非存在对象问题。 本条仅作 seed 档基本定位，后续若升级标准档，需要重新做著作、论点与 evidence 研究。",
+  "works": [
+    "alexius-meinong-on-assumptions",
+    "alexius-meinong-theory-of-objects"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S002",
+      "noteZh": "权威来源条目：SEP: Alexius Meinong；用于核验人物身份、生卒、代表著作和思想史定位。"
+    }
+  ]
+}

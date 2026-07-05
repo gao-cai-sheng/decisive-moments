@@ -1,0 +1,43 @@
+{
+  "id": "aj-ayer",
+  "tier": "seed",
+  "names": {
+    "zh": "A. J. 艾耶尔",
+    "en": "A. J. Ayer"
+  },
+  "life": {
+    "birth": 1910,
+    "death": 1989,
+    "display": "1910—1989"
+  },
+  "civilization": "western",
+  "traditions": [
+    "analytic_philosophy"
+  ],
+  "periods": [
+    "contemporary"
+  ],
+  "themes": [
+    "language",
+    "knowledge"
+  ],
+  "keywordsZh": [
+    "逻辑实证主义",
+    "身份层",
+    "二线哲人"
+  ],
+  "oneLineZh": "逻辑实证主义在英国的传播代表，可补维也纳学派到英美分析哲学的桥梁。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "A. J. 艾耶尔（1910—1989）是 W2 欧陆与英美近现代二线哲人候选。其身份层入选理由为：逻辑实证主义在英国的传播代表，可补维也纳学派到英美分析哲学的桥梁。 本条仅作 seed 档基本定位，后续若升级标准档，需要重新做著作、论点与 evidence 研究。",
+  "works": [
+    "aj-ayer-language-truth-logic",
+    "aj-ayer-problem-of-knowledge"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S013",
+      "noteZh": "权威来源条目：SEP: Alfred Jules Ayer；用于核验人物身份、生卒、代表著作和思想史定位。"
+    }
+  ]
+}

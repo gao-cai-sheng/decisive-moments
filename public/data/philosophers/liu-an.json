@@ -1,0 +1,45 @@
+{
+  "id": "liu-an",
+  "tier": "seed",
+  "names": {
+    "zh": "刘安",
+    "en": "Liu An",
+    "native": "劉安"
+  },
+  "life": {
+    "birth": -179,
+    "death": -122,
+    "display": "前179—前122"
+  },
+  "civilization": "chinese",
+  "traditions": [
+    "daoism",
+    "zajia"
+  ],
+  "periods": [
+    "western_han"
+  ],
+  "themes": [
+    "metaphysics",
+    "politics"
+  ],
+  "keywordsZh": [
+    "淮南子",
+    "黄老",
+    "诸子汇编"
+  ],
+  "oneLineZh": "西汉淮南王，《淮南子》编纂工程的中心人物。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "刘安，西汉淮南王，汉高祖之孙，因宾客学术活动和《淮南子》编纂而进入思想史。《淮南子》综合道家、阴阳、法术、天文和政治论述，以黄老宇宙论统摄治国、修身和知识分类。刘安本人兼具诸侯王、知识赞助者和政治失败者身份，其案例显示汉初诸子知识向王朝秩序整合的复杂过程。",
+  "works": [
+    "liu-an-huainanzi"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S024",
+      "url": "https://ctext.org/huainanzi",
+      "noteZh": "以《淮南子》和史传材料支撑刘安身份、作品和黄老杂家定位。"
+    }
+  ]
+}

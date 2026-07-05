@@ -1,0 +1,42 @@
+{
+  "id": "thomas-nagel",
+  "tier": "seed",
+  "names": {
+    "zh": "托马斯·内格尔",
+    "en": "Thomas Nagel"
+  },
+  "life": {
+    "birth": 1937,
+    "display": "1937—"
+  },
+  "civilization": "western",
+  "traditions": [
+    "analytic_philosophy"
+  ],
+  "periods": [
+    "contemporary"
+  ],
+  "themes": [
+    "ethics",
+    "politics"
+  ],
+  "keywordsZh": [
+    "主观经验",
+    "身份层",
+    "二线哲人"
+  ],
+  "oneLineZh": "主观经验、道德运气与自由主义批判代表，可补心灵与伦理接口。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "托马斯·内格尔（1937—）是 W2 欧陆与英美近现代二线哲人候选。其身份层入选理由为：主观经验、道德运气与自由主义批判代表，可补心灵与伦理接口。 本条仅作 seed 档基本定位，后续若升级标准档，需要重新做著作、论点与 evidence 研究。",
+  "works": [
+    "thomas-nagel-what-is-it-like-to-be-a-bat",
+    "thomas-nagel-view-from-nowhere"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S001",
+      "noteZh": "权威来源条目：IEP: Thomas Nagel；用于核验人物身份、生卒、代表著作和思想史定位。"
+    }
+  ]
+}

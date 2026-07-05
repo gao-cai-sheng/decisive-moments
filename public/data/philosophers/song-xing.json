@@ -1,0 +1,46 @@
+{
+  "id": "song-xing",
+  "tier": "seed",
+  "names": {
+    "zh": "宋钘",
+    "en": "Song Xing",
+    "native": "宋鈃"
+  },
+  "life": {
+    "birth": -370,
+    "death": -291,
+    "display": "约前370—约前291"
+  },
+  "civilization": "chinese",
+  "traditions": [
+    "jixia",
+    "mohism"
+  ],
+  "periods": [
+    "warring_states"
+  ],
+  "themes": [
+    "ethics",
+    "politics"
+  ],
+  "keywordsZh": [
+    "稷下",
+    "兼爱非斗",
+    "寡欲"
+  ],
+  "oneLineZh": "战国稷下思想人物，常与尹文并称，主张节欲与非斗。",
+  "influenceWeight": 1,
+  "reviewStatus": "draft",
+  "summaryZh": "宋钘，战国思想人物，常与尹文并称，见于《庄子·天下》和《荀子》等批评材料。传统形象中，他强调节欲、非斗、以情欲调节减少争夺，并被置于墨家、名家和稷下学术交叉地带。其自著不传，后世主要依据他人记载重构其学说，是先秦非主流社会伦理与政治和平论的重要线索。",
+  "works": [
+    "song-xing-zhuangzi-tianxia",
+    "song-xing-xunzi-records"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S013",
+      "url": "https://ctext.org/zhuangzi/tian-xia",
+      "noteZh": "以《庄子·天下》与《荀子》批评材料支撑宋钘身份层。"
+    }
+  ]
+}

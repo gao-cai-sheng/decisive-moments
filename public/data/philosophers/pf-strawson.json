@@ -1,0 +1,43 @@
+{
+  "id": "pf-strawson",
+  "tier": "seed",
+  "names": {
+    "zh": "彼得·弗雷德里克·斯特劳森",
+    "en": "P. F. Strawson"
+  },
+  "life": {
+    "birth": 1919,
+    "death": 2006,
+    "display": "1919—2006"
+  },
+  "civilization": "western",
+  "traditions": [
+    "analytic_philosophy"
+  ],
+  "periods": [
+    "contemporary"
+  ],
+  "themes": [
+    "language",
+    "knowledge"
+  ],
+  "keywordsZh": [
+    "身份层",
+    "二线哲人",
+    "思想史补线"
+  ],
+  "oneLineZh": "描述形而上学与普通语言传统代表，可补康德与分析哲学接口。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "彼得·弗雷德里克·斯特劳森（1919—2006）是 W2 欧陆与英美近现代二线哲人候选。其身份层入选理由为：描述形而上学与普通语言传统代表，可补康德与分析哲学接口。 本条仅作 seed 档基本定位，后续若升级标准档，需要重新做著作、论点与 evidence 研究。",
+  "works": [
+    "pf-strawson-individuals",
+    "pf-strawson-bounds-of-sense"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S019",
+      "noteZh": "权威来源条目：SEP: Peter Frederick Strawson；用于核验人物身份、生卒、代表著作和思想史定位。"
+    }
+  ]
+}

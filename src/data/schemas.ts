@@ -1,6 +1,7 @@
 import { z } from "zod";
 
 export const reviewStatusSchema = z.enum(["draft", "reviewed"]);
+export const philosopherTierSchema = z.enum(["standard", "seed"]);
 export const relationshipTypeSchema = z.enum([
   "direct_student",
   "influence",
@@ -54,6 +55,7 @@ export const philosopherThoughtSystemSchema = z.object({
 
 export const philosopherIndexEntrySchema = z.object({
   id: z.string().min(1),
+  tier: philosopherTierSchema,
   names: z.object({
     zh: z.string().min(1),
     en: z.string().min(1),
@@ -129,6 +131,7 @@ export const workSchema = z.object({
 });
 
 export type ReviewStatus = z.infer<typeof reviewStatusSchema>;
+export type PhilosopherTier = z.infer<typeof philosopherTierSchema>;
 export type RelationshipType = z.infer<typeof relationshipTypeSchema>;
 export type ThoughtEvidence = z.infer<typeof thoughtEvidenceSchema>;
 export type ThoughtClaim = z.infer<typeof thoughtClaimSchema>;

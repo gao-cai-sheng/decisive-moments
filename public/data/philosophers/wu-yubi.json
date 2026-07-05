@@ -1,0 +1,44 @@
+{
+  "id": "wu-yubi",
+  "tier": "seed",
+  "names": {
+    "zh": "吴与弼",
+    "en": "Wu Yubi",
+    "native": "吳與弼"
+  },
+  "life": {
+    "birth": 1391,
+    "death": 1469,
+    "display": "1391—1469"
+  },
+  "civilization": "chinese",
+  "traditions": [
+    "neo_confucianism"
+  ],
+  "periods": [
+    "ming"
+  ],
+  "themes": [
+    "ethics",
+    "knowledge"
+  ],
+  "keywordsZh": [
+    "康斋",
+    "明代理学",
+    "静坐读书"
+  ],
+  "oneLineZh": "明初理学家，以康斋学派和居敬实践影响陈献章。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "吴与弼，字子傅，号康斋，明初理学家。他长期乡居讲学，重视读书、静坐、日用伦理和师友传承，其《康斋集》保存诗文和讲学材料。吴与弼并非大型体系建构者，但其人格化、实践化的理学风格影响陈献章、胡居仁等明代理学人物，是明代心性修养转向的重要前驱。",
+  "works": [
+    "wu-yubi-kangzhai-ji"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S019",
+      "url": "https://ctext.org/wiki.pl?if=en&res=821770",
+      "noteZh": "以吴与弼《康斋集》和明儒学案材料支撑身份层。"
+    }
+  ]
+}

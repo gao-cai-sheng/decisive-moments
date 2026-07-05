@@ -1,0 +1,46 @@
+{
+  "id": "yan-yuan-qing",
+  "tier": "seed",
+  "names": {
+    "zh": "颜元",
+    "en": "Yan Yuan",
+    "native": "顏元"
+  },
+  "life": {
+    "birth": 1635,
+    "death": 1704,
+    "display": "1635—1704"
+  },
+  "civilization": "chinese",
+  "traditions": [
+    "confucianism",
+    "qing_practical_learning"
+  ],
+  "periods": [
+    "qing"
+  ],
+  "themes": [
+    "ethics",
+    "knowledge"
+  ],
+  "keywordsZh": [
+    "习斋",
+    "实学",
+    "存学编"
+  ],
+  "oneLineZh": "清初实学代表，主张实文、实行、实用，反对空谈理学。",
+  "influenceWeight": 3,
+  "reviewStatus": "draft",
+  "summaryZh": "颜元，字易直，号习斋，直隶博野人，清初实学思想家。为避免与孔门颜回混淆，本批 id 用 yan-yuan-qing。《存学编》《存性编》等批评宋明理学空疏，主张通过礼乐兵农、身体实践和实际技能恢复儒学。颜元开创习斋学派，对李塨和清代实学教育有直接影响。",
+  "works": [
+    "yan-yuan-qing-cunxue-bian",
+    "yan-yuan-qing-cunxing-bian"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S011",
+      "url": "https://ctext.org/wiki.pl?if=en&searchu=%E9%A1%8F%E5%85%83",
+      "noteZh": "以颜元《存学编》《存性编》和习斋学案材料支撑身份层。"
+    }
+  ]
+}

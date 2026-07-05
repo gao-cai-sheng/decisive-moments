@@ -1,0 +1,46 @@
+{
+  "id": "zhongchang-tong",
+  "tier": "seed",
+  "names": {
+    "zh": "仲长统",
+    "en": "Zhongchang Tong",
+    "native": "仲長統"
+  },
+  "life": {
+    "birth": 180,
+    "death": 220,
+    "display": "180—220"
+  },
+  "civilization": "chinese",
+  "traditions": [
+    "confucianism",
+    "jianan_thought"
+  ],
+  "periods": [
+    "eastern_han",
+    "three_kingdoms"
+  ],
+  "themes": [
+    "politics",
+    "freedom"
+  ],
+  "keywordsZh": [
+    "昌言",
+    "汉末政论",
+    "士人独立"
+  ],
+  "oneLineZh": "汉末政论家，以《昌言》表达制度批判和士人自立意识。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "仲长统，字公理，山阳高平人，东汉末政论家。《后汉书》保存其传记，《昌言》多已散佚但仍能见其批评权贵、主张制度改革和反思士人出处的锋芒。仲长统的思想带有汉末秩序崩坏后的激烈现实感，一方面延续儒家治国问题，一方面显露魏晋个人自适与政治疏离的先声。",
+  "works": [
+    "zhongchang-tong-changyan-fragments"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S004",
+      "url": "https://ctext.org/hou-han-shu/zhong-chang-tong-lie-zhuan",
+      "noteZh": "以《后汉书》仲长统传和《昌言》辑佚支撑身份层。"
+    }
+  ]
+}

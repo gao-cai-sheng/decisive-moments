@@ -1,51 +1,287 @@
 {
   "id": "empedocles",
-  "names": {"zh": "恩培多克勒", "en": "Empedocles"},
-  "life": {"birth": -494, "death": -434, "display": "约前 494—前 434"},
+  "names": {
+    "zh": "恩培多克勒",
+    "en": "Empedocles"
+  },
+  "life": {
+    "birth": -494,
+    "death": -434,
+    "display": "约前 494—前 434"
+  },
   "civilization": "ancient_greek",
-  "traditions": ["presocratic_philosophy", "ancient_greek_philosophy"],
-  "periods": ["first_release"],
-  "themes": ["metaphysics", "life_death", "religion"],
-  "keywordsZh": ["形而上学", "生死", "宗教"],
+  "traditions": [
+    "presocratic_philosophy",
+    "ancient_greek_philosophy"
+  ],
+  "periods": [
+    "first_release"
+  ],
+  "themes": [
+    "metaphysics",
+    "life_death",
+    "religion"
+  ],
+  "keywordsZh": [
+    "形而上学",
+    "生死",
+    "宗教"
+  ],
   "oneLineZh": "以四根、爱与争斗、宇宙循环和灵魂净化综合自然哲学与宗教伦理。",
   "influenceWeight": 1,
   "reviewStatus": "draft",
   "summaryZh": "以四根、爱与争斗、宇宙循环和灵魂净化综合自然哲学与宗教伦理。本条目以 summary_only 方式整理，重点保留低争议的问题结构、主张和可追溯证据定位。",
-  "works": ["empedocles-primary-work"],
-  "sourceNotes": [
-    {"label": "primary-dossier", "noteZh": "本轮采用《论自然》《净化》残篇、亚里士多德、辛普里丘、普鲁塔克及现代前苏格拉底研究交叉定位；不填逐字摘录。"},
-    {"label": "excerpt-status", "noteZh": "全部 evidence 使用 summary_only，locator 保留到残篇编号或古代见证层级。"}
+  "works": [
+    "empedocles-primary-work"
   ],
-  "thoughtSystem": {"problems": [
-    {"id": "empedocles:problem:001", "titleZh": "变化如何在不生不灭中发生？", "questionZh": "恩培多克勒如何用四根与混合分离解释生成变化，同时回应巴门尼德关于无中生有的不可能性？", "summaryZh": "恩培多克勒把火、气、水、土四根视为不生不灭的基本成分，变化只是混合与分离，从而调和感性变化与存在稳定。", "themeIds": ["metaphysics", "knowledge"], "weight": 3, "claims": [
-      {"id": "empedocles:claim:001", "titleZh": "四根是不生不灭的基本成分", "claimZh": "恩培多克勒用火、气、水、土四根解释万物，否认真正的生成和毁灭，只承认成分重组。", "explanationZh": "这是一种对巴门尼德挑战的回应：承认存在不能从无中产生，同时保留经验世界的变化。", "themeIds": ["metaphysics"], "weight": 3, "evidence": [
-        {"id": "empedocles:evidence:001", "titleZh": "四根残篇", "summaryZh": "残篇把四根命名为万物成分，并说明所谓生灭其实是混合和分离，从而把变化解释为组合关系变化。", "source": {"workId": "empedocles-primary-work", "locator": "Empedocles DK 31 B6, B8, B17 on four roots and mixture/separation", "excerptStatus": "summary_only"}},
-        {"id": "empedocles:evidence:002", "titleZh": "亚里士多德对四元素传统的定位", "summaryZh": "亚里士多德把恩培多克勒列为四元素理论的重要来源，并分析其物质原则在早期自然哲学中的位置。", "source": {"workId": "empedocles-primary-work", "locator": "Aristotle, Metaphysics A.4 and Physics I on Empedocles' four elements", "excerptStatus": "summary_only"}}
-      ]},
-      {"id": "empedocles:claim:002", "titleZh": "爱与争斗是混合分离的动力", "claimZh": "恩培多克勒以爱和争斗解释四根为何结合、分离，并形成不同宇宙阶段。", "explanationZh": "这让自然变化有动力结构：不是单一物质自动变化，而是成分和力量共同构成世界。", "themeIds": ["metaphysics"], "weight": 2, "evidence": [
-        {"id": "empedocles:evidence:003", "titleZh": "爱与争斗残篇", "summaryZh": "残篇描述爱把万物聚合为一，争斗使之分离，并在宇宙循环中交替主导，构成变化的双重动力。", "source": {"workId": "empedocles-primary-work", "locator": "Empedocles DK 31 B17, B20, B26 on Love and Strife as cosmic forces", "excerptStatus": "summary_only"}},
-        {"id": "empedocles:evidence:004", "titleZh": "辛普里丘保存宇宙循环解释", "summaryZh": "辛普里丘等注释家保存恩培多克勒宇宙阶段和两种力量作用的资料，帮助重构爱与争斗的周期模型。", "source": {"workId": "empedocles-primary-work", "locator": "Simplicius, Commentary on Physics, testimonia on Empedocles' cycle of Love and Strife", "excerptStatus": "summary_only"}}
-      ]}
-    ]},
-    {"id": "empedocles:problem:002", "titleZh": "生命体如何自然生成？", "questionZh": "恩培多克勒如何用组合、适合性和感知理论解释生物形成与认识？", "summaryZh": "恩培多克勒把生物和感知纳入自然过程：肢体、器官和生命形式通过组合与适合性形成，感知则与相似者相知相关。", "themeIds": ["life_death", "knowledge"], "weight": 3, "claims": [
-      {"id": "empedocles:claim:003", "titleZh": "生物形成可由组合和适合性解释", "claimZh": "恩培多克勒残篇呈现肢体先组合、适合者存续的自然化生命生成图景。", "explanationZh": "这不是现代自然选择理论，但它以组合失败和适合性保存来解释生命形式。", "themeIds": ["life_death", "knowledge"], "weight": 3, "evidence": [
-        {"id": "empedocles:evidence:005", "titleZh": "肢体组合残篇", "summaryZh": "残篇描写孤立肢体、混合生物和适合组合的形成，显示早期生物生成想象以及适合性保存思路。", "source": {"workId": "empedocles-primary-work", "locator": "Empedocles DK 31 B57-B61 on wandering limbs and formation of living beings", "excerptStatus": "summary_only"}},
-        {"id": "empedocles:evidence:006", "titleZh": "亚里士多德对适合性解释的讨论", "summaryZh": "亚里士多德讨论恩培多克勒用偶然组合和适合保存解释器官形成的观点，显示其理论被纳入目的论争论。", "source": {"workId": "empedocles-primary-work", "locator": "Aristotle, Physics II.8 on Empedocles and parts arising as if by chance but surviving when suitable", "excerptStatus": "summary_only"}}
-      ]},
-      {"id": "empedocles:claim:004", "titleZh": "相似者相知连接感知与物质结构", "claimZh": "恩培多克勒用相似者相知解释感知：体内成分与外界成分的对应使认识成为可能。", "explanationZh": "认识论在这里依附于自然哲学，感知不是纯心理事件，而是元素结构的相互作用。", "themeIds": ["knowledge", "metaphysics"], "weight": 2, "evidence": [
-        {"id": "empedocles:evidence:007", "titleZh": "感知与相似者残篇", "summaryZh": "残篇和见证把视觉、呼吸和感知同孔道、流出物和相似成分联系起来，形成较系统的生理认识论。", "source": {"workId": "empedocles-primary-work", "locator": "Empedocles DK 31 B84, B109 and Theophrastus/Aristotle testimonia on perception by like", "excerptStatus": "summary_only"}},
-        {"id": "empedocles:evidence:008", "titleZh": "现代研究对感知理论的重构", "summaryZh": "现代研究把恩培多克勒感知理论视为前苏格拉底生理学、物理学和认识论的交叉点，强调其跨领域意义。", "source": {"workId": "empedocles-primary-work", "locator": "Modern scholarship on Empedocles' theory of perception, effluences and pores", "excerptStatus": "summary_only"}}
-      ]}
-    ]},
-    {"id": "empedocles:problem:003", "titleZh": "灵魂净化为何与自然哲学并存？", "questionZh": "恩培多克勒的灵魂轮回、禁杀和净化诗如何与四根宇宙论共处？", "summaryZh": "恩培多克勒同时是自然哲学家和宗教诗人。他把灵魂流亡、罪责、轮回和净化同宇宙秩序联系起来。", "themeIds": ["religion", "ethics"], "weight": 2, "claims": [
-      {"id": "empedocles:claim:005", "titleZh": "灵魂流亡和轮回构成伦理背景", "claimZh": "《净化》传统把人描写为因罪责而在生命形态中流亡的 daimōn，需要通过净化返回神圣状态。", "explanationZh": "这为禁杀、素食和净化实践提供宗教伦理理由。", "themeIds": ["religion", "ethics"], "weight": 3, "evidence": [
-        {"id": "empedocles:evidence:009", "titleZh": "流亡 daimōn 残篇", "summaryZh": "残篇描写因流血罪责而从神圣者中放逐、在多种生命中漂泊的灵魂，呈现其净化论和轮回主题。", "source": {"workId": "empedocles-primary-work", "locator": "Empedocles DK 31 B115, B117 on exile, daimones and transmigration", "excerptStatus": "summary_only"}},
-        {"id": "empedocles:evidence:010", "titleZh": "禁杀与亲缘生命残篇", "summaryZh": "残篇以亲属灵魂和轮回观念批判杀生，呈现宗教伦理维度，并把生命亲缘性转化为行为约束。", "source": {"workId": "empedocles-primary-work", "locator": "Empedocles DK 31 B136-B139 on bloodshed, kinship with animals and purification", "excerptStatus": "summary_only"}}
-      ]},
-      {"id": "empedocles:claim:006", "titleZh": "自然哲学和净化诗可能是同一思想世界的两面", "claimZh": "恩培多克勒的物理宇宙论与净化宗教并非必然割裂，而可能共同围绕混合、分离、罪责和回归展开。", "explanationZh": "关于《论自然》和《净化》的关系仍有争论，本轮采用中等置信的综合解释。", "themeIds": ["metaphysics", "religion"], "weight": 2, "evidence": [
-        {"id": "empedocles:evidence:011", "titleZh": "残篇传统中的双重面向", "summaryZh": "传世材料既保存四根和宇宙循环，也保存净化、轮回和神圣化主题，显示其思想兼具自然哲学与宗教伦理。", "source": {"workId": "empedocles-primary-work", "locator": "Combined Empedocles fragments from On Nature and Purifications in DK 31", "excerptStatus": "summary_only"}},
-        {"id": "empedocles:evidence:012", "titleZh": "现代研究关于两诗关系的争论", "summaryZh": "现代研究对两部诗的统一性或分离性有争论，但普遍承认恩培多克勒思想兼具自然哲学和宗教伦理。", "source": {"workId": "empedocles-primary-work", "locator": "Modern scholarship on the relation between Empedocles' Physics and Purifications", "excerptStatus": "summary_only"}}
-      ]}
-    ]}
-  ]}
+  "sourceNotes": [
+    {
+      "label": "primary-dossier",
+      "noteZh": "本轮采用《论自然》《净化》残篇、亚里士多德、辛普里丘、普鲁塔克及现代前苏格拉底研究交叉定位；不填逐字摘录。"
+    },
+    {
+      "label": "excerpt-status",
+      "noteZh": "全部 evidence 使用 summary_only，locator 保留到残篇编号或古代见证层级。"
+    }
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "empedocles:problem:001",
+        "titleZh": "变化如何在不生不灭中发生？",
+        "questionZh": "恩培多克勒如何用四根与混合分离解释生成变化，同时回应巴门尼德关于无中生有的不可能性？",
+        "summaryZh": "恩培多克勒把火、气、水、土四根视为不生不灭的基本成分，变化只是混合与分离，从而调和感性变化与存在稳定。",
+        "themeIds": [
+          "metaphysics",
+          "knowledge"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "empedocles:claim:001",
+            "titleZh": "四根是不生不灭的基本成分",
+            "claimZh": "恩培多克勒用火、气、水、土四根解释万物，否认真正的生成和毁灭，只承认成分重组。",
+            "explanationZh": "这是一种对巴门尼德挑战的回应：承认存在不能从无中产生，同时保留经验世界的变化。",
+            "themeIds": [
+              "metaphysics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "empedocles:evidence:001",
+                "titleZh": "四根残篇",
+                "summaryZh": "残篇把四根命名为万物成分，并说明所谓生灭其实是混合和分离，从而把变化解释为组合关系变化。",
+                "source": {
+                  "workId": "empedocles-primary-work",
+                  "locator": "Empedocles DK 31 B6, B8, B17 on four roots and mixture/separation",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "empedocles:evidence:002",
+                "titleZh": "亚里士多德对四元素传统的定位",
+                "summaryZh": "亚里士多德把恩培多克勒列为四元素理论的重要来源，并分析其物质原则在早期自然哲学中的位置。",
+                "source": {
+                  "workId": "empedocles-primary-work",
+                  "locator": "Aristotle, Metaphysics A.4 and Physics I on Empedocles' four elements",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "empedocles:claim:002",
+            "titleZh": "爱与争斗是混合分离的动力",
+            "claimZh": "恩培多克勒以爱和争斗解释四根为何结合、分离，并形成不同宇宙阶段。",
+            "explanationZh": "这让自然变化有动力结构：不是单一物质自动变化，而是成分和力量共同构成世界。",
+            "themeIds": [
+              "metaphysics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "empedocles:evidence:003",
+                "titleZh": "爱与争斗残篇",
+                "summaryZh": "残篇描述爱把万物聚合为一，争斗使之分离，并在宇宙循环中交替主导，构成变化的双重动力。",
+                "source": {
+                  "workId": "empedocles-primary-work",
+                  "locator": "Empedocles DK 31 B17, B20, B26 on Love and Strife as cosmic forces",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "empedocles:evidence:004",
+                "titleZh": "辛普里丘保存宇宙循环解释",
+                "summaryZh": "辛普里丘等注释家保存恩培多克勒宇宙阶段和两种力量作用的资料，帮助重构爱与争斗的周期模型。",
+                "source": {
+                  "workId": "empedocles-primary-work",
+                  "locator": "Simplicius, Commentary on Physics, testimonia on Empedocles' cycle of Love and Strife",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "empedocles:problem:002",
+        "titleZh": "生命体如何自然生成？",
+        "questionZh": "恩培多克勒如何用组合、适合性和感知理论解释生物形成与认识？",
+        "summaryZh": "恩培多克勒把生物和感知纳入自然过程：肢体、器官和生命形式通过组合与适合性形成，感知则与相似者相知相关。",
+        "themeIds": [
+          "life_death",
+          "knowledge"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "empedocles:claim:003",
+            "titleZh": "生物形成可由组合和适合性解释",
+            "claimZh": "恩培多克勒残篇呈现肢体先组合、适合者存续的自然化生命生成图景。",
+            "explanationZh": "这不是现代自然选择理论，但它以组合失败和适合性保存来解释生命形式。",
+            "themeIds": [
+              "life_death",
+              "knowledge"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "empedocles:evidence:005",
+                "titleZh": "肢体组合残篇",
+                "summaryZh": "残篇描写孤立肢体、混合生物和适合组合的形成，显示早期生物生成想象以及适合性保存思路。",
+                "source": {
+                  "workId": "empedocles-primary-work",
+                  "locator": "Empedocles DK 31 B57-B61 on wandering limbs and formation of living beings",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "empedocles:evidence:006",
+                "titleZh": "亚里士多德对适合性解释的讨论",
+                "summaryZh": "亚里士多德讨论恩培多克勒用偶然组合和适合保存解释器官形成的观点，显示其理论被纳入目的论争论。",
+                "source": {
+                  "workId": "empedocles-primary-work",
+                  "locator": "Aristotle, Physics II.8 on Empedocles and parts arising as if by chance but surviving when suitable",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "empedocles:claim:004",
+            "titleZh": "相似者相知连接感知与物质结构",
+            "claimZh": "恩培多克勒用相似者相知解释感知：体内成分与外界成分的对应使认识成为可能。",
+            "explanationZh": "认识论在这里依附于自然哲学，感知不是纯心理事件，而是元素结构的相互作用。",
+            "themeIds": [
+              "knowledge",
+              "metaphysics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "empedocles:evidence:007",
+                "titleZh": "感知与相似者残篇",
+                "summaryZh": "残篇和见证把视觉、呼吸和感知同孔道、流出物和相似成分联系起来，形成较系统的生理认识论。",
+                "source": {
+                  "workId": "empedocles-primary-work",
+                  "locator": "Empedocles DK 31 B84, B109 and Theophrastus/Aristotle testimonia on perception by like",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "empedocles:evidence:008",
+                "titleZh": "现代研究对感知理论的重构",
+                "summaryZh": "现代研究把恩培多克勒感知理论视为前苏格拉底生理学、物理学和认识论的交叉点，强调其跨领域意义。",
+                "source": {
+                  "workId": "empedocles-primary-work",
+                  "locator": "Modern scholarship on Empedocles' theory of perception, effluences and pores",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "empedocles:problem:003",
+        "titleZh": "灵魂净化为何与自然哲学并存？",
+        "questionZh": "恩培多克勒的灵魂轮回、禁杀和净化诗如何与四根宇宙论共处？",
+        "summaryZh": "恩培多克勒同时是自然哲学家和宗教诗人。他把灵魂流亡、罪责、轮回和净化同宇宙秩序联系起来。",
+        "themeIds": [
+          "religion",
+          "ethics"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "empedocles:claim:005",
+            "titleZh": "灵魂流亡和轮回构成伦理背景",
+            "claimZh": "《净化》传统把人描写为因罪责而在生命形态中流亡的 daimōn，需要通过净化返回神圣状态。",
+            "explanationZh": "这为禁杀、素食和净化实践提供宗教伦理理由。",
+            "themeIds": [
+              "religion",
+              "ethics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "empedocles:evidence:009",
+                "titleZh": "流亡 daimōn 残篇",
+                "summaryZh": "残篇描写因流血罪责而从神圣者中放逐、在多种生命中漂泊的灵魂，呈现其净化论和轮回主题。",
+                "source": {
+                  "workId": "empedocles-primary-work",
+                  "locator": "Empedocles DK 31 B115, B117 on exile, daimones and transmigration",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "empedocles:evidence:010",
+                "titleZh": "禁杀与亲缘生命残篇",
+                "summaryZh": "残篇以亲属灵魂和轮回观念批判杀生，呈现宗教伦理维度，并把生命亲缘性转化为行为约束。",
+                "source": {
+                  "workId": "empedocles-primary-work",
+                  "locator": "Empedocles DK 31 B136-B139 on bloodshed, kinship with animals and purification",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "empedocles:claim:006",
+            "titleZh": "自然哲学和净化诗可能是同一思想世界的两面",
+            "claimZh": "恩培多克勒的物理宇宙论与净化宗教并非必然割裂，而可能共同围绕混合、分离、罪责和回归展开。",
+            "explanationZh": "关于《论自然》和《净化》的关系仍有争论，本轮采用中等置信的综合解释。",
+            "themeIds": [
+              "metaphysics",
+              "religion"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "empedocles:evidence:011",
+                "titleZh": "残篇传统中的双重面向",
+                "summaryZh": "传世材料既保存四根和宇宙循环，也保存净化、轮回和神圣化主题，显示其思想兼具自然哲学与宗教伦理。",
+                "source": {
+                  "workId": "empedocles-primary-work",
+                  "locator": "Combined Empedocles fragments from On Nature and Purifications in DK 31",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "empedocles:evidence:012",
+                "titleZh": "现代研究关于两诗关系的争论",
+                "summaryZh": "现代研究对两部诗的统一性或分离性有争论，但普遍承认恩培多克勒思想兼具自然哲学和宗教伦理。",
+                "source": {
+                  "workId": "empedocles-primary-work",
+                  "locator": "Modern scholarship on the relation between Empedocles' Physics and Purifications",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "tier": "standard"
 }

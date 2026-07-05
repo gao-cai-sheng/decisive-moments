@@ -1,0 +1,46 @@
+{
+  "id": "zheng-xuan",
+  "tier": "seed",
+  "names": {
+    "zh": "郑玄",
+    "en": "Zheng Xuan",
+    "native": "鄭玄"
+  },
+  "life": {
+    "birth": 127,
+    "death": 200,
+    "display": "127—200"
+  },
+  "civilization": "chinese",
+  "traditions": [
+    "confucianism",
+    "han_confucianism"
+  ],
+  "periods": [
+    "eastern_han"
+  ],
+  "themes": [
+    "knowledge",
+    "language"
+  ],
+  "keywordsZh": [
+    "经学",
+    "郑笺",
+    "汉末注疏"
+  ],
+  "oneLineZh": "东汉经学大师，以综合今古文经学和经注体系著称。",
+  "influenceWeight": 3,
+  "reviewStatus": "draft",
+  "summaryZh": "郑玄，字康成，北海高密人，东汉末经学大师。他广学今古文经学，为《毛诗》《周礼》《仪礼》《礼记》等作注笺，形成系统而影响深远的郑学。郑玄的贡献不在提出单一哲学命题，而在通过训诂、制度解释和经典综合重塑儒家知识秩序，深刻影响魏晋南北朝至唐代经学。",
+  "works": [
+    "zheng-xuan-maoshi-jian",
+    "zheng-xuan-zhouli-zhu"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S030",
+      "url": "https://ctext.org/hou-han-shu/zheng-xuan-lie-zhuan",
+      "noteZh": "以《后汉书》与经注传统支撑郑玄身份、作品和经学地位。"
+    }
+  ]
+}

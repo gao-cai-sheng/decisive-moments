@@ -1,0 +1,45 @@
+{
+  "id": "sima-tan",
+  "tier": "seed",
+  "names": {
+    "zh": "司马谈",
+    "en": "Sima Tan",
+    "native": "司馬談"
+  },
+  "life": {
+    "birth": -165,
+    "death": -110,
+    "display": "约前165—前110"
+  },
+  "civilization": "chinese",
+  "traditions": [
+    "han_confucianism",
+    "historiography"
+  ],
+  "periods": [
+    "western_han"
+  ],
+  "themes": [
+    "knowledge",
+    "politics"
+  ],
+  "keywordsZh": [
+    "论六家要旨",
+    "太史令",
+    "史记前史"
+  ],
+  "oneLineZh": "西汉太史令，以六家分类奠定《史记》思想框架。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "司马谈，西汉太史令，司马迁之父，是《史记》形成前的重要知识组织者。《史记·太史公自序》保存《论六家要旨》，将阴阳、儒、墨、名、法、道德六家加以评述，尤其推重道家兼采众长。司马谈的意义在于把诸子分类、史官职责和汉代知识秩序连接起来，为司马迁的通史写作提供框架。",
+  "works": [
+    "sima-tan-lun-liu-jia-yao-zhi"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S027",
+      "url": "https://ctext.org/shiji/tai-shi-gong-zi-xu",
+      "noteZh": "以《史记·太史公自序》支撑司马谈身份、作品和六家分类。"
+    }
+  ]
+}

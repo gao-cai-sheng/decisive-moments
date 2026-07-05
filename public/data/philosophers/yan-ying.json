@@ -1,0 +1,44 @@
+{
+  "id": "yan-ying",
+  "tier": "seed",
+  "names": {
+    "zh": "晏婴",
+    "en": "Yan Ying",
+    "native": "晏嬰"
+  },
+  "life": {
+    "birth": -578,
+    "death": -500,
+    "display": "约前578—前500"
+  },
+  "civilization": "chinese",
+  "traditions": [
+    "confucian_political_thought"
+  ],
+  "periods": [
+    "spring_autumn"
+  ],
+  "themes": [
+    "ethics",
+    "politics"
+  ],
+  "keywordsZh": [
+    "齐国",
+    "谏诤",
+    "晏子春秋"
+  ],
+  "oneLineZh": "春秋齐国政治家，以节俭、机智和谏诤形象著称。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "晏婴，字平仲，春秋齐国大夫，历仕齐灵公、庄公、景公，后世以晏子称之。《史记·管晏列传》称其节俭、善谏，《晏子春秋》则保存大量外交、讽谏和政治故事。其形象介于历史政治家与道德寓言主角之间，体现春秋晚期士大夫对君臣关系、礼制节用和政治机智的想象。",
+  "works": [
+    "yan-ying-yanzi-chunqiu"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S016",
+      "url": "https://ctext.org/yanzi-chunqiu",
+      "noteZh": "以《晏子春秋》和《史记》支撑晏婴身份、齐国政治活动和谏诤形象。"
+    }
+  ]
+}

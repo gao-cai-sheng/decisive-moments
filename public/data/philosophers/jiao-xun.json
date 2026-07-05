@@ -1,0 +1,46 @@
+{
+  "id": "jiao-xun",
+  "tier": "seed",
+  "names": {
+    "zh": "焦循",
+    "en": "Jiao Xun",
+    "native": "焦循"
+  },
+  "life": {
+    "birth": 1763,
+    "death": 1820,
+    "display": "1763—1820"
+  },
+  "civilization": "chinese",
+  "traditions": [
+    "confucianism",
+    "qing_kaozheng"
+  ],
+  "periods": [
+    "qing"
+  ],
+  "themes": [
+    "knowledge",
+    "metaphysics"
+  ],
+  "keywordsZh": [
+    "孟子正义",
+    "易通释",
+    "扬州学派"
+  ],
+  "oneLineZh": "清代经学家和数学家，以孟子学、易学和逻辑分析著称。",
+  "influenceWeight": 3,
+  "reviewStatus": "draft",
+  "summaryZh": "焦循，字理堂，扬州人，清代经学家、数学家和戏曲理论家。《孟子正义》以考据方式重释孟子，《易通释》则结合易学、数理和义理分析。焦循在乾嘉学术中兼具训诂、数学和哲学兴趣，尤其重视经文内部关系和推理结构，是清代扬州学派的重要人物。",
+  "works": [
+    "jiao-xun-mengzi-zhengyi",
+    "jiao-xun-yi-tongshi"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S018",
+      "url": "https://ctext.org/wiki.pl?if=en&searchu=%E7%84%A6%E5%BE%AA",
+      "noteZh": "以焦循《孟子正义》《易通释》支撑身份层。"
+    }
+  ]
+}

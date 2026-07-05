@@ -1,0 +1,45 @@
+{
+  "id": "tao-hongjing",
+  "tier": "seed",
+  "names": {
+    "zh": "陶弘景",
+    "en": "Tao Hongjing",
+    "native": "陶弘景"
+  },
+  "life": {
+    "birth": 456,
+    "death": 536,
+    "display": "456—536"
+  },
+  "civilization": "chinese",
+  "traditions": [
+    "daoism"
+  ],
+  "periods": [
+    "northern_southern_dynasties"
+  ],
+  "themes": [
+    "religion",
+    "knowledge"
+  ],
+  "keywordsZh": [
+    "上清派",
+    "真诰",
+    "本草经集注"
+  ],
+  "oneLineZh": "南朝道教上清派宗师，兼具医药、山林和经典整理身份。",
+  "influenceWeight": 3,
+  "reviewStatus": "draft",
+  "summaryZh": "陶弘景，字通明，号华阳隐居，南朝齐梁时期道教宗师、医学家和文献整理者。他整理上清经传，编纂《真诰》，又有《本草经集注》等医药著作。陶弘景把山林隐居、道教启示传统、炼养实践与知识分类结合起来，是南朝道教制度化和文本化的核心人物。",
+  "works": [
+    "tao-hongjing-zhengao",
+    "tao-hongjing-bencao-jing-jizhu"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S014",
+      "url": "https://ctext.org/wiki.pl?if=en&res=777092",
+      "noteZh": "以陶弘景《真诰》《本草经集注》题名传统支撑身份层。"
+    }
+  ]
+}

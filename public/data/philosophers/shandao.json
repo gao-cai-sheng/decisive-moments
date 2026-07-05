@@ -1,0 +1,46 @@
+{
+  "id": "shandao",
+  "tier": "seed",
+  "names": {
+    "zh": "善导",
+    "en": "Shandao",
+    "native": "善導"
+  },
+  "life": {
+    "birth": 613,
+    "death": 681,
+    "display": "613—681"
+  },
+  "civilization": "chinese",
+  "traditions": [
+    "buddhism",
+    "pure_land"
+  ],
+  "periods": [
+    "tang"
+  ],
+  "themes": [
+    "religion",
+    "life_death"
+  ],
+  "keywordsZh": [
+    "净土宗",
+    "观经疏",
+    "称名念佛"
+  ],
+  "oneLineZh": "唐代净土宗大师，以《观经疏》系统阐发凡夫往生与称名念佛。",
+  "influenceWeight": 3,
+  "reviewStatus": "draft",
+  "summaryZh": "善导，唐代净土宗高僧，活动于长安，是东亚净土传统中最重要的解释者之一。《观无量寿佛经疏》重释观经九品往生和阿弥陀佛本愿，强调凡夫凭称名念佛和他力摄受亦可往生。其礼赞、法事和念佛实践影响中国、日本净土教，后世常以其为净土宗实际奠基者。",
+  "works": [
+    "shandao-guanjing-shu",
+    "shandao-fashi-zan"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S001",
+      "url": "https://cbetaonline.dila.edu.tw/zh/T1753",
+      "noteZh": "以善导《观无量寿佛经疏》和净土礼赞文献支撑身份层。"
+    }
+  ]
+}

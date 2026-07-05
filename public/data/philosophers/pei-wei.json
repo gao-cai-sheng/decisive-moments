@@ -1,0 +1,45 @@
+{
+  "id": "pei-wei",
+  "tier": "seed",
+  "names": {
+    "zh": "裴頠",
+    "en": "Pei Wei",
+    "native": "裴頠"
+  },
+  "life": {
+    "birth": 267,
+    "death": 300,
+    "display": "267—300"
+  },
+  "civilization": "chinese",
+  "traditions": [
+    "xuanxue",
+    "confucianism"
+  ],
+  "periods": [
+    "western_jin"
+  ],
+  "themes": [
+    "metaphysics",
+    "politics"
+  ],
+  "keywordsZh": [
+    "崇有论",
+    "反贵无",
+    "西晋玄学"
+  ],
+  "oneLineZh": "西晋思想家，以《崇有论》反思贵无玄学。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "裴頠，字逸民，河东闻喜人，西晋政治人物和思想家。其《崇有论》针对贵无玄学可能导致的空疏倾向，强调名教、制度和具体存在的价值。裴頠处在魏晋玄学内部反省阶段，试图以“有”的秩序性纠正过度尚无的清谈风气，因此是理解玄学与政治责任关系的重要人物。",
+  "works": [
+    "pei-wei-chongyou-lun"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S011",
+      "url": "https://ctext.org/jin-shu/pei-wei-lie-zhuan",
+      "noteZh": "以《晋书》裴頠传和《崇有论》题名传统支撑身份层。"
+    }
+  ]
+}

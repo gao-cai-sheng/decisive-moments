@@ -1,0 +1,43 @@
+{
+  "id": "leo-strauss",
+  "tier": "seed",
+  "names": {
+    "zh": "列奥·施特劳斯",
+    "en": "Leo Strauss"
+  },
+  "life": {
+    "birth": 1899,
+    "death": 1973,
+    "display": "1899—1973"
+  },
+  "civilization": "western",
+  "traditions": [
+    "political_philosophy"
+  ],
+  "periods": [
+    "modern"
+  ],
+  "themes": [
+    "politics",
+    "knowledge"
+  ],
+  "keywordsZh": [
+    "身份层",
+    "二线哲人",
+    "思想史补线"
+  ],
+  "oneLineZh": "古典政治哲学复兴与隐微写作解释代表，可补施米特、阿伦特同代政治思想语境。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "列奥·施特劳斯（1899—1973）是 W2 欧陆与英美近现代二线哲人候选。其身份层入选理由为：古典政治哲学复兴与隐微写作解释代表，可补施米特、阿伦特同代政治思想语境。 本条仅作 seed 档基本定位，后续若升级标准档，需要重新做著作、论点与 evidence 研究。",
+  "works": [
+    "leo-strauss-natural-right-and-history",
+    "leo-strauss-persecution-and-art-of-writing"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S008",
+      "noteZh": "权威来源条目：SEP: Leo Strauss；用于核验人物身份、生卒、代表著作和思想史定位。"
+    }
+  ]
+}

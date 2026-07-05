@@ -1,0 +1,45 @@
+{
+  "id": "chen-liang",
+  "tier": "seed",
+  "names": {
+    "zh": "陈亮",
+    "en": "Chen Liang",
+    "native": "陳亮"
+  },
+  "life": {
+    "birth": 1143,
+    "death": 1194,
+    "display": "1143—1194"
+  },
+  "civilization": "chinese",
+  "traditions": [
+    "neo_confucianism",
+    "yongkang_learning"
+  ],
+  "periods": [
+    "southern_song"
+  ],
+  "themes": [
+    "politics",
+    "ethics"
+  ],
+  "keywordsZh": [
+    "永康学派",
+    "事功",
+    "龙川文集"
+  ],
+  "oneLineZh": "南宋永康学派代表，以事功论和朱熹王霸义利之辨著称。",
+  "influenceWeight": 3,
+  "reviewStatus": "draft",
+  "summaryZh": "陈亮，字同甫，号龙川，南宋思想家、政论家，是永康事功学派代表。他强调恢复中原、制度功用和现实政治成效，与朱熹围绕王霸、义利和道德理想展开著名论辩。《龙川文集》保存其奏议、书信和政论。陈亮使南宋思想史呈现理学义理之外的经世功利维度。",
+  "works": [
+    "chen-liang-longchuan-wenji"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S015",
+      "url": "https://ctext.org/wiki.pl?if=en&res=821630",
+      "noteZh": "以陈亮《龙川文集》和朱陈论辩材料支撑身份层。"
+    }
+  ]
+}

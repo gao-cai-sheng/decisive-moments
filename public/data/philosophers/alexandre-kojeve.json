@@ -1,0 +1,42 @@
+{
+  "id": "alexandre-kojeve",
+  "tier": "seed",
+  "names": {
+    "zh": "亚历山大·科耶夫",
+    "en": "Alexandre Kojève"
+  },
+  "life": {
+    "birth": 1902,
+    "death": 1968,
+    "display": "1902—1968"
+  },
+  "civilization": "western",
+  "traditions": [
+    "phenomenology"
+  ],
+  "periods": [
+    "contemporary"
+  ],
+  "themes": [
+    "metaphysics",
+    "life_death"
+  ],
+  "keywordsZh": [
+    "身份层",
+    "二线哲人",
+    "思想史补线"
+  ],
+  "oneLineZh": "黑格尔《精神现象学》法国解释的关键人物，可补法国存在主义与后结构主义前史。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "亚历山大·科耶夫（1902—1968）是 W2 欧陆与英美近现代二线哲人候选。其身份层入选理由为：黑格尔《精神现象学》法国解释的关键人物，可补法国存在主义与后结构主义前史。 本条仅作 seed 档基本定位，后续若升级标准档，需要重新做著作、论点与 evidence 研究。",
+  "works": [
+    "alexandre-kojeve-introduction-reading-hegel"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S014",
+      "noteZh": "权威来源条目：Routledge Encyclopedia of Philosophy: Kojève, Alexandre；用于核验人物身份、生卒、代表著作和思想史定位。"
+    }
+  ]
+}

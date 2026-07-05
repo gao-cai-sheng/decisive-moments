@@ -1,0 +1,43 @@
+{
+  "id": "hans-jonas",
+  "tier": "seed",
+  "names": {
+    "zh": "汉斯·约纳斯",
+    "en": "Hans Jonas"
+  },
+  "life": {
+    "birth": 1903,
+    "death": 1993,
+    "display": "1903—1993"
+  },
+  "civilization": "western",
+  "traditions": [
+    "western_philosophy"
+  ],
+  "periods": [
+    "contemporary"
+  ],
+  "themes": [
+    "ethics",
+    "knowledge"
+  ],
+  "keywordsZh": [
+    "责任伦理",
+    "身份层",
+    "二线哲人"
+  ],
+  "oneLineZh": "责任伦理与技术文明批判代表，可补海德格尔弟子线及环境伦理前史。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "汉斯·约纳斯（1903—1993）是 W2 欧陆与英美近现代二线哲人候选。其身份层入选理由为：责任伦理与技术文明批判代表，可补海德格尔弟子线及环境伦理前史。 本条仅作 seed 档基本定位，后续若升级标准档，需要重新做著作、论点与 evidence 研究。",
+  "works": [
+    "hans-jonas-imperative-of-responsibility",
+    "hans-jonas-phenomenon-of-life"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S010",
+      "noteZh": "权威来源条目：SEP: Hans Jonas；用于核验人物身份、生卒、代表著作和思想史定位。"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": "mao-qiling",
+  "tier": "seed",
+  "names": {
+    "zh": "毛奇龄",
+    "en": "Mao Qiling",
+    "native": "毛奇齡"
+  },
+  "life": {
+    "birth": 1623,
+    "death": 1716,
+    "display": "1623—1716"
+  },
+  "civilization": "chinese",
+  "traditions": [
+    "confucianism",
+    "qing_kaozheng"
+  ],
+  "periods": [
+    "qing"
+  ],
+  "themes": [
+    "knowledge",
+    "language"
+  ],
+  "keywordsZh": [
+    "经问",
+    "四书改错",
+    "反朱子"
+  ],
+  "oneLineZh": "清初经学家，以博辨考据和反朱子《四书》解释著称。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "毛奇龄，字大可，号西河，清初经学家、文学家。他学问广博，长于经史训诂和制度考证，常批评朱子《四书》解释。《经问》《四书改错》等体现其挑战宋学权威、重审经典文义的倾向。毛奇龄是清初考据风气兴起中极具争议但影响显著的人物。",
+  "works": [
+    "mao-qiling-jingwen",
+    "mao-qiling-sishu-gaicuo"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S014",
+      "url": "https://ctext.org/wiki.pl?if=en&searchu=%E6%AF%9B%E5%A5%87%E9%BD%A1",
+      "noteZh": "以毛奇龄《经问》《四书改错》支撑身份层。"
+    }
+  ]
+}

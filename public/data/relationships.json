@@ -4472,5 +4472,4612 @@
     ],
     "noteZh": "卢卡奇和布洛赫同属西方马克思主义语境，都关注艺术和历史可能性，但前者强调总体性与现实主义，后者强调希望和乌托邦。",
     "reviewStatus": "draft"
+  },
+  {
+    "id": "marx-marcuse-reception",
+    "from": "marx",
+    "to": "marcuse",
+    "type": "reception",
+    "strength": 3,
+    "confidence": "high",
+    "themeIds": [
+      "politics",
+      "freedom"
+    ],
+    "noteZh": "马尔库塞在马克思主义批判框架内分析异化、资本主义整合和解放可能性。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "hegel-marcuse-reception",
+    "from": "hegel",
+    "to": "marcuse",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "high",
+    "themeIds": [
+      "metaphysics",
+      "freedom"
+    ],
+    "noteZh": "马尔库塞通过黑格尔否定理性和自由概念重建批判理论的哲学谱系。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "horkheimer-marcuse-shared_problem",
+    "from": "horkheimer",
+    "to": "marcuse",
+    "type": "shared_problem",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "politics",
+      "knowledge"
+    ],
+    "noteZh": "二者共享法兰克福批判理论问题域，都关注工具理性、资本主义整合和社会批判。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "adorno-marcuse-critique",
+    "from": "adorno",
+    "to": "marcuse",
+    "type": "critique",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "aesthetics",
+      "politics"
+    ],
+    "noteZh": "阿多诺和马尔库塞都分析晚期资本主义文化，但在政治实践、艺术否定性和解放主体上存在张力。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "marcuse-habermas-reception",
+    "from": "marcuse",
+    "to": "habermas",
+    "type": "reception",
+    "strength": 1,
+    "confidence": "medium",
+    "themeIds": [
+      "politics",
+      "knowledge"
+    ],
+    "noteZh": "哈贝马斯继承并修正早期批判理论问题，把马尔库塞式技术理性批判转向交往理性框架。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "fromm-marcuse-critique",
+    "from": "fromm",
+    "to": "marcuse",
+    "type": "critique",
+    "strength": 1,
+    "confidence": "medium",
+    "themeIds": [
+      "freedom",
+      "ethics"
+    ],
+    "noteZh": "二者都结合精神分析与社会批判，但弗洛姆偏人本伦理，马尔库塞偏欲望解放和技术社会批判。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "marx-fromm-reception",
+    "from": "marx",
+    "to": "fromm",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "high",
+    "themeIds": [
+      "politics",
+      "ethics"
+    ],
+    "noteZh": "弗洛姆重读青年马克思的人本主义和异化理论，用以批判资本主义社会病理。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "fromm-mill-shared_problem",
+    "from": "fromm",
+    "to": "mill",
+    "type": "shared_problem",
+    "strength": 1,
+    "confidence": "medium",
+    "themeIds": [
+      "freedom",
+      "ethics"
+    ],
+    "noteZh": "弗洛姆和密尔都关注个人发展和自由人格，但前者以心理社会分析解释逃避自由。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "fromm-arendt-shared_problem",
+    "from": "fromm",
+    "to": "arendt",
+    "type": "shared_problem",
+    "strength": 1,
+    "confidence": "medium",
+    "themeIds": [
+      "politics",
+      "freedom"
+    ],
+    "noteZh": "二者都分析现代孤立、顺从和极权主义条件，但阿伦特偏公共行动，弗洛姆偏心理机制。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "mill-berlin-reception",
+    "from": "mill",
+    "to": "berlin",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "high",
+    "themeIds": [
+      "freedom",
+      "politics"
+    ],
+    "noteZh": "伯林继承密尔自由主义对个人选择和多样生活的重视，同时以价值多元论重构其根据。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "berlin-rawls-shared_problem",
+    "from": "berlin",
+    "to": "rawls",
+    "type": "shared_problem",
+    "strength": 1,
+    "confidence": "medium",
+    "themeIds": [
+      "justice",
+      "freedom"
+    ],
+    "noteZh": "伯林和罗尔斯都重视自由主义制度条件，但伯林更强调价值冲突和不可通约性。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "berlin-nozick-shared_problem",
+    "from": "berlin",
+    "to": "nozick",
+    "type": "shared_problem",
+    "strength": 1,
+    "confidence": "medium",
+    "themeIds": [
+      "freedom",
+      "justice"
+    ],
+    "noteZh": "伯林的消极自由概念和诺齐克的权利自由主义共享反强制关切，但规范基础不同。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "berlin-hayek-shared_problem",
+    "from": "berlin",
+    "to": "hayek",
+    "type": "shared_problem",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "freedom",
+      "politics"
+    ],
+    "noteZh": "伯林与哈耶克都警惕积极自由和计划理性转化为强制，但伯林以价值多元论展开。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "popper-berlin-shared_problem",
+    "from": "popper",
+    "to": "berlin",
+    "type": "shared_problem",
+    "strength": 1,
+    "confidence": "medium",
+    "themeIds": [
+      "knowledge",
+      "politics"
+    ],
+    "noteZh": "波普尔和伯林都批判历史决定论，强调开放社会、责任和反乌托邦政治警惕。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "mill-hayek-reception",
+    "from": "mill",
+    "to": "hayek",
+    "type": "reception",
+    "strength": 1,
+    "confidence": "medium",
+    "themeIds": [
+      "freedom",
+      "politics"
+    ],
+    "noteZh": "哈耶克继承古典自由主义问题域，但以分散知识和自发秩序重构自由论。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "popper-hayek-shared_problem",
+    "from": "popper",
+    "to": "hayek",
+    "type": "shared_problem",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "knowledge",
+      "politics"
+    ],
+    "noteZh": "波普尔与哈耶克都批判历史主义和集中计划，强调开放秩序与知识有限性。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "hayek-rawls-critique",
+    "from": "hayek",
+    "to": "rawls",
+    "type": "critique",
+    "strength": 1,
+    "confidence": "medium",
+    "themeIds": [
+      "justice",
+      "politics"
+    ],
+    "noteZh": "哈耶克反对把社会正义作为整体分配目标，与罗尔斯制度化正义理论形成重要张力。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "hayek-nozick-shared_problem",
+    "from": "hayek",
+    "to": "nozick",
+    "type": "shared_problem",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "freedom",
+      "justice"
+    ],
+    "noteZh": "哈耶克和诺齐克都维护有限国家和个人自由，但哈耶克更强调规则演化和知识秩序。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "hayek-schmitt-critique",
+    "from": "hayek",
+    "to": "schmitt",
+    "type": "critique",
+    "strength": 1,
+    "confidence": "medium",
+    "themeIds": [
+      "politics",
+      "justice"
+    ],
+    "noteZh": "哈耶克法治和一般规则论与施米特例外决断论构成自由法治和主权决断之间的尖锐对立。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "hobbes-schmitt-reception",
+    "from": "hobbes",
+    "to": "schmitt",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "high",
+    "themeIds": [
+      "politics"
+    ],
+    "noteZh": "施米特重读霍布斯主权和国家统一问题，把现代政治秩序理解为决定和保护结构。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "schmitt-arendt-critique",
+    "from": "schmitt",
+    "to": "arendt",
+    "type": "critique",
+    "strength": 1,
+    "confidence": "medium",
+    "themeIds": [
+      "politics",
+      "freedom"
+    ],
+    "noteZh": "施米特敌友政治与阿伦特公共行动和自由政治形成反向对照，必须保留批判语境。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "schmitt-habermas-critique",
+    "from": "schmitt",
+    "to": "habermas",
+    "type": "critique",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "politics",
+      "language"
+    ],
+    "noteZh": "施米特反议会主义和决断论与哈贝马斯公共理性和商谈民主形成根本张力。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "schmitt-benjamin-shared_problem",
+    "from": "schmitt",
+    "to": "benjamin",
+    "type": "shared_problem",
+    "strength": 1,
+    "confidence": "medium",
+    "themeIds": [
+      "politics",
+      "religion"
+    ],
+    "noteZh": "施米特与本雅明都处理暴力、例外和神学政治问题，但方向和规范含义差异巨大。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "vico-croce-reception",
+    "from": "vico",
+    "to": "croce",
+    "type": "reception",
+    "strength": 3,
+    "confidence": "high",
+    "themeIds": [
+      "knowledge",
+      "metaphysics"
+    ],
+    "noteZh": "克罗齐推动维柯现代复兴，把历史知识、人造世界和精神活动问题重新置于中心。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "hegel-croce-reception",
+    "from": "hegel",
+    "to": "croce",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "metaphysics",
+      "knowledge"
+    ],
+    "noteZh": "克罗齐在黑格尔之后重构精神哲学和历史主义，但反对封闭体系化形而上学。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "marx-croce-critique",
+    "from": "marx",
+    "to": "croce",
+    "type": "critique",
+    "strength": 1,
+    "confidence": "medium",
+    "themeIds": [
+      "politics",
+      "knowledge"
+    ],
+    "noteZh": "克罗齐同马克思主义保持复杂争论，既重视历史实践又反对经济决定论式解释。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "croce-mill-shared_problem",
+    "from": "croce",
+    "to": "mill",
+    "type": "shared_problem",
+    "strength": 1,
+    "confidence": "medium",
+    "themeIds": [
+      "freedom",
+      "politics"
+    ],
+    "noteZh": "克罗齐和密尔都维护自由主义，但克罗齐以历史主义和精神自由重构自由传统。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "confucius-yan-hui-direct_student-1",
+    "from": "confucius",
+    "to": "yan-hui",
+    "type": "direct_student",
+    "strength": 3,
+    "confidence": "high",
+    "themeIds": [
+      "ethics",
+      "knowledge"
+    ],
+    "noteZh": "颜回作为孔子最称许的弟子之一，直接连接孔门德行传统。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "yan-hui-mencius-reception-2",
+    "from": "yan-hui",
+    "to": "mencius",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "ethics"
+    ],
+    "noteZh": "孟子继承并强化了以仁义和内在修养理解儒家人格的路线。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "confucius-zengzi-direct_student-1",
+    "from": "confucius",
+    "to": "zengzi",
+    "type": "direct_student",
+    "strength": 3,
+    "confidence": "high",
+    "themeIds": [
+      "ethics"
+    ],
+    "noteZh": "曾子为孔门弟子，传统上承接孔子修身与孝道教诲。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "zengzi-zhu-xi-reception-2",
+    "from": "zengzi",
+    "to": "zhu-xi",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "ethics",
+      "knowledge"
+    ],
+    "noteZh": "朱熹四书体系强化《大学》与曾子传统的道统地位。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "confucius-zisi-reception-1",
+    "from": "confucius",
+    "to": "zisi",
+    "type": "reception",
+    "strength": 3,
+    "confidence": "high",
+    "themeIds": [
+      "ethics"
+    ],
+    "noteZh": "子思作为孔子之孙，被后世置于孔门传承链条中。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "zisi-mencius-influence-2",
+    "from": "zisi",
+    "to": "mencius",
+    "type": "influence",
+    "strength": 3,
+    "confidence": "medium",
+    "themeIds": [
+      "ethics",
+      "metaphysics"
+    ],
+    "noteZh": "子思传统常被视为孟子心性论和天命论的重要前史。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "confucius-zigong-direct_student-1",
+    "from": "confucius",
+    "to": "zigong",
+    "type": "direct_student",
+    "strength": 3,
+    "confidence": "high",
+    "themeIds": [
+      "ethics",
+      "politics"
+    ],
+    "noteZh": "子贡是孔门弟子，常以言语和政事能力连接孔子学团。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "zigong-xunzi-shared_problem-2",
+    "from": "zigong",
+    "to": "xunzi",
+    "type": "shared_problem",
+    "strength": 1,
+    "confidence": "medium",
+    "themeIds": [
+      "ethics",
+      "politics"
+    ],
+    "noteZh": "子贡的礼义实践和士人公共能力与荀子后来的礼法政治共享问题域。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "han-feizi-shang-yang-reception-1",
+    "from": "han-feizi",
+    "to": "shang-yang",
+    "type": "reception",
+    "strength": 3,
+    "confidence": "high",
+    "themeIds": [
+      "politics",
+      "justice"
+    ],
+    "noteZh": "韩非将商鞅置于法家法治传统的重要源头。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "xunzi-shang-yang-critique-2",
+    "from": "xunzi",
+    "to": "shang-yang",
+    "type": "critique",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "politics"
+    ],
+    "noteZh": "荀子重礼义教化，与商鞅重刑名赏罚形成可比较的治国路径。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "shen-buhai-han-feizi-influence-1",
+    "from": "shen-buhai",
+    "to": "han-feizi",
+    "type": "influence",
+    "strength": 3,
+    "confidence": "high",
+    "themeIds": [
+      "politics",
+      "knowledge"
+    ],
+    "noteZh": "韩非吸收申不害术治资源，将其纳入法术势综合框架。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "confucius-shen-buhai-critique-2",
+    "from": "confucius",
+    "to": "shen-buhai",
+    "type": "critique",
+    "strength": 1,
+    "confidence": "medium",
+    "themeIds": [
+      "politics"
+    ],
+    "noteZh": "儒家德治理想与申不害的君主控臣技术形成张力。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "shen-dao-han-feizi-influence-1",
+    "from": "shen-dao",
+    "to": "han-feizi",
+    "type": "influence",
+    "strength": 3,
+    "confidence": "high",
+    "themeIds": [
+      "politics"
+    ],
+    "noteZh": "韩非以势论综合慎到资源，是法家谱系中的关键接受。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "laozi-shen-dao-shared_problem-2",
+    "from": "laozi",
+    "to": "shen-dao",
+    "type": "shared_problem",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "metaphysics",
+      "politics"
+    ],
+    "noteZh": "慎到的自然化秩序和无私势位与黄老道法问题域相接。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "hui-shi-zhuangzi-shared_problem-1",
+    "from": "hui-shi",
+    "to": "zhuangzi",
+    "type": "shared_problem",
+    "strength": 3,
+    "confidence": "high",
+    "themeIds": [
+      "language",
+      "metaphysics"
+    ],
+    "noteZh": "惠施与庄子围绕大小、同异和认知边界形成核心对话关系。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "hui-shi-gongsun-long-shared_problem-2",
+    "from": "hui-shi",
+    "to": "gongsun-long",
+    "type": "shared_problem",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "language"
+    ],
+    "noteZh": "惠施和公孙龙共同构成先秦名家辩学与语言分类问题。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "gongsun-long-zhuangzi-shared_problem-1",
+    "from": "gongsun-long",
+    "to": "zhuangzi",
+    "type": "shared_problem",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "language",
+      "metaphysics"
+    ],
+    "noteZh": "公孙龙的名实论辩与庄子对语言边界的反思互为参照。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "gongsun-long-xunzi-critique-2",
+    "from": "gongsun-long",
+    "to": "xunzi",
+    "type": "critique",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "language",
+      "knowledge"
+    ],
+    "noteZh": "荀子正名论可视为对名家辩学的规范化回应。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "yang-zhu-mencius-critique-1",
+    "from": "yang-zhu",
+    "to": "mencius",
+    "type": "critique",
+    "strength": 3,
+    "confidence": "high",
+    "themeIds": [
+      "ethics",
+      "politics"
+    ],
+    "noteZh": "孟子以杨朱为我传统作为儒家仁义论的重要批判对象。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "yang-zhu-mozi-shared_problem-2",
+    "from": "yang-zhu",
+    "to": "mozi",
+    "type": "shared_problem",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "ethics"
+    ],
+    "noteZh": "杨朱贵己与墨子兼爱在个体和普遍义务问题上构成强对照。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "xu-xing-mencius-critique-1",
+    "from": "xu-xing",
+    "to": "mencius",
+    "type": "critique",
+    "strength": 3,
+    "confidence": "high",
+    "themeIds": [
+      "politics",
+      "ethics"
+    ],
+    "noteZh": "孟子与许行门人辩论，直接批评农家并耕政治经济主张。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "xu-xing-mozi-shared_problem-2",
+    "from": "xu-xing",
+    "to": "mozi",
+    "type": "shared_problem",
+    "strength": 1,
+    "confidence": "medium",
+    "themeIds": [
+      "politics"
+    ],
+    "noteZh": "许行和墨家都关注生产、节用与社会组织，只是规范方案不同。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "zou-yan-laozi-shared_problem-1",
+    "from": "zou-yan",
+    "to": "laozi",
+    "type": "shared_problem",
+    "strength": 1,
+    "confidence": "medium",
+    "themeIds": [
+      "metaphysics",
+      "politics"
+    ],
+    "noteZh": "邹衍的宇宙周期和黄老道论都把政治秩序放入更大的自然秩序理解中。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "zou-yan-xunzi-shared_problem-2",
+    "from": "zou-yan",
+    "to": "xunzi",
+    "type": "shared_problem",
+    "strength": 1,
+    "confidence": "medium",
+    "themeIds": [
+      "metaphysics"
+    ],
+    "noteZh": "邹衍和荀子都处理天人关系，但一个宇宙周期化，一个重礼义人治。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "song-xing-xunzi-critique-1",
+    "from": "song-xing",
+    "to": "xunzi",
+    "type": "critique",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "ethics",
+      "politics"
+    ],
+    "noteZh": "荀子批评宋钘一类学说，显示儒家礼义政治与节欲非斗论的分歧。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "song-xing-mozi-shared_problem-2",
+    "from": "song-xing",
+    "to": "mozi",
+    "type": "shared_problem",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "ethics",
+      "politics"
+    ],
+    "noteZh": "宋钘的非斗和平倾向与墨家非攻共享问题域。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "yin-wen-xunzi-shared_problem-1",
+    "from": "yin-wen",
+    "to": "xunzi",
+    "type": "shared_problem",
+    "strength": 1,
+    "confidence": "medium",
+    "themeIds": [
+      "language",
+      "politics"
+    ],
+    "noteZh": "尹文名实关切与荀子正名论共享语言和政治秩序问题。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "yin-wen-han-feizi-shared_problem-2",
+    "from": "yin-wen",
+    "to": "han-feizi",
+    "type": "shared_problem",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "language",
+      "politics"
+    ],
+    "noteZh": "尹文的名实刑名问题与韩非法术治理中的名责相符相接。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "guan-zhong-confucius-reception-1",
+    "from": "guan-zhong",
+    "to": "confucius",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "high",
+    "themeIds": [
+      "politics"
+    ],
+    "noteZh": "孔子评价管仲功业，使管仲进入儒家政治记忆。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "guan-zhong-han-feizi-influence-2",
+    "from": "guan-zhong",
+    "to": "han-feizi",
+    "type": "influence",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "politics"
+    ],
+    "noteZh": "管仲制度治理和富国强兵形象成为后世法家政治的重要前史。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "yan-ying-confucius-shared_problem-1",
+    "from": "yan-ying",
+    "to": "confucius",
+    "type": "shared_problem",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "ethics",
+      "politics"
+    ],
+    "noteZh": "晏婴和孔子都处理君臣谏诤、礼与政治德性的关系。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "yan-ying-mencius-reception-2",
+    "from": "yan-ying",
+    "to": "mencius",
+    "type": "reception",
+    "strength": 1,
+    "confidence": "medium",
+    "themeIds": [
+      "ethics"
+    ],
+    "noteZh": "晏婴的节俭和谏诤形象为后世儒家政治伦理提供材料。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "sunzi-han-feizi-shared_problem-1",
+    "from": "sunzi",
+    "to": "han-feizi",
+    "type": "shared_problem",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "politics",
+      "knowledge"
+    ],
+    "noteZh": "孙子兵学和韩非法家都重视势、计与组织控制。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "sunzi-xunzi-shared_problem-2",
+    "from": "sunzi",
+    "to": "xunzi",
+    "type": "shared_problem",
+    "strength": 1,
+    "confidence": "medium",
+    "themeIds": [
+      "politics"
+    ],
+    "noteZh": "孙子的战略理性与荀子的礼法秩序同属战国国家能力问题域。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "wu-qi-han-feizi-shared_problem-1",
+    "from": "wu-qi",
+    "to": "han-feizi",
+    "type": "shared_problem",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "politics"
+    ],
+    "noteZh": "吴起治军和变法实践与韩非关注的赏罚制度共享问题域。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "wu-qi-xunzi-shared_problem-2",
+    "from": "wu-qi",
+    "to": "xunzi",
+    "type": "shared_problem",
+    "strength": 1,
+    "confidence": "medium",
+    "themeIds": [
+      "politics",
+      "justice"
+    ],
+    "noteZh": "吴起的军政改革与荀子礼法政治同样面对国家组织问题。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "lu-buwei-han-feizi-shared_problem-1",
+    "from": "lu-buwei",
+    "to": "han-feizi",
+    "type": "shared_problem",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "politics",
+      "knowledge"
+    ],
+    "noteZh": "吕氏春秋和韩非同处统一前夜，分别代表综合知识与法家治理方案。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "lu-buwei-laozi-reception-2",
+    "from": "lu-buwei",
+    "to": "laozi",
+    "type": "reception",
+    "strength": 1,
+    "confidence": "medium",
+    "themeIds": [
+      "metaphysics",
+      "politics"
+    ],
+    "noteZh": "《吕氏春秋》吸收道家和黄老资源进入治国论。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "xunzi-li-si-direct_student-1",
+    "from": "xunzi",
+    "to": "li-si",
+    "type": "direct_student",
+    "strength": 3,
+    "confidence": "high",
+    "themeIds": [
+      "politics",
+      "language"
+    ],
+    "noteZh": "李斯传统上为荀子弟子，其政治实践承接并转化荀学资源。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "li-si-han-feizi-shared_problem-2",
+    "from": "li-si",
+    "to": "han-feizi",
+    "type": "shared_problem",
+    "strength": 3,
+    "confidence": "high",
+    "themeIds": [
+      "politics"
+    ],
+    "noteZh": "李斯和韩非同出荀门而分别进入秦帝国法制与法家理论。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "confucius-dong-zhongshu-reception-1",
+    "from": "confucius",
+    "to": "dong-zhongshu",
+    "type": "reception",
+    "strength": 3,
+    "confidence": "high",
+    "themeIds": [
+      "politics",
+      "metaphysics"
+    ],
+    "noteZh": "董仲舒以春秋学重塑孔子传统的王朝政治意义。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "mencius-dong-zhongshu-reception-2",
+    "from": "mencius",
+    "to": "dong-zhongshu",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "ethics",
+      "politics"
+    ],
+    "noteZh": "董仲舒汉儒政治吸收并制度化儒家仁义王道资源。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "confucius-yang-xiong-reception-1",
+    "from": "confucius",
+    "to": "yang-xiong",
+    "type": "reception",
+    "strength": 3,
+    "confidence": "high",
+    "themeIds": [
+      "ethics",
+      "knowledge"
+    ],
+    "noteZh": "《法言》仿《论语》，明确以孔子经典形式为参照。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "mencius-yang-xiong-critique-2",
+    "from": "mencius",
+    "to": "yang-xiong",
+    "type": "critique",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "ethics"
+    ],
+    "noteZh": "扬雄性善恶混的立场与孟子性善论构成后世争论。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "wang-chong-laozi-shared_problem-1",
+    "from": "wang-chong",
+    "to": "laozi",
+    "type": "shared_problem",
+    "strength": 1,
+    "confidence": "medium",
+    "themeIds": [
+      "metaphysics",
+      "knowledge"
+    ],
+    "noteZh": "王充自然生成论与道家非人格化自然观共享反神意解释的问题域。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "wang-chong-xunzi-shared_problem-2",
+    "from": "wang-chong",
+    "to": "xunzi",
+    "type": "shared_problem",
+    "strength": 1,
+    "confidence": "medium",
+    "themeIds": [
+      "knowledge",
+      "metaphysics"
+    ],
+    "noteZh": "王充和荀子都强调对天的非人格化理解，但论证语境不同。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "liu-an-laozi-reception-1",
+    "from": "liu-an",
+    "to": "laozi",
+    "type": "reception",
+    "strength": 3,
+    "confidence": "medium",
+    "themeIds": [
+      "metaphysics",
+      "politics"
+    ],
+    "noteZh": "《淮南子》系统吸收道家和黄老资源。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "liu-an-zhuangzi-reception-2",
+    "from": "liu-an",
+    "to": "zhuangzi",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "metaphysics"
+    ],
+    "noteZh": "《淮南子》与庄子共享宇宙化道论和逍遥精神资源。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "confucius-lu-jia-reception-1",
+    "from": "confucius",
+    "to": "lu-jia",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "politics",
+      "ethics"
+    ],
+    "noteZh": "陆贾以仁义文治解释汉初国家重建，承接儒家政治伦理。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "lu-jia-jia-yi-influence-2",
+    "from": "lu-jia",
+    "to": "jia-yi",
+    "type": "influence",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "politics"
+    ],
+    "noteZh": "陆贾秦亡汉兴论为贾谊汉初政论提供前史。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "jia-yi-xunzi-reception-1",
+    "from": "jia-yi",
+    "to": "xunzi",
+    "type": "reception",
+    "strength": 1,
+    "confidence": "medium",
+    "themeIds": [
+      "politics",
+      "justice"
+    ],
+    "noteZh": "贾谊礼制和国家制度论可与荀子礼法传统相接。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "jia-yi-confucius-reception-2",
+    "from": "jia-yi",
+    "to": "confucius",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "politics",
+      "ethics"
+    ],
+    "noteZh": "贾谊以礼义和王道秩序反思秦亡，承接孔子儒家政治伦理资源。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "sima-tan-laozi-reception-1",
+    "from": "sima-tan",
+    "to": "laozi",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "metaphysics",
+      "politics"
+    ],
+    "noteZh": "司马谈六家要旨推重道家兼采众长。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "sima-tan-sima-qian-influence-2",
+    "from": "sima-tan",
+    "to": "sima-qian",
+    "type": "influence",
+    "strength": 3,
+    "confidence": "high",
+    "themeIds": [
+      "knowledge",
+      "politics"
+    ],
+    "noteZh": "司马谈的史官职责和六家分类直接影响司马迁著史。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "sima-qian-confucius-reception-1",
+    "from": "sima-qian",
+    "to": "confucius",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "ethics",
+      "politics"
+    ],
+    "noteZh": "司马迁以孔子作《春秋》的叙事理解史家使命。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "sima-qian-mencius-reception-2",
+    "from": "sima-qian",
+    "to": "mencius",
+    "type": "reception",
+    "strength": 1,
+    "confidence": "medium",
+    "themeIds": [
+      "ethics"
+    ],
+    "noteZh": "《史记》将孟子置入诸子史传结构，影响后世思想记忆。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "huan-tan-wang-chong-influence-1",
+    "from": "huan-tan",
+    "to": "wang-chong",
+    "type": "influence",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "knowledge",
+      "metaphysics"
+    ],
+    "noteZh": "桓谭反谶纬和批判虚妄的方向可视为王充理性批判的前史。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "huan-tan-xunzi-shared_problem-2",
+    "from": "huan-tan",
+    "to": "xunzi",
+    "type": "shared_problem",
+    "strength": 1,
+    "confidence": "medium",
+    "themeIds": [
+      "knowledge",
+      "metaphysics"
+    ],
+    "noteZh": "桓谭反谶纬与荀子非人格化天论共享反神秘化解释的问题域。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "confucius-zheng-xuan-reception-1",
+    "from": "confucius",
+    "to": "zheng-xuan",
+    "type": "reception",
+    "strength": 3,
+    "confidence": "high",
+    "themeIds": [
+      "knowledge",
+      "ethics"
+    ],
+    "noteZh": "郑玄以经注工作系统整理儒家经典传统。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "zheng-xuan-zhu-xi-reception-2",
+    "from": "zheng-xuan",
+    "to": "zhu-xi",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "knowledge"
+    ],
+    "noteZh": "朱熹以后经学和四书学仍须面对郑玄注疏传统的基础地位。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "confucius-xu-gan-reception-b2-1",
+    "from": "confucius",
+    "to": "xu-gan",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "ethics",
+      "politics"
+    ],
+    "noteZh": "徐干《中论》延续儒家修身治国和名实判断传统。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "xunzi-xu-gan-shared_problem-b2-2",
+    "from": "xunzi",
+    "to": "xu-gan",
+    "type": "shared_problem",
+    "strength": 1,
+    "confidence": "medium",
+    "themeIds": [
+      "ethics",
+      "knowledge"
+    ],
+    "noteZh": "徐干和荀子都关心名实、学习和礼义秩序的实践后果。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "confucius-wang-fu-reception-b2-1",
+    "from": "confucius",
+    "to": "wang-fu",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "ethics",
+      "politics"
+    ],
+    "noteZh": "王符以儒家德治和士人责任批评东汉政治风气。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "mencius-wang-fu-shared_problem-b2-2",
+    "from": "mencius",
+    "to": "wang-fu",
+    "type": "shared_problem",
+    "strength": 1,
+    "confidence": "medium",
+    "themeIds": [
+      "politics"
+    ],
+    "noteZh": "王符与孟子都以士人立场批判失政和社会失序。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "xunzi-xun-yue-reception-b2-1",
+    "from": "xunzi",
+    "to": "xun-yue",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "politics",
+      "knowledge"
+    ],
+    "noteZh": "荀悦出自荀氏传统，其政论与史论承接礼法秩序关切。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "confucius-xun-yue-reception-b2-2",
+    "from": "confucius",
+    "to": "xun-yue",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "ethics",
+      "politics"
+    ],
+    "noteZh": "荀悦以儒家经史框架理解君臣、教化和治乱。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "confucius-zhongchang-tong-reception-b2-1",
+    "from": "confucius",
+    "to": "zhongchang-tong",
+    "type": "reception",
+    "strength": 1,
+    "confidence": "medium",
+    "themeIds": [
+      "politics",
+      "ethics"
+    ],
+    "noteZh": "仲长统仍以儒家政治伦理作为批判汉末秩序的资源。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "zhuangzi-zhongchang-tong-shared_problem-b2-2",
+    "from": "zhuangzi",
+    "to": "zhongchang-tong",
+    "type": "shared_problem",
+    "strength": 1,
+    "confidence": "medium",
+    "themeIds": [
+      "freedom",
+      "politics"
+    ],
+    "noteZh": "仲长统的士人自适意识与庄子式政治疏离共享问题域。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "confucius-liu-xiang-reception-b2-1",
+    "from": "confucius",
+    "to": "liu-xiang",
+    "type": "reception",
+    "strength": 3,
+    "confidence": "high",
+    "themeIds": [
+      "ethics",
+      "knowledge"
+    ],
+    "noteZh": "刘向以校书和故事编纂重组儒家政治伦理传统。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "mencius-liu-xiang-reception-b2-2",
+    "from": "mencius",
+    "to": "liu-xiang",
+    "type": "reception",
+    "strength": 1,
+    "confidence": "medium",
+    "themeIds": [
+      "ethics"
+    ],
+    "noteZh": "刘向编纂的劝戒材料承接儒家仁义和人物典范教育。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "confucius-liu-xin-reception-b2-1",
+    "from": "confucius",
+    "to": "liu-xin",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "knowledge",
+      "politics"
+    ],
+    "noteZh": "刘歆围绕经典目录和经学正统重塑儒家知识秩序。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "xunzi-liu-xin-shared_problem-b2-2",
+    "from": "xunzi",
+    "to": "liu-xin",
+    "type": "shared_problem",
+    "strength": 1,
+    "confidence": "medium",
+    "themeIds": [
+      "knowledge"
+    ],
+    "noteZh": "刘歆目录学与荀子重视学术规范、名称和秩序的问题相接。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "laozi-he-yan-reception-b2-1",
+    "from": "laozi",
+    "to": "he-yan",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "metaphysics"
+    ],
+    "noteZh": "何晏贵无玄学接受并重释老子无的形上资源。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "confucius-he-yan-reception-b2-2",
+    "from": "confucius",
+    "to": "he-yan",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "high",
+    "themeIds": [
+      "ethics",
+      "knowledge"
+    ],
+    "noteZh": "何晏《论语集解》直接参与儒家经典解释传统。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "zhuangzi-ruan-ji-reception-b2-1",
+    "from": "zhuangzi",
+    "to": "ruan-ji",
+    "type": "reception",
+    "strength": 3,
+    "confidence": "high",
+    "themeIds": [
+      "freedom",
+      "ethics"
+    ],
+    "noteZh": "阮籍通过庄学资源表达对礼法和政治压迫的疏离。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "confucius-ruan-ji-critique-b2-2",
+    "from": "confucius",
+    "to": "ruan-ji",
+    "type": "critique",
+    "strength": 1,
+    "confidence": "medium",
+    "themeIds": [
+      "ethics"
+    ],
+    "noteZh": "阮籍名士姿态常与儒家名教规范形成张力。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "zhuangzi-ji-kang-reception-b2-1",
+    "from": "zhuangzi",
+    "to": "ji-kang",
+    "type": "reception",
+    "strength": 3,
+    "confidence": "high",
+    "themeIds": [
+      "freedom",
+      "aesthetics"
+    ],
+    "noteZh": "嵇康以自然和逍遥精神接续庄子传统。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "confucius-ji-kang-critique-b2-2",
+    "from": "confucius",
+    "to": "ji-kang",
+    "type": "critique",
+    "strength": 1,
+    "confidence": "medium",
+    "themeIds": [
+      "ethics",
+      "politics"
+    ],
+    "noteZh": "嵇康对名教束缚的反抗与儒家礼法规范形成张力。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "zhuangzi-xiang-xiu-reception-b2-1",
+    "from": "zhuangzi",
+    "to": "xiang-xiu",
+    "type": "reception",
+    "strength": 3,
+    "confidence": "high",
+    "themeIds": [
+      "metaphysics",
+      "aesthetics"
+    ],
+    "noteZh": "向秀以《庄子注》直接重释庄子思想。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "laozi-xiang-xiu-shared_problem-b2-2",
+    "from": "laozi",
+    "to": "xiang-xiu",
+    "type": "shared_problem",
+    "strength": 1,
+    "confidence": "medium",
+    "themeIds": [
+      "metaphysics"
+    ],
+    "noteZh": "向秀玄学与老子道论共享自然、无为和本体问题。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "laozi-pei-wei-critique-b2-1",
+    "from": "laozi",
+    "to": "pei-wei",
+    "type": "critique",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "metaphysics"
+    ],
+    "noteZh": "裴頠《崇有论》针对贵无玄学，间接反思老子无论接受。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "confucius-pei-wei-reception-b2-2",
+    "from": "confucius",
+    "to": "pei-wei",
+    "type": "reception",
+    "strength": 1,
+    "confidence": "medium",
+    "themeIds": [
+      "politics",
+      "ethics"
+    ],
+    "noteZh": "裴頠重视名教制度，可与儒家秩序论相接。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "laozi-ge-hong-reception-b2-1",
+    "from": "laozi",
+    "to": "ge-hong",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "religion",
+      "metaphysics"
+    ],
+    "noteZh": "葛洪道教理论以老子道论为重要经典资源。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "zhuangzi-ge-hong-reception-b2-2",
+    "from": "zhuangzi",
+    "to": "ge-hong",
+    "type": "reception",
+    "strength": 1,
+    "confidence": "medium",
+    "themeIds": [
+      "life_death",
+      "religion"
+    ],
+    "noteZh": "葛洪神仙养生论与庄子生命超越主题存在接受关系。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "buddha-fan-zhen-critique-b2-1",
+    "from": "buddha",
+    "to": "fan-zhen",
+    "type": "critique",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "religion",
+      "metaphysics"
+    ],
+    "noteZh": "范缜《神灭论》直接针对佛教神不灭和轮回报应观。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "xunzi-fan-zhen-shared_problem-b2-2",
+    "from": "xunzi",
+    "to": "fan-zhen",
+    "type": "shared_problem",
+    "strength": 1,
+    "confidence": "medium",
+    "themeIds": [
+      "metaphysics",
+      "religion"
+    ],
+    "noteZh": "范缜自然主义倾向与荀子非人格化天论共享反神秘化问题域。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "laozi-tao-hongjing-reception-b2-1",
+    "from": "laozi",
+    "to": "tao-hongjing",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "religion",
+      "metaphysics"
+    ],
+    "noteZh": "陶弘景上清道教体系继承老子道教化传统。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "zhuangzi-tao-hongjing-reception-b2-2",
+    "from": "zhuangzi",
+    "to": "tao-hongjing",
+    "type": "reception",
+    "strength": 1,
+    "confidence": "medium",
+    "themeIds": [
+      "life_death",
+      "religion"
+    ],
+    "noteZh": "陶弘景山林修炼和神仙谱系与庄子超越性生命想象相接。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "laozi-lu-xiujing-reception-b2-1",
+    "from": "laozi",
+    "to": "lu-xiujing",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "religion",
+      "knowledge"
+    ],
+    "noteZh": "陆修静整理道教经典目录，承接以老子为核心的道教经典传统。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "zhuangzi-lu-xiujing-reception-b2-2",
+    "from": "zhuangzi",
+    "to": "lu-xiujing",
+    "type": "reception",
+    "strength": 1,
+    "confidence": "medium",
+    "themeIds": [
+      "religion"
+    ],
+    "noteZh": "陆修静道教文献秩序中包含对庄子道家资源的宗教化接受。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "laozi-kou-qianzhi-reception-b2-1",
+    "from": "laozi",
+    "to": "kou-qianzhi",
+    "type": "reception",
+    "strength": 3,
+    "confidence": "medium",
+    "themeIds": [
+      "religion",
+      "politics"
+    ],
+    "noteZh": "寇谦之新天师道自称受老君启示，直接连接老子神圣化传统。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "confucius-kou-qianzhi-shared_problem-b2-2",
+    "from": "confucius",
+    "to": "kou-qianzhi",
+    "type": "shared_problem",
+    "strength": 1,
+    "confidence": "medium",
+    "themeIds": [
+      "politics",
+      "ethics"
+    ],
+    "noteZh": "寇谦之改革道教戒律和国家礼制，和儒家政治伦理共享秩序问题。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "laozi-cheng-xuanying-reception-b2-1",
+    "from": "laozi",
+    "to": "cheng-xuanying",
+    "type": "reception",
+    "strength": 3,
+    "confidence": "high",
+    "themeIds": [
+      "metaphysics",
+      "language"
+    ],
+    "noteZh": "成玄英《老子义疏》直接重释老子道论。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "zhuangzi-cheng-xuanying-reception-b2-2",
+    "from": "zhuangzi",
+    "to": "cheng-xuanying",
+    "type": "reception",
+    "strength": 3,
+    "confidence": "high",
+    "themeIds": [
+      "metaphysics",
+      "language"
+    ],
+    "noteZh": "成玄英《庄子疏》直接重释庄子哲学。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "buddha-dao-an-reception-b2-1",
+    "from": "buddha",
+    "to": "dao-an",
+    "type": "reception",
+    "strength": 3,
+    "confidence": "high",
+    "themeIds": [
+      "religion",
+      "knowledge"
+    ],
+    "noteZh": "道安推动佛典目录和僧团制度，承接佛教经典传统。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "nagarjuna-dao-an-reception-b2-2",
+    "from": "nagarjuna",
+    "to": "dao-an",
+    "type": "reception",
+    "strength": 1,
+    "confidence": "medium",
+    "themeIds": [
+      "religion",
+      "metaphysics"
+    ],
+    "noteZh": "道安时代的般若学接受为后来中观理解准备汉语语境。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "buddha-huiyuan-reception-b2-1",
+    "from": "buddha",
+    "to": "huiyuan",
+    "type": "reception",
+    "strength": 3,
+    "confidence": "high",
+    "themeIds": [
+      "religion",
+      "politics"
+    ],
+    "noteZh": "慧远以僧团实践和佛教论辩继承佛教出世传统。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "nagarjuna-huiyuan-shared_problem-b2-2",
+    "from": "nagarjuna",
+    "to": "huiyuan",
+    "type": "shared_problem",
+    "strength": 1,
+    "confidence": "medium",
+    "themeIds": [
+      "religion",
+      "metaphysics"
+    ],
+    "noteZh": "慧远与中观传统共享法身、空义和大乘义理问题。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "buddha-daosheng-reception-b2-1",
+    "from": "buddha",
+    "to": "daosheng",
+    "type": "reception",
+    "strength": 3,
+    "confidence": "high",
+    "themeIds": [
+      "religion",
+      "metaphysics"
+    ],
+    "noteZh": "道生围绕佛性和成佛普遍性展开中国佛教解释。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "nagarjuna-daosheng-shared_problem-b2-2",
+    "from": "nagarjuna",
+    "to": "daosheng",
+    "type": "shared_problem",
+    "strength": 1,
+    "confidence": "medium",
+    "themeIds": [
+      "religion",
+      "metaphysics"
+    ],
+    "noteZh": "道生顿悟论与中观破执、成佛理解共享大乘义理问题。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "nagarjuna-jizang-reception-b2-1",
+    "from": "nagarjuna",
+    "to": "jizang",
+    "type": "reception",
+    "strength": 3,
+    "confidence": "high",
+    "themeIds": [
+      "religion",
+      "metaphysics"
+    ],
+    "noteZh": "吉藏三论宗系统接受龙树中观传统。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "buddha-jizang-reception-b2-2",
+    "from": "buddha",
+    "to": "jizang",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "high",
+    "themeIds": [
+      "religion"
+    ],
+    "noteZh": "吉藏以佛教经论为基础展开破邪显正和二谛解释。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "buddha-xuanzang-reception-b2-1",
+    "from": "buddha",
+    "to": "xuanzang",
+    "type": "reception",
+    "strength": 3,
+    "confidence": "high",
+    "themeIds": [
+      "religion",
+      "knowledge"
+    ],
+    "noteZh": "玄奘求法译经以重建佛教经典和修学体系。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "vasubandhu-xuanzang-reception-b2-2",
+    "from": "vasubandhu",
+    "to": "xuanzang",
+    "type": "reception",
+    "strength": 3,
+    "confidence": "high",
+    "themeIds": [
+      "religion",
+      "knowledge"
+    ],
+    "noteZh": "玄奘法相唯识学直接接受无著、世亲唯识传统。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "vasubandhu-kuiji-reception-b2-1",
+    "from": "vasubandhu",
+    "to": "kuiji",
+    "type": "reception",
+    "strength": 3,
+    "confidence": "high",
+    "themeIds": [
+      "religion",
+      "knowledge"
+    ],
+    "noteZh": "窥基法相宗注疏系统解释世亲以来唯识传统。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "dignaga-kuiji-reception-b2-2",
+    "from": "dignaga",
+    "to": "kuiji",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "knowledge",
+      "language"
+    ],
+    "noteZh": "窥基唯识和因明解释接受陈那逻辑认识论资源。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "buddha-daoxuan-reception-b2-1",
+    "from": "buddha",
+    "to": "daoxuan",
+    "type": "reception",
+    "strength": 3,
+    "confidence": "high",
+    "themeIds": [
+      "religion",
+      "ethics"
+    ],
+    "noteZh": "道宣律学以佛教戒律传统为核心。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "confucius-daoxuan-shared_problem-b2-2",
+    "from": "confucius",
+    "to": "daoxuan",
+    "type": "shared_problem",
+    "strength": 1,
+    "confidence": "medium",
+    "themeIds": [
+      "ethics",
+      "politics"
+    ],
+    "noteZh": "道宣僧团制度与儒家礼制同样处理规范、身份和共同体秩序。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "buddha-tanluan-reception-b2-1",
+    "from": "buddha",
+    "to": "tanluan",
+    "type": "reception",
+    "strength": 3,
+    "confidence": "high",
+    "themeIds": [
+      "religion",
+      "life_death"
+    ],
+    "noteZh": "昙鸾净土思想承接佛教解脱和往生传统。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "vasubandhu-tanluan-reception-b2-2",
+    "from": "vasubandhu",
+    "to": "tanluan",
+    "type": "reception",
+    "strength": 3,
+    "confidence": "high",
+    "themeIds": [
+      "religion"
+    ],
+    "noteZh": "昙鸾《往生论注》直接解释世亲《往生论》。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "buddha-shandao-reception-b3-1",
+    "from": "buddha",
+    "to": "shandao",
+    "type": "reception",
+    "strength": 3,
+    "confidence": "high",
+    "themeIds": [
+      "religion",
+      "life_death"
+    ],
+    "noteZh": "善导净土教以佛教解脱和阿弥陀信仰传统为核心。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "vasubandhu-shandao-reception-b3-2",
+    "from": "vasubandhu",
+    "to": "shandao",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "religion"
+    ],
+    "noteZh": "善导净土思想可与世亲《往生论》传统相接。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "buddha-zongmi-reception-b3-1",
+    "from": "buddha",
+    "to": "zongmi",
+    "type": "reception",
+    "strength": 3,
+    "confidence": "high",
+    "themeIds": [
+      "religion",
+      "metaphysics"
+    ],
+    "noteZh": "宗密以佛教经论为基础进行禅教会通和判教。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "huineng-zongmi-reception-b3-2",
+    "from": "huineng",
+    "to": "zongmi",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "religion"
+    ],
+    "noteZh": "宗密解释诸禅源流，承接并重组禅宗传统。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "buddha-yanshou-reception-b3-1",
+    "from": "buddha",
+    "to": "yanshou",
+    "type": "reception",
+    "strength": 3,
+    "confidence": "high",
+    "themeIds": [
+      "religion",
+      "knowledge"
+    ],
+    "noteZh": "延寿以佛教经论为根据综合诸宗。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "huineng-yanshou-reception-b3-2",
+    "from": "huineng",
+    "to": "yanshou",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "religion"
+    ],
+    "noteZh": "延寿的禅教融合承接晚唐以来禅宗传统。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "confucius-han-yu-reception-b3-1",
+    "from": "confucius",
+    "to": "han-yu",
+    "type": "reception",
+    "strength": 3,
+    "confidence": "high",
+    "themeIds": [
+      "ethics",
+      "politics"
+    ],
+    "noteZh": "韩愈《原道》以孔子为儒家道统核心。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "buddha-han-yu-critique-b3-2",
+    "from": "buddha",
+    "to": "han-yu",
+    "type": "critique",
+    "strength": 3,
+    "confidence": "high",
+    "themeIds": [
+      "religion",
+      "politics"
+    ],
+    "noteZh": "韩愈排佛立场直接批评佛教出世和僧团影响。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "mencius-li-ao-reception-b3-1",
+    "from": "mencius",
+    "to": "li-ao",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "ethics",
+      "metaphysics"
+    ],
+    "noteZh": "李翱性命修养论承接孟子心性问题。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "confucius-li-ao-reception-b3-2",
+    "from": "confucius",
+    "to": "li-ao",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "ethics"
+    ],
+    "noteZh": "李翱以儒家圣人之道为恢复本性的目标。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "xunzi-liu-zongyuan-shared_problem-b3-1",
+    "from": "xunzi",
+    "to": "liu-zongyuan",
+    "type": "shared_problem",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "metaphysics",
+      "politics"
+    ],
+    "noteZh": "柳宗元天人论与荀子非人格化天论共享问题域。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "confucius-liu-zongyuan-reception-b3-2",
+    "from": "confucius",
+    "to": "liu-zongyuan",
+    "type": "reception",
+    "strength": 1,
+    "confidence": "medium",
+    "themeIds": [
+      "politics"
+    ],
+    "noteZh": "柳宗元制度批判仍以儒家治道为基本框架。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "confucius-li-gou-reception-b3-1",
+    "from": "confucius",
+    "to": "li-gou",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "politics",
+      "ethics"
+    ],
+    "noteZh": "李觏经世论承接儒家礼制和治国传统。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "xunzi-li-gou-shared_problem-b3-2",
+    "from": "xunzi",
+    "to": "li-gou",
+    "type": "shared_problem",
+    "strength": 1,
+    "confidence": "medium",
+    "themeIds": [
+      "politics",
+      "justice"
+    ],
+    "noteZh": "李觏与荀子都重视礼制、制度和国家治理。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "confucius-hu-yuan-reception-b3-1",
+    "from": "confucius",
+    "to": "hu-yuan",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "ethics",
+      "knowledge"
+    ],
+    "noteZh": "胡瑗教育思想以儒家经义和德行训练为基础。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "zhu-xi-hu-yuan-reception-b3-2",
+    "from": "zhu-xi",
+    "to": "hu-yuan",
+    "type": "reception",
+    "strength": 1,
+    "confidence": "medium",
+    "themeIds": [
+      "knowledge"
+    ],
+    "noteZh": "胡瑗经义治事传统是宋代理学教育制度的前史。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "laozi-shao-yong-shared_problem-b3-1",
+    "from": "laozi",
+    "to": "shao-yong",
+    "type": "shared_problem",
+    "strength": 1,
+    "confidence": "medium",
+    "themeIds": [
+      "metaphysics"
+    ],
+    "noteZh": "邵雍象数宇宙论与道家宇宙秩序问题相接。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "zhu-xi-shao-yong-reception-b3-2",
+    "from": "zhu-xi",
+    "to": "shao-yong",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "metaphysics",
+      "knowledge"
+    ],
+    "noteZh": "朱熹理学吸收并评论邵雍象数学资源。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "confucius-sima-guang-reception-b3-1",
+    "from": "confucius",
+    "to": "sima-guang",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "politics",
+      "knowledge"
+    ],
+    "noteZh": "司马光史学服务儒家政治鉴戒和君臣秩序。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "zhu-xi-sima-guang-shared_problem-b3-2",
+    "from": "zhu-xi",
+    "to": "sima-guang",
+    "type": "shared_problem",
+    "strength": 1,
+    "confidence": "medium",
+    "themeIds": [
+      "politics"
+    ],
+    "noteZh": "司马光和朱熹都以历史、经学回应宋代政治秩序问题。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "zhuangzi-su-shi-reception-b3-1",
+    "from": "zhuangzi",
+    "to": "su-shi",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "aesthetics",
+      "freedom"
+    ],
+    "noteZh": "苏轼诗文和人生论大量吸收庄子超越精神。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "confucius-su-shi-reception-b3-2",
+    "from": "confucius",
+    "to": "su-shi",
+    "type": "reception",
+    "strength": 1,
+    "confidence": "medium",
+    "themeIds": [
+      "politics",
+      "ethics"
+    ],
+    "noteZh": "苏轼政治伦理仍以儒家士大夫责任为基础。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "zhu-xi-luo-congyan-reception-b3-1",
+    "from": "zhu-xi",
+    "to": "luo-congyan",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "ethics",
+      "metaphysics"
+    ],
+    "noteZh": "罗从彦位于朱熹闽学谱系前驱链条中。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "confucius-luo-congyan-reception-b3-2",
+    "from": "confucius",
+    "to": "luo-congyan",
+    "type": "reception",
+    "strength": 1,
+    "confidence": "medium",
+    "themeIds": [
+      "ethics"
+    ],
+    "noteZh": "罗从彦讲学以儒家圣贤之道为核心。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "mencius-hu-hong-reception-b3-1",
+    "from": "mencius",
+    "to": "hu-hong",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "ethics",
+      "metaphysics"
+    ],
+    "noteZh": "胡宏心性论与孟子性善、道德主体问题相接。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "zhu-xi-hu-hong-shared_problem-b3-2",
+    "from": "zhu-xi",
+    "to": "hu-hong",
+    "type": "shared_problem",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "metaphysics"
+    ],
+    "noteZh": "胡宏湖湘学与朱熹理学围绕性体、心和天理展开互动。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "mencius-zhang-shi-reception-b3-1",
+    "from": "mencius",
+    "to": "zhang-shi",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "ethics"
+    ],
+    "noteZh": "张栻湖湘学强调道德主体和实践，承接孟子问题。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "zhu-xi-zhang-shi-shared_problem-b3-2",
+    "from": "zhu-xi",
+    "to": "zhang-shi",
+    "type": "shared_problem",
+    "strength": 3,
+    "confidence": "high",
+    "themeIds": [
+      "ethics",
+      "knowledge"
+    ],
+    "noteZh": "张栻与朱熹长期论学，共同塑造南宋理学。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "confucius-chen-liang-reception-b3-1",
+    "from": "confucius",
+    "to": "chen-liang",
+    "type": "reception",
+    "strength": 1,
+    "confidence": "medium",
+    "themeIds": [
+      "politics"
+    ],
+    "noteZh": "陈亮事功论仍以儒家经世责任为基础。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "zhu-xi-chen-liang-critique-b3-2",
+    "from": "zhu-xi",
+    "to": "chen-liang",
+    "type": "critique",
+    "strength": 3,
+    "confidence": "high",
+    "themeIds": [
+      "politics",
+      "ethics"
+    ],
+    "noteZh": "陈亮与朱熹围绕王霸义利和事功问题展开著名论辩。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "confucius-ye-shi-reception-b3-1",
+    "from": "confucius",
+    "to": "ye-shi",
+    "type": "reception",
+    "strength": 1,
+    "confidence": "medium",
+    "themeIds": [
+      "politics",
+      "knowledge"
+    ],
+    "noteZh": "叶适经世学仍立足儒家经史传统。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "zhu-xi-ye-shi-critique-b3-2",
+    "from": "zhu-xi",
+    "to": "ye-shi",
+    "type": "critique",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "politics",
+      "knowledge"
+    ],
+    "noteZh": "叶适事功和制度分析对朱子学空疏化倾向形成批评。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "zhu-xi-wu-cheng-reception-b3-1",
+    "from": "zhu-xi",
+    "to": "wu-cheng",
+    "type": "reception",
+    "strength": 3,
+    "confidence": "medium",
+    "themeIds": [
+      "knowledge",
+      "ethics"
+    ],
+    "noteZh": "吴澄尊崇程朱并整理经典解释。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "wang-yangming-wu-cheng-shared_problem-b3-2",
+    "from": "wang-yangming",
+    "to": "wu-cheng",
+    "type": "shared_problem",
+    "strength": 1,
+    "confidence": "low",
+    "themeIds": [
+      "ethics",
+      "metaphysics"
+    ],
+    "noteZh": "吴澄调和朱陆的努力成为明代朱王问题的前史。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "zhu-xi-xu-heng-reception-b3-1",
+    "from": "zhu-xi",
+    "to": "xu-heng",
+    "type": "reception",
+    "strength": 3,
+    "confidence": "high",
+    "themeIds": [
+      "ethics",
+      "politics"
+    ],
+    "noteZh": "许衡将程朱理学推进元代教育和政治制度。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "confucius-xu-heng-reception-b3-2",
+    "from": "confucius",
+    "to": "xu-heng",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "ethics"
+    ],
+    "noteZh": "许衡以儒家教化训练士人和官僚。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "zhu-xi-wu-yubi-reception-b3-1",
+    "from": "zhu-xi",
+    "to": "wu-yubi",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "ethics",
+      "knowledge"
+    ],
+    "noteZh": "吴与弼明初理学承接朱子读书和居敬传统。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "wang-yangming-wu-yubi-shared_problem-b3-2",
+    "from": "wang-yangming",
+    "to": "wu-yubi",
+    "type": "shared_problem",
+    "strength": 1,
+    "confidence": "medium",
+    "themeIds": [
+      "ethics"
+    ],
+    "noteZh": "吴与弼实践化修养风格为明代心学气候提供前史。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "zhu-xi-chen-xianzhang-critique-b3-1",
+    "from": "zhu-xi",
+    "to": "chen-xianzhang",
+    "type": "critique",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "ethics",
+      "metaphysics"
+    ],
+    "noteZh": "陈献章反对拘泥文字格套，对程朱学风形成转向。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "wang-yangming-chen-xianzhang-influence-b3-2",
+    "from": "wang-yangming",
+    "to": "chen-xianzhang",
+    "type": "influence",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "ethics",
+      "metaphysics"
+    ],
+    "noteZh": "陈献章白沙心学为王阳明时代主体体验转向提供前驱。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "zhu-xi-xue-xuan-reception-b3-1",
+    "from": "zhu-xi",
+    "to": "xue-xuan",
+    "type": "reception",
+    "strength": 3,
+    "confidence": "high",
+    "themeIds": [
+      "ethics",
+      "knowledge"
+    ],
+    "noteZh": "薛瑄坚持程朱理学的主敬和复性传统。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "confucius-xue-xuan-reception-b3-2",
+    "from": "confucius",
+    "to": "xue-xuan",
+    "type": "reception",
+    "strength": 1,
+    "confidence": "medium",
+    "themeIds": [
+      "ethics"
+    ],
+    "noteZh": "薛瑄以儒家圣贤人格和读书实践为修养目标。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "zhu-xi-luo-qinshun-reception-b3-1",
+    "from": "zhu-xi",
+    "to": "luo-qinshun",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "metaphysics",
+      "knowledge"
+    ],
+    "noteZh": "罗钦顺在程朱理气问题内部提出修正。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "wang-yangming-luo-qinshun-critique-b3-2",
+    "from": "wang-yangming",
+    "to": "luo-qinshun",
+    "type": "critique",
+    "strength": 3,
+    "confidence": "high",
+    "themeIds": [
+      "metaphysics",
+      "ethics"
+    ],
+    "noteZh": "罗钦顺批评王学心体主观化倾向。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "xunzi-wang-tingxiang-shared_problem-b3-1",
+    "from": "xunzi",
+    "to": "wang-tingxiang",
+    "type": "shared_problem",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "metaphysics",
+      "knowledge"
+    ],
+    "noteZh": "王廷相气学与荀子自然主义倾向共享反神秘化问题域。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "wang-yangming-wang-tingxiang-critique-b3-2",
+    "from": "wang-yangming",
+    "to": "wang-tingxiang",
+    "type": "critique",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "knowledge",
+      "ethics"
+    ],
+    "noteZh": "王廷相批评空疏心学，和王阳明后学形成张力。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "wang-yangming-zhan-ruoshui-shared_problem-b3-1",
+    "from": "wang-yangming",
+    "to": "zhan-ruoshui",
+    "type": "shared_problem",
+    "strength": 3,
+    "confidence": "high",
+    "themeIds": [
+      "ethics",
+      "metaphysics"
+    ],
+    "noteZh": "湛若水与王阳明并世论学，共同推动明代心学。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "confucius-zhan-ruoshui-reception-b3-2",
+    "from": "confucius",
+    "to": "zhan-ruoshui",
+    "type": "reception",
+    "strength": 1,
+    "confidence": "medium",
+    "themeIds": [
+      "ethics"
+    ],
+    "noteZh": "湛若水以儒家日用伦理理解天理体认。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "wang-yangming-wang-gen-reception-b3-1",
+    "from": "wang-yangming",
+    "to": "wang-gen",
+    "type": "reception",
+    "strength": 3,
+    "confidence": "high",
+    "themeIds": [
+      "ethics",
+      "politics"
+    ],
+    "noteZh": "王艮是王阳明后学中泰州学派的开创人物。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "confucius-wang-gen-reception-b3-2",
+    "from": "confucius",
+    "to": "wang-gen",
+    "type": "reception",
+    "strength": 1,
+    "confidence": "medium",
+    "themeIds": [
+      "ethics"
+    ],
+    "noteZh": "王艮将儒家道德实践推向百姓日用生活。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "wang-yangming-luo-rufang-reception-b4-1",
+    "from": "wang-yangming",
+    "to": "luo-rufang",
+    "type": "reception",
+    "strength": 3,
+    "confidence": "high",
+    "themeIds": [
+      "ethics",
+      "religion"
+    ],
+    "noteZh": "罗汝芳属于阳明后学泰州一路，强调良心与日用教化。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "confucius-luo-rufang-reception-b4-2",
+    "from": "confucius",
+    "to": "luo-rufang",
+    "type": "reception",
+    "strength": 1,
+    "confidence": "medium",
+    "themeIds": [
+      "ethics"
+    ],
+    "noteZh": "罗汝芳以儒家亲民和日用伦理展开讲学。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "wang-yangming-li-zhi-reception-b4-1",
+    "from": "wang-yangming",
+    "to": "li-zhi",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "freedom",
+      "ethics"
+    ],
+    "noteZh": "李贽接受阳明后学主体判断和真诚精神。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "confucius-li-zhi-critique-b4-2",
+    "from": "confucius",
+    "to": "li-zhi",
+    "type": "critique",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "ethics"
+    ],
+    "noteZh": "李贽批判伪道学和僵化正统，同时重读儒家经典人物。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "zhu-xi-gu-xiancheng-reception-b4-1",
+    "from": "zhu-xi",
+    "to": "gu-xiancheng",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "ethics",
+      "politics"
+    ],
+    "noteZh": "顾宪成东林讲学多承接程朱道德修养和名节传统。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "confucius-gu-xiancheng-reception-b4-2",
+    "from": "confucius",
+    "to": "gu-xiancheng",
+    "type": "reception",
+    "strength": 1,
+    "confidence": "medium",
+    "themeIds": [
+      "politics"
+    ],
+    "noteZh": "顾宪成以儒家士人公共责任参与晚明政治议论。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "zhu-xi-gao-panlong-reception-b4-1",
+    "from": "zhu-xi",
+    "to": "gao-panlong",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "ethics",
+      "knowledge"
+    ],
+    "noteZh": "高攀龙以程朱居敬穷理和静坐工夫组织修养。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "wang-yangming-gao-panlong-shared_problem-b4-2",
+    "from": "wang-yangming",
+    "to": "gao-panlong",
+    "type": "shared_problem",
+    "strength": 1,
+    "confidence": "medium",
+    "themeIds": [
+      "ethics"
+    ],
+    "noteZh": "高攀龙与阳明后学共享心性体认和日用实践问题。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "wang-yangming-liu-zongzhou-critique-b4-1",
+    "from": "wang-yangming",
+    "to": "liu-zongzhou",
+    "type": "critique",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "ethics",
+      "metaphysics"
+    ],
+    "noteZh": "刘宗周继承又批评阳明后学，重构慎独诚意工夫。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "mencius-liu-zongzhou-reception-b4-2",
+    "from": "mencius",
+    "to": "liu-zongzhou",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "ethics"
+    ],
+    "noteZh": "刘宗周道德主体论承接孟子心性传统。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "confucius-huang-zongxi-reception-b4-1",
+    "from": "confucius",
+    "to": "huang-zongxi",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "politics",
+      "knowledge"
+    ],
+    "noteZh": "黄宗羲以儒家士人责任批判君主政治。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "wang-yangming-huang-zongxi-reception-b4-2",
+    "from": "wang-yangming",
+    "to": "huang-zongxi",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "ethics",
+      "knowledge"
+    ],
+    "noteZh": "黄宗羲学术史书写继承并评判阳明后学。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "confucius-gu-yanwu-reception-b4-1",
+    "from": "confucius",
+    "to": "gu-yanwu",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "knowledge",
+      "politics"
+    ],
+    "noteZh": "顾炎武经世考据以儒家经史传统为基础。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "zhu-xi-gu-yanwu-critique-b4-2",
+    "from": "zhu-xi",
+    "to": "gu-yanwu",
+    "type": "critique",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "knowledge"
+    ],
+    "noteZh": "顾炎武反对空疏心性之谈，对宋明理学末流形成批评。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "zhuangzi-fang-yizhi-reception-b4-1",
+    "from": "zhuangzi",
+    "to": "fang-yizhi",
+    "type": "reception",
+    "strength": 1,
+    "confidence": "medium",
+    "themeIds": [
+      "metaphysics",
+      "knowledge"
+    ],
+    "noteZh": "方以智会通思想吸收庄子齐物和名理资源。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "buddha-fang-yizhi-reception-b4-2",
+    "from": "buddha",
+    "to": "fang-yizhi",
+    "type": "reception",
+    "strength": 1,
+    "confidence": "medium",
+    "themeIds": [
+      "religion",
+      "metaphysics"
+    ],
+    "noteZh": "方以智晚年入佛，其思想融合佛教义理。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "zhu-xi-chen-que-critique-b4-1",
+    "from": "zhu-xi",
+    "to": "chen-que",
+    "type": "critique",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "knowledge",
+      "ethics"
+    ],
+    "noteZh": "陈确质疑朱子学经典解释和理学教条。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "confucius-chen-que-reception-b4-2",
+    "from": "confucius",
+    "to": "chen-que",
+    "type": "reception",
+    "strength": 1,
+    "confidence": "medium",
+    "themeIds": [
+      "ethics"
+    ],
+    "noteZh": "陈确仍以儒家实践判断重新检验经典权威。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "confucius-tang-zhen-reception-b4-1",
+    "from": "confucius",
+    "to": "tang-zhen",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "politics",
+      "justice"
+    ],
+    "noteZh": "唐甄以儒家仁政和民本立场批判君主官僚。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "mencius-tang-zhen-reception-b4-2",
+    "from": "mencius",
+    "to": "tang-zhen",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "politics"
+    ],
+    "noteZh": "唐甄君主批判承接孟子民贵君轻的问题域。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "confucius-yan-yuan-qing-reception-b4-1",
+    "from": "confucius",
+    "to": "yan-yuan-qing",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "ethics",
+      "knowledge"
+    ],
+    "noteZh": "颜元以恢复孔门实学和礼乐实践为目标。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "zhu-xi-yan-yuan-qing-critique-b4-2",
+    "from": "zhu-xi",
+    "to": "yan-yuan-qing",
+    "type": "critique",
+    "strength": 3,
+    "confidence": "high",
+    "themeIds": [
+      "knowledge",
+      "ethics"
+    ],
+    "noteZh": "颜元猛烈批评程朱理学空谈，主张实行实学。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "confucius-li-gong-qing-reception-b4-1",
+    "from": "confucius",
+    "to": "li-gong-qing",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "ethics",
+      "knowledge"
+    ],
+    "noteZh": "李塨以孔门礼乐实践解释儒学。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "zhu-xi-li-gong-qing-critique-b4-2",
+    "from": "zhu-xi",
+    "to": "li-gong-qing",
+    "type": "critique",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "knowledge"
+    ],
+    "noteZh": "李塨继承颜元路线，批评宋明章句和空疏理学。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "zhu-xi-lu-longqi-reception-b4-1",
+    "from": "zhu-xi",
+    "to": "lu-longqi",
+    "type": "reception",
+    "strength": 3,
+    "confidence": "high",
+    "themeIds": [
+      "ethics",
+      "knowledge"
+    ],
+    "noteZh": "陆陇其是清初尊朱理学的重要代表。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "confucius-lu-longqi-reception-b4-2",
+    "from": "confucius",
+    "to": "lu-longqi",
+    "type": "reception",
+    "strength": 1,
+    "confidence": "medium",
+    "themeIds": [
+      "ethics",
+      "politics"
+    ],
+    "noteZh": "陆陇其地方治理和讲学以儒家教化为核心。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "zhu-xi-mao-qiling-critique-b4-1",
+    "from": "zhu-xi",
+    "to": "mao-qiling",
+    "type": "critique",
+    "strength": 3,
+    "confidence": "high",
+    "themeIds": [
+      "knowledge",
+      "language"
+    ],
+    "noteZh": "毛奇龄经学多批评朱子四书解释。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "confucius-mao-qiling-reception-b4-2",
+    "from": "confucius",
+    "to": "mao-qiling",
+    "type": "reception",
+    "strength": 1,
+    "confidence": "medium",
+    "themeIds": [
+      "knowledge"
+    ],
+    "noteZh": "毛奇龄以重新考辨儒家经典文义为学术目标。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "confucius-zhang-xuecheng-reception-b4-1",
+    "from": "confucius",
+    "to": "zhang-xuecheng",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "knowledge"
+    ],
+    "noteZh": "章学诚六经皆史以儒家经典的历史性为核心。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "zhu-xi-zhang-xuecheng-critique-b4-2",
+    "from": "zhu-xi",
+    "to": "zhang-xuecheng",
+    "type": "critique",
+    "strength": 1,
+    "confidence": "medium",
+    "themeIds": [
+      "knowledge"
+    ],
+    "noteZh": "章学诚对脱离史事的义理之学保持批判。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "confucius-cui-shu-reception-b4-1",
+    "from": "confucius",
+    "to": "cui-shu",
+    "type": "reception",
+    "strength": 1,
+    "confidence": "medium",
+    "themeIds": [
+      "knowledge"
+    ],
+    "noteZh": "崔述以考信方式重新审查儒家古史和经传。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "mencius-cui-shu-shared_problem-b4-2",
+    "from": "mencius",
+    "to": "cui-shu",
+    "type": "shared_problem",
+    "strength": 1,
+    "confidence": "medium",
+    "themeIds": [
+      "knowledge"
+    ],
+    "noteZh": "崔述古史考辨与孟子对尧舜禹汤历史记忆的使用形成可比较问题。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "confucius-ruan-yuan-reception-b4-1",
+    "from": "confucius",
+    "to": "ruan-yuan",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "knowledge",
+      "language"
+    ],
+    "noteZh": "阮元经学工程以整理儒家经典训诂为核心。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "zhu-xi-ruan-yuan-critique-b4-2",
+    "from": "zhu-xi",
+    "to": "ruan-yuan",
+    "type": "critique",
+    "strength": 1,
+    "confidence": "medium",
+    "themeIds": [
+      "knowledge"
+    ],
+    "noteZh": "阮元乾嘉考据取向与宋学义理解释形成方法张力。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "mencius-jiao-xun-reception-b4-1",
+    "from": "mencius",
+    "to": "jiao-xun",
+    "type": "reception",
+    "strength": 3,
+    "confidence": "high",
+    "themeIds": [
+      "ethics",
+      "knowledge"
+    ],
+    "noteZh": "焦循《孟子正义》直接重释孟子文本。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "confucius-jiao-xun-reception-b4-2",
+    "from": "confucius",
+    "to": "jiao-xun",
+    "type": "reception",
+    "strength": 1,
+    "confidence": "medium",
+    "themeIds": [
+      "knowledge"
+    ],
+    "noteZh": "焦循经学以儒家经典解释和推理结构为基础。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "confucius-gong-zizhen-reception-b4-1",
+    "from": "confucius",
+    "to": "gong-zizhen",
+    "type": "reception",
+    "strength": 1,
+    "confidence": "medium",
+    "themeIds": [
+      "politics",
+      "freedom"
+    ],
+    "noteZh": "龚自珍经世改革仍以儒家士人责任为基础。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "mencius-gong-zizhen-shared_problem-b4-2",
+    "from": "mencius",
+    "to": "gong-zizhen",
+    "type": "shared_problem",
+    "strength": 1,
+    "confidence": "medium",
+    "themeIds": [
+      "politics"
+    ],
+    "noteZh": "龚自珍改革批判与孟子民本政治共享问题域。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "confucius-wei-yuan-reception-b4-1",
+    "from": "confucius",
+    "to": "wei-yuan",
+    "type": "reception",
+    "strength": 1,
+    "confidence": "medium",
+    "themeIds": [
+      "politics",
+      "knowledge"
+    ],
+    "noteZh": "魏源经世学以儒家现实治道为基础。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "mozi-wei-yuan-shared_problem-b4-2",
+    "from": "mozi",
+    "to": "wei-yuan",
+    "type": "shared_problem",
+    "strength": 1,
+    "confidence": "medium",
+    "themeIds": [
+      "politics",
+      "knowledge"
+    ],
+    "noteZh": "魏源重视实用技术和国家防卫，可与墨家实用和备御问题相参照。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w2-b1-001-aristotle-franz-brentano-reception",
+    "from": "aristotle",
+    "to": "franz-brentano",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "metaphysics"
+    ],
+    "noteZh": "W2 seed 身份层挂接：`aristotle` 与 `franz-brentano` 围绕 metaphysics 主题构成 reception 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w2-b1-002-franz-brentano-husserl-influence",
+    "from": "franz-brentano",
+    "to": "husserl",
+    "type": "influence",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "knowledge"
+    ],
+    "noteZh": "W2 seed 身份层挂接：`franz-brentano` 与 `husserl` 围绕 knowledge 主题构成 influence 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w2-b1-003-franz-brentano-alexius-meinong-direct_student",
+    "from": "franz-brentano",
+    "to": "alexius-meinong",
+    "type": "direct_student",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "metaphysics"
+    ],
+    "noteZh": "W2 seed 身份层挂接：`franz-brentano` 与 `alexius-meinong` 围绕 metaphysics 主题构成 direct_student 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w2-b1-004-russell-alexius-meinong-critique",
+    "from": "russell",
+    "to": "alexius-meinong",
+    "type": "critique",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "language"
+    ],
+    "noteZh": "W2 seed 身份层挂接：`russell` 与 `alexius-meinong` 围绕 language 主题构成 critique 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w2-b1-005-kant-ernst-cassirer-reception",
+    "from": "kant",
+    "to": "ernst-cassirer",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "knowledge"
+    ],
+    "noteZh": "W2 seed 身份层挂接：`kant` 与 `ernst-cassirer` 围绕 knowledge 主题构成 reception 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w2-b1-006-cohen-ernst-cassirer-school",
+    "from": "cohen",
+    "to": "ernst-cassirer",
+    "type": "school",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "knowledge"
+    ],
+    "noteZh": "W2 seed 身份层挂接：`cohen` 与 `ernst-cassirer` 围绕 knowledge 主题构成 school 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w2-b1-007-hegel-josiah-royce-influence",
+    "from": "hegel",
+    "to": "josiah-royce",
+    "type": "influence",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "metaphysics"
+    ],
+    "noteZh": "W2 seed 身份层挂接：`hegel` 与 `josiah-royce` 围绕 metaphysics 主题构成 influence 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w2-b1-008-james-josiah-royce-shared_problem",
+    "from": "james",
+    "to": "josiah-royce",
+    "type": "shared_problem",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "religion"
+    ],
+    "noteZh": "W2 seed 身份层挂接：`james` 与 `josiah-royce` 围绕 religion 主题构成 shared_problem 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w2-b1-009-spinoza-george-santayana-reception",
+    "from": "spinoza",
+    "to": "george-santayana",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "metaphysics"
+    ],
+    "noteZh": "W2 seed 身份层挂接：`spinoza` 与 `george-santayana` 围绕 metaphysics 主题构成 reception 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w2-b1-010-james-george-santayana-shared_problem",
+    "from": "james",
+    "to": "george-santayana",
+    "type": "shared_problem",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "aesthetics"
+    ],
+    "noteZh": "W2 seed 身份层挂接：`james` 与 `george-santayana` 围绕 aesthetics 主题构成 shared_problem 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w2-b1-011-hegel-fh-bradley-influence",
+    "from": "hegel",
+    "to": "fh-bradley",
+    "type": "influence",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "metaphysics"
+    ],
+    "noteZh": "W2 seed 身份层挂接：`hegel` 与 `fh-bradley` 围绕 metaphysics 主题构成 influence 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w2-b1-012-russell-fh-bradley-critique",
+    "from": "russell",
+    "to": "fh-bradley",
+    "type": "critique",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "metaphysics"
+    ],
+    "noteZh": "W2 seed 身份层挂接：`russell` 与 `fh-bradley` 围绕 metaphysics 主题构成 critique 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w2-b1-013-hegel-th-green-influence",
+    "from": "hegel",
+    "to": "th-green",
+    "type": "influence",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "politics"
+    ],
+    "noteZh": "W2 seed 身份层挂接：`hegel` 与 `th-green` 围绕 politics 主题构成 influence 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w2-b1-014-berlin-th-green-critique",
+    "from": "berlin",
+    "to": "th-green",
+    "type": "critique",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "freedom"
+    ],
+    "noteZh": "W2 seed 身份层挂接：`berlin` 与 `th-green` 围绕 freedom 主题构成 critique 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w2-b1-015-mill-henry-sidgwick-influence",
+    "from": "mill",
+    "to": "henry-sidgwick",
+    "type": "influence",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "ethics"
+    ],
+    "noteZh": "W2 seed 身份层挂接：`mill` 与 `henry-sidgwick` 围绕 ethics 主题构成 influence 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w2-b1-016-moore-henry-sidgwick-reception",
+    "from": "moore",
+    "to": "henry-sidgwick",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "ethics"
+    ],
+    "noteZh": "W2 seed 身份层挂接：`moore` 与 `henry-sidgwick` 围绕 ethics 主题构成 reception 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w2-b1-017-kant-georg-simmel-reception",
+    "from": "kant",
+    "to": "georg-simmel",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "aesthetics"
+    ],
+    "noteZh": "W2 seed 身份层挂接：`kant` 与 `georg-simmel` 围绕 aesthetics 主题构成 reception 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w2-b1-018-georg-simmel-weber-shared_problem",
+    "from": "georg-simmel",
+    "to": "weber",
+    "type": "shared_problem",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "politics"
+    ],
+    "noteZh": "W2 seed 身份层挂接：`georg-simmel` 与 `weber` 围绕 politics 主题构成 shared_problem 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w2-b1-019-husserl-max-scheler-influence",
+    "from": "husserl",
+    "to": "max-scheler",
+    "type": "influence",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "ethics"
+    ],
+    "noteZh": "W2 seed 身份层挂接：`husserl` 与 `max-scheler` 围绕 ethics 主题构成 influence 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w2-b1-020-max-scheler-heidegger-shared_problem",
+    "from": "max-scheler",
+    "to": "heidegger",
+    "type": "shared_problem",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "metaphysics"
+    ],
+    "noteZh": "W2 seed 身份层挂接：`max-scheler` 与 `heidegger` 围绕 metaphysics 主题构成 shared_problem 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w2-b1-021-kierkegaard-gabriel-marcel-influence",
+    "from": "kierkegaard",
+    "to": "gabriel-marcel",
+    "type": "influence",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "religion"
+    ],
+    "noteZh": "W2 seed 身份层挂接：`kierkegaard` 与 `gabriel-marcel` 围绕 religion 主题构成 influence 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w2-b1-022-gabriel-marcel-sartre-shared_problem",
+    "from": "gabriel-marcel",
+    "to": "sartre",
+    "type": "shared_problem",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "freedom"
+    ],
+    "noteZh": "W2 seed 身份层挂接：`gabriel-marcel` 与 `sartre` 围绕 freedom 主题构成 shared_problem 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w2-b1-023-nietzsche-jose-ortega-y-gasset-influence",
+    "from": "nietzsche",
+    "to": "jose-ortega-y-gasset",
+    "type": "influence",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "life_death"
+    ],
+    "noteZh": "W2 seed 身份层挂接：`nietzsche` 与 `jose-ortega-y-gasset` 围绕 life_death 主题构成 influence 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w2-b1-024-jose-ortega-y-gasset-heidegger-shared_problem",
+    "from": "jose-ortega-y-gasset",
+    "to": "heidegger",
+    "type": "shared_problem",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "knowledge"
+    ],
+    "noteZh": "W2 seed 身份层挂接：`jose-ortega-y-gasset` 与 `heidegger` 围绕 knowledge 主题构成 shared_problem 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w2-b1-025-kierkegaard-miguel-de-unamuno-influence",
+    "from": "kierkegaard",
+    "to": "miguel-de-unamuno",
+    "type": "influence",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "religion"
+    ],
+    "noteZh": "W2 seed 身份层挂接：`kierkegaard` 与 `miguel-de-unamuno` 围绕 religion 主题构成 influence 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w2-b1-026-pascal-miguel-de-unamuno-reception",
+    "from": "pascal",
+    "to": "miguel-de-unamuno",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "life_death"
+    ],
+    "noteZh": "W2 seed 身份层挂接：`pascal` 与 `miguel-de-unamuno` 围绕 life_death 主题构成 reception 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w2-b1-027-hegel-giovanni-gentile-reception",
+    "from": "hegel",
+    "to": "giovanni-gentile",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "metaphysics"
+    ],
+    "noteZh": "W2 seed 身份层挂接：`hegel` 与 `giovanni-gentile` 围绕 metaphysics 主题构成 reception 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w2-b1-028-croce-giovanni-gentile-critique",
+    "from": "croce",
+    "to": "giovanni-gentile",
+    "type": "critique",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "politics"
+    ],
+    "noteZh": "W2 seed 身份层挂接：`croce` 与 `giovanni-gentile` 围绕 politics 主题构成 critique 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w2-b1-029-hegel-rg-collingwood-influence",
+    "from": "hegel",
+    "to": "rg-collingwood",
+    "type": "influence",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "knowledge"
+    ],
+    "noteZh": "W2 seed 身份层挂接：`hegel` 与 `rg-collingwood` 围绕 knowledge 主题构成 influence 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w2-b1-030-croce-rg-collingwood-influence",
+    "from": "croce",
+    "to": "rg-collingwood",
+    "type": "influence",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "knowledge"
+    ],
+    "noteZh": "W2 seed 身份层挂接：`croce` 与 `rg-collingwood` 围绕 knowledge 主题构成 influence 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w2-b1-031-hobbes-michael-oakeshott-reception",
+    "from": "hobbes",
+    "to": "michael-oakeshott",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "politics"
+    ],
+    "noteZh": "W2 seed 身份层挂接：`hobbes` 与 `michael-oakeshott` 围绕 politics 主题构成 reception 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w2-b1-032-hayek-michael-oakeshott-shared_problem",
+    "from": "hayek",
+    "to": "michael-oakeshott",
+    "type": "shared_problem",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "politics"
+    ],
+    "noteZh": "W2 seed 身份层挂接：`hayek` 与 `michael-oakeshott` 围绕 politics 主题构成 shared_problem 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w2-b1-033-wittgenstein-gilbert-ryle-influence",
+    "from": "wittgenstein",
+    "to": "gilbert-ryle",
+    "type": "influence",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "language"
+    ],
+    "noteZh": "W2 seed 身份层挂接：`wittgenstein` 与 `gilbert-ryle` 围绕 language 主题构成 influence 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w2-b1-034-gilbert-ryle-descartes-critique",
+    "from": "gilbert-ryle",
+    "to": "descartes",
+    "type": "critique",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "metaphysics"
+    ],
+    "noteZh": "W2 seed 身份层挂接：`gilbert-ryle` 与 `descartes` 围绕 metaphysics 主题构成 critique 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w2-b1-035-wittgenstein-jl-austin-influence",
+    "from": "wittgenstein",
+    "to": "jl-austin",
+    "type": "influence",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "language"
+    ],
+    "noteZh": "W2 seed 身份层挂接：`wittgenstein` 与 `jl-austin` 围绕 language 主题构成 influence 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w2-b1-036-jl-austin-pf-strawson-school",
+    "from": "jl-austin",
+    "to": "pf-strawson",
+    "type": "school",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "language"
+    ],
+    "noteZh": "W2 seed 身份层挂接：`jl-austin` 与 `pf-strawson` 围绕 language 主题构成 school 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w2-b1-037-kant-pf-strawson-reception",
+    "from": "kant",
+    "to": "pf-strawson",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "knowledge"
+    ],
+    "noteZh": "W2 seed 身份层挂接：`kant` 与 `pf-strawson` 围绕 knowledge 主题构成 reception 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w2-b1-038-frege-michael-dummett-reception",
+    "from": "frege",
+    "to": "michael-dummett",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "language"
+    ],
+    "noteZh": "W2 seed 身份层挂接：`frege` 与 `michael-dummett` 围绕 language 主题构成 reception 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w2-b1-039-michael-dummett-wittgenstein-shared_problem",
+    "from": "michael-dummett",
+    "to": "wittgenstein",
+    "type": "shared_problem",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "language"
+    ],
+    "noteZh": "W2 seed 身份层挂接：`michael-dummett` 与 `wittgenstein` 围绕 language 主题构成 shared_problem 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w2-b2-001-rawls-thomas-nagel-shared_problem",
+    "from": "rawls",
+    "to": "thomas-nagel",
+    "type": "shared_problem",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "justice"
+    ],
+    "noteZh": "W2 seed 身份层挂接：`rawls` 与 `thomas-nagel` 围绕 justice 主题构成 shared_problem 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w2-b2-002-thomas-nagel-singer-critique",
+    "from": "thomas-nagel",
+    "to": "singer",
+    "type": "critique",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "ethics"
+    ],
+    "noteZh": "W2 seed 身份层挂接：`thomas-nagel` 与 `singer` 围绕 ethics 主题构成 critique 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w2-b2-003-marx-georges-sorel-reception",
+    "from": "marx",
+    "to": "georges-sorel",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "politics"
+    ],
+    "noteZh": "W2 seed 身份层挂接：`marx` 与 `georges-sorel` 围绕 politics 主题构成 reception 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w2-b2-004-georges-sorel-gramsci-influence",
+    "from": "georges-sorel",
+    "to": "gramsci",
+    "type": "influence",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "politics"
+    ],
+    "noteZh": "W2 seed 身份层挂接：`georges-sorel` 与 `gramsci` 围绕 politics 主题构成 influence 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w2-b2-005-husserl-nicolai-hartmann-shared_problem",
+    "from": "husserl",
+    "to": "nicolai-hartmann",
+    "type": "shared_problem",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "metaphysics"
+    ],
+    "noteZh": "W2 seed 身份层挂接：`husserl` 与 `nicolai-hartmann` 围绕 metaphysics 主题构成 shared_problem 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w2-b2-006-nicolai-hartmann-heidegger-shared_problem",
+    "from": "nicolai-hartmann",
+    "to": "heidegger",
+    "type": "shared_problem",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "metaphysics"
+    ],
+    "noteZh": "W2 seed 身份层挂接：`nicolai-hartmann` 与 `heidegger` 围绕 metaphysics 主题构成 shared_problem 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w2-b2-007-cohen-paul-natorp-school",
+    "from": "cohen",
+    "to": "paul-natorp",
+    "type": "school",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "knowledge"
+    ],
+    "noteZh": "W2 seed 身份层挂接：`cohen` 与 `paul-natorp` 围绕 knowledge 主题构成 school 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w2-b2-008-plato-paul-natorp-reception",
+    "from": "plato",
+    "to": "paul-natorp",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "metaphysics"
+    ],
+    "noteZh": "W2 seed 身份层挂接：`plato` 与 `paul-natorp` 围绕 metaphysics 主题构成 reception 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w2-b2-009-kant-wilhelm-windelband-reception",
+    "from": "kant",
+    "to": "wilhelm-windelband",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "knowledge"
+    ],
+    "noteZh": "W2 seed 身份层挂接：`kant` 与 `wilhelm-windelband` 围绕 knowledge 主题构成 reception 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w2-b2-010-wilhelm-windelband-heinrich-rickert-school",
+    "from": "wilhelm-windelband",
+    "to": "heinrich-rickert",
+    "type": "school",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "knowledge"
+    ],
+    "noteZh": "W2 seed 身份层挂接：`wilhelm-windelband` 与 `heinrich-rickert` 围绕 knowledge 主题构成 school 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w2-b2-011-heinrich-rickert-weber-influence",
+    "from": "heinrich-rickert",
+    "to": "weber",
+    "type": "influence",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "knowledge"
+    ],
+    "noteZh": "W2 seed 身份层挂接：`heinrich-rickert` 与 `weber` 围绕 knowledge 主题构成 influence 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w2-b2-012-dilthey-ernst-troeltsch-influence",
+    "from": "dilthey",
+    "to": "ernst-troeltsch",
+    "type": "influence",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "religion"
+    ],
+    "noteZh": "W2 seed 身份层挂接：`dilthey` 与 `ernst-troeltsch` 围绕 religion 主题构成 influence 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w2-b2-013-ernst-troeltsch-weber-shared_problem",
+    "from": "ernst-troeltsch",
+    "to": "weber",
+    "type": "shared_problem",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "religion"
+    ],
+    "noteZh": "W2 seed 身份层挂接：`ernst-troeltsch` 与 `weber` 围绕 religion 主题构成 shared_problem 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w2-b2-014-maurice-blondel-pascal-shared_problem",
+    "from": "maurice-blondel",
+    "to": "pascal",
+    "type": "shared_problem",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "religion"
+    ],
+    "noteZh": "W2 seed 身份层挂接：`maurice-blondel` 与 `pascal` 围绕 religion 主题构成 shared_problem 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w2-b2-015-maurice-blondel-bergson-shared_problem",
+    "from": "maurice-blondel",
+    "to": "bergson",
+    "type": "shared_problem",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "life_death"
+    ],
+    "noteZh": "W2 seed 身份层挂接：`maurice-blondel` 与 `bergson` 围绕 life_death 主题构成 shared_problem 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w2-b2-016-peirce-ci-lewis-influence",
+    "from": "peirce",
+    "to": "ci-lewis",
+    "type": "influence",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "knowledge"
+    ],
+    "noteZh": "W2 seed 身份层挂接：`peirce` 与 `ci-lewis` 围绕 knowledge 主题构成 influence 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w2-b2-017-ci-lewis-quine-influence",
+    "from": "ci-lewis",
+    "to": "quine",
+    "type": "influence",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "language"
+    ],
+    "noteZh": "W2 seed 身份层挂接：`ci-lewis` 与 `quine` 围绕 language 主题构成 influence 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w2-b2-018-wittgenstein-frank-ramsey-shared_problem",
+    "from": "wittgenstein",
+    "to": "frank-ramsey",
+    "type": "shared_problem",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "language"
+    ],
+    "noteZh": "W2 seed 身份层挂接：`wittgenstein` 与 `frank-ramsey` 围绕 language 主题构成 shared_problem 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w2-b2-019-frank-ramsey-carnap-influence",
+    "from": "frank-ramsey",
+    "to": "carnap",
+    "type": "influence",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "knowledge"
+    ],
+    "noteZh": "W2 seed 身份层挂接：`frank-ramsey` 与 `carnap` 围绕 knowledge 主题构成 influence 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w2-b2-020-russell-susan-stebbing-influence",
+    "from": "russell",
+    "to": "susan-stebbing",
+    "type": "influence",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "language"
+    ],
+    "noteZh": "W2 seed 身份层挂接：`russell` 与 `susan-stebbing` 围绕 language 主题构成 influence 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w2-b2-021-susan-stebbing-aj-ayer-influence",
+    "from": "susan-stebbing",
+    "to": "aj-ayer",
+    "type": "influence",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "language"
+    ],
+    "noteZh": "W2 seed 身份层挂接：`susan-stebbing` 与 `aj-ayer` 围绕 language 主题构成 influence 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w2-b2-022-moore-cd-broad-influence",
+    "from": "moore",
+    "to": "cd-broad",
+    "type": "influence",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "ethics"
+    ],
+    "noteZh": "W2 seed 身份层挂接：`moore` 与 `cd-broad` 围绕 ethics 主题构成 influence 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w2-b2-023-cd-broad-frank-ramsey-shared_problem",
+    "from": "cd-broad",
+    "to": "frank-ramsey",
+    "type": "shared_problem",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "knowledge"
+    ],
+    "noteZh": "W2 seed 身份层挂接：`cd-broad` 与 `frank-ramsey` 围绕 knowledge 主题构成 shared_problem 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w2-b2-024-carnap-aj-ayer-influence",
+    "from": "carnap",
+    "to": "aj-ayer",
+    "type": "influence",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "language"
+    ],
+    "noteZh": "W2 seed 身份层挂接：`carnap` 与 `aj-ayer` 围绕 language 主题构成 influence 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w2-b2-025-quine-nelson-goodman-shared_problem",
+    "from": "quine",
+    "to": "nelson-goodman",
+    "type": "shared_problem",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "knowledge"
+    ],
+    "noteZh": "W2 seed 身份层挂接：`quine` 与 `nelson-goodman` 围绕 knowledge 主题构成 shared_problem 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w2-b2-026-nelson-goodman-davidson-influence",
+    "from": "nelson-goodman",
+    "to": "davidson",
+    "type": "influence",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "language"
+    ],
+    "noteZh": "W2 seed 身份层挂接：`nelson-goodman` 与 `davidson` 围绕 language 主题构成 influence 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w2-b2-027-david-armstrong-quine-shared_problem",
+    "from": "david-armstrong",
+    "to": "quine",
+    "type": "shared_problem",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "metaphysics"
+    ],
+    "noteZh": "W2 seed 身份层挂接：`david-armstrong` 与 `quine` 围绕 metaphysics 主题构成 shared_problem 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w2-b2-028-jjc-smart-david-armstrong-school",
+    "from": "jjc-smart",
+    "to": "david-armstrong",
+    "type": "school",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "metaphysics"
+    ],
+    "noteZh": "W2 seed 身份层挂接：`jjc-smart` 与 `david-armstrong` 围绕 metaphysics 主题构成 school 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w2-b2-029-jjc-smart-singer-influence",
+    "from": "jjc-smart",
+    "to": "singer",
+    "type": "influence",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "ethics"
+    ],
+    "noteZh": "W2 seed 身份层挂接：`jjc-smart` 与 `singer` 围绕 ethics 主题构成 influence 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w2-b2-030-ruth-barcan-marcus-kripke-influence",
+    "from": "ruth-barcan-marcus",
+    "to": "kripke",
+    "type": "influence",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "language"
+    ],
+    "noteZh": "W2 seed 身份层挂接：`ruth-barcan-marcus` 与 `kripke` 围绕 language 主题构成 influence 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w2-b2-031-ruth-barcan-marcus-quine-shared_problem",
+    "from": "ruth-barcan-marcus",
+    "to": "quine",
+    "type": "shared_problem",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "metaphysics"
+    ],
+    "noteZh": "W2 seed 身份层挂接：`ruth-barcan-marcus` 与 `quine` 围绕 metaphysics 主题构成 shared_problem 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w2-b2-032-wittgenstein-john-mcdowell-influence",
+    "from": "wittgenstein",
+    "to": "john-mcdowell",
+    "type": "influence",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "language"
+    ],
+    "noteZh": "W2 seed 身份层挂接：`wittgenstein` 与 `john-mcdowell` 围绕 language 主题构成 influence 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w2-b2-033-john-mcdowell-robert-brandom-school",
+    "from": "john-mcdowell",
+    "to": "robert-brandom",
+    "type": "school",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "language"
+    ],
+    "noteZh": "W2 seed 身份层挂接：`john-mcdowell` 与 `robert-brandom` 围绕 language 主题构成 school 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w2-b2-034-putnam-tyler-burge-influence",
+    "from": "putnam",
+    "to": "tyler-burge",
+    "type": "influence",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "language"
+    ],
+    "noteZh": "W2 seed 身份层挂接：`putnam` 与 `tyler-burge` 围绕 language 主题构成 influence 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w2-b2-035-tyler-burge-davidson-shared_problem",
+    "from": "tyler-burge",
+    "to": "davidson",
+    "type": "shared_problem",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "knowledge"
+    ],
+    "noteZh": "W2 seed 身份层挂接：`tyler-burge` 与 `davidson` 围绕 knowledge 主题构成 shared_problem 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w2-b2-036-rorty-robert-brandom-influence",
+    "from": "rorty",
+    "to": "robert-brandom",
+    "type": "influence",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "knowledge"
+    ],
+    "noteZh": "W2 seed 身份层挂接：`rorty` 与 `robert-brandom` 围绕 knowledge 主题构成 influence 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w2-b2-037-hegel-robert-brandom-reception",
+    "from": "hegel",
+    "to": "robert-brandom",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "freedom"
+    ],
+    "noteZh": "W2 seed 身份层挂接：`hegel` 与 `robert-brandom` 围绕 freedom 主题构成 reception 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w2-b3-001-aquinas-alvin-plantinga-reception",
+    "from": "aquinas",
+    "to": "alvin-plantinga",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "religion"
+    ],
+    "noteZh": "W2 seed 身份层挂接：`aquinas` 与 `alvin-plantinga` 围绕 religion 主题构成 reception 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w2-b3-002-alvin-plantinga-richard-swinburne-shared_problem",
+    "from": "alvin-plantinga",
+    "to": "richard-swinburne",
+    "type": "shared_problem",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "religion"
+    ],
+    "noteZh": "W2 seed 身份层挂接：`alvin-plantinga` 与 `richard-swinburne` 围绕 religion 主题构成 shared_problem 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w2-b3-003-aquinas-richard-swinburne-reception",
+    "from": "aquinas",
+    "to": "richard-swinburne",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "religion"
+    ],
+    "noteZh": "W2 seed 身份层挂接：`aquinas` 与 `richard-swinburne` 围绕 religion 主题构成 reception 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w2-b3-004-wittgenstein-rm-hare-influence",
+    "from": "wittgenstein",
+    "to": "rm-hare",
+    "type": "influence",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "language"
+    ],
+    "noteZh": "W2 seed 身份层挂接：`wittgenstein` 与 `rm-hare` 围绕 language 主题构成 influence 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w2-b3-005-rm-hare-singer-influence",
+    "from": "rm-hare",
+    "to": "singer",
+    "type": "influence",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "ethics"
+    ],
+    "noteZh": "W2 seed 身份层挂接：`rm-hare` 与 `singer` 围绕 ethics 主题构成 influence 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w2-b3-006-judith-jarvis-thomson-singer-shared_problem",
+    "from": "judith-jarvis-thomson",
+    "to": "singer",
+    "type": "shared_problem",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "ethics"
+    ],
+    "noteZh": "W2 seed 身份层挂接：`judith-jarvis-thomson` 与 `singer` 围绕 ethics 主题构成 shared_problem 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w2-b3-007-judith-jarvis-thomson-rawls-shared_problem",
+    "from": "judith-jarvis-thomson",
+    "to": "rawls",
+    "type": "shared_problem",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "justice"
+    ],
+    "noteZh": "W2 seed 身份层挂接：`judith-jarvis-thomson` 与 `rawls` 围绕 justice 主题构成 shared_problem 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w2-b3-008-dewey-jane-addams-school",
+    "from": "dewey",
+    "to": "jane-addams",
+    "type": "school",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "politics"
+    ],
+    "noteZh": "W2 seed 身份层挂接：`dewey` 与 `jane-addams` 围绕 politics 主题构成 school 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w2-b3-009-james-jane-addams-shared_problem",
+    "from": "james",
+    "to": "jane-addams",
+    "type": "shared_problem",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "ethics"
+    ],
+    "noteZh": "W2 seed 身份层挂接：`james` 与 `jane-addams` 围绕 ethics 主题构成 shared_problem 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w2-b3-010-du-bois-alain-locke-shared_problem",
+    "from": "du-bois",
+    "to": "alain-locke",
+    "type": "shared_problem",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "politics"
+    ],
+    "noteZh": "W2 seed 身份层挂接：`du-bois` 与 `alain-locke` 围绕 politics 主题构成 shared_problem 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w2-b3-011-james-alain-locke-influence",
+    "from": "james",
+    "to": "alain-locke",
+    "type": "influence",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "aesthetics"
+    ],
+    "noteZh": "W2 seed 身份层挂接：`james` 与 `alain-locke` 围绕 aesthetics 主题构成 influence 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w2-b3-012-dewey-george-herbert-mead-school",
+    "from": "dewey",
+    "to": "george-herbert-mead",
+    "type": "school",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "knowledge"
+    ],
+    "noteZh": "W2 seed 身份层挂接：`dewey` 与 `george-herbert-mead` 围绕 knowledge 主题构成 school 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w2-b3-013-james-george-herbert-mead-influence",
+    "from": "james",
+    "to": "george-herbert-mead",
+    "type": "influence",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "knowledge"
+    ],
+    "noteZh": "W2 seed 身份层挂接：`james` 与 `george-herbert-mead` 围绕 knowledge 主题构成 influence 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w2-b3-014-plato-leo-strauss-reception",
+    "from": "plato",
+    "to": "leo-strauss",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "politics"
+    ],
+    "noteZh": "W2 seed 身份层挂接：`plato` 与 `leo-strauss` 围绕 politics 主题构成 reception 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w2-b3-015-leo-strauss-schmitt-critique",
+    "from": "leo-strauss",
+    "to": "schmitt",
+    "type": "critique",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "politics"
+    ],
+    "noteZh": "W2 seed 身份层挂接：`leo-strauss` 与 `schmitt` 围绕 politics 主题构成 critique 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w2-b3-016-rousseau-judith-shklar-reception",
+    "from": "rousseau",
+    "to": "judith-shklar",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "politics"
+    ],
+    "noteZh": "W2 seed 身份层挂接：`rousseau` 与 `judith-shklar` 围绕 politics 主题构成 reception 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w2-b3-017-judith-shklar-rawls-shared_problem",
+    "from": "judith-shklar",
+    "to": "rawls",
+    "type": "shared_problem",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "justice"
+    ],
+    "noteZh": "W2 seed 身份层挂接：`judith-shklar` 与 `rawls` 围绕 justice 主题构成 shared_problem 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w2-b3-018-heidegger-hans-jonas-direct_student",
+    "from": "heidegger",
+    "to": "hans-jonas",
+    "type": "direct_student",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "life_death"
+    ],
+    "noteZh": "W2 seed 身份层挂接：`heidegger` 与 `hans-jonas` 围绕 life_death 主题构成 direct_student 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w2-b3-019-hans-jonas-arendt-shared_problem",
+    "from": "hans-jonas",
+    "to": "arendt",
+    "type": "shared_problem",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "ethics"
+    ],
+    "noteZh": "W2 seed 身份层挂接：`hans-jonas` 与 `arendt` 围绕 ethics 主题构成 shared_problem 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w2-b3-020-heidegger-karl-lowith-direct_student",
+    "from": "heidegger",
+    "to": "karl-lowith",
+    "type": "direct_student",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "knowledge"
+    ],
+    "noteZh": "W2 seed 身份层挂接：`heidegger` 与 `karl-lowith` 围绕 knowledge 主题构成 direct_student 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w2-b3-021-karl-lowith-nietzsche-reception",
+    "from": "karl-lowith",
+    "to": "nietzsche",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "life_death"
+    ],
+    "noteZh": "W2 seed 身份层挂接：`karl-lowith` 与 `nietzsche` 围绕 life_death 主题构成 reception 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w2-b3-022-eric-voegelin-arendt-shared_problem",
+    "from": "eric-voegelin",
+    "to": "arendt",
+    "type": "shared_problem",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "politics"
+    ],
+    "noteZh": "W2 seed 身份层挂接：`eric-voegelin` 与 `arendt` 围绕 politics 主题构成 shared_problem 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w2-b3-023-eric-voegelin-hegel-critique",
+    "from": "eric-voegelin",
+    "to": "hegel",
+    "type": "critique",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "religion"
+    ],
+    "noteZh": "W2 seed 身份层挂接：`eric-voegelin` 与 `hegel` 围绕 religion 主题构成 critique 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w2-b3-024-aquinas-jacques-maritain-reception",
+    "from": "aquinas",
+    "to": "jacques-maritain",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "religion"
+    ],
+    "noteZh": "W2 seed 身份层挂接：`aquinas` 与 `jacques-maritain` 围绕 religion 主题构成 reception 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w2-b3-025-bergson-jacques-maritain-influence",
+    "from": "bergson",
+    "to": "jacques-maritain",
+    "type": "influence",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "knowledge"
+    ],
+    "noteZh": "W2 seed 身份层挂接：`bergson` 与 `jacques-maritain` 围绕 knowledge 主题构成 influence 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w2-b3-026-hegel-alexandre-kojeve-reception",
+    "from": "hegel",
+    "to": "alexandre-kojeve",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "freedom"
+    ],
+    "noteZh": "W2 seed 身份层挂接：`hegel` 与 `alexandre-kojeve` 围绕 freedom 主题构成 reception 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w2-b3-027-alexandre-kojeve-sartre-influence",
+    "from": "alexandre-kojeve",
+    "to": "sartre",
+    "type": "influence",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "life_death"
+    ],
+    "noteZh": "W2 seed 身份层挂接：`alexandre-kojeve` 与 `sartre` 围绕 life_death 主题构成 influence 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w2-b3-028-marx-louis-althusser-reception",
+    "from": "marx",
+    "to": "louis-althusser",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "politics"
+    ],
+    "noteZh": "W2 seed 身份层挂接：`marx` 与 `louis-althusser` 围绕 politics 主题构成 reception 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w2-b3-029-louis-althusser-derrida-influence",
+    "from": "louis-althusser",
+    "to": "derrida",
+    "type": "influence",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "language"
+    ],
+    "noteZh": "W2 seed 身份层挂接：`louis-althusser` 与 `derrida` 围绕 language 主题构成 influence 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w2-b3-030-gilbert-simondon-deleuze-influence",
+    "from": "gilbert-simondon",
+    "to": "deleuze",
+    "type": "influence",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "metaphysics"
+    ],
+    "noteZh": "W2 seed 身份层挂接：`gilbert-simondon` 与 `deleuze` 围绕 metaphysics 主题构成 influence 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w2-b3-031-bergson-gilbert-simondon-influence",
+    "from": "bergson",
+    "to": "gilbert-simondon",
+    "type": "influence",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "metaphysics"
+    ],
+    "noteZh": "W2 seed 身份层挂接：`bergson` 与 `gilbert-simondon` 围绕 metaphysics 主题构成 influence 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w2-b3-032-husserl-michel-henry-reception",
+    "from": "husserl",
+    "to": "michel-henry",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "knowledge"
+    ],
+    "noteZh": "W2 seed 身份层挂接：`husserl` 与 `michel-henry` 围绕 knowledge 主题构成 reception 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w2-b3-033-michel-henry-marx-reception",
+    "from": "michel-henry",
+    "to": "marx",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "politics"
+    ],
+    "noteZh": "W2 seed 身份层挂接：`michel-henry` 与 `marx` 围绕 politics 主题构成 reception 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w2-b3-034-husserl-jan-patocka-influence",
+    "from": "husserl",
+    "to": "jan-patocka",
+    "type": "influence",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "knowledge"
+    ],
+    "noteZh": "W2 seed 身份层挂接：`husserl` 与 `jan-patocka` 围绕 knowledge 主题构成 influence 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w2-b3-035-jan-patocka-arendt-shared_problem",
+    "from": "jan-patocka",
+    "to": "arendt",
+    "type": "shared_problem",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "politics"
+    ],
+    "noteZh": "W2 seed 身份层挂接：`jan-patocka` 与 `arendt` 围绕 politics 主题构成 shared_problem 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w2-b3-036-marx-leszek-kolakowski-critique",
+    "from": "marx",
+    "to": "leszek-kolakowski",
+    "type": "critique",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "politics"
+    ],
+    "noteZh": "W2 seed 身份层挂接：`marx` 与 `leszek-kolakowski` 围绕 politics 主题构成 critique 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w2-b3-037-leszek-kolakowski-louis-althusser-critique",
+    "from": "leszek-kolakowski",
+    "to": "louis-althusser",
+    "type": "critique",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "knowledge"
+    ],
+    "noteZh": "W2 seed 身份层挂接：`leszek-kolakowski` 与 `louis-althusser` 围绕 knowledge 主题构成 critique 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w2-b3-038-marx-cornelius-castoriadis-critique",
+    "from": "marx",
+    "to": "cornelius-castoriadis",
+    "type": "critique",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "politics"
+    ],
+    "noteZh": "W2 seed 身份层挂接：`marx` 与 `cornelius-castoriadis` 围绕 politics 主题构成 critique 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seed-w2-b3-039-cornelius-castoriadis-habermas-shared_problem",
+    "from": "cornelius-castoriadis",
+    "to": "habermas",
+    "type": "shared_problem",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "freedom"
+    ],
+    "noteZh": "W2 seed 身份层挂接：`cornelius-castoriadis` 与 `habermas` 围绕 freedom 主题构成 shared_problem 关系，供后续标准档研究复核。",
+    "reviewStatus": "draft"
   }
 ]

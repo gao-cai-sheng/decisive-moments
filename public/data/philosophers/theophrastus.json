@@ -1,30 +1,285 @@
 {
   "id": "theophrastus",
-  "names": {"zh": "泰奥弗拉斯托斯", "en": "Theophrastus"},
-  "life": {"birth": -371, "death": -287, "display": "约前 371—前 287"},
+  "names": {
+    "zh": "泰奥弗拉斯托斯",
+    "en": "Theophrastus"
+  },
+  "life": {
+    "birth": -371,
+    "death": -287,
+    "display": "约前 371—前 287"
+  },
   "civilization": "ancient_greek",
-  "traditions": ["peripatetic_school", "ancient_greek_philosophy"],
-  "periods": ["first_release"],
-  "themes": ["knowledge", "ethics", "life_death"],
-  "keywordsZh": ["知识", "伦理", "生死"],
+  "traditions": [
+    "peripatetic_school",
+    "ancient_greek_philosophy"
+  ],
+  "periods": [
+    "first_release"
+  ],
+  "themes": [
+    "knowledge",
+    "ethics",
+    "life_death"
+  ],
+  "keywordsZh": [
+    "知识",
+    "伦理",
+    "生死"
+  ],
   "oneLineZh": "亚里士多德继承者，扩展逍遥学派自然研究、植物学、性格描写和学术制度。",
   "influenceWeight": 1,
   "reviewStatus": "draft",
   "summaryZh": "亚里士多德继承者，扩展逍遥学派自然研究、植物学、性格描写和学术制度。本条目以 summary_only 方式整理。",
-  "works": ["theophrastus-primary-work"],
-  "sourceNotes": [{"label": "primary-dossier", "noteZh": "采用《植物研究》《植物原因》《性格》、第欧根尼·拉尔修和现代逍遥学派研究。"}, {"label": "excerpt-status", "noteZh": "全部 evidence 使用 summary_only。"}],
-  "thoughtSystem": {"problems": [
-    {"id": "theophrastus:problem:001", "titleZh": "逍遥学派如何制度化研究？", "questionZh": "泰奥弗拉斯托斯如何继承并扩展亚里士多德的学院、分类和经验研究传统？", "summaryZh": "他把逍遥学派从亚里士多德个人体系推进为持续研究共同体，尤其在自然史领域形成制度化积累。", "themeIds": ["knowledge"], "weight": 3, "claims": [
-      {"id": "theophrastus:claim:001", "titleZh": "学园继承维持研究共同体", "claimZh": "泰奥弗拉斯托斯作为吕克昂继承者，维系并扩展亚里士多德式研究制度。", "explanationZh": "他的意义不只是个人理论，也在于组织知识、保存资料和发展学科。", "themeIds": ["knowledge"], "weight": 3, "evidence": [{"id": "theophrastus:evidence:001", "titleZh": "第欧根尼·拉尔修传记", "summaryZh": "传记记录他继承亚里士多德、拥有大量学生和著作，说明其在逍遥学园中的地位和职责功能。", "source": {"workId": "theophrastus-primary-work", "locator": "Diogenes Laertius V.36-57 on Theophrastus' succession, school and writings", "excerptStatus": "summary_only"}}, {"id": "theophrastus:evidence:002", "titleZh": "遗嘱和学园材料", "summaryZh": "传记保存遗嘱，显示学园财产、共同体和研究生活的制度面，反映学派组织形态基础材料。", "source": {"workId": "theophrastus-primary-work", "locator": "Diogenes Laertius V.51-57 on Theophrastus' will and Lyceum arrangements", "excerptStatus": "summary_only"}}]},
-      {"id": "theophrastus:claim:002", "titleZh": "逍遥方法重视分类和原因", "claimZh": "泰奥弗拉斯托斯继承亚里士多德的分类、观察和原因解释方法，并用于新对象领域。", "explanationZh": "这使哲学与自然研究之间没有硬隔离。", "themeIds": ["knowledge", "metaphysics"], "weight": 2, "evidence": [{"id": "theophrastus:evidence:003", "titleZh": "植物研究的分类方法", "summaryZh": "《植物研究》按种类、部分、生长环境和用途组织植物材料，展现系统分类意识和观察方法。", "source": {"workId": "theophrastus-primary-work", "locator": "Theophrastus, Historia Plantarum I on classification and plant parts", "excerptStatus": "summary_only"}}, {"id": "theophrastus:evidence:004", "titleZh": "现代科学史定位", "summaryZh": "现代研究常把他视为植物学和逍遥自然史传统的关键人物，强调其观察积累价值和方法意义。", "source": {"workId": "theophrastus-primary-work", "locator": "Modern scholarship on Theophrastus, Peripatetic method and natural history", "excerptStatus": "summary_only"}}]}
-    ]},
-    {"id": "theophrastus:problem:002", "titleZh": "植物研究为何是哲学问题？", "questionZh": "为什么植物分类、生长和原因研究属于古代哲学中的自然研究？", "summaryZh": "泰奥弗拉斯托斯把植物作为有结构、有生长原因和环境条件的自然对象，扩展生命研究范围。", "themeIds": ["life_death", "knowledge"], "weight": 3, "claims": [
-      {"id": "theophrastus:claim:003", "titleZh": "植物拥有可系统研究的结构", "claimZh": "他详细区分植物部分、生殖、生长环境和差异，说明植物不是低等杂项而是理论对象。", "explanationZh": "这扩大了哲学自然史的经验基础。", "themeIds": ["life_death", "knowledge"], "weight": 3, "evidence": [{"id": "theophrastus:evidence:005", "titleZh": "《植物研究》", "summaryZh": "该书系统讨论植物部分、树木、灌木、草本和栽培植物，构成早期植物研究框架基础结构。", "source": {"workId": "theophrastus-primary-work", "locator": "Theophrastus, Historia Plantarum I-II on plant parts and kinds", "excerptStatus": "summary_only"}}, {"id": "theophrastus:evidence:006", "titleZh": "植物生殖和环境", "summaryZh": "文本关注种子、繁殖、土壤、气候与生长差异，说明植物变化依赖环境条件影响机制层面。", "source": {"workId": "theophrastus-primary-work", "locator": "Theophrastus, Historia Plantarum II-IV on propagation and habitats", "excerptStatus": "summary_only"}}]},
-      {"id": "theophrastus:claim:004", "titleZh": "原因研究连接经验与解释", "claimZh": "《植物原因》不只罗列现象，还追问生长、味道、疾病和变化的原因。", "explanationZh": "这体现逍遥学派从观察到因果说明的研究路线。", "themeIds": ["knowledge"], "weight": 2, "evidence": [{"id": "theophrastus:evidence:007", "titleZh": "《植物原因》", "summaryZh": "该书围绕植物生长、结果、味道和病害提出原因解释，体现逍遥学派自然研究方法传统特征。", "source": {"workId": "theophrastus-primary-work", "locator": "Theophrastus, De Causis Plantarum I-II on causes of growth and cultivation", "excerptStatus": "summary_only"}}, {"id": "theophrastus:evidence:008", "titleZh": "经验科学史解释", "summaryZh": "研究强调其自然史方法兼具观察、分类和原因分析，不只是材料罗列或经验堆积方式类型。", "source": {"workId": "theophrastus-primary-work", "locator": "Modern scholarship on Theophrastus' botanical causation", "excerptStatus": "summary_only"}}]}
-    ]},
-    {"id": "theophrastus:problem:003", "titleZh": "性格描写如何成为伦理知识？", "questionZh": "《性格》如何通过类型化微行为揭示社会伦理和日常品格？", "summaryZh": "《性格》把伦理从宏大德性转向日常行为和社会观察，形成微型道德心理学。", "themeIds": ["ethics", "language"], "weight": 2, "claims": [
-      {"id": "theophrastus:claim:005", "titleZh": "性格可通过行为细节识别", "claimZh": "《性格》用吝啬、谄媚、粗鲁等类型展示品格如何在小行为中显现。", "explanationZh": "这使伦理知识带有观察、分类和文学刻画的形式。", "themeIds": ["ethics"], "weight": 3, "evidence": [{"id": "theophrastus:evidence:009", "titleZh": "《性格》类型目录", "summaryZh": "文本以短章描绘多种日常品格类型，体现逍遥学派对行为细节的观察和分类意识方式本身。", "source": {"workId": "theophrastus-primary-work", "locator": "Theophrastus, Characters, preface and character sketches", "excerptStatus": "summary_only"}}, {"id": "theophrastus:evidence:010", "titleZh": "伦理观察传统", "summaryZh": "现代研究将《性格》视为伦理、修辞和社会观察的交叉文本，说明其文体复杂性和用途关系。", "source": {"workId": "theophrastus-primary-work", "locator": "Modern scholarship on Theophrastus' Characters and ethical typology", "excerptStatus": "summary_only"}}]},
-      {"id": "theophrastus:claim:006", "titleZh": "逍遥伦理保留经验敏感性", "claimZh": "泰奥弗拉斯托斯的伦理兴趣体现对处境、习惯和可观察行为的敏感。", "explanationZh": "这补充了亚里士多德德性理论的社会心理面。", "themeIds": ["ethics", "knowledge"], "weight": 2, "evidence": [{"id": "theophrastus:evidence:011", "titleZh": "德性与外在条件争议", "summaryZh": "古代资料显示泰奥弗拉斯托斯对外在善和幸福关系更敏感，补充亚里士多德伦理传统问题。", "source": {"workId": "theophrastus-primary-work", "locator": "Cicero and later testimonia on Theophrastus, virtue and external goods", "excerptStatus": "summary_only"}}, {"id": "theophrastus:evidence:012", "titleZh": "逍遥伦理研究", "summaryZh": "研究常把他置于亚里士多德之后逍遥伦理发展中，考察幸福和外在条件关系问题脉络结构。", "source": {"workId": "theophrastus-primary-work", "locator": "Modern scholarship on Theophrastus' ethics and Peripatetic tradition", "excerptStatus": "summary_only"}}]}
-    ]}
-  ]}
+  "works": [
+    "theophrastus-primary-work"
+  ],
+  "sourceNotes": [
+    {
+      "label": "primary-dossier",
+      "noteZh": "采用《植物研究》《植物原因》《性格》、第欧根尼·拉尔修和现代逍遥学派研究。"
+    },
+    {
+      "label": "excerpt-status",
+      "noteZh": "全部 evidence 使用 summary_only。"
+    }
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "theophrastus:problem:001",
+        "titleZh": "逍遥学派如何制度化研究？",
+        "questionZh": "泰奥弗拉斯托斯如何继承并扩展亚里士多德的学院、分类和经验研究传统？",
+        "summaryZh": "他把逍遥学派从亚里士多德个人体系推进为持续研究共同体，尤其在自然史领域形成制度化积累。",
+        "themeIds": [
+          "knowledge"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "theophrastus:claim:001",
+            "titleZh": "学园继承维持研究共同体",
+            "claimZh": "泰奥弗拉斯托斯作为吕克昂继承者，维系并扩展亚里士多德式研究制度。",
+            "explanationZh": "他的意义不只是个人理论，也在于组织知识、保存资料和发展学科。",
+            "themeIds": [
+              "knowledge"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "theophrastus:evidence:001",
+                "titleZh": "第欧根尼·拉尔修传记",
+                "summaryZh": "传记记录他继承亚里士多德、拥有大量学生和著作，说明其在逍遥学园中的地位和职责功能。",
+                "source": {
+                  "workId": "theophrastus-primary-work",
+                  "locator": "Diogenes Laertius V.36-57 on Theophrastus' succession, school and writings",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "theophrastus:evidence:002",
+                "titleZh": "遗嘱和学园材料",
+                "summaryZh": "传记保存遗嘱，显示学园财产、共同体和研究生活的制度面，反映学派组织形态基础材料。",
+                "source": {
+                  "workId": "theophrastus-primary-work",
+                  "locator": "Diogenes Laertius V.51-57 on Theophrastus' will and Lyceum arrangements",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "theophrastus:claim:002",
+            "titleZh": "逍遥方法重视分类和原因",
+            "claimZh": "泰奥弗拉斯托斯继承亚里士多德的分类、观察和原因解释方法，并用于新对象领域。",
+            "explanationZh": "这使哲学与自然研究之间没有硬隔离。",
+            "themeIds": [
+              "knowledge",
+              "metaphysics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "theophrastus:evidence:003",
+                "titleZh": "植物研究的分类方法",
+                "summaryZh": "《植物研究》按种类、部分、生长环境和用途组织植物材料，展现系统分类意识和观察方法。",
+                "source": {
+                  "workId": "theophrastus-primary-work",
+                  "locator": "Theophrastus, Historia Plantarum I on classification and plant parts",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "theophrastus:evidence:004",
+                "titleZh": "现代科学史定位",
+                "summaryZh": "现代研究常把他视为植物学和逍遥自然史传统的关键人物，强调其观察积累价值和方法意义。",
+                "source": {
+                  "workId": "theophrastus-primary-work",
+                  "locator": "Modern scholarship on Theophrastus, Peripatetic method and natural history",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "theophrastus:problem:002",
+        "titleZh": "植物研究为何是哲学问题？",
+        "questionZh": "为什么植物分类、生长和原因研究属于古代哲学中的自然研究？",
+        "summaryZh": "泰奥弗拉斯托斯把植物作为有结构、有生长原因和环境条件的自然对象，扩展生命研究范围。",
+        "themeIds": [
+          "life_death",
+          "knowledge"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "theophrastus:claim:003",
+            "titleZh": "植物拥有可系统研究的结构",
+            "claimZh": "他详细区分植物部分、生殖、生长环境和差异，说明植物不是低等杂项而是理论对象。",
+            "explanationZh": "这扩大了哲学自然史的经验基础。",
+            "themeIds": [
+              "life_death",
+              "knowledge"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "theophrastus:evidence:005",
+                "titleZh": "《植物研究》",
+                "summaryZh": "该书系统讨论植物部分、树木、灌木、草本和栽培植物，构成早期植物研究框架基础结构。",
+                "source": {
+                  "workId": "theophrastus-primary-work",
+                  "locator": "Theophrastus, Historia Plantarum I-II on plant parts and kinds",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "theophrastus:evidence:006",
+                "titleZh": "植物生殖和环境",
+                "summaryZh": "文本关注种子、繁殖、土壤、气候与生长差异，说明植物变化依赖环境条件影响机制层面。",
+                "source": {
+                  "workId": "theophrastus-primary-work",
+                  "locator": "Theophrastus, Historia Plantarum II-IV on propagation and habitats",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "theophrastus:claim:004",
+            "titleZh": "原因研究连接经验与解释",
+            "claimZh": "《植物原因》不只罗列现象，还追问生长、味道、疾病和变化的原因。",
+            "explanationZh": "这体现逍遥学派从观察到因果说明的研究路线。",
+            "themeIds": [
+              "knowledge"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "theophrastus:evidence:007",
+                "titleZh": "《植物原因》",
+                "summaryZh": "该书围绕植物生长、结果、味道和病害提出原因解释，体现逍遥学派自然研究方法传统特征。",
+                "source": {
+                  "workId": "theophrastus-primary-work",
+                  "locator": "Theophrastus, De Causis Plantarum I-II on causes of growth and cultivation",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "theophrastus:evidence:008",
+                "titleZh": "经验科学史解释",
+                "summaryZh": "研究强调其自然史方法兼具观察、分类和原因分析，不只是材料罗列或经验堆积方式类型。",
+                "source": {
+                  "workId": "theophrastus-primary-work",
+                  "locator": "Modern scholarship on Theophrastus' botanical causation",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "theophrastus:problem:003",
+        "titleZh": "性格描写如何成为伦理知识？",
+        "questionZh": "《性格》如何通过类型化微行为揭示社会伦理和日常品格？",
+        "summaryZh": "《性格》把伦理从宏大德性转向日常行为和社会观察，形成微型道德心理学。",
+        "themeIds": [
+          "ethics",
+          "language"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "theophrastus:claim:005",
+            "titleZh": "性格可通过行为细节识别",
+            "claimZh": "《性格》用吝啬、谄媚、粗鲁等类型展示品格如何在小行为中显现。",
+            "explanationZh": "这使伦理知识带有观察、分类和文学刻画的形式。",
+            "themeIds": [
+              "ethics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "theophrastus:evidence:009",
+                "titleZh": "《性格》类型目录",
+                "summaryZh": "文本以短章描绘多种日常品格类型，体现逍遥学派对行为细节的观察和分类意识方式本身。",
+                "source": {
+                  "workId": "theophrastus-primary-work",
+                  "locator": "Theophrastus, Characters, preface and character sketches",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "theophrastus:evidence:010",
+                "titleZh": "伦理观察传统",
+                "summaryZh": "现代研究将《性格》视为伦理、修辞和社会观察的交叉文本，说明其文体复杂性和用途关系。",
+                "source": {
+                  "workId": "theophrastus-primary-work",
+                  "locator": "Modern scholarship on Theophrastus' Characters and ethical typology",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "theophrastus:claim:006",
+            "titleZh": "逍遥伦理保留经验敏感性",
+            "claimZh": "泰奥弗拉斯托斯的伦理兴趣体现对处境、习惯和可观察行为的敏感。",
+            "explanationZh": "这补充了亚里士多德德性理论的社会心理面。",
+            "themeIds": [
+              "ethics",
+              "knowledge"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "theophrastus:evidence:011",
+                "titleZh": "德性与外在条件争议",
+                "summaryZh": "古代资料显示泰奥弗拉斯托斯对外在善和幸福关系更敏感，补充亚里士多德伦理传统问题。",
+                "source": {
+                  "workId": "theophrastus-primary-work",
+                  "locator": "Cicero and later testimonia on Theophrastus, virtue and external goods",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "theophrastus:evidence:012",
+                "titleZh": "逍遥伦理研究",
+                "summaryZh": "研究常把他置于亚里士多德之后逍遥伦理发展中，考察幸福和外在条件关系问题脉络结构。",
+                "source": {
+                  "workId": "theophrastus-primary-work",
+                  "locator": "Modern scholarship on Theophrastus' ethics and Peripatetic tradition",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "tier": "standard"
 }

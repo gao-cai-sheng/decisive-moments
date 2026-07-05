@@ -88,6 +88,29 @@ YELLOW 0
 - `missing_locator`
 - 模糊 locator / 假引文 / claim 复述题目 / theme 覆盖不足等 RED。
 
+## 2.5 种子档 seed-tier 分支
+
+仅适用于已由主循环明确标注为 `--tier seed` 的候选批。名单批准前不得生产 seed batch；seed 批只允许身份层，禁止携带 thoughtSystem。
+
+门禁顺序：
+
+```bash
+node tools/validate-kimi-research.mjs "$BATCH"
+node tools/admit-kimi-batch.mjs "$BATCH" --tier seed
+```
+
+通过标准：
+
+- `validate-kimi-research` 退出码 0；sources.md 至少定义一个 S###，claims.json 每条 claim 都有已定义 sourceIds。
+- `admit-kimi-batch --tier seed` 退出码 0，且输出只允许 dry run，不得写正式库。
+- proposed philosopher 必须是 `tier: "seed"` 或不显式写 tier；若显式写其他 tier，直接 REJECT。
+- seed philosopher 必须有 sourceNotes；sourceNotes 为空、缺 URL/条目说明、或来源条目名无法支撑身份层，直接 REJECT。
+- seed philosopher 禁止携带 thoughtSystem；batch 中 thought-systems.json 若含任何 item，直接 REJECT。
+- 每位 seed 必须有 1-2 个真实作品、2-3 条关系、不得使用 `primary-work` / `placeholder` / `candidate` 等占位 workId。
+- 种子档不运行标准档门3内容审计；盲审员改查身份层完整性、来源可追溯性、人物真实性与去重边界。
+
+若 seed 批缺来源引用，必须按 checklist 结论 REJECT；不得以“后续补源”放行。
+
 ## 3. 独立仪器：summaryZh 两两相似度
 
 盲审员必须自写或使用下列脚本独立计算，不依赖 `quality-audit.mjs` 的实现。目的：双仪器防单点失效。

@@ -1,0 +1,43 @@
+{
+  "id": "karl-lowith",
+  "tier": "seed",
+  "names": {
+    "zh": "卡尔·洛维特",
+    "en": "Karl Löwith"
+  },
+  "life": {
+    "birth": 1897,
+    "death": 1973,
+    "display": "1897—1973"
+  },
+  "civilization": "western",
+  "traditions": [
+    "western_philosophy"
+  ],
+  "periods": [
+    "modern"
+  ],
+  "themes": [
+    "knowledge",
+    "metaphysics"
+  ],
+  "keywordsZh": [
+    "身份层",
+    "二线哲人",
+    "思想史补线"
+  ],
+  "oneLineZh": "世俗化历史哲学批判代表，可补海德格尔、尼采与现代历史意识线索。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "卡尔·洛维特（1897—1973）是 W2 欧陆与英美近现代二线哲人候选。其身份层入选理由为：世俗化历史哲学批判代表，可补海德格尔、尼采与现代历史意识线索。 本条仅作 seed 档基本定位，后续若升级标准档，需要重新做著作、论点与 evidence 研究。",
+  "works": [
+    "karl-lowith-meaning-in-history",
+    "karl-lowith-from-hegel-to-nietzsche"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S011",
+      "noteZh": "权威来源条目：IEP: Karl Löwith；用于核验人物身份、生卒、代表著作和思想史定位。"
+    }
+  ]
+}

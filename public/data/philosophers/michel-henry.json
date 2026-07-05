@@ -1,0 +1,43 @@
+{
+  "id": "michel-henry",
+  "tier": "seed",
+  "names": {
+    "zh": "米歇尔·亨利",
+    "en": "Michel Henry"
+  },
+  "life": {
+    "birth": 1922,
+    "death": 2002,
+    "display": "1922—2002"
+  },
+  "civilization": "western",
+  "traditions": [
+    "phenomenology"
+  ],
+  "periods": [
+    "contemporary"
+  ],
+  "themes": [
+    "life_death",
+    "knowledge"
+  ],
+  "keywordsZh": [
+    "生命现象学",
+    "身份层",
+    "二线哲人"
+  ],
+  "oneLineZh": "生命现象学代表，可补法国现象学的非海德格尔分支。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "米歇尔·亨利（1922—2002）是 W2 欧陆与英美近现代二线哲人候选。其身份层入选理由为：生命现象学代表，可补法国现象学的非海德格尔分支。 本条仅作 seed 档基本定位，后续若升级标准档，需要重新做著作、论点与 evidence 研究。",
+  "works": [
+    "michel-henry-essence-of-manifestation",
+    "michel-henry-i-am-the-truth"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S017",
+      "noteZh": "权威来源条目：SEP: Michel Henry；用于核验人物身份、生卒、代表著作和思想史定位。"
+    }
+  ]
+}

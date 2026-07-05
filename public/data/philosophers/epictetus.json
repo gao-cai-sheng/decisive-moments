@@ -1,30 +1,289 @@
 {
   "id": "epictetus",
-  "names": {"zh": "爱比克泰德", "en": "Epictetus"},
-  "life": {"birth": 50, "death": 135, "display": "约 50—135"},
+  "names": {
+    "zh": "爱比克泰德",
+    "en": "Epictetus"
+  },
+  "life": {
+    "birth": 50,
+    "death": 135,
+    "display": "约 50—135"
+  },
   "civilization": "ancient_greek",
-  "traditions": ["stoicism", "roman_philosophy"],
-  "periods": ["first_release"],
-  "themes": ["ethics", "freedom", "knowledge"],
-  "keywordsZh": ["伦理", "自由", "知识"],
+  "traditions": [
+    "stoicism",
+    "roman_philosophy"
+  ],
+  "periods": [
+    "first_release"
+  ],
+  "themes": [
+    "ethics",
+    "freedom",
+    "knowledge"
+  ],
+  "keywordsZh": [
+    "伦理",
+    "自由",
+    "知识"
+  ],
   "oneLineZh": "罗马斯多葛教师，以控制二分、同意训练和内在自由构成最具实践性的斯多葛手册传统。",
   "influenceWeight": 1,
   "reviewStatus": "draft",
   "summaryZh": "罗马斯多葛教师，以控制二分、同意训练和内在自由构成最具实践性的斯多葛手册传统。本条目以 summary_only 方式整理。",
-  "works": ["epictetus-primary-work"],
-  "sourceNotes": [{"label": "primary-dossier", "noteZh": "采用阿里安记录的《论谈》《手册》和现代斯多葛研究。"}, {"label": "excerpt-status", "noteZh": "全部 evidence 使用 summary_only。"}],
-  "thoughtSystem": {"problems": [
-    {"id": "epictetus:problem:001", "titleZh": "什么在我们控制之内？", "questionZh": "爱比克泰德如何通过控制二分重建自由、责任和痛苦来源？", "summaryZh": "他把自由建立在判断、欲望、趋避和同意等内在能力上，而非外部结果。", "themeIds": ["freedom", "ethics"], "weight": 3, "claims": [
-      {"id": "epictetus:claim:001", "titleZh": "自由来自控制判断", "claimZh": "爱比克泰德区分在我们之内和不在我们之内的事，把伦理训练集中于前者。", "explanationZh": "外部事件不可完全控制，但人可以训练如何判断和回应。", "themeIds": ["freedom", "ethics"], "weight": 3, "evidence": [{"id": "epictetus:evidence:001", "titleZh": "《手册》开篇", "summaryZh": "《手册》第一章提出控制二分，是其伦理训练总纲，界定自由和责任的范围边界条件所在。", "source": {"workId": "epictetus-primary-work", "locator": "Epictetus, Enchiridion 1 on what is up to us and not up to us", "excerptStatus": "summary_only"}}, {"id": "epictetus:evidence:002", "titleZh": "《论谈》中的自由", "summaryZh": "《论谈》多处把自由定义为不被外物强迫和不受错误欲望奴役的内在状态与能力结构基础。", "source": {"workId": "epictetus-primary-work", "locator": "Epictetus, Discourses I.1 and IV.1 on freedom and what is up to us", "excerptStatus": "summary_only"}}]},
-      {"id": "epictetus:claim:002", "titleZh": "痛苦来自对表象的错误同意", "claimZh": "扰乱人的不是事件本身，而是人对事件的判断。", "explanationZh": "这把心理痛苦转化为可训练的认识和价值判断问题。", "themeIds": ["knowledge", "ethics"], "weight": 2, "evidence": [{"id": "epictetus:evidence:003", "titleZh": "《手册》判断命题", "summaryZh": "《手册》明确说困扰人的不是事物，而是关于事物的意见，强调判断训练的重要性和方向。", "source": {"workId": "epictetus-primary-work", "locator": "Epictetus, Enchiridion 5 on judgments, things and disturbance", "excerptStatus": "summary_only"}}, {"id": "epictetus:evidence:004", "titleZh": "现代认知治疗接受", "summaryZh": "现代研究常指出爱比克泰德判断训练对后世认知治疗传统有重要影响和启发意义来源之一。", "source": {"workId": "epictetus-primary-work", "locator": "Modern scholarship on Epictetus, judgment and cognitive therapy reception", "excerptStatus": "summary_only"}}]}
-    ]},
-    {"id": "epictetus:problem:002", "titleZh": "哲学训练包含哪些功课？", "questionZh": "爱比克泰德如何组织欲望、趋避、冲动和同意的训练？", "summaryZh": "哲学训练不是知识表演，而是围绕欲望、行动和判断的持续操练。", "themeIds": ["ethics", "knowledge"], "weight": 3, "claims": [
-      {"id": "epictetus:claim:003", "titleZh": "三类训练构成实践哲学", "claimZh": "爱比克泰德区分欲望与趋避、冲动与行动、同意与判断三类训练。", "explanationZh": "这把斯多葛伦理转化为清晰课程结构。", "themeIds": ["ethics", "knowledge"], "weight": 3, "evidence": [{"id": "epictetus:evidence:005", "titleZh": "三类训练", "summaryZh": "《论谈》将哲学训练分为欲望、行动和同意三个领域，形成清晰实践课程结构安排体系框架。", "source": {"workId": "epictetus-primary-work", "locator": "Epictetus, Discourses III.2 on the three topoi of training", "excerptStatus": "summary_only"}}, {"id": "epictetus:evidence:006", "titleZh": "训练优先级", "summaryZh": "文本强调先训练欲望和趋避，避免把哲学变成逻辑炫技或空洞理论展示活动本身而已倾向。", "source": {"workId": "epictetus-primary-work", "locator": "Epictetus, Discourses III.2 and I.4 on philosophical progress", "excerptStatus": "summary_only"}}]},
-      {"id": "epictetus:claim:004", "titleZh": "角色伦理约束行动", "claimZh": "人应根据作为人、家庭成员、公民和具体角色的身份行动。", "explanationZh": "自由不是任性，而是在角色关系中保持理性和德性。", "themeIds": ["ethics", "politics"], "weight": 2, "evidence": [{"id": "epictetus:evidence:007", "titleZh": "角色和关系", "summaryZh": "《论谈》讨论父子、兄弟、公民等关系中的合宜行动，呈现角色伦理结构和责任分配方式。", "source": {"workId": "epictetus-primary-work", "locator": "Epictetus, Discourses II.10 on roles and appropriate actions", "excerptStatus": "summary_only"}}, {"id": "epictetus:evidence:008", "titleZh": "现代角色伦理研究", "summaryZh": "研究常把爱比克泰德视为斯多葛角色伦理的关键文本来源和实践案例之一材料依据来源文本。", "source": {"workId": "epictetus-primary-work", "locator": "Modern scholarship on Epictetus and role ethics", "excerptStatus": "summary_only"}}]}
-    ]},
-    {"id": "epictetus:problem:003", "titleZh": "斯多葛教师如何改造学生？", "questionZh": "爱比克泰德的课堂语气、责备和练习如何服务灵魂治疗？", "summaryZh": "爱比克泰德以教师身份不断揭露学生自欺，把哲学从文本解释推向人格改造。", "themeIds": ["ethics", "language"], "weight": 2, "claims": [
-      {"id": "epictetus:claim:005", "titleZh": "哲学课堂是治疗场域", "claimZh": "《论谈》中的责问和讽刺旨在打破学生关于财富、地位和身体安全的错误依赖。", "explanationZh": "教学语言本身是训练工具。", "themeIds": ["ethics", "language"], "weight": 3, "evidence": [{"id": "epictetus:evidence:009", "titleZh": "《论谈》的课堂风格", "summaryZh": "文本保留大量教师与学生对话、反问和劝诫，显示课堂语言的治疗功能和训练作用方式特点。", "source": {"workId": "epictetus-primary-work", "locator": "Epictetus, Discourses passim, especially I.4 and II.19 on progress and self-deception", "excerptStatus": "summary_only"}}, {"id": "epictetus:evidence:010", "titleZh": "阿里安记录传统", "summaryZh": "阿里安称《论谈》记录爱比克泰德教学语气，而非其亲自撰写的体系书文本形态本身材料。", "source": {"workId": "epictetus-primary-work", "locator": "Arrian's preface to Epictetus' Discourses", "excerptStatus": "summary_only"}}]},
-      {"id": "epictetus:claim:006", "titleZh": "哲学进步要落实到生活反应", "claimZh": "真正进步不在会解释书本，而在遭遇损失、侮辱和困难时能保持判断自由。", "explanationZh": "这体现罗马斯多葛的实践检验标准。", "themeIds": ["ethics", "freedom"], "weight": 2, "evidence": [{"id": "epictetus:evidence:011", "titleZh": "进步者主题", "summaryZh": "《论谈》反复区分谈论哲学和真正进步，强调训练判断才算实际改变生活方式和反应能力。", "source": {"workId": "epictetus-primary-work", "locator": "Epictetus, Discourses I.4 and III.22 on progress and Cynic-Stoic practice", "excerptStatus": "summary_only"}}, {"id": "epictetus:evidence:012", "titleZh": "现代实践哲学解释", "summaryZh": "研究强调爱比克泰德是斯多葛哲学作为训练体系的最佳见证之一，尤其突出实践性取向特点。", "source": {"workId": "epictetus-primary-work", "locator": "Modern scholarship on Epictetus as practical philosopher and teacher", "excerptStatus": "summary_only"}}]}
-    ]}
-  ]}
+  "works": [
+    "epictetus-primary-work"
+  ],
+  "sourceNotes": [
+    {
+      "label": "primary-dossier",
+      "noteZh": "采用阿里安记录的《论谈》《手册》和现代斯多葛研究。"
+    },
+    {
+      "label": "excerpt-status",
+      "noteZh": "全部 evidence 使用 summary_only。"
+    }
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "epictetus:problem:001",
+        "titleZh": "什么在我们控制之内？",
+        "questionZh": "爱比克泰德如何通过控制二分重建自由、责任和痛苦来源？",
+        "summaryZh": "他把自由建立在判断、欲望、趋避和同意等内在能力上，而非外部结果。",
+        "themeIds": [
+          "freedom",
+          "ethics"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "epictetus:claim:001",
+            "titleZh": "自由来自控制判断",
+            "claimZh": "爱比克泰德区分在我们之内和不在我们之内的事，把伦理训练集中于前者。",
+            "explanationZh": "外部事件不可完全控制，但人可以训练如何判断和回应。",
+            "themeIds": [
+              "freedom",
+              "ethics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "epictetus:evidence:001",
+                "titleZh": "《手册》开篇",
+                "summaryZh": "《手册》第一章提出控制二分，是其伦理训练总纲，界定自由和责任的范围边界条件所在。",
+                "source": {
+                  "workId": "epictetus-primary-work",
+                  "locator": "Epictetus, Enchiridion 1 on what is up to us and not up to us",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "epictetus:evidence:002",
+                "titleZh": "《论谈》中的自由",
+                "summaryZh": "《论谈》多处把自由定义为不被外物强迫和不受错误欲望奴役的内在状态与能力结构基础。",
+                "source": {
+                  "workId": "epictetus-primary-work",
+                  "locator": "Epictetus, Discourses I.1 and IV.1 on freedom and what is up to us",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "epictetus:claim:002",
+            "titleZh": "痛苦来自对表象的错误同意",
+            "claimZh": "扰乱人的不是事件本身，而是人对事件的判断。",
+            "explanationZh": "这把心理痛苦转化为可训练的认识和价值判断问题。",
+            "themeIds": [
+              "knowledge",
+              "ethics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "epictetus:evidence:003",
+                "titleZh": "《手册》判断命题",
+                "summaryZh": "《手册》明确说困扰人的不是事物，而是关于事物的意见，强调判断训练的重要性和方向。",
+                "source": {
+                  "workId": "epictetus-primary-work",
+                  "locator": "Epictetus, Enchiridion 5 on judgments, things and disturbance",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "epictetus:evidence:004",
+                "titleZh": "现代认知治疗接受",
+                "summaryZh": "现代研究常指出爱比克泰德判断训练对后世认知治疗传统有重要影响和启发意义来源之一。",
+                "source": {
+                  "workId": "epictetus-primary-work",
+                  "locator": "Modern scholarship on Epictetus, judgment and cognitive therapy reception",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "epictetus:problem:002",
+        "titleZh": "哲学训练包含哪些功课？",
+        "questionZh": "爱比克泰德如何组织欲望、趋避、冲动和同意的训练？",
+        "summaryZh": "哲学训练不是知识表演，而是围绕欲望、行动和判断的持续操练。",
+        "themeIds": [
+          "ethics",
+          "knowledge"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "epictetus:claim:003",
+            "titleZh": "三类训练构成实践哲学",
+            "claimZh": "爱比克泰德区分欲望与趋避、冲动与行动、同意与判断三类训练。",
+            "explanationZh": "这把斯多葛伦理转化为清晰课程结构。",
+            "themeIds": [
+              "ethics",
+              "knowledge"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "epictetus:evidence:005",
+                "titleZh": "三类训练",
+                "summaryZh": "《论谈》将哲学训练分为欲望、行动和同意三个领域，形成清晰实践课程结构安排体系框架。",
+                "source": {
+                  "workId": "epictetus-primary-work",
+                  "locator": "Epictetus, Discourses III.2 on the three topoi of training",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "epictetus:evidence:006",
+                "titleZh": "训练优先级",
+                "summaryZh": "文本强调先训练欲望和趋避，避免把哲学变成逻辑炫技或空洞理论展示活动本身而已倾向。",
+                "source": {
+                  "workId": "epictetus-primary-work",
+                  "locator": "Epictetus, Discourses III.2 and I.4 on philosophical progress",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "epictetus:claim:004",
+            "titleZh": "角色伦理约束行动",
+            "claimZh": "人应根据作为人、家庭成员、公民和具体角色的身份行动。",
+            "explanationZh": "自由不是任性，而是在角色关系中保持理性和德性。",
+            "themeIds": [
+              "ethics",
+              "politics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "epictetus:evidence:007",
+                "titleZh": "角色和关系",
+                "summaryZh": "《论谈》讨论父子、兄弟、公民等关系中的合宜行动，呈现角色伦理结构和责任分配方式。",
+                "source": {
+                  "workId": "epictetus-primary-work",
+                  "locator": "Epictetus, Discourses II.10 on roles and appropriate actions",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "epictetus:evidence:008",
+                "titleZh": "现代角色伦理研究",
+                "summaryZh": "研究常把爱比克泰德视为斯多葛角色伦理的关键文本来源和实践案例之一材料依据来源文本。",
+                "source": {
+                  "workId": "epictetus-primary-work",
+                  "locator": "Modern scholarship on Epictetus and role ethics",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "epictetus:problem:003",
+        "titleZh": "斯多葛教师如何改造学生？",
+        "questionZh": "爱比克泰德的课堂语气、责备和练习如何服务灵魂治疗？",
+        "summaryZh": "爱比克泰德以教师身份不断揭露学生自欺，把哲学从文本解释推向人格改造。",
+        "themeIds": [
+          "ethics",
+          "language"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "epictetus:claim:005",
+            "titleZh": "哲学课堂是治疗场域",
+            "claimZh": "《论谈》中的责问和讽刺旨在打破学生关于财富、地位和身体安全的错误依赖。",
+            "explanationZh": "教学语言本身是训练工具。",
+            "themeIds": [
+              "ethics",
+              "language"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "epictetus:evidence:009",
+                "titleZh": "《论谈》的课堂风格",
+                "summaryZh": "文本保留大量教师与学生对话、反问和劝诫，显示课堂语言的治疗功能和训练作用方式特点。",
+                "source": {
+                  "workId": "epictetus-primary-work",
+                  "locator": "Epictetus, Discourses passim, especially I.4 and II.19 on progress and self-deception",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "epictetus:evidence:010",
+                "titleZh": "阿里安记录传统",
+                "summaryZh": "阿里安称《论谈》记录爱比克泰德教学语气，而非其亲自撰写的体系书文本形态本身材料。",
+                "source": {
+                  "workId": "epictetus-primary-work",
+                  "locator": "Arrian's preface to Epictetus' Discourses",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "epictetus:claim:006",
+            "titleZh": "哲学进步要落实到生活反应",
+            "claimZh": "真正进步不在会解释书本，而在遭遇损失、侮辱和困难时能保持判断自由。",
+            "explanationZh": "这体现罗马斯多葛的实践检验标准。",
+            "themeIds": [
+              "ethics",
+              "freedom"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "epictetus:evidence:011",
+                "titleZh": "进步者主题",
+                "summaryZh": "《论谈》反复区分谈论哲学和真正进步，强调训练判断才算实际改变生活方式和反应能力。",
+                "source": {
+                  "workId": "epictetus-primary-work",
+                  "locator": "Epictetus, Discourses I.4 and III.22 on progress and Cynic-Stoic practice",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "epictetus:evidence:012",
+                "titleZh": "现代实践哲学解释",
+                "summaryZh": "研究强调爱比克泰德是斯多葛哲学作为训练体系的最佳见证之一，尤其突出实践性取向特点。",
+                "source": {
+                  "workId": "epictetus-primary-work",
+                  "locator": "Modern scholarship on Epictetus as practical philosopher and teacher",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "tier": "standard"
 }

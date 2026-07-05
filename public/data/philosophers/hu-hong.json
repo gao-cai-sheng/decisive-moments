@@ -1,0 +1,45 @@
+{
+  "id": "hu-hong",
+  "tier": "seed",
+  "names": {
+    "zh": "胡宏",
+    "en": "Hu Hong",
+    "native": "胡宏"
+  },
+  "life": {
+    "birth": 1106,
+    "death": 1161,
+    "display": "1106—1161"
+  },
+  "civilization": "chinese",
+  "traditions": [
+    "neo_confucianism"
+  ],
+  "periods": [
+    "southern_song"
+  ],
+  "themes": [
+    "ethics",
+    "metaphysics"
+  ],
+  "keywordsZh": [
+    "知言",
+    "湖湘学派",
+    "性体"
+  ],
+  "oneLineZh": "南宋湖湘学派代表，以《知言》讨论性体和修养。",
+  "influenceWeight": 3,
+  "reviewStatus": "draft",
+  "summaryZh": "胡宏，字仁仲，号五峰，胡安国之子，南宋湖湘学派核心人物。《知言》集中讨论性、心、天理和修养，是湖湘学派与程朱理学互动的重要文本。胡宏重视性体的发用和道德主体的活泼力量，对张栻、朱熹早期思想均有影响。其思想显示南宋理学内部并非只有程朱一脉。",
+  "works": [
+    "hu-hong-zhiyan",
+    "hu-hong-huangwang-daji"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S013",
+      "url": "https://ctext.org/wiki.pl?if=en&res=821560",
+      "noteZh": "以胡宏《知言》《皇王大纪》支撑身份层。"
+    }
+  ]
+}

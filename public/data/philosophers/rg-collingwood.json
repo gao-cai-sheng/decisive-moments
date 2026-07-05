@@ -1,0 +1,43 @@
+{
+  "id": "rg-collingwood",
+  "tier": "seed",
+  "names": {
+    "zh": "罗宾·乔治·柯林伍德",
+    "en": "R. G. Collingwood"
+  },
+  "life": {
+    "birth": 1889,
+    "death": 1943,
+    "display": "1889—1943"
+  },
+  "civilization": "western",
+  "traditions": [
+    "analytic_philosophy"
+  ],
+  "periods": [
+    "modern"
+  ],
+  "themes": [
+    "language",
+    "knowledge"
+  ],
+  "keywordsZh": [
+    "历史哲学",
+    "身份层",
+    "二线哲人"
+  ],
+  "oneLineZh": "历史哲学与问答逻辑代表，可补英美历史认识论。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "罗宾·乔治·柯林伍德（1889—1943）是 W2 欧陆与英美近现代二线哲人候选。其身份层入选理由为：历史哲学与问答逻辑代表，可补英美历史认识论。 本条仅作 seed 档基本定位，后续若升级标准档，需要重新做著作、论点与 evidence 研究。",
+  "works": [
+    "rg-collingwood-idea-of-history",
+    "rg-collingwood-essay-on-metaphysics"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S015",
+      "noteZh": "权威来源条目：SEP: Robin George Collingwood；用于核验人物身份、生卒、代表著作和思想史定位。"
+    }
+  ]
+}
