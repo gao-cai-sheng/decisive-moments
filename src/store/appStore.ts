@@ -86,3 +86,8 @@ export const useAppStore = create<AppState>((set) => ({
   toggleCollections: () => set((state) => ({ collectionsOpen: !state.collectionsOpen })),
   toggleSettings: () => set((state) => ({ settingsOpen: !state.settingsOpen })),
 }));
+
+// DEV 调试钩子：profiling 经 window.__appStore 脚本化驱动选中/取消等交互
+if (import.meta.env.DEV && typeof window !== "undefined") {
+  (window as unknown as { __appStore?: typeof useAppStore }).__appStore = useAppStore;
+}

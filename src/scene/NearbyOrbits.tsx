@@ -1,6 +1,6 @@
 import { Line, Sphere } from "@react-three/drei";
 import { useFrame } from "@react-three/fiber";
-import { useEffect, useRef, useState, type ReactNode } from "react";
+import { useEffect, useMemo, useRef, useState, type ReactNode } from "react";
 import * as THREE from "three";
 import { getPhilosopher } from "../data/client";
 import type { Philosopher } from "../data/schemas";
@@ -11,6 +11,8 @@ import { getStarColor } from "./PhilosopherStars";
 const NEARBY_RADIUS = 7.5;
 const MAX_NEARBY = 3;
 const SCAN_INTERVAL = 0.25;
+// detail 缓存上限：漫游一整圈会路过上百颗标准星，无上限会单调增长
+const MAX_DETAIL_CACHE = 24;
 
 function orbitRingPoints(radius: number): [number, number, number][] {
   const points: [number, number, number][] = [];
@@ -45,6 +47,17 @@ export function NearbyOrbits({ layout, selectedId, onSelect }: NearbyOrbitsProps
   const cacheRef = useRef(new Map<string, Philosopher | "loading">());
   const scanAccumulatorRef = useRef(0);
 
+  // 只有标准档才有 thoughtSystem（=行星）；seed 星渲染不出轨道，
+  // 若参与「最近 3 颗」竞争会挤占名额、把附近的标准星饿死（苏格拉底/柏拉图行星消失即此因）。
+  // Vector3 预建：扫描每 0.25s 一轮，逐节点 new Vector3 会造成持续 GC 压力。
+  const scanTargets = useMemo(
+    () =>
+      layout
+        .filter((node) => node.tier === "standard")
+        .map((node) => ({ id: node.id, position: new THREE.Vector3(...node.position) })),
+    [layout],
+  );
+
   useFrame((state, delta) => {
     scanAccumulatorRef.current += delta;
     if (scanAccumulatorRef.current < SCAN_INTERVAL) return;
@@ -56,11 +69,8 @@ export function NearbyOrbits({ layout, selectedId, onSelect }: NearbyOrbitsProps
     }
 
     const camera = state.camera.position;
-    // 只有标准档才有 thoughtSystem（=行星）；seed 星渲染不出轨道，
-    // 若参与「最近 3 颗」竞争会挤占名额、把附近的标准星饿死（苏格拉底/柏拉图行星消失即此因）。
-    const next = layout
-      .filter((node) => node.tier === "standard")
-      .map((node) => ({ id: node.id, distance: camera.distanceTo(new THREE.Vector3(...node.position)) }))
+    const next = scanTargets
+      .map((target) => ({ id: target.id, distance: camera.distanceTo(target.position) }))
       .filter((entry) => entry.distance < NEARBY_RADIUS)
       .sort((a, b) => a.distance - b.distance)
       .slice(0, MAX_NEARBY)
@@ -72,6 +82,11 @@ export function NearbyOrbits({ layout, selectedId, onSelect }: NearbyOrbitsProps
   useEffect(() => {
     nearbyIds.forEach((id) => {
       if (cacheRef.current.has(id)) return;
+      while (cacheRef.current.size >= MAX_DETAIL_CACHE) {
+        const evictable = [...cacheRef.current.keys()].find((key) => !nearbyIds.includes(key));
+        if (!evictable) break;
+        cacheRef.current.delete(evictable);
+      }
       cacheRef.current.set(id, "loading");
       getPhilosopher(id)
         .then((philosopher) => {

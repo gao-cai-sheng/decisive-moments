@@ -248,8 +248,15 @@ export function StarScene() {
   const quality = useAppStore((state) => state.quality);
   const filters = useAppStore((state) => state.filters);
 
-  const visiblePhilosophers = filterPhilosophersForStarMap(philosophers, filters);
-  const layout = computeStarLayout(visiblePhilosophers, relationships);
+  // memo 保证 layout 引用稳定：下游 NearbyOrbits 依赖它缓存扫描目标，逐帧重建会退化成每帧全量分配
+  const visiblePhilosophers = useMemo(
+    () => filterPhilosophersForStarMap(philosophers, filters),
+    [philosophers, filters],
+  );
+  const layout = useMemo(
+    () => computeStarLayout(visiblePhilosophers, relationships),
+    [visiblePhilosophers, relationships],
+  );
   const starTexture = useMemo(() => createStarSurfaceTexture(), []);
   const { registry: spinRegistry, register: registerStar } = useStarSpinRegistry();
   const selectedLayout = selectedId ? layout.find((node) => node.id === selectedId) : null;
@@ -270,8 +277,12 @@ export function StarScene() {
   return (
     <Canvas
       camera={{ position: [0, 9, 22], fov: 52, near: 0.1, far: 100 }}
-      dpr={quality === "high" ? [1, 2] : 1}
-      gl={{ antialias: false, powerPreference: "high-performance", preserveDrawingBuffer: true }}
+      dpr={quality === "high" ? [1, 1.5] : 1}
+      gl={{ antialias: false, powerPreference: "high-performance" }}
+      onCreated={({ gl }) => {
+        // DEV 调试钩子：profiling 经 window.__gl 读 renderer.info（draw calls / geometries / textures）
+        if (import.meta.env.DEV) (window as unknown as { __gl?: THREE.WebGLRenderer }).__gl = gl;
+      }}
       onPointerMissed={() => selectPhilosopher(null)}
     >
       <color attach="background" args={["#04050a"]} />
@@ -307,7 +318,8 @@ export function StarScene() {
         focusKey={selectedId}
       />
       {quality === "high" && (
-        <EffectComposer>
+        // multisampling=0：主 Canvas 本就 antialias:false，composer 默认的 MSAA 离屏 buffer 是纯浪费
+        <EffectComposer multisampling={0}>
           <Bloom intensity={0.42} luminanceThreshold={0.35} luminanceSmoothing={0.22} />
         </EffectComposer>
       )}

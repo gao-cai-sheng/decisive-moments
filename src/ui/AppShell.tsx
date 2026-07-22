@@ -7,6 +7,7 @@ import {
   getThemes,
   getWorks,
 } from "../data/client";
+import { SceneErrorBoundary } from "../scene/SceneErrorBoundary";
 import { StarScene } from "../scene/StarScene";
 import { hasWebGlSupport } from "../scene/webglSupport";
 import { useAppStore } from "../store/appStore";
@@ -42,9 +43,16 @@ export function AppShell() {
       setSelectedPhilosopher(null);
       return;
     }
+    // 竞态守卫：快速切换/取消选中时，迟到的 detail 响应不得复活已关闭的面板
+    let cancelled = false;
     getPhilosopher(selectedPhilosopherId)
-      .then(setSelectedPhilosopher)
+      .then((philosopher) => {
+        if (!cancelled) setSelectedPhilosopher(philosopher);
+      })
       .catch((error) => console.error("Failed to load philosopher", error));
+    return () => {
+      cancelled = true;
+    };
   }, [selectedPhilosopherId, setSelectedPhilosopher]);
 
   if (loadError) return <LoadingScreen error={loadError} />;
@@ -53,7 +61,9 @@ export function AppShell() {
 
   return (
     <main className="app">
-      <StarScene />
+      <SceneErrorBoundary>
+        <StarScene />
+      </SceneErrorBoundary>
       <TopHud />
       <SearchPanel />
       {/* 信息图打开时隐藏右栏面板，防止其透过半透明遮罩形成鬼影叠字 */}
