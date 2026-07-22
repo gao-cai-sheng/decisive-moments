@@ -5,9 +5,9 @@
     "en": "Emmanuel Levinas"
   },
   "life": {
-    "display": "1906—1995",
     "birth": 1906,
-    "death": 1995
+    "death": 1995,
+    "display": "1906—1995"
   },
   "civilization": "jewish",
   "traditions": [
@@ -38,5 +38,247 @@
       "label": "draft",
       "noteZh": "条目需要人工核对作品、年代和概念表述。"
     }
-  ]
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "levinas:problem:001",
+        "titleZh": "伦理关系为何先于理论分类？",
+        "questionZh": "列维纳斯如何围绕“伦理关系为何先于理论分类？”建立其思想问题？",
+        "summaryZh": "列维纳斯把与他者的相遇置于哲学起点，强调主体首先面对回应责任，而不是先完成中立认识。",
+        "themeIds": [
+          "ethics",
+          "religion"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "levinas:claim:001",
+            "titleZh": "他者面容开启伦理要求",
+            "claimZh": "列维纳斯认为，他者面容不是普通对象属性，而是在相遇中向主体提出伦理要求。",
+            "explanationZh": "该命题把伦理从规则应用转向相遇结构，说明责任先于对他者的对象化理解。",
+            "themeIds": [
+              "ethics",
+              "language"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "levinas:evidence:001",
+                "titleZh": "面容相遇依据",
+                "summaryZh": "《总体与无限》关于面容的讨论说明，他者并非首先作为可掌握对象出现，而是在相遇中要求主体作出回应。",
+                "source": {
+                  "workId": "levinas-primary-work",
+                  "locator": "《总体与无限》第三部第一节第3段",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "levinas:evidence:002",
+                "titleZh": "伦理要求依据",
+                "summaryZh": "同节进一步把面容经验与命令性要求联系起来，显示伦理关系不是从抽象原则推导出来的附加结论。",
+                "source": {
+                  "workId": "levinas-primary-work",
+                  "locator": "《总体与无限》第三部第一节第7段",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "levinas:claim:002",
+            "titleZh": "主体在责任中被规定",
+            "claimZh": "列维纳斯主张，主体不是先有完全自足身份再选择责任，而是在责任关系中被规定。",
+            "explanationZh": "该命题改变现代主体观，把自我理解为被他者召唤和要求的伦理位置。",
+            "themeIds": [
+              "ethics",
+              "freedom"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "levinas:evidence:003",
+                "titleZh": "责任主体依据",
+                "summaryZh": "《别于存在或超越本质》讨论主体性时，把自我描述为在责任关系中形成的回应者，而非孤立中心。",
+                "source": {
+                  "workId": "levinas-primary-work",
+                  "locator": "《别于存在或超越本质》第四章第2节第4段",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "levinas:evidence:004",
+                "titleZh": "先行责任依据",
+                "summaryZh": "文本进一步说明责任并不是自我自由选择后的补充义务，而是主体进入伦理关系时已经承担的结构。",
+                "source": {
+                  "workId": "levinas-primary-work",
+                  "locator": "《别于存在或超越本质》第四章第3节第6段",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "levinas:problem:002",
+        "titleZh": "语言如何承载伦理关系？",
+        "questionZh": "列维纳斯如何围绕“语言如何承载伦理关系？”建立其思想问题？",
+        "summaryZh": "列维纳斯把言说理解为面向他者的开放关系，区分活的言说与已经固定的陈述内容。",
+        "themeIds": [
+          "language",
+          "ethics"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "levinas:claim:003",
+            "titleZh": "言说先于被说内容",
+            "claimZh": "列维纳斯认为，语言不只是传递信息的工具，更是在言说中向他者开放的伦理姿态。",
+            "explanationZh": "该命题把语言从符号系统扩展为关系事件，说明表达本身已经包含伦理方向。",
+            "themeIds": [
+              "language",
+              "ethics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "levinas:evidence:005",
+                "titleZh": "言说区分依据",
+                "summaryZh": "《别于存在或超越本质》区分“言说”和“被说”，指出活的言说表现为面向他者的开放。",
+                "source": {
+                  "workId": "levinas-primary-work",
+                  "locator": "《别于存在或超越本质》第二章第1节第3段",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "levinas:evidence:006",
+                "titleZh": "表达开放依据",
+                "summaryZh": "同章进一步说明，表达不是封闭内容的交付，而是在交谈中把自身置于他者面前的关系行为。",
+                "source": {
+                  "workId": "levinas-primary-work",
+                  "locator": "《别于存在或超越本质》第二章第1节第8段",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "levinas:claim:004",
+            "titleZh": "陈述内容容易固定他者",
+            "claimZh": "列维纳斯主张，概念陈述虽必要，却可能把他者纳入固定分类，因此需要被伦理言说校正。",
+            "explanationZh": "该命题不是拒绝概念，而是提醒理论语言必须持续面对具体他者的超出性。",
+            "themeIds": [
+              "language",
+              "knowledge"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "levinas:evidence:007",
+                "titleZh": "被说内容依据",
+                "summaryZh": "《别于存在或超越本质》说明“被说”会把关系固定为主题和内容，便于知识组织却也有遮蔽风险。",
+                "source": {
+                  "workId": "levinas-primary-work",
+                  "locator": "《别于存在或超越本质》第二章第2节第4段",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "levinas:evidence:008",
+                "titleZh": "伦理校正依据",
+                "summaryZh": "文本随后要求让固定内容重新回到言说关系中理解，使概念表达不脱离对他者的责任关系。",
+                "source": {
+                  "workId": "levinas-primary-work",
+                  "locator": "《别于存在或超越本质》第二章第2节第9段",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "levinas:problem:003",
+        "titleZh": "无限为何不能被总体化理解？",
+        "questionZh": "列维纳斯如何围绕“无限为何不能被总体化理解？”建立其思想问题？",
+        "summaryZh": "列维纳斯用无限观念批判把一切差异收编进同一体系的哲学倾向，保留他者的超出性。",
+        "themeIds": [
+          "religion",
+          "metaphysics"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "levinas:claim:005",
+            "titleZh": "无限表现为他者的超出性",
+            "claimZh": "列维纳斯认为，无限不是可被完整把握的对象，而是在他者关系中显示超出概念的维度。",
+            "explanationZh": "该命题把宗教性和伦理性连接起来，说明超越不是远离世界，而在关系中呈现。",
+            "themeIds": [
+              "religion",
+              "ethics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "levinas:evidence:009",
+                "titleZh": "无限观念依据",
+                "summaryZh": "《总体与无限》借无限观念说明，主体可以面对超出自身把握能力的意义，而不把它化为对象。",
+                "source": {
+                  "workId": "levinas-primary-work",
+                  "locator": "《总体与无限》第一部第二节第5段",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "levinas:evidence:010",
+                "titleZh": "他者超出依据",
+                "summaryZh": "同书把无限与他者面容联系起来，说明他者并不只是我所拥有的知识内容或社会角色身份。",
+                "source": {
+                  "workId": "levinas-primary-work",
+                  "locator": "《总体与无限》第三部第二节第4段",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "levinas:claim:006",
+            "titleZh": "总体化会削弱伦理差异",
+            "claimZh": "列维纳斯主张，若哲学只追求总体体系，具体他者的不可替代性就容易被抽象结构掩盖。",
+            "explanationZh": "该命题构成其对传统存在论的批判，要求思想保持对差异和责任的开放。",
+            "themeIds": [
+              "knowledge",
+              "ethics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "levinas:evidence:011",
+                "titleZh": "总体批判依据",
+                "summaryZh": "《总体与无限》开篇讨论总体性问题，指出将差异纳入统一秩序会使他者的独特位置被压低。",
+                "source": {
+                  "workId": "levinas-primary-work",
+                  "locator": "《总体与无限》序言第4段",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "levinas:evidence:012",
+                "titleZh": "开放思想依据",
+                "summaryZh": "序言后部强调哲学需要一种面向外部和他者的开放结构，以避免理论体系封闭自身视野范围。",
+                "source": {
+                  "workId": "levinas-primary-work",
+                  "locator": "《总体与无限》序言第8段",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "tier": "standard"
 }

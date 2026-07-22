@@ -5,9 +5,9 @@
     "en": "Socrates"
   },
   "life": {
-    "display": "前 469—前 399",
     "birth": -469,
-    "death": -399
+    "death": -399,
+    "display": "前 469—前 399"
   },
   "civilization": "ancient_greek",
   "traditions": [
@@ -38,5 +38,250 @@
       "label": "draft",
       "noteZh": "条目需要人工核对作品、年代和概念表述。"
     }
-  ]
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "socrates:problem:001",
+        "titleZh": "无知之知为什么开启哲学生活？",
+        "questionZh": "苏格拉底为什么把承认自己不知道作为智慧的开端，并通过公共诘问挑战他人的伪知识？",
+        "summaryZh": "苏格拉底的智慧不是拥有成套教义，而是知道自己没有关于德性和善的伪知识。无知之知使哲学成为持续检验自身和他人生活的公共实践。",
+        "themeIds": [
+          "knowledge",
+          "ethics"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "socrates:claim:001",
+            "titleZh": "无知之知反对自负知识",
+            "claimZh": "苏格拉底的无知之知不是否认知识价值，而是拒绝把未经检验的意见冒充为关于德性和善的知识。",
+            "explanationZh": "这使哲学从拥有答案转向检验生活。承认无知不是终点，而是使人愿意追问正义、勇敢、虔敬和善的条件。",
+            "themeIds": [
+              "knowledge",
+              "ethics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "socrates:evidence:001",
+                "titleZh": "《申辩篇》以德尔斐神谕组织无知之知",
+                "summaryZh": "《申辩篇》中苏格拉底解释德尔斐神谕，指出自己的智慧只在于知道自己并不拥有别人自称拥有的智慧。",
+                "source": {
+                  "workId": "socrates-primary-work",
+                  "locator": "Plato, Apology 20c-23b on Delphi oracle and Socratic wisdom",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "socrates:evidence:002",
+                "titleZh": "现代研究将其视为诘问法前提",
+                "summaryZh": "Vlastos 以来的研究常把无知之知理解为 elenchus 的伦理前提：对话必须从承认自身可错开始。",
+                "source": {
+                  "workId": "socrates-primary-work",
+                  "locator": "Modern Socrates scholarship on Socratic ignorance and elenchus",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "socrates:claim:002",
+            "titleZh": "哲学使命表现为公共检验",
+            "claimZh": "苏格拉底把自己的哲学活动理解为一种公共使命：通过追问使城邦成员关心灵魂而非只追求财富和名誉。",
+            "explanationZh": "因此他的哲学不是私人学说，而是城邦内部的扰动力量。它以对话形式暴露生活目标的混乱。",
+            "themeIds": [
+              "ethics",
+              "politics",
+              "knowledge"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "socrates:evidence:003",
+                "titleZh": "牛虻意象说明哲学的城邦功能",
+                "summaryZh": "《申辩篇》中苏格拉底把自己比作刺激城邦的牛虻，说明哲学追问被理解为唤醒城邦的公共服务。",
+                "source": {
+                  "workId": "socrates-primary-work",
+                  "locator": "Plato, Apology 29d-31c on care of soul and the gadfly image",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "socrates:evidence:004",
+                "titleZh": "定义对话展示公共检验形式",
+                "summaryZh": "《欧绪弗洛》《拉凯斯》等对话通过追问虔敬和勇敢的定义，展示苏格拉底如何检验他人自称知道的伦理概念。",
+                "source": {
+                  "workId": "socrates-primary-work",
+                  "locator": "Plato, Euthyphro 5d-11b and Laches 190c-199e on definitional elenchus",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "socrates:problem:002",
+        "titleZh": "德性、知识与灵魂照料如何相连？",
+        "questionZh": "苏格拉底为什么把伦理失败理解为灵魂状态的问题，并把德性与知识、自制和善的追求连接起来？",
+        "summaryZh": "苏格拉底把伦理问题集中到灵魂照料上。真正重要的不是财富或名誉，而是灵魂是否正义、节制并理解善；德性因此与知识和自我检验相连。",
+        "themeIds": [
+          "ethics",
+          "knowledge",
+          "life_death"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "socrates:claim:003",
+            "titleZh": "灵魂照料高于外在成功",
+            "claimZh": "苏格拉底把照料灵魂置于财富、名誉和权力之上，认为未经检验的生活不值得过。",
+            "explanationZh": "这使伦理学不再只是遵守习俗，而是要求主体反思自己正在成为什么样的人。哲学生活因此成为灵魂治理。",
+            "themeIds": [
+              "ethics",
+              "life_death"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "socrates:evidence:005",
+                "titleZh": "《申辩篇》强调灵魂优先",
+                "summaryZh": "苏格拉底在《申辩篇》中告诫雅典人不要先关心财富名声，而要关心灵魂是否尽可能好和正直。",
+                "source": {
+                  "workId": "socrates-primary-work",
+                  "locator": "Plato, Apology 29d-30b on care of the soul",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "socrates:evidence:006",
+                "titleZh": "色诺芬保存节制与自制形象",
+                "summaryZh": "《回忆苏格拉底》把苏格拉底呈现为劝导自制、虔敬和实践德性的教师，可与柏拉图的灵魂照料主题互校。",
+                "source": {
+                  "workId": "socrates-primary-work",
+                  "locator": "Xenophon, Memorabilia I.2 and IV.5 on self-control and virtue",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "socrates:claim:004",
+            "titleZh": "德性与知识的关系塑造苏格拉底伦理学",
+            "claimZh": "苏格拉底倾向把德性与知识紧密联系，认为人若真正知道善就不会自愿作恶。",
+            "explanationZh": "这一命题在不同对话中形式不一，但共同点是把伦理错误理解为灵魂认知结构的失败，而非单纯意志薄弱。",
+            "themeIds": [
+              "ethics",
+              "knowledge"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "socrates:evidence:007",
+                "titleZh": "《美诺篇》讨论德性是否可教",
+                "summaryZh": "《美诺篇》围绕德性是否是知识、是否可教展开，显示苏格拉底式问题把伦理能力和认识状态连接起来。",
+                "source": {
+                  "workId": "socrates-primary-work",
+                  "locator": "Plato, Meno 70a-89a on virtue, knowledge and teachability",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "socrates:evidence:008",
+                "titleZh": "亚里士多德回顾苏格拉底与定义和伦理知识",
+                "summaryZh": "亚里士多德把苏格拉底同伦理定义和归纳论证联系起来，说明其在德性知识问题上的历史地位。",
+                "source": {
+                  "workId": "socrates-primary-work",
+                  "locator": "Aristotle, Metaphysics XIII.4, 1078b17-32 on Socrates, definitions and induction",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "socrates:problem:003",
+        "titleZh": "审判与死亡为何成为哲学检验？",
+        "questionZh": "苏格拉底为什么宁愿接受判决也不停止哲学活动，且在逃狱问题上把正义和法律关系置于生命保存之上？",
+        "summaryZh": "苏格拉底的审判和死亡使哲学生活接受政治和生死检验。他拒绝以不义换取生存，认为不以恶报恶、服从正义和继续哲学使命比保命更重要。",
+        "themeIds": [
+          "ethics",
+          "politics",
+          "life_death"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "socrates:claim:005",
+            "titleZh": "不义比死亡更可怕",
+            "claimZh": "苏格拉底在审判中把作恶和背弃使命看得比死亡更可怕，因此拒绝用停止哲学换取生存。",
+            "explanationZh": "这使死亡场景成为伦理优先性的证明：生命本身不是最高价值，正义和灵魂状态才决定生活是否值得。",
+            "themeIds": [
+              "ethics",
+              "life_death"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "socrates:evidence:009",
+                "titleZh": "《申辩篇》拒绝停止哲学",
+                "summaryZh": "苏格拉底说明即使释放条件是停止哲学，他也不会服从，因为违背神的使命和灵魂照料比死亡更糟。",
+                "source": {
+                  "workId": "socrates-primary-work",
+                  "locator": "Plato, Apology 28b-30c and 37e-38a on death, mission and examined life",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "socrates:evidence:010",
+                "titleZh": "死亡态度表达伦理判断优先",
+                "summaryZh": "《申辩篇》结尾关于死亡未知和善人不受真正伤害的论述，显示苏格拉底拒绝以恐惧死亡支配判断。",
+                "source": {
+                  "workId": "socrates-primary-work",
+                  "locator": "Plato, Apology 40c-42a on death and the good person",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "socrates:claim:006",
+            "titleZh": "守法论证体现正义高于私利",
+            "claimZh": "《克里托篇》中的苏格拉底拒绝逃狱，因为即使城邦判决不义，个人也不能以破坏法律和不以恶报恶原则回应。",
+            "explanationZh": "这一立场复杂地连接个人良知和城邦秩序。它不是简单服从强权，而是要求行动者不能用新的不义修复旧的不义。",
+            "themeIds": [
+              "ethics",
+              "politics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "socrates:evidence:011",
+                "titleZh": "《克里托篇》明确不以恶报恶",
+                "summaryZh": "苏格拉底与克里托讨论逃狱时，坚持绝不能作恶，也不能因为遭受不义就以不义回应他人。",
+                "source": {
+                  "workId": "socrates-primary-work",
+                  "locator": "Plato, Crito 49a-50a on never doing wrong or returning wrong",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "socrates:evidence:012",
+                "titleZh": "法律拟人化论证连接城邦义务",
+                "summaryZh": "《克里托篇》法律拟人化段落说明，苏格拉底把城邦法律关系看成长期受益、承诺和秩序维护的问题。",
+                "source": {
+                  "workId": "socrates-primary-work",
+                  "locator": "Plato, Crito 50a-54d on the Laws' speech and civic obligation",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "tier": "standard"
 }

@@ -1,0 +1,49 @@
+{
+  "id": "nikolai-fedorov",
+  "tier": "seed",
+  "names": {
+    "zh": "费奥多罗夫",
+    "en": "Nikolai Fedorov",
+    "native": "Николай Фёдорович Фёдоров"
+  },
+  "life": {
+    "birth": 1829,
+    "death": 1903,
+    "display": "1829—1903"
+  },
+  "civilization": "russian",
+  "traditions": [
+    "russian_cosmism",
+    "religious_philosophy"
+  ],
+  "periods": [
+    "seed_w11",
+    "imperial_russia",
+    "pre_revolutionary_russian_thought"
+  ],
+  "themes": [
+    "life_death",
+    "religion",
+    "metaphysics"
+  ],
+  "keywordsZh": [
+    "共同事业",
+    "宇宙主义",
+    "复活论",
+    "父辈"
+  ],
+  "oneLineZh": "俄国宇宙主义先驱，以《共同事业的哲学》把人类联合、科学与复活论联结起来。",
+  "influenceWeight": 3,
+  "reviewStatus": "draft",
+  "summaryZh": "费奥多罗夫的《共同事业的哲学》把人类共同任务、科学实践、祖先复活和宇宙主义组织成独特宗教哲学。本 seed 档记录其身份层，并把与陀思妥耶夫斯基的关系标为费氏对陀氏问题意识的影响方向。",
+  "works": [
+    "fedorov-philosophy-common-task"
+  ],
+  "sourceNotes": [
+    {
+      "label": "W11-B2-S007",
+      "url": "https://iep.utm.edu/fedorov/",
+      "noteZh": "IEP Fedorov 条目用于核验其共同事业哲学、俄国宇宙主义和复活论口径。"
+    }
+  ]
+}

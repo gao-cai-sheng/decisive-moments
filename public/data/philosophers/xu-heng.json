@@ -1,0 +1,45 @@
+{
+  "id": "xu-heng",
+  "tier": "seed",
+  "names": {
+    "zh": "许衡",
+    "en": "Xu Heng",
+    "native": "許衡"
+  },
+  "life": {
+    "birth": 1209,
+    "death": 1281,
+    "display": "1209—1281"
+  },
+  "civilization": "chinese",
+  "traditions": [
+    "neo_confucianism"
+  ],
+  "periods": [
+    "yuan"
+  ],
+  "themes": [
+    "ethics",
+    "politics"
+  ],
+  "keywordsZh": [
+    "鲁斋",
+    "元初儒学",
+    "小学大学直解"
+  ],
+  "oneLineZh": "元初理学家和政治教育人物，推动程朱学进入元代制度。",
+  "influenceWeight": 3,
+  "reviewStatus": "draft",
+  "summaryZh": "许衡，字仲平，号鲁斋，元初理学家和教育家。他在蒙古、元初政治环境中推行儒学教育，参与历法和学校制度建设，著述有《鲁斋遗书》等。许衡以程朱理学为国家教化资源，使宋代理学在元代获得制度位置，是北方儒学复兴和理学官学化的重要人物。",
+  "works": [
+    "xu-heng-luzhai-yishu",
+    "xu-heng-daxue-zhijie"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S018",
+      "url": "https://ctext.org/wiki.pl?if=en&res=821730",
+      "noteZh": "以许衡《鲁斋遗书》《大学直解》题名传统支撑身份层。"
+    }
+  ]
+}

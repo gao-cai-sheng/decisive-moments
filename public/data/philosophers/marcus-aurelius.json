@@ -1,0 +1,289 @@
+{
+  "id": "marcus-aurelius",
+  "names": {
+    "zh": "马可·奥勒留",
+    "en": "Marcus Aurelius"
+  },
+  "life": {
+    "birth": 121,
+    "death": 180,
+    "display": "121—180"
+  },
+  "civilization": "ancient_greek",
+  "traditions": [
+    "stoicism",
+    "roman_philosophy"
+  ],
+  "periods": [
+    "first_release"
+  ],
+  "themes": [
+    "ethics",
+    "politics",
+    "life_death"
+  ],
+  "keywordsZh": [
+    "伦理",
+    "政治",
+    "生死"
+  ],
+  "oneLineZh": "罗马皇帝和斯多葛作者，以《沉思录》把宇宙秩序、职责和自我训练结合起来。",
+  "influenceWeight": 1,
+  "reviewStatus": "draft",
+  "summaryZh": "罗马皇帝和斯多葛作者，以《沉思录》把宇宙秩序、职责和自我训练结合起来。本条目以 summary_only 方式整理。",
+  "works": [
+    "marcus-aurelius-primary-work"
+  ],
+  "sourceNotes": [
+    {
+      "label": "primary-dossier",
+      "noteZh": "采用《沉思录》、卡西乌斯·狄奥、奥古斯塔史相关材料和现代罗马斯多葛研究。"
+    },
+    {
+      "label": "excerpt-status",
+      "noteZh": "全部 evidence 使用 summary_only。"
+    }
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "marcus-aurelius:problem:001",
+        "titleZh": "皇帝如何训练自己？",
+        "questionZh": "《沉思录》如何把自我提醒、价值重估和职责意识作为斯多葛训练？",
+        "summaryZh": "马可·奥勒留的哲学不是公开体系，而是统治压力中的自我训练笔记。",
+        "themeIds": [
+          "ethics",
+          "politics"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "marcus-aurelius:claim:001",
+            "titleZh": "自我书写是伦理训练",
+            "claimZh": "《沉思录》通过反复提醒短暂、职责、理性和共同体，训练作者的判断和情感。",
+            "explanationZh": "文本重复性正显示其练习功能，而非论文式体系。",
+            "themeIds": [
+              "ethics",
+              "knowledge"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "marcus-aurelius:evidence:001",
+                "titleZh": "《沉思录》第一卷",
+                "summaryZh": "第一卷以感恩方式列举师友给予的德性训练，显示人格形成依赖持续榜样和练习过程积累。",
+                "source": {
+                  "workId": "marcus-aurelius-primary-work",
+                  "locator": "Marcus Aurelius, Meditations I on teachers, virtues and formation",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "marcus-aurelius:evidence:002",
+                "titleZh": "内在劝诫形式",
+                "summaryZh": "全书大量短句以自我命令和提醒形式进行价值重估，构成斯多葛式自我训练文本形态之一。",
+                "source": {
+                  "workId": "marcus-aurelius-primary-work",
+                  "locator": "Meditations II-XII passim on self-address and spiritual exercise",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "marcus-aurelius:claim:002",
+            "titleZh": "统治者也需服从理性法则",
+            "claimZh": "马可·奥勒留把皇帝身份纳入人的理性和公共职责之中，而非置于法则之外。",
+            "explanationZh": "这使斯多葛伦理成为权力自我约束的语言。",
+            "themeIds": [
+              "politics",
+              "ethics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "marcus-aurelius:evidence:003",
+                "titleZh": "安东尼努斯榜样",
+                "summaryZh": "第一卷赞美养父的节制、勤政和不炫耀权力，呈现帝王德性与政治自制要求标准范例材料。",
+                "source": {
+                  "workId": "marcus-aurelius-primary-work",
+                  "locator": "Meditations I.16 on Antoninus Pius as model ruler",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "marcus-aurelius:evidence:004",
+                "titleZh": "现代政治伦理研究",
+                "summaryZh": "研究把《沉思录》视为帝王权力处境中的斯多葛自我约束文本，强调权力中的内在训练方法。",
+                "source": {
+                  "workId": "marcus-aurelius-primary-work",
+                  "locator": "Modern scholarship on Marcus Aurelius, rulership and Stoic self-governance",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "marcus-aurelius:problem:002",
+        "titleZh": "宇宙整体如何改变个人痛苦？",
+        "questionZh": "马可·奥勒留如何用自然、logos 和宇宙视角重塑对损失、侮辱和有限生命的判断？",
+        "summaryZh": "宇宙视角把个人遭遇放入整体自然过程，使外部事件失去绝对价值。",
+        "themeIds": [
+          "metaphysics",
+          "life_death"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "marcus-aurelius:claim:003",
+            "titleZh": "从整体自然观看待事件",
+            "claimZh": "《沉思录》反复要求把每一事件理解为整体自然的一部分。",
+            "explanationZh": "这让人减少对局部得失的执著。",
+            "themeIds": [
+              "metaphysics",
+              "ethics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "marcus-aurelius:evidence:005",
+                "titleZh": "自然整体主题",
+                "summaryZh": "文本反复说明自然安排、整体秩序和部分对整体的关系，体现宇宙城邦背景框架设定依据。",
+                "source": {
+                  "workId": "marcus-aurelius-primary-work",
+                  "locator": "Meditations IV.23, VI.36, X.6 on nature, whole and parts",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "marcus-aurelius:evidence:006",
+                "titleZh": "高空视角",
+                "summaryZh": "若干段落要求从高处俯视人生、帝国和时间，用视角转换减轻名利执著和焦虑情绪影响机制。",
+                "source": {
+                  "workId": "marcus-aurelius-primary-work",
+                  "locator": "Meditations VII.48, IX.30, XII.24 on view from above",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "marcus-aurelius:claim:004",
+            "titleZh": "有限生命训练降低名声幻觉",
+            "claimZh": "马可·奥勒留不断提醒生命短暂、名声易逝，以削弱权力和荣誉的诱惑。",
+            "explanationZh": "有限性不是悲观，而是价值排序训练。",
+            "themeIds": [
+              "life_death",
+              "ethics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "marcus-aurelius:evidence:007",
+                "titleZh": "名声短暂主题",
+                "summaryZh": "文本多处把名声、纪念和后世评价视为短暂而不可靠，提醒统治者回到德性本身尺度判断。",
+                "source": {
+                  "workId": "marcus-aurelius-primary-work",
+                  "locator": "Meditations IV.3, IV.19, VIII.21 on fame, time and mortality",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "marcus-aurelius:evidence:008",
+                "titleZh": "斯多葛有限性研究",
+                "summaryZh": "现代研究强调马可将死亡意识用于重估外物而非逃避职责，体现实践伦理取向和责任意识。",
+                "source": {
+                  "workId": "marcus-aurelius-primary-work",
+                  "locator": "Modern scholarship on mortality and value in Marcus Aurelius",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "marcus-aurelius:problem:003",
+        "titleZh": "共同体职责为何来自理性本性？",
+        "questionZh": "马可·奥勒留如何把人的社会性、宇宙城邦和日常忍耐联系起来？",
+        "summaryZh": "人是理性且社会性的存在，因此职责不是外加负担，而是按自然生活的一部分。",
+        "themeIds": [
+          "politics",
+          "ethics"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "marcus-aurelius:claim:005",
+            "titleZh": "人为共同体而生",
+            "claimZh": "《沉思录》反复主张人像身体各部分一样为共同工作而存在。",
+            "explanationZh": "这把斯多葛世界公民思想转化为日常职责伦理。",
+            "themeIds": [
+              "politics",
+              "ethics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "marcus-aurelius:evidence:009",
+                "titleZh": "共同工作主题",
+                "summaryZh": "文本称人天生为了彼此合作，如上下牙齿或身体部分，强调理性存在者的共同性基础关系。",
+                "source": {
+                  "workId": "marcus-aurelius-primary-work",
+                  "locator": "Meditations II.1, V.16, VII.13 on cooperation and social nature",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "marcus-aurelius:evidence:010",
+                "titleZh": "宇宙城邦",
+                "summaryZh": "文本将共同理性和共同法律连接到宇宙城邦观念，说明政治义务有宇宙论基础依据支撑结构。",
+                "source": {
+                  "workId": "marcus-aurelius-primary-work",
+                  "locator": "Meditations IV.4 and X.15 on common reason, law and cosmopolis",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "marcus-aurelius:claim:006",
+            "titleZh": "忍耐他人是政治伦理训练",
+            "claimZh": "面对愚昧、冒犯和不合作的人，马可要求理解其无知并坚持自己的职责。",
+            "explanationZh": "这使统治和共同生活都成为斯多葛训练场。",
+            "themeIds": [
+              "ethics",
+              "politics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "marcus-aurelius:evidence:011",
+                "titleZh": "清晨提醒",
+                "summaryZh": "第二卷开篇要求预想会遇到难相处的人，并记得他们与自己同属理性共同体，服务公共职责。",
+                "source": {
+                  "workId": "marcus-aurelius-primary-work",
+                  "locator": "Meditations II.1 on meeting difficult people and shared rational nature",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "marcus-aurelius:evidence:012",
+                "titleZh": "现代共同体伦理研究",
+                "summaryZh": "研究强调马可的内在训练并非孤立个人主义，而服务公共职责和理性共同生活秩序维护目标。",
+                "source": {
+                  "workId": "marcus-aurelius-primary-work",
+                  "locator": "Modern scholarship on Marcus Aurelius, cosmopolitanism and duty",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "tier": "standard"
+}

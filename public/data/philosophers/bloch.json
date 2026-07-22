@@ -1,0 +1,293 @@
+{
+  "id": "bloch",
+  "names": {
+    "zh": "布洛赫",
+    "en": "Ernst Bloch"
+  },
+  "life": {
+    "birth": 1885,
+    "death": 1977,
+    "display": "1885—1977"
+  },
+  "civilization": "western_modern",
+  "traditions": [
+    "western_marxism",
+    "utopian_thought",
+    "philosophy_of_religion"
+  ],
+  "periods": [
+    "expansion_d2"
+  ],
+  "themes": [
+    "freedom",
+    "religion",
+    "politics"
+  ],
+  "keywordsZh": [
+    "希望原则",
+    "乌托邦",
+    "尚未意识",
+    "预期意识",
+    "弥赛亚意象"
+  ],
+  "oneLineZh": "以希望原则和尚未意识把马克思主义解放政治、宗教象征和乌托邦想象连接起来。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "布洛赫把人类意识中的尚未和希望视为现实变革资源，试图从梦、艺术、宗教和政治中发掘解放可能性。",
+  "works": [
+    "bloch-principle-hope",
+    "bloch-spirit-utopia",
+    "bloch-thomas-muntzer",
+    "bloch-natural-law-human-dignity",
+    "bloch-atheism-christianity"
+  ],
+  "sourceNotes": [
+    {
+      "label": "Primary corpus note",
+      "url": "https://plato.stanford.edu/entries/bloch/",
+      "noteZh": "以《希望原则》和宗教乌托邦文本为核心；二手资料只用于核对与马克思主义、法兰克福和本雅明关系。"
+    }
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "bloch:problem:001",
+        "titleZh": "希望原则与尚未意识",
+        "questionZh": "布洛赫如何把希望和尚未意识理解为现实变革的哲学资源？",
+        "summaryZh": "布洛赫把希望、梦和预期意识视为现实中尚未完成的可能性，反对把现实理解为封闭事实总和。",
+        "themeIds": [
+          "freedom",
+          "knowledge"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "bloch:claim:001",
+            "titleZh": "希望指向现实中的未完成可能性",
+            "claimZh": "布洛赫认为希望不是主观安慰，而是意识把握现实中尚未实现可能性的方式。",
+            "explanationZh": "这使乌托邦不再只是空想，而成为理解历史开放性和解放实践动力的哲学范畴。",
+            "themeIds": [
+              "freedom",
+              "knowledge"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "bloch:evidence:001",
+                "titleZh": "《希望原则》开篇论白日梦和期待",
+                "summaryZh": "开篇分析白日梦和期待中的未来指向，说明意识包含对尚未实现生活形式的预感、投射和实践冲动。",
+                "source": {
+                  "workId": "bloch-principle-hope",
+                  "locator": "part 1 on little daydreams and anticipatory consciousness",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "bloch:evidence:002",
+                "titleZh": "《希望原则》论尚未意识",
+                "summaryZh": "布洛赫把尚未意识描述为不同于被压抑过去的未来维度，强调可能性在主体经验中具有现实压力。",
+                "source": {
+                  "workId": "bloch-principle-hope",
+                  "locator": "part 1 on the not-yet-conscious",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "bloch:claim:002",
+            "titleZh": "乌托邦功能批判封闭现实主义",
+            "claimZh": "布洛赫用乌托邦功能反对把现实压缩为既成事实，认为文化和政治想象能暴露现实的未完成性。",
+            "explanationZh": "这种乌托邦不是逃避现实，而是判断现实缺口、动员实践和识别未来可能性的批判能力。",
+            "themeIds": [
+              "freedom",
+              "aesthetics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "bloch:evidence:003",
+                "titleZh": "《希望原则》论乌托邦功能",
+                "summaryZh": "文本把乌托邦功能解释为从幻想、艺术和政治愿望中提取未来指向，区分抽象空想和具体希望。",
+                "source": {
+                  "workId": "bloch-principle-hope",
+                  "locator": "part 2 on wishful images and utopian function",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "bloch:evidence:004",
+                "titleZh": "《乌托邦精神》表达早期未来指向",
+                "summaryZh": "早期文本把艺术、音乐和宗教象征解释为通向尚未完成世界的暗示，形成其后期希望哲学的前奏。",
+                "source": {
+                  "workId": "bloch-spirit-utopia",
+                  "locator": "sections on music, inwardness, and utopian orientation",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "bloch:problem:002",
+        "titleZh": "宗教象征与革命想象",
+        "questionZh": "布洛赫如何把宗教传统中的弥赛亚和出埃及意象转化为解放政治资源？",
+        "summaryZh": "布洛赫从宗教象征中提取反压迫和未来正义的冲动，把神学遗产重新解释为无神论和革命希望的材料。",
+        "themeIds": [
+          "religion",
+          "freedom"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "bloch:claim:003",
+            "titleZh": "宗教叛乱保存解放冲动",
+            "claimZh": "布洛赫在宗教叛乱传统中寻找被压迫者的解放期待，而不是把宗教一概看成服从意识形态。",
+            "explanationZh": "这使他的马克思主义具有弥赛亚和民众异端色彩，也为后来的解放神学接收提供接口。",
+            "themeIds": [
+              "religion",
+              "politics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "bloch:evidence:005",
+                "titleZh": "《托马斯·闵采尔》论革命神学",
+                "summaryZh": "布洛赫把闵采尔解释为宗教语言中的革命人物，强调农民战争中的末世期待和社会正义诉求。",
+                "source": {
+                  "workId": "bloch-thomas-muntzer",
+                  "locator": "chapters on Müntzer's theology and peasant revolt",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "bloch:evidence:006",
+                "titleZh": "《基督教中的无神论》论出埃及意象",
+                "summaryZh": "文本从圣经故事中提取反奴役和离开压迫秩序的动力，把宗教叙事改读为解放象征库和未来语言。",
+                "source": {
+                  "workId": "bloch-atheism-christianity",
+                  "locator": "sections on Exodus and rebellion against domination",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "bloch:claim:004",
+            "titleZh": "无神论可继承宗教的未来内容",
+            "claimZh": "布洛赫认为无神论不必丢弃宗教中的希望内容，而应把其中面向未来的解放意义从超越神学中解放出来。",
+            "explanationZh": "这种处理不同于简单宗教批判，它把宗教看成矛盾传统：既可服务统治，也可保存未完成的正义愿望。",
+            "themeIds": [
+              "religion",
+              "knowledge"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "bloch:evidence:007",
+                "titleZh": "《基督教中的无神论》论圣经反权威线索",
+                "summaryZh": "布洛赫强调圣经中反偶像、反奴役和末世更新的线索，试图把它们转化为无神论的解放遗产。",
+                "source": {
+                  "workId": "bloch-atheism-christianity",
+                  "locator": "chapters on Job, Exodus, and anti-idolatry",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "bloch:evidence:008",
+                "titleZh": "《希望原则》论宗教图像中的未来",
+                "summaryZh": "希望原则把宗教图像视为人类对完善、家园和正义的象征性预期，要求区分其统治外壳和未来内核。",
+                "source": {
+                  "workId": "bloch-principle-hope",
+                  "locator": "part 5 on religious wish-images and fulfillment",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "bloch:problem:003",
+        "titleZh": "自然法、尊严与具体乌托邦",
+        "questionZh": "布洛赫如何把自然法和人的尊严重新纳入马克思主义解放理论？",
+        "summaryZh": "布洛赫把自然法传统中关于尊严和权利的要求解释为尚未实现的解放承诺，并以具体乌托邦避免空洞理想主义。",
+        "themeIds": [
+          "justice",
+          "freedom"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "bloch:claim:005",
+            "titleZh": "自然法保存尊严的未竟要求",
+            "claimZh": "布洛赫重新评价自然法传统，认为其中的人格尊严和权利要求可成为反压迫的历史资源。",
+            "explanationZh": "这使他不同于把自然法完全视为资产阶级幻象的路线，而是寻找其中尚未完成的解放内容。",
+            "themeIds": [
+              "justice",
+              "freedom"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "bloch:evidence:009",
+                "titleZh": "《自然法与人的尊严》重读自然法传统",
+                "summaryZh": "文本把自然法中的尊严、平等和权利诉求解释为历史中反奴役、反侮辱和争取承认的规范资源。",
+                "source": {
+                  "workId": "bloch-natural-law-human-dignity",
+                  "locator": "chapters on natural law and dignity",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "bloch:evidence:010",
+                "titleZh": "《自然法与人的尊严》连接权利和解放",
+                "summaryZh": "布洛赫强调权利语言不应停留在形式平等，而要指向人的具体尊严、社会解放条件和现实自由。",
+                "source": {
+                  "workId": "bloch-natural-law-human-dignity",
+                  "locator": "chapters on rights, dignity, and emancipation",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "bloch:claim:006",
+            "titleZh": "具体乌托邦连接现实趋势和未来目标",
+            "claimZh": "布洛赫区分抽象空想和具体乌托邦，后者必须抓住现实中的趋势、缺口和可实践可能性。",
+            "explanationZh": "这让希望原则避免廉价乐观主义：希望需要识别历史条件，同时拒绝把现实封闭为既成事实。",
+            "themeIds": [
+              "freedom",
+              "politics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "bloch:evidence:011",
+                "titleZh": "《希望原则》区分抽象和具体乌托邦",
+                "summaryZh": "文本批评脱离现实趋势的空想，同时维护能够把潜在可能性转化为实践方向的具体乌托邦。",
+                "source": {
+                  "workId": "bloch-principle-hope",
+                  "locator": "part 2 on abstract and concrete utopia",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "bloch:evidence:012",
+                "titleZh": "《希望原则》论家园作为终极图像",
+                "summaryZh": "结尾部分把家园理解为尚未实现的人类世界，强调真正的现实主义必须包括对未完成未来的追求。",
+                "source": {
+                  "workId": "bloch-principle-hope",
+                  "locator": "concluding passages on Heimat and the not-yet",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "tier": "standard"
+}

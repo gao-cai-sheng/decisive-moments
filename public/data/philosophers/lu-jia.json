@@ -1,0 +1,45 @@
+{
+  "id": "lu-jia",
+  "tier": "seed",
+  "names": {
+    "zh": "陆贾",
+    "en": "Lu Jia",
+    "native": "陸賈"
+  },
+  "life": {
+    "birth": -240,
+    "death": -170,
+    "display": "约前240—约前170"
+  },
+  "civilization": "chinese",
+  "traditions": [
+    "confucianism",
+    "han_political_thought"
+  ],
+  "periods": [
+    "western_han"
+  ],
+  "themes": [
+    "politics",
+    "ethics"
+  ],
+  "keywordsZh": [
+    "新语",
+    "汉初儒生",
+    "马上治天下"
+  ],
+  "oneLineZh": "汉初政论家，以《新语》说明秦亡汉兴和文治秩序。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "陆贾，楚地人，汉初重要政论家和外交人物，曾出使南越。《史记》记其向刘邦说明“马上得之，宁可以马上治之乎”，强调王朝建立后需要文治与德化。《新语》以秦亡为反面材料，讨论仁义、无为、礼法和君臣关系，是汉初从战争政治转向制度政治的代表文本。",
+  "works": [
+    "lu-jia-xin-yu"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S025",
+      "url": "https://ctext.org/xin-yu",
+      "noteZh": "以《新语》和《史记》列传支撑陆贾身份、作品和汉初政治地位。"
+    }
+  ]
+}

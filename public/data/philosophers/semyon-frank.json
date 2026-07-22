@@ -1,0 +1,56 @@
+{
+  "id": "semyon-frank",
+  "tier": "seed",
+  "names": {
+    "zh": "弗兰克",
+    "en": "Semyon Frank",
+    "native": "Семён Людвигович Франк"
+  },
+  "life": {
+    "birth": 1877,
+    "death": 1950,
+    "display": "1877—1950"
+  },
+  "civilization": "russian",
+  "traditions": [
+    "russian_religious_philosophy",
+    "all_unity",
+    "intuitionism"
+  ],
+  "periods": [
+    "seed_w11",
+    "pre_revolutionary_russian_thought",
+    "silver_age"
+  ],
+  "themes": [
+    "metaphysics",
+    "knowledge",
+    "religion"
+  ],
+  "keywordsZh": [
+    "不可测度者",
+    "全一",
+    "直觉主义",
+    "社会的精神基础"
+  ],
+  "oneLineZh": "俄国宗教哲学家，以全一、不可测度者和直觉主义知识论连接形而上学与社会哲学。",
+  "influenceWeight": 3,
+  "reviewStatus": "draft",
+  "summaryZh": "弗兰克从早期社会思想转向宗教形而上学，以全一、不可测度者、直觉性知识和社会精神基础为核心问题。本 seed 档只建身份层，并按生产口径不挂 Solovyov，改以 Schelling 与 Shestov 作锚点。",
+  "works": [
+    "frank-unknowable",
+    "frank-spiritual-foundations-society"
+  ],
+  "sourceNotes": [
+    {
+      "label": "W11-B3-S007",
+      "url": "https://iep.utm.edu/frank/",
+      "noteZh": "IEP Frank 条目用于核验其全一、不可测度者、直觉主义和宗教哲学口径。"
+    },
+    {
+      "label": "W11-B3-S008",
+      "url": "https://iep.utm.edu/russian/",
+      "noteZh": "IEP Russian Philosophy 总论用于核验 Frank 所在俄国宗教哲学和20世纪早期思想语境。"
+    }
+  ]
+}

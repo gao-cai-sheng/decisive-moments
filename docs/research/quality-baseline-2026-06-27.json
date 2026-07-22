@@ -1,0 +1,533 @@
+{
+  "dataDir": "/sessions/great-loving-brown/mnt/Decisive Moments in History/public/data",
+  "scannedAt": "2026-06-27T01:56:14.064Z",
+  "totals": {
+    "philosophersWithThoughtSystem": 11,
+    "red": 0,
+    "yellow": 0,
+    "greenPeople": 11,
+    "redPeople": 0,
+    "yellowOnlyPeople": 0
+  },
+  "redByCode": {},
+  "yellowByCode": {},
+  "uncoveredThemes": [],
+  "greenPeople": [
+    "buddha",
+    "confucius",
+    "kant",
+    "laozi",
+    "mencius",
+    "mozi",
+    "nietzsche",
+    "plato",
+    "wang-yangming",
+    "xunzi",
+    "zhuangzi"
+  ],
+  "redPeople": [],
+  "yellowOnlyPeople": [],
+  "findings": [],
+  "results": [
+    {
+      "pid": "adi-shankara",
+      "hasTS": false,
+      "findings": []
+    },
+    {
+      "pid": "al-farabi",
+      "hasTS": false,
+      "findings": []
+    },
+    {
+      "pid": "al-ghazali",
+      "hasTS": false,
+      "findings": []
+    },
+    {
+      "pid": "ambedkar",
+      "hasTS": false,
+      "findings": []
+    },
+    {
+      "pid": "amo",
+      "hasTS": false,
+      "findings": []
+    },
+    {
+      "pid": "anselm",
+      "hasTS": false,
+      "findings": []
+    },
+    {
+      "pid": "aquinas",
+      "hasTS": false,
+      "findings": []
+    },
+    {
+      "pid": "arendt",
+      "hasTS": false,
+      "findings": []
+    },
+    {
+      "pid": "aristotle",
+      "hasTS": false,
+      "findings": []
+    },
+    {
+      "pid": "augustine",
+      "hasTS": false,
+      "findings": []
+    },
+    {
+      "pid": "bacon",
+      "hasTS": false,
+      "findings": []
+    },
+    {
+      "pid": "beauvoir",
+      "hasTS": false,
+      "findings": []
+    },
+    {
+      "pid": "bergson",
+      "hasTS": false,
+      "findings": []
+    },
+    {
+      "pid": "boethius",
+      "hasTS": false,
+      "findings": []
+    },
+    {
+      "pid": "buber",
+      "hasTS": false,
+      "findings": []
+    },
+    {
+      "pid": "buddha",
+      "hasTS": true,
+      "findings": []
+    },
+    {
+      "pid": "butler",
+      "hasTS": false,
+      "findings": []
+    },
+    {
+      "pid": "camus",
+      "hasTS": false,
+      "findings": []
+    },
+    {
+      "pid": "carnap",
+      "hasTS": false,
+      "findings": []
+    },
+    {
+      "pid": "confucius",
+      "hasTS": true,
+      "findings": []
+    },
+    {
+      "pid": "derrida",
+      "hasTS": false,
+      "findings": []
+    },
+    {
+      "pid": "descartes",
+      "hasTS": false,
+      "findings": []
+    },
+    {
+      "pid": "dewey",
+      "hasTS": false,
+      "findings": []
+    },
+    {
+      "pid": "dogen",
+      "hasTS": false,
+      "findings": []
+    },
+    {
+      "pid": "dussel",
+      "hasTS": false,
+      "findings": []
+    },
+    {
+      "pid": "epicurus",
+      "hasTS": false,
+      "findings": []
+    },
+    {
+      "pid": "erasmus",
+      "hasTS": false,
+      "findings": []
+    },
+    {
+      "pid": "foucault",
+      "hasTS": false,
+      "findings": []
+    },
+    {
+      "pid": "frege",
+      "hasTS": false,
+      "findings": []
+    },
+    {
+      "pid": "gandhi",
+      "hasTS": false,
+      "findings": []
+    },
+    {
+      "pid": "habermas",
+      "hasTS": false,
+      "findings": []
+    },
+    {
+      "pid": "hegel",
+      "hasTS": false,
+      "findings": []
+    },
+    {
+      "pid": "heidegger",
+      "hasTS": false,
+      "findings": []
+    },
+    {
+      "pid": "heraclitus",
+      "hasTS": false,
+      "findings": []
+    },
+    {
+      "pid": "hobbes",
+      "hasTS": false,
+      "findings": []
+    },
+    {
+      "pid": "hooks",
+      "hasTS": false,
+      "findings": []
+    },
+    {
+      "pid": "hountondji",
+      "hasTS": false,
+      "findings": []
+    },
+    {
+      "pid": "hu-shi",
+      "hasTS": false,
+      "findings": []
+    },
+    {
+      "pid": "hume",
+      "hasTS": false,
+      "findings": []
+    },
+    {
+      "pid": "husserl",
+      "hasTS": false,
+      "findings": []
+    },
+    {
+      "pid": "hypatia",
+      "hasTS": false,
+      "findings": []
+    },
+    {
+      "pid": "ibn-khaldun",
+      "hasTS": false,
+      "findings": []
+    },
+    {
+      "pid": "ibn-rushd",
+      "hasTS": false,
+      "findings": []
+    },
+    {
+      "pid": "ibn-sina",
+      "hasTS": false,
+      "findings": []
+    },
+    {
+      "pid": "kant",
+      "hasTS": true,
+      "findings": []
+    },
+    {
+      "pid": "kierkegaard",
+      "hasTS": false,
+      "findings": []
+    },
+    {
+      "pid": "krishnamurti",
+      "hasTS": false,
+      "findings": []
+    },
+    {
+      "pid": "laozi",
+      "hasTS": true,
+      "findings": []
+    },
+    {
+      "pid": "leibniz",
+      "hasTS": false,
+      "findings": []
+    },
+    {
+      "pid": "levinas",
+      "hasTS": false,
+      "findings": []
+    },
+    {
+      "pid": "liang-shuming",
+      "hasTS": false,
+      "findings": []
+    },
+    {
+      "pid": "locke",
+      "hasTS": false,
+      "findings": []
+    },
+    {
+      "pid": "machiavelli",
+      "hasTS": false,
+      "findings": []
+    },
+    {
+      "pid": "mahavira",
+      "hasTS": false,
+      "findings": []
+    },
+    {
+      "pid": "maimonides",
+      "hasTS": false,
+      "findings": []
+    },
+    {
+      "pid": "marx",
+      "hasTS": false,
+      "findings": []
+    },
+    {
+      "pid": "mencius",
+      "hasTS": true,
+      "findings": []
+    },
+    {
+      "pid": "merleau-ponty",
+      "hasTS": false,
+      "findings": []
+    },
+    {
+      "pid": "mill",
+      "hasTS": false,
+      "findings": []
+    },
+    {
+      "pid": "montaigne",
+      "hasTS": false,
+      "findings": []
+    },
+    {
+      "pid": "mozi",
+      "hasTS": true,
+      "findings": []
+    },
+    {
+      "pid": "mulla-sadra",
+      "hasTS": false,
+      "findings": []
+    },
+    {
+      "pid": "nagarjuna",
+      "hasTS": false,
+      "findings": []
+    },
+    {
+      "pid": "nietzsche",
+      "hasTS": true,
+      "findings": []
+    },
+    {
+      "pid": "nishida",
+      "hasTS": false,
+      "findings": []
+    },
+    {
+      "pid": "nozick",
+      "hasTS": false,
+      "findings": []
+    },
+    {
+      "pid": "nussbaum",
+      "hasTS": false,
+      "findings": []
+    },
+    {
+      "pid": "ockham",
+      "hasTS": false,
+      "findings": []
+    },
+    {
+      "pid": "parmenides",
+      "hasTS": false,
+      "findings": []
+    },
+    {
+      "pid": "plato",
+      "hasTS": true,
+      "findings": []
+    },
+    {
+      "pid": "plotinus",
+      "hasTS": false,
+      "findings": []
+    },
+    {
+      "pid": "plumwood",
+      "hasTS": false,
+      "findings": []
+    },
+    {
+      "pid": "quine",
+      "hasTS": false,
+      "findings": []
+    },
+    {
+      "pid": "ramanuja",
+      "hasTS": false,
+      "findings": []
+    },
+    {
+      "pid": "rawls",
+      "hasTS": false,
+      "findings": []
+    },
+    {
+      "pid": "rousseau",
+      "hasTS": false,
+      "findings": []
+    },
+    {
+      "pid": "russell",
+      "hasTS": false,
+      "findings": []
+    },
+    {
+      "pid": "saadia-gaon",
+      "hasTS": false,
+      "findings": []
+    },
+    {
+      "pid": "sartre",
+      "hasTS": false,
+      "findings": []
+    },
+    {
+      "pid": "schopenhauer",
+      "hasTS": false,
+      "findings": []
+    },
+    {
+      "pid": "senghor",
+      "hasTS": false,
+      "findings": []
+    },
+    {
+      "pid": "singer",
+      "hasTS": false,
+      "findings": []
+    },
+    {
+      "pid": "socrates",
+      "hasTS": false,
+      "findings": []
+    },
+    {
+      "pid": "sor-juana",
+      "hasTS": false,
+      "findings": []
+    },
+    {
+      "pid": "spinoza",
+      "hasTS": false,
+      "findings": []
+    },
+    {
+      "pid": "tagore",
+      "hasTS": false,
+      "findings": []
+    },
+    {
+      "pid": "thales",
+      "hasTS": false,
+      "findings": []
+    },
+    {
+      "pid": "toegye",
+      "hasTS": false,
+      "findings": []
+    },
+    {
+      "pid": "vasubandhu",
+      "hasTS": false,
+      "findings": []
+    },
+    {
+      "pid": "wang-yangming",
+      "hasTS": true,
+      "findings": []
+    },
+    {
+      "pid": "watsuji",
+      "hasTS": false,
+      "findings": []
+    },
+    {
+      "pid": "whitehead",
+      "hasTS": false,
+      "findings": []
+    },
+    {
+      "pid": "wiredu",
+      "hasTS": false,
+      "findings": []
+    },
+    {
+      "pid": "wittgenstein",
+      "hasTS": false,
+      "findings": []
+    },
+    {
+      "pid": "xunzi",
+      "hasTS": true,
+      "findings": []
+    },
+    {
+      "pid": "yulgok",
+      "hasTS": false,
+      "findings": []
+    },
+    {
+      "pid": "zelea",
+      "hasTS": false,
+      "findings": []
+    },
+    {
+      "pid": "zeno-citium",
+      "hasTS": false,
+      "findings": []
+    },
+    {
+      "pid": "zhu-xi",
+      "hasTS": false,
+      "findings": []
+    },
+    {
+      "pid": "zhuangzi",
+      "hasTS": true,
+      "findings": []
+    }
+  ]
+}

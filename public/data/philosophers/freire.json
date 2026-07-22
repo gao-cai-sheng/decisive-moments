@@ -1,0 +1,291 @@
+{
+  "id": "freire",
+  "names": {
+    "zh": "弗莱雷",
+    "en": "Paulo Freire"
+  },
+  "life": {
+    "birth": 1921,
+    "death": 1997,
+    "display": "1921—1997"
+  },
+  "civilization": "latin_american_modern",
+  "traditions": [
+    "critical_pedagogy",
+    "popular_education"
+  ],
+  "periods": [
+    "expansion_e6"
+  ],
+  "themes": [
+    "justice",
+    "politics",
+    "knowledge"
+  ],
+  "keywordsZh": [
+    "被压迫者教育学",
+    "意识化",
+    "对话",
+    "银行式教育批判"
+  ],
+  "oneLineZh": "以对话、意识化和银行式教育批判奠定批判教育学。",
+  "influenceWeight": 3,
+  "reviewStatus": "draft",
+  "summaryZh": "弗莱雷把教育理解为被压迫者命名世界、形成批判意识并参与公共实践的过程，深刻影响胡克斯。",
+  "works": [
+    "freire-pedagogy-oppressed",
+    "freire-education-critical-consciousness",
+    "freire-cultural-action-freedom",
+    "freire-pedagogy-hope",
+    "freire-politics-education",
+    "freire-teachers-cultural-workers"
+  ],
+  "sourceNotes": [
+    {
+      "label": "secondary",
+      "noteZh": "核对意识化、对话教育、银行式教育批判和胡克斯继承。"
+    }
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "freire:problem:001",
+        "titleZh": "压迫教育与意识化",
+        "questionZh": "弗莱雷如何把教育理解为压迫再生产或意识化解放之间的斗争场域？",
+        "summaryZh": "弗莱雷把教育从课堂技术扩展为政治实践：压迫教育会沉默学习者，而意识化教育帮助人共同命名并改变世界。",
+        "themeIds": [
+          "justice",
+          "knowledge"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "freire:claim:001",
+            "titleZh": "灌输式教育复制压迫关系",
+            "claimZh": "弗莱雷批判“银行式教育”把学生当作被存放知识的容器，因而在课堂内部重演压迫者和被压迫者的关系。",
+            "explanationZh": "这条主张使教育形式本身成为政治问题，不再把压迫只看成教材内容或外部制度。",
+            "themeIds": [
+              "justice",
+              "knowledge"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "freire:evidence:001",
+                "titleZh": "《被压迫者教育学》第二章的银行式教育批判",
+                "summaryZh": "第二章把银行式教育描述为教师存款、学生接收的关系，指出这种结构会压制批判意识和主体行动。",
+                "source": {
+                  "workId": "freire-pedagogy-oppressed",
+                  "locator": "Chapter 2, banking model of education",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "freire:evidence:002",
+                "titleZh": "《教育即批判意识》论意识化",
+                "summaryZh": "相关章节把识字教育和意识化相连，说明学习文字应同时学习阅读社会现实，并把沉默经验转化为公共表达。",
+                "source": {
+                  "workId": "freire-education-critical-consciousness",
+                  "locator": "Section on education and conscientização",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "freire:claim:002",
+            "titleZh": "意识化来自命名世界的实践",
+            "claimZh": "他认为被压迫者不是被动获得真理，而是在对话中命名自身处境，并通过反思与行动的循环改变世界。",
+            "explanationZh": "这条主张把认识论、语言和政治实践结合起来，是弗莱雷教育哲学的核心。",
+            "themeIds": [
+              "language",
+              "freedom"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "freire:evidence:003",
+                "titleZh": "《被压迫者教育学》第一章论主体解放",
+                "summaryZh": "第一章强调被压迫者必须成为自身解放的主体，不能由新精英替他们完成自由，否则压迫关系会被重新生产。",
+                "source": {
+                  "workId": "freire-pedagogy-oppressed",
+                  "locator": "Chapter 1, oppressed as subjects of liberation",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "freire:evidence:004",
+                "titleZh": "《作为自由实践的文化行动》论文化行动",
+                "summaryZh": "文化行动文本把意识化定义为读写世界的过程，要求教育与集体行动相互支撑，并把语言学习导向社会改变。",
+                "source": {
+                  "workId": "freire-cultural-action-freedom",
+                  "locator": "Sections on cultural action, literacy, and conscientization",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "freire:problem:002",
+        "titleZh": "对话、实践与教师权威",
+        "questionZh": "弗莱雷怎样在反对灌输的同时保留教师责任，并把对话理解为认识论关系？",
+        "summaryZh": "弗莱雷的对话不是无结构谈话，而是教师和学生共同研究现实问题的实践关系，其中权威必须接受解放目的的改造。",
+        "themeIds": [
+          "language",
+          "ethics"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "freire:claim:003",
+            "titleZh": "对话不是技巧而是认识论关系",
+            "claimZh": "弗莱雷把对话视为共同求知的条件：只有承认学习者经验和语言，教育才可能产生批判理解。",
+            "explanationZh": "这条主张避免把弗莱雷简化成课堂互动技巧；他的对话观直接涉及知识如何在共同实践中形成。",
+            "themeIds": [
+              "language",
+              "knowledge"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "freire:evidence:005",
+                "titleZh": "《被压迫者教育学》第三章论对话",
+                "summaryZh": "第三章把对话、爱、谦逊和信任放在共同命名世界的过程中，说明教育关系首先是认识论和伦理关系。",
+                "source": {
+                  "workId": "freire-pedagogy-oppressed",
+                  "locator": "Chapter 3, dialogue and naming the world",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "freire:evidence:006",
+                "titleZh": "《希望教育学》回看对话教育",
+                "summaryZh": "《希望教育学》回顾《被压迫者教育学》的接受和误读，强调对话必须扎根现实斗争而非空洞口号。",
+                "source": {
+                  "workId": "freire-pedagogy-hope",
+                  "locator": "Chapter 1, revisiting dialogue and historical context",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "freire:claim:004",
+            "titleZh": "教师权威必须转化为共同探究责任",
+            "claimZh": "弗莱雷并不取消教师作用，而是反对威权主义；教师应以知识、准备和政治责任组织共同探究。",
+            "explanationZh": "这条主张回应对进步教育的常见误解：解放教育不是放任，而是重塑权威的伦理形式。",
+            "themeIds": [
+              "ethics",
+              "politics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "freire:evidence:007",
+                "titleZh": "《教师作为文化工作者》论教师责任",
+                "summaryZh": "给教师的书信强调备课、倾听、纪律和政治责任，说明教师权威可以服务于学习者主体性。",
+                "source": {
+                  "workId": "freire-teachers-cultural-workers",
+                  "locator": "Letters on teacher preparation, listening, discipline, and responsibility",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "freire:evidence:008",
+                "titleZh": "《教育的政治》论教育不可中立",
+                "summaryZh": "论文集反复说明教育总在政治选择中发生，教师不能假装中立，而要说明自身立场并接受批判。",
+                "source": {
+                  "workId": "freire-politics-education",
+                  "locator": "Essays on education as political practice",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "freire:problem:003",
+        "titleZh": "解放政治与文化行动",
+        "questionZh": "弗莱雷如何把教育实践、组织行动和希望政治连接为被压迫者的历史创造能力？",
+        "summaryZh": "弗莱雷的解放教育指向社会改变：文化行动、组织实践和希望共同构成被压迫者参与历史的能力。",
+        "themeIds": [
+          "politics",
+          "freedom"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "freire:claim:005",
+            "titleZh": "教育解放必须与组织实践相连",
+            "claimZh": "他认为批判意识如果不进入组织、文化行动和社会实践，就会退化为口号；教育必须帮助人参与改变结构。",
+            "explanationZh": "这条主张把弗莱雷与马克思主义、解放神学和基层政治传统连接起来，但仍保持其教育实践的独特重心。",
+            "themeIds": [
+              "politics",
+              "freedom"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "freire:evidence:009",
+                "titleZh": "《作为自由实践的文化行动》论反对话与对话行动",
+                "summaryZh": "文本区分操纵、分化等反对话行动与合作、组织、文化综合等对话行动，说明教育必须进入组织实践。",
+                "source": {
+                  "workId": "freire-cultural-action-freedom",
+                  "locator": "Sections contrasting antidialogical and dialogical cultural action",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "freire:evidence:010",
+                "titleZh": "《被压迫者教育学》第四章论文化行动理论",
+                "summaryZh": "第四章系统分析征服、分化、操纵和文化侵略，并提出合作与组织作为解放行动形式，连接教育与群众政治。",
+                "source": {
+                  "workId": "freire-pedagogy-oppressed",
+                  "locator": "Chapter 4, theory of dialogical and antidialogical action",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "freire:claim:006",
+            "titleZh": "希望是批判实践的历史条件",
+            "claimZh": "弗莱雷把希望理解为行动中的历史能力，而不是乐观情绪；没有希望，批判教育会失去改变世界的方向。",
+            "explanationZh": "这条主张解释其晚期作品为何不断回到希望、伦理和民主问题：希望是实践理性的一部分。",
+            "themeIds": [
+              "freedom",
+              "ethics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "freire:evidence:011",
+                "titleZh": "《希望教育学》第二章论希望与历史",
+                "summaryZh": "《希望教育学》把希望放在历史未完成性中理解，强调人能通过实践进入尚未完成的未来。",
+                "source": {
+                  "workId": "freire-pedagogy-hope",
+                  "locator": "Chapter 2, hope, unfinished history, and praxis",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "freire:evidence:012",
+                "titleZh": "《教育即批判意识》论自由实践",
+                "summaryZh": "早期文本把巴西成人教育经验解释为自由实践，说明希望必须通过具体识字、组织和公共发言来实现。",
+                "source": {
+                  "workId": "freire-education-critical-consciousness",
+                  "locator": "Sections on Brazil, literacy, and education as practice of freedom",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "tier": "standard"
+}

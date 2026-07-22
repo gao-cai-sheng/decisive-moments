@@ -1,0 +1,292 @@
+{
+  "id": "comte",
+  "names": {
+    "zh": "孔德",
+    "en": "Auguste Comte"
+  },
+  "life": {
+    "birth": 1798,
+    "death": 1857,
+    "display": "1798—1857"
+  },
+  "civilization": "western_modern",
+  "traditions": [
+    "positivism",
+    "sociology",
+    "philosophy_of_science"
+  ],
+  "periods": [
+    "expansion_d1"
+  ],
+  "themes": [
+    "knowledge",
+    "politics",
+    "religion"
+  ],
+  "keywordsZh": [
+    "实证主义",
+    "三阶段律",
+    "科学分类",
+    "社会学",
+    "人类宗教"
+  ],
+  "oneLineZh": "以三阶段律、科学分类和社会学构想把现代知识秩序与社会重组方案结合起来。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "孔德把知识发展解释为从神学、形而上学到实证阶段的转换，并以社会学和人类宗教回应革命后的秩序问题。",
+  "works": [
+    "comte-course-positive-philosophy",
+    "comte-general-view-positivism",
+    "comte-system-positive-polity",
+    "comte-catechism-positive-religion",
+    "comte-early-social-writings"
+  ],
+  "sourceNotes": [
+    {
+      "label": "Primary corpus note",
+      "url": "https://plato.stanford.edu/entries/comte/",
+      "noteZh": "以孔德实证哲学、实证政治和宗教文本为核心；二手资料只用于核对题名与思想关系。"
+    }
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "comte:problem:001",
+        "titleZh": "实证知识与三阶段律",
+        "questionZh": "孔德如何用三阶段律和实证精神解释人类知识的发展方向？",
+        "summaryZh": "孔德把知识史解释为从神学、形而上学到实证阶段的转换，并以现象规律取代终极原因解释。",
+        "themeIds": [
+          "knowledge",
+          "metaphysics"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "comte:claim:001",
+            "titleZh": "三阶段律重写知识史",
+            "claimZh": "孔德把人类理智发展描述为神学、形而上学和实证三阶段，使科学知识成为现代秩序的主导形式。",
+            "explanationZh": "这条叙事既是认识论命题，也是历史哲学命题，用来说明为何现代社会需要摆脱超验解释和抽象实体。",
+            "themeIds": [
+              "knowledge",
+              "metaphysics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "comte:evidence:001",
+                "titleZh": "《实证哲学教程》开篇提出三阶段律",
+                "summaryZh": "教程第一课把人类理智进程概括为神学、形而上学和实证状态，为整个科学分类和社会学方案奠基。",
+                "source": {
+                  "workId": "comte-course-positive-philosophy",
+                  "locator": "lesson 1 on the law of three stages",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "comte:evidence:002",
+                "titleZh": "《实证主义概观》说明实证精神",
+                "summaryZh": "概观文本把实证精神定义为研究可观察关系和规律，而不是追问不可检验的本质和第一原因。",
+                "source": {
+                  "workId": "comte-general-view-positivism",
+                  "locator": "opening sections on positive spirit",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "comte:claim:002",
+            "titleZh": "实证主义限制形而上学解释",
+            "claimZh": "孔德并非只赞美经验事实，而是要求知识放弃终极本体解释，转向现象之间稳定关系的发现。",
+            "explanationZh": "这种限制把哲学任务改造成科学综合和方法澄清，也使传统形而上学在现代知识秩序中失去中心地位。",
+            "themeIds": [
+              "knowledge",
+              "metaphysics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "comte:evidence:003",
+                "titleZh": "《实证哲学教程》论规律而非原因",
+                "summaryZh": "教程把科学目标限定为发现现象的相继和相似规律，明确拒绝以绝对原因解释自然和社会。",
+                "source": {
+                  "workId": "comte-course-positive-philosophy",
+                  "locator": "lesson 2 on positive method and laws",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "comte:evidence:004",
+                "titleZh": "《实证主义概观》把哲学改造为综合任务",
+                "summaryZh": "概观文本把哲学定位为组织各门科学成果的综合工作，而不是独立提供超科学的本体解释。",
+                "source": {
+                  "workId": "comte-general-view-positivism",
+                  "locator": "sections on philosophy as scientific coordination",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "comte:problem:002",
+        "titleZh": "科学分类与社会学",
+        "questionZh": "孔德为什么把科学分类和社会学视为现代知识体系的关键？",
+        "summaryZh": "孔德按照复杂性和依赖关系排列科学，并把社会学置于最高和最后位置，试图为社会秩序提供实证基础。",
+        "themeIds": [
+          "knowledge",
+          "politics"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "comte:claim:003",
+            "titleZh": "科学分类表达知识依赖次序",
+            "claimZh": "孔德把数学、天文学、物理学、化学、生物学和社会学排成序列，强调后起科学依赖较简单科学。",
+            "explanationZh": "这种分类不是百科目录，而是为社会科学寻求合法位置，并说明社会现象也应进入规律研究。",
+            "themeIds": [
+              "knowledge"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "comte:evidence:005",
+                "titleZh": "《实证哲学教程》论科学层级",
+                "summaryZh": "教程把各门科学按一般性、简单性和相互依赖排列，显示社会学必须建立在前面科学发展之后。",
+                "source": {
+                  "workId": "comte-course-positive-philosophy",
+                  "locator": "lessons 2-3 on classification of the sciences",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "comte:evidence:006",
+                "titleZh": "《实证哲学教程》设置社会物理学位置",
+                "summaryZh": "教程把社会物理学作为最高复杂度的科学，要求研究社会秩序和进步的规律而非政治意见争吵。",
+                "source": {
+                  "workId": "comte-course-positive-philosophy",
+                  "locator": "social physics lessons on order and progress",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "comte:claim:004",
+            "titleZh": "社会学要连接秩序与进步",
+            "claimZh": "孔德把社会学设想为同时解释社会静力和社会动力的科学，以调和革命后的秩序需求和历史进步。",
+            "explanationZh": "这使社会科学在孔德那里承担政治功能：它不只是描述社会，还要为稳定重组提供知识基础。",
+            "themeIds": [
+              "politics",
+              "knowledge"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "comte:evidence:007",
+                "titleZh": "《实证哲学教程》区分社会静力与动力",
+                "summaryZh": "社会学部分将社会秩序的结构条件和历史发展的动力分开讨论，形成秩序与进步并重的框架。",
+                "source": {
+                  "workId": "comte-course-positive-philosophy",
+                  "locator": "social statics and social dynamics lessons",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "comte:evidence:008",
+                "titleZh": "早期社会组织论稿预示政治重组任务",
+                "summaryZh": "早期论文已把科学精神、工业社会和政治组织联系起来，显示孔德从一开始就把知识问题同社会重建相连。",
+                "source": {
+                  "workId": "comte-early-social-writings",
+                  "locator": "1822 Plan of the Scientific Work Necessary for Reorganizing Society",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "comte:problem:003",
+        "titleZh": "人类宗教与政治秩序",
+        "questionZh": "孔德晚期为什么从科学哲学转向人类宗教和实证政治？",
+        "summaryZh": "孔德认为现代社会不能只靠科学知识维系，还需要共同情感、仪式和道德教育来稳定社会团结。",
+        "themeIds": [
+          "religion",
+          "politics"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "comte:claim:005",
+            "titleZh": "人类宗教替代传统神学整合功能",
+            "claimZh": "孔德晚期的人类宗教不是回到传统神学，而是试图以人类整体、道德情感和纪念仪式重建团结。",
+            "explanationZh": "这表明实证主义在他那里并非单纯科学主义，而包含对现代社会情感和道德整合的强烈需求。",
+            "themeIds": [
+              "religion",
+              "politics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "comte:evidence:009",
+                "titleZh": "《实证政治体系》论人类整体",
+                "summaryZh": "实证政治文本把人类作为崇敬对象和道德秩序核心，试图以世俗方式替代传统宗教的整合功能。",
+                "source": {
+                  "workId": "comte-system-positive-polity",
+                  "locator": "volume 1 on humanity and positive polity",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "comte:evidence:010",
+                "titleZh": "《实证宗教教理问答》组织实证信仰语言",
+                "summaryZh": "教理问答把实证主义表达为面向人类、家庭和社会义务的信仰秩序，强调情感训练与道德服从。",
+                "source": {
+                  "workId": "comte-catechism-positive-religion",
+                  "locator": "first conversation on the religion of humanity",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "comte:claim:006",
+            "titleZh": "实证政治把科学权威转化为社会治理",
+            "claimZh": "孔德希望用实证知识和道德教育约束政治冲突，使社会改革从革命激情转向有序的精神权威。",
+            "explanationZh": "这一路线也暴露出其体系中的张力：反神学的实证主义最终又建立了准宗教式的社会权威。",
+            "themeIds": [
+              "politics",
+              "religion"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "comte:evidence:011",
+                "titleZh": "《实证政治体系》连接精神权威与社会秩序",
+                "summaryZh": "文本把科学家和道德教育者设想为新的精神权威，用以协调政治权力、工业活动和社会情感。",
+                "source": {
+                  "workId": "comte-system-positive-polity",
+                  "locator": "volume 2 on spiritual power and social order",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "comte:evidence:012",
+                "titleZh": "《实证主义概观》强调秩序与进步并行",
+                "summaryZh": "概观文本反复把秩序和进步作为实证政治的双重目标，反对把现代改革化约为破坏性革命。",
+                "source": {
+                  "workId": "comte-general-view-positivism",
+                  "locator": "sections on order and progress in positive politics",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "tier": "standard"
+}

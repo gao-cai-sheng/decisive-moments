@@ -1,0 +1,294 @@
+{
+  "id": "horkheimer",
+  "names": {
+    "zh": "霍克海默",
+    "en": "Max Horkheimer"
+  },
+  "life": {
+    "birth": 1895,
+    "death": 1973,
+    "display": "1895—1973"
+  },
+  "civilization": "european_modern",
+  "traditions": [
+    "critical_theory",
+    "frankfurt_school",
+    "social_philosophy"
+  ],
+  "periods": [
+    "expansion_b1"
+  ],
+  "themes": [
+    "justice",
+    "knowledge",
+    "politics"
+  ],
+  "keywordsZh": [
+    "批判理论",
+    "工具理性",
+    "法兰克福学派",
+    "传统理论与批判理论",
+    "启蒙辩证法"
+  ],
+  "oneLineZh": "以批判理论和工具理性批判把马克思主义社会哲学改造为跨学科现代性诊断。",
+  "influenceWeight": 3,
+  "reviewStatus": "draft",
+  "summaryZh": "霍克海默把社会研究、马克思主义批判和哲学反思结合起来，主张理论必须揭示支配结构并服务于人的解放。",
+  "works": [
+    "horkheimer-traditional-critical-theory",
+    "horkheimer-dialectic-enlightenment",
+    "horkheimer-eclipse-reason",
+    "horkheimer-critical-theory-essays",
+    "horkheimer-authority-family",
+    "horkheimer-longing-totally-other"
+  ],
+  "sourceNotes": [
+    {
+      "label": "SEP / Frankfurt School references",
+      "url": "https://plato.stanford.edu/entries/critical-theory/",
+      "noteZh": "核对批判理论、工具理性和法兰克福学派关系。"
+    }
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "horkheimer:problem:001",
+        "titleZh": "批判理论的社会任务",
+        "questionZh": "霍克海默为什么认为理论必须进入社会支配结构的批判，而不能停留在中立观察？",
+        "summaryZh": "霍克海默把理论理解为历史社会中的实践力量，要求哲学、社会科学和政治解放问题相互说明。",
+        "themeIds": [
+          "knowledge",
+          "justice"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "horkheimer:claim:001",
+            "titleZh": "传统理论遮蔽自身社会位置",
+            "claimZh": "传统理论把知识伪装成纯粹旁观，却忽略研究者、概念和社会利益都嵌在历史生产关系之中。",
+            "explanationZh": "这条主张奠定批判理论方法：理论不只说明对象，也反省自己服务于何种社会秩序。",
+            "themeIds": [
+              "knowledge",
+              "politics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "horkheimer:evidence:001",
+                "titleZh": "《传统理论与批判理论》论旁观知识模型",
+                "summaryZh": "论文开篇区分传统理论的演绎科学理想和批判理论的社会自反性，指出知识形式本身也属于历史生活过程。",
+                "source": {
+                  "workId": "horkheimer-traditional-critical-theory",
+                  "locator": "Opening sections contrasting traditional theory and critical theory",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "horkheimer:evidence:002",
+                "titleZh": "《批判理论文集》中的社会哲学任务",
+                "summaryZh": "相关论文把哲学、经济学和社会心理学合并为资本主义整体分析，说明批判理论不是单一学科内部的解释技术。",
+                "source": {
+                  "workId": "horkheimer-critical-theory-essays",
+                  "locator": "Essays on social philosophy and interdisciplinary materialism",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "horkheimer:claim:002",
+            "titleZh": "解放兴趣规定批判理论方向",
+            "claimZh": "批判理论以减少不必要苦难和支配为目标，因此判断理论成败时必须追问它是否揭示并改变压迫条件。",
+            "explanationZh": "这条主张把认识论与正义问题连在一起，也解释霍克海默为什么继承马克思而不等同于经济决定论。",
+            "themeIds": [
+              "justice",
+              "politics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "horkheimer:evidence:003",
+                "titleZh": "《传统理论与批判理论》论人的解放",
+                "summaryZh": "论文把批判理论的目标写成使人摆脱盲目经济力量支配，强调理论要参与主体形成和社会改变。",
+                "source": {
+                  "workId": "horkheimer-traditional-critical-theory",
+                  "locator": "Later sections on emancipation and human beings as producers of their life",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "horkheimer:evidence:004",
+                "titleZh": "《权威与家庭研究》中的跨学科经验材料",
+                "summaryZh": "研究所项目通过家庭、权威和人格结构分析支配如何在日常生活中再生产，为批判理论提供经验维度。",
+                "source": {
+                  "workId": "horkheimer-authority-family",
+                  "locator": "Programmatic materials and studies on authority, family, and personality",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "horkheimer:problem:002",
+        "titleZh": "工具理性与启蒙反转",
+        "questionZh": "他如何说明启蒙理性会从解放力量反转为统治自然和人的工具？",
+        "summaryZh": "工具理性批判解释了现代技术、行政和文化工业如何把理性缩减为计算效率，进而损害主体自由。",
+        "themeIds": [
+          "knowledge",
+          "politics"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "horkheimer:claim:003",
+            "titleZh": "主观理性压倒客观目的",
+            "claimZh": "现代社会把理性缩减为选择手段的能力，却不再能讨论目的本身是否值得追求。",
+            "explanationZh": "这条主张使理性批判不只是认识论问题，而是现代制度支配和价值贫困的诊断。",
+            "themeIds": [
+              "knowledge",
+              "ethics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "horkheimer:evidence:005",
+                "titleZh": "《理性的蚀落》论主观理性",
+                "summaryZh": "书中区分客观理性和主观理性，指出后者把判断集中在效率、适应和可计算性上，削弱目的反思。",
+                "source": {
+                  "workId": "horkheimer-eclipse-reason",
+                  "locator": "Chapters on objective reason and subjective reason",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "horkheimer:evidence:006",
+                "titleZh": "《理性的蚀落》论实用主义与适应",
+                "summaryZh": "相关章节批评理性被市场和组织适应逻辑吸收，使个人越来越难以提出超出现存秩序的规范判断。",
+                "source": {
+                  "workId": "horkheimer-eclipse-reason",
+                  "locator": "Sections on pragmatism, adaptation, and instrumental thinking",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "horkheimer:claim:004",
+            "titleZh": "启蒙会重新滑入神话",
+            "claimZh": "启蒙若只追求控制自然，就会把世界重新变成可支配对象并制造新的神话形式。",
+            "explanationZh": "这条主张解释法兰克福学派对现代性的双重态度：既不反理性，也拒绝把技术控制当作理性全部。",
+            "themeIds": [
+              "knowledge",
+              "politics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "horkheimer:evidence:007",
+                "titleZh": "《启蒙辩证法》导论论启蒙和神话",
+                "summaryZh": "导论把启蒙描述为解除恐惧的计划，同时追踪控制自然、抽象分类和主体自保如何把启蒙重新推向神话式同一化。",
+                "source": {
+                  "workId": "horkheimer-dialectic-enlightenment",
+                  "locator": "Preface and first essay, concept of enlightenment",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "horkheimer:evidence:008",
+                "titleZh": "《启蒙辩证法》奥德修斯章节",
+                "summaryZh": "奥德修斯分析把主体自我保存、牺牲和支配联系起来，展示理性主体在形成时已带有压抑机制。",
+                "source": {
+                  "workId": "horkheimer-dialectic-enlightenment",
+                  "locator": "Excursus on Odysseus, sacrifice, and self-preservation",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "horkheimer:problem:003",
+        "titleZh": "晚期宗教与正义记忆",
+        "questionZh": "霍克海默晚期为何从社会批判转向正义、绝望和全然他者的宗教语言？",
+        "summaryZh": "晚期霍克海默没有放弃批判理论，而是用宗教语言表达对受害者正义无法由历史进步自动保证的担忧。",
+        "themeIds": [
+          "religion",
+          "justice"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "horkheimer:claim:005",
+            "titleZh": "批判理论需要记住未获补偿的苦难",
+            "claimZh": "历史受害者的苦难不能被进步叙事抵消，正义要求对不可补偿者保持记忆。",
+            "explanationZh": "这条主张连接法兰克福早期社会批判和晚期宗教动机，避免把他简单读成悲观保守主义。",
+            "themeIds": [
+              "justice",
+              "religion"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "horkheimer:evidence:009",
+                "titleZh": "《对全然他者的渴望》论正义与神学残余",
+                "summaryZh": "访谈把对完全正义的渴望与神学语言联系起来，说明历史现实无法保证受害者终将得到补偿。",
+                "source": {
+                  "workId": "horkheimer-longing-totally-other",
+                  "locator": "Interviews on justice, theology, and longing for the totally other",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "horkheimer:evidence:010",
+                "titleZh": "《理性的蚀落》结尾的哲学与希望",
+                "summaryZh": "结尾处在现代工具理性批判之后仍保留哲学抵抗和非同一希望，显示晚期宗教语言并非放弃社会批判。",
+                "source": {
+                  "workId": "horkheimer-eclipse-reason",
+                  "locator": "Concluding reflections on philosophy, domination, and hope",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "horkheimer:claim:006",
+            "titleZh": "哈贝马斯继承并改写批判理论",
+            "claimZh": "霍克海默留下的理性危机问题成为哈贝马斯重建交往理性的背景，后者既继承问题又改变规范基础。",
+            "explanationZh": "这条主张为库内关系网提供从第一代批判理论到哈贝马斯的明确桥梁。",
+            "themeIds": [
+              "knowledge",
+              "politics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "horkheimer:evidence:011",
+                "titleZh": "《传统理论与批判理论》作为学派纲领",
+                "summaryZh": "纲领文本确立批判理论要把社会总体、知识形式和解放目标放在同一问题中，成为后续法兰克福传统源点。",
+                "source": {
+                  "workId": "horkheimer-traditional-critical-theory",
+                  "locator": "Programmatic role for later Frankfurt School critical theory",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "horkheimer:evidence:012",
+                "titleZh": "《启蒙辩证法》对交往理性的压力",
+                "summaryZh": "启蒙理性自毁诊断迫使后来的批判理论说明是否仍存在非工具化的理性形式，哈贝马斯正是在此处展开重建。",
+                "source": {
+                  "workId": "horkheimer-dialectic-enlightenment",
+                  "locator": "Reception context: reason, domination, and later critical theory",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "tier": "standard"
+}

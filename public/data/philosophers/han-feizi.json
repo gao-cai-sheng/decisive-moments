@@ -1,0 +1,298 @@
+{
+  "id": "han-feizi",
+  "names": {
+    "zh": "韩非子",
+    "en": "Han Fei"
+  },
+  "life": {
+    "birth": -280,
+    "death": -233,
+    "display": "约前280—前233"
+  },
+  "civilization": "chinese",
+  "traditions": [
+    "legalism",
+    "warring_states_thought",
+    "chinese_political_philosophy"
+  ],
+  "periods": [
+    "expansion_e5"
+  ],
+  "themes": [
+    "politics",
+    "justice",
+    "language"
+  ],
+  "keywordsZh": [
+    "法",
+    "术",
+    "势",
+    "刑名",
+    "君主集权"
+  ],
+  "oneLineZh": "综合法、术、势与刑名之学，构成战国末期法家政治哲学的系统表达。",
+  "influenceWeight": 3,
+  "reviewStatus": "draft",
+  "summaryZh": "韩非把商鞅之法、申不害之术、慎到之势和荀子式人性判断重新组织为君主治理术，强调公开法令、名实校验、赏罚二柄和制度性不信任；其《韩非子》也以《解老》《喻老》吸收道家语言，成为秦制和后世法术政治的重要文本枢纽。",
+  "works": [
+    "hanfeizi-text",
+    "hanfeizi-wudu",
+    "hanfeizi-xianxue",
+    "hanfeizi-shuo-nan",
+    "hanfeizi-nan",
+    "hanfeizi-jie-lao",
+    "hanfeizi-yu-lao"
+  ],
+  "sourceNotes": [
+    {
+      "label": "primary",
+      "noteZh": "以《韩非子》诸篇作为真实 works，重点核对法术势、二柄、五蠹、显学和老子解释。"
+    },
+    {
+      "label": "IEP/secondary",
+      "noteZh": "用于核对法家、战国政治思想和韩非综合前人资源的定位。"
+    }
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "hanfeizi:problem:001",
+        "titleZh": "国家如何在不信任贤德的前提下治理？",
+        "questionZh": "韩非如何用法、术、势替代依赖圣王贤臣的德性政治？",
+        "summaryZh": "韩非认为政治制度不能建立在少数贤人出现上，而应通过公开法令、官僚考核和君主权势，使普通人也被稳定约束。",
+        "themeIds": [
+          "politics",
+          "justice"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "hanfeizi:claim:001",
+            "titleZh": "治理应依赖制度而非贤德",
+            "claimZh": "君主不能把国家安危寄托于臣民自发仁义，而要让法令和赏罚直接塑造行为后果。",
+            "explanationZh": "这使韩非从儒家德性政治转向制度设计：好政治首先是让私利在明确规则中被驯化。",
+            "themeIds": [
+              "politics",
+              "ethics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "hanfeizi:evidence:001",
+                "titleZh": "《韩非子》对贤治的不信任",
+                "summaryZh": "《韩非子》多处批评等待贤臣和明君的政治想象，强调常人之情与制度约束比道德期待更可靠。",
+                "source": {
+                  "workId": "hanfeizi-text",
+                  "locator": "Han Feizi, chapters on law, two handles, and governing men",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "hanfeizi:evidence:002",
+                "titleZh": "《五蠹》的功效标准",
+                "summaryZh": "《五蠹》以耕战、法令和国家功效衡量社会群体，批判不服务富国强兵的言谈和私行，并显示法家功效标准。",
+                "source": {
+                  "workId": "hanfeizi-wudu",
+                  "locator": "Five Vermin, critique of private groups and obsolete models",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "hanfeizi:claim:002",
+            "titleZh": "法必须公开而可操作",
+            "claimZh": "法不是君主任意心意，而是臣民可知、官吏可执行、赏罚可核验的公共标准。",
+            "explanationZh": "公开法令使政治秩序不再依赖个人好恶，同时也给君主提供监督官僚的尺度。",
+            "themeIds": [
+              "politics",
+              "justice"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "hanfeizi:evidence:003",
+                "titleZh": "《韩非子》中的法令和赏罚",
+                "summaryZh": "《韩非子》反复把法令、刑罚和奖赏作为同一治理机制，要求名分、职责和结果可以被核验。",
+                "source": {
+                  "workId": "hanfeizi-text",
+                  "locator": "Han Feizi, law and reward-punishment chapters",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "hanfeizi:evidence:004",
+                "titleZh": "《显学》对儒墨的制度批评",
+                "summaryZh": "《显学》批评儒墨各有派别和言说分歧，认为国家不能用学派义理替代统一可行的法度与赏罚机制。",
+                "source": {
+                  "workId": "hanfeizi-xianxue",
+                  "locator": "Eminent Learning, critique of Confucians and Mohists",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "hanfeizi:problem:002",
+        "titleZh": "君主怎样控制官僚代理问题？",
+        "questionZh": "韩非如何用术、刑名和二柄处理臣下隐瞒、邀功和夺权风险？",
+        "summaryZh": "韩非把君臣关系看成高度不对称的信息与权力关系，君主必须隐匿好恶、核名责实，并掌握赏罚二柄。",
+        "themeIds": [
+          "politics",
+          "language"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "hanfeizi:claim:003",
+            "titleZh": "刑名校验约束官僚",
+            "claimZh": "臣下提出名目和职责后，君主要按实际成效核验，不让语言承诺逃离功效责任。",
+            "explanationZh": "这一思想把语言哲学变成官僚控制技术：名实不符不是单纯逻辑错误，而是政治风险。",
+            "themeIds": [
+              "language",
+              "politics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "hanfeizi:evidence:005",
+                "titleZh": "《难》诸篇的名实辨难",
+                "summaryZh": "《难》诸篇通过历史案例和反驳结构检验言辞、名分与实际效果，体现刑名思维的政治用途。",
+                "source": {
+                  "workId": "hanfeizi-nan",
+                  "locator": "Difficulties chapters, name-reality tests and historical cases",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "hanfeizi:evidence:006",
+                "titleZh": "《说难》的权力心理分析",
+                "summaryZh": "《说难》说明进言者必须揣摩君主欲望和危险边界，显示韩非对君臣信息不对称和权力心理的敏感。",
+                "source": {
+                  "workId": "hanfeizi-shuo-nan",
+                  "locator": "The Difficulties of Persuasion, ruler-minister psychology",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "hanfeizi:claim:004",
+            "titleZh": "二柄不可旁落",
+            "claimZh": "赏与罚是君主控制臣下的两柄，一旦被臣下掌握，国家权力就会被代理人夺取。",
+            "explanationZh": "韩非把政治稳定归结为权力工具的制度位置，而非臣下忠诚的道德声明。",
+            "themeIds": [
+              "politics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "hanfeizi:evidence:007",
+                "titleZh": "《韩非子》二柄思想",
+                "summaryZh": "《韩非子》把赏罚称为君主驭臣二柄，强调臣下不能分享最终裁断与奖惩权，否则君权会被夺取。",
+                "source": {
+                  "workId": "hanfeizi-text",
+                  "locator": "Han Feizi, Two Handles chapter tradition",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "hanfeizi:evidence:008",
+                "titleZh": "法术势综合的治理图景",
+                "summaryZh": "《韩非子》把法令、术数和君主位置结合，说明官僚控制依赖多层制度而非单一美德或臣下忠诚。",
+                "source": {
+                  "workId": "hanfeizi-text",
+                  "locator": "Han Feizi, synthesis of fa, shu, shi",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "hanfeizi:problem:003",
+        "titleZh": "法家为何借用老子语言？",
+        "questionZh": "韩非如何在批判儒墨的同时，把《老子》的道、理、无为转化为政治术？",
+        "summaryZh": "韩非不是单纯排斥诸子，而是把老子形而上和无为语言重新解释为君主不露私意、因法而治的政治技术。",
+        "themeIds": [
+          "politics",
+          "metaphysics",
+          "language"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "hanfeizi:claim:005",
+            "titleZh": "无为可被政治化为君主术",
+            "claimZh": "君主无为不是放弃统治，而是不以个人好恶扰乱法令，让臣下按名责实自行暴露能力。",
+            "explanationZh": "韩非把道家无为转为高度制度化的控制逻辑，既吸收老子又改变其价值方向。",
+            "themeIds": [
+              "politics",
+              "metaphysics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "hanfeizi:evidence:009",
+                "titleZh": "《解老》的道理转译",
+                "summaryZh": "《解老》解释《老子》道、德、理等概念时，常将其转向君主守静、任法和观察臣下的政治语境。",
+                "source": {
+                  "workId": "hanfeizi-jie-lao",
+                  "locator": "Explaining Laozi, political reading of Dao and li",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "hanfeizi:evidence:010",
+                "titleZh": "《喻老》的故事化解释",
+                "summaryZh": "《喻老》通过历史故事和政治案例说明《老子》语句，使道家格言进入法家治术和权力判断。",
+                "source": {
+                  "workId": "hanfeizi-yu-lao",
+                  "locator": "Illustrating Laozi, anecdotes and political interpretation",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "hanfeizi:claim:006",
+            "titleZh": "时代变化压倒复古政治",
+            "claimZh": "古今环境不同，先王之道不能被机械复制，治理必须依据当下人口、资源和战争条件调整。",
+            "explanationZh": "韩非的历史感服务于制度现实主义：法令正当性来自适应时代，而不是模仿古圣。",
+            "themeIds": [
+              "politics",
+              "knowledge"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "hanfeizi:evidence:011",
+                "titleZh": "《五蠹》的古今变化论",
+                "summaryZh": "《五蠹》用人口、财货和争夺条件变化说明古代仁义故事不适合战国国家竞争，强调因时制治。",
+                "source": {
+                  "workId": "hanfeizi-wudu",
+                  "locator": "Five Vermin, ancient and present conditions",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "hanfeizi:evidence:012",
+                "titleZh": "《显学》的反复古标准",
+                "summaryZh": "《显学》用实际功效和国家秩序批评复古学说，要求政治判断服从现实条件、制度结果和统一法令。",
+                "source": {
+                  "workId": "hanfeizi-xianxue",
+                  "locator": "Eminent Learning, anti-archaism and practical effectiveness",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "tier": "standard"
+}

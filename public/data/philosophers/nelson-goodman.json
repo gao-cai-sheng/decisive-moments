@@ -1,0 +1,43 @@
+{
+  "id": "nelson-goodman",
+  "tier": "seed",
+  "names": {
+    "zh": "纳尔逊·古德曼",
+    "en": "Nelson Goodman"
+  },
+  "life": {
+    "birth": 1906,
+    "death": 1998,
+    "display": "1906—1998"
+  },
+  "civilization": "western",
+  "traditions": [
+    "western_philosophy"
+  ],
+  "periods": [
+    "contemporary"
+  ],
+  "themes": [
+    "aesthetics",
+    "knowledge"
+  ],
+  "keywordsZh": [
+    "身份层",
+    "二线哲人",
+    "思想史补线"
+  ],
+  "oneLineZh": "构造主义认识论、符号系统与艺术哲学代表，可补奎因周边线索。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "纳尔逊·古德曼（1906—1998）是 W2 欧陆与英美近现代二线哲人候选。其身份层入选理由为：构造主义认识论、符号系统与艺术哲学代表，可补奎因周边线索。 本条仅作 seed 档基本定位，后续若升级标准档，需要重新做著作、论点与 evidence 研究。",
+  "works": [
+    "nelson-goodman-fact-fiction-forecast",
+    "nelson-goodman-languages-of-art"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S014",
+      "noteZh": "权威来源条目：SEP: Nelson Goodman；用于核验人物身份、生卒、代表著作和思想史定位。"
+    }
+  ]
+}

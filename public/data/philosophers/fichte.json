@@ -1,0 +1,299 @@
+{
+  "id": "fichte",
+  "names": {
+    "zh": "费希特",
+    "en": "Johann Gottlieb Fichte"
+  },
+  "life": {
+    "birth": 1762,
+    "death": 1814,
+    "display": "1762—1814"
+  },
+  "civilization": "european_modern",
+  "traditions": [
+    "german_idealism",
+    "transcendental_idealism"
+  ],
+  "periods": [
+    "expansion_e1"
+  ],
+  "themes": [
+    "freedom",
+    "knowledge",
+    "politics"
+  ],
+  "keywordsZh": [
+    "自我",
+    "知识学",
+    "自由",
+    "法权",
+    "民族教育"
+  ],
+  "oneLineZh": "以知识学把康德批判哲学推进为从自我活动出发的自由体系。",
+  "influenceWeight": 3,
+  "reviewStatus": "draft",
+  "summaryZh": "费希特从康德批判哲学出发，把哲学的共同基础转向自我设定、自我限制和实践自由；其知识学既回应物自身与怀疑论问题，也向德国观念论、法权哲学和民族教育论延伸。",
+  "works": [
+    "fichte-critique-revelation",
+    "fichte-foundation-wissenschaftslehre",
+    "fichte-natural-right",
+    "fichte-system-ethics",
+    "fichte-vocation-man",
+    "fichte-addresses-german-nation"
+  ],
+  "sourceNotes": [
+    {
+      "label": "SEP",
+      "url": "https://plato.stanford.edu/entries/johann-fichte/",
+      "noteZh": "用于核对生平、耶拿时期知识学、康德关系、法权与伦理体系。"
+    },
+    {
+      "label": "review",
+      "noteZh": "E1 批新增条目，relationship 与 thoughtSystem 已随批进入写前门；需外部审核抽查内容归属。"
+    }
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "fichte:problem:001",
+        "titleZh": "自由主体如何成为知识的开端？",
+        "questionZh": "费希特如何把康德的批判问题改写为自我活动与经验必然性的共同基础？",
+        "summaryZh": "费希特认为哲学不能把物自身当作外在原因，而要从自我的自我设定、自我限制和反思活动说明经验对象为何显得具有必然性。",
+        "themeIds": [
+          "knowledge",
+          "freedom"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "fichte:claim:001",
+            "titleZh": "知识学以自我设定开端",
+            "claimZh": "费希特把哲学的第一原则设为自我活动，而不是外在对象或不可知物自身。",
+            "explanationZh": "这并不是心理学意义的个人自我，而是使经验、判断和责任成为可能的先验活动中心。",
+            "themeIds": [
+              "knowledge",
+              "freedom"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "fichte:evidence:001",
+                "titleZh": "《全部知识学的基础》的第一原则",
+                "summaryZh": "该书开篇把自我设定自身作为无法再由对象解释的行动原则，用来替代康德体系中仍显松散的共同基础问题。",
+                "source": {
+                  "workId": "fichte-foundation-wissenschaftslehre",
+                  "locator": "Part I, first principle of the Wissenschaftslehre",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "fichte:evidence:002",
+                "titleZh": "SEP 对知识学任务的概括",
+                "summaryZh": "SEP 将知识学描述为从主体性和纯粹自我出发的先验体系，说明费希特试图系统化康德批判哲学的自由核心。",
+                "source": {
+                  "workId": "fichte-foundation-wissenschaftslehre",
+                  "locator": "SEP Johann Fichte, sections 2 and 3",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "fichte:claim:002",
+            "titleZh": "非我表示自由活动的限制条件",
+            "claimZh": "经验对象的必然性来自自我活动遭遇限制的结构，而不是来自独断的外在物自身。",
+            "explanationZh": "费希特用非我的设定说明自由主体为何仍然在经验世界中遭遇阻力、对象性和可共同判断的秩序。",
+            "themeIds": [
+              "knowledge",
+              "metaphysics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "fichte:evidence:003",
+                "titleZh": "基础知识学中的非我设定",
+                "summaryZh": "《全部知识学的基础》把非我作为自我活动内部的限制环节，使对象性成为自由活动结构中的必要契机。",
+                "source": {
+                  "workId": "fichte-foundation-wissenschaftslehre",
+                  "locator": "Part I, second and third principles",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "fichte:evidence:004",
+                "titleZh": "康德问题的费希特化",
+                "summaryZh": "SEP 说明费希特接受康德的先验任务，却拒绝把感觉原因交给物自身，从而把客观必然性重建为意识结构问题。",
+                "source": {
+                  "workId": "fichte-foundation-wissenschaftslehre",
+                  "locator": "SEP Johann Fichte, section 2 on task and strategy",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "fichte:problem:002",
+        "titleZh": "法权关系怎样从相互承认中产生？",
+        "questionZh": "费希特如何从自由主体推出身体、权利和共同生活的制度条件？",
+        "summaryZh": "费希特的法权哲学把自由主体理解为必须被其他自由者召唤和承认的存在，权利因此不是外在契约，而是自由共存的条件。",
+        "themeIds": [
+          "justice",
+          "politics",
+          "freedom"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "fichte:claim:003",
+            "titleZh": "承认是法权的先验条件",
+            "claimZh": "个人自由只有在他者承认中才能成为可实行的权利关系。",
+            "explanationZh": "费希特不是把权利理解为孤立个人的财产，而是把它放在互相限制、互相归责和共同世界的结构中。",
+            "themeIds": [
+              "justice",
+              "freedom"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "fichte:evidence:005",
+                "titleZh": "《自然法权基础》的召唤结构",
+                "summaryZh": "《自然法权基础》以他者召唤说明自我必须把自己理解为能被归责的自由者，权利由此具有互主体基础。",
+                "source": {
+                  "workId": "fichte-natural-right",
+                  "locator": "Part I, deduction of the concept of right",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "fichte:evidence:006",
+                "titleZh": "SEP 对法权哲学扩展的说明",
+                "summaryZh": "SEP 将法权哲学列为知识学系统的重要分支，指出费希特把社会、身体和权利问题纳入自由体系。",
+                "source": {
+                  "workId": "fichte-natural-right",
+                  "locator": "SEP Johann Fichte, section 4.4 Philosophy of Law",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "fichte:claim:004",
+            "titleZh": "国家服务于自由共存的保障",
+            "claimZh": "国家和法秩序的正当性在于保障自由者之间的可共存行动，而非单纯压制私人意志。",
+            "explanationZh": "费希特的政治哲学把制度看成实现自由的条件，同时也显示其后期思想可能走向更强的教育和国家组织要求。",
+            "themeIds": [
+              "politics",
+              "justice"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "fichte:evidence:007",
+                "titleZh": "自然法权中的制度推论",
+                "summaryZh": "《自然法权基础》从权利概念推向强制权、财产权和国家结构，说明制度是自由主体相互限制的条件。",
+                "source": {
+                  "workId": "fichte-natural-right",
+                  "locator": "Part II, application of right to political order",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "fichte:evidence:008",
+                "titleZh": "《封闭的商业国家》的经济政治实验",
+                "summaryZh": "《封闭的商业国家》把经济组织纳入政治自由问题，显示费希特试图通过制度安排保护公民生活条件。",
+                "source": {
+                  "workId": "fichte-vocation-man",
+                  "locator": "SEP Johann Fichte, life and work around 1800 political writings",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "fichte:problem:003",
+        "titleZh": "道德行动与民族教育如何相连？",
+        "questionZh": "费希特怎样从个人的道德使命走向公共教育、历史使命和政治动员？",
+        "summaryZh": "费希特把自由理解为需要在道德行动、学者使命和教育制度中实现的实践任务，晚期民族教育论则把个人使命扩大为共同体更新。",
+        "themeIds": [
+          "ethics",
+          "politics",
+          "freedom"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "fichte:claim:005",
+            "titleZh": "伦理学要求自我把自由实现为行动",
+            "claimZh": "自由不是单纯内在能力，而是在义务、努力和道德世界秩序中持续实现的任务。",
+            "explanationZh": "费希特把道德主体理解为必须改变自身和世界的行动者，因此理论哲学最终服务于实践自由。",
+            "themeIds": [
+              "ethics",
+              "freedom"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "fichte:evidence:009",
+                "titleZh": "《伦理学体系》的实践中心",
+                "summaryZh": "《伦理学体系》把知识学原则转化为义务理论，强调自由主体必须通过具体行动实现理性目的。",
+                "source": {
+                  "workId": "fichte-system-ethics",
+                  "locator": "Introduction and Part I on ethical drive",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "fichte:evidence:010",
+                "titleZh": "《人的使命》的信仰结论",
+                "summaryZh": "《人的使命》从怀疑与知识转向信仰，说明主体的最终确定性来自道德使命和自由实践的自我承诺。",
+                "source": {
+                  "workId": "fichte-vocation-man",
+                  "locator": "Book III, Faith",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "fichte:claim:006",
+            "titleZh": "民族教育被赋予自由更新功能",
+            "claimZh": "晚期费希特把公共教育视为塑造自由共同体和抵抗历史危机的核心手段。",
+            "explanationZh": "这一思想将知识学的实践冲动转向民族语言、学校制度和政治动员，也带来后世对其民族主义遗产的争议。",
+            "themeIds": [
+              "politics",
+              "freedom"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "fichte:evidence:011",
+                "titleZh": "《告德意志民族书》的教育主题",
+                "summaryZh": "这些演说在法军占领背景下把民族更新寄托于教育、语言和公共精神的重塑，目标被表述为更大的自由任务。",
+                "source": {
+                  "workId": "fichte-addresses-german-nation",
+                  "locator": "Addresses 1 and 2 on education and national renewal",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "fichte:evidence:012",
+                "titleZh": "SEP 对后期政治遗产的平衡说明",
+                "summaryZh": "SEP 指出《告德意志民族书》后来常被纳入德国民族主义史，但原演说同时具有教育改革和世界主义目标。",
+                "source": {
+                  "workId": "fichte-addresses-german-nation",
+                  "locator": "SEP Johann Fichte, life and work on Addresses",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "tier": "standard"
+}

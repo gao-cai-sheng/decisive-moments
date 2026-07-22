@@ -1,0 +1,45 @@
+{
+  "id": "hui-shi",
+  "tier": "seed",
+  "names": {
+    "zh": "惠施",
+    "en": "Hui Shi",
+    "native": "惠施"
+  },
+  "life": {
+    "birth": -380,
+    "death": -305,
+    "display": "约前380—约前305"
+  },
+  "civilization": "chinese",
+  "traditions": [
+    "mingjia"
+  ],
+  "periods": [
+    "warring_states"
+  ],
+  "themes": [
+    "language",
+    "metaphysics"
+  ],
+  "keywordsZh": [
+    "名家",
+    "辩者",
+    "合同异"
+  ],
+  "oneLineZh": "战国名家代表，与庄子同时并以辩学和合同异命题著称。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "惠施，战国魏人，曾任魏相，也是名家辩者的代表。《庄子》保存他与庄子的多处对话，《天下》篇列举“至大无外”“天与地卑”等十事，显示其以概念、尺度和同异关系挑战常识分类。惠施无完整著作传世，但其形象构成先秦语言哲学、辩学与庄子相对主义讨论的重要参照。",
+  "works": [
+    "hui-shi-zhuangzi-tianxia",
+    "hui-shi-zhuangzi-dialogues"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S008",
+      "url": "https://ctext.org/zhuangzi/tian-xia",
+      "noteZh": "以《庄子·天下》和相关对话支撑惠施身份、名家归属与辩学位置。"
+    }
+  ]
+}

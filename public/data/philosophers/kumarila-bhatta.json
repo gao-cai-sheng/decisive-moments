@@ -1,0 +1,42 @@
+{
+  "id": "kumarila-bhatta",
+  "tier": "seed",
+  "names": {
+    "zh": "鸠摩利罗",
+    "en": "Kumārila Bhaṭṭa"
+  },
+  "life": {
+    "display": "约7世纪"
+  },
+  "civilization": "indian",
+  "traditions": [
+    "mimamsa"
+  ],
+  "periods": [
+    "medieval"
+  ],
+  "themes": [
+    "knowledge",
+    "religion"
+  ],
+  "keywordsZh": [
+    "弥曼差",
+    "量论争辩",
+    "经典权威"
+  ],
+  "oneLineZh": "弥曼差知识论代表，以维护吠陀权威和批评佛教量论著称。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "鸠摩利罗是后期弥曼差的重要人物，其知识论和经典权威论与佛教量论构成强争论关系。本条仅作 seed 身份层定位。",
+  "works": [
+    "kumarila-bhatta-slokavarttika",
+    "kumarila-bhatta-tantravarttika"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S001",
+      "url": "https://plato.stanford.edu/entries/kumarila/",
+      "noteZh": "SEP Kumarila 条目用于核验人物身份、弥曼差传统定位和代表作。"
+    }
+  ]
+}

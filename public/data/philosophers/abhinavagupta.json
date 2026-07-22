@@ -1,0 +1,45 @@
+{
+  "id": "abhinavagupta",
+  "tier": "seed",
+  "names": {
+    "zh": "阿毗那婆笈多",
+    "en": "Abhinavagupta"
+  },
+  "life": {
+    "birth": 950,
+    "death": 1016,
+    "display": "约950—1016"
+  },
+  "civilization": "indian",
+  "traditions": [
+    "kashmir_shaivism",
+    "aesthetics"
+  ],
+  "periods": [
+    "medieval"
+  ],
+  "themes": [
+    "aesthetics",
+    "religion"
+  ],
+  "keywordsZh": [
+    "克什米尔湿婆派",
+    "味论",
+    "美学"
+  ],
+  "oneLineZh": "克什米尔湿婆派与印度美学代表，连接宗教形而上学和味论传统。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "阿毗那婆笈多是克什米尔湿婆派、诗学和审美理论的重要人物，适合作为印度美学与宗教哲学的 seed 身份层节点。",
+  "works": [
+    "abhinavagupta-tantraloka",
+    "abhinavagupta-abhinavabharati"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S004",
+      "url": "https://plato.stanford.edu/entries/abhinavagupta/",
+      "noteZh": "SEP Abhinavagupta 条目用于核验人物身份、传统定位和代表作。"
+    }
+  ]
+}

@@ -5,9 +5,9 @@
     "en": "Parmenides"
   },
   "life": {
-    "display": "约前 515—前 450",
     "birth": -515,
-    "death": -450
+    "death": -450,
+    "display": "约前 515—前 450"
   },
   "civilization": "ancient_greek",
   "traditions": [
@@ -38,5 +38,250 @@
       "label": "draft",
       "noteZh": "条目需要人工核对作品、年代和概念表述。"
     }
-  ]
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "parmenides:problem:001",
+        "titleZh": "“是者是”如何成为存在论原则？",
+        "questionZh": "巴门尼德为什么把“是者是，非是者不是”作为思想和言说的边界，并由此否定生成、消灭和非存在？",
+        "summaryZh": "巴门尼德把存在、思维和言说紧密连接。人不能真正思考或说出非是者；由此出发，是者被论证为无生、不灭、完整和不动，感官世界的生成变化受到根本挑战。",
+        "themeIds": [
+          "metaphysics",
+          "knowledge",
+          "language"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "parmenides:claim:001",
+            "titleZh": "非是者不可思不可说",
+            "claimZh": "巴门尼德的核心论证从排除非是者开始：不存在者不能被认识、思考或说出。",
+            "explanationZh": "这个原则不是普通语法命题，而是把思想的可行性和存在的可言说性绑定起来，从而阻止把生成解释为从非存在产生。",
+            "themeIds": [
+              "metaphysics",
+              "knowledge",
+              "language"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "parmenides:evidence:001",
+                "titleZh": "B2 区分可思道路和不可思道路",
+                "summaryZh": "B2 残篇区分“是且不可能不是”的道路与“不是且必然不是”的道路，将后者排除为不可认识。",
+                "source": {
+                  "workId": "parmenides-primary-work",
+                  "locator": "DK B2, lines on the two ways of inquiry",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "parmenides:evidence:002",
+                "titleZh": "B3 将思想与存在关联",
+                "summaryZh": "B3 残篇通常被理解为把思维和存在联系起来，成为巴门尼德存在论—认识论结构的关键证据。",
+                "source": {
+                  "workId": "parmenides-primary-work",
+                  "locator": "DK B3, preserved in Clement/Simplicius traditions on thinking and being",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "parmenides:claim:002",
+            "titleZh": "是者被论证为无生、不灭和完整",
+            "claimZh": "巴门尼德从非是者不可思推出，是者不能生成或消灭，也不能缺少、分裂或成为别的东西。",
+            "explanationZh": "这使其思想从经验观察转向严格论证。若生成意味着从非存在而来，或消灭意味着归于非存在，那么生成和消灭都被理性道路排除。",
+            "themeIds": [
+              "metaphysics",
+              "knowledge"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "parmenides:evidence:003",
+                "titleZh": "B8 集中论证是者属性",
+                "summaryZh": "B8 长段残篇论证是者无生、不灭、整体、唯一、不可动和完成，是巴门尼德真理道路的主体内容。",
+                "source": {
+                  "workId": "parmenides-primary-work",
+                  "locator": "DK B8, especially lines 1-49 preserved by Simplicius",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "parmenides:evidence:004",
+                "titleZh": "现代研究强调论证链的必然性",
+                "summaryZh": "Owen 和 Curd 等现代研究都强调，巴门尼德的重要性在于以严格路径论证限制关于存在和变化的可说内容。",
+                "source": {
+                  "workId": "parmenides-primary-work",
+                  "locator": "Modern scholarship on Parmenides' Way of Truth and modal argument",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "parmenides:problem:002",
+        "titleZh": "真理道路与意见道路为何并列？",
+        "questionZh": "如果真理道路已经否定生成和多样性，巴门尼德为什么还要安排一个关于凡人意见和宇宙构成的部分？",
+        "summaryZh": "巴门尼德的诗不是只有抽象存在论，也包括女神对凡人意见的说明。真理道路给出理性必然性，意见道路则展示人如何以对立原则组织现象世界，二者之间形成解释张力。",
+        "themeIds": [
+          "knowledge",
+          "metaphysics"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "parmenides:claim:003",
+            "titleZh": "女神启示结构区分可靠知识与凡人意见",
+            "claimZh": "巴门尼德用序诗和女神教导构造两条道路：可靠的真理道路与凡人习惯相信的意见道路。",
+            "explanationZh": "这种诗性框架服务于认识论区分。真正的知识必须服从“是”的必然性，不能被感官经验和习俗语言牵引。",
+            "themeIds": [
+              "knowledge",
+              "metaphysics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "parmenides:evidence:005",
+                "titleZh": "序诗描绘通往女神处的旅程",
+                "summaryZh": "序诗残篇以车乘、门、女神启示等意象引入知识道路，说明文本将真理理解为脱离凡人习惯的教导。",
+                "source": {
+                  "workId": "parmenides-primary-work",
+                  "locator": "DK B1 proem, preserved substantially by Sextus Empiricus",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "parmenides:evidence:006",
+                "titleZh": "B6/B7 警惕凡人双头道路",
+                "summaryZh": "相关残篇批判凡人受习惯和感官牵引，把是与不是混同，体现真理道路对普通意见的警戒。",
+                "source": {
+                  "workId": "parmenides-primary-work",
+                  "locator": "DK B6-B7 on mortals, habit and the forbidden way",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "parmenides:claim:004",
+            "titleZh": "意见道路是现象说明而非简单废纸",
+            "claimZh": "意见道路虽低于真理道路，却展示凡人世界图景如何由光与夜等对立构成，因此不能被当成毫无哲学意义的附录。",
+            "explanationZh": "关于意见道路地位有争议，但稳妥说法是：它说明现象世界的结构，同时提醒这种结构不能获得真理道路的必然性。",
+            "themeIds": [
+              "knowledge",
+              "metaphysics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "parmenides:evidence:007",
+                "titleZh": "B8 末尾转向凡人意见",
+                "summaryZh": "B8 末尾在完成真理论证后转向凡人意见，为后续宇宙论和对立原则说明设定层级，区分真理与意见。",
+                "source": {
+                  "workId": "parmenides-primary-work",
+                  "locator": "DK B8, closing lines introducing mortal opinions",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "parmenides:evidence:008",
+                "titleZh": "光与夜构成意见宇宙论",
+                "summaryZh": "意见道路残篇以光与夜等对立原则组织世界说明，显示巴门尼德并未完全放弃解释现象结构。",
+                "source": {
+                  "workId": "parmenides-primary-work",
+                  "locator": "DK B8.50-B19, fragments on light/night and cosmology of opinion",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "parmenides:problem:003",
+        "titleZh": "巴门尼德如何改变后来的哲学问题？",
+        "questionZh": "巴门尼德的存在论为什么迫使后来的哲学重新解释变化、多样性、非存在和知识的可能性？",
+        "summaryZh": "巴门尼德的论证为后世留下难题：如果非存在不可思，变化与多样性如何可能？柏拉图、亚里士多德以及后来的自然哲学都必须回应这一挑战。",
+        "themeIds": [
+          "metaphysics",
+          "knowledge"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "parmenides:claim:005",
+            "titleZh": "变化和多样性成为必须辩护的问题",
+            "claimZh": "巴门尼德之后，生成、运动和多样性不再能被直接当作常识，而必须解释其与“是”的关系。",
+            "explanationZh": "这推动了恩培多克勒、阿那克萨戈拉、原子论以及柏拉图等后续方案，用不同方式保留变化同时避免从非存在中生成。",
+            "themeIds": [
+              "metaphysics",
+              "knowledge"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "parmenides:evidence:009",
+                "titleZh": "亚里士多德把巴门尼德置于自然哲学难题中",
+                "summaryZh": "亚里士多德在《物理学》和《形而上学》中多次讨论巴门尼德，将其作为运动、多与一问题的关键前史。",
+                "source": {
+                  "workId": "parmenides-primary-work",
+                  "locator": "Aristotle, Physics I.2-3 and Metaphysics I.5 on Parmenides and the One",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "parmenides:evidence:010",
+                "titleZh": "现代研究将后巴门尼德自然哲学视为回应",
+                "summaryZh": "现代前苏格拉底研究通常把多元论和原子论看作对巴门尼德挑战的回应：解释变化而不承认非存在式生成。",
+                "source": {
+                  "workId": "parmenides-primary-work",
+                  "locator": "Modern scholarship on post-Parmenidean pluralists and atomists responding to Parmenides",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "parmenides:claim:006",
+            "titleZh": "柏拉图和亚里士多德继承并改造其问题",
+            "claimZh": "柏拉图与亚里士多德都必须面对巴门尼德关于一、多、是、非是和言说的挑战，并在各自体系中改造它。",
+            "explanationZh": "柏拉图通过辩证法和非存在的重新解释回应，亚里士多德则以实体、潜能现实和变化分析重构问题。巴门尼德因此成为形而上学史的枢纽。",
+            "themeIds": [
+              "metaphysics",
+              "knowledge",
+              "language"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "parmenides:evidence:011",
+                "titleZh": "柏拉图以《巴门尼德》《智者》重启问题",
+                "summaryZh": "柏拉图在《巴门尼德》中检验一与多，在《智者》中重新处理非存在问题，显示巴门尼德挑战的持续压力。",
+                "source": {
+                  "workId": "parmenides-primary-work",
+                  "locator": "Plato, Parmenides and Sophist, passages on the One and not-being",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "parmenides:evidence:012",
+                "titleZh": "亚里士多德用自身范畴重新定位巴门尼德",
+                "summaryZh": "亚里士多德将巴门尼德纳入一者和不动问题，并通过变化理论回应其对自然哲学的限制，形成持续影响。",
+                "source": {
+                  "workId": "parmenides-primary-work",
+                  "locator": "Aristotle, Metaphysics I.5 and Physics I.8 on Eleatic arguments",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "tier": "standard"
 }

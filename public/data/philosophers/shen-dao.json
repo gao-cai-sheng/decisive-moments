@@ -1,0 +1,45 @@
+{
+  "id": "shen-dao",
+  "tier": "seed",
+  "names": {
+    "zh": "慎到",
+    "en": "Shen Dao",
+    "native": "慎到"
+  },
+  "life": {
+    "birth": -350,
+    "death": -275,
+    "display": "约前350—约前275"
+  },
+  "civilization": "chinese",
+  "traditions": [
+    "legalism",
+    "daoism"
+  ],
+  "periods": [
+    "warring_states"
+  ],
+  "themes": [
+    "politics",
+    "metaphysics"
+  ],
+  "keywordsZh": [
+    "势",
+    "黄老",
+    "稷下"
+  ],
+  "oneLineZh": "战国稷下学者，常被视为法家“势”论代表。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "慎到，赵人，一般置于战国中期稷下学术圈，后世常以法家“势”论代表称之。《慎子》今本残缺，仍可见其把政治秩序系于位置、制度和客观权势，而非个人贤能的倾向。《庄子·天下》也保存其形象，说明慎到处在黄老、道法与战国制度论交汇的思想场域。",
+  "works": [
+    "shen-dao-shenzi"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S007",
+      "url": "https://ctext.org/shenzi",
+      "noteZh": "以《慎子》与《庄子·天下》支撑慎到身份、稷下背景和势论位置。"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": "huan-tan",
+  "tier": "seed",
+  "names": {
+    "zh": "桓谭",
+    "en": "Huan Tan",
+    "native": "桓譚"
+  },
+  "life": {
+    "birth": -43,
+    "death": 28,
+    "display": "约前43—28"
+  },
+  "civilization": "chinese",
+  "traditions": [
+    "han_confucianism",
+    "naturalism"
+  ],
+  "periods": [
+    "western_han",
+    "eastern_han"
+  ],
+  "themes": [
+    "knowledge",
+    "metaphysics"
+  ],
+  "keywordsZh": [
+    "新论",
+    "反谶纬",
+    "东汉思想"
+  ],
+  "oneLineZh": "两汉之际思想家，以《新论》与反谶纬立场著称。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "桓谭，字君山，沛国相人，活动于西汉末至东汉初。《后汉书》记其博学多识，反对以谶纬神学支配政治判断，因直言触忤光武帝。其《新论》多已亡佚，今据辑佚材料可见对音乐、政治、天道和虚妄说法的批评。桓谭是东汉早期理性批判与反谶纬传统的重要人物。",
+  "works": [
+    "huan-tan-xinlun-fragments"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S029",
+      "url": "https://ctext.org/hou-han-shu/huan-tan-lie-zhuan",
+      "noteZh": "以《后汉书》和《新论》辑佚支撑桓谭身份、作品和反谶纬立场。"
+    }
+  ]
+}

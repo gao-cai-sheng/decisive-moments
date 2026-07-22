@@ -5,9 +5,9 @@
     "en": "Mahavira"
   },
   "life": {
-    "display": "约前 599—前 527",
     "birth": -599,
-    "death": -527
+    "death": -527,
+    "display": "约前 599—前 527"
   },
   "civilization": "indian",
   "traditions": [
@@ -38,5 +38,249 @@
       "label": "draft",
       "noteZh": "条目需要人工核对作品、年代和概念表述。"
     }
-  ]
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "mahavira:problem:001",
+        "titleZh": "人如何脱离轮回与痛苦？",
+        "questionZh": "灵魂如何从业力、欲望、身体执著和不断轮回中解放出来，并达到不再受生死束缚的 mokṣa？",
+        "summaryZh": "摩诃毗罗把解脱理解为自我净化的道路：正见、正知、正行共同构成修行基础，五大盘誓与苦行则阻止新业流入、消磨旧业，最终使灵魂获得圆满知识并脱离轮回。",
+        "themeIds": [
+          "religion",
+          "life_death"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "mahavira:claim:001",
+            "titleZh": "解脱依赖三正见与自我修持",
+            "claimZh": "摩诃毗罗传统认为通向解脱的道路不是祭祀或神恩，而是正见、正知、正行的结合；灵魂必须通过自身修持理解真实、规范行为并清除业力。",
+            "explanationZh": "这一路径把宗教救赎转化为严格的伦理、认知和实践训练。人能否解脱，取决于是否以正确认识和正当生活切断业力束缚。",
+            "themeIds": [
+              "religion",
+              "life_death"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "mahavira:evidence:001",
+                "titleZh": "《北方论》第二十八讲论最终解脱之路",
+                "summaryZh": "《北方论》第二十八讲以“最终解脱之路”为题，集中呈现耆那教将正信、正知和正行结合为解脱道路的经典表述。",
+                "source": {
+                  "workId": "mahavira-primary-work",
+                  "locator": "Uttarādhyayana Sūtra, Lecture 28, The Road to Final Deliverance",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "mahavira:evidence:002",
+                "titleZh": "三正见作为解脱纲领",
+                "summaryZh": "研究资料把 Ratnatraya 概括为正见、正知、正行三者合一，并说明它们是摩诃毗罗传统中从轮回通向 mokṣa 的基本框架。",
+                "source": {
+                  "workId": "mahavira-primary-work",
+                  "locator": "Ratnatraya / Three Jewels 教义说明段",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "mahavira:claim:002",
+            "titleZh": "五大盘誓把解脱落实为身体纪律",
+            "claimZh": "摩诃毗罗把解脱目标落实为五大盘誓：不害、实语、不盗、梵行、无执；这些戒律既是道德规范，也是阻止业力继续附着于灵魂的技术。",
+            "explanationZh": "五戒使解脱不再只是抽象信仰，而成为每天说话、进食、行动和拥有物的具体限制。出家众守大誓，在家众守较轻的小誓。",
+            "themeIds": [
+              "religion",
+              "ethics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "mahavira:evidence:003",
+                "titleZh": "五大盘誓的制度化",
+                "summaryZh": "二手资料一致说明摩诃毗罗在前四戒基础上强调梵行，使不害、实语、不盗、梵行、无执成为完整的五大盘誓。",
+                "source": {
+                  "workId": "mahavira-primary-work",
+                  "locator": "Pañca-mahāvrata / Five Great Vows 说明段",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "mahavira:evidence:004",
+                "titleZh": "《北方论》第二十三讲比较四戒与五戒",
+                "summaryZh": "《北方论》第二十三讲“Kesi and Gautama”保存了帕尔斯瓦传统与摩诃毗罗传统之间关于戒律形式差异的讨论。",
+                "source": {
+                  "workId": "mahavira-primary-work",
+                  "locator": "Uttarādhyayana Sūtra, Lecture 23, Kesi and Gautama",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "mahavira:problem:002",
+        "titleZh": "如何理解生命与伤害的边界？",
+        "questionZh": "如果生命不只限于人和动物，而扩展到植物、微生物和元素存在，那么伦理上的伤害、责任与日常生活应如何被重新界定？",
+        "summaryZh": "摩诃毗罗思想以 ahimsā 为核心，把不害扩展到思想、语言和行为，并把生命边界扩展到极微小的存在；这使伦理生活必须通过素食、谨慎行走、过滤饮水、克制欲望等细节来尽量减少伤害。",
+        "themeIds": [
+          "ethics",
+          "religion",
+          "life_death"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "mahavira:claim:003",
+            "titleZh": "不害是一种全面的生活原则",
+            "claimZh": "在摩诃毗罗传统中，ahimsā 不只是禁止杀害，而是要求意念、语言和身体行为都尽量避免造成伤害，因此它成为全部伦理和修行制度的中心。",
+            "explanationZh": "不害之所以居于五戒之首，是因为任何伤害都会带来新的业力束缚。修行者必须在日常行为中不断减小伤害，而不是只在重大暴力行为上自我约束。",
+            "themeIds": [
+              "ethics",
+              "religion"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "mahavira:evidence:005",
+                "titleZh": "《阿阇蘭伽经》第一书第一讲论避免伤害生命",
+                "summaryZh": "《阿阇蘭伽经》第一书第一讲以戒律方式说明修行者应避免伤害生命，是摩诃毗罗传统中 ahimsā 的早期经典表达。",
+                "source": {
+                  "workId": "mahavira-primary-work",
+                  "locator": "Ācārāṅga Sūtra, Book I, Lecture 1, Lesson 1",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "mahavira:evidence:006",
+                "titleZh": "《北方论》第二十四讲论谨慎行为",
+                "summaryZh": "《北方论》第二十四讲“Samitis”讨论行走、言语、取物、置物和排泄等谨慎行为，显示不害原则如何落实到日常举止。",
+                "source": {
+                  "workId": "mahavira-primary-work",
+                  "locator": "Uttarādhyayana Sūtra, Lecture 24, The Samitis",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "mahavira:claim:004",
+            "titleZh": "生命边界被扩展到极微小存在",
+            "claimZh": "摩诃毗罗传统把 jīva 理解为广泛存在于动物、植物、微生物和元素形态中，因此伦理责任不只面对可见的人类共同体，而面对一切有生命者。",
+            "explanationZh": "这种生命观使耆那教伦理显得极端：饮水、进食、行走、用火和移动物体都可能涉及伤害。正因为生命边界被扩展，修行才必须极度谨慎。",
+            "themeIds": [
+              "life_death",
+              "ethics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "mahavira:evidence:007",
+                "titleZh": "《阿阇蘭伽经》关于元素生命的戒律叙述",
+                "summaryZh": "《阿阇蘭伽经》多处把地、水、火、风、植物等视作可能承载生命的对象，从而要求修行者避免粗暴使用和伤害。",
+                "source": {
+                  "workId": "mahavira-primary-work",
+                  "locator": "Ācārāṅga Sūtra, Book I, Lecture 1, Lessons 2-7",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "mahavira:evidence:008",
+                "titleZh": "《北方论》第三十六讲区分有生命与无生命",
+                "summaryZh": "《北方论》第三十六讲题为“有生命者与无生命者”，集中说明耆那教如何区分 jīva 与 ajīva，并据此建立伦理边界。",
+                "source": {
+                  "workId": "mahavira-primary-work",
+                  "locator": "Uttarādhyayana Sūtra, Lecture 36, On Living Beings and Things Without Life",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "mahavira:problem:003",
+        "titleZh": "真理是否只能从一个角度说出？",
+        "questionZh": "如果实相具有多个方面，而人的知识总是受立场和条件限制，那么我们应如何避免独断，同时又不放弃对真实的追求？",
+        "summaryZh": "摩诃毗罗传统中的 anekāntavāda 和 syādvāda 把真实理解为多面而条件化的对象：每种判断都需要说明其角度和限制。它既是一种知识论，也延伸为思想上的非暴力，要求人承认他者观点可能包含局部真理。",
+        "themeIds": [
+          "metaphysics",
+          "knowledge",
+          "ethics"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "mahavira:claim:005",
+            "titleZh": "实相具有多面性",
+            "claimZh": "anekāntavāda 认为实相不是单一命题可以穷尽的对象；任何断言都只是在特定角度下把握真实的一部分，因此独断本身就是认识上的偏执。",
+            "explanationZh": "这并不意味着真理不存在，而是说真理不能脱离条件、视角和语境被完整说出。摩诃毗罗传统因此把形上学实在论与认识论谦逊结合起来。",
+            "themeIds": [
+              "metaphysics",
+              "knowledge"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "mahavira:evidence:009",
+                "titleZh": "SEP 对非一端论的系统说明",
+                "summaryZh": "SEP 的耆那哲学条目说明 anekāntavāda 如何把对象理解为具有多重方面，并解释为什么单一判断无法穷尽真实。",
+                "source": {
+                  "workId": "mahavira-primary-work",
+                  "locator": "Stanford Encyclopedia of Philosophy, Jaina Philosophy, section on anekāntavāda",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "mahavira:evidence:010",
+                "titleZh": "《经行集》第一书第十三讲论真实问题",
+                "summaryZh": "《经行集》第一书第十三讲以“真实”为题，处在耆那教回应其他学派与界定自身道路的语境中，可作为多面真实论的早期经典背景。",
+                "source": {
+                  "workId": "mahavira-primary-work",
+                  "locator": "Sūtrakṛtāṅga Sūtra, Book I, Lecture 13, The Real Truth",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "mahavira:claim:006",
+            "titleZh": "限定判断构成思想上的非暴力",
+            "claimZh": "syādvāda 通过“从某种角度说”的限定判断训练人避免绝对化自己的观点；这种知识论实践也可理解为一种思想层面的 ahimsā。",
+            "explanationZh": "如果暴力也包括语言和思想上的排斥，那么承认他者观点可能有部分真实，就是不害原则在讨论和判断中的延伸。它把逻辑方法转化为对话伦理。",
+            "themeIds": [
+              "knowledge",
+              "ethics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "mahavira:evidence:011",
+                "titleZh": "七支判断的知识论功能",
+                "summaryZh": "SEP 与 IEP 均说明 syādvāda 以七种限定判断表达对象在不同条件下的状态，目的在于避免单一命题的绝对化。",
+                "source": {
+                  "workId": "mahavira-primary-work",
+                  "locator": "Jaina Philosophy, sections on syādvāda and saptabhaṅgī",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "mahavira:evidence:012",
+                "titleZh": "《经行集》对异学的批判语境",
+                "summaryZh": "《经行集》多讲讨论耆那教与其他沙门、婆罗门学派的分歧，显示多面判断论是在激烈思想竞争中形成的自我限定方式。",
+                "source": {
+                  "workId": "mahavira-primary-work",
+                  "locator": "Sūtrakṛtāṅga Sūtra, Book I, Lectures 1-2, The Doctrine and The Destruction of Karman",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "tier": "standard"
 }

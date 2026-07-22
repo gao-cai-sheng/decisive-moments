@@ -1,0 +1,46 @@
+{
+  "id": "wei-yuan",
+  "tier": "seed",
+  "names": {
+    "zh": "魏源",
+    "en": "Wei Yuan",
+    "native": "魏源"
+  },
+  "life": {
+    "birth": 1794,
+    "death": 1857,
+    "display": "1794—1857"
+  },
+  "civilization": "chinese",
+  "traditions": [
+    "confucianism",
+    "qing_reform_thought"
+  ],
+  "periods": [
+    "qing"
+  ],
+  "themes": [
+    "politics",
+    "knowledge"
+  ],
+  "keywordsZh": [
+    "海国图志",
+    "师夷长技",
+    "经世致用"
+  ],
+  "oneLineZh": "晚清经世思想家，以《海国图志》提出师夷长技以制夷。",
+  "influenceWeight": 3,
+  "reviewStatus": "draft",
+  "summaryZh": "魏源，字默深，湖南邵阳人，晚清思想家和经世学者。《海国图志》在林则徐资料基础上扩展世界地理、海防和西方知识，提出师夷长技以制夷；《圣武记》则总结清代军事和边疆经验。魏源把传统经世学推向世界知识和国家危机应对，是晚清改革思想的重要开端。",
+  "works": [
+    "wei-yuan-haiguo-tuzhi",
+    "wei-yuan-shengwu-ji"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S020",
+      "url": "https://ctext.org/hai-guo-tu-zhi",
+      "noteZh": "以魏源《海国图志》《圣武记》支撑身份层。"
+    }
+  ]
+}

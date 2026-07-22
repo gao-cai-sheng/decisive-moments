@@ -1,0 +1,43 @@
+{
+  "id": "th-green",
+  "tier": "seed",
+  "names": {
+    "zh": "托马斯·希尔·格林",
+    "en": "T. H. Green"
+  },
+  "life": {
+    "birth": 1836,
+    "death": 1882,
+    "display": "1836—1882"
+  },
+  "civilization": "western",
+  "traditions": [
+    "political_philosophy"
+  ],
+  "periods": [
+    "modern"
+  ],
+  "themes": [
+    "ethics",
+    "politics"
+  ],
+  "keywordsZh": [
+    "身份层",
+    "二线哲人",
+    "思想史补线"
+  ],
+  "oneLineZh": "英国新黑格尔主义与新自由主义源头人物，可补伦理国家与积极自由线索。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "托马斯·希尔·格林（1836—1882）是 W2 欧陆与英美近现代二线哲人候选。其身份层入选理由为：英国新黑格尔主义与新自由主义源头人物，可补伦理国家与积极自由线索。 本条仅作 seed 档基本定位，后续若升级标准档，需要重新做著作、论点与 evidence 研究。",
+  "works": [
+    "th-green-prolegomena-to-ethics",
+    "th-green-political-obligation"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S007",
+      "noteZh": "权威来源条目：SEP: Thomas Hill Green；用于核验人物身份、生卒、代表著作和思想史定位。"
+    }
+  ]
+}

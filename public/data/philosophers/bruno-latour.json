@@ -1,0 +1,44 @@
+{
+  "id": "bruno-latour",
+  "tier": "seed",
+  "names": {
+    "zh": "布鲁诺·拉图尔",
+    "en": "Bruno Latour"
+  },
+  "life": {
+    "birth": 1947,
+    "death": 2022,
+    "display": "1947—2022"
+  },
+  "civilization": "western",
+  "traditions": [
+    "science_and_technology_studies"
+  ],
+  "periods": [
+    "contemporary"
+  ],
+  "themes": [
+    "knowledge",
+    "politics"
+  ],
+  "keywordsZh": [
+    "法国哲学",
+    "身份层",
+    "思想史补线"
+  ],
+  "oneLineZh": "行动者网络与科学人类学，接 canguilhem/koyre。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "布鲁诺·拉图尔（1947—2022）是 Seed W3 法国近现代—现当代二线哲人候选。其身份层入选理由为：行动者网络与科学人类学，接 canguilhem/koyre。 本条仅作 seed 档基本定位，后续若升级标准档，必须重新做著作、论点与 evidence 研究。",
+  "works": [
+    "bruno-latour-science-in-action",
+    "bruno-latour-never-been-modern"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S008",
+      "url": "https://plato.stanford.edu/entries/scientific-knowledge-social/",
+      "noteZh": "权威来源条目：SEP (STS): Bruno Latour；用于核验人物身份、生卒、代表著作和思想史定位。"
+    }
+  ]
+}

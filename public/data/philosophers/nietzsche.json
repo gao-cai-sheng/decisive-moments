@@ -66,10 +66,20 @@
               {
                 "id": "nietzsche-genealogy-source",
                 "titleZh": "《道德谱系》传统",
-                "summaryZh": "尼采通过谱系分析重审善恶、罪责、良心等道德概念的历史形成。",
+                "summaryZh": "尼采通过谱系分析重审善恶、罪责、良心等道德概念的历史形成和生命功能取向问题意识。",
                 "source": {
                   "workId": "nietzsche-primary-work",
-                  "locator": "谱系学相关论述",
+                  "locator": "《道德谱系》第一论文：善恶与好坏的起源段落",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "nietzsche-genealogy-preface-second",
+                "titleZh": "道德价值本身成为问题",
+                "summaryZh": "《道德谱系》序言要求把道德价值本身置于批判之下，追问这些价值从何而来并具有什么后果。",
+                "source": {
+                  "workId": "nietzsche-primary-work",
+                  "locator": "《道德谱系》序言第3–6节：道德价值本身的问题化段落",
                   "excerptStatus": "summary_only"
                 }
               }
@@ -89,10 +99,20 @@
               {
                 "id": "nietzsche-master-slave-source",
                 "titleZh": "善恶与好坏的区分",
-                "summaryZh": "相关论述通过善恶与好坏的差别揭示道德语言的历史张力。",
+                "summaryZh": "相关论述通过善恶与好坏的差别揭示道德语言的历史张力和评价方式冲突结构来源脉络分析。",
                 "source": {
                   "workId": "nietzsche-primary-work",
-                  "locator": "主人道德与奴隶道德",
+                  "locator": "《道德谱系》第一论文：主人道德与奴隶道德对比段落",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "nietzsche-ressentiment-second",
+                "titleZh": "怨恨与价值反转",
+                "summaryZh": "《道德谱系》第一论文把奴隶道德同怨恨和价值反转相连，说明道德评价背后有历史处境。",
+                "source": {
+                  "workId": "nietzsche-primary-work",
+                  "locator": "《道德谱系》第一论文第10–13节：怨恨与价值反转段落",
                   "excerptStatus": "summary_only"
                 }
               }
@@ -126,10 +146,20 @@
               {
                 "id": "nietzsche-god-dead-source",
                 "titleZh": "疯人寓言传统",
-                "summaryZh": "疯人寓言以戏剧化方式呈现现代人尚未真正理解的价值崩解。",
+                "summaryZh": "疯人寓言以戏剧化方式呈现现代人尚未真正理解的价值崩解和方向丧失问题处境诊断场景。",
                 "source": {
                   "workId": "nietzsche-primary-work",
-                  "locator": "上帝之死相关段落",
+                  "locator": "《快乐的科学》第125节：疯人寓言段落",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "nietzsche-god-dead-second-source",
+                "titleZh": "我们杀死了上帝的后果",
+                "summaryZh": "《快乐的科学》第125节把上帝之死表述为人类自身造成的事件，并追问价值世界失去中心后的后果。",
+                "source": {
+                  "workId": "nietzsche-primary-work",
+                  "locator": "《快乐的科学》第125节：我们杀死了上帝及其后果段落",
                   "excerptStatus": "summary_only"
                 }
               }
@@ -144,15 +174,25 @@
               "ethics",
               "freedom"
             ],
-            "weight": 3,
+            "weight": 2,
             "evidence": [
               {
                 "id": "nietzsche-revaluation-source",
                 "titleZh": "重估价值传统",
-                "summaryZh": "尼采晚期思想反复把价值创造与克服虚无主义联系起来。",
+                "summaryZh": "尼采晚期思想反复把价值创造与克服虚无主义联系起来，要求重新审查道德的生命意义标准。",
                 "source": {
                   "workId": "nietzsche-primary-work",
-                  "locator": "重估一切价值相关论述",
+                  "locator": "《道德谱系》序言第6节：要求批判道德价值本身的段落",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "nietzsche-revaluation-antichrist-second",
+                "titleZh": "反基督者中的价值重估",
+                "summaryZh": "《反基督者》以价值重估为背景批判基督教道德，说明虚无主义需要通过新的评价尺度回应。",
+                "source": {
+                  "workId": "nietzsche-primary-work",
+                  "locator": "《反基督者》序言及第1–2节：价值重估和生命评价段落",
                   "excerptStatus": "summary_only"
                 }
               }
@@ -185,10 +225,53 @@
               {
                 "id": "nietzsche-overcoming-source",
                 "titleZh": "自我超克相关论述",
-                "summaryZh": "相关文本把创造、危险和自我克服视为摆脱平庸价值的重要条件。",
+                "summaryZh": "相关文本把创造、危险和自我克服视为摆脱平庸价值的重要条件和生命方向目标要求实践。",
                 "source": {
                   "workId": "nietzsche-primary-work",
-                  "locator": "自我超克相关段落",
+                  "locator": "《查拉图斯特拉如是说》第二部〈论自我超克〉：生命告白权力意志段",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "nietzsche-overman-second-source",
+                "titleZh": "超人与自我超越",
+                "summaryZh": "《查拉图斯特拉如是说》序言以超人和桥的意象说明，人应被理解为通向自我超越的过程。",
+                "source": {
+                  "workId": "nietzsche-primary-work",
+                  "locator": "《查拉图斯特拉如是说》序言第3–4节：超人与桥的意象段落",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "nietzsche-will-to-power-interpretation",
+            "titleZh": "权力意志表现为解释和塑形",
+            "claimZh": "权力意志不只是外在支配欲，也表现为生命对自身和世界的解释、组织与塑形。",
+            "explanationZh": "这使尼采的权力意志既关乎生命动力，也关乎认识和价值创造：生命通过解释世界来扩展自身的形式和可能性。",
+            "themeIds": [
+              "metaphysics",
+              "knowledge"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "nietzsche-will-to-power-source",
+                "titleZh": "《善恶的彼岸》中的权力意志论述",
+                "summaryZh": "《善恶的彼岸》多处把生命、解释和支配性形式联系起来，为权力意志提供哲学表达线索。",
+                "source": {
+                  "workId": "nietzsche-primary-work",
+                  "locator": "《善恶的彼岸》第13节：生命即权力意志段",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "nietzsche-interpretation-second-source",
+                "titleZh": "解释与支配性形式",
+                "summaryZh": "《善恶的彼岸》关于哲学家和解释的段落说明，认识活动本身也带有组织世界和设定价值的力量。",
+                "source": {
+                  "workId": "nietzsche-primary-work",
+                  "locator": "《善恶的彼岸》第6节及第22节：哲学家解释和自然解释段落",
                   "excerptStatus": "summary_only"
                 }
               }
@@ -221,10 +304,53 @@
               {
                 "id": "nietzsche-perspective-source",
                 "titleZh": "视角主义相关论述",
-                "summaryZh": "尼采多处以视角、解释和价值评价的语言重构真理问题。",
+                "summaryZh": "尼采多处以视角、解释和价值评价的语言重构真理问题，强调认识没有无身体立场基础前提。",
                 "source": {
                   "workId": "nietzsche-primary-work",
-                  "locator": "视角主义相关段落",
+                  "locator": "《道德谱系》第三论文第12节：视角性认识段",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "nietzsche-truth-metaphor-second",
+                "titleZh": "真理与隐喻传统",
+                "summaryZh": "早期文本《论真理与谎言》把概念和真理同隐喻、遗忘和约定联系起来，补充视角主义问题。",
+                "source": {
+                  "workId": "nietzsche-primary-work",
+                  "locator": "《论真理与谎言》第一节：概念、隐喻和真理生成段落",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "nietzsche-artistic-affirmation",
+            "titleZh": "艺术提供肯定生命的解释力量",
+            "claimZh": "尼采把艺术理解为对生命的肯定性解释，它能在无终极根据的处境中创造可承受的意义形式。",
+            "explanationZh": "艺术不是逃避真实，而是一种塑形和肯定生命的力量；它让人不只揭露幻相，也能以创造方式承担世界。",
+            "themeIds": [
+              "aesthetics",
+              "freedom"
+            ],
+            "weight": 1,
+            "evidence": [
+              {
+                "id": "nietzsche-art-source",
+                "titleZh": "《悲剧的诞生》与艺术肯定",
+                "summaryZh": "《悲剧的诞生》把艺术、悲剧和生命肯定联系起来，显示尼采早期思想中艺术对虚无和痛苦的回应。",
+                "source": {
+                  "workId": "nietzsche-primary-work",
+                  "locator": "《悲剧的诞生》第5节：作为审美现象的存在得以辩护段",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "nietzsche-art-second-source",
+                "titleZh": "艺术作为生命刺激",
+                "summaryZh": "尼采后期笔记和相关文本延续艺术肯定生命的思路，把艺术理解为抵抗虚无主义的重要力量。",
+                "source": {
+                  "workId": "nietzsche-primary-work",
+                  "locator": "《偶像的黄昏》〈一个不合时宜者的漫游〉关于艺术和生命刺激的段落",
                   "excerptStatus": "summary_only"
                 }
               }
@@ -233,5 +359,6 @@
         ]
       }
     ]
-  }
+  },
+  "tier": "standard"
 }

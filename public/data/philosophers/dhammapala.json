@@ -1,0 +1,52 @@
+{
+  "id": "dhammapala",
+  "tier": "seed",
+  "names": {
+    "zh": "护法",
+    "en": "Dhammapala",
+    "native": "Dhammapāla"
+  },
+  "life": {
+    "birth": 600,
+    "display": "约6—7世纪，断代不确"
+  },
+  "civilization": "theravada_buddhist",
+  "traditions": [
+    "theravada",
+    "pali_commentarial_tradition"
+  ],
+  "periods": [
+    "seed_w13",
+    "theravada_classical"
+  ],
+  "themes": [
+    "metaphysics",
+    "ethics",
+    "knowledge"
+  ],
+  "keywordsZh": [
+    "胜义灯疏",
+    "小部注疏",
+    "巴利注疏",
+    "断代不确"
+  ],
+  "oneLineZh": "上座部巴利注疏家，传统上与《胜义灯疏》系列小部注疏相连，断代约6—7世纪但不确。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "护法是巴利注疏传统中继觉音之后的重要作者名，通常与《胜义灯疏》系列小部注疏相连；其年代和文本归属比觉音更不稳定。本 seed 档只建身份层，并明确标注约6—7世纪断代不确。",
+  "works": [
+    "dhammapala-paramatthadipani"
+  ],
+  "sourceNotes": [
+    {
+      "label": "W13-B1-S003",
+      "url": "https://www.encyclopedia.com/religion/dictionaries-thesauruses-pictures-and-press-releases/dhammapala",
+      "noteZh": "Encyclopedia.com Dhammapala 条目用于核验其上座部注疏家身份、约6—7世纪断代不确和 Paramatthadīpanī 传统。"
+    },
+    {
+      "label": "W13-B1-S004",
+      "url": "https://suttacentral.net/",
+      "noteZh": "SuttaCentral 用于辅助核验巴利经典与注疏传统语境；本批仅作身份层来源补充。"
+    }
+  ]
+}

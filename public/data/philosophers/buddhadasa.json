@@ -1,0 +1,55 @@
+{
+  "id": "buddhadasa",
+  "tier": "seed",
+  "names": {
+    "zh": "佛使比丘",
+    "en": "Buddhadasa",
+    "native": "Buddhadāsa Bhikkhu"
+  },
+  "life": {
+    "birth": 1906,
+    "death": 1993,
+    "display": "1906—1993"
+  },
+  "civilization": "theravada_buddhist",
+  "traditions": [
+    "thai_theravada",
+    "modern_buddhist_reform",
+    "dependent_origination"
+  ],
+  "periods": [
+    "seed_w13",
+    "theravada_modern"
+  ],
+  "themes": [
+    "religion",
+    "metaphysics",
+    "politics"
+  ],
+  "keywordsZh": [
+    "泰国佛教改革",
+    "缘起",
+    "法的社会主义",
+    "观呼吸"
+  ],
+  "oneLineZh": "泰国现代佛教思想家，以缘起重释、观呼吸修行和“法的社会主义”连接佛教改革与政治伦理。",
+  "influenceWeight": 3,
+  "reviewStatus": "draft",
+  "summaryZh": "佛使比丘是20世纪泰国最具影响力的现代佛教思想家之一，重释缘起、无我和修行实践，并提出“法的社会主义”等政治伦理表达。本 seed 档把他与 Nagarjuna 的关系标为缘起/空的问题对话，不写作师承。",
+  "works": [
+    "buddhadasa-mindfulness-with-breathing",
+    "buddhadasa-no-religion"
+  ],
+  "sourceNotes": [
+    {
+      "label": "W13-B2-S005",
+      "url": "https://en.bia.or.th/",
+      "noteZh": "Buddhadasa Indapanno Archives 用于核验佛使比丘的泰国现代佛教身份、作品流传和 Suan Mokkh 传统。"
+    },
+    {
+      "label": "W13-B2-S006",
+      "url": "https://www.suanmokkh.org/",
+      "noteZh": "Suan Mokkh 资料用于辅助核验佛使比丘观呼吸、缘起重释和现代佛教思想口径。"
+    }
+  ]
+}

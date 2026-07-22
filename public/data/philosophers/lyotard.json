@@ -1,0 +1,45 @@
+{
+  "id": "lyotard",
+  "tier": "seed",
+  "names": {
+    "zh": "让-弗朗索瓦·利奥塔",
+    "en": "Jean-François Lyotard"
+  },
+  "life": {
+    "birth": 1924,
+    "death": 1998,
+    "display": "1924—1998"
+  },
+  "civilization": "western",
+  "traditions": [
+    "poststructuralism",
+    "postmodernism"
+  ],
+  "periods": [
+    "contemporary"
+  ],
+  "themes": [
+    "language",
+    "aesthetics"
+  ],
+  "keywordsZh": [
+    "法国哲学",
+    "身份层",
+    "思想史补线"
+  ],
+  "oneLineZh": "后现代状况与元叙事之终结。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "让-弗朗索瓦·利奥塔（1924—1998）是 Seed W3 法国近现代—现当代二线哲人候选。其身份层入选理由为：后现代状况与元叙事之终结。 本条仅作 seed 档基本定位，后续若升级标准档，必须重新做著作、论点与 evidence 研究。",
+  "works": [
+    "lyotard-postmodern-condition",
+    "lyotard-differend"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S004",
+      "url": "https://iep.utm.edu/lyotard/",
+      "noteZh": "权威来源条目：IEP: Jean-François Lyotard；用于核验人物身份、生卒、代表著作和思想史定位。"
+    }
+  ]
+}

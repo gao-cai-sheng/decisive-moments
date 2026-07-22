@@ -1,0 +1,289 @@
+{
+  "id": "cleanthes",
+  "names": {
+    "zh": "克里安忒斯",
+    "en": "Cleanthes"
+  },
+  "life": {
+    "birth": -330,
+    "death": -230,
+    "display": "约前 330—前 230"
+  },
+  "civilization": "ancient_greek",
+  "traditions": [
+    "stoicism",
+    "ancient_greek_philosophy"
+  ],
+  "periods": [
+    "first_release"
+  ],
+  "themes": [
+    "ethics",
+    "metaphysics",
+    "knowledge"
+  ],
+  "keywordsZh": [
+    "伦理",
+    "形而上学",
+    "知识"
+  ],
+  "oneLineZh": "芝诺之后的斯多葛学派领袖，以《宙斯赞歌》和顺从宇宙理性的虔敬伦理著称。",
+  "influenceWeight": 1,
+  "reviewStatus": "draft",
+  "summaryZh": "芝诺之后的斯多葛学派领袖，以《宙斯赞歌》和顺从宇宙理性的虔敬伦理著称。本条目以 summary_only 方式整理，重点保留低争议的问题结构、主张和可追溯证据定位。",
+  "works": [
+    "cleanthes-primary-work"
+  ],
+  "sourceNotes": [
+    {
+      "label": "primary-dossier",
+      "noteZh": "本轮采用《宙斯赞歌》、第欧根尼·拉尔修、斯多葛残篇与现代研究交叉定位；不填逐字摘录。"
+    },
+    {
+      "label": "excerpt-status",
+      "noteZh": "全部 evidence 使用 summary_only，locator 保留到作品、卷章或主题段落层级。"
+    }
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "cleanthes:problem:001",
+        "titleZh": "宇宙神意如何成为伦理秩序？",
+        "questionZh": "克里安忒斯如何把宙斯、logos、命运和自然秩序结合起来，使顺从自然成为宗教性和理性化的生活原则？",
+        "summaryZh": "克里安忒斯延续芝诺的自然伦理，同时以赞歌语言强化宇宙理性、神意和人的顺从之间的关系。",
+        "themeIds": [
+          "metaphysics",
+          "religion"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "cleanthes:claim:001",
+            "titleZh": "宙斯赞歌把神理解为普遍理性秩序",
+            "claimZh": "《宙斯赞歌》中的宙斯不是地方神话角色，而是贯穿自然、法律和命运的普遍理性力量。",
+            "explanationZh": "这使斯多葛自然哲学带有虔敬维度：人不是逃离世界，而是学习在宇宙秩序中自愿协同。",
+            "themeIds": [
+              "metaphysics",
+              "religion"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "cleanthes:evidence:001",
+                "titleZh": "《宙斯赞歌》中的宇宙治理",
+                "summaryZh": "赞歌把宙斯描写为支配自然、雷电、法律和万物秩序的最高理性原则，体现斯多葛宇宙理性的神学表达。",
+                "source": {
+                  "workId": "cleanthes-primary-work",
+                  "locator": "Cleanthes, Hymn to Zeus, lines on Zeus governing all things through law and logos",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "cleanthes:evidence:002",
+                "titleZh": "斯多葛神学的后世见证",
+                "summaryZh": "西塞罗和后世汇编材料把斯多葛神学解释为自然、理性、神意和命运的同一化，显示其系统性背景。",
+                "source": {
+                  "workId": "cleanthes-primary-work",
+                  "locator": "Cicero, De Natura Deorum II and SVF I Cleanthes fragments on providence and divine reason",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "cleanthes:claim:002",
+            "titleZh": "顺从命运不是被动屈服",
+            "claimZh": "克里安忒斯式顺从命运强调理性同意，而不是消极忍受外部强制。",
+            "explanationZh": "著名的牵引比喻显示：命运会带着愿意者前行，也会拖着不愿者前行；伦理关键在于主动理解和同意。",
+            "themeIds": [
+              "ethics",
+              "freedom"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "cleanthes:evidence:003",
+                "titleZh": "命运牵引比喻",
+                "summaryZh": "古代材料把愿意者被命运引导、不愿者被命运拖行的格言归于克里安忒斯传统，强调理性同意的伦理价值。",
+                "source": {
+                  "workId": "cleanthes-primary-work",
+                  "locator": "Seneca, Epistles 107.11 preserving Cleanthes' verse on fate leading the willing and dragging the unwilling",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "cleanthes:evidence:004",
+                "titleZh": "斯多葛责任结构",
+                "summaryZh": "现代研究通常把这一比喻解释为斯多葛相容论的伦理图像：事件受命运支配，态度和同意仍可训练。",
+                "source": {
+                  "workId": "cleanthes-primary-work",
+                  "locator": "Modern Stoic scholarship on Cleanthes, fate, assent and compatibilist ethics",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "cleanthes:problem:002",
+        "titleZh": "德性如何在艰苦训练中成形？",
+        "questionZh": "克里安忒斯的生活传记和斯多葛训练传统如何说明德性不是抽象知识，而是持续操练的稳定性格？",
+        "summaryZh": "克里安忒斯的传统形象强调贫穷、劳动、忍耐和忠于学园，显示早期斯多葛把哲学视为日常训练。",
+        "themeIds": [
+          "ethics",
+          "freedom"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "cleanthes:claim:003",
+            "titleZh": "贫穷与劳动被塑造成哲学训练",
+            "claimZh": "关于克里安忒斯汲水、贫穷求学的传记材料，把劳动和贫乏呈现为德性训练的背景。",
+            "explanationZh": "这些材料虽有传记修辞成分，但稳定表达早期斯多葛对坚忍、自足和持续学习的重视。",
+            "themeIds": [
+              "ethics",
+              "freedom"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "cleanthes:evidence:005",
+                "titleZh": "第欧根尼·拉尔修的克里安忒斯传",
+                "summaryZh": "传记记录克里安忒斯白天听学、夜间劳动的形象，并强调其贫穷和坚毅，把生活艰苦塑造成哲学训练。",
+                "source": {
+                  "workId": "cleanthes-primary-work",
+                  "locator": "Diogenes Laertius VII.168-176 on Cleanthes' life, poverty, work and succession to Zeno",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "cleanthes:evidence:006",
+                "titleZh": "早期斯多葛生活训练研究",
+                "summaryZh": "现代研究常把这类传记作为斯多葛 askesis 的象征性材料，而非单纯轶事，用来理解早期学派德性实践。",
+                "source": {
+                  "workId": "cleanthes-primary-work",
+                  "locator": "Modern scholarship on Stoic askesis and Cleanthes' biographical tradition",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "cleanthes:claim:004",
+            "titleZh": "哲学继承依靠制度和生活榜样",
+            "claimZh": "克里安忒斯作为芝诺后继者，使斯多葛学派从创始人思想转入可持续的学园传统。",
+            "explanationZh": "他的重要性不只在原创理论，也在于把学派权威、教学连续性和生活楷模稳定下来。",
+            "themeIds": [
+              "knowledge",
+              "ethics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "cleanthes:evidence:007",
+                "titleZh": "学派继承线索",
+                "summaryZh": "第欧根尼·拉尔修把克里安忒斯列为芝诺之后、克律西波斯之前的斯多葛学派负责人，说明其制度中介地位。",
+                "source": {
+                  "workId": "cleanthes-primary-work",
+                  "locator": "Diogenes Laertius VII on succession Zeno-Cleanthes-Chrysippus",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "cleanthes:evidence:008",
+                "titleZh": "残篇传统中的中介地位",
+                "summaryZh": "斯多葛残篇显示克里安忒斯在神学、宇宙论和伦理图像上连接芝诺与克律西波斯系统化阶段。",
+                "source": {
+                  "workId": "cleanthes-primary-work",
+                  "locator": "SVF I Cleanthes fragments and modern reconstructions of early Stoic succession",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "cleanthes:problem:003",
+        "titleZh": "早期斯多葛如何把物理学、神学和伦理连成一体？",
+        "questionZh": "克里安忒斯如何帮助形成一种不分离自然解释、神意秩序和伦理训练的斯多葛整体哲学？",
+        "summaryZh": "克里安忒斯的材料显示，斯多葛哲学不是单独伦理格言，而是由宇宙论、神学语言和实践伦理组成的整体。",
+        "themeIds": [
+          "metaphysics",
+          "ethics"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "cleanthes:claim:005",
+            "titleZh": "自然研究服务于伦理安顿",
+            "claimZh": "克里安忒斯把自然秩序理解为人应当同意和追随的规范来源。",
+            "explanationZh": "这说明早期斯多葛的物理学并非和伦理学分离，而是解释何以德性生活合乎世界本身。",
+            "themeIds": [
+              "metaphysics",
+              "ethics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "cleanthes:evidence:009",
+                "titleZh": "《宙斯赞歌》的自然—伦理连结",
+                "summaryZh": "赞歌从宇宙治理转向人类失序和重新顺从的劝诫，体现自然论与伦理论的连结，突出顺从理性的实践方向。",
+                "source": {
+                  "workId": "cleanthes-primary-work",
+                  "locator": "Cleanthes, Hymn to Zeus, movement from cosmic order to human moral disorder",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "cleanthes:evidence:010",
+                "titleZh": "斯多葛三分法中的物理学地位",
+                "summaryZh": "古代资料把斯多葛哲学分为逻辑、物理和伦理，但三者彼此支撑而非孤立，物理学为伦理生活提供世界图景。",
+                "source": {
+                  "workId": "cleanthes-primary-work",
+                  "locator": "Diogenes Laertius VII.39-41 on Stoic divisions of philosophy and their interdependence",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "cleanthes:claim:006",
+            "titleZh": "克里安忒斯保留了斯多葛的宗教表达能力",
+            "claimZh": "与更技术化的克律西波斯相比，克里安忒斯材料凸显斯多葛主义的赞歌、虔敬和宇宙敬畏维度。",
+            "explanationZh": "这让斯多葛主义不只是冷峻伦理学，也是一种把人安置在整体宇宙中的精神实践。",
+            "themeIds": [
+              "religion",
+              "ethics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "cleanthes:evidence:011",
+                "titleZh": "赞歌体裁本身的哲学意义",
+                "summaryZh": "《宙斯赞歌》以祈祷和赞美形式表达哲学立场，说明斯多葛理性神学可进入实践敬畏，而非停留在抽象论证。",
+                "source": {
+                  "workId": "cleanthes-primary-work",
+                  "locator": "Cleanthes, Hymn to Zeus as philosophical hymn and prayer",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "cleanthes:evidence:012",
+                "titleZh": "现代研究对克里安忒斯定位",
+                "summaryZh": "研究常把克里安忒斯视为早期斯多葛神学和伦理想象的重要保存者，尤其重视其赞歌和宇宙虔敬。",
+                "source": {
+                  "workId": "cleanthes-primary-work",
+                  "locator": "Modern studies of Cleanthes' theology, hymn, and early Stoic piety",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "tier": "standard"
+}

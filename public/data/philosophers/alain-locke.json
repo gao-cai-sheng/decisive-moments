@@ -1,0 +1,43 @@
+{
+  "id": "alain-locke",
+  "tier": "seed",
+  "names": {
+    "zh": "阿兰·洛克",
+    "en": "Alain Locke"
+  },
+  "life": {
+    "birth": 1885,
+    "death": 1954,
+    "display": "1885—1954"
+  },
+  "civilization": "western",
+  "traditions": [
+    "western_philosophy"
+  ],
+  "periods": [
+    "modern"
+  ],
+  "themes": [
+    "ethics",
+    "knowledge"
+  ],
+  "keywordsZh": [
+    "身份层",
+    "二线哲人",
+    "思想史补线"
+  ],
+  "oneLineZh": "哈莱姆文艺复兴与价值多元主义代表，可补非裔美国哲学传统。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "阿兰·洛克（1885—1954）是 W2 欧陆与英美近现代二线哲人候选。其身份层入选理由为：哈莱姆文艺复兴与价值多元主义代表，可补非裔美国哲学传统。 本条仅作 seed 档基本定位，后续若升级标准档，需要重新做著作、论点与 evidence 研究。",
+  "works": [
+    "alain-locke-new-negro",
+    "alain-locke-race-contacts-interracial-relations"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S006",
+      "noteZh": "权威来源条目：SEP: Alain LeRoy Locke；用于核验人物身份、生卒、代表著作和思想史定位。"
+    }
+  ]
+}

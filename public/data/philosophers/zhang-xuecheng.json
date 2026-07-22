@@ -1,0 +1,45 @@
+{
+  "id": "zhang-xuecheng",
+  "tier": "seed",
+  "names": {
+    "zh": "章学诚",
+    "en": "Zhang Xuecheng",
+    "native": "章學誠"
+  },
+  "life": {
+    "birth": 1738,
+    "death": 1801,
+    "display": "1738—1801"
+  },
+  "civilization": "chinese",
+  "traditions": [
+    "confucianism",
+    "qing_historiography"
+  ],
+  "periods": [
+    "qing"
+  ],
+  "themes": [
+    "knowledge"
+  ],
+  "keywordsZh": [
+    "文史通义",
+    "六经皆史",
+    "校雠通义"
+  ],
+  "oneLineZh": "清代史学理论家，以六经皆史和文史校雠理论著称。",
+  "influenceWeight": 3,
+  "reviewStatus": "draft",
+  "summaryZh": "章学诚，字实斋，清代史学理论家和方志学家。《文史通义》提出六经皆史，强调学术、制度和历史语境的统一；《校雠通义》则讨论目录、校勘和知识分类。章学诚既批评脱离事势的考据琐碎，也不同于宋明义理之学，是清代历史哲学和学术史反思的高峰。",
+  "works": [
+    "zhang-xuecheng-wenshi-tongyi",
+    "zhang-xuecheng-jiaochou-tongyi"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S015",
+      "url": "https://ctext.org/wen-shi-tong-yi",
+      "noteZh": "以章学诚《文史通义》《校雠通义》支撑身份层。"
+    }
+  ]
+}

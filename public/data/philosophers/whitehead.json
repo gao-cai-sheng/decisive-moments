@@ -5,9 +5,9 @@
     "en": "Alfred North Whitehead"
   },
   "life": {
-    "display": "1861—1947",
     "birth": 1861,
-    "death": 1947
+    "death": 1947,
+    "display": "1861—1947"
   },
   "civilization": "european_modern",
   "traditions": [
@@ -38,5 +38,243 @@
       "label": "draft",
       "noteZh": "条目需要人工核对作品、年代和概念表述。"
     }
-  ]
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "whitehead:problem:001",
+        "titleZh": "现实为何应理解为过程？",
+        "questionZh": "怀特海如何围绕“现实为何应理解为过程？”建立其思想问题？",
+        "summaryZh": "怀特海反对把实体看成静止基底，提出现实由事件、生成和关系构成。",
+        "themeIds": [
+          "metaphysics",
+          "knowledge"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "whitehead:claim:001",
+            "titleZh": "现实基本单位是实际机缘",
+            "claimZh": "怀特海主张，最终实在不是持存物质实体，而是实际机缘的生成过程和相互摄取。",
+            "explanationZh": "该命题把形而上学从实体本体论转向过程本体论，强调关系和生成优先性。",
+            "themeIds": [
+              "metaphysics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "whitehead:evidence:001",
+                "titleZh": "实际机缘依据",
+                "summaryZh": "《过程与实在》把实际实体称为世界的最终真实事物，并用“生成”而非静止承载物来说明现实单位的存在方式。",
+                "source": {
+                  "workId": "whitehead-primary-work",
+                  "locator": "《过程与实在》第一部第二章“实际实体”条",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "whitehead:evidence:007",
+                "titleZh": "实际实体终极性依据",
+                "summaryZh": "《过程与实在》的范畴说明反复把实际机缘置于分析核心，说明一切复合对象都要回到具体发生的现实事件来理解。",
+                "source": {
+                  "workId": "whitehead-primary-work",
+                  "locator": "《过程与实在》第一部第二章“实际机缘与复合对象”条",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "whitehead:claim:002",
+            "titleZh": "关系内在于事物构成",
+            "claimZh": "怀特海认为，一个现实事物由其对过去世界的摄取构成，关系不是外加属性。",
+            "explanationZh": "该命题挑战孤立实体观，说明每个现实单元都内含世界历史的选择性继承。",
+            "themeIds": [
+              "metaphysics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "whitehead:evidence:002",
+                "titleZh": "摄取理论依据",
+                "summaryZh": "《过程与实在》通过摄取概念说明现实如何把既有世界纳入自身生成，关系因此成为实际机缘内部构成的一部分。",
+                "source": {
+                  "workId": "whitehead-primary-work",
+                  "locator": "《过程与实在》第二部第一章“摄取”条",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "whitehead:evidence:008",
+                "titleZh": "合生过程依据",
+                "summaryZh": "《过程与实在》把合生描述为多重资料形成一个具体经验统一体的过程，显示过去世界并非外在背景而是现实生成的材料。",
+                "source": {
+                  "workId": "whitehead-primary-work",
+                  "locator": "《过程与实在》第二部第三章“合生”条",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "whitehead:problem:002",
+        "titleZh": "科学自然观为何需要修正？",
+        "questionZh": "怀特海如何围绕“科学自然观为何需要修正？”建立其思想问题？",
+        "summaryZh": "怀特海批判将自然还原为无色无声物质的位置变换，试图重建经验与自然的连续性。",
+        "themeIds": [
+          "knowledge",
+          "metaphysics"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "whitehead:claim:003",
+            "titleZh": "抽象不能替代具体经验",
+            "claimZh": "怀特海主张，科学抽象极有力量，但若把抽象模型误当具体现实，就会产生错置具体性谬误。",
+            "explanationZh": "该命题指出科学哲学风险：方法上的抽象成功不等于本体论上的还原成功。",
+            "themeIds": [
+              "knowledge"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "whitehead:evidence:003",
+                "titleZh": "错置具体性依据",
+                "summaryZh": "《科学与现代世界》批评把抽象结构当作具体事实本身，强调科学概念虽然有效，却不能替代经验世界的复杂具体性。",
+                "source": {
+                  "workId": "whitehead-primary-work",
+                  "locator": "《科学与现代世界》第3章“错置具体性的谬误”段",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "whitehead:evidence:009",
+                "titleZh": "抽象方法限度依据",
+                "summaryZh": "《科学与现代世界》在讨论近代科学形成时指出，数学化抽象带来巨大解释力，也容易遮蔽被抽取掉的感受、价值和过程维度。",
+                "source": {
+                  "workId": "whitehead-primary-work",
+                  "locator": "《科学与现代世界》第2章“数学抽象与自然图景”段",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "whitehead:claim:004",
+            "titleZh": "自然包含价值和感受维度",
+            "claimZh": "怀特海认为，自然不是纯粹外在物质集合，经验中的感受和价值应被纳入自然哲学。",
+            "explanationZh": "该命题试图弥合科学世界图景与生活经验之间的裂缝。",
+            "themeIds": [
+              "metaphysics",
+              "aesthetics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "whitehead:evidence:004",
+                "titleZh": "自然价值依据",
+                "summaryZh": "《科学与现代世界》重新安置生命、感受和价值，反对把自然理解成与经验质量完全分离的机械封闭图景。",
+                "source": {
+                  "workId": "whitehead-primary-work",
+                  "locator": "《科学与现代世界》第5章“浪漫主义反动”段",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "whitehead:evidence:010",
+                "titleZh": "自然二分批判依据",
+                "summaryZh": "《自然概念》批判把自然分裂为科学所说的真实自然和感官所见的表象自然，要求从经验中的自然本身出发。",
+                "source": {
+                  "workId": "whitehead-primary-work",
+                  "locator": "《自然概念》第1章“自然的二分”段",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "whitehead:problem:003",
+        "titleZh": "创造性如何解释新颖性？",
+        "questionZh": "怀特海如何围绕“创造性如何解释新颖性？”建立其思想问题？",
+        "summaryZh": "怀特海以创造性、永恒客体和合生解释世界中秩序、可能性与新事物的出现。",
+        "themeIds": [
+          "metaphysics",
+          "freedom"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "whitehead:claim:005",
+            "titleZh": "创造性是生成范畴",
+            "claimZh": "怀特海主张，创造性不是某个存在者的属性，而是多者成为一者并增加一者的原则。",
+            "explanationZh": "该命题为过程形而上学提供动力范畴，说明现实持续产生新统一。",
+            "themeIds": [
+              "metaphysics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "whitehead:evidence:005",
+                "titleZh": "创造性范畴依据",
+                "summaryZh": "《过程与实在》把创造性列为终极范畴，用以说明现实从多样过去生成新的统一体，而不是从固定实体中派生变化。",
+                "source": {
+                  "workId": "whitehead-primary-work",
+                  "locator": "《过程与实在》第一部第二章“终极范畴”条",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "whitehead:evidence:011",
+                "titleZh": "多者成为一者依据",
+                "summaryZh": "《过程与实在》的范畴论用“多者成为一者”概括创造性，说明每个实际机缘既继承既有世界又为世界增加新的事实。",
+                "source": {
+                  "workId": "whitehead-primary-work",
+                  "locator": "《过程与实在》第一部第二章“创造性、多者与一者”条",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "whitehead:claim:006",
+            "titleZh": "可能形式进入具体生成",
+            "claimZh": "怀特海认为，永恒客体作为可能形式进入实际机缘，使世界既有秩序重复也有新颖选择。",
+            "explanationZh": "该命题解释可能性与现实性的联系，避免把新颖性看成无根据偶然。",
+            "themeIds": [
+              "metaphysics",
+              "freedom"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "whitehead:evidence:006",
+                "titleZh": "永恒客体依据",
+                "summaryZh": "《过程与实在》用永恒客体说明形式可能如何在具体生成中获得现实性，从而连接抽象可能与实际机缘的完成。",
+                "source": {
+                  "workId": "whitehead-primary-work",
+                  "locator": "《过程与实在》第一部第二章“永恒客体”条",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "whitehead:evidence:012",
+                "titleZh": "可能性具体化依据",
+                "summaryZh": "《过程与实在》讨论实际机缘如何选择并具体化永恒客体，说明秩序不是外在模板，而是在生成过程中被限定和实现。",
+                "source": {
+                  "workId": "whitehead-primary-work",
+                  "locator": "《过程与实在》第二部第三章“永恒客体的具体化”条",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "tier": "standard"
 }

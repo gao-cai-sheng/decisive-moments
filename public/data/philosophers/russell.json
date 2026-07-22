@@ -5,9 +5,9 @@
     "en": "Bertrand Russell"
   },
   "life": {
-    "display": "1872—1970",
     "birth": 1872,
-    "death": 1970
+    "death": 1970,
+    "display": "1872—1970"
   },
   "civilization": "european_modern",
   "traditions": [
@@ -38,5 +38,245 @@
       "label": "draft",
       "noteZh": "条目需要人工核对作品、年代和概念表述。"
     }
-  ]
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "russell:problem:001",
+        "titleZh": "逻辑分析如何澄清知识？",
+        "questionZh": "罗素如何围绕“逻辑分析如何澄清知识？”建立其思想问题？",
+        "summaryZh": "罗素通过逻辑主义、关系逻辑和摹状词理论，把哲学任务理解为澄清命题形式和知识根据。",
+        "themeIds": [
+          "knowledge",
+          "language"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "russell:claim:001",
+            "titleZh": "数学可由逻辑关系重建",
+            "claimZh": "罗素主张，数学基础应通过逻辑概念和关系理论来重建，而不是依赖心理直观。",
+            "explanationZh": "该命题推动二十世纪分析哲学的逻辑转向，试图以形式结构替代心理主义和直觉主义解释。",
+            "themeIds": [
+              "knowledge"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "russell:evidence:001",
+                "titleZh": "逻辑主义依据",
+                "summaryZh": "《数学原理》导论把数学与逻辑的关系作为核心问题，说明数学命题可在逻辑概念和推理规则中获得系统重建。",
+                "source": {
+                  "workId": "russell-primary-work",
+                  "locator": "《数学原理》导论“数学与逻辑的关系”段",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "russell:evidence:007",
+                "titleZh": "类型理论依据",
+                "summaryZh": "《数学原理》用类型理论回应集合悖论，说明逻辑基础必须同时处理数学构造能力和自指混乱的限制。",
+                "source": {
+                  "workId": "russell-primary-work",
+                  "locator": "《数学原理》导论“恶性循环原则和类型理论”段",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "russell:claim:002",
+            "titleZh": "摹状词分析消解虚假对象",
+            "claimZh": "罗素认为，许多表面指称短语并不真正指称对象，通过逻辑分析可避免承诺不存在实体。",
+            "explanationZh": "该命题把哲学问题转化为语言逻辑形式问题，影响后来的指称理论和分析方法。",
+            "themeIds": [
+              "language",
+              "knowledge"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "russell:evidence:002",
+                "titleZh": "摹状词理论依据",
+                "summaryZh": "《论指称》通过“现任法国国王”类摹状词分析，说明表面主词并不必然带来对相应对象的本体论承诺。",
+                "source": {
+                  "workId": "russell-primary-work",
+                  "locator": "《论指称》“现任法国国王”例证段",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "russell:evidence:008",
+                "titleZh": "分析命题结构依据",
+                "summaryZh": "《论指称》把摹状词解释为量化结构的一部分，显示语法表面与逻辑形式不同，哲学混乱常来自二者混同。",
+                "source": {
+                  "workId": "russell-primary-work",
+                  "locator": "《论指称》“摹状词的量化分析”段",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "russell:problem:002",
+        "titleZh": "经验知识如何在怀疑中成立？",
+        "questionZh": "罗素如何围绕“经验知识如何在怀疑中成立？”建立其思想问题？",
+        "summaryZh": "罗素在感觉材料、熟知知识和外部世界推论之间寻找平衡，试图保留经验知识的合理性。",
+        "themeIds": [
+          "knowledge",
+          "metaphysics"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "russell:claim:003",
+            "titleZh": "熟知提供直接基础",
+            "claimZh": "罗素主张，我们直接熟知感觉材料和共相，而对物理对象多通过描述来认识。",
+            "explanationZh": "该命题把认识对象分层，既承认直接经验的基础作用，也解释抽象对象和外物知识如何成立。",
+            "themeIds": [
+              "knowledge"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "russell:evidence:003",
+                "titleZh": "熟知知识依据",
+                "summaryZh": "《哲学问题》区分熟知知识与描述知识，说明感觉材料、记忆和共相为直接认识提供不同层次的基础。",
+                "source": {
+                  "workId": "russell-primary-work",
+                  "locator": "《哲学问题》第5章“熟知知识与描述知识”段",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "russell:evidence:009",
+                "titleZh": "共相知识依据",
+                "summaryZh": "《哲学问题》讨论共相和关系的认识，说明经验知识不仅涉及个别感觉材料，也需要把握可重复的抽象关系。",
+                "source": {
+                  "workId": "russell-primary-work",
+                  "locator": "《哲学问题》第9章“共相的世界”段",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "russell:claim:004",
+            "titleZh": "物理对象是解释性构造",
+            "claimZh": "罗素认为，外部物理对象虽不能被直接把握，却可作为解释经验秩序的合理构造。",
+            "explanationZh": "该命题在经验主义和实在论之间建立中介，把外物看作组织经验规律性的理论假设。",
+            "themeIds": [
+              "knowledge",
+              "metaphysics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "russell:evidence:004",
+                "titleZh": "物质存在依据",
+                "summaryZh": "《哲学问题》分析物质存在和感觉材料的关系，说明外部对象不是直接被给予，而是用来解释经验连续性的假设。",
+                "source": {
+                  "workId": "russell-primary-work",
+                  "locator": "《哲学问题》第2章“物质的存在”段",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "russell:evidence:010",
+                "titleZh": "外部世界推论依据",
+                "summaryZh": "《我们关于外部世界的知识》把物理对象视为逻辑构造，试图以经验资料和形式分析重建外部世界知识。",
+                "source": {
+                  "workId": "russell-primary-work",
+                  "locator": "《我们关于外部世界的知识》第3讲“物理对象作为逻辑构造”段",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "russell:problem:003",
+        "titleZh": "自由社会如何防止权力迷信？",
+        "questionZh": "罗素如何围绕“自由社会如何防止权力迷信？”建立其思想问题？",
+        "summaryZh": "罗素把理性怀疑、公共讨论和制度约束相连，反对知识、国家或意识形态权威的绝对化。",
+        "themeIds": [
+          "freedom",
+          "politics"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "russell:claim:005",
+            "titleZh": "理性怀疑保护思想自由",
+            "claimZh": "罗素主张，公共生活需要保留可错性意识和批判精神，反对把权威绝对化。",
+            "explanationZh": "该命题把哲学怀疑转化为自由政治的德性，强调开放讨论和反教条。",
+            "themeIds": [
+              "freedom",
+              "knowledge"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "russell:evidence:005",
+                "titleZh": "自由思想依据",
+                "summaryZh": "《自由思想与官方宣传》强调自由讨论和怀疑精神对公共生活的重要性，反对国家或群体垄断思想判断。",
+                "source": {
+                  "workId": "russell-primary-work",
+                  "locator": "《自由思想与官方宣传》“自由讨论和怀疑精神”段",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "russell:evidence:011",
+                "titleZh": "哲学价值依据",
+                "summaryZh": "《哲学问题》结尾把哲学价值归于扩展想象、削弱独断和保持疑问，显示理性怀疑具有伦理政治意义。",
+                "source": {
+                  "workId": "russell-primary-work",
+                  "locator": "《哲学问题》第15章“哲学的价值”段",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "russell:claim:006",
+            "titleZh": "权力冲动必须受制度约束",
+            "claimZh": "罗素认为，社会冲突常由权力欲驱动，自由社会必须以制度和公共批判限制支配冲动。",
+            "explanationZh": "该命题把政治自由理解为对权力集中和支配欲的制度性抑制。",
+            "themeIds": [
+              "politics",
+              "ethics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "russell:evidence:006",
+                "titleZh": "权力论依据",
+                "summaryZh": "《权力论》分析权力欲和社会组织之间的关系，指出政治制度需要理解并限制支配冲动的扩张。",
+                "source": {
+                  "workId": "russell-primary-work",
+                  "locator": "《权力论》第1章“权力冲动”段",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "russell:evidence:012",
+                "titleZh": "社会重建依据",
+                "summaryZh": "《社会重建原则》把个人创造冲动和制度安排联系起来，强调自由社会应减少支配型冲动对公共生活的破坏。",
+                "source": {
+                  "workId": "russell-primary-work",
+                  "locator": "《社会重建原则》第2章“创造冲动与占有冲动”段",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "tier": "standard"
 }

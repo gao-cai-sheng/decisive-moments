@@ -1,0 +1,48 @@
+{
+  "id": "al-juwayni",
+  "tier": "seed",
+  "names": {
+    "zh": "朱韦尼",
+    "en": "Imām al-Ḥaramayn al-Juwaynī",
+    "native": "إمام الحرمين الجويني"
+  },
+  "life": {
+    "birth": 1028,
+    "death": 1085,
+    "display": "1028—1085"
+  },
+  "civilization": "islamic",
+  "traditions": [
+    "ashariyya",
+    "shafii",
+    "kalam"
+  ],
+  "periods": [
+    "medieval"
+  ],
+  "themes": [
+    "religion",
+    "knowledge",
+    "politics"
+  ],
+  "keywordsZh": [
+    "两圣地伊玛目",
+    "安萨里之师",
+    "教义学证明"
+  ],
+  "oneLineZh": "“两圣地伊玛目”，安萨里之师，在艾什尔里教义学和法学原理中强化证明结构。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "朱韦尼（1028—1085）是 Seed W7 伊斯兰文明教义学试点候选。其身份层入选理由为：“两圣地伊玛目”，安萨里之师，在艾什尔里教义学和法学原理中强化证明结构。本条仅作 seed 档基本定位，后续若升级标准档，必须重新做著作、论点与 evidence 研究。",
+  "works": [
+    "al-juwayni-al-irshad",
+    "al-juwayni-al-shamil"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S005",
+      "url": "https://referenceworks.brill.com/display/entries/EI2/SIM-2028.xml",
+      "noteZh": "来源：Encyclopaedia of Islam / al-Djuwaynī；用于核验人物身份、生卒断代、“两圣地伊玛目”定位、与安萨里的师承关系和代表著作。"
+    }
+  ]
+}

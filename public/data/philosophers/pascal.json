@@ -1,0 +1,298 @@
+{
+  "id": "pascal",
+  "names": {
+    "zh": "帕斯卡",
+    "en": "Blaise Pascal"
+  },
+  "life": {
+    "birth": 1623,
+    "death": 1662,
+    "display": "1623—1662"
+  },
+  "civilization": "european_modern",
+  "traditions": [
+    "christian_apologetics",
+    "jansenism",
+    "early_modern_philosophy"
+  ],
+  "periods": [
+    "expansion_e1"
+  ],
+  "themes": [
+    "religion",
+    "life_death",
+    "knowledge"
+  ],
+  "keywordsZh": [
+    "思想录",
+    "赌注",
+    "心灵",
+    "几何精神",
+    "蒙田"
+  ],
+  "oneLineZh": "以人的脆弱、理性的限度和信仰赌注重塑早期现代基督教护教与存在论感受。",
+  "influenceWeight": 3,
+  "reviewStatus": "draft",
+  "summaryZh": "帕斯卡把数学与概率经验、詹森主义神学、蒙田式自我反省和对理性限度的诊断结合起来；《思想录》中的赌注、娱乐、心灵秩序和人的中间处境，使他成为近代宗教哲学和存在主义先声。",
+  "works": [
+    "pascal-provincial-letters",
+    "pascal-pensees",
+    "pascal-geometrical-spirit",
+    "pascal-art-of-persuasion",
+    "pascal-conversation-sacy"
+  ],
+  "sourceNotes": [
+    {
+      "label": "SEP",
+      "url": "https://plato.stanford.edu/entries/pascal-wager/",
+      "noteZh": "用于核对赌注、概率/决策论读法和《思想录》的护教结构。"
+    },
+    {
+      "label": "review",
+      "noteZh": "E1 批新增条目，重点连接蒙田与克尔凯郭尔/存在主义先声。"
+    }
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "pascal:problem:001",
+        "titleZh": "理性为何不能独自安顿人的处境？",
+        "questionZh": "帕斯卡如何把人的伟大与软弱、理性能力与理性限度放在同一人论中？",
+        "summaryZh": "帕斯卡把人描述为介于无限与虚无之间的矛盾存在：能认识自身悲惨，因而伟大；但又无法凭有限理性掌握终极真理。",
+        "themeIds": [
+          "life_death",
+          "knowledge"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "pascal:claim:001",
+            "titleZh": "人的伟大来自认识自身悲惨",
+            "claimZh": "人既脆弱又伟大，因为人能够意识到自身有限、死亡和无根基处境。",
+            "explanationZh": "这种人论使帕斯卡不同于单纯怀疑论者；悲惨不是结论，而是指向救恩需要的护教入口。",
+            "themeIds": [
+              "life_death",
+              "knowledge"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "pascal:evidence:001",
+                "titleZh": "《思想录》关于芦苇和思想的片段",
+                "summaryZh": "《思想录》以会思想的芦苇说明人的身体极端脆弱，但意识到自身死亡和宇宙处境本身构成尊严来源。",
+                "source": {
+                  "workId": "pascal-pensees",
+                  "locator": "Pensées, Lafuma 200 / Brunschvicg 347 on thinking reed",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "pascal:evidence:002",
+                "titleZh": "人与无限之间的比例失衡",
+                "summaryZh": "《思想录》关于无限与虚无的片段把人置于两个无限之间，强调理性面对终极比例时的有限性。",
+                "source": {
+                  "workId": "pascal-pensees",
+                  "locator": "Pensées, Infinite-nothing fragment",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "pascal:claim:002",
+            "titleZh": "心有自身的认识秩序",
+            "claimZh": "帕斯卡认为人的信念和终极承诺不能完全由几何式证明统治，心有自己的理由。",
+            "explanationZh": "这不是反理性，而是区分证明、直觉、爱和信仰的秩序，为其护教和认识论提供复杂结构。",
+            "themeIds": [
+              "knowledge",
+              "religion"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "pascal:evidence:003",
+                "titleZh": "《思想录》关于心的理由",
+                "summaryZh": "相关片段强调心灵有理性所不知道的理由，指出信仰和第一原则并不总以演绎证明方式被把握。",
+                "source": {
+                  "workId": "pascal-pensees",
+                  "locator": "Pensées, Lafuma 423 / Brunschvicg 277 on reasons of the heart",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "pascal:evidence:004",
+                "titleZh": "《论几何精神》的方法边界",
+                "summaryZh": "《论几何精神》讨论定义、原则和证明秩序，显示帕斯卡熟悉严格方法，同时知道方法有适用边界。",
+                "source": {
+                  "workId": "pascal-geometrical-spirit",
+                  "locator": "Opening sections on definitions and principles",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "pascal:problem:002",
+        "titleZh": "赌注为何是实践理性的护教策略？",
+        "questionZh": "帕斯卡的赌注如何在不能证明上帝存在时，仍要求人面对信仰选择？",
+        "summaryZh": "帕斯卡的赌注不是传统神存在证明，而是在理性无法裁决时，以有限赌注与无限收益的结构迫使人承认自己已经处在选择之中。",
+        "themeIds": [
+          "religion",
+          "knowledge"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "pascal:claim:003",
+            "titleZh": "赌注从证明转向审慎选择",
+            "claimZh": "帕斯卡并不声称以赌注证明上帝存在，而是主张人在不确定中仍必须选择生活方向。",
+            "explanationZh": "这一策略把护教从形而上学证明转向实践决断，后来可被放入概率、决策论和存在选择的交叉处。",
+            "themeIds": [
+              "religion",
+              "knowledge"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "pascal:evidence:005",
+                "titleZh": "SEP 对赌注目的的界定",
+                "summaryZh": "SEP 明确指出赌注旨在说明应当相信或采取相信步骤，而不是给出上帝存在的形而上学证明。",
+                "source": {
+                  "workId": "pascal-pensees",
+                  "locator": "SEP Pascal's Wager, Background",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "pascal:evidence:006",
+                "titleZh": "《思想录》无限—虚无片段",
+                "summaryZh": "无限—虚无片段让对话者承认理性不能裁决上帝存在，同时又强调人不能避免押注的处境。",
+                "source": {
+                  "workId": "pascal-pensees",
+                  "locator": "Pensées, Infinite-nothing wager passage",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "pascal:claim:004",
+            "titleZh": "有限损失与无限收益形成非对称性",
+            "claimZh": "在正概率和无限幸福的框架下，为上帝下注被描述为具有压倒性期望收益的选择。",
+            "explanationZh": "现代解释常把这看成早期决策论形式，但帕斯卡本意仍服务于劝导、悔改和信仰操练。",
+            "themeIds": [
+              "religion",
+              "knowledge"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "pascal:evidence:007",
+                "titleZh": "SEP 对期望论证的重构",
+                "summaryZh": "SEP 将赌注重构为有限赌注面对无限收益的期望效用论证，并说明该结构依赖正概率前提。",
+                "source": {
+                  "workId": "pascal-pensees",
+                  "locator": "SEP Pascal's Wager, generalized expectation argument",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "pascal:evidence:008",
+                "titleZh": "赌注文本中的无限幸福",
+                "summaryZh": "《思想录》相应段落强调所赌有限、所得可能是无限幸福，使信仰选择具有不同于普通证明的劝服力量。",
+                "source": {
+                  "workId": "pascal-pensees",
+                  "locator": "Pensées, wager passage on infinite happy life",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "pascal:problem:003",
+        "titleZh": "蒙田式怀疑如何被改造成基督教护教？",
+        "questionZh": "帕斯卡如何吸收蒙田对习俗、软弱和自我不稳定的观察，同时反对停留在怀疑安逸中？",
+        "summaryZh": "帕斯卡从蒙田那里继承对人的脆弱、习俗性和自我逃避的敏感，但他把这种怀疑推进为对救恩和信仰选择的需要。",
+        "themeIds": [
+          "life_death",
+          "religion",
+          "freedom"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "pascal:claim:005",
+            "titleZh": "娱乐揭示人逃避自身处境",
+            "claimZh": "人通过娱乐和忙碌逃避死亡、空虚和自我认识，反而暴露自身需要被拯救的处境。",
+            "explanationZh": "帕斯卡把日常心理观察转化为护教论证：问题不只是认识错误，而是人的欲望秩序失衡。",
+            "themeIds": [
+              "life_death",
+              "religion"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "pascal:evidence:009",
+                "titleZh": "《思想录》关于娱乐的片段",
+                "summaryZh": "娱乐片段分析人为何不断寻求打猎、赌博、交际和事务，因为安静独处会迫使人面对自身悲惨。",
+                "source": {
+                  "workId": "pascal-pensees",
+                  "locator": "Pensées, Lafuma 136 / Brunschvicg 139 on diversion",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "pascal:evidence:010",
+                "titleZh": "护教结构中的心理诊断",
+                "summaryZh": "《思想录》把娱乐不是当作琐碎道德缺陷，而是作为人逃离自身有限性和上帝问题的核心症状。",
+                "source": {
+                  "workId": "pascal-pensees",
+                  "locator": "Pensées, fragments on diversion and misery",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "pascal:claim:006",
+            "titleZh": "蒙田与爱比克泰德构成双重反面教材",
+            "claimZh": "帕斯卡把蒙田的软弱意识和爱比克泰德的骄傲伦理并置，说明古典哲学不能完整治疗人。",
+            "explanationZh": "他吸收蒙田的怀疑敏感，却批评仅停留于自我观察；真正出路在承认堕落、恩典和信仰的秩序。",
+            "themeIds": [
+              "religion",
+              "ethics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "pascal:evidence:011",
+                "titleZh": "《与萨西先生谈话》的双重比较",
+                "summaryZh": "该谈话以爱比克泰德代表人的骄傲、蒙田代表人的软弱，说明二者各见一端而都不足以给出基督教真理。",
+                "source": {
+                  "workId": "pascal-conversation-sacy",
+                  "locator": "Conversation with Sacy, comparison of Epictetus and Montaigne",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "pascal:evidence:012",
+                "titleZh": "蒙田影响的护教性改造",
+                "summaryZh": "帕斯卡继承蒙田对习俗和自我的怀疑，但在《思想录》中把怀疑改造成指向恩典和信仰选择的论证路径。",
+                "source": {
+                  "workId": "pascal-pensees",
+                  "locator": "Pensées, fragments on custom, self, and misery",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "tier": "standard"
+}

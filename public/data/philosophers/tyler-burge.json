@@ -1,0 +1,42 @@
+{
+  "id": "tyler-burge",
+  "tier": "seed",
+  "names": {
+    "zh": "泰勒·伯奇",
+    "en": "Tyler Burge"
+  },
+  "life": {
+    "birth": 1946,
+    "display": "1946—"
+  },
+  "civilization": "western",
+  "traditions": [
+    "analytic_philosophy"
+  ],
+  "periods": [
+    "contemporary"
+  ],
+  "themes": [
+    "language",
+    "metaphysics"
+  ],
+  "keywordsZh": [
+    "身份层",
+    "二线哲人",
+    "思想史补线"
+  ],
+  "oneLineZh": "反个体主义与心灵内容外在论代表，可补普特南之后的心灵语言线索。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "泰勒·伯奇（1946—）是 W2 欧陆与英美近现代二线哲人候选。其身份层入选理由为：反个体主义与心灵内容外在论代表，可补普特南之后的心灵语言线索。 本条仅作 seed 档基本定位，后续若升级标准档，需要重新做著作、论点与 evidence 研究。",
+  "works": [
+    "tyler-burge-individualism-and-the-mental",
+    "tyler-burge-origins-of-objectivity"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S019",
+      "noteZh": "权威来源条目：Routledge Encyclopedia of Philosophy: Burge, Tyler；用于核验人物身份、生卒、代表著作和思想史定位。"
+    }
+  ]
+}

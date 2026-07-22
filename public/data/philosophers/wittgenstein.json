@@ -5,9 +5,9 @@
     "en": "Ludwig Wittgenstein"
   },
   "life": {
-    "display": "1889—1951",
     "birth": 1889,
-    "death": 1951
+    "death": 1951,
+    "display": "1889—1951"
   },
   "civilization": "european_modern",
   "traditions": [
@@ -38,5 +38,246 @@
       "label": "draft",
       "noteZh": "条目需要人工核对作品、年代和概念表述。"
     }
-  ]
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "wittgenstein:problem:001",
+        "titleZh": "语言如何给思想划界？",
+        "questionZh": "维特根斯坦如何围绕“语言如何给思想划界？”建立其思想问题？",
+        "summaryZh": "早期维特根斯坦以图像理论和逻辑形式说明有意义命题的边界，并把不可说者留给显示。",
+        "themeIds": [
+          "language",
+          "knowledge"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "wittgenstein:claim:001",
+            "titleZh": "命题描绘可能事实",
+            "claimZh": "维特根斯坦主张，命题有意义在于它以逻辑形式描绘可能事实，而不是复制感觉图像。",
+            "explanationZh": "该命题把语言意义和世界结构联系起来，确立早期逻辑原子论的表达边界。",
+            "themeIds": [
+              "language",
+              "knowledge"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "wittgenstein:evidence:001",
+                "titleZh": "图像理论依据",
+                "summaryZh": "《逻辑哲学论》2.1—2.225 提出命题图像理论，说明命题通过共享逻辑形式来描绘可能事实状态。",
+                "source": {
+                  "workId": "wittgenstein-primary-work",
+                  "locator": "《逻辑哲学论》2.1—2.225“图像理论”段",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "wittgenstein:evidence:007",
+                "titleZh": "命题逻辑形式依据",
+                "summaryZh": "《逻辑哲学论》4.01—4.03 说明命题是现实的图像，语言能表达事实取决于命题和现实之间的逻辑对应。",
+                "source": {
+                  "workId": "wittgenstein-primary-work",
+                  "locator": "《逻辑哲学论》4.01—4.03“命题作为现实图像”段",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "wittgenstein:claim:002",
+            "titleZh": "不可说者显示自身",
+            "claimZh": "维特根斯坦认为，逻辑形式、伦理和世界意义不能被普通事实命题陈述，却能显示自身。",
+            "explanationZh": "该命题将语言边界和价值问题相连，说明沉默不是空白而是表达限制的承认。",
+            "themeIds": [
+              "language",
+              "metaphysics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "wittgenstein:evidence:002",
+                "titleZh": "沉默命题依据",
+                "summaryZh": "《逻辑哲学论》6.4—7 区分事实命题和伦理、神秘之物，最后要求对不可说者保持沉默。",
+                "source": {
+                  "workId": "wittgenstein-primary-work",
+                  "locator": "《逻辑哲学论》6.4—7“伦理、神秘与沉默”段",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "wittgenstein:evidence:008",
+                "titleZh": "显示与说依据",
+                "summaryZh": "《逻辑哲学论》4.1212 附近区分说出和显示，说明逻辑形式不能作为事实内容被命题陈述。",
+                "source": {
+                  "workId": "wittgenstein-primary-work",
+                  "locator": "《逻辑哲学论》4.121—4.1212“说与显示”段",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "wittgenstein:problem:002",
+        "titleZh": "规则如何在生活中获得意义？",
+        "questionZh": "维特根斯坦如何围绕“规则如何在生活中获得意义？”建立其思想问题？",
+        "summaryZh": "后期维特根斯坦把意义放回语言游戏、生活形式和公共实践，反对私人内在对象奠基意义。",
+        "themeIds": [
+          "language",
+          "freedom"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "wittgenstein:claim:003",
+            "titleZh": "意义是使用功能",
+            "claimZh": "维特根斯坦主张，词语意义不能脱离具体语言游戏来固定，而要从使用方式中把握。",
+            "explanationZh": "该命题从早期逻辑图像转向日常语言实践，重塑二十世纪语言哲学。",
+            "themeIds": [
+              "language",
+              "knowledge"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "wittgenstein:evidence:003",
+                "titleZh": "意义即使用依据",
+                "summaryZh": "《哲学研究》第43节及周边以意义即使用说明，词语的作用要在具体语言游戏和实践功能中理解。",
+                "source": {
+                  "workId": "wittgenstein-primary-work",
+                  "locator": "《哲学研究》第43节“意义即使用”段",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "wittgenstein:evidence:009",
+                "titleZh": "语言游戏依据",
+                "summaryZh": "《哲学研究》开篇通过命令、命名和训练等例子展示语言游戏的多样性，反对单一本质解释语言意义。",
+                "source": {
+                  "workId": "wittgenstein-primary-work",
+                  "locator": "《哲学研究》第1—23节“语言游戏的多样性”段",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "wittgenstein:claim:004",
+            "titleZh": "规则遵从依赖公共实践",
+            "claimZh": "维特根斯坦认为，规则能否被遵守取决于公共实践中的训练、判断和纠正。",
+            "explanationZh": "该命题反对把规则遵从理解成私密心理过程，强调共同生活中的规范性。",
+            "themeIds": [
+              "language",
+              "ethics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "wittgenstein:evidence:004",
+                "titleZh": "规则遵从依据",
+                "summaryZh": "《哲学研究》第185—202节讨论规则遵从，说明仅凭内在解释不能决定未来用法，实践训练才使规则有方向。",
+                "source": {
+                  "workId": "wittgenstein-primary-work",
+                  "locator": "《哲学研究》第185—202节“规则遵从”段",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "wittgenstein:evidence:010",
+                "titleZh": "私人语言批判依据",
+                "summaryZh": "《哲学研究》第243节以后通过私人语言论证说明，意义和正确性标准不能完全依靠私人不可检验经验。",
+                "source": {
+                  "workId": "wittgenstein-primary-work",
+                  "locator": "《哲学研究》第243—271节“私人语言论证”段",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "wittgenstein:problem:003",
+        "titleZh": "哲学如何治疗概念困惑？",
+        "questionZh": "维特根斯坦如何围绕“哲学如何治疗概念困惑？”建立其思想问题？",
+        "summaryZh": "维特根斯坦把哲学视为对语言误用造成困惑的治疗，通过描述用法让问题消散。",
+        "themeIds": [
+          "knowledge",
+          "language"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "wittgenstein:claim:005",
+            "titleZh": "哲学问题源于语法迷惑",
+            "claimZh": "维特根斯坦认为，许多哲学困惑产生于词语脱离日常工作岗位后的语法误导。",
+            "explanationZh": "该命题把哲学问题诊断为语言活动中的错位，而不是缺少隐藏理论对象。",
+            "themeIds": [
+              "knowledge",
+              "language"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "wittgenstein:evidence:005",
+                "titleZh": "语言休假依据",
+                "summaryZh": "《哲学研究》第38节与第116节把哲学困惑同语言休假相连，要求把词语带回日常使用的粗糙地面。",
+                "source": {
+                  "workId": "wittgenstein-primary-work",
+                  "locator": "《哲学研究》第38节和第116节“语言休假和粗糙地面”段",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "wittgenstein:evidence:011",
+                "titleZh": "语法考察依据",
+                "summaryZh": "《哲学研究》多次把哲学分析称为语法考察，说明澄清词语规则可消解由表达形式制造的假问题。",
+                "source": {
+                  "workId": "wittgenstein-primary-work",
+                  "locator": "《哲学研究》第89—90节“语法考察”段",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "wittgenstein:claim:006",
+            "titleZh": "哲学描述而不解释机制",
+            "claimZh": "维特根斯坦主张，哲学应排列我们已经知道的用法，使困惑消失，而不是提出隐藏机制。",
+            "explanationZh": "该命题把哲学方法转向描述、比较和治疗，反对以理论假设替代概念澄清。",
+            "themeIds": [
+              "knowledge"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "wittgenstein:evidence:006",
+                "titleZh": "哲学方法依据",
+                "summaryZh": "《哲学研究》第109—133节说明哲学不提出科学式解释，而是通过展示用法的清楚排列来解除困惑。",
+                "source": {
+                  "workId": "wittgenstein-primary-work",
+                  "locator": "《哲学研究》第109—133节“哲学方法”段",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "wittgenstein:evidence:012",
+                "titleZh": "治疗图像依据",
+                "summaryZh": "《哲学研究》第133节把哲学目标描述为让哲学问题完全消失，显示其方法更接近治疗而非理论建构。",
+                "source": {
+                  "workId": "wittgenstein-primary-work",
+                  "locator": "《哲学研究》第133节“哲学问题的消失”段",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "tier": "standard"
 }

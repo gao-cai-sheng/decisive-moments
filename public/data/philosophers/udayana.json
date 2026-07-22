@@ -1,0 +1,42 @@
+{
+  "id": "udayana",
+  "tier": "seed",
+  "names": {
+    "zh": "乌达衍那",
+    "en": "Udayana"
+  },
+  "life": {
+    "display": "约10—11世纪"
+  },
+  "civilization": "indian",
+  "traditions": [
+    "nyaya"
+  ],
+  "periods": [
+    "medieval"
+  ],
+  "themes": [
+    "knowledge",
+    "religion"
+  ],
+  "keywordsZh": [
+    "正理派",
+    "神存在论证",
+    "反佛教论证"
+  ],
+  "oneLineZh": "正理派代表，系统论证神存在并回应佛教哲学批评。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "乌达衍那是正理派后期重要人物，以神存在论证和与佛教哲学的争辩著称。本条仅作 seed 身份层定位。",
+  "works": [
+    "udayana-nyayakusumanjali",
+    "udayana-atmatattvaviveka"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S002",
+      "url": "https://iep.utm.edu/udayana/",
+      "noteZh": "IEP Udayana 条目用于核验人物身份、正理派定位和代表作。"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "georges-sorel",
+  "tier": "seed",
+  "names": {
+    "zh": "乔治·索雷尔",
+    "en": "Georges Sorel"
+  },
+  "life": {
+    "birth": 1847,
+    "death": 1922,
+    "display": "1847—1922"
+  },
+  "civilization": "western",
+  "traditions": [
+    "marxism"
+  ],
+  "periods": [
+    "modern"
+  ],
+  "themes": [
+    "politics",
+    "knowledge"
+  ],
+  "keywordsZh": [
+    "暴力",
+    "身份层",
+    "二线哲人"
+  ],
+  "oneLineZh": "神话、暴力与革命工团主义理论代表，可补马克思主义异端谱系。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "乔治·索雷尔（1847—1922）是 W2 欧陆与英美近现代二线哲人候选。其身份层入选理由为：神话、暴力与革命工团主义理论代表，可补马克思主义异端谱系。 本条仅作 seed 档基本定位，后续若升级标准档，需要重新做著作、论点与 evidence 研究。",
+  "works": [
+    "georges-sorel-reflections-on-violence"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S002",
+      "noteZh": "权威来源条目：IEP: Georges Sorel；用于核验人物身份、生卒、代表著作和思想史定位。"
+    }
+  ]
+}

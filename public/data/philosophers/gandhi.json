@@ -5,9 +5,9 @@
     "en": "M. K. Gandhi"
   },
   "life": {
-    "display": "1869—1948",
     "birth": 1869,
-    "death": 1948
+    "death": 1948,
+    "display": "1869—1948"
   },
   "civilization": "indian",
   "traditions": [
@@ -38,5 +38,260 @@
       "label": "draft",
       "noteZh": "条目需要人工核对作品、年代和概念表述。"
     }
-  ]
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "gandhi:problem:001",
+        "titleZh": "真理与非暴力如何成为政治行动的基础？",
+        "questionZh": "甘地为什么把真理、神、非暴力和政治抵抗连成一个整体，而不是把非暴力只当成弱者的策略？",
+        "summaryZh": "甘地把政治行动理解为真理实验：人不能完全占有真理，所以必须以非暴力、自制和公开受苦来追求真理。satyagraha 因而不是消极退让，而是把宗教伦理转化为公共行动的纪律。",
+        "themeIds": [
+          "religion",
+          "ethics",
+          "politics",
+          "freedom"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "gandhi:claim:001",
+            "titleZh": "政治行动必须是追求真理的实验",
+            "claimZh": "甘地把真理置于宗教、伦理和政治的共同核心；政治行动只有作为真理实验，才不会退化为单纯权力技术。",
+            "explanationZh": "这种理解使个人修炼、誓愿、服务和公共斗争处在同一条轴线上。政治不是脱离灵魂的外部技巧，而是检验人是否忠于真理的实践场。",
+            "themeIds": [
+              "religion",
+              "ethics",
+              "politics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "gandhi:evidence:001",
+                "titleZh": "自传以“真理实验”组织生命叙事",
+                "summaryZh": "《我体验真理的故事》把饮食、誓愿、禁欲、宗教阅读、服务和政治选择都写成真理实验，显示甘地把思想可靠性放在生活实践中检验。",
+                "source": {
+                  "workId": "gandhi-primary-work",
+                  "locator": "The Story of My Experiments with Truth, Introduction and Part I chapter 1 on truth as the governing aim",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "gandhi:evidence:002",
+                "titleZh": "“真理即神”的表达强调宗教普遍性",
+                "summaryZh": "Young India 和 Harijan 中关于 God、Truth 与 moral law 的文章说明，甘地用真理而非宗派教义作为不同宗教和公共伦理的共同入口。",
+                "source": {
+                  "workId": "gandhi-primary-work",
+                  "locator": "Young India and Harijan articles on God, Truth, and moral law, especially discussions of Truth is God",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "gandhi:claim:002",
+            "titleZh": "非暴力是真理手段而不是消极退让",
+            "claimZh": "甘地的非暴力不是放弃冲突，而是要求以不伤害、公开违抗、自愿受苦和纪律化行动来坚持真理。",
+            "explanationZh": "如果目标是真理和人的尊严，手段就不能依赖仇恨与毁灭。非暴力因此具有积极的政治力量：它试图改变关系和良知，而不只是压倒对手。",
+            "themeIds": [
+              "ethics",
+              "politics",
+              "freedom"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "gandhi:evidence:003",
+                "titleZh": "《印度自治》把被动抵抗与道德力量连接",
+                "summaryZh": "《印度自治》关于 passive resistance 的章节把抵抗建立在灵魂力量和自制之上，反对用暴力复制支配关系。",
+                "source": {
+                  "workId": "gandhi-primary-work",
+                  "locator": "Hind Swaraj, chapter 17 Passive Resistance, discussion of soul-force and resistance",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "gandhi:evidence:004",
+                "titleZh": "《南非的萨蒂亚格拉哈》说明自愿受苦的纪律",
+                "summaryZh": "《南非的萨蒂亚格拉哈》叙述登记法斗争、监禁和群众纪律时，强调 satyagrahi 通过承受惩罚而不是伤害对手来坚持正义。",
+                "source": {
+                  "workId": "gandhi-primary-work",
+                  "locator": "Satyagraha in South Africa, chapters on the birth of satyagraha and the Asiatic Registration Act struggle",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "gandhi:problem:002",
+        "titleZh": "Swaraj 为什么首先是自我统治？",
+        "questionZh": "如果反殖民独立不只是政权易手，甘地如何把 swaraj 理解为自我约束、文明批判和地方共同体重建？",
+        "summaryZh": "甘地把 swaraj 理解为个人和共同体的自我统治。真正自治不是把殖民国家机器交给本土精英，而是改变欲望、制度依附和文明方向，使人重新承担劳动、节制和道德责任。",
+        "themeIds": [
+          "politics",
+          "freedom",
+          "ethics",
+          "metaphysics"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "gandhi:claim:003",
+            "titleZh": "自治不是本土精英接管国家机器",
+            "claimZh": "甘地认为 swaraj 首先是自我统治；如果欲望结构和支配制度不变，政权转移并不等于真正自由。",
+            "explanationZh": "这使甘地的反殖民思想具有文明批判深度。自由不只是外在主权，而是人是否有能力约束自身、拒绝依附并重建公共生活。",
+            "themeIds": [
+              "politics",
+              "freedom",
+              "ethics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "gandhi:evidence:005",
+                "titleZh": "《印度自治》直接区分政权转移与真正自治",
+                "summaryZh": "《印度自治》在讨论 swaraj 时指出，若只是驱逐英国人却保留其文明和制度逻辑，印度不会因此获得甘地意义上的自治。",
+                "source": {
+                  "workId": "gandhi-primary-work",
+                  "locator": "Hind Swaraj, chapter 4 What is Swaraj and chapter 14 How Can India Become Free",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "gandhi:evidence:006",
+                "titleZh": "自制与誓愿文本把政治自由连接个人纪律",
+                "summaryZh": "关于誓愿、自制和无占有的文本显示，甘地把自由理解为摆脱欲望和恐惧的支配，而非只取得外部政治权力。",
+                "source": {
+                  "workId": "gandhi-primary-work",
+                  "locator": "From Yeravda Mandir, sections on vows, non-possession, fearlessness, and self-restraint",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "gandhi:claim:004",
+            "titleZh": "现代文明批判指向无限欲望和责任外包",
+            "claimZh": "甘地批判现代文明的核心，是它以速度、机器、职业中介和消费欲望替代人的自我治理与道德责任。",
+            "explanationZh": "这不是单纯反技术口号，而是对一种生活形态的批判：人把救赎交给机器、专家和制度，却失去节制、劳动和共同体判断能力。",
+            "themeIds": [
+              "metaphysics",
+              "ethics",
+              "politics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "gandhi:evidence:007",
+                "titleZh": "《印度自治》集中批判 modern civilization",
+                "summaryZh": "《印度自治》关于文明、铁路、律师、医生和机器的章节，把现代文明描述为刺激欲望并削弱自我责任的系统。",
+                "source": {
+                  "workId": "gandhi-primary-work",
+                  "locator": "Hind Swaraj, chapters 6 to 13 on civilization, railways, lawyers, doctors, and true civilization",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "gandhi:evidence:008",
+                "titleZh": "现代研究提示其文明批判不可简化为反技术",
+                "summaryZh": "Parekh 对甘地政治哲学的重构强调，《印度自治》的目标是批判现代文明的道德结构，而不是机械地拒绝所有技术或制度形式。",
+                "source": {
+                  "workId": "gandhi-primary-work",
+                  "locator": "Parekh, Gandhi's Political Philosophy, chapter on critique of modern civilization and swaraj",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "gandhi:problem:003",
+        "titleZh": "建设性纲领如何把解放变成社会改造？",
+        "questionZh": "甘地为什么把纺纱、khadi、废除不可接触制、宗教和解和村社建设视为独立运动的一部分？",
+        "summaryZh": "甘地的建设性纲领把反殖民政治转化为社会重建。真正的自由需要在日常劳动、经济自立、共同体和解和消除内部压迫中形成，否则群众运动只是短期动员，不能生成自治社会。",
+        "themeIds": [
+          "politics",
+          "justice",
+          "ethics",
+          "religion"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "gandhi:claim:005",
+            "titleZh": "政治解放必须有建设性社会基础",
+            "claimZh": "甘地把建设性纲领视为自由斗争的核心，而不是抗议之外的慈善附属；独立必须在社会组织和日常劳动中预先生成。",
+            "explanationZh": "这使他的政治实践不止于反对殖民权力，还要求改造印度社会内部的依附、贫困、分裂和等级压迫。",
+            "themeIds": [
+              "politics",
+              "justice",
+              "ethics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "gandhi:evidence:009",
+                "titleZh": "《建设性纲领》把社会任务列为自由斗争条件",
+                "summaryZh": "《建设性纲领》系统列出 khadi、村社工业、教育、卫生、宗教和解和废除不可接触制，说明这些任务是 swaraj 的社会基础。",
+                "source": {
+                  "workId": "gandhi-primary-work",
+                  "locator": "Constructive Programme, sections Communal Unity, Removal of Untouchability, Khadi, and Village Industries",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "gandhi:evidence:010",
+                "titleZh": "khadi 把经济自立与道德训练连接",
+                "summaryZh": "甘地关于 khadi 和纺纱的论述把家庭劳动、反殖民经济、贫民生计和自我纪律结合起来，使经济实践具有伦理政治意义。",
+                "source": {
+                  "workId": "gandhi-primary-work",
+                  "locator": "Constructive Programme, Khadi section, and Young India articles on spinning and khadi discipline",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "gandhi:claim:006",
+            "titleZh": "内部压迫会破坏自治的道德资格",
+            "claimZh": "甘地认为一个维持不可接触制、宗教分裂和社会轻贱的共同体，不能真正以自由名义完成自我统治。",
+            "explanationZh": "因此废除不可接触制和宗教共同体和解不是边缘改革，而是 swaraj 的道德检验。政治解放必须同时修复共同体内部关系。",
+            "themeIds": [
+              "justice",
+              "religion",
+              "politics",
+              "ethics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "gandhi:evidence:011",
+                "titleZh": "废除不可接触制被置于建设性纲领核心",
+                "summaryZh": "《建设性纲领》把 removal of untouchability 列为关键任务，表明甘地把印度社会内部等级压迫视为自治不可回避的障碍。",
+                "source": {
+                  "workId": "gandhi-primary-work",
+                  "locator": "Constructive Programme, Removal of Untouchability section",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "gandhi:evidence:012",
+                "titleZh": "宗教和解是建设性纲领的首要任务之一",
+                "summaryZh": "《建设性纲领》把 communal unity 放在突出位置，显示甘地把多宗教共同体的互信看成非暴力政治和自治社会的前提。",
+                "source": {
+                  "workId": "gandhi-primary-work",
+                  "locator": "Constructive Programme, Communal Unity section, with Harijan articles on interreligious trust",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "tier": "standard"
 }

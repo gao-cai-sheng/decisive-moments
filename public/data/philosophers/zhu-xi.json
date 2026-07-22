@@ -5,9 +5,9 @@
     "en": "Zhu Xi"
   },
   "life": {
-    "display": "1130—1200",
     "birth": 1130,
-    "death": 1200
+    "death": 1200,
+    "display": "1130—1200"
   },
   "civilization": "chinese",
   "traditions": [
@@ -38,5 +38,254 @@
       "label": "draft",
       "noteZh": "条目需要人工核对作品、年代和概念表述。"
     }
-  ]
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "zhu-xi:problem:001",
+        "titleZh": "道德知识如何可能？",
+        "questionZh": "人如何获得关于善恶、义务与德性的可靠知识？",
+        "summaryZh": "朱熹认为道德知识不是先验直觉的产物，而是通过格物穷理、读书应事、内外交养的渐进工夫逐步明了的；这一立场既回应了孟子性善论的先天基础，又解释了现实中知行的差距。",
+        "themeIds": [
+          "ethics"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "zhu-xi:claim:001",
+            "titleZh": "格物穷理是道德认知的根本途径",
+            "claimZh": "朱熹主张，人必须通过对外在事物与经典文本的穷究，逐步积累对天理的认识，从而将道德知识从潜能转化为现实理解。",
+            "explanationZh": "在《大学》“格物致知”的诠释中，朱熹把“格物”解释为“穷至事物之理”，“致知”解释为“推极吾之知识”。他强调读书、应事接物、体察人伦都是穷理的门径，反对仅依赖内向直觉。",
+            "themeIds": [
+              "ethics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "zhu-xi:evidence:001",
+                "titleZh": "《朱子语类》论格物致知",
+                "summaryZh": "朱熹在回答门人问“格物”时指出，格物即逐物穷理，从君臣父子到草木鸟兽之理皆可穷，穷理之极便能豁然贯通。",
+                "source": {
+                  "workId": "zhu-xi-primary-work",
+                  "locator": "《朱子语类》卷十五·大学二·格物致知",
+                  "publicDomainExcerptZh": "所谓致知在格物者，言欲致吾之知，在即物而穷其理也。盖人心之灵莫不有知，而天下之物莫不有理，惟于理有未穷，故其知有不尽也。",
+                  "excerptStatus": "public_domain"
+                }
+              },
+              {
+                "id": "zhu-xi:evidence:002",
+                "titleZh": "《四书章句集注》补《大学》格物致知传",
+                "summaryZh": "朱熹重新分章并补写《大学》“格物致知传”，以“即物穷理”统摄道德与知识工夫，使格物成为从凡入圣的关键阶梯。",
+                "source": {
+                  "workId": "zhu-xi-primary-work",
+                  "locator": "朱熹《四书章句集注·大学章句》格物致知补传",
+                  "publicDomainExcerptZh": "是以大学始教，必使学者即凡天下之物，莫不因其已知之理而益穷之，以求至乎其极。",
+                  "excerptStatus": "public_domain"
+                }
+              }
+            ]
+          },
+          {
+            "id": "zhu-xi:claim:002",
+            "titleZh": "知行相须，真知必能行",
+            "claimZh": "朱熹区分知与行，但强调二者相互依赖：知是行的前提，行是知的完成；脱离行的知并非真知。",
+            "explanationZh": "朱熹反对空谈义理而不践履，也反对盲目行动而不知其所以然。他提出“知先行后”“知行相须”，认为真正的道德知识必然激发行动，行动又能反过来深化理解。",
+            "themeIds": [
+              "ethics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "zhu-xi:evidence:003",
+                "titleZh": "《朱子语类》论知行先后",
+                "summaryZh": "朱熹在《朱子语类》中多次讨论知行关系，强调论先后则知在先，论轻重则行为重，知行二者如车之两轮、鸟之两翼。",
+                "source": {
+                  "workId": "zhu-xi-primary-work",
+                  "locator": "《朱子语类》卷九·学三·论知行",
+                  "publicDomainExcerptZh": "知行常相须，如日无足不行，足无目不见。论先后，知为先；论轻重，行为重。",
+                  "excerptStatus": "public_domain"
+                }
+              },
+              {
+                "id": "zhu-xi:evidence:004",
+                "titleZh": "《近思录》论为学之序",
+                "summaryZh": "《近思录》卷二“为学”篇辑录二程与朱熹共同推崇的为学次第，强调穷理、反躬、践履不可偏废，体现知行并进的思想。",
+                "source": {
+                  "workId": "zhu-xi-primary-work",
+                  "locator": "《近思录》卷二·为学·格物穷理条",
+                  "publicDomainExcerptZh": "为学之道，必本于思。思则得之，不思则不得也。故《书》曰：思曰睿，睿作圣。",
+                  "excerptStatus": "public_domain"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "zhu-xi:problem:002",
+        "titleZh": "政治秩序的正当性基础是什么？",
+        "questionZh": "良好的政治秩序依赖于制度设计、法律惩罚，还是统治者与士人的道德修养？",
+        "summaryZh": "朱熹的政治哲学以“正心诚意”为核心，主张政治权威的正当性来源于统治者对天理的体认与德性的实践；制度与刑罚只是辅助，教化与风俗才是长治久安的根本。",
+        "themeIds": [
+          "politics"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "zhu-xi:claim:003",
+            "titleZh": "君主与士人的道德修养是良好政治的前提",
+            "claimZh": "朱熹认为，政治危机的根源在于朝廷上下德性的衰败；只有君主正心诚意、大臣持敬守义，才能建立正当且稳定的政治秩序。",
+            "explanationZh": "朱熹多次上疏皇帝，将当时的外患、财政与政治腐败归因于“心术不正”。他把《大学》的修身齐家治国平天下原则应用于现实政治，强调自上而下的人格典范是社会整合的关键。",
+            "themeIds": [
+              "politics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "zhu-xi:evidence:005",
+                "titleZh": "《朱子文集》戊申封事论正心诚意",
+                "summaryZh": "朱熹在《戊申封事》中直陈皇帝当以“正心诚意”为治国之本，批评当时朝政以利害计较为先，而忽视天理人心。",
+                "source": {
+                  "workId": "zhu-xi-primary-work",
+                  "locator": "《朱子文集》卷十一·奏疏·戊申封事",
+                  "publicDomainExcerptZh": "臣尝谓天下之事，其本在于一人，而其机在于一心。故人主之心正，则天下之事无有不正。",
+                  "excerptStatus": "public_domain"
+                }
+              },
+              {
+                "id": "zhu-xi:evidence:006",
+                "titleZh": "《近思录》论治体",
+                "summaryZh": "《近思录》卷八“治体”篇选录二程关于以德化民、以礼齐民的论述，朱熹通过编选与评注将“德治—礼治”确立为政治理想的核心。",
+                "source": {
+                  "workId": "zhu-xi-primary-work",
+                  "locator": "《近思录》卷八·治体",
+                  "publicDomainExcerptZh": "治道亦有从本而言，亦有从事而言。从本而言，惟从格君心之非，正心以正朝廷，正朝廷以正百官。",
+                  "excerptStatus": "public_domain"
+                }
+              }
+            ]
+          },
+          {
+            "id": "zhu-xi:claim:004",
+            "titleZh": "义利之辨是政治决策的根本准则",
+            "claimZh": "朱熹主张政治行为必须以天理公义为出发点，反对以个人利害、集团功利或权宜之计作为决策依据。",
+            "explanationZh": "“义利之辨”不仅是个人修身原则，也是评判政策与政治人物的标准。朱熹认为，一旦以功利计算取代天理公义，制度就会沦为争权夺利的工具，社会风俗也随之败坏。",
+            "themeIds": [
+              "politics",
+              "justice"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "zhu-xi:evidence:007",
+                "titleZh": "《朱子语类》论义利",
+                "summaryZh": "朱熹在《朱子语类》中反复辨析义利，指出圣人教人只辨义利，义利分明则事事物物各得其当。",
+                "source": {
+                  "workId": "zhu-xi-primary-work",
+                  "locator": "《朱子语类》卷十三·力行·义利之辨",
+                  "publicDomainExcerptZh": "万事莫先于义利之辨。义者，天理之所宜；利者，人情之所欲。",
+                  "excerptStatus": "public_domain"
+                }
+              },
+              {
+                "id": "zhu-xi:evidence:008",
+                "titleZh": "《近思录》论政事",
+                "summaryZh": "《近思录》卷十“政事”篇强调为政者当以至公之心处事，并以教化养民为先，刑罚威吓为后。",
+                "source": {
+                  "workId": "zhu-xi-primary-work",
+                  "locator": "《近思录》卷十·政事",
+                  "publicDomainExcerptZh": "圣人之道，如天地之造万物，各尽其性，而无私心。故为政者，必先正其心，然后可以正人。",
+                  "excerptStatus": "public_domain"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "zhu-xi:problem:003",
+        "titleZh": "正义标准的客观依据何在？",
+        "questionZh": "当我们说某种制度或行为是正义的或不正义的时，这一判断是否有客观依据？",
+        "summaryZh": "朱熹以“天理”作为正义与道德判断的客观依据：天理是公共、普遍且超越个人私欲的标准；现实中的不义则源于气禀之偏与人欲之蔽，需要通过修养与教化恢复天理的主宰。",
+        "themeIds": [
+          "justice",
+          "ethics"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "zhu-xi:claim:005",
+            "titleZh": "天理为公共正义提供客观标准",
+            "claimZh": "朱熹认为天理是事物“所当然”与“所以然”的统一，具有普遍性与公共性，可以作为判断个人行为、政治制度与社会风俗是否正当的客观依据。",
+            "explanationZh": "天理不是任何人的主观偏好，而是贯通天地人物的根本法则。朱熹通过“理一分殊”说明同一天理在具体情境中展现为不同的分理，使普遍正义与具体规范得以统一。",
+            "themeIds": [
+              "justice",
+              "ethics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "zhu-xi:evidence:009",
+                "titleZh": "《朱子语类》论理一分殊",
+                "summaryZh": "朱熹在讨论太极与万物关系时提出“理一分殊”，强调万物各具一太极，而万事万物之理又同出一源，从而为天理的普遍性与具体性提供论证。",
+                "source": {
+                  "workId": "zhu-xi-primary-work",
+                  "locator": "《朱子语类》卷一·理气上·太极天地上",
+                  "publicDomainExcerptZh": "本只是一太极，而万物各有禀受，又各自全具一太极尔。如月在天，只一而已，及散在江湖，则随处而见。",
+                  "excerptStatus": "public_domain"
+                }
+              },
+              {
+                "id": "zhu-xi:evidence:010",
+                "titleZh": "《四书章句集注》论天理与人欲",
+                "summaryZh": "朱熹在《四书章句集注》中以“天理”解释《中庸》《论语》《孟子》中的道德原则，将仁义礼智视为天理在人伦中的具体表现。",
+                "source": {
+                  "workId": "zhu-xi-primary-work",
+                  "locator": "朱熹《四书章句集注·论语集注·颜渊第十二》“克己复礼为仁”章",
+                  "publicDomainExcerptZh": "盖心之全德，莫非天理，而亦不能不坏于人欲。故为仁者必有以胜私欲而复于礼，则事皆天理，而本心之德复全于我矣。",
+                  "excerptStatus": "public_domain"
+                }
+              }
+            ]
+          },
+          {
+            "id": "zhu-xi:claim:006",
+            "titleZh": "气质之偏与人欲之蔽是现实不义的根源",
+            "claimZh": "人性本善，但现实社会中存在不义与不公，其根源不在于天理本身，而在于气禀的清浊偏正以及私欲对天理的遮蔽。",
+            "explanationZh": "朱熹区分“天地之性”与“气质之性”：天地之性纯善，即天理；气质之性则因气禀差异而有清浊厚薄。修养与教化的功能在于变化气质、克除私欲，使天理重新成为身心的主宰。",
+            "themeIds": [
+              "justice",
+              "ethics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "zhu-xi:evidence:011",
+                "titleZh": "《朱子语类》论天地之性与气质之性",
+                "summaryZh": "朱熹明确区分两种性：天地之性是理，纯粹至善；气质之性则是理与气杂，可善可恶，现实善恶差异由此而来。",
+                "source": {
+                  "workId": "zhu-xi-primary-work",
+                  "locator": "《朱子语类》卷四·性理一·人物之性气质之性",
+                  "publicDomainExcerptZh": "论天地之性，则专指理言；论气质之性，则以理与气杂而言之。性即理也，理则同善，气则有清浊昏明之不同。",
+                  "excerptStatus": "public_domain"
+                }
+              },
+              {
+                "id": "zhu-xi:evidence:012",
+                "titleZh": "《近思录》论寡欲与持养",
+                "summaryZh": "《近思录》卷四“存养”篇选录二程关于养心莫善于寡欲的论述，朱熹通过这一编选确认克欲存理是恢复正义感的根本工夫。",
+                "source": {
+                  "workId": "zhu-xi-primary-work",
+                  "locator": "《近思录》卷四·存养·寡欲条",
+                  "publicDomainExcerptZh": "养心莫善于寡欲。不欲则不惑，不惑则公，公则溥，溥则明。",
+                  "excerptStatus": "public_domain"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "tier": "standard"
 }

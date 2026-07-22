@@ -1,0 +1,293 @@
+{
+  "id": "cheng-yi",
+  "names": {
+    "zh": "程颐",
+    "en": "Cheng Yi",
+    "native": "程頤"
+  },
+  "life": {
+    "birth": 1033,
+    "death": 1107,
+    "display": "1033—1107"
+  },
+  "civilization": "chinese",
+  "traditions": [
+    "neo_confucianism",
+    "cheng_zhu_school",
+    "school_of_principle"
+  ],
+  "periods": [
+    "expansion_b3"
+  ],
+  "themes": [
+    "ethics",
+    "metaphysics",
+    "knowledge"
+  ],
+  "keywordsZh": [
+    "天理",
+    "格物",
+    "敬",
+    "性即理",
+    "程朱理学"
+  ],
+  "oneLineZh": "以天理、格物和敬的修养论奠定程朱理学的核心方向，成为朱熹思想直接源头。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "程颐与程颢共同奠定北宋道学，尤其强调理的客观秩序、格物穷理和敬的工夫，对朱熹及后世东亚理学影响深远。",
+  "works": [
+    "cheng-yi-yichuan-yizhuan",
+    "cheng-yi-wenji",
+    "cheng-brothers-surviving-works",
+    "cheng-brothers-classified-sayings",
+    "cheng-yi-henan-collected"
+  ],
+  "sourceNotes": [
+    {
+      "label": "Neo-Confucian source note",
+      "noteZh": "以《伊川易传》、二程遗书和朱子整理的程门语录传统为主要依据，关系判断保持问题谱系层级。"
+    }
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "cheng-yi:problem:001",
+        "titleZh": "天理与性即理",
+        "questionZh": "程颐如何把天道、性和伦理规范统一在理的框架中？",
+        "summaryZh": "程颐把理理解为天道和人性中的客观秩序，使伦理修养不只是习俗训练，而是对宇宙规范结构的体认。",
+        "themeIds": [
+          "metaphysics",
+          "ethics"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "cheng-yi:claim:001",
+            "titleZh": "理是伦理和宇宙秩序的共同根据",
+            "claimZh": "程颐把理作为事物所以然和道德当然的根据，使形而上学与修身工夫不可分离。",
+            "explanationZh": "这为朱熹后来系统化理气论和性理学提供关键资源，也使程颐不同于单纯训诂型经学家。",
+            "themeIds": [
+              "metaphysics",
+              "ethics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "cheng-yi:evidence:001",
+                "titleZh": "《二程遗书》论性即理",
+                "summaryZh": "语录传统把人性与天理相连，说明道德本性不是外加规则，而是天道秩序在人身上的呈现。",
+                "source": {
+                  "workId": "cheng-brothers-surviving-works",
+                  "locator": "Er Cheng Yishu, sayings on xing ji li",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "cheng-yi:evidence:002",
+                "titleZh": "《伊川易传》以理释易",
+                "summaryZh": "程颐解释《易》时强调卦象背后的义理秩序，把经典解释推进为天道与人事相贯通的哲学工作。",
+                "source": {
+                  "workId": "cheng-yi-yichuan-yizhuan",
+                  "locator": "Yichuan Yizhuan, Qian and Kun commentaries on principle",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "cheng-yi:claim:002",
+            "titleZh": "人欲遮蔽而非消灭天理",
+            "claimZh": "程颐区分天理与人欲，意在说明私欲会遮蔽规范秩序，但修养目标不是否定人的现实生活。",
+            "explanationZh": "这条主张后来被朱子学强化，也成为王阳明心学批评程朱工夫路线的重要背景。",
+            "themeIds": [
+              "ethics",
+              "freedom"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "cheng-yi:evidence:003",
+                "titleZh": "《二程外书》论天理人欲",
+                "summaryZh": "问答材料把天理与私欲对举，要求学习者在日常应事中辨别规范尺度与偏私牵引，而非停留抽象口号。",
+                "source": {
+                  "workId": "cheng-brothers-classified-sayings",
+                  "locator": "Er Cheng Waishu, dialogues on heavenly principle and human desires",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "cheng-yi:evidence:004",
+                "titleZh": "《伊川文集》论政治伦理约束",
+                "summaryZh": "文集中关于朝廷和士人行为的论述显示，程颐把天理落实到君臣、礼法和公共责任判断，使义理进入政治实践。",
+                "source": {
+                  "workId": "cheng-yi-wenji",
+                  "locator": "Yichuan Wenji, memorials and letters on political conduct",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "cheng-yi:problem:002",
+        "titleZh": "格物穷理与敬的工夫",
+        "questionZh": "程颐如何说明学习者应通过格物和敬来接近理？",
+        "summaryZh": "程颐的工夫论把向外穷理和向内持敬结合起来，既反对空疏玄想，也反对只做知识积累。",
+        "themeIds": [
+          "knowledge",
+          "ethics"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "cheng-yi:claim:003",
+            "titleZh": "格物是逐事穷理的学习方法",
+            "claimZh": "程颐强调在具体事物和经典义理中穷究其理，而不是凭一时内在感受断定道德真知。",
+            "explanationZh": "这为程朱学派后来的格物传统奠定方向，并与陆王心学形成长期张力。",
+            "themeIds": [
+              "knowledge",
+              "ethics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "cheng-yi:evidence:005",
+                "titleZh": "《二程遗书》论今日格一物",
+                "summaryZh": "语录以逐事穷理说明学习次第，要求在具体对象中累积义理理解，而非跳过学习过程直接宣称悟入。",
+                "source": {
+                  "workId": "cheng-brothers-surviving-works",
+                  "locator": "Er Cheng Yishu, sayings on investigating one thing today",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "cheng-yi:evidence:006",
+                "titleZh": "《河南程氏粹言》整理格物语录",
+                "summaryZh": "后出选编将格物材料归入程氏工夫论，显示传统如何把程颐解释为程朱格物路线的核心来源。",
+                "source": {
+                  "workId": "cheng-yi-henan-collected",
+                  "locator": "Henan Chengshi Cuiyan, selected sayings on gewu",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "cheng-yi:claim:004",
+            "titleZh": "敬保证穷理不流为散漫知识",
+            "claimZh": "程颐把敬视为收摄身心的根本工夫，使穷理保持道德方向和持续专注。",
+            "explanationZh": "这说明程颐并非只重外在考察，他要求学习活动由严肃的伦理姿态贯穿。",
+            "themeIds": [
+              "ethics",
+              "knowledge"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "cheng-yi:evidence:007",
+                "titleZh": "《二程遗书》论主一之敬",
+                "summaryZh": "语录把敬解释为主一无适的身心状态，用以防止心意散乱并保持修养连续性，使学习有内在约束。",
+                "source": {
+                  "workId": "cheng-brothers-surviving-works",
+                  "locator": "Er Cheng Yishu, sayings on reverent attentiveness as unity",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "cheng-yi:evidence:008",
+                "titleZh": "《二程外书》中的问学工夫",
+                "summaryZh": "问答把读书、应事和持敬联系起来，显示程颐要求知识活动必须转化为稳定的德性训练，而非单纯博闻。",
+                "source": {
+                  "workId": "cheng-brothers-classified-sayings",
+                  "locator": "Er Cheng Waishu, dialogues on learning and reverent attention",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "cheng-yi:problem:003",
+        "titleZh": "道统、经典与政治伦理",
+        "questionZh": "程颐如何把经典解释、师承道统和士大夫政治责任连接起来？",
+        "summaryZh": "程颐的理学不是脱离政治的内修学说，而是通过经典义理、讲学共同体和朝廷责任塑造士人秩序。",
+        "themeIds": [
+          "politics",
+          "ethics"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "cheng-yi:claim:005",
+            "titleZh": "经典解释承担恢复道统的任务",
+            "claimZh": "程颐通过《易》和四书问题重塑经典权威，使经学成为恢复圣贤之道而非章句技术。",
+            "explanationZh": "这让北宋道学获得历史使命感，也为朱熹整理四书和道统谱系奠定前提。",
+            "themeIds": [
+              "knowledge",
+              "ethics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "cheng-yi:evidence:009",
+                "titleZh": "《伊川易传》的义理化经学",
+                "summaryZh": "《易传》不满足于象数和训诂，而是用义理方式解释变化、君子和政治伦理的规范根基，呈现理学经学方向。",
+                "source": {
+                  "workId": "cheng-yi-yichuan-yizhuan",
+                  "locator": "Yichuan Yizhuan, commentaries on hexagrams and moral principle",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "cheng-yi:evidence:010",
+                "titleZh": "《伊川文集》中的经学书信",
+                "summaryZh": "书信材料显示程颐将读经、问学和修身连为同一任务，经学目标在于恢复可实践的圣贤之道。",
+                "source": {
+                  "workId": "cheng-yi-wenji",
+                  "locator": "Yichuan Wenji, letters on classical learning",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "cheng-yi:claim:006",
+            "titleZh": "政治批评以士人道德责任为根基",
+            "claimZh": "程颐参与宋代政治争论时，把制度判断系于君子修养和天理尺度，而非单纯权术成败。",
+            "explanationZh": "这条主张解释其讲学、仕途受挫和后世正统化之间的张力：道德严肃性既是力量也是政治风险。",
+            "themeIds": [
+              "politics",
+              "ethics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "cheng-yi:evidence:011",
+                "titleZh": "《伊川文集》保存奏议和政治书札",
+                "summaryZh": "相关文献显示程颐在政治评价中持续诉诸礼、义和士人责任，体现道学对公共秩序的要求。",
+                "source": {
+                  "workId": "cheng-yi-wenji",
+                  "locator": "Yichuan Wenji, political memorials and court letters",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "cheng-yi:evidence:012",
+                "titleZh": "《二程遗书》中的师门讲学形态",
+                "summaryZh": "语录呈现弟子问答、讲学和品评人物的场景，说明程颐思想通过师门共同体进入后世理学传统。",
+                "source": {
+                  "workId": "cheng-brothers-surviving-works",
+                  "locator": "Er Cheng Yishu, records of teaching dialogues and judgments",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "tier": "standard"
+}

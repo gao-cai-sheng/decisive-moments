@@ -1,0 +1,45 @@
+{
+  "id": "wu-qi",
+  "tier": "seed",
+  "names": {
+    "zh": "吴起",
+    "en": "Wu Qi",
+    "native": "吳起"
+  },
+  "life": {
+    "birth": -440,
+    "death": -381,
+    "display": "约前440—前381"
+  },
+  "civilization": "chinese",
+  "traditions": [
+    "military_thought",
+    "legalism"
+  ],
+  "periods": [
+    "warring_states"
+  ],
+  "themes": [
+    "politics",
+    "justice"
+  ],
+  "keywordsZh": [
+    "兵家",
+    "变法",
+    "吴子"
+  ],
+  "oneLineZh": "战国军事家和改革者，兼具兵家与法家制度色彩。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "吴起，战国卫人，历仕鲁、魏、楚，是著名军事家和改革者。《史记·孙子吴起列传》记其治军严明、在楚变法而遭贵族反扑。传世《吴子》围绕治兵、料敌、励士和国政展开，显示兵家并非单纯战术，而与财政、赏罚、君臣关系和国家组织能力密切相连。",
+  "works": [
+    "wu-qi-wuzi"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S018",
+      "url": "https://ctext.org/wuzi",
+      "noteZh": "以《吴子》和《史记》支撑吴起身份、军事活动和作品传统。"
+    }
+  ]
+}

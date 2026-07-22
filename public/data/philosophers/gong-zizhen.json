@@ -1,0 +1,46 @@
+{
+  "id": "gong-zizhen",
+  "tier": "seed",
+  "names": {
+    "zh": "龚自珍",
+    "en": "Gong Zizhen",
+    "native": "龔自珍"
+  },
+  "life": {
+    "birth": 1792,
+    "death": 1841,
+    "display": "1792—1841"
+  },
+  "civilization": "chinese",
+  "traditions": [
+    "confucianism",
+    "qing_reform_thought"
+  ],
+  "periods": [
+    "qing"
+  ],
+  "themes": [
+    "politics",
+    "freedom"
+  ],
+  "keywordsZh": [
+    "己亥杂诗",
+    "明良论",
+    "经世改革"
+  ],
+  "oneLineZh": "晚清思想家和文学家，以经世改革、个体精神和制度批判著称。",
+  "influenceWeight": 3,
+  "reviewStatus": "draft",
+  "summaryZh": "龚自珍，字璱人，号定庵，晚清思想家、诗人和政论家。他以《明良论》等文章批评官僚积弊和人才压抑，《己亥杂诗》则以强烈个人声音表达时代危机。龚自珍承接常州公羊学、佛学和经世传统，开启晚清变法思想和个体精神解放的先声。",
+  "works": [
+    "gong-zizhen-mingliang-lun",
+    "gong-zizhen-jihaizashi"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S019",
+      "url": "https://ctext.org/wiki.pl?if=en&searchu=%E9%BE%94%E8%87%AA%E7%8F%8D",
+      "noteZh": "以龚自珍《明良论》《己亥杂诗》和龚定庵全集支撑身份层。"
+    }
+  ]
+}

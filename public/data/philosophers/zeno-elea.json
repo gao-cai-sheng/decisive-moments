@@ -1,0 +1,289 @@
+{
+  "id": "zeno-elea",
+  "names": {
+    "zh": "芝诺（爱利亚）",
+    "en": "Zeno of Elea"
+  },
+  "life": {
+    "birth": -490,
+    "death": -430,
+    "display": "约前 490—前 430"
+  },
+  "civilization": "ancient_greek",
+  "traditions": [
+    "eleatic_school",
+    "ancient_greek_philosophy"
+  ],
+  "periods": [
+    "first_release"
+  ],
+  "themes": [
+    "metaphysics",
+    "knowledge",
+    "language"
+  ],
+  "keywordsZh": [
+    "形而上学",
+    "知识",
+    "语言"
+  ],
+  "oneLineZh": "爱利亚学派哲人，以反多和反运动悖论捍卫巴门尼德式存在论。",
+  "influenceWeight": 1,
+  "reviewStatus": "draft",
+  "summaryZh": "爱利亚学派哲人，以反多和反运动悖论捍卫巴门尼德式存在论。本条目以 summary_only 方式整理，重点保留低争议的问题结构、主张和可追溯证据定位。",
+  "works": [
+    "zeno-elea-primary-work"
+  ],
+  "sourceNotes": [
+    {
+      "label": "primary-dossier",
+      "noteZh": "本轮采用柏拉图《巴门尼德》、亚里士多德《物理学》、辛普里丘和现代悖论研究交叉定位；不填逐字摘录。"
+    },
+    {
+      "label": "excerpt-status",
+      "noteZh": "全部 evidence 使用 summary_only，locator 保留到作品、卷章或主题段落层级。"
+    }
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "zeno-elea:problem:001",
+        "titleZh": "悖论如何捍卫一者存在论？",
+        "questionZh": "爱利亚芝诺为什么用反证和悖论攻击多、运动和连续性常识？",
+        "summaryZh": "芝诺的策略不是直接建立体系，而是显示多和运动的常识假设会产生矛盾，从而间接支持巴门尼德的一者存在论。",
+        "themeIds": [
+          "metaphysics",
+          "knowledge"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "zeno-elea:claim:001",
+            "titleZh": "悖论是反证策略",
+            "claimZh": "芝诺通过假设多存在或运动存在，再推出矛盾，以反击对巴门尼德的嘲笑。",
+            "explanationZh": "这使他的论证成为早期辩证法和 reductio ad absurdum 的重要案例。",
+            "themeIds": [
+              "knowledge",
+              "language"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "zeno-elea:evidence:001",
+                "titleZh": "柏拉图《巴门尼德》的辩护语境",
+                "summaryZh": "《巴门尼德》把芝诺著作描述为用反多论证保护巴门尼德立场免受嘲笑和反驳攻击意图之一。",
+                "source": {
+                  "workId": "zeno-elea-primary-work",
+                  "locator": "Plato, Parmenides 127d-128e on Zeno's book defending Parmenides by arguing against plurality",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "zeno-elea:evidence:002",
+                "titleZh": "古代辩证法定位",
+                "summaryZh": "亚里士多德传统把芝诺同辩证法起源相联系，凸显其论证方法而非教义体系本身特征之一。",
+                "source": {
+                  "workId": "zeno-elea-primary-work",
+                  "locator": "Aristotle fragments/testimonia on Zeno as inventor of dialectic, preserved in later sources",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "zeno-elea:claim:002",
+            "titleZh": "反多论证攻击数量和大小假设",
+            "claimZh": "芝诺的反多论证显示，如果存在许多事物，它们似乎既有限又无限、既有大小又无大小。",
+            "explanationZh": "这些论证迫使哲学家说明部分、整体、可分性和数量如何一致。",
+            "themeIds": [
+              "metaphysics",
+              "language"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "zeno-elea:evidence:003",
+                "titleZh": "辛普里丘保存反多残篇",
+                "summaryZh": "辛普里丘保存芝诺关于多者大小、数量和可分性的残篇与转述，提供反多论证材料依据之一。",
+                "source": {
+                  "workId": "zeno-elea-primary-work",
+                  "locator": "Simplicius, Commentary on Aristotle's Physics, preserving Zeno DK 29 B1-B3 on plurality",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "zeno-elea:evidence:004",
+                "titleZh": "现代反多论证研究",
+                "summaryZh": "现代研究把反多论证视为针对无限可分、集合和度量直觉的早期挑战和概念压力来源之一。",
+                "source": {
+                  "workId": "zeno-elea-primary-work",
+                  "locator": "Modern scholarship on Zeno's arguments against plurality and divisibility",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "zeno-elea:problem:002",
+        "titleZh": "运动悖论为何如此持久？",
+        "questionZh": "二分法、阿基里斯、飞矢和运动场悖论如何挑战连续空间、时间和运动的理解？",
+        "summaryZh": "芝诺运动悖论揭示：如果空间和时间可无限分割，运动如何完成、速度如何比较、瞬间是否含运动，都需要更精细理论。",
+        "themeIds": [
+          "metaphysics",
+          "knowledge"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "zeno-elea:claim:003",
+            "titleZh": "二分法和阿基里斯挑战无限任务完成",
+            "claimZh": "二分法和阿基里斯悖论显示，若运动必须经过无限多中间点，完成有限距离似乎不可能。",
+            "explanationZh": "这些悖论推动后世思考无限级数、连续统和运动时间的关系。",
+            "themeIds": [
+              "metaphysics",
+              "knowledge"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "zeno-elea:evidence:005",
+                "titleZh": "亚里士多德保存二分法和阿基里斯",
+                "summaryZh": "《物理学》第六卷讨论芝诺关于先到一半、阿基里斯追不上乌龟等运动悖论结构类型之一。",
+                "source": {
+                  "workId": "zeno-elea-primary-work",
+                  "locator": "Aristotle, Physics VI.9, 239b on the Dichotomy and Achilles paradoxes",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "zeno-elea:evidence:006",
+                "titleZh": "无限分割问题研究",
+                "summaryZh": "现代研究把这些悖论视为关于潜无限、实无限和连续量理论的经典问题源头之一种形态说明。",
+                "source": {
+                  "workId": "zeno-elea-primary-work",
+                  "locator": "Modern scholarship on Zeno's Dichotomy, Achilles and infinite divisibility",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "zeno-elea:claim:004",
+            "titleZh": "飞矢悖论挑战瞬间运动观",
+            "claimZh": "飞矢悖论指出在任一瞬间箭占据等于自身的空间，似乎处于静止，由此质疑运动如何由静止瞬间构成。",
+            "explanationZh": "这迫使后世区分瞬时状态、速度、时间连续性和运动过程。",
+            "themeIds": [
+              "metaphysics",
+              "knowledge"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "zeno-elea:evidence:007",
+                "titleZh": "亚里士多德保存飞矢悖论",
+                "summaryZh": "《物理学》记述飞矢在每个现在处于等大位置而不运动的论证，挑战瞬时运动理解方式之一。",
+                "source": {
+                  "workId": "zeno-elea-primary-work",
+                  "locator": "Aristotle, Physics VI.9, 239b30-240a on the Arrow paradox",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "zeno-elea:evidence:008",
+                "titleZh": "瞬时速度和连续统研究",
+                "summaryZh": "后世数学和哲学讨论常以飞矢悖论为入口，分析瞬时速度和连续变化的概念条件问题框架。",
+                "source": {
+                  "workId": "zeno-elea-primary-work",
+                  "locator": "Modern studies of Zeno's Arrow, instants, motion and calculus-related interpretations",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "zeno-elea:problem:003",
+        "titleZh": "芝诺对后世逻辑和数学哲学有什么价值？",
+        "questionZh": "为什么即便古代物理学和现代数学可以回应悖论，芝诺仍是哲学史关键人物？",
+        "summaryZh": "芝诺展示了常识概念内部的张力，使无限、连续、部分整体和证明方法成为哲学与数学共同问题。",
+        "themeIds": [
+          "knowledge",
+          "language"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "zeno-elea:claim:005",
+            "titleZh": "悖论把常识转化为理论问题",
+            "claimZh": "芝诺迫使人们不再把运动、空间和多样性当作无需说明的自明事实。",
+            "explanationZh": "他的价值在于问题化能力：让直觉必须接受概念分析和形式论证检验。",
+            "themeIds": [
+              "knowledge",
+              "metaphysics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "zeno-elea:evidence:009",
+                "titleZh": "亚里士多德系统回应",
+                "summaryZh": "亚里士多德在《物理学》中花大量篇幅回应芝诺，显示悖论对运动和连续理论的压力来源。",
+                "source": {
+                  "workId": "zeno-elea-primary-work",
+                  "locator": "Aristotle, Physics VI and VIII responses to Zeno's puzzles about motion and continuity",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "zeno-elea:evidence:010",
+                "titleZh": "现代数学哲学接受",
+                "summaryZh": "芝诺悖论长期影响关于无限级数、连续统、测度和时间哲学的讨论，成为经典问题源头之一。",
+                "source": {
+                  "workId": "zeno-elea-primary-work",
+                  "locator": "Modern philosophy of mathematics and time on Zeno's paradoxes",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "zeno-elea:claim:006",
+            "titleZh": "悖论训练了反证和概念精确化",
+            "claimZh": "芝诺的论证把哲学推进到更严格的概念区分和间接证明技术。",
+            "explanationZh": "这为后世辩证法、逻辑和数学证明文化提供早期模型。",
+            "themeIds": [
+              "language",
+              "knowledge"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "zeno-elea:evidence:011",
+                "titleZh": "柏拉图对芝诺写作目的的呈现",
+                "summaryZh": "柏拉图把芝诺描绘为通过对方假设推出荒谬结果的辩证论者，凸显反证方法特征之一种形式。",
+                "source": {
+                  "workId": "zeno-elea-primary-work",
+                  "locator": "Plato, Parmenides 128a-d on Zeno's argumentative strategy",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "zeno-elea:evidence:012",
+                "titleZh": "现代逻辑史定位",
+                "summaryZh": "现代研究常把芝诺视为反证、悖论和概念分析传统的关键早期人物和方法象征之一类型代表。",
+                "source": {
+                  "workId": "zeno-elea-primary-work",
+                  "locator": "Modern histories of logic and dialectic on Zeno of Elea",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "tier": "standard"
+}

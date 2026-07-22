@@ -1,0 +1,46 @@
+{
+  "id": "xu-gan",
+  "tier": "seed",
+  "names": {
+    "zh": "徐干",
+    "en": "Xu Gan",
+    "native": "徐幹"
+  },
+  "life": {
+    "birth": 171,
+    "death": 218,
+    "display": "171—218"
+  },
+  "civilization": "chinese",
+  "traditions": [
+    "confucianism",
+    "jianan_thought"
+  ],
+  "periods": [
+    "eastern_han",
+    "three_kingdoms"
+  ],
+  "themes": [
+    "ethics",
+    "politics"
+  ],
+  "keywordsZh": [
+    "中论",
+    "建安七子",
+    "名实"
+  ],
+  "oneLineZh": "东汉末建安思想家，以《中论》讨论治国、修身和名实问题。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "徐干，字伟长，北海剧人，建安七子之一，也是汉魏之际重要政论和伦理思想作者。《中论》以短篇论说方式讨论名实、贵验、治学、谴交和务本等问题，承接儒家修身治国关切，又反映东汉末政治失序后的士人自我规训。其身份介于文学家、儒家政论者和汉魏思想转折期人物之间。",
+  "works": [
+    "xu-gan-zhonglun"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S001",
+      "url": "https://ctext.org/zhong-lun",
+      "noteZh": "以《中论》支撑徐干身份、作品和汉魏之际政论定位。"
+    }
+  ]
+}

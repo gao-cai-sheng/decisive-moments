@@ -1,0 +1,44 @@
+{
+  "id": "nichiren",
+  "tier": "seed",
+  "names": {
+    "zh": "日莲",
+    "en": "Nichiren"
+  },
+  "life": {
+    "birth": 1222,
+    "death": 1282,
+    "display": "1222—1282"
+  },
+  "civilization": "east_asian",
+  "traditions": [
+    "nichiren_buddhism"
+  ],
+  "periods": [
+    "medieval"
+  ],
+  "themes": [
+    "religion",
+    "politics"
+  ],
+  "keywordsZh": [
+    "法华信仰",
+    "日莲宗",
+    "护国论"
+  ],
+  "oneLineZh": "日莲佛教奠基者，以法华经信仰和护国论形成独特日本佛教路线。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "日莲以法华经为中心组织修行、社会批判和护国论，是日本佛教中的重要独立传统。本条仅作 seed 身份层定位。",
+  "works": [
+    "nichiren-rissho-ankoku-ron",
+    "nichiren-kaimoku-sho"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S003",
+      "url": "https://www.rep.routledge.com/articles/biographical/nichiren-1222-1282/v-1",
+      "noteZh": "Routledge Nichiren 条目用于核验日莲身份和法华传统定位。"
+    }
+  ]
+}

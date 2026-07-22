@@ -1,0 +1,47 @@
+{
+  "id": "hostos",
+  "tier": "seed",
+  "names": {
+    "zh": "欧亨尼奥·玛丽亚·德·奥斯托斯",
+    "en": "Eugenio María de Hostos"
+  },
+  "life": {
+    "birth": 1839,
+    "death": 1903,
+    "display": "1839—1903"
+  },
+  "civilization": "latin_american",
+  "traditions": [
+    "positivism",
+    "popular_education",
+    "antillean_federalism"
+  ],
+  "periods": [
+    "seed_w9"
+  ],
+  "themes": [
+    "ethics",
+    "politics",
+    "knowledge"
+  ],
+  "keywordsZh": [
+    "社会伦理",
+    "教育改革",
+    "安的列斯联邦"
+  ],
+  "oneLineZh": "波多黎各教育家与伦理思想家，以社会伦理和安的列斯解放方案连接实证主义与反殖民政治。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "奥斯托斯在拉美思想史中连接教育改革、社会伦理和加勒比反殖民政治。seed 档先记录其作为教育哲学、伦理学和安的列斯联邦论述节点的身份。",
+  "works": [
+    "hostos-moral-social",
+    "hostos-peregrinacion-bayoan"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S004",
+      "url": "https://www.cervantesvirtual.com/portales/eugenio_maria_de_hostos/",
+      "noteZh": "Biblioteca Virtual Miguel de Cervantes 的 Hostos 作者页用于核验其身份、作品和教育/伦理思想线索。"
+    }
+  ]
+}

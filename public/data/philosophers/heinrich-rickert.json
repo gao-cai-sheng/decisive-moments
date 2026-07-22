@@ -1,0 +1,43 @@
+{
+  "id": "heinrich-rickert",
+  "tier": "seed",
+  "names": {
+    "zh": "海因里希·李凯尔特",
+    "en": "Heinrich Rickert"
+  },
+  "life": {
+    "birth": 1863,
+    "death": 1936,
+    "display": "1863—1936"
+  },
+  "civilization": "western",
+  "traditions": [
+    "western_philosophy"
+  ],
+  "periods": [
+    "modern"
+  ],
+  "themes": [
+    "ethics",
+    "aesthetics"
+  ],
+  "keywordsZh": [
+    "文化科学",
+    "身份层",
+    "二线哲人"
+  ],
+  "oneLineZh": "价值关联与文化科学方法论代表，可补韦伯方法论背景。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "海因里希·李凯尔特（1863—1936）是 W2 欧陆与英美近现代二线哲人候选。其身份层入选理由为：价值关联与文化科学方法论代表，可补韦伯方法论背景。 本条仅作 seed 档基本定位，后续若升级标准档，需要重新做著作、论点与 evidence 研究。",
+  "works": [
+    "heinrich-rickert-limits-concept-formation",
+    "heinrich-rickert-science-and-history"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S006",
+      "noteZh": "权威来源条目：Routledge Encyclopedia of Philosophy: Rickert, Heinrich；用于核验人物身份、生卒、代表著作和思想史定位。"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "yang-zhu",
+  "tier": "seed",
+  "names": {
+    "zh": "杨朱",
+    "en": "Yang Zhu",
+    "native": "楊朱"
+  },
+  "life": {
+    "birth": -440,
+    "death": -360,
+    "display": "约前440—约前360"
+  },
+  "civilization": "chinese",
+  "traditions": [
+    "yangism"
+  ],
+  "periods": [
+    "warring_states"
+  ],
+  "themes": [
+    "ethics",
+    "freedom"
+  ],
+  "keywordsZh": [
+    "为我",
+    "贵己",
+    "孟子批判"
+  ],
+  "oneLineZh": "战国思想人物，因“为我”“贵己”传统而在儒墨之间成为重要参照。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "杨朱，战国早期思想人物，原书不传，主要通过《孟子》等批判性材料和后世《列子·杨朱》篇被认识。孟子把杨朱与墨子并列为异端对手，称其“为我”，显示杨朱传统强调保身、贵己和拒绝以个体生命为外在政治目的牺牲。其思想重构需谨慎，但在先秦伦理谱系中位置突出。",
+  "works": [
+    "yang-zhu-mengzi-records",
+    "yang-zhu-liezi-yangzhu"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S010",
+      "url": "https://ctext.org/mengzi",
+      "noteZh": "以《孟子》的批判记载为主，辅以后世《列子·杨朱》接受材料。"
+    }
+  ]
+}

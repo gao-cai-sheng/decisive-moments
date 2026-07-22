@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "items": [
+    { "id": "marcuse:claim:source-core", "type": "work", "claimZh": "马尔库塞以批判理论、技术理性和解放欲望分析发达工业社会的统治形态。", "evidenceZh": "核心文本围绕《爱欲与文明》《单向度的人》《理性与革命》和《论解放》展开。", "confidence": "high", "reviewStatus": "needs_human_review", "sourceIds": ["S1"] },
+    { "id": "marcuse:claim:relationship-bridge", "type": "relationship", "claimZh": "马尔库塞应连接马克思、黑格尔、霍克海默、阿多诺、哈贝马斯和弗洛姆。", "evidenceZh": "拟建关系覆盖批判理论、黑格尔马克思主义、法兰克福内部差异和解放政治。", "confidence": "medium", "reviewStatus": "needs_human_review", "sourceIds": ["S1", "S2"] },
+    { "id": "fromm:claim:source-core", "type": "work", "claimZh": "弗洛姆以人本精神分析把自由、异化、社会性格和伦理人格连接起来。", "evidenceZh": "核心文本围绕《逃避自由》《健全的社会》《自为的人》和《占有还是存在》展开。", "confidence": "high", "reviewStatus": "needs_human_review", "sourceIds": ["S3"] },
+    { "id": "fromm:claim:relationship-bridge", "type": "relationship", "claimZh": "弗洛姆应连接马克思、马尔库塞、密尔和阿伦特，补充自由心理学与社会批判线。", "evidenceZh": "拟建关系覆盖异化、人本主义马克思主义、自由人格和现代逃避机制。", "confidence": "medium", "reviewStatus": "needs_human_review", "sourceIds": ["S3", "S4"] },
+    { "id": "berlin:claim:source-core", "type": "work", "claimZh": "伯林以消极自由、积极自由和价值多元论重塑二十世纪自由主义论证。", "evidenceZh": "核心文本围绕《两种自由概念》《历史必然性》《刺猬与狐狸》和浪漫主义研究展开。", "confidence": "high", "reviewStatus": "needs_human_review", "sourceIds": ["S5"] },
+    { "id": "berlin:claim:relationship-bridge", "type": "relationship", "claimZh": "伯林应连接密尔、罗尔斯、诺齐克、哈耶克和波普尔，补齐自由主义内部谱系。", "evidenceZh": "拟建关系覆盖自由、反决定论、价值冲突和自由主义政治哲学分歧。", "confidence": "medium", "reviewStatus": "needs_human_review", "sourceIds": ["S5", "S6"] },
+    { "id": "hayek:claim:source-core", "type": "work", "claimZh": "哈耶克以知识分散、市场秩序和法治原则批判计划理性和集权政治。", "evidenceZh": "核心文本围绕《通往奴役之路》《知识在社会中的运用》《自由宪章》和《法律、立法与自由》展开。", "confidence": "high", "reviewStatus": "needs_human_review", "sourceIds": ["S7"] },
+    { "id": "hayek:claim:relationship-bridge", "type": "relationship", "claimZh": "哈耶克应连接密尔、伯林、波普尔、罗尔斯、诺齐克和施米特，补齐市场自由主义与法治线。", "evidenceZh": "拟建关系覆盖自由、分散知识、计划批判、规则秩序和反集权问题。", "confidence": "medium", "reviewStatus": "needs_human_review", "sourceIds": ["S7", "S8"] },
+    { "id": "schmitt:claim:source-core", "type": "work", "claimZh": "施米特以主权、例外状态、政治神学和敌友区分分析现代国家决断结构。", "evidenceZh": "核心文本围绕《政治神学》《政治的概念》《宪法学说》和《议会制民主的危机》展开。", "confidence": "high", "reviewStatus": "needs_human_review", "sourceIds": ["S9"] },
+    { "id": "schmitt:claim:critical-context", "type": "relationship", "claimZh": "施米特条目必须保留其反自由主义、威权政治和纳粹牵连的批判语境。", "evidenceZh": "拟建关系必须呈现其与阿伦特、哈贝马斯和本雅明等批判接收线的紧张关系。", "confidence": "high", "reviewStatus": "needs_human_review", "sourceIds": ["S9", "S10"] },
+    { "id": "croce:claim:source-core", "type": "work", "claimZh": "克罗齐以表现美学、历史主义和自由史观重构意大利唯心主义与维柯复兴。", "evidenceZh": "核心文本围绕《美学》《逻辑学》《历史编纂的理论与历史》《历史作为自由的故事》和维柯研究展开。", "confidence": "high", "reviewStatus": "needs_human_review", "sourceIds": ["S11"] },
+    { "id": "croce:claim:relationship-bridge", "type": "relationship", "claimZh": "克罗齐应连接维柯、黑格尔和马克思，并在葛兰西正式入库后补建克罗齐—葛兰西关系。", "evidenceZh": "拟建关系覆盖历史主义、精神哲学、自由主义和意大利思想传统的现代重构。", "confidence": "medium", "reviewStatus": "needs_human_review", "sourceIds": ["S11", "S12"] }
+  ]
+}

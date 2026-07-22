@@ -1,0 +1,44 @@
+{
+  "id": "bourdieu",
+  "tier": "seed",
+  "names": {
+    "zh": "皮埃尔·布迪厄",
+    "en": "Pierre Bourdieu"
+  },
+  "life": {
+    "birth": 1930,
+    "death": 2002,
+    "display": "1930—2002"
+  },
+  "civilization": "western",
+  "traditions": [
+    "social_theory"
+  ],
+  "periods": [
+    "contemporary"
+  ],
+  "themes": [
+    "politics",
+    "knowledge"
+  ],
+  "keywordsZh": [
+    "法国哲学",
+    "身份层",
+    "思想史补线"
+  ],
+  "oneLineZh": "惯习/场域/文化资本，社会实践理论。★升档候选",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "皮埃尔·布迪厄（1930—2002）是 Seed W3 法国近现代—现当代二线哲人候选。其身份层入选理由为：惯习/场域/文化资本，社会实践理论。★升档候选 本条仅作 seed 档基本定位，后续若升级标准档，必须重新做著作、论点与 evidence 研究。",
+  "works": [
+    "bourdieu-outline-theory-practice",
+    "bourdieu-distinction"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S003",
+      "url": "https://plato.stanford.edu/entries/bourdieu/",
+      "noteZh": "权威来源条目：SEP: Pierre Bourdieu；用于核验人物身份、生卒、代表著作和思想史定位。"
+    }
+  ]
+}

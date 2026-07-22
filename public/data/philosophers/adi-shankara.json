@@ -5,9 +5,9 @@
     "en": "Adi Shankara"
   },
   "life": {
-    "display": "约788—820",
     "birth": 788,
-    "death": 820
+    "death": 820,
+    "display": "约788—820"
   },
   "civilization": "indian",
   "traditions": [
@@ -38,5 +38,255 @@
       "label": "draft",
       "noteZh": "条目需要人工核对作品、年代和概念表述。"
     }
-  ]
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "adi-shankara:problem:001",
+        "titleZh": "梵我同一如何可能？",
+        "questionZh": "如果日常经验呈现出个人、世界和最高真实之间的差别，那么商羯罗如何说明 Ātman 与 Brahman 在究竟层面无二？",
+        "summaryZh": "商羯罗把奥义书大句解释为解脱性知识：被经验误认为行动者和受苦者的自我，在究竟层面并非身体或心理状态，而是与无二 Brahman 同一的见证意识。",
+        "themeIds": [
+          "metaphysics",
+          "religion",
+          "life_death"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "adi-shankara:claim:001",
+            "titleZh": "最高真实是无二 Brahman",
+            "claimZh": "商羯罗把 Brahman 理解为一切经验和存在的最高根基；在究竟层面，Brahman 不与第二个独立真实并列。",
+            "explanationZh": "这不是普通对象知识，而是对经验根基的辨认。若最高真实之外仍有同等独立实体，奥义书所说的无二性就会被破坏。",
+            "themeIds": [
+              "metaphysics",
+              "religion"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "adi-shankara:evidence:001",
+                "titleZh": "《梵经注》以 Brahman 探究开篇",
+                "summaryZh": "《梵经注》1.1.1 从 Brahman 探究开始，显示商羯罗把吠檀多理解为关于最高真实和解脱知识的系统探究。",
+                "source": {
+                  "workId": "adi-shankara-primary-work",
+                  "locator": "Brahma-sūtra-bhāṣya 1.1.1, adhyāya 1 pāda 1 sūtra 1: athāto brahmajijñāsā",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "adi-shankara:evidence:002",
+                "titleZh": "奥义书注释把 Brahman 解释为非对象化根基",
+                "summaryZh": "主要奥义书注释围绕 neti neti、见者和意识根基展开，说明最高真实不能像普通对象那样被感官和概念穷尽。",
+                "source": {
+                  "workId": "adi-shankara-primary-work",
+                  "locator": "Bṛhadāraṇyaka-upaniṣad-bhāṣya on 2.3.6 neti neti; Aitareya-upaniṣad-bhāṣya on prajñānam brahma",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "adi-shankara:claim:002",
+            "titleZh": "真实自我不是身体心识而是 Brahman",
+            "claimZh": "商羯罗认为 Ātman 不是身体、感官、心理活动或行动者身份；当自我被正确认识时，它与 Brahman 无二。",
+            "explanationZh": "自我之所以看似有限，是因为它被日常经验中的身心属性遮蔽。奥义书大句的功能，就是解除这种把自我误认为有限个体的理解。",
+            "themeIds": [
+              "metaphysics",
+              "life_death",
+              "religion"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "adi-shankara:evidence:003",
+                "titleZh": "《一千教诫》集中解释 Tat tvam asi",
+                "summaryZh": "《一千教诫》多处围绕“你即那”展开教学，把学习者从身体行动者身份引向对自我与 Brahman 同一的认识。",
+                "source": {
+                  "workId": "adi-shankara-primary-work",
+                  "locator": "Upadeśasāhasrī, metrical part chapter 18, verses on Tat tvam asi",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "adi-shankara:evidence:004",
+                "titleZh": "《一千教诫》区分自我与行动者观念",
+                "summaryZh": "《一千教诫》散文部分反复说明“我行动”的观念属于无明条件下的误认，而不是 Ātman 的究竟性质。",
+                "source": {
+                  "workId": "adi-shankara-primary-work",
+                  "locator": "Upadeśasāhasrī, prose part II.1, teaching on the non-agent self",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "adi-shankara:problem:002",
+        "titleZh": "无明与叠置如何生成经验世界？",
+        "questionZh": "如果最高真实无二，为什么人仍然经验到身体、自我、他者、行动和世界差别，并把这些差别当作最终真实？",
+        "summaryZh": "商羯罗用 adhyāsa 和 avidyā 说明经验错误的根部：自我与非自我相互叠置，使身体心识被误认为自我，也使意识性被投射到经验对象和行动结构上。",
+        "themeIds": [
+          "metaphysics",
+          "religion",
+          "knowledge"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "adi-shankara:claim:003",
+            "titleZh": "叠置是日常错误身份的根源",
+            "claimZh": "商羯罗把人的基本困境解释为自我与非自我的相互叠置：人把身体、感官和心理状态当成“我”，又把意识性误归给非自我结构。",
+            "explanationZh": "这种错误不是偶发误判，而是经验生活已经预设的身份结构。正因为人以行动者和享受者自居，轮回和痛苦才持续运作。",
+            "themeIds": [
+              "metaphysics",
+              "knowledge",
+              "life_death"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "adi-shankara:evidence:005",
+                "titleZh": "adhyāsa-bhāṣya 以叠置定义无明经验",
+                "summaryZh": "《梵经注》序言以 adhyāsa 解释经验中的自我误认，指出人把一方属性叠置到另一方，是所有实践和认识错误的前提。",
+                "source": {
+                  "workId": "adi-shankara-primary-work",
+                  "locator": "Brahma-sūtra-bhāṣya, introductory Adhyāsa-bhāṣya, opening definition of superimposition",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "adi-shankara:evidence:006",
+                "titleZh": "身体心识不是 Ātman 的论证线索",
+                "summaryZh": "奥义书注释和《一千教诫》都通过区分身体、感官、心识和见证意识，说明有限身心不能充当真实自我。",
+                "source": {
+                  "workId": "adi-shankara-primary-work",
+                  "locator": "Upadeśasāhasrī II.2 on negation; Bṛhadāraṇyaka-upaniṣad-bhāṣya on self as witness",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "adi-shankara:claim:004",
+            "titleZh": "经验有效不等于究竟真实",
+            "claimZh": "商羯罗允许经验层面中的因果、伦理、教学和修行有效，但认为这些有效性并不能证明世界差别是究竟真实。",
+            "explanationZh": "这一区分使不二论既不落入粗糙虚无论，也不把经验世界提升为与 Brahman 并列的第二真实。世俗实践服务于解除无明。",
+            "themeIds": [
+              "metaphysics",
+              "religion",
+              "knowledge"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "adi-shankara:evidence:007",
+                "titleZh": "《梵经注》在驳论中保留经验因果讨论",
+                "summaryZh": "《梵经注》第二章大量讨论因果、世界生成和竞争学派观点，说明经验论证可被认真处理，但最终从属于不二真实。",
+                "source": {
+                  "workId": "adi-shankara-primary-work",
+                  "locator": "Brahma-sūtra-bhāṣya, adhyāya 2 pāda 1, discussion of causality and rival schools",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "adi-shankara:evidence:008",
+                "titleZh": "《薄伽梵歌注》承认行动净化的经验功能",
+                "summaryZh": "《薄伽梵歌注》在讨论行动、弃绝和知识时承认行动有净化心智的作用，但不把行动当成解脱的最终生产因。",
+                "source": {
+                  "workId": "adi-shankara-primary-work",
+                  "locator": "Bhagavad-gītā-bhāṣya, chapters 3 and 18, on karma-yoga, renunciation, and knowledge",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "adi-shankara:problem:003",
+        "titleZh": "为什么解脱依赖知识而不是行动？",
+        "questionZh": "如果宗教传统包含祭祀、义务、冥想和伦理修行，商羯罗为什么仍坚持最终解脱必须通过对 Ātman-Brahman 同一的知识来实现？",
+        "summaryZh": "商羯罗把无明看成错误认识，因此解脱的直接对治是知识。行动可以净化心智、形成资格并支持教学过程，但行动作为有为活动不能生产本来已是自我的 Brahman。",
+        "themeIds": [
+          "religion",
+          "life_death",
+          "knowledge"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "adi-shankara:claim:005",
+            "titleZh": "知识直接解除无明",
+            "claimZh": "商羯罗认为束缚的根本是无明和误认，因此只有知识能够直接解除它；行动最多改变条件，不能制造本来常住的自我。",
+            "explanationZh": "如果解脱是被生产的结果，它就会像其他行动结果一样受时间和条件限制。商羯罗因此把解脱理解为真实自我的显明。",
+            "themeIds": [
+              "religion",
+              "life_death",
+              "knowledge"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "adi-shankara:evidence:009",
+                "titleZh": "《一千教诫》把解脱归于自我知识",
+                "summaryZh": "《一千教诫》把师教、听闻和辨别导向对真实自我的认识，并反复削弱把祭祀行动视为最终解脱因的理解。",
+                "source": {
+                  "workId": "adi-shankara-primary-work",
+                  "locator": "Upadeśasāhasrī, prose part II.1.25-31, on knowledge, action, and liberation",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "adi-shankara:evidence:010",
+                "titleZh": "《薄伽梵歌注》区分净化行动与解脱知识",
+                "summaryZh": "《薄伽梵歌注》在解释业瑜伽和弃绝时，把行动放在净化和准备位置，而把最终解脱归于自我知识。",
+                "source": {
+                  "workId": "adi-shankara-primary-work",
+                  "locator": "Bhagavad-gītā-bhāṣya 18.66 and related discussion of sannyāsa and jñāna",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "adi-shankara:claim:006",
+            "titleZh": "经典教导是通向不可对象化 Brahman 的认识手段",
+            "claimZh": "商羯罗把 śruti 视为认识 Brahman 的关键手段，因为 Brahman 不是感官对象，普通推理也无法独立把握其无二性质。",
+            "explanationZh": "经典不是传递一个外在神话事实，而是通过大句和师教纠正学习者的自我误认。听闻、思辨和内化由此构成解脱教学的路径。",
+            "themeIds": [
+              "religion",
+              "knowledge",
+              "metaphysics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "adi-shankara:evidence:011",
+                "titleZh": "《梵经注》强调奥义书句义的一致指向",
+                "summaryZh": "《梵经注》1.1.4 等处把不同奥义书段落解释为同指 Brahman，显示 śruti 在 Brahman 认识中的核心地位。",
+                "source": {
+                  "workId": "adi-shankara-primary-work",
+                  "locator": "Brahma-sūtra-bhāṣya 1.1.4, tat tu samanvayāt, on scriptural synthesis",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "adi-shankara:evidence:012",
+                "titleZh": "《一千教诫》呈现师生教学与听闻路径",
+                "summaryZh": "《一千教诫》的散文与偈颂部分以师生教导形式展开，说明听闻大句并正确理解自我，是解脱知识产生的关键条件。",
+                "source": {
+                  "workId": "adi-shankara-primary-work",
+                  "locator": "Upadeśasāhasrī, prose chapters 1-3 and metrical chapter 18, teacher-student instruction",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "tier": "standard"
 }

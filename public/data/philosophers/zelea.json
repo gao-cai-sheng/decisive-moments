@@ -5,9 +5,9 @@
     "en": "Leopoldo Zea"
   },
   "life": {
-    "display": "1912—2004",
     "birth": 1912,
-    "death": 2004
+    "death": 2004,
+    "display": "1912—2004"
   },
   "civilization": "latin_american",
   "traditions": [
@@ -31,12 +31,261 @@
   "reviewStatus": "draft",
   "summaryZh": "塞亚是政治、正义问题谱系中的第一版候选哲人。 本条目是第一版结构化资料，已经保留文明、传统、主题、作品和论述字段，正式发布前需要继续核对年代、文本出处和概念表述。",
   "works": [
-    "zelea-primary-work"
+    "zelea-america-consciousness",
+    "zelea-latin-american-mind",
+    "zelea-role-americas-history",
+    "zelea-bolivar-integration-freedom",
+    "zelea-discourse-margins"
   ],
   "sourceNotes": [
     {
       "label": "draft",
       "noteZh": "条目需要人工核对作品、年代和概念表述。"
     }
-  ]
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "zelea:problem:001",
+        "titleZh": "拉丁美洲如何成为自己的历史意识？",
+        "questionZh": "塞亚如何把拉丁美洲哲学理解为对自身历史处境的觉醒？",
+        "summaryZh": "塞亚把拉丁美洲哲学看成边缘社会对自身历史位置的反思。哲学不是重复欧洲问题，而是理解殖民、依附、混血和解放经验的自我意识。",
+        "themeIds": [
+          "knowledge",
+          "politics",
+          "justice"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "zelea:claim:001",
+            "titleZh": "拉美哲学从历史处境中产生",
+            "claimZh": "塞亚认为拉丁美洲哲学的任务，是把自身被殖民和边缘化的历史经验转化为自觉问题。",
+            "explanationZh": "这使哲学不再只是欧洲体系的延迟接受，而成为拉美主体理解自身命运的方式。",
+            "themeIds": [
+              "knowledge",
+              "politics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "zelea:evidence:001",
+                "titleZh": "美洲作为意识",
+                "summaryZh": "《美洲作为意识》把美洲理解为需要自我解释的历史主体，强调哲学应从自身处境出发，而非复制欧洲问题。",
+                "source": {
+                  "workId": "zelea-america-consciousness",
+                  "locator": "America as Consciousness on Latin American historical self-awareness",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "zelea:evidence:002",
+                "titleZh": "拉美心灵中的思想史叙事",
+                "summaryZh": "《拉丁美洲心灵》通过思想史追踪拉美对自身身份的理解，说明哲学与历史自觉相互生成。",
+                "source": {
+                  "workId": "zelea-latin-american-mind",
+                  "locator": "The Latin-American Mind on intellectual history and identity formation",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "zelea:claim:002",
+            "titleZh": "边缘经验可以提出普遍问题",
+            "claimZh": "塞亚主张拉丁美洲的边缘经验并非地方材料，而能揭示现代世界中的依附、排除和普遍性问题。",
+            "explanationZh": "他把边缘位置转化为批判视角，使拉美哲学可以参与世界哲学而非被附属化。",
+            "themeIds": [
+              "justice",
+              "knowledge"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "zelea:evidence:003",
+                "titleZh": "边缘话语与野蛮",
+                "summaryZh": "《从边缘和野蛮出发的话语》把边缘位置作为批判现代中心的出发点，重估所谓文明与野蛮。",
+                "source": {
+                  "workId": "zelea-discourse-margins",
+                  "locator": "Discourse from the Margins and Barbarism on marginality and universal critique",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "zelea:evidence:004",
+                "titleZh": "美洲在历史中的角色",
+                "summaryZh": "《美洲在历史中的角色》把拉美放入世界历史结构，说明边缘地区也参与塑造现代历史意义。",
+                "source": {
+                  "workId": "zelea-role-americas-history",
+                  "locator": "The Role of the Americas in History on world history and Latin American agency",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "zelea:problem:002",
+        "titleZh": "依附与解放如何构成拉美政治哲学？",
+        "questionZh": "塞亚如何从殖民继承、依附关系和解放愿望中思考政治主体？",
+        "summaryZh": "塞亚把拉美政治问题理解为摆脱外部定义和依附结构的过程。解放不仅是国家独立，也包括精神、文化和历史解释权的重新取得。",
+        "themeIds": [
+          "politics",
+          "freedom",
+          "justice"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "zelea:claim:003",
+            "titleZh": "政治解放需要精神和历史解放",
+            "claimZh": "塞亚认为拉丁美洲不能只取得形式独立，还必须摆脱把自己看成落后欧洲复制品的精神依附。",
+            "explanationZh": "这使解放成为文化和历史意识问题：被殖民者要重新解释自身过去和未来。",
+            "themeIds": [
+              "freedom",
+              "politics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "zelea:evidence:005",
+                "titleZh": "拉美心灵中的依附意识",
+                "summaryZh": "《拉丁美洲心灵》分析拉美知识分子如何在模仿欧洲和寻找自身之间摇摆，揭示精神依附问题。",
+                "source": {
+                  "workId": "zelea-latin-american-mind",
+                  "locator": "The Latin-American Mind on imitation, dependency and self-affirmation",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "zelea:evidence:006",
+                "titleZh": "美洲意识与解放任务",
+                "summaryZh": "《美洲作为意识》把自我意识视为解放条件，说明拉美必须从自身历史经验中提出政治方向。",
+                "source": {
+                  "workId": "zelea-america-consciousness",
+                  "locator": "America as Consciousness on liberation through historical consciousness",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "zelea:claim:004",
+            "titleZh": "玻利瓦尔的一体化理想提供解放资源",
+            "claimZh": "塞亚把玻利瓦尔的一体化思想视为拉美摆脱分裂和依附、形成共同政治主体的重要资源。",
+            "explanationZh": "一体化不是单纯地缘战略，而是让拉美从碎片化附属状态中形成共同历史意志。",
+            "themeIds": [
+              "politics",
+              "justice"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "zelea:evidence:007",
+                "titleZh": "玻利瓦尔与自由中的一体化",
+                "summaryZh": "《西蒙·玻利瓦尔：自由中的一体化》把玻利瓦尔解读为拉美共同体和政治解放想象的核心象征。",
+                "source": {
+                  "workId": "zelea-bolivar-integration-freedom",
+                  "locator": "Simón Bolívar: Integración en la libertad on integration and liberation",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "zelea:evidence:008",
+                "titleZh": "美洲历史中的共同命运",
+                "summaryZh": "《美洲在历史中的角色》把拉美各国放入共同历史命运，说明一体化是对外部支配的回应。",
+                "source": {
+                  "workId": "zelea-role-americas-history",
+                  "locator": "The Role of the Americas in History on common destiny and integration",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "zelea:problem:003",
+        "titleZh": "拉美哲学如何参与世界普遍性？",
+        "questionZh": "塞亚如何避免拉美哲学被困在地方特殊性或欧洲普遍性的二分中？",
+        "summaryZh": "塞亚认为拉美哲学必须从自身处境出发进入世界讨论。真正的普遍性不是抹掉差异，而是让被边缘化经验参与定义人类历史和自由。",
+        "themeIds": [
+          "knowledge",
+          "justice",
+          "freedom"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "zelea:claim:005",
+            "titleZh": "普遍性应由多重历史经验共同构成",
+            "claimZh": "塞亚认为欧洲不能垄断普遍性，拉美经验也能参与定义人类共同问题和历史方向。",
+            "explanationZh": "这使拉美哲学既不是地方民俗，也不是欧洲理论的派生物，而是普遍讨论的共同作者。",
+            "themeIds": [
+              "knowledge",
+              "justice"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "zelea:evidence:009",
+                "titleZh": "边缘话语中的普遍性批判",
+                "summaryZh": "《从边缘和野蛮出发的话语》质疑中心自称普遍的权力，要求从边缘经验重构普遍历史意义。",
+                "source": {
+                  "workId": "zelea-discourse-margins",
+                  "locator": "Discourse from the Margins and Barbarism on universality from the margins",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "zelea:evidence:010",
+                "titleZh": "拉美哲学与世界历史",
+                "summaryZh": "《美洲在历史中的角色》把美洲经验纳入世界历史解释，说明普遍性需要承认被殖民世界的贡献。",
+                "source": {
+                  "workId": "zelea-role-americas-history",
+                  "locator": "The Role of the Americas in History on America and universal history",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "zelea:claim:006",
+            "titleZh": "哲学应把被否定者转化为历史主体",
+            "claimZh": "塞亚把拉美哲学理解为让被称作落后、野蛮或边缘的人群重新成为历史主体的实践。",
+            "explanationZh": "哲学在这里承担解放功能：它改变人们理解自身位置的方式，并为政治和文化行动提供语言。",
+            "themeIds": [
+              "freedom",
+              "politics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "zelea:evidence:011",
+                "titleZh": "美洲意识中的主体化",
+                "summaryZh": "《美洲作为意识》把意识觉醒描述为主体化过程，使拉美不再只是欧洲历史叙事中的对象。",
+                "source": {
+                  "workId": "zelea-america-consciousness",
+                  "locator": "America as Consciousness on subject formation and historical agency",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "zelea:evidence:012",
+                "titleZh": "边缘与野蛮的反转",
+                "summaryZh": "《从边缘和野蛮出发的话语》重新解释被贬为野蛮的经验，将其转化为批判中心秩序的历史立场。",
+                "source": {
+                  "workId": "zelea-discourse-margins",
+                  "locator": "Discourse from the Margins and Barbarism on barbarism, dignity and historical agency",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "tier": "standard"
 }

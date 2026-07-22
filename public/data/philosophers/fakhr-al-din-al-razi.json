@@ -1,0 +1,48 @@
+{
+  "id": "fakhr-al-din-al-razi",
+  "tier": "seed",
+  "names": {
+    "zh": "法赫尔丁·拉齐",
+    "en": "Fakhr al-Dīn al-Rāzī",
+    "native": "فخر الدين الرازي"
+  },
+  "life": {
+    "birth": 1150,
+    "death": 1210,
+    "display": "1150—1210"
+  },
+  "civilization": "islamic",
+  "traditions": [
+    "ashariyya",
+    "shafii",
+    "post-avicennian_kalam"
+  ],
+  "periods": [
+    "medieval"
+  ],
+  "themes": [
+    "religion",
+    "metaphysics",
+    "knowledge"
+  ],
+  "keywordsZh": [
+    "后伊本·西那哲学神学",
+    "艾什尔里教义学",
+    "经注与形而上学"
+  ],
+  "oneLineZh": "集大成教义学家和哲学神学家，在吸收并批判伊本·西那之后重塑后期 kalam 的问题格局。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "法赫尔丁·拉齐（1150—1210）是 Seed W7 伊斯兰文明教义学试点候选。其身份层入选理由为：集大成教义学家和哲学神学家，在吸收并批判伊本·西那之后重塑后期 kalam 的问题格局。本条仅作 seed 档基本定位，并明确区别于 b2 的医师—自由思想家 `abu-bakr-al-razi`。后续若升级标准档，必须重新做著作、论点与 evidence 研究。",
+  "works": [
+    "fakhr-al-din-al-razi-al-muhassal",
+    "fakhr-al-din-al-razi-al-matalib-al-aliya"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S006",
+      "url": "https://www.muslimphilosophy.com/ip/rep/H044.htm",
+      "noteZh": "来源：Muslim Philosophy / Fakhr al-Dīn al-Rāzī；用于核验人物身份、生卒断代、哲学神学定位、代表著作和与伊本·西那传统的关系。"
+    }
+  ]
+}

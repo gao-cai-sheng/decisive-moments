@@ -5,9 +5,9 @@
     "en": "Kwasi Wiredu"
   },
   "life": {
-    "display": "1931—2022",
     "birth": 1931,
-    "death": 2022
+    "death": 2022,
+    "display": "1931—2022"
   },
   "civilization": "african",
   "traditions": [
@@ -31,12 +31,260 @@
   "reviewStatus": "draft",
   "summaryZh": "夸西·维雷杜是政治、伦理问题谱系中的第一版候选哲人。 本条目是第一版结构化资料，已经保留文明、传统、主题、作品和论述字段，正式发布前需要继续核对年代、文本出处和概念表述。",
   "works": [
-    "wiredu-primary-work"
+    "wiredu-philosophy-african-culture",
+    "wiredu-cultural-universals-particulars",
+    "wiredu-conceptual-decolonization",
+    "wiredu-democracy-consensus"
   ],
   "sourceNotes": [
     {
       "label": "draft",
       "noteZh": "条目需要人工核对作品、年代和概念表述。"
     }
-  ]
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "wiredu:problem:001",
+        "titleZh": "概念去殖民为何是哲学任务？",
+        "questionZh": "维雷杜如何通过语言和概念分析反思殖民遗产对非洲思想的塑形？",
+        "summaryZh": "维雷杜认为非洲哲学必须警惕殖民语言和外来概念框架造成的误认。概念去殖民不是拒绝普遍哲学，而是通过本土语言分析重新检验问题。",
+        "themeIds": [
+          "language",
+          "knowledge",
+          "freedom"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "wiredu:claim:001",
+            "titleZh": "殖民语言会携带概念误导",
+            "claimZh": "维雷杜认为用殖民语言直接思考非洲问题，容易把外来哲学预设误当成本土经验本身。",
+            "explanationZh": "因此哲学需要比较语言中的概念差异，判断某些问题是否来自翻译和范畴错置。",
+            "themeIds": [
+              "language",
+              "knowledge"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "wiredu:evidence:001",
+                "titleZh": "概念去殖民的纲领",
+                "summaryZh": "《非洲哲学中的概念去殖民》提出通过本土语言和概念分析清理殖民哲学框架带来的误导。",
+                "source": {
+                  "workId": "wiredu-conceptual-decolonization",
+                  "locator": "Conceptual Decolonization in African Philosophy on language and inherited categories",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "wiredu:evidence:002",
+                "titleZh": "非洲文化中的哲学方法",
+                "summaryZh": "《哲学与非洲文化》把非洲哲学置于语言、文化和分析方法之间，说明去殖民需要概念层面的工作。",
+                "source": {
+                  "workId": "wiredu-philosophy-african-culture",
+                  "locator": "Philosophy and an African Culture on method, language and African concepts",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "wiredu:claim:002",
+            "titleZh": "去殖民不等于文化封闭",
+            "claimZh": "维雷杜主张概念去殖民并不排斥普遍理性，而是让非洲语言资源参与更清楚的哲学讨论。",
+            "explanationZh": "他的立场避免两端：既不接受欧洲概念霸权，也不把非洲思想封闭为不可翻译的特殊主义。",
+            "themeIds": [
+              "knowledge",
+              "justice"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "wiredu:evidence:003",
+                "titleZh": "文化普遍与特殊",
+                "summaryZh": "《文化普遍与特殊》讨论不同文化概念之间的可比较性，说明普遍问题可经由本土语言重新表达。",
+                "source": {
+                  "workId": "wiredu-cultural-universals-particulars",
+                  "locator": "Cultural Universals and Particulars on universals, particulars and cross-cultural concepts",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "wiredu:evidence:004",
+                "titleZh": "阿肯概念分析与普遍讨论",
+                "summaryZh": "维雷杜通过阿肯语言分析真理、人格和心灵等概念，展示本土语义可以进入普遍哲学争论。",
+                "source": {
+                  "workId": "wiredu-cultural-universals-particulars",
+                  "locator": "Cultural Universals and Particulars on Akan concepts and philosophical comparison",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "wiredu:problem:002",
+        "titleZh": "人格、真理和心灵能否跨文化分析？",
+        "questionZh": "维雷杜如何用阿肯概念分析挑战西方哲学中的若干默认问题？",
+        "summaryZh": "维雷杜通过阿肯语和非洲文化材料重审真理、人格、心灵和道德责任。他认为跨文化哲学能揭示某些西方难题并非普遍必然。",
+        "themeIds": [
+          "knowledge",
+          "metaphysics",
+          "ethics"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "wiredu:claim:003",
+            "titleZh": "真理概念需要语言比较",
+            "claimZh": "维雷杜认为真理问题不能只从英语或欧洲语言出发，阿肯语表达显示真理可被理解为说事物如其所是。",
+            "explanationZh": "语言比较使真理论摆脱单一传统的语法限制，也帮助区分实质问题和语言造成的伪问题。",
+            "themeIds": [
+              "knowledge",
+              "language"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "wiredu:evidence:005",
+                "titleZh": "真理与阿肯语言",
+                "summaryZh": "《哲学与非洲文化》讨论阿肯语中的真理表达，用来重新审视符合论和语义分析之间的关系。",
+                "source": {
+                  "workId": "wiredu-philosophy-african-culture",
+                  "locator": "Philosophy and an African Culture on truth in Akan language",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "wiredu:evidence:006",
+                "titleZh": "语言分析中的伪问题清理",
+                "summaryZh": "《文化普遍与特殊》把概念比较作为哲学方法，显示一些争论需要先检查语言结构和翻译选择。",
+                "source": {
+                  "workId": "wiredu-cultural-universals-particulars",
+                  "locator": "Cultural Universals and Particulars on conceptual analysis and pseudo-problems",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "wiredu:claim:004",
+            "titleZh": "人格是道德成就而非单纯自然事实",
+            "claimZh": "维雷杜从阿肯思想中强调人格具有规范维度，一个人要通过道德实践和社会责任成为充分的人格者。",
+            "explanationZh": "这一区分使人格问题从实体属性转向伦理成长，也为非洲伦理哲学提供概念资源。",
+            "themeIds": [
+              "ethics",
+              "metaphysics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "wiredu:evidence:007",
+                "titleZh": "阿肯人格观",
+                "summaryZh": "《文化普遍与特殊》讨论阿肯人格概念，说明人格不仅是生物人事实，也包含道德完成和社会评价。",
+                "source": {
+                  "workId": "wiredu-cultural-universals-particulars",
+                  "locator": "Cultural Universals and Particulars on Akan personhood and moral status",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "wiredu:evidence:008",
+                "titleZh": "心灵与人格的非二元解释",
+                "summaryZh": "维雷杜在非洲文化语境中讨论心灵和人格，挑战把心身二元论当成所有文化共享问题的做法。",
+                "source": {
+                  "workId": "wiredu-philosophy-african-culture",
+                  "locator": "Philosophy and an African Culture on mind, body and personhood in Akan thought",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "wiredu:problem:003",
+        "titleZh": "共识民主如何替代对抗式多数决？",
+        "questionZh": "维雷杜为何从非洲传统政治中提炼共识民主，并批判单纯多数主义？",
+        "summaryZh": "维雷杜认为民主不必等同政党竞争和多数压倒少数。非洲传统共识政治显示，公共决策可以追求无胜负羞辱的协商一致。",
+        "themeIds": [
+          "politics",
+          "justice",
+          "freedom"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "wiredu:claim:005",
+            "titleZh": "共识民主重视包容性决策",
+            "claimZh": "维雷杜主张民主应尽量通过协商取得共识，避免多数决把少数群体制度化地排除在政治共同体外。",
+            "explanationZh": "他不是否定民主，而是用非洲传统经验批判西式政党对抗和赢家通吃逻辑。",
+            "themeIds": [
+              "politics",
+              "justice"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "wiredu:evidence:009",
+                "titleZh": "传统政治中的共识",
+                "summaryZh": "《非洲传统政治中的民主与共识》把阿肯政治协商作为资源，说明民主可以追求广泛一致而非简单投票。",
+                "source": {
+                  "workId": "wiredu-democracy-consensus",
+                  "locator": "Democracy and Consensus in African Traditional Politics on consensus decision-making",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "wiredu:evidence:010",
+                "titleZh": "反对无协商的多数主义",
+                "summaryZh": "该文批评多数主义容易制造永久少数和政治疏离，要求民主制度更重视协商、共同接受和包容性。",
+                "source": {
+                  "workId": "wiredu-democracy-consensus",
+                  "locator": "Democracy and Consensus in African Traditional Politics on majoritarianism and minority exclusion",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "wiredu:claim:006",
+            "titleZh": "政治去殖民也需要制度想象",
+            "claimZh": "维雷杜认为政治去殖民不能只更换统治者，还要重新思考制度形式是否适合本地公共理性。",
+            "explanationZh": "共识民主把概念去殖民扩展到制度层面，要求非洲社会参与创造自己的民主模型。",
+            "themeIds": [
+              "politics",
+              "freedom"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "wiredu:evidence:011",
+                "titleZh": "去殖民与政治概念",
+                "summaryZh": "《非洲哲学中的概念去殖民》把语言概念批判延伸到政治范畴，说明制度词汇也需要重新检验。",
+                "source": {
+                  "workId": "wiredu-conceptual-decolonization",
+                  "locator": "Conceptual Decolonization in African Philosophy on political concepts and decolonization",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "wiredu:evidence:012",
+                "titleZh": "共识作为现代制度资源",
+                "summaryZh": "《民主与共识》不是复古主张，而是把传统协商经验转化为现代非洲民主制度的批判资源。",
+                "source": {
+                  "workId": "wiredu-democracy-consensus",
+                  "locator": "Democracy and Consensus in African Traditional Politics on modern relevance of consensus",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "tier": "standard"
 }

@@ -1,0 +1,47 @@
+{
+  "id": "jizang",
+  "tier": "seed",
+  "names": {
+    "zh": "吉藏",
+    "en": "Jizang",
+    "native": "釋吉藏"
+  },
+  "life": {
+    "birth": 549,
+    "death": 623,
+    "display": "549—623"
+  },
+  "civilization": "chinese",
+  "traditions": [
+    "buddhism",
+    "sanlun"
+  ],
+  "periods": [
+    "sui",
+    "tang"
+  ],
+  "themes": [
+    "religion",
+    "metaphysics"
+  ],
+  "keywordsZh": [
+    "三论宗",
+    "中观",
+    "二谛"
+  ],
+  "oneLineZh": "隋唐三论宗大师，以中观二谛和破邪显正著称。",
+  "influenceWeight": 3,
+  "reviewStatus": "draft",
+  "summaryZh": "吉藏，俗姓安，金陵嘉祥寺高僧，故称嘉祥大师，是中国三论宗集大成者。《三论玄义》《中观论疏》《二谛义》等系统阐发龙树、提婆以来的中观传统，强调破执、二谛和无所得。吉藏在隋唐佛教宗派化过程中重塑三论学，使印度中观在汉语注疏体系中获得成熟表达。",
+  "works": [
+    "jizang-sanlun-xuanyi",
+    "jizang-zhongguanlun-shu"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S021",
+      "url": "https://cbetaonline.dila.edu.tw/zh/T1852",
+      "noteZh": "以吉藏《三论玄义》《中观论疏》支撑身份层。"
+    }
+  ]
+}

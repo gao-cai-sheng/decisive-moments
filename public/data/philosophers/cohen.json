@@ -1,0 +1,293 @@
+{
+  "id": "cohen",
+  "names": {
+    "zh": "赫尔曼·科恩",
+    "en": "Hermann Cohen"
+  },
+  "life": {
+    "birth": 1842,
+    "death": 1918,
+    "display": "1842—1918"
+  },
+  "civilization": "european_modern",
+  "traditions": [
+    "neo_kantianism",
+    "marburg_school",
+    "jewish_philosophy"
+  ],
+  "periods": [
+    "expansion_b1"
+  ],
+  "themes": [
+    "knowledge",
+    "religion",
+    "ethics"
+  ],
+  "keywordsZh": [
+    "马堡学派",
+    "新康德主义",
+    "纯粹认识逻辑",
+    "纯粹意志伦理学",
+    "理性宗教"
+  ],
+  "oneLineZh": "以马堡新康德主义和犹太理性宗教哲学连接康德传统与罗森茨维格。",
+  "influenceWeight": 3,
+  "reviewStatus": "draft",
+  "summaryZh": "科恩把康德哲学改造成数学自然科学、伦理法则和一神教理性宗教的系统方案，并深刻影响现代犹太思想。",
+  "works": [
+    "cohen-kants-theory-experience",
+    "cohen-logic-pure-knowledge",
+    "cohen-ethics-pure-will",
+    "cohen-aesthetics-pure-feeling",
+    "cohen-religion-reason-judaism",
+    "cohen-concept-religion-system-philosophy"
+  ],
+  "sourceNotes": [
+    {
+      "label": "Jewish philosophy / Neo-Kantian references",
+      "url": "https://plato.stanford.edu/entries/cohen/",
+      "noteZh": "核对马堡学派、康德解释和犹太理性宗教。"
+    }
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "cohen:problem:001",
+        "titleZh": "马堡新康德主义与科学认识",
+        "questionZh": "科恩如何把康德的先验哲学改造为数学自然科学的生成逻辑？",
+        "summaryZh": "科恩把康德解释为科学经验的逻辑条件理论，强调对象在纯粹思维方法中被生成而非被动给出。",
+        "themeIds": [
+          "knowledge",
+          "metaphysics"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "cohen:claim:001",
+            "titleZh": "经验对象由科学方法生成",
+            "claimZh": "康德的经验理论应从数学自然科学出发理解，对象性依赖思维的连续生成而不是感性材料堆积。",
+            "explanationZh": "这条主张奠定马堡学派方向，使新康德主义从心理主义和经验主义解释中转出。",
+            "themeIds": [
+              "knowledge",
+              "metaphysics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "cohen:evidence:001",
+                "titleZh": "《康德的经验理论》论科学经验",
+                "summaryZh": "该书重释《纯粹理性批判》，把经验理解为科学认识的有效性结构，而非心理感觉的集合。",
+                "source": {
+                  "workId": "cohen-kants-theory-experience",
+                  "locator": "Early chapters on Kant, experience, and mathematical natural science",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "cohen:evidence:002",
+                "titleZh": "《纯粹认识逻辑》论起源和生成",
+                "summaryZh": "逻辑著作以起源和生成概念说明思维如何产生对象规定，强调科学对象不是现成被给予之物。",
+                "source": {
+                  "workId": "cohen-logic-pure-knowledge",
+                  "locator": "Sections on Ursprung, generation, and pure knowledge",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "cohen:claim:002",
+            "titleZh": "康德传统要排除心理主义解释",
+            "claimZh": "科恩反对把先验条件化约为人类心理事实，主张哲学应分析科学有效性的逻辑结构。",
+            "explanationZh": "这条主张把他连接到后来的新康德主义、现象学和科学哲学问题场。",
+            "themeIds": [
+              "knowledge"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "cohen:evidence:003",
+                "titleZh": "《纯粹认识逻辑》对心理主义的拒绝",
+                "summaryZh": "书中坚持纯粹认识逻辑不是经验心理学，而是说明科学判断的客观有效性、对象生成和方法连续性如何可能。",
+                "source": {
+                  "workId": "cohen-logic-pure-knowledge",
+                  "locator": "Methodological sections distinguishing logic from psychology",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "cohen:evidence:004",
+                "titleZh": "《康德的经验理论》第二版修订语境",
+                "summaryZh": "修订版进一步突出康德与近代数学物理学的关系，使先验哲学成为科学方法论而非意识描述。",
+                "source": {
+                  "workId": "cohen-kants-theory-experience",
+                  "locator": "Revised edition emphasis on mathematics, physics, and transcendental method",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "cohen:problem:002",
+        "titleZh": "纯粹意志伦理学与社会正义",
+        "questionZh": "科恩如何从康德伦理学发展出法、共同体和社会主义倾向的正义理论？",
+        "summaryZh": "科恩把纯粹意志理解为法律共同体中的规范生成，进而把伦理学推向社会正义和他者承认问题。",
+        "themeIds": [
+          "ethics",
+          "justice"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "cohen:claim:003",
+            "titleZh": "伦理主体通过法律共同体形成",
+            "claimZh": "意志的纯粹性不在孤立内心，而在法与共同体中生成普遍人格和相互承认。",
+            "explanationZh": "这条主张使他的新康德主义伦理学具有社会哲学维度，并影响现代犹太伦理思想。",
+            "themeIds": [
+              "ethics",
+              "politics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "cohen:evidence:005",
+                "titleZh": "《纯粹意志伦理学》论法和人格",
+                "summaryZh": "伦理学著作把法、人格和共同体放在纯粹意志结构中处理，说明道德主体依赖规范秩序形成。",
+                "source": {
+                  "workId": "cohen-ethics-pure-will",
+                  "locator": "Chapters on law, personhood, and pure will",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "cohen:evidence:006",
+                "titleZh": "《纯粹意志伦理学》论共同体",
+                "summaryZh": "共同体分析把康德伦理学扩展到法律制度、社会政策和公共正义问题，避免把道德限于私人动机或内心善意。",
+                "source": {
+                  "workId": "cohen-ethics-pure-will",
+                  "locator": "Sections on community, state, and ethical universality",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "cohen:claim:004",
+            "titleZh": "社会问题进入康德伦理学内部",
+            "claimZh": "科恩把贫困、劳动和社会法问题纳入伦理学，使康德传统能够回应十九世纪社会问题。",
+            "explanationZh": "这条主张解释他为什么能成为犹太伦理社会主义和现代正义讨论的重要前史。",
+            "themeIds": [
+              "justice",
+              "ethics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "cohen:evidence:007",
+                "titleZh": "《纯粹意志伦理学》中的社会法问题",
+                "summaryZh": "相关章节把法律制度和社会政策视为伦理理念的实现条件，显示科恩关注具体社会不平等。",
+                "source": {
+                  "workId": "cohen-ethics-pure-will",
+                  "locator": "Sections on social law, labor, and ethical state",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "cohen:evidence:008",
+                "titleZh": "《哲学体系中的宗教概念》论邻人",
+                "summaryZh": "宗教概念文本把邻人、共同体和伦理普遍性放入系统哲学，说明宗教维度如何使抽象法则面对具体他者。",
+                "source": {
+                  "workId": "cohen-concept-religion-system-philosophy",
+                  "locator": "Sections on religion, neighbor, and ethical community",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "cohen:problem:003",
+        "titleZh": "理性宗教与现代犹太哲学",
+        "questionZh": "科恩如何把犹太教解释为理性宗教，并影响罗森茨维格等后继者？",
+        "summaryZh": "科恩晚期把一神教、先知伦理和理性普遍主义结合起来，使犹太哲学成为现代伦理和宗教哲学的核心资源。",
+        "themeIds": [
+          "religion",
+          "ethics"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "cohen:claim:005",
+            "titleZh": "犹太教是伦理一神教的理性资源",
+            "claimZh": "科恩把犹太教解释为理性宗教的源泉，强调上帝唯一性、先知伦理和穷人问题共同指向普遍正义。",
+            "explanationZh": "这条主张不是护教附录，而是其系统哲学在宗教维度中的完成。",
+            "themeIds": [
+              "religion",
+              "justice"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "cohen:evidence:009",
+                "titleZh": "《出自犹太教源泉的理性宗教》论唯一神和伦理",
+                "summaryZh": "遗著从犹太经典中抽取理性宗教结构，把唯一神信仰、先知伦理和穷人问题连接为普遍正义的哲学任务。",
+                "source": {
+                  "workId": "cohen-religion-reason-judaism",
+                  "locator": "Early chapters on monotheism, reason, and ethics",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "cohen:evidence:010",
+                "titleZh": "《出自犹太教源泉的理性宗教》论穷人与邻人",
+                "summaryZh": "关于穷人、陌生人和邻人的讨论，把宗教命令转化为社会正义与伦理责任问题，凸显一神教的实践方向。",
+                "source": {
+                  "workId": "cohen-religion-reason-judaism",
+                  "locator": "Chapters on the poor, stranger, neighbor, and ethical responsibility",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "cohen:claim:006",
+            "titleZh": "罗森茨维格继承并突破科恩",
+            "claimZh": "罗森茨维格从科恩那里继承犹太思想的现代哲学地位，却批评理性系统不足以说明启示、时间和对话经验。",
+            "explanationZh": "这条主张为 B1 与已入库 E6 建立直接依赖，也说明科恩不是孤立新康德主义者。",
+            "themeIds": [
+              "religion",
+              "knowledge"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "cohen:evidence:011",
+                "titleZh": "《理性宗教》的系统位置",
+                "summaryZh": "晚期宗教哲学把犹太教纳入理性系统，构成罗森茨维格后来转向启示、时间和对话哲学的直接背景。",
+                "source": {
+                  "workId": "cohen-religion-reason-judaism",
+                  "locator": "Systematic role of Judaism and reason in the late work",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "cohen:evidence:012",
+                "titleZh": "《哲学体系中的宗教概念》对宗教地位的规定",
+                "summaryZh": "该文本说明宗教不是经验附属物，而在哲学体系中承担连接伦理、理性和具体他者的功能。",
+                "source": {
+                  "workId": "cohen-concept-religion-system-philosophy",
+                  "locator": "Argument on the place of religion in the system of philosophy",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "tier": "standard"
+}

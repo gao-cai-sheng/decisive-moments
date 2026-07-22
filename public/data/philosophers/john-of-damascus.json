@@ -1,0 +1,380 @@
+{
+  "id": "john-of-damascus",
+  "tier": "standard",
+  "names": {
+    "zh": "大马士革的约翰",
+    "en": "John of Damascus",
+    "native": "Ἰωάννης ὁ Δαμασκηνός"
+  },
+  "life": {
+    "birth": 675,
+    "death": 749,
+    "display": "约675—749"
+  },
+  "civilization": "eastern_orthodox",
+  "traditions": [
+    "byzantine_theology",
+    "icon_theology",
+    "orthodox_dogmatics"
+  ],
+  "periods": [
+    "seed_w12",
+    "byzantine"
+  ],
+  "themes": [
+    "religion",
+    "knowledge",
+    "metaphysics"
+  ],
+  "keywordsZh": [
+    "知识的源泉",
+    "正统信仰详解",
+    "圣像辩护",
+    "亚里士多德逻辑"
+  ],
+  "oneLineZh": "拜占庭教义系统化者，以《知识的源泉》和圣像辩护连接亚里士多德逻辑与东正教神学。",
+  "influenceWeight": 3,
+  "reviewStatus": "draft",
+  "summaryZh": "大马士革的约翰是东正教传统中关键的教义系统化者和圣像辩护者。本标准候选不把他简化为圣像论作者，而是呈现其完整思想功能：以 Dialectica 提供知识与概念工具，以《正统信仰详解》汇编并排列传统教义边界，再以《论神圣图像》从成肉身、物质受造、敬礼与原型关系论证圣像的合法性。",
+  "works": [
+    "john-damascus-fount-of-knowledge",
+    "john-damascus-divine-images"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S013",
+      "url": "https://www.britannica.com/biography/Saint-John-of-Damascus",
+      "noteZh": "核验其生卒、系统神学和圣像辩护地位。"
+    },
+    {
+      "label": "S014",
+      "url": "https://gotiskakyrkan.weebly.com/uploads/1/2/9/5/12957650/thefountofknowledge.pdf",
+      "noteZh": "用于校准《知识的源泉》三部分及章号。"
+    },
+    {
+      "label": "S018",
+      "url": "https://sourcebooks.web.fordham.edu/basis/johndamascus-images.asp",
+      "noteZh": "用于校准《论神圣图像》关于物质、敬礼和原型的段落。"
+    }
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "john-of-damascus:problem:001",
+        "titleZh": "知识和逻辑为何能服务教义系统？",
+        "questionZh": "大马士革的约翰如何把知识、概念训练和传统汇编组织成东正教教义的入口？",
+        "summaryZh": "《知识的源泉》的开端显示，约翰不是随意堆砌教义，而是先给读者一套知识纪律。知识是真理之光，理性需要教师和圣经；逻辑与概念区分服务于教义整理，而教义整理又明确声明自己是在汇集前人教师的成果。",
+        "themeIds": [
+          "knowledge",
+          "religion",
+          "language"
+        ],
+        "weight": 3,
+        "sourceIds": [
+          "S014"
+        ],
+        "claims": [
+          {
+            "id": "john-of-damascus:claim:001",
+            "titleZh": "真知识是理性灵魂的光",
+            "claimZh": "约翰把知识定义为理性灵魂的光，并把真实知识限定为关于存在者的真知识。",
+            "explanationZh": "这为他使用哲学概念提供了神学边界：知识不是好奇展示，而是受真理教师和圣经塑造的灵魂视力。",
+            "themeIds": [
+              "knowledge",
+              "religion"
+            ],
+            "weight": 3,
+            "sourceIds": [
+              "S014"
+            ],
+            "evidence": [
+              {
+                "id": "john-of-damascus:evidence:001",
+                "titleZh": "知识是理性灵魂之光",
+                "summaryZh": "Dialectica 第一章说知识比一切更可贵，是理性灵魂的光；无知则是理性之暗，说明哲学入口首先是灵魂训练。",
+                "sourceIds": [
+                  "S014"
+                ],
+                "source": {
+                  "workId": "john-damascus-fount-of-knowledge",
+                  "locator": "Fount of Knowledge, Dialectica (Philosophical Chapters), ch. 1",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "john-of-damascus:evidence:002",
+                "titleZh": "圣经和基督是真理教师",
+                "summaryZh": "同章说明灵魂之眼需要教师，并把基督称为智慧和真理，要求在圣经中学习万有的真知识。",
+                "sourceIds": [
+                  "S014"
+                ],
+                "source": {
+                  "workId": "john-damascus-fount-of-knowledge",
+                  "locator": "Fount of Knowledge, Dialectica (Philosophical Chapters), ch. 1",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "john-of-damascus:claim:002",
+            "titleZh": "教义系统是传统汇编而非私人创新",
+            "claimZh": "约翰把自己的教义系统定位为汇集杰出教师成果的纲要，而不是新增个人学说。",
+            "explanationZh": "这种自我定位解释了他为何能同时使用逻辑分类、异端目录和正统教义陈述：目的在于整理传统并护卫真理。",
+            "themeIds": [
+              "knowledge",
+              "religion",
+              "language"
+            ],
+            "weight": 2,
+            "sourceIds": [
+              "S014"
+            ],
+            "evidence": [
+              {
+                "id": "john-of-damascus:evidence:003",
+                "titleZh": "序言声明不增加己见",
+                "summaryZh": "《知识的源泉》序言说自己不添加个人之物，而是把最杰出教师已经阐明的内容收集为纲要，显示汇编性和传统性。",
+                "sourceIds": [
+                  "S014"
+                ],
+                "source": {
+                  "workId": "john-damascus-fount-of-knowledge",
+                  "locator": "Fount of Knowledge, Dialectica (Philosophical Chapters), ch. 1",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "john-of-damascus:evidence:004",
+                "titleZh": "哲学章节训练概念谓述",
+                "summaryZh": "Dialectica 后续章节用属、种、个体、差异和属性等工具训练谓述关系，为后面的三一论和基督论语言提供概念手段。",
+                "sourceIds": [
+                  "S014"
+                ],
+                "source": {
+                  "workId": "john-damascus-fount-of-knowledge",
+                  "locator": "Fount of Knowledge, Dialectica (Philosophical Chapters), ch. 8",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "john-of-damascus:problem:002",
+        "titleZh": "不可理解的神如何被系统陈述？",
+        "questionZh": "《正统信仰详解》如何在承认神不可理解的同时，给出可教导、可辨析的教义结构？",
+        "summaryZh": "约翰的教义系统从边界开始：神本质不可理解，不能越过先知、使徒和福音所交付的内容。但他并不停止陈述，而是在启示许可范围内排列神的属性、三一、道成肉身、两性、意志、能量与复活。",
+        "themeIds": [
+          "religion",
+          "metaphysics",
+          "knowledge"
+        ],
+        "weight": 2,
+        "sourceIds": [
+          "S015",
+          "S016",
+          "S017"
+        ],
+        "claims": [
+          {
+            "id": "john-of-damascus:claim:003",
+            "titleZh": "系统教义先承认启示边界",
+            "claimZh": "约翰以神不可理解和不可越过传统边界作为正统陈述的前提。",
+            "explanationZh": "他让系统性服从传统：神把有益于人的知识显明出来，无法承受之物则保持隐藏，教义因而不是无限推测。",
+            "themeIds": [
+              "religion",
+              "knowledge",
+              "metaphysics"
+            ],
+            "weight": 2,
+            "sourceIds": [
+              "S015"
+            ],
+            "evidence": [
+              {
+                "id": "john-of-damascus:evidence:005",
+                "titleZh": "神性不可言说且不可理解",
+                "summaryZh": "《正统信仰详解》第一卷第一章开头说神性不可言说、不可理解，任何受造心智都不能认识神，除非神自我启示。",
+                "sourceIds": [
+                  "S015"
+                ],
+                "source": {
+                  "workId": "john-damascus-fount-of-knowledge",
+                  "locator": "Fount of Knowledge, Exposition of the Orthodox Faith, Book I, ch. 1",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "john-of-damascus:evidence:006",
+                "titleZh": "自然和启示给出可承受知识",
+                "summaryZh": "同章说神未使人完全无知：自然中植入神存在知识，创造和护理显明神性威严，律法、先知和基督则按人能承受者启示。",
+                "sourceIds": [
+                  "S015"
+                ],
+                "source": {
+                  "workId": "john-damascus-fount-of-knowledge",
+                  "locator": "Fount of Knowledge, Exposition of the Orthodox Faith, Book I, ch. 1",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "john-of-damascus:claim:004",
+            "titleZh": "基督论系统保护两性、意志和能量",
+            "claimZh": "约翰用系统化语言说明基督一位格中两性真实保存，并由此承认两种自然意志和能量。",
+            "explanationZh": "这延续马克西姆之后的正统基督论：意志和能量属于自然而非位格，因此承认两性就不能把意志和能量混成一个。",
+            "themeIds": [
+              "religion",
+              "metaphysics",
+              "freedom"
+            ],
+            "weight": 3,
+            "sourceIds": [
+              "S016",
+              "S017"
+            ],
+            "evidence": [
+              {
+                "id": "john-of-damascus:evidence:007",
+                "titleZh": "救赎经济从堕落和神护理展开",
+                "summaryZh": "第三卷第一章从人受诱、死亡和腐败说起，再说明神没有弃绝人，而以律法、先知和基督救赎经济召回人。",
+                "sourceIds": [
+                  "S016"
+                ],
+                "source": {
+                  "workId": "john-damascus-fount-of-knowledge",
+                  "locator": "Fount of Knowledge, Exposition of the Orthodox Faith, Book III, ch. 1",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "john-of-damascus:evidence:008",
+                "titleZh": "第三卷第十四章论基督两种意志",
+                "summaryZh": "第三卷第十四章论主耶稣基督的意志和自由，说明不同自然有不同意志和能量，基督按神性和人性都真实能愿。",
+                "sourceIds": [
+                  "S016"
+                ],
+                "source": {
+                  "workId": "john-damascus-fount-of-knowledge",
+                  "locator": "Fount of Knowledge, Exposition of the Orthodox Faith, Book III, ch. 14",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "john-of-damascus:problem:003",
+        "titleZh": "圣像如何由成肉身和物质神学得到辩护？",
+        "questionZh": "约翰如何证明圣像敬礼不是偶像崇拜，而是由道成肉身、物质受造和原型关系支持的教会传统？",
+        "summaryZh": "约翰的圣像论不只是艺术辩护，而是道成肉身的后果。不可见神不可描绘；但神在肉身中被看见后，描绘所见之神成为可能。物质本身不是可鄙之物，因为救恩经由物质发生；敬礼也不止于图像材料，而经图像指向原型。",
+        "themeIds": [
+          "religion",
+          "metaphysics",
+          "knowledge"
+        ],
+        "weight": 3,
+        "sourceIds": [
+          "S018",
+          "S019"
+        ],
+        "claims": [
+          {
+            "id": "john-of-damascus:claim:005",
+            "titleZh": "成肉身改变了图像的神学条件",
+            "claimZh": "约翰认为旧时不可描绘无形神，但神在肉身中被看见后，可以描绘所见之神。",
+            "explanationZh": "圣像的核心论证不是审美需要，而是道成肉身使不可见者以可见人性显现，因而图像成为见证而非偶像替代。",
+            "themeIds": [
+              "religion",
+              "metaphysics"
+            ],
+            "weight": 3,
+            "sourceIds": [
+              "S018",
+              "S019"
+            ],
+            "evidence": [
+              {
+                "id": "john-of-damascus:evidence:009",
+                "titleZh": "现在神穿上肉身而可被描绘",
+                "summaryZh": "《论神圣图像》第一篇第十六节说，以前无形无界限的神不可被描绘；如今神被看见、穿上肉身并与人交往，故可描绘所见之神。",
+                "sourceIds": [
+                  "S018",
+                  "S019"
+                ],
+                "source": {
+                  "workId": "john-damascus-divine-images",
+                  "locator": "On the Divine Images, Treatise I, §16",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "john-of-damascus:evidence:010",
+                "titleZh": "物质因救恩经过它而不可轻蔑",
+                "summaryZh": "同节说明约翰不是敬拜物质，而是敬拜为我成为物质并借物质成就救恩的物质之主，因此不能以物质性否定圣像。",
+                "sourceIds": [
+                  "S018",
+                  "S019"
+                ],
+                "source": {
+                  "workId": "john-damascus-divine-images",
+                  "locator": "On the Divine Images, Treatise I, §16",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "john-of-damascus:claim:006",
+            "titleZh": "圣像敬礼经图像指向原型和记忆",
+            "claimZh": "圣像敬礼不把材料当作神，而是借可见图像记忆神的行动、尊荣圣者，并使敬礼通过图像指向原型。",
+            "explanationZh": "约翰用约柜、十字架、福音书、祭台和圣物等例子说明，物质可成为救恩记忆和敬礼媒介，关键在敬礼对象和目的。",
+            "themeIds": [
+              "religion",
+              "knowledge",
+              "metaphysics"
+            ],
+            "weight": 2,
+            "sourceIds": [
+              "S018",
+              "S019"
+            ],
+            "evidence": [
+              {
+                "id": "john-of-damascus:evidence:011",
+                "titleZh": "旧约物件已具有预表和记忆功能",
+                "summaryZh": "第一篇第十五节以约柜、杖、施恩座和会幕为例，说明律法并非绝对排斥图像，而有预表和指向天上样式的物质形式。",
+                "sourceIds": [
+                  "S018"
+                ],
+                "source": {
+                  "workId": "john-damascus-divine-images",
+                  "locator": "On the Divine Images, Treatise I, §15",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "john-of-damascus:evidence:012",
+                "titleZh": "图像服务回忆而非自成神明",
+                "summaryZh": "第一篇后段说明图像不是为自身被敬拜，而是引导人记忆过去神迹并敬拜行奇事的神，显示图像的媒介性和教会传统功能。",
+                "sourceIds": [
+                  "S018",
+                  "S019"
+                ],
+                "source": {
+                  "workId": "john-damascus-divine-images",
+                  "locator": "On the Divine Images, Treatise I, §18",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

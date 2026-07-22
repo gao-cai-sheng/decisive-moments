@@ -1,8 +1,17 @@
 import { create } from "zustand";
 import type { Argument, Philosopher, PhilosopherIndexEntry, Relationship, RelationshipType, Theme, Work } from "../data/schemas";
 import type { StarMapFilters } from "../domain/filters/starFilters";
+import { LOCALE_STORAGE_KEY, type Locale } from "../i18n/messages";
 
 type Quality = "low" | "high";
+
+function readInitialLocale(): Locale {
+  try {
+    return localStorage.getItem(LOCALE_STORAGE_KEY) === "en" ? "en" : "zh";
+  } catch {
+    return "zh";
+  }
+}
 
 type AppState = {
   loaded: boolean;
@@ -18,9 +27,11 @@ type AppState = {
   selectedThoughtClaimId: string | null;
   searchQuery: string;
   quality: Quality;
+  locale: Locale;
   filters: StarMapFilters;
   collectionsOpen: boolean;
   settingsOpen: boolean;
+  contributeOpen: boolean;
   setBootstrapData(input: {
     philosophers: PhilosopherIndexEntry[];
     argumentsIndex: Argument[];
@@ -35,11 +46,13 @@ type AppState = {
   setSelectedPhilosopher(philosopher: Philosopher | null): void;
   setSearchQuery(query: string): void;
   setQuality(quality: Quality): void;
+  setLocale(locale: Locale): void;
   setFilter(name: keyof Omit<StarMapFilters, "relationshipTypes">, value: string): void;
   toggleRelationshipType(type: RelationshipType): void;
   clearFilters(): void;
   toggleCollections(): void;
   toggleSettings(): void;
+  toggleContribute(): void;
 };
 
 export const useAppStore = create<AppState>((set) => ({
@@ -56,9 +69,11 @@ export const useAppStore = create<AppState>((set) => ({
   selectedThoughtClaimId: null,
   searchQuery: "",
   quality: "high",
+  locale: readInitialLocale(),
   filters: { relationshipTypes: [] },
   collectionsOpen: false,
   settingsOpen: false,
+  contributeOpen: false,
   setBootstrapData: (input) => set({ ...input, loaded: true, loadError: null }),
   setLoadError: (message) => set({ loadError: message, loaded: false }),
   selectPhilosopher: (id) =>
@@ -68,6 +83,17 @@ export const useAppStore = create<AppState>((set) => ({
   setSelectedPhilosopher: (philosopher) => set({ selectedPhilosopher: philosopher }),
   setSearchQuery: (query) => set({ searchQuery: query }),
   setQuality: (quality) => set({ quality }),
+  setLocale: (locale) => {
+    try {
+      localStorage.setItem(LOCALE_STORAGE_KEY, locale);
+    } catch {
+      // 私有模式等 localStorage 不可写场景：仅本次会话生效
+    }
+    if (typeof document !== "undefined") {
+      document.documentElement.lang = locale === "zh" ? "zh-CN" : "en";
+    }
+    set({ locale });
+  },
   setFilter: (name, value) =>
     set((state) => {
       const next = { ...state.filters };
@@ -85,4 +111,10 @@ export const useAppStore = create<AppState>((set) => ({
   clearFilters: () => set({ filters: { relationshipTypes: [] } }),
   toggleCollections: () => set((state) => ({ collectionsOpen: !state.collectionsOpen })),
   toggleSettings: () => set((state) => ({ settingsOpen: !state.settingsOpen })),
+  toggleContribute: () => set((state) => ({ contributeOpen: !state.contributeOpen })),
 }));
+
+// DEV 调试钩子：profiling 经 window.__appStore 脚本化驱动选中/取消等交互
+if (import.meta.env.DEV && typeof window !== "undefined") {
+  (window as unknown as { __appStore?: typeof useAppStore }).__appStore = useAppStore;
+}

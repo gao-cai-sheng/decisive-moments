@@ -5,9 +5,9 @@
     "en": "John Rawls"
   },
   "life": {
-    "display": "1921—2002",
     "birth": 1921,
-    "death": 2002
+    "death": 2002,
+    "display": "1921—2002"
   },
   "civilization": "american",
   "traditions": [
@@ -39,5 +39,247 @@
       "label": "draft",
       "noteZh": "条目需要人工核对作品、年代和概念表述。"
     }
-  ]
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "rawls:problem:001",
+        "titleZh": "正义原则如何公平选择？",
+        "questionZh": "罗尔斯如何围绕“正义原则如何公平选择？”建立其思想问题？",
+        "summaryZh": "罗尔斯以原初状态和无知之幕设计公平选择情境，用以说明社会基本结构的正义原则。",
+        "themeIds": [
+          "justice",
+          "politics"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "rawls:claim:001",
+            "titleZh": "无知之幕排除任意优势",
+            "claimZh": "罗尔斯主张，选择正义原则时应遮蔽阶级、天赋和人生计划等偶然信息。",
+            "explanationZh": "该命题把正义论的证明转化为公平程序，避免让社会偶然性决定原则。",
+            "themeIds": [
+              "justice",
+              "politics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "rawls:evidence:001",
+                "titleZh": "无知之幕依据",
+                "summaryZh": "《正义论》用原初状态模型说明自由平等者在公平条件下会选择何种原则，排除任意优势。",
+                "source": {
+                  "workId": "rawls-primary-work",
+                  "locator": "《正义论》第3章关于原初状态和无知之幕",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "rawls:evidence:001b",
+                "titleZh": "公平契约条件的进一步说明",
+                "summaryZh": "《正义论》第4节把正义作为公平与原初选择情境联系起来，说明原则选择必须对各方保持对称。",
+                "source": {
+                  "workId": "rawls-primary-work",
+                  "locator": "《正义论》第4节“原初状态和正当化”相关段落",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "rawls:claim:002",
+            "titleZh": "基本结构是正义首要对象",
+            "claimZh": "罗尔斯认为，正义首先评价社会主要制度如何分配权利、机会和合作收益。",
+            "explanationZh": "该命题把正义问题聚焦于制度结构，而不只是个别行为的道德评价。",
+            "themeIds": [
+              "justice",
+              "politics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "rawls:evidence:002",
+                "titleZh": "基本结构依据",
+                "summaryZh": "《正义论》把社会基本结构定义为正义原则首先适用的对象，强调主要制度的分配作用机制。",
+                "source": {
+                  "workId": "rawls-primary-work",
+                  "locator": "《正义论》第2节关于正义的主题",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "rawls:evidence:002b",
+                "titleZh": "制度安排对人生前景的影响",
+                "summaryZh": "《正义论》说明基本结构深刻影响公民生活机会，因此正义原则必须优先评价制度安排后果。",
+                "source": {
+                  "workId": "rawls-primary-work",
+                  "locator": "《正义论》第2节：基本结构对人生前景影响段落",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "rawls:problem:002",
+        "titleZh": "自由和平等如何协调？",
+        "questionZh": "罗尔斯如何围绕“自由和平等如何协调？”建立其思想问题？",
+        "summaryZh": "罗尔斯通过两条正义原则协调平等基本自由、机会公平和差别原则。",
+        "themeIds": [
+          "justice",
+          "freedom"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "rawls:claim:003",
+            "titleZh": "基本自由具有优先性",
+            "claimZh": "罗尔斯主张，每个人都应拥有与他人相容的平等基本自由，且这些自由具有优先地位。",
+            "explanationZh": "该命题防止以总体福利牺牲基本权利，是其自由主义正义论的核心。",
+            "themeIds": [
+              "freedom",
+              "justice"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "rawls:evidence:003",
+                "titleZh": "自由优先依据",
+                "summaryZh": "《正义论》把平等基本自由列为第一正义原则，并规定其词典式优先，限制功利交换逻辑。",
+                "source": {
+                  "workId": "rawls-primary-work",
+                  "locator": "《正义论》第11节和第46节关于第一原则及自由优先性",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "rawls:evidence:003b",
+                "titleZh": "基本自由体系的平等要求",
+                "summaryZh": "《正义论》讨论基本自由体系时强调每个人拥有同样范围的自由，不能以总福利牺牲少数人的基本权利。",
+                "source": {
+                  "workId": "rawls-primary-work",
+                  "locator": "《正义论》第11节：第一原则和平等基本自由段落",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "rawls:claim:004",
+            "titleZh": "不平等需改善最不利者处境",
+            "claimZh": "罗尔斯认为，社会经济不平等只有在有利于最不利者时才可正当化。",
+            "explanationZh": "该命题既承认激励和职位差异，又用差别原则限制任意不平等。",
+            "themeIds": [
+              "justice",
+              "politics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "rawls:evidence:004",
+                "titleZh": "差别原则依据",
+                "summaryZh": "《正义论》用差别原则规定不平等必须服务于最不利群体的最大利益，约束社会经济差异。",
+                "source": {
+                  "workId": "rawls-primary-work",
+                  "locator": "《正义论》第13节关于第二原则和差别原则",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "rawls:evidence:004b",
+                "titleZh": "公平机会与差别原则次序",
+                "summaryZh": "《正义论》把公平机会平等和差别原则共同放入第二原则，说明不平等必须受制度机会和最不利者利益双重限制。",
+                "source": {
+                  "workId": "rawls-primary-work",
+                  "locator": "《正义论》第13–17节：第二原则、机会平等和差别原则段落",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "rawls:problem:003",
+        "titleZh": "多元社会如何保持公共理性？",
+        "questionZh": "罗尔斯如何围绕“多元社会如何保持公共理性？”建立其思想问题？",
+        "summaryZh": "晚期罗尔斯转向政治自由主义，说明合理多元主义社会如何通过公共理性维持稳定正义。",
+        "themeIds": [
+          "politics",
+          "ethics"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "rawls:claim:005",
+            "titleZh": "合理多元主义是自由社会常态",
+            "claimZh": "罗尔斯主张，自由制度下会形成多种合理却不相容的完备学说，这不是暂时缺陷。",
+            "explanationZh": "该命题把政治正当性从共同善实质论转向可被多元公民共同接受的政治理念。",
+            "themeIds": [
+              "politics",
+              "ethics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "rawls:evidence:005",
+                "titleZh": "合理多元主义依据",
+                "summaryZh": "《政治自由主义》把合理多元主义视为自由制度正常运作的长期结果，而非单纯错误状态。",
+                "source": {
+                  "workId": "rawls-primary-work",
+                  "locator": "《政治自由主义》第一讲关于合理多元主义事实",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "rawls:evidence:005b",
+                "titleZh": "判断负担与合理分歧",
+                "summaryZh": "《政治自由主义》用判断负担解释合理公民为何会在完备学说上分歧，支持政治理念的独立性。",
+                "source": {
+                  "workId": "rawls-primary-work",
+                  "locator": "《政治自由主义》第二讲：判断负担与合理性段落",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "rawls:claim:006",
+            "titleZh": "公共理性约束基本政治讨论",
+            "claimZh": "罗尔斯认为，在宪法要件和基本正义问题上，公民应以公共理由相互说明。",
+            "explanationZh": "该命题为民主合法性提供交往规范，使政治争论不依赖单一教义。",
+            "themeIds": [
+              "politics",
+              "ethics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "rawls:evidence:006",
+                "titleZh": "公共理性依据",
+                "summaryZh": "《政治自由主义》界定公共理性的主题、主体和可接受理由形式，约束基本政治问题讨论。",
+                "source": {
+                  "workId": "rawls-primary-work",
+                  "locator": "《政治自由主义》第六讲关于公共理性",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "rawls:evidence:006b",
+                "titleZh": "宪法要件和基本正义问题",
+                "summaryZh": "《政治自由主义》把公共理性主要用于宪法要件和基本正义问题，说明公民理由需要能彼此说明。",
+                "source": {
+                  "workId": "rawls-primary-work",
+                  "locator": "《政治自由主义》第六讲：公共理性的主题和限制段落",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "tier": "standard"
 }

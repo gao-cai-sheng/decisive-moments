@@ -1,0 +1,46 @@
+{
+  "id": "simon-rodriguez",
+  "tier": "seed",
+  "names": {
+    "zh": "西蒙·罗德里格斯",
+    "en": "Simón Rodríguez"
+  },
+  "life": {
+    "birth": 1769,
+    "death": 1854,
+    "display": "1769—1854"
+  },
+  "civilization": "latin_american",
+  "traditions": [
+    "popular_education",
+    "republicanism"
+  ],
+  "periods": [
+    "seed_w9"
+  ],
+  "themes": [
+    "politics",
+    "knowledge",
+    "freedom"
+  ],
+  "keywordsZh": [
+    "玻利瓦尔之师",
+    "大众教育",
+    "美洲共和国"
+  ],
+  "oneLineZh": "委内瑞拉教育思想家，以美洲共和国和大众教育方案回应独立后的社会重建。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "西蒙·罗德里格斯以教育改革和新共和国社会想象进入拉美思想史；其地位不在系统哲学文本，而在把卢梭式教育、共和自治与美洲处境结合起来的实践论述。",
+  "works": [
+    "simon-rodriguez-sociedades-americanas",
+    "simon-rodriguez-luces-virtudes-sociales"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S003",
+      "url": "https://plato.stanford.edu/entries/liberation/",
+      "noteZh": "SEP Philosophy of Liberation 条目将 Simón Rodríguez 纳入第一轮解放与美洲身份话语的前史人物。"
+    }
+  ]
+}

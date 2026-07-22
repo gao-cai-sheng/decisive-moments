@@ -1,0 +1,290 @@
+{
+  "id": "antisthenes",
+  "names": {
+    "zh": "安提斯泰尼",
+    "en": "Antisthenes"
+  },
+  "life": {
+    "birth": -445,
+    "death": -365,
+    "display": "约前 445—前 365"
+  },
+  "civilization": "ancient_greek",
+  "traditions": [
+    "cynicism",
+    "socratic_philosophy",
+    "ancient_greek_philosophy"
+  ],
+  "periods": [
+    "first_release"
+  ],
+  "themes": [
+    "ethics",
+    "politics",
+    "freedom"
+  ],
+  "keywordsZh": [
+    "伦理",
+    "政治",
+    "自由"
+  ],
+  "oneLineZh": "苏格拉底弟子之一，强调德性、自足和艰苦训练，被视为犬儒传统的重要先驱。",
+  "influenceWeight": 1,
+  "reviewStatus": "draft",
+  "summaryZh": "苏格拉底弟子之一，强调德性、自足和艰苦训练，被视为犬儒传统的重要先驱。本条目以 summary_only 方式整理，重点保留低争议的问题结构、主张和可追溯证据定位。",
+  "works": [
+    "antisthenes-primary-work"
+  ],
+  "sourceNotes": [
+    {
+      "label": "primary-dossier",
+      "noteZh": "本轮采用色诺芬、柏拉图相关见证、第欧根尼·拉尔修第六卷、残篇与现代研究交叉定位；不填逐字摘录。"
+    },
+    {
+      "label": "excerpt-status",
+      "noteZh": "全部 evidence 使用 summary_only，locator 保留到作品、卷章或主题段落层级。"
+    }
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "antisthenes:problem:001",
+        "titleZh": "苏格拉底德性论如何转向犬儒自足？",
+        "questionZh": "安提斯泰尼如何把苏格拉底的德性优先转化为自足、艰苦训练和对外物的降格？",
+        "summaryZh": "安提斯泰尼处在苏格拉底传统与犬儒传统之间。他强调德性可教、德性足以幸福，并把这种伦理推向更强调训练和独立的方向。",
+        "themeIds": [
+          "ethics",
+          "freedom"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "antisthenes:claim:001",
+            "titleZh": "德性足以幸福",
+            "claimZh": "安提斯泰尼传统主张德性本身足以幸福，外在财富、名声和出身不是幸福的根基。",
+            "explanationZh": "这继承苏格拉底以灵魂状态衡量人的思路，也为犬儒和斯多葛的德性自足主题提供前史。",
+            "themeIds": [
+              "ethics",
+              "freedom"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "antisthenes:evidence:001",
+                "titleZh": "第欧根尼·拉尔修的德性材料",
+                "summaryZh": "第六卷把安提斯泰尼描述为强调德性、艰苦和自足的苏格拉底追随者，构成其犬儒前史定位。",
+                "source": {
+                  "workId": "antisthenes-primary-work",
+                  "locator": "Diogenes Laertius VI.1-19 on Antisthenes, virtue, hardship and Cynic antecedents",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "antisthenes:evidence:002",
+                "titleZh": "色诺芬对安提斯泰尼的见证",
+                "summaryZh": "色诺芬材料把安提斯泰尼置于苏格拉底圈中，并关联其自制、贫穷和德性讨论，显示其伦理实践面向。",
+                "source": {
+                  "workId": "antisthenes-primary-work",
+                  "locator": "Xenophon, Symposium and Memorabilia passages on Antisthenes and Socratic virtue",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "antisthenes:claim:002",
+            "titleZh": "艰苦训练使自由可实践",
+            "claimZh": "安提斯泰尼把 ponos 或艰苦劳动理解为通向德性和自由的训练，而非单纯痛苦。",
+            "explanationZh": "这使伦理学具有操练维度：自由来自能够承受匮乏、拒绝奢侈并统治自身欲望。",
+            "themeIds": [
+              "ethics",
+              "freedom"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "antisthenes:evidence:003",
+                "titleZh": "赫拉克勒斯榜样传统",
+                "summaryZh": "古代材料把安提斯泰尼同赫拉克勒斯式艰苦、德性和独立联系起来，凸显艰苦训练的伦理榜样功能。",
+                "source": {
+                  "workId": "antisthenes-primary-work",
+                  "locator": "Diogenes Laertius VI and Antisthenes fragments on Heracles, hardship and virtue",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "antisthenes:evidence:004",
+                "titleZh": "犬儒 askesis 的前史",
+                "summaryZh": "现代研究常把安提斯泰尼的艰苦训练主题视为犬儒生活实践的关键先声，但也保留其苏格拉底语境。",
+                "source": {
+                  "workId": "antisthenes-primary-work",
+                  "locator": "Modern scholarship on Antisthenes, ponos, askesis and proto-Cynicism",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "antisthenes:problem:002",
+        "titleZh": "语言与定义问题为何重要？",
+        "questionZh": "安提斯泰尼关于名称、定义和矛盾的材料，如何显示苏格拉底圈内部也存在语言哲学和知识论争论？",
+        "summaryZh": "安提斯泰尼不仅是伦理人物，也参与名称、定义和谓述问题。他对定义和矛盾的特殊立场，显示早期苏格拉底传统内部的理论张力。",
+        "themeIds": [
+          "knowledge",
+          "language"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "antisthenes:claim:003",
+            "titleZh": "名称和谓述问题构成其理论面向",
+            "claimZh": "安提斯泰尼被古代传统关联到关于名称、定义、谓述和不可能矛盾的争论。",
+            "explanationZh": "这提醒我们不要把他简化成犬儒生活先驱；他也处在柏拉图式定义追求的争论环境中。",
+            "themeIds": [
+              "knowledge",
+              "language"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "antisthenes:evidence:005",
+                "titleZh": "亚里士多德关于安提斯泰尼定义观的见证",
+                "summaryZh": "亚里士多德在《形而上学》中提及安提斯泰尼式难题，涉及定义、谓述和“一物一说”的倾向。",
+                "source": {
+                  "workId": "antisthenes-primary-work",
+                  "locator": "Aristotle, Metaphysics V/Delta and related passages on Antisthenes' position on definition and predication",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "antisthenes:evidence:006",
+                "titleZh": "古代逻辑争论中的安提斯泰尼",
+                "summaryZh": "后世资料把安提斯泰尼同不可能矛盾、不可能说假等争论联系起来，显示其语言思想的特殊位置。",
+                "source": {
+                  "workId": "antisthenes-primary-work",
+                  "locator": "Ancient testimonia and fragments on Antisthenes, contradiction, falsehood and names",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "antisthenes:claim:004",
+            "titleZh": "语言理论与伦理姿态相互呼应",
+            "claimZh": "安提斯泰尼对名称和定义的谨慎，和其伦理上的反虚饰倾向形成呼应：语言也要避免空洞装饰。",
+            "explanationZh": "这一点属于解释性重构，需要保持中等置信；它把他的苏格拉底式简朴和语言哲学连在一起。",
+            "themeIds": [
+              "knowledge",
+              "ethics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "antisthenes:evidence:007",
+                "titleZh": "苏格拉底圈中的反修辞倾向",
+                "summaryZh": "色诺芬和柏拉图材料显示苏格拉底圈常把真实德性与华丽修辞、虚假名声区分开，为安提斯泰尼提供语境。",
+                "source": {
+                  "workId": "antisthenes-primary-work",
+                  "locator": "Xenophon and Plato on Socratic suspicion of sophistic display and rhetorical vanity",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "antisthenes:evidence:008",
+                "titleZh": "现代研究的整合解释",
+                "summaryZh": "研究者常尝试把安提斯泰尼的伦理、修辞和语言思想放回苏格拉底圈竞争语境中解释，避免孤立归类。",
+                "source": {
+                  "workId": "antisthenes-primary-work",
+                  "locator": "Modern scholarship on Antisthenes' language theory, rhetoric and Socratic context",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "antisthenes:problem:003",
+        "titleZh": "犬儒传统是否应从安提斯泰尼开始？",
+        "questionZh": "安提斯泰尼和第欧根尼之间的关系在古代材料中如何被建构，现代研究为什么对此保持谨慎？",
+        "summaryZh": "安提斯泰尼常被列为犬儒传统源头，但其与第欧根尼的直接师承存在争议。本轮采取稳健表述：他是犬儒主题的重要先驱，而不把所有犬儒实践直接归因给他。",
+        "themeIds": [
+          "ethics",
+          "knowledge"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "antisthenes:claim:005",
+            "titleZh": "安提斯泰尼是犬儒主题的先驱",
+            "claimZh": "德性自足、贫穷训练、反奢侈和苏格拉底式独立，使安提斯泰尼成为犬儒传统的重要前史人物。",
+            "explanationZh": "即使不确定他是否直接创立犬儒学派，这些主题仍解释了他在犬儒谱系中的位置。",
+            "themeIds": [
+              "ethics",
+              "freedom"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "antisthenes:evidence:009",
+                "titleZh": "第欧根尼·拉尔修的犬儒谱系",
+                "summaryZh": "第六卷以安提斯泰尼开启犬儒相关叙述，并把其与第欧根尼、克拉特斯等人放入连续谱系。",
+                "source": {
+                  "workId": "antisthenes-primary-work",
+                  "locator": "Diogenes Laertius VI.1-2 and VI.15-19 on Antisthenes and Cynic lineage",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "antisthenes:evidence:010",
+                "titleZh": "犬儒传统主题连续性",
+                "summaryZh": "自足、艰苦和德性高于外物等主题从安提斯泰尼材料延伸到第欧根尼传统，形成犬儒谱系的连续性。",
+                "source": {
+                  "workId": "antisthenes-primary-work",
+                  "locator": "Comparative ancient testimonia on Antisthenes and Diogenes in Diogenes Laertius VI",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "antisthenes:claim:006",
+            "titleZh": "直接师承关系需要谨慎处理",
+            "claimZh": "安提斯泰尼是否直接作为第欧根尼老师、是否可称犬儒创始人，在现代研究中仍需谨慎表述。",
+            "explanationZh": "古代传记倾向建构清晰谱系，但年代、轶事性质和学派回溯可能使关系被简化。",
+            "themeIds": [
+              "knowledge",
+              "ethics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "antisthenes:evidence:011",
+                "titleZh": "传记谱系的局限",
+                "summaryZh": "第欧根尼·拉尔修提供清晰师承叙事，但其晚出汇编性质要求与其他材料互校，不能直接当作无问题事实。",
+                "source": {
+                  "workId": "antisthenes-primary-work",
+                  "locator": "Diogenes Laertius VI as late doxographical source for Cynic succession",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "antisthenes:evidence:012",
+                "titleZh": "现代研究的谨慎立场",
+                "summaryZh": "现代犬儒研究常区分安提斯泰尼的苏格拉底身份、犬儒主题先驱地位与后世创始人叙事，以保持谱系谨慎。",
+                "source": {
+                  "workId": "antisthenes-primary-work",
+                  "locator": "Modern scholarship on Antisthenes, Diogenes and the contested origins of Cynicism",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "tier": "standard"
+}

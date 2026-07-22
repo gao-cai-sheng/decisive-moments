@@ -1,0 +1,45 @@
+{
+  "id": "bahya-ibn-paquda",
+  "tier": "seed",
+  "names": {
+    "zh": "巴希亚·伊本·帕库达",
+    "en": "Bahya ibn Paquda",
+    "native": "בחיי אבן פקודה"
+  },
+  "life": {
+    "birth": 1040,
+    "death": 1120,
+    "display": "约11世纪"
+  },
+  "civilization": "jewish",
+  "traditions": [
+    "jewish_ethics",
+    "jewish_philosophy"
+  ],
+  "periods": [
+    "seed_w8"
+  ],
+  "themes": [
+    "ethics",
+    "religion"
+  ],
+  "keywordsZh": [
+    "心之义务",
+    "内在虔敬",
+    "犹太伦理"
+  ],
+  "oneLineZh": "《心之义务》作者，把内在虔敬、伦理修养与犹太律法生活结合起来。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "巴希亚·伊本·帕库达（约11世纪）是 Seed W8 犹太文明补线候选。其身份层定位为：中世纪安达卢斯犹太伦理思想家，《心之义务》以“内心职责”补充外在诫命，强调意向、虔敬和自我省察；生卒年代存在争议，故以约11世纪标注。本条仅作 seed 档基本定位，后续若升级标准档，必须重新做著作、论点与 evidence 研究。",
+  "works": [
+    "bahya-ibn-paquda-duties-of-the-heart"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S004",
+      "url": "https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/bahya-ben-joseph-ibn-paquda",
+      "noteZh": "来源：Encyclopaedia Judaica / Bahya ben Joseph ibn Paquda；用于核验人物身份、《心之义务》与生卒年代争议；断代以约11世纪保守记录。"
+    }
+  ]
+}

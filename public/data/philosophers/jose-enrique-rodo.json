@@ -1,0 +1,46 @@
+{
+  "id": "jose-enrique-rodo",
+  "tier": "seed",
+  "names": {
+    "zh": "何塞·恩里克·罗多",
+    "en": "José Enrique Rodó"
+  },
+  "life": {
+    "birth": 1871,
+    "death": 1917,
+    "display": "1871—1917"
+  },
+  "civilization": "latin_american",
+  "traditions": [
+    "arielismo",
+    "latin_american_essay"
+  ],
+  "periods": [
+    "seed_w9"
+  ],
+  "themes": [
+    "aesthetics",
+    "ethics",
+    "politics"
+  ],
+  "keywordsZh": [
+    "爱丽尔主义",
+    "反功利主义",
+    "青年教育"
+  ],
+  "oneLineZh": "乌拉圭思想家，《爱丽尔》以审美—伦理教育塑造拉美精神身份论。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "罗多以《爱丽尔》成为拉美反实证主义、反功利主义和精神身份论的代表人物；其思想通过美学教育、青年召唤和拉美文化使命展开。本条仅作 seed 身份层。",
+  "works": [
+    "rodo-ariel",
+    "rodo-motivos-proteo"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S002",
+      "url": "https://iep.utm.edu/latin-am/",
+      "noteZh": "IEP Latin American Philosophy 条目用于核验 Rodó 与 Arielismo 在拉美反实证主义和身份哲学中的位置。"
+    }
+  ]
+}

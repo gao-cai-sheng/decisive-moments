@@ -1,0 +1,46 @@
+{
+  "id": "huiyuan",
+  "tier": "seed",
+  "names": {
+    "zh": "慧远",
+    "en": "Huiyuan",
+    "native": "釋慧遠"
+  },
+  "life": {
+    "birth": 334,
+    "death": 416,
+    "display": "334—416"
+  },
+  "civilization": "chinese",
+  "traditions": [
+    "buddhism",
+    "chinese_buddhism"
+  ],
+  "periods": [
+    "eastern_jin"
+  ],
+  "themes": [
+    "religion",
+    "politics"
+  ],
+  "keywordsZh": [
+    "庐山",
+    "沙门不敬王者论",
+    "净土"
+  ],
+  "oneLineZh": "东晋庐山高僧，围绕沙门独立、净土信仰和佛教共同体形成影响。",
+  "influenceWeight": 3,
+  "reviewStatus": "draft",
+  "summaryZh": "慧远，俗姓贾，东晋庐山高僧，道安弟子，是中国佛教早期共同体建设的重要人物。他组织庐山僧团，倡导念佛结社，并撰《沙门不敬王者论》论证出家人相对于世俗王权的宗教独立。《大乘大义章》则保存其与鸠摩罗什问答，体现中国佛教对般若、法身和修行问题的深入吸收。",
+  "works": [
+    "huiyuan-shamen-bujing-wangzhe-lun",
+    "huiyuan-dasheng-dayi-zhang"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S019",
+      "url": "https://cbetaonline.dila.edu.tw/zh/T2102",
+      "noteZh": "以慧远文集、《高僧传》和庐山佛教材料支撑身份层。"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "tran-thai-tong",
+  "tier": "seed",
+  "names": {
+    "zh": "陈太宗",
+    "en": "Trần Thái Tông",
+    "native": "Trần Thái Tông / 陳太宗"
+  },
+  "life": {
+    "birth": 1218,
+    "death": 1277,
+    "display": "1218—1277"
+  },
+  "civilization": "vietnamese",
+  "traditions": [
+    "vietnamese_zen",
+    "thien_buddhism",
+    "tran_dynasty"
+  ],
+  "periods": [
+    "seed_w13",
+    "vietnamese_medieval"
+  ],
+  "themes": [
+    "religion",
+    "ethics",
+    "life_death"
+  ],
+  "keywordsZh": [
+    "课虚录",
+    "越南禅",
+    "陈朝",
+    "帝王-禅师"
+  ],
+  "oneLineZh": "陈朝帝王-禅师，以《课虚录》奠定越南中世禅学思想表达。",
+  "influenceWeight": 3,
+  "reviewStatus": "draft",
+  "summaryZh": "陈太宗虽为陈朝皇帝，但其《课虚录》是越南禅学的重要思想文本；本 seed 档按有可归属禅学著作的帝王-禅师收录，非纯护法君主或政治人物条目。",
+  "works": [
+    "tran-thai-tong-khoa-hu-luc"
+  ],
+  "sourceNotes": [
+    {
+      "label": "W13-B3-S001",
+      "url": "https://en.wikipedia.org/wiki/Tr%E1%BA%A7n_Th%C3%A1i_T%C3%B4ng",
+      "noteZh": "Trần Thái Tông 条目用于核验其生卒、陈朝皇帝身份和《课虚录》佛教著作口径；本批以可归属禅学文本收录。"
+    },
+    {
+      "label": "W13-B3-S002",
+      "url": "https://press.princeton.edu/books/hardcover/9780691157863/the-princeton-dictionary-of-buddhism",
+      "noteZh": "Princeton Dictionary of Buddhism 用于辅助核验 Khóa Hư Lục 作为越南佛教思想文本的工具书口径。"
+    }
+  ]
+}

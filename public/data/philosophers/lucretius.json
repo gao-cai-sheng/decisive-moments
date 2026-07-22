@@ -1,0 +1,289 @@
+{
+  "id": "lucretius",
+  "names": {
+    "zh": "卢克莱修",
+    "en": "Lucretius"
+  },
+  "life": {
+    "birth": -99,
+    "death": -55,
+    "display": "约前 99—前 55"
+  },
+  "civilization": "ancient_greek",
+  "traditions": [
+    "epicureanism",
+    "roman_philosophy"
+  ],
+  "periods": [
+    "first_release"
+  ],
+  "themes": [
+    "metaphysics",
+    "religion",
+    "life_death"
+  ],
+  "keywordsZh": [
+    "形而上学",
+    "宗教",
+    "生死"
+  ],
+  "oneLineZh": "罗马伊壁鸠鲁主义诗人，以《物性论》用原子论治疗宗教恐惧和死亡恐惧。",
+  "influenceWeight": 1,
+  "reviewStatus": "draft",
+  "summaryZh": "罗马伊壁鸠鲁主义诗人，以《物性论》用原子论治疗宗教恐惧和死亡恐惧。本条目以 summary_only 方式整理。",
+  "works": [
+    "lucretius-primary-work"
+  ],
+  "sourceNotes": [
+    {
+      "label": "primary-dossier",
+      "noteZh": "采用《物性论》六卷、西塞罗相关见证和现代伊壁鸠鲁研究。"
+    },
+    {
+      "label": "excerpt-status",
+      "noteZh": "全部 evidence 使用 summary_only。"
+    }
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "lucretius:problem:001",
+        "titleZh": "自然解释如何解除宗教恐惧？",
+        "questionZh": "卢克莱修为何把原子、虚空和自然因果作为反迷信治疗？",
+        "summaryZh": "《物性论》把自然哲学写成灵魂治疗，目标是让人不再把天象、灾异和死亡归因于神罚。",
+        "themeIds": [
+          "metaphysics",
+          "religion"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "lucretius:claim:001",
+            "titleZh": "原子论排除神意干预",
+            "claimZh": "卢克莱修用原子和虚空说明世界无需神意制造和持续干预。",
+            "explanationZh": "自然解释越充分，宗教恐惧越失去支配力。",
+            "themeIds": [
+              "metaphysics",
+              "religion"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "lucretius:evidence:001",
+                "titleZh": "第一卷原子与虚空",
+                "summaryZh": "第一卷论证无物从无中生、无物归于无，并建立原子和虚空框架作为自然解释基础原则之一。",
+                "source": {
+                  "workId": "lucretius-primary-work",
+                  "locator": "Lucretius, De Rerum Natura I.146-328 on nothing from nothing, atoms and void",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "lucretius:evidence:002",
+                "titleZh": "反宗教序章",
+                "summaryZh": "卢克莱修把伊壁鸠鲁描写为战胜宗教恐惧的英雄，显示哲学具有解放性功能和批判方向目标。",
+                "source": {
+                  "workId": "lucretius-primary-work",
+                  "locator": "De Rerum Natura I.62-135 on Epicurus' victory over religio",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "lucretius:claim:002",
+            "titleZh": "天象需要多重自然解释",
+            "claimZh": "卢克莱修对气象和天象提供自然原因，目的在于消除神秘化解释。",
+            "explanationZh": "即便多个自然解释并存，也优于神罚式解释。",
+            "themeIds": [
+              "knowledge",
+              "religion"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "lucretius:evidence:003",
+                "titleZh": "第六卷气象解释",
+                "summaryZh": "第六卷解释雷电、地震、瘟疫等现象的自然原因，用自然说明削弱神罚恐惧和迷信解释框架。",
+                "source": {
+                  "workId": "lucretius-primary-work",
+                  "locator": "De Rerum Natura VI on thunder, lightning, earthquakes, plague and natural causes",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "lucretius:evidence:004",
+                "titleZh": "伊壁鸠鲁多重解释传统",
+                "summaryZh": "现代研究将卢克莱修天象解释同伊壁鸠鲁《致皮托克勒斯书》相联系，强调多重自然解释。",
+                "source": {
+                  "workId": "lucretius-primary-work",
+                  "locator": "Modern scholarship on Lucretius and Epicurean multiple explanations",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "lucretius:problem:002",
+        "titleZh": "死亡为何与我们无关？",
+        "questionZh": "卢克莱修如何发展伊壁鸠鲁死亡论证，解除死后惩罚和死亡体验恐惧？",
+        "summaryZh": "死亡是感觉的终止；既无可经验的死后痛苦，也无主体承受死亡本身。",
+        "themeIds": [
+          "life_death",
+          "ethics"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "lucretius:claim:003",
+            "titleZh": "灵魂是物质组合且会解散",
+            "claimZh": "卢克莱修把灵魂理解为精细物质组合，随身体死亡而分散。",
+            "explanationZh": "这排除了死后受罚和灵魂永恒痛苦的想象。",
+            "themeIds": [
+              "life_death",
+              "metaphysics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "lucretius:evidence:005",
+                "titleZh": "第三卷灵魂物质论",
+                "summaryZh": "第三卷论证灵魂和心灵是身体中精细物质结构，由此反对灵魂不朽恐惧观念设定基础理论。",
+                "source": {
+                  "workId": "lucretius-primary-work",
+                  "locator": "De Rerum Natura III.94-416 on mind, soul and material composition",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "lucretius:evidence:006",
+                "titleZh": "灵魂死亡论证",
+                "summaryZh": "第三卷列举灵魂随身体受影响、成长和疾病而变化，以证明其会死亡并依赖身体条件变化。",
+                "source": {
+                  "workId": "lucretius-primary-work",
+                  "locator": "De Rerum Natura III.417-829 on mortality of the soul",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "lucretius:claim:004",
+            "titleZh": "死亡恐惧来自错误想象",
+            "claimZh": "人把活着时的欲望和感受投射到死后，从而制造无根据恐惧。",
+            "explanationZh": "治疗死亡恐惧需要拆解这种投射。",
+            "themeIds": [
+              "life_death",
+              "ethics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "lucretius:evidence:007",
+                "titleZh": "非存在对称论证",
+                "summaryZh": "卢克莱修用出生前的非存在类比死后的非存在，试图削弱死亡带来的想象恐惧结构来源认知。",
+                "source": {
+                  "workId": "lucretius-primary-work",
+                  "locator": "De Rerum Natura III.830-1094 on death, non-experience and symmetry",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "lucretius:evidence:008",
+                "titleZh": "现代死亡论证研究",
+                "summaryZh": "研究常把第三卷视为古代死亡恐惧治疗的经典文本，连接自然哲学和心理疗法传统资源脉络。",
+                "source": {
+                  "workId": "lucretius-primary-work",
+                  "locator": "Modern scholarship on Lucretius' arguments against fear of death",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "lucretius:problem:003",
+        "titleZh": "诗歌为何适合传播哲学？",
+        "questionZh": "卢克莱修为什么用史诗形式讲原子论和伦理治疗？",
+        "summaryZh": "诗歌以美和记忆承载艰深自然哲学，使苦口良药更易入口。",
+        "themeIds": [
+          "aesthetics",
+          "knowledge"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "lucretius:claim:005",
+            "titleZh": "甜蜜诗歌包裹哲学药物",
+            "claimZh": "卢克莱修把诗歌比作涂在杯沿的蜜，用来帮助读者接受艰难真理。",
+            "explanationZh": "这说明形式本身服务哲学治疗。",
+            "themeIds": [
+              "aesthetics",
+              "knowledge"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "lucretius:evidence:009",
+                "titleZh": "蜜杯比喻",
+                "summaryZh": "文本明确说明诗歌魅力帮助传递伊壁鸠鲁哲学，使艰深自然论更易被接受和记忆传播过程。",
+                "source": {
+                  "workId": "lucretius-primary-work",
+                  "locator": "De Rerum Natura I.921-950 and IV.1-25 on honeyed poetry as medicine",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "lucretius:evidence:010",
+                "titleZh": "诗哲传统研究",
+                "summaryZh": "现代研究强调《物性论》将哲学论证和罗马诗歌传统结合，形成独特教化形式和文体结构。",
+                "source": {
+                  "workId": "lucretius-primary-work",
+                  "locator": "Modern scholarship on Lucretius' didactic poetry and philosophical therapy",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "lucretius:claim:006",
+            "titleZh": "宇宙视野重塑人类位置",
+            "claimZh": "《物性论》通过无限宇宙、世界生成和文明起源叙述，降低人类中心幻觉。",
+            "explanationZh": "宏大自然史让人从神话恐惧转向有限而清醒的生活。",
+            "themeIds": [
+              "metaphysics",
+              "ethics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "lucretius:evidence:011",
+                "titleZh": "无限宇宙和多世界",
+                "summaryZh": "第二卷展开原子运动、偏斜、组合和多世界图景，说明世界生成不依赖神意安排解释模型。",
+                "source": {
+                  "workId": "lucretius-primary-work",
+                  "locator": "De Rerum Natura II on atomic motion, clinamen and plurality of worlds",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "lucretius:evidence:012",
+                "titleZh": "文明起源叙事",
+                "summaryZh": "第五卷以自然史方式讲述世界、生命和人类社会发展，展示非目的论的历史解释路径框架。",
+                "source": {
+                  "workId": "lucretius-primary-work",
+                  "locator": "De Rerum Natura V on world, life and civilization",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "tier": "standard"
+}

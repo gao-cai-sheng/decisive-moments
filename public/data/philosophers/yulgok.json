@@ -5,9 +5,9 @@
     "en": "Yi I"
   },
   "life": {
-    "display": "1536—1584",
     "birth": 1536,
-    "death": 1584
+    "death": 1584,
+    "display": "1536—1584"
   },
   "civilization": "korean",
   "traditions": [
@@ -31,12 +31,258 @@
   "reviewStatus": "draft",
   "summaryZh": "栗谷李珥是伦理、政治问题谱系中的第一版候选哲人。 本条目是第一版结构化资料，已经保留文明、传统、主题、作品和论述字段，正式发布前需要继续核对年代、文本出处和概念表述。",
   "works": [
-    "yulgok-primary-work"
+    "yulgok-essentials-sage-learning",
+    "yulgok-memorial-ten-thousand-words",
+    "yulgok-east-lake-questions"
   ],
   "sourceNotes": [
     {
       "label": "draft",
       "noteZh": "条目需要人工核对作品、年代和概念表述。"
     }
-  ]
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "yulgok:problem:001",
+        "titleZh": "理气如何在实际生命中统一？",
+        "questionZh": "栗谷李珥如何理解理与气的关系，并把这种理解转向实际修养和治理？",
+        "summaryZh": "栗谷强调理不能脱离气而独自发动，人的道德生命总是在具体气质、情感和制度中展开。理气关系的讨论因此必须进入实践，而不能停留在抽象本体分辨。",
+        "themeIds": [
+          "metaphysics",
+          "ethics"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "yulgok:claim:001",
+            "titleZh": "理通过气的现实活动呈现",
+            "claimZh": "栗谷认为理与气不可割裂，理的规范性必须通过气的具体活动和人的现实情感显现出来。",
+            "explanationZh": "这让他比退溪更重视气质、现实处境和制度条件，避免把道德原则理解为离开生活的纯粹本体。",
+            "themeIds": [
+              "metaphysics",
+              "ethics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "yulgok:evidence:001",
+                "titleZh": "圣学辑要中的理气统一",
+                "summaryZh": "《圣学辑要》把理气心性问题纳入修养纲领，强调义理必须在气质变化和日用实践中被体认。",
+                "source": {
+                  "workId": "yulgok-essentials-sage-learning",
+                  "locator": "Essentials of the Studies of the Sages on li-qi, mind-heart and self-cultivation",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "yulgok:evidence:002",
+                "titleZh": "理气不相离的实践含义",
+                "summaryZh": "《圣学辑要》相关段落把本体说明转化为工夫问题，指出学习者必须在具体心气状态中落实义理。",
+                "source": {
+                  "workId": "yulgok-essentials-sage-learning",
+                  "locator": "Essentials of the Studies of the Sages on inseparability of principle and material force",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "yulgok:claim:002",
+            "titleZh": "修养必须面对气质偏差",
+            "claimZh": "栗谷把修养理解为在现实气质中变化自我，而不是只在理的层面确认善的原则。",
+            "explanationZh": "这种思路使他的道德哲学更接近实践训练：读书、立志、改过和处事都要改变具体习惯。",
+            "themeIds": [
+              "ethics",
+              "knowledge"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "yulgok:evidence:003",
+                "titleZh": "立志与变化气质",
+                "summaryZh": "《圣学辑要》强调立志、涵养和省察，说明学习者要在气质偏差中持续改过而非空谈义理。",
+                "source": {
+                  "workId": "yulgok-essentials-sage-learning",
+                  "locator": "Essentials of the Studies of the Sages on setting the will and transforming qi-endowment",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "yulgok:evidence:004",
+                "titleZh": "圣学与日用实践",
+                "summaryZh": "《圣学辑要》把读书明理、居敬省察和处事应物放在同一修养链条中，表现栗谷的实践取向。",
+                "source": {
+                  "workId": "yulgok-essentials-sage-learning",
+                  "locator": "Essentials of the Studies of the Sages on study, reverence and daily affairs",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "yulgok:problem:002",
+        "titleZh": "圣学如何连接修身与经世？",
+        "questionZh": "栗谷为何把圣人之学同时理解为个人成德和国家治理的基础？",
+        "summaryZh": "栗谷的圣学不是私人德性练习，而是从修身扩展到齐家、治国和制度改革的实践体系。自我修养为政治责任奠基，政治改革又检验圣学是否真正落实。",
+        "themeIds": [
+          "ethics",
+          "politics",
+          "knowledge"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "yulgok:claim:003",
+            "titleZh": "修身是治国的根基",
+            "claimZh": "栗谷认为国家治理的根本仍在统治者和士人的修身，政治技术若无德性基础就会失去方向。",
+            "explanationZh": "这一点继承儒家内圣外王结构，但栗谷更强调把修身直接推进到制度弊端和民生问题。",
+            "themeIds": [
+              "ethics",
+              "politics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "yulgok:evidence:005",
+                "titleZh": "圣学辑要的修齐治平结构",
+                "summaryZh": "《圣学辑要》把经典学习、心性修养和政治责任贯通，显示圣学从个人成德走向治国平天下。",
+                "source": {
+                  "workId": "yulgok-essentials-sage-learning",
+                  "locator": "Essentials of the Studies of the Sages on self-cultivation, family order and government",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "yulgok:evidence:006",
+                "titleZh": "面向君主的学习纲领",
+                "summaryZh": "《圣学辑要》作为呈献君主的学习纲领，把君主自我修养设定为政治更新的起点，并将个人成德连接到国家治理责任。",
+                "source": {
+                  "workId": "yulgok-essentials-sage-learning",
+                  "locator": "Essentials of the Studies of the Sages, presentation purpose and rulerly learning",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "yulgok:claim:004",
+            "titleZh": "经世改革检验圣学实效",
+            "claimZh": "栗谷把圣学落实到行政、财政、军备和人才选拔等现实改革，认为义理必须能回应国家危机。",
+            "explanationZh": "他的政治哲学因此兼具道德主义和制度现实感，强调成德者必须处理具体治理难题。",
+            "themeIds": [
+              "politics",
+              "justice"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "yulgok:evidence:007",
+                "titleZh": "万言封事中的改革建议",
+                "summaryZh": "《万言封事》向君主提出行政和民生改革建议，显示栗谷把儒家修养转化为具体经世方案。",
+                "source": {
+                  "workId": "yulgok-memorial-ten-thousand-words",
+                  "locator": "Memorial in Ten Thousand Words on Confucian learning and government reform",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "yulgok:evidence:008",
+                "titleZh": "东湖问答中的政制讨论",
+                "summaryZh": "《东湖问答》通过问答形式讨论政治改革和人才治理，说明栗谷关心制度安排如何承载儒家原则。",
+                "source": {
+                  "workId": "yulgok-east-lake-questions",
+                  "locator": "Questions and Answers at East Lake on political reform and administration",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "yulgok:problem:003",
+        "titleZh": "现实主义经世为何仍属儒家伦理？",
+        "questionZh": "栗谷如何在承认国家危机和军事财政问题的同时，保持儒家伦理政治的核心？",
+        "summaryZh": "栗谷面对的是现实危机中的朝鲜王朝，因此他的经世论强调军备、财政和用人。但这些现实政策并非脱离伦理，而是为了让仁政和民生在制度中获得执行条件。",
+        "themeIds": [
+          "politics",
+          "justice",
+          "ethics"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "yulgok:claim:005",
+            "titleZh": "民生是政治改革的伦理尺度",
+            "claimZh": "栗谷以民生安定作为衡量政治改革的伦理尺度，认为制度改革必须回到百姓生活。",
+            "explanationZh": "这使他的改革论不只是增强国家能力，也是在危机中恢复儒家仁政的现实条件。",
+            "themeIds": [
+              "politics",
+              "justice"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "yulgok:evidence:009",
+                "titleZh": "万言封事中的民生关切",
+                "summaryZh": "《万言封事》把学习、官僚治理和民生疾苦联系起来，要求改革服务于社会秩序和百姓安顿。",
+                "source": {
+                  "workId": "yulgok-memorial-ten-thousand-words",
+                  "locator": "Memorial in Ten Thousand Words on people’s livelihood and administration",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "yulgok:evidence:010",
+                "titleZh": "东湖问答中的治理弊端",
+                "summaryZh": "《东湖问答》分析官制、财政和地方治理弊端，体现栗谷以具体制度问题衡量政治成败，而不满足于抽象道德训诫。",
+                "source": {
+                  "workId": "yulgok-east-lake-questions",
+                  "locator": "Questions and Answers at East Lake on institutional defects and public welfare",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "yulgok:claim:006",
+            "titleZh": "国家安全也是仁政条件",
+            "claimZh": "栗谷把军备和国家安全纳入经世议题，因为没有基本安全，仁政和民生都无法稳定实现。",
+            "explanationZh": "这让他的政治思想带有现实主义色彩，却仍服从儒家保护百姓和整顿秩序的伦理目标。",
+            "themeIds": [
+              "politics",
+              "ethics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "yulgok:evidence:011",
+                "titleZh": "万言封事中的国家危机意识",
+                "summaryZh": "《万言封事》把政治松弛和外患风险联系起来，显示栗谷将安全问题视为治理责任的一部分。",
+                "source": {
+                  "workId": "yulgok-memorial-ten-thousand-words",
+                  "locator": "Memorial in Ten Thousand Words on crisis awareness and state preparedness",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "yulgok:evidence:012",
+                "titleZh": "圣学与经世现实主义",
+                "summaryZh": "《圣学辑要》将圣人之学导向实际治理，说明栗谷的现实政策关切仍以儒家成德和安民为价值中心。",
+                "source": {
+                  "workId": "yulgok-essentials-sage-learning",
+                  "locator": "Essentials of the Studies of the Sages on sage learning and practical governance",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "tier": "standard"
 }

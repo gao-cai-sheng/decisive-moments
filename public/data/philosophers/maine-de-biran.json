@@ -1,0 +1,44 @@
+{
+  "id": "maine-de-biran",
+  "tier": "seed",
+  "names": {
+    "zh": "曼恩·德·比朗",
+    "en": "Maine de Biran"
+  },
+  "life": {
+    "birth": 1766,
+    "death": 1824,
+    "display": "1766—1824"
+  },
+  "civilization": "western",
+  "traditions": [
+    "french_spiritualism"
+  ],
+  "periods": [
+    "modern"
+  ],
+  "themes": [
+    "metaphysics",
+    "freedom"
+  ],
+  "keywordsZh": [
+    "意志",
+    "努力",
+    "内在经验"
+  ],
+  "oneLineZh": "努力与意志的内在经验开启法国唯灵论，连接笛卡尔反思传统和柏格森。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "曼恩·德·比朗（1766—1824）是 Seed W4 法国断代补全候选。其身份层入选理由为：努力与意志的内在经验开启法国唯灵论，连接笛卡尔反思传统和柏格森。 本条仅作 seed 档基本定位，后续若升级标准档，必须重新做著作、论点与 evidence 研究。",
+  "works": [
+    "maine-de-biran-influence-of-habit",
+    "maine-de-biran-new-essays-anthropology"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S004",
+      "url": "https://www.rep.routledge.com/articles/biographical/maine-de-biran-1766-1824/v-1",
+      "noteZh": "权威来源条目：Routledge: Maine de Biran；用于核验人物身份、生卒、代表著作和思想史定位。"
+    }
+  ]
+}

@@ -1,0 +1,292 @@
+{
+  "id": "reid",
+  "names": {
+    "zh": "里德",
+    "en": "Thomas Reid"
+  },
+  "life": {
+    "birth": 1710,
+    "death": 1796,
+    "display": "1710—1796"
+  },
+  "civilization": "western_modern",
+  "traditions": [
+    "scottish_enlightenment",
+    "common_sense_philosophy",
+    "direct_realism"
+  ],
+  "periods": [
+    "expansion_d1"
+  ],
+  "themes": [
+    "knowledge",
+    "metaphysics",
+    "freedom"
+  ],
+  "keywordsZh": [
+    "常识哲学",
+    "直接实在论",
+    "反怀疑论",
+    "知觉",
+    "主动能力"
+  ],
+  "oneLineZh": "以常识原则和直接实在论回应怀疑论，并把认识论延伸到行动、责任和自由问题。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "里德批判观念理论导致的怀疑论，把知觉、记忆、证言和能动性理解为人类理性天然可信的基本能力。",
+  "works": [
+    "reid-inquiry-human-mind",
+    "reid-intellectual-powers",
+    "reid-active-powers",
+    "reid-aristotle-logic",
+    "reid-correspondence"
+  ],
+  "sourceNotes": [
+    {
+      "label": "Primary corpus note",
+      "url": "https://plato.stanford.edu/entries/reid/",
+      "noteZh": "以里德知觉、理智能力和主动能力文本为核心；二手资料只用于核对与休谟、洛克、摩尔和皮尔士的关系。"
+    }
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "reid:problem:001",
+        "titleZh": "常识原则与反怀疑论",
+        "questionZh": "里德如何用常识原则回应休谟式怀疑论和观念理论？",
+        "summaryZh": "里德认为哲学不能从破坏人类天然信念开始，知觉、记忆和证言等基本能力具有先于理论证明的可信地位。",
+        "themeIds": [
+          "knowledge",
+          "metaphysics"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "reid:claim:001",
+            "titleZh": "常识是哲学必须承认的基本判断",
+            "claimZh": "里德把常识原则理解为人类理性不可避免的基本判断，哲学理论若系统摧毁它们反而失去可信性。",
+            "explanationZh": "这不是反智主义，而是指出任何证明和怀疑都依赖更基本的认知能力和实践信念。",
+            "themeIds": [
+              "knowledge"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "reid:evidence:001",
+                "titleZh": "《人心探究》批判怀疑论后果",
+                "summaryZh": "文本指出观念理论会把外物、他心和记忆都推入怀疑，因此需要回到普通知觉中的直接信念。",
+                "source": {
+                  "workId": "reid-inquiry-human-mind",
+                  "locator": "chapter 1 on the introduction and skeptical consequences",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "reid:evidence:002",
+                "titleZh": "《论人的理智能力》列举第一原则",
+                "summaryZh": "里德在理智能力文本中把若干常识判断称为第一原则，说明它们是推理、证明和怀疑得以开始的前提。",
+                "source": {
+                  "workId": "reid-intellectual-powers",
+                  "locator": "essay 6, chapter 4 on first principles of common sense",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "reid:claim:002",
+            "titleZh": "哲学怀疑不能取消日常认知实践",
+            "claimZh": "里德认为彻底怀疑论在书斋里似乎可说，但人在行动、交谈和判断中已经承认世界与他人的存在。",
+            "explanationZh": "这种论证把认识论拉回实践生活，说明哲学若不能解释普通能力的成功，就不是更深刻而是更贫乏。",
+            "themeIds": [
+              "knowledge",
+              "freedom"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "reid:evidence:003",
+                "titleZh": "《人心探究》诉诸行动中的不可避免信念",
+                "summaryZh": "文本强调人即使口头怀疑外物和因果，在生活中仍按这些信念行动，显示怀疑论不能成为稳定实践原则。",
+                "source": {
+                  "workId": "reid-inquiry-human-mind",
+                  "locator": "chapter 2 on the principles taken for granted in life",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "reid:evidence:004",
+                "titleZh": "《论人的理智能力》论证言和记忆的基本性",
+                "summaryZh": "文本把记忆和证言视为天然可信的认知来源，说明公共知识并不建立在孤立自我的演绎证明上。",
+                "source": {
+                  "workId": "reid-intellectual-powers",
+                  "locator": "essay 3 on memory and essay 6 on testimony",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "reid:problem:002",
+        "titleZh": "直接实在论与知觉理论",
+        "questionZh": "里德为什么反对把观念作为知觉的直接对象？",
+        "summaryZh": "里德认为观念代表论制造了主体与外物之间的隔墙，真正的知觉应被理解为直接指向外在对象并伴随自然信念。",
+        "themeIds": [
+          "knowledge",
+          "metaphysics"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "reid:claim:003",
+            "titleZh": "观念理论导致代表论困境",
+            "claimZh": "里德批判洛克以来的观念理论，因为一旦观念成为直接对象，外物存在就变成需要额外证明的问题。",
+            "explanationZh": "这种批判把近代认识论的核心困难诊断为错误的中介模型，而不是感官材料不足。",
+            "themeIds": [
+              "knowledge",
+              "metaphysics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "reid:evidence:005",
+                "titleZh": "《人心探究》批判感观观念中介",
+                "summaryZh": "文本分析视觉、触觉和感觉经验，反对把心理观念当作知觉直接对象的代表论解释及其怀疑论后果。",
+                "source": {
+                  "workId": "reid-inquiry-human-mind",
+                  "locator": "chapters 5-6 on seeing and touch",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "reid:evidence:006",
+                "titleZh": "《论人的理智能力》重述知觉的直接性",
+                "summaryZh": "理智能力文本把知觉解释为对外在对象的直接把握并伴随信念，拒绝把观念链条置于对象之前。",
+                "source": {
+                  "workId": "reid-intellectual-powers",
+                  "locator": "essay 2, chapters 14-16 on perception",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "reid:claim:004",
+            "titleZh": "感觉是自然符号而非对象复制品",
+            "claimZh": "里德把感觉理解为指示外物性质的自然符号，说明知觉不需要在心中复制对象才能可靠。",
+            "explanationZh": "这种模型既保留感觉经验的重要性，又避免把感觉图像误当成认识的唯一直接对象。",
+            "themeIds": [
+              "knowledge",
+              "language"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "reid:evidence:007",
+                "titleZh": "《人心探究》论自然符号",
+                "summaryZh": "文本把某些感觉看作自然符号，它们不是外物的相似复制，却能在自然安排中指向对象性质。",
+                "source": {
+                  "workId": "reid-inquiry-human-mind",
+                  "locator": "chapter 6, section 20 on natural signs",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "reid:evidence:008",
+                "titleZh": "《论人的理智能力》区分感觉和知觉",
+                "summaryZh": "里德区分主观感觉和对象知觉，说明经验中的感觉成分并不等于知觉判断的全部内容或对象指向。",
+                "source": {
+                  "workId": "reid-intellectual-powers",
+                  "locator": "essay 2, chapter 17 on sensation and perception",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "reid:problem:003",
+        "titleZh": "能动性、责任与自由",
+        "questionZh": "里德如何把常识哲学扩展到行动、意志和道德责任问题？",
+        "summaryZh": "里德认为人具有主动能力，行动不能被还原为事件因果链中的被动环节，因此自由和责任有认识论与道德基础。",
+        "themeIds": [
+          "freedom",
+          "ethics"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "reid:claim:005",
+            "titleZh": "行动者具有主动因果能力",
+            "claimZh": "里德主张行动者不仅经历心理事件，还能作为主动原因发起行动，这为责任判断提供基础。",
+            "explanationZh": "这使他反对把意志完全并入机械必然性，也避免把自由理解为无原因的偶然跳跃。",
+            "themeIds": [
+              "freedom",
+              "metaphysics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "reid:evidence:009",
+                "titleZh": "《论人的主动能力》论主动能力概念",
+                "summaryZh": "文本把主动能力区别于单纯被动感受，说明行动者能在理由、意志和目的中成为行动源头。",
+                "source": {
+                  "workId": "reid-active-powers",
+                  "locator": "essay 1 on active power in general",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "reid:evidence:010",
+                "titleZh": "《论人的主动能力》反对必然主义压平责任",
+                "summaryZh": "文本批评严格必然主义会削弱赞责意义，强调道德评价预设人能够以自身能力回应理由并发起行动。",
+                "source": {
+                  "workId": "reid-active-powers",
+                  "locator": "essay 4 on liberty and necessity",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "reid:claim:006",
+            "titleZh": "道德判断依赖人的基本能力结构",
+            "claimZh": "里德把良知、责任和行动能力纳入同一个常识框架，认为道德生活依赖人类天然判断能力。",
+            "explanationZh": "这使常识哲学不只是知觉理论，而是覆盖认识、行动和道德责任的整体人学。",
+            "themeIds": [
+              "ethics",
+              "freedom"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "reid:evidence:011",
+                "titleZh": "《论人的主动能力》讨论道德能力",
+                "summaryZh": "文本把道德判断能力与行动责任联系起来，认为人能够把自己和他人的行为置于应赞应责的尺度下。",
+                "source": {
+                  "workId": "reid-active-powers",
+                  "locator": "essay 3 on moral principles of action",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "reid:evidence:012",
+                "titleZh": "里德通信显示常识哲学的公共教育面向",
+                "summaryZh": "通信材料显示里德把哲学、科学和教育放在苏格兰启蒙公共生活中理解，常识并非私人直觉而有公共训练意义。",
+                "source": {
+                  "workId": "reid-correspondence",
+                  "locator": "letters on education, science, and philosophical method",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "tier": "standard"
+}

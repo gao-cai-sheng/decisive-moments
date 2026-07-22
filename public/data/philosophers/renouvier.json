@@ -1,0 +1,45 @@
+{
+  "id": "renouvier",
+  "tier": "seed",
+  "names": {
+    "zh": "勒努维耶",
+    "en": "Charles Renouvier"
+  },
+  "life": {
+    "birth": 1815,
+    "death": 1903,
+    "display": "1815—1903"
+  },
+  "civilization": "western",
+  "traditions": [
+    "neo_criticism",
+    "kantianism"
+  ],
+  "periods": [
+    "modern"
+  ],
+  "themes": [
+    "freedom",
+    "knowledge"
+  ],
+  "keywordsZh": [
+    "新批判主义",
+    "自由意志",
+    "康德接受"
+  ],
+  "oneLineZh": "新批判主义重写康德问题，并对威廉·詹姆斯的自由意志论产生影响。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "勒努维耶（1815—1903）是 Seed W4 法国断代补全候选。其身份层入选理由为：新批判主义重写康德问题，并对威廉·詹姆斯的自由意志论产生影响。 本条仅作 seed 档基本定位，后续若升级标准档，必须重新做著作、论点与 evidence 研究。",
+  "works": [
+    "renouvier-essais-critique-generale",
+    "renouvier-science-de-la-morale"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S006",
+      "url": "https://plato.stanford.edu/entries/renouvier/",
+      "noteZh": "权威来源条目：SEP: Charles Renouvier；用于核验人物身份、生卒、代表著作和思想史定位。"
+    }
+  ]
+}

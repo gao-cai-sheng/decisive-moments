@@ -1,0 +1,295 @@
+{
+  "id": "peirce",
+  "names": {
+    "zh": "皮尔士",
+    "en": "Charles Sanders Peirce"
+  },
+  "life": {
+    "birth": 1839,
+    "death": 1914,
+    "display": "1839—1914"
+  },
+  "civilization": "american_modern",
+  "traditions": [
+    "american_pragmatism",
+    "semiotics",
+    "logic"
+  ],
+  "periods": [
+    "expansion_e2"
+  ],
+  "themes": [
+    "knowledge",
+    "language",
+    "metaphysics"
+  ],
+  "keywordsZh": [
+    "实用主义",
+    "符号学",
+    "溯因",
+    "范畴",
+    "科学共同体"
+  ],
+  "oneLineZh": "以探究逻辑、实用主义准则和三元符号学奠定美国实用主义的科学形态。",
+  "influenceWeight": 3,
+  "reviewStatus": "draft",
+  "summaryZh": "皮尔士把哲学理解为科学探究的逻辑，围绕信念固定、概念澄清、溯因推理、三元符号和连续性形而上学建立体系；他创始的实用主义后来由詹姆斯和杜威扩展，同时又被他改名为 pragmaticism 以标明其逻辑严格性。",
+  "works": [
+    "peirce-new-list-categories",
+    "peirce-fixation-belief",
+    "peirce-how-make-ideas-clear",
+    "peirce-architecture-theories",
+    "peirce-law-mind",
+    "peirce-pragmatism-pragmaticism"
+  ],
+  "sourceNotes": [
+    {
+      "label": "SEP",
+      "url": "https://plato.stanford.edu/entries/peirce/",
+      "noteZh": "用于核对皮尔士生平、实用主义、符号学、溯因和科学方法。"
+    },
+    {
+      "label": "review",
+      "noteZh": "E2 批新增条目，重点连接康德、詹姆斯与杜威的美国实用主义链。"
+    }
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "peirce:problem:001",
+        "titleZh": "探究如何把怀疑转化为可检验信念？",
+        "questionZh": "皮尔士如何把知识论重建为共同体中由怀疑、推理和检验推动的探究逻辑？",
+        "summaryZh": "皮尔士把怀疑视为打断习惯的真实不安，把信念视为可行动的稳定习惯，并认为科学方法优于固执、权威和先验方法。",
+        "themeIds": [
+          "knowledge"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "peirce:claim:001",
+            "titleZh": "真实怀疑启动探究",
+            "claimZh": "探究不是从笛卡尔式任意怀疑开始，而是从真实经验冲突造成的信念不稳开始。",
+            "explanationZh": "皮尔士把知识论从内省确定性转向实践中的怀疑消解，要求信念通过方法和共同检验获得稳定。",
+            "themeIds": [
+              "knowledge"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "peirce:evidence:001",
+                "titleZh": "《信念的固定》的四种方法",
+                "summaryZh": "《信念的固定》比较固执、权威、先验和科学方法，说明真正能长期校正信念的是面对外在现实的公共检验。",
+                "source": {
+                  "workId": "peirce-fixation-belief",
+                  "locator": "Popular Science Monthly 1877, methods of fixing belief",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "peirce:evidence:002",
+                "titleZh": "SEP 对科学方法的定位",
+                "summaryZh": "SEP 将皮尔士的逻辑理解为科学探究的方法论，强调他把哲学和逻辑都放进 Wissenschaft 意义上的科学结构。",
+                "source": {
+                  "workId": "peirce-fixation-belief",
+                  "locator": "SEP Peirce, sections 3–4 on inquiry and scientific method",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "peirce:claim:002",
+            "titleZh": "意义要由实践后果澄清",
+            "claimZh": "一个概念的清楚含义在于它对可能经验和行动后果的可设想差异。",
+            "explanationZh": "实用主义准则并不是粗俗功利主义，而是把抽象概念翻译为可测试、可区分、可进入探究的后果结构。",
+            "themeIds": [
+              "knowledge",
+              "language"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "peirce:evidence:003",
+                "titleZh": "《如何使我们的观念清楚》的实用主义准则",
+                "summaryZh": "该文把概念清晰性连接到对象可能产生的实践效果，要求思想差异最终能表现为经验和行动差异。",
+                "source": {
+                  "workId": "peirce-how-make-ideas-clear",
+                  "locator": "Popular Science Monthly 1878, pragmatic maxim",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "peirce:evidence:004",
+                "titleZh": "SEP 对实用主义论文的概括",
+                "summaryZh": "SEP 指出《信念的固定》和《如何使我们的观念清楚》构成科学逻辑系列中最著名的两篇，后一篇提出概念澄清的实用主义理解。",
+                "source": {
+                  "workId": "peirce-how-make-ideas-clear",
+                  "locator": "SEP Peirce, section 4 on pragmatism",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "peirce:problem:002",
+        "titleZh": "符号和范畴如何组织经验世界？",
+        "questionZh": "皮尔士如何用三元符号关系和普遍范畴说明意义、对象和解释之间的结构？",
+        "summaryZh": "皮尔士以第一性、第二性、第三性组织现象经验，又把符号理解为对象、符号载体和解释项之间的三元关系。",
+        "themeIds": [
+          "language",
+          "metaphysics"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "peirce:claim:003",
+            "titleZh": "符号关系本质上是三元的",
+            "claimZh": "符号不只是一个东西替代另一个东西，而是在对象、符号和解释项之间形成开放的解释链。",
+            "explanationZh": "这一立场使意义从静态命名关系转向可延展的解释过程，也解释了为什么逻辑、语言和沟通在皮尔士那里相互贯通。",
+            "themeIds": [
+              "language",
+              "knowledge"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "peirce:evidence:005",
+                "titleZh": "SEP 对 semeiotic 的概括",
+                "summaryZh": "SEP 将皮尔士列为语言、沟通和一般符号理论的重要思想家，并指出他把符号理论称为 semeiotic。",
+                "source": {
+                  "workId": "peirce-new-list-categories",
+                  "locator": "SEP Peirce, introduction and section 10–11 on semeiotic",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "peirce:evidence:006",
+                "titleZh": "新范畴表的关系结构",
+                "summaryZh": "《论新范畴表》已经以关系和中介结构处理谓述问题，为后来第一性、第二性、第三性和三元符号论奠基。",
+                "source": {
+                  "workId": "peirce-new-list-categories",
+                  "locator": "On a New List of Categories, predication and categories",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "peirce:claim:004",
+            "titleZh": "第三性说明规律和中介",
+            "claimZh": "经验不仅有质感和冲撞，还包含习惯、规律、解释和可学习的中介结构。",
+            "explanationZh": "皮尔士的范畴论把偶然感觉、事实阻力和规律性统一进形而上学，使科学规律和意义解释成为同一宇宙过程的不同层面。",
+            "themeIds": [
+              "metaphysics",
+              "knowledge"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "peirce:evidence:007",
+                "titleZh": "SEP 对三元范畴的章节安排",
+                "summaryZh": "SEP 专设三元论和普遍范畴章节，说明第一性、第二性和第三性贯穿皮尔士逻辑、符号学与形而上学。",
+                "source": {
+                  "workId": "peirce-new-list-categories",
+                  "locator": "SEP Peirce, section 9 Triadism and Universal Categories",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "peirce:evidence:008",
+                "titleZh": "《理论建筑术》的进化形而上学",
+                "summaryZh": "《理论建筑术》把理论系统、连续性和宇宙演化联系起来，显示第三性不只是逻辑形式，也是习惯生成的世界结构。",
+                "source": {
+                  "workId": "peirce-architecture-theories",
+                  "locator": "The Architecture of Theories, Monist 1891",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "peirce:problem:003",
+        "titleZh": "科学推理如何在可错性中前进？",
+        "questionZh": "皮尔士如何把溯因、演绎和归纳组合成可错但可改进的科学方法？",
+        "summaryZh": "皮尔士认为科学推理由提出解释假说、推出可检验后果和用经验校正假说构成，真理只能作为共同体长期探究的方向被理解。",
+        "themeIds": [
+          "knowledge",
+          "metaphysics"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "peirce:claim:005",
+            "titleZh": "溯因提出可检验解释",
+            "claimZh": "溯因不是证明结论，而是在惊异事实前形成有待检验的解释假说。",
+            "explanationZh": "皮尔士由此把发现逻辑纳入科学方法，说明新观念如何以暂时、可错、可测试的方式进入探究。",
+            "themeIds": [
+              "knowledge"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "peirce:evidence:009",
+                "titleZh": "SEP 对溯因的定义",
+                "summaryZh": "SEP 说明皮尔士把假设或溯因区分于演绎和归纳，并把它理解为形成解释性猜测的推理类型。",
+                "source": {
+                  "workId": "peirce-pragmatism-pragmaticism",
+                  "locator": "SEP Peirce, section 3 Deduction, Induction, and Abduction",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "peirce:evidence:010",
+                "titleZh": "哈佛实用主义讲座中的方法论",
+                "summaryZh": "1903 年实用主义讲座把概念澄清和假说检验结合起来，使实用主义成为科学推理的原则和方法。",
+                "source": {
+                  "workId": "peirce-pragmatism-pragmaticism",
+                  "locator": "Harvard Lectures on Pragmatism, 1903",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "peirce:claim:006",
+            "titleZh": "真理属于共同体长期探究",
+            "claimZh": "真理不是私人即时确信，而是开放共同体在长期检验中趋向的稳定意见。",
+            "explanationZh": "这一立场把可错论和客观性结合起来：任何信念都可修正，但修正不是任意的，而受现实、方法和共同体约束。",
+            "themeIds": [
+              "knowledge",
+              "metaphysics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "peirce:evidence:011",
+                "titleZh": "科学方法的外在现实约束",
+                "summaryZh": "《信念的固定》把科学方法区别于权威和先验偏好，因为它假定独立现实会在长期探究中校正不同研究者。",
+                "source": {
+                  "workId": "peirce-fixation-belief",
+                  "locator": "The Fixation of Belief, scientific method and reality",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "peirce:evidence:012",
+                "titleZh": "实用主义准则的公共可检验性",
+                "summaryZh": "《如何使我们的观念清楚》要求概念差异落到可经验辨认的后果上，从而把意义和公共检验连接起来。",
+                "source": {
+                  "workId": "peirce-how-make-ideas-clear",
+                  "locator": "How to Make Our Ideas Clear, pragmatic clarity and effects",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "tier": "standard"
+}

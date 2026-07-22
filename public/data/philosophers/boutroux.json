@@ -1,0 +1,45 @@
+{
+  "id": "boutroux",
+  "tier": "seed",
+  "names": {
+    "zh": "布特鲁",
+    "en": "Émile Boutroux"
+  },
+  "life": {
+    "birth": 1845,
+    "death": 1921,
+    "display": "1845—1921"
+  },
+  "civilization": "western",
+  "traditions": [
+    "french_spiritualism",
+    "philosophy_of_science"
+  ],
+  "periods": [
+    "modern"
+  ],
+  "themes": [
+    "knowledge",
+    "freedom"
+  ],
+  "keywordsZh": [
+    "偶然性",
+    "自然律",
+    "决定论批判"
+  ],
+  "oneLineZh": "以自然律偶然性批判严格决定论，连接法国科学哲学与唯灵论。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "布特鲁（1845—1921）是 Seed W4 法国断代补全候选。其身份层入选理由为：以自然律偶然性批判严格决定论，连接法国科学哲学与唯灵论。 本条仅作 seed 档基本定位，后续若升级标准档，必须重新做著作、论点与 evidence 研究。",
+  "works": [
+    "boutroux-contingency-laws-nature",
+    "boutroux-science-and-religion"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S008",
+      "url": "https://www.rep.routledge.com/articles/biographical/boutroux-emile-1845-1921/v-1",
+      "noteZh": "权威来源条目：Routledge: Émile Boutroux；用于核验人物身份、生卒、代表著作和思想史定位。"
+    }
+  ]
+}

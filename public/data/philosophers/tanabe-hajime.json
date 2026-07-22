@@ -1,0 +1,44 @@
+{
+  "id": "tanabe-hajime",
+  "tier": "seed",
+  "names": {
+    "zh": "田边元",
+    "en": "Tanabe Hajime"
+  },
+  "life": {
+    "birth": 1885,
+    "death": 1962,
+    "display": "1885—1962"
+  },
+  "civilization": "east_asian",
+  "traditions": [
+    "kyoto_school"
+  ],
+  "periods": [
+    "modern"
+  ],
+  "themes": [
+    "religion",
+    "metaphysics"
+  ],
+  "keywordsZh": [
+    "京都学派",
+    "种的逻辑",
+    "忏悔道"
+  ],
+  "oneLineZh": "京都学派核心人物，以种的逻辑和忏悔道形成独特哲学体系。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "田边元是京都学派的重要人物，在西田之后发展种的逻辑和忏悔道问题。本条仅作 seed 身份层定位。",
+  "works": [
+    "tanabe-hajime-philosophy-as-metanoetics",
+    "tanabe-hajime-logic-of-species"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S009",
+      "url": "https://plato.stanford.edu/entries/kyoto-school/",
+      "noteZh": "SEP Kyoto School 条目用于核验田边元与京都学派定位。"
+    }
+  ]
+}

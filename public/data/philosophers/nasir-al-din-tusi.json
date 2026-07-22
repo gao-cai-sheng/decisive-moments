@@ -1,0 +1,48 @@
+{
+  "id": "nasir-al-din-tusi",
+  "tier": "seed",
+  "names": {
+    "zh": "纳绥尔丁·图西",
+    "en": "Naṣīr al-Dīn al-Ṭūsī",
+    "native": "نصير الدين الطوسي"
+  },
+  "life": {
+    "birth": 1201,
+    "death": 1274,
+    "display": "1201—1274"
+  },
+  "civilization": "islamic",
+  "traditions": [
+    "post-avicennian_philosophy",
+    "shia_kalam",
+    "astronomy"
+  ],
+  "periods": [
+    "medieval"
+  ],
+  "themes": [
+    "knowledge",
+    "metaphysics",
+    "ethics"
+  ],
+  "keywordsZh": [
+    "伊本·西那传统",
+    "阿赫拉格·纳西里",
+    "马拉盖天文台"
+  ],
+  "oneLineZh": "哲学家、伦理学家和天文学家，在后伊本·西那哲学、什叶神学和数学天文学之间建立关键连接。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "纳绥尔丁·图西（1201—1274）是 Seed W7 伊斯兰文明 falsafa 补线候选。其身份层入选理由为：哲学家、伦理学家和天文学家，在后伊本·西那哲学、什叶神学和数学天文学之间建立关键连接。本条仅作 seed 档基本定位，后续若升级标准档，必须重新做著作、论点与 evidence 研究。",
+  "works": [
+    "nasir-al-din-tusi-akhlaq-i-nasiri",
+    "nasir-al-din-tusi-tajrid-al-itiqad"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S006",
+      "url": "https://www.iranicaonline.org/articles/tusi-nasir-al-din",
+      "noteZh": "来源：Encyclopaedia Iranica / ṬŪSĪ, NAṢĪR-AL-DĪN；用于核验人物身份、生卒断代、哲学家—天文学家定位和代表著作。"
+    }
+  ]
+}

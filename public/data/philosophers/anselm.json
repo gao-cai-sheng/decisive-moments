@@ -5,9 +5,9 @@
     "en": "Anselm of Canterbury"
   },
   "life": {
-    "display": "1033—1109",
     "birth": 1033,
-    "death": 1109
+    "death": 1109,
+    "display": "1033—1109"
   },
   "civilization": "latin_christian",
   "traditions": [
@@ -31,12 +31,258 @@
   "reviewStatus": "draft",
   "summaryZh": "安瑟尔谟是宗教、形而上学问题谱系中的第一版候选哲人。 本条目是第一版结构化资料，已经保留文明、传统、主题、作品和论述字段，正式发布前需要继续核对年代、文本出处和概念表述。",
   "works": [
-    "anselm-primary-work"
+    "anselm-proslogion",
+    "anselm-monologion",
+    "anselm-cur-deus-homo"
   ],
   "sourceNotes": [
     {
       "label": "draft",
       "noteZh": "条目需要人工核对作品、年代和概念表述。"
     }
-  ]
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "anselm:problem:001",
+        "titleZh": "信仰如何寻求理解？",
+        "questionZh": "安瑟尔谟为何把信仰和理性论证连接起来，而不是把它们视为彼此排斥？",
+        "summaryZh": "安瑟尔谟的理性神学以信仰寻求理解为核心。信仰提供寻求的方向，理性则在祈祷和论证中澄清所信内容，使神学不是盲目断言。",
+        "themeIds": [
+          "religion",
+          "knowledge"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "anselm:claim:001",
+            "titleZh": "理解从信仰内部展开",
+            "claimZh": "安瑟尔谟认为理性探究不是取代信仰，而是在信仰已经指向上帝的前提下寻求更清楚的理解。",
+            "explanationZh": "这使他的神学论证具有祈祷性和理性双重形态。",
+            "themeIds": [
+              "religion",
+              "knowledge"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "anselm:evidence:001",
+                "titleZh": "《宣讲》序言和第一章",
+                "summaryZh": "《宣讲》开篇以祈祷语气请求理解所信之事，显示理性论证从信仰寻求出发，而非外在替代信仰。",
+                "source": {
+                  "workId": "anselm-proslogion",
+                  "locator": "Proslogion proemium and chapter 1 on faith seeking understanding",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "anselm:evidence:002",
+                "titleZh": "《独白》的理性上升",
+                "summaryZh": "《独白》前几章从多种善和伟大逐步上升到最高本性，展示安瑟尔谟以理性路径澄清神学对象。",
+                "source": {
+                  "workId": "anselm-monologion",
+                  "locator": "Monologion chapters 1-4 on supreme nature",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "anselm:claim:002",
+            "titleZh": "理性论证服务敬虔理解",
+            "claimZh": "安瑟尔谟的证明并非冷静旁观的技巧，而是信仰主体试图在理性中更完整地把握上帝。",
+            "explanationZh": "这解释了他为何常把祈祷、概念分析和必然性论证放在同一文本结构中。",
+            "themeIds": [
+              "religion",
+              "knowledge"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "anselm:evidence:003",
+                "titleZh": "祈祷结构中的概念探究",
+                "summaryZh": "《宣讲》第一章把寻求上帝、承认有限和请求理解放在一起，说明概念证明植根于敬虔实践。",
+                "source": {
+                  "workId": "anselm-proslogion",
+                  "locator": "Proslogion proemium and chapter 1 on faith seeking understanding",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "anselm:evidence:004",
+                "titleZh": "从可经验善到最高善",
+                "summaryZh": "《独白》以日常可比较的善为起点，逐步推出最高善，表明理性可以从受造秩序上升到神学理解。",
+                "source": {
+                  "workId": "anselm-monologion",
+                  "locator": "Monologion chapters 1-4 on supreme nature",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "anselm:problem:002",
+        "titleZh": "本体论论证证明了什么？",
+        "questionZh": "“不可设想有比其更大者”如何从心中概念推进到存在和必然存在？",
+        "summaryZh": "安瑟尔谟的本体论论证通过“不可设想有比其更大者”的概念，试图说明上帝不能只存在于理解中，并进一步说明其存在具有必然性。",
+        "themeIds": [
+          "religion",
+          "metaphysics",
+          "language"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "anselm:claim:003",
+            "titleZh": "最高可设想者不能只在理解中",
+            "claimZh": "安瑟尔谟主张，如果最高可设想者只存在于理解中，就还能设想一个也存在于现实中的更大者，因此产生矛盾。",
+            "explanationZh": "该论证把存在问题转化为概念极限和可设想性问题。",
+            "themeIds": [
+              "metaphysics",
+              "language"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "anselm:evidence:005",
+                "titleZh": "《宣讲》第二章的核心推理",
+                "summaryZh": "《宣讲》第二章提出不可设想有比其更大者，并通过只在理解中存在的不足，推出其必须也在现实中存在。",
+                "source": {
+                  "workId": "anselm-proslogion",
+                  "locator": "Proslogion chapter 2 on that than which nothing greater can be conceived",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "anselm:evidence:006",
+                "titleZh": "第三章推进到不可不存在",
+                "summaryZh": "《宣讲》第三章把论证推进到必然存在：最高者若可被设想为不存在，就不如不可设想为不存在者伟大。",
+                "source": {
+                  "workId": "anselm-proslogion",
+                  "locator": "Proslogion chapter 3 on necessary existence",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "anselm:claim:004",
+            "titleZh": "必然存在是神性伟大的组成部分",
+            "claimZh": "安瑟尔谟不仅想证明上帝存在，还想说明最高存在者具有不可被设想为不存在的必然性。",
+            "explanationZh": "这使论证从事实存在推进到存在方式的等级区分。",
+            "themeIds": [
+              "metaphysics",
+              "religion"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "anselm:evidence:007",
+                "titleZh": "现实存在高于仅在理解中存在",
+                "summaryZh": "第二章把现实存在纳入伟大比较中，因此最高可设想者不能停留在心中概念层面，而必须具有现实性。",
+                "source": {
+                  "workId": "anselm-proslogion",
+                  "locator": "Proslogion chapter 2 on that than which nothing greater can be conceived",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "anselm:evidence:008",
+                "titleZh": "必然性作为更高存在方式",
+                "summaryZh": "第三章通过不可设想为不存在的对象比可设想为不存在者更大，说明必然性属于上帝概念的核心。",
+                "source": {
+                  "workId": "anselm-proslogion",
+                  "locator": "Proslogion chapter 3 on necessary existence",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "anselm:problem:003",
+        "titleZh": "补赎如何连接正义与怜悯？",
+        "questionZh": "为什么安瑟尔谟认为道成肉身和补赎是恢复人神关系的合理方式？",
+        "summaryZh": "在《上帝为何成人》中，安瑟尔谟把罪理解为亏欠上帝尊荣的债，并以神人中保说明正义和怜悯如何同时被满足。补赎论由此成为理性化的救赎解释。",
+        "themeIds": [
+          "religion",
+          "justice",
+          "ethics"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "anselm:claim:005",
+            "titleZh": "罪是对神圣尊荣的亏欠",
+            "claimZh": "安瑟尔谟把罪解释为人未向上帝给予应有尊荣而形成的债，这一债不能简单忽略，否则正义会被破坏。",
+            "explanationZh": "这将救赎问题转化为秩序、正义和补偿问题。",
+            "themeIds": [
+              "religion",
+              "justice"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "anselm:evidence:009",
+                "titleZh": "罪作为尊荣之债",
+                "summaryZh": "《上帝为何成人》第一卷讨论罪使人亏欠上帝尊荣，若无补偿而赦免，就会使宇宙正义秩序失衡。",
+                "source": {
+                  "workId": "anselm-cur-deus-homo",
+                  "locator": "Cur Deus Homo I.11-15 on sin as debt of honor",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "anselm:evidence:010",
+                "titleZh": "神人中保的必要性",
+                "summaryZh": "第二卷说明只有真正的人应当偿还，只有上帝能够提供足够补偿，因此神人中保成为救赎逻辑的关键。",
+                "source": {
+                  "workId": "anselm-cur-deus-homo",
+                  "locator": "Cur Deus Homo II.6-8 on why the God-man is necessary",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "anselm:claim:006",
+            "titleZh": "道成肉身同时维护正义和怜悯",
+            "claimZh": "安瑟尔谟认为救赎不是取消正义，而是通过神人中保的补偿使怜悯得以在正义秩序内实现。",
+            "explanationZh": "这一区分解释了为什么他的救赎论强调必要性、满足和中保身份。",
+            "themeIds": [
+              "religion",
+              "justice"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "anselm:evidence:011",
+                "titleZh": "不能以任意赦免取代秩序",
+                "summaryZh": "第一卷把罪债和尊荣秩序联系起来，显示安瑟尔谟不把赦免理解为绕过正义的任意决定，而要保持秩序。",
+                "source": {
+                  "workId": "anselm-cur-deus-homo",
+                  "locator": "Cur Deus Homo I.11-15 on sin as debt of honor",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "anselm:evidence:012",
+                "titleZh": "神人与人的双重资格",
+                "summaryZh": "第二卷通过神性能力和人性义务的结合，说明道成肉身在补赎论中承担连接正义与怜悯的结构角色。",
+                "source": {
+                  "workId": "anselm-cur-deus-homo",
+                  "locator": "Cur Deus Homo II.6-8 on why the God-man is necessary",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "tier": "standard"
 }

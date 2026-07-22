@@ -1,0 +1,297 @@
+{
+  "id": "huineng",
+  "names": {
+    "zh": "慧能",
+    "en": "Huineng"
+  },
+  "life": {
+    "birth": 638,
+    "death": 713,
+    "display": "638—713"
+  },
+  "civilization": "chinese",
+  "traditions": [
+    "chan_buddhism",
+    "mahayana_buddhism",
+    "sudden_enlightenment"
+  ],
+  "periods": [
+    "expansion_e5"
+  ],
+  "themes": [
+    "religion",
+    "knowledge",
+    "freedom"
+  ],
+  "keywordsZh": [
+    "顿悟",
+    "无念",
+    "自性",
+    "定慧不二",
+    "坛经"
+  ],
+  "oneLineZh": "以《坛经》中的顿悟、自性、无念和定慧不二塑造中国禅宗南宗经典形象。",
+  "influenceWeight": 3,
+  "reviewStatus": "draft",
+  "summaryZh": "慧能作为禅宗六祖形象，主要通过《坛经》被建构为顿悟南宗的代表；该传统强调自性本净、定慧不二、无念为宗、无相为体、无住为本，并把修行从渐次技术转向当下见性与日常行住坐卧中的不执著。",
+  "works": [
+    "huineng-platform-sutra",
+    "huineng-dunhuang-platform-sutra",
+    "huineng-zongbao-platform-sutra",
+    "huineng-formless-precepts",
+    "huineng-verses-patriarch"
+  ],
+  "sourceNotes": [
+    {
+      "label": "primary",
+      "noteZh": "以《六祖坛经》及敦煌本、宗宝本和无相戒/偈颂材料作为真实文本来源。"
+    },
+    {
+      "label": "secondary",
+      "noteZh": "用于核对《坛经》版本史、顿悟、定慧不二和无念等核心义理。"
+    }
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "huineng:problem:001",
+        "titleZh": "觉悟是渐修产物还是当下见性？",
+        "questionZh": "慧能传统如何用顿悟和自性本净重写禅修目标？",
+        "summaryZh": "《坛经》把慧能塑造成顿悟南宗代表，强调烦恼与菩提不二，自性本来清净，关键在当下见性而非把觉悟推到未来。",
+        "themeIds": [
+          "religion",
+          "freedom"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "huineng:claim:001",
+            "titleZh": "自性本净支持顿悟",
+            "claimZh": "觉悟不是外在对象或遥远结果，而是对本来自性不被妄念遮蔽的直接体认。",
+            "explanationZh": "这使修行重点从累积功德转向破除对象化执著，并解释为何顿悟能成为南宗身份核心。",
+            "themeIds": [
+              "religion",
+              "freedom"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "huineng:evidence:001",
+                "titleZh": "《坛经》的自性本净说",
+                "summaryZh": "《六祖坛经》反复以自性清净、自见本性和即心成佛组织说法，构成顿悟修行的理论核心。",
+                "source": {
+                  "workId": "huineng-platform-sutra",
+                  "locator": "Platform Sutra, teachings on self-nature and seeing nature",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "huineng:evidence:002",
+                "titleZh": "传法偈的顿悟叙事",
+                "summaryZh": "慧能传法偈通过菩提本无树等意象反击对象化修行，成为南宗顿悟形象的关键文学节点和传承标志。",
+                "source": {
+                  "workId": "huineng-verses-patriarch",
+                  "locator": "Platform Sutra, verse contest and transmission narrative",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "huineng:claim:002",
+            "titleZh": "南宗身份由文本建构",
+            "claimZh": "慧能的历史形象主要通过《坛经》版本和禅宗传承叙事形成，不能简单等同于可直接还原的传记事实。",
+            "explanationZh": "这提醒入库时要把慧能同时写成思想节点和文本传统节点，避免把后世宗派叙事完全历史实证化。",
+            "themeIds": [
+              "religion",
+              "language"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "huineng:evidence:003",
+                "titleZh": "敦煌本《坛经》的早期形态",
+                "summaryZh": "敦煌本《坛经》保存较早南宗顿教文本形态，显示慧能形象和无相戒说法已经被组织为宗派经典。",
+                "source": {
+                  "workId": "huineng-dunhuang-platform-sutra",
+                  "locator": "Dunhuang Platform Sutra, early Southern school text",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "huineng:evidence:004",
+                "titleZh": "宗宝本的后世定型",
+                "summaryZh": "宗宝本《坛经》在元代编定并进入后世通行系统，说明慧能传统经历持续增订和经典化过程。",
+                "source": {
+                  "workId": "huineng-zongbao-platform-sutra",
+                  "locator": "Zongbao edition, later canonical redaction",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "huineng:problem:002",
+        "titleZh": "无念是否意味着没有思想？",
+        "questionZh": "慧能如何用无念、无相、无住说明不执著的认识与行动？",
+        "summaryZh": "《坛经》中的无念不是心灵空白，而是在念起时不被境界和对象牵缚；无相与无住则把般若理解为不固定化任何相。",
+        "themeIds": [
+          "knowledge",
+          "religion"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "huineng:claim:003",
+            "titleZh": "无念是不被念缚",
+            "claimZh": "无念并非停止一切意识活动，而是在念念相续中不把对象执为固定实体。",
+            "explanationZh": "这一点使禅宗实践能够进入日常活动，而不是退回静止的内心控制技术。",
+            "themeIds": [
+              "knowledge",
+              "freedom"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "huineng:evidence:005",
+                "titleZh": "《坛经》无念为宗",
+                "summaryZh": "《坛经》将无念、无相、无住并列为修行纲领，说明念起时不住著才是般若实践，而非压灭意识活动。",
+                "source": {
+                  "workId": "huineng-platform-sutra",
+                  "locator": "Platform Sutra, no-thought/no-form/no-abiding teachings",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "huineng:evidence:006",
+                "titleZh": "无相戒文本单元",
+                "summaryZh": "无相戒相关说法把忏悔、戒体和自性清净连接，强调不执相的戒行而非外在形式本身或仪式对象。",
+                "source": {
+                  "workId": "huineng-formless-precepts",
+                  "locator": "Platform Sutra, formless precepts and repentance",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "huineng:claim:004",
+            "titleZh": "定慧不二反对技术化次第",
+            "claimZh": "禅定和智慧不是先后阶段，而是同一觉悟活动的体用两面。",
+            "explanationZh": "这直接支撑顿悟立场：若定是慧之体、慧是定之用，就不能把智慧推迟为长期静坐之后的结果。",
+            "themeIds": [
+              "knowledge",
+              "religion"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "huineng:evidence:007",
+                "titleZh": "《坛经》的灯与光比喻",
+                "summaryZh": "《坛经》以灯和光说明定慧一体，定是慧之体、慧是定之用，二者不能割裂为先后修行阶段。",
+                "source": {
+                  "workId": "huineng-platform-sutra",
+                  "locator": "Platform Sutra, meditation and wisdom as lamp and light",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "huineng:evidence:008",
+                "titleZh": "坐禅的非对象化解释",
+                "summaryZh": "《坛经》把坐禅解释为外不著境、内见自性不动，批评执著身体静止或观看心念的对象化修行。",
+                "source": {
+                  "workId": "huineng-platform-sutra",
+                  "locator": "Platform Sutra, non-literal account of seated meditation",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "huineng:problem:003",
+        "titleZh": "禅宗如何把经典语言转为日常解脱？",
+        "questionZh": "慧能传统怎样在般若、佛性和日常行动之间建立直接通道？",
+        "summaryZh": "《坛经》把般若从经典诵读转向当下心行，把佛性从形而上实体转向可在行住坐卧中体认的不执著实践。",
+        "themeIds": [
+          "religion",
+          "language",
+          "freedom"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "huineng:claim:005",
+            "titleZh": "般若在日用中展开",
+            "claimZh": "般若不是只在经典文字中，而是在一切境遇中不住相、不执我的行动能力。",
+            "explanationZh": "慧能传统因此能把佛教解脱语言本土化为直接、简明、面向日常的禅宗实践。",
+            "themeIds": [
+              "religion",
+              "freedom"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "huineng:evidence:009",
+                "titleZh": "《坛经》对般若品的展开",
+                "summaryZh": "《坛经》围绕摩诃般若波罗蜜说明心量广大和当下行持，把经典名相转为实践提醒与见性要求。",
+                "source": {
+                  "workId": "huineng-platform-sutra",
+                  "locator": "Platform Sutra, Prajnaparamita teachings",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "huineng:evidence:010",
+                "titleZh": "《坛经》的日常修行语境",
+                "summaryZh": "《坛经》把悟入落实到行住坐卧、在家出家和面对境界时的心行，不把解脱限于寺院仪式。",
+                "source": {
+                  "workId": "huineng-platform-sutra",
+                  "locator": "Platform Sutra, everyday practice and non-abiding",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "huineng:claim:006",
+            "titleZh": "语言可破执也可成执",
+            "claimZh": "偈颂、问答和经典解释能指向见性，但若执著文字和形式，也会遮蔽本性。",
+            "explanationZh": "这使慧能传统对语言保持双重态度：需要语言传法，又不断拆解语言对象化。",
+            "themeIds": [
+              "language",
+              "religion"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "huineng:evidence:011",
+                "titleZh": "偈颂竞争中的文字张力",
+                "summaryZh": "传法偈叙事一方面依靠诗句表达顿悟，另一方面又以无树无台等意象破除对修行对象的执著。",
+                "source": {
+                  "workId": "huineng-verses-patriarch",
+                  "locator": "Platform Sutra, verse contest as linguistic event",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "huineng:evidence:012",
+                "titleZh": "《坛经》版本增订的解释空间",
+                "summaryZh": "敦煌本到宗宝本的增订显示慧能教法不断被重新组织，语言传统本身成为禅宗身份生产的一部分。",
+                "source": {
+                  "workId": "huineng-zongbao-platform-sutra",
+                  "locator": "Platform Sutra redaction history and doctrinal organization",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "tier": "standard"
+}

@@ -1,0 +1,293 @@
+{
+  "id": "nkrumah",
+  "names": {
+    "zh": "恩克鲁玛",
+    "en": "Kwame Nkrumah"
+  },
+  "life": {
+    "birth": 1909,
+    "death": 1972,
+    "display": "1909—1972"
+  },
+  "civilization": "african",
+  "traditions": [
+    "pan_africanism",
+    "african_socialism",
+    "anti_imperialism"
+  ],
+  "periods": [
+    "expansion_b5"
+  ],
+  "themes": [
+    "politics",
+    "justice",
+    "freedom"
+  ],
+  "keywordsZh": [
+    "良知主义",
+    "泛非统一",
+    "新殖民主义",
+    "非洲社会主义",
+    "反帝国主义"
+  ],
+  "oneLineZh": "以良知主义、泛非统一和新殖民主义批判构成独立后非洲政治哲学的重要节点。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "恩克鲁玛把非洲传统、人道主义、社会主义和反帝国主义结合起来，主张政治独立必须继续完成经济与意识形态解放。",
+  "works": [
+    "nkrumah-consciencism",
+    "nkrumah-africa-must-unite",
+    "nkrumah-neo-colonialism",
+    "nkrumah-class-struggle-africa",
+    "nkrumah-handbook-revolutionary-warfare"
+  ],
+  "sourceNotes": [
+    {
+      "label": "Primary corpus note",
+      "url": "https://archive.org/details/neocolonialismla0000nkru",
+      "noteZh": "以《良知主义》《非洲必须统一》《新殖民主义》等文本为核心，关系线重点接杜波依斯、法农和维雷杜。"
+    }
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "nkrumah:problem:001",
+        "titleZh": "良知主义与非洲现代性",
+        "questionZh": "恩克鲁玛如何用良知主义组织非洲传统、宗教和社会主义之间的关系？",
+        "summaryZh": "恩克鲁玛的良知主义试图在独立后非洲重建意识形态，把传统共同体、人道主义和社会主义改造结合起来。",
+        "themeIds": [
+          "politics",
+          "ethics"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "nkrumah:claim:001",
+            "titleZh": "良知主义是综合性意识形态",
+            "claimZh": "恩克鲁玛把非洲传统、伊斯兰、基督教和社会主义放入一个面向解放的哲学框架。",
+            "explanationZh": "这条主张说明他不是只提出政治口号，而是在为独立国家寻找思想整合原则。",
+            "themeIds": [
+              "politics",
+              "ethics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "nkrumah:evidence:001",
+                "titleZh": "《良知主义》提出三重思想遗产",
+                "summaryZh": "文本把传统非洲社会、人道主义宗教和社会主义思想并置，要求新非洲在冲突遗产中形成统一的解放意识。",
+                "source": {
+                  "workId": "nkrumah-consciencism",
+                  "locator": "Consciencism, chapters on three strands in African society",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "nkrumah:evidence:002",
+                "titleZh": "《良知主义》把哲学服务于社会革命",
+                "summaryZh": "书中强调哲学必须为社会实践提供方向，使意识形态成为改变殖民遗产和阶级结构的组织力量。",
+                "source": {
+                  "workId": "nkrumah-consciencism",
+                  "locator": "Consciencism, philosophy and ideology in social revolution",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "nkrumah:claim:002",
+            "titleZh": "政治自由需要经济和思想解放",
+            "claimZh": "恩克鲁玛认为殖民地独立如果没有经济自主和意识形态重建，就仍然不完整。",
+            "explanationZh": "这使他的自由观超出宪法独立，转向政治经济结构和群众意识的双重变革。",
+            "themeIds": [
+              "freedom",
+              "justice"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "nkrumah:evidence:003",
+                "titleZh": "《良知主义》把解放置于社会结构中",
+                "summaryZh": "文本把个人意识、阶级关系和国家建设联系起来，说明独立后的自由必须改变殖民留下的社会组织方式。",
+                "source": {
+                  "workId": "nkrumah-consciencism",
+                  "locator": "Consciencism, ideology, class, and social reconstruction",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "nkrumah:evidence:004",
+                "titleZh": "《非洲必须统一》要求制度性联合",
+                "summaryZh": "书中认为分散国家容易被外部力量操纵，非洲自由需要通过大陆机构、共同经济和外交力量获得稳定支撑。",
+                "source": {
+                  "workId": "nkrumah-africa-must-unite",
+                  "locator": "Africa Must Unite, arguments for continental union and economic coordination",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "nkrumah:problem:002",
+        "titleZh": "泛非统一与国家主权限度",
+        "questionZh": "恩克鲁玛为什么认为单个民族国家不足以完成非洲解放？",
+        "summaryZh": "恩克鲁玛把非洲统一视为自由的制度条件，认为碎片化主权会让新独立国家继续暴露在外部资本和军事压力之下。",
+        "themeIds": [
+          "politics",
+          "freedom"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "nkrumah:claim:003",
+            "titleZh": "非洲统一是反帝国主义策略",
+            "claimZh": "恩克鲁玛主张非洲国家必须走向大陆联合，才能抵御外部支配并获得真正自主。",
+            "explanationZh": "这使泛非主义从文化团结转化为具体制度和战略问题。",
+            "themeIds": [
+              "politics",
+              "freedom"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "nkrumah:evidence:005",
+                "titleZh": "《非洲必须统一》论大陆机构必要性",
+                "summaryZh": "文本强调非洲国家若各自为政，将在经济、军事和外交上持续受制，因此统一不是理想口号而是生存条件。",
+                "source": {
+                  "workId": "nkrumah-africa-must-unite",
+                  "locator": "Africa Must Unite, case for union government and common institutions",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "nkrumah:evidence:006",
+                "titleZh": "《革命战争手册》组织反殖民战略",
+                "summaryZh": "书中把解放运动、组织纪律和跨国协作放在一起讨论，显示恩克鲁玛把泛非统一理解为实践力量。",
+                "source": {
+                  "workId": "nkrumah-handbook-revolutionary-warfare",
+                  "locator": "Handbook, revolutionary organization and Pan-African coordination",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "nkrumah:claim:004",
+            "titleZh": "杜波依斯传统被国家化和制度化",
+            "claimZh": "恩克鲁玛继承杜波依斯泛非主义，但把它推向国家建设、外交联盟和大陆治理方案。",
+            "explanationZh": "这条关系线补强用户要求的 Du Bois 等关系：它不是单纯思想相似，而有明确历史和政治承接。",
+            "themeIds": [
+              "politics",
+              "justice"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "nkrumah:evidence:007",
+                "titleZh": "泛非接受史连接杜波依斯与加纳",
+                "summaryZh": "研究资料通常强调杜波依斯晚年与加纳和恩克鲁玛政府的关系，说明泛非主义从会议传统进入国家实践。",
+                "source": {
+                  "workId": "nkrumah-africa-must-unite",
+                  "locator": "Reception context on Du Bois, Ghana, and Pan-Africanism",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "nkrumah:evidence:008",
+                "titleZh": "《非洲必须统一》把泛非主义制度化",
+                "summaryZh": "文本把民族解放后的目标设定为共同外交、共同防务和经济协调，使泛非主义获得制度设计维度。",
+                "source": {
+                  "workId": "nkrumah-africa-must-unite",
+                  "locator": "Africa Must Unite, institutional proposals for unity",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "nkrumah:problem:003",
+        "titleZh": "新殖民主义与后殖民依附",
+        "questionZh": "恩克鲁玛如何说明政治独立之后仍可能存在帝国主义支配？",
+        "summaryZh": "恩克鲁玛的新殖民主义理论指出，形式主权可能遮蔽资本、援助、贸易、军事和意识形态网络中的持续支配关系。",
+        "themeIds": [
+          "justice",
+          "politics"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "nkrumah:claim:005",
+            "titleZh": "新殖民主义是隐蔽的支配结构",
+            "claimZh": "恩克鲁玛认为帝国主义可以在不直接统治的情况下，通过经济和政治机制控制独立国家。",
+            "explanationZh": "这条主张让他与法农、弗莱雷和后殖民思想形成共享问题，而不仅是非洲国家史人物。",
+            "themeIds": [
+              "justice",
+              "politics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "nkrumah:evidence:009",
+                "titleZh": "《新殖民主义》分析形式独立后的控制",
+                "summaryZh": "文本指出新独立国家可能拥有国旗和政府，却在金融、投资、援助和贸易结构中继续受外部力量支配。",
+                "source": {
+                  "workId": "nkrumah-neo-colonialism",
+                  "locator": "Neo-Colonialism, opening analysis of formal independence and external control",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "nkrumah:evidence:010",
+                "titleZh": "《非洲的阶级斗争》连接阶级和帝国主义",
+                "summaryZh": "书中把非洲内部阶级力量同外部帝国主义关系结合分析，说明解放不是国家独立当天就完成的事件。",
+                "source": {
+                  "workId": "nkrumah-class-struggle-africa",
+                  "locator": "Class Struggle in Africa, class forces and imperialism",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "nkrumah:claim:006",
+            "titleZh": "解放需要群众意识和组织力量",
+            "claimZh": "恩克鲁玛把反新殖民主义斗争理解为意识、组织和经济结构共同改变的过程。",
+            "explanationZh": "这使他与弗莱雷的意识觉醒问题和法农的民族解放问题形成可比较的交叉点。",
+            "themeIds": [
+              "freedom",
+              "knowledge"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "nkrumah:evidence:011",
+                "titleZh": "《革命战争手册》强调组织和意识形态",
+                "summaryZh": "文本讨论革命组织、宣传和群众动员，显示反殖民斗争需要制度化力量而非单纯情绪反抗。",
+                "source": {
+                  "workId": "nkrumah-handbook-revolutionary-warfare",
+                  "locator": "Handbook, organization, ideology, and mass mobilization",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "nkrumah:evidence:012",
+                "titleZh": "《良知主义》回到意识形态教育",
+                "summaryZh": "书中把哲学和意识形态教育视为社会改造的前提，说明后殖民自由必须同时改变观念和制度结构。",
+                "source": {
+                  "workId": "nkrumah-consciencism",
+                  "locator": "Consciencism, ideology education and social transformation",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "tier": "standard"
+}

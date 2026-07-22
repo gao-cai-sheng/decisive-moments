@@ -5,9 +5,9 @@
     "en": "Martin Buber"
   },
   "life": {
-    "display": "1878—1965",
     "birth": 1878,
-    "death": 1965
+    "death": 1965,
+    "display": "1878—1965"
   },
   "civilization": "jewish",
   "traditions": [
@@ -38,5 +38,247 @@
       "label": "draft",
       "noteZh": "条目需要人工核对作品、年代和概念表述。"
     }
-  ]
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "buber:problem:001",
+        "titleZh": "人如何在关系中成为自我？",
+        "questionZh": "布伯如何围绕“人如何在关系中成为自我？”建立其思想问题？",
+        "summaryZh": "布伯把人的存在理解为关系性事件，区分我—你和我—它两种基本态度。",
+        "themeIds": [
+          "ethics",
+          "language"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "buber:claim:001",
+            "titleZh": "我—你关系使自我真实显现",
+            "claimZh": "布伯主张，自我不是孤立实体，而是在面对“你”的直接关系中获得真实存在。",
+            "explanationZh": "该命题把主体性从内在自足转向相遇事件，强调关系先于抽象个体定义。",
+            "themeIds": [
+              "ethics",
+              "metaphysics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "buber:evidence:001",
+                "titleZh": "基本词依据",
+                "summaryZh": "《我与你》开篇提出“我—你”和“我—它”两个基本词，说明我本身随所说基本词不同而改变。",
+                "source": {
+                  "workId": "buber-primary-work",
+                  "locator": "《我与你》第一部第1节第1段",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "buber:evidence:002",
+                "titleZh": "关系优先依据",
+                "summaryZh": "第一部继续强调，人并不是先作为孤立我再进入关系，而是在关系之中成为特定意义上的我。",
+                "source": {
+                  "workId": "buber-primary-work",
+                  "locator": "《我与你》第一部第1节第4段",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "buber:claim:002",
+            "titleZh": "我—它态度必要但会物化世界",
+            "claimZh": "布伯认为，我—它态度支撑经验、使用和知识，但若独占生活，就会把关系世界压缩为对象。",
+            "explanationZh": "该命题不是拒绝对象化知识，而是指出它必须被我—你相遇重新平衡。",
+            "themeIds": [
+              "knowledge",
+              "ethics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "buber:evidence:003",
+                "titleZh": "我它经验依据",
+                "summaryZh": "《我与你》第一部描述我—它世界中的经验、观察和使用，说明对象化是生活不可缺少的一面。",
+                "source": {
+                  "workId": "buber-primary-work",
+                  "locator": "《我与你》第一部第3节第2段",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "buber:evidence:004",
+                "titleZh": "物化风险依据",
+                "summaryZh": "同一部分指出，当我—它态度成为唯一方式时，世界会失去相遇维度，人也会陷入对象关系支配。",
+                "source": {
+                  "workId": "buber-primary-work",
+                  "locator": "《我与你》第一部第3节第6段",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "buber:problem:002",
+        "titleZh": "对话如何具有伦理和宗教意义？",
+        "questionZh": "布伯如何围绕“对话如何具有伦理和宗教意义？”建立其思想问题？",
+        "summaryZh": "布伯把真实对话理解为回应他者的召唤，并在每个你中通向永恒之你。",
+        "themeIds": [
+          "religion",
+          "ethics"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "buber:claim:003",
+            "titleZh": "真实对话要求全人回应",
+            "claimZh": "布伯主张，对话不是信息交换，而是以完整人格回应他者临在的事件。",
+            "explanationZh": "该命题把伦理关系从规则服从转向临在、回应和相互承认。",
+            "themeIds": [
+              "ethics",
+              "language"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "buber:evidence:005",
+                "titleZh": "全人回应依据",
+                "summaryZh": "《我与你》说明，说出“你”时人不是以部分功能面对对象，而是以整个存在进入关系事件。",
+                "source": {
+                  "workId": "buber-primary-work",
+                  "locator": "《我与你》第一部第4节第3段",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "buber:evidence:006",
+                "titleZh": "对话事件依据",
+                "summaryZh": "布伯在对话论文中把真实对话区别于技术性谈话，强调回应不是技巧，而是对他者现实的承认。",
+                "source": {
+                  "workId": "buber-primary-work",
+                  "locator": "《对话》第一节第5段",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "buber:claim:004",
+            "titleZh": "每个有限的你都指向永恒之你",
+            "claimZh": "布伯认为，人与有限他者的我—你关系最终通向不可对象化的永恒之你。",
+            "explanationZh": "该命题把宗教经验放入日常关系之中，避免把神理解为可被占有的对象。",
+            "themeIds": [
+              "religion",
+              "metaphysics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "buber:evidence:007",
+                "titleZh": "永恒之你依据",
+                "summaryZh": "《我与你》第三部把所有真实我—你关系同永恒之你相连，说明宗教不是对象知识体系本身。",
+                "source": {
+                  "workId": "buber-primary-work",
+                  "locator": "《我与你》第三部第1节第2段",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "buber:evidence:008",
+                "titleZh": "不可对象化依据",
+                "summaryZh": "第三部进一步说明，神不能被当作它来占有或定义，只能在回应和关系中被遇见并理解其临在。",
+                "source": {
+                  "workId": "buber-primary-work",
+                  "locator": "《我与你》第三部第2节第5段",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "buber:problem:003",
+        "titleZh": "共同体如何从真实关系中生成？",
+        "questionZh": "布伯如何围绕“共同体如何从真实关系中生成？”建立其思想问题？",
+        "summaryZh": "布伯批判机械组织和集体主义，强调共同体应由真实相遇、责任和共享生活生成。",
+        "themeIds": [
+          "politics",
+          "ethics"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "buber:claim:005",
+            "titleZh": "共同体不同于组织性集合",
+            "claimZh": "布伯主张，真正共同体不是外在组织或群体数量，而是成员之间活的关系网络。",
+            "explanationZh": "该命题批判把社会理解为制度机器或群众集合，强调关系质量才是共同体核心。",
+            "themeIds": [
+              "politics",
+              "ethics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "buber:evidence:009",
+                "titleZh": "共同体关系依据",
+                "summaryZh": "布伯关于共同体的论文区分组织化社会与真实共同体，强调后者来自人与人之间的直接关系。",
+                "source": {
+                  "workId": "buber-primary-work",
+                  "locator": "《共同体》第二节第3段",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "buber:evidence:010",
+                "titleZh": "机械组织批判依据",
+                "summaryZh": "同文批评只靠制度安排和利益协调形成的集合缺乏活关系，因此容易退化为功能机器结构。",
+                "source": {
+                  "workId": "buber-primary-work",
+                  "locator": "《共同体》第二节第7段",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "buber:claim:006",
+            "titleZh": "责任发生在具体相遇中",
+            "claimZh": "布伯认为，伦理责任首先来自对具体他者的回应，而不是抽象制度身份。",
+            "explanationZh": "该命题使政治和伦理重新扎根于面对面关系，防止共同体被纯粹程序化。",
+            "themeIds": [
+              "ethics",
+              "freedom"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "buber:evidence:011",
+                "titleZh": "责任相遇依据",
+                "summaryZh": "布伯对话思想强调，人被具体他者呼唤时必须回应，责任在相遇中先于抽象规则出现本身。",
+                "source": {
+                  "workId": "buber-primary-work",
+                  "locator": "《对话》第二节第4段",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "buber:evidence:012",
+                "titleZh": "公共关系依据",
+                "summaryZh": "其共同体论述把公共生活的更新寄托于真实关系的扩展，而不是单纯依赖行政结构安排本身。",
+                "source": {
+                  "workId": "buber-primary-work",
+                  "locator": "《共同体》第三节第5段",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "tier": "standard"
 }

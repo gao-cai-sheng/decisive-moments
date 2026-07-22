@@ -1,0 +1,46 @@
+{
+  "id": "isaac-luria",
+  "tier": "seed",
+  "names": {
+    "zh": "以撒·卢里亚",
+    "en": "Isaac Luria",
+    "native": "יצחק לוריא"
+  },
+  "life": {
+    "birth": 1534,
+    "death": 1572,
+    "display": "1534—1572"
+  },
+  "civilization": "jewish",
+  "traditions": [
+    "lurianic_kabbalah",
+    "jewish_mysticism"
+  ],
+  "periods": [
+    "seed_w8"
+  ],
+  "themes": [
+    "religion",
+    "metaphysics"
+  ],
+  "keywordsZh": [
+    "收缩",
+    "破碎",
+    "修复"
+  ],
+  "oneLineZh": "卢里亚卡巴拉核心人物，以收缩、器皿破碎和修复理论重塑近世犹太神秘主义。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "以撒·卢里亚（1534—1572）是 Seed W8 犹太文明补线候选。其身份层定位为：萨法德卡巴拉核心人物，围绕神圣收缩、器皿破碎与修复提出近世犹太神秘主义的重要框架；其教义多由弟子哈伊姆·维塔尔记录整理。本条仅作 seed 档基本定位，后续若升级标准档，必须重新做著作、论点与 evidence 研究。",
+  "works": [
+    "isaac-luria-etz-chaim",
+    "isaac-luria-shaar-ha-gilgulim"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S004",
+      "url": "https://www.encyclopedia.com/people/philosophy-and-religion/judaism-biographies/isaac-ben-solomon-luria",
+      "noteZh": "来源：Encyclopaedia Judaica / Isaac ben Solomon Luria；用于核验人物身份、1534—1572断代、卢里亚卡巴拉与弟子整理文本。"
+    }
+  ]
+}

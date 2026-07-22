@@ -1,0 +1,45 @@
+{
+  "id": "wang-chong",
+  "tier": "seed",
+  "names": {
+    "zh": "王充",
+    "en": "Wang Chong",
+    "native": "王充"
+  },
+  "life": {
+    "birth": 27,
+    "death": 97,
+    "display": "27—约97"
+  },
+  "civilization": "chinese",
+  "traditions": [
+    "han_confucianism",
+    "naturalism"
+  ],
+  "periods": [
+    "eastern_han"
+  ],
+  "themes": [
+    "knowledge",
+    "metaphysics"
+  ],
+  "keywordsZh": [
+    "论衡",
+    "疾虚妄",
+    "自然论"
+  ],
+  "oneLineZh": "东汉思想家，以《论衡》批判谶纬迷信和虚妄之说。",
+  "influenceWeight": 3,
+  "reviewStatus": "draft",
+  "summaryZh": "王充，会稽上虞人，东汉思想家，以《论衡》传世。他反复批评俗儒、谶纬、灾异和神怪解释，主张以事实、效验和自然生成理解天地人事。王充并非现代意义经验主义者，但其怀疑精神、反迷信论证和对气化自然的强调，使他成为中国思想史中理性批判传统的代表人物。",
+  "works": [
+    "wang-chong-lunheng"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S023",
+      "url": "https://ctext.org/lunheng",
+      "noteZh": "以《论衡》和《后汉书》支撑王充身份、作品和东汉思想定位。"
+    }
+  ]
+}

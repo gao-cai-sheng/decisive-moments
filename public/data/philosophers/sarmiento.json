@@ -1,0 +1,46 @@
+{
+  "id": "sarmiento",
+  "tier": "seed",
+  "names": {
+    "zh": "多明戈·萨米恩托",
+    "en": "Domingo Faustino Sarmiento"
+  },
+  "life": {
+    "birth": 1811,
+    "death": 1888,
+    "display": "1811—1888"
+  },
+  "civilization": "latin_american",
+  "traditions": [
+    "latin_american_liberalism",
+    "positivism"
+  ],
+  "periods": [
+    "seed_w9"
+  ],
+  "themes": [
+    "politics",
+    "knowledge",
+    "justice"
+  ],
+  "keywordsZh": [
+    "文明与野蛮",
+    "教育",
+    "国家建设"
+  ],
+  "oneLineZh": "阿根廷思想家，《法昆多》以文明/野蛮框架塑造19世纪拉美现代化论述。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "萨米恩托以《法昆多》把政治秩序、教育和社会类型问题压缩为‘文明与野蛮’的拉美现代化叙事，是19世纪国家建构与实证主义前后问题域的重要节点。",
+  "works": [
+    "sarmiento-facundo",
+    "sarmiento-conflicto-armonias"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S001",
+      "url": "https://plato.stanford.edu/entries/latin-american-philosophy/",
+      "noteZh": "SEP Latin American Philosophy 条目将 Sarmiento 列入拉美民族建构和实证主义时期的重要人物。"
+    }
+  ]
+}

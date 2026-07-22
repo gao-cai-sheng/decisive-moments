@@ -1,0 +1,54 @@
+{
+  "id": "gregory-palamas",
+  "tier": "seed",
+  "names": {
+    "zh": "格里高利·帕拉马斯",
+    "en": "Gregory Palamas",
+    "native": "Γρηγόριος Παλαμᾶς"
+  },
+  "life": {
+    "birth": 1296,
+    "death": 1359,
+    "display": "1296—1359"
+  },
+  "civilization": "eastern_orthodox",
+  "traditions": [
+    "hesychasm",
+    "late_byzantine_theology",
+    "orthodox_mysticism"
+  ],
+  "periods": [
+    "seed_w12",
+    "byzantine"
+  ],
+  "themes": [
+    "religion",
+    "metaphysics",
+    "knowledge"
+  ],
+  "keywordsZh": [
+    "静修主义",
+    "本质/能质之分",
+    "为静修者辩护",
+    "神圣之光"
+  ],
+  "oneLineZh": "晚期拜占庭静修主义神学家，以本质/能质之分和《为静修者辩护》组织东正教神秘经验论证。",
+  "influenceWeight": 3,
+  "reviewStatus": "draft",
+  "summaryZh": "格里高利·帕拉马斯在静修主义论争中为神圣之光经验和本质/能质之分辩护，成为东正教神秘神学的重要节点。本 seed 档按生产口径只挂 Symeon 与 Augustine，避免 Pseudo-Dionysius 和 Maximus 超限。",
+  "works": [
+    "palamas-triads"
+  ],
+  "sourceNotes": [
+    {
+      "label": "W12-B3-S001",
+      "url": "https://iep.utm.edu/byz-phil/",
+      "noteZh": "IEP Byzantine Philosophy 总论用于核验晚期拜占庭静修主义和 Palamas 在东正教思想中的位置。"
+    },
+    {
+      "label": "W12-B3-S002",
+      "url": "https://www.britannica.com/biography/Saint-Gregory-Palamas",
+      "noteZh": "Britannica Palamas 条目用于核验其生卒、静修主义、本质/能质之分和《为静修者辩护》口径。"
+    }
+  ]
+}

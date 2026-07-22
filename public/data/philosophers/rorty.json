@@ -1,0 +1,293 @@
+{
+  "id": "rorty",
+  "names": {
+    "zh": "罗蒂",
+    "en": "Richard Rorty"
+  },
+  "life": {
+    "birth": 1931,
+    "death": 2007,
+    "display": "1931—2007"
+  },
+  "civilization": "american",
+  "traditions": [
+    "pragmatism",
+    "neopragmatism",
+    "anti_representationalism"
+  ],
+  "periods": [
+    "expansion_c1"
+  ],
+  "themes": [
+    "language",
+    "knowledge",
+    "politics"
+  ],
+  "keywordsZh": [
+    "新实用主义",
+    "反表象主义",
+    "词汇",
+    "自由主义反讽",
+    "民主希望"
+  ],
+  "oneLineZh": "以反表象主义和新实用主义把分析哲学、德威传统和自由民主文化重新连接。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "罗蒂批判心灵镜像和哲学基础主义，把真理、知识和政治希望改写为词汇转换、团结和民主文化实践。",
+  "works": [
+    "rorty-philosophy-mirror-nature",
+    "rorty-consequences-pragmatism",
+    "rorty-contingency-irony-solidarity",
+    "rorty-objectivity-relativism-truth",
+    "rorty-achieving-our-country"
+  ],
+  "sourceNotes": [
+    {
+      "label": "Primary corpus note",
+      "url": "https://plato.stanford.edu/entries/rorty/",
+      "noteZh": "以罗蒂主要著作为核心；二手来源只校对德威、蒯因、普特南和哈贝马斯关系。"
+    }
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "rorty:problem:001",
+        "titleZh": "反表象主义与认识论终结",
+        "questionZh": "罗蒂为什么要拆解把心灵理解为自然镜像的哲学图像？",
+        "summaryZh": "罗蒂认为近代认识论把心灵、语言和真理误设为表象准确性问题，哲学因此陷入寻找基础和裁判者的职业幻觉。",
+        "themeIds": [
+          "knowledge",
+          "language"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "rorty:claim:001",
+            "titleZh": "心灵镜像图像制造基础主义",
+            "claimZh": "罗蒂批判心灵作为自然之镜的图像，认为它让哲学误以为知识必须由中立表象基础担保。",
+            "explanationZh": "这条主张将罗蒂接到笛卡尔、洛克、康德和分析哲学认识论之后，解释其反表象主义的破坏性。",
+            "themeIds": [
+              "knowledge",
+              "language"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "rorty:evidence:001",
+                "titleZh": "《哲学与自然之镜》拆解认识论传统",
+                "summaryZh": "书中把近代认识论叙述为心灵表象、确定性和基础寻找的历史，并主张这种框架不再是哲学的必要任务。",
+                "source": {
+                  "workId": "rorty-philosophy-mirror-nature",
+                  "locator": "Philosophy and the Mirror of Nature, critique of epistemology and mirroring",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "rorty:evidence:002",
+                "titleZh": "维特根斯坦、海德格尔和杜威并列",
+                "summaryZh": "文本把三人作为脱离镜像哲学的资源：语言游戏、存在论批判和实用主义共同削弱知识基础的图像。",
+                "source": {
+                  "workId": "rorty-philosophy-mirror-nature",
+                  "locator": "Philosophy and the Mirror of Nature, concluding therapeutic figures",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "rorty:claim:002",
+            "titleZh": "哲学应从裁判者变为文化对话者",
+            "claimZh": "罗蒂认为哲学不应充当知识合法性的最高法庭，而应参与不同词汇之间的文化对话。",
+            "explanationZh": "这使他将哲学职业角色从基础理论转向解释、重述和公共希望的语言实践。",
+            "themeIds": [
+              "language",
+              "politics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "rorty:evidence:003",
+                "titleZh": "《实用主义的后果》论后哲学文化",
+                "summaryZh": "论文集主张放弃哲学作为基础学科的自我形象，把哲学看作帮助文化重新描述自身的一种写作实践。",
+                "source": {
+                  "workId": "rorty-consequences-pragmatism",
+                  "locator": "Consequences of Pragmatism, essays on post-philosophical culture",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "rorty:evidence:004",
+                "titleZh": "《客观性、相对主义与真理》重写客观性",
+                "summaryZh": "书中把客观性从对应独立实在的镜像关系，转向共同体中可辩护、可继续交谈的实践标准。",
+                "source": {
+                  "workId": "rorty-objectivity-relativism-truth",
+                  "locator": "Objectivity, Relativism, and Truth, essays on objectivity and solidarity",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "rorty:problem:002",
+        "titleZh": "偶然性、反讽与自由主义",
+        "questionZh": "罗蒂如何把语言偶然性与自由民主政治联系起来？",
+        "summaryZh": "罗蒂把自我、语言和共同体理解为偶然形成的词汇，同时要求自由主义政治以减少残酷和扩大团结为核心。",
+        "themeIds": [
+          "language",
+          "politics"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "rorty:claim:003",
+            "titleZh": "终极词汇没有形而上学担保",
+            "claimZh": "罗蒂认为人的自我理解依赖偶然获得的终极词汇，不能由超历史本质或理性结构最终证明。",
+            "explanationZh": "这一主张把尼采式自我创造和自由主义公共伦理放在同一框架中，但不把私人创造等同公共正义。",
+            "themeIds": [
+              "language",
+              "freedom"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "rorty:evidence:005",
+                "titleZh": "《偶然性、反讽与团结》论语言偶然性",
+                "summaryZh": "文本通过语言和自我形成的偶然性说明，我们没有最后词汇的非循环证明，只能在重述中改变自我理解。",
+                "source": {
+                  "workId": "rorty-contingency-irony-solidarity",
+                  "locator": "Contingency, Irony, and Solidarity, chapters on contingency of language and selfhood",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "rorty:evidence:006",
+                "titleZh": "自由主义反讽者的双重姿态",
+                "summaryZh": "书中塑造的自由主义反讽者既怀疑自己的终极词汇，又坚持避免残酷和羞辱的公共承诺，由此分开私人自我创造和公共政治责任。",
+                "source": {
+                  "workId": "rorty-contingency-irony-solidarity",
+                  "locator": "Contingency, Irony, and Solidarity, liberal ironist chapters",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "rorty:claim:004",
+            "titleZh": "团结来自叙事扩展而非本质发现",
+            "claimZh": "罗蒂认为道德进步更多依赖文学、叙事和同情扩展，而不是发现人性的共同本质。",
+            "explanationZh": "这使他的政治伦理重视文化想象力，将正义推进理解为我们愿意把更多人纳入我们之中的过程。",
+            "themeIds": [
+              "ethics",
+              "politics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "rorty:evidence:007",
+                "titleZh": "团结章节强调残酷可见性",
+                "summaryZh": "《偶然性、反讽与团结》把小说和报道视为让他人痛苦变得可见的媒介，从而扩展我们对残酷的敏感性。",
+                "source": {
+                  "workId": "rorty-contingency-irony-solidarity",
+                  "locator": "Contingency, Irony, and Solidarity, chapters on cruelty and solidarity",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "rorty:evidence:008",
+                "titleZh": "公共希望不依赖哲学基础",
+                "summaryZh": "文本把自由社会的希望建立在持续重述和制度实践上，而不是对人性、理性或历史目的的终极证明。",
+                "source": {
+                  "workId": "rorty-contingency-irony-solidarity",
+                  "locator": "Contingency, Irony, and Solidarity, public hope and liberal culture",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "rorty:problem:003",
+        "titleZh": "实用主义、民主与左翼文化",
+        "questionZh": "罗蒂晚期如何把哲学转向民主政治和公共文化？",
+        "summaryZh": "罗蒂晚期用实用主义为民主希望辩护，批判学术左翼沉溺旁观式理论，主张重新连接改革政治和民族公共叙事。",
+        "themeIds": [
+          "politics",
+          "knowledge"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "rorty:claim:005",
+            "titleZh": "德威传统提供民主实验主义",
+            "claimZh": "罗蒂把德威解释为反基础主义民主哲学家，认为真理和制度都应在公共实验中被改进。",
+            "explanationZh": "这条主张使罗蒂不是简单相对主义者，而是把知识问题转向民主生活的实践修辞。",
+            "themeIds": [
+              "knowledge",
+              "politics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "rorty:evidence:009",
+                "titleZh": "《实用主义的后果》重估德威",
+                "summaryZh": "论文集将德威塑造成后形而上学民主哲学资源，强调知识和价值都应服从公共解决问题的实践。",
+                "source": {
+                  "workId": "rorty-consequences-pragmatism",
+                  "locator": "Consequences of Pragmatism, essays on Dewey and pragmatism",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "rorty:evidence:010",
+                "titleZh": "《客观性、相对主义与真理》回应实用主义批评",
+                "summaryZh": "书中把真理论争重新导向辩护实践和共同体希望，说明实用主义不需要超越历史的认识论基础。",
+                "source": {
+                  "workId": "rorty-objectivity-relativism-truth",
+                  "locator": "Objectivity, Relativism, and Truth, pragmatism and truth essays",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "rorty:claim:006",
+            "titleZh": "公共左翼需要希望叙事",
+            "claimZh": "罗蒂批评旁观式文化左翼失去改革热情，主张重新讲述民主国家可以变好的公共故事。",
+            "explanationZh": "这一主张将哲学写作带入政治修辞，说明社会批判若没有希望和组织目标，会变成无行动力的优越感。",
+            "themeIds": [
+              "politics",
+              "freedom"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "rorty:evidence:011",
+                "titleZh": "《成就我们的国家》批判旁观左翼",
+                "summaryZh": "书中区分改革左翼和文化左翼，认为后者擅长揭露压迫却缺少把公民动员到具体改革中的希望语言。",
+                "source": {
+                  "workId": "rorty-achieving-our-country",
+                  "locator": "Achieving Our Country, chapters on reformist and cultural left",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "rorty:evidence:012",
+                "titleZh": "民族叙事成为民主修辞资源",
+                "summaryZh": "文本重新调用惠特曼和杜威式美国叙事，把国家想象理解为激发平等改革的工具，而不是形而上学身份。",
+                "source": {
+                  "workId": "rorty-achieving-our-country",
+                  "locator": "Achieving Our Country, Whitman, Dewey, and democratic hope",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "tier": "standard"
+}

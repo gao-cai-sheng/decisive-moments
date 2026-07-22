@@ -1,0 +1,43 @@
+{
+  "id": "george-herbert-mead",
+  "tier": "seed",
+  "names": {
+    "zh": "乔治·赫伯特·米德",
+    "en": "George Herbert Mead"
+  },
+  "life": {
+    "birth": 1863,
+    "death": 1931,
+    "display": "1863—1931"
+  },
+  "civilization": "western",
+  "traditions": [
+    "western_philosophy"
+  ],
+  "periods": [
+    "modern"
+  ],
+  "themes": [
+    "politics",
+    "knowledge"
+  ],
+  "keywordsZh": [
+    "身份层",
+    "二线哲人",
+    "思想史补线"
+  ],
+  "oneLineZh": "社会行为主义与自我理论代表，可补实用主义社会心理学线索。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "乔治·赫伯特·米德（1863—1931）是 W2 欧陆与英美近现代二线哲人候选。其身份层入选理由为：社会行为主义与自我理论代表，可补实用主义社会心理学线索。 本条仅作 seed 档基本定位，后续若升级标准档，需要重新做著作、论点与 evidence 研究。",
+  "works": [
+    "george-herbert-mead-mind-self-society",
+    "george-herbert-mead-philosophy-of-the-present"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S007",
+      "noteZh": "权威来源条目：SEP: George Herbert Mead；用于核验人物身份、生卒、代表著作和思想史定位。"
+    }
+  ]
+}

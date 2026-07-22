@@ -1,0 +1,45 @@
+{
+  "id": "dong-zhongshu",
+  "tier": "seed",
+  "names": {
+    "zh": "董仲舒",
+    "en": "Dong Zhongshu",
+    "native": "董仲舒"
+  },
+  "life": {
+    "birth": -179,
+    "death": -104,
+    "display": "约前179—前104"
+  },
+  "civilization": "chinese",
+  "traditions": [
+    "confucianism",
+    "han_confucianism"
+  ],
+  "periods": [
+    "western_han"
+  ],
+  "themes": [
+    "politics",
+    "metaphysics"
+  ],
+  "keywordsZh": [
+    "春秋繁露",
+    "天人感应",
+    "汉儒"
+  ],
+  "oneLineZh": "西汉儒家代表，将春秋学、阴阳五行与王朝政治结合。",
+  "influenceWeight": 3,
+  "reviewStatus": "draft",
+  "summaryZh": "董仲舒，西汉广川人，是汉代儒学制度化的关键人物之一。《汉书》记其以春秋学应对武帝策问，后世常以“罢黜百家、独尊儒术”概括其政治影响。《春秋繁露》题名传统体现天人感应、阴阳五行、王道政治与经学解释的结合，使董仲舒成为汉儒国家理论的核心节点。",
+  "works": [
+    "dong-zhongshu-chunqiu-fanlu"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S021",
+      "url": "https://ctext.org/chun-qiu-fan-lu",
+      "noteZh": "以《春秋繁露》和《汉书》支撑董仲舒身份、作品和汉儒地位。"
+    }
+  ]
+}

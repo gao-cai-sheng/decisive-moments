@@ -1,0 +1,43 @@
+{
+  "id": "ernst-troeltsch",
+  "tier": "seed",
+  "names": {
+    "zh": "恩斯特·特勒尔奇",
+    "en": "Ernst Troeltsch"
+  },
+  "life": {
+    "birth": 1865,
+    "death": 1923,
+    "display": "1865—1923"
+  },
+  "civilization": "western",
+  "traditions": [
+    "christian_philosophy"
+  ],
+  "periods": [
+    "modern"
+  ],
+  "themes": [
+    "religion",
+    "knowledge"
+  ],
+  "keywordsZh": [
+    "宗教哲学",
+    "宗教哲学",
+    "身份层"
+  ],
+  "oneLineZh": "历史主义与宗教哲学代表，可补狄尔泰、韦伯与神学现代性接口。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "恩斯特·特勒尔奇（1865—1923）是 W2 欧陆与英美近现代二线哲人候选。其身份层入选理由为：历史主义与宗教哲学代表，可补狄尔泰、韦伯与神学现代性接口。 本条仅作 seed 档基本定位，后续若升级标准档，需要重新做著作、论点与 evidence 研究。",
+  "works": [
+    "ernst-troeltsch-social-teaching-churches",
+    "ernst-troeltsch-absoluteness-of-christianity"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S007",
+      "noteZh": "权威来源条目：Routledge Encyclopedia of Philosophy: Troeltsch, Ernst；用于核验人物身份、生卒、代表著作和思想史定位。"
+    }
+  ]
+}

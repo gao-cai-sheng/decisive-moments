@@ -1,0 +1,46 @@
+{
+  "id": "zengzi",
+  "tier": "seed",
+  "names": {
+    "zh": "曾子",
+    "en": "Zengzi",
+    "native": "曾參"
+  },
+  "life": {
+    "birth": -505,
+    "death": -435,
+    "display": "约前505—约前435"
+  },
+  "civilization": "chinese",
+  "traditions": [
+    "confucianism"
+  ],
+  "periods": [
+    "spring_autumn",
+    "warring_states"
+  ],
+  "themes": [
+    "ethics",
+    "knowledge"
+  ],
+  "keywordsZh": [
+    "孝道",
+    "孔门",
+    "大学"
+  ],
+  "oneLineZh": "孔门后学中以孝道、慎独与修身传承著称的儒家人物。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "曾子，名参，鲁国人，孔门弟子，后世常把他置于孔子道统传承的重要环节。《论语》保存其“三省吾身”“士不可以不弘毅”等语，孝道与慎独修身成为其形象核心。《大学》传统又使曾子与由个人修养通向家国秩序的儒家框架相连，影响宋明理学对入德工夫的理解。",
+  "works": [
+    "zengzi-daxue",
+    "zengzi-analects"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S002",
+      "url": "https://ctext.org/analects",
+      "noteZh": "以《论语》曾子章句和《大学》传统支撑曾子身份层。"
+    }
+  ]
+}

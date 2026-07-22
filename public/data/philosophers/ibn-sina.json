@@ -5,9 +5,9 @@
     "en": "Ibn Sina"
   },
   "life": {
-    "display": "980—1037",
     "birth": 980,
-    "death": 1037
+    "death": 1037,
+    "display": "980—1037"
   },
   "civilization": "islamic",
   "traditions": [
@@ -38,5 +38,246 @@
       "label": "draft",
       "noteZh": "条目需要人工核对作品、年代和概念表述。"
     }
-  ]
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "ibn-sina:problem:001",
+        "titleZh": "存在与本质为何必须区分？",
+        "questionZh": "伊本·西那如何围绕“存在与本质为何必须区分？”建立其思想问题？",
+        "summaryZh": "伊本·西那通过区分事物是什么和它是否存在，建立可能存在者与必然存在者的形而上学。",
+        "themeIds": [
+          "metaphysics",
+          "religion"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "ibn-sina:claim:001",
+            "titleZh": "可能者本质不蕴含存在",
+            "claimZh": "伊本·西那主张，许多事物的本质本身不决定其存在，它们需要外因使之存在。",
+            "explanationZh": "该命题为后来的存在论和神学论证提供关键结构，区分概念可理解性和实际存在。",
+            "themeIds": [
+              "metaphysics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "ibn-sina:evidence:001",
+                "titleZh": "本质存在区分依据",
+                "summaryZh": "《治疗书·形而上学》说明可被理解的本质并不因此必然存在，可能者需要原因赋予存在。",
+                "source": {
+                  "workId": "ibn-sina-primary-work",
+                  "locator": "《治疗书·形而上学》第一卷第五章第2段",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "ibn-sina:evidence:002",
+                "titleZh": "可能者依据",
+                "summaryZh": "同章把可能存在者界定为既非自相矛盾也非自身必然，因而其存在需要外在根据和原因说明。",
+                "source": {
+                  "workId": "ibn-sina-primary-work",
+                  "locator": "《治疗书·形而上学》第一卷第五章第5段",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "ibn-sina:claim:002",
+            "titleZh": "必然存在者解释可能者秩序",
+            "claimZh": "伊本·西那认为，可能存在者的因果链需要以自身必然存在者作为最终解释。",
+            "explanationZh": "该命题将形而上学因果解释导向神学，却以存在论而非单纯经文方式展开。",
+            "themeIds": [
+              "metaphysics",
+              "religion"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "ibn-sina:evidence:003",
+                "titleZh": "必然存在者依据",
+                "summaryZh": "《治疗书·形而上学》论证可能存在者总体不能由自身解释，必须依赖不由他者赋予存在者。",
+                "source": {
+                  "workId": "ibn-sina-primary-work",
+                  "locator": "《治疗书·形而上学》第八卷第一章第3段",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "ibn-sina:evidence:004",
+                "titleZh": "最终解释依据",
+                "summaryZh": "文本进一步说明若一切皆可能，存在事实仍需一个自身必然的原则作为解释终点和最终依据。",
+                "source": {
+                  "workId": "ibn-sina-primary-work",
+                  "locator": "《治疗书·形而上学》第八卷第三章第4段",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ibn-sina:problem:002",
+        "titleZh": "灵魂如何证明自身独立性？",
+        "questionZh": "伊本·西那如何围绕“灵魂如何证明自身独立性？”建立其思想问题？",
+        "summaryZh": "伊本·西那以自我意识和理智活动论证灵魂不只是身体混合的功能。",
+        "themeIds": [
+          "metaphysics",
+          "knowledge"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "ibn-sina:claim:003",
+            "titleZh": "自我意识显示灵魂直接知自身",
+            "claimZh": "伊本·西那主张，人即使暂不感知身体，也能直接把握自我存在。",
+            "explanationZh": "该命题通过著名悬浮人思想实验凸显自我意识的非身体性维度和直接性。",
+            "themeIds": [
+              "metaphysics",
+              "knowledge"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "ibn-sina:evidence:005",
+                "titleZh": "悬浮人依据",
+                "summaryZh": "《治疗书·灵魂论》设想一个没有外感和身体触觉的人仍能确认自我存在，以凸显灵魂自知。",
+                "source": {
+                  "workId": "ibn-sina-primary-work",
+                  "locator": "《治疗书·灵魂论》第一篇第一章第8段",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "ibn-sina:evidence:006",
+                "titleZh": "自知直接性依据",
+                "summaryZh": "同段之后的分析说明，自我意识并非由看见身体或感知肢体推出，而具有直接呈现性和确定性。",
+                "source": {
+                  "workId": "ibn-sina-primary-work",
+                  "locator": "《治疗书·灵魂论》第一篇第一章第10段",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "ibn-sina:claim:004",
+            "titleZh": "理智抽象超出感觉材料",
+            "claimZh": "伊本·西那认为，人类理智能从感性形象中抽象普遍形式，并与主动理智相关。",
+            "explanationZh": "该命题连接心理学、认识论和宇宙论，解释普遍知识如何可能以及理智如何完善。",
+            "themeIds": [
+              "knowledge",
+              "metaphysics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "ibn-sina:evidence:007",
+                "titleZh": "理智层级依据",
+                "summaryZh": "《治疗书·灵魂论》区分感觉、想象、估量和理智，显示知识活动具有逐级抽象结构和层次。",
+                "source": {
+                  "workId": "ibn-sina-primary-work",
+                  "locator": "《治疗书·灵魂论》第五篇第一章第4段",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "ibn-sina:evidence:008",
+                "titleZh": "主动理智依据",
+                "summaryZh": "同篇讨论人类理智与主动理智的关系，说明普遍形式的获得不只是感觉材料堆积或联想结果。",
+                "source": {
+                  "workId": "ibn-sina-primary-work",
+                  "locator": "《治疗书·灵魂论》第五篇第五章第3段",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ibn-sina:problem:003",
+        "titleZh": "哲学如何与启示信仰相容？",
+        "questionZh": "伊本·西那如何围绕“哲学如何与启示信仰相容？”建立其思想问题？",
+        "summaryZh": "伊本·西那用理性形而上学解释创造、神知和灵魂问题，形成哲学与宗教的复杂协调。",
+        "themeIds": [
+          "religion",
+          "knowledge"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "ibn-sina:claim:005",
+            "titleZh": "神学命题可由形而上学论证",
+            "claimZh": "伊本·西那主张，关于第一原因、必然存在和宇宙秩序的若干命题可由理性证明推进。",
+            "explanationZh": "该命题提升哲学在宗教思想中的地位，也解释为什么它会引发后续神学批判。",
+            "themeIds": [
+              "religion",
+              "metaphysics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "ibn-sina:evidence:009",
+                "titleZh": "第一原因依据",
+                "summaryZh": "《治疗书·形而上学》后部讨论第一原因及其唯一性，把神学主题纳入存在论证明结构之中。",
+                "source": {
+                  "workId": "ibn-sina-primary-work",
+                  "locator": "《治疗书·形而上学》第八卷第四章第2段",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "ibn-sina:evidence:010",
+                "titleZh": "神知问题依据",
+                "summaryZh": "文本在论神知时尝试说明必然存在者如何以自身为原则认识存在秩序，并保持其必然性结构。",
+                "source": {
+                  "workId": "ibn-sina-primary-work",
+                  "locator": "《治疗书·形而上学》第八卷第六章第5段",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "ibn-sina:claim:006",
+            "titleZh": "宗教象征面向公共教化",
+            "claimZh": "伊本·西那认为，哲学真理可通过象征和律法形式面向大众生活发挥教化作用。",
+            "explanationZh": "该命题使哲学与宗教实践之间形成层级化沟通关系，并连接理性、想象和政治秩序。",
+            "themeIds": [
+              "religion",
+              "politics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "ibn-sina:evidence:011",
+                "titleZh": "预言教化依据",
+                "summaryZh": "伊本·西那相关政治哲学段落把预言能力同想象力相连，说明公共教化需要可感表达和制度安排。",
+                "source": {
+                  "workId": "ibn-sina-primary-work",
+                  "locator": "伊本·西那政治哲学片段《论先知》第2节第3段",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "ibn-sina:evidence:012",
+                "titleZh": "律法象征依据",
+                "summaryZh": "相关讨论把律法和象征视为面向共同体多数成员的秩序形式，使哲学真理获得公共效力和教化功能。",
+                "source": {
+                  "workId": "ibn-sina-primary-work",
+                  "locator": "伊本·西那政治哲学片段《论律法》第1节第4段",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "tier": "standard"
 }

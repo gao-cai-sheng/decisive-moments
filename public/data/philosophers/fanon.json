@@ -1,0 +1,293 @@
+{
+  "id": "fanon",
+  "names": {
+    "zh": "法农",
+    "en": "Frantz Fanon"
+  },
+  "life": {
+    "birth": 1925,
+    "death": 1961,
+    "display": "1925—1961"
+  },
+  "civilization": "global_south_modern",
+  "traditions": [
+    "postcolonial_theory",
+    "black_radical_thought",
+    "psychiatry_and_politics"
+  ],
+  "periods": [
+    "expansion_e6"
+  ],
+  "themes": [
+    "justice",
+    "politics",
+    "freedom"
+  ],
+  "keywordsZh": [
+    "殖民心理",
+    "主体形成",
+    "民族解放",
+    "后殖民"
+  ],
+  "oneLineZh": "以殖民心理分析和民族解放理论连接存在主义与后殖民思想。",
+  "influenceWeight": 3,
+  "reviewStatus": "draft",
+  "summaryZh": "法农把精神病学、黑人经验和反殖民政治结合起来，分析殖民关系如何塑造身体、语言和主体经验。",
+  "works": [
+    "fanon-black-skin-white-masks",
+    "fanon-wretched-earth",
+    "fanon-dying-colonialism",
+    "fanon-toward-african-revolution",
+    "fanon-alienation-freedom",
+    "fanon-studies-dying-colonialism"
+  ],
+  "sourceNotes": [
+    {
+      "label": "SEP",
+      "url": "https://plato.stanford.edu/entries/frantz-fanon/",
+      "noteZh": "核对生平、殖民心理、去殖民政治和后世影响。"
+    }
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "fanon:problem:001",
+        "titleZh": "殖民种族化与主体异化",
+        "questionZh": "法农如何说明殖民种族秩序不是外在偏见，而是进入身体、语言和欲望结构的异化机制？",
+        "summaryZh": "法农把精神分析、现象学和殖民经验结合起来，揭示被殖民主体如何在白人凝视和殖民语言中被迫异化。",
+        "themeIds": [
+          "justice",
+          "knowledge"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "fanon:claim:001",
+            "titleZh": "殖民凝视制造身体图式断裂",
+            "claimZh": "法农认为种族化凝视会打断黑人的身体图式，使主体不再以开放行动进入世界，而是在白人想象中被固定为对象。",
+            "explanationZh": "这条主张使他的种族理论不同于一般偏见批判：殖民权力直接塑造身体经验和自我关系。",
+            "themeIds": [
+              "justice",
+              "life_death"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "fanon:evidence:001",
+                "titleZh": "《黑皮肤，白面具》第五章的身体图式",
+                "summaryZh": "第五章描述儿童喊叫和白人凝视如何使黑人身体被外部种族意义包围，形成断裂的身体经验。",
+                "source": {
+                  "workId": "fanon-black-skin-white-masks",
+                  "locator": "Chapter 5, lived experience of the Black man and corporeal schema",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "fanon:evidence:002",
+                "titleZh": "《异化与自由》中的临床材料",
+                "summaryZh": "临床和政治精神医学材料显示，殖民暴力不只是观念支配，也在焦虑、创伤和机构关系中重组主体。",
+                "source": {
+                  "workId": "fanon-alienation-freedom",
+                  "locator": "Clinical writings on alienation, colonial psychiatry, and freedom",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "fanon:claim:002",
+            "titleZh": "语言同化暴露殖民承认陷阱",
+            "claimZh": "他分析黑人使用宗主国语言的欲望，指出语言同化常被误认为获得人性承认，但实际上会加深对白人规范的依附。",
+            "explanationZh": "这条主张把语言、欲望和政治承认连在一起，是理解后殖民主体形成的重要入口。",
+            "themeIds": [
+              "language",
+              "justice"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "fanon:evidence:003",
+                "titleZh": "《黑皮肤，白面具》第一章论语言",
+                "summaryZh": "第一章分析安的列斯人与法语的关系，指出说宗主国语言意味着进入白人文化评价体系，并追求殖民式承认。",
+                "source": {
+                  "workId": "fanon-black-skin-white-masks",
+                  "locator": "Chapter 1, the Black man and language",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "fanon:evidence:004",
+                "titleZh": "《走向非洲革命》论种族主义与文化",
+                "summaryZh": "《种族主义与文化》把种族主义解释为文化整体和殖民支配的功能，而不是孤立心理态度。",
+                "source": {
+                  "workId": "fanon-toward-african-revolution",
+                  "locator": "Essay Racism and Culture",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "fanon:problem:002",
+        "titleZh": "暴力、解放与民族意识",
+        "questionZh": "法农为何把反殖民暴力、群众组织和民族意识危机放在同一革命问题中？",
+        "summaryZh": "在法农那里，暴力不是抽象美化对象，而是殖民分区世界的结构事实；解放必须进一步转化为群众政治和新社会建设。",
+        "themeIds": [
+          "politics",
+          "freedom"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "fanon:claim:003",
+            "titleZh": "殖民世界本身以暴力分区",
+            "claimZh": "法农把殖民社会描述为警察、军营和种族边界维持的分隔世界，因此反殖民暴力首先回应的是既有暴力秩序。",
+            "explanationZh": "这条主张解释他与自由主义渐进改革的紧张：殖民世界不承认共同公共空间。",
+            "themeIds": [
+              "politics",
+              "justice"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "fanon:evidence:005",
+                "titleZh": "《大地上的受苦者》第一章论殖民分区",
+                "summaryZh": "第一章从殖民城市、警察和军营写起，说明殖民空间已经由暴力划分，解殖不能只靠劝说完成。",
+                "source": {
+                  "workId": "fanon-wretched-earth",
+                  "locator": "Chapter 1, Concerning Violence, colonial compartmentalization",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "fanon:evidence:006",
+                "titleZh": "《垂死的殖民主义》论电台和斗争组织",
+                "summaryZh": "关于阿尔及利亚电台的分析显示，技术和日常生活会在解放斗争中被重新组织为集体行动网络。",
+                "source": {
+                  "workId": "fanon-dying-colonialism",
+                  "locator": "Essay This Is the Voice of Algeria",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "fanon:claim:004",
+            "titleZh": "民族意识若脱离人民会退化",
+            "claimZh": "法农警告独立后的民族资产阶级可能复制殖民经济和国家形式，真正民族意识必须通过群众参与和社会改造来形成。",
+            "explanationZh": "这条主张把他从单纯反殖民民族主义中区分出来：解放后政治形式同样需要批判。",
+            "themeIds": [
+              "politics",
+              "justice"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "fanon:evidence:007",
+                "titleZh": "《大地上的受苦者》第三章论民族意识陷阱",
+                "summaryZh": "第三章批判民族资产阶级的中介角色，指出独立若只换统治者，会使民族意识变成空洞口号。",
+                "source": {
+                  "workId": "fanon-wretched-earth",
+                  "locator": "Chapter 3, The Pitfalls of National Consciousness",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "fanon:evidence:008",
+                "titleZh": "《走向非洲革命》论组织和少数群体",
+                "summaryZh": "相关文章把革命组织、欧洲少数群体和阿尔及利亚政治未来联系起来，显示法农关心解放后的共同体构造。",
+                "source": {
+                  "workId": "fanon-toward-african-revolution",
+                  "locator": "Essays on Algeria's European minority and revolutionary organization",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "fanon:problem:003",
+        "titleZh": "文化、治疗与新人",
+        "questionZh": "法农如何把文化再生、精神治疗和“新人”问题连接为解殖后的创造任务？",
+        "summaryZh": "法农的解殖思想并不止于推翻殖民者，还要求改变文化表达、治疗制度和主体想象，从而创造新的关系形式。",
+        "themeIds": [
+          "freedom",
+          "ethics"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "fanon:claim:005",
+            "titleZh": "文化在斗争中重新生成",
+            "claimZh": "他认为民族文化不是回到固定传统，而是在群众斗争、语言变化和艺术表达中重新生成。",
+            "explanationZh": "这条主张让法农区别于浪漫本质主义：文化活力来自历史行动，而不是博物馆式保存。",
+            "themeIds": [
+              "aesthetics",
+              "politics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "fanon:evidence:009",
+                "titleZh": "《大地上的受苦者》第四章论民族文化",
+                "summaryZh": "第四章批评把民族文化当作过去遗产的做法，强调知识分子要在人民斗争中重新发现文化形式。",
+                "source": {
+                  "workId": "fanon-wretched-earth",
+                  "locator": "Chapter 4, On National Culture",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "fanon:evidence:010",
+                "titleZh": "《垂死的殖民主义》论面纱实践变化",
+                "summaryZh": "关于阿尔及利亚女性面纱的章节显示，同一文化符号会随斗争策略和殖民监控而改变意义。",
+                "source": {
+                  "workId": "fanon-dying-colonialism",
+                  "locator": "Essay Algeria Unveiled",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "fanon:claim:006",
+            "titleZh": "治疗要求改变致病的殖民世界",
+            "claimZh": "作为精神科医生，法农把治疗理解为制度和世界关系的改变；若殖民环境持续制造创伤，纯粹个体治疗是不充分的。",
+            "explanationZh": "这条主张把医学伦理、政治革命和主体解放连在一起，是其思想系统中常被低估的一环。",
+            "themeIds": [
+              "ethics",
+              "life_death"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "fanon:evidence:011",
+                "titleZh": "《异化与自由》中的布利达医院实践",
+                "summaryZh": "布利达医院相关材料显示他尝试改造精神病院制度和医患关系，使治疗从控制转向恢复行动能力。",
+                "source": {
+                  "workId": "fanon-alienation-freedom",
+                  "locator": "Writings on Blida-Joinville hospital and institutional therapy",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "fanon:evidence:012",
+                "titleZh": "《大地上的受苦者》第五章的战争精神病案例",
+                "summaryZh": "第五章列举殖民战争造成的精神病案例，说明暴力结构会在施暴者和受害者身上留下深层病理。",
+                "source": {
+                  "workId": "fanon-wretched-earth",
+                  "locator": "Chapter 5, Colonial War and Mental Disorders",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "tier": "standard"
+}

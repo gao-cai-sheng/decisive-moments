@@ -1,0 +1,291 @@
+{
+  "id": "croce",
+  "tier": "standard",
+  "names": {
+    "zh": "克罗齐",
+    "en": "Benedetto Croce"
+  },
+  "life": {
+    "birth": 1866,
+    "death": 1952,
+    "display": "1866—1952"
+  },
+  "civilization": "western_modern",
+  "traditions": [
+    "historicism",
+    "idealism",
+    "aesthetics"
+  ],
+  "periods": [
+    "expansion_d3"
+  ],
+  "themes": [
+    "aesthetics",
+    "knowledge",
+    "freedom"
+  ],
+  "keywordsZh": [
+    "表现美学",
+    "历史主义",
+    "自由史观",
+    "精神哲学",
+    "维柯复兴"
+  ],
+  "oneLineZh": "以表现美学、历史主义和自由史观重构意大利唯心主义，并推动维柯的现代复兴。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "克罗齐把艺术理解为直觉和表现，把历史理解为精神生活的自我认识，并以自由史观反对机械决定论和抽象实证主义。",
+  "works": [
+    "croce-aesthetic-expression",
+    "croce-logic-pure-concept",
+    "croce-theory-history-historiography",
+    "croce-history-liberty",
+    "croce-philosophy-vico"
+  ],
+  "sourceNotes": [
+    {
+      "label": "Primary corpus note",
+      "url": "https://plato.stanford.edu/entries/croce/",
+      "noteZh": "以克罗齐美学、逻辑、历史哲学和维柯研究为核心；二手资料只用于核对关系线。"
+    }
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "croce:problem:001",
+        "titleZh": "表现美学与直觉",
+        "questionZh": "克罗齐如何把艺术理解为直觉和表现的统一？",
+        "summaryZh": "克罗齐反对把艺术化约为概念、道德或技术，把艺术本质定位为直觉在表现中的形成。",
+        "themeIds": [
+          "aesthetics",
+          "knowledge"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "croce:claim:001",
+            "titleZh": "艺术是直觉表现",
+            "claimZh": "克罗齐认为艺术不是模仿对象或传达概念，而是直觉和表现不可分的精神活动。",
+            "explanationZh": "这使美学从外在规则和题材评价转向表现形式本身，影响现代美学和文学批评。",
+            "themeIds": [
+              "aesthetics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "croce:evidence:001",
+                "titleZh": "《美学》论直觉与表现同一",
+                "summaryZh": "文本把艺术界定为直觉即表现，认为未被表现的直觉不是完整艺术活动，从而把艺术创造放在精神活动内部，而非外部技巧。",
+                "source": {
+                  "workId": "croce-aesthetic-expression",
+                  "locator": "opening chapters on intuition and expression",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "croce:evidence:002",
+                "titleZh": "《美学》批判艺术分类外在化",
+                "summaryZh": "克罗齐反对用题材、媒介或道德目的外在分类艺术，强调表现活动的内在统一，使美学批评转向作品表现本身，而非题材清单。",
+                "source": {
+                  "workId": "croce-aesthetic-expression",
+                  "locator": "chapters on criticism of genres and external classifications",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "croce:claim:002",
+            "titleZh": "表现先于概念判断",
+            "claimZh": "克罗齐把审美直觉置于概念逻辑之前，认为艺术表达是精神活动的基本层次。",
+            "explanationZh": "这种层次区分连接其美学和逻辑学，说明不同精神形式各有不可还原的功能。",
+            "themeIds": [
+              "aesthetics",
+              "knowledge"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "croce:evidence:003",
+                "titleZh": "《逻辑学》区分概念和表现",
+                "summaryZh": "逻辑学文本把纯概念活动同审美表现区分，说明思想形式不能互相化约，并维护审美、逻辑和历史活动之间的层次差异。",
+                "source": {
+                  "workId": "croce-logic-pure-concept",
+                  "locator": "chapters on pure concept and expressive form",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "croce:evidence:004",
+                "titleZh": "《美学》连接语言与表现",
+                "summaryZh": "克罗齐把语言视为表现活动的基本形式，使美学、语言和精神活动紧密相连，从而让语言不只是传达工具，而是精神表现的展开。",
+                "source": {
+                  "workId": "croce-aesthetic-expression",
+                  "locator": "chapters on language and expression",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "croce:problem:002",
+        "titleZh": "历史主义与精神哲学",
+        "questionZh": "克罗齐如何把历史理解为精神生活的自我认识？",
+        "summaryZh": "克罗齐把历史视为现实精神活动的理解形式，反对把史学降为事实堆积或自然科学式因果解释。",
+        "themeIds": [
+          "knowledge",
+          "metaphysics"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "croce:claim:003",
+            "titleZh": "一切真正历史都是当代史",
+            "claimZh": "克罗齐认为历史理解总由当下问题驱动，因此历史不是死事实集合，而是活的精神认识。",
+            "explanationZh": "这并非任意主义，而是说明历史问题、材料选择和解释都嵌入现实精神生活。",
+            "themeIds": [
+              "knowledge"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "croce:evidence:005",
+                "titleZh": "《历史编纂的理论与历史》论当代史",
+                "summaryZh": "文本提出真正历史都是当代史，强调历史认识总与当前精神问题和判断活动相关，使史学对象和历史学家的问题意识不能被机械分离。",
+                "source": {
+                  "workId": "croce-theory-history-historiography",
+                  "locator": "chapters on all history as contemporary history",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "croce:evidence:006",
+                "titleZh": "《逻辑学》论判断与历史",
+                "summaryZh": "逻辑学把具体判断同历史认识相连，说明事实只有在概念判断中才成为可理解历史，把历史事实的意义建立在判断活动和概念组织之中。",
+                "source": {
+                  "workId": "croce-logic-pure-concept",
+                  "locator": "sections on judgment and history",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "croce:claim:004",
+            "titleZh": "历史主义反对机械实证主义",
+            "claimZh": "克罗齐反对把历史解释为自然科学式规律，强调历史事件的精神意义和个体性。",
+            "explanationZh": "这使他同实证主义和经济决定论保持距离，也形成意大利历史主义的重要资源。",
+            "themeIds": [
+              "knowledge",
+              "metaphysics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "croce:evidence:007",
+                "titleZh": "《历史编纂的理论与历史》批判实证主义史学",
+                "summaryZh": "文本反对把史学化为档案事实堆积，强调历史叙述必须包含判断、意义和精神活动，使克罗齐的历史主义区别于资料崇拜式实证主义。",
+                "source": {
+                  "workId": "croce-theory-history-historiography",
+                  "locator": "chapters against positivist historiography",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "croce:evidence:008",
+                "titleZh": "《维柯的哲学》重估人造世界",
+                "summaryZh": "克罗齐通过维柯说明人能理解自身创造的历史世界，反对把历史完全交给外在自然因果，把历史理解为人类实践和制度创造的可理解世界。",
+                "source": {
+                  "workId": "croce-philosophy-vico",
+                  "locator": "chapters on verum factum and historical knowledge",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "croce:problem:003",
+        "titleZh": "自由史观与反决定论",
+        "questionZh": "克罗齐如何把自由理解为历史解释和政治判断的核心？",
+        "summaryZh": "克罗齐把历史看作自由展开的故事，以此反对法西斯威权、机械决定论和把政治化为技术管理的倾向。",
+        "themeIds": [
+          "freedom",
+          "politics"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "croce:claim:005",
+            "titleZh": "历史是自由的故事",
+            "claimZh": "克罗齐把自由作为理解历史斗争和精神发展的中心范畴，而不是外在政治口号。",
+            "explanationZh": "这种自由史观使历史理解具有规范方向，也支持其反法西斯和自由主义立场。",
+            "themeIds": [
+              "freedom",
+              "politics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "croce:evidence:009",
+                "titleZh": "《历史作为自由的故事》论自由史观",
+                "summaryZh": "文本把自由理解为贯穿历史判断和政治生活的核心范畴，反对把历史化约为必然机制，由此把自由作为历史评价而非抽象政治口号。",
+                "source": {
+                  "workId": "croce-history-liberty",
+                  "locator": "chapters on liberty as historical category",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "croce:evidence:010",
+                "titleZh": "《历史作为自由的故事》呈现反威权立场",
+                "summaryZh": "自由史观在反法西斯语境中强调精神自由和政治判断，拒绝把国家权力神圣化，这也让其自由主义史观带有明确的反极权锋芒。",
+                "source": {
+                  "workId": "croce-history-liberty",
+                  "locator": "chapters on liberalism and history",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "croce:claim:006",
+            "titleZh": "维柯复兴支撑历史人文主义",
+            "claimZh": "克罗齐重读维柯，把人造历史世界和诗性智慧问题带回现代哲学中心。",
+            "explanationZh": "这条线为后来意大利历史主义和人文学科自我理解提供资源，也构成与黑格尔、马克思争论的背景。",
+            "themeIds": [
+              "knowledge",
+              "aesthetics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "croce:evidence:011",
+                "titleZh": "《维柯的哲学》论历史知识",
+                "summaryZh": "克罗齐把维柯解释为历史知识哲学的先驱，强调人理解自己创造的制度、语言和神话，从而把维柯纳入现代历史哲学和人文主义谱系。",
+                "source": {
+                  "workId": "croce-philosophy-vico",
+                  "locator": "chapters on Vico's philosophy of history",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "croce:evidence:012",
+                "titleZh": "《维柯的哲学》论诗性智慧",
+                "summaryZh": "文本重估维柯的诗性智慧，把早期人类想象和语言创造纳入历史精神发展的理解，显示神话、语言和制度生成都属于历史理解的对象。",
+                "source": {
+                  "workId": "croce-philosophy-vico",
+                  "locator": "chapters on poetic wisdom and myth",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

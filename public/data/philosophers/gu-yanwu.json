@@ -1,0 +1,47 @@
+{
+  "id": "gu-yanwu",
+  "tier": "seed",
+  "names": {
+    "zh": "顾炎武",
+    "en": "Gu Yanwu",
+    "native": "顧炎武"
+  },
+  "life": {
+    "birth": 1613,
+    "death": 1682,
+    "display": "1613—1682"
+  },
+  "civilization": "chinese",
+  "traditions": [
+    "confucianism",
+    "qing_kaozheng"
+  ],
+  "periods": [
+    "ming",
+    "qing"
+  ],
+  "themes": [
+    "knowledge",
+    "politics"
+  ],
+  "keywordsZh": [
+    "日知录",
+    "经世致用",
+    "考据"
+  ],
+  "oneLineZh": "明清之际经世考据学者，以《日知录》开清代实学风气。",
+  "influenceWeight": 3,
+  "reviewStatus": "draft",
+  "summaryZh": "顾炎武，初名绛，字宁人，号亭林，明清之际思想家和学者。他反对空疏心性之谈，强调经世致用、实地考证和制度地理研究。《日知录》汇聚经史、音韵、制度和政治批评，《天下郡国利病书》体现地方制度调查。顾炎武是清代考据学与经世实学的重要源头。",
+  "works": [
+    "gu-yanwu-rizhi-lu",
+    "gu-yanwu-tianxia-junguo-libing-shu"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S007",
+      "url": "https://ctext.org/ri-zhi-lu",
+      "noteZh": "以顾炎武《日知录》《天下郡国利病书》支撑身份层。"
+    }
+  ]
+}

@@ -5,9 +5,9 @@
     "en": "Thales"
   },
   "life": {
-    "display": "约前 624—前 546",
     "birth": -624,
-    "death": -546
+    "death": -546,
+    "display": "约前 624—前 546"
   },
   "civilization": "ancient_greek",
   "traditions": [
@@ -38,5 +38,249 @@
       "label": "draft",
       "noteZh": "条目需要人工核对作品、年代和概念表述。"
     }
-  ]
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "thales:problem:001",
+        "titleZh": "万物本原为什么被说成水？",
+        "questionZh": "泰勒斯关于水是万物本原的说法，在早期希腊思想中意味着什么：物质猜想、统一原则，还是从神话解释转向自然解释的开端？",
+        "summaryZh": "泰勒斯被后世记为把万物本原归于水的米利都思想家。由于没有泰勒斯原著存世，这一命题主要通过亚里士多德等后世报告保留，其意义在于以单一自然原则解释多样世界。",
+        "themeIds": [
+          "metaphysics",
+          "knowledge"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "thales:claim:001",
+            "titleZh": "水作为 arche 表达对统一自然原则的追问",
+            "claimZh": "泰勒斯的“水”不只是经验观察中的液体，而是把多样事物追溯到同一自然原则的早期哲学尝试。",
+            "explanationZh": "这一尝试后来被解释为米利都自然哲学的开端：世界不再首先由神谱故事解释，而被追问为可由共同本原和自然过程理解的整体。",
+            "themeIds": [
+              "metaphysics",
+              "knowledge"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "thales:evidence:001",
+                "titleZh": "亚里士多德《形而上学》报告水为本原",
+                "summaryZh": "亚里士多德在《形而上学》A 卷讨论早期哲学家时，把泰勒斯列为这类哲学的开端，并报告其认为本原是水。",
+                "source": {
+                  "workId": "thales-primary-work",
+                  "locator": "Aristotle, Metaphysics I.3, 983b6-27 on Thales and water as first principle",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "thales:evidence:002",
+                "titleZh": "亚里士多德给出湿润、生命与种子的解释线索",
+                "summaryZh": "同一段落中，亚里士多德推测泰勒斯可能从万物养料湿润、热由湿生以及种子湿润等观察得出水的优先性。",
+                "source": {
+                  "workId": "thales-primary-work",
+                  "locator": "Aristotle, Metaphysics I.3, 983b20-27 on possible reasons for the water thesis",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "thales:claim:002",
+            "titleZh": "地浮于水说明宇宙结构仍以自然机制说明",
+            "claimZh": "关于大地浮于水的说法虽带有古老宇宙论想象，但它试图用自然支撑关系解释地震和地的位置，而非诉诸人格神任意行动。",
+            "explanationZh": "在严格科学意义上此说并不成立，但在思想史上，它显示解释重心从神话叙事转向对自然承载机制的推测。",
+            "themeIds": [
+              "metaphysics",
+              "knowledge"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "thales:evidence:003",
+                "titleZh": "《论天》保存地浮水上的说法",
+                "summaryZh": "亚里士多德《论天》提到某些最古老说法认为大地靠水支撑，并把此说归于泰勒斯传统宇宙论。",
+                "source": {
+                  "workId": "thales-primary-work",
+                  "locator": "Aristotle, De Caelo II.13, 294a28-b1 on the earth resting on water",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "thales:evidence:004",
+                "titleZh": "现代前苏格拉底研究将其视为自然解释尝试",
+                "summaryZh": "Kirk、Raven、Schofield 等研究把这些报告放在米利都自然探究语境中，强调其意义在于寻找自然的统一说明。",
+                "source": {
+                  "workId": "thales-primary-work",
+                  "locator": "Kirk, Raven and Schofield, The Presocratic Philosophers, section on Thales' cosmology",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "thales:problem:002",
+        "titleZh": "从神话到自然解释的转向如何发生？",
+        "questionZh": "为什么泰勒斯常被称为西方哲学或自然科学的开端，即使他的命题多由后世转述且带有传说成分？",
+        "summaryZh": "泰勒斯的重要性不在于留下完备体系，而在于他被古代传统安排在一种新型追问的开端：用自然原则、几何推理和经验线索解释世界，并使智慧从神话叙事部分转向论证与观察。",
+        "themeIds": [
+          "knowledge",
+          "metaphysics",
+          "ethics"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "thales:claim:003",
+            "titleZh": "泰勒斯形象结合了哲学家、测量者和实践智者",
+            "claimZh": "古代材料中的泰勒斯既是宇宙论思想家，也是天文预测、几何测量和实践判断的智者形象。",
+            "explanationZh": "这些传说未必都可按现代史实接受，但它们显示希腊传统如何把新型理性能力投射到泰勒斯身上：计算、观察、推断和公共实用智慧相互交织。",
+            "themeIds": [
+              "knowledge",
+              "ethics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "thales:evidence:005",
+                "titleZh": "希罗多德讲述日食预测传统",
+                "summaryZh": "希罗多德记载泰勒斯预言一次日食并与吕底亚和米底战争联系，虽有年代和技术争议，却构成其天文智慧形象的重要来源。",
+                "source": {
+                  "workId": "thales-primary-work",
+                  "locator": "Herodotus, Histories I.74 on Thales and the eclipse prediction",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "thales:evidence:006",
+                "titleZh": "第欧根尼·拉尔修保存七贤与几何传说",
+                "summaryZh": "《名哲言行录》把泰勒斯列为七贤之一，并保存关于几何、天文和实践智慧的多重轶事材料。",
+                "source": {
+                  "workId": "thales-primary-work",
+                  "locator": "Diogenes Laertius, Lives of Eminent Philosophers I.22-44 on Thales",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "thales:claim:004",
+            "titleZh": "理性化不等于现代科学，而是解释类型的变化",
+            "claimZh": "泰勒斯的转向不应被夸大为现代实验科学的诞生；更稳妥的说法是，他代表了用一般自然原则解释现象的早期努力。",
+            "explanationZh": "这种表述能同时保留其历史意义与材料限制：他没有留下可检验的系统论文，但后世把他视为哲学开端，是因为解释问题的形式发生了变化。",
+            "themeIds": [
+              "knowledge",
+              "metaphysics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "thales:evidence:007",
+                "titleZh": "现代研究提醒材料依赖后世报告",
+                "summaryZh": "Guthrie 与 Kirk-Raven-Schofield 都强调，泰勒斯材料来自后世作者，必须区分可靠思想核、亚里士多德解释和传奇轶事。",
+                "source": {
+                  "workId": "thales-primary-work",
+                  "locator": "Modern Presocratic scholarship, methodological sections on sources for Thales",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "thales:evidence:008",
+                "titleZh": "亚里士多德的哲学史框架塑造了“开端”定位",
+                "summaryZh": "泰勒斯作为“这类哲学”的开端，很大程度经由亚里士多德在《形而上学》中的哲学史叙述而定型。",
+                "source": {
+                  "workId": "thales-primary-work",
+                  "locator": "Aristotle, Metaphysics I.3, 983b6-11 and modern commentary on Aristotle's historiography",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "thales:problem:003",
+        "titleZh": "“万物充满神灵”如何理解？",
+        "questionZh": "泰勒斯被归于“万物充满神灵”和磁石有灵魂等说法，这些命题应被理解为原始泛神论、物活论，还是关于运动和生命的早期哲学线索？",
+        "summaryZh": "泰勒斯思想的另一组后世报告把灵魂、运动和神性联系起来。其含义不宜直接等同成熟神学，而更像早期自然哲学试图解释运动和生命遍布自然的方式。",
+        "themeIds": [
+          "religion",
+          "metaphysics",
+          "life_death"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "thales:claim:005",
+            "titleZh": "灵魂被关联于运动能力",
+            "claimZh": "泰勒斯关于磁石有灵魂的说法，可能把灵魂理解为产生运动或使他物运动的能力，而不是后来意义上的内在个人心灵。",
+            "explanationZh": "这显示早期哲学尚未严格分离物质、生命和神性。会运动、能引动物体的东西，被看作具有某种生命或灵魂原则。",
+            "themeIds": [
+              "metaphysics",
+              "life_death"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "thales:evidence:009",
+                "titleZh": "《论灵魂》报告磁石有灵魂",
+                "summaryZh": "亚里士多德《论灵魂》提到泰勒斯似乎认为磁石有灵魂，因为它能使铁运动这一现象发生。",
+                "source": {
+                  "workId": "thales-primary-work",
+                  "locator": "Aristotle, De Anima I.2, 405a19-21 on the magnet having soul",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "thales:evidence:010",
+                "titleZh": "第欧根尼材料保存相近的灵魂与运动传统",
+                "summaryZh": "第欧根尼·拉尔修关于泰勒斯的材料也保存了灵魂、运动和自然生命性的相关说法，可与亚里士多德互校。",
+                "source": {
+                  "workId": "thales-primary-work",
+                  "locator": "Diogenes Laertius, Lives of Eminent Philosophers I.24 on soul and motion traditions",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "thales:claim:006",
+            "titleZh": "“万物充满神灵”显示自然的生命性而非人格神谱",
+            "claimZh": "“万物充满神灵”可理解为自然充满动力和生命性的早期表达；它并不必然回到奥林波斯神话式解释。",
+            "explanationZh": "该命题使泰勒斯处在神话与自然哲学之间：他没有清除神性语言，却把神性分散到自然整体的运动与生命中。",
+            "themeIds": [
+              "religion",
+              "metaphysics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "thales:evidence:011",
+                "titleZh": "亚里士多德报告万物充满神灵",
+                "summaryZh": "亚里士多德《论灵魂》保存泰勒斯“万物充满神灵”的报告，为理解其物活论或自然生命性提供关键线索。",
+                "source": {
+                  "workId": "thales-primary-work",
+                  "locator": "Aristotle, De Anima I.5, 411a7-8 on all things being full of gods",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "thales:evidence:012",
+                "titleZh": "现代解释将其置于 hylozoism 问题中",
+                "summaryZh": "现代前苏格拉底研究常把泰勒斯与 hylozoism 或自然生命性问题联系，强调其神性语言和自然解释并存。",
+                "source": {
+                  "workId": "thales-primary-work",
+                  "locator": "Modern Presocratic scholarship, discussions of Thales, hylozoism and divine life in nature",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "tier": "standard"
 }

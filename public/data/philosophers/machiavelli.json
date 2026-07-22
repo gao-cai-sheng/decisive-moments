@@ -5,9 +5,9 @@
     "en": "Niccolo Machiavelli"
   },
   "life": {
-    "display": "1469—1527",
     "birth": 1469,
-    "death": 1527
+    "death": 1527,
+    "display": "1469—1527"
   },
   "civilization": "european_modern",
   "traditions": [
@@ -31,12 +31,256 @@
   "reviewStatus": "draft",
   "summaryZh": "马基雅维利是知识、自由问题谱系中的第一版候选哲人。 本条目是第一版结构化资料，已经保留文明、传统、主题、作品和论述字段，正式发布前需要继续核对年代、文本出处和概念表述。",
   "works": [
-    "machiavelli-primary-work"
+    "machiavelli-prince",
+    "machiavelli-discourses"
   ],
   "sourceNotes": [
     {
       "label": "draft",
       "noteZh": "条目需要人工核对作品、年代和概念表述。"
     }
-  ]
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "machiavelli:problem:001",
+        "titleZh": "政治是否需要自己的真理？",
+        "questionZh": "马基雅维利为什么把政治判断从传统道德劝诫中分离出来？",
+        "summaryZh": "马基雅维利要求政治分析面向事情实际如何发生，而不是只讨论人应当如何生活。他关注权力、恐惧、军事和制度的真实运作，由此开出现代政治现实主义。",
+        "themeIds": [
+          "politics",
+          "ethics"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "machiavelli:claim:001",
+            "titleZh": "政治判断必须面对实际效果",
+            "claimZh": "马基雅维利认为统治者若只追随想象中的善，会在现实权力斗争中失败，因此政治判断必须面对实际效果。",
+            "explanationZh": "这不是简单赞美恶，而是要求政治理论处理风险、敌意和制度维持。",
+            "themeIds": [
+              "politics",
+              "ethics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "machiavelli:evidence:001",
+                "titleZh": "实际真理与想象共和国",
+                "summaryZh": "《君主论》第十五章区分事情实际如何与想象中的共和国，说明政治分析不能只停留在道德理想图像。",
+                "source": {
+                  "workId": "machiavelli-prince",
+                  "locator": "Il Principe chapter 15 on effectual truth",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "machiavelli:evidence:002",
+                "titleZh": "新君主的现实困难",
+                "summaryZh": "《君主论》第六章讨论新君主和新制度的建立困难，显示政治德性必须在阻力和危险中被检验。",
+                "source": {
+                  "workId": "machiavelli-prince",
+                  "locator": "Il Principe chapter 6 on new principalities and founders",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "machiavelli:claim:002",
+            "titleZh": "德性包含应对不稳定局势的能力",
+            "claimZh": "马基雅维利的 virtù 不是传统美德清单，而是面对机会、敌意和变化时建立秩序的能力。",
+            "explanationZh": "因此政治行动者是否有德，要看其能否在不确定局势中创建和维持共同体。",
+            "themeIds": [
+              "politics",
+              "freedom"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "machiavelli:evidence:003",
+                "titleZh": "创制者与机会",
+                "summaryZh": "第六章以摩西、居鲁士、罗慕路斯等创制者说明，政治能力必须把握机会并克服制度建立的阻力。",
+                "source": {
+                  "workId": "machiavelli-prince",
+                  "locator": "Il Principe chapter 6 on founders and occasione",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "machiavelli:evidence:004",
+                "titleZh": "命运与能力的关系",
+                "summaryZh": "第二十五章把命运比作洪水，强调政治能力在于预先筑堤、因时调整，而不是被动等待好运。",
+                "source": {
+                  "workId": "machiavelli-prince",
+                  "locator": "Il Principe chapter 25 on fortuna and virtù",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "machiavelli:problem:002",
+        "titleZh": "恐惧、爱戴与权力稳定",
+        "questionZh": "权力为何不能只依靠仁慈名声？恐惧和爱戴在政治秩序中如何权衡？",
+        "summaryZh": "马基雅维利分析统治关系中的情感结构，认为爱戴不稳定，恐惧若受法律和利益约束则更可靠。政治稳定取决于控制敌意，而不是追求纯粹仁慈形象。",
+        "themeIds": [
+          "politics",
+          "ethics"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "machiavelli:claim:003",
+            "titleZh": "被畏惧比被爱戴更可靠",
+            "claimZh": "马基雅维利认为若不能兼得，被畏惧通常比被爱戴更可靠，因为爱依赖他人意志，恐惧则更受制度和惩罚控制。",
+            "explanationZh": "这一判断以政治稳定为尺度，而不是以私人德性形象为尺度。",
+            "themeIds": [
+              "politics",
+              "ethics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "machiavelli:evidence:005",
+                "titleZh": "恐惧与爱戴的比较",
+                "summaryZh": "《君主论》第十七章明确比较被爱戴和被畏惧，指出统治者应避免被憎恨，但不能完全依赖爱戴。",
+                "source": {
+                  "workId": "machiavelli-prince",
+                  "locator": "Il Principe chapter 17 on cruelty, mercy, fear and love",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "machiavelli:evidence:006",
+                "titleZh": "守信与伪装的政治逻辑",
+                "summaryZh": "第十八章讨论狮子和狐狸，说明政治行动需要处理欺骗和暴力风险，不能只按私人诚信规则行动。",
+                "source": {
+                  "workId": "machiavelli-prince",
+                  "locator": "Il Principe chapter 18 on the lion, fox and keeping faith",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "machiavelli:claim:004",
+            "titleZh": "避免憎恨是权力稳定底线",
+            "claimZh": "马基雅维利并不主张任意残酷，而是要求统治者避免激起普遍憎恨，尤其避免侵犯财产和共同利益。",
+            "explanationZh": "恐惧若滑向憎恨，就会破坏统治基础并制造阴谋。",
+            "themeIds": [
+              "politics",
+              "justice"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "machiavelli:evidence:007",
+                "titleZh": "残酷使用的限度",
+                "summaryZh": "第十七章把残酷和仁慈置于秩序维护问题中，强调统治者必须避免被憎恨而非追求无边恐吓。",
+                "source": {
+                  "workId": "machiavelli-prince",
+                  "locator": "Il Principe chapter 17 on avoiding hatred",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "machiavelli:evidence:008",
+                "titleZh": "共和国制度中的利益约束",
+                "summaryZh": "《论李维》关于共和国制度的讨论显示，稳定政治需要制度吸纳冲突，而不是只依赖个人威慑。",
+                "source": {
+                  "workId": "machiavelli-discourses",
+                  "locator": "Discorsi I.2-4 on republican orders and social conflict",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "machiavelli:problem:003",
+        "titleZh": "共和国为何需要冲突和制度？",
+        "questionZh": "社会冲突为何不必然破坏共和国，反而可能产生自由和法律？",
+        "summaryZh": "马基雅维利在共和国论中把民众与贵族冲突视为制度活力来源。只要冲突被法律和公共程序吸收，它可以产生自由、警惕权力和更新共同体。",
+        "themeIds": [
+          "politics",
+          "freedom",
+          "justice"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "machiavelli:claim:005",
+            "titleZh": "制度化冲突可以保护自由",
+            "claimZh": "马基雅维利认为民众和贵族之间的张力若被共和国制度吸收，反而可以产生维护自由的法律。",
+            "explanationZh": "共和国不是消灭冲突，而是把冲突转化为制度能量。",
+            "themeIds": [
+              "politics",
+              "freedom"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "machiavelli:evidence:009",
+                "titleZh": "罗马冲突产生自由法律",
+                "summaryZh": "《论李维》第一卷第四章把罗马平民与贵族冲突视为自由法律的重要来源，而不是单纯的混乱。",
+                "source": {
+                  "workId": "machiavelli-discourses",
+                  "locator": "Discorsi I.4 on conflict between plebs and senate",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "machiavelli:evidence:010",
+                "titleZh": "共和政体的混合结构",
+                "summaryZh": "《论李维》第一卷第二章讨论政体循环和混合制度，说明共和国需要制度结构来约束权力变质。",
+                "source": {
+                  "workId": "machiavelli-discourses",
+                  "locator": "Discorsi I.2 on mixed constitution and political cycles",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "machiavelli:claim:006",
+            "titleZh": "民众判断并非天然低劣",
+            "claimZh": "马基雅维利在共和国语境中为民众判断保留较高评价，认为民众在维护自由上可比少数精英更可靠。",
+            "explanationZh": "这补足《君主论》的权力分析，使其政治思想不只是君主技术。",
+            "themeIds": [
+              "politics",
+              "justice"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "machiavelli:evidence:011",
+                "titleZh": "民众判断的相对可靠性",
+                "summaryZh": "《论李维》第一卷第五十八章讨论民众和君主判断，显示马基雅维利并不把民众简单视为无理性群众。",
+                "source": {
+                  "workId": "machiavelli-discourses",
+                  "locator": "Discorsi I.58 on judgment of the people",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "machiavelli:evidence:012",
+                "titleZh": "制度让冲突服务公共自由",
+                "summaryZh": "《论李维》关于罗马制度的分析说明，民众冲突只有经由法律职位和公共程序，才会转化为自由保障。",
+                "source": {
+                  "workId": "machiavelli-discourses",
+                  "locator": "Discorsi I.2-4 on republican institutions and liberty",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "tier": "standard"
 }

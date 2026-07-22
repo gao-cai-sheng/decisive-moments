@@ -1,0 +1,46 @@
+{
+  "id": "ji-kang",
+  "tier": "seed",
+  "names": {
+    "zh": "嵇康",
+    "en": "Ji Kang",
+    "native": "嵇康"
+  },
+  "life": {
+    "birth": 223,
+    "death": 262,
+    "display": "223—262"
+  },
+  "civilization": "chinese",
+  "traditions": [
+    "xuanxue"
+  ],
+  "periods": [
+    "three_kingdoms",
+    "western_jin"
+  ],
+  "themes": [
+    "freedom",
+    "aesthetics"
+  ],
+  "keywordsZh": [
+    "竹林七贤",
+    "声无哀乐论",
+    "养生论"
+  ],
+  "oneLineZh": "魏晋玄学名士，以自然、音乐和养生论著称。",
+  "influenceWeight": 3,
+  "reviewStatus": "draft",
+  "summaryZh": "嵇康，字叔夜，谯国铚人，竹林七贤之一，也是魏晋玄学中最鲜明的自由人格代表。《声无哀乐论》讨论音乐与情感的关系，《养生论》展开身体、自然和精神修养问题。嵇康拒绝司马氏征辟并被杀，使其思想与生命实践共同成为名教、自然和政治权力冲突的象征。",
+  "works": [
+    "ji-kang-shengwu-aile-lun",
+    "ji-kang-yangsheng-lun"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S009",
+      "url": "https://ctext.org/wiki.pl?if=en&res=834176",
+      "noteZh": "以嵇康文集题名传统和《晋书》材料支撑身份层。"
+    }
+  ]
+}

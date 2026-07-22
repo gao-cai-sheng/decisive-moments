@@ -1,0 +1,44 @@
+{
+  "id": "ogyu-sorai",
+  "tier": "seed",
+  "names": {
+    "zh": "荻生徂徕",
+    "en": "Ogyū Sorai"
+  },
+  "life": {
+    "birth": 1666,
+    "death": 1728,
+    "display": "1666—1728"
+  },
+  "civilization": "east_asian",
+  "traditions": [
+    "japanese_confucianism"
+  ],
+  "periods": [
+    "early_modern"
+  ],
+  "themes": [
+    "politics",
+    "language"
+  ],
+  "keywordsZh": [
+    "古文辞学",
+    "礼乐制度",
+    "江户儒学"
+  ],
+  "oneLineZh": "江户儒学代表，以古文辞学和礼乐制度论批评朱子学。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "荻生徂徕通过古文辞学、制度论和对朱子学的批评构成日本儒学的重要转向。本条仅作 seed 身份层定位。",
+  "works": [
+    "ogyu-sorai-bendo",
+    "ogyu-sorai-benmei"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S005",
+      "url": "https://plato.stanford.edu/entries/japanese-confucian/",
+      "noteZh": "SEP Japanese Confucian Philosophy 条目用于核验荻生徂徕的日本儒学定位。"
+    }
+  ]
+}

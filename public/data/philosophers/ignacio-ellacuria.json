@@ -1,0 +1,46 @@
+{
+  "id": "ignacio-ellacuria",
+  "tier": "seed",
+  "names": {
+    "zh": "伊格纳西奥·埃拉库里亚",
+    "en": "Ignacio Ellacuría"
+  },
+  "life": {
+    "birth": 1930,
+    "death": 1989,
+    "display": "1930—1989"
+  },
+  "civilization": "latin_american",
+  "traditions": [
+    "philosophy_of_liberation",
+    "liberation_theology"
+  ],
+  "periods": [
+    "seed_w9"
+  ],
+  "themes": [
+    "politics",
+    "justice",
+    "religion"
+  ],
+  "keywordsZh": [
+    "历史现实",
+    "解放哲学",
+    "萨尔瓦多"
+  ],
+  "oneLineZh": "萨尔瓦多耶稣会哲学家，以历史现实概念连接解放哲学、神学与政治实践。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "埃拉库里亚把哲学任务放入拉美历史现实、压迫结构和解放实践之中，是解放哲学与解放神学交界处的重要人物。本条仅作 seed 身份层。",
+  "works": [
+    "ignacio-ellacuria-filosofia-realidad-historica",
+    "ignacio-ellacuria-utopia-profetismo"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S001",
+      "url": "https://plato.stanford.edu/entries/liberation/",
+      "noteZh": "SEP Philosophy of Liberation 条目用于核验 Ellacuría 在解放哲学谱系中的位置。"
+    }
+  ]
+}

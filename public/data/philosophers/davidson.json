@@ -1,0 +1,293 @@
+{
+  "id": "davidson",
+  "names": {
+    "zh": "戴维森",
+    "en": "Donald Davidson"
+  },
+  "life": {
+    "birth": 1917,
+    "death": 2003,
+    "display": "1917—2003"
+  },
+  "civilization": "american",
+  "traditions": [
+    "analytic_philosophy",
+    "philosophy_of_language",
+    "action_theory"
+  ],
+  "periods": [
+    "expansion_c2"
+  ],
+  "themes": [
+    "language",
+    "knowledge",
+    "metaphysics"
+  ],
+  "keywordsZh": [
+    "真理论语义学",
+    "激进解释",
+    "行动理由",
+    "反常一元论",
+    "三角测量"
+  ],
+  "oneLineZh": "以真理论语义学、激进解释和行动理论重塑后蒯因时代的语言哲学与心灵哲学。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "戴维森把意义、真理、行动理由和解释联系起来，主张理解语言必须同时解释说话者的信念、欲望和共同世界。",
+  "works": [
+    "davidson-essays-actions-events",
+    "davidson-inquiries-truth-interpretation",
+    "davidson-subjective-intersubjective-objective",
+    "davidson-problems-rationality",
+    "davidson-truth-language-history"
+  ],
+  "sourceNotes": [
+    {
+      "label": "Primary corpus note",
+      "url": "https://plato.stanford.edu/entries/davidson/",
+      "noteZh": "二手条目仅用于核对作品和关系线；evidence 以戴维森原著自身论证为摘要对象。"
+    }
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "davidson:problem:001",
+        "titleZh": "行动理由与因果解释",
+        "questionZh": "戴维森如何把行动理由同时理解为解释和原因？",
+        "summaryZh": "戴维森反对把理由解释排除在因果说明之外，认为意向行动必须由信念、欲望和可辨认的理由结构来说明。",
+        "themeIds": [
+          "freedom",
+          "knowledge"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "davidson:claim:001",
+            "titleZh": "理由可以成为行动原因",
+            "claimZh": "戴维森认为解释一个行动的理由通常也是导致该行动的原因，因此行动解释不应与因果说明割裂。",
+            "explanationZh": "这一主张把实践理性、心理状态和事件因果关系放在同一框架中，反对把理由解释看成纯粹规范描述。",
+            "themeIds": [
+              "freedom",
+              "knowledge"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "davidson:evidence:001",
+                "titleZh": "《行动与事件论文集》论行动、理由和原因",
+                "summaryZh": "文本把信念和欲望组成的初始理由解释为行动原因，说明一个行动为何可被理解为有意而非单纯身体运动。",
+                "source": {
+                  "workId": "davidson-essays-actions-events",
+                  "locator": "Essays on Actions and Events, essay Actions, Reasons, and Causes",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "davidson:evidence:002",
+                "titleZh": "意向行动需要描述层面",
+                "summaryZh": "行动论文强调同一事件可在不同描述下被解释，只有放入行动者理由网络中，事件才显现为某个有意行动。",
+                "source": {
+                  "workId": "davidson-essays-actions-events",
+                  "locator": "Essays on Actions and Events, essays on agency and event description",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "davidson:claim:002",
+            "titleZh": "反常一元论兼容物理因果和心理解释",
+            "claimZh": "戴维森主张心理事件就是物理事件，但心理类型不受严格物理法则还原，因而形成反常一元论。",
+            "explanationZh": "这条主张在心身问题上保持一元论，同时避免把信念和欲望解释直接化约为神经或物理定律。",
+            "themeIds": [
+              "metaphysics",
+              "knowledge"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "davidson:evidence:003",
+                "titleZh": "《心理事件》提出反常性命题",
+                "summaryZh": "论文论证心理事件可进入因果关系，但心理描述没有严格封闭法则，因此不能像物理类型那样被法则化。",
+                "source": {
+                  "workId": "davidson-essays-actions-events",
+                  "locator": "Essays on Actions and Events, essay Mental Events",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "davidson:evidence:004",
+                "titleZh": "事件同一和描述差异并存",
+                "summaryZh": "文本区分事件本身与事件描述，允许同一事件在物理描述下有因果法则，在心理描述下承担理性解释功能。",
+                "source": {
+                  "workId": "davidson-essays-actions-events",
+                  "locator": "Essays on Actions and Events, anomalous monism and event identity",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "davidson:problem:002",
+        "titleZh": "真理、意义与激进解释",
+        "questionZh": "戴维森为什么用真理论作为意义理论的形式框架？",
+        "summaryZh": "戴维森把塔斯基式真理条件转化为解释自然语言意义的工具，并把意义理解放入解释者与说话者的整体互动中。",
+        "themeIds": [
+          "language",
+          "knowledge"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "davidson:claim:003",
+            "titleZh": "意义理论应给出真理条件",
+            "claimZh": "戴维森认为理解一个句子的意义，就是在适当解释理论中知道它在什么条件下为真。",
+            "explanationZh": "这一主张让形式真理论从逻辑工具转为自然语言语义学框架，并影响后分析哲学的意义理论。",
+            "themeIds": [
+              "language",
+              "knowledge"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "davidson:evidence:005",
+                "titleZh": "《真理与解释研究》论真理和意义",
+                "summaryZh": "论文集说明自然语言意义理论可通过递归真理论生成句子真理条件，使无限句子的理解获得有限结构。",
+                "source": {
+                  "workId": "davidson-inquiries-truth-interpretation",
+                  "locator": "Inquiries into Truth and Interpretation, essays Truth and Meaning / Truth and Interpretation",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "davidson:evidence:006",
+                "titleZh": "真理论必须服务解释实践",
+                "summaryZh": "戴维森强调真理论不是孤立形式体系，只有能在解释说话者言语和信念时工作，才构成合格的意义理论。",
+                "source": {
+                  "workId": "davidson-inquiries-truth-interpretation",
+                  "locator": "Inquiries, radical interpretation and truth-theoretic semantics",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "davidson:claim:004",
+            "titleZh": "解释依赖宽容原则和整体性",
+            "claimZh": "戴维森认为激进解释必须总体上把说话者理解为大体理性且多半为真，否则解释无法启动。",
+            "explanationZh": "这条主张把意义、信念和世界关联为一个整体，反对先确定内在意义再附加外部解释的模型。",
+            "themeIds": [
+              "language",
+              "knowledge"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "davidson:evidence:007",
+                "titleZh": "激进解释要求大体为真",
+                "summaryZh": "《真理与解释研究》中的解释论文指出，解释者必须把说话者大部分信念视为可理解且正确，才能识别错误和差异。",
+                "source": {
+                  "workId": "davidson-inquiries-truth-interpretation",
+                  "locator": "Inquiries, radical interpretation and principle of charity",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "davidson:evidence:008",
+                "titleZh": "反对不可翻译的概念方案",
+                "summaryZh": "晚期语言论文批判方案/内容二分，认为若完全无法翻译，就没有足够根据把某物称为另类概念方案。",
+                "source": {
+                  "workId": "davidson-truth-language-history",
+                  "locator": "Truth, Language, and History, conceptual scheme and interpretation essays",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "davidson:problem:003",
+        "titleZh": "主观、主体间与客观世界",
+        "questionZh": "戴维森如何把自我知识、他心和客观性联系起来？",
+        "summaryZh": "戴维森晚期用三角测量说明，自我思想、他者解释和共同对象世界相互依赖，任何一项都不能孤立奠基。",
+        "themeIds": [
+          "knowledge",
+          "language"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "davidson:claim:005",
+            "titleZh": "三角测量生成客观性",
+            "claimZh": "戴维森认为思想和语言需要两个解释者共同回应同一世界，客观性由这种三角关系显现。",
+            "explanationZh": "这条主张反对把第一人称确定性作为知识起点，也不把客观世界看成无需交往即可完全给定。",
+            "themeIds": [
+              "knowledge",
+              "language"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "davidson:evidence:009",
+                "titleZh": "《主观、主体间与客观》论三角测量",
+                "summaryZh": "文本通过两个交流者和共同对象的三角结构说明，语言学习和对象信念需要共享世界中的可校正互动。",
+                "source": {
+                  "workId": "davidson-subjective-intersubjective-objective",
+                  "locator": "Subjective, Intersubjective, Objective, essays on triangulation",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "davidson:evidence:010",
+                "titleZh": "三种知识不可相互还原",
+                "summaryZh": "书中把自我知识、他心知识和世界知识作为互相支撑的三类知识，避免把其中一种当作全部认识论基础。",
+                "source": {
+                  "workId": "davidson-subjective-intersubjective-objective",
+                  "locator": "Subjective, Intersubjective, Objective, three varieties of knowledge",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "davidson:claim:006",
+            "titleZh": "非理性仍需在理性框架中解释",
+            "claimZh": "戴维森认为非理性行动并非完全失去解释，而是在理性结构内部出现分裂、冲突和失败。",
+            "explanationZh": "这使他的理性观保持解释弹性：行动者可以自相矛盾，但仍必须被放在可理解的理由网络中。",
+            "themeIds": [
+              "freedom",
+              "ethics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "davidson:evidence:011",
+                "titleZh": "《理性问题》讨论非理性",
+                "summaryZh": "论文集分析自欺、意志薄弱和非理性选择，说明这些现象需要从行动者内部理由冲突而非纯外部失灵来理解。",
+                "source": {
+                  "workId": "davidson-problems-rationality",
+                  "locator": "Problems of Rationality, essays on irrationality and weakness of will",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "davidson:evidence:012",
+                "titleZh": "理性失败不取消解释原则",
+                "summaryZh": "文本显示解释非理性时仍要假定行动者具有局部可理解的信念和欲望，否则我们甚至无法识别其行为为何偏离。",
+                "source": {
+                  "workId": "davidson-problems-rationality",
+                  "locator": "Problems of Rationality, rationality and interpretation",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "tier": "standard"
+}

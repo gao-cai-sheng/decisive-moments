@@ -1,5 +1,5 @@
 import { describe, expect, it } from "vitest";
-import { interpolateTarget } from "./CameraRig";
+import { GALAXY_AUTO_ROTATE_SPEED, getGalaxyAutoRotateSpeed, interpolateTarget } from "./CameraRig";
 
 describe("CameraRig target interpolation", () => {
   it("moves the current orbit target toward the selected star without snapping", () => {
@@ -21,4 +21,14 @@ describe("CameraRig target interpolation", () => {
     expect(next[1]).toBeGreaterThan(4.9);
     expect(next[2]).toBeLessThan(-4.9);
   });
+  it("uses a slow galaxy auto-rotation speed by default", () => {
+    expect(getGalaxyAutoRotateSpeed(false)).toBe(GALAXY_AUTO_ROTATE_SPEED);
+    expect(getGalaxyAutoRotateSpeed(false)).toBeGreaterThan(0);
+    expect(getGalaxyAutoRotateSpeed(false)).toBeLessThan(0.25);
+  });
+
+  it("disables galaxy auto-rotation when reduced motion is requested", () => {
+    expect(getGalaxyAutoRotateSpeed(true)).toBe(0);
+  });
+
 });

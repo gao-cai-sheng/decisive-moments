@@ -1,0 +1,45 @@
+{
+  "id": "jankelevitch",
+  "tier": "seed",
+  "names": {
+    "zh": "弗拉基米尔·扬凯列维奇",
+    "en": "Vladimir Jankélévitch"
+  },
+  "life": {
+    "birth": 1903,
+    "death": 1985,
+    "display": "1903—1985"
+  },
+  "civilization": "western",
+  "traditions": [
+    "ethics",
+    "french_philosophy"
+  ],
+  "periods": [
+    "contemporary"
+  ],
+  "themes": [
+    "ethics",
+    "life_death"
+  ],
+  "keywordsZh": [
+    "法国哲学",
+    "身份层",
+    "思想史补线"
+  ],
+  "oneLineZh": "道德的不可名状与不可宽恕，接 bergson。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "弗拉基米尔·扬凯列维奇（1903—1985）是 Seed W3 法国近现代—现当代二线哲人候选。其身份层入选理由为：道德的不可名状与不可宽恕，接 bergson。 本条仅作 seed 档基本定位，后续若升级标准档，必须重新做著作、论点与 evidence 研究。",
+  "works": [
+    "jankelevitch-bergson",
+    "jankelevitch-forgiveness"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S004",
+      "url": "https://www.rep.routledge.com/articles/biographical/jankelevitch-vladimir-1903-1985/v-1",
+      "noteZh": "权威来源条目：Routledge: Jankélévitch, Vladimir；用于核验人物身份、生卒、代表著作和思想史定位。"
+    }
+  ]
+}

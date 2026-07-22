@@ -1,0 +1,43 @@
+{
+  "id": "judith-jarvis-thomson",
+  "tier": "seed",
+  "names": {
+    "zh": "朱迪思·贾维斯·汤姆森",
+    "en": "Judith Jarvis Thomson"
+  },
+  "life": {
+    "birth": 1929,
+    "death": 2020,
+    "display": "1929—2020"
+  },
+  "civilization": "western",
+  "traditions": [
+    "western_philosophy"
+  ],
+  "periods": [
+    "contemporary"
+  ],
+  "themes": [
+    "ethics",
+    "life_death"
+  ],
+  "keywordsZh": [
+    "身份层",
+    "二线哲人",
+    "思想史补线"
+  ],
+  "oneLineZh": "权利、生命伦理与道德难题代表，可补应用伦理学核心案例线。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "朱迪思·贾维斯·汤姆森（1929—2020）是 W2 欧陆与英美近现代二线哲人候选。其身份层入选理由为：权利、生命伦理与道德难题代表，可补应用伦理学核心案例线。 本条仅作 seed 档基本定位，后续若升级标准档，需要重新做著作、论点与 evidence 研究。",
+  "works": [
+    "judith-jarvis-thomson-defense-of-abortion",
+    "judith-jarvis-thomson-rights-restitution-risk"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S004",
+      "noteZh": "权威来源条目：IEP: Judith Jarvis Thomson；用于核验人物身份、生卒、代表著作和思想史定位。"
+    }
+  ]
+}

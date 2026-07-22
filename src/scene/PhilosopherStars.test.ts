@@ -4,6 +4,7 @@ vi.mock("@react-three/drei", () => ({
   Html: () => null,
   Sphere: () => null,
 }));
+vi.mock("@react-three/fiber", () => ({ useFrame: () => {} }));
 vi.mock("three", () => ({ AdditiveBlending: 2 }));
 
 import * as PhilosopherStars from "./PhilosopherStars";

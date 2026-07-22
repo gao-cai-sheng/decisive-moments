@@ -1,13 +1,16 @@
+import { useT } from "../i18n";
+
 type LoadingScreenProps = {
   error?: string | null;
 };
 
 export function LoadingScreen({ error }: LoadingScreenProps) {
+  const t = useT();
   return (
     <div className="loading-screen" role={error ? "alert" : "status"}>
       <div className="loading-card">
-        <div className="loading-title">群星闪耀时</div>
-        <div>{error ? `数据载入失败：${error}` : "正在点亮思想星图..."}</div>
+        <div className="loading-title">{t("brand.title")}</div>
+        <div>{error ? t("loading.error", { error }) : t("loading.progress")}</div>
       </div>
     </div>
   );

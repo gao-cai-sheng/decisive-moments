@@ -1,0 +1,46 @@
+{
+  "id": "liu-xiang",
+  "tier": "seed",
+  "names": {
+    "zh": "刘向",
+    "en": "Liu Xiang",
+    "native": "劉向"
+  },
+  "life": {
+    "birth": -77,
+    "death": -6,
+    "display": "前77—前6"
+  },
+  "civilization": "chinese",
+  "traditions": [
+    "confucianism",
+    "han_bibliography"
+  ],
+  "periods": [
+    "western_han"
+  ],
+  "themes": [
+    "knowledge",
+    "ethics"
+  ],
+  "keywordsZh": [
+    "说苑",
+    "新序",
+    "校书"
+  ],
+  "oneLineZh": "西汉经学家、目录学家和故事编纂者，整理典籍并重塑儒家政治记忆。",
+  "influenceWeight": 3,
+  "reviewStatus": "draft",
+  "summaryZh": "刘向，字子政，西汉宗室、经学家和校书官，长期参与宫廷藏书整理。《新序》《说苑》《列女传》等以故事、谏诤和人物范例组织政治伦理材料，其校雠工作又为《别录》《七略》目录传统奠基。刘向的思想意义在于把先秦两汉文献重新编排为可供王朝教化和士人判断使用的知识库。",
+  "works": [
+    "liu-xiang-shuoyuan",
+    "liu-xiang-xinxu"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S005",
+      "url": "https://ctext.org/shuo-yuan",
+      "noteZh": "以《说苑》《新序》与校书传统支撑刘向身份层。"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "helvetius",
+  "tier": "seed",
+  "names": {
+    "zh": "爱尔维修",
+    "en": "Claude Adrien Helvétius"
+  },
+  "life": {
+    "birth": 1715,
+    "death": 1771,
+    "display": "1715—1771"
+  },
+  "civilization": "western",
+  "traditions": [
+    "enlightenment",
+    "utilitarianism"
+  ],
+  "periods": [
+    "modern"
+  ],
+  "themes": [
+    "ethics",
+    "knowledge"
+  ],
+  "keywordsZh": [
+    "感觉论伦理",
+    "功利",
+    "教育"
+  ],
+  "oneLineZh": "感觉论伦理与功利主义前史，连接洛克经验论和边沁功利主义。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "爱尔维修（1715—1771）是 Seed W4 法国断代补全候选。其身份层入选理由为：感觉论伦理与功利主义前史，连接洛克经验论和边沁功利主义。 本条仅作 seed 档基本定位，后续若升级标准档，必须重新做著作、论点与 evidence 研究。",
+  "works": [
+    "helvetius-de-lesprit",
+    "helvetius-de-lhomme"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S007",
+      "url": "https://plato.stanford.edu/entries/helvetius/",
+      "noteZh": "权威来源条目：SEP: Claude Adrien Helvétius；用于核验人物身份、生卒、代表著作和思想史定位。"
+    }
+  ]
+}

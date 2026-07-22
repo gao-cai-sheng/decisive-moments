@@ -1,19 +1,21 @@
 import { Html, Line, Sphere } from "@react-three/drei";
 import { Bloom, EffectComposer } from "@react-three/postprocessing";
-import { Canvas } from "@react-three/fiber";
-import { useMemo } from "react";
+import { Canvas, useFrame } from "@react-three/fiber";
+import { useEffect, useMemo, useRef, useState, type ReactNode } from "react";
 import * as THREE from "three";
-import type { Philosopher } from "../data/schemas";
-import { filterPhilosophersForStarMap, filterRelationshipsForStarMap } from "../domain/filters/starFilters";
-import { computeStarLayout } from "../domain/layout/starLayout";
-import { getFocusedRelationshipIds } from "../domain/relationships/relationshipFilters";
+import type { Philosopher, PhilosopherIndexEntry } from "../data/schemas";
+import { pickName } from "../i18n";
+import { filterPhilosophersForStarMap } from "../domain/filters/starFilters";
+import { computeStarLayout, type StarLayoutNode } from "../domain/layout/starLayout";
 import { useAppStore } from "../store/appStore";
 import { CameraRig } from "./CameraRig";
+import { NearbyOrbits } from "./NearbyOrbits";
 import { civilizationColors, PhilosopherStars } from "./PhilosopherStars";
-import { RelationshipLines } from "./RelationshipLines";
+import { createStarSurfaceTexture } from "./StarSpin";
 
 type StarDustProps = {
   quality: "low" | "high";
+  dimmed?: boolean;
 };
 
 const colorKeys = Object.keys(civilizationColors);
@@ -29,7 +31,7 @@ function seededRandom(seed: number) {
   };
 }
 
-function StarDust({ quality }: StarDustProps) {
+function StarDust({ quality, dimmed = false }: StarDustProps) {
   const { colors, positions } = useMemo(() => {
     const count = quality === "high" ? 7600 : 2400;
     const random = seededRandom(20260624);
@@ -48,7 +50,7 @@ function StarDust({ quality }: StarDustProps) {
 
       positions[offset] = Math.cos(angle) * spread + nextSigned() * (core ? 1.4 : 0.55);
       positions[offset + 1] = verticalNoise;
-      positions[offset + 2] = Math.sin(angle) * spread * 0.68 + nextSigned() * (core ? 1.2 : 0.7);
+      positions[offset + 2] = Math.sin(angle) * spread + nextSigned() * (core ? 1.2 : 0.7);
 
       const color = core
         ? center.clone().lerp(new THREE.Color(civilizationColors.global_modern), random() * 0.28)
@@ -73,11 +75,75 @@ function StarDust({ quality }: StarDustProps) {
         sizeAttenuation
         vertexColors
         transparent
-        opacity={0.9}
+        opacity={dimmed ? 0.28 : 0.9}
         depthWrite={false}
         blending={THREE.AdditiveBlending}
       />
     </points>
+  );
+}
+
+// 行星公转载体：整组（含轨道连线与行星）绕恒星 Y 轴匀速旋转；paused 时冻结。
+function RevolvingGroup({ speed, paused = false, children }: { speed: number; paused?: boolean; children: ReactNode }) {
+  const ref = useRef<THREE.Group>(null);
+  useFrame((_, delta) => {
+    if (!paused && ref.current) ref.current.rotation.y += speed * delta;
+  });
+  return <group ref={ref}>{children}</group>;
+}
+
+// 哲人名字闪烁出现：每 3.6 秒轮换一组恒星，名字淡入淡出，轮询整个星图。
+type StarNameTwinkleProps = {
+  layout: StarLayoutNode[];
+  philosophers: PhilosopherIndexEntry[];
+  selectedId: string | null;
+};
+
+function StarNameTwinkle({ layout, philosophers, selectedId }: StarNameTwinkleProps) {
+  const [cycle, setCycle] = useState(0);
+  const locale = useAppStore((state) => state.locale);
+  const names = useMemo(
+    () => new Map(philosophers.map((item) => [item.id, pickName(item.names, locale)])),
+    [philosophers, locale],
+  );
+
+  useEffect(() => {
+    const timer = setInterval(() => setCycle((value) => value + 1), 3600);
+    return () => clearInterval(timer);
+  }, []);
+
+  // 每轮完全随机抽取一组恒星（非批次轮换）
+  const chosen = useMemo(() => {
+    const limit = Math.min(12, layout.length);
+    const picked = new Set<number>();
+    while (picked.size < limit && layout.length > 0) {
+      picked.add(Math.floor(Math.random() * layout.length));
+    }
+    return [...picked].map((index) => layout[index]);
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [cycle, layout]);
+
+  // 聚焦恒星系时整体隐藏，不干扰主视觉
+  if (layout.length === 0 || selectedId !== null) return null;
+
+  return (
+    <>
+      {chosen.map((node) => {
+        const name = names.get(node.id);
+        if (!name) return null;
+        return (
+          <Html
+            key={`${cycle}-${node.id}`}
+            center
+            position={[node.position[0], node.position[1] + 0.34, node.position[2]]}
+            distanceFactor={13}
+            zIndexRange={[10, 0]}
+          >
+            <span className="star-name-twinkle">{name}</span>
+          </Html>
+        );
+      })}
+    </>
   );
 }
 
@@ -107,8 +173,12 @@ function ThoughtOrbit({ philosopher, position, selectedProblemId, onSelectProble
         ];
         const isExpanded = problem.id === selectedProblemId;
 
+        const revolveSpeed = 0.09 + problemIndex * 0.035 + (3 - problem.weight) * 0.02;
+        // 任一行星被选中时，整个恒星系停转（层级与"选恒星→银河停转"一致）
+        const systemPaused = selectedProblemId !== null;
+
         return (
-          <group key={problem.id}>
+          <RevolvingGroup key={problem.id} speed={revolveSpeed} paused={systemPaused}>
             <Line
               points={[[0, 0, 0], problemPosition]}
               color={baseColor}
@@ -126,9 +196,12 @@ function ThoughtOrbit({ philosopher, position, selectedProblemId, onSelectProble
               >
                 <meshBasicMaterial color={isExpanded ? "#fff6d8" : "#ffe2a0"} toneMapped={false} />
               </Sphere>
-              <Html center distanceFactor={7}>
-                <span className="thought-orbit-label">{problem.titleZh}</span>
-              </Html>
+              {/* 信息图打开期间隐藏全部行星标签，防止 drei Html 高 z-index 穿透遮罩 */}
+              {selectedProblemId === null && (
+                <Html center distanceFactor={7} position={[0, 0.16, 0]}>
+                  <span className="thought-orbit-label">{problem.titleZh}</span>
+                </Html>
+              )}
             </group>
             {isExpanded && problem.claims.map((claim, claimIndex) => {
               const claimAngle = angle + (claimIndex - (problem.claims.length - 1) / 2) * 0.34;
@@ -161,7 +234,7 @@ function ThoughtOrbit({ philosopher, position, selectedProblemId, onSelectProble
                 </group>
               );
             })}
-          </group>
+          </RevolvingGroup>
         );
       })}
     </group>
@@ -180,28 +253,61 @@ export function StarScene() {
   const quality = useAppStore((state) => state.quality);
   const filters = useAppStore((state) => state.filters);
 
-  const visiblePhilosophers = filterPhilosophersForStarMap(philosophers, filters);
-  const visibleRelationships = filterRelationshipsForStarMap(relationships, visiblePhilosophers, filters);
-  const layout = computeStarLayout(visiblePhilosophers, relationships);
-  const focusedIds = selectedId ? getFocusedRelationshipIds(selectedId, visibleRelationships) : [];
+  // memo 保证 layout 引用稳定：下游 NearbyOrbits 依赖它缓存扫描目标，逐帧重建会退化成每帧全量分配
+  const visiblePhilosophers = useMemo(
+    () => filterPhilosophersForStarMap(philosophers, filters),
+    [philosophers, filters],
+  );
+  const layout = useMemo(
+    () => computeStarLayout(visiblePhilosophers, relationships),
+    [visiblePhilosophers, relationships],
+  );
+  const starTexture = useMemo(() => createStarSurfaceTexture(), []);
   const selectedLayout = selectedId ? layout.find((node) => node.id === selectedId) : null;
+
+  // Esc 逐层退出：观点 → 行星信息图 → 恒星聚焦 → 银河
+  useEffect(() => {
+    const onKeyDown = (event: KeyboardEvent) => {
+      if (event.key !== "Escape") return;
+      const state = useAppStore.getState();
+      if (state.selectedThoughtClaimId) state.selectThoughtClaim(null);
+      else if (state.selectedThoughtProblemId) state.selectThoughtProblem(null);
+      else state.selectPhilosopher(null);
+    };
+    window.addEventListener("keydown", onKeyDown);
+    return () => window.removeEventListener("keydown", onKeyDown);
+  }, []);
 
   return (
     <Canvas
       camera={{ position: [0, 9, 22], fov: 52, near: 0.1, far: 100 }}
-      dpr={quality === "high" ? [1, 2] : 1}
-      gl={{ antialias: false, powerPreference: "high-performance", preserveDrawingBuffer: true }}
+      dpr={quality === "high" ? [1, 1.5] : 1}
+      // preserveDrawingBuffer 多占一整块 framebuffer，仅供 smoke 测试 readPixels 断言用，经 URL 参数按需开启
+      gl={{
+        antialias: false,
+        powerPreference: "high-performance",
+        preserveDrawingBuffer: new URLSearchParams(window.location.search).has("preserve-buffer"),
+      }}
+      onCreated={({ gl }) => {
+        // DEV 调试钩子：profiling 经 window.__gl 读 renderer.info（draw calls / geometries / textures）
+        if (import.meta.env.DEV) (window as unknown as { __gl?: THREE.WebGLRenderer }).__gl = gl;
+      }}
+      onPointerMissed={() => selectPhilosopher(null)}
     >
       <color attach="background" args={["#04050a"]} />
       <fog attach="fog" args={["#04050a", 20, 60]} />
       <ambientLight intensity={0.18} />
-      <StarDust quality={quality} />
+      <StarDust quality={quality} dimmed={selectedId !== null} />
       <PhilosopherStars
         philosophers={visiblePhilosophers}
         layout={layout}
         selectedId={selectedId}
         onSelect={selectPhilosopher}
+        surfaceTexture={starTexture}
+        labelsHidden={selectedThoughtProblemId !== null}
       />
+      <StarNameTwinkle layout={layout} philosophers={visiblePhilosophers} selectedId={selectedId} />
+      <NearbyOrbits layout={layout} selectedId={selectedId} onSelect={selectPhilosopher} />
       {selectedPhilosopher && selectedLayout && (
         <ThoughtOrbit
           philosopher={selectedPhilosopher}
@@ -211,10 +317,16 @@ export function StarScene() {
           onSelectClaim={selectThoughtClaim}
         />
       )}
-      <RelationshipLines relationships={visibleRelationships} layout={layout} focusedIds={focusedIds} />
-      <CameraRig target={selectedLayout?.position} />
+      {/* 关系连线暂时移除：与思想行星轨道视觉干涉，待行星系统稳定后再以按需高亮方式恢复 */}
+      <CameraRig
+        target={selectedLayout?.position}
+        paused={selectedId !== null}
+        focused={selectedId !== null}
+        focusKey={selectedId}
+      />
       {quality === "high" && (
-        <EffectComposer>
+        // multisampling=0：主 Canvas 本就 antialias:false，composer 默认的 MSAA 离屏 buffer 是纯浪费
+        <EffectComposer multisampling={0}>
           <Bloom intensity={0.42} luminanceThreshold={0.35} luminanceSmoothing={0.22} />
         </EffectComposer>
       )}

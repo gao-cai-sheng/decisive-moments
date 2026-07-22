@@ -1,0 +1,45 @@
+{
+  "id": "wang-gen",
+  "tier": "seed",
+  "names": {
+    "zh": "王艮",
+    "en": "Wang Gen",
+    "native": "王艮"
+  },
+  "life": {
+    "birth": 1483,
+    "death": 1541,
+    "display": "1483—1541"
+  },
+  "civilization": "chinese",
+  "traditions": [
+    "neo_confucianism",
+    "taizhou_school"
+  ],
+  "periods": [
+    "ming"
+  ],
+  "themes": [
+    "ethics",
+    "politics"
+  ],
+  "keywordsZh": [
+    "泰州学派",
+    "百姓日用即道",
+    "格物安身"
+  ],
+  "oneLineZh": "明代泰州学派创始人，以百姓日用即道和格物安身著称。",
+  "influenceWeight": 3,
+  "reviewStatus": "draft",
+  "summaryZh": "王艮，字汝止，号心斋，明代泰州人，王阳明后学中最具社会扩展性的思想人物之一。他提出“百姓日用即道”“格物安身”等说法，把良知和道德实践推向日常生活、身体安顿和庶民伦理。《王心斋先生遗集》保存其讲学材料。王艮开创泰州学派，影响罗汝芳、李贽等晚明思想走向。",
+  "works": [
+    "wang-gen-wang-xinzhai-yiji"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S025",
+      "url": "https://ctext.org/wiki.pl?if=en&res=821980",
+      "noteZh": "以王艮《王心斋先生遗集》和明儒学案材料支撑身份层。"
+    }
+  ]
+}

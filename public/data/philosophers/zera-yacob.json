@@ -1,0 +1,294 @@
+{
+  "id": "zera-yacob",
+  "names": {
+    "zh": "泽拉·雅各布",
+    "en": "Zera Yacob",
+    "native": "Zär'a Yaʿəqob"
+  },
+  "life": {
+    "birth": 1599,
+    "death": 1692,
+    "display": "1599—1692"
+  },
+  "civilization": "african",
+  "traditions": [
+    "ethiopian_rationalism",
+    "christian_philosophy",
+    "natural_reason"
+  ],
+  "periods": [
+    "expansion_b5"
+  ],
+  "themes": [
+    "knowledge",
+    "ethics",
+    "religion"
+  ],
+  "keywordsZh": [
+    "探究",
+    "理性",
+    "自然光",
+    "宗教宽容",
+    "平等"
+  ],
+  "oneLineZh": "以《探究》把信仰、理性、自然光和伦理平等组织为埃塞俄比亚理性主义传统。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "泽拉·雅各布以个人逃亡与沉思经验为叙事入口，主张理性和自然光能够检验宗教习俗、道德义务和社会不平等。",
+  "works": [
+    "zera-yacob-hatata",
+    "zera-yacob-prayer-and-light",
+    "zera-yacob-religious-discrimination",
+    "zera-yacob-marriage-and-equality",
+    "zera-yacob-slavery-critique"
+  ],
+  "sourceNotes": [
+    {
+      "label": "Primary corpus note",
+      "url": "https://plato.stanford.edu/entries/ethiopian-philosophy/",
+      "noteZh": "以《探究》传统为核心；二手资料只用于核对归属、年代和主题边界，不替代文本摘要。"
+    }
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "zera-yacob:problem:001",
+        "titleZh": "自然光与宗教习俗的检验",
+        "questionZh": "泽拉·雅各布如何用理性和自然光判断彼此冲突的宗教习俗？",
+        "summaryZh": "泽拉·雅各布把个人受迫害经验转化为哲学探究，主张人应以造物主赋予的理性检验宗教命令和社会成规。",
+        "themeIds": [
+          "knowledge",
+          "religion"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "zera-yacob:claim:001",
+            "titleZh": "自然光是判断信仰的共同尺度",
+            "claimZh": "泽拉·雅各布认为上帝给所有人共同理性，因此宗教主张必须接受自然光的审查。",
+            "explanationZh": "这使其宗教哲学不是纯粹教会服从，而是以人人可分享的理性判断来限制教派权威。",
+            "themeIds": [
+              "knowledge",
+              "religion"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "zera-yacob:evidence:001",
+                "titleZh": "《探究》从逃亡进入理性省察",
+                "summaryZh": "文本叙述作者因宗教冲突和政治迫害退入隐居，由此把生存危机转化为对真理、上帝和理性尺度的连续追问。",
+                "source": {
+                  "workId": "zera-yacob-hatata",
+                  "locator": "Hatata, autobiographical opening and retreat into inquiry",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "zera-yacob:evidence:002",
+                "titleZh": "自然光高于盲从习俗",
+                "summaryZh": "《探究》反复要求人分辨从上帝而来的理性光照和人造习俗之间的差别，以免把地方传统误认作普遍真理。",
+                "source": {
+                  "workId": "zera-yacob-prayer-and-light",
+                  "locator": "Hatata, passages on light of reason and prayer",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "zera-yacob:claim:002",
+            "titleZh": "宗教迫害暴露非理性权威",
+            "claimZh": "泽拉·雅各布把宗教迫害视为人类习俗背离理性和上帝善性的表现。",
+            "explanationZh": "他并不取消信仰，而是以信仰中上帝善性的观念反过来批判教派暴力和强制服从。",
+            "themeIds": [
+              "religion",
+              "justice"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "zera-yacob:evidence:003",
+                "titleZh": "《宗教分别与理性判断》批判教派强制",
+                "summaryZh": "相关段落把互相排斥的宗教禁令放在理性前检验，指出若命令导致残害和迫害，就难以归于善的造物主。",
+                "source": {
+                  "workId": "zera-yacob-religious-discrimination",
+                  "locator": "Hatata, criticism of sectarian coercion and false custom",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "zera-yacob:evidence:004",
+                "titleZh": "《探究》以善的上帝限制教条",
+                "summaryZh": "文本把上帝理解为理性和善的源头，因此凡违背人类共同福祉的宗教要求，都需要被重新辨析而不能直接接受。",
+                "source": {
+                  "workId": "zera-yacob-hatata",
+                  "locator": "Hatata, arguments from divine goodness to human judgment",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "zera-yacob:problem:002",
+        "titleZh": "伦理平等与身体生活",
+        "questionZh": "泽拉·雅各布如何从造物主和共同人性推出婚姻、性别与奴役问题上的伦理限制？",
+        "summaryZh": "泽拉·雅各布把身体、婚姻和劳动置于自然伦理秩序内讨论，反对把宗教禁忌或社会等级凌驾于共同人性之上。",
+        "themeIds": [
+          "ethics",
+          "justice"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "zera-yacob:claim:003",
+            "titleZh": "婚姻体现互补而非支配",
+            "claimZh": "泽拉·雅各布把男女关系理解为造物秩序中的互补伦理，而不是单向支配关系。",
+            "explanationZh": "这条主张使他的自然理性伦理进入家庭与身体生活，不停留在抽象神学层面。",
+            "themeIds": [
+              "ethics",
+              "justice"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "zera-yacob:evidence:005",
+                "titleZh": "《婚姻与男女平等》论自然生活",
+                "summaryZh": "相关论述把婚姻和身体欲望放入造物主安排的自然秩序，拒绝把禁欲或性别贬抑当作更高德性。",
+                "source": {
+                  "workId": "zera-yacob-marriage-and-equality",
+                  "locator": "Hatata, passages on marriage, sexuality, and equality",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "zera-yacob:evidence:006",
+                "titleZh": "《探究》连接家庭伦理与共同理性",
+                "summaryZh": "文本讨论男女关系时并不诉诸等级习俗，而以双方同属上帝创造和共同生活需要来说明伦理互惠。",
+                "source": {
+                  "workId": "zera-yacob-hatata",
+                  "locator": "Hatata, domestic ethics and natural reason",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "zera-yacob:claim:004",
+            "titleZh": "奴役违反共同人性",
+            "claimZh": "泽拉·雅各布从人类同受造物主创造出发，批判把人降为财产的奴役关系。",
+            "explanationZh": "这使其伦理平等具有社会批判含义，能够把自然理性推进到制度性不正义问题。",
+            "themeIds": [
+              "justice",
+              "ethics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "zera-yacob:evidence:007",
+                "titleZh": "《奴役批判》反对把人商品化",
+                "summaryZh": "相关段落将奴役同上帝创造所有人的共同地位相对照，指出支配他人身体和自由不能由自然理性证明。",
+                "source": {
+                  "workId": "zera-yacob-slavery-critique",
+                  "locator": "Hatata, critique of slavery and domination",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "zera-yacob:evidence:008",
+                "titleZh": "《探究》把道德义务扩展到他人自由",
+                "summaryZh": "文本从善的上帝和共同理性推出对他人的义务，因而伦理不是私人虔敬，而包含不得侵害他人自由的原则。",
+                "source": {
+                  "workId": "zera-yacob-hatata",
+                  "locator": "Hatata, moral duties toward other persons",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "zera-yacob:problem:003",
+        "titleZh": "非洲理性主义的哲学位置",
+        "questionZh": "泽拉·雅各布为什么能够成为非洲哲学史中的早期理性论节点？",
+        "summaryZh": "泽拉·雅各布的重要性不只在民族身份，而在于其署名文本用连续论证处理真理、信仰和伦理，为非洲哲学提供文本性案例。",
+        "themeIds": [
+          "knowledge",
+          "language"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "zera-yacob:claim:005",
+            "titleZh": "署名论证反驳非洲哲学无文本论",
+            "claimZh": "泽拉·雅各布的《探究》显示非洲思想史中存在以个人论证组织的哲学文本。",
+            "explanationZh": "这条主张让他与洪通吉关于非洲哲学文本性和论辩性的要求形成可连接关系。",
+            "themeIds": [
+              "knowledge",
+              "language"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "zera-yacob:evidence:009",
+                "titleZh": "《探究》采用第一人称论证结构",
+                "summaryZh": "文本以个人经历开端，却持续给出理由、反驳和判断标准，呈现的不是格言汇编，而是可追踪的哲学论证。",
+                "source": {
+                  "workId": "zera-yacob-hatata",
+                  "locator": "Hatata, first-person inquiry and argumentative structure",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "zera-yacob:evidence:010",
+                "titleZh": "研究传统将其置于埃塞俄比亚哲学",
+                "summaryZh": "现代研究常把《探究》传统作为埃塞俄比亚哲学的重要文本群，说明其价值在于论证形式和思想主题的结合。",
+                "source": {
+                  "workId": "zera-yacob-hatata",
+                  "locator": "Scholarly framing of Hatata as Ethiopian philosophical text",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "zera-yacob:claim:006",
+            "titleZh": "与笛卡尔并置应保持差异",
+            "claimZh": "泽拉·雅各布可与笛卡尔并置为十七世纪理性论者，但其问题重心在宗教习俗与伦理生活。",
+            "explanationZh": "这种关系线应避免把他当作欧洲理性主义脚注，而应突出埃塞俄比亚文本自己的神学伦理方向。",
+            "themeIds": [
+              "knowledge",
+              "religion"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "zera-yacob:evidence:011",
+                "titleZh": "《探究》与笛卡尔共享怀疑入口",
+                "summaryZh": "文本同样从不确定和冲突中寻找可靠尺度，但其怀疑主要针对宗教习俗、迫害和伦理禁令，而非数学自然科学。",
+                "source": {
+                  "workId": "zera-yacob-hatata",
+                  "locator": "Hatata, inquiry after conflicting doctrines and reliable judgment",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "zera-yacob:evidence:012",
+                "titleZh": "自然神学服务于伦理判断",
+                "summaryZh": "《祈祷与自然光》中的上帝论并非孤立证明，而是支撑人如何辨别善恶、习俗和社会义务的实践判断。",
+                "source": {
+                  "workId": "zera-yacob-prayer-and-light",
+                  "locator": "Hatata, divine goodness, reason, and moral discernment",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "tier": "standard"
+}

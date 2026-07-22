@@ -1,0 +1,287 @@
+{
+  "id": "democritus",
+  "names": {
+    "zh": "德谟克利特",
+    "en": "Democritus"
+  },
+  "life": {
+    "birth": -460,
+    "death": -370,
+    "display": "约前 460—前 370"
+  },
+  "civilization": "ancient_greek",
+  "traditions": [
+    "atomism",
+    "presocratic_philosophy",
+    "ancient_greek_philosophy"
+  ],
+  "periods": [
+    "first_release"
+  ],
+  "themes": [
+    "metaphysics",
+    "knowledge",
+    "ethics"
+  ],
+  "keywordsZh": [
+    "形而上学",
+    "知识",
+    "伦理"
+  ],
+  "oneLineZh": "古代原子论代表人物，以原子与虚空解释自然，并提出感知、约定和安宁伦理问题。",
+  "influenceWeight": 1,
+  "reviewStatus": "draft",
+  "summaryZh": "古代原子论代表人物，以原子与虚空解释自然，并提出感知、约定和安宁伦理问题。本条目以 summary_only 方式整理，重点保留低争议的问题结构、主张和可追溯证据定位。",
+  "works": [
+    "democritus-primary-work"
+  ],
+  "sourceNotes": [
+    {
+      "label": "primary-dossier",
+      "noteZh": "本轮采用德谟克利特残篇、亚里士多德、泰奥弗拉斯托斯、第欧根尼·拉尔修、塞克斯都和现代原子论研究交叉定位；不填逐字摘录。"
+    },
+    {
+      "label": "excerpt-status",
+      "noteZh": "全部 evidence 使用 summary_only，locator 保留到残篇编号或古代见证层级。"
+    }
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "democritus:problem:001",
+        "titleZh": "原子和虚空如何解释世界？",
+        "questionZh": "德谟克利特如何用不可分原子、虚空、形状和排列解释自然变化，而不诉诸目的或神意？",
+        "summaryZh": "原子论把世界还原为原子在虚空中的运动、结合和分离。事物差异来自原子的形状、次序和位置，而非质料目的。",
+        "themeIds": [
+          "metaphysics",
+          "knowledge"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "democritus:claim:001",
+            "titleZh": "原子与虚空是基本解释框架",
+            "claimZh": "德谟克利特认为存在不可分原子和虚空，万物由原子运动、结合和分离形成。",
+            "explanationZh": "这回应巴门尼德对非存在的限制：虚空作为非物体的空间使运动和多样性成为可能。",
+            "themeIds": [
+              "metaphysics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "democritus:evidence:001",
+                "titleZh": "亚里士多德关于原子和虚空的见证",
+                "summaryZh": "亚里士多德多处报告留基伯和德谟克利特以充实者和虚空解释存在、运动和多样性问题的来源。",
+                "source": {
+                  "workId": "democritus-primary-work",
+                  "locator": "Aristotle, Metaphysics A.4 and On Generation and Corruption I.8 on atomists, atoms and void",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "democritus:evidence:002",
+                "titleZh": "第欧根尼·拉尔修的原子论概述",
+                "summaryZh": "传记资料概述德谟克利特著作和原子、虚空、世界生成等主题，保留原子论传统轮廓线索。",
+                "source": {
+                  "workId": "democritus-primary-work",
+                  "locator": "Diogenes Laertius IX.44-49 on Democritus, atoms, void and worlds",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "democritus:claim:002",
+            "titleZh": "性质差异来自形状、次序和位置",
+            "claimZh": "原子本身只具形状、大小和排列等结构特征，宏观性质来自组合方式。",
+            "explanationZh": "这使甜、苦、热、冷等经验性质被降格为由原子结构产生的现象层面。",
+            "themeIds": [
+              "metaphysics",
+              "knowledge"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "democritus:evidence:003",
+                "titleZh": "亚里士多德关于字母类比的报告",
+                "summaryZh": "亚里士多德以字母形状、次序和位置类比原子组合造成事物差异，说明结构差异来源机制。",
+                "source": {
+                  "workId": "democritus-primary-work",
+                  "locator": "Aristotle, Metaphysics A.4, 985b on atomist differences by shape, order and position",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "democritus:evidence:004",
+                "titleZh": "泰奥弗拉斯托斯关于感性性质的见证",
+                "summaryZh": "泰奥弗拉斯托斯保存原子论对味、色等感性性质的解释材料，显示性质还原思路和感知分析。",
+                "source": {
+                  "workId": "democritus-primary-work",
+                  "locator": "Theophrastus, De Sensibus on Democritus' explanations of sensory qualities",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "democritus:problem:002",
+        "titleZh": "感知为何既必要又不可靠？",
+        "questionZh": "德谟克利特如何区分约定层面的感性性质和真实层面的原子虚空？",
+        "summaryZh": "德谟克利特的认识论把感觉作为接触世界的入口，同时承认感觉给出的颜色、味道等只是约定或现象，真实在于原子和虚空。",
+        "themeIds": [
+          "knowledge",
+          "metaphysics"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "democritus:claim:003",
+            "titleZh": "约定与真实的区分削弱感性实在性",
+            "claimZh": "德谟克利特残篇把甜、苦、热、冷和颜色归于约定，把原子和虚空称为真实。",
+            "explanationZh": "这不是否定经验作用，而是区分经验显现和理论解释层级。",
+            "themeIds": [
+              "knowledge",
+              "metaphysics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "democritus:evidence:005",
+                "titleZh": "约定与真实残篇",
+                "summaryZh": "著名残篇称颜色、甜、苦等依约定，真实只有原子和虚空，区分现象和理论实在层次关系。",
+                "source": {
+                  "workId": "democritus-primary-work",
+                  "locator": "Democritus DK 68 B9, B125 on convention and reality: atoms and void",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "democritus:evidence:006",
+                "titleZh": "塞克斯都保存认识论残篇",
+                "summaryZh": "塞克斯都保存德谟克利特关于感觉和理智认识张力的材料，显示怀疑和实在论并存关系结构。",
+                "source": {
+                  "workId": "democritus-primary-work",
+                  "locator": "Sextus Empiricus, Against the Logicians on Democritus' distinction between bastard and genuine knowledge",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "democritus:claim:004",
+            "titleZh": "理智认识依赖并超越感觉",
+            "claimZh": "德谟克利特区分暗昧知识和真正知识，认为理智能在感觉不足处追问更深结构。",
+            "explanationZh": "这形成经验与理论的张力：理论不能脱离感觉起点，却要解释感觉背后的不可见结构。",
+            "themeIds": [
+              "knowledge"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "democritus:evidence:007",
+                "titleZh": "暗昧与真正知识材料",
+                "summaryZh": "古代资料把感觉归为较暗昧的认识，把理智探究原子虚空归为更真实认识层级结构之一种。",
+                "source": {
+                  "workId": "democritus-primary-work",
+                  "locator": "Democritus DK 68 B11 and related Sextus testimonia on two kinds of knowledge",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "democritus:evidence:008",
+                "titleZh": "现代研究对原子论认识论的解释",
+                "summaryZh": "现代研究通常把德谟克利特视为提出理论实在与感性显现区别的关键早期人物之一代表人物。",
+                "source": {
+                  "workId": "democritus-primary-work",
+                  "locator": "Modern scholarship on Democritus' epistemology, perception and theoretical realism",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "democritus:problem:003",
+        "titleZh": "原子论者为何也有伦理学？",
+        "questionZh": "德谟克利特如何从自然哲学转向安宁、节制、灵魂秩序和好生活？",
+        "summaryZh": "德谟克利特不仅是自然哲学家，残篇也呈现以 euthymia、节制、教育和灵魂秩序为核心的伦理思考。",
+        "themeIds": [
+          "ethics",
+          "life_death"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "democritus:claim:005",
+            "titleZh": "安宁是伦理生活目标",
+            "claimZh": "德谟克利特伦理残篇强调 euthymia，即灵魂稳定、适度和免于过度扰动的状态。",
+            "explanationZh": "这为后来的伊壁鸠鲁安宁伦理提供重要背景，但德谟克利特并非简单等同伊壁鸠鲁。",
+            "themeIds": [
+              "ethics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "democritus:evidence:009",
+                "titleZh": "euthymia 伦理残篇",
+                "summaryZh": "残篇强调节制欲望、避免过度和保持灵魂平衡的重要性，构成其安宁伦理方向和实践目标。",
+                "source": {
+                  "workId": "democritus-primary-work",
+                  "locator": "Democritus DK 68 B191, B189 and related ethical fragments on euthymia and moderation",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "democritus:evidence:010",
+                "titleZh": "第欧根尼·拉尔修伦理材料",
+                "summaryZh": "传记资料将德谟克利特与快乐、安宁和灵魂良好状态的伦理思想相联系起来并加以归纳说明。",
+                "source": {
+                  "workId": "democritus-primary-work",
+                  "locator": "Diogenes Laertius IX.45 on Democritus' ethical aim and cheerfulness/tranquility",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "democritus:claim:006",
+            "titleZh": "教育和习惯能重塑人",
+            "claimZh": "德谟克利特伦理残篇强调教育、习惯和理性训练对人的塑造作用。",
+            "explanationZh": "这说明原子论并不必然导致伦理虚无；人的灵魂秩序仍可通过训练改善。",
+            "themeIds": [
+              "ethics",
+              "knowledge"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "democritus:evidence:011",
+                "titleZh": "教育与习惯残篇",
+                "summaryZh": "残篇把教育视为改造人和形成第二自然的重要力量，强调习惯对性格的塑造作用和持续影响。",
+                "source": {
+                  "workId": "democritus-primary-work",
+                  "locator": "Democritus DK 68 B33, B179, B242 and ethical fragments on education, habit and character",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "democritus:evidence:012",
+                "titleZh": "现代研究对伦理和物理关系的处理",
+                "summaryZh": "现代研究通常强调德谟克利特伦理残篇虽零散，却显示其思想不止于物理原子论解释范围。",
+                "source": {
+                  "workId": "democritus-primary-work",
+                  "locator": "Modern scholarship on Democritus' ethics, euthymia and relation to atomist physics",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "tier": "standard"
+}

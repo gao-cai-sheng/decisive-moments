@@ -12,6 +12,7 @@ const fixtures: Record<string, unknown> = {
   "/data/philosophers.index.json": [
     {
       id: "plato",
+      tier: "standard",
       names: { zh: "柏拉图", en: "Plato" },
       life: { display: "x" },
       civilization: "ancient_greek",
@@ -26,6 +27,7 @@ const fixtures: Record<string, unknown> = {
   ],
   "/data/philosophers/plato.json": {
     id: "plato",
+    tier: "standard",
     names: { zh: "柏拉图", en: "Plato" },
     life: { display: "x" },
     civilization: "ancient_greek",

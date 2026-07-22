@@ -1,0 +1,297 @@
+{
+  "id": "dilthey",
+  "names": {
+    "zh": "狄尔泰",
+    "en": "Wilhelm Dilthey"
+  },
+  "life": {
+    "birth": 1833,
+    "death": 1911,
+    "display": "1833—1911"
+  },
+  "civilization": "european_modern",
+  "traditions": [
+    "hermeneutics",
+    "life_philosophy",
+    "historicism"
+  ],
+  "periods": [
+    "expansion_e3"
+  ],
+  "themes": [
+    "knowledge",
+    "life_death",
+    "language"
+  ],
+  "keywordsZh": [
+    "精神科学",
+    "理解",
+    "体验",
+    "历史世界",
+    "世界观"
+  ],
+  "oneLineZh": "以精神科学、体验和理解理论把历史生命世界纳入哲学方法论。",
+  "influenceWeight": 3,
+  "reviewStatus": "draft",
+  "summaryZh": "狄尔泰试图为精神科学建立不同于自然科学说明的认识基础，以体验、表达和理解说明历史世界的可理解性；他的解释学和生命哲学经由海德格尔、伽达默尔和二十世纪历史主义争论成为现代欧陆哲学的重要中介。",
+  "works": [
+    "dilthey-schleiermacher-life",
+    "dilthey-introduction-human-sciences",
+    "dilthey-poetry-experience",
+    "dilthey-formation-historical-world",
+    "dilthey-types-worldview",
+    "dilthey-selected-writings"
+  ],
+  "sourceNotes": [
+    {
+      "label": "SEP",
+      "url": "https://plato.stanford.edu/entries/dilthey/",
+      "noteZh": "用于核对狄尔泰生平、精神科学、体验/理解、历史世界与解释学。"
+    },
+    {
+      "label": "review",
+      "noteZh": "E3 批新增条目，重点连接黑格尔、海德格尔和伽达默尔的解释学链。"
+    }
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "dilthey:problem:001",
+        "titleZh": "精神科学如何拥有自己的认识基础？",
+        "questionZh": "狄尔泰怎样区分自然科学说明和精神科学理解，并为历史人文学科辩护？",
+        "summaryZh": "狄尔泰认为人文历史对象由生命表达和意义关系构成，不能完全用自然因果说明处理，而需要以理解进入历史世界。",
+        "themeIds": [
+          "knowledge"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "dilthey:claim:001",
+            "titleZh": "精神科学以理解为核心方法",
+            "claimZh": "研究历史和社会生活时，认识者面对的是已经被意义、表达和目的组织起来的人类世界。",
+            "explanationZh": "这不是拒绝经验，而是主张精神科学的经验材料包括文本、制度、传记和行动意义，需要不同于自然科学的解释结构。",
+            "themeIds": [
+              "knowledge",
+              "language"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "dilthey:evidence:001",
+                "titleZh": "《精神科学导论》的学科奠基",
+                "summaryZh": "《精神科学导论》试图为历史、社会和人文学科建立认识论基础，区分解释自然和理解人类生活的任务。",
+                "source": {
+                  "workId": "dilthey-introduction-human-sciences",
+                  "locator": "Introduction to the Human Sciences, program for Geisteswissenschaften",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "dilthey:evidence:002",
+                "titleZh": "SEP 对精神科学问题的概括",
+                "summaryZh": "SEP 将狄尔泰定位为处理历史证据、科学方法和历史科学地位的关键解释学思想家，并强调其人文学科方法论问题。",
+                "source": {
+                  "workId": "dilthey-introduction-human-sciences",
+                  "locator": "SEP Dilthey, introduction and human sciences sections",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "dilthey:claim:002",
+            "titleZh": "历史世界由生命表达构成",
+            "claimZh": "历史对象不是外在事件堆积，而是生命在语言、制度、艺术和行动中的表达网络。",
+            "explanationZh": "狄尔泰把人文研究的对象理解为可再理解的意义结构，使历史知识既经验化又不被还原为物理因果。",
+            "themeIds": [
+              "knowledge",
+              "life_death"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "dilthey:evidence:003",
+                "titleZh": "《历史世界的形成》的表达结构",
+                "summaryZh": "《精神科学中历史世界的形成》把体验、表达和理解连接起来，说明历史世界如何成为可理解对象。",
+                "source": {
+                  "workId": "dilthey-formation-historical-world",
+                  "locator": "The Formation of the Historical World in the Human Sciences, experience-expression-understanding",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "dilthey:evidence:004",
+                "titleZh": "SEP 对体验表达理解三联的说明",
+                "summaryZh": "SEP 说明狄尔泰晚期以体验、表达和理解构成解释学结构，处理历史生命世界的认识条件。",
+                "source": {
+                  "workId": "dilthey-formation-historical-world",
+                  "locator": "SEP Dilthey, later hermeneutics and historical world",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "dilthey:problem:002",
+        "titleZh": "生命体验怎样进入历史理解？",
+        "questionZh": "狄尔泰如何用体验、传记和世界观说明个体生命与历史精神之间的联系？",
+        "summaryZh": "狄尔泰认为个人生命并非孤立心理事实，而在表达和传记结构中形成可理解的整体，并进入更大的历史精神世界。",
+        "themeIds": [
+          "life_death",
+          "knowledge"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "dilthey:claim:003",
+            "titleZh": "体验不是私密瞬间而有结构",
+            "claimZh": "体验在回忆、表达和叙述中成为可理解的生命关联，而不只是不可传达的内在感觉。",
+            "explanationZh": "这使狄尔泰能用传记、文学和历史文本研究个体生命，同时避免把理解缩成同情式心理投射。",
+            "themeIds": [
+              "life_death",
+              "language"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "dilthey:evidence:005",
+                "titleZh": "《体验与诗》的文学理解",
+                "summaryZh": "《体验与诗》通过文学创作和生命表达说明体验如何在文本形式中获得客观化和可理解性。",
+                "source": {
+                  "workId": "dilthey-poetry-experience",
+                  "locator": "Poetry and Experience, essays on Erlebnis and literature",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "dilthey:evidence:006",
+                "titleZh": "施莱尔马赫传的个体理解",
+                "summaryZh": "《施莱尔马赫传》通过传记方式呈现思想、生活和历史环境的交织，体现狄尔泰以个体生命理解精神传统的方法。",
+                "source": {
+                  "workId": "dilthey-schleiermacher-life",
+                  "locator": "Life of Schleiermacher, biographical-hermeneutic method",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "dilthey:claim:004",
+            "titleZh": "世界观表达生命立场",
+            "claimZh": "哲学体系、宗教和艺术都可被理解为生命面对世界、价值和有限性时形成的世界观类型。",
+            "explanationZh": "世界观理论把哲学史从抽象命题史转为生命解释史，说明不同体系对应不同存在处境和价值取向。",
+            "themeIds": [
+              "life_death",
+              "metaphysics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "dilthey:evidence:007",
+                "titleZh": "《世界观的类型》的分类工作",
+                "summaryZh": "《世界观的类型》把自然主义、自由唯心主义和客观唯心主义等理解为生命解释的基本哲学形态。",
+                "source": {
+                  "workId": "dilthey-types-worldview",
+                  "locator": "The Types of Worldview, typology of philosophical worldviews",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "dilthey:evidence:008",
+                "titleZh": "SEP 对世界观理论的定位",
+                "summaryZh": "SEP 将世界观类型列入狄尔泰晚期哲学，说明其把哲学体系同生活经验和历史处境相联系。",
+                "source": {
+                  "workId": "dilthey-types-worldview",
+                  "locator": "SEP Dilthey, worldview and philosophy of life sections",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "dilthey:problem:003",
+        "titleZh": "解释学为何从文本方法走向历史哲学？",
+        "questionZh": "狄尔泰如何把施莱尔马赫解释学扩展为理解历史生命世界的一般理论？",
+        "summaryZh": "狄尔泰继承文本解释传统，但把解释学从语文学规则推进为精神科学基础，影响海德格尔和伽达默尔的存在论解释学。",
+        "themeIds": [
+          "language",
+          "knowledge"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "dilthey:claim:005",
+            "titleZh": "解释学应普遍化为精神科学基础",
+            "claimZh": "解释不是少数经典文本的技巧，而是所有历史人文知识都依赖的理解结构。",
+            "explanationZh": "狄尔泰由此把解释学从方法手册提升为认识论基础，预备了二十世纪解释学的哲学化。",
+            "themeIds": [
+              "language",
+              "knowledge"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "dilthey:evidence:009",
+                "titleZh": "晚期解释学的普遍化",
+                "summaryZh": "《历史世界的形成》把解释学结构扩展到制度、历史和社会世界，使理解成为精神科学的总体方法。",
+                "source": {
+                  "workId": "dilthey-formation-historical-world",
+                  "locator": "The Formation of the Historical World, hermeneutics and human sciences",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "dilthey:evidence:010",
+                "titleZh": "SEP 对解释学继承的说明",
+                "summaryZh": "SEP 说明狄尔泰从施莱尔马赫文本解释传统出发，试图建立更一般的人文科学解释学。",
+                "source": {
+                  "workId": "dilthey-schleiermacher-life",
+                  "locator": "SEP Dilthey, Schleiermacher and hermeneutics",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "dilthey:claim:006",
+            "titleZh": "历史性改变主体自我理解",
+            "claimZh": "理解历史不是旁观过去，而是在历史生命连续体中重新理解自身位置。",
+            "explanationZh": "这一命题使狄尔泰成为海德格尔历史性和伽达默尔效果历史的重要前史：理解者自身也处在被理解的传统中。",
+            "themeIds": [
+              "knowledge",
+              "life_death"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "dilthey:evidence:011",
+                "titleZh": "历史世界中的主体位置",
+                "summaryZh": "《历史世界的形成》强调理解者与历史表达同属生命关联，历史知识因此包含自我定位和传统理解。",
+                "source": {
+                  "workId": "dilthey-formation-historical-world",
+                  "locator": "The Formation of the Historical World, historical consciousness",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "dilthey:evidence:012",
+                "titleZh": "SEP 对后世影响的说明",
+                "summaryZh": "SEP 将狄尔泰列为海德格尔和伽达默尔解释学前史，说明其历史生命问题在后世被存在论化。",
+                "source": {
+                  "workId": "dilthey-selected-writings",
+                  "locator": "SEP Dilthey, influence and reception",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "tier": "standard"
+}

@@ -1,0 +1,47 @@
+{
+  "id": "octavio-paz",
+  "tier": "seed",
+  "names": {
+    "zh": "奥克塔维奥·帕斯",
+    "en": "Octavio Paz"
+  },
+  "life": {
+    "birth": 1914,
+    "death": 1998,
+    "display": "1914—1998"
+  },
+  "civilization": "latin_american",
+  "traditions": [
+    "mexican_philosophy",
+    "latin_american_essay",
+    "aesthetics"
+  ],
+  "periods": [
+    "seed_w9"
+  ],
+  "themes": [
+    "aesthetics",
+    "politics",
+    "ethics"
+  ],
+  "keywordsZh": [
+    "孤独的迷宫",
+    "墨西哥性",
+    "诗与现代性"
+  ],
+  "oneLineZh": "墨西哥诗人兼思想家，以《孤独的迷宫》分析墨西哥身份、孤独与现代性。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "帕斯本批以思想家身份收录，重点在《孤独的迷宫》中的墨西哥身份分析和《另一个声音》中的诗、现代性与公共生活思考，而非作为纯文学条目。本条仅作 seed 身份层。",
+  "works": [
+    "octavio-paz-labyrinth-solitude",
+    "octavio-paz-other-voice"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S006",
+      "url": "https://www.britannica.com/biography/Octavio-Paz",
+      "noteZh": "Britannica Octavio Paz 条目用于核验 Paz 的思想家/作者身份和《孤独的迷宫》等代表作。"
+    }
+  ]
+}

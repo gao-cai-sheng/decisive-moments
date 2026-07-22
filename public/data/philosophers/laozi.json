@@ -5,9 +5,9 @@
     "en": "Laozi"
   },
   "life": {
-    "display": "约前 571—前 471",
     "birth": -571,
-    "death": -471
+    "death": -471,
+    "display": "约前 571—前 471"
   },
   "civilization": "chinese",
   "traditions": [
@@ -38,5 +38,250 @@
       "label": "draft",
       "noteZh": "条目需要人工核对作品、年代和概念表述。"
     }
-  ]
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "laozi:problem:001",
+        "titleZh": "道作为终极根据",
+        "questionZh": "老子如何以‘道’说明万物生成和秩序的根源？道为何不可被固定命名？",
+        "summaryZh": "老子的道既是万物生成的根源，又不等同于任何可命名、可感知的对象。道无形无名而先天地生，生养万物却不居功，由此构成一种非人格化、非强制性的本体论。",
+        "themeIds": [
+          "metaphysics"
+        ],
+        "weight": 1,
+        "claims": [
+          {
+            "id": "laozi:claim:001",
+            "titleZh": "道无形无名而先天地生",
+            "claimZh": "老子以道为无形、无名、不可感知的终极根据，它先于天地存在，是万物生成的本源。",
+            "explanationZh": "道不是具体神灵或实体，而是万物所以生成、变化和复归的深层根据；其不可名正说明任何概念都不能穷尽它。",
+            "themeIds": [
+              "metaphysics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "laozi:evidence:001",
+                "titleZh": "《老子》第一章论道不可道",
+                "summaryZh": "第一章以道可道非常道开篇，指出可被言说和固定命名的道并非恒常之道，从而奠定道的超名言性质。",
+                "source": {
+                  "workId": "laozi-primary-work",
+                  "locator": "《老子》第一章：道可道，非常道段",
+                  "publicDomainExcerptZh": "道可道，非常道；名可名，非常名。无名天地之始；有名万物之母。",
+                  "excerptStatus": "public_domain"
+                }
+              },
+              {
+                "id": "laozi:evidence:002",
+                "titleZh": "《老子》第二十五章论先天地生",
+                "summaryZh": "第二十五章以有物混成、先天地生描述道的先在性和独立性，说明道不是天地内部的普通对象。",
+                "source": {
+                  "workId": "laozi-primary-work",
+                  "locator": "《老子》第二十五章：有物混成，先天地生段",
+                  "publicDomainExcerptZh": "有物混成，先天地生。寂兮寥兮，独立而不改，周行而不殆，可以为天地母。吾不知其名，字之曰道。",
+                  "excerptStatus": "public_domain"
+                }
+              }
+            ]
+          },
+          {
+            "id": "laozi:claim:005",
+            "titleZh": "道生万物而不居其功",
+            "claimZh": "老子的道不仅先于天地，也以生而不有、为而不恃的方式生成和维系万物。",
+            "explanationZh": "该命题说明道的创造不是强制支配，而是让万物自生自成，影响老子的无为政治和柔弱伦理。",
+            "themeIds": [
+              "metaphysics"
+            ],
+            "weight": 1,
+            "evidence": [
+              {
+                "id": "laozi:evidence:005",
+                "titleZh": "《老子》第五十一章论道生德畜",
+                "summaryZh": "第五十一章把道生之、德畜之、物形之、势成之相连，说明万物生成和维系来自非占有式的道德作用。",
+                "source": {
+                  "workId": "laozi-primary-work",
+                  "locator": "《老子》第五十一章：道生之，德畜之段",
+                  "publicDomainExcerptZh": "道生之，德畜之，物形之，势成之。是以万物莫不尊道而贵德。",
+                  "excerptStatus": "public_domain"
+                }
+              },
+              {
+                "id": "laozi:evidence:009",
+                "titleZh": "《老子》第三十四章论大道泛兮",
+                "summaryZh": "第三十四章描述大道泛兮、万物恃之而生而不辞，强调道生养万物却不主宰、不占有其功。",
+                "source": {
+                  "workId": "laozi-primary-work",
+                  "locator": "《老子》第三十四章：大道泛兮，其可左右段",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "laozi:problem:002",
+        "titleZh": "无为而治",
+        "questionZh": "老子为何主张无为而治？无为如何减少争夺和社会扰动？",
+        "summaryZh": "老子的政治哲学强调圣人以无为、不言和少私寡欲的方式治理，减少统治者对社会的强制干预和欲望刺激。无为不是不作为，而是避免过度作为破坏自然秩序。",
+        "themeIds": [
+          "politics"
+        ],
+        "weight": 1,
+        "claims": [
+          {
+            "id": "laozi:claim:002",
+            "titleZh": "圣人处无为之事，行不言之教",
+            "claimZh": "老子主张圣人以无为的方式处理政事，以不言的方式施行教化，从而减少强制与欲望对社会的扰乱。",
+            "explanationZh": "无为并非懒惰，而是不以强力和炫耀性政策干扰民众生活，使秩序更多来自自化和自然调节。",
+            "themeIds": [
+              "politics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "laozi:evidence:003",
+                "titleZh": "《老子》第二章论无为之事",
+                "summaryZh": "第二章以圣人处无为之事、行不言之教说明理想治理方式，强调不居功、不强制和顺势成就。",
+                "source": {
+                  "workId": "laozi-primary-work",
+                  "locator": "《老子》第二章：圣人处无为之事段",
+                  "publicDomainExcerptZh": "是以圣人处无为之事，行不言之教。万物作焉而不辞，生而不有，为而不恃，功成而弗居。",
+                  "excerptStatus": "public_domain"
+                }
+              },
+              {
+                "id": "laozi:evidence:004",
+                "titleZh": "《老子》第五十七章论我无为而民自化",
+                "summaryZh": "第五十七章通过我无为而民自化等句，把治理者少干预和民众自我化育相连，是无为政治的集中表达。",
+                "source": {
+                  "workId": "laozi-primary-work",
+                  "locator": "《老子》第五十七章：我无为而民自化段",
+                  "publicDomainExcerptZh": "我无为而民自化；我好静而民自正；我无事而民自富；我无欲而民自朴。",
+                  "excerptStatus": "public_domain"
+                }
+              }
+            ]
+          },
+          {
+            "id": "laozi:claim:006",
+            "titleZh": "无为治理要减少诱发争夺的刺激",
+            "claimZh": "老子的政治方案要求统治者减少制造欲望和竞争的制度刺激，使民心趋于安定。",
+            "explanationZh": "这一主张把政治秩序和欲望管理相连，认为尚贤、贵难得之货和炫耀性治理都会诱发争夺。",
+            "themeIds": [
+              "politics",
+              "ethics"
+            ],
+            "weight": 1,
+            "evidence": [
+              {
+                "id": "laozi:evidence:006",
+                "titleZh": "《老子》第三章论不尚贤",
+                "summaryZh": "第三章以不尚贤、使民不争和不贵难得之货说明治理者应减少外在刺激，避免制度诱发争夺和盗心。",
+                "source": {
+                  "workId": "laozi-primary-work",
+                  "locator": "《老子》第三章：不尚贤，使民不争段",
+                  "publicDomainExcerptZh": "不尚贤，使民不争；不贵难得之货，使民不为盗；不见可欲，使民心不乱。",
+                  "excerptStatus": "public_domain"
+                }
+              },
+              {
+                "id": "laozi:evidence:010",
+                "titleZh": "《老子》第八十章论小国寡民",
+                "summaryZh": "第八十章以小国寡民描绘低欲望、少干预和简朴生活的政治想象，体现无为治理的社会结果。",
+                "source": {
+                  "workId": "laozi-primary-work",
+                  "locator": "《老子》第八十章：小国寡民段",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "laozi:problem:003",
+        "titleZh": "语言、名与道的限度",
+        "questionZh": "老子如何理解语言和名称的限度？有与无为何成为理解道的双重视角？",
+        "summaryZh": "老子一方面承认名言可以提示万物和政治原则，另一方面又强调固定名称无法穷尽常道。有与无、玄与妙的双重视角共同构成对道的间接理解。",
+        "themeIds": [
+          "language",
+          "metaphysics"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "laozi:claim:003",
+            "titleZh": "名言有用但不能穷尽道",
+            "claimZh": "老子把名言视为必要但有限的提示工具，真正的道不能被任何固定名称完全捕获。",
+            "explanationZh": "该命题让《老子》的语言具有悖论性：必须言说以指示道，又必须提醒读者不要把言说本身当成道。",
+            "themeIds": [
+              "language",
+              "metaphysics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "laozi:evidence:007",
+                "titleZh": "《老子》第一章论名可名",
+                "summaryZh": "第一章以名可名非常名说明名称只能暂时指示对象和道路，不能把常道完全固定在概念中。",
+                "source": {
+                  "workId": "laozi-primary-work",
+                  "locator": "《老子》第一章：名可名，非常名段",
+                  "publicDomainExcerptZh": "道可道，非常道；名可名，非常名。无名天地之始；有名万物之母。",
+                  "excerptStatus": "public_domain"
+                }
+              },
+              {
+                "id": "laozi:evidence:011",
+                "titleZh": "《老子》第十四章论视听搏不得",
+                "summaryZh": "第十四章以视之不见、听之不闻、搏之不得说明道不可被感官和名称直接把握，只能通过间接描述提示。",
+                "source": {
+                  "workId": "laozi-primary-work",
+                  "locator": "《老子》第十四章：视之不见名曰夷段",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "laozi:claim:004",
+            "titleZh": "有无是理解道的双重视角",
+            "claimZh": "老子用无与有两种观看方式提示道：无显示其幽微根源，有显示其生成边界。",
+            "explanationZh": "有无不是简单对立实体，而是理解道的两种路向：从无看其妙，从有看其徼，二者同出而异名。",
+            "themeIds": [
+              "language",
+              "metaphysics"
+            ],
+            "weight": 1,
+            "evidence": [
+              {
+                "id": "laozi:evidence:008",
+                "titleZh": "《老子》第一章论常无常有",
+                "summaryZh": "第一章以常无欲以观其妙、常有欲以观其徼说明，有与无分别开启对道的幽微根源和显现边界的理解。",
+                "source": {
+                  "workId": "laozi-primary-work",
+                  "locator": "《老子》第一章：故常无欲以观其妙段",
+                  "publicDomainExcerptZh": "故常无欲，以观其妙；常有欲，以观其徼。此两者，同出而异名，同谓之玄。",
+                  "excerptStatus": "public_domain"
+                }
+              },
+              {
+                "id": "laozi:evidence:012",
+                "titleZh": "《老子》第十一章论有之以为利无之以为用",
+                "summaryZh": "第十一章以车轮、器皿和房屋说明有提供形制，无提供功能空间，深化了有无相成的思想结构。",
+                "source": {
+                  "workId": "laozi-primary-work",
+                  "locator": "《老子》第十一章：有之以为利，无之以为用段",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "tier": "standard"
 }

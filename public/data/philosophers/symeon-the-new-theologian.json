@@ -1,0 +1,54 @@
+{
+  "id": "symeon-the-new-theologian",
+  "tier": "seed",
+  "names": {
+    "zh": "新神学家西门",
+    "en": "Symeon the New Theologian",
+    "native": "Συμεὼν ὁ Νέος Θεολόγος"
+  },
+  "life": {
+    "birth": 949,
+    "death": 1022,
+    "display": "949—1022"
+  },
+  "civilization": "eastern_orthodox",
+  "traditions": [
+    "byzantine_mysticism",
+    "hesychast_background",
+    "spiritual_experience"
+  ],
+  "periods": [
+    "seed_w12",
+    "byzantine"
+  ],
+  "themes": [
+    "religion",
+    "knowledge"
+  ],
+  "keywordsZh": [
+    "新神学家",
+    "神圣之光",
+    "亲证经验",
+    "赞美诗"
+  ],
+  "oneLineZh": "拜占庭神秘主义思想家，以神圣之光的亲证经验和灵性知识影响后来的静修传统。",
+  "influenceWeight": 3,
+  "reviewStatus": "draft",
+  "summaryZh": "新神学家西门强调对神圣之光和恩典的亲身经验，把灵性知识、悔改和神秘经验置于东正教生活中心。本 seed 档只建身份层，并为 b3 Palamas 预留静修传统继承边。",
+  "works": [
+    "symeon-theological-ethical-discourses",
+    "symeon-hymns-divine-love"
+  ],
+  "sourceNotes": [
+    {
+      "label": "W12-B2-S005",
+      "url": "https://iep.utm.edu/byz-phil/",
+      "noteZh": "IEP Byzantine Philosophy 总论用于核验 Symeon 在拜占庭神秘主义和东正教思想中的位置。"
+    },
+    {
+      "label": "W12-B2-S006",
+      "url": "https://www.britannica.com/biography/Saint-Symeon-the-New-Theologian",
+      "noteZh": "Britannica Symeon 条目用于核验其生卒、新神学家称号和神秘经验口径。"
+    }
+  ]
+}

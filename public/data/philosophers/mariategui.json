@@ -1,0 +1,294 @@
+{
+  "id": "mariategui",
+  "names": {
+    "zh": "马里亚特吉",
+    "en": "José Carlos Mariátegui",
+    "native": "José Carlos Mariátegui"
+  },
+  "life": {
+    "birth": 1894,
+    "death": 1930,
+    "display": "1894—1930"
+  },
+  "civilization": "latin_american",
+  "traditions": [
+    "marxism",
+    "indigenism",
+    "latin_american_socialism"
+  ],
+  "periods": [
+    "expansion_b4"
+  ],
+  "themes": [
+    "politics",
+    "justice",
+    "aesthetics"
+  ],
+  "keywordsZh": [
+    "秘鲁现实",
+    "土地问题",
+    "印第安问题",
+    "创造性社会主义",
+    "阿毛塔"
+  ],
+  "oneLineZh": "以秘鲁现实分析、印第安土地问题和创造性社会主义构成拉丁美洲马克思主义的重要源头。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "马里亚特吉把马克思主义方法同秘鲁土地制度、印第安共同体和文化前卫运动结合，强调社会主义必须在本土历史中创造。",
+  "works": [
+    "mariategui-seven-essays",
+    "mariategui-defense-marxism",
+    "mariategui-contemporary-scene",
+    "mariategui-heroic-creative-socialism",
+    "mariategui-amauta-editorials"
+  ],
+  "sourceNotes": [
+    {
+      "label": "Primary corpus note",
+      "url": "https://www.marxists.org/archive/mariateg/works/7-interpretive-essays/",
+      "noteZh": "以《秘鲁现实的七篇解释论文》为核心，辅以马克思主义辩护和《阿毛塔》文化政治材料。"
+    }
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "mariategui:problem:001",
+        "titleZh": "土地、印第安问题与秘鲁现实",
+        "questionZh": "马里亚特吉为何把土地制度和印第安问题作为秘鲁社会主义的核心入口？",
+        "summaryZh": "马里亚特吉把秘鲁现实的经济结构、土地所有制和印第安共同体联系起来，反对把民族问题化为抽象种族或教育问题。",
+        "themeIds": [
+          "justice",
+          "politics"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "mariategui:claim:001",
+            "titleZh": "印第安问题根本是土地问题",
+            "claimZh": "马里亚特吉认为秘鲁印第安人的处境核心在土地制度，而不是单靠文化同化或慈善教育能解决。",
+            "explanationZh": "这使其社会主义分析从具体殖民经济遗产出发，避免把民族问题解释为道德落后或行政缺陷。",
+            "themeIds": [
+              "justice",
+              "politics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "mariategui:evidence:001",
+                "titleZh": "《七篇论文》经济结构论文",
+                "summaryZh": "首篇从殖民经济、封建残余和资本主义渗入分析秘鲁社会，说明独立后共和国没有真正改造土地权力结构。",
+                "source": {
+                  "workId": "mariategui-seven-essays",
+                  "locator": "Essay 1, outline of the economic evolution of Peru",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "mariategui:evidence:002",
+                "titleZh": "《七篇论文》土地问题论文",
+                "summaryZh": "土地论文把大地产和印第安共同体的破坏放在中心，指出农业制度是民族不平等和政治停滞的根源。",
+                "source": {
+                  "workId": "mariategui-seven-essays",
+                  "locator": "Essay 3, the problem of land",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "mariategui:claim:002",
+            "titleZh": "社会主义必须接入安第斯共同体经验",
+            "claimZh": "马里亚特吉把印第安共同体视为秘鲁社会主义可利用的历史资源，而非现代化必须消除的残余。",
+            "explanationZh": "这条主张使他不同于线性现代化论：传统共同体不是简单落后，而可能成为社会主义创造的本土基础。",
+            "themeIds": [
+              "politics",
+              "justice"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "mariategui:evidence:003",
+                "titleZh": "《七篇论文》印第安问题论文",
+                "summaryZh": "文本把印第安问题从种族和行政话语中移出，强调必须通过土地和共同体制度变革解决被边缘化处境。",
+                "source": {
+                  "workId": "mariategui-seven-essays",
+                  "locator": "Essay 2, the problem of the Indian",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "mariategui:evidence:004",
+                "titleZh": "《七篇论文》重估印加和共同体遗产",
+                "summaryZh": "书中在经济和土地论证中反复提及印加传统与共同体形式，说明本土历史可为社会主义组织提供资源。",
+                "source": {
+                  "workId": "mariategui-seven-essays",
+                  "locator": "Essays 1–3, discussion of Inca and communal forms",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "mariategui:problem:002",
+        "titleZh": "创造性马克思主义与文化战线",
+        "questionZh": "马里亚特吉如何理解马克思主义在拉丁美洲的本土创造？",
+        "summaryZh": "马里亚特吉拒绝把马克思主义当作欧洲公式，而将其理解为在秘鲁历史、印第安群众和文化先锋中重新创造的实践方法。",
+        "themeIds": [
+          "politics",
+          "aesthetics"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "mariategui:claim:003",
+            "titleZh": "马克思主义不是复制公式",
+            "claimZh": "马里亚特吉强调拉丁美洲社会主义不能照搬欧洲方案，而要从本地历史结构中创造自己的道路。",
+            "explanationZh": "这使他成为拉丁美洲马克思主义的关键人物：忠于历史唯物主义并不意味着抹去地方差异。",
+            "themeIds": [
+              "politics",
+              "knowledge"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "mariategui:evidence:005",
+                "titleZh": "《为马克思主义辩护》反对机械化理解",
+                "summaryZh": "文本把马克思主义描述为活的历史方法，批评把它降为经济决定论或冷公式的读法，强调实践和历史创造。",
+                "source": {
+                  "workId": "mariategui-defense-marxism",
+                  "locator": "Essays defending Marxism against revisionism and determinism",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "mariategui:evidence:006",
+                "titleZh": "《社会主义的英雄性与创造性意义》",
+                "summaryZh": "短文明确把社会主义写成本土创造任务，要求拉丁美洲行动者用自身现实生产方案，而不是复制外来模板。",
+                "source": {
+                  "workId": "mariategui-heroic-creative-socialism",
+                  "locator": "The Heroic and Creative Meaning of Socialism",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "mariategui:claim:004",
+            "titleZh": "文化先锋是政治斗争的一部分",
+            "claimZh": "马里亚特吉把文学、杂志和艺术前卫视为社会主义文化建设的战线，而不是政治之外的装饰。",
+            "explanationZh": "这条主张解释了《阿毛塔》的重要性：思想运动需要同时改造政治经济和文化想象。",
+            "themeIds": [
+              "aesthetics",
+              "politics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "mariategui:evidence:007",
+                "titleZh": "《阿毛塔》社论组织文化政治共同体",
+                "summaryZh": "杂志材料把社会主义、印第安问题、教育和先锋艺术放在同一公共空间中，显示文化编辑就是政治组织方式。",
+                "source": {
+                  "workId": "mariategui-amauta-editorials",
+                  "locator": "Amauta editorials on culture, socialism, and Indigenous questions",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "mariategui:evidence:008",
+                "titleZh": "《七篇论文》文学进程论文",
+                "summaryZh": "文学论文把秘鲁文学史同殖民遗产、民族形成和社会力量联系起来，说明文化形式能够揭示阶级与民族关系。",
+                "source": {
+                  "workId": "mariategui-seven-essays",
+                  "locator": "Essay 7, the process of literature",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "mariategui:problem:003",
+        "titleZh": "国际危机与结构改革",
+        "questionZh": "马里亚特吉如何把秘鲁社会主义同世界危机和制度改革联系起来？",
+        "summaryZh": "马里亚特吉从欧洲战后危机和国际政治转向中理解资本主义世界格局，同时把教育、区域和国家问题纳入结构性改革。",
+        "themeIds": [
+          "politics",
+          "knowledge"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "mariategui:claim:005",
+            "titleZh": "秘鲁现实必须放入世界危机中理解",
+            "claimZh": "马里亚特吉把秘鲁问题同欧洲战后危机和国际社会运动相连，避免地方主义封闭。",
+            "explanationZh": "这使其本土化马克思主义并不狭隘：地方道路是在世界资本主义矛盾中被重新定位。",
+            "themeIds": [
+              "politics",
+              "knowledge"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "mariategui:evidence:009",
+                "titleZh": "《当代场景》观察欧洲政治危机",
+                "summaryZh": "评论集分析战后欧洲和国际社会运动，显示马里亚特吉以世界危机框架理解拉美政治任务。",
+                "source": {
+                  "workId": "mariategui-contemporary-scene",
+                  "locator": "Essays on postwar Europe and international politics",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "mariategui:evidence:010",
+                "titleZh": "《为马克思主义辩护》强调历史意志",
+                "summaryZh": "文本反对把社会主义等待成自动经济结果，强调群众信念、神话和意志在历史行动中的组织力量。",
+                "source": {
+                  "workId": "mariategui-defense-marxism",
+                  "locator": "Essays on revolutionary myth and historical will",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "mariategui:claim:006",
+            "titleZh": "教育和区域改革不能脱离社会结构",
+            "claimZh": "马里亚特吉认为教育、区域主义和国家改革只有触及土地与阶级结构，才可能真正改变秘鲁现实。",
+            "explanationZh": "这条主张防止把现代化缩小为学校或行政改良，保持其社会主义分析的结构深度。",
+            "themeIds": [
+              "justice",
+              "politics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "mariategui:evidence:011",
+                "titleZh": "《七篇论文》公共教育论文",
+                "summaryZh": "教育论文把学校问题连接到阶级、殖民遗产和国家建设，说明教育改革不能脱离社会经济基础。",
+                "source": {
+                  "workId": "mariategui-seven-essays",
+                  "locator": "Essay 4, public instruction",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "mariategui:evidence:012",
+                "titleZh": "《七篇论文》区域主义与中央集权论文",
+                "summaryZh": "区域论文分析地理、经济和政治中心的关系，指出国家整合必须面对土地权力和地区不平等结构。",
+                "source": {
+                  "workId": "mariategui-seven-essays",
+                  "locator": "Essay 6, regionalism and centralism",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "tier": "standard"
+}

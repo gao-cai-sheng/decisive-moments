@@ -1,0 +1,46 @@
+{
+  "id": "ruan-yuan",
+  "tier": "seed",
+  "names": {
+    "zh": "阮元",
+    "en": "Ruan Yuan",
+    "native": "阮元"
+  },
+  "life": {
+    "birth": 1764,
+    "death": 1849,
+    "display": "1764—1849"
+  },
+  "civilization": "chinese",
+  "traditions": [
+    "confucianism",
+    "qing_kaozheng"
+  ],
+  "periods": [
+    "qing"
+  ],
+  "themes": [
+    "knowledge",
+    "language"
+  ],
+  "keywordsZh": [
+    "经籍纂诂",
+    "揅经室集",
+    "乾嘉学术"
+  ],
+  "oneLineZh": "清代经学家、官员和学术组织者，乾嘉考据集大成者之一。",
+  "influenceWeight": 3,
+  "reviewStatus": "draft",
+  "summaryZh": "阮元，字伯元，号芸台，清代经学家、官员和学术组织者。他主持刊刻、校勘和学术工程，《经籍纂诂》汇集群经训诂，《揅经室集》保存其经学、金石和制度论述。阮元以官僚资源组织乾嘉学术，推动考据学制度化，是清代经学共同体的核心人物。",
+  "works": [
+    "ruan-yuan-jingji-zuangu",
+    "ruan-yuan-yanjingshi-ji"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S017",
+      "url": "https://ctext.org/jing-ji-zuan-gu",
+      "noteZh": "以阮元《经籍纂诂》《揅经室集》支撑身份层。"
+    }
+  ]
+}

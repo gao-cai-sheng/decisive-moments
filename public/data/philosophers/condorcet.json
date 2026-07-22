@@ -1,0 +1,45 @@
+{
+  "id": "condorcet",
+  "tier": "seed",
+  "names": {
+    "zh": "孔多塞",
+    "en": "Marquis de Condorcet"
+  },
+  "life": {
+    "birth": 1743,
+    "death": 1794,
+    "display": "1743—1794"
+  },
+  "civilization": "western",
+  "traditions": [
+    "enlightenment",
+    "political_philosophy"
+  ],
+  "periods": [
+    "modern"
+  ],
+  "themes": [
+    "politics",
+    "knowledge"
+  ],
+  "keywordsZh": [
+    "进步史观",
+    "社会数学",
+    "启蒙政治"
+  ],
+  "oneLineZh": "进步史观与社会数学连接启蒙政治哲学和后来的实证主义叙事。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "孔多塞（1743—1794）是 Seed W4 法国断代补全候选。其身份层入选理由为：进步史观与社会数学连接启蒙政治哲学和后来的实证主义叙事。 本条仅作 seed 档基本定位，后续若升级标准档，必须重新做著作、论点与 evidence 研究。",
+  "works": [
+    "condorcet-sketch-progress-human-mind",
+    "condorcet-essay-analysis-decisions"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S005",
+      "url": "https://plato.stanford.edu/entries/condorcet/",
+      "noteZh": "权威来源条目：SEP: Condorcet；用于核验人物身份、生卒、代表著作和思想史定位。"
+    }
+  ]
+}

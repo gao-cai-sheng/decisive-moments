@@ -5,9 +5,9 @@
     "en": "Anton Wilhelm Amo"
   },
   "life": {
-    "display": "约1703—1759",
     "birth": 1703,
-    "death": 1759
+    "death": 1759,
+    "display": "约1703—1759"
   },
   "civilization": "african",
   "traditions": [
@@ -31,12 +31,256 @@
   "reviewStatus": "draft",
   "summaryZh": "安东·威廉·阿莫是政治、伦理问题谱系中的第一版候选哲人。 本条目是第一版结构化资料，已经保留文明、传统、主题、作品和论述字段，正式发布前需要继续核对年代、文本出处和概念表述。",
   "works": [
-    "amo-primary-work"
+    "amo-right-moors-europe",
+    "amo-impassivity-human-mind",
+    "amo-art-philosophising"
   ],
   "sourceNotes": [
     {
       "label": "draft",
       "noteZh": "条目需要人工核对作品、年代和概念表述。"
     }
-  ]
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "amo:problem:001",
+        "titleZh": "非洲人在欧洲的法权如何被哲学化？",
+        "questionZh": "阿莫如何在欧洲法学和殖民秩序之间提出关于黑人自由与权利的论证？",
+        "summaryZh": "阿莫的早期法学文本把非洲人在欧洲的地位放入自然法和罗马法框架中讨论，使被奴役与被殖民者的权利问题进入大学哲学和法学论证场域。",
+        "themeIds": [
+          "justice",
+          "politics"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "amo:claim:001",
+            "titleZh": "黑人自由可以进入欧洲法权论证",
+            "claimZh": "阿莫把非洲人在欧洲的自由与权利问题转化为可用自然法、民法和历史法源讨论的学术问题。",
+            "explanationZh": "这使他不是以被观看的异域对象出现，而是以能够运用欧洲法学语言反驳奴役秩序的作者出现。",
+            "themeIds": [
+              "justice",
+              "politics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "amo:evidence:001",
+                "titleZh": "摩尔人在欧洲的法权问题",
+                "summaryZh": "《论摩尔人在欧洲的权利》把非洲人的法律地位作为论辩对象，显示阿莫把殖民处境中的自由问题纳入法哲学框架。",
+                "source": {
+                  "workId": "amo-right-moors-europe",
+                  "locator": "De jure Maurorum in Europa on the legal status of Africans in Europe",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "amo:evidence:002",
+                "titleZh": "自然法与人身自由",
+                "summaryZh": "该论文围绕自由、身份和合法支配展开，使人身自由不只是事实处境，而成为可用法理检验的规范问题。",
+                "source": {
+                  "workId": "amo-right-moors-europe",
+                  "locator": "De jure Maurorum in Europa on freedom, status and lawful authority",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "amo:claim:002",
+            "titleZh": "殖民语境中的主体可以成为论证者",
+            "claimZh": "阿莫的写作位置表明，殖民语境中的非洲主体并非只能被研究，也能够成为欧洲知识制度内部的论证者。",
+            "explanationZh": "他的哲学意义部分来自这种位置转换：被排除者使用制度承认的语言来提出权利、心灵和方法问题。",
+            "themeIds": [
+              "politics",
+              "language"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "amo:evidence:003",
+                "titleZh": "拉丁学术体裁中的权利论证",
+                "summaryZh": "《论摩尔人在欧洲的权利》采用欧洲大学法学论文形式，说明阿莫以被制度认可的文体介入殖民权力问题。",
+                "source": {
+                  "workId": "amo-right-moors-europe",
+                  "locator": "De jure Maurorum in Europa as a Latin legal dissertation",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "amo:evidence:004",
+                "titleZh": "准确哲思的自我定位",
+                "summaryZh": "《清醒而准确地哲学思考的艺术》显示阿莫把自己定位为逻辑和方法论作者，而非只与族裔身份相关的例外个案。",
+                "source": {
+                  "workId": "amo-art-philosophising",
+                  "locator": "Tractatus de arte sobrie et accurate philosophandi on philosophical method and authorial stance",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "amo:problem:002",
+        "titleZh": "心灵为何不能被说成会感受？",
+        "questionZh": "阿莫为何主张人的心灵不具有感受性，并借此重画心身关系？",
+        "summaryZh": "阿莫在心灵哲学中反对把感觉直接归给非物质心灵。他区分身体的感受和心灵的理解判断，从而把心身关系处理为两类能力的区分与协调。",
+        "themeIds": [
+          "metaphysics",
+          "knowledge"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "amo:claim:003",
+            "titleZh": "感觉属于身体而非非物质心灵",
+            "claimZh": "阿莫认为真正承受感觉变化的是身体，非物质心灵本身不能被说成像身体那样受苦或受刺激。",
+            "explanationZh": "这一区分让他既继承近代心身二分，又以独特方式反对把感觉混同为心灵属性。",
+            "themeIds": [
+              "metaphysics",
+              "knowledge"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "amo:evidence:005",
+                "titleZh": "心灵无感受性的命题",
+                "summaryZh": "《论人的心灵无感受性》以题名所示问题为核心，论证心灵不以身体受刺激的方式承受感觉。",
+                "source": {
+                  "workId": "amo-impassivity-human-mind",
+                  "locator": "De humanae mentis apatheia on the mind's impassivity",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "amo:evidence:006",
+                "titleZh": "身体感受与心灵认识的区分",
+                "summaryZh": "该论文区分身体器官的受动过程和心灵的认识活动，说明感觉经验需要身体而不等于心灵受苦。",
+                "source": {
+                  "workId": "amo-impassivity-human-mind",
+                  "locator": "De humanae mentis apatheia on bodily sensation and mental cognition",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "amo:claim:004",
+            "titleZh": "心身区分服务于认识论澄清",
+            "claimZh": "阿莫的心身区分不是抽象二元论装饰，而是为了澄清感觉、表象、判断和知识的不同功能。",
+            "explanationZh": "他把心理学、形而上学和认识论连在一起，使关于心灵的定义影响我们如何解释经验和知识。",
+            "themeIds": [
+              "knowledge",
+              "metaphysics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "amo:evidence:007",
+                "titleZh": "认识活动的概念边界",
+                "summaryZh": "《论人的心灵无感受性》通过界定心灵能力，避免把感觉受动、观念呈现和判断活动混为同一过程。",
+                "source": {
+                  "workId": "amo-impassivity-human-mind",
+                  "locator": "De humanae mentis apatheia on the powers of mind and boundaries of cognition",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "amo:evidence:008",
+                "titleZh": "清醒哲思中的概念辨析",
+                "summaryZh": "《清醒而准确地哲学思考的艺术》强调定义、区分和推理秩序，显示阿莫用逻辑方法支撑心灵哲学论证。",
+                "source": {
+                  "workId": "amo-art-philosophising",
+                  "locator": "Tractatus de arte sobrie et accurate philosophandi on definition and orderly reasoning",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "amo:problem:003",
+        "titleZh": "清醒而准确的哲学方法意味着什么？",
+        "questionZh": "阿莫如何把哲学理解为需要语言、定义和推理纪律的清醒活动？",
+        "summaryZh": "阿莫的方法论强调哲学必须借助明确概念、合理论证和谨慎表达来避免混乱。哲学不是任意意见，而是一种可训练、可检验、可公开辩论的理性实践。",
+        "themeIds": [
+          "language",
+          "knowledge"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "amo:claim:005",
+            "titleZh": "哲学需要定义和推理秩序",
+            "claimZh": "阿莫把哲学活动建立在准确概念、清楚定义和有序推理之上，反对含混表达造成的伪问题。",
+            "explanationZh": "这种方法论使哲学成为可教学的技艺，也让权利和心灵问题能够以公共理由展开。",
+            "themeIds": [
+              "language",
+              "knowledge"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "amo:evidence:009",
+                "titleZh": "哲学思考的艺术",
+                "summaryZh": "《清醒而准确地哲学思考的艺术》把哲学描述为需要规则和训练的活动，而不是零散意见的集合。",
+                "source": {
+                  "workId": "amo-art-philosophising",
+                  "locator": "Tractatus de arte sobrie et accurate philosophandi on philosophy as a disciplined art",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "amo:evidence:010",
+                "titleZh": "定义、分类与论证",
+                "summaryZh": "该方法论文本把定义、分类和论证次序放在核心位置，说明准确语言是哲学判断可靠性的条件。",
+                "source": {
+                  "workId": "amo-art-philosophising",
+                  "locator": "Tractatus de arte sobrie et accurate philosophandi on definition, division and argument",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "amo:claim:006",
+            "titleZh": "方法论把边缘作者带入普遍理性共同体",
+            "claimZh": "阿莫的方法论写作表明，哲学共同体的资格应由论证能力和概念纪律决定，而非由出身划线。",
+            "explanationZh": "这一点使他的作品在思想史上具有双重意义：既参与近代学术方法，也挑战谁能成为哲学作者的边界。",
+            "themeIds": [
+              "language",
+              "justice"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "amo:evidence:011",
+                "titleZh": "拉丁哲学共同体中的方法文本",
+                "summaryZh": "《清醒而准确地哲学思考的艺术》以拉丁学术语言进入欧洲哲学共同体，展示阿莫对普遍理性规则的掌握。",
+                "source": {
+                  "workId": "amo-art-philosophising",
+                  "locator": "Tractatus de arte sobrie et accurate philosophandi as Latin academic philosophy",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "amo:evidence:012",
+                "titleZh": "法权与方法的共同结构",
+                "summaryZh": "阿莫的法权论文和方法论文本都依赖定义、区分和规范推理，说明政治权利与哲学方法在其写作中互相支撑。",
+                "source": {
+                  "workId": "amo-right-moors-europe",
+                  "locator": "De jure Maurorum in Europa alongside the methodological writings on normative reasoning",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "tier": "standard"
 }

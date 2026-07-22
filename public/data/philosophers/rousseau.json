@@ -5,9 +5,9 @@
     "en": "Jean-Jacques Rousseau"
   },
   "life": {
-    "display": "1712—1778",
     "birth": 1712,
-    "death": 1778
+    "death": 1778,
+    "display": "1712—1778"
   },
   "civilization": "european_modern",
   "traditions": [
@@ -31,12 +31,259 @@
   "reviewStatus": "draft",
   "summaryZh": "卢梭是知识、自由问题谱系中的第一版候选哲人。 本条目是第一版结构化资料，已经保留文明、传统、主题、作品和论述字段，正式发布前需要继续核对年代、文本出处和概念表述。",
   "works": [
-    "rousseau-primary-work"
+    "rousseau-discourse-inequality",
+    "rousseau-social-contract",
+    "rousseau-emile",
+    "rousseau-confessions"
   ],
   "sourceNotes": [
     {
       "label": "draft",
       "noteZh": "条目需要人工核对作品、年代和概念表述。"
     }
-  ]
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "rousseau:problem:001",
+        "titleZh": "自然人如何被社会腐化？",
+        "questionZh": "卢梭如何用自然状态假说批判文明进步和不平等？",
+        "summaryZh": "卢梭并非简单怀旧，而是用自然人假说揭示现代社会的依赖、比较和虚荣如何制造不平等。自然怜悯和自爱在社会比较中转化为自尊竞争。",
+        "themeIds": [
+          "politics",
+          "ethics"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "rousseau:claim:001",
+            "titleZh": "自然人首先受自爱和怜悯调节",
+            "claimZh": "卢梭认为自然人并非霍布斯式好斗者，而是由自我保存和对痛苦者的怜悯共同调节。",
+            "explanationZh": "这一人性假说使社会恶不再被归给原初罪性，而是被追溯到社会关系和制度变形。",
+            "themeIds": [
+              "ethics",
+              "politics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "rousseau:evidence:001",
+                "titleZh": "自然人的自爱与怜悯",
+                "summaryZh": "《论不平等》第一部分描写自然人的自爱、怜悯和孤独状态，反驳把现代竞争投射到自然状态。",
+                "source": {
+                  "workId": "rousseau-discourse-inequality",
+                  "locator": "Discourse on Inequality part I on natural man, amour de soi and pity",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "rousseau:evidence:002",
+                "titleZh": "怜悯与道德发展",
+                "summaryZh": "《爱弥儿》第四卷把怜悯视为道德感发展的自然根源，延续自然情感对社会道德的基础作用。",
+                "source": {
+                  "workId": "rousseau-emile",
+                  "locator": "Emile Book IV on pity and moral development",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "rousseau:claim:002",
+            "titleZh": "私有财产和比较制造制度性不平等",
+            "claimZh": "卢梭认为真正的社会不平等随着财产占有、劳动分工和相互依赖而稳定化。",
+            "explanationZh": "不平等不是单纯财富差距，而是人彼此依赖评价、承认和支配的制度关系。",
+            "themeIds": [
+              "politics",
+              "justice"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "rousseau:evidence:003",
+                "titleZh": "财产起源与圈地",
+                "summaryZh": "第二部分以“第一个圈地者”说明私有财产如何成为社会不平等和政治支配的关键转折，进一步说明“财产起源与圈地”如何进入“私有财产和比较制造制度性不平等”的论证链条。",
+                "source": {
+                  "workId": "rousseau-discourse-inequality",
+                  "locator": "Discourse on Inequality part II on property and the first enclosure",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "rousseau:evidence:004",
+                "titleZh": "自尊与依赖社会",
+                "summaryZh": "卢梭分析冶金、农业、分工和自尊如何让人进入相互比较和依赖，形成稳定不平等，进一步说明“自尊与依赖社会”如何进入“私有财产和比较制造制度性不平等”的论证链条。",
+                "source": {
+                  "workId": "rousseau-discourse-inequality",
+                  "locator": "Discourse on Inequality part II on amour-propre, dependence and inequality",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "rousseau:problem:002",
+        "titleZh": "公意如何使服从成为自由？",
+        "questionZh": "卢梭如何把政治合法性建立在人民主权、公意和法律之上？",
+        "summaryZh": "卢梭认为合法政治秩序必须让每个人作为主权者参与制定普遍法律。服从公意不是服从他人私意，而是服从自己作为公民共同制定的公共规则。",
+        "themeIds": [
+          "politics",
+          "freedom",
+          "justice"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "rousseau:claim:003",
+            "titleZh": "合法权威来自社会契约而非强力",
+            "claimZh": "卢梭认为强力不能产生权利，政治合法性只能来自每个人与全体订立的契约。",
+            "explanationZh": "社会契约把自然自由转化为公民自由，使个人不再受私人依附支配。",
+            "themeIds": [
+              "politics",
+              "justice"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "rousseau:evidence:005",
+                "titleZh": "强力不产生权利",
+                "summaryZh": "《社会契约论》第一卷从人生而自由却无处不在枷锁切入，否认强力能产生正当权利，进一步说明“强力不产生权利”如何进入“合法权威来自社会契约而非强力”的论证链条。",
+                "source": {
+                  "workId": "rousseau-social-contract",
+                  "locator": "Social Contract I.1-6 on force, right and the social pact",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "rousseau:evidence:006",
+                "titleZh": "社会契约与公民自由",
+                "summaryZh": "第一卷第六至八章说明社会契约如何形成共同体，并把自然自由改造为公民自由和道德自由。",
+                "source": {
+                  "workId": "rousseau-social-contract",
+                  "locator": "Social Contract I.6-8 on the social pact and civil freedom",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "rousseau:claim:004",
+            "titleZh": "公意指向共同利益而非多数私利总和",
+            "claimZh": "卢梭的公意不是所有私人欲望的相加，而是公民作为共同体成员面向共同利益的意志。",
+            "explanationZh": "这使人民主权有严格条件：政治判断必须脱离派系私利，转向普遍法律。",
+            "themeIds": [
+              "politics",
+              "justice"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "rousseau:evidence:007",
+                "titleZh": "主权与公意",
+                "summaryZh": "第二卷开篇把主权规定为公意的行使，强调主权不可转让且指向共同利益，进一步说明“主权与公意”如何进入“公意指向共同利益而非多数私利总和”的论证链条。",
+                "source": {
+                  "workId": "rousseau-social-contract",
+                  "locator": "Social Contract II.1-4 on sovereignty and general will",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "rousseau:evidence:008",
+                "titleZh": "公意、众意与法律",
+                "summaryZh": "卢梭区分公意与众意，并把法律定义为全体对全体的普遍规定，进一步说明“公意、众意与法律”如何进入“公意指向共同利益而非多数私利总和”的论证链条。",
+                "source": {
+                  "workId": "rousseau-social-contract",
+                  "locator": "Social Contract II.3 and II.6 on general will, will of all and law",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "rousseau:problem:003",
+        "titleZh": "教育如何保护自然自由？",
+        "questionZh": "卢梭如何通过教育和自我书写回应现代社会的异化？",
+        "summaryZh": "卢梭的教育思想试图延迟社会腐化，让儿童在经验、身体和自然后果中形成自主判断。他的自我书写则把现代主体的真诚、孤独和自我辩护推到哲学问题中心。",
+        "themeIds": [
+          "freedom",
+          "ethics",
+          "life_death"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "rousseau:claim:005",
+            "titleZh": "消极教育保护儿童自主成长",
+            "claimZh": "卢梭主张教育首先不要急于灌输社会成见，而要安排环境，让儿童通过经验和自然后果学习。",
+            "explanationZh": "这种消极教育不是放任，而是防止成人虚荣和权威提前塑造依附性人格。",
+            "themeIds": [
+              "freedom",
+              "ethics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "rousseau:evidence:009",
+                "titleZh": "自然教育与消极教育",
+                "summaryZh": "《爱弥儿》第一卷提出顺应自然成长和消极教育，要求教育者少命令、多安排环境，进一步说明“自然教育与消极教育”如何进入“消极教育保护儿童自主成长”的论证链条。",
+                "source": {
+                  "workId": "rousseau-emile",
+                  "locator": "Emile Book I on natural education and negative education",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "rousseau:evidence:010",
+                "titleZh": "经验、事物与必然性",
+                "summaryZh": "第二卷强调儿童应受事物和必然性教育，而不是受任意命令支配，以保存判断自主，进一步说明“经验、事物与必然性”如何进入“消极教育保护儿童自主成长”的论证链条。",
+                "source": {
+                  "workId": "rousseau-emile",
+                  "locator": "Emile Book II on things, necessity and learning through experience",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "rousseau:claim:006",
+            "titleZh": "真诚自我书写揭露社会面具",
+            "claimZh": "卢梭把自我叙述变成反抗社会虚伪和公众误解的方式，试图呈现一个未经修饰的内在主体。",
+            "explanationZh": "这使现代真实性问题浮现：主体既渴望被承认，又害怕承认关系扭曲自我。",
+            "themeIds": [
+              "life_death",
+              "ethics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "rousseau:evidence:011",
+                "titleZh": "忏悔录的真实性宣言",
+                "summaryZh": "《忏悔录》开篇宣称要展示一个完全真实的人，把自我披露变成道德和文学实验，进一步说明“忏悔录的真实性宣言”如何进入“真诚自我书写揭露社会面具”的论证链条。",
+                "source": {
+                  "workId": "rousseau-confessions",
+                  "locator": "Confessions Book I opening on showing a man in all the truth of nature",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "rousseau:evidence:012",
+                "titleZh": "自尊与他人目光",
+                "summaryZh": "《爱弥儿》第四卷对自尊和社会比较的分析说明，现代主体的自我感受深受他人目光塑造。",
+                "source": {
+                  "workId": "rousseau-emile",
+                  "locator": "Emile Book IV on amour-propre and social comparison",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "tier": "standard"
 }

@@ -1,0 +1,45 @@
+{
+  "id": "rene-girard",
+  "tier": "seed",
+  "names": {
+    "zh": "勒内·吉拉尔",
+    "en": "René Girard"
+  },
+  "life": {
+    "birth": 1923,
+    "death": 2015,
+    "display": "1923—2015"
+  },
+  "civilization": "western",
+  "traditions": [
+    "social_theory",
+    "religion"
+  ],
+  "periods": [
+    "contemporary"
+  ],
+  "themes": [
+    "ethics",
+    "religion"
+  ],
+  "keywordsZh": [
+    "法国哲学",
+    "身份层",
+    "思想史补线"
+  ],
+  "oneLineZh": "模仿欲望与替罪羊机制。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "勒内·吉拉尔（1923—2015）是 Seed W3 法国近现代—现当代二线哲人候选。其身份层入选理由为：模仿欲望与替罪羊机制。 本条仅作 seed 档基本定位，后续若升级标准档，必须重新做著作、论点与 evidence 研究。",
+  "works": [
+    "rene-girard-deceit-desire-novel",
+    "rene-girard-violence-and-sacred"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S007",
+      "url": "https://www.rep.routledge.com/articles/biographical/girard-rene-1923-2015/v-1",
+      "noteZh": "权威来源条目：Routledge: Girard, René；用于核验人物身份、生卒、代表著作和思想史定位。"
+    }
+  ]
+}

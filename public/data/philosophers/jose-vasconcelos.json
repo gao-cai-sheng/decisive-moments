@@ -1,0 +1,46 @@
+{
+  "id": "jose-vasconcelos",
+  "tier": "seed",
+  "names": {
+    "zh": "何塞·巴斯孔塞洛斯",
+    "en": "José Vasconcelos"
+  },
+  "life": {
+    "birth": 1882,
+    "death": 1959,
+    "display": "1882—1959"
+  },
+  "civilization": "latin_american",
+  "traditions": [
+    "mexican_philosophy",
+    "aesthetic_spiritualism"
+  ],
+  "periods": [
+    "seed_w9"
+  ],
+  "themes": [
+    "aesthetics",
+    "politics",
+    "ethics"
+  ],
+  "keywordsZh": [
+    "宇宙种族",
+    "美学救赎",
+    "墨西哥教育"
+  ],
+  "oneLineZh": "墨西哥思想家与教育家，《宇宙种族》以混血宇宙论重写美洲身份。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "巴斯孔塞洛斯把教育改革、精神主义美学和美洲混血身份论结合起来，是墨西哥革命后文化哲学和拉美身份论的重要人物。本条仅作 seed 身份层。",
+  "works": [
+    "jose-vasconcelos-raza-cosmica",
+    "jose-vasconcelos-estetica"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S002",
+      "url": "https://iep.utm.edu/latin-am/",
+      "noteZh": "IEP Latin American Philosophy 条目用于核验 Vasconcelos 的《宇宙种族》和墨西哥身份哲学位置。"
+    }
+  ]
+}

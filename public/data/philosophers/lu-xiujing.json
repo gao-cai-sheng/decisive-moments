@@ -1,0 +1,45 @@
+{
+  "id": "lu-xiujing",
+  "tier": "seed",
+  "names": {
+    "zh": "陆修静",
+    "en": "Lu Xiujing",
+    "native": "陸修靜"
+  },
+  "life": {
+    "birth": 406,
+    "death": 477,
+    "display": "406—477"
+  },
+  "civilization": "chinese",
+  "traditions": [
+    "daoism"
+  ],
+  "periods": [
+    "northern_southern_dynasties"
+  ],
+  "themes": [
+    "religion",
+    "knowledge"
+  ],
+  "keywordsZh": [
+    "灵宝派",
+    "三洞目录",
+    "斋仪"
+  ],
+  "oneLineZh": "南朝道士和道教制度整理者，推动灵宝经典与三洞目录体系。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "陆修静，字元德，南朝刘宋道士，是灵宝派和早期道教制度化的重要人物。他整理道经目录、斋醮仪范和三洞分类，对后世道藏组织影响深远。陆修静的意义主要在宗教制度与文献秩序层面：把分散经典、仪式和教团规范纳入可传承的目录与科仪结构。",
+  "works": [
+    "lu-xiujing-sandong-jingmu",
+    "lu-xiujing-daomen-kelue"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S015",
+      "url": "https://ctext.org/wiki.pl?if=en&res=777096",
+      "noteZh": "以陆修静道经目录和科仪题名传统支撑身份层。"
+    }
+  ]
+}

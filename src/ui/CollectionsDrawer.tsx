@@ -1,19 +1,14 @@
 import { useCallback, useEffect, useMemo, useRef, useState } from "react";
 import {
   createIndexedDbCollectionsRepository,
-  type CollectionTargetType,
   type LocalCollectionItem,
   type LocalNote,
 } from "../domain/collections/localCollections";
+import { useT, type MessageKey } from "../i18n";
 import { useAppStore } from "../store/appStore";
 
-const targetTypeLabels: Record<CollectionTargetType, string> = {
-  philosopher: "哲人",
-  argument: "论证",
-  search: "搜索问题",
-};
-
 export function CollectionsDrawer() {
+  const t = useT();
   const open = useAppStore((state) => state.collectionsOpen);
   const toggleCollections = useAppStore((state) => state.toggleCollections);
   const repo = useMemo(() => createIndexedDbCollectionsRepository(), []);
@@ -35,22 +30,22 @@ export function CollectionsDrawer() {
   if (!open) return null;
 
   return (
-    <aside className="panel drawer-left" aria-label="收藏与札记">
+    <aside className="panel drawer-left" aria-label={t("collections.title")}>
       <button className="hud-button panel-close" type="button" onClick={toggleCollections}>
-        关闭
+        {t("common.close")}
       </button>
-      <h2>收藏与札记</h2>
+      <h2>{t("collections.title")}</h2>
 
       <section>
-        <h3>收藏</h3>
+        <h3>{t("collections.items")}</h3>
         {items.length === 0 ? (
-          <p className="muted">还没有收藏。</p>
+          <p className="muted">{t("collections.empty")}</p>
         ) : (
           items.map((item) => (
             <article key={item.id} className="result-card collection-item-card">
               <strong>{item.label}</strong>
               <p className="muted">
-                {targetTypeLabels[item.targetType]} · {item.targetId}
+                {t(`targetType.${item.targetType}` as MessageKey)} · {item.targetId}
               </p>
               <button
                 className="hud-button"
@@ -60,7 +55,7 @@ export function CollectionsDrawer() {
                   await reload();
                 }}
               >
-                移除收藏
+                {t("collections.remove")}
               </button>
             </article>
           ))
@@ -68,14 +63,14 @@ export function CollectionsDrawer() {
       </section>
 
       <section>
-        <h3>札记</h3>
+        <h3>{t("collections.notes")}</h3>
         {notes.length === 0 ? (
-          <p className="muted">还没有札记。</p>
+          <p className="muted">{t("collections.notesEmpty")}</p>
         ) : (
           notes.map((note) => (
             <article key={note.id} className="result-card">
               <strong>
-                {targetTypeLabels[note.targetType]} · {note.targetId}
+                {t(`targetType.${note.targetType}` as MessageKey)} · {note.targetId}
               </strong>
               <p>{note.body}</p>
             </article>
@@ -98,26 +93,26 @@ export function CollectionsDrawer() {
             URL.revokeObjectURL(url);
           }}
         >
-          导出 JSON
+          {t("collections.exportJson")}
         </button>
         <button className="hud-button" type="button" onClick={() => fileInputRef.current?.click()}>
-          导入 JSON
+          {t("collections.importJson")}
         </button>
         <input
           ref={fileInputRef}
           className="visually-hidden"
           type="file"
           accept="application/json,.json"
-          aria-label="导入收藏 JSON"
+          aria-label={t("collections.importAria")}
           onChange={async (event) => {
             const file = event.target.files?.[0];
             if (!file) return;
             try {
               await repo.importJson(await file.text());
               await reload();
-              setMessage("导入完成。");
+              setMessage(t("collections.importDone"));
             } catch {
-              setMessage("导入失败，请检查 JSON 文件格式。");
+              setMessage(t("collections.importFailed"));
             } finally {
               event.target.value = "";
             }

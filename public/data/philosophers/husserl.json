@@ -5,9 +5,9 @@
     "en": "Edmund Husserl"
   },
   "life": {
-    "display": "1859—1938",
     "birth": 1859,
-    "death": 1938
+    "death": 1938,
+    "display": "1859—1938"
   },
   "civilization": "european_modern",
   "traditions": [
@@ -38,5 +38,242 @@
       "label": "draft",
       "noteZh": "条目需要人工核对作品、年代和概念表述。"
     }
-  ]
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "husserl:problem:001",
+        "titleZh": "意识如何指向对象？",
+        "questionZh": "胡塞尔如何围绕“意识如何指向对象？”建立其思想问题？",
+        "summaryZh": "胡塞尔以意向性、意义给予和对象显现分析意识结构，反对把意识还原为封闭心理事实或自然主义对象。",
+        "themeIds": [
+          "knowledge",
+          "metaphysics"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "husserl:claim:001",
+            "titleZh": "意向性是意识的基本结构",
+            "claimZh": "胡塞尔主张，意识不能被理解为封闭心理事实；每一意识行为都以某种方式指向对象、意义或可能对象。",
+            "explanationZh": "该命题把认识论从心理事实描述转向意识如何给予意义和对象的结构分析。",
+            "themeIds": [
+              "knowledge",
+              "metaphysics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "husserl:evidence:001",
+                "titleZh": "意向体验依据",
+                "summaryZh": "《逻辑研究》第五研究分析意向体验，说明意识行为总以对象或意义为所向，不能仅作为内在心理事件来说明。",
+                "source": {
+                  "workId": "husserl-primary-work",
+                  "locator": "《逻辑研究》第五研究第9—15节“意向体验”段",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "husserl:evidence:007",
+                "titleZh": "反心理主义依据",
+                "summaryZh": "《逻辑研究》导论批判心理主义，认为逻辑和意义结构不能还原为心理事实，这为意向性分析提供方法前提。",
+                "source": {
+                  "workId": "husserl-primary-work",
+                  "locator": "《逻辑研究》导论“反心理主义”段",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "husserl:claim:002",
+            "titleZh": "对象通过意义结构被给予",
+            "claimZh": "胡塞尔认为同一对象可在不同侧显、期待和意义充实中被把握；对象性依赖可综合的显现过程。",
+            "explanationZh": "该命题说明对象不是裸然摆在意识前，而是在多重显现和意义综合中获得同一性。",
+            "themeIds": [
+              "knowledge",
+              "metaphysics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "husserl:evidence:002",
+                "titleZh": "noesis/noema 关联依据",
+                "summaryZh": "《观念I》通过 noesis/noema 关联说明意识行为和所意对象之间的结构关系，对象性在意义关联中被给予。",
+                "source": {
+                  "workId": "husserl-primary-work",
+                  "locator": "《观念I》第87—90节“noesis/noema 关联”段",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "husserl:evidence:008",
+                "titleZh": "侧显综合依据",
+                "summaryZh": "《观念I》关于对象侧显和地平线的分析说明，同一对象通过多重不完全显现和期待综合而保持其同一性。",
+                "source": {
+                  "workId": "husserl-primary-work",
+                  "locator": "《观念I》第41—44节“侧显、地平线与对象同一性”段",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "husserl:problem:002",
+        "titleZh": "现象学还原如何成为方法？",
+        "questionZh": "胡塞尔如何围绕“现象学还原如何成为方法？”建立其思想问题？",
+        "summaryZh": "胡塞尔通过悬置、还原和本质直观重建哲学方法，使哲学转向对意义显现条件的严格描述。",
+        "themeIds": [
+          "knowledge"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "husserl:claim:003",
+            "titleZh": "悬置不是否认世界",
+            "claimZh": "胡塞尔的悬置并非怀疑世界存在，而是暂缓自然态度中的存在预设，以便考察世界意义如何在意识中显现。",
+            "explanationZh": "该命题避免把现象学误读成主观唯心论，强调方法上的转向而非简单否认现实。",
+            "themeIds": [
+              "knowledge"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "husserl:evidence:003",
+                "titleZh": "自然态度悬置依据",
+                "summaryZh": "《观念I》区分自然态度和现象学态度，悬置并不取消世界，而是暂缓存在立场以考察给予方式。",
+                "source": {
+                  "workId": "husserl-primary-work",
+                  "locator": "《观念I》第31—32节“自然态度与悬置”段",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "husserl:evidence:009",
+                "titleZh": "现象学还原依据",
+                "summaryZh": "《观念I》关于现象学还原的章节说明，还原把注意力转向经验如何给予对象和世界意义，而不是进行经验怀疑。",
+                "source": {
+                  "workId": "husserl-primary-work",
+                  "locator": "《观念I》第33—36节“现象学还原”段",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "husserl:claim:004",
+            "titleZh": "本质直观支撑严格科学理想",
+            "claimZh": "胡塞尔认为哲学应通过对经验结构的本质把握取得严格性，既不同于自然科学归纳，也不同于心理主义描述。",
+            "explanationZh": "该命题使现象学成为一门描述本质结构的哲学方法，而不是经验心理学分支。",
+            "themeIds": [
+              "knowledge"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "husserl:evidence:004",
+                "titleZh": "严格科学依据",
+                "summaryZh": "《哲学作为严格科学》反对心理主义和自然主义，要求哲学通过本质结构分析而非经验归纳获得严格性。",
+                "source": {
+                  "workId": "husserl-primary-work",
+                  "locator": "《哲学作为严格科学》“反心理主义与严格性”段",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "husserl:evidence:010",
+                "titleZh": "本质直观依据",
+                "summaryZh": "《观念I》讨论本质直观和自由变更方法，说明哲学可通过把握不变结构来描述经验可能性的条件。",
+                "source": {
+                  "workId": "husserl-primary-work",
+                  "locator": "《观念I》第3—4节“本质直观与自由变更”段",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "husserl:problem:003",
+        "titleZh": "生活世界为何成为科学危机的根源？",
+        "questionZh": "胡塞尔如何围绕“生活世界为何成为科学危机的根源？”建立其思想问题？",
+        "summaryZh": "胡塞尔晚期将现代科学危机追溯到数学化抽象遮蔽生活世界，并以主体间性解释共同世界的客观性。",
+        "themeIds": [
+          "knowledge"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "husserl:claim:005",
+            "titleZh": "科学抽象遮蔽生活世界",
+            "claimZh": "胡塞尔认为数学化自然科学获得精确性，同时容易把抽象模型误当作唯一真实世界，遗忘前科学经验基础。",
+            "explanationZh": "该命题把科学危机理解为意义危机：科学越成功，越可能忘记自身扎根的生活经验地平线。",
+            "themeIds": [
+              "knowledge"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "husserl:evidence:005",
+                "titleZh": "伽利略数学化依据",
+                "summaryZh": "《欧洲科学的危机》第9节分析伽利略的自然数学化，指出数学模型的成功可能遮蔽生活世界的原初给予。",
+                "source": {
+                  "workId": "husserl-primary-work",
+                  "locator": "《欧洲科学的危机》第9节“伽利略的自然数学化”段",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "husserl:evidence:011",
+                "titleZh": "生活世界依据",
+                "summaryZh": "《欧洲科学的危机》把生活世界描述为一切理论活动预设的前科学世界，科学抽象必须回到这一经验基础。",
+                "source": {
+                  "workId": "husserl-primary-work",
+                  "locator": "《欧洲科学的危机》第33节“生活世界作为科学基础”段",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "husserl:claim:006",
+            "titleZh": "主体间性构成共同世界",
+            "claimZh": "胡塞尔认为世界的客观性不是孤立自我私有经验的总和，而是在主体间可交流、可校正的经验地平线中形成。",
+            "explanationZh": "该命题回应唯我论疑难，说明共同世界的客观性依赖他我经验、同感和交互确认。",
+            "themeIds": [
+              "metaphysics",
+              "politics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "husserl:evidence:006",
+                "titleZh": "他我构成依据",
+                "summaryZh": "《笛卡尔沉思》第五沉思分析他我构成，说明客观世界的意义需要主体间经验和相互可确认性。",
+                "source": {
+                  "workId": "husserl-primary-work",
+                  "locator": "《笛卡尔沉思》第五沉思“他我构成”段",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "husserl:evidence:012",
+                "titleZh": "共同世界地平线依据",
+                "summaryZh": "《欧洲科学的危机》讨论生活世界中的共同有效性，说明客观性通过主体间交往、传统和可重复经验形成。",
+                "source": {
+                  "workId": "husserl-primary-work",
+                  "locator": "《欧洲科学的危机》第54节“主体间性与共同世界”段",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "tier": "standard"
 }

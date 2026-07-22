@@ -5,8 +5,8 @@
     "en": "Martha Nussbaum"
   },
   "life": {
-    "display": "1947 年生",
-    "birth": 1947
+    "birth": 1947,
+    "display": "1947 年生"
   },
   "civilization": "global_modern",
   "traditions": [
@@ -37,5 +37,247 @@
       "label": "draft",
       "noteZh": "条目需要人工核对作品、年代和概念表述。"
     }
-  ]
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "nussbaum:problem:001",
+        "titleZh": "正义应衡量资源还是能力？",
+        "questionZh": "努斯鲍姆如何围绕“正义应衡量资源还是能力？”建立其思想问题？",
+        "summaryZh": "努斯鲍姆以能力进路强调人实际能够做什么和成为什么，而非只看资源或效用。",
+        "themeIds": [
+          "justice",
+          "freedom"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "nussbaum:claim:001",
+            "titleZh": "能力是尊严生活的实质机会",
+            "claimZh": "努斯鲍姆主张，正义应保障每个人达到一组核心能力的门槛。",
+            "explanationZh": "该命题把自由理解为实质可行能力，避免资源平等掩盖身体、社会和制度处境差异。",
+            "themeIds": [
+              "justice",
+              "freedom"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "nussbaum:evidence:001",
+                "titleZh": "核心能力依据",
+                "summaryZh": "《女性与人的发展》提出核心人类能力清单，并把生命、身体完整、实践理性等能力作为正义门槛。",
+                "source": {
+                  "workId": "nussbaum-primary-work",
+                  "locator": "《女性与人的发展》第一章第4节第6段",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "nussbaum:evidence:002",
+                "titleZh": "门槛标准依据",
+                "summaryZh": "同书强调每项核心能力都需达到足够门槛，不能用某一能力的高水平抵消另一能力缺失或被剥夺。",
+                "source": {
+                  "workId": "nussbaum-primary-work",
+                  "locator": "《女性与人的发展》第一章第5节第3段",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "nussbaum:claim:002",
+            "titleZh": "抽象平等需进入具体生活",
+            "claimZh": "努斯鲍姆认为，法律或资源上的形式平等不足以说明人是否真正能过有尊严的生活。",
+            "explanationZh": "该命题把制度评价与身体、教育、情感和社会参与的具体条件相连，强调实质机会。",
+            "themeIds": [
+              "justice",
+              "ethics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "nussbaum:evidence:003",
+                "titleZh": "实质自由依据",
+                "summaryZh": "《创造能力》用能力进路说明发展和正义应关注真实生活机会，而非仅统计收入或满意度。",
+                "source": {
+                  "workId": "nussbaum-primary-work",
+                  "locator": "《创造能力》第二章第2节第4段",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "nussbaum:evidence:004",
+                "titleZh": "转换差异依据",
+                "summaryZh": "该书指出不同人把资源转换为生活功能的能力不同，因此同等资源不等于同等自由和生活机会。",
+                "source": {
+                  "workId": "nussbaum-primary-work",
+                  "locator": "《创造能力》第二章第3节第5段",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "nussbaum:problem:002",
+        "titleZh": "情感能否成为理性伦理资源？",
+        "questionZh": "努斯鲍姆如何围绕“情感能否成为理性伦理资源？”建立其思想问题？",
+        "summaryZh": "努斯鲍姆反对把情感看成非理性干扰，强调情感包含价值判断并影响公共生活。",
+        "themeIds": [
+          "ethics",
+          "knowledge"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "nussbaum:claim:003",
+            "titleZh": "情感包含关于价值的判断",
+            "claimZh": "努斯鲍姆主张，许多情感并非盲目冲动，而是对重要对象和脆弱性的评价。",
+            "explanationZh": "该命题把伦理心理学与理性判断结合，说明情感可以被教育、批判和公共制度塑造。",
+            "themeIds": [
+              "ethics",
+              "knowledge"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "nussbaum:evidence:005",
+                "titleZh": "情感判断依据",
+                "summaryZh": "《思想的剧变》论证情感具有认知评价结构，表达主体如何理解重要对象与自身脆弱性及价值。",
+                "source": {
+                  "workId": "nussbaum-primary-work",
+                  "locator": "《思想的剧变》第一部第一章第5段",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "nussbaum:evidence:006",
+                "titleZh": "脆弱性依据",
+                "summaryZh": "同书把悲伤、恐惧和爱等情感同依赖性相连，说明价值判断常以脆弱生命为背景和条件之一。",
+                "source": {
+                  "workId": "nussbaum-primary-work",
+                  "locator": "《思想的剧变》第一部第二章第4段",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "nussbaum:claim:004",
+            "titleZh": "公共情感需要民主塑造",
+            "claimZh": "努斯鲍姆认为，民主社会需要培养同情、尊重和对脆弱性的理解，以支撑正义制度。",
+            "explanationZh": "该命题说明政治自由主义不能只靠冷程序，也需要公共文化、教育和情感习惯。",
+            "themeIds": [
+              "ethics",
+              "politics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "nussbaum:evidence:007",
+                "titleZh": "公共情感依据",
+                "summaryZh": "《政治情感》讨论民主国家如何培养支持平等和尊严的公共情感，而不滑向排斥性民族主义。",
+                "source": {
+                  "workId": "nussbaum-primary-work",
+                  "locator": "《政治情感》第一章第3节第2段",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "nussbaum:evidence:008",
+                "titleZh": "民主教育依据",
+                "summaryZh": "该书用文学、纪念仪式和公共教育说明，同情能力可被制度性塑造并服务平等政治和民主文化。",
+                "source": {
+                  "workId": "nussbaum-primary-work",
+                  "locator": "《政治情感》第五章第2节第6段",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "nussbaum:problem:003",
+        "titleZh": "全球正义如何面对脆弱生命？",
+        "questionZh": "努斯鲍姆如何围绕“全球正义如何面对脆弱生命？”建立其思想问题？",
+        "summaryZh": "努斯鲍姆把能力进路扩展到女性、残障者、跨国贫困和非人生命，挑战契约论边界。",
+        "themeIds": [
+          "justice",
+          "ethics"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "nussbaum:claim:005",
+            "titleZh": "契约论会遗漏依赖者",
+            "claimZh": "努斯鲍姆认为，以互利协作为模型的契约论容易边缘化高度依赖和能力受限者。",
+            "explanationZh": "该命题把正义问题扩大到照护、依赖和能力差异，纠正抽象平等主体模型。",
+            "themeIds": [
+              "justice",
+              "ethics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "nussbaum:evidence:009",
+                "titleZh": "契约边界依据",
+                "summaryZh": "《正义的边界》分析残障者如何挑战以相互利益和近似平等能力为前提的契约论模型设定。",
+                "source": {
+                  "workId": "nussbaum-primary-work",
+                  "locator": "《正义的边界》第一章第2节第5段",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "nussbaum:evidence:010",
+                "titleZh": "依赖照护依据",
+                "summaryZh": "同书进一步说明照护关系和长期依赖并非边缘例外，而是正义理论必须正面处理的事实与制度任务。",
+                "source": {
+                  "workId": "nussbaum-primary-work",
+                  "locator": "《正义的边界》第二章第3节第4段",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "nussbaum:claim:006",
+            "titleZh": "尊严要求跨越国界和种属",
+            "claimZh": "努斯鲍姆主张，能力和尊严原则应指导跨国正义和对其他生命形式的伦理考量。",
+            "explanationZh": "该命题使正义论具有全球和生态伦理维度，并要求制度评价超出国内公民框架。",
+            "themeIds": [
+              "justice",
+              "life_death"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "nussbaum:evidence:011",
+                "titleZh": "全球能力依据",
+                "summaryZh": "《正义的边界》把能力进路用于跨国分配问题，反对把正义义务限定在单一民族国家内的公民关系。",
+                "source": {
+                  "workId": "nussbaum-primary-work",
+                  "locator": "《正义的边界》第四章第1节第6段",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "nussbaum:evidence:012",
+                "titleZh": "非人生命依据",
+                "summaryZh": "该书关于其他生命的讨论把尊严和繁荣扩展到非人生命，要求正义理论处理人类支配关系。",
+                "source": {
+                  "workId": "nussbaum-primary-work",
+                  "locator": "《正义的边界》第六章第2节第5段",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "tier": "standard"
 }

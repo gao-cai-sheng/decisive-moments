@@ -1,0 +1,373 @@
+{
+  "id": "gregory-of-nazianzus",
+  "tier": "standard",
+  "names": {
+    "zh": "拿先斯的格里高利",
+    "en": "Gregory of Nazianzus",
+    "native": "Γρηγόριος ὁ Ναζιανζηνός"
+  },
+  "life": {
+    "birth": 329,
+    "death": 390,
+    "display": "约329—390"
+  },
+  "civilization": "eastern_orthodox",
+  "traditions": [
+    "greek_patristic",
+    "cappadocian_fathers",
+    "trinitarian_theology"
+  ],
+  "periods": [
+    "seed_w12",
+    "greek_patristic"
+  ],
+  "themes": [
+    "religion",
+    "metaphysics",
+    "language"
+  ],
+  "keywordsZh": [
+    "神学家",
+    "神学演讲",
+    "三位一体",
+    "卡帕多西亚三杰"
+  ],
+  "oneLineZh": "卡帕多西亚三杰之一，以《神学演讲五篇》奠定东正教三一神学表达。",
+  "influenceWeight": 3,
+  "reviewStatus": "draft",
+  "summaryZh": "拿先斯的格里高利被东正教传统称为“神学家”，其《神学演讲五篇》集中处理三位一体、神性语言和尼西亚传统。本标准候选将主线加厚为三层：神学言说必须受净化、场合和听众能力约束；神性本质既可由受造秩序指向却不可被定义；三一 monarchia、子的受生与圣灵神性必须通过谨慎的语言区分来表达。",
+  "works": [
+    "gregory-nazianzus-theological-orations"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S001",
+      "url": "https://iep.utm.edu/byz-phil/",
+      "noteZh": "IEP Byzantine Philosophy 总论用于核验希腊教父在东正教思想史中的源头地位。"
+    },
+    {
+      "label": "S007",
+      "url": "https://www.britannica.com/biography/Saint-Gregory-of-Nazianzus",
+      "noteZh": "Britannica Gregory of Nazianzus 条目用于核验其生卒、神学家身份和三一神学口径。"
+    },
+    {
+      "label": "S008",
+      "url": "https://www.newadvent.org/fathers/310227.htm",
+      "noteZh": "New Advent / NPNF Theological Orations 文本用于校准 Oration 27–31 的篇号与节号。"
+    }
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "gregory-of-nazianzus:problem:001",
+        "titleZh": "神学言说为何必须受限？",
+        "questionZh": "拿先斯的格里高利如何规定谁可以谈论神、何时谈论神、谈到什么程度，并由此建立神学语言的纪律？",
+        "summaryZh": "《神学演讲》首先不是给出概念体系，而是限制神学言说的场合。格里高利要求说神者经受净化，避免把神学变成市集争辩，并承认语言和概念都不能把神的本质收入定义。",
+        "themeIds": [
+          "language",
+          "religion",
+          "knowledge"
+        ],
+        "weight": 3,
+        "sourceIds": [
+          "S008",
+          "S009"
+        ],
+        "claims": [
+          {
+            "id": "gregory-of-nazianzus:claim:001",
+            "titleZh": "神学不是任何人随时可玩的辩论",
+            "claimZh": "格里高利把谈论神的资格绑定于净化、沉思和合宜听众，反对把三一奥秘降格为社交场合中的聪明话术。",
+            "explanationZh": "第一篇神学演讲的锋芒在于为神学语言设门槛：不是禁止思想，而是要求说话者和听众具备与主题相称的灵魂状态。",
+            "themeIds": [
+              "language",
+              "ethics",
+              "religion"
+            ],
+            "weight": 3,
+            "sourceIds": [
+              "S008"
+            ],
+            "evidence": [
+              {
+                "id": "gregory-of-nazianzus:evidence:001",
+                "titleZh": "谈神只适合经净化并真正关心者",
+                "summaryZh": "Oration 27 第三节说并非人人都可哲学地谈论神，也不是任何时候、任何听众、任何题目都可以；谈神者须经默想并在身心上被净化。",
+                "sourceIds": [
+                  "S008"
+                ],
+                "source": {
+                  "workId": "gregory-nazianzus-theological-orations",
+                  "locator": "Oration 27, §3",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "gregory-of-nazianzus:evidence:002",
+                "titleZh": "论神范围须随听众承载力设限",
+                "summaryZh": "Oration 27 第四节要求只在力所能及之事上、并按听众理解能力谈论神；过重论证会像过大负担一样损害原有力量。",
+                "sourceIds": [
+                  "S008"
+                ],
+                "source": {
+                  "workId": "gregory-nazianzus-theological-orations",
+                  "locator": "Oration 27, §4",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "gregory-of-nazianzus:claim:002",
+            "titleZh": "不可言说性不是否认神而是限制定义",
+            "claimZh": "格里高利承认可由受造秩序确认神存在，却坚持神的本质无法被概念或语言定义。",
+            "explanationZh": "他把摩西进云、见背部和不能直视太阳等意象转成认识论边界：人可真实被引向神，却不能把神性本质变成可占有对象。",
+            "themeIds": [
+              "language",
+              "knowledge",
+              "metaphysics"
+            ],
+            "weight": 2,
+            "sourceIds": [
+              "S009"
+            ],
+            "evidence": [
+              {
+                "id": "gregory-of-nazianzus:evidence:003",
+                "titleZh": "摩西也只见神的背部与受造荣耀",
+                "summaryZh": "Oration 28 第三节以摩西上山入云为例，说即使进入物质之外的沉思，也只是看见神的背部，即从受造物中显明的荣耀，而非神性本质本身。",
+                "sourceIds": [
+                  "S009"
+                ],
+                "source": {
+                  "workId": "gregory-nazianzus-theological-orations",
+                  "locator": "Oration 28, §3",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "gregory-of-nazianzus:evidence:004",
+                "titleZh": "神难以被构想更不可能被定义",
+                "summaryZh": "Oration 28 第四至第五节把“构想神已困难、用词定义更不可能”推得更深，并区分确信神存在与知道神是什么两件事。",
+                "sourceIds": [
+                  "S009"
+                ],
+                "source": {
+                  "workId": "gregory-nazianzus-theological-orations",
+                  "locator": "Oration 28, §§4-5",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "gregory-of-nazianzus:problem:002",
+        "titleZh": "三一 monarchia 如何避免一位格化？",
+        "questionZh": "格里高利怎样既坚持一神论，又避免把神的一性压缩为单一位格，并说明父、子、圣灵的差异不可被时间化或物化？",
+        "summaryZh": "格里高利的三一论把 monarchia 解释为同一本性、同一运动和同一趋向中的统一，而不是一个孤立位格。他用受生、发出、非时间和非身体化语言，保护三者区分又不割裂本质。",
+        "themeIds": [
+          "metaphysics",
+          "religion",
+          "language"
+        ],
+        "weight": 3,
+        "sourceIds": [
+          "S010",
+          "S011"
+        ],
+        "claims": [
+          {
+            "id": "gregory-of-nazianzus:claim:003",
+            "titleZh": "一神 monarchia 是本性相等中的合一",
+            "claimZh": "格里高利拒绝无统治、多统治和单一位格式的一神理解，把正统 monarchia 放在三者本性相等与无分裂的合一中。",
+            "explanationZh": "这使三一论既不是多神，也不是把父、子、圣灵压扁为同一个位格；数目差异不等于本质分裂，统一也不取消关系区分。",
+            "themeIds": [
+              "metaphysics",
+              "religion"
+            ],
+            "weight": 2,
+            "sourceIds": [
+              "S010"
+            ],
+            "evidence": [
+              {
+                "id": "gregory-of-nazianzus:evidence:005",
+                "titleZh": "monarchia 不限于一个位格",
+                "summaryZh": "Oration 29 第二节说基督徒尊崇 monarchia，但它不是被限制在一个位格中，而是本性相等、心意联合、运动一致并趋向合一。",
+                "sourceIds": [
+                  "S010"
+                ],
+                "source": {
+                  "workId": "gregory-nazianzus-theological-orations",
+                  "locator": "Oration 29, §2",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "gregory-of-nazianzus:evidence:006",
+                "titleZh": "父子灵超出时间性的何时追问",
+                "summaryZh": "Oration 29 第三节面对“何时受生/发出”的追问，回答三者都在一切何时之上；没有父不存在的时刻，也没有子或圣灵不存在的时刻。",
+                "sourceIds": [
+                  "S010"
+                ],
+                "source": {
+                  "workId": "gregory-nazianzus-theological-orations",
+                  "locator": "Oration 29, §3",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "gregory-of-nazianzus:claim:004",
+            "titleZh": "受生语言不能被还原为意志或受造因果",
+            "claimZh": "格里高利认为关于子的受生和成肉身经文必须分层解释，不能把神内关系降格为人的意志、身体生成或受造因果。",
+            "explanationZh": "他一面拒绝把子称为“意志之子”的诡辩，另一面把经文中低于神性的语句归于成肉身的人性层面，由此保留神性受生的不可把握性。",
+            "themeIds": [
+              "language",
+              "metaphysics",
+              "religion"
+            ],
+            "weight": 3,
+            "sourceIds": [
+              "S010",
+              "S011"
+            ],
+            "evidence": [
+              {
+                "id": "gregory-of-nazianzus:evidence:007",
+                "titleZh": "意愿与受生不可插入为第四物",
+                "summaryZh": "Oration 29 第六节反驳“自愿或非自愿受生”的二难，把愿意者、愿意行为和所愿对象区分开，指出这种推理会把意志错误地插入父子关系。",
+                "sourceIds": [
+                  "S010"
+                ],
+                "source": {
+                  "workId": "gregory-nazianzus-theological-orations",
+                  "locator": "Oration 29, §6",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "gregory-of-nazianzus:evidence:008",
+                "titleZh": "低位经文归于人性，高位语句归于神性",
+                "summaryZh": "Oration 30 第二节处理“主创造我”等经文时，区分有原因的成肉身层面和绝对无始的神性层面，避免把受造语词套到子的神性上。",
+                "sourceIds": [
+                  "S011"
+                ],
+                "source": {
+                  "workId": "gregory-nazianzus-theological-orations",
+                  "locator": "Oration 30, §2",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "gregory-of-nazianzus:problem:003",
+        "titleZh": "圣灵神性如何进入三一表达？",
+        "questionZh": "格里高利如何论证圣灵不是被造助手，而是与父、子同受敬拜、同属神性的一位？",
+        "summaryZh": "第五篇神学演讲把圣灵神性推到明处：父、子、圣灵都被称为真光，三者共同构成一光一神；敬拜、祈祷、同尊荣和经文计数都被用来反驳把圣灵列入受造物的论证。",
+        "themeIds": [
+          "religion",
+          "metaphysics",
+          "language"
+        ],
+        "weight": 2,
+        "sourceIds": [
+          "S012"
+        ],
+        "claims": [
+          {
+            "id": "gregory-of-nazianzus:claim:005",
+            "titleZh": "圣灵与父子同为一光一神",
+            "claimZh": "格里高利把圣灵明确纳入神性称名：父是真光，子是真光，圣灵也是真光，而三次光并不是三神。",
+            "explanationZh": "这种表达把圣灵神性从边缘护教推进到三一共同称名之内；它既保持三者区分，也用同一光、同一神维护共同神性。",
+            "themeIds": [
+              "religion",
+              "metaphysics"
+            ],
+            "weight": 3,
+            "sourceIds": [
+              "S012"
+            ],
+            "evidence": [
+              {
+                "id": "gregory-of-nazianzus:evidence:009",
+                "titleZh": "父子灵皆被称为真光",
+                "summaryZh": "Oration 31 第三节把父、子和另一位保惠师都称为照亮众人的真光，并以“一光一神”概括三一神性共同性。",
+                "sourceIds": [
+                  "S012"
+                ],
+                "source": {
+                  "workId": "gregory-nazianzus-theological-orations",
+                  "locator": "Oration 31, §3",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "gregory-of-nazianzus:evidence:010",
+                "titleZh": "若一者从起初即在，三者亦然",
+                "summaryZh": "Oration 31 第四节说若父从起初在，子和圣灵也从起初在；若神性缺少圣灵，就成了不完全的神性。",
+                "sourceIds": [
+                  "S012"
+                ],
+                "source": {
+                  "workId": "gregory-nazianzus-theological-orations",
+                  "locator": "Oration 31, §4",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "gregory-of-nazianzus:claim:006",
+            "titleZh": "敬拜实践和语言计数共同保护圣灵同尊荣",
+            "claimZh": "格里高利用祈祷敬拜和语法计数反击反圣灵论，指出圣灵若未被造，就不能被归入受造万物。",
+            "explanationZh": "他不把教义交给孤立字词裁决；“在圣灵中敬拜”和“同等尊荣”显示实践层面的一神敬拜，计数问题则不能决定本质高低。",
+            "themeIds": [
+              "language",
+              "religion",
+              "metaphysics"
+            ],
+            "weight": 2,
+            "sourceIds": [
+              "S012"
+            ],
+            "evidence": [
+              {
+                "id": "gregory-of-nazianzus:evidence:011",
+                "titleZh": "在圣灵中敬拜等于一者敬拜三者",
+                "summaryZh": "Oration 31 第十二节说明人是在圣灵中敬拜和祈祷，敬拜一位即因同等尊荣和神性而敬拜三位，除非能证明圣灵被造。",
+                "sourceIds": [
+                  "S012"
+                ],
+                "source": {
+                  "workId": "gregory-nazianzus-theological-orations",
+                  "locator": "Oration 31, §12",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "gregory-of-nazianzus:evidence:012",
+                "titleZh": "语法计数不能决定同质或异质",
+                "summaryZh": "Oration 31 第十九至二十节反驳以数字和名词搭配决定本质的论证，指出同数或异数的语言现象不足以证明圣灵低于父子。",
+                "sourceIds": [
+                  "S012"
+                ],
+                "source": {
+                  "workId": "gregory-nazianzus-theological-orations",
+                  "locator": "Oration 31, §§19-20",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

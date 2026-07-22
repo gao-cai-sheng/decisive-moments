@@ -1,0 +1,41 @@
+{
+  "id": "badarayana",
+  "tier": "seed",
+  "names": {
+    "zh": "跋达罗衍那",
+    "en": "Bādarāyaṇa"
+  },
+  "life": {
+    "display": "约前1世纪"
+  },
+  "civilization": "indian",
+  "traditions": [
+    "vedanta"
+  ],
+  "periods": [
+    "ancient"
+  ],
+  "themes": [
+    "religion",
+    "metaphysics"
+  ],
+  "keywordsZh": [
+    "吠檀多",
+    "梵经",
+    "传统归属"
+  ],
+  "oneLineZh": "《梵经》的传统归属作者，吠檀多根本经和三大注家共同锚点。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "跋达罗衍那是《梵经》的传统归属作者，也是吠檀多思想史的身份层根节点。其生卒与文本成书存在断代争议，本条仅以 seed 档记录传统归属和思想史挂靠，后续升级标准档时必须重做来源考证。",
+  "works": [
+    "badarayana-brahma-sutra"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S001",
+      "url": "https://plato.stanford.edu/entries/vedanta/",
+      "noteZh": "SEP Vedānta 条目用于核验《梵经》、吠檀多传统和跋达罗衍那的传统归属；断代有争议。"
+    }
+  ]
+}

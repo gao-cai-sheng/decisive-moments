@@ -1,0 +1,45 @@
+{
+  "id": "xue-xuan",
+  "tier": "seed",
+  "names": {
+    "zh": "薛瑄",
+    "en": "Xue Xuan",
+    "native": "薛瑄"
+  },
+  "life": {
+    "birth": 1389,
+    "death": 1464,
+    "display": "1389—1464"
+  },
+  "civilization": "chinese",
+  "traditions": [
+    "neo_confucianism"
+  ],
+  "periods": [
+    "ming"
+  ],
+  "themes": [
+    "ethics",
+    "knowledge"
+  ],
+  "keywordsZh": [
+    "河东学派",
+    "读书录",
+    "复性"
+  ],
+  "oneLineZh": "明代理学家，河东学派代表，强调复性和笃实践履。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "薛瑄，字德温，号敬轩，明代河东学派代表人物。《读书录》集中体现其程朱理学立场，强调复性、主敬、读书和实践工夫。薛瑄在明初学术中坚持朱子学的道德严肃性，与吴与弼、陈献章等较重体验的方向形成对照，是明代理学官学和地方学派的重要人物。",
+  "works": [
+    "xue-xuan-dushu-lu",
+    "xue-xuan-xuewenqing-ji"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S021",
+      "url": "https://ctext.org/wiki.pl?if=en&res=821830",
+      "noteZh": "以薛瑄《读书录》《薛文清集》支撑身份层。"
+    }
+  ]
+}

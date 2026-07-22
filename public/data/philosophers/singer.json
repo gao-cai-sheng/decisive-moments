@@ -5,8 +5,8 @@
     "en": "Peter Singer"
   },
   "life": {
-    "display": "1946 年生",
-    "birth": 1946
+    "birth": 1946,
+    "display": "1946 年生"
   },
   "civilization": "global_modern",
   "traditions": [
@@ -37,5 +37,246 @@
       "label": "draft",
       "noteZh": "条目需要人工核对作品、年代和概念表述。"
     }
-  ]
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "singer:problem:001",
+        "titleZh": "利益为何应被平等考虑？",
+        "questionZh": "辛格如何围绕“利益为何应被平等考虑？”建立其思想问题？",
+        "summaryZh": "辛格以利益平等考虑原则反对只按物种、距离或群体身份限制道德关切。",
+        "themeIds": [
+          "ethics",
+          "justice"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "singer:claim:001",
+            "titleZh": "相同利益应同等考虑",
+            "claimZh": "辛格主张，凡能感受痛苦和享受利益的存在，其相似利益都应受到同等考虑。",
+            "explanationZh": "该命题把伦理共同体边界从人类身份扩展到可感受利益的存在，并批判任意排除。",
+            "themeIds": [
+              "ethics",
+              "justice"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "singer:evidence:001",
+                "titleZh": "利益平等依据",
+                "summaryZh": "《动物解放》开篇将平等理解为利益的同等考虑，而不是事实能力或智力水平完全相同，标准在利益。",
+                "source": {
+                  "workId": "singer-primary-work",
+                  "locator": "《动物解放》第一章第3段",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "singer:evidence:002",
+                "titleZh": "物种偏见依据",
+                "summaryZh": "同章把忽视非人存在痛苦的做法称为物种偏见，说明道德考虑不能只由物种成员资格决定。",
+                "source": {
+                  "workId": "singer-primary-work",
+                  "locator": "《动物解放》第一章第9段",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "singer:claim:002",
+            "titleZh": "道德判断应超越偏私边界",
+            "claimZh": "辛格认为，伦理要求我们从受影响者利益出发，而不是只维护亲近者或本群体便利。",
+            "explanationZh": "该命题把功利主义普遍性用于批判地方性偏见、身份偏私和道德双重标准。",
+            "themeIds": [
+              "ethics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "singer:evidence:003",
+                "titleZh": "普遍化伦理依据",
+                "summaryZh": "《实践伦理学》导论说明伦理观点必须能够超越个人偏好，接受可普遍说明的理由约束，而非偏私。",
+                "source": {
+                  "workId": "singer-primary-work",
+                  "locator": "《实践伦理学》第一章第5段",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "singer:evidence:004",
+                "titleZh": "偏私批判依据",
+                "summaryZh": "该书在讨论平等时指出，道德相关的是利益本身，而非行动者与受影响者之间的亲疏关系。",
+                "source": {
+                  "workId": "singer-primary-work",
+                  "locator": "《实践伦理学》第二章第4段",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "singer:problem:002",
+        "titleZh": "富裕者对远方困境负有什么义务？",
+        "questionZh": "辛格如何围绕“富裕者对远方困境负有什么义务？”建立其思想问题？",
+        "summaryZh": "辛格把帮助远方困境者看作严格道德要求，而非可有可无的慈善选择。",
+        "themeIds": [
+          "justice",
+          "ethics"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "singer:claim:003",
+            "titleZh": "距离不应削弱救助理由",
+            "claimZh": "辛格主张，如果我们能以较小代价防止严重损害，距离本身不应改变道德义务。",
+            "explanationZh": "该命题突破近邻优先直觉，把全球贫困、个人消费选择和救助责任连接起来。",
+            "themeIds": [
+              "justice",
+              "ethics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "singer:evidence:005",
+                "titleZh": "池塘例子依据",
+                "summaryZh": "《饥荒、富裕与道德》用浅池救人例子说明，当代价较小时，防止严重损害具有强约束力。",
+                "source": {
+                  "workId": "singer-primary-work",
+                  "locator": "《饥荒、富裕与道德》第4段",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "singer:evidence:006",
+                "titleZh": "距离无关依据",
+                "summaryZh": "文章随后指出，受助者远在他乡或近在眼前并不改变损害严重性和救助理由的基本结构，距离无关。",
+                "source": {
+                  "workId": "singer-primary-work",
+                  "locator": "《饥荒、富裕与道德》第6段",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "singer:claim:004",
+            "titleZh": "慈善可被重述为义务",
+            "claimZh": "辛格认为，许多通常被称为慈善的行为，其实是避免可防止严重损害的道德义务。",
+            "explanationZh": "该命题改变援助伦理的语气，把选择性善行推进为责任问题和制度评价问题。",
+            "themeIds": [
+              "ethics",
+              "justice"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "singer:evidence:007",
+                "titleZh": "慈善义务依据",
+                "summaryZh": "《饥荒、富裕与道德》明确批评传统义务与慈善区分，认为它低估了富裕者责任和可救助性。",
+                "source": {
+                  "workId": "singer-primary-work",
+                  "locator": "《饥荒、富裕与道德》第10段",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "singer:evidence:008",
+                "titleZh": "边际牺牲依据",
+                "summaryZh": "文章讨论我们应持续给予直到边际牺牲达到相当程度，显示其要求远强于普通慈善观和善意表达。",
+                "source": {
+                  "workId": "singer-primary-work",
+                  "locator": "《饥荒、富裕与道德》第12段",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "singer:problem:003",
+        "titleZh": "伦理如何指导有效行动？",
+        "questionZh": "辛格如何围绕“伦理如何指导有效行动？”建立其思想问题？",
+        "summaryZh": "辛格强调伦理不应停留在态度表达，而应比较行动后果并选择更能改善处境的方案。",
+        "themeIds": [
+          "ethics",
+          "freedom"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "singer:claim:005",
+            "titleZh": "善意需要效果评估",
+            "claimZh": "辛格主张，道德行动应关注实际改善效果，而非只关注动机纯洁或情感满足。",
+            "explanationZh": "该命题为有效利他主义提供哲学基础，要求资源使用接受理性比较和证据检验。",
+            "themeIds": [
+              "ethics",
+              "knowledge"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "singer:evidence:009",
+                "titleZh": "有效捐助依据",
+                "summaryZh": "《你能拯救的生命》比较不同援助方式的实际效果，强调同样资源可产生差别巨大的后果。",
+                "source": {
+                  "workId": "singer-primary-work",
+                  "locator": "《你能拯救的生命》第三章第2节第3段",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "singer:evidence:010",
+                "titleZh": "效果优先依据",
+                "summaryZh": "该书用可衡量救助结果说明，善意若不考察效果，可能浪费本可减少严重损害的资源和机会。",
+                "source": {
+                  "workId": "singer-primary-work",
+                  "locator": "《你能拯救的生命》第三章第3节第5段",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "singer:claim:006",
+            "titleZh": "伦理生活要求改变日常选择",
+            "claimZh": "辛格认为，伦理不是抽象原则，而会要求我们改变消费、捐助和社会参与方式。",
+            "explanationZh": "该命题把道德哲学推向生活实践，使个人自由受到普遍利益理由和后果比较约束。",
+            "themeIds": [
+              "ethics",
+              "freedom"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "singer:evidence:011",
+                "titleZh": "实践伦理依据",
+                "summaryZh": "《实践伦理学》把多个公共议题放入可行动的伦理分析框架，说明原则必须落实为选择和实践。",
+                "source": {
+                  "workId": "singer-primary-work",
+                  "locator": "《实践伦理学》导论第7段",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "singer:evidence:012",
+                "titleZh": "生活改变依据",
+                "summaryZh": "《你能拯救的生命》结尾要求读者把援助义务制度化为持续承诺，而不是偶发情绪反应或短暂冲动。",
+                "source": {
+                  "workId": "singer-primary-work",
+                  "locator": "《你能拯救的生命》第十章第4节第2段",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "tier": "standard"
 }

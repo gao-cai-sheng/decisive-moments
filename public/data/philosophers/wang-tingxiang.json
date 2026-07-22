@@ -1,0 +1,46 @@
+{
+  "id": "wang-tingxiang",
+  "tier": "seed",
+  "names": {
+    "zh": "王廷相",
+    "en": "Wang Tingxiang",
+    "native": "王廷相"
+  },
+  "life": {
+    "birth": 1474,
+    "death": 1544,
+    "display": "1474—1544"
+  },
+  "civilization": "chinese",
+  "traditions": [
+    "neo_confucianism",
+    "qi_monism"
+  ],
+  "periods": [
+    "ming"
+  ],
+  "themes": [
+    "metaphysics",
+    "knowledge"
+  ],
+  "keywordsZh": [
+    "慎言",
+    "气一元论",
+    "格物"
+  ],
+  "oneLineZh": "明代气学思想家，以气一元论和经验取向批评空疏心学。",
+  "influenceWeight": 3,
+  "reviewStatus": "draft",
+  "summaryZh": "王廷相，字子衡，号浚川，明代思想家、政治人物。《慎言》《雅述》等著作强调气为宇宙根本，反对离气言理，也批评空疏心学和虚寂之说。他重视耳目经验、格物考察和制度现实，是明代气学传统的重要代表，对清初实学和反理学思潮有先声意义。",
+  "works": [
+    "wang-tingxiang-shenyan",
+    "wang-tingxiang-yashu"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S023",
+      "url": "https://ctext.org/wiki.pl?if=en&res=821900",
+      "noteZh": "以王廷相《慎言》《雅述》支撑身份层。"
+    }
+  ]
+}

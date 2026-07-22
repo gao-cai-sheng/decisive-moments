@@ -1,0 +1,291 @@
+{
+  "id": "dharmakirti",
+  "names": {
+    "zh": "法称",
+    "en": "Dharmakīrti"
+  },
+  "life": {
+    "display": "c. 6th–7th c."
+  },
+  "civilization": "indian",
+  "traditions": [
+    "buddhist_epistemology",
+    "yogacara",
+    "logic"
+  ],
+  "periods": [
+    "expansion_b3"
+  ],
+  "themes": [
+    "knowledge",
+    "language",
+    "metaphysics"
+  ],
+  "keywordsZh": [
+    "量论",
+    "现量",
+    "比量",
+    "apoha",
+    "刹那灭"
+  ],
+  "oneLineZh": "以量论、因明和语言排除论把陈那之后的佛教认识论推向印度与藏传传统的高峰。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "法称继承陈那的量论框架，围绕可靠认知、现量、比量、因果效用和排除论建立精密的佛教逻辑与认识论体系。",
+  "works": [
+    "dharmakirti-pramanavarttika",
+    "dharmakirti-pramanaviniscaya",
+    "dharmakirti-nyayabindu",
+    "dharmakirti-hetubindu",
+    "dharmakirti-santanantarasiddhi"
+  ],
+  "sourceNotes": [
+    {
+      "label": "SEP and primary treatise note",
+      "url": "https://plato.stanford.edu/entries/dharmakiirti/",
+      "noteZh": "以 SEP 条目和《量评释》等主要论书为依据，日期与传记保持保守表述。"
+    }
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "dharmakirti:problem:001",
+        "titleZh": "有效认知与可靠性",
+        "questionZh": "法称如何界定量，并说明认知何以能够可靠地导向对象？",
+        "summaryZh": "法称把有效认知置于因果效用和非错乱经验中讨论，使认识论同时承担解脱、逻辑和实践成功的任务。",
+        "themeIds": [
+          "knowledge",
+          "metaphysics"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "dharmakirti:claim:001",
+            "titleZh": "量是能达成对象功能的可靠认知",
+            "claimZh": "法称将量理解为不欺诳的可靠认知，其可靠性与对象能否发挥预期功能密切相连。",
+            "explanationZh": "这使佛教认识论不只是主观确信理论，而是通过因果效用连接经验、行动和真实性。",
+            "themeIds": [
+              "knowledge",
+              "metaphysics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "dharmakirti:evidence:001",
+                "titleZh": "《量评释》论 pramāṇa 的可靠性",
+                "summaryZh": "文本以可靠认知界定量，并把不欺诳性同对象功能的实现联系起来，为后世解释因果效用提供核心依据。",
+                "source": {
+                  "workId": "dharmakirti-pramanavarttika",
+                  "locator": "Pramanavarttika II.1 on pramana as reliable cognition",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "dharmakirti:evidence:002",
+                "titleZh": "《定量论》整理现量与比量",
+                "summaryZh": "《定量论》以更系统形式区分现量和比量，说明可靠认识既有非概念经验基础，也有推理结构。",
+                "source": {
+                  "workId": "dharmakirti-pramanaviniscaya",
+                  "locator": "Pramanaviniscaya, opening analysis of perception and inference",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "dharmakirti:claim:002",
+            "titleZh": "现量把握独自相而非共相",
+            "claimZh": "在法称体系中，现量接触的是不可概念化的独自相，共相和名称属于概念构造层面。",
+            "explanationZh": "这条主张支撑其佛教名相批判：语言有实践作用，却不能把普遍实体变成真正实在。",
+            "themeIds": [
+              "knowledge",
+              "language"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "dharmakirti:evidence:003",
+                "titleZh": "《量评释》第一品论独自相与共相构造",
+                "summaryZh": "第一品把真正有效的对象限定为具有因果效力的个别相，并把共相解释为概念活动中的构造对象。",
+                "source": {
+                  "workId": "dharmakirti-pramanavarttika",
+                  "locator": "Pramanavarttika I.152 in the nominalism discussion",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "dharmakirti:evidence:004",
+                "titleZh": "《量评释》第一品反驳普遍者",
+                "summaryZh": "第一品通过普遍者不能移动、无前后和无部分等难题，削弱把共相当作实体的形而上学立场。",
+                "source": {
+                  "workId": "dharmakirti-pramanavarttika",
+                  "locator": "Pramanavarttika I.152 in the nominalism discussion",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "dharmakirti:problem:002",
+        "titleZh": "推理、因和排除论",
+        "questionZh": "法称如何解释语言和推理可以有效运作，而不承认真实普遍者？",
+        "summaryZh": "法称用 apoha 排除论和三相因标准解释概念运作，让语言保持工具效力而不承担普遍实体本体论。",
+        "themeIds": [
+          "language",
+          "knowledge"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "dharmakirti:claim:003",
+            "titleZh": "概念意义来自排除而非实体共相",
+            "claimZh": "法称以排除非此者解释词义，使语言能够分类和推理，却不需要承认独立存在的普遍者。",
+            "explanationZh": "这条主张把佛教刹那论、唯名论和逻辑语义学连接起来，是其影响印度哲学辩论的重要原因。",
+            "themeIds": [
+              "language",
+              "metaphysics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "dharmakirti:evidence:005",
+                "titleZh": "《量评释》第一品论 apoha 排除机制",
+                "summaryZh": "第一品通过排除非此者说明词义形成，使语言分类依赖概念排除而不需要承认独立普遍实体。",
+                "source": {
+                  "workId": "dharmakirti-pramanavarttika",
+                  "locator": "Pramanavarttika I, apoha materials in the chapter on inference for oneself",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "dharmakirti:evidence:006",
+                "titleZh": "《正理滴论》中的推理结构",
+                "summaryZh": "《正理滴论》以简明形式呈现所知、因和结论关系，显示概念推理可在约定层面稳定运作。",
+                "source": {
+                  "workId": "dharmakirti-nyayabindu",
+                  "locator": "Nyayabindu, chapters on inference and logical marks",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "dharmakirti:claim:004",
+            "titleZh": "有效理由需要严格的遍充关系",
+            "claimZh": "法称强化因明中的有效理由条件，要求理由与所立属性之间具有可检验的必然关联。",
+            "explanationZh": "这使其逻辑理论能够回应辩论场景，避免只凭相似性或权威断言建立推理。",
+            "themeIds": [
+              "knowledge",
+              "language"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "dharmakirti:evidence:007",
+                "titleZh": "《因滴论》论因的条件",
+                "summaryZh": "《因滴论》集中处理有效因和遍充问题，说明理由必须在同品和异品关系中经受检验，不能只靠相似联想。",
+                "source": {
+                  "workId": "dharmakirti-hetubindu",
+                  "locator": "Hetubindu, treatment of logical reason and pervasion",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "dharmakirti:evidence:008",
+                "titleZh": "《量评释》因明章节论三相因",
+                "summaryZh": "相关论证把有效理由限定为在同品成立、异品不成立并与所立法相连，从而保证为他推理的公开可检验性。",
+                "source": {
+                  "workId": "dharmakirti-pramanavarttika",
+                  "locator": "Pramanavarttika, svārthānumāna/parārthānumāna materials on trairūpya",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "dharmakirti:problem:003",
+        "titleZh": "佛陀权威与解脱认识",
+        "questionZh": "法称如何在严格理性论证中为佛陀权威和修行知识留下位置？",
+        "summaryZh": "法称没有把经典权威当作任意前提，而是在可理性检验和不可直接通达领域之间划分信赖范围。",
+        "themeIds": [
+          "religion",
+          "knowledge"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "dharmakirti:claim:005",
+            "titleZh": "佛陀权威需要通过可靠性说明",
+            "claimZh": "法称把佛陀解释为可靠者，而不是把佛教经典当作无需论证的独立知识来源。",
+            "explanationZh": "这使佛教护教从诉诸传统转向说明觉者为何在解脱目标上可信。",
+            "themeIds": [
+              "religion",
+              "knowledge"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "dharmakirti:evidence:009",
+                "titleZh": "《量评释》第二品论成量者",
+                "summaryZh": "第二品围绕佛陀作为成量者展开论证，把慈悲、无误认识和解脱教导联系在一起，形成理性护教路径。",
+                "source": {
+                  "workId": "dharmakirti-pramanavarttika",
+                  "locator": "Pramanavarttika II, pramanasiddhi materials on the Buddha as reliable guide",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "dharmakirti:evidence:010",
+                "titleZh": "《量评释》第二品论佛陀作为成量者",
+                "summaryZh": "第二品把佛陀权威建立在无误认识、慈悲动机和解脱教导的可靠性上，而不是把经典当作无条件独立量。",
+                "source": {
+                  "workId": "dharmakirti-pramanavarttika",
+                  "locator": "Pramanavarttika II, pramanasiddhi materials on the Buddha as reliable guide",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "dharmakirti:claim:006",
+            "titleZh": "唯识语境仍需回应他心问题",
+            "claimZh": "法称在承认认知内部性的强趋势时，仍尝试说明他人心流可被合理确立。",
+            "explanationZh": "这避免其认识论滑向简单唯我论，也显示佛教解脱论需要保留他者、慈悲和教导关系。",
+            "themeIds": [
+              "metaphysics",
+              "knowledge"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "dharmakirti:evidence:011",
+                "titleZh": "《他相续成立论》处理他心",
+                "summaryZh": "该论以他人身体行为和类比推理为基础，说明他心可以在唯识语境中获得合理承认，从而避免封闭唯我论。",
+                "source": {
+                  "workId": "dharmakirti-santanantarasiddhi",
+                  "locator": "Santanantarasiddhi, argument from analogy for other streams",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "dharmakirti:evidence:012",
+                "titleZh": "《量评释》第三品论认知内部化",
+                "summaryZh": "第三品把外境解释为可由认知显现说明的对象，同时让他心论证承担避免唯我封闭的补充任务。",
+                "source": {
+                  "workId": "dharmakirti-pramanavarttika",
+                  "locator": "Pramanavarttika III, materials on cognition and external object",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "tier": "standard"
+}

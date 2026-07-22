@@ -1,0 +1,301 @@
+{
+  "id": "du-bois",
+  "names": {
+    "zh": "杜波依斯",
+    "en": "W. E. B. Du Bois"
+  },
+  "life": {
+    "birth": 1868,
+    "death": 1963,
+    "display": "1868—1963"
+  },
+  "civilization": "american_modern",
+  "traditions": [
+    "afro_modern_political_thought",
+    "sociology",
+    "critical_race_thought"
+  ],
+  "periods": [
+    "expansion_e2"
+  ],
+  "themes": [
+    "justice",
+    "politics",
+    "knowledge"
+  ],
+  "keywordsZh": [
+    "色线",
+    "双重意识",
+    "面纱",
+    "废奴民主",
+    "黑色重建"
+  ],
+  "oneLineZh": "以双重意识、色线和废奴民主把种族经验推进为现代政治哲学和社会科学问题。",
+  "influenceWeight": 3,
+  "reviewStatus": "draft",
+  "summaryZh": "杜波依斯把实证社会学、黑人政治思想、历史哲学和文学表达结合起来，提出色线、面纱、双重意识和废奴民主等概念；其思想横跨詹姆斯式心理学、黑格尔式历史结构、马克思主义批判和非裔现代政治传统。",
+  "works": [
+    "dubois-suppression-slave-trade",
+    "dubois-philadelphia-negro",
+    "dubois-souls-black-folk",
+    "dubois-talented-tenth",
+    "dubois-john-brown",
+    "dubois-darkwater",
+    "dubois-black-reconstruction",
+    "dubois-dusk-of-dawn"
+  ],
+  "sourceNotes": [
+    {
+      "label": "SEP",
+      "url": "https://plato.stanford.edu/entries/dubois/",
+      "noteZh": "用于核对杜波依斯生平、著作、双重意识、政治哲学、黑格尔/马克思/詹姆斯关系。"
+    },
+    {
+      "label": "review",
+      "noteZh": "E2 批新增条目，重点补上美国黑人政治思想与现代社会科学链条。"
+    }
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "du-bois:problem:001",
+        "titleZh": "种族压迫如何成为被生活出来的社会事实？",
+        "questionZh": "杜波依斯如何把色线、面纱和双重意识转化为现代主体与政治秩序问题？",
+        "summaryZh": "杜波依斯把黑人问题理解为被主体生活出来的社会处境，而不是单纯外部调查对象；双重意识揭示了现代民主中的承认裂缝。",
+        "themeIds": [
+          "justice",
+          "politics"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "du-bois:claim:001",
+            "titleZh": "色线定义二十世纪政治问题",
+            "claimZh": "现代世界的核心政治问题之一是较深肤色与较浅肤色群体之间被制度化的支配关系。",
+            "explanationZh": "色线概念把美国种族隔离、殖民世界和全球现代性联系起来，使种族问题成为现代政治秩序的结构问题。",
+            "themeIds": [
+              "justice",
+              "politics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "du-bois:evidence:001",
+                "titleZh": "《黑人的灵魂》的色线命题",
+                "summaryZh": "《黑人的灵魂》开篇和相关章节把二十世纪问题界定为色线问题，指出种族分界塑造美国和全球政治关系。",
+                "source": {
+                  "workId": "dubois-souls-black-folk",
+                  "locator": "The Souls of Black Folk, Forethought and chapter on the color-line",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "du-bois:evidence:002",
+                "titleZh": "SEP 对 Negro Problem 的说明",
+                "summaryZh": "SEP 指出杜波依斯把黑人问题理解为主观生活和感受中的社会状态，而不仅是社会科学的外部对象。",
+                "source": {
+                  "workId": "dubois-souls-black-folk",
+                  "locator": "SEP Du Bois, section 2 on the Negro Problem and double-consciousness",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "du-bois:claim:002",
+            "titleZh": "双重意识揭示承认裂缝",
+            "claimZh": "被种族化主体不得不同时通过自身眼光和支配社会眼光理解自己，形成撕裂的自我经验。",
+            "explanationZh": "双重意识不是私人心理缺陷，而是美国民主承诺与种族排斥并存时在主体内部留下的政治形态。",
+            "themeIds": [
+              "justice",
+              "knowledge"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "du-bois:evidence:003",
+                "titleZh": "《黑人的灵魂》的面纱和双重意识",
+                "summaryZh": "《黑人的灵魂》用面纱和双重意识描述黑人主体在美国社会中既看见自己又被他者目光分裂的经验结构。",
+                "source": {
+                  "workId": "dubois-souls-black-folk",
+                  "locator": "The Souls of Black Folk, chapter 1 Of Our Spiritual Strivings",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "du-bois:evidence:004",
+                "titleZh": "SEP 对双重意识影响的定位",
+                "summaryZh": "SEP 将双重意识列为杜波依斯对黑人问题的核心刻画，并说明该概念持续影响当代黑人政治理论。",
+                "source": {
+                  "workId": "dubois-souls-black-folk",
+                  "locator": "SEP Du Bois, sections 2 and 4.1",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "du-bois:problem:002",
+        "titleZh": "社会科学如何反驳种族神话？",
+        "questionZh": "杜波依斯如何用城市调查和重建史改写关于黑人生活、劳动和民主能力的知识结构？",
+        "summaryZh": "杜波依斯把经验调查和历史重写作为政治哲学的一部分，用数据、档案和叙事反驳把黑人贫困或政治行动自然化的种族解释。",
+        "themeIds": [
+          "knowledge",
+          "justice"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "du-bois:claim:003",
+            "titleZh": "城市社会学揭示制度条件",
+            "claimZh": "黑人社区问题必须从居住、劳动、教育、家庭和歧视制度中解释，而不能诉诸种族本质。",
+            "explanationZh": "《费城黑人》把社会科学变成反种族主义工具：调查不是中立堆数据，而是改写问题因果结构。",
+            "themeIds": [
+              "knowledge",
+              "justice"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "du-bois:evidence:005",
+                "titleZh": "《费城黑人》的社区调查",
+                "summaryZh": "《费城黑人》通过街区调查、职业分类和家庭资料展示黑人贫困与城市机会结构、歧视和历史处境相连。",
+                "source": {
+                  "workId": "dubois-philadelphia-negro",
+                  "locator": "The Philadelphia Negro, sociological survey of Philadelphia's Seventh Ward",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "du-bois:evidence:006",
+                "titleZh": "SEP 对早期出版物的时间线",
+                "summaryZh": "SEP 将《费城黑人》列为 1899 年出版的重要著作，并把杜波依斯定位为社会科学和政治思想的交叉人物。",
+                "source": {
+                  "workId": "dubois-philadelphia-negro",
+                  "locator": "SEP Du Bois, life and major publications timeline",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "du-bois:claim:004",
+            "titleZh": "黑色重建重写民主主体",
+            "claimZh": "美国重建不能只写成白人政治家的失败史，而应看到黑人劳动者和联盟政治创造民主制度的行动。",
+            "explanationZh": "杜波依斯把废奴民主理解为制度重建工程，强调自由需要教育、土地、投票权和公共权力的重新分配。",
+            "themeIds": [
+              "politics",
+              "justice"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "du-bois:evidence:007",
+                "titleZh": "《美国黑色重建》的总罢工和民主叙事",
+                "summaryZh": "《美国黑色重建》以黑人劳动者撤离奴隶劳动和争取政治权利为中心，重写南北战争和重建的民主意义。",
+                "source": {
+                  "workId": "dubois-black-reconstruction",
+                  "locator": "Black Reconstruction in America, chapters on general strike and abolition democracy",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "du-bois:evidence:008",
+                "titleZh": "SEP 对 Black Reconstruction 的政治理论定位",
+                "summaryZh": "SEP 指出《美国黑色重建》是对邓宁学派的重大批判，并被解读为历史和政治理论而非单纯修正史学。",
+                "source": {
+                  "workId": "dubois-black-reconstruction",
+                  "locator": "SEP Du Bois, section 4.2.2 Marx, Du Bois, and Black Radicalism",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "du-bois:problem:003",
+        "titleZh": "黑人政治如何同时要求领导、艺术和世界历史？",
+        "questionZh": "杜波依斯如何在精英领导、艺术宣传、全球色线和激进民主之间组织政治实践？",
+        "summaryZh": "杜波依斯早期强调有才华者的教育领导，后期则更强地把艺术、全球帝国、劳动和种族资本主义纳入黑人解放政治。",
+        "themeIds": [
+          "politics",
+          "aesthetics",
+          "justice"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "du-bois:claim:005",
+            "titleZh": "政治领导必须表达共同精神",
+            "claimZh": "黑人政治不能只是个人上升，而要通过教育和组织表达一个被压迫共同体的精神与现代化要求。",
+            "explanationZh": "有才华的十分之一思想具有精英主义风险，但在杜波依斯那里它服务于群体提升和对 Jim Crow 秩序的集体回应。",
+            "themeIds": [
+              "politics",
+              "justice"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "du-bois:evidence:009",
+                "titleZh": "《有才华的十分之一》的教育论",
+                "summaryZh": "《有才华的十分之一》强调高等教育培养黑人领导者，使知识训练承担公共代表、组织和文化提升任务。",
+                "source": {
+                  "workId": "dubois-talented-tenth",
+                  "locator": "The Talented Tenth, in The Negro Problem 1903",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "du-bois:evidence:010",
+                "titleZh": "SEP 对表达性现代化的概括",
+                "summaryZh": "SEP 说明早期杜波依斯把黑人精英领导理解为表达性现代化政治，要求领导既提升大众又回应黑人共同精神。",
+                "source": {
+                  "workId": "dubois-souls-black-folk",
+                  "locator": "SEP Du Bois, section 4.1.1 Uplift and Political Expressivism",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "du-bois:claim:006",
+            "titleZh": "艺术具有扩展判断的政治任务",
+            "claimZh": "艺术并非逃离政治，而能通过美、同情和表达扩大公众判断能力，服务黑人解放。",
+            "explanationZh": "杜波依斯把文学、音乐和历史叙事变成政治哲学资源，使被压迫经验以可感形式进入公共世界。",
+            "themeIds": [
+              "aesthetics",
+              "justice"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "du-bois:evidence:011",
+                "titleZh": "《黑人的灵魂》的精神歌曲结构",
+                "summaryZh": "《黑人的灵魂》把黑人灵歌作为章节开端和历史记忆，使艺术形式参与表达苦难、希望和共同体精神。",
+                "source": {
+                  "workId": "dubois-souls-black-folk",
+                  "locator": "The Souls of Black Folk, sorrow songs and chapter epigraphs",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "du-bois:evidence:012",
+                "titleZh": "SEP 对艺术哲学的说明",
+                "summaryZh": "SEP 指出杜波依斯认为艺术能促进同情和普遍理解，并扩展读者评价黑人苦难的伦理和认知能力。",
+                "source": {
+                  "workId": "dubois-souls-black-folk",
+                  "locator": "SEP Du Bois, section 5 Philosophy of Art",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "tier": "standard"
+}

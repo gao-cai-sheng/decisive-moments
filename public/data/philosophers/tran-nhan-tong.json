@@ -1,0 +1,53 @@
+{
+  "id": "tran-nhan-tong",
+  "tier": "seed",
+  "names": {
+    "zh": "陈仁宗",
+    "en": "Trần Nhân Tông",
+    "native": "Trần Nhân Tông / 陳仁宗"
+  },
+  "life": {
+    "birth": 1258,
+    "death": 1308,
+    "display": "1258—1308"
+  },
+  "civilization": "vietnamese",
+  "traditions": [
+    "vietnamese_zen",
+    "truc_lam",
+    "thien_buddhism"
+  ],
+  "periods": [
+    "seed_w13",
+    "vietnamese_medieval"
+  ],
+  "themes": [
+    "religion",
+    "ethics"
+  ],
+  "keywordsZh": [
+    "竹林禅派",
+    "居尘乐道赋",
+    "越南禅",
+    "陈朝"
+  ],
+  "oneLineZh": "陈朝帝王-禅师和竹林禅派开创者，统合越南诸禅派并留下禅诗文传统。",
+  "influenceWeight": 3,
+  "reviewStatus": "draft",
+  "summaryZh": "陈仁宗退位后出家并开创竹林禅派，是越南禅宗思想和制度传统的核心人物。本 seed 档按有可归属禅学文本与宗派开创身份收录，非纯君主条目。",
+  "works": [
+    "tran-nhan-tong-cu-tran-lac-dao-phu"
+  ],
+  "sourceNotes": [
+    {
+      "label": "W13-B3-S003",
+      "url": "https://en.wikipedia.org/wiki/Tr%C3%BAc_L%C3%A2m",
+      "noteZh": "Trúc Lâm 条目用于核验陈仁宗1299年开创竹林禅派、统合越南禅传统和伦理修行口径。"
+    },
+    {
+      "label": "W13-B3-S004",
+      "url": "https://en.wikipedia.org/wiki/Tr%E1%BA%A7n_Th%C3%A1i_T%C3%B4ng",
+      "noteZh": "陈朝禅学前史资料用于辅助核验陈太宗到陈仁宗的越南禅传统承续关系。"
+    }
+  ]
+}

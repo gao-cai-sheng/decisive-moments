@@ -7,6 +7,7 @@ import {
 } from "./starFilters";
 
 const basePhilosopher = {
+  tier: "standard",
   names: { zh: "占位", en: "Placeholder" },
   life: { display: "年代" },
   civilization: "ancient_greek",

@@ -1,0 +1,48 @@
+{
+  "id": "rumi",
+  "tier": "seed",
+  "names": {
+    "zh": "鲁米",
+    "en": "Jalāl al-Dīn Rūmī",
+    "native": "جلال‌الدین رومی"
+  },
+  "life": {
+    "birth": 1207,
+    "death": 1273,
+    "display": "1207—1273"
+  },
+  "civilization": "islamic",
+  "traditions": [
+    "sufism",
+    "persian_poetry",
+    "mevlevi"
+  ],
+  "periods": [
+    "medieval"
+  ],
+  "themes": [
+    "religion",
+    "aesthetics",
+    "life_death"
+  ],
+  "keywordsZh": [
+    "玛斯纳维",
+    "爱与合一",
+    "波斯苏非诗"
+  ],
+  "oneLineZh": "波斯苏非诗人与神秘思想家，以《玛斯纳维》将爱、合一和灵魂转化写成影响深远的诗性哲学。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "鲁米（1207—1273）是 Seed W7 伊斯兰文明苏非线候选。其身份层入选理由为：波斯苏非诗人与神秘思想家，以《玛斯纳维》将爱、合一和灵魂转化写成影响深远的诗性哲学。本条仅作 seed 档基本定位，后续若升级标准档，必须重新做著作、论点与 evidence 研究。",
+  "works": [
+    "rumi-masnavi",
+    "rumi-diwan-e-shams"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S004",
+      "url": "https://plato.stanford.edu/entries/rumi/",
+      "noteZh": "来源：SEP / Rumi；用于核验人物身份、生卒断代、代表作《玛斯纳维》和思想史定位。"
+    }
+  ]
+}

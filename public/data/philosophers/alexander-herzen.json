@@ -1,0 +1,56 @@
+{
+  "id": "alexander-herzen",
+  "tier": "seed",
+  "names": {
+    "zh": "赫尔岑",
+    "en": "Alexander Herzen",
+    "native": "Александр Иванович Герцен"
+  },
+  "life": {
+    "birth": 1812,
+    "death": 1870,
+    "display": "1812—1870"
+  },
+  "civilization": "russian",
+  "traditions": [
+    "westernizers",
+    "russian_socialism",
+    "populism"
+  ],
+  "periods": [
+    "seed_w11",
+    "imperial_russia",
+    "pre_revolutionary_russian_thought"
+  ],
+  "themes": [
+    "politics",
+    "freedom",
+    "justice"
+  ],
+  "keywordsZh": [
+    "往事与随想",
+    "农民社会主义",
+    "西化派",
+    "自由"
+  ],
+  "oneLineZh": "俄国西化派与流亡思想家，以个人自由、农民社会主义和俄国现代化问题著称。",
+  "influenceWeight": 3,
+  "reviewStatus": "draft",
+  "summaryZh": "赫尔岑把黑格尔主义、费尔巴哈人本主义和俄国社会现实结合起来，形成对农民公社、个人自由和社会道路的独特思考。本 seed 档记录其思想家身份、代表作《往事与随想》及俄国思想传统位置。",
+  "works": [
+    "herzen-my-past-and-thoughts",
+    "herzen-russian-revolutionary-ideas"
+  ],
+  "sourceNotes": [
+    {
+      "label": "W11-B1-S007",
+      "url": "https://iep.utm.edu/russian/",
+      "noteZh": "IEP Russian Philosophy 总论用于核验19世纪俄国思想与政治问题纠缠的总体语境。"
+    },
+    {
+      "label": "W11-B1-S008",
+      "url": "https://www.britannica.com/biography/Aleksandr-Ivanovich-Herzen",
+      "noteZh": "Britannica Herzen 条目用于核验其流亡思想家、作家和俄国社会主义传统中的位置。"
+    }
+  ]
+}

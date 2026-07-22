@@ -1,0 +1,55 @@
+{
+  "id": "sergei-bulgakov",
+  "tier": "seed",
+  "names": {
+    "zh": "布尔加科夫",
+    "en": "Sergei Bulgakov",
+    "native": "Сергей Николаевич Булгаков"
+  },
+  "life": {
+    "birth": 1871,
+    "death": 1944,
+    "display": "1871—1944"
+  },
+  "civilization": "russian",
+  "traditions": [
+    "russian_religious_philosophy",
+    "sophiology",
+    "political_economy"
+  ],
+  "periods": [
+    "seed_w11",
+    "pre_revolutionary_russian_thought",
+    "silver_age"
+  ],
+  "themes": [
+    "religion",
+    "metaphysics"
+  ],
+  "keywordsZh": [
+    "索菲亚学",
+    "不暮之光",
+    "神人类",
+    "从马克思主义转向宗教"
+  ],
+  "oneLineZh": "白银时代宗教哲学家，早年接收马克思主义，后转向索菲亚学和神人类宗教哲学。",
+  "influenceWeight": 3,
+  "reviewStatus": "draft",
+  "summaryZh": "布尔加科夫是白银时代宗教哲学和索菲亚学的重要人物，早年受马克思主义政治经济学影响，后来转向东正教宗教哲学。本 seed 档把他作为唯一允许挂靠 Solovyov 的白银时代继承者，以满足 W11 关系上限。",
+  "works": [
+    "bulgakov-unfading-light",
+    "bulgakov-lamb-of-god"
+  ],
+  "sourceNotes": [
+    {
+      "label": "W11-B3-S003",
+      "url": "https://iep.utm.edu/bulgakov/",
+      "noteZh": "IEP Bulgakov 条目用于核验其索菲亚学、早年马克思主义转向和宗教哲学口径。"
+    },
+    {
+      "label": "W11-B3-S004",
+      "url": "https://plato.stanford.edu/entries/religion-russia-ukraine/",
+      "noteZh": "SEP 俄乌宗教哲学条目用于核验 Bulgakov 在俄国宗教哲学谱系中的位置。"
+    }
+  ]
+}

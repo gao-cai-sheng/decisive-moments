@@ -1,0 +1,55 @@
+{
+  "id": "mahasi-sayadaw",
+  "tier": "seed",
+  "names": {
+    "zh": "马哈希长老",
+    "en": "Mahasi Sayadaw",
+    "native": "U Sobhana"
+  },
+  "life": {
+    "birth": 1904,
+    "death": 1982,
+    "display": "1904—1982"
+  },
+  "civilization": "theravada_buddhist",
+  "traditions": [
+    "theravada",
+    "burmese_vipassana",
+    "satipatthana"
+  ],
+  "periods": [
+    "seed_w13",
+    "theravada_modern"
+  ],
+  "themes": [
+    "ethics",
+    "knowledge",
+    "life_death"
+  ],
+  "keywordsZh": [
+    "内观",
+    "念处",
+    "马哈希体系",
+    "内观手册"
+  ],
+  "oneLineZh": "缅甸内观体系代表人物，以念处实践和马哈希方法影响现代全球上座部禅修。",
+  "influenceWeight": 3,
+  "reviewStatus": "draft",
+  "summaryZh": "马哈希长老是20世纪缅甸内观传统的关键人物，以念处实践、内观教学和国际传播著称。本 seed 档只建身份层，关系挂 Ledi 与 Buddha，不挂 Buddhaghosa，以避免新 seed 枢纽超限。",
+  "works": [
+    "mahasi-manual-of-vipassana",
+    "mahasi-practical-insight-meditation"
+  ],
+  "sourceNotes": [
+    {
+      "label": "W13-B2-S003",
+      "url": "https://mahasi.org.mm/mahasi-sayadaw-biography/",
+      "noteZh": "Mahasi Sasana Yeiktha 传记用于核验 Mahasi Sayadaw 的生卒、缅甸内观体系和传播口径。"
+    },
+    {
+      "label": "W13-B2-S004",
+      "url": "https://www.bps.lk/library-search-select.php?id=bp503s",
+      "noteZh": "Buddhist Publication Society 条目用于核验 Mahasi Sayadaw 内观教学文本和现代上座部修行传统。"
+    }
+  ]
+}

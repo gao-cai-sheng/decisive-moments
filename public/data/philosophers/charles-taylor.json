@@ -1,0 +1,292 @@
+{
+  "id": "charles-taylor",
+  "names": {
+    "zh": "查尔斯·泰勒",
+    "en": "Charles Taylor"
+  },
+  "life": {
+    "birth": 1931,
+    "display": "1931—"
+  },
+  "civilization": "western_modern",
+  "traditions": [
+    "communitarianism",
+    "political_philosophy",
+    "hermeneutics"
+  ],
+  "periods": [
+    "expansion_c3"
+  ],
+  "themes": [
+    "politics",
+    "ethics",
+    "religion"
+  ],
+  "keywordsZh": [
+    "承认政治",
+    "现代自我",
+    "世俗时代",
+    "强评价",
+    "社群主义"
+  ],
+  "oneLineZh": "以现代自我、承认政治和世俗化理论重塑政治哲学、伦理学与宗教现代性研究。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "查尔斯·泰勒从黑格尔、解释学和政治哲学出发，分析现代自我、承认、多元社会和世俗时代中的道德框架。",
+  "works": [
+    "charles-taylor-explanation-behaviour",
+    "charles-taylor-hegel",
+    "charles-taylor-sources-self",
+    "charles-taylor-politics-recognition",
+    "charles-taylor-secular-age"
+  ],
+  "sourceNotes": [
+    {
+      "label": "Primary corpus note",
+      "url": "https://www.britannica.com/biography/Charles-Taylor-Canadian-philosopher",
+      "noteZh": "当前核对显示泰勒为1931年生；二手条目只用于核对生年、作品和关系线。"
+    }
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "charles-taylor:problem:001",
+        "titleZh": "行动解释与反自然主义",
+        "questionZh": "泰勒为什么反对把人的行动完全还原为机械行为解释？",
+        "summaryZh": "泰勒早期从行为解释入手，批判行为主义和还原自然主义，强调人的行动需要意义、目的和自我理解。",
+        "themeIds": [
+          "knowledge",
+          "freedom"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "charles-taylor:claim:001",
+            "titleZh": "人的行动需要意义解释",
+            "claimZh": "泰勒认为理解人的行为必须把行动者的目的、意义和自我理解纳入解释，而不能只记录外部刺激反应。",
+            "explanationZh": "这一主张为他后来的社会科学解释、现代自我和道德框架理论奠定反自然主义基础。",
+            "themeIds": [
+              "knowledge",
+              "freedom"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "charles-taylor:evidence:001",
+                "titleZh": "《行为解释》批判机械论模型",
+                "summaryZh": "文本反对把行动解释缩减为外在因果链，指出人的行为常由目的、规则和情境意义构成其可理解性。",
+                "source": {
+                  "workId": "charles-taylor-explanation-behaviour",
+                  "locator": "The Explanation of Behaviour, critique of mechanistic and behaviourist explanation",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "charles-taylor:evidence:002",
+                "titleZh": "行动者理解属于解释对象",
+                "summaryZh": "书中强调社会和心理解释不能绕开行动者对自身处境的理解，否则解释会失去行动为何如此的关键结构。",
+                "source": {
+                  "workId": "charles-taylor-explanation-behaviour",
+                  "locator": "The Explanation of Behaviour, action and purposive explanation",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "charles-taylor:claim:002",
+            "titleZh": "社会科学需要解释学维度",
+            "claimZh": "泰勒认为人的社会世界由意义组成，因此社会科学必须解释实践、规则和背景理解。",
+            "explanationZh": "这让他与韦伯、黑格尔和解释学传统相连，也为后来的承认和身份理论提供方法论基础。",
+            "themeIds": [
+              "knowledge",
+              "politics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "charles-taylor:evidence:003",
+                "titleZh": "早期解释理论转向社会实践",
+                "summaryZh": "《行为解释》把目的性和规则理解放入行动说明中，显示解释人的行为需要超出自然科学式变量模型。",
+                "source": {
+                  "workId": "charles-taylor-explanation-behaviour",
+                  "locator": "The Explanation of Behaviour, social-scientific implications",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "charles-taylor:evidence:004",
+                "titleZh": "黑格尔研究深化背景理解问题",
+                "summaryZh": "《黑格尔》阐释主体、历史和社会制度的相互生成，帮助泰勒把行动意义放进更大的社会背景中。",
+                "source": {
+                  "workId": "charles-taylor-hegel",
+                  "locator": "Hegel, chapters on spirit, society, and historical self-understanding",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "charles-taylor:problem:002",
+        "titleZh": "现代自我与道德来源",
+        "questionZh": "泰勒如何解释现代身份背后的道德框架？",
+        "summaryZh": "泰勒认为现代自我并不是无根选择者，而是在强评价、内在性、普通生活肯定和表现主义传统中形成。",
+        "themeIds": [
+          "ethics",
+          "politics"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "charles-taylor:claim:003",
+            "titleZh": "自我身份依赖强评价",
+            "claimZh": "泰勒认为人通过区分较高和较低价值来理解自己，因此身份总嵌入道德评价框架。",
+            "explanationZh": "这条主张反对把现代主体理解为价值中立的选择机器，并与社群主义批判自由主义主体模型相关。",
+            "themeIds": [
+              "ethics",
+              "freedom"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "charles-taylor:evidence:005",
+                "titleZh": "《自我的根源》追溯强评价",
+                "summaryZh": "文本说明现代人理解自我时总依赖关于善、尊严和有意义生活的背景评价，无法完全站在价值之外选择。",
+                "source": {
+                  "workId": "charles-taylor-sources-self",
+                  "locator": "Sources of the Self, chapters on strong evaluation and moral sources",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "charles-taylor:evidence:006",
+                "titleZh": "现代身份有多重历史来源",
+                "summaryZh": "书中把内在性、普通生活肯定和表现主义作为现代自我的来源，显示身份是历史形成的道德地图。",
+                "source": {
+                  "workId": "charles-taylor-sources-self",
+                  "locator": "Sources of the Self, inwardness, ordinary life, and expressivism",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "charles-taylor:claim:004",
+            "titleZh": "黑格尔提供承认和历史自我背景",
+            "claimZh": "泰勒从黑格尔那里吸收承认、历史理性和社会制度塑造自由的思想。",
+            "explanationZh": "这使他的现代自我理论不仅是心理身份理论，也是关于社会关系和公共制度的政治哲学。",
+            "themeIds": [
+              "politics",
+              "ethics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "charles-taylor:evidence:007",
+                "titleZh": "《黑格尔》阐释自由的社会条件",
+                "summaryZh": "文本把黑格尔自由理解为在制度、承认和历史共同体中实现的能力，而非孤立个人的任意选择。",
+                "source": {
+                  "workId": "charles-taylor-hegel",
+                  "locator": "Hegel, freedom, recognition, and ethical life chapters",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "charles-taylor:evidence:008",
+                "titleZh": "黑格尔研究连到现代身份问题",
+                "summaryZh": "书中对精神和历史自我理解的阐释，为泰勒后来分析现代身份和道德来源提供了概念背景。",
+                "source": {
+                  "workId": "charles-taylor-hegel",
+                  "locator": "Hegel, spirit and modern selfhood discussion",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "charles-taylor:problem:003",
+        "titleZh": "承认政治与世俗时代",
+        "questionZh": "泰勒如何把身份承认和宗教世俗化放入现代政治？",
+        "summaryZh": "泰勒把现代政治理解为身份、承认、多元文化和信仰条件变化交织的场域，反对把世俗化看成宗教单线衰退。",
+        "themeIds": [
+          "politics",
+          "religion"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "charles-taylor:claim:005",
+            "titleZh": "承认是现代身份政治的核心规范",
+            "claimZh": "泰勒认为现代主体需要公共承认，因为身份是在与他者和共同体的关系中形成和受损的。",
+            "explanationZh": "这条主张使承认不只是礼貌或文化偏好，而成为多元政治中关乎尊严和自我实现的议题。",
+            "themeIds": [
+              "politics",
+              "justice"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "charles-taylor:evidence:009",
+                "titleZh": "《承认政治》论误认的伤害",
+                "summaryZh": "文本说明个人和群体身份会因误认或拒认而受损，因此多元社会必须思考平等尊严和差异承认的关系。",
+                "source": {
+                  "workId": "charles-taylor-politics-recognition",
+                  "locator": "Multiculturalism and The Politics of Recognition, essay on recognition and misrecognition",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "charles-taylor:evidence:010",
+                "titleZh": "承认政治连接身份形成",
+                "summaryZh": "论文把身份形成理解为对话性过程，说明公共制度和文化评价会影响人能否以完整方式理解自己。",
+                "source": {
+                  "workId": "charles-taylor-politics-recognition",
+                  "locator": "Politics of Recognition, dialogical identity and equal dignity",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "charles-taylor:claim:006",
+            "titleZh": "世俗时代改变的是信仰条件",
+            "claimZh": "泰勒认为现代世俗化不只是宗教消退，而是信仰从默认背景变成众多可选择可能性之一。",
+            "explanationZh": "这一主张使宗教现代性问题从统计下降转向社会想象、选择压力和意义条件的变化。",
+            "themeIds": [
+              "religion",
+              "politics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "charles-taylor:evidence:011",
+                "titleZh": "《世俗时代》重定义世俗性",
+                "summaryZh": "文本区分公共空间去宗教化、宗教实践下降和信仰条件改变，重点分析第三种意义上的世俗时代。",
+                "source": {
+                  "workId": "charles-taylor-secular-age",
+                  "locator": "A Secular Age, introduction on three senses of secularity",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "charles-taylor:evidence:012",
+                "titleZh": "信仰变成受压力的选择",
+                "summaryZh": "书中描述现代人在封闭内在框架和超越开放之间生活，信仰与不信都成为需要解释和承担的选择。",
+                "source": {
+                  "workId": "charles-taylor-secular-age",
+                  "locator": "A Secular Age, buffered self and immanent frame discussion",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "tier": "standard"
+}

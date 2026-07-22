@@ -1,0 +1,45 @@
+{
+  "id": "diderot",
+  "tier": "seed",
+  "names": {
+    "zh": "狄德罗",
+    "en": "Denis Diderot"
+  },
+  "life": {
+    "birth": 1713,
+    "death": 1784,
+    "display": "1713—1784"
+  },
+  "civilization": "western",
+  "traditions": [
+    "enlightenment",
+    "materialism"
+  ],
+  "periods": [
+    "modern"
+  ],
+  "themes": [
+    "knowledge",
+    "aesthetics"
+  ],
+  "keywordsZh": [
+    "百科全书",
+    "唯物论",
+    "美学"
+  ],
+  "oneLineZh": "《百科全书》主编，连接启蒙知识工程、唯物论与美学批评。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "狄德罗（1713—1784）是 Seed W4 法国断代补全候选。其身份层入选理由为：《百科全书》主编，连接启蒙知识工程、唯物论与美学批评。 本条仅作 seed 档基本定位，后续若升级标准档，必须重新做著作、论点与 evidence 研究。",
+  "works": [
+    "diderot-encyclopedie",
+    "diderot-rameaus-nephew"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S002",
+      "url": "https://plato.stanford.edu/entries/diderot/",
+      "noteZh": "权威来源条目：SEP: Denis Diderot；用于核验人物身份、生卒、代表著作和思想史定位。"
+    }
+  ]
+}

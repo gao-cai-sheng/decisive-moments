@@ -5,9 +5,9 @@
     "en": "B. R. Ambedkar"
   },
   "life": {
-    "display": "1891—1956",
     "birth": 1891,
-    "death": 1956
+    "death": 1956,
+    "display": "1891—1956"
   },
   "civilization": "indian",
   "traditions": [
@@ -38,5 +38,260 @@
       "label": "draft",
       "noteZh": "条目需要人工核对作品、年代和概念表述。"
     }
-  ]
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "ambedkar:problem:001",
+        "titleZh": "种姓为什么是宗教权威支撑的社会秩序？",
+        "questionZh": "安贝德卡尔为什么认为要消灭种姓，不能只做道德劝导或经济改革，而必须挑战支撑种姓的宗教权威与社会心理？",
+        "summaryZh": "安贝德卡尔把种姓理解为由内婚、等级化分工和经典权威共同维系的制度。它不是普通社会差异，而是把不平等神圣化、日常化并阻断公共伦理的秩序，因此需要从宗教和社会结构两端拆解。",
+        "themeIds": [
+          "religion",
+          "justice",
+          "ethics",
+          "politics"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "ambedkar:claim:001",
+            "titleZh": "种姓是封闭性内婚与等级化的共同体结构",
+            "claimZh": "安贝德卡尔认为种姓并非单纯职业分工，而是通过内婚和社会隔离复制的封闭等级秩序。",
+            "explanationZh": "这一判断把种姓问题从个人偏见提升为制度分析：只要婚姻、饮食、交往和职业的边界被宗教化，个人善意就不足以解除结构性排斥。",
+            "themeIds": [
+              "justice",
+              "religion",
+              "ethics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "ambedkar:evidence:001",
+                "titleZh": "《印度的种姓》以内婚解释种姓机制",
+                "summaryZh": "《印度的种姓：其机制、起源与发展》把内婚视为种姓形成和持续的关键机制，说明种姓靠控制婚姻与社会边界自我复制。",
+                "source": {
+                  "workId": "ambedkar-primary-work",
+                  "locator": "Castes in India: Their Mechanism, Genesis and Development, sections on endogamy as the essence of caste",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "ambedkar:evidence:002",
+                "titleZh": "《消灭种姓》区分分工与劳动者分割",
+                "summaryZh": "《消灭种姓》批判把种姓说成自然分工的辩护，强调它实际是把劳动者分割成不平等等级并剥夺流动性的制度。",
+                "source": {
+                  "workId": "ambedkar-primary-work",
+                  "locator": "Annihilation of Caste, sections contrasting division of labour with division of labourers",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "ambedkar:claim:002",
+            "titleZh": "经典权威必须被解除神圣性",
+            "claimZh": "安贝德卡尔主张，种姓之所以顽固，是因为它被宗教经典和祭司解释权赋予神圣合法性；消灭种姓必须否定这种权威。",
+            "explanationZh": "这使他的宗教批判不同于温和改革：他不是只要求上层种姓更仁慈，而是要求共同体承认某些被视为神圣的权威本身制造不正义。",
+            "themeIds": [
+              "religion",
+              "justice",
+              "politics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "ambedkar:evidence:003",
+                "titleZh": "《消灭种姓》把矛头指向 shastra 权威",
+                "summaryZh": "《消灭种姓》反复论证，只要支撑种姓的 shastra 权威仍被承认，社会改革就会被宗教义务重新吸收。",
+                "source": {
+                  "workId": "ambedkar-primary-work",
+                  "locator": "Annihilation of Caste, sections on destroying belief in the sanctity of the Shastras",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "ambedkar:evidence:004",
+                "titleZh": "对印度教社会起源的历史重读服务于权威批判",
+                "summaryZh": "《谁是首陀罗？》通过历史与文本重读追问等级身份形成，显示安贝德卡尔把经典叙事当作可争辩的历史建构而非不可触碰的神圣事实。",
+                "source": {
+                  "workId": "ambedkar-primary-work",
+                  "locator": "Who Were the Shudras?, preface and concluding chapters on the historical formation of Shudra status",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ambedkar:problem:002",
+        "titleZh": "政治民主为什么需要社会民主作基础？",
+        "questionZh": "安贝德卡尔如何把宪政、代表权、基本权利与社会平等连接起来，并警惕只有选举形式而无社会民主的政治？",
+        "summaryZh": "安贝德卡尔把民主理解为一种社会生活方式，而不只是政府形式。宪法权利、代表制和国家保障必须回应被压迫群体的实际处境，否则政治平等会被社会等级重新掏空。",
+        "themeIds": [
+          "politics",
+          "justice",
+          "freedom",
+          "ethics"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "ambedkar:claim:003",
+            "titleZh": "民主不只是投票制度而是社会关系形式",
+            "claimZh": "安贝德卡尔认为政治民主必须扎根于自由、平等和博爱的社会伦理；若社会结构仍是等级和排斥，民主制度会变成空壳。",
+            "explanationZh": "这一立场解释了他为什么同时关注宪法设计与社会改革。制度能保护权利，但制度本身也需要反种姓的社会道德来维持。",
+            "themeIds": [
+              "politics",
+              "justice",
+              "ethics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "ambedkar:evidence:005",
+                "titleZh": "宪法讨论中提出社会民主条件",
+                "summaryZh": "安贝德卡尔在宪法与民主论述中把政治平等和社会经济不平等的矛盾视为共和国的核心危险。",
+                "source": {
+                  "workId": "ambedkar-primary-work",
+                  "locator": "Constituent Assembly speech of 25 November 1949, passages on political democracy and social democracy",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "ambedkar:evidence:006",
+                "titleZh": "自由平等博爱被重述为民主伦理",
+                "summaryZh": "安贝德卡尔把 liberty, equality, fraternity 作为民主生活的伦理条件，而不是只属于法国革命口号的抽象原则。",
+                "source": {
+                  "workId": "ambedkar-primary-work",
+                  "locator": "Writings and speeches on democracy and social democracy, sections on liberty, equality and fraternity",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "ambedkar:claim:004",
+            "titleZh": "受压迫群体需要制度化代表与保障",
+            "claimZh": "安贝德卡尔强调，形式上的共同公民身份不足以保护被排斥群体；代表权、保障条款和国家责任是实质民主的必要组成。",
+            "explanationZh": "这并非把群体身份固定化，而是在不平等起点下防止多数统治复制社会支配。正义要求制度看到被压迫者的实际位置。",
+            "themeIds": [
+              "politics",
+              "justice",
+              "freedom"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "ambedkar:evidence:007",
+                "titleZh": "《少数人与国家》提出社会经济权利方案",
+                "summaryZh": "《少数人与国家》把基本权利、少数保障和国家经济责任连接起来，显示安贝德卡尔对民主的理解超出程序政治。",
+                "source": {
+                  "workId": "ambedkar-primary-work",
+                  "locator": "States and Minorities, sections on fundamental rights, safeguards and state socialism",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "ambedkar:evidence:008",
+                "titleZh": "关于代表权的争论体现实质平等问题意识",
+                "summaryZh": "围绕被压迫阶级政治代表的文本说明，安贝德卡尔担心抽象多数原则会遮蔽社会等级中的真实压迫。",
+                "source": {
+                  "workId": "ambedkar-primary-work",
+                  "locator": "What Congress and Gandhi Have Done to the Untouchables, chapters on representation and safeguards",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ambedkar:problem:003",
+        "titleZh": "佛教为什么成为平等社会的伦理方案？",
+        "questionZh": "安贝德卡尔晚年为什么转向佛教，并把佛陀、法、僧重新解释为平等、理性和社会改造的伦理共同体？",
+        "summaryZh": "安贝德卡尔的佛教转向不是脱离政治的私密信仰，而是对宗教形式的再造。他把佛教理解为以道德、理性、慈悲和平等为核心的社会法，借此替代种姓宗教并支撑民主共同体。",
+        "themeIds": [
+          "religion",
+          "ethics",
+          "justice",
+          "life_death"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "ambedkar:claim:005",
+            "titleZh": "宗教应成为道德共同体而非等级命令",
+            "claimZh": "安贝德卡尔并未简单否定宗教，而是要求宗教接受理性和道德检验；真正宗教应促进平等、责任和社会友爱。",
+            "explanationZh": "这解释了他为何批判印度教种姓结构，同时选择重释佛教。宗教若要合法，必须服务人的尊严和共同生活，而不是维护出生等级。",
+            "themeIds": [
+              "religion",
+              "ethics",
+              "justice"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "ambedkar:evidence:009",
+                "titleZh": "《佛陀与他的法》重写佛教为社会伦理",
+                "summaryZh": "《佛陀与他的法》把佛法呈现为面向苦、道德修行和社会关系改造的理性伦理，而不是祭祀性或宿命论宗教。",
+                "source": {
+                  "workId": "ambedkar-primary-work",
+                  "locator": "The Buddha and His Dhamma, Book IV The Religion of the Buddha and His Dhamma",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "ambedkar:evidence:010",
+                "titleZh": "皈依誓言显示从等级宗教转向平等伦理",
+                "summaryZh": "安贝德卡尔的皈依和二十二誓言把拒绝印度教神祇、种姓义务与接受佛教伦理连接起来，具有明确社会改造意图。",
+                "source": {
+                  "workId": "ambedkar-primary-work",
+                  "locator": "Conversion vows and related writings, Nagpur conversion context, 14 October 1956",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "ambedkar:claim:006",
+            "titleZh": "佛教被用来调和自由平等博爱",
+            "claimZh": "安贝德卡尔把佛教解释为能够同时支撑自由、平等和博爱的传统，并以此回应马克思主义、自由主义和印度宗教传统的张力。",
+            "explanationZh": "在他那里，佛教不是逃离社会矛盾，而是提供非神权、非暴力、反等级的公共伦理，使民主从制度原则获得道德根基。",
+            "themeIds": [
+              "religion",
+              "justice",
+              "politics",
+              "ethics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "ambedkar:evidence:011",
+                "titleZh": "《佛陀或卡尔·马克思》比较革命与伦理改造",
+                "summaryZh": "《佛陀或卡尔·马克思》承认社会经济压迫问题的重要性，但把佛教的道德方法视为避免暴力和专政的平等方案。",
+                "source": {
+                  "workId": "ambedkar-primary-work",
+                  "locator": "Buddha or Karl Marx, sections comparing ends and methods of Buddha and Marx",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "ambedkar:evidence:012",
+                "titleZh": "Navayana 把解放定位为社会与精神双重重建",
+                "summaryZh": "晚期佛教文本把个体尊严、共同体友爱和制度平等相连，显示安贝德卡尔将解放理解为社会结构与道德主体的同时重建。",
+                "source": {
+                  "workId": "ambedkar-primary-work",
+                  "locator": "The Buddha and His Dhamma, concluding sections on Dhamma, society, and righteousness",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "tier": "standard"
 }

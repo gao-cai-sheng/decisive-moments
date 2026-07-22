@@ -1,0 +1,45 @@
+{
+  "id": "gassendi",
+  "tier": "seed",
+  "names": {
+    "zh": "伽桑狄",
+    "en": "Pierre Gassendi"
+  },
+  "life": {
+    "birth": 1592,
+    "death": 1655,
+    "display": "1592—1655"
+  },
+  "civilization": "western",
+  "traditions": [
+    "early_modern_philosophy",
+    "atomism"
+  ],
+  "periods": [
+    "early_modern"
+  ],
+  "themes": [
+    "metaphysics",
+    "knowledge"
+  ],
+  "keywordsZh": [
+    "原子论",
+    "伊壁鸠鲁复兴",
+    "笛卡尔批评"
+  ],
+  "oneLineZh": "复兴伊壁鸠鲁原子论，并在《沉思》诘难中成为笛卡尔同时代批评者。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "伽桑狄（1592—1655）是 Seed W4 法国断代补全候选。其身份层入选理由为：复兴伊壁鸠鲁原子论，并在《沉思》诘难中成为笛卡尔同时代批评者。 本条仅作 seed 档基本定位，后续若升级标准档，必须重新做著作、论点与 evidence 研究。",
+  "works": [
+    "gassendi-syntagma-philosophicum",
+    "gassendi-disquisitio-metaphysica"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S002",
+      "url": "https://plato.stanford.edu/entries/gassendi/",
+      "noteZh": "权威来源条目：SEP: Pierre Gassendi；用于核验人物身份、生卒、代表著作和思想史定位。"
+    }
+  ]
+}

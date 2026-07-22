@@ -1,0 +1,50 @@
+{
+  "id": "lev-shestov",
+  "tier": "seed",
+  "names": {
+    "zh": "舍斯托夫",
+    "en": "Lev Shestov",
+    "native": "Лев Исаакович Шестов"
+  },
+  "life": {
+    "birth": 1866,
+    "death": 1938,
+    "display": "1866—1938"
+  },
+  "civilization": "russian",
+  "traditions": [
+    "religious_existentialism",
+    "anti_rationalism"
+  ],
+  "periods": [
+    "seed_w11",
+    "pre_revolutionary_russian_thought",
+    "silver_age"
+  ],
+  "themes": [
+    "religion",
+    "knowledge",
+    "freedom"
+  ],
+  "keywordsZh": [
+    "雅典与耶路撒冷",
+    "反理性",
+    "存在主义",
+    "信仰"
+  ],
+  "oneLineZh": "俄国宗教存在主义思想家，以《雅典与耶路撒冷》对抗理性必然性与信仰自由。",
+  "influenceWeight": 3,
+  "reviewStatus": "draft",
+  "summaryZh": "舍斯托夫虽卒于革命后，但其问题意识成型于革命前俄国白银时代；他以信仰、自由和反理性必然性的论述连接基尔凯郭尔、尼采和后来的存在主义读法。本 seed 档只建身份层。",
+  "works": [
+    "shestov-athens-and-jerusalem",
+    "shestov-all-things-are-possible"
+  ],
+  "sourceNotes": [
+    {
+      "label": "W11-B2-S008",
+      "url": "https://iep.utm.edu/shestov/",
+      "noteZh": "IEP Shestov 条目用于核验其反理性、宗教存在主义和《雅典与耶路撒冷》口径。"
+    }
+  ]
+}

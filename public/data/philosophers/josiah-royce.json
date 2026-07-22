@@ -1,0 +1,43 @@
+{
+  "id": "josiah-royce",
+  "tier": "seed",
+  "names": {
+    "zh": "乔赛亚·罗伊斯",
+    "en": "Josiah Royce"
+  },
+  "life": {
+    "birth": 1855,
+    "death": 1916,
+    "display": "1855—1916"
+  },
+  "civilization": "western",
+  "traditions": [
+    "western_philosophy"
+  ],
+  "periods": [
+    "modern"
+  ],
+  "themes": [
+    "knowledge",
+    "metaphysics"
+  ],
+  "keywordsZh": [
+    "唯心主义",
+    "实用主义",
+    "身份层"
+  ],
+  "oneLineZh": "美国绝对唯心主义与共同体哲学代表，可补实用主义同代对手盘。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "乔赛亚·罗伊斯（1855—1916）是 W2 欧陆与英美近现代二线哲人候选。其身份层入选理由为：美国绝对唯心主义与共同体哲学代表，可补实用主义同代对手盘。 本条仅作 seed 档基本定位，后续若升级标准档，需要重新做著作、论点与 evidence 研究。",
+  "works": [
+    "josiah-royce-world-and-individual",
+    "josiah-royce-problem-of-christianity"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S004",
+      "noteZh": "权威来源条目：SEP: Josiah Royce；用于核验人物身份、生卒、代表著作和思想史定位。"
+    }
+  ]
+}

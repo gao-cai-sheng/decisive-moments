@@ -5,9 +5,9 @@
     "en": "bell hooks"
   },
   "life": {
-    "display": "1952—2021",
     "birth": 1952,
-    "death": 2021
+    "death": 2021,
+    "display": "1952—2021"
   },
   "civilization": "global_modern",
   "traditions": [
@@ -31,12 +31,261 @@
   "reviewStatus": "draft",
   "summaryZh": "贝尔·胡克斯是伦理、正义问题谱系中的第一版候选哲人。 本条目是第一版结构化资料，已经保留文明、传统、主题、作品和论述字段，正式发布前需要继续核对年代、文本出处和概念表述。",
   "works": [
-    "hooks-primary-work"
+    "hooks-aint-i-a-woman",
+    "hooks-feminist-theory-margin-center",
+    "hooks-teaching-transgress",
+    "hooks-all-about-love",
+    "hooks-feminism-everybody"
   ],
   "sourceNotes": [
     {
       "label": "draft",
       "noteZh": "条目需要人工核对作品、年代和概念表述。"
     }
-  ]
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "hooks:problem:001",
+        "titleZh": "黑人女性主义为何必须从交叉压迫出发？",
+        "questionZh": "贝尔·胡克斯如何批判只以白人中产女性经验为中心的女性主义？",
+        "summaryZh": "胡克斯把性别、种族和阶级放在同一压迫结构中分析，指出黑人女性不能被纳入单一女性经验。女性主义若忽视边缘者，就会复制自己反对的支配逻辑。",
+        "themeIds": [
+          "justice",
+          "ethics",
+          "freedom"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "hooks:claim:001",
+            "titleZh": "女性主义必须同时反种族主义和阶级支配",
+            "claimZh": "胡克斯认为女性主义若只处理性别压迫，而忽视种族和阶级，就无法解释黑人女性的真实处境。",
+            "explanationZh": "她的批判把女性主义从单一身份政治推向交叉压迫分析，使解放目标更具结构性。",
+            "themeIds": [
+              "justice",
+              "ethics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "hooks:evidence:001",
+                "titleZh": "难道我不是女人中的黑人女性经验",
+                "summaryZh": "《难道我不是女人？》从奴隶制、种族主义和性别歧视交织处分析黑人女性处境，批判主流女性主义的狭窄主体。",
+                "source": {
+                  "workId": "hooks-aint-i-a-woman",
+                  "locator": "Ain't I a Woman? on Black women's experience under racism and sexism",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "hooks:evidence:002",
+                "titleZh": "从边缘到中心的女性主义批判",
+                "summaryZh": "《女性主义理论：从边缘到中心》批评女性主义以特权女性经验为中心，要求从边缘群体重新定义运动目标。",
+                "source": {
+                  "workId": "hooks-feminist-theory-margin-center",
+                  "locator": "Feminist Theory: From Margin to Center, chapters on reformist feminism and marginal women",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "hooks:claim:002",
+            "titleZh": "边缘位置可以成为批判视野",
+            "claimZh": "胡克斯把边缘位置理解为能够看清中心权力结构的批判地点，而不只是受害者身份。",
+            "explanationZh": "这让边缘者不是等待被代表的对象，而是能够生产理论、组织实践和重写政治语言的主体。",
+            "themeIds": [
+              "freedom",
+              "knowledge"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "hooks:evidence:003",
+                "titleZh": "边缘作为激进开放空间",
+                "summaryZh": "《女性主义理论：从边缘到中心》把边缘经验转化为批判资源，说明理论必须从被排除者的视角重新组织。",
+                "source": {
+                  "workId": "hooks-feminist-theory-margin-center",
+                  "locator": "Feminist Theory: From Margin to Center on margin as critical location",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "hooks:evidence:004",
+                "titleZh": "人人可参与的女性主义",
+                "summaryZh": "《女性主义是给所有人的》用大众化语言重述女性主义目标，强调运动应面向所有受支配结构影响的人。",
+                "source": {
+                  "workId": "hooks-feminism-everybody",
+                  "locator": "Feminism Is for Everybody on accessible feminist politics and coalition",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "hooks:problem:002",
+        "titleZh": "教育如何成为越界的自由实践？",
+        "questionZh": "胡克斯如何把教学理解为反支配、反沉默和共同解放的实践？",
+        "summaryZh": "胡克斯的教育哲学把课堂视为可以打破种族、性别和阶级沉默的空间。教学不是知识灌输，而是师生共同参与、承认经验并练习自由的过程。",
+        "themeIds": [
+          "knowledge",
+          "freedom",
+          "ethics"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "hooks:claim:003",
+            "titleZh": "参与式教学反对支配性课堂",
+            "claimZh": "胡克斯主张参与式教育，认为课堂应让学生经验进入知识生产，而不是复制教师权威的单向支配。",
+            "explanationZh": "她把教学看成自由实践，因为学习者在说话、倾听和反思中重新获得主体性。",
+            "themeIds": [
+              "knowledge",
+              "freedom"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "hooks:evidence:005",
+                "titleZh": "越界教学中的参与式课堂",
+                "summaryZh": "《越界教学》把课堂描述为能够实践自由的地方，强调学生经验和教师自我暴露对学习共同体的重要性。",
+                "source": {
+                  "workId": "hooks-teaching-transgress",
+                  "locator": "Teaching to Transgress on engaged pedagogy and education as the practice of freedom",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "hooks:evidence:006",
+                "titleZh": "批判教育与身体经验",
+                "summaryZh": "《越界教学》把种族、性别、身体和情感带入教育讨论，说明知识生产不能切断学习者的生活经验。",
+                "source": {
+                  "workId": "hooks-teaching-transgress",
+                  "locator": "Teaching to Transgress on embodiment, race, gender and classroom authority",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "hooks:claim:004",
+            "titleZh": "理论必须能回应日常压迫",
+            "claimZh": "胡克斯认为理论如果不能解释和改变日常生活中的痛苦、沉默和支配，就会重新变成精英隔离物。",
+            "explanationZh": "她把理论视为疗愈和行动工具，要求学术语言回到可分享、可实践的公共形式。",
+            "themeIds": [
+              "knowledge",
+              "ethics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "hooks:evidence:007",
+                "titleZh": "理论作为解放实践",
+                "summaryZh": "《越界教学》把理论称为能够回应痛苦和行动需要的实践，反对理论脱离生活经验与政治责任。",
+                "source": {
+                  "workId": "hooks-teaching-transgress",
+                  "locator": "Teaching to Transgress on theory as liberatory practice",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "hooks:evidence:008",
+                "titleZh": "大众女性主义语言",
+                "summaryZh": "《女性主义是给所有人的》把复杂女性主义议题转化为公共教育语言，显示胡克斯重视理论的可进入性。",
+                "source": {
+                  "workId": "hooks-feminism-everybody",
+                  "locator": "Feminism Is for Everybody on popular education and feminist accessibility",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "hooks:problem:003",
+        "titleZh": "爱为何是反支配的伦理实践？",
+        "questionZh": "胡克斯如何把爱从私人情感提升为社会解放和伦理转化的核心概念？",
+        "summaryZh": "胡克斯把爱理解为意志、行动、责任、尊重和关怀的实践，而不只是浪漫情感。爱能够对抗支配文化，因为它要求承认他人完整性并建立非暴力关系。",
+        "themeIds": [
+          "ethics",
+          "freedom",
+          "justice"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "hooks:claim:005",
+            "titleZh": "爱是一种需要训练的伦理行动",
+            "claimZh": "胡克斯认为爱不是自然涌出的情绪，而是包含关怀、承诺、知识、责任、尊重和信任的伦理行动。",
+            "explanationZh": "这一定义使爱能够进入政治讨论，因为支配关系常常通过否认这些实践来维持暴力。",
+            "themeIds": [
+              "ethics",
+              "freedom"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "hooks:evidence:009",
+                "titleZh": "关于爱的一切中的爱之定义",
+                "summaryZh": "《关于爱的一切》把爱定义为具体行动和伦理承诺，反对把爱简化为感觉或占有关系，并强调爱需要持续实践。",
+                "source": {
+                  "workId": "hooks-all-about-love",
+                  "locator": "All About Love on love as action, care, commitment and responsibility",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "hooks:evidence:010",
+                "titleZh": "爱与反支配关系",
+                "summaryZh": "《关于爱的一切》把爱同诚实、责任和非暴力联系起来，说明爱能破坏支配文化中的占有和控制逻辑。",
+                "source": {
+                  "workId": "hooks-all-about-love",
+                  "locator": "All About Love on domination, honesty and nonviolent relations",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "hooks:claim:006",
+            "titleZh": "解放政治需要爱与团结",
+            "claimZh": "胡克斯把爱视为建立跨差异团结的条件，认为没有爱的政治容易复制羞辱、惩罚和支配。",
+            "explanationZh": "她的解放政治因此不是单靠愤怒或身份对抗，而是要求在批判结构的同时建设可持续的关系伦理。",
+            "themeIds": [
+              "justice",
+              "ethics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "hooks:evidence:011",
+                "titleZh": "女性主义作为反性别歧视运动",
+                "summaryZh": "《女性主义是给所有人的》把女性主义定义为结束性别歧视、性剥削和压迫的运动，强调团结必须超越敌我化。",
+                "source": {
+                  "workId": "hooks-feminism-everybody",
+                  "locator": "Feminism Is for Everybody on feminism as ending sexism and oppression",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "hooks:evidence:012",
+                "titleZh": "从边缘到中心的团结政治",
+                "summaryZh": "《女性主义理论：从边缘到中心》要求以边缘者经验重组联盟政治，显示团结必须建立在承认差异和反支配实践上。",
+                "source": {
+                  "workId": "hooks-feminist-theory-margin-center",
+                  "locator": "Feminist Theory: From Margin to Center on solidarity, coalition and anti-domination",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "tier": "standard"
 }

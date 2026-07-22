@@ -1,0 +1,294 @@
+{
+  "id": "benjamin",
+  "names": {
+    "zh": "本雅明",
+    "en": "Walter Benjamin"
+  },
+  "life": {
+    "birth": 1892,
+    "death": 1940,
+    "display": "1892—1940"
+  },
+  "civilization": "european_modern",
+  "traditions": [
+    "critical_theory",
+    "media_theory",
+    "jewish_messianism"
+  ],
+  "periods": [
+    "expansion_b1"
+  ],
+  "themes": [
+    "aesthetics",
+    "life_death",
+    "politics"
+  ],
+  "keywordsZh": [
+    "灵韵",
+    "机械复制",
+    "历史天使",
+    "拱廊计划",
+    "弥赛亚时间"
+  ],
+  "oneLineZh": "以机械复制时代艺术、历史哲学和城市碎片书写重塑现代性批判的媒介维度。",
+  "influenceWeight": 3,
+  "reviewStatus": "draft",
+  "summaryZh": "本雅明把马克思主义批判、犹太弥赛亚时间和媒介经验结合起来，以碎片化写法分析现代资本主义感知结构。",
+  "works": [
+    "benjamin-work-art-mechanical-reproduction",
+    "benjamin-theses-history",
+    "benjamin-arcades-project",
+    "benjamin-origin-german-tragic-drama",
+    "benjamin-goethes-elective-affinities",
+    "benjamin-task-translator"
+  ],
+  "sourceNotes": [
+    {
+      "label": "Stanford / critical theory reference set",
+      "url": "https://plato.stanford.edu/entries/benjamin/",
+      "noteZh": "核对机械复制、历史哲学、翻译和法兰克福关系。"
+    }
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "benjamin:problem:001",
+        "titleZh": "灵韵、复制技术与感知政治",
+        "questionZh": "本雅明如何把摄影、电影和复制技术理解为现代感知结构的政治变形？",
+        "summaryZh": "本雅明不是只哀悼传统艺术失落，而是分析复制技术如何重组距离、身体、群众和政治经验。",
+        "themeIds": [
+          "aesthetics",
+          "politics"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "benjamin:claim:001",
+            "titleZh": "灵韵衰落改变艺术权威",
+            "claimZh": "机械复制削弱艺术作品的独一性和礼仪距离，使艺术从传统权威中脱出并进入新的政治使用场景。",
+            "explanationZh": "这条主张让艺术史转向媒介技术和群众感知，不再只讨论风格或审美趣味。",
+            "themeIds": [
+              "aesthetics",
+              "knowledge"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "benjamin:evidence:001",
+                "titleZh": "《机械复制时代的艺术作品》论灵韵",
+                "summaryZh": "论文通过摄影和电影说明复制技术破坏作品此时此地的独一性，改变艺术与观众的距离关系。",
+                "source": {
+                  "workId": "benjamin-work-art-mechanical-reproduction",
+                  "locator": "Sections on aura, authenticity, and reproducibility",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "benjamin:evidence:002",
+                "titleZh": "《机械复制时代的艺术作品》论电影观众",
+                "summaryZh": "电影分析把剪辑、特写、震惊经验和集体观看联系起来，显示现代感知被技术装置训练并重新组织为群众经验。",
+                "source": {
+                  "workId": "benjamin-work-art-mechanical-reproduction",
+                  "locator": "Sections on film, apparatus, and collective reception",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "benjamin:claim:002",
+            "titleZh": "技术复制打开艺术政治化可能",
+            "claimZh": "媒介技术既可能强化法西斯审美化政治，也可能通过政治化艺术改造群众经验。",
+            "explanationZh": "这条主张避免技术决定论：关键不在技术本身，而在它嵌入何种政治组织和感知训练。",
+            "themeIds": [
+              "aesthetics",
+              "politics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "benjamin:evidence:003",
+                "titleZh": "《机械复制时代的艺术作品》结尾论审美化政治",
+                "summaryZh": "结尾把战争、法西斯群众动员和艺术政治化并置，提出现代媒介中的审美经验具有直接政治后果。",
+                "source": {
+                  "workId": "benjamin-work-art-mechanical-reproduction",
+                  "locator": "Epilogue on aestheticization of politics and politicization of art",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "benjamin:evidence:004",
+                "titleZh": "《译者的任务》中的媒介转换观",
+                "summaryZh": "翻译论文把作品生命放在语言转换中理解，显示本雅明早已关注媒介如何延续并改变作品意义。",
+                "source": {
+                  "workId": "benjamin-task-translator",
+                  "locator": "Opening and middle sections on afterlife and pure language",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "benjamin:problem:002",
+        "titleZh": "历史哲学与弥赛亚时间",
+        "questionZh": "他如何反对进步主义历史观，并以弥赛亚时间保存失败者的记忆？",
+        "summaryZh": "历史哲学用碎片、闪现和救赎打断线性进步叙事，使历史唯物主义承担对被压迫者的记忆义务。",
+        "themeIds": [
+          "life_death",
+          "politics"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "benjamin:claim:003",
+            "titleZh": "历史不是胜利者连续进步",
+            "claimZh": "所谓文化遗产往往同时是野蛮文献，历史书写必须从被压迫者的失败和危险时刻重新出发。",
+            "explanationZh": "这条主张把马克思主义历史观和犹太弥赛亚记忆结合起来，反对把灾难合理化为进步代价。",
+            "themeIds": [
+              "politics",
+              "justice"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "benjamin:evidence:005",
+                "titleZh": "《论历史概念》第七论题",
+                "summaryZh": "第七论题要求历史唯物主义者逆向梳理历史，指出文明文献同时也是野蛮文献，因而必须从被压迫者处重读传统。",
+                "source": {
+                  "workId": "benjamin-theses-history",
+                  "locator": "Thesis VII on cultural treasures and barbarism",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "benjamin:evidence:006",
+                "titleZh": "《论历史概念》第九论题历史天使",
+                "summaryZh": "历史天使意象把进步风暴描绘为不断堆积废墟，集中表达本雅明对线性进步史观和胜利者叙事的反击。",
+                "source": {
+                  "workId": "benjamin-theses-history",
+                  "locator": "Thesis IX on the angel of history",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "benjamin:claim:004",
+            "titleZh": "救赎时刻以碎片方式闪现",
+            "claimZh": "革命时间是对连续时间的爆破，过去受压抑的可能性会在当下危险中短暂闪现。",
+            "explanationZh": "这条主张解释《拱廊计划》的碎片方法：材料不是例证，而是让历史星丛在现在中突然可读。",
+            "themeIds": [
+              "life_death",
+              "knowledge"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "benjamin:evidence:007",
+                "titleZh": "《论历史概念》第十四至十七论题",
+                "summaryZh": "后几则论题把革命描述为击穿同质空洞时间的中断，强调历史认识发生在危险时刻的现在。",
+                "source": {
+                  "workId": "benjamin-theses-history",
+                  "locator": "Theses XIV–XVII on Jetztzeit and interruption",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "benjamin:evidence:008",
+                "titleZh": "《拱廊计划》方法札记",
+                "summaryZh": "方法札记以蒙太奇、星丛和辩证图像组织材料，使十九世纪商品世界在碎片中被重新辨认。",
+                "source": {
+                  "workId": "benjamin-arcades-project",
+                  "locator": "Convolute N, epistemological and methodological notes",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "benjamin:problem:003",
+        "titleZh": "寓言、翻译与现代碎片",
+        "questionZh": "本雅明为什么偏爱寓言、翻译和碎片形式来处理现代经验？",
+        "summaryZh": "从巴洛克悲剧到翻译和城市拱廊，本雅明把破碎形式视为接近真理的方式，而非系统失败的残余。",
+        "themeIds": [
+          "language",
+          "aesthetics"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "benjamin:claim:005",
+            "titleZh": "寓言揭示历史物的破败性",
+            "claimZh": "巴洛克悲剧研究把寓言理解为历史废墟的表达形式，它暴露意义与死亡、物质残骸之间的关系。",
+            "explanationZh": "这条主张解释他为何后来能用商品碎片和城市残迹书写现代性，而不是建立连续叙事体系。",
+            "themeIds": [
+              "aesthetics",
+              "life_death"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "benjamin:evidence:009",
+                "titleZh": "《德国悲剧的起源》论寓言",
+                "summaryZh": "巴洛克研究把寓言与废墟、哀悼和主权危机联系起来，说明形式破碎性本身具有历史认识价值。",
+                "source": {
+                  "workId": "benjamin-origin-german-tragic-drama",
+                  "locator": "Sections on allegory, ruin, and Trauerspiel",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "benjamin:evidence:010",
+                "titleZh": "《歌德〈亲和力〉》论真理内容",
+                "summaryZh": "文学批评区分作品的事实内容与真理内容，显示批判阅读必须穿透情节材料，辨认作品历史裂缝中的真理压力。",
+                "source": {
+                  "workId": "benjamin-goethes-elective-affinities",
+                  "locator": "Sections distinguishing material content and truth content",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "benjamin:claim:006",
+            "titleZh": "翻译追求语言之间的未完成亲缘",
+            "claimZh": "翻译不是传递信息，而是让不同语言共同指向一种不可占有的纯语言关系。",
+            "explanationZh": "这条主张把语言哲学和救赎主题相连，也影响后来的解构主义和文本理论接受。",
+            "themeIds": [
+              "language",
+              "religion"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "benjamin:evidence:011",
+                "titleZh": "《译者的任务》论作品后生命",
+                "summaryZh": "论文把翻译视为原作后生命的延续，强调译文通过差异显露语言之间的亲缘，而不是简单复制原文信息。",
+                "source": {
+                  "workId": "benjamin-task-translator",
+                  "locator": "Sections on afterlife, kinship of languages, and pure language",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "benjamin:evidence:012",
+                "titleZh": "《拱廊计划》的引用蒙太奇",
+                "summaryZh": "拱廊材料以大量引文碎片和蒙太奇并置组织十九世纪巴黎，使商品梦境、城市空间和资本主义感知结构同时显形。",
+                "source": {
+                  "workId": "benjamin-arcades-project",
+                  "locator": "Convolutes using citation montage and urban fragments",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "tier": "standard"
+}

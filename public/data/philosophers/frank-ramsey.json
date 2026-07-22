@@ -1,0 +1,43 @@
+{
+  "id": "frank-ramsey",
+  "tier": "seed",
+  "names": {
+    "zh": "弗兰克·拉姆齐",
+    "en": "Frank Ramsey"
+  },
+  "life": {
+    "birth": 1903,
+    "death": 1930,
+    "display": "1903—1930"
+  },
+  "civilization": "western",
+  "traditions": [
+    "analytic_philosophy"
+  ],
+  "periods": [
+    "contemporary"
+  ],
+  "themes": [
+    "knowledge",
+    "metaphysics"
+  ],
+  "keywordsZh": [
+    "剑桥分析",
+    "身份层",
+    "二线哲人"
+  ],
+  "oneLineZh": "真理、概率、决策与经济哲学的早期枢纽，可补剑桥分析传统。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "弗兰克·拉姆齐（1903—1930）是 W2 欧陆与英美近现代二线哲人候选。其身份层入选理由为：真理、概率、决策与经济哲学的早期枢纽，可补剑桥分析传统。 本条仅作 seed 档基本定位，后续若升级标准档，需要重新做著作、论点与 evidence 研究。",
+  "works": [
+    "frank-ramsey-foundations-of-mathematics",
+    "frank-ramsey-truth-and-probability"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S010",
+      "noteZh": "权威来源条目：SEP: Frank Ramsey；用于核验人物身份、生卒、代表著作和思想史定位。"
+    }
+  ]
+}

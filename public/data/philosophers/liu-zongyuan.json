@@ -1,0 +1,46 @@
+{
+  "id": "liu-zongyuan",
+  "tier": "seed",
+  "names": {
+    "zh": "柳宗元",
+    "en": "Liu Zongyuan",
+    "native": "柳宗元"
+  },
+  "life": {
+    "birth": 773,
+    "death": 819,
+    "display": "773—819"
+  },
+  "civilization": "chinese",
+  "traditions": [
+    "confucianism",
+    "tang_classical_prose"
+  ],
+  "periods": [
+    "tang"
+  ],
+  "themes": [
+    "politics",
+    "metaphysics"
+  ],
+  "keywordsZh": [
+    "天说",
+    "封建论",
+    "永州八记"
+  ],
+  "oneLineZh": "唐代思想家和文学家，以天人、封建与政治制度论著称。",
+  "influenceWeight": 3,
+  "reviewStatus": "draft",
+  "summaryZh": "柳宗元，字子厚，唐代文学家、政治改革参与者和思想家。其《天说》《天对》反思天人关系，避免把天解释为有意志的道德主宰；《封建论》则以历史和制度眼光批评封建分封。柳宗元在古文、政治改革和自然观上均有重要地位，是唐代儒家理性化与制度批判的代表。",
+  "works": [
+    "liu-zongyuan-tianshuo",
+    "liu-zongyuan-fengjian-lun"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S006",
+      "url": "https://ctext.org/wiki.pl?if=en&res=766930",
+      "noteZh": "以柳宗元《天说》《封建论》和柳河东集支撑身份层。"
+    }
+  ]
+}

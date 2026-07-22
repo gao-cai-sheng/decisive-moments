@@ -1,0 +1,55 @@
+{
+  "id": "pavel-florensky",
+  "tier": "seed",
+  "names": {
+    "zh": "弗洛连斯基",
+    "en": "Pavel Florensky",
+    "native": "Павел Александрович Флоренский"
+  },
+  "life": {
+    "birth": 1882,
+    "death": 1937,
+    "display": "1882—1937"
+  },
+  "civilization": "russian",
+  "traditions": [
+    "russian_religious_philosophy",
+    "orthodox_theology",
+    "mathematical_philosophy"
+  ],
+  "periods": [
+    "seed_w11",
+    "pre_revolutionary_russian_thought",
+    "silver_age"
+  ],
+  "themes": [
+    "religion",
+    "metaphysics",
+    "knowledge"
+  ],
+  "keywordsZh": [
+    "真理的柱石与根基",
+    "神学",
+    "数学",
+    "象征"
+  ],
+  "oneLineZh": "白银时代神学家和哲学家，以《真理的柱石与根基》连接东正教、知识论和象征思想。",
+  "influenceWeight": 3,
+  "reviewStatus": "draft",
+  "summaryZh": "弗洛连斯基兼具神学、哲学、数学和艺术理论背景，其《真理的柱石与根基》是白银时代宗教哲学的重要文本。本 seed 档只记录其身份层，并按生产口径不挂 Solovyov。",
+  "works": [
+    "florensky-pillar-ground-truth"
+  ],
+  "sourceNotes": [
+    {
+      "label": "W11-B3-S005",
+      "url": "https://www.britannica.com/biography/Pavel-Aleksandrovich-Florensky",
+      "noteZh": "Britannica Florensky 条目用于核验其生卒、神学哲学身份和《真理的柱石与根基》口径。"
+    },
+    {
+      "label": "W11-B3-S006",
+      "url": "https://plato.stanford.edu/entries/religion-russia-ukraine/",
+      "noteZh": "SEP 俄乌宗教哲学条目用于核验 Florensky 所属白银时代宗教哲学语境。"
+    }
+  ]
+}

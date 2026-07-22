@@ -1,0 +1,46 @@
+{
+  "id": "ye-shi",
+  "tier": "seed",
+  "names": {
+    "zh": "叶适",
+    "en": "Ye Shi",
+    "native": "葉適"
+  },
+  "life": {
+    "birth": 1150,
+    "death": 1223,
+    "display": "1150—1223"
+  },
+  "civilization": "chinese",
+  "traditions": [
+    "neo_confucianism",
+    "yongjia_learning"
+  ],
+  "periods": [
+    "southern_song"
+  ],
+  "themes": [
+    "politics",
+    "knowledge"
+  ],
+  "keywordsZh": [
+    "永嘉学派",
+    "习学记言序目",
+    "水心"
+  ],
+  "oneLineZh": "南宋永嘉学派代表，以制度、功利和学术史批评著称。",
+  "influenceWeight": 3,
+  "reviewStatus": "draft",
+  "summaryZh": "叶适，字正则，号水心，南宋永嘉学派代表人物。《习学记言序目》评论经史诸子和宋代学术，《水心文集》保存其政论、墓志和制度分析。叶适重视实际制度、财政兵政和历史经验，对空疏义理保持警惕，是南宋事功之学和制度思想的重要代表。",
+  "works": [
+    "ye-shi-xixue-jiyan-xumu",
+    "ye-shi-shuixin-wenji"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S016",
+      "url": "https://ctext.org/wiki.pl?if=en&res=821660",
+      "noteZh": "以叶适《习学记言序目》《水心文集》支撑身份层。"
+    }
+  ]
+}

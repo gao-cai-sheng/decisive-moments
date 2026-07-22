@@ -1,0 +1,44 @@
+{
+  "id": "hakuin",
+  "tier": "seed",
+  "names": {
+    "zh": "白隐",
+    "en": "Hakuin Ekaku"
+  },
+  "life": {
+    "birth": 1686,
+    "death": 1769,
+    "display": "1686—1769"
+  },
+  "civilization": "east_asian",
+  "traditions": [
+    "zen_buddhism"
+  ],
+  "periods": [
+    "early_modern"
+  ],
+  "themes": [
+    "religion",
+    "knowledge"
+  ],
+  "keywordsZh": [
+    "临济禅",
+    "公案",
+    "禅宗中兴"
+  ],
+  "oneLineZh": "江户时期临济禅中兴人物，强化公案训练体系。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "白隐是日本临济禅中兴人物，以公案训练和禅修教学影响近世以来日本禅宗。本条仅作 seed 身份层定位。",
+  "works": [
+    "hakuin-wild-ivy",
+    "hakuin-yasen-kanna"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S004",
+      "url": "https://www.rep.routledge.com/articles/biographical/hakuin-ekaku-1686-1769/v-1",
+      "noteZh": "Routledge Hakuin 条目用于核验白隐身份和临济禅定位。"
+    }
+  ]
+}

@@ -34,6 +34,16 @@ const philosopherIds = assertUnique(
   (item) => item.id,
   "philosophers.index.json",
 );
+
+for (const entry of philosophersIndex) {
+  assertOptionalEnglish(entry, ["oneLineEn", "keywordsEn"], `index ${entry.id}`);
+}
+for (const work of works) {
+  assertOptionalEnglish(work, ["titleEn", "noteEn"], `work ${work.id}`);
+}
+for (const theme of themes) {
+  assertOptionalEnglish(theme, ["aliasesEn"], `theme ${theme.id}`);
+}
 const argumentIds = assertUnique(argumentsIndex, (item) => item.id, "arguments.index.json");
 const themeIds = assertUnique(themes, (item) => item.id, "themes.json");
 const workIds = assertUnique(works, (item) => item.id, "works.json");
@@ -45,18 +55,73 @@ if (process.env.RELEASE_DATA === "1") {
   );
 }
 
+const relationshipCountByPhilosopher = new Map();
+for (const relationship of relationships) {
+  if (typeof relationship.from === "string") {
+    relationshipCountByPhilosopher.set(relationship.from, (relationshipCountByPhilosopher.get(relationship.from) || 0) + 1);
+  }
+  if (typeof relationship.to === "string") {
+    relationshipCountByPhilosopher.set(relationship.to, (relationshipCountByPhilosopher.get(relationship.to) || 0) + 1);
+  }
+}
+
+function isPlaceholderWorkId(id) {
+  return /(?:primary-work|placeholder|candidate)$/i.test(id || "");
+}
+
+// En 字段是 optional 的（内容翻译渐进推进），但填了就不许是空串/空数组——
+// 空值会让前端 fallback 失效（显示空白而非回退中文）。
+function assertOptionalEnglish(obj, fields, label) {
+  if (!obj) return;
+  for (const field of fields) {
+    const value = obj[field];
+    if (value === undefined) continue;
+    if (Array.isArray(value)) {
+      assert(
+        value.length > 0 && value.every((item) => typeof item === "string" && item.trim().length > 0),
+        `${label}: ${field} must be a non-empty string array when present`,
+      );
+    } else {
+      assert(
+        typeof value === "string" && value.trim().length > 0,
+        `${label}: ${field} must be a non-empty string when present`,
+      );
+    }
+  }
+}
+
 const thoughtSystemPhilosopherIds = [];
+const tierCounts = { standard: 0, seed: 0 };
+
 
 for (const philosopher of philosophersIndex) {
   const detailPath = path.join(dataDir, "philosophers", `${philosopher.id}.json`);
   assert(fs.existsSync(detailPath), `missing philosopher detail: ${philosopher.id}`);
   const detail = readJson(detailPath);
-  assert(detail.id === philosopher.id, `detail id mismatch: ${philosopher.id}`);
+  assert(detail.id === philosopher.id, "detail id mismatch: " + philosopher.id);
+  assert(["standard", "seed"].includes(philosopher.tier), "invalid tier on index " + philosopher.id);
+  assert(["standard", "seed"].includes(detail.tier), "invalid tier on " + detail.id);
+  assert(detail.tier === philosopher.tier, "tier mismatch on " + detail.id + ": index=" + philosopher.tier + " detail=" + detail.tier);
+  tierCounts[detail.tier] += 1;
   for (const theme of detail.themes) {
     assert(themeIds.has(theme), `unknown theme ${theme} on ${detail.id}`);
   }
   for (const work of detail.works) {
     assert(workIds.has(work), `unknown work ${work} on ${detail.id}`);
+  }
+  if (detail.tier === "seed") {
+    assert(!detail.thoughtSystem, "seed philosopher cannot carry thoughtSystem: " + detail.id);
+    assert(Array.isArray(detail.sourceNotes) && detail.sourceNotes.length > 0, "seed philosopher needs sourceNotes: " + detail.id);
+    assert(Array.isArray(detail.works) && detail.works.length >= 1 && detail.works.length <= 2, "seed philosopher needs 1-2 works: " + detail.id);
+    for (const work of detail.works) {
+      assert(!isPlaceholderWorkId(work), "seed philosopher uses placeholder work: " + detail.id + " " + work);
+    }
+    const relationCount = relationshipCountByPhilosopher.get(detail.id) || 0;
+    assert(relationCount >= 2 && relationCount <= 3, "seed philosopher needs 2-3 relationships: " + detail.id + " has " + relationCount);
+  }
+  assertOptionalEnglish(detail, ["oneLineEn", "summaryEn", "keywordsEn"], detail.id);
+  for (const note of detail.sourceNotes ?? []) {
+    assertOptionalEnglish(note, ["noteEn"], `${detail.id} sourceNote`);
   }
   if (detail.thoughtSystem) {
     thoughtSystemPhilosopherIds.push(detail.id);
@@ -65,16 +130,20 @@ for (const philosopher of philosophersIndex) {
       `thoughtSystem on ${detail.id} needs at least 3 problems`,
     );
     for (const problem of detail.thoughtSystem.problems) {
+      assertOptionalEnglish(problem, ["titleEn", "questionEn", "summaryEn"], problem.id);
       for (const theme of problem.themeIds) {
         assert(themeIds.has(theme), `thought problem ${problem.id} has unknown theme ${theme}`);
       }
       assert(problem.claims.length > 0, `thought problem ${problem.id} needs at least 1 claim`);
       for (const claim of problem.claims) {
+        assertOptionalEnglish(claim, ["titleEn", "claimEn", "explanationEn"], claim.id);
         for (const theme of claim.themeIds) {
           assert(themeIds.has(theme), `thought claim ${claim.id} has unknown theme ${theme}`);
         }
         assert(claim.evidence.length > 0, `thought claim ${claim.id} needs at least 1 evidence item`);
         for (const evidence of claim.evidence) {
+          assertOptionalEnglish(evidence, ["titleEn", "summaryEn"], evidence.id);
+          assertOptionalEnglish(evidence.source, ["publicDomainExcerptEn"], evidence.id);
           if (evidence.source?.workId) {
             assert(
               workIds.has(evidence.source.workId),
@@ -103,6 +172,8 @@ if (process.env.RELEASE_DATA === "1") {
 }
 
 for (const argument of argumentsIndex) {
+  assertOptionalEnglish(argument, ["questionEn", "claimEn", "explanationEn", "keywordsEn"], argument.id);
+  assertOptionalEnglish(argument.source, ["publicDomainExcerptEn"], argument.id);
   assert(
     philosopherIds.has(argument.philosopherId),
     `argument ${argument.id} has unknown philosopher ${argument.philosopherId}`,
@@ -141,6 +212,7 @@ const relationshipThemeIds = new Set();
 const relationshipTypes = new Set();
 
 for (const relationship of relationships) {
+  assertOptionalEnglish(relationship, ["noteEn"], relationship.id);
   assert(philosopherIds.has(relationship.from), `relationship ${relationship.id} has unknown from ${relationship.from}`);
   assert(philosopherIds.has(relationship.to), `relationship ${relationship.id} has unknown to ${relationship.to}`);
   relationshipConnectedPhilosopherIds.add(relationship.from);
@@ -185,5 +257,5 @@ if (process.env.RELEASE_DATA === "1") {
 }
 
 console.log(
-  `data ok: ${philosopherIds.size} philosophers, ${argumentIds.size} arguments, ${relationships.length} relationships, ${themeIds.size} themes`,
+  `data ok: ${philosopherIds.size} philosophers (standard ${tierCounts.standard} | seed ${tierCounts.seed}), ${argumentIds.size} arguments, ${relationships.length} relationships, ${themeIds.size} themes`,
 );

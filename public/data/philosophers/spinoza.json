@@ -5,9 +5,9 @@
     "en": "Baruch Spinoza"
   },
   "life": {
-    "display": "1632—1677",
     "birth": 1632,
-    "death": 1677
+    "death": 1677,
+    "display": "1632—1677"
   },
   "civilization": "european_modern",
   "traditions": [
@@ -31,12 +31,260 @@
   "reviewStatus": "draft",
   "summaryZh": "斯宾诺莎是知识、自由问题谱系中的第一版候选哲人。 本条目是第一版结构化资料，已经保留文明、传统、主题、作品和论述字段，正式发布前需要继续核对年代、文本出处和概念表述。",
   "works": [
-    "spinoza-primary-work"
+    "spinoza-ethics",
+    "spinoza-ttp",
+    "spinoza-political-treatise",
+    "spinoza-emendation-intellect"
   ],
   "sourceNotes": [
     {
       "label": "draft",
       "noteZh": "条目需要人工核对作品、年代和概念表述。"
     }
-  ]
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "spinoza:problem:001",
+        "titleZh": "实体一元论如何改写神与自然？",
+        "questionZh": "斯宾诺莎为何把神理解为自然本身，而不是超越世界的任意意志？",
+        "summaryZh": "斯宾诺莎从实体概念出发，主张只有一个无限实体，即神或自然。万物不是被外在创造的孤立实体，而是同一自然必然秩序中的样态。",
+        "themeIds": [
+          "metaphysics",
+          "religion"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "spinoza:claim:001",
+            "titleZh": "神即自然是一实体的一元论",
+            "claimZh": "斯宾诺莎认为神或自然是唯一实体，具有无限属性，有限事物只是这一实体的样态。",
+            "explanationZh": "这直接反对把神想象为世界外部的君主意志，也取消了多个自足实体并列的形而上学。",
+            "themeIds": [
+              "metaphysics",
+              "religion"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "spinoza:evidence:001",
+                "titleZh": "唯一实体论证",
+                "summaryZh": "《伦理学》第一部通过实体、自因和属性定义，论证神必然存在且除神之外无实体，进一步说明“唯一实体论证”如何进入“神即自然是一实体的一元论”的论证链条。",
+                "source": {
+                  "workId": "spinoza-ethics",
+                  "locator": "Ethics I definitions 3-6 and propositions 11, 14-15 on substance and God",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "spinoza:evidence:002",
+                "titleZh": "万物在神之中",
+                "summaryZh": "第一部第十五命题指出一切存在都在神之中，并须通过神来理解，奠定神即自然的内在论。",
+                "source": {
+                  "workId": "spinoza-ethics",
+                  "locator": "Ethics I proposition 15 and scholium on whatever is, is in God",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "spinoza:claim:002",
+            "titleZh": "偶然性来自无知而非实在断裂",
+            "claimZh": "斯宾诺莎认为自然中没有绝对偶然，所谓偶然只是人不知道原因链条时的想象。",
+            "explanationZh": "这让自由意志和目的论解释受到根本改写：人以为事物为自己而设，其实是不了解原因。",
+            "themeIds": [
+              "metaphysics",
+              "knowledge"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "spinoza:evidence:003",
+                "titleZh": "自然中无偶然",
+                "summaryZh": "第一部第二十九命题主张自然中没有偶然物，一切都由神性必然性决定以某种方式存在和行动。",
+                "source": {
+                  "workId": "spinoza-ethics",
+                  "locator": "Ethics I proposition 29 on necessity and contingency",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "spinoza:evidence:004",
+                "titleZh": "目的因批判",
+                "summaryZh": "第一部附录批评目的因，把人类欲望投射到自然上，说明目的论源于想象和无知，进一步说明“目的因批判”如何进入“偶然性来自无知而非实在断裂”的论证链条。",
+                "source": {
+                  "workId": "spinoza-ethics",
+                  "locator": "Ethics I appendix on final causes and human projection",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "spinoza:problem:002",
+        "titleZh": "情感奴役如何转化为自由？",
+        "questionZh": "斯宾诺莎如何把伦理学建立在情感因果和理解必然性之上？",
+        "summaryZh": "斯宾诺莎把情感视为自然事件而非道德污点。人受被动情感支配时处于奴役；通过充分观念理解情感原因，行动能力得以增强，自由成为理解必然性。",
+        "themeIds": [
+          "ethics",
+          "freedom",
+          "knowledge"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "spinoza:claim:003",
+            "titleZh": "情感必须作为自然因果来理解",
+            "claimZh": "斯宾诺莎反对把情感当成自然秩序之外的罪恶或缺陷，而要像研究几何对象一样研究它们的原因。",
+            "explanationZh": "这让伦理学从谴责转向诊断：问题不是有情感，而是情感是否由充分理解转化为主动能力。",
+            "themeIds": [
+              "ethics",
+              "knowledge"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "spinoza:evidence:005",
+                "titleZh": "情感的自然化研究",
+                "summaryZh": "《伦理学》第三部序言明确表示要按自然共同规律研究人的情感，而不是嘲笑、哀叹或诅咒。",
+                "source": {
+                  "workId": "spinoza-ethics",
+                  "locator": "Ethics III preface on treating affects as natural things",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "spinoza:evidence:006",
+                "titleZh": "努力与情感结构",
+                "summaryZh": "第三部以努力保存自身的 conatus 解释欲望、快乐和悲伤，把情感放入行动能力变化中分析。",
+                "source": {
+                  "workId": "spinoza-ethics",
+                  "locator": "Ethics III definitions of affects and propositions on conatus",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "spinoza:claim:004",
+            "titleZh": "自由是通过充分观念理解必然",
+            "claimZh": "斯宾诺莎把自由理解为由自身本性和充分观念而行动，而不是摆脱因果必然的任意选择。",
+            "explanationZh": "理解情感原因能减少被动性，增加主动情感，使人从奴役转向理性自由。",
+            "themeIds": [
+              "freedom",
+              "ethics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "spinoza:evidence:007",
+                "titleZh": "情感奴役",
+                "summaryZh": "第四部把人在情感力量下不能自制称为奴役，说明无知和被动情感削弱行动能力，进一步说明“情感奴役”如何进入“自由是通过充分观念理解必然”的论证链条。",
+                "source": {
+                  "workId": "spinoza-ethics",
+                  "locator": "Ethics IV preface and propositions on human bondage",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "spinoza:evidence:008",
+                "titleZh": "理解情感与自由",
+                "summaryZh": "第五部说明对情感形成清楚观念会改变人与情感的关系，使心灵获得更大主动性，进一步说明“理解情感与自由”如何进入“自由是通过充分观念理解必然”的论证链条。",
+                "source": {
+                  "workId": "spinoza-ethics",
+                  "locator": "Ethics V propositions 3-10 and 20 on knowledge and power over affects",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "spinoza:problem:003",
+        "titleZh": "思想自由为何是政治稳定条件？",
+        "questionZh": "斯宾诺莎如何把圣经解释、国家权力和思想自由连接起来？",
+        "summaryZh": "斯宾诺莎主张以历史语文学方法解释圣经，限制神学对哲学的统治。国家的目标不是奴役心灵，而是在和平中保障理性讨论和思想自由。",
+        "themeIds": [
+          "politics",
+          "religion",
+          "freedom"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "spinoza:claim:005",
+            "titleZh": "圣经解释必须回到历史文本",
+            "claimZh": "斯宾诺莎认为解释圣经应从文本语言、作者处境和历史传承出发，而不能用神学权威压制理性。",
+            "explanationZh": "这使宗教文本成为可研究对象，也为哲学自由从神学裁判中脱离提供方法。",
+            "themeIds": [
+              "religion",
+              "language",
+              "knowledge"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "spinoza:evidence:009",
+                "titleZh": "圣经解释方法",
+                "summaryZh": "《神学政治论》第七章提出解释圣经的方法，应依据文本内部、语言习惯和历史材料来确定意义。",
+                "source": {
+                  "workId": "spinoza-ttp",
+                  "locator": "Theological-Political Treatise chapter 7 on the interpretation of Scripture",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "spinoza:evidence:010",
+                "titleZh": "神学与理性的区分",
+                "summaryZh": "第十五章区分神学的顺服目标和哲学的真理目标，反对让二者互相支配，进一步说明“神学与理性的区分”如何进入“圣经解释必须回到历史文本”的论证链条。",
+                "source": {
+                  "workId": "spinoza-ttp",
+                  "locator": "Theological-Political Treatise chapter 15 on theology and reason",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "spinoza:claim:006",
+            "titleZh": "国家目的在保障和平与思想自由",
+            "claimZh": "斯宾诺莎认为国家不能支配人的判断本身，压制思想反会破坏和平；自由哲思有助于稳定共同体。",
+            "explanationZh": "他的政治自由不是无政府状态，而是在公共和平框架内保留表达和思考的空间。",
+            "themeIds": [
+              "politics",
+              "freedom"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "spinoza:evidence:011",
+                "titleZh": "哲学自由",
+                "summaryZh": "《神学政治论》第二十章主张在共和国中允许人自由思考和表达，不但无害，反而有利于虔敬与和平。",
+                "source": {
+                  "workId": "spinoza-ttp",
+                  "locator": "Theological-Political Treatise chapter 20 on freedom to philosophize",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "spinoza:evidence:012",
+                "titleZh": "政治秩序与和平",
+                "summaryZh": "《政治论》开篇以权利即力量分析国家，强调制度应从人的实际情感出发来维护和平，进一步说明“政治秩序与和平”如何进入“国家目的在保障和平与思想自由”的论证链条。",
+                "source": {
+                  "workId": "spinoza-political-treatise",
+                  "locator": "Political Treatise chapters 1-3 on right, power and the aim of political order",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "tier": "standard"
 }

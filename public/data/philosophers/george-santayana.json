@@ -1,0 +1,42 @@
+{
+  "id": "george-santayana",
+  "tier": "seed",
+  "names": {
+    "zh": "乔治·桑塔亚那",
+    "en": "George Santayana"
+  },
+  "life": {
+    "birth": 1863,
+    "death": 1952,
+    "display": "1863—1952"
+  },
+  "civilization": "western",
+  "traditions": [
+    "western_philosophy"
+  ],
+  "periods": [
+    "modern"
+  ],
+  "themes": [
+    "aesthetics"
+  ],
+  "keywordsZh": [
+    "实用主义",
+    "美学",
+    "身份层"
+  ],
+  "oneLineZh": "自然主义、怀疑论与美学交界人物，可补美国哲学的非实用主义线索。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "乔治·桑塔亚那（1863—1952）是 W2 欧陆与英美近现代二线哲人候选。其身份层入选理由为：自然主义、怀疑论与美学交界人物，可补美国哲学的非实用主义线索。 本条仅作 seed 档基本定位，后续若升级标准档，需要重新做著作、论点与 evidence 研究。",
+  "works": [
+    "george-santayana-life-of-reason",
+    "george-santayana-sense-of-beauty"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S005",
+      "noteZh": "权威来源条目：SEP: George Santayana；用于核验人物身份、生卒、代表著作和思想史定位。"
+    }
+  ]
+}

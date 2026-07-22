@@ -5,9 +5,9 @@
     "en": "William of Ockham"
   },
   "life": {
-    "display": "约1287—1347",
     "birth": 1287,
-    "death": 1347
+    "death": 1347,
+    "display": "约1287—1347"
   },
   "civilization": "latin_christian",
   "traditions": [
@@ -31,12 +31,261 @@
   "reviewStatus": "draft",
   "summaryZh": "奥卡姆是宗教、形而上学问题谱系中的第一版候选哲人。 本条目是第一版结构化资料，已经保留文明、传统、主题、作品和论述字段，正式发布前需要继续核对年代、文本出处和概念表述。",
   "works": [
-    "ockham-primary-work"
+    "ockham-summa-logicae",
+    "ockham-ordinatio",
+    "ockham-quodlibeta",
+    "ockham-dialogus",
+    "ockham-breviloquium"
   ],
   "sourceNotes": [
     {
       "label": "draft",
       "noteZh": "条目需要人工核对作品、年代和概念表述。"
     }
-  ]
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "ockham:problem:001",
+        "titleZh": "概念是否需要普遍实体？",
+        "questionZh": "奥卡姆如何解释共相和概念，而不诉诸独立存在的普遍实体？",
+        "summaryZh": "奥卡姆把共相问题转向语言、心灵概念和个体事物的关系。他削弱普遍实体的本体地位，强调世界中首先存在的是个体，共相主要是符号和概念功能。",
+        "themeIds": [
+          "language",
+          "metaphysics",
+          "knowledge"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "ockham:claim:001",
+            "titleZh": "共相不需要独立实体",
+            "claimZh": "奥卡姆认为共相并非在个体之外独立存在的实体，而是心灵和语言用来指称多个个体的符号结构。",
+            "explanationZh": "这使本体论更节制，也让逻辑分析成为处理共相问题的主要方法。",
+            "themeIds": [
+              "language",
+              "metaphysics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "ockham:evidence:001",
+                "titleZh": "项和共相的逻辑分析",
+                "summaryZh": "《逻辑大全》第一卷讨论项、概念和共相，说明普遍性主要来自符号的指称功能，而非额外普遍实体。",
+                "source": {
+                  "workId": "ockham-summa-logicae",
+                  "locator": "Summa Logicae I.14-17 on terms and universals",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "ockham:evidence:002",
+                "titleZh": "个体优先的经院论证",
+                "summaryZh": "《评注》关于共相和个体的讨论强调个体事物的优先性，削弱把共相看作独立共同本性的必要性。",
+                "source": {
+                  "workId": "ockham-ordinatio",
+                  "locator": "Ordinatio d.2 q.4-8 on universals and individuals",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "ockham:claim:002",
+            "titleZh": "简约原则服务本体节制",
+            "claimZh": "奥卡姆式简约并非拒绝解释，而是要求在不必要时不增加实体层级，以免把语言便利误当作世界结构。",
+            "explanationZh": "这一取向使他的逻辑、认识论和神学讨论都倾向减少不必要的中介。",
+            "themeIds": [
+              "knowledge",
+              "language"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "ockham:evidence:003",
+                "titleZh": "逻辑分析避免实体膨胀",
+                "summaryZh": "《逻辑大全》通过项的指称和谓述功能解释普遍用语，显示无需为每个普遍名词设定对应实体。",
+                "source": {
+                  "workId": "ockham-summa-logicae",
+                  "locator": "Summa Logicae I.14-17 on terms and universals",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "ockham:evidence:004",
+                "titleZh": "个体论限制共同本性",
+                "summaryZh": "《评注》相关问题以个体为真实存在中心，说明共同性可由概念和符号处理，不必上升为独立本体。",
+                "source": {
+                  "workId": "ockham-ordinatio",
+                  "locator": "Ordinatio d.2 q.4-8 on universals and individuals",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ockham:problem:002",
+        "titleZh": "神的全能如何影响形而上学？",
+        "questionZh": "若上帝具有绝对能力，自然秩序、知识确定性和神学概念应如何被重新理解？",
+        "summaryZh": "奥卡姆区分上帝的绝对能力和秩序能力，用以说明上帝并不受受造秩序限制，同时现实世界仍在既定秩序下运行。他也重视直观认识对个体存在的把握。",
+        "themeIds": [
+          "religion",
+          "metaphysics",
+          "knowledge"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "ockham:claim:003",
+            "titleZh": "绝对能力打开非必然秩序空间",
+            "claimZh": "奥卡姆用上帝绝对能力说明现实秩序不是形而上必然，而是上帝可以设定并维持的秩序。",
+            "explanationZh": "这一区分保护神的自由，也使受造秩序的必然性被重新限制。",
+            "themeIds": [
+              "religion",
+              "metaphysics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "ockham:evidence:005",
+                "titleZh": "绝对能力与秩序能力",
+                "summaryZh": "《任意问题集》第六卷第一问区分上帝绝对能力和秩序能力，显示现实秩序并不穷尽神能所可能。",
+                "source": {
+                  "workId": "ockham-quodlibeta",
+                  "locator": "Quodlibeta VI q.1 on potentia absoluta and ordinata",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "ockham:evidence:006",
+                "titleZh": "直观认识的存在指向",
+                "summaryZh": "《评注》序言关于直观认识的讨论把知识与个体存在联系起来，强调认识并非只处理抽象概念。",
+                "source": {
+                  "workId": "ockham-ordinatio",
+                  "locator": "Ordinatio prologue q.1 on intuitive cognition",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "ockham:claim:004",
+            "titleZh": "直观认识约束抽象推论",
+            "claimZh": "奥卡姆重视直观认识，因为它使心灵能够把握个体是否存在，从而限制纯抽象推论的越界。",
+            "explanationZh": "认识论中的个体指向和神学中的全能区分共同削弱过度实体化的系统。",
+            "themeIds": [
+              "knowledge",
+              "metaphysics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "ockham:evidence:007",
+                "titleZh": "神能区分限制必然化",
+                "summaryZh": "绝对能力和秩序能力的区分让奥卡姆避免把当前秩序误认为绝对必然，从而保留神学自由。",
+                "source": {
+                  "workId": "ockham-quodlibeta",
+                  "locator": "Quodlibeta VI q.1 on potentia absoluta and ordinata",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "ockham:evidence:008",
+                "titleZh": "直观认识与个体事实",
+                "summaryZh": "直观认识讨论强调心灵可针对个体存在作出判断，避免知识完全漂浮在普遍概念结构中而失去事实约束。",
+                "source": {
+                  "workId": "ockham-ordinatio",
+                  "locator": "Ordinatio prologue q.1 on intuitive cognition",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ockham:problem:003",
+        "titleZh": "教会权力是否有边界？",
+        "questionZh": "奥卡姆如何限制教宗权力，并为世俗政治和共同体判断保留空间？",
+        "summaryZh": "奥卡姆在政治神学中反对把教宗权力绝对化。他认为教宗可能错误，教会和世俗权威各有边界，信仰共同体与帝国权威都不能被单一权力吞并。",
+        "themeIds": [
+          "politics",
+          "religion",
+          "justice"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "ockham:claim:005",
+            "titleZh": "教宗权力不能免于错误判断",
+            "claimZh": "奥卡姆认为教宗并非在所有判断中都不可错误，若其背离正信或正义，仍可受到论辩和限制。",
+            "explanationZh": "这使他能够为教会内部判断和政治权威边界提供论证。",
+            "themeIds": [
+              "religion",
+              "politics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "ockham:evidence:009",
+                "titleZh": "教宗错误的可讨论性",
+                "summaryZh": "《对话录》讨论教宗错误和异端问题，显示教会权威不能简单等同于任何单一职位的不可错判断。",
+                "source": {
+                  "workId": "ockham-dialogus",
+                  "locator": "Dialogus I.5-6 on papal error and heresy",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "ockham:evidence:010",
+                "titleZh": "帝国权威的独立空间",
+                "summaryZh": "《政制简论》第三卷讨论帝国权威和教宗权力边界，说明世俗治理不应完全被教会职位吸收。",
+                "source": {
+                  "workId": "ockham-breviloquium",
+                  "locator": "Breviloquium de principatu tyrannico III.7-9 on imperial authority",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "ockham:claim:006",
+            "titleZh": "政治秩序需要权力分限",
+            "claimZh": "奥卡姆把权力边界看作防止教会和政治共同体被单一权威垄断的重要条件。",
+            "explanationZh": "他的政治论证从神学争议出发，却形成限制权威和保护共同体判断的制度含义。",
+            "themeIds": [
+              "politics",
+              "justice"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "ockham:evidence:011",
+                "titleZh": "共同体判断反制单一权威",
+                "summaryZh": "《对话录》的论辩结构本身显示奥卡姆重视争辩、证成和共同体判断，而非无条件服从单一职位。",
+                "source": {
+                  "workId": "ockham-dialogus",
+                  "locator": "Dialogus I.5-6 on papal error and heresy",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "ockham:evidence:012",
+                "titleZh": "世俗治理的边界论",
+                "summaryZh": "《政制简论》关于帝国权威的讨论说明，政治秩序有自身职责，不能被教宗权力无限扩张所吞并。",
+                "source": {
+                  "workId": "ockham-breviloquium",
+                  "locator": "Breviloquium de principatu tyrannico III.7-9 on imperial authority",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "tier": "standard"
 }

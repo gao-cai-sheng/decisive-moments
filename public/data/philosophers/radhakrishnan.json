@@ -1,0 +1,293 @@
+{
+  "id": "radhakrishnan",
+  "names": {
+    "zh": "拉达克里希南",
+    "en": "Sarvepalli Radhakrishnan"
+  },
+  "life": {
+    "birth": 1888,
+    "death": 1975,
+    "display": "1888—1975"
+  },
+  "civilization": "indian",
+  "traditions": [
+    "modern_vedanta",
+    "comparative_philosophy",
+    "religious_philosophy"
+  ],
+  "periods": [
+    "expansion_c3"
+  ],
+  "themes": [
+    "religion",
+    "knowledge",
+    "ethics"
+  ],
+  "keywordsZh": [
+    "印度哲学",
+    "比较宗教",
+    "吠檀多",
+    "直觉",
+    "精神人文主义"
+  ],
+  "oneLineZh": "以现代吠檀多和比较哲学方式重述印度思想，并把宗教经验置于世界哲学对话中。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "拉达克里希南以英语学术体系整理印度哲学，强调宗教直觉和精神统一，同时回应西方哲学与殖民现代性。",
+  "works": [
+    "radhakrishnan-indian-philosophy",
+    "radhakrishnan-hindu-view-life",
+    "radhakrishnan-idealist-view-life",
+    "radhakrishnan-eastern-religions-western-thought",
+    "radhakrishnan-principal-upanishads"
+  ],
+  "sourceNotes": [
+    {
+      "label": "Primary corpus note",
+      "url": "https://www.britannica.com/biography/Sarvepalli-Radhakrishnan",
+      "noteZh": "二手条目只用于核对生卒、作品和关系线；evidence 以拉达克里希南代表作自身问题为摘要对象。"
+    }
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "radhakrishnan:problem:001",
+        "titleZh": "印度哲学的现代系统化",
+        "questionZh": "拉达克里希南如何把印度思想放入现代哲学叙述？",
+        "summaryZh": "拉达克里希南用英语学术体系重述印度哲学，使其不再被视为宗教材料，而成为可与西方哲学对话的思想传统。",
+        "themeIds": [
+          "knowledge",
+          "religion"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "radhakrishnan:claim:001",
+            "titleZh": "印度哲学具有系统理性结构",
+            "claimZh": "拉达克里希南主张印度传统不仅是神话或信仰集合，也包含严密的认识论、形而上学和伦理思考。",
+            "explanationZh": "这一主张回应殖民时期把印度思想降格为非理性宗教的看法，并提升其世界哲学地位。",
+            "themeIds": [
+              "knowledge",
+              "religion"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "radhakrishnan:evidence:001",
+                "titleZh": "《印度哲学》系统铺陈诸派",
+                "summaryZh": "两卷本依次处理吠陀、奥义书、佛教、耆那教和印度正统诸派，显示印度思想内部存在复杂争论结构。",
+                "source": {
+                  "workId": "radhakrishnan-indian-philosophy",
+                  "locator": "Indian Philosophy, volumes I-II, survey of Indian systems",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "radhakrishnan:evidence:002",
+                "titleZh": "哲学史叙述兼具辩护意图",
+                "summaryZh": "书中不仅介绍学派，还不断强调印度哲学对实在、知识和解脱的理性追问，反驳把它视作纯信仰的简化。",
+                "source": {
+                  "workId": "radhakrishnan-indian-philosophy",
+                  "locator": "Indian Philosophy, methodological framing and comparative remarks",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "radhakrishnan:claim:002",
+            "titleZh": "吠檀多被解释为精神统一哲学",
+            "claimZh": "拉达克里希南倾向把吠檀多解释为承认精神统一和内在直觉的哲学核心。",
+            "explanationZh": "这使他的印度哲学叙述带有现代吠檀多综合色彩，同时也需要盲审留意其解释选择。",
+            "themeIds": [
+              "religion",
+              "metaphysics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "radhakrishnan:evidence:003",
+                "titleZh": "《主要奥义书》体现现代注释取向",
+                "summaryZh": "译注通过哲学化说明奥义书中的梵我关系、内在实在和精神解脱，呈现拉达克里希南的现代吠檀多读法。",
+                "source": {
+                  "workId": "radhakrishnan-principal-upanishads",
+                  "locator": "The Principal Upanishads, introduction and interpretive notes",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "radhakrishnan:evidence:004",
+                "titleZh": "《印度教的人生观》概括精神传统",
+                "summaryZh": "讲演把印度教呈现为开放、包容且重视精神经验的传统，强调不同形式背后的宗教统一性。",
+                "source": {
+                  "workId": "radhakrishnan-hindu-view-life",
+                  "locator": "The Hindu View of Life, lectures on Hindu spirit and tolerance",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "radhakrishnan:problem:002",
+        "titleZh": "宗教经验、直觉与理性",
+        "questionZh": "拉达克里希南如何为宗教经验的认知地位辩护？",
+        "summaryZh": "他将宗教经验理解为一种直接的精神把握，并试图说明直觉并不取消理性，而是补足概念理性的限度。",
+        "themeIds": [
+          "religion",
+          "knowledge"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "radhakrishnan:claim:003",
+            "titleZh": "直觉经验具有哲学意义",
+            "claimZh": "拉达克里希南认为宗教直觉不是非理性情绪，而是触及实在深层结构的经验形式。",
+            "explanationZh": "这一主张构成其理想主义哲学基础，也解释他为何把宗教经验放在哲学中心。",
+            "themeIds": [
+              "knowledge",
+              "religion"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "radhakrishnan:evidence:005",
+                "titleZh": "《人生的理想主义观点》论宗教经验",
+                "summaryZh": "文本把宗教经验描述为超越单纯感觉和推理的直接把握，同时要求这种经验接受哲学反思和批判整理。",
+                "source": {
+                  "workId": "radhakrishnan-idealist-view-life",
+                  "locator": "An Idealist View of Life, lectures on religious experience and intuition",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "radhakrishnan:evidence:006",
+                "titleZh": "理想主义不是逃避现实",
+                "summaryZh": "书中把精神实在论用于解释价值、人格和宗教生活，说明理想主义意在保存现实的意义深度而非否认世界。",
+                "source": {
+                  "workId": "radhakrishnan-idealist-view-life",
+                  "locator": "An Idealist View of Life, idealism and reality lectures",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "radhakrishnan:claim:004",
+            "titleZh": "宗教多样性可由精神经验解释",
+            "claimZh": "拉达克里希南把宗教多样性理解为同一精神实在在不同文化形式中的表达。",
+            "explanationZh": "这使他能够支持宗教宽容和跨文化对话，但也可能淡化传统之间不可化约的差异。",
+            "themeIds": [
+              "religion",
+              "ethics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "radhakrishnan:evidence:007",
+                "titleZh": "《东方宗教与西方思想》比较宗教传统",
+                "summaryZh": "文本把印度宗教思想与基督教和西方哲学并置，强调不同传统可在精神经验和终极关怀上对话。",
+                "source": {
+                  "workId": "radhakrishnan-eastern-religions-western-thought",
+                  "locator": "Eastern Religions and Western Thought, comparative religion chapters",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "radhakrishnan:evidence:008",
+                "titleZh": "印度教人生观强调包容和多路性",
+                "summaryZh": "讲演把印度教的多神、多仪式和多路径解释为精神开放性，借此为宗教宽容提供哲学说明。",
+                "source": {
+                  "workId": "radhakrishnan-hindu-view-life",
+                  "locator": "The Hindu View of Life, lectures on tolerance and many paths",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "radhakrishnan:problem:003",
+        "titleZh": "东西方哲学对话与现代印度身份",
+        "questionZh": "拉达克里希南如何在殖民现代性中建构印度哲学的世界地位？",
+        "summaryZh": "他用比较哲学语言把印度传统转化为世界哲学资源，同时把精神人文主义作为现代印度自我理解的一部分。",
+        "themeIds": [
+          "politics",
+          "religion"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "radhakrishnan:claim:005",
+            "titleZh": "东方宗教可回应西方现代危机",
+            "claimZh": "拉达克里希南认为印度宗教哲学能补充西方现代理性和物质文明的不足。",
+            "explanationZh": "这条主张体现其跨文化哲学使命：不是拒绝西方，而是在互补中重估东方思想。",
+            "themeIds": [
+              "religion",
+              "ethics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "radhakrishnan:evidence:009",
+                "titleZh": "《东方宗教与西方思想》讨论文明互补",
+                "summaryZh": "文本把东方宗教的精神内省与西方哲学、科学和基督教传统对照，主张现代世界需要更深的精神整合。",
+                "source": {
+                  "workId": "radhakrishnan-eastern-religions-western-thought",
+                  "locator": "Eastern Religions and Western Thought, East-West comparison and modern crisis",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "radhakrishnan:evidence:010",
+                "titleZh": "现代性问题被转化为精神问题",
+                "summaryZh": "书中多次把现代文明困境解释为价值和精神方向的危机，认为宗教哲学仍能提供公共意义资源。",
+                "source": {
+                  "workId": "radhakrishnan-eastern-religions-western-thought",
+                  "locator": "Eastern Religions and Western Thought, religion and modern civilization",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "radhakrishnan:claim:006",
+            "titleZh": "印度哲学叙述具有文化自我辩护功能",
+            "claimZh": "拉达克里希南的哲学史写作既是学术整理，也是对印度文明理性和精神价值的现代辩护。",
+            "explanationZh": "这有助于解释他与甘地、泰戈尔共享的文化自我表达问题，但其系统化也可能压平内部差异。",
+            "themeIds": [
+              "knowledge",
+              "politics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "radhakrishnan:evidence:011",
+                "titleZh": "《印度哲学》将传统纳入世界哲学坐标",
+                "summaryZh": "两卷本用西方学术读者可理解的结构解释印度诸派，使印度哲学进入比较哲学和大学哲学史框架。",
+                "source": {
+                  "workId": "radhakrishnan-indian-philosophy",
+                  "locator": "Indian Philosophy, introductory framing for world philosophy",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "radhakrishnan:evidence:012",
+                "titleZh": "奥义书译注塑造现代经典形象",
+                "summaryZh": "《主要奥义书》以翻译、导言和注释把古典文本转化为现代哲学经典，服务于跨文化读者的理解。",
+                "source": {
+                  "workId": "radhakrishnan-principal-upanishads",
+                  "locator": "The Principal Upanishads, translation and philosophical commentary",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "tier": "standard"
+}

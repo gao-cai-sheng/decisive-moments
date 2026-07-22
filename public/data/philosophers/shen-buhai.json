@@ -1,0 +1,44 @@
+{
+  "id": "shen-buhai",
+  "tier": "seed",
+  "names": {
+    "zh": "申不害",
+    "en": "Shen Buhai",
+    "native": "申不害"
+  },
+  "life": {
+    "birth": -400,
+    "death": -337,
+    "display": "约前400—前337"
+  },
+  "civilization": "chinese",
+  "traditions": [
+    "legalism"
+  ],
+  "periods": [
+    "warring_states"
+  ],
+  "themes": [
+    "politics",
+    "knowledge"
+  ],
+  "keywordsZh": [
+    "术",
+    "法家",
+    "官僚制"
+  ],
+  "oneLineZh": "战国韩国相，以“术”与官僚控制问题著称的法家人物。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "申不害，郑、韩之间的战国政治家，曾任韩国相，以法家“术”论著称。其关注点不是单纯刑罚，而是君主如何通过名实核验、职位责任和行政技术控制官僚。《申子》已亡佚，今据目录、类书和法家传统复原其轮廓。韩非子后来把申不害视为术治代表，使其成为理解战国官僚国家形成的重要人物。",
+  "works": [
+    "shen-buhai-shenzi-fragments"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S006",
+      "url": "https://ctext.org/wiki.pl?if=en&res=95519",
+      "noteZh": "以目录著录和佚文传统支撑申不害身份、术治主题与作品归属。"
+    }
+  ]
+}

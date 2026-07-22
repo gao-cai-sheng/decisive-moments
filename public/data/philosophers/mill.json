@@ -5,9 +5,9 @@
     "en": "John Stuart Mill"
   },
   "life": {
-    "display": "1806—1873",
     "birth": 1806,
-    "death": 1873
+    "death": 1873,
+    "display": "1806—1873"
   },
   "civilization": "european_modern",
   "traditions": [
@@ -31,12 +31,260 @@
   "reviewStatus": "draft",
   "summaryZh": "约翰·密尔是知识、自由问题谱系中的第一版候选哲人。 本条目是第一版结构化资料，已经保留文明、传统、主题、作品和论述字段，正式发布前需要继续核对年代、文本出处和概念表述。",
   "works": [
-    "mill-primary-work"
+    "mill-system-logic",
+    "mill-on-liberty",
+    "mill-utilitarianism",
+    "mill-subjection-women",
+    "mill-representative-government"
   ],
   "sourceNotes": [
     {
       "label": "draft",
       "noteZh": "条目需要人工核对作品、年代和概念表述。"
     }
-  ]
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "mill:problem:001",
+        "titleZh": "经验科学如何获得可靠归纳？",
+        "questionZh": "密尔如何在经验主义框架内为科学推理和社会科学提供方法？",
+        "summaryZh": "密尔继承经验主义，又试图系统化归纳逻辑。他把因果研究建立在差异、契合、共变等方法上，并把这些方法扩展到心理、伦理和社会研究。",
+        "themeIds": [
+          "knowledge",
+          "knowledge"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "mill:claim:001",
+            "titleZh": "归纳逻辑整理经验中的因果发现",
+            "claimZh": "密尔认为科学知识依赖从经验中发现因果关系，而归纳方法可以把杂乱观察转化为可检验推理。",
+            "explanationZh": "这让密尔不同于单纯经验记录者：他关心的是经验如何在方法规则下生成科学知识。",
+            "themeIds": [
+              "knowledge",
+              "knowledge"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "mill:evidence:001",
+                "titleZh": "实验探究方法",
+                "summaryZh": "《逻辑体系》第三卷提出契合法、差异法、剩余法和共变法，系统说明因果归纳的操作规则。",
+                "source": {
+                  "workId": "mill-system-logic",
+                  "locator": "A System of Logic book III chapters 8-10 on the methods of experimental inquiry",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "mill:evidence:002",
+                "titleZh": "因果作为无条件先行条件",
+                "summaryZh": "密尔把原因分析为无条件、恒常的先行条件组合，试图为经验科学提供因果概念，进一步说明“因果作为无条件先行条件”如何进入“归纳逻辑整理经验中的因果发现”的论证链条。",
+                "source": {
+                  "workId": "mill-system-logic",
+                  "locator": "A System of Logic book III chapter 5 on causation and unconditional antecedent",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "mill:claim:002",
+            "titleZh": "社会科学需要经验方法但不能机械简化",
+            "claimZh": "密尔认为研究社会现象也要依赖经验和因果分析，但人的心理和制度交互使社会科学不能照搬简单实验。",
+            "explanationZh": "这使他在自然科学方法和社会复杂性之间保持张力，主张谨慎的社会科学。",
+            "themeIds": [
+              "knowledge",
+              "politics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "mill:evidence:003",
+                "titleZh": "道德科学逻辑",
+                "summaryZh": "第六卷讨论道德科学和社会科学的方法，强调心理规律、历史材料和制度条件的综合，进一步说明“道德科学逻辑”如何进入“社会科学需要经验方法但不能机械简化”的论证链条。",
+                "source": {
+                  "workId": "mill-system-logic",
+                  "locator": "A System of Logic book VI on the logic of the moral sciences",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "mill:evidence:004",
+                "titleZh": "历史方法与社会科学",
+                "summaryZh": "密尔关于逆演绎或历史方法的讨论说明，社会研究需要把经验历史和一般规律互相校验，进一步说明“历史方法与社会科学”如何进入“社会科学需要经验方法但不能机械简化”的论证链条。",
+                "source": {
+                  "workId": "mill-system-logic",
+                  "locator": "A System of Logic book VI chapter 10 on the inverse deductive or historical method",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "mill:problem:002",
+        "titleZh": "自由为何需要伤害原则保护？",
+        "questionZh": "密尔如何为思想、生活实验和个体发展辩护，同时限制社会和国家的干预？",
+        "summaryZh": "密尔的自由论以个体发展和社会进步为目标。只要不伤害他人，个人思想、表达和生活方式应免受国家强制与多数舆论压迫。",
+        "themeIds": [
+          "freedom",
+          "politics",
+          "ethics"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "mill:claim:003",
+            "titleZh": "伤害原则限定强制权力边界",
+            "claimZh": "密尔认为文明社会中，对个人强制的唯一正当理由是防止伤害他人，而不是保护本人免于错误。",
+            "explanationZh": "这一原则同时限制国家法律和社会舆论，使个人拥有自我发展空间。",
+            "themeIds": [
+              "freedom",
+              "politics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "mill:evidence:005",
+                "titleZh": "伤害原则",
+                "summaryZh": "《论自由》第一章提出伤害原则，明确把个人自由领域同防止伤害他人的公共干预区分开。",
+                "source": {
+                  "workId": "mill-on-liberty",
+                  "locator": "On Liberty chapter 1 on the harm principle",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "mill:evidence:006",
+                "titleZh": "社会权威的限度",
+                "summaryZh": "第四章讨论社会对个人权威的限度，说明即使多数不喜欢某种生活方式，也不能仅凭反感加以强制。",
+                "source": {
+                  "workId": "mill-on-liberty",
+                  "locator": "On Liberty chapter 4 on limits to the authority of society over the individual",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "mill:claim:004",
+            "titleZh": "思想自由和生活实验推动真理与个性",
+            "claimZh": "密尔认为言论自由不仅保护正确意见，也保护错误意见，因为真理需要公开争辩保持活力；生活实验则让个性和进步成为可能。",
+            "explanationZh": "自由的价值不只是免受干预，还在于培养有活力、有判断力的人。",
+            "themeIds": [
+              "freedom",
+              "knowledge"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "mill:evidence:007",
+                "titleZh": "思想讨论自由",
+                "summaryZh": "第二章为思想和讨论自由辩护，指出压制错误意见也会损害真理的检验和理解，进一步说明“思想讨论自由”如何进入“思想自由和生活实验推动真理与个性”的论证链条。",
+                "source": {
+                  "workId": "mill-on-liberty",
+                  "locator": "On Liberty chapter 2 on liberty of thought and discussion",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "mill:evidence:008",
+                "titleZh": "个性与生活实验",
+                "summaryZh": "第三章把个性和生活实验视为幸福与社会进步的要素，反对习俗压平人格，进一步说明“个性与生活实验”如何进入“思想自由和生活实验推动真理与个性”的论证链条。",
+                "source": {
+                  "workId": "mill-on-liberty",
+                  "locator": "On Liberty chapter 3 on individuality as one of the elements of well-being",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "mill:problem:003",
+        "titleZh": "功利、平等与代议制如何结合？",
+        "questionZh": "密尔如何把最大幸福原则、女性平等和代表政府组织成自由主义改革方案？",
+        "summaryZh": "密尔的功利主义不是低级享乐计算，而是重视高低质量、人格发展和公共利益的伦理政治框架。他把女性平等和代议制看作释放能力、提升共同幸福的制度条件。",
+        "themeIds": [
+          "ethics",
+          "justice",
+          "politics"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "mill:claim:005",
+            "titleZh": "功利主义重视幸福质量和公共培养",
+            "claimZh": "密尔认为功利主义追求最大幸福，但幸福有质量差别，受过发展的人会偏好较高能力的活动。",
+            "explanationZh": "这使他的功利主义能为教育、个性和自由辩护，而不只是数量化快感加总。",
+            "themeIds": [
+              "ethics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "mill:evidence:009",
+                "titleZh": "高低快乐区分",
+                "summaryZh": "《功利主义》第二章区分高低快乐，并以能力发展说明为何某些快乐具有更高价值，进一步说明“高低快乐区分”如何进入“功利主义重视幸福质量和公共培养”的论证链条。",
+                "source": {
+                  "workId": "mill-utilitarianism",
+                  "locator": "Utilitarianism chapter 2 on higher and lower pleasures",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "mill:evidence:010",
+                "titleZh": "正义与效用",
+                "summaryZh": "第五章把正义情感和权利要求纳入效用框架，说明安全和基本利益对共同幸福的重要性，进一步说明“正义与效用”如何进入“功利主义重视幸福质量和公共培养”的论证链条。",
+                "source": {
+                  "workId": "mill-utilitarianism",
+                  "locator": "Utilitarianism chapter 5 on justice and utility",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "mill:claim:006",
+            "titleZh": "平等和代议制是自由社会的制度条件",
+            "claimZh": "密尔认为女性从属和政治排斥浪费人类能力，也破坏公正；良好政府应通过代议制训练公共能力。",
+            "explanationZh": "他的自由主义因此包含制度改革维度：自由需要平等身份、公共参与和能力培养。",
+            "themeIds": [
+              "justice",
+              "politics",
+              "freedom"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "mill:evidence:011",
+                "titleZh": "女性平等批判",
+                "summaryZh": "《妇女的屈从地位》第一章批判法律上的性别从属，主张男女平等是正义和社会进步要求。",
+                "source": {
+                  "workId": "mill-subjection-women",
+                  "locator": "The Subjection of Women chapter 1 on legal subordination and equality",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "mill:evidence:012",
+                "titleZh": "代议制与公民能力",
+                "summaryZh": "《代议制政府》论述好政府既要处理事务，也要提升公民品格，强调参与的教育作用，进一步说明“代议制与公民能力”如何进入“平等和代议制是自由社会的制度条件”的论证链条。",
+                "source": {
+                  "workId": "mill-representative-government",
+                  "locator": "Considerations on Representative Government chapters 2-3 on good government and political participation",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "tier": "standard"
 }

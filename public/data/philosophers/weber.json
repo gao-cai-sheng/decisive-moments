@@ -1,0 +1,292 @@
+{
+  "id": "weber",
+  "names": {
+    "zh": "韦伯",
+    "en": "Max Weber"
+  },
+  "life": {
+    "birth": 1864,
+    "death": 1920,
+    "display": "1864—1920"
+  },
+  "civilization": "western_modern",
+  "traditions": [
+    "social_theory",
+    "interpretive_sociology",
+    "political_theory"
+  ],
+  "periods": [
+    "expansion_c2"
+  ],
+  "themes": [
+    "politics",
+    "knowledge",
+    "ethics"
+  ],
+  "keywordsZh": [
+    "理性化",
+    "新教伦理",
+    "科层制",
+    "支配类型",
+    "志业"
+  ],
+  "oneLineZh": "以理解社会学、理性化和支配类型分析现代资本主义、官僚制与政治责任。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "韦伯把现代性理解为理性化、祛魅、官僚制和价值多神论交织的过程，并用理解社会学解释行动意义。",
+  "works": [
+    "weber-protestant-ethic",
+    "weber-economy-society",
+    "weber-science-vocation",
+    "weber-politics-vocation",
+    "weber-methodology-social-sciences"
+  ],
+  "sourceNotes": [
+    {
+      "label": "Primary corpus note",
+      "url": "https://plato.stanford.edu/entries/weber/",
+      "noteZh": "以韦伯文本为核心；二手来源只校对与马克思、尼采、哈贝马斯和法兰克福学派关系。"
+    }
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "weber:problem:001",
+        "titleZh": "理解社会学与客观性",
+        "questionZh": "韦伯如何使社会科学既解释意义又保持方法约束？",
+        "summaryZh": "韦伯把社会行动理解为带有主观意义的行动，同时以理想类型、价值关联和因果归因约束社会科学解释。",
+        "themeIds": [
+          "knowledge",
+          "politics"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "weber:claim:001",
+            "titleZh": "社会行动需要意义理解",
+            "claimZh": "韦伯认为社会科学必须解释行动者赋予行动的主观意义，而不只是记录外部行为规律。",
+            "explanationZh": "这一主张使韦伯区别于纯自然主义社会科学，也为理解社会学和解释社会科学奠定基础。",
+            "themeIds": [
+              "knowledge",
+              "politics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "weber:evidence:001",
+                "titleZh": "《经济与社会》定义社会行动",
+                "summaryZh": "开篇概念部分把社会行动界定为行动者主观上赋予意义且指向他人的行动，明确理解解释的对象。",
+                "source": {
+                  "workId": "weber-economy-society",
+                  "locator": "Economy and Society, basic sociological terms on social action",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "weber:evidence:002",
+                "titleZh": "行动类型展示意义差异",
+                "summaryZh": "文本区分目的理性、价值理性、情感性和传统性行动，说明社会解释必须辨认不同意义结构。",
+                "source": {
+                  "workId": "weber-economy-society",
+                  "locator": "Economy and Society, types of social action",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "weber:claim:002",
+            "titleZh": "理想类型是解释工具而非现实复制",
+            "claimZh": "韦伯把理想类型作为研究者构造的分析工具，用来比较现实过程并进行因果解释。",
+            "explanationZh": "这条主张让价值关联和客观性形成张力：问题选择受价值关切引导，但论证仍需方法纪律。",
+            "themeIds": [
+              "knowledge",
+              "language"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "weber:evidence:003",
+                "titleZh": "《社会科学方法论》说明理想类型",
+                "summaryZh": "方法论文把理想类型描述为片面强化的概念构造，用来衡量经验现实，而不是现实本身的照片。",
+                "source": {
+                  "workId": "weber-methodology-social-sciences",
+                  "locator": "Methodology of the Social Sciences, Objectivity essay on ideal types",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "weber:evidence:004",
+                "titleZh": "价值中立要求区分判断和论证",
+                "summaryZh": "文本强调研究者可以因价值关切选择问题，但学术论证应区分经验分析和价值宣告，避免把立场伪装成事实。",
+                "source": {
+                  "workId": "weber-methodology-social-sciences",
+                  "locator": "Methodology, value neutrality and value relevance essays",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "weber:problem:002",
+        "titleZh": "理性化、宗教伦理与资本主义",
+        "questionZh": "韦伯如何解释现代资本主义精神和宗教伦理之间的关系？",
+        "summaryZh": "韦伯分析禁欲新教伦理与资本主义精神之间的选择性亲和关系，并将现代性理解为理性化和祛魅不断加深的过程。",
+        "themeIds": [
+          "religion",
+          "politics"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "weber:claim:003",
+            "titleZh": "禁欲新教伦理塑造职业纪律",
+            "claimZh": "韦伯认为禁欲新教把职业劳动、纪律和救赎焦虑连接起来，促进了资本主义精神的形成。",
+            "explanationZh": "他并非把资本主义简单归因于宗教，而是说明特定伦理如何与经济行为方式产生历史亲和。",
+            "themeIds": [
+              "religion",
+              "ethics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "weber:evidence:005",
+                "titleZh": "《新教伦理》分析职业观念",
+                "summaryZh": "文本把路德和清教传统中的职业观念与世俗劳动纪律相连，说明宗教生活如何进入日常经济行为。",
+                "source": {
+                  "workId": "weber-protestant-ethic",
+                  "locator": "The Protestant Ethic, chapters on calling and ascetic Protestantism",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "weber:evidence:006",
+                "titleZh": "禁欲生活方式支持资本积累",
+                "summaryZh": "书中说明清教禁欲限制奢侈消费，同时强化系统劳动和再投资习惯，使资本主义精神获得伦理动力。",
+                "source": {
+                  "workId": "weber-protestant-ethic",
+                  "locator": "The Protestant Ethic, asceticism and capitalist spirit",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "weber:claim:004",
+            "titleZh": "祛魅造成现代价值多神论",
+            "claimZh": "韦伯认为现代理性化削弱统一宗教世界图像，却没有提供单一终极价值，导致价值领域分裂。",
+            "explanationZh": "这条主张解释了韦伯与尼采后的价值危机语境，也成为法兰克福和哈贝马斯现代性理论的重要前史。",
+            "themeIds": [
+              "ethics",
+              "knowledge"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "weber:evidence:007",
+                "titleZh": "《以学术为业》论祛魅",
+                "summaryZh": "演讲把现代学术和理性化描述为世界祛魅过程，知识增加并不自动回答人应如何生活的问题。",
+                "source": {
+                  "workId": "weber-science-vocation",
+                  "locator": "Science as a Vocation, disenchantment and value spheres",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "weber:evidence:008",
+                "titleZh": "价值多神论要求个人承担选择",
+                "summaryZh": "文本说明现代人面对相互冲突的价值诸神，学术不能替人决定终极立场，只能澄清选择后果。",
+                "source": {
+                  "workId": "weber-science-vocation",
+                  "locator": "Science as a Vocation, polytheism of values and responsibility",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "weber:problem:003",
+        "titleZh": "支配类型、官僚制与政治责任",
+        "questionZh": "韦伯如何分析现代国家权力和政治志业？",
+        "summaryZh": "韦伯把现代国家、合法支配和官僚制放入理性化进程，强调政治行动必须在信念伦理和责任伦理之间承担后果。",
+        "themeIds": [
+          "politics",
+          "ethics"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "weber:claim:005",
+            "titleZh": "合法支配有不同纯粹类型",
+            "claimZh": "韦伯区分传统型、魅力型和法理型支配，说明现代政治权威不能只由暴力或习俗解释。",
+            "explanationZh": "这条主张为现代国家、官僚制和领袖政治分析提供类型工具，并影响后来的政治社会学。",
+            "themeIds": [
+              "politics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "weber:evidence:009",
+                "titleZh": "《经济与社会》区分三种支配",
+                "summaryZh": "支配社会学章节系统说明传统型、魅力型和法理型合法性，展示权威被服从的不同意义根据。",
+                "source": {
+                  "workId": "weber-economy-society",
+                  "locator": "Economy and Society, types of legitimate domination",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "weber:evidence:010",
+                "titleZh": "官僚制体现法理支配的效率和铁笼",
+                "summaryZh": "文本分析官僚制的规则、文书、专业化和等级结构，说明其技术优势同时造成现代支配的僵硬化。",
+                "source": {
+                  "workId": "weber-economy-society",
+                  "locator": "Economy and Society, bureaucracy and legal authority",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "weber:claim:006",
+            "titleZh": "政治志业需要责任伦理",
+            "claimZh": "韦伯认为政治家不能只凭纯粹信念行动，还必须承担权力手段和行动后果带来的伦理责任。",
+            "explanationZh": "这使其政治伦理既拒绝犬儒权术，也拒绝无后果意识的道德洁癖，保留悲剧性现实感。",
+            "themeIds": [
+              "politics",
+              "ethics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "weber:evidence:011",
+                "titleZh": "《以政治为业》定义国家暴力垄断",
+                "summaryZh": "演讲从国家对合法暴力的垄断出发，说明政治行动必然面对权力手段、组织纪律和责任问题。",
+                "source": {
+                  "workId": "weber-politics-vocation",
+                  "locator": "Politics as a Vocation, state and monopoly of legitimate violence",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "weber:evidence:012",
+                "titleZh": "责任伦理和信念伦理的张力",
+                "summaryZh": "文本区分信念伦理和责任伦理，主张成熟政治家必须在忠于目标的同时计算可预见后果，并承担权力行动的代价。",
+                "source": {
+                  "workId": "weber-politics-vocation",
+                  "locator": "Politics as a Vocation, ethics of conviction and responsibility",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "tier": "standard"
+}

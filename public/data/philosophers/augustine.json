@@ -5,9 +5,9 @@
     "en": "Augustine of Hippo"
   },
   "life": {
-    "display": "354—430",
     "birth": 354,
-    "death": 430
+    "death": 430,
+    "display": "354—430"
   },
   "civilization": "latin_christian",
   "traditions": [
@@ -31,12 +31,263 @@
   "reviewStatus": "draft",
   "summaryZh": "奥古斯丁是宗教、形而上学问题谱系中的第一版候选哲人。 本条目是第一版结构化资料，已经保留文明、传统、主题、作品和论述字段，正式发布前需要继续核对年代、文本出处和概念表述。",
   "works": [
-    "augustine-primary-work"
+    "augustine-confessions",
+    "augustine-free-will",
+    "augustine-city-of-god"
   ],
   "sourceNotes": [
     {
       "label": "draft",
       "noteZh": "条目需要人工核对作品、年代和概念表述。"
     }
-  ]
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "augustine:problem:001",
+        "titleZh": "恶、自由与恩典",
+        "questionZh": "如果上帝是善的，恶从何而来？人在意志上负责到什么程度，又为什么需要恩典？",
+        "summaryZh": "奥古斯丁拒绝把恶理解为与善同等的实体原则，而把恶解释为受造意志背离更高善后的秩序缺损；同时保留人的责任，并在皈依经验中显示意志需要恩典医治。",
+        "themeIds": [
+          "religion",
+          "ethics",
+          "metaphysics"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "augustine:claim:001",
+            "titleZh": "恶是意志背离善的缺失",
+            "claimZh": "奥古斯丁把恶理解为受造意志背离更高善所造成的秩序缺损，而不是与善同等并立的实体原则。",
+            "explanationZh": "这使他能够反驳摩尼教式的双元论，同时保留受造物本身作为善的秩序地位。",
+            "themeIds": [
+              "religion",
+              "ethics",
+              "metaphysics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "augustine:evidence:001",
+                "titleZh": "意志分裂的皈依叙事",
+                "summaryZh": "《忏悔录》第八卷描写意志在旧习和新愿望之间分裂，说明恶不是外在实体强迫，而是意志背离善后的内在撕裂。",
+                "source": {
+                  "workId": "augustine-confessions",
+                  "locator": "Confessions VIII.5-12 on divided will and conversion",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "augustine:evidence:002",
+                "titleZh": "自由意志中的自愿转离",
+                "summaryZh": "《论自由意志》把恶解释为意志从不可变善转向较低善的自愿运动，显示恶的根源在秩序错置而非独立本体。",
+                "source": {
+                  "workId": "augustine-free-will",
+                  "locator": "De libero arbitrio II.18-20 on evil and voluntary turning",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "augustine:claim:002",
+            "titleZh": "自由意志需要恩典医治",
+            "claimZh": "奥古斯丁认为人有意志责任，但堕落后的意志会陷入自我分裂，真正转向善需要恩典介入和内在更新。",
+            "explanationZh": "这不是简单否定自由，而是把自由解释为需要被医治和重新定向的能力。",
+            "themeIds": [
+              "religion",
+              "ethics",
+              "freedom"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "augustine:evidence:003",
+                "titleZh": "意志知道善仍可能不能实行",
+                "summaryZh": "《忏悔录》第八卷的皈依叙事显示，仅有知道善和想要善还不足够，意志需要被恩典推动才能完成转向。",
+                "source": {
+                  "workId": "augustine-confessions",
+                  "locator": "Confessions VIII.5-12 on divided will and conversion",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "augustine:evidence:004",
+                "titleZh": "责任与转离最高善",
+                "summaryZh": "《论自由意志》保留人的责任，同时把转离最高善视为可责的意志运动，为后来的恩典论张力奠定基础。",
+                "source": {
+                  "workId": "augustine-free-will",
+                  "locator": "De libero arbitrio II.18-20 on evil and voluntary turning",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "augustine:problem:002",
+        "titleZh": "内在性与时间",
+        "questionZh": "人如何在记忆、注意和期待中经验自己？时间为何首先成为心灵的问题？",
+        "summaryZh": "奥古斯丁通过记忆和时间分析开辟内在性维度。自我不是透明表面，时间也不是简单外在容器；过去、现在和未来通过记忆、注意与期待在心灵中被经验。",
+        "themeIds": [
+          "metaphysics",
+          "knowledge",
+          "religion"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "augustine:claim:003",
+            "titleZh": "内在记忆显露自我深度",
+            "claimZh": "奥古斯丁通过记忆分析发现自我并非透明表面，而是包含经验、欲望、遗忘与寻求上帝的深层内在空间。",
+            "explanationZh": "记忆不只是资料储藏，而是人认识自己、发现自身有限并转向上帝的场域。",
+            "themeIds": [
+              "knowledge",
+              "religion"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "augustine:evidence:005",
+                "titleZh": "记忆的广阔内室",
+                "summaryZh": "《忏悔录》第十卷把记忆描绘为广阔内室，其中保存感知、情感、技艺和自我寻求，开辟内在性分析。",
+                "source": {
+                  "workId": "augustine-confessions",
+                  "locator": "Confessions X.8-17 on memory as inner vastness",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "augustine:evidence:006",
+                "titleZh": "时间追问通向心灵分析",
+                "summaryZh": "《忏悔录》第十一卷对时间的追问表明，心灵在回忆、注意和期待中统一经验，内在分析成为时间问题入口。",
+                "source": {
+                  "workId": "augustine-confessions",
+                  "locator": "Confessions XI.14-28 on time and distentio animi",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "augustine:claim:004",
+            "titleZh": "时间作为心灵伸展被经验",
+            "claimZh": "奥古斯丁认为过去、现在和未来不是并列对象，时间主要在记忆、注意和期待的心灵伸展中被把握。",
+            "explanationZh": "这一命题把时间问题从宇宙容器转向经验结构，后来深刻影响内在时间意识问题。",
+            "themeIds": [
+              "metaphysics",
+              "knowledge"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "augustine:evidence:007",
+                "titleZh": "过去以记忆方式在场",
+                "summaryZh": "《忏悔录》第十卷的记忆讨论说明过去并非仍以外物方式存在，而是在心灵保存和重现中成为可反省内容。",
+                "source": {
+                  "workId": "augustine-confessions",
+                  "locator": "Confessions X.8-17 on memory as inner vastness",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "augustine:evidence:008",
+                "titleZh": "心灵伸展中的三重现在",
+                "summaryZh": "《忏悔录》第十一卷提出时间是心灵伸展，过去以记忆在场，未来以期待在场，现在则在注意中流逝。",
+                "source": {
+                  "workId": "augustine-confessions",
+                  "locator": "Confessions XI.14-28 on time and distentio animi",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "augustine:problem:003",
+        "titleZh": "历史与两座城",
+        "questionZh": "历史中的政治共同体如何与终极救赎区分？两座城为何由爱而不是疆域划分？",
+        "summaryZh": "奥古斯丁以两种爱解释历史共同体的深层分野。地上政治有维持和平的相对价值，但不能自称终极救赎；上帝之城与地上之城在历史中交错，却由不同终极爱塑形。",
+        "themeIds": [
+          "politics",
+          "religion",
+          "ethics"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "augustine:claim:005",
+            "titleZh": "两种爱构成两座城",
+            "claimZh": "奥古斯丁用爱上帝直到轻看自己、爱自己直到轻看上帝这两种爱，解释上帝之城与地上之城的根本分野。",
+            "explanationZh": "两座城不是简单地理共同体，而是由终极所爱塑造的历史共同体。",
+            "themeIds": [
+              "politics",
+              "religion",
+              "ethics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "augustine:evidence:009",
+                "titleZh": "两种爱的经典表述",
+                "summaryZh": "《上帝之城》第十四卷以两种爱说明两座城的生成：自爱走向支配，上帝之爱则重新安排人对自身和世界的秩序。",
+                "source": {
+                  "workId": "augustine-city-of-god",
+                  "locator": "De civitate Dei XIV.28 on two loves and two cities",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "augustine:evidence:010",
+                "titleZh": "两座城在历史中交错",
+                "summaryZh": "《上帝之城》第十九卷讨论和平层级，说明两座城在历史中交错共处，却以不同终极爱和不同和平目标区分。",
+                "source": {
+                  "workId": "augustine-city-of-god",
+                  "locator": "De civitate Dei XIX.13-17 on earthly peace",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "augustine:claim:006",
+            "titleZh": "地上和平有相对正当性",
+            "claimZh": "奥古斯丁不把政治共同体等同终极救赎，但承认地上和平可在受限秩序中约束冲突并服务暂时生活。",
+            "explanationZh": "这使奥古斯丁既能批判帝国的神圣化，也能承认政治秩序的有限功能。",
+            "themeIds": [
+              "politics",
+              "justice",
+              "religion"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "augustine:evidence:011",
+                "titleZh": "两种爱限制政治绝对化",
+                "summaryZh": "两种爱理论并不取消地上政治，而是提醒政治秩序会被不同的终极爱塑形，不能自称为最终救赎。",
+                "source": {
+                  "workId": "augustine-city-of-god",
+                  "locator": "De civitate Dei XIV.28 on two loves and two cities",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "augustine:evidence:012",
+                "titleZh": "地上和平的有限价值",
+                "summaryZh": "《上帝之城》第十九卷承认地上和平在有限生活中有价值，但这种和平仍需与终极正义和上帝之城区分。",
+                "source": {
+                  "workId": "augustine-city-of-god",
+                  "locator": "De civitate Dei XIX.13-17 on earthly peace",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "tier": "standard"
 }

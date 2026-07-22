@@ -1,0 +1,46 @@
+{
+  "id": "ibn-tufayl",
+  "tier": "seed",
+  "names": {
+    "zh": "伊本·图斐利",
+    "en": "Ibn Ṭufayl / Abubacer",
+    "native": "ابن طفيل"
+  },
+  "life": {
+    "birth": 1105,
+    "death": 1185,
+    "display": "约1105—1185"
+  },
+  "civilization": "islamic",
+  "traditions": [
+    "andalusian_falsafa",
+    "philosophical_fiction"
+  ],
+  "periods": [
+    "medieval"
+  ],
+  "themes": [
+    "knowledge",
+    "religion",
+    "metaphysics"
+  ],
+  "keywordsZh": [
+    "哈义·本·叶格赞",
+    "自然理性",
+    "哲学小说"
+  ],
+  "oneLineZh": "安达卢斯哲学家，以《哈义·本·叶格赞》叙述孤岛理性如何从自然观察上升到形而上学与宗教真理。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "伊本·图斐利（约1105—1185）是 Seed W7 伊斯兰文明 falsafa 补线候选。其身份层入选理由为：安达卢斯哲学家，以《哈义·本·叶格赞》叙述孤岛理性如何从自然观察上升到形而上学与宗教真理。本条仅作 seed 档基本定位，后续若升级标准档，必须重新做著作、论点与 evidence 研究。",
+  "works": [
+    "ibn-tufayl-hayy-ibn-yaqzan"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S004",
+      "url": "https://referenceworks.brill.com/display/entries/EI2/SIM-3408.xml",
+      "noteZh": "来源：Encyclopaedia of Islam / Ibn Ṭufayl；用于核验人物身份、生卒断代、哲学小说《哈义·本·叶格赞》和安达卢斯哲学定位。"
+    }
+  ]
+}

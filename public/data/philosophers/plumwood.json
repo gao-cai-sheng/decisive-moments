@@ -5,9 +5,9 @@
     "en": "Val Plumwood"
   },
   "life": {
-    "display": "1939—2008",
     "birth": 1939,
-    "death": 2008
+    "death": 2008,
+    "display": "1939—2008"
   },
   "civilization": "global_modern",
   "traditions": [
@@ -31,12 +31,260 @@
   "reviewStatus": "draft",
   "summaryZh": "普拉姆伍德是伦理、正义问题谱系中的第一版候选哲人。 本条目是第一版结构化资料，已经保留文明、传统、主题、作品和论述字段，正式发布前需要继续核对年代、文本出处和概念表述。",
   "works": [
-    "plumwood-primary-work"
+    "plumwood-feminism-mastery-nature",
+    "plumwood-environmental-culture",
+    "plumwood-being-prey",
+    "plumwood-eye-crocodile"
   ],
   "sourceNotes": [
     {
       "label": "draft",
       "noteZh": "条目需要人工核对作品、年代和概念表述。"
     }
-  ]
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "plumwood:problem:001",
+        "titleZh": "西方理性为何会把自然变成被支配者？",
+        "questionZh": "普拉姆伍德如何把生态危机同理性/自然、男性/女性等二元结构联系起来？",
+        "summaryZh": "普拉姆伍德认为生态危机根植于主奴式二元论：理性自我把自然、身体、女性和殖民他者放入低位，进而把支配伪装成文明进步。",
+        "themeIds": [
+          "ethics",
+          "justice",
+          "metaphysics"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "plumwood:claim:001",
+            "titleZh": "理性/自然二元论支撑支配逻辑",
+            "claimZh": "普拉姆伍德认为西方主流理性传统把理性主体同自然他者对立，形成正当化支配的概念结构。",
+            "explanationZh": "这种二元论不仅贬低自然，也把女性、身体、情感和殖民对象纳入同一被支配位置。",
+            "themeIds": [
+              "ethics",
+              "justice"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "plumwood:evidence:001",
+                "titleZh": "掌控自然中的二元论分析",
+                "summaryZh": "《女性主义与掌控自然》分析理性/自然、男性/女性等二元结构，说明它们共同支撑主奴式支配关系。",
+                "source": {
+                  "workId": "plumwood-feminism-mastery-nature",
+                  "locator": "Feminism and the Mastery of Nature on reason/nature dualism and mastery",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "plumwood:evidence:002",
+                "titleZh": "主奴模型与他者化",
+                "summaryZh": "《女性主义与掌控自然》把背景化、工具化和同质化列为支配逻辑，说明自然被构造成可用资源。",
+                "source": {
+                  "workId": "plumwood-feminism-mastery-nature",
+                  "locator": "Feminism and the Mastery of Nature on backgrounding, instrumentalism and homogenization",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "plumwood:claim:002",
+            "titleZh": "生态女性主义批判连接多重压迫",
+            "claimZh": "普拉姆伍德把生态破坏、性别支配和殖民支配放入同一批判框架，追问谁被建构为自然化他者。",
+            "explanationZh": "她的生态女性主义不是把女性本质化为自然，而是揭示不同压迫如何共享支配性的二元逻辑。",
+            "themeIds": [
+              "justice",
+              "ethics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "plumwood:evidence:003",
+                "titleZh": "女性主义与生态批判的交叉",
+                "summaryZh": "《女性主义与掌控自然》把女性主义理论用于生态危机分析，指出自然和女性都被排入理性主体外部。",
+                "source": {
+                  "workId": "plumwood-feminism-mastery-nature",
+                  "locator": "Feminism and the Mastery of Nature on ecofeminism and linked oppressions",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "plumwood:evidence:004",
+                "titleZh": "环境文化中的政治生态批判",
+                "summaryZh": "《环境文化》把现代经济、殖民和理性中心主义联系起来，要求生态政治同时处理社会正义问题。",
+                "source": {
+                  "workId": "plumwood-environmental-culture",
+                  "locator": "Environmental Culture on ecological crisis, colonialism and social justice",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "plumwood:problem:002",
+        "titleZh": "生态理性如何替代支配理性？",
+        "questionZh": "普拉姆伍德如何从相互依赖和生态嵌入性出发重构理性？",
+        "summaryZh": "普拉姆伍德并不反对理性本身，而是反对孤立、自足和工具化的支配理性。她提出生态理性，要求承认人类依赖自然共同体并承担互惠责任。",
+        "themeIds": [
+          "ethics",
+          "knowledge",
+          "freedom"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "plumwood:claim:003",
+            "titleZh": "理性应承认依赖而非否认依赖",
+            "claimZh": "普拉姆伍德主张生态理性必须承认人类对非人世界的依赖，反对把独立自足当成理性主体标志。",
+            "explanationZh": "承认依赖不是放弃自由，而是使自由摆脱幻想性的支配模型，转向关系化和负责任的行动。",
+            "themeIds": [
+              "ethics",
+              "freedom"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "plumwood:evidence:005",
+                "titleZh": "环境文化中的生态理性",
+                "summaryZh": "《环境文化》提出生态理性，强调人类判断必须承认对自然系统和非人生命的依赖，并据此重构责任。",
+                "source": {
+                  "workId": "plumwood-environmental-culture",
+                  "locator": "Environmental Culture on ecological rationality and human dependence on nature",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "plumwood:evidence:006",
+                "titleZh": "理性中心主义的局限",
+                "summaryZh": "《环境文化》批判把理性等同控制和计算的模式，说明这种理性无法理解生态互依和长期责任。",
+                "source": {
+                  "workId": "plumwood-environmental-culture",
+                  "locator": "Environmental Culture on critique of rationalism and instrumental reason",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "plumwood:claim:004",
+            "titleZh": "非人自然应被视为行动共同体成员",
+            "claimZh": "普拉姆伍德要求伦理和政治把非人生命视为具有能动性和相互关系的成员，而不是沉默背景。",
+            "explanationZh": "这种观点把环境伦理从保护资源推进到重建人类在生态共同体中的位置和责任。",
+            "themeIds": [
+              "ethics",
+              "justice"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "plumwood:evidence:007",
+                "titleZh": "反背景化的生态伦理",
+                "summaryZh": "《女性主义与掌控自然》批判把自然当作行动背景，要求承认非人世界对人类生活的主动贡献。",
+                "source": {
+                  "workId": "plumwood-feminism-mastery-nature",
+                  "locator": "Feminism and the Mastery of Nature on backgrounding of nature and agency",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "plumwood:evidence:008",
+                "titleZh": "环境文化中的多物种共同体",
+                "summaryZh": "《环境文化》主张环境政治必须超越人类中心主义，把非人生命纳入责任和共同居住的框架。",
+                "source": {
+                  "workId": "plumwood-environmental-culture",
+                  "locator": "Environmental Culture on more-than-human community and responsibility",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "plumwood:problem:003",
+        "titleZh": "被捕食经验如何打破人类例外主义？",
+        "questionZh": "普拉姆伍德如何用鳄鱼袭击经验重新思考人类、死亡和食物链？",
+        "summaryZh": "普拉姆伍德在被鳄鱼袭击后反思人类自以为超出食物链的幻想。她把脆弱、可被捕食和死亡纳入生态哲学，挑战人类例外主义。",
+        "themeIds": [
+          "life_death",
+          "ethics",
+          "metaphysics"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "plumwood:claim:005",
+            "titleZh": "人类也是可被捕食的身体",
+            "claimZh": "普拉姆伍德认为人类并不站在食物链之外，被捕食经验揭示人也是生态关系中的脆弱身体。",
+            "explanationZh": "这一经验打破了把人类设为自然外部观察者和管理者的想象，使死亡成为生态关系的一部分。",
+            "themeIds": [
+              "life_death",
+              "metaphysics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "plumwood:evidence:009",
+                "titleZh": "Being Prey 的被捕食叙事",
+                "summaryZh": "《成为猎物》回忆鳄鱼袭击经验，说明人类身体也会被非人动物作为食物和对象对待，从而打破例外主义。",
+                "source": {
+                  "workId": "plumwood-being-prey",
+                  "locator": "Being Prey on crocodile attack and human vulnerability",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "plumwood:evidence:010",
+                "titleZh": "鳄鱼之眼中的人类例外主义",
+                "summaryZh": "《鳄鱼之眼》把被捕食经验发展为反人类例外主义论证，要求重新理解人类在生态死亡循环中的位置。",
+                "source": {
+                  "workId": "plumwood-eye-crocodile",
+                  "locator": "The Eye of the Crocodile on human exceptionalism and ecological mortality",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "plumwood:claim:006",
+            "titleZh": "生态伦理必须面对死亡和食物关系",
+            "claimZh": "普拉姆伍德认为生态伦理不能只谈保护生命，也要面对吃与被吃、死亡循环和生命互相依存的现实。",
+            "explanationZh": "她把死亡经验转化为伦理资源，使生态责任建立在承认脆弱、依赖和互食关系之上。",
+            "themeIds": [
+              "ethics",
+              "life_death"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "plumwood:evidence:011",
+                "titleZh": "死亡循环与生态位置",
+                "summaryZh": "《鳄鱼之眼》讨论人类死亡如何回到生态循环，批判现代文化试图把人类死亡隔离在自然过程之外。",
+                "source": {
+                  "workId": "plumwood-eye-crocodile",
+                  "locator": "The Eye of the Crocodile on death, food chains and ecological embodiment",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "plumwood:evidence:012",
+                "titleZh": "生态文化中的生命互依",
+                "summaryZh": "《环境文化》把伦理责任建立在生态互依之上，说明人类生存始终依赖其他生命和自然过程。",
+                "source": {
+                  "workId": "plumwood-environmental-culture",
+                  "locator": "Environmental Culture on ecological interdependence and responsibility",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "tier": "standard"
 }

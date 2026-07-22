@@ -1,0 +1,44 @@
+{
+  "id": "li-ao",
+  "tier": "seed",
+  "names": {
+    "zh": "李翱",
+    "en": "Li Ao",
+    "native": "李翱"
+  },
+  "life": {
+    "birth": 772,
+    "death": 841,
+    "display": "772—841"
+  },
+  "civilization": "chinese",
+  "traditions": [
+    "confucianism"
+  ],
+  "periods": [
+    "tang"
+  ],
+  "themes": [
+    "ethics",
+    "metaphysics"
+  ],
+  "keywordsZh": [
+    "复性书",
+    "性命",
+    "唐代儒学"
+  ],
+  "oneLineZh": "唐代儒者，以《复性书》讨论性情和恢复本性。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "李翱，字习之，唐代儒者和古文家，受韩愈影响而又更集中讨论心性问题。《复性书》以恢复本性、节制情欲和圣人之道为中心，常被视为唐代儒学向宋代理学心性论过渡的重要文本。李翱虽篇幅不多，却将儒家道德实践推进到性命修养层面，成为道统复兴中的关键环节。",
+  "works": [
+    "li-ao-fuxing-shu"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S005",
+      "url": "https://ctext.org/wiki.pl?if=en&res=766900",
+      "noteZh": "以李翱《复性书》和《李文公集》支撑身份层。"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": "raymond-aron",
+  "tier": "seed",
+  "names": {
+    "zh": "雷蒙·阿隆",
+    "en": "Raymond Aron"
+  },
+  "life": {
+    "birth": 1905,
+    "death": 1983,
+    "display": "1905—1983"
+  },
+  "civilization": "western",
+  "traditions": [
+    "political_philosophy"
+  ],
+  "periods": [
+    "contemporary"
+  ],
+  "themes": [
+    "politics",
+    "freedom"
+  ],
+  "keywordsZh": [
+    "法国哲学",
+    "身份层",
+    "思想史补线"
+  ],
+  "oneLineZh": "自由主义政治哲学与历史哲学，接 weber/sartre。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "雷蒙·阿隆（1905—1983）是 Seed W3 法国近现代—现当代二线哲人候选。其身份层入选理由为：自由主义政治哲学与历史哲学，接 weber/sartre。 本条仅作 seed 档基本定位，后续若升级标准档，必须重新做著作、论点与 evidence 研究。",
+  "works": [
+    "raymond-aron-introduction-philosophy-history",
+    "raymond-aron-peace-and-war"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S001",
+      "url": "https://iep.utm.edu/aron/",
+      "noteZh": "权威来源条目：IEP: Raymond Aron；用于核验人物身份、生卒、代表著作和思想史定位。"
+    }
+  ]
+}

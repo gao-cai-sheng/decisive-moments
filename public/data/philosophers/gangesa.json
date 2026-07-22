@@ -1,0 +1,41 @@
+{
+  "id": "gangesa",
+  "tier": "seed",
+  "names": {
+    "zh": "甘吉沙",
+    "en": "Gaṅgeśa"
+  },
+  "life": {
+    "display": "约14世纪"
+  },
+  "civilization": "indian",
+  "traditions": [
+    "navya_nyaya"
+  ],
+  "periods": [
+    "medieval"
+  ],
+  "themes": [
+    "knowledge",
+    "language"
+  ],
+  "keywordsZh": [
+    "新正理",
+    "逻辑",
+    "知识论"
+  ],
+  "oneLineZh": "新正理派核心人物，以《真理宝珠》推进精密逻辑和知识论分析。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "甘吉沙是新正理派的关键人物，其逻辑和知识论分析代表印度后期哲学的一条高精度形式传统。本条仅作 seed 身份层定位。",
+  "works": [
+    "gangesa-tattvacintamani"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S003",
+      "url": "https://iep.utm.edu/navya-nyaya/",
+      "noteZh": "IEP Navya-Nyaya 条目用于核验甘吉沙与新正理派传统。"
+    }
+  ]
+}

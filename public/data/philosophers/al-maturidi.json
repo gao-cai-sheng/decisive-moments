@@ -1,0 +1,48 @@
+{
+  "id": "al-maturidi",
+  "tier": "seed",
+  "names": {
+    "zh": "马图里迪",
+    "en": "Abū Manṣūr al-Māturīdī",
+    "native": "أبو منصور الماتريدي"
+  },
+  "life": {
+    "birth": 853,
+    "death": 944,
+    "display": "约853—944"
+  },
+  "civilization": "islamic",
+  "traditions": [
+    "maturidiyya",
+    "hanafi",
+    "kalam"
+  ],
+  "periods": [
+    "medieval"
+  ],
+  "themes": [
+    "religion",
+    "knowledge",
+    "freedom"
+  ],
+  "keywordsZh": [
+    "马图里迪派",
+    "哈乃斐传统",
+    "理性认识"
+  ],
+  "oneLineZh": "马图里迪派奠基者，在哈乃斐语境中发展关于理性、启示和人类责任的逊尼教义学。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "马图里迪（约853—944）是 Seed W7 伊斯兰文明教义学试点候选。其身份层入选理由为：马图里迪派奠基者，在哈乃斐语境中发展关于理性、启示和人类责任的逊尼教义学。本条仅作 seed 档基本定位，后续若升级标准档，必须重新做著作、论点与 evidence 研究。",
+  "works": [
+    "al-maturidi-kitab-al-tawhid",
+    "al-maturidi-tawilat-al-quran"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S003",
+      "url": "https://referenceworks.brill.com/display/entries/EI2/SIM-4971.xml",
+      "noteZh": "来源：Encyclopaedia of Islam / al-Māturīdī；用于核验人物身份、生卒断代、马图里迪派教义学定位和代表著作。"
+    }
+  ]
+}

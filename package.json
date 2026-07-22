@@ -10,7 +10,11 @@
     "test": "vitest run --passWithNoTests",
     "test:watch": "vitest",
     "test:smoke": "playwright test",
-    "validate:data": "node tools/validate-data.mjs"
+    "sync:dist": "node tools/sync-dist-data.mjs",
+    "validate:data": "node tools/validate-data.mjs",
+    "validate:kimi": "node tools/validate-kimi-research.mjs",
+    "admit:kimi": "node tools/admit-kimi-thought-systems.mjs",
+    "kimi:queue": "node tools/kimi-person-queue.mjs"
   },
   "dependencies": {
     "@react-three/drei": "^10.7.7",

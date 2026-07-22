@@ -1,0 +1,293 @@
+{
+  "id": "shinran",
+  "names": {
+    "zh": "亲鸾",
+    "en": "Shinran"
+  },
+  "life": {
+    "birth": 1173,
+    "death": 1263,
+    "display": "1173—1263"
+  },
+  "civilization": "japanese",
+  "traditions": [
+    "pure_land_buddhism",
+    "jodo_shinshu",
+    "mahayana"
+  ],
+  "periods": [
+    "expansion_b3"
+  ],
+  "themes": [
+    "religion",
+    "freedom",
+    "life_death"
+  ],
+  "keywordsZh": [
+    "他力",
+    "信心",
+    "念佛",
+    "恶人正机",
+    "净土真宗"
+  ],
+  "oneLineZh": "以他力信心、念佛感恩和凡夫自觉重塑日本净土传统，奠定净土真宗。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "亲鸾把法然净土传统发展为强调阿弥陀本愿、信心与他力的宗教哲学，削弱自力修行的救度地位并扩大在家信众空间。",
+  "works": [
+    "shinran-kyogyoshinsho",
+    "shinran-tannisho",
+    "shinran-jodo-wasan",
+    "shinran-notes-faith-alone",
+    "shinran-lamp-latter-ages"
+  ],
+  "sourceNotes": [
+    {
+      "label": "Collected Works note",
+      "url": "https://shinranworks.com/the-major-expositions/chapter-on-shinjin/",
+      "noteZh": "以《教行信证》与亲鸾文集英译站为主要核对对象，兼顾《叹异抄》传统材料。"
+    }
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "shinran:problem:001",
+        "titleZh": "信心与他力",
+        "questionZh": "亲鸾为什么把信心视为阿弥陀本愿成就，而不是人的自力选择？",
+        "summaryZh": "亲鸾把救度核心从修行主体的能力转移到阿弥陀本愿所成就的信心，由此重写净土实践的主体结构。",
+        "themeIds": [
+          "religion",
+          "freedom"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "shinran:claim:001",
+            "titleZh": "真实信心不是自力功德",
+            "claimZh": "亲鸾认为真实信心由他力回向而成，凡夫不能把信心当作自己积累的宗教资本。",
+            "explanationZh": "这使信心既是救度的核心，又避免被重新解释为一种更精致的自力行为。",
+            "themeIds": [
+              "religion",
+              "freedom"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "shinran:evidence:001",
+                "titleZh": "《教行信证》信卷论真实信心",
+                "summaryZh": "信卷集中解释 shinjin，强调真实信心来自如来本愿回向，而不是凡夫主动制造的心理决定。",
+                "source": {
+                  "workId": "shinran-kyogyoshinsho",
+                  "locator": "Kyogyoshinsho, Chapter on Shinjin",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "shinran:evidence:002",
+                "titleZh": "《唯信钞文意》解释唯信",
+                "summaryZh": "亲鸾在解释唯信传统时，将信心、名号和本愿联系起来，避免把念佛理解为可计算的功德行为。",
+                "source": {
+                  "workId": "shinran-notes-faith-alone",
+                  "locator": "Notes on Essentials of Faith Alone, passages on true shinjin",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "shinran:claim:002",
+            "titleZh": "念佛是感恩而非交易",
+            "claimZh": "亲鸾把称名念佛解释为信心已经成就后的感恩表达，而不是换取往生的技术操作。",
+            "explanationZh": "这条主张区分了亲鸾与功德累积式净土理解，并解释其对自力执著的持续批判。",
+            "themeIds": [
+              "religion",
+              "ethics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "shinran:evidence:003",
+                "titleZh": "《教行信证》行卷论名号",
+                "summaryZh": "行卷通过名号与本愿的关系说明念佛实践的根基在如来功德回向，而非修行者自行生产功德。",
+                "source": {
+                  "workId": "shinran-kyogyoshinsho",
+                  "locator": "Kyogyoshinsho, Chapter on Practice",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "shinran:evidence:004",
+                "titleZh": "《叹异抄》辨析念佛异义",
+                "summaryZh": "《叹异抄》记录亲鸾传统中对念佛目的的纠偏，强调称名不应被理解为求取报偿的算计，而是信心后的表达。",
+                "source": {
+                  "workId": "shinran-tannisho",
+                  "locator": "Tannisho, chapters on nembutsu and gratitude",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "shinran:problem:002",
+        "titleZh": "恶人正机与凡夫自觉",
+        "questionZh": "亲鸾如何把罪恶、无力和救度可能联系起来，而不把恶行合理化？",
+        "summaryZh": "亲鸾的恶人正机不是道德纵容，而是通过凡夫无力的彻底自觉，拆除以善行自恃的宗教傲慢。",
+        "themeIds": [
+          "ethics",
+          "religion"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "shinran:claim:003",
+            "titleZh": "恶人正机揭示自力破产",
+            "claimZh": "亲鸾说恶人更成为本愿救度对象，意在指出凡夫无法凭自身善根完成解脱。",
+            "explanationZh": "这条主张的锋芒在于批判自我称义，而不是鼓励人主动选择恶行。",
+            "themeIds": [
+              "ethics",
+              "religion"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "shinran:evidence:005",
+                "titleZh": "《叹异抄》第三章恶人正机",
+                "summaryZh": "第三章以善人尚且往生、何况恶人的悖论表达，揭示本愿救度针对的是自力无望的凡夫，并非奖励恶行。",
+                "source": {
+                  "workId": "shinran-tannisho",
+                  "locator": "Tannisho, Chapter 3 on the evil person as object of the vow",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "shinran:evidence:006",
+                "titleZh": "《教行信证》化身土卷辨假方便",
+                "summaryZh": "化身土卷区分真实与方便净土路径，说明亲鸾并非取消伦理差别，而是在救度根据上否定自力自恃。",
+                "source": {
+                  "workId": "shinran-kyogyoshinsho",
+                  "locator": "Kyogyoshinsho, Chapter on Transformed Buddha-Bodies and Lands",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "shinran:claim:004",
+            "titleZh": "凡夫身份重塑宗教平等",
+            "claimZh": "亲鸾自称愚秃，削弱僧俗和圣凡等级对救度资格的垄断，使在家信众获得新的宗教位置。",
+            "explanationZh": "这解释了净土真宗为什么能发展出强烈的在家共同体传统，但仍以本愿信心而非个人资格为中心。",
+            "themeIds": [
+              "religion",
+              "justice"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "shinran:evidence:007",
+                "titleZh": "《末灯钞》中的晚年书信",
+                "summaryZh": "书信回应信众疑难时反复回到本愿与信心，显示亲鸾以凡夫共同处境而非僧侣身份组织教导。",
+                "source": {
+                  "workId": "shinran-lamp-latter-ages",
+                  "locator": "Lamp for the Latter Ages, letters on shinjin and ordinary people",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "shinran:evidence:008",
+                "titleZh": "《净土和赞》赞叹本愿普遍性",
+                "summaryZh": "和赞以通俗诗歌表达阿弥陀本愿对末法众生的开放性，使教义进入非精英信众的诵唱实践。",
+                "source": {
+                  "workId": "shinran-jodo-wasan",
+                  "locator": "Jodo Wasan, hymns praising Amida's vow",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "shinran:problem:003",
+        "titleZh": "净土谱系与末法处境",
+        "questionZh": "亲鸾如何通过经典和祖师谱系说明自己的净土解释不是私造新说？",
+        "summaryZh": "亲鸾用经论引证和七高僧谱系把自身立场嵌入大乘与净土传统，同时在末法处境中重新排列修行轻重。",
+        "themeIds": [
+          "religion",
+          "knowledge"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "shinran:claim:005",
+            "titleZh": "谱系引用为他力教义提供合法性",
+            "claimZh": "亲鸾大量引用经典和印度、中国、日本祖师，以证明他力信心是净土传统内部的延伸。",
+            "explanationZh": "这使其创新带有保守形式：他不宣称另立新启示，而是重新组织既有经论的权重。",
+            "themeIds": [
+              "religion",
+              "knowledge"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "shinran:evidence:009",
+                "titleZh": "《教行信证》系统汇编经论祖释",
+                "summaryZh": "全书通过大量引文排列净土教义的根据，把《无量寿经》、世亲和昙鸾传统纳入亲鸾体系。",
+                "source": {
+                  "workId": "shinran-kyogyoshinsho",
+                  "locator": "Kyogyoshinsho, collected scriptural and patriarchal citations across six chapters",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "shinran:evidence:010",
+                "titleZh": "《高僧和赞》赞颂七高僧谱系",
+                "summaryZh": "亲鸾以和赞形式叙述龙树、世亲、昙鸾、道绰、善导、源信和法然，建立自己的传承地图。",
+                "source": {
+                  "workId": "shinran-jodo-wasan",
+                  "locator": "Koso Wasan, hymns on the seven Pure Land masters",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "shinran:claim:006",
+            "titleZh": "末法意识改变修行优先级",
+            "claimZh": "亲鸾把末法凡夫的无力视为解释净土必要性的关键，由此把他力信心置于复杂修行体系之前。",
+            "explanationZh": "这并非否定佛教修行传统全部价值，而是判断末法处境中何者真正对应凡夫能力。",
+            "themeIds": [
+              "life_death",
+              "religion"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "shinran:evidence:011",
+                "titleZh": "《教行信证》信卷与证卷连接信和往生",
+                "summaryZh": "文本把信心与证果相连，显示末法凡夫的往生并不靠自力阶梯，而依本愿成就的转向和信心安立。",
+                "source": {
+                  "workId": "shinran-kyogyoshinsho",
+                  "locator": "Kyogyoshinsho, Chapters on Shinjin and Realization",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "shinran:evidence:012",
+                "titleZh": "《正像末和赞》表现末法判断",
+                "summaryZh": "和赞以三时教法语境表达末法众生处境，使他力救度成为对历史衰退感的宗教回应，并重排修行优先级。",
+                "source": {
+                  "workId": "shinran-jodo-wasan",
+                  "locator": "Shozomatsu Wasan, hymns on the three dharma ages",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "tier": "standard"
+}

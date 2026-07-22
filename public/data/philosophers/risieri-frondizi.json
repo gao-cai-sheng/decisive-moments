@@ -1,0 +1,46 @@
+{
+  "id": "risieri-frondizi",
+  "tier": "seed",
+  "names": {
+    "zh": "里西耶里·弗龙迪西",
+    "en": "Risieri Frondizi"
+  },
+  "life": {
+    "birth": 1910,
+    "death": 1985,
+    "display": "1910—1985"
+  },
+  "civilization": "latin_american",
+  "traditions": [
+    "value_theory",
+    "argentine_philosophy"
+  ],
+  "periods": [
+    "seed_w9"
+  ],
+  "themes": [
+    "ethics",
+    "knowledge",
+    "metaphysics"
+  ],
+  "keywordsZh": [
+    "价值论",
+    "自我理论",
+    "拉美学院哲学"
+  ],
+  "oneLineZh": "阿根廷价值论哲学家，以价值结构和自我理论进入20世纪拉美学院哲学谱系。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "弗龙迪西是20世纪拉美价值论和学院哲学的重要人物，讨论价值的客观性、情境性与主体经验。本批按规格将其作为 Scheler 价值论关联的唯一 seed 锚点。",
+  "works": [
+    "risieri-frondizi-what-is-value",
+    "risieri-frondizi-substancialidad-yo"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S005",
+      "url": "https://plato.stanford.edu/entries/scheler/",
+      "noteZh": "SEP Scheler 条目用于辅助核验 Scheler 价值论作为 Frondizi 关系锚点；Frondizi 身份层另据 IEP 拉美哲学分期核验。"
+    }
+  ]
+}

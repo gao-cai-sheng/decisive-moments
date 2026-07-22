@@ -1,0 +1,46 @@
+{
+  "id": "han-yu",
+  "tier": "seed",
+  "names": {
+    "zh": "韩愈",
+    "en": "Han Yu",
+    "native": "韓愈"
+  },
+  "life": {
+    "birth": 768,
+    "death": 824,
+    "display": "768—824"
+  },
+  "civilization": "chinese",
+  "traditions": [
+    "confucianism",
+    "tang_classical_prose"
+  ],
+  "periods": [
+    "tang"
+  ],
+  "themes": [
+    "ethics",
+    "politics"
+  ],
+  "keywordsZh": [
+    "原道",
+    "古文运动",
+    "排佛"
+  ],
+  "oneLineZh": "唐代儒家复兴和古文运动代表，以《原道》重申儒家道统。",
+  "influenceWeight": 3,
+  "reviewStatus": "draft",
+  "summaryZh": "韩愈，字退之，唐代文学家、思想家和政治官员，是古文运动与儒家复兴的核心人物。《原道》以尧舜禹汤文武周公孔孟构造道统，批评佛老脱离伦常政治；《师说》等文章则强调传道授业和士人责任。韩愈的思想为宋代理学道统论提供先声，也代表唐代儒者对佛教优势地位的强烈反击。",
+  "works": [
+    "han-yu-yuandao",
+    "han-yu-shishuo"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S004",
+      "url": "https://ctext.org/wiki.pl?if=en&res=766856",
+      "noteZh": "以韩愈《原道》《师说》和《韩昌黎集》支撑身份层。"
+    }
+  ]
+}

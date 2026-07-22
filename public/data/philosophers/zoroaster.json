@@ -1,0 +1,374 @@
+{
+  "id": "zoroaster",
+  "tier": "standard",
+  "names": {
+    "zh": "琐罗亚斯德（查拉图斯特拉）",
+    "en": "Zoroaster",
+    "native": "Zaraθuštra"
+  },
+  "life": {
+    "birth": -1000,
+    "display": "约前1000（断代争议，另有前600等说）"
+  },
+  "civilization": "persian",
+  "traditions": [
+    "zoroastrianism",
+    "ancient_iranian_religion"
+  ],
+  "periods": [
+    "seed_w10",
+    "pre_islamic_persian"
+  ],
+  "themes": [
+    "metaphysics",
+    "ethics",
+    "freedom",
+    "justice",
+    "life_death",
+    "religion"
+  ],
+  "keywordsZh": [
+    "阿胡拉·马兹达",
+    "善恶二元",
+    "阿沙",
+    "伽萨"
+  ],
+  "oneLineZh": "古伊朗先知与祆教传统核心人物，以善恶抉择、真理秩序和末世审判构成前伊斯兰波斯思想源头。",
+  "influenceWeight": 3,
+  "reviewStatus": "draft",
+  "summaryZh": "琐罗亚斯德作为古伊朗先知，其历史年代和《伽萨》作者归属均有争议；本标准档只把思想系统绑定到《亚斯纳》古阿维斯陀语《伽萨》的可归属核心层。其思想史意义在于以阿胡拉·马兹达、阿沙真理秩序、善思、自由抉择和末后报应，组织出前伊斯兰波斯宗教哲学中最具影响力的善恶二元框架。",
+  "works": [
+    "zoroaster-gathas"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S001",
+      "url": "https://iranicaonline.org/articles/zoroaster-index",
+      "noteZh": "Encyclopaedia Iranica Zoroaster 条目用于核验其古伊朗先知身份与祆教传统核心位置；断代仍有前1000至前600等不同学说，本批采约前1000为生产口径并保留断代争议。"
+    },
+    {
+      "label": "S002",
+      "url": "https://iranicaonline.org/articles/gathas",
+      "noteZh": "Encyclopaedia Iranica Gathas 条目用于核验《伽萨》作为《亚斯纳》核心、古阿维斯陀语十七首颂诗的文本性质；《伽萨》作者归属学界亦有争议，本批按可部分归属处理，且不把整部《阿维斯陀》归于 Zoroaster。"
+    }
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "zoroaster:problem:001",
+        "titleZh": "善恶二元如何进入世界解释？",
+        "questionZh": "在古伊朗祭祀和神祇传统中，琐罗亚斯德怎样把世界理解为真理秩序与谎言势力的根本对立？",
+        "summaryZh": "《伽萨》把善恶对立压缩到两种精神、两种选择和两种结局上：阿胡拉·马兹达与阿沙、善思相连，谎言与恶思则表现为破坏生命秩序的方向。",
+        "themeIds": [
+          "metaphysics",
+          "religion",
+          "ethics"
+        ],
+        "weight": 3,
+        "sourceIds": [
+          "S002",
+          "S003",
+          "S004"
+        ],
+        "claims": [
+          {
+            "id": "zoroaster:claim:001",
+            "titleZh": "世界冲突来自两种原初取向的分裂",
+            "claimZh": "琐罗亚斯德把善恶看作从思想、言语和行动层面展开的根本分岔，而不是单纯的部族敌对或仪式禁忌。",
+            "explanationZh": "这种二元论先把善恶定位为可辨认的精神方向，再把人的选择、社会秩序和末后报应安放在同一条轴线上。",
+            "themeIds": [
+              "metaphysics",
+              "ethics",
+              "religion"
+            ],
+            "weight": 3,
+            "sourceIds": [
+              "S003",
+              "S004"
+            ],
+            "evidence": [
+              {
+                "id": "zoroaster:evidence:001",
+                "titleZh": "两种原初精神在思想言行上相互分离",
+                "summaryZh": "Yasna 30.3 将两种原初精神描述为在思想、言语和行动中显现为更好与更坏的分岔，智慧者选择正确方向，愚者则不能作出同样判断。",
+                "sourceIds": [
+                  "S003"
+                ],
+                "source": {
+                  "workId": "zoroaster-gathas",
+                  "locator": "Yasna 30.3",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "zoroaster:evidence:002",
+                "titleZh": "两种精神的意志、教导和行为不相一致",
+                "summaryZh": "Yasna 45.2 以宣告形式重述两种精神最初相对而立，强调二者在思想、教导、意志、信念、言辞、行动和灵魂上都不相同。",
+                "sourceIds": [
+                  "S003"
+                ],
+                "source": {
+                  "workId": "zoroaster-gathas",
+                  "locator": "Yasna 45.2",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "zoroaster:claim:002",
+            "titleZh": "善的根基由 Mazda、Asha 与 Good Thought 共同说明",
+            "claimZh": "琐罗亚斯德并不把善仅当作抽象道德名词，而是把阿胡拉·马兹达、阿沙和善思连接成世界秩序的创生与判断原则。",
+            "explanationZh": "善的方向既是宇宙论秩序，也是认知与实践的方向；人理解阿沙、实行善思，才可能与马兹达的支配相一致。",
+            "themeIds": [
+              "metaphysics",
+              "knowledge",
+              "religion"
+            ],
+            "weight": 2,
+            "sourceIds": [
+              "S003",
+              "S004"
+            ],
+            "evidence": [
+              {
+                "id": "zoroaster:evidence:003",
+                "titleZh": "Mazda 以智慧创立光明领域和阿沙",
+                "summaryZh": "Yasna 31.7-8 把马兹达称为最初与最后，并说其以智慧设立光明领域、创造阿沙，同时作为善思之父和生命行动的审判主。",
+                "sourceIds": [
+                  "S003"
+                ],
+                "source": {
+                  "workId": "zoroaster-gathas",
+                  "locator": "Yasna 31.7-8",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "zoroaster:evidence:004",
+                "titleZh": "圣善精神通过言语、手工和虔敬完成善业",
+                "summaryZh": "Yasna 47.1-2 把圣善精神、最佳思想、合乎阿沙的言行、支配和虔敬放在一起，显示善不是孤立情绪，而是贯通知识与行动的秩序。",
+                "sourceIds": [
+                  "S003"
+                ],
+                "source": {
+                  "workId": "zoroaster-gathas",
+                  "locator": "Yasna 47.1-2",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "zoroaster:problem:002",
+        "titleZh": "人在宇宙二元中是否仍有选择？",
+        "questionZh": "若善恶力量已经根本对立，琐罗亚斯德如何保留个人判断、自由选择和责任归属？",
+        "summaryZh": "《伽萨》的关键不只是宣告善恶对立，而是要求每个人以清明思想选择道路；选择会塑造自我，并在今生和末后结局中承担后果。",
+        "themeIds": [
+          "freedom",
+          "ethics",
+          "life_death"
+        ],
+        "weight": 3,
+        "sourceIds": [
+          "S003",
+          "S004"
+        ],
+        "claims": [
+          {
+            "id": "zoroaster:claim:003",
+            "titleZh": "每个人必须亲自辨认两种道路",
+            "claimZh": "琐罗亚斯德把宗教决定放在人自身的听闻、思考和选择中，要求个体在两种信念之间作出清醒判断。",
+            "explanationZh": "这种选择不是被动接受部族传统，而是以耳听、心辨和理智判断进入道德宇宙；因此责任不能完全转嫁给神祇或命运。",
+            "themeIds": [
+              "freedom",
+              "ethics",
+              "knowledge"
+            ],
+            "weight": 3,
+            "sourceIds": [
+              "S003"
+            ],
+            "evidence": [
+              {
+                "id": "zoroaster:evidence:005",
+                "titleZh": "听闻并以清明思想决定两种信念",
+                "summaryZh": "Yasna 30.2 要求听众用耳朵听取最好的事物，并以清楚看见的思想在两种信念之间作决定，而且强调每个人要为自己选择。",
+                "sourceIds": [
+                  "S003"
+                ],
+                "source": {
+                  "workId": "zoroaster-gathas",
+                  "locator": "Yasna 30.2",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "zoroaster:evidence:006",
+                "titleZh": "身体生命被赋予后可依自由意志行使信念",
+                "summaryZh": "Yasna 31.11 说明马兹达创造个体、理解能力和具身生命，并赋予行动与教导，使人能够按照自己的自由意志实践信念。",
+                "sourceIds": [
+                  "S003"
+                ],
+                "source": {
+                  "workId": "zoroaster-gathas",
+                  "locator": "Yasna 31.11",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "zoroaster:claim:004",
+            "titleZh": "选择的结果以报应和归宿形式落实",
+            "claimZh": "琐罗亚斯德把自由选择和末后报应相连：跟随阿沙者获得善的居所，追随谎言者则承受黑暗与痛苦。",
+            "explanationZh": "责任在此不是抽象劝善，而是有宇宙论后果的方向选择；人的行动会把自己带向善思、阿沙和马兹达，或带向谎言的结局。",
+            "themeIds": [
+              "ethics",
+              "life_death",
+              "justice"
+            ],
+            "weight": 2,
+            "sourceIds": [
+              "S003"
+            ],
+            "evidence": [
+              {
+                "id": "zoroaster:evidence:007",
+                "titleZh": "谎言世界失去喜乐而正直者进入善思居所",
+                "summaryZh": "Yasna 30.10-11 将追随谎言者的长期惩罚与追随阿沙者的祝福并置，说明选择善恶不是短暂态度，而通向不同终局。",
+                "sourceIds": [
+                  "S003"
+                ],
+                "source": {
+                  "workId": "zoroaster-gathas",
+                  "locator": "Yasna 30.10-11",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "zoroaster:evidence:008",
+                "titleZh": "红火与熔金意象区分谎言者和正直者",
+                "summaryZh": "Yasna 51.8-9 以两方的报偿、红火和熔金意象说明，谎言者将遭毁坏，正直者获得祝福，末后审判显明各自选择。",
+                "sourceIds": [
+                  "S003"
+                ],
+                "source": {
+                  "workId": "zoroaster-gathas",
+                  "locator": "Yasna 51.8-9",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "zoroaster:problem:003",
+        "titleZh": "阿沙如何从宇宙秩序落到社会生活？",
+        "questionZh": "琐罗亚斯德怎样把真理秩序、善思和支配权转化为对共同体、畜群和正当统治的要求？",
+        "summaryZh": "《伽萨》的阿沙并非只在天界成立，它要求保护弱者、照料畜群、抵抗暴力和谎言，并用善思塑造能够让生活繁荣的支配方式。",
+        "themeIds": [
+          "justice",
+          "politics",
+          "ethics"
+        ],
+        "weight": 2,
+        "sourceIds": [
+          "S003",
+          "S004"
+        ],
+        "claims": [
+          {
+            "id": "zoroaster:claim:005",
+            "titleZh": "正当秩序首先表现为保护生命免受暴力",
+            "claimZh": "琐罗亚斯德把阿沙的社会意义放在保护畜群、农牧生活和弱者免受抢掠暴力上，而不是仅仅维护祭司特权。",
+            "explanationZh": "牛魂的哀诉和对守护者的寻找，使阿沙成为一种具体的生活秩序：谁能照料生命、抵抗谎言和暴力，谁才有正当性。",
+            "themeIds": [
+              "justice",
+              "ethics",
+              "politics"
+            ],
+            "weight": 3,
+            "sourceIds": [
+              "S003"
+            ],
+            "evidence": [
+              {
+                "id": "zoroaster:evidence:009",
+                "titleZh": "牛魂控诉暴力抢掠并寻求牧者",
+                "summaryZh": "Yasna 29.1-2 以牛魂受暴力、抢掠和强力压迫的哀诉开篇，问题集中在谁能按阿沙为生命指定守护者和照料者。",
+                "sourceIds": [
+                  "S003"
+                ],
+                "source": {
+                  "workId": "zoroaster-gathas",
+                  "locator": "Yasna 29.1-2",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "zoroaster:evidence:010",
+                "titleZh": "Zarathushtra 被指认为传达 Mazda 与 Asha 思想者",
+                "summaryZh": "Yasna 29.7-8 把琐罗亚斯德呈现为听见命令并愿意传达马兹达与阿沙思想的人，牛魂问题因此转为宗教使命与社会保护相连。",
+                "sourceIds": [
+                  "S003"
+                ],
+                "source": {
+                  "workId": "zoroaster-gathas",
+                  "locator": "Yasna 29.7-8",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "zoroaster:claim:006",
+            "titleZh": "善的统治依赖阿沙而非强力扩张",
+            "claimZh": "琐罗亚斯德把家、地区和土地的支配权交给阿沙检验：能通过善思增进生活者才接近马兹达式的统治。",
+            "explanationZh": "统治在这里不是裸露武力，而是让共同体按照阿沙繁荣的能力；谎言追随者的言辞和命令会摧毁家族、地区和土地。",
+            "themeIds": [
+              "politics",
+              "justice",
+              "ethics"
+            ],
+            "weight": 2,
+            "sourceIds": [
+              "S003"
+            ],
+            "evidence": [
+              {
+                "id": "zoroaster:evidence:011",
+                "titleZh": "推进家、区和土地的支配必须通过阿沙",
+                "summaryZh": "Yasna 31.16-17 询问理解者若通过阿沙推进家、地区或土地的支配，是否能变得像马兹达，并要求智者分辨阿沙与谎言的信念。",
+                "sourceIds": [
+                  "S003"
+                ],
+                "source": {
+                  "workId": "zoroaster-gathas",
+                  "locator": "Yasna 31.16-17",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "zoroaster:evidence:012",
+                "titleZh": "谎言追随者的命令会毁坏共同体",
+                "summaryZh": "Yasna 31.18-19 警告不要听从谎言追随者的言辞和命令，因为它们会把家、氏族、地区和土地带入悲惨和毁坏。",
+                "sourceIds": [
+                  "S003"
+                ],
+                "source": {
+                  "workId": "zoroaster-gathas",
+                  "locator": "Yasna 31.18-19",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

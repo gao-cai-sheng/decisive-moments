@@ -1,0 +1,293 @@
+{
+  "id": "simone-weil",
+  "names": {
+    "zh": "西蒙娜·薇依",
+    "en": "Simone Weil"
+  },
+  "life": {
+    "birth": 1909,
+    "death": 1943,
+    "display": "1909—1943"
+  },
+  "civilization": "french",
+  "traditions": [
+    "christian_mysticism",
+    "political_philosophy",
+    "ethics"
+  ],
+  "periods": [
+    "expansion_b4"
+  ],
+  "themes": [
+    "ethics",
+    "religion",
+    "justice"
+  ],
+  "keywordsZh": [
+    "注意力",
+    "苦难",
+    "重力与恩典",
+    "根",
+    "义务"
+  ],
+  "oneLineZh": "以注意力、苦难、力量、义务和扎根思想连接神秘主义、伦理学与现代政治批判。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "西蒙娜·薇依把劳动经验、战争暴力和基督教神秘主义结合起来，形成围绕注意力、苦难、去创造、义务和扎根的独特思想。",
+  "works": [
+    "simone-weil-waiting-for-god",
+    "simone-weil-gravity-and-grace",
+    "simone-weil-need-for-roots",
+    "simone-weil-iliad-force",
+    "simone-weil-oppression-liberty"
+  ],
+  "sourceNotes": [
+    {
+      "label": "Primary corpus note",
+      "url": "https://iep.utm.edu/simone-weil/",
+      "noteZh": "二手条目仅辅助核对作品群和主题；evidence 摘要不以条目概述代替原文本内容。"
+    }
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "simone-weil:problem:001",
+        "titleZh": "注意力、去创造与恩典",
+        "questionZh": "薇依如何把注意力理解为伦理和宗教生活的核心形式？",
+        "summaryZh": "薇依把注意力视为自我退让、向真实开放和接受恩典的训练，使认识、爱和祈祷在同一精神姿态中相连。",
+        "themeIds": [
+          "religion",
+          "ethics"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "simone-weil:claim:001",
+            "titleZh": "注意力是自我退让的爱",
+            "claimZh": "薇依认为真正的注意力不是紧张占有对象，而是让自我沉默，使受苦者和真理能够显现。",
+            "explanationZh": "这使她的认识论具有伦理和宗教维度：看见真实需要放弃自我中心，而不仅是提高智力能力。",
+            "themeIds": [
+              "ethics",
+              "religion"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "simone-weil:evidence:001",
+                "titleZh": "《等待上帝》论学校练习与注意力",
+                "summaryZh": "论文把学习和祈祷相连，说明注意力训练的目的不是成绩，而是形成等待真理和他人痛苦显现的空位。",
+                "source": {
+                  "workId": "simone-weil-waiting-for-god",
+                  "locator": "Essay on school studies and the love of God",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "simone-weil:evidence:002",
+                "titleZh": "《等待上帝》中的邻人之爱",
+                "summaryZh": "文本把对不幸者的真实观看解释为爱，强调帮助者必须暂时悬置自我投射，才能让受苦者作为人出现。",
+                "source": {
+                  "workId": "simone-weil-waiting-for-god",
+                  "locator": "Essay on forms of the implicit love of God",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "simone-weil:claim:002",
+            "titleZh": "去创造打开恩典空间",
+            "claimZh": "薇依用去创造描述自我从世界中心退下，使人能够接受不由意志制造的恩典。",
+            "explanationZh": "这条主张使她不同于单纯意志伦理：善不是强力自我完成，而是通过自我撤回为神圣真实让位。",
+            "themeIds": [
+              "religion",
+              "freedom"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "simone-weil:evidence:003",
+                "titleZh": "《重力与恩典》论去创造",
+                "summaryZh": "笔记把去创造写成自我撤除的精神行动，人不再把自身当作存在中心，才可能让恩典进入有限生命。",
+                "source": {
+                  "workId": "simone-weil-gravity-and-grace",
+                  "locator": "Notes under creation, decreation, and grace",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "simone-weil:evidence:004",
+                "titleZh": "《重力与恩典》区分重力和恩典",
+                "summaryZh": "文本把重力描述为自然和社会机制中的下坠力量，恩典则不是意志制造物，而是在自我空出位置时显现。",
+                "source": {
+                  "workId": "simone-weil-gravity-and-grace",
+                  "locator": "Notes under gravity and grace",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "simone-weil:problem:002",
+        "titleZh": "力量、义务与公共正义",
+        "questionZh": "薇依如何从现代公共危机和国家经验中重新思考正义？",
+        "summaryZh": "薇依把力量理解为使人对象化的机制，并以义务优先和灵魂需要批判现代权利语言、国家机器和失根社会。",
+        "themeIds": [
+          "justice",
+          "politics"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "simone-weil:claim:003",
+            "titleZh": "力量会使人对象化",
+            "claimZh": "薇依在《伊利亚特》中把力量解释为支配双方的机制，它会削弱人的言说、选择和相互承认。",
+            "explanationZh": "这使她的政治批判不止于立场表态，而是揭示强制结构如何同时改变行动者和承受者。",
+            "themeIds": [
+              "politics",
+              "justice"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "simone-weil:evidence:005",
+                "titleZh": "《伊利亚特，或力量之诗》定义力量",
+                "summaryZh": "文章以荷马史诗中的战场、俘获和荣誉场景说明力量如何把人降为被支配对象，破坏人的言说与选择能力。",
+                "source": {
+                  "workId": "simone-weil-iliad-force",
+                  "locator": "Opening definition and examples of force in the Iliad",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "simone-weil:evidence:006",
+                "titleZh": "《压迫与自由》分析组织机器",
+                "summaryZh": "政治论文指出现代组织机器可能复制支配逻辑，真正自由不能只靠更换掌控者，而要改变劳动和权力结构。",
+                "source": {
+                  "workId": "simone-weil-oppression-liberty",
+                  "locator": "Essays on oppression, organization, and liberty",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "simone-weil:claim:004",
+            "titleZh": "义务先于权利",
+            "claimZh": "薇依把对人的义务置于权利之前，认为公共秩序必须先承认灵魂和身体的基本需要。",
+            "explanationZh": "这条主张使她的正义论既反对抽象权利口号，也反对只按国家利益组织人的生活。",
+            "themeIds": [
+              "justice",
+              "ethics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "simone-weil:evidence:007",
+                "titleZh": "《扎根》开篇论义务优先",
+                "summaryZh": "文本从义务而非权利出发，说明人在被要求之前已经对他人负有不可取消的照护责任，这是政治正义的基础。",
+                "source": {
+                  "workId": "simone-weil-need-for-roots",
+                  "locator": "Opening section on obligations and needs of the soul",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "simone-weil:evidence:008",
+                "titleZh": "《扎根》论失根的政治伤害",
+                "summaryZh": "书中把失根描述为现代社会最危险的疾病之一，说明工厂、殖民和国家动员会切断人同地方、工作和传统的关系。",
+                "source": {
+                  "workId": "simone-weil-need-for-roots",
+                  "locator": "Sections on uprootedness in workers and colonized peoples",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "simone-weil:problem:003",
+        "titleZh": "苦难、扎根与劳动经验",
+        "questionZh": "薇依如何把亲身劳动和苦难经验转化为哲学与神学问题？",
+        "summaryZh": "薇依的工厂经验和苦难思想使她拒绝从抽象主体出发，而从被支配者身体、沉默和灵魂需要理解现代世界。",
+        "themeIds": [
+          "life_death",
+          "ethics"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "simone-weil:claim:005",
+            "titleZh": "苦难揭示自我掌控的破产",
+            "claimZh": "薇依把极端不幸理解为击碎社会身份和意志自信的经验，迫使思想面对人无法自足的处境。",
+            "explanationZh": "这不是赞美痛苦，而是说明苦难如何暴露人对力量、荣誉和自我控制的幻想。",
+            "themeIds": [
+              "life_death",
+              "religion"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "simone-weil:evidence:009",
+                "titleZh": "《等待上帝》论 affliction",
+                "summaryZh": "书信和论文把极端不幸写成身体痛苦、社会降格和灵魂撕裂的结合，说明它不同于一般悲伤或可管理挫折。",
+                "source": {
+                  "workId": "simone-weil-waiting-for-god",
+                  "locator": "Letters and essays on affliction and love of God",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "simone-weil:evidence:010",
+                "titleZh": "《重力与恩典》把痛苦连到真理",
+                "summaryZh": "笔记反复把痛苦、必然性和真实相连，强调人在不能支配处境时才可能看见自我幻想的瓦解。",
+                "source": {
+                  "workId": "simone-weil-gravity-and-grace",
+                  "locator": "Notes on affliction, necessity, and truth",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "simone-weil:claim:006",
+            "titleZh": "扎根是灵魂的政治需要",
+            "claimZh": "薇依认为人需要同地方、传统、劳动和共同义务相连，失根会破坏判断力和公共责任。",
+            "explanationZh": "这条主张把她的神秘伦理转化为制度问题：现代社会必须保护人的精神归属而非只分配资源。",
+            "themeIds": [
+              "politics",
+              "ethics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "simone-weil:evidence:011",
+                "titleZh": "《扎根》列举灵魂需要",
+                "summaryZh": "文本把秩序、自由、服从、责任、平等和荣誉等列为灵魂需要，说明政治秩序必须回应人不只是经济动物。",
+                "source": {
+                  "workId": "simone-weil-need-for-roots",
+                  "locator": "The needs of the soul section",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "simone-weil:evidence:012",
+                "titleZh": "《压迫与自由》中的劳动经验",
+                "summaryZh": "论文从工厂劳动和机器节奏分析支配关系，显示失去工作意义和判断空间会损伤人的自由能力。",
+                "source": {
+                  "workId": "simone-weil-oppression-liberty",
+                  "locator": "Factory and labor essays on oppression",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "tier": "standard"
+}

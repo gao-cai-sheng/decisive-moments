@@ -1,0 +1,45 @@
+{
+  "id": "guan-zhong",
+  "tier": "seed",
+  "names": {
+    "zh": "管仲",
+    "en": "Guan Zhong",
+    "native": "管仲"
+  },
+  "life": {
+    "birth": -720,
+    "death": -645,
+    "display": "约前720—前645"
+  },
+  "civilization": "chinese",
+  "traditions": [
+    "legalism",
+    "confucian_political_thought"
+  ],
+  "periods": [
+    "spring_autumn"
+  ],
+  "themes": [
+    "politics",
+    "justice"
+  ],
+  "keywordsZh": [
+    "齐桓公",
+    "霸政",
+    "管子"
+  ],
+  "oneLineZh": "春秋齐国政治家，传统上被视为富国强兵和制度治理先驱。",
+  "influenceWeight": 3,
+  "reviewStatus": "draft",
+  "summaryZh": "管仲，名夷吾，春秋齐国政治家，辅佐齐桓公成就霸业。《史记·管晏列传》强调其整顿财政、军政和礼俗秩序的能力。传世《管子》虽为后世汇编，却以管仲为名汇聚法、术、经济、黄老和霸政思想，使其成为中国政治思想中从贵族礼制转向制度治理的早期象征。",
+  "works": [
+    "guan-zhong-guanzi"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S015",
+      "url": "https://ctext.org/guanzi",
+      "noteZh": "以《管子》和《史记·管晏列传》支撑管仲身份、政治地位与作品传统。"
+    }
+  ]
+}

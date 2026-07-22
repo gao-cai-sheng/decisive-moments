@@ -5,9 +5,9 @@
     "en": "Aristotle"
   },
   "life": {
-    "display": "前 384—前 322",
     "birth": -384,
-    "death": -322
+    "death": -322,
+    "display": "前 384—前 322"
   },
   "civilization": "ancient_greek",
   "traditions": [
@@ -38,5 +38,250 @@
       "label": "draft",
       "noteZh": "条目需要人工核对作品、年代和概念表述。"
     }
-  ]
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "aristotle:problem:001",
+        "titleZh": "实体、形式和四因如何解释事物？",
+        "questionZh": "亚里士多德为什么认为理解一个事物，必须说明它是什么、由什么构成、如何生成以及为了什么而存在？",
+        "summaryZh": "亚里士多德反对只用单一物质或外部推动解释世界。他以实体、形式、质料、潜能现实和四因论构造多层解释，使自然、生命和行动都能被追问其结构与目的。",
+        "themeIds": [
+          "metaphysics",
+          "knowledge"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "aristotle:claim:001",
+            "titleZh": "实体和形式回答事物是什么",
+            "claimZh": "亚里士多德把实体问题置于形而上学中心，并用形式与质料的关系解释具体事物是什么。",
+            "explanationZh": "形式不是外在标签，而是使某物成为此物的结构原则；质料则是承载这种形式并使变化成为可能的条件。",
+            "themeIds": [
+              "metaphysics",
+              "knowledge"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "aristotle:evidence:001",
+                "titleZh": "《形而上学》Z 卷集中讨论实体",
+                "summaryZh": "《形而上学》Z 卷将实体作为首要存在者来分析，并在形式、质料和复合体之间区分实体意义。",
+                "source": {
+                  "workId": "aristotle-primary-work",
+                  "locator": "Metaphysics Zeta, especially 1028b-1032a on substance, form and matter",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "aristotle:evidence:002",
+                "titleZh": "《范畴篇》提供实体的早期语义框架",
+                "summaryZh": "《范畴篇》区分第一实体和第二实体，为后来实体问题提供术语和逻辑背景，并固定对象分类框架。",
+                "source": {
+                  "workId": "aristotle-primary-work",
+                  "locator": "Categories 5, 2a11-4b19 on primary and secondary substance",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "aristotle:claim:002",
+            "titleZh": "四因论给出多层解释结构",
+            "claimZh": "亚里士多德认为完整解释一个事物需要质料因、形式因、动力因和目的因，而不是只找一个外部原因。",
+            "explanationZh": "四因论使自然哲学、生命研究和人工制作都能被比较解释。它强调“为什么”有多个层次，目的和形式也是解释的一部分。",
+            "themeIds": [
+              "metaphysics",
+              "knowledge"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "aristotle:evidence:003",
+                "titleZh": "《物理学》II 卷系统说明四因",
+                "summaryZh": "《物理学》II 卷把原因分为质料、形式、运动来源和目的，并以自然物和人工物说明不同解释层次。",
+                "source": {
+                  "workId": "aristotle-primary-work",
+                  "locator": "Physics II.3, 194b16-195b30 on the four causes",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "aristotle:evidence:004",
+                "titleZh": "《论灵魂》用形式解释生命体",
+                "summaryZh": "《论灵魂》把灵魂定义为有生命自然体的形式或第一现实，显示形式因在生命解释中的作用。",
+                "source": {
+                  "workId": "aristotle-primary-work",
+                  "locator": "De Anima II.1, 412a-413a on soul as form and actuality of a living body",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "aristotle:problem:002",
+        "titleZh": "幸福和德性如何构成伦理学？",
+        "questionZh": "亚里士多德为什么把幸福理解为合乎德性的理性活动，并强调德性、中道、实践智慧和习惯养成？",
+        "summaryZh": "亚里士多德的伦理学以人的最高善为目标。幸福不是情绪或外在成功，而是完整生活中合乎德性的理性活动；德性通过习惯形成，并由实践智慧在具体情境中判断。",
+        "themeIds": [
+          "ethics",
+          "knowledge",
+          "freedom"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "aristotle:claim:003",
+            "titleZh": "幸福是合乎德性的理性活动",
+            "claimZh": "亚里士多德把 eudaimonia 定义为人的最高善，并将其理解为灵魂依德性的活动。",
+            "explanationZh": "这使伦理学不是感觉主义，也不是纯规则伦理。善生活要看人的功能是否被卓越实现，并贯穿完整人生。",
+            "themeIds": [
+              "ethics",
+              "life_death"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "aristotle:evidence:005",
+                "titleZh": "《尼各马可伦理学》I 卷提出功能论证",
+                "summaryZh": "I 卷通过最高善和人的功能论证，将幸福与合乎德性的灵魂活动联系起来，并奠定伦理目标论。",
+                "source": {
+                  "workId": "aristotle-primary-work",
+                  "locator": "Nicomachean Ethics I.7, 1097b22-1098a20 on function and happiness",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "aristotle:evidence:006",
+                "titleZh": "X 卷讨论沉思与最高幸福",
+                "summaryZh": "X 卷把沉思生活作为最高幸福的候选，同时保留伦理德性和政治生活的重要性作为实践条件。",
+                "source": {
+                  "workId": "aristotle-primary-work",
+                  "locator": "Nicomachean Ethics X.7-8, 1177a12-1179a32 on contemplation and happiness",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "aristotle:claim:004",
+            "titleZh": "德性是由实践智慧指导的习惯状态",
+            "claimZh": "德性不是天生冲动或单次选择，而是通过习惯形成，并在实践智慧指导下找到相对于我们的中道。",
+            "explanationZh": "中道不是平庸折中，而是对情境、对象、时机和方式的恰当判断。实践智慧把普遍善与具体行动连接起来。",
+            "themeIds": [
+              "ethics",
+              "knowledge"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "aristotle:evidence:007",
+                "titleZh": "II 卷说明德性与中道",
+                "summaryZh": "《尼各马可伦理学》II 卷将道德德性定义为选择相关的品格状态，并以中道说明其判断结构。",
+                "source": {
+                  "workId": "aristotle-primary-work",
+                  "locator": "Nicomachean Ethics II.6, 1106b36-1107a8 on virtue as mean relative to us",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "aristotle:evidence:008",
+                "titleZh": "VI 卷分析实践智慧",
+                "summaryZh": "VI 卷把 phronesis 作为关于可行动事物的真实理性状态，使德性不只是习惯，还包含情境判断。",
+                "source": {
+                  "workId": "aristotle-primary-work",
+                  "locator": "Nicomachean Ethics VI.5, 1140a24-1140b30 on phronesis",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "aristotle:problem:003",
+        "titleZh": "人为什么是政治动物？",
+        "questionZh": "亚里士多德为什么认为城邦不是外在契约工具，而是服务善生活、体现人类言说和共同判断能力的自然共同体？",
+        "summaryZh": "亚里士多德把政治共同体理解为人的自然完成。家庭和村落满足生存，城邦以善生活为目标；人凭 logos 判断正义和利益，因此政治生活与伦理完成相连。",
+        "themeIds": [
+          "politics",
+          "ethics",
+          "freedom"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "aristotle:claim:005",
+            "titleZh": "城邦以善生活而非单纯生存为目的",
+            "claimZh": "亚里士多德认为城邦自然形成于共同生活需要，但其目的高于生存，是实现善生活。",
+            "explanationZh": "政治不是纯粹工具安排，而是伦理完成的条件。只有在城邦中，人的言说、判断和德性教育才充分展开。",
+            "themeIds": [
+              "politics",
+              "ethics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "aristotle:evidence:009",
+                "titleZh": "《政治学》I 卷提出人是政治动物",
+                "summaryZh": "《政治学》I 卷说明城邦由家庭和村落发展而来，为善生活而存在，并称人是政治动物。",
+                "source": {
+                  "workId": "aristotle-primary-work",
+                  "locator": "Politics I.1-2, 1252a1-1253a18 on polis, good life and political animal",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "aristotle:evidence:010",
+                "titleZh": "logos 使人能判断正义和共同利益",
+                "summaryZh": "同一段落中，亚里士多德将人的言说能力同显明有益、有害、正义和不正义联系起来，形成政治解释。",
+                "source": {
+                  "workId": "aristotle-primary-work",
+                  "locator": "Politics I.2, 1253a7-18 on speech, justice and political community",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "aristotle:claim:006",
+            "titleZh": "政体评价以共同利益为尺度",
+            "claimZh": "亚里士多德区分正当政体和偏离政体的核心标准，是统治是否面向共同利益而非统治者私利。",
+            "explanationZh": "这一标准使政治分析兼具经验分类和规范评价。但其理论也包含奴隶、性别和公民资格排除，必须作为历史限制保留。",
+            "themeIds": [
+              "politics",
+              "justice",
+              "ethics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "aristotle:evidence:011",
+                "titleZh": "III 卷按共同利益分类政体",
+                "summaryZh": "《政治学》III 卷把王政、贵族政体和共和政体同僭主政、寡头政、民主政的偏离形式相区分，标准是共同利益。",
+                "source": {
+                  "workId": "aristotle-primary-work",
+                  "locator": "Politics III.6-7, 1278b6-1279b10 on correct and deviant constitutions",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "aristotle:evidence:012",
+                "titleZh": "现代研究强调伦理与政治的连续性",
+                "summaryZh": "Irwin、Nussbaum 等研究常强调，亚里士多德政治学不能脱离德性伦理理解，但也必须面对其排除性历史结构。",
+                "source": {
+                  "workId": "aristotle-primary-work",
+                  "locator": "Modern Aristotle scholarship on ethics-politics continuity and exclusion in Politics",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "tier": "standard"
 }

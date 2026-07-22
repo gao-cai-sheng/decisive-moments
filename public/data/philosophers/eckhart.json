@@ -1,0 +1,292 @@
+{
+  "id": "eckhart",
+  "names": {
+    "zh": "埃克哈特",
+    "en": "Meister Eckhart"
+  },
+  "life": {
+    "birth": 1260,
+    "death": 1328,
+    "display": "c.1260—c.1328"
+  },
+  "civilization": "european_medieval",
+  "traditions": [
+    "christian_mysticism",
+    "negative_theology",
+    "scholasticism"
+  ],
+  "periods": [
+    "expansion_b2"
+  ],
+  "themes": [
+    "religion",
+    "metaphysics",
+    "freedom"
+  ],
+  "keywordsZh": [
+    "离执",
+    "灵魂贫乏",
+    "神在灵魂中诞生",
+    "否定神学",
+    "泰然任之"
+  ],
+  "oneLineZh": "以离执、灵魂贫乏和神秘合一把经院神学推进到德语神秘主义核心。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "埃克哈特把多明我会经院神学、否定神学和德语讲道传统结合起来，强调灵魂离执、内在突破和神在灵魂中的诞生。",
+  "works": [
+    "eckhart-german-sermons",
+    "eckhart-latin-works",
+    "eckhart-book-divine-consolation",
+    "eckhart-talks-instruction",
+    "eckhart-parisian-questions"
+  ],
+  "sourceNotes": [
+    {
+      "label": "Primary corpus note",
+      "noteZh": "本批根据德语讲道、拉丁著作和实践文本整理其思想系统，正式入库前需复核具体版本。"
+    }
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "eckhart:problem:001",
+        "titleZh": "离执与灵魂贫乏",
+        "questionZh": "埃克哈特为什么把灵魂的贫乏和离执视为通向神的关键姿态？",
+        "summaryZh": "埃克哈特把神秘主义实践从外在德行推进到主体内部的空化、离执和自我意志松开。",
+        "themeIds": [
+          "religion",
+          "freedom"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "eckhart:claim:001",
+            "titleZh": "灵魂贫乏是从占有和自我意志中退出",
+            "claimZh": "真正的贫乏不是缺少财物，而是灵魂不再把神、德行或自我形象当作可占有对象。",
+            "explanationZh": "这使埃克哈特的神秘主义不同于单纯禁欲论：关键不是增加宗教行为，而是拆除主体的占有结构。",
+            "themeIds": [
+              "religion",
+              "freedom"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "eckhart:evidence:001",
+                "titleZh": "第52篇德语讲道论灵魂贫乏",
+                "summaryZh": "讲道把贫乏解释为不愿、不知、不有，要求灵魂连属灵成就也不据为己有，从而向神圣空位敞开。",
+                "source": {
+                  "workId": "eckhart-german-sermons",
+                  "locator": "German Sermon 52 on poverty of spirit, not willing, not knowing, not having",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "eckhart:evidence:002",
+                "titleZh": "《教诲谈话》论离执训练",
+                "summaryZh": "文本把日常顺服、内心沉静和放下私意放在一起，说明修道实践的核心是解除自我意志的执著。",
+                "source": {
+                  "workId": "eckhart-talks-instruction",
+                  "locator": "Talks of Instruction, chapters on obedience, detachment, and inner composure",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "eckhart:claim:002",
+            "titleZh": "离执高于可见德行的累积",
+            "claimZh": "离执之所以优先，是因为它改变灵魂面对一切对象的方式，而不是只增加某种可计量的善行。",
+            "explanationZh": "这条主张把伦理训练和神秘认识连在一起：灵魂越少把自己当作行动中心，就越能接受神的行动。",
+            "themeIds": [
+              "ethics",
+              "religion"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "eckhart:evidence:003",
+                "titleZh": "德语讲道论离执的优先性",
+                "summaryZh": "讲道传统反复把离执置于外在功业之前，强调灵魂的自由状态比行为数量更能决定人与神的关系。",
+                "source": {
+                  "workId": "eckhart-german-sermons",
+                  "locator": "German sermons on Abgeschiedenheit and the priority of interior detachment",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "eckhart:evidence:004",
+                "titleZh": "《神圣安慰书》论苦难中的内在自由",
+                "summaryZh": "文本不把苦难解释为单纯惩罚，而是把安慰建立在灵魂从外物评价中退出、转向内在自由的能力上。",
+                "source": {
+                  "workId": "eckhart-book-divine-consolation",
+                  "locator": "Book of Divine Consolation, sections on suffering, consolation, and inward freedom",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "eckhart:problem:002",
+        "titleZh": "神在灵魂中的诞生",
+        "questionZh": "他如何把神学命题转化为灵魂内部发生的经验结构？",
+        "summaryZh": "埃克哈特把基督诞生和神圣言说解释为灵魂深处的现实事件，使神学成为内在转化理论。",
+        "themeIds": [
+          "religion",
+          "metaphysics"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "eckhart:claim:003",
+            "titleZh": "神圣言在灵魂根基中诞生",
+            "claimZh": "神与灵魂的关系不是外在命令关系，而是在灵魂根基处发生的言的诞生和回应。",
+            "explanationZh": "这让救赎主题获得强烈的内在化形式，也解释埃克哈特为什么经常使用诞生、根基和突破等词。",
+            "themeIds": [
+              "religion",
+              "metaphysics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "eckhart:evidence:005",
+                "titleZh": "德语讲道论圣言在灵魂中诞生",
+                "summaryZh": "讲道把圣诞主题转入灵魂内部，说明若灵魂被造物欲望占据，神圣言便无法在其根基中显现。",
+                "source": {
+                  "workId": "eckhart-german-sermons",
+                  "locator": "German sermons on the birth of the Word in the soul",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "eckhart:evidence:006",
+                "titleZh": "拉丁讲道中的内在言说结构",
+                "summaryZh": "拉丁材料以理智、言和三一神学术语说明神圣生成，显示德语讲道背后有严密经院概念支撑。",
+                "source": {
+                  "workId": "eckhart-latin-works",
+                  "locator": "Latin sermons and commentaries on Verbum, intellect, and Trinitarian generation",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "eckhart:claim:004",
+            "titleZh": "突破指向超越神名的神性",
+            "claimZh": "灵魂的突破并非获得一个更高对象，而是穿越一切神名和表象，抵达不可对象化的神性深处。",
+            "explanationZh": "这条主张使埃克哈特接近否定神学传统：越接近神，越不能把神当作普通对象来把握。",
+            "themeIds": [
+              "metaphysics",
+              "religion"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "eckhart:evidence:007",
+                "titleZh": "德语讲道论突破和神性深处",
+                "summaryZh": "突破段落把灵魂从受造差别和神的可名状属性中带出，转向超越规定性的神性深处，并凸显否定神学的 radical 方向。",
+                "source": {
+                  "workId": "eckhart-german-sermons",
+                  "locator": "German sermons on Durchbruch, Godhead, and the ground of the soul",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "eckhart:evidence:008",
+                "titleZh": "巴黎问题中的存在与理智讨论",
+                "summaryZh": "巴黎问题把神、存在和理智的优先关系放进经院论辩，表明突破语言并不是反理性，而是改写理智边界。",
+                "source": {
+                  "workId": "eckhart-parisian-questions",
+                  "locator": "Parisian Questions on whether understanding or being is prior in God",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "eckhart:problem:003",
+        "titleZh": "经院神学与神秘语言的交界",
+        "questionZh": "埃克哈特如何同时属于经院论辩和德语神秘主义传统？",
+        "summaryZh": "他的思想把大学神学的概念训练转译为讲道语言，使形而上学、修道实践和俗语表达相互穿透。",
+        "themeIds": [
+          "knowledge",
+          "language"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "eckhart:claim:005",
+            "titleZh": "俗语讲道转化了经院概念",
+            "claimZh": "埃克哈特并未抛弃经院神学，而是把理智、存在和神性等概念翻译进可实践的俗语讲道。",
+            "explanationZh": "这解释他为何既能被视为神学家，也能成为德语哲学语言和神秘主义传统的重要源头。",
+            "themeIds": [
+              "language",
+              "knowledge"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "eckhart:evidence:009",
+                "titleZh": "德语讲道的概念转译",
+                "summaryZh": "讲道用贫乏、根基、火花和诞生等图像承载经院神学议题，使普通听众也进入复杂形而上学训练。",
+                "source": {
+                  "workId": "eckhart-german-sermons",
+                  "locator": "German sermon cycle using ground, spark, poverty, and birth imagery",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "eckhart:evidence:010",
+                "titleZh": "拉丁著作的大学神学背景",
+                "summaryZh": "拉丁著作显示埃克哈特熟悉亚里士多德主义和多明我会论辩，其神秘表达不是脱离学术训练的即兴言说。",
+                "source": {
+                  "workId": "eckhart-latin-works",
+                  "locator": "Latin commentaries and scholastic questions in Dominican university context",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "eckhart:claim:006",
+            "titleZh": "泰然任之开启现代接受线索",
+            "claimZh": "离执与泰然任之后来能被现代哲学重新解释，因为它们同时涉及主体、存在和非占有式思维。",
+            "explanationZh": "这条主张为埃克哈特进入现代思想网络提供理由，特别是他与海德格尔存在论语言之间的接受关系。",
+            "themeIds": [
+              "metaphysics",
+              "freedom"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "eckhart:evidence:011",
+                "titleZh": "讲道传统中的 Gelassenheit 主题",
+                "summaryZh": "离执语汇强调让存在者自行退场和让灵魂不再抓取对象，为后世把它解释为非支配性思维提供入口。",
+                "source": {
+                  "workId": "eckhart-german-sermons",
+                  "locator": "German sermons on Gelassenheit, detachment, and letting-go",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "eckhart:evidence:012",
+                "titleZh": "《教诲谈话》的实践语境",
+                "summaryZh": "文本把让渡自我、服从和内在沉静落到日常训练中，避免把神秘主义误读为纯粹抽象玄思。",
+                "source": {
+                  "workId": "eckhart-talks-instruction",
+                  "locator": "Talks of Instruction, practical teachings on letting go and self-surrender",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "tier": "standard"
+}

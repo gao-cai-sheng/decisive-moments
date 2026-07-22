@@ -1,0 +1,45 @@
+{
+  "id": "condillac",
+  "tier": "seed",
+  "names": {
+    "zh": "孔狄亚克",
+    "en": "Étienne Bonnot de Condillac"
+  },
+  "life": {
+    "birth": 1714,
+    "death": 1780,
+    "display": "1714—1780"
+  },
+  "civilization": "western",
+  "traditions": [
+    "enlightenment",
+    "empiricism"
+  ],
+  "periods": [
+    "modern"
+  ],
+  "themes": [
+    "knowledge",
+    "language"
+  ],
+  "keywordsZh": [
+    "感觉论",
+    "经验论",
+    "语言起源"
+  ],
+  "oneLineZh": "感觉论把洛克经验论推向系统化，雕像譬喻成为认识论史线索。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "孔狄亚克（1714—1780）是 Seed W4 法国断代补全候选。其身份层入选理由为：感觉论把洛克经验论推向系统化，雕像譬喻成为认识论史线索。 本条仅作 seed 档基本定位，后续若升级标准档，必须重新做著作、论点与 evidence 研究。",
+  "works": [
+    "condillac-essay-origin-human-knowledge",
+    "condillac-treatise-on-sensations"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S004",
+      "url": "https://plato.stanford.edu/entries/condillac/",
+      "noteZh": "权威来源条目：SEP: Étienne Bonnot de Condillac；用于核验人物身份、生卒、代表著作和思想史定位。"
+    }
+  ]
+}

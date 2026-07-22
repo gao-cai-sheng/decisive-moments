@@ -1,0 +1,54 @@
+{
+  "id": "buddhaghosa",
+  "tier": "seed",
+  "names": {
+    "zh": "觉音",
+    "en": "Buddhaghosa",
+    "native": "Buddhaghosa"
+  },
+  "life": {
+    "birth": 420,
+    "display": "5世纪，约420年前后活跃"
+  },
+  "civilization": "theravada_buddhist",
+  "traditions": [
+    "theravada",
+    "pali_commentarial_tradition",
+    "abhidhamma"
+  ],
+  "periods": [
+    "seed_w13",
+    "theravada_classical"
+  ],
+  "themes": [
+    "metaphysics",
+    "ethics",
+    "knowledge",
+    "life_death"
+  ],
+  "keywordsZh": [
+    "清净道论",
+    "巴利注疏",
+    "上座部",
+    "修道次第"
+  ],
+  "oneLineZh": "上座部巴利注疏传统的核心系统家，以《清净道论》综合戒定慧、阿毗达磨和解脱道路。",
+  "influenceWeight": 3,
+  "reviewStatus": "draft",
+  "summaryZh": "觉音是5世纪上座部巴利注疏传统的关键系统家，通常与锡兰大寺语境和《清净道论》相连。本 seed 档只以《清净道论》作为稳健作品锚点，并在 sourceNotes 中保留觉音名下部分注疏归属存在争议的边界。",
+  "works": [
+    "buddhaghosa-visuddhimagga"
+  ],
+  "sourceNotes": [
+    {
+      "label": "W13-B1-S001",
+      "url": "https://www.britannica.com/biography/Buddhaghosa",
+      "noteZh": "Britannica Buddhaghosa 条目用于核验其5世纪上座部注疏家身份、锡兰大寺语境和《清净道论》口径；本批不把全部传统注疏无条件归其名下。"
+    },
+    {
+      "label": "W13-B1-S002",
+      "url": "https://www.accesstoinsight.org/lib/authors/nanamoli/PathofPurification2011.pdf",
+      "noteZh": "《清净道论》英译本用于核验 Visuddhimagga / Path of Purification 的作品标题和上座部修道论系统文本口径。"
+    }
+  ]
+}

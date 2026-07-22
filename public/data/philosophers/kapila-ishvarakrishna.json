@@ -1,0 +1,41 @@
+{
+  "id": "kapila-ishvarakrishna",
+  "tier": "seed",
+  "names": {
+    "zh": "自在黑（数论）",
+    "en": "Īśvarakṛṣṇa / Kapila tradition"
+  },
+  "life": {
+    "display": "约350；数论奠基传统更早"
+  },
+  "civilization": "indian",
+  "traditions": [
+    "samkhya"
+  ],
+  "periods": [
+    "ancient"
+  ],
+  "themes": [
+    "metaphysics",
+    "life_death"
+  ],
+  "keywordsZh": [
+    "数论",
+    "二元论",
+    "三德"
+  ],
+  "oneLineZh": "以《数论颂》系统化数论派二元论和三德理论。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "自在黑通过《数论颂》系统化数论派，承接更早的迦毗罗传统。由于候选 id 合并传统奠基与系统化作者，本条仅作 seed 身份层，后续升级必须拆核来源。",
+  "works": [
+    "kapila-ishvarakrishna-samkhyakarika"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S003",
+      "url": "https://iep.utm.edu/samkhya/",
+      "noteZh": "IEP Sāṃkhya 条目用于核验数论派、迦毗罗传统和自在黑《数论颂》的系统化位置。"
+    }
+  ]
+}

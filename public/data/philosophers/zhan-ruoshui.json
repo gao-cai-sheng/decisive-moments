@@ -1,0 +1,46 @@
+{
+  "id": "zhan-ruoshui",
+  "tier": "seed",
+  "names": {
+    "zh": "湛若水",
+    "en": "Zhan Ruoshui",
+    "native": "湛若水"
+  },
+  "life": {
+    "birth": 1466,
+    "death": 1560,
+    "display": "1466—1560"
+  },
+  "civilization": "chinese",
+  "traditions": [
+    "neo_confucianism",
+    "ming_xinxue"
+  ],
+  "periods": [
+    "ming"
+  ],
+  "themes": [
+    "ethics",
+    "metaphysics"
+  ],
+  "keywordsZh": [
+    "甘泉学派",
+    "随处体认天理",
+    "心性图说"
+  ],
+  "oneLineZh": "明代甘泉学派代表，与王阳明并立而论学。",
+  "influenceWeight": 3,
+  "reviewStatus": "draft",
+  "summaryZh": "湛若水，字元明，号甘泉，明代思想家，陈献章弟子，创甘泉学派。他提出“随处体认天理”，强调在日用事物中体认天理，与王阳明良知学互相论辩又共同推动明代心学。《甘泉集》和相关心性图说保存其讲学思想。湛若水是岭南儒学和明代心学多元格局的重要人物。",
+  "works": [
+    "zhan-ruoshui-ganquan-ji",
+    "zhan-ruoshui-xinxing-tushuo"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S024",
+      "url": "https://ctext.org/wiki.pl?if=en&res=821940",
+      "noteZh": "以湛若水《甘泉集》《心性图说》题名传统支撑身份层。"
+    }
+  ]
+}

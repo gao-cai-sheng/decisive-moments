@@ -5,9 +5,9 @@
     "en": "Albert Camus"
   },
   "life": {
-    "display": "1913—1960",
     "birth": 1913,
-    "death": 1960
+    "death": 1960,
+    "display": "1913—1960"
   },
   "civilization": "european_modern",
   "traditions": [
@@ -38,5 +38,247 @@
       "label": "draft",
       "noteZh": "条目需要人工核对作品、年代和概念表述。"
     }
-  ]
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "camus:problem:001",
+        "titleZh": "荒诞如何改变生命意义问题？",
+        "questionZh": "加缪如何围绕“荒诞如何改变生命意义问题？”建立其思想问题？",
+        "summaryZh": "加缪把荒诞理解为人的意义要求与世界沉默之间的张力，并由此寻找清醒生活的可能形式。",
+        "themeIds": [
+          "life_death",
+          "ethics"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "camus:claim:001",
+            "titleZh": "荒诞产生于人与世界的相遇",
+            "claimZh": "加缪主张，荒诞在人的意义要求与世界沉默相遇处产生，而非单纯属于世界或人。",
+            "explanationZh": "该命题避免把荒诞理解成客观属性或主观情绪，而是把它放在意识与世界的关系结构中。",
+            "themeIds": [
+              "life_death",
+              "metaphysics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "camus:evidence:001",
+                "titleZh": "荒诞推理依据",
+                "summaryZh": "《西西弗神话》从生命意义问题出发，分析人生意义要求与世界沉默之间的冲突，说明荒诞来自二者相遇。",
+                "source": {
+                  "workId": "camus-primary-work",
+                  "locator": "《西西弗神话》“荒诞推理”开篇段",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "camus:evidence:007",
+                "titleZh": "世界沉默依据",
+                "summaryZh": "《西西弗神话》在荒诞感分析中描述熟悉世界突然失去解释亲密性的经验，借此说明荒诞不是单方事实，而是关系断裂。",
+                "source": {
+                  "workId": "camus-primary-work",
+                  "locator": "《西西弗神话》“荒诞的墙”段",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "camus:claim:002",
+            "titleZh": "承认荒诞要求清醒生活",
+            "claimZh": "加缪认为，承认荒诞不应导向放弃生命或形而上逃避，而应导向清醒和持续生活。",
+            "explanationZh": "该命题把荒诞经验转化为伦理姿态：既不以终极意义掩盖裂缝，也不让裂缝取消生活本身。",
+            "themeIds": [
+              "ethics",
+              "life_death"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "camus:evidence:002",
+                "titleZh": "哲学跳跃依据",
+                "summaryZh": "《西西弗神话》批判以宗教或哲学跳跃逃离荒诞，也拒绝把生命否定视为解决，要求在清醒中继续面对有限生活。",
+                "source": {
+                  "workId": "camus-primary-work",
+                  "locator": "《西西弗神话》“哲学的放弃”段",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "camus:evidence:008",
+                "titleZh": "荒诞人生活依据",
+                "summaryZh": "《西西弗神话》以荒诞人的生活方式说明，承认无终极保证后，人仍可通过清醒、强度和不诉诸超越来维持生活。",
+                "source": {
+                  "workId": "camus-primary-work",
+                  "locator": "《西西弗神话》“荒诞人”章",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "camus:problem:002",
+        "titleZh": "反抗如何避免成为新的压迫？",
+        "questionZh": "加缪如何围绕“反抗如何避免成为新的压迫？”建立其思想问题？",
+        "summaryZh": "加缪从反抗的界限和共同价值出发，批判以未来正义或历史必然名义取消当下生命的政治逻辑。",
+        "themeIds": [
+          "politics",
+          "ethics"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "camus:claim:003",
+            "titleZh": "反抗同时否定压迫和肯定价值",
+            "claimZh": "加缪主张，真正反抗既拒绝不可忍受的压迫，也肯定某种值得共同维护的价值。",
+            "explanationZh": "该命题把反抗从单纯否定提升为共同尺度：说不的同时也承认有些界限不能被越过。",
+            "themeIds": [
+              "politics",
+              "ethics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "camus:evidence:003",
+                "titleZh": "反抗者依据",
+                "summaryZh": "《反抗者》把反抗理解为一种界限经验，既否定压迫也肯定人的尊严，说明反抗本身包含共同价值的声明。",
+                "source": {
+                  "workId": "camus-primary-work",
+                  "locator": "《反抗者》导论“反抗者说不与说是”段",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "camus:evidence:009",
+                "titleZh": "共同尊严依据",
+                "summaryZh": "《反抗者》在形而上反抗讨论中指出，反抗者以自身受辱经验推出一种超出个人的共同尺度，因此反抗不是任意怨恨。",
+                "source": {
+                  "workId": "camus-primary-work",
+                  "locator": "《反抗者》第一部分“形而上反抗”开篇段",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "camus:claim:004",
+            "titleZh": "革命越界会制造新暴力",
+            "claimZh": "加缪认为，革命若以未来正义取消当下生命限度，就可能转化为新的杀戮秩序。",
+            "explanationZh": "该命题维护反抗中的限度原则，批判把历史目的绝对化后对现实生命和个人责任的牺牲。",
+            "themeIds": [
+              "politics",
+              "ethics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "camus:evidence:004",
+                "titleZh": "革命暴力依据",
+                "summaryZh": "《反抗者》分析现代革命如何在历史必然名义下合理化杀戮，指出正义若脱离限度会转化为新的统治形式。",
+                "source": {
+                  "workId": "camus-primary-work",
+                  "locator": "《反抗者》第三部分“历史反抗”章",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "camus:evidence:010",
+                "titleZh": "限度思想依据",
+                "summaryZh": "《反抗者》结尾强调限度、节制和共同尺度，反对把未来整体目标凌驾于当前生命之上，要求反抗保持自我约束。",
+                "source": {
+                  "workId": "camus-primary-work",
+                  "locator": "《反抗者》第五部分“正午思想”段",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "camus:problem:003",
+        "titleZh": "没有终极意义时如何自由创造？",
+        "questionZh": "加缪如何围绕“没有终极意义时如何自由创造？”建立其思想问题？",
+        "summaryZh": "加缪把荒诞自由、反抗和艺术创造联系起来，说明人在无终极担保时仍能形成有限而清醒的生活实践。",
+        "themeIds": [
+          "freedom",
+          "aesthetics"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "camus:claim:005",
+            "titleZh": "荒诞自由来自放弃终极担保",
+            "claimZh": "加缪主张，一旦放弃终极意义保证，人反而能在有限生命中承担更清醒的自由。",
+            "explanationZh": "该命题把自由从形而上拯救中移出，强调人在有限时间内对经验强度、选择和责任的承担。",
+            "themeIds": [
+              "freedom",
+              "life_death"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "camus:evidence:005",
+                "titleZh": "荒诞自由依据",
+                "summaryZh": "《西西弗神话》把荒诞人的自由描述为不再向永恒上诉后的现世生活方式，强调清醒承认限度反而打开行动空间。",
+                "source": {
+                  "workId": "camus-primary-work",
+                  "locator": "《西西弗神话》“荒诞自由”段",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "camus:evidence:011",
+                "titleZh": "西西弗形象依据",
+                "summaryZh": "《西西弗神话》结尾以西西弗形象说明，人在没有终极救赎的处境中仍可通过清醒承担和持续行动获得尊严。",
+                "source": {
+                  "workId": "camus-primary-work",
+                  "locator": "《西西弗神话》“西西弗神话”结尾段",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "camus:claim:006",
+            "titleZh": "艺术创造维持清醒反抗",
+            "claimZh": "加缪认为，艺术创造不提供最终救赎，却通过形式和重复使人持续面对荒诞。",
+            "explanationZh": "该命题把审美活动理解为有限世界中的反抗方式：艺术不取消荒诞，而是在形式中保存清醒和尺度。",
+            "themeIds": [
+              "aesthetics",
+              "freedom"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "camus:evidence:006",
+                "titleZh": "荒诞创造依据",
+                "summaryZh": "《西西弗神话》讨论小说和创造活动如何在荒诞处境中维持清醒与反抗，艺术因此不是逃避，而是持续面对。",
+                "source": {
+                  "workId": "camus-primary-work",
+                  "locator": "《西西弗神话》“荒诞创造”章",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "camus:evidence:012",
+                "titleZh": "艺术与反抗依据",
+                "summaryZh": "《反抗者》讨论艺术中的形式与限度，认为创造通过给混乱经验以形态来表达反抗，同时避免把世界化为单一教条。",
+                "source": {
+                  "workId": "camus-primary-work",
+                  "locator": "《反抗者》第四部分“反抗与艺术”章",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "tier": "standard"
 }

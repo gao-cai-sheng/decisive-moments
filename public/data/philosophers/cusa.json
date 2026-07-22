@@ -1,0 +1,294 @@
+{
+  "id": "cusa",
+  "names": {
+    "zh": "库萨的尼古拉",
+    "en": "Nicholas of Cusa",
+    "native": "Nicolaus Cusanus"
+  },
+  "life": {
+    "birth": 1401,
+    "death": 1464,
+    "display": "1401—1464"
+  },
+  "civilization": "european_renaissance",
+  "traditions": [
+    "christian_platonism",
+    "renaissance_philosophy",
+    "negative_theology"
+  ],
+  "periods": [
+    "expansion_b2"
+  ],
+  "themes": [
+    "knowledge",
+    "metaphysics",
+    "religion"
+  ],
+  "keywordsZh": [
+    "有学问的无知",
+    "对立相合",
+    "无限最大者",
+    "猜测",
+    "宗教和平"
+  ],
+  "oneLineZh": "以有学问的无知、对立相合和无限者问题把中世纪神学推向文艺复兴形而上学。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "库萨的尼古拉围绕有限理智面对无限者的界限，提出有学问的无知、猜测认识和对立相合，并把神学、数学隐喻与宗教和平相连。",
+  "works": [
+    "cusa-learned-ignorance",
+    "cusa-conjectures",
+    "cusa-vision-god",
+    "cusa-peace-faith",
+    "cusa-beryl"
+  ],
+  "sourceNotes": [
+    {
+      "label": "Primary corpus note",
+      "noteZh": "本批根据《有学问的无知》《论猜测》《论神之视觉》等主要文本整理。"
+    }
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "cusa:problem:001",
+        "titleZh": "有学问的无知",
+        "questionZh": "库萨为什么把无知提升为面对无限者时的最高认识形式？",
+        "summaryZh": "库萨把认识的界限本身转化为方法，认为有限理性只有承认比例失效，才能正确面对无限者。",
+        "themeIds": [
+          "knowledge",
+          "metaphysics"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "cusa:claim:001",
+            "titleZh": "有限理性以比例认识有限物",
+            "claimZh": "人类理智依靠比较、比例和差异来认识对象，因此在面对无限者时必然遭遇方法性边界。",
+            "explanationZh": "有学问的无知不是反知识，而是把有限知识条件说清楚，防止把无限者缩小为可测对象。",
+            "themeIds": [
+              "knowledge",
+              "metaphysics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "cusa:evidence:001",
+                "titleZh": "《有学问的无知》第一卷论比例认识",
+                "summaryZh": "第一卷说明有限认识通过比较和比例推进，但无限最大者超出一切比例，因此只能以承认不相称来接近。",
+                "source": {
+                  "workId": "cusa-learned-ignorance",
+                  "locator": "De docta ignorantia I, chapters on proportion, comparison, and the infinite maximum",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "cusa:evidence:002",
+                "titleZh": "《绿柱石》论理智之眼",
+                "summaryZh": "文本用光学工具比喻理智训练，说明正确观看不是直接占有对象，而是校准有限视角的能力。",
+                "source": {
+                  "workId": "cusa-beryl",
+                  "locator": "De beryllo, opening optical metaphor for intellectual vision",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "cusa:claim:002",
+            "titleZh": "无知因自知边界而成为学问",
+            "claimZh": "当理智知道自己不能以有限比例穷尽无限者时，这种无知就成为一种更高的认识纪律。",
+            "explanationZh": "这条主张说明库萨不是怀疑主义者；他用受训练的无知保护神学对象的超越性，同时保留探索动力。",
+            "themeIds": [
+              "knowledge",
+              "religion"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "cusa:evidence:003",
+                "titleZh": "《有学问的无知》论 docta ignorantia",
+                "summaryZh": "书名概念把无知和学问绑定起来，强调认识越精确，越应知道自己相对无限真理的不足，从而形成自觉的认识纪律。",
+                "source": {
+                  "workId": "cusa-learned-ignorance",
+                  "locator": "De docta ignorantia I, programmatic statements on learned ignorance",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "cusa:evidence:004",
+                "titleZh": "《论猜测》论层级化认识",
+                "summaryZh": "《论猜测》把有限判断理解为有层级的逼近，显示库萨把认识限制转化为动态方法，而非简单否定理性。",
+                "source": {
+                  "workId": "cusa-conjectures",
+                  "locator": "De coniecturis I, on conjectural ascent and finite approximations",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "cusa:problem:002",
+        "titleZh": "对立相合与无限最大者",
+        "questionZh": "他如何用对立相合改造中世纪形而上学和神学语言？",
+        "summaryZh": "库萨把最大与最小、有限与无限、直线与圆等对立放入极限思维，说明无限者超越有限分类。",
+        "themeIds": [
+          "metaphysics",
+          "religion"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "cusa:claim:003",
+            "titleZh": "无限中对立不再按有限方式分离",
+            "claimZh": "在无限最大者中，有限世界的最大和最小、中心和圆周等区分失去普通分离形式。",
+            "explanationZh": "这使库萨能够用数学极限意象表达否定神学，而不是只用传统神学断言重复超越性。",
+            "themeIds": [
+              "metaphysics",
+              "religion"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "cusa:evidence:005",
+                "titleZh": "《有学问的无知》论最大与最小",
+                "summaryZh": "库萨把绝对最大者说成不能更大的存在，同时显示其与最小者在无限层面相合，突破有限尺度分类。",
+                "source": {
+                  "workId": "cusa-learned-ignorance",
+                  "locator": "De docta ignorantia I, chapters on maximum, minimum, and coincidence",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "cusa:evidence:006",
+                "titleZh": "几何极限意象中的无限圆",
+                "summaryZh": "几何段落借无限圆、直线和多边形逼近说明有限形式在无限极限处改变意义，帮助理智理解神学悖论。",
+                "source": {
+                  "workId": "cusa-learned-ignorance",
+                  "locator": "De docta ignorantia I, geometrical examples of circle, line, and polygonal approximation",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "cusa:claim:004",
+            "titleZh": "无限宇宙削弱封闭中心模型",
+            "claimZh": "库萨把宇宙理解为没有普通意义上的固定中心和边界，使中世纪封闭宇宙图式发生松动。",
+            "explanationZh": "这条主张让他成为文艺复兴宇宙论的重要前史，但应注意其目的仍是神学形而上学而非近代物理学。",
+            "themeIds": [
+              "metaphysics",
+              "knowledge"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "cusa:evidence:007",
+                "titleZh": "《有学问的无知》第二卷论宇宙",
+                "summaryZh": "第二卷讨论有限宇宙相对无限神的无中心性和不可穷尽性，削弱把世界固定在单一空间中心的图式。",
+                "source": {
+                  "workId": "cusa-learned-ignorance",
+                  "locator": "De docta ignorantia II, chapters on the universe, center, circumference, and infinity",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "cusa:evidence:008",
+                "titleZh": "《论猜测》中的多层世界图式",
+                "summaryZh": "《论猜测》以层级和视角组织世界知识，表明宇宙秩序不能被单一有限图像完全封闭，只能通过多重逼近来呈现。",
+                "source": {
+                  "workId": "cusa-conjectures",
+                  "locator": "De coniecturis II, figures of ordered levels and human conjectural world-making",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "cusa:problem:003",
+        "titleZh": "视角、宗教和平与猜测知识",
+        "questionZh": "库萨如何把认识有限性扩展到视角差异和宗教共存问题？",
+        "summaryZh": "他把有限视角的多样性理解为不可消除的认识条件，并尝试在差异中寻找更高统一。",
+        "themeIds": [
+          "knowledge",
+          "religion",
+          "politics"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "cusa:claim:005",
+            "titleZh": "视角差异揭示有限观看条件",
+            "claimZh": "人只能从自己的位置观看真理，因此多视角不是偶然缺陷，而是有限理智的基本处境。",
+            "explanationZh": "这条主张把库萨的认识论推进到经验实验层面，说明有限主体怎样在观看中同时被观看。",
+            "themeIds": [
+              "knowledge",
+              "religion"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "cusa:evidence:009",
+                "titleZh": "《论神之视觉》的全视圣像实验",
+                "summaryZh": "文本让修士围绕一幅似乎观看每个人的图像移动，借共同实验展示视角相对性和神圣观看的超越性。",
+                "source": {
+                  "workId": "cusa-vision-god",
+                  "locator": "De visione Dei, preface and icon experiment with the all-seeing portrait",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "cusa:evidence:010",
+                "titleZh": "《论神之视觉》论被看见与观看",
+                "summaryZh": "库萨把人的观看转化为被神观看的经验，说明认识对象并非静物，而是在关系中重塑主体的位置。",
+                "source": {
+                  "workId": "cusa-vision-god",
+                  "locator": "De visione Dei, chapters on seeing God and being seen by God",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "cusa:claim:006",
+            "titleZh": "宗教差异可在更高统一中协调",
+            "claimZh": "不同宗教仪式和名称虽然多样，却可以被理解为朝向同一神圣真理的有限表达。",
+            "explanationZh": "这条主张把有学问的无知扩展到政治神学：承认有限表达差异，才可能讨论和平。",
+            "themeIds": [
+              "religion",
+              "politics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "cusa:evidence:011",
+                "titleZh": "《论信仰和平》的天上对话",
+                "summaryZh": "文本安排多民族和多宗教代表在天上对话，借戏剧结构呈现差异中的统一信仰构想，并回应现实宗教冲突。",
+                "source": {
+                  "workId": "cusa-peace-faith",
+                  "locator": "De pace fidei, heavenly dialogue among representatives of nations and religions",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "cusa:evidence:012",
+                "titleZh": "《论信仰和平》论一信仰多礼仪",
+                "summaryZh": "库萨把礼仪和语言差异区分于更高的神圣真理，尝试用哲学神学缓和战争后的宗教冲突，并保留多样表达空间。",
+                "source": {
+                  "workId": "cusa-peace-faith",
+                  "locator": "De pace fidei, formula of one faith in a variety of rites",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "tier": "standard"
+}

@@ -1,0 +1,46 @@
+{
+  "id": "rodolfo-kusch",
+  "tier": "seed",
+  "names": {
+    "zh": "罗多尔福·库什",
+    "en": "Rodolfo Kusch"
+  },
+  "life": {
+    "birth": 1922,
+    "death": 1979,
+    "display": "1922—1979"
+  },
+  "civilization": "latin_american",
+  "traditions": [
+    "latin_american_philosophy",
+    "indigenous_thought"
+  ],
+  "periods": [
+    "seed_w9"
+  ],
+  "themes": [
+    "metaphysics",
+    "politics",
+    "aesthetics"
+  ],
+  "keywordsZh": [
+    "美洲存在",
+    "estar",
+    "原住民思想"
+  ],
+  "oneLineZh": "阿根廷思想家，以美洲在场、原住民世界和大众文化批判欧洲存在论。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "库什把拉美原住民思想、大众文化和存在论问题结合起来，以美洲式‘在场’反拨欧洲化的存在理解，是拉美身份哲学和去殖民前史的重要人物。本条仅作 seed 身份层。",
+  "works": [
+    "rodolfo-kusch-america-profunda",
+    "rodolfo-kusch-indigenous-popular-america"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S004",
+      "url": "https://iep.utm.edu/latin-am/",
+      "noteZh": "IEP Latin American Philosophy 条目用于核验 Kusch 在拉美身份哲学与原住民/大众思想问题中的位置。"
+    }
+  ]
+}

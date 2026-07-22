@@ -1,0 +1,46 @@
+{
+  "id": "las-casas",
+  "tier": "seed",
+  "names": {
+    "zh": "巴托洛梅·德·拉斯·卡萨斯",
+    "en": "Bartolomé de las Casas"
+  },
+  "life": {
+    "birth": 1484,
+    "death": 1566,
+    "display": "1484—1566"
+  },
+  "civilization": "latin_american",
+  "traditions": [
+    "colonial_latin_american_philosophy",
+    "natural_rights"
+  ],
+  "periods": [
+    "seed_w9"
+  ],
+  "themes": [
+    "justice",
+    "religion",
+    "politics"
+  ],
+  "keywordsZh": [
+    "巴利亚多利德之辩",
+    "原住民权利",
+    "和平传教"
+  ],
+  "oneLineZh": "殖民早期为美洲原住民理性与权利辩护的多明我会思想家。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "拉斯·卡萨斯虽出生于西班牙，但其思想史位置集中在美洲征服、原住民权利和殖民暴力批判之中，是拉丁美洲殖民思想与后世解放论述的重要前史人物。本条仅作 seed 身份层。",
+  "works": [
+    "las-casas-brief-account",
+    "las-casas-apologetica-historia"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S001",
+      "url": "https://plato.stanford.edu/entries/latin-american-philosophy/",
+      "noteZh": "SEP Latin American Philosophy 条目用于核验 Las Casas 在殖民时期拉美哲学和原住民权利问题中的核心位置。"
+    }
+  ]
+}

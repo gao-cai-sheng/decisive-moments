@@ -5,9 +5,9 @@
     "en": "Wang Yangming"
   },
   "life": {
-    "display": "1472—1529",
     "birth": 1472,
-    "death": 1529
+    "death": 1529,
+    "display": "1472—1529"
   },
   "civilization": "chinese",
   "traditions": [
@@ -38,5 +38,283 @@
       "label": "draft",
       "noteZh": "条目需要人工核对作品、年代和概念表述。"
     }
-  ]
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "wang-yangming:problem:001",
+        "titleZh": "道德知识与行动的关系",
+        "questionZh": "道德知识是否内在地包含行动？良知如何成为道德实践的基础？",
+        "summaryZh": "王阳明在「心即理」与「致良知」的框架下，将道德知识重新理解为一种必然包含行动动机与能力的本然觉悟；「知行合一」是这一立场的核心表达，反对把知与行割裂为先后两截。",
+        "themeIds": [
+          "ethics"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "wang-yangming:claim:001",
+            "titleZh": "良知是人心本具的道德本体",
+            "claimZh": "良知是心的本体，人人本具，不假外求；圣人与凡人的差别不在良知之有无，而在能否「致」之。",
+            "explanationZh": "王阳明继承孟子「不虑而知」的观念，将良知视为道德判断的根源。它不是后天习得的外在规范，而是心体在具体情境中的自然发用，见父、见兄、见孺子入井时直接显现孝、悌、恻隐。",
+            "themeIds": [
+              "ethics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "wang-yangming:evidence:001",
+                "titleZh": "良知在日常伦理情境中的自然显现",
+                "summaryZh": "王阳明以见父知孝、见兄知弟、见孺子入井知恻隐为例，说明良知是心的自然反应，不待外求即可发生道德判断与情感。",
+                "source": {
+                  "workId": "wang-yangming-primary-work",
+                  "locator": "《传习录》上卷，徐爱录：「见父自然知孝」段",
+                  "publicDomainExcerptZh": "见父自然知孝，见兄自然知弟，见孺子入井，自然知恻隐。",
+                  "excerptStatus": "public_domain"
+                }
+              },
+              {
+                "id": "wang-yangming:evidence:002",
+                "titleZh": "圣愚同具良知，差别在于能否致之",
+                "summaryZh": "王阳明指出良知为圣愚所同具，圣人之所以为圣人，在于能克除私欲、充拓良知；凡人并非缺乏本体，而是未能「致」之。",
+                "source": {
+                  "workId": "wang-yangming-primary-work",
+                  "locator": "《传习录》中卷，答欧阳崇一：良知与圣愚同体相关段",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "wang-yangming:claim:002",
+            "titleZh": "知行合一：真知必含实行",
+            "claimZh": "「知而不行，只是未知」；真正的道德知识必然包含行动动机与实践倾向，知行合一否认知与行的分离。",
+            "explanationZh": "王阳明以好好色、恶恶臭为例，指出知与行在经验中不可分；仅有口头或命题认同并不构成真知。该立场可被理解为对「意志软弱」可能性的否认，强调道德知识具有内在的动力性。",
+            "themeIds": [
+              "ethics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "wang-yangming:evidence:003",
+                "titleZh": "知而不行只是未知",
+                "summaryZh": "王阳明直接论证知与行不可割裂，若仅有口头认同而无行动，则此「知」尚未达到真知的程度。",
+                "source": {
+                  "workId": "wang-yangming-primary-work",
+                  "locator": "《传习录》上卷，徐爱录：「未有知而不行者」段",
+                  "publicDomainExcerptZh": "未有知而不行者。知而不行，只是未知。",
+                  "excerptStatus": "public_domain"
+                }
+              },
+              {
+                "id": "wang-yangming:evidence:004",
+                "titleZh": "知行本体的相互渗透",
+                "summaryZh": "王阳明晚年进一步阐明，真知的真切笃实状态本身即是行动，行动的明觉精察处本身即是知，二者是同一本体的两个面向。",
+                "source": {
+                  "workId": "wang-yangming-primary-work",
+                  "locator": "《传习录》下卷，黄直录：「知之真切笃实处即是行」段",
+                  "publicDomainExcerptZh": "知之真切笃实处即是行，行之明觉精察处即是知。",
+                  "excerptStatus": "public_domain"
+                }
+              }
+            ]
+          },
+          {
+            "id": "wang-yangming:claim:003",
+            "titleZh": "格物即致良知于事事物物",
+            "claimZh": "王阳明以「格」为「正」，将格物重新界定为「致吾心之良知于事事物物」，反对朱熹向外穷理的路径。",
+            "explanationZh": "在王阳明看来，格物不是考察外在事物的客观规律，而是端正自己的意念并将其对象纳入良知的发用；此举把心即理落实到具体的伦理与政治事务中，使事事物物各得其理。",
+            "themeIds": [
+              "ethics",
+              "politics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "wang-yangming:evidence:005",
+                "titleZh": "格者，正也",
+                "summaryZh": "王阳明重新定义「格物」为纠正意念之不正，使其回归于正，强调工夫的重心在心上，而非外物。",
+                "source": {
+                  "workId": "wang-yangming-primary-work",
+                  "locator": "《传习录》上卷，徐爱录：「格者，正也」段",
+                  "publicDomainExcerptZh": "格者，正也。正其不正，以归于正也。",
+                  "excerptStatus": "public_domain"
+                }
+              },
+              {
+                "id": "wang-yangming:evidence:006",
+                "titleZh": "致良知于事事物物",
+                "summaryZh": "在《答顾东桥书》中，王阳明提出将吾心之良知推扩到事事物物之上，使事物各得其理，从而把格物与致良知统一为同一工夫。",
+                "source": {
+                  "workId": "wang-yangming-primary-work",
+                  "locator": "《传习录》中卷，《答顾东桥书》：「致吾心之良知于事事物物」段",
+                  "publicDomainExcerptZh": "致吾心之良知于事事物物，则事事物物皆得其理。",
+                  "excerptStatus": "public_domain"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "wang-yangming:problem:002",
+        "titleZh": "政治权威的伦理基础",
+        "questionZh": "政治权力与治理秩序的正当性来源是什么？统治者应如何运用权力？",
+        "summaryZh": "王阳明把政治伦理建立在「万物一体」的本体论与「亲民」的实践要求之上，主张政治权威的正当性不在于强制控制，而在于统治者能否将心体之仁推扩于百姓与万物。",
+        "themeIds": [
+          "politics"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "wang-yangming:claim:004",
+            "titleZh": "万物一体是政治伦理的本体论根基",
+            "claimZh": "心之本体与天地万物为一体；政治伦理要求统治者意识到自我与百姓、万物之间的本体同一，恶则源于自我与他人、万物的割裂。",
+            "explanationZh": "王阳明继承程颢「仁者以天地万物为一体」的思想，将恻隐、不忍之情从孺子推广到鸟兽、草木、瓦石，说明德性在于扩展一体之仁，政治治理亦应以此为本。",
+            "themeIds": [
+              "politics",
+              "ethics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "wang-yangming:evidence:007",
+                "titleZh": "《大学问》中的万物一体",
+                "summaryZh": "《大学问》以「大人者，以天地万物为一体者也」界定理想人格，为「亲民」与政治治理提供本体论基础。",
+                "source": {
+                  "workId": "wang-yangming-primary-work",
+                  "locator": "《大学问》：「大人者，以天地万物为一体者也」段",
+                  "publicDomainExcerptZh": "大人者，以天地万物为一体者也。",
+                  "excerptStatus": "public_domain"
+                }
+              },
+              {
+                "id": "wang-yangming:evidence:008",
+                "titleZh": "一体之仁的层层推扩",
+                "summaryZh": "王阳明以见孺子入井、鸟兽哀鸣、草木摧折、瓦石毁顿等情境层层推扩，说明人的不忍之心根源于与万物同体的本体关联。",
+                "source": {
+                  "workId": "wang-yangming-primary-work",
+                  "locator": "《传习录》下卷：一体之仁推及鸟兽草木瓦石问答段",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "wang-yangming:claim:005",
+            "titleZh": "政治应以「亲民」而非「新民」为目的",
+            "claimZh": "王阳明主张《大学》「亲民」不应改作「新民」；治平之道在于使百姓相亲、各得其所，而非自上而下的改造或控制。",
+            "explanationZh": "「亲民」强调统治者与百姓之间的亲和关系，反对把政治简化为对民众的规训；它是万物一体之仁在社会层面的直接展开，也是政治正义的重要标志。",
+            "themeIds": [
+              "politics",
+              "justice"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "wang-yangming:evidence:009",
+                "titleZh": "《大学问》以亲民为明德之用",
+                "summaryZh": "《大学问》将「亲民」视为「明明德」的发用，强调治理应使百姓各安其位、相亲相爱，体现万物一体之仁的实践方向。",
+                "source": {
+                  "workId": "wang-yangming-primary-work",
+                  "locator": "《大学问》：「明明德者，立其天地万物一体之体也」段",
+                  "publicDomainExcerptZh": "明明德者，立其天地万物一体之体也；亲民者，达其天地万物一体之用也。",
+                  "excerptStatus": "public_domain"
+                }
+              },
+              {
+                "id": "wang-yangming:evidence:010",
+                "titleZh": "反对改亲民为新民",
+                "summaryZh": "王阳明明确反对将「亲民」改为「新民」，认为「新民」之说遮蔽了政治中仁爱关联的直接性，使治理沦为外在改造。",
+                "source": {
+                  "workId": "wang-yangming-primary-work",
+                  "locator": "《传习录》中卷，《答顾东桥书》：亲民与新民辨析段",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "wang-yangming:problem:003",
+        "titleZh": "正义、秩序与暴力的张力",
+        "questionZh": "在维护社会秩序与实现伦理理想之间，暴力、强制与教化应如何平衡？",
+        "summaryZh": "王阳明兼具哲学家与军政实践者双重身份，其南赣、宁王、两广经历显示：他试图以德治、教化与制度结合实现正义秩序，但军事镇压与「亲民」「万物一体」理想之间存在难以消解的张力。",
+        "themeIds": [
+          "justice"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "wang-yangming:claim:006",
+            "titleZh": "社会秩序可通过教化与制度结合实现",
+            "claimZh": "王阳明在南赣推行乡约、十家牌法、社学与告谕，试图以教化和制度结合的方式实现地方长治久安。",
+            "explanationZh": "这些制度并非单纯的帝国控制技术，而是「致良知」与「亲民」原则在地方治理中的具体化，旨在培养民众的道德自觉与相互责任，从而减少对外在暴力的依赖。",
+            "themeIds": [
+              "politics",
+              "justice"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "wang-yangming:evidence:011",
+                "titleZh": "南赣乡约的教化功能",
+                "summaryZh": "王阳明在南赣制定乡约，以道德劝诫、互助公议和共同礼仪来维系地方秩序，体现亲民原则与制度设计的结合。",
+                "source": {
+                  "workId": "wang-yangming-primary-work",
+                  "locator": "《王阳明全集》卷十六《南赣乡约》开篇立约段",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "wang-yangming:evidence:012",
+                "titleZh": "十家牌法中的治安制度",
+                "summaryZh": "十家牌法通过邻里连坐与信息登记强化治安，显示王阳明治理中制度强制的一面，也反映其在动荡地区的实用取向。",
+                "source": {
+                  "workId": "wang-yangming-primary-work",
+                  "locator": "《王阳明全集》卷十六《十家牌法》编排十家互察段",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "wang-yangming:claim:007",
+            "titleZh": "军事镇压只是不得已的正义手段",
+            "claimZh": "王阳明提出「破山中贼易，破心中贼难」，将军事镇压视为不得已的手段，而将人心教化视为更根本的治理目标。",
+            "explanationZh": "在平定南赣民变与宁王叛乱的过程中，他承认暴力有时不可避免，但认为缺乏良知教化的秩序无法持久；真正的正义秩序须以「破心中贼」、恢复心体同然为归宿。",
+            "themeIds": [
+              "justice",
+              "ethics"
+            ],
+            "weight": 1,
+            "evidence": [
+              {
+                "id": "wang-yangming:evidence:013",
+                "titleZh": "破山中贼与破心中贼",
+                "summaryZh": "王阳明在平定南赣动乱时致书弟子，指出消灭外在反叛容易，消除人心中私欲与恶念才是根本难题，凸显教化的优先性。",
+                "source": {
+                  "workId": "wang-yangming-primary-work",
+                  "locator": "《王阳明全集》卷四《与杨仕德薛尚谦书》：「破山中贼易」段",
+                  "publicDomainExcerptZh": "破山中贼易，破心中贼难。",
+                  "excerptStatus": "public_domain"
+                }
+              },
+              {
+                "id": "wang-yangming:evidence:014",
+                "titleZh": "剿抚并举中的教化导向",
+                "summaryZh": "王阳明在征剿过程中发布告谕，强调招抚与教化并用，显示其军事行动并非单纯征服，而服务于安民与复心体的政治—伦理目标。",
+                "source": {
+                  "workId": "wang-yangming-primary-work",
+                  "locator": "《王阳明全集》两广军政告谕：剿抚并举与安民段",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "tier": "standard"
 }

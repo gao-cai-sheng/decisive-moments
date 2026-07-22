@@ -1,0 +1,45 @@
+{
+  "id": "zigong",
+  "tier": "seed",
+  "names": {
+    "zh": "子贡",
+    "en": "Zigong",
+    "native": "端木賜"
+  },
+  "life": {
+    "birth": -520,
+    "death": -456,
+    "display": "约前520—约前456"
+  },
+  "civilization": "chinese",
+  "traditions": [
+    "confucianism"
+  ],
+  "periods": [
+    "spring_autumn"
+  ],
+  "themes": [
+    "ethics",
+    "politics"
+  ],
+  "keywordsZh": [
+    "孔门",
+    "外交",
+    "言语科"
+  ],
+  "oneLineZh": "以言语、政事与外交能力著称的孔门弟子。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "子贡，复姓端木，名赐，卫人，是孔门弟子中以言语、政事和外交活动见长者。《论语》多次记录他向孔子问仁、问政、问友，并以敏捷的判断力参与师门讨论。《史记》进一步塑造其游说诸侯、经营财富和维护孔子声名的形象，使子贡成为儒家传统中兼具实践能力与师门忠诚的代表。",
+  "works": [
+    "zigong-analects",
+    "zigong-shiji-biography"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S004",
+      "url": "https://ctext.org/shiji/zhong-ni-di-zi-lie-zhuan",
+      "noteZh": "以《论语》与《史记》支撑子贡身份、孔门归属和政治活动。"
+    }
+  ]
+}

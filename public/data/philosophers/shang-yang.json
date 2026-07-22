@@ -1,0 +1,44 @@
+{
+  "id": "shang-yang",
+  "tier": "seed",
+  "names": {
+    "zh": "商鞅",
+    "en": "Shang Yang",
+    "native": "商鞅"
+  },
+  "life": {
+    "birth": -390,
+    "death": -338,
+    "display": "约前390—前338"
+  },
+  "civilization": "chinese",
+  "traditions": [
+    "legalism"
+  ],
+  "periods": [
+    "warring_states"
+  ],
+  "themes": [
+    "politics",
+    "justice"
+  ],
+  "keywordsZh": [
+    "法家",
+    "变法",
+    "秦国"
+  ],
+  "oneLineZh": "战国法家改革者，秦国制度转型的关键人物。",
+  "influenceWeight": 3,
+  "reviewStatus": "draft",
+  "summaryZh": "商鞅，卫国人，入秦辅佐秦孝公推行变法，是战国制度转型中最具标志性的法家政治家。《史记》记其改法、徙木立信、奖励耕战、重塑爵制与县制。《商君书》虽成书复杂，却代表商鞅学派的国家建构方案：以法令、赏罚和农战动员取代贵族礼俗秩序。",
+  "works": [
+    "shang-yang-shang-jun-shu"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S005",
+      "url": "https://ctext.org/shang-jun-shu",
+      "noteZh": "以《商君书》和《史记》商君传支撑商鞅改革身份、著作传统与秦国政治地位。"
+    }
+  ]
+}

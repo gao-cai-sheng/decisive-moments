@@ -1,0 +1,43 @@
+{
+  "id": "ci-lewis",
+  "tier": "seed",
+  "names": {
+    "zh": "克拉伦斯·欧文·刘易斯",
+    "en": "C. I. Lewis"
+  },
+  "life": {
+    "birth": 1883,
+    "death": 1964,
+    "display": "1883—1964"
+  },
+  "civilization": "western",
+  "traditions": [
+    "analytic_philosophy"
+  ],
+  "periods": [
+    "modern"
+  ],
+  "themes": [
+    "language",
+    "knowledge"
+  ],
+  "keywordsZh": [
+    "模态逻辑",
+    "身份层",
+    "二线哲人"
+  ],
+  "oneLineZh": "概念实用主义与模态逻辑代表，可补皮尔士—奎因之间的美国分析线索。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "克拉伦斯·欧文·刘易斯（1883—1964）是 W2 欧陆与英美近现代二线哲人候选。其身份层入选理由为：概念实用主义与模态逻辑代表，可补皮尔士—奎因之间的美国分析线索。 本条仅作 seed 档基本定位，后续若升级标准档，需要重新做著作、论点与 evidence 研究。",
+  "works": [
+    "ci-lewis-mind-and-world-order",
+    "ci-lewis-survey-symbolic-logic"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S009",
+      "noteZh": "权威来源条目：SEP: Clarence Irving Lewis；用于核验人物身份、生卒、代表著作和思想史定位。"
+    }
+  ]
+}

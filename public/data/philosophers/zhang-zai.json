@@ -1,0 +1,298 @@
+{
+  "id": "zhang-zai",
+  "names": {
+    "zh": "张载",
+    "en": "Zhang Zai"
+  },
+  "life": {
+    "birth": 1020,
+    "death": 1077,
+    "display": "1020—1077"
+  },
+  "civilization": "chinese",
+  "traditions": [
+    "neo_confucianism",
+    "qi_monism",
+    "song_learning"
+  ],
+  "periods": [
+    "expansion_e5"
+  ],
+  "themes": [
+    "metaphysics",
+    "ethics",
+    "politics"
+  ],
+  "keywordsZh": [
+    "气",
+    "太虚",
+    "民胞物与",
+    "横渠四句",
+    "正蒙"
+  ],
+  "oneLineZh": "以太虚即气、民胞物与和成德工夫奠定北宋道学气本论传统。",
+  "influenceWeight": 3,
+  "reviewStatus": "draft",
+  "summaryZh": "张载以《正蒙》《西铭》提出太虚即气、聚散变化、天地之性与气质之性等命题，把宇宙生成论、伦理亲亲和政治责任连成一体；他与二程、朱熹所继承的北宋道学共同开辟新儒家形而上学，强调为天地立心、为生民立命的士人使命。",
+  "works": [
+    "zhangzai-zhengmeng",
+    "zhangzai-ximing",
+    "zhangzai-dongming",
+    "zhangzai-jingxue-liku",
+    "zhangzai-yishuo",
+    "zhangzai-collected-works"
+  ],
+  "sourceNotes": [
+    {
+      "label": "primary",
+      "noteZh": "以《正蒙》《西铭》《东铭》《经学理窟》等文本作为真实 works。"
+    },
+    {
+      "label": "IEP/secondary",
+      "noteZh": "用于核对张载气论、太虚、民胞物与和宋明理学关系。"
+    }
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "zhangzai:problem:001",
+        "titleZh": "太虚与气如何统一？",
+        "questionZh": "张载如何用太虚即气反对把虚空理解为绝对无？",
+        "summaryZh": "张载认为太虚不是断灭空无，而是气的无形状态；万物由气聚散变化而成，宇宙论和伦理实践因此同属一个生成过程。",
+        "themeIds": [
+          "metaphysics"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "zhangzai:claim:001",
+            "titleZh": "太虚即气",
+            "claimZh": "虚空不是与气相对的无物，而是气的广大、无形和未聚状态。",
+            "explanationZh": "这个命题既反对佛老式虚无理解，也让新儒家能够以气化解释宇宙生成和人伦责任。",
+            "themeIds": [
+              "metaphysics",
+              "religion"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "zhangzai:evidence:001",
+                "titleZh": "《正蒙》太和篇的气化论",
+                "summaryZh": "《正蒙》以太虚、太和和气化说明有形万物由气聚散而成，虚并非脱离气的绝对空无或断灭。",
+                "source": {
+                  "workId": "zhangzai-zhengmeng",
+                  "locator": "Zhengmeng, Taihe chapter on great void and qi",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "zhangzai:evidence:002",
+                "titleZh": "张载气论的二程朱熹前史",
+                "summaryZh": "二程和朱熹后来都必须处理张载气本论遗产，说明太虚即气是宋代理学形而上学的重要起点。",
+                "source": {
+                  "workId": "zhangzai-zhengmeng",
+                  "locator": "Secondary account of Zhang Zai and Neo-Confucian qi metaphysics",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "zhangzai:claim:002",
+            "titleZh": "气化解释变化和差异",
+            "claimZh": "万物差异来自气的聚散、清浊和变化，而不是彼此孤立的实体根源。",
+            "explanationZh": "张载用气的一元生成保留自然差异，同时避免把世界割裂为超越本体和现象对象。",
+            "themeIds": [
+              "metaphysics",
+              "knowledge"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "zhangzai:evidence:003",
+                "titleZh": "《易说》的变化框架",
+                "summaryZh": "《易说》借《易经》变化语言说明天道流行和气化秩序，使经典解释服务形而上学建构与成德工夫。",
+                "source": {
+                  "workId": "zhangzai-yishuo",
+                  "locator": "Yishuo, change and qi transformation",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "zhangzai:evidence:004",
+                "titleZh": "《张子全书》的气化材料",
+                "summaryZh": "《张子全书》汇集张载关于气、变化和天道的材料，展示其思想如何被后世整理为气本论系统。",
+                "source": {
+                  "workId": "zhangzai-collected-works",
+                  "locator": "Collected Works of Zhang Zai, qi and transformation passages",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "zhangzai:problem:002",
+        "titleZh": "宇宙论如何推出伦理共同体？",
+        "questionZh": "张载怎样从天地父母和民胞物与推出儒家责任？",
+        "summaryZh": "张载把人和万物理解为同一气化天地中的亲属关系，因此伦理不只是社会契约，而是对宇宙亲缘的自觉承担。",
+        "themeIds": [
+          "ethics",
+          "politics",
+          "metaphysics"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "zhangzai:claim:003",
+            "titleZh": "民胞物与扩展仁的范围",
+            "claimZh": "人应把民众视为同胞、万物视为同类，因为人与万物同受天地之气而生。",
+            "explanationZh": "这把儒家仁爱从家族伦理扩展为宇宙伦理，同时仍保留亲亲和差等责任。",
+            "themeIds": [
+              "ethics",
+              "politics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "zhangzai:evidence:005",
+                "titleZh": "《西铭》的天地父母结构",
+                "summaryZh": "《西铭》以乾坤父母、民吾同胞、物吾与也表达宇宙亲属关系，成为宋明理学伦理名篇和万物一体资源。",
+                "source": {
+                  "workId": "zhangzai-ximing",
+                  "locator": "Ximing, Heaven-Earth as parents and people-things as kin",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "zhangzai:evidence:006",
+                "titleZh": "朱熹对《西铭》的经典化",
+                "summaryZh": "朱熹高度重视《西铭》并纳入道学解释传统，使张载宇宙伦理成为后世理学核心资源和诠释对象。",
+                "source": {
+                  "workId": "zhangzai-ximing",
+                  "locator": "Zhu Xi reception of Western Inscription",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "zhangzai:claim:004",
+            "titleZh": "士人使命具有宇宙论根基",
+            "claimZh": "为天地立心、为生民立命等命题把学者责任放在天道、人伦和历史传承之间。",
+            "explanationZh": "张载把读书人的政治和教育使命提升为参与天地生生之德，而非个人功名事业。",
+            "themeIds": [
+              "politics",
+              "ethics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "zhangzai:evidence:007",
+                "titleZh": "横渠四句的使命结构",
+                "summaryZh": "横渠四句以天地、生民、往圣和太平组织士人使命，体现张载把学问连接公共责任和历史传承。",
+                "source": {
+                  "workId": "zhangzai-collected-works",
+                  "locator": "Attributed Hengqu four sentences in collected tradition",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "zhangzai:evidence:008",
+                "titleZh": "《东铭》的修身警醒",
+                "summaryZh": "《东铭》与《西铭》相配，强调敬畏、修身和日常警策，使宇宙伦理落实为个人工夫与行为警醒。",
+                "source": {
+                  "workId": "zhangzai-dongming",
+                  "locator": "Dongming, moral vigilance and self-cultivation",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "zhangzai:problem:003",
+        "titleZh": "如何回应佛老而不落入空无？",
+        "questionZh": "张载如何把佛教和道教问题重新纳入儒家气论与成德工夫？",
+        "summaryZh": "张载吸收佛老关于虚、心和变化的挑战，但坚持世界真实、伦理关系真实，修养目标是尽性成德而非离世空寂。",
+        "themeIds": [
+          "religion",
+          "ethics",
+          "metaphysics"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "zhangzai:claim:005",
+            "titleZh": "虚不等于无",
+            "claimZh": "如果把虚理解为断灭空无，就无法说明万物生成和伦理责任的真实基础。",
+            "explanationZh": "张载通过太虚即气回应佛教空性和道家无的压力，把虚重新儒家化为生生不息的气化根源。",
+            "themeIds": [
+              "metaphysics",
+              "religion"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "zhangzai:evidence:009",
+                "titleZh": "《正蒙》对佛老虚无的批评",
+                "summaryZh": "《正蒙》多处反对把虚空理解为断灭或逃离现实关系，强调气化世界和人伦责任不可废弃。",
+                "source": {
+                  "workId": "zhangzai-zhengmeng",
+                  "locator": "Zhengmeng, critique of Buddhist and Daoist emptiness",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "zhangzai:evidence:010",
+                "titleZh": "气论作为反佛老策略",
+                "summaryZh": "张载气论把生成、身体和伦理纳入同一实在过程，使儒家能够回应佛老形而上学而不接受出世立场。",
+                "source": {
+                  "workId": "zhangzai-zhengmeng",
+                  "locator": "Secondary account of Zhang Zai's critique of Buddhism and Daoism",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "zhangzai:claim:006",
+            "titleZh": "经学是成德工夫",
+            "claimZh": "经典研究不是章句知识积累，而是通过义理理解天地、人伦和自身责任。",
+            "explanationZh": "这使张载的经学同时具有认识论和修养论意义，为宋代理学的读书工夫提供方向。",
+            "themeIds": [
+              "knowledge",
+              "ethics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "zhangzai:evidence:011",
+                "titleZh": "《经学理窟》的义理经学",
+                "summaryZh": "《经学理窟》围绕礼乐、性命、政治和经典解释展开，显示张载把经学作为成德实践和义理探究。",
+                "source": {
+                  "workId": "zhangzai-jingxue-liku",
+                  "locator": "Jingxue Liku, classics and principle learning",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "zhangzai:evidence:012",
+                "titleZh": "《正蒙》的性与气质",
+                "summaryZh": "《正蒙》区分天地之性和气质之性，说明成德需要在具体气质中恢复天命之善并转化偏蔽。",
+                "source": {
+                  "workId": "zhangzai-zhengmeng",
+                  "locator": "Zhengmeng, nature of Heaven and material nature",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "tier": "standard"
+}

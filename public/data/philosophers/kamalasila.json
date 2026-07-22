@@ -1,0 +1,45 @@
+{
+  "id": "kamalasila",
+  "tier": "seed",
+  "names": {
+    "zh": "莲花戒",
+    "en": "Kamalaśīla"
+  },
+  "life": {
+    "birth": 740,
+    "death": 795,
+    "display": "约740—795"
+  },
+  "civilization": "tibetan_buddhist",
+  "traditions": [
+    "madhyamaka",
+    "tibetan_buddhism"
+  ],
+  "periods": [
+    "medieval",
+    "tibetan_early_dissemination"
+  ],
+  "themes": [
+    "religion",
+    "knowledge"
+  ],
+  "keywordsZh": [
+    "桑耶论诤",
+    "修习次第",
+    "渐门"
+  ],
+  "oneLineZh": "桑耶论诤中渐门代表，以《修习次第》成为入藏佛教修道论节点。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "莲花戒（约740—795）是 Seed W6 藏传佛教文明补线候选。其身份层入选理由为：桑耶论诤中渐门代表，以《修习次第》成为入藏佛教修道论节点。 本条仅作 seed 档基本定位，后续若升级标准档，必须重新做著作、论点与 evidence 研究。",
+  "works": [
+    "kamalasila-bhavanakrama"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S002",
+      "url": "https://treasuryoflives.org/biographies/",
+      "noteZh": "来源：Treasury of Lives / Kamalaśīla；用于核验人物身份、断代、代表作与思想史定位。"
+    }
+  ]
+}

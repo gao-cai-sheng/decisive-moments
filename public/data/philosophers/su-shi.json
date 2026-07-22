@@ -1,0 +1,46 @@
+{
+  "id": "su-shi",
+  "tier": "seed",
+  "names": {
+    "zh": "苏轼",
+    "en": "Su Shi",
+    "native": "蘇軾"
+  },
+  "life": {
+    "birth": 1037,
+    "death": 1101,
+    "display": "1037—1101"
+  },
+  "civilization": "chinese",
+  "traditions": [
+    "confucianism",
+    "song_learning"
+  ],
+  "periods": [
+    "northern_song"
+  ],
+  "themes": [
+    "aesthetics",
+    "politics"
+  ],
+  "keywordsZh": [
+    "东坡易传",
+    "苏轼文集",
+    "通达"
+  ],
+  "oneLineZh": "北宋文学家和思想人物，兼通儒释道，以经解、政论和人生论著称。",
+  "influenceWeight": 3,
+  "reviewStatus": "draft",
+  "summaryZh": "苏轼，字子瞻，号东坡居士，北宋文学家、政治人物和思想人物。他不属于程朱理学主线，却在《东坡易传》、政论、诗文和佛道交游中形成通达开放的思想风格。苏轼强调具体人情、历史权衡和精神超越，既反对新法激进，也不满狭隘道学，是宋代士大夫文化的高峰。",
+  "works": [
+    "su-shi-dongpo-yizhuan",
+    "su-shi-wenji"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S011",
+      "url": "https://ctext.org/wiki.pl?if=en&res=821460",
+      "noteZh": "以苏轼《东坡易传》《苏轼文集》支撑身份层。"
+    }
+  ]
+}

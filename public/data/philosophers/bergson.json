@@ -5,9 +5,9 @@
     "en": "Henri Bergson"
   },
   "life": {
-    "display": "1859—1941",
     "birth": 1859,
-    "death": 1941
+    "death": 1941,
+    "display": "1859—1941"
   },
   "civilization": "european_modern",
   "traditions": [
@@ -38,5 +38,242 @@
       "label": "draft",
       "noteZh": "条目需要人工核对作品、年代和概念表述。"
     }
-  ]
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "bergson:problem:001",
+        "titleZh": "真实时间为何不是空间化钟表时间？",
+        "questionZh": "柏格森如何围绕“真实时间为何不是空间化钟表时间？”建立其思想问题？",
+        "summaryZh": "柏格森以绵延概念批判把时间当作均质空间序列，强调意识生命的连续生成和质性差异。",
+        "themeIds": [
+          "metaphysics"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "bergson:claim:001",
+            "titleZh": "绵延是质的连续性",
+            "claimZh": "柏格森主张，真实时间不是可并列计数的点，而是相互渗透、不可还原为外在空间排列的意识流。",
+            "explanationZh": "该命题挑战机械论和理智主义时间观，把自由、记忆和生命创造性奠基于不可空间化的生成经验。",
+            "themeIds": [
+              "metaphysics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "bergson:evidence:001",
+                "titleZh": "绵延是质的连续性的文本依据",
+                "summaryZh": "柏格森分析我们如何把时间投射为空间数量，并据此遮蔽内在经验的连续质变和相互渗透。",
+                "source": {
+                  "workId": "bergson-primary-work",
+                  "locator": "《时间与自由意志》第二章关于绵延与空间的区分",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "bergson:evidence:001b",
+                "titleZh": "内在绵延与数目化时间的对照",
+                "summaryZh": "《时间与自由意志》将数目化的外在时间同意识内部的绵延区分开来，说明真实时间具有质性连续。",
+                "source": {
+                  "workId": "bergson-primary-work",
+                  "locator": "《时间与自由意志》第二章：数目、多样性和内在绵延段落",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "bergson:claim:002",
+            "titleZh": "自由行动来自整体人格的生成",
+            "claimZh": "柏格森认为自由不是无原因的任意选择，而是行动从个人全部历史和绵延中成熟地涌现出来。",
+            "explanationZh": "该命题将自由问题从抽象选择转向生命过程，说明决定论误解来自把行动拆成空间化因果片段。",
+            "themeIds": [
+              "freedom",
+              "metaphysics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "bergson:evidence:002",
+                "titleZh": "自由行动来自整体人格的文本依据",
+                "summaryZh": "柏格森说明真正自由行为表达整个自我，而不是在外在可计算动机之间机械选择和权衡过程。",
+                "source": {
+                  "workId": "bergson-primary-work",
+                  "locator": "《时间与自由意志》第三章关于自由行为",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "bergson:evidence:002b",
+                "titleZh": "自由与人格历史的成熟",
+                "summaryZh": "《时间与自由意志》第三章把自由行为描述为人格历史的成熟表达，反驳把动机并列计算的决定论模型。",
+                "source": {
+                  "workId": "bergson-primary-work",
+                  "locator": "《时间与自由意志》第三章：自由行为与整个自我段落",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "bergson:problem:002",
+        "titleZh": "记忆如何连接身体与精神？",
+        "questionZh": "柏格森如何围绕“记忆如何连接身体与精神？”建立其思想问题？",
+        "summaryZh": "柏格森通过纯粹记忆、习惯记忆和身体行动的区分，重构物质、知觉与精神之间的关系。",
+        "themeIds": [
+          "metaphysics"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "bergson:claim:003",
+            "titleZh": "知觉面向行动而非纯表象",
+            "claimZh": "柏格森认为知觉首先服务于身体可能行动的选择，不是对外部世界的中性复制。",
+            "explanationZh": "该命题把心物关系改写为行动关系，身体在世界中筛选有用影响，而非制造封闭图像。",
+            "themeIds": [
+              "metaphysics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "bergson:evidence:003",
+                "titleZh": "知觉面向行动而非纯表象的文本依据",
+                "summaryZh": "柏格森把身体理解为接收和传递运动的中心，说明知觉与可能行动范围相联系起来解释基础。",
+                "source": {
+                  "workId": "bergson-primary-work",
+                  "locator": "《物质与记忆》第一章关于身体作为行动中心",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "bergson:evidence:003b",
+                "titleZh": "身体筛选图像以服务行动",
+                "summaryZh": "《物质与记忆》第一章将身体置于图像系统之中，说明知觉选择对行动有用的影响而非复制世界全貌。",
+                "source": {
+                  "workId": "bergson-primary-work",
+                  "locator": "《物质与记忆》第一章：身体、图像和可能行动段落",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "bergson:claim:004",
+            "titleZh": "纯粹记忆保存过去本身",
+            "claimZh": "柏格森主张，过去并非只以脑痕迹形式存在；纯粹记忆作为过去的保存，使当前行动可被历史深度渗透。",
+            "explanationZh": "该命题既反对把记忆还原为生理机制，也避免把精神实体化，突出回忆在行动情境中的实际化过程。",
+            "themeIds": [
+              "metaphysics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "bergson:evidence:004",
+                "titleZh": "纯粹记忆保存过去本身的文本依据",
+                "summaryZh": "柏格森区分自动化身体习惯与可被召回的过去意象，说明记忆有不同存在方式层次结构区分。",
+                "source": {
+                  "workId": "bergson-primary-work",
+                  "locator": "《物质与记忆》第二章关于纯粹记忆与习惯记忆",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "bergson:evidence:004b",
+                "titleZh": "过去通过回忆实际化",
+                "summaryZh": "《物质与记忆》把回忆理解为过去在当前行动中的实际化，说明记忆不是单纯脑部痕迹保存。",
+                "source": {
+                  "workId": "bergson-primary-work",
+                  "locator": "《物质与记忆》第二至三章：纯粹记忆、回忆意象和实际化段落",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "bergson:problem:003",
+        "titleZh": "生命演化是否包含创造性？",
+        "questionZh": "柏格森如何围绕“生命演化是否包含创造性？”建立其思想问题？",
+        "summaryZh": "柏格森反对以机械论或目的论穷尽生命过程，提出生命冲力和创造性演化来解释新形式的出现。",
+        "themeIds": [
+          "life_death",
+          "metaphysics"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "bergson:claim:005",
+            "titleZh": "生命不能还原为机械组合",
+            "claimZh": "柏格森认为机械论只能解释既成结构的重排，却难以说明生命演化中的真实新颖性和方向性分化。",
+            "explanationZh": "该命题批判将生命看作外在部件组合的模型，强调生成过程本身具有不可预先完全计算的创造性。",
+            "themeIds": [
+              "life_death",
+              "metaphysics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "bergson:evidence:005",
+                "titleZh": "生命不能还原为机械组合的文本依据",
+                "summaryZh": "柏格森同时批判机械因果和预设目的，提出演化应理解为开放的创造过程和新形式生成机制。",
+                "source": {
+                  "workId": "bergson-primary-work",
+                  "locator": "《创造进化》第一章关于机械论与目的论的双重不足",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "bergson:evidence:005b",
+                "titleZh": "生命冲力与分化路径",
+                "summaryZh": "《创造进化》讨论生命冲力在植物、动物和意识方向上的分化，说明演化不是既定结构的机械重排。",
+                "source": {
+                  "workId": "bergson-primary-work",
+                  "locator": "《创造进化》第二章：生命冲力及演化分化段落",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "bergson:claim:006",
+            "titleZh": "理智服务制造，直觉把握生命",
+            "claimZh": "柏格森认为理智擅长处理固体、空间和工具性行动，但把握绵延与生命生成需要直觉方法。",
+            "explanationZh": "该命题构成其方法论核心：哲学不是反理性，而是指出概念理智的适用范围。",
+            "themeIds": [
+              "knowledge",
+              "life_death"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "bergson:evidence:006",
+                "titleZh": "理智服务制造，直觉把握生命的文本依据",
+                "summaryZh": "柏格森把理智的形成同工具制造和空间化操作相连，解释其为何偏好稳定对象形式处理方式。",
+                "source": {
+                  "workId": "bergson-primary-work",
+                  "locator": "《创造进化》第三章关于理智与制造",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "bergson:evidence:006b",
+                "titleZh": "直觉进入绵延的方法意义",
+                "summaryZh": "柏格森在《形而上学导论》中把直觉描述为进入对象内部绵延的方法，补充理智分析的限度。",
+                "source": {
+                  "workId": "bergson-primary-work",
+                  "locator": "《形而上学导论》关于直觉、分析和绵延的方法段落",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "tier": "standard"
 }

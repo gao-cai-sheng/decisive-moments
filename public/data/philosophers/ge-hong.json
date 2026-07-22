@@ -1,0 +1,45 @@
+{
+  "id": "ge-hong",
+  "tier": "seed",
+  "names": {
+    "zh": "葛洪",
+    "en": "Ge Hong",
+    "native": "葛洪"
+  },
+  "life": {
+    "birth": 283,
+    "death": 343,
+    "display": "283—343"
+  },
+  "civilization": "chinese",
+  "traditions": [
+    "daoism"
+  ],
+  "periods": [
+    "eastern_jin"
+  ],
+  "themes": [
+    "religion",
+    "metaphysics"
+  ],
+  "keywordsZh": [
+    "抱朴子",
+    "神仙传",
+    "道教"
+  ],
+  "oneLineZh": "东晋道教思想家和炼养理论家，以《抱朴子》著称。",
+  "influenceWeight": 3,
+  "reviewStatus": "draft",
+  "summaryZh": "葛洪，字稚川，自号抱朴子，东晋道教思想家、方术家和文献整理者。《抱朴子》内篇讨论神仙、炼丹、养生和玄道，外篇则涉及政治伦理、文章和社会批评。《神仙传》塑造道教人物谱系。葛洪把儒家外王秩序与道教内修成仙并置，是早期道教理论化的重要节点。",
+  "works": [
+    "ge-hong-baopuzi",
+    "ge-hong-shenxian-zhuan"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S012",
+      "url": "https://ctext.org/bao-pu-zi",
+      "noteZh": "以《抱朴子》《神仙传》支撑葛洪身份、作品和道教定位。"
+    }
+  ]
+}

@@ -1,0 +1,292 @@
+{
+  "id": "macintyre",
+  "names": {
+    "zh": "麦金太尔",
+    "en": "Alasdair MacIntyre"
+  },
+  "life": {
+    "birth": 1929,
+    "death": 2025,
+    "display": "1929—2025"
+  },
+  "civilization": "western_modern",
+  "traditions": [
+    "virtue_ethics",
+    "aristotelianism",
+    "communitarianism"
+  ],
+  "periods": [
+    "expansion_c1"
+  ],
+  "themes": [
+    "ethics",
+    "politics",
+    "knowledge"
+  ],
+  "keywordsZh": [
+    "德性伦理",
+    "实践",
+    "传统",
+    "叙事统一",
+    "现代道德碎片化"
+  ],
+  "oneLineZh": "以德性、实践和传统构成现代道德哲学中反自由主义与反情感主义的重要方案。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "麦金太尔把现代道德语言的碎片化追溯到传统断裂，并以亚里士多德式实践、德性和共同体传统重建理性伦理。",
+  "works": [
+    "macintyre-after-virtue",
+    "macintyre-whose-justice",
+    "macintyre-three-rival-versions",
+    "macintyre-dependent-rational-animals",
+    "macintyre-ethics-conflicts-modernity"
+  ],
+  "sourceNotes": [
+    {
+      "label": "Primary corpus note",
+      "url": "https://plato.stanford.edu/entries/macintyre/",
+      "noteZh": "二手条目仅用于核对作品和关系线；evidence 以麦金太尔原著自身论证为摘要对象。"
+    }
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "macintyre:problem:001",
+        "titleZh": "现代道德语言的碎片化",
+        "questionZh": "麦金太尔为什么认为现代道德争论已经失去共同理性背景？",
+        "summaryZh": "麦金太尔把现代道德争论描述为概念残片的冲突，认为人们仍使用义务和权利语言，却失去支撑它们的目的论传统。",
+        "themeIds": [
+          "ethics",
+          "language"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "macintyre:claim:001",
+            "titleZh": "情感主义暴露共同标准崩塌",
+            "claimZh": "麦金太尔认为现代道德判断常退化为偏好表达，因为共享的德性和目的论框架已经断裂。",
+            "explanationZh": "这条主张解释了《追寻美德》的诊断起点：现代争论并非只是观点多元，而是缺少能裁判观点的共同实践传统。",
+            "themeIds": [
+              "ethics",
+              "language"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "macintyre:evidence:001",
+                "titleZh": "《追寻美德》开篇的灾难寓言",
+                "summaryZh": "开篇科学灾难寓言把现代道德语言比作只剩残片的知识体系，说明术语仍在流通，但原有整体脉络已经失落。",
+                "source": {
+                  "workId": "macintyre-after-virtue",
+                  "locator": "After Virtue, opening chapters on the disquieting suggestion and emotivism",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "macintyre:evidence:002",
+                "titleZh": "情感主义章节分析道德判断",
+                "summaryZh": "文本将情感主义解释为现代文化的社会事实：道德话语表面争论理由，实际常成为个人态度和操纵性表达。",
+                "source": {
+                  "workId": "macintyre-after-virtue",
+                  "locator": "After Virtue, chapters on emotivism and modern moral disagreement",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "macintyre:claim:002",
+            "titleZh": "现代个人脱离叙事传统",
+            "claimZh": "麦金太尔批判现代自我被理解为可任意选择目标的主体，从而失去由故事和共同体塑造的身份。",
+            "explanationZh": "他把道德主体放回生命叙事和社会角色之中，反对把伦理学简化为孤立个体的选择程序。",
+            "themeIds": [
+              "ethics",
+              "politics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "macintyre:evidence:003",
+                "titleZh": "《追寻美德》论叙事统一",
+                "summaryZh": "关于生命叙事统一的章节说明，一个人的行动只有嵌入故事、角色和共同追求，才具有可理解的道德意义。",
+                "source": {
+                  "workId": "macintyre-after-virtue",
+                  "locator": "After Virtue, chapters on narrative unity of a human life",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "macintyre:evidence:004",
+                "titleZh": "现代管理者和审美人形象",
+                "summaryZh": "书中把管理者、治疗师和审美人视为现代文化角色，显示脱离共同善的主体会把他人和价值转化为可操作对象。",
+                "source": {
+                  "workId": "macintyre-after-virtue",
+                  "locator": "After Virtue, social characters of modernity",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "macintyre:problem:002",
+        "titleZh": "实践、德性与传统理性",
+        "questionZh": "麦金太尔如何用实践和传统重新定义理性伦理？",
+        "summaryZh": "麦金太尔以实践内部善、德性和传统争辩说明理性并非中立算法，而是在历史共同体中学习、修正和继承的能力。",
+        "themeIds": [
+          "ethics",
+          "knowledge"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "macintyre:claim:003",
+            "titleZh": "德性服务于实践内部善",
+            "claimZh": "麦金太尔把德性理解为维持实践内部善和共同卓越标准的品质，而非孤立的个人性格清单。",
+            "explanationZh": "这一主张使德性伦理获得社会结构：德性要在实践共同体中被训练、承认和检验。",
+            "themeIds": [
+              "ethics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "macintyre:evidence:005",
+                "titleZh": "《追寻美德》区分内部善和外部善",
+                "summaryZh": "实践章节通过棋艺、医学和建筑等例子区分内部善与外部奖赏，说明德性保护实践不被金钱和权力吞没。",
+                "source": {
+                  "workId": "macintyre-after-virtue",
+                  "locator": "After Virtue, chapter on practices and internal goods",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "macintyre:evidence:006",
+                "titleZh": "实践传统需要共同标准",
+                "summaryZh": "文本强调实践不是随意活动，而是有历史积累的合作形式，参与者必须学习其卓越标准才能判断何为进步。",
+                "source": {
+                  "workId": "macintyre-after-virtue",
+                  "locator": "After Virtue, practice, excellence, and standards",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "macintyre:claim:004",
+            "titleZh": "理性总在传统内部争辩",
+            "claimZh": "麦金太尔认为不同传统拥有自身问题、权威和失败经验，理性比较必须通过传统之间的危机和翻译展开。",
+            "explanationZh": "这使他既反对中立自由主义理性，也反对相对主义；传统可以互相学习和被击败，但没有无传统的评判点。",
+            "themeIds": [
+              "knowledge",
+              "justice"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "macintyre:evidence:007",
+                "titleZh": "《谁之正义？何种合理性？》比较传统",
+                "summaryZh": "书中通过古典、奥古斯丁、苏格兰启蒙和自由主义材料显示，正义概念随传统问题而变化，不能脱离历史语境比较。",
+                "source": {
+                  "workId": "macintyre-whose-justice",
+                  "locator": "Whose Justice? Which Rationality?, comparative chapters on rival traditions",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "macintyre:evidence:008",
+                "titleZh": "《三种竞争版本》论探究制度",
+                "summaryZh": "文本把百科全书式、谱系学式和传统式探究并列，说明理性冲突发生在不同学术制度和权威结构之间。",
+                "source": {
+                  "workId": "macintyre-three-rival-versions",
+                  "locator": "Three Rival Versions, lectures on encyclopedia, genealogy, and tradition",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "macintyre:problem:003",
+        "titleZh": "依赖性与现代资本主义批判",
+        "questionZh": "麦金太尔晚期如何修正德性伦理并回应现代制度？",
+        "summaryZh": "麦金太尔晚期把人理解为依赖性的理性动物，强调脆弱、照护和地方共同体，以此批判市场和官僚制度对实践善的侵蚀。",
+        "themeIds": [
+          "ethics",
+          "politics"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "macintyre:claim:005",
+            "titleZh": "人是依赖性的理性动物",
+            "claimZh": "麦金太尔把脆弱和依赖放入德性伦理核心，反对只强调自主成年人的道德哲学图像。",
+            "explanationZh": "这条主张使他的亚里士多德主义更重视身体、照护和互惠关系，也回应残障与社会依赖问题。",
+            "themeIds": [
+              "ethics",
+              "life_death"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "macintyre:evidence:009",
+                "titleZh": "《依赖性的理性动物》从动物性出发",
+                "summaryZh": "书中将人类理性嵌入动物脆弱性和成长过程，说明独立判断能力依赖长期照护和共同体支持。",
+                "source": {
+                  "workId": "macintyre-dependent-rational-animals",
+                  "locator": "Dependent Rational Animals, chapters on vulnerability and dependence",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "macintyre:evidence:010",
+                "titleZh": "照护德性重排实践共同体",
+                "summaryZh": "文本讨论给予和接受照护所需的德性，表明共同体不仅培养卓越，也必须承认成员在不同阶段的依赖状态。",
+                "source": {
+                  "workId": "macintyre-dependent-rational-animals",
+                  "locator": "Dependent Rational Animals, virtues of acknowledged dependence",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "macintyre:claim:006",
+            "titleZh": "现代制度侵蚀共同善实践",
+            "claimZh": "麦金太尔认为市场、国家和管理制度常把实践善转化为外部指标，因此需要地方性共同体抵抗。",
+            "explanationZh": "这条主张将德性伦理转向制度批判，使其与罗尔斯、诺齐克和现代自由主义形成持续张力。",
+            "themeIds": [
+              "politics",
+              "justice"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "macintyre:evidence:011",
+                "titleZh": "《现代性的伦理冲突》批判资本主义秩序",
+                "summaryZh": "晚期文本把道德冲突放入现代经济和政治结构中，说明资本主义制度会削弱共同善和实践德性。",
+                "source": {
+                  "workId": "macintyre-ethics-conflicts-modernity",
+                  "locator": "Ethics in the Conflicts of Modernity, chapters on capitalism and practical reasoning",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "macintyre:evidence:012",
+                "titleZh": "地方共同体承担抵抗功能",
+                "summaryZh": "书中强调小规模共同体和实践网络能保存共同善判断，使伦理生活不完全服从国家官僚和市场成功标准。",
+                "source": {
+                  "workId": "macintyre-ethics-conflicts-modernity",
+                  "locator": "Ethics in the Conflicts of Modernity, local community and common goods",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "tier": "standard"
+}

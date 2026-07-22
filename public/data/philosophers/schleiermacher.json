@@ -1,0 +1,293 @@
+{
+  "id": "schleiermacher",
+  "names": {
+    "zh": "施莱尔马赫",
+    "en": "Friedrich Schleiermacher"
+  },
+  "life": {
+    "birth": 1768,
+    "death": 1834,
+    "display": "1768—1834"
+  },
+  "civilization": "western_modern",
+  "traditions": [
+    "hermeneutics",
+    "romanticism",
+    "protestant_theology"
+  ],
+  "periods": [
+    "expansion_d1"
+  ],
+  "themes": [
+    "religion",
+    "language",
+    "knowledge"
+  ],
+  "keywordsZh": [
+    "诠释学",
+    "宗教感情",
+    "绝对依赖",
+    "个体性",
+    "浪漫主义神学"
+  ],
+  "oneLineZh": "以宗教感情理论和普遍诠释学把现代神学、解释理论与主体个体性连接起来。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "施莱尔马赫把宗教理解为绝对依赖感，并将理解活动扩展为兼具语法解释和心理重构的普遍诠释学。",
+  "works": [
+    "schleiermacher-on-religion",
+    "schleiermacher-hermeneutics-criticism",
+    "schleiermacher-christian-faith",
+    "schleiermacher-dialectic",
+    "schleiermacher-soliloquies"
+  ],
+  "sourceNotes": [
+    {
+      "label": "Primary corpus note",
+      "url": "https://plato.stanford.edu/entries/schleiermacher/",
+      "noteZh": "以宗教、诠释学和辩证法文本为核心；二手条目只用于核对关系线与文本定位。"
+    }
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "schleiermacher:problem:001",
+        "titleZh": "宗教感情与绝对依赖",
+        "questionZh": "施莱尔马赫如何把宗教从形而上学理论和道德命令中区分出来？",
+        "summaryZh": "施莱尔马赫把宗教定位为直观、情感和绝对依赖意识，试图在启蒙批判之后重新说明宗教经验的独特性。",
+        "themeIds": [
+          "religion",
+          "metaphysics"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "schleiermacher:claim:001",
+            "titleZh": "宗教不是知识命题或道德规则",
+            "claimZh": "施莱尔马赫认为宗教的核心不是形而上学解释或伦理命令，而是对宇宙整体的直观和情感关系。",
+            "explanationZh": "这让宗教在理性主义和道德主义之间获得相对独立位置，也打开现代宗教经验论的道路。",
+            "themeIds": [
+              "religion",
+              "knowledge"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "schleiermacher:evidence:001",
+                "titleZh": "《论宗教》第二讲区分宗教与形而上学",
+                "summaryZh": "第二讲把宗教同解释世界本质的形而上学区分开来，强调宗教是直观和情感中的整体关联经验。",
+                "source": {
+                  "workId": "schleiermacher-on-religion",
+                  "locator": "second speech on the essence of religion",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "schleiermacher:evidence:002",
+                "titleZh": "《论宗教》反对把宗教化约为道德",
+                "summaryZh": "文本批评只把宗教当作道德附属物的做法，认为宗教经验有自身的感受结构、世界关联和独立表达形式。",
+                "source": {
+                  "workId": "schleiermacher-on-religion",
+                  "locator": "second speech on religion and morality",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "schleiermacher:claim:002",
+            "titleZh": "绝对依赖感重构神学基础",
+            "claimZh": "在成熟神学中，施莱尔马赫以绝对依赖感解释宗教意识，使教义从信仰经验结构中展开。",
+            "explanationZh": "这使神学不再首先依赖外在权威或纯概念证明，而从主体对有限性和神圣关系的意识出发。",
+            "themeIds": [
+              "religion",
+              "metaphysics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "schleiermacher:evidence:003",
+                "titleZh": "《基督教信仰》导论论虔敬意识",
+                "summaryZh": "导论把基督教教义同虔敬自我意识联系起来，说明神学陈述应表达宗教意识中的依赖结构。",
+                "source": {
+                  "workId": "schleiermacher-christian-faith",
+                  "locator": "introduction sections 3-4 on pious self-consciousness",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "schleiermacher:evidence:004",
+                "titleZh": "《基督教信仰》论绝对依赖感",
+                "summaryZh": "文本把绝对依赖感作为宗教意识的基本形式，用以说明人与神关系不是普通因果依赖的扩大版。",
+                "source": {
+                  "workId": "schleiermacher-christian-faith",
+                  "locator": "introduction sections 4-5 on absolute dependence",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "schleiermacher:problem:002",
+        "titleZh": "普遍诠释学与理解方法",
+        "questionZh": "施莱尔马赫如何把解释从文本技术提升为普遍理解理论？",
+        "summaryZh": "施莱尔马赫把理解看作语言规则和作者个体性的双重重构，使诠释学从局部文本技巧转向普遍方法论。",
+        "themeIds": [
+          "language",
+          "knowledge"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "schleiermacher:claim:003",
+            "titleZh": "解释需要语法与心理双重路径",
+            "claimZh": "施莱尔马赫认为理解文本既要分析语言规则，也要重构作者个体思想活动，二者缺一不可。",
+            "explanationZh": "这使解释不只是词义查找，也不是任意心理投射，而是在公共语言和个体创造之间往返。",
+            "themeIds": [
+              "language",
+              "knowledge"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "schleiermacher:evidence:005",
+                "titleZh": "《诠释学与批判》区分语法解释和心理解释",
+                "summaryZh": "讲稿把语法解释定位于语言整体，把心理解释定位于作者个别思想生产，形成双重解释程序。",
+                "source": {
+                  "workId": "schleiermacher-hermeneutics-criticism",
+                  "locator": "general hermeneutics lectures on grammatical and psychological interpretation",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "schleiermacher:evidence:006",
+                "titleZh": "《诠释学与批判》论误解的普遍可能",
+                "summaryZh": "文本把误解视为理解中普遍需要预防的风险，因此解释学不是例外修补，而是所有理解活动的基本纪律。",
+                "source": {
+                  "workId": "schleiermacher-hermeneutics-criticism",
+                  "locator": "introduction on misunderstanding and universal hermeneutics",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "schleiermacher:claim:004",
+            "titleZh": "理解是在整体与部分之间循环推进",
+            "claimZh": "施莱尔马赫把理解描述为部分和整体之间的相互校正，读者必须在词句、作品和作者语境之间移动。",
+            "explanationZh": "这一结构为后来的诠释学循环提供前史，使狄尔泰和伽达默尔能够继续讨论历史理解的条件。",
+            "themeIds": [
+              "language",
+              "knowledge"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "schleiermacher:evidence:007",
+                "titleZh": "《诠释学与批判》论部分与整体关系",
+                "summaryZh": "讲稿要求解释者从单个表达回到作品整体，又从整体校正局部意义，避免孤立词句造成误读。",
+                "source": {
+                  "workId": "schleiermacher-hermeneutics-criticism",
+                  "locator": "lectures on part-whole relation in interpretation",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "schleiermacher:evidence:008",
+                "titleZh": "《辩证法》论思想与对话条件",
+                "summaryZh": "辩证法讲稿把知识形成放在共同思想和对话结构中，补充说明理解为何需要可共享的语言秩序。",
+                "source": {
+                  "workId": "schleiermacher-dialectic",
+                  "locator": "lectures on knowledge and dialogue",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "schleiermacher:problem:003",
+        "titleZh": "个体性、共同体与现代主体",
+        "questionZh": "施莱尔马赫如何在浪漫主义语境中理解个体性与共同体生活？",
+        "summaryZh": "施莱尔马赫强调个体自我形成和宗教共同体并行，既反对抽象同质化，也不把主体变成孤立个人。",
+        "themeIds": [
+          "freedom",
+          "religion"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "schleiermacher:claim:005",
+            "titleZh": "个体性是自我形成的伦理任务",
+            "claimZh": "施莱尔马赫把个体独特性视为需要形成和表达的任务，而不是只服从外在普遍规范。",
+            "explanationZh": "这一点体现浪漫主义主体性：真正的人格既要参与普遍精神生活，又要发展不可替代的自身形态。",
+            "themeIds": [
+              "freedom",
+              "ethics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "schleiermacher:evidence:009",
+                "titleZh": "《独白》强调自我独特性",
+                "summaryZh": "文本把自我塑造描述为发现和实现个体独特生命形式的过程，反对把人格化约为外在角色。",
+                "source": {
+                  "workId": "schleiermacher-soliloquies",
+                  "locator": "second soliloquy on individuality and self-formation",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "schleiermacher:evidence:010",
+                "titleZh": "《独白》连接自由与人格实现",
+                "summaryZh": "书中把自由理解为个体在世界关系中形成自身，而不是简单摆脱一切关联或服从抽象命令。",
+                "source": {
+                  "workId": "schleiermacher-soliloquies",
+                  "locator": "third soliloquy on freedom and selfhood",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "schleiermacher:claim:006",
+            "titleZh": "宗教共同体保存经验表达",
+            "claimZh": "施莱尔马赫认为宗教经验需要共同体、语言和传统表达，否则纯粹内在感情难以获得稳定形态。",
+            "explanationZh": "这避免把宗教理解为私密心理事件，也解释了他为何仍重视教会、讲道和神学表达。",
+            "themeIds": [
+              "religion",
+              "language"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "schleiermacher:evidence:011",
+                "titleZh": "《论宗教》第五讲论宗教共同体",
+                "summaryZh": "第五讲把宗教经验的表达和交流放在共同体中讨论，说明个体感情需要语言、社群承载和公共传达形式。",
+                "source": {
+                  "workId": "schleiermacher-on-religion",
+                  "locator": "fifth speech on religion and association",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "schleiermacher:evidence:012",
+                "titleZh": "《基督教信仰》把教义连于共同信仰意识",
+                "summaryZh": "成熟神学文本把教义陈述理解为共同信仰意识的表达，强调宗教真理具有社群和历史形态。",
+                "source": {
+                  "workId": "schleiermacher-christian-faith",
+                  "locator": "introduction sections 19-24 on church doctrine",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "tier": "standard"
+}

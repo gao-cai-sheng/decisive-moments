@@ -1,0 +1,297 @@
+{
+  "id": "feuerbach",
+  "names": {
+    "zh": "费尔巴哈",
+    "en": "Ludwig Andreas Feuerbach"
+  },
+  "life": {
+    "birth": 1804,
+    "death": 1872,
+    "display": "1804—1872"
+  },
+  "civilization": "european_modern",
+  "traditions": [
+    "young_hegelian",
+    "anthropological_materialism"
+  ],
+  "periods": [
+    "expansion_e1"
+  ],
+  "themes": [
+    "religion",
+    "metaphysics",
+    "politics"
+  ],
+  "keywordsZh": [
+    "宗教批判",
+    "投射",
+    "人本学",
+    "青年黑格尔派",
+    "马克思"
+  ],
+  "oneLineZh": "把黑格尔思辨神学倒转为人本学宗教批判，并成为马克思早期异化批判的近端入口。",
+  "influenceWeight": 3,
+  "reviewStatus": "draft",
+  "summaryZh": "费尔巴哈以《基督教的本质》把神学对象解释为人的本质、愿望与共同生活的外化，批判黑格尔的思辨神学，同时为马克思、恩格斯对宗教、异化和实践唯物主义的转化提供直接背景。",
+  "works": [
+    "feuerbach-thoughts-death-immortality",
+    "feuerbach-essence-christianity",
+    "feuerbach-preliminary-theses-reform",
+    "feuerbach-principles-philosophy-future",
+    "feuerbach-lectures-essence-religion"
+  ],
+  "sourceNotes": [
+    {
+      "label": "SEP",
+      "url": "https://plato.stanford.edu/entries/ludwig-feuerbach/",
+      "noteZh": "用于核对费尔巴哈生平、宗教批判、人本学与黑格尔/马克思关系。"
+    },
+    {
+      "label": "review",
+      "noteZh": "E1 批新增条目，重点连接黑格尔向马克思过渡的断链。"
+    }
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "feuerbach:problem:001",
+        "titleZh": "宗教对象为何是人的本质投射？",
+        "questionZh": "费尔巴哈如何把上帝、神性和宗教情感解释为人的本质对象化？",
+        "summaryZh": "费尔巴哈把神学还原为人本学：宗教并非认识外在神的科学，而是人把理性、爱、意志和共同需要对象化为神的过程。",
+        "themeIds": [
+          "religion",
+          "metaphysics"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "feuerbach:claim:001",
+            "titleZh": "上帝是人的本质外化",
+            "claimZh": "宗教中的神性谓词首先表达人的能力、愿望和类本质，而不是独立对象的经验知识。",
+            "explanationZh": "费尔巴哈由此把神学命题转换为关于人的命题，宗教批判成为人的自我认识的一种形式。",
+            "themeIds": [
+              "religion",
+              "knowledge"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "feuerbach:evidence:001",
+                "titleZh": "《基督教的本质》的人本学命题",
+                "summaryZh": "《基督教的本质》开篇把宗教对象解释为人的内在本质之外化，神的属性对应人的理解、爱和意志。",
+                "source": {
+                  "workId": "feuerbach-essence-christianity",
+                  "locator": "Part I, chapter 1 on the essence of man in religion",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "feuerbach:evidence:002",
+                "titleZh": "SEP 对投射论的概括",
+                "summaryZh": "SEP 将费尔巴哈宗教批判概括为把神学还原为人类学，说明上帝观念来自人的本质对象化。",
+                "source": {
+                  "workId": "feuerbach-essence-christianity",
+                  "locator": "SEP Ludwig Feuerbach, section on The Essence of Christianity",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "feuerbach:claim:002",
+            "titleZh": "宗教异化遮蔽人的共同能力",
+            "claimZh": "当人把自身本质归给神时，人也把自己的力量异化为支配自己的外在权威。",
+            "explanationZh": "这一诊断使费尔巴哈成为马克思异化批判的直接背景，但费尔巴哈仍主要停留在人本学和宗教意识层面。",
+            "themeIds": [
+              "religion",
+              "politics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "feuerbach:evidence:003",
+                "titleZh": "宗教意识的反转结构",
+                "summaryZh": "《基督教的本质》反复说明人越把善、理性和爱归于神，就越以贫乏方式理解自己的现实能力。",
+                "source": {
+                  "workId": "feuerbach-essence-christianity",
+                  "locator": "Part I, chapters on divine predicates and human essence",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "feuerbach:evidence:004",
+                "titleZh": "马克思前史中的异化位置",
+                "summaryZh": "SEP 指出费尔巴哈对宗教异化的分析影响马克思早期文本，同时也被马克思批评为缺乏实践社会维度。",
+                "source": {
+                  "workId": "feuerbach-essence-christianity",
+                  "locator": "SEP Ludwig Feuerbach, reception by Marx",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "feuerbach:problem:002",
+        "titleZh": "哲学如何从思辨神学回到感性的人？",
+        "questionZh": "费尔巴哈如何批判黑格尔思辨哲学，并提出未来哲学的人本学转向？",
+        "summaryZh": "费尔巴哈认为黑格尔哲学仍以概念形式保存神学结构；真正的未来哲学必须从感性、身体、自然和人与人的关系出发。",
+        "themeIds": [
+          "metaphysics",
+          "knowledge"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "feuerbach:claim:003",
+            "titleZh": "黑格尔把主体重新神学化",
+            "claimZh": "黑格尔的绝对精神把人的现实活动抽象为概念自身运动，因此仍保留思辨神学的结构。",
+            "explanationZh": "费尔巴哈不是简单拒绝黑格尔，而是把黑格尔的主谓关系倒转，要求把人的感性存在放回哲学中心。",
+            "themeIds": [
+              "metaphysics",
+              "religion"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "feuerbach:evidence:005",
+                "titleZh": "《哲学改革临时纲要》的倒转策略",
+                "summaryZh": "该纲要批评旧哲学把真实主体变成抽象谓词，主张新哲学应从人和自然的感性现实重新出发。",
+                "source": {
+                  "workId": "feuerbach-preliminary-theses-reform",
+                  "locator": "Theses on inversion of speculative philosophy",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "feuerbach:evidence:006",
+                "titleZh": "SEP 对黑格尔批判的说明",
+                "summaryZh": "SEP 说明费尔巴哈与青年黑格尔派关系密切，其关键动作是把黑格尔神学化的概念结构转回人本学。",
+                "source": {
+                  "workId": "feuerbach-preliminary-theses-reform",
+                  "locator": "SEP Ludwig Feuerbach, critique of Hegel",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "feuerbach:claim:004",
+            "titleZh": "未来哲学以感性和关系为基础",
+            "claimZh": "新哲学应从具体的人、身体、自然和人与人的关系出发，而非从纯概念自我展开出发。",
+            "explanationZh": "这一主张使费尔巴哈的人本学具有反思辨和反神学双重含义，也为后来的实践转向提供近端靶标。",
+            "themeIds": [
+              "metaphysics",
+              "knowledge"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "feuerbach:evidence:007",
+                "titleZh": "《未来哲学原理》的感性原则",
+                "summaryZh": "《未来哲学原理》把感性存在、自然和人的相互关系作为哲学出发点，反对从抽象思维推出现实。",
+                "source": {
+                  "workId": "feuerbach-principles-philosophy-future",
+                  "locator": "Opening principles on sensuousness and humanity",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "feuerbach:evidence:008",
+                "titleZh": "人与人的关系作为哲学对象",
+                "summaryZh": "未来哲学文本强调人的本质只有在与他人的关系中成为现实，突破孤立意识或纯粹概念的框架。",
+                "source": {
+                  "workId": "feuerbach-principles-philosophy-future",
+                  "locator": "Principles on I-Thou relation and human essence",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "feuerbach:problem:003",
+        "titleZh": "人本学宗教批判怎样通向马克思？",
+        "questionZh": "费尔巴哈与马克思之间的关系为何既是影响链条，也是被超越的理论限度？",
+        "summaryZh": "费尔巴哈为马克思提供了宗教异化、人本学和感性现实的语言，但马克思批评他没有把人的本质理解为历史实践和社会关系的总和。",
+        "themeIds": [
+          "politics",
+          "religion",
+          "freedom"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "feuerbach:claim:005",
+            "titleZh": "费尔巴哈打开了马克思的宗教批判入口",
+            "claimZh": "马克思早期通过费尔巴哈把宗教批判理解为人的自我异化问题。",
+            "explanationZh": "这使黑格尔之后的解放问题从神学和意识批判转向人的现实处境，但还没有完全进入政治经济学批判。",
+            "themeIds": [
+              "religion",
+              "politics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "feuerbach:evidence:009",
+                "titleZh": "《基督教的本质》的马克思接受",
+                "summaryZh": "费尔巴哈把宗教解释为人的本质外化，这一语言直接进入马克思早期关于宗教、异化和人的解放的讨论。",
+                "source": {
+                  "workId": "feuerbach-essence-christianity",
+                  "locator": "SEP Ludwig Feuerbach, influence on Marx and Engels",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "feuerbach:evidence:010",
+                "titleZh": "宗教批判的现实转向",
+                "summaryZh": "费尔巴哈通过人本学把批判对象从神转为人的自我误认，为马克思进一步追问社会关系创造了理论入口。",
+                "source": {
+                  "workId": "feuerbach-principles-philosophy-future",
+                  "locator": "Principles on human essence and critique of theology",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "feuerbach:claim:006",
+            "titleZh": "马克思批评费尔巴哈缺少实践维度",
+            "claimZh": "费尔巴哈仍倾向把人理解为感性和类本质，而马克思要求从实践活动和社会关系理解人。",
+            "explanationZh": "因此费尔巴哈是黑格尔到马克思之间不可缺的中介，但同时也是马克思实践唯物主义必须越过的限度。",
+            "themeIds": [
+              "politics",
+              "freedom"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "feuerbach:evidence:011",
+                "titleZh": "马克思《提纲》的批判背景",
+                "summaryZh": "《关于费尔巴哈的提纲》正是以费尔巴哈人本学为靶标，要求把感性理解为实践活动而非直观对象。",
+                "source": {
+                  "workId": "feuerbach-principles-philosophy-future",
+                  "locator": "Reception context of Marx's Theses on Feuerbach",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "feuerbach:evidence:012",
+                "titleZh": "SEP 对影响与限度的并置",
+                "summaryZh": "SEP 同时记录费尔巴哈对马克思恩格斯的强烈影响和后来遭到实践唯物主义批评的理论限度。",
+                "source": {
+                  "workId": "feuerbach-lectures-essence-religion",
+                  "locator": "SEP Ludwig Feuerbach, later reception and critique",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "tier": "standard"
+}

@@ -1,0 +1,46 @@
+{
+  "id": "cheng-xuanying",
+  "tier": "seed",
+  "names": {
+    "zh": "成玄英",
+    "en": "Cheng Xuanying",
+    "native": "成玄英"
+  },
+  "life": {
+    "birth": 608,
+    "death": 669,
+    "display": "约608—约669"
+  },
+  "civilization": "chinese",
+  "traditions": [
+    "daoism",
+    "xuanxue"
+  ],
+  "periods": [
+    "tang"
+  ],
+  "themes": [
+    "metaphysics",
+    "language"
+  ],
+  "keywordsZh": [
+    "重玄学",
+    "老子义疏",
+    "庄子疏"
+  ],
+  "oneLineZh": "唐代道教学者，以老庄义疏和重玄思想著称。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "成玄英，唐代道教学者，活跃于贞观、高宗时期，常被视为重玄学代表之一。他为《老子》《庄子》作义疏，以玄之又玄、遣执双非等方式解释道家经典，吸收佛教中观论辩资源又服务于道教义理建构。成玄英显示唐代三教互动中道教哲学化和注疏化的高度发展。",
+  "works": [
+    "cheng-xuanying-laozi-yishu",
+    "cheng-xuanying-zhuangzi-shu"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S017",
+      "url": "https://ctext.org/wiki.pl?if=en&res=777110",
+      "noteZh": "以成玄英《老子义疏》《庄子疏》题名传统支撑身份层。"
+    }
+  ]
+}

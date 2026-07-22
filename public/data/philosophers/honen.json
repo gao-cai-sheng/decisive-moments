@@ -1,0 +1,43 @@
+{
+  "id": "honen",
+  "tier": "seed",
+  "names": {
+    "zh": "法然",
+    "en": "Hōnen"
+  },
+  "life": {
+    "birth": 1133,
+    "death": 1212,
+    "display": "1133—1212"
+  },
+  "civilization": "east_asian",
+  "traditions": [
+    "pure_land_buddhism"
+  ],
+  "periods": [
+    "medieval"
+  ],
+  "themes": [
+    "religion",
+    "life_death"
+  ],
+  "keywordsZh": [
+    "净土宗",
+    "专修念佛",
+    "日本佛教"
+  ],
+  "oneLineZh": "日本净土宗奠基者，以专修念佛重组净土传统。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "法然是日本净土宗的关键人物，其专修念佛思想连接善导净土传统并影响亲鸾。本条仅作 seed 身份层定位。",
+  "works": [
+    "honen-senchakushu"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S002",
+      "url": "https://iep.utm.edu/honen/",
+      "noteZh": "IEP Honen 条目用于核验法然身份、净土宗定位和代表作。"
+    }
+  ]
+}

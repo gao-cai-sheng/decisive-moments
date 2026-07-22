@@ -1,0 +1,46 @@
+{
+  "id": "longchenpa",
+  "tier": "seed",
+  "names": {
+    "zh": "隆钦饶绛巴",
+    "en": "Longchenpa"
+  },
+  "life": {
+    "birth": 1308,
+    "death": 1364,
+    "display": "1308—1364"
+  },
+  "civilization": "tibetan_buddhist",
+  "traditions": [
+    "nyingma",
+    "dzogchen"
+  ],
+  "periods": [
+    "medieval",
+    "tibetan_later_dissemination"
+  ],
+  "themes": [
+    "religion",
+    "metaphysics"
+  ],
+  "keywordsZh": [
+    "宁玛",
+    "大圆满",
+    "七宝藏"
+  ],
+  "oneLineZh": "宁玛大圆满系统家，以《七宝藏》等著作成为藏传形而上学和修行论核心节点。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "隆钦饶绛巴（1308—1364）是 Seed W6 藏传佛教文明补线候选。其身份层入选理由为：宁玛大圆满系统家，以《七宝藏》等著作成为藏传形而上学和修行论核心节点。 本条仅作 seed 档基本定位，后续若升级标准档，必须重新做著作、论点与 evidence 研究。",
+  "works": [
+    "longchenpa-seven-treasuries",
+    "longchenpa-resting-in-illusion"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S007",
+      "url": "https://treasuryoflives.org/biographies/",
+      "noteZh": "来源：Treasury of Lives / Longchenpa；用于核验人物身份、断代、代表作与思想史定位。"
+    }
+  ]
+}

@@ -5,9 +5,9 @@
     "en": "Maurice Merleau-Ponty"
   },
   "life": {
-    "display": "1908—1961",
     "birth": 1908,
-    "death": 1961
+    "death": 1961,
+    "display": "1908—1961"
   },
   "civilization": "european_modern",
   "traditions": [
@@ -38,5 +38,247 @@
       "label": "draft",
       "noteZh": "条目需要人工核对作品、年代和概念表述。"
     }
-  ]
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "merleau-ponty:problem:001",
+        "titleZh": "身体如何成为知觉主体？",
+        "questionZh": "梅洛-庞蒂如何围绕“身体如何成为知觉主体？”建立其思想问题？",
+        "summaryZh": "梅洛-庞蒂反对把身体当作外在物体，强调身体是我们通达世界的原初主体。",
+        "themeIds": [
+          "metaphysics",
+          "knowledge"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "merleau-ponty:claim:001",
+            "titleZh": "身体图式先于反思表象",
+            "claimZh": "梅洛-庞蒂主张，我们通过身体图式直接把握空间和行动可能，而非先形成内在表象。",
+            "explanationZh": "该命题把知觉主体从意识内部移向活生生身体，改变经验哲学框架。",
+            "themeIds": [
+              "metaphysics",
+              "knowledge"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "merleau-ponty:evidence:001",
+                "titleZh": "身体图式依据",
+                "summaryZh": "《知觉现象学》通过病理案例和运动分析说明身体图式的先反思作用，强调身体直接定向世界。",
+                "source": {
+                  "workId": "merleau-ponty-primary-work",
+                  "locator": "《知觉现象学》第一部关于身体图式",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "merleau-ponty:evidence:001b",
+                "titleZh": "运动意向性与身体能力",
+                "summaryZh": "《知觉现象学》借运动意向性说明身体并非被动对象，而是以能力和方向感预先组织行动空间。",
+                "source": {
+                  "workId": "merleau-ponty-primary-work",
+                  "locator": "《知觉现象学》第一部：身体空间性和运动意向性段落",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "merleau-ponty:claim:002",
+            "titleZh": "知觉是身体与世界交织",
+            "claimZh": "梅洛-庞蒂认为，知觉不是心灵复制外物，而是身体在世界中与行动场相互交织。",
+            "explanationZh": "该命题消解主客二分，说明世界意义通过具身参与而显现。",
+            "themeIds": [
+              "knowledge",
+              "metaphysics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "merleau-ponty:evidence:002",
+                "titleZh": "知觉优先依据",
+                "summaryZh": "《知觉现象学》强调回到知觉经验本身，反对经验主义和理智主义的抽象化处理方式倾向。",
+                "source": {
+                  "workId": "merleau-ponty-primary-work",
+                  "locator": "《知觉现象学》导论关于知觉优先性",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "merleau-ponty:evidence:002b",
+                "titleZh": "世界在知觉中先于对象化认识",
+                "summaryZh": "导论将世界描述为一切反思之前已经被知觉给予的场域，说明主体与世界不是外部相对的两项。",
+                "source": {
+                  "workId": "merleau-ponty-primary-work",
+                  "locator": "《知觉现象学》导论：回到事物本身与知觉世界段落",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "merleau-ponty:problem:002",
+        "titleZh": "意义如何在表达中生成？",
+        "questionZh": "梅洛-庞蒂如何围绕“意义如何在表达中生成？”建立其思想问题？",
+        "summaryZh": "梅洛-庞蒂把语言、艺术和身体表达理解为意义生成过程，而不是既成思想的外部载体。",
+        "themeIds": [
+          "language",
+          "aesthetics"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "merleau-ponty:claim:003",
+            "titleZh": "言语创造意义",
+            "claimZh": "梅洛-庞蒂主张，真正表达不是把预成思想翻译成词，而是在说话中形成新的意义。",
+            "explanationZh": "该命题把语言看作创造性实践，反对把思想和表达截然分离。",
+            "themeIds": [
+              "language",
+              "knowledge"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "merleau-ponty:evidence:003",
+                "titleZh": "言语表达依据",
+                "summaryZh": "《知觉现象学》分析言语如何在身体表达中生成意义，而非仅传递内在内容对象形式结构。",
+                "source": {
+                  "workId": "merleau-ponty-primary-work",
+                  "locator": "《知觉现象学》第一部第六章关于身体作为表达和言语",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "merleau-ponty:evidence:003b",
+                "titleZh": "间接语言与意义生成",
+                "summaryZh": "相关语言论文把表达理解为意义在言说中的生成过程，补充思想并非先成后由词语外在传递。",
+                "source": {
+                  "workId": "merleau-ponty-primary-work",
+                  "locator": "《符号》相关论文：间接语言和表达意义生成段落",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "merleau-ponty:claim:004",
+            "titleZh": "艺术揭示可见世界生成",
+            "claimZh": "梅洛-庞蒂认为，绘画等艺术能显现日常视觉背后的可见性结构。",
+            "explanationZh": "该命题把美学纳入存在论和知觉分析，使艺术成为哲学认识方式。",
+            "themeIds": [
+              "aesthetics",
+              "metaphysics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "merleau-ponty:evidence:004",
+                "titleZh": "绘画可见依据",
+                "summaryZh": "《眼与心》借绘画说明视觉并非旁观，而是身体与世界相互卷入，艺术揭示可见性结构关系。",
+                "source": {
+                  "workId": "merleau-ponty-primary-work",
+                  "locator": "《眼与心》关于绘画、可见与身体",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "merleau-ponty:evidence:004b",
+                "titleZh": "画家身体与世界的互涉",
+                "summaryZh": "《眼与心》通过画家的观看和运动说明视觉发生在身体与世界的互涉中，而非纯粹心灵观看。",
+                "source": {
+                  "workId": "merleau-ponty-primary-work",
+                  "locator": "《眼与心》：画家、视觉和身体运动段落",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "merleau-ponty:problem:003",
+        "titleZh": "他人如何在世界中被给予？",
+        "questionZh": "梅洛-庞蒂如何围绕“他人如何在世界中被给予？”建立其思想问题？",
+        "summaryZh": "梅洛-庞蒂从具身交往而非类比推理解释他人经验，强调共同世界中的相互可见性。",
+        "themeIds": [
+          "politics",
+          "metaphysics"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "merleau-ponty:claim:005",
+            "titleZh": "他人通过身体行为显现",
+            "claimZh": "梅洛-庞蒂主张，他人的意图不只是隐藏心灵的外部迹象，而在身体行为中直接呈现。",
+            "explanationZh": "该命题回应他心问题，把主体间性建立在具身表达和共同情境之上。",
+            "themeIds": [
+              "metaphysics",
+              "knowledge"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "merleau-ponty:evidence:005",
+                "titleZh": "他人身体依据",
+                "summaryZh": "《知觉现象学》反对通过类比推论才认识他人心灵，强调他人身体的表达性呈现方式本身。",
+                "source": {
+                  "workId": "merleau-ponty-primary-work",
+                  "locator": "《知觉现象学》第二部第四章关于他人与人的世界",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "merleau-ponty:evidence:005b",
+                "titleZh": "共同世界中的主体间性",
+                "summaryZh": "《知觉现象学》把他人经验放在共同世界和身体表达中说明，避免把他心问题化为纯粹推理论证。",
+                "source": {
+                  "workId": "merleau-ponty-primary-work",
+                  "locator": "《知觉现象学》第二部第四章：他人身体和共同世界段落",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "merleau-ponty:claim:006",
+            "titleZh": "社会意义嵌入共同知觉场",
+            "claimZh": "梅洛-庞蒂认为，个人知觉总已处在历史、语言和制度组成的共同世界中。",
+            "explanationZh": "该命题使现象学进入政治与历史维度，说明身体经验并非孤立自然事实。",
+            "themeIds": [
+              "politics",
+              "knowledge"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "merleau-ponty:evidence:006",
+                "titleZh": "历史处境依据",
+                "summaryZh": "《知觉现象学》把自由和意义放入历史世界，强调行动在既有场域中展开和受限过程关系。",
+                "source": {
+                  "workId": "merleau-ponty-primary-work",
+                  "locator": "《知觉现象学》第三部关于自由与历史处境",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "merleau-ponty:evidence:006b",
+                "titleZh": "自由在处境中实现",
+                "summaryZh": "第三部关于自由的讨论说明行动既不是绝对任意，也不是被事实完全决定，而是在历史处境中形成意义。",
+                "source": {
+                  "workId": "merleau-ponty-primary-work",
+                  "locator": "《知觉现象学》第三部：自由、处境和历史世界段落",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "tier": "standard"
 }

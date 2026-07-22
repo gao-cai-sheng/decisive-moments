@@ -1,0 +1,47 @@
+{
+  "id": "ibn-bajja",
+  "tier": "seed",
+  "names": {
+    "zh": "伊本·巴哲",
+    "en": "Ibn Bājja / Avempace",
+    "native": "ابن باجة"
+  },
+  "life": {
+    "birth": 1085,
+    "death": 1138,
+    "display": "约1085—1138"
+  },
+  "civilization": "islamic",
+  "traditions": [
+    "andalusian_falsafa",
+    "aristotelianism"
+  ],
+  "periods": [
+    "medieval"
+  ],
+  "themes": [
+    "knowledge",
+    "politics",
+    "life_death"
+  ],
+  "keywordsZh": [
+    "阿文帕塞",
+    "孤独者之治理",
+    "安达卢斯哲学"
+  ],
+  "oneLineZh": "安达卢斯哲学家，以《孤独者之治理》讨论哲人如何在不完善城邦中保存理智完善。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "伊本·巴哲（约1085—1138）是 Seed W7 伊斯兰文明 falsafa 补线候选。其身份层入选理由为：安达卢斯哲学家，以《孤独者之治理》讨论哲人如何在不完善城邦中保存理智完善。本条仅作 seed 档基本定位，后续若升级标准档，必须重新做著作、论点与 evidence 研究。",
+  "works": [
+    "ibn-bajja-governance-solitary",
+    "ibn-bajja-conjunction-intellect"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S003",
+      "url": "https://www.muslimphilosophy.com/ip/rep/H005.htm",
+      "noteZh": "来源：Muslim Philosophy / Ibn Bājja；用于核验人物身份、生卒断代、安达卢斯哲学定位和代表著作。"
+    }
+  ]
+}

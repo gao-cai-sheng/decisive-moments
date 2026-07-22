@@ -5,9 +5,9 @@
     "en": "Francis Bacon"
   },
   "life": {
-    "display": "1561—1626",
     "birth": 1561,
-    "death": 1626
+    "death": 1626,
+    "display": "1561—1626"
   },
   "civilization": "european_modern",
   "traditions": [
@@ -31,12 +31,255 @@
   "reviewStatus": "draft",
   "summaryZh": "弗朗西斯·培根是知识、自由问题谱系中的第一版候选哲人。 本条目是第一版结构化资料，已经保留文明、传统、主题、作品和论述字段，正式发布前需要继续核对年代、文本出处和概念表述。",
   "works": [
-    "bacon-primary-work"
+    "bacon-novum-organum",
+    "bacon-advancement-learning",
+    "bacon-new-atlantis"
   ],
   "sourceNotes": [
     {
       "label": "draft",
       "noteZh": "条目需要人工核对作品、年代和概念表述。"
     }
-  ]
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "bacon:problem:001",
+        "titleZh": "知识为何需要清除偶像？",
+        "questionZh": "培根为何把认识错误解释为系统性的偶像，而不是单个判断失误？",
+        "summaryZh": "培根的认识论首先是一种清障工程：人的心灵、个人习惯、市场语言和学派剧场都会制造稳定偏误。新科学必须先识别这些偶像，再用公开方法校正经验。",
+        "themeIds": [
+          "knowledge",
+          "language"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "bacon:claim:001",
+            "titleZh": "偶像是系统性偏误而非偶然错误",
+            "claimZh": "培根认为认识的主要障碍来自四类偶像，它们扎根于人性、个人习性、语言交往和权威学派，而不只是个别推理失误。",
+            "explanationZh": "这使培根的知识论具有制度化和诊断性：真理探求必须处理人类共同偏误和社会语言结构。",
+            "themeIds": [
+              "knowledge",
+              "language"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "bacon:evidence:001",
+                "titleZh": "四偶像的错误来源",
+                "summaryZh": "《新工具》第一卷把偶像分成族类、洞穴、市场和剧场四种，说明错误来源分别对应人类共同感官、个人习惯、语言交换和学派权威。",
+                "source": {
+                  "workId": "bacon-novum-organum",
+                  "locator": "Novum Organum I.38-44 on idols of tribe, cave, marketplace and theatre",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "bacon:evidence:002",
+                "titleZh": "市场偶像中的语言陷阱",
+                "summaryZh": "市场偶像段落特别指出词语会把理解带入争辩和虚假分类，语言并非中性工具，而会反过来支配思想。",
+                "source": {
+                  "workId": "bacon-novum-organum",
+                  "locator": "Novum Organum I.59-60 on idols of the marketplace",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "bacon:claim:002",
+            "titleZh": "方法训练比天才直觉更可靠",
+            "claimZh": "培根主张知识进步不能依靠个人机智或旧逻辑争胜，而要依靠能约束心灵偏误的发现方法。",
+            "explanationZh": "他把方法看成认识的公共器械：它降低个人天赋差异，也迫使经验材料按可检查程序进入判断。",
+            "themeIds": [
+              "knowledge"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "bacon:evidence:003",
+                "titleZh": "两条求真道路",
+                "summaryZh": "第一卷第十九节区分从感官和特殊事例逐级上升的方法，与匆忙飞向最高公理再回头套用的旧路。",
+                "source": {
+                  "workId": "bacon-novum-organum",
+                  "locator": "Novum Organum I.19 on two ways of seeking truth",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "bacon:evidence:004",
+                "titleZh": "旧逻辑不能发现自然",
+                "summaryZh": "培根批评三段论更适合固定已有意见，不能有效发现自然形式，因此必须把逻辑改造成发现术。",
+                "source": {
+                  "workId": "bacon-novum-organum",
+                  "locator": "Novum Organum I.82 on the weakness of syllogistic logic for discovery",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "bacon:problem:002",
+        "titleZh": "归纳如何成为发现机器？",
+        "questionZh": "培根的新归纳如何把杂乱经验组织成可产生新知识的发现程序？",
+        "summaryZh": "培根并不满足于枚举经验，而是要求通过出现、缺席和程度表比较实例，逐步排除偶然因素，逼近自然形式。归纳因此成为实验组织和发现制度。",
+        "themeIds": [
+          "knowledge",
+          "metaphysics"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "bacon:claim:003",
+            "titleZh": "归纳必须缓慢上升并排除假因",
+            "claimZh": "培根的归纳法要求从有序实例表出发，经由比较和排除逐步形成公理，避免从少数经验直接跳到普遍结论。",
+            "explanationZh": "这一区别使他的经验论不是经验堆积，而是对经验进行筛选、排列和反证的发现程序。",
+            "themeIds": [
+              "knowledge"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "bacon:evidence:005",
+                "titleZh": "三表法组织经验",
+                "summaryZh": "第二卷提出出现表、缺席表和程度表，以热的研究为例说明经验必须被系统排列后才具有发现力。",
+                "source": {
+                  "workId": "bacon-novum-organum",
+                  "locator": "Novum Organum II.11-20 on tables of presence, absence and degrees",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "bacon:evidence:006",
+                "titleZh": "热的首次收获",
+                "summaryZh": "关于热的首次收获展示培根如何在排除和比较之后提出临时解释，强调公理应可继续修正。",
+                "source": {
+                  "workId": "bacon-novum-organum",
+                  "locator": "Novum Organum II.20 on the first vintage concerning heat",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "bacon:claim:004",
+            "titleZh": "实验是主动逼问自然的公共技术",
+            "claimZh": "培根把实验理解为主动制造实例和扩展经验边界的技术，而不是被动记录自然现象。",
+            "explanationZh": "实验让自然在可控制条件下显示结构，也让研究从私人观察转向可积累的共同事业。",
+            "themeIds": [
+              "knowledge",
+              "politics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "bacon:evidence:007",
+                "titleZh": "学术进展中的实验缺陷",
+                "summaryZh": "《学术的进展》第二卷把自然哲学的贫乏归因于缺少系统实验和协作规划，要求知识事业补足制度性缺陷。",
+                "source": {
+                  "workId": "bacon-advancement-learning",
+                  "locator": "The Advancement of Learning II on deficiencies and advancement of natural philosophy",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "bacon:evidence:008",
+                "titleZh": "所罗门宫的协作实验",
+                "summaryZh": "《新大西岛》的所罗门宫把实验、采集、发明和分工组织为公共机构，表现培根对科学共同体的制度想象。",
+                "source": {
+                  "workId": "bacon-new-atlantis",
+                  "locator": "New Atlantis on Salomon's House and organized experiment",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "bacon:problem:003",
+        "titleZh": "知识为什么就是力量？",
+        "questionZh": "培根如何把认识自然同改善人类生活和公共事业联系起来？",
+        "summaryZh": "培根的知识观以成果和公共效用为尺度：理解自然不是沉思装饰，而是通过服从自然规律来产生可救济人类生活的技艺、制度和作品。",
+        "themeIds": [
+          "knowledge",
+          "politics",
+          "ethics"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "bacon:claim:005",
+            "titleZh": "认识自然的目的在于产生 works",
+            "claimZh": "培根把知识的可靠性和力量联系到可产生作品与效用的能力，认为人只能通过理解自然规律来支配自然。",
+            "explanationZh": "这使真理标准带有实践维度：知识必须在自然操作和人类生活改善中显示力量。",
+            "themeIds": [
+              "knowledge",
+              "ethics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "bacon:evidence:009",
+                "titleZh": "知识与力量相合",
+                "summaryZh": "《新工具》第一卷第三节把人的知识和人的力量联结起来，指出原因无知会限制行动能力。",
+                "source": {
+                  "workId": "bacon-novum-organum",
+                  "locator": "Novum Organum I.3 on human knowledge and human power meeting in one",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "bacon:evidence:010",
+                "titleZh": "科学革新的公共效益",
+                "summaryZh": "第一卷后段把科学革新同人类生活利益相连，强调发现自然形式不是学派荣誉，而是实际救济。",
+                "source": {
+                  "workId": "bacon-novum-organum",
+                  "locator": "Novum Organum I.129 on renewing the sciences for human benefit",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "bacon:claim:006",
+            "titleZh": "科学需要组织化共同体承载",
+            "claimZh": "培根认为知识进步依赖长期协作、资料分工和制度保存，不能只靠孤立天才。",
+            "explanationZh": "这一点让培根成为近代科学制度想象的重要源头：科学共同体本身就是认识工具的一部分。",
+            "themeIds": [
+              "knowledge",
+              "politics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "bacon:evidence:011",
+                "titleZh": "所罗门宫的分工体系",
+                "summaryZh": "所罗门宫详细列出采集者、实验者、编纂者和解释者等分工，显示知识生产被设计为持续协作系统。",
+                "source": {
+                  "workId": "bacon-new-atlantis",
+                  "locator": "New Atlantis on the offices and divisions of Salomon's House",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "bacon:evidence:012",
+                "titleZh": "学术进步的公共条件",
+                "summaryZh": "《学术的进展》把教育、资助、文献和研究规划纳入知识进步条件，说明学术需要公共支持。",
+                "source": {
+                  "workId": "bacon-advancement-learning",
+                  "locator": "The Advancement of Learning II on the public advancement of learning",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "tier": "standard"
 }

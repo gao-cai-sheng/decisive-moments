@@ -1,0 +1,46 @@
+{
+  "id": "yeshayahu-leibowitz",
+  "tier": "seed",
+  "names": {
+    "zh": "耶沙亚胡·莱博维茨",
+    "en": "Yeshayahu Leibowitz",
+    "native": "ישעיהו ליבוביץ"
+  },
+  "life": {
+    "birth": 1903,
+    "death": 1994,
+    "display": "1903—1994"
+  },
+  "civilization": "jewish",
+  "traditions": [
+    "jewish_philosophy",
+    "israeli_thought"
+  ],
+  "periods": [
+    "seed_w8"
+  ],
+  "themes": [
+    "religion",
+    "ethics"
+  ],
+  "keywordsZh": [
+    "诫命中心论",
+    "迈蒙尼德诠释",
+    "以色列公共思想"
+  ],
+  "oneLineZh": "以色列犹太思想家，强调信仰即服从诫命，并以尖锐公共批评著称。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "耶沙亚胡·莱博维茨（1903—1994）是 Seed W8 犹太文明补线候选。其身份层定位为：以色列哲学家、科学家与公共知识分子，强调犹太信仰不是解释世界的理论，而是服从诫命的实践承诺，并长期诠释迈蒙尼德。本条仅作 seed 档基本定位，后续若升级标准档，必须重新做著作、论点与 evidence 研究。",
+  "works": [
+    "yeshayahu-leibowitz-judaism-human-values-jewish-state",
+    "yeshayahu-leibowitz-faith-of-maimonides"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S006",
+      "url": "https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/leibowitz-yeshayahu",
+      "noteZh": "来源：Encyclopaedia Judaica / Yeshayahu Leibowitz；用于核验人物身份、1903—1994断代、诫命中心论、迈蒙尼德诠释与以色列公共思想定位。"
+    }
+  ]
+}

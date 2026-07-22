@@ -1,0 +1,293 @@
+{
+  "id": "hayek",
+  "tier": "standard",
+  "names": {
+    "zh": "哈耶克",
+    "en": "Friedrich Hayek"
+  },
+  "life": {
+    "birth": 1899,
+    "death": 1992,
+    "display": "1899—1992"
+  },
+  "civilization": "western_modern",
+  "traditions": [
+    "classical_liberalism",
+    "political_economy",
+    "social_epistemology"
+  ],
+  "periods": [
+    "expansion_d3"
+  ],
+  "themes": [
+    "politics",
+    "knowledge",
+    "freedom"
+  ],
+  "keywordsZh": [
+    "自发秩序",
+    "知识问题",
+    "法治",
+    "计划批判",
+    "市场秩序"
+  ],
+  "oneLineZh": "以分散知识和自发秩序理论批判计划理性，并重构自由主义法治论。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "哈耶克认为社会知识分散在个体和价格信号中，计划经济无法集中处理这种知识，法治和自发秩序因此成为自由的制度条件。",
+  "works": [
+    "hayek-road-serfdom",
+    "hayek-use-knowledge",
+    "hayek-constitution-liberty",
+    "hayek-law-legislation-liberty",
+    "hayek-fatal-conceit"
+  ],
+  "sourceNotes": [
+    {
+      "label": "Primary corpus note",
+      "url": "https://plato.stanford.edu/entries/hayek/",
+      "noteZh": "以哈耶克知识问题、自由宪制和自发秩序文本为核心；二手资料只用于核对关系线。"
+    }
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "hayek:problem:001",
+        "titleZh": "分散知识与计划批判",
+        "questionZh": "哈耶克如何用知识分散问题批判集中计划经济和建构理性？",
+        "summaryZh": "哈耶克认为社会知识分散在个人处境和价格信号中，无法由中央计划者完整收集和计算。",
+        "themeIds": [
+          "knowledge",
+          "politics"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "hayek:claim:001",
+            "titleZh": "经济知识分散在社会实践中",
+            "claimZh": "哈耶克认为关键经济知识往往是局部、情境化和默会的，不能被集中机关完整掌握。",
+            "explanationZh": "这一命题把自由市场辩护转化为认识论论证：协调问题源自知识结构而不只是动机问题。",
+            "themeIds": [
+              "knowledge",
+              "politics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "hayek:evidence:001",
+                "titleZh": "《知识在社会中的运用》论分散知识",
+                "summaryZh": "文章指出社会中最重要的知识常是特定时间地点的知识，无法被中央统计完整替代，由此说明计划者无法替代地方经验和临场判断。",
+                "source": {
+                  "workId": "hayek-use-knowledge",
+                  "locator": "sections on knowledge of particular circumstances",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "hayek:evidence:002",
+                "titleZh": "《致命的自负》批判建构主义",
+                "summaryZh": "晚期文本批判理性能够设计整体社会秩序的自负，强调文明规则多来自演化而非计划，把建构主义理性批判延伸到道德、市场和传统秩序。",
+                "source": {
+                  "workId": "hayek-fatal-conceit",
+                  "locator": "chapters on constructivist rationalism",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "hayek:claim:002",
+            "titleZh": "价格机制协调无法集中计算的信息",
+            "claimZh": "哈耶克把价格理解为传递稀缺和机会信息的机制，使个人无需掌握整体即可协调行动。",
+            "explanationZh": "市场在这里不是单纯交换场所，而是社会知识处理制度，因此计划替代会破坏信息协调。",
+            "themeIds": [
+              "knowledge",
+              "politics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "hayek:evidence:003",
+                "titleZh": "《知识在社会中的运用》论价格信号",
+                "summaryZh": "文章说明价格通过压缩和传递变化信息，使分散行动者能调整计划而不必知道全部原因，从而把价格理解为社会沟通机制，而非单纯货币符号。",
+                "source": {
+                  "workId": "hayek-use-knowledge",
+                  "locator": "sections on price system as communication",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "hayek:evidence:004",
+                "titleZh": "《通往奴役之路》论计划权力",
+                "summaryZh": "文本认为集中计划需要集中决策和价值排序，因而容易侵蚀个人选择和政治自由，使计划批判同时成为权力集中和价值垄断的警告。",
+                "source": {
+                  "workId": "hayek-road-serfdom",
+                  "locator": "chapters on planning and power",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "hayek:problem:002",
+        "titleZh": "法治、自由与一般规则",
+        "questionZh": "哈耶克为什么把法治和一般抽象规则视为自由社会的制度核心？",
+        "summaryZh": "哈耶克认为自由需要可预期的一般规则，而不是行政机关针对结果进行连续裁量和分配设计。",
+        "themeIds": [
+          "justice",
+          "freedom"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "hayek:claim:003",
+            "titleZh": "法治限制任意权力",
+            "claimZh": "哈耶克把法治理解为政府受一般、公开和可预期规则约束，而非按具体目标任意裁量。",
+            "explanationZh": "这使个人能够形成自己的计划，也把自由同法律形式和制度可预期性连接起来。",
+            "themeIds": [
+              "justice",
+              "freedom"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "hayek:evidence:005",
+                "titleZh": "《自由宪章》论法治原则",
+                "summaryZh": "文本把法治定义为一般规则对政府行为的约束，强调法律可预期性对于个人自由的意义，因为个人只有在规则稳定时才能形成长期计划。",
+                "source": {
+                  "workId": "hayek-constitution-liberty",
+                  "locator": "chapters on rule of law",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "hayek:evidence:006",
+                "titleZh": "《法律、立法与自由》区分法和命令",
+                "summaryZh": "哈耶克区分演化法规则与组织命令，说明自由社会依赖一般规则而非目的性支配，并把自由秩序建立在规则发现而非命令服从之上。",
+                "source": {
+                  "workId": "hayek-law-legislation-liberty",
+                  "locator": "volume 1 on rules and order",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "hayek:claim:004",
+            "titleZh": "社会正义概念可能破坏规则秩序",
+            "claimZh": "哈耶克批评以社会正义名义追求特定分配结果，认为它会扩大裁量并破坏自发秩序。",
+            "explanationZh": "其争议点在于把正义主要置于规则和程序层面，而非最终分配格局。",
+            "themeIds": [
+              "justice",
+              "politics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "hayek:evidence:007",
+                "titleZh": "《法律、立法与自由》批判社会正义",
+                "summaryZh": "第二卷集中批判社会正义概念，认为市场结果无人整体分配，因此不宜按人格化标准评价。",
+                "source": {
+                  "workId": "hayek-law-legislation-liberty",
+                  "locator": "volume 2 on social justice",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "hayek:evidence:008",
+                "titleZh": "《自由宪章》论自由与保障",
+                "summaryZh": "文本在承认最低保障可能性的同时，坚持保障政策不能破坏一般规则和竞争秩序，显示其福利讨论服从法治和竞争框架的限制。",
+                "source": {
+                  "workId": "hayek-constitution-liberty",
+                  "locator": "chapters on freedom and welfare",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "hayek:problem:003",
+        "titleZh": "自发秩序与文明演化",
+        "questionZh": "哈耶克如何解释传统规则和市场秩序的非设计性形成？",
+        "summaryZh": "哈耶克把许多制度看作人类行动但非人类设计的结果，强调规则演化和自发秩序对文明合作的作用。",
+        "themeIds": [
+          "knowledge",
+          "politics"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "hayek:claim:005",
+            "titleZh": "秩序可来自行动而非设计",
+            "claimZh": "哈耶克认为语言、法、市场等复杂秩序常由个人行动互动生成，并非由总体计划预先设计。",
+            "explanationZh": "这构成其反建构主义政治哲学的核心，也解释了他为何重视传统和演化规则。",
+            "themeIds": [
+              "knowledge",
+              "politics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "hayek:evidence:009",
+                "titleZh": "《法律、立法与自由》论自发秩序",
+                "summaryZh": "文本系统区分自发秩序和组织秩序，说明社会规则可在长期互动中生成而非被制定，把社会协调解释为互动结果，而非单一意志作品。",
+                "source": {
+                  "workId": "hayek-law-legislation-liberty",
+                  "locator": "volume 1 on cosmos and taxis",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "hayek:evidence:010",
+                "titleZh": "《致命的自负》论扩展秩序",
+                "summaryZh": "晚期文本把市场文明描述为扩展秩序，强调道德规则和交换制度通过选择和演化形成，使传统规则具有保存分散知识和合作经验的功能。",
+                "source": {
+                  "workId": "hayek-fatal-conceit",
+                  "locator": "chapters on extended order",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "hayek:claim:006",
+            "titleZh": "传统规则承载超个人知识",
+            "claimZh": "哈耶克认为许多传统规则并非因被个体完全理解而有效，而是承载长期演化出的适应性知识。",
+            "explanationZh": "这让自由主义不再只是抽象理性设计，而包含对制度复杂性和知识有限性的承认。",
+            "themeIds": [
+              "knowledge",
+              "ethics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "hayek:evidence:011",
+                "titleZh": "《自由宪章》论传统与理性",
+                "summaryZh": "文本主张尊重传统规则不是盲从，而是承认个人理性难以把握全部社会协调知识，从而反驳把传统全视为非理性残余的进步主义冲动。",
+                "source": {
+                  "workId": "hayek-constitution-liberty",
+                  "locator": "chapters on tradition and reason",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "hayek:evidence:012",
+                "titleZh": "《致命的自负》批判理性全能观",
+                "summaryZh": "哈耶克认为试图按理性蓝图重造社会会摧毁支撑扩展合作的规则和知识结构，这也是他反对乌托邦工程和全面重构社会的理由。",
+                "source": {
+                  "workId": "hayek-fatal-conceit",
+                  "locator": "chapters on reason and tradition",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

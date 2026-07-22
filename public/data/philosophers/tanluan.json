@@ -1,0 +1,46 @@
+{
+  "id": "tanluan",
+  "tier": "seed",
+  "names": {
+    "zh": "昙鸾",
+    "en": "Tanluan",
+    "native": "曇鸞"
+  },
+  "life": {
+    "birth": 476,
+    "death": 542,
+    "display": "476—542"
+  },
+  "civilization": "chinese",
+  "traditions": [
+    "buddhism",
+    "pure_land"
+  ],
+  "periods": [
+    "northern_southern_dynasties"
+  ],
+  "themes": [
+    "religion",
+    "life_death"
+  ],
+  "keywordsZh": [
+    "净土",
+    "往生论注",
+    "他力"
+  ],
+  "oneLineZh": "北魏至东魏净土思想高僧，以《往生论注》阐发他力往生。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "昙鸾，北魏至东魏时期僧人，早年学道术，后转入佛教净土信仰传统。其《往生论注》解释世亲《往生论》，强调阿弥陀佛本愿、他力回向和往生净土的修行路径。《略论安乐净土义》亦归入其传统。昙鸾对道绰、善导以及后世东亚净土教影响深远。",
+  "works": [
+    "tanluan-wangshenglun-zhu",
+    "tanluan-luelun-anle-jingtu-yi"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S025",
+      "url": "https://cbetaonline.dila.edu.tw/zh/T1819",
+      "noteZh": "以昙鸾《往生论注》《略论安乐净土义》支撑身份层。"
+    }
+  ]
+}

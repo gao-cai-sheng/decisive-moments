@@ -1,0 +1,46 @@
+{
+  "id": "gao-panlong",
+  "tier": "seed",
+  "names": {
+    "zh": "高攀龙",
+    "en": "Gao Panlong",
+    "native": "高攀龍"
+  },
+  "life": {
+    "birth": 1562,
+    "death": 1626,
+    "display": "1562—1626"
+  },
+  "civilization": "chinese",
+  "traditions": [
+    "neo_confucianism",
+    "donglin"
+  ],
+  "periods": [
+    "ming"
+  ],
+  "themes": [
+    "ethics",
+    "politics"
+  ],
+  "keywordsZh": [
+    "东林",
+    "静坐",
+    "高子遗书"
+  ],
+  "oneLineZh": "晚明东林领袖，兼重静坐工夫与政治名节。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "高攀龙，字存之，号景逸，晚明东林学派核心人物。他继承顾宪成讲学传统，重视静坐体认和日用操持，也以政治名节反对阉党迫害。《高子遗书》保存其讲学、书札和政论。高攀龙展示了晚明儒者把内在修养与公共抗议结合的典型形态。",
+  "works": [
+    "gao-panlong-gaozi-yishu",
+    "gao-panlong-kunxue-ji"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S004",
+      "url": "https://ctext.org/wiki.pl?if=en&searchu=%E9%AB%98%E6%94%80%E9%BE%8D",
+      "noteZh": "以高攀龙《高子遗书》和东林学案材料支撑身份层。"
+    }
+  ]
+}

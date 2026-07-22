@@ -1,0 +1,48 @@
+{
+  "id": "al-baqillani",
+  "tier": "seed",
+  "names": {
+    "zh": "巴基拉尼",
+    "en": "Abū Bakr al-Bāqillānī",
+    "native": "أبو بكر الباقلاني"
+  },
+  "life": {
+    "birth": 940,
+    "death": 1013,
+    "display": "约940—1013"
+  },
+  "civilization": "islamic",
+  "traditions": [
+    "ashariyya",
+    "maliki",
+    "kalam"
+  ],
+  "periods": [
+    "medieval"
+  ],
+  "themes": [
+    "religion",
+    "metaphysics",
+    "language"
+  ],
+  "keywordsZh": [
+    "艾什尔里派系统化",
+    "原子论",
+    "古兰经不可模仿性"
+  ],
+  "oneLineZh": "艾什尔里派系统化者，以教义论证、原子论时间观和《古兰经》不可模仿性论证著称。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "巴基拉尼（约940—1013）是 Seed W7 伊斯兰文明教义学试点候选。其身份层入选理由为：艾什尔里派系统化者，以教义论证、原子论时间观和《古兰经》不可模仿性论证著称。本条仅作 seed 档基本定位，后续若升级标准档，必须重新做著作、论点与 evidence 研究。",
+  "works": [
+    "al-baqillani-tamhid-al-awail",
+    "al-baqillani-ijaz-al-quran"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S004",
+      "url": "https://referenceworks.brill.com/display/entries/EIRO/COM-5382.xml",
+      "noteZh": "来源：Encyclopaedia Islamica / al-Bāqillānī, Abū Bakr；用于核验人物身份、生卒断代、艾什尔里派系统化者定位和代表著作。"
+    }
+  ]
+}

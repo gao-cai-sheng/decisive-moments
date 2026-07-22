@@ -1,0 +1,46 @@
+{
+  "id": "francisco-romero",
+  "tier": "seed",
+  "names": {
+    "zh": "弗朗西斯科·罗梅罗",
+    "en": "Francisco Romero"
+  },
+  "life": {
+    "birth": 1891,
+    "death": 1962,
+    "display": "1891—1962"
+  },
+  "civilization": "latin_american",
+  "traditions": [
+    "argentine_philosophy",
+    "philosophy_of_person"
+  ],
+  "periods": [
+    "seed_w9"
+  ],
+  "themes": [
+    "freedom",
+    "metaphysics",
+    "knowledge"
+  ],
+  "keywordsZh": [
+    "人的理论",
+    "阿根廷哲学",
+    "奥尔特加受容"
+  ],
+  "oneLineZh": "阿根廷哲学家，推动专业哲学制度化并发展人格与精神生命理论。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "弗朗西斯科·罗梅罗是20世纪阿根廷专业哲学的重要组织者和思想家，本批按规格将其作为 Ortega 在拉美受容的唯一 seed 锚点。本条仅作身份层。",
+  "works": [
+    "francisco-romero-teoria-del-hombre",
+    "francisco-romero-filosofia-persona"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S003",
+      "url": "https://plato.stanford.edu/entries/gasset/",
+      "noteZh": "SEP Ortega 条目用于辅助核验 Ortega 作为 Romero 受容关系锚点；Romero 身份层另据 IEP 拉美哲学分期核验。"
+    }
+  ]
+}

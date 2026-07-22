@@ -5,9 +5,9 @@
     "en": "Soren Kierkegaard"
   },
   "life": {
-    "display": "1813—1855",
     "birth": 1813,
-    "death": 1855
+    "death": 1855,
+    "display": "1813—1855"
   },
   "civilization": "european_modern",
   "traditions": [
@@ -31,12 +31,261 @@
   "reviewStatus": "draft",
   "summaryZh": "克尔凯郭尔是知识、自由问题谱系中的第一版候选哲人。 本条目是第一版结构化资料，已经保留文明、传统、主题、作品和论述字段，正式发布前需要继续核对年代、文本出处和概念表述。",
   "works": [
-    "kierkegaard-primary-work"
+    "kierkegaard-either-or",
+    "kierkegaard-fear-trembling",
+    "kierkegaard-concept-anxiety",
+    "kierkegaard-concluding-postscript",
+    "kierkegaard-sickness-unto-death"
   ],
   "sourceNotes": [
     {
       "label": "draft",
       "noteZh": "条目需要人工核对作品、年代和概念表述。"
     }
-  ]
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "kierkegaard:problem:001",
+        "titleZh": "个体如何在存在阶段中成为自己？",
+        "questionZh": "克尔凯郭尔如何通过审美、伦理和宗教阶段描述个体存在的选择？",
+        "summaryZh": "克尔凯郭尔把人生理解为具体个体在不同存在方式之间的选择。审美阶段逃避承诺，伦理阶段承担普遍责任，宗教阶段则在与上帝的绝对关系中重新理解自我。",
+        "themeIds": [
+          "ethics",
+          "religion",
+          "life_death"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "kierkegaard:claim:001",
+            "titleZh": "审美生活以可能性和逃避承诺为特征",
+            "claimZh": "克尔凯郭尔用审美人物展示一种追逐新奇、避免固定承诺的生活方式，这种生活看似自由，却容易陷入空虚和绝望。",
+            "explanationZh": "审美阶段不是单纯享乐标签，而是一种拒绝让自我被持续责任塑形的存在结构。",
+            "themeIds": [
+              "ethics",
+              "life_death"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "kierkegaard:evidence:001",
+                "titleZh": "审美论文与轮作法",
+                "summaryZh": "《非此即彼》上卷通过审美论文和轮作法展示审美生活如何以变化、可能性和逃避重复来维持刺激。",
+                "source": {
+                  "workId": "kierkegaard-either-or",
+                  "locator": "Either/Or part I on the aesthetic papers and the rotation method",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "kierkegaard:evidence:002",
+                "titleZh": "诱惑者日记中的审美自我",
+                "summaryZh": "《诱惑者日记》以约翰内斯的操控和反思展示审美自我如何把他人与自己都变成体验材料。",
+                "source": {
+                  "workId": "kierkegaard-either-or",
+                  "locator": "Either/Or part I, Diary of the Seducer",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "kierkegaard:claim:002",
+            "titleZh": "伦理选择让自我进入持续责任",
+            "claimZh": "克尔凯郭尔认为伦理生活要求个体选择自己并承担持续责任，而不是停留在偶然情绪和瞬间兴趣中。",
+            "explanationZh": "伦理阶段通过婚姻、职责和自我选择把分散可能性收束为可持续的人格。",
+            "themeIds": [
+              "ethics",
+              "freedom"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "kierkegaard:evidence:003",
+                "titleZh": "法官威廉与伦理婚姻",
+                "summaryZh": "《非此即彼》下卷法官威廉以婚姻和职责论证伦理生活的连续性，回应审美生活的飘忽，进一步说明“法官威廉与伦理婚姻”如何进入“伦理选择让自我进入持续责任”的论证链条。",
+                "source": {
+                  "workId": "kierkegaard-either-or",
+                  "locator": "Either/Or part II on Judge William and the ethical validity of marriage",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "kierkegaard:evidence:004",
+                "titleZh": "伦理地选择自己",
+                "summaryZh": "下卷关于选择自己的讨论说明，伦理选择不是挑一个外部对象，而是把自我作为责任整体承担起来。",
+                "source": {
+                  "workId": "kierkegaard-either-or",
+                  "locator": "Either/Or part II on choosing oneself ethically",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "kierkegaard:problem:002",
+        "titleZh": "信仰为何超出伦理普遍性？",
+        "questionZh": "克尔凯郭尔如何用亚伯拉罕说明信仰、荒谬和个体与上帝的绝对关系？",
+        "summaryZh": "克尔凯郭尔通过亚伯拉罕故事分析信仰的悖论：信仰不是一般道德规则的应用，而是个体在无法被公共理由完全中介处面对上帝。",
+        "themeIds": [
+          "religion",
+          "ethics",
+          "freedom"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "kierkegaard:claim:003",
+            "titleZh": "信仰包含对荒谬的激情承担",
+            "claimZh": "克尔凯郭尔认为信仰不是教义知识的平静接受，而是在荒谬处仍以激情作出存在承担。",
+            "explanationZh": "这使信仰区别于理性证明和伦理合规，成为个体存在的跃迁。",
+            "themeIds": [
+              "religion",
+              "life_death"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "kierkegaard:evidence:005",
+                "titleZh": "亚伯拉罕的信仰震撼",
+                "summaryZh": "《恐惧与战栗》开篇反复重述亚伯拉罕，强调信仰不能被熟悉故事消解为普通道德例子，进一步说明“亚伯拉罕的信仰震撼”如何进入“信仰包含对荒谬的激情承担”的论证链条。",
+                "source": {
+                  "workId": "kierkegaard-fear-trembling",
+                  "locator": "Fear and Trembling, preliminary expectoration and praise of Abraham",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "kierkegaard:evidence:006",
+                "titleZh": "主体真理与激情",
+                "summaryZh": "《终结性非科学后记》把主体真理同内在激情联系起来，说明宗教真理要求存在投入，进一步说明“主体真理与激情”如何进入“信仰包含对荒谬的激情承担”的论证链条。",
+                "source": {
+                  "workId": "kierkegaard-concluding-postscript",
+                  "locator": "Concluding Unscientific Postscript on subjective truth and passion",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "kierkegaard:claim:004",
+            "titleZh": "信仰骑士处在伦理的目的论悬置中",
+            "claimZh": "克尔凯郭尔用亚伯拉罕说明信仰可能要求个体暂时悬置伦理普遍性，直接面对上帝的绝对命令。",
+            "explanationZh": "这不是为任意暴力辩护，而是揭示宗教存在无法被黑格尔式伦理普遍性完全吸收。",
+            "themeIds": [
+              "religion",
+              "ethics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "kierkegaard:evidence:007",
+                "titleZh": "伦理的目的论悬置",
+                "summaryZh": "第一问题提出伦理的目的论悬置，分析亚伯拉罕为何不能被通常伦理语言完全说明，进一步说明“伦理的目的论悬置”如何进入“信仰骑士处在伦理的目的论悬置中”的论证链条。",
+                "source": {
+                  "workId": "kierkegaard-fear-trembling",
+                  "locator": "Fear and Trembling problem I on the teleological suspension of the ethical",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "kierkegaard:evidence:008",
+                "titleZh": "对上帝的绝对义务",
+                "summaryZh": "第二问题讨论对上帝的绝对义务，显示信仰个体与绝对者的关系高于普遍伦理中介，进一步说明“对上帝的绝对义务”如何进入“信仰骑士处在伦理的目的论悬置中”的论证链条。",
+                "source": {
+                  "workId": "kierkegaard-fear-trembling",
+                  "locator": "Fear and Trembling problem II on absolute duty to God",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "kierkegaard:problem:003",
+        "titleZh": "焦虑和绝望如何揭示自我？",
+        "questionZh": "克尔凯郭尔如何把焦虑、罪和绝望作为自我生成的核心现象？",
+        "summaryZh": "克尔凯郭尔把焦虑理解为自由可能性的眩晕，把绝望理解为自我关系的病。人之所以会绝望，是因为自我是一个需要在有限与无限、可能与必然之间正确关联自身的关系。",
+        "themeIds": [
+          "life_death",
+          "freedom",
+          "religion"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "kierkegaard:claim:005",
+            "titleZh": "焦虑是自由可能性的眩晕",
+            "claimZh": "克尔凯郭尔认为焦虑不同于对确定对象的恐惧，它来自自由面对可能性时的眩晕。",
+            "explanationZh": "焦虑因此揭示人不是被本能封闭的存在，而是必须在可能性中承担选择和罪责。",
+            "themeIds": [
+              "freedom",
+              "life_death"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "kierkegaard:evidence:009",
+                "titleZh": "焦虑作为自由眩晕",
+                "summaryZh": "《焦虑的概念》把焦虑定义为自由的眩晕，借亚当和原罪问题说明可能性如何先于具体罪行。",
+                "source": {
+                  "workId": "kierkegaard-concept-anxiety",
+                  "locator": "The Concept of Anxiety chapter I on anxiety as the dizziness of freedom",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "kierkegaard:evidence:010",
+                "titleZh": "可能性与质的飞跃",
+                "summaryZh": "该书分析无辜、可能性和质的飞跃，说明罪不是连续心理发展可完全解释的结果，进一步说明“可能性与质的飞跃”如何进入“焦虑是自由可能性的眩晕”的论证链条。",
+                "source": {
+                  "workId": "kierkegaard-concept-anxiety",
+                  "locator": "The Concept of Anxiety on possibility, innocence and the qualitative leap",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "kierkegaard:claim:006",
+            "titleZh": "绝望是自我关系的失调",
+            "claimZh": "克尔凯郭尔认为绝望不是普通情绪低落，而是自我不能正确成为自身，或不愿在设立自己的力量面前成为自己。",
+            "explanationZh": "这把自我理解为一种关系结构：有限、无限、可能、必然必须在宗教维度中被重新结合。",
+            "themeIds": [
+              "life_death",
+              "religion"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "kierkegaard:evidence:011",
+                "titleZh": "自我是自我关联的关系",
+                "summaryZh": "《致死的疾病》开篇把自我定义为自我关联的关系，并以这种结构解释绝望，进一步说明“自我是自我关联的关系”如何进入“绝望是自我关系的失调”的论证链条。",
+                "source": {
+                  "workId": "kierkegaard-sickness-unto-death",
+                  "locator": "The Sickness Unto Death part I on the self as a relation relating itself to itself",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "kierkegaard:evidence:012",
+                "titleZh": "绝望的多种形态",
+                "summaryZh": "该书区分不知道有自我的绝望、不愿成为自己的绝望和执意成为自己的绝望，显示绝望的存在论深度。",
+                "source": {
+                  "workId": "kierkegaard-sickness-unto-death",
+                  "locator": "The Sickness Unto Death part I on forms of despair",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "tier": "standard"
 }

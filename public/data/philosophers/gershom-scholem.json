@@ -1,0 +1,46 @@
+{
+  "id": "gershom-scholem",
+  "tier": "seed",
+  "names": {
+    "zh": "格肖姆·肖勒姆",
+    "en": "Gershom Scholem",
+    "native": "גרשם שלום"
+  },
+  "life": {
+    "birth": 1897,
+    "death": 1982,
+    "display": "1897—1982"
+  },
+  "civilization": "jewish",
+  "traditions": [
+    "jewish_mysticism_studies",
+    "jewish_philosophy"
+  ],
+  "periods": [
+    "seed_w8"
+  ],
+  "themes": [
+    "religion",
+    "language"
+  ],
+  "keywordsZh": [
+    "卡巴拉研究",
+    "犹太神秘主义",
+    "本雅明"
+  ],
+  "oneLineZh": "现代卡巴拉研究奠基者，以历史—文献方法重塑犹太神秘主义研究。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "格肖姆·肖勒姆（1897—1982）是 Seed W8 犹太文明补线候选。其身份层定位为：现代卡巴拉与犹太神秘主义研究奠基者，以历史文献学方法重估卡巴拉、弥赛亚主义和犹太现代性，并与本雅明构成重要思想友谊。本条仅作 seed 档基本定位，后续若升级标准档，必须重新做著作、论点与 evidence 研究。",
+  "works": [
+    "gershom-scholem-major-trends",
+    "gershom-scholem-sabbatai-sevi"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S002",
+      "url": "https://www.encyclopedia.com/people/philosophy-and-religion/judaism-biographies/gershom-gerhard-scholem",
+      "noteZh": "来源：Encyclopaedia Judaica / Gershom Scholem；用于核验人物身份、1897—1982断代、卡巴拉研究、《犹太神秘主义主流》与思想史定位。"
+    }
+  ]
+}

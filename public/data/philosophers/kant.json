@@ -66,10 +66,20 @@
               {
                 "id": "kant-critique-pure-reason",
                 "titleZh": "《纯粹理性批判》",
-                "summaryZh": "第一批判以先天综合判断为入口，分析数学、自然科学和形而上学的可能性。",
+                "summaryZh": "第一批判以先天综合判断为入口，分析数学、自然科学和形而上学的可能性条件问题结构。",
                 "source": {
                   "workId": "kant-primary-work",
-                  "locator": "导论",
+                  "locator": "《纯粹理性批判》导论：先天综合判断何以可能段落",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "kant-synthetic-apriori-prolegomena",
+                "titleZh": "《未来形而上学导论》的问题重述",
+                "summaryZh": "《未来形而上学导论》以数学和自然科学为例重述先天综合判断问题，说明批判哲学的入口。",
+                "source": {
+                  "workId": "kant-primary-work",
+                  "locator": "《未来形而上学导论》序论及第一部分：先天综合知识问题段落",
                   "excerptStatus": "summary_only"
                 }
               }
@@ -83,15 +93,25 @@
             "themeIds": [
               "knowledge"
             ],
-            "weight": 3,
+            "weight": 2,
             "evidence": [
               {
                 "id": "kant-transcendental-aesthetic",
                 "titleZh": "先验感性论与分析论",
-                "summaryZh": "相关章节分别讨论空间时间和知性范畴在经验构成中的作用。",
+                "summaryZh": "相关章节分别讨论空间时间和知性范畴在经验构成中的作用，说明对象经验依赖认识形式。",
                 "source": {
                   "workId": "kant-primary-work",
-                  "locator": "先验感性论与先验分析论",
+                  "locator": "《纯粹理性批判》先验感性论空间/时间段落；先验分析论范畴表段落",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "kant-categories-deduction-second",
+                "titleZh": "范畴演绎与经验对象",
+                "summaryZh": "先验演绎说明范畴如何使经验对象的统一成为可能，补充空间时间形式之外的知性条件结构。",
+                "source": {
+                  "workId": "kant-primary-work",
+                  "locator": "《纯粹理性批判》先验演绎：范畴客观有效性段落",
                   "excerptStatus": "summary_only"
                 }
               }
@@ -124,10 +144,53 @@
               {
                 "id": "kant-noumena-source",
                 "titleZh": "现象与物自身相关章节",
-                "summaryZh": "康德通过边界划分说明经验知识的合法范围和传统形而上学的风险。",
+                "summaryZh": "康德通过边界划分说明经验知识的合法范围和传统形而上学的风险与限制所在边界条件问题。",
                 "source": {
                   "workId": "kant-primary-work",
-                  "locator": "现象与物自身讨论",
+                  "locator": "《纯粹理性批判》现象与本体区分段落",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "kant-noumena-second-source",
+                "titleZh": "本体概念的限制用法",
+                "summaryZh": "《纯粹理性批判》将本体概念限定为边界概念，说明物自身不能被当作经验知识对象处理。",
+                "source": {
+                  "workId": "kant-primary-work",
+                  "locator": "《纯粹理性批判》分析论：本体概念的消极用法段落",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "kant-transcendental-illusion",
+            "titleZh": "理性越界会产生先验幻相",
+            "claimZh": "当理论理性把经验条件之外的总体、灵魂或上帝当作可知对象时，就会陷入先验幻相。",
+            "explanationZh": "康德并不简单废除形而上学，而是要求理性批判自身的合法使用范围；超出经验可能条件的推论只能作为问题或理念，不能冒充知识。",
+            "themeIds": [
+              "metaphysics",
+              "knowledge"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "kant-dialectic-source",
+                "titleZh": "先验辩证论中的理性幻相",
+                "summaryZh": "先验辩证论分析纯粹理性如何在灵魂、世界整体和上帝等问题上越过经验边界并制造幻相。",
+                "source": {
+                  "workId": "kant-primary-work",
+                  "locator": "《纯粹理性批判》先验辩证论：理性理念与先验幻相段落",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "kant-antinomies-second-source",
+                "titleZh": "二律背反显示越界风险",
+                "summaryZh": "二律背反章节通过世界整体问题展示理性越界会产生相互对立却似乎都有根据的论证结构。",
+                "source": {
+                  "workId": "kant-primary-work",
+                  "locator": "《纯粹理性批判》先验辩证论：纯粹理性的二律背反段落",
                   "excerptStatus": "summary_only"
                 }
               }
@@ -159,10 +222,20 @@
               {
                 "id": "kant-groundwork",
                 "titleZh": "道德形而上学奠基传统",
-                "summaryZh": "康德在道德哲学文本中以定言命令说明义务和普遍法则的关系。",
+                "summaryZh": "康德在道德哲学文本中以定言命令说明义务和普遍法则的关系，强调准则检验程序要求本身。",
                 "source": {
                   "workId": "kant-primary-work",
-                  "locator": "定言命令相关论述",
+                  "locator": "《道德形而上学奠基》第二章：定言命令普遍法则公式段落",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "kant-groundwork-law-second",
+                "titleZh": "普遍法则公式的例证",
+                "summaryZh": "《奠基》第二章通过许诺、才能和救助等例子说明准则能否普遍化是道德判断关键环节之一。",
+                "source": {
+                  "workId": "kant-primary-work",
+                  "locator": "《道德形而上学奠基》第二章：定言命令四个例子段落",
                   "excerptStatus": "summary_only"
                 }
               }
@@ -177,15 +250,25 @@
               "ethics",
               "justice"
             ],
-            "weight": 3,
+            "weight": 2,
             "evidence": [
               {
                 "id": "kant-humanity-source",
                 "titleZh": "人性公式",
-                "summaryZh": "人性公式把尊严和工具化问题放在康德道德哲学的核心位置。",
+                "summaryZh": "人性公式把尊严和工具化问题放在康德道德哲学的核心位置，要求尊重理性人格地位价值。",
                 "source": {
                   "workId": "kant-primary-work",
-                  "locator": "人性公式",
+                  "locator": "《道德形而上学奠基》第二章：人性公式段落",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "kant-dignity-second-source",
+                "titleZh": "目的王国与尊严",
+                "summaryZh": "《奠基》以目的王国说明理性存在者具有尊严，不能只按价格和工具价值来衡量评价方式。",
+                "source": {
+                  "workId": "kant-primary-work",
+                  "locator": "《道德形而上学奠基》第二章：目的王国与尊严段落",
                   "excerptStatus": "summary_only"
                 }
               }
@@ -218,10 +301,53 @@
               {
                 "id": "kant-autonomy-source",
                 "titleZh": "自律相关论述",
-                "summaryZh": "康德在实践哲学中把自由、自律和道德法则互相解释。",
+                "summaryZh": "康德在实践哲学中把自由、自律和道德法则互相解释，说明自由不是任性选择状态本身而已。",
                 "source": {
                   "workId": "kant-primary-work",
-                  "locator": "自律相关论述",
+                  "locator": "《道德形而上学奠基》第二章：自律与意志自我立法段落",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "kant-practical-reason-second-source",
+                "titleZh": "实践理性中的自由事实",
+                "summaryZh": "《实践理性批判》把道德法则和自由关联起来，说明自由在实践理性中具有特殊地位基础。",
+                "source": {
+                  "workId": "kant-primary-work",
+                  "locator": "《实践理性批判》分析论：道德法则与自由事实段落",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "kant-reflective-judgment",
+            "titleZh": "判断力连接自然与自由",
+            "claimZh": "康德以反思判断力解释审美和目的性经验，使自然领域与自由领域之间获得中介。",
+            "explanationZh": "审美判断和目的性判断不直接扩展理论知识，却显示主体如何在经验自然中寻找合目的性的形式，从而缓和自然因果与自由实践之间的断裂。",
+            "themeIds": [
+              "freedom",
+              "aesthetics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "kant-judgment-source",
+                "titleZh": "《判断力批判》中的反思判断力",
+                "summaryZh": "《判断力批判》导论和审美判断部分说明反思判断力如何在自然合目的性、审美经验和自由之间发挥中介作用。",
+                "source": {
+                  "workId": "kant-primary-work",
+                  "locator": "《判断力批判》导论：反思判断力与自然合目的性段落",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "kant-aesthetic-judgment-second-source",
+                "titleZh": "审美判断与自由合目的性",
+                "summaryZh": "《判断力批判》审美判断分析将无概念的合目的性同自由游戏相连，补充自然与自由的中介问题。",
+                "source": {
+                  "workId": "kant-primary-work",
+                  "locator": "《判断力批判》审美判断分析：无目的的合目的性与自由游戏段落",
                   "excerptStatus": "summary_only"
                 }
               }
@@ -230,5 +356,6 @@
         ]
       }
     ]
-  }
+  },
+  "tier": "standard"
 }

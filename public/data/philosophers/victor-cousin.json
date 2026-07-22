@@ -1,0 +1,45 @@
+{
+  "id": "victor-cousin",
+  "tier": "seed",
+  "names": {
+    "zh": "库赞",
+    "en": "Victor Cousin"
+  },
+  "life": {
+    "birth": 1792,
+    "death": 1867,
+    "display": "1792—1867"
+  },
+  "civilization": "western",
+  "traditions": [
+    "french_spiritualism",
+    "eclecticism"
+  ],
+  "periods": [
+    "modern"
+  ],
+  "themes": [
+    "knowledge",
+    "metaphysics"
+  ],
+  "keywordsZh": [
+    "折衷主义",
+    "学院哲学",
+    "观念论接受"
+  ],
+  "oneLineZh": "折衷主义和法国学院哲学建制，吸收德国观念论与批判哲学。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "库赞（1792—1867）是 Seed W4 法国断代补全候选。其身份层入选理由为：折衷主义和法国学院哲学建制，吸收德国观念论与批判哲学。 本条仅作 seed 档基本定位，后续若升级标准档，必须重新做著作、论点与 evidence 研究。",
+  "works": [
+    "victor-cousin-introduction-history-philosophy",
+    "victor-cousin-course-history-modern-philosophy"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S005",
+      "url": "https://www.rep.routledge.com/articles/biographical/cousin-victor-1792-1867/v-1",
+      "noteZh": "权威来源条目：Routledge: Victor Cousin；用于核验人物身份、生卒、代表著作和思想史定位。"
+    }
+  ]
+}

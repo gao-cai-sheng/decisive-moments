@@ -1,0 +1,43 @@
+{
+  "id": "susan-stebbing",
+  "tier": "seed",
+  "names": {
+    "zh": "苏珊·斯特宾",
+    "en": "Susan Stebbing"
+  },
+  "life": {
+    "birth": 1885,
+    "death": 1943,
+    "display": "1885—1943"
+  },
+  "civilization": "western",
+  "traditions": [
+    "analytic_philosophy"
+  ],
+  "periods": [
+    "modern"
+  ],
+  "themes": [
+    "language",
+    "knowledge"
+  ],
+  "keywordsZh": [
+    "身份层",
+    "二线哲人",
+    "思想史补线"
+  ],
+  "oneLineZh": "早期分析哲学与逻辑经验主义传播者，可补女性分析哲学前史。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "苏珊·斯特宾（1885—1943）是 W2 欧陆与英美近现代二线哲人候选。其身份层入选理由为：早期分析哲学与逻辑经验主义传播者，可补女性分析哲学前史。 本条仅作 seed 档基本定位，后续若升级标准档，需要重新做著作、论点与 evidence 研究。",
+  "works": [
+    "susan-stebbing-modern-introduction-logic",
+    "susan-stebbing-philosophy-and-physicists"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S011",
+      "noteZh": "权威来源条目：SEP: Susan Stebbing；用于核验人物身份、生卒、代表著作和思想史定位。"
+    }
+  ]
+}

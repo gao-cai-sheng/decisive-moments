@@ -5,9 +5,9 @@
     "en": "Leopold Sedar Senghor"
   },
   "life": {
-    "display": "1906—2001",
     "birth": 1906,
-    "death": 2001
+    "death": 2001,
+    "display": "1906—2001"
   },
   "civilization": "african",
   "traditions": [
@@ -31,12 +31,261 @@
   "reviewStatus": "draft",
   "summaryZh": "桑戈尔是政治、伦理问题谱系中的第一版候选哲人。 本条目是第一版结构化资料，已经保留文明、传统、主题、作品和论述字段，正式发布前需要继续核对年代、文本出处和概念表述。",
   "works": [
-    "senghor-primary-work"
+    "senghor-liberte-negritude-humanism",
+    "senghor-african-socialism",
+    "senghor-nation-african-socialism",
+    "senghor-hosties-noires",
+    "senghor-chants-ombre"
   ],
   "sourceNotes": [
     {
       "label": "draft",
       "noteZh": "条目需要人工核对作品、年代和概念表述。"
     }
-  ]
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "senghor:problem:001",
+        "titleZh": "黑人性如何成为文化自我肯定？",
+        "questionZh": "桑戈尔如何把黑人性从殖民贬抑中转化为文化、审美和政治资源？",
+        "summaryZh": "桑戈尔的黑人性理论试图反转殖民话语，把非洲经验、情感、节奏和共同体感受表达为积极文化价值。它既是身份肯定，也是反殖民人文主义。",
+        "themeIds": [
+          "justice",
+          "language",
+          "aesthetics"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "senghor:claim:001",
+            "titleZh": "黑人性是反殖民文化肯定",
+            "claimZh": "桑戈尔把黑人性理解为对殖民贬抑的回应，通过肯定非洲文化形式来恢复被否定的尊严。",
+            "explanationZh": "黑人性不是单纯种族本质宣称，而是一种争取文化主体性和历史发言权的反殖民策略。",
+            "themeIds": [
+              "justice",
+              "language"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "senghor:evidence:001",
+                "titleZh": "黑人性与人文主义",
+                "summaryZh": "《自由 I：黑人性与人文主义》把黑人性置于反殖民文化复兴中，强调非洲经验对普遍人文主义的贡献。",
+                "source": {
+                  "workId": "senghor-liberte-negritude-humanism",
+                  "locator": "Liberté I: Négritude et humanisme on negritude and humanism",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "senghor:evidence:002",
+                "titleZh": "诗歌中的黑人主体",
+                "summaryZh": "《黑色祭品》和早期诗作把战争、殖民和非洲记忆结合起来，以诗歌语言塑造被压迫者的主体性。",
+                "source": {
+                  "workId": "senghor-hosties-noires",
+                  "locator": "Hosties noires and early poems on colonial war, sacrifice and Black dignity",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "senghor:claim:002",
+            "titleZh": "黑人性追求差异中的普遍人文主义",
+            "claimZh": "桑戈尔认为黑人性不是封闭民族主义，而是通过承认文化差异来丰富共同的人类文明。",
+            "explanationZh": "他的普遍主义不是消除差异的同化，而是把非洲文化作为世界文明对话的积极参与者。",
+            "themeIds": [
+              "justice",
+              "ethics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "senghor:evidence:003",
+                "titleZh": "混成文明与普遍性",
+                "summaryZh": "《自由 I》反复把黑人性同世界文明对话联系起来，说明非洲文化应参与而非被排除于普遍性。",
+                "source": {
+                  "workId": "senghor-liberte-negritude-humanism",
+                  "locator": "Liberté I on civilization of the universal and cultural dialogue",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "senghor:evidence:004",
+                "titleZh": "阴影之歌中的文化记忆",
+                "summaryZh": "《阴影之歌》以非洲意象、法语形式和殖民经验交织，显示差异文化可进入现代世界文学。",
+                "source": {
+                  "workId": "senghor-chants-ombre",
+                  "locator": "Chants d'ombre on African imagery, French language and cultural memory",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "senghor:problem:002",
+        "titleZh": "审美语言为何能成为认识方式？",
+        "questionZh": "桑戈尔如何把节奏、情感和诗性语言理解为非洲认识与表达方式？",
+        "summaryZh": "桑戈尔强调诗性、节奏和情感不是理性对立物，而是另一种理解世界的方式。他通过审美语言为非洲文化争取认识论和表达上的正当性。",
+        "themeIds": [
+          "aesthetics",
+          "language",
+          "knowledge"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "senghor:claim:003",
+            "titleZh": "节奏是世界关系的表达",
+            "claimZh": "桑戈尔把节奏看成非洲艺术和认识的核心方式，认为它表达人与世界之间的关系和生命力。",
+            "explanationZh": "这种审美认识论反对殖民理性把非洲表达视为非理性，而是强调感性和形式也能揭示世界。",
+            "themeIds": [
+              "aesthetics",
+              "knowledge"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "senghor:evidence:005",
+                "titleZh": "黑人性论文中的节奏理论",
+                "summaryZh": "《自由 I》关于黑人艺术的论述把节奏视为组织感受和意义的方式，显示审美具有认识功能。",
+                "source": {
+                  "workId": "senghor-liberte-negritude-humanism",
+                  "locator": "Liberté I on rhythm, Black art and modes of knowing",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "senghor:evidence:006",
+                "titleZh": "诗歌语言中的节奏实践",
+                "summaryZh": "桑戈尔诗作通过重复、音乐性和非洲意象实践其节奏理论，使审美形式成为文化记忆的载体。",
+                "source": {
+                  "workId": "senghor-chants-ombre",
+                  "locator": "Chants d'ombre on poetic rhythm, repetition and African imagery",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "senghor:claim:004",
+            "titleZh": "法语可以被改造为非洲表达工具",
+            "claimZh": "桑戈尔使用法语并非简单同化，而是试图把殖民语言改造为表达非洲经验和世界对话的工具。",
+            "explanationZh": "他的语言实践显示殖民语言可以被反向占用，但也留下精英语言和本土语言关系的争议。",
+            "themeIds": [
+              "language",
+              "aesthetics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "senghor:evidence:007",
+                "titleZh": "法语与黑人性表达",
+                "summaryZh": "《自由 I》为法语在非洲文学中的使用辩护，认为法语可成为表达黑人性和世界人文主义的媒介。",
+                "source": {
+                  "workId": "senghor-liberte-negritude-humanism",
+                  "locator": "Liberté I on French language, negritude and universal civilization",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "senghor:evidence:008",
+                "titleZh": "诗歌中的语言混成",
+                "summaryZh": "《黑色祭品》以法语写作非洲记忆和殖民战争经验，体现桑戈尔对殖民语言的再功能化和审美转用。",
+                "source": {
+                  "workId": "senghor-hosties-noires",
+                  "locator": "Hosties noires on French poetic language and African memory",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "senghor:problem:003",
+        "titleZh": "非洲社会主义如何结合文化和国家建设？",
+        "questionZh": "桑戈尔如何把黑人性、人文主义和社会主义政治结合到独立后的国家建设中？",
+        "summaryZh": "桑戈尔的政治思想试图把非洲共同体传统、反殖民文化自觉和社会主义发展结合起来。他强调国家建设不能照搬欧洲模型，而要从非洲社会经验出发。",
+        "themeIds": [
+          "politics",
+          "justice",
+          "ethics"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "senghor:claim:005",
+            "titleZh": "非洲社会主义应 rooted in communal humanism",
+            "claimZh": "桑戈尔主张非洲社会主义应植根于共同体、人文主义和文化传统，而不是机械移植欧洲阶级斗争模型。",
+            "explanationZh": "他的政治方案把文化身份与经济发展联系起来，试图为后殖民国家寻找非同化道路。",
+            "themeIds": [
+              "politics",
+              "justice"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "senghor:evidence:009",
+                "titleZh": "非洲社会主义中的共同体原则",
+                "summaryZh": "《论非洲社会主义》把非洲共同体传统与社会主义目标联系起来，反对简单复制欧洲社会主义模式。",
+                "source": {
+                  "workId": "senghor-african-socialism",
+                  "locator": "On African Socialism on communal traditions and socialist development",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "senghor:evidence:010",
+                "titleZh": "民族与非洲社会主义道路",
+                "summaryZh": "《民族与非洲社会主义道路》讨论独立国家发展路线，强调政治现代化应结合非洲社会结构和文化价值。",
+                "source": {
+                  "workId": "senghor-nation-african-socialism",
+                  "locator": "Nation and African Road to Socialism on postcolonial development and nation-building",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "senghor:claim:006",
+            "titleZh": "文化解放必须进入制度建设",
+            "claimZh": "桑戈尔认为黑人性和文化复兴若不进入教育、国家和经济制度，就无法完成反殖民解放。",
+            "explanationZh": "他的思想把诗歌与治国连接起来，但也因此面临文化理想和国家权力之间的张力。",
+            "themeIds": [
+              "politics",
+              "language"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "senghor:evidence:011",
+                "titleZh": "文化政策与国家建设",
+                "summaryZh": "《论非洲社会主义》把文化教育、国家发展和经济计划联系起来，说明文化解放需要制度承载。",
+                "source": {
+                  "workId": "senghor-african-socialism",
+                  "locator": "On African Socialism on culture, education and state planning",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "senghor:evidence:012",
+                "titleZh": "黑人性与政治人文主义",
+                "summaryZh": "《自由 I》把黑人性、人文主义和后殖民政治联系起来，显示文化理论被用于国家与世界秩序想象。",
+                "source": {
+                  "workId": "senghor-liberte-negritude-humanism",
+                  "locator": "Liberté I on negritude, humanism and postcolonial political culture",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "tier": "standard"
 }

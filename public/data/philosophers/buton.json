@@ -1,0 +1,45 @@
+{
+  "id": "buton",
+  "tier": "seed",
+  "names": {
+    "zh": "布顿",
+    "en": "Butön Rinchen Drub"
+  },
+  "life": {
+    "birth": 1290,
+    "death": 1364,
+    "display": "1290—1364"
+  },
+  "civilization": "tibetan_buddhist",
+  "traditions": [
+    "sakya",
+    "tibetan_buddhist_history"
+  ],
+  "periods": [
+    "medieval",
+    "tibetan_later_dissemination"
+  ],
+  "themes": [
+    "religion",
+    "knowledge"
+  ],
+  "keywordsZh": [
+    "佛教史",
+    "大藏经",
+    "布顿佛教史"
+  ],
+  "oneLineZh": "藏传佛教史家和大藏经编定关键人物。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "布顿（1290—1364）是 Seed W6 藏传佛教文明补线候选。其身份层入选理由为：藏传佛教史家和大藏经编定关键人物。 本条仅作 seed 档基本定位，后续若升级标准档，必须重新做著作、论点与 evidence 研究。",
+  "works": [
+    "buton-history-of-buddhism"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S004",
+      "url": "https://treasuryoflives.org/biographies/",
+      "noteZh": "来源：Treasury of Lives / Buton；用于核验人物身份、断代、代表作与思想史定位。"
+    }
+  ]
+}

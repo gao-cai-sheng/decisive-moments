@@ -5,9 +5,9 @@
     "en": "Sor Juana Ines de la Cruz"
   },
   "life": {
-    "display": "1648—1695",
     "birth": 1648,
-    "death": 1695
+    "death": 1695,
+    "display": "1648—1695"
   },
   "civilization": "latin_american",
   "traditions": [
@@ -31,12 +31,260 @@
   "reviewStatus": "draft",
   "summaryZh": "胡安娜修女是政治、正义问题谱系中的第一版候选哲人。 本条目是第一版结构化资料，已经保留文明、传统、主题、作品和论述字段，正式发布前需要继续核对年代、文本出处和概念表述。",
   "works": [
-    "sor-juana-primary-work"
+    "sor-juana-respuesta",
+    "sor-juana-first-dream",
+    "sor-juana-carta-atenagorica",
+    "sor-juana-selected-poetry-drama"
   ],
   "sourceNotes": [
     {
       "label": "draft",
       "noteZh": "条目需要人工核对作品、年代和概念表述。"
     }
-  ]
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "sor-juana:problem:001",
+        "titleZh": "女性为何有求知和写作的权利？",
+        "questionZh": "胡安娜修女如何在殖民宗教秩序中为女性学习和写作辩护？",
+        "summaryZh": "胡安娜修女在宗教服从话语内部为女性求知辩护。她以个人学习经历、圣经女性范例和理性才能说明，女性学习不是虚荣，而能服务信仰和公共理性。",
+        "themeIds": [
+          "justice",
+          "freedom",
+          "knowledge"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "sor-juana:claim:001",
+            "titleZh": "女性学习可以有神学正当性",
+            "claimZh": "胡安娜修女主张女性追求知识并不必然违背宗教谦卑，反而可以帮助理解经典和服务上帝。",
+            "explanationZh": "她没有用现代世俗权利语言，而是在神学与修院秩序中寻找女性智识活动的合法空间。",
+            "themeIds": [
+              "knowledge",
+              "justice"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "sor-juana:evidence:001",
+                "titleZh": "答菲洛特亚修女中的求知辩护",
+                "summaryZh": "《答菲洛特亚修女》叙述胡安娜自幼求学经历，并为女性学习经典和世俗知识提出辩护，回应禁学压力。",
+                "source": {
+                  "workId": "sor-juana-respuesta",
+                  "locator": "Respuesta a Sor Filotea de la Cruz on women's learning and autobiography",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "sor-juana:evidence:002",
+                "titleZh": "圣经女性与学习范例",
+                "summaryZh": "《答菲洛特亚修女》列举女性圣贤和经文范例，说明女性智识能力可在宗教传统中获得正当性。",
+                "source": {
+                  "workId": "sor-juana-respuesta",
+                  "locator": "Respuesta on learned women, biblical examples and legitimacy of study",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "sor-juana:claim:002",
+            "titleZh": "沉默要求暴露了知识权力不平等",
+            "claimZh": "胡安娜修女通过回应要求她沉默的批评，揭示殖民宗教社会如何限制女性进入公共论辩。",
+            "explanationZh": "她的辩护表明女性不是缺乏理性，而是被制度性地剥夺学习、写作和争辩的空间。",
+            "themeIds": [
+              "freedom",
+              "justice"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "sor-juana:evidence:003",
+                "titleZh": "回应审查的修辞策略",
+                "summaryZh": "《答菲洛特亚修女》以谦卑口吻回应权威批评，同时细致论证女性写作和学习不应被简单禁止。",
+                "source": {
+                  "workId": "sor-juana-respuesta",
+                  "locator": "Respuesta on rhetorical humility, censorship and intellectual defense",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "sor-juana:evidence:004",
+                "titleZh": "雅典娜书信后的争议背景",
+                "summaryZh": "《雅典娜书信》引发神学权威争议，显示胡安娜进入公共神学论辩后遭遇性别化限制和审查压力。",
+                "source": {
+                  "workId": "sor-juana-carta-atenagorica",
+                  "locator": "Carta atenagórica and its controversy over theological argument by a nun",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "sor-juana:problem:002",
+        "titleZh": "巴洛克知识为何表现为梦与宇宙旅行？",
+        "questionZh": "胡安娜修女如何在《第一梦》中表现人类知识欲望、限度和宇宙秩序？",
+        "summaryZh": "《第一梦》把灵魂夜间上升、观看宇宙和最终失败写成知识寓言。胡安娜既赞美理智的远征，也承认有限人类面对宇宙整体时的困难。",
+        "themeIds": [
+          "knowledge",
+          "metaphysics",
+          "aesthetics"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "sor-juana:claim:003",
+            "titleZh": "求知欲具有宇宙尺度",
+            "claimZh": "胡安娜修女在《第一梦》中把求知欲写成灵魂试图把握宇宙秩序的上升运动。",
+            "explanationZh": "这首诗使女性作者的智识雄心获得宏大形而上学形式，而非局限在私人虔敬领域。",
+            "themeIds": [
+              "knowledge",
+              "metaphysics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "sor-juana:evidence:005",
+                "titleZh": "第一梦中的灵魂上升",
+                "summaryZh": "《第一梦》描写睡眠中的灵魂试图越过感官限制观看宇宙整体，展示求知欲的广度和形而上雄心。",
+                "source": {
+                  "workId": "sor-juana-first-dream",
+                  "locator": "Primero sueño on the soul's ascent and desire to know the cosmos",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "sor-juana:evidence:006",
+                "titleZh": "百科知识与诗性结构",
+                "summaryZh": "《第一梦》调动天文、医学、神学和古典典故，说明诗歌可承载复杂知识组织和哲学反思。",
+                "source": {
+                  "workId": "sor-juana-first-dream",
+                  "locator": "Primero sueño on encyclopedic knowledge, astronomy and poetic form",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "sor-juana:claim:004",
+            "titleZh": "知识的失败不是反智而是有限性意识",
+            "claimZh": "胡安娜修女让梦中求知最终失败，表达的不是放弃知识，而是对有限理智和无限对象之间张力的认识。",
+            "explanationZh": "这种失败使诗歌兼具求知激情和认识论谦卑，避免把理性全能化。",
+            "themeIds": [
+              "knowledge",
+              "religion"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "sor-juana:evidence:007",
+                "titleZh": "梦醒与知识限度",
+                "summaryZh": "《第一梦》以梦醒和日出结束求知远征，显示人类理解无法一次性把握宇宙整体，也保留认识论谦卑。",
+                "source": {
+                  "workId": "sor-juana-first-dream",
+                  "locator": "Primero sueño on awakening, failure and limits of human understanding",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "sor-juana:evidence:008",
+                "titleZh": "神学谦卑与理智野心",
+                "summaryZh": "《第一梦》同时呈现理智上升和失败，说明胡安娜在巴洛克诗学中平衡神学谦卑与求知野心。",
+                "source": {
+                  "workId": "sor-juana-first-dream",
+                  "locator": "Primero sueño on intellectual ambition and theological humility",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "sor-juana:problem:003",
+        "titleZh": "殖民文学主体如何介入神学和公共争论？",
+        "questionZh": "胡安娜修女如何通过诗歌、戏剧和神学批评在新西班牙公共文化中发声？",
+        "summaryZh": "胡安娜修女的写作跨越诗歌、戏剧和神学批评，使殖民地女性作者进入公共知识网络。她既运用宫廷与教会文体，也在其中展示独立判断。",
+        "themeIds": [
+          "politics",
+          "language",
+          "religion"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "sor-juana:claim:005",
+            "titleZh": "殖民作者可以进入跨大西洋论辩",
+            "claimZh": "胡安娜修女通过神学批评和文学写作进入西班牙帝国知识空间，显示殖民地作者不是沉默边缘。",
+            "explanationZh": "她的作品让新西班牙修院成为知识生产地点，而不是欧洲中心话语的被动接收端。",
+            "themeIds": [
+              "politics",
+              "language"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "sor-juana:evidence:009",
+                "titleZh": "雅典娜书信中的神学批评",
+                "summaryZh": "《雅典娜书信》批评维埃拉神父关于基督恩典的讲道，显示胡安娜有能力参与高层神学论辩。",
+                "source": {
+                  "workId": "sor-juana-carta-atenagorica",
+                  "locator": "Carta atenagórica on critique of Vieira's sermon and theological reasoning",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "sor-juana:evidence:010",
+                "titleZh": "答辩中的作者身份重建",
+                "summaryZh": "《答菲洛特亚修女》把个人生平、学习经历和神学辩护结合起来，重建殖民女性作者的公共身份。",
+                "source": {
+                  "workId": "sor-juana-respuesta",
+                  "locator": "Respuesta on authorship, learning and public theological controversy",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "sor-juana:claim:006",
+            "titleZh": "文学形式承载知识与权力批判",
+            "claimZh": "胡安娜修女把诗歌、戏剧和修辞变成表达知识、讽刺性别偏见和调解权力关系的工具。",
+            "explanationZh": "文学形式使她能够在审查环境中间接发声，把智识自由隐藏在华丽修辞和宗教服从姿态之中。",
+            "themeIds": [
+              "language",
+              "freedom"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "sor-juana:evidence:011",
+                "titleZh": "诗歌中的性别讽刺",
+                "summaryZh": "胡安娜的讽刺诗批评男性对女性的双重标准，显示文学可以直接揭露性别权力结构和道德伪善。",
+                "source": {
+                  "workId": "sor-juana-selected-poetry-drama",
+                  "locator": "Selected poems on gender double standards and satire of male blame",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "sor-juana:evidence:012",
+                "titleZh": "戏剧与公共文化",
+                "summaryZh": "胡安娜的戏剧和宫廷文学在宗教、政治和娱乐之间转换，使女性作者进入殖民公共文化舞台。",
+                "source": {
+                  "workId": "sor-juana-selected-poetry-drama",
+                  "locator": "Selected dramatic works on courtly, religious and public cultural writing",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "tier": "standard"
 }

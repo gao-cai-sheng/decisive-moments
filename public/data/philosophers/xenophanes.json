@@ -1,0 +1,285 @@
+{
+  "id": "xenophanes",
+  "names": {
+    "zh": "色诺芬尼",
+    "en": "Xenophanes"
+  },
+  "life": {
+    "birth": -570,
+    "death": -475,
+    "display": "约前 570—前 475"
+  },
+  "civilization": "ancient_greek",
+  "traditions": [
+    "presocratic_philosophy",
+    "ancient_greek_philosophy"
+  ],
+  "periods": [
+    "first_release"
+  ],
+  "themes": [
+    "religion",
+    "knowledge",
+    "metaphysics"
+  ],
+  "keywordsZh": [
+    "宗教",
+    "知识",
+    "形而上学"
+  ],
+  "oneLineZh": "前苏格拉底诗哲，批判拟人神观，并提出关于神、自然和人类知识限度的早期反思。",
+  "influenceWeight": 1,
+  "reviewStatus": "draft",
+  "summaryZh": "前苏格拉底诗哲，批判拟人神观，并提出关于神、自然和人类知识限度的早期反思。本条目以 summary_only 方式整理，重点保留低争议的问题结构、主张和可追溯证据定位。",
+  "works": [
+    "xenophanes-primary-work"
+  ],
+  "sourceNotes": [
+    {
+      "label": "primary-dossier",
+      "noteZh": "本轮采用 Diels-Kranz 残篇、塞克斯都、克莱门、亚里士多德及现代前苏格拉底研究交叉定位；不填逐字摘录。"
+    },
+    {
+      "label": "excerpt-status",
+      "noteZh": "全部 evidence 使用 summary_only，locator 保留到残篇编号或古代见证层级。"
+    }
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "xenophanes:problem:001",
+        "titleZh": "神为什么不应被人形化？",
+        "questionZh": "色诺芬尼如何批判荷马和赫西俄德传统中的拟人神观，并提出更抽象的一神性或最高神观？",
+        "summaryZh": "色诺芬尼把神学批判从神话叙事转向理性反省：如果人按自身形象造神，那么传统神话的权威就必须被审查。",
+        "themeIds": [
+          "religion",
+          "knowledge"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "xenophanes:claim:001",
+            "titleZh": "拟人神观暴露人类投射",
+            "claimZh": "色诺芬尼指出不同民族按自身形貌想象神，显示传统神像可能是人类投射而非真实神性。",
+            "explanationZh": "这不是简单无神论，而是对神话权威和诗人传统的理性拆解。",
+            "themeIds": [
+              "religion",
+              "knowledge"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "xenophanes:evidence:001",
+                "titleZh": "牛马狮子造神残篇",
+                "summaryZh": "残篇以动物若能绘画也会画出动物形神的比喻，批判按自身形象造神，揭示神话拟人化的投射机制。",
+                "source": {
+                  "workId": "xenophanes-primary-work",
+                  "locator": "Xenophanes DK 21 B15 and B16 on Ethiopians, Thracians, horses, oxen and anthropomorphic gods",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "xenophanes:evidence:002",
+                "titleZh": "对荷马赫西俄德的道德批判",
+                "summaryZh": "残篇批判荷马和赫西俄德把偷盗、通奸、欺骗等人类恶行归给神，体现色诺芬尼的道德化神学批判。",
+                "source": {
+                  "workId": "xenophanes-primary-work",
+                  "locator": "Xenophanes DK 21 B11-B12 on Homer and Hesiod attributing shameful deeds to gods",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "xenophanes:claim:002",
+            "titleZh": "最高神观趋向抽象统一",
+            "claimZh": "色诺芬尼提出一位最高神在形体和思想上都不同于凡人，显示神观从拟人多神向抽象统一原则转化。",
+            "explanationZh": "这一立场是否为严格一神论需谨慎，但它明显削弱传统奥林波斯神话的权威。",
+            "themeIds": [
+              "religion",
+              "metaphysics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "xenophanes:evidence:003",
+                "titleZh": "唯一最高神残篇",
+                "summaryZh": "残篇称一神在神与人中最伟大，既不像凡人身体，也不像凡人心思，显示其反拟人化神学方向。",
+                "source": {
+                  "workId": "xenophanes-primary-work",
+                  "locator": "Xenophanes DK 21 B23-B26 on one greatest god, unmoving and ruling by thought",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "xenophanes:evidence:004",
+                "titleZh": "现代研究对一神论的谨慎解释",
+                "summaryZh": "现代研究通常将其视为神学理性化和反拟人化，而不简单等同后世严格一神教，以避免时代错置。",
+                "source": {
+                  "workId": "xenophanes-primary-work",
+                  "locator": "Modern scholarship on Xenophanes' theology, monotheism and anti-anthropomorphism",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "xenophanes:problem:002",
+        "titleZh": "人类知识为何有限？",
+        "questionZh": "色诺芬尼如何提出关于真理、意见、探索和知识限度的早期认识论问题？",
+        "summaryZh": "色诺芬尼承认人可通过探索改进认识，但也强调人难以确信把握神和万物的最终真相。",
+        "themeIds": [
+          "knowledge"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "xenophanes:claim:003",
+            "titleZh": "确知与意见需要区分",
+            "claimZh": "色诺芬尼认为即使有人说中了真理，也未必知道自己已经说中，显示确知和真意见之间的差别。",
+            "explanationZh": "这为后来的怀疑论和知识论问题提供早期表达。",
+            "themeIds": [
+              "knowledge"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "xenophanes:evidence:005",
+                "titleZh": "知识限度残篇",
+                "summaryZh": "残篇指出关于神和万物的清楚真理无人知道，纵使说中也只是意见层面，凸显认识限度意识。",
+                "source": {
+                  "workId": "xenophanes-primary-work",
+                  "locator": "Xenophanes DK 21 B34 on no man knowing clear truth and seeming/opinion over all things",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "xenophanes:evidence:006",
+                "titleZh": "塞克斯都的怀疑论接受",
+                "summaryZh": "塞克斯都等后世怀疑论资料引用色诺芬尼，显示其认识限度论被纳入怀疑传统并获得后世哲学意义。",
+                "source": {
+                  "workId": "xenophanes-primary-work",
+                  "locator": "Sextus Empiricus, Against the Logicians and Pyrrhonian contexts citing Xenophanes on knowledge limits",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "xenophanes:claim:004",
+            "titleZh": "探索使认识可改进",
+            "claimZh": "色诺芬尼并不主张完全放弃认识，而是认为诸神没有一开始向人揭示万事，人通过长期探索发现更好东西。",
+            "explanationZh": "这使他的位置不是消极虚无，而是有限理性和渐进探索。",
+            "themeIds": [
+              "knowledge"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "xenophanes:evidence:007",
+                "titleZh": "探索进步残篇",
+                "summaryZh": "残篇说诸神没有从开端揭示一切，人在寻求中随时间发现更好的东西，保留探究进步的可能性。",
+                "source": {
+                  "workId": "xenophanes-primary-work",
+                  "locator": "Xenophanes DK 21 B18 on gods not revealing all things from the beginning and human inquiry improving over time",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "xenophanes:evidence:008",
+                "titleZh": "现代认识论解释",
+                "summaryZh": "研究常把色诺芬尼视为早期 fallibilism 或可错论倾向的代表，但需避免现代化过度。",
+                "source": {
+                  "workId": "xenophanes-primary-work",
+                  "locator": "Modern scholarship on Xenophanes, fallibilism, inquiry and epistemic modesty",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "xenophanes:problem:003",
+        "titleZh": "自然证据如何替代神话解释？",
+        "questionZh": "色诺芬尼关于化石、海陆变化和自然现象的片段，如何显示早期自然化解释？",
+        "summaryZh": "色诺芬尼把贝壳、鱼化石、云和天象作为自然过程证据来讨论，延续前苏格拉底自然解释方向。",
+        "themeIds": [
+          "metaphysics",
+          "knowledge"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "xenophanes:claim:005",
+            "titleZh": "化石证据支持海陆变化推断",
+            "claimZh": "色诺芬尼据贝壳和海洋生物遗迹推断陆地曾被水覆盖，显示从观察到自然史推断的能力。",
+            "explanationZh": "这类材料虽简短，却表明早期哲学已把经验迹象用于解释地球变化。",
+            "themeIds": [
+              "knowledge",
+              "metaphysics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "xenophanes:evidence:009",
+                "titleZh": "化石与海陆变化见证",
+                "summaryZh": "后世资料记载色诺芬尼观察内陆贝壳和鱼类印痕，推断大地曾与海水相关，呈现早期自然史推理。",
+                "source": {
+                  "workId": "xenophanes-primary-work",
+                  "locator": "Hippolytus and Aetius testimonia on Xenophanes' fossils, shells and earth-sea changes",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "xenophanes:evidence:010",
+                "titleZh": "自然史推断研究",
+                "summaryZh": "现代研究把这些见证视为早期自然史和地质推理的线索，但不夸大为现代地质学，强调其历史语境。",
+                "source": {
+                  "workId": "xenophanes-primary-work",
+                  "locator": "Modern scholarship on Xenophanes' fossil observations and natural history",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "xenophanes:claim:006",
+            "titleZh": "天象可由云等自然过程解释",
+            "claimZh": "色诺芬尼传统将虹、日月和天象归入云、火或自然过程，削弱神话人格解释。",
+            "explanationZh": "其具体模型不一定正确，但问题方式已转向自然原因。",
+            "themeIds": [
+              "knowledge"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "xenophanes:evidence:011",
+                "titleZh": "虹与云的解释",
+                "summaryZh": "残篇或见证把 Iris 等神话化现象解释为云的显现，说明色诺芬尼倾向用自然过程改写神话天象。",
+                "source": {
+                  "workId": "xenophanes-primary-work",
+                  "locator": "Xenophanes DK 21 B32 and doxographical testimonia on rainbow/Iris as cloud",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "xenophanes:evidence:012",
+                "titleZh": "前苏格拉底自然化语境",
+                "summaryZh": "色诺芬尼的天象解释与米利都传统共同构成从神话到自然说明的转向，也连接其神学批判和自然研究。",
+                "source": {
+                  "workId": "xenophanes-primary-work",
+                  "locator": "Modern comparative studies of Presocratic natural explanation from Milesians to Xenophanes",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "tier": "standard"
+}

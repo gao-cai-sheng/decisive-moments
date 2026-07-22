@@ -1,0 +1,45 @@
+{
+  "id": "luo-rufang",
+  "tier": "seed",
+  "names": {
+    "zh": "罗汝芳",
+    "en": "Luo Rufang",
+    "native": "羅汝芳"
+  },
+  "life": {
+    "birth": 1515,
+    "death": 1588,
+    "display": "1515—1588"
+  },
+  "civilization": "chinese",
+  "traditions": [
+    "neo_confucianism",
+    "taizhou_school"
+  ],
+  "periods": [
+    "ming"
+  ],
+  "themes": [
+    "ethics",
+    "religion"
+  ],
+  "keywordsZh": [
+    "近溪",
+    "泰州学派",
+    "赤子良心"
+  ],
+  "oneLineZh": "晚明泰州学派人物，以赤子良心、日用教化和平民讲学著称。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "罗汝芳，字惟德，号近溪，江西南城人，晚明泰州学派重要人物。其讲学重视赤子良心、日用伦常和亲民教化，语言通俗而具有宗教感染力。《罗近溪先生全集》保存其语录、书札和讲学材料。罗汝芳承接王艮一路，使阳明后学进一步走向民间社会和生活世界。",
+  "works": [
+    "luo-rufang-jinxi-quanji"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S001",
+      "url": "https://ctext.org/wiki.pl?if=en&searchu=%E7%BE%85%E6%B1%9D%E8%8A%B3",
+      "noteZh": "以罗汝芳《罗近溪先生全集》和明儒学案相关条目支撑身份层。"
+    }
+  ]
+}

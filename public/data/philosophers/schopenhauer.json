@@ -5,9 +5,9 @@
     "en": "Arthur Schopenhauer"
   },
   "life": {
-    "display": "1788—1860",
     "birth": 1788,
-    "death": 1860
+    "death": 1860,
+    "display": "1788—1860"
   },
   "civilization": "european_modern",
   "traditions": [
@@ -31,12 +31,259 @@
   "reviewStatus": "draft",
   "summaryZh": "叔本华是知识、自由问题谱系中的第一版候选哲人。 本条目是第一版结构化资料，已经保留文明、传统、主题、作品和论述字段，正式发布前需要继续核对年代、文本出处和概念表述。",
   "works": [
-    "schopenhauer-primary-work"
+    "schopenhauer-world-will-representation",
+    "schopenhauer-fourfold-root",
+    "schopenhauer-basis-morality",
+    "schopenhauer-parerga"
   ],
   "sourceNotes": [
     {
       "label": "draft",
       "noteZh": "条目需要人工核对作品、年代和概念表述。"
     }
-  ]
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "schopenhauer:problem:001",
+        "titleZh": "世界为何首先是表象？",
+        "questionZh": "叔本华如何从主体条件出发说明经验世界的结构？",
+        "summaryZh": "叔本华继承康德，把经验世界理解为对主体而言的表象。对象总在时间、空间和因果等形式中出现，而充足理由律规定了经验世界的可理解结构。",
+        "themeIds": [
+          "metaphysics",
+          "knowledge"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "schopenhauer:claim:001",
+            "titleZh": "对象世界依赖主体的表象形式",
+            "claimZh": "叔本华认为世界作为对象总是为主体而存在，经验世界不是脱离主体形式的自在物。",
+            "explanationZh": "这不是说世界只是幻觉，而是说我们能经验和认识的世界已经被表象条件组织。",
+            "themeIds": [
+              "metaphysics",
+              "knowledge"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "schopenhauer:evidence:001",
+                "titleZh": "世界作为表象",
+                "summaryZh": "《作为意志和表象的世界》开篇提出世界是我的表象，明确把对象性和主体关联起来，进一步说明“世界作为表象”如何进入“对象世界依赖主体的表象形式”的论证链条。",
+                "source": {
+                  "workId": "schopenhauer-world-will-representation",
+                  "locator": "World as Will and Representation vol. I book I §1 on the world as representation",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "schopenhauer:evidence:002",
+                "titleZh": "充足理由律四重根",
+                "summaryZh": "《充足理由律的四重根》区分生成、认识、存在和行动的理由形式，说明经验对象如何被理由结构组织。",
+                "source": {
+                  "workId": "schopenhauer-fourfold-root",
+                  "locator": "Fourfold Root of the Principle of Sufficient Reason on forms of explanation",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "schopenhauer:claim:002",
+            "titleZh": "身体开启从表象到意志的通道",
+            "claimZh": "叔本华认为我的身体既是表象中的对象，又以内在感受显现为意志，因而提供通向世界本质的线索。",
+            "explanationZh": "身体的双重给予使他能够越过纯粹表象，提出世界自在本质是意志。",
+            "themeIds": [
+              "metaphysics",
+              "life_death"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "schopenhauer:evidence:003",
+                "titleZh": "身体的双重给予",
+                "summaryZh": "第一卷第二篇通过身体既被外在知觉又被内在意欲体验来论证意志是自在本质的入口，进一步说明“身体的双重给予”如何进入“身体开启从表象到意志的通道”的论证链条。",
+                "source": {
+                  "workId": "schopenhauer-world-will-representation",
+                  "locator": "World as Will and Representation vol. I book II §§18-20 on body and will",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "schopenhauer:evidence:004",
+                "titleZh": "通过意志接近自在物",
+                "summaryZh": "第二卷补论进一步说明我们通过自身意志对自在物有一种非概念、内在的接近，进一步说明“通过意志接近自在物”如何进入“身体开启从表象到意志的通道”的论证链条。",
+                "source": {
+                  "workId": "schopenhauer-world-will-representation",
+                  "locator": "World as Will and Representation vol. II supplements on knowledge of the thing in itself through will",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "schopenhauer:problem:002",
+        "titleZh": "意志为何导致痛苦？",
+        "questionZh": "叔本华如何把生命、欲望和痛苦联系成悲观主义形而上学？",
+        "summaryZh": "叔本华把意志理解为盲目无终点的冲动。个体生命被欲望推动，满足只是暂时停止痛苦，随后又进入匮乏、无聊和新的追求。",
+        "themeIds": [
+          "life_death",
+          "ethics",
+          "metaphysics"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "schopenhauer:claim:003",
+            "titleZh": "意志是无目的的盲目冲动",
+            "claimZh": "叔本华认为世界本质不是理性目的，而是不断自我肯定的盲目意志。",
+            "explanationZh": "这使自然、身体和人类行动都被解释为无终点欲求的表现，而非趋向最终和谐。",
+            "themeIds": [
+              "metaphysics",
+              "life_death"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "schopenhauer:evidence:005",
+                "titleZh": "意志的客观化",
+                "summaryZh": "第一卷第二篇把自然层级理解为意志的客观化，从无机自然到生命都表现同一盲目冲动，进一步说明“意志的客观化”如何进入“意志是无目的的盲目冲动”的论证链条。",
+                "source": {
+                  "workId": "schopenhauer-world-will-representation",
+                  "locator": "World as Will and Representation vol. I book II §§21-29 on grades of objectification of will",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "schopenhauer:evidence:006",
+                "titleZh": "自然中的意志",
+                "summaryZh": "第二卷补论把自然力量和有机生命都解释为意志表现，削弱目的论乐观主义，进一步说明“自然中的意志”如何进入“意志是无目的的盲目冲动”的论证链条。",
+                "source": {
+                  "workId": "schopenhauer-world-will-representation",
+                  "locator": "World as Will and Representation vol. II supplements on will in nature",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "schopenhauer:claim:004",
+            "titleZh": "生命在欲望和无聊间摆动",
+            "claimZh": "叔本华认为欲望意味着匮乏和痛苦，满足又迅速转为无聊，生命很难获得持久幸福。",
+            "explanationZh": "这构成他的悲观主义核心：痛苦不是偶然事件，而根植于意志结构。",
+            "themeIds": [
+              "life_death",
+              "ethics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "schopenhauer:evidence:007",
+                "titleZh": "欲望、满足与无聊",
+                "summaryZh": "第四篇把人生描述为欲望、短暂满足和无聊的循环，说明痛苦根源于意志本身，进一步说明“欲望、满足与无聊”如何进入“生命在欲望和无聊间摆动”的论证链条。",
+                "source": {
+                  "workId": "schopenhauer-world-will-representation",
+                  "locator": "World as Will and Representation vol. I book IV §§56-59 on willing, suffering and boredom",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "schopenhauer:evidence:008",
+                "titleZh": "人生痛苦短论",
+                "summaryZh": "《附录与补遗》多篇短论延伸其人生悲观论，把虚荣、痛苦和无常视为生活常态，进一步说明“人生痛苦短论”如何进入“生命在欲望和无聊间摆动”的论证链条。",
+                "source": {
+                  "workId": "schopenhauer-parerga",
+                  "locator": "Parerga and Paralipomena essays on the vanity and suffering of existence",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "schopenhauer:problem:003",
+        "titleZh": "艺术和同情如何暂时或伦理地解脱？",
+        "questionZh": "叔本华如何在悲观主义中保留审美、同情和否定意志的出口？",
+        "summaryZh": "叔本华认为艺术能让主体暂时摆脱个体欲求，以无利害方式观照理念；伦理上，同情突破个体化幻象，而禁欲则更彻底地否定意志。",
+        "themeIds": [
+          "ethics",
+          "life_death",
+          "freedom"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "schopenhauer:claim:005",
+            "titleZh": "审美观照暂时中止意志支配",
+            "claimZh": "叔本华认为艺术让人从欲求的个体主体转为纯粹认识主体，暂时摆脱意志带来的痛苦。",
+            "explanationZh": "美学不是装饰，而是对悲观存在论的局部解脱；音乐尤其直接表现意志本身。",
+            "themeIds": [
+              "ethics",
+              "life_death"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "schopenhauer:evidence:009",
+                "titleZh": "审美观照与纯粹主体",
+                "summaryZh": "第三篇把审美观照描述为摆脱充足理由律和个人欲求的纯粹认识状态，进一步说明“审美观照与纯粹主体”如何进入“审美观照暂时中止意志支配”的论证链条。",
+                "source": {
+                  "workId": "schopenhauer-world-will-representation",
+                  "locator": "World as Will and Representation vol. I book III §§34-39 on aesthetic contemplation",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "schopenhauer:evidence:010",
+                "titleZh": "音乐与意志",
+                "summaryZh": "音乐章节把音乐视为意志的直接摹本，而不只是理念的间接再现，进一步说明“音乐与意志”如何进入“审美观照暂时中止意志支配”的论证链条。",
+                "source": {
+                  "workId": "schopenhauer-world-will-representation",
+                  "locator": "World as Will and Representation vol. I book III §52 on music",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "schopenhauer:claim:006",
+            "titleZh": "同情和禁欲突破个体化原则",
+            "claimZh": "叔本华把同情视为真正道德的基础，因为它让人直接感受他者痛苦并削弱个体隔离。",
+            "explanationZh": "伦理的终点不是完善欲望满足，而是通过同情和禁欲逐步否定意志。",
+            "themeIds": [
+              "ethics",
+              "freedom"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "schopenhauer:evidence:011",
+                "titleZh": "同情作为道德基础",
+                "summaryZh": "《论道德的基础》把同情确立为非利己行为的唯一真实道德动机，进一步说明“同情作为道德基础”如何进入“同情和禁欲突破个体化原则”的论证链条。",
+                "source": {
+                  "workId": "schopenhauer-basis-morality",
+                  "locator": "On the Basis of Morality sections on compassion as the foundation of ethics",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "schopenhauer:evidence:012",
+                "titleZh": "否定意志",
+                "summaryZh": "第一卷第四篇后段讨论圣徒、禁欲和否定意志，把伦理解脱推向最彻底形态，进一步说明“否定意志”如何进入“同情和禁欲突破个体化原则”的论证链条。",
+                "source": {
+                  "workId": "schopenhauer-world-will-representation",
+                  "locator": "World as Will and Representation vol. I book IV §§66-71 on denial of the will",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "tier": "standard"
 }

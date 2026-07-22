@@ -1,0 +1,288 @@
+{
+  "id": "cicero",
+  "names": {
+    "zh": "西塞罗",
+    "en": "Cicero"
+  },
+  "life": {
+    "birth": -106,
+    "death": -43,
+    "display": "前 106—前 43"
+  },
+  "civilization": "ancient_greek",
+  "traditions": [
+    "roman_philosophy",
+    "academic_skepticism"
+  ],
+  "periods": [
+    "first_release"
+  ],
+  "themes": [
+    "politics",
+    "ethics",
+    "knowledge"
+  ],
+  "keywordsZh": [
+    "政治",
+    "伦理",
+    "知识"
+  ],
+  "oneLineZh": "罗马政治家和哲学作者，把希腊哲学翻译进拉丁公共理性、共和伦理和自然法传统。",
+  "influenceWeight": 1,
+  "reviewStatus": "draft",
+  "summaryZh": "罗马政治家和哲学作者，把希腊哲学翻译进拉丁公共理性、共和伦理和自然法传统。本条目以 summary_only 方式整理。",
+  "works": [
+    "cicero-primary-work"
+  ],
+  "sourceNotes": [
+    {
+      "label": "primary-dossier",
+      "noteZh": "采用《论义务》《论共和国》《法律篇》《学园派问题》《论神性》和现代罗马哲学研究。"
+    },
+    {
+      "label": "excerpt-status",
+      "noteZh": "全部 evidence 使用 summary_only。"
+    }
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "cicero:problem:001",
+        "titleZh": "哲学如何服务共和国？",
+        "questionZh": "西塞罗如何把希腊哲学转化为罗马公民、演说家和政治家的伦理资源？",
+        "summaryZh": "西塞罗把哲学写作视为共和国危机中的公共教育，用义务、德性和法来训练政治判断。",
+        "themeIds": [
+          "politics",
+          "ethics"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "cicero:claim:001",
+            "titleZh": "哲学是公共生活训练",
+            "claimZh": "西塞罗把哲学用于培养政治家在荣誉、利益和正义之间判断的能力。",
+            "explanationZh": "他的哲学不是退隐书斋，而是共和国公民伦理的一部分。",
+            "themeIds": [
+              "politics",
+              "ethics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "cicero:evidence:001",
+                "titleZh": "《论义务》",
+                "summaryZh": "该书以斯多葛伦理为核心，讨论可敬、利益和二者冲突中的公共义务，面向罗马政治生活。",
+                "source": {
+                  "workId": "cicero-primary-work",
+                  "locator": "Cicero, De Officiis I-III on duty, honor and expediency",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "cicero:evidence:002",
+                "titleZh": "危机中的哲学写作",
+                "summaryZh": "西塞罗晚年在共和国崩溃背景下密集写作哲学作品，以保存希腊哲学并回应政治危机局面。",
+                "source": {
+                  "workId": "cicero-primary-work",
+                  "locator": "Cicero, prefaces to philosophical works; modern scholarship on Cicero's late philosophical project",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "cicero:claim:002",
+            "titleZh": "演说家应兼具智慧和正义",
+            "claimZh": "西塞罗理想中的演说家不只是说服技师，还应具备哲学修养和公共德性。",
+            "explanationZh": "这回应了修辞可能脱离正义的风险。",
+            "themeIds": [
+              "language",
+              "politics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "cicero:evidence:003",
+                "titleZh": "《论演说家》",
+                "summaryZh": "文本把雄辩、法律、历史、哲学和政治经验结合为理想演说家教育，形成公共领导训练体系。",
+                "source": {
+                  "workId": "cicero-primary-work",
+                  "locator": "Cicero, De Oratore I-III on the ideal orator",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "cicero:evidence:004",
+                "titleZh": "修辞与哲学研究",
+                "summaryZh": "现代研究强调西塞罗将修辞教育和哲学伦理合并，使演说术承担公民德性培养功能角色定位。",
+                "source": {
+                  "workId": "cicero-primary-work",
+                  "locator": "Modern scholarship on Cicero, rhetoric and philosophy",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "cicero:problem:002",
+        "titleZh": "自然法如何支撑政治秩序？",
+        "questionZh": "西塞罗如何把法、理性、自然和共和国正义联系起来？",
+        "summaryZh": "西塞罗继承斯多葛自然法思想，把真正法律理解为合乎自然的正当理性。",
+        "themeIds": [
+          "justice",
+          "politics"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "cicero:claim:003",
+            "titleZh": "真正法律是正当理性",
+            "claimZh": "西塞罗把真正法律定义为符合自然、普遍有效、命令人行善避恶的正当理性。",
+            "explanationZh": "这为后世自然法传统提供经典表述。",
+            "themeIds": [
+              "justice",
+              "metaphysics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "cicero:evidence:005",
+                "titleZh": "《论共和国》的自然法段落",
+                "summaryZh": "文本残篇保存著名的真正法律即合乎自然的正当理性表述，成为自然法传统重要来源之一。",
+                "source": {
+                  "workId": "cicero-primary-work",
+                  "locator": "Cicero, De Re Publica III.22 on true law as right reason in agreement with nature",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "cicero:evidence:006",
+                "titleZh": "《法律篇》",
+                "summaryZh": "《法律篇》从自然、理性和人与神共同体论证法律基础，把法理解为超越习俗的规范秩序。",
+                "source": {
+                  "workId": "cicero-primary-work",
+                  "locator": "Cicero, De Legibus I on law, nature and reason",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "cicero:claim:004",
+            "titleZh": "共和国是共同法和共同利益的团体",
+            "claimZh": "西塞罗把 res publica 理解为由法的共识和利益共同体结合起来的人民事务。",
+            "explanationZh": "政治共同体因此不能只靠权力或利益，还要靠正义秩序。",
+            "themeIds": [
+              "politics",
+              "justice"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "cicero:evidence:007",
+                "titleZh": "人民定义",
+                "summaryZh": "《论共和国》讨论人民不是任意聚合，而是法权共识和利益共同体，由此定义共和国基础。",
+                "source": {
+                  "workId": "cicero-primary-work",
+                  "locator": "Cicero, De Re Publica I.39 on populus and res publica",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "cicero:evidence:008",
+                "titleZh": "共和主义接受",
+                "summaryZh": "现代研究把西塞罗视为罗马共和主义和自然法传统的重要桥梁，连接希腊哲学与拉丁政治。",
+                "source": {
+                  "workId": "cicero-primary-work",
+                  "locator": "Modern scholarship on Cicero's republicanism and natural law",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "cicero:problem:003",
+        "titleZh": "怀疑主义如何成为公共判断方法？",
+        "questionZh": "西塞罗为何采用新学园怀疑主义，并以正反论证处理神、善和知识问题？",
+        "summaryZh": "西塞罗用学园怀疑主义保持判断开放，通过比较论证选择较可信立场。",
+        "themeIds": [
+          "knowledge",
+          "religion"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "cicero:claim:005",
+            "titleZh": "怀疑主义避免教条独断",
+            "claimZh": "西塞罗借新学园方法对各学派作正反呈现，避免过早断言。",
+            "explanationZh": "这适合政治家处理不确定事务的实践理性。",
+            "themeIds": [
+              "knowledge"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "cicero:evidence:009",
+                "titleZh": "《学园派问题》",
+                "summaryZh": "该书保存新学园反斯多葛知识论和可信判断方法，显示西塞罗偏好比较式哲学判断方式传统。",
+                "source": {
+                  "workId": "cicero-primary-work",
+                  "locator": "Cicero, Academica I-II on Academic skepticism and probability",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "cicero:evidence:010",
+                "titleZh": "对话体方法",
+                "summaryZh": "多部作品以不同人物代表不同学派，展示比较判断，把哲学写作组织为公共辩论场景结构。",
+                "source": {
+                  "workId": "cicero-primary-work",
+                  "locator": "Cicero, De Natura Deorum and Tusculan Disputations as dialogical philosophical method",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "cicero:claim:006",
+            "titleZh": "神学也需接受论证审查",
+            "claimZh": "西塞罗在神学问题上呈现伊壁鸠鲁、斯多葛和学园派批判，显示宗教信念也要进入理性讨论。",
+            "explanationZh": "这使罗马宗教传统和希腊哲学论证发生交汇。",
+            "themeIds": [
+              "religion",
+              "knowledge"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "cicero:evidence:011",
+                "titleZh": "《论神性》三学派结构",
+                "summaryZh": "该书分别呈现伊壁鸠鲁神学、斯多葛神意论和学园派批评，保存希腊化宗教哲学争论材料。",
+                "source": {
+                  "workId": "cicero-primary-work",
+                  "locator": "Cicero, De Natura Deorum I-III",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "cicero:evidence:012",
+                "titleZh": "哲学神学研究",
+                "summaryZh": "现代研究强调西塞罗保存了大量希腊化神学争论材料，使拉丁文本成为重要思想来源之一。",
+                "source": {
+                  "workId": "cicero-primary-work",
+                  "locator": "Modern scholarship on Cicero's philosophical theology",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "tier": "standard"
+}

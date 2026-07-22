@@ -5,9 +5,9 @@
     "en": "Jiddu Krishnamurti"
   },
   "life": {
-    "display": "1895—1986",
     "birth": 1895,
-    "death": 1986
+    "death": 1986,
+    "display": "1895—1986"
   },
   "civilization": "indian",
   "traditions": [
@@ -38,5 +38,259 @@
       "label": "draft",
       "noteZh": "条目需要人工核对作品、年代和概念表述。"
     }
-  ]
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "krishnamurti:problem:001",
+        "titleZh": "人如何从心理制约中自由？",
+        "questionZh": "克里希那穆提为什么把自由理解为对恐惧、记忆、知识和自我中心活动的直接看见，而不是逐步训练后的结果？",
+        "summaryZh": "克里希那穆提把人的困境归结为心理制约：经验、传统、恐惧和欲望形成“我”的连续活动。自由不是未来目标，而是当下无选择地看见制约如何运作。",
+        "themeIds": [
+          "religion",
+          "metaphysics",
+          "knowledge",
+          "freedom"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "krishnamurti:claim:001",
+            "titleZh": "自由始于对制约的直接觉察",
+            "claimZh": "克里希那穆提认为人被传统、经验、恐惧和欲望制约；只有直接觉察这些制约，才可能出现自由。",
+            "explanationZh": "他反对把自由放在未来，因为任何按既定方法追求自由的行动都可能只是旧有制约的延长。自由不是结果，而是看见束缚本身。",
+            "themeIds": [
+              "freedom",
+              "knowledge",
+              "metaphysics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "krishnamurti:evidence:001",
+                "titleZh": "《从已知中解脱》集中讨论制约",
+                "summaryZh": "《从已知中解脱》把民族、宗教、经验、记忆和心理安全感看作制约人的网络，要求人观察这些因素如何构成自我。",
+                "source": {
+                  "workId": "krishnamurti-primary-work",
+                  "locator": "Freedom from the Known, chapters 1-3 on conditioning, freedom and observation",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "krishnamurti:evidence:002",
+                "titleZh": "《最初与最终的自由》把自知置于核心",
+                "summaryZh": "《最初与最终的自由》反复把 self-knowledge 置于理解恐惧、欲望和冲突的核心，而不是要求接受某个形而上学体系。",
+                "source": {
+                  "workId": "krishnamurti-primary-work",
+                  "locator": "The First and Last Freedom, chapters on self-knowledge and the problem of freedom",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "krishnamurti:claim:002",
+            "titleZh": "观察者与被观察者不是两个实体",
+            "claimZh": "克里希那穆提常以“观察者即被观察者”表达心理洞见：观察恐惧、嫉妒或欲望时，那个观察者本身也由同一记忆和反应构成。",
+            "explanationZh": "这个命题试图瓦解内在分裂。若把“我”当成独立控制者，就会产生压抑和斗争；若看见观察者就是所观察的活动，心理冲突可能终止。",
+            "themeIds": [
+              "metaphysics",
+              "knowledge",
+              "ethics"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "krishnamurti:evidence:003",
+                "titleZh": "讲话集中使用 observer/observed 结构",
+                "summaryZh": "克里希那穆提多次在公开谈话中以 fear、anger、image 为例，说明观察者并非超然主体，而是记忆命名和反应的产物。",
+                "source": {
+                  "workId": "krishnamurti-primary-work",
+                  "locator": "Public talks and dialogues, passages on the observer is the observed",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "krishnamurti:evidence:004",
+                "titleZh": "《生活注疏》以日常心理个案展开观察",
+                "summaryZh": "《生活注疏》通过恐惧、孤独、依恋等日常心理片段展示，心理问题不能靠权威答案解决，而要在关系和意识活动中被看见。",
+                "source": {
+                  "workId": "krishnamurti-primary-work",
+                  "locator": "Commentaries on Living, selected entries on fear, loneliness and observation",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "krishnamurti:problem:002",
+        "titleZh": "真理为什么不是道路、宗派或权威？",
+        "questionZh": "克里希那穆提为什么拒绝组织化宗教、导师崇拜和固定修行方法，并把真理称为无路之境？",
+        "summaryZh": "克里希那穆提把真理理解为不能由权威、组织、信条或方法占有的东西。任何承诺带人抵达真理的制度都可能制造依赖、恐惧和模仿，从而阻止个人直接观察。",
+        "themeIds": [
+          "religion",
+          "knowledge",
+          "freedom",
+          "ethics"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "krishnamurti:claim:003",
+            "titleZh": "真理不能被组织或道路垄断",
+            "claimZh": "克里希那穆提认为真理不是可由宗派、导师或制度化道路交付的对象；依附权威会削弱个体直接理解。",
+            "explanationZh": "这一立场来自他解散“世界导师”运动后的宣言，也贯穿后期作品。其目标不是建立新教派，而是打断人对精神权威的依赖。",
+            "themeIds": [
+              "religion",
+              "freedom",
+              "knowledge"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "krishnamurti:evidence:005",
+                "titleZh": "1929 年“无路之境”宣言",
+                "summaryZh": "克里希那穆提在解散星社的讲话中把真理描述为 pathless land，拒绝以组织、信仰或导师身份来引导追随者。",
+                "source": {
+                  "workId": "krishnamurti-primary-work",
+                  "locator": "Dissolution of the Order of the Star speech, Ommen, 3 August 1929",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "krishnamurti:evidence:006",
+                "titleZh": "传记研究说明其与神智学背景的断裂",
+                "summaryZh": "Lutyens 和 Vernon 的传记研究显示，克里希那穆提后期思想必须放在其拒绝“世界导师”身份和组织权威的转折中理解。",
+                "source": {
+                  "workId": "krishnamurti-primary-work",
+                  "locator": "Biographical materials on the 1929 break with the Order of the Star and theosophical authority",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "krishnamurti:claim:004",
+            "titleZh": "方法化修行会延续心理时间",
+            "claimZh": "克里希那穆提怀疑固定方法、纪律和渐进修行，因为它们通常以未来成就为目标，继续维持“现在的我”追逐“将来的我”的心理时间。",
+            "explanationZh": "他并非否定学习，而是反对把精神自由外包给机械步骤。只要主体仍在追求成为某种形象，冲突就被延长。",
+            "themeIds": [
+              "religion",
+              "metaphysics",
+              "freedom"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "krishnamurti:evidence:007",
+                "titleZh": "《最初与最终的自由》批判信仰与方法",
+                "summaryZh": "《最初与最终的自由》在关于信仰、纪律和冥想的章节中，说明方法可能制造顺从与期待，而不是真正理解心的活动。",
+                "source": {
+                  "workId": "krishnamurti-primary-work",
+                  "locator": "The First and Last Freedom, chapters on belief, discipline and meditation",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "krishnamurti:evidence:008",
+                "titleZh": "教育文本强调理解而非服从",
+                "summaryZh": "《教育与生活的意义》把教育目标指向完整理解人自身与关系，而不是制造服从权威的可复制人格。",
+                "source": {
+                  "workId": "krishnamurti-primary-work",
+                  "locator": "Education and the Significance of Life, chapters on authority, fear and intelligence",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "krishnamurti:problem:003",
+        "titleZh": "关系、恐惧与时间如何构成自我？",
+        "questionZh": "克里希那穆提如何把恐惧、依恋、关系冲突和心理时间看成自我结构，并以无选择觉察回应？",
+        "summaryZh": "克里希那穆提把关系看作理解自我的镜子。恐惧和依恋来自思想对安全、连续和形象的追逐；冥想或觉察不是技术，而是在关系中看见这种运动。",
+        "themeIds": [
+          "life_death",
+          "ethics",
+          "metaphysics",
+          "knowledge"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "krishnamurti:claim:005",
+            "titleZh": "关系是自我被看见的场域",
+            "claimZh": "克里希那穆提认为自我不是孤立实体，而是在关系、形象、比较和伤害记忆中显现；理解关系就是理解自我。",
+            "explanationZh": "因此伦理问题不能只靠规则处理。嫉妒、占有、依赖和冲突需要在关系发生处被观察，而不是被抽象教义遮蔽。",
+            "themeIds": [
+              "ethics",
+              "metaphysics",
+              "knowledge"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "krishnamurti:evidence:009",
+                "titleZh": "《最初与最终的自由》把关系作为镜子",
+                "summaryZh": "相关章节以关系中的依赖、孤独和冲突说明，人通过他者看到自己的心理结构，关系由此成为自我认识场域。",
+                "source": {
+                  "workId": "krishnamurti-primary-work",
+                  "locator": "The First and Last Freedom, chapters on relationship, loneliness and self-knowledge",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "krishnamurti:evidence:010",
+                "titleZh": "《生活注疏》从具体关系经验展开分析",
+                "summaryZh": "《生活注疏》多处以婚姻、依恋、嫉妒和恐惧为入口，说明关系中的痛苦来自自我形象和安全欲望。",
+                "source": {
+                  "workId": "krishnamurti-primary-work",
+                  "locator": "Commentaries on Living, selected entries on relationship, attachment and jealousy",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "krishnamurti:claim:006",
+            "titleZh": "无选择觉察不是技术而是完整注意",
+            "claimZh": "克里希那穆提把 choiceless awareness 理解为不选择、不压抑、不命名地观察心的活动；这种注意不同于训练出来的集中或信仰化冥想。",
+            "explanationZh": "它要求人看到思想、恐惧和欲望的即时生成。由于不把观察分裂为控制者和被控制物，觉察本身就可能改变心理结构。",
+            "themeIds": [
+              "knowledge",
+              "religion",
+              "life_death"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "krishnamurti:evidence:011",
+                "titleZh": "无选择觉察贯穿关于冥想的讲话",
+                "summaryZh": "克里希那穆提在关于 meditation 和 awareness 的论述中，强调真正的冥想不是重复方法，而是对思想运动的清明注意。",
+                "source": {
+                  "workId": "krishnamurti-primary-work",
+                  "locator": "Talks on meditation and choiceless awareness, selected passages in The First and Last Freedom and later dialogues",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "krishnamurti:evidence:012",
+                "titleZh": "《从已知中解脱》把恐惧与心理时间连接",
+                "summaryZh": "《从已知中解脱》说明恐惧常由思想把过去经验投射到未来而产生，观察这种心理时间是理解恐惧的关键。",
+                "source": {
+                  "workId": "krishnamurti-primary-work",
+                  "locator": "Freedom from the Known, chapters on fear, thought and time",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "tier": "standard"
 }

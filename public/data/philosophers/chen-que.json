@@ -1,0 +1,46 @@
+{
+  "id": "chen-que",
+  "tier": "seed",
+  "names": {
+    "zh": "陈确",
+    "en": "Chen Que",
+    "native": "陳確"
+  },
+  "life": {
+    "birth": 1604,
+    "death": 1677,
+    "display": "1604—1677"
+  },
+  "civilization": "chinese",
+  "traditions": [
+    "confucianism"
+  ],
+  "periods": [
+    "ming",
+    "qing"
+  ],
+  "themes": [
+    "ethics",
+    "knowledge"
+  ],
+  "keywordsZh": [
+    "大学辨",
+    "反理学教条",
+    "清初儒学"
+  ],
+  "oneLineZh": "明清之际儒者，以《大学辨》质疑经典权威和理学解释。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "陈确，字乾初，浙江海宁人，明清之际儒者。他对程朱理学和经典传注保持强烈批判精神，《大学辨》质疑《大学》及其传统解释的权威，强调从事实、人情和实践中判断义理。陈确不属于主流考据或理学正统，却代表清初思想中反教条、重实证和重个体判断的一支。",
+  "works": [
+    "chen-que-daxue-bian",
+    "chen-que-ji"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S009",
+      "url": "https://ctext.org/wiki.pl?if=en&searchu=%E9%99%B3%E7%A2%BA",
+      "noteZh": "以陈确《大学辨》《陈确集》支撑身份层。"
+    }
+  ]
+}

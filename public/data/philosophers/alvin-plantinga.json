@@ -1,0 +1,42 @@
+{
+  "id": "alvin-plantinga",
+  "tier": "seed",
+  "names": {
+    "zh": "阿尔文·普兰廷加",
+    "en": "Alvin Plantinga"
+  },
+  "life": {
+    "birth": 1932,
+    "display": "1932—"
+  },
+  "civilization": "western",
+  "traditions": [
+    "analytic_philosophy"
+  ],
+  "periods": [
+    "contemporary"
+  ],
+  "themes": [
+    "language",
+    "metaphysics"
+  ],
+  "keywordsZh": [
+    "宗教哲学",
+    "宗教哲学",
+    "身份层"
+  ],
+  "oneLineZh": "改革宗认识论与模态本体论证代表，可补当代宗教哲学。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "阿尔文·普兰廷加（1932—）是 W2 欧陆与英美近现代二线哲人候选。其身份层入选理由为：改革宗认识论与模态本体论证代表，可补当代宗教哲学。 本条仅作 seed 档基本定位，后续若升级标准档，需要重新做著作、论点与 evidence 研究。",
+  "works": [
+    "alvin-plantinga-nature-of-necessity",
+    "alvin-plantinga-warranted-christian-belief"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S001",
+      "noteZh": "权威来源条目：SEP: Alvin Plantinga；用于核验人物身份、生卒、代表著作和思想史定位。"
+    }
+  ]
+}

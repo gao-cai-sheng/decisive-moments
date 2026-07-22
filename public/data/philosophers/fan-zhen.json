@@ -1,0 +1,45 @@
+{
+  "id": "fan-zhen",
+  "tier": "seed",
+  "names": {
+    "zh": "范缜",
+    "en": "Fan Zhen",
+    "native": "范縝"
+  },
+  "life": {
+    "birth": 450,
+    "death": 515,
+    "display": "约450—约515"
+  },
+  "civilization": "chinese",
+  "traditions": [
+    "confucianism",
+    "anti_buddhist_thought"
+  ],
+  "periods": [
+    "northern_southern_dynasties"
+  ],
+  "themes": [
+    "metaphysics",
+    "religion"
+  ],
+  "keywordsZh": [
+    "神灭论",
+    "形神关系",
+    "反佛论"
+  ],
+  "oneLineZh": "南朝思想家，以《神灭论》批判神不灭和因果报应观。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "范缜，字子真，南朝齐梁之际思想家，以《神灭论》著称。他反对神识脱离形体而独存，提出形神相即、形谢神灭的论证，由此批评佛教神不灭和报应轮回观。范缜的意义不只是反佛，而在于用形神关系和自然主义倾向重构生命、意识与死亡问题，是中国中古思想论争中的重要节点。",
+  "works": [
+    "fan-zhen-shenmie-lun"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S013",
+      "url": "https://ctext.org/wiki.pl?if=en&res=777080",
+      "noteZh": "以《神灭论》和《梁书》相关材料支撑身份层。"
+    }
+  ]
+}

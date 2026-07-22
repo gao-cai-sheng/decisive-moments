@@ -1,0 +1,49 @@
+{
+  "id": "wonhyo",
+  "tier": "seed",
+  "names": {
+    "zh": "元晓",
+    "en": "Wonhyo"
+  },
+  "life": {
+    "birth": 617,
+    "death": 686,
+    "display": "617—686"
+  },
+  "civilization": "east_asian",
+  "traditions": [
+    "korean_buddhism"
+  ],
+  "periods": [
+    "medieval"
+  ],
+  "themes": [
+    "religion",
+    "knowledge"
+  ],
+  "keywordsZh": [
+    "和诤",
+    "中观",
+    "唯识"
+  ],
+  "oneLineZh": "朝鲜佛教代表人物，以和诤思想统合不同佛教教义。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "元晓是朝鲜佛教重要人物，以和诤思想连接中观、唯识与东亚佛教解释传统。本条仅作 seed 身份层定位。",
+  "works": [
+    "wonhyo-awakening-faith-commentary",
+    "wonhyo-hwajaeng-non"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S001",
+      "url": "https://plato.stanford.edu/entries/korean-buddhism/",
+      "noteZh": "SEP Korean Buddhism 条目用于核验元晓的朝鲜佛教定位。"
+    },
+    {
+      "label": "S003",
+      "url": "https://www.rep.routledge.com/articles/biographical/wonhyo-617-686/v-1",
+      "noteZh": "Routledge Wonhyo 条目用于核验元晓身份和代表作。"
+    }
+  ]
+}

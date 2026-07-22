@@ -1,0 +1,42 @@
+{
+  "id": "gilbert-ryle",
+  "tier": "seed",
+  "names": {
+    "zh": "吉尔伯特·赖尔",
+    "en": "Gilbert Ryle"
+  },
+  "life": {
+    "birth": 1900,
+    "death": 1976,
+    "display": "1900—1976"
+  },
+  "civilization": "western",
+  "traditions": [
+    "analytic_philosophy"
+  ],
+  "periods": [
+    "contemporary"
+  ],
+  "themes": [
+    "language",
+    "knowledge"
+  ],
+  "keywordsZh": [
+    "日常语言",
+    "身份层",
+    "二线哲人"
+  ],
+  "oneLineZh": "日常语言哲学与行为主义心灵哲学代表，可补牛津分析传统。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "吉尔伯特·赖尔（1900—1976）是 W2 欧陆与英美近现代二线哲人候选。其身份层入选理由为：日常语言哲学与行为主义心灵哲学代表，可补牛津分析传统。 本条仅作 seed 档基本定位，后续若升级标准档，需要重新做著作、论点与 evidence 研究。",
+  "works": [
+    "gilbert-ryle-concept-of-mind"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S017",
+      "noteZh": "权威来源条目：SEP: Gilbert Ryle；用于核验人物身份、生卒、代表著作和思想史定位。"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": "mordecai-kaplan",
+  "tier": "seed",
+  "names": {
+    "zh": "莫迪凯·卡普兰",
+    "en": "Mordecai M. Kaplan",
+    "native": "מרדכי קפלן"
+  },
+  "life": {
+    "birth": 1881,
+    "death": 1983,
+    "display": "1881—1983"
+  },
+  "civilization": "jewish",
+  "traditions": [
+    "reconstructionist_judaism",
+    "american_jewish_thought"
+  ],
+  "periods": [
+    "seed_w8"
+  ],
+  "themes": [
+    "religion",
+    "politics"
+  ],
+  "keywordsZh": [
+    "重建主义",
+    "犹太文明",
+    "宗教自然主义"
+  ],
+  "oneLineZh": "重建主义犹太教奠基者，将犹太教解释为演化中的宗教文明。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "莫迪凯·卡普兰（1881—1983）是 Seed W8 犹太文明补线候选。其身份层定位为：美国犹太重建主义创始人物，将犹太教理解为“演化中的宗教文明”，并以自然主义神学、共同体制度和现代民主语境重塑犹太生活。本条仅作 seed 档基本定位，后续若升级标准档，必须重新做著作、论点与 evidence 研究。",
+  "works": [
+    "mordecai-kaplan-judaism-as-civilization",
+    "mordecai-kaplan-meaning-of-god"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S005",
+      "url": "https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/kaplan-mordecai-menahem",
+      "noteZh": "来源：Encyclopaedia Judaica / Mordecai Menahem Kaplan；用于核验人物身份、1881—1983断代、重建主义、《犹太教作为一种文明》与自然主义神学定位。"
+    }
+  ]
+}

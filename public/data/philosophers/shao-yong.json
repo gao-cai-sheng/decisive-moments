@@ -1,0 +1,46 @@
+{
+  "id": "shao-yong",
+  "tier": "seed",
+  "names": {
+    "zh": "邵雍",
+    "en": "Shao Yong",
+    "native": "邵雍"
+  },
+  "life": {
+    "birth": 1011,
+    "death": 1077,
+    "display": "1011—1077"
+  },
+  "civilization": "chinese",
+  "traditions": [
+    "confucianism",
+    "neo_confucianism"
+  ],
+  "periods": [
+    "northern_song"
+  ],
+  "themes": [
+    "metaphysics",
+    "knowledge"
+  ],
+  "keywordsZh": [
+    "皇极经世",
+    "观物",
+    "象数学"
+  ],
+  "oneLineZh": "北宋理学先驱，以象数宇宙论和观物思想著称。",
+  "influenceWeight": 3,
+  "reviewStatus": "draft",
+  "summaryZh": "邵雍，字尧夫，号安乐先生，北宋理学先驱之一。《皇极经世》以象数和历史周期组织宇宙与人事秩序，《观物内外篇》则呈现其从物理、心知和天地运行理解世界的方式。邵雍没有像程朱那样建构道德本体论，却以数理、易学和观物方法成为宋代理学宇宙论的重要源头。",
+  "works": [
+    "shao-yong-huangji-jingshi",
+    "shao-yong-guanwu-neiwai-pian"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S009",
+      "url": "https://ctext.org/huang-ji-jing-shi",
+      "noteZh": "以邵雍《皇极经世》《观物内外篇》支撑身份层。"
+    }
+  ]
+}

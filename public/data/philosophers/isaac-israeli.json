@@ -1,0 +1,46 @@
+{
+  "id": "isaac-israeli",
+  "tier": "seed",
+  "names": {
+    "zh": "以撒·以色列利",
+    "en": "Isaac Israeli",
+    "native": "יצחק בן שלמה הישראלי"
+  },
+  "life": {
+    "birth": 855,
+    "death": 955,
+    "display": "约855—约955"
+  },
+  "civilization": "jewish",
+  "traditions": [
+    "jewish_neoplatonism",
+    "jewish_philosophy"
+  ],
+  "periods": [
+    "seed_w8"
+  ],
+  "themes": [
+    "metaphysics",
+    "knowledge"
+  ],
+  "keywordsZh": [
+    "犹太新柏拉图主义",
+    "定义之书",
+    "流溢论"
+  ],
+  "oneLineZh": "早期中世纪犹太新柏拉图主义者，将阿拉伯哲学与犹太思想相接。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "以撒·以色列利（约855—约955）是 Seed W8 犹太文明补线候选。其身份层定位为：北非犹太医生与哲学家，代表早期中世纪犹太新柏拉图主义，著有《定义之书》《实体之书》等文本。本条仅作 seed 档基本定位，后续若升级标准档，必须重新做著作、论点与 evidence 研究。",
+  "works": [
+    "isaac-israeli-book-of-definitions",
+    "isaac-israeli-book-of-substances"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S002",
+      "url": "https://plato.stanford.edu/entries/israeli/",
+      "noteZh": "来源：SEP / Isaac Israeli；用于核验人物身份、约855—955断代、新柏拉图主义定位与代表作。"
+    }
+  ]
+}

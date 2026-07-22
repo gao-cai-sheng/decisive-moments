@@ -1,0 +1,47 @@
+{
+  "id": "al-ashari",
+  "tier": "seed",
+  "names": {
+    "zh": "艾什尔里",
+    "en": "Abū al-Ḥasan al-Ashʿarī",
+    "native": "أبو الحسن الأشعري"
+  },
+  "life": {
+    "birth": 874,
+    "death": 936,
+    "display": "874—936"
+  },
+  "civilization": "islamic",
+  "traditions": [
+    "ashariyya",
+    "kalam"
+  ],
+  "periods": [
+    "medieval"
+  ],
+  "themes": [
+    "religion",
+    "knowledge",
+    "metaphysics"
+  ],
+  "keywordsZh": [
+    "艾什尔里派",
+    "kalam",
+    "理性与传统"
+  ],
+  "oneLineZh": "艾什尔里派创立者，在反穆尔太齐赖与维护逊尼教义之间重塑理性神学。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "艾什尔里（874—936）是 Seed W7 伊斯兰文明教义学试点候选。其身份层入选理由为：艾什尔里派创立者，在反穆尔太齐赖与维护逊尼教义之间重塑理性神学。本条仅作 seed 档基本定位，后续若升级标准档，必须重新做著作、论点与 evidence 研究。",
+  "works": [
+    "al-ashari-maqalat-al-islamiyyin",
+    "al-ashari-al-luma"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S002",
+      "url": "https://referenceworks.brill.com/display/entries/EI2/SIM-0750.xml",
+      "noteZh": "来源：Encyclopaedia of Islam / al-Ashʿarī；用于核验人物身份、生卒断代、艾什尔里派创立者定位和代表著作。"
+    }
+  ]
+}

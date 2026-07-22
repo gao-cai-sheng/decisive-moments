@@ -1,0 +1,42 @@
+{
+  "id": "richard-swinburne",
+  "tier": "seed",
+  "names": {
+    "zh": "理查德·斯温伯恩",
+    "en": "Richard Swinburne"
+  },
+  "life": {
+    "birth": 1934,
+    "display": "1934—"
+  },
+  "civilization": "western",
+  "traditions": [
+    "christian_philosophy"
+  ],
+  "periods": [
+    "contemporary"
+  ],
+  "themes": [
+    "religion",
+    "knowledge"
+  ],
+  "keywordsZh": [
+    "宗教哲学",
+    "宗教哲学",
+    "身份层"
+  ],
+  "oneLineZh": "概率神学与宗教哲学代表，可补英美自然神学当代线索。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "理查德·斯温伯恩（1934—）是 W2 欧陆与英美近现代二线哲人候选。其身份层入选理由为：概率神学与宗教哲学代表，可补英美自然神学当代线索。 本条仅作 seed 档基本定位，后续若升级标准档，需要重新做著作、论点与 evidence 研究。",
+  "works": [
+    "richard-swinburne-existence-of-god",
+    "richard-swinburne-coherence-of-theism"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S002",
+      "noteZh": "权威来源条目：Routledge Encyclopedia of Philosophy: Swinburne, Richard；用于核验人物身份、生卒、代表著作和思想史定位。"
+    }
+  ]
+}

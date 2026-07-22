@@ -1,0 +1,47 @@
+{
+  "id": "al-junayd",
+  "tier": "seed",
+  "names": {
+    "zh": "朱奈德",
+    "en": "al-Junayd of Baghdad",
+    "native": "الجنيد البغدادي"
+  },
+  "life": {
+    "birth": 830,
+    "death": 910,
+    "display": "约830—910"
+  },
+  "civilization": "islamic",
+  "traditions": [
+    "baghdad_sufism",
+    "sober_sufism"
+  ],
+  "periods": [
+    "medieval"
+  ],
+  "themes": [
+    "religion",
+    "knowledge",
+    "life_death"
+  ],
+  "keywordsZh": [
+    "巴格达苏非",
+    "清醒派",
+    "神秘合一"
+  ],
+  "oneLineZh": "巴格达苏非“清醒派”核心人物，以在神秘体验与教法边界之间保持纪律化表达著称。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "朱奈德（约830—910）是 Seed W7 伊斯兰文明苏非线候选。其身份层入选理由为：巴格达苏非“清醒派”核心人物，以在神秘体验与教法边界之间保持纪律化表达著称。本条仅作 seed 档基本定位，后续若升级标准档，必须重新做著作、论点与 evidence 研究。",
+  "works": [
+    "al-junayd-letters",
+    "al-junayd-sayings"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S002",
+      "url": "https://referenceworks.brill.com/display/entries/EI2/SIM-2031.xml",
+      "noteZh": "来源：Encyclopaedia of Islam / al-Junayd；用于核验人物身份、生卒断代、巴格达苏非“清醒派”定位和代表性书信/语录传统。"
+    }
+  ]
+}

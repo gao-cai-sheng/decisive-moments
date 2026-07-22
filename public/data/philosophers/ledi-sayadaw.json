@@ -1,0 +1,55 @@
+{
+  "id": "ledi-sayadaw",
+  "tier": "seed",
+  "names": {
+    "zh": "雷迪长老",
+    "en": "Ledi Sayadaw",
+    "native": "U Ñāṇadhaja"
+  },
+  "life": {
+    "birth": 1846,
+    "death": 1923,
+    "display": "1846—1923"
+  },
+  "civilization": "theravada_buddhist",
+  "traditions": [
+    "theravada",
+    "burmese_vipassana",
+    "abhidhamma"
+  ],
+  "periods": [
+    "seed_w13",
+    "theravada_modern"
+  ],
+  "themes": [
+    "metaphysics",
+    "ethics",
+    "knowledge"
+  ],
+  "keywordsZh": [
+    "缅甸内观",
+    "阿毗达磨",
+    "胜义要义手册",
+    "法之手册"
+  ],
+  "oneLineZh": "缅甸上座部阿毗达磨与内观复兴代表，以通俗手册推动教理学习和修行普及。",
+  "influenceWeight": 3,
+  "reviewStatus": "draft",
+  "summaryZh": "雷迪长老是近现代缅甸上座部复兴的重要人物，以阿毗达磨著作、通俗手册和内观实践传播影响后来的缅甸内观传统。本 seed 档只建身份层，并锁定其关系数为 Buddha、Vasubandhu 与 Mahasi 三条。",
+  "works": [
+    "ledi-paramattha-dipani",
+    "ledi-manuals-of-dhamma"
+  ],
+  "sourceNotes": [
+    {
+      "label": "W13-B2-S001",
+      "url": "https://www.vridhamma.org/Ledi-Sayadaw",
+      "noteZh": "Vipassana Research Institute Ledi Sayadaw 资料用于核验其缅甸上座部复兴、阿毗达磨和内观传统位置。"
+    },
+    {
+      "label": "W13-B2-S002",
+      "url": "https://www.bps.lk/library-search-select.php?id=bp412s",
+      "noteZh": "Buddhist Publication Society 条目用于核验 Ledi Sayadaw 手册类文本的英文流传口径。"
+    }
+  ]
+}

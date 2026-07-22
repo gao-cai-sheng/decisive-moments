@@ -1,0 +1,43 @@
+{
+  "id": "georg-simmel",
+  "tier": "seed",
+  "names": {
+    "zh": "格奥尔格·齐美尔",
+    "en": "Georg Simmel"
+  },
+  "life": {
+    "birth": 1858,
+    "death": 1918,
+    "display": "1858—1918"
+  },
+  "civilization": "western",
+  "traditions": [
+    "existentialism"
+  ],
+  "periods": [
+    "modern"
+  ],
+  "themes": [
+    "politics",
+    "aesthetics"
+  ],
+  "keywordsZh": [
+    "身份层",
+    "二线哲人",
+    "思想史补线"
+  ],
+  "oneLineZh": "形式社会学与文化哲学代表，可连接生命哲学、现代性与社会理论。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "格奥尔格·齐美尔（1858—1918）是 W2 欧陆与英美近现代二线哲人候选。其身份层入选理由为：形式社会学与文化哲学代表，可连接生命哲学、现代性与社会理论。 本条仅作 seed 档基本定位，后续若升级标准档，需要重新做著作、论点与 evidence 研究。",
+  "works": [
+    "georg-simmel-philosophy-of-money",
+    "georg-simmel-problems-philosophy-history"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S009",
+      "noteZh": "权威来源条目：IEP: Georg Simmel；用于核验人物身份、生卒、代表著作和思想史定位。"
+    }
+  ]
+}

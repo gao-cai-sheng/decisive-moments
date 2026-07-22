@@ -1,4 +1,4 @@
-import type { PhilosopherIndexEntry } from "../../data/schemas";
+import type { PhilosopherIndexEntry, PhilosopherTier } from "../../data/schemas";
 
 type RelationshipLike = { from: string; to: string };
 
@@ -17,12 +17,16 @@ export type StarLayoutNode = {
   colorKey: string;
   periodBucket: PeriodBucket;
   radius: number;
+  tier: PhilosopherTier;
 };
 
 const CURRENT_LAYOUT_YEAR = 2026;
 const MIN_CHRONOLOGY_YEAR = -800;
 const CHRONOLOGY_DISTANCE_START = 5.2;
 const CHRONOLOGY_DISTANCE_SPAN = 12.2;
+// 旋臂缠绕率：角度随离银心距离递增（与 StarDust 的 0.42 一致），
+// 使同文明恒星沿对数旋臂分布而非直辐条。
+const SPIRAL_WINDING = 0.42;
 
 const fallbackDistanceByBucket: Record<PeriodBucket, number> = {
   ancient: 5.4,
@@ -152,16 +156,19 @@ export function computeStarLayout(
     const count = relationshipCount(philosopher.id, relationships);
     const primaryTradition = philosopher.traditions[0] ?? "unknown";
 
+    const armAngle = baseAngle + jitter + distance * SPIRAL_WINDING;
+
     return {
       id: philosopher.id,
       position: [
-        Number((Math.cos(baseAngle + jitter) * distance).toFixed(4)),
+        Number((Math.cos(armAngle) * distance).toFixed(4)),
         Number(y.toFixed(4)),
-        Number((Math.sin(baseAngle + jitter) * distance).toFixed(4)),
+        Number((Math.sin(armAngle) * distance).toFixed(4)),
       ],
       colorKey: `${philosopher.civilization}:${primaryTradition}`,
       periodBucket,
       radius: Number((0.065 + philosopher.influenceWeight * 0.018 + Math.min(count, 8) * 0.005).toFixed(4)),
+      tier: philosopher.tier,
     };
   });
 }

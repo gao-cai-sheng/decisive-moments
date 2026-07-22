@@ -1,0 +1,46 @@
+{
+  "id": "moses-de-leon",
+  "tier": "seed",
+  "names": {
+    "zh": "摩西·德·莱昂",
+    "en": "Moses de León",
+    "native": "משה די ליאון"
+  },
+  "life": {
+    "birth": 1240,
+    "death": 1305,
+    "display": "约1240—1305"
+  },
+  "civilization": "jewish",
+  "traditions": [
+    "kabbalah",
+    "jewish_mysticism"
+  ],
+  "periods": [
+    "seed_w8"
+  ],
+  "themes": [
+    "religion",
+    "language"
+  ],
+  "keywordsZh": [
+    "光辉之书",
+    "佐哈尔",
+    "中世纪卡巴拉"
+  ],
+  "oneLineZh": "《光辉之书》传播与作者问题的核心人物，是中世纪卡巴拉谱系关键节点。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "摩西·德·莱昂（约1240—1305）是 Seed W8 犹太文明补线候选。其身份层定位为：西班牙卡巴拉作家，《光辉之书》传播及现代作者问题的核心人物；其归属存在传统说法与现代学术争议，故在 seed 档以保守说明处理。本条仅作 seed 档基本定位，后续若升级标准档，必须重新做著作、论点与 evidence 研究。",
+  "works": [
+    "moses-de-leon-zohar",
+    "moses-de-leon-sefer-ha-rimmon"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S002",
+      "url": "https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/zohar",
+      "noteZh": "来源：Encyclopaedia Judaica / Zohar；用于核验《光辉之书》、摩西·德·莱昂与作者归属争议；seed 档只作身份层定位。"
+    }
+  ]
+}

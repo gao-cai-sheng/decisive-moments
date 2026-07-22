@@ -1,0 +1,298 @@
+{
+  "id": "dignaga",
+  "names": {
+    "zh": "陈那",
+    "en": "Dignāga",
+    "native": "Dignāga / Diṅnāga"
+  },
+  "life": {
+    "birth": 480,
+    "death": 540,
+    "display": "约480—540"
+  },
+  "civilization": "indian",
+  "traditions": [
+    "buddhist_epistemology",
+    "yogacara",
+    "indian_logic"
+  ],
+  "periods": [
+    "expansion_e5"
+  ],
+  "themes": [
+    "knowledge",
+    "language",
+    "metaphysics"
+  ],
+  "keywordsZh": [
+    "量论",
+    "现量",
+    "比量",
+    "因明",
+    "遮诠"
+  ],
+  "oneLineZh": "以《集量论》奠定佛教量论，把有效认知限定为现量与比量，并提出遮诠语言理论。",
+  "influenceWeight": 3,
+  "reviewStatus": "draft",
+  "summaryZh": "陈那是印度佛教逻辑与认识论的关键奠基者，他在《集量论》中把有效认知归为现量和比量，区分自相与共相，发展因明三相和遮诠语义学；其体系继承世亲与瑜伽行派问题，并成为法称及藏传量论传统的出发点。",
+  "works": [
+    "dignaga-pramanasamuccaya",
+    "dignaga-alambanapariksa",
+    "dignaga-hetucakra",
+    "dignaga-nyayamukha",
+    "dignaga-trikala-pariksa",
+    "dignaga-apoha-treatise"
+  ],
+  "sourceNotes": [
+    {
+      "label": "secondary",
+      "noteZh": "用于核对陈那生平、量论、现量/比量、因明三相和遮诠理论。"
+    },
+    {
+      "label": "primary",
+      "noteZh": "以《集量论》《观所缘缘论》《因轮论》《因明正理门论》等作为真实 works。"
+    }
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "dignaga:problem:001",
+        "titleZh": "有效认知为什么只有现量与比量？",
+        "questionZh": "陈那如何用二量框架重塑印度佛教认识论？",
+        "summaryZh": "陈那把有效认知限定为现量和比量，分别对应不可概念化的自相与概念推理把握的共相，从而重写知识来源分类。",
+        "themeIds": [
+          "knowledge",
+          "metaphysics"
+        ],
+        "weight": 3,
+        "claims": [
+          {
+            "id": "dignaga:claim:001",
+            "titleZh": "二量对应两类对象",
+            "claimZh": "现量把握自相，比量处理共相；除此之外的知识来源要么可还原，要么不能独立成立。",
+            "explanationZh": "这个框架压缩并重组了印度哲学关于知觉、推理、譬喻和圣言的争论，成为佛教量论入口。",
+            "themeIds": [
+              "knowledge",
+              "metaphysics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "dignaga:evidence:001",
+                "titleZh": "《集量论》的二量开端",
+                "summaryZh": "《集量论》开篇系统提出现量和比量两种有效认知，并把对象区分为自相与共相，建立量论总纲。",
+                "source": {
+                  "workId": "dignaga-pramanasamuccaya",
+                  "locator": "Pramanasamuccaya, chapter 1 on perception and inference",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "dignaga:evidence:002",
+                "titleZh": "二量说的后世概括",
+                "summaryZh": "现代研究通常把陈那视为佛教逻辑认识论传统奠基者，其二量说成为法称等后继者的基本框架。",
+                "source": {
+                  "workId": "dignaga-pramanasamuccaya",
+                  "locator": "Secondary account of Dignaga's two-pramana theory",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "dignaga:claim:002",
+            "titleZh": "现量排除概念构造",
+            "claimZh": "真正现量不是带名称和类别的判断，而是尚未被概念结构加工的直接呈现。",
+            "explanationZh": "这使陈那能够区分感知事件与随后的语言分类，并为佛教反实体化立场提供认识论工具。",
+            "themeIds": [
+              "knowledge",
+              "language"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "dignaga:evidence:003",
+                "titleZh": "《集量论》对现量无分别的说明",
+                "summaryZh": "《集量论》把现量界定为离分别，说明名称、种类和概念附加已经属于后续构造，而非直接感知本身。",
+                "source": {
+                  "workId": "dignaga-pramanasamuccaya",
+                  "locator": "Pramanasamuccaya, perception as free from conceptual construction",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "dignaga:evidence:004",
+                "titleZh": "《观所缘缘论》的对象问题",
+                "summaryZh": "《观所缘缘论》分析认知对象和所缘条件，体现陈那如何把对象问题转化为认识事件结构。",
+                "source": {
+                  "workId": "dignaga-alambanapariksa",
+                  "locator": "Alambanapariksa, object and cognitive support",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "dignaga:problem:002",
+        "titleZh": "推理怎样避免形式空转？",
+        "questionZh": "陈那如何用因明结构和因三相确定有效理由？",
+        "summaryZh": "陈那通过因轮和三相标准分析理由与所立之间的关系，使推理既有形式约束，也服务于破除错误见解。",
+        "themeIds": [
+          "knowledge",
+          "language"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "dignaga:claim:003",
+            "titleZh": "有效因必须满足分布条件",
+            "claimZh": "一个理由必须在论题中出现、在同品中出现并在异品中不出现，才有资格支持推论。",
+            "explanationZh": "因三相把辩论中的说服理由形式化，防止只是语言相似或权威声称冒充证明。",
+            "themeIds": [
+              "knowledge",
+              "language"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "dignaga:evidence:005",
+                "titleZh": "《因轮论》的九句因",
+                "summaryZh": "《因轮论》以九种理由分布展示何种因能成立推理，推动印度逻辑从辩论术走向形式分析。",
+                "source": {
+                  "workId": "dignaga-hetucakra",
+                  "locator": "Hetucakra, wheel of reasons and valid signs",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "dignaga:evidence:006",
+                "titleZh": "《因明正理门论》的入门结构",
+                "summaryZh": "《因明正理门论》以较系统方式介绍宗、因、喻和似因等内容，经汉译影响东亚因明传统。",
+                "source": {
+                  "workId": "dignaga-nyayamukha",
+                  "locator": "Nyayamukha, logical terms and fallacious reasons",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "dignaga:claim:004",
+            "titleZh": "逻辑服务于佛教破执",
+            "claimZh": "形式推理不是单纯中立技术，它帮助识别概念执著、错误实体化和无效论证。",
+            "explanationZh": "陈那的因明因此连接认识论、语言哲学和解脱论，既回应外道辩论，也约束佛教内部论证。",
+            "themeIds": [
+              "knowledge",
+              "religion"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "dignaga:evidence:007",
+                "titleZh": "《集量论》的论辩目标",
+                "summaryZh": "《集量论》把认知来源、对象和推理放在同一体系内处理，使逻辑成为佛教哲学自我辩护工具。",
+                "source": {
+                  "workId": "dignaga-pramanasamuccaya",
+                  "locator": "Pramanasamuccaya, pramana and debate structure",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "dignaga:evidence:008",
+                "titleZh": "佛教量论传统的反独断功能",
+                "summaryZh": "后世研究常把陈那量论理解为反击外道常我、共相和语言实在论的重要理性工具，并服务佛教破执。",
+                "source": {
+                  "workId": "dignaga-pramanasamuccaya",
+                  "locator": "Secondary account of Buddhist epistemology and anti-essentialism",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "dignaga:problem:003",
+        "titleZh": "词语如何在没有真实共相时有意义？",
+        "questionZh": "陈那如何用遮诠解释语言分类和概念沟通？",
+        "summaryZh": "陈那的遮诠理论认为词义不是抓住真实共相，而是通过排除非对象形成可用分类，从而解释佛教名言与无自性的张力。",
+        "themeIds": [
+          "language",
+          "metaphysics"
+        ],
+        "weight": 2,
+        "claims": [
+          {
+            "id": "dignaga:claim:005",
+            "titleZh": "词义通过排除成立",
+            "claimZh": "概念类别并不对应独立共相，词语通过排除非牛、非瓶等对象形成实践可用的意义。",
+            "explanationZh": "遮诠理论让佛教 nominalism 能解释语言有效性，同时避免承认实在共相。",
+            "themeIds": [
+              "language",
+              "metaphysics"
+            ],
+            "weight": 3,
+            "evidence": [
+              {
+                "id": "dignaga:evidence:009",
+                "titleZh": "《集量论》第五品的遮诠理论",
+                "summaryZh": "《集量论》语言部分将词义与排除非对象联系起来，成为后世佛教语义学的核心争论点和遮诠理论来源。",
+                "source": {
+                  "workId": "dignaga-apoha-treatise",
+                  "locator": "Pramanasamuccaya, chapter on apoha and language",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "dignaga:evidence:010",
+                "titleZh": "遮诠理论的后世概括",
+                "summaryZh": "现代研究把遮诠视为陈那提出并由法称扩展的佛教语义理论，用以解释无共相条件下的分类。",
+                "source": {
+                  "workId": "dignaga-apoha-treatise",
+                  "locator": "Secondary account of apoha theory",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "dignaga:claim:006",
+            "titleZh": "陈那开启法称传统",
+            "claimZh": "陈那并非只是一位单独逻辑家，而是开辟了由法称系统化、在印度和藏传佛教中持续发展的量论传统。",
+            "explanationZh": "这使陈那成为世亲之后、法称之前的断链中环，也让佛教知识论成为跨传统辩论平台。",
+            "themeIds": [
+              "knowledge",
+              "religion"
+            ],
+            "weight": 2,
+            "evidence": [
+              {
+                "id": "dignaga:evidence:011",
+                "titleZh": "《三时观察论》的存在争论背景",
+                "summaryZh": "《三时观察论》处理三世和存在问题，显示陈那量论并不脱离佛教关于时间和实在的形而上争论。",
+                "source": {
+                  "workId": "dignaga-trikala-pariksa",
+                  "locator": "Trikala-pariksa, time and existence problems",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "dignaga:evidence:012",
+                "titleZh": "法称传统对陈那的继承",
+                "summaryZh": "后世量论传统通常以陈那为奠基者、法称为系统化者，二者共同构成佛教逻辑认识论主线。",
+                "source": {
+                  "workId": "dignaga-pramanasamuccaya",
+                  "locator": "Secondary account of Dignaga-Dharmakirti tradition",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "tier": "standard"
+}
