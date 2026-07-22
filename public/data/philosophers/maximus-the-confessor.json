@@ -1,6 +1,6 @@
 {
   "id": "maximus-the-confessor",
-  "tier": "seed",
+  "tier": "standard",
   "names": {
     "zh": "忏悔者马克西姆",
     "en": "Maximus the Confessor",
@@ -35,21 +35,346 @@
   "oneLineZh": "拜占庭神学综合者，以《难题集》、两种意志论和宇宙-基督神学承接希腊教父传统。",
   "influenceWeight": 3,
   "reviewStatus": "draft",
-  "summaryZh": "忏悔者马克西姆把希腊教父、伪狄奥尼修斯接收和基督论论争综合起来，围绕基督的意志、自由、宇宙秩序和神化展开思想。本 seed 档只建身份层，并按 W12 口径把其关系数限制在三条。",
+  "summaryZh": "忏悔者马克西姆把希腊教父、狄奥尼修斯式参与语言、修行伦理和基督论争论综合为高度形而上学化的救赎思想。本标准候选以三条线组织他：万物按各自 logoi 在 Logos 中受造并归向神；人被置于受造界中作为合一五重区分的中介；基督以真实人性、自然意志和救赎经济恢复人的自由运动与成神目标。",
   "works": [
     "maximus-ambigua",
     "maximus-questions-thalassius"
   ],
   "sourceNotes": [
     {
-      "label": "W12-B2-S001",
-      "url": "https://iep.utm.edu/byz-phil/",
-      "noteZh": "IEP Byzantine Philosophy 总论用于核验 Maximus 在拜占庭哲学和希腊教父综合中的地位。"
+      "label": "S006",
+      "url": "https://www.britannica.com/biography/Saint-Maximus-the-Confessor",
+      "noteZh": "核验生卒、忏悔者身份和反一志论背景。"
     },
     {
-      "label": "W12-B2-S002",
-      "url": "https://www.britannica.com/biography/Saint-Maximus-the-Confessor",
-      "noteZh": "Britannica Maximus 条目用于核验其生卒、忏悔者身份与神学位置。"
+      "label": "S007",
+      "url": "https://afkimel.wordpress.com/wp-content/uploads/2026/01/maximus-amb-7.pdf",
+      "noteZh": "用于校准 Ambigua 7 的 Logos/logoi 与创造形而上学。"
+    },
+    {
+      "label": "S008",
+      "url": "https://thoughtsintrusive.wordpress.com/2017/10/24/st-maximos-the-confessor-ambiguum-41/",
+      "noteZh": "用于校准 Ambigua 41 的五重区分与人/基督中介主线。"
     }
-  ]
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "maximus-the-confessor:problem:001",
+        "titleZh": "万物如何在 Logos 中有各自 logoi？",
+        "questionZh": "马克西姆如何用 Logos/logoi 解释受造万物既有差异又归于同一神圣根源？",
+        "summaryZh": "Ambigua 7 的核心不是抽象的一多问题，而是基督论化的创造形而上学。万物按各自 logoi 从无受造、获得界限和方向；这些 logoi 在 Logos 中既多样又归一，使创造、参与和回归成为同一结构的不同侧面。",
+        "themeIds": [
+          "metaphysics",
+          "religion",
+          "knowledge"
+        ],
+        "weight": 3,
+        "sourceIds": [
+          "S007",
+          "S012"
+        ],
+        "claims": [
+          {
+            "id": "maximus-the-confessor:claim:001",
+            "titleZh": "多样 logoi 在一 Logos 中被区分且统合",
+            "claimZh": "马克西姆把受造差异理解为在 Logos 中预存和被创造的 logoi，而不是与神竞争的独立原则。",
+            "explanationZh": "每个受造物都有其被创造的理由、界限和方向；这些理由不混同彼此，却在基督 Logos 中同源并被重新归纳。",
+            "themeIds": [
+              "metaphysics",
+              "religion"
+            ],
+            "weight": 3,
+            "sourceIds": [
+              "S007",
+              "S012"
+            ],
+            "evidence": [
+              {
+                "id": "maximus-the-confessor:evidence:001",
+                "titleZh": "一 Logos 显为多 logoi",
+                "summaryZh": "Ambigua 7 说明人若分辨万物自然差异中的 logos，就会认识一个 Logos 以多 logoi 显现，并在差异中保持不混乱。",
+                "sourceIds": [
+                  "S007"
+                ],
+                "source": {
+                  "workId": "maximus-ambigua",
+                  "locator": "Ambigua 7",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "maximus-the-confessor:evidence:002",
+                "titleZh": "受造物按 logoi 从无受造",
+                "summaryZh": "同篇说 Logos 在自身中永恒包含受造物的 logoi，并按这些 logoi 从无形成可见与不可见世界，使创造有神圣理路。",
+                "sourceIds": [
+                  "S007"
+                ],
+                "source": {
+                  "workId": "maximus-ambigua",
+                  "locator": "Ambigua 7",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "maximus-the-confessor:claim:002",
+            "titleZh": "自然运动应回到自身神圣原因",
+            "claimZh": "受造物的自然运动不是自我封闭的变化，而是按其 logos 朝向自身原因和终点的回归。",
+            "explanationZh": "因此，德性与认识不只是伦理附加物；当理性受造者按自身 logos 运动时，就在神内完成其自然方向。",
+            "themeIds": [
+              "metaphysics",
+              "ethics",
+              "religion"
+            ],
+            "weight": 2,
+            "sourceIds": [
+              "S007"
+            ],
+            "evidence": [
+              {
+                "id": "maximus-the-confessor:evidence:003",
+                "titleZh": "万有从神而来并归向神",
+                "summaryZh": "Ambigua 7 反复把万物描述为从神、借神并归向神；存在和运动都按各自 logos 参与神，而非独立漂移。",
+                "sourceIds": [
+                  "S007"
+                ],
+                "source": {
+                  "workId": "maximus-ambigua",
+                  "locator": "Ambigua 7",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "maximus-the-confessor:evidence:004",
+                "titleZh": "偏离自身 logos 即趋向非存在",
+                "summaryZh": "同篇把离开自身原因的运动说成向非存在的非理性漂流，说明罪不是单纯违规，而是违背自身创造理路。",
+                "sourceIds": [
+                  "S007"
+                ],
+                "source": {
+                  "workId": "maximus-ambigua",
+                  "locator": "Ambigua 7",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "maximus-the-confessor:problem:002",
+        "titleZh": "人为何是宇宙中介？",
+        "questionZh": "Ambigua 41 如何把人的位置解释为贯通受造界区分的中介，并最终在基督中完成？",
+        "summaryZh": "马克西姆的人论是宇宙论和基督论交汇点。人被造在五重区分的末端，能以自身连接男女、乐园与居住世界、天地、感性与理智、受造与非受造；但这种中介使命因罪失败，并在基督的成肉身中被恢复和完成。",
+        "themeIds": [
+          "metaphysics",
+          "religion",
+          "freedom"
+        ],
+        "weight": 3,
+        "sourceIds": [
+          "S008",
+          "S009",
+          "S010"
+        ],
+        "claims": [
+          {
+            "id": "maximus-the-confessor:claim:003",
+            "titleZh": "五重区分使人具有宇宙性职责",
+            "claimZh": "马克西姆把人放在受造界差异的汇合处，使人不是孤立个体，而是被召去调和万有的中介。",
+            "explanationZh": "五重区分从受造/非受造到男女逐层展开；人同时关联这些差异，因而人的德性和知识承担宇宙性意义。",
+            "themeIds": [
+              "metaphysics",
+              "religion"
+            ],
+            "weight": 2,
+            "sourceIds": [
+              "S008"
+            ],
+            "evidence": [
+              {
+                "id": "maximus-the-confessor:evidence:005",
+                "titleZh": "受造界由五重区分标记",
+                "summaryZh": "Ambigua 41 列出非受造/受造、理智/感性、天/地、乐园/居住世界、男/女五重区分，构成受造秩序的地图。",
+                "sourceIds": [
+                  "S008"
+                ],
+                "source": {
+                  "workId": "maximus-ambigua",
+                  "locator": "Ambigua 41",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "maximus-the-confessor:evidence:006",
+                "titleZh": "人像容纳万物的工作场",
+                "summaryZh": "同篇称人为包含万物的宽广工作场，凭自身部分关联分裂两端，并被设计来把各极端按次序带向合一。",
+                "sourceIds": [
+                  "S008"
+                ],
+                "source": {
+                  "workId": "maximus-ambigua",
+                  "locator": "Ambigua 41",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "maximus-the-confessor:claim:004",
+            "titleZh": "基督完成并恢复人的中介使命",
+            "claimZh": "人的中介任务不是靠自然能力自动完成，而是在基督的成肉身、救赎经济和与人联合中被恢复。",
+            "explanationZh": "马克西姆把宇宙统一的最终主体放在基督；人按恩典参与这一合一，因此宇宙论始终具有基督论中心。",
+            "themeIds": [
+              "religion",
+              "metaphysics",
+              "freedom"
+            ],
+            "weight": 3,
+            "sourceIds": [
+              "S008",
+              "S009",
+              "S010"
+            ],
+            "evidence": [
+              {
+                "id": "maximus-the-confessor:evidence:007",
+                "titleZh": "基督以智慧和护理统合分离之物",
+                "summaryZh": "Ambigua 41 说明父的智慧和护理就是主耶稣基督；他维持普遍者并包容部分者，把分离者带入和平合一。",
+                "sourceIds": [
+                  "S008"
+                ],
+                "source": {
+                  "workId": "maximus-ambigua",
+                  "locator": "Ambigua 41",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "maximus-the-confessor:evidence:008",
+                "titleZh": "时代被安排为成肉身和人成神",
+                "summaryZh": "《致塔拉修问答》第二十二问把诸时代分为神成为人和使人成神的安排，显示宇宙史以基督联合为轴心。",
+                "sourceIds": [
+                  "S009"
+                ],
+                "source": {
+                  "workId": "maximus-questions-thalassius",
+                  "locator": "Questions to Thalassius, Q. 22",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "maximus-the-confessor:problem:003",
+        "titleZh": "自由和意志为何必须按基督论理解？",
+        "questionZh": "马克西姆如何把人的自由、自然意志和成神目标放进基督真实人性与救赎经济中？",
+        "summaryZh": "马克西姆的自由不是现代任意选择，而是理性自然按神意回到自身目的的能力。基督真实承担人性并使人性在不犯罪中被治愈，因而自然意志、德性选择和成神不是三个主题，而是一条从受造运动到救赎联合的线。",
+        "themeIds": [
+          "freedom",
+          "religion",
+          "metaphysics"
+        ],
+        "weight": 2,
+        "sourceIds": [
+          "S007",
+          "S010",
+          "S011"
+        ],
+        "claims": [
+          {
+            "id": "maximus-the-confessor:claim:005",
+            "titleZh": "自由是按自然目的选择善",
+            "claimZh": "马克西姆把自由理解为理性受造者按自身 logos 和德性目标行动，而不是脱离自然目的的中立任意性。",
+            "explanationZh": "这种自由观解释了为什么偏向低下和非存在不是自由完成，而是自由对自身原因和终点的失败。",
+            "themeIds": [
+              "freedom",
+              "ethics",
+              "metaphysics"
+            ],
+            "weight": 3,
+            "sourceIds": [
+              "S007"
+            ],
+            "evidence": [
+              {
+                "id": "maximus-the-confessor:evidence:009",
+                "titleZh": "德性 logos 使人作为神的一份而行动",
+                "summaryZh": "Ambigua 7 把德性与存在于神内的 logos 联系起来，说明人若真实耕作自然所播的善，就按自身目的参与神。",
+                "sourceIds": [
+                  "S007"
+                ],
+                "source": {
+                  "workId": "maximus-ambigua",
+                  "locator": "Ambigua 7",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "maximus-the-confessor:evidence:010",
+                "titleZh": "错误运动来自自愿转向较低者",
+                "summaryZh": "同篇把偏离自身原因描述为自愿以较低和非存在交换较高和存在，显示罪是自由运动失向而非自然本身败坏。",
+                "sourceIds": [
+                  "S007"
+                ],
+                "source": {
+                  "workId": "maximus-ambigua",
+                  "locator": "Ambigua 7",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "maximus-the-confessor:claim:006",
+            "titleZh": "基督治愈人性而不抹消人性意志",
+            "claimZh": "基督的救赎不是把人性吞入神性，而是在真实承担人性中使人的自然运动、受苦和意志被医治并归向神。",
+            "explanationZh": "这条线支撑马克西姆反一志论的历史位置：若基督没有真实人性意志，人类意志就没有在他里面被恢复。",
+            "themeIds": [
+              "religion",
+              "freedom",
+              "metaphysics"
+            ],
+            "weight": 2,
+            "sourceIds": [
+              "S010",
+              "S011"
+            ],
+            "evidence": [
+              {
+                "id": "maximus-the-confessor:evidence:011",
+                "titleZh": "基督成为无罪而承担可受苦状态",
+                "summaryZh": "《致塔拉修问答》第四十二问围绕“成为罪却不知罪”区分罪的状态和罪责，为基督真实承担人性而不犯罪提供解释。",
+                "sourceIds": [
+                  "S011"
+                ],
+                "source": {
+                  "workId": "maximus-questions-thalassius",
+                  "locator": "Questions to Thalassius, Q. 42",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "maximus-the-confessor:evidence:012",
+                "titleZh": "基督奥秘在创世以前被预知并在末世显明",
+                "summaryZh": "第六十问把基督作为创世以前被预知、在末后显现的羔羊来解释，使救赎不是补救插曲，而是创造目的的显明。",
+                "sourceIds": [
+                  "S010"
+                ],
+                "source": {
+                  "workId": "maximus-questions-thalassius",
+                  "locator": "Questions to Thalassius, Q. 60",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
 }

@@ -17223,7 +17223,7 @@
   },
   {
     "id": "pseudo-dionysius",
-    "tier": "seed",
+    "tier": "standard",
     "names": {
       "zh": "伪狄奥尼修斯（亚略巴古的丢尼修）",
       "en": "Pseudo-Dionysius the Areopagite",
@@ -17246,7 +17246,8 @@
     "themes": [
       "metaphysics",
       "religion",
-      "knowledge"
+      "knowledge",
+      "language"
     ],
     "keywordsZh": [
       "托名",
@@ -17260,7 +17261,7 @@
   },
   {
     "id": "maximus-the-confessor",
-    "tier": "seed",
+    "tier": "standard",
     "names": {
       "zh": "忏悔者马克西姆",
       "en": "Maximus the Confessor",
@@ -17298,7 +17299,7 @@
   },
   {
     "id": "john-of-damascus",
-    "tier": "seed",
+    "tier": "standard",
     "names": {
       "zh": "大马士革的约翰",
       "en": "John of Damascus",
@@ -17373,7 +17374,7 @@
   },
   {
     "id": "michael-psellos",
-    "tier": "seed",
+    "tier": "standard",
     "names": {
       "zh": "米海尔·普塞洛斯",
       "en": "Michael Psellos",

@@ -1,6 +1,6 @@
 {
   "id": "michael-psellos",
-  "tier": "seed",
+  "tier": "standard",
   "names": {
     "zh": "米海尔·普塞洛斯",
     "en": "Michael Psellos",
@@ -35,21 +35,356 @@
   "oneLineZh": "拜占庭博学者和哲学家，以柏拉图主义复兴、宫廷政治观察和百科式学问连接古典与中世纪希腊传统。",
   "influenceWeight": 2,
   "reviewStatus": "draft",
-  "summaryZh": "米海尔·普塞洛斯是11世纪拜占庭博学者，以《编年史》、哲学教学和柏拉图主义复兴著称。本 seed 档按思想家身份层收录，强调其在古典哲学文本与拜占庭宫廷文化之间的桥梁位置。",
+  "summaryZh": "米海尔·普塞洛斯是11世纪拜占庭宫廷、学校和文学世界之间的典型博学者。本标准候选把他的思想主线放在三个交叉处：他在《编年史》中把自己塑造成恢复哲学并调和修辞与哲学的人；《杂论》把自然、灵魂、理智、能力和活动压缩为百科式教学单元；他的哲学实践始终处在皇帝、政治劝导、正统性压力和古典柏拉图主义复兴之间。",
   "works": [
     "psellos-chronographia",
     "psellos-de-omnifaria-doctrina"
   ],
   "sourceNotes": [
     {
-      "label": "W12-B2-S007",
-      "url": "https://iep.utm.edu/byz-phil/",
-      "noteZh": "IEP Byzantine Philosophy 总论用于核验 Psellos 在拜占庭哲学与柏拉图主义复兴中的位置。"
+      "label": "S020",
+      "url": "https://plato.stanford.edu/archives/fall2012/entries/byzantine-philosophy/",
+      "noteZh": "核验 Psellos 在拜占庭哲学中的位置、Proclus 取向与正统性压力。"
     },
     {
-      "label": "W12-B2-S008",
-      "url": "https://www.britannica.com/biography/Michael-Psellus",
-      "noteZh": "Britannica Michael Psellus 条目用于核验其生卒、拜占庭博学者身份和《编年史》口径。"
+      "label": "S021",
+      "url": "https://archive.org/download/michael-psellus-chronographia/Michael_Psellus_Chronographia.pdf",
+      "noteZh": "用于校准《编年史》第六卷的哲学自传与宫廷语境。"
+    },
+    {
+      "label": "S023",
+      "url": "https://www.researchgate.net/publication/353770357_THE_TEACHING_OF_THE_ENERGIES_IN_DE_OMNIFARIA_DOCTRINA_OF_MICHAEL_PSELLOS",
+      "noteZh": "用于辅助校准《杂论》中关于灵魂、理智、能力、活动和参与的章号。"
     }
-  ]
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "michael-psellos:problem:001",
+        "titleZh": "哲学如何在拜占庭宫廷中被重新表演？",
+        "questionZh": "普塞洛斯如何在《编年史》中把自己塑造成恢复哲学、综合修辞和哲学的宫廷知识分子？",
+        "summaryZh": "《编年史》第六卷的自传插段不只是个人夸耀，而是拜占庭哲学复兴的自我叙事。普塞洛斯把修辞训练、逻辑、自然学、数学、柏拉图和亚里士多德、普罗克洛以及基督教神学排成上升课程，并将其放入皇帝赞助的宫廷语境中。",
+        "themeIds": [
+          "knowledge",
+          "politics",
+          "language"
+        ],
+        "weight": 3,
+        "sourceIds": [
+          "S021",
+          "S025"
+        ],
+        "claims": [
+          {
+            "id": "michael-psellos:claim:001",
+            "titleZh": "修辞和哲学共同构成他的公共身份",
+            "claimZh": "普塞洛斯在宫廷中把能说会辩和哲学求知组合成一种公共知识分子身份。",
+            "explanationZh": "他既训练舌头以成为优秀演说者，也训练心智以从事哲学；这种双重身份帮助他在政治场域中获得位置。",
+            "themeIds": [
+              "knowledge",
+              "language",
+              "politics"
+            ],
+            "weight": 3,
+            "sourceIds": [
+              "S021",
+              "S025"
+            ],
+            "evidence": [
+              {
+                "id": "michael-psellos:evidence:001",
+                "titleZh": "二十五岁时同时追求修辞和哲学",
+                "summaryZh": "《编年史》第六卷第三十六节说，他二十五岁时专注两件事：以修辞训练舌头成为演说者，以哲学课程精炼心智。",
+                "sourceIds": [
+                  "S021",
+                  "S025"
+                ],
+                "source": {
+                  "workId": "psellos-chronographia",
+                  "locator": "Chronographia, Book 6, §36",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "michael-psellos:evidence:002",
+                "titleZh": "他把逻辑、自然学和数学列为哲学路径",
+                "summaryZh": "同节描述他先掌握论证主题和结构，再学演绎与归纳，继而转向自然学，并借数学追求哲学根本原则。",
+                "sourceIds": [
+                  "S021"
+                ],
+                "source": {
+                  "workId": "psellos-chronographia",
+                  "locator": "Chronographia, Book 6, §36",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "michael-psellos:claim:002",
+            "titleZh": "他以古典谱系重启哲学权威",
+            "claimZh": "普塞洛斯通过 Aristotle、Plato、Plotinus、Porphyry、Iamblichus 和 Proclus 建立古典哲学复兴叙事。",
+            "explanationZh": "他的自传声称自己在哲学衰微时重新疏通源泉；这既是学术定位，也是宫廷内的权威建构。",
+            "themeIds": [
+              "knowledge",
+              "metaphysics",
+              "politics"
+            ],
+            "weight": 2,
+            "sourceIds": [
+              "S020",
+              "S021",
+              "S025"
+            ],
+            "evidence": [
+              {
+                "id": "michael-psellos:evidence:003",
+                "titleZh": "自称在哲学衰微时恢复哲学",
+                "summaryZh": "第六卷第三十七节称他初学时哲学在教师中几近死亡，自己在无合格导师情况下重新恢复哲学学习。",
+                "sourceIds": [
+                  "S021",
+                  "S025"
+                ],
+                "source": {
+                  "workId": "psellos-chronographia",
+                  "locator": "Chronographia, Book 6, §37",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "michael-psellos:evidence:004",
+                "titleZh": "从柏拉图亚里士多德航向普罗克洛",
+                "summaryZh": "第三十八节把 Aristotle 和 Plato 之后的路线延伸到 Plotinus、Porphyry、Iamblichus，并称 Proclus 为宏大港湾。",
+                "sourceIds": [
+                  "S020",
+                  "S021"
+                ],
+                "source": {
+                  "workId": "psellos-chronographia",
+                  "locator": "Chronographia, Book 6, §38",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "michael-psellos:problem:002",
+        "titleZh": "百科式知识如何压缩古典哲学和神学问题？",
+        "questionZh": "《杂论》如何把自然、灵魂、理智、参与、能力和活动做成可教学的短章知识系统？",
+        "summaryZh": "《杂论》的重要性不在于提出一个完全原创体系，而在于把古典哲学、自然问题、神学术语和学校教学压缩成短小问答式单元。它显示普塞洛斯如何把 Aristotle 式因果、Platonist/Proclean 智性等级和基督教世界观组合成宫廷/学校可传授知识。",
+        "themeIds": [
+          "knowledge",
+          "metaphysics",
+          "religion"
+        ],
+        "weight": 3,
+        "sourceIds": [
+          "S023",
+          "S024"
+        ],
+        "claims": [
+          {
+            "id": "michael-psellos:claim:003",
+            "titleZh": "灵魂和理智问题被纳入能力-活动框架",
+            "claimZh": "《杂论》用本质、能力、活动和运动等术语处理灵魂、身体、理智和参与问题。",
+            "explanationZh": "这种处理显示他不是单纯复述古典文本，而是把古典哲学术语作为解释工具，纳入拜占庭神学和心理学语境。",
+            "themeIds": [
+              "metaphysics",
+              "knowledge",
+              "religion"
+            ],
+            "weight": 3,
+            "sourceIds": [
+              "S023"
+            ],
+            "evidence": [
+              {
+                "id": "michael-psellos:evidence:005",
+                "titleZh": "灵魂的本质、能力和活动被区分",
+                "summaryZh": "《杂论》第二十三至二十七章相关讨论把灵魂、理智、形相、能力和活动分开处理，显示心理学和形而上学术语结合。",
+                "sourceIds": [
+                  "S023"
+                ],
+                "source": {
+                  "workId": "psellos-de-omnifaria-doctrina",
+                  "locator": "De omnifaria doctrina, ch. 23",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "michael-psellos:evidence:006",
+                "titleZh": "理智种类以参与和等级说明",
+                "summaryZh": "第二十一章及相邻章节讨论灵魂、理智、天使等智性种类如何参与较高理智，使用等级和参与来解释智性秩序。",
+                "sourceIds": [
+                  "S023"
+                ],
+                "source": {
+                  "workId": "psellos-de-omnifaria-doctrina",
+                  "locator": "De omnifaria doctrina, ch. 21",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "michael-psellos:claim:004",
+            "titleZh": "问答短章把知识变成可教学材料",
+            "claimZh": "《杂论》把复杂的自然哲学和神学材料缩成短章，使知识更适合宫廷和学校语境的传递。",
+            "explanationZh": "其形式和版本史显示，普塞洛斯在把古典材料转成拜占庭教学工具；知识被压缩、排列、基督教化，而非保持古典讨论的开放形态。",
+            "themeIds": [
+              "knowledge",
+              "politics",
+              "metaphysics"
+            ],
+            "weight": 2,
+            "sourceIds": [
+              "S024",
+              "S023"
+            ],
+            "evidence": [
+              {
+                "id": "michael-psellos:evidence:007",
+                "titleZh": "自然问题材料被转化为简短章节",
+                "summaryZh": "《杂论》第一版本围绕自然问题，后续版本系统重排；研究指出它把 Plutarch 等材料改写为短小、去人格化的教学单元。",
+                "sourceIds": [
+                  "S024"
+                ],
+                "source": {
+                  "workId": "psellos-de-omnifaria-doctrina",
+                  "locator": "De omnifaria doctrina, ch. 131",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "michael-psellos:evidence:008",
+                "titleZh": "地震等自然问题被纳入基督教世界观",
+                "summaryZh": "关于地震等自然现象的章节显示，普塞洛斯把古典自然因果解释放入基督教世界观中，服务于帝国读者的知识整合。",
+                "sourceIds": [
+                  "S024"
+                ],
+                "source": {
+                  "workId": "psellos-de-omnifaria-doctrina",
+                  "locator": "De omnifaria doctrina, ch. 164",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "michael-psellos:problem:003",
+        "titleZh": "哲学如何卷入政治劝导和正统边界？",
+        "questionZh": "普塞洛斯的哲学实践如何同时服务宫廷劝导、个人自保和基督教正统边界？",
+        "summaryZh": "普塞洛斯不是在学院真空中复兴 Platonism。他给皇帝讲第一因、至善、德性和灵魂，也在皇帝厌烦时转向修辞；他因宫廷不稳定选择修道，又在作品中承认基督教奥秘高过古代体系。这使他的哲学始终夹在权力、虔敬和古典学问之间。",
+        "themeIds": [
+          "politics",
+          "knowledge",
+          "religion"
+        ],
+        "weight": 2,
+        "sourceIds": [
+          "S020",
+          "S021",
+          "S023",
+          "S025"
+        ],
+        "claims": [
+          {
+            "id": "michael-psellos:claim:005",
+            "titleZh": "哲学在皇帝身边成为劝导和陪伴技术",
+            "claimZh": "普塞洛斯把哲学和修辞作为接近、劝导和安顿皇帝情绪的技术，而不是纯粹私人的沉思。",
+            "explanationZh": "他在宫廷中按皇帝兴致调节内容，从第一因和灵魂转向修辞节奏，显示知识实践受政治关系塑形。",
+            "themeIds": [
+              "politics",
+              "knowledge",
+              "language"
+            ],
+            "weight": 3,
+            "sourceIds": [
+              "S021",
+              "S025"
+            ],
+            "evidence": [
+              {
+                "id": "michael-psellos:evidence:009",
+                "titleZh": "对皇帝讲第一因、至善、德性和灵魂",
+                "summaryZh": "第六卷第一百九十七节说他会以哲学方式向 Constantine 讲第一因、普遍善、德性和灵魂，显示哲学进入宫廷谈话。",
+                "sourceIds": [
+                  "S021"
+                ],
+                "source": {
+                  "workId": "psellos-chronographia",
+                  "locator": "Chronographia, Book 6, §197",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "michael-psellos:evidence:010",
+                "titleZh": "皇帝厌烦时以修辞转换场面",
+                "summaryZh": "同节说当皇帝厌倦哲学讲论时，他会转向修辞、节奏和辞格，使思想以更适合场合的方式被接受。",
+                "sourceIds": [
+                  "S021",
+                  "S025"
+                ],
+                "source": {
+                  "workId": "psellos-chronographia",
+                  "locator": "Chronographia, Book 6, §197",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "michael-psellos:claim:006",
+            "titleZh": "古典哲学被置于基督教奥秘之下",
+            "claimZh": "普塞洛斯虽推动 Platonism 和百科学问，却反复把它们放进基督教奥秘、神学谨慎和宫廷风险之内。",
+            "explanationZh": "这解释了他思想的张力：既复兴古典哲学，又必须表明自己不是越界的异端化哲学家，而是可服务帝国和教会的博学者。",
+            "themeIds": [
+              "religion",
+              "knowledge",
+              "politics"
+            ],
+            "weight": 2,
+            "sourceIds": [
+              "S020",
+              "S021",
+              "S023"
+            ],
+            "evidence": [
+              {
+                "id": "michael-psellos:evidence:011",
+                "titleZh": "新哲学基于基督教奥秘并高过古代体系",
+                "summaryZh": "第六卷第四十二节说有一种基于基督教奥秘的新哲学，超越古代体系，并把神学研究与教父传统联系起来。",
+                "sourceIds": [
+                  "S021",
+                  "S020"
+                ],
+                "source": {
+                  "workId": "psellos-chronographia",
+                  "locator": "Chronographia, Book 6, §42",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "michael-psellos:evidence:012",
+                "titleZh": "宫廷无常促使他选择修道安全",
+                "summaryZh": "第六卷第一百九十一至二百节把他转向修道与皇帝性情无常、宫廷秩序混乱相连，显示哲学身份受政治风险牵动。",
+                "sourceIds": [
+                  "S021"
+                ],
+                "source": {
+                  "workId": "psellos-chronographia",
+                  "locator": "Chronographia, Book 6, §191",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
 }

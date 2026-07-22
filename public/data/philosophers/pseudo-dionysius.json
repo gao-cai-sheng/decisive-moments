@@ -1,6 +1,6 @@
 {
   "id": "pseudo-dionysius",
-  "tier": "seed",
+  "tier": "standard",
   "names": {
     "zh": "伪狄奥尼修斯（亚略巴古的丢尼修）",
     "en": "Pseudo-Dionysius the Areopagite",
@@ -23,7 +23,8 @@
   "themes": [
     "metaphysics",
     "religion",
-    "knowledge"
+    "knowledge",
+    "language"
   ],
   "keywordsZh": [
     "托名",
@@ -34,21 +35,340 @@
   "oneLineZh": "约500年成书的托名作者传统，以否定神学、神圣名称和等级论深刻影响东方与拉丁中世纪。",
   "influenceWeight": 3,
   "reviewStatus": "draft",
-  "summaryZh": "伪狄奥尼修斯不是《使徒行传》中的亚略巴古丢尼修，而是约500年前后以其名义写作的佚名作者传统。本 seed 档按“有可归属系统性文本、作者半隐”的托名先例收录，明确标注托名与断代边界，核心文本为《神秘神学》《神圣名称》和《天阶体系》。",
+  "summaryZh": "伪狄奥尼修斯不是《使徒行传》中的一世纪亚略巴古人，而是约500年前后以其名义流传的匿名作者。本标准候选把他从“否定神学”标签加厚为一套神学语言纪律：神的名称必须从启示和受造参与出发，肯定名称可真实指向神作为万有原因；但越接近超本质之神，言说越须收束为否定、无知和超越定义。",
   "works": [
     "pseudo-dionysius-mystical-theology",
     "pseudo-dionysius-divine-names"
   ],
   "sourceNotes": [
     {
-      "label": "W12-B1-S007",
-      "url": "https://plato.stanford.edu/entries/pseudo-dionysius-areopagite/",
-      "noteZh": "SEP Pseudo-Dionysius 条目用于核验其佚名作者、约500年成书、托名《使徒行传》中亚略巴古的丢尼修，以及否定神学和等级论文本。"
+      "label": "S002",
+      "url": "https://www.britannica.com/biography/Pseudo-Dionysius-the-Areopagite",
+      "noteZh": "核验其匿名晚古作者身份，避免按 Acts 时代人物处理。"
     },
     {
-      "label": "W12-B1-S008",
-      "url": "https://www.britannica.com/biography/Pseudo-Dionysius-the-Areopagite",
-      "noteZh": "Britannica Pseudo-Dionysius 条目用于辅助核验其托名身份和后世影响；本批不把他误记为使徒时代人物。"
+      "label": "S004",
+      "url": "https://www.ccel.org/ccel/d/dionysius/works/cache/works.pdf",
+      "noteZh": "用于校准《神圣名称》的章号、节号和神名/参与主线。"
+    },
+    {
+      "label": "S005",
+      "url": "https://www.ccel.org/ccel/d/dionysius/works/cache/works.pdf",
+      "noteZh": "用于校准《神秘神学》关于肯定、否定、无知与超越定义的主线。"
     }
-  ]
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "pseudo-dionysius:problem:001",
+        "titleZh": "神圣名称如何既能言说又必须受限？",
+        "questionZh": "伪狄奥尼修斯如何让神圣名称成为真实神学语言，同时又禁止它越过启示和受造心智能力？",
+        "summaryZh": "《神圣名称》的起点不是随意命名，而是给神学语言设定纪律：名称来自圣言所许可的显明，受造心智按自身能力接受照明；肯定名称因此能真实赞颂神为原因，却不能把神的超本质纳入概念把握。",
+        "themeIds": [
+          "language",
+          "religion",
+          "knowledge"
+        ],
+        "weight": 3,
+        "sourceIds": [
+          "S004"
+        ],
+        "claims": [
+          {
+            "id": "pseudo-dionysius:claim:001",
+            "titleZh": "神学言说必须服从圣言和能力比例",
+            "claimZh": "伪狄奥尼修斯把谈论神的合法性系于圣言启示和心智能力比例，而不是交给人的概念雄辩。",
+            "explanationZh": "他并非简单反语言，而是要求语言从启示的光线出发，并承认受造心智只能按自身容量参与不可量度的善。",
+            "themeIds": [
+              "language",
+              "knowledge",
+              "religion"
+            ],
+            "weight": 3,
+            "sourceIds": [
+              "S004"
+            ],
+            "evidence": [
+              {
+                "id": "pseudo-dionysius:evidence:001",
+                "titleZh": "神名解释受圣言规则约束",
+                "summaryZh": "《神圣名称》开篇规定，关于神的真理不能靠人类智慧的说服术建立，而要按圣言和神学家所传的能力来言说不可言说之事。",
+                "sourceIds": [
+                  "S004"
+                ],
+                "source": {
+                  "workId": "pseudo-dionysius-divine-names",
+                  "locator": "Divine Names, ch. 1, §1",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "pseudo-dionysius:evidence:002",
+                "titleZh": "超本质神性不可越启示而思说",
+                "summaryZh": "同章第二节明确禁止越过圣言所启示的范围去思考或言说隐藏神性；神的本质知识超出一切受造者，只按许可照明而临近。",
+                "sourceIds": [
+                  "S004"
+                ],
+                "source": {
+                  "workId": "pseudo-dionysius-divine-names",
+                  "locator": "Divine Names, ch. 1, §2",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "pseudo-dionysius:claim:002",
+            "titleZh": "肯定名称真实指向神作为万有原因",
+            "claimZh": "神圣名称虽不能捕捉神的本质，却能按神向万有的施予、照明和原因性真实地赞颂神。",
+            "explanationZh": "他允许称神为善、存在、生命、智慧等，不是因为概念等于神，而是因为万有从神而来并按不同方式参与神的恩赐。",
+            "themeIds": [
+              "metaphysics",
+              "religion",
+              "language"
+            ],
+            "weight": 2,
+            "sourceIds": [
+              "S004"
+            ],
+            "evidence": [
+              {
+                "id": "pseudo-dionysius:evidence:003",
+                "titleZh": "圣言光照引向赞颂源头",
+                "summaryZh": "《神圣名称》第一章第三节说明神圣诗歌按人的能力照明心智，使人赞颂一切圣显明之光的源头，而不是占有神本身。",
+                "sourceIds": [
+                  "S004"
+                ],
+                "source": {
+                  "workId": "pseudo-dionysius-divine-names",
+                  "locator": "Divine Names, ch. 1, §3",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "pseudo-dionysius:evidence:004",
+                "titleZh": "善作为万有存在和生命的根源",
+                "summaryZh": "第四章从“善”展开神名，说明天使、灵魂、生命、植物和无生命物都以不同方式从善获得存在、秩序和自身条件。",
+                "sourceIds": [
+                  "S004"
+                ],
+                "source": {
+                  "workId": "pseudo-dionysius-divine-names",
+                  "locator": "Divine Names, ch. 4, §2",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "pseudo-dionysius:problem:002",
+        "titleZh": "否定神学是沉默还是方法？",
+        "questionZh": "《神秘神学》如何把否定神学组织成有次序的上升方法，而不是单纯拒绝语言或重复黑暗意象？",
+        "summaryZh": "《神秘神学》的否定不是把一切内容抹掉，而是在肯定言说之后按上升次序撤除受造规定。它让心智经过感性、理性、概念和神圣象征的边界，学习以不知而知的方式接近超越一切定义者。",
+        "themeIds": [
+          "knowledge",
+          "metaphysics",
+          "language"
+        ],
+        "weight": 3,
+        "sourceIds": [
+          "S005"
+        ],
+        "claims": [
+          {
+            "id": "pseudo-dionysius:claim:003",
+            "titleZh": "神秘上升要求越过感性和理性把握",
+            "claimZh": "否定神学首先是心智训练：人必须离开感官、理性努力和一切存在/非存在对象，才可按可能程度趋近超本质者。",
+            "explanationZh": "这不是蔑视知识，而是把知识带到自身边界；在边界处，不知成为比概念更适合的联合方式。",
+            "themeIds": [
+              "knowledge",
+              "religion",
+              "metaphysics"
+            ],
+            "weight": 2,
+            "sourceIds": [
+              "S005"
+            ],
+            "evidence": [
+              {
+                "id": "pseudo-dionysius:evidence:005",
+                "titleZh": "离开感性与理智努力",
+                "summaryZh": "《神秘神学》第一章劝 Timothy 离开感性知觉、理智努力、一切可感可知对象以及有与无，以无知方式被提升到超本质联合。",
+                "sourceIds": [
+                  "S005"
+                ],
+                "source": {
+                  "workId": "pseudo-dionysius-mystical-theology",
+                  "locator": "Mystical Theology, ch. 1",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "pseudo-dionysius:evidence:006",
+                "titleZh": "摩西入云显示知识的关闭",
+                "summaryZh": "同章借摩西先经洁净、光和声音再进入无知之云说明，最高可见可想之物仍只是暗示，最终要关闭通常知识的感知。",
+                "sourceIds": [
+                  "S005"
+                ],
+                "source": {
+                  "workId": "pseudo-dionysius-mystical-theology",
+                  "locator": "Mystical Theology, ch. 1, §3",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "pseudo-dionysius:claim:004",
+            "titleZh": "否定按与肯定相反的次序运作",
+            "claimZh": "伪狄奥尼修斯把肯定和否定安排成相反运动：肯定由高而低展开名称，否定由低而高抽离规定。",
+            "explanationZh": "这种方法说明否定不是随口说“神不是一切”，而是有序撤除从感性到理智的规定，直到连否定和定义自身也被超越。",
+            "themeIds": [
+              "language",
+              "metaphysics",
+              "knowledge"
+            ],
+            "weight": 3,
+            "sourceIds": [
+              "S005"
+            ],
+            "evidence": [
+              {
+                "id": "pseudo-dionysius:evidence:007",
+                "titleZh": "抽象如雕像剥除遮蔽物",
+                "summaryZh": "第二章把否定比作制作雕像时除去遮蔽物；心智从最低事物开始抽离，逐步显出被一切已知之光遮蔽的超本质幽暗。",
+                "sourceIds": [
+                  "S005"
+                ],
+                "source": {
+                  "workId": "pseudo-dionysius-mystical-theology",
+                  "locator": "Mystical Theology, ch. 2",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "pseudo-dionysius:evidence:008",
+                "titleZh": "最高处言说收缩为无声",
+                "summaryZh": "第三章比较肯定神学、神名神学和象征神学，指出越向上升，表达越被限制；完全上升之后，言说与概念都归于无声。",
+                "sourceIds": [
+                  "S005"
+                ],
+                "source": {
+                  "workId": "pseudo-dionysius-mystical-theology",
+                  "locator": "Mystical Theology, ch. 3",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "pseudo-dionysius:problem:003",
+        "titleZh": "参与如何把万物、名称和无知连起来？",
+        "questionZh": "如果神超越一切名称和知识，受造物又如何真实参与神，并以名称显示这种参与？",
+        "summaryZh": "伪狄奥尼修斯的关键不是在肯定与否定之间二选一，而是把二者安放在参与结构中。万有因善而存在、运动、向善；神名描述这些施予和回归，却始终承认神在自身中超过所施予的一切。",
+        "themeIds": [
+          "metaphysics",
+          "religion",
+          "knowledge"
+        ],
+        "weight": 2,
+        "sourceIds": [
+          "S004",
+          "S005"
+        ],
+        "claims": [
+          {
+            "id": "pseudo-dionysius:claim:005",
+            "titleZh": "万有按自身能力参与善",
+            "claimZh": "万物不是以同一种方式拥有神，而是按其存在层级和能力比例参与善所施予的存在、生命、智慧和秩序。",
+            "explanationZh": "这种参与论既解释神名为何可说，也解释为何神名不能等同神本质；名称说的是神向万有的施予和万有的回应。",
+            "themeIds": [
+              "metaphysics",
+              "religion"
+            ],
+            "weight": 3,
+            "sourceIds": [
+              "S004"
+            ],
+            "evidence": [
+              {
+                "id": "pseudo-dionysius:evidence:009",
+                "titleZh": "善使天使与灵魂各按能力参与",
+                "summaryZh": "《神圣名称》第四章说明天使、灵魂和其他生命都从善获得其相应的生命与秩序，并按自身容量接受照明与向善运动。",
+                "sourceIds": [
+                  "S004"
+                ],
+                "source": {
+                  "workId": "pseudo-dionysius-divine-names",
+                  "locator": "Divine Names, ch. 4, §1",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "pseudo-dionysius:evidence:010",
+                "titleZh": "恶不是自立实体而是善的缺失",
+                "summaryZh": "第四章关于恶的讨论把恶解释为秩序和善的缺损；即使堕落、疾病或欲望仍以残余参与善而存在，完全无善则无存在。",
+                "sourceIds": [
+                  "S004"
+                ],
+                "source": {
+                  "workId": "pseudo-dionysius-divine-names",
+                  "locator": "Divine Names, ch. 4, §20",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "pseudo-dionysius:claim:006",
+            "titleZh": "神名指向施予而不取消超越",
+            "claimZh": "存在、生命、智慧、完满、一等名称说明神作为原因和归宿的施予，却同时要求人承认神高于这些名称本身。",
+            "explanationZh": "神名的功能是赞颂和引导，而不是定义。越多名称被组织起来，越显出它们都只是按受造物参与神的方式来言说神。",
+            "themeIds": [
+              "language",
+              "metaphysics",
+              "religion"
+            ],
+            "weight": 2,
+            "sourceIds": [
+              "S004",
+              "S005"
+            ],
+            "evidence": [
+              {
+                "id": "pseudo-dionysius:evidence:011",
+                "titleZh": "生命和智慧名称仍按施予理解",
+                "summaryZh": "《神圣名称》第七章处理智慧、理智和理性等名称时，仍把它们理解为神给予受造心智的参与，而非神本质被心智把握。",
+                "sourceIds": [
+                  "S004"
+                ],
+                "source": {
+                  "workId": "pseudo-dionysius-divine-names",
+                  "locator": "Divine Names, ch. 7, §1",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "pseudo-dionysius:evidence:012",
+                "titleZh": "最后连智性范畴也被否定",
+                "summaryZh": "《神秘神学》第五章否定神是灵魂、心智、真理、智慧、善或一等可知对象，说明所有名称最后都必须被超越。",
+                "sourceIds": [
+                  "S005"
+                ],
+                "source": {
+                  "workId": "pseudo-dionysius-mystical-theology",
+                  "locator": "Mystical Theology, ch. 5",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
 }
