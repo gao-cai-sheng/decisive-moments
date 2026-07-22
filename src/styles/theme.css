@@ -745,3 +745,75 @@ button {
   margin-top: 4px;
   font-size: 12px;
 }
+
+/* —— 投稿向导 —— */
+.contribute-panel {
+  width: min(440px, calc(100vw - 40px));
+}
+
+.contribute-steps {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin: 4px 0 12px;
+}
+
+.contribute-field {
+  display: block;
+  margin-bottom: 10px;
+}
+
+.contribute-field > span {
+  display: block;
+  font-size: 12px;
+  margin-bottom: 3px;
+}
+
+.contribute-field .search-input,
+.contribute-field .note-textarea,
+.contribute-field select {
+  width: 100%;
+}
+
+.contribute-row {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+  margin-bottom: 10px;
+}
+
+.contribute-row .contribute-field {
+  flex: 1;
+  min-width: 120px;
+  margin-bottom: 0;
+}
+
+.contribute-theme-chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 5px;
+}
+
+.contribute-check {
+  display: flex;
+  gap: 8px;
+  align-items: flex-start;
+  margin-bottom: 8px;
+  font-size: 13px;
+  line-height: 1.5;
+}
+
+.contribute-check input {
+  margin-top: 3px;
+}
+
+.contribute-issues {
+  margin: 6px 0 12px;
+  padding-left: 18px;
+  font-size: 12.5px;
+  line-height: 1.6;
+}
+
+.contribute-issues:not(.muted) li {
+  color: #f2a48a;
+}

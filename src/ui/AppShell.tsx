@@ -13,6 +13,7 @@ import { StarScene } from "../scene/StarScene";
 import { hasWebGlSupport } from "../scene/webglSupport";
 import { useAppStore } from "../store/appStore";
 import { CollectionsDrawer } from "./CollectionsDrawer";
+import { ContributeWizard } from "./ContributeWizard";
 import { LoadingScreen } from "./LoadingScreen";
 import { Onboarding } from "./Onboarding";
 import { PhilosopherPanel } from "./PhilosopherPanel";
@@ -72,6 +73,7 @@ export function AppShell() {
       {selectedPhilosopher && !selectedThoughtProblemId && <PhilosopherPanel philosopher={selectedPhilosopher} />}
       {selectedPhilosopher && <ThoughtInfographic philosopher={selectedPhilosopher} />}
       <CollectionsDrawer />
+      <ContributeWizard />
       <SettingsPanel />
       <Onboarding />
     </main>

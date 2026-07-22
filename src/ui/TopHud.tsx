@@ -40,6 +40,7 @@ export function TopHud() {
   const setSearchQuery = useAppStore((state) => state.setSearchQuery);
   const toggleCollections = useAppStore((state) => state.toggleCollections);
   const toggleSettings = useAppStore((state) => state.toggleSettings);
+  const toggleContribute = useAppStore((state) => state.toggleContribute);
   const philosophers = useAppStore((state) => state.philosophers);
   const relationships = useAppStore((state) => state.relationships);
   const filters = useAppStore((state) => state.filters);
@@ -115,6 +116,9 @@ export function TopHud() {
       </div>
       <button className="hud-button" type="button" onClick={toggleCollections}>
         {t("hud.collections")}
+      </button>
+      <button className="hud-button" type="button" onClick={toggleContribute}>
+        {t("contribute.open")}
       </button>
       <button className="hud-button" type="button" onClick={toggleSettings}>
         {t("hud.settings")}

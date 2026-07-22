@@ -31,6 +31,7 @@ type AppState = {
   filters: StarMapFilters;
   collectionsOpen: boolean;
   settingsOpen: boolean;
+  contributeOpen: boolean;
   setBootstrapData(input: {
     philosophers: PhilosopherIndexEntry[];
     argumentsIndex: Argument[];
@@ -51,6 +52,7 @@ type AppState = {
   clearFilters(): void;
   toggleCollections(): void;
   toggleSettings(): void;
+  toggleContribute(): void;
 };
 
 export const useAppStore = create<AppState>((set) => ({
@@ -71,6 +73,7 @@ export const useAppStore = create<AppState>((set) => ({
   filters: { relationshipTypes: [] },
   collectionsOpen: false,
   settingsOpen: false,
+  contributeOpen: false,
   setBootstrapData: (input) => set({ ...input, loaded: true, loadError: null }),
   setLoadError: (message) => set({ loadError: message, loaded: false }),
   selectPhilosopher: (id) =>
@@ -108,6 +111,7 @@ export const useAppStore = create<AppState>((set) => ({
   clearFilters: () => set({ filters: { relationshipTypes: [] } }),
   toggleCollections: () => set((state) => ({ collectionsOpen: !state.collectionsOpen })),
   toggleSettings: () => set((state) => ({ settingsOpen: !state.settingsOpen })),
+  toggleContribute: () => set((state) => ({ contributeOpen: !state.contributeOpen })),
 }));
 
 // DEV 调试钩子：profiling 经 window.__appStore 脚本化驱动选中/取消等交互

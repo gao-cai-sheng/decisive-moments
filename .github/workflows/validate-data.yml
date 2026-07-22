@@ -1,0 +1,27 @@
+name: validate-data
+
+# 投稿 PR 与数据改动的机器门：类型检查 + 单测 + 数据契约校验。
+# 人工盲审前先让 CI 拦掉结构/引用/占位错误，降低维护者负担。
+on:
+  pull_request:
+    paths:
+      - "public/data/**"
+      - "src/data/**"
+      - "tools/validate-data.mjs"
+      - ".github/workflows/validate-data.yml"
+  push:
+    branches: [master]
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: npm
+      - run: npm ci
+      - run: npx tsc -b
+      - run: npm test
+      - run: npm run validate:data
