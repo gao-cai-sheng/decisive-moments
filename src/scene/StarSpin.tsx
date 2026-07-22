@@ -1,8 +1,4 @@
-import { useFrame } from "@react-three/fiber";
-import { useRef, type MutableRefObject } from "react";
 import * as THREE from "three";
-
-export type StarSpinEntry = { mesh: THREE.Mesh; speed: number };
 
 function hashId(input: string) {
   let value = 2166136261;
@@ -59,26 +55,5 @@ export function createStarSurfaceTexture() {
   return texture;
 }
 
-export function useStarSpinRegistry() {
-  const registry = useRef(new Map<string, StarSpinEntry>());
-  const register = (id: string, mesh: THREE.Mesh | null) => {
-    if (!mesh) {
-      registry.current.delete(id);
-      return;
-    }
-    const { speed, tilt } = starSpinParams(id);
-    mesh.rotation.z = tilt;
-    registry.current.set(id, { mesh, speed });
-  };
-  return { registry, register };
-}
-
-// 必须渲染在 <Canvas> 内。集中驱动全部恒星自转，避免每颗星各挂一个 useFrame。
-export function StarSpinDriver({ registry }: { registry: MutableRefObject<Map<string, StarSpinEntry>> }) {
-  useFrame((_, delta) => {
-    registry.current.forEach((entry) => {
-      entry.mesh.rotation.y += entry.speed * delta;
-    });
-  });
-  return null;
-}
+// 自转驱动已并入 PhilosopherStars 的 InstancedMesh 帧循环（批量重组实例矩阵），
+// 本模块只保留确定性自转参数与共享表面纹理。

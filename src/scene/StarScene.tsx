@@ -10,7 +10,7 @@ import { useAppStore } from "../store/appStore";
 import { CameraRig } from "./CameraRig";
 import { NearbyOrbits } from "./NearbyOrbits";
 import { civilizationColors, PhilosopherStars } from "./PhilosopherStars";
-import { createStarSurfaceTexture, StarSpinDriver, useStarSpinRegistry } from "./StarSpin";
+import { createStarSurfaceTexture } from "./StarSpin";
 
 type StarDustProps = {
   quality: "low" | "high";
@@ -258,7 +258,6 @@ export function StarScene() {
     [visiblePhilosophers, relationships],
   );
   const starTexture = useMemo(() => createStarSurfaceTexture(), []);
-  const { registry: spinRegistry, register: registerStar } = useStarSpinRegistry();
   const selectedLayout = selectedId ? layout.find((node) => node.id === selectedId) : null;
 
   // Esc 逐层退出：观点 → 行星信息图 → 恒星聚焦 → 银河
@@ -295,10 +294,8 @@ export function StarScene() {
         selectedId={selectedId}
         onSelect={selectPhilosopher}
         surfaceTexture={starTexture}
-        registerStar={registerStar}
         labelsHidden={selectedThoughtProblemId !== null}
       />
-      <StarSpinDriver registry={spinRegistry} />
       <StarNameTwinkle layout={layout} philosophers={visiblePhilosophers} selectedId={selectedId} />
       <NearbyOrbits layout={layout} selectedId={selectedId} onSelect={selectPhilosopher} />
       {selectedPhilosopher && selectedLayout && (
