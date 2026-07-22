@@ -34,6 +34,16 @@ const philosopherIds = assertUnique(
   (item) => item.id,
   "philosophers.index.json",
 );
+
+for (const entry of philosophersIndex) {
+  assertOptionalEnglish(entry, ["oneLineEn", "keywordsEn"], `index ${entry.id}`);
+}
+for (const work of works) {
+  assertOptionalEnglish(work, ["titleEn", "noteEn"], `work ${work.id}`);
+}
+for (const theme of themes) {
+  assertOptionalEnglish(theme, ["aliasesEn"], `theme ${theme.id}`);
+}
 const argumentIds = assertUnique(argumentsIndex, (item) => item.id, "arguments.index.json");
 const themeIds = assertUnique(themes, (item) => item.id, "themes.json");
 const workIds = assertUnique(works, (item) => item.id, "works.json");
@@ -57,6 +67,27 @@ for (const relationship of relationships) {
 
 function isPlaceholderWorkId(id) {
   return /(?:primary-work|placeholder|candidate)$/i.test(id || "");
+}
+
+// En 字段是 optional 的（内容翻译渐进推进），但填了就不许是空串/空数组——
+// 空值会让前端 fallback 失效（显示空白而非回退中文）。
+function assertOptionalEnglish(obj, fields, label) {
+  if (!obj) return;
+  for (const field of fields) {
+    const value = obj[field];
+    if (value === undefined) continue;
+    if (Array.isArray(value)) {
+      assert(
+        value.length > 0 && value.every((item) => typeof item === "string" && item.trim().length > 0),
+        `${label}: ${field} must be a non-empty string array when present`,
+      );
+    } else {
+      assert(
+        typeof value === "string" && value.trim().length > 0,
+        `${label}: ${field} must be a non-empty string when present`,
+      );
+    }
+  }
 }
 
 const thoughtSystemPhilosopherIds = [];
@@ -88,6 +119,10 @@ for (const philosopher of philosophersIndex) {
     const relationCount = relationshipCountByPhilosopher.get(detail.id) || 0;
     assert(relationCount >= 2 && relationCount <= 3, "seed philosopher needs 2-3 relationships: " + detail.id + " has " + relationCount);
   }
+  assertOptionalEnglish(detail, ["oneLineEn", "summaryEn", "keywordsEn"], detail.id);
+  for (const note of detail.sourceNotes ?? []) {
+    assertOptionalEnglish(note, ["noteEn"], `${detail.id} sourceNote`);
+  }
   if (detail.thoughtSystem) {
     thoughtSystemPhilosopherIds.push(detail.id);
     assert(
@@ -95,16 +130,20 @@ for (const philosopher of philosophersIndex) {
       `thoughtSystem on ${detail.id} needs at least 3 problems`,
     );
     for (const problem of detail.thoughtSystem.problems) {
+      assertOptionalEnglish(problem, ["titleEn", "questionEn", "summaryEn"], problem.id);
       for (const theme of problem.themeIds) {
         assert(themeIds.has(theme), `thought problem ${problem.id} has unknown theme ${theme}`);
       }
       assert(problem.claims.length > 0, `thought problem ${problem.id} needs at least 1 claim`);
       for (const claim of problem.claims) {
+        assertOptionalEnglish(claim, ["titleEn", "claimEn", "explanationEn"], claim.id);
         for (const theme of claim.themeIds) {
           assert(themeIds.has(theme), `thought claim ${claim.id} has unknown theme ${theme}`);
         }
         assert(claim.evidence.length > 0, `thought claim ${claim.id} needs at least 1 evidence item`);
         for (const evidence of claim.evidence) {
+          assertOptionalEnglish(evidence, ["titleEn", "summaryEn"], evidence.id);
+          assertOptionalEnglish(evidence.source, ["publicDomainExcerptEn"], evidence.id);
           if (evidence.source?.workId) {
             assert(
               workIds.has(evidence.source.workId),
@@ -133,6 +172,8 @@ if (process.env.RELEASE_DATA === "1") {
 }
 
 for (const argument of argumentsIndex) {
+  assertOptionalEnglish(argument, ["questionEn", "claimEn", "explanationEn", "keywordsEn"], argument.id);
+  assertOptionalEnglish(argument.source, ["publicDomainExcerptEn"], argument.id);
   assert(
     philosopherIds.has(argument.philosopherId),
     `argument ${argument.id} has unknown philosopher ${argument.philosopherId}`,
@@ -171,6 +212,7 @@ const relationshipThemeIds = new Set();
 const relationshipTypes = new Set();
 
 for (const relationship of relationships) {
+  assertOptionalEnglish(relationship, ["noteEn"], relationship.id);
   assert(philosopherIds.has(relationship.from), `relationship ${relationship.id} has unknown from ${relationship.from}`);
   assert(philosopherIds.has(relationship.to), `relationship ${relationship.id} has unknown to ${relationship.to}`);
   relationshipConnectedPhilosopherIds.add(relationship.from);

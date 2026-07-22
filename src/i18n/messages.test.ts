@@ -1,5 +1,5 @@
 import { describe, expect, it } from "vitest";
-import { translate } from "./index";
+import { pickText, translate } from "./index";
 import { en, zh } from "./messages";
 
 function placeholders(template: string) {
@@ -26,5 +26,13 @@ describe("i18n messages", () => {
     expect(translate("zh", "loading.error", { error: "404" })).toBe("数据载入失败：404");
     expect(translate("en", "panel.detailAria", { name: "Plato" })).toBe("Plato details");
     expect(translate("zh", "loading.error")).toBe("数据载入失败：{error}");
+  });
+
+  it("pickText prefers En under en locale and falls back to Zh", () => {
+    const entity = { summaryZh: "中文摘要", summaryEn: "English summary", titleZh: "标题" };
+    expect(pickText(entity, "summary", "en")).toBe("English summary");
+    expect(pickText(entity, "summary", "zh")).toBe("中文摘要");
+    expect(pickText(entity, "title", "en")).toBe("标题");
+    expect(pickText(entity, "missing", "zh")).toBe("");
   });
 });

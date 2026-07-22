@@ -27,3 +27,13 @@ export function useT() {
 export function pickName(names: { zh: string; en: string }, locale: Locale): string {
   return locale === "en" ? names.en || names.zh : names.zh;
 }
+
+// Zh/En 双字段约定的通用取值：pickText(problem, "summary", locale) 读 summaryEn，缺失回退 summaryZh
+export function pickText(entity: Record<string, unknown>, base: string, locale: Locale): string {
+  if (locale === "en") {
+    const en = entity[`${base}En`];
+    if (typeof en === "string" && en.length > 0) return en;
+  }
+  const zh = entity[`${base}Zh`];
+  return typeof zh === "string" ? zh : "";
+}

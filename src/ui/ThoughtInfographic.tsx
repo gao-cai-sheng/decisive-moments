@@ -1,6 +1,6 @@
 import { useMemo, useState, type CSSProperties } from "react";
 import type { Philosopher } from "../data/schemas";
-import { pickName, useT, type MessageKey } from "../i18n";
+import { pickName, pickText, useT, type MessageKey } from "../i18n";
 import { civilizationColors } from "../scene/PhilosopherStars";
 import { useAppStore } from "../store/appStore";
 
@@ -58,7 +58,7 @@ export function ThoughtInfographic({ philosopher }: ThoughtInfographicProps) {
       style={{ "--accent": accent } as CSSProperties}
       onClick={close}
       role="dialog"
-      aria-label={t("infographic.aria", { title: problem.titleZh })}
+      aria-label={t("infographic.aria", { title: pickText(problem, "title", locale) })}
     >
       <div className="infographic-frame" onClick={(event) => event.stopPropagation()}>
         <button className="hud-button infographic-close" type="button" onClick={close}>
@@ -69,9 +69,9 @@ export function ThoughtInfographic({ philosopher }: ThoughtInfographicProps) {
           <p className="infographic-philosopher">
             {t("infographic.planetTag", { name: pickName(philosopher.names, locale) })}
           </p>
-          <h1>{problem.titleZh}</h1>
-          <p className="infographic-question">{problem.questionZh}</p>
-          <p className="infographic-summary">{problem.summaryZh}</p>
+          <h1>{pickText(problem, "title", locale)}</h1>
+          <p className="infographic-question">{pickText(problem, "question", locale)}</p>
+          <p className="infographic-summary">{pickText(problem, "summary", locale)}</p>
           {(problem.themeIds?.length ?? 0) > 0 && (
             <p className="infographic-planet-themes">
               {(problem.themeIds ?? []).map((themeId) => themeNameById.get(themeId) ?? themeId).join(" · ")}
@@ -96,18 +96,20 @@ export function ThoughtInfographic({ philosopher }: ThoughtInfographicProps) {
               >
                 <header className="infographic-claim-header">
                   <span className="infographic-claim-index">{String(claimIndex + 1).padStart(2, "0")}</span>
-                  <h2>{claim.titleZh}</h2>
+                  <h2>{pickText(claim, "title", locale)}</h2>
                 </header>
-                <p className="infographic-claim-text">{claim.claimZh}</p>
-                <p className="infographic-claim-explanation">{claim.explanationZh}</p>
+                <p className="infographic-claim-text">{pickText(claim, "claim", locale)}</p>
+                <p className="infographic-claim-explanation">{pickText(claim, "explanation", locale)}</p>
 
                 <div className="infographic-evidence-row">
                   {claim.evidence.map((evidence) => (
                     <div key={evidence.id} className="infographic-evidence">
-                      <p className="infographic-evidence-title">{evidence.titleZh}</p>
-                      <p className="infographic-evidence-summary">{evidence.summaryZh}</p>
+                      <p className="infographic-evidence-title">{pickText(evidence, "title", locale)}</p>
+                      <p className="infographic-evidence-summary">{pickText(evidence, "summary", locale)}</p>
                       {evidence.source.publicDomainExcerptZh && (
-                        <blockquote className="infographic-excerpt">{evidence.source.publicDomainExcerptZh}</blockquote>
+                        <blockquote className="infographic-excerpt">
+                          {pickText(evidence.source, "publicDomainExcerpt", locale)}
+                        </blockquote>
                       )}
                       <p className="infographic-source">
                         {evidence.source.workId && (

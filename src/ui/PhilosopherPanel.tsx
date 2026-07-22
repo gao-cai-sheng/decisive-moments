@@ -1,7 +1,7 @@
 import { useEffect, useMemo, useRef, useState } from "react";
 import type { Philosopher } from "../data/schemas";
 import { createIndexedDbCollectionsRepository } from "../domain/collections/localCollections";
-import { pickName, useT, type MessageKey } from "../i18n";
+import { pickName, pickText, useT, type MessageKey } from "../i18n";
 import { useAppStore } from "../store/appStore";
 import { showTransientMessage } from "./transientMessage";
 
@@ -111,9 +111,9 @@ export function PhilosopherPanel({ philosopher }: PhilosopherPanelProps) {
       {saveMessage && <p className="muted">{saveMessage}</p>}
       <p>{philosopher.life.display}</p>
       <p>
-        <strong>{philosopher.oneLineZh}</strong>
+        <strong>{pickText(philosopher, "oneLine", locale)}</strong>
       </p>
-      <p>{philosopher.summaryZh}</p>
+      <p>{pickText(philosopher, "summary", locale)}</p>
       <h3>{t("panel.keywords")}</h3>
       <p>{philosopher.keywordsZh.join(" · ")}</p>
       {philosopherWorks.length > 0 && (
@@ -177,7 +177,7 @@ export function PhilosopherPanel({ philosopher }: PhilosopherPanelProps) {
                     <li key={r.id}>
                       <span className="muted">{direction}</span>{" "}
                       {philosopherNameById.get(otherId) ?? otherId}
-                      <span className="muted"> · {r.noteZh}</span>
+                      <span className="muted"> · {pickText(r, "note", locale)}</span>
                     </li>
                   );
                 })}
@@ -207,12 +207,12 @@ export function PhilosopherPanel({ philosopher }: PhilosopherPanelProps) {
                   aria-expanded={problemExpanded}
                   onClick={() => selectThoughtProblem(problemExpanded ? null : problem.id)}
                 >
-                  <span className="thought-problem-title">{problem.titleZh}</span>
-                  <span className="muted">{problem.questionZh}</span>
+                  <span className="thought-problem-title">{pickText(problem, "title", locale)}</span>
+                  <span className="muted">{pickText(problem, "question", locale)}</span>
                 </button>
                 {problemExpanded && (
                   <>
-                    <p>{problem.summaryZh}</p>
+                    <p>{pickText(problem, "summary", locale)}</p>
                     {problem.claims.map((claim) => {
                       const claimExpanded = selectedThoughtClaimId === claim.id;
 
@@ -224,8 +224,8 @@ export function PhilosopherPanel({ philosopher }: PhilosopherPanelProps) {
                             aria-expanded={claimExpanded}
                             onClick={() => selectThoughtClaim(claimExpanded ? null : claim.id)}
                           >
-                            <strong>{claim.titleZh}</strong>
-                            <span>{claim.claimZh}</span>
+                            <strong>{pickText(claim, "title", locale)}</strong>
+                            <span>{pickText(claim, "claim", locale)}</span>
                           </button>
                           {claimExpanded && (
                             <div
@@ -235,7 +235,7 @@ export function PhilosopherPanel({ philosopher }: PhilosopherPanelProps) {
                                 else claimDetailRefs.current.delete(claim.id);
                               }}
                             >
-                              <p>{claim.explanationZh}</p>
+                              <p>{pickText(claim, "explanation", locale)}</p>
                               {claim.evidence.map((evidence) => {
                                 const workTitle = evidence.source.workId
                                   ? workTitleById.get(evidence.source.workId) ?? evidence.source.workId
@@ -243,11 +243,11 @@ export function PhilosopherPanel({ philosopher }: PhilosopherPanelProps) {
 
                                 return (
                                   <div className="thought-evidence" key={evidence.id}>
-                                    <strong>{evidence.titleZh}</strong>
-                                    <p>{evidence.summaryZh}</p>
+                                    <strong>{pickText(evidence, "title", locale)}</strong>
+                                    <p>{pickText(evidence, "summary", locale)}</p>
                                     {evidence.source.publicDomainExcerptZh && (
                                       <blockquote className="thought-excerpt">
-                                        {evidence.source.publicDomainExcerptZh}
+                                        {pickText(evidence.source, "publicDomainExcerpt", locale)}
                                       </blockquote>
                                     )}
                                     <p className="muted">
