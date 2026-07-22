@@ -1,0 +1,199 @@
+{
+  "schemaVersion": 1,
+  "items": {
+    "radhakrishnan": {
+      "oneLineEn": "Restated Indian thought via modern Vedanta and comparative philosophy, placing religious experience in world dialogue.",
+      "keywordsEn": [
+        "Indian philosophy",
+        "comparative religion",
+        "Vedanta",
+        "intuition",
+        "spiritual humanism"
+      ]
+    },
+    "madhva": {
+      "oneLineEn": "Opposed Advaita with Dvaita Vedanta, stressing real difference among God, soul, and world.",
+      "keywordsEn": [
+        "Dvaita Vedanta",
+        "Vaishnavism",
+        "difference",
+        "commentary",
+        "liberation"
+      ]
+    },
+    "charles-taylor": {
+      "oneLineEn": "Remade political philosophy, ethics, and religious modernity studies via modern self, recognition, and secularization.",
+      "keywordsEn": [
+        "politics of recognition",
+        "modern self",
+        "secular age",
+        "strong evaluation",
+        "communitarianism"
+      ]
+    },
+    "bentham": {
+      "oneLineEn": "Linked ethics, legislation, and political calculation through greatest happiness and institutional legal reform.",
+      "keywordsEn": [
+        "principle of utility",
+        "greatest happiness",
+        "legal reform",
+        "punishment",
+        "critique of rights"
+      ]
+    },
+    "comte": {
+      "oneLineEn": "Joined modern knowledge order to social reorganization via three stages, science classification, and sociology.",
+      "keywordsEn": [
+        "positivism",
+        "law of three stages",
+        "classification of the sciences",
+        "sociology",
+        "Religion of Humanity"
+      ]
+    },
+    "schleiermacher": {
+      "oneLineEn": "Linked modern theology, interpretation theory, and individuality via religious feeling and universal hermeneutics.",
+      "keywordsEn": [
+        "hermeneutics",
+        "religious feeling",
+        "absolute dependence",
+        "individuality (haecceity)",
+        "Romantic theology"
+      ]
+    },
+    "reid": {
+      "oneLineEn": "Answered skepticism with common-sense principles and direct realism, extending epistemology to action and freedom.",
+      "keywordsEn": [
+        "common-sense philosophy",
+        "direct realism",
+        "anti-skepticism",
+        "perception",
+        "active power"
+      ]
+    },
+    "tocqueville": {
+      "oneLineEn": "Analyzed fragile conditions of modern free societies through democratic equality, association, and anti-centralization.",
+      "keywordsEn": [
+        "democracy",
+        "equality of conditions",
+        "association",
+        "local self-government",
+        "soft despotism"
+      ]
+    },
+    "gramsci": {
+      "oneLineEn": "Rewrote Marxist revolutionary strategy and cultural politics via hegemony, civil society, and organic intellectuals.",
+      "keywordsEn": [
+        "hegemony",
+        "civil society",
+        "organic intellectuals",
+        "war of position",
+        "passive revolution"
+      ]
+    },
+    "lukacs": {
+      "oneLineEn": "Laid key prehistory for Western Marxism and critical theory via reification, totality, and class consciousness.",
+      "keywordsEn": [
+        "reification",
+        "class consciousness",
+        "totality",
+        "dialectics",
+        "realism"
+      ]
+    },
+    "bloch": {
+      "oneLineEn": "Joined Marxist emancipatory politics, religious symbols, and utopia via Principle of Hope and not-yet consciousness.",
+      "keywordsEn": [
+        "Principle of Hope",
+        "utopia",
+        "not-yet consciousness",
+        "anticipatory consciousness",
+        "messianic imagery"
+      ]
+    },
+    "marcuse": {
+      "oneLineEn": "Advanced Frankfurt School politics via technological rationality, desire liberation, and industrial-society critique.",
+      "keywordsEn": [
+        "one-dimensional society",
+        "technological rationality",
+        "Eros",
+        "repressive tolerance",
+        "liberation"
+      ]
+    },
+    "fromm": {
+      "oneLineEn": "Explained modern freedom, character, and social pathology via humanistic psychoanalysis and Marxist alienation theory.",
+      "keywordsEn": [
+        "Escape from Freedom",
+        "social character",
+        "alienation",
+        "humanistic ethics",
+        "to have or to be"
+      ]
+    },
+    "berlin": {
+      "oneLineEn": "Remade 20th-c. liberal anti-utopian argument through two concepts of liberty and value pluralism.",
+      "keywordsEn": [
+        "negative liberty",
+        "positive liberty",
+        "value pluralism",
+        "anti-determinism",
+        "history of ideas"
+      ]
+    },
+    "hayek": {
+      "oneLineEn": "Critiqued planning rationality and rebuilt liberal rule-of-law theory via dispersed knowledge and spontaneous order.",
+      "keywordsEn": [
+        "spontaneous order",
+        "knowledge problem",
+        "rule of law",
+        "critique of planning",
+        "market order"
+      ]
+    },
+    "schmitt": {
+      "oneLineEn": "Exposes modern political crisis via sovereignty, exception, and friend-enemy; read critically amid Nazi complicity.",
+      "keywordsEn": [
+        "sovereignty",
+        "state of exception",
+        "friend-enemy distinction",
+        "political theology",
+        "critique of parliamentarism"
+      ]
+    },
+    "croce": {
+      "oneLineEn": "Recast Italian idealism through expression aesthetics, historicism, and liberal history of freedom, reviving Vico.",
+      "keywordsEn": [
+        "aesthetics of expression",
+        "historicism",
+        "liberal philosophy of history",
+        "philosophy of the spirit",
+        "Vico revival"
+      ]
+    },
+    "yan-hui": {
+      "oneLineEn": "Yan Yuan, Confucius's disciple famed for virtue, later taken as a classic model of Confucian self-cultivation.",
+      "keywordsEn": [
+        "Confucius's disciples",
+        "learning of ren",
+        "contentment in poverty with the Way"
+      ]
+    },
+    "zengzi": {
+      "oneLineEn": "Later Confucian disciple known for transmitting filial piety, vigilant solitude, and self-cultivation.",
+      "keywordsEn": [
+        "filial piety",
+        "Confucius's disciples",
+        "the Great Learning"
+      ]
+    },
+    "zisi": {
+      "oneLineEn": "Confucius's grandson and a key early Warring States link in the transmission from Confucius to Mencius.",
+      "keywordsEn": [
+        "the Doctrine of the Mean",
+        "later Confucian disciples",
+        "nature and destiny (xing-ming)"
+      ]
+    }
+  }
+}
