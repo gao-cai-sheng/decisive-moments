@@ -44,7 +44,8 @@ async function skipOnboarding(page: Parameters<Parameters<typeof test>[1]>[0]["p
 
 test("loads star map and basic UI", async ({ page }, testInfo) => {
   await skipOnboarding(page);
-  await page.goto("/");
+  // preserve-buffer：本测试用 gl.readPixels 断言画面，需保留绘制缓冲（生产默认关闭省一块 framebuffer）
+  await page.goto("/?preserve-buffer");
   await expect(page.getByText("群星闪耀时").first()).toBeVisible();
   await expect(page.getByLabel("搜索哲人、文明、命题")).toBeVisible();
   const canvas = page.locator("canvas");
@@ -68,14 +69,18 @@ test("loads star map and basic UI", async ({ page }, testInfo) => {
   await expect(detailPanel.getByText("思想星系")).toBeVisible();
   await expect(detailPanel.getByText("理念与真实")).toBeVisible();
   await detailPanel.getByRole("button", { name: /理念与真实/ }).click();
-  const claimButton = detailPanel.getByRole("button", { name: /理念高于可感事物/ });
-  await expect(claimButton).toBeVisible();
-  await claimButton.click();
-  await expect(detailPanel.getByText(/理念论让知识拥有稳定对象/)).toBeVisible();
-  await expect(detailPanel.getByText("《理想国》中的理念讨论")).toBeVisible();
-  await expect(detailPanel.getByText(/柏拉图代表文本|plato-primary-work/).first()).toBeVisible();
-  await expect(detailPanel.getByText("《理想国》中卷")).toBeVisible();
-  await expect(detailPanel.getByText("摘要", { exact: true })).toBeVisible();
+  // 选中思想行星后：右栏面板隐藏、全屏信息图打开（506f05e 交互改版 + 5bead3e 防鬼影）
+  const infographic = page.getByRole("dialog", { name: "理念与真实 信息图" });
+  await expect(infographic).toBeVisible();
+  await expect(detailPanel).toBeHidden();
+  await expect(infographic.getByText("理念高于可感事物")).toBeVisible();
+  await expect(infographic.getByText(/理念论让知识拥有稳定对象/)).toBeVisible();
+  await expect(infographic.getByText("《理想国》中的理念讨论")).toBeVisible();
+  await expect(infographic.getByText(/柏拉图代表文本|plato-primary-work/).first()).toBeVisible();
+  await expect(infographic.getByText(/《理想国》第六卷/).first()).toBeVisible();
+  await expect(infographic.getByText("摘要", { exact: true }).first()).toBeVisible();
+  await infographic.getByRole("button", { name: /返回恒星系/ }).click();
+  await expect(detailPanel).toBeVisible();
 });
 
 test("filters the star map and toggles relationship types", async ({ page }) => {

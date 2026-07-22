@@ -277,7 +277,12 @@ export function StarScene() {
     <Canvas
       camera={{ position: [0, 9, 22], fov: 52, near: 0.1, far: 100 }}
       dpr={quality === "high" ? [1, 1.5] : 1}
-      gl={{ antialias: false, powerPreference: "high-performance" }}
+      // preserveDrawingBuffer 多占一整块 framebuffer，仅供 smoke 测试 readPixels 断言用，经 URL 参数按需开启
+      gl={{
+        antialias: false,
+        powerPreference: "high-performance",
+        preserveDrawingBuffer: new URLSearchParams(window.location.search).has("preserve-buffer"),
+      }}
       onCreated={({ gl }) => {
         // DEV 调试钩子：profiling 经 window.__gl 读 renderer.info（draw calls / geometries / textures）
         if (import.meta.env.DEV) (window as unknown as { __gl?: THREE.WebGLRenderer }).__gl = gl;
