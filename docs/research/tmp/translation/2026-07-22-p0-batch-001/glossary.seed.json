@@ -1,0 +1,31 @@
+{
+  "_note": "Claude 侧提供的起始术语表，必须沿用。执行代理新增术语写入 glossary.json 并在 notes.md 说明。",
+  "terms": {
+    "仁": "ren (humaneness)",
+    "礼": "ritual propriety",
+    "君子": "junzi (exemplary person)",
+    "儒家": "Confucian",
+    "理念论": "theory of Forms",
+    "理想国": "the Republic",
+    "形而上学": "metaphysics",
+    "实体": "substance",
+    "目的因": "final cause",
+    "德性伦理": "virtue ethics",
+    "批判哲学": "critical philosophy",
+    "道德法则": "moral law",
+    "公平正义": "justice as fairness",
+    "正义": "justice",
+    "伦理": "ethics",
+    "政治": "politics",
+    "知识": "knowledge",
+    "自由": "freedom",
+    "苦": "dukkha (suffering)",
+    "缘起": "dependent origination",
+    "无我": "non-self (anatta)",
+    "中道": "the Middle Way",
+    "八正道": "the Noble Eightfold Path",
+    "四圣谛": "the Four Noble Truths",
+    "涅槃": "nirvana",
+    "解脱": "liberation"
+  }
+}
