@@ -1,6 +1,6 @@
 {
   "id": "mani",
-  "tier": "seed",
+  "tier": "standard",
   "names": {
     "zh": "摩尼",
     "en": "Mani",
@@ -36,7 +36,7 @@
   "oneLineZh": "萨珊时期摩尼教创立者，以亲撰经典组织光暗二元宇宙论、救赎论与禁欲伦理。",
   "influenceWeight": 3,
   "reviewStatus": "draft",
-  "summaryZh": "摩尼是前伊斯兰波斯—晚期古代宗教思想中最清晰的创立者案例之一；传统强调其有意亲撰经典以防教义篡改。本 seed 档记录其作为摩尼教创立者的身份层、萨珊语境、光暗二元宇宙论与救赎伦理，并标注原作多已散佚、主要经残卷、译本和引文保存的流传边界。",
+  "summaryZh": "摩尼是前伊斯兰波斯—晚期古代宗教思想中罕见的亲撰经典型创立者。他在萨珊帝国语境中把光暗二元宇宙论、历代使徒谱系、普世启示和末世审判组织为摩尼教体系；由于原作多散佚，本标准档只据《沙卜拉干》《生命福音》的具名古典见证、已刊残片校译和可复原开篇段概括其思想系统，并明确保留文本流传边界。",
   "works": [
     "mani-shabuhragan",
     "mani-living-gospel"
@@ -52,5 +52,339 @@
       "url": "https://iranicaonline.org/articles/manicheism-1-general-survey",
       "noteZh": "Encyclopaedia Iranica Manicheism 总论用于核验摩尼教光暗二元、救赎论、跨宗教综合和文本流传状况。"
     }
-  ]
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "mani:problem:001",
+        "titleZh": "光暗二元如何成为宇宙结构？",
+        "questionZh": "摩尼如何把光明世界、黑暗国度和混合世界组织成解释人类处境的宇宙论？",
+        "summaryZh": "摩尼的二元论不是普通善恶比喻，而是以光明世界与黑暗国度的边界、混合和最终分离说明世界处境，并把救赎理解为被困光明的释放。",
+        "themeIds": [
+          "metaphysics",
+          "religion",
+          "life_death"
+        ],
+        "weight": 3,
+        "sourceIds": [
+          "S005",
+          "S006",
+          "S008"
+        ],
+        "claims": [
+          {
+            "id": "mani:claim:001",
+            "titleZh": "光明世界拥有自身中心与遍在秩序",
+            "claimZh": "摩尼把光明世界描述为有自身王者、中心和内在充满性的领域，因此光明不是抽象价值，而是宇宙论中的真实一极。",
+            "explanationZh": "《生命福音》开篇首先描绘光明世界之王和光明土地的存在方式，为后续混合、拯救与回归提供本体论背景。",
+            "themeIds": [
+              "metaphysics",
+              "religion"
+            ],
+            "weight": 3,
+            "sourceIds": [
+              "S005",
+              "S006",
+              "S008"
+            ],
+            "evidence": [
+              {
+                "id": "mani:evidence:001",
+                "titleZh": "《生命福音》alaph 开篇描述光明世界之王居于世界中心",
+                "summaryZh": "《生命福音》由吐鲁番残片复原的 alaph 开篇段，首先呈现光明世界之王居于世界之脐或中心，显示光明一方具有自身王权和宇宙中心。",
+                "sourceIds": [
+                  "S005",
+                  "S006",
+                  "S008"
+                ],
+                "source": {
+                  "workId": "mani-living-gospel",
+                  "locator": "Living Gospel, alaph / first section reconstructed from two Turfan fragments: King of the World of Light at the Navel of the World",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "mani:evidence:002",
+                "titleZh": "《生命福音》同一开篇段说明光明王遍在其土地",
+                "summaryZh": "《生命福音》alaph 开篇段还说光明世界之王从内外都临在于自己的土地，说明光明领域并非局部住所，而是被王权和光明充满的整体。",
+                "sourceIds": [
+                  "S005",
+                  "S006",
+                  "S008"
+                ],
+                "source": {
+                  "workId": "mani-living-gospel",
+                  "locator": "Living Gospel, alaph / first section reconstructed from two Turfan fragments: king present throughout his land from without and within",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "mani:claim:002",
+            "titleZh": "黑暗是与光明相邻的敌对国度",
+            "claimZh": "摩尼把黑暗理解为与光明世界相邻并相抗的国度；世界困境来自两界接触后的混合，而不是光明内部自然衰败。",
+            "explanationZh": "这种说法把恶放在宇宙边界和冲突结构中解释，使救赎成为分离工程：光明必须从与黑暗的混合中重新被释放。",
+            "themeIds": [
+              "metaphysics",
+              "life_death",
+              "religion"
+            ],
+            "weight": 1,
+            "sourceIds": [
+              "S005",
+              "S008",
+              "S004"
+            ],
+            "evidence": [
+              {
+                "id": "mani:evidence:003",
+                "titleZh": "《生命福音》开篇把光明世界的边界接到黑暗国度",
+                "summaryZh": "《生命福音》alaph 开篇段在描述光明世界时指出，它没有界限，唯有在与敌人黑暗国度相接之处形成边界，二元冲突由此进入宇宙地理。",
+                "sourceIds": [
+                  "S005",
+                  "S008"
+                ],
+                "source": {
+                  "workId": "mani-living-gospel",
+                  "locator": "Living Gospel, alaph / first section: limit of the World of Light where it borders the Kingdom of Darkness",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "mani:evidence:004",
+                "titleZh": "《沙卜拉干》末世段以最终分离回应混合世界",
+                "summaryZh": "MacKenzie 校译的《沙卜拉干》末世审判段描述终末时正义者与罪人被分开，显示摩尼教宇宙史以光暗混合后的再分离作为结局。",
+                "sourceIds": [
+                  "S004",
+                  "S002",
+                  "S008"
+                ],
+                "source": {
+                  "workId": "mani-shabuhragan",
+                  "locator": "Šābuhragān, MacKenzie 1979 BSOAS 42/3, eschatological judgment passage: separation of righteous and sinners",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "mani:problem:002",
+        "titleZh": "摩尼怎样为最后启示建立权威？",
+        "questionZh": "在已有佛陀、琐罗亚斯德和耶稣等传统之后，摩尼如何说明自己的启示是最后时代的普世启示？",
+        "summaryZh": "摩尼通过《沙卜拉干》中保存的使徒谱系，把先前宗教解释为不同地域的真实启示，再把最后时代的巴比伦启示归于自己，并以亲撰经典固定这种权威。",
+        "themeIds": [
+          "religion",
+          "knowledge",
+          "language"
+        ],
+        "weight": 2,
+        "sourceIds": [
+          "S003",
+          "S005",
+          "S007"
+        ],
+        "claims": [
+          {
+            "id": "mani:claim:003",
+            "titleZh": "前代先知被纳入同一使徒连续体",
+            "claimZh": "摩尼把佛陀、琐罗亚斯德和耶稣解释为不同时代和地域的使徒，借此把自己的教义放入连续启示史。",
+            "explanationZh": "这种处理允许摩尼教跨越印度、波斯和西方宗教边界：前代启示被承认，但其完成和普世化被转向最后时代的摩尼。",
+            "themeIds": [
+              "religion",
+              "knowledge"
+            ],
+            "weight": 2,
+            "sourceIds": [
+              "S003"
+            ],
+            "evidence": [
+              {
+                "id": "mani:evidence:005",
+                "titleZh": "al-Bīrūnī 保存《沙卜拉干》历代使徒段落",
+                "summaryZh": "al-Bīrūnī《遗迹之书》p.190 引《沙卜拉干》称，历代神的使徒不断带来智慧和工作，并列举印度的佛陀、波斯的琐罗亚斯德和西方的耶稣。",
+                "sourceIds": [
+                  "S003"
+                ],
+                "source": {
+                  "workId": "mani-shabuhragan",
+                  "locator": "al-Bīrūnī, al-Āthār al-bāqiya / Chronology of Ancient Nations, Sachau trans., p.190: Šābuhragān quotation on apostles through the ages",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "mani:evidence:006",
+                "titleZh": "同一引文按地域分派佛陀、琐罗亚斯德和耶稣",
+                "summaryZh": "al-Bīrūnī 所引《沙卜拉干》段落不是笼统说古代贤者，而是把佛陀置于印度、琐罗亚斯德置于波斯、耶稣置于西方，形成跨地域启示图式。",
+                "sourceIds": [
+                  "S003"
+                ],
+                "source": {
+                  "workId": "mani-shabuhragan",
+                  "locator": "al-Bīrūnī, al-Āthār al-bāqiya / Chronology of Ancient Nations, Sachau trans., p.190: India/Persia/West apostle sequence in Šābuhragān quotation",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "mani:claim:004",
+            "titleZh": "最后时代的启示被定位到巴比伦和 Mani 本人",
+            "claimZh": "摩尼把自己的启示解释为最后时代在巴比伦显明的事件，并通过结构化经典使这种自我定位可以被保存和传播。",
+            "explanationZh": "这不是普通教师自称有新见解，而是把时间、地点、个人使命和文本形式合并为权威论证：最后启示经 Mani 出现，并进入可传递的书面经典。",
+            "themeIds": [
+              "religion",
+              "language",
+              "knowledge"
+            ],
+            "weight": 3,
+            "sourceIds": [
+              "S003",
+              "S007",
+              "S006"
+            ],
+            "evidence": [
+              {
+                "id": "mani:evidence:007",
+                "titleZh": "al-Bīrūnī 引文把最后时代启示归于 Mani",
+                "summaryZh": "al-Bīrūnī《遗迹之书》p.190 所引《沙卜拉干》在列举前代使徒后，转称最后时代的启示预言在巴比伦到来，并经 Mani 自己显明。",
+                "sourceIds": [
+                  "S003"
+                ],
+                "source": {
+                  "workId": "mani-shabuhragan",
+                  "locator": "al-Bīrūnī, al-Āthār al-bāqiya / Chronology of Ancient Nations, Sachau trans., p.190: final revelation in Babylon through Mani",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "mani:evidence:008",
+                "titleZh": "Ibn al-Nadim 记《生命福音》为二十二部分结构",
+                "summaryZh": "Ibn al-Nadim《书目》第十 maqāla 摩尼教与摩尼著述段记《生命福音》分为二十二部分并以字母标识，显示其作为亲撰经典具有结构化文本形态。",
+                "sourceIds": [
+                  "S007",
+                  "S006"
+                ],
+                "source": {
+                  "workId": "mani-living-gospel",
+                  "locator": "Ibn al-Nadim, al-Fihrist, tenth maqāla, section on Manichaeans and Mani's books: notice on the Living Gospel's twenty-two alphabetic sections",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "mani:problem:003",
+        "titleZh": "末世审判怎样连接伦理与救赎？",
+        "questionZh": "摩尼教的禁欲和伦理要求为什么不只是个人修身，而是参与宇宙终局中光明与黑暗再分离的方式？",
+        "summaryZh": "《沙卜拉干》末世段把审判、复活、世界更新和最终隔离连成一体，使伦理行为进入宇宙终局；《生命福音》的光明本源则说明救赎目标是回归光明秩序。",
+        "themeIds": [
+          "ethics",
+          "life_death",
+          "religion"
+        ],
+        "weight": 3,
+        "sourceIds": [
+          "S004",
+          "S005",
+          "S008"
+        ],
+        "claims": [
+          {
+            "id": "mani:claim:005",
+            "titleZh": "审判把义人与罪人分派到不同归宿",
+            "claimZh": "摩尼的末世论把伦理差异转化为终局分离：义人上升，罪人进入惩罚性归宿，世界秩序随之被重新区分。",
+            "explanationZh": "这里的伦理不是世俗奖惩，而是宇宙清算的条件。正义者与罪人被分别处理，意味着生活方式会影响灵魂在光暗分离中的位置。",
+            "themeIds": [
+              "ethics",
+              "life_death"
+            ],
+            "weight": 3,
+            "sourceIds": [
+              "S004",
+              "S002"
+            ],
+            "evidence": [
+              {
+                "id": "mani:evidence:009",
+                "titleZh": "《沙卜拉干》末世段写 Jesus 执行最终审判",
+                "summaryZh": "MacKenzie 校译的《沙卜拉干》末世审判段写，终末时智慧世界的神圣代理 Jesus 前来执行最终审判，将罪人与正义者分开。",
+                "sourceIds": [
+                  "S004"
+                ],
+                "source": {
+                  "workId": "mani-shabuhragan",
+                  "locator": "Šābuhragān, MacKenzie 1979 BSOAS 42/3, eschatological judgment passage: Jesus performs final judgment",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "mani:evidence:010",
+                "titleZh": "同一末世段写罪人进入惩罚性归宿",
+                "summaryZh": "《沙卜拉干》末世审判段继续叙述，天使把罪人带入惩罚性归宿，审判因此不仅是宣告结论，而包含强制分离和归宿安排。",
+                "sourceIds": [
+                  "S004"
+                ],
+                "source": {
+                  "workId": "mani-shabuhragan",
+                  "locator": "Šābuhragān, MacKenzie 1979 BSOAS 42/3, eschatological judgment passage: angels separate sinners into punitive destiny",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "mani:claim:006",
+            "titleZh": "宇宙终局以世界更新和光明归属收束",
+            "claimZh": "摩尼把终末想象为世界结构自身被解除和重新区分；光明秩序成为救赎方向，黑暗混合被终局性隔离。",
+            "explanationZh": "这使伦理实践具有宇宙论分量。信徒并非只避免个别过错，而是在一个将分离、更新和隔离黑暗的终局中选择归属。",
+            "themeIds": [
+              "life_death",
+              "metaphysics",
+              "ethics"
+            ],
+            "weight": 2,
+            "sourceIds": [
+              "S004",
+              "S005",
+              "S008"
+            ],
+            "evidence": [
+              {
+                "id": "mani:evidence:011",
+                "titleZh": "《沙卜拉干》末世段写世界支撑者离去并进入审判更新",
+                "summaryZh": "MacKenzie 校译的《沙卜拉干》末世段写，支撑世界的神离去后世界秩序崩解，并由审判之火完成更新，标志混合世界被解除。",
+                "sourceIds": [
+                  "S004"
+                ],
+                "source": {
+                  "workId": "mani-shabuhragan",
+                  "locator": "Šābuhragān, MacKenzie 1979 BSOAS 42/3, eschatological judgment passage: world-supporting gods depart and judgment fire transforms the world",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "mani:evidence:012",
+                "titleZh": "《生命福音》开篇的光明本源说明救赎归向",
+                "summaryZh": "《生命福音》alaph 开篇段把光明世界呈现为王权、中心和充满性的本源，说明末世分离后的救赎目标不是虚无，而是回归光明秩序。",
+                "sourceIds": [
+                  "S005",
+                  "S008"
+                ],
+                "source": {
+                  "workId": "mani-living-gospel",
+                  "locator": "Living Gospel, alaph / first section: World of Light as kingly origin and salvific homeland",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
 }

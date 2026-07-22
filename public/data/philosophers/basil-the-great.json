@@ -1,6 +1,6 @@
 {
   "id": "basil-the-great",
-  "tier": "seed",
+  "tier": "standard",
   "names": {
     "zh": "大巴西尔（该撒利亚的巴西尔）",
     "en": "Basil the Great",
@@ -35,21 +35,338 @@
   "oneLineZh": "卡帕多西亚三杰之一，以三一神学、创世解释和修道规章构成希腊教父传统核心。",
   "influenceWeight": 3,
   "reviewStatus": "draft",
-  "summaryZh": "大巴西尔是4世纪希腊教父和卡帕多西亚三杰之一，虽处晚期罗马语境，但在 W12 中按希腊基督教/东正教源头收录。他的《六日创世讲道集》和修道规章把神学、宇宙论、伦理操练与共同生活组织起来。",
+  "summaryZh": "大巴西尔是4世纪希腊教父和卡帕多西亚三杰之一，虽处晚期罗马语境，但在 W12 中按希腊基督教/东正教源头收录。本标准候选把他从身份层推进到思想系统层：一方面以《六日创世讲道集》把可见世界解释为由神意、秩序和圣经语词共同开启的宇宙论；另一方面以《大规程》把爱神、爱邻人与共同生活组织成可执行的修道伦理。",
   "works": [
     "basil-hexaemeron",
     "basil-longer-rules"
   ],
   "sourceNotes": [
     {
-      "label": "W12-B1-S001",
+      "label": "S001",
       "url": "https://iep.utm.edu/byz-phil/",
       "noteZh": "IEP Byzantine Philosophy 总论用于核验希腊教父与拜占庭/东正教思想连续性。"
     },
     {
-      "label": "W12-B1-S002",
+      "label": "S002",
       "url": "https://www.britannica.com/biography/Saint-Basil-the-Great",
       "noteZh": "Britannica Basil 条目用于核验其生卒、卡帕多西亚教父身份和修道/神学位置。"
+    },
+    {
+      "label": "S003",
+      "url": "https://www.newadvent.org/fathers/32011.htm",
+      "noteZh": "New Advent / NPNF Hexaemeron 文本用于校准《六日创世讲道集》的 Homily 与段号 locator。"
     }
-  ]
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "basil-the-great:problem:001",
+        "titleZh": "创世叙事如何反驳无神自然解释？",
+        "questionZh": "巴西尔怎样借《创世记》开端，把世界的起源从偶然、永恒物质和哲学猜测中拉回创造者的意志与秩序？",
+        "summaryZh": "《六日创世讲道集》的起点不是自然分类，而是解释世界为何有开端、为何可被理解、为何不能被交给偶然或自发生成。巴西尔用“神创造”限制希腊自然哲学的过度推测，也让可见秩序成为指向创造者的神学证据。",
+        "themeIds": [
+          "metaphysics",
+          "religion",
+          "knowledge"
+        ],
+        "weight": 3,
+        "sourceIds": [
+          "S003"
+        ],
+        "claims": [
+          {
+            "id": "basil-the-great:claim:001",
+            "titleZh": "世界有开端且出自创造者意志",
+            "claimZh": "巴西尔把宇宙理解为由神自由创造的有始秩序，而不是由原子、偶然或与神并存的永恒物质自发推出。",
+            "explanationZh": "他反复围绕“起初神创造”展开：起初说明世界不是无始，创造说明世界不是自身原因，神的名号则把宇宙起源固定在智慧、善和能力上。",
+            "themeIds": [
+              "metaphysics",
+              "religion"
+            ],
+            "weight": 3,
+            "sourceIds": [
+              "S003"
+            ],
+            "evidence": [
+              {
+                "id": "basil-the-great:evidence:001",
+                "titleZh": "创世首句压过原子与偶然解释",
+                "summaryZh": "巴西尔在第一篇第二段把希腊哲学关于原子结合、分离和偶然支配宇宙的解释列为不稳固的猜测，并说摩西以“起初神创造”直接指出世界的治理者和起源。",
+                "sourceIds": [
+                  "S003"
+                ],
+                "source": {
+                  "workId": "basil-hexaemeron",
+                  "locator": "Hexaemeron, Homily 1, §2",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "basil-the-great:evidence:002",
+                "titleZh": "起初不是时间片段而是创造瞬间",
+                "summaryZh": "在第一篇第六段，巴西尔把“起初”解释为不可再分的开端，并说明世界在神的意志中即时出现，从而避免把创世理解为可被无限切割的自然过程。",
+                "sourceIds": [
+                  "S003"
+                ],
+                "source": {
+                  "workId": "basil-hexaemeron",
+                  "locator": "Hexaemeron, Homily 1, §6",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "basil-the-great:claim:002",
+            "titleZh": "受造秩序可引导理性但限制空洞本质追问",
+            "claimZh": "巴西尔承认可见世界能训练心智认识创造者，却要求解释服务于教会造就，而不是把理性耗在无法穷尽的实体追问上。",
+            "explanationZh": "他的创世论并非反理性，而是把理性安放在圣经叙事和灵魂造就之内：世界像工艺品显出创造者，讨论天、地实体却须止于有益界限。",
+            "themeIds": [
+              "knowledge",
+              "religion",
+              "metaphysics"
+            ],
+            "weight": 2,
+            "sourceIds": [
+              "S003"
+            ],
+            "evidence": [
+              {
+                "id": "basil-the-great:evidence:003",
+                "titleZh": "世界作为工艺品显明创造智慧",
+                "summaryZh": "第一篇第七段把世界比作创作完成后仍显示工匠智慧的作品；摩西说“神创造”，正是为了让观看者从世界的美与秩序追认创造者。",
+                "sourceIds": [
+                  "S003"
+                ],
+                "source": {
+                  "workId": "basil-hexaemeron",
+                  "locator": "Hexaemeron, Homily 1, §7",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "basil-the-great:evidence:004",
+                "titleZh": "实体追问必须服从教会造就",
+                "summaryZh": "第一篇第八段明确说若要追究每种可感存在的本质，会被拖入漫长枝节，且未必有益于教会；他因此把自然说明收束于圣经给出的造就性知识。",
+                "sourceIds": [
+                  "S003"
+                ],
+                "source": {
+                  "workId": "basil-hexaemeron",
+                  "locator": "Hexaemeron, Homily 1, §8",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "basil-the-great:problem:002",
+        "titleZh": "自然秩序怎样成为伦理和敬拜的教材？",
+        "questionZh": "巴西尔怎样从植物、星辰、动物和人的次序中读出神的护理，并把自然观察转化为反偶像崇拜和灵魂上升的伦理训练？",
+        "summaryZh": "巴西尔的自然解释不是单纯科普。他从地未成形、植物先于太阳、生命按类延续和人的直立姿态中读出秩序：自然受命而运行，受造物不该被神化，人也不可让低级欲望统治理性生命。",
+        "themeIds": [
+          "metaphysics",
+          "ethics",
+          "religion"
+        ],
+        "weight": 2,
+        "sourceIds": [
+          "S004"
+        ],
+        "claims": [
+          {
+            "id": "basil-the-great:claim:003",
+            "titleZh": "创世次序训练心智辨认护理而非崇拜自然物",
+            "claimZh": "巴西尔把创世日程看作纠偏工具：圣经的沉默、先后和命令都训练听众从受造物转向创造者。",
+            "explanationZh": "地、水、植物和太阳的次序不是随意铺排；巴西尔用这些细节说明自然的能产能力来自神命令，因而太阳、元素和生物都不能取代创造者。",
+            "themeIds": [
+              "religion",
+              "knowledge",
+              "metaphysics"
+            ],
+            "weight": 2,
+            "sourceIds": [
+              "S004"
+            ],
+            "evidence": [
+              {
+                "id": "basil-the-great:evidence:005",
+                "titleZh": "圣经沉默激发受约束的理性探究",
+                "summaryZh": "第二篇第二段解释水、气、火等虽未逐一列出，却可从“地不可见”推知它们已在受造整体中；圣经的沉默不是缺漏，而是训练心智活动。",
+                "sourceIds": [
+                  "S004"
+                ],
+                "source": {
+                  "workId": "basil-hexaemeron",
+                  "locator": "Hexaemeron, Homily 2, §2",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "basil-the-great:evidence:006",
+                "titleZh": "植物先于太阳以解除太阳崇拜",
+                "summaryZh": "第五篇第一段强调地在太阳出现前已按命令发芽结果，目的在于纠正把太阳当作生命来源的错误，使听众把地的丰饶归于创造命令。",
+                "sourceIds": [
+                  "S004"
+                ],
+                "source": {
+                  "workId": "basil-hexaemeron",
+                  "locator": "Hexaemeron, Homily 5, §1",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "basil-the-great:claim:004",
+            "titleZh": "生命等级把人带向自我治理",
+            "claimZh": "巴西尔把植物、动物和人的差异解释为一种伦理秩序：生命越高越要求理性摆脱腹欲和地面性，转向天上的目标。",
+            "explanationZh": "水生动物、陆上动物和人的身体姿态在他那里都可成为道德训诫；自然不是中立陈列，而是不断提醒人按照自身尊严生活。",
+            "themeIds": [
+              "ethics",
+              "life_death",
+              "religion"
+            ],
+            "weight": 3,
+            "sourceIds": [
+              "S004"
+            ],
+            "evidence": [
+              {
+                "id": "basil-the-great:evidence:007",
+                "titleZh": "水域生物显示感觉生命的新阶段",
+                "summaryZh": "第七篇第一段在解释水中生物和飞鸟时，区分植物的滋养生长与动物的生命和感觉，显示创世秩序中生命层级逐步展开。",
+                "sourceIds": [
+                  "S004"
+                ],
+                "source": {
+                  "workId": "basil-hexaemeron",
+                  "locator": "Hexaemeron, Homily 7, §1",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "basil-the-great:evidence:008",
+                "titleZh": "人直立向上召唤灵魂超越腹欲",
+                "summaryZh": "第九篇第二段把动物俯向地面与人头眼向天相对照，并据此劝人不要被腹部和肉体激情降格为无理性动物，而要寻求上面的事。",
+                "sourceIds": [
+                  "S004"
+                ],
+                "source": {
+                  "workId": "basil-hexaemeron",
+                  "locator": "Hexaemeron, Homily 9, §2",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "basil-the-great:problem:003",
+        "titleZh": "修道伦理为何必须落在共同生活中？",
+        "questionZh": "在巴西尔的《大规程》中，爱神、爱邻人与共同体生活如何把个人苦修转化为可被检验的伦理秩序？",
+        "summaryZh": "巴西尔的修道论不把独处英雄化，而是把诫命、记忆、彼此服事和互补恩赐联结起来。真正的爱必须在共同生活中经受需要、纠正、服事和谦卑的检验。",
+        "themeIds": [
+          "ethics",
+          "religion",
+          "politics"
+        ],
+        "weight": 3,
+        "sourceIds": [
+          "S005",
+          "S006"
+        ],
+        "claims": [
+          {
+            "id": "basil-the-great:claim:005",
+            "titleZh": "爱神首先表现为持续记忆与履行诫命",
+            "claimZh": "巴西尔把修道生活的起点放在对神恩惠的记忆和对诫命的回应上，而不是把苦修当作自足的宗教技术。",
+            "explanationZh": "《大规程》前部把爱神、受造恩惠和履行诫命连成一体；这种伦理框架使修行不只是身体节制，而是由爱组织起来的生活方式。",
+            "themeIds": [
+              "ethics",
+              "religion"
+            ],
+            "weight": 3,
+            "sourceIds": [
+              "S006"
+            ],
+            "evidence": [
+              {
+                "id": "basil-the-great:evidence:009",
+                "titleZh": "由受造与神恩引出爱神的常久记忆",
+                "summaryZh": "《大规程》第二问围绕爱神展开，强调即便不能把握神的本质，也应因神的善、创造和赐予而持续记念并依附于神。",
+                "sourceIds": [
+                  "S006"
+                ],
+                "source": {
+                  "workId": "basil-longer-rules",
+                  "locator": "Longer Rules, Question 2",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "basil-the-great:evidence:010",
+                "titleZh": "爱不是名义而要进入诫命实践",
+                "summaryZh": "《大规程》第二问还把完全之路和基督诫命联系起来，说明信仰若不落实为顺服和行为，爱就会停留在名义而不能塑造生活。",
+                "sourceIds": [
+                  "S006"
+                ],
+                "source": {
+                  "workId": "basil-longer-rules",
+                  "locator": "Longer Rules, Question 2",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "basil-the-great:claim:006",
+            "titleZh": "共同体比孤居更能检验爱邻人",
+            "claimZh": "巴西尔认为共同生活不是修道外壳，而是爱邻人、互相服事和恩赐互补得以真实发生的条件。",
+            "explanationZh": "孤居容易让人只照料自身需要；共同体则暴露人的缺乏，并让洗脚、照看、谦卑、纠错和互用恩赐成为日常伦理。",
+            "themeIds": [
+              "ethics",
+              "religion",
+              "politics"
+            ],
+            "weight": 2,
+            "sourceIds": [
+              "S005"
+            ],
+            "evidence": [
+              {
+                "id": "basil-the-great:evidence:011",
+                "titleZh": "无人能在身体和灵性需要上自足",
+                "summaryZh": "《大规程》第七问论共同生活，指出多人同处更有益，因为日常身体需要已表明无人自足，属灵恩赐也必须在彼此缺乏中互补。",
+                "sourceIds": [
+                  "S005"
+                ],
+                "source": {
+                  "workId": "basil-longer-rules",
+                  "locator": "Longer Rules, Question 7",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "basil-the-great:evidence:012",
+                "titleZh": "孤居难以实行洗脚照料与居末位",
+                "summaryZh": "第七问进一步反问孤居者能为谁洗脚、照料谁、在谁面前居末位；这把爱邻人从抽象情感推进到共同生活中的可见服事。",
+                "sourceIds": [
+                  "S005"
+                ],
+                "source": {
+                  "workId": "basil-longer-rules",
+                  "locator": "Longer Rules, Question 7",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
 }

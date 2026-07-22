@@ -1,6 +1,6 @@
 {
   "id": "gregory-of-nyssa",
-  "tier": "seed",
+  "tier": "standard",
   "names": {
     "zh": "尼撒的格里高利",
     "en": "Gregory of Nyssa",
@@ -35,21 +35,344 @@
   "oneLineZh": "卡帕多西亚三杰之一，以神秘神学、无限进展和人论深化希腊教父传统。",
   "influenceWeight": 3,
   "reviewStatus": "draft",
-  "summaryZh": "尼撒的格里高利把新柏拉图主义背景、圣经诠释和基督教人论结合起来，在《摩西的生平》《论人的创造》中处理灵魂上升、无限进展和人被造问题。本 seed 档按希腊教父身份层收录。",
+  "summaryZh": "尼撒的格里高利把新柏拉图主义背景、圣经诠释和基督教人论结合起来，在《摩西的生平》《论人的创造》中处理灵魂上升、无限进展和人被造问题。本标准候选把他的差异点集中在三条主线：认识神并不是占有定义，而是在黑暗和不可把握中继续追随；人的神像性表现为自由、理性和王者式尊严；身心同生与复活论把生命、死亡和恢复纳入一套神学人类学。",
   "works": [
     "gregory-nyssa-life-of-moses",
     "gregory-nyssa-making-of-man"
   ],
   "sourceNotes": [
     {
-      "label": "W12-B1-S005",
+      "label": "S001",
       "url": "https://iep.utm.edu/byz-phil/",
       "noteZh": "IEP Byzantine Philosophy 总论用于核验希腊教父与新柏拉图主义背景的思想史连接。"
     },
     {
-      "label": "W12-B1-S006",
+      "label": "S013",
       "url": "https://www.britannica.com/biography/Saint-Gregory-of-Nyssa",
       "noteZh": "Britannica Gregory of Nyssa 条目用于核验其生卒、卡帕多西亚教父身份和神秘神学口径。"
+    },
+    {
+      "label": "S014",
+      "url": "https://www.newadvent.org/fathers/2914.htm",
+      "noteZh": "New Advent / NPNF On the Making of Man 文本用于校准《论人的创造》的章号 locator。"
     }
-  ]
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "gregory-of-nyssa:problem:001",
+        "titleZh": "灵魂趋向神为何没有终点？",
+        "questionZh": "尼撒的格里高利怎样用摩西叙事说明完美不是静止占有，而是在无限善前不断增长的追随？",
+        "summaryZh": "《摩西的生平》把摩西的上升解释为灵魂的范式。因为神的善没有边界，灵魂的德性与认识也不能停在一个完成点；越接近神，越以新的渴望继续前进。",
+        "themeIds": [
+          "religion",
+          "metaphysics",
+          "life_death"
+        ],
+        "weight": 3,
+        "sourceIds": [
+          "S015",
+          "S016"
+        ],
+        "claims": [
+          {
+            "id": "gregory-of-nyssa:claim:001",
+            "titleZh": "完美就是不停止向更好者增长",
+            "claimZh": "尼撒的格里高利把完美定义为永不停止的进展，而不是灵魂达到某个可封闭的终局状态。",
+            "explanationZh": "这就是后来常被称作 epektasis 的思想：无限善不会被有限灵魂耗尽，因此德性生命不是抵达后停步，而是在每一高度重新开始。",
+            "themeIds": [
+              "religion",
+              "ethics",
+              "life_death"
+            ],
+            "weight": 3,
+            "sourceIds": [
+              "S015",
+              "S016"
+            ],
+            "evidence": [
+              {
+                "id": "gregory-of-nyssa:evidence:001",
+                "titleZh": "完美不设边界而持续向善增长",
+                "summaryZh": "《摩西的生平》第一卷第十节把真正完美说明为永不停止地向更好者增长，并拒绝为完美划定终止边界。",
+                "sourceIds": [
+                  "S015",
+                  "S016"
+                ],
+                "source": {
+                  "workId": "gregory-nyssa-life-of-moses",
+                  "locator": "Life of Moses, Book I, §10",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "gregory-of-nyssa:evidence:002",
+                "titleZh": "对神的观看以不满足的渴望延续",
+                "summaryZh": "第二卷第二三九节把看见神解释为永不满足于已经看见者，而是在可见之中重新点燃更多观看的渴望；向神上升没有可发现的终限。",
+                "sourceIds": [
+                  "S015",
+                  "S016"
+                ],
+                "source": {
+                  "workId": "gregory-nyssa-life-of-moses",
+                  "locator": "Life of Moses, Book II, §239",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "gregory-of-nyssa:claim:002",
+            "titleZh": "更高认识表现为黑暗中的不占有",
+            "claimZh": "格里高利把神秘认识推进到“看见即不看见”：灵魂越上升，越承认神超越概念掌握。",
+            "explanationZh": "他不是否定认识，而是反对把神变成对象。摩西从光到云再到黑暗的进程说明，神的临在并不因不可定义而消失，反而迫使认识转化为追随。",
+            "themeIds": [
+              "knowledge",
+              "religion",
+              "metaphysics"
+            ],
+            "weight": 2,
+            "sourceIds": [
+              "S015",
+              "S016"
+            ],
+            "evidence": [
+              {
+                "id": "gregory-of-nyssa:evidence:003",
+                "titleZh": "从光到云再入黑暗标志更高认识",
+                "summaryZh": "第二卷第一六二至一六三节把摩西先见光、再入云、最后在黑暗中遇神解释为认识的进阶，真正知识承认所求者被不可把握性包围。",
+                "sourceIds": [
+                  "S015",
+                  "S016"
+                ],
+                "source": {
+                  "workId": "gregory-nyssa-life-of-moses",
+                  "locator": "Life of Moses, Book II, §§162-163",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "gregory-of-nyssa:evidence:004",
+                "titleZh": "看见神转化为持续跟随神",
+                "summaryZh": "第二卷第二三一至二三三节和二三八至二三九节把摩西请求见神面与见背后的叙事转成跟随逻辑：不能占有神，只能不断沿其踪迹前行。",
+                "sourceIds": [
+                  "S015",
+                  "S016"
+                ],
+                "source": {
+                  "workId": "gregory-nyssa-life-of-moses",
+                  "locator": "Life of Moses, Book II, §§231-233, 238-239",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "gregory-of-nyssa:problem:002",
+        "titleZh": "人作为神像意味着什么？",
+        "questionZh": "在《论人的创造》中，尼撒的格里高利怎样把人的尊严、自由和理性说明为神像性，而非简单的宇宙缩影？",
+        "summaryZh": "格里高利把人的创造放在世界完成之后，因为人要作为观看者、统治者和神像进入受造秩序。人的尊贵不在于由四元素组成，而在于分享善、理性、自由和王者式治理能力。",
+        "themeIds": [
+          "metaphysics",
+          "religion",
+          "ethics"
+        ],
+        "weight": 3,
+        "sourceIds": [
+          "S014"
+        ],
+        "claims": [
+          {
+            "id": "gregory-of-nyssa:claim:003",
+            "titleZh": "人最后被造是为进入预备好的王室世界",
+            "claimZh": "格里高利把人置于创世秩序末尾，说明世界先作为王宫和宴席被预备，人随后作为观看者与治理者出现。",
+            "explanationZh": "这不是人类中心主义的任意夸张，而是把受造世界的美、人的感性享用和对赐予者的认识联系起来；人的地位来自其神像使命。",
+            "themeIds": [
+              "metaphysics",
+              "religion"
+            ],
+            "weight": 2,
+            "sourceIds": [
+              "S014"
+            ],
+            "evidence": [
+              {
+                "id": "gregory-of-nyssa:evidence:005",
+                "titleZh": "世界先备妥后君王才显现",
+                "summaryZh": "《论人的创造》第二章把世界比作已经布置好的王宫和宴席，说明统治者不应早于被治理者出现，人最后进入是为观看、享用并认识赐予者。",
+                "sourceIds": [
+                  "S014"
+                ],
+                "source": {
+                  "workId": "gregory-nyssa-making-of-man",
+                  "locator": "On the Making of Man, ch. 2",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "gregory-of-nyssa:evidence:006",
+                "titleZh": "人的构造显示王者式治理能力",
+                "summaryZh": "第四章说最好的工匠把人造成适于王权的形态：灵魂不受私人主人支配而能自我治理，并因像万有君王而具有治理使命。",
+                "sourceIds": [
+                  "S014"
+                ],
+                "source": {
+                  "workId": "gregory-nyssa-making-of-man",
+                  "locator": "On the Making of Man, ch. 4",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "gregory-of-nyssa:claim:004",
+            "titleZh": "神像性核心在善、自由和德性",
+            "claimZh": "格里高利拒绝把人的伟大理解为小宇宙式元素相似，而把神像性解释为分享善、自由选择和德性能力。",
+            "explanationZh": "这使人论进入伦理层面：若神是善的圆满，神像就意味着被造人受召参与善；德性若由强迫产生，就不再是德性。",
+            "themeIds": [
+              "ethics",
+              "metaphysics",
+              "religion"
+            ],
+            "weight": 3,
+            "sourceIds": [
+              "S014"
+            ],
+            "evidence": [
+              {
+                "id": "gregory-of-nyssa:evidence:007",
+                "titleZh": "人的伟大不在于像会败坏的世界",
+                "summaryZh": "第十六章开头反驳把人称作“小世界”的夸耀，因为蚊虫鼠类也由相同元素构成；人的伟大在于像创造者而非像受造世界。",
+                "sourceIds": [
+                  "S014"
+                ],
+                "source": {
+                  "workId": "gregory-nyssa-making-of-man",
+                  "locator": "On the Making of Man, ch. 16",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "gregory-of-nyssa:evidence:008",
+                "titleZh": "神像意味着参与善并拥有自由",
+                "summaryZh": "第十六章第十至十一段把“按神形象”解释为分享一切善，其中最突出的是不受必然性奴役而能按自身决定行动，因为被强迫者不能称为德性。",
+                "sourceIds": [
+                  "S014"
+                ],
+                "source": {
+                  "workId": "gregory-nyssa-making-of-man",
+                  "locator": "On the Making of Man, ch. 16",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "gregory-of-nyssa:problem:003",
+        "titleZh": "身心与复活如何重塑生死问题？",
+        "questionZh": "格里高利如何同时拒绝灵魂先存和身体优先，并由身心相属说明复活不是荒诞而是神能恢复整全人的方式？",
+        "summaryZh": "《论人的创造》后部把生死问题推进到身心关系和复活论。格里高利既反对灵魂先存，也反对身体先成而灵魂后加；他还用神的知识、灵魂与身体的相属和自然类比说明复活可被理解。",
+        "themeIds": [
+          "life_death",
+          "metaphysics",
+          "religion"
+        ],
+        "weight": 2,
+        "sourceIds": [
+          "S014"
+        ],
+        "claims": [
+          {
+            "id": "gregory-of-nyssa:claim:005",
+            "titleZh": "身体和灵魂同入存在并共同成长",
+            "claimZh": "格里高利拒绝灵魂预先存在或身体先于灵魂的二分，把人理解为从生命开端即身心相连的整体。",
+            "explanationZh": "他由生命发生和成长过程说明灵魂能力随身体器官成熟而显现；这避免把身体贬为后来附加物，也避免把灵魂说成堕入身体的先存者。",
+            "themeIds": [
+              "metaphysics",
+              "life_death"
+            ],
+            "weight": 2,
+            "sourceIds": [
+              "S014"
+            ],
+            "evidence": [
+              {
+                "id": "gregory-of-nyssa:evidence:009",
+                "titleZh": "双重错误分别是灵魂先存和身体先成",
+                "summaryZh": "第二十八章列举两种待批评观点：一方说灵魂先在独立状态后下降入体，另一方说身体先由尘土造成而灵魂后来注入；二者都被纳入反驳对象。",
+                "sourceIds": [
+                  "S014"
+                ],
+                "source": {
+                  "workId": "gregory-nyssa-making-of-man",
+                  "locator": "On the Making of Man, ch. 28",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "gregory-of-nyssa:evidence:010",
+                "titleZh": "灵魂能力随身体成熟逐渐显现",
+                "summaryZh": "第二十九章说明未来人的形态和灵魂都潜在地在生命开端中，理性、欲求等能力随身体成长逐步显明，如同植物从根到果实逐渐展开。",
+                "sourceIds": [
+                  "S014"
+                ],
+                "source": {
+                  "workId": "gregory-nyssa-making-of-man",
+                  "locator": "On the Making of Man, ch. 29",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "gregory-of-nyssa:claim:006",
+            "titleZh": "复活依据神能和身心相属而可理解",
+            "claimZh": "格里高利把复活论建立在神对世界成分的知识、身体形式的持续可识别性，以及灵魂对自身身体的相属关系上。",
+            "explanationZh": "他不否认身体会分解为元素，却认为这不足以限制神能；身体元素虽分散，仍在神手中的世界内，并可由灵魂与形式的相属重新归还个人。",
+            "themeIds": [
+              "life_death",
+              "religion",
+              "metaphysics"
+            ],
+            "weight": 3,
+            "sourceIds": [
+              "S014"
+            ],
+            "evidence": [
+              {
+                "id": "gregory-of-nyssa:evidence:011",
+                "titleZh": "身体元素虽分散仍在神的世界中",
+                "summaryZh": "第二十六章承认人体会回到土、气、水等同类元素，甚至经火、兽、鱼而分散，但这些仍在神掌握的世界中，不能超过神的知识和能力。",
+                "sourceIds": [
+                  "S014"
+                ],
+                "source": {
+                  "workId": "gregory-nyssa-making-of-man",
+                  "locator": "On the Making of Man, ch. 26",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "gregory-of-nyssa:evidence:012",
+                "titleZh": "灵魂与身体形式保留重新归属的标记",
+                "summaryZh": "第二十七章用畜群归主、印章、种子吸取相应滋养等类比，说明灵魂与身体之间有相属标记，复活时各人可从共同元素中取回自身。",
+                "sourceIds": [
+                  "S014"
+                ],
+                "source": {
+                  "workId": "gregory-nyssa-making-of-man",
+                  "locator": "On the Making of Man, ch. 27",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
 }

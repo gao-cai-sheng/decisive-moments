@@ -17109,7 +17109,7 @@
   },
   {
     "id": "basil-the-great",
-    "tier": "seed",
+    "tier": "standard",
     "names": {
       "zh": "大巴西尔（该撒利亚的巴西尔）",
       "en": "Basil the Great",
@@ -17147,7 +17147,7 @@
   },
   {
     "id": "gregory-of-nazianzus",
-    "tier": "seed",
+    "tier": "standard",
     "names": {
       "zh": "拿先斯的格里高利",
       "en": "Gregory of Nazianzus",
@@ -17170,7 +17170,8 @@
     ],
     "themes": [
       "religion",
-      "metaphysics"
+      "metaphysics",
+      "language"
     ],
     "keywordsZh": [
       "神学家",
@@ -17184,7 +17185,7 @@
   },
   {
     "id": "gregory-of-nyssa",
-    "tier": "seed",
+    "tier": "standard",
     "names": {
       "zh": "尼撒的格里高利",
       "en": "Gregory of Nyssa",
@@ -17525,7 +17526,7 @@
   },
   {
     "id": "mani",
-    "tier": "seed",
+    "tier": "standard",
     "names": {
       "zh": "摩尼",
       "en": "Mani",
