@@ -1,13 +1,15 @@
 import { useState } from "react";
+import { useT, type MessageKey } from "../i18n";
 
 const storageKey = "qunxing-onboarded-v1";
-const steps = [
-  ["哲人如星", "每颗星代表一位哲人，文明、时代与主题共同塑造星图位置。"],
-  ["搜命题", "搜索正义、死亡、自由等问题，可以看到相关哲人与精选论述。"],
-  ["留札记", "收藏哲人和论述，在本机写下自己的思想札记。"],
+const steps: [MessageKey, MessageKey][] = [
+  ["onboarding.step1.title", "onboarding.step1.body"],
+  ["onboarding.step2.title", "onboarding.step2.body"],
+  ["onboarding.step3.title", "onboarding.step3.body"],
 ];
 
 export function Onboarding() {
+  const t = useT();
   const [step, setStep] = useState(() => (localStorage.getItem(storageKey) ? -1 : 0));
   if (step < 0) return null;
 
@@ -15,7 +17,7 @@ export function Onboarding() {
     localStorage.setItem(storageKey, "1");
     setStep(-1);
   };
-  const [title, body] = steps[step];
+  const [titleKey, bodyKey] = steps[step];
 
   return (
     <div className="onboarding-overlay">
@@ -23,17 +25,17 @@ export function Onboarding() {
         <div className="muted">
           {step + 1} / {steps.length}
         </div>
-        <h2>{title}</h2>
-        <p>{body}</p>
+        <h2>{t(titleKey)}</h2>
+        <p>{t(bodyKey)}</p>
         <button className="hud-button" type="button" onClick={close}>
-          跳过
+          {t("onboarding.skip")}
         </button>
         <button
           className="hud-button onboarding-primary"
           type="button"
           onClick={() => (step === steps.length - 1 ? close() : setStep(step + 1))}
         >
-          {step === steps.length - 1 ? "开始漫游" : "下一步"}
+          {step === steps.length - 1 ? t("onboarding.start") : t("onboarding.next")}
         </button>
       </section>
     </div>

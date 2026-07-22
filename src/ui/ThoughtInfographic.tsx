@@ -1,22 +1,8 @@
 import { useMemo, useState, type CSSProperties } from "react";
 import type { Philosopher } from "../data/schemas";
+import { pickName, useT, type MessageKey } from "../i18n";
 import { civilizationColors } from "../scene/PhilosopherStars";
 import { useAppStore } from "../store/appStore";
-
-const relationshipTypeLabels: Record<string, string> = {
-  direct_student: "师承",
-  influence: "影响",
-  school: "学派",
-  shared_problem: "共同问题",
-  critique: "批判",
-  reception: "接受",
-};
-
-const excerptStatusLabels = {
-  public_domain: "公版摘录",
-  summary_only: "摘要",
-  none: "无摘录",
-} as const;
 
 type ThoughtInfographicProps = {
   philosopher: Philosopher;
@@ -24,6 +10,8 @@ type ThoughtInfographicProps = {
 
 // 全屏信息图：一颗思想行星（问题）的完整子树铺开——主张、证据、逐字引文、外延。
 export function ThoughtInfographic({ philosopher }: ThoughtInfographicProps) {
+  const t = useT();
+  const locale = useAppStore((state) => state.locale);
   const problemId = useAppStore((state) => state.selectedThoughtProblemId);
   const selectThoughtProblem = useAppStore((state) => state.selectThoughtProblem);
   const selectedClaimId = useAppStore((state) => state.selectedThoughtClaimId);
@@ -34,10 +22,19 @@ export function ThoughtInfographic({ philosopher }: ThoughtInfographicProps) {
   const philosophers = useAppStore((state) => state.philosophers);
 
   const selectPhilosopher = useAppStore((state) => state.selectPhilosopher);
-  const workTitleById = useMemo(() => new Map(works.map((work) => [work.id, work.titleZh])), [works]);
-  const themeNameById = useMemo(() => new Map(themes.map((theme) => [theme.id, theme.zh])), [themes]);
+  const workTitleById = useMemo(
+    () => new Map(works.map((work) => [work.id, locale === "en" && work.titleEn ? work.titleEn : work.titleZh])),
+    [works, locale],
+  );
+  const themeNameById = useMemo(
+    () => new Map(themes.map((theme) => [theme.id, locale === "en" ? theme.en : theme.zh])),
+    [themes, locale],
+  );
   const themeById = useMemo(() => new Map(themes.map((theme) => [theme.id, theme])), [themes]);
-  const nameById = useMemo(() => new Map(philosophers.map((p) => [p.id, p.names.zh])), [philosophers]);
+  const nameById = useMemo(
+    () => new Map(philosophers.map((p) => [p.id, pickName(p.names, locale)])),
+    [philosophers, locale],
+  );
 
   // 外延详情条：{ claimId, kind: 主题 | 关系, key }
   const [ext, setExt] = useState<{ claimId: string; kind: "theme" | "relation"; key: string } | null>(null);
@@ -61,15 +58,17 @@ export function ThoughtInfographic({ philosopher }: ThoughtInfographicProps) {
       style={{ "--accent": accent } as CSSProperties}
       onClick={close}
       role="dialog"
-      aria-label={`${problem.titleZh} 信息图`}
+      aria-label={t("infographic.aria", { title: problem.titleZh })}
     >
       <div className="infographic-frame" onClick={(event) => event.stopPropagation()}>
         <button className="hud-button infographic-close" type="button" onClick={close}>
-          返回恒星系（Esc）
+          {t("infographic.back")}
         </button>
 
         <aside className="infographic-planet">
-          <p className="infographic-philosopher">{philosopher.names.zh} · 思想行星</p>
+          <p className="infographic-philosopher">
+            {t("infographic.planetTag", { name: pickName(philosopher.names, locale) })}
+          </p>
           <h1>{problem.titleZh}</h1>
           <p className="infographic-question">{problem.questionZh}</p>
           <p className="infographic-summary">{problem.summaryZh}</p>
@@ -115,7 +114,7 @@ export function ThoughtInfographic({ philosopher }: ThoughtInfographicProps) {
                           <span>{workTitleById.get(evidence.source.workId) ?? evidence.source.workId}</span>
                         )}
                         {evidence.source.locator && <span>{evidence.source.locator}</span>}
-                        <span>{excerptStatusLabels[evidence.source.excerptStatus]}</span>
+                        <span>{t(`excerptStatus.${evidence.source.excerptStatus}` as MessageKey)}</span>
                       </p>
                     </div>
                   ))}
@@ -123,7 +122,7 @@ export function ThoughtInfographic({ philosopher }: ThoughtInfographicProps) {
 
                 {claimThemes.length > 0 && (
                   <footer className="infographic-extension">
-                    <span className="infographic-extension-label">外延</span>
+                    <span className="infographic-extension-label">{t("infographic.extension")}</span>
                     {claimThemes.map((themeId) => (
                       <em
                         key={themeId}
@@ -148,7 +147,7 @@ export function ThoughtInfographic({ philosopher }: ThoughtInfographicProps) {
                           }}
                         >
                           {r.from === philosopher.id ? "→" : "←"} {nameById.get(otherId) ?? otherId}（
-                          {relationshipTypeLabels[r.type] ?? r.type}）
+                          {t(`relationshipType.${r.type}` as MessageKey)}）
                         </span>
                       );
                     })}
@@ -166,12 +165,16 @@ export function ThoughtInfographic({ philosopher }: ThoughtInfographicProps) {
                       return (
                         <>
                           <p className="infographic-ext-detail-title">
-                            主题 · {theme?.zh ?? ext.key}
+                            {t("infographic.themeDetailTitle", { name: themeNameById.get(ext.key) ?? ext.key })}
                             {theme?.aliasesZh?.length ? <span className="muted">（{theme.aliasesZh.join(" / ")}）</span> : null}
                           </p>
                           <p>
-                            本库 {related.length} 条思想关联涉及此主题
-                            {involved.length > 0 ? `：${involved.join("、")}${related.length > 14 ? " 等" : ""}` : ""}
+                            {involved.length > 0
+                              ? t("infographic.themeRelatedNames", {
+                                  count: related.length,
+                                  names: involved.join("、"),
+                                }) + (related.length > 14 ? t("infographic.andMore") : "")
+                              : t("infographic.themeRelated", { count: related.length })}
                           </p>
                         </>
                       );
@@ -183,11 +186,12 @@ export function ThoughtInfographic({ philosopher }: ThoughtInfographicProps) {
                       return (
                         <>
                           <p className="infographic-ext-detail-title">
-                            {nameById.get(r.from) ?? r.from} ─{relationshipTypeLabels[r.type] ?? r.type}→{" "}
+                            {nameById.get(r.from) ?? r.from} ─{t(`relationshipType.${r.type}` as MessageKey)}→{" "}
                             {nameById.get(r.to) ?? r.to}
                           </p>
                           <p>
-                            强度 {"★".repeat(r.strength ?? 1)} · 置信度 {r.confidence ?? "—"} · 共同主题：
+                            {t("infographic.strength")} {"★".repeat(r.strength ?? 1)} · {t("infographic.confidence")}{" "}
+                            {r.confidence ?? "—"} · {t("infographic.sharedThemes")}
                             {(r.themeIds ?? []).map((themeId) => themeNameById.get(themeId) ?? themeId).join("、") || "—"}
                           </p>
                           <button
@@ -195,7 +199,7 @@ export function ThoughtInfographic({ philosopher }: ThoughtInfographicProps) {
                             type="button"
                             onClick={() => selectPhilosopher(otherId)}
                           >
-                            前往 {nameById.get(otherId) ?? otherId} 的恒星系 →
+                            {t("infographic.goto", { name: nameById.get(otherId) ?? otherId })}
                           </button>
                         </>
                       );

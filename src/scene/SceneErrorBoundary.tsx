@@ -1,4 +1,6 @@
 import { Component, Fragment, type ReactNode } from "react";
+import { translate } from "../i18n";
+import { useAppStore } from "../store/appStore";
 
 const MAX_RETRIES = 5;
 const RETRY_DELAY_MS = 600;
@@ -33,7 +35,8 @@ export class SceneErrorBoundary extends Component<SceneErrorBoundaryProps, Scene
     if (this.state.failed) {
       return this.state.generation >= MAX_RETRIES ? (
         <div className="loading-screen">
-          <p>星图渲染多次失败，请刷新页面重试。</p>
+          {/* 类组件不订阅 store：极端失败态下取当前 locale 一次性渲染即可 */}
+          <p>{translate(useAppStore.getState().locale, "scene.crashRetry")}</p>
         </div>
       ) : null;
     }

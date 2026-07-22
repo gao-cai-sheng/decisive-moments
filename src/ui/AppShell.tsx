@@ -7,6 +7,7 @@ import {
   getThemes,
   getWorks,
 } from "../data/client";
+import { useT } from "../i18n";
 import { SceneErrorBoundary } from "../scene/SceneErrorBoundary";
 import { StarScene } from "../scene/StarScene";
 import { hasWebGlSupport } from "../scene/webglSupport";
@@ -21,6 +22,7 @@ import { ThoughtInfographic } from "./ThoughtInfographic";
 import { TopHud } from "./TopHud";
 
 export function AppShell() {
+  const t = useT();
   const loaded = useAppStore((state) => state.loaded);
   const loadError = useAppStore((state) => state.loadError);
   const selectedPhilosopherId = useAppStore((state) => state.selectedPhilosopherId);
@@ -57,7 +59,7 @@ export function AppShell() {
 
   if (loadError) return <LoadingScreen error={loadError} />;
   if (!loaded) return <LoadingScreen />;
-  if (!hasWebGlSupport()) return <LoadingScreen error="此设备或浏览器没有可用的 WebGL，无法渲染思想星图。" />;
+  if (!hasWebGlSupport()) return <LoadingScreen error={t("loading.noWebgl")} />;
 
   return (
     <main className="app">

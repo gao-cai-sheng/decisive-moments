@@ -1,8 +1,17 @@
 import { create } from "zustand";
 import type { Argument, Philosopher, PhilosopherIndexEntry, Relationship, RelationshipType, Theme, Work } from "../data/schemas";
 import type { StarMapFilters } from "../domain/filters/starFilters";
+import { LOCALE_STORAGE_KEY, type Locale } from "../i18n/messages";
 
 type Quality = "low" | "high";
+
+function readInitialLocale(): Locale {
+  try {
+    return localStorage.getItem(LOCALE_STORAGE_KEY) === "en" ? "en" : "zh";
+  } catch {
+    return "zh";
+  }
+}
 
 type AppState = {
   loaded: boolean;
@@ -18,6 +27,7 @@ type AppState = {
   selectedThoughtClaimId: string | null;
   searchQuery: string;
   quality: Quality;
+  locale: Locale;
   filters: StarMapFilters;
   collectionsOpen: boolean;
   settingsOpen: boolean;
@@ -35,6 +45,7 @@ type AppState = {
   setSelectedPhilosopher(philosopher: Philosopher | null): void;
   setSearchQuery(query: string): void;
   setQuality(quality: Quality): void;
+  setLocale(locale: Locale): void;
   setFilter(name: keyof Omit<StarMapFilters, "relationshipTypes">, value: string): void;
   toggleRelationshipType(type: RelationshipType): void;
   clearFilters(): void;
@@ -56,6 +67,7 @@ export const useAppStore = create<AppState>((set) => ({
   selectedThoughtClaimId: null,
   searchQuery: "",
   quality: "high",
+  locale: readInitialLocale(),
   filters: { relationshipTypes: [] },
   collectionsOpen: false,
   settingsOpen: false,
@@ -68,6 +80,17 @@ export const useAppStore = create<AppState>((set) => ({
   setSelectedPhilosopher: (philosopher) => set({ selectedPhilosopher: philosopher }),
   setSearchQuery: (query) => set({ searchQuery: query }),
   setQuality: (quality) => set({ quality }),
+  setLocale: (locale) => {
+    try {
+      localStorage.setItem(LOCALE_STORAGE_KEY, locale);
+    } catch {
+      // 私有模式等 localStorage 不可写场景：仅本次会话生效
+    }
+    if (typeof document !== "undefined") {
+      document.documentElement.lang = locale === "zh" ? "zh-CN" : "en";
+    }
+    set({ locale });
+  },
   setFilter: (name, value) =>
     set((state) => {
       const next = { ...state.filters };

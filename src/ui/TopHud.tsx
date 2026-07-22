@@ -1,15 +1,7 @@
 import { useMemo } from "react";
 import type { RelationshipType } from "../data/schemas";
+import { useT, type MessageKey } from "../i18n";
 import { useAppStore } from "../store/appStore";
-
-const relationshipTypeLabels: Record<RelationshipType, string> = {
-  direct_student: "师承",
-  influence: "影响",
-  school: "学派",
-  shared_problem: "共同问题",
-  critique: "批判",
-  reception: "接受",
-};
 
 function uniqueSorted(values: string[]) {
   return [...new Set(values)].sort((a, b) => a.localeCompare(b));
@@ -26,11 +18,12 @@ function SelectFilter({
   options: string[];
   onChange(value: string): void;
 }) {
+  const t = useT();
   return (
     <label className="hud-filter">
       <span>{label}</span>
       <select value={value} onChange={(event) => onChange(event.target.value)}>
-        <option value="">全部</option>
+        <option value="">{t("common.all")}</option>
         {options.map((option) => (
           <option key={option} value={option}>
             {option}
@@ -42,6 +35,7 @@ function SelectFilter({
 }
 
 export function TopHud() {
+  const t = useT();
   const searchQuery = useAppStore((state) => state.searchQuery);
   const setSearchQuery = useAppStore((state) => state.setSearchQuery);
   const toggleCollections = useAppStore((state) => state.toggleCollections);
@@ -66,40 +60,40 @@ export function TopHud() {
 
   return (
     <header className="hud-top">
-      <div className="brand">群星闪耀时</div>
+      <div className="brand">{t("brand.title")}</div>
       <input
         className="search-input"
         value={searchQuery}
         onChange={(event) => setSearchQuery(event.target.value)}
-        placeholder="搜索哲人、文明、命题..."
-        aria-label="搜索哲人、文明、命题"
+        placeholder={t("hud.searchPlaceholder")}
+        aria-label={t("hud.searchAria")}
       />
-      <div className="hud-filters" aria-label="星图筛选">
+      <div className="hud-filters" aria-label={t("hud.filtersAria")}>
         <SelectFilter
-          label="文明"
+          label={t("hud.civilization")}
           value={filters.civilization ?? ""}
           options={options.civilizations}
           onChange={(value) => setFilter("civilization", value)}
         />
         <SelectFilter
-          label="时期"
+          label={t("hud.period")}
           value={filters.period ?? ""}
           options={options.periods}
           onChange={(value) => setFilter("period", value)}
         />
         <SelectFilter
-          label="传统"
+          label={t("hud.tradition")}
           value={filters.tradition ?? ""}
           options={options.traditions}
           onChange={(value) => setFilter("tradition", value)}
         />
         <SelectFilter
-          label="主题"
+          label={t("hud.theme")}
           value={filters.theme ?? ""}
           options={options.themes}
           onChange={(value) => setFilter("theme", value)}
         />
-        <div className="relationship-type-filters" aria-label="关系类型筛选">
+        <div className="relationship-type-filters" aria-label={t("hud.relationshipFiltersAria")}>
           {options.relationshipTypes.map((type) => {
             const selected = filters.relationshipTypes.includes(type);
             return (
@@ -110,20 +104,20 @@ export function TopHud() {
                 type="button"
                 onClick={() => toggleRelationshipType(type)}
               >
-                {relationshipTypeLabels[type] ?? type}
+                {t(`relationshipType.${type}` as MessageKey)}
               </button>
             );
           })}
         </div>
         <button className="hud-button" type="button" onClick={clearFilters}>
-          清除筛选
+          {t("hud.clearFilters")}
         </button>
       </div>
       <button className="hud-button" type="button" onClick={toggleCollections}>
-        收藏
+        {t("hud.collections")}
       </button>
       <button className="hud-button" type="button" onClick={toggleSettings}>
-        设置
+        {t("hud.settings")}
       </button>
     </header>
   );

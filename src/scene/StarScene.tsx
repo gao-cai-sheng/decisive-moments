@@ -4,6 +4,7 @@ import { Canvas, useFrame } from "@react-three/fiber";
 import { useEffect, useMemo, useRef, useState, type ReactNode } from "react";
 import * as THREE from "three";
 import type { Philosopher, PhilosopherIndexEntry } from "../data/schemas";
+import { pickName } from "../i18n";
 import { filterPhilosophersForStarMap } from "../domain/filters/starFilters";
 import { computeStarLayout, type StarLayoutNode } from "../domain/layout/starLayout";
 import { useAppStore } from "../store/appStore";
@@ -100,7 +101,11 @@ type StarNameTwinkleProps = {
 
 function StarNameTwinkle({ layout, philosophers, selectedId }: StarNameTwinkleProps) {
   const [cycle, setCycle] = useState(0);
-  const names = useMemo(() => new Map(philosophers.map((item) => [item.id, item.names.zh])), [philosophers]);
+  const locale = useAppStore((state) => state.locale);
+  const names = useMemo(
+    () => new Map(philosophers.map((item) => [item.id, pickName(item.names, locale)])),
+    [philosophers, locale],
+  );
 
   useEffect(() => {
     const timer = setInterval(() => setCycle((value) => value + 1), 3600);

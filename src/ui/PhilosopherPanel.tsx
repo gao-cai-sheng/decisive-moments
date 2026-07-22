@@ -1,29 +1,17 @@
 import { useEffect, useMemo, useRef, useState } from "react";
 import type { Philosopher } from "../data/schemas";
 import { createIndexedDbCollectionsRepository } from "../domain/collections/localCollections";
+import { pickName, useT, type MessageKey } from "../i18n";
 import { useAppStore } from "../store/appStore";
 import { showTransientMessage } from "./transientMessage";
-
-const relationshipTypeLabels: Record<string, string> = {
-  direct_student: "师承",
-  influence: "影响",
-  school: "学派",
-  shared_problem: "共同问题",
-  critique: "批判",
-  reception: "接受",
-};
 
 type PhilosopherPanelProps = {
   philosopher: Philosopher;
 };
 
-const excerptStatusLabels = {
-  public_domain: "公版摘录",
-  summary_only: "摘要",
-  none: "无摘录",
-} as const;
-
 export function PhilosopherPanel({ philosopher }: PhilosopherPanelProps) {
+  const t = useT();
+  const locale = useAppStore((state) => state.locale);
   const selectPhilosopher = useAppStore((state) => state.selectPhilosopher);
   const works = useAppStore((state) => state.works);
   const selectedThoughtProblemId = useAppStore((state) => state.selectedThoughtProblemId);
@@ -34,13 +22,25 @@ export function PhilosopherPanel({ philosopher }: PhilosopherPanelProps) {
   const relationships = useAppStore((state) => state.relationships);
   const philosophers = useAppStore((state) => state.philosophers);
   const repo = useMemo(() => createIndexedDbCollectionsRepository(), []);
-  const workTitleById = useMemo(() => new Map(works.map((work) => [work.id, work.titleZh])), [works]);
-  const philosopherNameById = useMemo(() => new Map(philosophers.map((p) => [p.id, p.names.zh])), [philosophers]);
+  // 作品名/主题名/人名按 locale 取；En 缺失回退 Zh（内容翻译渐进推进）
+  const workTitleById = useMemo(
+    () => new Map(works.map((work) => [work.id, locale === "en" && work.titleEn ? work.titleEn : work.titleZh])),
+    [works, locale],
+  );
+  const philosopherNameById = useMemo(
+    () => new Map(philosophers.map((p) => [p.id, pickName(p.names, locale)])),
+    [philosophers, locale],
+  );
   const themes = useAppStore((state) => state.themes);
-  const themeNameById = useMemo(() => new Map(themes.map((theme) => [theme.id, theme.zh])), [themes]);
+  const themeNameById = useMemo(
+    () => new Map(themes.map((theme) => [theme.id, locale === "en" ? theme.en : theme.zh])),
+    [themes, locale],
+  );
   const claimDetailRefs = useRef(new Map<string, HTMLDivElement>());
 
   const problemRefs = useRef(new Map<string, HTMLElement>());
+
+  const displayName = pickName(philosopher.names, locale);
 
   // 3D 场景点击行星/卫星后，侧栏自动滚动到对应问题/观点
   useEffect(() => {
@@ -83,13 +83,13 @@ export function PhilosopherPanel({ philosopher }: PhilosopherPanelProps) {
   }, [relationships, philosopher.id]);
 
   return (
-    <aside className="panel" aria-label={`${philosopher.names.zh}详情`}>
+    <aside className="panel" aria-label={t("panel.detailAria", { name: displayName })}>
       <button className="hud-button panel-close" type="button" onClick={() => selectPhilosopher(null)}>
-        关闭
+        {t("common.close")}
       </button>
-      <h2 className="panel-title">{philosopher.names.zh}</h2>
+      <h2 className="panel-title">{displayName}</h2>
       <p className="muted">
-        {philosopher.names.en}
+        {locale === "en" ? philosopher.names.zh : philosopher.names.en}
         {philosopher.names.native ? ` · ${philosopher.names.native}` : ""}
       </p>
       <div className="result-actions">
@@ -102,10 +102,10 @@ export function PhilosopherPanel({ philosopher }: PhilosopherPanelProps) {
               targetId: philosopher.id,
               label: philosopher.names.zh,
             });
-            showTransientMessage(setSaveMessage, saveMessageTimerRef, "已收藏哲人。");
+            showTransientMessage(setSaveMessage, saveMessageTimerRef, t("panel.philosopherSaved"));
           }}
         >
-          收藏哲人
+          {t("panel.savePhilosopher")}
         </button>
       </div>
       {saveMessage && <p className="muted">{saveMessage}</p>}
@@ -114,16 +114,20 @@ export function PhilosopherPanel({ philosopher }: PhilosopherPanelProps) {
         <strong>{philosopher.oneLineZh}</strong>
       </p>
       <p>{philosopher.summaryZh}</p>
-      <h3>关键词</h3>
+      <h3>{t("panel.keywords")}</h3>
       <p>{philosopher.keywordsZh.join(" · ")}</p>
       {philosopherWorks.length > 0 && (
         <section>
-          <h3>代表作品</h3>
+          <h3>{t("panel.works")}</h3>
           <ul className="works-list">
             {philosopherWorks.map((work) => (
               <li key={work.id}>
-                <span>{work.titleZh}</span>
-                {work.titleEn && <span className="muted"> · {work.titleEn}</span>}
+                <span>{locale === "en" && work.titleEn ? work.titleEn : work.titleZh}</span>
+                {locale === "en" ? (
+                  <span className="muted"> · {work.titleZh}</span>
+                ) : (
+                  work.titleEn && <span className="muted"> · {work.titleEn}</span>
+                )}
                 {work.yearDisplay && <span className="muted"> · {work.yearDisplay}</span>}
               </li>
             ))}
@@ -132,7 +136,7 @@ export function PhilosopherPanel({ philosopher }: PhilosopherPanelProps) {
       )}
       {philosopherArguments.length > 0 && (
         <section>
-          <h3>精选论证</h3>
+          <h3>{t("panel.selectedArguments")}</h3>
           {philosopherArguments.map((arg) => (
             <div className="argument-item" key={arg.id}>
               <p className="argument-question muted">{arg.questionZh}</p>
@@ -142,7 +146,7 @@ export function PhilosopherPanel({ philosopher }: PhilosopherPanelProps) {
                 <p className="muted argument-source">
                   <span>{workTitleById.get(arg.source.workId) ?? arg.source.workId}</span>
                   {arg.source.locator && <span> · {arg.source.locator}</span>}
-                  <span> · {excerptStatusLabels[arg.source.excerptStatus]}</span>
+                  <span> · {t(`excerptStatus.${arg.source.excerptStatus}` as MessageKey)}</span>
                 </p>
               )}
               <button
@@ -150,10 +154,10 @@ export function PhilosopherPanel({ philosopher }: PhilosopherPanelProps) {
                 type="button"
                 onClick={async () => {
                   await repo.saveItem({ targetType: "argument", targetId: arg.id, label: arg.claimZh });
-                  showTransientMessage(setSaveMessage, saveMessageTimerRef, "已收藏论证。");
+                  showTransientMessage(setSaveMessage, saveMessageTimerRef, t("search.argumentSaved"));
                 }}
               >
-                收藏论证
+                {t("search.saveArgument")}
               </button>
             </div>
           ))}
@@ -161,10 +165,10 @@ export function PhilosopherPanel({ philosopher }: PhilosopherPanelProps) {
       )}
       {relationshipsByType.size > 0 && (
         <section>
-          <h3>思想关系</h3>
+          <h3>{t("panel.relationships")}</h3>
           {[...relationshipsByType.entries()].map(([type, rels]) => (
             <div className="relationship-group" key={type}>
-              <p className="relationship-type-label">{relationshipTypeLabels[type] ?? type}</p>
+              <p className="relationship-type-label">{t(`relationshipType.${type}` as MessageKey)}</p>
               <ul className="relationship-list">
                 {rels.map((r) => {
                   const otherId = r.from === philosopher.id ? r.to : r.from;
@@ -183,8 +187,8 @@ export function PhilosopherPanel({ philosopher }: PhilosopherPanelProps) {
         </section>
       )}
       {philosopher.thoughtSystem && (
-        <section className="thought-system" aria-label={`${philosopher.names.zh}思想星系`}>
-          <h3>思想星系</h3>
+        <section className="thought-system" aria-label={t("panel.thoughtSystemAria", { name: displayName })}>
+          <h3>{t("panel.thoughtSystem")}</h3>
           {philosopher.thoughtSystem.problems.map((problem) => {
             const problemExpanded = selectedThoughtProblemId === problem.id;
 
@@ -249,7 +253,7 @@ export function PhilosopherPanel({ philosopher }: PhilosopherPanelProps) {
                                     <p className="muted">
                                       {workTitle && <span>{workTitle}</span>}
                                       {evidence.source.locator && <span>{evidence.source.locator}</span>}
-                                      <span>{excerptStatusLabels[evidence.source.excerptStatus]}</span>
+                                      <span>{t(`excerptStatus.${evidence.source.excerptStatus}` as MessageKey)}</span>
                                     </p>
                                   </div>
                                 );
@@ -264,7 +268,11 @@ export function PhilosopherPanel({ philosopher }: PhilosopherPanelProps) {
                                 return (
                                   <div className="thought-claim-extension">
                                     <p className="muted">
-                                      外延主题：{claimThemes.map((themeId) => themeNameById.get(themeId) ?? themeId).join(" · ")}
+                                      {t("panel.extensionThemes", {
+                                        themes: claimThemes
+                                          .map((themeId) => themeNameById.get(themeId) ?? themeId)
+                                          .join(" · "),
+                                      })}
                                     </p>
                                     {extensions.length > 0 && (
                                       <ul className="thought-extension-list">
@@ -274,7 +282,7 @@ export function PhilosopherPanel({ philosopher }: PhilosopherPanelProps) {
                                           return (
                                             <li key={r.id} className="muted">
                                               {direction} {philosopherNameById.get(otherId) ?? otherId}（
-                                              {relationshipTypeLabels[r.type] ?? r.type}）
+                                              {t(`relationshipType.${r.type}` as MessageKey)}）
                                             </li>
                                           );
                                         })}
@@ -295,14 +303,14 @@ export function PhilosopherPanel({ philosopher }: PhilosopherPanelProps) {
           })}
         </section>
       )}
-      <h3>数据状态</h3>
-      <p>{philosopher.reviewStatus === "reviewed" ? "已审核" : "草稿，需人工审核"}</p>
-      <h3>札记</h3>
+      <h3>{t("panel.dataStatus")}</h3>
+      <p>{philosopher.reviewStatus === "reviewed" ? t("panel.reviewed") : t("panel.draft")}</p>
+      <h3>{t("panel.notes")}</h3>
       <textarea
         className="note-textarea"
         value={noteBody}
         onChange={(event) => setNoteBody(event.target.value)}
-        placeholder="写一条本机札记..."
+        placeholder={t("panel.notePlaceholder")}
       />
       <button
         className="hud-button"
@@ -315,10 +323,10 @@ export function PhilosopherPanel({ philosopher }: PhilosopherPanelProps) {
             body: noteBody.trim(),
           });
           setNoteBody("");
-          showTransientMessage(setSaveMessage, saveMessageTimerRef, "札记已保存。");
+          showTransientMessage(setSaveMessage, saveMessageTimerRef, t("panel.noteSaved"));
         }}
       >
-        保存札记
+        {t("panel.saveNote")}
       </button>
     </aside>
   );

@@ -4,6 +4,8 @@ import { useEffect, useLayoutEffect, useMemo, useRef, useState } from "react";
 import * as THREE from "three";
 import type { PhilosopherIndexEntry } from "../data/schemas";
 import type { StarLayoutNode } from "../domain/layout/starLayout";
+import { pickName } from "../i18n";
+import { useAppStore } from "../store/appStore";
 import { starSpinParams } from "./StarSpin";
 
 export const civilizationColors: Record<string, string> = {
@@ -61,6 +63,7 @@ export function PhilosopherStars({
   labelsHidden = false,
 }: PhilosopherStarsProps) {
   const byId = useMemo(() => new Map(philosophers.map((item) => [item.id, item])), [philosophers]);
+  const locale = useAppStore((state) => state.locale);
   const [hoveredId, setHoveredId] = useState<string | null>(null);
   const focusMode = selectedId !== null;
 
@@ -306,7 +309,10 @@ export function PhilosopherStars({
                 pointerEvents: "none",
               }}
             >
-              {byId.get(node.id)?.names.zh}
+              {(() => {
+                const entry = byId.get(node.id);
+                return entry ? pickName(entry.names, locale) : null;
+              })()}
             </span>
           </Html>
         ))}
