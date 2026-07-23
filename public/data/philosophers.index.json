@@ -11523,10 +11523,10 @@
     ],
     "keywordsZh": [
       "意向性",
-      "身份层",
-      "二线哲人"
+      "描述心理学",
+      "布伦塔诺学派"
     ],
-    "oneLineZh": "意向性复兴的枢纽，可连接亚里士多德、经院心理学、胡塞尔与分析心灵哲学。",
+    "oneLineZh": "意向性概念的复兴者，以描述心理学连接亚里士多德、经院传统与胡塞尔现象学。",
     "influenceWeight": 2,
     "reviewStatus": "draft"
   },
@@ -11555,10 +11555,10 @@
     ],
     "keywordsZh": [
       "对象论",
-      "身份层",
-      "二线哲人"
+      "非存在对象",
+      "格拉茨学派"
     ],
-    "oneLineZh": "对象论代表，可补语言、存在与非存在对象问题。",
+    "oneLineZh": "对象论创立者，主张非存在的对象亦有其所是，深刻影响指称理论与本体论争论。",
     "influenceWeight": 2,
     "reviewStatus": "draft"
   },
@@ -11587,9 +11587,9 @@
     "keywordsZh": [
       "符号形式",
       "新康德主义",
-      "身份层"
+      "文化哲学"
     ],
-    "oneLineZh": "符号形式哲学代表，可连接新康德主义、文化哲学与科学哲学。",
+    "oneLineZh": "符号形式哲学的创立者，把神话、语言与科学统一为人的符号化活动。",
     "influenceWeight": 2,
     "reviewStatus": "draft"
   },
@@ -11617,11 +11617,11 @@
       "metaphysics"
     ],
     "keywordsZh": [
-      "唯心主义",
-      "实用主义",
-      "身份层"
+      "绝对唯心主义",
+      "共同体",
+      "忠的哲学"
     ],
-    "oneLineZh": "美国绝对唯心主义与共同体哲学代表，可补实用主义同代对手盘。",
+    "oneLineZh": "美国绝对唯心主义与共同体哲学代表，以「忠」为核心构造伦理学。",
     "influenceWeight": 2,
     "reviewStatus": "draft"
   },
@@ -11648,11 +11648,11 @@
       "aesthetics"
     ],
     "keywordsZh": [
-      "实用主义",
+      "自然主义",
       "美学",
-      "身份层"
+      "本质领域"
     ],
-    "oneLineZh": "自然主义、怀疑论与美学交界人物，可补美国哲学的非实用主义线索。",
+    "oneLineZh": "自然主义、怀疑论与美学的交界人物，以《理性的生命》和《存在的领域》立说。",
     "influenceWeight": 2,
     "reviewStatus": "draft"
   },
@@ -11680,11 +11680,11 @@
       "metaphysics"
     ],
     "keywordsZh": [
-      "唯心主义",
-      "身份层",
-      "二线哲人"
+      "绝对唯心主义",
+      "内在关系",
+      "现象与实在"
     ],
-    "oneLineZh": "英国绝对唯心主义代表，可补罗素与摩尔反叛前的靶心。",
+    "oneLineZh": "英国绝对唯心主义代表，以关系的内在性论证成为罗素与摩尔反叛的靶心。",
     "influenceWeight": 2,
     "reviewStatus": "draft"
   },
@@ -11712,11 +11712,11 @@
       "politics"
     ],
     "keywordsZh": [
-      "身份层",
-      "二线哲人",
-      "思想史补线"
+      "新黑格尔主义",
+      "积极自由",
+      "伦理国家"
     ],
-    "oneLineZh": "英国新黑格尔主义与新自由主义源头人物，可补伦理国家与积极自由线索。",
+    "oneLineZh": "英国新黑格尔主义与新自由主义的源头人物，以伦理国家和积极自由重构自由概念。",
     "influenceWeight": 2,
     "reviewStatus": "draft"
   },
@@ -11744,10 +11744,10 @@
     ],
     "keywordsZh": [
       "功利主义",
-      "身份层",
-      "二线哲人"
+      "伦理学方法",
+      "直觉主义"
     ],
-    "oneLineZh": "古典功利主义系统化者，可补密尔之后的伦理学技术化过渡。",
+    "oneLineZh": "古典功利主义的系统化者，《伦理学方法》为密尔之后的伦理学奠定技术化框架。",
     "influenceWeight": 2,
     "reviewStatus": "draft"
   },
@@ -11775,11 +11775,11 @@
       "aesthetics"
     ],
     "keywordsZh": [
-      "身份层",
-      "二线哲人",
-      "思想史补线"
+      "形式社会学",
+      "文化哲学",
+      "现代性"
     ],
-    "oneLineZh": "形式社会学与文化哲学代表，可连接生命哲学、现代性与社会理论。",
+    "oneLineZh": "形式社会学与文化哲学代表，以互动形式和货币哲学剖析现代性经验。",
     "influenceWeight": 2,
     "reviewStatus": "draft"
   },
@@ -11807,10 +11807,10 @@
     ],
     "keywordsZh": [
       "价值伦理",
-      "身份层",
-      "二线哲人"
+      "现象学",
+      "人格"
     ],
-    "oneLineZh": "现象学价值伦理学代表，可补胡塞尔之后的价值与人格线索。",
+    "oneLineZh": "现象学价值伦理学代表，以质料价值伦理学和人格理论回应康德的形式主义。",
     "influenceWeight": 2,
     "reviewStatus": "draft"
   },
@@ -11839,10 +11839,10 @@
     ],
     "keywordsZh": [
       "存在主义",
-      "身份层",
-      "二线哲人"
+      "奥秘",
+      "希望"
     ],
-    "oneLineZh": "基督教存在主义代表，可补萨特之外的存在主义分支。",
+    "oneLineZh": "基督教存在主义代表，以「奥秘」与「问题」之分和希望现象学立说。",
     "influenceWeight": 2,
     "reviewStatus": "draft"
   },
@@ -11871,10 +11871,10 @@
     ],
     "keywordsZh": [
       "生命理性",
-      "身份层",
-      "二线哲人"
+      "视角主义",
+      "大众社会"
     ],
-    "oneLineZh": "生命理性、视角主义与群众社会批判代表，可补西班牙现代哲学。",
+    "oneLineZh": "生命理性与视角主义的倡导者，《大众的反叛》批判现代群众社会。",
     "influenceWeight": 2,
     "reviewStatus": "draft"
   },
@@ -11902,11 +11902,11 @@
       "religion"
     ],
     "keywordsZh": [
-      "存在主义",
-      "身份层",
-      "二线哲人"
+      "生命悲剧感",
+      "信仰",
+      "存在主义"
     ],
-    "oneLineZh": "生命悲剧感与信仰焦虑代表，可补存在主义前史的西班牙线索。",
+    "oneLineZh": "以《生命的悲剧意识》书写理性与信仰之间无法调和的冲突。",
     "influenceWeight": 2,
     "reviewStatus": "draft"
   },
@@ -11934,11 +11934,11 @@
       "metaphysics"
     ],
     "keywordsZh": [
-      "唯心主义",
-      "身份层",
-      "二线哲人"
+      "实际唯心主义",
+      "意大利观念论",
+      "思维行动"
     ],
-    "oneLineZh": "实际唯心主义代表，可补意大利观念论与克罗齐同代分歧。",
+    "oneLineZh": "实际唯心主义的创立者，主张思维行动即唯一实在，因此与克罗齐分道扬镳。",
     "influenceWeight": 2,
     "reviewStatus": "draft"
   },
@@ -11967,10 +11967,10 @@
     ],
     "keywordsZh": [
       "历史哲学",
-      "身份层",
-      "二线哲人"
+      "问答逻辑",
+      "艺术哲学"
     ],
-    "oneLineZh": "历史哲学与问答逻辑代表，可补英美历史认识论。",
+    "oneLineZh": "历史哲学与问答逻辑代表，主张一切历史都是思想在当下的重演。",
     "influenceWeight": 2,
     "reviewStatus": "draft"
   },
@@ -11997,11 +11997,11 @@
       "politics"
     ],
     "keywordsZh": [
-      "身份层",
-      "二线哲人",
-      "思想史补线"
+      "保守主义",
+      "实践知识",
+      "政治理性主义批判"
     ],
-    "oneLineZh": "实践知识与政治理性主义批判代表，可补英国保守主义哲学。",
+    "oneLineZh": "以实践知识对抗政治理性主义，为英国保守主义提供了哲学表达。",
     "influenceWeight": 2,
     "reviewStatus": "draft"
   },
@@ -12030,10 +12030,10 @@
     ],
     "keywordsZh": [
       "日常语言",
-      "身份层",
-      "二线哲人"
+      "范畴错误",
+      "心的概念"
     ],
-    "oneLineZh": "日常语言哲学与行为主义心灵哲学代表，可补牛津分析传统。",
+    "oneLineZh": "《心的概念》以「机器中的幽灵」批判笛卡尔二元论，奠定日常语言学派。",
     "influenceWeight": 2,
     "reviewStatus": "draft"
   },
@@ -12062,10 +12062,10 @@
     ],
     "keywordsZh": [
       "言语行为",
-      "身份层",
-      "二线哲人"
+      "施行话语",
+      "日常语言"
     ],
-    "oneLineZh": "言语行为理论源头，可补语言哲学从意义到行动的转向。",
+    "oneLineZh": "言语行为理论的源头，《如何以言行事》把语言从意义推向行动。",
     "influenceWeight": 2,
     "reviewStatus": "draft"
   },
@@ -12093,11 +12093,11 @@
       "knowledge"
     ],
     "keywordsZh": [
-      "身份层",
-      "二线哲人",
-      "思想史补线"
+      "描述形而上学",
+      "指称",
+      "个体"
     ],
-    "oneLineZh": "描述形而上学与普通语言传统代表，可补康德与分析哲学接口。",
+    "oneLineZh": "以《个体》确立描述形而上学，重新接通康德与分析哲学。",
     "influenceWeight": 2,
     "reviewStatus": "draft"
   },
@@ -12126,10 +12126,10 @@
     ],
     "keywordsZh": [
       "反实在论",
-      "身份层",
-      "二线哲人"
+      "意义理论",
+      "弗雷格研究"
     ],
-    "oneLineZh": "意义理论与反实在论代表，可补弗雷格解释与分析哲学后期线索。",
+    "oneLineZh": "意义理论与反实在论代表，以可断言性条件重解弗雷格。",
     "influenceWeight": 2,
     "reviewStatus": "draft"
   },
@@ -12157,10 +12157,10 @@
     ],
     "keywordsZh": [
       "主观经验",
-      "身份层",
-      "二线哲人"
+      "道德运气",
+      "客观性"
     ],
-    "oneLineZh": "主观经验、道德运气与自由主义批判代表，可补心灵与伦理接口。",
+    "oneLineZh": "「成为一只蝙蝠是什么感觉」的提出者，以主观视角挑战还原论。",
     "influenceWeight": 2,
     "reviewStatus": "draft"
   },
@@ -12189,10 +12189,10 @@
     ],
     "keywordsZh": [
       "暴力",
-      "身份层",
-      "二线哲人"
+      "社会神话",
+      "工团主义"
     ],
-    "oneLineZh": "神话、暴力与革命工团主义理论代表，可补马克思主义异端谱系。",
+    "oneLineZh": "《论暴力》以社会神话和革命工团主义构成马克思主义内部的异端。",
     "influenceWeight": 2,
     "reviewStatus": "draft"
   },
@@ -12221,10 +12221,10 @@
     ],
     "keywordsZh": [
       "新本体论",
-      "身份层",
-      "二线哲人"
+      "价值伦理",
+      "实在层次"
     ],
-    "oneLineZh": "新本体论代表，可补现象学与形而上学之间的德国线索。",
+    "oneLineZh": "新本体论代表，以实在的层次结构调和现象学与形而上学。",
     "influenceWeight": 2,
     "reviewStatus": "draft"
   },
@@ -12253,10 +12253,10 @@
     ],
     "keywordsZh": [
       "新康德主义",
-      "身份层",
-      "二线哲人"
+      "马堡学派",
+      "社会教育"
     ],
-    "oneLineZh": "马堡新康德主义核心人物，可补科恩之后的认识论与社会教育哲学。",
+    "oneLineZh": "马堡新康德主义核心人物，把认识论推进到社会教育哲学。",
     "influenceWeight": 2,
     "reviewStatus": "draft"
   },
@@ -12285,10 +12285,10 @@
     ],
     "keywordsZh": [
       "新康德主义",
-      "文化科学",
-      "身份层"
+      "价值哲学",
+      "文化科学"
     ],
-    "oneLineZh": "价值哲学与文化科学方法论代表，可补新康德主义西南学派源头。",
+    "oneLineZh": "西南学派创始人，以规律科学与个别科学之分奠定文化科学方法论。",
     "influenceWeight": 2,
     "reviewStatus": "draft"
   },
@@ -12316,11 +12316,11 @@
       "aesthetics"
     ],
     "keywordsZh": [
+      "价值关联",
       "文化科学",
-      "身份层",
-      "二线哲人"
+      "西南学派"
     ],
-    "oneLineZh": "价值关联与文化科学方法论代表，可补韦伯方法论背景。",
+    "oneLineZh": "以价值关联概念完善文化科学方法论，构成韦伯方法论的直接背景。",
     "influenceWeight": 2,
     "reviewStatus": "draft"
   },
@@ -12349,10 +12349,10 @@
     ],
     "keywordsZh": [
       "宗教哲学",
-      "宗教哲学",
-      "身份层"
+      "历史主义",
+      "基督教社会史"
     ],
-    "oneLineZh": "历史主义与宗教哲学代表，可补狄尔泰、韦伯与神学现代性接口。",
+    "oneLineZh": "历史主义与宗教哲学代表，处理狄尔泰、韦伯与神学现代性的交汇。",
     "influenceWeight": 2,
     "reviewStatus": "draft"
   },
@@ -12381,10 +12381,10 @@
     ],
     "keywordsZh": [
       "行动哲学",
-      "身份层",
-      "二线哲人"
+      "内在方法",
+      "天主教现代思想"
     ],
-    "oneLineZh": "行动哲学代表，可补法国天主教现代思想与现象学前史。",
+    "oneLineZh": "《行动》以行动的内在逻辑通向超越，为法国天主教现代思想开路。",
     "influenceWeight": 2,
     "reviewStatus": "draft"
   },
@@ -12413,10 +12413,10 @@
     ],
     "keywordsZh": [
       "模态逻辑",
-      "身份层",
-      "二线哲人"
+      "概念实用主义",
+      "严格蕴涵"
     ],
-    "oneLineZh": "概念实用主义与模态逻辑代表，可补皮尔士—奎因之间的美国分析线索。",
+    "oneLineZh": "概念实用主义与模态逻辑代表，以严格蕴涵回应实质蕴涵悖论。",
     "influenceWeight": 2,
     "reviewStatus": "draft"
   },
@@ -12445,10 +12445,10 @@
     ],
     "keywordsZh": [
       "剑桥分析",
-      "身份层",
-      "二线哲人"
+      "概率",
+      "真理紧缩论"
     ],
-    "oneLineZh": "真理、概率、决策与经济哲学的早期枢纽，可补剑桥分析传统。",
+    "oneLineZh": "真理、概率、决策与经济学的早期枢纽，二十六岁早逝仍留下多重奠基性工作。",
     "influenceWeight": 2,
     "reviewStatus": "draft"
   },
@@ -12476,11 +12476,11 @@
       "knowledge"
     ],
     "keywordsZh": [
-      "身份层",
-      "二线哲人",
-      "思想史补线"
+      "分析哲学",
+      "逻辑经验主义",
+      "清晰思考"
     ],
-    "oneLineZh": "早期分析哲学与逻辑经验主义传播者，可补女性分析哲学前史。",
+    "oneLineZh": "英国第一位女性哲学教授，以《有目的的思维》推广逻辑分析与公共说理。",
     "influenceWeight": 2,
     "reviewStatus": "draft"
   },
@@ -12508,11 +12508,11 @@
       "metaphysics"
     ],
     "keywordsZh": [
-      "身份层",
-      "二线哲人",
-      "思想史补线"
+      "剑桥分析",
+      "心灵哲学",
+      "批判哲学史"
     ],
-    "oneLineZh": "心灵哲学、伦理学与形而上学的剑桥综合人物，可补摩尔之后的英国分析线。",
+    "oneLineZh": "心灵哲学、伦理学与形而上学的剑桥综合者，以细致分类和折衷立场著称。",
     "influenceWeight": 2,
     "reviewStatus": "draft"
   },
@@ -12541,10 +12541,10 @@
     ],
     "keywordsZh": [
       "逻辑实证主义",
-      "身份层",
-      "二线哲人"
+      "可证实原则",
+      "情感主义"
     ],
-    "oneLineZh": "逻辑实证主义在英国的传播代表，可补维也纳学派到英美分析哲学的桥梁。",
+    "oneLineZh": "《语言、真理与逻辑》把维也纳学派带入英语世界。",
     "influenceWeight": 2,
     "reviewStatus": "draft"
   },
@@ -12572,11 +12572,11 @@
       "knowledge"
     ],
     "keywordsZh": [
-      "身份层",
-      "二线哲人",
-      "思想史补线"
+      "构造主义",
+      "符号系统",
+      "新归纳之谜"
     ],
-    "oneLineZh": "构造主义认识论、符号系统与艺术哲学代表，可补奎因周边线索。",
+    "oneLineZh": "以「绿蓝」悖论重提归纳问题，并把符号系统理论推向艺术哲学。",
     "influenceWeight": 2,
     "reviewStatus": "draft"
   },
@@ -12604,11 +12604,11 @@
       "knowledge"
     ],
     "keywordsZh": [
-      "身份层",
-      "二线哲人",
-      "思想史补线"
+      "科学实在论",
+      "共相",
+      "心脑同一论"
     ],
-    "oneLineZh": "澳大利亚实在论与心灵物理主义代表，可补当代形而上学板块。",
+    "oneLineZh": "澳大利亚唯物论代表，以共相实在论和心脑同一论构造形而上学系统。",
     "influenceWeight": 2,
     "reviewStatus": "draft"
   },
@@ -12637,10 +12637,10 @@
     ],
     "keywordsZh": [
       "心脑同一论",
-      "身份层",
-      "二线哲人"
+      "后果主义",
+      "科学实在论"
     ],
-    "oneLineZh": "心脑同一论与功利主义代表，可补澳大利亚分析哲学。",
+    "oneLineZh": "心脑同一论与后果主义代表，主张一种彻底的科学实在论。",
     "influenceWeight": 2,
     "reviewStatus": "draft"
   },
@@ -12669,10 +12669,10 @@
     ],
     "keywordsZh": [
       "模态逻辑",
-      "身份层",
-      "二线哲人"
+      "巴坎公式",
+      "直接指称"
     ],
-    "oneLineZh": "量化模态逻辑先驱，可补克里普克之前的模态语义背景。",
+    "oneLineZh": "量化模态逻辑先驱，巴坎公式为后来的模态语义学铺路。",
     "influenceWeight": 2,
     "reviewStatus": "draft"
   },
@@ -12699,11 +12699,11 @@
       "metaphysics"
     ],
     "keywordsZh": [
-      "身份层",
-      "二线哲人",
-      "思想史补线"
+      "概念经验",
+      "德性伦理",
+      "匹兹堡学派"
     ],
-    "oneLineZh": "心灵与世界、德性伦理与概念经验代表，可补分析哲学与黑格尔传统接口。",
+    "oneLineZh": "《心灵与世界》主张经验本身已是概念性的，重连分析哲学与黑格尔传统。",
     "influenceWeight": 2,
     "reviewStatus": "draft"
   },
@@ -12730,11 +12730,11 @@
       "metaphysics"
     ],
     "keywordsZh": [
-      "身份层",
-      "二线哲人",
-      "思想史补线"
+      "反个体主义",
+      "外在论",
+      "心灵内容"
     ],
-    "oneLineZh": "反个体主义与心灵内容外在论代表，可补普特南之后的心灵语言线索。",
+    "oneLineZh": "以关节炎思想实验确立心灵内容的社会外在论。",
     "influenceWeight": 2,
     "reviewStatus": "draft"
   },
@@ -12762,10 +12762,10 @@
     ],
     "keywordsZh": [
       "推论主义",
-      "身份层",
-      "二线哲人"
+      "语义学",
+      "匹兹堡学派"
     ],
-    "oneLineZh": "推论主义语义学代表，可补塞拉斯之后的匹兹堡学派。",
+    "oneLineZh": "推论主义语义学代表，把意义奠基于给出与索取理由的推论实践。",
     "influenceWeight": 2,
     "reviewStatus": "draft"
   },
@@ -12793,10 +12793,10 @@
     ],
     "keywordsZh": [
       "宗教哲学",
-      "宗教哲学",
-      "身份层"
+      "改革宗认识论",
+      "模态本体论证"
     ],
-    "oneLineZh": "改革宗认识论与模态本体论证代表，可补当代宗教哲学。",
+    "oneLineZh": "改革宗认识论与模态本体论证代表，主张有神论信念可以是基础信念。",
     "influenceWeight": 2,
     "reviewStatus": "draft"
   },
@@ -12824,10 +12824,10 @@
     ],
     "keywordsZh": [
       "宗教哲学",
-      "宗教哲学",
-      "身份层"
+      "概率论证",
+      "自然神学"
     ],
-    "oneLineZh": "概率神学与宗教哲学代表，可补英美自然神学当代线索。",
+    "oneLineZh": "以贝叶斯概率论证有神论，代表英美自然神学的当代形态。",
     "influenceWeight": 2,
     "reviewStatus": "draft"
   },
@@ -12855,11 +12855,11 @@
       "knowledge"
     ],
     "keywordsZh": [
-      "身份层",
-      "二线哲人",
-      "思想史补线"
+      "规定主义",
+      "元伦理学",
+      "可普遍化"
     ],
-    "oneLineZh": "规范伦理学中的规定主义代表，可补元伦理学与应用伦理学过渡。",
+    "oneLineZh": "规定主义代表，主张道德判断兼具规定性与可普遍化性。",
     "influenceWeight": 2,
     "reviewStatus": "draft"
   },
@@ -12887,11 +12887,11 @@
       "life_death"
     ],
     "keywordsZh": [
-      "身份层",
-      "二线哲人",
-      "思想史补线"
+      "权利",
+      "生命伦理",
+      "电车难题"
     ],
-    "oneLineZh": "权利、生命伦理与道德难题代表，可补应用伦理学核心案例线。",
+    "oneLineZh": "以小提琴家论证和电车难题重塑应用伦理学的案例传统。",
     "influenceWeight": 2,
     "reviewStatus": "draft"
   },
@@ -12919,11 +12919,11 @@
       "politics"
     ],
     "keywordsZh": [
-      "身份层",
-      "二线哲人",
-      "思想史补线"
+      "社会伦理",
+      "民主",
+      "实用主义改革"
     ],
-    "oneLineZh": "社会伦理、民主与实用主义改革思想代表，可补美国女性哲学线索。",
+    "oneLineZh": "赫尔馆创办者，把实用主义带入社会改革与和平运动。",
     "influenceWeight": 2,
     "reviewStatus": "draft"
   },
@@ -12951,11 +12951,11 @@
       "knowledge"
     ],
     "keywordsZh": [
-      "身份层",
-      "二线哲人",
-      "思想史补线"
+      "价值多元主义",
+      "哈莱姆文艺复兴",
+      "文化多元"
     ],
-    "oneLineZh": "哈莱姆文艺复兴与价值多元主义代表，可补非裔美国哲学传统。",
+    "oneLineZh": "哈莱姆文艺复兴的哲学阐释者，以价值多元主义论述文化差异。",
     "influenceWeight": 2,
     "reviewStatus": "draft"
   },
@@ -12983,11 +12983,11 @@
       "knowledge"
     ],
     "keywordsZh": [
-      "身份层",
-      "二线哲人",
-      "思想史补线"
+      "社会自我",
+      "符号互动",
+      "角色采择"
     ],
-    "oneLineZh": "社会行为主义与自我理论代表，可补实用主义社会心理学线索。",
+    "oneLineZh": "以主我与客我之分和角色采择建立社会自我理论。",
     "influenceWeight": 2,
     "reviewStatus": "draft"
   },
@@ -13015,11 +13015,11 @@
       "knowledge"
     ],
     "keywordsZh": [
-      "身份层",
-      "二线哲人",
-      "思想史补线"
+      "古典政治哲学",
+      "隐微写作",
+      "古今之争"
     ],
-    "oneLineZh": "古典政治哲学复兴与隐微写作解释代表，可补施米特、阿伦特同代政治思想语境。",
+    "oneLineZh": "古典政治哲学的复兴者，以隐微写作解释重读古今之争。",
     "influenceWeight": 2,
     "reviewStatus": "draft"
   },
@@ -13047,11 +13047,11 @@
       "knowledge"
     ],
     "keywordsZh": [
-      "身份层",
-      "二线哲人",
-      "思想史补线"
+      "恐惧自由主义",
+      "残酷",
+      "不义"
     ],
-    "oneLineZh": "恐惧自由主义与政治恶论代表，可补战后自由主义内部批判。",
+    "oneLineZh": "以「恐惧的自由主义」和对残酷的优先关注重构自由主义。",
     "influenceWeight": 2,
     "reviewStatus": "draft"
   },
@@ -13080,10 +13080,10 @@
     ],
     "keywordsZh": [
       "责任伦理",
-      "身份层",
-      "二线哲人"
+      "技术批判",
+      "诺斯替研究"
     ],
-    "oneLineZh": "责任伦理与技术文明批判代表，可补海德格尔弟子线及环境伦理前史。",
+    "oneLineZh": "《责任原理》为技术文明提出面向未来世代的伦理律令。",
     "influenceWeight": 2,
     "reviewStatus": "draft"
   },
@@ -13111,11 +13111,11 @@
       "metaphysics"
     ],
     "keywordsZh": [
-      "身份层",
-      "二线哲人",
-      "思想史补线"
+      "历史哲学",
+      "世俗化",
+      "现代性批判"
     ],
-    "oneLineZh": "世俗化历史哲学批判代表，可补海德格尔、尼采与现代历史意识线索。",
+    "oneLineZh": "论证现代进步史观其实是基督教末世论的世俗化产物。",
     "influenceWeight": 2,
     "reviewStatus": "draft"
   },
@@ -13144,10 +13144,10 @@
     ],
     "keywordsZh": [
       "政治宗教",
-      "身份层",
-      "二线哲人"
+      "秩序哲学",
+      "灵知主义批判"
     ],
-    "oneLineZh": "政治宗教与秩序哲学代表，可补现代性批判的保守谱系。",
+    "oneLineZh": "以政治宗教和秩序哲学诊断现代性，把灵知主义视作病根。",
     "influenceWeight": 2,
     "reviewStatus": "draft"
   },
@@ -13176,10 +13176,10 @@
     ],
     "keywordsZh": [
       "新托马斯主义",
-      "身份层",
-      "二线哲人"
+      "人权",
+      "整全人道主义"
     ],
-    "oneLineZh": "新托马斯主义与人权哲学代表，可补天主教政治哲学现代线索。",
+    "oneLineZh": "新托马斯主义代表，为世界人权宣言提供了哲学论证。",
     "influenceWeight": 2,
     "reviewStatus": "draft"
   },
@@ -13207,11 +13207,11 @@
       "life_death"
     ],
     "keywordsZh": [
-      "身份层",
-      "二线哲人",
-      "思想史补线"
+      "黑格尔解释",
+      "主奴辩证法",
+      "历史终结"
     ],
-    "oneLineZh": "黑格尔《精神现象学》法国解释的关键人物，可补法国存在主义与后结构主义前史。",
+    "oneLineZh": "以主奴辩证法讲授《精神现象学》，塑造了整整一代法国思想家。",
     "influenceWeight": 2,
     "reviewStatus": "draft"
   },
@@ -13240,10 +13240,10 @@
     ],
     "keywordsZh": [
       "结构主义马克思主义",
-      "身份层",
-      "二线哲人"
+      "意识形态",
+      "认识论断裂"
     ],
-    "oneLineZh": "结构主义马克思主义代表，可补马克思主义与法国理论接口。",
+    "oneLineZh": "结构主义马克思主义代表，提出意识形态国家机器与认识论断裂。",
     "influenceWeight": 2,
     "reviewStatus": "draft"
   },
@@ -13271,11 +13271,11 @@
       "metaphysics"
     ],
     "keywordsZh": [
+      "个体化",
       "技术哲学",
-      "身份层",
-      "二线哲人"
+      "跨个体"
     ],
-    "oneLineZh": "个体化与技术哲学代表，可补德勒兹、斯蒂格勒等后续线索。",
+    "oneLineZh": "以个体化理论和技术物的存在方式重构技术哲学。",
     "influenceWeight": 2,
     "reviewStatus": "draft"
   },
@@ -13304,10 +13304,10 @@
     ],
     "keywordsZh": [
       "生命现象学",
-      "身份层",
-      "二线哲人"
+      "内在性",
+      "自身感发"
     ],
-    "oneLineZh": "生命现象学代表，可补法国现象学的非海德格尔分支。",
+    "oneLineZh": "生命现象学代表，主张生命在自身感发中直接显现。",
     "influenceWeight": 2,
     "reviewStatus": "draft"
   },
@@ -13335,11 +13335,11 @@
       "knowledge"
     ],
     "keywordsZh": [
-      "身份层",
-      "二线哲人",
-      "思想史补线"
+      "现象学",
+      "照料灵魂",
+      "异见政治"
     ],
-    "oneLineZh": "捷克现象学与异见政治思想代表，可补胡塞尔—海德格尔东欧线索。",
+    "oneLineZh": "捷克现象学家与七七宪章发言人，以照料灵魂论述历史性存在。",
     "influenceWeight": 2,
     "reviewStatus": "draft"
   },
@@ -13368,10 +13368,10 @@
     ],
     "keywordsZh": [
       "宗教哲学",
-      "宗教哲学",
-      "身份层"
+      "马克思主义批判",
+      "东欧思想"
     ],
-    "oneLineZh": "马克思主义批判与宗教哲学代表，可补东欧思想转型线索。",
+    "oneLineZh": "《马克思主义主要流派》作者，从修正主义转向对乌托邦的宗教式追问。",
     "influenceWeight": 2,
     "reviewStatus": "draft"
   },
@@ -13399,11 +13399,11 @@
       "knowledge"
     ],
     "keywordsZh": [
-      "自治理论",
-      "身份层",
-      "二线哲人"
+      "自治",
+      "社会想象",
+      "社会主义或野蛮"
     ],
-    "oneLineZh": "社会想象与自治理论代表，可补西方马克思主义异端与政治哲学线索。",
+    "oneLineZh": "以社会想象性建制和自治理论构成西方马克思主义的异端。",
     "influenceWeight": 2,
     "reviewStatus": "draft"
   },
@@ -13431,11 +13431,11 @@
       "politics"
     ],
     "keywordsZh": [
-      "法国哲学",
-      "身份层",
-      "思想史补线"
+      "概率哲学",
+      "偶然性",
+      "科学哲学"
     ],
-    "oneLineZh": "概率/经济与科学哲学枢纽，接 comte 实证论与后续法国认识论。",
+    "oneLineZh": "以概率、经济学与偶然性理论连接实证论与法国认识论传统。",
     "influenceWeight": 2,
     "reviewStatus": "draft"
   },
@@ -13463,11 +13463,11 @@
       "metaphysics"
     ],
     "keywordsZh": [
-      "法国哲学",
-      "身份层",
-      "思想史补线"
+      "约定论",
+      "科学方法",
+      "数学基础"
     ],
-    "oneLineZh": "约定论与科学方法论代表，接数学基础与 duhem。",
+    "oneLineZh": "约定论代表，主张几何公理既非经验也非先验，而是约定。",
     "influenceWeight": 2,
     "reviewStatus": "draft"
   },
@@ -13495,11 +13495,11 @@
       "metaphysics"
     ],
     "keywordsZh": [
-      "法国哲学",
-      "身份层",
-      "思想史补线"
+      "整体论",
+      "不充分决定",
+      "科学史"
     ],
-    "oneLineZh": "整体论与不充分决定论（Duhem 命题），接 quine。",
+    "oneLineZh": "提出迪昂命题：假说无法孤立检验，为奎因的整体论开路。",
     "influenceWeight": 2,
     "reviewStatus": "draft"
   },
@@ -13528,11 +13528,11 @@
       "metaphysics"
     ],
     "keywordsZh": [
-      "法国哲学",
-      "身份层",
-      "思想史补线"
+      "判断哲学",
+      "科学精神史",
+      "法国认识论"
     ],
-    "oneLineZh": "判断哲学与科学精神史，法国认识论学院枢纽。",
+    "oneLineZh": "以判断哲学和科学精神史成为法国认识论学院的枢纽。",
     "influenceWeight": 2,
     "reviewStatus": "draft"
   },
@@ -13561,11 +13561,11 @@
       "metaphysics"
     ],
     "keywordsZh": [
-      "法国哲学",
-      "身份层",
-      "思想史补线"
+      "科学革命史",
+      "观念史",
+      "无限宇宙"
     ],
-    "oneLineZh": "科学革命史（从封闭世界到无限宇宙），接 kuhn。",
+    "oneLineZh": "《从封闭世界到无限宇宙》重写科学革命史，深刻影响库恩。",
     "influenceWeight": 2,
     "reviewStatus": "draft"
   },
@@ -13593,11 +13593,11 @@
       "aesthetics"
     ],
     "keywordsZh": [
-      "法国哲学",
-      "身份层",
-      "思想史补线"
+      "认识论断裂",
+      "认识论障碍",
+      "想象诗学"
     ],
-    "oneLineZh": "认识论断裂与科学精神，接 foucault 知识考古学源头。★升档候选",
+    "oneLineZh": "以认识论断裂和认识论障碍重构科学史，同时写物质想象的诗学。",
     "influenceWeight": 2,
     "reviewStatus": "draft"
   },
@@ -13626,11 +13626,11 @@
       "language"
     ],
     "keywordsZh": [
-      "法国哲学",
-      "身份层",
-      "思想史补线"
+      "概念哲学",
+      "数学哲学",
+      "抵抗运动"
     ],
-    "oneLineZh": "概念哲学与数学哲学，接 canguilhem/foucault。",
+    "oneLineZh": "以概念哲学对抗意识哲学，参加抵抗运动而被处决。",
     "influenceWeight": 2,
     "reviewStatus": "draft"
   },
@@ -13659,11 +13659,11 @@
       "life_death"
     ],
     "keywordsZh": [
-      "法国哲学",
-      "身份层",
-      "思想史补线"
+      "正常与病态",
+      "生命科学史",
+      "医学哲学"
     ],
-    "oneLineZh": "正常与病态、生命科学史，foucault 直系导师。★升档候选",
+    "oneLineZh": "《正常与病态》以生命的规范性重写医学哲学，是福柯的直系导师。",
     "influenceWeight": 2,
     "reviewStatus": "draft"
   },
@@ -13692,11 +13692,11 @@
       "language"
     ],
     "keywordsZh": [
-      "法国哲学",
-      "身份层",
-      "思想史补线"
+      "结构人类学",
+      "神话学",
+      "亲属结构"
     ],
-    "oneLineZh": "结构人类学奠基，结构主义总源。★升档候选",
+    "oneLineZh": "以亲属结构和神话学分析奠定结构人类学。",
     "influenceWeight": 2,
     "reviewStatus": "draft"
   },
@@ -13725,11 +13725,11 @@
       "metaphysics"
     ],
     "keywordsZh": [
-      "法国哲学",
-      "身份层",
-      "思想史补线"
+      "精神分析",
+      "镜像阶段",
+      "象征界"
     ],
-    "oneLineZh": "结构主义精神分析，接 freud/结构语言学。★升档候选",
+    "oneLineZh": "以镜像阶段和「无意识如语言般构成」重读弗洛伊德。",
     "influenceWeight": 2,
     "reviewStatus": "draft"
   },
@@ -13757,11 +13757,11 @@
       "knowledge"
     ],
     "keywordsZh": [
-      "法国哲学",
-      "身份层",
-      "思想史补线"
+      "惯习",
+      "场域",
+      "文化资本"
     ],
-    "oneLineZh": "惯习/场域/文化资本，社会实践理论。★升档候选",
+    "oneLineZh": "以惯习、场域和文化资本构建社会实践理论。",
     "influenceWeight": 2,
     "reviewStatus": "draft"
   },
@@ -13790,11 +13790,11 @@
       "aesthetics"
     ],
     "keywordsZh": [
-      "法国哲学",
-      "身份层",
-      "思想史补线"
+      "后现代",
+      "元叙事",
+      "争执"
     ],
-    "oneLineZh": "后现代状况与元叙事之终结。",
+    "oneLineZh": "《后现代状况》宣告元叙事的终结。",
     "influenceWeight": 2,
     "reviewStatus": "draft"
   },
@@ -13823,11 +13823,11 @@
       "aesthetics"
     ],
     "keywordsZh": [
-      "法国哲学",
-      "身份层",
-      "思想史补线"
+      "拟像",
+      "消费社会",
+      "超真实"
     ],
-    "oneLineZh": "拟像与消费社会。",
+    "oneLineZh": "以拟像与超真实理论剖析消费社会的符号逻辑。",
     "influenceWeight": 2,
     "reviewStatus": "draft"
   },
@@ -13855,11 +13855,11 @@
       "metaphysics"
     ],
     "keywordsZh": [
-      "法国哲学",
-      "身份层",
-      "思想史补线"
+      "寄生者",
+      "第三者",
+      "科学与人文"
     ],
-    "oneLineZh": "科学与人文的第三者/寄生者哲学。",
+    "oneLineZh": "以第三者和寄生者的形象打通科学史与人文传统。",
     "influenceWeight": 2,
     "reviewStatus": "draft"
   },
@@ -13888,11 +13888,11 @@
       "religion"
     ],
     "keywordsZh": [
-      "法国哲学",
-      "身份层",
-      "思想史补线"
+      "模仿欲望",
+      "替罪羊",
+      "神圣暴力"
     ],
-    "oneLineZh": "模仿欲望与替罪羊机制。",
+    "oneLineZh": "以模仿欲望和替罪羊机制解释暴力与神圣的起源。",
     "influenceWeight": 2,
     "reviewStatus": "draft"
   },
@@ -13920,11 +13920,11 @@
       "politics"
     ],
     "keywordsZh": [
-      "法国哲学",
-      "身份层",
-      "思想史补线"
+      "行动者网络",
+      "科学人类学",
+      "非人行动者"
     ],
-    "oneLineZh": "行动者网络与科学人类学，接 canguilhem/koyre。",
+    "oneLineZh": "以行动者网络理论把物一并纳入社会分析。",
     "influenceWeight": 2,
     "reviewStatus": "draft"
   },
@@ -13952,11 +13952,11 @@
       "freedom"
     ],
     "keywordsZh": [
-      "法国哲学",
-      "身份层",
-      "思想史补线"
+      "民主的空位",
+      "极权批判",
+      "政治哲学"
     ],
-    "oneLineZh": "民主的空位与极权批判，接 castoriadis。",
+    "oneLineZh": "以权力的空位界定民主，并系统批判极权主义。",
     "influenceWeight": 2,
     "reviewStatus": "draft"
   },
@@ -13983,11 +13983,11 @@
       "politics"
     ],
     "keywordsZh": [
-      "法国哲学",
-      "身份层",
-      "思想史补线"
+      "事件",
+      "集合论本体论",
+      "真理程序"
     ],
-    "oneLineZh": "存在与事件、集合论本体论。",
+    "oneLineZh": "《存在与事件》以集合论建构本体论和事件性的真理观。",
     "influenceWeight": 2,
     "reviewStatus": "draft"
   },
@@ -14015,11 +14015,11 @@
       "aesthetics"
     ],
     "keywordsZh": [
-      "法国哲学",
-      "身份层",
-      "思想史补线"
+      "感性分配",
+      "政治美学",
+      "平等"
     ],
-    "oneLineZh": "感性的分配与政治美学，接 althusser。",
+    "oneLineZh": "以感性的分配把政治与美学置于同一问题域。",
     "influenceWeight": 2,
     "reviewStatus": "draft"
   },
@@ -14048,11 +14048,11 @@
       "politics"
     ],
     "keywordsZh": [
-      "法国哲学",
-      "身份层",
-      "思想史补线"
+      "共通体",
+      "共在",
+      "解构存在论"
     ],
-    "oneLineZh": "共通体与解构性存在论，接 derrida。",
+    "oneLineZh": "以无用的共通体和共在存在论回应海德格尔与巴塔耶。",
     "influenceWeight": 2,
     "reviewStatus": "draft"
   },
@@ -14080,11 +14080,11 @@
       "freedom"
     ],
     "keywordsZh": [
-      "法国哲学",
-      "身份层",
-      "思想史补线"
+      "自由主义",
+      "历史哲学",
+      "知识分子批判"
     ],
-    "oneLineZh": "自由主义政治哲学与历史哲学，接 weber/sartre。",
+    "oneLineZh": "以《知识分子的鸦片》和历史哲学捍卫自由主义，与萨特长期论争。",
     "influenceWeight": 2,
     "reviewStatus": "draft"
   },
@@ -14112,11 +14112,11 @@
       "aesthetics"
     ],
     "keywordsZh": [
-      "法国哲学",
-      "身份层",
-      "思想史补线"
+      "耗费",
+      "逾越",
+      "普遍经济"
     ],
-    "oneLineZh": "耗费/逾越/普遍经济，接 nietzsche/blanchot。",
+    "oneLineZh": "以耗费、逾越和普遍经济概念探讨神圣与僭越。",
     "influenceWeight": 2,
     "reviewStatus": "draft"
   },
@@ -14145,11 +14145,11 @@
       "language"
     ],
     "keywordsZh": [
-      "法国哲学",
-      "身份层",
-      "思想史补线"
+      "文学空间",
+      "中性",
+      "灾异书写"
     ],
-    "oneLineZh": "文学空间与中性、灾异书写，接 levinas/bataille。",
+    "oneLineZh": "以文学空间、中性与灾异书写探索语言的界限。",
     "influenceWeight": 2,
     "reviewStatus": "draft"
   },
@@ -14178,11 +14178,11 @@
       "life_death"
     ],
     "keywordsZh": [
-      "法国哲学",
-      "身份层",
-      "思想史补线"
+      "道德哲学",
+      "不可宽恕",
+      "几乎无"
     ],
-    "oneLineZh": "道德的不可名状与不可宽恕，接 bergson。",
+    "oneLineZh": "以「几乎无」和不可宽恕问题书写道德经验的细微处。",
     "influenceWeight": 2,
     "reviewStatus": "draft"
   },
@@ -14211,11 +14211,11 @@
       "metaphysics"
     ],
     "keywordsZh": [
-      "法国哲学",
-      "身份层",
-      "思想史补线"
+      "中世纪哲学史",
+      "托马斯主义",
+      "存在形而上学"
     ],
-    "oneLineZh": "中世纪哲学史与托马斯主义复兴，接 aquinas/maritain。",
+    "oneLineZh": "以存在（esse）为核心重释托马斯，推动中世纪哲学史研究。",
     "influenceWeight": 2,
     "reviewStatus": "draft"
   },
@@ -14244,11 +14244,11 @@
       "politics"
     ],
     "keywordsZh": [
-      "法国哲学",
-      "身份层",
-      "思想史补线"
+      "人格主义",
+      "位格",
+      "共同体"
     ],
-    "oneLineZh": "人格主义，接 maritain/marcel。",
+    "oneLineZh": "人格主义运动创始人，创办《精神》杂志倡导位格与共同体。",
     "influenceWeight": 2,
     "reviewStatus": "draft"
   },
@@ -14937,7 +14937,7 @@
       "祭祀解释学",
       "传统归属"
     ],
-    "oneLineZh": "《弥曼差经》的传统归属作者，前弥曼差祭祀解释学的身份层锚点。",
+    "oneLineZh": "《弥曼差经》的传统归属作者，前弥曼差的祭祀解释学由此立宗。",
     "influenceWeight": 2,
     "reviewStatus": "draft"
   },
@@ -15003,7 +15003,7 @@
       "八支瑜伽",
       "修行论"
     ],
-    "oneLineZh": "《瑜伽经》的传统归属作者，瑜伽派八支修行论的身份层锚点。",
+    "oneLineZh": "《瑜伽经》的传统归属作者，瑜伽派八支修行论由此系统化。",
     "influenceWeight": 2,
     "reviewStatus": "draft"
   },
@@ -15069,7 +15069,7 @@
       "原子论",
       "范畴论"
     ],
-    "oneLineZh": "《胜论经》的传统归属作者，胜论派原子论和范畴论的身份层锚点。",
+    "oneLineZh": "《胜论经》的传统归属作者，胜论派的原子论与范畴论由此立宗。",
     "influenceWeight": 2,
     "reviewStatus": "draft"
   },
