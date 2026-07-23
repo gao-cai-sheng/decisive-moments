@@ -88,7 +88,7 @@ export function CollectionsDrawer() {
             const url = URL.createObjectURL(blob);
             const anchor = document.createElement("a");
             anchor.href = url;
-            anchor.download = "qunxing-collections.json";
+            anchor.download = "decisive-moments-collections.json";
             anchor.click();
             URL.revokeObjectURL(url);
           }}

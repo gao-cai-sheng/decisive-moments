@@ -274,7 +274,7 @@ export function buildSubmissionFiles(draft: ContributionDraft): SubmissionFiles 
   };
 }
 
-export const CONTRIBUTION_REPO_URL = "https://github.com/gao-cai-sheng/qunxing-shanyaoshi";
+export const CONTRIBUTION_REPO_URL = "https://github.com/gao-cai-sheng/decisive-moments";
 
 export function buildIssueMarkdown(draft: ContributionDraft): string {
   const files = buildSubmissionFiles(draft);
