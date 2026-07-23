@@ -1,0 +1,165 @@
+{
+  "schemaVersion": 1,
+  "items": {
+    "philo-of-alexandria": {
+      "oneLineEn": "Interpreted Torah with Greek categories; key starting point of ancient Jewish philosophy.",
+      "keywordsEn": [
+        "allegorical exegesis",
+        "Logos",
+        "Hellenistic Jewish philosophy"
+      ]
+    },
+    "pierre-bayle": {
+      "oneLineEn": "Historical and Critical Dictionary influenced Leibniz via skepticism, tolerance, and theodicy.",
+      "keywordsEn": [
+        "skepticism",
+        "tolerance",
+        "Historical and Critical Dictionary"
+      ]
+    },
+    "poincare": {
+      "oneLineEn": "Conventionalism and scientific method; after mathematical foundations and Duhem.",
+      "keywordsEn": [
+        "French philosophy",
+        "identity tier",
+        "intellectual-history filler"
+      ]
+    },
+    "rabia-al-adawiyya": {
+      "oneLineEn": "Early Sufi saint whose pure divine love—not for paradise or hell—became classic source of Sufi love.",
+      "keywordsEn": [
+        "pure divine love",
+        "early Sufism",
+        "ascetic tradition"
+      ]
+    },
+    "ranciere": {
+      "oneLineEn": "Distribution of the sensible and political aesthetics; after Althusser.",
+      "keywordsEn": [
+        "French philosophy",
+        "identity tier",
+        "intellectual-history filler"
+      ]
+    },
+    "ravaisson": {
+      "oneLineEn": "Of Habit influenced Bergson and linked French spiritualism to classical metaphysics via Aristotle.",
+      "keywordsEn": [
+        "habit",
+        "Aristotelian studies",
+        "philosophy of life"
+      ]
+    },
+    "raymond-aron": {
+      "oneLineEn": "Liberal political philosophy and philosophy of history; after Weber and against Sartre.",
+      "keywordsEn": [
+        "French philosophy",
+        "identity tier",
+        "intellectual-history filler"
+      ]
+    },
+    "rene-girard": {
+      "oneLineEn": "Mimetic desire and the scapegoat mechanism.",
+      "keywordsEn": [
+        "French philosophy",
+        "identity tier",
+        "intellectual-history filler"
+      ]
+    },
+    "renouvier": {
+      "oneLineEn": "Neo-criticism rewrote Kant and influenced William James on free will.",
+      "keywordsEn": [
+        "neo-criticism",
+        "free will",
+        "reception of Kant"
+      ]
+    },
+    "rg-collingwood": {
+      "oneLineEn": "Philosophy of history and question-and-answer logic; fills Anglo-American historical epistemology.",
+      "keywordsEn": [
+        "philosophy of history",
+        "identity tier",
+        "second-line figure"
+      ]
+    },
+    "richard-swinburne": {
+      "oneLineEn": "Probabilistic theology and philosophy of religion; fills contemporary Anglo-American natural theology.",
+      "keywordsEn": [
+        "philosophy of religion",
+        "philosophy of religion",
+        "identity tier"
+      ]
+    },
+    "risieri-frondizi": {
+      "oneLineEn": "Argentine value theorist whose structure of value and self entered Latin American academic philosophy.",
+      "keywordsEn": [
+        "axiology",
+        "theory of the self",
+        "Latin American academic philosophy"
+      ]
+    },
+    "rm-hare": {
+      "oneLineEn": "Prescriptivism in normative ethics; transition between metaethics and applied ethics.",
+      "keywordsEn": [
+        "identity tier",
+        "second-line figure",
+        "intellectual-history filler"
+      ]
+    },
+    "robert-brandom": {
+      "oneLineEn": "Inferentialist semantics; Pittsburgh school after Sellars.",
+      "keywordsEn": [
+        "inferentialism",
+        "identity tier",
+        "second-line figure"
+      ]
+    },
+    "rodolfo-kusch": {
+      "oneLineEn": "Argentine thinker critiquing European ontology via American presence, Indigenous worlds, and popular culture.",
+      "keywordsEn": [
+        "American being",
+        "estar",
+        "Indigenous thought"
+      ]
+    },
+    "ruan-ji": {
+      "oneLineEn": "Wei-Jin xuanxue figure known for personal freedom, critique of ritual law, and Zhuangzi reception.",
+      "keywordsEn": [
+        "Seven Sages of the Bamboo Grove",
+        "Discourse on Understanding Zhuangzi",
+        "Biography of the Great Man"
+      ]
+    },
+    "rumi": {
+      "oneLineEn": "Persian Sufi poet-mystic whose Mathnawī made love, union, and soul transformation poetic philosophy.",
+      "keywordsEn": [
+        "Mathnawī",
+        "love and union",
+        "Persian Sufi poetry"
+      ]
+    },
+    "ruth-barcan-marcus": {
+      "oneLineEn": "Pioneer of quantified modal logic; modal-semantic background before Kripke.",
+      "keywordsEn": [
+        "modal logic",
+        "identity tier",
+        "second-line figure"
+      ]
+    },
+    "sakya-pandita": {
+      "oneLineEn": "Sakya systematizer who advanced Tibetan pramāṇa in Treasury of Reasoning.",
+      "keywordsEn": [
+        "Sakya",
+        "pramana theory",
+        "Treasury of Reasoning"
+      ]
+    },
+    "salazar-bondy": {
+      "oneLineEn": "Peruvian philosopher who opened the classic debate with Zea on Latin American philosophical authenticity.",
+      "keywordsEn": [
+        "Is There a Philosophy of Our America?",
+        "authenticity",
+        "dependency"
+      ]
+    }
+  }
+}
