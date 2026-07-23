@@ -1,0 +1,197 @@
+{
+  "schemaVersion": 1,
+  "items": {
+    "lucretius": {
+      "oneLineEn": "Roman Epicurean poet who, in De Rerum Natura, uses atomism to cure fear of the gods and of death.",
+      "keywordsEn": [
+        "metaphysics",
+        "religion",
+        "life and death"
+      ]
+    },
+    "seneca": {
+      "oneLineEn": "Roman Stoic statesman developing practical ethics in letters and essays on anger, clemency, and finite life.",
+      "keywordsEn": [
+        "ethics",
+        "freedom",
+        "life and death"
+      ]
+    },
+    "epictetus": {
+      "oneLineEn": "Roman Stoic teacher whose control dichotomy, assent training, and inner freedom define a practical handbook tradition.",
+      "keywordsEn": [
+        "ethics",
+        "freedom",
+        "knowledge"
+      ]
+    },
+    "marcus-aurelius": {
+      "oneLineEn": "Roman emperor and Stoic author who, in the Meditations, joins cosmic order, duty, and self-discipline.",
+      "keywordsEn": [
+        "ethics",
+        "politics",
+        "life and death"
+      ]
+    },
+    "fichte": {
+      "oneLineEn": "Advanced Kant's critical philosophy into a freedom system grounded in self-activity (Wissenschaftslehre).",
+      "keywordsEn": [
+        "the self",
+        "Wissenschaftslehre",
+        "freedom",
+        "right (Recht)",
+        "national education"
+      ]
+    },
+    "schelling": {
+      "oneLineEn": "Organized nature, spirit, art, and freedom into German Idealism's most generative systematic experiments.",
+      "keywordsEn": [
+        "philosophy of nature",
+        "identity philosophy",
+        "freedom",
+        "art",
+        "revelation"
+      ]
+    },
+    "feuerbach": {
+      "oneLineEn": "Inverted Hegelian theology into humanist critique of religion; a near gateway for Marx's early alienation critique.",
+      "keywordsEn": [
+        "critique of religion",
+        "projection",
+        "anthropology (humanism)",
+        "Young Hegelians",
+        "Marx"
+      ]
+    },
+    "pascal": {
+      "oneLineEn": "Reshaped early modern Christian apologetics through human fragility, reason's limits, and the wager.",
+      "keywordsEn": [
+        "Pensées",
+        "the wager",
+        "the heart (esprit de finesse)",
+        "esprit de géométrie",
+        "Montaigne"
+      ]
+    },
+    "peirce": {
+      "oneLineEn": "Founded scientific American pragmatism through inquiry logic, the pragmatic maxim, and triadic semiotics.",
+      "keywordsEn": [
+        "pragmatism",
+        "semiotics",
+        "abduction",
+        "categories",
+        "scientific community"
+      ]
+    },
+    "james": {
+      "oneLineEn": "Linked psychology, religious experience, free will, and pragmatic truth into radical empiricist pluralism.",
+      "keywordsEn": [
+        "stream of consciousness",
+        "pragmatism",
+        "will to believe",
+        "religious experience",
+        "pluralistic universe"
+      ]
+    },
+    "du-bois": {
+      "oneLineEn": "Advanced racial experience as modern political philosophy via double consciousness, color line, and abolition democracy.",
+      "keywordsEn": [
+        "the color line",
+        "double consciousness",
+        "the Veil",
+        "abolition democracy",
+        "Black Reconstruction"
+      ]
+    },
+    "moore": {
+      "oneLineEn": "Helped form Cambridge analytic philosophy via ethical non-naturalism, anti-idealism, and common-sense realism.",
+      "keywordsEn": [
+        "naturalistic fallacy",
+        "indefinability of good",
+        "anti-idealism",
+        "common sense",
+        "external world"
+      ]
+    },
+    "popper": {
+      "oneLineEn": "Remade 20th-c. philosophy of science and politics through falsifiability, critical rationalism, and the open society.",
+      "keywordsEn": [
+        "falsifiability",
+        "critical rationalism",
+        "open society",
+        "critique of historicism",
+        "objective knowledge"
+      ]
+    },
+    "kuhn": {
+      "oneLineEn": "Rewrote historical philosophy of scientific progress via paradigms, normal science, and scientific revolutions.",
+      "keywordsEn": [
+        "paradigm",
+        "normal science",
+        "scientific revolution",
+        "incommensurability",
+        "historical philosophy of science"
+      ]
+    },
+    "dilthey": {
+      "oneLineEn": "Brought the historical life-world into method via Geisteswissenschaften, Erlebnis, and Verstehen.",
+      "keywordsEn": [
+        "Geisteswissenschaften",
+        "understanding (Verstehen)",
+        "lived experience (Erlebnis)",
+        "historical world",
+        "worldview"
+      ]
+    },
+    "gadamer": {
+      "oneLineEn": "Extended hermeneutics from method to ontology via effective history, fusion of horizons, and linguisticality.",
+      "keywordsEn": [
+        "philosophical hermeneutics",
+        "effective history",
+        "fusion of horizons",
+        "language",
+        "Truth and Method"
+      ]
+    },
+    "jaspers": {
+      "oneLineEn": "Connected Kierkegaard, Nietzsche, Heidegger, and Arendt through Existenz, limit situations, and the Axial Age.",
+      "keywordsEn": [
+        "Existenz",
+        "limit situations",
+        "the Encompassing",
+        "Axial Age",
+        "the question of guilt"
+      ]
+    },
+    "sextus-empiricus": {
+      "oneLineEn": "Preserved ancient Pyrrhonism in the Outlines and Against the Professors, a hub for early modern skeptical revival.",
+      "keywordsEn": [
+        "suspension of judgment (epochē)",
+        "equipollence",
+        "ataraxia",
+        "Pyrrhonism",
+        "anti-dogmatism"
+      ]
+    },
+    "duns-scotus": {
+      "oneLineEn": "Scholastic link between Aquinas and Ockham via univocity of being, formal distinction, and individuation theory.",
+      "keywordsEn": [
+        "univocity of being",
+        "individuality (haecceity)",
+        "formal distinction",
+        "priority of the will",
+        "Immaculate Conception"
+      ]
+    },
+    "al-kindi": {
+      "oneLineEn": "Founding figure of Arabic philosophy uniting the Greek translation movement, first philosophy, and Islamic monotheism.",
+      "keywordsEn": [
+        "Arabic philosophy",
+        "first philosophy",
+        "translation movement",
+        "intellect",
+        "creation"
+      ]
+    }
+  }
+}

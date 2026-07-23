@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "items": {
+    "confucius": {
+      "oneLineEn": "Founded the Confucian ethical-political tradition on ren (humaneness), ritual propriety, and junzi cultivation.",
+      "keywordsEn": ["ethics", "politics", "justice"]
+    },
+    "buddha": {
+      "oneLineEn": "Recast Indian thought on life, attachment, and freedom through dukkha, dependent origination, non-self, and liberation.",
+      "keywordsEn": [
+        "the Four Noble Truths",
+        "dependent origination",
+        "non-self (anatta)",
+        "the Middle Way",
+        "the Noble Eightfold Path",
+        "nirvana"
+      ]
+    },
+    "plato": {
+      "oneLineEn": "His theory of Forms and the Republic make him one of the core sources of Western philosophy.",
+      "keywordsEn": ["justice", "knowledge", "metaphysics"]
+    },
+    "aristotle": {
+      "oneLineEn": "Built a systematic philosophical framework around substance, final cause, and virtue ethics.",
+      "keywordsEn": ["ethics", "metaphysics", "politics"]
+    },
+    "kant": {
+      "oneLineEn": "Through critical philosophy, reset the bounds of knowledge, freedom, and the moral law.",
+      "keywordsEn": ["knowledge", "ethics", "freedom"]
+    },
+    "rawls": {
+      "oneLineEn": "Reshaped contemporary political philosophy's problem-frame through justice as fairness.",
+      "keywordsEn": ["justice", "politics", "ethics"]
+    }
+  }
+}

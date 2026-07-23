@@ -1,0 +1,179 @@
+{
+  "schemaVersion": 1,
+  "items": {
+    "basil-the-great": {
+      "oneLineEn": "One of the Cappadocian Fathers; shaped Greek patristics via Trinitarian theology, creation exegesis, and monastic rules.",
+      "keywordsEn": [
+        "Cappadocian Fathers",
+        "Trinitarian theology",
+        "Hexaemeron",
+        "monastic rules"
+      ]
+    },
+    "gregory-of-nazianzus": {
+      "oneLineEn": "One of the Cappadocian Fathers; his Five Theological Orations fixed Eastern Orthodox Trinitarian expression.",
+      "keywordsEn": [
+        "the Theologian",
+        "Theological Orations",
+        "Trinity",
+        "Cappadocian Fathers"
+      ]
+    },
+    "gregory-of-nyssa": {
+      "oneLineEn": "One of the Cappadocian Fathers; deepened Greek patristics via mystical theology, epektasis, and anthropology.",
+      "keywordsEn": [
+        "The Life of Moses",
+        "epektasis (endless progress)",
+        "mystical theology",
+        "On the Making of Man"
+      ]
+    },
+    "john-of-damascus": {
+      "oneLineEn": "Byzantine doctrine systemizer linking Aristotelian logic and Orthodoxy via Fountain of Knowledge and icon defense.",
+      "keywordsEn": [
+        "The Fountain of Knowledge",
+        "Exact Exposition of the Orthodox Faith",
+        "defense of icons",
+        "Aristotelian logic"
+      ]
+    },
+    "mani": {
+      "oneLineEn": "Sasanian founder of Manichaeism; cast light-dark dualism, soteriology, and ascetic ethics in self-authored scriptures.",
+      "keywordsEn": [
+        "Manichaeism",
+        "light-dark dualism",
+        "salvation",
+        "Shabuhragan"
+      ]
+    },
+    "maximus-the-confessor": {
+      "oneLineEn": "Byzantine theological synthesizer taking up Greek patristics via the Ambigua, dyothelitism, and cosmic Christology.",
+      "keywordsEn": [
+        "Ambigua",
+        "dyothelitism",
+        "the Confessor",
+        "cosmic Christology"
+      ]
+    },
+    "pseudo-dionysius": {
+      "oneLineEn": "Pseudepigraphic (~500) negative theology, Divine Names, and hierarchy shaping Eastern and Latin medieval thought.",
+      "keywordsEn": [
+        "pseudepigraphy",
+        "negative theology",
+        "Divine Names",
+        "Celestial Hierarchy"
+      ]
+    },
+    "zoroaster": {
+      "oneLineEn": "Ancient Iranian prophet of Zoroastrianism; good-evil choice, asha, and last judgment source pre-Islamic Persian thought.",
+      "keywordsEn": [
+        "Ahura Mazda",
+        "good-evil dualism",
+        "asha (truth-order)",
+        "Gathas"
+      ]
+    },
+    "michael-psellos": {
+      "oneLineEn": "Byzantine polymath joining classical and medieval Greek thought via Platonic revival, court notes, and encyclopedism.",
+      "keywordsEn": [
+        "Chronographia",
+        "Platonic revival",
+        "Byzantine polymath",
+        "De omnifaria doctrina"
+      ]
+    },
+    "aleksei-khomyakov": {
+      "oneLineEn": "Core Slavophile theorist who framed freedom, community, and Orthodox tradition through sobornost.",
+      "keywordsEn": [
+        "Slavophilism",
+        "sobornost (conciliarity)",
+        "sobornost",
+        "Orthodox community"
+      ]
+    },
+    "alexander-herzen": {
+      "oneLineEn": "Russian Westernizer and exile thinker known for personal freedom, peasant socialism, and Russia's modernization problem.",
+      "keywordsEn": [
+        "My Past and Thoughts",
+        "peasant socialism",
+        "Westernizers",
+        "freedom"
+      ]
+    },
+    "buddhadasa": {
+      "oneLineEn": "Modern Thai Buddhist thinker linking reform and politics via dependent origination, anapanasati, and Dhammic socialism.",
+      "keywordsEn": [
+        "Thai Buddhist reform",
+        "dependent origination",
+        "Dhammic socialism",
+        "anapanasati (mindfulness of breathing)"
+      ]
+    },
+    "buddhaghosa": {
+      "oneLineEn": "Core systematizer of Theravada Pali commentary; Visuddhimagga unites sila-samadhi-panna, Abhidhamma, and the path.",
+      "keywordsEn": [
+        "Visuddhimagga",
+        "Pali commentaries",
+        "Theravada",
+        "path of purification"
+      ]
+    },
+    "chen-liang": {
+      "oneLineEn": "Southern Song Yongkang figure known for practical accomplishment and the Wang-Ba / yi-li debate with Zhu Xi.",
+      "keywordsEn": [
+        "Yongkang School",
+        "practical accomplishment (shigong)",
+        "Longchuan Collected Works"
+      ]
+    },
+    "chen-xianzhang": {
+      "oneLineEn": "Founder of the Ming Baisha School, stressing self-attainment of mind-substance and quiet-sitting cultivation.",
+      "keywordsEn": [
+        "Baisha Learning of the Mind",
+        "quiet-sitting",
+        "natural self-attainment"
+      ]
+    },
+    "dao-an": {
+      "oneLineEn": "Eastern Jin monk who advanced scripture catalogs, sangha norms, and the autonomy of Chinese Buddhism.",
+      "keywordsEn": [
+        "critique of geyi matching",
+        "sangha institutions",
+        "scripture catalogs"
+      ]
+    },
+    "daoxuan": {
+      "oneLineEn": "Tang Vinaya master and Buddhist historian known for Vinaya learning and compilation of monk biographies.",
+      "keywordsEn": [
+        "Vinaya School",
+        "Further Biographies of Eminent Monks",
+        "Commentary on the Dharmaguptaka Vinaya"
+      ]
+    },
+    "dong-zhongshu": {
+      "oneLineEn": "Western Han Confucian who joined Spring and Autumn learning, yin-yang Five Phases, and dynastic politics.",
+      "keywordsEn": [
+        "Luxuriant Dew of the Spring and Autumn Annals",
+        "resonance of Heaven and humanity",
+        "Han Confucianism"
+      ]
+    },
+    "fang-yizhi": {
+      "oneLineEn": "Ming-Qing thinker bridging Confucianism, Buddhism, Daoism, and natural knowledge.",
+      "keywordsEn": [
+        "Equalizing East and West",
+        "Notes on the Principles of Things",
+        "empirical measurement and penetrating the subtle"
+      ]
+    },
+    "fyodor-dostoevsky": {
+      "oneLineEn": "Russian novelist-thinker who carried religion, freedom, evil, and redemption in literary form.",
+      "keywordsEn": [
+        "The Brothers Karamazov",
+        "Notes from Underground",
+        "freedom",
+        "sin and redemption"
+      ]
+    }
+  }
+}
