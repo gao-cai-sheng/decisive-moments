@@ -15,12 +15,31 @@
 
 | 批 | 目录 | 人数 | 术语基线 |
 |---|---|---|---|
-| P0-007 | `docs/research/tmp/translation/2026-07-22-p0-batch-007/` | 20 | 006 glossary |
-| P0-008 | `docs/research/tmp/translation/2026-07-22-p0-batch-008/` | 20 | 007 glossary |
-| P0-009 | `docs/research/tmp/translation/2026-07-22-p0-batch-009/` | 20 | 008 glossary |
+| P0-024 | `docs/research/tmp/translation/2026-07-23-p0-batch-024/` | 30 | 023 glossary |
+| P0-025 | `docs/research/tmp/translation/2026-07-23-p0-batch-025/` | 30 | 024 glossary |
+| P0-026 | `docs/research/tmp/translation/2026-07-23-p0-batch-026/` | 29 | 025 glossary |
 
 每批 `brief.md` 已就位，列出该批 id、`names.en`、源 `oneLineZh`、源 `keywordsZh`。
 **source of truth 是现库 `public/data/philosophers.index.json` 的实际值**，brief 表格仅为便读镜像；有出入以 index 为准。
+
+### 本轮是重译批 —— 必读
+
+这 89 位在 010–023 批里已经翻译过一遍，盲审 PASS，但**没有被 admit**。原因不在你的译文，而在当时的中文源：
+
+- `keywordsZh` 里混着数据管线的内部标签 `身份层` / `二线哲人` / `思想史补线`，它们夹在「政治」「伦理」这类真关键词中间，看不出是标签；
+- `oneLineZh` 里带着选人时的编辑备注 `可补 X` / `接 xxx` / `身份层锚点`，以及尾注 `★升档候选`。
+
+忠实翻译这些内容，得到的是 `identity tier`、`second-line figure`、`intellectual-history filler`、`fills contemporary philosophy of religion`、`identity-tier anchor`——对读者毫无意义。其中「二线哲人 → second-line figure」是内部评级，公开显示等于当面贬低该哲学家。（顺带一提：当时你**正确地丢弃了** `★升档候选` 尾注而没有译出，那个判断是对的。）
+
+**中文源已在 `23deb9b` 全部修正**：内部标签换成了各人真实的关键词（有 20 位三个关键词全是标签，已按其自身内容重写），`oneLineZh` 改写为陈述其思想贡献而非入库理由。
+
+对你的要求：
+
+1. **旧译文一律作废。** 不要参考 `2026-07-22-p0-batch-0*/patch.philosophers.json` 里这些 id 的内容——那是对旧中文的翻译，与新中文逐字对不上。
+2. **以各批 brief 表格中的中文为准**，它就是现库 index 的实际值。
+3. 这批以欧陆与英美现当代哲学家为主，专名与术语大多有成熟的学界英文形式（`habitus` / `field` / `cultural capital`、`the normal and the pathological`、`descriptive metaphysics`、`speech act`、`mimetic desire`）。**直接用通行译法，不要从中文回译。**
+4. 关键词现在是真实概念而非标签，`keywordsEn` 要译出概念本身，不要笼统化——「认识论障碍」应作 `epistemological obstacle`，不可写成 `epistemology`。
+5. 上一轮全部 284 条里只有一处实质越界：`raymond-aron` 的「接 weber/sartre」被译成 "after Weber and **against** Sartre"，对立判断是源文没有的。本轮该条中文已改为「与萨特长期论争」，可以照译；但**原则不变——不要补充源文没有的判断**，哪怕它是史实。
 
 ## 每批交付物（写进该批目录）
 
@@ -84,4 +103,6 @@ Claude 新上下文盲审：抽样 ≥20% 核对专名/术语一致性/无漏译
 
 ## 范围溯源（可复算）
 
-007–009 = 未覆盖 & `oneLineZh` 为真实内容者（占位模板属中文内容债，不翻），按 `tier(standard→seed) → influenceWeight 降序 → id 升序` 取前 60，切成三批。007 先清剩余 standard 档。剩余真内容池约 284 位（后续批次继续出 brief）。
+024–026 = 010–023 轮中因中文源含内部标记而**挂起未 admit** 的 89 位，即「在 010–023 各批 `patch.philosophers.json` 中出现、但 index 至今无 `oneLineEn`/`keywordsEn`」者。中文已修正，故整体重译。排序仍按 `tier(standard→seed) → influenceWeight 降序 → id 升序`，切成 30/30/29 三批（前几轮为 20/批，本轮因是重译且术语集中而放宽）。
+
+历史：001–009 共 166 位、010–023 中通过的 195 位，已 admit 进 index（合计 361/542）。另有约 92 位 `oneLineZh` 仍为占位模板，属中文内容债，**不在 P0 范围**，需先补中文。
