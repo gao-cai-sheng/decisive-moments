@@ -1,0 +1,245 @@
+{
+  "schemaVersion": 1,
+  "items": {
+    "george-herbert-mead": {
+      "oneLineEn": "Built a theory of the social self via I/me distinction and role-taking.",
+      "keywordsEn": [
+        "social self",
+        "symbolic interaction",
+        "role-taking"
+      ]
+    },
+    "george-santayana": {
+      "oneLineEn": "At the border of naturalism, skepticism, and aesthetics; Life of Reason and Realms of Being.",
+      "keywordsEn": [
+        "naturalism",
+        "aesthetics",
+        "realm of essence"
+      ]
+    },
+    "georges-bataille": {
+      "oneLineEn": "Explored the sacred and transgression through expenditure, excess, and general economy.",
+      "keywordsEn": [
+        "expenditure",
+        "transgression",
+        "general economy"
+      ]
+    },
+    "georges-sorel": {
+      "oneLineEn": "Reflections on Violence made social myth and revolutionary syndicalism a heterodox Marxist path.",
+      "keywordsEn": [
+        "violence",
+        "social myth",
+        "syndicalism"
+      ]
+    },
+    "gilbert-ryle": {
+      "oneLineEn": "The Concept of Mind's 'ghost in the machine' critique of dualism grounded ordinary-language philosophy.",
+      "keywordsEn": [
+        "ordinary language",
+        "category mistake",
+        "The Concept of Mind"
+      ]
+    },
+    "gilbert-simondon": {
+      "oneLineEn": "Recast philosophy of technology through individuation and the mode of existence of technical objects.",
+      "keywordsEn": [
+        "individuation",
+        "philosophy of technology",
+        "transindividual"
+      ]
+    },
+    "giovanni-gentile": {
+      "oneLineEn": "Founder of actual idealism; pure act of thinking as sole reality, diverging from Croce.",
+      "keywordsEn": [
+        "actual idealism",
+        "Italian idealism",
+        "act of thinking"
+      ]
+    },
+    "hans-jonas": {
+      "oneLineEn": "The Imperative of Responsibility set ethical demands on technological civilization for future generations.",
+      "keywordsEn": [
+        "ethics of responsibility",
+        "critique of technology",
+        "Gnostic studies"
+      ]
+    },
+    "heinrich-rickert": {
+      "oneLineEn": "Refined cultural-science methodology via value-relation; direct background to Weber's method.",
+      "keywordsEn": [
+        "value-relation",
+        "cultural sciences",
+        "Southwest School"
+      ]
+    },
+    "henry-sidgwick": {
+      "oneLineEn": "Systematizer of classical utilitarianism; Methods of Ethics set a technical frame after Mill.",
+      "keywordsEn": [
+        "utilitarianism",
+        "Methods of Ethics",
+        "intuitionism"
+      ]
+    },
+    "jacques-maritain": {
+      "oneLineEn": "Neo-Thomist who supplied philosophical arguments for the Universal Declaration of Human Rights.",
+      "keywordsEn": [
+        "neo-Thomism",
+        "human rights",
+        "integral humanism"
+      ]
+    },
+    "jaimini": {
+      "oneLineEn": "Traditional author of the Mīmāṃsā Sūtra; early Mīmāṃsā ritual hermeneutics takes its stand here.",
+      "keywordsEn": [
+        "Mīmāṃsā",
+        "ritual hermeneutics",
+        "traditional attribution"
+      ]
+    },
+    "jan-patocka": {
+      "oneLineEn": "Czech phenomenologist and Charter 77 spokesman; care of the soul as historical existence.",
+      "keywordsEn": [
+        "phenomenology",
+        "care of the soul",
+        "dissident politics"
+      ]
+    },
+    "jane-addams": {
+      "oneLineEn": "Hull House founder who carried pragmatism into social reform and the peace movement.",
+      "keywordsEn": [
+        "social ethics",
+        "democracy",
+        "pragmatist reform"
+      ]
+    },
+    "jankelevitch": {
+      "oneLineEn": "Wrote the fine grain of moral experience through the almost-nothing and the unforgivable.",
+      "keywordsEn": [
+        "moral philosophy",
+        "the unforgivable",
+        "the almost-nothing"
+      ]
+    },
+    "jean-luc-nancy": {
+      "oneLineEn": "Inoperative community and being-with ontology in response to Heidegger and Bataille.",
+      "keywordsEn": [
+        "community",
+        "being-with",
+        "deconstructive ontology"
+      ]
+    },
+    "jjc-smart": {
+      "oneLineEn": "Mind-brain identity theory and consequentialism under a thoroughgoing scientific realism.",
+      "keywordsEn": [
+        "mind-brain identity theory",
+        "consequentialism",
+        "scientific realism"
+      ]
+    },
+    "jl-austin": {
+      "oneLineEn": "Source of speech-act theory; How to Do Things with Words moved language from meaning to action.",
+      "keywordsEn": [
+        "speech acts",
+        "performative utterance",
+        "ordinary language"
+      ]
+    },
+    "john-mcdowell": {
+      "oneLineEn": "Mind and World holds experience already conceptual, reconnecting analysis with Hegel.",
+      "keywordsEn": [
+        "conceptual experience",
+        "virtue ethics",
+        "Pittsburgh School"
+      ]
+    },
+    "jose-ortega-y-gasset": {
+      "oneLineEn": "Advocate of ratiovitalism and perspectivism; The Revolt of the Masses critiques mass society.",
+      "keywordsEn": [
+        "ratiovitalism",
+        "perspectivism",
+        "mass society"
+      ]
+    },
+    "josiah-royce": {
+      "oneLineEn": "American absolute idealist and philosopher of community, centering ethics on loyalty.",
+      "keywordsEn": [
+        "absolute idealism",
+        "community",
+        "philosophy of loyalty"
+      ]
+    },
+    "judith-jarvis-thomson": {
+      "oneLineEn": "Violinist argument and trolley problem reshaped applied ethics' case tradition.",
+      "keywordsEn": [
+        "rights",
+        "bioethics",
+        "trolley problem"
+      ]
+    },
+    "judith-shklar": {
+      "oneLineEn": "Rebuilt liberalism around the liberalism of fear and a priority concern with cruelty.",
+      "keywordsEn": [
+        "liberalism of fear",
+        "cruelty",
+        "injustice"
+      ]
+    },
+    "kanada": {
+      "oneLineEn": "Traditional author of the Vaiśeṣika Sūtra; Vaiśeṣika atomism and categories take their stand here.",
+      "keywordsEn": [
+        "Vaiśeṣika Sūtra",
+        "atomism",
+        "categories"
+      ]
+    },
+    "karl-lowith": {
+      "oneLineEn": "Argued that modern progress historiography is a secularized Christian eschatology.",
+      "keywordsEn": [
+        "philosophy of history",
+        "secularization",
+        "critique of modernity"
+      ]
+    },
+    "koyre": {
+      "oneLineEn": "From the Closed World to the Infinite Universe rewrote Scientific Revolution history, shaping Kuhn.",
+      "keywordsEn": [
+        "history of the Scientific Revolution",
+        "history of ideas",
+        "infinite universe"
+      ]
+    },
+    "lacan": {
+      "oneLineEn": "Reread Freud via the mirror stage and the claim that the unconscious is structured like a language.",
+      "keywordsEn": [
+        "psychoanalysis",
+        "mirror stage",
+        "the Symbolic"
+      ]
+    },
+    "leo-strauss": {
+      "oneLineEn": "Revived classical political philosophy and reread the ancients-moderns quarrel via esoteric writing.",
+      "keywordsEn": [
+        "classical political philosophy",
+        "esoteric writing",
+        "ancients and moderns"
+      ]
+    },
+    "leszek-kolakowski": {
+      "oneLineEn": "Author of Main Currents of Marxism; moved from revisionism to religious questioning of utopia.",
+      "keywordsEn": [
+        "philosophy of religion",
+        "critique of Marxism",
+        "Eastern European thought"
+      ]
+    },
+    "levi-strauss": {
+      "oneLineEn": "Founded structural anthropology through kinship structures and myth analysis.",
+      "keywordsEn": [
+        "structural anthropology",
+        "mythology",
+        "kinship structures"
+      ]
+    }
+  }
+}

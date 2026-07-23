@@ -1,0 +1,245 @@
+{
+  "schemaVersion": 1,
+  "items": {
+    "aj-ayer": {
+      "oneLineEn": "Language, Truth and Logic brought the Vienna Circle into the English-speaking world.",
+      "keywordsEn": [
+        "logical positivism",
+        "verification principle",
+        "emotivism"
+      ]
+    },
+    "alain-locke": {
+      "oneLineEn": "Philosophical interpreter of the Harlem Renaissance; argued value pluralism across cultural difference.",
+      "keywordsEn": [
+        "value pluralism",
+        "Harlem Renaissance",
+        "cultural pluralism"
+      ]
+    },
+    "alexandre-kojeve": {
+      "oneLineEn": "Lectures on the Phenomenology via master-slave dialectic shaped a generation of French thinkers.",
+      "keywordsEn": [
+        "Hegel interpretation",
+        "master-slave dialectic",
+        "end of history"
+      ]
+    },
+    "alexius-meinong": {
+      "oneLineEn": "Founder of the theory of objects; non-existent objects still have a way of being, shaping ontology debates.",
+      "keywordsEn": [
+        "theory of objects",
+        "non-existent objects",
+        "Graz School"
+      ]
+    },
+    "alvin-plantinga": {
+      "oneLineEn": "Reformed epistemology and modal ontological argument; theistic belief can be properly basic.",
+      "keywordsEn": [
+        "philosophy of religion",
+        "Reformed epistemology",
+        "modal ontological argument"
+      ]
+    },
+    "bachelard": {
+      "oneLineEn": "Recast history of science through epistemological break and obstacle, plus a poetics of material imagination.",
+      "keywordsEn": [
+        "epistemological break",
+        "epistemological obstacle",
+        "poetics of imagination"
+      ]
+    },
+    "badiou": {
+      "oneLineEn": "Being and Event builds ontology and an evental conception of truth on set theory.",
+      "keywordsEn": [
+        "event",
+        "set-theoretic ontology",
+        "truth procedures"
+      ]
+    },
+    "baudrillard": {
+      "oneLineEn": "Analyzed consumer society's symbolic logic through simulacra and hyperreality.",
+      "keywordsEn": [
+        "simulacra",
+        "consumer society",
+        "hyperreality"
+      ]
+    },
+    "bourdieu": {
+      "oneLineEn": "Built a theory of social practice around habitus, field, and cultural capital.",
+      "keywordsEn": [
+        "habitus",
+        "field",
+        "cultural capital"
+      ]
+    },
+    "bruno-latour": {
+      "oneLineEn": "Actor-network theory brings nonhumans into social analysis.",
+      "keywordsEn": [
+        "actor-network theory",
+        "anthropology of science",
+        "nonhuman actors"
+      ]
+    },
+    "brunschvicg": {
+      "oneLineEn": "Hub of French academic epistemology via philosophy of judgment and history of the scientific spirit.",
+      "keywordsEn": [
+        "philosophy of judgment",
+        "history of the scientific spirit",
+        "French epistemology"
+      ]
+    },
+    "canguilhem": {
+      "oneLineEn": "The Normal and the Pathological rewrote philosophy of medicine via vital normativity; Foucault's mentor.",
+      "keywordsEn": [
+        "the normal and the pathological",
+        "history of the life sciences",
+        "philosophy of medicine"
+      ]
+    },
+    "cavailles": {
+      "oneLineEn": "Opposed philosophy of consciousness with a philosophy of the concept; executed for Resistance activity.",
+      "keywordsEn": [
+        "philosophy of the concept",
+        "philosophy of mathematics",
+        "Resistance"
+      ]
+    },
+    "cd-broad": {
+      "oneLineEn": "Cambridge synthesizer of mind, ethics, and metaphysics, known for fine classification and moderate eclecticism.",
+      "keywordsEn": [
+        "Cambridge analysis",
+        "philosophy of mind",
+        "critical history of philosophy"
+      ]
+    },
+    "ci-lewis": {
+      "oneLineEn": "Conceptual pragmatism and modal logic; strict implication answered material-implication paradoxes.",
+      "keywordsEn": [
+        "modal logic",
+        "conceptual pragmatism",
+        "strict implication"
+      ]
+    },
+    "claude-lefort": {
+      "oneLineEn": "Defined democracy by the empty place of power and systematically critiqued totalitarianism.",
+      "keywordsEn": [
+        "empty place of democracy",
+        "critique of totalitarianism",
+        "political philosophy"
+      ]
+    },
+    "cornelius-castoriadis": {
+      "oneLineEn": "Social imaginary institution and autonomy theory as a heterodox Western Marxism.",
+      "keywordsEn": [
+        "autonomy",
+        "social imaginary",
+        "Socialism or Barbarism"
+      ]
+    },
+    "cournot": {
+      "oneLineEn": "Linked positivism and French epistemology via probability, economics, and theories of chance.",
+      "keywordsEn": [
+        "philosophy of probability",
+        "contingency",
+        "philosophy of science"
+      ]
+    },
+    "david-armstrong": {
+      "oneLineEn": "Australian materialist whose realist universals and mind-brain identity form a metaphysical system.",
+      "keywordsEn": [
+        "scientific realism",
+        "universals",
+        "mind-brain identity theory"
+      ]
+    },
+    "duhem": {
+      "oneLineEn": "Duhem thesis: hypotheses cannot be tested in isolation; paved the way for Quinean holism.",
+      "keywordsEn": [
+        "holism",
+        "underdetermination",
+        "history of science"
+      ]
+    },
+    "emmanuel-mounier": {
+      "oneLineEn": "Founder of the personalist movement; launched Esprit for personhood and community.",
+      "keywordsEn": [
+        "personalism",
+        "person",
+        "community"
+      ]
+    },
+    "eric-voegelin": {
+      "oneLineEn": "Diagnosed modernity through political religion and philosophy of order, treating Gnosticism as the disease.",
+      "keywordsEn": [
+        "political religion",
+        "philosophy of order",
+        "critique of Gnosticism"
+      ]
+    },
+    "ernst-cassirer": {
+      "oneLineEn": "Founder of the philosophy of symbolic forms, uniting myth, language, and science as human symbolization.",
+      "keywordsEn": [
+        "symbolic forms",
+        "Neo-Kantianism",
+        "cultural philosophy"
+      ]
+    },
+    "ernst-troeltsch": {
+      "oneLineEn": "Historicism and philosophy of religion at the crossroads of Dilthey, Weber, and theological modernity.",
+      "keywordsEn": [
+        "philosophy of religion",
+        "historicism",
+        "social history of Christianity"
+      ]
+    },
+    "etienne-gilson": {
+      "oneLineEn": "Reread Aquinas around esse and advanced the historiography of medieval philosophy.",
+      "keywordsEn": [
+        "history of medieval philosophy",
+        "Thomism",
+        "metaphysics of being"
+      ]
+    },
+    "fh-bradley": {
+      "oneLineEn": "British absolute idealist; internal relations became a main target of the Russell-Moore revolt.",
+      "keywordsEn": [
+        "absolute idealism",
+        "internal relations",
+        "Appearance and Reality"
+      ]
+    },
+    "frank-ramsey": {
+      "oneLineEn": "Early hub of truth, probability, decision, and economics; foundational work despite death at twenty-six.",
+      "keywordsEn": [
+        "Cambridge analysis",
+        "probability",
+        "deflationary theory of truth"
+      ]
+    },
+    "franz-brentano": {
+      "oneLineEn": "Revived intentionality; descriptive psychology linked Aristotle, scholasticism, and Husserl.",
+      "keywordsEn": [
+        "intentionality",
+        "descriptive psychology",
+        "Brentano School"
+      ]
+    },
+    "gabriel-marcel": {
+      "oneLineEn": "Christian existentialist who distinguished mystery from problem and developed a phenomenology of hope.",
+      "keywordsEn": [
+        "existentialism",
+        "mystery",
+        "hope"
+      ]
+    },
+    "georg-simmel": {
+      "oneLineEn": "Formal sociology and cultural philosophy analyzing modern experience via interaction forms and money.",
+      "keywordsEn": [
+        "formal sociology",
+        "cultural philosophy",
+        "modernity"
+      ]
+    }
+  }
+}
