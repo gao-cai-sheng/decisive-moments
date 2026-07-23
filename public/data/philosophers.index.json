@@ -27,7 +27,13 @@
       "政治",
       "正义"
     ],
+    "keywordsEn": [
+      "ethics",
+      "politics",
+      "justice"
+    ],
     "oneLineZh": "以仁、礼和君子修养奠定儒家伦理政治传统。",
+    "oneLineEn": "Founded the Confucian ethical-political tradition on ren (humaneness), ritual propriety, and junzi cultivation.",
     "influenceWeight": 3,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -60,7 +66,13 @@
       "政治",
       "生死"
     ],
+    "keywordsEn": [
+      "metaphysics",
+      "politics",
+      "life and death"
+    ],
     "oneLineZh": "以道、无为和反强制秩序开辟道家思想。",
+    "oneLineEn": "Opens Daoist thought through the Dao, wuwei, and resistance to coercive order.",
     "influenceWeight": 1,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -93,7 +105,13 @@
       "语言",
       "生死"
     ],
+    "keywordsEn": [
+      "freedom",
+      "language",
+      "life and death"
+    ],
     "oneLineZh": "以逍遥、齐物和语言怀疑展开自由哲学。",
+    "oneLineEn": "Develops a philosophy of freedom through wandering, equalizing things, and linguistic skepticism.",
     "influenceWeight": 1,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -367,7 +385,16 @@
       "八正道",
       "涅槃"
     ],
+    "keywordsEn": [
+      "the Four Noble Truths",
+      "dependent origination",
+      "non-self (anatta)",
+      "the Middle Way",
+      "the Noble Eightfold Path",
+      "nirvana"
+    ],
     "oneLineZh": "以苦、缘起、无我和解脱道路重塑印度思想中关于生命、执著与自由的根本问题。",
+    "oneLineEn": "Recast Indian thought on life, attachment, and freedom through dukkha, dependent origination, non-self, and liberation.",
     "influenceWeight": 3,
     "reviewStatus": "reviewed",
     "tier": "standard"
@@ -829,7 +856,13 @@
       "知识",
       "形而上学"
     ],
+    "keywordsEn": [
+      "justice",
+      "knowledge",
+      "metaphysics"
+    ],
     "oneLineZh": "以理念论和《理想国》构成西方哲学核心源头之一。",
+    "oneLineEn": "His theory of Forms and the Republic make him one of the core sources of Western philosophy.",
     "influenceWeight": 3,
     "reviewStatus": "reviewed",
     "tier": "standard"
@@ -862,7 +895,13 @@
       "形而上学",
       "政治"
     ],
+    "keywordsEn": [
+      "ethics",
+      "metaphysics",
+      "politics"
+    ],
     "oneLineZh": "以实体、目的因和德性伦理建立系统哲学框架。",
+    "oneLineEn": "Built a systematic philosophical framework around substance, final cause, and virtue ethics.",
     "influenceWeight": 3,
     "reviewStatus": "reviewed",
     "tier": "standard"
@@ -1555,7 +1594,13 @@
       "伦理",
       "自由"
     ],
+    "keywordsEn": [
+      "knowledge",
+      "ethics",
+      "freedom"
+    ],
     "oneLineZh": "以批判哲学重设知识、自由和道德法则的边界。",
+    "oneLineEn": "Through critical philosophy, reset the bounds of knowledge, freedom, and the moral law.",
     "influenceWeight": 3,
     "reviewStatus": "reviewed",
     "tier": "standard"
@@ -2282,7 +2327,13 @@
       "政治",
       "伦理"
     ],
+    "keywordsEn": [
+      "justice",
+      "politics",
+      "ethics"
+    ],
     "oneLineZh": "以公平正义理论重塑当代政治哲学的问题框架。",
+    "oneLineEn": "Reshaped contemporary political philosophy's problem-frame through justice as fairness.",
     "influenceWeight": 3,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -3334,7 +3385,13 @@
       "形而上学",
       "知识"
     ],
+    "keywordsEn": [
+      "ethics",
+      "metaphysics",
+      "knowledge"
+    ],
     "oneLineZh": "芝诺之后的斯多葛学派领袖，以《宙斯赞歌》和顺从宇宙理性的虔敬伦理著称。",
+    "oneLineEn": "Stoic leader after Zeno, known for the Hymn to Zeus and a piety of assent to cosmic reason.",
     "influenceWeight": 1,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -3368,7 +3425,13 @@
       "形而上学",
       "知识"
     ],
+    "keywordsEn": [
+      "ethics",
+      "metaphysics",
+      "knowledge"
+    ],
     "oneLineZh": "系统化早期斯多葛逻辑、物理学和伦理学，使斯多葛主义成为严整哲学体系。",
+    "oneLineEn": "Systematized early Stoic logic, physics, and ethics into a rigorous philosophical architecture.",
     "influenceWeight": 1,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -3402,7 +3465,13 @@
       "政治",
       "自由"
     ],
+    "keywordsEn": [
+      "ethics",
+      "politics",
+      "freedom"
+    ],
     "oneLineZh": "犬儒学派代表人物，用贫穷、自足和公开挑衅把哲学变成生活批判。",
+    "oneLineEn": "Cynic who made philosophy a life-critique through poverty, self-sufficiency, and public provocation.",
     "influenceWeight": 1,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -3437,7 +3506,13 @@
       "政治",
       "自由"
     ],
+    "keywordsEn": [
+      "ethics",
+      "politics",
+      "freedom"
+    ],
     "oneLineZh": "苏格拉底弟子之一，强调德性、自足和艰苦训练，被视为犬儒传统的重要先驱。",
+    "oneLineEn": "Socratic disciple stressing virtue, self-sufficiency, and hard training; key forerunner of Cynicism.",
     "influenceWeight": 1,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -3471,7 +3546,13 @@
       "伦理",
       "知识"
     ],
+    "keywordsEn": [
+      "metaphysics",
+      "ethics",
+      "knowledge"
+    ],
     "oneLineZh": "毕达哥拉斯传统把数、宇宙秩序、灵魂净化和共同体生活连接起来。",
+    "oneLineEn": "The Pythagorean tradition linked number, cosmic order, soul purification, and communal life.",
     "influenceWeight": 1,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -3505,7 +3586,13 @@
       "知识",
       "生死"
     ],
+    "keywordsEn": [
+      "metaphysics",
+      "knowledge",
+      "life and death"
+    ],
     "oneLineZh": "米利都学派代表人物，以 apeiron、宇宙生成和自然化解释推进早期希腊哲学。",
+    "oneLineEn": "Milesian thinker who advanced early Greek philosophy via the apeiron, cosmogenesis, and naturalistic explanation.",
     "influenceWeight": 1,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -3539,7 +3626,13 @@
       "知识",
       "生死"
     ],
+    "keywordsEn": [
+      "metaphysics",
+      "knowledge",
+      "life and death"
+    ],
     "oneLineZh": "米利都学派哲人，以气、凝聚和稀薄化解释自然变化与宇宙结构。",
+    "oneLineEn": "Milesian philosopher explaining natural change and cosmic structure via air, condensation, and rarefaction.",
     "influenceWeight": 1,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -3573,7 +3666,13 @@
       "知识",
       "形而上学"
     ],
+    "keywordsEn": [
+      "religion",
+      "knowledge",
+      "metaphysics"
+    ],
     "oneLineZh": "前苏格拉底诗哲，批判拟人神观，并提出关于神、自然和人类知识限度的早期反思。",
+    "oneLineEn": "Presocratic poet-philosopher who criticized anthropomorphic gods and probed limits of human knowledge.",
     "influenceWeight": 1,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -3607,7 +3706,13 @@
       "生死",
       "宗教"
     ],
+    "keywordsEn": [
+      "metaphysics",
+      "life and death",
+      "religion"
+    ],
     "oneLineZh": "以四根、爱与争斗、宇宙循环和灵魂净化综合自然哲学与宗教伦理。",
+    "oneLineEn": "Joined four roots, Love and Strife, cosmic cycles, and soul purification into natural philosophy and religious ethics.",
     "influenceWeight": 1,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -3641,7 +3746,13 @@
       "知识",
       "政治"
     ],
+    "keywordsEn": [
+      "metaphysics",
+      "knowledge",
+      "politics"
+    ],
     "oneLineZh": "把无限种子、万物相含和 Nous 引入自然哲学，并把爱奥尼亚自然解释带入雅典。",
+    "oneLineEn": "Brought infinite seeds, mutual containment, and Nous into natural philosophy, carrying Ionian science into Athens.",
     "influenceWeight": 1,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -3675,7 +3786,13 @@
       "知识",
       "语言"
     ],
+    "keywordsEn": [
+      "metaphysics",
+      "knowledge",
+      "language"
+    ],
     "oneLineZh": "爱利亚学派哲人，以反多和反运动悖论捍卫巴门尼德式存在论。",
+    "oneLineEn": "Eleatic thinker defending Parmenidean ontology with paradoxes against plurality and motion.",
     "influenceWeight": 1,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -3710,7 +3827,13 @@
       "知识",
       "伦理"
     ],
+    "keywordsEn": [
+      "metaphysics",
+      "knowledge",
+      "ethics"
+    ],
     "oneLineZh": "古代原子论代表人物，以原子与虚空解释自然，并提出感知、约定和安宁伦理问题。",
+    "oneLineEn": "Ancient atomist explaining nature by atoms and void; raised issues of perception, convention, and ethical calm.",
     "influenceWeight": 1,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -3744,7 +3867,13 @@
       "政治",
       "伦理"
     ],
+    "keywordsEn": [
+      "knowledge",
+      "politics",
+      "ethics"
+    ],
     "oneLineZh": "智者运动代表人物，以“人是万物尺度”、德性教育和城邦实践理性著称。",
+    "oneLineEn": "Leading sophist known for man as measure, virtue education, and civic practical reason.",
     "influenceWeight": 1,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -3778,7 +3907,13 @@
       "知识",
       "政治"
     ],
+    "keywordsEn": [
+      "language",
+      "knowledge",
+      "politics"
+    ],
     "oneLineZh": "智者和修辞家，以激进的存在论论证、语言力量和说服技艺闻名。",
+    "oneLineEn": "Sophist and rhetorician famed for radical ontological arguments, linguistic power, and the art of persuasion.",
     "influenceWeight": 1,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -3812,7 +3947,13 @@
       "伦理",
       "自由"
     ],
+    "keywordsEn": [
+      "knowledge",
+      "ethics",
+      "freedom"
+    ],
     "oneLineZh": "皮浪主义源头人物，以悬置判断和心灵安宁的传统影响古代怀疑论。",
+    "oneLineEn": "Founding figure of Pyrrhonism; suspension of judgment and mental calm shaped ancient skepticism.",
     "influenceWeight": 1,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -3846,7 +3987,13 @@
       "伦理",
       "生死"
     ],
+    "keywordsEn": [
+      "knowledge",
+      "ethics",
+      "life and death"
+    ],
     "oneLineZh": "亚里士多德继承者，扩展逍遥学派自然研究、植物学、性格描写和学术制度。",
+    "oneLineEn": "Aristotle's successor expanding Peripatetic natural study, botany, character writing, and scholarly institutions.",
     "influenceWeight": 1,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -3880,7 +4027,13 @@
       "伦理",
       "政治"
     ],
+    "keywordsEn": [
+      "knowledge",
+      "ethics",
+      "politics"
+    ],
     "oneLineZh": "新学园怀疑主义代表，以反斯多葛知识论、概率性判断和罗马正义演说闻名。",
+    "oneLineEn": "New Academy skeptic known for anti-Stoic epistemology, probable judgment, and Roman speeches on justice.",
     "influenceWeight": 1,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -3914,7 +4067,13 @@
       "伦理",
       "知识"
     ],
+    "keywordsEn": [
+      "politics",
+      "ethics",
+      "knowledge"
+    ],
     "oneLineZh": "罗马政治家和哲学作者，把希腊哲学翻译进拉丁公共理性、共和伦理和自然法传统。",
+    "oneLineEn": "Roman statesman-author who rendered Greek philosophy into Latin public reason, republican ethics, and natural law.",
     "influenceWeight": 1,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -3948,7 +4107,13 @@
       "宗教",
       "生死"
     ],
+    "keywordsEn": [
+      "metaphysics",
+      "religion",
+      "life and death"
+    ],
     "oneLineZh": "罗马伊壁鸠鲁主义诗人，以《物性论》用原子论治疗宗教恐惧和死亡恐惧。",
+    "oneLineEn": "Roman Epicurean poet who, in De Rerum Natura, uses atomism to cure fear of the gods and of death.",
     "influenceWeight": 1,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -3982,7 +4147,13 @@
       "自由",
       "生死"
     ],
+    "keywordsEn": [
+      "ethics",
+      "freedom",
+      "life and death"
+    ],
     "oneLineZh": "罗马斯多葛哲人和政治家，以书信、论怒、论仁慈和有限生命训练展开实践伦理。",
+    "oneLineEn": "Roman Stoic statesman developing practical ethics in letters and essays on anger, clemency, and finite life.",
     "influenceWeight": 1,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -4016,7 +4187,13 @@
       "自由",
       "知识"
     ],
+    "keywordsEn": [
+      "ethics",
+      "freedom",
+      "knowledge"
+    ],
     "oneLineZh": "罗马斯多葛教师，以控制二分、同意训练和内在自由构成最具实践性的斯多葛手册传统。",
+    "oneLineEn": "Roman Stoic teacher whose control dichotomy, assent training, and inner freedom define a practical handbook tradition.",
     "influenceWeight": 1,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -4050,7 +4227,13 @@
       "政治",
       "生死"
     ],
+    "keywordsEn": [
+      "ethics",
+      "politics",
+      "life and death"
+    ],
     "oneLineZh": "罗马皇帝和斯多葛作者，以《沉思录》把宇宙秩序、职责和自我训练结合起来。",
+    "oneLineEn": "Roman emperor and Stoic author who, in the Meditations, joins cosmic order, duty, and self-discipline.",
     "influenceWeight": 1,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -4086,7 +4269,15 @@
       "法权",
       "民族教育"
     ],
+    "keywordsEn": [
+      "the self",
+      "Wissenschaftslehre",
+      "freedom",
+      "right (Recht)",
+      "national education"
+    ],
     "oneLineZh": "以知识学把康德批判哲学推进为从自我活动出发的自由体系。",
+    "oneLineEn": "Advanced Kant's critical philosophy into a freedom system grounded in self-activity (Wissenschaftslehre).",
     "influenceWeight": 3,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -4122,7 +4313,15 @@
       "艺术",
       "启示"
     ],
+    "keywordsEn": [
+      "philosophy of nature",
+      "identity philosophy",
+      "freedom",
+      "art",
+      "revelation"
+    ],
     "oneLineZh": "把自然、精神、艺术和自由组织为德国观念论内部最具生成性的体系实验。",
+    "oneLineEn": "Organized nature, spirit, art, and freedom into German Idealism's most generative systematic experiments.",
     "influenceWeight": 3,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -4158,7 +4357,15 @@
       "青年黑格尔派",
       "马克思"
     ],
+    "keywordsEn": [
+      "critique of religion",
+      "projection",
+      "anthropology (humanism)",
+      "Young Hegelians",
+      "Marx"
+    ],
     "oneLineZh": "把黑格尔思辨神学倒转为人本学宗教批判，并成为马克思早期异化批判的近端入口。",
+    "oneLineEn": "Inverted Hegelian theology into humanist critique of religion; a near gateway for Marx's early alienation critique.",
     "influenceWeight": 3,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -4195,7 +4402,15 @@
       "几何精神",
       "蒙田"
     ],
+    "keywordsEn": [
+      "Pensées",
+      "the wager",
+      "the heart (esprit de finesse)",
+      "esprit de géométrie",
+      "Montaigne"
+    ],
     "oneLineZh": "以人的脆弱、理性的限度和信仰赌注重塑早期现代基督教护教与存在论感受。",
+    "oneLineEn": "Reshaped early modern Christian apologetics through human fragility, reason's limits, and the wager.",
     "influenceWeight": 3,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -4232,7 +4447,15 @@
       "范畴",
       "科学共同体"
     ],
+    "keywordsEn": [
+      "pragmatism",
+      "semiotics",
+      "abduction",
+      "categories",
+      "scientific community"
+    ],
     "oneLineZh": "以探究逻辑、实用主义准则和三元符号学奠定美国实用主义的科学形态。",
+    "oneLineEn": "Founded scientific American pragmatism through inquiry logic, the pragmatic maxim, and triadic semiotics.",
     "influenceWeight": 3,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -4269,7 +4492,15 @@
       "宗教经验",
       "多元宇宙"
     ],
+    "keywordsEn": [
+      "stream of consciousness",
+      "pragmatism",
+      "will to believe",
+      "religious experience",
+      "pluralistic universe"
+    ],
     "oneLineZh": "把心理学、宗教经验、自由意志和实用主义真理观连接成经验多元论。",
+    "oneLineEn": "Linked psychology, religious experience, free will, and pragmatic truth into radical empiricist pluralism.",
     "influenceWeight": 3,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -4306,7 +4537,15 @@
       "废奴民主",
       "黑色重建"
     ],
+    "keywordsEn": [
+      "the color line",
+      "double consciousness",
+      "the Veil",
+      "abolition democracy",
+      "Black Reconstruction"
+    ],
     "oneLineZh": "以双重意识、色线和废奴民主把种族经验推进为现代政治哲学和社会科学问题。",
+    "oneLineEn": "Advanced racial experience as modern political philosophy via double consciousness, color line, and abolition democracy.",
     "influenceWeight": 3,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -4343,7 +4582,15 @@
       "常识",
       "外部世界"
     ],
+    "keywordsEn": [
+      "naturalistic fallacy",
+      "indefinability of good",
+      "anti-idealism",
+      "common sense",
+      "external world"
+    ],
     "oneLineZh": "以伦理非自然主义、反观念论和常识实在论推动剑桥分析哲学成形。",
+    "oneLineEn": "Helped form Cambridge analytic philosophy via ethical non-naturalism, anti-idealism, and common-sense realism.",
     "influenceWeight": 3,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -4380,7 +4627,15 @@
       "历史主义批判",
       "客观知识"
     ],
+    "keywordsEn": [
+      "falsifiability",
+      "critical rationalism",
+      "open society",
+      "critique of historicism",
+      "objective knowledge"
+    ],
     "oneLineZh": "以可证伪性、批判理性主义和开放社会论重塑二十世纪科学哲学与政治哲学。",
+    "oneLineEn": "Remade 20th-c. philosophy of science and politics through falsifiability, critical rationalism, and the open society.",
     "influenceWeight": 3,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -4417,7 +4672,15 @@
       "不可通约性",
       "历史科学哲学"
     ],
+    "keywordsEn": [
+      "paradigm",
+      "normal science",
+      "scientific revolution",
+      "incommensurability",
+      "historical philosophy of science"
+    ],
     "oneLineZh": "以范式、常规科学和科学革命改写科学进步的历史哲学图景。",
+    "oneLineEn": "Rewrote historical philosophy of scientific progress via paradigms, normal science, and scientific revolutions.",
     "influenceWeight": 3,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -4454,7 +4717,15 @@
       "历史世界",
       "世界观"
     ],
+    "keywordsEn": [
+      "Geisteswissenschaften",
+      "understanding (Verstehen)",
+      "lived experience (Erlebnis)",
+      "historical world",
+      "worldview"
+    ],
     "oneLineZh": "以精神科学、体验和理解理论把历史生命世界纳入哲学方法论。",
+    "oneLineEn": "Brought the historical life-world into method via Geisteswissenschaften, Erlebnis, and Verstehen.",
     "influenceWeight": 3,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -4491,7 +4762,15 @@
       "语言",
       "真理与方法"
     ],
+    "keywordsEn": [
+      "philosophical hermeneutics",
+      "effective history",
+      "fusion of horizons",
+      "language",
+      "Truth and Method"
+    ],
     "oneLineZh": "以效果历史、视域融合和语言性把解释学从方法论扩展为哲学本体论。",
+    "oneLineEn": "Extended hermeneutics from method to ontology via effective history, fusion of horizons, and linguisticality.",
     "influenceWeight": 3,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -4528,7 +4807,15 @@
       "轴心时代",
       "罪责问题"
     ],
+    "keywordsEn": [
+      "Existenz",
+      "limit situations",
+      "the Encompassing",
+      "Axial Age",
+      "the question of guilt"
+    ],
     "oneLineZh": "以生存哲学、界限处境和轴心时代思想连接克尔凯郭尔、尼采、海德格尔与阿伦特。",
+    "oneLineEn": "Connected Kierkegaard, Nietzsche, Heidegger, and Arendt through Existenz, limit situations, and the Axial Age.",
     "influenceWeight": 3,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -4565,7 +4852,15 @@
       "皮浪主义",
       "反独断论"
     ],
+    "keywordsEn": [
+      "suspension of judgment (epochē)",
+      "equipollence",
+      "ataraxia",
+      "Pyrrhonism",
+      "anti-dogmatism"
+    ],
     "oneLineZh": "以《皮浪主义纲要》和《反学者》保存古代皮浪主义，并成为近代怀疑论复兴的文本枢纽。",
+    "oneLineEn": "Preserved ancient Pyrrhonism in the Outlines and Against the Professors, a hub for early modern skeptical revival.",
     "influenceWeight": 3,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -4602,7 +4897,15 @@
       "意志优先",
       "无染原罪"
     ],
+    "keywordsEn": [
+      "univocity of being",
+      "individuality (haecceity)",
+      "formal distinction",
+      "priority of the will",
+      "Immaculate Conception"
+    ],
     "oneLineZh": "以存在单义性、形式区别和个体性理论构成阿奎那与奥卡姆之间的经院哲学关键中环。",
+    "oneLineEn": "Scholastic link between Aquinas and Ockham via univocity of being, formal distinction, and individuation theory.",
     "influenceWeight": 3,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -4640,7 +4943,15 @@
       "理智",
       "创造"
     ],
+    "keywordsEn": [
+      "Arabic philosophy",
+      "first philosophy",
+      "translation movement",
+      "intellect",
+      "creation"
+    ],
     "oneLineZh": "作为阿拉伯哲学源头人物，把希腊哲学翻译运动、第一哲学和伊斯兰一神论组织到同一项目中。",
+    "oneLineEn": "Founding figure of Arabic philosophy uniting the Greek translation movement, first philosophy, and Islamic monotheism.",
     "influenceWeight": 3,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -4678,7 +4989,15 @@
       "伊本·西那批判",
       "东方哲学"
     ],
+    "keywordsEn": [
+      "Illuminationist philosophy",
+      "light",
+      "knowledge by presence",
+      "critique of Ibn Sina",
+      "Oriental philosophy"
+    ],
     "oneLineZh": "以照明哲学把伊本·西那传统、柏拉图主义光形而上学和临现知识改造成伊斯兰哲学新路线。",
+    "oneLineEn": "Recast Ibn Sina, Platonic light metaphysics, and knowledge by presence into Illuminationist Islamic philosophy.",
     "influenceWeight": 3,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -4716,7 +5035,15 @@
       "神名",
       "麦加启示"
     ],
+    "keywordsEn": [
+      "oneness of being (wahdat al-wujud)",
+      "Perfect Human",
+      "imagination",
+      "divine names",
+      "Meccan Revelations"
+    ],
     "oneLineZh": "以存在一性、完人、想象和神名理论塑造伊斯兰神秘形而上学，并深刻影响穆拉·萨德拉。",
+    "oneLineEn": "Shaped Islamic mystical metaphysics via oneness of being, Perfect Human, imagination, and divine names.",
     "influenceWeight": 3,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -4753,7 +5080,15 @@
       "刑名",
       "君主集权"
     ],
+    "keywordsEn": [
+      "law (fa)",
+      "statecraft (shu)",
+      "positional power (shi)",
+      "forms and names (xingming)",
+      "monarchical centralization"
+    ],
     "oneLineZh": "综合法、术、势与刑名之学，构成战国末期法家政治哲学的系统表达。",
+    "oneLineEn": "Systematized late Warring States Legalism by uniting law, statecraft, power, and forms-and-names doctrine.",
     "influenceWeight": 3,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -4790,7 +5125,15 @@
       "定慧不二",
       "坛经"
     ],
+    "keywordsEn": [
+      "sudden enlightenment",
+      "no-thought",
+      "self-nature",
+      "nonduality of samadhi and prajna",
+      "Platform Sutra"
+    ],
     "oneLineZh": "以《坛经》中的顿悟、自性、无念和定慧不二塑造中国禅宗南宗经典形象。",
+    "oneLineEn": "Shaped Southern Chan via sudden enlightenment, self-nature, no-thought, and nondual samadhi-prajna (Platform Sutra).",
     "influenceWeight": 3,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -4827,7 +5170,15 @@
       "横渠四句",
       "正蒙"
     ],
+    "keywordsEn": [
+      "qi",
+      "Great Void",
+      "all people as siblings, all things as companions",
+      "Zhang Zai's Four Sentences",
+      "Correcting Youthful Ignorance"
+    ],
     "oneLineZh": "以太虚即气、民胞物与和成德工夫奠定北宋道学气本论传统。",
+    "oneLineEn": "Founded Northern Song qi ontology through Great Void as qi, all people as siblings, and virtue cultivation practice.",
     "influenceWeight": 3,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -4865,7 +5216,15 @@
       "因明",
       "遮诠"
     ],
+    "keywordsEn": [
+      "pramana theory",
+      "perception (pratyaksa)",
+      "inference (anumana)",
+      "hetuvidya (Buddhist logic)",
+      "apoha (exclusion)"
+    ],
     "oneLineZh": "以《集量论》奠定佛教量论，把有效认知限定为现量与比量，并提出遮诠语言理论。",
+    "oneLineEn": "Founded Buddhist pramana theory, limiting valid cognition to perception and inference, with apoha semantics.",
     "influenceWeight": 3,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -4900,7 +5259,14 @@
       "卢梭批判",
       "公民德性"
     ],
+    "keywordsEn": [
+      "rights of woman",
+      "rational education",
+      "critique of Rousseau",
+      "civic virtue"
+    ],
     "oneLineZh": "以女性理性教育和公民平等批判启蒙时代的性别秩序。",
+    "oneLineEn": "Critiqued Enlightenment gender order through women's rational education and civic equality.",
     "influenceWeight": 3,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -4936,7 +5302,14 @@
       "德性伦理",
       "维特根斯坦"
     ],
+    "keywordsEn": [
+      "intention",
+      "philosophy of action",
+      "virtue ethics",
+      "Wittgenstein"
+    ],
     "oneLineZh": "以意向行动分析和现代道德哲学批判推动德性伦理复兴。",
+    "oneLineEn": "Helped revive virtue ethics through analysis of intentional action and critique of modern moral philosophy.",
     "influenceWeight": 3,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -4972,7 +5345,14 @@
       "对话",
       "反黑格尔"
     ],
+    "keywordsEn": [
+      "The Star of Redemption",
+      "revelation",
+      "dialogue",
+      "anti-Hegelianism"
+    ],
     "oneLineZh": "以《救赎之星》反击总体体系，并开出现代犹太对话哲学路线。",
+    "oneLineEn": "Countered totalizing systems in The Star of Redemption and opened a modern Jewish dialogical philosophy.",
     "influenceWeight": 3,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -5008,7 +5388,14 @@
       "民族解放",
       "后殖民"
     ],
+    "keywordsEn": [
+      "colonial psychology",
+      "subject formation",
+      "national liberation",
+      "postcolonial"
+    ],
     "oneLineZh": "以殖民心理分析和民族解放理论连接存在主义与后殖民思想。",
+    "oneLineEn": "Linked existentialism and postcolonial thought through colonial psychology and theories of national liberation.",
     "influenceWeight": 3,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -5043,7 +5430,14 @@
       "对话",
       "银行式教育批判"
     ],
+    "keywordsEn": [
+      "Pedagogy of the Oppressed",
+      "conscientization",
+      "dialogue",
+      "critique of banking education"
+    ],
     "oneLineZh": "以对话、意识化和银行式教育批判奠定批判教育学。",
+    "oneLineEn": "Founded critical pedagogy through dialogue, conscientization, and critique of banking-model education.",
     "influenceWeight": 3,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -5079,7 +5473,14 @@
       "法兰克福学派",
       "启蒙辩证法"
     ],
+    "keywordsEn": [
+      "critical theory",
+      "instrumental reason",
+      "Frankfurt School",
+      "Dialectic of Enlightenment"
+    ],
     "oneLineZh": "以批判理论和工具理性批判把马克思主义社会哲学改造为现代性诊断。",
+    "oneLineEn": "Recast Marxist social philosophy as a diagnosis of modernity via critical theory and critique of instrumental reason.",
     "influenceWeight": 3,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -5115,7 +5516,14 @@
       "现代主义艺术",
       "同一性批判"
     ],
+    "keywordsEn": [
+      "negative dialectics",
+      "culture industry",
+      "modernist art",
+      "critique of identity thinking"
+    ],
     "oneLineZh": "以否定辩证法、文化工业批判和现代主义美学揭示同一性思维中的社会支配。",
+    "oneLineEn": "Exposed social domination in identity thinking via negative dialectics, culture industry, and modernist aesthetics.",
     "influenceWeight": 3,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -5152,7 +5560,15 @@
       "拱廊计划",
       "弥赛亚时间"
     ],
+    "keywordsEn": [
+      "aura",
+      "mechanical reproduction",
+      "angel of history",
+      "Arcades Project",
+      "messianic time"
+    ],
     "oneLineZh": "以机械复制时代艺术、历史哲学和城市碎片书写重塑现代性批判的媒介维度。",
+    "oneLineEn": "Remade media-critical modernity via art under mechanical reproduction, history, and urban fragment writing.",
     "influenceWeight": 3,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -5189,7 +5605,15 @@
       "纯粹意志",
       "理性宗教"
     ],
+    "keywordsEn": [
+      "Marburg School",
+      "Neo-Kantianism",
+      "pure cognition",
+      "pure will",
+      "religion of reason"
+    ],
     "oneLineZh": "以马堡新康德主义和犹太理性宗教哲学连接康德传统与罗森茨维格。",
+    "oneLineEn": "Linked Kantian tradition to Rosenzweig via Marburg Neo-Kantianism and Jewish rational religion philosophy.",
     "influenceWeight": 3,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -5226,7 +5650,15 @@
       "否定神学",
       "泰然任之"
     ],
+    "keywordsEn": [
+      "detachment (Abgeschiedenheit)",
+      "poverty of spirit",
+      "birth of God in the soul",
+      "negative theology",
+      "Gelassenheit"
+    ],
     "oneLineZh": "以离执、灵魂贫乏和神秘合一把经院神学推进到德语神秘主义核心。",
+    "oneLineEn": "Pushed scholastic theology into German mysticism's core via detachment, poverty of spirit, and mystical union.",
     "influenceWeight": 2,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -5264,7 +5696,15 @@
       "猜测",
       "宗教和平"
     ],
+    "keywordsEn": [
+      "learned ignorance",
+      "coincidence of opposites",
+      "the absolute Maximum",
+      "conjecture",
+      "peace of faith"
+    ],
     "oneLineZh": "以有学问的无知、对立相合和无限者问题把中世纪神学推向文艺复兴形而上学。",
+    "oneLineEn": "Moved medieval theology toward Renaissance metaphysics via learned ignorance, coincidence of opposites, and infinity.",
     "influenceWeight": 2,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -5301,7 +5741,15 @@
       "民族世界",
       "反笛卡尔"
     ],
+    "keywordsEn": [
+      "New Science",
+      "verum factum",
+      "poetic wisdom",
+      "world of nations",
+      "anti-Cartesianism"
+    ],
     "oneLineZh": "以 verum factum 原则和《新科学》开出历史、法、神话和语言的人类自造世界。",
+    "oneLineEn": "Opened history, law, myth, and language as a human-made world through verum factum and the New Science.",
     "influenceWeight": 2,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -5338,7 +5786,15 @@
       "人道",
       "文化多样性"
     ],
+    "keywordsEn": [
+      "origin of language",
+      "national spirit (Volksgeist)",
+      "historicism",
+      "humanity (Humanität)",
+      "cultural diversity"
+    ],
     "oneLineZh": "以语言、民族精神和历史个体性批判抽象普遍主义，塑造德国历史主义与浪漫主义前史。",
+    "oneLineEn": "Critiqued abstract universalism via language, national spirit, and historical individuality; shaped German historicism.",
     "influenceWeight": 2,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -5375,7 +5831,15 @@
       "创造性进程",
       "精神民主"
     ],
+    "keywordsEn": [
+      "the self",
+      "khudi (selfhood)",
+      "reconstruction of Islamic thought",
+      "creative process",
+      "spiritual democracy"
+    ],
     "oneLineZh": "以自我哲学、伊斯兰思想重构和诗性政治想象回应现代性中的宗教与主体问题。",
+    "oneLineEn": "Answered modernity's religion and self problems via self-philosophy, Islamic reconstruction, and poetic politics.",
     "influenceWeight": 2,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -5410,7 +5874,15 @@
       "apoha",
       "刹那灭"
     ],
+    "keywordsEn": [
+      "pramana theory",
+      "perception (pratyaksa)",
+      "inference (anumana)",
+      "apoha",
+      "momentariness"
+    ],
     "oneLineZh": "以量论、因明和语言排除论把陈那之后的佛教认识论推向印度与藏传传统的高峰。",
+    "oneLineEn": "Pushed post-Dignaga Buddhist epistemology to its Indo-Tibetan peak through pramana, logic, and apoha exclusion.",
     "influenceWeight": 2,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -5447,7 +5919,15 @@
       "恶人正机",
       "净土真宗"
     ],
+    "keywordsEn": [
+      "other-power (tariki)",
+      "shinjin (entrusting faith)",
+      "nembutsu",
+      "the evil person as the true object",
+      "Jodo Shinshu"
+    ],
     "oneLineZh": "以他力信心、念佛感恩和凡夫自觉重塑日本净土传统，奠定净土真宗。",
+    "oneLineEn": "Remade Japanese Pure Land via other-power faith, grateful nembutsu, and ordinary-person awareness; founded Jodo Shinshu.",
     "influenceWeight": 2,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -5485,7 +5965,15 @@
       "性即理",
       "程朱理学"
     ],
+    "keywordsEn": [
+      "Heavenly Principle",
+      "investigation of things",
+      "reverential attentiveness (jing)",
+      "nature is principle",
+      "Cheng-Zhu Learning"
+    ],
     "oneLineZh": "以天理、格物和敬的修养论奠定程朱理学的核心方向，成为朱熹思想直接源头。",
+    "oneLineEn": "Set Cheng-Zhu Learning via Heavenly Principle, investigation of things, and reverential cultivation; source for Zhu Xi.",
     "influenceWeight": 2,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -5523,7 +6011,15 @@
       "理",
       "现代儒学"
     ],
+    "keywordsEn": [
+      "New Rational Philosophy",
+      "history of Chinese philosophy",
+      "realms of life",
+      "principle (li)",
+      "modern Confucianism"
+    ],
     "oneLineZh": "以现代哲学史写作和新理学体系把中国传统义理转译为二十世纪哲学问题。",
+    "oneLineEn": "Translated Chinese classical thought into 20th-c. problems via modern historiography and New Rational Philosophy.",
     "influenceWeight": 2,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -5561,7 +6057,15 @@
       "两层存有论",
       "圆善"
     ],
+    "keywordsEn": [
+      "moral metaphysics",
+      "intellectual intuition",
+      "liangzhi (innate moral knowing)",
+      "two-level ontology",
+      "perfect good"
+    ],
     "oneLineZh": "以康德批判、智的直觉和儒家良知论建立现代新儒家的道德形上学。",
+    "oneLineEn": "Built modern New Confucian moral metaphysics from Kantian critique, intellectual intuition, and liangzhi theory.",
     "influenceWeight": 2,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -5598,7 +6102,15 @@
       "根",
       "义务"
     ],
+    "keywordsEn": [
+      "attention",
+      "affliction",
+      "Gravity and Grace",
+      "rootedness",
+      "obligation"
+    ],
     "oneLineZh": "以注意力、苦难、力量、义务和扎根思想连接神秘主义、伦理学与现代政治批判。",
+    "oneLineEn": "Joined mysticism, ethics, and modern political critique via attention, affliction, force, obligation, and rootedness.",
     "influenceWeight": 2,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -5636,7 +6148,15 @@
       "创造性社会主义",
       "阿毛塔"
     ],
+    "keywordsEn": [
+      "Peruvian reality",
+      "land question",
+      "Indigenous question",
+      "creative socialism",
+      "Amauta"
+    ],
     "oneLineZh": "以秘鲁现实分析、印第安土地问题和创造性社会主义构成拉丁美洲马克思主义的重要源头。",
+    "oneLineEn": "A major source of Latin American Marxism via Peruvian reality, Indigenous land questions, and creative socialism.",
     "influenceWeight": 2,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -5674,7 +6194,15 @@
       "宗教宽容",
       "平等"
     ],
+    "keywordsEn": [
+      "Hatata (Inquiry)",
+      "reason",
+      "natural light",
+      "religious toleration",
+      "equality"
+    ],
     "oneLineZh": "以《探究》把信仰、理性、自然光和伦理平等组织为埃塞俄比亚理性主义传统。",
+    "oneLineEn": "Organized faith, reason, natural light, and ethical equality in the Hatata into Ethiopian rationalism.",
     "influenceWeight": 2,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -5712,7 +6240,15 @@
       "理性宗教",
       "实践智慧"
     ],
+    "keywordsEn": [
+      "Hatata (Inquiry)",
+      "social ethics",
+      "education",
+      "religion of reason",
+      "practical wisdom"
+    ],
     "oneLineZh": "承接泽拉·雅各布的理性探究，把自然理性推进到教育、家庭、劳动和社会责任问题。",
+    "oneLineEn": "Extended Zera Yacob's rational inquiry into education, family, labor, and social responsibility.",
     "influenceWeight": 1,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -5749,7 +6285,15 @@
       "伊斯兰",
       "殖民批判"
     ],
+    "keywordsEn": [
+      "African personality",
+      "Pan-Africanism",
+      "education",
+      "Islam",
+      "critique of colonialism"
+    ],
     "oneLineZh": "以非洲人格、宗教比较和教育批判奠定泛非思想与非洲现代主体性的早期语言。",
+    "oneLineEn": "Early language for Pan-African thought via African personality, comparative religion, and educational critique.",
     "influenceWeight": 2,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -5786,7 +6330,15 @@
       "非洲社会主义",
       "反帝国主义"
     ],
+    "keywordsEn": [
+      "consciencism",
+      "Pan-African unity",
+      "neocolonialism",
+      "African socialism",
+      "anti-imperialism"
+    ],
     "oneLineZh": "以良知主义、泛非统一和新殖民主义批判构成独立后非洲政治哲学的重要节点。",
+    "oneLineEn": "Key post-independence African political philosopher via consciencism, Pan-African unity, and neocolonial critique.",
     "influenceWeight": 2,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -5823,7 +6375,15 @@
       "叙事统一",
       "现代道德碎片化"
     ],
+    "keywordsEn": [
+      "virtue ethics",
+      "practice",
+      "tradition",
+      "narrative unity",
+      "fragmentation of modern morality"
+    ],
     "oneLineZh": "以德性、实践和传统构成现代道德哲学中反自由主义与反情感主义的重要方案。",
+    "oneLineEn": "Major anti-liberal, anti-emotivist program in modern moral philosophy built on virtue, practice, and tradition.",
     "influenceWeight": 2,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -5860,7 +6420,15 @@
       "自由主义反讽",
       "民主希望"
     ],
+    "keywordsEn": [
+      "neopragmatism",
+      "anti-representationalism",
+      "vocabulary",
+      "liberal ironist",
+      "democratic hope"
+    ],
     "oneLineZh": "以反表象主义和新实用主义把分析哲学、德威传统和自由民主文化重新连接。",
+    "oneLineEn": "Rejoined analytic philosophy, Deweyan tradition, and liberal democracy via anti-representationalism and neopragmatism.",
     "influenceWeight": 2,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -5897,7 +6465,15 @@
       "命名",
       "规则遵循"
     ],
+    "keywordsEn": [
+      "rigid designation",
+      "necessity",
+      "possible worlds",
+      "naming",
+      "rule-following"
+    ],
     "oneLineZh": "以模态逻辑、刚性指称和命名理论重塑二十世纪后期语言哲学与形而上学。",
+    "oneLineEn": "Remade late 20th-c. philosophy of language and metaphysics via modal logic, rigid designation, and naming.",
     "influenceWeight": 2,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -5934,7 +6510,15 @@
       "事实价值纠缠",
       "多重可实现性"
     ],
+    "keywordsEn": [
+      "semantic externalism",
+      "internal realism",
+      "Twin Earth",
+      "fact-value entanglement",
+      "multiple realizability"
+    ],
     "oneLineZh": "以语义外在论、实在论转向和事实价值纠缠贯穿语言、心灵、科学与伦理哲学。",
+    "oneLineEn": "Spanned language, mind, science, and ethics via semantic externalism, realist turns, and fact-value entanglement.",
     "influenceWeight": 2,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -5971,7 +6555,15 @@
       "反常一元论",
       "三角测量"
     ],
+    "keywordsEn": [
+      "truth-conditional semantics",
+      "radical interpretation",
+      "reasons for action",
+      "anomalous monism",
+      "triangulation"
+    ],
     "oneLineZh": "以真理论语义学、激进解释和行动理论重塑后蒯因时代的语言哲学与心灵哲学。",
+    "oneLineEn": "Remade post-Quinean language and mind philosophy via truth-theoretic semantics, radical interpretation, and action.",
     "influenceWeight": 2,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -6008,7 +6600,15 @@
       "欲望",
       "生成"
     ],
+    "keywordsEn": [
+      "difference",
+      "repetition",
+      "immanence",
+      "desire",
+      "becoming"
+    ],
     "oneLineZh": "以差异、重复、生成和内在性重写形而上学、欲望理论与后结构主义政治想象。",
+    "oneLineEn": "Rewrote metaphysics, desire theory, and poststructuralist politics via difference, repetition, becoming, and immanence.",
     "influenceWeight": 2,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -6045,7 +6645,15 @@
       "叙事身份",
       "承认"
     ],
+    "keywordsEn": [
+      "hermeneutics",
+      "symbol",
+      "metaphor",
+      "narrative identity",
+      "recognition"
+    ],
     "oneLineZh": "在现象学和解释学之间发展象征、隐喻、叙事和自我身份理论。",
+    "oneLineEn": "Developed theories of symbol, metaphor, narrative, and selfhood between phenomenology and hermeneutics.",
     "influenceWeight": 2,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -6082,7 +6690,15 @@
       "支配类型",
       "志业"
     ],
+    "keywordsEn": [
+      "rationalization",
+      "Protestant ethic",
+      "bureaucracy",
+      "types of domination",
+      "vocation (Beruf)"
+    ],
     "oneLineZh": "以理解社会学、理性化和支配类型分析现代资本主义、官僚制与政治责任。",
+    "oneLineEn": "Analyzed modern capitalism, bureaucracy, and political responsibility via rationalization and types of domination.",
     "influenceWeight": 2,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -6119,7 +6735,15 @@
       "京都学派",
       "自我超克"
     ],
+    "keywordsEn": [
+      "nihilism / nothingness",
+      "emptiness (sunyata)",
+      "philosophy of religion",
+      "Kyoto School",
+      "self-overcoming"
+    ],
     "oneLineZh": "在京都学派中以佛教空回应现代虚无主义、宗教经验与欧洲存在论。",
+    "oneLineEn": "In the Kyoto School, answered modern nihilism and European ontology through Buddhist emptiness.",
     "influenceWeight": 2,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -6156,7 +6780,15 @@
       "直觉",
       "精神人文主义"
     ],
+    "keywordsEn": [
+      "Indian philosophy",
+      "comparative religion",
+      "Vedanta",
+      "intuition",
+      "spiritual humanism"
+    ],
     "oneLineZh": "以现代吠檀多和比较哲学方式重述印度思想，并把宗教经验置于世界哲学对话中。",
+    "oneLineEn": "Restated Indian thought via modern Vedanta and comparative philosophy, placing religious experience in world dialogue.",
     "influenceWeight": 2,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -6193,7 +6825,15 @@
       "注疏",
       "解脱"
     ],
+    "keywordsEn": [
+      "Dvaita Vedanta",
+      "Vaishnavism",
+      "difference",
+      "commentary",
+      "liberation"
+    ],
     "oneLineZh": "以二元论吠檀多反对不二论，强调神、灵魂和世界之间真实差异。",
+    "oneLineEn": "Opposed Advaita with Dvaita Vedanta, stressing real difference among God, soul, and world.",
     "influenceWeight": 2,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -6229,7 +6869,15 @@
       "强评价",
       "社群主义"
     ],
+    "keywordsEn": [
+      "politics of recognition",
+      "modern self",
+      "secular age",
+      "strong evaluation",
+      "communitarianism"
+    ],
     "oneLineZh": "以现代自我、承认政治和世俗化理论重塑政治哲学、伦理学与宗教现代性研究。",
+    "oneLineEn": "Remade political philosophy, ethics, and religious modernity studies via modern self, recognition, and secularization.",
     "influenceWeight": 2,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -6266,7 +6914,15 @@
       "刑罚",
       "权利批判"
     ],
+    "keywordsEn": [
+      "principle of utility",
+      "greatest happiness",
+      "legal reform",
+      "punishment",
+      "critique of rights"
+    ],
     "oneLineZh": "以最大幸福原则和制度化法改革把伦理学、立法学与现代政治计算连接起来。",
+    "oneLineEn": "Linked ethics, legislation, and political calculation through greatest happiness and institutional legal reform.",
     "influenceWeight": 2,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -6303,7 +6959,15 @@
       "社会学",
       "人类宗教"
     ],
+    "keywordsEn": [
+      "positivism",
+      "law of three stages",
+      "classification of the sciences",
+      "sociology",
+      "Religion of Humanity"
+    ],
     "oneLineZh": "以三阶段律、科学分类和社会学构想把现代知识秩序与社会重组方案结合起来。",
+    "oneLineEn": "Joined modern knowledge order to social reorganization via three stages, science classification, and sociology.",
     "influenceWeight": 2,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -6340,7 +7004,15 @@
       "个体性",
       "浪漫主义神学"
     ],
+    "keywordsEn": [
+      "hermeneutics",
+      "religious feeling",
+      "absolute dependence",
+      "individuality (haecceity)",
+      "Romantic theology"
+    ],
     "oneLineZh": "以宗教感情理论和普遍诠释学把现代神学、解释理论与主体个体性连接起来。",
+    "oneLineEn": "Linked modern theology, interpretation theory, and individuality via religious feeling and universal hermeneutics.",
     "influenceWeight": 2,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -6377,7 +7049,15 @@
       "知觉",
       "主动能力"
     ],
+    "keywordsEn": [
+      "common-sense philosophy",
+      "direct realism",
+      "anti-skepticism",
+      "perception",
+      "active power"
+    ],
     "oneLineZh": "以常识原则和直接实在论回应怀疑论，并把认识论延伸到行动、责任和自由问题。",
+    "oneLineEn": "Answered skepticism with common-sense principles and direct realism, extending epistemology to action and freedom.",
     "influenceWeight": 2,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -6414,7 +7094,15 @@
       "地方自治",
       "温和专制"
     ],
+    "keywordsEn": [
+      "democracy",
+      "equality of conditions",
+      "association",
+      "local self-government",
+      "soft despotism"
+    ],
     "oneLineZh": "以民主平等条件、结社生活和中央集权批判分析现代自由社会的脆弱条件。",
+    "oneLineEn": "Analyzed fragile conditions of modern free societies through democratic equality, association, and anti-centralization.",
     "influenceWeight": 2,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -6451,7 +7139,15 @@
       "阵地战",
       "被动革命"
     ],
+    "keywordsEn": [
+      "hegemony",
+      "civil society",
+      "organic intellectuals",
+      "war of position",
+      "passive revolution"
+    ],
     "oneLineZh": "以霸权、市民社会和有机知识分子理论重写马克思主义革命策略与文化政治。",
+    "oneLineEn": "Rewrote Marxist revolutionary strategy and cultural politics via hegemony, civil society, and organic intellectuals.",
     "influenceWeight": 2,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -6488,7 +7184,15 @@
       "辩证法",
       "现实主义"
     ],
+    "keywordsEn": [
+      "reification",
+      "class consciousness",
+      "totality",
+      "dialectics",
+      "realism"
+    ],
     "oneLineZh": "以物化、总体性和阶级意识理论奠定西方马克思主义与批判理论的重要前史。",
+    "oneLineEn": "Laid key prehistory for Western Marxism and critical theory via reification, totality, and class consciousness.",
     "influenceWeight": 2,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -6525,7 +7229,15 @@
       "预期意识",
       "弥赛亚意象"
     ],
+    "keywordsEn": [
+      "Principle of Hope",
+      "utopia",
+      "not-yet consciousness",
+      "anticipatory consciousness",
+      "messianic imagery"
+    ],
     "oneLineZh": "以希望原则和尚未意识把马克思主义解放政治、宗教象征和乌托邦想象连接起来。",
+    "oneLineEn": "Joined Marxist emancipatory politics, religious symbols, and utopia via Principle of Hope and not-yet consciousness.",
     "influenceWeight": 2,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -6563,7 +7275,15 @@
       "压抑性宽容",
       "解放"
     ],
+    "keywordsEn": [
+      "one-dimensional society",
+      "technological rationality",
+      "Eros",
+      "repressive tolerance",
+      "liberation"
+    ],
     "oneLineZh": "以技术理性、欲望解放和发达工业社会批判推进法兰克福学派政治哲学。",
+    "oneLineEn": "Advanced Frankfurt School politics via technological rationality, desire liberation, and industrial-society critique.",
     "influenceWeight": 2,
     "reviewStatus": "draft"
   },
@@ -6600,7 +7320,15 @@
       "人本伦理",
       "占有与存在"
     ],
+    "keywordsEn": [
+      "Escape from Freedom",
+      "social character",
+      "alienation",
+      "humanistic ethics",
+      "to have or to be"
+    ],
     "oneLineZh": "以人本精神分析和马克思主义异化理论解释现代自由、人格和社会病理。",
+    "oneLineEn": "Explained modern freedom, character, and social pathology via humanistic psychoanalysis and Marxist alienation theory.",
     "influenceWeight": 2,
     "reviewStatus": "draft"
   },
@@ -6637,7 +7365,15 @@
       "反决定论",
       "思想史"
     ],
+    "keywordsEn": [
+      "negative liberty",
+      "positive liberty",
+      "value pluralism",
+      "anti-determinism",
+      "history of ideas"
+    ],
     "oneLineZh": "以两种自由概念和价值多元论重塑二十世纪自由主义的反乌托邦论证。",
+    "oneLineEn": "Remade 20th-c. liberal anti-utopian argument through two concepts of liberty and value pluralism.",
     "influenceWeight": 2,
     "reviewStatus": "draft"
   },
@@ -6674,7 +7410,15 @@
       "计划批判",
       "市场秩序"
     ],
+    "keywordsEn": [
+      "spontaneous order",
+      "knowledge problem",
+      "rule of law",
+      "critique of planning",
+      "market order"
+    ],
     "oneLineZh": "以分散知识和自发秩序理论批判计划理性，并重构自由主义法治论。",
+    "oneLineEn": "Critiqued planning rationality and rebuilt liberal rule-of-law theory via dispersed knowledge and spontaneous order.",
     "influenceWeight": 2,
     "reviewStatus": "draft"
   },
@@ -6711,7 +7455,15 @@
       "政治神学",
       "议会制批判"
     ],
+    "keywordsEn": [
+      "sovereignty",
+      "state of exception",
+      "friend-enemy distinction",
+      "political theology",
+      "critique of parliamentarism"
+    ],
     "oneLineZh": "以主权决断、例外状态和敌友区分揭示现代政治秩序的危机，同时必须置于反自由主义和纳粹牵连的批判语境中。",
+    "oneLineEn": "Exposes modern political crisis via sovereignty, exception, and friend-enemy; read critically amid Nazi complicity.",
     "influenceWeight": 2,
     "reviewStatus": "draft"
   },
@@ -6748,7 +7500,15 @@
       "精神哲学",
       "维柯复兴"
     ],
+    "keywordsEn": [
+      "aesthetics of expression",
+      "historicism",
+      "liberal philosophy of history",
+      "philosophy of the spirit",
+      "Vico revival"
+    ],
     "oneLineZh": "以表现美学、历史主义和自由史观重构意大利唯心主义，并推动维柯的现代复兴。",
+    "oneLineEn": "Recast Italian idealism through expression aesthetics, historicism, and liberal history of freedom, reviving Vico.",
     "influenceWeight": 2,
     "reviewStatus": "draft"
   },
@@ -6781,7 +7541,13 @@
       "仁学",
       "安贫乐道"
     ],
+    "keywordsEn": [
+      "Confucius's disciples",
+      "learning of ren",
+      "contentment in poverty with the Way"
+    ],
     "oneLineZh": "孔门弟子中以德行著称的颜渊，后世常以其代表儒家修身典范。",
+    "oneLineEn": "Yan Yuan, Confucius's disciple famed for virtue, later taken as a classic model of Confucian self-cultivation.",
     "influenceWeight": 2,
     "reviewStatus": "draft"
   },
@@ -6815,7 +7581,13 @@
       "孔门",
       "大学"
     ],
+    "keywordsEn": [
+      "filial piety",
+      "Confucius's disciples",
+      "the Great Learning"
+    ],
     "oneLineZh": "孔门后学中以孝道、慎独与修身传承著称的儒家人物。",
+    "oneLineEn": "Later Confucian disciple known for transmitting filial piety, vigilant solitude, and self-cultivation.",
     "influenceWeight": 2,
     "reviewStatus": "draft"
   },
@@ -6848,7 +7620,13 @@
       "孔门后学",
       "性命"
     ],
+    "keywordsEn": [
+      "the Doctrine of the Mean",
+      "later Confucian disciples",
+      "nature and destiny (xing-ming)"
+    ],
     "oneLineZh": "孔子之孙、战国早期儒家传承中连接孔孟的重要人物。",
+    "oneLineEn": "Confucius's grandson and a key early Warring States link in the transmission from Confucius to Mencius.",
     "influenceWeight": 2,
     "reviewStatus": "draft"
   },
@@ -6914,7 +7692,13 @@
       "变法",
       "秦国"
     ],
+    "keywordsEn": [
+      "Legalism",
+      "institutional reform",
+      "state of Qin"
+    ],
     "oneLineZh": "战国法家改革者，秦国制度转型的关键人物。",
+    "oneLineEn": "Warring States Legalist reformer and a pivotal figure in Qin's institutional transformation.",
     "influenceWeight": 3,
     "reviewStatus": "draft"
   },
@@ -7248,7 +8032,13 @@
       "霸政",
       "管子"
     ],
+    "keywordsEn": [
+      "Duke Huan of Qi",
+      "hegemonic politics",
+      "Guanzi"
+    ],
     "oneLineZh": "春秋齐国政治家，传统上被视为富国强兵和制度治理先驱。",
+    "oneLineEn": "Spring and Autumn Qi statesman traditionally seen as pioneer of enriching the state and institutional governance.",
     "influenceWeight": 3,
     "reviewStatus": "draft"
   },
@@ -7416,7 +8206,13 @@
       "小篆",
       "谏逐客书"
     ],
+    "keywordsEn": [
+      "Qin institutions",
+      "small seal script",
+      "Remonstrance Against Expelling Guests"
+    ],
     "oneLineZh": "秦帝国制度建设核心官僚，承接荀学与法家治理。",
+    "oneLineEn": "Core Qin empire institution-builder joining Xunzi learning with Legalist governance.",
     "influenceWeight": 3,
     "reviewStatus": "draft"
   },
@@ -7450,7 +8246,13 @@
       "天人感应",
       "汉儒"
     ],
+    "keywordsEn": [
+      "Luxuriant Dew of the Spring and Autumn Annals",
+      "resonance of Heaven and humanity",
+      "Han Confucianism"
+    ],
     "oneLineZh": "西汉儒家代表，将春秋学、阴阳五行与王朝政治结合。",
+    "oneLineEn": "Western Han Confucian who joined Spring and Autumn learning, yin-yang Five Phases, and dynastic politics.",
     "influenceWeight": 3,
     "reviewStatus": "draft"
   },
@@ -7689,7 +8491,13 @@
       "太史公",
       "究天人之际"
     ],
+    "keywordsEn": [
+      "Records of the Grand Historian",
+      "Grand Scribe",
+      "fathoming the boundary of Heaven and humanity"
+    ],
     "oneLineZh": "西汉史学家，《史记》作者，开创纪传体通史典范。",
+    "oneLineEn": "Western Han historian, author of Records of the Grand Historian, founding the biographic-annalistic standard.",
     "influenceWeight": 3,
     "reviewStatus": "draft"
   },
@@ -7930,7 +8738,13 @@
       "新序",
       "校书"
     ],
+    "keywordsEn": [
+      "Garden of Persuasions",
+      "New Prefaces",
+      "collation of texts"
+    ],
     "oneLineZh": "西汉经学家、目录学家和故事编纂者，整理典籍并重塑儒家政治记忆。",
+    "oneLineEn": "Western Han classicist, cataloger, and story compiler who reorganized texts and Confucian political memory.",
     "influenceWeight": 3,
     "reviewStatus": "draft"
   },
@@ -7965,7 +8779,13 @@
       "古文经学",
       "校书"
     ],
+    "keywordsEn": [
+      "Seven Summaries",
+      "Old Text classicism",
+      "collation of texts"
+    ],
     "oneLineZh": "西汉末至新莽时期经学家和目录学家，推动古文经学与目录体系。",
+    "oneLineEn": "Western Han–Xin classicist and bibliographer who advanced Old Text classicism and catalog systems.",
     "influenceWeight": 3,
     "reviewStatus": "draft"
   },
@@ -8067,7 +8887,13 @@
       "声无哀乐论",
       "养生论"
     ],
+    "keywordsEn": [
+      "Seven Sages of the Bamboo Grove",
+      "Music Has Neither Grief nor Joy",
+      "On Nourishing Life"
+    ],
     "oneLineZh": "魏晋玄学名士，以自然、音乐和养生论著称。",
+    "oneLineEn": "Wei-Jin xuanxue figure known for nature, music theory, and nourishing life.",
     "influenceWeight": 3,
     "reviewStatus": "draft"
   },
@@ -8168,7 +8994,13 @@
       "神仙传",
       "道教"
     ],
+    "keywordsEn": [
+      "Baopuzi",
+      "Biographies of Immortals",
+      "Daoism"
+    ],
     "oneLineZh": "东晋道教思想家和炼养理论家，以《抱朴子》著称。",
+    "oneLineEn": "Eastern Jin Daoist thinker and cultivation theorist, best known for the Baopuzi.",
     "influenceWeight": 3,
     "reviewStatus": "draft"
   },
@@ -8369,7 +9201,13 @@
       "僧团制度",
       "经录"
     ],
+    "keywordsEn": [
+      "critique of geyi matching",
+      "sangha institutions",
+      "scripture catalogs"
+    ],
     "oneLineZh": "东晋高僧，推动佛典目录、僧团规范和中国佛教自主化。",
+    "oneLineEn": "Eastern Jin monk who advanced scripture catalogs, sangha norms, and the autonomy of Chinese Buddhism.",
     "influenceWeight": 3,
     "reviewStatus": "draft"
   },
@@ -8403,7 +9241,13 @@
       "沙门不敬王者论",
       "净土"
     ],
+    "keywordsEn": [
+      "Mount Lu",
+      "Monks Should Not Bow to Kings",
+      "Pure Land"
+    ],
     "oneLineZh": "东晋庐山高僧，围绕沙门独立、净土信仰和佛教共同体形成影响。",
+    "oneLineEn": "Eastern Jin Mount Lu monk influential on monastic independence, Pure Land faith, and Buddhist community.",
     "influenceWeight": 3,
     "reviewStatus": "draft"
   },
@@ -8473,7 +9317,13 @@
       "中观",
       "二谛"
     ],
+    "keywordsEn": [
+      "Three Treatise School",
+      "Madhyamaka",
+      "two truths"
+    ],
     "oneLineZh": "隋唐三论宗大师，以中观二谛和破邪显正著称。",
+    "oneLineEn": "Sui-Tang Three Treatise master known for Madhyamaka two truths and refuting error to reveal the right.",
     "influenceWeight": 3,
     "reviewStatus": "draft"
   },
@@ -8575,7 +9425,13 @@
       "续高僧传",
       "四分律行事钞"
     ],
+    "keywordsEn": [
+      "Vinaya School",
+      "Further Biographies of Eminent Monks",
+      "Commentary on the Dharmaguptaka Vinaya"
+    ],
     "oneLineZh": "唐代律宗大师和佛教史家，以律学与僧传编纂著称。",
+    "oneLineEn": "Tang Vinaya master and Buddhist historian known for Vinaya learning and compilation of monk biographies.",
     "influenceWeight": 3,
     "reviewStatus": "draft"
   },
@@ -8643,7 +9499,13 @@
       "观经疏",
       "称名念佛"
     ],
+    "keywordsEn": [
+      "Pure Land school",
+      "Commentary on the Contemplation Sutra",
+      "nembutsu of the Name"
+    ],
     "oneLineZh": "唐代净土宗大师，以《观经疏》系统阐发凡夫往生与称名念佛。",
+    "oneLineEn": "Tang Pure Land master who systematized ordinary-person rebirth and nembutsu in the Contemplation Sutra commentary.",
     "influenceWeight": 3,
     "reviewStatus": "draft"
   },
@@ -8748,7 +9610,13 @@
       "古文运动",
       "排佛"
     ],
+    "keywordsEn": [
+      "Yuan Dao (On the Origin of the Way)",
+      "Ancient Prose Movement",
+      "anti-Buddhism"
+    ],
     "oneLineZh": "唐代儒家复兴和古文运动代表，以《原道》重申儒家道统。",
+    "oneLineEn": "Tang Confucian revivalist and Ancient Prose leader who restated the Confucian Way in Yuan Dao.",
     "influenceWeight": 3,
     "reviewStatus": "draft"
   },
@@ -8815,7 +9683,13 @@
       "封建论",
       "永州八记"
     ],
+    "keywordsEn": [
+      "Discourse on Heaven",
+      "On Fengjian",
+      "Eight Records of Yongzhou"
+    ],
     "oneLineZh": "唐代思想家和文学家，以天人、封建与政治制度论著称。",
+    "oneLineEn": "Tang thinker-writer known for arguments on Heaven and humanity, fengjian, and political institutions.",
     "influenceWeight": 3,
     "reviewStatus": "draft"
   },
@@ -8917,7 +9791,13 @@
       "观物",
       "象数学"
     ],
+    "keywordsEn": [
+      "Supreme Principles Governing the World",
+      "observing things",
+      "image-number learning"
+    ],
     "oneLineZh": "北宋理学先驱，以象数宇宙论和观物思想著称。",
+    "oneLineEn": "Northern Song Neo-Confucian pioneer known for image-number cosmology and observing things.",
     "influenceWeight": 3,
     "reviewStatus": "draft"
   },
@@ -8951,7 +9831,13 @@
       "潜虚",
       "保守政治"
     ],
+    "keywordsEn": [
+      "Comprehensive Mirror for Aid in Government",
+      "Hidden Vacuity",
+      "conservative politics"
+    ],
     "oneLineZh": "北宋史学家和政治家，以《资治通鉴》与政治秩序论著称。",
+    "oneLineEn": "Northern Song historian-statesman known for the Comprehensive Mirror and theories of political order.",
     "influenceWeight": 3,
     "reviewStatus": "draft"
   },
@@ -9052,7 +9938,13 @@
       "湖湘学派",
       "性体"
     ],
+    "keywordsEn": [
+      "Understanding Words (Zhiyan)",
+      "Huxiang School",
+      "nature as substance"
+    ],
     "oneLineZh": "南宋湖湘学派代表，以《知言》讨论性体和修养。",
+    "oneLineEn": "Southern Song Huxiang School figure whose Understanding Words treats nature-substance and cultivation.",
     "influenceWeight": 3,
     "reviewStatus": "draft"
   },
@@ -9119,7 +10011,13 @@
       "事功",
       "龙川文集"
     ],
+    "keywordsEn": [
+      "Yongkang School",
+      "practical accomplishment (shigong)",
+      "Longchuan Collected Works"
+    ],
     "oneLineZh": "南宋永康学派代表，以事功论和朱熹王霸义利之辨著称。",
+    "oneLineEn": "Southern Song Yongkang figure known for practical accomplishment and the Wang-Ba / yi-li debate with Zhu Xi.",
     "influenceWeight": 3,
     "reviewStatus": "draft"
   },
@@ -9285,7 +10183,13 @@
       "静坐",
       "自然自得"
     ],
+    "keywordsEn": [
+      "Baisha Learning of the Mind",
+      "quiet-sitting",
+      "natural self-attainment"
+    ],
     "oneLineZh": "明代白沙学派创始人，重视心体自得和静坐涵养。",
+    "oneLineEn": "Founder of the Ming Baisha School, stressing self-attainment of mind-substance and quiet-sitting cultivation.",
     "influenceWeight": 3,
     "reviewStatus": "draft"
   },
@@ -9351,7 +10255,13 @@
       "理气一物",
       "反王学"
     ],
+    "keywordsEn": [
+      "Knowledge Painfully Acquired",
+      "li and qi as one thing",
+      "critique of Wang Yangming Learning"
+    ],
     "oneLineZh": "明代理学家，以《困知记》讨论理气、心性并批评王学。",
+    "oneLineEn": "Ming Neo-Confucian; Knowledge Painfully Acquired treats li-qi and mind-nature while criticizing Wang Learning.",
     "influenceWeight": 3,
     "reviewStatus": "draft"
   },
@@ -9521,7 +10431,13 @@
       "童心说",
       "异端"
     ],
+    "keywordsEn": [
+      "A Book to Burn",
+      "doctrine of the childlike mind",
+      "heterodoxy"
+    ],
     "oneLineZh": "晚明思想家，以童心说、反伪道学和个体真诚著称。",
+    "oneLineEn": "Late Ming thinker known for the childlike mind, critique of false Dao Learning, and personal sincerity.",
     "influenceWeight": 3,
     "reviewStatus": "draft"
   },
@@ -9623,7 +10539,13 @@
       "慎独",
       "人谱"
     ],
+    "keywordsEn": [
+      "Jishan School",
+      "vigilant solitude (shendu)",
+      "Human Spectrum"
+    ],
     "oneLineZh": "明末大儒，蕺山学派创始人，以慎独和诚意工夫著称。",
+    "oneLineEn": "Late Ming master and Jishan School founder known for shendu and sincerity cultivation.",
     "influenceWeight": 3,
     "reviewStatus": "draft"
   },
@@ -9658,7 +10580,13 @@
       "明儒学案",
       "浙东学术"
     ],
+    "keywordsEn": [
+      "Waiting for the Dawn",
+      "Cases of Ming Confucians",
+      "Eastern Zhejiang scholarship"
+    ],
     "oneLineZh": "明清之际思想家和史学家，以君主批判与学术史书写著称。",
+    "oneLineEn": "Ming-Qing thinker-historian known for critique of monarchy and for Confucian intellectual history writing.",
     "influenceWeight": 3,
     "reviewStatus": "draft"
   },
@@ -9693,7 +10621,13 @@
       "经世致用",
       "考据"
     ],
+    "keywordsEn": [
+      "Record of Daily Knowledge",
+      "statecraft practical learning",
+      "evidential scholarship (kaozheng)"
+    ],
     "oneLineZh": "明清之际经世考据学者，以《日知录》开清代实学风气。",
+    "oneLineEn": "Ming-Qing statecraft and evidential scholar; Record of Daily Knowledge opened Qing practical learning.",
     "influenceWeight": 3,
     "reviewStatus": "draft"
   },
@@ -9729,7 +10663,13 @@
       "物理小识",
       "质测通几"
     ],
+    "keywordsEn": [
+      "Equalizing East and West",
+      "Notes on the Principles of Things",
+      "empirical measurement and penetrating the subtle"
+    ],
     "oneLineZh": "明清之际思想家，兼通儒释道与自然知识。",
+    "oneLineEn": "Ming-Qing thinker bridging Confucianism, Buddhism, Daoism, and natural knowledge.",
     "influenceWeight": 3,
     "reviewStatus": "draft"
   },
@@ -10033,7 +10973,13 @@
       "揅经室集",
       "乾嘉学术"
     ],
+    "keywordsEn": [
+      "Collected Glosses on the Classics",
+      "Yanjingshi Collected Works",
+      "Qian-Jia scholarship"
+    ],
     "oneLineZh": "清代经学家、官员和学术组织者，乾嘉考据集大成者之一。",
+    "oneLineEn": "Qing classicist, official, and academic organizer; a major synthesizer of Qian-Jia evidential learning.",
     "influenceWeight": 3,
     "reviewStatus": "draft"
   },
@@ -10067,7 +11013,13 @@
       "易通释",
       "扬州学派"
     ],
+    "keywordsEn": [
+      "Correct Meaning of the Mencius",
+      "Comprehensive Explanation of the Changes",
+      "Yangzhou School"
+    ],
     "oneLineZh": "清代经学家和数学家，以孟子学、易学和逻辑分析著称。",
+    "oneLineEn": "Qing classicist and mathematician known for Mencius studies, Yijing learning, and logical analysis.",
     "influenceWeight": 3,
     "reviewStatus": "draft"
   },
@@ -10101,7 +11053,13 @@
       "明良论",
       "经世改革"
     ],
+    "keywordsEn": [
+      "Jihai Miscellaneous Poems",
+      "On Enlightened Rulers and Good Ministers",
+      "statecraft reform"
+    ],
     "oneLineZh": "晚清思想家和文学家，以经世改革、个体精神和制度批判著称。",
+    "oneLineEn": "Late Qing thinker-writer known for statecraft reform, individual spirit, and institutional critique.",
     "influenceWeight": 3,
     "reviewStatus": "draft"
   },
@@ -17141,7 +18099,14 @@
       "六日创世",
       "修道规章"
     ],
+    "keywordsEn": [
+      "Cappadocian Fathers",
+      "Trinitarian theology",
+      "Hexaemeron",
+      "monastic rules"
+    ],
     "oneLineZh": "卡帕多西亚三杰之一，以三一神学、创世解释和修道规章构成希腊教父传统核心。",
+    "oneLineEn": "One of the Cappadocian Fathers; shaped Greek patristics via Trinitarian theology, creation exegesis, and monastic rules.",
     "influenceWeight": 3,
     "reviewStatus": "draft"
   },
@@ -17179,7 +18144,14 @@
       "三位一体",
       "卡帕多西亚三杰"
     ],
+    "keywordsEn": [
+      "the Theologian",
+      "Theological Orations",
+      "Trinity",
+      "Cappadocian Fathers"
+    ],
     "oneLineZh": "卡帕多西亚三杰之一，以《神学演讲五篇》奠定东正教三一神学表达。",
+    "oneLineEn": "One of the Cappadocian Fathers; his Five Theological Orations fixed Eastern Orthodox Trinitarian expression.",
     "influenceWeight": 3,
     "reviewStatus": "draft"
   },
@@ -17217,7 +18189,14 @@
       "神秘神学",
       "人的创造"
     ],
+    "keywordsEn": [
+      "The Life of Moses",
+      "epektasis (endless progress)",
+      "mystical theology",
+      "On the Making of Man"
+    ],
     "oneLineZh": "卡帕多西亚三杰之一，以神秘神学、无限进展和人论深化希腊教父传统。",
+    "oneLineEn": "One of the Cappadocian Fathers; deepened Greek patristics via mystical theology, epektasis, and anthropology.",
     "influenceWeight": 3,
     "reviewStatus": "draft"
   },
@@ -17255,7 +18234,14 @@
       "神圣名称",
       "天阶体系"
     ],
+    "keywordsEn": [
+      "pseudepigraphy",
+      "negative theology",
+      "Divine Names",
+      "Celestial Hierarchy"
+    ],
     "oneLineZh": "约500年成书的托名作者传统，以否定神学、神圣名称和等级论深刻影响东方与拉丁中世纪。",
+    "oneLineEn": "Pseudepigraphic (~500) negative theology, Divine Names, and hierarchy shaping Eastern and Latin medieval thought.",
     "influenceWeight": 3,
     "reviewStatus": "draft"
   },
@@ -17293,7 +18279,14 @@
       "忏悔者",
       "宇宙-基督神学"
     ],
+    "keywordsEn": [
+      "Ambigua",
+      "dyothelitism",
+      "the Confessor",
+      "cosmic Christology"
+    ],
     "oneLineZh": "拜占庭神学综合者，以《难题集》、两种意志论和宇宙-基督神学承接希腊教父传统。",
+    "oneLineEn": "Byzantine theological synthesizer taking up Greek patristics via the Ambigua, dyothelitism, and cosmic Christology.",
     "influenceWeight": 3,
     "reviewStatus": "draft"
   },
@@ -17331,7 +18324,14 @@
       "圣像辩护",
       "亚里士多德逻辑"
     ],
+    "keywordsEn": [
+      "The Fountain of Knowledge",
+      "Exact Exposition of the Orthodox Faith",
+      "defense of icons",
+      "Aristotelian logic"
+    ],
     "oneLineZh": "拜占庭教义系统化者，以《知识的源泉》和圣像辩护连接亚里士多德逻辑与东正教神学。",
+    "oneLineEn": "Byzantine doctrine systemizer linking Aristotelian logic and Orthodoxy via Fountain of Knowledge and icon defense.",
     "influenceWeight": 3,
     "reviewStatus": "draft"
   },
@@ -17406,7 +18406,14 @@
       "拜占庭博学者",
       "杂论"
     ],
+    "keywordsEn": [
+      "Chronographia",
+      "Platonic revival",
+      "Byzantine polymath",
+      "De omnifaria doctrina"
+    ],
     "oneLineZh": "拜占庭博学者和哲学家，以柏拉图主义复兴、宫廷政治观察和百科式学问连接古典与中世纪希腊传统。",
+    "oneLineEn": "Byzantine polymath joining classical and medieval Greek thought via Platonic revival, court notes, and encyclopedism.",
     "influenceWeight": 2,
     "reviewStatus": "draft"
   },
@@ -17444,7 +18451,14 @@
       "为静修者辩护",
       "神圣之光"
     ],
+    "keywordsEn": [
+      "hesychasm",
+      "essence/energies distinction",
+      "Triads in Defense of the Holy Hesychasts",
+      "uncreated light"
+    ],
     "oneLineZh": "晚期拜占庭静修主义神学家，以本质/能质之分和《为静修者辩护》组织东正教神秘经验论证。",
+    "oneLineEn": "Late Byzantine hesychast who framed Orthodox mystical experience via essence/energies distinction and the Triads.",
     "influenceWeight": 3,
     "reviewStatus": "draft"
   },
@@ -17482,7 +18496,14 @@
       "佛罗伦萨大公会议",
       "文艺复兴桥梁"
     ],
+    "keywordsEn": [
+      "Book of Laws (Nomoi)",
+      "Platonic revival",
+      "Council of Florence",
+      "Renaissance bridge"
+    ],
     "oneLineZh": "晚期拜占庭柏拉图主义者，以《法律篇》和佛罗伦萨大公会议影响意大利文艺复兴的古典哲学复兴。",
+    "oneLineEn": "Late Byzantine Platonist whose Book of Laws and Florence role shaped the Italian Renaissance classical revival.",
     "influenceWeight": 3,
     "reviewStatus": "draft"
   },
@@ -17521,7 +18542,14 @@
       "阿沙",
       "伽萨"
     ],
+    "keywordsEn": [
+      "Ahura Mazda",
+      "good-evil dualism",
+      "asha (truth-order)",
+      "Gathas"
+    ],
     "oneLineZh": "古伊朗先知与祆教传统核心人物，以善恶抉择、真理秩序和末世审判构成前伊斯兰波斯思想源头。",
+    "oneLineEn": "Ancient Iranian prophet of Zoroastrianism; good-evil choice, asha, and last judgment source pre-Islamic Persian thought.",
     "influenceWeight": 3,
     "reviewStatus": "draft"
   },
@@ -17560,7 +18588,14 @@
       "救赎",
       "沙卜拉干"
     ],
+    "keywordsEn": [
+      "Manichaeism",
+      "light-dark dualism",
+      "salvation",
+      "Shabuhragan"
+    ],
     "oneLineZh": "萨珊时期摩尼教创立者，以亲撰经典组织光暗二元宇宙论、救赎论与禁欲伦理。",
+    "oneLineEn": "Sasanian founder of Manichaeism; cast light-dark dualism, soteriology, and ascetic ethics in self-authored scriptures.",
     "influenceWeight": 3,
     "reviewStatus": "draft"
   },
@@ -17598,7 +18633,14 @@
       "俄国使命",
       "历史哲学"
     ],
+    "keywordsEn": [
+      "Philosophical Letters",
+      "Westernizers",
+      "Russia's mission",
+      "philosophy of history"
+    ],
     "oneLineZh": "19世纪俄国思想家，《哲学书简》引发关于俄国历史使命与文明道路的论争。",
+    "oneLineEn": "19th-c. Russian thinker whose Philosophical Letters sparked debate on Russia's historical mission and path.",
     "influenceWeight": 3,
     "reviewStatus": "draft"
   },
@@ -17636,7 +18678,14 @@
       "sobornost",
       "东正教共同体"
     ],
+    "keywordsEn": [
+      "Slavophilism",
+      "sobornost (conciliarity)",
+      "sobornost",
+      "Orthodox community"
+    ],
     "oneLineZh": "斯拉夫派核心理论家，以 sobornost 组织自由、共同体和东正教传统的思想口径。",
+    "oneLineEn": "Core Slavophile theorist who framed freedom, community, and Orthodox tradition through sobornost.",
     "influenceWeight": 3,
     "reviewStatus": "draft"
   },
@@ -17712,7 +18761,14 @@
       "西化派",
       "自由"
     ],
+    "keywordsEn": [
+      "My Past and Thoughts",
+      "peasant socialism",
+      "Westernizers",
+      "freedom"
+    ],
     "oneLineZh": "俄国西化派与流亡思想家，以个人自由、农民社会主义和俄国现代化问题著称。",
+    "oneLineEn": "Russian Westernizer and exile thinker known for personal freedom, peasant socialism, and Russia's modernization problem.",
     "influenceWeight": 3,
     "reviewStatus": "draft"
   },
@@ -17751,7 +18807,14 @@
       "上帝与国家",
       "自由"
     ],
+    "keywordsEn": [
+      "anarchism",
+      "Statism and Anarchy",
+      "God and the State",
+      "freedom"
+    ],
     "oneLineZh": "俄国无政府主义代表人物，以自由、国家批判和集体主义政治理论著称。",
+    "oneLineEn": "Leading Russian anarchist known for freedom, critique of the state, and collectivist political theory.",
     "influenceWeight": 3,
     "reviewStatus": "draft"
   },
@@ -17790,7 +18853,14 @@
       "现实美学",
       "社会思想"
     ],
+    "keywordsEn": [
+      "What Is to Be Done?",
+      "rational egoism",
+      "aesthetics of reality",
+      "social thought"
+    ],
     "oneLineZh": "俄国唯物主义与社会思想代表，以理性利己、现实美学和《怎么办？》影响19世纪激进传统。",
+    "oneLineEn": "Russian materialist whose rational egoism, aesthetics of reality, and What Is to Be Done? shaped 19th-c. radicalism.",
     "influenceWeight": 3,
     "reviewStatus": "draft"
   },
@@ -17829,7 +18899,14 @@
       "无政府共产主义",
       "合作"
     ],
+    "keywordsEn": [
+      "Mutual Aid",
+      "The Conquest of Bread",
+      "anarchist communism",
+      "cooperation"
+    ],
     "oneLineZh": "俄国无政府共产主义思想家，以《互助论》把合作、进化与自由共同体组织为政治伦理。",
+    "oneLineEn": "Russian anarchist communist who, in Mutual Aid, cast cooperation, evolution, and free community as political ethics.",
     "influenceWeight": 3,
     "reviewStatus": "draft"
   },
@@ -17869,7 +18946,14 @@
       "自由",
       "罪与救赎"
     ],
+    "keywordsEn": [
+      "The Brothers Karamazov",
+      "Notes from Underground",
+      "freedom",
+      "sin and redemption"
+    ],
     "oneLineZh": "以小说承载宗教、自由、恶与救赎问题的俄国思想家型作家。",
+    "oneLineEn": "Russian novelist-thinker who carried religion, freedom, evil, and redemption in literary form.",
     "influenceWeight": 3,
     "reviewStatus": "draft"
   },
@@ -17908,7 +18992,14 @@
       "非暴力",
       "基督教伦理"
     ],
+    "keywordsEn": [
+      "The Kingdom of God Is Within You",
+      "A Confession",
+      "nonviolence",
+      "Christian ethics"
+    ],
     "oneLineZh": "以基督教伦理、非暴力和良心批判组织社会思想的俄国作家思想家。",
+    "oneLineEn": "Russian writer-thinker organizing social thought around Christian ethics, nonviolence, and conscience critique.",
     "influenceWeight": 3,
     "reviewStatus": "draft"
   },
@@ -17985,7 +19076,14 @@
       "复活论",
       "父辈"
     ],
+    "keywordsEn": [
+      "common task",
+      "cosmism",
+      "resurrection doctrine",
+      "the fathers"
+    ],
     "oneLineZh": "俄国宇宙主义先驱，以《共同事业的哲学》把人类联合、科学与复活论联结起来。",
+    "oneLineEn": "Russian cosmism pioneer who, in Philosophy of the Common Task, joined human unity, science, and resurrection.",
     "influenceWeight": 3,
     "reviewStatus": "draft"
   },
@@ -18023,7 +19121,14 @@
       "存在主义",
       "信仰"
     ],
+    "keywordsEn": [
+      "Athens and Jerusalem",
+      "anti-rationalism",
+      "existentialism",
+      "faith"
+    ],
     "oneLineZh": "俄国宗教存在主义思想家，以《雅典与耶路撒冷》对抗理性必然性与信仰自由。",
+    "oneLineEn": "Russian religious existentialist who, in Athens and Jerusalem, opposed rational necessity to freedom of faith.",
     "influenceWeight": 3,
     "reviewStatus": "draft"
   },
@@ -18062,7 +19167,14 @@
       "奴役与自由",
       "创造"
     ],
+    "keywordsEn": [
+      "philosophy of freedom",
+      "personalism",
+      "Slavery and Freedom",
+      "creation"
+    ],
     "oneLineZh": "白银时代宗教哲学家，以自由、人格、创造和反奴役问题为核心。",
+    "oneLineEn": "Silver Age religious philosopher centered on freedom, personhood, creativity, and resistance to slavery.",
     "influenceWeight": 3,
     "reviewStatus": "draft"
   },
@@ -18100,7 +19212,14 @@
       "神人类",
       "从马克思主义转向宗教"
     ],
+    "keywordsEn": [
+      "sophiology",
+      "Unfading Light",
+      "Godmanhood",
+      "turn from Marxism to religion"
+    ],
     "oneLineZh": "白银时代宗教哲学家，早年接收马克思主义，后转向索菲亚学和神人类宗教哲学。",
+    "oneLineEn": "Silver Age religious philosopher who moved from Marxism to sophiology and Godmanhood philosophy of religion.",
     "influenceWeight": 3,
     "reviewStatus": "draft"
   },
@@ -18139,7 +19258,14 @@
       "数学",
       "象征"
     ],
+    "keywordsEn": [
+      "The Pillar and Ground of the Truth",
+      "theology",
+      "mathematics",
+      "symbol"
+    ],
     "oneLineZh": "白银时代神学家和哲学家，以《真理的柱石与根基》连接东正教、知识论和象征思想。",
+    "oneLineEn": "Silver Age theologian-philosopher linking Orthodoxy, epistemology, and symbol in The Pillar and Ground of the Truth.",
     "influenceWeight": 3,
     "reviewStatus": "draft"
   },
@@ -18178,7 +19304,14 @@
       "直觉主义",
       "社会的精神基础"
     ],
+    "keywordsEn": [
+      "the Unfathomable",
+      "all-unity",
+      "intuitionism",
+      "spiritual foundations of society"
+    ],
     "oneLineZh": "俄国宗教哲学家，以全一、不可测度者和直觉主义知识论连接形而上学与社会哲学。",
+    "oneLineEn": "Russian religious philosopher joining metaphysics and social thought via all-unity, the Unfathomable, and intuitionism.",
     "influenceWeight": 3,
     "reviewStatus": "draft"
   },
@@ -18216,7 +19349,14 @@
       "上座部",
       "修道次第"
     ],
+    "keywordsEn": [
+      "Visuddhimagga",
+      "Pali commentaries",
+      "Theravada",
+      "path of purification"
+    ],
     "oneLineZh": "上座部巴利注疏传统的核心系统家，以《清净道论》综合戒定慧、阿毗达磨和解脱道路。",
+    "oneLineEn": "Core systematizer of Theravada Pali commentary; Visuddhimagga unites sila-samadhi-panna, Abhidhamma, and the path.",
     "influenceWeight": 3,
     "reviewStatus": "draft"
   },
@@ -18290,7 +19430,14 @@
       "胜义要义手册",
       "法之手册"
     ],
+    "keywordsEn": [
+      "Burmese vipassana",
+      "Abhidhamma",
+      "Manual of Ultimate Truth",
+      "Manual of Dhamma"
+    ],
     "oneLineZh": "缅甸上座部阿毗达磨与内观复兴代表，以通俗手册推动教理学习和修行普及。",
+    "oneLineEn": "Burmese Theravada Abhidhamma and vipassana revivalist who popularized doctrine and practice via plain manuals.",
     "influenceWeight": 3,
     "reviewStatus": "draft"
   },
@@ -18328,7 +19475,14 @@
       "马哈希体系",
       "内观手册"
     ],
+    "keywordsEn": [
+      "vipassana",
+      "satipatthana",
+      "Mahasi method",
+      "Manual of Insight"
+    ],
     "oneLineZh": "缅甸内观体系代表人物，以念处实践和马哈希方法影响现代全球上座部禅修。",
+    "oneLineEn": "Leading Burmese vipassana teacher whose satipatthana practice and Mahasi method shaped global Theravada meditation.",
     "influenceWeight": 3,
     "reviewStatus": "draft"
   },
@@ -18366,7 +19520,14 @@
       "法的社会主义",
       "观呼吸"
     ],
+    "keywordsEn": [
+      "Thai Buddhist reform",
+      "dependent origination",
+      "Dhammic socialism",
+      "anapanasati (mindfulness of breathing)"
+    ],
     "oneLineZh": "泰国现代佛教思想家，以缘起重释、观呼吸修行和“法的社会主义”连接佛教改革与政治伦理。",
+    "oneLineEn": "Modern Thai Buddhist thinker linking reform and politics via dependent origination, anapanasati, and Dhammic socialism.",
     "influenceWeight": 3,
     "reviewStatus": "draft"
   },
@@ -18479,7 +19640,14 @@
       "百科",
       "宋明理学"
     ],
+    "keywordsEn": [
+      "Categorized Sayings of the Cloud Terrace",
+      "Vietnamese Confucianism",
+      "encyclopedism",
+      "Song-Ming Neo-Confucianism"
+    ],
     "oneLineZh": "越南早期近世儒学与百科传统代表，以《芸台类语》承接宋明理学和博物知识体系。",
+    "oneLineEn": "Early modern Vietnamese Confucian-encyclopedist joining Neo-Confucianism and natural knowledge in Categorized Sayings.",
     "influenceWeight": 3,
     "reviewStatus": "draft"
   }
