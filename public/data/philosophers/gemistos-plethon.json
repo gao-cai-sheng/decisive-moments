@@ -1,6 +1,6 @@
 {
   "id": "gemistos-plethon",
-  "tier": "seed",
+  "tier": "standard",
   "names": {
     "zh": "格弥斯托斯·普勒东",
     "en": "Gemistos Plethon",
@@ -24,7 +24,8 @@
   "themes": [
     "metaphysics",
     "politics",
-    "religion"
+    "religion",
+    "knowledge"
   ],
   "keywordsZh": [
     "法律篇",
@@ -35,21 +36,384 @@
   "oneLineZh": "晚期拜占庭柏拉图主义者，以《法律篇》和佛罗伦萨大公会议影响意大利文艺复兴的古典哲学复兴。",
   "influenceWeight": 3,
   "reviewStatus": "draft",
-  "summaryZh": "格弥斯托斯·普勒东在晚期拜占庭复兴柏拉图主义，并通过佛罗伦萨大公会议等场景影响意大利文艺复兴的希腊学问接收。本 seed 档按 late_byzantine 标签收录，关系锚定 Plato 与 Cusa。",
+  "summaryZh": "格弥斯托斯·普勒东不是东正教神秘神学家，而是晚期拜占庭的柏拉图主义政治-宗教思想家。本标准候选把他分为三条主线：以《论亚里士多德与柏拉图之别》重建柏拉图优先性；以《法律篇》存世摘要和片段组织异教化的神谱、灵魂和宇宙秩序；以立法者姿态把形而上学、宗教仪式、德性和城邦制度连成一套古典复兴工程。",
   "works": [
     "plethon-nomoi",
-    "plethon-differences-aristotle-plato"
+    "plethon-differences-aristotle-plato",
+    "plethon-address-manuel-peloponnese",
+    "plethon-address-theodore-peloponnese"
   ],
   "sourceNotes": [
     {
-      "label": "W12-B3-S003",
-      "url": "https://iep.utm.edu/byz-phil/",
-      "noteZh": "IEP Byzantine Philosophy 总论用于核验晚期拜占庭哲学和古典哲学向文艺复兴传递的语境。"
+      "label": "S012",
+      "url": "https://www.britannica.com/biography/Gemistus-Plethon",
+      "noteZh": "核验 Plethon 生卒、晚期拜占庭柏拉图主义、佛罗伦萨语境和文艺复兴影响。"
     },
     {
-      "label": "W12-B3-S004",
-      "url": "https://www.britannica.com/biography/Gemistus-Plethon",
-      "noteZh": "Britannica Plethon 条目用于核验其生卒、新柏拉图主义复兴、佛罗伦萨大公会议和意大利文艺复兴影响。"
+      "label": "S013",
+      "url": "https://www.bu.edu/wcp/Papers/Medi/MediDebo.htm",
+      "noteZh": "辅助核验 De Differentiis 与 Summary 中神、创造、宇宙永恒和异教化口径。"
+    },
+    {
+      "label": "S015",
+      "url": "https://dspace.cuni.cz/bitstream/handle/20.500.11956/13665/140010104.pdf?isAllowed=y&sequence=1",
+      "noteZh": "用于校准 Nomoi 与 Differences 的存世编排、Forms、法律篇结构和宗教政治工程。"
+    },
+    {
+      "label": "S019",
+      "url": "https://diogeneia.library.upatras.gr/apanthisma/palaiologeia-v3",
+      "noteZh": "用于核验《致曼努埃尔二世论伯罗奔尼撒事务》的 Lambros 卷三辑本归属与页码范围。"
+    },
+    {
+      "label": "S021",
+      "url": "https://www.researchgate.net/publication/353175834_MIRRORS_FOR_DESPOTS_ADVISORY_LETTERS_IN_THE_FIFTEENTH_CENTURY_BYZANTINE_EMPIRE",
+      "noteZh": "辅助核验两篇伯罗奔尼撒政治谏言的题名、体裁、内容概要和改革主题。"
     }
-  ]
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "gemistos-plethon:problem:001",
+        "titleZh": "为什么重判柏拉图与亚里士多德？",
+        "questionZh": "普勒东如何把柏拉图优先性写成神、原因和形式理论的系统性选择？",
+        "summaryZh": "《论亚里士多德与柏拉图之别》不是中立比较，而是晚期拜占庭柏拉图主义的宣言。普勒东批评亚里士多德的神只作为运动目的或推动者不足以解释宇宙创造与秩序，同时为柏拉图式形式的独立性和因果力辩护。",
+        "themeIds": [
+          "metaphysics",
+          "knowledge"
+        ],
+        "weight": 3,
+        "sourceIds": [
+          "S013",
+          "S014",
+          "S015",
+          "S016"
+        ],
+        "claims": [
+          {
+            "id": "gemistos-plethon:claim:001",
+            "titleZh": "柏拉图的神更能承担宇宙原因",
+            "claimZh": "普勒东主张柏拉图比亚里士多德给予神更高的创造和原因地位。",
+            "explanationZh": "他把问题放在神是否只是运动终点，还是也是可知实体与整个宇宙的创造原因上；这成为反亚里士多德的首要切入。",
+            "themeIds": [
+              "metaphysics",
+              "religion"
+            ],
+            "weight": 3,
+            "sourceIds": [
+              "S013",
+              "S016"
+            ],
+            "evidence": [
+              {
+                "id": "gemistos-plethon:evidence:001",
+                "titleZh": "柏拉图神被称为整体宇宙创造者",
+                "summaryZh": "《论亚里士多德与柏拉图之别》开篇比较两家神论，称柏拉图把神理解为可知分离实体和整个宇宙的创造者。",
+                "sourceIds": [
+                  "S013",
+                  "S016"
+                ],
+                "source": {
+                  "workId": "plethon-differences-aristotle-plato",
+                  "locator": "On the Differences Between Aristotle and Plato, ch. 1",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "gemistos-plethon:evidence:002",
+                "titleZh": "亚里士多德神被限制为运动终点",
+                "summaryZh": "同一比较把亚里士多德的神压缩为宇宙运动的目的或推动因素，显示普勒东认为其神论无法承担创造性因果。",
+                "sourceIds": [
+                  "S013",
+                  "S016"
+                ],
+                "source": {
+                  "workId": "plethon-differences-aristotle-plato",
+                  "locator": "On the Differences Between Aristotle and Plato, ch. 2",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "gemistos-plethon:claim:002",
+            "titleZh": "形式不是空洞抽象",
+            "claimZh": "普勒东为柏拉图形式辩护，把形式理解为更高、更充满的因果秩序，而不是从个物抽出的贫乏共名。",
+            "explanationZh": "这使他的柏拉图主义与《法律篇》的神谱相通：理型、神名和宇宙等级共同表达可知秩序对感性世界的优先性。",
+            "themeIds": [
+              "metaphysics",
+              "knowledge"
+            ],
+            "weight": 2,
+            "sourceIds": [
+              "S014",
+              "S015"
+            ],
+            "evidence": [
+              {
+                "id": "gemistos-plethon:evidence:003",
+                "titleZh": "第十章集中反驳亚里士多德形式批评",
+                "summaryZh": "《论亚里士多德与柏拉图之别》第十章回应《形而上学》第一卷第九章对形式论的批评，先说明柏拉图派关于形式的基本看法。",
+                "sourceIds": [
+                  "S014",
+                  "S015"
+                ],
+                "source": {
+                  "workId": "plethon-differences-aristotle-plato",
+                  "locator": "On the Differences Between Aristotle and Plato, ch. 10",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "gemistos-plethon:evidence:004",
+                "titleZh": "因果讨论补足形式论证",
+                "summaryZh": "另一章从因果解释角度批评亚里士多德把生成和存在压向运动近因，说明柏拉图式模型和形式能承担事物本质秩序的原因。",
+                "sourceIds": [
+                  "S014",
+                  "S015"
+                ],
+                "source": {
+                  "workId": "plethon-differences-aristotle-plato",
+                  "locator": "On the Differences Between Aristotle and Plato, ch. 7",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "gemistos-plethon:problem:002",
+        "titleZh": "异教化神谱如何组织宇宙？",
+        "questionZh": "《法律篇》存世摘要怎样把 Zeus、Poseidon、诸神、灵魂和永恒宇宙组织成柏拉图主义秩序？",
+        "summaryZh": "《法律篇》大多佚失，必须按摘要和片段诚实处理。存世《琐罗亚斯德与柏拉图教义摘要》显示普勒东把古希腊神名作为哲学原则来组织宇宙：Zeus 是最高主宰，Poseidon 安排天界与下方秩序，诸神分管不朽与有死生命，灵魂则在永恒宇宙中保持不朽。",
+        "themeIds": [
+          "religion",
+          "metaphysics"
+        ],
+        "weight": 2,
+        "sourceIds": [
+          "S013",
+          "S015",
+          "S017"
+        ],
+        "claims": [
+          {
+            "id": "gemistos-plethon:claim:003",
+            "titleZh": "神谱编码第一原则和可知秩序",
+            "claimZh": "普勒东的神谱不是正统基督教神学，而是以希腊神名承载第一原则和可知秩序的异教化柏拉图主义。",
+            "explanationZh": "摘要把 Zeus 放在最高主宰位置，并以 Poseidon、Hera 等次级神展开形式、物质和宇宙治理。",
+            "themeIds": [
+              "religion",
+              "metaphysics"
+            ],
+            "weight": 3,
+            "sourceIds": [
+              "S013",
+              "S015"
+            ],
+            "evidence": [
+              {
+                "id": "gemistos-plethon:evidence:005",
+                "titleZh": "Zeus 包含未分化的全部存在",
+                "summaryZh": "《教义摘要》开端说 Zeus 是最高主宰，在自身内以未分状态包含一切存在，显示普勒东以神名表达第一原则。",
+                "sourceIds": [
+                  "S013",
+                  "S015"
+                ],
+                "source": {
+                  "workId": "plethon-nomoi",
+                  "locator": "Nomoi, Summary of the Doctrines of Zoroaster and Plato, §1",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "gemistos-plethon:evidence:006",
+                "titleZh": "Poseidon 创造天界并治理下方",
+                "summaryZh": "摘要随后说明 Poseidon 是 Zeus 的长子，创造天界并统治其下的一切，使宇宙秩序以层级方式展开。",
+                "sourceIds": [
+                  "S013",
+                  "S015"
+                ],
+                "source": {
+                  "workId": "plethon-nomoi",
+                  "locator": "Nomoi, Summary of the Doctrines of Zoroaster and Plato, §2",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "gemistos-plethon:claim:004",
+            "titleZh": "宇宙永恒与灵魂轮回构成宗教政治底盘",
+            "claimZh": "《法律篇》摘要把完满、无始无终的宇宙和不朽灵魂纳入同一秩序，为其伦理与政治制度提供宗教背景。",
+            "explanationZh": "普勒东不是讲东正教复活论，而是以永恒宇宙、善神无恶、灵魂不朽和转生构成异教化的人生秩序。",
+            "themeIds": [
+              "religion",
+              "metaphysics",
+              "life_death"
+            ],
+            "weight": 2,
+            "sourceIds": [
+              "S013",
+              "S015",
+              "S017"
+            ],
+            "evidence": [
+              {
+                "id": "gemistos-plethon:evidence:007",
+                "titleZh": "众神引导生命趋向神圣秩序",
+                "summaryZh": "摘要关于 Helios 与诸神责任的段落强调神只造成善而不造成恶，并引导生命趋向神圣秩序。",
+                "sourceIds": [
+                  "S013",
+                  "S015"
+                ],
+                "source": {
+                  "workId": "plethon-nomoi",
+                  "locator": "Nomoi, Summary of the Doctrines of Zoroaster and Plato, §5",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "gemistos-plethon:evidence:008",
+                "titleZh": "宇宙完满且在时间之外生成",
+                "summaryZh": "摘要说明宇宙的生成是完满且在时间之外的，因此宇宙保持永恒、无始无终，区别于基督教时间性创造叙事。",
+                "sourceIds": [
+                  "S013",
+                  "S015",
+                  "S017"
+                ],
+                "source": {
+                  "workId": "plethon-nomoi",
+                  "locator": "Nomoi, Summary of the Doctrines of Zoroaster and Plato, §6",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "gemistos-plethon:problem:003",
+        "titleZh": "哲学如何成为立法工程？",
+        "questionZh": "普勒东怎样把形而上学、古典宗教、德性和城邦秩序连接成晚期拜占庭的改革想象？",
+        "summaryZh": "普勒东的立法工程不再以《法律篇》佚失卷的深章号支撑，而改由两篇完整存世的伯罗奔尼撒政治谏言承载。他向塞奥多尔和曼努埃尔提出君主、法律、社会分工、军役、土地、税制和反奢侈方案，显示其柏拉图主义是面向摩里亚防务和共同体重组的世俗政治工程。",
+        "themeIds": [
+          "politics",
+          "religion",
+          "metaphysics"
+        ],
+        "weight": 1,
+        "sourceIds": [
+          "S012",
+          "S018",
+          "S019",
+          "S020",
+          "S021",
+          "S022"
+        ],
+        "claims": [
+          {
+            "id": "gemistos-plethon:claim:005",
+            "titleZh": "政治谏言把哲学转成制度处方",
+            "claimZh": "普勒东在两篇伯罗奔尼撒谏言中把柏拉图式秩序转成社会分工、税制、土地和军役的制度处方。",
+            "explanationZh": "他不是停留在学院里比较两位古典哲人，而是面向摩里亚统治者提出可执行的共同体重组；法律和德性在这里落成财政、军政与土地安排。",
+            "themeIds": [
+              "politics",
+              "ethics",
+              "metaphysics"
+            ],
+            "weight": 3,
+            "sourceIds": [
+              "S019",
+              "S020",
+              "S021",
+              "S022"
+            ],
+            "evidence": [
+              {
+                "id": "gemistos-plethon:evidence:009",
+                "titleZh": "君主制须由良法和顾问支撑",
+                "summaryZh": "《致塞奥多尔谏言》在比较君主制、寡头制和民主制后，主张危局中的摩里亚需要由最佳顾问和良法支撑的君主制，把政治形式选择作为改革起点。",
+                "sourceIds": [
+                  "S020",
+                  "S021"
+                ],
+                "source": {
+                  "workId": "plethon-address-theodore-peloponnese",
+                  "locator": "Address to Theodore, §3",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "gemistos-plethon:evidence:010",
+                "titleZh": "税制军役和土地按功能重排",
+                "summaryZh": "《致曼努埃尔二世》把改革细化为士兵与纳税生产者分离、税赋以实物按年缴纳、生产成果按劳动者、供给者和守护者分配，政治方案进入财政和社会组织层面。",
+                "sourceIds": [
+                  "S019",
+                  "S021",
+                  "S022"
+                ],
+                "source": {
+                  "workId": "plethon-address-manuel-peloponnese",
+                  "locator": "Address to Manuel, §5",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "gemistos-plethon:claim:006",
+            "titleZh": "摩里亚改革服务于古典复兴",
+            "claimZh": "普勒东把伯罗奔尼撒写成希腊政治复兴的基地，并把反奢侈、公共德性和军事自足纳入同一改革目标。",
+            "explanationZh": "两篇谏言面向现实统治者，不是东正教神秘神学，也不是《法律篇》残篇的替身；它们把古典史例、神圣正义和防务压力组织成世俗改革方案。",
+            "themeIds": [
+              "politics",
+              "religion",
+              "knowledge"
+            ],
+            "weight": 2,
+            "sourceIds": [
+              "S012",
+              "S019",
+              "S020",
+              "S021",
+              "S022"
+            ],
+            "evidence": [
+              {
+                "id": "gemistos-plethon:evidence:011",
+                "titleZh": "伯罗奔尼撒被写成希腊基地",
+                "summaryZh": "《致曼努埃尔二世》开端要求皇帝重视伯罗奔尼撒，把这片土地写成希腊族群、语言和传统教育最相配的区域，先建立政治改革的地域和身份前提。",
+                "sourceIds": [
+                  "S019",
+                  "S021",
+                  "S022"
+                ],
+                "source": {
+                  "workId": "plethon-address-manuel-peloponnese",
+                  "locator": "Address to Manuel, §2",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "gemistos-plethon:evidence:012",
+                "titleZh": "反奢侈把德性转为防务资源",
+                "summaryZh": "《致塞奥多尔谏言》在讨论神圣荣耀、德性和奢侈时，批评把私人与公共财富耗在虚荣开支上，要求把资源转向共同体秩序和军备安全。",
+                "sourceIds": [
+                  "S020",
+                  "S021",
+                  "S022"
+                ],
+                "source": {
+                  "workId": "plethon-address-theodore-peloponnese",
+                  "locator": "Address to Theodore, §5",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
 }

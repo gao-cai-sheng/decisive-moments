@@ -19471,7 +19471,7 @@
   },
   {
     "id": "symeon-the-new-theologian",
-    "tier": "seed",
+    "tier": "standard",
     "names": {
       "zh": "新神学家西门",
       "en": "Symeon the New Theologian",
@@ -19494,7 +19494,9 @@
     ],
     "themes": [
       "religion",
-      "knowledge"
+      "knowledge",
+      "ethics",
+      "life_death"
     ],
     "keywordsZh": [
       "新神学家",
@@ -19560,7 +19562,7 @@
   },
   {
     "id": "gregory-palamas",
-    "tier": "seed",
+    "tier": "standard",
     "names": {
       "zh": "格里高利·帕拉马斯",
       "en": "Gregory Palamas",
@@ -19605,7 +19607,7 @@
   },
   {
     "id": "gemistos-plethon",
-    "tier": "seed",
+    "tier": "standard",
     "names": {
       "zh": "格弥斯托斯·普勒东",
       "en": "Gemistos Plethon",
@@ -19629,7 +19631,8 @@
     "themes": [
       "metaphysics",
       "politics",
-      "religion"
+      "religion",
+      "knowledge"
     ],
     "keywordsZh": [
       "法律篇",
@@ -19742,7 +19745,7 @@
   },
   {
     "id": "pyotr-chaadaev",
-    "tier": "seed",
+    "tier": "standard",
     "names": {
       "zh": "恰达耶夫",
       "en": "Pyotr Chaadaev",
@@ -19787,7 +19790,7 @@
   },
   {
     "id": "aleksei-khomyakov",
-    "tier": "seed",
+    "tier": "standard",
     "names": {
       "zh": "霍米亚科夫",
       "en": "Aleksei Khomyakov",
@@ -19832,7 +19835,7 @@
   },
   {
     "id": "ivan-kireevsky",
-    "tier": "seed",
+    "tier": "standard",
     "names": {
       "zh": "基列耶夫斯基",
       "en": "Ivan Kireevsky",
@@ -19922,7 +19925,7 @@
   },
   {
     "id": "mikhail-bakunin",
-    "tier": "seed",
+    "tier": "standard",
     "names": {
       "zh": "巴枯宁",
       "en": "Mikhail Bakunin",
@@ -19968,7 +19971,7 @@
   },
   {
     "id": "nikolai-chernyshevsky",
-    "tier": "seed",
+    "tier": "standard",
     "names": {
       "zh": "车尔尼雪夫斯基",
       "en": "Nikolai Chernyshevsky",
@@ -20014,7 +20017,7 @@
   },
   {
     "id": "peter-kropotkin",
-    "tier": "seed",
+    "tier": "standard",
     "names": {
       "zh": "克鲁泡特金",
       "en": "Peter Kropotkin",
@@ -20060,7 +20063,7 @@
   },
   {
     "id": "fyodor-dostoevsky",
-    "tier": "seed",
+    "tier": "standard",
     "names": {
       "zh": "陀思妥耶夫斯基",
       "en": "Fyodor Dostoevsky",
@@ -20107,7 +20110,7 @@
   },
   {
     "id": "leo-tolstoy",
-    "tier": "seed",
+    "tier": "standard",
     "names": {
       "zh": "托尔斯泰",
       "en": "Leo Tolstoy",
@@ -20153,7 +20156,7 @@
   },
   {
     "id": "vladimir-solovyov",
-    "tier": "seed",
+    "tier": "standard",
     "names": {
       "zh": "索洛维约夫",
       "en": "Vladimir Solovyov",

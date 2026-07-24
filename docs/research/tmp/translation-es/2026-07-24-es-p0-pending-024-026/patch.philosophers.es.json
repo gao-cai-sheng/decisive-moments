@@ -1,0 +1,722 @@
+{
+  "schemaVersion": 1,
+  "meta": {
+    "batch": "es-p0-pending-024-026",
+    "count": 89,
+    "note": "Spanish offline patch for 89 IDs whose EN is still in tmp EN patches 024–026 (not yet admitted to index). Contingent on EN blind-review PASS + admit."
+  },
+  "items": {
+    "aj-ayer": {
+      "oneLineEs": "*Lenguaje, verdad y lógica* introdujo la Escuela de Viena en el mundo de habla inglesa.",
+      "keywordsEs": [
+        "positivismo lógico",
+        "principio de verificación",
+        "emotivismo"
+      ]
+    },
+    "alain-locke": {
+      "oneLineEs": "Intérprete filosófico del Renacimiento de Harlem; argumentó el pluralismo de valores ante la diferencia cultural.",
+      "keywordsEs": [
+        "pluralismo de valores",
+        "Renacimiento de Harlem",
+        "pluralismo cultural"
+      ]
+    },
+    "alexandre-kojeve": {
+      "oneLineEs": "Sus lecciones sobre la *Fenomenología del espíritu* a través de la dialéctica del amo y del esclavo formaron a toda una generación de pensadores franceses.",
+      "keywordsEs": [
+        "interpretación de Hegel",
+        "dialéctica del amo y del esclavo",
+        "fin de la historia"
+      ]
+    },
+    "alexius-meinong": {
+      "oneLineEs": "Fundador de la teoría de los objetos; sostuvo que los objetos inexistentes tienen aún un modo de ser, y marcó los debates sobre la referencia y la ontología.",
+      "keywordsEs": [
+        "teoría de los objetos",
+        "objetos inexistentes",
+        "Escuela de Graz"
+      ]
+    },
+    "alvin-plantinga": {
+      "oneLineEs": "Representante de la epistemología reformada y del argumento ontológico modal; sostiene que la creencia teísta puede ser una creencia básica propiamente dicha.",
+      "keywordsEs": [
+        "filosofía de la religión",
+        "epistemología reformada",
+        "argumento ontológico modal"
+      ]
+    },
+    "bachelard": {
+      "oneLineEs": "Reconstruyó la historia de la ciencia mediante la ruptura y el obstáculo epistemológicos, y elaboró a la vez una poética de la imaginación material.",
+      "keywordsEs": [
+        "ruptura epistemológica",
+        "obstáculo epistemológico",
+        "poética de la imaginación"
+      ]
+    },
+    "badiou": {
+      "oneLineEs": "*Ser y acontecimiento* construye una ontología y una concepción evental de la verdad sobre la teoría de conjuntos.",
+      "keywordsEs": [
+        "acontecimiento",
+        "ontología conjuntista",
+        "procedimientos de verdad"
+      ]
+    },
+    "baudrillard": {
+      "oneLineEs": "Analizó la lógica simbólica de la sociedad de consumo mediante las teorías del simulacro y de la hiperrealidad.",
+      "keywordsEs": [
+        "simulacro",
+        "sociedad de consumo",
+        "hiperrealidad"
+      ]
+    },
+    "bourdieu": {
+      "oneLineEs": "Construyó una teoría de la práctica social en torno al habitus, al campo y al capital cultural.",
+      "keywordsEs": [
+        "habitus",
+        "campo",
+        "capital cultural"
+      ]
+    },
+    "bruno-latour": {
+      "oneLineEs": "Con la teoría del actor-red incorporó también a las cosas en el análisis social.",
+      "keywordsEs": [
+        "actor-red",
+        "antropología de la ciencia",
+        "actores no humanos"
+      ]
+    },
+    "brunschvicg": {
+      "oneLineEs": "Fue un eje de la epistemología académica francesa mediante la filosofía del juicio y la historia del espíritu científico.",
+      "keywordsEs": [
+        "filosofía del juicio",
+        "historia del espíritu científico",
+        "epistemología francesa"
+      ]
+    },
+    "canguilhem": {
+      "oneLineEs": "*Lo normal y lo patológico* reescribió la filosofía de la medicina desde la normatividad vital; fue el mentor directo de Foucault.",
+      "keywordsEs": [
+        "lo normal y lo patológico",
+        "historia de las ciencias de la vida",
+        "filosofía de la medicina"
+      ]
+    },
+    "cavailles": {
+      "oneLineEs": "Opuso a la filosofía de la conciencia una filosofía del concepto; ejecutado por su participación en la Resistencia.",
+      "keywordsEs": [
+        "filosofía del concepto",
+        "filosofía de las matemáticas",
+        "Resistencia"
+      ]
+    },
+    "cd-broad": {
+      "oneLineEs": "Sintetizador de Cambridge en filosofía de la mente, ética y metafísica, conocido por su clasificación minuciosa y su eclecticismo moderado.",
+      "keywordsEs": [
+        "análisis de Cambridge",
+        "filosofía de la mente",
+        "historia crítica de la filosofía"
+      ]
+    },
+    "ci-lewis": {
+      "oneLineEs": "Representante del pragmatismo conceptual y de la lógica modal; respondió a las paradojas de la implicación material con la implicación estricta.",
+      "keywordsEs": [
+        "lógica modal",
+        "pragmatismo conceptual",
+        "implicación estricta"
+      ]
+    },
+    "claude-lefort": {
+      "oneLineEs": "Definió la democracia por el lugar vacío del poder y criticó sistemáticamente el totalitarismo.",
+      "keywordsEs": [
+        "lugar vacío de la democracia",
+        "crítica del totalitarismo",
+        "filosofía política"
+      ]
+    },
+    "cornelius-castoriadis": {
+      "oneLineEs": "Con la institución imaginaria de la sociedad y la teoría de la autonomía configuró una heterodoxia del marxismo occidental.",
+      "keywordsEs": [
+        "autonomía",
+        "imaginario social",
+        "Socialismo o barbarie"
+      ]
+    },
+    "cournot": {
+      "oneLineEs": "Vinculó el positivismo y la tradición epistemológica francesa mediante la probabilidad, la economía y las teorías de la contingencia.",
+      "keywordsEs": [
+        "filosofía de la probabilidad",
+        "contingencia",
+        "filosofía de la ciencia"
+      ]
+    },
+    "david-armstrong": {
+      "oneLineEs": "Representante del materialismo australiano; construyó un sistema metafísico con realismo de los universales e identidad mente-cerebro.",
+      "keywordsEs": [
+        "realismo científico",
+        "universales",
+        "teoría de la identidad mente-cerebro"
+      ]
+    },
+    "duhem": {
+      "oneLineEs": "Formuló la tesis de Duhem: las hipótesis no pueden contrastarse de forma aislada; abrió el camino al holismo de Quine.",
+      "keywordsEs": [
+        "holismo",
+        "subdeterminación",
+        "historia de la ciencia"
+      ]
+    },
+    "emmanuel-mounier": {
+      "oneLineEs": "Fundador del movimiento personalista; creó la revista *Esprit* para propugnar la persona y la comunidad.",
+      "keywordsEs": [
+        "personalismo",
+        "persona",
+        "comunidad"
+      ]
+    },
+    "eric-voegelin": {
+      "oneLineEs": "Diagnosticó la modernidad mediante la religión política y la filosofía del orden, y trató el gnosticismo como raíz del mal.",
+      "keywordsEs": [
+        "religión política",
+        "filosofía del orden",
+        "crítica del gnosticismo"
+      ]
+    },
+    "ernst-cassirer": {
+      "oneLineEs": "Fundador de la filosofía de las formas simbólicas; unió mito, lenguaje y ciencia como actividad simbolizadora del ser humano.",
+      "keywordsEs": [
+        "formas simbólicas",
+        "neokantismo",
+        "filosofía de la cultura"
+      ]
+    },
+    "ernst-troeltsch": {
+      "oneLineEs": "Representante del historicismo y de la filosofía de la religión; trabajó en la confluencia de Dilthey, Weber y la modernidad teológica.",
+      "keywordsEs": [
+        "filosofía de la religión",
+        "historicismo",
+        "historia social del cristianismo"
+      ]
+    },
+    "etienne-gilson": {
+      "oneLineEs": "Reinterpretó a Tomás de Aquino en torno al esse y impulsó la historiografía de la filosofía medieval.",
+      "keywordsEs": [
+        "historia de la filosofía medieval",
+        "tomismo",
+        "metafísica del ser"
+      ]
+    },
+    "fh-bradley": {
+      "oneLineEs": "Representante del idealismo absoluto británico; su argumentación sobre la internalidad de las relaciones se convirtió en blanco de la revuelta de Russell y Moore.",
+      "keywordsEs": [
+        "idealismo absoluto",
+        "relaciones internas",
+        "Apariencia y realidad"
+      ]
+    },
+    "frank-ramsey": {
+      "oneLineEs": "Nudo temprano de la verdad, la probabilidad, la decisión y la economía; pese a morir a los veintiséis años, dejó múltiples trabajos fundacionales.",
+      "keywordsEs": [
+        "análisis de Cambridge",
+        "probabilidad",
+        "teoría deflacionaria de la verdad"
+      ]
+    },
+    "franz-brentano": {
+      "oneLineEs": "Revivió el concepto de intencionalidad; con la psicología descriptiva enlazó a Aristóteles, la tradición escolástica y la fenomenología de Husserl.",
+      "keywordsEs": [
+        "intencionalidad",
+        "psicología descriptiva",
+        "Escuela de Brentano"
+      ]
+    },
+    "gabriel-marcel": {
+      "oneLineEs": "Representante del existencialismo cristiano; elaboró la distinción entre «misterio» y «problema» y una fenomenología de la esperanza.",
+      "keywordsEs": [
+        "existencialismo",
+        "misterio",
+        "esperanza"
+      ]
+    },
+    "georg-simmel": {
+      "oneLineEs": "Representante de la sociología formal y de la filosofía de la cultura; analizó la experiencia de la modernidad mediante las formas de interacción y la filosofía del dinero.",
+      "keywordsEs": [
+        "sociología formal",
+        "filosofía de la cultura",
+        "modernidad"
+      ]
+    },
+    "george-herbert-mead": {
+      "oneLineEs": "Construyó una teoría del yo social mediante la distinción yo/mí (I/me) y la asunción de roles.",
+      "keywordsEs": [
+        "yo social",
+        "interaccionismo simbólico",
+        "asunción de roles"
+      ]
+    },
+    "george-santayana": {
+      "oneLineEs": "Figura en la frontera del naturalismo, el escepticismo y la estética; se establece con La vida de la razón y Los reinos del ser.",
+      "keywordsEs": [
+        "naturalismo",
+        "estética",
+        "reino de la esencia"
+      ]
+    },
+    "georges-bataille": {
+      "oneLineEs": "Exploró lo sagrado y la transgresión mediante los conceptos de gasto, exceso y economía general.",
+      "keywordsEs": [
+        "gasto",
+        "transgresión",
+        "economía general"
+      ]
+    },
+    "georges-sorel": {
+      "oneLineEs": "Reflexiones sobre la violencia hace del mito social y del sindicalismo revolucionario una herejía interna al marxismo.",
+      "keywordsEs": [
+        "violencia",
+        "mito social",
+        "sindicalismo"
+      ]
+    },
+    "gilbert-ryle": {
+      "oneLineEs": "El concepto de lo mental critica el dualismo cartesiano con el «fantasma en la máquina» y asienta la escuela del lenguaje ordinario.",
+      "keywordsEs": [
+        "lenguaje ordinario",
+        "error categorial",
+        "El concepto de lo mental"
+      ]
+    },
+    "gilbert-simondon": {
+      "oneLineEs": "Reconfiguró la filosofía de la técnica mediante la individuación y el modo de existencia de los objetos técnicos.",
+      "keywordsEs": [
+        "individuación",
+        "filosofía de la técnica",
+        "transindividual"
+      ]
+    },
+    "giovanni-gentile": {
+      "oneLineEs": "Fundador del idealismo actual; sostiene que el acto de pensar es la única realidad y por ello se separa de Croce.",
+      "keywordsEs": [
+        "idealismo actual",
+        "idealismo italiano",
+        "acto de pensar"
+      ]
+    },
+    "hans-jonas": {
+      "oneLineEs": "El principio de responsabilidad formula un imperativo ético para la civilización tecnológica orientado a las generaciones futuras.",
+      "keywordsEs": [
+        "ética de la responsabilidad",
+        "crítica de la técnica",
+        "estudios gnósticos"
+      ]
+    },
+    "heinrich-rickert": {
+      "oneLineEs": "Perfeccionó la metodología de las ciencias de la cultura con el concepto de relación de valor; fondo directo del método weberiano.",
+      "keywordsEs": [
+        "relación de valor",
+        "ciencias de la cultura",
+        "Escuela del Sudoeste"
+      ]
+    },
+    "henry-sidgwick": {
+      "oneLineEs": "Sistematizador del utilitarismo clásico; con Los métodos de la ética sentó un marco técnico para la ética posterior a Mill.",
+      "keywordsEs": [
+        "utilitarismo",
+        "Los métodos de la ética",
+        "intuicionismo"
+      ]
+    },
+    "jacques-maritain": {
+      "oneLineEs": "Representante del neotomismo que aportó argumentos filosóficos a la Declaración Universal de los Derechos Humanos.",
+      "keywordsEs": [
+        "neotomismo",
+        "derechos humanos",
+        "humanismo integral"
+      ]
+    },
+    "jaimini": {
+      "oneLineEs": "Autor tradicionalmente atribuido del Mīmāṃsā Sūtra; aquí se funda la hermenéutica ritual del pūrva-mīmāṃsā.",
+      "keywordsEs": [
+        "Mīmāṃsā",
+        "hermenéutica ritual",
+        "atribución tradicional"
+      ]
+    },
+    "jan-patocka": {
+      "oneLineEs": "Fenomenólogo checo y portavoz de la Carta 77; elabora la existencia histórica mediante el cuidado del alma.",
+      "keywordsEs": [
+        "fenomenología",
+        "cuidado del alma",
+        "política disidente"
+      ]
+    },
+    "jane-addams": {
+      "oneLineEs": "Fundadora de Hull House, que llevó el pragmatismo a la reforma social y al movimiento por la paz.",
+      "keywordsEs": [
+        "ética social",
+        "democracia",
+        "reforma pragmatista"
+      ]
+    },
+    "jankelevitch": {
+      "oneLineEs": "Escribió los matices de la experiencia moral a través de lo casi-nada y el problema de lo imperdonable.",
+      "keywordsEs": [
+        "filosofía moral",
+        "lo imperdonable",
+        "lo casi-nada"
+      ]
+    },
+    "jean-luc-nancy": {
+      "oneLineEs": "Responde a Heidegger y a Bataille con la comunidad inoperante y una ontología del ser-con.",
+      "keywordsEs": [
+        "comunidad",
+        "ser-con",
+        "ontología deconstructiva"
+      ]
+    },
+    "jjc-smart": {
+      "oneLineEs": "Representante de la teoría de la identidad mente-cerebro y del consecuencialismo; defiende un realismo científico radical.",
+      "keywordsEs": [
+        "teoría de la identidad mente-cerebro",
+        "consecuencialismo",
+        "realismo científico"
+      ]
+    },
+    "jl-austin": {
+      "oneLineEs": "Fuente de la teoría de los actos de habla; Cómo hacer cosas con palabras desplaza el lenguaje del significado a la acción.",
+      "keywordsEs": [
+        "actos de habla",
+        "enunciado performativo",
+        "lenguaje ordinario"
+      ]
+    },
+    "john-mcdowell": {
+      "oneLineEs": "Mente y mundo sostiene que la experiencia es ya conceptual y reenlaza la filosofía analítica con la tradición hegeliana.",
+      "keywordsEs": [
+        "experiencia conceptual",
+        "ética de la virtud",
+        "Escuela de Pittsburgh"
+      ]
+    },
+    "jose-ortega-y-gasset": {
+      "oneLineEs": "Defensor de la razón vital y del perspectivismo; La rebelión de las masas critica la sociedad de masas moderna.",
+      "keywordsEs": [
+        "razón vital",
+        "perspectivismo",
+        "sociedad de masas"
+      ]
+    },
+    "josiah-royce": {
+      "oneLineEs": "Representante del idealismo absoluto estadounidense y de la filosofía de la comunidad; construye su ética en torno a la lealtad.",
+      "keywordsEs": [
+        "idealismo absoluto",
+        "comunidad",
+        "filosofía de la lealtad"
+      ]
+    },
+    "judith-jarvis-thomson": {
+      "oneLineEs": "Con el argumento del violinista y el problema del tranvía reconfiguró la tradición casuística de la ética aplicada.",
+      "keywordsEs": [
+        "derechos",
+        "bioética",
+        "problema del tranvía"
+      ]
+    },
+    "judith-shklar": {
+      "oneLineEs": "Reconstruyó el liberalismo en torno al liberalismo del miedo y a la prioridad del rechazo a la crueldad.",
+      "keywordsEs": [
+        "liberalismo del miedo",
+        "crueldad",
+        "injusticia"
+      ]
+    },
+    "kanada": {
+      "oneLineEs": "Autor tradicionalmente atribuido del Vaiśeṣika Sūtra; aquí se fundan el atomismo y la teoría de las categorías vaiśeṣika.",
+      "keywordsEs": [
+        "Vaiśeṣika Sūtra",
+        "atomismo",
+        "teoría de las categorías"
+      ]
+    },
+    "karl-lowith": {
+      "oneLineEs": "Argumentó que la concepción moderna del progreso histórico es un producto secularizado de la escatología cristiana.",
+      "keywordsEs": [
+        "filosofía de la historia",
+        "secularización",
+        "crítica de la modernidad"
+      ]
+    },
+    "koyre": {
+      "oneLineEs": "Del mundo cerrado al universo infinito reescribió la historia de la Revolución científica e influyó profundamente en Kuhn.",
+      "keywordsEs": [
+        "historia de la Revolución científica",
+        "historia de las ideas",
+        "universo infinito"
+      ]
+    },
+    "lacan": {
+      "oneLineEs": "Releyó a Freud mediante el estadio del espejo y la tesis de que el inconsciente está estructurado como un lenguaje.",
+      "keywordsEs": [
+        "psicoanálisis",
+        "estadio del espejo",
+        "lo Simbólico"
+      ]
+    },
+    "leo-strauss": {
+      "oneLineEs": "Revitalizador de la filosofía política clásica; relee la querella entre antiguos y modernos mediante la escritura esotérica.",
+      "keywordsEs": [
+        "filosofía política clásica",
+        "escritura esotérica",
+        "antiguos y modernos"
+      ]
+    },
+    "leszek-kolakowski": {
+      "oneLineEs": "Autor de Las principales corrientes del marxismo; pasó del revisionismo a un cuestionamiento religioso de la utopía.",
+      "keywordsEs": [
+        "filosofía de la religión",
+        "crítica del marxismo",
+        "pensamiento de Europa del Este"
+      ]
+    },
+    "levi-strauss": {
+      "oneLineEs": "Sentó la antropología estructural mediante el análisis de las estructuras del parentesco y de la mitología.",
+      "keywordsEs": [
+        "antropología estructural",
+        "mitología",
+        "estructuras del parentesco"
+      ]
+    },
+    "louis-althusser": {
+      "oneLineEs": "Representante del marxismo estructuralista; propuso los aparatos ideológicos de Estado y la ruptura epistemológica.",
+      "keywordsEs": [
+        "marxismo estructuralista",
+        "ideología",
+        "ruptura epistemológica"
+      ]
+    },
+    "lyotard": {
+      "oneLineEs": "La condición posmoderna declara el fin de los metarrelatos.",
+      "keywordsEs": [
+        "posmoderno",
+        "metarrelato",
+        "diferendo"
+      ]
+    },
+    "maurice-blanchot": {
+      "oneLineEs": "Explora los límites del lenguaje mediante el espacio literario, lo neutro y la escritura del desastre.",
+      "keywordsEs": [
+        "espacio literario",
+        "lo neutro",
+        "escritura del desastre"
+      ]
+    },
+    "maurice-blondel": {
+      "oneLineEs": "La acción lleva la lógica inmanente de la acción hacia la trascendencia y abrió el pensamiento católico moderno francés.",
+      "keywordsEs": [
+        "filosofía de la acción",
+        "método de inmanencia",
+        "pensamiento católico moderno"
+      ]
+    },
+    "max-scheler": {
+      "oneLineEs": "Representante de la ética de valores fenomenológica; respondió al formalismo kantiano con la ética material de los valores y la teoría de la persona.",
+      "keywordsEs": [
+        "ética de valores",
+        "fenomenología",
+        "persona"
+      ]
+    },
+    "michael-dummett": {
+      "oneLineEs": "Representante de la teoría del significado y del antirrealismo; releyó a Frege mediante condiciones de aseverabilidad.",
+      "keywordsEs": [
+        "antirrealismo",
+        "teoría del significado",
+        "estudios fregeanos"
+      ]
+    },
+    "michael-oakeshott": {
+      "oneLineEs": "Opuso el conocimiento práctico al racionalismo político y dio expresión filosófica al conservadurismo británico.",
+      "keywordsEs": [
+        "conservadurismo",
+        "conocimiento práctico",
+        "crítica del racionalismo político"
+      ]
+    },
+    "michel-henry": {
+      "oneLineEs": "Representante de la fenomenología de la vida; sostiene que la vida se manifiesta de inmediato en la autoafección.",
+      "keywordsEs": [
+        "fenomenología de la vida",
+        "inmanencia",
+        "autoafección"
+      ]
+    },
+    "michel-serres": {
+      "oneLineEs": "Con las figuras del tercero y del parásito conectó la historia de la ciencia y la tradición humanística.",
+      "keywordsEs": [
+        "el parásito",
+        "el tercero",
+        "ciencia y humanidades"
+      ]
+    },
+    "miguel-de-unamuno": {
+      "oneLineEs": "En Del sentimiento trágico de la vida escribió el conflicto irreconciliable entre razón y fe.",
+      "keywordsEs": [
+        "sentimiento trágico de la vida",
+        "fe",
+        "existencialismo"
+      ]
+    },
+    "nelson-goodman": {
+      "oneLineEs": "Con la paradoja del «verzul» reabrió el problema de la inducción y llevó la teoría de los sistemas simbólicos a la filosofía del arte.",
+      "keywordsEs": [
+        "constructivismo",
+        "sistemas simbólicos",
+        "nuevo enigma de la inducción"
+      ]
+    },
+    "nicolai-hartmann": {
+      "oneLineEs": "Representante de la nueva ontología; mediando fenomenología y metafísica mediante la estructura estratificada de lo real.",
+      "keywordsEs": [
+        "nueva ontología",
+        "ética de valores",
+        "estratos de lo real"
+      ]
+    },
+    "patanjali": {
+      "oneLineEs": "Autor tradicional de los Yoga Sūtras; aquí se sistematiza la teoría de la práctica del yoga de ocho miembros.",
+      "keywordsEs": [
+        "Yoga Sūtras",
+        "yoga de ocho miembros",
+        "teoría de la práctica"
+      ]
+    },
+    "paul-natorp": {
+      "oneLineEs": "Figura central del neokantismo de Marburgo; llevó la epistemología hacia la filosofía de la pedagogía social.",
+      "keywordsEs": [
+        "neokantismo",
+        "Escuela de Marburgo",
+        "pedagogía social"
+      ]
+    },
+    "pf-strawson": {
+      "oneLineEs": "Con Individuos estableció la metafísica descriptiva y reconectó a Kant con la filosofía analítica.",
+      "keywordsEs": [
+        "metafísica descriptiva",
+        "referencia",
+        "individuos"
+      ]
+    },
+    "poincare": {
+      "oneLineEs": "Representante del convencionalismo; sostiene que los axiomas geométricos no son empíricos ni a priori, sino convenciones.",
+      "keywordsEs": [
+        "convencionalismo",
+        "método científico",
+        "fundamentos de la matemática"
+      ]
+    },
+    "ranciere": {
+      "oneLineEs": "Con el reparto de lo sensible sitúa la política y la estética en un mismo campo problemático.",
+      "keywordsEs": [
+        "reparto de lo sensible",
+        "estética política",
+        "igualdad"
+      ]
+    },
+    "raymond-aron": {
+      "oneLineEs": "Con El opio de los intelectuales y la filosofía de la historia defendió el liberalismo; polemizó largamente con Sartre.",
+      "keywordsEs": [
+        "liberalismo",
+        "filosofía de la historia",
+        "crítica de los intelectuales"
+      ]
+    },
+    "rene-girard": {
+      "oneLineEs": "Explicó el origen de la violencia y de lo sagrado mediante el deseo mimético y el mecanismo del chivo expiatorio.",
+      "keywordsEs": [
+        "deseo mimético",
+        "chivo expiatorio",
+        "violencia sagrada"
+      ]
+    },
+    "rg-collingwood": {
+      "oneLineEs": "Representante de la filosofía de la historia y de la lógica de pregunta y respuesta; sostiene que toda historia es la recreación del pensamiento en el presente.",
+      "keywordsEs": [
+        "filosofía de la historia",
+        "lógica de pregunta y respuesta",
+        "filosofía del arte"
+      ]
+    },
+    "richard-swinburne": {
+      "oneLineEs": "Argumentó el teísmo con probabilidad bayesiana; representa la forma contemporánea de la teología natural angloamericana.",
+      "keywordsEs": [
+        "filosofía de la religión",
+        "argumento probabilístico",
+        "teología natural"
+      ]
+    },
+    "rm-hare": {
+      "oneLineEs": "Representante del prescriptivismo; sostiene que los juicios morales son a la vez prescriptivos y universalizables.",
+      "keywordsEs": [
+        "prescriptivismo",
+        "metaética",
+        "universalizabilidad"
+      ]
+    },
+    "robert-brandom": {
+      "oneLineEs": "Representante de la semántica inferencialista; funda el significado en las prácticas inferenciales de dar y pedir razones.",
+      "keywordsEs": [
+        "inferencialismo",
+        "semántica",
+        "Escuela de Pittsburgh"
+      ]
+    },
+    "ruth-barcan-marcus": {
+      "oneLineEs": "Pionera de la lógica modal cuantificada; la fórmula de Barcan abrió camino a la semántica modal posterior.",
+      "keywordsEs": [
+        "lógica modal",
+        "fórmula de Barcan",
+        "referencia directa"
+      ]
+    },
+    "susan-stebbing": {
+      "oneLineEs": "Primera mujer catedrática de filosofía en Gran Bretaña; con Thinking to Some Purpose difundió el análisis lógico y el razonamiento público.",
+      "keywordsEs": [
+        "filosofía analítica",
+        "empirismo lógico",
+        "pensamiento claro"
+      ]
+    },
+    "th-green": {
+      "oneLineEs": "Figura fundacional del neohegelianismo británico y del nuevo liberalismo; con el Estado ético y la libertad positiva reconfiguró el concepto de libertad.",
+      "keywordsEs": [
+        "neohegelianismo",
+        "libertad positiva",
+        "Estado ético"
+      ]
+    },
+    "thomas-nagel": {
+      "oneLineEs": "Autor de «¿Cómo es ser un murciélago?»; desafió el reduccionismo desde la perspectiva subjetiva.",
+      "keywordsEs": [
+        "experiencia subjetiva",
+        "suerte moral",
+        "objetividad"
+      ]
+    },
+    "tyler-burge": {
+      "oneLineEs": "Con el experimento mental de la artritis estableció el externalismo social acerca del contenido mental.",
+      "keywordsEs": [
+        "antiindividualismo",
+        "externalismo",
+        "contenido mental"
+      ]
+    },
+    "wilhelm-windelband": {
+      "oneLineEs": "Fundador de la Escuela del Sudoeste; con la distinción entre ciencias nomotéticas e idiográficas sentó la metodología de las ciencias de la cultura.",
+      "keywordsEs": [
+        "neokantismo",
+        "filosofía de los valores",
+        "ciencias de la cultura"
+      ]
+    }
+  }
+}

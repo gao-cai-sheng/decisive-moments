@@ -1,6 +1,6 @@
 {
   "id": "ivan-kireevsky",
-  "tier": "seed",
+  "tier": "standard",
   "names": {
     "zh": "基列耶夫斯基",
     "en": "Ivan Kireevsky",
@@ -34,20 +34,350 @@
   "oneLineZh": "斯拉夫派共同奠基者之一，以整全知识和东正教传统反思西欧理性主义。",
   "influenceWeight": 2,
   "reviewStatus": "draft",
-  "summaryZh": "基列耶夫斯基与霍米亚科夫共同构成早期斯拉夫派的思想核心；他以整全知识、教父传统和俄国精神生活批判西欧抽象理性主义。本 seed 档只收其身份层和核心文本口径。",
+  "summaryZh": "基列耶夫斯基把俄欧文化差异推进到认识论层面：西欧文化的抽象理性、罗马法形式主义和经院分裂倾向，在其自身胜利中暴露了内在狭窄；俄国可能提供的不是排欧复古，而是在东正教教父传统、心灵诸能力统一和有机社会生活中重建整全知识。本标准候选用三条线呈现其反理性主义、整全知识和俄罗斯文化道路。",
   "works": [
     "kireevsky-european-culture-russia"
   ],
   "sourceNotes": [
     {
-      "label": "W11-B1-S005",
+      "label": "S003",
       "url": "https://iep.utm.edu/russian/",
-      "noteZh": "IEP Russian Philosophy 总论用于核验 Kireevsky 与 Khomyakov 在斯拉夫派和俄国哲学史中的位置。"
+      "noteZh": "核验 Kireevsky 与 Khomyakov 在19世纪斯拉夫派和俄国哲学史中的位置。"
     },
     {
-      "label": "W11-B1-S006",
-      "url": "https://www.britannica.com/biography/Ivan-Vasilyevich-Kireyevsky",
-      "noteZh": "Britannica Kireevsky 条目用于核验其生卒、斯拉夫派身份与作品传统。"
+      "label": "S009",
+      "url": "https://www.geocities.ws/trvalentine/orthodox/kireyevsky_culture.html",
+      "noteZh": "用于校准《论欧洲文化及其对俄国之关系》关于西欧理性、俄国传统和整全知识的文本定位。"
+    },
+    {
+      "label": "S011",
+      "url": "https://en.wikisource.org/wiki/The_Spirit_of_Russia/Volume_1/Chapter_9",
+      "noteZh": "辅助核验 Kireevsky 的 integral knowledge 与 Orthodox thinking 解释。"
     }
-  ]
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "ivan-kireevsky:problem:001",
+        "titleZh": "为何批判西欧抽象理性？",
+        "questionZh": "基列耶夫斯基怎样把西欧文化危机归结为抽象理性和外在形式的单面发展？",
+        "summaryZh": "他没有把西欧失败归咎为知识不足，反而说西欧文化在科学、组织和理性胜利中暴露了自身狭窄：冷分析破坏了原有信念，逻辑理性脱离心灵其他能力，社会制度也偏向外在形式。",
+        "themeIds": [
+          "knowledge",
+          "religion"
+        ],
+        "weight": 3,
+        "sourceIds": [
+          "S009",
+          "S010",
+          "S011"
+        ],
+        "claims": [
+          {
+            "id": "ivan-kireevsky:claim:001",
+            "titleZh": "理性胜利暴露理性狭窄",
+            "claimZh": "西欧抽象理性的问题不在落后，而在它越成功越显出只能处理知识的否定和外在方面。",
+            "explanationZh": "基列耶夫斯基的批判不是反智主义；他承认西方科学繁荣，却认为抽象理性一旦自足，就会割裂信念、心灵整体和生活意义，最终导致文明空虚。",
+            "themeIds": [
+              "knowledge",
+              "religion"
+            ],
+            "weight": 3,
+            "sourceIds": [
+              "S009",
+              "S011"
+            ],
+            "evidence": [
+              {
+                "id": "ivan-kireevsky:evidence:001",
+                "titleZh": "西欧文化成功后的空虚",
+                "summaryZh": "文章前段承认西欧学问仍然繁荣、外在生活组织也更顺从理智要求，却指出普遍不满来自胜利本身暴露了基本志向的狭窄，说明问题在文明原则而非技术落后。",
+                "sourceIds": [
+                  "S009"
+                ],
+                "source": {
+                  "workId": "kireevsky-european-culture-russia",
+                  "locator": "On the Nature of European Culture, Letter to Komarovsky, opening paragraphs on Western dissatisfaction",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "ivan-kireevsky:evidence:002",
+                "titleZh": "逻辑理性自知限度",
+                "summaryZh": "同一文本紧接着说，欧洲逻辑理性发展到最高阶段后发现自身力量不能越出知识的否定方面，高层真理不由孤立辩证过程推出；这正是整全知识的反面。",
+                "sourceIds": [
+                  "S009",
+                  "S011"
+                ],
+                "source": {
+                  "workId": "kireevsky-european-culture-russia",
+                  "locator": "On the Nature of European Culture, paragraphs on logical reason discovering its limits",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "ivan-kireevsky:claim:002",
+            "titleZh": "罗马形式主义塑造西方",
+            "claimZh": "西欧理性主义还来自拉丁教会、古罗马法和征服国家三重历史结构造成的外在形式偏向。",
+            "explanationZh": "基列耶夫斯基把认识论批判接到制度史：他认为西欧的法律、语言、社会关系和神学都受到罗马外在形式和经院逻辑支配，因此抽象理性有深层文明根源。",
+            "themeIds": [
+              "knowledge",
+              "politics",
+              "religion"
+            ],
+            "weight": 2,
+            "sourceIds": [
+              "S009",
+              "S010"
+            ],
+            "evidence": [
+              {
+                "id": "ivan-kireevsky:evidence:003",
+                "titleZh": "三种西欧来源",
+                "summaryZh": "文章中段列出西欧发展的三项历史条件：基督教通过拉丁形式传入、古代文明主要经罗马形态继承、国家由征服关系形成；这些条件为其文明单面性奠基。",
+                "sourceIds": [
+                  "S009",
+                  "S010"
+                ],
+                "source": {
+                  "workId": "kireevsky-european-culture-russia",
+                  "locator": "On the Nature of European Culture, section on the three historical circumstances of the West",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "ivan-kireevsky:evidence:004",
+                "titleZh": "罗马法重外在字面",
+                "summaryZh": "他以古罗马社会、诗歌、语言、法律和宗教为例，说明拉丁精神偏向外部形式和逻辑编排，常以形式之美遮蔽内在正义；西欧法学因而继承了形式主义倾向。",
+                "sourceIds": [
+                  "S009"
+                ],
+                "source": {
+                  "workId": "kireevsky-european-culture-russia",
+                  "locator": "On the Nature of European Culture, paragraphs on pagan Rome and Roman law",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ivan-kireevsky:problem:002",
+        "titleZh": "整全知识如何可能？",
+        "questionZh": "基列耶夫斯基所谓整全知识怎样把理性、信仰、心灵和生活统一起来？",
+        "summaryZh": "整全知识不是放弃理性，而是反对把理性割裂成自足的逻辑机器。基列耶夫斯基主张真理需要心灵诸能力集中，东正教教父传统则提供一种能把信仰、思想和生活重新合一的认识形态。",
+        "themeIds": [
+          "knowledge",
+          "religion",
+          "ethics"
+        ],
+        "weight": 2,
+        "sourceIds": [
+          "S009",
+          "S011"
+        ],
+        "claims": [
+          {
+            "id": "ivan-kireevsky:claim:003",
+            "titleZh": "真理要求心灵合一",
+            "claimZh": "整全知识把理性、意志、情感和信仰集中为活的整体，以克服西方精神分裂。",
+            "explanationZh": "他关心的是认识主体本身的状态：若人的能力各自孤立，理性只能制造抽象联系；若心灵在信仰中恢复统一，知识才可能接触生活真理而非只处理概念表面。",
+            "themeIds": [
+              "knowledge",
+              "religion"
+            ],
+            "weight": 3,
+            "sourceIds": [
+              "S009",
+              "S011"
+            ],
+            "evidence": [
+              {
+                "id": "ivan-kireevsky:evidence:005",
+                "titleZh": "西方精神被分格",
+                "summaryZh": "文章后段描绘西方人把宗教、理性、欲望、家庭道德、利益和审美分置心灵角落，只靠抽象记忆相连；这为整全知识提出了需要治疗的分裂图景。",
+                "sourceIds": [
+                  "S009"
+                ],
+                "source": {
+                  "workId": "kireevsky-european-culture-russia",
+                  "locator": "On the Nature of European Culture, paragraphs on the fragmented Western person",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "ivan-kireevsky:evidence:006",
+                "titleZh": "整全与分裂的总定义",
+                "summaryZh": "在总结俄欧差异时，他把西欧概括为精神、思想、学问、国家和社会的分裂，把俄国倾向概括为内外生活的整全追求；这直接给出整全知识的文明位置。",
+                "sourceIds": [
+                  "S009",
+                  "S011"
+                ],
+                "source": {
+                  "workId": "kireevsky-european-culture-russia",
+                  "locator": "On the Nature of European Culture, summary paragraphs defining dichotomy and wholeness",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "ivan-kireevsky:claim:004",
+            "titleZh": "教父传统不是非理性",
+            "claimZh": "他把教父传统视为提升理性源头的哲学资源，而不是用信仰压倒思想的反哲学姿态。",
+            "explanationZh": "基列耶夫斯基把古罗斯修道院、教父译本和东正教思想写成另一种文化教育系统；它的任务不是取消问题，而是改变理解真理的心灵方式。",
+            "themeIds": [
+              "religion",
+              "knowledge"
+            ],
+            "weight": 2,
+            "sourceIds": [
+              "S009",
+              "S011"
+            ],
+            "evidence": [
+              {
+                "id": "ivan-kireevsky:evidence:007",
+                "titleZh": "修道院保存哲学性教父资源",
+                "summaryZh": "文章叙述古罗斯修道院和抄写传统时，强调斯拉夫译本保存了充满神学和哲学思辨的希腊教父作品；这说明俄国传统并非纯朴反智，而有另一类知识源头。",
+                "sourceIds": [
+                  "S009"
+                ],
+                "source": {
+                  "workId": "kireevsky-european-culture-russia",
+                  "locator": "On the Nature of European Culture, paragraphs on monasteries and Church Fathers",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "ivan-kireevsky:evidence:008",
+                "titleZh": "从教父哲学回答现代困惑",
+                "summaryZh": "结尾说受西方结果欺骗而不安的心灵，可在教父的活的整全哲学中找到理智和心灵问题的回答；这把东正教传统写成认识论重建资源。",
+                "sourceIds": [
+                  "S009",
+                  "S011"
+                ],
+                "source": {
+                  "workId": "kireevsky-european-culture-russia",
+                  "locator": "On the Nature of European Culture, concluding paragraph on the philosophy of the Holy Fathers",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ivan-kireevsky:problem:003",
+        "titleZh": "俄国道路是否只是排欧？",
+        "questionZh": "基列耶夫斯基如何在批判欧洲的同时避免把俄国道路写成封闭复古？",
+        "summaryZh": "他强调俄国传统具有不同来源，却也承认俄欧已经相互渗透，俄国未来文化不可能脱离欧洲。问题不是拒绝欧洲，而是用自身的东正教-有机社会传统重新消化欧洲遗产。",
+        "themeIds": [
+          "politics",
+          "knowledge",
+          "religion"
+        ],
+        "weight": 1,
+        "sourceIds": [
+          "S009",
+          "S010",
+          "S011"
+        ],
+        "claims": [
+          {
+            "id": "ivan-kireevsky:claim:005",
+            "titleZh": "俄欧互入后不能隔绝",
+            "claimZh": "基列耶夫斯基承认俄国和欧洲已经彼此相关，未来俄国文化必须消化欧洲而非简单拒绝欧洲。",
+            "explanationZh": "这一点把他同粗糙的排外主义分开：欧洲已经说尽自己的原则，但俄国要发展的不是孤立地方性，而是能回应欧洲问题的新文化层次。",
+            "themeIds": [
+              "politics",
+              "knowledge"
+            ],
+            "weight": 3,
+            "sourceIds": [
+              "S009",
+              "S011"
+            ],
+            "evidence": [
+              {
+                "id": "ivan-kireevsky:evidence:009",
+                "titleZh": "俄欧发展不能互不相关",
+                "summaryZh": "在提出俄国原则问题时，他明确说俄欧已经完成相互渗透，不能设想俄国思想生活发展而不影响欧洲，也不能设想欧洲发展而不影响俄国。",
+                "sourceIds": [
+                  "S009"
+                ],
+                "source": {
+                  "workId": "kireevsky-european-culture-russia",
+                  "locator": "On the Nature of European Culture, paragraph on Russia-Europe interpenetration",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "ivan-kireevsky:evidence:010",
+                "titleZh": "欧洲已完成一轮发展",
+                "summaryZh": "同一论段说欧洲在19世纪完成从9世纪开始的循环，俄国只保存自身原则的提示而未充分展开；这说明俄国未来不是退回过去，而是从未完成处再发展。",
+                "sourceIds": [
+                  "S009",
+                  "S011"
+                ],
+                "source": {
+                  "workId": "kireevsky-european-culture-russia",
+                  "locator": "On the Nature of European Culture, paragraphs on Europe's completed cycle and Russia's preserved hints",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "ivan-kireevsky:claim:006",
+            "titleZh": "有机共同体反对强制逻辑改造",
+            "claimZh": "他用古罗斯公社和习惯法描绘一种由生活、传统和内在正义生长的政治秩序。",
+            "explanationZh": "基列耶夫斯基的政治含义在于反对把社会当作抽象立法材料；真正的法律和制度应从共同生活中形成，强制逻辑推演会刺伤社会有机体。",
+            "themeIds": [
+              "politics",
+              "justice",
+              "knowledge"
+            ],
+            "weight": 2,
+            "sourceIds": [
+              "S009",
+              "S010"
+            ],
+            "evidence": [
+              {
+                "id": "ivan-kireevsky:evidence:011",
+                "titleZh": "小公社组成俄国社会",
+                "summaryZh": "文章描述俄国土地上分散的小共同体逐级合成为地区、部族乃至全俄共同体，这一结构强调共识和生活联系，而非由外在契约强作统一。",
+                "sourceIds": [
+                  "S009"
+                ],
+                "source": {
+                  "workId": "kireevsky-european-culture-russia",
+                  "locator": "On the Nature of European Culture, paragraphs on small communes and the Russian land",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "ivan-kireevsky:evidence:012",
+                "titleZh": "习惯法重内在真理",
+                "summaryZh": "他论俄国习惯法时说法律通常不是被学者预制，而是在民族观念进入风俗生活后被写下；这支持他对内在正义和传统连续性的政治认识论。",
+                "sourceIds": [
+                  "S009",
+                  "S010"
+                ],
+                "source": {
+                  "workId": "kireevsky-european-culture-russia",
+                  "locator": "On the Nature of European Culture, paragraphs on customary law and inner truth",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
 }

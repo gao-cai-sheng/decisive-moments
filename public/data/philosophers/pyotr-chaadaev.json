@@ -1,6 +1,6 @@
 {
   "id": "pyotr-chaadaev",
-  "tier": "seed",
+  "tier": "standard",
   "names": {
     "zh": "恰达耶夫",
     "en": "Pyotr Chaadaev",
@@ -35,20 +35,351 @@
   "oneLineZh": "19世纪俄国思想家，《哲学书简》引发关于俄国历史使命与文明道路的论争。",
   "influenceWeight": 3,
   "reviewStatus": "draft",
-  "summaryZh": "恰达耶夫以《哲学书简》提出俄国与西欧历史道路、宗教根基和文明使命的尖锐问题，被视为俄国西化派与斯拉夫派论争的重要起点。本 seed 档只登记其身份层、核心文本和问题位置。",
+  "summaryZh": "恰达耶夫以《哲学书简》把俄国问题变成宗教历史哲学问题：俄国既未进入西方传统，也未保存东方传统，因此缺少能教育民族、组织社会记忆并指向上帝之国的历史形式。本标准候选把他分成三条线：以缺席诊断撕开俄国文明自满，以基督教和教会统一解释历史进步，以公共挑衅开启西化派与斯拉夫派围绕俄国使命的论争。",
   "works": [
     "chaadaev-philosophical-letters"
   ],
   "sourceNotes": [
     {
-      "label": "W11-B1-S001",
+      "label": "S003",
       "url": "https://iep.utm.edu/russian/",
-      "noteZh": "IEP Russian Philosophy 总论用于核验19世纪俄国哲学以 Chaadaev 的历史哲学问题为重要起点。"
+      "noteZh": "核验 Chaadaev 在19世纪俄国哲学开端、宗教取向与哲学暗期中的位置。"
     },
     {
-      "label": "W11-B1-S002",
-      "url": "https://www.britannica.com/biography/Pyotr-Yakovlevich-Chaadayev",
-      "noteZh": "Britannica Chaadayev 条目用于核验其生卒、俄国哲学家身份和《哲学书简》口径。"
+      "label": "S005",
+      "url": "https://www.infoliolib.info/philos/chaadaev/pisma1.html",
+      "noteZh": "用于校准《哲学书简》第一封信关于俄国历史缺席、传统断裂和宗教社会统一的文本定位。"
+    },
+    {
+      "label": "S007",
+      "url": "https://en.wikisource.org/wiki/The_Spirit_of_Russia/Volume_1/Chapter_8",
+      "noteZh": "辅助核验 Chaadaev 的哲学史位置、宗教历史观和与西化/斯拉夫论争的关系。"
     }
-  ]
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "pyotr-chaadaev:problem:001",
+        "titleZh": "俄国为何被写成历史缺席？",
+        "questionZh": "恰达耶夫为什么把俄国问题描述为没有进入人类共同教育的历史空白？",
+        "summaryZh": "《哲学书简》第一封信的震动在于，它没有先讨论政策得失，而是把俄国放到世界历史和基督教文明教育之外来审判：没有稳定传统、没有可传递的共同观念，也没有向人类共同事业贡献思想。",
+        "themeIds": [
+          "politics",
+          "religion",
+          "knowledge"
+        ],
+        "weight": 3,
+        "sourceIds": [
+          "S005",
+          "S007"
+        ],
+        "claims": [
+          {
+            "id": "pyotr-chaadaev:claim:001",
+            "titleZh": "历史空白是文明诊断",
+            "claimZh": "恰达耶夫把俄国“不属东西方”的说法用作文明诊断，指出俄罗斯未吸收人类思想传统的连续教育。",
+            "explanationZh": "这一命题不是单纯崇欧，也不是简单辱国，而是把民族历史放进普遍历史尺度中评判：一个民族若没有可继承、可传递、可塑造人格的传统，就缺少进入世界历史的精神形式。",
+            "themeIds": [
+              "politics",
+              "knowledge"
+            ],
+            "weight": 3,
+            "sourceIds": [
+              "S005",
+              "S007"
+            ],
+            "evidence": [
+              {
+                "id": "pyotr-chaadaev:evidence:001",
+                "titleZh": "既非西方亦非东方",
+                "summaryZh": "第一封信在开篇论宗教困惑后转入俄国处境，明确说俄国既不属于西方也不属于东方，缺乏两边传统的历史继承；这里把地缘位置转化为精神教育和历史记忆的缺席。",
+                "sourceIds": [
+                  "S005"
+                ],
+                "source": {
+                  "workId": "chaadaev-philosophical-letters",
+                  "locator": "Philosophical Letters, Letter 1, opening diagnosis after the religious address",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "pyotr-chaadaev:evidence:002",
+                "titleZh": "没有贡献共同事业",
+                "summaryZh": "同一封信继续把批判加重到历史贡献层面，称俄国没有从自身土壤推出有益于人类共同福祉的思想；证据显示他的焦点是民族是否参与普遍文明，而非局部政论。",
+                "sourceIds": [
+                  "S005",
+                  "S007"
+                ],
+                "source": {
+                  "workId": "chaadaev-philosophical-letters",
+                  "locator": "Philosophical Letters, Letter 1, paragraphs on Russia's barren historical soil",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "pyotr-chaadaev:claim:002",
+            "titleZh": "传统塑造日常人格",
+            "claimZh": "对恰达耶夫而言，文明传统的功能是给个人生活和民族生活提供稳定习惯、尺度和精神空气。",
+            "explanationZh": "他在写给一位女士的书信体中，从个体宗教不安写到社会传统缺失，说明历史哲学并非远离生活；传统一旦中断，连日常判断、灵魂安顿和公共道德都失去框架。",
+            "themeIds": [
+              "knowledge",
+              "ethics",
+              "religion"
+            ],
+            "weight": 2,
+            "sourceIds": [
+              "S005"
+            ],
+            "evidence": [
+              {
+                "id": "pyotr-chaadaev:evidence:003",
+                "titleZh": "日常生活需要框架",
+                "summaryZh": "第一封信以收信人的精神不安为入口，转而指出人需要能容纳日常事件的生活框架和意识习惯；这说明他把文明危机理解为人格形成环境的缺损。",
+                "sourceIds": [
+                  "S005"
+                ],
+                "source": {
+                  "workId": "chaadaev-philosophical-letters",
+                  "locator": "Philosophical Letters, Letter 1, paragraphs on ordered life and habits of consciousness",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "pyotr-chaadaev:evidence:004",
+                "titleZh": "基督教史作为教育史",
+                "summaryZh": "第一封信列举早期基督教传播、教阶形成、宗教情感提升和道德改善，把欧洲历史写成宗教力量教育人类的过程；俄国缺席因此成为未受共同教育的问题。",
+                "sourceIds": [
+                  "S005",
+                  "S007"
+                ],
+                "source": {
+                  "workId": "chaadaev-philosophical-letters",
+                  "locator": "Philosophical Letters, Letter 1, sacred-history sequence of Christianity",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "pyotr-chaadaev:problem:002",
+        "titleZh": "宗教如何成为历史哲学？",
+        "questionZh": "恰达耶夫怎样把基督教、教会和道德法组织成解释历史进步的原则？",
+        "summaryZh": "恰达耶夫把宗教从个人虔敬扩大为社会历史力量：基督教不是私人情绪，而是在教会统一、道德法和人类共同命运中推动历史的原则，历史哲学也因此带有审判和救赎的结构。",
+        "themeIds": [
+          "religion",
+          "metaphysics",
+          "knowledge"
+        ],
+        "weight": 2,
+        "sourceIds": [
+          "S005",
+          "S006",
+          "S007"
+        ],
+        "claims": [
+          {
+            "id": "pyotr-chaadaev:claim:003",
+            "titleZh": "教会是社会统一形式",
+            "claimZh": "恰达耶夫把真正宗教理解为把分散道德力量合成为社会统一和真理王国的历史机制。",
+            "explanationZh": "他借教会论说明历史不是偶然事件堆积，而是道德力量被组织、传递和社会化的过程；这种理解也使俄国是否进入普遍教会历史成为政治哲学问题。",
+            "themeIds": [
+              "religion",
+              "politics"
+            ],
+            "weight": 3,
+            "sourceIds": [
+              "S005",
+              "S007"
+            ],
+            "evidence": [
+              {
+                "id": "pyotr-chaadaev:evidence:005",
+                "titleZh": "真理王国的社会系统",
+                "summaryZh": "第一封信在论教义时把宗教精神定义为把世界上一切道德力量合入共同思想和情感，并逐步建立社会系统或教会；这为其历史哲学提供制度性核心。",
+                "sourceIds": [
+                  "S005"
+                ],
+                "source": {
+                  "workId": "chaadaev-philosophical-letters",
+                  "locator": "Philosophical Letters, Letter 1, paragraph on unity and the social system or church",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "pyotr-chaadaev:evidence:006",
+                "titleZh": "个人参与人类命运",
+                "summaryZh": "第三封信从宗教问题转入纯哲学论证，强调人能够同他人需要、利益和命运相连；这个段落把教会统一扩展为人类共同意识的心理和道德基础。",
+                "sourceIds": [
+                  "S006"
+                ],
+                "source": {
+                  "workId": "chaadaev-philosophical-letters",
+                  "locator": "Philosophical Letters, Letter 3, opening paragraphs on sympathy and humanity",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "pyotr-chaadaev:claim:004",
+            "titleZh": "历史批判服从道德法",
+            "claimZh": "恰达耶夫要求历史批判揭开民族幻象，因为历史应显示支配社会变迁的道德法和天意方向。",
+            "explanationZh": "他反对只把历史当成叙事记忆或民族荣耀收藏，主张从历史中辨认社会运动的法则和方向；这使历史研究兼具认识论、宗教和政治审判功能。",
+            "themeIds": [
+              "knowledge",
+              "religion",
+              "metaphysics"
+            ],
+            "weight": 2,
+            "sourceIds": [
+              "S006"
+            ],
+            "evidence": [
+              {
+                "id": "pyotr-chaadaev:evidence:007",
+                "titleZh": "道德法不是自造",
+                "summaryZh": "第五封信从精神法则谈起，强调人的理性不能像给自己颁法那样制造道德法；这个论证把道德秩序放到高于个人理性的来源中，限制启蒙式自足理性。",
+                "sourceIds": [
+                  "S006"
+                ],
+                "source": {
+                  "workId": "chaadaev-philosophical-letters",
+                  "locator": "Philosophical Letters, Letter 5, opening paragraphs on moral law",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "pyotr-chaadaev:evidence:008",
+                "titleZh": "历史批判作为最高法庭",
+                "summaryZh": "第六封信提出历史批判应清除虚假声誉、幻象和历史激情，让过去在理性光照下产生面向现在和未来的结论；这正是他的审判式历史哲学方法。",
+                "sourceIds": [
+                  "S006",
+                  "S007"
+                ],
+                "source": {
+                  "workId": "chaadaev-philosophical-letters",
+                  "locator": "Philosophical Letters, Letter 6, paragraphs on historical criticism as tribunal",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "pyotr-chaadaev:problem:003",
+        "titleZh": "怎样开启俄国道路论争？",
+        "questionZh": "《哲学书简》为什么能成为西化派与斯拉夫派围绕俄国使命争论的起点？",
+        "summaryZh": "恰达耶夫的公共爆炸性来自双重动作：一方面否定民族自满和国家孤立，另一方面又迫使俄国思想界回答是否要进入欧洲、如何理解基督教传统、俄国能否拥有世界历史使命。",
+        "themeIds": [
+          "politics",
+          "freedom",
+          "religion"
+        ],
+        "weight": 1,
+        "sourceIds": [
+          "S003",
+          "S005",
+          "S006",
+          "S007"
+        ],
+        "claims": [
+          {
+            "id": "pyotr-chaadaev:claim:005",
+            "titleZh": "反民族偏见制造公共挑衅",
+            "claimZh": "他把基督教意识同民族偏见对立起来，使爱国主义必须接受普遍道德和世界历史的审查。",
+            "explanationZh": "恰达耶夫不是在欧洲与俄国之间做简单选择，而是在追问民族是否能用宗教真理和人类共同福祉校正自身；这使他的文字自然触怒官方民族叙事。",
+            "themeIds": [
+              "politics",
+              "religion",
+              "ethics"
+            ],
+            "weight": 3,
+            "sourceIds": [
+              "S005",
+              "S007"
+            ],
+            "evidence": [
+              {
+                "id": "pyotr-chaadaev:evidence:009",
+                "titleZh": "基督教意识反对民族盲目",
+                "summaryZh": "第一封信在猛烈批评祖国后特别说明，基督教意识不能容忍盲目性，尤其不能容忍最会分裂人类的民族偏见；这把爱国情感置于普遍宗教尺度之下。",
+                "sourceIds": [
+                  "S005"
+                ],
+                "source": {
+                  "workId": "chaadaev-philosophical-letters",
+                  "locator": "Philosophical Letters, Letter 1, paragraph after Russia's lack of historical connection",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "pyotr-chaadaev:evidence:010",
+                "titleZh": "俄国问题迫使重做教育",
+                "summaryZh": "第一封信说若俄国要像其他文明民族那样拥有面貌，就必须重新经历人类教育；这里把未来道路争论变成是否补课、向谁学习、怎样进入普遍历史的问题。",
+                "sourceIds": [
+                  "S005",
+                  "S007"
+                ],
+                "source": {
+                  "workId": "chaadaev-philosophical-letters",
+                  "locator": "Philosophical Letters, Letter 1, paragraph on repeating the education of humanity",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "pyotr-chaadaev:claim:006",
+            "titleZh": "欧洲不是可直接复制的答案",
+            "claimZh": "恰达耶夫虽以欧洲文明刺激俄国自省，但仍把欧洲哲学和进步观放在宗教历史法则下重新衡量。",
+            "explanationZh": "这点解释了他为何既能引发西化派论争，又不等于普通自由主义模仿论；欧洲被他用来显露俄国缺席，但欧洲自身也要接受道德法、天意和历史批判的约束。",
+            "themeIds": [
+              "knowledge",
+              "politics",
+              "religion"
+            ],
+            "weight": 2,
+            "sourceIds": [
+              "S006",
+              "S007"
+            ],
+            "evidence": [
+              {
+                "id": "pyotr-chaadaev:evidence:011",
+                "titleZh": "德国理想主义仍需下降",
+                "summaryZh": "第五封信讨论德国超越论理想主义时承认其震动旧哲学偏见，却批评它停留在难以呼吸的高处；这显示他不把欧洲哲学直接当成俄国道路答案。",
+                "sourceIds": [
+                  "S006"
+                ],
+                "source": {
+                  "workId": "chaadaev-philosophical-letters",
+                  "locator": "Philosophical Letters, Letter 5, paragraphs on German transcendental idealism",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "pyotr-chaadaev:evidence:012",
+                "titleZh": "进步观必须有边界",
+                "summaryZh": "第六封信在讨论欧洲文明和进步时反对把人类进步说成无边无际，指出古代文明也会停滞；这使俄国道路问题不能被简化为直线进步崇拜。",
+                "sourceIds": [
+                  "S006",
+                  "S007"
+                ],
+                "source": {
+                  "workId": "chaadaev-philosophical-letters",
+                  "locator": "Philosophical Letters, Letter 6, paragraphs on European civilization and limits of progress",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
 }

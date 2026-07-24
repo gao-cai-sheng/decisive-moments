@@ -9585,6 +9585,22 @@
     "noteZh": "普勒东在晚期拜占庭和文艺复兴语境中重申柏拉图优先性的代表文本。"
   },
   {
+    "id": "plethon-address-manuel-peloponnese",
+    "philosopherId": "gemistos-plethon",
+    "titleZh": "致曼努埃尔二世论伯罗奔尼撒事务",
+    "titleEn": "Address to Emperor Manuel II on the Affairs in the Peloponnese",
+    "originalTitle": "Εἰς Μανουὴλ Παλαιολόγον περὶ τῶν ἐν Πελοποννήσῳ πραγμάτων",
+    "noteZh": "普勒东向曼努埃尔二世提出伯罗奔尼撒社会、土地、财政、军役和货币改革的政治备忘录；Lambros《Παλαιολόγεια καὶ Πελοποννησιακά》卷三收录。"
+  },
+  {
+    "id": "plethon-address-theodore-peloponnese",
+    "philosopherId": "gemistos-plethon",
+    "titleZh": "致塞奥多尔君王论伯罗奔尼撒的谏言",
+    "titleEn": "Advisory Address to Despot Theodore on the Peloponnese",
+    "originalTitle": "Συμβουλευτικὸς πρὸς τὸν δεσπότην Θεόδωρον περὶ τῆς Πελοποννήσου",
+    "noteZh": "普勒东向摩里亚君主塞奥多尔二世提出君主、法律、军政、税制和德性秩序的政治谏言；Lambros《Παλαιολόγεια καὶ Πελοποννησιακά》卷四收录。"
+  },
+  {
     "id": "zoroaster-gathas",
     "philosopherId": "zoroaster",
     "titleZh": "《伽萨》",

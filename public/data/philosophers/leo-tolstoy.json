@@ -1,6 +1,6 @@
 {
   "id": "leo-tolstoy",
-  "tier": "seed",
+  "tier": "standard",
   "names": {
     "zh": "托尔斯泰",
     "en": "Leo Tolstoy",
@@ -36,21 +36,336 @@
   "oneLineZh": "以基督教伦理、非暴力和良心批判组织社会思想的俄国作家思想家。",
   "influenceWeight": 3,
   "reviewStatus": "draft",
-  "summaryZh": "托尔斯泰晚期宗教伦理思想以良心、非暴力、简朴生活和对制度化权威的批判为核心。《天国在你心中》和《忏悔录》构成其思想家身份的 seed 文本口径。",
+  "summaryZh": "托尔斯泰晚期思想从生命意义危机出发，把信仰理解为可实践的生活智慧，而不是教会仪式或形而上学体系。本标准候选以《忏悔录》呈现死亡、无意义和民众信仰问题，以《天国在你心中》呈现不以暴力抗恶、反国家军事服从和良心抵抗，刻意区别于陀思妥耶夫斯基式多声部道德心理。",
   "works": [
     "tolstoy-kingdom-of-god-within-you",
     "tolstoy-confession"
   ],
   "sourceNotes": [
     {
-      "label": "W11-B2-S003",
-      "url": "https://iep.utm.edu/russian/",
-      "noteZh": "IEP Russian Philosophy 总论用于核验 Tolstoy 在俄国广义思想史中的收录口径。"
+      "label": "S007",
+      "url": "https://www.britannica.com/biography/Leo-Tolstoy",
+      "noteZh": "核验 Tolstoy 生卒、主要作品和宗教伦理思想。"
     },
     {
-      "label": "W11-B2-S004",
-      "url": "https://www.britannica.com/biography/Leo-Tolstoy",
-      "noteZh": "Britannica Tolstoy 条目用于核验其生卒、主要作品和宗教伦理思想。"
+      "label": "S008",
+      "url": "https://www.gutenberg.org/files/46447/46447-h/46447-h.htm",
+      "noteZh": "用于校准《忏悔录》关于意义危机、死亡、科学不足和民众信仰的文本定位。"
+    },
+    {
+      "label": "S009",
+      "url": "https://www.gutenberg.org/files/43302/43302-h/43302-h.htm",
+      "noteZh": "用于校准《天国在你心中》关于非抵抗、国家暴力、教会批判和良心抵抗的文本定位。"
     }
-  ]
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "leo-tolstoy:problem:001",
+        "titleZh": "生命意义危机如何改变信仰？",
+        "questionZh": "《忏悔录》怎样把死亡、无意义和信仰转向连成托尔斯泰的思想起点？",
+        "summaryZh": "托尔斯泰的宗教伦理不是从教义系统开始，而是从成功生活突然失去意义开始。死亡问题使艺术、家庭、财富、科学和哲学答案全部受审，信仰才成为生活条件。",
+        "themeIds": [
+          "life_death",
+          "religion",
+          "knowledge"
+        ],
+        "weight": 3,
+        "sourceIds": [
+          "S008"
+        ],
+        "claims": [
+          {
+            "id": "leo-tolstoy:claim:001",
+            "titleZh": "死亡使世俗成就失效",
+            "claimZh": "托尔斯泰把生命意义危机写成死亡面前一切成功叙事突然失去根据。",
+            "explanationZh": "《忏悔录》的危机不是普通抑郁记录，而是哲学问题：如果死亡吞没一切，文学名声、家庭幸福和社会地位都无法回答为何活着。",
+            "themeIds": [
+              "life_death",
+              "knowledge"
+            ],
+            "weight": 3,
+            "sourceIds": [
+              "S008"
+            ],
+            "evidence": [
+              {
+                "id": "leo-tolstoy:evidence:001",
+                "titleZh": "成功生活突然停止",
+                "summaryZh": "《忏悔录》第三至第四章叙述他在文学声誉、家庭和财产俱全时仍被“为什么活着”的问题击中，生活像机器停止一样失去目的。",
+                "sourceIds": [
+                  "S008"
+                ],
+                "source": {
+                  "workId": "tolstoy-confession",
+                  "locator": "A Confession, ch. III-IV",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "leo-tolstoy:evidence:002",
+                "titleZh": "自杀念头显示问题严肃性",
+                "summaryZh": "第四章写他藏绳子、避免带枪外出，因为无法回答生活的意义；这个极端细节把哲学追问变成迫近生命的实践危机。",
+                "sourceIds": [
+                  "S008"
+                ],
+                "source": {
+                  "workId": "tolstoy-confession",
+                  "locator": "A Confession, ch. IV, passages on suicide temptation",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "leo-tolstoy:claim:002",
+            "titleZh": "科学和哲学不能单独回答意义",
+            "claimZh": "托尔斯泰认为科学与抽象哲学只能说明事实或概念关系，不能给有限生命以可活的无限意义。",
+            "explanationZh": "这不等于反智，而是区分知识功能：有限经验科学越精确，越不能回答生命为何值得；抽象哲学若只重复无限概念，也不能给人生活道路。",
+            "themeIds": [
+              "knowledge",
+              "religion"
+            ],
+            "weight": 2,
+            "sourceIds": [
+              "S008"
+            ],
+            "evidence": [
+              {
+                "id": "leo-tolstoy:evidence:003",
+                "titleZh": "科学答案答非所问",
+                "summaryZh": "第五章比较实验科学和抽象科学，指出前者给出因果知识却无法回答生命整体意义，后者虽问整体却常只给空洞概念。",
+                "sourceIds": [
+                  "S008"
+                ],
+                "source": {
+                  "workId": "tolstoy-confession",
+                  "locator": "A Confession, ch. V, classification of the sciences",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "leo-tolstoy:evidence:004",
+                "titleZh": "民众信仰把有限接到无限",
+                "summaryZh": "第九至第十章转向普通劳动者的信仰生活，托尔斯泰发现他们虽然受苦却能生活，因为信仰把有限生命同无限意义相连。",
+                "sourceIds": [
+                  "S008"
+                ],
+                "source": {
+                  "workId": "tolstoy-confession",
+                  "locator": "A Confession, ch. IX-X, turn toward the faith of the people",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "leo-tolstoy:problem:002",
+        "titleZh": "非抵抗如何成为基督教政治？",
+        "questionZh": "《天国在你心中》怎样把不以暴力抗恶变成反国家和反军事服从的原则？",
+        "summaryZh": "托尔斯泰把登山宝训理解为现实生活法则，而不是不可实行的宗教理想。非抵抗不是被动顺从，而是拒绝以国家暴力、军队、法院和报复维持所谓秩序。",
+        "themeIds": [
+          "religion",
+          "politics",
+          "ethics"
+        ],
+        "weight": 2,
+        "sourceIds": [
+          "S009"
+        ],
+        "claims": [
+          {
+            "id": "leo-tolstoy:claim:003",
+            "titleZh": "教会把可实践命令变成空理想",
+            "claimZh": "托尔斯泰批判制度化教会把基督非抵抗命令解释成不可实行的象征，从而为暴力秩序开脱。",
+            "explanationZh": "他认为基督教的核心不在礼仪归属，而在实际遵守不杀人、不报复、不宣誓和不服从暴力权力的生活要求。",
+            "themeIds": [
+              "religion",
+              "ethics"
+            ],
+            "weight": 3,
+            "sourceIds": [
+              "S009"
+            ],
+            "evidence": [
+              {
+                "id": "leo-tolstoy:evidence:005",
+                "titleZh": "少数非抵抗者保存真实教义",
+                "summaryZh": "《天国在你心中》第一章介绍贵格会、门诺派和其他非抵抗传统，说明真正基督教命令一直被少数群体实践，而非现代托尔斯泰发明。",
+                "sourceIds": [
+                  "S009"
+                ],
+                "source": {
+                  "workId": "tolstoy-kingdom-of-god-within-you",
+                  "locator": "The Kingdom of God Is Within You, ch. I",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "leo-tolstoy:evidence:006",
+                "titleZh": "教会解释回避基督明令",
+                "summaryZh": "第二章批评教会和神学家承认基督话语却以国家需要、社会秩序或寓意解释消解不抵抗恶的直接约束。",
+                "sourceIds": [
+                  "S009"
+                ],
+                "source": {
+                  "workId": "tolstoy-kingdom-of-god-within-you",
+                  "locator": "The Kingdom of God Is Within You, ch. II",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "leo-tolstoy:claim:004",
+            "titleZh": "国家暴力与基督教不相容",
+            "claimZh": "托尔斯泰把法院、警察、军队和战争视为国家以暴力维系自身的机制，与基督教爱敌原则冲突。",
+            "explanationZh": "他的政治思想不是政策改革，而是良心对强制机器的撤回服从；非暴力因此具有制度批判和个人行动两面。",
+            "themeIds": [
+              "politics",
+              "religion",
+              "freedom"
+            ],
+            "weight": 2,
+            "sourceIds": [
+              "S009"
+            ],
+            "evidence": [
+              {
+                "id": "leo-tolstoy:evidence:007",
+                "titleZh": "国家以暴力要求服从",
+                "summaryZh": "第七章分析国家如何通过征兵、惩罚、司法和行政强制存在，指出这种组织与基督徒不杀人、不报复的命令发生正面冲突。",
+                "sourceIds": [
+                  "S009"
+                ],
+                "source": {
+                  "workId": "tolstoy-kingdom-of-god-within-you",
+                  "locator": "The Kingdom of God Is Within You, ch. VII",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "leo-tolstoy:evidence:008",
+                "titleZh": "军事服从把个人罪责外包",
+                "summaryZh": "第八至第九章讨论士兵、誓言和战争准备，说明国家让个人以服从命令为由参与杀戮，正是良心必须拒绝的核心场景。",
+                "sourceIds": [
+                  "S009"
+                ],
+                "source": {
+                  "workId": "tolstoy-kingdom-of-god-within-you",
+                  "locator": "The Kingdom of God Is Within You, ch. VIII-IX",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "leo-tolstoy:problem:003",
+        "titleZh": "良心抵抗如何改变社会？",
+        "questionZh": "托尔斯泰怎样把个人良心、不合作和简朴生活组织成社会批判？",
+        "summaryZh": "托尔斯泰不寄望夺取国家机器，而把变革放在个人停止参与谎言和暴力上。信仰生活要求拒绝宣誓、服兵役、享受剥削成果，并以劳动和简朴回应制度恶。",
+        "themeIds": [
+          "ethics",
+          "politics",
+          "freedom"
+        ],
+        "weight": 1,
+        "sourceIds": [
+          "S008",
+          "S009"
+        ],
+        "claims": [
+          {
+            "id": "leo-tolstoy:claim:005",
+            "titleZh": "社会变革始于停止参与谎言",
+            "claimZh": "托尔斯泰认为一个人只要按良心拒绝服从暴力和谎言，就已经削弱国家秩序的道德基础。",
+            "explanationZh": "这一路径把政治行动从革命夺权转到不合作：制度依赖每个人服从、宣誓和执行命令，良心拒绝会暴露制度的虚假神圣性。",
+            "themeIds": [
+              "freedom",
+              "ethics",
+              "politics"
+            ],
+            "weight": 3,
+            "sourceIds": [
+              "S009"
+            ],
+            "evidence": [
+              {
+                "id": "leo-tolstoy:evidence:009",
+                "titleZh": "不服从比政治计划更根本",
+                "summaryZh": "第十二章把个人面对国家要求时的良心选择置于核心，强调不再参加暴力制度比构造新政治方案更直接地改变社会。",
+                "sourceIds": [
+                  "S009"
+                ],
+                "source": {
+                  "workId": "tolstoy-kingdom-of-god-within-you",
+                  "locator": "The Kingdom of God Is Within You, ch. XII",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "leo-tolstoy:evidence:010",
+                "titleZh": "基督徒不能等待社会许可",
+                "summaryZh": "全书结尾强调人不能以社会尚未准备好为借口推迟遵行真理，个人当下按基督命令生活就是社会转变的实际开始。",
+                "sourceIds": [
+                  "S009"
+                ],
+                "source": {
+                  "workId": "tolstoy-kingdom-of-god-within-you",
+                  "locator": "The Kingdom of God Is Within You, ch. XII, concluding argument",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "leo-tolstoy:claim:006",
+            "titleZh": "真实信仰要求生活简化",
+            "claimZh": "《忏悔录》中的信仰发现最终通向劳动者生活和道德简化，而不是回到贵族文化的审美宗教。",
+            "explanationZh": "托尔斯泰从民众信仰那里看到可活的意义，也因此批判自己的阶级生活；晚期伦理的社会锋芒来自这种生活方式转换。",
+            "themeIds": [
+              "ethics",
+              "religion"
+            ],
+            "weight": 2,
+            "sourceIds": [
+              "S008"
+            ],
+            "evidence": [
+              {
+                "id": "leo-tolstoy:evidence:011",
+                "titleZh": "民众在苦难中仍能生活",
+                "summaryZh": "《忏悔录》第十一章描写劳动人民虽贫穷、病痛和死亡迫近，却因信仰仍能承担生活；这与贵族阶层的虚无形成对照。",
+                "sourceIds": [
+                  "S008"
+                ],
+                "source": {
+                  "workId": "tolstoy-confession",
+                  "locator": "A Confession, ch. XI",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "leo-tolstoy:evidence:012",
+                "titleZh": "回到信仰不等于接受教会整体",
+                "summaryZh": "第十二至十三章写他接近教会和民众信仰后仍因教会对战争、排他和仪式的态度产生冲突，显示真实信仰必须接受良心审查。",
+                "sourceIds": [
+                  "S008"
+                ],
+                "source": {
+                  "workId": "tolstoy-confession",
+                  "locator": "A Confession, ch. XII-XIII",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
 }

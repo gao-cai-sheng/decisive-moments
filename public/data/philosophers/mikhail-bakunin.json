@@ -1,6 +1,6 @@
 {
   "id": "mikhail-bakunin",
-  "tier": "seed",
+  "tier": "standard",
   "names": {
     "zh": "巴枯宁",
     "en": "Mikhail Bakunin",
@@ -36,16 +36,337 @@
   "oneLineZh": "俄国无政府主义代表人物，以自由、国家批判和集体主义政治理论著称。",
   "influenceWeight": 3,
   "reviewStatus": "draft",
-  "summaryZh": "巴枯宁从青年黑格尔主义转向无政府主义政治理论，强调自由、反集中权力和社会自治，并成为马克思国家论的重要论敌。本 seed 档收其身份层、传统位置与核心作品。",
+  "summaryZh": "巴枯宁把自由理解为从人民自身组织中生长出来的社会事实，而不是由国家、科学少数、神学或革命政党授予的制度恩赐。本标准候选以三条线展开：批判马克思式人民国家和革命专政会重造少数统治；用唯物主义与社会革命反对神和教会的权威；把俄国与欧洲革命条件落实到群众自发组织、基层联邦和反官僚国家。",
   "works": [
     "bakunin-statism-and-anarchy",
     "bakunin-god-and-state"
   ],
   "sourceNotes": [
     {
-      "label": "W11-B1-S009",
+      "label": "S004",
       "url": "https://www.britannica.com/biography/Mikhail-Bakunin",
-      "noteZh": "Britannica Bakunin 条目用于核验其俄国政治思想家和无政府主义理论家身份。"
+      "noteZh": "核验 Bakunin 生卒、俄国政治思想家和无政府主义理论家身份。"
+    },
+    {
+      "label": "S005",
+      "url": "https://www.marxists.org/reference/archive/bakunin/works/1873/statism-anarchy.htm",
+      "noteZh": "用于校准《国家制度与无政府状态》关于革命专政、国家集中、人民国家和社会革命条件的文本定位。"
+    },
+    {
+      "label": "S006",
+      "url": "https://www.marxists.org/reference/archive/bakunin/works/godstate/ch01.htm",
+      "noteZh": "用于校准《上帝与国家》关于唯物主义、宗教幻象和自由的文本定位。"
     }
-  ]
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "mikhail-bakunin:problem:001",
+        "titleZh": "国家社会主义为何仍是奴役？",
+        "questionZh": "巴枯宁为什么认为人民国家、革命专政和科学社会主义会重造少数统治？",
+        "summaryZh": "《国家制度与无政府状态》的核心锋芒在于把革命国家也纳入国家批判：只要社会由少数科学家、政党代表或官僚集中安排，人民就不会因国家改名而自由。",
+        "themeIds": [
+          "politics",
+          "freedom",
+          "justice"
+        ],
+        "weight": 3,
+        "sourceIds": [
+          "S005"
+        ],
+        "claims": [
+          {
+            "id": "mikhail-bakunin:claim:001",
+            "titleZh": "科学少数不能替人民解放",
+            "claimZh": "巴枯宁反对由科学家、理论家或革命专家替社会立法，因为这种安排会把知识优势转化为统治权。",
+            "explanationZh": "他不是反对科学知识本身，而是反对把科学人格化为统治教会；社会生活先于理论，理论只能指路，不能由少数专家把未来人民塞入预制模型。",
+            "themeIds": [
+              "politics",
+              "knowledge",
+              "freedom"
+            ],
+            "weight": 3,
+            "sourceIds": [
+              "S005"
+            ],
+            "evidence": [
+              {
+                "id": "mikhail-bakunin:evidence:001",
+                "titleZh": "从事实到理论而非由理论统治生活",
+                "summaryZh": "《国家制度与无政府状态》在“批判马克思主义国家理论”开端区分具体事实和抽象理论，强调社会组织应尽量反映生活自身，而不是由黑格尔式或实证主义模式强行跳到现实。",
+                "sourceIds": [
+                  "S005"
+                ],
+                "source": {
+                  "workId": "bakunin-statism-and-anarchy",
+                  "locator": "Statism and Anarchy, Critique of the Marxist Theory of the State, opening paragraphs on theory and life",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "mikhail-bakunin:evidence:002",
+                "titleZh": "科学统治会成为专家暴政",
+                "summaryZh": "同一节设想若社会由少数科学家或社会学家制定法则，几百人甚至几十人就会支配千万人民；巴枯宁由此把科学特权直接识别为新的专制危险。",
+                "sourceIds": [
+                  "S005"
+                ],
+                "source": {
+                  "workId": "bakunin-statism-and-anarchy",
+                  "locator": "Statism and Anarchy, Critique of the Marxist Theory of the State, paragraphs on rule by scientists",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "mikhail-bakunin:claim:002",
+            "titleZh": "人民国家仍制造被统治者",
+            "claimZh": "所谓人民国家若仍保留国家形式，就必然产生代表者、官僚和被管理群众，因而自由不能从国家手段中诞生。",
+            "explanationZh": "巴枯宁对马克思主义的关键反驳是手段和目的不相容：若目标是无政府自由，使用集中国家和革命专政只会训练服从并保护少数统治。",
+            "themeIds": [
+              "politics",
+              "freedom"
+            ],
+            "weight": 2,
+            "sourceIds": [
+              "S005"
+            ],
+            "evidence": [
+              {
+                "id": "mikhail-bakunin:evidence:003",
+                "titleZh": "无论共和国多红仍会压迫人民",
+                "summaryZh": "文本论现代民主共和时指出，即使共和国宣称以人民意志行事，国家仍会以代表制和官僚机构支配真实人民；这把民主形式和人民自由区分开来。",
+                "sourceIds": [
+                  "S005"
+                ],
+                "source": {
+                  "workId": "bakunin-statism-and-anarchy",
+                  "locator": "Statism and Anarchy, introduction excerpt on representative democracy and state centralization",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "mikhail-bakunin:evidence:004",
+                "titleZh": "自由只能由自由创造",
+                "summaryZh": "在批判革命专政的段落中，巴枯宁追问无产阶级成为统治阶级时要统治谁，并断言任何国家都意味着阶级支配；他由此提出自由只能由人民总体反叛和自愿组织创造。",
+                "sourceIds": [
+                  "S005"
+                ],
+                "source": {
+                  "workId": "bakunin-statism-and-anarchy",
+                  "locator": "Statism and Anarchy, Critique of the Marxist Theory of the State, paragraphs on the People's State and dictatorship",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "mikhail-bakunin:problem:002",
+        "titleZh": "为什么上帝观念压制自由？",
+        "questionZh": "《上帝与国家》怎样把神学、唯心论和社会服从联系起来批判？",
+        "summaryZh": "巴枯宁的无神论不是附属口号，而是自由政治的一部分：只要世界和道德被归因于超越主宰，人就会把自身能力外化给神、教会和国家，现实解放必须从唯物主义和社会革命开始。",
+        "themeIds": [
+          "religion",
+          "freedom",
+          "metaphysics"
+        ],
+        "weight": 2,
+        "sourceIds": [
+          "S006"
+        ],
+        "claims": [
+          {
+            "id": "mikhail-bakunin:claim:003",
+            "titleZh": "唯物主义把理想还给现实",
+            "claimZh": "巴枯宁用唯物主义反对神学和唯心论，主张人的思想、道德和自由从自然与社会历史中生成。",
+            "explanationZh": "他接受事实先于观念的方向，把理想解释为人类在自然基础上逐步否定动物性、发展社会能力的结果；这为反神学政治奠定形而上学底座。",
+            "themeIds": [
+              "metaphysics",
+              "religion",
+              "knowledge"
+            ],
+            "weight": 3,
+            "sourceIds": [
+              "S006"
+            ],
+            "evidence": [
+              {
+                "id": "mikhail-bakunin:evidence:005",
+                "titleZh": "事实先于观念",
+                "summaryZh": "《上帝与国家》第一章开头直接选择唯物主义，断言事实先于观念、理想根植于物质存在条件；这个论证把自由政治的基础从神意转回现实生活。",
+                "sourceIds": [
+                  "S006"
+                ],
+                "source": {
+                  "workId": "bakunin-god-and-state",
+                  "locator": "God and the State, ch. I, opening materialist argument",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "mikhail-bakunin:evidence:006",
+                "titleZh": "人性是自然发展的最高表现",
+                "summaryZh": "第一章把人类理解为动物性发展的最高表现，又说理性和道德来自对动物基础的历史性否定；这让精神和自由成为自然历史过程，而非超自然赐予。",
+                "sourceIds": [
+                  "S006"
+                ],
+                "source": {
+                  "workId": "bakunin-god-and-state",
+                  "locator": "God and the State, ch. I, paragraphs on humanity as development of animality",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "mikhail-bakunin:claim:004",
+            "titleZh": "宗教幻象源于苦难但不能解放",
+            "claimZh": "宗教对群众有吸引力，是因为它表达贫困生活中的抗议；但这种抗议若投向神，就会离开真正的社会革命。",
+            "explanationZh": "巴枯宁没有把宗教只当成愚蠢错误，而是承认它回应苦难和屈辱；正因如此，反宗教必须转为改变苦难社会条件，而非只是哲学嘲讽。",
+            "themeIds": [
+              "religion",
+              "justice",
+              "freedom"
+            ],
+            "weight": 2,
+            "sourceIds": [
+              "S006"
+            ],
+            "evidence": [
+              {
+                "id": "mikhail-bakunin:evidence:007",
+                "titleZh": "神秘倾向是对贫乏生活的抗议",
+                "summaryZh": "第二章解释群众宗教信仰的实际原因时，说神秘倾向不是单纯精神迷误，而是人对狭窄、平庸、羞辱和悲惨存在的深层不满。",
+                "sourceIds": [
+                  "S006"
+                ],
+                "source": {
+                  "workId": "bakunin-god-and-state",
+                  "locator": "God and the State, ch. II, opening paragraph on mystical tendencies",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "mikhail-bakunin:evidence:008",
+                "titleZh": "治疗宗教病症只能靠社会革命",
+                "summaryZh": "同章紧接着把这种苦难的唯一疗法指向社会革命，并说明宗教神祇、先知和圣徒是尚未充分发展能力的人类想象产物；批判宗教因此通向现实改造。",
+                "sourceIds": [
+                  "S006"
+                ],
+                "source": {
+                  "workId": "bakunin-god-and-state",
+                  "locator": "God and the State, ch. II, paragraphs on social revolution and religious creation",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "mikhail-bakunin:problem:003",
+        "titleZh": "革命如何从下方组织？",
+        "questionZh": "巴枯宁怎样把社会革命同群众自发性、基层联邦和俄国条件联系起来？",
+        "summaryZh": "巴枯宁的反国家并不等于无组织。他要求组织从人民需求、地方团体、工人协会和公社中自下而上形成；革命青年的作用是协助和联络，而不是把预设蓝图强加给群众。",
+        "themeIds": [
+          "politics",
+          "freedom",
+          "ethics"
+        ],
+        "weight": 1,
+        "sourceIds": [
+          "S005"
+        ],
+        "claims": [
+          {
+            "id": "mikhail-bakunin:claim:005",
+            "titleZh": "自由组织必须自下而上",
+            "claimZh": "真正自由只能出现在工人团体、公社和地区从下到上的联邦组织中，而不能出现在国家父权安排中。",
+            "explanationZh": "巴枯宁的组织观保留协调、知识和联络，但拒绝命令链；基层组织不是过渡阶段的素材，而是自由社会本身的生成方式。",
+            "themeIds": [
+              "politics",
+              "freedom"
+            ],
+            "weight": 3,
+            "sourceIds": [
+              "S005"
+            ],
+            "evidence": [
+              {
+                "id": "mikhail-bakunin:evidence:009",
+                "titleZh": "自由协会替代国家父权",
+                "summaryZh": "在“批判马克思主义国家理论”中，巴枯宁主张人民只有通过完全自由独立的协会从下往上组织才可能自由幸福，同时排除政府父权式照管。",
+                "sourceIds": [
+                  "S005"
+                ],
+                "source": {
+                  "workId": "bakunin-statism-and-anarchy",
+                  "locator": "Statism and Anarchy, Critique of the Marxist Theory of the State, paragraphs on free associations from below",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "mikhail-bakunin:evidence:010",
+                "titleZh": "国家集中服务资本集中",
+                "summaryZh": "导言摘录把现代资本生产、银行投机和国家集中连在一起，随后以工人协会、公社、州县和民族的基层联邦作为真实自由条件；这给自下而上组织以经济根据。",
+                "sourceIds": [
+                  "S005"
+                ],
+                "source": {
+                  "workId": "bakunin-statism-and-anarchy",
+                  "locator": "Statism and Anarchy, introduction excerpt on capitalist centralization and federal organization",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "mikhail-bakunin:claim:006",
+            "titleZh": "革命青年只能服务人民运动",
+            "claimZh": "革命知识分子可以贡献知识和协调能力，但只有根除阶级虚荣、从群众运动中汲取方向时才有正当作用。",
+            "explanationZh": "这一区分避免把巴枯宁写成纯粹自发主义：他承认组织者有技术作用，却坚持他们不能成为政治主人或理论独裁者。",
+            "themeIds": [
+              "politics",
+              "ethics",
+              "knowledge"
+            ],
+            "weight": 2,
+            "sourceIds": [
+              "S005"
+            ],
+            "evidence": [
+              {
+                "id": "mikhail-bakunin:evidence:011",
+                "titleZh": "少数脱离本阶级者可以服务革命",
+                "summaryZh": "“社会革命的若干前提”承认少数脱离资产阶级的青年能够贡献抽象思考、协调和组织能力，但前提是根除对旧阶级的忠诚和个人虚荣。",
+                "sourceIds": [
+                  "S005"
+                ],
+                "source": {
+                  "workId": "bakunin-statism-and-anarchy",
+                  "locator": "Statism and Anarchy, Some Preconditions for a Social Revolution, opening paragraphs on revolutionary youth",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "mikhail-bakunin:evidence:012",
+                "titleZh": "贫困不足以自动产生革命",
+                "summaryZh": "同节指出单纯贫困和绝望不足以造成广泛社会革命，必须有从群众感情深处历史发展出来的普遍理想；这说明组织任务是阐明人民自身经验。",
+                "sourceIds": [
+                  "S005"
+                ],
+                "source": {
+                  "workId": "bakunin-statism-and-anarchy",
+                  "locator": "Statism and Anarchy, Some Preconditions for a Social Revolution, paragraphs on poverty, despair, and universal ideal",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
 }

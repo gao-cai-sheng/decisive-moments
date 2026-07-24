@@ -1,6 +1,6 @@
 {
   "id": "aleksei-khomyakov",
-  "tier": "seed",
+  "tier": "standard",
   "names": {
     "zh": "霍米亚科夫",
     "en": "Aleksei Khomyakov",
@@ -35,20 +35,340 @@
   "oneLineZh": "斯拉夫派核心理论家，以 sobornost 组织自由、共同体和东正教传统的思想口径。",
   "influenceWeight": 3,
   "reviewStatus": "draft",
-  "summaryZh": "霍米亚科夫是斯拉夫派的代表人物之一，其 sobornost 概念把教会共同体、自由与有机统一联系起来，回应恰达耶夫提出的俄国文明道路问题。本 seed 档只记录其身份层、聚和性关键词和斯拉夫派位置。",
+  "summaryZh": "霍米亚科夫的 sobornost 不是简单民族共同体口号，而是从教会论出发理解自由、信仰、传统和共同生活的思想结构。他把教会统一写成在许多人中生活的恩典统一，反对把权威安放在单个个人、地点或外在制度中；同时又用这一有机统一回应俄欧启蒙问题，形成早期斯拉夫派的宗教政治语言。",
   "works": [
     "khomyakov-sobornost-essays"
   ],
   "sourceNotes": [
     {
-      "label": "W11-B1-S003",
+      "label": "S003",
       "url": "https://iep.utm.edu/russian/",
-      "noteZh": "IEP Russian Philosophy 总论用于核验19世纪斯拉夫派及 Khomyakov 与 Kireevsky 的位置。"
+      "noteZh": "核验 Khomyakov 在斯拉夫派、东正教思想和俄国哲学史中的位置。"
     },
     {
-      "label": "W11-B1-S004",
-      "url": "https://www.britannica.com/biography/Aleksey-Stepanovich-Khomyakov",
-      "noteZh": "Britannica Khomyakov 条目用于核验其斯拉夫派、东正教思想和 sobornost 相关口径。"
+      "label": "S013",
+      "url": "https://pages.uoregon.edu/sshoemak/325/texts/Khomiakov/The%20Church%20Is%20One%20-%20Essay%20on%20the%20Unity%20of%20the%20Church.htm",
+      "noteZh": "用于校准《教会是一》各节关于教会统一、传统、信望爱和自由的文本定位。"
+    },
+    {
+      "label": "S014",
+      "url": "https://dugward.ru/library/homyakov/homyakov_po_povodu_statyi_i_v_kireevskogo.html",
+      "noteZh": "用于校准 Khomyakov 回应 Kireevsky 俄欧启蒙问题时的历史与文化论证。"
     }
-  ]
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "aleksei-khomyakov:problem:001",
+        "titleZh": "sobornost 的统一是什么？",
+        "questionZh": "霍米亚科夫怎样把教会统一写成活的恩典共同体，而不是个人集合或外在组织？",
+        "summaryZh": "《教会是一》从神的统一推出教会统一，但这个统一不是抽象概念、民族标签或行政组织，而是在许多理性受造者中生活的恩典统一；这成为 sobornost 的神学核心。",
+        "themeIds": [
+          "religion",
+          "knowledge"
+        ],
+        "weight": 3,
+        "sourceIds": [
+          "S013"
+        ],
+        "claims": [
+          {
+            "id": "aleksei-khomyakov:claim:001",
+            "titleZh": "统一是活的恩典",
+            "claimZh": "sobornost 的根基是教会作为活身体的真实统一，而不是许多个体的外部总和。",
+            "explanationZh": "霍米亚科夫的共同体概念首先是教会论：恩典生活在许多人中，个体自愿顺服恩典，整体像身体一样真实统一，因此不能把 sobornost 降为政治社团或民族团结。",
+            "themeIds": [
+              "religion",
+              "metaphysics"
+            ],
+            "weight": 3,
+            "sourceIds": [
+              "S013"
+            ],
+            "evidence": [
+              {
+                "id": "aleksei-khomyakov:evidence:001",
+                "titleZh": "教会不是个人集合",
+                "summaryZh": "《教会是一》第一节开宗明义从神的统一推出教会统一，并说明教会不是个人彼此分离的多数，而是在许多理性受造者中生活的神恩统一。",
+                "sourceIds": [
+                  "S013"
+                ],
+                "source": {
+                  "workId": "khomyakov-sobornost-essays",
+                  "locator": "Essays on Sobornost, The Church Is One, §1",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "aleksei-khomyakov:evidence:002",
+                "titleZh": "可见不可见之分只相对于人",
+                "summaryZh": "第一节继续说教会可见与不可见的划分只是在人的视角下成立，真实统一则绝对而不变；这使共同体统一不依赖人的组织视角。",
+                "sourceIds": [
+                  "S013"
+                ],
+                "source": {
+                  "workId": "khomyakov-sobornost-essays",
+                  "locator": "Essays on Sobornost, The Church Is One, §1, second paragraph",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "aleksei-khomyakov:claim:002",
+            "titleZh": "地方教会不能独占真理",
+            "claimZh": "教会的普遍性要求各地方共同体在同一精神和生命中相合，任何单一地方或牧者都不能独自规定教义。",
+            "explanationZh": "这一点把 sobornost 同专断权威区分开：普遍性不是世界范围的行政覆盖，而是所有成员在信仰、希望、爱和使徒教训中的一致生命。",
+            "themeIds": [
+              "religion",
+              "politics",
+              "knowledge"
+            ],
+            "weight": 2,
+            "sourceIds": [
+              "S013"
+            ],
+            "evidence": [
+              {
+                "id": "aleksei-khomyakov:evidence:003",
+                "titleZh": "地方名称不产生教义特权",
+                "summaryZh": "第四节解释希腊、俄罗斯、叙利亚等地方教会名称只是指当地成员聚集，不意味着任何一个共同体能不经其他共同体同意就表达或解释教义。",
+                "sourceIds": [
+                  "S013"
+                ],
+                "source": {
+                  "workId": "khomyakov-sobornost-essays",
+                  "locator": "Essays on Sobornost, The Church Is One, §4",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "aleksei-khomyakov:evidence:004",
+                "titleZh": "传统由整体中的圣灵保存",
+                "summaryZh": "第五节把圣经、传统和善工都归于住在教会整体中的神之灵，而非个人或个人多数的保存；这为共同体真理提供非个人主义根据。",
+                "sourceIds": [
+                  "S013"
+                ],
+                "source": {
+                  "workId": "khomyakov-sobornost-essays",
+                  "locator": "Essays on Sobornost, The Church Is One, §5",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "aleksei-khomyakov:problem:002",
+        "titleZh": "自由如何进入共同体？",
+        "questionZh": "霍米亚科夫怎样避免把教会共同体写成压制个人的外在权威？",
+        "summaryZh": "霍米亚科夫把教会生命写成自由的爱与信仰，而非奴役法则、雇佣义务或死的外在知识。真正信仰必然在爱中工作，人也不是孤立得救，而是在共同体的祈祷和生命中得救。",
+        "themeIds": [
+          "religion",
+          "freedom",
+          "ethics"
+        ],
+        "weight": 2,
+        "sourceIds": [
+          "S013"
+        ],
+        "claims": [
+          {
+            "id": "aleksei-khomyakov:claim:003",
+            "titleZh": "权威属于活的信仰",
+            "claimZh": "教会权威不是地点、职位或死知识的权威，而是整体生命中由信仰辨认的权威。",
+            "explanationZh": "霍米亚科夫把不可错性从单个职位和外在制度中移出，强调理性不能从外部把握教会，只能在信仰共同体内部认识其生命。",
+            "themeIds": [
+              "religion",
+              "knowledge",
+              "freedom"
+            ],
+            "weight": 3,
+            "sourceIds": [
+              "S013"
+            ],
+            "evidence": [
+              {
+                "id": "aleksei-khomyakov:evidence:005",
+                "titleZh": "教会不接受外部审判",
+                "summaryZh": "第九节说地上的教会也活着神圣恩典的生命，不承认除自身以外的权威，也不承认信仰法庭以外的审判；这里权威来自教会生命而非外部管辖。",
+                "sourceIds": [
+                  "S013"
+                ],
+                "source": {
+                  "workId": "khomyakov-sobornost-essays",
+                  "locator": "Essays on Sobornost, The Church Is One, §9",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "aleksei-khomyakov:evidence:006",
+                "titleZh": "不可错性不能系于死物",
+                "summaryZh": "第九节在批评死信仰时指出，把不可错性绑在地点、墙壁、教区继承或座椅上，本身就是死知识的错误；这直接反对外在化权威。",
+                "sourceIds": [
+                  "S013"
+                ],
+                "source": {
+                  "workId": "khomyakov-sobornost-essays",
+                  "locator": "Essays on Sobornost, The Church Is One, §9, note on dead faith and infallibility",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "aleksei-khomyakov:claim:004",
+            "titleZh": "自由的爱使信仰成为行动",
+            "claimZh": "真正信仰不能同爱和行为分离，教会生活因此是自由儿女的法则而非奴役法则。",
+            "explanationZh": "他用信、望、爱不可分离的结构解释共同体生活：外在知识即使正确也不救人，只有在爱中活着并产生行为的信仰才是教会生命。",
+            "themeIds": [
+              "religion",
+              "ethics",
+              "freedom"
+            ],
+            "weight": 2,
+            "sourceIds": [
+              "S013"
+            ],
+            "evidence": [
+              {
+                "id": "aleksei-khomyakov:evidence:007",
+                "titleZh": "信望爱在行动中完整显现",
+                "summaryZh": "第六节说明教会一切行动都显出圣灵恩赐的完整性，信、望、爱不可分开，信经、祈祷和善工只是内在精神的外部显现。",
+                "sourceIds": [
+                  "S013"
+                ],
+                "source": {
+                  "workId": "khomyakov-sobornost-essays",
+                  "locator": "Essays on Sobornost, The Church Is One, §6",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "aleksei-khomyakov:evidence:008",
+                "titleZh": "无人孤立得救",
+                "summaryZh": "第九节明说一个人跌倒时是独自跌倒，但没有人独自得救；得救者是在教会中作为成员、在信仰和爱的共融中得救，显示自由与共同体并不冲突。",
+                "sourceIds": [
+                  "S013"
+                ],
+                "source": {
+                  "workId": "khomyakov-sobornost-essays",
+                  "locator": "Essays on Sobornost, The Church Is One, §9, paragraphs on faith, works, and communion",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "aleksei-khomyakov:problem:003",
+        "titleZh": "如何回应俄欧启蒙问题？",
+        "questionZh": "霍米亚科夫怎样把 sobornost 的教会论转化为斯拉夫派的文化和政治判断？",
+        "summaryZh": "在回应基列耶夫斯基时，霍米亚科夫同意俄欧启蒙差异来自深层精神原则，但比浪漫古罗斯叙事更谨慎：他承认俄国历史中有分裂、粗化和不完整，也把修道院精神生活视为旧俄文化可能性的高方向。",
+        "themeIds": [
+          "politics",
+          "religion",
+          "knowledge"
+        ],
+        "weight": 1,
+        "sourceIds": [
+          "S014",
+          "S015"
+        ],
+        "claims": [
+          {
+            "id": "aleksei-khomyakov:claim:005",
+            "titleZh": "俄国启蒙根于基督教生活",
+            "claimZh": "霍米亚科夫把俄国文化可能性系于基督教进入社会生活，而不是系于国家强制现代化。",
+            "explanationZh": "他在回应中重述古罗斯接受基督教后的社会意义：真正文化不是外在技术输入，而是信仰原则进入法律、仁慈、共同生活和人民意识。",
+            "themeIds": [
+              "religion",
+              "politics"
+            ],
+            "weight": 3,
+            "sourceIds": [
+              "S014",
+              "S015"
+            ],
+            "evidence": [
+              {
+                "id": "aleksei-khomyakov:evidence:009",
+                "titleZh": "俄国由基督教开始发展",
+                "summaryZh": "《就基列耶夫斯基文章而论》开段把奥丽加和弗拉基米尔受洗写成俄国生命进入基督教理性的开端，并把正义、仁慈和人血尊严同基督教社会联系起来。",
+                "sourceIds": [
+                  "S014"
+                ],
+                "source": {
+                  "workId": "khomyakov-sobornost-essays",
+                  "locator": "Essays on Sobornost, On Kireevsky's article, opening paragraphs on Christian Russia",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "aleksei-khomyakov:evidence:010",
+                "titleZh": "修道院给启蒙以高方向",
+                "summaryZh": "回应文后段赞成基列耶夫斯基把修道院视为旧俄精神大学的意义，但限定其作用在于给全部启蒙以最高方向，而非把具体科学机械地从属于修道生活。",
+                "sourceIds": [
+                  "S014",
+                  "S015"
+                ],
+                "source": {
+                  "workId": "khomyakov-sobornost-essays",
+                  "locator": "Essays on Sobornost, On Kireevsky's article, paragraphs on monasteries as spiritual universities",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "aleksei-khomyakov:claim:006",
+            "titleZh": "斯拉夫派不是无条件美化过去",
+            "claimZh": "霍米亚科夫肯定基列耶夫斯基的问题视角，同时承认古罗斯缺少足够内在统一，历史制度也会粗化。",
+            "explanationZh": "这一点避免把他写成单纯怀旧主义者；他的斯拉夫派立场承认俄国原则有价值，也承认历史实现受分裂、无知和外部压力阻碍。",
+            "themeIds": [
+              "politics",
+              "knowledge",
+              "religion"
+            ],
+            "weight": 2,
+            "sourceIds": [
+              "S014",
+              "S015"
+            ],
+            "evidence": [
+              {
+                "id": "aleksei-khomyakov:evidence:011",
+                "titleZh": "古罗斯内在统一不足",
+                "summaryZh": "回应文说明古罗斯虽有更完整的启蒙原则，却因社会内部缺乏足够整体性、人民对正教理解不完全而未能和平展开其生命力。",
+                "sourceIds": [
+                  "S014"
+                ],
+                "source": {
+                  "workId": "khomyakov-sobornost-essays",
+                  "locator": "Essays on Sobornost, On Kireevsky's article, paragraphs on ancient Russia's incomplete unity",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "aleksei-khomyakov:evidence:012",
+                "titleZh": "承认新视角同时保留批判",
+                "summaryZh": "文章结尾称基列耶夫斯基提出的视角新而正确，同时前文已批评旧俄法律和社会发展中的粗化；这显示霍米亚科夫在共同立场中保留历史校正。",
+                "sourceIds": [
+                  "S014",
+                  "S015"
+                ],
+                "source": {
+                  "workId": "khomyakov-sobornost-essays",
+                  "locator": "Essays on Sobornost, On Kireevsky's article, concluding assessment of Kireevsky's viewpoint",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
 }

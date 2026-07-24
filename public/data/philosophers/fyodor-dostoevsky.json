@@ -1,6 +1,6 @@
 {
   "id": "fyodor-dostoevsky",
-  "tier": "seed",
+  "tier": "standard",
   "names": {
     "zh": "陀思妥耶夫斯基",
     "en": "Fyodor Dostoevsky",
@@ -37,21 +37,335 @@
   "oneLineZh": "以小说承载宗教、自由、恶与救赎问题的俄国思想家型作家。",
   "influenceWeight": 3,
   "reviewStatus": "draft",
-  "summaryZh": "陀思妥耶夫斯基在《卡拉马佐夫兄弟》《地下室手记》等作品中集中呈现自由意志、恶、信仰、虚无主义和救赎问题。本 seed 档按思想家身份收录其思想性文学文本，不作纯文学条目。",
+  "summaryZh": "陀思妥耶夫斯基以小说场景承载宗教哲学和道德心理学，而不是用体系论文给出结论。本标准候选把他分成三条线：地下室人对理性利己和水晶宫的反叛，伊凡在《卡拉马佐夫兄弟》中围绕儿童痛苦、自由和大审判官提出的反神论挑战，以及佐西马长老以主动之爱、责任和复活希望给出的救赎回应。",
   "works": [
     "dostoevsky-brothers-karamazov",
     "dostoevsky-notes-from-underground"
   ],
   "sourceNotes": [
     {
-      "label": "W11-B2-S001",
-      "url": "https://iep.utm.edu/russian/",
-      "noteZh": "IEP Russian Philosophy 总论用于核验俄国哲学史常把 Dostoevsky 与 Tolstoy 这类文学人物纳入广义思想史。"
+      "label": "S004",
+      "url": "https://www.britannica.com/biography/Fyodor-Dostoyevsky",
+      "noteZh": "核验 Dostoevsky 生卒、核心作品和思想性文学位置。"
     },
     {
-      "label": "W11-B2-S002",
-      "url": "https://www.britannica.com/biography/Fyodor-Dostoyevsky",
-      "noteZh": "Britannica Dostoevsky 条目用于核验其生卒、核心作品和思想性文学位置。"
+      "label": "S005",
+      "url": "https://www.gutenberg.org/files/600/600-h/600-h.htm",
+      "noteZh": "用于校准《地下室手记》关于理性利己、自由意志和羞辱心理的文本定位。"
+    },
+    {
+      "label": "S006",
+      "url": "https://www.gutenberg.org/files/28054/28054-h/28054-h.html",
+      "noteZh": "用于校准《卡拉马佐夫兄弟》中反神论、自由、佐西马和救赎问题的文本定位。"
     }
-  ]
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "fyodor-dostoevsky:problem:001",
+        "titleZh": "自由为何反抗理性利益？",
+        "questionZh": "陀思妥耶夫斯基怎样用地下室人拆解理性利己和完美制度对人的解释？",
+        "summaryZh": "《地下室手记》把现代主体写成会故意反抗利益、计算和舒适的人。地下室人的丑陋不是可模仿答案，而是对把人简化为理性算盘、幸福机器或制度零件的思想实验。",
+        "themeIds": [
+          "freedom",
+          "knowledge",
+          "ethics"
+        ],
+        "weight": 3,
+        "sourceIds": [
+          "S005"
+        ],
+        "claims": [
+          {
+            "id": "fyodor-dostoevsky:claim:001",
+            "titleZh": "任性暴露理性模型的不足",
+            "claimZh": "地下室人的任性说明人会为了证明自己不是键盘琴键而反抗可计算利益。",
+            "explanationZh": "陀思妥耶夫斯基不是赞美病态任性，而是借病态人物指出理性主义政治心理学的缺口：人要求保留不可被公式穷尽的自由，即使这种自由自毁。",
+            "themeIds": [
+              "freedom",
+              "knowledge"
+            ],
+            "weight": 3,
+            "sourceIds": [
+              "S005"
+            ],
+            "evidence": [
+              {
+                "id": "fyodor-dostoevsky:evidence:001",
+                "titleZh": "二加二等于四不等于生活",
+                "summaryZh": "《地下室手记》第一部第七章反复讽刺二加二等于四式的理性确定性，指出人可能故意选择损害自己，只为证明意志不被利益表完全吸收。",
+                "sourceIds": [
+                  "S005"
+                ],
+                "source": {
+                  "workId": "dostoevsky-notes-from-underground",
+                  "locator": "Notes from Underground, Part I, ch. VII",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "fyodor-dostoevsky:evidence:002",
+                "titleZh": "水晶宫无法容纳任性",
+                "summaryZh": "第一部第十章围绕水晶宫图像展开，地下室人拒绝一个没有痛苦、怀疑和任性空间的完美建筑；这显示制度完善不能替代人的自由。",
+                "sourceIds": [
+                  "S005"
+                ],
+                "source": {
+                  "workId": "dostoevsky-notes-from-underground",
+                  "locator": "Notes from Underground, Part I, ch. X",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "fyodor-dostoevsky:claim:002",
+            "titleZh": "自我意识会腐蚀行动",
+            "claimZh": "地下室人的自由困境还表现为过度自我意识，它让屈辱、怨恨和善意都转化为瘫痪或伤害。",
+            "explanationZh": "小说第二部把哲学问题落进身体和社交场景：军官、同学聚会和 Liza 事件说明现代主体不是简单追求利益，而会在羞辱循环中破坏自己和他人。",
+            "themeIds": [
+              "ethics",
+              "freedom"
+            ],
+            "weight": 2,
+            "sourceIds": [
+              "S005"
+            ],
+            "evidence": [
+              {
+                "id": "fyodor-dostoevsky:evidence:003",
+                "titleZh": "军官事件把尊严变成执念",
+                "summaryZh": "第二部第一章写地下室人因军官轻慢而长期设计碰撞复仇，尊严要求被扭曲为荒唐仪式；这让自由问题进入屈辱心理。",
+                "sourceIds": [
+                  "S005"
+                ],
+                "source": {
+                  "workId": "dostoevsky-notes-from-underground",
+                  "locator": "Notes from Underground, Part II, ch. I",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "fyodor-dostoevsky:evidence:004",
+                "titleZh": "Liza 场景暴露主动爱失败",
+                "summaryZh": "第二部第六至七章中，地下室人先用道德语言劝 Liza，又在她真正来访时以羞辱和金钱推开她；思想姿态无法转化为爱人的行动。",
+                "sourceIds": [
+                  "S005"
+                ],
+                "source": {
+                  "workId": "dostoevsky-notes-from-underground",
+                  "locator": "Notes from Underground, Part II, ch. VI-VII",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "fyodor-dostoevsky:problem:002",
+        "titleZh": "无辜痛苦如何挑战信仰？",
+        "questionZh": "《卡拉马佐夫兄弟》怎样让伊凡的反神论成为自由和神义论的核心挑战？",
+        "summaryZh": "伊凡不是抽象无神论者。他以儿童受苦拒绝用未来和谐抵消现实眼泪，又在大审判官传奇中追问人是否承受得起基督给出的自由。",
+        "themeIds": [
+          "religion",
+          "justice",
+          "freedom"
+        ],
+        "weight": 2,
+        "sourceIds": [
+          "S006"
+        ],
+        "claims": [
+          {
+            "id": "fyodor-dostoevsky:claim:003",
+            "titleZh": "儿童痛苦不能被历史和谐抵消",
+            "claimZh": "伊凡的反叛把神义论逼到儿童眼泪面前，拒绝以未来圆满为无辜痛苦开脱。",
+            "explanationZh": "陀思妥耶夫斯基在这里把信仰难题具体化：不是一般恶的问题，而是无法补偿的无辜受害者是否能被纳入神圣计划。",
+            "themeIds": [
+              "justice",
+              "religion"
+            ],
+            "weight": 3,
+            "sourceIds": [
+              "S006"
+            ],
+            "evidence": [
+              {
+                "id": "fyodor-dostoevsky:evidence:005",
+                "titleZh": "伊凡列举儿童受虐",
+                "summaryZh": "第五卷第四章《反叛》中，伊凡向阿辽沙集中讲述儿童被虐待、被羞辱和被杀害的案例，把形而上学问题压缩成不可代偿的具体痛苦。",
+                "sourceIds": [
+                  "S006"
+                ],
+                "source": {
+                  "workId": "dostoevsky-brothers-karamazov",
+                  "locator": "The Brothers Karamazov, Book V, ch. 4, Rebellion",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "fyodor-dostoevsky:evidence:006",
+                "titleZh": "退还入场券",
+                "summaryZh": "同章结尾伊凡拒绝接受以未来和谐偿还儿童眼泪的世界，称自己不是不承认上帝，而是恭敬地退还入场券；这构成他的神义论拒绝。",
+                "sourceIds": [
+                  "S006"
+                ],
+                "source": {
+                  "workId": "dostoevsky-brothers-karamazov",
+                  "locator": "The Brothers Karamazov, Book V, ch. 4, final exchange on returning the ticket",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "fyodor-dostoevsky:claim:004",
+            "titleZh": "大审判官以幸福替换自由",
+            "claimZh": "大审判官传奇把反神论推进为政治神学问题：人会不会为了面包、奇迹和权威交出自由。",
+            "explanationZh": "这个寓言不是单纯反天主教，而是追问任何制度化救世工程是否会用安稳和服从取代基督赋予人的自由责任。",
+            "themeIds": [
+              "religion",
+              "freedom",
+              "politics"
+            ],
+            "weight": 2,
+            "sourceIds": [
+              "S006"
+            ],
+            "evidence": [
+              {
+                "id": "fyodor-dostoevsky:evidence:007",
+                "titleZh": "三种试探成为政治秩序原则",
+                "summaryZh": "第五卷第五章《大审判官》借荒漠试探重构人类政治：面包、奇迹和权威被解释为支配软弱群众的三根支柱。",
+                "sourceIds": [
+                  "S006"
+                ],
+                "source": {
+                  "workId": "dostoevsky-brothers-karamazov",
+                  "locator": "The Brothers Karamazov, Book V, ch. 5, The Grand Inquisitor",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "fyodor-dostoevsky:evidence:008",
+                "titleZh": "基督沉默和亲吻拒绝强制证明",
+                "summaryZh": "同章结尾基督没有以论证击败审判官，只以沉默和亲吻回应；这个收束把救赎同非强制的爱相连，而不是同政治胜利相连。",
+                "sourceIds": [
+                  "S006"
+                ],
+                "source": {
+                  "workId": "dostoevsky-brothers-karamazov",
+                  "locator": "The Brothers Karamazov, Book V, ch. 5, final scene of Christ's kiss",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "fyodor-dostoevsky:problem:003",
+        "titleZh": "救赎如何从责任和主动爱开始？",
+        "questionZh": "佐西马和阿辽沙线索怎样回应地下室与伊凡的问题？",
+        "summaryZh": "陀思妥耶夫斯基没有用抽象神义论解决伊凡，而是用主动之爱、人人对人人负责、对土地和死者的复活希望来构成另一种生活。",
+        "themeIds": [
+          "religion",
+          "ethics",
+          "life_death"
+        ],
+        "weight": 1,
+        "sourceIds": [
+          "S006"
+        ],
+        "claims": [
+          {
+            "id": "fyodor-dostoevsky:claim:005",
+            "titleZh": "责任先于辩护",
+            "claimZh": "佐西马的回答不是解释恶为何合理，而是要求每个人承认自己对所有人的罪和苦难负有责任。",
+            "explanationZh": "这让救赎从理论辩护转向伦理承担：面对世界之恶，人首先不是替上帝辩护，而是停止把自己排除在共同罪责之外。",
+            "themeIds": [
+              "ethics",
+              "religion"
+            ],
+            "weight": 3,
+            "sourceIds": [
+              "S006"
+            ],
+            "evidence": [
+              {
+                "id": "fyodor-dostoevsky:evidence:009",
+                "titleZh": "佐西马兄长以爱改变死亡",
+                "summaryZh": "第六卷第二章回忆佐西马兄长临死前对仆人、鸟兽和世界产生爱，死亡场景变成共同责任和感恩的启示，而非虚无结论。",
+                "sourceIds": [
+                  "S006"
+                ],
+                "source": {
+                  "workId": "dostoevsky-brothers-karamazov",
+                  "locator": "The Brothers Karamazov, Book VI, ch. 2, section on the Elder Zosima's brother",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "fyodor-dostoevsky:evidence:010",
+                "titleZh": "人人对人人负责",
+                "summaryZh": "第六卷第三章的教诲反复要求修行者承认自己比所有人更有罪，并对所有人负责；这种责任伦理直接反驳自我封闭的地下室意识。",
+                "sourceIds": [
+                  "S006"
+                ],
+                "source": {
+                  "workId": "dostoevsky-brothers-karamazov",
+                  "locator": "The Brothers Karamazov, Book VI, ch. 3, Of Prayer, of Love, and of Contact with Other Worlds",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "fyodor-dostoevsky:claim:006",
+            "titleZh": "主动爱给信仰以验证",
+            "claimZh": "主动爱不是温情劝告，而是信仰在怀疑、死亡和羞辱之后仍可被经验验证的道路。",
+            "explanationZh": "阿辽沙线索说明救赎并非退出世界，而是在丑闻和失望之后重新爱人、爱土地、爱生命；复活希望通过实践而非推理论证进入人物。",
+            "themeIds": [
+              "religion",
+              "ethics",
+              "life_death"
+            ],
+            "weight": 2,
+            "sourceIds": [
+              "S006"
+            ],
+            "evidence": [
+              {
+                "id": "fyodor-dostoevsky:evidence:011",
+                "titleZh": "主动爱比梦中爱严酷",
+                "summaryZh": "第六卷第三章把梦中爱和主动爱区分开，指出真实爱需要长期劳动、忍耐和羞辱；这使救赎成为实践道路而非情绪幻觉。",
+                "sourceIds": [
+                  "S006"
+                ],
+                "source": {
+                  "workId": "dostoevsky-brothers-karamazov",
+                  "locator": "The Brothers Karamazov, Book VI, ch. 3, section on active love",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "fyodor-dostoevsky:evidence:012",
+                "titleZh": "迦拿婚筵使阿辽沙重返世界",
+                "summaryZh": "第七卷第四章《迦拿的婚筵》中，阿辽沙在佐西马遗体腐败的丑闻后经历喜乐异象，亲吻大地并重新走向世界；信仰由此变成行动力量。",
+                "sourceIds": [
+                  "S006"
+                ],
+                "source": {
+                  "workId": "dostoevsky-brothers-karamazov",
+                  "locator": "The Brothers Karamazov, Book VII, ch. 4, Cana of Galilee",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
 }

@@ -1,6 +1,6 @@
 {
   "id": "peter-kropotkin",
-  "tier": "seed",
+  "tier": "standard",
   "names": {
     "zh": "克鲁泡特金",
     "en": "Peter Kropotkin",
@@ -36,16 +36,336 @@
   "oneLineZh": "俄国无政府共产主义思想家，以《互助论》把合作、进化与自由共同体组织为政治伦理。",
   "influenceWeight": 3,
   "reviewStatus": "draft",
-  "summaryZh": "克鲁泡特金继承并改造无政府主义传统，以互助、合作和自由共同体回应国家强制与竞争叙事。《互助论》和《面包与自由》构成其 seed 档的核心文本口径。",
+  "summaryZh": "克鲁泡特金把无政府共产主义建立在互助、共同财富和自由协议之上，而不是只诉诸道德善意。《互助论》用动物、人类早期社会、中世纪城市和现代工人组织反击竞争独断论；《面包与自由》则把共同财富、按需保障、征用生产资料和自愿联合写成革命后的制度原则。",
   "works": [
     "kropotkin-mutual-aid",
     "kropotkin-conquest-of-bread"
   ],
   "sourceNotes": [
     {
-      "label": "W11-B1-S012",
+      "label": "S011",
       "url": "https://www.britannica.com/biography/Peter-Alekseyevich-Kropotkin",
-      "noteZh": "Britannica Kropotkin 条目用于核验其俄国无政府主义者、地理学者与政治思想家身份。"
+      "noteZh": "核验 Kropotkin 俄国无政府主义者、地理学者和政治思想家身份。"
+    },
+    {
+      "label": "S012",
+      "url": "https://www.gutenberg.org/cache/epub/4341/pg4341.html",
+      "noteZh": "用于校准《互助论》各章关于合作、进化、村社和中世纪城市的文本定位。"
+    },
+    {
+      "label": "S013",
+      "url": "https://www.gutenberg.org/files/23428/23428-h/23428-h.htm",
+      "noteZh": "用于校准《面包与自由》关于共同财富、按需保障、征用和自由协议的文本定位。"
     }
-  ]
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "peter-kropotkin:problem:001",
+        "titleZh": "互助如何反驳竞争独断论？",
+        "questionZh": "克鲁泡特金怎样把互助写成进化和历史中的重要因素，而非道德愿望？",
+        "summaryZh": "《互助论》不是单纯劝人友爱，而是以动物社会、早期人类、村社和城市史为证据，反击把达尔文主义简化为个体竞争的社会理论，并把合作写成生存和进步条件。",
+        "themeIds": [
+          "ethics",
+          "knowledge",
+          "politics"
+        ],
+        "weight": 3,
+        "sourceIds": [
+          "S012"
+        ],
+        "claims": [
+          {
+            "id": "peter-kropotkin:claim:001",
+            "titleZh": "互助是自然中的生存因素",
+            "claimZh": "克鲁泡特金把互助列为进化中的事实性力量，认为同种内部合作常比内部斗争更有利于生存。",
+            "explanationZh": "他没有否定斗争存在，而是反对把生存斗争理解成每个个体对每个个体的战争；互助让弱者结合、保存生命并提高发展机会。",
+            "themeIds": [
+              "knowledge",
+              "ethics"
+            ],
+            "weight": 3,
+            "sourceIds": [
+              "S012"
+            ],
+            "evidence": [
+              {
+                "id": "peter-kropotkin:evidence:001",
+                "titleZh": "动物互助给弱者以力量",
+                "summaryZh": "《互助论》第一章通过昆虫、鸟类和群居动物说明防卫、觅食、迁徙和育雏中的合作，显示互助在动物世界中具有实际生存功能。",
+                "sourceIds": [
+                  "S012"
+                ],
+                "source": {
+                  "workId": "kropotkin-mutual-aid",
+                  "locator": "Mutual Aid, ch. I, Mutual Aid Among Animals",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "peter-kropotkin:evidence:002",
+                "titleZh": "自然选择也奖励避免竞争",
+                "summaryZh": "第二章延续动物材料，强调许多物种通过联合和避免同类间无谓竞争取得更好生存机会；这直接反驳社会达尔文主义式的竞争独断。",
+                "sourceIds": [
+                  "S012"
+                ],
+                "source": {
+                  "workId": "kropotkin-mutual-aid",
+                  "locator": "Mutual Aid, ch. II, Mutual Aid Among Animals continued",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "peter-kropotkin:claim:002",
+            "titleZh": "人类制度延续互助原则",
+            "claimZh": "从氏族、村社到中世纪城市，克鲁泡特金把互助追踪为人类自由制度和普通法的历史来源。",
+            "explanationZh": "这让互助从自然事实转入政治史：自治、习惯法、共同劳动和城市协会不是国家赠与，而是人类长期合作生活中形成的制度能力。",
+            "themeIds": [
+              "politics",
+              "justice",
+              "knowledge"
+            ],
+            "weight": 2,
+            "sourceIds": [
+              "S012"
+            ],
+            "evidence": [
+              {
+                "id": "peter-kropotkin:evidence:003",
+                "titleZh": "早期人类由氏族互助维持",
+                "summaryZh": "第三章反对原始人各自为战的图像，描写氏族组织、共同法和互相支持如何让早期人类结合弱小力量并持续生活。",
+                "sourceIds": [
+                  "S012"
+                ],
+                "source": {
+                  "workId": "kropotkin-mutual-aid",
+                  "locator": "Mutual Aid, ch. III, Mutual Aid Among Savages",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "peter-kropotkin:evidence:004",
+                "titleZh": "中世纪城市把互助制度化",
+                "summaryZh": "第五章和第六章把中世纪城市、行会、誓约和自治组织写成互助原则在文明中的高峰之一，说明自由制度可由基层合作而非国家集中生成。",
+                "sourceIds": [
+                  "S012"
+                ],
+                "source": {
+                  "workId": "kropotkin-mutual-aid",
+                  "locator": "Mutual Aid, ch. V-VI, Mutual Aid in the Mediaeval City",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "peter-kropotkin:problem:002",
+        "titleZh": "面包为何是自由的前提？",
+        "questionZh": "《面包与自由》怎样把共同财富、按需保障和征用生产资料结合为无政府共产主义？",
+        "summaryZh": "克鲁泡特金把革命目标从政治权利转向生活保障：社会已经因世代共同劳动而富有，贫困来自垄断和错误生产方向；因此革命首先要确保人人有生存资料。",
+        "themeIds": [
+          "justice",
+          "politics",
+          "freedom"
+        ],
+        "weight": 2,
+        "sourceIds": [
+          "S013"
+        ],
+        "claims": [
+          {
+            "id": "peter-kropotkin:claim:003",
+            "titleZh": "共同财富要求按需保障",
+            "claimZh": "既然现代财富是祖先、工人、科学和社会协作的共同产物，就不能由少数所有者垄断基本生活资料。",
+            "explanationZh": "他把财产权批判建立在历史生产和社会协作事实上，要求革命优先保障生活所需，而不是停在劳动权或工资再分配口号。",
+            "themeIds": [
+              "justice",
+              "politics"
+            ],
+            "weight": 3,
+            "sourceIds": [
+              "S013"
+            ],
+            "evidence": [
+              {
+                "id": "peter-kropotkin:evidence:005",
+                "titleZh": "社会实际富有却制造贫困",
+                "summaryZh": "《面包与自由》第一章从城市、技术、土地和机器说起，指出文明社会已经拥有足够生产力，但财富被少数人垄断并迫使多数人贫困。",
+                "sourceIds": [
+                  "S013"
+                ],
+                "source": {
+                  "workId": "kropotkin-conquest-of-bread",
+                  "locator": "The Conquest of Bread, ch. I, Our Riches",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "peter-kropotkin:evidence:006",
+                "titleZh": "幸福权优先于劳动权",
+                "summaryZh": "第二章批评1848年劳动权口号会把人民送进低薪工作坊，主张革命第一天就应保障食物、衣物和住所，承认人人先有生活权。",
+                "sourceIds": [
+                  "S013"
+                ],
+                "source": {
+                  "workId": "kropotkin-conquest-of-bread",
+                  "locator": "The Conquest of Bread, ch. II, Well-Being for All",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "peter-kropotkin:claim:004",
+            "titleZh": "征用是社会重定向生产",
+            "claimZh": "克鲁泡特金的征用不是单纯没收财物，而是把土地、工厂、交通和知识转向满足全体需要。",
+            "explanationZh": "他把私有制批判同生产方向批判合在一起：资本主义不只分配不公，也让生产服从利润；征用的目标是按共同幸福重新组织生产。",
+            "themeIds": [
+              "politics",
+              "justice",
+              "ethics"
+            ],
+            "weight": 2,
+            "sourceIds": [
+              "S013"
+            ],
+            "evidence": [
+              {
+                "id": "peter-kropotkin:evidence:007",
+                "titleZh": "全体幸福是目标，征用是手段",
+                "summaryZh": "第二章明确把全体幸福列为革命目标，把征用生产与生活资料列为实现目标的手段；这将共产主义要求从抽象平等推进到物质保障。",
+                "sourceIds": [
+                  "S013"
+                ],
+                "source": {
+                  "workId": "kropotkin-conquest-of-bread",
+                  "locator": "The Conquest of Bread, ch. II, section on expropriation as means",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "peter-kropotkin:evidence:008",
+                "titleZh": "生产必须面向有用物",
+                "summaryZh": "第八章在讨论方法时说私人生产追逐利润而非全体有用物，社会若以幸福为理想就必须接管土地、工厂、矿山和交通并研究真实需要。",
+                "sourceIds": [
+                  "S013"
+                ],
+                "source": {
+                  "workId": "kropotkin-conquest-of-bread",
+                  "locator": "The Conquest of Bread, ch. VIII, Ways and Means",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "peter-kropotkin:problem:003",
+        "titleZh": "自由协议如何替代国家管理？",
+        "questionZh": "克鲁泡特金怎样把自由联合、反工资制和愉快劳动写成革命后的组织原则？",
+        "summaryZh": "《面包与自由》不是只要求分配面包，也关心生产如何在没有国家命令和工资等级的条件下运转。克鲁泡特金诉诸自由协议、地方主动性、劳动吸引力和反工资制来回答组织问题。",
+        "themeIds": [
+          "freedom",
+          "politics",
+          "ethics"
+        ],
+        "weight": 1,
+        "sourceIds": [
+          "S013"
+        ],
+        "claims": [
+          {
+            "id": "peter-kropotkin:claim:005",
+            "titleZh": "自由协议胜过中央命令",
+            "claimZh": "克鲁泡特金认为复杂社会可以由个人、团体和公社之间的自由协议协调，而不必由国家集中管理。",
+            "explanationZh": "他把铁路、邮政、科学组织和地方服务等当作自由协议的经验材料，说明秩序可以来自实际需要和互相约定，而非命令中心。",
+            "themeIds": [
+              "freedom",
+              "politics"
+            ],
+            "weight": 3,
+            "sourceIds": [
+              "S013"
+            ],
+            "evidence": [
+              {
+                "id": "peter-kropotkin:evidence:009",
+                "titleZh": "自由协议是现代协作机制",
+                "summaryZh": "第十一章集中说明自由协议如何在没有中央政府直接命令的情况下组织交通、通信、科学和地方事务，用现代生活事实反驳国家必要论。",
+                "sourceIds": [
+                  "S013"
+                ],
+                "source": {
+                  "workId": "kropotkin-conquest-of-bread",
+                  "locator": "The Conquest of Bread, ch. XI, Free Agreement",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "peter-kropotkin:evidence:010",
+                "titleZh": "无政府共产主义避免工资国家",
+                "summaryZh": "第三章把无政府共产主义定义为自由公社和共同占有的结合，反对把革命后社会交给国家工资账簿和中央分配机器处理。",
+                "sourceIds": [
+                  "S013"
+                ],
+                "source": {
+                  "workId": "kropotkin-conquest-of-bread",
+                  "locator": "The Conquest of Bread, ch. III, Anarchist Communism",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "peter-kropotkin:claim:006",
+            "titleZh": "劳动吸引力取代工资惩罚",
+            "claimZh": "他反对保留集体工资制，主张通过保障生活、缩短工时、教育整合和有吸引力劳动激发生产。",
+            "explanationZh": "克鲁泡特金的共产主义不是懒惰许可，而是认为自由劳动者在满足自身和他人幸福时，比受饥饿和工资鞭策的雇佣劳动者更有创造力。",
+            "themeIds": [
+              "ethics",
+              "freedom",
+              "politics"
+            ],
+            "weight": 2,
+            "sourceIds": [
+              "S013"
+            ],
+            "evidence": [
+              {
+                "id": "peter-kropotkin:evidence:011",
+                "titleZh": "反对集体主义工资制度",
+                "summaryZh": "第十三章批判所谓集体主义工资制保留雇佣劳动弊端，只是把雇主换成社会或国家；这说明按劳报酬不足以实现自由共同体。",
+                "sourceIds": [
+                  "S013"
+                ],
+                "source": {
+                  "workId": "kropotkin-conquest-of-bread",
+                  "locator": "The Conquest of Bread, ch. XIII, The Collectivist Wages System",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "peter-kropotkin:evidence:012",
+                "titleZh": "愉快劳动提高社会生产力",
+                "summaryZh": "第十章把劳动吸引力、平等合作和为全体幸福工作联系起来，认为自由劳动者因期待共同富足而投入更多能量和智慧。",
+                "sourceIds": [
+                  "S013"
+                ],
+                "source": {
+                  "workId": "kropotkin-conquest-of-bread",
+                  "locator": "The Conquest of Bread, ch. X, Agreeable Work",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
 }

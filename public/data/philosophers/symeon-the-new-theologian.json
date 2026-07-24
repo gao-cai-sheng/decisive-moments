@@ -1,6 +1,6 @@
 {
   "id": "symeon-the-new-theologian",
-  "tier": "seed",
+  "tier": "standard",
   "names": {
     "zh": "新神学家西门",
     "en": "Symeon the New Theologian",
@@ -23,7 +23,9 @@
   ],
   "themes": [
     "religion",
-    "knowledge"
+    "knowledge",
+    "ethics",
+    "life_death"
   ],
   "keywordsZh": [
     "新神学家",
@@ -34,21 +36,352 @@
   "oneLineZh": "拜占庭神秘主义思想家，以神圣之光的亲证经验和灵性知识影响后来的静修传统。",
   "influenceWeight": 3,
   "reviewStatus": "draft",
-  "summaryZh": "新神学家西门强调对神圣之光和恩典的亲身经验，把灵性知识、悔改和神秘经验置于东正教生活中心。本 seed 档只建身份层，并为 b3 Palamas 预留静修传统继承边。",
+  "summaryZh": "新神学家西门把神学权威重新安放在圣灵恩典的亲历经验、持续悔改和属灵父辨识中，而不是只靠抽象概念或职位身份。他的标准候选主线区分三层：谁能真实谈论神、悔改与身体生活如何成为属灵知识训练、被光照者怎样承担牧养和教导责任；同时只把他标为后来静修传统的背景，不倒灌帕拉马斯体系。",
   "works": [
     "symeon-theological-ethical-discourses",
     "symeon-hymns-divine-love"
   ],
   "sourceNotes": [
     {
-      "label": "W12-B2-S005",
-      "url": "https://iep.utm.edu/byz-phil/",
-      "noteZh": "IEP Byzantine Philosophy 总论用于核验 Symeon 在拜占庭神秘主义和东正教思想中的位置。"
+      "label": "S003",
+      "url": "https://www.britannica.com/biography/Saint-Symeon-the-New-Theologian",
+      "noteZh": "核验 Symeon 生卒、称号和强调直接神秘经验的基本口径。"
     },
     {
-      "label": "W12-B2-S006",
-      "url": "https://www.britannica.com/biography/Saint-Symeon-the-New-Theologian",
-      "noteZh": "Britannica Symeon 条目用于核验其生卒、新神学家称号和神秘经验口径。"
+      "label": "S004",
+      "url": "https://maksimologija.org/2020/10/30/st-symeon-the-new-theologian-theological-discourse-1-against-those-who-ascribe-the-concept-of-anteriority-to-the-father-2/",
+      "noteZh": "用于校准第一神学论文关于谈论神、圣灵启发和反概念僭越的定位。"
+    },
+    {
+      "label": "S006",
+      "url": "https://dokumen.pub/a-guide-to-st-symeon-the-new-theologian-1625641168-9781625641168.html",
+      "noteZh": "辅助核验 Hymns、Ethical Discourses、属灵父权威和后世静修传统接收的现代解释。"
     }
-  ]
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "symeon-the-new-theologian:problem:001",
+        "titleZh": "谁能真实谈论神？",
+        "questionZh": "西门如何把神学言说的资格从抽象辩才转向圣灵恩典、亲历经验和受教生命？",
+        "summaryZh": "西门并不把神学理解为可由聪明话术或继承公式直接占有的知识。他要求谈论神的人先承认不可言说者的边界，并以圣灵在心中造成的真实经验为知识根基；赞美诗中的光与火不是装饰意象，而是经验被迫进入语言时留下的见证。",
+        "themeIds": [
+          "religion",
+          "knowledge"
+        ],
+        "weight": 3,
+        "sourceIds": [
+          "S004",
+          "S006",
+          "S007"
+        ],
+        "claims": [
+          {
+            "id": "symeon-the-new-theologian:claim:001",
+            "titleZh": "神学先受不可言说者约束",
+            "claimZh": "西门把谈论神的第一纪律设为谦卑承认不可言说者，而非凭推理抢先定义神圣生命。",
+            "explanationZh": "第一神学论文反复警惕未经净化的概念争胜：真正的神学不是取消言说，而是让言说服从圣灵、传统和人的受造限度。",
+            "themeIds": [
+              "religion",
+              "knowledge"
+            ],
+            "weight": 3,
+            "sourceIds": [
+              "S004",
+              "S006"
+            ],
+            "evidence": [
+              {
+                "id": "symeon-the-new-theologian:evidence:001",
+                "titleZh": "妄谈神圣生成被判为鲁莽",
+                "summaryZh": "第一神学论文开篇把随意讨论神、表达不可表达者和理解超出众人的神圣奥秘称为鲁莽灵魂的标志，显示他先给神学言说划出禁越边界。",
+                "sourceIds": [
+                  "S004"
+                ],
+                "source": {
+                  "workId": "symeon-theological-ethical-discourses",
+                  "locator": "Theological and Ethical Discourses, Theological Discourse 1, §1",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "symeon-the-new-theologian:evidence:002",
+                "titleZh": "神学声音依赖从上而来的圣灵",
+                "summaryZh": "同一论文在回应错误三一论时说明，发言者不是凭自己开口，而是依靠从上方使人听见的圣灵，这把正统论证系于受启发的生命状态。",
+                "sourceIds": [
+                  "S004",
+                  "S006"
+                ],
+                "source": {
+                  "workId": "symeon-theological-ethical-discourses",
+                  "locator": "Theological and Ethical Discourses, Theological Discourse 1, §2",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "symeon-the-new-theologian:claim:002",
+            "titleZh": "光的经验成为属灵知识的证词",
+            "claimZh": "西门以光、火和圣灵的第一人称经验表达属灵知识，说明知道神首先是被恩典改变而不是获得概念对象。",
+            "explanationZh": "赞美诗不是后期帕拉马斯式体系论证，而是经验见证：人在光与火中认识圣灵同荣、同质，并在祈祷语言中承认这种认识只能按领受程度说出。",
+            "themeIds": [
+              "religion",
+              "knowledge"
+            ],
+            "weight": 2,
+            "sourceIds": [
+              "S006",
+              "S007"
+            ],
+            "evidence": [
+              {
+                "id": "symeon-the-new-theologian:evidence:003",
+                "titleZh": "光与火表现圣灵亲证",
+                "summaryZh": "《神圣之爱赞美诗》第二十五首以光的沉醉、火的运动和内在火焰描写圣灵荣耀，强调经验者是在自身内部被神圣临在触及。",
+                "sourceIds": [
+                  "S006",
+                  "S007"
+                ],
+                "source": {
+                  "workId": "symeon-hymns-divine-love",
+                  "locator": "Hymns of Divine Love, Hymn 25, lines 33-41",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "symeon-the-new-theologian:evidence:004",
+                "titleZh": "三一之光把教义变成祈祷",
+                "summaryZh": "第三神学论文围绕父、子、圣灵同为一光展开赞颂，把三一教义从争辩公式推进为受光照者的祈祷性认识。",
+                "sourceIds": [
+                  "S006"
+                ],
+                "source": {
+                  "workId": "symeon-theological-ethical-discourses",
+                  "locator": "Theological and Ethical Discourses, Theological Discourse 3, §4",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "symeon-the-new-theologian:problem:002",
+        "titleZh": "悔改怎样产生知识？",
+        "questionZh": "西门为什么把悔改、哭泣、守诫和身体生活写成认识神的实际通道？",
+        "summaryZh": "西门的经验神学不绕过伦理生活。悔改和眼泪不是情绪化附属品，而是清理心灵、维持第二次洗礼和打开神圣显现的方式；成肉身与恩典使身体也进入神化，所以知识必须以全人转换为条件。",
+        "themeIds": [
+          "ethics",
+          "religion",
+          "knowledge"
+        ],
+        "weight": 2,
+        "sourceIds": [
+          "S005",
+          "S006",
+          "S007"
+        ],
+        "claims": [
+          {
+            "id": "symeon-the-new-theologian:claim:003",
+            "titleZh": "悔改眼泪是视觉净化",
+            "claimZh": "西门把持续悔改和眼泪理解为恢复神圣视觉的训练，而不是单纯的道德自责。",
+            "explanationZh": "悔改在他的伦理论文和二手研究中一再被解释为第二洗礼和净化方式；它让人从自满的知识转向可被恩典照明的生命。",
+            "themeIds": [
+              "ethics",
+              "religion"
+            ],
+            "weight": 2,
+            "sourceIds": [
+              "S005",
+              "S006"
+            ],
+            "evidence": [
+              {
+                "id": "symeon-the-new-theologian:evidence:005",
+                "titleZh": "末世视见按光照尺度增长",
+                "summaryZh": "第一伦理论文讨论末世认识时指出，认识与看见按各人所拥有的光照尺度增长，把救恩终点同现世净化和可见恩典连在一起。",
+                "sourceIds": [
+                  "S005",
+                  "S006"
+                ],
+                "source": {
+                  "workId": "symeon-theological-ethical-discourses",
+                  "locator": "Theological and Ethical Discourses, Ethical Discourse 1, §5",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "symeon-the-new-theologian:evidence:006",
+                "titleZh": "眼泪维持洗礼后的纯净",
+                "summaryZh": "伦理论文关于教会生活的展开把哭泣和悔改写成洗礼之后持续洁净的方式，使神圣显现不被罪与骄傲遮蔽。",
+                "sourceIds": [
+                  "S005",
+                  "S006"
+                ],
+                "source": {
+                  "workId": "symeon-theological-ethical-discourses",
+                  "locator": "Theological and Ethical Discourses, Ethical Discourse 7, §3",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "symeon-the-new-theologian:claim:004",
+            "titleZh": "神化进入身体和日常实践",
+            "claimZh": "西门的属灵知识要求全人被成肉身恩典改变，身体、行为和共同生活都进入神化训练。",
+            "explanationZh": "他不把知识缩成心智内省；伦理论文从基督取人性和信徒得恩典说起，赞美诗则以身体成为基督肢体的大胆语言表达全人转换。",
+            "themeIds": [
+              "religion",
+              "ethics",
+              "life_death"
+            ],
+            "weight": 3,
+            "sourceIds": [
+              "S005",
+              "S006",
+              "S007"
+            ],
+            "evidence": [
+              {
+                "id": "symeon-the-new-theologian:evidence:007",
+                "titleZh": "成肉身把神性赐给信者",
+                "summaryZh": "第一伦理论文第三章从基督取自马利亚的完整人性讲起，说明神把自己的神性赐给相信者，使他们按恩典成为神的儿女。",
+                "sourceIds": [
+                  "S005"
+                ],
+                "source": {
+                  "workId": "symeon-theological-ethical-discourses",
+                  "locator": "Theological and Ethical Discourses, Ethical Discourse 1, §3",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "symeon-the-new-theologian:evidence:008",
+                "titleZh": "身体肢体被写入基督生命",
+                "summaryZh": "第十五首赞美诗以手、脚和整个身体在基督身体中醒来的形象表达神化，说明经验不是脱身心的抽象意识。",
+                "sourceIds": [
+                  "S006",
+                  "S007"
+                ],
+                "source": {
+                  "workId": "symeon-hymns-divine-love",
+                  "locator": "Hymns of Divine Love, Hymn 15, lines 141-155",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "symeon-the-new-theologian:problem:003",
+        "titleZh": "属灵父为何有权威？",
+        "questionZh": "西门如何把属灵父权威建立在被光照的辨识与牧养责任上，而不是只建立在制度职位上？",
+        "summaryZh": "西门的争议性并不只在个人异象，而在他据此重新解释牧养权威。真正的属灵父必须已经被恩典照明，能够分辨罪、治疗灵魂并引导悔改；这种权威仍在修院和圣礼生活中运作，却会批判只拥有头衔而缺少经验的人。",
+        "themeIds": [
+          "religion",
+          "ethics",
+          "knowledge"
+        ],
+        "weight": 1,
+        "sourceIds": [
+          "S006",
+          "S007"
+        ],
+        "claims": [
+          {
+            "id": "symeon-the-new-theologian:claim:005",
+            "titleZh": "牧养资格来自被照明的辨识",
+            "claimZh": "西门认为属灵父的核心资格是亲历神圣内住并能辨识灵魂状态，而不只是外在职位。",
+            "explanationZh": "这种立场解释了他为何强调向属灵父揭示思想、接受治疗和学习悔改；权威是经验性和治疗性的，不是行政性的。",
+            "themeIds": [
+              "religion",
+              "ethics",
+              "knowledge"
+            ],
+            "weight": 3,
+            "sourceIds": [
+              "S006"
+            ],
+            "evidence": [
+              {
+                "id": "symeon-the-new-theologian:evidence:009",
+                "titleZh": "圣者作为灵魂医生",
+                "summaryZh": "伦理论文关于属灵指导的段落把被照明的圣者描述为能滋养、医治并纠正他人的父亲，显示牧养权威以恩典经验为根。",
+                "sourceIds": [
+                  "S006"
+                ],
+                "source": {
+                  "workId": "symeon-theological-ethical-discourses",
+                  "locator": "Theological and Ethical Discourses, Ethical Discourse 4, §6",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "symeon-the-new-theologian:evidence:010",
+                "titleZh": "缺少内住经验者不能擅自教导",
+                "summaryZh": "伦理论文批评没有意识到神在自身内住的人仍贸然教导和赦罪，凸显西门把教导资格系于经验、净化和属灵辨识。",
+                "sourceIds": [
+                  "S006"
+                ],
+                "source": {
+                  "workId": "symeon-theological-ethical-discourses",
+                  "locator": "Theological and Ethical Discourses, Ethical Discourse 5, §2",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "symeon-the-new-theologian:claim:006",
+            "titleZh": "他是静修背景而非帕拉马斯体系",
+            "claimZh": "西门提供后来静修主义可吸收的光照经验和属灵权威模型，但他本人不是本质/能质体系的论证者。",
+            "explanationZh": "把他放在帕拉马斯之前，应强调第一人称经验、悔改和圣灵恩典，而不是把十四世纪论争的技术区分倒灌到十至十一世纪。",
+            "themeIds": [
+              "religion",
+              "knowledge"
+            ],
+            "weight": 2,
+            "sourceIds": [
+              "S006",
+              "S007"
+            ],
+            "evidence": [
+              {
+                "id": "symeon-the-new-theologian:evidence:011",
+                "titleZh": "赞美诗呈现个人化神秘内容",
+                "summaryZh": "《神圣之爱赞美诗》第二十二首以火焰、光线和显现描绘神的临在，显示西门的光照语言主要是亲历见证而非论战分类。",
+                "sourceIds": [
+                  "S006",
+                  "S007"
+                ],
+                "source": {
+                  "workId": "symeon-hymns-divine-love",
+                  "locator": "Hymns of Divine Love, Hymn 22, lines 1-24",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "symeon-the-new-theologian:evidence:012",
+                "titleZh": "赞美诗保存悔改与异象的合流",
+                "summaryZh": "第五十首赞美诗把自责、恩典觉醒和复活生命交织在一起，适合说明西门思想的核心是经验性悔改而非后期能质论。",
+                "sourceIds": [
+                  "S006",
+                  "S007"
+                ],
+                "source": {
+                  "workId": "symeon-hymns-divine-love",
+                  "locator": "Hymns of Divine Love, Hymn 50, lines 152-254",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
 }

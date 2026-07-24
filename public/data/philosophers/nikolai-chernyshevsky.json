@@ -1,6 +1,6 @@
 {
   "id": "nikolai-chernyshevsky",
-  "tier": "seed",
+  "tier": "standard",
   "names": {
     "zh": "车尔尼雪夫斯基",
     "en": "Nikolai Chernyshevsky",
@@ -36,21 +36,337 @@
   "oneLineZh": "俄国唯物主义与社会思想代表，以理性利己、现实美学和《怎么办？》影响19世纪激进传统。",
   "influenceWeight": 3,
   "reviewStatus": "draft",
-  "summaryZh": "车尔尼雪夫斯基以费尔巴哈式人本唯物主义、理性利己和现实主义美学构成俄国社会思想的重要资源；其《怎么办？》虽为小说体，但在本项目按思想性文本收录。本 seed 档不作纯文学条目。",
+  "summaryZh": "车尔尼雪夫斯基把唯物主义、现实主义美学和社会改造想象连接成一套激进思想语言。他在《艺术对现实的美学关系》中把现实生活置于艺术理想之上，要求艺术服务人的共同生活兴趣；在《怎么办？》中又以小说结构展示理性利己、女性独立、合作劳动和“新人”伦理，因而不应被处理成纯文学人物。",
   "works": [
     "chernyshevsky-what-is-to-be-done",
     "chernyshevsky-aesthetic-relations"
   ],
   "sourceNotes": [
     {
-      "label": "W11-B1-S010",
+      "label": "S003",
       "url": "https://iep.utm.edu/russian/",
-      "noteZh": "IEP Russian Philosophy 总论用于核验19世纪俄国思想中唯物主义、政治与美学纠缠的背景。"
+      "noteZh": "核验19世纪俄国唯物主义、政治和美学纠缠的思想背景。"
     },
     {
-      "label": "W11-B1-S011",
-      "url": "https://www.britannica.com/biography/Nikolay-Gavrilovich-Chernyshevsky",
-      "noteZh": "Britannica Chernyshevsky 条目用于核验其作家、批评家和思想家身份。"
+      "label": "S009",
+      "url": "https://en.wikisource.org/wiki/A_vital_question%3B_or%2C_What_is_to_be_done%3F",
+      "noteZh": "用于校准《怎么办？》英译目录、Vera Pavlovna、合作工坊和新人伦理的文本定位。"
+    },
+    {
+      "label": "S010",
+      "url": "https://www.marxists.org/reference/archive/chernyshevsky/1853/aesthetics-reality.htm",
+      "noteZh": "用于校准《艺术对现实的美学关系》关于现实、艺术再现、内容和生活手册的论证。"
     }
-  ]
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "nikolai-chernyshevsky:problem:001",
+        "titleZh": "为什么现实高于艺术理想？",
+        "questionZh": "车尔尼雪夫斯基怎样用现实主义美学反对把艺术看成高于生活的理想世界？",
+        "summaryZh": "《艺术对现实的美学关系》把美学从理想化体系拉回现实生活：艺术不是纠正现实、超越现实或替现实赐予意义，而是在现实不可得时再现生活，并帮助人辨认共同关心的生活内容。",
+        "themeIds": [
+          "aesthetics",
+          "knowledge"
+        ],
+        "weight": 3,
+        "sourceIds": [
+          "S010"
+        ],
+        "claims": [
+          {
+            "id": "nikolai-chernyshevsky:claim:001",
+            "titleZh": "艺术是现实的替代而非胜利者",
+            "claimZh": "车尔尼雪夫斯基认为艺术作品不能比现实更美更高，它的基本功能是在现实缺席时提供再现和提示。",
+            "explanationZh": "这一定义把黑格尔式艺术理想地位降低为人的生活需要：人爱海、爱面孔、爱自然本身，艺术只是让不可在场的现实以较低层次重新可接近。",
+            "themeIds": [
+              "aesthetics",
+              "knowledge"
+            ],
+            "weight": 3,
+            "sourceIds": [
+              "S010"
+            ],
+            "evidence": [
+              {
+                "id": "nikolai-chernyshevsky:evidence:001",
+                "titleZh": "海景例子说明替代性",
+                "summaryZh": "美学论文开篇用海景说明，人更愿看真实海洋，画作只是当真实对象不可得时的替代和记忆提示；这直接降低了艺术相对现实的等级。",
+                "sourceIds": [
+                  "S010"
+                ],
+                "source": {
+                  "workId": "chernyshevsky-aesthetic-relations",
+                  "locator": "The Aesthetic Relations of Art to Reality, opening example of seascapes",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "nikolai-chernyshevsky:evidence:002",
+                "titleZh": "艺术再现自然和生活",
+                "summaryZh": "论文在初步定义处说艺术首要目的就是再现自然和生活，艺术品同现实对象的关系类似版画同原画、肖像同人的关系；再现不是改造现实缺陷。",
+                "sourceIds": [
+                  "S010"
+                ],
+                "source": {
+                  "workId": "chernyshevsky-aesthetic-relations",
+                  "locator": "The Aesthetic Relations of Art to Reality, definition of art as reproduction of nature and life",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "nikolai-chernyshevsky:claim:002",
+            "titleZh": "艺术内容是人的生活兴趣",
+            "claimZh": "他把艺术内容扩展为现实中引起普通人关切的一切，而不只限于美、崇高和滑稽。",
+            "explanationZh": "这使美学同社会思想连接起来：艺术价值来自它处理人的实际生活、情感和需要，而不是来自形式自足或传统美学分类。",
+            "themeIds": [
+              "aesthetics",
+              "ethics",
+              "knowledge"
+            ],
+            "weight": 2,
+            "sourceIds": [
+              "S010"
+            ],
+            "evidence": [
+              {
+                "id": "nikolai-chernyshevsky:evidence:003",
+                "titleZh": "美不是艺术内容全部",
+                "summaryZh": "论文中段批评把艺术内容只归为美及其若干变体会排除大量现实题材，尤其是诗歌和小说中悲伤、日常生活、普通人物和多样情感。",
+                "sourceIds": [
+                  "S010"
+                ],
+                "source": {
+                  "workId": "chernyshevsky-aesthetic-relations",
+                  "locator": "The Aesthetic Relations of Art to Reality, section on content beyond beauty",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "nikolai-chernyshevsky:evidence:004",
+                "titleZh": "艺术是人的生活手册",
+                "summaryZh": "论文结尾把艺术使命表述为在现实缺席时作现实替代，并成为人的生活手册；现实高于梦想，实质目的高于幻想要求，构成其现实主义美学总结。",
+                "sourceIds": [
+                  "S010"
+                ],
+                "source": {
+                  "workId": "chernyshevsky-aesthetic-relations",
+                  "locator": "The Aesthetic Relations of Art to Reality, concluding definition of art as manual of life",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "nikolai-chernyshevsky:problem:002",
+        "titleZh": "理性利己如何成为伦理？",
+        "questionZh": "《怎么办？》怎样把自利、自由选择和他人幸福组织成新人伦理？",
+        "summaryZh": "《怎么办？》中的理性利己不是赤裸个人主义，而是认为人若清楚理解自身利益，就会把独立、尊重、互惠和他人评价纳入幸福计算；诚实计划比强制道德更能稳定新生活。",
+        "themeIds": [
+          "ethics",
+          "freedom",
+          "politics"
+        ],
+        "weight": 2,
+        "sourceIds": [
+          "S008",
+          "S009"
+        ],
+        "claims": [
+          {
+            "id": "nikolai-chernyshevsky:claim:003",
+            "titleZh": "自由是不支配也不被支配",
+            "claimZh": "车尔尼雪夫斯基把新人的自由写成不支配他人、不受他人支配，并能按真实需要生活。",
+            "explanationZh": "小说借人物言谈把自由放在日常婚姻、经济独立和人格选择中展示；理性利己要求人知道自己真正需要什么，也拒绝为外部虚荣牺牲独立。",
+            "themeIds": [
+              "freedom",
+              "ethics"
+            ],
+            "weight": 3,
+            "sourceIds": [
+              "S009"
+            ],
+            "evidence": [
+              {
+                "id": "nikolai-chernyshevsky:evidence:005",
+                "titleZh": "不愿支配也不愿被支配",
+                "summaryZh": "《怎么办？》早期人物自白段落说自己既不愿统治也不愿被统治，只愿独立并按自己的方式生活；这给新人伦理设定了反支配的个人底线。",
+                "sourceIds": [
+                  "S009"
+                ],
+                "source": {
+                  "workId": "chernyshevsky-what-is-to-be-done",
+                  "locator": "What Is to Be Done?, Part First, Vera Pavlovna's early conversations on independence",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "nikolai-chernyshevsky:evidence:006",
+                "titleZh": "独立来自需要和劳动能力",
+                "summaryZh": "同一思想线把人的独立同能靠自身力量获得所需、拒绝不需要的财富联系起来；这里自利不是掠夺，而是清楚区分真实需要与社会虚荣。",
+                "sourceIds": [
+                  "S009"
+                ],
+                "source": {
+                  "workId": "chernyshevsky-what-is-to-be-done",
+                  "locator": "What Is to Be Done?, Part First, passages on need, work, and independence",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "nikolai-chernyshevsky:claim:004",
+            "titleZh": "理性利己能产生互利计划",
+            "claimZh": "小说把善行解释为明智自利的一部分：人会因被所尊重者认可、因关系改善而主动设计有益他人的计划。",
+            "explanationZh": "这一路径把伦理从牺牲话语改写为理性协调；人物越清楚自身幸福，就越需要诚实、互惠和不损害他人的社会安排。",
+            "themeIds": [
+              "ethics",
+              "knowledge"
+            ],
+            "weight": 2,
+            "sourceIds": [
+              "S009"
+            ],
+            "evidence": [
+              {
+                "id": "nikolai-chernyshevsky:evidence:007",
+                "titleZh": "诚实人的利己不同于恶意利己",
+                "summaryZh": "第三部关于洛普霍夫计划的叙述直接比较诚实人与有害读者的利己，说明诚实人的最大快乐包括得到所尊重者的好评，因此会设计有益他人的方案。",
+                "sourceIds": [
+                  "S009"
+                ],
+                "source": {
+                  "workId": "chernyshevsky-what-is-to-be-done",
+                  "locator": "What Is to Be Done?, Part Third, Marriage and Second Love, narrator's reflection on honest egoism",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "nikolai-chernyshevsky:evidence:008",
+                "titleZh": "拉赫梅托夫把自我训练变成公共服务",
+                "summaryZh": "第五部的新人章节把拉赫梅托夫写成通过纪律、禁欲和训练准备承担社会任务的特殊人物；这说明理性利己可被推向服务共同事业的极端形态。",
+                "sourceIds": [
+                  "S009"
+                ],
+                "source": {
+                  "workId": "chernyshevsky-what-is-to-be-done",
+                  "locator": "What Is to Be Done?, Part Fifth, New People, Rakhmetov episode",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "nikolai-chernyshevsky:problem:003",
+        "titleZh": "社会理想为何写进家庭和工坊？",
+        "questionZh": "《怎么办？》怎样把女性独立、合作劳动和未来社会想象放进小说结构？",
+        "summaryZh": "小说的思想性不只在人物宣言，而在制度化日常实验：婚姻安排、女性收入、缝纫合作社、公共居住和第四梦共同展示新社会可以从生活组织中预演。",
+        "themeIds": [
+          "politics",
+          "ethics",
+          "freedom"
+        ],
+        "weight": 1,
+        "sourceIds": [
+          "S008",
+          "S009"
+        ],
+        "claims": [
+          {
+            "id": "nikolai-chernyshevsky:claim:005",
+            "titleZh": "女性解放以经济独立落地",
+            "claimZh": "Vera Pavlovna 的解放不是抽象情感觉醒，而是通过收入、空间安排和合作劳动获得可持续独立。",
+            "explanationZh": "车尔尼雪夫斯基把女性问题放进家庭和生产组织，而非只写爱情选择；经济制度改变是新人伦理可以生活化的条件。",
+            "themeIds": [
+              "freedom",
+              "justice",
+              "politics"
+            ],
+            "weight": 3,
+            "sourceIds": [
+              "S009"
+            ],
+            "evidence": [
+              {
+                "id": "nikolai-chernyshevsky:evidence:009",
+                "titleZh": "逃离家庭地窖",
+                "summaryZh": "小说第一部描写 Vera Pavlovna 从母亲操控和功利婚姻安排中寻找出路，把家庭空间写成压迫结构；女性自由问题由此成为社会制度问题。",
+                "sourceIds": [
+                  "S009"
+                ],
+                "source": {
+                  "workId": "chernyshevsky-what-is-to-be-done",
+                  "locator": "What Is to Be Done?, Part First, Vera Pavlovna in her parents' family",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "nikolai-chernyshevsky:evidence:010",
+                "titleZh": "缝纫合作社连接独立和互惠",
+                "summaryZh": "第二部写 Vera Pavlovna 建立缝纫工坊，让妇女共同劳动、共享收益和居住安排；这个制度实验把经济独立和社会主义合作嵌入日常生活。",
+                "sourceIds": [
+                  "S009"
+                ],
+                "source": {
+                  "workId": "chernyshevsky-what-is-to-be-done",
+                  "locator": "What Is to Be Done?, Part Second, First Love and Legal Marriage, Vera Pavlovna's sewing workshop",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "nikolai-chernyshevsky:claim:006",
+            "titleZh": "乌托邦以可组织生活出现",
+            "claimZh": "小说的未来社会想象通过梦境和工坊细节呈现为可安排的劳动、居住和亲密关系，而不是遥远政治口号。",
+            "explanationZh": "第四梦和工坊叙述把共产主义、性别平等和劳动解放变成场景化生活方案，解释了这部小说为何能成为激进青年的实践文本。",
+            "themeIds": [
+              "politics",
+              "aesthetics",
+              "ethics"
+            ],
+            "weight": 2,
+            "sourceIds": [
+              "S009"
+            ],
+            "evidence": [
+              {
+                "id": "nikolai-chernyshevsky:evidence:011",
+                "titleZh": "第四梦展示未来共同生活",
+                "summaryZh": "第四部的第四梦通过女性历史、劳动、居住和节庆场景展开未来社会图像，不把社会主义只写成政纲，而写成可感的生活组织。",
+                "sourceIds": [
+                  "S009"
+                ],
+                "source": {
+                  "workId": "chernyshevsky-what-is-to-be-done",
+                  "locator": "What Is to Be Done?, Part Fourth, Vera Pavlovna's Fourth Dream",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "nikolai-chernyshevsky:evidence:012",
+                "titleZh": "新人结局把私人幸福并入公共方向",
+                "summaryZh": "第五部和第六部把几组人物的婚姻、劳动、迁移和社会任务重新组织起来，使私人幸福不退出公共理想，而成为新人社会可持续性的证明。",
+                "sourceIds": [
+                  "S009"
+                ],
+                "source": {
+                  "workId": "chernyshevsky-what-is-to-be-done",
+                  "locator": "What Is to Be Done?, Part Fifth and Part Sixth, New People and Change of Scenes",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
 }

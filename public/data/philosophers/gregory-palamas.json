@@ -1,6 +1,6 @@
 {
   "id": "gregory-palamas",
-  "tier": "seed",
+  "tier": "standard",
   "names": {
     "zh": "格里高利·帕拉马斯",
     "en": "Gregory Palamas",
@@ -35,20 +35,342 @@
   "oneLineZh": "晚期拜占庭静修主义神学家，以本质/能质之分和《为静修者辩护》组织东正教神秘经验论证。",
   "influenceWeight": 3,
   "reviewStatus": "draft",
-  "summaryZh": "格里高利·帕拉马斯在静修主义论争中为神圣之光经验和本质/能质之分辩护，成为东正教神秘神学的重要节点。本 seed 档按生产口径只挂 Symeon 与 Augustine，避免 Pseudo-Dionysius 和 Maximus 超限。",
+  "summaryZh": "格里高利·帕拉马斯在静修主义论争中把修行经验、基督变容之光和严密神学区分连接起来。本标准候选以三条线展开：他先为静修者的身心祈祷和恩典智慧辩护，再以未受造光说明神可被真实经验，最后用本质/能质之分解释神化是参与未受造恩典而非把握神本质，从而避免把他写成西门式第一人称神秘诗人或抽象形上学家。",
   "works": [
     "palamas-triads"
   ],
   "sourceNotes": [
     {
-      "label": "W12-B3-S001",
-      "url": "https://iep.utm.edu/byz-phil/",
-      "noteZh": "IEP Byzantine Philosophy 总论用于核验晚期拜占庭静修主义和 Palamas 在东正教思想中的位置。"
+      "label": "S008",
+      "url": "https://www.britannica.com/biography/Saint-Gregory-Palamas",
+      "noteZh": "核验 Palamas 生卒、静修主义论争和本质/能质之分的基本口径。"
     },
     {
-      "label": "W12-B3-S002",
-      "url": "https://www.britannica.com/biography/Saint-Gregory-Palamas",
-      "noteZh": "Britannica Palamas 条目用于核验其生卒、静修主义、本质/能质之分和《为静修者辩护》口径。"
+      "label": "S009",
+      "url": "https://www.agape-biblia.org/orthodoxy/Gregory_Palamas_The_Triads_Classics_of_Western_Spirituality.pdf",
+      "noteZh": "用于校准 Triads 的分组、问题、章节与未受造光/能质论证。"
+    },
+    {
+      "label": "S010",
+      "url": "https://iep.utm.edu/byz-phil/",
+      "noteZh": "辅助核验晚期拜占庭哲学、静修主义与东正教思想传统位置。"
     }
-  ]
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "gregory-palamas:problem:001",
+        "titleZh": "静修为何需要论证？",
+        "questionZh": "帕拉马斯怎样在论争中为静修者的身心祈祷、恩典智慧和经验知识辩护？",
+        "summaryZh": "帕拉马斯不是简单反理性，而是在 Barlaam 的批评压力下区分世俗学问、自然智慧和从恩典来的神圣智慧。他为静修者的身心方法辩护，说明身体不是祈祷的障碍；心、理智和身体都能被恩典重新组织为朝向神的器官。",
+        "themeIds": [
+          "religion",
+          "knowledge"
+        ],
+        "weight": 3,
+        "sourceIds": [
+          "S008",
+          "S009",
+          "S010"
+        ],
+        "claims": [
+          {
+            "id": "gregory-palamas:claim:001",
+            "titleZh": "世俗智慧不能替代恩典智慧",
+            "claimZh": "帕拉马斯承认外在学问有自然价值，却否认它能净化灵魂或带来救恩性的神知识。",
+            "explanationZh": "他反对把希腊学问当作灵魂净化的必要条件；真正的神圣智慧来自恩典、祈祷和圣灵的改变。",
+            "themeIds": [
+              "knowledge",
+              "religion"
+            ],
+            "weight": 3,
+            "sourceIds": [
+              "S009"
+            ],
+            "evidence": [
+              {
+                "id": "gregory-palamas:evidence:001",
+                "titleZh": "自然学问不是从上而来的恩赐",
+                "summaryZh": "《为静修者辩护》第一组第一篇把外在教育称为自然礼物，即使可被善用，也不同于从上而来的属灵恩典和神圣智慧。",
+                "sourceIds": [
+                  "S009"
+                ],
+                "source": {
+                  "workId": "palamas-triads",
+                  "locator": "Triads, I.1, §22",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "gregory-palamas:evidence:002",
+                "titleZh": "哲学不能净化认识能力",
+                "summaryZh": "同篇第二十三节进一步追问哲学为何不能在基督以前更新人，说明净化认知能力和恢复神形象必须依靠基督与恩典。",
+                "sourceIds": [
+                  "S009"
+                ],
+                "source": {
+                  "workId": "palamas-triads",
+                  "locator": "Triads, I.1, §23",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "gregory-palamas:claim:002",
+            "titleZh": "身体参与静修的理智回归",
+            "claimZh": "帕拉马斯为静修者的身体姿态和心中守望辩护，因为整个人都要被恩典转向祈祷。",
+            "explanationZh": "他以心为理性能力的座位，解释把分散于感官的心智收回内在不是荒唐技巧，而是修行人类学的一部分。",
+            "themeIds": [
+              "religion",
+              "knowledge"
+            ],
+            "weight": 2,
+            "sourceIds": [
+              "S009"
+            ],
+            "evidence": [
+              {
+                "id": "gregory-palamas:evidence:003",
+                "titleZh": "心被称为理性能力的身体器官",
+                "summaryZh": "第一组第二篇说明心是理性能力的首要身体器官，静修者把外散的心智收回心内，是为了守望和纠正理性。",
+                "sourceIds": [
+                  "S009"
+                ],
+                "source": {
+                  "workId": "palamas-triads",
+                  "locator": "Triads, I.2, §3",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "gregory-palamas:evidence:004",
+                "titleZh": "身体能分享灵魂所经验的神圣事物",
+                "summaryZh": "同篇关于属灵人的讨论指出，圣灵恩典经灵魂传递给身体，使身体也能经验神圣事物，反驳把身体排除在祈祷外的看法。",
+                "sourceIds": [
+                  "S009"
+                ],
+                "source": {
+                  "workId": "palamas-triads",
+                  "locator": "Triads, I.2, §12",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "gregory-palamas:problem:002",
+        "titleZh": "未受造光怎样可见？",
+        "questionZh": "帕拉马斯如何说明变容山之光不是受造象征，又为何能被圣徒真实经验？",
+        "summaryZh": "帕拉马斯把 Tabor 光放在基督论和神化论框架中：它不是心理幻象，也不是普通受造物，而是基督神性的荣耀和未受造能质的显现。人能看见它，不是自然视觉占有神，而是眼睛和心智被恩典提升到超自然能力。",
+        "themeIds": [
+          "religion",
+          "metaphysics",
+          "knowledge"
+        ],
+        "weight": 2,
+        "sourceIds": [
+          "S009",
+          "S011"
+        ],
+        "claims": [
+          {
+            "id": "gregory-palamas:claim:003",
+            "titleZh": "Tabor 光不是受造象征",
+            "claimZh": "帕拉马斯坚持变容之光是神性自然荣耀的显现，不可降低为受造符号或主观想象。",
+            "explanationZh": "他把光与基督的神性联系起来；如果基督真是神，祂显出的荣耀不能只是外在受造标记。",
+            "themeIds": [
+              "religion",
+              "metaphysics"
+            ],
+            "weight": 2,
+            "sourceIds": [
+              "S009",
+              "S011"
+            ],
+            "evidence": [
+              {
+                "id": "gregory-palamas:evidence:005",
+                "titleZh": "光显示子的神性而非单纯人性",
+                "summaryZh": "第三组第一篇说明基督登上 Tabor 不是为显示自己是人，而是显示父的光辉，因此此光自然象征独生子的神性。",
+                "sourceIds": [
+                  "S009"
+                ],
+                "source": {
+                  "workId": "palamas-triads",
+                  "locator": "Triads, III.1, §19",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "gregory-palamas:evidence:006",
+                "titleZh": "门徒凭新得眼睛看见未受造光",
+                "summaryZh": "同篇第二十二节说门徒若未先获得此前没有的眼睛，就连象征也看不见；他们以超越自然视觉的方式注视未受造光。",
+                "sourceIds": [
+                  "S009",
+                  "S011"
+                ],
+                "source": {
+                  "workId": "palamas-triads",
+                  "locator": "Triads, III.1, §22",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "gregory-palamas:claim:004",
+            "titleZh": "神圣光是看见的对象也是能力",
+            "claimZh": "帕拉马斯把神圣光理解为使人看见神的能力本身，既不同于普通感觉，也不同于概念推理。",
+            "explanationZh": "这让视觉经验保持真实，同时不把神本质交给受造知性；光由恩典临在于被净化者，使知识成为参与。",
+            "themeIds": [
+              "knowledge",
+              "metaphysics",
+              "religion"
+            ],
+            "weight": 3,
+            "sourceIds": [
+              "S009",
+              "S011"
+            ],
+            "evidence": [
+              {
+                "id": "gregory-palamas:evidence:007",
+                "titleZh": "光既是对象又是观看能力",
+                "summaryZh": "第三组第一篇把属灵光称为视觉对象和观看能力，强调它超出感觉与智解，却由恩典临在于净化后的理性受造者。",
+                "sourceIds": [
+                  "S009"
+                ],
+                "source": {
+                  "workId": "palamas-triads",
+                  "locator": "Triads, III.1, §14",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "gregory-palamas:evidence:008",
+                "titleZh": "天使和圣徒也以恩赐观看荣耀",
+                "summaryZh": "同篇第十五节论证天使并非自然拥有永恒荣耀之见，而是像圣徒一样从永恒本性领受观看能力，突出了恩典性参与。",
+                "sourceIds": [
+                  "S009"
+                ],
+                "source": {
+                  "workId": "palamas-triads",
+                  "locator": "Triads, III.1, §15",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "gregory-palamas:problem:003",
+        "titleZh": "参与如何不触碰神本质？",
+        "questionZh": "本质/能质之分怎样让神化成为真实参与，同时避免把神本质变成受造知识对象？",
+        "summaryZh": "帕拉马斯的本质/能质区分服务于静修和神化：神在本质上超越不可分割，却在未受造能质中真实显现和赐予自己。人参与的是恩典、光、生命和神化能质，而不是成为按本质的神；这使经验既不是幻觉，也不是对神本质的占有。",
+        "themeIds": [
+          "metaphysics",
+          "religion",
+          "knowledge"
+        ],
+        "weight": 1,
+        "sourceIds": [
+          "S009",
+          "S011"
+        ],
+        "claims": [
+          {
+            "id": "gregory-palamas:claim:005",
+            "titleZh": "能质未受造且不同于本质",
+            "claimZh": "帕拉马斯区分神的本质和能质，并坚持神圣能质不是受造媒介。",
+            "explanationZh": "他用教父材料说明存在、生命、善、圣洁等作为神的显明与工作没有时间开端；若将能质造物化，就会破坏基督论和神化。",
+            "themeIds": [
+              "metaphysics",
+              "religion"
+            ],
+            "weight": 3,
+            "sourceIds": [
+              "S009",
+              "S011"
+            ],
+            "evidence": [
+              {
+                "id": "gregory-palamas:evidence:009",
+                "titleZh": "受造者参与无始的神圣工作",
+                "summaryZh": "第三组第一篇第七节借马克西姆说明生命、圣洁和德性等神的工作无时间开端，受造者通过参与这些无始工作而存在和成圣。",
+                "sourceIds": [
+                  "S009"
+                ],
+                "source": {
+                  "workId": "palamas-triads",
+                  "locator": "Triads, III.1, §7",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "gregory-palamas:evidence:010",
+                "titleZh": "神本质不等同任何能质",
+                "summaryZh": "同篇第八节明确说神的超本质本质不等同于能质，即便是无始能质；神整体临在于每一能质，却仍超越它们。",
+                "sourceIds": [
+                  "S009",
+                  "S011"
+                ],
+                "source": {
+                  "workId": "palamas-triads",
+                  "locator": "Triads, III.1, §8",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "gregory-palamas:claim:006",
+            "titleZh": "神化是真实联合而非否定神学本身",
+            "claimZh": "帕拉马斯把神化理解为恩典中的真实联合，超出否定神学的概念撤除。",
+            "explanationZh": "否定神学仍是理智活动和话语训练；真正联合需要人在祈祷中被圣灵照明并进入未受造光的参与。",
+            "themeIds": [
+              "knowledge",
+              "religion",
+              "metaphysics"
+            ],
+            "weight": 2,
+            "sourceIds": [
+              "S009"
+            ],
+            "evidence": [
+              {
+                "id": "gregory-palamas:evidence:011",
+                "titleZh": "联合高于否定神学",
+                "summaryZh": "第一组第三篇第三十五节区分否定神学与联合：前者可被理解和表达，后者属于祈祷中超出自身、由恩典造成的真实合一。",
+                "sourceIds": [
+                  "S009"
+                ],
+                "source": {
+                  "workId": "palamas-triads",
+                  "locator": "Triads, I.3, §35",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "gregory-palamas:evidence:012",
+                "titleZh": "圣徒因参与恩典看见神圣能质",
+                "summaryZh": "第三组第一篇第九节说明神圣能质在神内、对受造能力不可见；圣徒因超越自身并由恩典提升而看见它们。",
+                "sourceIds": [
+                  "S009"
+                ],
+                "source": {
+                  "workId": "palamas-triads",
+                  "locator": "Triads, III.1, §9",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
 }

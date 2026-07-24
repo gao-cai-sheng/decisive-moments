@@ -1,6 +1,6 @@
 {
   "id": "vladimir-solovyov",
-  "tier": "seed",
+  "tier": "standard",
   "names": {
     "zh": "索洛维约夫",
     "en": "Vladimir Solovyov",
@@ -36,21 +36,335 @@
   "oneLineZh": "俄国宗教哲学枢纽人物，以全统一、神人类、索菲亚学和善的证明影响白银时代。",
   "influenceWeight": 3,
   "reviewStatus": "draft",
-  "summaryZh": "索洛维约夫是俄国宗教哲学和白银时代思想谱系的枢纽人物，围绕全统一、神人类、索菲亚学和善的证明展开系统性宗教哲学。本 seed 档只建身份层；关系数按 W11 生产口径严格限制为 Schelling、Hegel 与 b3 Bulgakov 三条。",
+  "summaryZh": "索洛维约夫把俄国宗教哲学推进为系统性的伦理-形而上学工程，是白银时代思想谱系的枢纽人物。人的羞耻、怜悯和敬畏显示善的实在根基，个体道德必须进入全统一的社会和宇宙秩序；神人类与索菲亚学则把基督论、世界灵魂、教会使命和历史完成连成一体。本标准候选只补思想系统，不改关系边界。",
   "works": [
     "solovyov-justification-of-the-good",
     "solovyov-lectures-divine-humanity"
   ],
   "sourceNotes": [
     {
-      "label": "W11-B2-S005",
-      "url": "https://iep.utm.edu/russian/",
-      "noteZh": "IEP Russian Philosophy 总论用于核验 Solovyov 在俄国宗教哲学和专业哲学兴起中的枢纽地位。"
+      "label": "S010",
+      "url": "https://www.britannica.com/biography/Vladimir-Solovyov",
+      "noteZh": "核验 Solovyov 生卒、宗教哲学家身份和核心学说口径。"
     },
     {
-      "label": "W11-B2-S006",
-      "url": "https://www.britannica.com/biography/Vladimir-Solovyov",
-      "noteZh": "Britannica Solovyov 条目用于核验其生卒、宗教哲学家身份和核心学说口径。"
+      "label": "S011",
+      "url": "https://archive.org/details/justificationofg00solouoft",
+      "noteZh": "用于校准《善的证明》关于羞耻、怜悯、敬畏和善的伦理证明的文本定位。"
+    },
+    {
+      "label": "S012",
+      "url": "https://ru.wikisource.org/wiki/Чтения_о_Богочеловечестве_(Соловьёв)",
+      "noteZh": "用于校准《神人类讲座》关于全统一、神人类和索菲亚的文本定位。"
     }
-  ]
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "vladimir-solovyov:problem:001",
+        "titleZh": "善的经验根基是什么？",
+        "questionZh": "索洛维约夫如何从羞耻、怜悯和敬畏推出善不是任意规范？",
+        "summaryZh": "《善的证明》试图让伦理学不只依赖外在命令。羞耻显示人超出动物性，怜悯打开他者痛苦，敬畏把道德生命连到更高原则，三者共同构成善的经验根基。",
+        "themeIds": [
+          "ethics",
+          "religion",
+          "metaphysics"
+        ],
+        "weight": 3,
+        "sourceIds": [
+          "S011"
+        ],
+        "claims": [
+          {
+            "id": "vladimir-solovyov:claim:001",
+            "titleZh": "羞耻揭示人超越自然事实",
+            "claimZh": "羞耻在索洛维约夫那里不是社会礼俗残余，而是人意识到自身不应完全服从自然冲动的道德事实。",
+            "explanationZh": "他以羞耻开伦理学，是为了说明善有内在经验根基；人对自身动物性产生距离，表明人已经处在自然事实与应然秩序之间。",
+            "themeIds": [
+              "ethics",
+              "metaphysics"
+            ],
+            "weight": 3,
+            "sourceIds": [
+              "S011"
+            ],
+            "evidence": [
+              {
+                "id": "vladimir-solovyov:evidence:001",
+                "titleZh": "羞耻作为道德第一事实",
+                "summaryZh": "《善的证明》第一部分开端把羞耻作为道德意识的原初资料，说明人并不只是自然欲望的延长，而会对自身自然性作价值判断。",
+                "sourceIds": [
+                  "S011"
+                ],
+                "source": {
+                  "workId": "solovyov-justification-of-the-good",
+                  "locator": "The Justification of the Good, Part I, ch. I, Shame",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "vladimir-solovyov:evidence:002",
+                "titleZh": "禁欲不是否定身体本身",
+                "summaryZh": "同章论羞耻的伦理意义时，索洛维约夫并不把身体当恶物，而是把自我节制理解为人格支配自然冲动的形式。",
+                "sourceIds": [
+                  "S011"
+                ],
+                "source": {
+                  "workId": "solovyov-justification-of-the-good",
+                  "locator": "The Justification of the Good, Part I, ch. I, section on ascetic principle",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "vladimir-solovyov:claim:002",
+            "titleZh": "怜悯和敬畏打开关系秩序",
+            "claimZh": "怜悯把他者痛苦纳入自我经验，敬畏则把人置于超越自身的神圣秩序中。",
+            "explanationZh": "善不是孤立自我修养；人通过怜悯进入社会连带，通过敬畏承认高于个人欲望的绝对原则，伦理由此自然通向宗教。",
+            "themeIds": [
+              "ethics",
+              "religion"
+            ],
+            "weight": 2,
+            "sourceIds": [
+              "S011"
+            ],
+            "evidence": [
+              {
+                "id": "vladimir-solovyov:evidence:003",
+                "titleZh": "怜悯是人与他者的道德连接",
+                "summaryZh": "第一部分第二章把怜悯理解为对他者痛苦的直接共感，它让个人不能把他人只当外在事实处理，而必须承认共同生命。",
+                "sourceIds": [
+                  "S011"
+                ],
+                "source": {
+                  "workId": "solovyov-justification-of-the-good",
+                  "locator": "The Justification of the Good, Part I, ch. II, Pity",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "vladimir-solovyov:evidence:004",
+                "titleZh": "敬畏使伦理接向宗教",
+                "summaryZh": "第一部分第三章论敬畏时，把人对更高原则的承认纳入道德意识三原素之一；善因此不是世俗互惠规则的总和。",
+                "sourceIds": [
+                  "S011"
+                ],
+                "source": {
+                  "workId": "solovyov-justification-of-the-good",
+                  "locator": "The Justification of the Good, Part I, ch. III, Reverence",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "vladimir-solovyov:problem:002",
+        "titleZh": "个人道德怎样进入全统一？",
+        "questionZh": "索洛维约夫如何把个人善、社会组织和宇宙秩序连成全统一伦理？",
+        "summaryZh": "索洛维约夫的善不是私人品格清单。个人德性必须在家庭、社会、人类整体和宗教秩序中实现，善的证明因此通向全统一：一切分裂都要在积极统一中被保存并提升。",
+        "themeIds": [
+          "ethics",
+          "politics",
+          "metaphysics"
+        ],
+        "weight": 2,
+        "sourceIds": [
+          "S011",
+          "S012"
+        ],
+        "claims": [
+          {
+            "id": "vladimir-solovyov:claim:003",
+            "titleZh": "善要求社会形式",
+            "claimZh": "个人道德只有进入家庭、经济、国家和人类整体等社会形式，才获得现实实现。",
+            "explanationZh": "索洛维约夫避免把伦理缩成内心善意；社会制度是善的载体和试验场，但制度也必须接受超功利的善来校正。",
+            "themeIds": [
+              "ethics",
+              "politics"
+            ],
+            "weight": 3,
+            "sourceIds": [
+              "S011"
+            ],
+            "evidence": [
+              {
+                "id": "vladimir-solovyov:evidence:005",
+                "titleZh": "家庭是道德生活的初级整体",
+                "summaryZh": "《善的证明》社会伦理部分把家庭视为个人超出孤立自我的第一个现实统一，亲子和性别关系由此成为善的社会化起点。",
+                "sourceIds": [
+                  "S011"
+                ],
+                "source": {
+                  "workId": "solovyov-justification-of-the-good",
+                  "locator": "The Justification of the Good, Part II, ch. on the Family",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "vladimir-solovyov:evidence:006",
+                "titleZh": "人类整体高于局部制度",
+                "summaryZh": "该书后段把道德组织推进到全人类层面，国家、经济和法律不能自足，而要在普遍人类团结中取得正当位置。",
+                "sourceIds": [
+                  "S011"
+                ],
+                "source": {
+                  "workId": "solovyov-justification-of-the-good",
+                  "locator": "The Justification of the Good, Part II, ch. on the Moral Organization of Humanity",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "vladimir-solovyov:claim:004",
+            "titleZh": "全统一不是抹平差异",
+            "claimZh": "全统一要求分裂的存在物在更高生命中协调，而不是把差异压成单调同一。",
+            "explanationZh": "这使索洛维约夫区别于一般有机体隐喻：全统一既反对原子化，也反对吞没个体的整体主义，目标是积极而具体的统一。",
+            "themeIds": [
+              "metaphysics",
+              "religion"
+            ],
+            "weight": 2,
+            "sourceIds": [
+              "S012"
+            ],
+            "evidence": [
+              {
+                "id": "vladimir-solovyov:evidence:007",
+                "titleZh": "讲座从近代意识危机转向整体原则",
+                "summaryZh": "《神人类讲座》前几讲从西方哲学和宗教意识的分裂谈起，提出需要一个能同时保存理性、信仰和现实世界的统一原则。",
+                "sourceIds": [
+                  "S012"
+                ],
+                "source": {
+                  "workId": "solovyov-lectures-divine-humanity",
+                  "locator": "Lectures on Divine Humanity, Lectures 1-3",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "vladimir-solovyov:evidence:008",
+                "titleZh": "全统一连接神、世界和人",
+                "summaryZh": "中段讲座把绝对者、世界和人类历史放进统一运动中说明，世界不是神外的废料，而是应被神圣生命组织和完成的对象。",
+                "sourceIds": [
+                  "S012"
+                ],
+                "source": {
+                  "workId": "solovyov-lectures-divine-humanity",
+                  "locator": "Lectures on Divine Humanity, Lectures 5-7",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "vladimir-solovyov:problem:003",
+        "titleZh": "神人类如何组织历史使命？",
+        "questionZh": "索洛维约夫怎样用神人类和索菲亚学把基督论、世界和历史连起来？",
+        "summaryZh": "神人类不是虔敬称号，而是索洛维约夫把神圣与人类历史相互贯通的核心概念。基督实现神人统一，索菲亚则标记世界被神圣智慧组织和完成的维度。",
+        "themeIds": [
+          "religion",
+          "metaphysics"
+        ],
+        "weight": 1,
+        "sourceIds": [
+          "S012"
+        ],
+        "claims": [
+          {
+            "id": "vladimir-solovyov:claim:005",
+            "titleZh": "基督是神人统一的现实中心",
+            "claimZh": "神人类思想把基督理解为神圣生命进入人类历史并重组世界的中心，而非单纯伦理教师。",
+            "explanationZh": "索洛维约夫的基督论承担形而上学功能：如果神与世界真实统一，统一不能只在概念中，而必须在神人关系和历史生命中显现。",
+            "themeIds": [
+              "religion",
+              "metaphysics"
+            ],
+            "weight": 3,
+            "sourceIds": [
+              "S012"
+            ],
+            "evidence": [
+              {
+                "id": "vladimir-solovyov:evidence:009",
+                "titleZh": "神人类讲座以基督为完成点",
+                "summaryZh": "后段讲座把基督事件作为神人统一的历史实现来讨论，说明宗教真理不是抽象神论，而是神圣生命在人性中的具体显现。",
+                "sourceIds": [
+                  "S012"
+                ],
+                "source": {
+                  "workId": "solovyov-lectures-divine-humanity",
+                  "locator": "Lectures on Divine Humanity, Lectures 10-11",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "vladimir-solovyov:evidence:010",
+                "titleZh": "教会和历史承担神人类任务",
+                "summaryZh": "结尾讲座把神人类原则推向历史共同体，基督的实现要求人类社会和教会生活继续承担统一神圣与世界的任务。",
+                "sourceIds": [
+                  "S012"
+                ],
+                "source": {
+                  "workId": "solovyov-lectures-divine-humanity",
+                  "locator": "Lectures on Divine Humanity, Lecture 12",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "vladimir-solovyov:claim:006",
+            "titleZh": "索菲亚说明世界的神圣可完成性",
+            "claimZh": "索菲亚在索洛维约夫那里标记世界同神圣智慧的内在关系，使受造世界具有被统一和神化的方向。",
+            "explanationZh": "这一路线成为白银时代索菲亚学的源头之一。它既不是纯粹诗意女性形象，也不是简单自然神化，而是世界秩序可被神圣智慧贯通的概念。",
+            "themeIds": [
+              "metaphysics",
+              "religion"
+            ],
+            "weight": 2,
+            "sourceIds": [
+              "S012",
+              "S010"
+            ],
+            "evidence": [
+              {
+                "id": "vladimir-solovyov:evidence:011",
+                "titleZh": "索菲亚进入神人类讲座结构",
+                "summaryZh": "讲座中关于世界灵魂和神圣智慧的讨论把 Sophia 置于神、世界和人类统一的中介位置，为后来的俄国索菲亚学提供概念源头。",
+                "sourceIds": [
+                  "S012"
+                ],
+                "source": {
+                  "workId": "solovyov-lectures-divine-humanity",
+                  "locator": "Lectures on Divine Humanity, Lecture 7, Sophia and world soul discussion",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "vladimir-solovyov:evidence:012",
+                "titleZh": "善的证明把宗教目标接回世界",
+                "summaryZh": "《善的证明》最终并不满足于个人修德，而把善的实现推向宗教化的人类整体，这与讲座中的神人类和索菲亚方向相互支撑。",
+                "sourceIds": [
+                  "S011",
+                  "S010"
+                ],
+                "source": {
+                  "workId": "solovyov-justification-of-the-good",
+                  "locator": "The Justification of the Good, final chapters on the moral order and religion",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
 }
