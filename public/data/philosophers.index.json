@@ -19879,7 +19879,7 @@
   },
   {
     "id": "alexander-herzen",
-    "tier": "seed",
+    "tier": "standard",
     "names": {
       "zh": "赫尔岑",
       "en": "Alexander Herzen",
@@ -20202,7 +20202,7 @@
   },
   {
     "id": "nikolai-fedorov",
-    "tier": "seed",
+    "tier": "standard",
     "names": {
       "zh": "费奥多罗夫",
       "en": "Nikolai Fedorov",

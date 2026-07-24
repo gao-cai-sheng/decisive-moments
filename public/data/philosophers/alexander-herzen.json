@@ -1,6 +1,6 @@
 {
   "id": "alexander-herzen",
-  "tier": "seed",
+  "tier": "standard",
   "names": {
     "zh": "赫尔岑",
     "en": "Alexander Herzen",
@@ -36,21 +36,399 @@
   "oneLineZh": "俄国西化派与流亡思想家，以个人自由、农民社会主义和俄国现代化问题著称。",
   "influenceWeight": 3,
   "reviewStatus": "draft",
-  "summaryZh": "赫尔岑把黑格尔主义、费尔巴哈人本主义和俄国社会现实结合起来，形成对农民公社、个人自由和社会道路的独特思考。本 seed 档记录其思想家身份、代表作《往事与随想》及俄国思想传统位置。",
+  "summaryZh": "赫尔岑把俄国思想史写成自由意识在专制、流放、文学和社会运动中逐步形成的过程。他既继承西化派和黑格尔主义训练，又不把欧洲1848年的失败当成可复制模板；其核心问题转向个人自由、农民公社、批判文学和流亡出版如何为俄国开出不同于资产阶级国家和斯拉夫派复古的社会主义道路。",
   "works": [
     "herzen-my-past-and-thoughts",
-    "herzen-russian-revolutionary-ideas"
+    "herzen-russian-revolutionary-ideas",
+    "herzen-from-the-other-shore",
+    "herzen-russian-people-and-socialism"
   ],
   "sourceNotes": [
     {
-      "label": "W11-B1-S007",
+      "label": "S003",
       "url": "https://iep.utm.edu/russian/",
-      "noteZh": "IEP Russian Philosophy 总论用于核验19世纪俄国思想与政治问题纠缠的总体语境。"
+      "noteZh": "核验 Herzen 在俄国广义哲学史、政治思想和社会问题中的位置。"
     },
     {
-      "label": "W11-B1-S008",
-      "url": "https://www.britannica.com/biography/Aleksandr-Ivanovich-Herzen",
-      "noteZh": "Britannica Herzen 条目用于核验其流亡思想家、作家和俄国社会主义传统中的位置。"
+      "label": "S017",
+      "url": "https://ru.wikisource.org/wiki/О_развитии_революционных_идей_в_России_(Герцен)",
+      "noteZh": "用于校准《论俄国革命思想的发展》的章节结构、文学批判、十二月党人与革命思想线索。"
+    },
+    {
+      "label": "S018",
+      "url": "https://gutenberg.org/cache/epub/78377/pg78377-images.html",
+      "noteZh": "用于校准《往事与随想》第六卷所收政治反思、欧洲革命幻灭和《俄国人民与社会主义》材料。"
+    },
+    {
+      "label": "S020",
+      "url": "https://openlibrary.org/books/OL6211302M/From_the_other_shore",
+      "noteZh": "核验《彼岸书》与《俄国人民与社会主义》在英译书目中作为独立文本合刊，而不是《往事与随想》第六卷内部章节。"
+    },
+    {
+      "label": "S021",
+      "url": "https://altheim.com/lit/herzen-ftos.html",
+      "noteZh": "用于校准《彼岸书》英译目录章题与《俄国人民与社会主义》合刊结构。"
     }
-  ]
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "alexander-herzen:problem:001",
+        "titleZh": "怎样写俄国革命思想史？",
+        "questionZh": "赫尔岑如何把俄国历史、文学和十二月党人传统组织成自由意识的发展线索？",
+        "summaryZh": "《论俄国革命思想的发展》把俄国现代问题写成一种尚未完成的社会胚胎史：国家、贵族、大学、文学和十二月党人共同构成思想觉醒的场域，革命意识由此不是外来口号，而是俄国经验内部的结果。",
+        "themeIds": [
+          "politics",
+          "freedom",
+          "knowledge"
+        ],
+        "weight": 3,
+        "sourceIds": [
+          "S017",
+          "S019",
+          "S020",
+          "S021"
+        ],
+        "claims": [
+          {
+            "id": "alexander-herzen:claim:001",
+            "titleZh": "落后也可能孕育未来",
+            "claimZh": "赫尔岑把俄国历史写成未完成的胚胎状态，使落后既是批判对象，也是未来道路尚未封闭的条件。",
+            "explanationZh": "他不接受斯拉夫派对过去的理想化，也不把俄国简单排除在现代之外；俄国尚未完全成形，意味着它可能绕开欧洲已僵化的社会形式。",
+            "themeIds": [
+              "politics",
+              "freedom"
+            ],
+            "weight": 3,
+            "sourceIds": [
+              "S017",
+              "S019",
+              "S020",
+              "S021"
+            ],
+            "evidence": [
+              {
+                "id": "alexander-herzen:evidence:001",
+                "titleZh": "边境对比作为历史寓言",
+                "summaryZh": "全书引言以离开俄国时经过俄罗斯与利夫兰边境的对比开场，把未完成、破败和未来萌芽并置，显示赫尔岑用空间经验开启历史判断。",
+                "sourceIds": [
+                  "S017",
+                  "S020",
+                  "S021"
+                ],
+                "source": {
+                  "workId": "herzen-russian-revolutionary-ideas",
+                  "locator": "On the Development of Revolutionary Ideas in Russia, Introduction, opening border scene",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "alexander-herzen:evidence:002",
+                "titleZh": "俄国史是国家胚胎发育",
+                "summaryZh": "第二章论彼得以前的俄国时，把俄国历史概括为斯拉夫国家的胚胎发展，并说真正历史只在1812年后展开；这让落后成为解释自由意识迟到的结构条件。",
+                "sourceIds": [
+                  "S017",
+                  "S019",
+                  "S020",
+                  "S021"
+                ],
+                "source": {
+                  "workId": "herzen-russian-revolutionary-ideas",
+                  "locator": "On the Development of Revolutionary Ideas in Russia, ch. II, Russia before Peter I",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "alexander-herzen:claim:002",
+            "titleZh": "文学承载公共意识",
+            "claimZh": "在赫尔岑那里，十二月党人之后的文学不是附属文艺现象，而是俄国公共批判和自由意识的主要载体。",
+            "explanationZh": "尼古拉一世的审查和大学压制使专业政治空间萎缩，文学、批评和知识圈承担了保存自由语言、审判现实和准备社会思想的功能。",
+            "themeIds": [
+              "knowledge",
+              "freedom",
+              "politics"
+            ],
+            "weight": 2,
+            "sourceIds": [
+              "S017",
+              "S019",
+              "S020",
+              "S021"
+            ],
+            "evidence": [
+              {
+                "id": "alexander-herzen:evidence:003",
+                "titleZh": "十二月党人后的思想复苏",
+                "summaryZh": "第五章讨论1825年12月14日之后的文学和舆论，描述镇压后需要多年才在奴役气氛中恢复思想活动；文学成为被压制社会重新说话的路径。",
+                "sourceIds": [
+                  "S017",
+                  "S020",
+                  "S021"
+                ],
+                "source": {
+                  "workId": "herzen-russian-revolutionary-ideas",
+                  "locator": "On the Development of Revolutionary Ideas in Russia, ch. V, literature and public opinion after 14 December 1825",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "alexander-herzen:evidence:004",
+                "titleZh": "俄国文学写成控诉书",
+                "summaryZh": "后文称俄国文学对俄国生活构成伟大的控诉书，以痛苦忏悔和尖锐讽刺使现实蒙羞；这表明文学在赫尔岑那里具有政治批判和社会救助功能。",
+                "sourceIds": [
+                  "S017",
+                  "S019",
+                  "S020",
+                  "S021"
+                ],
+                "source": {
+                  "workId": "herzen-russian-revolutionary-ideas",
+                  "locator": "On the Development of Revolutionary Ideas in Russia, ch. V, paragraphs on Russian literature as indictment",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "alexander-herzen:problem:002",
+        "titleZh": "自由为何高于制度公式？",
+        "questionZh": "赫尔岑怎样从欧洲革命失败和个人流亡经验中反对把自由化约为国家或历史必然？",
+        "summaryZh": "赫尔岑经历1848年后不再把欧洲资产阶级制度视为解放模板。他批判写着自由口号的法律也可能服务国家权力，强调个人尊严、反专制和思想独立必须高于制度招牌。",
+        "themeIds": [
+          "freedom",
+          "politics",
+          "ethics"
+        ],
+        "weight": 2,
+        "sourceIds": [
+          "S017",
+          "S018",
+          "S020",
+          "S021"
+        ],
+        "claims": [
+          {
+            "id": "alexander-herzen:claim:003",
+            "titleZh": "欧洲自由口号会被制度空转",
+            "claimZh": "赫尔岑把1848年后的欧洲经验写成自由、平等、博爱的符号被国家和资产阶级秩序耗空的过程。",
+            "explanationZh": "这使他同简单西化派拉开距离：他仍反对沙皇专制，却不再把法国式或拿破仑式制度形式看成自由本身，制度必须受人的解放需要检验。",
+            "themeIds": [
+              "freedom",
+              "politics"
+            ],
+            "weight": 3,
+            "sourceIds": [
+              "S018",
+              "S020",
+              "S021"
+            ],
+            "evidence": [
+              {
+                "id": "alexander-herzen:evidence:005",
+                "titleZh": "自由平等博爱从信仰变成口号",
+                "summaryZh": "《彼岸书》第二章从1848年革命后的欧洲幻灭切入，把革命理想的衰竭和自由词汇的空洞化连在一起，显示赫尔岑不再把欧洲制度招牌当成自由本身。",
+                "sourceIds": [
+                  "S020",
+                  "S021"
+                ],
+                "source": {
+                  "workId": "herzen-from-the-other-shore",
+                  "locator": "From the Other Shore, ch. II, After the Storm",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "alexander-herzen:evidence:006",
+                "titleZh": "拿破仑法典与沙皇命令同样可压人",
+                "summaryZh": "《俄国人民与社会主义》结尾把沙皇命令和法国法律的开头公式相对照，指出写着人民、自由、平等、博爱等词的法律也可能服务权力并损害臣民。",
+                "sourceIds": [
+                  "S018",
+                  "S020"
+                ],
+                "source": {
+                  "workId": "herzen-russian-people-and-socialism",
+                  "locator": "The Russian People and Socialism, final paragraphs on laws and imperial decrees",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "alexander-herzen:claim:004",
+            "titleZh": "独立思想不能交给历史必然",
+            "claimZh": "赫尔岑反对用国家进步、民族过去或欧洲模式吞没个人判断，要求保留面对现实说真话的自由。",
+            "explanationZh": "他的自由不是抽象意志崇拜，而是人在历史失败、压制和民族神话面前仍能判断、批评和行动的能力；这也是他与斯拉夫派和国家自由主义的共同分界。",
+            "themeIds": [
+              "freedom",
+              "ethics",
+              "knowledge"
+            ],
+            "weight": 2,
+            "sourceIds": [
+              "S017",
+              "S018",
+              "S020",
+              "S021"
+            ],
+            "evidence": [
+              {
+                "id": "alexander-herzen:evidence:007",
+                "titleZh": "不逃向过去",
+                "summaryZh": "《论俄国革命思想的发展》后段说他们不会从现在逃向过去，因为历史最后一页就是当代；这句话把自由判断放在面对现实而非复古安慰之中。",
+                "sourceIds": [
+                  "S017",
+                  "S020",
+                  "S021"
+                ],
+                "source": {
+                  "workId": "herzen-russian-revolutionary-ideas",
+                  "locator": "On the Development of Revolutionary Ideas in Russia, ch. V, paragraphs beginning with present history",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "alexander-herzen:evidence:008",
+                "titleZh": "痛陈农奴制后果不是虚荣",
+                "summaryZh": "同一段落批评掩盖农奴制对人民的腐蚀不是爱而是虚荣，并坚持说出最残酷真理；这说明赫尔岑把自由同诚实批判和道德责任相连。",
+                "sourceIds": [
+                  "S017",
+                  "S019",
+                  "S020",
+                  "S021"
+                ],
+                "source": {
+                  "workId": "herzen-russian-revolutionary-ideas",
+                  "locator": "On the Development of Revolutionary Ideas in Russia, ch. V, paragraphs on serfdom and harsh truths",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "alexander-herzen:problem:003",
+        "titleZh": "农民公社如何支撑社会主义？",
+        "questionZh": "赫尔岑为什么把俄国农民公社看成区别于欧洲资产阶级道路的社会可能性？",
+        "summaryZh": "赫尔岑的社会主义既不是斯拉夫派复古，也不是欧洲制度复制。他把俄国公社、土地习惯和农民对地主/官僚的抵抗理解为可能的非资产阶级基础，同时要求这种可能性经受自由和反农奴制批判。",
+        "themeIds": [
+          "justice",
+          "politics",
+          "freedom"
+        ],
+        "weight": 1,
+        "sourceIds": [
+          "S017",
+          "S018",
+          "S019",
+          "S020",
+          "S021"
+        ],
+        "claims": [
+          {
+            "id": "alexander-herzen:claim:005",
+            "titleZh": "公社提供非资产阶级道路",
+            "claimZh": "俄国农民公社在赫尔岑那里提供一种绕开西欧私有制和资产阶级国家的社会主义起点。",
+            "explanationZh": "他不是把公社当成完美现实，而是把其中的共同土地权利、集体责任和对地主官僚的不信任理解为社会改造的可用材料。",
+            "themeIds": [
+              "justice",
+              "politics"
+            ],
+            "weight": 3,
+            "sourceIds": [
+              "S018",
+              "S019",
+              "S020",
+              "S021"
+            ],
+            "evidence": [
+              {
+                "id": "alexander-herzen:evidence:009",
+                "titleZh": "公社保存农民共同土地观",
+                "summaryZh": "《俄国人民与社会主义》为俄国农民辩护，说明共同土地、村社选举和公社习惯仍是现实社会事实，可作为不同于欧洲资产阶级私有制的社会基础。",
+                "sourceIds": [
+                  "S018",
+                  "S020"
+                ],
+                "source": {
+                  "workId": "herzen-russian-people-and-socialism",
+                  "locator": "The Russian People and Socialism, paragraphs on the village commune and common land",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "alexander-herzen:evidence:010",
+                "titleZh": "土地分配服从公社整体",
+                "summaryZh": "同文注释举科兹洛夫斯基公社购买自由后重新安排土地的案例，说明农民把债务和土地分配交给公社整体承担，而非服从单个出资比例。",
+                "sourceIds": [
+                  "S018",
+                  "S020"
+                ],
+                "source": {
+                  "workId": "herzen-russian-people-and-socialism",
+                  "locator": "The Russian People and Socialism, note on Prince Kozlovsky's commune",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "alexander-herzen:claim:006",
+            "titleZh": "社会主义也可连接论敌",
+            "claimZh": "赫尔岑把社会主义视为可能同斯拉夫派相遇的桥，但这个桥必须穿过对农奴制和专制的批判。",
+            "explanationZh": "他愿意承认斯拉夫派对公社和人民的关注，却反对他们粉饰过去；社会主义只有在说出奴役造成的损害、拒绝皇权神化时才是解放道路。",
+            "themeIds": [
+              "justice",
+              "freedom",
+              "politics"
+            ],
+            "weight": 2,
+            "sourceIds": [
+              "S017",
+              "S019",
+              "S020",
+              "S021"
+            ],
+            "evidence": [
+              {
+                "id": "alexander-herzen:evidence:011",
+                "titleZh": "社会主义是可握手的桥",
+                "summaryZh": "《论俄国革命思想的发展》在转入结语前说，社会主义深刻分裂欧洲，却也是西化派与斯拉夫派可以互相伸手的桥；这显示他寻找共同社会问题基础。",
+                "sourceIds": [
+                  "S017",
+                  "S019",
+                  "S020",
+                  "S021"
+                ],
+                "source": {
+                  "workId": "herzen-russian-revolutionary-ideas",
+                  "locator": "On the Development of Revolutionary Ideas in Russia, end of ch. V before Epilogue",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "alexander-herzen:evidence:012",
+                "titleZh": "反对把人民痛苦装饰成田园",
+                "summaryZh": "同章批评斯拉夫派宁愿看弗拉基米尔时代传说，不愿面对农奴制下被贵族和政府掠夺、鞭打、出卖的农民；这使他的社会主义必须同时反复古和反专制。",
+                "sourceIds": [
+                  "S017",
+                  "S020",
+                  "S021"
+                ],
+                "source": {
+                  "workId": "herzen-russian-revolutionary-ideas",
+                  "locator": "On the Development of Revolutionary Ideas in Russia, ch. V, paragraphs on serfdom and Slavophiles",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
 }

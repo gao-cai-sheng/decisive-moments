@@ -9668,6 +9668,22 @@
     "noteZh": "赫尔岑关于俄国思想道路与社会变革传统的代表性论述。"
   },
   {
+    "id": "herzen-from-the-other-shore",
+    "philosopherId": "alexander-herzen",
+    "titleZh": "彼岸书",
+    "titleEn": "From the Other Shore",
+    "originalTitle": "С того берега",
+    "noteZh": "赫尔岑1848年后欧洲革命幻灭与自由问题的独立著作。"
+  },
+  {
+    "id": "herzen-russian-people-and-socialism",
+    "philosopherId": "alexander-herzen",
+    "titleZh": "俄国人民与社会主义",
+    "titleEn": "The Russian People and Socialism",
+    "originalTitle": "Русский народ и социализм",
+    "noteZh": "赫尔岑1851年致儒勒·米什莱的公开信，集中讨论俄国人民、公社与社会主义问题。"
+  },
+  {
     "id": "bakunin-statism-and-anarchy",
     "philosopherId": "mikhail-bakunin",
     "titleZh": "国家制度与无政府状态",

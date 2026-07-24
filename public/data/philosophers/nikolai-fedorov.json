@@ -1,6 +1,6 @@
 {
   "id": "nikolai-fedorov",
-  "tier": "seed",
+  "tier": "standard",
   "names": {
     "zh": "费奥多罗夫",
     "en": "Nikolai Fedorov",
@@ -35,15 +35,367 @@
   "oneLineZh": "俄国宇宙主义先驱，以《共同事业的哲学》把人类联合、科学与复活论联结起来。",
   "influenceWeight": 3,
   "reviewStatus": "draft",
-  "summaryZh": "费奥多罗夫的《共同事业的哲学》把人类共同任务、科学实践、祖先复活和宇宙主义组织成独特宗教哲学。本 seed 档记录其身份层，并把与陀思妥耶夫斯基的关系标为费氏对陀氏问题意识的影响方向。",
+  "summaryZh": "费奥多罗夫把哲学改写为全人类共同事业：知识、技术、博物馆和国家组织都应服务于使分裂的人类重新联合，并把死亡从自然命运转化为待克服的共同任务。他的复活论不是私人长生愿望，而是儿女对父辈的责任、科学对盲目自然的调控，以及地球与宇宙尺度的人类实践。",
   "works": [
     "fedorov-philosophy-common-task"
   ],
   "sourceNotes": [
     {
-      "label": "W11-B2-S007",
+      "label": "S013",
       "url": "https://iep.utm.edu/fedorov/",
-      "noteZh": "IEP Fedorov 条目用于核验其共同事业哲学、俄国宇宙主义和复活论口径。"
+      "noteZh": "核验 Fedorov 共同事业哲学、祖先复活、博物馆和俄国宇宙主义口径。"
+    },
+    {
+      "label": "S014",
+      "url": "https://monoskop.org/images/0/0e/Fedorov_Nikolai_What_Was_Man_Created_For_1990.pdf",
+      "noteZh": "用于校准《共同事业的哲学》选本中共同事业、复活、博物馆和自然调控的文本定位。"
+    },
+    {
+      "label": "S015",
+      "url": "https://www.regels.ru/N-Fedorov-1/",
+      "noteZh": "核验 Koutaissoff & Minto 英译 What Was Man Created For? 的目录：The Philosophy of the Common Task Part I-IV、Supramoralism、Disarmament、Weather regulation、meteorological/cosmic processes 等。"
     }
-  ]
+  ],
+  "thoughtSystem": {
+    "problems": [
+      {
+        "id": "nikolai-fedorov:problem:001",
+        "titleZh": "知识为何必须成为共同事业？",
+        "questionZh": "费奥多罗夫为什么反对把哲学、科学和博物馆变成旁观世界的知识制度？",
+        "summaryZh": "费奥多罗夫把知识制度的根本问题定义为旁观性：学校、博物馆和科学若只保存、分类和解释死亡世界，就背叛了人类对父辈和未来的共同责任。",
+        "themeIds": [
+          "knowledge",
+          "ethics",
+          "life_death"
+        ],
+        "weight": 3,
+        "sourceIds": [
+          "S013",
+          "S014",
+          "S015"
+        ],
+        "claims": [
+          {
+            "id": "nikolai-fedorov:claim:001",
+            "titleZh": "哲学应从思辨转向任务",
+            "claimZh": "费奥多罗夫把哲学定义为共同任务的动员，而不是少数人对世界的旁观解释。",
+            "explanationZh": "他的思想核心不是某个单独学说，而是改造知识的用途：认识自然、历史和人类分裂，是为了组织所有人参与克服死亡和恢复亲属关系。",
+            "themeIds": [
+              "knowledge",
+              "ethics"
+            ],
+            "weight": 3,
+            "sourceIds": [
+              "S013",
+              "S014",
+              "S015"
+            ],
+            "evidence": [
+              {
+                "id": "nikolai-fedorov:evidence:001",
+                "titleZh": "共同事业反对知识阶层隔离",
+                "summaryZh": "《共同事业的哲学》选本中“问题的兄弟性或亲属性”把有学问者与无学问者分裂视为现代知识病症，要求知识回到所有人的共同任务。",
+                "sourceIds": [
+                  "S014",
+                  "S013",
+                  "S015"
+                ],
+                "source": {
+                  "workId": "fedorov-philosophy-common-task",
+                  "locator": "The Philosophy of the Common Task, The Question of Brotherhood or Kinship",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "nikolai-fedorov:evidence:002",
+                "titleZh": "知识必须指向行动",
+                "summaryZh": "同一问题框架把理论与实践的分裂看成不亲属状态的表现，真正知识应把人类重新组织为共同劳动者，而不是把世界留给自然盲力。",
+                "sourceIds": [
+                  "S014",
+                  "S015"
+                ],
+                "source": {
+                  "workId": "fedorov-philosophy-common-task",
+                  "locator": "The Philosophy of the Common Task, The Question of Brotherhood or Kinship, section on knowledge and action",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "nikolai-fedorov:claim:002",
+            "titleZh": "博物馆应服务复活任务",
+            "claimZh": "博物馆在费奥多罗夫那里不是收藏死物的机构，而是保存父辈、组织记忆和准备复活工作的公共机关。",
+            "explanationZh": "他把博物馆从文化机构改写为宇宙主义实践场所：记忆、档案、科学和教育都要面向使过去重新进入共同生命。",
+            "themeIds": [
+              "knowledge",
+              "life_death",
+              "religion"
+            ],
+            "weight": 2,
+            "sourceIds": [
+              "S013",
+              "S014",
+              "S015"
+            ],
+            "evidence": [
+              {
+                "id": "nikolai-fedorov:evidence:003",
+                "titleZh": "博物馆连接记忆和行动",
+                "summaryZh": "选本中“博物馆及其意义和使命”把博物馆解释为人类记忆中心，但记忆的目标不是怀旧，而是组织对死者的实际责任。",
+                "sourceIds": [
+                  "S014",
+                  "S015"
+                ],
+                "source": {
+                  "workId": "fedorov-philosophy-common-task",
+                  "locator": "The Philosophy of the Common Task, The Museum, Its Meaning and Mission",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "nikolai-fedorov:evidence:004",
+                "titleZh": "教育不应只培养旁观者",
+                "summaryZh": "博物馆论同时批评学校和学术知识把人培养成旁观者，主张教育应让每个人进入保存祖先、研究自然并参与共同事业的任务网络。",
+                "sourceIds": [
+                  "S014",
+                  "S013",
+                  "S015"
+                ],
+                "source": {
+                  "workId": "fedorov-philosophy-common-task",
+                  "locator": "The Philosophy of the Common Task, The Museum, Its Meaning and Mission, section on schools and education",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "nikolai-fedorov:problem:002",
+        "titleZh": "复活为何是儿女的责任？",
+        "questionZh": "费奥多罗夫怎样把复活从神迹期待改写为全人类对父辈的共同义务？",
+        "summaryZh": "费奥多罗夫的复活论不是个人不死的愿望，而是伦理和宗教义务：活人从死者那里获得生命、语言和世界，因此必须把全部知识和劳动转向使父辈复活。",
+        "themeIds": [
+          "life_death",
+          "religion",
+          "ethics"
+        ],
+        "weight": 2,
+        "sourceIds": [
+          "S013",
+          "S014",
+          "S015"
+        ],
+        "claims": [
+          {
+            "id": "nikolai-fedorov:claim:003",
+            "titleZh": "死亡是共同敌人",
+            "claimZh": "费奥多罗夫把死亡理解为所有人类共同面对的非亲属状态，而不是各人只能私自接受的自然事实。",
+            "explanationZh": "他的激进处在于拒绝把死亡神圣化或自然化；如果死亡是所有人同所有父辈关系的断裂，那么政治、科学和宗教都必须围绕克服死亡重组。",
+            "themeIds": [
+              "life_death",
+              "religion"
+            ],
+            "weight": 3,
+            "sourceIds": [
+              "S013",
+              "S014",
+              "S015"
+            ],
+            "evidence": [
+              {
+                "id": "nikolai-fedorov:evidence:005",
+                "titleZh": "复活是共同任务而非私人救赎",
+                "summaryZh": "《共同事业的哲学》Part I 把共同任务提出为全人类问题，强调不是个人逃离死亡，而是所有儿女联合起来恢复所有父辈的生命。",
+                "sourceIds": [
+                  "S014",
+                  "S015"
+                ],
+                "source": {
+                  "workId": "fedorov-philosophy-common-task",
+                  "locator": "The Philosophy of the Common Task, Part I",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "nikolai-fedorov:evidence:006",
+                "titleZh": "祖先不是过去对象",
+                "summaryZh": "费奥多罗夫反复把死者称为父辈，说明他们不是研究材料或纪念对象，而是活人负有实际回报义务的亲属根源。",
+                "sourceIds": [
+                  "S014",
+                  "S015"
+                ],
+                "source": {
+                  "workId": "fedorov-philosophy-common-task",
+                  "locator": "The Philosophy of the Common Task, Supramoralism, section on fathers and sons",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "nikolai-fedorov:claim:004",
+            "titleZh": "基督教复活要转为实践",
+            "claimZh": "他把基督教复活信仰理解为命令人类主动参与的任务，而非等待超自然奇迹的被动希望。",
+            "explanationZh": "费奥多罗夫将宗教信仰同科学实践连接起来：信仰给出目标，科学给出手段，人类联合则提供执行主体。",
+            "themeIds": [
+              "religion",
+              "knowledge",
+              "life_death"
+            ],
+            "weight": 2,
+            "sourceIds": [
+              "S013",
+              "S014",
+              "S015"
+            ],
+            "evidence": [
+              {
+                "id": "nikolai-fedorov:evidence:007",
+                "titleZh": "主动复活反对被动末世论",
+                "summaryZh": "《超道德主义》把复活信仰改写为人类必须主动承担的工作，反对仅把复活留给未来神迹或私人末世期待。",
+                "sourceIds": [
+                  "S014",
+                  "S015"
+                ],
+                "source": {
+                  "workId": "fedorov-philosophy-common-task",
+                  "locator": "The Philosophy of the Common Task, Supramoralism, section on active resurrection",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "nikolai-fedorov:evidence:008",
+                "titleZh": "三位一体成为共同事业模型",
+                "summaryZh": "费奥多罗夫把三位一体理解为非混同而合一的亲属模式，借此说明人类共同事业需要所有人联合而不消灭人格差异。",
+                "sourceIds": [
+                  "S014",
+                  "S015"
+                ],
+                "source": {
+                  "workId": "fedorov-philosophy-common-task",
+                  "locator": "The Philosophy of the Common Task, Supramoralism, section on the Trinity",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "nikolai-fedorov:problem:003",
+        "titleZh": "科学如何调控自然和宇宙？",
+        "questionZh": "费奥多罗夫怎样把自然科学、技术和宇宙尺度纳入共同事业？",
+        "summaryZh": "费奥多罗夫不是反科学宗教思想家。他要求科学停止服务战争、奢侈和知识阶层自足，转而调控盲目自然、气候、地球和宇宙条件，为复活和共同生命创造场所。",
+        "themeIds": [
+          "knowledge",
+          "metaphysics",
+          "life_death"
+        ],
+        "weight": 1,
+        "sourceIds": [
+          "S013",
+          "S014",
+          "S015"
+        ],
+        "claims": [
+          {
+            "id": "nikolai-fedorov:claim:005",
+            "titleZh": "自然必须从盲力变成调控对象",
+            "claimZh": "费奥多罗夫要求人类把自然的破坏性和偶然性纳入有意识调控，使自然不再盲目制造死亡。",
+            "explanationZh": "他把科学的最高任务从解释自然改为治理自然；调控并非技术崇拜，而是共同事业在自然界中的实践形式。",
+            "themeIds": [
+              "knowledge",
+              "metaphysics"
+            ],
+            "weight": 3,
+            "sourceIds": [
+              "S013",
+              "S014",
+              "S015"
+            ],
+            "evidence": [
+              {
+                "id": "nikolai-fedorov:evidence:009",
+                "titleZh": "自然调控是共同事业方法",
+                "summaryZh": "《调节天气……今日赐给我们日用饮食》把气象、农业和饥荒问题纳入有意识管理，说明科学应服务所有人的生存和复活准备。",
+                "sourceIds": [
+                  "S014",
+                  "S015"
+                ],
+                "source": {
+                  "workId": "fedorov-philosophy-common-task",
+                  "locator": "The Philosophy of the Common Task, Weather regulation... 'Give us this day our daily bread'",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "nikolai-fedorov:evidence:010",
+                "titleZh": "战争技术应转为自然调控",
+                "summaryZh": "《裁军》批评人类把组织能力用于战争和彼此毁灭，主张把军事式动员能力转向共同对抗自然盲力和死亡。",
+                "sourceIds": [
+                  "S014",
+                  "S015"
+                ],
+                "source": {
+                  "workId": "fedorov-philosophy-common-task",
+                  "locator": "The Philosophy of the Common Task, Disarmament",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          },
+          {
+            "id": "nikolai-fedorov:claim:006",
+            "titleZh": "宇宙主义扩大人类责任场域",
+            "claimZh": "复活所有父辈要求人类走出地球局限，把宇宙空间视为共同事业的未来场域。",
+            "explanationZh": "俄国宇宙主义在费奥多罗夫这里不是探索冲动，而是伦理需求：若所有世代都要复活，人类就必须承担调控地球和进入宇宙的任务。",
+            "themeIds": [
+              "metaphysics",
+              "life_death",
+              "religion"
+            ],
+            "weight": 2,
+            "sourceIds": [
+              "S013",
+              "S014",
+              "S015"
+            ],
+            "evidence": [
+              {
+                "id": "nikolai-fedorov:evidence:011",
+                "titleZh": "地球不是共同事业终点",
+                "summaryZh": "《论气象过程与宇宙过程的统一》把地球气候和宇宙条件放在连续责任场域内，说明共同事业不能停在单一地表治理。",
+                "sourceIds": [
+                  "S014",
+                  "S015"
+                ],
+                "source": {
+                  "workId": "fedorov-philosophy-common-task",
+                  "locator": "The Philosophy of the Common Task, On the unity of the meteorological and cosmic processes",
+                  "excerptStatus": "summary_only"
+                }
+              },
+              {
+                "id": "nikolai-fedorov:evidence:012",
+                "titleZh": "宇宙尺度来自亲属伦理",
+                "summaryZh": "《共同事业的哲学》Part IV 把复活所有祖先的目标同扩大人类活动场域相连，显示宇宙主义是亲属伦理的延伸而非科技装饰。",
+                "sourceIds": [
+                  "S014",
+                  "S015"
+                ],
+                "source": {
+                  "workId": "fedorov-philosophy-common-task",
+                  "locator": "The Philosophy of the Common Task, Part IV",
+                  "excerptStatus": "summary_only"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
 }
