@@ -23,9 +23,12 @@
       "justice"
     ],
     "keywordsZh": [
-      "伦理",
-      "政治",
-      "正义"
+      "仁",
+      "礼",
+      "君子",
+      "忠恕",
+      "德治",
+      "正名"
     ],
     "keywordsEn": [
       "ethics",
@@ -62,9 +65,11 @@
       "life_death"
     ],
     "keywordsZh": [
-      "形而上学",
-      "政治",
-      "生死"
+      "道",
+      "无为",
+      "自然",
+      "无名",
+      "生而不有"
     ],
     "keywordsEn": [
       "metaphysics",
@@ -101,9 +106,11 @@
       "life_death"
     ],
     "keywordsZh": [
-      "自由",
-      "语言",
-      "生死"
+      "逍遥",
+      "齐物",
+      "心斋",
+      "无待",
+      "齐生死"
     ],
     "keywordsEn": [
       "freedom",
@@ -140,11 +147,13 @@
       "justice"
     ],
     "keywordsZh": [
-      "伦理",
-      "政治",
-      "正义"
+      "兼爱",
+      "非攻",
+      "尚贤",
+      "尚同",
+      "天志"
     ],
-    "oneLineZh": "墨子是伦理、政治问题谱系中的第一版候选哲人。",
+    "oneLineZh": "以兼爱与兴利除害重构伦理，并用尚贤尚同与天志建立公共规范。",
     "influenceWeight": 1,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -173,11 +182,13 @@
       "justice"
     ],
     "keywordsZh": [
-      "伦理",
-      "政治",
-      "正义"
+      "性善",
+      "四端",
+      "仁政",
+      "民本",
+      "义利之辨"
     ],
-    "oneLineZh": "孟子是伦理、政治问题谱系中的第一版候选哲人。",
+    "oneLineZh": "以四端性善论证仁政王道，把民本与义利之辨置于政治正当性核心。",
     "influenceWeight": 1,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -206,11 +217,13 @@
       "justice"
     ],
     "keywordsZh": [
-      "伦理",
-      "政治",
-      "正义"
+      "性恶",
+      "礼义",
+      "伪",
+      "正名",
+      "天人之分"
     ],
-    "oneLineZh": "荀子是伦理、政治问题谱系中的第一版候选哲人。",
+    "oneLineZh": "主张性恶须以礼义之伪转化，用正名与礼法组织欲望与社会秩序。",
     "influenceWeight": 2,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -239,11 +252,13 @@
       "justice"
     ],
     "keywordsZh": [
-      "伦理",
-      "政治",
-      "正义"
+      "良知",
+      "知行合一",
+      "致良知",
+      "心即理",
+      "《传习录》"
     ],
-    "oneLineZh": "王阳明是伦理、政治问题谱系中的第一版候选哲人。",
+    "oneLineZh": "以良知内在不假外求，用知行合一把格物改写为致良知于事事物物。",
     "influenceWeight": 1,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -272,11 +287,13 @@
       "justice"
     ],
     "keywordsZh": [
-      "伦理",
-      "政治",
-      "正义"
+      "天理",
+      "格物致知",
+      "理气",
+      "居敬穷理",
+      "《四书章句集注》"
     ],
-    "oneLineZh": "朱熹是伦理、政治问题谱系中的第一版候选哲人。",
+    "oneLineZh": "以格物穷理把天理化为可学工夫，并强调知行相须与君主正心治国。",
     "influenceWeight": 1,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -305,11 +322,13 @@
       "justice"
     ],
     "keywordsZh": [
-      "伦理",
-      "政治",
-      "正义"
+      "白话文",
+      "实验主义",
+      "整理国故",
+      "容忍",
+      "问题与主义"
     ],
-    "oneLineZh": "胡适是伦理、政治问题谱系中的第一版候选哲人。",
+    "oneLineZh": "以白话文学与大胆假设小心求证，把容忍批评建成公共试错机制。",
     "influenceWeight": 1,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -338,11 +357,13 @@
       "justice"
     ],
     "keywordsZh": [
-      "伦理",
-      "政治",
-      "正义"
+      "文化比较",
+      "乡村建设",
+      "伦理本位",
+      "意欲",
+      "东西文化"
     ],
-    "oneLineZh": "梁漱溟是伦理、政治问题谱系中的第一版候选哲人。",
+    "oneLineZh": "从意欲方向比较中西文化，主张以乡村伦理与教育重建中国社会秩序。",
     "influenceWeight": 1,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -423,11 +444,13 @@
       "life_death"
     ],
     "keywordsZh": [
-      "宗教",
-      "形而上学",
-      "生死"
+      "不害",
+      "五大誓",
+      "多面论",
+      "业",
+      "解脱"
     ],
-    "oneLineZh": "摩诃毗罗是宗教、形而上学问题谱系中的第一版候选哲人。",
+    "oneLineZh": "以不害为伦理核心，用正见正知正行与多面论清除业力通向解脱。",
     "influenceWeight": 1,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -456,11 +479,13 @@
       "life_death"
     ],
     "keywordsZh": [
-      "宗教",
-      "形而上学",
-      "生死"
+      "空性",
+      "缘起",
+      "中观",
+      "自性",
+      "二谛"
     ],
-    "oneLineZh": "龙树是宗教、形而上学问题谱系中的第一版候选哲人。",
+    "oneLineZh": "以缘起即空破除诸法自性，在归谬论证中保全世俗约定与解脱可能。",
     "influenceWeight": 1,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -489,11 +514,13 @@
       "life_death"
     ],
     "keywordsZh": [
-      "宗教",
-      "形而上学",
-      "生死"
+      "唯识",
+      "阿赖耶识",
+      "三性",
+      "五蕴",
+      "种子"
     ],
-    "oneLineZh": "世亲是宗教、形而上学问题谱系中的第一版候选哲人。",
+    "oneLineZh": "以五蕴相续说明无我经验，并用阿赖耶识与三性解释表象与解脱。",
     "influenceWeight": 1,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -522,11 +549,13 @@
       "life_death"
     ],
     "keywordsZh": [
-      "宗教",
-      "形而上学",
-      "生死"
+      "梵我同一",
+      "无明",
+      "叠置",
+      "不二论",
+      "听闻思惟修习"
     ],
-    "oneLineZh": "商羯罗是宗教、形而上学问题谱系中的第一版候选哲人。",
+    "oneLineZh": "以梵我同一与无明叠置解释束缚，主张解脱依赖知识而非行动积累。",
     "influenceWeight": 1,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -555,11 +584,13 @@
       "life_death"
     ],
     "keywordsZh": [
-      "宗教",
-      "形而上学",
-      "生死"
+      "限制不二",
+      "虔信",
+      "皈依",
+      "有属性梵",
+      "身体—灵魂"
     ],
-    "oneLineZh": "罗摩奴阇是宗教、形而上学问题谱系中的第一版候选哲人。",
+    "oneLineZh": "主张有属性的最高神统摄灵魂与世界，以虔信与皈依通向解脱亲近。",
     "influenceWeight": 2,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -588,11 +619,13 @@
       "life_death"
     ],
     "keywordsZh": [
-      "宗教",
-      "形而上学",
-      "生死"
+      "人格主义",
+      "创造",
+      "教育",
+      "世界主义",
+      "有限与无限"
     ],
-    "oneLineZh": "泰戈尔是宗教、形而上学问题谱系中的第一版候选哲人。",
+    "oneLineZh": "把宗教理解为有限自我在爱与创造中实现无限，并批判排他民族主义。",
     "influenceWeight": 1,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -621,11 +654,13 @@
       "life_death"
     ],
     "keywordsZh": [
-      "宗教",
-      "形而上学",
-      "生死"
+      "真理坚执",
+      "非暴力",
+      "自治",
+      "建设性纲领",
+      "自愿受苦"
     ],
-    "oneLineZh": "甘地是宗教、形而上学问题谱系中的第一版候选哲人。",
+    "oneLineZh": "以真理实验与非暴力把政治变成自我统治，并用建设性纲领改造社会。",
     "influenceWeight": 1,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -654,11 +689,13 @@
       "life_death"
     ],
     "keywordsZh": [
-      "宗教",
-      "形而上学",
-      "生死"
+      "种姓",
+      "社会民主",
+      "新佛教",
+      "平等",
+      "宪法权利"
     ],
-    "oneLineZh": "安贝德卡尔是宗教、形而上学问题谱系中的第一版候选哲人。",
+    "oneLineZh": "揭开种姓的宗教权威结构，以社会民主与新佛教追求平等公民身份。",
     "influenceWeight": 1,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -687,11 +724,13 @@
       "life_death"
     ],
     "keywordsZh": [
-      "宗教",
-      "形而上学",
-      "生死"
+      "无选择觉察",
+      "心理制约",
+      "观察者即被观察者",
+      "真理无路",
+      "关系"
     ],
-    "oneLineZh": "克里希那穆提是宗教、形而上学问题谱系中的第一版候选哲人。",
+    "oneLineZh": "拒绝宗派权威与既定道路，以无选择觉察拆解心理时间中的自我。",
     "influenceWeight": 1,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -720,11 +759,13 @@
       "knowledge"
     ],
     "keywordsZh": [
-      "伦理",
-      "形而上学",
-      "知识"
+      "本原",
+      "水",
+      "自然解释",
+      "米利都",
+      "万物有灵"
     ],
-    "oneLineZh": "泰勒斯是伦理、形而上学问题谱系中的第一版候选哲人。",
+    "oneLineZh": "以水为自然本原解释多样变化，标志从神话叙事转向一般自然原则。",
     "influenceWeight": 2,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -753,11 +794,13 @@
       "knowledge"
     ],
     "keywordsZh": [
-      "伦理",
-      "形而上学",
-      "知识"
+      "logos",
+      "流变",
+      "对立统一",
+      "火",
+      "共同法"
     ],
-    "oneLineZh": "赫拉克利特是伦理、形而上学问题谱系中的第一版候选哲人。",
+    "oneLineZh": "以 logos 统摄流变与对立，要求灵魂按共同尺度而非私见生活。",
     "influenceWeight": 1,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -786,11 +829,13 @@
       "knowledge"
     ],
     "keywordsZh": [
-      "伦理",
-      "形而上学",
-      "知识"
+      "是者",
+      "真理之路",
+      "意见之路",
+      "一",
+      "非是不可思"
     ],
-    "oneLineZh": "巴门尼德是伦理、形而上学问题谱系中的第一版候选哲人。",
+    "oneLineZh": "从是者不可非是推出生成与分裂不可能，并区分真理路与意见路。",
     "influenceWeight": 1,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -819,11 +864,13 @@
       "knowledge"
     ],
     "keywordsZh": [
-      "伦理",
-      "形而上学",
-      "知识"
+      "无知之知",
+      "德性即知识",
+      "灵魂照料",
+      "对话法",
+      "未经省察的生活"
     ],
-    "oneLineZh": "苏格拉底是伦理、形而上学问题谱系中的第一版候选哲人。",
+    "oneLineZh": "以无知之知开启对话审查，把德性知识与灵魂照料置于财富名誉之上。",
     "influenceWeight": 3,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -852,9 +899,11 @@
       "metaphysics"
     ],
     "keywordsZh": [
-      "正义",
-      "知识",
-      "形而上学"
+      "理念论",
+      "《理想国》",
+      "善的理念",
+      "灵魂三分",
+      "洞穴喻"
     ],
     "keywordsEn": [
       "justice",
@@ -891,9 +940,12 @@
       "politics"
     ],
     "keywordsZh": [
-      "伦理",
-      "形而上学",
-      "政治"
+      "实体",
+      "四因",
+      "目的因",
+      "中道",
+      "eudaimonia",
+      "实践智慧"
     ],
     "keywordsEn": [
       "ethics",
@@ -930,11 +982,13 @@
       "knowledge"
     ],
     "keywordsZh": [
-      "伦理",
-      "形而上学",
-      "知识"
+      "原子与虚空",
+      "心灵宁静",
+      "无痛",
+      "欲望分类",
+      "死亡与我们无关"
     ],
-    "oneLineZh": "伊壁鸠鲁是伦理、形而上学问题谱系中的第一版候选哲人。",
+    "oneLineZh": "用原子论消除神意恐惧，以去除痛苦与心灵宁静定义成熟的快乐。",
     "influenceWeight": 1,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -963,11 +1017,13 @@
       "knowledge"
     ],
     "keywordsZh": [
-      "伦理",
-      "形而上学",
-      "知识"
+      "顺应自然",
+      "德性自足",
+      "印象与同意",
+      "无差别之物",
+      "logos"
     ],
-    "oneLineZh": "芝诺是伦理、形而上学问题谱系中的第一版候选哲人。",
+    "oneLineZh": "以宇宙理性为生活规范，主张唯有德性是善并以同意管理表象冲动。",
     "influenceWeight": 1,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -996,11 +1052,13 @@
       "knowledge"
     ],
     "keywordsZh": [
-      "伦理",
-      "形而上学",
-      "知识"
+      "太一",
+      "流溢",
+      "努斯",
+      "灵魂回归",
+      "美"
     ],
-    "oneLineZh": "普罗提诺是伦理、形而上学问题谱系中的第一版候选哲人。",
+    "oneLineZh": "以太一流溢说明心智与灵魂层级，用美的观照与德性引导灵魂回归。",
     "influenceWeight": 1,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -1029,11 +1087,13 @@
       "knowledge"
     ],
     "keywordsZh": [
-      "伦理",
-      "形而上学",
-      "知识"
+      "新柏拉图主义",
+      "数学",
+      "天文学",
+      "公共教学",
+      "亚历山大"
     ],
-    "oneLineZh": "希帕提娅是伦理、形而上学问题谱系中的第一版候选哲人。",
+    "oneLineZh": "以数学天文与公共教学维系晚期古典哲学教育，并卷入城邦权力暴力。",
     "influenceWeight": 1,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -1062,11 +1122,13 @@
       "ethics"
     ],
     "keywordsZh": [
-      "宗教",
-      "形而上学",
-      "伦理"
+      "恩典",
+      "意志",
+      "恶的缺失",
+      "两座城",
+      "时间与记忆"
     ],
-    "oneLineZh": "奥古斯丁是宗教、形而上学问题谱系中的第一版候选哲人。",
+    "oneLineZh": "以意志背离解释恶的缺失，用恩典更新与两座城之爱划分历史秩序。",
     "influenceWeight": 2,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -1095,11 +1157,13 @@
       "ethics"
     ],
     "keywordsZh": [
-      "宗教",
-      "形而上学",
-      "伦理"
+      "哲学的慰藉",
+      "命运之轮",
+      "永恒",
+      "天意",
+      "真正幸福"
     ],
-    "oneLineZh": "波爱修斯是宗教、形而上学问题谱系中的第一版候选哲人。",
+    "oneLineZh": "以命运之轮消解外物幸福幻觉，用永恒当下调和天意预知与自由选择。",
     "influenceWeight": 1,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -1128,11 +1192,13 @@
       "ethics"
     ],
     "keywordsZh": [
-      "宗教",
-      "形而上学",
-      "伦理"
+      "信仰寻求理解",
+      "本体论论证",
+      "补赎",
+      "最高可设想者",
+      "Proslogion（论证）"
     ],
-    "oneLineZh": "安瑟尔谟是宗教、形而上学问题谱系中的第一版候选哲人。",
+    "oneLineZh": "在信仰寻求理解中提出本体论论证，并以补赎论连接正义与怜悯。",
     "influenceWeight": 1,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -1161,11 +1227,13 @@
       "ethics"
     ],
     "keywordsZh": [
-      "宗教",
-      "形而上学",
-      "伦理"
+      "五路论证",
+      "本质与存在",
+      "自然法",
+      "《神学大全》",
+      "信仰与理性"
     ],
-    "oneLineZh": "托马斯·阿奎那是宗教、形而上学问题谱系中的第一版候选哲人。",
+    "oneLineZh": "以自然理性五路通向上帝，并用本质存在之分与自然法约束政治法律。",
     "influenceWeight": 1,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -1194,11 +1262,13 @@
       "ethics"
     ],
     "keywordsZh": [
-      "宗教",
-      "形而上学",
-      "伦理"
+      "唯名论",
+      "思维经济原则",
+      "直观认识",
+      "全能",
+      "教权边界"
     ],
-    "oneLineZh": "奥卡姆是宗教、形而上学问题谱系中的第一版候选哲人。",
+    "oneLineZh": "以唯名论拒绝共相实体，用神的绝对能力松动形上必然，并论证教权可错有界。",
     "influenceWeight": 1,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -1227,11 +1297,13 @@
       "politics"
     ],
     "keywordsZh": [
-      "知识",
-      "自由",
-      "政治"
+      "人文主义",
+      "内在虔敬",
+      "自由意志",
+      "《愚人颂》",
+      "文本校勘"
     ],
-    "oneLineZh": "伊拉斯谟是知识、自由问题谱系中的第一版候选哲人。",
+    "oneLineZh": "以古典学问与《愚人颂》讽刺，推动福音式内在虔敬与有限自由意志。",
     "influenceWeight": 2,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -1260,11 +1332,13 @@
       "politics"
     ],
     "keywordsZh": [
-      "知识",
-      "自由",
-      "政治"
+      "virtù",
+      "《君主论》",
+      "共和",
+      "恐惧与爱戴",
+      "权力效果"
     ],
-    "oneLineZh": "马基雅维利是知识、自由问题谱系中的第一版候选哲人。",
+    "oneLineZh": "把政治判断从道德劝诫中剥离，以 virtù 与共和冲突解释权力与自由。",
     "influenceWeight": 1,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -1293,11 +1367,13 @@
       "politics"
     ],
     "keywordsZh": [
-      "知识",
-      "自由",
-      "政治"
+      "随笔",
+      "怀疑",
+      "自我书写",
+      "我知道什么",
+      "死亡练习"
     ],
-    "oneLineZh": "蒙田是知识、自由问题谱系中的第一版候选哲人。",
+    "oneLineZh": "以随笔自我书写把怀疑变为生活节制，在死亡意识中训练判断。",
     "influenceWeight": 1,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -1326,11 +1402,13 @@
       "politics"
     ],
     "keywordsZh": [
-      "知识",
-      "自由",
-      "政治"
+      "四偶像",
+      "归纳法",
+      "《新工具》",
+      "实验",
+      "知识即力量"
     ],
-    "oneLineZh": "弗朗西斯·培根是知识、自由问题谱系中的第一版候选哲人。",
+    "oneLineZh": "以四偶像清理认识偏误，用有序归纳与实验把知识变成发现程序。",
     "influenceWeight": 1,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -1359,11 +1437,13 @@
       "politics"
     ],
     "keywordsZh": [
-      "知识",
-      "自由",
-      "政治"
+      "自然状态",
+      "社会契约",
+      "主权",
+      "《利维坦》",
+      "激情"
     ],
-    "oneLineZh": "霍布斯是知识、自由问题谱系中的第一版候选哲人。",
+    "oneLineZh": "从平等脆弱与互不信任推出自然状态，以契约与主权集中换取和平。",
     "influenceWeight": 1,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -1392,11 +1472,13 @@
       "politics"
     ],
     "keywordsZh": [
-      "知识",
-      "自由",
-      "政治"
+      "方法论怀疑",
+      "我思故我在",
+      "心物二元",
+      "清楚分明",
+      "《第一哲学沉思集》"
     ],
-    "oneLineZh": "笛卡尔是知识、自由问题谱系中的第一版候选哲人。",
+    "oneLineZh": "以方法论怀疑确立我思确定性，并用心物二元为清晰科学奠基。",
     "influenceWeight": 3,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -1425,11 +1507,13 @@
       "politics"
     ],
     "keywordsZh": [
-      "知识",
-      "自由",
-      "政治"
+      "实体一元",
+      "神或自然",
+      "样态",
+      "情感几何学",
+      "《伦理学》"
     ],
-    "oneLineZh": "斯宾诺莎是知识、自由问题谱系中的第一版候选哲人。",
+    "oneLineZh": "以神即自然的实体一元论，用几何学方式阐明情感必然与自由。",
     "influenceWeight": 1,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -1458,11 +1542,13 @@
       "politics"
     ],
     "keywordsZh": [
-      "知识",
-      "自由",
-      "政治"
+      "经验论",
+      "白板",
+      "人格同一性",
+      "自然权利",
+      "同意"
     ],
-    "oneLineZh": "洛克是知识、自由问题谱系中的第一版候选哲人。",
+    "oneLineZh": "以经验观念论否定天赋观念，并用同意与自然权利限制政府权力。",
     "influenceWeight": 1,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -1491,11 +1577,13 @@
       "politics"
     ],
     "keywordsZh": [
-      "知识",
-      "自由",
-      "政治"
+      "单子",
+      "预定和谐",
+      "充足理由",
+      "可能世界",
+      "《单子论》"
     ],
-    "oneLineZh": "莱布尼茨是知识、自由问题谱系中的第一版候选哲人。",
+    "oneLineZh": "以无窗单子与预定和谐解释个体实体，并用充足理由说明世界秩序。",
     "influenceWeight": 1,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -1524,11 +1612,13 @@
       "politics"
     ],
     "keywordsZh": [
-      "知识",
-      "自由",
-      "政治"
+      "恒常连接",
+      "归纳怀疑",
+      "印象与观念",
+      "同情",
+      "习惯"
     ],
-    "oneLineZh": "休谟是知识、自由问题谱系中的第一版候选哲人。",
+    "oneLineZh": "把因果还原为恒常连接与习惯，以情感与同情重构道德与宗教审查。",
     "influenceWeight": 3,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -1557,11 +1647,13 @@
       "politics"
     ],
     "keywordsZh": [
-      "知识",
-      "自由",
-      "政治"
+      "公意",
+      "人民主权",
+      "自然状态",
+      "《社会契约论》",
+      "不平等"
     ],
-    "oneLineZh": "卢梭是知识、自由问题谱系中的第一版候选哲人。",
+    "oneLineZh": "以自然人假说批判文明不平等，用公意与人民主权重写政治合法性。",
     "influenceWeight": 2,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -1590,9 +1682,11 @@
       "freedom"
     ],
     "keywordsZh": [
-      "知识",
-      "伦理",
-      "自由"
+      "先验观念论",
+      "范畴",
+      "定言命令",
+      "自律",
+      "现象与物自身"
     ],
     "keywordsEn": [
       "knowledge",
@@ -1629,11 +1723,13 @@
       "politics"
     ],
     "keywordsZh": [
-      "知识",
-      "自由",
-      "政治"
+      "辩证法",
+      "承认",
+      "精神现象学",
+      "伦理生活",
+      "绝对精神"
     ],
-    "oneLineZh": "黑格尔是知识、自由问题谱系中的第一版候选哲人。",
+    "oneLineZh": "以否定与承认推动意识历史，把自由落实为伦理生活中的制度整体。",
     "influenceWeight": 3,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -1662,11 +1758,13 @@
       "politics"
     ],
     "keywordsZh": [
-      "知识",
-      "自由",
-      "政治"
+      "意志",
+      "表象",
+      "悲观主义",
+      "同情",
+      "《作为意志和表象的世界》"
     ],
-    "oneLineZh": "叔本华是知识、自由问题谱系中的第一版候选哲人。",
+    "oneLineZh": "以盲目意志解释世界本质与痛苦，在艺术静观与同情中寻找解脱。",
     "influenceWeight": 1,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -1695,11 +1793,13 @@
       "politics"
     ],
     "keywordsZh": [
-      "知识",
-      "自由",
-      "政治"
+      "存在阶段",
+      "信仰之跃",
+      "焦虑",
+      "绝望",
+      "个体"
     ],
-    "oneLineZh": "克尔凯郭尔是知识、自由问题谱系中的第一版候选哲人。",
+    "oneLineZh": "以审美伦理宗教阶段逼出个体选择，把信仰置于伦理普遍性之外。",
     "influenceWeight": 1,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -1728,11 +1828,13 @@
       "politics"
     ],
     "keywordsZh": [
-      "知识",
-      "自由",
-      "政治"
+      "伤害原则",
+      "功利主义",
+      "言论自由",
+      "个性",
+      "代议制"
     ],
-    "oneLineZh": "约翰·密尔是知识、自由问题谱系中的第一版候选哲人。",
+    "oneLineZh": "以伤害原则捍卫个人自由，并把高质量幸福与代议制接入功利主义。",
     "influenceWeight": 2,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -1761,11 +1863,13 @@
       "politics"
     ],
     "keywordsZh": [
-      "知识",
-      "自由",
-      "政治"
+      "唯物史观",
+      "剩余价值",
+      "商品拜物教",
+      "异化",
+      "阶级斗争"
     ],
-    "oneLineZh": "马克思是知识、自由问题谱系中的第一版候选哲人。",
+    "oneLineZh": "从生产关系解释意识，以商品拜物教与剩余价值揭示资本主义剥削。",
     "influenceWeight": 3,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -1794,11 +1898,13 @@
       "politics"
     ],
     "keywordsZh": [
-      "知识",
-      "自由",
-      "政治"
+      "谱系学",
+      "上帝之死",
+      "权力意志",
+      "虚无主义",
+      "重估价值"
     ],
-    "oneLineZh": "尼采是知识、自由问题谱系中的第一版候选哲人。",
+    "oneLineZh": "以谱系学追问道德起源，在上帝之死后用权力意志与视角重估价值。",
     "influenceWeight": 3,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -1827,11 +1933,13 @@
       "politics"
     ],
     "keywordsZh": [
-      "知识",
-      "自由",
-      "政治"
+      "意义与指称",
+      "函数与自变量",
+      "思想",
+      "逻辑主义",
+      "概念文字"
     ],
-    "oneLineZh": "弗雷格是知识、自由问题谱系中的第一版候选哲人。",
+    "oneLineZh": "以函数—自变量与意义/指称区分重建逻辑，推动算术的逻辑基础。",
     "influenceWeight": 1,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -1860,11 +1968,13 @@
       "politics"
     ],
     "keywordsZh": [
-      "知识",
-      "自由",
-      "政治"
+      "意向性",
+      "悬置",
+      "本质直观",
+      "生活世界",
+      "现象学还原"
     ],
-    "oneLineZh": "胡塞尔是知识、自由问题谱系中的第一版候选哲人。",
+    "oneLineZh": "以意向性与现象学还原考察意识显现，并重提生活世界作为科学根基。",
     "influenceWeight": 1,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -1893,11 +2003,13 @@
       "politics"
     ],
     "keywordsZh": [
-      "知识",
-      "自由",
-      "政治"
+      "绵延",
+      "直觉",
+      "生命冲动",
+      "纯粹记忆",
+      "创造进化"
     ],
-    "oneLineZh": "柏格森是知识、自由问题谱系中的第一版候选哲人。",
+    "oneLineZh": "以绵延对抗空间化时间，用直觉把握生命创造与记忆的精神深度。",
     "influenceWeight": 2,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -1926,11 +2038,13 @@
       "ethics"
     ],
     "keywordsZh": [
-      "正义",
-      "政治",
-      "伦理"
+      "探究",
+      "工具主义",
+      "民主即生活方式",
+      "经验",
+      "教育"
     ],
-    "oneLineZh": "杜威是正义、政治问题谱系中的第一版候选哲人。",
+    "oneLineZh": "把知识视为探究工具与后果检验，主张民主是共享经验的生活方式。",
     "influenceWeight": 1,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -1959,11 +2073,13 @@
       "politics"
     ],
     "keywordsZh": [
-      "知识",
-      "自由",
-      "政治"
+      "语言游戏",
+      "用法",
+      "图像论",
+      "家族相似",
+      "哲学治疗"
     ],
-    "oneLineZh": "维特根斯坦是知识、自由问题谱系中的第一版候选哲人。",
+    "oneLineZh": "前期以命题图像划界可说，后期以语言游戏与用法治疗哲学困惑。",
     "influenceWeight": 1,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -1992,11 +2108,13 @@
       "politics"
     ],
     "keywordsZh": [
-      "知识",
-      "自由",
-      "政治"
+      "此在",
+      "存在问题",
+      "在世存在",
+      "向死而在",
+      "上手"
     ],
-    "oneLineZh": "海德格尔是知识、自由问题谱系中的第一版候选哲人。",
+    "oneLineZh": "以此在分析重提存在问题，以在世存在与向死而在开启本真可能。",
     "influenceWeight": 1,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -2025,11 +2143,13 @@
       "politics"
     ],
     "keywordsZh": [
-      "知识",
-      "自由",
-      "政治"
+      "摹状词理论",
+      "逻辑分析",
+      "熟知与描述",
+      "逻辑原子论",
+      "类型论"
     ],
-    "oneLineZh": "罗素是知识、自由问题谱系中的第一版候选哲人。",
+    "oneLineZh": "用逻辑分析与摹状词理论澄清知识，并以可错性批判限制权力迷信。",
     "influenceWeight": 1,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -2058,11 +2178,13 @@
       "politics"
     ],
     "keywordsZh": [
-      "知识",
-      "自由",
-      "政治"
+      "过程哲学",
+      "实际机缘",
+      "摄取",
+      "创造性",
+      "错置具体性"
     ],
-    "oneLineZh": "怀特海是知识、自由问题谱系中的第一版候选哲人。",
+    "oneLineZh": "以实际机缘与摄取替代实体，用过程哲学纠正科学抽象的错置具体性。",
     "influenceWeight": 2,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -2091,11 +2213,13 @@
       "politics"
     ],
     "keywordsZh": [
-      "知识",
-      "自由",
-      "政治"
+      "语言框架",
+      "逻辑句法",
+      "可检验性",
+      "物理主义",
+      "容忍原则"
     ],
-    "oneLineZh": "卡尔纳普是知识、自由问题谱系中的第一版候选哲人。",
+    "oneLineZh": "把传统哲学争论改写为语言框架选择，并以逻辑句法清除伪问题。",
     "influenceWeight": 1,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -2124,11 +2248,13 @@
       "politics"
     ],
     "keywordsZh": [
-      "知识",
-      "自由",
-      "政治"
+      "行动",
+      "公共领域",
+      "极权主义",
+      "平庸之恶",
+      "诞生性"
     ],
-    "oneLineZh": "阿伦特是知识、自由问题谱系中的第一版候选哲人。",
+    "oneLineZh": "以行动与诞生性界定政治自由，并揭示极权如何摧毁共同世界与判断。",
     "influenceWeight": 1,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -2157,11 +2283,13 @@
       "politics"
     ],
     "keywordsZh": [
-      "知识",
-      "自由",
-      "政治"
+      "存在先于本质",
+      "自为",
+      "自欺",
+      "凝视",
+      "绝对自由"
     ],
-    "oneLineZh": "萨特是知识、自由问题谱系中的第一版候选哲人。",
+    "oneLineZh": "主张存在先于本质，以自为虚无与他者凝视把自由写成无法逃避的责任。",
     "influenceWeight": 1,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -2190,11 +2318,13 @@
       "politics"
     ],
     "keywordsZh": [
-      "知识",
-      "自由",
-      "政治"
+      "他者",
+      "处境",
+      "第二性",
+      "性别压迫",
+      "具体自由"
     ],
-    "oneLineZh": "波伏娃是知识、自由问题谱系中的第一版候选哲人。",
+    "oneLineZh": "指出女人是被历史制造的他者，在处境中追问如何实现具体自由。",
     "influenceWeight": 1,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -2223,11 +2353,13 @@
       "politics"
     ],
     "keywordsZh": [
-      "知识",
-      "自由",
-      "政治"
+      "身体图式",
+      "知觉现象学",
+      "肉身",
+      "表达",
+      "具身主体"
     ],
-    "oneLineZh": "梅洛-庞蒂是知识、自由问题谱系中的第一版候选哲人。",
+    "oneLineZh": "以身体图式与知觉场重写主体，使意义在具身表达与世界交织中生成。",
     "influenceWeight": 2,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -2256,11 +2388,13 @@
       "politics"
     ],
     "keywordsZh": [
-      "知识",
-      "自由",
-      "政治"
+      "荒诞",
+      "反抗",
+      "西西弗斯",
+      "限度",
+      "清醒"
     ],
-    "oneLineZh": "加缪是知识、自由问题谱系中的第一版候选哲人。",
+    "oneLineZh": "把荒诞定为意义要求与世界沉默的相遇，并以有限度反抗拒绝新压迫。",
     "influenceWeight": 1,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -2289,11 +2423,13 @@
       "ethics"
     ],
     "keywordsZh": [
-      "正义",
-      "政治",
-      "伦理"
+      "整体论",
+      "分析综合批判",
+      "本体论承诺",
+      "不充分决定",
+      "自然化认识论"
     ],
-    "oneLineZh": "蒯因是正义、政治问题谱系中的第一版候选哲人。",
+    "oneLineZh": "以整体论消解分析综合二分，用量化承诺决定理论的本体论内容。",
     "influenceWeight": 1,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -2323,9 +2459,11 @@
       "ethics"
     ],
     "keywordsZh": [
-      "正义",
-      "政治",
-      "伦理"
+      "原初状态",
+      "无知之幕",
+      "差异原则",
+      "公平正义",
+      "公共理性"
     ],
     "keywordsEn": [
       "justice",
@@ -2362,11 +2500,13 @@
       "ethics"
     ],
     "keywordsZh": [
-      "正义",
-      "政治",
-      "伦理"
+      "最小国家",
+      "资格理论",
+      "权利侧约束",
+      "模式化分配",
+      "乌托邦框架"
     ],
-    "oneLineZh": "诺齐克是正义、政治问题谱系中的第一版候选哲人。",
+    "oneLineZh": "以权利侧约束论证最小国家，用资格正义反对模式化再分配终态。",
     "influenceWeight": 1,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -2395,11 +2535,13 @@
       "politics"
     ],
     "keywordsZh": [
-      "知识",
-      "自由",
-      "政治"
+      "知识—权力",
+      "规训",
+      "谱系学",
+      "全景敞视",
+      "自我技术"
     ],
-    "oneLineZh": "福柯是知识、自由问题谱系中的第一版候选哲人。",
+    "oneLineZh": "用谱系学揭示知识与权力共构主体，以规训与自我技术分析现代治理。",
     "influenceWeight": 2,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -2428,11 +2570,13 @@
       "politics"
     ],
     "keywordsZh": [
-      "知识",
-      "自由",
-      "政治"
+      "延异",
+      "解构",
+      "文字学",
+      "可重复性",
+      "在场形而上学"
     ],
-    "oneLineZh": "德里达是知识、自由问题谱系中的第一版候选哲人。",
+    "oneLineZh": "以延异与可重复书写瓦解在场中心，让解构介入正义与责任的决定。",
     "influenceWeight": 1,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -2460,11 +2604,13 @@
       "politics"
     ],
     "keywordsZh": [
-      "知识",
-      "自由",
-      "政治"
+      "交往理性",
+      "公共领域",
+      "商谈伦理",
+      "生活世界",
+      "系统殖民"
     ],
-    "oneLineZh": "哈贝马斯是知识、自由问题谱系中的第一版候选哲人。",
+    "oneLineZh": "以交往理性对抗系统殖民，用公共商谈重建民主合法性与生活世界。",
     "influenceWeight": 1,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -2492,11 +2638,13 @@
       "freedom"
     ],
     "keywordsZh": [
-      "伦理",
-      "正义",
-      "自由"
+      "利益平等考量",
+      "有效利他",
+      "动物解放",
+      "援助义务",
+      "功利主义"
     ],
-    "oneLineZh": "彼得·辛格是伦理、正义问题谱系中的第一版候选哲人。",
+    "oneLineZh": "以利益平等考量扩展道德圈，要求富裕者以可计算效果回应远方苦难。",
     "influenceWeight": 1,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -2524,11 +2672,13 @@
       "freedom"
     ],
     "keywordsZh": [
-      "伦理",
-      "正义",
-      "自由"
+      "能力进路",
+      "核心能力",
+      "尊严",
+      "情感",
+      "全球正义"
     ],
-    "oneLineZh": "努斯鲍姆是伦理、正义问题谱系中的第一版候选哲人。",
+    "oneLineZh": "以核心能力门槛衡量正义，并把情感评价接入对脆弱生命的尊严关怀。",
     "influenceWeight": 1,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -2557,11 +2707,13 @@
       "politics"
     ],
     "keywordsZh": [
-      "形而上学",
-      "宗教",
-      "政治"
+      "美德城邦",
+      "流溢",
+      "哲学与宗教",
+      "幸福",
+      "先知想象"
     ],
-    "oneLineZh": "法拉比是形而上学、宗教问题谱系中的第一版候选哲人。",
+    "oneLineZh": "以宇宙流溢秩序为城邦范型，主张哲学首领协调证明真理与宗教象征。",
     "influenceWeight": 2,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -2590,11 +2742,13 @@
       "politics"
     ],
     "keywordsZh": [
-      "形而上学",
-      "宗教",
-      "政治"
+      "本质与存在",
+      "必然存在者",
+      "悬浮人",
+      "主动理智",
+      "灵魂"
     ],
-    "oneLineZh": "伊本·西那是形而上学、宗教问题谱系中的第一版候选哲人。",
+    "oneLineZh": "以本质与存在之分为核心，用必然存在者与悬浮人论证支撑灵魂独立。",
     "influenceWeight": 1,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -2623,11 +2777,13 @@
       "politics"
     ],
     "keywordsZh": [
-      "形而上学",
-      "宗教",
-      "政治"
+      "哲学家的矛盾",
+      "习惯因果",
+      "内心确信",
+      "复兴宗教学",
+      "苏非实践"
     ],
-    "oneLineZh": "安萨里是形而上学、宗教问题谱系中的第一版候选哲人。",
+    "oneLineZh": "限定哲学证明边界并批判必然因果，主张确信须经修行净化而获得。",
     "influenceWeight": 1,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -2656,11 +2812,13 @@
       "politics"
     ],
     "keywordsZh": [
-      "形而上学",
-      "宗教",
-      "政治"
+      "证明性理性",
+      "亚里士多德注释",
+      "自然因果",
+      "经文解释",
+      "证明"
     ],
-    "oneLineZh": "伊本·鲁世德是形而上学、宗教问题谱系中的第一版候选哲人。",
+    "oneLineZh": "捍卫亚里士多德与自然因果，主张证明与律法可借经文解释相互协调。",
     "influenceWeight": 1,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -2689,11 +2847,13 @@
       "politics"
     ],
     "keywordsZh": [
-      "形而上学",
-      "宗教",
-      "政治"
+      "存在优先",
+      "存在等级",
+      "实体运动",
+      "知识即存在",
+      "超验神智"
     ],
-    "oneLineZh": "穆拉·萨德拉是形而上学、宗教问题谱系中的第一版候选哲人。",
+    "oneLineZh": "主张存在优先并有强弱层级，以实体运动与知识存在化贯通哲学灵修。",
     "influenceWeight": 1,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -2722,11 +2882,13 @@
       "language"
     ],
     "keywordsZh": [
-      "宗教",
-      "伦理",
-      "语言"
+      "理性与启示",
+      "创造论",
+      "诫命",
+      "卡拉姆",
+      "信仰确证"
     ],
-    "oneLineZh": "萨阿迪亚·高昂是宗教、伦理问题谱系中的第一版候选哲人。",
+    "oneLineZh": "用理性论证护持启示信仰，以创造论与诫命实践巩固共同体确信。",
     "influenceWeight": 2,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -2755,11 +2917,13 @@
       "language"
     ],
     "keywordsZh": [
-      "宗教",
-      "伦理",
-      "语言"
+      "否定神学",
+      "《迷途指津》",
+      "律法目的",
+      "寓意解释",
+      "理智完善"
     ],
-    "oneLineZh": "迈蒙尼德是宗教、伦理问题谱系中的第一版候选哲人。",
+    "oneLineZh": "以否定神学约束对神的言说，并让律法同时服务理智完善与政治秩序。",
     "influenceWeight": 1,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -2788,11 +2952,13 @@
       "language"
     ],
     "keywordsZh": [
-      "宗教",
-      "伦理",
-      "语言"
+      "我—你",
+      "我—它",
+      "对话",
+      "永恒之你",
+      "共同体"
     ],
-    "oneLineZh": "布伯是宗教、伦理问题谱系中的第一版候选哲人。",
+    "oneLineZh": "以我—你直接关系定义真实存在，把对话与共同体置于对象化生活之先。",
     "influenceWeight": 1,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -2821,11 +2987,13 @@
       "language"
     ],
     "keywordsZh": [
-      "宗教",
-      "伦理",
-      "语言"
+      "面容",
+      "他者",
+      "无限责任",
+      "总体性",
+      "言说"
     ],
-    "oneLineZh": "列维纳斯是宗教、伦理问题谱系中的第一版候选哲人。",
+    "oneLineZh": "主张他者面容先于总体化认识，把无限责任写成语言与伦理的起点。",
     "influenceWeight": 1,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -2854,11 +3022,13 @@
       "ethics"
     ],
     "keywordsZh": [
-      "宗教",
-      "审美",
-      "伦理"
+      "修证一如",
+      "只管打坐",
+      "有时",
+      "佛性",
+      "《正法眼藏》"
     ],
-    "oneLineZh": "道元是宗教、审美问题谱系中的第一版候选哲人。",
+    "oneLineZh": "主张修证一如，以只管打坐与有时思想让佛性在当下实践中显现。",
     "influenceWeight": 1,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -2887,11 +3057,13 @@
       "ethics"
     ],
     "keywordsZh": [
-      "宗教",
-      "审美",
-      "伦理"
+      "纯粹经验",
+      "场所逻辑",
+      "绝对无",
+      "自我限定",
+      "京都学派"
     ],
-    "oneLineZh": "西田几多郎是宗教、审美问题谱系中的第一版候选哲人。",
+    "oneLineZh": "以纯粹经验先于主客分裂，用场所逻辑与绝对无重写自我与实在。",
     "influenceWeight": 2,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -2920,11 +3092,13 @@
       "ethics"
     ],
     "keywordsZh": [
-      "宗教",
-      "审美",
-      "伦理"
+      "人间",
+      "风土",
+      "伦理学",
+      "间柄",
+      "共同体"
     ],
-    "oneLineZh": "和辻哲郎是宗教、审美问题谱系中的第一版候选哲人。",
+    "oneLineZh": "从人间双重结构出发重建伦理学，并以风土解释共同生活的历史形态。",
     "influenceWeight": 1,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -2953,11 +3127,13 @@
       "knowledge"
     ],
     "keywordsZh": [
-      "伦理",
-      "政治",
-      "知识"
+      "四端七情",
+      "理气",
+      "敬",
+      "《圣学十图》",
+      "主理"
     ],
-    "oneLineZh": "退溪李滉是伦理、政治问题谱系中的第一版候选哲人。",
+    "oneLineZh": "以四端主理说明道德情感发动，用敬与圣学图示统一君主知行修养。",
     "influenceWeight": 1,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -2986,11 +3162,13 @@
       "knowledge"
     ],
     "keywordsZh": [
-      "伦理",
-      "政治",
-      "知识"
+      "理气妙合",
+      "经世",
+      "圣学",
+      "气质变化",
+      "现实主义"
     ],
-    "oneLineZh": "栗谷李珥是伦理、政治问题谱系中的第一版候选哲人。",
+    "oneLineZh": "强调理气不相离并在气质中成德，把圣学贯通为修身与经世改革。",
     "influenceWeight": 1,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -3019,11 +3197,13 @@
       "politics"
     ],
     "keywordsZh": [
-      "形而上学",
-      "宗教",
-      "政治"
+      "群体凝聚力",
+      "文明",
+      "王朝循环",
+      "历史方法",
+      "《历史绪论》"
     ],
-    "oneLineZh": "伊本·赫勒敦是形而上学、宗教问题谱系中的第一版候选哲人。",
+    "oneLineZh": "以群体凝聚力与文明条件重建史学方法，解释王朝由团结走向奢靡衰败。",
     "influenceWeight": 1,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -3052,11 +3232,13 @@
       "language"
     ],
     "keywordsZh": [
-      "政治",
-      "伦理",
-      "语言"
+      "自然法权利",
+      "心灵无感受性",
+      "概念清晰",
+      "非洲主体",
+      "心身区分"
     ],
-    "oneLineZh": "安东·威廉·阿莫是政治、伦理问题谱系中的第一版候选哲人。",
+    "oneLineZh": "把非洲人在欧洲的权利问题哲学化，并以心灵无感受性澄清心身功能区分。",
     "influenceWeight": 2,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -3085,11 +3267,13 @@
       "language"
     ],
     "keywordsZh": [
-      "政治",
-      "伦理",
-      "语言"
+      "概念去殖民",
+      "共识民主",
+      "文化共相",
+      "阿肯思想",
+      "人格"
     ],
-    "oneLineZh": "夸西·维雷杜是政治、伦理问题谱系中的第一版候选哲人。",
+    "oneLineZh": "以概念去殖民释放非洲语言资源，并用共识民主替代对抗式多数决。",
     "influenceWeight": 1,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -3118,11 +3302,13 @@
       "language"
     ],
     "keywordsZh": [
-      "政治",
-      "伦理",
-      "语言"
+      "黑人性",
+      "节奏",
+      "非洲社会主义",
+      "文化人文主义",
+      "文明对话"
     ],
-    "oneLineZh": "桑戈尔是政治、伦理问题谱系中的第一版候选哲人。",
+    "oneLineZh": "以黑人性肯定被贬抑的文化形式，并把节奏与人文主义写入非洲社会主义。",
     "influenceWeight": 1,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -3150,11 +3336,13 @@
       "language"
     ],
     "keywordsZh": [
-      "政治",
-      "伦理",
-      "语言"
+      "民族哲学批判",
+      "内生知识",
+      "公开争论",
+      "科学自主",
+      "非洲哲学"
     ],
-    "oneLineZh": "洪通吉是政治、伦理问题谱系中的第一版候选哲人。",
+    "oneLineZh": "反对把非洲哲学等同民族世界观，主张内生知识须经公开论证与检验。",
     "influenceWeight": 1,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -3183,11 +3371,13 @@
       "freedom"
     ],
     "keywordsZh": [
-      "政治",
-      "正义",
-      "自由"
+      "解放哲学",
+      "外在性",
+      "跨现代性",
+      "解放伦理",
+      "人民政治"
     ],
-    "oneLineZh": "杜塞尔是政治、正义问题谱系中的第一版候选哲人。",
+    "oneLineZh": "从殖民现代性背面重写哲学起点，以受害者生命与人民权力建构解放伦理。",
     "influenceWeight": 1,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -3216,11 +3406,13 @@
       "freedom"
     ],
     "keywordsZh": [
-      "政治",
-      "正义",
-      "自由"
+      "拉美哲学",
+      "历史意识",
+      "依附",
+      "一体化",
+      "边缘"
     ],
-    "oneLineZh": "塞亚是政治、正义问题谱系中的第一版候选哲人。",
+    "oneLineZh": "把拉美边缘经验升为历史意识，以摆脱精神依附参与界定普遍性问题。",
     "influenceWeight": 2,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -3249,11 +3441,13 @@
       "freedom"
     ],
     "keywordsZh": [
-      "政治",
-      "正义",
-      "自由"
+      "女性求知权",
+      "《答菲洛特亚》",
+      "第一梦",
+      "巴洛克",
+      "殖民地写作"
     ],
-    "oneLineZh": "胡安娜修女是政治、正义问题谱系中的第一版候选哲人。",
+    "oneLineZh": "为女性求知与公共论辩辩护，并以巴洛克梦境诗学勘探有限理智的界限。",
     "influenceWeight": 1,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -3282,11 +3476,13 @@
       "freedom"
     ],
     "keywordsZh": [
-      "伦理",
-      "正义",
-      "自由"
+      "生态女性主义",
+      "支配二元",
+      "生态理性",
+      "人类例外主义",
+      "他者化"
     ],
-    "oneLineZh": "普拉姆伍德是伦理、正义问题谱系中的第一版候选哲人。",
+    "oneLineZh": "批判理性/自然的支配二元，以生态理性与被捕食经验瓦解人类例外论。",
     "influenceWeight": 1,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -3314,11 +3510,13 @@
       "freedom"
     ],
     "keywordsZh": [
-      "伦理",
-      "正义",
-      "自由"
+      "性别操演",
+      "可理解性",
+      "脆弱性",
+      "承认",
+      "言说行为"
     ],
-    "oneLineZh": "巴特勒是伦理、正义问题谱系中的第一版候选哲人。",
+    "oneLineZh": "把性别理解为规范重复的操演效果，并以脆弱生命开启承认与哀悼政治。",
     "influenceWeight": 1,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -3347,11 +3545,13 @@
       "freedom"
     ],
     "keywordsZh": [
-      "伦理",
-      "正义",
-      "自由"
+      "交叉性",
+      "边缘中心",
+      "越界教育",
+      "爱的伦理",
+      "黑人女性主义"
     ],
-    "oneLineZh": "贝尔·胡克斯是伦理、正义问题谱系中的第一版候选哲人。",
+    "oneLineZh": "从种族阶级性别交叉压迫出发，把越界教育与爱写成反支配的伦理实践。",
     "influenceWeight": 1,
     "reviewStatus": "draft",
     "tier": "standard"
@@ -3381,9 +3581,11 @@
       "knowledge"
     ],
     "keywordsZh": [
-      "伦理",
-      "形而上学",
-      "知识"
+      "《宙斯赞歌》",
+      "宇宙理性",
+      "顺从命运",
+      "虔敬",
+      "德性训练"
     ],
     "keywordsEn": [
       "ethics",
@@ -3421,9 +3623,11 @@
       "knowledge"
     ],
     "keywordsZh": [
-      "伦理",
-      "形而上学",
-      "知识"
+      "命题逻辑",
+      "不可证明式",
+      "同意",
+      "命运与责任",
+      "激情即错误判断"
     ],
     "keywordsEn": [
       "ethics",
@@ -3461,9 +3665,11 @@
       "freedom"
     ],
     "keywordsZh": [
-      "伦理",
-      "政治",
-      "自由"
+      "自足",
+      "反习俗",
+      "世界公民",
+      "生活表演",
+      "犬儒训练"
     ],
     "keywordsEn": [
       "ethics",
@@ -3502,9 +3708,11 @@
       "freedom"
     ],
     "keywordsZh": [
-      "伦理",
-      "政治",
-      "自由"
+      "德性自足",
+      "艰苦训练",
+      "名称与定义",
+      "反奢侈",
+      "苏格拉底传统"
     ],
     "keywordsEn": [
       "ethics",
@@ -3542,9 +3750,11 @@
       "knowledge"
     ],
     "keywordsZh": [
-      "形而上学",
-      "伦理",
-      "知识"
+      "数",
+      "比例",
+      "宇宙秩序",
+      "灵魂净化",
+      "共同体纪律"
     ],
     "keywordsEn": [
       "metaphysics",
@@ -3582,9 +3792,11 @@
       "life_death"
     ],
     "keywordsZh": [
-      "形而上学",
-      "知识",
-      "生死"
+      "apeiron",
+      "无定",
+      "对立分化",
+      "自然化解释",
+      "宇宙生成"
     ],
     "keywordsEn": [
       "metaphysics",
@@ -3622,9 +3834,11 @@
       "life_death"
     ],
     "keywordsZh": [
-      "形而上学",
-      "知识",
-      "生死"
+      "气",
+      "凝聚",
+      "稀薄化",
+      "密度变化",
+      "始基"
     ],
     "keywordsEn": [
       "metaphysics",
@@ -3662,9 +3876,11 @@
       "metaphysics"
     ],
     "keywordsZh": [
-      "宗教",
-      "知识",
-      "形而上学"
+      "反拟人神观",
+      "知识限度",
+      "自然证据",
+      "统一神观",
+      "观察推断"
     ],
     "keywordsEn": [
       "religion",
@@ -3702,9 +3918,11 @@
       "religion"
     ],
     "keywordsZh": [
-      "形而上学",
-      "生死",
-      "宗教"
+      "四根",
+      "爱与争斗",
+      "成分重组",
+      "宇宙循环",
+      "净化"
     ],
     "keywordsEn": [
       "metaphysics",
@@ -3742,9 +3960,11 @@
       "politics"
     ],
     "keywordsZh": [
-      "形而上学",
-      "知识",
-      "政治"
+      "Nous",
+      "万物相含",
+      "种子",
+      "分离混合",
+      "自然天象"
     ],
     "keywordsEn": [
       "metaphysics",
@@ -3782,9 +4002,11 @@
       "language"
     ],
     "keywordsZh": [
-      "形而上学",
-      "知识",
-      "语言"
+      "反多论证",
+      "运动悖论",
+      "二分法",
+      "飞矢",
+      "间接证明"
     ],
     "keywordsEn": [
       "metaphysics",
@@ -3823,9 +4045,11 @@
       "ethics"
     ],
     "keywordsZh": [
-      "形而上学",
-      "知识",
-      "伦理"
+      "原子与虚空",
+      "约定性质",
+      "暗昧知识",
+      "euthymia",
+      "结构性质"
     ],
     "keywordsEn": [
       "metaphysics",
@@ -3863,9 +4087,11 @@
       "ethics"
     ],
     "keywordsZh": [
-      "知识",
-      "政治",
-      "伦理"
+      "人是万物尺度",
+      "德性可教",
+      "有益判断",
+      "羞耻与正义",
+      "神学悬置"
     ],
     "keywordsEn": [
       "knowledge",
@@ -3903,9 +4129,11 @@
       "politics"
     ],
     "keywordsZh": [
-      "语言",
-      "知识",
-      "政治"
+      "论非存在",
+      "言辞如药",
+      "《海伦颂》",
+      "说服技艺",
+      "可能性论证"
     ],
     "keywordsEn": [
       "language",
@@ -3943,9 +4171,11 @@
       "freedom"
     ],
     "keywordsZh": [
-      "知识",
-      "伦理",
-      "自由"
+      "悬置判断",
+      "ataraxia",
+      "不可判定",
+      "依显现生活",
+      "反教条"
     ],
     "keywordsEn": [
       "knowledge",
@@ -3983,9 +4213,11 @@
       "life_death"
     ],
     "keywordsZh": [
-      "知识",
-      "伦理",
-      "生死"
+      "植物学",
+      "《性格》",
+      "吕克昂",
+      "原因研究",
+      "品格类型"
     ],
     "keywordsEn": [
       "knowledge",
@@ -4023,9 +4255,11 @@
       "politics"
     ],
     "keywordsZh": [
-      "知识",
-      "伦理",
-      "政治"
+      "可信表象",
+      "反可把握表象",
+      "概率性判断",
+      "反教条",
+      "罗马演说"
     ],
     "keywordsEn": [
       "knowledge",
@@ -4063,9 +4297,11 @@
       "knowledge"
     ],
     "keywordsZh": [
-      "政治",
-      "伦理",
-      "知识"
+      "自然法",
+      "共和国",
+      "拉丁公共理性",
+      "演说家理想",
+      "新学园方法"
     ],
     "keywordsEn": [
       "politics",
@@ -4103,9 +4339,11 @@
       "life_death"
     ],
     "keywordsZh": [
-      "形而上学",
-      "宗教",
-      "生死"
+      "《物性论》",
+      "原子与虚空",
+      "解除宗教恐惧",
+      "死亡与我们无关",
+      "诗歌传道"
     ],
     "keywordsEn": [
       "metaphysics",
@@ -4143,9 +4381,11 @@
       "life_death"
     ],
     "keywordsZh": [
-      "伦理",
-      "自由",
-      "生死"
+      "激情治疗",
+      "论怒",
+      "有限生命",
+      "仁慈",
+      "实践劝诫"
     ],
     "keywordsEn": [
       "ethics",
@@ -4183,9 +4423,11 @@
       "knowledge"
     ],
     "keywordsZh": [
-      "伦理",
-      "自由",
-      "知识"
+      "控制二分",
+      "同意训练",
+      "内在自由",
+      "角色义务",
+      "《手册》"
     ],
     "keywordsEn": [
       "ethics",
@@ -4223,9 +4465,11 @@
       "life_death"
     ],
     "keywordsZh": [
-      "伦理",
-      "政治",
-      "生死"
+      "《沉思录》",
+      "自我训练",
+      "宇宙整体",
+      "职责",
+      "短暂"
     ],
     "keywordsEn": [
       "ethics",
