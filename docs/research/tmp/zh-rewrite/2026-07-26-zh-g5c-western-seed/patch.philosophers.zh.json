@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 1,
+  "items": {
+    "lyotard": {
+      "oneLineZh": "以《后现代状况》宣告元叙事终结，并把知识争执写入政治问题。",
+      "oneLineEn": "In The Postmodern Condition ends metanarratives and writes knowledge disputes into politics."
+    },
+    "bruno-latour": {
+      "oneLineZh": "以行动者网络理论把非人行动者一并纳入社会与科学分析。",
+      "oneLineEn": "Actor-network theory brings nonhuman actants into social and scientific analysis together."
+    },
+    "levi-strauss": {
+      "oneLineZh": "以亲属结构与神话学分析建成结构人类学的基本研究方法。",
+      "oneLineEn": "Builds structural anthropology's basic research method through kinship structures and myth analysis."
+    },
+    "bourdieu": {
+      "oneLineZh": "以惯习、场域和文化资本构建可经验研究的社会实践理论。",
+      "oneLineEn": "Builds a researchable social practice theory via habitus, field, and cultural capital."
+    },
+    "ranciere": {
+      "oneLineZh": "以感性的分配把政治与美学置于同一可感秩序的问题域。",
+      "oneLineEn": "Places politics and aesthetics in one problem domain of the distribution of the sensible."
+    },
+    "baudrillard": {
+      "oneLineZh": "以拟像与超真实理论剖析消费社会中的符号交换之逻辑。",
+      "oneLineEn": "Uses simulacra and hyperreality to analyze symbolic-exchange logic in consumer society."
+    },
+    "claude-lefort": {
+      "oneLineZh": "以权力的空位界定民主，并系统展开对极权主义的批判。",
+      "oneLineEn": "Defines democracy by the empty place of power and systematically critiques totalitarianism."
+    },
+    "georges-bataille": {
+      "oneLineZh": "以耗费、逾越和普遍经济概念探讨神圣与僭越之经验路径。",
+      "oneLineEn": "Explores experience of the sacred and transgression through expenditure, excess, and general economy."
+    },
+    "maurice-blanchot": {
+      "oneLineZh": "以文学空间、中性与灾异书写探索语言自身的内在界限。",
+      "oneLineEn": "Probes language's inner limits via literary space, the neutral, and writing of disaster."
+    },
+    "tyler-burge": {
+      "oneLineZh": "以关节炎思想实验确立心灵内容的社会外在论基本立场。",
+      "oneLineEn": "Establishes social externalism about mental content via the arthritis thought experiment."
+    },
+    "george-herbert-mead": {
+      "oneLineZh": "以主我与客我之分和角色采择建立社会自我的基本理论。",
+      "oneLineEn": "Builds a theory of the social self through I/me distinction and role-taking."
+    },
+    "gilbert-simondon": {
+      "oneLineZh": "以个体化理论与技术物存在方式重构技术哲学的基本问题。",
+      "oneLineEn": "Reconstructs philosophy of technology via individuation and technical objects' mode of existence."
+    },
+    "michel-serres": {
+      "oneLineZh": "以第三者与寄生者形象打通科学史和人文思想两种传统。",
+      "oneLineEn": "Uses figures of the third and the parasite to bridge history of science and humanistic tradition."
+    },
+    "rene-girard": {
+      "oneLineZh": "以模仿欲望与替罪羊机制解释暴力和神圣经验的共同起源。",
+      "oneLineEn": "Explains the origin of violence and the sacred through mimetic desire and the scapegoat mechanism."
+    },
+    "aj-ayer": {
+      "oneLineZh": "以《语言、真理与逻辑》把维也纳学派议题带入英语哲学。",
+      "oneLineEn": "Brings Vienna Circle agendas into English philosophy with Language, Truth and Logic."
+    },
+    "cavailles": {
+      "oneLineZh": "以概念哲学对抗意识哲学，因参加法国抵抗运动而被处决。",
+      "oneLineEn": "Opposes philosophy of consciousness with philosophy of the concept; executed in the Resistance."
+    },
+    "michel-henry": {
+      "oneLineZh": "生命现象学代表人物，主张生命在自身感发中直接显现。",
+      "oneLineEn": "Life-phenomenology figure holding that life appears directly in auto-affection."
+    },
+    "brunschvicg": {
+      "oneLineZh": "以判断哲学和科学精神史成为法国认识论传统的关键枢纽。",
+      "oneLineEn": "Key hub of French epistemology through philosophy of judgment and history of the scientific spirit."
+    },
+    "holbach": {
+      "oneLineZh": "以《自然的体系》代表法国启蒙的彻底唯物论与决定论。",
+      "oneLineEn": "System of Nature represents French Enlightenment's thoroughgoing materialism and determinism."
+    },
+    "jacques-maritain": {
+      "oneLineZh": "新托马斯主义代表，为世界人权话语提供整全哲学论证。",
+      "oneLineEn": "Neo-Thomist who supplied integral-philosophical arguments for modern human-rights discourse."
+    },
+    "jane-addams": {
+      "oneLineZh": "赫尔馆创办者，把实用主义精神带入社会改革与和平运动。",
+      "oneLineEn": "Hull House founder bringing pragmatist spirit into social reform and peace movements."
+    },
+    "jankelevitch": {
+      "oneLineZh": "以「几乎无」和不可宽恕问题书写道德经验的细微之处。",
+      "oneLineEn": "Writes the fine grain of moral experience via the almost-nothing and the unforgivable."
+    },
+    "jean-luc-nancy": {
+      "oneLineZh": "以无用的共通体和共在存在论回应海德格尔与巴塔耶遗产。",
+      "oneLineEn": "Responds to Heidegger and Bataille through inoperative community and being-with ontology."
+    },
+    "karl-lowith": {
+      "oneLineZh": "论证现代进步史观其实是基督教末世论的世俗化之产物。",
+      "oneLineEn": "Argues modern progress history is a secularized form of Christian eschatology."
+    },
+    "lacan": {
+      "oneLineZh": "以镜像阶段和「无意识如语言般构成」重新解读弗洛伊德。",
+      "oneLineEn": "Rereads Freud through the mirror stage and the claim that the unconscious is structured like a language."
+    }
+  }
+}

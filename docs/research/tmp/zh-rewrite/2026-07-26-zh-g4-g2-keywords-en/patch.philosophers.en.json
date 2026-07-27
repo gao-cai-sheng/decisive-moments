@@ -1,0 +1,268 @@
+{
+  "schemaVersion": 1,
+  "items": {
+    "confucius": {
+      "keywordsEn": [
+        "Ren (humaneness)",
+        "Li (ritual)",
+        "Junzi",
+        "Zhongshu (reciprocity)",
+        "Rule by virtue",
+        "Rectifying names"
+      ]
+    },
+    "laozi": {
+      "keywordsEn": [
+        "Dao",
+        "Wuwei",
+        "Ziran (naturalness)",
+        "Nameless",
+        "Generating without possessing"
+      ]
+    },
+    "zhuangzi": {
+      "keywordsEn": [
+        "Free and easy wandering",
+        "Equalizing things",
+        "Fasting of the mind",
+        "Without dependence",
+        "Equalizing life and death"
+      ]
+    },
+    "plato": {
+      "keywordsEn": [
+        "Theory of Forms",
+        "Republic",
+        "Form of the Good",
+        "Tripartite soul",
+        "Cave allegory"
+      ]
+    },
+    "aristotle": {
+      "keywordsEn": [
+        "Substance",
+        "Four causes",
+        "Final cause",
+        "Mean",
+        "eudaimonia",
+        "Practical wisdom"
+      ]
+    },
+    "kant": {
+      "keywordsEn": [
+        "Transcendental idealism",
+        "Categories",
+        "Categorical imperative",
+        "Autonomy",
+        "Appearance and thing-in-itself"
+      ]
+    },
+    "rawls": {
+      "keywordsEn": [
+        "Original position",
+        "Veil of ignorance",
+        "Difference principle",
+        "Justice as fairness",
+        "Public reason"
+      ]
+    },
+    "cleanthes": {
+      "keywordsEn": [
+        "Hymn to Zeus",
+        "Cosmic reason",
+        "Consent to fate",
+        "Piety",
+        "Virtue training"
+      ]
+    },
+    "chrysippus": {
+      "keywordsEn": [
+        "Propositional logic",
+        "Undemonstrables",
+        "Assent",
+        "Fate and responsibility",
+        "Passions as false judgments"
+      ]
+    },
+    "diogenes-sinope": {
+      "keywordsEn": [
+        "Self-sufficiency",
+        "Against convention",
+        "Cosmopolitan",
+        "Performance of life",
+        "Cynic askēsis"
+      ]
+    },
+    "antisthenes": {
+      "keywordsEn": [
+        "Sufficiency of virtue",
+        "Hard training",
+        "Names and definitions",
+        "Against luxury",
+        "Socratic tradition"
+      ]
+    },
+    "pythagoras": {
+      "keywordsEn": [
+        "Number",
+        "Proportion",
+        "Cosmic order",
+        "Purification of the soul",
+        "Communal discipline"
+      ]
+    },
+    "anaximander": {
+      "keywordsEn": [
+        "apeiron",
+        "The indefinite",
+        "Separation of opposites",
+        "Naturalistic explanation",
+        "Cosmogony"
+      ]
+    },
+    "anaximenes": {
+      "keywordsEn": [
+        "Air",
+        "Condensation",
+        "Rarefaction",
+        "Density change",
+        "Archē"
+      ]
+    },
+    "xenophanes": {
+      "keywordsEn": [
+        "Against anthropomorphic gods",
+        "Limits of knowledge",
+        "Natural evidence",
+        "Unified divinity",
+        "Inference from observation"
+      ]
+    },
+    "empedocles": {
+      "keywordsEn": [
+        "Four roots",
+        "Love and Strife",
+        "Recombination of elements",
+        "Cosmic cycle",
+        "Purification"
+      ]
+    },
+    "anaxagoras": {
+      "keywordsEn": [
+        "Nous",
+        "Everything in everything",
+        "Seeds",
+        "Separation and mixture",
+        "Natural celestial phenomena"
+      ]
+    },
+    "zeno-elea": {
+      "keywordsEn": [
+        "Against plurality",
+        "Paradoxes of motion",
+        "Dichotomy",
+        "Flying arrow",
+        "Indirect proof"
+      ]
+    },
+    "democritus": {
+      "keywordsEn": [
+        "Atoms and void",
+        "Convention-based qualities",
+        "Bastard knowledge",
+        "euthymia",
+        "Structural properties"
+      ]
+    },
+    "protagoras": {
+      "keywordsEn": [
+        "Man the measure",
+        "Virtue is teachable",
+        "Advantageous judgment",
+        "Shame and justice",
+        "Theological suspension"
+      ]
+    },
+    "gorgias": {
+      "keywordsEn": [
+        "On Non-Being",
+        "Speech as pharmakon",
+        "Encomium of Helen",
+        "Art of persuasion",
+        "Arguments from possibility"
+      ]
+    },
+    "pyrrho": {
+      "keywordsEn": [
+        "Suspension of judgment",
+        "ataraxia",
+        "Undecidability",
+        "Living by appearances",
+        "Against dogma"
+      ]
+    },
+    "theophrastus": {
+      "keywordsEn": [
+        "Botany",
+        "Characters",
+        "Lyceum",
+        "Study of causes",
+        "Character types"
+      ]
+    },
+    "carneades": {
+      "keywordsEn": [
+        "Plausible impression",
+        "Against cataleptic impression",
+        "Probabilistic judgment",
+        "Against dogma",
+        "Roman speeches"
+      ]
+    },
+    "cicero": {
+      "keywordsEn": [
+        "Natural law",
+        "Republic",
+        "Latin public reason",
+        "Ideal orator",
+        "New Academy method"
+      ]
+    },
+    "lucretius": {
+      "keywordsEn": [
+        "De Rerum Natura",
+        "Atoms and void",
+        "Dispelling religious fear",
+        "Death is nothing to us",
+        "Teaching through poetry"
+      ]
+    },
+    "seneca": {
+      "keywordsEn": [
+        "Therapy of the passions",
+        "On Anger",
+        "Finite life",
+        "Clemency",
+        "Practical counsel"
+      ]
+    },
+    "epictetus": {
+      "keywordsEn": [
+        "Dichotomy of control",
+        "Training assent",
+        "Inner freedom",
+        "Role duties",
+        "Enchiridion"
+      ]
+    },
+    "marcus-aurelius": {
+      "keywordsEn": [
+        "Meditations",
+        "Self-discipline",
+        "Cosmic whole",
+        "Duty",
+        "Brevity"
+      ]
+    }
+  }
+}

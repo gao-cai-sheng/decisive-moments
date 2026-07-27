@@ -1,0 +1,97 @@
+{
+  "schemaVersion": 1,
+  "items": {
+    "al-kindi": {
+      "oneLineZh": "把希腊哲学翻译运动、第一哲学与伊斯兰一神论组织为阿拉伯哲学源头项目。",
+      "oneLineEn": "Unites Greek translation, first philosophy, and Islamic monotheism as a founding Arabic philosophy project."
+    },
+    "suhrawardi": {
+      "oneLineZh": "以照明哲学改写伊本·西那、柏拉图主义光形而上学与临现知识路线。",
+      "oneLineEn": "Recasts Ibn Sina, Platonic light metaphysics, and knowledge by presence as Illuminationist philosophy."
+    },
+    "vico": {
+      "oneLineZh": "以 verum factum 与《新科学》开出历史、法、神话与语言的自造世界。",
+      "oneLineEn": "Opens history, law, myth, and language as human-made world via verum factum and the New Science."
+    },
+    "schmitt": {
+      "oneLineZh": "以主权决断、例外状态和敌友区分揭示现代政治危机，须置于纳粹牵连批判语境。",
+      "oneLineEn": "Exposes political crisis via sovereignty, exception, and friend-enemy; read critically amid Nazi complicity."
+    },
+    "wasil-ibn-ata": {
+      "oneLineZh": "早期穆尔太齐赖派奠基者，以理性神学、自由意志与中间地位开启 kalam 分歧。",
+      "oneLineEn": "Early Muʿtazilī founder opening kalām splits via rational theology, free will, and the intermediate position."
+    },
+    "fakhr-al-din-al-razi": {
+      "oneLineZh": "教义学与哲学神学家，在吸收并批判伊本·西那后重塑后期 kalam 问题格局。",
+      "oneLineEn": "Theologian-philosopher who reshaped later kalām after absorbing and critiquing Ibn Sīnā."
+    },
+    "ibn-tufayl": {
+      "oneLineZh": "安达卢斯哲学家，以《哈义·本·叶格赞》写孤岛理性由自然升至宗教真理。",
+      "oneLineEn": "Andalusian author of Ḥayy ibn Yaqẓān, where island reason rises from nature to religious truth."
+    },
+    "nasir-al-din-tusi": {
+      "oneLineZh": "哲学家与天文学家，在后伊本·西那哲学、什叶神学与数学天文学间建立连接。",
+      "oneLineEn": "Philosopher-astronomer linking post-Avicennan philosophy, Shīʿī theology, and mathematical astronomy."
+    },
+    "rumi": {
+      "oneLineZh": "波斯苏非诗人，以《玛斯纳维》将爱、合一与灵魂转化写成诗性哲学。",
+      "oneLineEn": "Persian Sufi poet whose Mathnawī casts love, union, and soul transformation as poetic philosophy."
+    },
+    "ibn-taymiyya": {
+      "oneLineZh": "罕百里派法学家，以反哲学、反kalam、反苏非一元论与政治神学影响后世。",
+      "oneLineEn": "Ḥanbalī jurist opposing philosophy, kalām, and Sufi monism; shaped later political theology."
+    },
+    "mir-damad": {
+      "oneLineZh": "伊斯法罕学派核心与萨德拉之师，以时间、永恒和创生问题组织萨法维哲学。",
+      "oneLineEn": "Isfahan School core and teacher of Mullā Ṣadrā; frames Safavid philosophy via time, eternity, creation."
+    },
+    "tabatabai": {
+      "oneLineZh": "当代什叶哲学家与经注家，以萨德拉传统和《古兰经》诠释连接现代伊朗思想。",
+      "oneLineEn": "Contemporary Shīʿī philosopher-exegete linking Ṣadrian tradition and Qurʾānic commentary to modern Iran."
+    },
+    "al-afghani": {
+      "oneLineZh": "泛伊斯兰活动家与现代主义先声，以反殖民、宗教改革与公共动员影响近现代伊斯兰思想。",
+      "oneLineEn": "Pan-Islamic activist and early modernist shaping anti-colonial reform and Muslim public mobilization."
+    },
+    "ibn-gabirol": {
+      "oneLineZh": "以《生命之源》提出新柏拉图主义形而上学，拉丁经院称 Avicebron。",
+      "oneLineEn": "In Fons Vitae sets out Neoplatonic metaphysics; known in Latin scholasticism as Avicebron."
+    },
+    "hostos": {
+      "oneLineZh": "波多黎各教育家与伦理思想家，以社会伦理和安的列斯解放连接实证主义与反殖民。",
+      "oneLineEn": "Puerto Rican educator-ethicist linking social ethics and Antillean liberation to positivism and anti-colonialism."
+    },
+    "pseudo-dionysius": {
+      "oneLineZh": "约500年托名传统，以否定神学、神圣名称和等级论影响东西方中世纪。",
+      "oneLineEn": "Pseudepigraphic (~500) negative theology, Divine Names, and hierarchy shaping Eastern and Latin medieval thought."
+    },
+    "michael-psellos": {
+      "oneLineZh": "拜占庭博学者，以柏拉图主义复兴、宫廷观察与百科式学问连接古典与中世纪希腊。",
+      "oneLineEn": "Byzantine polymath joining classical and medieval Greek thought via Platonic revival and encyclopedism."
+    },
+    "gregory-palamas": {
+      "oneLineZh": "晚期拜占庭静修神学家，以本质/能质之分与《为静修者辩护》组织神秘经验论证。",
+      "oneLineEn": "Late Byzantine hesychast framing mystical experience via essence/energies distinction and the Triads."
+    },
+    "gemistos-plethon": {
+      "oneLineZh": "晚期拜占庭柏拉图主义者，以《法律篇》和佛罗伦萨会议影响意大利古典哲学复兴。",
+      "oneLineEn": "Late Byzantine Platonist whose Book of Laws and Florence role shaped Italian Renaissance classical revival."
+    },
+    "zoroaster": {
+      "oneLineZh": "祆教先知，以善恶抉择、真理秩序与末世审判构成前伊斯兰波斯思想源头。",
+      "oneLineEn": "Ancient Iranian prophet; good-evil choice, asha, and last judgment source pre-Islamic Persian thought."
+    },
+    "aleksei-khomyakov": {
+      "oneLineZh": "斯拉夫派核心理论家，以 sobornost 组织自由、共同体与东正教传统口径。",
+      "oneLineEn": "Core Slavophile theorist framing freedom, community, and Orthodox tradition through sobornost."
+    },
+    "nikolai-chernyshevsky": {
+      "oneLineZh": "俄国唯物主义者，以理性利己、现实美学与《怎么办？》影响十九世纪激进传统。",
+      "oneLineEn": "Russian materialist whose rational egoism, aesthetics of reality, and What Is to Be Done? shaped radicalism."
+    },
+    "buddhadasa": {
+      "oneLineZh": "泰国现代佛教思想家，以缘起重释、观呼吸与「法的社会主义」连接改革与政治伦理。",
+      "oneLineEn": "Modern Thai Buddhist linking reform and politics via dependent origination, ānāpānasati, and Dhammic socialism."
+    }
+  }
+}

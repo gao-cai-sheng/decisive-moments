@@ -1,0 +1,235 @@
+{
+  "schemaVersion": 1,
+  "items": {
+    "thales": {
+      "oneLineEn": "Water as nature's principle explains diverse change, marking the turn from mythic story to general natural principles.",
+      "keywordsEn": [
+        "Principle (archē)",
+        "Water",
+        "Natural explanation",
+        "Miletus",
+        "Animism"
+      ]
+    },
+    "heraclitus": {
+      "oneLineEn": "Logos governs flux and opposition; the soul must live by a common measure, not private opinion.",
+      "keywordsEn": [
+        "Logos",
+        "Flux",
+        "Unity of opposites",
+        "Fire",
+        "Common law"
+      ]
+    },
+    "parmenides": {
+      "oneLineEn": "From what-is cannot not-be he bars generation and division, parting the way of truth from the way of opinion.",
+      "keywordsEn": [
+        "What-is",
+        "Way of truth",
+        "Way of opinion",
+        "The One",
+        "Not-being is unthinkable"
+      ]
+    },
+    "socrates": {
+      "oneLineEn": "Knowledge of ignorance opens elenchus; knowledge of virtue and care of the soul rank above wealth and honor.",
+      "keywordsEn": [
+        "Knowledge of ignorance",
+        "Virtue is knowledge",
+        "Care of the soul",
+        "Dialogue method",
+        "The unexamined life"
+      ]
+    },
+    "epicurus": {
+      "oneLineEn": "Atomism dispels fear of divine will; freedom from pain and mental tranquility define mature pleasure.",
+      "keywordsEn": [
+        "Atoms and void",
+        "Ataraxia",
+        "Freedom from pain",
+        "Classification of desires",
+        "Death is nothing to us"
+      ]
+    },
+    "zeno-citium": {
+      "oneLineEn": "Cosmic reason is the norm of life; only virtue is good, and assent manages impressions and impulse.",
+      "keywordsEn": [
+        "Living in accordance with nature",
+        "Sufficiency of virtue",
+        "Impression and assent",
+        "Indifferents",
+        "Logos"
+      ]
+    },
+    "plotinus": {
+      "oneLineEn": "The One's emanation explains levels of Intellect and Soul; contemplation of beauty and virtue guide the soul's return.",
+      "keywordsEn": [
+        "The One",
+        "Emanation",
+        "Nous",
+        "Soul's return",
+        "Beauty"
+      ]
+    },
+    "hypatia": {
+      "oneLineEn": "Math, astronomy, and public teaching sustained late classical philosophical education amid civic power and violence.",
+      "keywordsEn": [
+        "Neoplatonism",
+        "Mathematics",
+        "Astronomy",
+        "Public teaching",
+        "Alexandria"
+      ]
+    },
+    "al-farabi": {
+      "oneLineEn": "Cosmic emanation orders the virtuous city; a philosophical ruler coordinates demonstrative truth and religious symbols.",
+      "keywordsEn": [
+        "Virtuous city",
+        "Emanation",
+        "Philosophy and religion",
+        "Happiness",
+        "Prophetic imagination"
+      ]
+    },
+    "ibn-sina": {
+      "oneLineEn": "Essence-existence distinction is central; the Necessary Existent and the floating man support the soul's independence.",
+      "keywordsEn": [
+        "Essence and existence",
+        "Necessary Existent",
+        "Floating man",
+        "Active intellect",
+        "Soul"
+      ]
+    },
+    "al-ghazali": {
+      "oneLineEn": "Limits philosophical proof and critiques necessary causality; certainty needs purification through spiritual practice.",
+      "keywordsEn": [
+        "Incoherence of the Philosophers",
+        "Habitual causality",
+        "Inner certainty",
+        "Revival of the religious sciences",
+        "Sufi practice"
+      ]
+    },
+    "ibn-rushd": {
+      "oneLineEn": "Defends Aristotle and natural causality; demonstration and law can be coordinated through scriptural interpretation.",
+      "keywordsEn": [
+        "Demonstrative reason",
+        "Aristotelian commentary",
+        "Natural causality",
+        "Scriptural interpretation",
+        "Demonstration"
+      ]
+    },
+    "mulla-sadra": {
+      "oneLineEn": "Existence is prior and graded; substantial motion and knowledge-as-being join philosophy with spiritual practice.",
+      "keywordsEn": [
+        "Primacy of existence",
+        "Gradation of existence",
+        "Substantial motion",
+        "Knowledge as existence",
+        "Transcendent theosophy"
+      ]
+    },
+    "ibn-khaldun": {
+      "oneLineEn": "Rebuilds historiography via group solidarity and civilizational conditions, tracking dynasties from cohesion to decline.",
+      "keywordsEn": [
+        "Group solidarity",
+        "Civilization",
+        "Dynastic cycle",
+        "Historical method",
+        "Muqaddimah"
+      ]
+    },
+    "augustine": {
+      "oneLineEn": "Evil as privation from will's turning away; grace renews and two loves of two cities order history.",
+      "keywordsEn": [
+        "Grace",
+        "Will",
+        "Privation of good",
+        "Two cities",
+        "Time and memory"
+      ]
+    },
+    "boethius": {
+      "oneLineEn": "Fortune's wheel dissolves the illusion of outer happiness; the eternal present reconciles providence with free choice.",
+      "keywordsEn": [
+        "Consolation of Philosophy",
+        "Wheel of fortune",
+        "Eternity",
+        "Providence",
+        "True happiness"
+      ]
+    },
+    "anselm": {
+      "oneLineEn": "Faith seeking understanding yields the ontological argument and joins justice and mercy through satisfaction theory.",
+      "keywordsEn": [
+        "Faith seeking understanding",
+        "Ontological argument",
+        "Satisfaction",
+        "That than which nothing greater can be thought",
+        "Proslogion"
+      ]
+    },
+    "aquinas": {
+      "oneLineEn": "Natural reason's five ways lead to God; essence-existence distinction and natural law constrain politics and law.",
+      "keywordsEn": [
+        "Five ways",
+        "Essence and existence",
+        "Natural law",
+        "Summa Theologiae",
+        "Faith and reason"
+      ]
+    },
+    "ockham": {
+      "oneLineEn": "Nominalism rejects universal substances; divine absolute power loosens necessity and bounds fallible church authority.",
+      "keywordsEn": [
+        "Nominalism",
+        "Principle of economy",
+        "Intuitive cognition",
+        "Omnipotence",
+        "Limits of church power"
+      ]
+    },
+    "saadia-gaon": {
+      "oneLineEn": "Rational argument upholds revealed faith; creation doctrine and commandment practice strengthen communal certainty.",
+      "keywordsEn": [
+        "Reason and revelation",
+        "Creation doctrine",
+        "Commandments",
+        "Kalām",
+        "Confirmation of faith"
+      ]
+    },
+    "maimonides": {
+      "oneLineEn": "Negative theology constrains speech about God; law serves both intellectual perfection and political order.",
+      "keywordsEn": [
+        "Negative theology",
+        "Guide of the Perplexed",
+        "Purpose of the law",
+        "Allegorical interpretation",
+        "Intellectual perfection"
+      ]
+    },
+    "buber": {
+      "oneLineEn": "I-Thou direct relation defines real existence; dialogue and community precede objectifying I-It life.",
+      "keywordsEn": [
+        "I-Thou",
+        "I-It",
+        "Dialogue",
+        "Eternal Thou",
+        "Community"
+      ]
+    },
+    "levinas": {
+      "oneLineEn": "The face of the Other precedes totalizing knowledge; infinite responsibility starts language and ethics.",
+      "keywordsEn": [
+        "Face",
+        "The Other",
+        "Infinite responsibility",
+        "Totality",
+        "Saying"
+      ]
+    }
+  }
+}

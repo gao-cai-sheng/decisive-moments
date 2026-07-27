@@ -1,0 +1,6462 @@
+[
+  {
+    "id": "erasmus",
+    "nameZh": "伊拉斯谟",
+    "summaryZh": "伊拉斯谟是知识、自由问题谱系中的第一版候选哲人。 本条目是第一版结构化资料，已经保留文明、传统、主题、作品和论述字段，正式发布前需要继续核对年代、文本出处和概念表述。",
+    "traditions": [
+      "modern_european_philosophy"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "knowledge",
+      "freedom",
+      "politics"
+    ],
+    "works": [
+      "erasmus-enchiridion",
+      "erasmus-praise-of-folly",
+      "erasmus-free-will"
+    ],
+    "problems": [
+      {
+        "titleZh": "人文主义如何改革基督教？",
+        "questionZh": "伊拉斯谟如何用古典学问、文本校勘和内在虔敬批判僵化的宗教形式？",
+        "claims": [
+          {
+            "claimZh": "伊拉斯谟认为基督徒生活的核心不是外在仪式堆积，而是内心被福音精神塑造后的伦理转化。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "伊拉斯谟把语言学、古典教育和圣经文本研究视为改革信仰理解的重要工具。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "自由意志为何仍需保留？",
+        "questionZh": "在恩典和罪的神学争论中，伊拉斯谟为什么维护有限自由意志？",
+        "claims": [
+          {
+            "claimZh": "伊拉斯谟认为人虽依赖恩典，仍必须保留某种回应能力，否则训诫、悔改和伦理选择都难以成立。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "伊拉斯谟倾向在难解神学问题上保持谦逊，反对把奥秘问题推到摧毁实践生活的极端。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "讽刺如何成为伦理批判？",
+        "questionZh": "伊拉斯谟为何用愚人、戏仿和幽默揭露宗教与社会弊病？",
+        "claims": [
+          {
+            "claimZh": "伊拉斯谟借愚人之口反转聪明与愚蠢的界限，揭示权力、学问和宗教身份中的自负。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "伊拉斯谟用幽默和讽刺推动温和改革，使批判既尖锐又避免直接走向分裂性的革命姿态。",
+            "claimEn": ""
+          }
+        ]
+      }
+    ],
+    "oneLineZh_old": "伊拉斯谟是知识、自由问题谱系中的第一版候选哲人。",
+    "keywordsZh_old": [
+      "知识",
+      "自由",
+      "政治"
+    ]
+  },
+  {
+    "id": "machiavelli",
+    "nameZh": "马基雅维利",
+    "summaryZh": "马基雅维利是知识、自由问题谱系中的第一版候选哲人。 本条目是第一版结构化资料，已经保留文明、传统、主题、作品和论述字段，正式发布前需要继续核对年代、文本出处和概念表述。",
+    "traditions": [
+      "modern_european_philosophy"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "knowledge",
+      "freedom",
+      "politics"
+    ],
+    "works": [
+      "machiavelli-prince",
+      "machiavelli-discourses"
+    ],
+    "problems": [
+      {
+        "titleZh": "政治是否需要自己的真理？",
+        "questionZh": "马基雅维利为什么把政治判断从传统道德劝诫中分离出来？",
+        "claims": [
+          {
+            "claimZh": "马基雅维利认为统治者若只追随想象中的善，会在现实权力斗争中失败，因此政治判断必须面对实际效果。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "马基雅维利的 virtù 不是传统美德清单，而是面对机会、敌意和变化时建立秩序的能力。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "恐惧、爱戴与权力稳定",
+        "questionZh": "权力为何不能只依靠仁慈名声？恐惧和爱戴在政治秩序中如何权衡？",
+        "claims": [
+          {
+            "claimZh": "马基雅维利认为若不能兼得，被畏惧通常比被爱戴更可靠，因为爱依赖他人意志，恐惧则更受制度和惩罚控制。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "马基雅维利并不主张任意残酷，而是要求统治者避免激起普遍憎恨，尤其避免侵犯财产和共同利益。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "共和国为何需要冲突和制度？",
+        "questionZh": "社会冲突为何不必然破坏共和国，反而可能产生自由和法律？",
+        "claims": [
+          {
+            "claimZh": "马基雅维利认为民众和贵族之间的张力若被共和国制度吸收，反而可以产生维护自由的法律。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "马基雅维利在共和国语境中为民众判断保留较高评价，认为民众在维护自由上可比少数精英更可靠。",
+            "claimEn": ""
+          }
+        ]
+      }
+    ],
+    "oneLineZh_old": "马基雅维利是知识、自由问题谱系中的第一版候选哲人。",
+    "keywordsZh_old": [
+      "知识",
+      "自由",
+      "政治"
+    ]
+  },
+  {
+    "id": "montaigne",
+    "nameZh": "蒙田",
+    "summaryZh": "蒙田是知识、自由问题谱系中的第一版候选哲人。 本条目是第一版结构化资料，已经保留文明、传统、主题、作品和论述字段，正式发布前需要继续核对年代、文本出处和概念表述。",
+    "traditions": [
+      "modern_european_philosophy"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "knowledge",
+      "freedom",
+      "politics"
+    ],
+    "works": [
+      "montaigne-essays"
+    ],
+    "problems": [
+      {
+        "titleZh": "怀疑如何成为生活方式？",
+        "questionZh": "蒙田如何把怀疑从抽象认识论转化为日常判断和自我节制？",
+        "claims": [
+          {
+            "claimZh": "蒙田用“我知道什么？”表达判断的有限性，要求人在意见冲突中保持谦逊而非迅速绝对化。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "蒙田认为承认判断不确定性有伦理意义，因为过度确信常会导向迫害、傲慢和对他者生活的粗暴裁判。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "自我书写为何具有哲学意义？",
+        "questionZh": "蒙田为什么把自己作为书写对象？这种自我观察如何生成哲学判断？",
+        "claims": [
+          {
+            "claimZh": "蒙田写自己不是为了塑造英雄形象，而是把变化、矛盾和偶然经验作为理解人的材料。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "蒙田认为哲学不应脱离身体、习惯和死亡经验，真正的判断训练就在日常生活材料中展开。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "如何学习死亡并热爱生活？",
+        "questionZh": "蒙田如何把死亡意识从恐惧对象转化为生活判断的一部分？",
+        "claims": [
+          {
+            "claimZh": "蒙田认为持续面对死亡能削弱想象造成的恐惧，使人不再被不可避免的终点支配。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "蒙田晚期更强调顺应身体和经验的有限性，在不完美生活中保持温和判断和现实满足。",
+            "claimEn": ""
+          }
+        ]
+      }
+    ],
+    "oneLineZh_old": "蒙田是知识、自由问题谱系中的第一版候选哲人。",
+    "keywordsZh_old": [
+      "知识",
+      "自由",
+      "政治"
+    ]
+  },
+  {
+    "id": "bacon",
+    "nameZh": "弗朗西斯·培根",
+    "summaryZh": "弗朗西斯·培根是知识、自由问题谱系中的第一版候选哲人。 本条目是第一版结构化资料，已经保留文明、传统、主题、作品和论述字段，正式发布前需要继续核对年代、文本出处和概念表述。",
+    "traditions": [
+      "modern_european_philosophy"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "knowledge",
+      "freedom",
+      "politics"
+    ],
+    "works": [
+      "bacon-novum-organum",
+      "bacon-advancement-learning",
+      "bacon-new-atlantis"
+    ],
+    "problems": [
+      {
+        "titleZh": "知识为何需要清除偶像？",
+        "questionZh": "培根为何把认识错误解释为系统性的偶像，而不是单个判断失误？",
+        "claims": [
+          {
+            "claimZh": "培根认为认识的主要障碍来自四类偶像，它们扎根于人性、个人习性、语言交往和权威学派，而不只是个别推理失误。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "培根主张知识进步不能依靠个人机智或旧逻辑争胜，而要依靠能约束心灵偏误的发现方法。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "归纳如何成为发现机器？",
+        "questionZh": "培根的新归纳如何把杂乱经验组织成可产生新知识的发现程序？",
+        "claims": [
+          {
+            "claimZh": "培根的归纳法要求从有序实例表出发，经由比较和排除逐步形成公理，避免从少数经验直接跳到普遍结论。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "培根把实验理解为主动制造实例和扩展经验边界的技术，而不是被动记录自然现象。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "知识为什么就是力量？",
+        "questionZh": "培根如何把认识自然同改善人类生活和公共事业联系起来？",
+        "claims": [
+          {
+            "claimZh": "培根把知识的可靠性和力量联系到可产生作品与效用的能力，认为人只能通过理解自然规律来支配自然。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "培根认为知识进步依赖长期协作、资料分工和制度保存，不能只靠孤立天才。",
+            "claimEn": ""
+          }
+        ]
+      }
+    ],
+    "oneLineZh_old": "弗朗西斯·培根是知识、自由问题谱系中的第一版候选哲人。",
+    "keywordsZh_old": [
+      "知识",
+      "自由",
+      "政治"
+    ]
+  },
+  {
+    "id": "hobbes",
+    "nameZh": "霍布斯",
+    "summaryZh": "霍布斯是知识、自由问题谱系中的第一版候选哲人。 本条目是第一版结构化资料，已经保留文明、传统、主题、作品和论述字段，正式发布前需要继续核对年代、文本出处和概念表述。",
+    "traditions": [
+      "modern_european_philosophy"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "knowledge",
+      "freedom",
+      "politics"
+    ],
+    "works": [
+      "hobbes-leviathan",
+      "hobbes-de-cive",
+      "hobbes-elements-law"
+    ],
+    "problems": [
+      {
+        "titleZh": "人的欲望为何导致自然状态？",
+        "questionZh": "霍布斯如何从人的激情、平等脆弱性和未来不安推出现代政治问题？",
+        "claims": [
+          {
+            "claimZh": "霍布斯认为人的幸福不是达到一个终极善，而是欲望从一个对象通向另一个对象的持续成功。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "霍布斯的自然状态不是因为人天生嗜血，而是因为能力大体平等、资源竞争和互不信任使预防性攻击变得理性。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "语言、理性与契约如何建立秩序？",
+        "questionZh": "霍布斯为何把语言、计算和契约视为政治秩序的条件，同时又警惕语言制造纷争？",
+        "claims": [
+          {
+            "claimZh": "霍布斯把推理解释为加减名称的计算，因而理性必须依赖清楚定义，否则会陷入荒谬词语。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "霍布斯认为自然法能指示和平道路，但契约若没有共同权力执行，就会被恐惧和机会主义破坏。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "主权为何必须集中？",
+        "questionZh": "霍布斯为何认为和平需要一个能代表众人的主权者？自由又如何在强国家中保留？",
+        "claims": [
+          {
+            "claimZh": "霍布斯认为国家通过授权形成一个人格，主权者代表众人行动，因而能把分散判断转化为统一裁判。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "霍布斯并不把自由定义为参政自治，而是定义为外在阻碍的缺乏；在国家中，臣民自由存在于法律未规定之处。",
+            "claimEn": ""
+          }
+        ]
+      }
+    ],
+    "oneLineZh_old": "霍布斯是知识、自由问题谱系中的第一版候选哲人。",
+    "keywordsZh_old": [
+      "知识",
+      "自由",
+      "政治"
+    ]
+  },
+  {
+    "id": "descartes",
+    "nameZh": "笛卡尔",
+    "summaryZh": "笛卡尔是知识、自由问题谱系中的第一版候选哲人。 本条目是第一版结构化资料，已经保留文明、传统、主题、作品和论述字段，正式发布前需要继续核对年代、文本出处和概念表述。",
+    "traditions": [
+      "modern_european_philosophy"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "knowledge",
+      "freedom",
+      "politics"
+    ],
+    "works": [
+      "descartes-discourse-method",
+      "descartes-meditations",
+      "descartes-principles-philosophy",
+      "descartes-passions-soul"
+    ],
+    "problems": [
+      {
+        "titleZh": "怀疑如何通向确定性？",
+        "questionZh": "笛卡尔为何把怀疑作为方法，而不是把怀疑当作终点？",
+        "claims": [
+          {
+            "claimZh": "笛卡尔使用普遍怀疑来筛除不可靠信念，但目标是建立更稳固的科学基础，而不是停留在不可知论。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "笛卡尔认为即使一切外物和身体信念都可疑，正在怀疑和思维的我仍不可被否定。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "清楚分明观念如何保证知识？",
+        "questionZh": "笛卡尔如何从个体确定性过渡到数学和自然科学的可靠性？",
+        "claims": [
+          {
+            "claimZh": "笛卡尔认为凡清楚分明知觉到的都是真的，但这一规则的稳定性要通过上帝存在和非欺骗性来保障。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "笛卡尔把错误解释为意志判断超过理解所清楚把握的范围，而不是理智能力本身必然虚假。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "心身区分如何支撑科学与生活？",
+        "questionZh": "笛卡尔如何同时主张心身实在区分，又解释具身人的感觉和情感？",
+        "claims": [
+          {
+            "claimZh": "笛卡尔认为心灵本质是思维，身体本质是广延，二者可被清楚分明地理解为不同实体。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "笛卡尔并未把人简化为纯心灵，他在激情理论中分析身体运动如何影响心灵感受和行动。",
+            "claimEn": ""
+          }
+        ]
+      }
+    ],
+    "oneLineZh_old": "笛卡尔是知识、自由问题谱系中的第一版候选哲人。",
+    "keywordsZh_old": [
+      "知识",
+      "自由",
+      "政治"
+    ]
+  },
+  {
+    "id": "spinoza",
+    "nameZh": "斯宾诺莎",
+    "summaryZh": "斯宾诺莎是知识、自由问题谱系中的第一版候选哲人。 本条目是第一版结构化资料，已经保留文明、传统、主题、作品和论述字段，正式发布前需要继续核对年代、文本出处和概念表述。",
+    "traditions": [
+      "modern_european_philosophy"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "knowledge",
+      "freedom",
+      "politics"
+    ],
+    "works": [
+      "spinoza-ethics",
+      "spinoza-ttp",
+      "spinoza-political-treatise",
+      "spinoza-emendation-intellect"
+    ],
+    "problems": [
+      {
+        "titleZh": "实体一元论如何改写神与自然？",
+        "questionZh": "斯宾诺莎为何把神理解为自然本身，而不是超越世界的任意意志？",
+        "claims": [
+          {
+            "claimZh": "斯宾诺莎认为神或自然是唯一实体，具有无限属性，有限事物只是这一实体的样态。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "斯宾诺莎认为自然中没有绝对偶然，所谓偶然只是人不知道原因链条时的想象。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "情感奴役如何转化为自由？",
+        "questionZh": "斯宾诺莎如何把伦理学建立在情感因果和理解必然性之上？",
+        "claims": [
+          {
+            "claimZh": "斯宾诺莎反对把情感当成自然秩序之外的罪恶或缺陷，而要像研究几何对象一样研究它们的原因。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "斯宾诺莎把自由理解为由自身本性和充分观念而行动，而不是摆脱因果必然的任意选择。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "思想自由为何是政治稳定条件？",
+        "questionZh": "斯宾诺莎如何把圣经解释、国家权力和思想自由连接起来？",
+        "claims": [
+          {
+            "claimZh": "斯宾诺莎认为解释圣经应从文本语言、作者处境和历史传承出发，而不能用神学权威压制理性。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "斯宾诺莎认为国家不能支配人的判断本身，压制思想反会破坏和平；自由哲思有助于稳定共同体。",
+            "claimEn": ""
+          }
+        ]
+      }
+    ],
+    "oneLineZh_old": "斯宾诺莎是知识、自由问题谱系中的第一版候选哲人。",
+    "keywordsZh_old": [
+      "知识",
+      "自由",
+      "政治"
+    ]
+  },
+  {
+    "id": "locke",
+    "nameZh": "洛克",
+    "summaryZh": "洛克是知识、自由问题谱系中的第一版候选哲人。 本条目是第一版结构化资料，已经保留文明、传统、主题、作品和论述字段，正式发布前需要继续核对年代、文本出处和概念表述。",
+    "traditions": [
+      "modern_european_philosophy"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "knowledge",
+      "freedom",
+      "politics"
+    ],
+    "works": [
+      "locke-essay-human-understanding",
+      "locke-two-treatises",
+      "locke-letter-toleration",
+      "locke-thoughts-education"
+    ],
+    "problems": [
+      {
+        "titleZh": "经验如何形成知识？",
+        "questionZh": "洛克如何反对天赋观念，并解释心灵从经验获得观念材料？",
+        "claims": [
+          {
+            "claimZh": "洛克认为心灵没有现成天赋观念，所有观念材料来自外物作用于感官和心灵对自身活动的反省。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "洛克认为人类知识只能达到观念相合或相离的认知，因观念来源有限、词语含混，知识必然有边界。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "人格同一性与自由如何建立责任？",
+        "questionZh": "洛克如何用意识、记忆和行动能力重构道德责任？",
+        "claims": [
+          {
+            "claimZh": "洛克认为作为法律和道德主体的 person 由意识能追溯到过去行为来界定，而不等同于同一灵魂实体或同一身体。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "洛克认为自由不在于意志本身是否自由，而在于人能否按心灵选择行动，并能暂停欲望以审议善。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "政治权力为何必须受同意和权利限制？",
+        "questionZh": "洛克如何从自然权利、财产和宗教宽容论证有限政府？",
+        "claims": [
+          {
+            "claimZh": "洛克认为人在自然状态中拥有平等自由和自然权利，政治社会通过同意建立，政府受保护权利的目的限制。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "洛克以劳动说明财产权取得，又以信仰不能被强制制造说明宗教宽容，二者都限制政治权力可介入范围。",
+            "claimEn": ""
+          }
+        ]
+      }
+    ],
+    "oneLineZh_old": "洛克是知识、自由问题谱系中的第一版候选哲人。",
+    "keywordsZh_old": [
+      "知识",
+      "自由",
+      "政治"
+    ]
+  },
+  {
+    "id": "leibniz",
+    "nameZh": "莱布尼茨",
+    "summaryZh": "莱布尼茨是知识、自由问题谱系中的第一版候选哲人。 本条目是第一版结构化资料，已经保留文明、传统、主题、作品和论述字段，正式发布前需要继续核对年代、文本出处和概念表述。",
+    "traditions": [
+      "modern_european_philosophy"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "knowledge",
+      "freedom",
+      "politics"
+    ],
+    "works": [
+      "leibniz-discourse-metaphysics",
+      "leibniz-monadology",
+      "leibniz-new-essays",
+      "leibniz-theodicy"
+    ],
+    "problems": [
+      {
+        "titleZh": "个体实体如何表达整个宇宙？",
+        "questionZh": "莱布尼茨如何既保留个体实体，又说明万物之间的秩序关联？",
+        "claims": [
+          {
+            "claimZh": "莱布尼茨认为真正的实体不是可分割的物体块，而是无部分、无窗、具有知觉和欲求的单子。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "莱布尼茨认为个体实体虽不相互因果输入，却以不同清晰度表达同一宇宙。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "充足理由如何解释世界秩序？",
+        "questionZh": "莱布尼茨为何认为存在、真理和世界选择都需要理由？",
+        "claims": [
+          {
+            "claimZh": "莱布尼茨认为凡真实存在或真实发生者都有其为什么如此而不另样的理由，即使有限心灵不能完全把握。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "莱布尼茨主张神选择的是可能世界中总体最好的世界，局部恶可能因整体秩序和更大善而被允许。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "自由与前定和谐如何相容？",
+        "questionZh": "莱布尼茨如何在预定秩序中保留自由、道德责任和经验知识？",
+        "claims": [
+          {
+            "claimZh": "莱布尼茨认为心灵和身体并不直接相互推动，而是各按自身法则运行，并由神预先协调一致。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "莱布尼茨认为自由行动有理由和倾向，但不等于外在强迫；理性主体按自身内在原则行动。",
+            "claimEn": ""
+          }
+        ]
+      }
+    ],
+    "oneLineZh_old": "莱布尼茨是知识、自由问题谱系中的第一版候选哲人。",
+    "keywordsZh_old": [
+      "知识",
+      "自由",
+      "政治"
+    ]
+  },
+  {
+    "id": "hume",
+    "nameZh": "休谟",
+    "summaryZh": "休谟是知识、自由问题谱系中的第一版候选哲人。 本条目是第一版结构化资料，已经保留文明、传统、主题、作品和论述字段，正式发布前需要继续核对年代、文本出处和概念表述。",
+    "traditions": [
+      "modern_european_philosophy"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "knowledge",
+      "freedom",
+      "politics"
+    ],
+    "works": [
+      "hume-treatise",
+      "hume-enquiry-human-understanding",
+      "hume-enquiry-morals",
+      "hume-dialogues-natural-religion"
+    ],
+    "problems": [
+      {
+        "titleZh": "经验为何不能给出必然因果？",
+        "questionZh": "休谟如何从印象和观念理论走向因果与归纳怀疑？",
+        "claims": [
+          {
+            "claimZh": "休谟认为复杂思想最终应能追溯到较生动的印象，否则就可能只是空洞词语。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "休谟认为我们从经验中只观察到事件恒常连接，而没有观察到使结果必然发生的力量。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "自我与理性为何不再是主宰？",
+        "questionZh": "休谟如何动摇实体自我和理性统治激情的传统图像？",
+        "claims": [
+          {
+            "claimZh": "休谟认为内省时只能遇到具体知觉，不能遇到一个独立不变的自我实体。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "休谟认为理性本身不能产生行动目的，只能告诉我们事实关系和手段关系；行动动力来自激情。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "道德与宗教如何接受自然化审查？",
+        "questionZh": "休谟如何用情感、效用和经验概率审查道德判断与宗教论证？",
+        "claims": [
+          {
+            "claimZh": "休谟认为德性之所以被赞许，往往因为其有用或令人愉快，并通过同情影响旁观者情感。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "休谟用经验概率审查神迹证言，并在设计论中质疑从世界秩序直接推出传统神学结论。",
+            "claimEn": ""
+          }
+        ]
+      }
+    ],
+    "oneLineZh_old": "休谟是知识、自由问题谱系中的第一版候选哲人。",
+    "keywordsZh_old": [
+      "知识",
+      "自由",
+      "政治"
+    ]
+  },
+  {
+    "id": "rousseau",
+    "nameZh": "卢梭",
+    "summaryZh": "卢梭是知识、自由问题谱系中的第一版候选哲人。 本条目是第一版结构化资料，已经保留文明、传统、主题、作品和论述字段，正式发布前需要继续核对年代、文本出处和概念表述。",
+    "traditions": [
+      "modern_european_philosophy"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "knowledge",
+      "freedom",
+      "politics"
+    ],
+    "works": [
+      "rousseau-discourse-inequality",
+      "rousseau-social-contract",
+      "rousseau-emile",
+      "rousseau-confessions"
+    ],
+    "problems": [
+      {
+        "titleZh": "自然人如何被社会腐化？",
+        "questionZh": "卢梭如何用自然状态假说批判文明进步和不平等？",
+        "claims": [
+          {
+            "claimZh": "卢梭认为自然人并非霍布斯式好斗者，而是由自我保存和对痛苦者的怜悯共同调节。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "卢梭认为真正的社会不平等随着财产占有、劳动分工和相互依赖而稳定化。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "公意如何使服从成为自由？",
+        "questionZh": "卢梭如何把政治合法性建立在人民主权、公意和法律之上？",
+        "claims": [
+          {
+            "claimZh": "卢梭认为强力不能产生权利，政治合法性只能来自每个人与全体订立的契约。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "卢梭的公意不是所有私人欲望的相加，而是公民作为共同体成员面向共同利益的意志。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "教育如何保护自然自由？",
+        "questionZh": "卢梭如何通过教育和自我书写回应现代社会的异化？",
+        "claims": [
+          {
+            "claimZh": "卢梭主张教育首先不要急于灌输社会成见，而要安排环境，让儿童通过经验和自然后果学习。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "卢梭把自我叙述变成反抗社会虚伪和公众误解的方式，试图呈现一个未经修饰的内在主体。",
+            "claimEn": ""
+          }
+        ]
+      }
+    ],
+    "oneLineZh_old": "卢梭是知识、自由问题谱系中的第一版候选哲人。",
+    "keywordsZh_old": [
+      "知识",
+      "自由",
+      "政治"
+    ]
+  },
+  {
+    "id": "hegel",
+    "nameZh": "黑格尔",
+    "summaryZh": "黑格尔是知识、自由问题谱系中的第一版候选哲人。 本条目是第一版结构化资料，已经保留文明、传统、主题、作品和论述字段，正式发布前需要继续核对年代、文本出处和概念表述。",
+    "traditions": [
+      "modern_european_philosophy"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "knowledge",
+      "freedom",
+      "politics"
+    ],
+    "works": [
+      "hegel-phenomenology-spirit",
+      "hegel-science-logic",
+      "hegel-philosophy-right",
+      "hegel-encyclopaedia"
+    ],
+    "problems": [
+      {
+        "titleZh": "意识如何通过承认走向精神？",
+        "questionZh": "黑格尔如何把认识问题转化为意识、他者和历史经验的运动？",
+        "claims": [
+          {
+            "claimZh": "黑格尔认为意识每一种确定性都会在自身标准下遭遇失败，并由否定推动到更高形态。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "黑格尔认为自我意识只有在另一个自我意识的承认中才能获得现实性，承认斗争暴露自由的社会结构。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "辩证法如何成为逻辑？",
+        "questionZh": "黑格尔为何认为矛盾和否定不是思维错误，而是概念发展的动力？",
+        "claims": [
+          {
+            "claimZh": "黑格尔把矛盾理解为有限规定自身的内在张力，而不是单纯应被排除的错误。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "黑格尔认为真理必须在概念展开的整体中把握，孤立判断只有在其关系和生成中才获得意义。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "现代自由如何制度化？",
+        "questionZh": "黑格尔如何把自由从主观任性推进到家庭、市民社会和国家中的伦理生活？",
+        "claims": [
+          {
+            "claimZh": "黑格尔认为个人权利和主观良心都是自由的重要环节，但若脱离制度共同体就会保持抽象。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "黑格尔把国家理解为伦理理念的现实，不是个人利益交换的外在契约。",
+            "claimEn": ""
+          }
+        ]
+      }
+    ],
+    "oneLineZh_old": "黑格尔是知识、自由问题谱系中的第一版候选哲人。",
+    "keywordsZh_old": [
+      "知识",
+      "自由",
+      "政治"
+    ]
+  },
+  {
+    "id": "schopenhauer",
+    "nameZh": "叔本华",
+    "summaryZh": "叔本华是知识、自由问题谱系中的第一版候选哲人。 本条目是第一版结构化资料，已经保留文明、传统、主题、作品和论述字段，正式发布前需要继续核对年代、文本出处和概念表述。",
+    "traditions": [
+      "modern_european_philosophy"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "knowledge",
+      "freedom",
+      "politics"
+    ],
+    "works": [
+      "schopenhauer-world-will-representation",
+      "schopenhauer-fourfold-root",
+      "schopenhauer-basis-morality",
+      "schopenhauer-parerga"
+    ],
+    "problems": [
+      {
+        "titleZh": "世界为何首先是表象？",
+        "questionZh": "叔本华如何从主体条件出发说明经验世界的结构？",
+        "claims": [
+          {
+            "claimZh": "叔本华认为世界作为对象总是为主体而存在，经验世界不是脱离主体形式的自在物。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "叔本华认为我的身体既是表象中的对象，又以内在感受显现为意志，因而提供通向世界本质的线索。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "意志为何导致痛苦？",
+        "questionZh": "叔本华如何把生命、欲望和痛苦联系成悲观主义形而上学？",
+        "claims": [
+          {
+            "claimZh": "叔本华认为世界本质不是理性目的，而是不断自我肯定的盲目意志。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "叔本华认为欲望意味着匮乏和痛苦，满足又迅速转为无聊，生命很难获得持久幸福。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "艺术和同情如何暂时或伦理地解脱？",
+        "questionZh": "叔本华如何在悲观主义中保留审美、同情和否定意志的出口？",
+        "claims": [
+          {
+            "claimZh": "叔本华认为艺术让人从欲求的个体主体转为纯粹认识主体，暂时摆脱意志带来的痛苦。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "叔本华把同情视为真正道德的基础，因为它让人直接感受他者痛苦并削弱个体隔离。",
+            "claimEn": ""
+          }
+        ]
+      }
+    ],
+    "oneLineZh_old": "叔本华是知识、自由问题谱系中的第一版候选哲人。",
+    "keywordsZh_old": [
+      "知识",
+      "自由",
+      "政治"
+    ]
+  },
+  {
+    "id": "kierkegaard",
+    "nameZh": "克尔凯郭尔",
+    "summaryZh": "克尔凯郭尔是知识、自由问题谱系中的第一版候选哲人。 本条目是第一版结构化资料，已经保留文明、传统、主题、作品和论述字段，正式发布前需要继续核对年代、文本出处和概念表述。",
+    "traditions": [
+      "modern_european_philosophy"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "knowledge",
+      "freedom",
+      "politics"
+    ],
+    "works": [
+      "kierkegaard-either-or",
+      "kierkegaard-fear-trembling",
+      "kierkegaard-concept-anxiety",
+      "kierkegaard-concluding-postscript",
+      "kierkegaard-sickness-unto-death"
+    ],
+    "problems": [
+      {
+        "titleZh": "个体如何在存在阶段中成为自己？",
+        "questionZh": "克尔凯郭尔如何通过审美、伦理和宗教阶段描述个体存在的选择？",
+        "claims": [
+          {
+            "claimZh": "克尔凯郭尔用审美人物展示一种追逐新奇、避免固定承诺的生活方式，这种生活看似自由，却容易陷入空虚和绝望。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "克尔凯郭尔认为伦理生活要求个体选择自己并承担持续责任，而不是停留在偶然情绪和瞬间兴趣中。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "信仰为何超出伦理普遍性？",
+        "questionZh": "克尔凯郭尔如何用亚伯拉罕说明信仰、荒谬和个体与上帝的绝对关系？",
+        "claims": [
+          {
+            "claimZh": "克尔凯郭尔认为信仰不是教义知识的平静接受，而是在荒谬处仍以激情作出存在承担。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "克尔凯郭尔用亚伯拉罕说明信仰可能要求个体暂时悬置伦理普遍性，直接面对上帝的绝对命令。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "焦虑和绝望如何揭示自我？",
+        "questionZh": "克尔凯郭尔如何把焦虑、罪和绝望作为自我生成的核心现象？",
+        "claims": [
+          {
+            "claimZh": "克尔凯郭尔认为焦虑不同于对确定对象的恐惧，它来自自由面对可能性时的眩晕。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "克尔凯郭尔认为绝望不是普通情绪低落，而是自我不能正确成为自身，或不愿在设立自己的力量面前成为自己。",
+            "claimEn": ""
+          }
+        ]
+      }
+    ],
+    "oneLineZh_old": "克尔凯郭尔是知识、自由问题谱系中的第一版候选哲人。",
+    "keywordsZh_old": [
+      "知识",
+      "自由",
+      "政治"
+    ]
+  },
+  {
+    "id": "mill",
+    "nameZh": "约翰·密尔",
+    "summaryZh": "约翰·密尔是知识、自由问题谱系中的第一版候选哲人。 本条目是第一版结构化资料，已经保留文明、传统、主题、作品和论述字段，正式发布前需要继续核对年代、文本出处和概念表述。",
+    "traditions": [
+      "modern_european_philosophy"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "knowledge",
+      "freedom",
+      "politics"
+    ],
+    "works": [
+      "mill-system-logic",
+      "mill-on-liberty",
+      "mill-utilitarianism",
+      "mill-subjection-women",
+      "mill-representative-government"
+    ],
+    "problems": [
+      {
+        "titleZh": "经验科学如何获得可靠归纳？",
+        "questionZh": "密尔如何在经验主义框架内为科学推理和社会科学提供方法？",
+        "claims": [
+          {
+            "claimZh": "密尔认为科学知识依赖从经验中发现因果关系，而归纳方法可以把杂乱观察转化为可检验推理。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "密尔认为研究社会现象也要依赖经验和因果分析，但人的心理和制度交互使社会科学不能照搬简单实验。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "自由为何需要伤害原则保护？",
+        "questionZh": "密尔如何为思想、生活实验和个体发展辩护，同时限制社会和国家的干预？",
+        "claims": [
+          {
+            "claimZh": "密尔认为文明社会中，对个人强制的唯一正当理由是防止伤害他人，而不是保护本人免于错误。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "密尔认为言论自由不仅保护正确意见，也保护错误意见，因为真理需要公开争辩保持活力；生活实验则让个性和进步成为可能。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "功利、平等与代议制如何结合？",
+        "questionZh": "密尔如何把最大幸福原则、女性平等和代表政府组织成自由主义改革方案？",
+        "claims": [
+          {
+            "claimZh": "密尔认为功利主义追求最大幸福，但幸福有质量差别，受过发展的人会偏好较高能力的活动。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "密尔认为女性从属和政治排斥浪费人类能力，也破坏公正；良好政府应通过代议制训练公共能力。",
+            "claimEn": ""
+          }
+        ]
+      }
+    ],
+    "oneLineZh_old": "约翰·密尔是知识、自由问题谱系中的第一版候选哲人。",
+    "keywordsZh_old": [
+      "知识",
+      "自由",
+      "政治"
+    ]
+  },
+  {
+    "id": "marx",
+    "nameZh": "马克思",
+    "summaryZh": "马克思是知识、自由问题谱系中的第一版候选哲人。 本条目是第一版结构化资料，已经保留文明、传统、主题、作品和论述字段，正式发布前需要继续核对年代、文本出处和概念表述。",
+    "traditions": [
+      "modern_european_philosophy"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "knowledge",
+      "freedom",
+      "politics"
+    ],
+    "works": [
+      "marx-primary-work"
+    ],
+    "problems": [
+      {
+        "titleZh": "生产关系如何塑造意识？",
+        "questionZh": "马克思如何围绕“生产关系如何塑造意识？”建立其思想问题？",
+        "claims": [
+          {
+            "claimZh": "马克思主张，意识不能脱离物质生活过程来解释；生产方式、分工和交往关系构成观念形态的现实前提。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "马克思认为哲学批判若只停留在观念解释，就会遮蔽现实关系；真正的批判要揭示并改变产生异化的社会结构。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "资本主义剥削如何被日常交换遮蔽？",
+        "questionZh": "马克思如何围绕“资本主义剥削如何被日常交换遮蔽？”建立其思想问题？",
+        "claims": [
+          {
+            "claimZh": "马克思主张，商品交换把人与人的社会劳动关系表现为物与物的关系，因而资本主义秩序显得自然而中立。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "马克思认为资本购买的不是劳动本身，而是劳动力；劳动力在生产中创造超过自身价值的价值。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "阶级斗争如何指向人的解放？",
+        "questionZh": "马克思如何围绕“阶级斗争如何指向人的解放？”建立其思想问题？",
+        "claims": [
+          {
+            "claimZh": "马克思主张现代社会的基本冲突集中为资产阶级与无产阶级的对抗，政治制度和思想形态都需放在这一结构中理解。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "马克思认为政治平等不足以消除异化和剥削；人的自由发展需要重组生产资料占有、劳动组织和社会分配关系。",
+            "claimEn": ""
+          }
+        ]
+      }
+    ],
+    "oneLineZh_old": "马克思是知识、自由问题谱系中的第一版候选哲人。",
+    "keywordsZh_old": [
+      "知识",
+      "自由",
+      "政治"
+    ]
+  },
+  {
+    "id": "nietzsche",
+    "nameZh": "尼采",
+    "summaryZh": "尼采是知识、自由问题谱系中的第一版候选哲人。 本条目是第一版结构化资料，已经保留文明、传统、主题、作品和论述字段，正式发布前需要继续核对年代、文本出处和概念表述。",
+    "traditions": [
+      "modern_european_philosophy"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "knowledge",
+      "freedom",
+      "politics"
+    ],
+    "works": [
+      "nietzsche-primary-work"
+    ],
+    "problems": [
+      {
+        "titleZh": "价值的谱系",
+        "questionZh": "道德价值是永恒真理，还是有其生成历史和权力关系？",
+        "claims": [
+          {
+            "claimZh": "理解道德不能只问它是否高尚，还要问它从何而来、服务何种生命状态。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "不同道德评价方式反映不同生命力量和历史处境。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "上帝之死与虚无主义",
+        "questionZh": "传统最高价值失去约束力后，人如何面对意义危机？",
+        "claims": [
+          {
+            "claimZh": "上帝之死意味着传统最高根据失效，而不只是一个神学命题。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "虚无主义不能只靠恢复旧信仰解决，而需要重新评估价值的生命意义。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "权力意志与自我超克",
+        "questionZh": "生命的基本动力是保存、幸福，还是扩张和形式创造？",
+        "claims": [
+          {
+            "claimZh": "生命的高贵形态不是停留在既有自我，而是不断克服自身。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "权力意志不只是外在支配欲，也表现为生命对自身和世界的解释、组织与塑形。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "视角主义与艺术肯定",
+        "questionZh": "如果没有无视角的真理，人是否只能陷入相对主义？",
+        "claims": [
+          {
+            "claimZh": "所谓真理往往是特定生命视角和解释方式的稳定化。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "尼采把艺术理解为对生命的肯定性解释，它能在无终极根据的处境中创造可承受的意义形式。",
+            "claimEn": ""
+          }
+        ]
+      }
+    ],
+    "oneLineZh_old": "尼采是知识、自由问题谱系中的第一版候选哲人。",
+    "keywordsZh_old": [
+      "知识",
+      "自由",
+      "政治"
+    ]
+  },
+  {
+    "id": "frege",
+    "nameZh": "弗雷格",
+    "summaryZh": "弗雷格是知识、自由问题谱系中的第一版候选哲人。 本条目是第一版结构化资料，已经保留文明、传统、主题、作品和论述字段，正式发布前需要继续核对年代、文本出处和概念表述。",
+    "traditions": [
+      "modern_european_philosophy"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "knowledge",
+      "freedom",
+      "politics"
+    ],
+    "works": [
+      "frege-primary-work"
+    ],
+    "problems": [
+      {
+        "titleZh": "算术真理如何获得客观性？",
+        "questionZh": "弗雷格如何围绕“算术真理如何获得客观性？”建立其思想问题？",
+        "claims": [
+          {
+            "claimZh": "弗雷格主张数的客观性不依赖个别主体的内在图像；算术命题的公共有效性要求区别概念、对象与表象。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "弗雷格认为算术的基本概念应通过逻辑定义获得，其证明不应依赖直观或经验事实，而应依赖普遍有效的推理规则。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "语言意义如何区别于指称？",
+        "questionZh": "弗雷格如何围绕“语言意义如何区别于指称？”建立其思想问题？",
+        "claims": [
+          {
+            "claimZh": "弗雷格主张，一个名称可以有同一指称却有不同意义；认知价值差异来自对象被呈现的方式，而非对象本身。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "弗雷格认为完整陈述句的指称是真值，句子的意义则是思想；这一分析把逻辑推理与语言结构紧密联系起来。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "逻辑形式如何澄清思想？",
+        "questionZh": "弗雷格如何围绕“逻辑形式如何澄清思想？”建立其思想问题？",
+        "claims": [
+          {
+            "claimZh": "弗雷格主张，许多句子的逻辑结构不应按语法主谓划分，而应通过函数与自变量、概念与对象来分析。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "弗雷格强调对象、一级概念和高阶概念不可混同；许多哲学误解来自把不同逻辑层级的表达当作同类对象。",
+            "claimEn": ""
+          }
+        ]
+      }
+    ],
+    "oneLineZh_old": "弗雷格是知识、自由问题谱系中的第一版候选哲人。",
+    "keywordsZh_old": [
+      "知识",
+      "自由",
+      "政治"
+    ]
+  },
+  {
+    "id": "husserl",
+    "nameZh": "胡塞尔",
+    "summaryZh": "胡塞尔是知识、自由问题谱系中的第一版候选哲人。 本条目是第一版结构化资料，已经保留文明、传统、主题、作品和论述字段，正式发布前需要继续核对年代、文本出处和概念表述。",
+    "traditions": [
+      "modern_european_philosophy"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "knowledge",
+      "freedom",
+      "politics"
+    ],
+    "works": [
+      "husserl-primary-work"
+    ],
+    "problems": [
+      {
+        "titleZh": "意识如何指向对象？",
+        "questionZh": "胡塞尔如何围绕“意识如何指向对象？”建立其思想问题？",
+        "claims": [
+          {
+            "claimZh": "胡塞尔主张，意识不能被理解为封闭心理事实；每一意识行为都以某种方式指向对象、意义或可能对象。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "胡塞尔认为同一对象可在不同侧显、期待和意义充实中被把握；对象性依赖可综合的显现过程。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "现象学还原如何成为方法？",
+        "questionZh": "胡塞尔如何围绕“现象学还原如何成为方法？”建立其思想问题？",
+        "claims": [
+          {
+            "claimZh": "胡塞尔的悬置并非怀疑世界存在，而是暂缓自然态度中的存在预设，以便考察世界意义如何在意识中显现。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "胡塞尔认为哲学应通过对经验结构的本质把握取得严格性，既不同于自然科学归纳，也不同于心理主义描述。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "生活世界为何成为科学危机的根源？",
+        "questionZh": "胡塞尔如何围绕“生活世界为何成为科学危机的根源？”建立其思想问题？",
+        "claims": [
+          {
+            "claimZh": "胡塞尔认为数学化自然科学获得精确性，同时容易把抽象模型误当作唯一真实世界，遗忘前科学经验基础。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "胡塞尔认为世界的客观性不是孤立自我私有经验的总和，而是在主体间可交流、可校正的经验地平线中形成。",
+            "claimEn": ""
+          }
+        ]
+      }
+    ],
+    "oneLineZh_old": "胡塞尔是知识、自由问题谱系中的第一版候选哲人。",
+    "keywordsZh_old": [
+      "知识",
+      "自由",
+      "政治"
+    ]
+  },
+  {
+    "id": "bergson",
+    "nameZh": "柏格森",
+    "summaryZh": "柏格森是知识、自由问题谱系中的第一版候选哲人。 本条目是第一版结构化资料，已经保留文明、传统、主题、作品和论述字段，正式发布前需要继续核对年代、文本出处和概念表述。",
+    "traditions": [
+      "modern_european_philosophy"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "knowledge",
+      "freedom",
+      "politics"
+    ],
+    "works": [
+      "bergson-primary-work"
+    ],
+    "problems": [
+      {
+        "titleZh": "真实时间为何不是空间化钟表时间？",
+        "questionZh": "柏格森如何围绕“真实时间为何不是空间化钟表时间？”建立其思想问题？",
+        "claims": [
+          {
+            "claimZh": "柏格森主张，真实时间不是可并列计数的点，而是相互渗透、不可还原为外在空间排列的意识流。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "柏格森认为自由不是无原因的任意选择，而是行动从个人全部历史和绵延中成熟地涌现出来。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "记忆如何连接身体与精神？",
+        "questionZh": "柏格森如何围绕“记忆如何连接身体与精神？”建立其思想问题？",
+        "claims": [
+          {
+            "claimZh": "柏格森认为知觉首先服务于身体可能行动的选择，不是对外部世界的中性复制。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "柏格森主张，过去并非只以脑痕迹形式存在；纯粹记忆作为过去的保存，使当前行动可被历史深度渗透。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "生命演化是否包含创造性？",
+        "questionZh": "柏格森如何围绕“生命演化是否包含创造性？”建立其思想问题？",
+        "claims": [
+          {
+            "claimZh": "柏格森认为机械论只能解释既成结构的重排，却难以说明生命演化中的真实新颖性和方向性分化。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "柏格森认为理智擅长处理固体、空间和工具性行动，但把握绵延与生命生成需要直觉方法。",
+            "claimEn": ""
+          }
+        ]
+      }
+    ],
+    "oneLineZh_old": "柏格森是知识、自由问题谱系中的第一版候选哲人。",
+    "keywordsZh_old": [
+      "知识",
+      "自由",
+      "政治"
+    ]
+  },
+  {
+    "id": "wittgenstein",
+    "nameZh": "维特根斯坦",
+    "summaryZh": "维特根斯坦是知识、自由问题谱系中的第一版候选哲人。 本条目是第一版结构化资料，已经保留文明、传统、主题、作品和论述字段，正式发布前需要继续核对年代、文本出处和概念表述。",
+    "traditions": [
+      "modern_european_philosophy"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "knowledge",
+      "freedom",
+      "politics"
+    ],
+    "works": [
+      "wittgenstein-primary-work"
+    ],
+    "problems": [
+      {
+        "titleZh": "语言如何给思想划界？",
+        "questionZh": "维特根斯坦如何围绕“语言如何给思想划界？”建立其思想问题？",
+        "claims": [
+          {
+            "claimZh": "维特根斯坦主张，命题有意义在于它以逻辑形式描绘可能事实，而不是复制感觉图像。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "维特根斯坦认为，逻辑形式、伦理和世界意义不能被普通事实命题陈述，却能显示自身。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "规则如何在生活中获得意义？",
+        "questionZh": "维特根斯坦如何围绕“规则如何在生活中获得意义？”建立其思想问题？",
+        "claims": [
+          {
+            "claimZh": "维特根斯坦主张，词语意义不能脱离具体语言游戏来固定，而要从使用方式中把握。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "维特根斯坦认为，规则能否被遵守取决于公共实践中的训练、判断和纠正。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "哲学如何治疗概念困惑？",
+        "questionZh": "维特根斯坦如何围绕“哲学如何治疗概念困惑？”建立其思想问题？",
+        "claims": [
+          {
+            "claimZh": "维特根斯坦认为，许多哲学困惑产生于词语脱离日常工作岗位后的语法误导。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "维特根斯坦主张，哲学应排列我们已经知道的用法，使困惑消失，而不是提出隐藏机制。",
+            "claimEn": ""
+          }
+        ]
+      }
+    ],
+    "oneLineZh_old": "维特根斯坦是知识、自由问题谱系中的第一版候选哲人。",
+    "keywordsZh_old": [
+      "知识",
+      "自由",
+      "政治"
+    ]
+  },
+  {
+    "id": "heidegger",
+    "nameZh": "海德格尔",
+    "summaryZh": "海德格尔是知识、自由问题谱系中的第一版候选哲人。 本条目是第一版结构化资料，已经保留文明、传统、主题、作品和论述字段，正式发布前需要继续核对年代、文本出处和概念表述。",
+    "traditions": [
+      "modern_european_philosophy"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "knowledge",
+      "freedom",
+      "politics"
+    ],
+    "works": [
+      "heidegger-primary-work"
+    ],
+    "problems": [
+      {
+        "titleZh": "存在问题为何被遗忘？",
+        "questionZh": "海德格尔如何围绕“存在问题为何被遗忘？”建立其思想问题？",
+        "claims": [
+          {
+            "claimZh": "海德格尔主张，存在问题不能被还原为某个最高存在者，必须重建存在与存在者的差异。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "海德格尔认为，能追问存在意义的存在者是此在，分析此在是进入存在问题的方法。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "此在如何总已在世界中？",
+        "questionZh": "海德格尔如何围绕“此在如何总已在世界中？”建立其思想问题？",
+        "claims": [
+          {
+            "claimZh": "海德格尔主张，此在不是孤立主体再面对对象世界，而是总已在有意义的世界关系中活动。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "海德格尔认为，器具首先在使用中以上手方式出现，只有故障或抽离时才成为对象。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "向死而在如何开启本真自由？",
+        "questionZh": "海德格尔如何围绕“向死而在如何开启本真自由？”建立其思想问题？",
+        "claims": [
+          {
+            "claimZh": "海德格尔主张，死亡不是外在事件，而是此在最本己、不可替代、不可逾越的可能性。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "海德格尔认为，本真自由不是任意选择，而是在被抛世界中听从良知召唤。",
+            "claimEn": ""
+          }
+        ]
+      }
+    ],
+    "oneLineZh_old": "海德格尔是知识、自由问题谱系中的第一版候选哲人。",
+    "keywordsZh_old": [
+      "知识",
+      "自由",
+      "政治"
+    ]
+  },
+  {
+    "id": "russell",
+    "nameZh": "罗素",
+    "summaryZh": "罗素是知识、自由问题谱系中的第一版候选哲人。 本条目是第一版结构化资料，已经保留文明、传统、主题、作品和论述字段，正式发布前需要继续核对年代、文本出处和概念表述。",
+    "traditions": [
+      "modern_european_philosophy"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "knowledge",
+      "freedom",
+      "politics"
+    ],
+    "works": [
+      "russell-primary-work"
+    ],
+    "problems": [
+      {
+        "titleZh": "逻辑分析如何澄清知识？",
+        "questionZh": "罗素如何围绕“逻辑分析如何澄清知识？”建立其思想问题？",
+        "claims": [
+          {
+            "claimZh": "罗素主张，数学基础应通过逻辑概念和关系理论来重建，而不是依赖心理直观。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "罗素认为，许多表面指称短语并不真正指称对象，通过逻辑分析可避免承诺不存在实体。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "经验知识如何在怀疑中成立？",
+        "questionZh": "罗素如何围绕“经验知识如何在怀疑中成立？”建立其思想问题？",
+        "claims": [
+          {
+            "claimZh": "罗素主张，我们直接熟知感觉材料和共相，而对物理对象多通过描述来认识。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "罗素认为，外部物理对象虽不能被直接把握，却可作为解释经验秩序的合理构造。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "自由社会如何防止权力迷信？",
+        "questionZh": "罗素如何围绕“自由社会如何防止权力迷信？”建立其思想问题？",
+        "claims": [
+          {
+            "claimZh": "罗素主张，公共生活需要保留可错性意识和批判精神，反对把权威绝对化。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "罗素认为，社会冲突常由权力欲驱动，自由社会必须以制度和公共批判限制支配冲动。",
+            "claimEn": ""
+          }
+        ]
+      }
+    ],
+    "oneLineZh_old": "罗素是知识、自由问题谱系中的第一版候选哲人。",
+    "keywordsZh_old": [
+      "知识",
+      "自由",
+      "政治"
+    ]
+  },
+  {
+    "id": "whitehead",
+    "nameZh": "怀特海",
+    "summaryZh": "怀特海是知识、自由问题谱系中的第一版候选哲人。 本条目是第一版结构化资料，已经保留文明、传统、主题、作品和论述字段，正式发布前需要继续核对年代、文本出处和概念表述。",
+    "traditions": [
+      "modern_european_philosophy"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "knowledge",
+      "freedom",
+      "politics"
+    ],
+    "works": [
+      "whitehead-primary-work"
+    ],
+    "problems": [
+      {
+        "titleZh": "现实为何应理解为过程？",
+        "questionZh": "怀特海如何围绕“现实为何应理解为过程？”建立其思想问题？",
+        "claims": [
+          {
+            "claimZh": "怀特海主张，最终实在不是持存物质实体，而是实际机缘的生成过程和相互摄取。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "怀特海认为，一个现实事物由其对过去世界的摄取构成，关系不是外加属性。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "科学自然观为何需要修正？",
+        "questionZh": "怀特海如何围绕“科学自然观为何需要修正？”建立其思想问题？",
+        "claims": [
+          {
+            "claimZh": "怀特海主张，科学抽象极有力量，但若把抽象模型误当具体现实，就会产生错置具体性谬误。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "怀特海认为，自然不是纯粹外在物质集合，经验中的感受和价值应被纳入自然哲学。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "创造性如何解释新颖性？",
+        "questionZh": "怀特海如何围绕“创造性如何解释新颖性？”建立其思想问题？",
+        "claims": [
+          {
+            "claimZh": "怀特海主张，创造性不是某个存在者的属性，而是多者成为一者并增加一者的原则。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "怀特海认为，永恒客体作为可能形式进入实际机缘，使世界既有秩序重复也有新颖选择。",
+            "claimEn": ""
+          }
+        ]
+      }
+    ],
+    "oneLineZh_old": "怀特海是知识、自由问题谱系中的第一版候选哲人。",
+    "keywordsZh_old": [
+      "知识",
+      "自由",
+      "政治"
+    ]
+  },
+  {
+    "id": "carnap",
+    "nameZh": "卡尔纳普",
+    "summaryZh": "卡尔纳普是知识、自由问题谱系中的第一版候选哲人。 本条目是第一版结构化资料，已经保留文明、传统、主题、作品和论述字段，正式发布前需要继续核对年代、文本出处和概念表述。",
+    "traditions": [
+      "modern_european_philosophy"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "knowledge",
+      "freedom",
+      "politics"
+    ],
+    "works": [
+      "carnap-primary-work"
+    ],
+    "problems": [
+      {
+        "titleZh": "哲学命题如何获得逻辑澄清？",
+        "questionZh": "卡尔纳普如何围绕“哲学命题如何获得逻辑澄清？”建立其思想问题？",
+        "claims": [
+          {
+            "claimZh": "卡尔纳普主张，许多传统哲学争论并非事实问题，而是语言框架和表达规则未被澄清。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "卡尔纳普认为，许多形而上学语句不能给出经验检验或逻辑规则中的使用条件。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "科学语言如何统一？",
+        "questionZh": "卡尔纳普如何围绕“科学语言如何统一？”建立其思想问题？",
+        "claims": [
+          {
+            "claimZh": "卡尔纳普主张，科学概念应在清楚的语言框架中定义、构造或还原。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "卡尔纳普认为，统一科学需要公共语言，物理主义语言因公共可检验性而适合承担协调功能。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "本体论问题是框架选择吗？",
+        "questionZh": "卡尔纳普如何围绕“本体论问题是实质争论还是框架选择？”建立其思想问题？",
+        "claims": [
+          {
+            "claimZh": "卡尔纳普主张，在既定语言框架内部，数、物或性质是否存在的问题可按规则回答。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "卡尔纳普认为，是否采用某语言框架主要取决于简便、丰饶和理论效用。",
+            "claimEn": ""
+          }
+        ]
+      }
+    ],
+    "oneLineZh_old": "卡尔纳普是知识、自由问题谱系中的第一版候选哲人。",
+    "keywordsZh_old": [
+      "知识",
+      "自由",
+      "政治"
+    ]
+  },
+  {
+    "id": "arendt",
+    "nameZh": "阿伦特",
+    "summaryZh": "阿伦特是知识、自由问题谱系中的第一版候选哲人。 本条目是第一版结构化资料，已经保留文明、传统、主题、作品和论述字段，正式发布前需要继续核对年代、文本出处和概念表述。",
+    "traditions": [
+      "modern_european_philosophy"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "knowledge",
+      "freedom",
+      "politics"
+    ],
+    "works": [
+      "arendt-primary-work"
+    ],
+    "problems": [
+      {
+        "titleZh": "行动如何揭示人的自由？",
+        "questionZh": "阿伦特如何围绕“行动如何揭示人的自由？”建立其思想问题？",
+        "claims": [
+          {
+            "claimZh": "阿伦特主张，人通过言说和行动在公共世界中显现独特身份，政治自由由此发生。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "阿伦特认为，人的诞生性意味着每个人都能开启不可预见的新过程，这是政治行动的根基。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "极权主义如何摧毁共同世界？",
+        "questionZh": "阿伦特如何围绕“极权主义如何摧毁共同世界？”建立其思想问题？",
+        "claims": [
+          {
+            "claimZh": "阿伦特认为，极权运动依赖群众孤立、社会关系断裂和共同世界崩解。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "阿伦特主张，极权意识形态把历史或自然规律绝对化，使事实和责任被推理链条吞没。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "判断如何抵抗平庸之恶？",
+        "questionZh": "阿伦特如何围绕“判断如何抵抗平庸之恶？”建立其思想问题？",
+        "claims": [
+          {
+            "claimZh": "阿伦特认为，恶有时来自拒绝思考和不能从他人立场判断，而非深刻恶魔性。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "阿伦特主张，公共判断要求想象他人可能立场，并在复数性中形成可交流判断。",
+            "claimEn": ""
+          }
+        ]
+      }
+    ],
+    "oneLineZh_old": "阿伦特是知识、自由问题谱系中的第一版候选哲人。",
+    "keywordsZh_old": [
+      "知识",
+      "自由",
+      "政治"
+    ]
+  },
+  {
+    "id": "sartre",
+    "nameZh": "萨特",
+    "summaryZh": "萨特是知识、自由问题谱系中的第一版候选哲人。 本条目是第一版结构化资料，已经保留文明、传统、主题、作品和论述字段，正式发布前需要继续核对年代、文本出处和概念表述。",
+    "traditions": [
+      "modern_european_philosophy"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "knowledge",
+      "freedom",
+      "politics"
+    ],
+    "works": [
+      "sartre-primary-work"
+    ],
+    "problems": [
+      {
+        "titleZh": "存在为何先于本质？",
+        "questionZh": "萨特如何围绕“存在为何先于本质？”建立其思想问题？",
+        "claims": [
+          {
+            "claimZh": "萨特主张，人不是按照既定本质被制造出来的对象，而是在存在之后通过行动成为自己。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "萨特认为，人在选择自身时也在选择一种人的形象，因此自由总伴随责任。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "意识如何以虚无方式存在？",
+        "questionZh": "萨特如何围绕“意识如何以虚无方式存在？”建立其思想问题？",
+        "claims": [
+          {
+            "claimZh": "萨特主张，自为存在不同于自在存在；意识总是超出自身既定状态而指向可能。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "萨特认为，自欺不是简单错误信念，而是意识试图把自己固定为物以逃避自由责任。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "他人如何改变自我关系？",
+        "questionZh": "萨特如何围绕“他人如何改变自我关系？”建立其思想问题？",
+        "claims": [
+          {
+            "claimZh": "萨特主张，在他人凝视下，我体验到自己作为对象被把握，自我关系因此改变。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "萨特认为，人与人的关系常在对象化与逃离对象化之间摆动，自由之间存在冲突。",
+            "claimEn": ""
+          }
+        ]
+      }
+    ],
+    "oneLineZh_old": "萨特是知识、自由问题谱系中的第一版候选哲人。",
+    "keywordsZh_old": [
+      "知识",
+      "自由",
+      "政治"
+    ]
+  },
+  {
+    "id": "beauvoir",
+    "nameZh": "波伏娃",
+    "summaryZh": "波伏娃是知识、自由问题谱系中的第一版候选哲人。 本条目是第一版结构化资料，已经保留文明、传统、主题、作品和论述字段，正式发布前需要继续核对年代、文本出处和概念表述。",
+    "traditions": [
+      "modern_european_philosophy"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "knowledge",
+      "freedom",
+      "politics"
+    ],
+    "works": [
+      "beauvoir-primary-work"
+    ],
+    "problems": [
+      {
+        "titleZh": "女人如何被历史地制造？",
+        "questionZh": "波伏娃如何围绕“女人如何被历史地制造？”建立其思想问题？",
+        "claims": [
+          {
+            "claimZh": "波伏娃主张，女人并非由生物事实直接决定，而是在社会化和制度中被塑造。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "波伏娃认为，父权文化把男性设为中性主体和普遍标准，女性则被定义为相对的他者。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "自由如何受处境限制？",
+        "questionZh": "波伏娃如何围绕“自由如何受处境限制？”建立其思想问题？",
+        "claims": [
+          {
+            "claimZh": "波伏娃主张，人的自由必须通过具体处境中的行动实现，压迫会系统性压缩可能性。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "波伏娃认为，真正伦理关系要求承认并促进他人自由，而不是把他人降为工具。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "身体经验为何不是命运？",
+        "questionZh": "波伏娃如何围绕“身体经验为何不是命运？”建立其思想问题？",
+        "claims": [
+          {
+            "claimZh": "波伏娃主张，身体事实本身不足以决定命运，关键在于社会如何解释和组织身体经验。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "波伏娃认为，女孩成长、恋爱、婚姻和劳动中的日常训练不断生产女性处境，也留下反抗可能。",
+            "claimEn": ""
+          }
+        ]
+      }
+    ],
+    "oneLineZh_old": "波伏娃是知识、自由问题谱系中的第一版候选哲人。",
+    "keywordsZh_old": [
+      "知识",
+      "自由",
+      "政治"
+    ]
+  },
+  {
+    "id": "merleau-ponty",
+    "nameZh": "梅洛-庞蒂",
+    "summaryZh": "梅洛-庞蒂是知识、自由问题谱系中的第一版候选哲人。 本条目是第一版结构化资料，已经保留文明、传统、主题、作品和论述字段，正式发布前需要继续核对年代、文本出处和概念表述。",
+    "traditions": [
+      "modern_european_philosophy"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "knowledge",
+      "freedom",
+      "politics"
+    ],
+    "works": [
+      "merleau-ponty-primary-work"
+    ],
+    "problems": [
+      {
+        "titleZh": "身体如何成为知觉主体？",
+        "questionZh": "梅洛-庞蒂如何围绕“身体如何成为知觉主体？”建立其思想问题？",
+        "claims": [
+          {
+            "claimZh": "梅洛-庞蒂主张，我们通过身体图式直接把握空间和行动可能，而非先形成内在表象。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "梅洛-庞蒂认为，知觉不是心灵复制外物，而是身体在世界中与行动场相互交织。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "意义如何在表达中生成？",
+        "questionZh": "梅洛-庞蒂如何围绕“意义如何在表达中生成？”建立其思想问题？",
+        "claims": [
+          {
+            "claimZh": "梅洛-庞蒂主张，真正表达不是把预成思想翻译成词，而是在说话中形成新的意义。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "梅洛-庞蒂认为，绘画等艺术能显现日常视觉背后的可见性结构。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "他人如何在世界中被给予？",
+        "questionZh": "梅洛-庞蒂如何围绕“他人如何在世界中被给予？”建立其思想问题？",
+        "claims": [
+          {
+            "claimZh": "梅洛-庞蒂主张，他人的意图不只是隐藏心灵的外部迹象，而在身体行为中直接呈现。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "梅洛-庞蒂认为，个人知觉总已处在历史、语言和制度组成的共同世界中。",
+            "claimEn": ""
+          }
+        ]
+      }
+    ],
+    "oneLineZh_old": "梅洛-庞蒂是知识、自由问题谱系中的第一版候选哲人。",
+    "keywordsZh_old": [
+      "知识",
+      "自由",
+      "政治"
+    ]
+  },
+  {
+    "id": "camus",
+    "nameZh": "加缪",
+    "summaryZh": "加缪是知识、自由问题谱系中的第一版候选哲人。 本条目是第一版结构化资料，已经保留文明、传统、主题、作品和论述字段，正式发布前需要继续核对年代、文本出处和概念表述。",
+    "traditions": [
+      "modern_european_philosophy"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "knowledge",
+      "freedom",
+      "politics"
+    ],
+    "works": [
+      "camus-primary-work"
+    ],
+    "problems": [
+      {
+        "titleZh": "荒诞如何改变生命意义问题？",
+        "questionZh": "加缪如何围绕“荒诞如何改变生命意义问题？”建立其思想问题？",
+        "claims": [
+          {
+            "claimZh": "加缪主张，荒诞在人的意义要求与世界沉默相遇处产生，而非单纯属于世界或人。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "加缪认为，承认荒诞不应导向放弃生命或形而上逃避，而应导向清醒和持续生活。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "反抗如何避免成为新的压迫？",
+        "questionZh": "加缪如何围绕“反抗如何避免成为新的压迫？”建立其思想问题？",
+        "claims": [
+          {
+            "claimZh": "加缪主张，真正反抗既拒绝不可忍受的压迫，也肯定某种值得共同维护的价值。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "加缪认为，革命若以未来正义取消当下生命限度，就可能转化为新的杀戮秩序。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "没有终极意义时如何自由创造？",
+        "questionZh": "加缪如何围绕“没有终极意义时如何自由创造？”建立其思想问题？",
+        "claims": [
+          {
+            "claimZh": "加缪主张，一旦放弃终极意义保证，人反而能在有限生命中承担更清醒的自由。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "加缪认为，艺术创造不提供最终救赎，却通过形式和重复使人持续面对荒诞。",
+            "claimEn": ""
+          }
+        ]
+      }
+    ],
+    "oneLineZh_old": "加缪是知识、自由问题谱系中的第一版候选哲人。",
+    "keywordsZh_old": [
+      "知识",
+      "自由",
+      "政治"
+    ]
+  },
+  {
+    "id": "foucault",
+    "nameZh": "福柯",
+    "summaryZh": "福柯是知识、自由问题谱系中的第一版候选哲人。 本条目是第一版结构化资料，已经保留文明、传统、主题、作品和论述字段，正式发布前需要继续核对年代、文本出处和概念表述。",
+    "traditions": [
+      "modern_european_philosophy"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "knowledge",
+      "freedom",
+      "politics"
+    ],
+    "works": [
+      "foucault-primary-work"
+    ],
+    "problems": [
+      {
+        "titleZh": "知识如何与权力共同生产主体？",
+        "questionZh": "福柯如何围绕“知识如何与权力共同生产主体？”建立其思想问题？",
+        "claims": [
+          {
+            "claimZh": "福柯主张，现代知识并非中立发现对象，而是在制度、话语和治理实践中形成对象。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "福柯认为，现代主体不是权力之外的原初核心，而是在告白、医学和刑罚等话语中被生产。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "规训权力如何区别于主权权力？",
+        "questionZh": "福柯如何围绕“规训权力如何区别于主权权力？”建立其思想问题？",
+        "claims": [
+          {
+            "claimZh": "福柯主张，现代权力通过训练、记录和比较生产顺从而有用的身体。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "福柯认为，全景敞视结构通过可见性不对称让个体自我监督。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "批判如何成为自我实践？",
+        "questionZh": "福柯如何围绕“批判如何成为自我实践？”建立其思想问题？",
+        "claims": [
+          {
+            "claimZh": "福柯主张，批判是追问某种治理方式的真理条件和限度，而非抽象否定权力。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "福柯认为，古代伦理中的自我实践显示主体可通过训练和生活形式改造自身。",
+            "claimEn": ""
+          }
+        ]
+      }
+    ],
+    "oneLineZh_old": "福柯是知识、自由问题谱系中的第一版候选哲人。",
+    "keywordsZh_old": [
+      "知识",
+      "自由",
+      "政治"
+    ]
+  },
+  {
+    "id": "derrida",
+    "nameZh": "德里达",
+    "summaryZh": "德里达是知识、自由问题谱系中的第一版候选哲人。 本条目是第一版结构化资料，已经保留文明、传统、主题、作品和论述字段，正式发布前需要继续核对年代、文本出处和概念表述。",
+    "traditions": [
+      "modern_european_philosophy"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "knowledge",
+      "freedom",
+      "politics"
+    ],
+    "works": [
+      "derrida-primary-work"
+    ],
+    "problems": [
+      {
+        "titleZh": "意义为何总在差异中延异？",
+        "questionZh": "德里达如何围绕“意义为何总在差异中延异？”建立其思想问题？",
+        "claims": [
+          {
+            "claimZh": "德里达主张，符号意义不能归结为完全在场的意图或本源，而总依赖差异网络。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "德里达认为，意义通过与其他符号的差异产生，同时又不断推迟最终固定。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "书写为何不是言语的次级复制？",
+        "questionZh": "德里达如何围绕“书写为何不是言语的次级复制？”建立其思想问题？",
+        "claims": [
+          {
+            "claimZh": "德里达主张，符号能发挥作用是因为它可脱离原初语境重复，而这不是书写缺陷。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "德里达认为，任何解释都依赖语境，但语境本身没有最终边界。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "解构如何介入伦理与政治？",
+        "questionZh": "德里达如何围绕“解构如何介入伦理与政治？”建立其思想问题？",
+        "claims": [
+          {
+            "claimZh": "德里达主张，法律可被制定和解释，正义却不能被完全等同于现有规则体系。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "德里达认为，真正的责任不是机械执行规则，而是在规则不足以决定时仍必须承担决定。",
+            "claimEn": ""
+          }
+        ]
+      }
+    ],
+    "oneLineZh_old": "德里达是知识、自由问题谱系中的第一版候选哲人。",
+    "keywordsZh_old": [
+      "知识",
+      "自由",
+      "政治"
+    ]
+  },
+  {
+    "id": "habermas",
+    "nameZh": "哈贝马斯",
+    "summaryZh": "哈贝马斯是知识、自由问题谱系中的第一版候选哲人。 本条目是第一版结构化资料，已经保留文明、传统、主题、作品和论述字段，正式发布前需要继续核对年代、文本出处和概念表述。",
+    "traditions": [
+      "modern_european_philosophy"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "knowledge",
+      "freedom",
+      "politics"
+    ],
+    "works": [
+      "habermas-primary-work"
+    ],
+    "problems": [
+      {
+        "titleZh": "交往理性如何区别于工具理性？",
+        "questionZh": "哈贝马斯如何围绕“交往理性如何区别于工具理性？”建立其思想问题？",
+        "claims": [
+          {
+            "claimZh": "哈贝马斯主张，交往行动不同于策略行动，其内在目标是通过可辩护理由达成相互理解。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "哈贝马斯认为，语言交往包含真、正当和真诚等有效性要求，这些要求可被参与者质疑。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "公共领域如何支撑民主合法性？",
+        "questionZh": "哈贝马斯如何围绕“公共领域如何支撑民主合法性？”建立其思想问题？",
+        "claims": [
+          {
+            "claimZh": "哈贝马斯主张，公共领域是私人公民围绕共同事务进行理性讨论并形成舆论的空间。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "哈贝马斯认为，现代法律的正当性来自受影响者可能参与的公共商谈和民主程序。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "生活世界为何会被系统殖民？",
+        "questionZh": "哈贝马斯如何围绕“生活世界为何会被系统殖民？”建立其思想问题？",
+        "claims": [
+          {
+            "claimZh": "哈贝马斯认为，文化、社会整合和人格形成依赖生活世界中的交往再生产。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "哈贝马斯主张，金钱和行政权力的系统逻辑若侵入生活世界，会造成意义和团结危机。",
+            "claimEn": ""
+          }
+        ]
+      }
+    ],
+    "oneLineZh_old": "哈贝马斯是知识、自由问题谱系中的第一版候选哲人。",
+    "keywordsZh_old": [
+      "知识",
+      "自由",
+      "政治"
+    ]
+  },
+  {
+    "id": "mahavira",
+    "nameZh": "摩诃毗罗",
+    "summaryZh": "摩诃毗罗是宗教、形而上学问题谱系中的第一版候选哲人。 本条目是第一版结构化资料，已经保留文明、传统、主题、作品和论述字段，正式发布前需要继续核对年代、文本出处和概念表述。",
+    "traditions": [
+      "indian_philosophy"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "religion",
+      "metaphysics",
+      "life_death"
+    ],
+    "works": [
+      "mahavira-primary-work"
+    ],
+    "problems": [
+      {
+        "titleZh": "人如何脱离轮回与痛苦？",
+        "questionZh": "灵魂如何从业力、欲望、身体执著和不断轮回中解放出来，并达到不再受生死束缚的 mokṣa？",
+        "claims": [
+          {
+            "claimZh": "摩诃毗罗传统认为通向解脱的道路不是祭祀或神恩，而是正见、正知、正行的结合；灵魂必须通过自身修持理解真实、规范行为并清除业力。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "摩诃毗罗把解脱目标落实为五大盘誓：不害、实语、不盗、梵行、无执；这些戒律既是道德规范，也是阻止业力继续附着于灵魂的技术。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "如何理解生命与伤害的边界？",
+        "questionZh": "如果生命不只限于人和动物，而扩展到植物、微生物和元素存在，那么伦理上的伤害、责任与日常生活应如何被重新界定？",
+        "claims": [
+          {
+            "claimZh": "在摩诃毗罗传统中，ahimsā 不只是禁止杀害，而是要求意念、语言和身体行为都尽量避免造成伤害，因此它成为全部伦理和修行制度的中心。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "摩诃毗罗传统把 jīva 理解为广泛存在于动物、植物、微生物和元素形态中，因此伦理责任不只面对可见的人类共同体，而面对一切有生命者。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "真理是否只能从一个角度说出？",
+        "questionZh": "如果实相具有多个方面，而人的知识总是受立场和条件限制，那么我们应如何避免独断，同时又不放弃对真实的追求？",
+        "claims": [
+          {
+            "claimZh": "anekāntavāda 认为实相不是单一命题可以穷尽的对象；任何断言都只是在特定角度下把握真实的一部分，因此独断本身就是认识上的偏执。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "syādvāda 通过“从某种角度说”的限定判断训练人避免绝对化自己的观点；这种知识论实践也可理解为一种思想层面的 ahimsā。",
+            "claimEn": ""
+          }
+        ]
+      }
+    ],
+    "oneLineZh_old": "摩诃毗罗是宗教、形而上学问题谱系中的第一版候选哲人。",
+    "keywordsZh_old": [
+      "宗教",
+      "形而上学",
+      "生死"
+    ]
+  },
+  {
+    "id": "nagarjuna",
+    "nameZh": "龙树",
+    "summaryZh": "龙树是宗教、形而上学问题谱系中的第一版候选哲人。 本条目是第一版结构化资料，已经保留文明、传统、主题、作品和论述字段，正式发布前需要继续核对年代、文本出处和概念表述。",
+    "traditions": [
+      "indian_philosophy"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "religion",
+      "metaphysics",
+      "life_death"
+    ],
+    "works": [
+      "nagarjuna-primary-work"
+    ],
+    "problems": [
+      {
+        "titleZh": "事物是否有独立自性？",
+        "questionZh": "世界中的事物、因果、自我和概念是否必须拥有一种独立、固定、不依赖他物的自性，才能被认为真实存在？",
+        "claims": [
+          {
+            "claimZh": "龙树所谓“空”首先是否定诸法具有独立、自足、固定的自性，而不是说经验世界完全不存在或一切判断都失效。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "龙树把缘起与空互相解释：凡依条件、关系和概念而成立者，就不能同时拥有不依赖他物的自性。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "语言、证明和真理如何成立？",
+        "questionZh": "如果一切法都无自性，语言、知识工具、对象、论证和真理是否也会失去根据？龙树如何避免自我反驳？",
+        "claims": [
+          {
+            "claimZh": "龙树的主要论证方式不是建立一套新的自性理论，而是借用对手承认的前提，推出自性论在因果、运动、自我和知识问题上的矛盾。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "龙树在《回诤论》问题域中表明，即使论证、证明者和被证明对象都无自性，反驳仍可在世俗约定中有效。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "空性如何关联解脱与生死？",
+        "questionZh": "如果轮回、苦、业、四圣谛和涅槃也都无自性，那么佛教的修行目标是否会被取消，还是反而获得新的解释？",
+        "claims": [
+          {
+            "claimZh": "龙树认为如果诸法具有固定自性，苦、集、灭、道就无法发生变化；正因为诸法空，止息痛苦和修行转化才可能。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "龙树处理涅槃时，反对把涅槃理解为一个拥有独立自性的实体领域；涅槃与轮回的差别必须在无自性和执著解除中理解。",
+            "claimEn": ""
+          }
+        ]
+      }
+    ],
+    "oneLineZh_old": "龙树是宗教、形而上学问题谱系中的第一版候选哲人。",
+    "keywordsZh_old": [
+      "宗教",
+      "形而上学",
+      "生死"
+    ]
+  },
+  {
+    "id": "vasubandhu",
+    "nameZh": "世亲",
+    "summaryZh": "世亲是宗教、形而上学问题谱系中的第一版候选哲人。 本条目是第一版结构化资料，已经保留文明、传统、主题、作品和论述字段，正式发布前需要继续核对年代、文本出处和概念表述。",
+    "traditions": [
+      "indian_philosophy"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "religion",
+      "metaphysics",
+      "life_death"
+    ],
+    "works": [
+      "vasubandhu-primary-work"
+    ],
+    "problems": [
+      {
+        "titleZh": "无我条件下如何说明经验与人格？",
+        "questionZh": "如果不存在五蕴之外的实体自我，那么经验、记忆、行动和人格连续性应如何被解释，而不落入断灭或常我？",
+        "claims": [
+          {
+            "claimZh": "世亲反对把“人”或“我”设定为五蕴之外的独立实体；人格只是五蕴、十二处和心相续上的概念建构。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "《俱舍论》的法类、蕴处界、业和烦恼分析并非纯粹分类学，而是为了说明经验如何被构成、如何产生痛苦以及如何通过道而转化。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "外境是否以主客二分方式独立存在？",
+        "questionZh": "我们经验到的对象是否必须是独立于心识、以主客二分方式被认识的外物，还是可以被解释为心识中的表象与业力条件？",
+        "claims": [
+          {
+            "claimZh": "《唯识二十论》通过梦、眼病、地狱共同经验等例子说明，表象也可以呈现出时空限制、共享性和因果效力。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "三性理论把经验区分为被误执的对象、产生显现的依他过程，以及离开虚妄二取后的圆成真实。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "业、轮回和解脱的连续性如何可能？",
+        "questionZh": "如果身心法都刹那变化、没有常住自我，那么过去行为如何成熟为未来果报，轮回如何连续，解脱又如何发生？",
+        "claims": [
+          {
+            "claimZh": "世亲引入阿赖耶识和种子模型，是为了解释过去经验和行为如何在没有常住自我的情况下影响未来经验。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "世亲的唯识修道把解脱理解为破除主客二取、净化染污心流，并使识转化为非分别智的过程。",
+            "claimEn": ""
+          }
+        ]
+      }
+    ],
+    "oneLineZh_old": "世亲是宗教、形而上学问题谱系中的第一版候选哲人。",
+    "keywordsZh_old": [
+      "宗教",
+      "形而上学",
+      "生死"
+    ]
+  },
+  {
+    "id": "adi-shankara",
+    "nameZh": "商羯罗",
+    "summaryZh": "商羯罗是宗教、形而上学问题谱系中的第一版候选哲人。 本条目是第一版结构化资料，已经保留文明、传统、主题、作品和论述字段，正式发布前需要继续核对年代、文本出处和概念表述。",
+    "traditions": [
+      "indian_philosophy"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "religion",
+      "metaphysics",
+      "life_death"
+    ],
+    "works": [
+      "adi-shankara-primary-work"
+    ],
+    "problems": [
+      {
+        "titleZh": "梵我同一如何可能？",
+        "questionZh": "如果日常经验呈现出个人、世界和最高真实之间的差别，那么商羯罗如何说明 Ātman 与 Brahman 在究竟层面无二？",
+        "claims": [
+          {
+            "claimZh": "商羯罗把 Brahman 理解为一切经验和存在的最高根基；在究竟层面，Brahman 不与第二个独立真实并列。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "商羯罗认为 Ātman 不是身体、感官、心理活动或行动者身份；当自我被正确认识时，它与 Brahman 无二。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "无明与叠置如何生成经验世界？",
+        "questionZh": "如果最高真实无二，为什么人仍然经验到身体、自我、他者、行动和世界差别，并把这些差别当作最终真实？",
+        "claims": [
+          {
+            "claimZh": "商羯罗把人的基本困境解释为自我与非自我的相互叠置：人把身体、感官和心理状态当成“我”，又把意识性误归给非自我结构。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "商羯罗允许经验层面中的因果、伦理、教学和修行有效，但认为这些有效性并不能证明世界差别是究竟真实。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "为什么解脱依赖知识而不是行动？",
+        "questionZh": "如果宗教传统包含祭祀、义务、冥想和伦理修行，商羯罗为什么仍坚持最终解脱必须通过对 Ātman-Brahman 同一的知识来实现？",
+        "claims": [
+          {
+            "claimZh": "商羯罗认为束缚的根本是无明和误认，因此只有知识能够直接解除它；行动最多改变条件，不能制造本来常住的自我。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "商羯罗把 śruti 视为认识 Brahman 的关键手段，因为 Brahman 不是感官对象，普通推理也无法独立把握其无二性质。",
+            "claimEn": ""
+          }
+        ]
+      }
+    ],
+    "oneLineZh_old": "商羯罗是宗教、形而上学问题谱系中的第一版候选哲人。",
+    "keywordsZh_old": [
+      "宗教",
+      "形而上学",
+      "生死"
+    ]
+  },
+  {
+    "id": "ramanuja",
+    "nameZh": "罗摩奴阇",
+    "summaryZh": "罗摩奴阇是宗教、形而上学问题谱系中的第一版候选哲人。 本条目是第一版结构化资料，已经保留文明、传统、主题、作品和论述字段，正式发布前需要继续核对年代、文本出处和概念表述。",
+    "traditions": [
+      "indian_philosophy"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "religion",
+      "metaphysics",
+      "life_death"
+    ],
+    "works": [
+      "ramanuja-primary-work"
+    ],
+    "problems": [
+      {
+        "titleZh": "最高真实能否既统一又有属性？",
+        "questionZh": "如果 Brahman 是最高真实，罗摩奴阇如何同时保存它的唯一性、无限吉祥属性，以及灵魂和世界的真实差异？",
+        "claims": [
+          {
+            "claimZh": "罗摩奴阇反对把 Brahman 解释为无任何属性的纯粹绝对者；最高真实是具有无限吉祥属性的 Nārāyaṇa / Viṣṇu。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "罗摩奴阇的不二不是消除差异，而是说明 cit 与 acit 真实存在并作为 Brahman 的限定而构成一个统一整体。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "灵魂与世界如何真实而依附于神？",
+        "questionZh": "如果个体灵魂和物质世界都真实存在，它们如何既不是幻象，也不是与 Brahman 完全并列的独立实体？",
+        "claims": [
+          {
+            "claimZh": "罗摩奴阇把 cit 与 acit 解释为 Brahman 的身体：它们真实存在，但其存在、意义和活动都依赖内在支配者。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "罗摩奴阇认为个体灵魂在解脱中摆脱业缚并获得对神的直接认识和亲近，但并不被无差别地吞没。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "解脱为何需要虔信与皈依？",
+        "questionZh": "在罗摩奴阇系统中，知识、行动、虔信和神恩各自扮演什么角色，为什么解脱不能被简化为抽象认识？",
+        "claims": [
+          {
+            "claimZh": "罗摩奴阇把 bhakti 理解为以知识和纪律为基础、面向最高人格神的持续专注与爱，是通向解脱的核心道路。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "罗摩奴阇传统中的 prapatti 或 śaraṇāgati 表明灵魂最终依靠神的恩典与救护，而不是凭自身能力占有解脱。",
+            "claimEn": ""
+          }
+        ]
+      }
+    ],
+    "oneLineZh_old": "罗摩奴阇是宗教、形而上学问题谱系中的第一版候选哲人。",
+    "keywordsZh_old": [
+      "宗教",
+      "形而上学",
+      "生死"
+    ]
+  },
+  {
+    "id": "tagore",
+    "nameZh": "泰戈尔",
+    "summaryZh": "泰戈尔是宗教、形而上学问题谱系中的第一版候选哲人。 本条目是第一版结构化资料，已经保留文明、传统、主题、作品和论述字段，正式发布前需要继续核对年代、文本出处和概念表述。",
+    "traditions": [
+      "indian_philosophy"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "religion",
+      "metaphysics",
+      "life_death"
+    ],
+    "works": [
+      "tagore-primary-work"
+    ],
+    "problems": [
+      {
+        "titleZh": "宗教如何成为人的无限实现？",
+        "questionZh": "如果宗教不只是外在教条、制度或仪式，泰戈尔如何说明神圣、无限和人性之间的关系？",
+        "claims": [
+          {
+            "claimZh": "泰戈尔把宗教理解为人对自身无限维度的实现；神圣在普遍的人、爱与创造中显现，而不只是外在教义。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "泰戈尔认为有限个体并不在孤立中完成自身，而是在爱、自然亲缘和创造活动中参与更大的无限统一。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "教育如何释放自由人格？",
+        "questionZh": "如果现代教育容易变成考试、灌输和行政训练，泰戈尔如何重新定义教育与人的自由、自然和创造之间的关系？",
+        "claims": [
+          {
+            "claimZh": "泰戈尔反对把教育降为知识灌输、考试训练和殖民行政工具，主张教育应释放儿童的感知、创造力和人格。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "泰戈尔的自由不是孤立个人主义，而是人在艺术创造、自然亲近和跨文化相遇中展开自己的普遍人性。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "如何批判民族主义而不否定文化自我？",
+        "questionZh": "在殖民时代的印度，泰戈尔为什么批判民族主义和国家机器，同时又维护文化尊严、教育自立和世界主义？",
+        "claims": [
+          {
+            "claimZh": "泰戈尔批判排他民族主义和机械国家，因为它们会让人性、伦理和文化服从权力竞争与组织效率。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "泰戈尔的世界主义不是无根同质化，而是要求地方文化在开放相遇中实现自我，并受普遍人性约束。",
+            "claimEn": ""
+          }
+        ]
+      }
+    ],
+    "oneLineZh_old": "泰戈尔是宗教、形而上学问题谱系中的第一版候选哲人。",
+    "keywordsZh_old": [
+      "宗教",
+      "形而上学",
+      "生死"
+    ]
+  },
+  {
+    "id": "gandhi",
+    "nameZh": "甘地",
+    "summaryZh": "甘地是宗教、形而上学问题谱系中的第一版候选哲人。 本条目是第一版结构化资料，已经保留文明、传统、主题、作品和论述字段，正式发布前需要继续核对年代、文本出处和概念表述。",
+    "traditions": [
+      "indian_philosophy"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "religion",
+      "metaphysics",
+      "life_death"
+    ],
+    "works": [
+      "gandhi-primary-work"
+    ],
+    "problems": [
+      {
+        "titleZh": "真理与非暴力如何成为政治行动的基础？",
+        "questionZh": "甘地为什么把真理、神、非暴力和政治抵抗连成一个整体，而不是把非暴力只当成弱者的策略？",
+        "claims": [
+          {
+            "claimZh": "甘地把真理置于宗教、伦理和政治的共同核心；政治行动只有作为真理实验，才不会退化为单纯权力技术。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "甘地的非暴力不是放弃冲突，而是要求以不伤害、公开违抗、自愿受苦和纪律化行动来坚持真理。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "Swaraj 为什么首先是自我统治？",
+        "questionZh": "如果反殖民独立不只是政权易手，甘地如何把 swaraj 理解为自我约束、文明批判和地方共同体重建？",
+        "claims": [
+          {
+            "claimZh": "甘地认为 swaraj 首先是自我统治；如果欲望结构和支配制度不变，政权转移并不等于真正自由。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "甘地批判现代文明的核心，是它以速度、机器、职业中介和消费欲望替代人的自我治理与道德责任。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "建设性纲领如何把解放变成社会改造？",
+        "questionZh": "甘地为什么把纺纱、khadi、废除不可接触制、宗教和解和村社建设视为独立运动的一部分？",
+        "claims": [
+          {
+            "claimZh": "甘地把建设性纲领视为自由斗争的核心，而不是抗议之外的慈善附属；独立必须在社会组织和日常劳动中预先生成。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "甘地认为一个维持不可接触制、宗教分裂和社会轻贱的共同体，不能真正以自由名义完成自我统治。",
+            "claimEn": ""
+          }
+        ]
+      }
+    ],
+    "oneLineZh_old": "甘地是宗教、形而上学问题谱系中的第一版候选哲人。",
+    "keywordsZh_old": [
+      "宗教",
+      "形而上学",
+      "生死"
+    ]
+  },
+  {
+    "id": "ambedkar",
+    "nameZh": "安贝德卡尔",
+    "summaryZh": "安贝德卡尔是宗教、形而上学问题谱系中的第一版候选哲人。 本条目是第一版结构化资料，已经保留文明、传统、主题、作品和论述字段，正式发布前需要继续核对年代、文本出处和概念表述。",
+    "traditions": [
+      "indian_philosophy"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "religion",
+      "metaphysics",
+      "life_death"
+    ],
+    "works": [
+      "ambedkar-primary-work"
+    ],
+    "problems": [
+      {
+        "titleZh": "种姓为什么是宗教权威支撑的社会秩序？",
+        "questionZh": "安贝德卡尔为什么认为要消灭种姓，不能只做道德劝导或经济改革，而必须挑战支撑种姓的宗教权威与社会心理？",
+        "claims": [
+          {
+            "claimZh": "安贝德卡尔认为种姓并非单纯职业分工，而是通过内婚和社会隔离复制的封闭等级秩序。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "安贝德卡尔主张，种姓之所以顽固，是因为它被宗教经典和祭司解释权赋予神圣合法性；消灭种姓必须否定这种权威。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "政治民主为什么需要社会民主作基础？",
+        "questionZh": "安贝德卡尔如何把宪政、代表权、基本权利与社会平等连接起来，并警惕只有选举形式而无社会民主的政治？",
+        "claims": [
+          {
+            "claimZh": "安贝德卡尔认为政治民主必须扎根于自由、平等和博爱的社会伦理；若社会结构仍是等级和排斥，民主制度会变成空壳。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "安贝德卡尔强调，形式上的共同公民身份不足以保护被排斥群体；代表权、保障条款和国家责任是实质民主的必要组成。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "佛教为什么成为平等社会的伦理方案？",
+        "questionZh": "安贝德卡尔晚年为什么转向佛教，并把佛陀、法、僧重新解释为平等、理性和社会改造的伦理共同体？",
+        "claims": [
+          {
+            "claimZh": "安贝德卡尔并未简单否定宗教，而是要求宗教接受理性和道德检验；真正宗教应促进平等、责任和社会友爱。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "安贝德卡尔把佛教解释为能够同时支撑自由、平等和博爱的传统，并以此回应马克思主义、自由主义和印度宗教传统的张力。",
+            "claimEn": ""
+          }
+        ]
+      }
+    ],
+    "oneLineZh_old": "安贝德卡尔是宗教、形而上学问题谱系中的第一版候选哲人。",
+    "keywordsZh_old": [
+      "宗教",
+      "形而上学",
+      "生死"
+    ]
+  },
+  {
+    "id": "krishnamurti",
+    "nameZh": "克里希那穆提",
+    "summaryZh": "克里希那穆提是宗教、形而上学问题谱系中的第一版候选哲人。 本条目是第一版结构化资料，已经保留文明、传统、主题、作品和论述字段，正式发布前需要继续核对年代、文本出处和概念表述。",
+    "traditions": [
+      "indian_philosophy"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "religion",
+      "metaphysics",
+      "life_death"
+    ],
+    "works": [
+      "krishnamurti-primary-work"
+    ],
+    "problems": [
+      {
+        "titleZh": "人如何从心理制约中自由？",
+        "questionZh": "克里希那穆提为什么把自由理解为对恐惧、记忆、知识和自我中心活动的直接看见，而不是逐步训练后的结果？",
+        "claims": [
+          {
+            "claimZh": "克里希那穆提认为人被传统、经验、恐惧和欲望制约；只有直接觉察这些制约，才可能出现自由。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "克里希那穆提常以“观察者即被观察者”表达心理洞见：观察恐惧、嫉妒或欲望时，那个观察者本身也由同一记忆和反应构成。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "真理为什么不是道路、宗派或权威？",
+        "questionZh": "克里希那穆提为什么拒绝组织化宗教、导师崇拜和固定修行方法，并把真理称为无路之境？",
+        "claims": [
+          {
+            "claimZh": "克里希那穆提认为真理不是可由宗派、导师或制度化道路交付的对象；依附权威会削弱个体直接理解。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "克里希那穆提怀疑固定方法、纪律和渐进修行，因为它们通常以未来成就为目标，继续维持“现在的我”追逐“将来的我”的心理时间。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "关系、恐惧与时间如何构成自我？",
+        "questionZh": "克里希那穆提如何把恐惧、依恋、关系冲突和心理时间看成自我结构，并以无选择觉察回应？",
+        "claims": [
+          {
+            "claimZh": "克里希那穆提认为自我不是孤立实体，而是在关系、形象、比较和伤害记忆中显现；理解关系就是理解自我。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "克里希那穆提把 choiceless awareness 理解为不选择、不压抑、不命名地观察心的活动；这种注意不同于训练出来的集中或信仰化冥想。",
+            "claimEn": ""
+          }
+        ]
+      }
+    ],
+    "oneLineZh_old": "克里希那穆提是宗教、形而上学问题谱系中的第一版候选哲人。",
+    "keywordsZh_old": [
+      "宗教",
+      "形而上学",
+      "生死"
+    ]
+  },
+  {
+    "id": "thales",
+    "nameZh": "泰勒斯",
+    "summaryZh": "泰勒斯是伦理、形而上学问题谱系中的第一版候选哲人。 本条目是第一版结构化资料，已经保留文明、传统、主题、作品和论述字段，正式发布前需要继续核对年代、文本出处和概念表述。",
+    "traditions": [
+      "ancient_greek_philosophy"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "ethics",
+      "metaphysics",
+      "knowledge"
+    ],
+    "works": [
+      "thales-primary-work"
+    ],
+    "problems": [
+      {
+        "titleZh": "万物本原为什么被说成水？",
+        "questionZh": "泰勒斯关于水是万物本原的说法，在早期希腊思想中意味着什么：物质猜想、统一原则，还是从神话解释转向自然解释的开端？",
+        "claims": [
+          {
+            "claimZh": "泰勒斯的“水”不只是经验观察中的液体，而是把多样事物追溯到同一自然原则的早期哲学尝试。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "关于大地浮于水的说法虽带有古老宇宙论想象，但它试图用自然支撑关系解释地震和地的位置，而非诉诸人格神任意行动。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "从神话到自然解释的转向如何发生？",
+        "questionZh": "为什么泰勒斯常被称为西方哲学或自然科学的开端，即使他的命题多由后世转述且带有传说成分？",
+        "claims": [
+          {
+            "claimZh": "古代材料中的泰勒斯既是宇宙论思想家，也是天文预测、几何测量和实践判断的智者形象。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "泰勒斯的转向不应被夸大为现代实验科学的诞生；更稳妥的说法是，他代表了用一般自然原则解释现象的早期努力。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "“万物充满神灵”如何理解？",
+        "questionZh": "泰勒斯被归于“万物充满神灵”和磁石有灵魂等说法，这些命题应被理解为原始泛神论、物活论，还是关于运动和生命的早期哲学线索？",
+        "claims": [
+          {
+            "claimZh": "泰勒斯关于磁石有灵魂的说法，可能把灵魂理解为产生运动或使他物运动的能力，而不是后来意义上的内在个人心灵。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "“万物充满神灵”可理解为自然充满动力和生命性的早期表达；它并不必然回到奥林波斯神话式解释。",
+            "claimEn": ""
+          }
+        ]
+      }
+    ],
+    "oneLineZh_old": "泰勒斯是伦理、形而上学问题谱系中的第一版候选哲人。",
+    "keywordsZh_old": [
+      "伦理",
+      "形而上学",
+      "知识"
+    ]
+  },
+  {
+    "id": "heraclitus",
+    "nameZh": "赫拉克利特",
+    "summaryZh": "赫拉克利特是伦理、形而上学问题谱系中的第一版候选哲人。 本条目是第一版结构化资料，已经保留文明、传统、主题、作品和论述字段，正式发布前需要继续核对年代、文本出处和概念表述。",
+    "traditions": [
+      "ancient_greek_philosophy"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "ethics",
+      "metaphysics",
+      "knowledge"
+    ],
+    "works": [
+      "heraclitus-primary-work"
+    ],
+    "problems": [
+      {
+        "titleZh": "logos 如何使变化世界可理解？",
+        "questionZh": "赫拉克利特为什么一方面强调多数人不能理解世界，另一方面又主张存在共同的 logos 可以被聆听和理解？",
+        "claims": [
+          {
+            "claimZh": "赫拉克利特以 logos 指称一种共同可听从的秩序，人的无知在于把私人意见误当现实。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "赫拉克利特的晦涩格言不是简单谜语，而是迫使读者在张力、反讽和对立中理解 logos 的表达方式。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "流变、火与对立如何构成秩序？",
+        "questionZh": "赫拉克利特是否只是说万物不断变化，还是说变化本身具有冲突、尺度和相反者统一的结构？",
+        "claims": [
+          {
+            "claimZh": "赫拉克利特的流变思想并不意味着一切不可理解；变化依尺度和转化规律展开。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "赫拉克利特把战争、张力和相反者的和合看作世界秩序的条件，而不是秩序的破坏者。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "灵魂与共同法如何把宇宙论转为伦理？",
+        "questionZh": "赫拉克利特关于灵魂、清醒、自制和共同法的残篇如何说明理解 logos 不只是宇宙论问题，也是生活方式问题？",
+        "claims": [
+          {
+            "claimZh": "赫拉克利特把灵魂描述为有深度的尺度，理解世界要求人同时探求自身。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "赫拉克利特将人的生活和城邦法置于共同 logos 的尺度下，反对只凭私人意见生活。",
+            "claimEn": ""
+          }
+        ]
+      }
+    ],
+    "oneLineZh_old": "赫拉克利特是伦理、形而上学问题谱系中的第一版候选哲人。",
+    "keywordsZh_old": [
+      "伦理",
+      "形而上学",
+      "知识"
+    ]
+  },
+  {
+    "id": "parmenides",
+    "nameZh": "巴门尼德",
+    "summaryZh": "巴门尼德是伦理、形而上学问题谱系中的第一版候选哲人。 本条目是第一版结构化资料，已经保留文明、传统、主题、作品和论述字段，正式发布前需要继续核对年代、文本出处和概念表述。",
+    "traditions": [
+      "ancient_greek_philosophy"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "ethics",
+      "metaphysics",
+      "knowledge"
+    ],
+    "works": [
+      "parmenides-primary-work"
+    ],
+    "problems": [
+      {
+        "titleZh": "“是者是”如何成为存在论原则？",
+        "questionZh": "巴门尼德为什么把“是者是，非是者不是”作为思想和言说的边界，并由此否定生成、消灭和非存在？",
+        "claims": [
+          {
+            "claimZh": "巴门尼德的核心论证从排除非是者开始：不存在者不能被认识、思考或说出。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "巴门尼德从非是者不可思推出，是者不能生成或消灭，也不能缺少、分裂或成为别的东西。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "真理道路与意见道路为何并列？",
+        "questionZh": "如果真理道路已经否定生成和多样性，巴门尼德为什么还要安排一个关于凡人意见和宇宙构成的部分？",
+        "claims": [
+          {
+            "claimZh": "巴门尼德用序诗和女神教导构造两条道路：可靠的真理道路与凡人习惯相信的意见道路。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "意见道路虽低于真理道路，却展示凡人世界图景如何由光与夜等对立构成，因此不能被当成毫无哲学意义的附录。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "巴门尼德如何改变后来的哲学问题？",
+        "questionZh": "巴门尼德的存在论为什么迫使后来的哲学重新解释变化、多样性、非存在和知识的可能性？",
+        "claims": [
+          {
+            "claimZh": "巴门尼德之后，生成、运动和多样性不再能被直接当作常识，而必须解释其与“是”的关系。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "柏拉图与亚里士多德都必须面对巴门尼德关于一、多、是、非是和言说的挑战，并在各自体系中改造它。",
+            "claimEn": ""
+          }
+        ]
+      }
+    ],
+    "oneLineZh_old": "巴门尼德是伦理、形而上学问题谱系中的第一版候选哲人。",
+    "keywordsZh_old": [
+      "伦理",
+      "形而上学",
+      "知识"
+    ]
+  },
+  {
+    "id": "socrates",
+    "nameZh": "苏格拉底",
+    "summaryZh": "苏格拉底是伦理、形而上学问题谱系中的第一版候选哲人。 本条目是第一版结构化资料，已经保留文明、传统、主题、作品和论述字段，正式发布前需要继续核对年代、文本出处和概念表述。",
+    "traditions": [
+      "ancient_greek_philosophy"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "ethics",
+      "metaphysics",
+      "knowledge"
+    ],
+    "works": [
+      "socrates-primary-work"
+    ],
+    "problems": [
+      {
+        "titleZh": "无知之知为什么开启哲学生活？",
+        "questionZh": "苏格拉底为什么把承认自己不知道作为智慧的开端，并通过公共诘问挑战他人的伪知识？",
+        "claims": [
+          {
+            "claimZh": "苏格拉底的无知之知不是否认知识价值，而是拒绝把未经检验的意见冒充为关于德性和善的知识。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "苏格拉底把自己的哲学活动理解为一种公共使命：通过追问使城邦成员关心灵魂而非只追求财富和名誉。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "德性、知识与灵魂照料如何相连？",
+        "questionZh": "苏格拉底为什么把伦理失败理解为灵魂状态的问题，并把德性与知识、自制和善的追求连接起来？",
+        "claims": [
+          {
+            "claimZh": "苏格拉底把照料灵魂置于财富、名誉和权力之上，认为未经检验的生活不值得过。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "苏格拉底倾向把德性与知识紧密联系，认为人若真正知道善就不会自愿作恶。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "审判与死亡为何成为哲学检验？",
+        "questionZh": "苏格拉底为什么宁愿接受判决也不停止哲学活动，且在逃狱问题上把正义和法律关系置于生命保存之上？",
+        "claims": [
+          {
+            "claimZh": "苏格拉底在审判中把作恶和背弃使命看得比死亡更可怕，因此拒绝用停止哲学换取生存。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "《克里托篇》中的苏格拉底拒绝逃狱，因为即使城邦判决不义，个人也不能以破坏法律和不以恶报恶原则回应。",
+            "claimEn": ""
+          }
+        ]
+      }
+    ],
+    "oneLineZh_old": "苏格拉底是伦理、形而上学问题谱系中的第一版候选哲人。",
+    "keywordsZh_old": [
+      "伦理",
+      "形而上学",
+      "知识"
+    ]
+  },
+  {
+    "id": "epicurus",
+    "nameZh": "伊壁鸠鲁",
+    "summaryZh": "伊壁鸠鲁是伦理、形而上学问题谱系中的第一版候选哲人。 本条目是第一版结构化资料，已经保留文明、传统、主题、作品和论述字段，正式发布前需要继续核对年代、文本出处和概念表述。",
+    "traditions": [
+      "ancient_greek_philosophy"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "ethics",
+      "metaphysics",
+      "knowledge"
+    ],
+    "works": [
+      "epicurus-primary-work"
+    ],
+    "problems": [
+      {
+        "titleZh": "自然哲学如何治疗恐惧？",
+        "questionZh": "伊壁鸠鲁为什么把原子论、虚空和天象自然解释放在伦理学之前，并用它们解除对神和死亡的恐惧？",
+        "claims": [
+          {
+            "claimZh": "伊壁鸠鲁用原子和虚空解释世界，使自然事件不再需要诉诸神的任意干预。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "伊壁鸠鲁允许对天象给出多种自然解释，只要这些解释能排除神意恐惧并符合现象。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "快乐为何是最高善但不是放纵？",
+        "questionZh": "伊壁鸠鲁为什么把快乐作为最高善，同时又强调无痛、无扰、审慎和欲望节制？",
+        "claims": [
+          {
+            "claimZh": "伊壁鸠鲁把快乐作为最高善，但成熟快乐主要表现为 aponia 和 ataraxia，而非不断增加刺激。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "伊壁鸠鲁认为死亡与我们无关，因为一切善恶在感觉中，而死亡是感觉的消失。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "欲望、友爱和正义如何组织安宁生活？",
+        "questionZh": "伊壁鸠鲁如何通过欲望分类、友爱共同体、简朴生活和互不伤害的正义观，形成实践性的生活方案？",
+        "claims": [
+          {
+            "claimZh": "伊壁鸠鲁把欲望区分为自然且必要、自然但非必要、空虚欲望，并以此指导选择和生活简化。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "伊壁鸠鲁把友爱视为幸福生活的重要保障，并将正义理解为互不伤害、共同有益的约定。",
+            "claimEn": ""
+          }
+        ]
+      }
+    ],
+    "oneLineZh_old": "伊壁鸠鲁是伦理、形而上学问题谱系中的第一版候选哲人。",
+    "keywordsZh_old": [
+      "伦理",
+      "形而上学",
+      "知识"
+    ]
+  },
+  {
+    "id": "zeno-citium",
+    "nameZh": "芝诺",
+    "summaryZh": "斯多葛学派创始人，把自然、理性与德性统一成一种可训练的生活技艺。 本条目以 summary_only 方式整理，重点保留低争议的问题结构、主张和可追溯证据定位。",
+    "traditions": [
+      "stoicism",
+      "ancient_greek_philosophy"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "ethics",
+      "metaphysics",
+      "knowledge"
+    ],
+    "works": [
+      "zeno-citium-primary-work"
+    ],
+    "problems": [
+      {
+        "titleZh": "宇宙理性如何支撑生活规范？",
+        "questionZh": "早期斯多葛把世界理解为贯穿理性、自然和神性秩序的整体；伦理学由此不是外在规则，而是按自然、按理性而活。",
+        "claims": [
+          {
+            "claimZh": "早期斯多葛认为自然不是无序物质集合，而是由 logos、火、气息或命运贯通的有序整体。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "斯多葛传统常把神、自然、命运和理性秩序作高度同一化理解。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "德性为何足以幸福？",
+        "questionZh": "斯多葛伦理把善限定在德性和正确理性活动中，把财富、健康、名声等视为非真正善恶的外物，从而建立抗命运冲击的生活方案。",
+        "claims": [
+          {
+            "claimZh": "早期斯多葛主张只有德性本身是善，恶在于灵魂的错误状态，外在遭遇不构成真正的善恶。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "斯多葛不是简单压抑情感，而是把激情理解为错误判断所造成的灵魂扰动。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "命运中的行动自由如何可能？",
+        "questionZh": "早期斯多葛同时承认宇宙命运和人的责任，通过 assent、冲动和理性判断解释人在必然秩序中的主动性。",
+        "claims": [
+          {
+            "claimZh": "斯多葛把印象、同意和冲动区分开来，使人能够对表象作出理性接受或拒绝。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "斯多葛承认可取与不可取的 indifferent，用来解释健康、财富等可被合理选择，却不决定幸福。",
+            "claimEn": ""
+          }
+        ]
+      }
+    ],
+    "oneLineZh_old": "斯多葛学派创始人，把自然、理性与德性统一成一种可训练的生活技艺。",
+    "keywordsZh_old": [
+      "伦理",
+      "形而上学",
+      "知识"
+    ]
+  },
+  {
+    "id": "plotinus",
+    "nameZh": "普罗提诺",
+    "summaryZh": "新柏拉图主义奠基者，以太一、努斯和灵魂的流溢结构重建古代形而上学。本条目以 summary_only 方式整理，重点保留低争议的问题结构、主张和可追溯证据定位。",
+    "traditions": [
+      "neoplatonism",
+      "ancient_greek_philosophy"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "metaphysics",
+      "ethics",
+      "knowledge"
+    ],
+    "works": [
+      "plotinus-primary-work"
+    ],
+    "problems": [
+      {
+        "titleZh": "万物如何从太一而来？",
+        "questionZh": "普罗提诺如何以太一、努斯和灵魂的层级结构解释统一性、多样性和存在秩序？",
+        "claims": [
+          {
+            "claimZh": "普罗提诺的太一不是众多存在者中的最高存在者，而是超越存在、思想和规定性的绝对统一源头。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "普罗提诺的流溢关系不是神在时间中制作世界，而是较低层级恒常依赖较高原则。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "灵魂为何既下降又回归？",
+        "questionZh": "普罗提诺如何解释灵魂同身体和可感世界的关系，并把哲学理解为回归更高自我的训练？",
+        "claims": [
+          {
+            "claimZh": "普罗提诺认为灵魂既治理身体和世界，又可转向努斯和太一，人的处境由这种双重朝向构成。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "普罗提诺把德性理解为灵魂脱离低级依附、重新转向理智和统一的实践过程。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "美和观照如何通向最高原则？",
+        "questionZh": "普罗提诺为什么把美、内在转向和神秘联合看作认识和伦理转化的关键路径？",
+        "claims": [
+          {
+            "claimZh": "普罗提诺把美理解为形式和统一在可感事物中的显现，能唤醒灵魂向上转向。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "普罗提诺认为对太一的最高接近不是普通推论，而是灵魂简化、内转和联合。",
+            "claimEn": ""
+          }
+        ]
+      }
+    ],
+    "oneLineZh_old": "新柏拉图主义奠基者，以太一、努斯和灵魂的流溢结构重建古代形而上学。",
+    "keywordsZh_old": [
+      "形而上学",
+      "伦理",
+      "知识"
+    ]
+  },
+  {
+    "id": "hypatia",
+    "nameZh": "希帕提娅",
+    "summaryZh": "晚期古代亚历山大里亚的哲学家和数学家，代表柏拉图主义教育、科学训练与公共理性传统。本条目以 summary_only 方式整理，重点保留低争议的问题结构、主张和可追溯证据定位。",
+    "traditions": [
+      "neoplatonism",
+      "ancient_greek_philosophy"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "knowledge",
+      "ethics",
+      "politics"
+    ],
+    "works": [
+      "hypatia-primary-work"
+    ],
+    "problems": [
+      {
+        "titleZh": "晚期古代的哲学教育如何运作？",
+        "questionZh": "希帕提娅的学校如何把数学、天文学、柏拉图主义和伦理人格训练结合为一种哲学教育？",
+        "claims": [
+          {
+            "claimZh": "希帕提娅传统显示数学、天文学和哲学在晚期古代教育中紧密结合。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "希帕提娅的影响主要通过教学、公共声望和学生网络体现，而非完整保存的个人著作。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "哲学家为何卷入城市政治暴力？",
+        "questionZh": "希帕提娅之死如何显示晚期古代城市中哲学声望、基督教教会权力、地方政治和群众暴力的交错？",
+        "claims": [
+          {
+            "claimZh": "希帕提娅与城市精英和官员的交往，使她的哲学声望被卷入地方权力冲突。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "希帕提娅后来常被塑造成理性、科学或异教哲学的殉难象征，但历史解释应避免单线神话化。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "缺少著作时如何重建思想地位？",
+        "questionZh": "在没有完整哲学著作存世的情况下，如何把希帕提娅纳入思想史而不把她还原为传说符号？",
+        "claims": [
+          {
+            "claimZh": "希帕提娅说明哲学史还应记录教学、注释、学生网络和公共理性实践。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "希帕提娅在后世不断被重新解释为女性哲学家、科学精神和公共理性的象征。",
+            "claimEn": ""
+          }
+        ]
+      }
+    ],
+    "oneLineZh_old": "晚期古代亚历山大里亚的哲学家和数学家，代表柏拉图主义教育、科学训练与公共理性传统。",
+    "keywordsZh_old": [
+      "知识",
+      "伦理",
+      "政治"
+    ]
+  },
+  {
+    "id": "mozi",
+    "nameZh": "墨子",
+    "summaryZh": "墨子是伦理、政治问题谱系中的第一版候选哲人。 本条目是第一版结构化资料，已经保留文明、传统、主题、作品和论述字段，正式发布前需要继续核对年代、文本出处和概念表述。",
+    "traditions": [
+      "chinese_philosophy"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "ethics",
+      "politics",
+      "justice"
+    ],
+    "works": [
+      "mozi-primary-work"
+    ],
+    "problems": [
+      {
+        "titleZh": "兼爱与功利伦理",
+        "questionZh": "墨子为何主张兼爱？他以什么标准判断道德与政治行为的对错？",
+        "claims": [
+          {
+            "claimZh": "墨子主张以无差等的兼爱取代儒家的亲亲差等之爱，认为兼爱能消除人与人之间的冲突与战争。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "墨子以兴天下之利、除天下之害作为判断政策、行为与信念的最终标准，体现出早期功利主义或后果主义取向。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "尚贤尚同与政治正义",
+        "questionZh": "墨子如何设计政治秩序？他的尚贤与尚同如何回应贵族世袭与政治混乱？",
+        "claims": [
+          {
+            "claimZh": "墨子主张政治职位应向所有人开放，依据德行与能力选拔，从而打破贵族血缘垄断。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "墨子主张通过尚同建立共同的是非标准，使分散判断能够汇入统一的公共规范。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "天志、明鬼与公共规范",
+        "questionZh": "墨子为什么需要诉诸天志与明鬼？这些宗教性论证如何服务于公共伦理和政治秩序？",
+        "claims": [
+          {
+            "claimZh": "墨子以天志作为衡量人间政治与伦理行为的公共标准，反对把贵族习俗或私人偏好当成正义根据。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "墨子以法天建立公共判断标准，试图让治理和伦理判断不再只依赖私人习俗或贵族偏好。",
+            "claimEn": ""
+          }
+        ]
+      }
+    ],
+    "oneLineZh_old": "墨子是伦理、政治问题谱系中的第一版候选哲人。",
+    "keywordsZh_old": [
+      "伦理",
+      "政治",
+      "正义"
+    ]
+  },
+  {
+    "id": "mencius",
+    "nameZh": "孟子",
+    "summaryZh": "孟子是伦理、政治问题谱系中的第一版候选哲人。 本条目是第一版结构化资料，已经保留文明、传统、主题、作品和论述字段，正式发布前需要继续核对年代、文本出处和概念表述。",
+    "traditions": [
+      "chinese_philosophy"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "ethics",
+      "politics",
+      "justice"
+    ],
+    "works": [
+      "mencius-primary-work"
+    ],
+    "problems": [
+      {
+        "titleZh": "性善与四端",
+        "questionZh": "孟子为什么认为人性本善？恻隐、羞恶、辞让、是非之心如何成为道德的根基？",
+        "claims": [
+          {
+            "claimZh": "孟子认为每个人天生具有恻隐、羞恶、辞让、是非四种道德萌芽，它们是仁、义、礼、智的开端。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "孟子认为四端只是道德开端，必须通过扩充和保存才能成为稳定的仁义礼智。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "仁政与王道",
+        "questionZh": "孟子如何将心性之善转化为政治秩序？他设想的仁政与民本原则是什么？",
+        "claims": [
+          {
+            "claimZh": "孟子主张统治者应把内心对百姓苦难的不忍之情，转化为具体的仁政措施，如制民之产、轻徭薄赋、谨庠序之教。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "孟子提出民本原则，认为民众是政治正当性的最终来源，暴君可被视为独夫民贼而被推翻。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "义利之辨",
+        "questionZh": "孟子如何区分义与利？这种区分如何支撑他的道德修养论？",
+        "claims": [
+          {
+            "claimZh": "孟子认为正当性不能完全由利益衡量，义应当成为行动选择的优先标准。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "孟子认为义不是偶然的外在举动，而要通过持续修养积累为稳定的道德力量。",
+            "claimEn": ""
+          }
+        ]
+      }
+    ],
+    "oneLineZh_old": "孟子是伦理、政治问题谱系中的第一版候选哲人。",
+    "keywordsZh_old": [
+      "伦理",
+      "政治",
+      "正义"
+    ]
+  },
+  {
+    "id": "xunzi",
+    "nameZh": "荀子",
+    "summaryZh": "荀子是伦理、政治问题谱系中的第一版候选哲人。 本条目是第一版结构化资料，已经保留文明、传统、主题、作品和论述字段，正式发布前需要继续核对年代、文本出处和概念表述。",
+    "traditions": [
+      "chinese_philosophy"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "ethics",
+      "politics",
+      "justice"
+    ],
+    "works": [
+      "xunzi-primary-work"
+    ],
+    "problems": [
+      {
+        "titleZh": "人性与教化如何相互作用？",
+        "questionZh": "荀子如何围绕“人性与教化如何相互作用？”建立其思想问题？",
+        "claims": [
+          {
+            "claimZh": "荀子主张人生来具有欲望与利己倾向，若顺其发展会导致争夺与混乱；善的行为来自后天礼义教化的‘伪’（人为努力）。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "荀子认为礼义和法度不是自然自发生成，而是圣人通过人为制作来转化人性的结果。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "礼法如何组织社会秩序？",
+        "questionZh": "荀子如何围绕“礼法如何组织社会秩序？”建立其思想问题？",
+        "claims": [
+          {
+            "claimZh": "荀子认为礼是法律与社会规范的总纲，既能满足人的合理欲望，又能通过差等分配避免争夺。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "荀子主张通过‘正名’使名实相符、贵贱有别，从而明确社会分工、减少因名分混乱导致的政治冲突。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "天与人应如何区分？",
+        "questionZh": "荀子如何围绕“天与人应如何区分？”建立其思想问题？",
+        "claims": [
+          {
+            "claimZh": "荀子认为自然运行有其常则，人类应通过礼义和学习来安排社会生活。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "荀子并不主张被动顺从自然，而是强调理解自然规律后加以利用和安排。",
+            "claimEn": ""
+          }
+        ]
+      }
+    ],
+    "oneLineZh_old": "荀子是伦理、政治问题谱系中的第一版候选哲人。",
+    "keywordsZh_old": [
+      "伦理",
+      "政治",
+      "正义"
+    ]
+  },
+  {
+    "id": "wang-yangming",
+    "nameZh": "王阳明",
+    "summaryZh": "王阳明是伦理、政治问题谱系中的第一版候选哲人。 本条目是第一版结构化资料，已经保留文明、传统、主题、作品和论述字段，正式发布前需要继续核对年代、文本出处和概念表述。",
+    "traditions": [
+      "chinese_philosophy"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "ethics",
+      "politics",
+      "justice"
+    ],
+    "works": [
+      "wang-yangming-primary-work"
+    ],
+    "problems": [
+      {
+        "titleZh": "道德知识与行动的关系",
+        "questionZh": "道德知识是否内在地包含行动？良知如何成为道德实践的基础？",
+        "claims": [
+          {
+            "claimZh": "良知是心的本体，人人本具，不假外求；圣人与凡人的差别不在良知之有无，而在能否「致」之。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "「知而不行，只是未知」；真正的道德知识必然包含行动动机与实践倾向，知行合一否认知与行的分离。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "王阳明以「格」为「正」，将格物重新界定为「致吾心之良知于事事物物」，反对朱熹向外穷理的路径。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "政治权威的伦理基础",
+        "questionZh": "政治权力与治理秩序的正当性来源是什么？统治者应如何运用权力？",
+        "claims": [
+          {
+            "claimZh": "心之本体与天地万物为一体；政治伦理要求统治者意识到自我与百姓、万物之间的本体同一，恶则源于自我与他人、万物的割裂。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "王阳明主张《大学》「亲民」不应改作「新民」；治平之道在于使百姓相亲、各得其所，而非自上而下的改造或控制。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "正义、秩序与暴力的张力",
+        "questionZh": "在维护社会秩序与实现伦理理想之间，暴力、强制与教化应如何平衡？",
+        "claims": [
+          {
+            "claimZh": "王阳明在南赣推行乡约、十家牌法、社学与告谕，试图以教化和制度结合的方式实现地方长治久安。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "王阳明提出「破山中贼易，破心中贼难」，将军事镇压视为不得已的手段，而将人心教化视为更根本的治理目标。",
+            "claimEn": ""
+          }
+        ]
+      }
+    ],
+    "oneLineZh_old": "王阳明是伦理、政治问题谱系中的第一版候选哲人。",
+    "keywordsZh_old": [
+      "伦理",
+      "政治",
+      "正义"
+    ]
+  },
+  {
+    "id": "zhu-xi",
+    "nameZh": "朱熹",
+    "summaryZh": "朱熹是伦理、政治问题谱系中的第一版候选哲人。 本条目是第一版结构化资料，已经保留文明、传统、主题、作品和论述字段，正式发布前需要继续核对年代、文本出处和概念表述。",
+    "traditions": [
+      "chinese_philosophy"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "ethics",
+      "politics",
+      "justice"
+    ],
+    "works": [
+      "zhu-xi-primary-work"
+    ],
+    "problems": [
+      {
+        "titleZh": "道德知识如何可能？",
+        "questionZh": "人如何获得关于善恶、义务与德性的可靠知识？",
+        "claims": [
+          {
+            "claimZh": "朱熹主张，人必须通过对外在事物与经典文本的穷究，逐步积累对天理的认识，从而将道德知识从潜能转化为现实理解。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "朱熹区分知与行，但强调二者相互依赖：知是行的前提，行是知的完成；脱离行的知并非真知。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "政治秩序的正当性基础是什么？",
+        "questionZh": "良好的政治秩序依赖于制度设计、法律惩罚，还是统治者与士人的道德修养？",
+        "claims": [
+          {
+            "claimZh": "朱熹认为，政治危机的根源在于朝廷上下德性的衰败；只有君主正心诚意、大臣持敬守义，才能建立正当且稳定的政治秩序。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "朱熹主张政治行为必须以天理公义为出发点，反对以个人利害、集团功利或权宜之计作为决策依据。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "正义标准的客观依据何在？",
+        "questionZh": "当我们说某种制度或行为是正义的或不正义的时，这一判断是否有客观依据？",
+        "claims": [
+          {
+            "claimZh": "朱熹认为天理是事物“所当然”与“所以然”的统一，具有普遍性与公共性，可以作为判断个人行为、政治制度与社会风俗是否正当的客观依据。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "人性本善，但现实社会中存在不义与不公，其根源不在于天理本身，而在于气禀的清浊偏正以及私欲对天理的遮蔽。",
+            "claimEn": ""
+          }
+        ]
+      }
+    ],
+    "oneLineZh_old": "朱熹是伦理、政治问题谱系中的第一版候选哲人。",
+    "keywordsZh_old": [
+      "伦理",
+      "政治",
+      "正义"
+    ]
+  },
+  {
+    "id": "hu-shi",
+    "nameZh": "胡适",
+    "summaryZh": "胡适是伦理、政治问题谱系中的第一版候选哲人。 本条目是第一版结构化资料，已经保留文明、传统、主题、作品和论述字段，正式发布前需要继续核对年代、文本出处和概念表述。",
+    "traditions": [
+      "chinese_philosophy"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "ethics",
+      "politics",
+      "justice"
+    ],
+    "works": [
+      "hu-shi-primary-work"
+    ],
+    "problems": [
+      {
+        "titleZh": "公共语言如何塑造现代主体？",
+        "questionZh": "语言改革只是文学形式问题，还是现代教育、公共讨论与个体解放的条件？",
+        "claims": [
+          {
+            "claimZh": "胡适主张文学语言应贴近现实生活和普通表达，因为只有让知识和思想能够被更多人读懂，现代教育与公共讨论才可能扩大。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "胡适的文学革命要求作者面对现实、表达真实经验、拒绝空洞套语，因此也训练一种诚实、清楚、负责的现代表达伦理。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "可靠知识从何而来？",
+        "questionZh": "公共判断和学术研究应依赖经典权威、抽象理论，还是可检验的问题、假设和证据？",
+        "claims": [
+          {
+            "claimZh": "胡适主张研究必须先有可探索的假设，再以证据和验证约束结论；知识的可靠性来自可修正的求证过程，而不是来自权威背书。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "胡适的整理国故不是复古，而是用现代考证、历史方法和哲学史框架重新审查传统材料，使传统成为可讨论、可检验的知识对象。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "公共正义应如何避免教条化？",
+        "questionZh": "政治和社会改革应依赖宏大主义口号，还是依赖具体问题研究、公开讨论、权利保障和容忍精神？",
+        "claims": [
+          {
+            "claimZh": "胡适认为公共改革应从具体问题、事实调查和可行方案出发，不能让抽象主义成为逃避研究的口号。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "胡适将自由、容忍和批评权视为公共生活中的纠错机制：只有保留不同意见和公开批评，社会才能持续试错并避免权威垄断真理。",
+            "claimEn": ""
+          }
+        ]
+      }
+    ],
+    "oneLineZh_old": "胡适是伦理、政治问题谱系中的第一版候选哲人。",
+    "keywordsZh_old": [
+      "伦理",
+      "政治",
+      "正义"
+    ]
+  },
+  {
+    "id": "liang-shuming",
+    "nameZh": "梁漱溟",
+    "summaryZh": "梁漱溟是伦理、政治问题谱系中的第一版候选哲人。 本条目是第一版结构化资料，已经保留文明、传统、主题、作品和论述字段，正式发布前需要继续核对年代、文本出处和概念表述。",
+    "traditions": [
+      "chinese_philosophy"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "ethics",
+      "politics",
+      "justice"
+    ],
+    "works": [
+      "liang-shuming-primary-work"
+    ],
+    "problems": [
+      {
+        "titleZh": "文化现代化的方向是什么？",
+        "questionZh": "中国现代化应只是学习西方制度和技术，还是还要重新理解人生方向、文化路向与伦理秩序？",
+        "claims": [
+          {
+            "claimZh": "梁漱溟认为文化不是外在器物集合，而是人生意欲和生活方向的表现；因此现代化不能只看制度和技术，还要看人如何安顿欲望、关系和意义。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "梁漱溟承认西方科学、民主和组织能力对中国现代化的重要性，但认为若忽略中国社会的伦理基础，制度移植难以真正重建社会秩序。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "中国社会秩序的基础是什么？",
+        "questionZh": "社会秩序主要建立在个人权利、国家法律、阶级组织，还是家庭、礼俗和相互义务构成的伦理关系上？",
+        "claims": [
+          {
+            "claimZh": "梁漱溟认为中国社会的基本组织原则不是独立个人或阶级对抗，而是家庭、亲情、礼俗和相互义务交织成的伦理关系。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "梁漱溟以相互责任和人格成全理解社会正当性，提供了关系性正义视角；但它也可能低估个人权利、性别平等和法治保障的重要性。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "社会重建应从何处开始？",
+        "questionZh": "中国社会重建应从中央制度、市场发展、革命动员，还是从乡村教育、基层自治和社会组织能力开始？",
+        "claims": [
+          {
+            "claimZh": "梁漱溟认为中国问题的根基在乡村，因此社会重建必须通过乡村教育、合作组织、地方自治和公共责任训练来恢复基层能力。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "梁漱溟把教育和人格修养看作社会重建的基础，因为没有能够承担责任、合作和自治的人，制度文本难以转化为稳定秩序。",
+            "claimEn": ""
+          }
+        ]
+      }
+    ],
+    "oneLineZh_old": "梁漱溟是伦理、政治问题谱系中的第一版候选哲人。",
+    "keywordsZh_old": [
+      "伦理",
+      "政治",
+      "正义"
+    ]
+  },
+  {
+    "id": "al-farabi",
+    "nameZh": "法拉比",
+    "summaryZh": "法拉比是形而上学、宗教问题谱系中的第一版候选哲人。 本条目是第一版结构化资料，已经保留文明、传统、主题、作品和论述字段，正式发布前需要继续核对年代、文本出处和概念表述。",
+    "traditions": [
+      "islamic_philosophy"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "metaphysics",
+      "religion",
+      "politics"
+    ],
+    "works": [
+      "al-farabi-primary-work"
+    ],
+    "problems": [
+      {
+        "titleZh": "宇宙秩序如何成为政治秩序范型？",
+        "questionZh": "法拉比如何围绕“宇宙秩序如何成为政治秩序范型？”建立其思想问题？",
+        "claims": [
+          {
+            "claimZh": "法拉比主张，万有秩序从第一存在者流溢展开，形成等级分明的宇宙结构。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "法拉比认为，城邦目的不是单纯生存，而是协助人达到幸福和完善。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "哲学与宗教如何协调？",
+        "questionZh": "法拉比如何围绕“哲学与宗教如何协调？”建立其思想问题？",
+        "claims": [
+          {
+            "claimZh": "法拉比主张，哲学以证明把握真理，宗教则以想象和象征向大众表达相应秩序。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "法拉比认为，先知式想象力能把理性秩序转化为可感形象和制度规范。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "德性城邦为何需要哲学首领？",
+        "questionZh": "法拉比如何围绕“德性城邦为何需要哲学首领？”建立其思想问题？",
+        "claims": [
+          {
+            "claimZh": "法拉比主张，美德城邦首领必须既认识最高真理，也能安排制度和教育。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "法拉比认为，非美德城邦把财富、荣誉或权力误当最高目的，因而偏离真实幸福。",
+            "claimEn": ""
+          }
+        ]
+      }
+    ],
+    "oneLineZh_old": "法拉比是形而上学、宗教问题谱系中的第一版候选哲人。",
+    "keywordsZh_old": [
+      "形而上学",
+      "宗教",
+      "政治"
+    ]
+  },
+  {
+    "id": "ibn-sina",
+    "nameZh": "伊本·西那",
+    "summaryZh": "伊本·西那是形而上学、宗教问题谱系中的第一版候选哲人。 本条目是第一版结构化资料，已经保留文明、传统、主题、作品和论述字段，正式发布前需要继续核对年代、文本出处和概念表述。",
+    "traditions": [
+      "islamic_philosophy"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "metaphysics",
+      "religion",
+      "politics"
+    ],
+    "works": [
+      "ibn-sina-primary-work"
+    ],
+    "problems": [
+      {
+        "titleZh": "存在与本质为何必须区分？",
+        "questionZh": "伊本·西那如何围绕“存在与本质为何必须区分？”建立其思想问题？",
+        "claims": [
+          {
+            "claimZh": "伊本·西那主张，许多事物的本质本身不决定其存在，它们需要外因使之存在。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "伊本·西那认为，可能存在者的因果链需要以自身必然存在者作为最终解释。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "灵魂如何证明自身独立性？",
+        "questionZh": "伊本·西那如何围绕“灵魂如何证明自身独立性？”建立其思想问题？",
+        "claims": [
+          {
+            "claimZh": "伊本·西那主张，人即使暂不感知身体，也能直接把握自我存在。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "伊本·西那认为，人类理智能从感性形象中抽象普遍形式，并与主动理智相关。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "哲学如何与启示信仰相容？",
+        "questionZh": "伊本·西那如何围绕“哲学如何与启示信仰相容？”建立其思想问题？",
+        "claims": [
+          {
+            "claimZh": "伊本·西那主张，关于第一原因、必然存在和宇宙秩序的若干命题可由理性证明推进。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "伊本·西那认为，哲学真理可通过象征和律法形式面向大众生活发挥教化作用。",
+            "claimEn": ""
+          }
+        ]
+      }
+    ],
+    "oneLineZh_old": "伊本·西那是形而上学、宗教问题谱系中的第一版候选哲人。",
+    "keywordsZh_old": [
+      "形而上学",
+      "宗教",
+      "政治"
+    ]
+  },
+  {
+    "id": "al-ghazali",
+    "nameZh": "安萨里",
+    "summaryZh": "安萨里是形而上学、宗教问题谱系中的第一版候选哲人。 本条目是第一版结构化资料，已经保留文明、传统、主题、作品和论述字段，正式发布前需要继续核对年代、文本出处和概念表述。",
+    "traditions": [
+      "islamic_philosophy"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "metaphysics",
+      "religion",
+      "politics"
+    ],
+    "works": [
+      "al-ghazali-primary-work"
+    ],
+    "problems": [
+      {
+        "titleZh": "哲学证明在何处越界？",
+        "questionZh": "安萨里如何围绕“哲学证明在何处越界？”建立其思想问题？",
+        "claims": [
+          {
+            "claimZh": "安萨里认为，逻辑和数学式推理可作为工具使用，但不能把所有神学问题化约为哲学必然证明。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "安萨里主张，世界永恒、神只知普遍、身体复活否定等主张触犯核心宗教信念。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "因果关系是必然连接还是习惯秩序？",
+        "questionZh": "安萨里如何围绕“因果关系是必然连接还是习惯秩序？”建立其思想问题？",
+        "claims": [
+          {
+            "claimZh": "安萨里认为，我们观察到事件恒常相继，并不能证明原因与结果之间存在独立必然联系。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "安萨里主张，自然秩序可以稳定运行，但这种稳定依赖神意习惯，而不是自然物自足能力。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "宗教确信如何通过实践获得？",
+        "questionZh": "安萨里如何围绕“宗教确信如何通过实践获得？”建立其思想问题？",
+        "claims": [
+          {
+            "claimZh": "安萨里认为，感官和权威都可能不足以支撑终极确定性，必须追问知识可靠性的根源。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "安萨里主张，宗教真理不仅要被理解，还要通过修行、净化和生活实践成为切身确信。",
+            "claimEn": ""
+          }
+        ]
+      }
+    ],
+    "oneLineZh_old": "安萨里是形而上学、宗教问题谱系中的第一版候选哲人。",
+    "keywordsZh_old": [
+      "形而上学",
+      "宗教",
+      "政治"
+    ]
+  },
+  {
+    "id": "ibn-rushd",
+    "nameZh": "伊本·鲁世德",
+    "summaryZh": "伊本·鲁世德是形而上学、宗教问题谱系中的第一版候选哲人。 本条目是第一版结构化资料，已经保留文明、传统、主题、作品和论述字段，正式发布前需要继续核对年代、文本出处和概念表述。",
+    "traditions": [
+      "islamic_philosophy"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "metaphysics",
+      "religion",
+      "politics"
+    ],
+    "works": [
+      "ibn-rushd-primary-work"
+    ],
+    "problems": [
+      {
+        "titleZh": "哲学与律法是否冲突？",
+        "questionZh": "伊本·鲁世德如何围绕“哲学与律法是否冲突？”建立其思想问题？",
+        "claims": [
+          {
+            "claimZh": "伊本·鲁世德认为，若律法命令人思考受造物，有能力者就必须运用证明性理性。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "伊本·鲁世德主张，若证明结论与经文表面意义冲突，应对经文作合规则解释。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "亚里士多德哲学为何需要被捍卫？",
+        "questionZh": "伊本·鲁世德如何围绕“亚里士多德哲学为何需要被捍卫？”建立其思想问题？",
+        "claims": [
+          {
+            "claimZh": "伊本·鲁世德认为，否认自然因果秩序会破坏科学知识和理性推论的基础。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "伊本·鲁世德主张，理解亚里士多德必须通过严格文本解释，避免神学争论扭曲哲学原意。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "政治共同体如何承载理性与信仰？",
+        "questionZh": "伊本·鲁世德如何围绕“政治共同体如何承载理性与信仰？”建立其思想问题？",
+        "claims": [
+          {
+            "claimZh": "伊本·鲁世德认为，大众需要适合其理解能力的宗教表达，以维持德性和共同体秩序。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "伊本·鲁世德主张，哲学家既要追求证明真理，也要尊重律法面向共同体的教化功能。",
+            "claimEn": ""
+          }
+        ]
+      }
+    ],
+    "oneLineZh_old": "伊本·鲁世德是形而上学、宗教问题谱系中的第一版候选哲人。",
+    "keywordsZh_old": [
+      "形而上学",
+      "宗教",
+      "政治"
+    ]
+  },
+  {
+    "id": "mulla-sadra",
+    "nameZh": "穆拉·萨德拉",
+    "summaryZh": "穆拉·萨德拉是形而上学、宗教问题谱系中的第一版候选哲人。 本条目是第一版结构化资料，已经保留文明、传统、主题、作品和论述字段，正式发布前需要继续核对年代、文本出处和概念表述。",
+    "traditions": [
+      "islamic_philosophy"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "metaphysics",
+      "religion",
+      "politics"
+    ],
+    "works": [
+      "mulla-sadra-primary-work"
+    ],
+    "problems": [
+      {
+        "titleZh": "存在为何优先于本质？",
+        "questionZh": "穆拉·萨德拉如何围绕“存在为何优先于本质？”建立其思想问题？",
+        "claims": [
+          {
+            "claimZh": "穆拉·萨德拉主张，真实的是存在本身，本质只是理智从存在样态中抽取的界定。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "穆拉·萨德拉认为，存在不是单一平面概念，而是以强弱、完满度和显现程度形成连续层级。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "实体如何在自身中运动？",
+        "questionZh": "穆拉·萨德拉如何围绕“实体如何在自身中运动？”建立其思想问题？",
+        "claims": [
+          {
+            "claimZh": "穆拉·萨德拉主张，变化不仅是性质、数量或位置变化，实体本身也持续生成和更新。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "穆拉·萨德拉认为，灵魂并非一开始就是完成实体，而是在身体生命过程中逐步完善。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "知识如何成为存在的转化？",
+        "questionZh": "穆拉·萨德拉如何围绕“知识如何成为存在的转化？”建立其思想问题？",
+        "claims": [
+          {
+            "claimZh": "穆拉·萨德拉主张，知识不是心理图像的堆积，而是认知者存在层级的一种实现。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "穆拉·萨德拉认为，哲学和灵性修行共同指向存在层级的上升，而非单纯理论解释。",
+            "claimEn": ""
+          }
+        ]
+      }
+    ],
+    "oneLineZh_old": "穆拉·萨德拉是形而上学、宗教问题谱系中的第一版候选哲人。",
+    "keywordsZh_old": [
+      "形而上学",
+      "宗教",
+      "政治"
+    ]
+  },
+  {
+    "id": "ibn-khaldun",
+    "nameZh": "伊本·赫勒敦",
+    "summaryZh": "伊本·赫勒敦是形而上学、宗教问题谱系中的第一版候选哲人。 本条目是第一版结构化资料，已经保留文明、传统、主题、作品和论述字段，正式发布前需要继续核对年代、文本出处和概念表述。",
+    "traditions": [
+      "islamic_philosophy"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "metaphysics",
+      "religion",
+      "politics"
+    ],
+    "works": [
+      "ibn-khaldun-muqaddimah",
+      "ibn-khaldun-kitab-al-ibar",
+      "ibn-khaldun-autobiography"
+    ],
+    "problems": [
+      {
+        "titleZh": "历史学如何成为有方法的知识？",
+        "questionZh": "伊本·赫勒敦为何反对只汇编传闻，而要为历史判断建立社会因果方法？",
+        "claims": [
+          {
+            "claimZh": "伊本·赫勒敦认为史家不能只转述权威传闻，而应判断事件是否符合人口、经济、权力和习俗条件。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "伊本·赫勒敦把历史学基础放在对 umran 的研究上，即研究人类群居、生产、权力和文化的生成条件。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "王朝为何会从团结走向衰败？",
+        "questionZh": "伊本·赫勒敦如何用 asabiyyah 解释政权兴起、扩张、奢侈和衰亡？",
+        "claims": [
+          {
+            "claimZh": "伊本·赫勒敦认为王朝兴起依赖群体凝聚力，它使部族或联盟能够承受斗争、服从领导并夺取统治。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "伊本·赫勒敦认为王朝成功后会走向定居、税负增加和奢侈消费，从而削弱原先的凝聚力。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "宗教、知识与政治秩序如何相互支撑？",
+        "questionZh": "伊本·赫勒敦如何把宗教权威、学术分类和政治团结放入文明理论？",
+        "claims": [
+          {
+            "claimZh": "伊本·赫勒敦认为宗教召唤能把群体凝聚力导向更广泛目标，使政权动员获得超越血缘的正当性。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "伊本·赫勒敦把知识分类放入文明发展中理解，认为复杂城市生活为学术分工和教学制度提供条件。",
+            "claimEn": ""
+          }
+        ]
+      }
+    ],
+    "oneLineZh_old": "伊本·赫勒敦是形而上学、宗教问题谱系中的第一版候选哲人。",
+    "keywordsZh_old": [
+      "形而上学",
+      "宗教",
+      "政治"
+    ]
+  },
+  {
+    "id": "augustine",
+    "nameZh": "奥古斯丁",
+    "summaryZh": "奥古斯丁是宗教、形而上学问题谱系中的第一版候选哲人。 本条目是第一版结构化资料，已经保留文明、传统、主题、作品和论述字段，正式发布前需要继续核对年代、文本出处和概念表述。",
+    "traditions": [
+      "scholasticism"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "religion",
+      "metaphysics",
+      "ethics"
+    ],
+    "works": [
+      "augustine-confessions",
+      "augustine-free-will",
+      "augustine-city-of-god"
+    ],
+    "problems": [
+      {
+        "titleZh": "恶、自由与恩典",
+        "questionZh": "如果上帝是善的，恶从何而来？人在意志上负责到什么程度，又为什么需要恩典？",
+        "claims": [
+          {
+            "claimZh": "奥古斯丁把恶理解为受造意志背离更高善所造成的秩序缺损，而不是与善同等并立的实体原则。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "奥古斯丁认为人有意志责任，但堕落后的意志会陷入自我分裂，真正转向善需要恩典介入和内在更新。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "内在性与时间",
+        "questionZh": "人如何在记忆、注意和期待中经验自己？时间为何首先成为心灵的问题？",
+        "claims": [
+          {
+            "claimZh": "奥古斯丁通过记忆分析发现自我并非透明表面，而是包含经验、欲望、遗忘与寻求上帝的深层内在空间。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "奥古斯丁认为过去、现在和未来不是并列对象，时间主要在记忆、注意和期待的心灵伸展中被把握。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "历史与两座城",
+        "questionZh": "历史中的政治共同体如何与终极救赎区分？两座城为何由爱而不是疆域划分？",
+        "claims": [
+          {
+            "claimZh": "奥古斯丁用爱上帝直到轻看自己、爱自己直到轻看上帝这两种爱，解释上帝之城与地上之城的根本分野。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "奥古斯丁不把政治共同体等同终极救赎，但承认地上和平可在受限秩序中约束冲突并服务暂时生活。",
+            "claimEn": ""
+          }
+        ]
+      }
+    ],
+    "oneLineZh_old": "奥古斯丁是宗教、形而上学问题谱系中的第一版候选哲人。",
+    "keywordsZh_old": [
+      "宗教",
+      "形而上学",
+      "伦理"
+    ]
+  },
+  {
+    "id": "boethius",
+    "nameZh": "波爱修斯",
+    "summaryZh": "波爱修斯是宗教、形而上学问题谱系中的第一版候选哲人。 本条目是第一版结构化资料，已经保留文明、传统、主题、作品和论述字段，正式发布前需要继续核对年代、文本出处和概念表述。",
+    "traditions": [
+      "scholasticism"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "religion",
+      "metaphysics",
+      "ethics"
+    ],
+    "works": [
+      "boethius-consolation"
+    ],
+    "problems": [
+      {
+        "titleZh": "不幸如何转化为哲学治疗？",
+        "questionZh": "波爱修斯如何把囚禁和失势经验转化为哲学治疗，而不是单纯的命运抱怨？",
+        "claims": [
+          {
+            "claimZh": "波爱修斯把命运描绘为不断转动的轮，借此说明财富、权位和声誉本就不具备真正幸福所需的稳定性。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "波爱修斯认为真正幸福不能由可失去的外物构成，而要回到统一、充足且不受命运摆布的最高善。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "天意与自由如何相容？",
+        "questionZh": "如果上帝预知一切，人的自由选择是否仍然真实？",
+        "claims": [
+          {
+            "claimZh": "波爱修斯把上帝的永恒理解为同时完整地拥有无尽生命，而不是在时间线上无限延长。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "波爱修斯认为上帝以永恒方式知道时间中的选择，并不使人的选择在自身层面变成被迫或无责任。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "理性秩序如何支撑宇宙？",
+        "questionZh": "波爱修斯如何把最高善、天意和命运组织成一个可理解的宇宙秩序？",
+        "claims": [
+          {
+            "claimZh": "波爱修斯把最高善理解为真正幸福和世界秩序的共同根据，因此伦理治疗最终通向形而上学。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "波爱修斯认为看似混乱的命运变化仍隶属于更高天意，哲学任务是提升视角而非只抱怨遭遇。",
+            "claimEn": ""
+          }
+        ]
+      }
+    ],
+    "oneLineZh_old": "波爱修斯是宗教、形而上学问题谱系中的第一版候选哲人。",
+    "keywordsZh_old": [
+      "宗教",
+      "形而上学",
+      "伦理"
+    ]
+  },
+  {
+    "id": "anselm",
+    "nameZh": "安瑟尔谟",
+    "summaryZh": "安瑟尔谟是宗教、形而上学问题谱系中的第一版候选哲人。 本条目是第一版结构化资料，已经保留文明、传统、主题、作品和论述字段，正式发布前需要继续核对年代、文本出处和概念表述。",
+    "traditions": [
+      "scholasticism"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "religion",
+      "metaphysics",
+      "ethics"
+    ],
+    "works": [
+      "anselm-proslogion",
+      "anselm-monologion",
+      "anselm-cur-deus-homo"
+    ],
+    "problems": [
+      {
+        "titleZh": "信仰如何寻求理解？",
+        "questionZh": "安瑟尔谟为何把信仰和理性论证连接起来，而不是把它们视为彼此排斥？",
+        "claims": [
+          {
+            "claimZh": "安瑟尔谟认为理性探究不是取代信仰，而是在信仰已经指向上帝的前提下寻求更清楚的理解。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "安瑟尔谟的证明并非冷静旁观的技巧，而是信仰主体试图在理性中更完整地把握上帝。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "本体论论证证明了什么？",
+        "questionZh": "“不可设想有比其更大者”如何从心中概念推进到存在和必然存在？",
+        "claims": [
+          {
+            "claimZh": "安瑟尔谟主张，如果最高可设想者只存在于理解中，就还能设想一个也存在于现实中的更大者，因此产生矛盾。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "安瑟尔谟不仅想证明上帝存在，还想说明最高存在者具有不可被设想为不存在的必然性。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "补赎如何连接正义与怜悯？",
+        "questionZh": "为什么安瑟尔谟认为道成肉身和补赎是恢复人神关系的合理方式？",
+        "claims": [
+          {
+            "claimZh": "安瑟尔谟把罪解释为人未向上帝给予应有尊荣而形成的债，这一债不能简单忽略，否则正义会被破坏。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "安瑟尔谟认为救赎不是取消正义，而是通过神人中保的补偿使怜悯得以在正义秩序内实现。",
+            "claimEn": ""
+          }
+        ]
+      }
+    ],
+    "oneLineZh_old": "安瑟尔谟是宗教、形而上学问题谱系中的第一版候选哲人。",
+    "keywordsZh_old": [
+      "宗教",
+      "形而上学",
+      "伦理"
+    ]
+  },
+  {
+    "id": "aquinas",
+    "nameZh": "托马斯·阿奎那",
+    "summaryZh": "托马斯·阿奎那是宗教、形而上学问题谱系中的第一版候选哲人。 本条目是第一版结构化资料，已经保留文明、传统、主题、作品和论述字段，正式发布前需要继续核对年代、文本出处和概念表述。",
+    "traditions": [
+      "scholasticism"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "religion",
+      "metaphysics",
+      "ethics"
+    ],
+    "works": [
+      "aquinas-summa-theologiae",
+      "aquinas-de-ente"
+    ],
+    "problems": [
+      {
+        "titleZh": "信仰与理性如何分工？",
+        "questionZh": "启示真理和自然理性如何各自成立，又如何在同一真理秩序中配合？",
+        "claims": [
+          {
+            "claimZh": "阿奎那认为人类理性可以从运动、因果、必然性、等级和目的秩序中推论上帝存在，而不只依赖权威宣告。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "阿奎那把启示理解为人通向终极目的所需的补足，因为救恩真理超出多数人自然推理的稳定能力。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "存在、形式与目的如何组织世界？",
+        "questionZh": "阿奎那如何把亚里士多德形而上学改造为基督教创造论中的存在秩序？",
+        "claims": [
+          {
+            "claimZh": "阿奎那认为有限受造物的本质并不自动包含存在，它们必须从外部获得存在并依赖第一存在者。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "阿奎那认为自然事物的形式和目的不是任意附加，而是使事物活动、趋向和善能够被理性理解的结构。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "自然法如何约束政治生活？",
+        "questionZh": "法律为何不仅是命令，而必须服务共同善并植根于理性和自然目的？",
+        "claims": [
+          {
+            "claimZh": "阿奎那认为法律不只是统治者意志，而是由有权者为共同善颁布的理性秩序。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "阿奎那认为人的法律应当从自然法获得方向，若脱离理性和共同善，就会失去完整的法律正当性。",
+            "claimEn": ""
+          }
+        ]
+      }
+    ],
+    "oneLineZh_old": "托马斯·阿奎那是宗教、形而上学问题谱系中的第一版候选哲人。",
+    "keywordsZh_old": [
+      "宗教",
+      "形而上学",
+      "伦理"
+    ]
+  },
+  {
+    "id": "ockham",
+    "nameZh": "奥卡姆",
+    "summaryZh": "奥卡姆是宗教、形而上学问题谱系中的第一版候选哲人。 本条目是第一版结构化资料，已经保留文明、传统、主题、作品和论述字段，正式发布前需要继续核对年代、文本出处和概念表述。",
+    "traditions": [
+      "scholasticism"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "religion",
+      "metaphysics",
+      "ethics"
+    ],
+    "works": [
+      "ockham-summa-logicae",
+      "ockham-ordinatio",
+      "ockham-quodlibeta",
+      "ockham-dialogus",
+      "ockham-breviloquium"
+    ],
+    "problems": [
+      {
+        "titleZh": "概念是否需要普遍实体？",
+        "questionZh": "奥卡姆如何解释共相和概念，而不诉诸独立存在的普遍实体？",
+        "claims": [
+          {
+            "claimZh": "奥卡姆认为共相并非在个体之外独立存在的实体，而是心灵和语言用来指称多个个体的符号结构。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "奥卡姆式简约并非拒绝解释，而是要求在不必要时不增加实体层级，以免把语言便利误当作世界结构。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "神的全能如何影响形而上学？",
+        "questionZh": "若上帝具有绝对能力，自然秩序、知识确定性和神学概念应如何被重新理解？",
+        "claims": [
+          {
+            "claimZh": "奥卡姆用上帝绝对能力说明现实秩序不是形而上必然，而是上帝可以设定并维持的秩序。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "奥卡姆重视直观认识，因为它使心灵能够把握个体是否存在，从而限制纯抽象推论的越界。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "教会权力是否有边界？",
+        "questionZh": "奥卡姆如何限制教宗权力，并为世俗政治和共同体判断保留空间？",
+        "claims": [
+          {
+            "claimZh": "奥卡姆认为教宗并非在所有判断中都不可错误，若其背离正信或正义，仍可受到论辩和限制。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "奥卡姆把权力边界看作防止教会和政治共同体被单一权威垄断的重要条件。",
+            "claimEn": ""
+          }
+        ]
+      }
+    ],
+    "oneLineZh_old": "奥卡姆是宗教、形而上学问题谱系中的第一版候选哲人。",
+    "keywordsZh_old": [
+      "宗教",
+      "形而上学",
+      "伦理"
+    ]
+  },
+  {
+    "id": "singer",
+    "nameZh": "彼得·辛格",
+    "summaryZh": "彼得·辛格是伦理、正义问题谱系中的第一版候选哲人。 本条目是第一版结构化资料，已经保留文明、传统、主题、作品和论述字段，正式发布前需要继续核对年代、文本出处和概念表述。",
+    "traditions": [
+      "global_modern_thought"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "ethics",
+      "justice",
+      "freedom"
+    ],
+    "works": [
+      "singer-primary-work"
+    ],
+    "problems": [
+      {
+        "titleZh": "利益为何应被平等考虑？",
+        "questionZh": "辛格如何围绕“利益为何应被平等考虑？”建立其思想问题？",
+        "claims": [
+          {
+            "claimZh": "辛格主张，凡能感受痛苦和享受利益的存在，其相似利益都应受到同等考虑。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "辛格认为，伦理要求我们从受影响者利益出发，而不是只维护亲近者或本群体便利。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "富裕者对远方困境负有什么义务？",
+        "questionZh": "辛格如何围绕“富裕者对远方困境负有什么义务？”建立其思想问题？",
+        "claims": [
+          {
+            "claimZh": "辛格主张，如果我们能以较小代价防止严重损害，距离本身不应改变道德义务。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "辛格认为，许多通常被称为慈善的行为，其实是避免可防止严重损害的道德义务。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "伦理如何指导有效行动？",
+        "questionZh": "辛格如何围绕“伦理如何指导有效行动？”建立其思想问题？",
+        "claims": [
+          {
+            "claimZh": "辛格主张，道德行动应关注实际改善效果，而非只关注动机纯洁或情感满足。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "辛格认为，伦理不是抽象原则，而会要求我们改变消费、捐助和社会参与方式。",
+            "claimEn": ""
+          }
+        ]
+      }
+    ],
+    "oneLineZh_old": "彼得·辛格是伦理、正义问题谱系中的第一版候选哲人。",
+    "keywordsZh_old": [
+      "伦理",
+      "正义",
+      "自由"
+    ]
+  },
+  {
+    "id": "nussbaum",
+    "nameZh": "努斯鲍姆",
+    "summaryZh": "努斯鲍姆是伦理、正义问题谱系中的第一版候选哲人。 本条目是第一版结构化资料，已经保留文明、传统、主题、作品和论述字段，正式发布前需要继续核对年代、文本出处和概念表述。",
+    "traditions": [
+      "global_modern_thought"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "ethics",
+      "justice",
+      "freedom"
+    ],
+    "works": [
+      "nussbaum-primary-work"
+    ],
+    "problems": [
+      {
+        "titleZh": "正义应衡量资源还是能力？",
+        "questionZh": "努斯鲍姆如何围绕“正义应衡量资源还是能力？”建立其思想问题？",
+        "claims": [
+          {
+            "claimZh": "努斯鲍姆主张，正义应保障每个人达到一组核心能力的门槛。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "努斯鲍姆认为，法律或资源上的形式平等不足以说明人是否真正能过有尊严的生活。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "情感能否成为理性伦理资源？",
+        "questionZh": "努斯鲍姆如何围绕“情感能否成为理性伦理资源？”建立其思想问题？",
+        "claims": [
+          {
+            "claimZh": "努斯鲍姆主张，许多情感并非盲目冲动，而是对重要对象和脆弱性的评价。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "努斯鲍姆认为，民主社会需要培养同情、尊重和对脆弱性的理解，以支撑正义制度。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "全球正义如何面对脆弱生命？",
+        "questionZh": "努斯鲍姆如何围绕“全球正义如何面对脆弱生命？”建立其思想问题？",
+        "claims": [
+          {
+            "claimZh": "努斯鲍姆认为，以互利协作为模型的契约论容易边缘化高度依赖和能力受限者。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "努斯鲍姆主张，能力和尊严原则应指导跨国正义和对其他生命形式的伦理考量。",
+            "claimEn": ""
+          }
+        ]
+      }
+    ],
+    "oneLineZh_old": "努斯鲍姆是伦理、正义问题谱系中的第一版候选哲人。",
+    "keywordsZh_old": [
+      "伦理",
+      "正义",
+      "自由"
+    ]
+  },
+  {
+    "id": "plumwood",
+    "nameZh": "普拉姆伍德",
+    "summaryZh": "普拉姆伍德是伦理、正义问题谱系中的第一版候选哲人。 本条目是第一版结构化资料，已经保留文明、传统、主题、作品和论述字段，正式发布前需要继续核对年代、文本出处和概念表述。",
+    "traditions": [
+      "global_modern_thought"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "ethics",
+      "justice",
+      "freedom"
+    ],
+    "works": [
+      "plumwood-feminism-mastery-nature",
+      "plumwood-environmental-culture",
+      "plumwood-being-prey",
+      "plumwood-eye-crocodile"
+    ],
+    "problems": [
+      {
+        "titleZh": "西方理性为何会把自然变成被支配者？",
+        "questionZh": "普拉姆伍德如何把生态危机同理性/自然、男性/女性等二元结构联系起来？",
+        "claims": [
+          {
+            "claimZh": "普拉姆伍德认为西方主流理性传统把理性主体同自然他者对立，形成正当化支配的概念结构。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "普拉姆伍德把生态破坏、性别支配和殖民支配放入同一批判框架，追问谁被建构为自然化他者。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "生态理性如何替代支配理性？",
+        "questionZh": "普拉姆伍德如何从相互依赖和生态嵌入性出发重构理性？",
+        "claims": [
+          {
+            "claimZh": "普拉姆伍德主张生态理性必须承认人类对非人世界的依赖，反对把独立自足当成理性主体标志。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "普拉姆伍德要求伦理和政治把非人生命视为具有能动性和相互关系的成员，而不是沉默背景。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "被捕食经验如何打破人类例外主义？",
+        "questionZh": "普拉姆伍德如何用鳄鱼袭击经验重新思考人类、死亡和食物链？",
+        "claims": [
+          {
+            "claimZh": "普拉姆伍德认为人类并不站在食物链之外，被捕食经验揭示人也是生态关系中的脆弱身体。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "普拉姆伍德认为生态伦理不能只谈保护生命，也要面对吃与被吃、死亡循环和生命互相依存的现实。",
+            "claimEn": ""
+          }
+        ]
+      }
+    ],
+    "oneLineZh_old": "普拉姆伍德是伦理、正义问题谱系中的第一版候选哲人。",
+    "keywordsZh_old": [
+      "伦理",
+      "正义",
+      "自由"
+    ]
+  },
+  {
+    "id": "butler",
+    "nameZh": "巴特勒",
+    "summaryZh": "巴特勒是伦理、正义问题谱系中的第一版候选哲人。 本条目是第一版结构化资料，已经保留文明、传统、主题、作品和论述字段，正式发布前需要继续核对年代、文本出处和概念表述。",
+    "traditions": [
+      "global_modern_thought"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "ethics",
+      "justice",
+      "freedom"
+    ],
+    "works": [
+      "butler-gender-trouble",
+      "butler-bodies-that-matter",
+      "butler-excitable-speech",
+      "butler-undoing-gender",
+      "butler-giving-account"
+    ],
+    "problems": [
+      {
+        "titleZh": "性别如何通过重复实践被生产？",
+        "questionZh": "巴特勒为何把性别理解为操演性过程，而不是内在身份的外部表达？",
+        "claims": [
+          {
+            "claimZh": "巴特勒认为性别身份不是内在性别本质的表现，而是由重复行为和规范引用构成的操演性效果。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "巴特勒进一步主张身体的物质性并非纯粹前话语事实，而是在规范重复中被界定、划界和可理解化。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "语言为何既能伤害也能打开行动？",
+        "questionZh": "巴特勒如何理解话语、称名和身体规范之间的权力关系？",
+        "claims": [
+          {
+            "claimZh": "巴特勒认为侮辱、称名和规范话语能够伤害主体，因为主体本身是在被呼唤和承认中形成的。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "巴特勒认为社会承认规范决定哪些身体和生命能被看见、被保护、被哀悼或被排除。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "脆弱生命如何成为政治伦理的起点？",
+        "questionZh": "巴特勒如何从身体脆弱性、哀悼和战争框架重构伦理政治？",
+        "claims": [
+          {
+            "claimZh": "巴特勒认为人的身体暴露于他人和制度之中，脆弱性不是缺陷，而是伦理和政治责任的条件。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "巴特勒认为政治和媒体框架会预先安排哪些生命可被视为生命，哪些死亡能进入公共哀悼。",
+            "claimEn": ""
+          }
+        ]
+      }
+    ],
+    "oneLineZh_old": "巴特勒是伦理、正义问题谱系中的第一版候选哲人。",
+    "keywordsZh_old": [
+      "伦理",
+      "正义",
+      "自由"
+    ]
+  },
+  {
+    "id": "hooks",
+    "nameZh": "贝尔·胡克斯",
+    "summaryZh": "贝尔·胡克斯是伦理、正义问题谱系中的第一版候选哲人。 本条目是第一版结构化资料，已经保留文明、传统、主题、作品和论述字段，正式发布前需要继续核对年代、文本出处和概念表述。",
+    "traditions": [
+      "global_modern_thought"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "ethics",
+      "justice",
+      "freedom"
+    ],
+    "works": [
+      "hooks-aint-i-a-woman",
+      "hooks-feminist-theory-margin-center",
+      "hooks-teaching-transgress",
+      "hooks-all-about-love",
+      "hooks-feminism-everybody"
+    ],
+    "problems": [
+      {
+        "titleZh": "黑人女性主义为何必须从交叉压迫出发？",
+        "questionZh": "贝尔·胡克斯如何批判只以白人中产女性经验为中心的女性主义？",
+        "claims": [
+          {
+            "claimZh": "胡克斯认为女性主义若只处理性别压迫，而忽视种族和阶级，就无法解释黑人女性的真实处境。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "胡克斯把边缘位置理解为能够看清中心权力结构的批判地点，而不只是受害者身份。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "教育如何成为越界的自由实践？",
+        "questionZh": "胡克斯如何把教学理解为反支配、反沉默和共同解放的实践？",
+        "claims": [
+          {
+            "claimZh": "胡克斯主张参与式教育，认为课堂应让学生经验进入知识生产，而不是复制教师权威的单向支配。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "胡克斯认为理论如果不能解释和改变日常生活中的痛苦、沉默和支配，就会重新变成精英隔离物。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "爱为何是反支配的伦理实践？",
+        "questionZh": "胡克斯如何把爱从私人情感提升为社会解放和伦理转化的核心概念？",
+        "claims": [
+          {
+            "claimZh": "胡克斯认为爱不是自然涌出的情绪，而是包含关怀、承诺、知识、责任、尊重和信任的伦理行动。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "胡克斯把爱视为建立跨差异团结的条件，认为没有爱的政治容易复制羞辱、惩罚和支配。",
+            "claimEn": ""
+          }
+        ]
+      }
+    ],
+    "oneLineZh_old": "贝尔·胡克斯是伦理、正义问题谱系中的第一版候选哲人。",
+    "keywordsZh_old": [
+      "伦理",
+      "正义",
+      "自由"
+    ]
+  },
+  {
+    "id": "saadia-gaon",
+    "nameZh": "萨阿迪亚·高昂",
+    "summaryZh": "萨阿迪亚·高昂是宗教、伦理问题谱系中的第一版候选哲人。 本条目是第一版结构化资料，已经保留文明、传统、主题、作品和论述字段，正式发布前需要继续核对年代、文本出处和概念表述。",
+    "traditions": [
+      "jewish_philosophy"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "religion",
+      "ethics",
+      "language"
+    ],
+    "works": [
+      "saadia-gaon-primary-work"
+    ],
+    "problems": [
+      {
+        "titleZh": "理性如何护持启示信仰？",
+        "questionZh": "萨阿迪亚·高昂如何围绕“理性如何护持启示信仰？”建立其思想问题？",
+        "claims": [
+          {
+            "claimZh": "萨阿迪亚主张，信仰不应停留在习俗继承，理性论证可以回应怀疑并巩固确信。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "萨阿迪亚认为，理性能够证明若干根本真理，但启示以更可靠和普遍的方式引导共同体。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "创造论如何奠定神学秩序？",
+        "questionZh": "萨阿迪亚·高昂如何围绕“创造论如何奠定神学秩序？”建立其思想问题？",
+        "claims": [
+          {
+            "claimZh": "萨阿迪亚主张，世界具有组合、变化和依赖性，因此不能被理解为自身永恒的存在。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "萨阿迪亚认为，若承认创造者，就必须排除相互竞争的终极原则，否则世界秩序无法解释。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "诫命为何具有道德和理性意义？",
+        "questionZh": "萨阿迪亚·高昂如何围绕“诫命为何具有道德和理性意义？”建立其思想问题？",
+        "claims": [
+          {
+            "claimZh": "萨阿迪亚主张，许多道德义务与理性可知的善恶一致，启示确认并强化这些义务。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "萨阿迪亚认为，诫命通过实践、节制和公共仪式塑造灵魂，使共同体保持正确信念和德性。",
+            "claimEn": ""
+          }
+        ]
+      }
+    ],
+    "oneLineZh_old": "萨阿迪亚·高昂是宗教、伦理问题谱系中的第一版候选哲人。",
+    "keywordsZh_old": [
+      "宗教",
+      "伦理",
+      "语言"
+    ]
+  },
+  {
+    "id": "maimonides",
+    "nameZh": "迈蒙尼德",
+    "summaryZh": "迈蒙尼德是宗教、伦理问题谱系中的第一版候选哲人。 本条目是第一版结构化资料，已经保留文明、传统、主题、作品和论述字段，正式发布前需要继续核对年代、文本出处和概念表述。",
+    "traditions": [
+      "jewish_philosophy"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "religion",
+      "ethics",
+      "language"
+    ],
+    "works": [
+      "maimonides-primary-work"
+    ],
+    "problems": [
+      {
+        "titleZh": "如何谈论不可被正面把握的神？",
+        "questionZh": "迈蒙尼德如何围绕“如何谈论不可被正面把握的神？”建立其思想问题？",
+        "claims": [
+          {
+            "claimZh": "迈蒙尼德主张，关于神的正面属性容易造成拟人化误解，较可靠的方式是否定不适当谓词。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "迈蒙尼德认为，人对神的最高认识不是掌握神的本质，而是知道哪些表述必须被排除。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "律法如何服务理智和政治目的？",
+        "questionZh": "迈蒙尼德如何围绕“律法如何服务理智和政治目的？”建立其思想问题？",
+        "claims": [
+          {
+            "claimZh": "迈蒙尼德主张，律法不仅维持社会和平，也引导人摆脱错误信念并趋向理智完善。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "迈蒙尼德认为，许多诫命针对人的欲望、偶像崇拜和错误习惯，具有渐进治疗作用。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "经文解释如何协调大众教育与哲学真理？",
+        "questionZh": "迈蒙尼德如何围绕“经文解释如何协调大众教育与哲学真理？”建立其思想问题？",
+        "claims": [
+          {
+            "claimZh": "迈蒙尼德主张，某些经文表述以寓言或隐喻形式呈现深层真理，以适应不同理解能力。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "迈蒙尼德认为，解释者不能只追求揭示隐义，还要考虑共同体信念、教育秩序和道德后果。",
+            "claimEn": ""
+          }
+        ]
+      }
+    ],
+    "oneLineZh_old": "迈蒙尼德是宗教、伦理问题谱系中的第一版候选哲人。",
+    "keywordsZh_old": [
+      "宗教",
+      "伦理",
+      "语言"
+    ]
+  },
+  {
+    "id": "buber",
+    "nameZh": "布伯",
+    "summaryZh": "布伯是宗教、伦理问题谱系中的第一版候选哲人。 本条目是第一版结构化资料，已经保留文明、传统、主题、作品和论述字段，正式发布前需要继续核对年代、文本出处和概念表述。",
+    "traditions": [
+      "jewish_philosophy"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "religion",
+      "ethics",
+      "language"
+    ],
+    "works": [
+      "buber-primary-work"
+    ],
+    "problems": [
+      {
+        "titleZh": "人如何在关系中成为自我？",
+        "questionZh": "布伯如何围绕“人如何在关系中成为自我？”建立其思想问题？",
+        "claims": [
+          {
+            "claimZh": "布伯主张，自我不是孤立实体，而是在面对“你”的直接关系中获得真实存在。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "布伯认为，我—它态度支撑经验、使用和知识，但若独占生活，就会把关系世界压缩为对象。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "对话如何具有伦理和宗教意义？",
+        "questionZh": "布伯如何围绕“对话如何具有伦理和宗教意义？”建立其思想问题？",
+        "claims": [
+          {
+            "claimZh": "布伯主张，对话不是信息交换，而是以完整人格回应他者临在的事件。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "布伯认为，人与有限他者的我—你关系最终通向不可对象化的永恒之你。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "共同体如何从真实关系中生成？",
+        "questionZh": "布伯如何围绕“共同体如何从真实关系中生成？”建立其思想问题？",
+        "claims": [
+          {
+            "claimZh": "布伯主张，真正共同体不是外在组织或群体数量，而是成员之间活的关系网络。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "布伯认为，伦理责任首先来自对具体他者的回应，而不是抽象制度身份。",
+            "claimEn": ""
+          }
+        ]
+      }
+    ],
+    "oneLineZh_old": "布伯是宗教、伦理问题谱系中的第一版候选哲人。",
+    "keywordsZh_old": [
+      "宗教",
+      "伦理",
+      "语言"
+    ]
+  },
+  {
+    "id": "levinas",
+    "nameZh": "列维纳斯",
+    "summaryZh": "列维纳斯是宗教、伦理问题谱系中的第一版候选哲人。 本条目是第一版结构化资料，已经保留文明、传统、主题、作品和论述字段，正式发布前需要继续核对年代、文本出处和概念表述。",
+    "traditions": [
+      "jewish_philosophy"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "religion",
+      "ethics",
+      "language"
+    ],
+    "works": [
+      "levinas-primary-work"
+    ],
+    "problems": [
+      {
+        "titleZh": "伦理关系为何先于理论分类？",
+        "questionZh": "列维纳斯如何围绕“伦理关系为何先于理论分类？”建立其思想问题？",
+        "claims": [
+          {
+            "claimZh": "列维纳斯认为，他者面容不是普通对象属性，而是在相遇中向主体提出伦理要求。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "列维纳斯主张，主体不是先有完全自足身份再选择责任，而是在责任关系中被规定。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "语言如何承载伦理关系？",
+        "questionZh": "列维纳斯如何围绕“语言如何承载伦理关系？”建立其思想问题？",
+        "claims": [
+          {
+            "claimZh": "列维纳斯认为，语言不只是传递信息的工具，更是在言说中向他者开放的伦理姿态。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "列维纳斯主张，概念陈述虽必要，却可能把他者纳入固定分类，因此需要被伦理言说校正。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "无限为何不能被总体化理解？",
+        "questionZh": "列维纳斯如何围绕“无限为何不能被总体化理解？”建立其思想问题？",
+        "claims": [
+          {
+            "claimZh": "列维纳斯认为，无限不是可被完整把握的对象，而是在他者关系中显示超出概念的维度。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "列维纳斯主张，若哲学只追求总体体系，具体他者的不可替代性就容易被抽象结构掩盖。",
+            "claimEn": ""
+          }
+        ]
+      }
+    ],
+    "oneLineZh_old": "列维纳斯是宗教、伦理问题谱系中的第一版候选哲人。",
+    "keywordsZh_old": [
+      "宗教",
+      "伦理",
+      "语言"
+    ]
+  },
+  {
+    "id": "amo",
+    "nameZh": "安东·威廉·阿莫",
+    "summaryZh": "安东·威廉·阿莫是政治、伦理问题谱系中的第一版候选哲人。 本条目是第一版结构化资料，已经保留文明、传统、主题、作品和论述字段，正式发布前需要继续核对年代、文本出处和概念表述。",
+    "traditions": [
+      "african_philosophy"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "politics",
+      "ethics",
+      "language"
+    ],
+    "works": [
+      "amo-right-moors-europe",
+      "amo-impassivity-human-mind",
+      "amo-art-philosophising"
+    ],
+    "problems": [
+      {
+        "titleZh": "非洲人在欧洲的法权如何被哲学化？",
+        "questionZh": "阿莫如何在欧洲法学和殖民秩序之间提出关于黑人自由与权利的论证？",
+        "claims": [
+          {
+            "claimZh": "阿莫把非洲人在欧洲的自由与权利问题转化为可用自然法、民法和历史法源讨论的学术问题。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "阿莫的写作位置表明，殖民语境中的非洲主体并非只能被研究，也能够成为欧洲知识制度内部的论证者。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "心灵为何不能被说成会感受？",
+        "questionZh": "阿莫为何主张人的心灵不具有感受性，并借此重画心身关系？",
+        "claims": [
+          {
+            "claimZh": "阿莫认为真正承受感觉变化的是身体，非物质心灵本身不能被说成像身体那样受苦或受刺激。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "阿莫的心身区分不是抽象二元论装饰，而是为了澄清感觉、表象、判断和知识的不同功能。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "清醒而准确的哲学方法意味着什么？",
+        "questionZh": "阿莫如何把哲学理解为需要语言、定义和推理纪律的清醒活动？",
+        "claims": [
+          {
+            "claimZh": "阿莫把哲学活动建立在准确概念、清楚定义和有序推理之上，反对含混表达造成的伪问题。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "阿莫的方法论写作表明，哲学共同体的资格应由论证能力和概念纪律决定，而非由出身划线。",
+            "claimEn": ""
+          }
+        ]
+      }
+    ],
+    "oneLineZh_old": "安东·威廉·阿莫是政治、伦理问题谱系中的第一版候选哲人。",
+    "keywordsZh_old": [
+      "政治",
+      "伦理",
+      "语言"
+    ]
+  },
+  {
+    "id": "wiredu",
+    "nameZh": "夸西·维雷杜",
+    "summaryZh": "夸西·维雷杜是政治、伦理问题谱系中的第一版候选哲人。 本条目是第一版结构化资料，已经保留文明、传统、主题、作品和论述字段，正式发布前需要继续核对年代、文本出处和概念表述。",
+    "traditions": [
+      "african_philosophy"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "politics",
+      "ethics",
+      "language"
+    ],
+    "works": [
+      "wiredu-philosophy-african-culture",
+      "wiredu-cultural-universals-particulars",
+      "wiredu-conceptual-decolonization",
+      "wiredu-democracy-consensus"
+    ],
+    "problems": [
+      {
+        "titleZh": "概念去殖民为何是哲学任务？",
+        "questionZh": "维雷杜如何通过语言和概念分析反思殖民遗产对非洲思想的塑形？",
+        "claims": [
+          {
+            "claimZh": "维雷杜认为用殖民语言直接思考非洲问题，容易把外来哲学预设误当成本土经验本身。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "维雷杜主张概念去殖民并不排斥普遍理性，而是让非洲语言资源参与更清楚的哲学讨论。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "人格、真理和心灵能否跨文化分析？",
+        "questionZh": "维雷杜如何用阿肯概念分析挑战西方哲学中的若干默认问题？",
+        "claims": [
+          {
+            "claimZh": "维雷杜认为真理问题不能只从英语或欧洲语言出发，阿肯语表达显示真理可被理解为说事物如其所是。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "维雷杜从阿肯思想中强调人格具有规范维度，一个人要通过道德实践和社会责任成为充分的人格者。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "共识民主如何替代对抗式多数决？",
+        "questionZh": "维雷杜为何从非洲传统政治中提炼共识民主，并批判单纯多数主义？",
+        "claims": [
+          {
+            "claimZh": "维雷杜主张民主应尽量通过协商取得共识，避免多数决把少数群体制度化地排除在政治共同体外。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "维雷杜认为政治去殖民不能只更换统治者，还要重新思考制度形式是否适合本地公共理性。",
+            "claimEn": ""
+          }
+        ]
+      }
+    ],
+    "oneLineZh_old": "夸西·维雷杜是政治、伦理问题谱系中的第一版候选哲人。",
+    "keywordsZh_old": [
+      "政治",
+      "伦理",
+      "语言"
+    ]
+  },
+  {
+    "id": "senghor",
+    "nameZh": "桑戈尔",
+    "summaryZh": "桑戈尔是政治、伦理问题谱系中的第一版候选哲人。 本条目是第一版结构化资料，已经保留文明、传统、主题、作品和论述字段，正式发布前需要继续核对年代、文本出处和概念表述。",
+    "traditions": [
+      "african_philosophy"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "politics",
+      "ethics",
+      "language"
+    ],
+    "works": [
+      "senghor-liberte-negritude-humanism",
+      "senghor-african-socialism",
+      "senghor-nation-african-socialism",
+      "senghor-hosties-noires",
+      "senghor-chants-ombre"
+    ],
+    "problems": [
+      {
+        "titleZh": "黑人性如何成为文化自我肯定？",
+        "questionZh": "桑戈尔如何把黑人性从殖民贬抑中转化为文化、审美和政治资源？",
+        "claims": [
+          {
+            "claimZh": "桑戈尔把黑人性理解为对殖民贬抑的回应，通过肯定非洲文化形式来恢复被否定的尊严。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "桑戈尔认为黑人性不是封闭民族主义，而是通过承认文化差异来丰富共同的人类文明。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "审美语言为何能成为认识方式？",
+        "questionZh": "桑戈尔如何把节奏、情感和诗性语言理解为非洲认识与表达方式？",
+        "claims": [
+          {
+            "claimZh": "桑戈尔把节奏看成非洲艺术和认识的核心方式，认为它表达人与世界之间的关系和生命力。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "桑戈尔使用法语并非简单同化，而是试图把殖民语言改造为表达非洲经验和世界对话的工具。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "非洲社会主义如何结合文化和国家建设？",
+        "questionZh": "桑戈尔如何把黑人性、人文主义和社会主义政治结合到独立后的国家建设中？",
+        "claims": [
+          {
+            "claimZh": "桑戈尔主张非洲社会主义应植根于共同体、人文主义和文化传统，而不是机械移植欧洲阶级斗争模型。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "桑戈尔认为黑人性和文化复兴若不进入教育、国家和经济制度，就无法完成反殖民解放。",
+            "claimEn": ""
+          }
+        ]
+      }
+    ],
+    "oneLineZh_old": "桑戈尔是政治、伦理问题谱系中的第一版候选哲人。",
+    "keywordsZh_old": [
+      "政治",
+      "伦理",
+      "语言"
+    ]
+  },
+  {
+    "id": "hountondji",
+    "nameZh": "洪通吉",
+    "summaryZh": "洪通吉是政治、伦理问题谱系中的第一版候选哲人。 本条目是第一版结构化资料，已经保留文明、传统、主题、作品和论述字段，正式发布前需要继续核对年代、文本出处和概念表述。",
+    "traditions": [
+      "african_philosophy"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "politics",
+      "ethics",
+      "language"
+    ],
+    "works": [
+      "hountondji-african-philosophy",
+      "hountondji-struggle-meaning",
+      "hountondji-endogenous-knowledge",
+      "hountondji-combats-sens"
+    ],
+    "problems": [
+      {
+        "titleZh": "非洲哲学为何不能等同民族世界观？",
+        "questionZh": "洪通吉为何批判把非洲哲学理解为集体、匿名、不可争辩的民族世界观？",
+        "claims": [
+          {
+            "claimZh": "洪通吉认为民族哲学把非洲哲学描述为集体世界观，实际上常把人类学解释误当成哲学论证。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "洪通吉主张非洲哲学应由非洲思想者之间的公开争论构成，而非由外部学者宣称某种共同精神。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "内生知识如何避免被浪漫化？",
+        "questionZh": "洪通吉如何在重视非洲内生知识的同时避免把传统知识神秘化或封闭化？",
+        "claims": [
+          {
+            "claimZh": "洪通吉认为本土知识值得研究，但必须通过公开方法、概念分析和经验检验来避免浪漫化。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "洪通吉认为非洲知识生产不能只向外部理论市场提供材料，而应形成能提出问题和检验理论的自主机构。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "哲学批判如何服务非洲民主？",
+        "questionZh": "洪通吉如何把哲学写作、公共意义斗争和民主政治联系起来？",
+        "claims": [
+          {
+            "claimZh": "洪通吉认为民主不仅是制度安排，也需要公民和知识分子参与公共意义的公开争辩。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "洪通吉主张非洲哲学既要参与普遍哲学讨论，也要承担对非洲社会知识制度和政治现实的具体责任。",
+            "claimEn": ""
+          }
+        ]
+      }
+    ],
+    "oneLineZh_old": "洪通吉是政治、伦理问题谱系中的第一版候选哲人。",
+    "keywordsZh_old": [
+      "政治",
+      "伦理",
+      "语言"
+    ]
+  },
+  {
+    "id": "dewey",
+    "nameZh": "杜威",
+    "summaryZh": "杜威是正义、政治问题谱系中的第一版候选哲人。 本条目是第一版结构化资料，已经保留文明、传统、主题、作品和论述字段，正式发布前需要继续核对年代、文本出处和概念表述。",
+    "traditions": [
+      "american_philosophy"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "justice",
+      "politics",
+      "ethics"
+    ],
+    "works": [
+      "dewey-primary-work"
+    ],
+    "problems": [
+      {
+        "titleZh": "知识如何从探究活动中产生？",
+        "questionZh": "杜威如何围绕“知识如何从探究活动中产生？”建立其思想问题？",
+        "claims": [
+          {
+            "claimZh": "杜威主张，思想不是脱离生活的内在表象游戏，而是在行动受阻、情境不确定时组织假设和实验的工具。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "杜威认为观念的有效性要在行动后果和共同检验中确认；知识是解决问题的工具性稳定成果。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "民主为何是一种生活方式？",
+        "questionZh": "杜威如何围绕“民主为何是一种生活方式？”建立其思想问题？",
+        "claims": [
+          {
+            "claimZh": "杜威认为民主社会的核心在于让不同群体共享经验、沟通利益并参与共同问题的解决。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "杜威主张教育不是灌输固定知识，而是培养参与共同生活、处理问题和持续生长的能力。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "经验如何重建价值与公共生活？",
+        "questionZh": "杜威如何围绕“经验如何重建价值与公共生活？”建立其思想问题？",
+        "claims": [
+          {
+            "claimZh": "杜威认为价值不是外在永恒实体，也不是任意偏好，而是在具体情境中对欲望、后果和可行行动的反省评价。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "杜威主张艺术不是脱离日常生活的孤立美物，而是经验在情感、行动和意义上达到完整组织的形态。",
+            "claimEn": ""
+          }
+        ]
+      }
+    ],
+    "oneLineZh_old": "杜威是正义、政治问题谱系中的第一版候选哲人。",
+    "keywordsZh_old": [
+      "正义",
+      "政治",
+      "伦理"
+    ]
+  },
+  {
+    "id": "quine",
+    "nameZh": "蒯因",
+    "summaryZh": "蒯因是正义、政治问题谱系中的第一版候选哲人。 本条目是第一版结构化资料，已经保留文明、传统、主题、作品和论述字段，正式发布前需要继续核对年代、文本出处和概念表述。",
+    "traditions": [
+      "american_philosophy"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "justice",
+      "politics",
+      "ethics"
+    ],
+    "works": [
+      "quine-primary-work"
+    ],
+    "problems": [
+      {
+        "titleZh": "经验如何检验理论整体？",
+        "questionZh": "蒯因如何围绕“经验如何检验理论整体？”建立其思想问题？",
+        "claims": [
+          {
+            "claimZh": "蒯因主张，经验检验总是作用于相互关联的信念网络，而不是孤立命题。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "蒯因认为，面对反常经验，我们可以修改观察判断、辅助假设、逻辑或定义。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "分析与综合之分为何可疑？",
+        "questionZh": "蒯因如何围绕“分析与综合之分为何可疑？”建立其思想问题？",
+        "claims": [
+          {
+            "claimZh": "蒯因主张，用同义性解释分析命题会陷入循环，因为同义性本身也待解释。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "蒯因认为，没有绝对不可修正的语言真理，即使逻辑原则也处在理论整体中。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "本体论承诺如何由量化决定？",
+        "questionZh": "蒯因如何围绕“本体论承诺如何由量化决定？”建立其思想问题？",
+        "claims": [
+          {
+            "claimZh": "蒯因主张，一个理论承诺哪些实体，要看其最佳逻辑表述中哪些对象作为变量取值。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "蒯因认为，本体论承诺没有外部法庭，应依据简约性、解释力和科学体系效用评估。",
+            "claimEn": ""
+          }
+        ]
+      }
+    ],
+    "oneLineZh_old": "蒯因是正义、政治问题谱系中的第一版候选哲人。",
+    "keywordsZh_old": [
+      "正义",
+      "政治",
+      "伦理"
+    ]
+  },
+  {
+    "id": "nozick",
+    "nameZh": "诺齐克",
+    "summaryZh": "诺齐克是正义、政治问题谱系中的第一版候选哲人。 本条目是第一版结构化资料，已经保留文明、传统、主题、作品和论述字段，正式发布前需要继续核对年代、文本出处和概念表述。",
+    "traditions": [
+      "american_philosophy"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "justice",
+      "politics",
+      "ethics"
+    ],
+    "works": [
+      "nozick-primary-work"
+    ],
+    "problems": [
+      {
+        "titleZh": "最小国家为何可能正当？",
+        "questionZh": "诺齐克如何围绕“最小国家为何可能正当？”建立其思想问题？",
+        "claims": [
+          {
+            "claimZh": "诺齐克主张，个人权利不是可在总体福利中权衡牺牲的利益，而是行动侧约束。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "诺齐克认为，保护性社团可能通过看不见的手过程形成占优势的最小国家。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "分配正义为何不是模式化终态？",
+        "questionZh": "诺齐克如何围绕“分配正义为何不是模式化终态？”建立其思想问题？",
+        "claims": [
+          {
+            "claimZh": "诺齐克主张，判断分配是否正义要看财产如何取得和转让，而非当前分布图案。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "诺齐克认为，只要人们拥有自由交换权，任何预设分配模式都会被自愿交易打破。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "乌托邦为何应是框架而非蓝图？",
+        "questionZh": "诺齐克如何围绕“乌托邦为何应是框架而非蓝图？”建立其思想问题？",
+        "claims": [
+          {
+            "claimZh": "诺齐克主张，人们对善生活有深刻差异，政治制度不应强制所有人进入同一理想共同体。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "诺齐克认为，最小国家只提供权利保护背景，让个人自愿组织不同生活形式。",
+            "claimEn": ""
+          }
+        ]
+      }
+    ],
+    "oneLineZh_old": "诺齐克是正义、政治问题谱系中的第一版候选哲人。",
+    "keywordsZh_old": [
+      "正义",
+      "政治",
+      "伦理"
+    ]
+  },
+  {
+    "id": "dogen",
+    "nameZh": "道元",
+    "summaryZh": "道元是宗教、审美问题谱系中的第一版候选哲人。 本条目是第一版结构化资料，已经保留文明、传统、主题、作品和论述字段，正式发布前需要继续核对年代、文本出处和概念表述。",
+    "traditions": [
+      "japanese_philosophy"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "religion",
+      "aesthetics",
+      "ethics"
+    ],
+    "works": [
+      "dogen-primary-work"
+    ],
+    "problems": [
+      {
+        "titleZh": "修行与证悟为何不可分离？",
+        "questionZh": "道元如何围绕“修行与证悟为何不可分离？”建立其思想问题？",
+        "claims": [
+          {
+            "claimZh": "道元主张，真正的修行不是等待未来成果，而是在实践本身中显现觉悟。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "道元认为，坐禅不是单纯内心调整，而是身体、姿态、呼吸和理解共同参与的完整实践。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "时间如何就是存在方式？",
+        "questionZh": "道元如何围绕“时间如何就是存在方式？”建立其思想问题？",
+        "claims": [
+          {
+            "claimZh": "道元主张，事物不是先作为实体存在再进入时间，而是在自身时位中成为其所是。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "道元认为，当下不是通向别处的过渡点，而是修行、理解和世界显现的完整场域。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "佛性如何在万法中呈现？",
+        "questionZh": "道元如何围绕“佛性如何在万法中呈现？”建立其思想问题？",
+        "claims": [
+          {
+            "claimZh": "道元认为，佛性不应被理解为事物内部等待发现的静态本质，而是在万法活动中呈现。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "道元主张，禅宗语言不是简单说明概念，而能通过悖论、转语和诗性表达促成体认。",
+            "claimEn": ""
+          }
+        ]
+      }
+    ],
+    "oneLineZh_old": "道元是宗教、审美问题谱系中的第一版候选哲人。",
+    "keywordsZh_old": [
+      "宗教",
+      "审美",
+      "伦理"
+    ]
+  },
+  {
+    "id": "nishida",
+    "nameZh": "西田几多郎",
+    "summaryZh": "西田几多郎是宗教、审美问题谱系中的第一版候选哲人。 本条目是第一版结构化资料，已经保留文明、传统、主题、作品和论述字段，正式发布前需要继续核对年代、文本出处和概念表述。",
+    "traditions": [
+      "japanese_philosophy"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "religion",
+      "aesthetics",
+      "ethics"
+    ],
+    "works": [
+      "nishida-primary-work"
+    ],
+    "problems": [
+      {
+        "titleZh": "纯粹经验为何先于主客分裂？",
+        "questionZh": "西田几多郎如何围绕“纯粹经验为何先于主客分裂？”建立其思想问题？",
+        "claims": [
+          {
+            "claimZh": "西田几多郎主张，最原初的经验并非主体面对对象，而是尚未分化的直接经验。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "西田认为，自我意识不是外在旁观者，而是经验自身分化、反省并把握自身的过程。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "场所逻辑如何超越对象逻辑？",
+        "questionZh": "西田几多郎如何围绕“场所逻辑如何超越对象逻辑？”建立其思想问题？",
+        "claims": [
+          {
+            "claimZh": "西田主张，任何对象判断都预设一个使对象显现和被规定的场所。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "西田认为，自我不是场所之外的中心，而是在更深的场所中自我限定和自我显现。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "绝对无如何成为哲学概念？",
+        "questionZh": "西田几多郎如何围绕“绝对无如何成为哲学概念？”建立其思想问题？",
+        "claims": [
+          {
+            "claimZh": "西田主张，绝对无不是普通意义的不存在，而是使万有得以自我限定的根本场所。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "西田认为，宗教经验表现为自我超越狭隘自我，并在更深场所中重新理解自身。",
+            "claimEn": ""
+          }
+        ]
+      }
+    ],
+    "oneLineZh_old": "西田几多郎是宗教、审美问题谱系中的第一版候选哲人。",
+    "keywordsZh_old": [
+      "宗教",
+      "审美",
+      "伦理"
+    ]
+  },
+  {
+    "id": "watsuji",
+    "nameZh": "和辻哲郎",
+    "summaryZh": "和辻哲郎是宗教、审美问题谱系中的第一版候选哲人。 本条目是第一版结构化资料，已经保留文明、传统、主题、作品和论述字段，正式发布前需要继续核对年代、文本出处和概念表述。",
+    "traditions": [
+      "japanese_philosophy"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "religion",
+      "aesthetics",
+      "ethics"
+    ],
+    "works": [
+      "watsuji-fudo",
+      "watsuji-rinrigaku",
+      "watsuji-history-japanese-ethical-thought",
+      "watsuji-pilgrimages-ancient-temples"
+    ],
+    "problems": [
+      {
+        "titleZh": "伦理为何必须从人间关系出发？",
+        "questionZh": "和辻哲郎为何反对把伦理学建立在孤立个体之上，而要从人与人之间的关系结构出发？",
+        "claims": [
+          {
+            "claimZh": "和辻认为“人间”同时包含个人和人与人之间的关系，伦理学必须把这种双重结构作为出发点。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "和辻把伦理实践理解为个体不断否定孤立自我、承担关系责任并恢复共同性的过程。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "风土如何塑造人的历史存在？",
+        "questionZh": "和辻如何把气候、地理和生活方式纳入哲学人类学，而不把人简化为自然环境的产物？",
+        "claims": [
+          {
+            "claimZh": "和辻认为风土不是外在背景，而是人在共同生活中感受、解释并实践自然环境的历史方式。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "和辻通过风土分析文化差异，但重点在生活形式的历史展开，而不是用自然因素直接决定价值高低。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "日本伦理思想史如何成为现代反思资源？",
+        "questionZh": "和辻为何通过日本伦理思想史来反思现代主体、共同体和宗教传统？",
+        "claims": [
+          {
+            "claimZh": "和辻通过日本伦理思想史考察伦理共同体在宗教、家族、武士和国家形式中的历史变形。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "和辻认为现代伦理危机不能只用外来抽象理论解决，还需要对本土历史经验中的关系形式进行批判性理解。",
+            "claimEn": ""
+          }
+        ]
+      }
+    ],
+    "oneLineZh_old": "和辻哲郎是宗教、审美问题谱系中的第一版候选哲人。",
+    "keywordsZh_old": [
+      "宗教",
+      "审美",
+      "伦理"
+    ]
+  },
+  {
+    "id": "dussel",
+    "nameZh": "杜塞尔",
+    "summaryZh": "杜塞尔是政治、正义问题谱系中的第一版候选哲人。 本条目是第一版结构化资料，已经保留文明、传统、主题、作品和论述字段，正式发布前需要继续核对年代、文本出处和概念表述。",
+    "traditions": [
+      "latin_american_philosophy"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "politics",
+      "justice",
+      "freedom"
+    ],
+    "works": [
+      "dussel-philosophy-liberation",
+      "dussel-underside-modernity",
+      "dussel-invention-americas",
+      "dussel-ethics-liberation",
+      "dussel-twenty-theses-politics"
+    ],
+    "problems": [
+      {
+        "titleZh": "现代性为何必须从受压迫者背面重写？",
+        "questionZh": "杜塞尔如何从拉美殖民经验出发批判欧洲中心现代性叙事？",
+        "claims": [
+          {
+            "claimZh": "杜塞尔认为欧洲现代性不能只从启蒙理性叙述，而必须从 1492 年征服美洲的殖民暴力重新理解。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "杜塞尔把受压迫者的外在性作为哲学起点，要求思想从体系无法吸收的他者处开始。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "解放伦理如何从受害者的生命出发？",
+        "questionZh": "杜塞尔如何把伦理学建立在被排除者的生命、苦难和否定性经验之上？",
+        "claims": [
+          {
+            "claimZh": "杜塞尔认为制度是否正当，首先要看它能否让被排除者的生命得到生产、再生产和发展。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "杜塞尔认为伦理批判必须通向组织化的解放实践，而不能停在同情受害者或描述不平等。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "人民政治如何超越国家中心主义？",
+        "questionZh": "杜塞尔如何把政治权力理解为人民的权能，而不是统治机器的自我保存？",
+        "claims": [
+          {
+            "claimZh": "杜塞尔把政治权力的根源放在人民共同生活和共同决断的能力中，而不是国家机器本身。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "杜塞尔主张以跨现代性重新组织政治想象，让被殖民和被排除世界参与创造现代性的超越形式。",
+            "claimEn": ""
+          }
+        ]
+      }
+    ],
+    "oneLineZh_old": "杜塞尔是政治、正义问题谱系中的第一版候选哲人。",
+    "keywordsZh_old": [
+      "政治",
+      "正义",
+      "自由"
+    ]
+  },
+  {
+    "id": "zelea",
+    "nameZh": "塞亚",
+    "summaryZh": "塞亚是政治、正义问题谱系中的第一版候选哲人。 本条目是第一版结构化资料，已经保留文明、传统、主题、作品和论述字段，正式发布前需要继续核对年代、文本出处和概念表述。",
+    "traditions": [
+      "latin_american_philosophy"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "politics",
+      "justice",
+      "freedom"
+    ],
+    "works": [
+      "zelea-america-consciousness",
+      "zelea-latin-american-mind",
+      "zelea-role-americas-history",
+      "zelea-bolivar-integration-freedom",
+      "zelea-discourse-margins"
+    ],
+    "problems": [
+      {
+        "titleZh": "拉丁美洲如何成为自己的历史意识？",
+        "questionZh": "塞亚如何把拉丁美洲哲学理解为对自身历史处境的觉醒？",
+        "claims": [
+          {
+            "claimZh": "塞亚认为拉丁美洲哲学的任务，是把自身被殖民和边缘化的历史经验转化为自觉问题。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "塞亚主张拉丁美洲的边缘经验并非地方材料，而能揭示现代世界中的依附、排除和普遍性问题。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "依附与解放如何构成拉美政治哲学？",
+        "questionZh": "塞亚如何从殖民继承、依附关系和解放愿望中思考政治主体？",
+        "claims": [
+          {
+            "claimZh": "塞亚认为拉丁美洲不能只取得形式独立，还必须摆脱把自己看成落后欧洲复制品的精神依附。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "塞亚把玻利瓦尔的一体化思想视为拉美摆脱分裂和依附、形成共同政治主体的重要资源。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "拉美哲学如何参与世界普遍性？",
+        "questionZh": "塞亚如何避免拉美哲学被困在地方特殊性或欧洲普遍性的二分中？",
+        "claims": [
+          {
+            "claimZh": "塞亚认为欧洲不能垄断普遍性，拉美经验也能参与定义人类共同问题和历史方向。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "塞亚把拉美哲学理解为让被称作落后、野蛮或边缘的人群重新成为历史主体的实践。",
+            "claimEn": ""
+          }
+        ]
+      }
+    ],
+    "oneLineZh_old": "塞亚是政治、正义问题谱系中的第一版候选哲人。",
+    "keywordsZh_old": [
+      "政治",
+      "正义",
+      "自由"
+    ]
+  },
+  {
+    "id": "sor-juana",
+    "nameZh": "胡安娜修女",
+    "summaryZh": "胡安娜修女是政治、正义问题谱系中的第一版候选哲人。 本条目是第一版结构化资料，已经保留文明、传统、主题、作品和论述字段，正式发布前需要继续核对年代、文本出处和概念表述。",
+    "traditions": [
+      "latin_american_philosophy"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "politics",
+      "justice",
+      "freedom"
+    ],
+    "works": [
+      "sor-juana-respuesta",
+      "sor-juana-first-dream",
+      "sor-juana-carta-atenagorica",
+      "sor-juana-selected-poetry-drama"
+    ],
+    "problems": [
+      {
+        "titleZh": "女性为何有求知和写作的权利？",
+        "questionZh": "胡安娜修女如何在殖民宗教秩序中为女性学习和写作辩护？",
+        "claims": [
+          {
+            "claimZh": "胡安娜修女主张女性追求知识并不必然违背宗教谦卑，反而可以帮助理解经典和服务上帝。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "胡安娜修女通过回应要求她沉默的批评，揭示殖民宗教社会如何限制女性进入公共论辩。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "巴洛克知识为何表现为梦与宇宙旅行？",
+        "questionZh": "胡安娜修女如何在《第一梦》中表现人类知识欲望、限度和宇宙秩序？",
+        "claims": [
+          {
+            "claimZh": "胡安娜修女在《第一梦》中把求知欲写成灵魂试图把握宇宙秩序的上升运动。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "胡安娜修女让梦中求知最终失败，表达的不是放弃知识，而是对有限理智和无限对象之间张力的认识。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "殖民文学主体如何介入神学和公共争论？",
+        "questionZh": "胡安娜修女如何通过诗歌、戏剧和神学批评在新西班牙公共文化中发声？",
+        "claims": [
+          {
+            "claimZh": "胡安娜修女通过神学批评和文学写作进入西班牙帝国知识空间，显示殖民地作者不是沉默边缘。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "胡安娜修女把诗歌、戏剧和修辞变成表达知识、讽刺性别偏见和调解权力关系的工具。",
+            "claimEn": ""
+          }
+        ]
+      }
+    ],
+    "oneLineZh_old": "胡安娜修女是政治、正义问题谱系中的第一版候选哲人。",
+    "keywordsZh_old": [
+      "政治",
+      "正义",
+      "自由"
+    ]
+  },
+  {
+    "id": "toegye",
+    "nameZh": "退溪李滉",
+    "summaryZh": "退溪李滉是伦理、政治问题谱系中的第一版候选哲人。 本条目是第一版结构化资料，已经保留文明、传统、主题、作品和论述字段，正式发布前需要继续核对年代、文本出处和概念表述。",
+    "traditions": [
+      "korean_confucianism"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "ethics",
+      "politics",
+      "knowledge"
+    ],
+    "works": [
+      "toegye-ten-diagrams",
+      "toegye-four-seven-debate",
+      "toegye-zhuzi-explanations"
+    ],
+    "problems": [
+      {
+        "titleZh": "四端七情如何显示理气关系？",
+        "questionZh": "退溪李滉如何通过四端七情论辩说明理、气与道德情感的关系？",
+        "claims": [
+          {
+            "claimZh": "退溪认为四端之所以重要，是因为它们显示理在道德情感中的规范性发动，而不只是普通心理反应。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "退溪并不否定七情，而是认为七情与气的流行密切相关，必须通过敬和省察使其合乎理。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "圣学如何成为君主修养技术？",
+        "questionZh": "退溪为何把图式、经典摘录和个人评论组合成面向君主的修养教材？",
+        "claims": [
+          {
+            "claimZh": "退溪用十幅图组织经典与评论，是为了让圣学成为日常凝视、记忆和反省的持续工夫。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "退溪把君主政治的根本放在心性修养上，认为治理国家必须先端正统治者的敬与德。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "敬如何统一知与行？",
+        "questionZh": "退溪如何用敬把经典理解、心性省察和道德实践连接起来？",
+        "claims": [
+          {
+            "claimZh": "退溪认为敬能使心保持专一和警醒，从而在情感发动前后都维持道德判断的主宰性。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "退溪把经典知识落实为日常省察和身体力行，认为只会解释义理而不能改变气质并不足以成德。",
+            "claimEn": ""
+          }
+        ]
+      }
+    ],
+    "oneLineZh_old": "退溪李滉是伦理、政治问题谱系中的第一版候选哲人。",
+    "keywordsZh_old": [
+      "伦理",
+      "政治",
+      "知识"
+    ]
+  },
+  {
+    "id": "yulgok",
+    "nameZh": "栗谷李珥",
+    "summaryZh": "栗谷李珥是伦理、政治问题谱系中的第一版候选哲人。 本条目是第一版结构化资料，已经保留文明、传统、主题、作品和论述字段，正式发布前需要继续核对年代、文本出处和概念表述。",
+    "traditions": [
+      "korean_confucianism"
+    ],
+    "periods": [
+      "first_release"
+    ],
+    "themes": [
+      "ethics",
+      "politics",
+      "knowledge"
+    ],
+    "works": [
+      "yulgok-essentials-sage-learning",
+      "yulgok-memorial-ten-thousand-words",
+      "yulgok-east-lake-questions"
+    ],
+    "problems": [
+      {
+        "titleZh": "理气如何在实际生命中统一？",
+        "questionZh": "栗谷李珥如何理解理与气的关系，并把这种理解转向实际修养和治理？",
+        "claims": [
+          {
+            "claimZh": "栗谷认为理与气不可割裂，理的规范性必须通过气的具体活动和人的现实情感显现出来。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "栗谷把修养理解为在现实气质中变化自我，而不是只在理的层面确认善的原则。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "圣学如何连接修身与经世？",
+        "questionZh": "栗谷为何把圣人之学同时理解为个人成德和国家治理的基础？",
+        "claims": [
+          {
+            "claimZh": "栗谷认为国家治理的根本仍在统治者和士人的修身，政治技术若无德性基础就会失去方向。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "栗谷把圣学落实到行政、财政、军备和人才选拔等现实改革，认为义理必须能回应国家危机。",
+            "claimEn": ""
+          }
+        ]
+      },
+      {
+        "titleZh": "现实主义经世为何仍属儒家伦理？",
+        "questionZh": "栗谷如何在承认国家危机和军事财政问题的同时，保持儒家伦理政治的核心？",
+        "claims": [
+          {
+            "claimZh": "栗谷以民生安定作为衡量政治改革的伦理尺度，认为制度改革必须回到百姓生活。",
+            "claimEn": ""
+          },
+          {
+            "claimZh": "栗谷把军备和国家安全纳入经世议题，因为没有基本安全，仁政和民生都无法稳定实现。",
+            "claimEn": ""
+          }
+        ]
+      }
+    ],
+    "oneLineZh_old": "栗谷李珥是伦理、政治问题谱系中的第一版候选哲人。",
+    "keywordsZh_old": [
+      "伦理",
+      "政治",
+      "知识"
+    ]
+  }
+]

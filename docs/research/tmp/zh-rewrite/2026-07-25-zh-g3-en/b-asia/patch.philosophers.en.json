@@ -1,0 +1,215 @@
+{
+  "schemaVersion": 1,
+  "items": {
+    "mozi": {
+      "oneLineEn": "Recasts ethics as universal love and mutual benefit, grounding norms in merit, upward conformity, and Heaven's will.",
+      "keywordsEn": [
+        "Universal love",
+        "Against offensive war",
+        "Elevating the worthy",
+        "Upward conformity",
+        "Will of Heaven"
+      ]
+    },
+    "mencius": {
+      "oneLineEn": "Argues innate goodness via the four sprouts for humane government, centering the people and right versus profit.",
+      "keywordsEn": [
+        "Innate goodness",
+        "Four sprouts",
+        "Humane government",
+        "People as foundation",
+        "Right versus profit"
+      ]
+    },
+    "xunzi": {
+      "oneLineEn": "Bad nature needs ritual-and-right artifice; rectifying names and ritual-law order desire and social life.",
+      "keywordsEn": [
+        "Bad nature",
+        "Ritual and right",
+        "Artifice",
+        "Rectifying names",
+        "Heaven-human distinction"
+      ]
+    },
+    "wang-yangming": {
+      "oneLineEn": "Innate knowing needs no outer search; unity of knowing and acting rewrites ge-wu as extending liangzhi to things.",
+      "keywordsEn": [
+        "Innate knowing",
+        "Unity of knowledge and action",
+        "Extending liangzhi",
+        "Mind is principle",
+        "Instructions for Practical Living"
+      ]
+    },
+    "zhu-xi": {
+      "oneLineEn": "Investigation of things makes Heavenly principle learnable, joining knowledge-action with the ruler's rectified mind.",
+      "keywordsEn": [
+        "Heavenly principle",
+        "Investigation of things",
+        "Principle and qi",
+        "Reverent inquiry",
+        "Collected Commentaries on the Four Books"
+      ]
+    },
+    "hu-shi": {
+      "oneLineEn": "Vernacular writing plus bold hypothesis and careful proof turns tolerance of criticism into public trial-and-error.",
+      "keywordsEn": [
+        "Vernacular Chinese",
+        "Experimentalism",
+        "Reorganizing the national heritage",
+        "Tolerance",
+        "Problems and isms"
+      ]
+    },
+    "liang-shuming": {
+      "oneLineEn": "Compares Chinese and Western cultures by directions of will, rebuilding social order through rural ethics and education.",
+      "keywordsEn": [
+        "Cultural comparison",
+        "Rural reconstruction",
+        "Ethics-centered society",
+        "Will-impulse",
+        "East and West culture"
+      ]
+    },
+    "mahavira": {
+      "oneLineEn": "Makes non-harm the ethical core; right view, knowledge, and conduct with many-sidedness clear karma toward release.",
+      "keywordsEn": [
+        "Non-harm",
+        "Five great vows",
+        "Many-sidedness",
+        "Karma",
+        "Liberation"
+      ]
+    },
+    "nagarjuna": {
+      "oneLineEn": "Dependent arising as emptiness dissolves own-being; reductio keeps conventional truth and a path to release intact.",
+      "keywordsEn": [
+        "Emptiness",
+        "Dependent arising",
+        "Madhyamaka",
+        "Intrinsic nature",
+        "Two truths"
+      ]
+    },
+    "vasubandhu": {
+      "oneLineEn": "Five-aggregate continuity explains no-self; ālaya-vijñāna and three natures account for appearance and release.",
+      "keywordsEn": [
+        "Yogācāra",
+        "Storehouse consciousness",
+        "Three natures",
+        "Five aggregates",
+        "Seeds"
+      ]
+    },
+    "adi-shankara": {
+      "oneLineEn": "Brahman-ātman identity plus superimposition of ignorance explain bondage; release rests on knowledge, not action-heaps.",
+      "keywordsEn": [
+        "Brahman-ātman identity",
+        "Ignorance",
+        "Superimposition",
+        "Non-dualism",
+        "Hearing, reflection, meditation"
+      ]
+    },
+    "ramanuja": {
+      "oneLineEn": "A qualified supreme God encompasses souls and world; devotion and surrender open intimacy of liberation.",
+      "keywordsEn": [
+        "Qualified non-dualism",
+        "Devotion",
+        "Surrender",
+        "Qualified Brahman",
+        "Body-soul relation"
+      ]
+    },
+    "tagore": {
+      "oneLineEn": "Religion as the finite self realizing the infinite in love and creation, while criticizing exclusive nationalism.",
+      "keywordsEn": [
+        "Personalism",
+        "Creation",
+        "Education",
+        "Cosmopolitanism",
+        "Finite and infinite"
+      ]
+    },
+    "gandhi": {
+      "oneLineEn": "Experiments with truth and nonviolence turn politics into self-rule, reforming society through a constructive program.",
+      "keywordsEn": [
+        "Holding to truth",
+        "Nonviolence",
+        "Self-rule",
+        "Constructive program",
+        "Voluntary suffering"
+      ]
+    },
+    "ambedkar": {
+      "oneLineEn": "Exposes caste's religious authority structure and seeks equal citizenship through social democracy and a new Buddhism.",
+      "keywordsEn": [
+        "Caste",
+        "Social democracy",
+        "Navayana Buddhism",
+        "Equality",
+        "Constitutional rights"
+      ]
+    },
+    "krishnamurti": {
+      "oneLineEn": "Rejects sectarian authority and fixed paths; choiceless awareness dismantles the self built in psychological time.",
+      "keywordsEn": [
+        "Choiceless awareness",
+        "Psychological conditioning",
+        "Observer is the observed",
+        "Truth is a pathless land",
+        "Relationship"
+      ]
+    },
+    "dogen": {
+      "oneLineEn": "Practice and realization are one; just sitting and being-time let Buddha-nature appear in present practice.",
+      "keywordsEn": [
+        "Practice-realization as one",
+        "Just sitting",
+        "Being-time",
+        "Buddha-nature",
+        "Treasury of the True Dharma Eye"
+      ]
+    },
+    "nishida": {
+      "oneLineEn": "Pure experience precedes subject-object split; logic of place and absolute nothing rewrite self and reality.",
+      "keywordsEn": [
+        "Pure experience",
+        "Logic of place",
+        "Absolute nothing",
+        "Self-determination",
+        "Kyoto School"
+      ]
+    },
+    "watsuji": {
+      "oneLineEn": "Rebuilds ethics from the dual structure of ningen and explains shared historical life through climate and culture.",
+      "keywordsEn": [
+        "Ningen",
+        "Climate (fūdo)",
+        "Ethics",
+        "Betweenness",
+        "Community"
+      ]
+    },
+    "toegye": {
+      "oneLineEn": "Principle-led four sprouts explain moral emotion; reverence and the Ten Diagrams unify royal knowledge and practice.",
+      "keywordsEn": [
+        "Four sprouts and seven feelings",
+        "Principle and qi",
+        "Reverence",
+        "Ten Diagrams on Sage Learning",
+        "Principle-priority"
+      ]
+    },
+    "yulgok": {
+      "oneLineEn": "Principle and qi inseparable, virtue formed in temperament; sage learning joins cultivation with statecraft reform.",
+      "keywordsEn": [
+        "Wonderful union of li-qi",
+        "Statecraft",
+        "Sage learning",
+        "Transforming temperament",
+        "Realism"
+      ]
+    }
+  }
+}

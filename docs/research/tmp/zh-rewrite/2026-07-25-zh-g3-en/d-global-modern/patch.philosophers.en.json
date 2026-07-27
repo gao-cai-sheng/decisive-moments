@@ -1,0 +1,155 @@
+{
+  "schemaVersion": 1,
+  "items": {
+    "singer": {
+      "oneLineEn": "Equal consideration of interests widens the moral circle; the affluent answer distant suffering with calculable effect.",
+      "keywordsEn": [
+        "Equal consideration of interests",
+        "Effective altruism",
+        "Animal liberation",
+        "Duty to aid",
+        "Utilitarianism"
+      ]
+    },
+    "nussbaum": {
+      "oneLineEn": "A threshold of central capabilities measures justice and joins evaluative emotions to care for vulnerable dignity.",
+      "keywordsEn": [
+        "Capabilities approach",
+        "Central capabilities",
+        "Dignity",
+        "Emotions",
+        "Global justice"
+      ]
+    },
+    "plumwood": {
+      "oneLineEn": "Critiques the reason/nature dualism of domination; ecological reason and prey experience dismantle human exceptionalism.",
+      "keywordsEn": [
+        "Ecofeminism",
+        "Mastery dualism",
+        "Ecological reason",
+        "Human exceptionalism",
+        "Othering"
+      ]
+    },
+    "butler": {
+      "oneLineEn": "Gender is the performative effect of reiterated norms; precarious life opens a politics of recognition and mourning.",
+      "keywordsEn": [
+        "Gender performativity",
+        "Intelligibility",
+        "Precarity",
+        "Recognition",
+        "Speech acts"
+      ]
+    },
+    "hooks": {
+      "oneLineEn": "From intersecting race-class-gender oppression, engaged pedagogy and love become ethical practice against domination.",
+      "keywordsEn": [
+        "Intersectionality",
+        "Margin to center",
+        "Engaged pedagogy",
+        "Ethics of love",
+        "Black feminism"
+      ]
+    },
+    "amo": {
+      "oneLineEn": "Philosophizes African rights in Europe and clarifies mind-body roles by denying sensation to the mind itself.",
+      "keywordsEn": [
+        "Natural-law rights",
+        "Impassivity of the mind",
+        "Conceptual clarity",
+        "African subject",
+        "Mind-body distinction"
+      ]
+    },
+    "wiredu": {
+      "oneLineEn": "Conceptual decolonization frees African linguistic resources; consensus democracy replaces adversarial majority rule.",
+      "keywordsEn": [
+        "Conceptual decolonization",
+        "Consensus democracy",
+        "Cultural universals",
+        "Akan thought",
+        "Personhood"
+      ]
+    },
+    "senghor": {
+      "oneLineEn": "Négritude affirms devalued cultural forms and writes rhythm and humanism into African socialism.",
+      "keywordsEn": [
+        "Négritude",
+        "Rhythm",
+        "African socialism",
+        "Cultural humanism",
+        "Dialogue of civilizations"
+      ]
+    },
+    "hountondji": {
+      "oneLineEn": "Rejects equating African philosophy with ethnic worldviews; endogenous knowledge must face public argument and test.",
+      "keywordsEn": [
+        "Critique of ethnophilosophy",
+        "Endogenous knowledge",
+        "Public debate",
+        "Scientific autonomy",
+        "African philosophy"
+      ]
+    },
+    "dewey": {
+      "oneLineEn": "Knowledge is a tool of inquiry tested by consequences; democracy is a way of life of shared experience.",
+      "keywordsEn": [
+        "Inquiry",
+        "Instrumentalism",
+        "Democracy as a way of life",
+        "Experience",
+        "Education"
+      ]
+    },
+    "quine": {
+      "oneLineEn": "Holism dissolves the analytic-synthetic divide; ontological commitments of a theory are fixed by its quantifiers.",
+      "keywordsEn": [
+        "Holism",
+        "Critique of analytic-synthetic",
+        "Ontological commitment",
+        "Underdetermination",
+        "Naturalized epistemology"
+      ]
+    },
+    "nozick": {
+      "oneLineEn": "Side-constraint rights justify a minimal state; entitlement justice rejects patterned end-state redistribution.",
+      "keywordsEn": [
+        "Minimal state",
+        "Entitlement theory",
+        "Side constraints",
+        "Patterned distribution",
+        "Utopian framework"
+      ]
+    },
+    "dussel": {
+      "oneLineEn": "Rewrites philosophy from the underside of colonial modernity; victims' life and popular power build a liberation ethics.",
+      "keywordsEn": [
+        "Philosophy of liberation",
+        "Exteriority",
+        "Transmodernity",
+        "Ethics of liberation",
+        "Politics of the people"
+      ]
+    },
+    "zelea": {
+      "oneLineEn": "Lifts Latin American marginal experience into historical consciousness to define universal problems free of dependency.",
+      "keywordsEn": [
+        "Latin American philosophy",
+        "Historical consciousness",
+        "Dependency",
+        "Integration",
+        "The margin"
+      ]
+    },
+    "sor-juana": {
+      "oneLineEn": "Defends women's right to know and public debate; Baroque dream poetics probes the limits of finite intellect.",
+      "keywordsEn": [
+        "Women's right to knowledge",
+        "Reply to Sor Philothea",
+        "First Dream",
+        "Baroque",
+        "Colonial writing"
+      ]
+    }
+  }
+}

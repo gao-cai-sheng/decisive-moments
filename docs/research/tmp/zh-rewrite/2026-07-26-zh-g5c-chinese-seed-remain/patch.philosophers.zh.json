@@ -1,0 +1,157 @@
+{
+  "schemaVersion": 1,
+  "items": {
+    "jizang": {
+      "oneLineZh": "隋唐三论宗大师，以中观二谛与破邪显正组织教判论辩。",
+      "oneLineEn": "Sui-Tang Sanlun master organizing doctrinal debate via Madhyamaka two truths and refuting error."
+    },
+    "li-ao": {
+      "oneLineZh": "唐代儒者，以《复性书》讨论性情结构与恢复本性之路。",
+      "oneLineEn": "Tang Confucian who, in Fuxing shu, discusses nature-emotion structure and restoring original nature."
+    },
+    "shao-yong": {
+      "oneLineZh": "北宋理学先驱，以象数宇宙论和观物思想重写秩序生成。",
+      "oneLineEn": "Image-number cosmology pioneer of the Song who rewrites order through observing things."
+    },
+    "zhang-shi": {
+      "oneLineZh": "南宋湖湘学派人物，与朱熹长期论学并主张敬义并进路径。",
+      "oneLineEn": "Huxiang school figure who debated Zhu Xi at length and joined reverence with rightness."
+    },
+    "chen-xianzhang": {
+      "oneLineZh": "明代白沙学派创始人，强调心体自得与静坐涵养之工夫。",
+      "oneLineEn": "Founder of Ming Baisha school, stressing mind's self-attainment and quiet-sitting cultivation."
+    },
+    "hu-hong": {
+      "oneLineZh": "南宋湖湘学派人物，以《知言》讨论性体与修养具体路径。",
+      "oneLineEn": "Huxiang school figure who, in Zhiyan, discusses nature's substance and concrete cultivation paths."
+    },
+    "huan-tan": {
+      "oneLineZh": "两汉之际思想家，以《新论》坚持反谶纬的理性批判立场。",
+      "oneLineEn": "Han-transition thinker who, in Xinlun, holds a rational critical stance against prophetic weft texts."
+    },
+    "kou-qianzhi": {
+      "oneLineZh": "北魏道教改革者，推动新天师道与国家政治的制度结合。",
+      "oneLineEn": "Northern Wei Daoist reformer joining New Celestial Masters practice to state political institutions."
+    },
+    "luo-congyan": {
+      "oneLineZh": "宋代理学人物，承接程门并影响李侗朱熹一系闽学脉络。",
+      "oneLineEn": "Song Neo-Confucian transmitting Cheng school and shaping the Li Tong–Zhu Xi Fujian lineage."
+    },
+    "sima-tan": {
+      "oneLineZh": "西汉太史令，以六家分类为《史记》思想框架提供前史。",
+      "oneLineEn": "Western Han Grand Astrologer whose six-schools taxonomy framed later thought in the Shiji project."
+    },
+    "wu-qi": {
+      "oneLineZh": "战国军事家与改革者，兼具兵家战法与法家制度变革色彩。",
+      "oneLineEn": "Warring States commander-reformer combining military methods with Legalist institutional change."
+    },
+    "wu-yubi": {
+      "oneLineZh": "明初理学家，以康斋学派居敬实践影响陈献章一路学风。",
+      "oneLineEn": "Early Ming Neo-Confucian whose Kangzhai reverence practice shaped Chen Xianzhang's scholarly path."
+    },
+    "yan-ying": {
+      "oneLineZh": "春秋齐国政治家，以节俭、机智谏诤见载于《晏子春秋》。",
+      "oneLineEn": "Spring-Autumn Qi statesman of thrift and witty remonstrance, preserved in Yanzi chunqiu."
+    },
+    "cui-shu": {
+      "oneLineZh": "清代考据学者，以《考信录》系统辨析上古史传可信度。",
+      "oneLineEn": "Qing evidential scholar who, in Kaoxin lu, systematically tests high-antiquity narrative credibility."
+    },
+    "daosheng": {
+      "oneLineZh": "东晋刘宋僧人，倡顿悟成佛并卷入一阐提能否成佛争论。",
+      "oneLineEn": "Eastern Jin–Liu Song monk advocating sudden enlightenment and the icchantika-buddhahood debate."
+    },
+    "daoxuan": {
+      "oneLineZh": "唐代律宗大师与佛教史家，兼定律学规范并编僧传文献。",
+      "oneLineEn": "Tang Vinaya master and Buddhist historian codifying discipline and compiling monk biographies."
+    },
+    "ge-hong": {
+      "oneLineZh": "东晋道教思想家，以《抱朴子》系统整理炼养与神仙理论。",
+      "oneLineEn": "Eastern Jin Daoist who, in Baopuzi, systematically organizes nourishing life and immortality theory."
+    },
+    "kuiji": {
+      "oneLineZh": "唐代法相宗大师，玄奘弟子，建成唯识注疏的慈恩体系。",
+      "oneLineEn": "Tang Faxiang master, Xuanzang's disciple, building the Ci'en system of Yogācāra commentaries."
+    },
+    "li-gong-qing": {
+      "oneLineZh": "清初颜李学派人物，继承颜元实学传统与实践教育路线。",
+      "oneLineEn": "Early Qing Yan-Li figure continuing Yan Yuan's practical learning and practice-based education."
+    },
+    "li-zhi": {
+      "oneLineZh": "晚明思想家，以童心说与反伪道学强调个体真诚的表达。",
+      "oneLineEn": "Late Ming thinker stressing childlike mind, anti-pseudo-Dao learning, and sincere individual expression."
+    },
+    "sima-qian": {
+      "oneLineZh": "西汉史学家，《史记》作者，确立纪传体通史书写典范。",
+      "oneLineEn": "Western Han historian, author of the Shiji, establishing biographical comprehensive-history writing."
+    },
+    "tang-zhen": {
+      "oneLineZh": "清初思想家，以《潜书》尖锐批判君主权力与社会不平。",
+      "oneLineEn": "Early Qing thinker who, in Qianshu, sharply criticizes monarchical power and social injustice."
+    },
+    "xiang-xiu": {
+      "oneLineZh": "魏晋玄学人物，以《庄子注》讨论自然与名教之间的关系。",
+      "oneLineEn": "Wei-Jin xuanxue figure using Zhuangzi commentary to discuss nature and the teaching of names."
+    },
+    "xuanzang": {
+      "oneLineZh": "唐代高僧与译经家，以西行求法与主持译场夯实法相唯识学基础。",
+      "oneLineEn": "Tang monk-translator whose western journey and translation bureau secured Faxiang Yogācāra foundations."
+    },
+    "xue-xuan": {
+      "oneLineZh": "明代理学家，河东学派人物，强调复性工夫与笃实践履。",
+      "oneLineEn": "Ming Hedong Neo-Confucian stressing work of restoring nature and earnest embodied practice."
+    },
+    "xun-yue": {
+      "oneLineZh": "东汉末史学家与政论家，以《申鉴》《汉纪》讨论治道。",
+      "oneLineEn": "Late Eastern Han historian-essayist treating the way of governance in Shenjian and Hanji."
+    },
+    "yin-wen": {
+      "oneLineZh": "战国稷下人物，与名实、刑名及尹文子一系传统紧密相连。",
+      "oneLineEn": "Jixia figure closely tied to name-reality, xingming, and the Yin Wenzi line of tradition."
+    },
+    "zhang-xuecheng": {
+      "oneLineZh": "清代史学理论家，以六经皆史与文史校雠重定史学方法。",
+      "oneLineEn": "Qing historical theorist recasting method via six classics as history and literary collation."
+    },
+    "zheng-xuan": {
+      "oneLineZh": "东汉经学大师，综合今古文并建成郑笺一系之注疏体系。",
+      "oneLineEn": "Eastern Han classics master synthesizing New/Old Text learning into the Zheng commentary system."
+    },
+    "fan-zhen": {
+      "oneLineZh": "南朝思想家，以《神灭论》批判神不灭说与因果报应观。",
+      "oneLineEn": "Southern Dynasties thinker who, in Shenmie lun, attacks immortal soul and karmic retribution views."
+    },
+    "he-yan": {
+      "oneLineZh": "曹魏玄学人物，主持《论语集解》并推动贵无论的讨论。",
+      "oneLineEn": "Cao-Wei xuanxue figure editing Lunyu jijie and advancing discussions of valuing non-being."
+    },
+    "hu-yuan": {
+      "oneLineZh": "北宋教育家，以安定学派经义治事之法重定书院教育秩序。",
+      "oneLineEn": "Anding-school educator reshaping academies via classics-and-affairs training methods."
+    },
+    "li-gou": {
+      "oneLineZh": "北宋儒者与制度思想家，长于礼制、财政与经世制度改革。",
+      "oneLineEn": "Institutional thinker of the Song skilled in ritual order, finance, and statecraft reform."
+    },
+    "liu-zongzhou": {
+      "oneLineZh": "明末大儒，蕺山学派创始人，以慎独与诚意确立工夫论。",
+      "oneLineEn": "Late Ming master founding the Jishan school on vigilance in solitude and sincere intention."
+    },
+    "lu-longqi": {
+      "oneLineZh": "清初程朱学者与循吏，以尊朱讲学并重视地方治理实践。",
+      "oneLineEn": "Early Qing Cheng-Zhu scholar-official joining Zhu Xi teaching to local governance practice."
+    },
+    "mao-qiling": {
+      "oneLineZh": "清初经学家，以博辨考据批评朱子对《四书》之解释路径。",
+      "oneLineEn": "Early Qing classicist using broad evidential argument to criticize Zhu Xi on the Four Books."
+    },
+    "song-xing": {
+      "oneLineZh": "战国稷下思想人物，常与尹文并称，主张节欲与非斗路径。",
+      "oneLineEn": "Jixia thinker often paired with Yin Wen, urging restraint of desire and non-fighting."
+    },
+    "ye-shi": {
+      "oneLineZh": "南宋永嘉学派人物，以制度、功利与学术史批评见称于世。",
+      "oneLineEn": "Yongjia school figure known for institutional, utilitarian, and intellectual-history critique."
+    }
+  }
+}

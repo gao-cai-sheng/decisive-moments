@@ -1,0 +1,131 @@
+{
+  "schemaVersion": 1,
+  "items": {
+    "fichte": {
+      "keywordsZh": [
+        "自我",
+        "知识学",
+        "自我活动",
+        "法权",
+        "民族教育"
+      ],
+      "keywordsEn": [
+        "the self",
+        "Wissenschaftslehre",
+        "self-activity",
+        "right (Recht)",
+        "national education"
+      ]
+    },
+    "schelling": {
+      "keywordsZh": [
+        "自然哲学",
+        "同一哲学",
+        "恶与自由",
+        "艺术",
+        "启示"
+      ],
+      "keywordsEn": [
+        "philosophy of nature",
+        "identity philosophy",
+        "evil and freedom",
+        "art",
+        "revelation"
+      ]
+    },
+    "gadamer": {
+      "keywordsZh": [
+        "哲学解释学",
+        "效果历史",
+        "视域融合",
+        "语言性",
+        "真理与方法"
+      ],
+      "keywordsEn": [
+        "philosophical hermeneutics",
+        "effective history",
+        "fusion of horizons",
+        "linguisticality",
+        "Truth and Method"
+      ]
+    },
+    "george-santayana": {
+      "keywordsZh": [
+        "自然主义",
+        "理性的生命",
+        "本质领域"
+      ],
+      "keywordsEn": [
+        "naturalism",
+        "The Life of Reason",
+        "realm of essence"
+      ]
+    },
+    "diderot": {
+      "keywordsZh": [
+        "百科全书",
+        "唯物论",
+        "美学批评"
+      ],
+      "keywordsEn": [
+        "Encyclopédie",
+        "materialism",
+        "aesthetic criticism"
+      ]
+    },
+    "abhinavagupta": {
+      "keywordsZh": [
+        "克什米尔湿婆派",
+        "味论",
+        "宗教形而上学"
+      ],
+      "keywordsEn": [
+        "Kashmir Śaivism",
+        "rasa theory",
+        "religious metaphysics"
+      ]
+    },
+    "alexander-herzen": {
+      "keywordsZh": [
+        "往事与随想",
+        "农民社会主义",
+        "西化派",
+        "个人自由"
+      ],
+      "keywordsEn": [
+        "My Past and Thoughts",
+        "peasant socialism",
+        "Westernizers",
+        "personal freedom"
+      ]
+    },
+    "mikhail-bakunin": {
+      "keywordsZh": [
+        "无政府主义",
+        "国家制度与无政府状态",
+        "上帝与国家",
+        "反国家自由"
+      ],
+      "keywordsEn": [
+        "anarchism",
+        "Statism and Anarchy",
+        "God and the State",
+        "freedom against the state"
+      ]
+    },
+    "fyodor-dostoevsky": {
+      "keywordsZh": [
+        "卡拉马佐夫兄弟",
+        "地下室手记",
+        "自由与信仰",
+        "罪与救赎"
+      ],
+      "keywordsEn": [
+        "The Brothers Karamazov",
+        "Notes from Underground",
+        "freedom and faith",
+        "sin and redemption"
+      ]
+    }
+  }
+}

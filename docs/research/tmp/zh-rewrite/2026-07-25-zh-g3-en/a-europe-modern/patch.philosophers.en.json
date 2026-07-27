@@ -1,0 +1,335 @@
+{
+  "schemaVersion": 1,
+  "items": {
+    "erasmus": {
+      "oneLineEn": "Classical learning and The Praise of Folly advance inward evangelical piety and limited free will via satire.",
+      "keywordsEn": [
+        "Humanism",
+        "Inward piety",
+        "Free will",
+        "The Praise of Folly",
+        "Textual criticism"
+      ]
+    },
+    "machiavelli": {
+      "oneLineEn": "Detaches political judgment from moral preaching, explaining power and liberty through virtù and republican conflict.",
+      "keywordsEn": [
+        "virtù",
+        "The Prince",
+        "Republic",
+        "Fear and love",
+        "Effects of power"
+      ]
+    },
+    "montaigne": {
+      "oneLineEn": "Essayistic self-writing turns doubt into temperate living and trains judgment under the awareness of death.",
+      "keywordsEn": [
+        "Essay",
+        "Doubt",
+        "Self-writing",
+        "What do I know",
+        "Practice of death"
+      ]
+    },
+    "bacon": {
+      "oneLineEn": "Clears cognitive bias via the four idols; ordered induction and experiment make knowledge a discovery procedure.",
+      "keywordsEn": [
+        "Four idols",
+        "Induction",
+        "Novum Organum",
+        "Experiment",
+        "Knowledge is power"
+      ]
+    },
+    "hobbes": {
+      "oneLineEn": "Equal vulnerability and distrust yield the state of nature; covenant and concentrated sovereignty purchase peace.",
+      "keywordsEn": [
+        "State of nature",
+        "Social contract",
+        "Sovereignty",
+        "Leviathan",
+        "Passions"
+      ]
+    },
+    "descartes": {
+      "oneLineEn": "Methodic doubt secures the certainty of the cogito and mind-body dualism underwrites clear scientific knowledge.",
+      "keywordsEn": [
+        "Methodic doubt",
+        "Cogito ergo sum",
+        "Mind-body dualism",
+        "Clear and distinct",
+        "Meditations on First Philosophy"
+      ]
+    },
+    "spinoza": {
+      "oneLineEn": "Substance monism of God-or-Nature uses geometric method to show the necessity of the affects and of freedom.",
+      "keywordsEn": [
+        "Substance monism",
+        "God or Nature",
+        "Modes",
+        "Geometry of the affects",
+        "Ethics"
+      ]
+    },
+    "locke": {
+      "oneLineEn": "Empirical theory of ideas rejects innate ideas; consent and natural rights constrain governmental power.",
+      "keywordsEn": [
+        "Empiricism",
+        "Tabula rasa",
+        "Personal identity",
+        "Natural rights",
+        "Consent"
+      ]
+    },
+    "leibniz": {
+      "oneLineEn": "Windowless monads and pre-established harmony explain individual substances; sufficient reason accounts for world order.",
+      "keywordsEn": [
+        "Monads",
+        "Pre-established harmony",
+        "Sufficient reason",
+        "Possible worlds",
+        "Monadology"
+      ]
+    },
+    "hume": {
+      "oneLineEn": "Reduces causation to constant conjunction and habit; rebuilds morals by sentiment and sympathy and probes religion.",
+      "keywordsEn": [
+        "Constant conjunction",
+        "Inductive skepticism",
+        "Impressions and ideas",
+        "Sympathy",
+        "Habit"
+      ]
+    },
+    "rousseau": {
+      "oneLineEn": "The natural-man hypothesis critiques civilized inequality; general will and popular sovereignty rewrite legitimacy.",
+      "keywordsEn": [
+        "General will",
+        "Popular sovereignty",
+        "State of nature",
+        "The Social Contract",
+        "Inequality"
+      ]
+    },
+    "hegel": {
+      "oneLineEn": "Negation and recognition drive consciousness's history; freedom is realized as institutional ethical life as a whole.",
+      "keywordsEn": [
+        "Dialectic",
+        "Recognition",
+        "Phenomenology of Spirit",
+        "Ethical life",
+        "Absolute spirit"
+      ]
+    },
+    "schopenhauer": {
+      "oneLineEn": "Blind will explains the world's essence and suffering; aesthetic contemplation and compassion offer paths of release.",
+      "keywordsEn": [
+        "Will",
+        "Representation",
+        "Pessimism",
+        "Compassion",
+        "The World as Will and Representation"
+      ]
+    },
+    "kierkegaard": {
+      "oneLineEn": "Aesthetic, ethical, and religious stages force individual choice; faith stands outside ethical universality.",
+      "keywordsEn": [
+        "Stages of existence",
+        "Leap of faith",
+        "Anxiety",
+        "Despair",
+        "The individual"
+      ]
+    },
+    "mill": {
+      "oneLineEn": "The harm principle defends personal liberty and joins higher pleasures and representative government to utilitarianism.",
+      "keywordsEn": [
+        "Harm principle",
+        "Utilitarianism",
+        "Freedom of speech",
+        "Individuality",
+        "Representative government"
+      ]
+    },
+    "marx": {
+      "oneLineEn": "Explains consciousness from production relations; commodity fetishism and surplus value expose capitalist exploitation.",
+      "keywordsEn": [
+        "Historical materialism",
+        "Surplus value",
+        "Commodity fetishism",
+        "Alienation",
+        "Class struggle"
+      ]
+    },
+    "nietzsche": {
+      "oneLineEn": "Genealogy probes the origin of morals; after the death of God, will to power and perspective revalue all values.",
+      "keywordsEn": [
+        "Genealogy",
+        "Death of God",
+        "Will to power",
+        "Nihilism",
+        "Revaluation of values"
+      ]
+    },
+    "frege": {
+      "oneLineEn": "Rebuilds logic via function-argument and sense/reference, advancing a logical foundation for arithmetic.",
+      "keywordsEn": [
+        "Sense and reference",
+        "Function and argument",
+        "Thought",
+        "Logicism",
+        "Concept script"
+      ]
+    },
+    "husserl": {
+      "oneLineEn": "Intentionality and phenomenological reduction examine how consciousness appears; the life-world grounds the sciences.",
+      "keywordsEn": [
+        "Intentionality",
+        "Epochē",
+        "Essential intuition",
+        "Life-world",
+        "Phenomenological reduction"
+      ]
+    },
+    "bergson": {
+      "oneLineEn": "Duration resists spatialized time; intuition grasps life's creativity and the spiritual depth of memory.",
+      "keywordsEn": [
+        "Duration",
+        "Intuition",
+        "Élan vital",
+        "Pure memory",
+        "Creative Evolution"
+      ]
+    },
+    "wittgenstein": {
+      "oneLineEn": "Early picture theory bounds the sayable; later language-games and use treat philosophical confusions.",
+      "keywordsEn": [
+        "Language-games",
+        "Use",
+        "Picture theory",
+        "Family resemblance",
+        "Philosophical therapy"
+      ]
+    },
+    "heidegger": {
+      "oneLineEn": "Dasein analysis reopens the question of Being; being-in-the-world and being-toward-death open authentic possibility.",
+      "keywordsEn": [
+        "Dasein",
+        "Question of Being",
+        "Being-in-the-world",
+        "Being-toward-death",
+        "Readiness-to-hand"
+      ]
+    },
+    "russell": {
+      "oneLineEn": "Logical analysis and the theory of descriptions clarify knowledge; fallibilism restrains superstitious faith in power.",
+      "keywordsEn": [
+        "Theory of descriptions",
+        "Logical analysis",
+        "Knowledge by acquaintance and description",
+        "Logical atomism",
+        "Theory of types"
+      ]
+    },
+    "whitehead": {
+      "oneLineEn": "Actual occasions and prehension replace substance; process philosophy corrects the fallacy of misplaced concreteness.",
+      "keywordsEn": [
+        "Process philosophy",
+        "Actual occasions",
+        "Prehension",
+        "Creativity",
+        "Misplaced concreteness"
+      ]
+    },
+    "carnap": {
+      "oneLineEn": "Recasts traditional disputes as choices among linguistic frameworks; logical syntax clears pseudo-problems.",
+      "keywordsEn": [
+        "Linguistic framework",
+        "Logical syntax",
+        "Testability",
+        "Physicalism",
+        "Principle of tolerance"
+      ]
+    },
+    "arendt": {
+      "oneLineEn": "Action and natality define political freedom and show how totalitarianism destroys the common world and judgment.",
+      "keywordsEn": [
+        "Action",
+        "Public realm",
+        "Totalitarianism",
+        "Banality of evil",
+        "Natality"
+      ]
+    },
+    "sartre": {
+      "oneLineEn": "Existence precedes essence; freedom as for-itself nothingness and the Other's gaze is inescapable responsibility.",
+      "keywordsEn": [
+        "Existence precedes essence",
+        "For-itself",
+        "Bad faith",
+        "The gaze",
+        "Absolute freedom"
+      ]
+    },
+    "beauvoir": {
+      "oneLineEn": "Woman is the Other produced by history; she asks how concrete freedom is realized within a given situation.",
+      "keywordsEn": [
+        "The Other",
+        "Situation",
+        "The Second Sex",
+        "Gender oppression",
+        "Concrete freedom"
+      ]
+    },
+    "merleau-ponty": {
+      "oneLineEn": "Body schema and perceptual field rewrite the subject; meaning arises in embodied expression intertwined with the world.",
+      "keywordsEn": [
+        "Body schema",
+        "Phenomenology of perception",
+        "Flesh",
+        "Expression",
+        "Embodied subject"
+      ]
+    },
+    "camus": {
+      "oneLineEn": "Defines the absurd as demand for meaning meeting the world's silence; limited revolt refuses new forms of oppression.",
+      "keywordsEn": [
+        "The absurd",
+        "Revolt",
+        "Sisyphus",
+        "Limits",
+        "Lucidity"
+      ]
+    },
+    "foucault": {
+      "oneLineEn": "Genealogy shows knowledge-power co-forms the subject; discipline and techniques of the self map modern governmentality.",
+      "keywordsEn": [
+        "Knowledge-power",
+        "Discipline",
+        "Genealogy",
+        "Panopticism",
+        "Techniques of the self"
+      ]
+    },
+    "derrida": {
+      "oneLineEn": "Différance and iterable writing unsettle presence-metaphysics; deconstruction enters justice and responsibility.",
+      "keywordsEn": [
+        "Différance",
+        "Deconstruction",
+        "Grammatology",
+        "Iterability",
+        "Metaphysics of presence"
+      ]
+    },
+    "habermas": {
+      "oneLineEn": "Communicative reason resists system colonization; public discourse rebuilds democratic legitimacy and the life-world.",
+      "keywordsEn": [
+        "Communicative reason",
+        "Public sphere",
+        "Discourse ethics",
+        "Life-world",
+        "System colonization"
+      ]
+    }
+  }
+}

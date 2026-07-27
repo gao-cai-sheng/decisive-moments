@@ -1,0 +1,97 @@
+{
+  "schemaVersion": 1,
+  "items": {
+    "antisthenes": {
+      "oneLineZh": "苏格拉底弟子，强调德性自足与艰苦训练，开启犬儒传统先驱脉络。",
+      "oneLineEn": "Socratic disciple stressing self-sufficient virtue and hard training, a forerunner of the Cynic line."
+    },
+    "peirce": {
+      "oneLineZh": "以探究逻辑、实用主义准则和三元符号学建成美国实用主义的科学形态。",
+      "oneLineEn": "Built scientific American pragmatism through inquiry logic, the pragmatic maxim, and triadic semiotics."
+    },
+    "zhang-zai": {
+      "oneLineZh": "以太虚即气、民胞物与和成德工夫开出北宋道学气本论传统。",
+      "oneLineEn": "Opened Northern Song qi ontology through Great Void as qi, all people as siblings, and virtue cultivation."
+    },
+    "dignaga": {
+      "oneLineZh": "以《集量论》建立佛教量论，把有效认知限定为现量与比量，并提出遮诠语言理论。",
+      "oneLineEn": "Built Buddhist pramāṇa theory, limiting valid cognition to perception and inference, with apoha semantics."
+    },
+    "shinran": {
+      "oneLineZh": "以他力信心、念佛感恩和凡夫自觉重塑日本净土传统，并开出净土真宗。",
+      "oneLineEn": "Remade Japanese Pure Land via other-power faith, grateful nembutsu, and ordinary-person awareness; opened Jōdo Shinshū."
+    },
+    "cheng-yi": {
+      "oneLineZh": "以天理、格物和敬的修养论定下程朱理学核心方向，成为朱熹直接思想源头。",
+      "oneLineEn": "Set Cheng-Zhu Learning via Heavenly Principle, investigation of things, and reverence; a direct source for Zhu Xi."
+    },
+    "mariategui": {
+      "oneLineZh": "以秘鲁现实分析、印第安土地问题和创造性社会主义构成拉美马克思主义源头。",
+      "oneLineEn": "A source of Latin American Marxism via Peruvian reality, Indigenous land questions, and creative socialism."
+    },
+    "edward-blyden": {
+      "oneLineZh": "以非洲人格、宗教比较和教育批判形成泛非思想与非洲现代主体性早期语言。",
+      "oneLineEn": "Early language for Pan-African thought via African personality, comparative religion, and educational critique."
+    },
+    "nkrumah": {
+      "oneLineZh": "以良知主义、泛非统一和新殖民主义批判构成独立后非洲政治哲学关键节点。",
+      "oneLineEn": "A key node in post-independence African political philosophy: consciencism, Pan-African unity, neocolonial critique."
+    },
+    "macintyre": {
+      "oneLineZh": "以德性、实践和传统构成现代道德哲学中反自由主义与反情感主义方案。",
+      "oneLineEn": "Anti-liberal, anti-emotivist program in modern moral philosophy built on virtue, practice, and tradition."
+    },
+    "lukacs": {
+      "oneLineZh": "以物化、总体性和阶级意识理论开出西方马克思主义与批判理论前史。",
+      "oneLineEn": "Opened prehistory for Western Marxism and critical theory via reification, totality, and class consciousness."
+    },
+    "yang-zhu": {
+      "oneLineZh": "战国思想人物，因「为我」「贵己」传统而在儒墨之间成为长期对照。",
+      "oneLineEn": "Warring States figure whose 'for myself' and 'valuing the self' became a foil between Confucians and Mohists."
+    },
+    "ruan-yuan": {
+      "oneLineZh": "清代经学家、官员与学术组织者，乾嘉考据传统的主要综合者之一。",
+      "oneLineEn": "Qing classicist, official, and academic organizer; a major synthesizer of Qian-Jia evidential learning."
+    },
+    "henry-sidgwick": {
+      "oneLineZh": "古典功利主义的系统化者，《伦理学方法》为密尔之后伦理学给出技术化框架。",
+      "oneLineEn": "Systematizer of classical utilitarianism; Methods of Ethics gave a technical frame after Mill."
+    },
+    "gilbert-ryle": {
+      "oneLineZh": "《心的概念》以「机器中的幽灵」批判笛卡尔二元论，推动日常语言学派。",
+      "oneLineEn": "The Concept of Mind attacks Cartesian dualism as the ghost in the machine, advancing ordinary-language philosophy."
+    },
+    "wilhelm-windelband": {
+      "oneLineZh": "西南学派创始人，以规律科学与个别科学之分建立文化科学方法论。",
+      "oneLineEn": "Founder of the Southwest school; divides nomothetic and idiographic sciences for cultural-scientific method."
+    },
+    "yi-ik": {
+      "oneLineZh": "朝鲜实学人物，连接退溪朱子学传统与社会经世问题脉络。",
+      "oneLineEn": "Korean silhak figure linking Toegye Zhu Xi learning to social statecraft problems."
+    },
+    "dolpopa": {
+      "oneLineZh": "觉囊派系统家，以他空见构成藏传中观解释的关键分歧。",
+      "oneLineEn": "Jonang systematizer whose other-emptiness (zhentong) marks a major Tibetan Madhyamaka divide."
+    },
+    "gorampa": {
+      "oneLineZh": "萨迦派中观系统家，以对宗喀巴解释的批评成为藏传中观内部节点。",
+      "oneLineEn": "Sakya Madhyamaka systematizer whose critique of Tsongkhapa is a major internal Tibetan node."
+    },
+    "abraham-ibn-daud": {
+      "oneLineZh": "《崇高信仰》作者，是迈蒙尼德之前犹太亚里士多德主义的关键节点。",
+      "oneLineEn": "Author of The Exalted Faith; a key pre-Maimonidean node of Jewish Aristotelianism."
+    },
+    "gustavo-gutierrez": {
+      "oneLineZh": "秘鲁神学家，以《解放神学》给出拉美解放神学的问题框架。",
+      "oneLineEn": "Peruvian theologian whose Liberation Theology framed Latin American liberation theology."
+    },
+    "gregory-of-nazianzus": {
+      "oneLineZh": "卡帕多西亚三杰之一，以《神学演讲五篇》定下东正教三一神学表达。",
+      "oneLineEn": "One of the Cappadocian Fathers; Five Theological Orations fixed Eastern Orthodox Trinitarian expression."
+    },
+    "tran-thai-tong": {
+      "oneLineZh": "陈朝帝王-禅师，以《课虚录》给出越南中世禅学思想表达。",
+      "oneLineEn": "Trần emperor-Zen master whose Lessons on Emptiness grounded medieval Vietnamese Zen expression."
+    }
+  }
+}

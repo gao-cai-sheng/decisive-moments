@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "items": {
+    "hakuin": {
+      "oneLineZh": "江户临济禅中兴人物，以公案训练体系重整禅门修行路径。",
+      "oneLineEn": "Edo Rinzai Zen revival figure who reorganized practice paths through a koan training system."
+    },
+    "honen": {
+      "oneLineZh": "日本净土宗开派人物，以专修念佛重组净土信仰之传统。",
+      "oneLineEn": "Founding figure of Japanese Pure Land, remaking the tradition around exclusive nembutsu practice."
+    },
+    "kukai": {
+      "oneLineZh": "日本真言宗开派人物，连接唐代密教与日本佛教之制度。",
+      "oneLineEn": "Founding figure of Japanese Shingon, linking Tang esoteric Buddhism to Japanese institutions."
+    },
+    "ito-jinsai": {
+      "oneLineZh": "江户古学派代表人物，主张回到孔孟文本并批评朱子学。",
+      "oneLineEn": "Edo Ancient Learning figure urging return to Confucius-Mencius texts against Zhu Xi learning."
+    },
+    "jeong-yakyong": {
+      "oneLineZh": "朝鲜实学重镇人物，重释经学并发展经世政治之思想路径。",
+      "oneLineEn": "Major Joseon Silhak figure re-reading classics and developing statecraft political thought."
+    },
+    "wonhyo": {
+      "oneLineZh": "朝鲜佛教代表人物，以和诤思想统合不同教义之系统结构。",
+      "oneLineEn": "Korean Buddhist figure unifying divergent doctrinal systems through reconciling-disputes thought."
+    },
+    "ogyu-sorai": {
+      "oneLineZh": "江户儒学代表人物，以古文辞学和礼乐制度论批评朱子学。",
+      "oneLineEn": "Edo Confucian criticizing Zhu Xi via ancient rhetoric learning and ritual-music institutional theory."
+    },
+    "seo-gyeongdeok": {
+      "oneLineZh": "朝鲜儒学气一元论人物，连接张载气论与退溪语境脉络。",
+      "oneLineEn": "Joseon qi-monism Confucian linking Zhang Zai's qi theory with the Toegye scholarly context."
+    },
+    "kapila-ishvarakrishna": {
+      "oneLineZh": "以《数论颂》系统化数论派二元论与三德的基本理论框架。",
+      "oneLineEn": "Systematizes Sāṃkhya dualism and the three guṇas as basic theory in the Sāṃkhya-kārikā."
+    },
+    "vivekananda": {
+      "oneLineZh": "新吠檀多与印度现代宗教思想向全球传播的关键枢纽人物。",
+      "oneLineEn": "Key hub transmitting Neo-Vedānta and modern Indian religious thought across the globe."
+    },
+    "udayana": {
+      "oneLineZh": "正理派代表人物，系统论证神存在并回应佛教哲学批评。",
+      "oneLineEn": "Nyāya figure systematically arguing for God and answering Buddhist philosophical critiques."
+    },
+    "buton": {
+      "oneLineZh": "藏传佛教史家，并在大藏经编定过程中起关键组织作用。",
+      "oneLineEn": "Tibetan Buddhist historian and key organizer in the process of compiling the Buddhist canon."
+    },
+    "gampopa": {
+      "oneLineZh": "达波噶举开派人物，融合噶当道次第与大手印之传统路径。",
+      "oneLineEn": "Founding Dakpo Kagyu figure fusing Kadampa stages of the path with Mahāmudrā tradition."
+    },
+    "sakya-pandita": {
+      "oneLineZh": "萨迦派系统家，以《量理宝藏论》推进藏传量论之传统。",
+      "oneLineEn": "Sakya systematizer advancing Tibetan pramāṇa via Treasury of Reasoning on Valid Cognition."
+    },
+    "joseph-albo": {
+      "oneLineZh": "《信条书》作者，系统重整犹太教义原则与信仰分类体系。",
+      "oneLineEn": "Author of Sefer ha-Ikkarim, systematically reorganizing Jewish doctrinal principles and faith categories."
+    }
+  }
+}

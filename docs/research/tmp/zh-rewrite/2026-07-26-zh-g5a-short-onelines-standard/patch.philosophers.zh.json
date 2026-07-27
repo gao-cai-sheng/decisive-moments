@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 1,
+  "items": {
+    "confucius": {
+      "oneLineZh": "以仁与忠恕贯通人伦，用礼乐与正名把君子修身接到德治秩序。",
+      "oneLineEn": "Joins ren and reciprocity to human relations; ritual and name-correction link junzi cultivation to virtue-rule."
+    },
+    "laozi": {
+      "oneLineZh": "以无名之道说明生成根据，用无为少欲减少强制并暴露名言限度。",
+      "oneLineEn": "Explains generation by the nameless Dao; wuwei and few desires reduce coercion and expose limits of fixed names."
+    },
+    "zhuangzi": {
+      "oneLineZh": "以逍遥无待求精神自由，用齐物与心斋松动是非名言与生死执著。",
+      "oneLineEn": "Seeks free wandering without dependence; equalizing things and mind-fasting loosen rigid speech and death-fixation."
+    },
+    "plato": {
+      "oneLineZh": "以理念与洞穴喻区分意见与知识，用灵魂三分与城邦正义互证秩序。",
+      "oneLineEn": "Separates opinion from knowledge via Forms and the cave; tripartite soul and civic justice mirror each other as order."
+    },
+    "aristotle": {
+      "oneLineZh": "以实体与四因解释事物，用中道与实践智慧把幸福定为合德的理性活动。",
+      "oneLineEn": "Explains things by substance and four causes; mean and practical wisdom cast flourishing as virtuous rational activity."
+    },
+    "kant": {
+      "oneLineZh": "以先验形式说明经验知识何以可能，用定言命令与自律重设道德与自由。",
+      "oneLineEn": "Shows how experience is possible via a priori forms; categorical imperative and autonomy reset morality and freedom."
+    },
+    "rawls": {
+      "oneLineZh": "以原初状态与无知之幕选择正义原则，用差异原则与公共理性协调自由平等。",
+      "oneLineEn": "Uses veil of ignorance to pick justice principles; difference principle and public reason balance liberty and equality."
+    },
+    "wollstonecraft": {
+      "oneLineZh": "以女性理性可教论证公民平等，并延伸权利语言批判卢梭式性别教育。",
+      "oneLineEn": "Argues civic equality from women's trainable reason and extends rights-language against Rousseau-style gender education."
+    },
+    "freire": {
+      "oneLineZh": "以银行式教育批判揭示压迫再生产，用对话与意识化把教育写成解放实践。",
+      "oneLineEn": "Shows how banking education reproduces oppression; dialogue and conscientization cast pedagogy as liberatory practice."
+    }
+  }
+}
