@@ -32,6 +32,7 @@ type AppState = {
   collectionsOpen: boolean;
   settingsOpen: boolean;
   contributeOpen: boolean;
+  randomEncounterOpen: boolean;
   setBootstrapData(input: {
     philosophers: PhilosopherIndexEntry[];
     argumentsIndex: Argument[];
@@ -53,6 +54,7 @@ type AppState = {
   toggleCollections(): void;
   toggleSettings(): void;
   toggleContribute(): void;
+  toggleRandomEncounter(): void;
 };
 
 export const useAppStore = create<AppState>((set) => ({
@@ -74,6 +76,7 @@ export const useAppStore = create<AppState>((set) => ({
   collectionsOpen: false,
   settingsOpen: false,
   contributeOpen: false,
+  randomEncounterOpen: false,
   setBootstrapData: (input) => set({ ...input, loaded: true, loadError: null }),
   setLoadError: (message) => set({ loadError: message, loaded: false }),
   selectPhilosopher: (id) =>
@@ -112,6 +115,7 @@ export const useAppStore = create<AppState>((set) => ({
   toggleCollections: () => set((state) => ({ collectionsOpen: !state.collectionsOpen })),
   toggleSettings: () => set((state) => ({ settingsOpen: !state.settingsOpen })),
   toggleContribute: () => set((state) => ({ contributeOpen: !state.contributeOpen })),
+  toggleRandomEncounter: () => set((state) => ({ randomEncounterOpen: !state.randomEncounterOpen })),
 }));
 
 // DEV 调试钩子：profiling 经 window.__appStore 脚本化驱动选中/取消等交互

@@ -17,6 +17,7 @@ import { ContributeWizard } from "./ContributeWizard";
 import { LoadingScreen } from "./LoadingScreen";
 import { Onboarding } from "./Onboarding";
 import { PhilosopherPanel } from "./PhilosopherPanel";
+import { RandomEncounter } from "./RandomEncounter";
 import { SearchPanel } from "./SearchPanel";
 import { SettingsPanel } from "./SettingsPanel";
 import { ThoughtInfographic } from "./ThoughtInfographic";
@@ -72,6 +73,7 @@ export function AppShell() {
       {/* 信息图打开时隐藏右栏面板，防止其透过半透明遮罩形成鬼影叠字 */}
       {selectedPhilosopher && !selectedThoughtProblemId && <PhilosopherPanel philosopher={selectedPhilosopher} />}
       {selectedPhilosopher && <ThoughtInfographic philosopher={selectedPhilosopher} />}
+      <RandomEncounter />
       <CollectionsDrawer />
       <ContributeWizard />
       <SettingsPanel />

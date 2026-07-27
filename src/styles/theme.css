@@ -817,3 +817,184 @@ button {
 .contribute-issues:not(.muted) li {
   color: #f2a48a;
 }
+
+/* ── 随机偶遇：riddle → card 两段动线 ───────────────────────────── */
+
+.random-encounter {
+  position: fixed;
+  inset: 0;
+  z-index: 60;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 24px;
+  background: rgba(4, 7, 13, 0.82);
+  backdrop-filter: blur(10px);
+  animation: random-encounter-in 0.28s ease both;
+}
+
+@keyframes random-encounter-in {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+.random-encounter__stage {
+  position: relative;
+  width: min(680px, 100%);
+  min-height: 320px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 18px;
+  padding: 40px 38px;
+  border: 1px solid var(--line, #1e2838);
+  border-radius: 18px;
+  background: radial-gradient(120% 80% at 50% 0%, #121a2b 0%, #0d1220 55%, #080b12 100%);
+  animation: random-encounter-rise 0.42s cubic-bezier(0.2, 0.8, 0.3, 1) both;
+}
+
+@keyframes random-encounter-rise {
+  from { opacity: 0; transform: translateY(14px) scale(0.97); }
+  to { opacity: 1; transform: none; }
+}
+
+.random-encounter__close {
+  position: absolute;
+  top: 12px;
+  right: 14px;
+  width: 32px;
+  height: 32px;
+  border: 1px solid transparent;
+  border-radius: 8px;
+  background: transparent;
+  color: #8b98ad;
+  font-size: 22px;
+  line-height: 1;
+  cursor: pointer;
+}
+
+.random-encounter__close:hover,
+.random-encounter__close:focus-visible {
+  color: #e8eef7;
+  border-color: #31405a;
+}
+
+.random-encounter__label {
+  margin: 0;
+  color: #8b98ad;
+  font-size: 12.5px;
+  letter-spacing: 1px;
+}
+
+.random-encounter__question {
+  margin: 0;
+  font-size: clamp(19px, 3.2vw, 25px);
+  font-weight: 600;
+  line-height: 1.6;
+  animation: random-encounter-rise 0.5s 0.06s cubic-bezier(0.2, 0.8, 0.3, 1) both;
+}
+
+.random-encounter__dim {
+  margin: 0;
+  color: #8b98ad;
+}
+
+.random-encounter__card {
+  display: flex;
+  gap: 20px;
+  align-items: flex-start;
+  flex-wrap: wrap;
+  animation: random-encounter-flip 0.5s cubic-bezier(0.3, 0.9, 0.3, 1) both;
+}
+
+/* 卡片"翻面"：绕 Y 轴由侧立转正，替代真正的 3D 双面卡，成本更低 */
+@keyframes random-encounter-flip {
+  from { opacity: 0; transform: perspective(900px) rotateY(-38deg); }
+  to { opacity: 1; transform: none; }
+}
+
+.random-encounter__fp {
+  flex: 0 0 auto;
+  line-height: 0;
+}
+
+.random-encounter__name {
+  margin: 0;
+  font-size: 26px;
+  font-weight: 700;
+  letter-spacing: 0.5px;
+}
+
+.random-encounter__life {
+  margin: 2px 0 0;
+  color: #8b98ad;
+  font-size: 13px;
+}
+
+.random-encounter__one {
+  margin: 12px 0 0;
+  line-height: 1.75;
+}
+
+.random-encounter__kw {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin: 12px 0 0;
+  padding: 0;
+  list-style: none;
+}
+
+.random-encounter__kw li {
+  padding: 3px 9px;
+  border: 1px solid var(--line, #1e2838);
+  border-radius: 6px;
+  background: rgba(22, 32, 50, 0.5);
+  color: #8b98ad;
+  font-size: 12px;
+}
+
+.random-encounter__actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.random-encounter__chip {
+  padding: 9px 16px;
+  border: 1px solid var(--line, #1e2838);
+  border-radius: 999px;
+  background: #111927;
+  color: #8b98ad;
+  font: inherit;
+  font-size: 13.5px;
+  cursor: pointer;
+  transition: border-color 0.18s, color 0.18s, background 0.18s;
+}
+
+.random-encounter__chip:hover,
+.random-encounter__chip:focus-visible {
+  border-color: #3c557d;
+  color: #e8eef7;
+}
+
+.random-encounter__chip--primary {
+  border-color: #35507e;
+  background: #16233c;
+  color: #cfe0ff;
+}
+
+.random-encounter__chip--primary:hover,
+.random-encounter__chip--primary:focus-visible {
+  background: #1d2f52;
+  border-color: #4b6ea8;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .random-encounter,
+  .random-encounter__stage,
+  .random-encounter__question,
+  .random-encounter__card {
+    animation: none;
+  }
+}

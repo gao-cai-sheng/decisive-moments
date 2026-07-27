@@ -25,7 +25,16 @@ export const zh = {
   "hud.theme": "主题",
   "hud.clearFilters": "清除筛选",
   "hud.collections": "收藏",
+  "hud.random": "偶遇",
   "hud.settings": "设置",
+
+  "random.aria": "随机认识一位哲学家",
+  "random.loading": "正在星海里挑一个人…",
+  "random.asked": "有人这样问过 ——",
+  "random.knownFor": "有人以此为业 ——",
+  "random.reveal": "我想过了，这是谁？",
+  "random.again": "换一个",
+  "random.visit": "带我去他的星",
 
   "relationshipType.direct_student": "师承",
   "relationshipType.influence": "影响",
@@ -239,7 +248,16 @@ export const en: Record<MessageKey, string> = {
   "hud.theme": "Theme",
   "hud.clearFilters": "Clear filters",
   "hud.collections": "Saved",
+  "hud.random": "Encounter",
   "hud.settings": "Settings",
+
+  "random.aria": "Meet a philosopher at random",
+  "random.loading": "Picking someone out of the star field…",
+  "random.asked": "Someone once asked ——",
+  "random.knownFor": "Someone made this their work ——",
+  "random.reveal": "I've thought about it. Who is this?",
+  "random.again": "Another",
+  "random.visit": "Take me to their star",
 
   "relationshipType.direct_student": "Teacher–student",
   "relationshipType.influence": "Influence",

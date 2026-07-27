@@ -41,6 +41,7 @@ export function TopHud() {
   const toggleCollections = useAppStore((state) => state.toggleCollections);
   const toggleSettings = useAppStore((state) => state.toggleSettings);
   const toggleContribute = useAppStore((state) => state.toggleContribute);
+  const toggleRandomEncounter = useAppStore((state) => state.toggleRandomEncounter);
   const philosophers = useAppStore((state) => state.philosophers);
   const relationships = useAppStore((state) => state.relationships);
   const filters = useAppStore((state) => state.filters);
@@ -114,6 +115,9 @@ export function TopHud() {
           {t("hud.clearFilters")}
         </button>
       </div>
+      <button className="hud-button" type="button" onClick={toggleRandomEncounter}>
+        {t("hud.random")}
+      </button>
       <button className="hud-button" type="button" onClick={toggleCollections}>
         {t("hud.collections")}
       </button>
