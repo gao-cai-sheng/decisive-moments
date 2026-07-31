@@ -6,7 +6,12 @@
     "moduleResolution": "Bundler",
     "allowSyntheticDefaultImports": true,
     "strict": true,
-    "types": ["node"]
+    "types": ["node"],
+    // 只做类型检查，不要把 vite.config.ts 编译成同目录的 vite.config.js ——
+    // Vite 会优先读取那个 .js，导致对 .ts 的改动被陈旧产物静默劫持。
+    "declaration": true,
+    "emitDeclarationOnly": true,
+    "outDir": "./node_modules/.tmp/tsconfig-node"
   },
   "include": ["vite.config.ts", "playwright.config.ts"]
 }
