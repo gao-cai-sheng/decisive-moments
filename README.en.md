@@ -2,7 +2,9 @@
 
 # When the Stars Shone
 
-**A navigable 3D star map of philosophers — 542 thinkers, 30 civilizations, 1,035 intellectual relationships**
+**The stars of philosophy, back under one sky**
+
+A 3D star map of philosophers you can fly into
 
 [![CI](https://github.com/gao-cai-sheng/decisive-moments/actions/workflows/validate-data.yml/badge.svg)](https://github.com/gao-cai-sheng/decisive-moments/actions/workflows/validate-data.yml)
 [![React](https://img.shields.io/badge/React-19-61DAFB?style=flat-square&logo=react&logoColor=white)](https://react.dev)
@@ -12,7 +14,7 @@
 [![License](https://img.shields.io/badge/code-MIT-blue?style=flat-square)](./LICENSE)
 [![Content](https://img.shields.io/badge/content-CC_BY--SA_4.0-lightgrey?style=flat-square)](./LICENSE-CONTENT.md)
 
-[中文](./README.md) · [Live Demo](https://gao-cai-sheng.github.io/decisive-moments/) · [Quick Start](#-quick-start) · [Editorial Standard](#-where-does-the-content-come-from) · [Contributing](#-contributing)
+[中文](./README.md) · [Live Demo](https://gao-cai-sheng.github.io/decisive-moments/) · [Quick Start](#quick-start) · [Editorial Standard](#where-does-the-content-come-from) · [Contributing](#contributing)
 
 <img src="docs/assets/hero.png" alt="Main view: the 3D philosopher star map" width="100%">
 
@@ -24,16 +26,18 @@
 
 Intellectual history rendered as a starfield you can fly into.
 
-Every philosopher is a star. **Civilization sets its color, era and theme set its position, influence sets its brightness.** Fly close to any one of them and it unfolds into a stellar system — the orbiting planets are the fundamental questions that thinker spent a life on. Open a planet and you get the arguments they offered, the evidence behind each argument, and where in the original text that evidence sits.
+Every philosopher is a star: its color comes from civilization, its position from era and theme, its brightness from influence. So before you have read a single name, the density of the map is already telling you something — which centuries are crowded, and which are nearly empty.
 
-This is not a glossary of philosophical terms. It is a **graph of relations**: who criticized whom, who studied under whom, who picked up the same question a thousand years later.
+Fly close to Plato and his star opens into a stellar system. Plato sits at the center; the four orbiting planets are the questions he kept returning to — Forms and reality, justice and order, soul and education, dialogue as a philosophical method. Open the first and you get the question itself: *does what truly exists lie in sensible things, or in the Forms that stand above the world of experience?* Underneath it is his argument — that the Forms are prior to sensible things — and the evidence behind it: the Divided Line in *Republic* VI, the Cave at the opening of Book VII, cited down to the passage.
+
+The stars are joined by lines: who criticized whom, who studied under whom, who picked up the same question a thousand years later.
 
 <div align="center">
 <img src="docs/assets/demo.gif" alt="Demo: search Plato → fly into his stellar system → open a thought infographic" width="90%">
 <br><em>Search → fly into the stellar system → open the full evidence chain of one argument</em>
 </div>
 
-## What's in the library
+## What's in the library so far
 
 <table>
 <tr>
@@ -50,7 +54,13 @@ This is not a glossary of philosophical terms. It is a **graph of relations**: w
 </tr>
 </table>
 
-**All traditions are treated equally** — this is not confined to Western academic philosophy. 114 Chinese, 33 Ancient Greek, 33 Islamic, 27 Indian, 24 Jewish, 26 Latin American, 16 Russian, 14 Tibetan Buddhist, 10 Eastern Orthodox, 8 African, 3 Vietnamese, and more. Confucianism, Daoism, Buddhism, the six Indian darśanas, kalam / falsafa / Sufism, Kabbalah, and liberation philosophy all get equal footing.
+These are the numbers as of August 2026. Admissions are ongoing, so they only go up — treat every figure here as a snapshot of the day it was written.
+
+"Civilization" in that table is a cataloguing label, not a claim about where one civilization ends and the next begins: the set mixes regional traditions with modern currents that cut across regions.
+
+The library currently holds 114 Chinese philosophers, 33 Ancient Greek, 33 Islamic, 27 Indian, 26 Latin American, 24 Jewish, 16 Russian, 14 Tibetan Buddhist, 10 Eastern Orthodox, 8 African, 3 Vietnamese, and more. Confucianism, Daoism and Buddhism, the six Indian darśanas, kalam / falsafa / Sufism, Kabbalah, liberation philosophy — all of it cleared the same admission standard and sits in the same data structure as Plato and Kant.
+
+The West is still the largest single block, roughly 195 entries. That reflects which sources are within reach, not a judgment about what matters — filling out the non-Western traditions is long-term work, and it is where help is needed most.
 
 Philosophers come in two tiers:
 
@@ -59,13 +69,13 @@ Philosophers come in two tiers:
 | **standard** | 204 | Full thought system: problems → arguments → evidence → text locators |
 | **seed** | 338 | Identity layer: dates, civilization, tradition, themes, one-line summary, source notes |
 
-All 542 carry **source notes** (`sourceNotes`). Nothing goes in unsourced.
+Both tiers carry **source notes** (`sourceNotes`). Nothing goes in unsourced.
 
-## ✨ Features
+## Features
 
 ### 3D navigation with multi-axis filtering
 
-Filter across four axes — civilization, era, tradition, theme — and toggle six kinds of intellectual relationship independently (critique / teacher-student / influence / reception / school / shared problem). All 542 stars are GPU-instanced: 860+ geometries collapsed to 5, roughly 1,600 mesh draws collapsed to 4 instanced draws.
+Filter across four axes — civilization, era, tradition, theme — and toggle six kinds of intellectual relationship independently (critique / teacher-student / influence / reception / school / shared problem). Stars are drawn with GPU instancing: over 860 geometries collapsed to 5, roughly 1,600 mesh draws collapsed to 4 instanced draws, which keeps it running on mobile and low-end GPUs.
 
 <img src="docs/assets/filters.png" alt="Filtering Chinese philosophers with lineage and influence relations enabled" width="100%">
 
@@ -77,7 +87,7 @@ Click any star and the camera flies in. The philosopher sits at the center; the 
 
 ### Thought infographic: argument → evidence → text locator
 
-Every argument carries evidence cards naming **exactly where** in which work it comes from (e.g. "*Republic* Book VI: the Divided Line passage"), along with its excerpt status. The "extension" section at the bottom threads the argument through intellectual history — who taught, who influenced, who received.
+Every argument carries evidence cards naming **exactly where** in which work it comes from (e.g. "*Republic* Book VI: the Divided Line passage"), along with its excerpt status. A section at the bottom threads the argument through intellectual history — who taught whom, who influenced whom, who took it up later.
 
 <img src="docs/assets/infographic.png" alt="Thought infographic for Plato's 'Forms and Reality'" width="100%">
 
@@ -89,14 +99,14 @@ Philosophers, arguments, and search questions can all be saved locally, with JSO
 
 ### Also
 
-- **Random encounter** — meet a philosopher at random; the camera takes you there.
-- **Bilingual UI** — complete zh / en interface layer; content-layer translation in progress.
+- **Random encounter** — pick a philosopher at random; the camera takes you there.
+- **Languages** — the interface is fully bilingual (Chinese / English). Translation of the content itself into English is underway, with Spanish to follow.
 - **Full-text search** — philosophers, civilizations, and propositions in one box (fuzzy matching via Fuse.js).
 - **Fully static** — no backend, no ops. All data lives as JSON under `public/data`.
 
-## 🔍 Where does the content come from
+## Where does the content come from
 
-This is where most of the project's effort went. The 542 entries were not free-form model output. Each one has to clear a **written admission standard** and one round of **human blind review**.
+This is where most of the project's effort has gone. Every entry has to clear a written **admission standard** and one round of **human blind review** before it goes in. Both standards live in this repository, so you can check any entry against them yourself.
 
 The [admission standard](docs/research/philosopher-definition.md) requires three conditions to hold simultaneously:
 
@@ -104,7 +114,7 @@ The [admission standard](docs/research/philosopher-definition.md) requires three
 2. **Attributable written thought** — at least one real work, including teachings compiled posthumously by disciples (Socrates, Confucius, the Buddha, Milarepa), with the compiled or pseudepigraphic nature stated honestly.
 3. **Traceable sources** — backed by authoritative reference entries (SEP, IEP, Encyclopaedia of Islam, Encyclopaedia Judaica, Treasury of Lives). Where the record is a mess, the entry is left out rather than guessed at.
 
-Some figures are therefore **deliberately excluded**: mythological and scriptural figures (objects of interpretation, not authors), and patrons or rulers with no attributable writings (Songtsen Gampo, Ashoka, the Medici). They appear as relations and background, never as philosopher nodes. See [`excluded-patrons-rulers.md`](docs/research/excluded-patrons-rulers.md).
+Some figures are therefore **deliberately excluded**: mythological and scriptural figures (objects of interpretation, not authors), and patrons or rulers with no attributable writings (Songtsen Gampo, Ashoka, the Medici). They appear as relations and background, never as stars of their own. See [`excluded-patrons-rulers.md`](docs/research/excluded-patrons-rulers.md).
 
 **Copyright line**: evidence entries store only summaries and locators, never copyrighted text. Each evidence entry carries an `excerptStatus` field recording its excerpt state.
 
@@ -120,7 +130,7 @@ research output  →  machine validation        →  human blind review   →  a
 
 Related: [review checklist](docs/research/review-checklist.md) · [external audit handbook](docs/research/external-audit-handbook.md) · [research pipeline boundary](docs/research/kimi-research-bridge.md)
 
-## 🚀 Quick Start
+## Quick Start
 
 Requires Node.js 20+.
 
@@ -162,7 +172,7 @@ Pushing to `master` publishes to GitHub Pages via [`deploy-pages.yml`](.github/w
 
 </details>
 
-## 🛠 Stack
+## Stack
 
 | Layer | Choice |
 |---|---|
@@ -182,15 +192,23 @@ src/
 ├── store/         Zustand global state
 └── i18n/          zh / en copy and locale switching
 
-public/data/       542 philosopher JSON files + relationships / works / themes / indexes
+public/data/       Philosopher JSON files + relationships / works / themes / indexes
 tools/             Data validation, batch admission, quality audit scripts
 docs/              Editorial standards, contribution flow, roadmap
 docs/archive/      Content-production archive (not needed to run the app)
 ```
 
-## 🤝 Contributing
+## One person can only get so far
 
-Click "投稿" (Contribute) in the app to open a four-step wizard: **identity → works → intellectual relations → sources and submission**. Every step validates inline against the very same [`src/domain/contribution/validation.ts`](src/domain/contribution/validation.ts) that CI uses — so a green form means a green machine gate.
+This project is maintained by one person, and there is only so much time. Of the 542 philosophers in the library, 204 have a full thought system behind them; the other 338 stop at the identity layer — dates, civilization, tradition, a one-line placement, and nothing underneath.
+
+The interface is already bilingual. Translation of the content itself into English is underway, and Spanish comes after it. Spanish is on the list because the library already holds 26 Latin American philosophers and the entire thread of liberation philosophy — that material ought to be readable in Spanish, not only through Chinese.
+
+Once those two languages land, far more people can work on this. That is the reason for doing them.
+
+## Contributing
+
+Click **Contribute** in the app to open a four-step wizard: **identity → works → intellectual relations → sources and submission**. Every step validates inline against the very same [`src/domain/contribution/validation.ts`](src/domain/contribution/validation.ts) that CI uses — so a green form means a green machine gate.
 
 <img src="docs/assets/contribute.png" alt="Contribution wizard: four-step form with inline validation" width="100%">
 
@@ -201,22 +219,27 @@ Click "投稿" (Contribute) in the app to open a four-step wizard: **identity �
 
 Full flow: [`docs/open-contribution-flow.md`](docs/open-contribution-flow.md). For topic ideas, see the [1000-philosopher backlog](docs/philosophers-backlog-1000.md).
 
-## 🗺 Roadmap
+## Roadmap
 
 - [x] 542 philosophers admitted, 204 with full standard-tier thought systems
-- [x] All 542 stars instanced; usable on mobile and low-end GPUs
+- [x] Stars rendered with instancing; usable on mobile and low-end GPUs
 - [x] Bilingual UI layer with locale switching
 - [x] Open contribution: in-app wizard + GitHub Issue / PR flow + CI machine gate
 - [x] Live demo auto-deployed to GitHub Pages
 - [ ] Content-layer English translation (see [`docs/i18n-content-translation-spec.md`](docs/i18n-content-translation-spec.md))
+- [ ] Content-layer Spanish translation
 - [ ] Batch promotion of seed-tier entries to standard tier
 
 Near-term plan: [`docs/next-phase-roadmap-2026-07-22.md`](docs/next-phase-roadmap-2026-07-22.md).
 
-## 📄 License
+## License
 
 **Code** — [MIT](./LICENSE).
 
 **Data and documentation** — [CC BY-SA 4.0](./LICENSE-CONTENT.md): the dataset under `public/data/` and the editorial standards under `docs/` may be used and adapted freely, including commercially, with attribution and share-alike.
 
 Evidence entries in the dataset store summaries and locators only, never copyrighted text. The authoritative reference works cited (SEP, IEP, Encyclopaedia of Islam, and others) remain the copyright of their respective owners; this license does not extend to them.
+
+---
+
+The title is borrowed from Stefan Zweig, who wrote about the handful of moments when history turned on a few people. What this project is after is plainer: finding those people one at a time, marking where every claim comes from, and putting them back under one sky.
