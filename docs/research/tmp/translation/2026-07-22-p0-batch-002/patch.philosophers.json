@@ -1,0 +1,165 @@
+{
+  "schemaVersion": 1,
+  "items": {
+    "laozi": {
+      "oneLineEn": "Opens Daoist thought through the Dao, wuwei, and resistance to coercive order.",
+      "keywordsEn": [
+        "metaphysics",
+        "politics",
+        "life and death"
+      ]
+    },
+    "zhuangzi": {
+      "oneLineEn": "Develops a philosophy of freedom through wandering, equalizing things, and linguistic skepticism.",
+      "keywordsEn": [
+        "freedom",
+        "language",
+        "life and death"
+      ]
+    },
+    "cleanthes": {
+      "oneLineEn": "Stoic leader after Zeno, known for the Hymn to Zeus and a piety of assent to cosmic reason.",
+      "keywordsEn": [
+        "ethics",
+        "metaphysics",
+        "knowledge"
+      ]
+    },
+    "chrysippus": {
+      "oneLineEn": "Systematized early Stoic logic, physics, and ethics into a rigorous philosophical architecture.",
+      "keywordsEn": [
+        "ethics",
+        "metaphysics",
+        "knowledge"
+      ]
+    },
+    "diogenes-sinope": {
+      "oneLineEn": "Cynic who made philosophy a life-critique through poverty, self-sufficiency, and public provocation.",
+      "keywordsEn": [
+        "ethics",
+        "politics",
+        "freedom"
+      ]
+    },
+    "antisthenes": {
+      "oneLineEn": "Socratic disciple stressing virtue, self-sufficiency, and hard training; key forerunner of Cynicism.",
+      "keywordsEn": [
+        "ethics",
+        "politics",
+        "freedom"
+      ]
+    },
+    "pythagoras": {
+      "oneLineEn": "The Pythagorean tradition linked number, cosmic order, soul purification, and communal life.",
+      "keywordsEn": [
+        "metaphysics",
+        "ethics",
+        "knowledge"
+      ]
+    },
+    "anaximander": {
+      "oneLineEn": "Milesian thinker who advanced early Greek philosophy via the apeiron, cosmogenesis, and naturalistic explanation.",
+      "keywordsEn": [
+        "metaphysics",
+        "knowledge",
+        "life and death"
+      ]
+    },
+    "anaximenes": {
+      "oneLineEn": "Milesian philosopher explaining natural change and cosmic structure via air, condensation, and rarefaction.",
+      "keywordsEn": [
+        "metaphysics",
+        "knowledge",
+        "life and death"
+      ]
+    },
+    "xenophanes": {
+      "oneLineEn": "Presocratic poet-philosopher who criticized anthropomorphic gods and probed limits of human knowledge.",
+      "keywordsEn": [
+        "religion",
+        "knowledge",
+        "metaphysics"
+      ]
+    },
+    "empedocles": {
+      "oneLineEn": "Joined four roots, Love and Strife, cosmic cycles, and soul purification into natural philosophy and religious ethics.",
+      "keywordsEn": [
+        "metaphysics",
+        "life and death",
+        "religion"
+      ]
+    },
+    "anaxagoras": {
+      "oneLineEn": "Brought infinite seeds, mutual containment, and Nous into natural philosophy, carrying Ionian science into Athens.",
+      "keywordsEn": [
+        "metaphysics",
+        "knowledge",
+        "politics"
+      ]
+    },
+    "zeno-elea": {
+      "oneLineEn": "Eleatic thinker defending Parmenidean ontology with paradoxes against plurality and motion.",
+      "keywordsEn": [
+        "metaphysics",
+        "knowledge",
+        "language"
+      ]
+    },
+    "democritus": {
+      "oneLineEn": "Ancient atomist explaining nature by atoms and void; raised issues of perception, convention, and ethical calm.",
+      "keywordsEn": [
+        "metaphysics",
+        "knowledge",
+        "ethics"
+      ]
+    },
+    "protagoras": {
+      "oneLineEn": "Leading sophist known for man as measure, virtue education, and civic practical reason.",
+      "keywordsEn": [
+        "knowledge",
+        "politics",
+        "ethics"
+      ]
+    },
+    "gorgias": {
+      "oneLineEn": "Sophist and rhetorician famed for radical ontological arguments, linguistic power, and the art of persuasion.",
+      "keywordsEn": [
+        "language",
+        "knowledge",
+        "politics"
+      ]
+    },
+    "pyrrho": {
+      "oneLineEn": "Founding figure of Pyrrhonism; suspension of judgment and mental calm shaped ancient skepticism.",
+      "keywordsEn": [
+        "knowledge",
+        "ethics",
+        "freedom"
+      ]
+    },
+    "theophrastus": {
+      "oneLineEn": "Aristotle's successor expanding Peripatetic natural study, botany, character writing, and scholarly institutions.",
+      "keywordsEn": [
+        "knowledge",
+        "ethics",
+        "life and death"
+      ]
+    },
+    "carneades": {
+      "oneLineEn": "New Academy skeptic known for anti-Stoic epistemology, probable judgment, and Roman speeches on justice.",
+      "keywordsEn": [
+        "knowledge",
+        "ethics",
+        "politics"
+      ]
+    },
+    "cicero": {
+      "oneLineEn": "Roman statesman-author who rendered Greek philosophy into Latin public reason, republican ethics, and natural law.",
+      "keywordsEn": [
+        "politics",
+        "ethics",
+        "knowledge"
+      ]
+    }
+  }
+}
