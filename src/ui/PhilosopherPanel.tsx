@@ -1,7 +1,7 @@
 import { useEffect, useMemo, useRef, useState } from "react";
 import type { Philosopher } from "../data/schemas";
 import { createIndexedDbCollectionsRepository } from "../domain/collections/localCollections";
-import { pickName, pickText, useT, type MessageKey } from "../i18n";
+import { pickList, pickName, pickText, useT, type MessageKey } from "../i18n";
 import { useAppStore } from "../store/appStore";
 import { showTransientMessage } from "./transientMessage";
 
@@ -115,7 +115,7 @@ export function PhilosopherPanel({ philosopher }: PhilosopherPanelProps) {
       </p>
       <p>{pickText(philosopher, "summary", locale)}</p>
       <h3>{t("panel.keywords")}</h3>
-      <p>{philosopher.keywordsZh.join(" · ")}</p>
+      <p>{pickList(philosopher, "keywords", locale).join(" · ")}</p>
       {philosopherWorks.length > 0 && (
         <section>
           <h3>{t("panel.works")}</h3>

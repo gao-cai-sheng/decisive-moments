@@ -37,3 +37,13 @@ export function pickText(entity: Record<string, unknown>, base: string, locale: 
   const zh = entity[`${base}Zh`];
   return typeof zh === "string" ? zh : "";
 }
+
+// 数组字段的同款取值：pickList(philosopher, "keywords", locale) 读 keywordsEn，缺失回退 keywordsZh
+export function pickList(entity: Record<string, unknown>, base: string, locale: Locale): string[] {
+  if (locale === "en") {
+    const en = entity[`${base}En`];
+    if (Array.isArray(en) && en.length > 0) return en as string[];
+  }
+  const zh = entity[`${base}Zh`];
+  return Array.isArray(zh) ? (zh as string[]) : [];
+}
