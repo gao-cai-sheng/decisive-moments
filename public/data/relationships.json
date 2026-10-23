@@ -14054,5 +14054,31 @@
     ],
     "noteZh": "黎贵惇作为越南儒学博学家，其经学与伦理知识秩序锚定儒家传统。",
     "reviewStatus": "draft"
+  },
+  {
+    "id": "hume-descartes-critique",
+    "from": "hume",
+    "to": "descartes",
+    "type": "critique",
+    "strength": 2,
+    "confidence": "high",
+    "themeIds": [
+      "knowledge"
+    ],
+    "noteZh": "休谟直接评论笛卡尔式的「先行怀疑」：这种普遍怀疑若真能做到，反而无可救药，因为没有任何原初自明的原则可供走出来；他主张怀疑只能是局部的，在经验探究中逐步修正。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "peirce-descartes-critique",
+    "from": "peirce",
+    "to": "descartes",
+    "type": "critique",
+    "strength": 3,
+    "confidence": "high",
+    "themeIds": [
+      "knowledge"
+    ],
+    "noteZh": "皮尔士反对把普遍怀疑当作探究的起点：人无法一边继续生活和思考，一边真正放下全部信念，纸面上的怀疑不是真实的怀疑；探究只能由实际遭遇的疑难启动，并在共同体的可错检验中推进。",
+    "reviewStatus": "draft"
   }
 ]
