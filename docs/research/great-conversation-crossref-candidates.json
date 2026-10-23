@@ -1,0 +1,2825 @@
+{
+ "source": {
+  "title": "The Great Conversation: A Historical Introduction to Philosophy",
+  "authors": [
+   "Norman Melchert",
+   "David R. Morrow"
+  ],
+  "edition": "8th",
+  "publisher": "Oxford University Press",
+  "year": 2019
+ },
+ "producedBy": "claude-opus-5 / scripted extraction, 2026-10-23",
+ "reviewStatus": "unreviewed",
+ "note": "机器抽取的候选关系，未经人工盲审，不可直接入库",
+ "counts": {
+  "candidates": 163,
+  "peopleGapPairs": 25,
+  "typeConflicts": 11,
+  "matched": 27,
+  "bookPairs": 215
+ },
+ "candidates": [
+  {
+   "pairId": "augustine--socrates",
+   "a": "augustine",
+   "b": "socrates",
+   "aZh": "奥古斯丁",
+   "bZh": "苏格拉底",
+   "xrefCount": 5,
+   "narrTypes": [
+    "reception"
+   ],
+   "bookPages": [
+    115,
+    266,
+    267,
+    278,
+    284,
+    285
+   ],
+   "evidence": [
+    "p115: *See p. 283",
+    "p266: See pp. 96",
+    "p267: *See Apology 19c–d and p. 160"
+   ],
+   "status": "candidate-unreviewed"
+  },
+  {
+   "pairId": "heidegger--wittgenstein",
+   "a": "heidegger",
+   "b": "wittgenstein",
+   "aZh": "海德格尔",
+   "bZh": "维特根斯坦",
+   "xrefCount": 6,
+   "narrTypes": [
+    "reception"
+   ],
+   "bookPages": [
+    652,
+    653,
+    659,
+    662,
+    663,
+    664,
+    671
+   ],
+   "evidence": [
+    "p652: See p. 632",
+    "p653: see p. 630",
+    "p659: †Compare the antiatomistic remarks of the later Wittgenstein, pp. 648"
+   ],
+   "status": "candidate-unreviewed"
+  },
+  {
+   "pairId": "aristotle--ibn-sina",
+   "a": "aristotle",
+   "b": "ibn-sina",
+   "aZh": "亚里士多德",
+   "bZh": "伊本·西那",
+   "xrefCount": 4,
+   "narrTypes": [
+    "influence"
+   ],
+   "bookPages": [
+    301,
+    304,
+    305,
+    306
+   ],
+   "evidence": [
+    "p304: see pp. 203",
+    "p304: *See pp. 206",
+    "p305: *See p. 192"
+   ],
+   "status": "candidate-unreviewed"
+  },
+  {
+   "pairId": "aristotle--augustine",
+   "a": "aristotle",
+   "b": "augustine",
+   "aZh": "亚里士多德",
+   "bZh": "奥古斯丁",
+   "xrefCount": 4,
+   "narrTypes": [
+    "reception"
+   ],
+   "bookPages": [
+    209,
+    251,
+    281,
+    284
+   ],
+   "evidence": [
+    "p251: *See, for example, Augustine (pp. 267",
+    "p281: see Aristotle (pp. 216",
+    "p284: *Compare Aristotle on the unity of the virtues, p. 213"
+   ],
+   "status": "candidate-unreviewed"
+  },
+  {
+   "pairId": "hegel--peirce",
+   "a": "hegel",
+   "b": "peirce",
+   "aZh": "黑格尔",
+   "bZh": "皮尔士",
+   "xrefCount": 4,
+   "narrTypes": [
+    "reception"
+   ],
+   "bookPages": [
+    594,
+    598,
+    600
+   ],
+   "evidence": [
+    "p594: see pp. 509",
+    "p598: *Compare Hegel for a similar point, pp. 499",
+    "p598: see pp. 499"
+   ],
+   "status": "candidate-unreviewed"
+  },
+  {
+   "pairId": "heraclitus--plato",
+   "a": "heraclitus",
+   "b": "plato",
+   "aZh": "赫拉克利特",
+   "bZh": "柏拉图",
+   "xrefCount": 2,
+   "narrTypes": [
+    "influence",
+    "reception"
+   ],
+   "bookPages": [
+    17,
+    152,
+    176
+   ],
+   "evidence": [
+    "p152: †See p. 17",
+    "p176: *Compare this to Heraclitus’ aphorism on p. 21",
+    "p17 [influence]: Furthermore, Heraclitus is clearly an important inﬂuence on subsequent thinkers such as Plato and the Stoics."
+   ],
+   "status": "candidate-unreviewed"
+  },
+  {
+   "pairId": "al-kindi--parmenides",
+   "a": "al-kindi",
+   "b": "parmenides",
+   "aZh": "肯迪",
+   "bZh": "巴门尼德",
+   "xrefCount": 2,
+   "narrTypes": [
+    "reception"
+   ],
+   "bookPages": [
+    295
+   ],
+   "evidence": [
+    "p295: *See p. 22",
+    "p295: †See pp. 27",
+    "p295 [reception]: Nor is it tenable to think that our world consists only in a unity, as Parmenides did.* Following his favorite tactic of arguing by reductio ad absurd"
+   ],
+   "status": "candidate-unreviewed"
+  },
+  {
+   "pairId": "aquinas--augustine",
+   "a": "aquinas",
+   "b": "augustine",
+   "aZh": "托马斯·阿奎那",
+   "bZh": "奥古斯丁",
+   "xrefCount": 0,
+   "narrTypes": [
+    "influence",
+    "reception"
+   ],
+   "bookPages": [
+    318,
+    319
+   ],
+   "evidence": [
+    "p318 [reception]: Aquinas agrees with Augustine that (1) truth is one, (2) all men have been enlightened by the word or the wisdom of God, and (3) humans, in pride, hav",
+    "p318 [influence]: As Augustine draws on the Platonists, Aquinas draws from and builds on the Aristotelians, including Muslim ­Aristotelians such as Avicenna and Averroë",
+    "p319 [reception]: This is partly because Aquinas accepts the Aristotelian view of how humans acquire knowledge.* It may be appropriate for a Platonist such as Augustine"
+   ],
+   "status": "candidate-unreviewed"
+  },
+  {
+   "pairId": "aristotle--kant",
+   "a": "aristotle",
+   "b": "kant",
+   "aZh": "亚里士多德",
+   "bZh": "康德",
+   "xrefCount": 4,
+   "narrTypes": [],
+   "bookPages": [
+    207,
+    215,
+    474,
+    492
+   ],
+   "evidence": [
+    "p207: See pp. 476",
+    "p215: See p. 489",
+    "p474: See p. 185"
+   ],
+   "status": "candidate-unreviewed"
+  },
+  {
+   "pairId": "aristotle--mill",
+   "a": "aristotle",
+   "b": "mill",
+   "aZh": "亚里士多德",
+   "bZh": "约翰·密尔",
+   "xrefCount": 4,
+   "narrTypes": [],
+   "bookPages": [
+    215,
+    545,
+    549
+   ],
+   "evidence": [
+    "p215: see that some later writers on ethics, the utilitarians, for example, try to supply such a formula (p. 547",
+    "p545: See the earlier discussion on p. 196",
+    "p545: See also pp. 210"
+   ],
+   "status": "candidate-unreviewed"
+  },
+  {
+   "pairId": "descartes--locke",
+   "a": "descartes",
+   "b": "locke",
+   "aZh": "笛卡尔",
+   "bZh": "洛克",
+   "xrefCount": 1,
+   "narrTypes": [
+    "critique"
+   ],
+   "bookPages": [
+    417,
+    423
+   ],
+   "evidence": [
+    "p417: See p. 382",
+    "p417 [critique]: Let us then suppose the mind to be, as we say, white paper, void of all characters, without any *Locke is attacking a very crude version of innate ide",
+    "p423 [critique]: Locke rejects Descartes’ ﬁrst proof of God, which depends on an innate idea of God in us, but he offers an argument based on our own existence and the"
+   ],
+   "status": "candidate-unreviewed"
+  },
+  {
+   "pairId": "descartes--hobbes",
+   "a": "descartes",
+   "b": "hobbes",
+   "aZh": "笛卡尔",
+   "bZh": "霍布斯",
+   "xrefCount": 2,
+   "narrTypes": [
+    "critique"
+   ],
+   "bookPages": [
+    405,
+    406,
+    419
+   ],
+   "evidence": [
+    "p405: ‡See p. 362",
+    "p406: see p. 382",
+    "p419 [critique]: 419 So Locke comes to agree with Descartes—and to disagree with Hobbes—in believing that there are minds and bodies and that they are radically differ"
+   ],
+   "status": "candidate-unreviewed"
+  },
+  {
+   "pairId": "heraclitus--socrates",
+   "a": "heraclitus",
+   "b": "socrates",
+   "aZh": "赫拉克利特",
+   "bZh": "苏格拉底",
+   "xrefCount": 3,
+   "narrTypes": [],
+   "bookPages": [
+    67,
+    111,
+    160
+   ],
+   "evidence": [
+    "p67: *See p. 21",
+    "p111: *See p. 20",
+    "p160: See p. 20"
+   ],
+   "status": "candidate-unreviewed"
+  },
+  {
+   "pairId": "aristotle--mencius",
+   "a": "aristotle",
+   "b": "mencius",
+   "aZh": "亚里士多德",
+   "bZh": "孟子",
+   "xrefCount": 3,
+   "narrTypes": [],
+   "bookPages": [
+    228,
+    229,
+    230
+   ],
+   "evidence": [
+    "p228: See pp. 213",
+    "p229: *Compare Aristotle on nature, entelechy, and potentiality (pp. 196",
+    "p230: See p. 213"
+   ],
+   "status": "candidate-unreviewed"
+  },
+  {
+   "pairId": "hume--wittgenstein",
+   "a": "hume",
+   "b": "wittgenstein",
+   "aZh": "休谟",
+   "bZh": "维特根斯坦",
+   "xrefCount": 3,
+   "narrTypes": [],
+   "bookPages": [
+    446,
+    623,
+    626
+   ],
+   "evidence": [
+    "p446: See pp. 626",
+    "p623: Compare Hume, pp. 443",
+    "p626: *See p. 450"
+   ],
+   "status": "candidate-unreviewed"
+  },
+  {
+   "pairId": "hegel--locke",
+   "a": "hegel",
+   "b": "locke",
+   "aZh": "黑格尔",
+   "bZh": "洛克",
+   "xrefCount": 3,
+   "narrTypes": [],
+   "bookPages": [
+    504,
+    506,
+    515
+   ],
+   "evidence": [
+    "p504: See pp. 418",
+    "p506: †Compare Locke, on the origin of property, pp. 425",
+    "p515: See also Locke, pp. 424"
+   ],
+   "status": "candidate-unreviewed"
+  },
+  {
+   "pairId": "kant--mill",
+   "a": "kant",
+   "b": "mill",
+   "aZh": "康德",
+   "bZh": "约翰·密尔",
+   "xrefCount": 3,
+   "narrTypes": [],
+   "bookPages": [
+    546,
+    551,
+    555
+   ],
+   "evidence": [
+    "p546: See p. 488",
+    "p551: See p. 488",
+    "p555: See again Kant’s discussion of this on p. 491"
+   ],
+   "status": "candidate-unreviewed"
+  },
+  {
+   "pairId": "peirce--wittgenstein",
+   "a": "peirce",
+   "b": "wittgenstein",
+   "aZh": "皮尔士",
+   "bZh": "维特根斯坦",
+   "xrefCount": 3,
+   "narrTypes": [],
+   "bookPages": [
+    604,
+    629,
+    648
+   ],
+   "evidence": [
+    "p604: *Compare the logical positivists, pp. 634",
+    "p629: †Compare Peirce’s similar conviction, pp. 599",
+    "p648: See again pp. 596"
+   ],
+   "status": "candidate-unreviewed"
+  },
+  {
+   "pairId": "descartes--kant",
+   "a": "descartes",
+   "b": "kant",
+   "aZh": "笛卡尔",
+   "bZh": "康德",
+   "xrefCount": 0,
+   "narrTypes": [
+    "reception"
+   ],
+   "bookPages": [
+    482,
+    483
+   ],
+   "evidence": [
+    "p482 [reception]: Doing so, Kant thinks, will resolve this puzzle in the nicest possible way: We can agree with Descartes that freedom is exemption from causality, but ",
+    "p483 [reception]: Kant agrees with Descartes and the tradition that the idea of God is the idea of an all-perfect being, but he has a very interesting analysis of the w"
+   ],
+   "status": "candidate-unreviewed"
+  },
+  {
+   "pairId": "heraclitus--xenophanes",
+   "a": "heraclitus",
+   "b": "xenophanes",
+   "aZh": "赫拉克利特",
+   "bZh": "色诺芬尼",
+   "xrefCount": 1,
+   "narrTypes": [
+    "reception"
+   ],
+   "bookPages": [
+    20,
+    21
+   ],
+   "evidence": [
+    "p21: *See p. 16",
+    "p20 [reception]: Heraclitus, then, agrees with Xenophanes’ criticisms of traditional religion."
+   ],
+   "status": "candidate-unreviewed"
+  },
+  {
+   "pairId": "aristotle--socrates",
+   "a": "aristotle",
+   "b": "socrates",
+   "aZh": "亚里士多德",
+   "bZh": "苏格拉底",
+   "xrefCount": 1,
+   "narrTypes": [
+    "reception"
+   ],
+   "bookPages": [
+    188,
+    213
+   ],
+   "evidence": [
+    "p213: *See Meno and pp. 99",
+    "p188 [reception]: To Aristotle, the Sophist’s reliance on persuasiveness as the key to goodness in argument must seem like Euthyphro’s third answer to Socrates’ questio"
+   ],
+   "status": "candidate-unreviewed"
+  },
+  {
+   "pairId": "descartes--hume",
+   "a": "descartes",
+   "b": "hume",
+   "aZh": "笛卡尔",
+   "bZh": "休谟",
+   "xrefCount": 1,
+   "narrTypes": [
+    "direct_student"
+   ],
+   "bookPages": [
+    456,
+    462
+   ],
+   "evidence": [
+    "p456: †See Descartes’ argument in Meditation V (p. 389",
+    "p462 [direct_student]: Second, if you could doubt everything, there would be no way back to rational belief; to get back, you would have to use your reasoning faculties, the"
+   ],
+   "status": "candidate-unreviewed"
+  },
+  {
+   "pairId": "heidegger--kierkegaard",
+   "a": "heidegger",
+   "b": "kierkegaard",
+   "aZh": "海德格尔",
+   "bZh": "克尔凯郭尔",
+   "xrefCount": 1,
+   "narrTypes": [
+    "influence"
+   ],
+   "bookPages": [
+    533,
+    655
+   ],
+   "evidence": [
+    "p655: *Compare Kierkegaard, p. 522",
+    "p533 [influence]: (SUD, 63–65) *Martin Heidegger’s more recent discussion of human existence as “falling-in-with-the-One” is obviously indebted to Kierkegaard’s discuss"
+   ],
+   "status": "candidate-unreviewed"
+  },
+  {
+   "pairId": "parmenides--socrates",
+   "a": "parmenides",
+   "b": "socrates",
+   "aZh": "巴门尼德",
+   "bZh": "苏格拉底",
+   "xrefCount": 2,
+   "narrTypes": [],
+   "bookPages": [
+    23,
+    25
+   ],
+   "evidence": [
+    "p23: See pp. 95",
+    "p25: see Crito 46b, p. 137"
+   ],
+   "status": "candidate-unreviewed"
+  },
+  {
+   "pairId": "democritus--parmenides",
+   "a": "democritus",
+   "b": "parmenides",
+   "aZh": "德谟克利特",
+   "bZh": "巴门尼德",
+   "xrefCount": 2,
+   "narrTypes": [],
+   "bookPages": [
+    24,
+    32
+   ],
+   "evidence": [
+    "p24: *See the critique by Democritus on pp. 29",
+    "p32: †See pp. 25"
+   ],
+   "status": "candidate-unreviewed"
+  },
+  {
+   "pairId": "sextus-empiricus--zhuangzi",
+   "a": "sextus-empiricus",
+   "b": "zhuangzi",
+   "aZh": "塞克斯都·恩披里柯",
+   "bZh": "庄子",
+   "xrefCount": 2,
+   "narrTypes": [],
+   "bookPages": [
+    85,
+    352
+   ],
+   "evidence": [
+    "p85: see pp. 248",
+    "p352: See pp. 85"
+   ],
+   "status": "candidate-unreviewed"
+  },
+  {
+   "pairId": "nietzsche--plato",
+   "a": "nietzsche",
+   "b": "plato",
+   "aZh": "尼采",
+   "bZh": "柏拉图",
+   "xrefCount": 2,
+   "narrTypes": [],
+   "bookPages": [
+    172,
+    588
+   ],
+   "evidence": [
+    "p172: See pp. 578",
+    "p588: see pp. 177"
+   ],
+   "status": "candidate-unreviewed"
+  },
+  {
+   "pairId": "hobbes--xunzi",
+   "a": "hobbes",
+   "b": "xunzi",
+   "aZh": "霍布斯",
+   "bZh": "荀子",
+   "xrefCount": 2,
+   "narrTypes": [],
+   "bookPages": [
+    231,
+    232
+   ],
+   "evidence": [
+    "p231: See pp. 410",
+    "p232: See pp. 413"
+   ],
+   "status": "candidate-unreviewed"
+  },
+  {
+   "pairId": "mozi--xunzi",
+   "a": "mozi",
+   "b": "xunzi",
+   "aZh": "墨子",
+   "bZh": "荀子",
+   "xrefCount": 2,
+   "narrTypes": [],
+   "bookPages": [
+    231
+   ],
+   "evidence": [
+    "p231: *See pp. 80",
+    "p231: †See pp. 80"
+   ],
+   "status": "candidate-unreviewed"
+  },
+  {
+   "pairId": "augustine--epictetus",
+   "a": "augustine",
+   "b": "epictetus",
+   "aZh": "奥古斯丁",
+   "bZh": "爱比克泰德",
+   "xrefCount": 2,
+   "narrTypes": [],
+   "bookPages": [
+    257,
+    345
+   ],
+   "evidence": [
+    "p257: *Compare Augustine on the priority of will over intellect, p. 289",
+    "p345: †See the discussion of Jesus on pp. 257"
+   ],
+   "status": "candidate-unreviewed"
+  },
+  {
+   "pairId": "al-farabi--aristotle",
+   "a": "al-farabi",
+   "b": "aristotle",
+   "aZh": "法拉比",
+   "bZh": "亚里士多德",
+   "xrefCount": 2,
+   "narrTypes": [],
+   "bookPages": [
+    300
+   ],
+   "evidence": [
+    "p300: see pp. 190",
+    "p300: see pp. 188"
+   ],
+   "status": "candidate-unreviewed"
+  },
+  {
+   "pairId": "aquinas--plato",
+   "a": "aquinas",
+   "b": "plato",
+   "aZh": "托马斯·阿奎那",
+   "bZh": "柏拉图",
+   "xrefCount": 2,
+   "narrTypes": [],
+   "bookPages": [
+    331,
+    336
+   ],
+   "evidence": [
+    "p331: See p. 175",
+    "p336: *See pp. 149"
+   ],
+   "status": "candidate-unreviewed"
+  },
+  {
+   "pairId": "aquinas--hobbes",
+   "a": "aquinas",
+   "b": "hobbes",
+   "aZh": "托马斯·阿奎那",
+   "bZh": "霍布斯",
+   "xrefCount": 2,
+   "narrTypes": [],
+   "bookPages": [
+    333,
+    406
+   ],
+   "evidence": [
+    "p333: Compare Hobbes, p. 415",
+    "p406: see p. 319"
+   ],
+   "status": "candidate-unreviewed"
+  },
+  {
+   "pairId": "aristotle--descartes",
+   "a": "aristotle",
+   "b": "descartes",
+   "aZh": "亚里士多德",
+   "bZh": "笛卡尔",
+   "xrefCount": 2,
+   "narrTypes": [],
+   "bookPages": [
+    361,
+    365
+   ],
+   "evidence": [
+    "p361: †See p. 356",
+    "p365: see pp. 205"
+   ],
+   "status": "candidate-unreviewed"
+  },
+  {
+   "pairId": "descartes--sextus-empiricus",
+   "a": "descartes",
+   "b": "sextus-empiricus",
+   "aZh": "笛卡尔",
+   "bZh": "塞克斯都·恩披里柯",
+   "xrefCount": 2,
+   "narrTypes": [],
+   "bookPages": [
+    363
+   ],
+   "evidence": [
+    "p363: see pp. 248",
+    "p363: see pp. 350"
+   ],
+   "status": "candidate-unreviewed"
+  },
+  {
+   "pairId": "augustine--descartes",
+   "a": "augustine",
+   "b": "descartes",
+   "aZh": "奥古斯丁",
+   "bZh": "笛卡尔",
+   "xrefCount": 2,
+   "narrTypes": [],
+   "bookPages": [
+    373,
+    382
+   ],
+   "evidence": [
+    "p373: See pp. 267",
+    "p382: *See pp. 271"
+   ],
+   "status": "candidate-unreviewed"
+  },
+  {
+   "pairId": "aquinas--descartes",
+   "a": "aquinas",
+   "b": "descartes",
+   "aZh": "托马斯·阿奎那",
+   "bZh": "笛卡尔",
+   "xrefCount": 2,
+   "narrTypes": [],
+   "bookPages": [
+    384,
+    399
+   ],
+   "evidence": [
+    "p384: * Compare the similar thought by Aquinas, p. 324",
+    "p399: see p. 319"
+   ],
+   "status": "candidate-unreviewed"
+  },
+  {
+   "pairId": "descartes--hegel",
+   "a": "descartes",
+   "b": "hegel",
+   "aZh": "笛卡尔",
+   "bZh": "黑格尔",
+   "xrefCount": 2,
+   "narrTypes": [],
+   "bookPages": [
+    387,
+    499
+   ],
+   "evidence": [
+    "p387: see Hegel (pp. 516",
+    "p499: See p. 372"
+   ],
+   "status": "candidate-unreviewed"
+  },
+  {
+   "pairId": "aristotle--hobbes",
+   "a": "aristotle",
+   "b": "hobbes",
+   "aZh": "亚里士多德",
+   "bZh": "霍布斯",
+   "xrefCount": 2,
+   "narrTypes": [],
+   "bookPages": [
+    405,
+    406
+   ],
+   "evidence": [
+    "p405: See p. 206",
+    "p406: See p. 183"
+   ],
+   "status": "candidate-unreviewed"
+  },
+  {
+   "pairId": "locke--marx",
+   "a": "locke",
+   "b": "marx",
+   "aZh": "洛克",
+   "bZh": "马克思",
+   "xrefCount": 2,
+   "narrTypes": [],
+   "bookPages": [
+    425,
+    540
+   ],
+   "evidence": [
+    "p425: See pp. 540",
+    "p540: See pp. 425"
+   ],
+   "status": "candidate-unreviewed"
+  },
+  {
+   "pairId": "hobbes--hume",
+   "a": "hobbes",
+   "b": "hume",
+   "aZh": "霍布斯",
+   "bZh": "休谟",
+   "xrefCount": 2,
+   "narrTypes": [],
+   "bookPages": [
+    444,
+    461
+   ],
+   "evidence": [
+    "p444: *Compare Hobbes, p. 406",
+    "p461: *Compare Hobbesian egoism, pp. 411"
+   ],
+   "status": "candidate-unreviewed"
+  },
+  {
+   "pairId": "aristotle--hume",
+   "a": "aristotle",
+   "b": "hume",
+   "aZh": "亚里士多德",
+   "bZh": "休谟",
+   "xrefCount": 2,
+   "narrTypes": [],
+   "bookPages": [
+    451,
+    466
+   ],
+   "evidence": [
+    "p451: see pp. 203",
+    "p466: *See Aristotle’s discussion of this on p. 187"
+   ],
+   "status": "candidate-unreviewed"
+  },
+  {
+   "pairId": "kant--locke",
+   "a": "kant",
+   "b": "locke",
+   "aZh": "康德",
+   "bZh": "洛克",
+   "xrefCount": 2,
+   "narrTypes": [],
+   "bookPages": [
+    472,
+    482
+   ],
+   "evidence": [
+    "p472: See pp. 418",
+    "p482: See p. 419"
+   ],
+   "status": "candidate-unreviewed"
+  },
+  {
+   "pairId": "kant--plato",
+   "a": "kant",
+   "b": "plato",
+   "aZh": "康德",
+   "bZh": "柏拉图",
+   "xrefCount": 2,
+   "narrTypes": [],
+   "bookPages": [
+    480,
+    486
+   ],
+   "evidence": [
+    "p480: see pp. 152",
+    "p486: *See pp. 172"
+   ],
+   "status": "candidate-unreviewed"
+  },
+  {
+   "pairId": "kant--socrates",
+   "a": "kant",
+   "b": "socrates",
+   "aZh": "康德",
+   "bZh": "苏格拉底",
+   "xrefCount": 2,
+   "narrTypes": [],
+   "bookPages": [
+    481,
+    487
+   ],
+   "evidence": [
+    "p481: See pp. 186",
+    "p487: *Compare the Stoic story of the two slaves, p. 245"
+   ],
+   "status": "candidate-unreviewed"
+  },
+  {
+   "pairId": "hobbes--kant",
+   "a": "hobbes",
+   "b": "kant",
+   "aZh": "霍布斯",
+   "bZh": "康德",
+   "xrefCount": 2,
+   "narrTypes": [],
+   "bookPages": [
+    484,
+    488
+   ],
+   "evidence": [
+    "p484: see pp. 412",
+    "p488: See pp. 410"
+   ],
+   "status": "candidate-unreviewed"
+  },
+  {
+   "pairId": "hegel--hume",
+   "a": "hegel",
+   "b": "hume",
+   "aZh": "黑格尔",
+   "bZh": "休谟",
+   "xrefCount": 2,
+   "narrTypes": [],
+   "bookPages": [
+    508,
+    512
+   ],
+   "evidence": [
+    "p508: see p. 463",
+    "p512: ‡See Hume’s endorsement of this view, pp. 453"
+   ],
+   "status": "candidate-unreviewed"
+  },
+  {
+   "pairId": "nietzsche--wittgenstein",
+   "a": "nietzsche",
+   "b": "wittgenstein",
+   "aZh": "尼采",
+   "bZh": "维特根斯坦",
+   "xrefCount": 2,
+   "narrTypes": [],
+   "bookPages": [
+    569,
+    644
+   ],
+   "evidence": [
+    "p569: *Compare the early Wittgenstein, pp. 629",
+    "p644: *Compare Nietzsche on “real worlds,” pp. 570"
+   ],
+   "status": "candidate-unreviewed"
+  },
+  {
+   "pairId": "peirce--quine",
+   "a": "peirce",
+   "b": "quine",
+   "aZh": "皮尔士",
+   "bZh": "蒯因",
+   "xrefCount": 2,
+   "narrTypes": [],
+   "bookPages": [
+    598,
+    736
+   ],
+   "evidence": [
+    "p598: see pp. 730",
+    "p736: See pp. 596"
+   ],
+   "status": "candidate-unreviewed"
+  },
+  {
+   "pairId": "dewey--hume",
+   "a": "dewey",
+   "b": "hume",
+   "aZh": "杜威",
+   "bZh": "休谟",
+   "xrefCount": 2,
+   "narrTypes": [],
+   "bookPages": [
+    610,
+    614
+   ],
+   "evidence": [
+    "p610: *See p. 450",
+    "p614: See p. 459"
+   ],
+   "status": "candidate-unreviewed"
+  },
+  {
+   "pairId": "augustine--heidegger",
+   "a": "augustine",
+   "b": "heidegger",
+   "aZh": "奥古斯丁",
+   "bZh": "海德格尔",
+   "xrefCount": 2,
+   "narrTypes": [],
+   "bookPages": [
+    652,
+    670
+   ],
+   "evidence": [
+    "p652: *See p. 275",
+    "p670: see pp. 277"
+   ],
+   "status": "candidate-unreviewed"
+  },
+  {
+   "pairId": "beauvoir--heidegger",
+   "a": "beauvoir",
+   "b": "heidegger",
+   "aZh": "波伏娃",
+   "bZh": "海德格尔",
+   "xrefCount": 2,
+   "narrTypes": [],
+   "bookPages": [
+    667,
+    681
+   ],
+   "evidence": [
+    "p667: See pp. 681",
+    "p681: See pp. 662"
+   ],
+   "status": "candidate-unreviewed"
+  },
+  {
+   "pairId": "derrida--plato",
+   "a": "derrida",
+   "b": "plato",
+   "aZh": "德里达",
+   "bZh": "柏拉图",
+   "xrefCount": 2,
+   "narrTypes": [],
+   "bookPages": [
+    699,
+    703
+   ],
+   "evidence": [
+    "p699: See pp. 159",
+    "p703: see p. 159"
+   ],
+   "status": "candidate-unreviewed"
+  },
+  {
+   "pairId": "derrida--wittgenstein",
+   "a": "derrida",
+   "b": "wittgenstein",
+   "aZh": "德里达",
+   "bZh": "维特根斯坦",
+   "xrefCount": 2,
+   "narrTypes": [],
+   "bookPages": [
+    702,
+    706
+   ],
+   "evidence": [
+    "p702: See p. 641",
+    "p706: see Wittgenstein on “just gassing” (pp. 629"
+   ],
+   "status": "candidate-unreviewed"
+  },
+  {
+   "pairId": "anaxagoras--socrates",
+   "a": "anaxagoras",
+   "b": "socrates",
+   "aZh": "阿那克萨戈拉",
+   "bZh": "苏格拉底",
+   "xrefCount": 0,
+   "narrTypes": [
+    "influence"
+   ],
+   "bookPages": [
+    122
+   ],
+   "evidence": [
+    "p122 [influence]: Are you so contemptuous of the jury and think them so ignorant of letters as not to know that the books of Anaxagoras7 of Clazomenae are full of those"
+   ],
+   "status": "candidate-unreviewed"
+  },
+  {
+   "pairId": "mencius--mozi",
+   "a": "mencius",
+   "b": "mozi",
+   "aZh": "孟子",
+   "bZh": "墨子",
+   "xrefCount": 0,
+   "narrTypes": [
+    "critique"
+   ],
+   "bookPages": [
+    227
+   ],
+   "evidence": [
+    "p227 [critique]: Mencius complains that the doctrines of Yang Zhu and Mozi fill the world."
+   ],
+   "status": "candidate-unreviewed"
+  },
+  {
+   "pairId": "aristotle--protagoras",
+   "a": "aristotle",
+   "b": "protagoras",
+   "aZh": "亚里士多德",
+   "bZh": "普罗泰戈拉",
+   "xrefCount": 0,
+   "narrTypes": [
+    "critique"
+   ],
+   "bookPages": [
+    284
+   ],
+   "evidence": [
+    "p284 [critique]: Aristotle also disagrees with Protagoras; for him the “measure” is the good man (see p."
+   ],
+   "status": "candidate-unreviewed"
+  },
+  {
+   "pairId": "aquinas--locke",
+   "a": "aquinas",
+   "b": "locke",
+   "aZh": "托马斯·阿奎那",
+   "bZh": "洛克",
+   "xrefCount": 0,
+   "narrTypes": [
+    "reception"
+   ],
+   "bookPages": [
+    424
+   ],
+   "evidence": [
+    "p424 [reception]: Locke follows Thomas Aquinas in thinking that even before government is instituted, human beings, through their reason, have access to the natural law"
+   ],
+   "status": "candidate-unreviewed"
+  },
+  {
+   "pairId": "descartes--plato",
+   "a": "descartes",
+   "b": "plato",
+   "aZh": "笛卡尔",
+   "bZh": "柏拉图",
+   "xrefCount": 0,
+   "narrTypes": [
+    "reception"
+   ],
+   "bookPages": [
+    451
+   ],
+   "evidence": [
+    "p451 [reception]: Avicenna imagines that his Flying Man could recognize the existence of his self.* In modern times, Descartes follows Plato’s lead, maintaining that th"
+   ],
+   "status": "candidate-unreviewed"
+  },
+  {
+   "pairId": "russell--wittgenstein",
+   "a": "russell",
+   "b": "wittgenstein",
+   "aZh": "罗素",
+   "bZh": "维特根斯坦",
+   "xrefCount": 0,
+   "narrTypes": [
+    "reception"
+   ],
+   "bookPages": [
+    624
+   ],
+   "evidence": [
+    "p624 [reception]: Wittgenstein agrees with Russell that the superficial grammar of what we say may not be a good indication of the logic of what we say."
+   ],
+   "status": "candidate-unreviewed"
+  },
+  {
+   "pairId": "foucault--nietzsche",
+   "a": "foucault",
+   "b": "nietzsche",
+   "aZh": "福柯",
+   "bZh": "尼采",
+   "xrefCount": 0,
+   "narrTypes": [
+    "reception"
+   ],
+   "bookPages": [
+    711
+   ],
+   "evidence": [
+    "p711 [reception]: (DP, 304)* “Is it surprising,” Foucault asks, “that prisons resemble factories, schools, barracks, hospitals, which all resemble prisons?” (DP, 228) F"
+   ],
+   "status": "candidate-unreviewed"
+  },
+  {
+   "pairId": "anaximander--socrates",
+   "a": "anaximander",
+   "b": "socrates",
+   "aZh": "阿那克西曼德",
+   "bZh": "苏格拉底",
+   "xrefCount": 1,
+   "narrTypes": [],
+   "bookPages": [
+    12
+   ],
+   "evidence": [
+    "p12: See pp. 353"
+   ],
+   "status": "candidate-unreviewed"
+  },
+  {
+   "pairId": "nietzsche--xenophanes",
+   "a": "nietzsche",
+   "b": "xenophanes",
+   "aZh": "尼采",
+   "bZh": "色诺芬尼",
+   "xrefCount": 1,
+   "narrTypes": [],
+   "bookPages": [
+    14
+   ],
+   "evidence": [
+    "p14: see Nietzsche, p. 564"
+   ],
+   "status": "candidate-unreviewed"
+  },
+  {
+   "pairId": "descartes--xenophanes",
+   "a": "descartes",
+   "b": "xenophanes",
+   "aZh": "笛卡尔",
+   "bZh": "色诺芬尼",
+   "xrefCount": 1,
+   "narrTypes": [],
+   "bookPages": [
+    15
+   ],
+   "evidence": [
+    "p15: *See p. 361"
+   ],
+   "status": "candidate-unreviewed"
+  },
+  {
+   "pairId": "plato--xenophanes",
+   "a": "plato",
+   "b": "xenophanes",
+   "aZh": "柏拉图",
+   "bZh": "色诺芬尼",
+   "xrefCount": 1,
+   "narrTypes": [],
+   "bookPages": [
+    16
+   ],
+   "evidence": [
+    "p16: †See pp. 149"
+   ],
+   "status": "candidate-unreviewed"
+  },
+  {
+   "pairId": "derrida--heraclitus",
+   "a": "derrida",
+   "b": "heraclitus",
+   "aZh": "德里达",
+   "bZh": "赫拉克利特",
+   "xrefCount": 1,
+   "narrTypes": [],
+   "bookPages": [
+    19
+   ],
+   "evidence": [
+    "p19: See Jacques Derrida, p. 700"
+   ],
+   "status": "candidate-unreviewed"
+  },
+  {
+   "pairId": "anaximander--heraclitus",
+   "a": "anaximander",
+   "b": "heraclitus",
+   "aZh": "阿那克西曼德",
+   "bZh": "赫拉克利特",
+   "xrefCount": 1,
+   "narrTypes": [],
+   "bookPages": [
+    20
+   ],
+   "evidence": [
+    "p20: *Compare Anaximander, p. 11"
+   ],
+   "status": "candidate-unreviewed"
+  },
+  {
+   "pairId": "heraclitus--nietzsche",
+   "a": "heraclitus",
+   "b": "nietzsche",
+   "aZh": "赫拉克利特",
+   "bZh": "尼采",
+   "xrefCount": 1,
+   "narrTypes": [],
+   "bookPages": [
+    21
+   ],
+   "evidence": [
+    "p21: see Nietzsche, p. 585"
+   ],
+   "status": "candidate-unreviewed"
+  },
+  {
+   "pairId": "hume--parmenides",
+   "a": "hume",
+   "b": "parmenides",
+   "aZh": "休谟",
+   "bZh": "巴门尼德",
+   "xrefCount": 1,
+   "narrTypes": [],
+   "bookPages": [
+    25
+   ],
+   "evidence": [
+    "p25: see pp. 443"
+   ],
+   "status": "candidate-unreviewed"
+  },
+  {
+   "pairId": "buddha--parmenides",
+   "a": "buddha",
+   "b": "parmenides",
+   "aZh": "释迦牟尼",
+   "bZh": "巴门尼德",
+   "xrefCount": 1,
+   "narrTypes": [],
+   "bookPages": [
+    38
+   ],
+   "evidence": [
+    "p38: *Compare the views of Parmenides (p. 20"
+   ],
+   "status": "candidate-unreviewed"
+  },
+  {
+   "pairId": "buddha--heraclitus",
+   "a": "buddha",
+   "b": "heraclitus",
+   "aZh": "释迦牟尼",
+   "bZh": "赫拉克利特",
+   "xrefCount": 1,
+   "narrTypes": [],
+   "bookPages": [
+    42
+   ],
+   "evidence": [
+    "p42: *Compare to the views of Heraclitus (pp. 17"
+   ],
+   "status": "candidate-unreviewed"
+  },
+  {
+   "pairId": "ibn-sina--socrates",
+   "a": "ibn-sina",
+   "b": "socrates",
+   "aZh": "伊本·西那",
+   "bZh": "苏格拉底",
+   "xrefCount": 1,
+   "narrTypes": [],
+   "bookPages": [
+    48
+   ],
+   "evidence": [
+    "p48: †Compare this to the views of Avicenna (p. 304"
+   ],
+   "status": "candidate-unreviewed"
+  },
+  {
+   "pairId": "heraclitus--protagoras",
+   "a": "heraclitus",
+   "b": "protagoras",
+   "aZh": "赫拉克利特",
+   "bZh": "普罗泰戈拉",
+   "xrefCount": 1,
+   "narrTypes": [],
+   "bookPages": [
+    61
+   ],
+   "evidence": [
+    "p61: *See especially p. 20"
+   ],
+   "status": "candidate-unreviewed"
+  },
+  {
+   "pairId": "parmenides--protagoras",
+   "a": "parmenides",
+   "b": "protagoras",
+   "aZh": "巴门尼德",
+   "bZh": "普罗泰戈拉",
+   "xrefCount": 1,
+   "narrTypes": [],
+   "bookPages": [
+    61
+   ],
+   "evidence": [
+    "p61: †See pp. 23"
+   ],
+   "status": "candidate-unreviewed"
+  },
+  {
+   "pairId": "democritus--protagoras",
+   "a": "democritus",
+   "b": "protagoras",
+   "aZh": "德谟克利特",
+   "bZh": "普罗泰戈拉",
+   "xrefCount": 1,
+   "narrTypes": [],
+   "bookPages": [
+    61
+   ],
+   "evidence": [
+    "p61: *See p. 32"
+   ],
+   "status": "candidate-unreviewed"
+  },
+  {
+   "pairId": "gorgias--nietzsche",
+   "a": "gorgias",
+   "b": "nietzsche",
+   "aZh": "高尔吉亚",
+   "bZh": "尼采",
+   "xrefCount": 1,
+   "narrTypes": [],
+   "bookPages": [
+    66
+   ],
+   "evidence": [
+    "p66: *See Chapter 24, especially pp. 580"
+   ],
+   "status": "candidate-unreviewed"
+  },
+  {
+   "pairId": "mozi--socrates",
+   "a": "mozi",
+   "b": "socrates",
+   "aZh": "墨子",
+   "bZh": "苏格拉底",
+   "xrefCount": 1,
+   "narrTypes": [],
+   "bookPages": [
+    78
+   ],
+   "evidence": [
+    "p78: See pp. 256"
+   ],
+   "status": "candidate-unreviewed"
+  },
+  {
+   "pairId": "parmenides--zhuangzi",
+   "a": "parmenides",
+   "b": "zhuangzi",
+   "aZh": "巴门尼德",
+   "bZh": "庄子",
+   "xrefCount": 1,
+   "narrTypes": [],
+   "bookPages": [
+    81
+   ],
+   "evidence": [
+    "p81: * See p. 27"
+   ],
+   "status": "candidate-unreviewed"
+  },
+  {
+   "pairId": "laozi--maimonides",
+   "a": "laozi",
+   "b": "maimonides",
+   "aZh": "老子",
+   "bZh": "迈蒙尼德",
+   "xrefCount": 1,
+   "narrTypes": [],
+   "bookPages": [
+    88
+   ],
+   "evidence": [
+    "p88: †Compare Maimonides (p. 309"
+   ],
+   "status": "candidate-unreviewed"
+  },
+  {
+   "pairId": "buddha--laozi",
+   "a": "buddha",
+   "b": "laozi",
+   "aZh": "释迦牟尼",
+   "bZh": "老子",
+   "xrefCount": 1,
+   "narrTypes": [],
+   "bookPages": [
+    89
+   ],
+   "evidence": [
+    "p89: *Compare the Buddha on attachment (p. 39"
+   ],
+   "status": "candidate-unreviewed"
+  },
+  {
+   "pairId": "laozi--socrates",
+   "a": "laozi",
+   "b": "socrates",
+   "aZh": "老子",
+   "bZh": "苏格拉底",
+   "xrefCount": 1,
+   "narrTypes": [],
+   "bookPages": [
+    89
+   ],
+   "evidence": [
+    "p89: *Compare Socrates’ claim to ignorance (p. 97"
+   ],
+   "status": "candidate-unreviewed"
+  },
+  {
+   "pairId": "plato--protagoras",
+   "a": "plato",
+   "b": "protagoras",
+   "aZh": "柏拉图",
+   "bZh": "普罗泰戈拉",
+   "xrefCount": 1,
+   "narrTypes": [],
+   "bookPages": [
+    149
+   ],
+   "evidence": [
+    "p149: *See p. 62"
+   ],
+   "status": "candidate-unreviewed"
+  },
+  {
+   "pairId": "democritus--plato",
+   "a": "democritus",
+   "b": "plato",
+   "aZh": "德谟克利特",
+   "bZh": "柏拉图",
+   "xrefCount": 1,
+   "narrTypes": [],
+   "bookPages": [
+    171
+   ],
+   "evidence": [
+    "p171: See p. 33"
+   ],
+   "status": "candidate-unreviewed"
+  },
+  {
+   "pairId": "aristotle--mozi",
+   "a": "aristotle",
+   "b": "mozi",
+   "aZh": "亚里士多德",
+   "bZh": "墨子",
+   "xrefCount": 1,
+   "narrTypes": [],
+   "bookPages": [
+    184
+   ],
+   "evidence": [
+    "p184: See pp. 82"
+   ],
+   "status": "candidate-unreviewed"
+  },
+  {
+   "pairId": "aristotle--democritus",
+   "a": "aristotle",
+   "b": "democritus",
+   "aZh": "亚里士多德",
+   "bZh": "德谟克利特",
+   "xrefCount": 1,
+   "narrTypes": [],
+   "bookPages": [
+    196
+   ],
+   "evidence": [
+    "p196: *See pp. 30"
+   ],
+   "status": "candidate-unreviewed"
+  },
+  {
+   "pairId": "aristotle--parmenides",
+   "a": "aristotle",
+   "b": "parmenides",
+   "aZh": "亚里士多德",
+   "bZh": "巴门尼德",
+   "xrefCount": 1,
+   "narrTypes": [],
+   "bookPages": [
+    197
+   ],
+   "evidence": [
+    "p197: *See p. 25"
+   ],
+   "status": "candidate-unreviewed"
+  },
+  {
+   "pairId": "anaximander--aristotle",
+   "a": "anaximander",
+   "b": "aristotle",
+   "aZh": "阿那克西曼德",
+   "bZh": "亚里士多德",
+   "xrefCount": 1,
+   "narrTypes": [],
+   "bookPages": [
+    202
+   ],
+   "evidence": [
+    "p202: see p. 11"
+   ],
+   "status": "candidate-unreviewed"
+  },
+  {
+   "pairId": "aristotle--epictetus",
+   "a": "aristotle",
+   "b": "epictetus",
+   "aZh": "亚里士多德",
+   "bZh": "爱比克泰德",
+   "xrefCount": 1,
+   "narrTypes": [],
+   "bookPages": [
+    218
+   ],
+   "evidence": [
+    "p218: See pp. 257"
+   ],
+   "status": "candidate-unreviewed"
+  },
+  {
+   "pairId": "confucius--socrates",
+   "a": "confucius",
+   "b": "socrates",
+   "aZh": "孔子",
+   "bZh": "苏格拉底",
+   "xrefCount": 1,
+   "narrTypes": [],
+   "bookPages": [
+    222
+   ],
+   "evidence": [
+    "p222: *Compare Socrates on virtue as knowledge (pp. 99"
+   ],
+   "status": "candidate-unreviewed"
+  },
+  {
+   "pairId": "confucius--epictetus",
+   "a": "confucius",
+   "b": "epictetus",
+   "aZh": "孔子",
+   "bZh": "爱比克泰德",
+   "xrefCount": 1,
+   "narrTypes": [],
+   "bookPages": [
+    222
+   ],
+   "evidence": [
+    "p222: See pp. 257"
+   ],
+   "status": "candidate-unreviewed"
+  },
+  {
+   "pairId": "aristotle--confucius",
+   "a": "aristotle",
+   "b": "confucius",
+   "aZh": "亚里士多德",
+   "bZh": "孔子",
+   "xrefCount": 1,
+   "narrTypes": [],
+   "bookPages": [
+    223
+   ],
+   "evidence": [
+    "p223: See pp. 213"
+   ],
+   "status": "candidate-unreviewed"
+  },
+  {
+   "pairId": "socrates--xunzi",
+   "a": "socrates",
+   "b": "xunzi",
+   "aZh": "苏格拉底",
+   "bZh": "荀子",
+   "xrefCount": 1,
+   "narrTypes": [],
+   "bookPages": [
+    231
+   ],
+   "evidence": [
+    "p231: See pp. 99"
+   ],
+   "status": "candidate-unreviewed"
+  },
+  {
+   "pairId": "buddha--mencius",
+   "a": "buddha",
+   "b": "mencius",
+   "aZh": "释迦牟尼",
+   "bZh": "孟子",
+   "xrefCount": 1,
+   "narrTypes": [],
+   "bookPages": [
+    234
+   ],
+   "evidence": [
+    "p234: see pp. 38"
+   ],
+   "status": "candidate-unreviewed"
+  },
+  {
+   "pairId": "aristotle--epicurus",
+   "a": "aristotle",
+   "b": "epicurus",
+   "aZh": "亚里士多德",
+   "bZh": "伊壁鸠鲁",
+   "xrefCount": 1,
+   "narrTypes": [],
+   "bookPages": [
+    236
+   ],
+   "evidence": [
+    "p236: *See p. 209"
+   ],
+   "status": "candidate-unreviewed"
+  },
+  {
+   "pairId": "sextus-empiricus--xenophanes",
+   "a": "sextus-empiricus",
+   "b": "xenophanes",
+   "aZh": "塞克斯都·恩披里柯",
+   "bZh": "色诺芬尼",
+   "xrefCount": 1,
+   "narrTypes": [],
+   "bookPages": [
+    248
+   ],
+   "evidence": [
+    "p248: *See pp. 16"
+   ],
+   "status": "candidate-unreviewed"
+  },
+  {
+   "pairId": "buddha--socrates",
+   "a": "buddha",
+   "b": "socrates",
+   "aZh": "释迦牟尼",
+   "bZh": "苏格拉底",
+   "xrefCount": 1,
+   "narrTypes": [],
+   "bookPages": [
+    258
+   ],
+   "evidence": [
+    "p258: Compare Jesus’ teachings on this point to the Four Divine Abidings in Buddhist thought (p. 40"
+   ],
+   "status": "candidate-unreviewed"
+  },
+  {
+   "pairId": "augustine--plato",
+   "a": "augustine",
+   "b": "plato",
+   "aZh": "奥古斯丁",
+   "bZh": "柏拉图",
+   "xrefCount": 1,
+   "narrTypes": [],
+   "bookPages": [
+    268
+   ],
+   "evidence": [
+    "p268: See pp. 151"
+   ],
+   "status": "candidate-unreviewed"
+  },
+  {
+   "pairId": "plato--plotinus",
+   "a": "plato",
+   "b": "plotinus",
+   "aZh": "柏拉图",
+   "bZh": "普罗提诺",
+   "xrefCount": 1,
+   "narrTypes": [],
+   "bookPages": [
+    270
+   ],
+   "evidence": [
+    "p270: *Compare Plato on the Form of the Good (p. 160"
+   ],
+   "status": "candidate-unreviewed"
+  },
+  {
+   "pairId": "augustine--heraclitus",
+   "a": "augustine",
+   "b": "heraclitus",
+   "aZh": "奥古斯丁",
+   "bZh": "赫拉克利特",
+   "xrefCount": 1,
+   "narrTypes": [],
+   "bookPages": [
+    276
+   ],
+   "evidence": [
+    "p276: see p. 243"
+   ],
+   "status": "candidate-unreviewed"
+  },
+  {
+   "pairId": "augustine--hobbes",
+   "a": "augustine",
+   "b": "hobbes",
+   "aZh": "奥古斯丁",
+   "bZh": "霍布斯",
+   "xrefCount": 1,
+   "narrTypes": [],
+   "bookPages": [
+    280
+   ],
+   "evidence": [
+    "p280: *Compare this to Thomas Hobbes’ account of the origins of strife on pp. 410"
+   ],
+   "status": "candidate-unreviewed"
+  },
+  {
+   "pairId": "augustine--epicurus",
+   "a": "augustine",
+   "b": "epicurus",
+   "aZh": "奥古斯丁",
+   "bZh": "伊壁鸠鲁",
+   "xrefCount": 1,
+   "narrTypes": [],
+   "bookPages": [
+    289
+   ],
+   "evidence": [
+    "p289: Compare Epicurus on pp. 239"
+   ],
+   "status": "candidate-unreviewed"
+  },
+  {
+   "pairId": "al-farabi--plotinus",
+   "a": "al-farabi",
+   "b": "plotinus",
+   "aZh": "法拉比",
+   "bZh": "普罗提诺",
+   "xrefCount": 1,
+   "narrTypes": [],
+   "bookPages": [
+    298
+   ],
+   "evidence": [
+    "p298: *See p. 270"
+   ],
+   "status": "candidate-unreviewed"
+  },
+  {
+   "pairId": "al-farabi--plato",
+   "a": "al-farabi",
+   "b": "plato",
+   "aZh": "法拉比",
+   "bZh": "柏拉图",
+   "xrefCount": 1,
+   "narrTypes": [],
+   "bookPages": [
+    300
+   ],
+   "evidence": [
+    "p300: see pp. 152"
+   ],
+   "status": "candidate-unreviewed"
+  },
+  {
+   "pairId": "aristotle--zhuangzi",
+   "a": "aristotle",
+   "b": "zhuangzi",
+   "aZh": "亚里士多德",
+   "bZh": "庄子",
+   "xrefCount": 1,
+   "narrTypes": [],
+   "bookPages": [
+    301
+   ],
+   "evidence": [
+    "p301: See p. 81"
+   ],
+   "status": "candidate-unreviewed"
+  },
+  {
+   "pairId": "aquinas--xenophanes",
+   "a": "aquinas",
+   "b": "xenophanes",
+   "aZh": "托马斯·阿奎那",
+   "bZh": "色诺芬尼",
+   "xrefCount": 1,
+   "narrTypes": [],
+   "bookPages": [
+    324
+   ],
+   "evidence": [
+    "p324: See pp. 14"
+   ],
+   "status": "candidate-unreviewed"
+  },
+  {
+   "pairId": "aquinas--hume",
+   "a": "aquinas",
+   "b": "hume",
+   "aZh": "托马斯·阿奎那",
+   "bZh": "休谟",
+   "xrefCount": 1,
+   "narrTypes": [],
+   "bookPages": [
+    329
+   ],
+   "evidence": [
+    "p329: See pp. 443"
+   ],
+   "status": "candidate-unreviewed"
+  },
+  {
+   "pairId": "aquinas--socrates",
+   "a": "aquinas",
+   "b": "socrates",
+   "aZh": "托马斯·阿奎那",
+   "bZh": "苏格拉底",
+   "xrefCount": 1,
+   "narrTypes": [],
+   "bookPages": [
+    331
+   ],
+   "evidence": [
+    "p331: Compare pp. 134"
+   ],
+   "status": "candidate-unreviewed"
+  },
+  {
+   "pairId": "aquinas--ockham",
+   "a": "aquinas",
+   "b": "ockham",
+   "aZh": "托马斯·阿奎那",
+   "bZh": "奥卡姆",
+   "xrefCount": 1,
+   "narrTypes": [],
+   "bookPages": [
+    337
+   ],
+   "evidence": [
+    "p337: †See again pp. 320"
+   ],
+   "status": "candidate-unreviewed"
+  },
+  {
+   "pairId": "anaximander--descartes",
+   "a": "anaximander",
+   "b": "descartes",
+   "aZh": "阿那克西曼德",
+   "bZh": "笛卡尔",
+   "xrefCount": 1,
+   "narrTypes": [],
+   "bookPages": [
+    361
+   ],
+   "evidence": [
+    "p361: see p. 12"
+   ],
+   "status": "candidate-unreviewed"
+  },
+  {
+   "pairId": "descartes--socrates",
+   "a": "descartes",
+   "b": "socrates",
+   "aZh": "笛卡尔",
+   "bZh": "苏格拉底",
+   "xrefCount": 1,
+   "narrTypes": [],
+   "bookPages": [
+    391
+   ],
+   "evidence": [
+    "p391: See p. 169"
+   ],
+   "status": "candidate-unreviewed"
+  },
+  {
+   "pairId": "hobbes--mencius",
+   "a": "hobbes",
+   "b": "mencius",
+   "aZh": "霍布斯",
+   "bZh": "孟子",
+   "xrefCount": 1,
+   "narrTypes": [],
+   "bookPages": [
+    412
+   ],
+   "evidence": [
+    "p412: See pp. 230"
+   ],
+   "status": "candidate-unreviewed"
+  },
+  {
+   "pairId": "hume--leibniz",
+   "a": "hume",
+   "b": "leibniz",
+   "aZh": "休谟",
+   "bZh": "莱布尼茨",
+   "xrefCount": 1,
+   "narrTypes": [],
+   "bookPages": [
+    441
+   ],
+   "evidence": [
+    "p441: see p. 478"
+   ],
+   "status": "candidate-unreviewed"
+  },
+  {
+   "pairId": "hume--plato",
+   "a": "hume",
+   "b": "plato",
+   "aZh": "休谟",
+   "bZh": "柏拉图",
+   "xrefCount": 1,
+   "narrTypes": [],
+   "bookPages": [
+    446
+   ],
+   "evidence": [
+    "p446: see pp. 152"
+   ],
+   "status": "candidate-unreviewed"
+  },
+  {
+   "pairId": "hume--ibn-sina",
+   "a": "hume",
+   "b": "ibn-sina",
+   "aZh": "休谟",
+   "bZh": "伊本·西那",
+   "xrefCount": 1,
+   "narrTypes": [],
+   "bookPages": [
+    451
+   ],
+   "evidence": [
+    "p451: see pp. 304"
+   ],
+   "status": "candidate-unreviewed"
+  },
+  {
+   "pairId": "buddha--descartes",
+   "a": "buddha",
+   "b": "descartes",
+   "aZh": "释迦牟尼",
+   "bZh": "笛卡尔",
+   "xrefCount": 1,
+   "narrTypes": [],
+   "bookPages": [
+    453
+   ],
+   "evidence": [
+    "p453: *Compare the Buddhist doctrine of anātman or nonself (pp. 41"
+   ],
+   "status": "candidate-unreviewed"
+  },
+  {
+   "pairId": "buddha--kant",
+   "a": "buddha",
+   "b": "kant",
+   "aZh": "释迦牟尼",
+   "bZh": "康德",
+   "xrefCount": 1,
+   "narrTypes": [],
+   "bookPages": [
+    475
+   ],
+   "evidence": [
+    "p475: See p. 41"
+   ],
+   "status": "candidate-unreviewed"
+  },
+  {
+   "pairId": "hegel--nietzsche",
+   "a": "hegel",
+   "b": "nietzsche",
+   "aZh": "黑格尔",
+   "bZh": "尼采",
+   "xrefCount": 1,
+   "narrTypes": [],
+   "bookPages": [
+    498
+   ],
+   "evidence": [
+    "p498: see Nietzsche, p. 570"
+   ],
+   "status": "candidate-unreviewed"
+  },
+  {
+   "pairId": "hegel--plato",
+   "a": "hegel",
+   "b": "plato",
+   "aZh": "黑格尔",
+   "bZh": "柏拉图",
+   "xrefCount": 1,
+   "narrTypes": [],
+   "bookPages": [
+    502
+   ],
+   "evidence": [
+    "p502: See p. 153"
+   ],
+   "status": "candidate-unreviewed"
+  },
+  {
+   "pairId": "hegel--hobbes",
+   "a": "hegel",
+   "b": "hobbes",
+   "aZh": "黑格尔",
+   "bZh": "霍布斯",
+   "xrefCount": 1,
+   "narrTypes": [],
+   "bookPages": [
+    506
+   ],
+   "evidence": [
+    "p506: See again pp. 410"
+   ],
+   "status": "candidate-unreviewed"
+  },
+  {
+   "pairId": "epictetus--hegel",
+   "a": "epictetus",
+   "b": "hegel",
+   "aZh": "爱比克泰德",
+   "bZh": "黑格尔",
+   "xrefCount": 1,
+   "narrTypes": [],
+   "bookPages": [
+    507
+   ],
+   "evidence": [
+    "p507: *See p. 242"
+   ],
+   "status": "candidate-unreviewed"
+  },
+  {
+   "pairId": "augustine--hegel",
+   "a": "augustine",
+   "b": "hegel",
+   "aZh": "奥古斯丁",
+   "bZh": "黑格尔",
+   "xrefCount": 1,
+   "narrTypes": [],
+   "bookPages": [
+    507
+   ],
+   "evidence": [
+    "p507: See p. 289"
+   ],
+   "status": "candidate-unreviewed"
+  },
+  {
+   "pairId": "hegel--sextus-empiricus",
+   "a": "hegel",
+   "b": "sextus-empiricus",
+   "aZh": "黑格尔",
+   "bZh": "塞克斯都·恩披里柯",
+   "xrefCount": 1,
+   "narrTypes": [],
+   "bookPages": [
+    508
+   ],
+   "evidence": [
+    "p508: †See p. 249"
+   ],
+   "status": "candidate-unreviewed"
+  },
+  {
+   "pairId": "al-kindi--hegel",
+   "a": "al-kindi",
+   "b": "hegel",
+   "aZh": "肯迪",
+   "bZh": "黑格尔",
+   "xrefCount": 1,
+   "narrTypes": [],
+   "bookPages": [
+    509
+   ],
+   "evidence": [
+    "p509: See pp. 297"
+   ],
+   "status": "candidate-unreviewed"
+  },
+  {
+   "pairId": "aristotle--hegel",
+   "a": "aristotle",
+   "b": "hegel",
+   "aZh": "亚里士多德",
+   "bZh": "黑格尔",
+   "xrefCount": 1,
+   "narrTypes": [],
+   "bookPages": [
+    510
+   ],
+   "evidence": [
+    "p510: see pp. 196"
+   ],
+   "status": "candidate-unreviewed"
+  },
+  {
+   "pairId": "augustine--kierkegaard",
+   "a": "augustine",
+   "b": "kierkegaard",
+   "aZh": "奥古斯丁",
+   "bZh": "克尔凯郭尔",
+   "xrefCount": 1,
+   "narrTypes": [],
+   "bookPages": [
+    529
+   ],
+   "evidence": [
+    "p529: See pp. 265"
+   ],
+   "status": "candidate-unreviewed"
+  },
+  {
+   "pairId": "epicurus--mill",
+   "a": "epicurus",
+   "b": "mill",
+   "aZh": "伊壁鸠鲁",
+   "bZh": "约翰·密尔",
+   "xrefCount": 1,
+   "narrTypes": [],
+   "bookPages": [
+    550
+   ],
+   "evidence": [
+    "p550: *See the discussion of Epicurus on pp. 236"
+   ],
+   "status": "candidate-unreviewed"
+  },
+  {
+   "pairId": "kant--nietzsche",
+   "a": "kant",
+   "b": "nietzsche",
+   "aZh": "康德",
+   "bZh": "尼采",
+   "xrefCount": 1,
+   "narrTypes": [],
+   "bookPages": [
+    568
+   ],
+   "evidence": [
+    "p568: *See pp. 473"
+   ],
+   "status": "candidate-unreviewed"
+  },
+  {
+   "pairId": "augustine--nietzsche",
+   "a": "augustine",
+   "b": "nietzsche",
+   "aZh": "奥古斯丁",
+   "bZh": "尼采",
+   "xrefCount": 1,
+   "narrTypes": [],
+   "bookPages": [
+    574
+   ],
+   "evidence": [
+    "p574: Compare the diagram on p. 272"
+   ],
+   "status": "candidate-unreviewed"
+  },
+  {
+   "pairId": "epictetus--nietzsche",
+   "a": "epictetus",
+   "b": "nietzsche",
+   "aZh": "爱比克泰德",
+   "bZh": "尼采",
+   "xrefCount": 1,
+   "narrTypes": [],
+   "bookPages": [
+    586
+   ],
+   "evidence": [
+    "p586: * Compare Jesus’ parable of the good Samaritan, p. 257"
+   ],
+   "status": "candidate-unreviewed"
+  },
+  {
+   "pairId": "hume--peirce",
+   "a": "hume",
+   "b": "peirce",
+   "aZh": "休谟",
+   "bZh": "皮尔士",
+   "xrefCount": 1,
+   "narrTypes": [],
+   "bookPages": [
+    595
+   ],
+   "evidence": [
+    "p595: *Compare Hume’s impatience with intuition as a foundation for knowledge, pp. 441"
+   ],
+   "status": "candidate-unreviewed"
+  },
+  {
+   "pairId": "aristotle--peirce",
+   "a": "aristotle",
+   "b": "peirce",
+   "aZh": "亚里士多德",
+   "bZh": "皮尔士",
+   "xrefCount": 1,
+   "narrTypes": [],
+   "bookPages": [
+    601
+   ],
+   "evidence": [
+    "p601: See p. 187"
+   ],
+   "status": "candidate-unreviewed"
+  },
+  {
+   "pairId": "dewey--hegel",
+   "a": "dewey",
+   "b": "hegel",
+   "aZh": "杜威",
+   "bZh": "黑格尔",
+   "xrefCount": 1,
+   "narrTypes": [],
+   "bookPages": [
+    607
+   ],
+   "evidence": [
+    "p607: see p. 498"
+   ],
+   "status": "candidate-unreviewed"
+  },
+  {
+   "pairId": "dewey--kierkegaard",
+   "a": "dewey",
+   "b": "kierkegaard",
+   "aZh": "杜威",
+   "bZh": "克尔凯郭尔",
+   "xrefCount": 1,
+   "narrTypes": [],
+   "bookPages": [
+    609
+   ],
+   "evidence": [
+    "p609: Compare pp. 534"
+   ],
+   "status": "candidate-unreviewed"
+  },
+  {
+   "pairId": "dewey--kant",
+   "a": "dewey",
+   "b": "kant",
+   "aZh": "杜威",
+   "bZh": "康德",
+   "xrefCount": 1,
+   "narrTypes": [],
+   "bookPages": [
+    614
+   ],
+   "evidence": [
+    "p614: see p. 473"
+   ],
+   "status": "candidate-unreviewed"
+  },
+  {
+   "pairId": "aristotle--russell",
+   "a": "aristotle",
+   "b": "russell",
+   "aZh": "亚里士多德",
+   "bZh": "罗素",
+   "xrefCount": 1,
+   "narrTypes": [],
+   "bookPages": [
+    618
+   ],
+   "evidence": [
+    "p618: *See pp. 188"
+   ],
+   "status": "candidate-unreviewed"
+  },
+  {
+   "pairId": "peirce--russell",
+   "a": "peirce",
+   "b": "russell",
+   "aZh": "皮尔士",
+   "bZh": "罗素",
+   "xrefCount": 1,
+   "narrTypes": [],
+   "bookPages": [
+    618
+   ],
+   "evidence": [
+    "p618: see p. 604"
+   ],
+   "status": "candidate-unreviewed"
+  },
+  {
+   "pairId": "protagoras--wittgenstein",
+   "a": "protagoras",
+   "b": "wittgenstein",
+   "aZh": "普罗泰戈拉",
+   "bZh": "维特根斯坦",
+   "xrefCount": 1,
+   "narrTypes": [],
+   "bookPages": [
+    635
+   ],
+   "evidence": [
+    "p635: see the motto of Protagoras on p. 62"
+   ],
+   "status": "candidate-unreviewed"
+  },
+  {
+   "pairId": "socrates--wittgenstein",
+   "a": "socrates",
+   "b": "wittgenstein",
+   "aZh": "苏格拉底",
+   "bZh": "维特根斯坦",
+   "xrefCount": 1,
+   "narrTypes": [],
+   "bookPages": [
+    637
+   ],
+   "evidence": [
+    "p637: * See p. 112"
+   ],
+   "status": "candidate-unreviewed"
+  },
+  {
+   "pairId": "plato--wittgenstein",
+   "a": "plato",
+   "b": "wittgenstein",
+   "aZh": "柏拉图",
+   "bZh": "维特根斯坦",
+   "xrefCount": 1,
+   "narrTypes": [],
+   "bookPages": [
+    642
+   ],
+   "evidence": [
+    "p642: see Plato on knowledge (pp. 149"
+   ],
+   "status": "candidate-unreviewed"
+  },
+  {
+   "pairId": "kierkegaard--wittgenstein",
+   "a": "kierkegaard",
+   "b": "wittgenstein",
+   "aZh": "克尔凯郭尔",
+   "bZh": "维特根斯坦",
+   "xrefCount": 1,
+   "narrTypes": [],
+   "bookPages": [
+    647
+   ],
+   "evidence": [
+    "p647: *Compare Kierkegaard’s Knight of Infinite Resignation with his Knight of Faith (pp. 530"
+   ],
+   "status": "candidate-unreviewed"
+  },
+  {
+   "pairId": "anaximander--heidegger",
+   "a": "anaximander",
+   "b": "heidegger",
+   "aZh": "阿那克西曼德",
+   "bZh": "海德格尔",
+   "xrefCount": 1,
+   "narrTypes": [],
+   "bookPages": [
+    651
+   ],
+   "evidence": [
+    "p651: Compare Anaximander (p. 12"
+   ],
+   "status": "candidate-unreviewed"
+  },
+  {
+   "pairId": "heidegger--ibn-sina",
+   "a": "heidegger",
+   "b": "ibn-sina",
+   "aZh": "海德格尔",
+   "bZh": "伊本·西那",
+   "xrefCount": 1,
+   "narrTypes": [],
+   "bookPages": [
+    653
+   ],
+   "evidence": [
+    "p653: See p. 302"
+   ],
+   "status": "candidate-unreviewed"
+  },
+  {
+   "pairId": "aristotle--heidegger",
+   "a": "aristotle",
+   "b": "heidegger",
+   "aZh": "亚里士多德",
+   "bZh": "海德格尔",
+   "xrefCount": 1,
+   "narrTypes": [],
+   "bookPages": [
+    655
+   ],
+   "evidence": [
+    "p655: *Compare Aristotle on the categories, p. 185"
+   ],
+   "status": "candidate-unreviewed"
+  },
+  {
+   "pairId": "hegel--heidegger",
+   "a": "hegel",
+   "b": "heidegger",
+   "aZh": "黑格尔",
+   "bZh": "海德格尔",
+   "xrefCount": 1,
+   "narrTypes": [],
+   "bookPages": [
+    656
+   ],
+   "evidence": [
+    "p656: †See p. 499"
+   ],
+   "status": "candidate-unreviewed"
+  },
+  {
+   "pairId": "heidegger--plato",
+   "a": "heidegger",
+   "b": "plato",
+   "aZh": "海德格尔",
+   "bZh": "柏拉图",
+   "xrefCount": 1,
+   "narrTypes": [],
+   "bookPages": [
+    671
+   ],
+   "evidence": [
+    "p671: See his myth on pp.\n162"
+   ],
+   "status": "candidate-unreviewed"
+  },
+  {
+   "pairId": "augustine--beauvoir",
+   "a": "augustine",
+   "b": "beauvoir",
+   "aZh": "奥古斯丁",
+   "bZh": "波伏娃",
+   "xrefCount": 1,
+   "narrTypes": [],
+   "bookPages": [
+    683
+   ],
+   "evidence": [
+    "p683: See pp. 282"
+   ],
+   "status": "candidate-unreviewed"
+  },
+  {
+   "pairId": "beauvoir--kant",
+   "a": "beauvoir",
+   "b": "kant",
+   "aZh": "波伏娃",
+   "bZh": "康德",
+   "xrefCount": 1,
+   "narrTypes": [],
+   "bookPages": [
+    690
+   ],
+   "evidence": [
+    "p690: *Compare Kant on treating people as things, p. 491"
+   ],
+   "status": "candidate-unreviewed"
+  },
+  {
+   "pairId": "beauvoir--dewey",
+   "a": "beauvoir",
+   "b": "dewey",
+   "aZh": "波伏娃",
+   "bZh": "杜威",
+   "xrefCount": 1,
+   "narrTypes": [],
+   "bookPages": [
+    690
+   ],
+   "evidence": [
+    "p690: See pp. 614"
+   ],
+   "status": "candidate-unreviewed"
+  },
+  {
+   "pairId": "beauvoir--mill",
+   "a": "beauvoir",
+   "b": "mill",
+   "aZh": "波伏娃",
+   "bZh": "约翰·密尔",
+   "xrefCount": 1,
+   "narrTypes": [],
+   "bookPages": [
+    692
+   ],
+   "evidence": [
+    "p692: see pp. 555"
+   ],
+   "status": "candidate-unreviewed"
+  },
+  {
+   "pairId": "beauvoir--derrida",
+   "a": "beauvoir",
+   "b": "derrida",
+   "aZh": "波伏娃",
+   "bZh": "德里达",
+   "xrefCount": 1,
+   "narrTypes": [],
+   "bookPages": [
+    694
+   ],
+   "evidence": [
+    "p694: See pp. 700"
+   ],
+   "status": "candidate-unreviewed"
+  },
+  {
+   "pairId": "aristotle--derrida",
+   "a": "aristotle",
+   "b": "derrida",
+   "aZh": "亚里士多德",
+   "bZh": "德里达",
+   "xrefCount": 1,
+   "narrTypes": [],
+   "bookPages": [
+    699
+   ],
+   "evidence": [
+    "p699: See pp. 190"
+   ],
+   "status": "candidate-unreviewed"
+  },
+  {
+   "pairId": "derrida--hume",
+   "a": "derrida",
+   "b": "hume",
+   "aZh": "德里达",
+   "bZh": "休谟",
+   "xrefCount": 1,
+   "narrTypes": [],
+   "bookPages": [
+    699
+   ],
+   "evidence": [
+    "p699: See pp. 443"
+   ],
+   "status": "candidate-unreviewed"
+  },
+  {
+   "pairId": "derrida--kant",
+   "a": "derrida",
+   "b": "kant",
+   "aZh": "德里达",
+   "bZh": "康德",
+   "xrefCount": 1,
+   "narrTypes": [],
+   "bookPages": [
+    700
+   ],
+   "evidence": [
+    "p700: See pp. 468"
+   ],
+   "status": "candidate-unreviewed"
+  },
+  {
+   "pairId": "derrida--schopenhauer",
+   "a": "derrida",
+   "b": "schopenhauer",
+   "aZh": "德里达",
+   "bZh": "叔本华",
+   "xrefCount": 1,
+   "narrTypes": [],
+   "bookPages": [
+    700
+   ],
+   "evidence": [
+    "p700: See pp. 501"
+   ],
+   "status": "candidate-unreviewed"
+  },
+  {
+   "pairId": "derrida--peirce",
+   "a": "derrida",
+   "b": "peirce",
+   "aZh": "德里达",
+   "bZh": "皮尔士",
+   "xrefCount": 1,
+   "narrTypes": [],
+   "bookPages": [
+    701
+   ],
+   "evidence": [
+    "p701: *Compare the views of Peirce (pp. 604"
+   ],
+   "status": "candidate-unreviewed"
+  },
+  {
+   "pairId": "derrida--hegel",
+   "a": "derrida",
+   "b": "hegel",
+   "aZh": "德里达",
+   "bZh": "黑格尔",
+   "xrefCount": 1,
+   "narrTypes": [],
+   "bookPages": [
+    703
+   ],
+   "evidence": [
+    "p703: see pp. 498"
+   ],
+   "status": "candidate-unreviewed"
+  },
+  {
+   "pairId": "derrida--socrates",
+   "a": "derrida",
+   "b": "socrates",
+   "aZh": "德里达",
+   "bZh": "苏格拉底",
+   "xrefCount": 1,
+   "narrTypes": [],
+   "bookPages": [
+    706
+   ],
+   "evidence": [
+    "p706: See p. 130"
+   ],
+   "status": "candidate-unreviewed"
+  },
+  {
+   "pairId": "epicurus--rorty",
+   "a": "epicurus",
+   "b": "rorty",
+   "aZh": "伊壁鸠鲁",
+   "bZh": "罗蒂",
+   "xrefCount": 1,
+   "narrTypes": [],
+   "bookPages": [
+    712
+   ],
+   "evidence": [
+    "p712: see pp. 239"
+   ],
+   "status": "candidate-unreviewed"
+  },
+  {
+   "pairId": "aristotle--rorty",
+   "a": "aristotle",
+   "b": "rorty",
+   "aZh": "亚里士多德",
+   "bZh": "罗蒂",
+   "xrefCount": 1,
+   "narrTypes": [],
+   "bookPages": [
+    712
+   ],
+   "evidence": [
+    "p712: see pp. 241"
+   ],
+   "status": "candidate-unreviewed"
+  },
+  {
+   "pairId": "nietzsche--rorty",
+   "a": "nietzsche",
+   "b": "rorty",
+   "aZh": "尼采",
+   "bZh": "罗蒂",
+   "xrefCount": 1,
+   "narrTypes": [],
+   "bookPages": [
+    712
+   ],
+   "evidence": [
+    "p712: see p. 585"
+   ],
+   "status": "candidate-unreviewed"
+  },
+  {
+   "pairId": "foucault--rorty",
+   "a": "foucault",
+   "b": "rorty",
+   "aZh": "福柯",
+   "bZh": "罗蒂",
+   "xrefCount": 1,
+   "narrTypes": [],
+   "bookPages": [
+    718
+   ],
+   "evidence": [
+    "p718: See p. 711"
+   ],
+   "status": "candidate-unreviewed"
+  },
+  {
+   "pairId": "descartes--quine",
+   "a": "descartes",
+   "b": "quine",
+   "aZh": "笛卡尔",
+   "bZh": "蒯因",
+   "xrefCount": 1,
+   "narrTypes": [],
+   "bookPages": [
+    727
+   ],
+   "evidence": [
+    "p727: see p. 453"
+   ],
+   "status": "candidate-unreviewed"
+  },
+  {
+   "pairId": "derrida--quine",
+   "a": "derrida",
+   "b": "quine",
+   "aZh": "德里达",
+   "bZh": "蒯因",
+   "xrefCount": 1,
+   "narrTypes": [],
+   "bookPages": [
+    730
+   ],
+   "evidence": [
+    "p730: *Compare Derrida’s critique of the notion of presence, pp. 699"
+   ],
+   "status": "candidate-unreviewed"
+  }
+ ]
+}
