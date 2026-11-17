@@ -7,6 +7,9 @@ import type { Philosopher } from "../data/schemas";
 import type { StarLayoutNode } from "../domain/layout/starLayout";
 import { getStarColor } from "./PhilosopherStars";
 
+// 与聚焦态 ThoughtOrbit 的公转倍率保持一致（StarScene 引用本模块，常量放这里避免循环依赖）
+export const ORBIT_SPEED_SCALE = 0.4;
+
 // LOD 常显：镜头距离小于该值时浮现行星系；最多同时显示 3 个，避免轨道打架
 const NEARBY_RADIUS = 7.5;
 const MAX_NEARBY = 3;
@@ -111,7 +114,7 @@ export function NearbyOrbits({ layout, selectedId, onSelect }: NearbyOrbitsProps
           <group key={id} position={node.position}>
             {detail.thoughtSystem.problems.map((problem, problemIndex) => {
               const orbitRadius = 0.95 + problem.weight * 0.26;
-              const speed = 0.09 + problemIndex * 0.035 + (3 - problem.weight) * 0.02;
+              const speed = (0.09 + problemIndex * 0.035 + (3 - problem.weight) * 0.02) * ORBIT_SPEED_SCALE;
 
               return (
                 <group key={problem.id} scale={[1, 1, 0.72]}>

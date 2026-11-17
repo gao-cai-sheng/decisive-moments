@@ -54,6 +54,8 @@ const noRaycast = () => null;
 
 // 542 星逐个挂 drei Sphere 时代：每星 2–3 份独立 geometry+material、上千 draw call，
 // 是内存与渲染开销的大头。改为 4 个 InstancedMesh（本体/置灰/halo/命中）+ 3 份共享几何体。
+const FOCUSED_SPIN_SCALE = 0.3;
+
 export function PhilosopherStars({
   philosophers,
   layout,
@@ -217,7 +219,9 @@ export function PhilosopherStars({
     const angles = spinAnglesRef.current;
     bodyIndices.forEach((layoutIndex, instanceIndex) => {
       const node = layout[layoutIndex];
-      angles[layoutIndex] += spinParams[layoutIndex].speed * delta;
+      // 聚焦时恒星放大占据画面中心，原速自转显得很急，降到 30%
+      const spinScale = node.id === selectedId ? FOCUSED_SPIN_SCALE : 1;
+      angles[layoutIndex] += spinParams[layoutIndex].speed * spinScale * delta;
       temps.euler.set(0, angles[layoutIndex], spinParams[layoutIndex].tilt);
       temps.quaternion.setFromEuler(temps.euler);
       temps.position.set(node.position[0], node.position[1], node.position[2]);
@@ -232,8 +236,13 @@ export function PhilosopherStars({
     event.instanceId != null ? layout[event.instanceId]?.id : undefined;
 
   const handleClick = (event: ThreeEvent<MouseEvent>) => {
-    event.stopPropagation();
+    // 同一条射线上若有思想行星，让给行星：恒星热区很大（半径×4），
+    // 否则挡在行星前面的置灰背景星会吃掉点击并退出聚焦
+    if (focusMode && event.intersections.some((hit) => hit.object.userData.thoughtPlanet)) return;
     const id = idFromEvent(event);
+    // 恒星系防误触区内，点到置灰背景星不退出聚焦（想退出：点区外空白 / Esc / 面板的关闭）
+    if (focusMode && id !== selectedId && event.intersections.some((hit) => hit.object.userData.systemGuard)) return;
+    event.stopPropagation();
     if (!id) return;
     // 聚焦模式下点击置灰背景星 = 退出聚焦
     onSelect(focusMode && id !== selectedId ? null : id);

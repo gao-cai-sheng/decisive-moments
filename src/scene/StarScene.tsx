@@ -9,7 +9,7 @@ import { filterPhilosophersForStarMap } from "../domain/filters/starFilters";
 import { computeStarLayout, type StarLayoutNode } from "../domain/layout/starLayout";
 import { useAppStore } from "../store/appStore";
 import { CameraRig } from "./CameraRig";
-import { NearbyOrbits } from "./NearbyOrbits";
+import { NearbyOrbits, ORBIT_SPEED_SCALE } from "./NearbyOrbits";
 import { civilizationColors, PhilosopherStars } from "./PhilosopherStars";
 import { createStarSurfaceTexture } from "./StarSpin";
 
@@ -155,14 +155,47 @@ type ThoughtOrbitProps = {
   onSelectClaim(id: string): void;
 };
 
+// 行星的隐形点击热区半径（可见球体只有 0.07–0.1，太小）
+const PLANET_HIT_RADIUS = 0.26;
+
 function ThoughtOrbit({ philosopher, position, selectedProblemId, onSelectProblem, onSelectClaim }: ThoughtOrbitProps) {
+  // 鼠标停在任一行星/标签上时整个恒星系停转，目标不再从指针下溜走
+  const [hovered, setHovered] = useState(false);
+  useEffect(
+    () => () => {
+      document.body.style.cursor = "";
+    },
+    [],
+  );
+  // 点标签进入信息图时标签被卸载，收不到 mouseleave；不复位的话返回后恒星系会一直停着
+  useEffect(() => {
+    setHovered(false);
+    document.body.style.cursor = "";
+  }, [selectedProblemId]);
   if (!philosopher.thoughtSystem) return null;
+
+  const hoverIn = () => {
+    setHovered(true);
+    document.body.style.cursor = "pointer";
+  };
+  const hoverOut = () => {
+    setHovered(false);
+    document.body.style.cursor = "";
+  };
 
   const problemCount = philosopher.thoughtSystem.problems.length;
   const baseColor = civilizationColors[philosopher.civilization] ?? "#d8a24f";
 
+  // 恒星系防误触区：覆盖到最外圈轨道再多一点。区内点空不算"点了空白"，不会退回银河。
+  // 自己不拦截事件（不 stopPropagation），行星照常收到点击；背景星看到它就让路。
+  const guardRadius =
+    Math.max(...philosopher.thoughtSystem.problems.map((problem) => 0.95 + problem.weight * 0.26), 0.95) + 0.45;
+
   return (
     <group position={position}>
+      <Sphere args={[guardRadius, 16, 12]} userData={{ systemGuard: true }} onClick={() => undefined}>
+        <meshBasicMaterial transparent opacity={0} depthWrite={false} />
+      </Sphere>
       {philosopher.thoughtSystem.problems.map((problem, problemIndex) => {
         const angle = (Math.PI * 2 * problemIndex) / problemCount;
         const orbitRadius = 0.95 + problem.weight * 0.26;
@@ -173,9 +206,9 @@ function ThoughtOrbit({ philosopher, position, selectedProblemId, onSelectProble
         ];
         const isExpanded = problem.id === selectedProblemId;
 
-        const revolveSpeed = 0.09 + problemIndex * 0.035 + (3 - problem.weight) * 0.02;
-        // 任一行星被选中时，整个恒星系停转（层级与"选恒星→银河停转"一致）
-        const systemPaused = selectedProblemId !== null;
+        const revolveSpeed = (0.09 + problemIndex * 0.035 + (3 - problem.weight) * 0.02) * ORBIT_SPEED_SCALE;
+        // 任一行星被选中时，整个恒星系停转（层级与"选恒星→银河停转"一致）；悬停时同样停转
+        const systemPaused = selectedProblemId !== null || hovered;
 
         return (
           <RevolvingGroup key={problem.id} speed={revolveSpeed} paused={systemPaused}>
@@ -187,19 +220,40 @@ function ThoughtOrbit({ philosopher, position, selectedProblemId, onSelectProble
               lineWidth={0.7}
             />
             <group position={problemPosition}>
+              <Sphere args={[0.055 + problem.weight * 0.016, 10, 10]} raycast={() => null}>
+                <meshBasicMaterial color={isExpanded ? "#fff6d8" : "#ffe2a0"} toneMapped={false} />
+              </Sphere>
+              {/* 隐形热区：承接点击与悬停。userData.thoughtPlanet 让背景星的点击处理为它让路 */}
               <Sphere
-                args={[0.055 + problem.weight * 0.016, 10, 10]}
+                args={[PLANET_HIT_RADIUS, 8, 8]}
+                userData={{ thoughtPlanet: true }}
                 onClick={(event) => {
                   event.stopPropagation();
                   onSelectProblem(problem.id);
                 }}
+                onPointerOver={(event) => {
+                  event.stopPropagation();
+                  hoverIn();
+                }}
+                onPointerOut={hoverOut}
               >
-                <meshBasicMaterial color={isExpanded ? "#fff6d8" : "#ffe2a0"} toneMapped={false} />
+                <meshBasicMaterial transparent opacity={0} depthWrite={false} />
               </Sphere>
               {/* 信息图打开期间隐藏全部行星标签，防止 drei Html 高 z-index 穿透遮罩 */}
               {selectedProblemId === null && (
                 <Html center distanceFactor={7} position={[0, 0.16, 0]}>
-                  <span className="thought-orbit-label">{problem.titleZh}</span>
+                  <span
+                    className="thought-orbit-label"
+                    onClick={(event) => {
+                      // 拦住冒泡：否则画布会把这次点击再做一次射线检测，落空即退回银河
+                      event.stopPropagation();
+                      onSelectProblem(problem.id);
+                    }}
+                    onMouseEnter={hoverIn}
+                    onMouseLeave={hoverOut}
+                  >
+                    {problem.titleZh}
+                  </span>
                 </Html>
               )}
             </group>
@@ -224,6 +278,7 @@ function ThoughtOrbit({ philosopher, position, selectedProblemId, onSelectProble
                   <Sphere
                     args={[0.032 + claim.weight * 0.008, 8, 8]}
                     position={claimPosition}
+                    userData={{ thoughtPlanet: true }}
                     onClick={(event) => {
                       event.stopPropagation();
                       onSelectClaim(claim.id);
