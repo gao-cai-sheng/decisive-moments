@@ -30,13 +30,13 @@ Kimi must not:
 All Kimi output goes here:
 
 ```text
-/Users/gao/Desktop/Decisive Moments in History/.research/tmp/kimi/YYYY-MM-DD-topic-slug/
+<repo>/.research/tmp/kimi/YYYY-MM-DD-topic-slug/
 ```
 
 Example:
 
 ```text
-/Users/gao/Desktop/Decisive Moments in History/.research/tmp/kimi/2026-06-26-plato-justice/
+<repo>/.research/tmp/kimi/2026-06-26-plato-justice/
 ```
 
 Each research folder must contain:
@@ -334,10 +334,10 @@ Paste this into Kimi CLI and fill the placeholders.
 不要写代码，不要修改正式项目数据，不要把未审核内容写入 public/data。
 
 项目目录：
-/Users/gao/Desktop/Decisive Moments in History
+<本仓库根目录的绝对路径>
 
 暂存目录：
-/Users/gao/Desktop/Decisive Moments in History/.research/tmp/kimi/<YYYY-MM-DD-topic-slug>/
+<本仓库根目录的绝对路径>/.research/tmp/kimi/<YYYY-MM-DD-topic-slug>/
 
 研究主题：
 <topic>

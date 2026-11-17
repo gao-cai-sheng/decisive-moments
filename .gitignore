@@ -8,6 +8,9 @@ dist/
 test-results/
 playwright-report/
 
+# shoot-readme-assets.mjs 的临时目录（中断时可能残留）
+.readme-assets-*/
+
 *.tsbuildinfo
 vite.config.js
 vite.config.d.ts

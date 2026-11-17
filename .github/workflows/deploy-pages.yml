@@ -1,0 +1,46 @@
+name: deploy-pages
+
+# 把纯静态构建产物发布到 GitHub Pages。
+# 首次启用需在仓库 Settings → Pages → Source 选择 "GitHub Actions"。
+# 站点挂在 /<repo>/ 子路径下，base 由 vite.config.ts 处理。
+on:
+  push:
+    branches: [master]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# 同一时刻只跑一个部署；新提交进来就取消排队中的旧任务。
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: npm
+      - run: npm ci
+      # build = tsc -b && vite build，public/data 会一并进 dist
+      - run: npm run build
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

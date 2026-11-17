@@ -13,7 +13,14 @@ import {
   type Work,
 } from "./schemas";
 
-async function loadJson<T>(url: string, parse: (value: unknown) => T): Promise<T> {
+// 数据放在 public/ 下，部署到子路径（如 GitHub Pages 的 /decisive-moments/）时
+// 必须带上 Vite 的 base，否则 542 份 JSON 全部 404。BASE_URL 始终以 / 结尾。
+function withBase(path: string) {
+  return `${import.meta.env.BASE_URL}${path.replace(/^\//, "")}`;
+}
+
+async function loadJson<T>(path: string, parse: (value: unknown) => T): Promise<T> {
+  const url = withBase(path);
   const response = await fetch(url);
   if (!response.ok) throw new Error(`Failed to load ${url}: ${response.status}`);
   return parse(await response.json());
