@@ -47,6 +47,12 @@ case "$PHASE" in
       echo "  ⚠️ 未找到 $BATCH/thought-systems.json，跳过标准档硬门（batch 目录结构异常，请核查）"; fail=1
     fi
 
+    hr "门4 locator 内核门（只读，中华块锚必须可核对）"
+    node tools/locator-lint.mjs "$BATCH" || fail=1
+
+    hr "门5 postmortem 质量率（原文锚率/逐字摘录率）"
+    node tools/research-batch-metrics.mjs "$BATCH" || fail=1
+
     hr "结论"
     if [ "$fail" -eq 0 ]; then
       echo "✅ 写前门全绿：可由智能体单独执行 admit --overwrite --write（看完上面 dry-run 计划再写）"

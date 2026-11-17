@@ -36,7 +36,7 @@ const philosopherIds = assertUnique(
 );
 
 for (const entry of philosophersIndex) {
-  assertOptionalEnglish(entry, ["oneLineEn", "keywordsEn"], `index ${entry.id}`);
+  assertOptionalEnglish(entry, ["oneLineEn", "keywordsEn", "oneLineEs", "keywordsEs"], `index ${entry.id}`);
 }
 for (const work of works) {
   assertOptionalEnglish(work, ["titleEn", "noteEn"], `work ${work.id}`);
@@ -119,7 +119,7 @@ for (const philosopher of philosophersIndex) {
     const relationCount = relationshipCountByPhilosopher.get(detail.id) || 0;
     assert(relationCount >= 2 && relationCount <= 3, "seed philosopher needs 2-3 relationships: " + detail.id + " has " + relationCount);
   }
-  assertOptionalEnglish(detail, ["oneLineEn", "summaryEn", "keywordsEn"], detail.id);
+  assertOptionalEnglish(detail, ["oneLineEn", "summaryEn", "keywordsEn", "oneLineEs", "summaryEs", "keywordsEs"], detail.id);
   for (const note of detail.sourceNotes ?? []) {
     assertOptionalEnglish(note, ["noteEn"], `${detail.id} sourceNote`);
   }
@@ -172,7 +172,7 @@ if (process.env.RELEASE_DATA === "1") {
 }
 
 for (const argument of argumentsIndex) {
-  assertOptionalEnglish(argument, ["questionEn", "claimEn", "explanationEn", "keywordsEn"], argument.id);
+  assertOptionalEnglish(argument, ["questionEn", "claimEn", "explanationEn", "keywordsEn", "questionEs", "claimEs", "explanationEs", "keywordsEs"], argument.id);
   assertOptionalEnglish(argument.source, ["publicDomainExcerptEn"], argument.id);
   assert(
     philosopherIds.has(argument.philosopherId),

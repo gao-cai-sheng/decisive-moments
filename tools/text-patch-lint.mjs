@@ -6,7 +6,7 @@
 //   node tools/text-patch-lint.mjs <patch.json> [--index public/data/philosophers.index.json] [--expect ids.txt]
 //
 // 适用对象：索引层文本补丁，形如
-//   { "schemaVersion": 1, "items": { "<id>": { oneLineZh?, keywordsZh?, oneLineEn?, keywordsEn? } } }
+//   { "schemaVersion": 1, "items": { "<id>": { oneLineZh?, keywordsZh?, oneLineEn?, keywordsEn?, oneLineEs?, keywordsEs? } } }
 // 覆盖三类批次：中文简介重写、英文翻译、关键词补实词。按补丁里实际出现的字段决定查哪几条。
 //
 // 与 locator-lint.mjs 的分工：那个查思想体系层的 evidence 溯源定位；本工具查索引文本层。两者不重叠。
@@ -27,7 +27,7 @@ const THEME_ZH = new Set(["正义", "伦理", "知识", "政治", "形而上学"
 const PLACEHOLDER_ZH = /是.+问题谱系中的第一版候选哲人。$/;
 // 套谁都行、没有信息量的词
 const EMPTY_WORDS_ZH = /重要|深远|奠定|贡献|集大成|杰出|著名/;
-const ALLOWED_FIELDS = new Set(["oneLineZh", "keywordsZh", "oneLineEn", "keywordsEn"]);
+const ALLOWED_FIELDS = new Set(["oneLineZh", "keywordsZh", "oneLineEn", "keywordsEn", "oneLineEs", "keywordsEs"]);
 
 const ONELINE_ZH_MIN = 25;
 const ONELINE_ZH_MAX = 40;
@@ -82,6 +82,7 @@ export function lintPatch(patch, indexById, opts = {}) {
 
   const zhLines = [];
   const enLines = [];
+  const esLines = [];
   const kwZhCombos = new Map();
 
   for (const id of ids) {
@@ -111,6 +112,14 @@ export function lintPatch(patch, indexById, opts = {}) {
       if (hasHan(s)) add("en_has_han", id, "oneLineEn 残留中文字符");
     }
 
+    // —— oneLineEs ——
+    if (typeof it.oneLineEs === "string") {
+      const s = it.oneLineEs;
+      esLines.push(s);
+      if (!s.trim()) add("es_empty", id, "oneLineEs 为空");
+      if (hasHan(s)) add("es_has_han", id, "oneLineEs 残留中文字符");
+    }
+
     // —— keywordsZh ——
     if (Array.isArray(it.keywordsZh)) {
       const k = it.keywordsZh;
@@ -134,6 +143,16 @@ export function lintPatch(patch, indexById, opts = {}) {
       if (Array.isArray(zh) && en.length !== zh.length)
         add("kw_en_length_mismatch", id, `keywordsEn ${en.length} 个 ≠ keywordsZh ${zh.length} 个，须等长同序`);
     }
+
+    // —— keywordsEs：须与中文侧等长同序 ——
+    if (Array.isArray(it.keywordsEs)) {
+      const es = it.keywordsEs;
+      const zh = Array.isArray(it.keywordsZh) ? it.keywordsZh : idxEntry && idxEntry.keywordsZh;
+      if (es.some((x) => typeof x !== "string" || !x.trim())) add("kw_es_empty", id, "keywordsEs 含空项");
+      if (es.some((x) => hasHan(x))) add("kw_es_has_han", id, "keywordsEs 残留中文字符");
+      if (Array.isArray(zh) && es.length !== zh.length)
+        add("kw_es_length_mismatch", id, `keywordsEs ${es.length} 个 ≠ keywordsZh ${zh.length} 个，须等长同序`);
+    }
   }
 
   // —— 跨条重复 ——
@@ -141,6 +160,8 @@ export function lintPatch(patch, indexById, opts = {}) {
   if (dupZh.length) add("zh_duplicate", "(批)", `oneLineZh 有 ${new Set(dupZh).size} 组重复`);
   const dupEn = enLines.filter((s, i) => enLines.indexOf(s) !== i);
   if (dupEn.length) add("en_duplicate", "(批)", `oneLineEn 有 ${new Set(dupEn).size} 组重复`);
+  const dupEs = esLines.filter((s, i) => esLines.indexOf(s) !== i);
+  if (dupEs.length) add("es_duplicate", "(批)", `oneLineEs 有 ${new Set(dupEs).size} 组重复`);
   for (const [combo, who] of kwZhCombos) if (who.length > 1) add("kw_combo_duplicate", who.join(","), `关键词组合完全相同：${combo}`);
 
   // —— 反模板 ——
@@ -149,7 +170,7 @@ export function lintPatch(patch, indexById, opts = {}) {
   for (const h of sharedAffixes(enLines, 12, SHARED_AFFIX_COUNT))
     add("shared_affix_en", "(批)", `${h.count} 条共享 12 字符${h.kind}「${h.affix}」，句式在收敛`);
 
-  return { reds, warns, stats: { total: ids.length, zh: zhLines.length, en: enLines.length } };
+  return { reds, warns, stats: { total: ids.length, zh: zhLines.length, en: enLines.length, es: esLines.length } };
 }
 
 function main() {
@@ -178,7 +199,7 @@ function main() {
   const { reds, warns, stats } = lintPatch(patch, indexById, { expectIds });
 
   console.log(`文本补丁门：${patchPath}`);
-  console.log(`  条目 ${stats.total} ｜ 含 oneLineZh ${stats.zh} ｜ 含 oneLineEn ${stats.en}`);
+  console.log(`  条目 ${stats.total} ｜ 含 oneLineZh ${stats.zh} ｜ 含 oneLineEn ${stats.en} ｜ 含 oneLineEs ${stats.es}`);
   if (expectIds) console.log(`  对照名单 ${expectIds.size} 个 id`);
   console.log("");
 

@@ -22,6 +22,12 @@ const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const REPO_ROOT = path.resolve(__dirname, "..");
 
 export const VAGUE_LOCATOR = /(等相关|等篇|等章|等段|上、?中、?下|整篇|各篇|若干|多处|参见)/;
+// 中华块 locator 铁律（2026-08-18 加装，见 docs/research/std-c-series-REWORK-ORDER.md §4）
+// C1-C6 六批 258 条 locator 全部是「英译书名 + 自造 sec.N」且通过了旧门，故新增下列硬门。
+export const CJK_RE = /[\u4e00-\u9fff]/;                        // 中文篇目名判据
+export const FABRICATED_LOCATOR_SEQ = /(\bsec(tion)?\.?\s*\d+|\bitem\s*\d+|§\s*\d+)/i; // 自造流水号
+export const CHINESE_CIVS = new Set(["chinese"]);                 // 门 A/B 适用范围（西方文献 ch./§ 合法，不误伤）
+
 export const MIN_SUMMARY = 20;            // 硬下限：schema 要求 summaryZh >= 20（低于=RED）
 export const TARGET_SUMMARY = 40;         // 标准档：summaryZh 目标厚度（20<=len<40=YELLOW summary_thin）
 export const TARGET_EV_PER_CLAIM = 2;     // 标准档：每 claim 目标 evidence 数（>=1 但 <2=YELLOW thin_evidence）
@@ -74,6 +80,7 @@ export function summaryContainsEvidenceId(summary, evidenceId) {
 export function auditPhilosopher(detail, worksById) {
   const findings = [];
   const pid = detail.id;
+  const isChinese = CHINESE_CIVS.has(detail.civilization);
   const add = (sev, code, msg) => findings.push({ pid, sev, code, msg });
   const ts = detail.thoughtSystem;
   if (!ts) return { pid, hasTS: false, findings };
@@ -83,6 +90,7 @@ export function auditPhilosopher(detail, worksById) {
 
   const claimTitles = new Map();
   const evidenceSummaries = [];
+  const excerptSeen = new Map(); // 门 C：同一哲人下逐字摘录去重
 
   for (const p of problems) {
     const claims = p.claims || [];
@@ -153,6 +161,19 @@ export function auditPhilosopher(detail, worksById) {
           add("RED", "missing_locator", `${e.id}: 无 locator (excerptStatus=${s.excerptStatus})，违反溯源铁律`);
         else if (VAGUE_LOCATOR.test(loc))
           add("YELLOW", "vague_locator", `${e.id}: locator 宽泛「${loc}」`);
+        // 门 A：中华块 locator 必须含中文篇目名（禁纯英译书名）
+        if (isChinese && loc && !CJK_RE.test(loc))
+          add("RED", "locator_no_chinese_title", `${e.id}: 中华块 locator 无中文篇目名「${loc}」，须用《篇目》：某某段形态`);
+        // 门 B：中华块禁自造流水号（sec.N / item N / §N）
+        if (isChinese && FABRICATED_LOCATOR_SEQ.test(loc))
+          add("RED", "locator_fabricated_seq", `${e.id}: locator 含自造序号「${loc}」，中文原典须用真实卷次/篇目或可指认句段`);
+        // 门 C：同一哲人下逐字摘录不得重复（同段两挂）
+        const ex = (s.publicDomainExcerptZh || "").trim();
+        if (ex) {
+          if (excerptSeen.has(ex))
+            add("RED", "duplicate_excerpt", `${e.id}: publicDomainExcerptZh 与 ${excerptSeen.get(ex)} 逐字重复「${ex.slice(0, 16)}…」，同段两挂`);
+          else excerptSeen.set(ex, e.id);
+        }
       }
     }
   }
@@ -254,8 +275,18 @@ export function runAuditBatch({ batchFile, dataDir }) {
   const worksById = new Map(works.map((w) => [w.id, w]));
   const raw = readJson(batchFile);
   const items = Array.isArray(raw) ? raw : (raw.items || []);
-  const results = items.map((it) =>
-    auditPhilosopher({ id: it.philosopherId || it.id, thoughtSystem: { problems: it.problems || [] } }, worksById));
+  // batch 的 thought-systems.json 不带身份层，civilization 从正式库索引回查，供门 A/B 判定适用范围
+  let civById = new Map();
+  try {
+    const idx = readJson(path.join(dataDir, "philosophers.index.json"));
+    civById = new Map(idx.map((p) => [p.id, p.civilization]));
+  } catch { /* 索引缺失时门 A/B 不生效，其余门照常 */ }
+  const results = items.map((it) => {
+    const id = it.philosopherId || it.id;
+    return auditPhilosopher(
+      { id, civilization: it.civilization || civById.get(id), thoughtSystem: { problems: it.problems || [] } },
+      worksById);
+  });
 
   const all = results.flatMap((r) => r.findings);
   const red = all.filter((x) => x.sev === "RED");

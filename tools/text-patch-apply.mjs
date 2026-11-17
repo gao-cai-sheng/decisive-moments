@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 // tools/text-patch-apply.mjs
 // 把文本层补丁合入正式库：同步写 philosophers.index.json 与每人 detail 文件。
-// 只覆盖补丁 item 中出现的四个文本字段：oneLineZh / keywordsZh / oneLineEn / keywordsEn。
+// 只覆盖补丁 item 中出现的文本字段。
 // 幂等；reviewStatus 及其它字段一律不动；预检任一 id 缺失即整体中止（不做半截写入）。
 //
 // 用法：
@@ -12,7 +12,7 @@
 import fs from 'node:fs';
 import path from 'node:path';
 
-const FIELDS = ['oneLineZh', 'keywordsZh', 'oneLineEn', 'keywordsEn'];
+const FIELDS = ['oneLineZh', 'keywordsZh', 'oneLineEn', 'keywordsEn', 'oneLineEs', 'keywordsEs'];
 const INDEX = 'public/data/philosophers.index.json';
 const DETAIL_DIR = 'public/data/philosophers';
 

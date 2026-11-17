@@ -266,6 +266,78 @@ export function lintItems(items, works, declBody = "") {
   return { reds, needDecl, warns, perPerson };
 }
 
+// 中华块内核门（2026-08-18 postmortem §3.2）：
+// 形态像「《篇目》：某某段」不等于真的定位。锚必须二选一：
+//   1) 含可数章节/卷/篇/sec 编号；或
+//   2) 锚串与本条逐字摘录有至少 4 个连续实字重叠。
+// 该函数只判断 locator 的内核，不替代上面的书名/篇名/声明形态门。
+export const CORE_NUMBER_ANCHOR = /(?:第\s*[0-9一二三四五六七八九十百千]+\s*(?:章|卷|篇)|卷\s*[0-9一二三四五六七八九十百千]+|篇\s*[0-9一二三四五六七八九十百千]+|\bsec(?:tion)?\.?\s*[0-9IVXLCDM]+)/i;
+
+const normalizeAnchorText = (value) => String(value || "")
+  .replace(/[\s，。；：、！？（）「」『』《》〈〉“”‘’,.!?;:()[\]{}"'—–-]/g, "");
+
+export function longestContiguousOverlap(left, right) {
+  const a = normalizeAnchorText(left);
+  const b = normalizeAnchorText(right);
+  if (!a || !b) return 0;
+  let best = 0;
+  const table = new Array(b.length + 1).fill(0);
+  for (let i = 1; i <= a.length; i++) {
+    const next = new Array(b.length + 1).fill(0);
+    for (let j = 1; j <= b.length; j++) {
+      if (a[i - 1] === b[j - 1]) {
+        next[j] = table[j - 1] + 1;
+        if (next[j] > best) best = next[j];
+      }
+    }
+    for (let j = 0; j <= b.length; j++) table[j] = next[j];
+  }
+  return best;
+}
+
+export function locatorAnchorText(locator) {
+  const text = String(locator || "");
+  const colon = Math.max(text.lastIndexOf("："), text.lastIndexOf(":"));
+  return colon >= 0 ? text.slice(colon + 1).trim() : text.trim();
+}
+
+export function coreAnchorStatus(source = {}) {
+  const locator = String(source.locator || "");
+  if (!locator.trim()) return { ok: false, kind: "empty", overlap: 0 };
+  if (CORE_NUMBER_ANCHOR.test(locator)) return { ok: true, kind: "number", overlap: 0 };
+  const overlap = longestContiguousOverlap(locatorAnchorText(locator), source.publicDomainExcerptZh || "");
+  if (overlap >= 4) return { ok: true, kind: "excerpt", overlap };
+  return { ok: false, kind: "missing", overlap };
+}
+
+export function lintCoreAnchors(items, civilizations = new Map()) {
+  const reds = [];
+  for (const person of items) {
+    if (civilizations.size && civilizations.get(person.philosopherId) !== "chinese") continue;
+    for (const problem of person.problems || []) {
+      for (const claim of problem.claims || []) {
+        for (const ev of claim.evidence || []) {
+          const source = ev.source || {};
+          const locator = String(source.locator || "");
+          const status = coreAnchorStatus(source);
+          if (!locator.trim()) continue; // 形态门负责报告空 locator
+          if (status.ok) continue;
+          reds.push({
+            pid: person.philosopherId,
+            code: "core_anchor_missing",
+            at: `${person.philosopherId} / ${ev.id || "(no-id)"}`,
+            loc: locator,
+            msg: source.publicDomainExcerptZh
+              ? `锚串与逐字摘录最长连续重叠仅 ${status.overlap} 字（需 ≥4）`
+              : "无可数编号，且没有 publicDomainExcerptZh 供连续重叠核验",
+          });
+        }
+      }
+    }
+  }
+  return reds;
+}
+
 function main() {
   const args = process.argv.slice(2);
   const batchDir = args.find((a) => !a.startsWith("--"));
@@ -292,7 +364,19 @@ function main() {
 
   const decl = loadDeclarations(batchDir);
   const items = readJson(tsPath).items || [];
-  const { reds, needDecl, warns, perPerson } = lintItems(items, works, decl.body);
+  const shape = lintItems(items, works, decl.body);
+  const civilizations = new Map();
+  try {
+    const index = readJson(path.join(path.dirname(worksPath), "philosophers.index.json"));
+    for (const philosopher of index) civilizations.set(philosopher.id, philosopher.civilization);
+  } catch { /* 缺索引时只跑形态门，避免把非中华块误判 */ }
+  const coreReds = lintCoreAnchors(items, civilizations);
+  const reds = [...shape.reds, ...coreReds];
+  const { needDecl, warns, perPerson } = shape;
+  for (const finding of coreReds) {
+    const stat = perPerson.get(finding.pid);
+    if (stat) stat.red++;
+  }
 
   // —— 报告 ——
   const totalEv = [...perPerson.values()].reduce((a, b) => a + b.total, 0);

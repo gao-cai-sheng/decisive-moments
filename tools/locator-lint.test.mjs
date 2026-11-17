@@ -1,5 +1,5 @@
 import { describe, expect, it } from "vitest";
-import { lintItems } from "./locator-lint.mjs";
+import { lintCoreAnchors, lintItems } from "./locator-lint.mjs";
 
 // 这些用例锁的是 2026-07-24 U5/U6/U7 盲审的真实结论：
 // 三道旧门对 herzen/fedorov/bulgakov 全绿放行，本门必须抓住它们，
@@ -135,5 +135,51 @@ describe("locator-lint 形态门", () => {
   it("空 locator 直接 RED", () => {
     const { reds } = lintItems([person("peter-kropotkin", [["kropotkin-mutual-aid", ""]])], works);
     expect(codes(reds)).toEqual(["locator_empty"]);
+  });
+});
+
+describe("locator-lint 中华块内核门", () => {
+  const chinese = new Map([["c1", "chinese"], ["c8", "chinese"]]);
+
+  it("放行 C1 式原文锚：锚串与逐字摘录连续重叠", () => {
+    const items = [{
+      philosopherId: "c1",
+      problems: [{ claims: [{ evidence: [{
+        id: "c1:evidence:001",
+        source: {
+          locator: "The Book of Lord Shang, 《商君书·更法》：治世不一道，便国不必法古段",
+          publicDomainExcerptZh: "治世不一道，便国不必法古",
+          excerptStatus: "public_domain",
+        },
+      }] }] }],
+    }];
+    expect(lintCoreAnchors(items, chinese)).toEqual([]);
+  });
+
+  it("拦住 C8 式概括锚：无编号且没有逐字摘录", () => {
+    const items = [{
+      philosopherId: "c8",
+      problems: [{ claims: [{ evidence: [{
+        id: "c8:evidence:001",
+        source: {
+          locator: "Knowing Words, 《知言·性理》：性与理相即段",
+          excerptStatus: "summary_only",
+        },
+      }] }] }],
+    }];
+    const reds = lintCoreAnchors(items, chinese);
+    expect(reds).toHaveLength(1);
+    expect(reds[0].code).toBe("core_anchor_missing");
+  });
+
+  it("放行有明确编号的定位，即使本条暂未补逐字摘录", () => {
+    const items = [{
+      philosopherId: "c8",
+      problems: [{ claims: [{ evidence: [{
+        id: "c8:evidence:002",
+        source: { locator: "Knowing Words, 《知言》：第七章段", excerptStatus: "summary_only" },
+      }] }] }],
+    }];
+    expect(lintCoreAnchors(items, chinese)).toEqual([]);
   });
 });
