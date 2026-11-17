@@ -1,0 +1,53 @@
+{
+  "id": "friedrich-ratzel",
+  "tier": "seed",
+  "names": {
+    "zh": "弗里德里希·拉采尔",
+    "en": "Friedrich Ratzel"
+  },
+  "life": {
+    "birth": 1844,
+    "death": 1904,
+    "display": "1844—1904"
+  },
+  "civilization": "european_modern",
+  "traditions": [
+    "political_geography",
+    "evolutionism"
+  ],
+  "periods": [
+    "modern"
+  ],
+  "themes": [
+    "politics",
+    "knowledge"
+  ],
+  "keywordsZh": [
+    "人类地理学",
+    "生存空间",
+    "政治地理学",
+    "国家有机体"
+  ],
+  "oneLineZh": "人类地理学与政治地理学奠基人，把国家看作与土地相连的有机体，提出“生存空间”概念。",
+  "influenceWeight": 1,
+  "reviewStatus": "draft",
+  "summaryZh": "弗里德里希·拉采尔（1844—1904），德国地理学家与民族志学者，早年学习动物学，受海克尔一系的进化观念影响。《人类地理学》（1882—1891）研究环境与人类分布、迁移的关系；《政治地理学》（1897）把国家比作扎根于土地的有机体，1901 年的论文提出“生存空间”。这一概念后来被地缘政治学与纳粹扩张主义挪用，其学说的责任归属至今有争论。本条仅作 seed 档基本定位，后续若升级标准档，需要重新做著作、论点与 evidence 研究。",
+  "works": [
+    "friedrich-ratzel-anthropogeographie",
+    "friedrich-ratzel-politische-geographie"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S001",
+      "url": "https://en.wikipedia.org/wiki/Friedrich_Ratzel",
+      "noteZh": "来源条目：Wikipedia: Friedrich Ratzel；用于核验人物身份、生卒、代表著作和思想史定位。"
+    }
+  ],
+  "oneLineEn": "Founder of anthropogeography and political geography; saw the state as an organism tied to soil and coined Lebensraum.",
+  "keywordsEn": [
+    "anthropogeography",
+    "Lebensraum",
+    "political geography",
+    "state as organism"
+  ]
+}

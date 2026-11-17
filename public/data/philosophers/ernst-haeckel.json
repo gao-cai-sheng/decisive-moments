@@ -1,0 +1,55 @@
+{
+  "id": "ernst-haeckel",
+  "tier": "seed",
+  "names": {
+    "zh": "恩斯特·海克尔",
+    "en": "Ernst Haeckel"
+  },
+  "life": {
+    "birth": 1834,
+    "death": 1919,
+    "display": "1834—1919"
+  },
+  "civilization": "european_modern",
+  "traditions": [
+    "monism",
+    "evolutionism",
+    "naturalism"
+  ],
+  "periods": [
+    "modern"
+  ],
+  "themes": [
+    "metaphysics",
+    "religion",
+    "knowledge"
+  ],
+  "keywordsZh": [
+    "一元论",
+    "重演律",
+    "生态学",
+    "宇宙之谜"
+  ],
+  "oneLineZh": "德国动物学家，把达尔文学说扩展为否定心物二元的一元论世界观。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "恩斯特·海克尔（1834—1919），德国动物学家，耶拿大学教授，达尔文学说在德语世界最有力的传播者。《普通形态学》（1866）提出“个体发育重演系统发育”，并创造了“生态学”“门”等术语。《宇宙之谜》（1899）主张物质与精神同属一个实体的一元论，援引斯宾诺莎，批评康德的二元划分与教会教义。他的种族与优生言论也使其成为后世争议人物。本条仅作 seed 档基本定位，后续若升级标准档，需要重新做著作、论点与 evidence 研究。",
+  "works": [
+    "ernst-haeckel-generelle-morphologie",
+    "ernst-haeckel-weltraetsel"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S001",
+      "url": "https://en.wikipedia.org/wiki/Ernst_Haeckel",
+      "noteZh": "来源条目：Wikipedia: Ernst Haeckel；用于核验人物身份、生卒、代表著作和思想史定位。"
+    }
+  ],
+  "oneLineEn": "German zoologist who expanded Darwinism into a monist worldview denying any dualism of mind and matter.",
+  "keywordsEn": [
+    "monism",
+    "recapitulation theory",
+    "ecology",
+    "riddle of the universe"
+  ]
+}

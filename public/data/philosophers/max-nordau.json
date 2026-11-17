@@ -1,0 +1,54 @@
+{
+  "id": "max-nordau",
+  "tier": "seed",
+  "names": {
+    "zh": "马克斯·诺尔道",
+    "en": "Max Nordau"
+  },
+  "life": {
+    "birth": 1849,
+    "death": 1923,
+    "display": "1849—1923"
+  },
+  "civilization": "european_modern",
+  "traditions": [
+    "cultural_criticism",
+    "zionism"
+  ],
+  "periods": [
+    "modern"
+  ],
+  "themes": [
+    "aesthetics",
+    "politics",
+    "ethics"
+  ],
+  "keywordsZh": [
+    "退化",
+    "世纪末",
+    "文化批评",
+    "犹太复国主义"
+  ],
+  "oneLineZh": "医生出身的文化批评家，以“退化”诊断世纪末的艺术与思想，后与赫茨尔共同创立犹太复国主义组织。",
+  "influenceWeight": 1,
+  "reviewStatus": "draft",
+  "summaryZh": "马克斯·诺尔道（1849—1923），生于佩斯的犹太裔医生、作家与社会批评家。《文明人类的习俗谎言》（1883）抨击宗教、君主制与婚姻制度的虚伪；《退化》（1892）借用精神病学术语，把尼采、托尔斯泰、瓦格纳、易卜生等人的作品判为病态的征候，引起广泛争论。1890 年代起他与赫茨尔共同创立犹太复国主义组织，并提出“强健的犹太人”主张。本条仅作 seed 档基本定位，后续若升级标准档，需要重新做著作、论点与 evidence 研究。",
+  "works": [
+    "max-nordau-entartung",
+    "max-nordau-conventionellen-luegen"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S001",
+      "url": "https://en.wikipedia.org/wiki/Max_Nordau",
+      "noteZh": "来源条目：Wikipedia: Max Nordau；用于核验人物身份、生卒、代表著作和思想史定位。"
+    }
+  ],
+  "oneLineEn": "Physician turned critic who diagnosed fin-de-siècle art and thought as “degeneration,” later co-founding the Zionist Organization with Herzl.",
+  "keywordsEn": [
+    "degeneration",
+    "fin de siècle",
+    "cultural criticism",
+    "Zionism"
+  ]
+}

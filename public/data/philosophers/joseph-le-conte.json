@@ -1,0 +1,54 @@
+{
+  "id": "joseph-le-conte",
+  "tier": "seed",
+  "names": {
+    "zh": "约瑟夫·勒孔特",
+    "en": "Joseph LeConte"
+  },
+  "life": {
+    "birth": 1823,
+    "death": 1901,
+    "display": "1823—1901"
+  },
+  "civilization": "american",
+  "traditions": [
+    "evolutionism",
+    "philosophy_of_science"
+  ],
+  "periods": [
+    "modern"
+  ],
+  "themes": [
+    "religion",
+    "knowledge",
+    "metaphysics"
+  ],
+  "keywordsZh": [
+    "进化有神论",
+    "科学与宗教",
+    "加州大学",
+    "种族观"
+  ],
+  "oneLineZh": "美国地质学家，主张进化是神在自然中持续创造的方式，是进化有神论的代表。",
+  "influenceWeight": 1,
+  "reviewStatus": "draft",
+  "summaryZh": "约瑟夫·勒孔特（1823—1901），美国医生与地质学家，曾从学于阿加西，后为加州大学伯克利分校最早的教授之一，罗伊斯曾受教于他。《进化：其性质、证据及与宗教思想的关系》（1888）把进化定义为依内在力量连续进步的变化，并主张神内在于自然过程之中。他同时持有种族等级与优生观点，这部分主张今天受到明确批评。本条仅作 seed 档基本定位，后续若升级标准档，需要重新做著作、论点与 evidence 研究。",
+  "works": [
+    "joseph-le-conte-evolution-and-religious-thought",
+    "joseph-le-conte-religion-and-science"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S001",
+      "url": "https://en.wikipedia.org/wiki/Joseph_LeConte",
+      "noteZh": "来源条目：Wikipedia: Joseph LeConte；用于核验人物身份、生卒、代表著作和思想史定位。"
+    }
+  ],
+  "oneLineEn": "American geologist who held evolution to be God's continuous mode of creation; a leading evolutionary theist.",
+  "keywordsEn": [
+    "evolutionary theism",
+    "science and religion",
+    "University of California",
+    "racial views"
+  ]
+}

@@ -9946,5 +9946,189 @@
     "titleEn": "Vân đài loại ngữ / Classified Sayings from the Van Terrace",
     "originalTitle": "Vân đài loại ngữ / 芸臺類語",
     "noteZh": "黎贵惇1773年编纂的百科式著作，体现越南儒学、理气论与博物知识体系。"
+  },
+  {
+    "id": "herbert-spencer-social-statics",
+    "philosopherId": "herbert-spencer",
+    "titleZh": "《社会静力学》",
+    "titleEn": "Social Statics",
+    "yearDisplay": "1851",
+    "noteZh": "赫伯特·斯宾塞身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "herbert-spencer-first-principles",
+    "philosopherId": "herbert-spencer",
+    "titleZh": "《第一原理》",
+    "titleEn": "First Principles",
+    "yearDisplay": "1862",
+    "noteZh": "赫伯特·斯宾塞身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "william-graham-sumner-what-social-classes-owe",
+    "philosopherId": "william-graham-sumner",
+    "titleZh": "《社会各阶级彼此应负什么责任》",
+    "titleEn": "What Social Classes Owe to Each Other",
+    "yearDisplay": "1883",
+    "noteZh": "威廉·格雷厄姆·萨姆纳身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "william-graham-sumner-folkways",
+    "philosopherId": "william-graham-sumner",
+    "titleZh": "《民俗论》",
+    "titleEn": "Folkways",
+    "yearDisplay": "1906",
+    "noteZh": "威廉·格雷厄姆·萨姆纳身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "thorstein-veblen-theory-of-the-leisure-class",
+    "philosopherId": "thorstein-veblen",
+    "titleZh": "《有闲阶级论》",
+    "titleEn": "The Theory of the Leisure Class",
+    "yearDisplay": "1899",
+    "noteZh": "托尔斯坦·凡勃伦身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "thorstein-veblen-theory-of-business-enterprise",
+    "philosopherId": "thorstein-veblen",
+    "titleZh": "《企业论》",
+    "titleEn": "The Theory of Business Enterprise",
+    "yearDisplay": "1904",
+    "noteZh": "托尔斯坦·凡勃伦身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "lester-frank-ward-dynamic-sociology",
+    "philosopherId": "lester-frank-ward",
+    "titleZh": "《动态社会学》",
+    "titleEn": "Dynamic Sociology",
+    "yearDisplay": "1883",
+    "noteZh": "莱斯特·沃德身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "lester-frank-ward-psychic-factors-of-civilization",
+    "philosopherId": "lester-frank-ward",
+    "titleZh": "《文明的心理因素》",
+    "titleEn": "The Psychic Factors of Civilization",
+    "yearDisplay": "1893",
+    "noteZh": "莱斯特·沃德身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "john-fiske-outlines-of-cosmic-philosophy",
+    "philosopherId": "john-fiske",
+    "titleZh": "《宇宙哲学大纲》",
+    "titleEn": "Outlines of Cosmic Philosophy",
+    "yearDisplay": "1874",
+    "noteZh": "约翰·菲斯克身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "john-fiske-destiny-of-man",
+    "philosopherId": "john-fiske",
+    "titleZh": "《从起源看人的命运》",
+    "titleEn": "The Destiny of Man Viewed in the Light of His Origin",
+    "yearDisplay": "1884",
+    "noteZh": "约翰·菲斯克身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "charles-loring-brace-dangerous-classes-of-new-york",
+    "philosopherId": "charles-loring-brace",
+    "titleZh": "《纽约的危险阶级》",
+    "titleEn": "The Dangerous Classes of New York",
+    "yearDisplay": "1872",
+    "noteZh": "查尔斯·洛林·布雷斯身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "charles-loring-brace-gesta-christi",
+    "philosopherId": "charles-loring-brace",
+    "titleZh": "《基督的事迹》",
+    "titleEn": "Gesta Christi",
+    "yearDisplay": "1882",
+    "noteZh": "查尔斯·洛林·布雷斯身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "joseph-le-conte-evolution-and-religious-thought",
+    "philosopherId": "joseph-le-conte",
+    "titleZh": "《进化：其性质、证据及与宗教思想的关系》",
+    "titleEn": "Evolution: Its Nature, Its Evidences, and Its Relation to Religious Thought",
+    "yearDisplay": "1888",
+    "noteZh": "约瑟夫·勒孔特身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "joseph-le-conte-religion-and-science",
+    "philosopherId": "joseph-le-conte",
+    "titleZh": "《宗教与科学》",
+    "titleEn": "Religion and Science",
+    "yearDisplay": "1874",
+    "noteZh": "约瑟夫·勒孔特身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "ernst-haeckel-generelle-morphologie",
+    "philosopherId": "ernst-haeckel",
+    "titleZh": "《普通形态学》",
+    "titleEn": "General Morphology of Organisms",
+    "originalTitle": "Generelle Morphologie der Organismen",
+    "yearDisplay": "1866",
+    "noteZh": "恩斯特·海克尔身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "ernst-haeckel-weltraetsel",
+    "philosopherId": "ernst-haeckel",
+    "titleZh": "《宇宙之谜》",
+    "titleEn": "The Riddle of the Universe",
+    "originalTitle": "Die Welträthsel",
+    "yearDisplay": "1899",
+    "noteZh": "恩斯特·海克尔身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "friedrich-ratzel-anthropogeographie",
+    "philosopherId": "friedrich-ratzel",
+    "titleZh": "《人类地理学》",
+    "titleEn": "Anthropogeography",
+    "originalTitle": "Anthropogeographie",
+    "yearDisplay": "1882—1891",
+    "noteZh": "弗里德里希·拉采尔身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "friedrich-ratzel-politische-geographie",
+    "philosopherId": "friedrich-ratzel",
+    "titleZh": "《政治地理学》",
+    "titleEn": "Political Geography",
+    "originalTitle": "Politische Geographie",
+    "yearDisplay": "1897",
+    "noteZh": "弗里德里希·拉采尔身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "houston-stewart-chamberlain-grundlagen-des-neunzehnten-jahrhunderts",
+    "philosopherId": "houston-stewart-chamberlain",
+    "titleZh": "《十九世纪的基础》",
+    "titleEn": "The Foundations of the Nineteenth Century",
+    "originalTitle": "Die Grundlagen des neunzehnten Jahrhunderts",
+    "yearDisplay": "1899",
+    "noteZh": "休斯顿·斯图尔特·张伯伦身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "houston-stewart-chamberlain-immanuel-kant",
+    "philosopherId": "houston-stewart-chamberlain",
+    "titleZh": "《康德》",
+    "titleEn": "Immanuel Kant",
+    "originalTitle": "Immanuel Kant: Die Persönlichkeit als Einführung in das Werk",
+    "yearDisplay": "1905",
+    "noteZh": "休斯顿·斯图尔特·张伯伦身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "max-nordau-entartung",
+    "philosopherId": "max-nordau",
+    "titleZh": "《退化》",
+    "titleEn": "Degeneration",
+    "originalTitle": "Entartung",
+    "yearDisplay": "1892",
+    "noteZh": "马克斯·诺尔道身份层代表作或核心关联文本，用于 seed 档基本定位。"
+  },
+  {
+    "id": "max-nordau-conventionellen-luegen",
+    "philosopherId": "max-nordau",
+    "titleZh": "《文明人类的习俗谎言》",
+    "titleEn": "The Conventional Lies of Our Civilization",
+    "originalTitle": "Die conventionellen Lügen der Kulturmenschheit",
+    "yearDisplay": "1883",
+    "noteZh": "马克斯·诺尔道身份层代表作或核心关联文本，用于 seed 档基本定位。"
   }
 ]

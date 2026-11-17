@@ -25136,5 +25136,469 @@
       "enciclopedismo",
       "neoconfucianismo Song-Ming"
     ]
+  },
+  {
+    "id": "herbert-spencer",
+    "tier": "seed",
+    "names": {
+      "zh": "赫伯特·斯宾塞",
+      "en": "Herbert Spencer"
+    },
+    "life": {
+      "birth": 1820,
+      "death": 1903,
+      "display": "1820—1903"
+    },
+    "civilization": "european_modern",
+    "traditions": [
+      "evolutionism",
+      "classical_liberalism",
+      "sociology"
+    ],
+    "periods": [
+      "modern"
+    ],
+    "themes": [
+      "ethics",
+      "politics",
+      "knowledge"
+    ],
+    "keywordsZh": [
+      "综合哲学",
+      "适者生存",
+      "社会有机体",
+      "自由放任"
+    ],
+    "oneLineZh": "以进化原理统摄自然、心灵与社会的综合哲学家，“适者生存”一语的提出者。",
+    "influenceWeight": 3,
+    "reviewStatus": "draft",
+    "oneLineEn": "Built a synthetic philosophy uniting nature, mind, and society under evolution; coined “survival of the fittest.”",
+    "keywordsEn": [
+      "synthetic philosophy",
+      "survival of the fittest",
+      "social organism",
+      "laissez-faire"
+    ]
+  },
+  {
+    "id": "william-graham-sumner",
+    "tier": "seed",
+    "names": {
+      "zh": "威廉·格雷厄姆·萨姆纳",
+      "en": "William Graham Sumner"
+    },
+    "life": {
+      "birth": 1840,
+      "death": 1910,
+      "display": "1840—1910"
+    },
+    "civilization": "american",
+    "traditions": [
+      "classical_liberalism",
+      "sociology",
+      "social_theory"
+    ],
+    "periods": [
+      "modern"
+    ],
+    "themes": [
+      "politics",
+      "freedom",
+      "ethics"
+    ],
+    "keywordsZh": [
+      "民俗",
+      "被遗忘的人",
+      "自由放任",
+      "族群中心主义"
+    ],
+    "oneLineZh": "耶鲁社会学开创者，以民俗论解释道德的来源，并为自由放任与反帝国主义辩护。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft",
+    "oneLineEn": "Yale's pioneering sociologist; traced morals to folkways and defended laissez-faire and anti-imperialism.",
+    "keywordsEn": [
+      "folkways",
+      "the forgotten man",
+      "laissez-faire",
+      "ethnocentrism"
+    ]
+  },
+  {
+    "id": "thorstein-veblen",
+    "tier": "seed",
+    "names": {
+      "zh": "托尔斯坦·凡勃伦",
+      "en": "Thorstein Veblen"
+    },
+    "life": {
+      "birth": 1857,
+      "death": 1929,
+      "display": "1857—1929"
+    },
+    "civilization": "american",
+    "traditions": [
+      "institutional_economics",
+      "social_theory",
+      "political_economy"
+    ],
+    "periods": [
+      "modern"
+    ],
+    "themes": [
+      "politics",
+      "justice"
+    ],
+    "keywordsZh": [
+      "炫耀性消费",
+      "有闲阶级",
+      "制度经济学",
+      "作业本能"
+    ],
+    "oneLineZh": "制度经济学奠基人，以“炫耀性消费”剖析有闲阶级，并区分产业与营利。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft",
+    "oneLineEn": "Founder of institutional economics; dissected the leisure class through conspicuous consumption and split industry from business.",
+    "keywordsEn": [
+      "conspicuous consumption",
+      "leisure class",
+      "institutional economics",
+      "instinct of workmanship"
+    ]
+  },
+  {
+    "id": "lester-frank-ward",
+    "tier": "seed",
+    "names": {
+      "zh": "莱斯特·沃德",
+      "en": "Lester Frank Ward"
+    },
+    "life": {
+      "birth": 1841,
+      "death": 1913,
+      "display": "1841—1913"
+    },
+    "civilization": "american",
+    "traditions": [
+      "sociology",
+      "positivism",
+      "social_theory"
+    ],
+    "periods": [
+      "modern"
+    ],
+    "themes": [
+      "politics",
+      "knowledge",
+      "justice"
+    ],
+    "keywordsZh": [
+      "动态社会学",
+      "社会导进",
+      "有目的的进化",
+      "教育平等"
+    ],
+    "oneLineZh": "美国社会学先驱，主张人类可凭智识与教育有目的地引导社会进化，反对自由放任。",
+    "influenceWeight": 1,
+    "reviewStatus": "draft",
+    "oneLineEn": "Pioneer of American sociology; held that intelligence and education can purposively steer social evolution, against laissez-faire.",
+    "keywordsEn": [
+      "dynamic sociology",
+      "social telesis",
+      "purposive evolution",
+      "equal education"
+    ]
+  },
+  {
+    "id": "john-fiske",
+    "tier": "seed",
+    "names": {
+      "zh": "约翰·菲斯克",
+      "en": "John Fiske"
+    },
+    "life": {
+      "birth": 1842,
+      "death": 1901,
+      "display": "1842—1901"
+    },
+    "civilization": "american",
+    "traditions": [
+      "evolutionism",
+      "american_philosophy"
+    ],
+    "periods": [
+      "modern"
+    ],
+    "themes": [
+      "metaphysics",
+      "religion",
+      "knowledge"
+    ],
+    "keywordsZh": [
+      "宇宙哲学",
+      "有神进化论",
+      "幼年期延长",
+      "斯宾塞主义"
+    ],
+    "oneLineZh": "斯宾塞进化哲学在美国的主要阐释者，力图调和进化论与有神信仰。",
+    "influenceWeight": 1,
+    "reviewStatus": "draft",
+    "oneLineEn": "Chief American expositor of Spencer's evolutionary philosophy, seeking to reconcile evolution with theism.",
+    "keywordsEn": [
+      "cosmic philosophy",
+      "theistic evolution",
+      "prolonged infancy",
+      "Spencerianism"
+    ]
+  },
+  {
+    "id": "charles-loring-brace",
+    "tier": "seed",
+    "names": {
+      "zh": "查尔斯·洛林·布雷斯",
+      "en": "Charles Loring Brace"
+    },
+    "life": {
+      "birth": 1826,
+      "death": 1890,
+      "display": "1826—1890"
+    },
+    "civilization": "american",
+    "traditions": [
+      "social_ethics",
+      "evolutionism"
+    ],
+    "periods": [
+      "modern"
+    ],
+    "themes": [
+      "ethics",
+      "religion",
+      "justice"
+    ],
+    "keywordsZh": [
+      "儿童援助协会",
+      "孤儿列车",
+      "危险阶级",
+      "基督教进化观"
+    ],
+    "oneLineZh": "美国社会改革者，创办儿童援助协会，把进化观念与基督教慈善结合起来理解贫困。",
+    "influenceWeight": 1,
+    "reviewStatus": "draft",
+    "oneLineEn": "American social reformer who founded the Children's Aid Society and read poverty through evolution and Christian charity.",
+    "keywordsEn": [
+      "Children's Aid Society",
+      "orphan trains",
+      "the dangerous classes",
+      "Christian evolutionism"
+    ]
+  },
+  {
+    "id": "joseph-le-conte",
+    "tier": "seed",
+    "names": {
+      "zh": "约瑟夫·勒孔特",
+      "en": "Joseph LeConte"
+    },
+    "life": {
+      "birth": 1823,
+      "death": 1901,
+      "display": "1823—1901"
+    },
+    "civilization": "american",
+    "traditions": [
+      "evolutionism",
+      "philosophy_of_science"
+    ],
+    "periods": [
+      "modern"
+    ],
+    "themes": [
+      "religion",
+      "knowledge",
+      "metaphysics"
+    ],
+    "keywordsZh": [
+      "进化有神论",
+      "科学与宗教",
+      "加州大学",
+      "种族观"
+    ],
+    "oneLineZh": "美国地质学家，主张进化是神在自然中持续创造的方式，是进化有神论的代表。",
+    "influenceWeight": 1,
+    "reviewStatus": "draft",
+    "oneLineEn": "American geologist who held evolution to be God's continuous mode of creation; a leading evolutionary theist.",
+    "keywordsEn": [
+      "evolutionary theism",
+      "science and religion",
+      "University of California",
+      "racial views"
+    ]
+  },
+  {
+    "id": "ernst-haeckel",
+    "tier": "seed",
+    "names": {
+      "zh": "恩斯特·海克尔",
+      "en": "Ernst Haeckel"
+    },
+    "life": {
+      "birth": 1834,
+      "death": 1919,
+      "display": "1834—1919"
+    },
+    "civilization": "european_modern",
+    "traditions": [
+      "monism",
+      "evolutionism",
+      "naturalism"
+    ],
+    "periods": [
+      "modern"
+    ],
+    "themes": [
+      "metaphysics",
+      "religion",
+      "knowledge"
+    ],
+    "keywordsZh": [
+      "一元论",
+      "重演律",
+      "生态学",
+      "宇宙之谜"
+    ],
+    "oneLineZh": "德国动物学家，把达尔文学说扩展为否定心物二元的一元论世界观。",
+    "influenceWeight": 2,
+    "reviewStatus": "draft",
+    "oneLineEn": "German zoologist who expanded Darwinism into a monist worldview denying any dualism of mind and matter.",
+    "keywordsEn": [
+      "monism",
+      "recapitulation theory",
+      "ecology",
+      "riddle of the universe"
+    ]
+  },
+  {
+    "id": "friedrich-ratzel",
+    "tier": "seed",
+    "names": {
+      "zh": "弗里德里希·拉采尔",
+      "en": "Friedrich Ratzel"
+    },
+    "life": {
+      "birth": 1844,
+      "death": 1904,
+      "display": "1844—1904"
+    },
+    "civilization": "european_modern",
+    "traditions": [
+      "political_geography",
+      "evolutionism"
+    ],
+    "periods": [
+      "modern"
+    ],
+    "themes": [
+      "politics",
+      "knowledge"
+    ],
+    "keywordsZh": [
+      "人类地理学",
+      "生存空间",
+      "政治地理学",
+      "国家有机体"
+    ],
+    "oneLineZh": "人类地理学与政治地理学奠基人，把国家看作与土地相连的有机体，提出“生存空间”概念。",
+    "influenceWeight": 1,
+    "reviewStatus": "draft",
+    "oneLineEn": "Founder of anthropogeography and political geography; saw the state as an organism tied to soil and coined Lebensraum.",
+    "keywordsEn": [
+      "anthropogeography",
+      "Lebensraum",
+      "political geography",
+      "state as organism"
+    ]
+  },
+  {
+    "id": "houston-stewart-chamberlain",
+    "tier": "seed",
+    "names": {
+      "zh": "休斯顿·斯图尔特·张伯伦",
+      "en": "Houston Stewart Chamberlain"
+    },
+    "life": {
+      "birth": 1855,
+      "death": 1927,
+      "display": "1855—1927"
+    },
+    "civilization": "european_modern",
+    "traditions": [
+      "racial_ideology",
+      "german_nationalism"
+    ],
+    "periods": [
+      "modern"
+    ],
+    "themes": [
+      "politics",
+      "religion"
+    ],
+    "keywordsZh": [
+      "十九世纪的基础",
+      "种族主义",
+      "反犹主义",
+      "日耳曼主义"
+    ],
+    "oneLineZh": "英裔德籍作家，以种族决定论与反犹主义重写欧洲史，是纳粹意识形态的思想先驱。",
+    "influenceWeight": 1,
+    "reviewStatus": "draft",
+    "oneLineEn": "British-born German writer who recast European history through racial determinism and antisemitism; a precursor of Nazi ideology.",
+    "keywordsEn": [
+      "Foundations of the Nineteenth Century",
+      "racialism",
+      "antisemitism",
+      "Germanism"
+    ]
+  },
+  {
+    "id": "max-nordau",
+    "tier": "seed",
+    "names": {
+      "zh": "马克斯·诺尔道",
+      "en": "Max Nordau"
+    },
+    "life": {
+      "birth": 1849,
+      "death": 1923,
+      "display": "1849—1923"
+    },
+    "civilization": "european_modern",
+    "traditions": [
+      "cultural_criticism",
+      "zionism"
+    ],
+    "periods": [
+      "modern"
+    ],
+    "themes": [
+      "aesthetics",
+      "politics",
+      "ethics"
+    ],
+    "keywordsZh": [
+      "退化",
+      "世纪末",
+      "文化批评",
+      "犹太复国主义"
+    ],
+    "oneLineZh": "医生出身的文化批评家，以“退化”诊断世纪末的艺术与思想，后与赫茨尔共同创立犹太复国主义组织。",
+    "influenceWeight": 1,
+    "reviewStatus": "draft",
+    "oneLineEn": "Physician turned critic who diagnosed fin-de-siècle art and thought as “degeneration,” later co-founding the Zionist Organization with Herzl.",
+    "keywordsEn": [
+      "degeneration",
+      "fin de siècle",
+      "cultural criticism",
+      "Zionism"
+    ]
   }
 ]

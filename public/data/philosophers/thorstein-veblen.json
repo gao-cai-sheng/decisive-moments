@@ -1,0 +1,54 @@
+{
+  "id": "thorstein-veblen",
+  "tier": "seed",
+  "names": {
+    "zh": "托尔斯坦·凡勃伦",
+    "en": "Thorstein Veblen"
+  },
+  "life": {
+    "birth": 1857,
+    "death": 1929,
+    "display": "1857—1929"
+  },
+  "civilization": "american",
+  "traditions": [
+    "institutional_economics",
+    "social_theory",
+    "political_economy"
+  ],
+  "periods": [
+    "modern"
+  ],
+  "themes": [
+    "politics",
+    "justice"
+  ],
+  "keywordsZh": [
+    "炫耀性消费",
+    "有闲阶级",
+    "制度经济学",
+    "作业本能"
+  ],
+  "oneLineZh": "制度经济学奠基人，以“炫耀性消费”剖析有闲阶级，并区分产业与营利。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "托尔斯坦·凡勃伦（1857—1929），美国经济学家与社会学家，耶鲁大学博士，曾任教于芝加哥大学。《有闲阶级论》（1899）提出炫耀性消费与炫耀性有闲，把消费解释为地位竞争；《企业论》（1904）区分创造实物的“产业”与追逐金钱收益的“营利”。他用演化与习惯的观点批评新古典经济学的理性人假设，开创了制度经济学传统。本条仅作 seed 档基本定位，后续若升级标准档，需要重新做著作、论点与 evidence 研究。",
+  "works": [
+    "thorstein-veblen-theory-of-the-leisure-class",
+    "thorstein-veblen-theory-of-business-enterprise"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S001",
+      "url": "https://en.wikipedia.org/wiki/Thorstein_Veblen",
+      "noteZh": "来源条目：Wikipedia: Thorstein Veblen；用于核验人物身份、生卒、代表著作和思想史定位。"
+    }
+  ],
+  "oneLineEn": "Founder of institutional economics; dissected the leisure class through conspicuous consumption and split industry from business.",
+  "keywordsEn": [
+    "conspicuous consumption",
+    "leisure class",
+    "institutional economics",
+    "instinct of workmanship"
+  ]
+}

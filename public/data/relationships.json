@@ -14080,5 +14080,272 @@
     ],
     "noteZh": "皮尔士反对把普遍怀疑当作探究的起点：人无法一边继续生活和思考，一边真正放下全部信念，纸面上的怀疑不是真实的怀疑；探究只能由实际遭遇的疑难启动，并在共同体的可错检验中推进。",
     "reviewStatus": "draft"
+  },
+  {
+    "id": "herbert-spencer-william-graham-sumner-influence",
+    "from": "herbert-spencer",
+    "to": "william-graham-sumner",
+    "type": "influence",
+    "strength": 3,
+    "confidence": "high",
+    "themeIds": [
+      "politics"
+    ],
+    "noteZh": "萨姆纳把斯宾塞的进化社会学与自由放任主张引入耶鲁课堂，用《社会学研究》作教材。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "herbert-spencer-john-fiske-influence",
+    "from": "herbert-spencer",
+    "to": "john-fiske",
+    "type": "influence",
+    "strength": 3,
+    "confidence": "high",
+    "themeIds": [
+      "metaphysics"
+    ],
+    "noteZh": "菲斯克的《宇宙哲学大纲》以系统阐释斯宾塞的进化学说为主体，并与斯宾塞长期通信。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "herbert-spencer-lester-frank-ward-critique",
+    "from": "herbert-spencer",
+    "to": "lester-frank-ward",
+    "type": "critique",
+    "strength": 3,
+    "confidence": "high",
+    "themeIds": [
+      "politics"
+    ],
+    "noteZh": "沃德接受进化框架，但批评斯宾塞由此推出的自由放任：心智既是进化产物，就能有目的地引导社会。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "william-graham-sumner-lester-frank-ward-critique",
+    "from": "william-graham-sumner",
+    "to": "lester-frank-ward",
+    "type": "critique",
+    "strength": 2,
+    "confidence": "high",
+    "themeIds": [
+      "politics",
+      "justice"
+    ],
+    "noteZh": "沃德公开批评萨姆纳《社会各阶级彼此应负什么责任》的反干预立场，主张以教育与立法改良社会。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "comte-lester-frank-ward-influence",
+    "from": "comte",
+    "to": "lester-frank-ward",
+    "type": "influence",
+    "strength": 2,
+    "confidence": "high",
+    "themeIds": [
+      "knowledge"
+    ],
+    "noteZh": "沃德的社会学沿用孔德的科学分类与“社会学”构想，并把它改造成强调人为导进的动态社会学。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "william-graham-sumner-thorstein-veblen-direct_student",
+    "from": "william-graham-sumner",
+    "to": "thorstein-veblen",
+    "type": "direct_student",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "politics"
+    ],
+    "noteZh": "凡勃伦在耶鲁攻读博士期间从学于萨姆纳，后来却以制度与习惯的分析走向对自由放任经济学的批评。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "marx-thorstein-veblen-critique",
+    "from": "marx",
+    "to": "thorstein-veblen",
+    "type": "critique",
+    "strength": 2,
+    "confidence": "high",
+    "themeIds": [
+      "politics",
+      "justice"
+    ],
+    "noteZh": "凡勃伦撰文评析马克思及其后学的社会主义经济学，认为其黑格尔式目的论与达尔文式的演化观不相容。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "thorstein-veblen-dewey-shared_problem",
+    "from": "thorstein-veblen",
+    "to": "dewey",
+    "type": "shared_problem",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "knowledge",
+      "politics"
+    ],
+    "noteZh": "二人同期任教于芝加哥大学，都以习惯、演化与工具性行动而非固定人性来解释制度与知识。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "joseph-le-conte-john-fiske-shared_problem",
+    "from": "joseph-le-conte",
+    "to": "john-fiske",
+    "type": "shared_problem",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "religion"
+    ],
+    "noteZh": "二者都试图说明进化论不否定有神信仰：进化即神意在自然中的展开方式。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "joseph-le-conte-charles-loring-brace-shared_problem",
+    "from": "joseph-le-conte",
+    "to": "charles-loring-brace",
+    "type": "shared_problem",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "religion",
+      "ethics"
+    ],
+    "noteZh": "二者都把进化观念纳入基督教的道德进步叙事，而非视之为对信仰的威胁。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "charles-loring-brace-john-fiske-shared_problem",
+    "from": "charles-loring-brace",
+    "to": "john-fiske",
+    "type": "shared_problem",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "religion"
+    ],
+    "noteZh": "二者同属美国新教知识界中接纳达尔文学说、并以道德与宗教进步来解释它的一代人。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "joseph-le-conte-josiah-royce-direct_student",
+    "from": "joseph-le-conte",
+    "to": "josiah-royce",
+    "type": "direct_student",
+    "strength": 2,
+    "confidence": "high",
+    "themeIds": [
+      "knowledge"
+    ],
+    "noteZh": "罗伊斯在加州大学求学时受教于勒孔特，后来多次追述这位老师对自己思想起步的影响。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "ernst-haeckel-friedrich-ratzel-influence",
+    "from": "ernst-haeckel",
+    "to": "friedrich-ratzel",
+    "type": "influence",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "knowledge"
+    ],
+    "noteZh": "拉采尔早年学动物学，受海克尔一系的进化与生物有机体观念影响，后把它移用到人类地理与国家理论。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "spinoza-ernst-haeckel-reception",
+    "from": "spinoza",
+    "to": "ernst-haeckel",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "high",
+    "themeIds": [
+      "metaphysics"
+    ],
+    "noteZh": "海克尔把自己的一元论上溯到斯宾诺莎的“神即自然”，主张物质与精神是同一实体的两个属性。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "kant-ernst-haeckel-critique",
+    "from": "kant",
+    "to": "ernst-haeckel",
+    "type": "critique",
+    "strength": 2,
+    "confidence": "high",
+    "themeIds": [
+      "metaphysics",
+      "knowledge"
+    ],
+    "noteZh": "海克尔在《宇宙之谜》中批评康德把世界划分为现象与物自体、把上帝与灵魂留给实践理性的二元做法。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "herder-friedrich-ratzel-influence",
+    "from": "herder",
+    "to": "friedrich-ratzel",
+    "type": "influence",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "knowledge"
+    ],
+    "noteZh": "拉采尔的人类地理学承接赫尔德以来把民族历史放在自然环境中理解的德语传统。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "kant-houston-stewart-chamberlain-reception",
+    "from": "kant",
+    "to": "houston-stewart-chamberlain",
+    "type": "reception",
+    "strength": 2,
+    "confidence": "high",
+    "themeIds": [
+      "knowledge"
+    ],
+    "noteZh": "张伯伦著有专书《康德》，把康德奉为“日耳曼精神”的代表；这是带有种族意识形态目的的挪用式解读。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "max-nordau-houston-stewart-chamberlain-shared_problem",
+    "from": "max-nordau",
+    "to": "houston-stewart-chamberlain",
+    "type": "shared_problem",
+    "strength": 2,
+    "confidence": "medium",
+    "themeIds": [
+      "politics"
+    ],
+    "noteZh": "二者都在世纪之交给欧洲文明下诊断，结论却截然相反：诺尔道归因于文化病态，张伯伦诉诸种族神话与反犹主义。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "nietzsche-max-nordau-critique",
+    "from": "nietzsche",
+    "to": "max-nordau",
+    "type": "critique",
+    "strength": 3,
+    "confidence": "high",
+    "themeIds": [
+      "aesthetics",
+      "ethics"
+    ],
+    "noteZh": "诺尔道在《退化》中把尼采的著作当作病态与自我中心的症状加以抨击，是早期最著名的尼采批评之一。",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "leo-tolstoy-max-nordau-critique",
+    "from": "leo-tolstoy",
+    "to": "max-nordau",
+    "type": "critique",
+    "strength": 2,
+    "confidence": "high",
+    "themeIds": [
+      "aesthetics",
+      "ethics"
+    ],
+    "noteZh": "诺尔道在《退化》中专章批评“托尔斯泰主义”，认为其神秘化的道德说教同属世纪末的退化征候。",
+    "reviewStatus": "draft"
   }
 ]

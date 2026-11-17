@@ -1,0 +1,55 @@
+{
+  "id": "herbert-spencer",
+  "tier": "seed",
+  "names": {
+    "zh": "赫伯特·斯宾塞",
+    "en": "Herbert Spencer"
+  },
+  "life": {
+    "birth": 1820,
+    "death": 1903,
+    "display": "1820—1903"
+  },
+  "civilization": "european_modern",
+  "traditions": [
+    "evolutionism",
+    "classical_liberalism",
+    "sociology"
+  ],
+  "periods": [
+    "modern"
+  ],
+  "themes": [
+    "ethics",
+    "politics",
+    "knowledge"
+  ],
+  "keywordsZh": [
+    "综合哲学",
+    "适者生存",
+    "社会有机体",
+    "自由放任"
+  ],
+  "oneLineZh": "以进化原理统摄自然、心灵与社会的综合哲学家，“适者生存”一语的提出者。",
+  "influenceWeight": 3,
+  "reviewStatus": "draft",
+  "summaryZh": "赫伯特·斯宾塞（1820—1903），英国哲学家与社会理论家。他以十卷本《综合哲学体系》把进化视为从同质到异质的普遍过程，贯穿生物学、心理学、社会学与伦理学；1864 年在《生物学原理》中提出“适者生存”。政治上主张最小国家与自由放任，其学说在 19 世纪末的英美影响极大，也是后来所谓“社会达尔文主义”争论的中心。本条仅作 seed 档基本定位，后续若升级标准档，需要重新做著作、论点与 evidence 研究。",
+  "works": [
+    "herbert-spencer-social-statics",
+    "herbert-spencer-first-principles"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S001",
+      "url": "https://plato.stanford.edu/entries/spencer/",
+      "noteZh": "权威来源条目：SEP: Herbert Spencer；用于核验人物身份、生卒、代表著作和思想史定位。"
+    }
+  ],
+  "oneLineEn": "Built a synthetic philosophy uniting nature, mind, and society under evolution; coined “survival of the fittest.”",
+  "keywordsEn": [
+    "synthetic philosophy",
+    "survival of the fittest",
+    "social organism",
+    "laissez-faire"
+  ]
+}

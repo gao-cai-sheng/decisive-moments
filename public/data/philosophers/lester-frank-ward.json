@@ -1,0 +1,55 @@
+{
+  "id": "lester-frank-ward",
+  "tier": "seed",
+  "names": {
+    "zh": "莱斯特·沃德",
+    "en": "Lester Frank Ward"
+  },
+  "life": {
+    "birth": 1841,
+    "death": 1913,
+    "display": "1841—1913"
+  },
+  "civilization": "american",
+  "traditions": [
+    "sociology",
+    "positivism",
+    "social_theory"
+  ],
+  "periods": [
+    "modern"
+  ],
+  "themes": [
+    "politics",
+    "knowledge",
+    "justice"
+  ],
+  "keywordsZh": [
+    "动态社会学",
+    "社会导进",
+    "有目的的进化",
+    "教育平等"
+  ],
+  "oneLineZh": "美国社会学先驱，主张人类可凭智识与教育有目的地引导社会进化，反对自由放任。",
+  "influenceWeight": 1,
+  "reviewStatus": "draft",
+  "summaryZh": "莱斯特·弗兰克·沃德（1841—1913），美国植物学家、古生物学家与社会学家，美国社会学会首任会长，晚年任布朗大学教授。《动态社会学》（1883）区分盲目的自然进化与人为的、有目的的社会进化（社会导进），认为心智本身就是进化的产物，可以反过来改造环境；因此他批评斯宾塞与萨姆纳的自由放任结论，主张以公共教育和科学立法促进社会改良。本条仅作 seed 档基本定位，后续若升级标准档，需要重新做著作、论点与 evidence 研究。",
+  "works": [
+    "lester-frank-ward-dynamic-sociology",
+    "lester-frank-ward-psychic-factors-of-civilization"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S001",
+      "url": "https://en.wikipedia.org/wiki/Lester_Frank_Ward",
+      "noteZh": "来源条目：Wikipedia: Lester Frank Ward；用于核验人物身份、生卒、代表著作和思想史定位。"
+    }
+  ],
+  "oneLineEn": "Pioneer of American sociology; held that intelligence and education can purposively steer social evolution, against laissez-faire.",
+  "keywordsEn": [
+    "dynamic sociology",
+    "social telesis",
+    "purposive evolution",
+    "equal education"
+  ]
+}

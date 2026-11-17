@@ -1,0 +1,54 @@
+{
+  "id": "john-fiske",
+  "tier": "seed",
+  "names": {
+    "zh": "约翰·菲斯克",
+    "en": "John Fiske"
+  },
+  "life": {
+    "birth": 1842,
+    "death": 1901,
+    "display": "1842—1901"
+  },
+  "civilization": "american",
+  "traditions": [
+    "evolutionism",
+    "american_philosophy"
+  ],
+  "periods": [
+    "modern"
+  ],
+  "themes": [
+    "metaphysics",
+    "religion",
+    "knowledge"
+  ],
+  "keywordsZh": [
+    "宇宙哲学",
+    "有神进化论",
+    "幼年期延长",
+    "斯宾塞主义"
+  ],
+  "oneLineZh": "斯宾塞进化哲学在美国的主要阐释者，力图调和进化论与有神信仰。",
+  "influenceWeight": 1,
+  "reviewStatus": "draft",
+  "summaryZh": "约翰·菲斯克（1842—1901），美国哲学家与历史学家，毕业并讲学于哈佛。《宇宙哲学大纲》（1874）系统阐述斯宾塞的进化学说并与孔德实证主义划清界限；他提出人类幼年期延长是家庭与道德产生的进化条件。《从起源看人的命运》（1884）等著作主张进化正是神意展开的方式，使他成为美国有神进化论的代表。本条仅作 seed 档基本定位，后续若升级标准档，需要重新做著作、论点与 evidence 研究。",
+  "works": [
+    "john-fiske-outlines-of-cosmic-philosophy",
+    "john-fiske-destiny-of-man"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S001",
+      "url": "https://en.wikipedia.org/wiki/John_Fiske_(philosopher)",
+      "noteZh": "来源条目：Wikipedia: John Fiske (philosopher)；用于核验人物身份、生卒、代表著作和思想史定位。"
+    }
+  ],
+  "oneLineEn": "Chief American expositor of Spencer's evolutionary philosophy, seeking to reconcile evolution with theism.",
+  "keywordsEn": [
+    "cosmic philosophy",
+    "theistic evolution",
+    "prolonged infancy",
+    "Spencerianism"
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "charles-loring-brace",
+  "tier": "seed",
+  "names": {
+    "zh": "查尔斯·洛林·布雷斯",
+    "en": "Charles Loring Brace"
+  },
+  "life": {
+    "birth": 1826,
+    "death": 1890,
+    "display": "1826—1890"
+  },
+  "civilization": "american",
+  "traditions": [
+    "social_ethics",
+    "evolutionism"
+  ],
+  "periods": [
+    "modern"
+  ],
+  "themes": [
+    "ethics",
+    "religion",
+    "justice"
+  ],
+  "keywordsZh": [
+    "儿童援助协会",
+    "孤儿列车",
+    "危险阶级",
+    "基督教进化观"
+  ],
+  "oneLineZh": "美国社会改革者，创办儿童援助协会，把进化观念与基督教慈善结合起来理解贫困。",
+  "influenceWeight": 1,
+  "reviewStatus": "draft",
+  "summaryZh": "查尔斯·洛林·布雷斯（1826—1890），美国牧师出身的慈善家与社会改革者，1853 年创办纽约儿童援助协会，发起把城市流浪儿童安置到乡村家庭的“孤儿列车”，被视为现代寄养制度的先驱。《纽约的危险阶级》（1872）总结其救助经验；他是达尔文学说在美国的早期读者之一，并在《基督的事迹》（1882）中主张道德进步与基督教影响相一致。本条仅作 seed 档基本定位，后续若升级标准档，需要重新做著作、论点与 evidence 研究。",
+  "works": [
+    "charles-loring-brace-dangerous-classes-of-new-york",
+    "charles-loring-brace-gesta-christi"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S001",
+      "url": "https://en.wikipedia.org/wiki/Charles_Loring_Brace",
+      "noteZh": "来源条目：Wikipedia: Charles Loring Brace；用于核验人物身份、生卒、代表著作和思想史定位。用户提供的译名“切斯特”与英文 Chester 有误，实为 Charles。"
+    }
+  ],
+  "oneLineEn": "American social reformer who founded the Children's Aid Society and read poverty through evolution and Christian charity.",
+  "keywordsEn": [
+    "Children's Aid Society",
+    "orphan trains",
+    "the dangerous classes",
+    "Christian evolutionism"
+  ]
+}

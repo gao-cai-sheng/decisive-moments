@@ -1,0 +1,55 @@
+{
+  "id": "william-graham-sumner",
+  "tier": "seed",
+  "names": {
+    "zh": "威廉·格雷厄姆·萨姆纳",
+    "en": "William Graham Sumner"
+  },
+  "life": {
+    "birth": 1840,
+    "death": 1910,
+    "display": "1840—1910"
+  },
+  "civilization": "american",
+  "traditions": [
+    "classical_liberalism",
+    "sociology",
+    "social_theory"
+  ],
+  "periods": [
+    "modern"
+  ],
+  "themes": [
+    "politics",
+    "freedom",
+    "ethics"
+  ],
+  "keywordsZh": [
+    "民俗",
+    "被遗忘的人",
+    "自由放任",
+    "族群中心主义"
+  ],
+  "oneLineZh": "耶鲁社会学开创者，以民俗论解释道德的来源，并为自由放任与反帝国主义辩护。",
+  "influenceWeight": 2,
+  "reviewStatus": "draft",
+  "summaryZh": "威廉·格雷厄姆·萨姆纳（1840—1910），美国社会科学家，耶鲁大学教授，在美国最早开设社会学课程。《社会各阶级彼此应负什么责任》（1883）以“被遗忘的人”为核心反对国家干预；《民俗论》（1906）提出民俗与德范（mores）概念，主张是非观念源于群体习惯，并创用“族群中心主义”一词。他受斯宾塞影响，常被归入美国社会达尔文主义的代表，同时公开反对美西战争与帝国扩张。本条仅作 seed 档基本定位，后续若升级标准档，需要重新做著作、论点与 evidence 研究。",
+  "works": [
+    "william-graham-sumner-what-social-classes-owe",
+    "william-graham-sumner-folkways"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S001",
+      "url": "https://en.wikipedia.org/wiki/William_Graham_Sumner",
+      "noteZh": "来源条目：Wikipedia: William Graham Sumner；用于核验人物身份、生卒、代表著作和思想史定位。"
+    }
+  ],
+  "oneLineEn": "Yale's pioneering sociologist; traced morals to folkways and defended laissez-faire and anti-imperialism.",
+  "keywordsEn": [
+    "folkways",
+    "the forgotten man",
+    "laissez-faire",
+    "ethnocentrism"
+  ]
+}

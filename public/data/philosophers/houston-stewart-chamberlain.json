@@ -1,0 +1,53 @@
+{
+  "id": "houston-stewart-chamberlain",
+  "tier": "seed",
+  "names": {
+    "zh": "休斯顿·斯图尔特·张伯伦",
+    "en": "Houston Stewart Chamberlain"
+  },
+  "life": {
+    "birth": 1855,
+    "death": 1927,
+    "display": "1855—1927"
+  },
+  "civilization": "european_modern",
+  "traditions": [
+    "racial_ideology",
+    "german_nationalism"
+  ],
+  "periods": [
+    "modern"
+  ],
+  "themes": [
+    "politics",
+    "religion"
+  ],
+  "keywordsZh": [
+    "十九世纪的基础",
+    "种族主义",
+    "反犹主义",
+    "日耳曼主义"
+  ],
+  "oneLineZh": "英裔德籍作家，以种族决定论与反犹主义重写欧洲史，是纳粹意识形态的思想先驱。",
+  "influenceWeight": 1,
+  "reviewStatus": "draft",
+  "summaryZh": "休斯顿·斯图尔特·张伯伦（1855—1927），生于英国、后入德国籍的作家，瓦格纳的女婿。《十九世纪的基础》（1899）把欧洲文明史叙述为“日耳曼种族”与犹太人的斗争，在德意志帝国风行一时；他另著有《康德》（1905）。其种族决定论与反犹主义没有科学依据，并直接影响了希特勒与纳粹理论家。收录他是为了呈现这一思潮的来源与危害，而非认可其主张。本条仅作 seed 档基本定位，后续若升级标准档，需要重新做著作、论点与 evidence 研究。",
+  "works": [
+    "houston-stewart-chamberlain-grundlagen-des-neunzehnten-jahrhunderts",
+    "houston-stewart-chamberlain-immanuel-kant"
+  ],
+  "sourceNotes": [
+    {
+      "label": "S001",
+      "url": "https://en.wikipedia.org/wiki/Houston_Stewart_Chamberlain",
+      "noteZh": "来源条目：Wikipedia: Houston Stewart Chamberlain；用于核验人物身份、生卒、代表著作和思想史定位。"
+    }
+  ],
+  "oneLineEn": "British-born German writer who recast European history through racial determinism and antisemitism; a precursor of Nazi ideology.",
+  "keywordsEn": [
+    "Foundations of the Nineteenth Century",
+    "racialism",
+    "antisemitism",
+    "Germanism"
+  ]
+}
