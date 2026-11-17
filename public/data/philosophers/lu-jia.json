@@ -28,7 +28,7 @@
     "汉初儒生",
     "马上治天下"
   ],
-  "oneLineZh": "汉初政论家，以《新语》说明秦亡汉兴和文治秩序。",
+  "oneLineZh": "汉初政论家，以《新语》论秦亡汉兴，强调文治与道德秩序。",
   "influenceWeight": 2,
   "reviewStatus": "draft",
   "summaryZh": "陆贾，楚地人，汉初重要政论家和外交人物，曾出使南越。《史记》记其向刘邦说明“马上得之，宁可以马上治之乎”，强调王朝建立后需要文治与德化。《新语》以秦亡为反面材料，讨论仁义、无为、礼法和君臣关系，是汉初从战争政治转向制度政治的代表文本。",
@@ -41,5 +41,17 @@
       "url": "https://ctext.org/xin-yu",
       "noteZh": "以《新语》和《史记》列传支撑陆贾身份、作品和汉初政治地位。"
     }
+  ],
+  "oneLineEn": "Early Han essayist who, in Xinyu, reads Qin fall and Han rise as a case for civil moral order.",
+  "keywordsEn": [
+    "New Discourses",
+    "early Han Confucian scholars",
+    "ruling the realm from horseback"
+  ],
+  "oneLineEs": "Ensayista político de inicios de Han que, en Xinyu, explicó la caída de Qin, el auge de Han y el orden civil.",
+  "keywordsEs": [
+    "Xinyu (Nuevos discursos)",
+    "letrados confucianos de inicios de Han",
+    "gobernar el imperio a caballo"
   ]
 }

@@ -32,7 +32,7 @@
     "陈朝",
     "帝王-禅师"
   ],
-  "oneLineZh": "陈朝帝王-禅师，以《课虚录》奠定越南中世禅学思想表达。",
+  "oneLineZh": "陈朝帝王-禅师，以《课虚录》给出越南中世禅学思想表达。",
   "influenceWeight": 3,
   "reviewStatus": "draft",
   "summaryZh": "陈太宗虽为陈朝皇帝，但其《课虚录》是越南禅学的重要思想文本；本 seed 档按有可归属禅学著作的帝王-禅师收录，非纯护法君主或政治人物条目。",
@@ -50,5 +50,19 @@
       "url": "https://press.princeton.edu/books/hardcover/9780691157863/the-princeton-dictionary-of-buddhism",
       "noteZh": "Princeton Dictionary of Buddhism 用于辅助核验 Khóa Hư Lục 作为越南佛教思想文本的工具书口径。"
     }
+  ],
+  "oneLineEn": "Trần emperor-Zen master whose Lessons on Emptiness grounded medieval Vietnamese Zen expression.",
+  "keywordsEn": [
+    "Lessons on Emptiness",
+    "Vietnamese Zen",
+    "Trần dynasty",
+    "emperor-Zen master"
+  ],
+  "oneLineEs": "Emperador-maestro zen de la dinastía Trần que, con Lecciones sobre la vacuidad, sienta la expresión del pensamiento zen vietnamita medieval.",
+  "keywordsEs": [
+    "Lecciones sobre la vacuidad",
+    "zen vietnamita",
+    "dinastía Trần",
+    "emperador-maestro zen"
   ]
 }

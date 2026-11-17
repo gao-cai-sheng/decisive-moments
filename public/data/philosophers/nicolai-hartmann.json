@@ -23,10 +23,10 @@
   ],
   "keywordsZh": [
     "新本体论",
-    "身份层",
-    "二线哲人"
+    "价值伦理",
+    "实在层次"
   ],
-  "oneLineZh": "新本体论代表，可补现象学与形而上学之间的德国线索。",
+  "oneLineZh": "新本体论代表，以实在的层次结构调和现象学与形而上学。",
   "influenceWeight": 2,
   "reviewStatus": "draft",
   "summaryZh": "尼古拉·哈特曼（1882—1950）是 W2 欧陆与英美近现代二线哲人候选。其身份层入选理由为：新本体论代表，可补现象学与形而上学之间的德国线索。 本条仅作 seed 档基本定位，后续若升级标准档，需要重新做著作、论点与 evidence 研究。",
@@ -39,5 +39,17 @@
       "label": "S003",
       "noteZh": "权威来源条目：SEP: Nicolai Hartmann；用于核验人物身份、生卒、代表著作和思想史定位。"
     }
+  ],
+  "oneLineEn": "New ontology mediating phenomenology and metaphysics via stratified structure of the real.",
+  "keywordsEn": [
+    "new ontology",
+    "value ethics",
+    "strata of the real"
+  ],
+  "oneLineEs": "Representante de la nueva ontología; mediando fenomenología y metafísica mediante la estructura estratificada de lo real.",
+  "keywordsEs": [
+    "nueva ontología",
+    "ética de valores",
+    "estratos de lo real"
   ]
 }

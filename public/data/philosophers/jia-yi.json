@@ -28,7 +28,7 @@
     "过秦论",
     "汉初政论"
   ],
-  "oneLineZh": "西汉初政论家，以制度改革和秦亡反思著称。",
+  "oneLineZh": "西汉初政论家，以秦亡反思与制度更化主张影响文治方向。",
   "influenceWeight": 2,
   "reviewStatus": "draft",
   "summaryZh": "贾谊，洛阳人，西汉初政论家、文学家，年少被文帝召用，后贬长沙。《新书》保存其礼制、治安、诸侯、货币和教育等政论，《过秦论》则以秦亡经验说明仁义不施、攻守异势和制度失衡。贾谊代表汉初士人以历史反思参与国家制度设计的努力。",
@@ -42,5 +42,17 @@
       "url": "https://ctext.org/xin-shu",
       "noteZh": "以《新书》和《史记》支撑贾谊身份、作品和汉初政论地位。"
     }
+  ],
+  "oneLineEn": "Early Han political essayist shaping civil order via Qin-collapse lessons and institutional reform proposals.",
+  "keywordsEn": [
+    "New Writings",
+    "Faults of Qin",
+    "early Han political essays"
+  ],
+  "oneLineEs": "Ensayista político de inicios de los Han Occidentales, conocido por la reforma institucional y la reflexión sobre la caída de Qin.",
+  "keywordsEs": [
+    "Xinshu (Nuevos escritos)",
+    "Sobre los errores de Qin",
+    "ensayos políticos de inicios de Han"
   ]
 }

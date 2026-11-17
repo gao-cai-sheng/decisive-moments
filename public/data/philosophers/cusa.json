@@ -290,5 +290,21 @@
       }
     ]
   },
-  "tier": "standard"
+  "tier": "standard",
+  "oneLineEn": "Moved medieval theology toward Renaissance metaphysics via learned ignorance, coincidence of opposites, and infinity.",
+  "keywordsEn": [
+    "learned ignorance",
+    "coincidence of opposites",
+    "the absolute Maximum",
+    "conjecture",
+    "peace of faith"
+  ],
+  "oneLineEs": "Desplazó la teología medieval hacia la metafísica renacentista mediante la docta ignorancia, la coincidencia de los opuestos y el problema del infinito.",
+  "keywordsEs": [
+    "docta ignorancia",
+    "coincidencia de los opuestos",
+    "el Máximo absoluto",
+    "conjetura",
+    "paz de la fe"
+  ]
 }

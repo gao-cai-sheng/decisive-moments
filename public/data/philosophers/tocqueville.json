@@ -289,5 +289,21 @@
       }
     ]
   },
-  "tier": "standard"
+  "tier": "standard",
+  "oneLineEn": "Analyzed fragile conditions of modern free societies through democratic equality, association, and anti-centralization.",
+  "keywordsEn": [
+    "democracy",
+    "equality of conditions",
+    "association",
+    "local self-government",
+    "soft despotism"
+  ],
+  "oneLineEs": "Analizó las frágiles condiciones de las sociedades libres modernas mediante la igualdad democrática, la vida asociativa y la crítica de la centralización.",
+  "keywordsEs": [
+    "democracia",
+    "igualdad de condiciones",
+    "asociación",
+    "autogobierno local",
+    "despotismo blando"
+  ]
 }

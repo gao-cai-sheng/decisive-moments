@@ -29,7 +29,7 @@
     "eudaimonia",
     "实践智慧"
   ],
-  "oneLineZh": "以实体、目的因和德性伦理建立系统哲学框架。",
+  "oneLineZh": "以实体与四因解释事物，用中道与实践智慧把幸福定为合德的理性活动。",
   "influenceWeight": 3,
   "reviewStatus": "reviewed",
   "summaryZh": "亚里士多德把逻辑、自然、形而上学、伦理和政治组织成系统研究，强调实体、目的和实践德性的解释力。",
@@ -286,5 +286,15 @@
       }
     ]
   },
-  "tier": "standard"
+  "tier": "standard",
+  "keywordsEn": [
+    "Substance",
+    "Four causes",
+    "Final cause",
+    "Mean",
+    "eudaimonia",
+    "Practical wisdom"
+  ],
+  "oneLineEn": "Explains things by substance and four causes; mean and practical wisdom cast flourishing as virtuous rational activity.",
+  "oneLineEs": "Construyó un marco filosófico sistemático en torno a la sustancia, la causa final y la ética de la virtud."
 }

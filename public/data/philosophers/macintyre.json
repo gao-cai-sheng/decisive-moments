@@ -30,7 +30,7 @@
     "叙事统一",
     "现代道德碎片化"
   ],
-  "oneLineZh": "以德性、实践和传统构成现代道德哲学中反自由主义与反情感主义的重要方案。",
+  "oneLineZh": "以德性、实践和传统构成现代道德哲学中反自由主义与反情感主义方案。",
   "influenceWeight": 2,
   "reviewStatus": "draft",
   "summaryZh": "麦金太尔把现代道德语言的碎片化追溯到传统断裂，并以亚里士多德式实践、德性和共同体传统重建理性伦理。",
@@ -288,5 +288,21 @@
       }
     ]
   },
-  "tier": "standard"
+  "tier": "standard",
+  "oneLineEn": "Anti-liberal, anti-emotivist program in modern moral philosophy built on virtue, practice, and tradition.",
+  "keywordsEn": [
+    "virtue ethics",
+    "practice",
+    "tradition",
+    "narrative unity",
+    "fragmentation of modern morality"
+  ],
+  "oneLineEs": "Programa mayor antiliberal y antiemocionista en la filosofía moral moderna, construido sobre virtud, práctica y tradición.",
+  "keywordsEs": [
+    "ética de la virtud",
+    "práctica",
+    "tradición",
+    "unidad narrativa",
+    "fragmentación de la moral moderna"
+  ]
 }

@@ -30,7 +30,7 @@
     "现代主义改革",
     "反殖民政治"
   ],
-  "oneLineZh": "泛伊斯兰政治活动家和现代主义先声，以反殖民、宗教改革和穆斯林公共政治动员影响近现代伊斯兰思想。",
+  "oneLineZh": "泛伊斯兰活动家与现代主义先声，以反殖民、宗教改革与公共动员影响近现代伊斯兰思想。",
   "influenceWeight": 2,
   "reviewStatus": "draft",
   "summaryZh": "哲马鲁丁·阿富汗尼（1838—1897）是 Seed W7 伊斯兰文明晚期与近现代补线候选。其身份层入选理由为：泛伊斯兰政治活动家和现代主义先声，以反殖民、宗教改革和穆斯林公共政治动员影响近现代伊斯兰思想。本条仅作 seed 档基本定位；其出生地和身份叙述存在争议，后续若升级标准档，必须重新做著作、论点与 evidence 研究。",
@@ -44,5 +44,17 @@
       "url": "https://www.iranicaonline.org/articles/afgani-jamal-al-din",
       "noteZh": "来源：Encyclopaedia Iranica / AFGHANI, JAMAL-AL-DIN；用于核验人物身份、生卒断代、泛伊斯兰改革和现代主义先声定位；出生地和身份叙述须保留争议意识。"
     }
+  ],
+  "oneLineEn": "Pan-Islamic activist and early modernist shaping anti-colonial reform and Muslim public mobilization.",
+  "keywordsEn": [
+    "pan-Islamism",
+    "modernist reform",
+    "anti-colonial politics"
+  ],
+  "oneLineEs": "Activista político panislámico y precursor del modernismo que influye en el pensamiento islámico moderno con el anticolonialismo, la reforma religiosa y la movilización política pública musulmana.",
+  "keywordsEs": [
+    "panislamismo",
+    "reforma modernista",
+    "política anticolonial"
   ]
 }

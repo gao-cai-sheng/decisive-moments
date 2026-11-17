@@ -28,7 +28,7 @@
     "君主批判",
     "经世"
   ],
-  "oneLineZh": "清初思想家，以《潜书》批判君主权力和社会不平。",
+  "oneLineZh": "清初思想家，以《潜书》尖锐批判君主权力与社会不平。",
   "influenceWeight": 3,
   "reviewStatus": "draft",
   "summaryZh": "唐甄，字铸万，号圃亭，清初思想家和政论家。《潜书》以激烈语言批判君主、官僚、财富不均和社会压迫，强调养民、实政和士人责任。唐甄虽然仕途不显，却在政治思想史上以对君权和制度弊病的深刻揭露著称，与黄宗羲等共同构成明清之际反专制经世传统。",
@@ -41,5 +41,17 @@
       "url": "https://ctext.org/wiki.pl?if=en&searchu=%E5%94%90%E7%94%84",
       "noteZh": "以唐甄《潜书》支撑身份层。"
     }
+  ],
+  "oneLineEn": "Early Qing thinker who, in Qianshu, sharply criticizes monarchical power and social injustice.",
+  "keywordsEn": [
+    "Hidden Book",
+    "critique of monarchy",
+    "statecraft"
+  ],
+  "oneLineEs": "Pensador de inicios Qing que, en el Libro oculto, criticó el poder monárquico y la injusticia social.",
+  "keywordsEs": [
+    "Libro oculto",
+    "crítica de la monarquía",
+    "gobernanza práctica"
   ]
 }

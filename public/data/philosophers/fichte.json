@@ -25,7 +25,7 @@
   "keywordsZh": [
     "自我",
     "知识学",
-    "自由",
+    "自我活动",
     "法权",
     "民族教育"
   ],
@@ -295,5 +295,21 @@
       }
     ]
   },
-  "tier": "standard"
+  "tier": "standard",
+  "keywordsEn": [
+    "the self",
+    "Wissenschaftslehre",
+    "self-activity",
+    "right (Recht)",
+    "national education"
+  ],
+  "oneLineEn": "Advanced Kant's critical philosophy into a freedom system grounded in self-activity (Wissenschaftslehre).",
+  "oneLineEs": "Mediante la Wissenschaftslehre (Doctrina de la ciencia) impulsó la filosofía crítica kantiana hacia un sistema de la libertad fundado en la autoactividad.",
+  "keywordsEs": [
+    "el yo",
+    "Wissenschaftslehre",
+    "libertad",
+    "derecho (Recht)",
+    "educación nacional"
+  ]
 }

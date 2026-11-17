@@ -32,7 +32,7 @@
     "法的社会主义",
     "观呼吸"
   ],
-  "oneLineZh": "泰国现代佛教思想家，以缘起重释、观呼吸修行和“法的社会主义”连接佛教改革与政治伦理。",
+  "oneLineZh": "泰国现代佛教思想家，以缘起重释、观呼吸与「法的社会主义」连接改革与政治伦理。",
   "influenceWeight": 3,
   "reviewStatus": "draft",
   "summaryZh": "佛使比丘是20世纪泰国最具影响力的现代佛教思想家之一，重释缘起、无我和修行实践，并提出“法的社会主义”等政治伦理表达。本 seed 档把他与 Nagarjuna 的关系标为缘起/空的问题对话，不写作师承。",
@@ -51,5 +51,19 @@
       "url": "https://www.suanmokkh.org/",
       "noteZh": "Suan Mokkh 资料用于辅助核验佛使比丘观呼吸、缘起重释和现代佛教思想口径。"
     }
+  ],
+  "oneLineEn": "Modern Thai Buddhist linking reform and politics via dependent origination, ānāpānasati, and Dhammic socialism.",
+  "keywordsEn": [
+    "Thai Buddhist reform",
+    "dependent origination",
+    "Dhammic socialism",
+    "anapanasati (mindfulness of breathing)"
+  ],
+  "oneLineEs": "Pensador budista tailandés moderno que, con la relectura del origen dependiente, la práctica de la atención a la respiración y el «socialismo del Dhamma», vincula reforma budista y ética política.",
+  "keywordsEs": [
+    "reforma budista tailandesa",
+    "origen dependiente",
+    "socialismo del Dhamma",
+    "atención a la respiración"
   ]
 }

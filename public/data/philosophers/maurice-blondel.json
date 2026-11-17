@@ -23,10 +23,10 @@
   ],
   "keywordsZh": [
     "行动哲学",
-    "身份层",
-    "二线哲人"
+    "内在方法",
+    "天主教现代思想"
   ],
-  "oneLineZh": "行动哲学代表，可补法国天主教现代思想与现象学前史。",
+  "oneLineZh": "《行动》以行动的内在逻辑通向超越，为法国天主教现代思想开路。",
   "influenceWeight": 2,
   "reviewStatus": "draft",
   "summaryZh": "莫里斯·布隆代尔（1861—1949）是 W2 欧陆与英美近现代二线哲人候选。其身份层入选理由为：行动哲学代表，可补法国天主教现代思想与现象学前史。 本条仅作 seed 档基本定位，后续若升级标准档，需要重新做著作、论点与 evidence 研究。",
@@ -39,5 +39,17 @@
       "label": "S008",
       "noteZh": "权威来源条目：SEP: Maurice Blondel；用于核验人物身份、生卒、代表著作和思想史定位。"
     }
+  ],
+  "oneLineEn": "Action traces the inner logic of action toward transcendence, opening modern French Catholic thought.",
+  "keywordsEn": [
+    "philosophy of action",
+    "method of immanence",
+    "modern Catholic thought"
+  ],
+  "oneLineEs": "La acción lleva la lógica inmanente de la acción hacia la trascendencia y abrió el pensamiento católico moderno francés.",
+  "keywordsEs": [
+    "filosofía de la acción",
+    "método de inmanencia",
+    "pensamiento católico moderno"
   ]
 }

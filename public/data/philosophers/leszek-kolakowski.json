@@ -23,10 +23,10 @@
   ],
   "keywordsZh": [
     "宗教哲学",
-    "宗教哲学",
-    "身份层"
+    "马克思主义批判",
+    "东欧思想"
   ],
-  "oneLineZh": "马克思主义批判与宗教哲学代表，可补东欧思想转型线索。",
+  "oneLineZh": "《马克思主义主要流派》作者，从修正主义转向对乌托邦的宗教式追问。",
   "influenceWeight": 2,
   "reviewStatus": "draft",
   "summaryZh": "莱谢克·科瓦科夫斯基（1927—2009）是 W2 欧陆与英美近现代二线哲人候选。其身份层入选理由为：马克思主义批判与宗教哲学代表，可补东欧思想转型线索。 本条仅作 seed 档基本定位，后续若升级标准档，需要重新做著作、论点与 evidence 研究。",
@@ -39,5 +39,17 @@
       "label": "S019",
       "noteZh": "权威来源条目：IEP: Leszek Kołakowski；用于核验人物身份、生卒、代表著作和思想史定位。"
     }
+  ],
+  "oneLineEn": "Author of Main Currents of Marxism; moved from revisionism to religious questioning of utopia.",
+  "keywordsEn": [
+    "philosophy of religion",
+    "critique of Marxism",
+    "Eastern European thought"
+  ],
+  "oneLineEs": "Autor de Las principales corrientes del marxismo; pasó del revisionismo a un cuestionamiento religioso de la utopía.",
+  "keywordsEs": [
+    "filosofía de la religión",
+    "crítica del marxismo",
+    "pensamiento de Europa del Este"
   ]
 }

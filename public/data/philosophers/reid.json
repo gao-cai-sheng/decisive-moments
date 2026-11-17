@@ -288,5 +288,21 @@
       }
     ]
   },
-  "tier": "standard"
+  "tier": "standard",
+  "oneLineEn": "Answered skepticism with common-sense principles and direct realism, extending epistemology to action and freedom.",
+  "keywordsEn": [
+    "common-sense philosophy",
+    "direct realism",
+    "anti-skepticism",
+    "perception",
+    "active power"
+  ],
+  "oneLineEs": "Respondió al escepticismo con principios del sentido común y realismo directo, extendiendo la epistemología a la acción, la responsabilidad y la libertad.",
+  "keywordsEs": [
+    "filosofía del sentido común",
+    "realismo directo",
+    "antiescepticismo",
+    "percepción",
+    "poder activo"
+  ]
 }

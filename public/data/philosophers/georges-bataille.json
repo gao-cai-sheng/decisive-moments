@@ -22,11 +22,11 @@
     "aesthetics"
   ],
   "keywordsZh": [
-    "法国哲学",
-    "身份层",
-    "思想史补线"
+    "耗费",
+    "逾越",
+    "普遍经济"
   ],
-  "oneLineZh": "耗费/逾越/普遍经济，接 nietzsche/blanchot。",
+  "oneLineZh": "以耗费、逾越和普遍经济概念探讨神圣与僭越之经验路径。",
   "influenceWeight": 2,
   "reviewStatus": "draft",
   "summaryZh": "乔治·巴塔耶（1897—1962）是 Seed W3 法国近现代—现当代二线哲人候选。其身份层入选理由为：耗费/逾越/普遍经济，接 nietzsche/blanchot。 本条仅作 seed 档基本定位，后续若升级标准档，必须重新做著作、论点与 evidence 研究。",
@@ -40,5 +40,17 @@
       "url": "https://www.rep.routledge.com/articles/biographical/bataille-georges-1897-1962/v-1",
       "noteZh": "权威来源条目：Routledge: Bataille, Georges；用于核验人物身份、生卒、代表著作和思想史定位。"
     }
+  ],
+  "oneLineEn": "Explores experience of the sacred and transgression through expenditure, excess, and general economy.",
+  "keywordsEn": [
+    "expenditure",
+    "transgression",
+    "general economy"
+  ],
+  "oneLineEs": "Exploró lo sagrado y la transgresión mediante los conceptos de gasto, exceso y economía general.",
+  "keywordsEs": [
+    "gasto",
+    "transgresión",
+    "economía general"
   ]
 }

@@ -30,7 +30,7 @@
     "恶人正机",
     "净土真宗"
   ],
-  "oneLineZh": "以他力信心、念佛感恩和凡夫自觉重塑日本净土传统，奠定净土真宗。",
+  "oneLineZh": "以他力信心、念佛感恩和凡夫自觉重塑日本净土传统，并开出净土真宗。",
   "influenceWeight": 2,
   "reviewStatus": "draft",
   "summaryZh": "亲鸾把法然净土传统发展为强调阿弥陀本愿、信心与他力的宗教哲学，削弱自力修行的救度地位并扩大在家信众空间。",
@@ -289,5 +289,21 @@
       }
     ]
   },
-  "tier": "standard"
+  "tier": "standard",
+  "oneLineEn": "Remade Japanese Pure Land via other-power faith, grateful nembutsu, and ordinary-person awareness; opened Jōdo Shinshū.",
+  "keywordsEn": [
+    "other-power (tariki)",
+    "shinjin (entrusting faith)",
+    "nembutsu",
+    "the evil person as the true object",
+    "Jodo Shinshu"
+  ],
+  "oneLineEs": "Reformuló la Tierra Pura japonesa mediante la fe en el otro-poder, el nembutsu agradecido y la conciencia del ser ordinario, y fundó el Jōdo Shinshū.",
+  "keywordsEs": [
+    "otro-poder (tariki)",
+    "shinjin (fe confiada)",
+    "nembutsu",
+    "la persona malvada como objeto verdadero",
+    "Jōdo Shinshū"
+  ]
 }

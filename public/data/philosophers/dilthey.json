@@ -293,5 +293,21 @@
       }
     ]
   },
-  "tier": "standard"
+  "tier": "standard",
+  "oneLineEn": "Brought the historical life-world into method via Geisteswissenschaften, Erlebnis, and Verstehen.",
+  "keywordsEn": [
+    "Geisteswissenschaften",
+    "understanding (Verstehen)",
+    "lived experience (Erlebnis)",
+    "historical world",
+    "worldview"
+  ],
+  "oneLineEs": "Incorporó el mundo vital histórico a la metodología filosófica mediante las Geisteswissenschaften, el Erlebnis (vivencia) y el Verstehen (comprensión).",
+  "keywordsEs": [
+    "Geisteswissenschaften",
+    "comprensión (Verstehen)",
+    "vivencia (Erlebnis)",
+    "mundo histórico",
+    "visión del mundo"
+  ]
 }

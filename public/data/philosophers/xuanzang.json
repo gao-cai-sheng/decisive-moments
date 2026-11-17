@@ -28,7 +28,7 @@
     "大唐西域记",
     "译经"
   ],
-  "oneLineZh": "唐代高僧、译经家和旅行者，奠定法相唯识学基础。",
+  "oneLineZh": "唐代高僧与译经家，以西行求法与主持译场夯实法相唯识学基础。",
   "influenceWeight": 3,
   "reviewStatus": "draft",
   "summaryZh": "玄奘，俗姓陈，唐代高僧，西行印度求法并返唐主持大规模译经。他译出《瑜伽师地论》《成唯识论》等唯识经典，又撰《大唐西域记》记录中亚和印度佛教地理。玄奘的意义兼具宗教、哲学和知识交流维度：他以译经和学派建构奠定法相宗基础，也成为中印佛教交通的标志人物。",
@@ -42,5 +42,17 @@
       "url": "https://cbetaonline.dila.edu.tw/zh/T2087",
       "noteZh": "以《大唐西域记》和玄奘译经传统支撑身份层。"
     }
+  ],
+  "oneLineEn": "Tang monk-translator whose western journey and translation bureau secured Faxiang Yogācāra foundations.",
+  "keywordsEn": [
+    "Yogācāra / consciousness-only",
+    "Great Tang Records on the Western Regions",
+    "scripture translation"
+  ],
+  "oneLineEs": "Monje, traductor y viajero tang que fundó la base del Yogācāra / solo-conciencia Faxiang chino.",
+  "keywordsEs": [
+    "Yogācāra / solo-conciencia (weishi)",
+    "Grandes registros tang de las regiones occidentales",
+    "traducción de escrituras"
   ]
 }

@@ -22,10 +22,10 @@
   ],
   "keywordsZh": [
     "推论主义",
-    "身份层",
-    "二线哲人"
+    "语义学",
+    "匹兹堡学派"
   ],
-  "oneLineZh": "推论主义语义学代表，可补塞拉斯之后的匹兹堡学派。",
+  "oneLineZh": "推论主义语义学代表，把意义奠基于给出与索取理由的推论实践。",
   "influenceWeight": 2,
   "reviewStatus": "draft",
   "summaryZh": "罗伯特·布兰顿（1950—）是 W2 欧陆与英美近现代二线哲人候选。其身份层入选理由为：推论主义语义学代表，可补塞拉斯之后的匹兹堡学派。 本条仅作 seed 档基本定位，后续若升级标准档，需要重新做著作、论点与 evidence 研究。",
@@ -38,5 +38,17 @@
       "label": "S020",
       "noteZh": "权威来源条目：IEP: Robert Brandom；用于核验人物身份、生卒、代表著作和思想史定位。"
     }
+  ],
+  "oneLineEn": "Inferentialist semantics: meaning rests on practices of giving and asking for reasons.",
+  "keywordsEn": [
+    "inferentialism",
+    "semantics",
+    "Pittsburgh School"
+  ],
+  "oneLineEs": "Representante de la semántica inferencialista; funda el significado en las prácticas inferenciales de dar y pedir razones.",
+  "keywordsEs": [
+    "inferencialismo",
+    "semántica",
+    "Escuela de Pittsburgh"
   ]
 }

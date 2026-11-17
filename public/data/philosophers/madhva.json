@@ -289,5 +289,21 @@
       }
     ]
   },
-  "tier": "standard"
+  "tier": "standard",
+  "oneLineEn": "Opposed Advaita with Dvaita Vedanta, stressing real difference among God, soul, and world.",
+  "keywordsEn": [
+    "Dvaita Vedanta",
+    "Vaishnavism",
+    "difference",
+    "commentary",
+    "liberation"
+  ],
+  "oneLineEs": "Se opuso al Advaita con el Vedānta Dvaita, subrayando la diferencia real entre Dios, el alma y el mundo.",
+  "keywordsEs": [
+    "Vedānta Dvaita",
+    "vaisnavismo",
+    "diferencia",
+    "comentario",
+    "liberación"
+  ]
 }

@@ -27,10 +27,9 @@
     "批判理论",
     "工具理性",
     "法兰克福学派",
-    "传统理论与批判理论",
     "启蒙辩证法"
   ],
-  "oneLineZh": "以批判理论和工具理性批判把马克思主义社会哲学改造为跨学科现代性诊断。",
+  "oneLineZh": "以批判理论和工具理性批判把马克思主义社会哲学改造为现代性诊断。",
   "influenceWeight": 3,
   "reviewStatus": "draft",
   "summaryZh": "霍克海默把社会研究、马克思主义批判和哲学反思结合起来，主张理论必须揭示支配结构并服务于人的解放。",
@@ -290,5 +289,19 @@
       }
     ]
   },
-  "tier": "standard"
+  "tier": "standard",
+  "oneLineEn": "Recast Marxist social philosophy as a diagnosis of modernity via critical theory and critique of instrumental reason.",
+  "keywordsEn": [
+    "critical theory",
+    "instrumental reason",
+    "Frankfurt School",
+    "Dialectic of Enlightenment"
+  ],
+  "oneLineEs": "Reformuló la filosofía social marxista como diagnóstico de la modernidad mediante la teoría crítica y la crítica de la razón instrumental.",
+  "keywordsEs": [
+    "teoría crítica",
+    "razón instrumental",
+    "Escuela de Fráncfort",
+    "Dialéctica de la Ilustración"
+  ]
 }

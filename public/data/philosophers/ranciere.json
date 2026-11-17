@@ -22,11 +22,11 @@
     "aesthetics"
   ],
   "keywordsZh": [
-    "法国哲学",
-    "身份层",
-    "思想史补线"
+    "感性分配",
+    "政治美学",
+    "平等"
   ],
-  "oneLineZh": "感性的分配与政治美学，接 althusser。",
+  "oneLineZh": "以感性的分配把政治与美学置于同一可感秩序的问题域。",
   "influenceWeight": 2,
   "reviewStatus": "draft",
   "summaryZh": "雅克·朗西埃（1940—）是 Seed W3 法国近现代—现当代二线哲人候选。其身份层入选理由为：感性的分配与政治美学，接 althusser。 本条仅作 seed 档基本定位，后续若升级标准档，必须重新做著作、论点与 evidence 研究。",
@@ -40,5 +40,17 @@
       "url": "https://www.rep.routledge.com/articles/biographical/ranciere-jacques-1940/v-1",
       "noteZh": "权威来源条目：Routledge: Rancière, Jacques；用于核验人物身份、生卒、代表著作和思想史定位。"
     }
+  ],
+  "oneLineEn": "Places politics and aesthetics in one problem domain of the distribution of the sensible.",
+  "keywordsEn": [
+    "distribution of the sensible",
+    "politics of aesthetics",
+    "equality"
+  ],
+  "oneLineEs": "Con el reparto de lo sensible sitúa la política y la estética en un mismo campo problemático.",
+  "keywordsEs": [
+    "reparto de lo sensible",
+    "estética política",
+    "igualdad"
   ]
 }

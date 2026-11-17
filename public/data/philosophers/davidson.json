@@ -289,5 +289,21 @@
       }
     ]
   },
-  "tier": "standard"
+  "tier": "standard",
+  "oneLineEn": "Remade post-Quinean language and mind philosophy via truth-theoretic semantics, radical interpretation, and action.",
+  "keywordsEn": [
+    "truth-conditional semantics",
+    "radical interpretation",
+    "reasons for action",
+    "anomalous monism",
+    "triangulation"
+  ],
+  "oneLineEs": "Reformuló la filosofía del lenguaje y de la mente postquineana mediante la semántica veritativo-condicional, la interpretación radical y la teoría de la acción.",
+  "keywordsEs": [
+    "semántica veritativo-condicional",
+    "interpretación radical",
+    "razones para la acción",
+    "monismo anómalo",
+    "triangulación"
+  ]
 }

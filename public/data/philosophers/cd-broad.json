@@ -22,11 +22,11 @@
     "metaphysics"
   ],
   "keywordsZh": [
-    "身份层",
-    "二线哲人",
-    "思想史补线"
+    "剑桥分析",
+    "心灵哲学",
+    "批判哲学史"
   ],
-  "oneLineZh": "心灵哲学、伦理学与形而上学的剑桥综合人物，可补摩尔之后的英国分析线。",
+  "oneLineZh": "心灵哲学、伦理学与形而上学的剑桥综合者，以细致分类和折衷立场著称。",
   "influenceWeight": 2,
   "reviewStatus": "draft",
   "summaryZh": "C. D. 布罗德（1887—1971）是 W2 欧陆与英美近现代二线哲人候选。其身份层入选理由为：心灵哲学、伦理学与形而上学的剑桥综合人物，可补摩尔之后的英国分析线。 本条仅作 seed 档基本定位，后续若升级标准档，需要重新做著作、论点与 evidence 研究。",
@@ -39,5 +39,17 @@
       "label": "S012",
       "noteZh": "权威来源条目：SEP: Charlie Dunbar Broad；用于核验人物身份、生卒、代表著作和思想史定位。"
     }
+  ],
+  "oneLineEn": "Cambridge synthesizer of mind, ethics, and metaphysics, known for fine classification and moderate eclecticism.",
+  "keywordsEn": [
+    "Cambridge analysis",
+    "philosophy of mind",
+    "critical history of philosophy"
+  ],
+  "oneLineEs": "Sintetizador de Cambridge en filosofía de la mente, ética y metafísica, conocido por su clasificación minuciosa y su eclecticismo moderado.",
+  "keywordsEs": [
+    "análisis de Cambridge",
+    "filosofía de la mente",
+    "historia crítica de la filosofía"
   ]
 }

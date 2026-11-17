@@ -288,5 +288,21 @@
       }
     ]
   },
-  "tier": "standard"
+  "tier": "standard",
+  "oneLineEn": "Remade political philosophy, ethics, and religious modernity studies via modern self, recognition, and secularization.",
+  "keywordsEn": [
+    "politics of recognition",
+    "modern self",
+    "secular age",
+    "strong evaluation",
+    "communitarianism"
+  ],
+  "oneLineEs": "Reformuló la filosofía política, la ética y los estudios de la modernidad religiosa mediante el self moderno, el reconocimiento y la secularización.",
+  "keywordsEs": [
+    "política del reconocimiento",
+    "self moderno",
+    "era secular",
+    "evaluación fuerte",
+    "comunitarismo"
+  ]
 }

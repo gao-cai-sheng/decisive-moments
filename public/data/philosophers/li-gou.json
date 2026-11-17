@@ -28,7 +28,7 @@
     "周礼致太平论",
     "礼论"
   ],
-  "oneLineZh": "北宋儒者和制度思想家，以礼制、财政和经世论著称。",
+  "oneLineZh": "北宋儒者与制度思想家，长于礼制、财政与经世制度改革。",
   "influenceWeight": 2,
   "reviewStatus": "draft",
   "summaryZh": "李觏，字泰伯，建昌军南城人，北宋儒者，世称盱江先生。他重视礼制、财政、兵制和学校，对空疏章句之学不满，主张以经术服务国家治理。《周礼致太平论》《礼论》等体现其经世关怀。李觏处于理学兴起前夜，是北宋儒学从文辞经义转向制度建构的重要人物。",
@@ -42,5 +42,17 @@
       "url": "https://ctext.org/wiki.pl?if=en&res=821310",
       "noteZh": "以李觏文集、《周礼致太平论》《礼论》题名传统支撑身份层。"
     }
+  ],
+  "oneLineEn": "Institutional thinker of the Song skilled in ritual order, finance, and statecraft reform.",
+  "keywordsEn": [
+    "Master Xujiang",
+    "On the Zhouli Bringing Great Peace",
+    "discourse on ritual"
+  ],
+  "oneLineEs": "Confuciano y pensador institucional de los Song del Norte, célebre por el ritual, las finanzas y el arte de gobernar.",
+  "keywordsEs": [
+    "Maestro Xujiang",
+    "Sobre el Zhouli que trae la gran paz",
+    "discurso sobre el ritual"
   ]
 }

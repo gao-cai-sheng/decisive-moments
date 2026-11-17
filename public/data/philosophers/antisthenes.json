@@ -30,7 +30,7 @@
     "反奢侈",
     "苏格拉底传统"
   ],
-  "oneLineZh": "苏格拉底弟子之一，强调德性、自足和艰苦训练，被视为犬儒传统的重要先驱。",
+  "oneLineZh": "苏格拉底弟子，强调德性自足与艰苦训练，开启犬儒传统先驱脉络。",
   "influenceWeight": 1,
   "reviewStatus": "draft",
   "summaryZh": "苏格拉底弟子之一，强调德性、自足和艰苦训练，被视为犬儒传统的重要先驱。本条目以 summary_only 方式整理，重点保留低争议的问题结构、主张和可追溯证据定位。",
@@ -288,5 +288,14 @@
       }
     ]
   },
-  "tier": "standard"
+  "tier": "standard",
+  "keywordsEn": [
+    "Sufficiency of virtue",
+    "Hard training",
+    "Names and definitions",
+    "Against luxury",
+    "Socratic tradition"
+  ],
+  "oneLineEn": "Socratic disciple stressing self-sufficient virtue and hard training, a forerunner of the Cynic line.",
+  "oneLineEs": "Discípulo socrático que enfatizó la virtud, la autosuficiencia y el entrenamiento duro; precursor clave del cinismo."
 }

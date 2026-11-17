@@ -470,5 +470,23 @@
       }
     ]
   },
-  "tier": "standard"
+  "tier": "standard",
+  "oneLineEn": "Recast Indian thought on life, attachment, and freedom through dukkha, dependent origination, non-self, and liberation.",
+  "keywordsEn": [
+    "the Four Noble Truths",
+    "dependent origination",
+    "non-self (anatta)",
+    "the Middle Way",
+    "the Noble Eightfold Path",
+    "nirvana"
+  ],
+  "oneLineEs": "Reformuló el pensamiento indio sobre la vida, el apego y la libertad mediante el dukkha (sufrimiento), el origen dependiente, el no-yo y el camino de la liberación.",
+  "keywordsEs": [
+    "las Cuatro Nobles Verdades",
+    "origen dependiente",
+    "no-yo (anatta)",
+    "el Camino Medio",
+    "el Noble Óctuple Sendero",
+    "nirvana"
+  ]
 }

@@ -26,7 +26,7 @@
     "专修念佛",
     "日本佛教"
   ],
-  "oneLineZh": "日本净土宗奠基者，以专修念佛重组净土传统。",
+  "oneLineZh": "日本净土宗开派人物，以专修念佛重组净土信仰之传统。",
   "influenceWeight": 2,
   "reviewStatus": "draft",
   "summaryZh": "法然是日本净土宗的关键人物，其专修念佛思想连接善导净土传统并影响亲鸾。本条仅作 seed 身份层定位。",
@@ -39,5 +39,17 @@
       "url": "https://iep.utm.edu/honen/",
       "noteZh": "IEP Honen 条目用于核验法然身份、净土宗定位和代表作。"
     }
+  ],
+  "oneLineEn": "Founding figure of Japanese Pure Land, remaking the tradition around exclusive nembutsu practice.",
+  "keywordsEn": [
+    "Pure Land school",
+    "exclusive nembutsu",
+    "Japanese Buddhism"
+  ],
+  "oneLineEs": "Fundador del budismo japonés de Tierra Pura que reorganizó la tradición en torno al nembutsu exclusivo.",
+  "keywordsEs": [
+    "escuela de Tierra Pura",
+    "nembutsu exclusivo",
+    "budismo japonés"
   ]
 }

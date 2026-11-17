@@ -28,7 +28,7 @@
     "自律",
     "现象与物自身"
   ],
-  "oneLineZh": "以批判哲学重设知识、自由和道德法则的边界。",
+  "oneLineZh": "以先验形式说明经验知识何以可能，用定言命令与自律重设道德与自由。",
   "influenceWeight": 3,
   "reviewStatus": "reviewed",
   "summaryZh": "康德通过批判哲学追问经验知识何以可能，并以自律和定言命令重构现代道德主体。",
@@ -359,5 +359,14 @@
       }
     ]
   },
-  "tier": "standard"
+  "tier": "standard",
+  "keywordsEn": [
+    "Transcendental idealism",
+    "Categories",
+    "Categorical imperative",
+    "Autonomy",
+    "Appearance and thing-in-itself"
+  ],
+  "oneLineEn": "Shows how experience is possible via a priori forms; categorical imperative and autonomy reset morality and freedom.",
+  "oneLineEs": "Mediante la filosofía crítica redefinió los límites del conocimiento, de la libertad y de la ley moral."
 }

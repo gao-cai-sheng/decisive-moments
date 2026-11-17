@@ -31,7 +31,7 @@
     "因明",
     "遮诠"
   ],
-  "oneLineZh": "以《集量论》奠定佛教量论，把有效认知限定为现量与比量，并提出遮诠语言理论。",
+  "oneLineZh": "以《集量论》建立佛教量论，把有效认知限定为现量与比量，并提出遮诠语言理论。",
   "influenceWeight": 3,
   "reviewStatus": "draft",
   "summaryZh": "陈那是印度佛教逻辑与认识论的关键奠基者，他在《集量论》中把有效认知归为现量和比量，区分自相与共相，发展因明三相和遮诠语义学；其体系继承世亲与瑜伽行派问题，并成为法称及藏传量论传统的出发点。",
@@ -294,5 +294,21 @@
       }
     ]
   },
-  "tier": "standard"
+  "tier": "standard",
+  "oneLineEn": "Built Buddhist pramāṇa theory, limiting valid cognition to perception and inference, with apoha semantics.",
+  "keywordsEn": [
+    "pramana theory",
+    "perception (pratyaksa)",
+    "inference (anumana)",
+    "hetuvidya (Buddhist logic)",
+    "apoha (exclusion)"
+  ],
+  "oneLineEs": "Fundó la teoría budista del pramāṇa, limitando la cognición válida a la percepción y la inferencia, con semántica del apoha (exclusión).",
+  "keywordsEs": [
+    "teoría del pramāṇa",
+    "percepción (pratyakṣa)",
+    "inferencia (anumāna)",
+    "hetuvidyā (lógica budista)",
+    "apoha (exclusión)"
+  ]
 }

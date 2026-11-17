@@ -28,7 +28,7 @@
     "阿维斯布朗",
     "普遍质料"
   ],
-  "oneLineZh": "以《生命之源》提出新柏拉图主义形而上学，在拉丁经院传统中以 Avicebron 著称。",
+  "oneLineZh": "以《生命之源》提出新柏拉图主义形而上学，拉丁经院称 Avicebron。",
   "influenceWeight": 2,
   "reviewStatus": "draft",
   "summaryZh": "伊本·盖比鲁勒（约1021—约1070）是 Seed W8 犹太文明补线候选。其身份层定位为：安达卢斯犹太诗人与哲学家，以《生命之源》进入拉丁传统，被称为 Avicebron，并围绕普遍质料与形式展开新柏拉图主义形而上学。本条仅作 seed 档基本定位，后续若升级标准档，必须重新做著作、论点与 evidence 研究。",
@@ -42,5 +42,17 @@
       "url": "https://plato.stanford.edu/entries/ibn-gabirol/",
       "noteZh": "来源：SEP / Solomon Ibn Gabirol [Avicebron]；用于核验人物身份、断代、《生命之源》与新柏拉图主义定位。"
     }
+  ],
+  "oneLineEn": "In Fons Vitae sets out Neoplatonic metaphysics; known in Latin scholasticism as Avicebron.",
+  "keywordsEn": [
+    "Fons Vitae",
+    "Avicebron",
+    "universal matter"
+  ],
+  "oneLineEs": "Expone una metafísica neoplatónica en la Fuente de la vida y es conocido en la escolástica latina como Avicebrón.",
+  "keywordsEs": [
+    "Fuente de la vida",
+    "Avicebrón",
+    "materia universal"
   ]
 }

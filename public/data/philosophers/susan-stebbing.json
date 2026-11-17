@@ -22,11 +22,11 @@
     "knowledge"
   ],
   "keywordsZh": [
-    "身份层",
-    "二线哲人",
-    "思想史补线"
+    "分析哲学",
+    "逻辑经验主义",
+    "清晰思考"
   ],
-  "oneLineZh": "早期分析哲学与逻辑经验主义传播者，可补女性分析哲学前史。",
+  "oneLineZh": "英国第一位女性哲学教授，以《有目的的思维》推广逻辑分析与公共说理。",
   "influenceWeight": 2,
   "reviewStatus": "draft",
   "summaryZh": "苏珊·斯特宾（1885—1943）是 W2 欧陆与英美近现代二线哲人候选。其身份层入选理由为：早期分析哲学与逻辑经验主义传播者，可补女性分析哲学前史。 本条仅作 seed 档基本定位，后续若升级标准档，需要重新做著作、论点与 evidence 研究。",
@@ -39,5 +39,17 @@
       "label": "S011",
       "noteZh": "权威来源条目：SEP: Susan Stebbing；用于核验人物身份、生卒、代表著作和思想史定位。"
     }
+  ],
+  "oneLineEn": "Britain's first woman philosophy professor; Thinking to Some Purpose spread logical analysis for public reasoning.",
+  "keywordsEn": [
+    "analytic philosophy",
+    "logical empiricism",
+    "clear thinking"
+  ],
+  "oneLineEs": "Primera mujer catedrática de filosofía en Gran Bretaña; con Thinking to Some Purpose difundió el análisis lógico y el razonamiento público.",
+  "keywordsEs": [
+    "filosofía analítica",
+    "empirismo lógico",
+    "pensamiento claro"
   ]
 }

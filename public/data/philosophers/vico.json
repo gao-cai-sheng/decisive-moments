@@ -30,7 +30,7 @@
     "民族世界",
     "反笛卡尔"
   ],
-  "oneLineZh": "以 verum factum 原则和《新科学》开出历史、法、神话和语言的人类自造世界。",
+  "oneLineZh": "以 verum factum 与《新科学》开出历史、法、神话与语言的自造世界。",
   "influenceWeight": 2,
   "reviewStatus": "draft",
   "summaryZh": "维柯批评单一化的笛卡尔方法，主张人类最能认识自身所造的历史制度、语言、神话和法律，因此成为现代历史主义的重要前驱。",
@@ -288,5 +288,21 @@
       }
     ]
   },
-  "tier": "standard"
+  "tier": "standard",
+  "oneLineEn": "Opens history, law, myth, and language as human-made world via verum factum and the New Science.",
+  "keywordsEn": [
+    "New Science",
+    "verum factum",
+    "poetic wisdom",
+    "world of nations",
+    "anti-Cartesianism"
+  ],
+  "oneLineEs": "Abrió la historia, el derecho, el mito y el lenguaje como mundo hecho por el hombre mediante el principio verum factum y la Ciencia nueva.",
+  "keywordsEs": [
+    "Ciencia nueva",
+    "verum factum",
+    "sabiduría poética",
+    "mundo de las naciones",
+    "anticartesianismo"
+  ]
 }

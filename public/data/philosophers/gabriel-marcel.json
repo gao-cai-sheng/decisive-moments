@@ -23,10 +23,10 @@
   ],
   "keywordsZh": [
     "存在主义",
-    "身份层",
-    "二线哲人"
+    "奥秘",
+    "希望"
   ],
-  "oneLineZh": "基督教存在主义代表，可补萨特之外的存在主义分支。",
+  "oneLineZh": "基督教存在主义代表，以「奥秘」与「问题」之分和希望现象学立说。",
   "influenceWeight": 2,
   "reviewStatus": "draft",
   "summaryZh": "加布里埃尔·马塞尔（1889—1973）是 W2 欧陆与英美近现代二线哲人候选。其身份层入选理由为：基督教存在主义代表，可补萨特之外的存在主义分支。 本条仅作 seed 档基本定位，后续若升级标准档，需要重新做著作、论点与 evidence 研究。",
@@ -39,5 +39,17 @@
       "label": "S011",
       "noteZh": "权威来源条目：SEP: Gabriel Marcel；用于核验人物身份、生卒、代表著作和思想史定位。"
     }
+  ],
+  "oneLineEn": "Christian existentialist who distinguished mystery from problem and developed a phenomenology of hope.",
+  "keywordsEn": [
+    "existentialism",
+    "mystery",
+    "hope"
+  ],
+  "oneLineEs": "Representante del existencialismo cristiano; elaboró la distinción entre «misterio» y «problema» y una fenomenología de la esperanza.",
+  "keywordsEs": [
+    "existencialismo",
+    "misterio",
+    "esperanza"
   ]
 }

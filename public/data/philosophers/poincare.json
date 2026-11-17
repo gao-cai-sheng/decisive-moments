@@ -22,11 +22,11 @@
     "metaphysics"
   ],
   "keywordsZh": [
-    "法国哲学",
-    "身份层",
-    "思想史补线"
+    "约定论",
+    "科学方法",
+    "数学基础"
   ],
-  "oneLineZh": "约定论与科学方法论代表，接数学基础与 duhem。",
+  "oneLineZh": "约定论代表，主张几何公理既非经验也非先验，而是约定。",
   "influenceWeight": 2,
   "reviewStatus": "draft",
   "summaryZh": "昂利·庞加莱（1854—1912）是 Seed W3 法国近现代—现当代二线哲人候选。其身份层入选理由为：约定论与科学方法论代表，接数学基础与 duhem。 本条仅作 seed 档基本定位，后续若升级标准档，必须重新做著作、论点与 evidence 研究。",
@@ -40,5 +40,17 @@
       "url": "https://plato.stanford.edu/entries/poincare/",
       "noteZh": "权威来源条目：SEP: Henri Poincaré；用于核验人物身份、生卒、代表著作和思想史定位。"
     }
+  ],
+  "oneLineEn": "Conventionalism: geometric axioms are neither empirical nor a priori, but conventions.",
+  "keywordsEn": [
+    "conventionalism",
+    "scientific method",
+    "foundations of mathematics"
+  ],
+  "oneLineEs": "Representante del convencionalismo; sostiene que los axiomas geométricos no son empíricos ni a priori, sino convenciones.",
+  "keywordsEs": [
+    "convencionalismo",
+    "método científico",
+    "fundamentos de la matemática"
   ]
 }

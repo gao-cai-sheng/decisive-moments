@@ -29,7 +29,7 @@
     "教育改革",
     "安的列斯联邦"
   ],
-  "oneLineZh": "波多黎各教育家与伦理思想家，以社会伦理和安的列斯解放方案连接实证主义与反殖民政治。",
+  "oneLineZh": "波多黎各教育家与伦理思想家，以社会伦理和安的列斯解放连接实证主义与反殖民。",
   "influenceWeight": 2,
   "reviewStatus": "draft",
   "summaryZh": "奥斯托斯在拉美思想史中连接教育改革、社会伦理和加勒比反殖民政治。seed 档先记录其作为教育哲学、伦理学和安的列斯联邦论述节点的身份。",
@@ -43,5 +43,17 @@
       "url": "https://www.cervantesvirtual.com/portales/eugenio_maria_de_hostos/",
       "noteZh": "Biblioteca Virtual Miguel de Cervantes 的 Hostos 作者页用于核验其身份、作品和教育/伦理思想线索。"
     }
+  ],
+  "oneLineEn": "Puerto Rican educator-ethicist linking social ethics and Antillean liberation to positivism and anti-colonialism.",
+  "keywordsEn": [
+    "social ethics",
+    "educational reform",
+    "Antillean Confederation"
+  ],
+  "oneLineEs": "Educador y pensador ético puertorriqueño que vincula la ética social y el proyecto de liberación antillana con el positivismo y la política anticolonial.",
+  "keywordsEs": [
+    "ética social",
+    "reforma educativa",
+    "Confederación Antillana"
   ]
 }

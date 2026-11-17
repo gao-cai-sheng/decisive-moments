@@ -31,7 +31,7 @@
     "往事与随想",
     "农民社会主义",
     "西化派",
-    "自由"
+    "个人自由"
   ],
   "oneLineZh": "俄国西化派与流亡思想家，以个人自由、农民社会主义和俄国现代化问题著称。",
   "influenceWeight": 3,
@@ -430,5 +430,19 @@
         ]
       }
     ]
-  }
+  },
+  "keywordsEn": [
+    "My Past and Thoughts",
+    "peasant socialism",
+    "Westernizers",
+    "personal freedom"
+  ],
+  "oneLineEn": "Russian Westernizer and exile thinker known for personal freedom, peasant socialism, and Russia's modernization problem.",
+  "oneLineEs": "Pensador occidentalista y exiliado ruso conocido por la libertad personal, el socialismo campesino y el problema de la modernización de Rusia.",
+  "keywordsEs": [
+    "Pasado y pensamientos",
+    "socialismo campesino",
+    "occidentalistas",
+    "libertad"
+  ]
 }

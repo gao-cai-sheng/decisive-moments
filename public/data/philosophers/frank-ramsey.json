@@ -23,10 +23,10 @@
   ],
   "keywordsZh": [
     "剑桥分析",
-    "身份层",
-    "二线哲人"
+    "概率",
+    "真理紧缩论"
   ],
-  "oneLineZh": "真理、概率、决策与经济哲学的早期枢纽，可补剑桥分析传统。",
+  "oneLineZh": "真理、概率、决策与经济学的早期枢纽，二十六岁早逝仍留下多重奠基性工作。",
   "influenceWeight": 2,
   "reviewStatus": "draft",
   "summaryZh": "弗兰克·拉姆齐（1903—1930）是 W2 欧陆与英美近现代二线哲人候选。其身份层入选理由为：真理、概率、决策与经济哲学的早期枢纽，可补剑桥分析传统。 本条仅作 seed 档基本定位，后续若升级标准档，需要重新做著作、论点与 evidence 研究。",
@@ -39,5 +39,17 @@
       "label": "S010",
       "noteZh": "权威来源条目：SEP: Frank Ramsey；用于核验人物身份、生卒、代表著作和思想史定位。"
     }
+  ],
+  "oneLineEn": "Early hub of truth, probability, decision, and economics; foundational work despite death at twenty-six.",
+  "keywordsEn": [
+    "Cambridge analysis",
+    "probability",
+    "deflationary theory of truth"
+  ],
+  "oneLineEs": "Nudo temprano de la verdad, la probabilidad, la decisión y la economía; pese a morir a los veintiséis años, dejó múltiples trabajos fundacionales.",
+  "keywordsEs": [
+    "análisis de Cambridge",
+    "probabilidad",
+    "teoría deflacionaria de la verdad"
   ]
 }

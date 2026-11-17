@@ -289,5 +289,19 @@
       }
     ]
   },
-  "tier": "standard"
+  "tier": "standard",
+  "oneLineEn": "Helped revive virtue ethics through analysis of intentional action and critique of modern moral philosophy.",
+  "keywordsEn": [
+    "intention",
+    "philosophy of action",
+    "virtue ethics",
+    "Wittgenstein"
+  ],
+  "oneLineEs": "Impulsó el renacimiento de la ética de la virtud mediante el análisis de la acción intencional y la crítica de la filosofía moral moderna.",
+  "keywordsEs": [
+    "intención",
+    "filosofía de la acción",
+    "ética de la virtud",
+    "Wittgenstein"
+  ]
 }

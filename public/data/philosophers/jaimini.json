@@ -24,7 +24,7 @@
     "祭祀解释学",
     "传统归属"
   ],
-  "oneLineZh": "《弥曼差经》的传统归属作者，前弥曼差祭祀解释学的身份层锚点。",
+  "oneLineZh": "《弥曼差经》的传统归属作者，前弥曼差的祭祀解释学由此立宗。",
   "influenceWeight": 2,
   "reviewStatus": "draft",
   "summaryZh": "阇弥尼是《弥曼差经》的传统归属作者，被置于前弥曼差解释学和祭祀义理传统的开端位置。其精确时代与文本成书仍需标准档研究复核。",
@@ -37,5 +37,17 @@
       "url": "https://plato.stanford.edu/entries/mimamsa/",
       "noteZh": "SEP Mīmāṃsā 条目用于核验弥曼差传统、《弥曼差经》和阇弥尼的传统归属。"
     }
+  ],
+  "oneLineEn": "Jaimini is traditionally credited with the Mīmāṃsā Sūtra, grounding early Mīmāṃsā ritual hermeneutics.",
+  "keywordsEn": [
+    "Mīmāṃsā",
+    "ritual hermeneutics",
+    "traditional attribution"
+  ],
+  "oneLineEs": "Autor tradicionalmente atribuido del Mīmāṃsā Sūtra; aquí se funda la hermenéutica ritual del pūrva-mīmāṃsā.",
+  "keywordsEs": [
+    "Mīmāṃsā",
+    "hermenéutica ritual",
+    "atribución tradicional"
   ]
 }

@@ -290,5 +290,21 @@
       }
     ]
   },
-  "tier": "standard"
+  "tier": "standard",
+  "oneLineEn": "Extended Zera Yacob's rational inquiry into education, family, labor, and social responsibility.",
+  "keywordsEn": [
+    "Hatata (Inquiry)",
+    "social ethics",
+    "education",
+    "religion of reason",
+    "practical wisdom"
+  ],
+  "oneLineEs": "Prolongó la indagación racional de Zera Yacob hacia la educación, la familia, el trabajo y la responsabilidad social.",
+  "keywordsEs": [
+    "Hatata (Indagación)",
+    "ética social",
+    "educación",
+    "religión de la razón",
+    "sabiduría práctica"
+  ]
 }

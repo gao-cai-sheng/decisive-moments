@@ -296,5 +296,21 @@
       }
     ]
   },
-  "tier": "standard"
+  "tier": "standard",
+  "oneLineEn": "Connected Kierkegaard, Nietzsche, Heidegger, and Arendt through Existenz, limit situations, and the Axial Age.",
+  "keywordsEn": [
+    "Existenz",
+    "limit situations",
+    "the Encompassing",
+    "Axial Age",
+    "the question of guilt"
+  ],
+  "oneLineEs": "Conectó a Kierkegaard, Nietzsche, Heidegger y Arendt mediante la filosofía de la Existenz, las situaciones límite y la Era Axial.",
+  "keywordsEs": [
+    "Existenz",
+    "situaciones límite",
+    "lo Abarcante",
+    "Era Axial",
+    "la cuestión de la culpa"
+  ]
 }

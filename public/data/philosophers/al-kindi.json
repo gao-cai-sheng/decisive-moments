@@ -31,7 +31,7 @@
     "理智",
     "创造"
   ],
-  "oneLineZh": "作为阿拉伯哲学源头人物，把希腊哲学翻译运动、第一哲学和伊斯兰一神论组织到同一项目中。",
+  "oneLineZh": "把希腊哲学翻译运动、第一哲学与伊斯兰一神论组织为阿拉伯哲学源头项目。",
   "influenceWeight": 3,
   "reviewStatus": "draft",
   "summaryZh": "肯迪处在阿拔斯翻译运动和早期阿拉伯哲学形成期，他把亚里士多德、柏拉图和新柏拉图主义材料转化为阿拉伯语哲学问题，围绕第一哲学、神的唯一性、创造、理智和科学分类奠定法拉比与伊本·西那之前的传统起点。",
@@ -296,5 +296,21 @@
       }
     ]
   },
-  "tier": "standard"
+  "tier": "standard",
+  "oneLineEn": "Unites Greek translation, first philosophy, and Islamic monotheism as a founding Arabic philosophy project.",
+  "keywordsEn": [
+    "Arabic philosophy",
+    "first philosophy",
+    "translation movement",
+    "intellect",
+    "creation"
+  ],
+  "oneLineEs": "Figura fundadora de la filosofía árabe que unió el movimiento de traducción griega, la primera filosofía y el monoteísmo islámico en un mismo proyecto.",
+  "keywordsEs": [
+    "filosofía árabe",
+    "primera filosofía",
+    "movimiento de traducción",
+    "intelecto",
+    "creación"
+  ]
 }

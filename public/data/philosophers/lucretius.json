@@ -287,5 +287,14 @@
       }
     ]
   },
-  "tier": "standard"
+  "tier": "standard",
+  "keywordsEn": [
+    "De Rerum Natura",
+    "Atoms and void",
+    "Dispelling religious fear",
+    "Death is nothing to us",
+    "Teaching through poetry"
+  ],
+  "oneLineEn": "Roman Epicurean poet who, in De Rerum Natura, uses atomism to cure fear of the gods and of death.",
+  "oneLineEs": "Poeta epicúreo romano que, en De rerum natura, usa el atomismo para curar el miedo a los dioses y a la muerte."
 }

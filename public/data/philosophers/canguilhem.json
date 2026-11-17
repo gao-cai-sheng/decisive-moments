@@ -23,11 +23,11 @@
     "life_death"
   ],
   "keywordsZh": [
-    "法国哲学",
-    "身份层",
-    "思想史补线"
+    "正常与病态",
+    "生命科学史",
+    "医学哲学"
   ],
-  "oneLineZh": "正常与病态、生命科学史，foucault 直系导师。★升档候选",
+  "oneLineZh": "《正常与病态》以生命的规范性重写医学哲学，是福柯的直系导师。",
   "influenceWeight": 2,
   "reviewStatus": "draft",
   "summaryZh": "乔治·康吉莱姆（1904—1995）是 Seed W3 法国近现代—现当代二线哲人候选。其身份层入选理由为：正常与病态、生命科学史，foucault 直系导师。★升档候选 本条仅作 seed 档基本定位，后续若升级标准档，必须重新做著作、论点与 evidence 研究。",
@@ -41,5 +41,17 @@
       "url": "https://plato.stanford.edu/entries/canguilhem/",
       "noteZh": "权威来源条目：SEP: Georges Canguilhem；用于核验人物身份、生卒、代表著作和思想史定位。"
     }
+  ],
+  "oneLineEn": "The Normal and the Pathological rewrote philosophy of medicine via vital normativity; Foucault's mentor.",
+  "keywordsEn": [
+    "the normal and the pathological",
+    "history of the life sciences",
+    "philosophy of medicine"
+  ],
+  "oneLineEs": "*Lo normal y lo patológico* reescribió la filosofía de la medicina desde la normatividad vital; fue el mentor directo de Foucault.",
+  "keywordsEs": [
+    "lo normal y lo patológico",
+    "historia de las ciencias de la vida",
+    "filosofía de la medicina"
   ]
 }

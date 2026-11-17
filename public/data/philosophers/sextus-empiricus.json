@@ -289,5 +289,21 @@
       }
     ]
   },
-  "tier": "standard"
+  "tier": "standard",
+  "oneLineEn": "Preserved ancient Pyrrhonism in the Outlines and Against the Professors, a hub for early modern skeptical revival.",
+  "keywordsEn": [
+    "suspension of judgment (epochē)",
+    "equipollence",
+    "ataraxia",
+    "Pyrrhonism",
+    "anti-dogmatism"
+  ],
+  "oneLineEs": "Preservó el pirronismo antiguo en los Esbozos pirrónicos y Contra los profesores, nodo textual del renacimiento escéptico moderno temprano.",
+  "keywordsEs": [
+    "suspensión del juicio (epochē)",
+    "equipolencia",
+    "ataraxia",
+    "pirronismo",
+    "antidogmatismo"
+  ]
 }

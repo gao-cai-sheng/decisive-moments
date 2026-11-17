@@ -28,7 +28,7 @@
     "朱子学",
     "清初循吏"
   ],
-  "oneLineZh": "清初程朱学者和循吏，以尊朱、讲学和地方治理著称。",
+  "oneLineZh": "清初程朱学者与循吏，以尊朱讲学并重视地方治理实践。",
   "influenceWeight": 2,
   "reviewStatus": "draft",
   "summaryZh": "陆陇其，字稼书，号三鱼，浙江平湖人，清初理学家和官员。他尊崇朱子学，重视居敬穷理、地方教化和官箴实践。《三鱼堂文集》《松阳讲义》等保存其讲学和政教材料。陆陇其代表清初官方儒学和程朱道统的整饬方向，与颜李实学、考据学构成不同路线。",
@@ -42,5 +42,17 @@
       "url": "https://ctext.org/wiki.pl?if=en&searchu=%E9%99%B8%E9%9A%B4%E5%85%B6",
       "noteZh": "以陆陇其《三鱼堂文集》《松阳讲义》支撑身份层。"
     }
+  ],
+  "oneLineEn": "Early Qing Cheng-Zhu scholar-official joining Zhu Xi teaching to local governance practice.",
+  "keywordsEn": [
+    "Sanyutang",
+    "Zhu Xi Learning",
+    "early Qing upright official"
+  ],
+  "oneLineEs": "Erudito-oficial Cheng-Zhu de inicios Qing, conocido por honrar a Zhu Xi, la conferencia y la gobernanza local.",
+  "keywordsEs": [
+    "Sanyutang",
+    "aprendizaje de Zhu Xi",
+    "oficial recto de inicios Qing"
   ]
 }

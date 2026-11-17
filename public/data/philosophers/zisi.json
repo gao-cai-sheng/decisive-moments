@@ -27,7 +27,7 @@
     "孔门后学",
     "性命"
   ],
-  "oneLineZh": "孔子之孙、战国早期儒家传承中连接孔孟的重要人物。",
+  "oneLineZh": "孔子之孙，处孔孟之间，传承中庸与心性脉络的关键环节。",
   "influenceWeight": 2,
   "reviewStatus": "draft",
   "summaryZh": "子思，名孔伋，孔子之孙，处于孔子弟子群之后、孟子之前的战国儒家谱系节点。后世常把《中庸》与子思传统相连，强调中和、诚、性命与天道之间的连续性。虽然其著述归属有复杂传承问题，子思在儒家道统叙事中仍被视为孔孟之间的重要桥梁。",
@@ -41,5 +41,17 @@
       "url": "https://ctext.org/liji/zhong-yong",
       "noteZh": "以《中庸》传统与《孟子》相关记载支撑子思身份层。"
     }
+  ],
+  "oneLineEn": "Confucius's grandson, a key link between Confucius and Mencius in Zhongyong and heart-nature lines.",
+  "keywordsEn": [
+    "the Doctrine of the Mean",
+    "later Confucian disciples",
+    "nature and destiny (xing-ming)"
+  ],
+  "oneLineEs": "Nieto de Confucio y eslabón clave de inicios de los Reinos Combatientes en la transmisión de Confucio a Mencio.",
+  "keywordsEs": [
+    "la Doctrina del Medio",
+    "discípulos confucianos posteriores",
+    "naturaleza y destino (xing-ming)"
   ]
 }

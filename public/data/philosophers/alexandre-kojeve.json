@@ -22,11 +22,11 @@
     "life_death"
   ],
   "keywordsZh": [
-    "身份层",
-    "二线哲人",
-    "思想史补线"
+    "黑格尔解释",
+    "主奴辩证法",
+    "历史终结"
   ],
-  "oneLineZh": "黑格尔《精神现象学》法国解释的关键人物，可补法国存在主义与后结构主义前史。",
+  "oneLineZh": "以主奴辩证法讲授《精神现象学》，塑造了整整一代法国思想家。",
   "influenceWeight": 2,
   "reviewStatus": "draft",
   "summaryZh": "亚历山大·科耶夫（1902—1968）是 W2 欧陆与英美近现代二线哲人候选。其身份层入选理由为：黑格尔《精神现象学》法国解释的关键人物，可补法国存在主义与后结构主义前史。 本条仅作 seed 档基本定位，后续若升级标准档，需要重新做著作、论点与 evidence 研究。",
@@ -38,5 +38,17 @@
       "label": "S014",
       "noteZh": "权威来源条目：Routledge Encyclopedia of Philosophy: Kojève, Alexandre；用于核验人物身份、生卒、代表著作和思想史定位。"
     }
+  ],
+  "oneLineEn": "Lectures on the Phenomenology via master-slave dialectic shaped a generation of French thinkers.",
+  "keywordsEn": [
+    "Hegel interpretation",
+    "master-slave dialectic",
+    "end of history"
+  ],
+  "oneLineEs": "Sus lecciones sobre la *Fenomenología del espíritu* a través de la dialéctica del amo y del esclavo formaron a toda una generación de pensadores franceses.",
+  "keywordsEs": [
+    "interpretación de Hegel",
+    "dialéctica del amo y del esclavo",
+    "fin de la historia"
   ]
 }

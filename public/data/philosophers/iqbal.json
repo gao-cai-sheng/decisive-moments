@@ -289,5 +289,21 @@
       }
     ]
   },
-  "tier": "standard"
+  "tier": "standard",
+  "oneLineEn": "Answered modernity's religion and self problems via self-philosophy, Islamic reconstruction, and poetic politics.",
+  "keywordsEn": [
+    "the self",
+    "khudi (selfhood)",
+    "reconstruction of Islamic thought",
+    "creative process",
+    "spiritual democracy"
+  ],
+  "oneLineEs": "Respondió a los problemas de religión y sujeto en la modernidad mediante una filosofía del self, la reconstrucción del pensamiento islámico y una imaginación político-poética.",
+  "keywordsEs": [
+    "el self",
+    "khudi (sí-mismo)",
+    "reconstrucción del pensamiento islámico",
+    "proceso creativo",
+    "democracia espiritual"
+  ]
 }

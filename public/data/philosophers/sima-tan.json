@@ -28,7 +28,7 @@
     "太史令",
     "史记前史"
   ],
-  "oneLineZh": "西汉太史令，以六家分类奠定《史记》思想框架。",
+  "oneLineZh": "西汉太史令，以六家分类为《史记》思想框架提供前史。",
   "influenceWeight": 2,
   "reviewStatus": "draft",
   "summaryZh": "司马谈，西汉太史令，司马迁之父，是《史记》形成前的重要知识组织者。《史记·太史公自序》保存《论六家要旨》，将阴阳、儒、墨、名、法、道德六家加以评述，尤其推重道家兼采众长。司马谈的意义在于把诸子分类、史官职责和汉代知识秩序连接起来，为司马迁的通史写作提供框架。",
@@ -41,5 +41,17 @@
       "url": "https://ctext.org/shiji/tai-shi-gong-zi-xu",
       "noteZh": "以《史记·太史公自序》支撑司马谈身份、作品和六家分类。"
     }
+  ],
+  "oneLineEn": "Western Han Grand Astrologer whose six-schools taxonomy framed later thought in the Shiji project.",
+  "keywordsEn": [
+    "Essentials of the Six Schools",
+    "Grand Historian",
+    "prehistory of the Shiji"
+  ],
+  "oneLineEs": "Gran Historiador de los Han Occidentales cuya taxonomía de las seis escuelas sentó el marco intelectual del Shiji.",
+  "keywordsEs": [
+    "Esencia de las seis escuelas",
+    "Gran Historiador",
+    "prehistoria del Shiji"
   ]
 }

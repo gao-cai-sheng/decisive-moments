@@ -368,5 +368,19 @@
         ]
       }
     ]
-  }
+  },
+  "oneLineEn": "One of the Cappadocian Fathers; shaped Greek patristics via Trinitarian theology, creation exegesis, and monastic rules.",
+  "keywordsEn": [
+    "Cappadocian Fathers",
+    "Trinitarian theology",
+    "Hexaemeron",
+    "monastic rules"
+  ],
+  "oneLineEs": "Uno de los tres Padres Capadocios que, con la teología trinitaria, la exégesis de la creación y las reglas monásticas, constituye el núcleo de la tradición patrística griega.",
+  "keywordsEs": [
+    "Padres Capadocios",
+    "teología trinitaria",
+    "Hexaémeron",
+    "reglas monásticas"
+  ]
 }

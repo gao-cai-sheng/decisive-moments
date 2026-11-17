@@ -22,11 +22,11 @@
     "knowledge"
   ],
   "keywordsZh": [
-    "身份层",
-    "二线哲人",
-    "思想史补线"
+    "社会自我",
+    "符号互动",
+    "角色采择"
   ],
-  "oneLineZh": "社会行为主义与自我理论代表，可补实用主义社会心理学线索。",
+  "oneLineZh": "以主我与客我之分和角色采择建立社会自我的基本理论。",
   "influenceWeight": 2,
   "reviewStatus": "draft",
   "summaryZh": "乔治·赫伯特·米德（1863—1931）是 W2 欧陆与英美近现代二线哲人候选。其身份层入选理由为：社会行为主义与自我理论代表，可补实用主义社会心理学线索。 本条仅作 seed 档基本定位，后续若升级标准档，需要重新做著作、论点与 evidence 研究。",
@@ -39,5 +39,17 @@
       "label": "S007",
       "noteZh": "权威来源条目：SEP: George Herbert Mead；用于核验人物身份、生卒、代表著作和思想史定位。"
     }
+  ],
+  "oneLineEn": "Builds a theory of the social self through I/me distinction and role-taking.",
+  "keywordsEn": [
+    "social self",
+    "symbolic interaction",
+    "role-taking"
+  ],
+  "oneLineEs": "Construyó una teoría del yo social mediante la distinción yo/mí (I/me) y la asunción de roles.",
+  "keywordsEs": [
+    "yo social",
+    "interaccionismo simbólico",
+    "asunción de roles"
   ]
 }

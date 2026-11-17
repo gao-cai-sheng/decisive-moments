@@ -22,11 +22,11 @@
     "metaphysics"
   ],
   "keywordsZh": [
-    "唯心主义",
-    "身份层",
-    "二线哲人"
+    "绝对唯心主义",
+    "内在关系",
+    "现象与实在"
   ],
-  "oneLineZh": "英国绝对唯心主义代表，可补罗素与摩尔反叛前的靶心。",
+  "oneLineZh": "英国绝对唯心主义代表，以关系的内在性论证成为罗素与摩尔反叛的靶心。",
   "influenceWeight": 2,
   "reviewStatus": "draft",
   "summaryZh": "弗朗西斯·赫伯特·布拉德利（1846—1924）是 W2 欧陆与英美近现代二线哲人候选。其身份层入选理由为：英国绝对唯心主义代表，可补罗素与摩尔反叛前的靶心。 本条仅作 seed 档基本定位，后续若升级标准档，需要重新做著作、论点与 evidence 研究。",
@@ -39,5 +39,17 @@
       "label": "S006",
       "noteZh": "权威来源条目：SEP: Francis Herbert Bradley；用于核验人物身份、生卒、代表著作和思想史定位。"
     }
+  ],
+  "oneLineEn": "British absolute idealist; internal relations became a main target of the Russell-Moore revolt.",
+  "keywordsEn": [
+    "absolute idealism",
+    "internal relations",
+    "Appearance and Reality"
+  ],
+  "oneLineEs": "Representante del idealismo absoluto británico; su argumentación sobre la internalidad de las relaciones se convirtió en blanco de la revuelta de Russell y Moore.",
+  "keywordsEs": [
+    "idealismo absoluto",
+    "relaciones internas",
+    "Apariencia y realidad"
   ]
 }

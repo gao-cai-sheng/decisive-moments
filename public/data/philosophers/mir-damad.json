@@ -29,7 +29,7 @@
     "萨德拉之师",
     "时间创生"
   ],
-  "oneLineZh": "伊斯法罕学派核心人物和萨德拉之师，以时间、永恒和创生问题构成萨法维哲学的重要节点。",
+  "oneLineZh": "伊斯法罕学派核心与萨德拉之师，以时间、永恒和创生问题组织萨法维哲学。",
   "influenceWeight": 2,
   "reviewStatus": "draft",
   "summaryZh": "米尔·达马德（约1561—1631）是 Seed W7 伊斯兰文明晚期与近现代补线候选。其身份层入选理由为：伊斯法罕学派核心人物和萨德拉之师，以时间、永恒和创生问题构成萨法维哲学的重要节点。本条仅作 seed 档基本定位，后续若升级标准档，必须重新做著作、论点与 evidence 研究。",
@@ -43,5 +43,17 @@
       "url": "https://www.iranicaonline.org/articles/damad-mir-mohammad-baqer",
       "noteZh": "来源：Encyclopaedia Iranica / DAMAD, MIR；用于核验人物身份、生卒断代、伊斯法罕学派和萨德拉之师定位。"
     }
+  ],
+  "oneLineEn": "Isfahan School core and teacher of Mullā Ṣadrā; frames Safavid philosophy via time, eternity, creation.",
+  "keywordsEn": [
+    "Isfahan School",
+    "teacher of Mullā Ṣadrā",
+    "time and creation"
+  ],
+  "oneLineEs": "Figura central de la Escuela de Isfahán y maestro de Mullā Ṣadrā; el tiempo, la eternidad y la creación constituyen un nodo importante de la filosofía safaví.",
+  "keywordsEs": [
+    "Escuela de Isfahán",
+    "maestro de Mullā Ṣadrā",
+    "tiempo y creación"
   ]
 }

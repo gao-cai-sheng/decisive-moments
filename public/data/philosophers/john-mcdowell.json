@@ -21,11 +21,11 @@
     "metaphysics"
   ],
   "keywordsZh": [
-    "身份层",
-    "二线哲人",
-    "思想史补线"
+    "概念经验",
+    "德性伦理",
+    "匹兹堡学派"
   ],
-  "oneLineZh": "心灵与世界、德性伦理与概念经验代表，可补分析哲学与黑格尔传统接口。",
+  "oneLineZh": "《心灵与世界》主张经验本身已是概念性的，重连分析哲学与黑格尔传统。",
   "influenceWeight": 2,
   "reviewStatus": "draft",
   "summaryZh": "约翰·麦克道威尔（1942—）是 W2 欧陆与英美近现代二线哲人候选。其身份层入选理由为：心灵与世界、德性伦理与概念经验代表，可补分析哲学与黑格尔传统接口。 本条仅作 seed 档基本定位，后续若升级标准档，需要重新做著作、论点与 evidence 研究。",
@@ -38,5 +38,17 @@
       "label": "S018",
       "noteZh": "权威来源条目：SEP: John McDowell；用于核验人物身份、生卒、代表著作和思想史定位。"
     }
+  ],
+  "oneLineEn": "Mind and World holds experience already conceptual, reconnecting analysis with Hegel.",
+  "keywordsEn": [
+    "conceptual experience",
+    "virtue ethics",
+    "Pittsburgh School"
+  ],
+  "oneLineEs": "Mente y mundo sostiene que la experiencia es ya conceptual y reenlaza la filosofía analítica con la tradición hegeliana.",
+  "keywordsEs": [
+    "experiencia conceptual",
+    "ética de la virtud",
+    "Escuela de Pittsburgh"
   ]
 }

@@ -289,5 +289,21 @@
       }
     ]
   },
-  "tier": "standard"
+  "tier": "standard",
+  "oneLineEn": "Linked ethics, legislation, and political calculation through greatest happiness and institutional legal reform.",
+  "keywordsEn": [
+    "principle of utility",
+    "greatest happiness",
+    "legal reform",
+    "punishment",
+    "critique of rights"
+  ],
+  "oneLineEs": "Vinculó ética, legislación y cálculo político mediante el principio de la mayor felicidad y la reforma jurídica institucional.",
+  "keywordsEs": [
+    "principio de utilidad",
+    "mayor felicidad",
+    "reforma jurídica",
+    "castigo",
+    "crítica de los derechos"
+  ]
 }

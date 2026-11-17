@@ -284,5 +284,14 @@
       }
     ]
   },
-  "tier": "standard"
+  "tier": "standard",
+  "keywordsEn": [
+    "Plausible impression",
+    "Against cataleptic impression",
+    "Probabilistic judgment",
+    "Against dogma",
+    "Roman speeches"
+  ],
+  "oneLineEn": "New Academy skeptic known for anti-Stoic epistemology, probable judgment, and Roman speeches on justice.",
+  "oneLineEs": "Escéptico de la Nueva Academia, conocido por la epistemología antiestoica, el juicio probable y los discursos romanos sobre la justicia."
 }

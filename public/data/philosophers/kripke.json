@@ -288,5 +288,21 @@
       }
     ]
   },
-  "tier": "standard"
+  "tier": "standard",
+  "oneLineEn": "Remade late 20th-c. philosophy of language and metaphysics via modal logic, rigid designation, and naming.",
+  "keywordsEn": [
+    "rigid designation",
+    "necessity",
+    "possible worlds",
+    "naming",
+    "rule-following"
+  ],
+  "oneLineEs": "Reformuló la filosofía del lenguaje y la metafísica de finales del siglo XX mediante la lógica modal, la designación rígida y la teoría del nombrar.",
+  "keywordsEs": [
+    "designación rígida",
+    "necesidad",
+    "mundos posibles",
+    "nombrar",
+    "seguimiento de reglas"
+  ]
 }

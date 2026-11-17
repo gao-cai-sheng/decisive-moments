@@ -287,5 +287,14 @@
       }
     ]
   },
-  "tier": "standard"
+  "tier": "standard",
+  "keywordsEn": [
+    "Propositional logic",
+    "Undemonstrables",
+    "Assent",
+    "Fate and responsibility",
+    "Passions as false judgments"
+  ],
+  "oneLineEn": "Systematized early Stoic logic, physics, and ethics into a rigorous philosophical architecture.",
+  "oneLineEs": "Sistematizó la lógica, la física y la ética estoicas tempranas en una arquitectura filosófica rigurosa."
 }

@@ -23,11 +23,11 @@
     "metaphysics"
   ],
   "keywordsZh": [
-    "法国哲学",
-    "身份层",
-    "思想史补线"
+    "科学革命史",
+    "观念史",
+    "无限宇宙"
   ],
-  "oneLineZh": "科学革命史（从封闭世界到无限宇宙），接 kuhn。",
+  "oneLineZh": "《从封闭世界到无限宇宙》重写科学革命史，深刻影响库恩。",
   "influenceWeight": 2,
   "reviewStatus": "draft",
   "summaryZh": "亚历山大·柯瓦雷（1892—1964）是 Seed W3 法国近现代—现当代二线哲人候选。其身份层入选理由为：科学革命史（从封闭世界到无限宇宙），接 kuhn。 本条仅作 seed 档基本定位，后续若升级标准档，必须重新做著作、论点与 evidence 研究。",
@@ -41,5 +41,17 @@
       "url": "https://plato.stanford.edu/entries/koyre/",
       "noteZh": "权威来源条目：SEP: Alexandre Koyré；用于核验人物身份、生卒、代表著作和思想史定位。"
     }
+  ],
+  "oneLineEn": "From the Closed World to the Infinite Universe rewrote Scientific Revolution history, shaping Kuhn.",
+  "keywordsEn": [
+    "history of the Scientific Revolution",
+    "history of ideas",
+    "infinite universe"
+  ],
+  "oneLineEs": "Del mundo cerrado al universo infinito reescribió la historia de la Revolución científica e influyó profundamente en Kuhn.",
+  "keywordsEs": [
+    "historia de la Revolución científica",
+    "historia de las ideas",
+    "universo infinito"
   ]
 }

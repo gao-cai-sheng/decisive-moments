@@ -23,10 +23,10 @@
   ],
   "keywordsZh": [
     "反实在论",
-    "身份层",
-    "二线哲人"
+    "意义理论",
+    "弗雷格研究"
   ],
-  "oneLineZh": "意义理论与反实在论代表，可补弗雷格解释与分析哲学后期线索。",
+  "oneLineZh": "意义理论与反实在论代表，以可断言性条件重解弗雷格。",
   "influenceWeight": 2,
   "reviewStatus": "draft",
   "summaryZh": "迈克尔·达米特（1925—2011）是 W2 欧陆与英美近现代二线哲人候选。其身份层入选理由为：意义理论与反实在论代表，可补弗雷格解释与分析哲学后期线索。 本条仅作 seed 档基本定位，后续若升级标准档，需要重新做著作、论点与 evidence 研究。",
@@ -39,5 +39,17 @@
       "label": "S020",
       "noteZh": "权威来源条目：SEP: Michael Dummett；用于核验人物身份、生卒、代表著作和思想史定位。"
     }
+  ],
+  "oneLineEn": "Theory of meaning and anti-realism; reread Frege via assertibility conditions.",
+  "keywordsEn": [
+    "anti-realism",
+    "theory of meaning",
+    "Frege studies"
+  ],
+  "oneLineEs": "Representante de la teoría del significado y del antirrealismo; releyó a Frege mediante condiciones de aseverabilidad.",
+  "keywordsEs": [
+    "antirrealismo",
+    "teoría del significado",
+    "estudios fregeanos"
   ]
 }

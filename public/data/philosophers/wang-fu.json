@@ -28,7 +28,7 @@
     "隐士批判",
     "东汉政论"
   ],
-  "oneLineZh": "东汉政论家，以《潜夫论》批评时政与士风。",
+  "oneLineZh": "东汉政论家，借《潜夫论》批评时政、吏治与士风虚矫。",
   "influenceWeight": 2,
   "reviewStatus": "draft",
   "summaryZh": "王符，字节信，安定临泾人，东汉思想家和政论家。其《潜夫论》以“潜夫”自命，批评外戚宦官、豪强兼并、虚名浮竞和士风败坏，强调选贤任能、农本与德行。王符不是经师型人物，而是以隐逸立场参与公共批判的东汉士人，体现后汉政治衰败中的儒家社会诊断。",
@@ -41,5 +41,17 @@
       "url": "https://ctext.org/qian-fu-lun",
       "noteZh": "以《潜夫论》支撑王符身份、作品和东汉政论定位。"
     }
+  ],
+  "oneLineEn": "Eastern Han critic using Qianfu lun against administration, officialdom, and hollow scholarly fashions.",
+  "keywordsEn": [
+    "Discourses of a Recluse",
+    "critique of reclusion",
+    "Eastern Han political essays"
+  ],
+  "oneLineEs": "Ensayista político de los Han Orientales que, en Qianfu lun, criticó la política del momento y el ethos de los letrados.",
+  "keywordsEs": [
+    "Qianfu lun (Discursos de un recluso)",
+    "crítica del retiro",
+    "ensayos políticos de los Han Orientales"
   ]
 }

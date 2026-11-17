@@ -31,7 +31,7 @@
     "性即理",
     "程朱理学"
   ],
-  "oneLineZh": "以天理、格物和敬的修养论奠定程朱理学的核心方向，成为朱熹思想直接源头。",
+  "oneLineZh": "以天理、格物和敬的修养论定下程朱理学核心方向，成为朱熹直接思想源头。",
   "influenceWeight": 2,
   "reviewStatus": "draft",
   "summaryZh": "程颐与程颢共同奠定北宋道学，尤其强调理的客观秩序、格物穷理和敬的工夫，对朱熹及后世东亚理学影响深远。",
@@ -78,7 +78,7 @@
                 "summaryZh": "语录传统把人性与天理相连，说明道德本性不是外加规则，而是天道秩序在人身上的呈现。",
                 "source": {
                   "workId": "cheng-brothers-surviving-works",
-                  "locator": "Er Cheng Yishu, sayings on xing ji li",
+                  "locator": "《二程遗书》：论性即理段",
                   "excerptStatus": "summary_only"
                 }
               },
@@ -88,7 +88,7 @@
                 "summaryZh": "程颐解释《易》时强调卦象背后的义理秩序，把经典解释推进为天道与人事相贯通的哲学工作。",
                 "source": {
                   "workId": "cheng-yi-yichuan-yizhuan",
-                  "locator": "Yichuan Yizhuan, Qian and Kun commentaries on principle",
+                  "locator": "《伊川易传》：以理释易段",
                   "excerptStatus": "summary_only"
                 }
               }
@@ -111,7 +111,7 @@
                 "summaryZh": "问答材料把天理与私欲对举，要求学习者在日常应事中辨别规范尺度与偏私牵引，而非停留抽象口号。",
                 "source": {
                   "workId": "cheng-brothers-classified-sayings",
-                  "locator": "Er Cheng Waishu, dialogues on heavenly principle and human desires",
+                  "locator": "《二程外书》：论天理人欲段",
                   "excerptStatus": "summary_only"
                 }
               },
@@ -121,7 +121,7 @@
                 "summaryZh": "文集中关于朝廷和士人行为的论述显示，程颐把天理落实到君臣、礼法和公共责任判断，使义理进入政治实践。",
                 "source": {
                   "workId": "cheng-yi-wenji",
-                  "locator": "Yichuan Wenji, memorials and letters on political conduct",
+                  "locator": "《伊川文集》：论政治伦理约束段",
                   "excerptStatus": "summary_only"
                 }
               }
@@ -157,7 +157,7 @@
                 "summaryZh": "语录以逐事穷理说明学习次第，要求在具体对象中累积义理理解，而非跳过学习过程直接宣称悟入。",
                 "source": {
                   "workId": "cheng-brothers-surviving-works",
-                  "locator": "Er Cheng Yishu, sayings on investigating one thing today",
+                  "locator": "《二程遗书》：论今日格一物段",
                   "excerptStatus": "summary_only"
                 }
               },
@@ -167,7 +167,7 @@
                 "summaryZh": "后出选编将格物材料归入程氏工夫论，显示传统如何把程颐解释为程朱格物路线的核心来源。",
                 "source": {
                   "workId": "cheng-yi-henan-collected",
-                  "locator": "Henan Chengshi Cuiyan, selected sayings on gewu",
+                  "locator": "《河南程氏粹言》：整理格物语录段",
                   "excerptStatus": "summary_only"
                 }
               }
@@ -190,7 +190,7 @@
                 "summaryZh": "语录把敬解释为主一无适的身心状态，用以防止心意散乱并保持修养连续性，使学习有内在约束。",
                 "source": {
                   "workId": "cheng-brothers-surviving-works",
-                  "locator": "Er Cheng Yishu, sayings on reverent attentiveness as unity",
+                  "locator": "《二程遗书》：论主一之敬段",
                   "excerptStatus": "summary_only"
                 }
               },
@@ -200,7 +200,7 @@
                 "summaryZh": "问答把读书、应事和持敬联系起来，显示程颐要求知识活动必须转化为稳定的德性训练，而非单纯博闻。",
                 "source": {
                   "workId": "cheng-brothers-classified-sayings",
-                  "locator": "Er Cheng Waishu, dialogues on learning and reverent attention",
+                  "locator": "《二程外书》：问学工夫段",
                   "excerptStatus": "summary_only"
                 }
               }
@@ -236,7 +236,7 @@
                 "summaryZh": "《易传》不满足于象数和训诂，而是用义理方式解释变化、君子和政治伦理的规范根基，呈现理学经学方向。",
                 "source": {
                   "workId": "cheng-yi-yichuan-yizhuan",
-                  "locator": "Yichuan Yizhuan, commentaries on hexagrams and moral principle",
+                  "locator": "《伊川易传》：义理化经学段",
                   "excerptStatus": "summary_only"
                 }
               },
@@ -246,7 +246,7 @@
                 "summaryZh": "书信材料显示程颐将读经、问学和修身连为同一任务，经学目标在于恢复可实践的圣贤之道。",
                 "source": {
                   "workId": "cheng-yi-wenji",
-                  "locator": "Yichuan Wenji, letters on classical learning",
+                  "locator": "《伊川文集》：经学书信段",
                   "excerptStatus": "summary_only"
                 }
               }
@@ -269,7 +269,7 @@
                 "summaryZh": "相关文献显示程颐在政治评价中持续诉诸礼、义和士人责任，体现道学对公共秩序的要求。",
                 "source": {
                   "workId": "cheng-yi-wenji",
-                  "locator": "Yichuan Wenji, political memorials and court letters",
+                  "locator": "《伊川文集》：保存奏议和政治书札段",
                   "excerptStatus": "summary_only"
                 }
               },
@@ -279,7 +279,7 @@
                 "summaryZh": "语录呈现弟子问答、讲学和品评人物的场景，说明程颐思想通过师门共同体进入后世理学传统。",
                 "source": {
                   "workId": "cheng-brothers-surviving-works",
-                  "locator": "Er Cheng Yishu, records of teaching dialogues and judgments",
+                  "locator": "《二程遗书》：师门讲学形态段",
                   "excerptStatus": "summary_only"
                 }
               }
@@ -289,5 +289,21 @@
       }
     ]
   },
-  "tier": "standard"
+  "tier": "standard",
+  "oneLineEn": "Set Cheng-Zhu Learning via Heavenly Principle, investigation of things, and reverence; a direct source for Zhu Xi.",
+  "keywordsEn": [
+    "Heavenly Principle",
+    "investigation of things",
+    "reverential attentiveness (jing)",
+    "nature is principle",
+    "Cheng-Zhu Learning"
+  ],
+  "oneLineEs": "Fijó la dirección central del aprendizaje Cheng-Zhu mediante el Principio Celestial, la investigación de las cosas y el cultivo reverente; fuente directa de Zhu Xi.",
+  "keywordsEs": [
+    "Principio Celestial",
+    "investigación de las cosas",
+    "atención reverente (jing)",
+    "la naturaleza es principio",
+    "aprendizaje Cheng-Zhu"
+  ]
 }

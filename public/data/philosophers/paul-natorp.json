@@ -23,10 +23,10 @@
   ],
   "keywordsZh": [
     "新康德主义",
-    "身份层",
-    "二线哲人"
+    "马堡学派",
+    "社会教育"
   ],
-  "oneLineZh": "马堡新康德主义核心人物，可补科恩之后的认识论与社会教育哲学。",
+  "oneLineZh": "马堡新康德主义核心人物，把认识论推进到社会教育哲学。",
   "influenceWeight": 2,
   "reviewStatus": "draft",
   "summaryZh": "保罗·纳托普（1854—1924）是 W2 欧陆与英美近现代二线哲人候选。其身份层入选理由为：马堡新康德主义核心人物，可补科恩之后的认识论与社会教育哲学。 本条仅作 seed 档基本定位，后续若升级标准档，需要重新做著作、论点与 evidence 研究。",
@@ -39,5 +39,17 @@
       "label": "S004",
       "noteZh": "权威来源条目：SEP: Paul Natorp；用于核验人物身份、生卒、代表著作和思想史定位。"
     }
+  ],
+  "oneLineEn": "Core Marburg neo-Kantian who carried epistemology into social pedagogy.",
+  "keywordsEn": [
+    "Neo-Kantianism",
+    "Marburg School",
+    "social pedagogy"
+  ],
+  "oneLineEs": "Figura central del neokantismo de Marburgo; llevó la epistemología hacia la filosofía de la pedagogía social.",
+  "keywordsEs": [
+    "neokantismo",
+    "Escuela de Marburgo",
+    "pedagogía social"
   ]
 }

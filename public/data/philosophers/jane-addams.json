@@ -22,11 +22,11 @@
     "politics"
   ],
   "keywordsZh": [
-    "身份层",
-    "二线哲人",
-    "思想史补线"
+    "社会伦理",
+    "民主",
+    "实用主义改革"
   ],
-  "oneLineZh": "社会伦理、民主与实用主义改革思想代表，可补美国女性哲学线索。",
+  "oneLineZh": "赫尔馆创办者，把实用主义精神带入社会改革与和平运动。",
   "influenceWeight": 2,
   "reviewStatus": "draft",
   "summaryZh": "简·亚当斯（1860—1935）是 W2 欧陆与英美近现代二线哲人候选。其身份层入选理由为：社会伦理、民主与实用主义改革思想代表，可补美国女性哲学线索。 本条仅作 seed 档基本定位，后续若升级标准档，需要重新做著作、论点与 evidence 研究。",
@@ -39,5 +39,17 @@
       "label": "S005",
       "noteZh": "权威来源条目：SEP: Jane Addams；用于核验人物身份、生卒、代表著作和思想史定位。"
     }
+  ],
+  "oneLineEn": "Hull House founder bringing pragmatist spirit into social reform and peace movements.",
+  "keywordsEn": [
+    "social ethics",
+    "democracy",
+    "pragmatist reform"
+  ],
+  "oneLineEs": "Fundadora de Hull House, que llevó el pragmatismo a la reforma social y al movimiento por la paz.",
+  "keywordsEs": [
+    "ética social",
+    "democracia",
+    "reforma pragmatista"
   ]
 }

@@ -30,7 +30,7 @@
     "原理与方法",
     "古兰经经注"
   ],
-  "oneLineZh": "当代什叶哲学家和经注家，以萨德拉传统、哲学认识论和《古兰经》诠释连接现代伊朗思想。",
+  "oneLineZh": "当代什叶哲学家与经注家，以萨德拉传统和《古兰经》诠释连接现代伊朗思想。",
   "influenceWeight": 2,
   "reviewStatus": "draft",
   "summaryZh": "塔巴塔巴伊（1903—1981）是 Seed W7 伊斯兰文明晚期与近现代补线候选。其身份层入选理由为：当代什叶哲学家和经注家，以萨德拉传统、哲学认识论和《古兰经》诠释连接现代伊朗思想。本条仅作 seed 档基本定位，后续若升级标准档，必须重新做著作、论点与 evidence 研究。",
@@ -44,5 +44,17 @@
       "url": "https://www.iranicaonline.org/articles/tabatabai-sayyed-mohammad-hosayn",
       "noteZh": "来源：Encyclopaedia Iranica / TABATABAI, SAYYED MOHAMMAD HOSAYN；用于核验人物身份、生卒断代、当代什叶哲学、经注与代表著作。"
     }
+  ],
+  "oneLineEn": "Contemporary Shīʿī philosopher-exegete linking Ṣadrian tradition and Qurʾānic commentary to modern Iran.",
+  "keywordsEn": [
+    "contemporary Shīʿī philosophy",
+    "principles and method",
+    "Qurʾānic exegesis"
+  ],
+  "oneLineEs": "Filósofo y exegeta chií contemporáneo que vincula la tradición ṣadrianā, la epistemología filosófica y la exégesis coránica con el pensamiento iraní moderno.",
+  "keywordsEs": [
+    "filosofía chií contemporánea",
+    "principios y método",
+    "exégesis coránica"
   ]
 }

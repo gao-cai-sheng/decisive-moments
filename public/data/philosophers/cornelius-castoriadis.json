@@ -22,11 +22,11 @@
     "knowledge"
   ],
   "keywordsZh": [
-    "自治理论",
-    "身份层",
-    "二线哲人"
+    "自治",
+    "社会想象",
+    "社会主义或野蛮"
   ],
-  "oneLineZh": "社会想象与自治理论代表，可补西方马克思主义异端与政治哲学线索。",
+  "oneLineZh": "以社会想象性建制和自治理论构成西方马克思主义的异端。",
   "influenceWeight": 2,
   "reviewStatus": "draft",
   "summaryZh": "科尔内留斯·卡斯托里亚迪斯（1922—1997）是 W2 欧陆与英美近现代二线哲人候选。其身份层入选理由为：社会想象与自治理论代表，可补西方马克思主义异端与政治哲学线索。 本条仅作 seed 档基本定位，后续若升级标准档，需要重新做著作、论点与 evidence 研究。",
@@ -39,5 +39,17 @@
       "label": "S020",
       "noteZh": "权威来源条目：IEP: Cornelius Castoriadis；用于核验人物身份、生卒、代表著作和思想史定位。"
     }
+  ],
+  "oneLineEn": "Made social imaginary institution and autonomy theory a heterodox current in Western Marxism.",
+  "keywordsEn": [
+    "autonomy",
+    "social imaginary",
+    "Socialism or Barbarism"
+  ],
+  "oneLineEs": "Con la institución imaginaria de la sociedad y la teoría de la autonomía configuró una heterodoxia del marxismo occidental.",
+  "keywordsEs": [
+    "autonomía",
+    "imaginario social",
+    "Socialismo o barbarie"
   ]
 }

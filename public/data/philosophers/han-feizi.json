@@ -83,7 +83,7 @@
                 "summaryZh": "《韩非子》多处批评等待贤臣和明君的政治想象，强调常人之情与制度约束比道德期待更可靠。",
                 "source": {
                   "workId": "hanfeizi-text",
-                  "locator": "Han Feizi, chapters on law, two handles, and governing men",
+                  "locator": "《韩非子》：对贤治的不信任段",
                   "excerptStatus": "summary_only"
                 }
               },
@@ -93,7 +93,7 @@
                 "summaryZh": "《五蠹》以耕战、法令和国家功效衡量社会群体，批判不服务富国强兵的言谈和私行，并显示法家功效标准。",
                 "source": {
                   "workId": "hanfeizi-wudu",
-                  "locator": "Five Vermin, critique of private groups and obsolete models",
+                  "locator": "《五蠹》：功效标准段",
                   "excerptStatus": "summary_only"
                 }
               }
@@ -116,7 +116,7 @@
                 "summaryZh": "《韩非子》反复把法令、刑罚和奖赏作为同一治理机制，要求名分、职责和结果可以被核验。",
                 "source": {
                   "workId": "hanfeizi-text",
-                  "locator": "Han Feizi, law and reward-punishment chapters",
+                  "locator": "《韩非子》：法令和赏罚段",
                   "excerptStatus": "summary_only"
                 }
               },
@@ -126,7 +126,7 @@
                 "summaryZh": "《显学》批评儒墨各有派别和言说分歧，认为国家不能用学派义理替代统一可行的法度与赏罚机制。",
                 "source": {
                   "workId": "hanfeizi-xianxue",
-                  "locator": "Eminent Learning, critique of Confucians and Mohists",
+                  "locator": "《显学》：儒墨制度批评段",
                   "excerptStatus": "summary_only"
                 }
               }
@@ -162,7 +162,7 @@
                 "summaryZh": "《难》诸篇通过历史案例和反驳结构检验言辞、名分与实际效果，体现刑名思维的政治用途。",
                 "source": {
                   "workId": "hanfeizi-nan",
-                  "locator": "Difficulties chapters, name-reality tests and historical cases",
+                  "locator": "《难》诸篇：诸篇名实辨难段",
                   "excerptStatus": "summary_only"
                 }
               },
@@ -172,7 +172,7 @@
                 "summaryZh": "《说难》说明进言者必须揣摩君主欲望和危险边界，显示韩非对君臣信息不对称和权力心理的敏感。",
                 "source": {
                   "workId": "hanfeizi-shuo-nan",
-                  "locator": "The Difficulties of Persuasion, ruler-minister psychology",
+                  "locator": "《说难》：权力心理分析段",
                   "excerptStatus": "summary_only"
                 }
               }
@@ -194,7 +194,7 @@
                 "summaryZh": "《韩非子》把赏罚称为君主驭臣二柄，强调臣下不能分享最终裁断与奖惩权，否则君权会被夺取。",
                 "source": {
                   "workId": "hanfeizi-text",
-                  "locator": "Han Feizi, Two Handles chapter tradition",
+                  "locator": "《韩非子》：二柄思想段",
                   "excerptStatus": "summary_only"
                 }
               },
@@ -204,7 +204,7 @@
                 "summaryZh": "《韩非子》把法令、术数和君主位置结合，说明官僚控制依赖多层制度而非单一美德或臣下忠诚。",
                 "source": {
                   "workId": "hanfeizi-text",
-                  "locator": "Han Feizi, synthesis of fa, shu, shi",
+                  "locator": "《韩非子》：法术势综合的治理图景段",
                   "excerptStatus": "summary_only"
                 }
               }
@@ -241,7 +241,7 @@
                 "summaryZh": "《解老》解释《老子》道、德、理等概念时，常将其转向君主守静、任法和观察臣下的政治语境。",
                 "source": {
                   "workId": "hanfeizi-jie-lao",
-                  "locator": "Explaining Laozi, political reading of Dao and li",
+                  "locator": "《解老》：道理转译段",
                   "excerptStatus": "summary_only"
                 }
               },
@@ -251,7 +251,7 @@
                 "summaryZh": "《喻老》通过历史故事和政治案例说明《老子》语句，使道家格言进入法家治术和权力判断。",
                 "source": {
                   "workId": "hanfeizi-yu-lao",
-                  "locator": "Illustrating Laozi, anecdotes and political interpretation",
+                  "locator": "《喻老》：故事化解释段",
                   "excerptStatus": "summary_only"
                 }
               }
@@ -274,7 +274,7 @@
                 "summaryZh": "《五蠹》用人口、财货和争夺条件变化说明古代仁义故事不适合战国国家竞争，强调因时制治。",
                 "source": {
                   "workId": "hanfeizi-wudu",
-                  "locator": "Five Vermin, ancient and present conditions",
+                  "locator": "《五蠹》：古今变化论段",
                   "excerptStatus": "summary_only"
                 }
               },
@@ -284,7 +284,7 @@
                 "summaryZh": "《显学》用实际功效和国家秩序批评复古学说，要求政治判断服从现实条件、制度结果和统一法令。",
                 "source": {
                   "workId": "hanfeizi-xianxue",
-                  "locator": "Eminent Learning, anti-archaism and practical effectiveness",
+                  "locator": "《显学》：反复古标准段",
                   "excerptStatus": "summary_only"
                 }
               }
@@ -294,5 +294,21 @@
       }
     ]
   },
-  "tier": "standard"
+  "tier": "standard",
+  "oneLineEn": "Systematized late Warring States Legalism by uniting law, statecraft, power, and forms-and-names doctrine.",
+  "keywordsEn": [
+    "law (fa)",
+    "statecraft (shu)",
+    "positional power (shi)",
+    "forms and names (xingming)",
+    "monarchical centralization"
+  ],
+  "oneLineEs": "Sistematizó el legalismo de finales de los Reinos Combatientes uniendo ley (fa), técnica de gobierno (shu), potencia posicional (shi) y la doctrina de formas y nombres.",
+  "keywordsEs": [
+    "ley (fa)",
+    "técnica de gobierno (shu)",
+    "potencia posicional (shi)",
+    "formas y nombres (xingming)",
+    "centralización monárquica"
+  ]
 }

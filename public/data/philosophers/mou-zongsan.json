@@ -290,5 +290,21 @@
       }
     ]
   },
-  "tier": "standard"
+  "tier": "standard",
+  "oneLineEn": "Built modern New Confucian moral metaphysics from Kantian critique, intellectual intuition, and liangzhi theory.",
+  "keywordsEn": [
+    "moral metaphysics",
+    "intellectual intuition",
+    "liangzhi (innate moral knowing)",
+    "two-level ontology",
+    "perfect good"
+  ],
+  "oneLineEs": "Construyó la metafísica moral del neoconfucianismo moderno a partir de la crítica kantiana, la intuición intelectual y la teoría del liangzhi.",
+  "keywordsEs": [
+    "metafísica moral",
+    "intuición intelectual",
+    "liangzhi (saber moral innato)",
+    "ontología de dos niveles",
+    "bien perfecto"
+  ]
 }

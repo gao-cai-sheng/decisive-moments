@@ -286,5 +286,14 @@
       }
     ]
   },
-  "tier": "standard"
+  "tier": "standard",
+  "keywordsEn": [
+    "Natural law",
+    "Republic",
+    "Latin public reason",
+    "Ideal orator",
+    "New Academy method"
+  ],
+  "oneLineEn": "Roman statesman-author who rendered Greek philosophy into Latin public reason, republican ethics, and natural law.",
+  "oneLineEs": "Estadista y autor romano que tradujo la filosofía griega a la razón pública latina, la ética republicana y la tradición del derecho natural."
 }

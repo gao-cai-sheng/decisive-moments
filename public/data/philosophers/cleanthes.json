@@ -287,5 +287,14 @@
       }
     ]
   },
-  "tier": "standard"
+  "tier": "standard",
+  "keywordsEn": [
+    "Hymn to Zeus",
+    "Cosmic reason",
+    "Consent to fate",
+    "Piety",
+    "Virtue training"
+  ],
+  "oneLineEn": "Stoic leader after Zeno, known for the Hymn to Zeus and a piety of assent to cosmic reason.",
+  "oneLineEs": "Líder estoico tras Zenón, conocido por el Himno a Zeus y una ética de piedad que asiente a la razón cósmica."
 }

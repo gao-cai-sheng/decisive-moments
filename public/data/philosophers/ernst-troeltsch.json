@@ -23,10 +23,10 @@
   ],
   "keywordsZh": [
     "宗教哲学",
-    "宗教哲学",
-    "身份层"
+    "历史主义",
+    "基督教社会史"
   ],
-  "oneLineZh": "历史主义与宗教哲学代表，可补狄尔泰、韦伯与神学现代性接口。",
+  "oneLineZh": "历史主义与宗教哲学代表，处理狄尔泰、韦伯与神学现代性的交汇。",
   "influenceWeight": 2,
   "reviewStatus": "draft",
   "summaryZh": "恩斯特·特勒尔奇（1865—1923）是 W2 欧陆与英美近现代二线哲人候选。其身份层入选理由为：历史主义与宗教哲学代表，可补狄尔泰、韦伯与神学现代性接口。 本条仅作 seed 档基本定位，后续若升级标准档，需要重新做著作、论点与 evidence 研究。",
@@ -39,5 +39,17 @@
       "label": "S007",
       "noteZh": "权威来源条目：Routledge Encyclopedia of Philosophy: Troeltsch, Ernst；用于核验人物身份、生卒、代表著作和思想史定位。"
     }
+  ],
+  "oneLineEn": "Historicism and philosophy of religion at the crossroads of Dilthey, Weber, and theological modernity.",
+  "keywordsEn": [
+    "philosophy of religion",
+    "historicism",
+    "social history of Christianity"
+  ],
+  "oneLineEs": "Representante del historicismo y de la filosofía de la religión; trabajó en la confluencia de Dilthey, Weber y la modernidad teológica.",
+  "keywordsEs": [
+    "filosofía de la religión",
+    "historicismo",
+    "historia social del cristianismo"
   ]
 }

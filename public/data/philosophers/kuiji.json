@@ -28,7 +28,7 @@
     "成唯识论述记",
     "法相"
   ],
-  "oneLineZh": "唐代法相宗大师，玄奘弟子，以唯识注疏体系著称。",
+  "oneLineZh": "唐代法相宗大师，玄奘弟子，建成唯识注疏的慈恩体系。",
   "influenceWeight": 2,
   "reviewStatus": "draft",
   "summaryZh": "窥基，俗姓尉迟，唐代僧人，玄奘弟子，常被称为慈恩大师。他撰《成唯识论述记》《大乘法苑义林章》等，系统解释玄奘译出的唯识经典，使法相宗在唐代形成严密的名相、心识和修道结构。窥基的角色主要是注疏家和宗派组织者，将玄奘译场成果转化为可教学的义理体系。",
@@ -42,5 +42,17 @@
       "url": "https://cbetaonline.dila.edu.tw/zh/T1830",
       "noteZh": "以窥基《成唯识论述记》《大乘法苑义林章》支撑身份层。"
     }
+  ],
+  "oneLineEn": "Tang Faxiang master, Xuanzang's disciple, building the Ci'en system of Yogācāra commentaries.",
+  "keywordsEn": [
+    "Ci'en school",
+    "Commentary on the Cheng weishi lun",
+    "Faxiang"
+  ],
+  "oneLineEs": "Maestro Faxiang tang, discípulo de Xuanzang, conocido por el sistema de comentarios yogācāra.",
+  "keywordsEs": [
+    "escuela Ci'en",
+    "Comentario al Cheng weishi lun",
+    "Faxiang"
   ]
 }

@@ -26,7 +26,7 @@
     "中观",
     "唯识"
   ],
-  "oneLineZh": "朝鲜佛教代表人物，以和诤思想统合不同佛教教义。",
+  "oneLineZh": "朝鲜佛教代表人物，以和诤思想统合不同教义之系统结构。",
   "influenceWeight": 2,
   "reviewStatus": "draft",
   "summaryZh": "元晓是朝鲜佛教重要人物，以和诤思想连接中观、唯识与东亚佛教解释传统。本条仅作 seed 身份层定位。",
@@ -45,5 +45,17 @@
       "url": "https://www.rep.routledge.com/articles/biographical/wonhyo-617-686/v-1",
       "noteZh": "Routledge Wonhyo 条目用于核验元晓身份和代表作。"
     }
+  ],
+  "oneLineEn": "Korean Buddhist figure unifying divergent doctrinal systems through reconciling-disputes thought.",
+  "keywordsEn": [
+    "harmony of disputes",
+    "Madhyamaka",
+    "Yogācāra / consciousness-only"
+  ],
+  "oneLineEs": "Figura del budismo coreano que unió diversas doctrinas mediante la armonía de las disputas (hwajaeng).",
+  "keywordsEs": [
+    "armonía de las disputas",
+    "Madhyamaka",
+    "Yogācāra / solo-conciencia"
   ]
 }

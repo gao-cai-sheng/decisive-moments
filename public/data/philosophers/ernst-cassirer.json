@@ -23,9 +23,9 @@
   "keywordsZh": [
     "符号形式",
     "新康德主义",
-    "身份层"
+    "文化哲学"
   ],
-  "oneLineZh": "符号形式哲学代表，可连接新康德主义、文化哲学与科学哲学。",
+  "oneLineZh": "符号形式哲学的创立者，把神话、语言与科学统一为人的符号化活动。",
   "influenceWeight": 2,
   "reviewStatus": "draft",
   "summaryZh": "恩斯特·卡西尔（1874—1945）是 W2 欧陆与英美近现代二线哲人候选。其身份层入选理由为：符号形式哲学代表，可连接新康德主义、文化哲学与科学哲学。 本条仅作 seed 档基本定位，后续若升级标准档，需要重新做著作、论点与 evidence 研究。",
@@ -38,5 +38,17 @@
       "label": "S003",
       "noteZh": "权威来源条目：SEP: Ernst Cassirer；用于核验人物身份、生卒、代表著作和思想史定位。"
     }
+  ],
+  "oneLineEn": "Founded the philosophy of symbolic forms, uniting myth, language, and science as human symbolization.",
+  "keywordsEn": [
+    "symbolic forms",
+    "Neo-Kantianism",
+    "cultural philosophy"
+  ],
+  "oneLineEs": "Fundador de la filosofía de las formas simbólicas; unió mito, lenguaje y ciencia como actividad simbolizadora del ser humano.",
+  "keywordsEs": [
+    "formas simbólicas",
+    "neokantismo",
+    "filosofía de la cultura"
   ]
 }

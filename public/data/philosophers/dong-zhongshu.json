@@ -28,7 +28,7 @@
     "天人感应",
     "汉儒"
   ],
-  "oneLineZh": "西汉儒家代表，将春秋学、阴阳五行与王朝政治结合。",
+  "oneLineZh": "西汉儒家，以春秋学、阴阳五行对接王朝更化与天人之际。",
   "influenceWeight": 3,
   "reviewStatus": "draft",
   "summaryZh": "董仲舒，西汉广川人，是汉代儒学制度化的关键人物之一。《汉书》记其以春秋学应对武帝策问，后世常以“罢黜百家、独尊儒术”概括其政治影响。《春秋繁露》题名传统体现天人感应、阴阳五行、王道政治与经学解释的结合，使董仲舒成为汉儒国家理论的核心节点。",
@@ -41,5 +41,17 @@
       "url": "https://ctext.org/chun-qiu-fan-lu",
       "noteZh": "以《春秋繁露》和《汉书》支撑董仲舒身份、作品和汉儒地位。"
     }
+  ],
+  "oneLineEn": "Western Han Confucian linking Spring-Autumn learning and yin-yang five phases to dynastic reform.",
+  "keywordsEn": [
+    "Luxuriant Dew of the Spring and Autumn Annals",
+    "resonance of Heaven and humanity",
+    "Han Confucianism"
+  ],
+  "oneLineEs": "Confuciano representativo de los Han Occidentales que unió el aprendizaje de los Anales de Primavera y Otoño, el yin-yang y las Cinco Fases con la política dinástica.",
+  "keywordsEs": [
+    "Chunqiu fanlu (Rocío exuberante de los Anales)",
+    "resonancia entre Cielo y humanidad",
+    "confucianismo Han"
   ]
 }

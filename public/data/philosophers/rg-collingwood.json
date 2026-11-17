@@ -23,10 +23,10 @@
   ],
   "keywordsZh": [
     "历史哲学",
-    "身份层",
-    "二线哲人"
+    "问答逻辑",
+    "艺术哲学"
   ],
-  "oneLineZh": "历史哲学与问答逻辑代表，可补英美历史认识论。",
+  "oneLineZh": "历史哲学与问答逻辑代表，主张一切历史都是思想在当下的重演。",
   "influenceWeight": 2,
   "reviewStatus": "draft",
   "summaryZh": "罗宾·乔治·柯林伍德（1889—1943）是 W2 欧陆与英美近现代二线哲人候选。其身份层入选理由为：历史哲学与问答逻辑代表，可补英美历史认识论。 本条仅作 seed 档基本定位，后续若升级标准档，需要重新做著作、论点与 evidence 研究。",
@@ -39,5 +39,17 @@
       "label": "S015",
       "noteZh": "权威来源条目：SEP: Robin George Collingwood；用于核验人物身份、生卒、代表著作和思想史定位。"
     }
+  ],
+  "oneLineEn": "Philosophy of history and question-and-answer logic: all history is re-enactment of thought now.",
+  "keywordsEn": [
+    "philosophy of history",
+    "question-and-answer logic",
+    "philosophy of art"
+  ],
+  "oneLineEs": "Representante de la filosofía de la historia y de la lógica de pregunta y respuesta; sostiene que toda historia es la recreación del pensamiento en el presente.",
+  "keywordsEs": [
+    "filosofía de la historia",
+    "lógica de pregunta y respuesta",
+    "filosofía del arte"
   ]
 }

@@ -28,7 +28,7 @@
     "颜李学派",
     "实学教育"
   ],
-  "oneLineZh": "清初颜李学派代表，继承颜元实学和实践教育路线。",
+  "oneLineZh": "清初颜李学派人物，继承颜元实学传统与实践教育路线。",
   "influenceWeight": 2,
   "reviewStatus": "draft",
   "summaryZh": "李塨，字刚主，号恕谷，清代蠡县人，颜元弟子和颜李学派重要代表。其学强调礼乐兵农、习行实践和反对章句空谈，继承并推广颜元实学。《李恕谷集》《论语传注问》等保存其经学和教育思想。李塨使习斋之学更具教学组织和经典解释形态。",
@@ -42,5 +42,17 @@
       "url": "https://ctext.org/wiki.pl?if=en&searchu=%E6%9D%8E%E5%A1%A8",
       "noteZh": "以李塨《李恕谷集》《论语传注问》题名传统支撑身份层。"
     }
+  ],
+  "oneLineEn": "Early Qing Yan-Li figure continuing Yan Yuan's practical learning and practice-based education.",
+  "keywordsEn": [
+    "Shugu",
+    "Yan-Li school",
+    "practical-learning education"
+  ],
+  "oneLineEs": "Figura de la escuela Yan-Li de inicios Qing que continuó el aprendizaje práctico y la educación práctica de Yan Yuan.",
+  "keywordsEs": [
+    "Shugu",
+    "escuela Yan-Li",
+    "educación de aprendizaje práctico"
   ]
 }

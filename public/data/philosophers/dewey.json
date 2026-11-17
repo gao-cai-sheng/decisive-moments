@@ -279,5 +279,13 @@
       }
     ]
   },
-  "tier": "standard"
+  "tier": "standard",
+  "oneLineEn": "Knowledge is a tool of inquiry tested by consequences; democracy is a way of life of shared experience.",
+  "keywordsEn": [
+    "Inquiry",
+    "Instrumentalism",
+    "Democracy as a way of life",
+    "Experience",
+    "Education"
+  ]
 }

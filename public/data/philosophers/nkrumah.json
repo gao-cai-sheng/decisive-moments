@@ -30,7 +30,7 @@
     "非洲社会主义",
     "反帝国主义"
   ],
-  "oneLineZh": "以良知主义、泛非统一和新殖民主义批判构成独立后非洲政治哲学的重要节点。",
+  "oneLineZh": "以良知主义、泛非统一和新殖民主义批判构成独立后非洲政治哲学关键节点。",
   "influenceWeight": 2,
   "reviewStatus": "draft",
   "summaryZh": "恩克鲁玛把非洲传统、人道主义、社会主义和反帝国主义结合起来，主张政治独立必须继续完成经济与意识形态解放。",
@@ -289,5 +289,21 @@
       }
     ]
   },
-  "tier": "standard"
+  "tier": "standard",
+  "oneLineEn": "A key node in post-independence African political philosophy: consciencism, Pan-African unity, neocolonial critique.",
+  "keywordsEn": [
+    "consciencism",
+    "Pan-African unity",
+    "neocolonialism",
+    "African socialism",
+    "anti-imperialism"
+  ],
+  "oneLineEs": "Nudo clave de la filosofía política africana posindependencia mediante el consciencismo, la unidad panafricana y la crítica del neocolonialismo.",
+  "keywordsEs": [
+    "consciencismo",
+    "unidad panafricana",
+    "neocolonialismo",
+    "socialismo africano",
+    "antiimperialismo"
+  ]
 }

@@ -285,5 +285,14 @@
       }
     ]
   },
-  "tier": "standard"
+  "tier": "standard",
+  "keywordsEn": [
+    "Number",
+    "Proportion",
+    "Cosmic order",
+    "Purification of the soul",
+    "Communal discipline"
+  ],
+  "oneLineEn": "The Pythagorean tradition linked number, cosmic order, soul purification, and communal life.",
+  "oneLineEs": "La tradición pitagórica vinculó el número, el orden cósmico, la purificación del alma y la vida comunitaria."
 }

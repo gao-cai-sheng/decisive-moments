@@ -28,7 +28,7 @@
     "汉纪",
     "荀氏"
   ],
-  "oneLineZh": "东汉末史学家和政论家，以《申鉴》《汉纪》著称。",
+  "oneLineZh": "东汉末史学家与政论家，以《申鉴》《汉纪》讨论治道。",
   "influenceWeight": 2,
   "reviewStatus": "draft",
   "summaryZh": "荀悦，字仲豫，颍川颍阴人，出自荀氏家族，东汉末史学家和政论家。《汉纪》以编年体改写《汉书》，《申鉴》则以儒家政治伦理反思君臣、法度、教化和治乱。荀悦处在汉末秩序崩解前夜，既继承荀子家学与经史传统，也把历史叙述转化为政治判断。",
@@ -42,5 +42,17 @@
       "url": "https://ctext.org/shen-jian",
       "noteZh": "以《申鉴》《汉纪》支撑荀悦身份、作品和史论定位。"
     }
+  ],
+  "oneLineEn": "Late Eastern Han historian-essayist treating the way of governance in Shenjian and Hanji.",
+  "keywordsEn": [
+    "Extended Reflections",
+    "Han Annals",
+    "Xun lineage"
+  ],
+  "oneLineEs": "Historiador y ensayista político de finales de los Han Orientales, conocido por Shenjian y los Anales Han.",
+  "keywordsEs": [
+    "Shenjian (Reflexiones extendidas)",
+    "Anales Han",
+    "linaje Xun"
   ]
 }

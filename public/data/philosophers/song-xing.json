@@ -28,7 +28,7 @@
     "兼爱非斗",
     "寡欲"
   ],
-  "oneLineZh": "战国稷下思想人物，常与尹文并称，主张节欲与非斗。",
+  "oneLineZh": "战国稷下思想人物，常与尹文并称，主张节欲与非斗路径。",
   "influenceWeight": 1,
   "reviewStatus": "draft",
   "summaryZh": "宋钘，战国思想人物，常与尹文并称，见于《庄子·天下》和《荀子》等批评材料。传统形象中，他强调节欲、非斗、以情欲调节减少争夺，并被置于墨家、名家和稷下学术交叉地带。其自著不传，后世主要依据他人记载重构其学说，是先秦非主流社会伦理与政治和平论的重要线索。",
@@ -42,5 +42,17 @@
       "url": "https://ctext.org/zhuangzi/tian-xia",
       "noteZh": "以《庄子·天下》与《荀子》批评材料支撑宋钘身份层。"
     }
+  ],
+  "oneLineEn": "Jixia thinker often paired with Yin Wen, urging restraint of desire and non-fighting.",
+  "keywordsEn": [
+    "Jixia",
+    "universal love and non-contention",
+    "few desires"
+  ],
+  "oneLineEs": "Figura de Jixia en los Reinos Combatientes, a menudo emparejada con Yin Wen; urgió la contención del deseo y la no contienda.",
+  "keywordsEs": [
+    "Jixia",
+    "amor universal y no contienda",
+    "pocos deseos"
   ]
 }

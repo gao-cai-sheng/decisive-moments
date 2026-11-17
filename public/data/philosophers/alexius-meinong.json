@@ -23,10 +23,10 @@
   ],
   "keywordsZh": [
     "对象论",
-    "身份层",
-    "二线哲人"
+    "非存在对象",
+    "格拉茨学派"
   ],
-  "oneLineZh": "对象论代表，可补语言、存在与非存在对象问题。",
+  "oneLineZh": "对象论创立者，主张非存在的对象亦有其所是，深刻影响指称理论与本体论争论。",
   "influenceWeight": 2,
   "reviewStatus": "draft",
   "summaryZh": "阿莱克修斯·迈农（1853—1920）是 W2 欧陆与英美近现代二线哲人候选。其身份层入选理由为：对象论代表，可补语言、存在与非存在对象问题。 本条仅作 seed 档基本定位，后续若升级标准档，需要重新做著作、论点与 evidence 研究。",
@@ -39,5 +39,17 @@
       "label": "S002",
       "noteZh": "权威来源条目：SEP: Alexius Meinong；用于核验人物身份、生卒、代表著作和思想史定位。"
     }
+  ],
+  "oneLineEn": "Founded object theory, arguing that non-existent objects have their own being and shaping ontology debates.",
+  "keywordsEn": [
+    "theory of objects",
+    "non-existent objects",
+    "Graz School"
+  ],
+  "oneLineEs": "Fundador de la teoría de los objetos; sostuvo que los objetos inexistentes tienen aún un modo de ser, y marcó los debates sobre la referencia y la ontología.",
+  "keywordsEs": [
+    "teoría de los objetos",
+    "objetos inexistentes",
+    "Escuela de Graz"
   ]
 }

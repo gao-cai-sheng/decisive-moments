@@ -32,7 +32,7 @@
     "为静修者辩护",
     "神圣之光"
   ],
-  "oneLineZh": "晚期拜占庭静修主义神学家，以本质/能质之分和《为静修者辩护》组织东正教神秘经验论证。",
+  "oneLineZh": "晚期拜占庭静修神学家，以本质/能质之分与《为静修者辩护》组织神秘经验论证。",
   "influenceWeight": 3,
   "reviewStatus": "draft",
   "summaryZh": "格里高利·帕拉马斯在静修主义论争中把修行经验、基督变容之光和严密神学区分连接起来。本标准候选以三条线展开：他先为静修者的身心祈祷和恩典智慧辩护，再以未受造光说明神可被真实经验，最后用本质/能质之分解释神化是参与未受造恩典而非把握神本质，从而避免把他写成西门式第一人称神秘诗人或抽象形上学家。",
@@ -372,5 +372,19 @@
         ]
       }
     ]
-  }
+  },
+  "oneLineEn": "Late Byzantine hesychast framing mystical experience via essence/energies distinction and the Triads.",
+  "keywordsEn": [
+    "hesychasm",
+    "essence/energies distinction",
+    "Triads in Defense of the Holy Hesychasts",
+    "uncreated light"
+  ],
+  "oneLineEs": "Teólogo hesicasta del Bizancio tardío que organiza la argumentación de la experiencia mística ortodoxa mediante la distinción esencia/energías y la Defensa de los santos hesicastas.",
+  "keywordsEs": [
+    "hesicasmo",
+    "distinción esencia/energías",
+    "Defensa de los santos hesicastas",
+    "luz divina"
+  ]
 }

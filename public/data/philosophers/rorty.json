@@ -289,5 +289,21 @@
       }
     ]
   },
-  "tier": "standard"
+  "tier": "standard",
+  "oneLineEn": "Rejoined analytic philosophy, Deweyan tradition, and liberal democracy via anti-representationalism and neopragmatism.",
+  "keywordsEn": [
+    "neopragmatism",
+    "anti-representationalism",
+    "vocabulary",
+    "liberal ironist",
+    "democratic hope"
+  ],
+  "oneLineEs": "Reconectó la filosofía analítica, la tradición de Dewey y la democracia liberal mediante el antirepresentacionalismo y el neopragmatismo.",
+  "keywordsEs": [
+    "neopragmatismo",
+    "antirepresentacionalismo",
+    "vocabulario",
+    "ironista liberal",
+    "esperanza democrática"
+  ]
 }

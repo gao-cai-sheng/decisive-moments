@@ -24,7 +24,7 @@
     "原子论",
     "范畴论"
   ],
-  "oneLineZh": "《胜论经》的传统归属作者，胜论派原子论和范畴论的身份层锚点。",
+  "oneLineZh": "《胜论经》的传统归属作者，胜论派的原子论与范畴论由此立宗。",
   "influenceWeight": 2,
   "reviewStatus": "draft",
   "summaryZh": "迦那陀被传统归为《胜论经》作者，是胜论派原子论和范畴论的奠基人物。其时代和文本层次仍需盲审与后续标准档复核。",
@@ -37,5 +37,17 @@
       "url": "https://plato.stanford.edu/entries/vaisesika/",
       "noteZh": "SEP Vaiśeṣika 条目用于核验胜论派、《胜论经》和迦那陀传统归属。"
     }
+  ],
+  "oneLineEn": "Vaiśeṣika tradition credits him with the Vaiśeṣika Sūtra, grounding atomism and categories.",
+  "keywordsEn": [
+    "Vaiśeṣika Sūtra",
+    "atomism",
+    "categories"
+  ],
+  "oneLineEs": "Autor tradicionalmente atribuido del Vaiśeṣika Sūtra; aquí se fundan el atomismo y la teoría de las categorías vaiśeṣika.",
+  "keywordsEs": [
+    "Vaiśeṣika Sūtra",
+    "atomismo",
+    "teoría de las categorías"
   ]
 }

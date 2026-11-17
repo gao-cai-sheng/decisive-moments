@@ -26,7 +26,7 @@
     "印度现代思想",
     "宗教传播"
   ],
-  "oneLineZh": "新吠檀多与印度现代宗教思想传播的代表人物。",
+  "oneLineZh": "新吠檀多与印度现代宗教思想向全球传播的关键枢纽人物。",
   "influenceWeight": 2,
   "reviewStatus": "draft",
   "summaryZh": "辨喜将吠檀多传统以现代宗教哲学和跨文化传播的方式重新组织，是印度近现代思想史的重要节点。本条仅作 seed 身份层定位。",
@@ -40,5 +40,17 @@
       "url": "https://iep.utm.edu/vivekananda/",
       "noteZh": "IEP Vivekananda 条目用于核验人物身份、新吠檀多定位和代表作。"
     }
+  ],
+  "oneLineEn": "Key hub transmitting Neo-Vedānta and modern Indian religious thought across the globe.",
+  "keywordsEn": [
+    "neo-Vedānta",
+    "modern Indian thought",
+    "religious transmission"
+  ],
+  "oneLineEs": "Figura del neo-Vedānta y transmisor del pensamiento religioso indio moderno.",
+  "keywordsEs": [
+    "neo-Vedānta",
+    "pensamiento indio moderno",
+    "transmisión religiosa"
   ]
 }

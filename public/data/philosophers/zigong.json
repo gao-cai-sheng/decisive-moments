@@ -27,7 +27,7 @@
     "外交",
     "言语科"
   ],
-  "oneLineZh": "以言语、政事与外交能力著称的孔门弟子。",
+  "oneLineZh": "孔门弟子，以言语辞令和政事外交能力见称，承接儒家交聘传统。",
   "influenceWeight": 2,
   "reviewStatus": "draft",
   "summaryZh": "子贡，复姓端木，名赐，卫人，是孔门弟子中以言语、政事和外交活动见长者。《论语》多次记录他向孔子问仁、问政、问友，并以敏捷的判断力参与师门讨论。《史记》进一步塑造其游说诸侯、经营财富和维护孔子声名的形象，使子贡成为儒家传统中兼具实践能力与师门忠诚的代表。",
@@ -41,5 +41,17 @@
       "url": "https://ctext.org/shiji/zhong-ni-di-zi-lie-zhuan",
       "noteZh": "以《论语》与《史记》支撑子贡身份、孔门归属和政治活动。"
     }
+  ],
+  "oneLineEn": "Confucius's disciple noted for speech, statecraft, and diplomacy in the Confucian embassy tradition.",
+  "keywordsEn": [
+    "Confucius's disciples",
+    "diplomacy",
+    "speech division"
+  ],
+  "oneLineEs": "Discípulo de Confucio conocido por el discurso, los asuntos de gobierno y la diplomacia.",
+  "keywordsEs": [
+    "discípulos de Confucio",
+    "diplomacia",
+    "sección del discurso"
   ]
 }

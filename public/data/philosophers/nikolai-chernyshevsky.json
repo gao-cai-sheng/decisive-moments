@@ -33,7 +33,7 @@
     "现实美学",
     "社会思想"
   ],
-  "oneLineZh": "俄国唯物主义与社会思想代表，以理性利己、现实美学和《怎么办？》影响19世纪激进传统。",
+  "oneLineZh": "俄国唯物主义者，以理性利己、现实美学与《怎么办？》影响十九世纪激进传统。",
   "influenceWeight": 3,
   "reviewStatus": "draft",
   "summaryZh": "车尔尼雪夫斯基把唯物主义、现实主义美学和社会改造想象连接成一套激进思想语言。他在《艺术对现实的美学关系》中把现实生活置于艺术理想之上，要求艺术服务人的共同生活兴趣；在《怎么办？》中又以小说结构展示理性利己、女性独立、合作劳动和“新人”伦理，因而不应被处理成纯文学人物。",
@@ -368,5 +368,19 @@
         ]
       }
     ]
-  }
+  },
+  "oneLineEn": "Russian materialist whose rational egoism, aesthetics of reality, and What Is to Be Done? shaped radicalism.",
+  "keywordsEn": [
+    "What Is to Be Done?",
+    "rational egoism",
+    "aesthetics of reality",
+    "social thought"
+  ],
+  "oneLineEs": "Representante del materialismo y del pensamiento social rusos que, con el egoísmo racional, la estética de lo real y ¿Qué hacer?, influye en la tradición radical del siglo XIX.",
+  "keywordsEs": [
+    "¿Qué hacer?",
+    "egoísmo racional",
+    "estética de lo real",
+    "pensamiento social"
+  ]
 }

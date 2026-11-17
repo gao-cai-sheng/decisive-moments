@@ -22,11 +22,11 @@
     "aesthetics"
   ],
   "keywordsZh": [
+    "价值关联",
     "文化科学",
-    "身份层",
-    "二线哲人"
+    "西南学派"
   ],
-  "oneLineZh": "价值关联与文化科学方法论代表，可补韦伯方法论背景。",
+  "oneLineZh": "以价值关联概念完善文化科学方法论，构成韦伯方法论的直接背景。",
   "influenceWeight": 2,
   "reviewStatus": "draft",
   "summaryZh": "海因里希·李凯尔特（1863—1936）是 W2 欧陆与英美近现代二线哲人候选。其身份层入选理由为：价值关联与文化科学方法论代表，可补韦伯方法论背景。 本条仅作 seed 档基本定位，后续若升级标准档，需要重新做著作、论点与 evidence 研究。",
@@ -39,5 +39,17 @@
       "label": "S006",
       "noteZh": "权威来源条目：Routledge Encyclopedia of Philosophy: Rickert, Heinrich；用于核验人物身份、生卒、代表著作和思想史定位。"
     }
+  ],
+  "oneLineEn": "Refined cultural-science methodology via value-relation; direct background to Weber's method.",
+  "keywordsEn": [
+    "value-relation",
+    "cultural sciences",
+    "Southwest School"
+  ],
+  "oneLineEs": "Perfeccionó la metodología de las ciencias de la cultura con el concepto de relación de valor; fondo directo del método weberiano.",
+  "keywordsEs": [
+    "relación de valor",
+    "ciencias de la cultura",
+    "Escuela del Sudoeste"
   ]
 }

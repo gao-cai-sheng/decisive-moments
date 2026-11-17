@@ -22,11 +22,11 @@
     "politics"
   ],
   "keywordsZh": [
-    "身份层",
-    "二线哲人",
-    "思想史补线"
+    "新黑格尔主义",
+    "积极自由",
+    "伦理国家"
   ],
-  "oneLineZh": "英国新黑格尔主义与新自由主义源头人物，可补伦理国家与积极自由线索。",
+  "oneLineZh": "英国新黑格尔主义与新自由主义的源头人物，以伦理国家和积极自由重构自由概念。",
   "influenceWeight": 2,
   "reviewStatus": "draft",
   "summaryZh": "托马斯·希尔·格林（1836—1882）是 W2 欧陆与英美近现代二线哲人候选。其身份层入选理由为：英国新黑格尔主义与新自由主义源头人物，可补伦理国家与积极自由线索。 本条仅作 seed 档基本定位，后续若升级标准档，需要重新做著作、论点与 evidence 研究。",
@@ -39,5 +39,17 @@
       "label": "S007",
       "noteZh": "权威来源条目：SEP: Thomas Hill Green；用于核验人物身份、生卒、代表著作和思想史定位。"
     }
+  ],
+  "oneLineEn": "Source of British neo-Hegelianism and new liberalism; ethical state and positive freedom reworked liberty.",
+  "keywordsEn": [
+    "neo-Hegelianism",
+    "positive liberty",
+    "ethical state"
+  ],
+  "oneLineEs": "Figura fundacional del neohegelianismo británico y del nuevo liberalismo; con el Estado ético y la libertad positiva reconfiguró el concepto de libertad.",
+  "keywordsEs": [
+    "neohegelianismo",
+    "libertad positiva",
+    "Estado ético"
   ]
 }

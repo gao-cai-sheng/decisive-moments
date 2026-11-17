@@ -289,5 +289,21 @@
       }
     ]
   },
-  "tier": "standard"
+  "tier": "standard",
+  "oneLineEn": "In the Kyoto School, answered modern nihilism and European ontology through Buddhist emptiness.",
+  "keywordsEn": [
+    "nihilism / nothingness",
+    "emptiness (sunyata)",
+    "philosophy of religion",
+    "Kyoto School",
+    "self-overcoming"
+  ],
+  "oneLineEs": "En la Escuela de Kioto respondió al nihilismo moderno y a la ontología europea mediante la vacuidad budista.",
+  "keywordsEs": [
+    "nihilismo / nada",
+    "vacuidad (śūnyatā)",
+    "filosofía de la religión",
+    "Escuela de Kioto",
+    "auto-superación"
+  ]
 }

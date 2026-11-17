@@ -278,5 +278,13 @@
       }
     ]
   },
-  "tier": "standard"
+  "tier": "standard",
+  "oneLineEn": "Rebuilds logic via function-argument and sense/reference, advancing a logical foundation for arithmetic.",
+  "keywordsEn": [
+    "Sense and reference",
+    "Function and argument",
+    "Thought",
+    "Logicism",
+    "Concept script"
+  ]
 }

@@ -22,11 +22,11 @@
     "aesthetics"
   ],
   "keywordsZh": [
-    "法国哲学",
-    "身份层",
-    "思想史补线"
+    "认识论断裂",
+    "认识论障碍",
+    "想象诗学"
   ],
-  "oneLineZh": "认识论断裂与科学精神，接 foucault 知识考古学源头。★升档候选",
+  "oneLineZh": "以认识论断裂和认识论障碍重构科学史，同时写物质想象的诗学。",
   "influenceWeight": 2,
   "reviewStatus": "draft",
   "summaryZh": "加斯东·巴什拉（1884—1962）是 Seed W3 法国近现代—现当代二线哲人候选。其身份层入选理由为：认识论断裂与科学精神，接 foucault 知识考古学源头。★升档候选 本条仅作 seed 档基本定位，后续若升级标准档，必须重新做著作、论点与 evidence 研究。",
@@ -40,5 +40,17 @@
       "url": "https://plato.stanford.edu/entries/bachelard/",
       "noteZh": "权威来源条目：SEP: Gaston Bachelard；用于核验人物身份、生卒、代表著作和思想史定位。"
     }
+  ],
+  "oneLineEn": "Recast history of science through epistemological break and obstacle, plus a poetics of material imagination.",
+  "keywordsEn": [
+    "epistemological break",
+    "epistemological obstacle",
+    "poetics of imagination"
+  ],
+  "oneLineEs": "Reconstruyó la historia de la ciencia mediante la ruptura y el obstáculo epistemológicos, y elaboró a la vez una poética de la imaginación material.",
+  "keywordsEs": [
+    "ruptura epistemológica",
+    "obstáculo epistemológico",
+    "poética de la imaginación"
   ]
 }

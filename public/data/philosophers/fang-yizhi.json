@@ -30,7 +30,7 @@
     "物理小识",
     "质测通几"
   ],
-  "oneLineZh": "明清之际思想家，兼通儒释道与自然知识。",
+  "oneLineZh": "明清之际思想家，会通儒释道并深入考察自然名物之知。",
   "influenceWeight": 3,
   "reviewStatus": "draft",
   "summaryZh": "方以智，字密之，号曼公，明清之际学者、思想家，后出家为僧。《物理小识》汇集自然知识、器物、天文和博物材料，《东西均》则以会通方式讨论儒释道、名理和知识分类。方以智处在明清鼎革和西学输入背景下，体现晚明知识综合向清初实证与哲思并行的过渡。",
@@ -44,5 +44,17 @@
       "url": "https://ctext.org/wiki.pl?if=en&searchu=%E6%96%B9%E4%BB%A5%E6%99%BA",
       "noteZh": "以方以智《物理小识》《东西均》支撑身份层。"
     }
+  ],
+  "oneLineEn": "Ming-Qing thinker bridging Confucianism, Buddhism, Daoism and investigating natural names and things.",
+  "keywordsEn": [
+    "Equalizing East and West",
+    "Notes on the Principles of Things",
+    "empirical measurement and penetrating the subtle"
+  ],
+  "oneLineEs": "Pensador de la transición Ming-Qing que tendió puentes entre confucianismo, budismo, taoísmo y el saber natural.",
+  "keywordsEs": [
+    "Igualando Oriente y Occidente",
+    "Notas sobre los principios de las cosas",
+    "medición empírica y penetración de lo sutil"
   ]
 }

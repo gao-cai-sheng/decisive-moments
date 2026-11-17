@@ -30,7 +30,7 @@
     "辩证法",
     "现实主义"
   ],
-  "oneLineZh": "以物化、总体性和阶级意识理论奠定西方马克思主义与批判理论的重要前史。",
+  "oneLineZh": "以物化、总体性和阶级意识理论开出西方马克思主义与批判理论前史。",
   "influenceWeight": 2,
   "reviewStatus": "draft",
   "summaryZh": "卢卡奇从早期文学形式转向马克思主义辩证法，以物化和总体性分析资本主义社会意识，并持续争论现实主义美学。",
@@ -289,5 +289,21 @@
       }
     ]
   },
-  "tier": "standard"
+  "tier": "standard",
+  "oneLineEn": "Opened prehistory for Western Marxism and critical theory via reification, totality, and class consciousness.",
+  "keywordsEn": [
+    "reification",
+    "class consciousness",
+    "totality",
+    "dialectics",
+    "realism"
+  ],
+  "oneLineEs": "Sentó una prehistoria clave del marxismo occidental y de la teoría crítica mediante la cosificación, la totalidad y la conciencia de clase.",
+  "keywordsEs": [
+    "cosificación",
+    "conciencia de clase",
+    "totalidad",
+    "dialéctica",
+    "realismo"
+  ]
 }

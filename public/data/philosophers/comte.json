@@ -288,5 +288,21 @@
       }
     ]
   },
-  "tier": "standard"
+  "tier": "standard",
+  "oneLineEn": "Joined modern knowledge order to social reorganization via three stages, science classification, and sociology.",
+  "keywordsEn": [
+    "positivism",
+    "law of three stages",
+    "classification of the sciences",
+    "sociology",
+    "Religion of Humanity"
+  ],
+  "oneLineEs": "Unió el orden del saber moderno a la reorganización social mediante la ley de los tres estadios, la clasificación de las ciencias y la sociología.",
+  "keywordsEs": [
+    "positivismo",
+    "ley de los tres estadios",
+    "clasificación de las ciencias",
+    "sociología",
+    "Religión de la Humanidad"
+  ]
 }

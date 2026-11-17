@@ -28,7 +28,7 @@
     "声无哀乐论",
     "养生论"
   ],
-  "oneLineZh": "魏晋玄学名士，以自然、音乐和养生论著称。",
+  "oneLineZh": "魏晋玄学名士，以自然、音乐与养生论对抗礼法之苛细。",
   "influenceWeight": 3,
   "reviewStatus": "draft",
   "summaryZh": "嵇康，字叔夜，谯国铚人，竹林七贤之一，也是魏晋玄学中最鲜明的自由人格代表。《声无哀乐论》讨论音乐与情感的关系，《养生论》展开身体、自然和精神修养问题。嵇康拒绝司马氏征辟并被杀，使其思想与生命实践共同成为名教、自然和政治权力冲突的象征。",
@@ -42,5 +42,17 @@
       "url": "https://ctext.org/wiki.pl?if=en&res=834176",
       "noteZh": "以嵇康文集题名传统和《晋书》材料支撑身份层。"
     }
+  ],
+  "oneLineEn": "Wei-Jin xuanxue figure opposing rigid ritual law through naturalness, music theory, and nourishing life.",
+  "keywordsEn": [
+    "Seven Sages of the Bamboo Grove",
+    "Music Has Neither Grief nor Joy",
+    "On Nourishing Life"
+  ],
+  "oneLineEs": "Notable del xuanxue Wei-Jin, conocido por la naturaleza, la teoría musical y el cultivo de la vida.",
+  "keywordsEs": [
+    "Siete Sabios del Bosque de Bambú",
+    "La música no tiene tristeza ni alegría",
+    "Sobre el cultivo de la vida"
   ]
 }

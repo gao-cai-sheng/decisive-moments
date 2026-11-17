@@ -285,5 +285,14 @@
       }
     ]
   },
-  "tier": "standard"
+  "tier": "standard",
+  "keywordsEn": [
+    "Atoms and void",
+    "Convention-based qualities",
+    "Bastard knowledge",
+    "euthymia",
+    "Structural properties"
+  ],
+  "oneLineEn": "Ancient atomist explaining nature by atoms and void; raised issues of perception, convention, and ethical calm.",
+  "oneLineEs": "Atomista antiguo que explicó la naturaleza mediante átomos y vacío, y planteó problemas de percepción, convención y calma ética."
 }

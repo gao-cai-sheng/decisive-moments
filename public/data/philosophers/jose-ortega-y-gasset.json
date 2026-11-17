@@ -23,10 +23,10 @@
   ],
   "keywordsZh": [
     "生命理性",
-    "身份层",
-    "二线哲人"
+    "视角主义",
+    "大众社会"
   ],
-  "oneLineZh": "生命理性、视角主义与群众社会批判代表，可补西班牙现代哲学。",
+  "oneLineZh": "生命理性与视角主义的倡导者，《大众的反叛》批判现代群众社会。",
   "influenceWeight": 2,
   "reviewStatus": "draft",
   "summaryZh": "何塞·奥尔特加-伊-加塞特（1883—1955）是 W2 欧陆与英美近现代二线哲人候选。其身份层入选理由为：生命理性、视角主义与群众社会批判代表，可补西班牙现代哲学。 本条仅作 seed 档基本定位，后续若升级标准档，需要重新做著作、论点与 evidence 研究。",
@@ -39,5 +39,17 @@
       "label": "S012",
       "noteZh": "权威来源条目：IEP: José Ortega y Gasset；用于核验人物身份、生卒、代表著作和思想史定位。"
     }
+  ],
+  "oneLineEn": "Advocate of ratiovitalism and perspectivism; The Revolt of the Masses critiques mass society.",
+  "keywordsEn": [
+    "ratiovitalism",
+    "perspectivism",
+    "mass society"
+  ],
+  "oneLineEs": "Defensor de la razón vital y del perspectivismo; La rebelión de las masas critica la sociedad de masas moderna.",
+  "keywordsEs": [
+    "razón vital",
+    "perspectivismo",
+    "sociedad de masas"
   ]
 }

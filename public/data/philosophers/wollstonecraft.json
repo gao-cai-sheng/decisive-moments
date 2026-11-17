@@ -28,7 +28,7 @@
     "卢梭批判",
     "公民德性"
   ],
-  "oneLineZh": "以女性理性教育和公民平等批判启蒙时代的性别秩序。",
+  "oneLineZh": "以女性理性可教论证公民平等，并延伸权利语言批判卢梭式性别教育。",
   "influenceWeight": 3,
   "reviewStatus": "draft",
   "summaryZh": "沃斯通克拉夫特把女性教育、理性能力和公民身份连接起来，批判卢梭式性别教育和婚姻依附，成为现代女性主义政治哲学的重要源头。",
@@ -288,5 +288,19 @@
       }
     ]
   },
-  "tier": "standard"
+  "tier": "standard",
+  "oneLineEn": "Argues civic equality from women's trainable reason and extends rights-language against Rousseau-style gender education.",
+  "keywordsEn": [
+    "rights of woman",
+    "rational education",
+    "critique of Rousseau",
+    "civic virtue"
+  ],
+  "oneLineEs": "Criticó el orden de género ilustrado mediante la educación racional de las mujeres y la igualdad cívica.",
+  "keywordsEs": [
+    "derechos de la mujer",
+    "educación racional",
+    "crítica de Rousseau",
+    "virtud cívica"
+  ]
 }

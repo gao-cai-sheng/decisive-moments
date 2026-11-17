@@ -283,5 +283,14 @@
       }
     ]
   },
-  "tier": "standard"
+  "tier": "standard",
+  "keywordsEn": [
+    "Against anthropomorphic gods",
+    "Limits of knowledge",
+    "Natural evidence",
+    "Unified divinity",
+    "Inference from observation"
+  ],
+  "oneLineEn": "Presocratic poet-philosopher who criticized anthropomorphic gods and probed limits of human knowledge.",
+  "oneLineEs": "Poeta-filósofo presocrático que criticó los dioses antropomorfos y planteó reflexiones tempranas sobre la divinidad, la naturaleza y los límites del conocimiento humano."
 }

@@ -285,5 +285,14 @@
       }
     ]
   },
-  "tier": "standard"
+  "tier": "standard",
+  "keywordsEn": [
+    "Man the measure",
+    "Virtue is teachable",
+    "Advantageous judgment",
+    "Shame and justice",
+    "Theological suspension"
+  ],
+  "oneLineEn": "Leading sophist known for man as measure, virtue education, and civic practical reason.",
+  "oneLineEs": "Sofista destacado, conocido por la tesis de que el hombre es la medida de todas las cosas, la educación en la virtud y la razón práctica cívica."
 }

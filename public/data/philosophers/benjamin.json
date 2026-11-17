@@ -290,5 +290,21 @@
       }
     ]
   },
-  "tier": "standard"
+  "tier": "standard",
+  "oneLineEn": "Remade media-critical modernity via art under mechanical reproduction, history, and urban fragment writing.",
+  "keywordsEn": [
+    "aura",
+    "mechanical reproduction",
+    "angel of history",
+    "Arcades Project",
+    "messianic time"
+  ],
+  "oneLineEs": "Reformuló la dimensión mediática de la crítica de la modernidad mediante el arte en la era de la reproducción mecánica, la filosofía de la historia y la escritura fragmentaria urbana.",
+  "keywordsEs": [
+    "aura",
+    "reproducción mecánica",
+    "ángel de la historia",
+    "Libro de los pasajes",
+    "tiempo mesiánico"
+  ]
 }

@@ -288,5 +288,21 @@
       }
     ]
   },
-  "tier": "standard"
+  "tier": "standard",
+  "oneLineEn": "Critiqued abstract universalism via language, national spirit, and historical individuality; shaped German historicism.",
+  "keywordsEn": [
+    "origin of language",
+    "national spirit (Volksgeist)",
+    "historicism",
+    "humanity (Humanität)",
+    "cultural diversity"
+  ],
+  "oneLineEs": "Criticó el universalismo abstracto mediante el lenguaje, el espíritu nacional y la individualidad histórica, y moldeó el historicismo alemán y la prehistoria del romanticismo.",
+  "keywordsEs": [
+    "origen del lenguaje",
+    "espíritu nacional (Volksgeist)",
+    "historicismo",
+    "humanidad (Humanität)",
+    "diversidad cultural"
+  ]
 }

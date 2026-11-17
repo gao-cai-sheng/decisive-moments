@@ -31,7 +31,7 @@
     "创造性社会主义",
     "阿毛塔"
   ],
-  "oneLineZh": "以秘鲁现实分析、印第安土地问题和创造性社会主义构成拉丁美洲马克思主义的重要源头。",
+  "oneLineZh": "以秘鲁现实分析、印第安土地问题和创造性社会主义构成拉美马克思主义源头。",
   "influenceWeight": 2,
   "reviewStatus": "draft",
   "summaryZh": "马里亚特吉把马克思主义方法同秘鲁土地制度、印第安共同体和文化前卫运动结合，强调社会主义必须在本土历史中创造。",
@@ -290,5 +290,21 @@
       }
     ]
   },
-  "tier": "standard"
+  "tier": "standard",
+  "oneLineEn": "A source of Latin American Marxism via Peruvian reality, Indigenous land questions, and creative socialism.",
+  "keywordsEn": [
+    "Peruvian reality",
+    "land question",
+    "Indigenous question",
+    "creative socialism",
+    "Amauta"
+  ],
+  "oneLineEs": "Fuente mayor del marxismo latinoamericano mediante el análisis de la realidad peruana, la cuestión indígena de la tierra y el socialismo creativo.",
+  "keywordsEs": [
+    "realidad peruana",
+    "cuestión de la tierra",
+    "cuestión indígena",
+    "socialismo creativo",
+    "Amauta"
+  ]
 }

@@ -287,5 +287,14 @@
       }
     ]
   },
-  "tier": "standard"
+  "tier": "standard",
+  "keywordsEn": [
+    "Dichotomy of control",
+    "Training assent",
+    "Inner freedom",
+    "Role duties",
+    "Enchiridion"
+  ],
+  "oneLineEn": "Roman Stoic teacher whose control dichotomy, assent training, and inner freedom define a practical handbook tradition.",
+  "oneLineEs": "Maestro estoico romano cuya dicotomía del control, el entrenamiento del asentimiento y la libertad interior definen una tradición de manual práctico."
 }

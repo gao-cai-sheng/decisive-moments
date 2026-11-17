@@ -29,7 +29,7 @@
     "公平正义",
     "公共理性"
   ],
-  "oneLineZh": "以公平正义理论重塑当代政治哲学的问题框架。",
+  "oneLineZh": "以原初状态与无知之幕选择正义原则，用差异原则与公共理性协调自由平等。",
   "influenceWeight": 3,
   "reviewStatus": "draft",
   "summaryZh": "罗尔斯通过原初状态、无知之幕和两项正义原则，为现代自由主义政治哲学提供系统论证。",
@@ -283,5 +283,14 @@
       }
     ]
   },
-  "tier": "standard"
+  "tier": "standard",
+  "keywordsEn": [
+    "Original position",
+    "Veil of ignorance",
+    "Difference principle",
+    "Justice as fairness",
+    "Public reason"
+  ],
+  "oneLineEn": "Uses veil of ignorance to pick justice principles; difference principle and public reason balance liberty and equality.",
+  "oneLineEs": "Con la teoría de la justicia como equidad reconfiguró el marco problemático de la filosofía política contemporánea."
 }

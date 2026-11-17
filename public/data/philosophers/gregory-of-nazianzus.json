@@ -32,7 +32,7 @@
     "三位一体",
     "卡帕多西亚三杰"
   ],
-  "oneLineZh": "卡帕多西亚三杰之一，以《神学演讲五篇》奠定东正教三一神学表达。",
+  "oneLineZh": "卡帕多西亚三杰之一，以《神学演讲五篇》定下东正教三一神学表达。",
   "influenceWeight": 3,
   "reviewStatus": "draft",
   "summaryZh": "拿先斯的格里高利被东正教传统称为“神学家”，其《神学演讲五篇》集中处理三位一体、神性语言和尼西亚传统。本标准候选将主线加厚为三层：神学言说必须受净化、场合和听众能力约束；神性本质既可由受造秩序指向却不可被定义；三一 monarchia、子的受生与圣灵神性必须通过谨慎的语言区分来表达。",
@@ -369,5 +369,19 @@
         ]
       }
     ]
-  }
+  },
+  "oneLineEn": "One of the Cappadocian Fathers; Five Theological Orations fixed Eastern Orthodox Trinitarian expression.",
+  "keywordsEn": [
+    "the Theologian",
+    "Theological Orations",
+    "Trinity",
+    "Cappadocian Fathers"
+  ],
+  "oneLineEs": "Uno de los tres Padres Capadocios que, con las Cinco oraciones teológicas, fija la expresión de la teología trinitaria ortodoxa oriental.",
+  "keywordsEs": [
+    "el Teólogo",
+    "Oraciones teológicas",
+    "Trinidad",
+    "Padres Capadocios"
+  ]
 }

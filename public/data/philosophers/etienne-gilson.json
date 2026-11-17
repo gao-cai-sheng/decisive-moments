@@ -23,11 +23,11 @@
     "metaphysics"
   ],
   "keywordsZh": [
-    "法国哲学",
-    "身份层",
-    "思想史补线"
+    "中世纪哲学史",
+    "托马斯主义",
+    "存在形而上学"
   ],
-  "oneLineZh": "中世纪哲学史与托马斯主义复兴，接 aquinas/maritain。",
+  "oneLineZh": "以存在（esse）为核心重释托马斯，推动中世纪哲学史研究。",
   "influenceWeight": 2,
   "reviewStatus": "draft",
   "summaryZh": "艾蒂安·吉尔松（1884—1978）是 Seed W3 法国近现代—现当代二线哲人候选。其身份层入选理由为：中世纪哲学史与托马斯主义复兴，接 aquinas/maritain。 本条仅作 seed 档基本定位，后续若升级标准档，必须重新做著作、论点与 evidence 研究。",
@@ -41,5 +41,17 @@
       "url": "https://plato.stanford.edu/entries/medieval-philosophy/",
       "noteZh": "权威来源条目：SEP (adjacent): Étienne Gilson；用于核验人物身份、生卒、代表著作和思想史定位。"
     }
+  ],
+  "oneLineEn": "Reread Aquinas around esse and advanced the historiography of medieval philosophy.",
+  "keywordsEn": [
+    "history of medieval philosophy",
+    "Thomism",
+    "metaphysics of being"
+  ],
+  "oneLineEs": "Reinterpretó a Tomás de Aquino en torno al esse y impulsó la historiografía de la filosofía medieval.",
+  "keywordsEs": [
+    "historia de la filosofía medieval",
+    "tomismo",
+    "metafísica del ser"
   ]
 }

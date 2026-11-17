@@ -31,7 +31,7 @@
     "伊本·西那批判",
     "东方哲学"
   ],
-  "oneLineZh": "以照明哲学把伊本·西那传统、柏拉图主义光形而上学和临现知识改造成伊斯兰哲学新路线。",
+  "oneLineZh": "以照明哲学改写伊本·西那、柏拉图主义光形而上学与临现知识路线。",
   "influenceWeight": 3,
   "reviewStatus": "draft",
   "summaryZh": "苏赫拉瓦迪创立照明哲学，在继承并批判伊本·西那的同时，以光的等级、临现知识、想象世界和东方智慧重构形而上学与认识论；其思想成为穆拉·萨德拉等后期伊朗伊斯兰哲学的重要来源。",
@@ -294,5 +294,21 @@
       }
     ]
   },
-  "tier": "standard"
+  "tier": "standard",
+  "oneLineEn": "Recasts Ibn Sina, Platonic light metaphysics, and knowledge by presence as Illuminationist philosophy.",
+  "keywordsEn": [
+    "Illuminationist philosophy",
+    "light",
+    "knowledge by presence",
+    "critique of Ibn Sina",
+    "Oriental philosophy"
+  ],
+  "oneLineEs": "Reformuló la tradición de Ibn Sina, la metafísica platónica de la luz y el conocimiento por presencia en la filosofía islámica iluminacionista.",
+  "keywordsEs": [
+    "filosofía iluminacionista",
+    "luz",
+    "conocimiento por presencia",
+    "crítica de Ibn Sina",
+    "filosofía oriental"
+  ]
 }

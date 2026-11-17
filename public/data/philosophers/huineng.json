@@ -293,5 +293,21 @@
       }
     ]
   },
-  "tier": "standard"
+  "tier": "standard",
+  "oneLineEn": "Shaped Southern Chan via sudden enlightenment, self-nature, no-thought, and nondual samadhi-prajna (Platform Sutra).",
+  "keywordsEn": [
+    "sudden enlightenment",
+    "no-thought",
+    "self-nature",
+    "nonduality of samadhi and prajna",
+    "Platform Sutra"
+  ],
+  "oneLineEs": "Configuró el chan del Sur clásico mediante la iluminación súbita, la propia naturaleza, el no-pensamiento y la no dualidad de samādhi y prajñā (Sutra de la Plataforma).",
+  "keywordsEs": [
+    "iluminación súbita",
+    "no-pensamiento",
+    "propia naturaleza",
+    "no dualidad de samādhi y prajñā",
+    "Sutra de la Plataforma"
+  ]
 }

@@ -23,10 +23,10 @@
   ],
   "keywordsZh": [
     "结构主义马克思主义",
-    "身份层",
-    "二线哲人"
+    "意识形态",
+    "认识论断裂"
   ],
-  "oneLineZh": "结构主义马克思主义代表，可补马克思主义与法国理论接口。",
+  "oneLineZh": "结构主义马克思主义代表，提出意识形态国家机器与认识论断裂。",
   "influenceWeight": 2,
   "reviewStatus": "draft",
   "summaryZh": "路易·阿尔都塞（1918—1990）是 W2 欧陆与英美近现代二线哲人候选。其身份层入选理由为：结构主义马克思主义代表，可补马克思主义与法国理论接口。 本条仅作 seed 档基本定位，后续若升级标准档，需要重新做著作、论点与 evidence 研究。",
@@ -39,5 +39,17 @@
       "label": "S015",
       "noteZh": "权威来源条目：SEP: Louis Althusser；用于核验人物身份、生卒、代表著作和思想史定位。"
     }
+  ],
+  "oneLineEn": "Structuralist Marxist of ideological state apparatuses and the epistemological break.",
+  "keywordsEn": [
+    "structuralist Marxism",
+    "ideology",
+    "epistemological break"
+  ],
+  "oneLineEs": "Representante del marxismo estructuralista; propuso los aparatos ideológicos de Estado y la ruptura epistemológica.",
+  "keywordsEs": [
+    "marxismo estructuralista",
+    "ideología",
+    "ruptura epistemológica"
   ]
 }

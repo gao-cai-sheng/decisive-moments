@@ -32,7 +32,7 @@
     "神圣名称",
     "天阶体系"
   ],
-  "oneLineZh": "约500年成书的托名作者传统，以否定神学、神圣名称和等级论深刻影响东方与拉丁中世纪。",
+  "oneLineZh": "约500年托名传统，以否定神学、神圣名称和等级论影响东西方中世纪。",
   "influenceWeight": 3,
   "reviewStatus": "draft",
   "summaryZh": "伪狄奥尼修斯不是《使徒行传》中的一世纪亚略巴古人，而是约500年前后以其名义流传的匿名作者。本标准候选把他从“否定神学”标签加厚为一套神学语言纪律：神的名称必须从启示和受造参与出发，肯定名称可真实指向神作为万有原因；但越接近超本质之神，言说越须收束为否定、无知和超越定义。",
@@ -370,5 +370,19 @@
         ]
       }
     ]
-  }
+  },
+  "oneLineEn": "Pseudepigraphic (~500) negative theology, Divine Names, and hierarchy shaping Eastern and Latin medieval thought.",
+  "keywordsEn": [
+    "pseudepigraphy",
+    "negative theology",
+    "Divine Names",
+    "Celestial Hierarchy"
+  ],
+  "oneLineEs": "Tradición seudónima de hacia el año 500 que, con la teología negativa, los nombres divinos y la teoría de la jerarquía, influye profundamente en el Oriente y en el Occidente latino medieval.",
+  "keywordsEs": [
+    "seudonimia",
+    "teología negativa",
+    "nombres divinos",
+    "jerarquía celeste"
+  ]
 }

@@ -27,7 +27,7 @@
     "明代理学",
     "静坐读书"
   ],
-  "oneLineZh": "明初理学家，以康斋学派和居敬实践影响陈献章。",
+  "oneLineZh": "明初理学家，以康斋学派居敬实践影响陈献章一路学风。",
   "influenceWeight": 2,
   "reviewStatus": "draft",
   "summaryZh": "吴与弼，字子傅，号康斋，明初理学家。他长期乡居讲学，重视读书、静坐、日用伦理和师友传承，其《康斋集》保存诗文和讲学材料。吴与弼并非大型体系建构者，但其人格化、实践化的理学风格影响陈献章、胡居仁等明代理学人物，是明代心性修养转向的重要前驱。",
@@ -40,5 +40,17 @@
       "url": "https://ctext.org/wiki.pl?if=en&res=821770",
       "noteZh": "以吴与弼《康斋集》和明儒学案材料支撑身份层。"
     }
+  ],
+  "oneLineEn": "Early Ming Neo-Confucian whose Kangzhai reverence practice shaped Chen Xianzhang's scholarly path.",
+  "keywordsEn": [
+    "Kangzhai",
+    "Ming Neo-Confucianism",
+    "quiet sitting and reading"
+  ],
+  "oneLineEs": "Neoconfuciano de inicios Ming cuya escuela Kangzhai y la práctica reverente influyeron en Chen Xianzhang.",
+  "keywordsEs": [
+    "Kangzhai",
+    "neoconfucianismo Ming",
+    "sentarse en quietud y lectura"
   ]
 }

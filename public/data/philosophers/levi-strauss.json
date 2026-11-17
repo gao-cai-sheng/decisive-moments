@@ -23,11 +23,11 @@
     "language"
   ],
   "keywordsZh": [
-    "法国哲学",
-    "身份层",
-    "思想史补线"
+    "结构人类学",
+    "神话学",
+    "亲属结构"
   ],
-  "oneLineZh": "结构人类学奠基，结构主义总源。★升档候选",
+  "oneLineZh": "以亲属结构与神话学分析建成结构人类学的基本研究方法。",
   "influenceWeight": 2,
   "reviewStatus": "draft",
   "summaryZh": "克洛德·列维-斯特劳斯（1908—2009）是 Seed W3 法国近现代—现当代二线哲人候选。其身份层入选理由为：结构人类学奠基，结构主义总源。★升档候选 本条仅作 seed 档基本定位，后续若升级标准档，必须重新做著作、论点与 evidence 研究。",
@@ -41,5 +41,17 @@
       "url": "https://iep.utm.edu/levi-strauss/",
       "noteZh": "权威来源条目：IEP: Claude Lévi-Strauss；用于核验人物身份、生卒、代表著作和思想史定位。"
     }
+  ],
+  "oneLineEn": "Builds structural anthropology's basic research method through kinship structures and myth analysis.",
+  "keywordsEn": [
+    "structural anthropology",
+    "mythology",
+    "kinship structures"
+  ],
+  "oneLineEs": "Sentó la antropología estructural mediante el análisis de las estructuras del parentesco y de la mitología.",
+  "keywordsEs": [
+    "antropología estructural",
+    "mitología",
+    "estructuras del parentesco"
   ]
 }

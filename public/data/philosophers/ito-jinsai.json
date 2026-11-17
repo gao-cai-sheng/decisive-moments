@@ -26,7 +26,7 @@
     "孔孟",
     "朱子学批评"
   ],
-  "oneLineZh": "江户古学派代表，主张回到孔孟文本并批评朱子学。",
+  "oneLineZh": "江户古学派代表人物，主张回到孔孟文本并批评朱子学。",
   "influenceWeight": 2,
   "reviewStatus": "draft",
   "summaryZh": "伊藤仁斋是日本古学派儒学代表，强调孔孟原典和伦理实践，对朱子学构成批评。本条仅作 seed 身份层定位。",
@@ -40,5 +40,17 @@
       "url": "https://plato.stanford.edu/entries/japanese-confucian/",
       "noteZh": "SEP Japanese Confucian Philosophy 条目用于核验伊藤仁斋的日本儒学定位。"
     }
+  ],
+  "oneLineEn": "Edo Ancient Learning figure urging return to Confucius-Mencius texts against Zhu Xi learning.",
+  "keywordsEn": [
+    "Ancient Learning school",
+    "Confucius and Mencius",
+    "critique of Zhu Xi Learning"
+  ],
+  "oneLineEs": "Figura del Aprendizaje Antiguo Edo que volvió a los textos de Confucio y Mencio y criticó el aprendizaje de Zhu Xi.",
+  "keywordsEs": [
+    "escuela del Aprendizaje Antiguo",
+    "Confucio y Mencio",
+    "crítica del aprendizaje de Zhu Xi"
   ]
 }

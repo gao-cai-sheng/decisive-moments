@@ -297,5 +297,21 @@
       }
     ]
   },
-  "tier": "standard"
+  "tier": "standard",
+  "oneLineEn": "Advanced racial experience as modern political philosophy via double consciousness, color line, and abolition democracy.",
+  "keywordsEn": [
+    "the color line",
+    "double consciousness",
+    "the Veil",
+    "abolition democracy",
+    "Black Reconstruction"
+  ],
+  "oneLineEs": "Elevó la experiencia racial a problema de la filosofía política y las ciencias sociales modernas mediante la doble conciencia, la línea de color y la democracia abolicionista.",
+  "keywordsEs": [
+    "la línea de color",
+    "doble conciencia",
+    "el Velo",
+    "democracia abolicionista",
+    "Reconstrucción negra"
+  ]
 }

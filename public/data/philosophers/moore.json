@@ -292,5 +292,21 @@
       }
     ]
   },
-  "tier": "standard"
+  "tier": "standard",
+  "oneLineEn": "Helped form Cambridge analytic philosophy via ethical non-naturalism, anti-idealism, and common-sense realism.",
+  "keywordsEn": [
+    "naturalistic fallacy",
+    "indefinability of good",
+    "anti-idealism",
+    "common sense",
+    "external world"
+  ],
+  "oneLineEs": "Contribuyó a formar la filosofía analítica de Cambridge mediante el no naturalismo ético, el antiidealismo y el realismo del sentido común.",
+  "keywordsEs": [
+    "falacia naturalista",
+    "indefinibilidad del bien",
+    "antiidealismo",
+    "sentido común",
+    "mundo externo"
+  ]
 }

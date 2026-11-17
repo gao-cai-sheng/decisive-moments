@@ -26,7 +26,7 @@
     "入唐求法",
     "密教"
   ],
-  "oneLineZh": "日本真言宗奠基者，连接唐代密教与日本佛教。",
+  "oneLineZh": "日本真言宗开派人物，连接唐代密教与日本佛教之制度。",
   "influenceWeight": 2,
   "reviewStatus": "draft",
   "summaryZh": "空海是日本真言宗奠基人物，以密教、文字与修行体系连接印度佛教、中国佛教和日本佛教。本条仅作 seed 身份层定位。",
@@ -40,5 +40,17 @@
       "url": "https://iep.utm.edu/kukai/",
       "noteZh": "IEP Kukai 条目用于核验空海身份、真言宗定位和代表作。"
     }
+  ],
+  "oneLineEn": "Founding figure of Japanese Shingon, linking Tang esoteric Buddhism to Japanese institutions.",
+  "keywordsEn": [
+    "Shingon",
+    "study in Tang China",
+    "esoteric Buddhism"
+  ],
+  "oneLineEs": "Fundador del Shingon japonés que enlazó el budismo esotérico tang con Japón.",
+  "keywordsEs": [
+    "Shingon",
+    "estudio en la China tang",
+    "budismo esotérico"
   ]
 }

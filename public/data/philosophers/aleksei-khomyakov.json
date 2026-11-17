@@ -32,7 +32,7 @@
     "sobornost",
     "东正教共同体"
   ],
-  "oneLineZh": "斯拉夫派核心理论家，以 sobornost 组织自由、共同体和东正教传统的思想口径。",
+  "oneLineZh": "斯拉夫派核心理论家，以 sobornost 组织自由、共同体与东正教传统口径。",
   "influenceWeight": 3,
   "reviewStatus": "draft",
   "summaryZh": "霍米亚科夫的 sobornost 不是简单民族共同体口号，而是从教会论出发理解自由、信仰、传统和共同生活的思想结构。他把教会统一写成在许多人中生活的恩典统一，反对把权威安放在单个个人、地点或外在制度中；同时又用这一有机统一回应俄欧启蒙问题，形成早期斯拉夫派的宗教政治语言。",
@@ -370,5 +370,19 @@
         ]
       }
     ]
-  }
+  },
+  "oneLineEn": "Core Slavophile theorist framing freedom, community, and Orthodox tradition through sobornost.",
+  "keywordsEn": [
+    "Slavophilism",
+    "sobornost (conciliarity)",
+    "sobornost",
+    "Orthodox community"
+  ],
+  "oneLineEs": "Teórico central del eslavofilismo que organiza, mediante la sobornost, el marco conceptual de la libertad, la comunidad y la tradición ortodoxa.",
+  "keywordsEs": [
+    "eslavofilismo",
+    "sobornost (conciliaridad)",
+    "sobornost",
+    "comunidad ortodoxa"
+  ]
 }

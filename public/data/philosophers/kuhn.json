@@ -289,5 +289,21 @@
       }
     ]
   },
-  "tier": "standard"
+  "tier": "standard",
+  "oneLineEn": "Rewrote historical philosophy of scientific progress via paradigms, normal science, and scientific revolutions.",
+  "keywordsEn": [
+    "paradigm",
+    "normal science",
+    "scientific revolution",
+    "incommensurability",
+    "historical philosophy of science"
+  ],
+  "oneLineEs": "Reescribió la filosofía histórica del progreso científico mediante paradigmas, ciencia normal y revoluciones científicas.",
+  "keywordsEs": [
+    "paradigma",
+    "ciencia normal",
+    "revolución científica",
+    "inconmensurabilidad",
+    "filosofía histórica de la ciencia"
+  ]
 }

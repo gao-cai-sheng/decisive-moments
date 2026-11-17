@@ -283,5 +283,14 @@
       }
     ]
   },
-  "tier": "standard"
+  "tier": "standard",
+  "keywordsEn": [
+    "Botany",
+    "Characters",
+    "Lyceum",
+    "Study of causes",
+    "Character types"
+  ],
+  "oneLineEn": "Aristotle's successor expanding Peripatetic natural study, botany, character writing, and scholarly institutions.",
+  "oneLineEs": "Sucesor de Aristóteles que amplió el estudio natural peripatético, la botánica, la descripción de caracteres y las instituciones académicas."
 }

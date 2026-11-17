@@ -290,5 +290,21 @@
       }
     ]
   },
-  "tier": "standard"
+  "tier": "standard",
+  "oneLineEn": "Organized faith, reason, natural light, and ethical equality in the Hatata into Ethiopian rationalism.",
+  "keywordsEn": [
+    "Hatata (Inquiry)",
+    "reason",
+    "natural light",
+    "religious toleration",
+    "equality"
+  ],
+  "oneLineEs": "Organizó fe, razón, luz natural e igualdad ética en el Hatata como tradición racionalista etíope.",
+  "keywordsEs": [
+    "Hatata (Indagación)",
+    "razón",
+    "luz natural",
+    "tolerancia religiosa",
+    "igualdad"
+  ]
 }

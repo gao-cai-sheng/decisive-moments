@@ -28,7 +28,7 @@
     "量论",
     "量理宝藏论"
   ],
-  "oneLineZh": "萨迦派系统家，以《量理宝藏论》推进藏传量论传统。",
+  "oneLineZh": "萨迦派系统家，以《量理宝藏论》推进藏传量论之传统。",
   "influenceWeight": 2,
   "reviewStatus": "draft",
   "summaryZh": "萨迦班智达（1182—1251）是 Seed W6 藏传佛教文明补线候选。其身份层入选理由为：萨迦派系统家，以《量理宝藏论》推进藏传量论传统。 本条仅作 seed 档基本定位，后续若升级标准档，必须重新做著作、论点与 evidence 研究。",
@@ -42,5 +42,17 @@
       "url": "https://iep.utm.edu/",
       "noteZh": "来源：IEP / Sakya Pandita；用于核验人物身份、断代、代表作与思想史定位。"
     }
+  ],
+  "oneLineEn": "Sakya systematizer advancing Tibetan pramāṇa via Treasury of Reasoning on Valid Cognition.",
+  "keywordsEn": [
+    "Sakya",
+    "pramana theory",
+    "Treasury of Reasoning"
+  ],
+  "oneLineEs": "Sistematizador de la escuela Sakya que impulsó la tradición tibetana del pramāṇa con el Tesoro de la lógica de la validación.",
+  "keywordsEs": [
+    "escuela Sakya",
+    "teoría del pramāṇa",
+    "Tesoro de la lógica de la validación"
   ]
 }

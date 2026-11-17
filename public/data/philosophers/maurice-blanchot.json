@@ -23,11 +23,11 @@
     "language"
   ],
   "keywordsZh": [
-    "法国哲学",
-    "身份层",
-    "思想史补线"
+    "文学空间",
+    "中性",
+    "灾异书写"
   ],
-  "oneLineZh": "文学空间与中性、灾异书写，接 levinas/bataille。",
+  "oneLineZh": "以文学空间、中性与灾异书写探索语言自身的内在界限。",
   "influenceWeight": 2,
   "reviewStatus": "draft",
   "summaryZh": "莫里斯·布朗肖（1907—2003）是 Seed W3 法国近现代—现当代二线哲人候选。其身份层入选理由为：文学空间与中性、灾异书写，接 levinas/bataille。 本条仅作 seed 档基本定位，后续若升级标准档，必须重新做著作、论点与 evidence 研究。",
@@ -41,5 +41,17 @@
       "url": "https://www.rep.routledge.com/articles/biographical/blanchot-maurice-1907-2003/v-1",
       "noteZh": "权威来源条目：Routledge: Blanchot, Maurice；用于核验人物身份、生卒、代表著作和思想史定位。"
     }
+  ],
+  "oneLineEn": "Probes language's inner limits via literary space, the neutral, and writing of disaster.",
+  "keywordsEn": [
+    "literary space",
+    "the neutral",
+    "writing of disaster"
+  ],
+  "oneLineEs": "Explora los límites del lenguaje mediante el espacio literario, lo neutro y la escritura del desastre.",
+  "keywordsEs": [
+    "espacio literario",
+    "lo neutro",
+    "escritura del desastre"
   ]
 }

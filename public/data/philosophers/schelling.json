@@ -25,7 +25,7 @@
   "keywordsZh": [
     "自然哲学",
     "同一哲学",
-    "自由",
+    "恶与自由",
     "艺术",
     "启示"
   ],
@@ -292,5 +292,21 @@
       }
     ]
   },
-  "tier": "standard"
+  "tier": "standard",
+  "keywordsEn": [
+    "philosophy of nature",
+    "identity philosophy",
+    "evil and freedom",
+    "art",
+    "revelation"
+  ],
+  "oneLineEn": "Organized nature, spirit, art, and freedom into German Idealism's most generative systematic experiments.",
+  "oneLineEs": "Organizó la naturaleza, el espíritu, el arte y la libertad en los experimentos sistemáticos más generativos del idealismo alemán.",
+  "keywordsEs": [
+    "filosofía de la naturaleza",
+    "filosofía de la identidad",
+    "libertad",
+    "arte",
+    "revelación"
+  ]
 }

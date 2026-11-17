@@ -22,11 +22,11 @@
     "metaphysics"
   ],
   "keywordsZh": [
-    "身份层",
-    "二线哲人",
-    "思想史补线"
+    "历史哲学",
+    "世俗化",
+    "现代性批判"
   ],
-  "oneLineZh": "世俗化历史哲学批判代表，可补海德格尔、尼采与现代历史意识线索。",
+  "oneLineZh": "论证现代进步史观其实是基督教末世论的世俗化之产物。",
   "influenceWeight": 2,
   "reviewStatus": "draft",
   "summaryZh": "卡尔·洛维特（1897—1973）是 W2 欧陆与英美近现代二线哲人候选。其身份层入选理由为：世俗化历史哲学批判代表，可补海德格尔、尼采与现代历史意识线索。 本条仅作 seed 档基本定位，后续若升级标准档，需要重新做著作、论点与 evidence 研究。",
@@ -39,5 +39,17 @@
       "label": "S011",
       "noteZh": "权威来源条目：IEP: Karl Löwith；用于核验人物身份、生卒、代表著作和思想史定位。"
     }
+  ],
+  "oneLineEn": "Argues modern progress history is a secularized form of Christian eschatology.",
+  "keywordsEn": [
+    "philosophy of history",
+    "secularization",
+    "critique of modernity"
+  ],
+  "oneLineEs": "Argumentó que la concepción moderna del progreso histórico es un producto secularizado de la escatología cristiana.",
+  "keywordsEs": [
+    "filosofía de la historia",
+    "secularización",
+    "crítica de la modernidad"
   ]
 }

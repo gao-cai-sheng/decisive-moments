@@ -23,11 +23,11 @@
     "aesthetics"
   ],
   "keywordsZh": [
-    "法国哲学",
-    "身份层",
-    "思想史补线"
+    "拟像",
+    "消费社会",
+    "超真实"
   ],
-  "oneLineZh": "拟像与消费社会。",
+  "oneLineZh": "以拟像与超真实理论剖析消费社会中的符号交换之逻辑。",
   "influenceWeight": 2,
   "reviewStatus": "draft",
   "summaryZh": "让·鲍德里亚（1929—2007）是 Seed W3 法国近现代—现当代二线哲人候选。其身份层入选理由为：拟像与消费社会。 本条仅作 seed 档基本定位，后续若升级标准档，必须重新做著作、论点与 evidence 研究。",
@@ -41,5 +41,17 @@
       "url": "https://iep.utm.edu/baudrillard/",
       "noteZh": "权威来源条目：IEP: Jean Baudrillard；用于核验人物身份、生卒、代表著作和思想史定位。"
     }
+  ],
+  "oneLineEn": "Uses simulacra and hyperreality to analyze symbolic-exchange logic in consumer society.",
+  "keywordsEn": [
+    "simulacra",
+    "consumer society",
+    "hyperreality"
+  ],
+  "oneLineEs": "Analizó la lógica simbólica de la sociedad de consumo mediante las teorías del simulacro y de la hiperrealidad.",
+  "keywordsEs": [
+    "simulacro",
+    "sociedad de consumo",
+    "hiperrealidad"
   ]
 }

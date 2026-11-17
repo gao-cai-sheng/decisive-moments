@@ -22,10 +22,10 @@
   ],
   "keywordsZh": [
     "宗教哲学",
-    "宗教哲学",
-    "身份层"
+    "改革宗认识论",
+    "模态本体论证"
   ],
-  "oneLineZh": "改革宗认识论与模态本体论证代表，可补当代宗教哲学。",
+  "oneLineZh": "改革宗认识论与模态本体论证代表，主张有神论信念可以是基础信念。",
   "influenceWeight": 2,
   "reviewStatus": "draft",
   "summaryZh": "阿尔文·普兰廷加（1932—）是 W2 欧陆与英美近现代二线哲人候选。其身份层入选理由为：改革宗认识论与模态本体论证代表，可补当代宗教哲学。 本条仅作 seed 档基本定位，后续若升级标准档，需要重新做著作、论点与 evidence 研究。",
@@ -38,5 +38,17 @@
       "label": "S001",
       "noteZh": "权威来源条目：SEP: Alvin Plantinga；用于核验人物身份、生卒、代表著作和思想史定位。"
     }
+  ],
+  "oneLineEn": "Reformed epistemology and modal ontological argument; theistic belief can be properly basic.",
+  "keywordsEn": [
+    "philosophy of religion",
+    "Reformed epistemology",
+    "modal ontological argument"
+  ],
+  "oneLineEs": "Representante de la epistemología reformada y del argumento ontológico modal; sostiene que la creencia teísta puede ser una creencia básica propiamente dicha.",
+  "keywordsEs": [
+    "filosofía de la religión",
+    "epistemología reformada",
+    "argumento ontológico modal"
   ]
 }

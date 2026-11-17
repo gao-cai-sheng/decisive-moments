@@ -30,7 +30,7 @@
     "伊斯兰",
     "殖民批判"
   ],
-  "oneLineZh": "以非洲人格、宗教比较和教育批判奠定泛非思想与非洲现代主体性的早期语言。",
+  "oneLineZh": "以非洲人格、宗教比较和教育批判形成泛非思想与非洲现代主体性早期语言。",
   "influenceWeight": 2,
   "reviewStatus": "draft",
   "summaryZh": "布莱登批判殖民教育和欧洲中心评价，把非洲人格、伊斯兰经验和文化自信置于黑人民族现代性问题中心。",
@@ -289,5 +289,21 @@
       }
     ]
   },
-  "tier": "standard"
+  "tier": "standard",
+  "oneLineEn": "Early language for Pan-African thought via African personality, comparative religion, and educational critique.",
+  "keywordsEn": [
+    "African personality",
+    "Pan-Africanism",
+    "education",
+    "Islam",
+    "critique of colonialism"
+  ],
+  "oneLineEs": "Lenguaje temprano del pensamiento panafricano mediante la personalidad africana, la religión comparada y la crítica educativa.",
+  "keywordsEs": [
+    "personalidad africana",
+    "panafricanismo",
+    "educación",
+    "islam",
+    "crítica del colonialismo"
+  ]
 }

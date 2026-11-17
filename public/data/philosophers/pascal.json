@@ -294,5 +294,21 @@
       }
     ]
   },
-  "tier": "standard"
+  "tier": "standard",
+  "oneLineEn": "Reshaped early modern Christian apologetics through human fragility, reason's limits, and the wager.",
+  "keywordsEn": [
+    "Pensées",
+    "the wager",
+    "the heart (esprit de finesse)",
+    "esprit de géométrie",
+    "Montaigne"
+  ],
+  "oneLineEs": "Reformuló la apologética cristiana moderna temprana y el sentimiento existencial mediante la fragilidad humana, los límites de la razón y la apuesta de la fe.",
+  "keywordsEs": [
+    "Pensées",
+    "la apuesta",
+    "el corazón (esprit de finesse)",
+    "esprit de géométrie",
+    "Montaigne"
+  ]
 }

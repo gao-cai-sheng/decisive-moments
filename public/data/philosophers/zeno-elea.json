@@ -287,5 +287,14 @@
       }
     ]
   },
-  "tier": "standard"
+  "tier": "standard",
+  "keywordsEn": [
+    "Against plurality",
+    "Paradoxes of motion",
+    "Dichotomy",
+    "Flying arrow",
+    "Indirect proof"
+  ],
+  "oneLineEn": "Eleatic thinker defending Parmenidean ontology with paradoxes against plurality and motion.",
+  "oneLineEs": "Pensador eleático que defendió la ontología parmenídea con paradojas contra la pluralidad y el movimiento."
 }

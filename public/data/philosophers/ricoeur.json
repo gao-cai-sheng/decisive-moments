@@ -288,5 +288,21 @@
       }
     ]
   },
-  "tier": "standard"
+  "tier": "standard",
+  "oneLineEn": "Developed theories of symbol, metaphor, narrative, and selfhood between phenomenology and hermeneutics.",
+  "keywordsEn": [
+    "hermeneutics",
+    "symbol",
+    "metaphor",
+    "narrative identity",
+    "recognition"
+  ],
+  "oneLineEs": "Desarrolló teorías del símbolo, la metáfora, la narrativa y la identidad del sí entre fenomenología y hermenéutica.",
+  "keywordsEs": [
+    "hermenéutica",
+    "símbolo",
+    "metáfora",
+    "identidad narrativa",
+    "reconocimiento"
+  ]
 }

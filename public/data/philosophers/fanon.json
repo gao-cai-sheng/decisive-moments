@@ -289,5 +289,19 @@
       }
     ]
   },
-  "tier": "standard"
+  "tier": "standard",
+  "oneLineEn": "Linked existentialism and postcolonial thought through colonial psychology and theories of national liberation.",
+  "keywordsEn": [
+    "colonial psychology",
+    "subject formation",
+    "national liberation",
+    "postcolonial"
+  ],
+  "oneLineEs": "Vinculó el existencialismo y el pensamiento poscolonial mediante la psicología colonial y las teorías de la liberación nacional.",
+  "keywordsEs": [
+    "psicología colonial",
+    "formación del sujeto",
+    "liberación nacional",
+    "poscolonial"
+  ]
 }

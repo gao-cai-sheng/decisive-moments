@@ -28,7 +28,7 @@
     "续高僧传",
     "四分律行事钞"
   ],
-  "oneLineZh": "唐代律宗大师和佛教史家，以律学与僧传编纂著称。",
+  "oneLineZh": "唐代律宗大师与佛教史家，兼定律学规范并编僧传文献。",
   "influenceWeight": 3,
   "reviewStatus": "draft",
   "summaryZh": "道宣，俗姓钱，唐代高僧，是中国律宗南山一系的奠基者。《四分律删繁补阙行事钞》系统整理僧团戒律实践，《续高僧传》则延续僧传书写，保存大量中古佛教史料。道宣把戒律、僧团制度、佛教史学和国家佛教环境连接起来，是唐代佛教制度化的关键人物。",
@@ -42,5 +42,17 @@
       "url": "https://cbetaonline.dila.edu.tw/zh/T2060",
       "noteZh": "以道宣《续高僧传》《四分律删繁补阙行事钞》支撑身份层。"
     }
+  ],
+  "oneLineEn": "Tang Vinaya master and Buddhist historian codifying discipline and compiling monk biographies.",
+  "keywordsEn": [
+    "Vinaya School",
+    "Further Biographies of Eminent Monks",
+    "Commentary on the Dharmaguptaka Vinaya"
+  ],
+  "oneLineEs": "Maestro de la Vinaya e historiador budista tang, célebre por el estudio de la disciplina y la compilación de biografías monásticas.",
+  "keywordsEs": [
+    "escuela Vinaya",
+    "Continuación de las biografías de monjes eminentes",
+    "Comentario a la Vinaya Dharmaguptaka"
   ]
 }

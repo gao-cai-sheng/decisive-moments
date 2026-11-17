@@ -22,11 +22,11 @@
     "knowledge"
   ],
   "keywordsZh": [
-    "身份层",
-    "二线哲人",
-    "思想史补线"
+    "古典政治哲学",
+    "隐微写作",
+    "古今之争"
   ],
-  "oneLineZh": "古典政治哲学复兴与隐微写作解释代表，可补施米特、阿伦特同代政治思想语境。",
+  "oneLineZh": "古典政治哲学的复兴者，以隐微写作解释重读古今之争。",
   "influenceWeight": 2,
   "reviewStatus": "draft",
   "summaryZh": "列奥·施特劳斯（1899—1973）是 W2 欧陆与英美近现代二线哲人候选。其身份层入选理由为：古典政治哲学复兴与隐微写作解释代表，可补施米特、阿伦特同代政治思想语境。 本条仅作 seed 档基本定位，后续若升级标准档，需要重新做著作、论点与 evidence 研究。",
@@ -39,5 +39,17 @@
       "label": "S008",
       "noteZh": "权威来源条目：SEP: Leo Strauss；用于核验人物身份、生卒、代表著作和思想史定位。"
     }
+  ],
+  "oneLineEn": "Revived classical political philosophy and reread the ancients-moderns quarrel via esoteric writing.",
+  "keywordsEn": [
+    "classical political philosophy",
+    "esoteric writing",
+    "ancients and moderns"
+  ],
+  "oneLineEs": "Revitalizador de la filosofía política clásica; relee la querella entre antiguos y modernos mediante la escritura esotérica.",
+  "keywordsEs": [
+    "filosofía política clásica",
+    "escritura esotérica",
+    "antiguos y modernos"
   ]
 }

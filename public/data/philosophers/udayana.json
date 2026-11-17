@@ -24,7 +24,7 @@
     "神存在论证",
     "反佛教论证"
   ],
-  "oneLineZh": "正理派代表，系统论证神存在并回应佛教哲学批评。",
+  "oneLineZh": "正理派代表人物，系统论证神存在并回应佛教哲学批评。",
   "influenceWeight": 2,
   "reviewStatus": "draft",
   "summaryZh": "乌达衍那是正理派后期重要人物，以神存在论证和与佛教哲学的争辩著称。本条仅作 seed 身份层定位。",
@@ -38,5 +38,17 @@
       "url": "https://iep.utm.edu/udayana/",
       "noteZh": "IEP Udayana 条目用于核验人物身份、正理派定位和代表作。"
     }
+  ],
+  "oneLineEn": "Nyāya figure systematically arguing for God and answering Buddhist philosophical critiques.",
+  "keywordsEn": [
+    "Nyāya school",
+    "arguments for God's existence",
+    "anti-Buddhist arguments"
+  ],
+  "oneLineEs": "Figura nyāya que argumentó sistemáticamente la existencia de Dios y respondió a los críticos budistas.",
+  "keywordsEs": [
+    "escuela Nyāya",
+    "argumentos de la existencia de Dios",
+    "argumentos anti-budistas"
   ]
 }

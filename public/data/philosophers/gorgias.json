@@ -286,5 +286,14 @@
       }
     ]
   },
-  "tier": "standard"
+  "tier": "standard",
+  "keywordsEn": [
+    "On Non-Being",
+    "Speech as pharmakon",
+    "Encomium of Helen",
+    "Art of persuasion",
+    "Arguments from possibility"
+  ],
+  "oneLineEn": "Sophist and rhetorician famed for radical ontological arguments, linguistic power, and the art of persuasion.",
+  "oneLineEs": "Sofista y retórico famoso por argumentos ontológicos radicales, el poder del lenguaje y el arte de la persuasión."
 }

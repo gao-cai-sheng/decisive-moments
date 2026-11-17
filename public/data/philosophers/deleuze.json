@@ -288,5 +288,21 @@
       }
     ]
   },
-  "tier": "standard"
+  "tier": "standard",
+  "oneLineEn": "Rewrote metaphysics, desire theory, and poststructuralist politics via difference, repetition, becoming, and immanence.",
+  "keywordsEn": [
+    "difference",
+    "repetition",
+    "immanence",
+    "desire",
+    "becoming"
+  ],
+  "oneLineEs": "Reescribió la metafísica, la teoría del deseo y la política postestructuralista mediante la diferencia, la repetición, el devenir y la inmanencia.",
+  "keywordsEs": [
+    "diferencia",
+    "repetición",
+    "inmanencia",
+    "deseo",
+    "devenir"
+  ]
 }

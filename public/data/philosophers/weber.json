@@ -288,5 +288,21 @@
       }
     ]
   },
-  "tier": "standard"
+  "tier": "standard",
+  "oneLineEn": "Analyzed modern capitalism, bureaucracy, and political responsibility via rationalization and types of domination.",
+  "keywordsEn": [
+    "rationalization",
+    "Protestant ethic",
+    "bureaucracy",
+    "types of domination",
+    "vocation (Beruf)"
+  ],
+  "oneLineEs": "Analizó el capitalismo moderno, la burocracia y la responsabilidad política mediante la racionalización y los tipos de dominación.",
+  "keywordsEs": [
+    "racionalización",
+    "ética protestante",
+    "burocracia",
+    "tipos de dominación",
+    "vocación (Beruf)"
+  ]
 }

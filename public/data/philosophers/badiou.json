@@ -21,11 +21,11 @@
     "politics"
   ],
   "keywordsZh": [
-    "法国哲学",
-    "身份层",
-    "思想史补线"
+    "事件",
+    "集合论本体论",
+    "真理程序"
   ],
-  "oneLineZh": "存在与事件、集合论本体论。",
+  "oneLineZh": "《存在与事件》以集合论建构本体论和事件性的真理观。",
   "influenceWeight": 2,
   "reviewStatus": "draft",
   "summaryZh": "阿兰·巴迪欧（1937—）是 Seed W3 法国近现代—现当代二线哲人候选。其身份层入选理由为：存在与事件、集合论本体论。 本条仅作 seed 档基本定位，后续若升级标准档，必须重新做著作、论点与 evidence 研究。",
@@ -39,5 +39,17 @@
       "url": "https://plato.stanford.edu/entries/badiou/",
       "noteZh": "权威来源条目：SEP: Alain Badiou；用于核验人物身份、生卒、代表著作和思想史定位。"
     }
+  ],
+  "oneLineEn": "Being and Event builds ontology and an evental conception of truth on set theory.",
+  "keywordsEn": [
+    "event",
+    "set-theoretic ontology",
+    "truth procedures"
+  ],
+  "oneLineEs": "*Ser y acontecimiento* construye una ontología y una concepción evental de la verdad sobre la teoría de conjuntos.",
+  "keywordsEs": [
+    "acontecimiento",
+    "ontología conjuntista",
+    "procedimientos de verdad"
   ]
 }

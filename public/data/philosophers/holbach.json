@@ -27,7 +27,7 @@
     "决定论",
     "无神论"
   ],
-  "oneLineZh": "《自然的体系》代表法国启蒙的彻底唯物论与决定论。",
+  "oneLineZh": "以《自然的体系》代表法国启蒙的彻底唯物论与决定论。",
   "influenceWeight": 2,
   "reviewStatus": "draft",
   "summaryZh": "霍尔巴赫（1723—1789）是 Seed W4 法国断代补全候选。其身份层入选理由为：《自然的体系》代表法国启蒙的彻底唯物论与决定论。 本条仅作 seed 档基本定位，后续若升级标准档，必须重新做著作、论点与 evidence 研究。",
@@ -41,5 +41,17 @@
       "url": "https://plato.stanford.edu/entries/holbach/",
       "noteZh": "权威来源条目：SEP: Baron d’Holbach；用于核验人物身份、生卒、代表著作和思想史定位。"
     }
+  ],
+  "oneLineEn": "System of Nature represents French Enlightenment's thoroughgoing materialism and determinism.",
+  "keywordsEn": [
+    "materialism",
+    "determinism",
+    "atheism"
+  ],
+  "oneLineEs": "El sistema de la naturaleza representa el materialismo y el determinismo radicales de la Ilustración francesa.",
+  "keywordsEs": [
+    "materialismo",
+    "determinismo",
+    "ateísmo"
   ]
 }

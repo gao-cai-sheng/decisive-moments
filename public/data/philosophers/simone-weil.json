@@ -289,5 +289,21 @@
       }
     ]
   },
-  "tier": "standard"
+  "tier": "standard",
+  "oneLineEn": "Joined mysticism, ethics, and modern political critique via attention, affliction, force, obligation, and rootedness.",
+  "keywordsEn": [
+    "attention",
+    "affliction",
+    "Gravity and Grace",
+    "rootedness",
+    "obligation"
+  ],
+  "oneLineEs": "Unió misticismo, ética y crítica política moderna mediante la atención, la aflicción, la fuerza, la obligación y el arraigo.",
+  "keywordsEs": [
+    "atención",
+    "aflicción",
+    "La gravedad y la gracia",
+    "arraigo",
+    "obligación"
+  ]
 }

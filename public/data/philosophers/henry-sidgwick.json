@@ -22,10 +22,10 @@
   ],
   "keywordsZh": [
     "功利主义",
-    "身份层",
-    "二线哲人"
+    "伦理学方法",
+    "直觉主义"
   ],
-  "oneLineZh": "古典功利主义系统化者，可补密尔之后的伦理学技术化过渡。",
+  "oneLineZh": "古典功利主义的系统化者，《伦理学方法》为密尔之后伦理学给出技术化框架。",
   "influenceWeight": 2,
   "reviewStatus": "draft",
   "summaryZh": "亨利·西季威克（1838—1900）是 W2 欧陆与英美近现代二线哲人候选。其身份层入选理由为：古典功利主义系统化者，可补密尔之后的伦理学技术化过渡。 本条仅作 seed 档基本定位，后续若升级标准档，需要重新做著作、论点与 evidence 研究。",
@@ -37,5 +37,17 @@
       "label": "S008",
       "noteZh": "权威来源条目：SEP: Henry Sidgwick；用于核验人物身份、生卒、代表著作和思想史定位。"
     }
+  ],
+  "oneLineEn": "Systematizer of classical utilitarianism; Methods of Ethics gave a technical frame after Mill.",
+  "keywordsEn": [
+    "utilitarianism",
+    "The Methods of Ethics",
+    "intuitionism"
+  ],
+  "oneLineEs": "Sistematizador del utilitarismo clásico; con Los métodos de la ética sentó un marco técnico para la ética posterior a Mill.",
+  "keywordsEs": [
+    "utilitarismo",
+    "Los métodos de la ética",
+    "intuicionismo"
   ]
 }

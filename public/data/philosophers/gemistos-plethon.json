@@ -33,7 +33,7 @@
     "佛罗伦萨大公会议",
     "文艺复兴桥梁"
   ],
-  "oneLineZh": "晚期拜占庭柏拉图主义者，以《法律篇》和佛罗伦萨大公会议影响意大利文艺复兴的古典哲学复兴。",
+  "oneLineZh": "晚期拜占庭柏拉图主义者，以《法律篇》和佛罗伦萨会议影响意大利古典哲学复兴。",
   "influenceWeight": 3,
   "reviewStatus": "draft",
   "summaryZh": "格弥斯托斯·普勒东不是东正教神秘神学家，而是晚期拜占庭的柏拉图主义政治-宗教思想家。本标准候选把他分为三条主线：以《论亚里士多德与柏拉图之别》重建柏拉图优先性；以《法律篇》存世摘要和片段组织异教化的神谱、灵魂和宇宙秩序；以立法者姿态把形而上学、宗教仪式、德性和城邦制度连成一套古典复兴工程。",
@@ -415,5 +415,19 @@
         ]
       }
     ]
-  }
+  },
+  "oneLineEn": "Late Byzantine Platonist whose Book of Laws and Florence role shaped Italian Renaissance classical revival.",
+  "keywordsEn": [
+    "Book of Laws (Nomoi)",
+    "Platonic revival",
+    "Council of Florence",
+    "Renaissance bridge"
+  ],
+  "oneLineEs": "Platónico del Bizancio tardío que, con el Libro de las leyes y su papel en el Concilio de Florencia, influye en el renacimiento de la filosofía clásica en la Italia renacentista.",
+  "keywordsEs": [
+    "Libro de las leyes (Nomoi)",
+    "renacimiento platónico",
+    "Concilio de Florencia",
+    "puente del Renacimiento"
+  ]
 }

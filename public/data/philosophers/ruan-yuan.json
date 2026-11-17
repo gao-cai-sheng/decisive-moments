@@ -28,7 +28,7 @@
     "揅经室集",
     "乾嘉学术"
   ],
-  "oneLineZh": "清代经学家、官员和学术组织者，乾嘉考据集大成者之一。",
+  "oneLineZh": "清代经学家、官员与学术组织者，乾嘉考据传统的主要综合者之一。",
   "influenceWeight": 3,
   "reviewStatus": "draft",
   "summaryZh": "阮元，字伯元，号芸台，清代经学家、官员和学术组织者。他主持刊刻、校勘和学术工程，《经籍纂诂》汇集群经训诂，《揅经室集》保存其经学、金石和制度论述。阮元以官僚资源组织乾嘉学术，推动考据学制度化，是清代经学共同体的核心人物。",
@@ -42,5 +42,17 @@
       "url": "https://ctext.org/jing-ji-zuan-gu",
       "noteZh": "以阮元《经籍纂诂》《揅经室集》支撑身份层。"
     }
+  ],
+  "oneLineEn": "Qing classicist, official, and academic organizer; a major synthesizer of Qian-Jia evidential learning.",
+  "keywordsEn": [
+    "Collected Glosses on the Classics",
+    "Yanjingshi Collected Works",
+    "Qian-Jia scholarship"
+  ],
+  "oneLineEs": "Clasicista, oficial y organizador académico Qing; uno de los grandes sintetizadores de la erudición evidencial Qian-Jia.",
+  "keywordsEs": [
+    "Glosas reunidas sobre los clásicos",
+    "Obras reunidas de Yanjingshi",
+    "erudición Qian-Jia"
   ]
 }

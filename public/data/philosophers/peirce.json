@@ -30,7 +30,7 @@
     "范畴",
     "科学共同体"
   ],
-  "oneLineZh": "以探究逻辑、实用主义准则和三元符号学奠定美国实用主义的科学形态。",
+  "oneLineZh": "以探究逻辑、实用主义准则和三元符号学建成美国实用主义的科学形态。",
   "influenceWeight": 3,
   "reviewStatus": "draft",
   "summaryZh": "皮尔士把哲学理解为科学探究的逻辑，围绕信念固定、概念澄清、溯因推理、三元符号和连续性形而上学建立体系；他创始的实用主义后来由詹姆斯和杜威扩展，同时又被他改名为 pragmaticism 以标明其逻辑严格性。",
@@ -291,5 +291,21 @@
       }
     ]
   },
-  "tier": "standard"
+  "tier": "standard",
+  "oneLineEn": "Built scientific American pragmatism through inquiry logic, the pragmatic maxim, and triadic semiotics.",
+  "keywordsEn": [
+    "pragmatism",
+    "semiotics",
+    "abduction",
+    "categories",
+    "scientific community"
+  ],
+  "oneLineEs": "Fundó el pragmatismo científico estadounidense mediante la lógica de la investigación, la máxima pragmática y la semiótica triádica.",
+  "keywordsEs": [
+    "pragmatismo",
+    "semiótica",
+    "abducción",
+    "categorías",
+    "comunidad científica"
+  ]
 }

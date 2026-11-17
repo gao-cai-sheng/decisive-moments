@@ -22,11 +22,11 @@
     "politics"
   ],
   "keywordsZh": [
-    "法国哲学",
-    "身份层",
-    "思想史补线"
+    "概率哲学",
+    "偶然性",
+    "科学哲学"
   ],
-  "oneLineZh": "概率/经济与科学哲学枢纽，接 comte 实证论与后续法国认识论。",
+  "oneLineZh": "以概率、经济学与偶然性理论连接实证论与法国认识论传统。",
   "influenceWeight": 2,
   "reviewStatus": "draft",
   "summaryZh": "安托万·库尔诺（1801—1877）是 Seed W3 法国近现代—现当代二线哲人候选。其身份层入选理由为：概率/经济与科学哲学枢纽，接 comte 实证论与后续法国认识论。 本条仅作 seed 档基本定位，后续若升级标准档，必须重新做著作、论点与 evidence 研究。",
@@ -40,5 +40,17 @@
       "url": "https://iep.utm.edu/cournot/",
       "noteZh": "权威来源条目：IEP: Antoine Augustin Cournot；用于核验人物身份、生卒、代表著作和思想史定位。"
     }
+  ],
+  "oneLineEn": "Linked positivism and French epistemology via probability, economics, and theories of chance.",
+  "keywordsEn": [
+    "philosophy of probability",
+    "contingency",
+    "philosophy of science"
+  ],
+  "oneLineEs": "Vinculó el positivismo y la tradición epistemológica francesa mediante la probabilidad, la economía y las teorías de la contingencia.",
+  "keywordsEs": [
+    "filosofía de la probabilidad",
+    "contingencia",
+    "filosofía de la ciencia"
   ]
 }

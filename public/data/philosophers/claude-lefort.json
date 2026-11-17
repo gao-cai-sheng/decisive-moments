@@ -22,11 +22,11 @@
     "freedom"
   ],
   "keywordsZh": [
-    "法国哲学",
-    "身份层",
-    "思想史补线"
+    "民主的空位",
+    "极权批判",
+    "政治哲学"
   ],
-  "oneLineZh": "民主的空位与极权批判，接 castoriadis。",
+  "oneLineZh": "以权力的空位界定民主，并系统展开对极权主义的批判。",
   "influenceWeight": 2,
   "reviewStatus": "draft",
   "summaryZh": "克洛德·勒福尔（1924—2010）是 Seed W3 法国近现代—现当代二线哲人候选。其身份层入选理由为：民主的空位与极权批判，接 castoriadis。 本条仅作 seed 档基本定位，后续若升级标准档，必须重新做著作、论点与 evidence 研究。",
@@ -40,5 +40,17 @@
       "url": "https://iep.utm.edu/lefort/",
       "noteZh": "权威来源条目：IEP: Claude Lefort；用于核验人物身份、生卒、代表著作和思想史定位。"
     }
+  ],
+  "oneLineEn": "Defines democracy by the empty place of power and systematically critiques totalitarianism.",
+  "keywordsEn": [
+    "empty place of power",
+    "critique of totalitarianism",
+    "political philosophy"
+  ],
+  "oneLineEs": "Definió la democracia por el lugar vacío del poder y criticó sistemáticamente el totalitarismo.",
+  "keywordsEs": [
+    "lugar vacío de la democracia",
+    "crítica del totalitarismo",
+    "filosofía política"
   ]
 }

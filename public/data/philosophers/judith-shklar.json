@@ -22,11 +22,11 @@
     "knowledge"
   ],
   "keywordsZh": [
-    "身份层",
-    "二线哲人",
-    "思想史补线"
+    "恐惧自由主义",
+    "残酷",
+    "不义"
   ],
-  "oneLineZh": "恐惧自由主义与政治恶论代表，可补战后自由主义内部批判。",
+  "oneLineZh": "以「恐惧的自由主义」和对残酷的优先关注重构自由主义。",
   "influenceWeight": 2,
   "reviewStatus": "draft",
   "summaryZh": "朱迪思·施克拉（1928—1992）是 W2 欧陆与英美近现代二线哲人候选。其身份层入选理由为：恐惧自由主义与政治恶论代表，可补战后自由主义内部批判。 本条仅作 seed 档基本定位，后续若升级标准档，需要重新做著作、论点与 evidence 研究。",
@@ -39,5 +39,17 @@
       "label": "S009",
       "noteZh": "权威来源条目：SEP: Judith Shklar；用于核验人物身份、生卒、代表著作和思想史定位。"
     }
+  ],
+  "oneLineEn": "Rebuilt liberalism around the liberalism of fear and a priority concern with cruelty.",
+  "keywordsEn": [
+    "liberalism of fear",
+    "cruelty",
+    "injustice"
+  ],
+  "oneLineEs": "Reconstruyó el liberalismo en torno al liberalismo del miedo y a la prioridad del rechazo a la crueldad.",
+  "keywordsEs": [
+    "liberalismo del miedo",
+    "crueldad",
+    "injusticia"
   ]
 }

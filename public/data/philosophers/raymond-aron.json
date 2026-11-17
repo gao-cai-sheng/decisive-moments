@@ -22,11 +22,11 @@
     "freedom"
   ],
   "keywordsZh": [
-    "法国哲学",
-    "身份层",
-    "思想史补线"
+    "自由主义",
+    "历史哲学",
+    "知识分子批判"
   ],
-  "oneLineZh": "自由主义政治哲学与历史哲学，接 weber/sartre。",
+  "oneLineZh": "以《知识分子的鸦片》和历史哲学捍卫自由主义，与萨特长期论争。",
   "influenceWeight": 2,
   "reviewStatus": "draft",
   "summaryZh": "雷蒙·阿隆（1905—1983）是 Seed W3 法国近现代—现当代二线哲人候选。其身份层入选理由为：自由主义政治哲学与历史哲学，接 weber/sartre。 本条仅作 seed 档基本定位，后续若升级标准档，必须重新做著作、论点与 evidence 研究。",
@@ -40,5 +40,17 @@
       "url": "https://iep.utm.edu/aron/",
       "noteZh": "权威来源条目：IEP: Raymond Aron；用于核验人物身份、生卒、代表著作和思想史定位。"
     }
+  ],
+  "oneLineEn": "Defended liberalism via The Opium of the Intellectuals and philosophy of history; long debate with Sartre.",
+  "keywordsEn": [
+    "liberalism",
+    "philosophy of history",
+    "critique of intellectuals"
+  ],
+  "oneLineEs": "Con El opio de los intelectuales y la filosofía de la historia defendió el liberalismo; polemizó largamente con Sartre.",
+  "keywordsEs": [
+    "liberalismo",
+    "filosofía de la historia",
+    "crítica de los intelectuales"
   ]
 }

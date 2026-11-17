@@ -28,7 +28,7 @@
     "灵魂三分",
     "洞穴喻"
   ],
-  "oneLineZh": "以理念论和《理想国》构成西方哲学核心源头之一。",
+  "oneLineZh": "以理念与洞穴喻区分意见与知识，用灵魂三分与城邦正义互证秩序。",
   "influenceWeight": 3,
   "reviewStatus": "reviewed",
   "summaryZh": "柏拉图通过对话录保存并重构苏格拉底的问题意识，以理念论、灵魂论和城邦正义构成西方哲学长期讨论的基本框架。",
@@ -361,5 +361,14 @@
       }
     ]
   },
-  "tier": "standard"
+  "tier": "standard",
+  "keywordsEn": [
+    "Theory of Forms",
+    "Republic",
+    "Form of the Good",
+    "Tripartite soul",
+    "Cave allegory"
+  ],
+  "oneLineEn": "Separates opinion from knowledge via Forms and the cave; tripartite soul and civic justice mirror each other as order.",
+  "oneLineEs": "Su teoría de las Ideas y la República lo convierten en una de las fuentes centrales de la filosofía occidental."
 }

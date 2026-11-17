@@ -289,5 +289,21 @@
       }
     ]
   },
-  "tier": "standard"
+  "tier": "standard",
+  "oneLineEn": "Spanned language, mind, science, and ethics via semantic externalism, realist turns, and fact-value entanglement.",
+  "keywordsEn": [
+    "semantic externalism",
+    "internal realism",
+    "Twin Earth",
+    "fact-value entanglement",
+    "multiple realizability"
+  ],
+  "oneLineEs": "Atravesó lenguaje, mente, ciencia y ética mediante el externalismo semántico, giros realistas y el entrelazamiento hecho-valor.",
+  "keywordsEs": [
+    "externalismo semántico",
+    "realismo interno",
+    "Tierra Gemela",
+    "entrelazamiento hecho-valor",
+    "múltiples realizabilidades"
+  ]
 }

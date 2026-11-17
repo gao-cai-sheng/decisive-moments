@@ -287,5 +287,14 @@
       }
     ]
   },
-  "tier": "standard"
+  "tier": "standard",
+  "keywordsEn": [
+    "Meditations",
+    "Self-discipline",
+    "Cosmic whole",
+    "Duty",
+    "Brevity"
+  ],
+  "oneLineEn": "Roman emperor and Stoic author who, in the Meditations, joins cosmic order, duty, and self-discipline.",
+  "oneLineEs": "Emperador romano y autor estoico que, en las Meditaciones, une el orden cósmico, el deber y la autodisciplina."
 }

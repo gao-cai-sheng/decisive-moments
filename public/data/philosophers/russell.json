@@ -280,5 +280,13 @@
       }
     ]
   },
-  "tier": "standard"
+  "tier": "standard",
+  "oneLineEn": "Logical analysis and the theory of descriptions clarify knowledge; fallibilism restrains superstitious faith in power.",
+  "keywordsEn": [
+    "Theory of descriptions",
+    "Logical analysis",
+    "Knowledge by acquaintance and description",
+    "Logical atomism",
+    "Theory of types"
+  ]
 }

@@ -25,7 +25,7 @@
   "keywordsZh": [
     "克什米尔湿婆派",
     "味论",
-    "美学"
+    "宗教形而上学"
   ],
   "oneLineZh": "克什米尔湿婆派与印度美学代表，连接宗教形而上学和味论传统。",
   "influenceWeight": 2,
@@ -41,5 +41,17 @@
       "url": "https://plato.stanford.edu/entries/abhinavagupta/",
       "noteZh": "SEP Abhinavagupta 条目用于核验人物身份、传统定位和代表作。"
     }
+  ],
+  "keywordsEn": [
+    "Kashmir Śaivism",
+    "rasa theory",
+    "religious metaphysics"
+  ],
+  "oneLineEn": "Kashmir Śaiva and Indian aesthetics master linking religious metaphysics to the rasa tradition.",
+  "oneLineEs": "Maestro del śivaísmo de Cachemira y de la estética india que enlaza la metafísica religiosa con la tradición del rasa.",
+  "keywordsEs": [
+    "śivaísmo de Cachemira",
+    "teoría del rasa",
+    "estética"
   ]
 }

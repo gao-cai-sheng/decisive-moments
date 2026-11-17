@@ -27,7 +27,7 @@
     "礼记纂言",
     "元代理学"
   ],
-  "oneLineZh": "元代理学家和经学家，调和朱陆并重整经学。",
+  "oneLineZh": "元代理学家，调和朱陆并重整经学注释以及教学秩序安排。",
   "influenceWeight": 2,
   "reviewStatus": "draft",
   "summaryZh": "吴澄，字幼清，号草庐，元代理学家和经学家。他在宋元学术转换中整理经学，著有《礼记纂言》《吴文正集》等。吴澄一方面尊崇程朱，另一方面也试图调和陆九渊心学资源，在元代官学和书院语境中维持儒家经典解释传统。其意义在于承上启下地保存并重组宋代理学。",
@@ -41,5 +41,17 @@
       "url": "https://ctext.org/wiki.pl?if=en&res=821700",
       "noteZh": "以吴澄《礼记纂言》《吴文正集》支撑身份层。"
     }
+  ],
+  "oneLineEn": "Yuan Neo-Confucian reconciling Zhu-Lu lines and reorganizing classical commentary and teaching order.",
+  "keywordsEn": [
+    "Master Caolu",
+    "Collected Sayings on the Record of Rites",
+    "Yuan Neo-Confucianism"
+  ],
+  "oneLineEs": "Neoconfuciano y clasicista yuan que concilió a Zhu y Lu y reorganizó los estudios clásicos.",
+  "keywordsEs": [
+    "Maestro Caolu",
+    "Dichos reunidos sobre el Registro de los ritos",
+    "neoconfucianismo yuan"
   ]
 }

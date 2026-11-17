@@ -288,5 +288,21 @@
       }
     ]
   },
-  "tier": "standard"
+  "tier": "standard",
+  "oneLineEn": "Pushed scholastic theology into German mysticism's core via detachment, poverty of spirit, and mystical union.",
+  "keywordsEn": [
+    "detachment (Abgeschiedenheit)",
+    "poverty of spirit",
+    "birth of God in the soul",
+    "negative theology",
+    "Gelassenheit"
+  ],
+  "oneLineEs": "Llevó la teología escolástica al núcleo del misticismo alemán mediante el desapego, la pobreza del espíritu y la unión mística.",
+  "keywordsEs": [
+    "desapego (Abgeschiedenheit)",
+    "pobreza del espíritu",
+    "nacimiento de Dios en el alma",
+    "teología negativa",
+    "Gelassenheit"
+  ]
 }

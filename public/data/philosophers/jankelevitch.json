@@ -23,11 +23,11 @@
     "life_death"
   ],
   "keywordsZh": [
-    "法国哲学",
-    "身份层",
-    "思想史补线"
+    "道德哲学",
+    "不可宽恕",
+    "几乎无"
   ],
-  "oneLineZh": "道德的不可名状与不可宽恕，接 bergson。",
+  "oneLineZh": "以「几乎无」和不可宽恕问题书写道德经验的细微之处。",
   "influenceWeight": 2,
   "reviewStatus": "draft",
   "summaryZh": "弗拉基米尔·扬凯列维奇（1903—1985）是 Seed W3 法国近现代—现当代二线哲人候选。其身份层入选理由为：道德的不可名状与不可宽恕，接 bergson。 本条仅作 seed 档基本定位，后续若升级标准档，必须重新做著作、论点与 evidence 研究。",
@@ -41,5 +41,17 @@
       "url": "https://www.rep.routledge.com/articles/biographical/jankelevitch-vladimir-1903-1985/v-1",
       "noteZh": "权威来源条目：Routledge: Jankélévitch, Vladimir；用于核验人物身份、生卒、代表著作和思想史定位。"
     }
+  ],
+  "oneLineEn": "Writes the fine grain of moral experience via the almost-nothing and the unforgivable.",
+  "keywordsEn": [
+    "moral philosophy",
+    "the unforgivable",
+    "almost-nothing"
+  ],
+  "oneLineEs": "Escribió los matices de la experiencia moral a través de lo casi-nada y el problema de lo imperdonable.",
+  "keywordsEs": [
+    "filosofía moral",
+    "lo imperdonable",
+    "lo casi-nada"
   ]
 }

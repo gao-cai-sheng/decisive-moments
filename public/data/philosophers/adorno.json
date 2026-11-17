@@ -27,8 +27,7 @@
     "否定辩证法",
     "文化工业",
     "现代主义艺术",
-    "同一性批判",
-    "奥斯维辛之后"
+    "同一性批判"
   ],
   "oneLineZh": "以否定辩证法、文化工业批判和现代主义美学揭示同一性思维中的社会支配。",
   "influenceWeight": 3,
@@ -290,5 +289,19 @@
       }
     ]
   },
-  "tier": "standard"
+  "tier": "standard",
+  "oneLineEn": "Exposed social domination in identity thinking via negative dialectics, culture industry, and modernist aesthetics.",
+  "keywordsEn": [
+    "negative dialectics",
+    "culture industry",
+    "modernist art",
+    "critique of identity thinking"
+  ],
+  "oneLineEs": "Reveló la dominación social en el pensamiento de la identidad mediante la dialéctica negativa, la industria cultural y la estética modernista.",
+  "keywordsEs": [
+    "dialéctica negativa",
+    "industria cultural",
+    "arte modernista",
+    "crítica del pensamiento de la identidad"
+  ]
 }

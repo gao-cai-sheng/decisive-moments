@@ -28,7 +28,7 @@
     "大藏经",
     "布顿佛教史"
   ],
-  "oneLineZh": "藏传佛教史家和大藏经编定关键人物。",
+  "oneLineZh": "藏传佛教史家，并在大藏经编定过程中起关键组织作用。",
   "influenceWeight": 2,
   "reviewStatus": "draft",
   "summaryZh": "布顿（1290—1364）是 Seed W6 藏传佛教文明补线候选。其身份层入选理由为：藏传佛教史家和大藏经编定关键人物。 本条仅作 seed 档基本定位，后续若升级标准档，必须重新做著作、论点与 evidence 研究。",
@@ -41,5 +41,17 @@
       "url": "https://treasuryoflives.org/biographies/",
       "noteZh": "来源：Treasury of Lives / Buton；用于核验人物身份、断代、代表作与思想史定位。"
     }
+  ],
+  "oneLineEn": "Tibetan Buddhist historian and key organizer in the process of compiling the Buddhist canon.",
+  "keywordsEn": [
+    "Buddhist history",
+    "Buddhist canon",
+    "Butön's History of Buddhism"
+  ],
+  "oneLineEs": "Historiador del budismo tibetano y figura clave en la redacción del canon budista (Kangyur/Tengyur).",
+  "keywordsEs": [
+    "historia del budismo",
+    "canon budista",
+    "Historia del budismo de Butön"
   ]
 }

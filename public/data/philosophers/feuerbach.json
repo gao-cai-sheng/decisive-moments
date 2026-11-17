@@ -293,5 +293,21 @@
       }
     ]
   },
-  "tier": "standard"
+  "tier": "standard",
+  "oneLineEn": "Inverted Hegelian theology into humanist critique of religion; a near gateway for Marx's early alienation critique.",
+  "keywordsEn": [
+    "critique of religion",
+    "projection",
+    "anthropology (humanism)",
+    "Young Hegelians",
+    "Marx"
+  ],
+  "oneLineEs": "Invirtió la teología especulativa hegeliana en una crítica humanista de la religión, y fue puerta próxima de la temprana crítica marxiana de la alienación.",
+  "keywordsEs": [
+    "crítica de la religión",
+    "proyección",
+    "antropología (humanismo)",
+    "jóvenes hegelianos",
+    "Marx"
+  ]
 }

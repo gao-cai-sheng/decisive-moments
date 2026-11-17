@@ -31,7 +31,7 @@
   "keywordsZh": [
     "卡拉马佐夫兄弟",
     "地下室手记",
-    "自由",
+    "自由与信仰",
     "罪与救赎"
   ],
   "oneLineZh": "以小说承载宗教、自由、恶与救赎问题的俄国思想家型作家。",
@@ -367,5 +367,19 @@
         ]
       }
     ]
-  }
+  },
+  "keywordsEn": [
+    "The Brothers Karamazov",
+    "Notes from Underground",
+    "freedom and faith",
+    "sin and redemption"
+  ],
+  "oneLineEn": "Russian novelist-thinker who carried religion, freedom, evil, and redemption in literary form.",
+  "oneLineEs": "Escritor-pensador ruso que porta en forma novelística los problemas de la religión, la libertad, el mal y la redención.",
+  "keywordsEs": [
+    "Los hermanos Karamázov",
+    "Memorias del subsuelo",
+    "libertad",
+    "pecado y redención"
+  ]
 }

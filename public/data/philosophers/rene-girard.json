@@ -23,11 +23,11 @@
     "religion"
   ],
   "keywordsZh": [
-    "法国哲学",
-    "身份层",
-    "思想史补线"
+    "模仿欲望",
+    "替罪羊",
+    "神圣暴力"
   ],
-  "oneLineZh": "模仿欲望与替罪羊机制。",
+  "oneLineZh": "以模仿欲望与替罪羊机制解释暴力和神圣经验的共同起源。",
   "influenceWeight": 2,
   "reviewStatus": "draft",
   "summaryZh": "勒内·吉拉尔（1923—2015）是 Seed W3 法国近现代—现当代二线哲人候选。其身份层入选理由为：模仿欲望与替罪羊机制。 本条仅作 seed 档基本定位，后续若升级标准档，必须重新做著作、论点与 evidence 研究。",
@@ -41,5 +41,17 @@
       "url": "https://www.rep.routledge.com/articles/biographical/girard-rene-1923-2015/v-1",
       "noteZh": "权威来源条目：Routledge: Girard, René；用于核验人物身份、生卒、代表著作和思想史定位。"
     }
+  ],
+  "oneLineEn": "Explains the origin of violence and the sacred through mimetic desire and the scapegoat mechanism.",
+  "keywordsEn": [
+    "mimetic desire",
+    "scapegoat",
+    "sacred violence"
+  ],
+  "oneLineEs": "Explicó el origen de la violencia y de lo sagrado mediante el deseo mimético y el mecanismo del chivo expiatorio.",
+  "keywordsEs": [
+    "deseo mimético",
+    "chivo expiatorio",
+    "violencia sagrada"
   ]
 }

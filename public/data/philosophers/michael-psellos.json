@@ -32,7 +32,7 @@
     "拜占庭博学者",
     "杂论"
   ],
-  "oneLineZh": "拜占庭博学者和哲学家，以柏拉图主义复兴、宫廷政治观察和百科式学问连接古典与中世纪希腊传统。",
+  "oneLineZh": "拜占庭博学者，以柏拉图主义复兴、宫廷观察与百科式学问连接古典与中世纪希腊。",
   "influenceWeight": 2,
   "reviewStatus": "draft",
   "summaryZh": "米海尔·普塞洛斯是11世纪拜占庭宫廷、学校和文学世界之间的典型博学者。本标准候选把他的思想主线放在三个交叉处：他在《编年史》中把自己塑造成恢复哲学并调和修辞与哲学的人；《杂论》把自然、灵魂、理智、能力和活动压缩为百科式教学单元；他的哲学实践始终处在皇帝、政治劝导、正统性压力和古典柏拉图主义复兴之间。",
@@ -386,5 +386,19 @@
         ]
       }
     ]
-  }
+  },
+  "oneLineEn": "Byzantine polymath joining classical and medieval Greek thought via Platonic revival and encyclopedism.",
+  "keywordsEn": [
+    "Chronographia",
+    "Platonic revival",
+    "Byzantine polymath",
+    "De omnifaria doctrina"
+  ],
+  "oneLineEs": "Polímata y filósofo bizantino que, con el renacimiento platónico, la observación de la política cortesana y el saber enciclopédico, conecta las tradiciones griegas clásica y medieval.",
+  "keywordsEs": [
+    "Cronografía",
+    "renacimiento platónico",
+    "polímata bizantino",
+    "Doctrina omnifaria"
+  ]
 }

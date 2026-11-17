@@ -29,7 +29,7 @@
     "自然理性",
     "哲学小说"
   ],
-  "oneLineZh": "安达卢斯哲学家，以《哈义·本·叶格赞》叙述孤岛理性如何从自然观察上升到形而上学与宗教真理。",
+  "oneLineZh": "安达卢斯哲学家，以《哈义·本·叶格赞》写孤岛理性由自然升至宗教真理。",
   "influenceWeight": 2,
   "reviewStatus": "draft",
   "summaryZh": "伊本·图斐利（约1105—1185）是 Seed W7 伊斯兰文明 falsafa 补线候选。其身份层入选理由为：安达卢斯哲学家，以《哈义·本·叶格赞》叙述孤岛理性如何从自然观察上升到形而上学与宗教真理。本条仅作 seed 档基本定位，后续若升级标准档，必须重新做著作、论点与 evidence 研究。",
@@ -42,5 +42,17 @@
       "url": "https://referenceworks.brill.com/display/entries/EI2/SIM-3408.xml",
       "noteZh": "来源：Encyclopaedia of Islam / Ibn Ṭufayl；用于核验人物身份、生卒断代、哲学小说《哈义·本·叶格赞》和安达卢斯哲学定位。"
     }
+  ],
+  "oneLineEn": "Andalusian author of Ḥayy ibn Yaqẓān, where island reason rises from nature to religious truth.",
+  "keywordsEn": [
+    "Ḥayy ibn Yaqẓān",
+    "natural reason",
+    "philosophical novel"
+  ],
+  "oneLineEs": "Filósofo andalusí que, en Ḥayy ibn Yaqẓān, narra cómo la razón isleña asciende de la observación de la naturaleza a la metafísica y a la verdad religiosa.",
+  "keywordsEs": [
+    "Ḥayy ibn Yaqẓān",
+    "razón natural",
+    "novela filosófica"
   ]
 }

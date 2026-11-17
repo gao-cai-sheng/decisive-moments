@@ -25,7 +25,7 @@
   "keywordsZh": [
     "百科全书",
     "唯物论",
-    "美学"
+    "美学批评"
   ],
   "oneLineZh": "《百科全书》主编，连接启蒙知识工程、唯物论与美学批评。",
   "influenceWeight": 2,
@@ -41,5 +41,17 @@
       "url": "https://plato.stanford.edu/entries/diderot/",
       "noteZh": "权威来源条目：SEP: Denis Diderot；用于核验人物身份、生卒、代表著作和思想史定位。"
     }
+  ],
+  "keywordsEn": [
+    "Encyclopédie",
+    "materialism",
+    "aesthetic criticism"
+  ],
+  "oneLineEn": "Encyclopédie editor linking Enlightenment knowledge projects, materialism, and aesthetic criticism.",
+  "oneLineEs": "Editor de la Encyclopédie que enlazó el proyecto ilustrado del saber, el materialismo y la crítica estética.",
+  "keywordsEs": [
+    "Encyclopédie",
+    "materialismo",
+    "estética"
   ]
 }

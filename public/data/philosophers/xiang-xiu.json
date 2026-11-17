@@ -28,7 +28,7 @@
     "竹林七贤",
     "自然名教"
   ],
-  "oneLineZh": "魏晋玄学人物，以《庄子注》和自然名教讨论著称。",
+  "oneLineZh": "魏晋玄学人物，以《庄子注》讨论自然与名教之间的关系。",
   "influenceWeight": 2,
   "reviewStatus": "draft",
   "summaryZh": "向秀，字子期，河内怀人，竹林七贤相关人物，尤以《庄子注》闻名。其注后来经郭象发挥，对魏晋庄学影响极大。《思旧赋》又保存其对嵇康、吕安遭遇的感怀。向秀的思想位置在于以庄子解释回应名教与自然、个体逍遥与现实政治之间的紧张。",
@@ -42,5 +42,17 @@
       "url": "https://ctext.org/wiki.pl?if=en&res=834180",
       "noteZh": "以向秀《庄子注》《思旧赋》题名传统支撑身份层。"
     }
+  ],
+  "oneLineEn": "Wei-Jin xuanxue figure using Zhuangzi commentary to discuss nature and the teaching of names.",
+  "keywordsEn": [
+    "Commentary on the Zhuangzi",
+    "Seven Sages of the Bamboo Grove",
+    "nature and the teaching of names"
+  ],
+  "oneLineEs": "Figura del xuanxue Wei-Jin, célebre por su comentario a Zhuangzi y el debate entre naturaleza y enseñanza de los nombres.",
+  "keywordsEs": [
+    "Comentario al Zhuangzi",
+    "Siete Sabios del Bosque de Bambú",
+    "naturaleza y enseñanza de los nombres"
   ]
 }

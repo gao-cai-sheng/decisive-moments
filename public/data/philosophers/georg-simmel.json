@@ -22,11 +22,11 @@
     "aesthetics"
   ],
   "keywordsZh": [
-    "身份层",
-    "二线哲人",
-    "思想史补线"
+    "形式社会学",
+    "文化哲学",
+    "现代性"
   ],
-  "oneLineZh": "形式社会学与文化哲学代表，可连接生命哲学、现代性与社会理论。",
+  "oneLineZh": "形式社会学与文化哲学代表，以互动形式和货币哲学剖析现代性经验。",
   "influenceWeight": 2,
   "reviewStatus": "draft",
   "summaryZh": "格奥尔格·齐美尔（1858—1918）是 W2 欧陆与英美近现代二线哲人候选。其身份层入选理由为：形式社会学与文化哲学代表，可连接生命哲学、现代性与社会理论。 本条仅作 seed 档基本定位，后续若升级标准档，需要重新做著作、论点与 evidence 研究。",
@@ -39,5 +39,17 @@
       "label": "S009",
       "noteZh": "权威来源条目：IEP: Georg Simmel；用于核验人物身份、生卒、代表著作和思想史定位。"
     }
+  ],
+  "oneLineEn": "Formal sociology and cultural philosophy analyzing modern experience via interaction forms and money.",
+  "keywordsEn": [
+    "formal sociology",
+    "cultural philosophy",
+    "modernity"
+  ],
+  "oneLineEs": "Representante de la sociología formal y de la filosofía de la cultura; analizó la experiencia de la modernidad mediante las formas de interacción y la filosofía del dinero.",
+  "keywordsEs": [
+    "sociología formal",
+    "filosofía de la cultura",
+    "modernidad"
   ]
 }

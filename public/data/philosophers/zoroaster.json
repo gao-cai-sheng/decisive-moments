@@ -33,7 +33,7 @@
     "阿沙",
     "伽萨"
   ],
-  "oneLineZh": "古伊朗先知与祆教传统核心人物，以善恶抉择、真理秩序和末世审判构成前伊斯兰波斯思想源头。",
+  "oneLineZh": "祆教先知，以善恶抉择、真理秩序与末世审判构成前伊斯兰波斯思想源头。",
   "influenceWeight": 3,
   "reviewStatus": "draft",
   "summaryZh": "琐罗亚斯德作为古伊朗先知，其历史年代和《伽萨》作者归属均有争议；本标准档只把思想系统绑定到《亚斯纳》古阿维斯陀语《伽萨》的可归属核心层。其思想史意义在于以阿胡拉·马兹达、阿沙真理秩序、善思、自由抉择和末后报应，组织出前伊斯兰波斯宗教哲学中最具影响力的善恶二元框架。",
@@ -370,5 +370,19 @@
         ]
       }
     ]
-  }
+  },
+  "oneLineEn": "Ancient Iranian prophet; good-evil choice, asha, and last judgment source pre-Islamic Persian thought.",
+  "keywordsEn": [
+    "Ahura Mazda",
+    "good-evil dualism",
+    "asha (truth-order)",
+    "Gathas"
+  ],
+  "oneLineEs": "Profeta del antiguo Irán y figura central de la tradición zoroástrica; la elección entre el bien y el mal, el orden de la verdad (asha) y el juicio escatológico constituyen una fuente del pensamiento persa preislámico.",
+  "keywordsEs": [
+    "Ahura Mazda",
+    "dualismo bien-mal",
+    "asha",
+    "Gathas"
+  ]
 }

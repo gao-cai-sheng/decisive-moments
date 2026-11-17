@@ -28,7 +28,7 @@
     "对话",
     "银行式教育批判"
   ],
-  "oneLineZh": "以对话、意识化和银行式教育批判奠定批判教育学。",
+  "oneLineZh": "以银行式教育批判揭示压迫再生产，用对话与意识化把教育写成解放实践。",
   "influenceWeight": 3,
   "reviewStatus": "draft",
   "summaryZh": "弗莱雷把教育理解为被压迫者命名世界、形成批判意识并参与公共实践的过程，深刻影响胡克斯。",
@@ -287,5 +287,19 @@
       }
     ]
   },
-  "tier": "standard"
+  "tier": "standard",
+  "oneLineEn": "Shows how banking education reproduces oppression; dialogue and conscientization cast pedagogy as liberatory practice.",
+  "keywordsEn": [
+    "Pedagogy of the Oppressed",
+    "conscientization",
+    "dialogue",
+    "critique of banking education"
+  ],
+  "oneLineEs": "Fundó la pedagogía crítica mediante el diálogo, la concientización y la crítica del modelo bancario de educación.",
+  "keywordsEs": [
+    "Pedagogía del oprimido",
+    "concientización",
+    "diálogo",
+    "crítica de la educación bancaria"
+  ]
 }

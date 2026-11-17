@@ -290,5 +290,21 @@
       }
     ]
   },
-  "tier": "standard"
+  "tier": "standard",
+  "oneLineEn": "Remade 20th-c. philosophy of science and politics through falsifiability, critical rationalism, and the open society.",
+  "keywordsEn": [
+    "falsifiability",
+    "critical rationalism",
+    "open society",
+    "critique of historicism",
+    "objective knowledge"
+  ],
+  "oneLineEs": "Reformuló la filosofía de la ciencia y la política del siglo XX mediante la falseabilidad, el racionalismo crítico y la sociedad abierta.",
+  "keywordsEs": [
+    "falseabilidad",
+    "racionalismo crítico",
+    "sociedad abierta",
+    "crítica del historicismo",
+    "conocimiento objetivo"
+  ]
 }

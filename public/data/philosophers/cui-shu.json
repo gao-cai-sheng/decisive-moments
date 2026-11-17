@@ -27,7 +27,7 @@
     "疑古",
     "经史考辨"
   ],
-  "oneLineZh": "清代考据学者，以《考信录》辨析上古史传可信度。",
+  "oneLineZh": "清代考据学者，以《考信录》系统辨析上古史传可信度。",
   "influenceWeight": 2,
   "reviewStatus": "draft",
   "summaryZh": "崔述，字武承，号东壁，清代考据学者。《考信录》系统辨析上古史事和经传记载，主张以证据层级判断古史可信度，对三皇五帝和早期经典传统多有怀疑。崔述在清代朴学内部体现出强烈疑古精神，是近代古史辨运动的重要前史。",
@@ -40,5 +40,17 @@
       "url": "https://ctext.org/wiki.pl?if=en&searchu=%E5%B4%94%E8%BF%B0",
       "noteZh": "以崔述《考信录》支撑身份层。"
     }
+  ],
+  "oneLineEn": "Qing evidential scholar who, in Kaoxin lu, systematically tests high-antiquity narrative credibility.",
+  "keywordsEn": [
+    "Records Examining Credibility",
+    "doubting antiquity",
+    "classics-history criticism"
+  ],
+  "oneLineEs": "Erudito evidencial Qing que, en Registros que examinan la credibilidad, puso a prueba la transmisión histórica antigua.",
+  "keywordsEs": [
+    "Registros que examinan la credibilidad",
+    "dudar de la antigüedad",
+    "crítica clásico-histórica"
   ]
 }

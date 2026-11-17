@@ -289,5 +289,21 @@
       }
     ]
   },
-  "tier": "standard"
+  "tier": "standard",
+  "oneLineEn": "Translated Chinese classical thought into 20th-c. problems via modern historiography and New Rational Philosophy.",
+  "keywordsEn": [
+    "New Rational Philosophy",
+    "history of Chinese philosophy",
+    "realms of life",
+    "principle (li)",
+    "modern Confucianism"
+  ],
+  "oneLineEs": "Tradujo el pensamiento clásico chino a problemas del siglo XX mediante la historiografía filosófica moderna y el sistema de la Nueva Filosofía del Principio (xin lixue).",
+  "keywordsEs": [
+    "Nueva Filosofía del Principio (xin lixue)",
+    "historia de la filosofía china",
+    "reinos de la vida",
+    "principio (li)",
+    "confucianismo moderno"
+  ]
 }

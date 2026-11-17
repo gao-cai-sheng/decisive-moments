@@ -22,11 +22,11 @@
     "knowledge"
   ],
   "keywordsZh": [
-    "身份层",
-    "二线哲人",
-    "思想史补线"
+    "现象学",
+    "照料灵魂",
+    "异见政治"
   ],
-  "oneLineZh": "捷克现象学与异见政治思想代表，可补胡塞尔—海德格尔东欧线索。",
+  "oneLineZh": "捷克现象学家与七七宪章发言人，以照料灵魂论述历史性存在。",
   "influenceWeight": 2,
   "reviewStatus": "draft",
   "summaryZh": "扬·帕托奇卡（1907—1977）是 W2 欧陆与英美近现代二线哲人候选。其身份层入选理由为：捷克现象学与异见政治思想代表，可补胡塞尔—海德格尔东欧线索。 本条仅作 seed 档基本定位，后续若升级标准档，需要重新做著作、论点与 evidence 研究。",
@@ -39,5 +39,17 @@
       "label": "S018",
       "noteZh": "权威来源条目：SEP: Jan Patočka；用于核验人物身份、生卒、代表著作和思想史定位。"
     }
+  ],
+  "oneLineEn": "Czech phenomenologist and Charter 77 spokesman; care of the soul as historical existence.",
+  "keywordsEn": [
+    "phenomenology",
+    "care of the soul",
+    "dissident politics"
+  ],
+  "oneLineEs": "Fenomenólogo checo y portavoz de la Carta 77; elabora la existencia histórica mediante el cuidado del alma.",
+  "keywordsEs": [
+    "fenomenología",
+    "cuidado del alma",
+    "política disidente"
   ]
 }

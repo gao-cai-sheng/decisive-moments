@@ -29,7 +29,7 @@
     "德治",
     "正名"
   ],
-  "oneLineZh": "以仁、礼和君子修养奠定儒家伦理政治传统。",
+  "oneLineZh": "以仁与忠恕贯通人伦，用礼乐与正名把君子修身接到德治秩序。",
   "influenceWeight": 3,
   "reviewStatus": "draft",
   "summaryZh": "孔子把个人修养、礼乐秩序和政治正当性连成一个整体，使伦理问题成为中国思想史理解社会秩序的入口。",
@@ -377,5 +377,15 @@
       }
     ]
   },
-  "tier": "standard"
+  "tier": "standard",
+  "keywordsEn": [
+    "Ren (humaneness)",
+    "Li (ritual)",
+    "Junzi",
+    "Zhongshu (reciprocity)",
+    "Rule by virtue",
+    "Rectifying names"
+  ],
+  "oneLineEn": "Joins ren and reciprocity to human relations; ritual and name-correction link junzi cultivation to virtue-rule.",
+  "oneLineEs": "Con ren (humanidad), el ritual (li) y el cultivo del junzi (hombre noble) sentó la tradición ético-política confuciana."
 }

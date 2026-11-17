@@ -286,5 +286,14 @@
       }
     ]
   },
-  "tier": "standard"
+  "tier": "standard",
+  "keywordsEn": [
+    "Nous",
+    "Everything in everything",
+    "Seeds",
+    "Separation and mixture",
+    "Natural celestial phenomena"
+  ],
+  "oneLineEn": "Brought infinite seeds, mutual containment, and Nous into natural philosophy, carrying Ionian science into Athens.",
+  "oneLineEs": "Introdujo en la filosofía natural las semillas infinitas, la contención mutua de todas las cosas y el Nous, llevando la explicación jonia a Atenas."
 }

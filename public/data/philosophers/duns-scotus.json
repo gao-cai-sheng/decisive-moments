@@ -294,5 +294,21 @@
       }
     ]
   },
-  "tier": "standard"
+  "tier": "standard",
+  "oneLineEn": "Scholastic link between Aquinas and Ockham via univocity of being, formal distinction, and individuation theory.",
+  "keywordsEn": [
+    "univocity of being",
+    "individuality (haecceity)",
+    "formal distinction",
+    "priority of the will",
+    "Immaculate Conception"
+  ],
+  "oneLineEs": "Eslabón escolástico entre Tomás de Aquino y Ockham mediante la univocidad del ser, la distinción formal y la teoría de la individuación.",
+  "keywordsEs": [
+    "univocidad del ser",
+    "individuidad (haecceitas)",
+    "distinción formal",
+    "prioridad de la voluntad",
+    "Inmaculada Concepción"
+  ]
 }

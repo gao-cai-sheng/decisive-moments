@@ -289,5 +289,21 @@
       }
     ]
   },
-  "tier": "standard"
+  "tier": "standard",
+  "oneLineEn": "Restated Indian thought via modern Vedanta and comparative philosophy, placing religious experience in world dialogue.",
+  "keywordsEn": [
+    "Indian philosophy",
+    "comparative religion",
+    "Vedanta",
+    "intuition",
+    "spiritual humanism"
+  ],
+  "oneLineEs": "Replanteó el pensamiento indio mediante el Vedānta moderno y la filosofía comparada, situando la experiencia religiosa en el diálogo mundial.",
+  "keywordsEs": [
+    "filosofía india",
+    "religión comparada",
+    "Vedānta",
+    "intuición",
+    "humanismo espiritual"
+  ]
 }

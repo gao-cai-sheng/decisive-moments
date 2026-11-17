@@ -27,7 +27,7 @@
     "太平真君",
     "老君音诵诫经"
   ],
-  "oneLineZh": "北魏道教改革者，推动新天师道与国家政治结合。",
+  "oneLineZh": "北魏道教改革者，推动新天师道与国家政治的制度结合。",
   "influenceWeight": 2,
   "reviewStatus": "draft",
   "summaryZh": "寇谦之，北魏道士，自称受太上老君启示，推动北天师道改革。《魏书·释老志》记其与崔浩、太武帝关系密切，促成道教在北魏国家祭祀和政治中的上升。其传统文本如《老君音诵诫经》体现新天师道戒律和教团规范。寇谦之是中古道教国家化的重要节点。",
@@ -40,5 +40,17 @@
       "url": "https://ctext.org/wei-shu/shi-lao-zhi",
       "noteZh": "以《魏书·释老志》和寇谦之相关道经传统支撑身份层。"
     }
+  ],
+  "oneLineEn": "Northern Wei Daoist reformer joining New Celestial Masters practice to state political institutions.",
+  "keywordsEn": [
+    "Northern Celestial Masters",
+    "Taiping Zhenjun",
+    "Lord Lao's New Code of Commandments"
+  ],
+  "oneLineEs": "Reformador taoísta de los Wei del Norte que unió una renovada vía de los Maestros Celestiales con la política estatal.",
+  "keywordsEs": [
+    "Maestros Celestiales del Norte",
+    "Taiping Zhenjun",
+    "Nuevo código de mandamientos del Señor Lao"
   ]
 }

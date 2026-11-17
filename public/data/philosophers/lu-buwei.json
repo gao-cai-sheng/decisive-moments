@@ -28,7 +28,7 @@
     "秦相",
     "杂家"
   ],
-  "oneLineZh": "战国末秦相，《吕氏春秋》编纂工程的组织者。",
+  "oneLineZh": "战国末秦相，组织编纂《吕氏春秋》，汇合诸子以备统一秩序。",
   "influenceWeight": 2,
   "reviewStatus": "draft",
   "summaryZh": "吕不韦，战国末商人出身的秦国相邦，曾辅佐秦庄襄王并主持秦廷政治。《史记》记其招致宾客、编成《吕氏春秋》，该书综合儒、墨、道、法、阴阳等材料，体现统一前夜对知识汇编和治国术的系统整合。吕不韦本人既是政治操盘者，也是杂家知识工程的象征。",
@@ -41,5 +41,17 @@
       "url": "https://ctext.org/lv-shi-chun-qiu",
       "noteZh": "以《吕氏春秋》和《史记》支撑吕不韦身份、秦相地位和杂家作品归属。"
     }
+  ],
+  "oneLineEn": "Late Qin chancellor who sponsored Lüshi chunqiu, synthesizing masters for a unified order.",
+  "keywordsEn": [
+    "Lüshi chunqiu",
+    "Qin chancellor",
+    "Eclectic school"
+  ],
+  "oneLineEs": "Canciller de Qin a finales de los Reinos Combatientes y organizador de la compilación del Lüshi chunqiu.",
+  "keywordsEs": [
+    "Lüshi chunqiu",
+    "canciller de Qin",
+    "escuela ecléctica"
   ]
 }

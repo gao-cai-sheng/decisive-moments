@@ -22,11 +22,11 @@
     "metaphysics"
   ],
   "keywordsZh": [
-    "法国哲学",
-    "身份层",
-    "思想史补线"
+    "寄生者",
+    "第三者",
+    "科学与人文"
   ],
-  "oneLineZh": "科学与人文的第三者/寄生者哲学。",
+  "oneLineZh": "以第三者与寄生者形象打通科学史和人文思想两种传统。",
   "influenceWeight": 2,
   "reviewStatus": "draft",
   "summaryZh": "米歇尔·塞尔（1930—2019）是 Seed W3 法国近现代—现当代二线哲人候选。其身份层入选理由为：科学与人文的第三者/寄生者哲学。 本条仅作 seed 档基本定位，后续若升级标准档，必须重新做著作、论点与 evidence 研究。",
@@ -40,5 +40,17 @@
       "url": "https://www.rep.routledge.com/articles/biographical/serres-michel-1930-2019/v-1",
       "noteZh": "权威来源条目：Routledge: Serres, Michel；用于核验人物身份、生卒、代表著作和思想史定位。"
     }
+  ],
+  "oneLineEn": "Uses figures of the third and the parasite to bridge history of science and humanistic tradition.",
+  "keywordsEn": [
+    "the parasite",
+    "the third",
+    "science and the humanities"
+  ],
+  "oneLineEs": "Con las figuras del tercero y del parásito conectó la historia de la ciencia y la tradición humanística.",
+  "keywordsEs": [
+    "el parásito",
+    "el tercero",
+    "ciencia y humanidades"
   ]
 }

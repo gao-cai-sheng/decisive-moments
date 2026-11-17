@@ -31,7 +31,7 @@
     "无政府主义",
     "国家制度与无政府状态",
     "上帝与国家",
-    "自由"
+    "反国家自由"
   ],
   "oneLineZh": "俄国无政府主义代表人物，以自由、国家批判和集体主义政治理论著称。",
   "influenceWeight": 3,
@@ -368,5 +368,19 @@
         ]
       }
     ]
-  }
+  },
+  "keywordsEn": [
+    "anarchism",
+    "Statism and Anarchy",
+    "God and the State",
+    "freedom against the state"
+  ],
+  "oneLineEn": "Leading Russian anarchist known for freedom, critique of the state, and collectivist political theory.",
+  "oneLineEs": "Representante del anarquismo ruso conocido por la libertad, la crítica del Estado y la teoría política colectivista.",
+  "keywordsEs": [
+    "anarquismo",
+    "Estatismo y anarquía",
+    "Dios y el Estado",
+    "libertad"
+  ]
 }

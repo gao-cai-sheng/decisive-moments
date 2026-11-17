@@ -286,5 +286,14 @@
       }
     ]
   },
-  "tier": "standard"
+  "tier": "standard",
+  "keywordsEn": [
+    "Therapy of the passions",
+    "On Anger",
+    "Finite life",
+    "Clemency",
+    "Practical counsel"
+  ],
+  "oneLineEn": "Roman Stoic statesman developing practical ethics in letters and essays on anger, clemency, and finite life.",
+  "oneLineEs": "Estoico y estadista romano que desarrolló una ética práctica en cartas y ensayos sobre la ira, la clemencia y la finitud de la vida."
 }

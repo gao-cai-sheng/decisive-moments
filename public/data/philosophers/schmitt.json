@@ -31,7 +31,7 @@
     "政治神学",
     "议会制批判"
   ],
-  "oneLineZh": "以主权决断、例外状态和敌友区分揭示现代政治秩序的危机，同时必须置于反自由主义和纳粹牵连的批判语境中。",
+  "oneLineZh": "以主权决断、例外状态和敌友区分揭示现代政治危机，须置于纳粹牵连批判语境。",
   "influenceWeight": 2,
   "reviewStatus": "draft",
   "summaryZh": "施米特强调政治秩序依赖决定例外的主权和敌友区分，其理论影响巨大但与威权主义、反自由主义和纳粹时期合作紧密相连，必须批判性呈现。",
@@ -288,5 +288,21 @@
         ]
       }
     ]
-  }
+  },
+  "oneLineEn": "Exposes political crisis via sovereignty, exception, and friend-enemy; read critically amid Nazi complicity.",
+  "keywordsEn": [
+    "sovereignty",
+    "state of exception",
+    "friend-enemy distinction",
+    "political theology",
+    "critique of parliamentarism"
+  ],
+  "oneLineEs": "Revela la crisis del orden político moderno mediante la soberanía, el estado de excepción y la distinción amigo-enemigo; debe leerse críticamente ante su complicidad nazi.",
+  "keywordsEs": [
+    "soberanía",
+    "estado de excepción",
+    "distinción amigo-enemigo",
+    "teología política",
+    "crítica del parlamentarismo"
+  ]
 }

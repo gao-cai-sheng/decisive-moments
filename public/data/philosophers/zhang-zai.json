@@ -30,7 +30,7 @@
     "横渠四句",
     "正蒙"
   ],
-  "oneLineZh": "以太虚即气、民胞物与和成德工夫奠定北宋道学气本论传统。",
+  "oneLineZh": "以太虚即气、民胞物与和成德工夫开出北宋道学气本论传统。",
   "influenceWeight": 3,
   "reviewStatus": "draft",
   "summaryZh": "张载以《正蒙》《西铭》提出太虚即气、聚散变化、天地之性与气质之性等命题，把宇宙生成论、伦理亲亲和政治责任连成一体；他与二程、朱熹所继承的北宋道学共同开辟新儒家形而上学，强调为天地立心、为生民立命的士人使命。",
@@ -294,5 +294,21 @@
       }
     ]
   },
-  "tier": "standard"
+  "tier": "standard",
+  "oneLineEn": "Opened Northern Song qi ontology through Great Void as qi, all people as siblings, and virtue cultivation.",
+  "keywordsEn": [
+    "qi",
+    "Great Void",
+    "all people as siblings, all things as companions",
+    "Zhang Zai's Four Sentences",
+    "Correcting Youthful Ignorance"
+  ],
+  "oneLineEs": "Fundó la ontología del qi del daoxue del Song del Norte mediante el Gran Vacío como qi, la fraternidad con el pueblo y las cosas, y la práctica de la virtud.",
+  "keywordsEs": [
+    "qi",
+    "Gran Vacío",
+    "todos los pueblos como hermanos, todas las cosas como compañeras",
+    "las Cuatro Sentencias de Zhang Zai",
+    "Corrigiendo la ignorancia juvenil"
+  ]
 }

@@ -26,8 +26,8 @@
   "keywordsZh": [
     "马堡学派",
     "新康德主义",
-    "纯粹认识逻辑",
-    "纯粹意志伦理学",
+    "纯粹认识",
+    "纯粹意志",
     "理性宗教"
   ],
   "oneLineZh": "以马堡新康德主义和犹太理性宗教哲学连接康德传统与罗森茨维格。",
@@ -289,5 +289,21 @@
       }
     ]
   },
-  "tier": "standard"
+  "tier": "standard",
+  "oneLineEn": "Linked Kantian tradition to Rosenzweig via Marburg Neo-Kantianism and Jewish rational religion philosophy.",
+  "keywordsEn": [
+    "Marburg School",
+    "Neo-Kantianism",
+    "pure cognition",
+    "pure will",
+    "religion of reason"
+  ],
+  "oneLineEs": "Vinculó la tradición kantiana con Rosenzweig mediante el neokantismo de Marburgo y la filosofía judía de la religión racional.",
+  "keywordsEs": [
+    "Escuela de Marburgo",
+    "neokantismo",
+    "conocimiento puro",
+    "voluntad pura",
+    "religión de la razón"
+  ]
 }

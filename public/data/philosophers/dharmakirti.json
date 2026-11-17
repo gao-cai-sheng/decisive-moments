@@ -287,5 +287,21 @@
       }
     ]
   },
-  "tier": "standard"
+  "tier": "standard",
+  "oneLineEn": "Pushed post-Dignaga Buddhist epistemology to its Indo-Tibetan peak through pramana, logic, and apoha exclusion.",
+  "keywordsEn": [
+    "pramana theory",
+    "perception (pratyaksa)",
+    "inference (anumana)",
+    "apoha",
+    "momentariness"
+  ],
+  "oneLineEs": "Llevó la epistemología budista posterior a Dignāga a su cumbre indo-tibetana mediante el pramāṇa, la lógica y la exclusión lingüística (apoha).",
+  "keywordsEs": [
+    "teoría del pramāṇa",
+    "percepción (pratyakṣa)",
+    "inferencia (anumāna)",
+    "apoha",
+    "momentaneidad"
+  ]
 }

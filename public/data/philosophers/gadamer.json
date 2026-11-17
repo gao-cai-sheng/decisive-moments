@@ -27,7 +27,7 @@
     "哲学解释学",
     "效果历史",
     "视域融合",
-    "语言",
+    "语言性",
     "真理与方法"
   ],
   "oneLineZh": "以效果历史、视域融合和语言性把解释学从方法论扩展为哲学本体论。",
@@ -294,5 +294,21 @@
       }
     ]
   },
-  "tier": "standard"
+  "tier": "standard",
+  "keywordsEn": [
+    "philosophical hermeneutics",
+    "effective history",
+    "fusion of horizons",
+    "linguisticality",
+    "Truth and Method"
+  ],
+  "oneLineEn": "Extended hermeneutics from method to ontology via effective history, fusion of horizons, and linguisticality.",
+  "oneLineEs": "Extendió la hermenéutica del método a la ontología mediante la historia efectual, la fusión de horizontes y la lingüisticidad.",
+  "keywordsEs": [
+    "hermenéutica filosófica",
+    "historia efectual",
+    "fusión de horizontes",
+    "lenguaje",
+    "Verdad y método"
+  ]
 }

@@ -23,10 +23,10 @@
   ],
   "keywordsZh": [
     "日常语言",
-    "身份层",
-    "二线哲人"
+    "范畴错误",
+    "心的概念"
   ],
-  "oneLineZh": "日常语言哲学与行为主义心灵哲学代表，可补牛津分析传统。",
+  "oneLineZh": "《心的概念》以「机器中的幽灵」批判笛卡尔二元论，推动日常语言学派。",
   "influenceWeight": 2,
   "reviewStatus": "draft",
   "summaryZh": "吉尔伯特·赖尔（1900—1976）是 W2 欧陆与英美近现代二线哲人候选。其身份层入选理由为：日常语言哲学与行为主义心灵哲学代表，可补牛津分析传统。 本条仅作 seed 档基本定位，后续若升级标准档，需要重新做著作、论点与 evidence 研究。",
@@ -38,5 +38,17 @@
       "label": "S017",
       "noteZh": "权威来源条目：SEP: Gilbert Ryle；用于核验人物身份、生卒、代表著作和思想史定位。"
     }
+  ],
+  "oneLineEn": "The Concept of Mind attacks Cartesian dualism as the ghost in the machine, advancing ordinary-language philosophy.",
+  "keywordsEn": [
+    "ordinary language",
+    "category mistake",
+    "The Concept of Mind"
+  ],
+  "oneLineEs": "El concepto de lo mental critica el dualismo cartesiano con el «fantasma en la máquina» y asienta la escuela del lenguaje ordinario.",
+  "keywordsEs": [
+    "lenguaje ordinario",
+    "error categorial",
+    "El concepto de lo mental"
   ]
 }

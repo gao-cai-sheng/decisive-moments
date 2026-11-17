@@ -23,10 +23,10 @@
   ],
   "keywordsZh": [
     "心脑同一论",
-    "身份层",
-    "二线哲人"
+    "后果主义",
+    "科学实在论"
   ],
-  "oneLineZh": "心脑同一论与功利主义代表，可补澳大利亚分析哲学。",
+  "oneLineZh": "心脑同一论与后果主义代表，主张一种彻底的科学实在论。",
   "influenceWeight": 2,
   "reviewStatus": "draft",
   "summaryZh": "J. J. C. 斯马特（1920—2012）是 W2 欧陆与英美近现代二线哲人候选。其身份层入选理由为：心脑同一论与功利主义代表，可补澳大利亚分析哲学。 本条仅作 seed 档基本定位，后续若升级标准档，需要重新做著作、论点与 evidence 研究。",
@@ -39,5 +39,17 @@
       "label": "S016",
       "noteZh": "权威来源条目：IEP: J. J. C. Smart；用于核验人物身份、生卒、代表著作和思想史定位。"
     }
+  ],
+  "oneLineEn": "Defended mind-brain identity theory and consequentialism under thoroughgoing scientific realism.",
+  "keywordsEn": [
+    "mind-brain identity theory",
+    "consequentialism",
+    "scientific realism"
+  ],
+  "oneLineEs": "Representante de la teoría de la identidad mente-cerebro y del consecuencialismo; defiende un realismo científico radical.",
+  "keywordsEs": [
+    "teoría de la identidad mente-cerebro",
+    "consecuencialismo",
+    "realismo científico"
   ]
 }

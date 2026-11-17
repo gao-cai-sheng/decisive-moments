@@ -28,7 +28,7 @@
     "童心说",
     "异端"
   ],
-  "oneLineZh": "晚明思想家，以童心说、反伪道学和个体真诚著称。",
+  "oneLineZh": "晚明思想家，以童心说与反伪道学强调个体真诚的表达。",
   "influenceWeight": 3,
   "reviewStatus": "draft",
   "summaryZh": "李贽，号卓吾，福建泉州人，晚明思想家、文学批评家和社会批判者。《焚书》《藏书》等著作以尖锐语言批判伪道学、礼教虚名和权威崇拜，提出童心说，强调真实情感和个体判断。李贽深受阳明后学和泰州学派影响，又突破其边界，成为晚明思想解放和正统批判的标志人物。",
@@ -42,5 +42,17 @@
       "url": "https://ctext.org/fen-shu",
       "noteZh": "以李贽《焚书》《藏书》支撑身份层。"
     }
+  ],
+  "oneLineEn": "Late Ming thinker stressing childlike mind, anti-pseudo-Dao learning, and sincere individual expression.",
+  "keywordsEn": [
+    "A Book to Burn",
+    "doctrine of the childlike mind",
+    "heterodoxy"
+  ],
+  "oneLineEs": "Pensador de finales Ming, célebre por la doctrina de la mente infantil, la crítica del falso Dao Learning y la sinceridad personal.",
+  "keywordsEs": [
+    "Libro para quemar",
+    "doctrina de la mente infantil",
+    "heterodoxia"
   ]
 }

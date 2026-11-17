@@ -26,7 +26,7 @@
     "公案",
     "禅宗中兴"
   ],
-  "oneLineZh": "江户时期临济禅中兴人物，强化公案训练体系。",
+  "oneLineZh": "江户临济禅中兴人物，以公案训练体系重整禅门修行路径。",
   "influenceWeight": 2,
   "reviewStatus": "draft",
   "summaryZh": "白隐是日本临济禅中兴人物，以公案训练和禅修教学影响近世以来日本禅宗。本条仅作 seed 身份层定位。",
@@ -40,5 +40,17 @@
       "url": "https://www.rep.routledge.com/articles/biographical/hakuin-ekaku-1686-1769/v-1",
       "noteZh": "Routledge Hakuin 条目用于核验白隐身份和临济禅定位。"
     }
+  ],
+  "oneLineEn": "Edo Rinzai Zen revival figure who reorganized practice paths through a koan training system.",
+  "keywordsEn": [
+    "Rinzai Zen",
+    "kōan",
+    "Zen revival"
+  ],
+  "oneLineEs": "Revitalizador del zen Rinzai en el periodo Edo que reforzó el sistema de entrenamiento por kōan.",
+  "keywordsEs": [
+    "zen Rinzai",
+    "kōan",
+    "revitalización del zen"
   ]
 }

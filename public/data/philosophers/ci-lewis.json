@@ -23,10 +23,10 @@
   ],
   "keywordsZh": [
     "模态逻辑",
-    "身份层",
-    "二线哲人"
+    "概念实用主义",
+    "严格蕴涵"
   ],
-  "oneLineZh": "概念实用主义与模态逻辑代表，可补皮尔士—奎因之间的美国分析线索。",
+  "oneLineZh": "概念实用主义与模态逻辑代表，以严格蕴涵回应实质蕴涵悖论。",
   "influenceWeight": 2,
   "reviewStatus": "draft",
   "summaryZh": "克拉伦斯·欧文·刘易斯（1883—1964）是 W2 欧陆与英美近现代二线哲人候选。其身份层入选理由为：概念实用主义与模态逻辑代表，可补皮尔士—奎因之间的美国分析线索。 本条仅作 seed 档基本定位，后续若升级标准档，需要重新做著作、论点与 evidence 研究。",
@@ -39,5 +39,17 @@
       "label": "S009",
       "noteZh": "权威来源条目：SEP: Clarence Irving Lewis；用于核验人物身份、生卒、代表著作和思想史定位。"
     }
+  ],
+  "oneLineEn": "Conceptual pragmatism and modal logic; strict implication answered material-implication paradoxes.",
+  "keywordsEn": [
+    "modal logic",
+    "conceptual pragmatism",
+    "strict implication"
+  ],
+  "oneLineEs": "Representante del pragmatismo conceptual y de la lógica modal; respondió a las paradojas de la implicación material con la implicación estricta.",
+  "keywordsEs": [
+    "lógica modal",
+    "pragmatismo conceptual",
+    "implicación estricta"
   ]
 }

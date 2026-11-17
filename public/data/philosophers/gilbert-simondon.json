@@ -22,11 +22,11 @@
     "metaphysics"
   ],
   "keywordsZh": [
+    "个体化",
     "技术哲学",
-    "身份层",
-    "二线哲人"
+    "跨个体"
   ],
-  "oneLineZh": "个体化与技术哲学代表，可补德勒兹、斯蒂格勒等后续线索。",
+  "oneLineZh": "以个体化理论与技术物存在方式重构技术哲学的基本问题。",
   "influenceWeight": 2,
   "reviewStatus": "draft",
   "summaryZh": "吉尔贝尔·西蒙东（1924—1989）是 W2 欧陆与英美近现代二线哲人候选。其身份层入选理由为：个体化与技术哲学代表，可补德勒兹、斯蒂格勒等后续线索。 本条仅作 seed 档基本定位，后续若升级标准档，需要重新做著作、论点与 evidence 研究。",
@@ -39,5 +39,17 @@
       "label": "S016",
       "noteZh": "权威来源条目：SEP: Gilbert Simondon；用于核验人物身份、生卒、代表著作和思想史定位。"
     }
+  ],
+  "oneLineEn": "Reconstructs philosophy of technology via individuation and technical objects' mode of existence.",
+  "keywordsEn": [
+    "individuation",
+    "philosophy of technology",
+    "transindividual"
+  ],
+  "oneLineEs": "Reconfiguró la filosofía de la técnica mediante la individuación y el modo de existencia de los objetos técnicos.",
+  "keywordsEs": [
+    "individuación",
+    "filosofía de la técnica",
+    "transindividual"
   ]
 }

@@ -28,7 +28,7 @@
     "无名",
     "生而不有"
   ],
-  "oneLineZh": "以道、无为和反强制秩序开辟道家思想。",
+  "oneLineZh": "以无名之道说明生成根据，用无为少欲减少强制并暴露名言限度。",
   "influenceWeight": 1,
   "reviewStatus": "draft",
   "summaryZh": "老子以道作为万物生成和政治节制的根本尺度，强调无为、柔弱和反身性的治理智慧。",
@@ -285,5 +285,14 @@
       }
     ]
   },
-  "tier": "standard"
+  "tier": "standard",
+  "keywordsEn": [
+    "Dao",
+    "Wuwei",
+    "Ziran (naturalness)",
+    "Nameless",
+    "Generating without possessing"
+  ],
+  "oneLineEn": "Explains generation by the nameless Dao; wuwei and few desires reduce coercion and expose limits of fixed names.",
+  "oneLineEs": "Abre el pensamiento taoísta mediante el Dao, el wuwei (no-acción) y la resistencia al orden coercitivo."
 }

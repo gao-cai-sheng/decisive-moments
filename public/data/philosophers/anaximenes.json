@@ -285,5 +285,14 @@
       }
     ]
   },
-  "tier": "standard"
+  "tier": "standard",
+  "keywordsEn": [
+    "Air",
+    "Condensation",
+    "Rarefaction",
+    "Density change",
+    "Archē"
+  ],
+  "oneLineEn": "Milesian philosopher explaining natural change and cosmic structure via air, condensation, and rarefaction.",
+  "oneLineEs": "Filósofo milesio que explicó el cambio natural y la estructura cósmica mediante el aire, la condensación y la rarefacción."
 }

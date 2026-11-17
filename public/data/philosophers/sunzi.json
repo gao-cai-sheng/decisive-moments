@@ -27,7 +27,7 @@
     "吴国",
     "谋略"
   ],
-  "oneLineZh": "《孙子兵法》所系兵学传统的核心人物。",
+  "oneLineZh": "以《孙子兵法》讲求庙算与诡道，成为兵学传统中的核心论兵人物。",
   "influenceWeight": 3,
   "reviewStatus": "draft",
   "summaryZh": "孙子，通常指孙武，春秋末期齐人而仕吴，传统上为《孙子兵法》作者。《史记·孙子吴起列传》以吴宫练兵故事和吴王阖闾用兵叙述其身份。《孙子兵法》强调计、势、虚实、知彼知己和不战而屈人之兵，超越军事技术，成为中国战略思想、政治理性和组织判断的核心经典。",
@@ -40,5 +40,17 @@
       "url": "https://ctext.org/art-of-war",
       "noteZh": "以《孙子兵法》和《史记》相关列传支撑孙子身份、兵学归属与作品传统。"
     }
+  ],
+  "oneLineEn": "Centers the Art of War tradition on strategic calculation and the way of deception.",
+  "keywordsEn": [
+    "art of war",
+    "State of Wu",
+    "strategy"
+  ],
+  "oneLineEs": "Figura central de la tradición militar vinculada al Arte de la guerra.",
+  "keywordsEs": [
+    "arte de la guerra",
+    "Estado de Wu",
+    "estrategia"
   ]
 }

@@ -22,11 +22,11 @@
     "metaphysics"
   ],
   "keywordsZh": [
-    "唯心主义",
-    "身份层",
-    "二线哲人"
+    "实际唯心主义",
+    "意大利观念论",
+    "思维行动"
   ],
-  "oneLineZh": "实际唯心主义代表，可补意大利观念论与克罗齐同代分歧。",
+  "oneLineZh": "实际唯心主义的创立者，主张思维行动即唯一实在，因此与克罗齐分道扬镳。",
   "influenceWeight": 2,
   "reviewStatus": "draft",
   "summaryZh": "乔瓦尼·金蒂莱（1875—1944）是 W2 欧陆与英美近现代二线哲人候选。其身份层入选理由为：实际唯心主义代表，可补意大利观念论与克罗齐同代分歧。 本条仅作 seed 档基本定位，后续若升级标准档，需要重新做著作、论点与 evidence 研究。",
@@ -39,5 +39,17 @@
       "label": "S014",
       "noteZh": "权威来源条目：IEP: Giovanni Gentile；用于核验人物身份、生卒、代表著作和思想史定位。"
     }
+  ],
+  "oneLineEn": "Founder of actual idealism; pure act of thinking as sole reality, diverging from Croce.",
+  "keywordsEn": [
+    "actual idealism",
+    "Italian idealism",
+    "act of thinking"
+  ],
+  "oneLineEs": "Fundador del idealismo actual; sostiene que el acto de pensar es la única realidad y por ello se separa de Croce.",
+  "keywordsEs": [
+    "idealismo actual",
+    "idealismo italiano",
+    "acto de pensar"
   ]
 }

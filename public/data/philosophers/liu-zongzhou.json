@@ -28,7 +28,7 @@
     "慎独",
     "人谱"
   ],
-  "oneLineZh": "明末大儒，蕺山学派创始人，以慎独和诚意工夫著称。",
+  "oneLineZh": "明末大儒，蕺山学派创始人，以慎独与诚意确立工夫论。",
   "influenceWeight": 3,
   "reviewStatus": "draft",
   "summaryZh": "刘宗周，字起东，号蕺山，明末儒者和政治人物。他继承并批评阳明后学，强调慎独、诚意和过恶自省，《人谱》《刘子全书》集中体现其道德工夫论。明亡后绝食而死，使其学术与忠节形象相连。刘宗周上承宋明理学，下启黄宗羲等清初思想家。",
@@ -42,5 +42,17 @@
       "url": "https://ctext.org/wiki.pl?if=en&searchu=%E5%8A%89%E5%AE%97%E5%91%A8",
       "noteZh": "以刘宗周《人谱》《刘子全书》和明儒学案材料支撑身份层。"
     }
+  ],
+  "oneLineEn": "Late Ming master founding the Jishan school on vigilance in solitude and sincere intention.",
+  "keywordsEn": [
+    "Jishan School",
+    "vigilant solitude (shendu)",
+    "Human Spectrum"
+  ],
+  "oneLineEs": "Gran maestro de finales Ming y fundador de la escuela Jishan, conocido por el shendu y el cultivo de la sinceridad de la intención.",
+  "keywordsEs": [
+    "escuela Jishan",
+    "soledad vigilante (shendu)",
+    "Espectro humano"
   ]
 }

@@ -23,11 +23,11 @@
     "metaphysics"
   ],
   "keywordsZh": [
-    "法国哲学",
-    "身份层",
-    "思想史补线"
+    "判断哲学",
+    "科学精神史",
+    "法国认识论"
   ],
-  "oneLineZh": "判断哲学与科学精神史，法国认识论学院枢纽。",
+  "oneLineZh": "以判断哲学和科学精神史成为法国认识论传统的关键枢纽。",
   "influenceWeight": 2,
   "reviewStatus": "draft",
   "summaryZh": "莱昂·布伦茨维格（1869—1944）是 Seed W3 法国近现代—现当代二线哲人候选。其身份层入选理由为：判断哲学与科学精神史，法国认识论学院枢纽。 本条仅作 seed 档基本定位，后续若升级标准档，必须重新做著作、论点与 evidence 研究。",
@@ -41,5 +41,17 @@
       "url": "https://www.rep.routledge.com/articles/biographical/brunschvicg-leon-1869-1944/v-1",
       "noteZh": "权威来源条目：Routledge: Brunschvicg, Léon；用于核验人物身份、生卒、代表著作和思想史定位。"
     }
+  ],
+  "oneLineEn": "Key hub of French epistemology through philosophy of judgment and history of the scientific spirit.",
+  "keywordsEn": [
+    "philosophy of judgment",
+    "history of the scientific spirit",
+    "French epistemology"
+  ],
+  "oneLineEs": "Fue un eje de la epistemología académica francesa mediante la filosofía del juicio y la historia del espíritu científico.",
+  "keywordsEs": [
+    "filosofía del juicio",
+    "historia del espíritu científico",
+    "epistemología francesa"
   ]
 }

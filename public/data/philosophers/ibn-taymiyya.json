@@ -30,7 +30,7 @@
     "批判哲学与kalam",
     "反苏非一元论"
   ],
-  "oneLineZh": "罕百里派法学家和神学批判者，以反哲学、反kalam、反苏非一元论和政治神学影响后世。",
+  "oneLineZh": "罕百里派法学家，以反哲学、反kalam、反苏非一元论与政治神学影响后世。",
   "influenceWeight": 2,
   "reviewStatus": "draft",
   "summaryZh": "伊本·泰米叶（1263—1328）是 Seed W7 伊斯兰文明晚期与近现代补线候选。其身份层入选理由为：罕百里派法学家和神学批判者，以反哲学、反kalam、反苏非一元论和政治神学影响后世。本条仅作 seed 档基本定位，后续若升级标准档，必须重新做著作、论点与 evidence 研究。",
@@ -44,5 +44,17 @@
       "url": "https://plato.stanford.edu/entries/ibn-taymiyya/",
       "noteZh": "来源：SEP / Ibn Taymiyya；用于核验人物身份、生卒断代、罕百里传统、对哲学/kalam/苏非一元论的批评和代表著作。"
     }
+  ],
+  "oneLineEn": "Ḥanbalī jurist opposing philosophy, kalām, and Sufi monism; shaped later political theology.",
+  "keywordsEn": [
+    "Ḥanbalī school",
+    "critique of philosophy and kalām",
+    "anti-Sufi monism"
+  ],
+  "oneLineEs": "Jurista ḥanbalí y crítico teológico que influye en la posteridad con su oposición a la filosofía, al kalām, al monismo sufí y con su teología política.",
+  "keywordsEs": [
+    "escuela ḥanbalí",
+    "crítica de la filosofía y el kalām",
+    "antimonismo sufí"
   ]
 }

@@ -285,5 +285,14 @@
       }
     ]
   },
-  "tier": "standard"
+  "tier": "standard",
+  "keywordsEn": [
+    "apeiron",
+    "The indefinite",
+    "Separation of opposites",
+    "Naturalistic explanation",
+    "Cosmogony"
+  ],
+  "oneLineEn": "Milesian thinker who advanced early Greek philosophy via the apeiron, cosmogenesis, and naturalistic explanation.",
+  "oneLineEs": "Pensador milesio que impulsó la filosofía griega temprana mediante el ápeiron, la cosmogénesis y la explicación naturalista."
 }

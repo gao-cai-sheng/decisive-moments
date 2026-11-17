@@ -30,7 +30,7 @@
     "阿赫拉格·纳西里",
     "马拉盖天文台"
   ],
-  "oneLineZh": "哲学家、伦理学家和天文学家，在后伊本·西那哲学、什叶神学和数学天文学之间建立关键连接。",
+  "oneLineZh": "哲学家与天文学家，在后伊本·西那哲学、什叶神学与数学天文学间建立连接。",
   "influenceWeight": 2,
   "reviewStatus": "draft",
   "summaryZh": "纳绥尔丁·图西（1201—1274）是 Seed W7 伊斯兰文明 falsafa 补线候选。其身份层入选理由为：哲学家、伦理学家和天文学家，在后伊本·西那哲学、什叶神学和数学天文学之间建立关键连接。本条仅作 seed 档基本定位，后续若升级标准档，必须重新做著作、论点与 evidence 研究。",
@@ -44,5 +44,17 @@
       "url": "https://www.iranicaonline.org/articles/tusi-nasir-al-din",
       "noteZh": "来源：Encyclopaedia Iranica / ṬŪSĪ, NAṢĪR-AL-DĪN；用于核验人物身份、生卒断代、哲学家—天文学家定位和代表著作。"
     }
+  ],
+  "oneLineEn": "Philosopher-astronomer linking post-Avicennan philosophy, Shīʿī theology, and mathematical astronomy.",
+  "keywordsEn": [
+    "Avicennan tradition",
+    "Nasirean Ethics",
+    "Maragha observatory"
+  ],
+  "oneLineEs": "Filósofo, ético y astrónomo que establece un vínculo clave entre la filosofía postaviceniana, la teología chií y la astronomía matemática.",
+  "keywordsEs": [
+    "tradición aviceniana",
+    "Ética nasirí",
+    "observatorio de Maragha"
   ]
 }

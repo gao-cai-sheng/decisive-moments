@@ -23,10 +23,10 @@
   ],
   "keywordsZh": [
     "责任伦理",
-    "身份层",
-    "二线哲人"
+    "技术批判",
+    "诺斯替研究"
   ],
-  "oneLineZh": "责任伦理与技术文明批判代表，可补海德格尔弟子线及环境伦理前史。",
+  "oneLineZh": "《责任原理》为技术文明提出面向未来世代的伦理律令。",
   "influenceWeight": 2,
   "reviewStatus": "draft",
   "summaryZh": "汉斯·约纳斯（1903—1993）是 W2 欧陆与英美近现代二线哲人候选。其身份层入选理由为：责任伦理与技术文明批判代表，可补海德格尔弟子线及环境伦理前史。 本条仅作 seed 档基本定位，后续若升级标准档，需要重新做著作、论点与 evidence 研究。",
@@ -39,5 +39,17 @@
       "label": "S010",
       "noteZh": "权威来源条目：SEP: Hans Jonas；用于核验人物身份、生卒、代表著作和思想史定位。"
     }
+  ],
+  "oneLineEn": "The Imperative of Responsibility set ethical demands on technological civilization for future generations.",
+  "keywordsEn": [
+    "ethics of responsibility",
+    "critique of technology",
+    "Gnostic studies"
+  ],
+  "oneLineEs": "El principio de responsabilidad formula un imperativo ético para la civilización tecnológica orientado a las generaciones futuras.",
+  "keywordsEs": [
+    "ética de la responsabilidad",
+    "crítica de la técnica",
+    "estudios gnósticos"
   ]
 }

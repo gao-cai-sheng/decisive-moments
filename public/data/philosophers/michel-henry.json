@@ -23,10 +23,10 @@
   ],
   "keywordsZh": [
     "生命现象学",
-    "身份层",
-    "二线哲人"
+    "内在性",
+    "自身感发"
   ],
-  "oneLineZh": "生命现象学代表，可补法国现象学的非海德格尔分支。",
+  "oneLineZh": "生命现象学代表人物，主张生命在自身感发中直接显现。",
   "influenceWeight": 2,
   "reviewStatus": "draft",
   "summaryZh": "米歇尔·亨利（1922—2002）是 W2 欧陆与英美近现代二线哲人候选。其身份层入选理由为：生命现象学代表，可补法国现象学的非海德格尔分支。 本条仅作 seed 档基本定位，后续若升级标准档，需要重新做著作、论点与 evidence 研究。",
@@ -39,5 +39,17 @@
       "label": "S017",
       "noteZh": "权威来源条目：SEP: Michel Henry；用于核验人物身份、生卒、代表著作和思想史定位。"
     }
+  ],
+  "oneLineEn": "Life-phenomenology figure holding that life appears directly in auto-affection.",
+  "keywordsEn": [
+    "phenomenology of life",
+    "immanence",
+    "auto-affection"
+  ],
+  "oneLineEs": "Representante de la fenomenología de la vida; sostiene que la vida se manifiesta de inmediato en la autoafección.",
+  "keywordsEs": [
+    "fenomenología de la vida",
+    "inmanencia",
+    "autoafección"
   ]
 }
