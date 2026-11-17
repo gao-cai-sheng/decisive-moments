@@ -449,5 +449,6 @@ export const en: Record<MessageKey, string> = {
   "contribute.issue.sourcenote_url_missing": "Source {index}: adding a URL makes review much easier.",
 };
 
-export const messages = { zh, en } as const;
+export const es = en;
+export const messages = { zh, en, es } as const;
 export type Locale = keyof typeof messages;

@@ -23,16 +23,18 @@ export function useT() {
   );
 }
 
-// 内容层字段（names 等）按语言取值；En 缺失时回退 Zh——内容翻译渐进推进，不阻塞 UI 英化
-export function pickName(names: { zh: string; en: string }, locale: Locale): string {
-  return locale === "en" ? names.en || names.zh : names.zh;
+const localeSuffix = { zh: "Zh", en: "En", es: "Es" } as const;
+
+// 内容层字段（names 等）按语言取值；缺失时回退 Zh——内容翻译渐进推进，不阻塞 UI 英化
+export function pickName(names: { zh: string; en: string; es?: string }, locale: Locale): string {
+  return locale === "zh" ? names.zh : names[locale] || names.en || names.zh;
 }
 
-// Zh/En 双字段约定的通用取值：pickText(problem, "summary", locale) 读 summaryEn，缺失回退 summaryZh
+// 多语言后缀字段约定：pickText(problem, "summary", locale) 读 summaryEn/summaryEs，缺失回退 summaryZh
 export function pickText(entity: Record<string, unknown>, base: string, locale: Locale): string {
-  if (locale === "en") {
-    const en = entity[`${base}En`];
-    if (typeof en === "string" && en.length > 0) return en;
+  if (locale !== "zh") {
+    const translated = entity[`${base}${localeSuffix[locale]}`];
+    if (typeof translated === "string" && translated.length > 0) return translated;
   }
   const zh = entity[`${base}Zh`];
   return typeof zh === "string" ? zh : "";

@@ -23,11 +23,11 @@ export function ThoughtInfographic({ philosopher }: ThoughtInfographicProps) {
 
   const selectPhilosopher = useAppStore((state) => state.selectPhilosopher);
   const workTitleById = useMemo(
-    () => new Map(works.map((work) => [work.id, locale === "en" && work.titleEn ? work.titleEn : work.titleZh])),
+    () => new Map(works.map((work) => [work.id, locale !== "zh" && work.titleEn ? work.titleEn : work.titleZh])),
     [works, locale],
   );
   const themeNameById = useMemo(
-    () => new Map(themes.map((theme) => [theme.id, locale === "en" ? theme.en : theme.zh])),
+    () => new Map(themes.map((theme) => [theme.id, locale !== "zh" ? theme.en : theme.zh])),
     [themes, locale],
   );
   const themeById = useMemo(() => new Map(themes.map((theme) => [theme.id, theme])), [themes]);

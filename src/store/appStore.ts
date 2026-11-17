@@ -7,7 +7,8 @@ type Quality = "low" | "high";
 
 function readInitialLocale(): Locale {
   try {
-    return localStorage.getItem(LOCALE_STORAGE_KEY) === "en" ? "en" : "zh";
+    const stored = localStorage.getItem(LOCALE_STORAGE_KEY);
+    return stored === "en" || stored === "es" ? stored : "zh";
   } catch {
     return "zh";
   }
@@ -93,7 +94,7 @@ export const useAppStore = create<AppState>((set) => ({
       // 私有模式等 localStorage 不可写场景：仅本次会话生效
     }
     if (typeof document !== "undefined") {
-      document.documentElement.lang = locale === "zh" ? "zh-CN" : "en";
+      document.documentElement.lang = locale === "zh" ? "zh-CN" : locale;
     }
     set({ locale });
   },

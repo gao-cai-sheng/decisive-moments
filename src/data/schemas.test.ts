@@ -26,6 +26,17 @@ describe("data schemas", () => {
     expect(philosopherSchema.parse(validPhilosopher).id).toBe("plato");
   });
 
+  it("accepts Spanish index translations", () => {
+    const parsed = philosopherIndexEntrySchema.parse({
+      ...validPhilosopher,
+      oneLineEs: "Situa la justicia entre el alma y la ciudad.",
+      keywordsEs: ["formas", "justicia", "alma"],
+    });
+
+    expect(parsed.oneLineEs).toContain("justicia");
+    expect(parsed.keywordsEs).toEqual(["formas", "justicia", "alma"]);
+  });
+
   it("accepts nested philosopher thought systems", () => {
     const parsed = philosopherSchema.parse({
       ...validPhilosopher,

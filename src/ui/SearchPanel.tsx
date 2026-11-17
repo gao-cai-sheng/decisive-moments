@@ -58,7 +58,7 @@ export function SearchPanel() {
           type="button"
         >
           {pickName(result.item.names, locale)}{" "}
-          <span>{locale === "en" ? result.item.names.zh : result.item.names.en}</span>
+          <span>{locale === "zh" ? result.item.names.en : result.item.names.zh}</span>
         </button>
       ))}
       {argumentResults.length > 0 && <h3>{t("search.arguments")}</h3>}

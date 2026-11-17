@@ -11,7 +11,7 @@ export const relationshipTypeSchema = z.enum([
   "reception",
 ]);
 
-// En 字段统一 optional：内容翻译渐进推进（codex 产 → 盲审 → admit），
+// 翻译字段统一 optional：内容翻译渐进推进（codex 产 → 盲审 → admit），
 // 缺失时前端经 pickText/pickName 回退 Zh。填了就必须非空（validate-data 把关）。
 export const sourceNoteSchema = z.object({
   label: z.string().min(1),
@@ -71,6 +71,7 @@ export const philosopherIndexEntrySchema = z.object({
   names: z.object({
     zh: z.string().min(1),
     en: z.string().min(1),
+    es: z.string().min(1).optional(),
     native: z.string().min(1).optional(),
   }),
   life: z.object({
@@ -84,8 +85,10 @@ export const philosopherIndexEntrySchema = z.object({
   themes: z.array(z.string().min(1)).min(1),
   keywordsZh: z.array(z.string().min(1)),
   keywordsEn: z.array(z.string().min(1)).optional(),
+  keywordsEs: z.array(z.string().min(1)).optional(),
   oneLineZh: z.string().min(1),
   oneLineEn: z.string().min(1).optional(),
+  oneLineEs: z.string().min(1).optional(),
   influenceWeight: z.union([z.literal(1), z.literal(2), z.literal(3)]),
   reviewStatus: reviewStatusSchema,
 });
@@ -93,6 +96,7 @@ export const philosopherIndexEntrySchema = z.object({
 export const philosopherSchema = philosopherIndexEntrySchema.extend({
   summaryZh: z.string().min(20),
   summaryEn: z.string().min(1).optional(),
+  summaryEs: z.string().min(1).optional(),
   works: z.array(z.string().min(1)),
   sourceNotes: z.array(sourceNoteSchema),
   thoughtSystem: philosopherThoughtSystemSchema.optional(),
@@ -117,6 +121,7 @@ export const argumentSchema = z.object({
   }),
   keywordsZh: z.array(z.string().min(1)),
   keywordsEn: z.array(z.string().min(1)).optional(),
+  keywordsEs: z.array(z.string().min(1)).optional(),
   reviewStatus: reviewStatusSchema,
 });
 

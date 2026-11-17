@@ -2,6 +2,7 @@ import { useCallback, useEffect, useMemo, useRef, useState } from "react";
 import { getPhilosopher } from "../data/client";
 import type { Philosopher, PhilosopherIndexEntry } from "../data/schemas";
 import { pickName, pickText, useT } from "../i18n";
+import type { Locale } from "../i18n";
 import { civilizationColors } from "../scene/PhilosopherStars";
 import { useAppStore } from "../store/appStore";
 import { fingerprintSvg } from "./fingerprint";
@@ -23,11 +24,11 @@ type Hook = { text: string; kind: "question" | "keyword" | "oneline" };
  * （「商鞅为什么把民众的强弱…」「维柯为什么认为…」），照抄会在揭晓前剧透。
  * 中英文名都要遮：en locale 取的是 questionEn，但中文名偶尔混在英文句里。
  */
-export function maskName(text: string, names: { zh: string; en: string }, locale: "zh" | "en"): string {
-  const placeholder = locale === "en" ? "This thinker" : "这个人";
+export function maskName(text: string, names: { zh: string; en: string; es?: string }, locale: Locale): string {
+  const placeholder = locale === "zh" ? "这个人" : "This thinker";
   let masked = text;
   // 长名先替换，避免「李贽」先匹配掉「李贽的老师」这类更长的写法
-  for (const name of [names.zh, names.en].filter(Boolean).sort((a, b) => b.length - a.length)) {
+  for (const name of [names.zh, names.en, names.es].filter((name): name is string => Boolean(name)).sort((a, b) => b.length - a.length)) {
     masked = masked.split(name).join(placeholder);
   }
   // 「这个人为什么…」读着别扭，句首连用时收敛成更自然的问法
@@ -42,7 +43,7 @@ export function maskName(text: string, names: { zh: string; en: string }, locale
 export function pickHook(
   philosopher: Philosopher | null,
   entry: PhilosopherIndexEntry,
-  locale: "zh" | "en",
+  locale: Locale,
   seed: number,
 ): Hook {
   const problems = philosopher?.thoughtSystem?.problems ?? [];
@@ -52,7 +53,12 @@ export function pickHook(
     if (text) return { text: maskName(text, entry.names, locale), kind: "question" };
   }
 
-  const keywords = locale === "en" && entry.keywordsEn?.length ? entry.keywordsEn : entry.keywordsZh;
+  const keywords =
+    locale === "es" && entry.keywordsEs?.length
+      ? entry.keywordsEs
+      : locale === "en" && entry.keywordsEn?.length
+        ? entry.keywordsEn
+        : entry.keywordsZh;
   if (keywords?.length) {
     const longest = [...keywords].sort((a, b) => b.length - a.length)[0];
     return { text: longest, kind: "keyword" };
@@ -128,7 +134,12 @@ export function RandomEncounter() {
   if (!open) return null;
 
   const name = entry ? pickName(entry.names, locale) : "";
-  const keywords = (locale === "en" && entry?.keywordsEn?.length ? entry.keywordsEn : entry?.keywordsZh) ?? [];
+  const keywords =
+    (locale === "es" && entry?.keywordsEs?.length
+      ? entry.keywordsEs
+      : locale === "en" && entry?.keywordsEn?.length
+        ? entry.keywordsEn
+        : entry?.keywordsZh) ?? [];
 
   const visit = () => {
     if (!entry) return;
@@ -170,7 +181,7 @@ export function RandomEncounter() {
                   {name}
                 </h2>
                 <p className="random-encounter__life">
-                  {entry.names.en} · {entry.life.display}
+                  {locale === "zh" ? entry.names.en : entry.names.zh} · {entry.life.display}
                 </p>
                 <p className="random-encounter__one">
                   {pickText(entry as unknown as Record<string, unknown>, "oneLine", locale)}

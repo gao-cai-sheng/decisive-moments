@@ -33,6 +33,8 @@ export function SettingsPanel() {
         <button className="hud-button" type="button" aria-pressed={locale === "en"} onClick={() => setLocale("en")}>
           English
         </button>
+        {/* Español 入口暂时隐藏：界面文案仍是英文（messages.es = en），内容层也未补齐（简介 450/542、
+            关键词 421/542、人名 0）。数据与 locale 管线保留，补齐后恢复这个按钮即可。 */}
       </div>
       <h3>{t("settings.dataNote")}</h3>
       <p className="muted">{t("settings.dataNoteBody")}</p>

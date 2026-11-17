@@ -1,5 +1,5 @@
 import { describe, expect, it } from "vitest";
-import { pickText, translate } from "./index";
+import { pickName, pickText, translate } from "./index";
 import { en, zh } from "./messages";
 
 function placeholders(template: string) {
@@ -29,10 +29,23 @@ describe("i18n messages", () => {
   });
 
   it("pickText prefers En under en locale and falls back to Zh", () => {
-    const entity = { summaryZh: "中文摘要", summaryEn: "English summary", titleZh: "标题" };
+    const entity = {
+      summaryZh: "中文摘要",
+      summaryEn: "English summary",
+      summaryEs: "Resumen español",
+      titleZh: "标题",
+    };
     expect(pickText(entity, "summary", "en")).toBe("English summary");
+    expect(pickText(entity, "summary", "es")).toBe("Resumen español");
     expect(pickText(entity, "summary", "zh")).toBe("中文摘要");
     expect(pickText(entity, "title", "en")).toBe("标题");
+    expect(pickText(entity, "title", "es")).toBe("标题");
     expect(pickText(entity, "missing", "zh")).toBe("");
+  });
+
+  it("pickName supports Spanish names when present", () => {
+    const names = { zh: "柏拉图", en: "Plato", es: "Platón" };
+    expect(pickName(names, "es")).toBe("Platón");
+    expect(pickName({ zh: "亚里士多德", en: "Aristotle" }, "es")).toBe("Aristotle");
   });
 });

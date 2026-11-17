@@ -22,9 +22,9 @@ export function PhilosopherPanel({ philosopher }: PhilosopherPanelProps) {
   const relationships = useAppStore((state) => state.relationships);
   const philosophers = useAppStore((state) => state.philosophers);
   const repo = useMemo(() => createIndexedDbCollectionsRepository(), []);
-  // 作品名/主题名/人名按 locale 取；En 缺失回退 Zh（内容翻译渐进推进）
+  // 作品名/主题名/人名按 locale 取；缺失回退 Zh（内容翻译渐进推进）
   const workTitleById = useMemo(
-    () => new Map(works.map((work) => [work.id, locale === "en" && work.titleEn ? work.titleEn : work.titleZh])),
+    () => new Map(works.map((work) => [work.id, locale !== "zh" && work.titleEn ? work.titleEn : work.titleZh])),
     [works, locale],
   );
   const philosopherNameById = useMemo(
@@ -33,7 +33,7 @@ export function PhilosopherPanel({ philosopher }: PhilosopherPanelProps) {
   );
   const themes = useAppStore((state) => state.themes);
   const themeNameById = useMemo(
-    () => new Map(themes.map((theme) => [theme.id, locale === "en" ? theme.en : theme.zh])),
+    () => new Map(themes.map((theme) => [theme.id, locale !== "zh" ? theme.en : theme.zh])),
     [themes, locale],
   );
   const claimDetailRefs = useRef(new Map<string, HTMLDivElement>());
@@ -89,7 +89,7 @@ export function PhilosopherPanel({ philosopher }: PhilosopherPanelProps) {
       </button>
       <h2 className="panel-title">{displayName}</h2>
       <p className="muted">
-        {locale === "en" ? philosopher.names.zh : philosopher.names.en}
+        {locale === "zh" ? philosopher.names.en : philosopher.names.zh}
         {philosopher.names.native ? ` · ${philosopher.names.native}` : ""}
       </p>
       <div className="result-actions">
@@ -115,15 +115,22 @@ export function PhilosopherPanel({ philosopher }: PhilosopherPanelProps) {
       </p>
       <p>{pickText(philosopher, "summary", locale)}</p>
       <h3>{t("panel.keywords")}</h3>
-      <p>{philosopher.keywordsZh.join(" · ")}</p>
+      <p>
+        {(locale === "es" && philosopher.keywordsEs?.length
+          ? philosopher.keywordsEs
+          : locale === "en" && philosopher.keywordsEn?.length
+            ? philosopher.keywordsEn
+            : philosopher.keywordsZh
+        ).join(" · ")}
+      </p>
       {philosopherWorks.length > 0 && (
         <section>
           <h3>{t("panel.works")}</h3>
           <ul className="works-list">
             {philosopherWorks.map((work) => (
               <li key={work.id}>
-                <span>{locale === "en" && work.titleEn ? work.titleEn : work.titleZh}</span>
-                {locale === "en" ? (
+                <span>{locale !== "zh" && work.titleEn ? work.titleEn : work.titleZh}</span>
+                {locale !== "zh" ? (
                   <span className="muted"> · {work.titleZh}</span>
                 ) : (
                   work.titleEn && <span className="muted"> · {work.titleEn}</span>
