@@ -1,0 +1,788 @@
+[
+  {
+    "id": "dilthey",
+    "en": "Wilhelm Dilthey",
+    "oneLineEn": "Brought the historical life-world into method via Geisteswissenschaften, Erlebnis, and Verstehen.",
+    "oneLineZh": "以精神科学、体验和理解理论把历史生命世界纳入哲学方法论。",
+    "keywordsEn": [
+      "Geisteswissenschaften",
+      "understanding (Verstehen)",
+      "lived experience (Erlebnis)",
+      "historical world",
+      "worldview"
+    ],
+    "keywordsZh": [
+      "精神科学",
+      "理解",
+      "体验",
+      "历史世界",
+      "世界观"
+    ]
+  },
+  {
+    "id": "gadamer",
+    "en": "Hans-Georg Gadamer",
+    "oneLineEn": "Extended hermeneutics from method to ontology via effective history, fusion of horizons, and linguisticality.",
+    "oneLineZh": "以效果历史、视域融合和语言性把解释学从方法论扩展为哲学本体论。",
+    "keywordsEn": [
+      "philosophical hermeneutics",
+      "effective history",
+      "fusion of horizons",
+      "language",
+      "Truth and Method"
+    ],
+    "keywordsZh": [
+      "哲学解释学",
+      "效果历史",
+      "视域融合",
+      "语言",
+      "真理与方法"
+    ]
+  },
+  {
+    "id": "jaspers",
+    "en": "Karl Jaspers",
+    "oneLineEn": "Connected Kierkegaard, Nietzsche, Heidegger, and Arendt through Existenz, limit situations, and the Axial Age.",
+    "oneLineZh": "以生存哲学、界限处境和轴心时代思想连接克尔凯郭尔、尼采、海德格尔与阿伦特。",
+    "keywordsEn": [
+      "Existenz",
+      "limit situations",
+      "the Encompassing",
+      "Axial Age",
+      "the question of guilt"
+    ],
+    "keywordsZh": [
+      "生存",
+      "界限处境",
+      "包围者",
+      "轴心时代",
+      "罪责问题"
+    ]
+  },
+  {
+    "id": "sextus-empiricus",
+    "en": "Sextus Empiricus",
+    "oneLineEn": "Preserved ancient Pyrrhonism in the Outlines and Against the Professors, a hub for early modern skeptical revival.",
+    "oneLineZh": "以《皮浪主义纲要》和《反学者》保存古代皮浪主义，并成为近代怀疑论复兴的文本枢纽。",
+    "keywordsEn": [
+      "suspension of judgment (epochē)",
+      "equipollence",
+      "ataraxia",
+      "Pyrrhonism",
+      "anti-dogmatism"
+    ],
+    "keywordsZh": [
+      "悬搁判断",
+      "等势论证",
+      "宁静",
+      "皮浪主义",
+      "反独断论"
+    ]
+  },
+  {
+    "id": "duns-scotus",
+    "en": "John Duns Scotus",
+    "oneLineEn": "Scholastic link between Aquinas and Ockham via univocity of being, formal distinction, and individuation theory.",
+    "oneLineZh": "以存在单义性、形式区别和个体性理论构成阿奎那与奥卡姆之间的经院哲学关键中环。",
+    "keywordsEn": [
+      "univocity of being",
+      "individuality (haecceity)",
+      "formal distinction",
+      "priority of the will",
+      "Immaculate Conception"
+    ],
+    "keywordsZh": [
+      "存在单义性",
+      "个体性",
+      "形式区别",
+      "意志优先",
+      "无染原罪"
+    ]
+  },
+  {
+    "id": "al-kindi",
+    "en": "al-Kindi",
+    "oneLineEn": "Founding figure of Arabic philosophy uniting the Greek translation movement, first philosophy, and Islamic monotheism.",
+    "oneLineZh": "作为阿拉伯哲学源头人物，把希腊哲学翻译运动、第一哲学和伊斯兰一神论组织到同一项目中。",
+    "keywordsEn": [
+      "Arabic philosophy",
+      "first philosophy",
+      "translation movement",
+      "intellect",
+      "creation"
+    ],
+    "keywordsZh": [
+      "阿拉伯哲学",
+      "第一哲学",
+      "翻译运动",
+      "理智",
+      "创造"
+    ]
+  },
+  {
+    "id": "suhrawardi",
+    "en": "Shihab al-Din Suhrawardi",
+    "oneLineEn": "Recast Ibn Sina, Platonic light metaphysics, and knowledge by presence into Illuminationist Islamic philosophy.",
+    "oneLineZh": "以照明哲学把伊本·西那传统、柏拉图主义光形而上学和临现知识改造成伊斯兰哲学新路线。",
+    "keywordsEn": [
+      "Illuminationist philosophy",
+      "light",
+      "knowledge by presence",
+      "critique of Ibn Sina",
+      "Oriental philosophy"
+    ],
+    "keywordsZh": [
+      "照明哲学",
+      "光",
+      "临现知识",
+      "伊本·西那批判",
+      "东方哲学"
+    ]
+  },
+  {
+    "id": "ibn-arabi",
+    "en": "Ibn ʿArabi",
+    "oneLineEn": "Shaped Islamic mystical metaphysics via oneness of being, Perfect Human, imagination, and divine names.",
+    "oneLineZh": "以存在一性、完人、想象和神名理论塑造伊斯兰神秘形而上学，并深刻影响穆拉·萨德拉。",
+    "keywordsEn": [
+      "oneness of being (wahdat al-wujud)",
+      "Perfect Human",
+      "imagination",
+      "divine names",
+      "Meccan Revelations"
+    ],
+    "keywordsZh": [
+      "存在一性",
+      "完人",
+      "想象",
+      "神名",
+      "麦加启示"
+    ]
+  },
+  {
+    "id": "han-feizi",
+    "en": "Han Fei",
+    "oneLineEn": "Systematized late Warring States Legalism by uniting law, statecraft, power, and forms-and-names doctrine.",
+    "oneLineZh": "综合法、术、势与刑名之学，构成战国末期法家政治哲学的系统表达。",
+    "keywordsEn": [
+      "law (fa)",
+      "statecraft (shu)",
+      "positional power (shi)",
+      "forms and names (xingming)",
+      "monarchical centralization"
+    ],
+    "keywordsZh": [
+      "法",
+      "术",
+      "势",
+      "刑名",
+      "君主集权"
+    ]
+  },
+  {
+    "id": "huineng",
+    "en": "Huineng",
+    "oneLineEn": "Shaped Southern Chan via sudden enlightenment, self-nature, no-thought, and nondual samadhi-prajna (Platform Sutra).",
+    "oneLineZh": "以《坛经》中的顿悟、自性、无念和定慧不二塑造中国禅宗南宗经典形象。",
+    "keywordsEn": [
+      "sudden enlightenment",
+      "no-thought",
+      "self-nature",
+      "nonduality of samadhi and prajna",
+      "Platform Sutra"
+    ],
+    "keywordsZh": [
+      "顿悟",
+      "无念",
+      "自性",
+      "定慧不二",
+      "坛经"
+    ]
+  },
+  {
+    "id": "zhang-zai",
+    "en": "Zhang Zai",
+    "oneLineEn": "Founded Northern Song qi ontology through Great Void as qi, all people as siblings, and virtue cultivation practice.",
+    "oneLineZh": "以太虚即气、民胞物与和成德工夫奠定北宋道学气本论传统。",
+    "keywordsEn": [
+      "qi",
+      "Great Void",
+      "all people as siblings, all things as companions",
+      "Zhang Zai's Four Sentences",
+      "Correcting Youthful Ignorance"
+    ],
+    "keywordsZh": [
+      "气",
+      "太虚",
+      "民胞物与",
+      "横渠四句",
+      "正蒙"
+    ]
+  },
+  {
+    "id": "dignaga",
+    "en": "Dignāga",
+    "oneLineEn": "Founded Buddhist pramana theory, limiting valid cognition to perception and inference, with apoha semantics.",
+    "oneLineZh": "以《集量论》奠定佛教量论，把有效认知限定为现量与比量，并提出遮诠语言理论。",
+    "keywordsEn": [
+      "pramana theory",
+      "perception (pratyaksa)",
+      "inference (anumana)",
+      "hetuvidya (Buddhist logic)",
+      "apoha (exclusion)"
+    ],
+    "keywordsZh": [
+      "量论",
+      "现量",
+      "比量",
+      "因明",
+      "遮诠"
+    ]
+  },
+  {
+    "id": "wollstonecraft",
+    "en": "Mary Wollstonecraft",
+    "oneLineEn": "Critiqued Enlightenment gender order through women's rational education and civic equality.",
+    "oneLineZh": "以女性理性教育和公民平等批判启蒙时代的性别秩序。",
+    "keywordsEn": [
+      "rights of woman",
+      "rational education",
+      "critique of Rousseau",
+      "civic virtue"
+    ],
+    "keywordsZh": [
+      "女性权利",
+      "理性教育",
+      "卢梭批判",
+      "公民德性"
+    ]
+  },
+  {
+    "id": "anscombe",
+    "en": "G. E. M. Anscombe",
+    "oneLineEn": "Helped revive virtue ethics through analysis of intentional action and critique of modern moral philosophy.",
+    "oneLineZh": "以意向行动分析和现代道德哲学批判推动德性伦理复兴。",
+    "keywordsEn": [
+      "intention",
+      "philosophy of action",
+      "virtue ethics",
+      "Wittgenstein"
+    ],
+    "keywordsZh": [
+      "意向",
+      "行动哲学",
+      "德性伦理",
+      "维特根斯坦"
+    ]
+  },
+  {
+    "id": "rosenzweig",
+    "en": "Franz Rosenzweig",
+    "oneLineEn": "Countered totalizing systems in The Star of Redemption and opened a modern Jewish dialogical philosophy.",
+    "oneLineZh": "以《救赎之星》反击总体体系，并开出现代犹太对话哲学路线。",
+    "keywordsEn": [
+      "The Star of Redemption",
+      "revelation",
+      "dialogue",
+      "anti-Hegelianism"
+    ],
+    "keywordsZh": [
+      "救赎之星",
+      "启示",
+      "对话",
+      "反黑格尔"
+    ]
+  },
+  {
+    "id": "fanon",
+    "en": "Frantz Fanon",
+    "oneLineEn": "Linked existentialism and postcolonial thought through colonial psychology and theories of national liberation.",
+    "oneLineZh": "以殖民心理分析和民族解放理论连接存在主义与后殖民思想。",
+    "keywordsEn": [
+      "colonial psychology",
+      "subject formation",
+      "national liberation",
+      "postcolonial"
+    ],
+    "keywordsZh": [
+      "殖民心理",
+      "主体形成",
+      "民族解放",
+      "后殖民"
+    ]
+  },
+  {
+    "id": "freire",
+    "en": "Paulo Freire",
+    "oneLineEn": "Founded critical pedagogy through dialogue, conscientization, and critique of banking-model education.",
+    "oneLineZh": "以对话、意识化和银行式教育批判奠定批判教育学。",
+    "keywordsEn": [
+      "Pedagogy of the Oppressed",
+      "conscientization",
+      "dialogue",
+      "critique of banking education"
+    ],
+    "keywordsZh": [
+      "被压迫者教育学",
+      "意识化",
+      "对话",
+      "银行式教育批判"
+    ]
+  },
+  {
+    "id": "horkheimer",
+    "en": "Max Horkheimer",
+    "oneLineEn": "Recast Marxist social philosophy as a diagnosis of modernity via critical theory and critique of instrumental reason.",
+    "oneLineZh": "以批判理论和工具理性批判把马克思主义社会哲学改造为现代性诊断。",
+    "keywordsEn": [
+      "critical theory",
+      "instrumental reason",
+      "Frankfurt School",
+      "Dialectic of Enlightenment"
+    ],
+    "keywordsZh": [
+      "批判理论",
+      "工具理性",
+      "法兰克福学派",
+      "启蒙辩证法"
+    ]
+  },
+  {
+    "id": "adorno",
+    "en": "Theodor W. Adorno",
+    "oneLineEn": "Exposed social domination in identity thinking via negative dialectics, culture industry, and modernist aesthetics.",
+    "oneLineZh": "以否定辩证法、文化工业批判和现代主义美学揭示同一性思维中的社会支配。",
+    "keywordsEn": [
+      "negative dialectics",
+      "culture industry",
+      "modernist art",
+      "critique of identity thinking"
+    ],
+    "keywordsZh": [
+      "否定辩证法",
+      "文化工业",
+      "现代主义艺术",
+      "同一性批判"
+    ]
+  },
+  {
+    "id": "benjamin",
+    "en": "Walter Benjamin",
+    "oneLineEn": "Remade media-critical modernity via art under mechanical reproduction, history, and urban fragment writing.",
+    "oneLineZh": "以机械复制时代艺术、历史哲学和城市碎片书写重塑现代性批判的媒介维度。",
+    "keywordsEn": [
+      "aura",
+      "mechanical reproduction",
+      "angel of history",
+      "Arcades Project",
+      "messianic time"
+    ],
+    "keywordsZh": [
+      "灵韵",
+      "机械复制",
+      "历史天使",
+      "拱廊计划",
+      "弥赛亚时间"
+    ]
+  },
+  {
+    "id": "cohen",
+    "en": "Hermann Cohen",
+    "oneLineEn": "Linked Kantian tradition to Rosenzweig via Marburg Neo-Kantianism and Jewish rational religion philosophy.",
+    "oneLineZh": "以马堡新康德主义和犹太理性宗教哲学连接康德传统与罗森茨维格。",
+    "keywordsEn": [
+      "Marburg School",
+      "Neo-Kantianism",
+      "pure cognition",
+      "pure will",
+      "religion of reason"
+    ],
+    "keywordsZh": [
+      "马堡学派",
+      "新康德主义",
+      "纯粹认识",
+      "纯粹意志",
+      "理性宗教"
+    ]
+  },
+  {
+    "id": "eckhart",
+    "en": "Meister Eckhart",
+    "oneLineEn": "Pushed scholastic theology into German mysticism's core via detachment, poverty of spirit, and mystical union.",
+    "oneLineZh": "以离执、灵魂贫乏和神秘合一把经院神学推进到德语神秘主义核心。",
+    "keywordsEn": [
+      "detachment (Abgeschiedenheit)",
+      "poverty of spirit",
+      "birth of God in the soul",
+      "negative theology",
+      "Gelassenheit"
+    ],
+    "keywordsZh": [
+      "离执",
+      "灵魂贫乏",
+      "神在灵魂中诞生",
+      "否定神学",
+      "泰然任之"
+    ]
+  },
+  {
+    "id": "cusa",
+    "en": "Nicholas of Cusa",
+    "oneLineEn": "Moved medieval theology toward Renaissance metaphysics via learned ignorance, coincidence of opposites, and infinity.",
+    "oneLineZh": "以有学问的无知、对立相合和无限者问题把中世纪神学推向文艺复兴形而上学。",
+    "keywordsEn": [
+      "learned ignorance",
+      "coincidence of opposites",
+      "the absolute Maximum",
+      "conjecture",
+      "peace of faith"
+    ],
+    "keywordsZh": [
+      "有学问的无知",
+      "对立相合",
+      "无限最大者",
+      "猜测",
+      "宗教和平"
+    ]
+  },
+  {
+    "id": "vico",
+    "en": "Giambattista Vico",
+    "oneLineEn": "Opened history, law, myth, and language as a human-made world through verum factum and the New Science.",
+    "oneLineZh": "以 verum factum 原则和《新科学》开出历史、法、神话和语言的人类自造世界。",
+    "keywordsEn": [
+      "New Science",
+      "verum factum",
+      "poetic wisdom",
+      "world of nations",
+      "anti-Cartesianism"
+    ],
+    "keywordsZh": [
+      "新科学",
+      "verum factum",
+      "诗性智慧",
+      "民族世界",
+      "反笛卡尔"
+    ]
+  },
+  {
+    "id": "herder",
+    "en": "Johann Gottfried Herder",
+    "oneLineEn": "Critiqued abstract universalism via language, national spirit, and historical individuality; shaped German historicism.",
+    "oneLineZh": "以语言、民族精神和历史个体性批判抽象普遍主义，塑造德国历史主义与浪漫主义前史。",
+    "keywordsEn": [
+      "origin of language",
+      "national spirit (Volksgeist)",
+      "historicism",
+      "humanity (Humanität)",
+      "cultural diversity"
+    ],
+    "keywordsZh": [
+      "语言起源",
+      "民族精神",
+      "历史主义",
+      "人道",
+      "文化多样性"
+    ]
+  },
+  {
+    "id": "iqbal",
+    "en": "Muhammad Iqbal",
+    "oneLineEn": "Answered modernity's religion and self problems via self-philosophy, Islamic reconstruction, and poetic politics.",
+    "oneLineZh": "以自我哲学、伊斯兰思想重构和诗性政治想象回应现代性中的宗教与主体问题。",
+    "keywordsEn": [
+      "the self",
+      "khudi (selfhood)",
+      "reconstruction of Islamic thought",
+      "creative process",
+      "spiritual democracy"
+    ],
+    "keywordsZh": [
+      "自我",
+      "胡迪",
+      "伊斯兰重构",
+      "创造性进程",
+      "精神民主"
+    ]
+  },
+  {
+    "id": "dharmakirti",
+    "en": "Dharmakīrti",
+    "oneLineEn": "Pushed post-Dignaga Buddhist epistemology to its Indo-Tibetan peak through pramana, logic, and apoha exclusion.",
+    "oneLineZh": "以量论、因明和语言排除论把陈那之后的佛教认识论推向印度与藏传传统的高峰。",
+    "keywordsEn": [
+      "pramana theory",
+      "perception (pratyaksa)",
+      "inference (anumana)",
+      "apoha",
+      "momentariness"
+    ],
+    "keywordsZh": [
+      "量论",
+      "现量",
+      "比量",
+      "apoha",
+      "刹那灭"
+    ]
+  },
+  {
+    "id": "shinran",
+    "en": "Shinran",
+    "oneLineEn": "Remade Japanese Pure Land via other-power faith, grateful nembutsu, and ordinary-person awareness; founded Jodo Shinshu.",
+    "oneLineZh": "以他力信心、念佛感恩和凡夫自觉重塑日本净土传统，奠定净土真宗。",
+    "keywordsEn": [
+      "other-power (tariki)",
+      "shinjin (entrusting faith)",
+      "nembutsu",
+      "the evil person as the true object",
+      "Jodo Shinshu"
+    ],
+    "keywordsZh": [
+      "他力",
+      "信心",
+      "念佛",
+      "恶人正机",
+      "净土真宗"
+    ]
+  },
+  {
+    "id": "cheng-yi",
+    "en": "Cheng Yi",
+    "oneLineEn": "Set Cheng-Zhu Learning via Heavenly Principle, investigation of things, and reverential cultivation; source for Zhu Xi.",
+    "oneLineZh": "以天理、格物和敬的修养论奠定程朱理学的核心方向，成为朱熹思想直接源头。",
+    "keywordsEn": [
+      "Heavenly Principle",
+      "investigation of things",
+      "reverential attentiveness (jing)",
+      "nature is principle",
+      "Cheng-Zhu Learning"
+    ],
+    "keywordsZh": [
+      "天理",
+      "格物",
+      "敬",
+      "性即理",
+      "程朱理学"
+    ]
+  },
+  {
+    "id": "feng-youlan",
+    "en": "Feng Youlan",
+    "oneLineEn": "Translated Chinese classical thought into 20th-c. problems via modern historiography and New Rational Philosophy.",
+    "oneLineZh": "以现代哲学史写作和新理学体系把中国传统义理转译为二十世纪哲学问题。",
+    "keywordsEn": [
+      "New Rational Philosophy",
+      "history of Chinese philosophy",
+      "realms of life",
+      "principle (li)",
+      "modern Confucianism"
+    ],
+    "keywordsZh": [
+      "新理学",
+      "中国哲学史",
+      "人生境界",
+      "理",
+      "现代儒学"
+    ]
+  },
+  {
+    "id": "mou-zongsan",
+    "en": "Mou Zongsan",
+    "oneLineEn": "Built modern New Confucian moral metaphysics from Kantian critique, intellectual intuition, and liangzhi theory.",
+    "oneLineZh": "以康德批判、智的直觉和儒家良知论建立现代新儒家的道德形上学。",
+    "keywordsEn": [
+      "moral metaphysics",
+      "intellectual intuition",
+      "liangzhi (innate moral knowing)",
+      "two-level ontology",
+      "perfect good"
+    ],
+    "keywordsZh": [
+      "道德形上学",
+      "智的直觉",
+      "良知",
+      "两层存有论",
+      "圆善"
+    ]
+  },
+  {
+    "id": "simone-weil",
+    "en": "Simone Weil",
+    "oneLineEn": "Joined mysticism, ethics, and modern political critique via attention, affliction, force, obligation, and rootedness.",
+    "oneLineZh": "以注意力、苦难、力量、义务和扎根思想连接神秘主义、伦理学与现代政治批判。",
+    "keywordsEn": [
+      "attention",
+      "affliction",
+      "Gravity and Grace",
+      "rootedness",
+      "obligation"
+    ],
+    "keywordsZh": [
+      "注意力",
+      "苦难",
+      "重力与恩典",
+      "根",
+      "义务"
+    ]
+  },
+  {
+    "id": "mariategui",
+    "en": "José Carlos Mariátegui",
+    "oneLineEn": "A major source of Latin American Marxism via Peruvian reality, Indigenous land questions, and creative socialism.",
+    "oneLineZh": "以秘鲁现实分析、印第安土地问题和创造性社会主义构成拉丁美洲马克思主义的重要源头。",
+    "keywordsEn": [
+      "Peruvian reality",
+      "land question",
+      "Indigenous question",
+      "creative socialism",
+      "Amauta"
+    ],
+    "keywordsZh": [
+      "秘鲁现实",
+      "土地问题",
+      "印第安问题",
+      "创造性社会主义",
+      "阿毛塔"
+    ]
+  },
+  {
+    "id": "zera-yacob",
+    "en": "Zera Yacob",
+    "oneLineEn": "Organized faith, reason, natural light, and ethical equality in the Hatata into Ethiopian rationalism.",
+    "oneLineZh": "以《探究》把信仰、理性、自然光和伦理平等组织为埃塞俄比亚理性主义传统。",
+    "keywordsEn": [
+      "Hatata (Inquiry)",
+      "reason",
+      "natural light",
+      "religious toleration",
+      "equality"
+    ],
+    "keywordsZh": [
+      "探究",
+      "理性",
+      "自然光",
+      "宗教宽容",
+      "平等"
+    ]
+  },
+  {
+    "id": "walda-heywat",
+    "en": "Walda Heywat",
+    "oneLineEn": "Extended Zera Yacob's rational inquiry into education, family, labor, and social responsibility.",
+    "oneLineZh": "承接泽拉·雅各布的理性探究，把自然理性推进到教育、家庭、劳动和社会责任问题。",
+    "keywordsEn": [
+      "Hatata (Inquiry)",
+      "social ethics",
+      "education",
+      "religion of reason",
+      "practical wisdom"
+    ],
+    "keywordsZh": [
+      "探究",
+      "社会伦理",
+      "教育",
+      "理性宗教",
+      "实践智慧"
+    ]
+  },
+  {
+    "id": "edward-blyden",
+    "en": "Edward Wilmot Blyden",
+    "oneLineEn": "Early language for Pan-African thought via African personality, comparative religion, and educational critique.",
+    "oneLineZh": "以非洲人格、宗教比较和教育批判奠定泛非思想与非洲现代主体性的早期语言。",
+    "keywordsEn": [
+      "African personality",
+      "Pan-Africanism",
+      "education",
+      "Islam",
+      "critique of colonialism"
+    ],
+    "keywordsZh": [
+      "非洲人格",
+      "泛非主义",
+      "教育",
+      "伊斯兰",
+      "殖民批判"
+    ]
+  },
+  {
+    "id": "nkrumah",
+    "en": "Kwame Nkrumah",
+    "oneLineEn": "Key post-independence African political philosopher via consciencism, Pan-African unity, and neocolonial critique.",
+    "oneLineZh": "以良知主义、泛非统一和新殖民主义批判构成独立后非洲政治哲学的重要节点。",
+    "keywordsEn": [
+      "consciencism",
+      "Pan-African unity",
+      "neocolonialism",
+      "African socialism",
+      "anti-imperialism"
+    ],
+    "keywordsZh": [
+      "良知主义",
+      "泛非统一",
+      "新殖民主义",
+      "非洲社会主义",
+      "反帝国主义"
+    ]
+  },
+  {
+    "id": "macintyre",
+    "en": "Alasdair MacIntyre",
+    "oneLineEn": "Major anti-liberal, anti-emotivist program in modern moral philosophy built on virtue, practice, and tradition.",
+    "oneLineZh": "以德性、实践和传统构成现代道德哲学中反自由主义与反情感主义的重要方案。",
+    "keywordsEn": [
+      "virtue ethics",
+      "practice",
+      "tradition",
+      "narrative unity",
+      "fragmentation of modern morality"
+    ],
+    "keywordsZh": [
+      "德性伦理",
+      "实践",
+      "传统",
+      "叙事统一",
+      "现代道德碎片化"
+    ]
+  },
+  {
+    "id": "rorty",
+    "en": "Richard Rorty",
+    "oneLineEn": "Rejoined analytic philosophy, Deweyan tradition, and liberal democracy via anti-representationalism and neopragmatism.",
+    "oneLineZh": "以反表象主义和新实用主义把分析哲学、德威传统和自由民主文化重新连接。",
+    "keywordsEn": [
+      "neopragmatism",
+      "anti-representationalism",
+      "vocabulary",
+      "liberal ironist",
+      "democratic hope"
+    ],
+    "keywordsZh": [
+      "新实用主义",
+      "反表象主义",
+      "词汇",
+      "自由主义反讽",
+      "民主希望"
+    ]
+  },
+  {
+    "id": "kripke",
+    "en": "Saul Kripke",
+    "oneLineEn": "Remade late 20th-c. philosophy of language and metaphysics via modal logic, rigid designation, and naming.",
+    "oneLineZh": "以模态逻辑、刚性指称和命名理论重塑二十世纪后期语言哲学与形而上学。",
+    "keywordsEn": [
+      "rigid designation",
+      "necessity",
+      "possible worlds",
+      "naming",
+      "rule-following"
+    ],
+    "keywordsZh": [
+      "刚性指称",
+      "必然性",
+      "可能世界",
+      "命名",
+      "规则遵循"
+    ]
+  }
+]

@@ -1,0 +1,662 @@
+[
+  {
+    "id": "aj-ayer",
+    "batch": "2026-07-23-p0-batch-024",
+    "names": {
+      "zh": "A. J. 艾耶尔",
+      "en": "A. J. Ayer"
+    },
+    "oneLineZh": "《语言、真理与逻辑》把维也纳学派带入英语世界。",
+    "keywordsZh": [
+      "逻辑实证主义",
+      "可证实原则",
+      "情感主义"
+    ],
+    "oneLineEn": "Language, Truth and Logic brought the Vienna Circle into the English-speaking world.",
+    "keywordsEn": [
+      "logical positivism",
+      "verification principle",
+      "emotivism"
+    ],
+    "civilization": "western",
+    "tier": "seed"
+  },
+  {
+    "id": "alain-locke",
+    "batch": "2026-07-23-p0-batch-024",
+    "names": {
+      "zh": "阿兰·洛克",
+      "en": "Alain Locke"
+    },
+    "oneLineZh": "哈莱姆文艺复兴的哲学阐释者，以价值多元主义论述文化差异。",
+    "keywordsZh": [
+      "价值多元主义",
+      "哈莱姆文艺复兴",
+      "文化多元"
+    ],
+    "oneLineEn": "Philosophical interpreter of the Harlem Renaissance; argued value pluralism across cultural difference.",
+    "keywordsEn": [
+      "value pluralism",
+      "Harlem Renaissance",
+      "cultural pluralism"
+    ],
+    "civilization": "western",
+    "tier": "seed"
+  },
+  {
+    "id": "alexandre-kojeve",
+    "batch": "2026-07-23-p0-batch-024",
+    "names": {
+      "zh": "亚历山大·科耶夫",
+      "en": "Alexandre Kojève"
+    },
+    "oneLineZh": "以主奴辩证法讲授《精神现象学》，塑造了整整一代法国思想家。",
+    "keywordsZh": [
+      "黑格尔解释",
+      "主奴辩证法",
+      "历史终结"
+    ],
+    "oneLineEn": "Lectures on the Phenomenology via master-slave dialectic shaped a generation of French thinkers.",
+    "keywordsEn": [
+      "Hegel interpretation",
+      "master-slave dialectic",
+      "end of history"
+    ],
+    "civilization": "western",
+    "tier": "seed"
+  },
+  {
+    "id": "alexius-meinong",
+    "batch": "2026-07-23-p0-batch-024",
+    "names": {
+      "zh": "阿莱克修斯·迈农",
+      "en": "Alexius Meinong"
+    },
+    "oneLineZh": "对象论创立者，主张非存在的对象亦有其所是，深刻影响指称理论与本体论争论。",
+    "keywordsZh": [
+      "对象论",
+      "非存在对象",
+      "格拉茨学派"
+    ],
+    "oneLineEn": "Founder of the theory of objects; non-existent objects still have a way of being, shaping ontology debates.",
+    "keywordsEn": [
+      "theory of objects",
+      "non-existent objects",
+      "Graz School"
+    ],
+    "civilization": "western",
+    "tier": "seed"
+  },
+  {
+    "id": "alvin-plantinga",
+    "batch": "2026-07-23-p0-batch-024",
+    "names": {
+      "zh": "阿尔文·普兰廷加",
+      "en": "Alvin Plantinga"
+    },
+    "oneLineZh": "改革宗认识论与模态本体论证代表，主张有神论信念可以是基础信念。",
+    "keywordsZh": [
+      "宗教哲学",
+      "改革宗认识论",
+      "模态本体论证"
+    ],
+    "oneLineEn": "Reformed epistemology and modal ontological argument; theistic belief can be properly basic.",
+    "keywordsEn": [
+      "philosophy of religion",
+      "Reformed epistemology",
+      "modal ontological argument"
+    ],
+    "civilization": "western",
+    "tier": "seed"
+  },
+  {
+    "id": "bachelard",
+    "batch": "2026-07-23-p0-batch-024",
+    "names": {
+      "zh": "加斯东·巴什拉",
+      "en": "Gaston Bachelard"
+    },
+    "oneLineZh": "以认识论断裂和认识论障碍重构科学史，同时写物质想象的诗学。",
+    "keywordsZh": [
+      "认识论断裂",
+      "认识论障碍",
+      "想象诗学"
+    ],
+    "oneLineEn": "Recast history of science through epistemological break and obstacle, plus a poetics of material imagination.",
+    "keywordsEn": [
+      "epistemological break",
+      "epistemological obstacle",
+      "poetics of imagination"
+    ],
+    "civilization": "western",
+    "tier": "seed"
+  },
+  {
+    "id": "badiou",
+    "batch": "2026-07-23-p0-batch-024",
+    "names": {
+      "zh": "阿兰·巴迪欧",
+      "en": "Alain Badiou"
+    },
+    "oneLineZh": "《存在与事件》以集合论建构本体论和事件性的真理观。",
+    "keywordsZh": [
+      "事件",
+      "集合论本体论",
+      "真理程序"
+    ],
+    "oneLineEn": "Being and Event builds ontology and an evental conception of truth on set theory.",
+    "keywordsEn": [
+      "event",
+      "set-theoretic ontology",
+      "truth procedures"
+    ],
+    "civilization": "western",
+    "tier": "seed"
+  },
+  {
+    "id": "baudrillard",
+    "batch": "2026-07-23-p0-batch-024",
+    "names": {
+      "zh": "让·鲍德里亚",
+      "en": "Jean Baudrillard"
+    },
+    "oneLineZh": "以拟像与超真实理论剖析消费社会的符号逻辑。",
+    "keywordsZh": [
+      "拟像",
+      "消费社会",
+      "超真实"
+    ],
+    "oneLineEn": "Analyzed consumer society's symbolic logic through simulacra and hyperreality.",
+    "keywordsEn": [
+      "simulacra",
+      "consumer society",
+      "hyperreality"
+    ],
+    "civilization": "western",
+    "tier": "seed"
+  },
+  {
+    "id": "bourdieu",
+    "batch": "2026-07-23-p0-batch-024",
+    "names": {
+      "zh": "皮埃尔·布迪厄",
+      "en": "Pierre Bourdieu"
+    },
+    "oneLineZh": "以惯习、场域和文化资本构建社会实践理论。",
+    "keywordsZh": [
+      "惯习",
+      "场域",
+      "文化资本"
+    ],
+    "oneLineEn": "Built a theory of social practice around habitus, field, and cultural capital.",
+    "keywordsEn": [
+      "habitus",
+      "field",
+      "cultural capital"
+    ],
+    "civilization": "western",
+    "tier": "seed"
+  },
+  {
+    "id": "bruno-latour",
+    "batch": "2026-07-23-p0-batch-024",
+    "names": {
+      "zh": "布鲁诺·拉图尔",
+      "en": "Bruno Latour"
+    },
+    "oneLineZh": "以行动者网络理论把物一并纳入社会分析。",
+    "keywordsZh": [
+      "行动者网络",
+      "科学人类学",
+      "非人行动者"
+    ],
+    "oneLineEn": "Actor-network theory brings nonhumans into social analysis.",
+    "keywordsEn": [
+      "actor-network theory",
+      "anthropology of science",
+      "nonhuman actors"
+    ],
+    "civilization": "western",
+    "tier": "seed"
+  },
+  {
+    "id": "brunschvicg",
+    "batch": "2026-07-23-p0-batch-024",
+    "names": {
+      "zh": "莱昂·布伦茨维格",
+      "en": "Léon Brunschvicg"
+    },
+    "oneLineZh": "以判断哲学和科学精神史成为法国认识论学院的枢纽。",
+    "keywordsZh": [
+      "判断哲学",
+      "科学精神史",
+      "法国认识论"
+    ],
+    "oneLineEn": "Hub of French academic epistemology via philosophy of judgment and history of the scientific spirit.",
+    "keywordsEn": [
+      "philosophy of judgment",
+      "history of the scientific spirit",
+      "French epistemology"
+    ],
+    "civilization": "western",
+    "tier": "seed"
+  },
+  {
+    "id": "canguilhem",
+    "batch": "2026-07-23-p0-batch-024",
+    "names": {
+      "zh": "乔治·康吉莱姆",
+      "en": "Georges Canguilhem"
+    },
+    "oneLineZh": "《正常与病态》以生命的规范性重写医学哲学，是福柯的直系导师。",
+    "keywordsZh": [
+      "正常与病态",
+      "生命科学史",
+      "医学哲学"
+    ],
+    "oneLineEn": "The Normal and the Pathological rewrote philosophy of medicine via vital normativity; Foucault's mentor.",
+    "keywordsEn": [
+      "the normal and the pathological",
+      "history of the life sciences",
+      "philosophy of medicine"
+    ],
+    "civilization": "western",
+    "tier": "seed"
+  },
+  {
+    "id": "cavailles",
+    "batch": "2026-07-23-p0-batch-024",
+    "names": {
+      "zh": "让·卡瓦耶斯",
+      "en": "Jean Cavaillès"
+    },
+    "oneLineZh": "以概念哲学对抗意识哲学，参加抵抗运动而被处决。",
+    "keywordsZh": [
+      "概念哲学",
+      "数学哲学",
+      "抵抗运动"
+    ],
+    "oneLineEn": "Opposed philosophy of consciousness with a philosophy of the concept; executed for Resistance activity.",
+    "keywordsEn": [
+      "philosophy of the concept",
+      "philosophy of mathematics",
+      "Resistance"
+    ],
+    "civilization": "western",
+    "tier": "seed"
+  },
+  {
+    "id": "cd-broad",
+    "batch": "2026-07-23-p0-batch-024",
+    "names": {
+      "zh": "C. D. 布罗德",
+      "en": "C. D. Broad"
+    },
+    "oneLineZh": "心灵哲学、伦理学与形而上学的剑桥综合者，以细致分类和折衷立场著称。",
+    "keywordsZh": [
+      "剑桥分析",
+      "心灵哲学",
+      "批判哲学史"
+    ],
+    "oneLineEn": "Cambridge synthesizer of mind, ethics, and metaphysics, known for fine classification and moderate eclecticism.",
+    "keywordsEn": [
+      "Cambridge analysis",
+      "philosophy of mind",
+      "critical history of philosophy"
+    ],
+    "civilization": "western",
+    "tier": "seed"
+  },
+  {
+    "id": "ci-lewis",
+    "batch": "2026-07-23-p0-batch-024",
+    "names": {
+      "zh": "克拉伦斯·欧文·刘易斯",
+      "en": "C. I. Lewis"
+    },
+    "oneLineZh": "概念实用主义与模态逻辑代表，以严格蕴涵回应实质蕴涵悖论。",
+    "keywordsZh": [
+      "模态逻辑",
+      "概念实用主义",
+      "严格蕴涵"
+    ],
+    "oneLineEn": "Conceptual pragmatism and modal logic; strict implication answered material-implication paradoxes.",
+    "keywordsEn": [
+      "modal logic",
+      "conceptual pragmatism",
+      "strict implication"
+    ],
+    "civilization": "western",
+    "tier": "seed"
+  },
+  {
+    "id": "claude-lefort",
+    "batch": "2026-07-23-p0-batch-024",
+    "names": {
+      "zh": "克洛德·勒福尔",
+      "en": "Claude Lefort"
+    },
+    "oneLineZh": "以权力的空位界定民主，并系统批判极权主义。",
+    "keywordsZh": [
+      "民主的空位",
+      "极权批判",
+      "政治哲学"
+    ],
+    "oneLineEn": "Defined democracy by the empty place of power and systematically critiqued totalitarianism.",
+    "keywordsEn": [
+      "empty place of democracy",
+      "critique of totalitarianism",
+      "political philosophy"
+    ],
+    "civilization": "western",
+    "tier": "seed"
+  },
+  {
+    "id": "cornelius-castoriadis",
+    "batch": "2026-07-23-p0-batch-024",
+    "names": {
+      "zh": "科尔内留斯·卡斯托里亚迪斯",
+      "en": "Cornelius Castoriadis"
+    },
+    "oneLineZh": "以社会想象性建制和自治理论构成西方马克思主义的异端。",
+    "keywordsZh": [
+      "自治",
+      "社会想象",
+      "社会主义或野蛮"
+    ],
+    "oneLineEn": "Social imaginary institution and autonomy theory as a heterodox Western Marxism.",
+    "keywordsEn": [
+      "autonomy",
+      "social imaginary",
+      "Socialism or Barbarism"
+    ],
+    "civilization": "western",
+    "tier": "seed"
+  },
+  {
+    "id": "cournot",
+    "batch": "2026-07-23-p0-batch-024",
+    "names": {
+      "zh": "安托万·库尔诺",
+      "en": "Antoine Augustin Cournot"
+    },
+    "oneLineZh": "以概率、经济学与偶然性理论连接实证论与法国认识论传统。",
+    "keywordsZh": [
+      "概率哲学",
+      "偶然性",
+      "科学哲学"
+    ],
+    "oneLineEn": "Linked positivism and French epistemology via probability, economics, and theories of chance.",
+    "keywordsEn": [
+      "philosophy of probability",
+      "contingency",
+      "philosophy of science"
+    ],
+    "civilization": "western",
+    "tier": "seed"
+  },
+  {
+    "id": "david-armstrong",
+    "batch": "2026-07-23-p0-batch-024",
+    "names": {
+      "zh": "大卫·阿姆斯特朗",
+      "en": "D. M. Armstrong"
+    },
+    "oneLineZh": "澳大利亚唯物论代表，以共相实在论和心脑同一论构造形而上学系统。",
+    "keywordsZh": [
+      "科学实在论",
+      "共相",
+      "心脑同一论"
+    ],
+    "oneLineEn": "Australian materialist whose realist universals and mind-brain identity form a metaphysical system.",
+    "keywordsEn": [
+      "scientific realism",
+      "universals",
+      "mind-brain identity theory"
+    ],
+    "civilization": "western",
+    "tier": "seed"
+  },
+  {
+    "id": "duhem",
+    "batch": "2026-07-23-p0-batch-024",
+    "names": {
+      "zh": "皮埃尔·迪昂",
+      "en": "Pierre Duhem"
+    },
+    "oneLineZh": "提出迪昂命题：假说无法孤立检验，为奎因的整体论开路。",
+    "keywordsZh": [
+      "整体论",
+      "不充分决定",
+      "科学史"
+    ],
+    "oneLineEn": "Duhem thesis: hypotheses cannot be tested in isolation; paved the way for Quinean holism.",
+    "keywordsEn": [
+      "holism",
+      "underdetermination",
+      "history of science"
+    ],
+    "civilization": "western",
+    "tier": "seed"
+  },
+  {
+    "id": "emmanuel-mounier",
+    "batch": "2026-07-23-p0-batch-024",
+    "names": {
+      "zh": "埃马纽埃尔·穆尼耶",
+      "en": "Emmanuel Mounier"
+    },
+    "oneLineZh": "人格主义运动创始人，创办《精神》杂志倡导位格与共同体。",
+    "keywordsZh": [
+      "人格主义",
+      "位格",
+      "共同体"
+    ],
+    "oneLineEn": "Founder of the personalist movement; launched Esprit for personhood and community.",
+    "keywordsEn": [
+      "personalism",
+      "person",
+      "community"
+    ],
+    "civilization": "western",
+    "tier": "seed"
+  },
+  {
+    "id": "eric-voegelin",
+    "batch": "2026-07-23-p0-batch-024",
+    "names": {
+      "zh": "埃里克·沃格林",
+      "en": "Eric Voegelin"
+    },
+    "oneLineZh": "以政治宗教和秩序哲学诊断现代性，把灵知主义视作病根。",
+    "keywordsZh": [
+      "政治宗教",
+      "秩序哲学",
+      "灵知主义批判"
+    ],
+    "oneLineEn": "Diagnosed modernity through political religion and philosophy of order, treating Gnosticism as the disease.",
+    "keywordsEn": [
+      "political religion",
+      "philosophy of order",
+      "critique of Gnosticism"
+    ],
+    "civilization": "western",
+    "tier": "seed"
+  },
+  {
+    "id": "ernst-cassirer",
+    "batch": "2026-07-23-p0-batch-024",
+    "names": {
+      "zh": "恩斯特·卡西尔",
+      "en": "Ernst Cassirer"
+    },
+    "oneLineZh": "符号形式哲学的创立者，把神话、语言与科学统一为人的符号化活动。",
+    "keywordsZh": [
+      "符号形式",
+      "新康德主义",
+      "文化哲学"
+    ],
+    "oneLineEn": "Founder of the philosophy of symbolic forms, uniting myth, language, and science as human symbolization.",
+    "keywordsEn": [
+      "symbolic forms",
+      "Neo-Kantianism",
+      "cultural philosophy"
+    ],
+    "civilization": "western",
+    "tier": "seed"
+  },
+  {
+    "id": "ernst-troeltsch",
+    "batch": "2026-07-23-p0-batch-024",
+    "names": {
+      "zh": "恩斯特·特勒尔奇",
+      "en": "Ernst Troeltsch"
+    },
+    "oneLineZh": "历史主义与宗教哲学代表，处理狄尔泰、韦伯与神学现代性的交汇。",
+    "keywordsZh": [
+      "宗教哲学",
+      "历史主义",
+      "基督教社会史"
+    ],
+    "oneLineEn": "Historicism and philosophy of religion at the crossroads of Dilthey, Weber, and theological modernity.",
+    "keywordsEn": [
+      "philosophy of religion",
+      "historicism",
+      "social history of Christianity"
+    ],
+    "civilization": "western",
+    "tier": "seed"
+  },
+  {
+    "id": "etienne-gilson",
+    "batch": "2026-07-23-p0-batch-024",
+    "names": {
+      "zh": "艾蒂安·吉尔松",
+      "en": "Étienne Gilson"
+    },
+    "oneLineZh": "以存在（esse）为核心重释托马斯，推动中世纪哲学史研究。",
+    "keywordsZh": [
+      "中世纪哲学史",
+      "托马斯主义",
+      "存在形而上学"
+    ],
+    "oneLineEn": "Reread Aquinas around esse and advanced the historiography of medieval philosophy.",
+    "keywordsEn": [
+      "history of medieval philosophy",
+      "Thomism",
+      "metaphysics of being"
+    ],
+    "civilization": "western",
+    "tier": "seed"
+  },
+  {
+    "id": "fh-bradley",
+    "batch": "2026-07-23-p0-batch-024",
+    "names": {
+      "zh": "弗朗西斯·赫伯特·布拉德利",
+      "en": "F. H. Bradley"
+    },
+    "oneLineZh": "英国绝对唯心主义代表，以关系的内在性论证成为罗素与摩尔反叛的靶心。",
+    "keywordsZh": [
+      "绝对唯心主义",
+      "内在关系",
+      "现象与实在"
+    ],
+    "oneLineEn": "British absolute idealist; internal relations became a main target of the Russell-Moore revolt.",
+    "keywordsEn": [
+      "absolute idealism",
+      "internal relations",
+      "Appearance and Reality"
+    ],
+    "civilization": "western",
+    "tier": "seed"
+  },
+  {
+    "id": "frank-ramsey",
+    "batch": "2026-07-23-p0-batch-024",
+    "names": {
+      "zh": "弗兰克·拉姆齐",
+      "en": "Frank Ramsey"
+    },
+    "oneLineZh": "真理、概率、决策与经济学的早期枢纽，二十六岁早逝仍留下多重奠基性工作。",
+    "keywordsZh": [
+      "剑桥分析",
+      "概率",
+      "真理紧缩论"
+    ],
+    "oneLineEn": "Early hub of truth, probability, decision, and economics; foundational work despite death at twenty-six.",
+    "keywordsEn": [
+      "Cambridge analysis",
+      "probability",
+      "deflationary theory of truth"
+    ],
+    "civilization": "western",
+    "tier": "seed"
+  },
+  {
+    "id": "franz-brentano",
+    "batch": "2026-07-23-p0-batch-024",
+    "names": {
+      "zh": "弗朗茨·布伦塔诺",
+      "en": "Franz Brentano"
+    },
+    "oneLineZh": "意向性概念的复兴者，以描述心理学连接亚里士多德、经院传统与胡塞尔现象学。",
+    "keywordsZh": [
+      "意向性",
+      "描述心理学",
+      "布伦塔诺学派"
+    ],
+    "oneLineEn": "Revived intentionality; descriptive psychology linked Aristotle, scholasticism, and Husserl.",
+    "keywordsEn": [
+      "intentionality",
+      "descriptive psychology",
+      "Brentano School"
+    ],
+    "civilization": "western",
+    "tier": "seed"
+  },
+  {
+    "id": "gabriel-marcel",
+    "batch": "2026-07-23-p0-batch-024",
+    "names": {
+      "zh": "加布里埃尔·马塞尔",
+      "en": "Gabriel Marcel"
+    },
+    "oneLineZh": "基督教存在主义代表，以「奥秘」与「问题」之分和希望现象学立说。",
+    "keywordsZh": [
+      "存在主义",
+      "奥秘",
+      "希望"
+    ],
+    "oneLineEn": "Christian existentialist who distinguished mystery from problem and developed a phenomenology of hope.",
+    "keywordsEn": [
+      "existentialism",
+      "mystery",
+      "hope"
+    ],
+    "civilization": "western",
+    "tier": "seed"
+  },
+  {
+    "id": "georg-simmel",
+    "batch": "2026-07-23-p0-batch-024",
+    "names": {
+      "zh": "格奥尔格·齐美尔",
+      "en": "Georg Simmel"
+    },
+    "oneLineZh": "形式社会学与文化哲学代表，以互动形式和货币哲学剖析现代性经验。",
+    "keywordsZh": [
+      "形式社会学",
+      "文化哲学",
+      "现代性"
+    ],
+    "oneLineEn": "Formal sociology and cultural philosophy analyzing modern experience via interaction forms and money.",
+    "keywordsEn": [
+      "formal sociology",
+      "cultural philosophy",
+      "modernity"
+    ],
+    "civilization": "western",
+    "tier": "seed"
+  }
+]

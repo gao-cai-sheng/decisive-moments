@@ -1,0 +1,155 @@
+{
+  "schemaVersion": 1,
+  "items": {
+    "cavailles": {
+      "keywordsZh": [
+        "概念哲学",
+        "数学哲学",
+        "抵抗运动"
+      ]
+    },
+    "cd-broad": {
+      "oneLineZh": "心灵哲学、伦理学与形而上学的剑桥综合者，以细致分类和折衷立场著称。",
+      "keywordsZh": [
+        "剑桥分析",
+        "心灵哲学",
+        "批判哲学史"
+      ]
+    },
+    "chen-que": {
+      "oneLineEn": "Ming-Qing Confucian who, in Disputing the Great Learning, challenged canonical Neo-Confucian reading.",
+      "keywordsEn": [
+        "Disputing the Great Learning",
+        "anti-Neo-Confucian dogma",
+        "early Qing Confucianism"
+      ]
+    },
+    "cheng-xuanying": {
+      "keywordsEn": [
+        "Chongxuan learning",
+        "subcommentary on the Laozi",
+        "commentary on the Zhuangzi"
+      ]
+    },
+    "ci-lewis": {
+      "oneLineZh": "概念实用主义与模态逻辑代表，以严格蕴涵回应实质蕴涵悖论。",
+      "keywordsZh": [
+        "模态逻辑",
+        "概念实用主义",
+        "严格蕴涵"
+      ]
+    },
+    "claude-lefort": {
+      "keywordsZh": [
+        "民主的空位",
+        "极权批判",
+        "政治哲学"
+      ]
+    },
+    "condillac": {
+      "oneLineEn": "Sensationalism that systematized Locke; the statue analogy is a key epistemology clue.",
+      "keywordsEn": [
+        "sensationalism",
+        "empiricism",
+        "origin of language"
+      ]
+    },
+    "condorcet": {
+      "oneLineEn": "Progressive history and social mathematics linking Enlightenment politics to later positivism.",
+      "keywordsEn": [
+        "philosophy of progress",
+        "social mathematics",
+        "Enlightenment politics"
+      ]
+    },
+    "cornelius-castoriadis": {
+      "oneLineZh": "以社会想象性建制和自治理论构成西方马克思主义的异端。",
+      "keywordsZh": [
+        "自治",
+        "社会想象",
+        "社会主义或野蛮"
+      ]
+    },
+    "cournot": {
+      "oneLineZh": "以概率、经济学与偶然性理论连接实证论与法国认识论传统。",
+      "keywordsZh": [
+        "概率哲学",
+        "偶然性",
+        "科学哲学"
+      ]
+    },
+    "cui-shu": {
+      "keywordsEn": [
+        "Records Examining Credibility",
+        "doubting antiquity",
+        "classics-history criticism"
+      ]
+    },
+    "dalai-lama-14": {
+      "oneLineEn": "Contemporary Gelug leader bringing Madhyamaka, ethics, and science dialogue into global philosophy.",
+      "keywordsEn": [
+        "Gelug",
+        "contemporary Madhyamaka",
+        "dialogue with science"
+      ]
+    },
+    "daosheng": {
+      "keywordsEn": [
+        "sudden enlightenment to Buddhahood",
+        "icchantika",
+        "nirvāṇa studies"
+      ]
+    },
+    "david-armstrong": {
+      "oneLineZh": "澳大利亚唯物论代表，以共相实在论和心脑同一论构造形而上学系统。",
+      "keywordsZh": [
+        "科学实在论",
+        "共相",
+        "心脑同一论"
+      ]
+    },
+    "dhammapala": {
+      "oneLineEn": "Theravāda Pali commentator linked to Paramatthadīpanī Khuddaka commentaries (ca. 6th–7th c., uncertain).",
+      "keywordsEn": [
+        "Paramatthadīpanī",
+        "Khuddaka commentaries",
+        "Pali commentaries",
+        "uncertain dating"
+      ]
+    },
+    "diderot": {
+      "oneLineEn": "Encyclopédie editor linking Enlightenment knowledge projects, materialism, and aesthetic criticism."
+    },
+    "dolpopa": {
+      "keywordsEn": [
+        "Jonang",
+        "other-emptiness (zhentong)",
+        "Mountain Dharma"
+      ]
+    },
+    "duhem": {
+      "oneLineZh": "提出迪昂命题：假说无法孤立检验，为奎因的整体论开路。",
+      "keywordsZh": [
+        "整体论",
+        "不充分决定",
+        "科学史"
+      ]
+    },
+    "emmanuel-mounier": {
+      "oneLineZh": "人格主义运动创始人，创办《精神》杂志倡导位格与共同体。",
+      "keywordsZh": [
+        "人格主义",
+        "位格",
+        "共同体"
+      ]
+    },
+    "eric-voegelin": {
+      "oneLineZh": "以政治宗教和秩序哲学诊断现代性，把灵知主义视作病根。",
+      "keywordsZh": [
+        "政治宗教",
+        "秩序哲学",
+        "灵知主义批判"
+      ]
+    }
+  }
+}

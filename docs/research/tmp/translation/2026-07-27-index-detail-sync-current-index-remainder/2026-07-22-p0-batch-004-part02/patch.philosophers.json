@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "items": {
+    "freire": {
+      "keywordsEn": [
+        "Pedagogy of the Oppressed",
+        "conscientization",
+        "dialogue",
+        "critique of banking education"
+      ]
+    },
+    "horkheimer": {
+      "oneLineZh": "以批判理论和工具理性批判把马克思主义社会哲学改造为现代性诊断。",
+      "keywordsZh": [
+        "批判理论",
+        "工具理性",
+        "法兰克福学派",
+        "启蒙辩证法"
+      ],
+      "oneLineEn": "Recast Marxist social philosophy as a diagnosis of modernity via critical theory and critique of instrumental reason.",
+      "keywordsEn": [
+        "critical theory",
+        "instrumental reason",
+        "Frankfurt School",
+        "Dialectic of Enlightenment"
+      ]
+    },
+    "adorno": {
+      "keywordsZh": [
+        "否定辩证法",
+        "文化工业",
+        "现代主义艺术",
+        "同一性批判"
+      ],
+      "oneLineEn": "Exposed social domination in identity thinking via negative dialectics, culture industry, and modernist aesthetics.",
+      "keywordsEn": [
+        "negative dialectics",
+        "culture industry",
+        "modernist art",
+        "critique of identity thinking"
+      ]
+    },
+    "benjamin": {
+      "oneLineEn": "Remade media-critical modernity via art under mechanical reproduction, history, and urban fragment writing.",
+      "keywordsEn": [
+        "aura",
+        "mechanical reproduction",
+        "angel of history",
+        "Arcades Project",
+        "messianic time"
+      ]
+    },
+    "cohen": {
+      "keywordsZh": [
+        "马堡学派",
+        "新康德主义",
+        "纯粹认识",
+        "纯粹意志",
+        "理性宗教"
+      ],
+      "oneLineEn": "Linked Kantian tradition to Rosenzweig via Marburg Neo-Kantianism and Jewish rational religion philosophy.",
+      "keywordsEn": [
+        "Marburg School",
+        "Neo-Kantianism",
+        "pure cognition",
+        "pure will",
+        "religion of reason"
+      ]
+    },
+    "eckhart": {
+      "oneLineEn": "Pushed scholastic theology into German mysticism's core via detachment, poverty of spirit, and mystical union.",
+      "keywordsEn": [
+        "detachment (Abgeschiedenheit)",
+        "poverty of spirit",
+        "birth of God in the soul",
+        "negative theology",
+        "Gelassenheit"
+      ]
+    },
+    "cusa": {
+      "oneLineEn": "Moved medieval theology toward Renaissance metaphysics via learned ignorance, coincidence of opposites, and infinity.",
+      "keywordsEn": [
+        "learned ignorance",
+        "coincidence of opposites",
+        "the absolute Maximum",
+        "conjecture",
+        "peace of faith"
+      ]
+    },
+    "vico": {
+      "keywordsEn": [
+        "New Science",
+        "verum factum",
+        "poetic wisdom",
+        "world of nations",
+        "anti-Cartesianism"
+      ]
+    },
+    "herder": {
+      "oneLineEn": "Critiqued abstract universalism via language, national spirit, and historical individuality; shaped German historicism.",
+      "keywordsEn": [
+        "origin of language",
+        "national spirit (Volksgeist)",
+        "historicism",
+        "humanity (Humanität)",
+        "cultural diversity"
+      ]
+    },
+    "iqbal": {
+      "oneLineEn": "Answered modernity's religion and self problems via self-philosophy, Islamic reconstruction, and poetic politics.",
+      "keywordsEn": [
+        "the self",
+        "khudi (selfhood)",
+        "reconstruction of Islamic thought",
+        "creative process",
+        "spiritual democracy"
+      ]
+    }
+  }
+}

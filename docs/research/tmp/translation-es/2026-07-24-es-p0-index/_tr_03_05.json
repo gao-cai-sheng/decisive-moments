@@ -1,0 +1,964 @@
+{
+  "items": {
+    "wu-qi": {
+      "oneLineEs": "Militar y reformador de los Reinos Combatientes que combina la práctica de la escuela militar con el color institucional del legalismo.",
+      "keywordsEs": [
+        "escuela militar (bingjia)",
+        "reforma institucional",
+        "Wuzi"
+      ]
+    },
+    "lu-buwei": {
+      "oneLineEs": "Canciller de Qin a finales de los Reinos Combatientes y organizador de la compilación del Lüshi chunqiu.",
+      "keywordsEs": [
+        "Lüshi chunqiu",
+        "canciller de Qin",
+        "escuela ecléctica"
+      ]
+    },
+    "li-si": {
+      "oneLineEs": "Burócrata central en la construcción institucional del imperio Qin, que enlaza el legado de Xunzi con la gobernanza legalista.",
+      "keywordsEs": [
+        "instituciones Qin",
+        "escritura de sello pequeño",
+        "Memorial contra la expulsión de huéspedes"
+      ]
+    },
+    "dong-zhongshu": {
+      "oneLineEs": "Confuciano representativo de los Han Occidentales que unió el aprendizaje de los Anales de Primavera y Otoño, el yin-yang y las Cinco Fases con la política dinástica.",
+      "keywordsEs": [
+        "Chunqiu fanlu (Rocío exuberante de los Anales)",
+        "resonancia entre Cielo y humanidad",
+        "confucianismo Han"
+      ]
+    },
+    "yang-xiong": {
+      "oneLineEs": "Pensador y literato de finales de los Han Occidentales, célebre por Fayan y Taixuan como obras que imitan los clásicos.",
+      "keywordsEs": [
+        "Fayan (Dichos modelo)",
+        "Taixuan (Misterio supremo)",
+        "imitación de los clásicos"
+      ]
+    },
+    "wang-chong": {
+      "oneLineEs": "Pensador de los Han Orientales que, en Lunheng, criticó la superstición de los presagios y las doctrinas vanas.",
+      "keywordsEs": [
+        "Lunheng (Discursos equilibrados)",
+        "ataque a lo vano y falso",
+        "naturalismo"
+      ]
+    },
+    "liu-an": {
+      "oneLineEs": "Rey de Huainan en los Han Occidentales y figura central de la compilación del Huainanzi.",
+      "keywordsEs": [
+        "Huainanzi",
+        "Huang-Lao",
+        "compendio de los maestros"
+      ]
+    },
+    "lu-jia": {
+      "oneLineEs": "Ensayista político de inicios de Han que, en Xinyu, explicó la caída de Qin, el auge de Han y el orden civil.",
+      "keywordsEs": [
+        "Xinyu (Nuevos discursos)",
+        "letrados confucianos de inicios de Han",
+        "gobernar el imperio a caballo"
+      ]
+    },
+    "jia-yi": {
+      "oneLineEs": "Ensayista político de inicios de los Han Occidentales, conocido por la reforma institucional y la reflexión sobre la caída de Qin.",
+      "keywordsEs": [
+        "Xinshu (Nuevos escritos)",
+        "Sobre los errores de Qin",
+        "ensayos políticos de inicios de Han"
+      ]
+    },
+    "sima-tan": {
+      "oneLineEs": "Gran Historiador de los Han Occidentales cuya taxonomía de las seis escuelas sentó el marco intelectual del Shiji.",
+      "keywordsEs": [
+        "Esencia de las seis escuelas",
+        "Gran Historiador",
+        "prehistoria del Shiji"
+      ]
+    },
+    "sima-qian": {
+      "oneLineEs": "Historiador de los Han Occidentales, autor de las Memorias históricas (Shiji), que fundó el paradigma de la historia universal en forma biográfico-analística.",
+      "keywordsEs": [
+        "Memorias históricas (Shiji)",
+        "Gran Escriba",
+        "indagar el límite entre Cielo y humanidad"
+      ]
+    },
+    "huan-tan": {
+      "oneLineEs": "Pensador de la transición Han-Xin, conocido por Xinlun y su postura anti-presagios.",
+      "keywordsEs": [
+        "Xinlun (Nuevos tratados)",
+        "anti-presagios",
+        "pensamiento de los Han Orientales"
+      ]
+    },
+    "zheng-xuan": {
+      "oneLineEs": "Maestro de los clásicos de los Han Orientales, célebre por sintetizar el aprendizaje de textos Nuevos y Antiguos en un sistema de comentarios.",
+      "keywordsEs": [
+        "erudición de los clásicos (jingxue)",
+        "anotaciones de Zheng",
+        "comentarios de finales de Han"
+      ]
+    },
+    "xu-gan": {
+      "oneLineEs": "Pensador jian'an de finales de los Han Orientales que, en Zhonglun, trató la gobernanza, el cultivo de sí y el problema de nombres y realidades.",
+      "keywordsEs": [
+        "Zhonglun",
+        "Siete Maestros de Jian'an",
+        "nombres y realidades"
+      ]
+    },
+    "wang-fu": {
+      "oneLineEs": "Ensayista político de los Han Orientales que, en Qianfu lun, criticó la política del momento y el ethos de los letrados.",
+      "keywordsEs": [
+        "Qianfu lun (Discursos de un recluso)",
+        "crítica del retiro",
+        "ensayos políticos de los Han Orientales"
+      ]
+    },
+    "xun-yue": {
+      "oneLineEs": "Historiador y ensayista político de finales de los Han Orientales, conocido por Shenjian y los Anales Han.",
+      "keywordsEs": [
+        "Shenjian (Reflexiones extendidas)",
+        "Anales Han",
+        "linaje Xun"
+      ]
+    },
+    "zhongchang-tong": {
+      "oneLineEs": "Ensayista político de finales de Han que, en Changyan, expresó la crítica institucional y la conciencia de independencia de los letrados.",
+      "keywordsEs": [
+        "Changyan (Palabras francas)",
+        "ensayos políticos de finales de Han",
+        "independencia de los letrados"
+      ]
+    },
+    "liu-xiang": {
+      "oneLineEs": "Clasicista, catalogador y compilador de relatos de los Han Occidentales que reorganizó los textos y reconfiguró la memoria política confuciana.",
+      "keywordsEs": [
+        "Shuoyuan (Jardín de persuasiones)",
+        "Xinxu (Nuevos prefacios)",
+        "colación de textos"
+      ]
+    },
+    "liu-xin": {
+      "oneLineEs": "Clasicista y bibliógrafo de finales de los Han Occidentales y del interregno Xin que impulsó el clasicismo de Textos Antiguos y los sistemas de catálogo.",
+      "keywordsEs": [
+        "Siete resúmenes (Qilüe)",
+        "clasicismo de Textos Antiguos",
+        "colación de textos"
+      ]
+    },
+    "he-yan": {
+      "oneLineEs": "Figura del xuanxue de Cao-Wei que dirigió las Explicaciones reunidas de las Analectas e impulsó el debate sobre valorar el no-ser.",
+      "keywordsEs": [
+        "xuanxue",
+        "Explicaciones reunidas de las Analectas",
+        "valorar el no-ser (guiwu)"
+      ]
+    },
+    "ruan-ji": {
+      "oneLineEs": "Notable del xuanxue Wei-Jin, célebre por la libertad de la persona, la crítica de la ley ritual y la recepción de Zhuangzi.",
+      "keywordsEs": [
+        "Siete Sabios del Bosque de Bambú",
+        "Discurso sobre comprender a Zhuangzi",
+        "Biografía del Gran Hombre"
+      ]
+    },
+    "ji-kang": {
+      "oneLineEs": "Notable del xuanxue Wei-Jin, conocido por la naturaleza, la teoría musical y el cultivo de la vida.",
+      "keywordsEs": [
+        "Siete Sabios del Bosque de Bambú",
+        "La música no tiene tristeza ni alegría",
+        "Sobre el cultivo de la vida"
+      ]
+    },
+    "xiang-xiu": {
+      "oneLineEs": "Figura del xuanxue Wei-Jin, célebre por su comentario a Zhuangzi y el debate entre naturaleza y enseñanza de los nombres.",
+      "keywordsEs": [
+        "Comentario al Zhuangzi",
+        "Siete Sabios del Bosque de Bambú",
+        "naturaleza y enseñanza de los nombres"
+      ]
+    },
+    "pei-wei": {
+      "oneLineEs": "Pensador de los Jin Occidentales que, en Sobre estimar el ser, reflexionó sobre el xuanxue del valorar el no-ser.",
+      "keywordsEs": [
+        "Sobre estimar el ser",
+        "anti-valorar-el-no-ser",
+        "xuanxue de los Jin Occidentales"
+      ]
+    },
+    "ge-hong": {
+      "oneLineEs": "Pensador taoísta y teórico del cultivo de los Jin Orientales, conocido sobre todo por el Baopuzi.",
+      "keywordsEs": [
+        "Baopuzi",
+        "Biografías de inmortales",
+        "taoísmo"
+      ]
+    },
+    "fan-zhen": {
+      "oneLineEs": "Pensador de las Dinastías del Sur que, en Sobre la extinción del alma, atacó las doctrinas del alma inmortal y de la retribución kármica.",
+      "keywordsEs": [
+        "Sobre la extinción del alma",
+        "relación forma-espíritu",
+        "argumento anti-budista"
+      ]
+    },
+    "tao-hongjing": {
+      "oneLineEs": "Maestro del taoísmo Shangqing de las Dinastías del Sur, también médico, eremita y editor de escrituras.",
+      "keywordsEs": [
+        "escuela Shangqing",
+        "Declaraciones de los Perfectos (Zhengao)",
+        "Comentarios reunidos a la materia médica"
+      ]
+    },
+    "lu-xiujing": {
+      "oneLineEs": "Taoísta de las Dinastías del Sur que organizó las escrituras Lingbao y el sistema de catálogo de las Tres Cavernas.",
+      "keywordsEs": [
+        "escuela Lingbao",
+        "catálogo de las Tres Cavernas",
+        "ritual zhai"
+      ]
+    },
+    "kou-qianzhi": {
+      "oneLineEs": "Reformador taoísta de los Wei del Norte que unió una renovada vía de los Maestros Celestiales con la política estatal.",
+      "keywordsEs": [
+        "Maestros Celestiales del Norte",
+        "Taiping Zhenjun",
+        "Nuevo código de mandamientos del Señor Lao"
+      ]
+    },
+    "cheng-xuanying": {
+      "oneLineEs": "Erudito taoísta tang célebre por subcomentarios a Laozi y Zhuangzi y por el pensamiento Chongxuan.",
+      "keywordsEs": [
+        "aprendizaje Chongxuan",
+        "subcomentario al Laozi",
+        "comentario al Zhuangzi"
+      ]
+    },
+    "dao-an": {
+      "oneLineEs": "Monje eminente de los Jin Orientales que impulsó los catálogos de escrituras, las normas de la sangha y la autonomía del budismo chino.",
+      "keywordsEs": [
+        "crítica del emparejamiento geyi",
+        "instituciones de la sangha",
+        "catálogos de escrituras"
+      ]
+    },
+    "huiyuan": {
+      "oneLineEs": "Monje de la montaña Lu en los Jin Orientales, influyente en la independencia monástica, la fe de la Tierra Pura y la comunidad budista.",
+      "keywordsEs": [
+        "montaña Lu",
+        "Los monjes no deben postrarse ante los reyes",
+        "Tierra Pura"
+      ]
+    },
+    "daosheng": {
+      "oneLineEs": "Monje de los Jin Orientales–Liu Song, conocido por el despertar súbito a la budeidad y el debate sobre la budeidad del icchantika.",
+      "keywordsEs": [
+        "despertar súbito a la budeidad",
+        "icchantika",
+        "estudios del nirvāṇa"
+      ]
+    },
+    "jizang": {
+      "oneLineEs": "Maestro de la escuela de los Tres Tratados en los Sui-Tang, célebre por las dos verdades madhyamaka y por refutar el error para revelar lo correcto.",
+      "keywordsEs": [
+        "escuela de los Tres Tratados",
+        "Madhyamaka",
+        "dos verdades"
+      ]
+    },
+    "xuanzang": {
+      "oneLineEs": "Monje, traductor y viajero tang que fundó la base del Yogācāra / solo-conciencia Faxiang chino.",
+      "keywordsEs": [
+        "Yogācāra / solo-conciencia (weishi)",
+        "Grandes registros tang de las regiones occidentales",
+        "traducción de escrituras"
+      ]
+    },
+    "kuiji": {
+      "oneLineEs": "Maestro Faxiang tang, discípulo de Xuanzang, conocido por el sistema de comentarios yogācāra.",
+      "keywordsEs": [
+        "escuela Ci'en",
+        "Comentario al Cheng weishi lun",
+        "Faxiang"
+      ]
+    },
+    "daoxuan": {
+      "oneLineEs": "Maestro de la Vinaya e historiador budista tang, célebre por el estudio de la disciplina y la compilación de biografías monásticas.",
+      "keywordsEs": [
+        "escuela Vinaya",
+        "Continuación de las biografías de monjes eminentes",
+        "Comentario a la Vinaya Dharmaguptaka"
+      ]
+    },
+    "tanluan": {
+      "oneLineEs": "Maestro de Tierra Pura de los Wei del Norte–Wei Orientales que, en el Comentario al Tratado del nacimiento, expuso el renacimiento por el otro-poder.",
+      "keywordsEs": [
+        "Tierra Pura",
+        "Comentario al Tratado del nacimiento",
+        "otro-poder (tariki)"
+      ]
+    },
+    "shandao": {
+      "oneLineEs": "Maestro de la escuela de Tierra Pura tang que, en el comentario al Sutra de la contemplación, sistematizó el renacimiento del hombre ordinario y el nembutsu del Nombre.",
+      "keywordsEs": [
+        "escuela de Tierra Pura",
+        "Comentario al Sutra de la contemplación",
+        "nembutsu del Nombre"
+      ]
+    },
+    "zongmi": {
+      "oneLineEs": "Quinto patriarca Huayan tang y mediador entre Chan y doctrina que unió la clasificación de enseñanzas con la comparación de las Tres Enseñanzas.",
+      "keywordsEs": [
+        "escuela Huayan",
+        "Prefacio a la Colección sobre las fuentes del Chan",
+        "Indagación sobre el origen de la humanidad"
+      ]
+    },
+    "yanshou": {
+      "oneLineEs": "Maestro budista de las Cinco Dinastías–inicios Song que, en el Espejo de la fuente, conjugó la enseñanza Chan con el retorno de los mil bienes al corazón.",
+      "keywordsEs": [
+        "Registros del Espejo de la fuente",
+        "Colección sobre el retorno común de los mil bienes",
+        "confluencia Chan-Tierra Pura"
+      ]
+    },
+    "han-yu": {
+      "oneLineEs": "Figura de la revitalización confuciana tang y líder del movimiento de la prosa antigua que, en Yuan Dao, reafirmó la transmisión del Dao confuciano.",
+      "keywordsEs": [
+        "Yuan Dao (Sobre el origen del Dao)",
+        "movimiento de la prosa antigua",
+        "anti-budismo"
+      ]
+    },
+    "li-ao": {
+      "oneLineEs": "Confuciano tang que, en el Libro de la restauración de la naturaleza, discutió naturaleza y emoción y la recuperación de la naturaleza original.",
+      "keywordsEs": [
+        "Libro de la restauración de la naturaleza",
+        "naturaleza y destino (xing-ming)",
+        "confucianismo tang"
+      ]
+    },
+    "liu-zongyuan": {
+      "oneLineEs": "Pensador y literato tang conocido por sus argumentos sobre Cielo y humanidad, el fengjian y las instituciones políticas.",
+      "keywordsEs": [
+        "Discurso sobre el Cielo",
+        "Sobre el fengjian",
+        "Ocho registros de Yongzhou"
+      ]
+    },
+    "li-gou": {
+      "oneLineEs": "Confuciano y pensador institucional de los Song del Norte, célebre por el ritual, las finanzas y el arte de gobernar.",
+      "keywordsEs": [
+        "Maestro Xujiang",
+        "Sobre el Zhouli que trae la gran paz",
+        "discurso sobre el ritual"
+      ]
+    },
+    "hu-yuan": {
+      "oneLineEs": "Educador y confuciano de los Song del Norte, conocido por la escuela Anding y la pedagogía de clásicos más asuntos prácticos.",
+      "keywordsEs": [
+        "Maestro Anding",
+        "método de enseñanza Su-Hu",
+        "educación para el arte de gobernar"
+      ]
+    },
+    "shao-yong": {
+      "oneLineEs": "Pionero del neoconfucianismo de los Song del Norte, célebre por la cosmología de imágenes y números y el pensamiento de observar las cosas.",
+      "keywordsEs": [
+        "Principios supremos que rigen el mundo",
+        "observar las cosas",
+        "aprendizaje de imágenes y números"
+      ]
+    },
+    "sima-guang": {
+      "oneLineEs": "Historiador y estadista de los Song del Norte, conocido por el Espejo comprehensivo y las teorías del orden político.",
+      "keywordsEs": [
+        "Espejo comprehensivo para el gobierno",
+        "Vacuidad oculta (Qianxu)",
+        "política conservadora"
+      ]
+    },
+    "su-shi": {
+      "oneLineEs": "Literato y figura intelectual de los Song del Norte, versado en las Tres Enseñanzas y conocido por la exégesis clásica, los ensayos políticos y la reflexión sobre la vida.",
+      "keywordsEs": [
+        "Comentario de Dongpo a los Cambios",
+        "Obras reunidas de Su Shi",
+        "ecuanimidad abierta"
+      ]
+    },
+    "luo-congyan": {
+      "oneLineEs": "Figura neoconfuciana Song que enlaza a los discípulos de Cheng con el linaje de Li Tong y Zhu Xi.",
+      "keywordsEs": [
+        "Maestro Yuzhang",
+        "discípulos posteriores de Cheng",
+        "precursor del aprendizaje Min"
+      ]
+    },
+    "hu-hong": {
+      "oneLineEs": "Representante de la escuela Huxiang de los Song del Sur cuyo Comprender las palabras trata la naturaleza como sustancia y el cultivo.",
+      "keywordsEs": [
+        "Comprender las palabras (Zhiyan)",
+        "escuela Huxiang",
+        "naturaleza como sustancia"
+      ]
+    },
+    "zhang-shi": {
+      "oneLineEs": "Neoconfuciano de los Song del Sur, representante de la escuela Huxiang, que debatió largamente con Zhu Xi.",
+      "keywordsEs": [
+        "Maestro Nanxuan",
+        "escuela Huxiang",
+        "reverencia y rectitud"
+      ]
+    },
+    "chen-liang": {
+      "oneLineEs": "Representante de la escuela Yongkang de los Song del Sur, conocido por la doctrina del logro práctico y el debate con Zhu Xi sobre rey-hegemón y rectitud-provecho.",
+      "keywordsEs": [
+        "escuela Yongkang",
+        "logro práctico (shigong)",
+        "Obras reunidas de Longchuan"
+      ]
+    },
+    "ye-shi": {
+      "oneLineEs": "Representante de la escuela Yongjia de los Song del Sur, célebre por las instituciones, la utilidad y la crítica en historia intelectual.",
+      "keywordsEs": [
+        "escuela Yongjia",
+        "Registro secuencial del aprendizaje y las palabras",
+        "Shuixin"
+      ]
+    },
+    "wu-cheng": {
+      "oneLineEs": "Neoconfuciano y clasicista yuan que concilió a Zhu y Lu y reorganizó los estudios clásicos.",
+      "keywordsEs": [
+        "Maestro Caolu",
+        "Dichos reunidos sobre el Registro de los ritos",
+        "neoconfucianismo yuan"
+      ]
+    },
+    "xu-heng": {
+      "oneLineEs": "Educador neoconfuciano de inicios Yuan que introdujo el aprendizaje Cheng-Zhu en las instituciones yuan.",
+      "keywordsEs": [
+        "Luzhai",
+        "confucianismo de inicios Yuan",
+        "Explicaciones directas del Aprendizaje elemental y del Gran Aprendizaje"
+      ]
+    },
+    "wu-yubi": {
+      "oneLineEs": "Neoconfuciano de inicios Ming cuya escuela Kangzhai y la práctica reverente influyeron en Chen Xianzhang.",
+      "keywordsEs": [
+        "Kangzhai",
+        "neoconfucianismo Ming",
+        "sentarse en quietud y lectura"
+      ]
+    },
+    "chen-xianzhang": {
+      "oneLineEs": "Fundador de la escuela Baisha Ming, que subrayó el auto-logro de la sustancia de la mente y el cultivo en sentarse en quietud.",
+      "keywordsEs": [
+        "aprendizaje de la mente Baisha",
+        "sentarse en quietud",
+        "auto-logro natural"
+      ]
+    },
+    "xue-xuan": {
+      "oneLineEs": "Neoconfuciano Ming de la escuela Hedong que subrayó el retorno a la naturaleza y la práctica seria.",
+      "keywordsEs": [
+        "escuela Hedong",
+        "Registro de lecturas",
+        "retorno a la naturaleza"
+      ]
+    },
+    "luo-qinshun": {
+      "oneLineEs": "Neoconfuciano Ming que, en Conocimiento arduamente adquirido, trató li-qi y mente-naturaleza al criticar el aprendizaje de Wang.",
+      "keywordsEs": [
+        "Conocimiento arduamente adquirido",
+        "li y qi como una sola cosa",
+        "crítica del aprendizaje de Wang Yangming"
+      ]
+    },
+    "wang-tingxiang": {
+      "oneLineEs": "Pensador del qi Ming que usó un monismo del qi orientado a la experiencia contra el vacío aprendizaje de la mente.",
+      "keywordsEs": [
+        "Palabras cautas",
+        "monismo del qi",
+        "investigación de las cosas"
+      ]
+    },
+    "zhan-ruoshui": {
+      "oneLineEs": "Líder de la escuela Ganquan Ming que enseñó como par y rival de Wang Yangming.",
+      "keywordsEs": [
+        "escuela Ganquan",
+        "reconocer el principio celestial en todo lugar",
+        "Discurso diagramático sobre mente-naturaleza"
+      ]
+    },
+    "wang-gen": {
+      "oneLineEs": "Fundador de la escuela Taizhou Ming; sostuvo que el Dao es el uso cotidiano del pueblo y buscó asentar el sí mediante el gewu.",
+      "keywordsEs": [
+        "escuela Taizhou",
+        "el Dao es el uso cotidiano del pueblo",
+        "investigar las cosas para asentar el sí"
+      ]
+    },
+    "luo-rufang": {
+      "oneLineEs": "Figura Taizhou de finales Ming, conocida por la conciencia infantil, la enseñanza cotidiana y la conferencia popular.",
+      "keywordsEs": [
+        "Jinxi",
+        "escuela Taizhou",
+        "conciencia infantil"
+      ]
+    },
+    "li-zhi": {
+      "oneLineEs": "Pensador de finales Ming, célebre por la doctrina de la mente infantil, la crítica del falso Dao Learning y la sinceridad personal.",
+      "keywordsEs": [
+        "Libro para quemar",
+        "doctrina de la mente infantil",
+        "heterodoxia"
+      ]
+    },
+    "gu-xiancheng": {
+      "oneLineEs": "Líder Donglin de finales Ming que reconstruyó la Academia Donglin y subrayó la responsabilidad pública de los letrados.",
+      "keywordsEs": [
+        "Academia Donglin",
+        "Obras supervivientes de Gu Duanwen",
+        "conferencia pública"
+      ]
+    },
+    "gao-panlong": {
+      "oneLineEs": "Líder Donglin de finales Ming que conjugó el cultivo en sentarse en quietud con la integridad política.",
+      "keywordsEs": [
+        "Donglin",
+        "sentarse en quietud",
+        "Obras supervivientes del maestro Gao"
+      ]
+    },
+    "liu-zongzhou": {
+      "oneLineEs": "Gran maestro de finales Ming y fundador de la escuela Jishan, conocido por el shendu y el cultivo de la sinceridad de la intención.",
+      "keywordsEs": [
+        "escuela Jishan",
+        "soledad vigilante (shendu)",
+        "Espectro humano"
+      ]
+    },
+    "huang-zongxi": {
+      "oneLineEs": "Pensador e historiador de la transición Ming-Qing, célebre por la crítica de la monarquía y la escritura de historia intelectual confuciana.",
+      "keywordsEs": [
+        "Esperando el alba (Mingyi daifang lu)",
+        "Casos de confucianos Ming",
+        "erudición de Zhejiang oriental"
+      ]
+    },
+    "gu-yanwu": {
+      "oneLineEs": "Erudito de gobernanza práctica y evidencial de la transición Ming-Qing; el Registro del conocimiento cotidiano abrió el clima del aprendizaje práctico Qing.",
+      "keywordsEs": [
+        "Registro del conocimiento cotidiano",
+        "aprendizaje práctico de gobernanza",
+        "erudición evidencial (kaozheng)"
+      ]
+    },
+    "fang-yizhi": {
+      "oneLineEs": "Pensador de la transición Ming-Qing que tendió puentes entre confucianismo, budismo, taoísmo y el saber natural.",
+      "keywordsEs": [
+        "Igualando Oriente y Occidente",
+        "Notas sobre los principios de las cosas",
+        "medición empírica y penetración de lo sutil"
+      ]
+    },
+    "chen-que": {
+      "oneLineEs": "Confuciano de la transición Ming-Qing que, en Disputando el Gran Aprendizaje, cuestionó la autoridad canónica y la lectura neoconfuciana.",
+      "keywordsEs": [
+        "Disputando el Gran Aprendizaje",
+        "anti-dogma neoconfuciano",
+        "confucianismo de inicios Qing"
+      ]
+    },
+    "tang-zhen": {
+      "oneLineEs": "Pensador de inicios Qing que, en el Libro oculto, criticó el poder monárquico y la injusticia social.",
+      "keywordsEs": [
+        "Libro oculto",
+        "crítica de la monarquía",
+        "gobernanza práctica"
+      ]
+    },
+    "yan-yuan-qing": {
+      "oneLineEs": "Líder del aprendizaje práctico de inicios Qing que urgió escritura sólida, práctica y utilidad contra el vacío neoconfucianismo.",
+      "keywordsEs": [
+        "Xizhai",
+        "aprendizaje práctico",
+        "Preservar el aprendizaje"
+      ]
+    },
+    "li-gong-qing": {
+      "oneLineEs": "Figura de la escuela Yan-Li de inicios Qing que continuó el aprendizaje práctico y la educación práctica de Yan Yuan.",
+      "keywordsEs": [
+        "Shugu",
+        "escuela Yan-Li",
+        "educación de aprendizaje práctico"
+      ]
+    },
+    "lu-longqi": {
+      "oneLineEs": "Erudito-oficial Cheng-Zhu de inicios Qing, conocido por honrar a Zhu Xi, la conferencia y la gobernanza local.",
+      "keywordsEs": [
+        "Sanyutang",
+        "aprendizaje de Zhu Xi",
+        "oficial recto de inicios Qing"
+      ]
+    },
+    "mao-qiling": {
+      "oneLineEs": "Clasicista de inicios Qing, célebre por el amplio debate evidencial y lecturas anti-Zhu de los Cuatro Libros.",
+      "keywordsEs": [
+        "Preguntas sobre los clásicos",
+        "Correcciones a los Cuatro Libros",
+        "anti-Zhu Xi"
+      ]
+    },
+    "zhang-xuecheng": {
+      "oneLineEs": "Teórico de la historia Qing, conocido por «los Seis Clásicos son todos historia» y la teoría de la colación literario-histórica.",
+      "keywordsEs": [
+        "Sentido general de la literatura y la historia",
+        "los Seis Clásicos son todos historia",
+        "Principios generales de la colación"
+      ]
+    },
+    "cui-shu": {
+      "oneLineEs": "Erudito evidencial Qing que, en Registros que examinan la credibilidad, puso a prueba la transmisión histórica antigua.",
+      "keywordsEs": [
+        "Registros que examinan la credibilidad",
+        "dudar de la antigüedad",
+        "crítica clásico-histórica"
+      ]
+    },
+    "ruan-yuan": {
+      "oneLineEs": "Clasicista, oficial y organizador académico Qing; uno de los grandes sintetizadores de la erudición evidencial Qian-Jia.",
+      "keywordsEs": [
+        "Glosas reunidas sobre los clásicos",
+        "Obras reunidas de Yanjingshi",
+        "erudición Qian-Jia"
+      ]
+    },
+    "jiao-xun": {
+      "oneLineEs": "Clasicista y matemático Qing, célebre por los estudios de Mencio, el Yijing y el análisis lógico.",
+      "keywordsEs": [
+        "Sentido correcto de Mencio",
+        "Explicación comprehensiva de los Cambios",
+        "escuela de Yangzhou"
+      ]
+    },
+    "gong-zizhen": {
+      "oneLineEs": "Pensador y literato de finales Qing, conocido por la reforma de gobernanza práctica, el espíritu individual y la crítica institucional.",
+      "keywordsEs": [
+        "Poemas misceláneos de Jihai",
+        "Sobre soberanos ilustrados y buenos ministros",
+        "reforma de gobernanza práctica"
+      ]
+    },
+    "wei-yuan": {
+      "oneLineEs": "Pensador de gobernanza práctica de finales Qing; en Reinos marítimos urgió aprender las habilidades de los bárbaros para controlar a los bárbaros.",
+      "keywordsEs": [
+        "Tratado ilustrado de los reinos marítimos",
+        "aprender las habilidades de los bárbaros",
+        "aprendizaje práctico de gobernanza"
+      ]
+    },
+    "voltaire": {
+      "oneLineEs": "Abanderado de la Ilustración por la tolerancia, la razón y la polémica anticlerical; tras Locke, en tensión contemporánea con Rousseau.",
+      "keywordsEs": [
+        "Ilustración",
+        "tolerancia",
+        "anticlericalismo"
+      ]
+    },
+    "diderot": {
+      "oneLineEs": "Editor de la Encyclopédie que enlazó el proyecto ilustrado del saber, el materialismo y la crítica estética.",
+      "keywordsEs": [
+        "Encyclopédie",
+        "materialismo",
+        "estética"
+      ]
+    },
+    "montesquieu": {
+      "oneLineEs": "El espíritu de las leyes convirtió la separación de poderes y la tipología de regímenes en un nodo clave de la filosofía política moderna.",
+      "keywordsEs": [
+        "separación de poderes",
+        "teoría de los regímenes",
+        "espíritu de las leyes"
+      ]
+    },
+    "condillac": {
+      "oneLineEs": "El sensualismo que sistematizó a Locke; la analogía de la estatua es una clave de la historia de la epistemología.",
+      "keywordsEs": [
+        "sensualismo",
+        "empirismo",
+        "origen del lenguaje"
+      ]
+    },
+    "condorcet": {
+      "oneLineEs": "La historia progresiva y la matemática social enlazan la política ilustrada con el posterior relato positivista.",
+      "keywordsEs": [
+        "filosofía del progreso",
+        "matemática social",
+        "política ilustrada"
+      ]
+    },
+    "holbach": {
+      "oneLineEs": "El sistema de la naturaleza representa el materialismo y el determinismo radicales de la Ilustración francesa.",
+      "keywordsEs": [
+        "materialismo",
+        "determinismo",
+        "ateísmo"
+      ]
+    },
+    "helvetius": {
+      "oneLineEs": "Ética sensualista y prehistoria del utilitarismo que enlazan el empirismo de Locke con Bentham.",
+      "keywordsEs": [
+        "ética sensualista",
+        "utilidad",
+        "educación"
+      ]
+    },
+    "la-mettrie": {
+      "oneLineEs": "El hombre máquina llevó el mecanicismo a la explicación cuerpo-mente; materialismo ilustrado extremo.",
+      "keywordsEs": [
+        "materialismo mecanicista",
+        "problema mente-cuerpo",
+        "El hombre máquina"
+      ]
+    },
+    "malebranche": {
+      "oneLineEs": "El ocasionalismo y «ver todas las cosas en Dios» llevaron el cartesianismo a la metafísica teológica.",
+      "keywordsEs": [
+        "ocasionalismo",
+        "cartesianismo",
+        "metafísica teológica"
+      ]
+    },
+    "gassendi": {
+      "oneLineEs": "Restaurador del atomismo epicúreo y crítico contemporáneo de Descartes en las objeciones a las Meditaciones.",
+      "keywordsEs": [
+        "atomismo",
+        "renacimiento epicúreo",
+        "crítica de Descartes"
+      ]
+    },
+    "pierre-bayle": {
+      "oneLineEs": "El Diccionario histórico y crítico influyó en Leibniz mediante el escepticismo, la tolerancia y la teodicea.",
+      "keywordsEs": [
+        "escepticismo",
+        "tolerancia",
+        "Diccionario histórico y crítico"
+      ]
+    },
+    "maine-de-biran": {
+      "oneLineEs": "La experiencia interior del esfuerzo y la voluntad abrió el espiritualismo francés; enlaza a Descartes con Bergson.",
+      "keywordsEs": [
+        "voluntad",
+        "esfuerzo",
+        "experiencia interior"
+      ]
+    },
+    "victor-cousin": {
+      "oneLineEs": "El eclecticismo y la filosofía académica francesa absorbieron el idealismo alemán y la filosofía crítica.",
+      "keywordsEs": [
+        "eclecticismo",
+        "filosofía académica",
+        "recepción del idealismo"
+      ]
+    },
+    "renouvier": {
+      "oneLineEs": "El neocriticismo reescribió a Kant e influyó en William James sobre el libre albedrío.",
+      "keywordsEs": [
+        "neocriticismo",
+        "libre albedrío",
+        "recepción de Kant"
+      ]
+    },
+    "ravaisson": {
+      "oneLineEs": "Sobre el hábito influyó en Bergson y, vía Aristóteles, enlazó el espiritualismo francés con la metafísica clásica.",
+      "keywordsEs": [
+        "hábito",
+        "estudios aristotélicos",
+        "filosofía de la vida"
+      ]
+    },
+    "boutroux": {
+      "oneLineEs": "Criticó el determinismo estricto mediante la contingencia de la ley natural; enlazó la filosofía de la ciencia francesa y el espiritualismo.",
+      "keywordsEs": [
+        "contingencia",
+        "leyes de la naturaleza",
+        "crítica del determinismo"
+      ]
+    },
+    "badarayana": {
+      "oneLineEs": "Autor tradicional de los Brahma Sūtras; texto raíz del Vedānta compartido por los tres grandes comentaristas.",
+      "keywordsEs": [
+        "Vedānta",
+        "Brahma Sūtras",
+        "atribución tradicional"
+      ]
+    },
+    "kapila-ishvarakrishna": {
+      "oneLineEs": "Sistematizó el dualismo sāṃkhya y los tres guṇas en la Sāṃkhya Kārikā.",
+      "keywordsEs": [
+        "Sāṃkhya",
+        "dualismo",
+        "tres guṇas"
+      ]
+    },
+    "aksapada-gautama": {
+      "oneLineEs": "Autor tradicional del Nyāya Sūtra; fuente de la lógica y la epistemología nyāya.",
+      "keywordsEs": [
+        "Nyāya Sūtra",
+        "lógica",
+        "epistemología"
+      ]
+    },
+    "bhartrhari": {
+      "oneLineEs": "Autor del Vākyapadīya; nodo clave de la filosofía del lenguaje y la gramática indias.",
+      "keywordsEs": [
+        "Vākyapadīya",
+        "filosofía del lenguaje",
+        "eternidad del sonido (śabda)"
+      ]
+    },
+    "kumarila-bhatta": {
+      "oneLineEs": "Epistemólogo mīmāṃsā que defendió la autoridad védica y criticó la teoría budista de los pramāṇa.",
+      "keywordsEs": [
+        "Mīmāṃsā",
+        "debates sobre pramāṇa",
+        "autoridad escritural"
+      ]
+    },
+    "udayana": {
+      "oneLineEs": "Figura nyāya que argumentó sistemáticamente la existencia de Dios y respondió a los críticos budistas.",
+      "keywordsEs": [
+        "escuela Nyāya",
+        "argumentos de la existencia de Dios",
+        "argumentos anti-budistas"
+      ]
+    },
+    "gangesa": {
+      "oneLineEs": "Figura central del Navya-Nyāya que, en la Joya de la verdad, avanzó la lógica y la epistemología precisas.",
+      "keywordsEs": [
+        "Navya-Nyāya",
+        "lógica",
+        "epistemología"
+      ]
+    },
+    "abhinavagupta": {
+      "oneLineEs": "Maestro del śivaísmo de Cachemira y de la estética india que enlaza la metafísica religiosa con la tradición del rasa.",
+      "keywordsEs": [
+        "śivaísmo de Cachemira",
+        "teoría del rasa",
+        "estética"
+      ]
+    },
+    "vivekananda": {
+      "oneLineEs": "Figura del neo-Vedānta y transmisor del pensamiento religioso indio moderno.",
+      "keywordsEs": [
+        "neo-Vedānta",
+        "pensamiento indio moderno",
+        "transmisión religiosa"
+      ]
+    },
+    "aurobindo": {
+      "oneLineEs": "Representante del Yoga integral y de la espiritualidad evolutiva que enlaza Vedānta, yoga y el pensamiento indio moderno.",
+      "keywordsEs": [
+        "Yoga integral",
+        "espiritualidad evolutiva",
+        "India moderna"
+      ]
+    },
+    "kukai": {
+      "oneLineEs": "Fundador del Shingon japonés que enlazó el budismo esotérico tang con Japón.",
+      "keywordsEs": [
+        "Shingon",
+        "estudio en la China tang",
+        "budismo esotérico"
+      ]
+    },
+    "honen": {
+      "oneLineEs": "Fundador del budismo japonés de Tierra Pura que reorganizó la tradición en torno al nembutsu exclusivo.",
+      "keywordsEs": [
+        "escuela de Tierra Pura",
+        "nembutsu exclusivo",
+        "budismo japonés"
+      ]
+    },
+    "nichiren": {
+      "oneLineEs": "Fundador del budismo Nichiren mediante la fe del Loto y el discurso de protección nacional en Japón.",
+      "keywordsEs": [
+        "fe del Loto",
+        "escuela Nichiren",
+        "doctrina de protección nacional"
+      ]
+    },
+    "hakuin": {
+      "oneLineEs": "Revitalizador del zen Rinzai en el periodo Edo que reforzó el sistema de entrenamiento por kōan.",
+      "keywordsEs": [
+        "zen Rinzai",
+        "kōan",
+        "revitalización del zen"
+      ]
+    },
+    "ito-jinsai": {
+      "oneLineEs": "Figura del Aprendizaje Antiguo Edo que volvió a los textos de Confucio y Mencio y criticó el aprendizaje de Zhu Xi.",
+      "keywordsEs": [
+        "escuela del Aprendizaje Antiguo",
+        "Confucio y Mencio",
+        "crítica del aprendizaje de Zhu Xi"
+      ]
+    },
+    "ogyu-sorai": {
+      "oneLineEs": "Confuciano Edo que criticó el aprendizaje de Zhu Xi mediante la retórica antigua y las instituciones de rito y música.",
+      "keywordsEs": [
+        "estudios de retórica antigua",
+        "instituciones de rito y música",
+        "confucianismo Edo"
+      ]
+    },
+    "motoori-norinaga": {
+      "oneLineEs": "Figura del kokugaku japonés que rehízo la estética y la identidad en torno a los clásicos y el mono no aware.",
+      "keywordsEs": [
+        "kokugaku",
+        "mono no aware",
+        "Comentario al Kojiki"
+      ]
+    },
+    "fukuzawa-yukichi": {
+      "oneLineEs": "Líder de la Ilustración Meiji que impulsó el pensamiento japonés moderno mediante la teoría de la civilización y la independencia.",
+      "keywordsEs": [
+        "Ilustración Meiji",
+        "teoría de la civilización",
+        "independencia y autoestima"
+      ]
+    },
+    "kuki-shuzo": {
+      "oneLineEs": "Estética del iki y de la contingencia que enlaza la estética japonesa con la filosofía continental.",
+      "keywordsEs": [
+        "iki",
+        "contingencia",
+        "Escuela de Kioto"
+      ]
+    },
+    "tanabe-hajime": {
+      "oneLineEs": "Núcleo de la Escuela de Kioto cuya lógica de la especie y la filosofía como metanoética forman un sistema distintivo.",
+      "keywordsEs": [
+        "Escuela de Kioto",
+        "lógica de la especie",
+        "metanoética"
+      ]
+    },
+    "wonhyo": {
+      "oneLineEs": "Figura del budismo coreano que unió diversas doctrinas mediante la armonía de las disputas (hwajaeng).",
+      "keywordsEs": [
+        "armonía de las disputas",
+        "Madhyamaka",
+        "Yogācāra / solo-conciencia"
+      ]
+    }
+  }
+}

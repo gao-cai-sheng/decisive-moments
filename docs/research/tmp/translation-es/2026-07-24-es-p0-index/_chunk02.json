@@ -1,0 +1,734 @@
+[
+  {
+    "id": "putnam",
+    "en": "Hilary Putnam",
+    "oneLineEn": "Spanned language, mind, science, and ethics via semantic externalism, realist turns, and fact-value entanglement.",
+    "oneLineZh": "以语义外在论、实在论转向和事实价值纠缠贯穿语言、心灵、科学与伦理哲学。",
+    "keywordsEn": [
+      "semantic externalism",
+      "internal realism",
+      "Twin Earth",
+      "fact-value entanglement",
+      "multiple realizability"
+    ],
+    "keywordsZh": [
+      "语义外在论",
+      "内在实在论",
+      "双生地球",
+      "事实价值纠缠",
+      "多重可实现性"
+    ]
+  },
+  {
+    "id": "davidson",
+    "en": "Donald Davidson",
+    "oneLineEn": "Remade post-Quinean language and mind philosophy via truth-theoretic semantics, radical interpretation, and action.",
+    "oneLineZh": "以真理论语义学、激进解释和行动理论重塑后蒯因时代的语言哲学与心灵哲学。",
+    "keywordsEn": [
+      "truth-conditional semantics",
+      "radical interpretation",
+      "reasons for action",
+      "anomalous monism",
+      "triangulation"
+    ],
+    "keywordsZh": [
+      "真理论语义学",
+      "激进解释",
+      "行动理由",
+      "反常一元论",
+      "三角测量"
+    ]
+  },
+  {
+    "id": "deleuze",
+    "en": "Gilles Deleuze",
+    "oneLineEn": "Rewrote metaphysics, desire theory, and poststructuralist politics via difference, repetition, becoming, and immanence.",
+    "oneLineZh": "以差异、重复、生成和内在性重写形而上学、欲望理论与后结构主义政治想象。",
+    "keywordsEn": [
+      "difference",
+      "repetition",
+      "immanence",
+      "desire",
+      "becoming"
+    ],
+    "keywordsZh": [
+      "差异",
+      "重复",
+      "内在性",
+      "欲望",
+      "生成"
+    ]
+  },
+  {
+    "id": "ricoeur",
+    "en": "Paul Ricoeur",
+    "oneLineEn": "Developed theories of symbol, metaphor, narrative, and selfhood between phenomenology and hermeneutics.",
+    "oneLineZh": "在现象学和解释学之间发展象征、隐喻、叙事和自我身份理论。",
+    "keywordsEn": [
+      "hermeneutics",
+      "symbol",
+      "metaphor",
+      "narrative identity",
+      "recognition"
+    ],
+    "keywordsZh": [
+      "解释学",
+      "象征",
+      "隐喻",
+      "叙事身份",
+      "承认"
+    ]
+  },
+  {
+    "id": "weber",
+    "en": "Max Weber",
+    "oneLineEn": "Analyzed modern capitalism, bureaucracy, and political responsibility via rationalization and types of domination.",
+    "oneLineZh": "以理解社会学、理性化和支配类型分析现代资本主义、官僚制与政治责任。",
+    "keywordsEn": [
+      "rationalization",
+      "Protestant ethic",
+      "bureaucracy",
+      "types of domination",
+      "vocation (Beruf)"
+    ],
+    "keywordsZh": [
+      "理性化",
+      "新教伦理",
+      "科层制",
+      "支配类型",
+      "志业"
+    ]
+  },
+  {
+    "id": "nishitani",
+    "en": "Keiji Nishitani",
+    "oneLineEn": "In the Kyoto School, answered modern nihilism and European ontology through Buddhist emptiness.",
+    "oneLineZh": "在京都学派中以佛教空回应现代虚无主义、宗教经验与欧洲存在论。",
+    "keywordsEn": [
+      "nihilism / nothingness",
+      "emptiness (sunyata)",
+      "philosophy of religion",
+      "Kyoto School",
+      "self-overcoming"
+    ],
+    "keywordsZh": [
+      "虚无",
+      "空",
+      "宗教哲学",
+      "京都学派",
+      "自我超克"
+    ]
+  },
+  {
+    "id": "radhakrishnan",
+    "en": "Sarvepalli Radhakrishnan",
+    "oneLineEn": "Restated Indian thought via modern Vedanta and comparative philosophy, placing religious experience in world dialogue.",
+    "oneLineZh": "以现代吠檀多和比较哲学方式重述印度思想，并把宗教经验置于世界哲学对话中。",
+    "keywordsEn": [
+      "Indian philosophy",
+      "comparative religion",
+      "Vedanta",
+      "intuition",
+      "spiritual humanism"
+    ],
+    "keywordsZh": [
+      "印度哲学",
+      "比较宗教",
+      "吠檀多",
+      "直觉",
+      "精神人文主义"
+    ]
+  },
+  {
+    "id": "madhva",
+    "en": "Madhva",
+    "oneLineEn": "Opposed Advaita with Dvaita Vedanta, stressing real difference among God, soul, and world.",
+    "oneLineZh": "以二元论吠檀多反对不二论，强调神、灵魂和世界之间真实差异。",
+    "keywordsEn": [
+      "Dvaita Vedanta",
+      "Vaishnavism",
+      "difference",
+      "commentary",
+      "liberation"
+    ],
+    "keywordsZh": [
+      "二元论吠檀多",
+      "毗湿奴信仰",
+      "差异",
+      "注疏",
+      "解脱"
+    ]
+  },
+  {
+    "id": "charles-taylor",
+    "en": "Charles Taylor",
+    "oneLineEn": "Remade political philosophy, ethics, and religious modernity studies via modern self, recognition, and secularization.",
+    "oneLineZh": "以现代自我、承认政治和世俗化理论重塑政治哲学、伦理学与宗教现代性研究。",
+    "keywordsEn": [
+      "politics of recognition",
+      "modern self",
+      "secular age",
+      "strong evaluation",
+      "communitarianism"
+    ],
+    "keywordsZh": [
+      "承认政治",
+      "现代自我",
+      "世俗时代",
+      "强评价",
+      "社群主义"
+    ]
+  },
+  {
+    "id": "bentham",
+    "en": "Jeremy Bentham",
+    "oneLineEn": "Linked ethics, legislation, and political calculation through greatest happiness and institutional legal reform.",
+    "oneLineZh": "以最大幸福原则和制度化法改革把伦理学、立法学与现代政治计算连接起来。",
+    "keywordsEn": [
+      "principle of utility",
+      "greatest happiness",
+      "legal reform",
+      "punishment",
+      "critique of rights"
+    ],
+    "keywordsZh": [
+      "功利原则",
+      "最大幸福",
+      "法改革",
+      "刑罚",
+      "权利批判"
+    ]
+  },
+  {
+    "id": "comte",
+    "en": "Auguste Comte",
+    "oneLineEn": "Joined modern knowledge order to social reorganization via three stages, science classification, and sociology.",
+    "oneLineZh": "以三阶段律、科学分类和社会学构想把现代知识秩序与社会重组方案结合起来。",
+    "keywordsEn": [
+      "positivism",
+      "law of three stages",
+      "classification of the sciences",
+      "sociology",
+      "Religion of Humanity"
+    ],
+    "keywordsZh": [
+      "实证主义",
+      "三阶段律",
+      "科学分类",
+      "社会学",
+      "人类宗教"
+    ]
+  },
+  {
+    "id": "schleiermacher",
+    "en": "Friedrich Schleiermacher",
+    "oneLineEn": "Linked modern theology, interpretation theory, and individuality via religious feeling and universal hermeneutics.",
+    "oneLineZh": "以宗教感情理论和普遍诠释学把现代神学、解释理论与主体个体性连接起来。",
+    "keywordsEn": [
+      "hermeneutics",
+      "religious feeling",
+      "absolute dependence",
+      "individuality (haecceity)",
+      "Romantic theology"
+    ],
+    "keywordsZh": [
+      "诠释学",
+      "宗教感情",
+      "绝对依赖",
+      "个体性",
+      "浪漫主义神学"
+    ]
+  },
+  {
+    "id": "reid",
+    "en": "Thomas Reid",
+    "oneLineEn": "Answered skepticism with common-sense principles and direct realism, extending epistemology to action and freedom.",
+    "oneLineZh": "以常识原则和直接实在论回应怀疑论，并把认识论延伸到行动、责任和自由问题。",
+    "keywordsEn": [
+      "common-sense philosophy",
+      "direct realism",
+      "anti-skepticism",
+      "perception",
+      "active power"
+    ],
+    "keywordsZh": [
+      "常识哲学",
+      "直接实在论",
+      "反怀疑论",
+      "知觉",
+      "主动能力"
+    ]
+  },
+  {
+    "id": "tocqueville",
+    "en": "Alexis de Tocqueville",
+    "oneLineEn": "Analyzed fragile conditions of modern free societies through democratic equality, association, and anti-centralization.",
+    "oneLineZh": "以民主平等条件、结社生活和中央集权批判分析现代自由社会的脆弱条件。",
+    "keywordsEn": [
+      "democracy",
+      "equality of conditions",
+      "association",
+      "local self-government",
+      "soft despotism"
+    ],
+    "keywordsZh": [
+      "民主",
+      "平等条件",
+      "结社",
+      "地方自治",
+      "温和专制"
+    ]
+  },
+  {
+    "id": "gramsci",
+    "en": "Antonio Gramsci",
+    "oneLineEn": "Rewrote Marxist revolutionary strategy and cultural politics via hegemony, civil society, and organic intellectuals.",
+    "oneLineZh": "以霸权、市民社会和有机知识分子理论重写马克思主义革命策略与文化政治。",
+    "keywordsEn": [
+      "hegemony",
+      "civil society",
+      "organic intellectuals",
+      "war of position",
+      "passive revolution"
+    ],
+    "keywordsZh": [
+      "霸权",
+      "市民社会",
+      "有机知识分子",
+      "阵地战",
+      "被动革命"
+    ]
+  },
+  {
+    "id": "lukacs",
+    "en": "György Lukács",
+    "oneLineEn": "Laid key prehistory for Western Marxism and critical theory via reification, totality, and class consciousness.",
+    "oneLineZh": "以物化、总体性和阶级意识理论奠定西方马克思主义与批判理论的重要前史。",
+    "keywordsEn": [
+      "reification",
+      "class consciousness",
+      "totality",
+      "dialectics",
+      "realism"
+    ],
+    "keywordsZh": [
+      "物化",
+      "阶级意识",
+      "总体性",
+      "辩证法",
+      "现实主义"
+    ]
+  },
+  {
+    "id": "bloch",
+    "en": "Ernst Bloch",
+    "oneLineEn": "Joined Marxist emancipatory politics, religious symbols, and utopia via Principle of Hope and not-yet consciousness.",
+    "oneLineZh": "以希望原则和尚未意识把马克思主义解放政治、宗教象征和乌托邦想象连接起来。",
+    "keywordsEn": [
+      "Principle of Hope",
+      "utopia",
+      "not-yet consciousness",
+      "anticipatory consciousness",
+      "messianic imagery"
+    ],
+    "keywordsZh": [
+      "希望原则",
+      "乌托邦",
+      "尚未意识",
+      "预期意识",
+      "弥赛亚意象"
+    ]
+  },
+  {
+    "id": "marcuse",
+    "en": "Herbert Marcuse",
+    "oneLineEn": "Advanced Frankfurt School politics via technological rationality, desire liberation, and industrial-society critique.",
+    "oneLineZh": "以技术理性、欲望解放和发达工业社会批判推进法兰克福学派政治哲学。",
+    "keywordsEn": [
+      "one-dimensional society",
+      "technological rationality",
+      "Eros",
+      "repressive tolerance",
+      "liberation"
+    ],
+    "keywordsZh": [
+      "单向度社会",
+      "技术理性",
+      "爱欲",
+      "压抑性宽容",
+      "解放"
+    ]
+  },
+  {
+    "id": "fromm",
+    "en": "Erich Fromm",
+    "oneLineEn": "Explained modern freedom, character, and social pathology via humanistic psychoanalysis and Marxist alienation theory.",
+    "oneLineZh": "以人本精神分析和马克思主义异化理论解释现代自由、人格和社会病理。",
+    "keywordsEn": [
+      "Escape from Freedom",
+      "social character",
+      "alienation",
+      "humanistic ethics",
+      "to have or to be"
+    ],
+    "keywordsZh": [
+      "逃避自由",
+      "社会性格",
+      "异化",
+      "人本伦理",
+      "占有与存在"
+    ]
+  },
+  {
+    "id": "berlin",
+    "en": "Isaiah Berlin",
+    "oneLineEn": "Remade 20th-c. liberal anti-utopian argument through two concepts of liberty and value pluralism.",
+    "oneLineZh": "以两种自由概念和价值多元论重塑二十世纪自由主义的反乌托邦论证。",
+    "keywordsEn": [
+      "negative liberty",
+      "positive liberty",
+      "value pluralism",
+      "anti-determinism",
+      "history of ideas"
+    ],
+    "keywordsZh": [
+      "消极自由",
+      "积极自由",
+      "价值多元",
+      "反决定论",
+      "思想史"
+    ]
+  },
+  {
+    "id": "hayek",
+    "en": "Friedrich Hayek",
+    "oneLineEn": "Critiqued planning rationality and rebuilt liberal rule-of-law theory via dispersed knowledge and spontaneous order.",
+    "oneLineZh": "以分散知识和自发秩序理论批判计划理性，并重构自由主义法治论。",
+    "keywordsEn": [
+      "spontaneous order",
+      "knowledge problem",
+      "rule of law",
+      "critique of planning",
+      "market order"
+    ],
+    "keywordsZh": [
+      "自发秩序",
+      "知识问题",
+      "法治",
+      "计划批判",
+      "市场秩序"
+    ]
+  },
+  {
+    "id": "schmitt",
+    "en": "Carl Schmitt",
+    "oneLineEn": "Exposes modern political crisis via sovereignty, exception, and friend-enemy; read critically amid Nazi complicity.",
+    "oneLineZh": "以主权决断、例外状态和敌友区分揭示现代政治秩序的危机，同时必须置于反自由主义和纳粹牵连的批判语境中。",
+    "keywordsEn": [
+      "sovereignty",
+      "state of exception",
+      "friend-enemy distinction",
+      "political theology",
+      "critique of parliamentarism"
+    ],
+    "keywordsZh": [
+      "主权",
+      "例外状态",
+      "敌友区分",
+      "政治神学",
+      "议会制批判"
+    ]
+  },
+  {
+    "id": "croce",
+    "en": "Benedetto Croce",
+    "oneLineEn": "Recast Italian idealism through expression aesthetics, historicism, and liberal history of freedom, reviving Vico.",
+    "oneLineZh": "以表现美学、历史主义和自由史观重构意大利唯心主义，并推动维柯的现代复兴。",
+    "keywordsEn": [
+      "aesthetics of expression",
+      "historicism",
+      "liberal philosophy of history",
+      "philosophy of the spirit",
+      "Vico revival"
+    ],
+    "keywordsZh": [
+      "表现美学",
+      "历史主义",
+      "自由史观",
+      "精神哲学",
+      "维柯复兴"
+    ]
+  },
+  {
+    "id": "yan-hui",
+    "en": "Yan Hui",
+    "oneLineEn": "Yan Yuan, Confucius's disciple famed for virtue, later taken as a classic model of Confucian self-cultivation.",
+    "oneLineZh": "孔门弟子中以德行著称的颜渊，后世常以其代表儒家修身典范。",
+    "keywordsEn": [
+      "Confucius's disciples",
+      "learning of ren",
+      "contentment in poverty with the Way"
+    ],
+    "keywordsZh": [
+      "孔门",
+      "仁学",
+      "安贫乐道"
+    ]
+  },
+  {
+    "id": "zengzi",
+    "en": "Zengzi",
+    "oneLineEn": "Later Confucian disciple known for transmitting filial piety, vigilant solitude, and self-cultivation.",
+    "oneLineZh": "孔门后学中以孝道、慎独与修身传承著称的儒家人物。",
+    "keywordsEn": [
+      "filial piety",
+      "Confucius's disciples",
+      "the Great Learning"
+    ],
+    "keywordsZh": [
+      "孝道",
+      "孔门",
+      "大学"
+    ]
+  },
+  {
+    "id": "zisi",
+    "en": "Zisi",
+    "oneLineEn": "Confucius's grandson and a key early Warring States link in the transmission from Confucius to Mencius.",
+    "oneLineZh": "孔子之孙、战国早期儒家传承中连接孔孟的重要人物。",
+    "keywordsEn": [
+      "the Doctrine of the Mean",
+      "later Confucian disciples",
+      "nature and destiny (xing-ming)"
+    ],
+    "keywordsZh": [
+      "中庸",
+      "孔门后学",
+      "性命"
+    ]
+  },
+  {
+    "id": "zigong",
+    "en": "Zigong",
+    "oneLineEn": "Disciple of Confucius known for speech, government affairs, and diplomacy.",
+    "oneLineZh": "以言语、政事与外交能力著称的孔门弟子。",
+    "keywordsEn": [
+      "Confucius's disciples",
+      "diplomacy",
+      "speech division"
+    ],
+    "keywordsZh": [
+      "孔门",
+      "外交",
+      "言语科"
+    ]
+  },
+  {
+    "id": "shang-yang",
+    "en": "Shang Yang",
+    "oneLineEn": "Warring States Legalist reformer and a pivotal figure in Qin's institutional transformation.",
+    "oneLineZh": "战国法家改革者，秦国制度转型的关键人物。",
+    "keywordsEn": [
+      "Legalism",
+      "institutional reform",
+      "state of Qin"
+    ],
+    "keywordsZh": [
+      "法家",
+      "变法",
+      "秦国"
+    ]
+  },
+  {
+    "id": "shen-buhai",
+    "en": "Shen Buhai",
+    "oneLineEn": "Warring States Han chancellor and Legalist known for administrative technique (shu) and bureaucracy.",
+    "oneLineZh": "战国韩国相，以“术”与官僚控制问题著称的法家人物。",
+    "keywordsEn": [
+      "statecraft (shu)",
+      "Legalism",
+      "bureaucracy"
+    ],
+    "keywordsZh": [
+      "术",
+      "法家",
+      "官僚制"
+    ]
+  },
+  {
+    "id": "shen-dao",
+    "en": "Shen Dao",
+    "oneLineEn": "Warring States Jixia scholar often taken as Legalist theorist of situational power (shi).",
+    "oneLineZh": "战国稷下学者，常被视为法家“势”论代表。",
+    "keywordsEn": [
+      "positional power (shi)",
+      "Huang-Lao",
+      "Jixia"
+    ],
+    "keywordsZh": [
+      "势",
+      "黄老",
+      "稷下"
+    ]
+  },
+  {
+    "id": "hui-shi",
+    "en": "Hui Shi",
+    "oneLineEn": "Warring States School of Names figure with Zhuangzi, known for disputation and uniting same-different.",
+    "oneLineZh": "战国名家代表，与庄子同时并以辩学和合同异命题著称。",
+    "keywordsEn": [
+      "School of Names",
+      "disputers",
+      "uniting same and different"
+    ],
+    "keywordsZh": [
+      "名家",
+      "辩者",
+      "合同异"
+    ]
+  },
+  {
+    "id": "gongsun-long",
+    "en": "Gongsun Long",
+    "oneLineEn": "Warring States School of Names figure known for 'a white horse is not a horse' and name-reality debate.",
+    "oneLineZh": "战国名家代表，以白马非马等名实论辩著称。",
+    "keywordsEn": [
+      "School of Names",
+      "a white horse is not a horse",
+      "disputation"
+    ],
+    "keywordsZh": [
+      "名家",
+      "白马非马",
+      "辩学"
+    ]
+  },
+  {
+    "id": "yang-zhu",
+    "en": "Yang Zhu",
+    "oneLineEn": "Warring States figure whose 'for myself' and 'valuing the self' became a foil between Confucians and Mohists.",
+    "oneLineZh": "战国思想人物，因“为我”“贵己”传统而在儒墨之间成为重要参照。",
+    "keywordsEn": [
+      "for myself",
+      "valuing the self",
+      "Mencius's critique"
+    ],
+    "keywordsZh": [
+      "为我",
+      "贵己",
+      "孟子批判"
+    ]
+  },
+  {
+    "id": "xu-xing",
+    "en": "Xu Xing",
+    "oneLineEn": "Warring States Agriculturalist known from Mencius for the tilling-together thesis.",
+    "oneLineZh": "战国农家代表人物，以并耕主张见于《孟子》。",
+    "keywordsEn": [
+      "Agriculturalist school",
+      "tilling together",
+      "debate with Mencius"
+    ],
+    "keywordsZh": [
+      "农家",
+      "并耕",
+      "孟子辩论"
+    ]
+  },
+  {
+    "id": "zou-yan",
+    "en": "Zou Yan",
+    "oneLineEn": "Warring States Yin-Yang school figure known for five-virtues succession and Great Nine Continents.",
+    "oneLineZh": "战国阴阳家代表，以五德终始和大九州说著称。",
+    "keywordsEn": [
+      "Yin-Yang school",
+      "five-virtues succession",
+      "Jixia"
+    ],
+    "keywordsZh": [
+      "阴阳家",
+      "五德终始",
+      "稷下"
+    ]
+  },
+  {
+    "id": "song-xing",
+    "en": "Song Xing",
+    "oneLineEn": "Warring States Jixia figure often paired with Yin Wen; urged restraint of desire and non-contention.",
+    "oneLineZh": "战国稷下思想人物，常与尹文并称，主张节欲与非斗。",
+    "keywordsEn": [
+      "Jixia",
+      "universal love and non-contention",
+      "few desires"
+    ],
+    "keywordsZh": [
+      "稷下",
+      "兼爱非斗",
+      "寡欲"
+    ]
+  },
+  {
+    "id": "yin-wen",
+    "en": "Yin Wen",
+    "oneLineEn": "Warring States Jixia figure linked to names-realities, forms-names, and the Yin Wenzi tradition.",
+    "oneLineZh": "战国稷下人物，常与名实、刑名和尹文子传统相连。",
+    "keywordsEn": [
+      "names and realities",
+      "Jixia",
+      "Yin Wenzi"
+    ],
+    "keywordsZh": [
+      "名实",
+      "稷下",
+      "尹文子"
+    ]
+  },
+  {
+    "id": "guan-zhong",
+    "en": "Guan Zhong",
+    "oneLineEn": "Spring and Autumn Qi statesman traditionally seen as pioneer of enriching the state and institutional governance.",
+    "oneLineZh": "春秋齐国政治家，传统上被视为富国强兵和制度治理先驱。",
+    "keywordsEn": [
+      "Duke Huan of Qi",
+      "hegemonic politics",
+      "Guanzi"
+    ],
+    "keywordsZh": [
+      "齐桓公",
+      "霸政",
+      "管子"
+    ]
+  },
+  {
+    "id": "yan-ying",
+    "en": "Yan Ying",
+    "oneLineEn": "Spring and Autumn Qi statesman known for frugality, wit, and remonstrance.",
+    "oneLineZh": "春秋齐国政治家，以节俭、机智和谏诤形象著称。",
+    "keywordsEn": [
+      "State of Qi",
+      "remonstrance",
+      "Yanzi chunqiu"
+    ],
+    "keywordsZh": [
+      "齐国",
+      "谏诤",
+      "晏子春秋"
+    ]
+  },
+  {
+    "id": "sunzi",
+    "en": "Sunzi",
+    "oneLineEn": "Central figure of the military tradition tied to The Art of War.",
+    "oneLineZh": "《孙子兵法》所系兵学传统的核心人物。",
+    "keywordsEn": [
+      "art of war",
+      "State of Wu",
+      "strategy"
+    ],
+    "keywordsZh": [
+      "兵法",
+      "吴国",
+      "谋略"
+    ]
+  }
+]

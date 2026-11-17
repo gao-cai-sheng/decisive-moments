@@ -1,0 +1,662 @@
+[
+  {
+    "id": "george-herbert-mead",
+    "batch": "2026-07-23-p0-batch-025",
+    "names": {
+      "zh": "乔治·赫伯特·米德",
+      "en": "George Herbert Mead"
+    },
+    "oneLineZh": "以主我与客我之分和角色采择建立社会自我理论。",
+    "keywordsZh": [
+      "社会自我",
+      "符号互动",
+      "角色采择"
+    ],
+    "oneLineEn": "Built a theory of the social self via I/me distinction and role-taking.",
+    "keywordsEn": [
+      "social self",
+      "symbolic interaction",
+      "role-taking"
+    ],
+    "civilization": "western",
+    "tier": "seed"
+  },
+  {
+    "id": "george-santayana",
+    "batch": "2026-07-23-p0-batch-025",
+    "names": {
+      "zh": "乔治·桑塔亚那",
+      "en": "George Santayana"
+    },
+    "oneLineZh": "自然主义、怀疑论与美学的交界人物，以《理性的生命》和《存在的领域》立说。",
+    "keywordsZh": [
+      "自然主义",
+      "美学",
+      "本质领域"
+    ],
+    "oneLineEn": "At the border of naturalism, skepticism, and aesthetics; Life of Reason and Realms of Being.",
+    "keywordsEn": [
+      "naturalism",
+      "aesthetics",
+      "realm of essence"
+    ],
+    "civilization": "western",
+    "tier": "seed"
+  },
+  {
+    "id": "georges-bataille",
+    "batch": "2026-07-23-p0-batch-025",
+    "names": {
+      "zh": "乔治·巴塔耶",
+      "en": "Georges Bataille"
+    },
+    "oneLineZh": "以耗费、逾越和普遍经济概念探讨神圣与僭越。",
+    "keywordsZh": [
+      "耗费",
+      "逾越",
+      "普遍经济"
+    ],
+    "oneLineEn": "Explored the sacred and transgression through expenditure, excess, and general economy.",
+    "keywordsEn": [
+      "expenditure",
+      "transgression",
+      "general economy"
+    ],
+    "civilization": "western",
+    "tier": "seed"
+  },
+  {
+    "id": "georges-sorel",
+    "batch": "2026-07-23-p0-batch-025",
+    "names": {
+      "zh": "乔治·索雷尔",
+      "en": "Georges Sorel"
+    },
+    "oneLineZh": "《论暴力》以社会神话和革命工团主义构成马克思主义内部的异端。",
+    "keywordsZh": [
+      "暴力",
+      "社会神话",
+      "工团主义"
+    ],
+    "oneLineEn": "Reflections on Violence made social myth and revolutionary syndicalism a heterodox Marxist path.",
+    "keywordsEn": [
+      "violence",
+      "social myth",
+      "syndicalism"
+    ],
+    "civilization": "western",
+    "tier": "seed"
+  },
+  {
+    "id": "gilbert-ryle",
+    "batch": "2026-07-23-p0-batch-025",
+    "names": {
+      "zh": "吉尔伯特·赖尔",
+      "en": "Gilbert Ryle"
+    },
+    "oneLineZh": "《心的概念》以「机器中的幽灵」批判笛卡尔二元论，奠定日常语言学派。",
+    "keywordsZh": [
+      "日常语言",
+      "范畴错误",
+      "心的概念"
+    ],
+    "oneLineEn": "The Concept of Mind's 'ghost in the machine' critique of dualism grounded ordinary-language philosophy.",
+    "keywordsEn": [
+      "ordinary language",
+      "category mistake",
+      "The Concept of Mind"
+    ],
+    "civilization": "western",
+    "tier": "seed"
+  },
+  {
+    "id": "gilbert-simondon",
+    "batch": "2026-07-23-p0-batch-025",
+    "names": {
+      "zh": "吉尔贝尔·西蒙东",
+      "en": "Gilbert Simondon"
+    },
+    "oneLineZh": "以个体化理论和技术物的存在方式重构技术哲学。",
+    "keywordsZh": [
+      "个体化",
+      "技术哲学",
+      "跨个体"
+    ],
+    "oneLineEn": "Recast philosophy of technology through individuation and the mode of existence of technical objects.",
+    "keywordsEn": [
+      "individuation",
+      "philosophy of technology",
+      "transindividual"
+    ],
+    "civilization": "western",
+    "tier": "seed"
+  },
+  {
+    "id": "giovanni-gentile",
+    "batch": "2026-07-23-p0-batch-025",
+    "names": {
+      "zh": "乔瓦尼·金蒂莱",
+      "en": "Giovanni Gentile"
+    },
+    "oneLineZh": "实际唯心主义的创立者，主张思维行动即唯一实在，因此与克罗齐分道扬镳。",
+    "keywordsZh": [
+      "实际唯心主义",
+      "意大利观念论",
+      "思维行动"
+    ],
+    "oneLineEn": "Founder of actual idealism; pure act of thinking as sole reality, diverging from Croce.",
+    "keywordsEn": [
+      "actual idealism",
+      "Italian idealism",
+      "act of thinking"
+    ],
+    "civilization": "western",
+    "tier": "seed"
+  },
+  {
+    "id": "hans-jonas",
+    "batch": "2026-07-23-p0-batch-025",
+    "names": {
+      "zh": "汉斯·约纳斯",
+      "en": "Hans Jonas"
+    },
+    "oneLineZh": "《责任原理》为技术文明提出面向未来世代的伦理律令。",
+    "keywordsZh": [
+      "责任伦理",
+      "技术批判",
+      "诺斯替研究"
+    ],
+    "oneLineEn": "The Imperative of Responsibility set ethical demands on technological civilization for future generations.",
+    "keywordsEn": [
+      "ethics of responsibility",
+      "critique of technology",
+      "Gnostic studies"
+    ],
+    "civilization": "western",
+    "tier": "seed"
+  },
+  {
+    "id": "heinrich-rickert",
+    "batch": "2026-07-23-p0-batch-025",
+    "names": {
+      "zh": "海因里希·李凯尔特",
+      "en": "Heinrich Rickert"
+    },
+    "oneLineZh": "以价值关联概念完善文化科学方法论，构成韦伯方法论的直接背景。",
+    "keywordsZh": [
+      "价值关联",
+      "文化科学",
+      "西南学派"
+    ],
+    "oneLineEn": "Refined cultural-science methodology via value-relation; direct background to Weber's method.",
+    "keywordsEn": [
+      "value-relation",
+      "cultural sciences",
+      "Southwest School"
+    ],
+    "civilization": "western",
+    "tier": "seed"
+  },
+  {
+    "id": "henry-sidgwick",
+    "batch": "2026-07-23-p0-batch-025",
+    "names": {
+      "zh": "亨利·西季威克",
+      "en": "Henry Sidgwick"
+    },
+    "oneLineZh": "古典功利主义的系统化者，《伦理学方法》为密尔之后的伦理学奠定技术化框架。",
+    "keywordsZh": [
+      "功利主义",
+      "伦理学方法",
+      "直觉主义"
+    ],
+    "oneLineEn": "Systematizer of classical utilitarianism; Methods of Ethics set a technical frame after Mill.",
+    "keywordsEn": [
+      "utilitarianism",
+      "Methods of Ethics",
+      "intuitionism"
+    ],
+    "civilization": "western",
+    "tier": "seed"
+  },
+  {
+    "id": "jacques-maritain",
+    "batch": "2026-07-23-p0-batch-025",
+    "names": {
+      "zh": "雅克·马里坦",
+      "en": "Jacques Maritain"
+    },
+    "oneLineZh": "新托马斯主义代表，为世界人权宣言提供了哲学论证。",
+    "keywordsZh": [
+      "新托马斯主义",
+      "人权",
+      "整全人道主义"
+    ],
+    "oneLineEn": "Neo-Thomist who supplied philosophical arguments for the Universal Declaration of Human Rights.",
+    "keywordsEn": [
+      "neo-Thomism",
+      "human rights",
+      "integral humanism"
+    ],
+    "civilization": "western",
+    "tier": "seed"
+  },
+  {
+    "id": "jaimini",
+    "batch": "2026-07-23-p0-batch-025",
+    "names": {
+      "zh": "阇弥尼",
+      "en": "Jaimini"
+    },
+    "oneLineZh": "《弥曼差经》的传统归属作者，前弥曼差的祭祀解释学由此立宗。",
+    "keywordsZh": [
+      "弥曼差",
+      "祭祀解释学",
+      "传统归属"
+    ],
+    "oneLineEn": "Traditional author of the Mīmāṃsā Sūtra; early Mīmāṃsā ritual hermeneutics takes its stand here.",
+    "keywordsEn": [
+      "Mīmāṃsā",
+      "ritual hermeneutics",
+      "traditional attribution"
+    ],
+    "civilization": "indian",
+    "tier": "seed"
+  },
+  {
+    "id": "jan-patocka",
+    "batch": "2026-07-23-p0-batch-025",
+    "names": {
+      "zh": "扬·帕托奇卡",
+      "en": "Jan Patočka"
+    },
+    "oneLineZh": "捷克现象学家与七七宪章发言人，以照料灵魂论述历史性存在。",
+    "keywordsZh": [
+      "现象学",
+      "照料灵魂",
+      "异见政治"
+    ],
+    "oneLineEn": "Czech phenomenologist and Charter 77 spokesman; care of the soul as historical existence.",
+    "keywordsEn": [
+      "phenomenology",
+      "care of the soul",
+      "dissident politics"
+    ],
+    "civilization": "western",
+    "tier": "seed"
+  },
+  {
+    "id": "jane-addams",
+    "batch": "2026-07-23-p0-batch-025",
+    "names": {
+      "zh": "简·亚当斯",
+      "en": "Jane Addams"
+    },
+    "oneLineZh": "赫尔馆创办者，把实用主义带入社会改革与和平运动。",
+    "keywordsZh": [
+      "社会伦理",
+      "民主",
+      "实用主义改革"
+    ],
+    "oneLineEn": "Hull House founder who carried pragmatism into social reform and the peace movement.",
+    "keywordsEn": [
+      "social ethics",
+      "democracy",
+      "pragmatist reform"
+    ],
+    "civilization": "western",
+    "tier": "seed"
+  },
+  {
+    "id": "jankelevitch",
+    "batch": "2026-07-23-p0-batch-025",
+    "names": {
+      "zh": "弗拉基米尔·扬凯列维奇",
+      "en": "Vladimir Jankélévitch"
+    },
+    "oneLineZh": "以「几乎无」和不可宽恕问题书写道德经验的细微处。",
+    "keywordsZh": [
+      "道德哲学",
+      "不可宽恕",
+      "几乎无"
+    ],
+    "oneLineEn": "Wrote the fine grain of moral experience through the almost-nothing and the unforgivable.",
+    "keywordsEn": [
+      "moral philosophy",
+      "the unforgivable",
+      "the almost-nothing"
+    ],
+    "civilization": "western",
+    "tier": "seed"
+  },
+  {
+    "id": "jean-luc-nancy",
+    "batch": "2026-07-23-p0-batch-025",
+    "names": {
+      "zh": "让-吕克·南希",
+      "en": "Jean-Luc Nancy"
+    },
+    "oneLineZh": "以无用的共通体和共在存在论回应海德格尔与巴塔耶。",
+    "keywordsZh": [
+      "共通体",
+      "共在",
+      "解构存在论"
+    ],
+    "oneLineEn": "Inoperative community and being-with ontology in response to Heidegger and Bataille.",
+    "keywordsEn": [
+      "community",
+      "being-with",
+      "deconstructive ontology"
+    ],
+    "civilization": "western",
+    "tier": "seed"
+  },
+  {
+    "id": "jjc-smart",
+    "batch": "2026-07-23-p0-batch-025",
+    "names": {
+      "zh": "J. J. C. 斯马特",
+      "en": "J. J. C. Smart"
+    },
+    "oneLineZh": "心脑同一论与后果主义代表，主张一种彻底的科学实在论。",
+    "keywordsZh": [
+      "心脑同一论",
+      "后果主义",
+      "科学实在论"
+    ],
+    "oneLineEn": "Mind-brain identity theory and consequentialism under a thoroughgoing scientific realism.",
+    "keywordsEn": [
+      "mind-brain identity theory",
+      "consequentialism",
+      "scientific realism"
+    ],
+    "civilization": "western",
+    "tier": "seed"
+  },
+  {
+    "id": "jl-austin",
+    "batch": "2026-07-23-p0-batch-025",
+    "names": {
+      "zh": "约翰·兰肖·奥斯汀",
+      "en": "J. L. Austin"
+    },
+    "oneLineZh": "言语行为理论的源头，《如何以言行事》把语言从意义推向行动。",
+    "keywordsZh": [
+      "言语行为",
+      "施行话语",
+      "日常语言"
+    ],
+    "oneLineEn": "Source of speech-act theory; How to Do Things with Words moved language from meaning to action.",
+    "keywordsEn": [
+      "speech acts",
+      "performative utterance",
+      "ordinary language"
+    ],
+    "civilization": "western",
+    "tier": "seed"
+  },
+  {
+    "id": "john-mcdowell",
+    "batch": "2026-07-23-p0-batch-025",
+    "names": {
+      "zh": "约翰·麦克道威尔",
+      "en": "John McDowell"
+    },
+    "oneLineZh": "《心灵与世界》主张经验本身已是概念性的，重连分析哲学与黑格尔传统。",
+    "keywordsZh": [
+      "概念经验",
+      "德性伦理",
+      "匹兹堡学派"
+    ],
+    "oneLineEn": "Mind and World holds experience already conceptual, reconnecting analysis with Hegel.",
+    "keywordsEn": [
+      "conceptual experience",
+      "virtue ethics",
+      "Pittsburgh School"
+    ],
+    "civilization": "western",
+    "tier": "seed"
+  },
+  {
+    "id": "jose-ortega-y-gasset",
+    "batch": "2026-07-23-p0-batch-025",
+    "names": {
+      "zh": "何塞·奥尔特加-伊-加塞特",
+      "en": "José Ortega y Gasset"
+    },
+    "oneLineZh": "生命理性与视角主义的倡导者，《大众的反叛》批判现代群众社会。",
+    "keywordsZh": [
+      "生命理性",
+      "视角主义",
+      "大众社会"
+    ],
+    "oneLineEn": "Advocate of ratiovitalism and perspectivism; The Revolt of the Masses critiques mass society.",
+    "keywordsEn": [
+      "ratiovitalism",
+      "perspectivism",
+      "mass society"
+    ],
+    "civilization": "western",
+    "tier": "seed"
+  },
+  {
+    "id": "josiah-royce",
+    "batch": "2026-07-23-p0-batch-025",
+    "names": {
+      "zh": "乔赛亚·罗伊斯",
+      "en": "Josiah Royce"
+    },
+    "oneLineZh": "美国绝对唯心主义与共同体哲学代表，以「忠」为核心构造伦理学。",
+    "keywordsZh": [
+      "绝对唯心主义",
+      "共同体",
+      "忠的哲学"
+    ],
+    "oneLineEn": "American absolute idealist and philosopher of community, centering ethics on loyalty.",
+    "keywordsEn": [
+      "absolute idealism",
+      "community",
+      "philosophy of loyalty"
+    ],
+    "civilization": "western",
+    "tier": "seed"
+  },
+  {
+    "id": "judith-jarvis-thomson",
+    "batch": "2026-07-23-p0-batch-025",
+    "names": {
+      "zh": "朱迪思·贾维斯·汤姆森",
+      "en": "Judith Jarvis Thomson"
+    },
+    "oneLineZh": "以小提琴家论证和电车难题重塑应用伦理学的案例传统。",
+    "keywordsZh": [
+      "权利",
+      "生命伦理",
+      "电车难题"
+    ],
+    "oneLineEn": "Violinist argument and trolley problem reshaped applied ethics' case tradition.",
+    "keywordsEn": [
+      "rights",
+      "bioethics",
+      "trolley problem"
+    ],
+    "civilization": "western",
+    "tier": "seed"
+  },
+  {
+    "id": "judith-shklar",
+    "batch": "2026-07-23-p0-batch-025",
+    "names": {
+      "zh": "朱迪思·施克拉",
+      "en": "Judith Shklar"
+    },
+    "oneLineZh": "以「恐惧的自由主义」和对残酷的优先关注重构自由主义。",
+    "keywordsZh": [
+      "恐惧自由主义",
+      "残酷",
+      "不义"
+    ],
+    "oneLineEn": "Rebuilt liberalism around the liberalism of fear and a priority concern with cruelty.",
+    "keywordsEn": [
+      "liberalism of fear",
+      "cruelty",
+      "injustice"
+    ],
+    "civilization": "western",
+    "tier": "seed"
+  },
+  {
+    "id": "kanada",
+    "batch": "2026-07-23-p0-batch-025",
+    "names": {
+      "zh": "迦那陀",
+      "en": "Kaṇāda"
+    },
+    "oneLineZh": "《胜论经》的传统归属作者，胜论派的原子论与范畴论由此立宗。",
+    "keywordsZh": [
+      "胜论经",
+      "原子论",
+      "范畴论"
+    ],
+    "oneLineEn": "Traditional author of the Vaiśeṣika Sūtra; Vaiśeṣika atomism and categories take their stand here.",
+    "keywordsEn": [
+      "Vaiśeṣika Sūtra",
+      "atomism",
+      "categories"
+    ],
+    "civilization": "indian",
+    "tier": "seed"
+  },
+  {
+    "id": "karl-lowith",
+    "batch": "2026-07-23-p0-batch-025",
+    "names": {
+      "zh": "卡尔·洛维特",
+      "en": "Karl Löwith"
+    },
+    "oneLineZh": "论证现代进步史观其实是基督教末世论的世俗化产物。",
+    "keywordsZh": [
+      "历史哲学",
+      "世俗化",
+      "现代性批判"
+    ],
+    "oneLineEn": "Argued that modern progress historiography is a secularized Christian eschatology.",
+    "keywordsEn": [
+      "philosophy of history",
+      "secularization",
+      "critique of modernity"
+    ],
+    "civilization": "western",
+    "tier": "seed"
+  },
+  {
+    "id": "koyre",
+    "batch": "2026-07-23-p0-batch-025",
+    "names": {
+      "zh": "亚历山大·柯瓦雷",
+      "en": "Alexandre Koyré"
+    },
+    "oneLineZh": "《从封闭世界到无限宇宙》重写科学革命史，深刻影响库恩。",
+    "keywordsZh": [
+      "科学革命史",
+      "观念史",
+      "无限宇宙"
+    ],
+    "oneLineEn": "From the Closed World to the Infinite Universe rewrote Scientific Revolution history, shaping Kuhn.",
+    "keywordsEn": [
+      "history of the Scientific Revolution",
+      "history of ideas",
+      "infinite universe"
+    ],
+    "civilization": "western",
+    "tier": "seed"
+  },
+  {
+    "id": "lacan",
+    "batch": "2026-07-23-p0-batch-025",
+    "names": {
+      "zh": "雅克·拉康",
+      "en": "Jacques Lacan"
+    },
+    "oneLineZh": "以镜像阶段和「无意识如语言般构成」重读弗洛伊德。",
+    "keywordsZh": [
+      "精神分析",
+      "镜像阶段",
+      "象征界"
+    ],
+    "oneLineEn": "Reread Freud via the mirror stage and the claim that the unconscious is structured like a language.",
+    "keywordsEn": [
+      "psychoanalysis",
+      "mirror stage",
+      "the Symbolic"
+    ],
+    "civilization": "western",
+    "tier": "seed"
+  },
+  {
+    "id": "leo-strauss",
+    "batch": "2026-07-23-p0-batch-025",
+    "names": {
+      "zh": "列奥·施特劳斯",
+      "en": "Leo Strauss"
+    },
+    "oneLineZh": "古典政治哲学的复兴者，以隐微写作解释重读古今之争。",
+    "keywordsZh": [
+      "古典政治哲学",
+      "隐微写作",
+      "古今之争"
+    ],
+    "oneLineEn": "Revived classical political philosophy and reread the ancients-moderns quarrel via esoteric writing.",
+    "keywordsEn": [
+      "classical political philosophy",
+      "esoteric writing",
+      "ancients and moderns"
+    ],
+    "civilization": "western",
+    "tier": "seed"
+  },
+  {
+    "id": "leszek-kolakowski",
+    "batch": "2026-07-23-p0-batch-025",
+    "names": {
+      "zh": "莱谢克·科瓦科夫斯基",
+      "en": "Leszek Kołakowski"
+    },
+    "oneLineZh": "《马克思主义主要流派》作者，从修正主义转向对乌托邦的宗教式追问。",
+    "keywordsZh": [
+      "宗教哲学",
+      "马克思主义批判",
+      "东欧思想"
+    ],
+    "oneLineEn": "Author of Main Currents of Marxism; moved from revisionism to religious questioning of utopia.",
+    "keywordsEn": [
+      "philosophy of religion",
+      "critique of Marxism",
+      "Eastern European thought"
+    ],
+    "civilization": "western",
+    "tier": "seed"
+  },
+  {
+    "id": "levi-strauss",
+    "batch": "2026-07-23-p0-batch-025",
+    "names": {
+      "zh": "克洛德·列维-斯特劳斯",
+      "en": "Claude Lévi-Strauss"
+    },
+    "oneLineZh": "以亲属结构和神话学分析奠定结构人类学。",
+    "keywordsZh": [
+      "结构人类学",
+      "神话学",
+      "亲属结构"
+    ],
+    "oneLineEn": "Founded structural anthropology through kinship structures and myth analysis.",
+    "keywordsEn": [
+      "structural anthropology",
+      "mythology",
+      "kinship structures"
+    ],
+    "civilization": "western",
+    "tier": "seed"
+  }
+]

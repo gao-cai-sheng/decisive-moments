@@ -1,0 +1,642 @@
+[
+  {
+    "id": "yanshou",
+    "en": "Yanshou",
+    "oneLineEn": "Five Dynasties–Song master who joined Chan teaching with myriad-good return in the Source-Mirror.",
+    "oneLineZh": "五代宋初佛教大师，以《宗镜录》综合禅教与万善归心。",
+    "keywordsEn": [
+      "Records of the Source-Mirror",
+      "Collection on the Common Return of Myriad Goods",
+      "Chan-Pure Land confluence"
+    ],
+    "keywordsZh": [
+      "宗镜录",
+      "万善同归集",
+      "禅净合流"
+    ]
+  },
+  {
+    "id": "han-yu",
+    "en": "Han Yu",
+    "oneLineEn": "Tang Confucian revivalist and Ancient Prose leader who restated the Confucian Way in Yuan Dao.",
+    "oneLineZh": "唐代儒家复兴和古文运动代表，以《原道》重申儒家道统。",
+    "keywordsEn": [
+      "Yuan Dao (On the Origin of the Way)",
+      "Ancient Prose Movement",
+      "anti-Buddhism"
+    ],
+    "keywordsZh": [
+      "原道",
+      "古文运动",
+      "排佛"
+    ]
+  },
+  {
+    "id": "li-ao",
+    "en": "Li Ao",
+    "oneLineEn": "Tang Confucian who, in Book of Returning to Nature, discussed nature, emotion, and recovery of original nature.",
+    "oneLineZh": "唐代儒者，以《复性书》讨论性情和恢复本性。",
+    "keywordsEn": [
+      "Book of Returning to Nature",
+      "nature and destiny (xing-ming)",
+      "Tang Confucianism"
+    ],
+    "keywordsZh": [
+      "复性书",
+      "性命",
+      "唐代儒学"
+    ]
+  },
+  {
+    "id": "liu-zongyuan",
+    "en": "Liu Zongyuan",
+    "oneLineEn": "Tang thinker-writer known for arguments on Heaven and humanity, fengjian, and political institutions.",
+    "oneLineZh": "唐代思想家和文学家，以天人、封建与政治制度论著称。",
+    "keywordsEn": [
+      "Discourse on Heaven",
+      "On Fengjian",
+      "Eight Records of Yongzhou"
+    ],
+    "keywordsZh": [
+      "天说",
+      "封建论",
+      "永州八记"
+    ]
+  },
+  {
+    "id": "li-gou",
+    "en": "Li Gou",
+    "oneLineEn": "Northern Song Confucian and institutional thinker known for ritual, finance, and statecraft.",
+    "oneLineZh": "北宋儒者和制度思想家，以礼制、财政和经世论著称。",
+    "keywordsEn": [
+      "Master Xujiang",
+      "On the Zhouli Bringing Great Peace",
+      "discourse on ritual"
+    ],
+    "keywordsZh": [
+      "盱江先生",
+      "周礼致太平论",
+      "礼论"
+    ]
+  },
+  {
+    "id": "hu-yuan",
+    "en": "Hu Yuan",
+    "oneLineEn": "Northern Song educator-Confucian known for the Anding school and classics-plus-affairs pedagogy.",
+    "oneLineZh": "北宋教育家和儒者，以安定学派、经义治事教育著称。",
+    "keywordsEn": [
+      "Master Anding",
+      "Su-Hu teaching method",
+      "statecraft education"
+    ],
+    "keywordsZh": [
+      "安定先生",
+      "苏湖教法",
+      "经世教育"
+    ]
+  },
+  {
+    "id": "shao-yong",
+    "en": "Shao Yong",
+    "oneLineEn": "Northern Song Neo-Confucian pioneer known for image-number cosmology and observing things.",
+    "oneLineZh": "北宋理学先驱，以象数宇宙论和观物思想著称。",
+    "keywordsEn": [
+      "Supreme Principles Governing the World",
+      "observing things",
+      "image-number learning"
+    ],
+    "keywordsZh": [
+      "皇极经世",
+      "观物",
+      "象数学"
+    ]
+  },
+  {
+    "id": "sima-guang",
+    "en": "Sima Guang",
+    "oneLineEn": "Northern Song historian-statesman known for the Comprehensive Mirror and theories of political order.",
+    "oneLineZh": "北宋史学家和政治家，以《资治通鉴》与政治秩序论著称。",
+    "keywordsEn": [
+      "Comprehensive Mirror for Aid in Government",
+      "Hidden Vacuity",
+      "conservative politics"
+    ],
+    "keywordsZh": [
+      "资治通鉴",
+      "潜虚",
+      "保守政治"
+    ]
+  },
+  {
+    "id": "su-shi",
+    "en": "Su Shi",
+    "oneLineEn": "Northern Song literatus spanning the Three Teachings; known for classics, statecraft, and life-writing.",
+    "oneLineZh": "北宋文学家和思想人物，兼通儒释道，以经解、政论和人生论著称。",
+    "keywordsEn": [
+      "Dongpo's Commentary on the Changes",
+      "Collected Works of Su Shi",
+      "open-minded equanimity"
+    ],
+    "keywordsZh": [
+      "东坡易传",
+      "苏轼文集",
+      "通达"
+    ]
+  },
+  {
+    "id": "luo-congyan",
+    "en": "Luo Congyan",
+    "oneLineEn": "Song Neo-Confucian linking Cheng disciples to Li Tong and Zhu Xi's lineage.",
+    "oneLineZh": "宋代理学人物，承接程门并影响李侗、朱熹学脉。",
+    "keywordsEn": [
+      "Master Yuzhang",
+      "later Cheng disciples",
+      "forerunner of Min Learning"
+    ],
+    "keywordsZh": [
+      "豫章先生",
+      "程门后学",
+      "闽学前驱"
+    ]
+  },
+  {
+    "id": "hu-hong",
+    "en": "Hu Hong",
+    "oneLineEn": "Southern Song Huxiang School figure whose Understanding Words treats nature-substance and cultivation.",
+    "oneLineZh": "南宋湖湘学派代表，以《知言》讨论性体和修养。",
+    "keywordsEn": [
+      "Understanding Words (Zhiyan)",
+      "Huxiang School",
+      "nature as substance"
+    ],
+    "keywordsZh": [
+      "知言",
+      "湖湘学派",
+      "性体"
+    ]
+  },
+  {
+    "id": "zhang-shi",
+    "en": "Zhang Shi",
+    "oneLineEn": "Southern Song Neo-Confucian of the Huxiang school who long debated with Zhu Xi.",
+    "oneLineZh": "南宋理学家，湖湘学派代表，与朱熹长期论学。",
+    "keywordsEn": [
+      "Master Nanxuan",
+      "Huxiang School",
+      "reverence and righteousness"
+    ],
+    "keywordsZh": [
+      "南轩先生",
+      "湖湘学派",
+      "敬义"
+    ]
+  },
+  {
+    "id": "chen-liang",
+    "en": "Chen Liang",
+    "oneLineEn": "Southern Song Yongkang figure known for practical accomplishment and the Wang-Ba / yi-li debate with Zhu Xi.",
+    "oneLineZh": "南宋永康学派代表，以事功论和朱熹王霸义利之辨著称。",
+    "keywordsEn": [
+      "Yongkang School",
+      "practical accomplishment (shigong)",
+      "Longchuan Collected Works"
+    ],
+    "keywordsZh": [
+      "永康学派",
+      "事功",
+      "龙川文集"
+    ]
+  },
+  {
+    "id": "ye-shi",
+    "en": "Ye Shi",
+    "oneLineEn": "Southern Song Yongjia figure known for institutions, utility, and critique in intellectual history.",
+    "oneLineZh": "南宋永嘉学派代表，以制度、功利和学术史批评著称。",
+    "keywordsEn": [
+      "Yongjia school",
+      "Sequential Record of Learning and Words",
+      "Shuixin"
+    ],
+    "keywordsZh": [
+      "永嘉学派",
+      "习学记言序目",
+      "水心"
+    ]
+  },
+  {
+    "id": "wu-cheng",
+    "en": "Wu Cheng",
+    "oneLineEn": "Yuan Neo-Confucian classicist reconciling Zhu and Lu and reorganizing classical studies.",
+    "oneLineZh": "元代理学家和经学家，调和朱陆并重整经学。",
+    "keywordsEn": [
+      "Master Caolu",
+      "Collected Sayings on the Record of Rites",
+      "Yuan Neo-Confucianism"
+    ],
+    "keywordsZh": [
+      "草庐先生",
+      "礼记纂言",
+      "元代理学"
+    ]
+  },
+  {
+    "id": "xu-heng",
+    "en": "Xu Heng",
+    "oneLineEn": "Early Yuan Neo-Confucian educator who brought Cheng-Zhu learning into Yuan institutions.",
+    "oneLineZh": "元初理学家和政治教育人物，推动程朱学进入元代制度。",
+    "keywordsEn": [
+      "Luzhai",
+      "early Yuan Confucianism",
+      "Direct Explanations of the Elementary Learning and Great Learning"
+    ],
+    "keywordsZh": [
+      "鲁斋",
+      "元初儒学",
+      "小学大学直解"
+    ]
+  },
+  {
+    "id": "wu-yubi",
+    "en": "Wu Yubi",
+    "oneLineEn": "Early Ming Neo-Confucian whose Kangzhai school and reverent practice influenced Chen Xianzhang.",
+    "oneLineZh": "明初理学家，以康斋学派和居敬实践影响陈献章。",
+    "keywordsEn": [
+      "Kangzhai",
+      "Ming Neo-Confucianism",
+      "quiet sitting and reading"
+    ],
+    "keywordsZh": [
+      "康斋",
+      "明代理学",
+      "静坐读书"
+    ]
+  },
+  {
+    "id": "chen-xianzhang",
+    "en": "Chen Xianzhang",
+    "oneLineEn": "Founder of the Ming Baisha School, stressing self-attainment of mind-substance and quiet-sitting cultivation.",
+    "oneLineZh": "明代白沙学派创始人，重视心体自得和静坐涵养。",
+    "keywordsEn": [
+      "Baisha Learning of the Mind",
+      "quiet-sitting",
+      "natural self-attainment"
+    ],
+    "keywordsZh": [
+      "白沙心学",
+      "静坐",
+      "自然自得"
+    ]
+  },
+  {
+    "id": "xue-xuan",
+    "en": "Xue Xuan",
+    "oneLineEn": "Ming Neo-Confucian of the Hedong school stressing return to nature and earnest practice.",
+    "oneLineZh": "明代理学家，河东学派代表，强调复性和笃实践履。",
+    "keywordsEn": [
+      "Hedong school",
+      "Record of Reading",
+      "returning to nature"
+    ],
+    "keywordsZh": [
+      "河东学派",
+      "读书录",
+      "复性"
+    ]
+  },
+  {
+    "id": "luo-qinshun",
+    "en": "Luo Qinshun",
+    "oneLineEn": "Ming Neo-Confucian; Knowledge Painfully Acquired treats li-qi and mind-nature while criticizing Wang Learning.",
+    "oneLineZh": "明代理学家，以《困知记》讨论理气、心性并批评王学。",
+    "keywordsEn": [
+      "Knowledge Painfully Acquired",
+      "li and qi as one thing",
+      "critique of Wang Yangming Learning"
+    ],
+    "keywordsZh": [
+      "困知记",
+      "理气一物",
+      "反王学"
+    ]
+  },
+  {
+    "id": "wang-tingxiang",
+    "en": "Wang Tingxiang",
+    "oneLineEn": "Ming qi monist who used experience-oriented qi monism against empty mind learning.",
+    "oneLineZh": "明代气学思想家，以气一元论和经验取向批评空疏心学。",
+    "keywordsEn": [
+      "Cautious Words",
+      "qi monism",
+      "investigation of things"
+    ],
+    "keywordsZh": [
+      "慎言",
+      "气一元论",
+      "格物"
+    ]
+  },
+  {
+    "id": "zhan-ruoshui",
+    "en": "Zhan Ruoshui",
+    "oneLineEn": "Ming Ganquan school leader who taught as a peer and rival of Wang Yangming.",
+    "oneLineZh": "明代甘泉学派代表，与王阳明并立而论学。",
+    "keywordsEn": [
+      "Ganquan school",
+      "embodying heavenly principle everywhere",
+      "Diagram Discourse on Mind-Nature"
+    ],
+    "keywordsZh": [
+      "甘泉学派",
+      "随处体认天理",
+      "心性图说"
+    ]
+  },
+  {
+    "id": "wang-gen",
+    "en": "Wang Gen",
+    "oneLineEn": "Ming Taizhou founder; held that the Way is the people's daily use and sought self-settling via gewu.",
+    "oneLineZh": "明代泰州学派创始人，以百姓日用即道和格物安身著称。",
+    "keywordsEn": [
+      "Taizhou school",
+      "the Way is the people's daily use",
+      "investigating things to settle the self"
+    ],
+    "keywordsZh": [
+      "泰州学派",
+      "百姓日用即道",
+      "格物安身"
+    ]
+  },
+  {
+    "id": "luo-rufang",
+    "en": "Luo Rufang",
+    "oneLineEn": "Late Ming Taizhou figure known for childlike conscience, daily teaching, and popular lecturing.",
+    "oneLineZh": "晚明泰州学派人物，以赤子良心、日用教化和平民讲学著称。",
+    "keywordsEn": [
+      "Jinxi",
+      "Taizhou school",
+      "childlike conscience"
+    ],
+    "keywordsZh": [
+      "近溪",
+      "泰州学派",
+      "赤子良心"
+    ]
+  },
+  {
+    "id": "li-zhi",
+    "en": "Li Zhi",
+    "oneLineEn": "Late Ming thinker known for the childlike mind, critique of false Dao Learning, and personal sincerity.",
+    "oneLineZh": "晚明思想家，以童心说、反伪道学和个体真诚著称。",
+    "keywordsEn": [
+      "A Book to Burn",
+      "doctrine of the childlike mind",
+      "heterodoxy"
+    ],
+    "keywordsZh": [
+      "焚书",
+      "童心说",
+      "异端"
+    ]
+  },
+  {
+    "id": "gu-xiancheng",
+    "en": "Gu Xiancheng",
+    "oneLineEn": "Late Ming Donglin leader who rebuilt Donglin Academy and stressed literati public responsibility.",
+    "oneLineZh": "晚明东林学派代表，重建东林书院并强调士人公共责任。",
+    "keywordsEn": [
+      "Donglin Academy",
+      "Surviving Works of Gu Duanwen",
+      "public lecturing"
+    ],
+    "keywordsZh": [
+      "东林书院",
+      "顾端文公遗书",
+      "讲学"
+    ]
+  },
+  {
+    "id": "gao-panlong",
+    "en": "Gao Panlong",
+    "oneLineEn": "Late Ming Donglin leader stressing both quiet-sitting cultivation and political integrity.",
+    "oneLineZh": "晚明东林领袖，兼重静坐工夫与政治名节。",
+    "keywordsEn": [
+      "Donglin",
+      "quiet-sitting",
+      "Surviving Works of Master Gao"
+    ],
+    "keywordsZh": [
+      "东林",
+      "静坐",
+      "高子遗书"
+    ]
+  },
+  {
+    "id": "liu-zongzhou",
+    "en": "Liu Zongzhou",
+    "oneLineEn": "Late Ming master and Jishan School founder known for shendu and sincerity cultivation.",
+    "oneLineZh": "明末大儒，蕺山学派创始人，以慎独和诚意工夫著称。",
+    "keywordsEn": [
+      "Jishan School",
+      "vigilant solitude (shendu)",
+      "Human Spectrum"
+    ],
+    "keywordsZh": [
+      "蕺山学派",
+      "慎独",
+      "人谱"
+    ]
+  },
+  {
+    "id": "huang-zongxi",
+    "en": "Huang Zongxi",
+    "oneLineEn": "Ming-Qing thinker-historian known for critique of monarchy and for Confucian intellectual history writing.",
+    "oneLineZh": "明清之际思想家和史学家，以君主批判与学术史书写著称。",
+    "keywordsEn": [
+      "Waiting for the Dawn",
+      "Cases of Ming Confucians",
+      "Eastern Zhejiang scholarship"
+    ],
+    "keywordsZh": [
+      "明夷待访录",
+      "明儒学案",
+      "浙东学术"
+    ]
+  },
+  {
+    "id": "gu-yanwu",
+    "en": "Gu Yanwu",
+    "oneLineEn": "Ming-Qing statecraft and evidential scholar; Record of Daily Knowledge opened Qing practical learning.",
+    "oneLineZh": "明清之际经世考据学者，以《日知录》开清代实学风气。",
+    "keywordsEn": [
+      "Record of Daily Knowledge",
+      "statecraft practical learning",
+      "evidential scholarship (kaozheng)"
+    ],
+    "keywordsZh": [
+      "日知录",
+      "经世致用",
+      "考据"
+    ]
+  },
+  {
+    "id": "fang-yizhi",
+    "en": "Fang Yizhi",
+    "oneLineEn": "Ming-Qing thinker bridging Confucianism, Buddhism, Daoism, and natural knowledge.",
+    "oneLineZh": "明清之际思想家，兼通儒释道与自然知识。",
+    "keywordsEn": [
+      "Equalizing East and West",
+      "Notes on the Principles of Things",
+      "empirical measurement and penetrating the subtle"
+    ],
+    "keywordsZh": [
+      "东西均",
+      "物理小识",
+      "质测通几"
+    ]
+  },
+  {
+    "id": "chen-que",
+    "en": "Chen Que",
+    "oneLineEn": "Ming-Qing Confucian who, in Disputing the Great Learning, challenged canonical Neo-Confucian reading.",
+    "oneLineZh": "明清之际儒者，以《大学辨》质疑经典权威和理学解释。",
+    "keywordsEn": [
+      "Disputing the Great Learning",
+      "anti-Neo-Confucian dogma",
+      "early Qing Confucianism"
+    ],
+    "keywordsZh": [
+      "大学辨",
+      "反理学教条",
+      "清初儒学"
+    ]
+  },
+  {
+    "id": "tang-zhen",
+    "en": "Tang Zhen",
+    "oneLineEn": "Early Qing thinker who, in Hidden Book, criticized monarchical power and social injustice.",
+    "oneLineZh": "清初思想家，以《潜书》批判君主权力和社会不平。",
+    "keywordsEn": [
+      "Hidden Book",
+      "critique of monarchy",
+      "statecraft"
+    ],
+    "keywordsZh": [
+      "潜书",
+      "君主批判",
+      "经世"
+    ]
+  },
+  {
+    "id": "yan-yuan-qing",
+    "en": "Yan Yuan",
+    "oneLineEn": "Early Qing practical-learning leader urging solid writing, practice, and use against empty Neo-Confucianism.",
+    "oneLineZh": "清初实学代表，主张实文、实行、实用，反对空谈理学。",
+    "keywordsEn": [
+      "Xizhai",
+      "practical learning",
+      "Preserving Learning"
+    ],
+    "keywordsZh": [
+      "习斋",
+      "实学",
+      "存学编"
+    ]
+  },
+  {
+    "id": "li-gong-qing",
+    "en": "Li Gong",
+    "oneLineEn": "Early Qing Yan-Li school figure continuing Yan Yuan's practical learning and educational practice.",
+    "oneLineZh": "清初颜李学派代表，继承颜元实学和实践教育路线。",
+    "keywordsEn": [
+      "Shugu",
+      "Yan-Li school",
+      "practical-learning education"
+    ],
+    "keywordsZh": [
+      "恕谷",
+      "颜李学派",
+      "实学教育"
+    ]
+  },
+  {
+    "id": "lu-longqi",
+    "en": "Lu Longqi",
+    "oneLineEn": "Early Qing Cheng-Zhu scholar-official known for honoring Zhu Xi, lecturing, and local governance.",
+    "oneLineZh": "清初程朱学者和循吏，以尊朱、讲学和地方治理著称。",
+    "keywordsEn": [
+      "Sanyutang",
+      "Zhu Xi Learning",
+      "early Qing upright official"
+    ],
+    "keywordsZh": [
+      "三鱼堂",
+      "朱子学",
+      "清初循吏"
+    ]
+  },
+  {
+    "id": "mao-qiling",
+    "en": "Mao Qiling",
+    "oneLineEn": "Early Qing classicist known for broad evidential debate and anti-Zhu readings of the Four Books.",
+    "oneLineZh": "清初经学家，以博辨考据和反朱子《四书》解释著称。",
+    "keywordsEn": [
+      "Questions on the Classics",
+      "Corrections to the Four Books",
+      "anti-Zhu Xi"
+    ],
+    "keywordsZh": [
+      "经问",
+      "四书改错",
+      "反朱子"
+    ]
+  },
+  {
+    "id": "zhang-xuecheng",
+    "en": "Zhang Xuecheng",
+    "oneLineEn": "Qing history theorist known for 'the Six Classics are all history' and collation theory.",
+    "oneLineZh": "清代史学理论家，以六经皆史和文史校雠理论著称。",
+    "keywordsEn": [
+      "General Meaning of Literature and History",
+      "the Six Classics are all history",
+      "General Principles of Collation"
+    ],
+    "keywordsZh": [
+      "文史通义",
+      "六经皆史",
+      "校雠通义"
+    ]
+  },
+  {
+    "id": "cui-shu",
+    "en": "Cui Shu",
+    "oneLineEn": "Qing evidential scholar who, in Records Examining Credibility, tested ancient historical transmission.",
+    "oneLineZh": "清代考据学者，以《考信录》辨析上古史传可信度。",
+    "keywordsEn": [
+      "Records Examining Credibility",
+      "doubting antiquity",
+      "classics-history criticism"
+    ],
+    "keywordsZh": [
+      "考信录",
+      "疑古",
+      "经史考辨"
+    ]
+  },
+  {
+    "id": "ruan-yuan",
+    "en": "Ruan Yuan",
+    "oneLineEn": "Qing classicist, official, and academic organizer; a major synthesizer of Qian-Jia evidential learning.",
+    "oneLineZh": "清代经学家、官员和学术组织者，乾嘉考据集大成者之一。",
+    "keywordsEn": [
+      "Collected Glosses on the Classics",
+      "Yanjingshi Collected Works",
+      "Qian-Jia scholarship"
+    ],
+    "keywordsZh": [
+      "经籍纂诂",
+      "揅经室集",
+      "乾嘉学术"
+    ]
+  }
+]

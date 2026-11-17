@@ -1,0 +1,642 @@
+[
+  {
+    "id": "fazlur-rahman",
+    "en": "Fazlur Rahman",
+    "oneLineEn": "Neo-modernist Islamic thinker whose double-movement hermeneutics remade modern Qurʾānic ethical reform.",
+    "oneLineZh": "新现代主义伊斯兰思想家，以“双重运动”诠释学和古兰经伦理重构现代改革方法。",
+    "keywordsEn": [
+      "neo-modernism",
+      "double-movement hermeneutics",
+      "Qurʾānic ethics"
+    ],
+    "keywordsZh": [
+      "新现代主义",
+      "双重运动诠释学",
+      "古兰经伦理"
+    ]
+  },
+  {
+    "id": "seyyed-hossein-nasr",
+    "en": "Seyyed Hossein Nasr",
+    "oneLineEn": "Islamic traditionalist critiquing secular modern knowledge via Islamic science, metaphysics, and spirituality.",
+    "oneLineZh": "当代伊斯兰传统学派思想家，以伊斯兰科学、形而上学和灵性传统批判现代世俗化知识观。",
+    "keywordsEn": [
+      "Traditionalist school",
+      "Islamic science",
+      "spirituality and critique of modernity"
+    ],
+    "keywordsZh": [
+      "传统学派",
+      "伊斯兰科学",
+      "灵性与现代性批判"
+    ]
+  },
+  {
+    "id": "philo-of-alexandria",
+    "en": "Philo of Alexandria",
+    "oneLineEn": "Interpreted Torah with Greek categories; key starting point of ancient Jewish philosophy.",
+    "oneLineZh": "以希腊哲学范畴解释托拉，是犹太哲学古代谱系的关键起点。",
+    "keywordsEn": [
+      "allegorical exegesis",
+      "Logos",
+      "Hellenistic Jewish philosophy"
+    ],
+    "keywordsZh": [
+      "寓意释经",
+      "逻各斯",
+      "希腊化犹太哲学"
+    ]
+  },
+  {
+    "id": "isaac-israeli",
+    "en": "Isaac Israeli",
+    "oneLineEn": "Early medieval Jewish Neoplatonist linking Arabic philosophy to Jewish thought.",
+    "oneLineZh": "早期中世纪犹太新柏拉图主义者，将阿拉伯哲学与犹太思想相接。",
+    "keywordsEn": [
+      "Jewish Neoplatonism",
+      "Book of Definitions",
+      "emanationism"
+    ],
+    "keywordsZh": [
+      "犹太新柏拉图主义",
+      "定义之书",
+      "流溢论"
+    ]
+  },
+  {
+    "id": "ibn-gabirol",
+    "en": "Solomon Ibn Gabirol",
+    "oneLineEn": "In Fons Vitae set out Neoplatonic metaphysics; known in Latin scholasticism as Avicebron.",
+    "oneLineZh": "以《生命之源》提出新柏拉图主义形而上学，在拉丁经院传统中以 Avicebron 著称。",
+    "keywordsEn": [
+      "Fons Vitae",
+      "Avicebron",
+      "universal matter"
+    ],
+    "keywordsZh": [
+      "生命之源",
+      "阿维斯布朗",
+      "普遍质料"
+    ]
+  },
+  {
+    "id": "bahya-ibn-paquda",
+    "en": "Bahya ibn Paquda",
+    "oneLineEn": "Author of Duties of the Heart; joined inner piety and ethical discipline to Jewish legal life.",
+    "oneLineZh": "《心之义务》作者，把内在虔敬、伦理修养与犹太律法生活结合起来。",
+    "keywordsEn": [
+      "Duties of the Heart",
+      "inner piety",
+      "Jewish ethics"
+    ],
+    "keywordsZh": [
+      "心之义务",
+      "内在虔敬",
+      "犹太伦理"
+    ]
+  },
+  {
+    "id": "judah-halevi",
+    "en": "Judah Halevi",
+    "oneLineEn": "Author of the Kuzari; dialogical defense of Jewish revelation and historical community.",
+    "oneLineZh": "《库萨里》作者，以对话体为犹太启示与历史共同体辩护。",
+    "keywordsEn": [
+      "Kuzari",
+      "apologetics of revelation",
+      "anti-philosophy"
+    ],
+    "keywordsZh": [
+      "库萨里",
+      "启示护教",
+      "反哲学"
+    ]
+  },
+  {
+    "id": "abraham-ibn-daud",
+    "en": "Abraham Ibn Daud",
+    "oneLineEn": "Author of The Exalted Faith; a key pre-Maimonidean node of Jewish Aristotelianism.",
+    "oneLineZh": "《崇高信仰》作者，是迈蒙尼德之前犹太亚里士多德主义的重要节点。",
+    "keywordsEn": [
+      "The Exalted Faith",
+      "Jewish Aristotelianism",
+      "reason and tradition"
+    ],
+    "keywordsZh": [
+      "崇高信仰",
+      "犹太亚里士多德主义",
+      "理性与传统"
+    ]
+  },
+  {
+    "id": "gersonides",
+    "en": "Gersonides",
+    "oneLineEn": "Author of The Wars of the Lord who advanced Aristotelian-Averroist tradition within Jewish philosophy.",
+    "oneLineZh": "《主的战争》作者，将亚里士多德—阿威罗伊传统推进到犹太哲学内部。",
+    "keywordsEn": [
+      "The Wars of the Lord",
+      "Aristotelianism",
+      "Averroist tradition"
+    ],
+    "keywordsZh": [
+      "主的战争",
+      "亚里士多德主义",
+      "阿威罗伊传统"
+    ]
+  },
+  {
+    "id": "hasdai-crescas",
+    "en": "Hasdai Crescas",
+    "oneLineEn": "Author of Light of the Lord; critiqued medieval Aristotelianism and revalued divine love and infinity.",
+    "oneLineZh": "《主之光》作者，系统批判中世纪亚里士多德主义并重估神爱与无限性。",
+    "keywordsEn": [
+      "Light of the Lord",
+      "anti-Aristotelianism",
+      "pre-history of Spinoza"
+    ],
+    "keywordsZh": [
+      "主之光",
+      "反亚里士多德主义",
+      "斯宾诺莎前史"
+    ]
+  },
+  {
+    "id": "joseph-albo",
+    "en": "Joseph Albo",
+    "oneLineEn": "Author of Book of Principles; reorganized Jewish doctrinal principles and faith classification.",
+    "oneLineZh": "《信条书》作者，重整犹太教义原则与信仰分类。",
+    "keywordsEn": [
+      "Book of Principles",
+      "Jewish doctrinal principles",
+      "principles of faith"
+    ],
+    "keywordsZh": [
+      "信条书",
+      "犹太教义原理",
+      "信仰原则"
+    ]
+  },
+  {
+    "id": "nachmanides",
+    "en": "Nachmanides",
+    "oneLineEn": "Ramban joined exegesis, halakhah, and early Kabbalah in the Maimonidean controversies.",
+    "oneLineZh": "拉姆班以释经、哈拉卡与早期卡巴拉参与迈蒙尼德之争。",
+    "keywordsEn": [
+      "Ramban",
+      "Maimonidean controversy",
+      "early Kabbalah"
+    ],
+    "keywordsZh": [
+      "拉姆班",
+      "迈蒙尼德之争",
+      "早期卡巴拉"
+    ]
+  },
+  {
+    "id": "moses-de-leon",
+    "en": "Moses de León",
+    "oneLineEn": "Key figure in Zohar transmission and authorship; medieval Kabbalah lineage node.",
+    "oneLineZh": "《光辉之书》传播与作者问题的核心人物，是中世纪卡巴拉谱系关键节点。",
+    "keywordsEn": [
+      "Book of Splendor",
+      "Zohar",
+      "medieval Kabbalah"
+    ],
+    "keywordsZh": [
+      "光辉之书",
+      "佐哈尔",
+      "中世纪卡巴拉"
+    ]
+  },
+  {
+    "id": "abraham-abulafia",
+    "en": "Abraham Abulafia",
+    "oneLineEn": "Prophetic/ecstatic Kabbalist known for letter combination, divine-name meditation, and prophecy theory.",
+    "oneLineZh": "先知/迷狂卡巴拉代表，以字母组合、神名默想和预言经验理论著称。",
+    "keywordsEn": [
+      "prophetic Kabbalah",
+      "letter meditation",
+      "ecstatic mysticism"
+    ],
+    "keywordsZh": [
+      "先知卡巴拉",
+      "字母冥想",
+      "迷狂神秘主义"
+    ]
+  },
+  {
+    "id": "isaac-luria",
+    "en": "Isaac Luria",
+    "oneLineEn": "Core Lurianic Kabbalist remaking early modern Jewish mysticism via contraction, shattering, and repair.",
+    "oneLineZh": "卢里亚卡巴拉核心人物，以收缩、器皿破碎和修复理论重塑近世犹太神秘主义。",
+    "keywordsEn": [
+      "contraction (tzimtzum)",
+      "shattering of the vessels",
+      "repair (tikkun)"
+    ],
+    "keywordsZh": [
+      "收缩",
+      "破碎",
+      "修复"
+    ]
+  },
+  {
+    "id": "baal-shem-tov",
+    "en": "Baal Shem Tov",
+    "oneLineEn": "Hasidic founder whose spiritual joy, piety, and sense of divine presence shaped East European Judaism.",
+    "oneLineZh": "哈西德派创始人物，以灵性喜乐、虔敬生活和神圣临在感影响东欧犹太教。",
+    "keywordsEn": [
+      "Hasidism",
+      "spiritual joy",
+      "divine presence"
+    ],
+    "keywordsZh": [
+      "哈西德派",
+      "灵性喜乐",
+      "神圣临在"
+    ]
+  },
+  {
+    "id": "schneur-zalman",
+    "en": "Shneur Zalman of Liadi",
+    "oneLineEn": "Chabad founder and Tanya author who organized Hasidic spirituality as intellectualized theology.",
+    "oneLineZh": "哈巴德创始人，《坦尼亚》作者，将哈西德灵修组织为智性化神学体系。",
+    "keywordsEn": [
+      "Chabad",
+      "Tanya",
+      "intellectual Hasidism"
+    ],
+    "keywordsZh": [
+      "哈巴德",
+      "坦尼亚",
+      "智性哈西德"
+    ]
+  },
+  {
+    "id": "moses-mendelssohn",
+    "en": "Moses Mendelssohn",
+    "oneLineEn": "Haskalah hub; Jerusalem treats religious power, tolerance, and Jewish civic status.",
+    "oneLineZh": "犹太启蒙关键人物，以《耶路撒冷》讨论宗教权力、宽容与犹太公民身份。",
+    "keywordsEn": [
+      "Haskalah",
+      "Jerusalem",
+      "religious toleration"
+    ],
+    "keywordsZh": [
+      "哈斯卡拉",
+      "耶路撒冷",
+      "宗教宽容"
+    ]
+  },
+  {
+    "id": "gershom-scholem",
+    "en": "Gershom Scholem",
+    "oneLineEn": "Founder of modern Kabbalah studies who remade Jewish mysticism with historical-philological method.",
+    "oneLineZh": "现代卡巴拉研究奠基者，以历史—文献方法重塑犹太神秘主义研究。",
+    "keywordsEn": [
+      "Kabbalah studies",
+      "Jewish mysticism",
+      "Benjamin"
+    ],
+    "keywordsZh": [
+      "卡巴拉研究",
+      "犹太神秘主义",
+      "本雅明"
+    ]
+  },
+  {
+    "id": "abraham-joshua-heschel",
+    "en": "Abraham Joshua Heschel",
+    "oneLineEn": "Twentieth-century Jewish theologian joining awe, prophetic ethics, and experience to justice.",
+    "oneLineZh": "20世纪犹太神学家，以敬畏、先知伦理与宗教经验论连接灵修和公共正义。",
+    "keywordsEn": [
+      "awe",
+      "prophetic spirit",
+      "Sabbath"
+    ],
+    "keywordsZh": [
+      "敬畏",
+      "先知精神",
+      "安息日"
+    ]
+  },
+  {
+    "id": "joseph-soloveitchik",
+    "en": "Joseph B. Soloveitchik",
+    "oneLineEn": "Modern Orthodox thought via Halakhic man, creative personality, and loneliness of faith.",
+    "oneLineZh": "现代正统犹太思想代表，以哈拉哈主体、创造性人格和信仰孤独构造宗教哲学。",
+    "keywordsEn": [
+      "Halakhic Man",
+      "The Lonely Man of Faith",
+      "Modern Orthodoxy"
+    ],
+    "keywordsZh": [
+      "哈拉哈人",
+      "孤独的信仰人",
+      "现代正统派"
+    ]
+  },
+  {
+    "id": "mordecai-kaplan",
+    "en": "Mordecai M. Kaplan",
+    "oneLineEn": "Founder of Reconstructionist Judaism who read Judaism as an evolving religious civilization.",
+    "oneLineZh": "重建主义犹太教奠基者，将犹太教解释为演化中的宗教文明。",
+    "keywordsEn": [
+      "Reconstructionism",
+      "Jewish civilization",
+      "religious naturalism"
+    ],
+    "keywordsZh": [
+      "重建主义",
+      "犹太文明",
+      "宗教自然主义"
+    ]
+  },
+  {
+    "id": "yeshayahu-leibowitz",
+    "en": "Yeshayahu Leibowitz",
+    "oneLineEn": "Israeli Jewish thinker holding faith as obedience to commandments, with sharp public criticism.",
+    "oneLineZh": "以色列犹太思想家，强调信仰即服从诫命，并以尖锐公共批评著称。",
+    "keywordsEn": [
+      "commandment-centered faith",
+      "Maimonides interpretation",
+      "Israeli public thought"
+    ],
+    "keywordsZh": [
+      "诫命中心论",
+      "迈蒙尼德诠释",
+      "以色列公共思想"
+    ]
+  },
+  {
+    "id": "las-casas",
+    "en": "Bartolomé de las Casas",
+    "oneLineEn": "Dominican defender of Indigenous reason and rights in early colonial America.",
+    "oneLineZh": "殖民早期为美洲原住民理性与权利辩护的多明我会思想家。",
+    "keywordsEn": [
+      "Valladolid debate",
+      "Indigenous rights",
+      "peaceful evangelization"
+    ],
+    "keywordsZh": [
+      "巴利亚多利德之辩",
+      "原住民权利",
+      "和平传教"
+    ]
+  },
+  {
+    "id": "andres-bello",
+    "en": "Andrés Bello",
+    "oneLineEn": "Venezuelan-Chilean thinker who shaped post-independence state-building via law, education, and language.",
+    "oneLineZh": "委内瑞拉—智利思想家，以法律、教育和语言工程参与独立后国家建构。",
+    "keywordsEn": [
+      "law",
+      "language standardization",
+      "education"
+    ],
+    "keywordsZh": [
+      "法律",
+      "语言规范",
+      "教育"
+    ]
+  },
+  {
+    "id": "simon-rodriguez",
+    "en": "Simón Rodríguez",
+    "oneLineEn": "Venezuelan educator answering post-independence rebuilding with American republics and popular education.",
+    "oneLineZh": "委内瑞拉教育思想家，以美洲共和国和大众教育方案回应独立后的社会重建。",
+    "keywordsEn": [
+      "teacher of Bolívar",
+      "popular education",
+      "American republics"
+    ],
+    "keywordsZh": [
+      "玻利瓦尔之师",
+      "大众教育",
+      "美洲共和国"
+    ]
+  },
+  {
+    "id": "alberdi",
+    "en": "Juan Bautista Alberdi",
+    "oneLineEn": "Argentine liberal and constitutional thinker who set nation-building as American philosophy's task.",
+    "oneLineZh": "阿根廷自由主义与宪政思想家，提出国家组织和美洲哲学的现实任务。",
+    "keywordsEn": [
+      "Argentine constitutionalism",
+      "to govern is to populate",
+      "American philosophy"
+    ],
+    "keywordsZh": [
+      "阿根廷宪政",
+      "治理即移民",
+      "美洲哲学"
+    ]
+  },
+  {
+    "id": "sarmiento",
+    "en": "Domingo Faustino Sarmiento",
+    "oneLineEn": "Argentine thinker; Facundo framed Latin American modernization as civilization vs. barbarism.",
+    "oneLineZh": "阿根廷思想家，《法昆多》以文明/野蛮框架塑造19世纪拉美现代化论述。",
+    "keywordsEn": [
+      "civilization and barbarism",
+      "education",
+      "nation-building"
+    ],
+    "keywordsZh": [
+      "文明与野蛮",
+      "教育",
+      "国家建设"
+    ]
+  },
+  {
+    "id": "hostos",
+    "en": "Eugenio María de Hostos",
+    "oneLineEn": "Puerto Rican educator-ethicist linking social ethics and Antillean liberation to positivism and anti-colonialism.",
+    "oneLineZh": "波多黎各教育家与伦理思想家，以社会伦理和安的列斯解放方案连接实证主义与反殖民政治。",
+    "keywordsEn": [
+      "social ethics",
+      "educational reform",
+      "Antillean Confederation"
+    ],
+    "keywordsZh": [
+      "社会伦理",
+      "教育改革",
+      "安的列斯联邦"
+    ]
+  },
+  {
+    "id": "gabino-barreda",
+    "en": "Gabino Barreda",
+    "oneLineEn": "Mexican Comtean positivist who used educational reform as a tool of social-order reconstruction.",
+    "oneLineZh": "墨西哥孔德式实证主义代表，把教育制度改革作为社会秩序重建工具。",
+    "keywordsEn": [
+      "Mexican positivism",
+      "National Preparatory School",
+      "order and progress"
+    ],
+    "keywordsZh": [
+      "墨西哥实证主义",
+      "国民预科学校",
+      "秩序与进步"
+    ]
+  },
+  {
+    "id": "jose-marti",
+    "en": "José Martí",
+    "oneLineEn": "Cuban independence thinker; Our America answered empire with American subjectivity.",
+    "oneLineZh": "古巴独立思想家，《我们的美洲》以美洲主体性回应殖民与帝国秩序。",
+    "keywordsEn": [
+      "Our America",
+      "Cuban independence",
+      "anti-imperialism"
+    ],
+    "keywordsZh": [
+      "我们的美洲",
+      "古巴独立",
+      "反帝国主义"
+    ]
+  },
+  {
+    "id": "jose-enrique-rodo",
+    "en": "José Enrique Rodó",
+    "oneLineEn": "Uruguayan thinker whose Ariel shaped Latin American spiritual identity via aesthetic-ethical education.",
+    "oneLineZh": "乌拉圭思想家，《爱丽尔》以审美—伦理教育塑造拉美精神身份论。",
+    "keywordsEn": [
+      "Arielism",
+      "anti-utilitarianism",
+      "youth education"
+    ],
+    "keywordsZh": [
+      "爱丽尔主义",
+      "反功利主义",
+      "青年教育"
+    ]
+  },
+  {
+    "id": "antonio-caso",
+    "en": "Antonio Caso",
+    "oneLineEn": "Mexican anti-positivist who countered Comtean order with life, ethics, and personhood.",
+    "oneLineZh": "墨西哥反实证主义思想家，以生命、伦理和人格问题反拨孔德式知识秩序。",
+    "keywordsEn": [
+      "Ateneo de la Juventud",
+      "anti-positivism",
+      "philosophy of life"
+    ],
+    "keywordsZh": [
+      "青年学会",
+      "反实证主义",
+      "生命哲学"
+    ]
+  },
+  {
+    "id": "jose-vasconcelos",
+    "en": "José Vasconcelos",
+    "oneLineEn": "Mexican thinker-educator; Cosmic Race rewrote American identity via mestizo cosmology.",
+    "oneLineZh": "墨西哥思想家与教育家，《宇宙种族》以混血宇宙论重写美洲身份。",
+    "keywordsEn": [
+      "Cosmic Race",
+      "aesthetic redemption",
+      "Mexican education"
+    ],
+    "keywordsZh": [
+      "宇宙种族",
+      "美学救赎",
+      "墨西哥教育"
+    ]
+  },
+  {
+    "id": "alejandro-korn",
+    "en": "Alejandro Korn",
+    "oneLineEn": "Argentine anti-positivist who reframed philosophy around creative freedom and value.",
+    "oneLineZh": "阿根廷反实证主义思想家，以创造性自由和价值问题重构哲学任务。",
+    "keywordsEn": [
+      "creative freedom",
+      "Argentine anti-positivism",
+      "value"
+    ],
+    "keywordsZh": [
+      "创造性自由",
+      "阿根廷反实证主义",
+      "价值"
+    ]
+  },
+  {
+    "id": "samuel-ramos",
+    "en": "Samuel Ramos",
+    "oneLineEn": "Mexican identity philosophy; Profile of Man and Culture analyzes national character and self-knowledge.",
+    "oneLineZh": "墨西哥身份哲学代表，《墨西哥人的轮廓》分析民族性格与文化自我认识。",
+    "keywordsEn": [
+      "Profile of Man and Culture in Mexico",
+      "Mexicanness",
+      "national character"
+    ],
+    "keywordsZh": [
+      "墨西哥人的轮廓",
+      "墨西哥性",
+      "民族性格"
+    ]
+  },
+  {
+    "id": "francisco-romero",
+    "en": "Francisco Romero",
+    "oneLineEn": "Argentine philosopher who professionalized academic philosophy and developed personhood and spiritual life theory.",
+    "oneLineZh": "阿根廷哲学家，推动专业哲学制度化并发展人格与精神生命理论。",
+    "keywordsEn": [
+      "theory of the person",
+      "Argentine philosophy",
+      "reception of Ortega"
+    ],
+    "keywordsZh": [
+      "人的理论",
+      "阿根廷哲学",
+      "奥尔特加受容"
+    ]
+  },
+  {
+    "id": "risieri-frondizi",
+    "en": "Risieri Frondizi",
+    "oneLineEn": "Argentine value theorist whose structure of value and self entered Latin American academic philosophy.",
+    "oneLineZh": "阿根廷价值论哲学家，以价值结构和自我理论进入20世纪拉美学院哲学谱系。",
+    "keywordsEn": [
+      "axiology",
+      "theory of the self",
+      "Latin American academic philosophy"
+    ],
+    "keywordsZh": [
+      "价值论",
+      "自我理论",
+      "拉美学院哲学"
+    ]
+  },
+  {
+    "id": "salazar-bondy",
+    "en": "Augusto Salazar Bondy",
+    "oneLineEn": "Peruvian philosopher who opened the classic debate with Zea on Latin American philosophical authenticity.",
+    "oneLineZh": "秘鲁哲学家，以拉美哲学真实性问题开启与 Zea 的经典争论。",
+    "keywordsEn": [
+      "Is There a Philosophy of Our America?",
+      "authenticity",
+      "dependency"
+    ],
+    "keywordsZh": [
+      "我们美洲有哲学吗",
+      "真实性",
+      "依附"
+    ]
+  },
+  {
+    "id": "ignacio-ellacuria",
+    "en": "Ignacio Ellacuría",
+    "oneLineEn": "Salvadoran Jesuit whose historical reality joined liberation philosophy, theology, and politics.",
+    "oneLineZh": "萨尔瓦多耶稣会哲学家，以历史现实概念连接解放哲学、神学与政治实践。",
+    "keywordsEn": [
+      "historical reality",
+      "philosophy of liberation",
+      "El Salvador"
+    ],
+    "keywordsZh": [
+      "历史现实",
+      "解放哲学",
+      "萨尔瓦多"
+    ]
+  }
+]

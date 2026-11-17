@@ -1,0 +1,642 @@
+[
+  {
+    "id": "wu-qi",
+    "en": "Wu Qi",
+    "oneLineEn": "Warring States military reformer combining Military school practice with Legalist institutional color.",
+    "oneLineZh": "战国军事家和改革者，兼具兵家与法家制度色彩。",
+    "keywordsEn": [
+      "Military school",
+      "institutional reform",
+      "Wuzi"
+    ],
+    "keywordsZh": [
+      "兵家",
+      "变法",
+      "吴子"
+    ]
+  },
+  {
+    "id": "lu-buwei",
+    "en": "Lü Buwei",
+    "oneLineEn": "Late Warring States Qin chancellor and organizer of the Lüshi chunqiu compilation.",
+    "oneLineZh": "战国末秦相，《吕氏春秋》编纂工程的组织者。",
+    "keywordsEn": [
+      "Lüshi chunqiu",
+      "Qin chancellor",
+      "Eclectic school"
+    ],
+    "keywordsZh": [
+      "吕氏春秋",
+      "秦相",
+      "杂家"
+    ]
+  },
+  {
+    "id": "li-si",
+    "en": "Li Si",
+    "oneLineEn": "Core Qin empire institution-builder joining Xunzi learning with Legalist governance.",
+    "oneLineZh": "秦帝国制度建设核心官僚，承接荀学与法家治理。",
+    "keywordsEn": [
+      "Qin institutions",
+      "small seal script",
+      "Remonstrance Against Expelling Guests"
+    ],
+    "keywordsZh": [
+      "秦制",
+      "小篆",
+      "谏逐客书"
+    ]
+  },
+  {
+    "id": "dong-zhongshu",
+    "en": "Dong Zhongshu",
+    "oneLineEn": "Western Han Confucian who joined Spring and Autumn learning, yin-yang Five Phases, and dynastic politics.",
+    "oneLineZh": "西汉儒家代表，将春秋学、阴阳五行与王朝政治结合。",
+    "keywordsEn": [
+      "Luxuriant Dew of the Spring and Autumn Annals",
+      "resonance of Heaven and humanity",
+      "Han Confucianism"
+    ],
+    "keywordsZh": [
+      "春秋繁露",
+      "天人感应",
+      "汉儒"
+    ]
+  },
+  {
+    "id": "yang-xiong",
+    "en": "Yang Xiong",
+    "oneLineEn": "Late Western Han thinker-writer known for Model Sayings and Supreme Mystery as classic-imitating works.",
+    "oneLineZh": "西汉末思想家和文学家，以《法言》《太玄》拟经著称。",
+    "keywordsEn": [
+      "Model Sayings",
+      "Supreme Mystery",
+      "imitating the classics"
+    ],
+    "keywordsZh": [
+      "法言",
+      "太玄",
+      "拟经"
+    ]
+  },
+  {
+    "id": "wang-chong",
+    "en": "Wang Chong",
+    "oneLineEn": "Eastern Han thinker who, in Balanced Discourses, attacked omen lore and empty doctrines.",
+    "oneLineZh": "东汉思想家，以《论衡》批判谶纬迷信和虚妄之说。",
+    "keywordsEn": [
+      "Balanced Discourses",
+      "attacking the empty and false",
+      "naturalism"
+    ],
+    "keywordsZh": [
+      "论衡",
+      "疾虚妄",
+      "自然论"
+    ]
+  },
+  {
+    "id": "liu-an",
+    "en": "Liu An",
+    "oneLineEn": "Western Han King of Huainan; central organizer of the Huainanzi compilation.",
+    "oneLineZh": "西汉淮南王，《淮南子》编纂工程的中心人物。",
+    "keywordsEn": [
+      "Huainanzi",
+      "Huang-Lao",
+      "compendium of the masters"
+    ],
+    "keywordsZh": [
+      "淮南子",
+      "黄老",
+      "诸子汇编"
+    ]
+  },
+  {
+    "id": "lu-jia",
+    "en": "Lu Jia",
+    "oneLineEn": "Early Han political essayist who, in New Discourses, explained Qin's fall and civil order.",
+    "oneLineZh": "汉初政论家，以《新语》说明秦亡汉兴和文治秩序。",
+    "keywordsEn": [
+      "New Discourses",
+      "early Han Confucian scholars",
+      "ruling the realm from horseback"
+    ],
+    "keywordsZh": [
+      "新语",
+      "汉初儒生",
+      "马上治天下"
+    ]
+  },
+  {
+    "id": "jia-yi",
+    "en": "Jia Yi",
+    "oneLineEn": "Early Western Han political essayist known for institutional reform and reflection on Qin's fall.",
+    "oneLineZh": "西汉初政论家，以制度改革和秦亡反思著称。",
+    "keywordsEn": [
+      "New Writings",
+      "Faults of Qin",
+      "early Han political essays"
+    ],
+    "keywordsZh": [
+      "新书",
+      "过秦论",
+      "汉初政论"
+    ]
+  },
+  {
+    "id": "sima-tan",
+    "en": "Sima Tan",
+    "oneLineEn": "Western Han Grand Historian whose six-schools taxonomy framed Shiji intellectual history.",
+    "oneLineZh": "西汉太史令，以六家分类奠定《史记》思想框架。",
+    "keywordsEn": [
+      "Essentials of the Six Schools",
+      "Grand Historian",
+      "prehistory of the Shiji"
+    ],
+    "keywordsZh": [
+      "论六家要旨",
+      "太史令",
+      "史记前史"
+    ]
+  },
+  {
+    "id": "sima-qian",
+    "en": "Sima Qian",
+    "oneLineEn": "Western Han historian, author of Records of the Grand Historian, founding the biographic-annalistic standard.",
+    "oneLineZh": "西汉史学家，《史记》作者，开创纪传体通史典范。",
+    "keywordsEn": [
+      "Records of the Grand Historian",
+      "Grand Scribe",
+      "fathoming the boundary of Heaven and humanity"
+    ],
+    "keywordsZh": [
+      "史记",
+      "太史公",
+      "究天人之际"
+    ]
+  },
+  {
+    "id": "huan-tan",
+    "en": "Huan Tan",
+    "oneLineEn": "Han-Xin transitional thinker known for New Discourses and anti-omen-lore stance.",
+    "oneLineZh": "两汉之际思想家，以《新论》与反谶纬立场著称。",
+    "keywordsEn": [
+      "New Discourses",
+      "anti-omen lore",
+      "Eastern Han thought"
+    ],
+    "keywordsZh": [
+      "新论",
+      "反谶纬",
+      "东汉思想"
+    ]
+  },
+  {
+    "id": "zheng-xuan",
+    "en": "Zheng Xuan",
+    "oneLineEn": "Eastern Han classics master who synthesized New and Old Text learning into a commentary system.",
+    "oneLineZh": "东汉经学大师，以综合今古文经学和经注体系著称。",
+    "keywordsEn": [
+      "classical scholarship",
+      "Zheng's annotations",
+      "late Han commentaries"
+    ],
+    "keywordsZh": [
+      "经学",
+      "郑笺",
+      "汉末注疏"
+    ]
+  },
+  {
+    "id": "xu-gan",
+    "en": "Xu Gan",
+    "oneLineEn": "Late Eastern Han Jian'an thinker who, in Zhonglun, treated governance, self-cultivation, and names-realities.",
+    "oneLineZh": "东汉末建安思想家，以《中论》讨论治国、修身和名实问题。",
+    "keywordsEn": [
+      "Balanced Discourses (Zhonglun)",
+      "Seven Masters of Jian'an",
+      "names and realities"
+    ],
+    "keywordsZh": [
+      "中论",
+      "建安七子",
+      "名实"
+    ]
+  },
+  {
+    "id": "wang-fu",
+    "en": "Wang Fu",
+    "oneLineEn": "Eastern Han political essayist who, in Discourses of a Recluse, criticized politics and literati ethos.",
+    "oneLineZh": "东汉政论家，以《潜夫论》批评时政与士风。",
+    "keywordsEn": [
+      "Discourses of a Recluse",
+      "critique of reclusion",
+      "Eastern Han political essays"
+    ],
+    "keywordsZh": [
+      "潜夫论",
+      "隐士批判",
+      "东汉政论"
+    ]
+  },
+  {
+    "id": "xun-yue",
+    "en": "Xun Yue",
+    "oneLineEn": "Late Eastern Han historian-essayist known for Extended Reflections and Han Annals.",
+    "oneLineZh": "东汉末史学家和政论家，以《申鉴》《汉纪》著称。",
+    "keywordsEn": [
+      "Extended Reflections",
+      "Han Annals",
+      "Xun lineage"
+    ],
+    "keywordsZh": [
+      "申鉴",
+      "汉纪",
+      "荀氏"
+    ]
+  },
+  {
+    "id": "zhongchang-tong",
+    "en": "Zhongchang Tong",
+    "oneLineEn": "Late Han political essayist who, in Frank Words, voiced institutional critique and literati independence.",
+    "oneLineZh": "汉末政论家，以《昌言》表达制度批判和士人自立意识。",
+    "keywordsEn": [
+      "Frank Words",
+      "late Han political essays",
+      "literati independence"
+    ],
+    "keywordsZh": [
+      "昌言",
+      "汉末政论",
+      "士人独立"
+    ]
+  },
+  {
+    "id": "liu-xiang",
+    "en": "Liu Xiang",
+    "oneLineEn": "Western Han classicist, cataloger, and story compiler who reorganized texts and Confucian political memory.",
+    "oneLineZh": "西汉经学家、目录学家和故事编纂者，整理典籍并重塑儒家政治记忆。",
+    "keywordsEn": [
+      "Garden of Persuasions",
+      "New Prefaces",
+      "collation of texts"
+    ],
+    "keywordsZh": [
+      "说苑",
+      "新序",
+      "校书"
+    ]
+  },
+  {
+    "id": "liu-xin",
+    "en": "Liu Xin",
+    "oneLineEn": "Western Han–Xin classicist and bibliographer who advanced Old Text classicism and catalog systems.",
+    "oneLineZh": "西汉末至新莽时期经学家和目录学家，推动古文经学与目录体系。",
+    "keywordsEn": [
+      "Seven Summaries",
+      "Old Text classicism",
+      "collation of texts"
+    ],
+    "keywordsZh": [
+      "七略",
+      "古文经学",
+      "校书"
+    ]
+  },
+  {
+    "id": "he-yan",
+    "en": "He Yan",
+    "oneLineEn": "Cao-Wei xuanxue figure who led Collected Explanations of the Analects and 'valuing non-being' debate.",
+    "oneLineZh": "曹魏玄学人物，主持《论语集解》并推动贵无论讨论。",
+    "keywordsEn": [
+      "xuanxue",
+      "Collected Explanations of the Analects",
+      "valuing non-being"
+    ],
+    "keywordsZh": [
+      "玄学",
+      "论语集解",
+      "贵无"
+    ]
+  },
+  {
+    "id": "ruan-ji",
+    "en": "Ruan Ji",
+    "oneLineEn": "Wei-Jin xuanxue figure known for personal freedom, critique of ritual law, and Zhuangzi reception.",
+    "oneLineZh": "魏晋玄学名士，以人格自由、礼法批判和庄学接受著称。",
+    "keywordsEn": [
+      "Seven Sages of the Bamboo Grove",
+      "Discourse on Understanding Zhuangzi",
+      "Biography of the Great Man"
+    ],
+    "keywordsZh": [
+      "竹林七贤",
+      "达庄论",
+      "大人先生传"
+    ]
+  },
+  {
+    "id": "ji-kang",
+    "en": "Ji Kang",
+    "oneLineEn": "Wei-Jin xuanxue figure known for nature, music theory, and nourishing life.",
+    "oneLineZh": "魏晋玄学名士，以自然、音乐和养生论著称。",
+    "keywordsEn": [
+      "Seven Sages of the Bamboo Grove",
+      "Music Has Neither Grief nor Joy",
+      "On Nourishing Life"
+    ],
+    "keywordsZh": [
+      "竹林七贤",
+      "声无哀乐论",
+      "养生论"
+    ]
+  },
+  {
+    "id": "xiang-xiu",
+    "en": "Xiang Xiu",
+    "oneLineEn": "Wei-Jin xuanxue figure known for Zhuangzi commentary and nature-vs-ritual-teaching debate.",
+    "oneLineZh": "魏晋玄学人物，以《庄子注》和自然名教讨论著称。",
+    "keywordsEn": [
+      "Commentary on the Zhuangzi",
+      "Seven Sages of the Bamboo Grove",
+      "nature and the teaching of names"
+    ],
+    "keywordsZh": [
+      "庄子注",
+      "竹林七贤",
+      "自然名教"
+    ]
+  },
+  {
+    "id": "pei-wei",
+    "en": "Pei Wei",
+    "oneLineEn": "Western Jin thinker who, in On Esteeming Being, reflected on xuanxue's valuing of non-being.",
+    "oneLineZh": "西晋思想家，以《崇有论》反思贵无玄学。",
+    "keywordsEn": [
+      "On Esteeming Being",
+      "anti-valuing-non-being",
+      "Western Jin xuanxue"
+    ],
+    "keywordsZh": [
+      "崇有论",
+      "反贵无",
+      "西晋玄学"
+    ]
+  },
+  {
+    "id": "ge-hong",
+    "en": "Ge Hong",
+    "oneLineEn": "Eastern Jin Daoist thinker and cultivation theorist, best known for the Baopuzi.",
+    "oneLineZh": "东晋道教思想家和炼养理论家，以《抱朴子》著称。",
+    "keywordsEn": [
+      "Baopuzi",
+      "Biographies of Immortals",
+      "Daoism"
+    ],
+    "keywordsZh": [
+      "抱朴子",
+      "神仙传",
+      "道教"
+    ]
+  },
+  {
+    "id": "fan-zhen",
+    "en": "Fan Zhen",
+    "oneLineEn": "Southern Dynasties thinker who, in On the Extinction of the Soul, attacked immortal-soul and karmic doctrines.",
+    "oneLineZh": "南朝思想家，以《神灭论》批判神不灭和因果报应观。",
+    "keywordsEn": [
+      "On the Extinction of the Soul",
+      "form-spirit relation",
+      "anti-Buddhist argument"
+    ],
+    "keywordsZh": [
+      "神灭论",
+      "形神关系",
+      "反佛论"
+    ]
+  },
+  {
+    "id": "tao-hongjing",
+    "en": "Tao Hongjing",
+    "oneLineEn": "Southern Dynasties Shangqing Daoist master, also physician, recluse, and scripture editor.",
+    "oneLineZh": "南朝道教上清派宗师，兼具医药、山林和经典整理身份。",
+    "keywordsEn": [
+      "Shangqing school",
+      "Declarations of the Perfected",
+      "Collected Commentaries on the Materia Medica"
+    ],
+    "keywordsZh": [
+      "上清派",
+      "真诰",
+      "本草经集注"
+    ]
+  },
+  {
+    "id": "lu-xiujing",
+    "en": "Lu Xiujing",
+    "oneLineEn": "Southern Dynasties Daoist who organized Lingbao scriptures and the Three Caverns catalog system.",
+    "oneLineZh": "南朝道士和道教制度整理者，推动灵宝经典与三洞目录体系。",
+    "keywordsEn": [
+      "Lingbao school",
+      "Three Caverns catalog",
+      "zhai ritual"
+    ],
+    "keywordsZh": [
+      "灵宝派",
+      "三洞目录",
+      "斋仪"
+    ]
+  },
+  {
+    "id": "kou-qianzhi",
+    "en": "Kou Qianzhi",
+    "oneLineEn": "Northern Wei Daoist reformer who joined a renewed Celestial Masters with state politics.",
+    "oneLineZh": "北魏道教改革者，推动新天师道与国家政治结合。",
+    "keywordsEn": [
+      "Northern Celestial Masters",
+      "Taiping Zhenjun",
+      "Lord Lao's New Code of Commandments"
+    ],
+    "keywordsZh": [
+      "北天师道",
+      "太平真君",
+      "老君音诵诫经"
+    ]
+  },
+  {
+    "id": "cheng-xuanying",
+    "en": "Cheng Xuanying",
+    "oneLineEn": "Tang Daoist scholar known for Laozi-Zhuangzi subcommentaries and Chongxuan thought.",
+    "oneLineZh": "唐代道教学者，以老庄义疏和重玄思想著称。",
+    "keywordsEn": [
+      "Chongxuan learning",
+      "subcommentary on the Laozi",
+      "commentary on the Zhuangzi"
+    ],
+    "keywordsZh": [
+      "重玄学",
+      "老子义疏",
+      "庄子疏"
+    ]
+  },
+  {
+    "id": "dao-an",
+    "en": "Dao An",
+    "oneLineEn": "Eastern Jin monk who advanced scripture catalogs, sangha norms, and the autonomy of Chinese Buddhism.",
+    "oneLineZh": "东晋高僧，推动佛典目录、僧团规范和中国佛教自主化。",
+    "keywordsEn": [
+      "critique of geyi matching",
+      "sangha institutions",
+      "scripture catalogs"
+    ],
+    "keywordsZh": [
+      "格义批判",
+      "僧团制度",
+      "经录"
+    ]
+  },
+  {
+    "id": "huiyuan",
+    "en": "Huiyuan",
+    "oneLineEn": "Eastern Jin Mount Lu monk influential on monastic independence, Pure Land faith, and Buddhist community.",
+    "oneLineZh": "东晋庐山高僧，围绕沙门独立、净土信仰和佛教共同体形成影响。",
+    "keywordsEn": [
+      "Mount Lu",
+      "Monks Should Not Bow to Kings",
+      "Pure Land"
+    ],
+    "keywordsZh": [
+      "庐山",
+      "沙门不敬王者论",
+      "净土"
+    ]
+  },
+  {
+    "id": "daosheng",
+    "en": "Daosheng",
+    "oneLineEn": "Eastern Jin–Liu Song monk known for sudden enlightenment and the icchantika-buddhahood debate.",
+    "oneLineZh": "东晋刘宋僧人，以顿悟成佛和一阐提成佛争论著称。",
+    "keywordsEn": [
+      "sudden enlightenment to Buddhahood",
+      "icchantika",
+      "nirvāṇa studies"
+    ],
+    "keywordsZh": [
+      "顿悟成佛",
+      "一阐提",
+      "涅槃学"
+    ]
+  },
+  {
+    "id": "jizang",
+    "en": "Jizang",
+    "oneLineEn": "Sui-Tang Three Treatise master known for Madhyamaka two truths and refuting error to reveal the right.",
+    "oneLineZh": "隋唐三论宗大师，以中观二谛和破邪显正著称。",
+    "keywordsEn": [
+      "Three Treatise School",
+      "Madhyamaka",
+      "two truths"
+    ],
+    "keywordsZh": [
+      "三论宗",
+      "中观",
+      "二谛"
+    ]
+  },
+  {
+    "id": "xuanzang",
+    "en": "Xuanzang",
+    "oneLineEn": "Tang monk, translator, and traveler who founded Chinese Faxiang Yogācāra.",
+    "oneLineZh": "唐代高僧、译经家和旅行者，奠定法相唯识学基础。",
+    "keywordsEn": [
+      "Yogācāra / consciousness-only",
+      "Great Tang Records on the Western Regions",
+      "scripture translation"
+    ],
+    "keywordsZh": [
+      "唯识",
+      "大唐西域记",
+      "译经"
+    ]
+  },
+  {
+    "id": "kuiji",
+    "en": "Kuiji",
+    "oneLineEn": "Tang Faxiang master, Xuanzang's disciple, known for the Yogācāra commentary system.",
+    "oneLineZh": "唐代法相宗大师，玄奘弟子，以唯识注疏体系著称。",
+    "keywordsEn": [
+      "Ci'en school",
+      "Commentary on the Cheng weishi lun",
+      "Faxiang"
+    ],
+    "keywordsZh": [
+      "慈恩宗",
+      "成唯识论述记",
+      "法相"
+    ]
+  },
+  {
+    "id": "daoxuan",
+    "en": "Daoxuan",
+    "oneLineEn": "Tang Vinaya master and Buddhist historian known for Vinaya learning and compilation of monk biographies.",
+    "oneLineZh": "唐代律宗大师和佛教史家，以律学与僧传编纂著称。",
+    "keywordsEn": [
+      "Vinaya School",
+      "Further Biographies of Eminent Monks",
+      "Commentary on the Dharmaguptaka Vinaya"
+    ],
+    "keywordsZh": [
+      "律宗",
+      "续高僧传",
+      "四分律行事钞"
+    ]
+  },
+  {
+    "id": "tanluan",
+    "en": "Tanluan",
+    "oneLineEn": "Northern-Eastern Wei Pure Land master teaching other-power rebirth in Commentary on the Treatise on Birth.",
+    "oneLineZh": "北魏至东魏净土思想高僧，以《往生论注》阐发他力往生。",
+    "keywordsEn": [
+      "Pure Land",
+      "Commentary on the Treatise on Birth",
+      "other-power (tariki)"
+    ],
+    "keywordsZh": [
+      "净土",
+      "往生论注",
+      "他力"
+    ]
+  },
+  {
+    "id": "shandao",
+    "en": "Shandao",
+    "oneLineEn": "Tang Pure Land master who systematized ordinary-person rebirth and nembutsu in the Contemplation Sutra commentary.",
+    "oneLineZh": "唐代净土宗大师，以《观经疏》系统阐发凡夫往生与称名念佛。",
+    "keywordsEn": [
+      "Pure Land school",
+      "Commentary on the Contemplation Sutra",
+      "nembutsu of the Name"
+    ],
+    "keywordsZh": [
+      "净土宗",
+      "观经疏",
+      "称名念佛"
+    ]
+  },
+  {
+    "id": "zongmi",
+    "en": "Zongmi",
+    "oneLineEn": "Tang fifth Huayan patriarch and Chan-doctrine mediator joining panjiao with three-teachings comparison.",
+    "oneLineZh": "唐代华严五祖与禅教会通思想家，兼具宗派判教和儒释道比较。",
+    "keywordsEn": [
+      "Huayan school",
+      "Preface to the Collection on the Sources of Chan",
+      "Inquiry into the Origin of Humanity"
+    ],
+    "keywordsZh": [
+      "华严宗",
+      "禅源诸诠集都序",
+      "原人论"
+    ]
+  }
+]

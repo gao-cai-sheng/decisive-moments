@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "items": {
+    "fichte": {
+      "oneLineEn": "Advanced Kant's critical philosophy into a freedom system grounded in self-activity (Wissenschaftslehre)."
+    },
+    "schelling": {
+      "oneLineEn": "Organized nature, spirit, art, and freedom into German Idealism's most generative systematic experiments."
+    },
+    "gadamer": {
+      "oneLineEn": "Extended hermeneutics from method to ontology via effective history, fusion of horizons, and linguisticality."
+    },
+    "george-santayana": {
+      "oneLineZh": "自然主义、怀疑论与美学的交界人物，以《理性的生命》和《存在的领域》立说。"
+    },
+    "diderot": {
+      "oneLineEn": "Encyclopédie editor linking Enlightenment knowledge projects, materialism, and aesthetic criticism."
+    },
+    "abhinavagupta": {
+      "oneLineEn": "Kashmir Śaiva and Indian aesthetics master linking religious metaphysics to the rasa tradition."
+    },
+    "alexander-herzen": {
+      "oneLineEn": "Russian Westernizer and exile thinker known for personal freedom, peasant socialism, and Russia's modernization problem."
+    },
+    "mikhail-bakunin": {
+      "oneLineEn": "Leading Russian anarchist known for freedom, critique of the state, and collectivist political theory."
+    },
+    "fyodor-dostoevsky": {
+      "oneLineEn": "Russian novelist-thinker who carried religion, freedom, evil, and redemption in literary form."
+    }
+  }
+}

@@ -1,0 +1,712 @@
+[
+  {
+    "id": "gustavo-gutierrez",
+    "en": "Gustavo Gutiérrez",
+    "oneLineEn": "Peruvian theologian whose Liberation Theology framed Latin American liberation theology.",
+    "oneLineZh": "秘鲁神学家，《解放神学》奠定拉美解放神学的问题框架。",
+    "keywordsEn": [
+      "liberation theology",
+      "preferential option for the poor",
+      "practice"
+    ],
+    "keywordsZh": [
+      "解放神学",
+      "穷人优先选项",
+      "实践"
+    ]
+  },
+  {
+    "id": "rodolfo-kusch",
+    "en": "Rodolfo Kusch",
+    "oneLineEn": "Argentine thinker critiquing European ontology via American presence, Indigenous worlds, and popular culture.",
+    "oneLineZh": "阿根廷思想家，以美洲在场、原住民世界和大众文化批判欧洲存在论。",
+    "keywordsEn": [
+      "American being",
+      "estar",
+      "Indigenous thought"
+    ],
+    "keywordsZh": [
+      "美洲存在",
+      "estar",
+      "原住民思想"
+    ]
+  },
+  {
+    "id": "anibal-quijano",
+    "en": "Aníbal Quijano",
+    "oneLineEn": "Peruvian social theorist of the 'coloniality of power' who shaped decolonial theory.",
+    "oneLineZh": "秘鲁社会理论家，提出‘权力的殖民性’并影响去殖民理论。",
+    "keywordsEn": [
+      "coloniality of power",
+      "modernity/coloniality",
+      "decoloniality"
+    ],
+    "keywordsZh": [
+      "权力的殖民性",
+      "现代性/殖民性",
+      "去殖民"
+    ]
+  },
+  {
+    "id": "maria-lugones",
+    "en": "María Lugones",
+    "oneLineEn": "Argentine-born feminist whose coloniality of gender advanced decolonial feminism.",
+    "oneLineZh": "阿根廷裔女性主义哲学家，以性别殖民性理论推进去殖民女性主义。",
+    "keywordsEn": [
+      "coloniality of gender",
+      "decolonial feminism",
+      "interlocking oppressions"
+    ],
+    "keywordsZh": [
+      "性别殖民性",
+      "去殖民女性主义",
+      "交叉压迫"
+    ]
+  },
+  {
+    "id": "octavio-paz",
+    "en": "Octavio Paz",
+    "oneLineEn": "Mexican poet-thinker who, in Labyrinth of Solitude, analyzed Mexican identity, solitude, and modernity.",
+    "oneLineZh": "墨西哥诗人兼思想家，以《孤独的迷宫》分析墨西哥身份、孤独与现代性。",
+    "keywordsEn": [
+      "Labyrinth of Solitude",
+      "Mexicanness",
+      "poetry and modernity"
+    ],
+    "keywordsZh": [
+      "孤独的迷宫",
+      "墨西哥性",
+      "诗与现代性"
+    ]
+  },
+  {
+    "id": "basil-the-great",
+    "en": "Basil the Great",
+    "oneLineEn": "One of the Cappadocian Fathers; shaped Greek patristics via Trinitarian theology, creation exegesis, and monastic rules.",
+    "oneLineZh": "卡帕多西亚三杰之一，以三一神学、创世解释和修道规章构成希腊教父传统核心。",
+    "keywordsEn": [
+      "Cappadocian Fathers",
+      "Trinitarian theology",
+      "Hexaemeron",
+      "monastic rules"
+    ],
+    "keywordsZh": [
+      "卡帕多西亚三杰",
+      "三一神学",
+      "六日创世",
+      "修道规章"
+    ]
+  },
+  {
+    "id": "gregory-of-nazianzus",
+    "en": "Gregory of Nazianzus",
+    "oneLineEn": "One of the Cappadocian Fathers; his Five Theological Orations fixed Eastern Orthodox Trinitarian expression.",
+    "oneLineZh": "卡帕多西亚三杰之一，以《神学演讲五篇》奠定东正教三一神学表达。",
+    "keywordsEn": [
+      "the Theologian",
+      "Theological Orations",
+      "Trinity",
+      "Cappadocian Fathers"
+    ],
+    "keywordsZh": [
+      "神学家",
+      "神学演讲",
+      "三位一体",
+      "卡帕多西亚三杰"
+    ]
+  },
+  {
+    "id": "gregory-of-nyssa",
+    "en": "Gregory of Nyssa",
+    "oneLineEn": "One of the Cappadocian Fathers; deepened Greek patristics via mystical theology, epektasis, and anthropology.",
+    "oneLineZh": "卡帕多西亚三杰之一，以神秘神学、无限进展和人论深化希腊教父传统。",
+    "keywordsEn": [
+      "The Life of Moses",
+      "epektasis (endless progress)",
+      "mystical theology",
+      "On the Making of Man"
+    ],
+    "keywordsZh": [
+      "摩西的生平",
+      "无限进展",
+      "神秘神学",
+      "人的创造"
+    ]
+  },
+  {
+    "id": "pseudo-dionysius",
+    "en": "Pseudo-Dionysius the Areopagite",
+    "oneLineEn": "Pseudepigraphic (~500) negative theology, Divine Names, and hierarchy shaping Eastern and Latin medieval thought.",
+    "oneLineZh": "约500年成书的托名作者传统，以否定神学、神圣名称和等级论深刻影响东方与拉丁中世纪。",
+    "keywordsEn": [
+      "pseudepigraphy",
+      "negative theology",
+      "Divine Names",
+      "Celestial Hierarchy"
+    ],
+    "keywordsZh": [
+      "托名",
+      "否定神学",
+      "神圣名称",
+      "天阶体系"
+    ]
+  },
+  {
+    "id": "maximus-the-confessor",
+    "en": "Maximus the Confessor",
+    "oneLineEn": "Byzantine theological synthesizer taking up Greek patristics via the Ambigua, dyothelitism, and cosmic Christology.",
+    "oneLineZh": "拜占庭神学综合者，以《难题集》、两种意志论和宇宙-基督神学承接希腊教父传统。",
+    "keywordsEn": [
+      "Ambigua",
+      "dyothelitism",
+      "the Confessor",
+      "cosmic Christology"
+    ],
+    "keywordsZh": [
+      "难题集",
+      "两种意志论",
+      "忏悔者",
+      "宇宙-基督神学"
+    ]
+  },
+  {
+    "id": "john-of-damascus",
+    "en": "John of Damascus",
+    "oneLineEn": "Byzantine doctrine systemizer linking Aristotelian logic and Orthodoxy via Fountain of Knowledge and icon defense.",
+    "oneLineZh": "拜占庭教义系统化者，以《知识的源泉》和圣像辩护连接亚里士多德逻辑与东正教神学。",
+    "keywordsEn": [
+      "The Fountain of Knowledge",
+      "Exact Exposition of the Orthodox Faith",
+      "defense of icons",
+      "Aristotelian logic"
+    ],
+    "keywordsZh": [
+      "知识的源泉",
+      "正统信仰详解",
+      "圣像辩护",
+      "亚里士多德逻辑"
+    ]
+  },
+  {
+    "id": "symeon-the-new-theologian",
+    "en": "Symeon the New Theologian",
+    "oneLineEn": "Byzantine mystic whose divine-light experience and spiritual knowledge shaped later hesychasm.",
+    "oneLineZh": "拜占庭神秘主义思想家，以神圣之光的亲证经验和灵性知识影响后来的静修传统。",
+    "keywordsEn": [
+      "New Theologian",
+      "uncreated light",
+      "direct experience",
+      "hymns"
+    ],
+    "keywordsZh": [
+      "新神学家",
+      "神圣之光",
+      "亲证经验",
+      "赞美诗"
+    ]
+  },
+  {
+    "id": "michael-psellos",
+    "en": "Michael Psellos",
+    "oneLineEn": "Byzantine polymath joining classical and medieval Greek thought via Platonic revival, court notes, and encyclopedism.",
+    "oneLineZh": "拜占庭博学者和哲学家，以柏拉图主义复兴、宫廷政治观察和百科式学问连接古典与中世纪希腊传统。",
+    "keywordsEn": [
+      "Chronographia",
+      "Platonic revival",
+      "Byzantine polymath",
+      "De omnifaria doctrina"
+    ],
+    "keywordsZh": [
+      "编年史",
+      "柏拉图主义复兴",
+      "拜占庭博学者",
+      "杂论"
+    ]
+  },
+  {
+    "id": "gregory-palamas",
+    "en": "Gregory Palamas",
+    "oneLineEn": "Late Byzantine hesychast who framed Orthodox mystical experience via essence/energies distinction and the Triads.",
+    "oneLineZh": "晚期拜占庭静修主义神学家，以本质/能质之分和《为静修者辩护》组织东正教神秘经验论证。",
+    "keywordsEn": [
+      "hesychasm",
+      "essence/energies distinction",
+      "Triads in Defense of the Holy Hesychasts",
+      "uncreated light"
+    ],
+    "keywordsZh": [
+      "静修主义",
+      "本质/能质之分",
+      "为静修者辩护",
+      "神圣之光"
+    ]
+  },
+  {
+    "id": "gemistos-plethon",
+    "en": "Gemistos Plethon",
+    "oneLineEn": "Late Byzantine Platonist whose Book of Laws and Florence role shaped the Italian Renaissance classical revival.",
+    "oneLineZh": "晚期拜占庭柏拉图主义者，以《法律篇》和佛罗伦萨大公会议影响意大利文艺复兴的古典哲学复兴。",
+    "keywordsEn": [
+      "Book of Laws (Nomoi)",
+      "Platonic revival",
+      "Council of Florence",
+      "Renaissance bridge"
+    ],
+    "keywordsZh": [
+      "法律篇",
+      "柏拉图主义复兴",
+      "佛罗伦萨大公会议",
+      "文艺复兴桥梁"
+    ]
+  },
+  {
+    "id": "zoroaster",
+    "en": "Zoroaster",
+    "oneLineEn": "Ancient Iranian prophet of Zoroastrianism; good-evil choice, asha, and last judgment source pre-Islamic Persian thought.",
+    "oneLineZh": "古伊朗先知与祆教传统核心人物，以善恶抉择、真理秩序和末世审判构成前伊斯兰波斯思想源头。",
+    "keywordsEn": [
+      "Ahura Mazda",
+      "good-evil dualism",
+      "asha (truth-order)",
+      "Gathas"
+    ],
+    "keywordsZh": [
+      "阿胡拉·马兹达",
+      "善恶二元",
+      "阿沙",
+      "伽萨"
+    ]
+  },
+  {
+    "id": "mani",
+    "en": "Mani",
+    "oneLineEn": "Sasanian founder of Manichaeism; cast light-dark dualism, soteriology, and ascetic ethics in self-authored scriptures.",
+    "oneLineZh": "萨珊时期摩尼教创立者，以亲撰经典组织光暗二元宇宙论、救赎论与禁欲伦理。",
+    "keywordsEn": [
+      "Manichaeism",
+      "light-dark dualism",
+      "salvation",
+      "Shabuhragan"
+    ],
+    "keywordsZh": [
+      "摩尼教",
+      "光暗二元",
+      "救赎",
+      "沙卜拉干"
+    ]
+  },
+  {
+    "id": "pyotr-chaadaev",
+    "en": "Pyotr Chaadaev",
+    "oneLineEn": "19th-c. Russian thinker whose Philosophical Letters sparked debate on Russia's historical mission and path.",
+    "oneLineZh": "19世纪俄国思想家，《哲学书简》引发关于俄国历史使命与文明道路的论争。",
+    "keywordsEn": [
+      "Philosophical Letters",
+      "Westernizers",
+      "Russia's mission",
+      "philosophy of history"
+    ],
+    "keywordsZh": [
+      "哲学书简",
+      "西化派",
+      "俄国使命",
+      "历史哲学"
+    ]
+  },
+  {
+    "id": "aleksei-khomyakov",
+    "en": "Aleksei Khomyakov",
+    "oneLineEn": "Core Slavophile theorist who framed freedom, community, and Orthodox tradition through sobornost.",
+    "oneLineZh": "斯拉夫派核心理论家，以 sobornost 组织自由、共同体和东正教传统的思想口径。",
+    "keywordsEn": [
+      "Slavophilism",
+      "sobornost (conciliarity)",
+      "sobornost",
+      "Orthodox community"
+    ],
+    "keywordsZh": [
+      "斯拉夫派",
+      "聚和性",
+      "sobornost",
+      "东正教共同体"
+    ]
+  },
+  {
+    "id": "ivan-kireevsky",
+    "en": "Ivan Kireevsky",
+    "oneLineEn": "Co-founder of Slavophilism; integral knowledge and Orthodoxy against West European rationalism.",
+    "oneLineZh": "斯拉夫派共同奠基者之一，以整全知识和东正教传统反思西欧理性主义。",
+    "keywordsEn": [
+      "integral knowledge",
+      "Slavophilism",
+      "European culture",
+      "Orthodox tradition"
+    ],
+    "keywordsZh": [
+      "整全知识",
+      "斯拉夫派",
+      "欧洲文化",
+      "东正教传统"
+    ]
+  },
+  {
+    "id": "alexander-herzen",
+    "en": "Alexander Herzen",
+    "oneLineEn": "Russian Westernizer and exile thinker known for personal freedom, peasant socialism, and Russia's modernization problem.",
+    "oneLineZh": "俄国西化派与流亡思想家，以个人自由、农民社会主义和俄国现代化问题著称。",
+    "keywordsEn": [
+      "My Past and Thoughts",
+      "peasant socialism",
+      "Westernizers",
+      "freedom"
+    ],
+    "keywordsZh": [
+      "往事与随想",
+      "农民社会主义",
+      "西化派",
+      "自由"
+    ]
+  },
+  {
+    "id": "mikhail-bakunin",
+    "en": "Mikhail Bakunin",
+    "oneLineEn": "Leading Russian anarchist known for freedom, critique of the state, and collectivist political theory.",
+    "oneLineZh": "俄国无政府主义代表人物，以自由、国家批判和集体主义政治理论著称。",
+    "keywordsEn": [
+      "anarchism",
+      "Statism and Anarchy",
+      "God and the State",
+      "freedom"
+    ],
+    "keywordsZh": [
+      "无政府主义",
+      "国家制度与无政府状态",
+      "上帝与国家",
+      "自由"
+    ]
+  },
+  {
+    "id": "nikolai-chernyshevsky",
+    "en": "Nikolai Chernyshevsky",
+    "oneLineEn": "Russian materialist whose rational egoism, aesthetics of reality, and What Is to Be Done? shaped 19th-c. radicalism.",
+    "oneLineZh": "俄国唯物主义与社会思想代表，以理性利己、现实美学和《怎么办？》影响19世纪激进传统。",
+    "keywordsEn": [
+      "What Is to Be Done?",
+      "rational egoism",
+      "aesthetics of reality",
+      "social thought"
+    ],
+    "keywordsZh": [
+      "怎么办？",
+      "理性利己",
+      "现实美学",
+      "社会思想"
+    ]
+  },
+  {
+    "id": "peter-kropotkin",
+    "en": "Peter Kropotkin",
+    "oneLineEn": "Russian anarchist communist who, in Mutual Aid, cast cooperation, evolution, and free community as political ethics.",
+    "oneLineZh": "俄国无政府共产主义思想家，以《互助论》把合作、进化与自由共同体组织为政治伦理。",
+    "keywordsEn": [
+      "Mutual Aid",
+      "The Conquest of Bread",
+      "anarchist communism",
+      "cooperation"
+    ],
+    "keywordsZh": [
+      "互助论",
+      "面包与自由",
+      "无政府共产主义",
+      "合作"
+    ]
+  },
+  {
+    "id": "fyodor-dostoevsky",
+    "en": "Fyodor Dostoevsky",
+    "oneLineEn": "Russian novelist-thinker who carried religion, freedom, evil, and redemption in literary form.",
+    "oneLineZh": "以小说承载宗教、自由、恶与救赎问题的俄国思想家型作家。",
+    "keywordsEn": [
+      "The Brothers Karamazov",
+      "Notes from Underground",
+      "freedom",
+      "sin and redemption"
+    ],
+    "keywordsZh": [
+      "卡拉马佐夫兄弟",
+      "地下室手记",
+      "自由",
+      "罪与救赎"
+    ]
+  },
+  {
+    "id": "leo-tolstoy",
+    "en": "Leo Tolstoy",
+    "oneLineEn": "Russian writer-thinker organizing social thought around Christian ethics, nonviolence, and conscience critique.",
+    "oneLineZh": "以基督教伦理、非暴力和良心批判组织社会思想的俄国作家思想家。",
+    "keywordsEn": [
+      "The Kingdom of God Is Within You",
+      "A Confession",
+      "nonviolence",
+      "Christian ethics"
+    ],
+    "keywordsZh": [
+      "天国在你心中",
+      "忏悔录",
+      "非暴力",
+      "基督教伦理"
+    ]
+  },
+  {
+    "id": "vladimir-solovyov",
+    "en": "Vladimir Solovyov",
+    "oneLineEn": "Hub of Russian religious philosophy; all-unity, Godmanhood, sophiology, and the Good shaped the Silver Age.",
+    "oneLineZh": "俄国宗教哲学枢纽人物，以全统一、神人类、索菲亚学和善的证明影响白银时代。",
+    "keywordsEn": [
+      "Justification of the Good",
+      "Godmanhood",
+      "sophiology",
+      "all-unity"
+    ],
+    "keywordsZh": [
+      "善的证明",
+      "神人类",
+      "索菲亚学",
+      "全统一"
+    ]
+  },
+  {
+    "id": "nikolai-fedorov",
+    "en": "Nikolai Fedorov",
+    "oneLineEn": "Russian cosmism pioneer who, in Philosophy of the Common Task, joined human unity, science, and resurrection.",
+    "oneLineZh": "俄国宇宙主义先驱，以《共同事业的哲学》把人类联合、科学与复活论联结起来。",
+    "keywordsEn": [
+      "common task",
+      "cosmism",
+      "resurrection doctrine",
+      "the fathers"
+    ],
+    "keywordsZh": [
+      "共同事业",
+      "宇宙主义",
+      "复活论",
+      "父辈"
+    ]
+  },
+  {
+    "id": "lev-shestov",
+    "en": "Lev Shestov",
+    "oneLineEn": "Russian religious existentialist who, in Athens and Jerusalem, opposed rational necessity to freedom of faith.",
+    "oneLineZh": "俄国宗教存在主义思想家，以《雅典与耶路撒冷》对抗理性必然性与信仰自由。",
+    "keywordsEn": [
+      "Athens and Jerusalem",
+      "anti-rationalism",
+      "existentialism",
+      "faith"
+    ],
+    "keywordsZh": [
+      "雅典与耶路撒冷",
+      "反理性",
+      "存在主义",
+      "信仰"
+    ]
+  },
+  {
+    "id": "nikolai-berdyaev",
+    "en": "Nikolai Berdyaev",
+    "oneLineEn": "Silver Age religious philosopher centered on freedom, personhood, creativity, and resistance to slavery.",
+    "oneLineZh": "白银时代宗教哲学家，以自由、人格、创造和反奴役问题为核心。",
+    "keywordsEn": [
+      "philosophy of freedom",
+      "personalism",
+      "Slavery and Freedom",
+      "creation"
+    ],
+    "keywordsZh": [
+      "自由哲学",
+      "人格主义",
+      "奴役与自由",
+      "创造"
+    ]
+  },
+  {
+    "id": "sergei-bulgakov",
+    "en": "Sergei Bulgakov",
+    "oneLineEn": "Silver Age religious philosopher who moved from Marxism to sophiology and Godmanhood philosophy of religion.",
+    "oneLineZh": "白银时代宗教哲学家，早年接收马克思主义，后转向索菲亚学和神人类宗教哲学。",
+    "keywordsEn": [
+      "sophiology",
+      "Unfading Light",
+      "Godmanhood",
+      "turn from Marxism to religion"
+    ],
+    "keywordsZh": [
+      "索菲亚学",
+      "不暮之光",
+      "神人类",
+      "从马克思主义转向宗教"
+    ]
+  },
+  {
+    "id": "pavel-florensky",
+    "en": "Pavel Florensky",
+    "oneLineEn": "Silver Age theologian-philosopher linking Orthodoxy, epistemology, and symbol in The Pillar and Ground of the Truth.",
+    "oneLineZh": "白银时代神学家和哲学家，以《真理的柱石与根基》连接东正教、知识论和象征思想。",
+    "keywordsEn": [
+      "The Pillar and Ground of the Truth",
+      "theology",
+      "mathematics",
+      "symbol"
+    ],
+    "keywordsZh": [
+      "真理的柱石与根基",
+      "神学",
+      "数学",
+      "象征"
+    ]
+  },
+  {
+    "id": "semyon-frank",
+    "en": "Semyon Frank",
+    "oneLineEn": "Russian religious philosopher joining metaphysics and social thought via all-unity, the Unfathomable, and intuitionism.",
+    "oneLineZh": "俄国宗教哲学家，以全一、不可测度者和直觉主义知识论连接形而上学与社会哲学。",
+    "keywordsEn": [
+      "the Unfathomable",
+      "all-unity",
+      "intuitionism",
+      "spiritual foundations of society"
+    ],
+    "keywordsZh": [
+      "不可测度者",
+      "全一",
+      "直觉主义",
+      "社会的精神基础"
+    ]
+  },
+  {
+    "id": "buddhaghosa",
+    "en": "Buddhaghosa",
+    "oneLineEn": "Core systematizer of Theravada Pali commentary; Visuddhimagga unites sila-samadhi-panna, Abhidhamma, and the path.",
+    "oneLineZh": "上座部巴利注疏传统的核心系统家，以《清净道论》综合戒定慧、阿毗达磨和解脱道路。",
+    "keywordsEn": [
+      "Visuddhimagga",
+      "Pali commentaries",
+      "Theravada",
+      "path of purification"
+    ],
+    "keywordsZh": [
+      "清净道论",
+      "巴利注疏",
+      "上座部",
+      "修道次第"
+    ]
+  },
+  {
+    "id": "dhammapala",
+    "en": "Dhammapala",
+    "oneLineEn": "Theravāda Pali commentator linked to Paramatthadīpanī Khuddaka commentaries (ca. 6th–7th c., uncertain).",
+    "oneLineZh": "上座部巴利注疏家，传统上与《胜义灯疏》系列小部注疏相连，断代约6—7世纪但不确。",
+    "keywordsEn": [
+      "Paramatthadīpanī",
+      "Khuddaka commentaries",
+      "Pali commentaries",
+      "uncertain dating"
+    ],
+    "keywordsZh": [
+      "胜义灯疏",
+      "小部注疏",
+      "巴利注疏",
+      "断代不确"
+    ]
+  },
+  {
+    "id": "ledi-sayadaw",
+    "en": "Ledi Sayadaw",
+    "oneLineEn": "Burmese Theravada Abhidhamma and vipassana revivalist who popularized doctrine and practice via plain manuals.",
+    "oneLineZh": "缅甸上座部阿毗达磨与内观复兴代表，以通俗手册推动教理学习和修行普及。",
+    "keywordsEn": [
+      "Burmese vipassana",
+      "Abhidhamma",
+      "Manual of Ultimate Truth",
+      "Manual of Dhamma"
+    ],
+    "keywordsZh": [
+      "缅甸内观",
+      "阿毗达磨",
+      "胜义要义手册",
+      "法之手册"
+    ]
+  },
+  {
+    "id": "mahasi-sayadaw",
+    "en": "Mahasi Sayadaw",
+    "oneLineEn": "Leading Burmese vipassana teacher whose satipatthana practice and Mahasi method shaped global Theravada meditation.",
+    "oneLineZh": "缅甸内观体系代表人物，以念处实践和马哈希方法影响现代全球上座部禅修。",
+    "keywordsEn": [
+      "vipassana",
+      "satipatthana",
+      "Mahasi method",
+      "Manual of Insight"
+    ],
+    "keywordsZh": [
+      "内观",
+      "念处",
+      "马哈希体系",
+      "内观手册"
+    ]
+  },
+  {
+    "id": "buddhadasa",
+    "en": "Buddhadasa",
+    "oneLineEn": "Modern Thai Buddhist thinker linking reform and politics via dependent origination, anapanasati, and Dhammic socialism.",
+    "oneLineZh": "泰国现代佛教思想家，以缘起重释、观呼吸修行和“法的社会主义”连接佛教改革与政治伦理。",
+    "keywordsEn": [
+      "Thai Buddhist reform",
+      "dependent origination",
+      "Dhammic socialism",
+      "anapanasati (mindfulness of breathing)"
+    ],
+    "keywordsZh": [
+      "泰国佛教改革",
+      "缘起",
+      "法的社会主义",
+      "观呼吸"
+    ]
+  },
+  {
+    "id": "tran-thai-tong",
+    "en": "Trần Thái Tông",
+    "oneLineEn": "Trần emperor-Zen master whose Lessons on Emptiness grounded medieval Vietnamese Zen.",
+    "oneLineZh": "陈朝帝王-禅师，以《课虚录》奠定越南中世禅学思想表达。",
+    "keywordsEn": [
+      "Lessons on Emptiness",
+      "Vietnamese Zen",
+      "Trần dynasty",
+      "emperor-Zen master"
+    ],
+    "keywordsZh": [
+      "课虚录",
+      "越南禅",
+      "陈朝",
+      "帝王-禅师"
+    ]
+  },
+  {
+    "id": "tran-nhan-tong",
+    "en": "Trần Nhân Tông",
+    "oneLineEn": "Trần emperor-Zen master who founded Trúc Lâm, uniting Vietnamese Zen lines and a poetic tradition.",
+    "oneLineZh": "陈朝帝王-禅师和竹林禅派开创者，统合越南诸禅派并留下禅诗文传统。",
+    "keywordsEn": [
+      "Trúc Lâm Zen school",
+      "Fu on Dwelling in Dust and Delighting in the Way",
+      "Vietnamese Zen",
+      "Trần dynasty"
+    ],
+    "keywordsZh": [
+      "竹林禅派",
+      "居尘乐道赋",
+      "越南禅",
+      "陈朝"
+    ]
+  }
+]

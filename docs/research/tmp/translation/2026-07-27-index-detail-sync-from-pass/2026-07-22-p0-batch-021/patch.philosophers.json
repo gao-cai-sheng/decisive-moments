@@ -1,0 +1,161 @@
+{
+  "schemaVersion": 1,
+  "items": {
+    "philo-of-alexandria": {
+      "oneLineEn": "Interpreted Torah with Greek categories; key starting point of ancient Jewish philosophy.",
+      "keywordsEn": [
+        "allegorical exegesis",
+        "Logos",
+        "Hellenistic Jewish philosophy"
+      ]
+    },
+    "pierre-bayle": {
+      "oneLineEn": "Historical and Critical Dictionary influenced Leibniz via skepticism, tolerance, and theodicy.",
+      "keywordsEn": [
+        "skepticism",
+        "tolerance",
+        "Historical and Critical Dictionary"
+      ]
+    },
+    "poincare": {
+      "oneLineZh": "约定论代表，主张几何公理既非经验也非先验，而是约定。",
+      "keywordsZh": [
+        "约定论",
+        "科学方法",
+        "数学基础"
+      ]
+    },
+    "rabia-al-adawiyya": {
+      "oneLineEn": "Early Sufi saint whose pure divine love—not for paradise or hell—became classic source of Sufi love.",
+      "keywordsEn": [
+        "pure divine love",
+        "early Sufism",
+        "ascetic tradition"
+      ]
+    },
+    "ranciere": {
+      "keywordsZh": [
+        "感性分配",
+        "政治美学",
+        "平等"
+      ]
+    },
+    "ravaisson": {
+      "oneLineEn": "Of Habit influenced Bergson and linked French spiritualism to classical metaphysics via Aristotle.",
+      "keywordsEn": [
+        "habit",
+        "Aristotelian studies",
+        "philosophy of life"
+      ]
+    },
+    "raymond-aron": {
+      "oneLineZh": "以《知识分子的鸦片》和历史哲学捍卫自由主义，与萨特长期论争。",
+      "keywordsZh": [
+        "自由主义",
+        "历史哲学",
+        "知识分子批判"
+      ]
+    },
+    "rene-girard": {
+      "keywordsZh": [
+        "模仿欲望",
+        "替罪羊",
+        "神圣暴力"
+      ]
+    },
+    "renouvier": {
+      "oneLineEn": "Neo-criticism rewrote Kant and influenced William James on free will.",
+      "keywordsEn": [
+        "neo-criticism",
+        "free will",
+        "reception of Kant"
+      ]
+    },
+    "rg-collingwood": {
+      "oneLineZh": "历史哲学与问答逻辑代表，主张一切历史都是思想在当下的重演。",
+      "keywordsZh": [
+        "历史哲学",
+        "问答逻辑",
+        "艺术哲学"
+      ]
+    },
+    "richard-swinburne": {
+      "oneLineZh": "以贝叶斯概率论证有神论，代表英美自然神学的当代形态。",
+      "keywordsZh": [
+        "宗教哲学",
+        "概率论证",
+        "自然神学"
+      ]
+    },
+    "risieri-frondizi": {
+      "oneLineEn": "Argentine value theorist whose structure of value and self entered Latin American academic philosophy.",
+      "keywordsEn": [
+        "axiology",
+        "theory of the self",
+        "Latin American academic philosophy"
+      ]
+    },
+    "rm-hare": {
+      "oneLineZh": "规定主义代表，主张道德判断兼具规定性与可普遍化性。",
+      "keywordsZh": [
+        "规定主义",
+        "元伦理学",
+        "可普遍化"
+      ]
+    },
+    "robert-brandom": {
+      "oneLineZh": "推论主义语义学代表，把意义奠基于给出与索取理由的推论实践。",
+      "keywordsZh": [
+        "推论主义",
+        "语义学",
+        "匹兹堡学派"
+      ]
+    },
+    "rodolfo-kusch": {
+      "oneLineEn": "Argentine thinker critiquing European ontology via American presence, Indigenous worlds, and popular culture.",
+      "keywordsEn": [
+        "American being",
+        "estar",
+        "Indigenous thought"
+      ]
+    },
+    "ruan-ji": {
+      "oneLineEn": "Wei-Jin xuanxue figure known for personal freedom, critique of ritual law, and Zhuangzi reception.",
+      "keywordsEn": [
+        "Seven Sages of the Bamboo Grove",
+        "Discourse on Understanding Zhuangzi",
+        "Biography of the Great Man"
+      ]
+    },
+    "rumi": {
+      "keywordsEn": [
+        "Mathnawī",
+        "love and union",
+        "Persian Sufi poetry"
+      ]
+    },
+    "ruth-barcan-marcus": {
+      "oneLineZh": "量化模态逻辑先驱，巴坎公式为后来的模态语义学铺路。",
+      "keywordsZh": [
+        "模态逻辑",
+        "巴坎公式",
+        "直接指称"
+      ]
+    },
+    "sakya-pandita": {
+      "keywordsEn": [
+        "Sakya",
+        "pramana theory",
+        "Treasury of Reasoning"
+      ]
+    },
+    "salazar-bondy": {
+      "oneLineEn": "Peruvian philosopher who opened the classic debate with Zea on Latin American philosophical authenticity.",
+      "keywordsEn": [
+        "Is There a Philosophy of Our America?",
+        "authenticity",
+        "dependency"
+      ]
+    }
+  }
+}

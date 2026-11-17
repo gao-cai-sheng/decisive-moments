@@ -1,0 +1,1008 @@
+{
+  "items": {
+    "jinul": {
+      "oneLineEs": "Figura clave del Seon coreano que reorganizó el budismo de Corea mediante la iluminación súbita con cultivo gradual y la tradición Jogye.",
+      "keywordsEs": [
+        "Orden Jogye",
+        "iluminación súbita y cultivo gradual",
+        "Seon coreano"
+      ]
+    },
+    "seo-gyeongdeok": {
+      "oneLineEs": "Representante del monismo del qi en el confucianismo coreano, que conecta la teoría del qi de Zhang Zai con el contexto de Toegye.",
+      "keywordsEs": [
+        "monismo del qi",
+        "confucianismo coreano",
+        "Hwadam"
+      ]
+    },
+    "yi-ik": {
+      "oneLineEs": "Figura importante del silhak coreano que vincula la tradición del estudio de Zhu Xi de Toegye con los problemas de gobernanza social.",
+      "keywordsEs": [
+        "aprendizaje práctico (silhak)",
+        "Seongho",
+        "confucianismo coreano"
+      ]
+    },
+    "jeong-yakyong": {
+      "oneLineEs": "Sintetizador del silhak coreano que reinterpreta los clásicos y desarrolla un pensamiento político de gobernanza práctica.",
+      "keywordsEs": [
+        "aprendizaje práctico (silhak)",
+        "Dasan",
+        "gobernanza práctica"
+      ]
+    },
+    "santaraksita": {
+      "oneLineEs": "Representante del Yogācāra-Madhyamaka que entró en el Tíbet y fundó el monasterio de Samye, nodo clave del budismo indio en el Tíbet.",
+      "keywordsEs": [
+        "Yogācāra-Madhyamaka",
+        "monasterio de Samye",
+        "maestros fundadores en el Tíbet"
+      ]
+    },
+    "kamalasila": {
+      "oneLineEs": "Representante de la vía gradual en el debate de Samye; con las Etapas de la meditación se convierte en un nodo de la teoría del camino indo-tibetano.",
+      "keywordsEs": [
+        "debate de Samye",
+        "Etapas de la meditación",
+        "vía gradual"
+      ]
+    },
+    "atisa": {
+      "oneLineEs": "Figura clave de la escuela Kadampa cuya Lámpara del camino hacia la iluminación influyó en la tradición tibetana del lamrim.",
+      "keywordsEs": [
+        "Kadampa",
+        "Lámpara del camino hacia la iluminación",
+        "etapas del camino"
+      ]
+    },
+    "milarepa": {
+      "oneLineEs": "Yogui de la escuela Kagyu cuyas canciones del camino representan la literatura de práctica y la narrativa de liberación tibetanas.",
+      "keywordsEs": [
+        "Kagyu",
+        "yogui",
+        "canciones del camino"
+      ]
+    },
+    "gampopa": {
+      "oneLineEs": "Fundador de la Dakpo Kagyu, que fusiona las etapas del camino Kadampa con la tradición de la Mahāmudrā.",
+      "keywordsEs": [
+        "Dakpo Kagyu",
+        "Mahāmudrā",
+        "Ornamento precioso de la liberación"
+      ]
+    },
+    "sakya-pandita": {
+      "oneLineEs": "Sistematizador de la escuela Sakya que impulsó la tradición tibetana del pramāṇa con el Tesoro de la lógica de la validación.",
+      "keywordsEs": [
+        "escuela Sakya",
+        "teoría del pramāṇa",
+        "Tesoro de la lógica de la validación"
+      ]
+    },
+    "longchenpa": {
+      "oneLineEs": "Sistematizador del Dzogchen nyingma; los Siete tesoros constituyen un nodo central de la metafísica y la teoría de la práctica tibetanas.",
+      "keywordsEs": [
+        "Nyingma",
+        "Dzogchen",
+        "Siete tesoros"
+      ]
+    },
+    "tsongkhapa": {
+      "oneLineEs": "Fundador de la escuela Gelug que, con la interpretación Prāsaṅgika del Madhyamaka y el sistema de las etapas del camino, modeló el budismo tibetano.",
+      "keywordsEs": [
+        "escuela Gelug",
+        "Madhyamaka Prāsaṅgika",
+        "Gran tratado de las etapas del camino"
+      ]
+    },
+    "dolpopa": {
+      "oneLineEs": "Sistematizador de la escuela Jonang cuya visión de la vacuidad del otro (zhentong) marca una gran división en la interpretación tibetana del Madhyamaka.",
+      "keywordsEs": [
+        "escuela Jonang",
+        "vacuidad del otro (zhentong)",
+        "Dharma de la montaña"
+      ]
+    },
+    "gorampa": {
+      "oneLineEs": "Sistematizador del Madhyamaka sakya cuya crítica de la interpretación de Tsongkhapa es un nodo interno decisivo del Madhyamaka tibetano.",
+      "keywordsEs": [
+        "escuela Sakya",
+        "Madhyamaka",
+        "crítica de Tsongkhapa"
+      ]
+    },
+    "buton": {
+      "oneLineEs": "Historiador del budismo tibetano y figura clave en la redacción del canon budista (Kangyur/Tengyur).",
+      "keywordsEs": [
+        "historia del budismo",
+        "canon budista",
+        "Historia del budismo de Butön"
+      ]
+    },
+    "jamgon-kongtrul": {
+      "oneLineEs": "Figura central del movimiento Rimé que integra múltiples tradiciones tibetanas en el Tesoro del conocimiento y los Cinco tesoros.",
+      "keywordsEs": [
+        "movimiento Rimé",
+        "Tesoro del conocimiento",
+        "Cinco tesoros"
+      ]
+    },
+    "mipham": {
+      "oneLineEs": "Representante nyingma del movimiento Rimé que, con comentarios de Madhyamaka y pramāṇa, se convierte en sistematizador tibetano moderno.",
+      "keywordsEs": [
+        "Nyingma",
+        "Rimé",
+        "Madhyamaka y pramāṇa"
+      ]
+    },
+    "dalai-lama-14": {
+      "oneLineEs": "Líder contemporáneo de la escuela Gelug que introduce la interpretación del Madhyamaka, la ética y el diálogo con la ciencia en el discurso filosófico global.",
+      "keywordsEs": [
+        "escuela Gelug",
+        "Madhyamaka contemporáneo",
+        "diálogo con la ciencia"
+      ]
+    },
+    "wasil-ibn-ata": {
+      "oneLineEs": "Fundador temprano de la Muʿtazila que, con la teología racional, el libre albedrío y la posición intermedia entre dos estaciones, abre las divisiones de la tradición kalām.",
+      "keywordsEs": [
+        "Muʿtazila",
+        "libre albedrío",
+        "entre dos estaciones"
+      ]
+    },
+    "al-ashari": {
+      "oneLineEs": "Fundador del asharismo que reconfigura la teología racional entre la oposición a la Muʿtazila y la defensa de la doctrina suní.",
+      "keywordsEs": [
+        "asharismo",
+        "kalām",
+        "razón y tradición"
+      ]
+    },
+    "al-maturidi": {
+      "oneLineEs": "Fundador del maturidismo que, en el marco hanafí, desarrolla una teología suní sobre la razón, la revelación y la responsabilidad humana.",
+      "keywordsEs": [
+        "maturidismo",
+        "tradición hanafí",
+        "conocimiento racional"
+      ]
+    },
+    "al-baqillani": {
+      "oneLineEs": "Sistematizador asharí conocido por la argumentación doctrinal, la concepción atomista del tiempo y la inimitabilidad del Corán.",
+      "keywordsEs": [
+        "sistematización asharí",
+        "atomismo",
+        "inimitabilidad del Corán"
+      ]
+    },
+    "al-juwayni": {
+      "oneLineEs": "Imām de los Dos Santuarios y maestro de al-Ghazālī, que refuerza la estructura demostrativa en la teología asharí y en los principios del derecho.",
+      "keywordsEs": [
+        "Imām de los Dos Santuarios",
+        "maestro de al-Ghazālī",
+        "demostración doctrinal"
+      ]
+    },
+    "fakhr-al-din-al-razi": {
+      "oneLineEs": "Teólogo y filósofo teológico de síntesis que, tras absorber y criticar a Ibn Sīnā, reconfigura el mapa problemático del kalām posterior.",
+      "keywordsEs": [
+        "teología filosófica postaviceniana",
+        "teología asharí",
+        "exégesis y metafísica"
+      ]
+    },
+    "abu-bakr-al-razi": {
+      "oneLineEs": "Médico-filósofo y librepensador conocido por el naturalismo racional y la crítica radical de la autoridad religiosa.",
+      "keywordsEs": [
+        "médico-filósofo",
+        "naturalismo racional",
+        "crítica de la profecía"
+      ]
+    },
+    "miskawayh": {
+      "oneLineEs": "Sistematizador de la ética islámica que, en El refinamiento del carácter, transforma la ética griega de la virtud en un programa de entrenamiento del alma y formación del carácter.",
+      "keywordsEs": [
+        "El refinamiento del carácter",
+        "cultivo del carácter",
+        "ética aristotélica"
+      ]
+    },
+    "ibn-bajja": {
+      "oneLineEs": "Filósofo andalusí que, en El régimen del solitario, examina cómo el sabio conserva la perfección intelectual en una ciudad imperfecta.",
+      "keywordsEs": [
+        "Avempace",
+        "El régimen del solitario",
+        "filosofía andalusí"
+      ]
+    },
+    "ibn-tufayl": {
+      "oneLineEs": "Filósofo andalusí que, en Ḥayy ibn Yaqẓān, narra cómo la razón isleña asciende de la observación de la naturaleza a la metafísica y a la verdad religiosa.",
+      "keywordsEs": [
+        "Ḥayy ibn Yaqẓān",
+        "razón natural",
+        "novela filosófica"
+      ]
+    },
+    "ibn-hazm": {
+      "oneLineEs": "Pensador ẓāhirí andalusí que combina derecho, lógica, polémica religiosa y literatura amorosa.",
+      "keywordsEs": [
+        "escuela ẓāhirí",
+        "lógica y jurisprudencia",
+        "El collar de la paloma"
+      ]
+    },
+    "nasir-al-din-tusi": {
+      "oneLineEs": "Filósofo, ético y astrónomo que establece un vínculo clave entre la filosofía postaviceniana, la teología chií y la astronomía matemática.",
+      "keywordsEs": [
+        "tradición aviceniana",
+        "Ética nasirí",
+        "observatorio de Maragha"
+      ]
+    },
+    "rabia-al-adawiyya": {
+      "oneLineEs": "Figura de santa sufí temprana cuya pureza del amor divino —no por el paraíso ni por el infierno, sino solo por Dios— se convierte en fuente clásica del amor sufí.",
+      "keywordsEs": [
+        "amor divino puro",
+        "sufismo temprano",
+        "tradición ascética"
+      ]
+    },
+    "al-junayd": {
+      "oneLineEs": "Figura central del «sufismo sobrio» de Bagdad, conocida por mantener una expresión disciplinada entre la experiencia mística y los límites de la ley religiosa.",
+      "keywordsEs": [
+        "sufismo de Bagdad",
+        "escuela sobria",
+        "unión mística"
+      ]
+    },
+    "al-hallaj": {
+      "oneLineEs": "Con la fórmula «Yo soy la Verdad» y el desenlace del martirio, se convierte en nodo central de la unión mística sufí, del límite del discurso y del conflicto con la autoridad religiosa.",
+      "keywordsEs": [
+        "Yo soy la Verdad",
+        "martirio sufí",
+        "unión mística"
+      ]
+    },
+    "rumi": {
+      "oneLineEs": "Poeta y pensador místico sufí persa que, en el Mathnawī, convierte el amor, la unión y la transformación del alma en una filosofía poética de vasta influencia.",
+      "keywordsEs": [
+        "Mathnawī",
+        "amor y unión",
+        "poesía sufí persa"
+      ]
+    },
+    "nasir-khusraw": {
+      "oneLineEs": "Poeta y pensador ismailí que expresa en verso filosófico persa la cosmología, la interpretación de la revelación y el retorno del alma.",
+      "keywordsEs": [
+        "ismailismo",
+        "neoplatonismo",
+        "poesía filosófica persa"
+      ]
+    },
+    "ibn-taymiyya": {
+      "oneLineEs": "Jurista ḥanbalí y crítico teológico que influye en la posteridad con su oposición a la filosofía, al kalām, al monismo sufí y con su teología política.",
+      "keywordsEs": [
+        "escuela ḥanbalí",
+        "crítica de la filosofía y el kalām",
+        "antimonismo sufí"
+      ]
+    },
+    "mir-damad": {
+      "oneLineEs": "Figura central de la Escuela de Isfahán y maestro de Mullā Ṣadrā; el tiempo, la eternidad y la creación constituyen un nodo importante de la filosofía safaví.",
+      "keywordsEs": [
+        "Escuela de Isfahán",
+        "maestro de Mullā Ṣadrā",
+        "tiempo y creación"
+      ]
+    },
+    "tabatabai": {
+      "oneLineEs": "Filósofo y exegeta chií contemporáneo que vincula la tradición ṣadrianā, la epistemología filosófica y la exégesis coránica con el pensamiento iraní moderno.",
+      "keywordsEs": [
+        "filosofía chií contemporánea",
+        "principios y método",
+        "exégesis coránica"
+      ]
+    },
+    "al-afghani": {
+      "oneLineEs": "Activista político panislámico y precursor del modernismo que influye en el pensamiento islámico moderno con el anticolonialismo, la reforma religiosa y la movilización política pública musulmana.",
+      "keywordsEs": [
+        "panislamismo",
+        "reforma modernista",
+        "política anticolonial"
+      ]
+    },
+    "muhammad-abduh": {
+      "oneLineEs": "Reformador modernista egipcio que impulsa la coordinación entre el islam y la sociedad moderna mediante la educación religiosa, la reforma jurídica y la interpretación racionalizada.",
+      "keywordsEs": [
+        "modernismo egipcio",
+        "reforma de la educación religiosa",
+        "interpretación racional"
+      ]
+    },
+    "fazlur-rahman": {
+      "oneLineEs": "Pensador islámico neomodernista que, con la hermenéutica del «doble movimiento» y la ética coránica, reconfigura el método de la reforma moderna.",
+      "keywordsEs": [
+        "neomodernismo",
+        "hermenéutica del doble movimiento",
+        "ética coránica"
+      ]
+    },
+    "seyyed-hossein-nasr": {
+      "oneLineEs": "Pensador contemporáneo de la escuela tradicionalista islámica que critica la visión secularizada del saber moderno desde la ciencia islámica, la metafísica y la tradición espiritual.",
+      "keywordsEs": [
+        "escuela tradicionalista",
+        "ciencia islámica",
+        "espiritualidad y crítica de la modernidad"
+      ]
+    },
+    "philo-of-alexandria": {
+      "oneLineEs": "Interpreta la Torá con categorías de la filosofía griega y constituye un punto de partida clave de la genealogía antigua de la filosofía judía.",
+      "keywordsEs": [
+        "exégesis alegórica",
+        "Logos",
+        "filosofía judía helenística"
+      ]
+    },
+    "isaac-israeli": {
+      "oneLineEs": "Neoplatónico judío altomedieval temprano que conecta la filosofía árabe con el pensamiento judío.",
+      "keywordsEs": [
+        "neoplatonismo judío",
+        "Libro de las definiciones",
+        "teoría de la emanación"
+      ]
+    },
+    "ibn-gabirol": {
+      "oneLineEs": "Expone una metafísica neoplatónica en la Fuente de la vida y es conocido en la escolástica latina como Avicebrón.",
+      "keywordsEs": [
+        "Fuente de la vida",
+        "Avicebrón",
+        "materia universal"
+      ]
+    },
+    "bahya-ibn-paquda": {
+      "oneLineEs": "Autor de Los deberes del corazón, que une piedad interior y disciplina ética con la vida de la ley judía.",
+      "keywordsEs": [
+        "Los deberes del corazón",
+        "piedad interior",
+        "ética judía"
+      ]
+    },
+    "judah-halevi": {
+      "oneLineEs": "Autor del Kuzari, que defiende en forma dialógica la revelación judía y la comunidad histórica.",
+      "keywordsEs": [
+        "Kuzari",
+        "apologética de la revelación",
+        "antifilosofía"
+      ]
+    },
+    "abraham-ibn-daud": {
+      "oneLineEs": "Autor de La fe exaltada y nodo importante del aristotelismo judío anterior a Maimónides.",
+      "keywordsEs": [
+        "La fe exaltada",
+        "aristotelismo judío",
+        "razón y tradición"
+      ]
+    },
+    "gersonides": {
+      "oneLineEs": "Autor de Las guerras del Señor, que lleva la tradición aristotélico-averroísta al interior de la filosofía judía.",
+      "keywordsEs": [
+        "Las guerras del Señor",
+        "aristotelismo",
+        "tradición averroísta"
+      ]
+    },
+    "hasdai-crescas": {
+      "oneLineEs": "Autor de La luz del Señor, que critica sistemáticamente el aristotelismo medieval y revaloriza el amor divino y la infinitud.",
+      "keywordsEs": [
+        "La luz del Señor",
+        "antiaristotelismo",
+        "prehistoria de Spinoza"
+      ]
+    },
+    "joseph-albo": {
+      "oneLineEs": "Autor del Libro de los principios, que reorganiza los principios doctrinales y la clasificación de la fe en el judaísmo.",
+      "keywordsEs": [
+        "Libro de los principios",
+        "principios doctrinales judíos",
+        "principios de fe"
+      ]
+    },
+    "nachmanides": {
+      "oneLineEs": "Rambán, que participa en las controversias maimonideanas mediante la exégesis, la halajá y la cábala temprana.",
+      "keywordsEs": [
+        "Rambán",
+        "controversia maimonideana",
+        "cábala temprana"
+      ]
+    },
+    "moses-de-leon": {
+      "oneLineEs": "Figura central en la transmisión y la autoría del Libro del esplendor (Zohar) y nodo clave de la genealogía cabalística medieval.",
+      "keywordsEs": [
+        "Libro del esplendor",
+        "Zohar",
+        "cábala medieval"
+      ]
+    },
+    "abraham-abulafia": {
+      "oneLineEs": "Representante de la cábala profética o extática, conocido por la combinación de letras, la meditación sobre los nombres divinos y la teoría de la experiencia profética.",
+      "keywordsEs": [
+        "cábala profética",
+        "meditación de letras",
+        "misticismo extático"
+      ]
+    },
+    "isaac-luria": {
+      "oneLineEs": "Figura central de la cábala luriana que, con las teorías de la contracción, el quebrantamiento de los vasos y la reparación, reconfigura el misticismo judío moderno temprano.",
+      "keywordsEs": [
+        "contracción (tzimtzum)",
+        "quebrantamiento",
+        "reparación (tikkun)"
+      ]
+    },
+    "baal-shem-tov": {
+      "oneLineEs": "Fundador del jasidismo que influye en el judaísmo de Europa oriental mediante la alegría espiritual, la vida de piedad y el sentido de la presencia divina.",
+      "keywordsEs": [
+        "jasidismo",
+        "alegría espiritual",
+        "presencia divina"
+      ]
+    },
+    "schneur-zalman": {
+      "oneLineEs": "Fundador de Jabad y autor de la Tanya, que organiza la espiritualidad jasídica como un sistema teológico intelectualizado.",
+      "keywordsEs": [
+        "Jabad",
+        "Tanya",
+        "jasidismo intelectual"
+      ]
+    },
+    "moses-mendelssohn": {
+      "oneLineEs": "Figura clave de la Haskalá que, en Jerusalén, discute el poder religioso, la tolerancia y el estatuto cívico judío.",
+      "keywordsEs": [
+        "Haskalá",
+        "Jerusalén",
+        "tolerancia religiosa"
+      ]
+    },
+    "gershom-scholem": {
+      "oneLineEs": "Fundador de los estudios modernos de la cábala que, con el método histórico-filológico, reconfigura la investigación del misticismo judío.",
+      "keywordsEs": [
+        "estudios de la cábala",
+        "misticismo judío",
+        "Benjamin"
+      ]
+    },
+    "abraham-joshua-heschel": {
+      "oneLineEs": "Teólogo judío del siglo XX que une el temor reverente, la ética profética y la experiencia religiosa con la espiritualidad y la justicia pública.",
+      "keywordsEs": [
+        "temor reverente",
+        "espíritu profético",
+        "Sábado"
+      ]
+    },
+    "joseph-soloveitchik": {
+      "oneLineEs": "Representante del pensamiento judío ortodoxo moderno que construye una filosofía de la religión a partir del hombre de la halajá, la personalidad creativa y la soledad de la fe.",
+      "keywordsEs": [
+        "El hombre de la halajá",
+        "El hombre solitario de la fe",
+        "Ortodoxia moderna"
+      ]
+    },
+    "mordecai-kaplan": {
+      "oneLineEs": "Fundador del judaísmo reconstruccionista, que interpreta el judaísmo como una civilización religiosa en evolución.",
+      "keywordsEs": [
+        "reconstruccionismo",
+        "civilización judía",
+        "naturalismo religioso"
+      ]
+    },
+    "yeshayahu-leibowitz": {
+      "oneLineEs": "Pensador judío israelí que sostiene que la fe es obediencia a los mandamientos y se distingue por una crítica pública acerada.",
+      "keywordsEs": [
+        "fe centrada en los mandamientos",
+        "interpretación de Maimónides",
+        "pensamiento público israelí"
+      ]
+    },
+    "las-casas": {
+      "oneLineEs": "Pensador dominico que, en los inicios de la colonización, defiende la racionalidad y los derechos de los pueblos originarios de América.",
+      "keywordsEs": [
+        "debate de Valladolid",
+        "derechos de los pueblos originarios",
+        "evangelización pacífica"
+      ]
+    },
+    "andres-bello": {
+      "oneLineEs": "Pensador venezolano-chileno que participa en la construcción estatal posindependencia mediante el derecho, la educación y la ingeniería del lenguaje.",
+      "keywordsEs": [
+        "derecho",
+        "normativización lingüística",
+        "educación"
+      ]
+    },
+    "simon-rodriguez": {
+      "oneLineEs": "Pensador educativo venezolano que responde a la reconstrucción social posindependencia con el proyecto de las repúblicas americanas y la educación popular.",
+      "keywordsEs": [
+        "maestro de Bolívar",
+        "educación popular",
+        "repúblicas americanas"
+      ]
+    },
+    "alberdi": {
+      "oneLineEs": "Pensador liberal y constitucional argentino que formula la organización del Estado y la filosofía americana como tareas concretas.",
+      "keywordsEs": [
+        "constitucionalismo argentino",
+        "gobernar es poblar",
+        "filosofía americana"
+      ]
+    },
+    "sarmiento": {
+      "oneLineEs": "Pensador argentino que, en Facundo, modela el discurso modernizador latinoamericano del siglo XIX con el marco de civilización y barbarie.",
+      "keywordsEs": [
+        "civilización y barbarie",
+        "educación",
+        "construcción nacional"
+      ]
+    },
+    "hostos": {
+      "oneLineEs": "Educador y pensador ético puertorriqueño que vincula la ética social y el proyecto de liberación antillana con el positivismo y la política anticolonial.",
+      "keywordsEs": [
+        "ética social",
+        "reforma educativa",
+        "Confederación Antillana"
+      ]
+    },
+    "gabino-barreda": {
+      "oneLineEs": "Representante del positivismo comteano en México, que convierte la reforma del sistema educativo en instrumento de reconstrucción del orden social.",
+      "keywordsEs": [
+        "positivismo mexicano",
+        "Escuela Nacional Preparatoria",
+        "orden y progreso"
+      ]
+    },
+    "jose-marti": {
+      "oneLineEs": "Pensador de la independencia cubana que, en Nuestra América, responde al orden colonial e imperial con la subjetividad americana.",
+      "keywordsEs": [
+        "Nuestra América",
+        "independencia cubana",
+        "antiimperialismo"
+      ]
+    },
+    "jose-enrique-rodo": {
+      "oneLineEs": "Pensador uruguayo que, en Ariel, modela una teoría de la identidad espiritual latinoamericana mediante la educación estético-ética.",
+      "keywordsEs": [
+        "arielismo",
+        "antiutilitarismo",
+        "educación de la juventud"
+      ]
+    },
+    "antonio-caso": {
+      "oneLineEs": "Pensador antipositivista mexicano que contrarresta el orden del saber comteano con los problemas de la vida, la ética y la persona.",
+      "keywordsEs": [
+        "Ateneo de la Juventud",
+        "antipositivismo",
+        "filosofía de la vida"
+      ]
+    },
+    "jose-vasconcelos": {
+      "oneLineEs": "Pensador y educador mexicano que, en La raza cósmica, reescribe la identidad americana con una cosmología del mestizaje.",
+      "keywordsEs": [
+        "La raza cósmica",
+        "redención estética",
+        "educación mexicana"
+      ]
+    },
+    "alejandro-korn": {
+      "oneLineEs": "Pensador antipositivista argentino que reconfigura la tarea de la filosofía en torno a la libertad creativa y el problema del valor.",
+      "keywordsEs": [
+        "libertad creativa",
+        "antipositivismo argentino",
+        "valor"
+      ]
+    },
+    "samuel-ramos": {
+      "oneLineEs": "Representante de la filosofía de la identidad mexicana que, en El perfil del hombre y la cultura en México, analiza el carácter nacional y el autoconocimiento cultural.",
+      "keywordsEs": [
+        "El perfil del hombre y la cultura en México",
+        "mexicanidad",
+        "carácter nacional"
+      ]
+    },
+    "francisco-romero": {
+      "oneLineEs": "Filósofo argentino que impulsa la institucionalización de la filosofía profesional y desarrolla una teoría de la persona y de la vida espiritual.",
+      "keywordsEs": [
+        "teoría de la persona",
+        "filosofía argentina",
+        "recepción de Ortega"
+      ]
+    },
+    "risieri-frondizi": {
+      "oneLineEs": "Filósofo de la axiología argentino que, con la estructura del valor y la teoría del yo, entra en la genealogía académica latinoamericana del siglo XX.",
+      "keywordsEs": [
+        "axiología",
+        "teoría del yo",
+        "filosofía académica latinoamericana"
+      ]
+    },
+    "salazar-bondy": {
+      "oneLineEs": "Filósofo peruano que, con el problema de la autenticidad de la filosofía latinoamericana, abre el debate clásico con Zea.",
+      "keywordsEs": [
+        "¿Existe una filosofía de nuestra América?",
+        "autenticidad",
+        "dependencia"
+      ]
+    },
+    "ignacio-ellacuria": {
+      "oneLineEs": "Filósofo jesuita salvadoreño que, con el concepto de realidad histórica, vincula filosofía de la liberación, teología y práctica política.",
+      "keywordsEs": [
+        "realidad histórica",
+        "filosofía de la liberación",
+        "El Salvador"
+      ]
+    },
+    "gustavo-gutierrez": {
+      "oneLineEs": "Teólogo peruano cuya Teología de la liberación sienta el marco problemático de la teología de la liberación latinoamericana.",
+      "keywordsEs": [
+        "teología de la liberación",
+        "opción preferencial por los pobres",
+        "práctica"
+      ]
+    },
+    "rodolfo-kusch": {
+      "oneLineEs": "Pensador argentino que critica la ontología europea desde la presencia americana, el mundo indígena y la cultura popular.",
+      "keywordsEs": [
+        "ser americano",
+        "estar",
+        "pensamiento indígena"
+      ]
+    },
+    "anibal-quijano": {
+      "oneLineEs": "Teórico social peruano que formula la «colonialidad del poder» e influye en la teoría decolonial.",
+      "keywordsEs": [
+        "colonialidad del poder",
+        "modernidad/colonialidad",
+        "decolonialidad"
+      ]
+    },
+    "maria-lugones": {
+      "oneLineEs": "Filósofa feminista de origen argentino que, con la teoría de la colonialidad de género, impulsa el feminismo decolonial.",
+      "keywordsEs": [
+        "colonialidad de género",
+        "feminismo decolonial",
+        "opresiones entrelazadas"
+      ]
+    },
+    "octavio-paz": {
+      "oneLineEs": "Poeta y pensador mexicano que, en El laberinto de la soledad, analiza la identidad mexicana, la soledad y la modernidad.",
+      "keywordsEs": [
+        "El laberinto de la soledad",
+        "mexicanidad",
+        "poesía y modernidad"
+      ]
+    },
+    "basil-the-great": {
+      "oneLineEs": "Uno de los tres Padres Capadocios que, con la teología trinitaria, la exégesis de la creación y las reglas monásticas, constituye el núcleo de la tradición patrística griega.",
+      "keywordsEs": [
+        "Padres Capadocios",
+        "teología trinitaria",
+        "Hexaémeron",
+        "reglas monásticas"
+      ]
+    },
+    "gregory-of-nazianzus": {
+      "oneLineEs": "Uno de los tres Padres Capadocios que, con las Cinco oraciones teológicas, fija la expresión de la teología trinitaria ortodoxa oriental.",
+      "keywordsEs": [
+        "el Teólogo",
+        "Oraciones teológicas",
+        "Trinidad",
+        "Padres Capadocios"
+      ]
+    },
+    "gregory-of-nyssa": {
+      "oneLineEs": "Uno de los tres Padres Capadocios que profundiza la tradición patrística griega mediante la teología mística, el progreso infinito (epektasis) y la antropología.",
+      "keywordsEs": [
+        "La vida de Moisés",
+        "progreso infinito (epektasis)",
+        "teología mística",
+        "Sobre la creación del hombre"
+      ]
+    },
+    "pseudo-dionysius": {
+      "oneLineEs": "Tradición seudónima de hacia el año 500 que, con la teología negativa, los nombres divinos y la teoría de la jerarquía, influye profundamente en el Oriente y en el Occidente latino medieval.",
+      "keywordsEs": [
+        "seudonimia",
+        "teología negativa",
+        "nombres divinos",
+        "jerarquía celeste"
+      ]
+    },
+    "maximus-the-confessor": {
+      "oneLineEs": "Sintetizador de la teología bizantina que retoma la tradición patrística griega con las Ambigua, el ditelismo y la cristología cósmica.",
+      "keywordsEs": [
+        "Ambigua",
+        "ditelismo",
+        "el Confesor",
+        "cristología cósmica"
+      ]
+    },
+    "john-of-damascus": {
+      "oneLineEs": "Sistematizador de la doctrina bizantina que, con La fuente del conocimiento y la defensa de los iconos, conecta la lógica aristotélica con la teología ortodoxa.",
+      "keywordsEs": [
+        "La fuente del conocimiento",
+        "Exposición exacta de la fe ortodoxa",
+        "defensa de los iconos",
+        "lógica aristotélica"
+      ]
+    },
+    "symeon-the-new-theologian": {
+      "oneLineEs": "Pensador místico bizantino que, con la experiencia testimonial de la luz divina y el conocimiento espiritual, influye en la posterior tradición hesicasta.",
+      "keywordsEs": [
+        "Nuevo Teólogo",
+        "luz divina",
+        "experiencia testimonial",
+        "himnos"
+      ]
+    },
+    "michael-psellos": {
+      "oneLineEs": "Polímata y filósofo bizantino que, con el renacimiento platónico, la observación de la política cortesana y el saber enciclopédico, conecta las tradiciones griegas clásica y medieval.",
+      "keywordsEs": [
+        "Cronografía",
+        "renacimiento platónico",
+        "polímata bizantino",
+        "Doctrina omnifaria"
+      ]
+    },
+    "gregory-palamas": {
+      "oneLineEs": "Teólogo hesicasta del Bizancio tardío que organiza la argumentación de la experiencia mística ortodoxa mediante la distinción esencia/energías y la Defensa de los santos hesicastas.",
+      "keywordsEs": [
+        "hesicasmo",
+        "distinción esencia/energías",
+        "Defensa de los santos hesicastas",
+        "luz divina"
+      ]
+    },
+    "gemistos-plethon": {
+      "oneLineEs": "Platónico del Bizancio tardío que, con el Libro de las leyes y su papel en el Concilio de Florencia, influye en el renacimiento de la filosofía clásica en la Italia renacentista.",
+      "keywordsEs": [
+        "Libro de las leyes (Nomoi)",
+        "renacimiento platónico",
+        "Concilio de Florencia",
+        "puente del Renacimiento"
+      ]
+    },
+    "zoroaster": {
+      "oneLineEs": "Profeta del antiguo Irán y figura central de la tradición zoroástrica; la elección entre el bien y el mal, el orden de la verdad (asha) y el juicio escatológico constituyen una fuente del pensamiento persa preislámico.",
+      "keywordsEs": [
+        "Ahura Mazda",
+        "dualismo bien-mal",
+        "asha",
+        "Gathas"
+      ]
+    },
+    "mani": {
+      "oneLineEs": "Fundador del maniqueísmo en la época sasánida que organiza, en escrituras de su propia autoría, una cosmología dualista de luz y tiniebla, una soteriología y una ética ascética.",
+      "keywordsEs": [
+        "maniqueísmo",
+        "dualismo luz-tiniebla",
+        "salvación",
+        "Shabuhragan"
+      ]
+    },
+    "pyotr-chaadaev": {
+      "oneLineEs": "Pensador ruso del siglo XIX cuyas Cartas filosóficas suscitan el debate sobre la misión histórica de Rusia y su camino civilizatorio.",
+      "keywordsEs": [
+        "Cartas filosóficas",
+        "occidentalistas",
+        "misión de Rusia",
+        "filosofía de la historia"
+      ]
+    },
+    "aleksei-khomyakov": {
+      "oneLineEs": "Teórico central del eslavofilismo que organiza, mediante la sobornost, el marco conceptual de la libertad, la comunidad y la tradición ortodoxa.",
+      "keywordsEs": [
+        "eslavofilismo",
+        "sobornost (conciliaridad)",
+        "sobornost",
+        "comunidad ortodoxa"
+      ]
+    },
+    "ivan-kireevsky": {
+      "oneLineEs": "Cofundador del eslavofilismo que, con el conocimiento integral y la tradición ortodoxa, reflexiona críticamente sobre el racionalismo de Europa occidental.",
+      "keywordsEs": [
+        "conocimiento integral",
+        "eslavofilismo",
+        "cultura europea",
+        "tradición ortodoxa"
+      ]
+    },
+    "alexander-herzen": {
+      "oneLineEs": "Pensador occidentalista y exiliado ruso conocido por la libertad personal, el socialismo campesino y el problema de la modernización de Rusia.",
+      "keywordsEs": [
+        "Pasado y pensamientos",
+        "socialismo campesino",
+        "occidentalistas",
+        "libertad"
+      ]
+    },
+    "mikhail-bakunin": {
+      "oneLineEs": "Representante del anarquismo ruso conocido por la libertad, la crítica del Estado y la teoría política colectivista.",
+      "keywordsEs": [
+        "anarquismo",
+        "Estatismo y anarquía",
+        "Dios y el Estado",
+        "libertad"
+      ]
+    },
+    "nikolai-chernyshevsky": {
+      "oneLineEs": "Representante del materialismo y del pensamiento social rusos que, con el egoísmo racional, la estética de lo real y ¿Qué hacer?, influye en la tradición radical del siglo XIX.",
+      "keywordsEs": [
+        "¿Qué hacer?",
+        "egoísmo racional",
+        "estética de lo real",
+        "pensamiento social"
+      ]
+    },
+    "peter-kropotkin": {
+      "oneLineEs": "Pensador del comunismo anarquista ruso que, en El apoyo mutuo, organiza la cooperación, la evolución y la comunidad libre como ética política.",
+      "keywordsEs": [
+        "El apoyo mutuo",
+        "La conquista del pan",
+        "comunismo anarquista",
+        "cooperación"
+      ]
+    },
+    "fyodor-dostoevsky": {
+      "oneLineEs": "Escritor-pensador ruso que porta en forma novelística los problemas de la religión, la libertad, el mal y la redención.",
+      "keywordsEs": [
+        "Los hermanos Karamázov",
+        "Memorias del subsuelo",
+        "libertad",
+        "pecado y redención"
+      ]
+    },
+    "leo-tolstoy": {
+      "oneLineEs": "Escritor-pensador ruso que organiza el pensamiento social en torno a la ética cristiana, la no violencia y la crítica de conciencia.",
+      "keywordsEs": [
+        "El reino de Dios está en vosotros",
+        "Confesión",
+        "no violencia",
+        "ética cristiana"
+      ]
+    },
+    "vladimir-solovyov": {
+      "oneLineEs": "Figura pivote de la filosofía religiosa rusa que, con la unitotalidad, la divino-humanidad, la sofología y la justificación del bien, influye en la Edad de Plata.",
+      "keywordsEs": [
+        "Justificación del bien",
+        "divino-humanidad",
+        "sofología",
+        "unitotalidad"
+      ]
+    },
+    "nikolai-fedorov": {
+      "oneLineEs": "Pionero del cosmismo ruso que, en La filosofía de la obra común, enlaza la unión de la humanidad, la ciencia y la doctrina de la resurrección.",
+      "keywordsEs": [
+        "obra común",
+        "cosmismo",
+        "doctrina de la resurrección",
+        "los padres"
+      ]
+    },
+    "lev-shestov": {
+      "oneLineEs": "Pensador existencialista religioso ruso que, en Atenas y Jerusalén, opone la necesidad racional a la libertad de la fe.",
+      "keywordsEs": [
+        "Atenas y Jerusalén",
+        "antiracionalismo",
+        "existencialismo",
+        "fe"
+      ]
+    },
+    "nikolai-berdyaev": {
+      "oneLineEs": "Filósofo religioso de la Edad de Plata centrado en la libertad, la personalidad, la creación y la resistencia a la esclavitud.",
+      "keywordsEs": [
+        "filosofía de la libertad",
+        "personalismo",
+        "Esclavitud y libertad",
+        "creación"
+      ]
+    },
+    "sergei-bulgakov": {
+      "oneLineEs": "Filósofo religioso de la Edad de Plata que en su juventud asimila el marxismo y luego se orienta hacia la sofología y la filosofía religiosa de la divino-humanidad.",
+      "keywordsEs": [
+        "sofología",
+        "La luz que no declina",
+        "divino-humanidad",
+        "del marxismo a la religión"
+      ]
+    },
+    "pavel-florensky": {
+      "oneLineEs": "Teólogo y filósofo de la Edad de Plata que, en La columna y el fundamento de la verdad, vincula ortodoxia, epistemología y pensamiento simbólico.",
+      "keywordsEs": [
+        "La columna y el fundamento de la verdad",
+        "teología",
+        "matemáticas",
+        "símbolo"
+      ]
+    },
+    "semyon-frank": {
+      "oneLineEs": "Filósofo religioso ruso que, con la unitotalidad, lo inescrutable y la epistemología intuicionista, conecta la metafísica con la filosofía social.",
+      "keywordsEs": [
+        "lo inescrutable",
+        "unitotalidad",
+        "intuicionismo",
+        "fundamentos espirituales de la sociedad"
+      ]
+    },
+    "buddhaghosa": {
+      "oneLineEs": "Sistematizador central de la tradición de comentarios pāli theravāda que, en el Visuddhimagga, sintetiza sila-samādhi-paññā, Abhidhamma y el camino de la liberación.",
+      "keywordsEs": [
+        "Visuddhimagga",
+        "comentarios pāli",
+        "Theravāda",
+        "etapas del camino de purificación"
+      ]
+    },
+    "dhammapala": {
+      "oneLineEs": "Comentarista pāli theravāda tradicionalmente vinculado a la serie Paramatthadīpanī de comentarios del Khuddaka; datación aproximada de los siglos VI–VII, incierta.",
+      "keywordsEs": [
+        "Paramatthadīpanī",
+        "comentarios del Khuddaka",
+        "comentarios pāli",
+        "datación incierta"
+      ]
+    },
+    "ledi-sayadaw": {
+      "oneLineEs": "Representante del renacimiento birmano del Abhidhamma y de la vipassanā theravāda que, con manuales accesibles, impulsa el estudio doctrinal y la difusión de la práctica.",
+      "keywordsEs": [
+        "vipassanā birmana",
+        "Abhidhamma",
+        "Manual de la verdad última",
+        "Manual del Dhamma"
+      ]
+    },
+    "mahasi-sayadaw": {
+      "oneLineEs": "Figura representativa del sistema birmano de vipassanā que, con la práctica de satipaṭṭhāna y el método Mahasi, influye en la meditación theravāda global moderna.",
+      "keywordsEs": [
+        "vipassanā",
+        "satipaṭṭhāna",
+        "método Mahasi",
+        "Manual de la visión profunda"
+      ]
+    },
+    "buddhadasa": {
+      "oneLineEs": "Pensador budista tailandés moderno que, con la relectura del origen dependiente, la práctica de la atención a la respiración y el «socialismo del Dhamma», vincula reforma budista y ética política.",
+      "keywordsEs": [
+        "reforma budista tailandesa",
+        "origen dependiente",
+        "socialismo del Dhamma",
+        "atención a la respiración"
+      ]
+    },
+    "tran-thai-tong": {
+      "oneLineEs": "Emperador-maestro zen de la dinastía Trần que, con Lecciones sobre la vacuidad, sienta la expresión del pensamiento zen vietnamita medieval.",
+      "keywordsEs": [
+        "Lecciones sobre la vacuidad",
+        "zen vietnamita",
+        "dinastía Trần",
+        "emperador-maestro zen"
+      ]
+    },
+    "tran-nhan-tong": {
+      "oneLineEs": "Emperador-maestro zen de la dinastía Trần y fundador de la escuela Trúc Lâm, que unifica las líneas zen vietnamitas y lega una tradición de poesía zen.",
+      "keywordsEs": [
+        "escuela zen Trúc Lâm",
+        "Fu de habitar el polvo y deleitarse en el Camino",
+        "zen vietnamita",
+        "dinastía Trần"
+      ]
+    },
+    "le-quy-don": {
+      "oneLineEs": "Representante del confucianismo vietnamita temprano moderno y de la tradición enciclopédica que, con Dichos clasificados de la Terraza de las Nubes, articula el neoconfucianismo Song-Ming y el saber de las cosas naturales.",
+      "keywordsEs": [
+        "Dichos clasificados de la Terraza de las Nubes",
+        "confucianismo vietnamita",
+        "enciclopedismo",
+        "neoconfucianismo Song-Ming"
+      ]
+    }
+  }
+}

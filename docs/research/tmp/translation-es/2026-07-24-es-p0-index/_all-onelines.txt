@@ -1,0 +1,361 @@
+0|confucius|Founded the Confucian ethical-political tradition on ren (humaneness), ritual propriety, and junzi cultivation.
+1|laozi|Opens Daoist thought through the Dao, wuwei, and resistance to coercive order.
+2|zhuangzi|Develops a philosophy of freedom through wandering, equalizing things, and linguistic skepticism.
+3|buddha|Recast Indian thought on life, attachment, and freedom through dukkha, dependent origination, non-self, and liberation.
+4|plato|His theory of Forms and the Republic make him one of the core sources of Western philosophy.
+5|aristotle|Built a systematic philosophical framework around substance, final cause, and virtue ethics.
+6|kant|Through critical philosophy, reset the bounds of knowledge, freedom, and the moral law.
+7|rawls|Reshaped contemporary political philosophy's problem-frame through justice as fairness.
+8|cleanthes|Stoic leader after Zeno, known for the Hymn to Zeus and a piety of assent to cosmic reason.
+9|chrysippus|Systematized early Stoic logic, physics, and ethics into a rigorous philosophical architecture.
+10|diogenes-sinope|Cynic who made philosophy a life-critique through poverty, self-sufficiency, and public provocation.
+11|antisthenes|Socratic disciple stressing virtue, self-sufficiency, and hard training; key forerunner of Cynicism.
+12|pythagoras|The Pythagorean tradition linked number, cosmic order, soul purification, and communal life.
+13|anaximander|Milesian thinker who advanced early Greek philosophy via the apeiron, cosmogenesis, and naturalistic explanation.
+14|anaximenes|Milesian philosopher explaining natural change and cosmic structure via air, condensation, and rarefaction.
+15|xenophanes|Presocratic poet-philosopher who criticized anthropomorphic gods and probed limits of human knowledge.
+16|empedocles|Joined four roots, Love and Strife, cosmic cycles, and soul purification into natural philosophy and religious ethics.
+17|anaxagoras|Brought infinite seeds, mutual containment, and Nous into natural philosophy, carrying Ionian science into Athens.
+18|zeno-elea|Eleatic thinker defending Parmenidean ontology with paradoxes against plurality and motion.
+19|democritus|Ancient atomist explaining nature by atoms and void; raised issues of perception, convention, and ethical calm.
+20|protagoras|Leading sophist known for man as measure, virtue education, and civic practical reason.
+21|gorgias|Sophist and rhetorician famed for radical ontological arguments, linguistic power, and the art of persuasion.
+22|pyrrho|Founding figure of Pyrrhonism; suspension of judgment and mental calm shaped ancient skepticism.
+23|theophrastus|Aristotle's successor expanding Peripatetic natural study, botany, character writing, and scholarly institutions.
+24|carneades|New Academy skeptic known for anti-Stoic epistemology, probable judgment, and Roman speeches on justice.
+25|cicero|Roman statesman-author who rendered Greek philosophy into Latin public reason, republican ethics, and natural law.
+26|lucretius|Roman Epicurean poet who, in De Rerum Natura, uses atomism to cure fear of the gods and of death.
+27|seneca|Roman Stoic statesman developing practical ethics in letters and essays on anger, clemency, and finite life.
+28|epictetus|Roman Stoic teacher whose control dichotomy, assent training, and inner freedom define a practical handbook tradition.
+29|marcus-aurelius|Roman emperor and Stoic author who, in the Meditations, joins cosmic order, duty, and self-discipline.
+30|fichte|Advanced Kant's critical philosophy into a freedom system grounded in self-activity (Wissenschaftslehre).
+31|schelling|Organized nature, spirit, art, and freedom into German Idealism's most generative systematic experiments.
+32|feuerbach|Inverted Hegelian theology into humanist critique of religion; a near gateway for Marx's early alienation critique.
+33|pascal|Reshaped early modern Christian apologetics through human fragility, reason's limits, and the wager.
+34|peirce|Founded scientific American pragmatism through inquiry logic, the pragmatic maxim, and triadic semiotics.
+35|james|Linked psychology, religious experience, free will, and pragmatic truth into radical empiricist pluralism.
+36|du-bois|Advanced racial experience as modern political philosophy via double consciousness, color line, and abolition democracy.
+37|moore|Helped form Cambridge analytic philosophy via ethical non-naturalism, anti-idealism, and common-sense realism.
+38|popper|Remade 20th-c. philosophy of science and politics through falsifiability, critical rationalism, and the open society.
+39|kuhn|Rewrote historical philosophy of scientific progress via paradigms, normal science, and scientific revolutions.
+40|dilthey|Brought the historical life-world into method via Geisteswissenschaften, Erlebnis, and Verstehen.
+41|gadamer|Extended hermeneutics from method to ontology via effective history, fusion of horizons, and linguisticality.
+42|jaspers|Connected Kierkegaard, Nietzsche, Heidegger, and Arendt through Existenz, limit situations, and the Axial Age.
+43|sextus-empiricus|Preserved ancient Pyrrhonism in the Outlines and Against the Professors, a hub for early modern skeptical revival.
+44|duns-scotus|Scholastic link between Aquinas and Ockham via univocity of being, formal distinction, and individuation theory.
+45|al-kindi|Founding figure of Arabic philosophy uniting the Greek translation movement, first philosophy, and Islamic monotheism.
+46|suhrawardi|Recast Ibn Sina, Platonic light metaphysics, and knowledge by presence into Illuminationist Islamic philosophy.
+47|ibn-arabi|Shaped Islamic mystical metaphysics via oneness of being, Perfect Human, imagination, and divine names.
+48|han-feizi|Systematized late Warring States Legalism by uniting law, statecraft, power, and forms-and-names doctrine.
+49|huineng|Shaped Southern Chan via sudden enlightenment, self-nature, no-thought, and nondual samadhi-prajna (Platform Sutra).
+50|zhang-zai|Founded Northern Song qi ontology through Great Void as qi, all people as siblings, and virtue cultivation practice.
+51|dignaga|Founded Buddhist pramana theory, limiting valid cognition to perception and inference, with apoha semantics.
+52|wollstonecraft|Critiqued Enlightenment gender order through women's rational education and civic equality.
+53|anscombe|Helped revive virtue ethics through analysis of intentional action and critique of modern moral philosophy.
+54|rosenzweig|Countered totalizing systems in The Star of Redemption and opened a modern Jewish dialogical philosophy.
+55|fanon|Linked existentialism and postcolonial thought through colonial psychology and theories of national liberation.
+56|freire|Founded critical pedagogy through dialogue, conscientization, and critique of banking-model education.
+57|horkheimer|Recast Marxist social philosophy as a diagnosis of modernity via critical theory and critique of instrumental reason.
+58|adorno|Exposed social domination in identity thinking via negative dialectics, culture industry, and modernist aesthetics.
+59|benjamin|Remade media-critical modernity via art under mechanical reproduction, history, and urban fragment writing.
+60|cohen|Linked Kantian tradition to Rosenzweig via Marburg Neo-Kantianism and Jewish rational religion philosophy.
+61|eckhart|Pushed scholastic theology into German mysticism's core via detachment, poverty of spirit, and mystical union.
+62|cusa|Moved medieval theology toward Renaissance metaphysics via learned ignorance, coincidence of opposites, and infinity.
+63|vico|Opened history, law, myth, and language as a human-made world through verum factum and the New Science.
+64|herder|Critiqued abstract universalism via language, national spirit, and historical individuality; shaped German historicism.
+65|iqbal|Answered modernity's religion and self problems via self-philosophy, Islamic reconstruction, and poetic politics.
+66|dharmakirti|Pushed post-Dignaga Buddhist epistemology to its Indo-Tibetan peak through pramana, logic, and apoha exclusion.
+67|shinran|Remade Japanese Pure Land via other-power faith, grateful nembutsu, and ordinary-person awareness; founded Jodo Shinshu.
+68|cheng-yi|Set Cheng-Zhu Learning via Heavenly Principle, investigation of things, and reverential cultivation; source for Zhu Xi.
+69|feng-youlan|Translated Chinese classical thought into 20th-c. problems via modern historiography and New Rational Philosophy.
+70|mou-zongsan|Built modern New Confucian moral metaphysics from Kantian critique, intellectual intuition, and liangzhi theory.
+71|simone-weil|Joined mysticism, ethics, and modern political critique via attention, affliction, force, obligation, and rootedness.
+72|mariategui|A major source of Latin American Marxism via Peruvian reality, Indigenous land questions, and creative socialism.
+73|zera-yacob|Organized faith, reason, natural light, and ethical equality in the Hatata into Ethiopian rationalism.
+74|walda-heywat|Extended Zera Yacob's rational inquiry into education, family, labor, and social responsibility.
+75|edward-blyden|Early language for Pan-African thought via African personality, comparative religion, and educational critique.
+76|nkrumah|Key post-independence African political philosopher via consciencism, Pan-African unity, and neocolonial critique.
+77|macintyre|Major anti-liberal, anti-emotivist program in modern moral philosophy built on virtue, practice, and tradition.
+78|rorty|Rejoined analytic philosophy, Deweyan tradition, and liberal democracy via anti-representationalism and neopragmatism.
+79|kripke|Remade late 20th-c. philosophy of language and metaphysics via modal logic, rigid designation, and naming.
+80|putnam|Spanned language, mind, science, and ethics via semantic externalism, realist turns, and fact-value entanglement.
+81|davidson|Remade post-Quinean language and mind philosophy via truth-theoretic semantics, radical interpretation, and action.
+82|deleuze|Rewrote metaphysics, desire theory, and poststructuralist politics via difference, repetition, becoming, and immanence.
+83|ricoeur|Developed theories of symbol, metaphor, narrative, and selfhood between phenomenology and hermeneutics.
+84|weber|Analyzed modern capitalism, bureaucracy, and political responsibility via rationalization and types of domination.
+85|nishitani|In the Kyoto School, answered modern nihilism and European ontology through Buddhist emptiness.
+86|radhakrishnan|Restated Indian thought via modern Vedanta and comparative philosophy, placing religious experience in world dialogue.
+87|madhva|Opposed Advaita with Dvaita Vedanta, stressing real difference among God, soul, and world.
+88|charles-taylor|Remade political philosophy, ethics, and religious modernity studies via modern self, recognition, and secularization.
+89|bentham|Linked ethics, legislation, and political calculation through greatest happiness and institutional legal reform.
+90|comte|Joined modern knowledge order to social reorganization via three stages, science classification, and sociology.
+91|schleiermacher|Linked modern theology, interpretation theory, and individuality via religious feeling and universal hermeneutics.
+92|reid|Answered skepticism with common-sense principles and direct realism, extending epistemology to action and freedom.
+93|tocqueville|Analyzed fragile conditions of modern free societies through democratic equality, association, and anti-centralization.
+94|gramsci|Rewrote Marxist revolutionary strategy and cultural politics via hegemony, civil society, and organic intellectuals.
+95|lukacs|Laid key prehistory for Western Marxism and critical theory via reification, totality, and class consciousness.
+96|bloch|Joined Marxist emancipatory politics, religious symbols, and utopia via Principle of Hope and not-yet consciousness.
+97|marcuse|Advanced Frankfurt School politics via technological rationality, desire liberation, and industrial-society critique.
+98|fromm|Explained modern freedom, character, and social pathology via humanistic psychoanalysis and Marxist alienation theory.
+99|berlin|Remade 20th-c. liberal anti-utopian argument through two concepts of liberty and value pluralism.
+100|hayek|Critiqued planning rationality and rebuilt liberal rule-of-law theory via dispersed knowledge and spontaneous order.
+101|schmitt|Exposes modern political crisis via sovereignty, exception, and friend-enemy; read critically amid Nazi complicity.
+102|croce|Recast Italian idealism through expression aesthetics, historicism, and liberal history of freedom, reviving Vico.
+103|yan-hui|Yan Yuan, Confucius's disciple famed for virtue, later taken as a classic model of Confucian self-cultivation.
+104|zengzi|Later Confucian disciple known for transmitting filial piety, vigilant solitude, and self-cultivation.
+105|zisi|Confucius's grandson and a key early Warring States link in the transmission from Confucius to Mencius.
+106|zigong|Disciple of Confucius known for speech, government affairs, and diplomacy.
+107|shang-yang|Warring States Legalist reformer and a pivotal figure in Qin's institutional transformation.
+108|shen-buhai|Warring States Han chancellor and Legalist known for administrative technique (shu) and bureaucracy.
+109|shen-dao|Warring States Jixia scholar often taken as Legalist theorist of situational power (shi).
+110|hui-shi|Warring States School of Names figure with Zhuangzi, known for disputation and uniting same-different.
+111|gongsun-long|Warring States School of Names figure known for 'a white horse is not a horse' and name-reality debate.
+112|yang-zhu|Warring States figure whose 'for myself' and 'valuing the self' became a foil between Confucians and Mohists.
+113|xu-xing|Warring States Agriculturalist known from Mencius for the tilling-together thesis.
+114|zou-yan|Warring States Yin-Yang school figure known for five-virtues succession and Great Nine Continents.
+115|song-xing|Warring States Jixia figure often paired with Yin Wen; urged restraint of desire and non-contention.
+116|yin-wen|Warring States Jixia figure linked to names-realities, forms-names, and the Yin Wenzi tradition.
+117|guan-zhong|Spring and Autumn Qi statesman traditionally seen as pioneer of enriching the state and institutional governance.
+118|yan-ying|Spring and Autumn Qi statesman known for frugality, wit, and remonstrance.
+119|sunzi|Central figure of the military tradition tied to The Art of War.
+120|wu-qi|Warring States military reformer combining Military school practice with Legalist institutional color.
+121|lu-buwei|Late Warring States Qin chancellor and organizer of the Lüshi chunqiu compilation.
+122|li-si|Core Qin empire institution-builder joining Xunzi learning with Legalist governance.
+123|dong-zhongshu|Western Han Confucian who joined Spring and Autumn learning, yin-yang Five Phases, and dynastic politics.
+124|yang-xiong|Late Western Han thinker-writer known for Model Sayings and Supreme Mystery as classic-imitating works.
+125|wang-chong|Eastern Han thinker who, in Balanced Discourses, attacked omen lore and empty doctrines.
+126|liu-an|Western Han King of Huainan; central organizer of the Huainanzi compilation.
+127|lu-jia|Early Han political essayist who, in New Discourses, explained Qin's fall and civil order.
+128|jia-yi|Early Western Han political essayist known for institutional reform and reflection on Qin's fall.
+129|sima-tan|Western Han Grand Historian whose six-schools taxonomy framed Shiji intellectual history.
+130|sima-qian|Western Han historian, author of Records of the Grand Historian, founding the biographic-annalistic standard.
+131|huan-tan|Han-Xin transitional thinker known for New Discourses and anti-omen-lore stance.
+132|zheng-xuan|Eastern Han classics master who synthesized New and Old Text learning into a commentary system.
+133|xu-gan|Late Eastern Han Jian'an thinker who, in Zhonglun, treated governance, self-cultivation, and names-realities.
+134|wang-fu|Eastern Han political essayist who, in Discourses of a Recluse, criticized politics and literati ethos.
+135|xun-yue|Late Eastern Han historian-essayist known for Extended Reflections and Han Annals.
+136|zhongchang-tong|Late Han political essayist who, in Frank Words, voiced institutional critique and literati independence.
+137|liu-xiang|Western Han classicist, cataloger, and story compiler who reorganized texts and Confucian political memory.
+138|liu-xin|Western Han–Xin classicist and bibliographer who advanced Old Text classicism and catalog systems.
+139|he-yan|Cao-Wei xuanxue figure who led Collected Explanations of the Analects and 'valuing non-being' debate.
+140|ruan-ji|Wei-Jin xuanxue figure known for personal freedom, critique of ritual law, and Zhuangzi reception.
+141|ji-kang|Wei-Jin xuanxue figure known for nature, music theory, and nourishing life.
+142|xiang-xiu|Wei-Jin xuanxue figure known for Zhuangzi commentary and nature-vs-ritual-teaching debate.
+143|pei-wei|Western Jin thinker who, in On Esteeming Being, reflected on xuanxue's valuing of non-being.
+144|ge-hong|Eastern Jin Daoist thinker and cultivation theorist, best known for the Baopuzi.
+145|fan-zhen|Southern Dynasties thinker who, in On the Extinction of the Soul, attacked immortal-soul and karmic doctrines.
+146|tao-hongjing|Southern Dynasties Shangqing Daoist master, also physician, recluse, and scripture editor.
+147|lu-xiujing|Southern Dynasties Daoist who organized Lingbao scriptures and the Three Caverns catalog system.
+148|kou-qianzhi|Northern Wei Daoist reformer who joined a renewed Celestial Masters with state politics.
+149|cheng-xuanying|Tang Daoist scholar known for Laozi-Zhuangzi subcommentaries and Chongxuan thought.
+150|dao-an|Eastern Jin monk who advanced scripture catalogs, sangha norms, and the autonomy of Chinese Buddhism.
+151|huiyuan|Eastern Jin Mount Lu monk influential on monastic independence, Pure Land faith, and Buddhist community.
+152|daosheng|Eastern Jin–Liu Song monk known for sudden enlightenment and the icchantika-buddhahood debate.
+153|jizang|Sui-Tang Three Treatise master known for Madhyamaka two truths and refuting error to reveal the right.
+154|xuanzang|Tang monk, translator, and traveler who founded Chinese Faxiang Yogācāra.
+155|kuiji|Tang Faxiang master, Xuanzang's disciple, known for the Yogācāra commentary system.
+156|daoxuan|Tang Vinaya master and Buddhist historian known for Vinaya learning and compilation of monk biographies.
+157|tanluan|Northern-Eastern Wei Pure Land master teaching other-power rebirth in Commentary on the Treatise on Birth.
+158|shandao|Tang Pure Land master who systematized ordinary-person rebirth and nembutsu in the Contemplation Sutra commentary.
+159|zongmi|Tang fifth Huayan patriarch and Chan-doctrine mediator joining panjiao with three-teachings comparison.
+160|yanshou|Five Dynasties–Song master who joined Chan teaching with myriad-good return in the Source-Mirror.
+161|han-yu|Tang Confucian revivalist and Ancient Prose leader who restated the Confucian Way in Yuan Dao.
+162|li-ao|Tang Confucian who, in Book of Returning to Nature, discussed nature, emotion, and recovery of original nature.
+163|liu-zongyuan|Tang thinker-writer known for arguments on Heaven and humanity, fengjian, and political institutions.
+164|li-gou|Northern Song Confucian and institutional thinker known for ritual, finance, and statecraft.
+165|hu-yuan|Northern Song educator-Confucian known for the Anding school and classics-plus-affairs pedagogy.
+166|shao-yong|Northern Song Neo-Confucian pioneer known for image-number cosmology and observing things.
+167|sima-guang|Northern Song historian-statesman known for the Comprehensive Mirror and theories of political order.
+168|su-shi|Northern Song literatus spanning the Three Teachings; known for classics, statecraft, and life-writing.
+169|luo-congyan|Song Neo-Confucian linking Cheng disciples to Li Tong and Zhu Xi's lineage.
+170|hu-hong|Southern Song Huxiang School figure whose Understanding Words treats nature-substance and cultivation.
+171|zhang-shi|Southern Song Neo-Confucian of the Huxiang school who long debated with Zhu Xi.
+172|chen-liang|Southern Song Yongkang figure known for practical accomplishment and the Wang-Ba / yi-li debate with Zhu Xi.
+173|ye-shi|Southern Song Yongjia figure known for institutions, utility, and critique in intellectual history.
+174|wu-cheng|Yuan Neo-Confucian classicist reconciling Zhu and Lu and reorganizing classical studies.
+175|xu-heng|Early Yuan Neo-Confucian educator who brought Cheng-Zhu learning into Yuan institutions.
+176|wu-yubi|Early Ming Neo-Confucian whose Kangzhai school and reverent practice influenced Chen Xianzhang.
+177|chen-xianzhang|Founder of the Ming Baisha School, stressing self-attainment of mind-substance and quiet-sitting cultivation.
+178|xue-xuan|Ming Neo-Confucian of the Hedong school stressing return to nature and earnest practice.
+179|luo-qinshun|Ming Neo-Confucian; Knowledge Painfully Acquired treats li-qi and mind-nature while criticizing Wang Learning.
+180|wang-tingxiang|Ming qi monist who used experience-oriented qi monism against empty mind learning.
+181|zhan-ruoshui|Ming Ganquan school leader who taught as a peer and rival of Wang Yangming.
+182|wang-gen|Ming Taizhou founder; held that the Way is the people's daily use and sought self-settling via gewu.
+183|luo-rufang|Late Ming Taizhou figure known for childlike conscience, daily teaching, and popular lecturing.
+184|li-zhi|Late Ming thinker known for the childlike mind, critique of false Dao Learning, and personal sincerity.
+185|gu-xiancheng|Late Ming Donglin leader who rebuilt Donglin Academy and stressed literati public responsibility.
+186|gao-panlong|Late Ming Donglin leader stressing both quiet-sitting cultivation and political integrity.
+187|liu-zongzhou|Late Ming master and Jishan School founder known for shendu and sincerity cultivation.
+188|huang-zongxi|Ming-Qing thinker-historian known for critique of monarchy and for Confucian intellectual history writing.
+189|gu-yanwu|Ming-Qing statecraft and evidential scholar; Record of Daily Knowledge opened Qing practical learning.
+190|fang-yizhi|Ming-Qing thinker bridging Confucianism, Buddhism, Daoism, and natural knowledge.
+191|chen-que|Ming-Qing Confucian who, in Disputing the Great Learning, challenged canonical Neo-Confucian reading.
+192|tang-zhen|Early Qing thinker who, in Hidden Book, criticized monarchical power and social injustice.
+193|yan-yuan-qing|Early Qing practical-learning leader urging solid writing, practice, and use against empty Neo-Confucianism.
+194|li-gong-qing|Early Qing Yan-Li school figure continuing Yan Yuan's practical learning and educational practice.
+195|lu-longqi|Early Qing Cheng-Zhu scholar-official known for honoring Zhu Xi, lecturing, and local governance.
+196|mao-qiling|Early Qing classicist known for broad evidential debate and anti-Zhu readings of the Four Books.
+197|zhang-xuecheng|Qing history theorist known for 'the Six Classics are all history' and collation theory.
+198|cui-shu|Qing evidential scholar who, in Records Examining Credibility, tested ancient historical transmission.
+199|ruan-yuan|Qing classicist, official, and academic organizer; a major synthesizer of Qian-Jia evidential learning.
+200|jiao-xun|Qing classicist and mathematician known for Mencius studies, Yijing learning, and logical analysis.
+201|gong-zizhen|Late Qing thinker-writer known for statecraft reform, individual spirit, and institutional critique.
+202|wei-yuan|Late Qing statecraft thinker; Maritime Kingdoms urged learning barbarian skills to control barbarians.
+203|voltaire|Enlightenment champion of tolerance, reason, and anti-clerical polemic; after Locke, in tension with Rousseau.
+204|diderot|Encyclopédie editor linking Enlightenment knowledge projects, materialism, and aesthetic criticism.
+205|montesquieu|Spirit of the Laws made separation of powers and regime typology a modern political-philosophy node.
+206|condillac|Sensationalism that systematized Locke; the statue analogy is a key epistemology clue.
+207|condorcet|Progressive history and social mathematics linking Enlightenment politics to later positivism.
+208|holbach|System of Nature represents French Enlightenment thoroughgoing materialism and determinism.
+209|helvetius|Sensationalist ethics and utilitarian prehistory linking Locke's empiricism to Bentham.
+210|la-mettrie|Man a Machine pushed mechanism to body-mind explanation; extreme Enlightenment materialism.
+211|malebranche|Occasionalism and 'seeing all things in God' moved Cartesianism into theological metaphysics.
+212|gassendi|Reviver of Epicurean atomism and contemporary critic of Descartes in the Meditations objections.
+213|pierre-bayle|Historical and Critical Dictionary influenced Leibniz via skepticism, tolerance, and theodicy.
+214|maine-de-biran|Inner experience of effort and will opened French spiritualism; links Descartes to Bergson.
+215|victor-cousin|Eclecticism and French academic philosophy absorbing German idealism and critical philosophy.
+216|renouvier|Neo-criticism rewrote Kant and influenced William James on free will.
+217|ravaisson|Of Habit influenced Bergson and linked French spiritualism to classical metaphysics via Aristotle.
+218|boutroux|Critiqued strict determinism via contingency of natural law; linked French science philosophy and spiritualism.
+219|badarayana|Traditional author of the Brahma Sūtras; Vedānta root text shared by the three major commentators.
+220|kapila-ishvarakrishna|Systematized Sāṃkhya dualism and the three guṇas in the Sāṃkhya Kārikā.
+221|aksapada-gautama|Traditional author of the Nyāya Sūtra; source of Nyāya logic and epistemology.
+222|bhartrhari|Author of Vākyapadīya; key node of Indian philosophy of language and grammar.
+223|kumarila-bhatta|Mīmāṃsā epistemologist who defended Vedic authority and criticized Buddhist pramāṇa theory.
+224|udayana|Nyāya figure who systematically argued for God's existence and answered Buddhist critics.
+225|gangesa|Core Navya-Nyāya figure who, in Jewel of Truth, advanced precise logic and epistemology.
+226|abhinavagupta|Kashmir Śaiva and Indian aesthetics master linking religious metaphysics to the rasa tradition.
+227|vivekananda|Neo-Vedānta figure and transmitter of modern Indian religious thought.
+228|aurobindo|Integral Yoga and evolutionary spirituality linking Vedānta, yoga, and modern Indian thought.
+229|kukai|Founder of Japanese Shingon who linked Tang esoteric Buddhism to Japan.
+230|honen|Founder of Japanese Pure Land Buddhism who reorganized the tradition around exclusive nembutsu.
+231|nichiren|Founder of Nichiren Buddhism via Lotus faith and national-protection discourse in Japan.
+232|hakuin|Edo Rinzai Zen reviver who strengthened the kōan training system.
+233|ito-jinsai|Edo Ancient Learning figure who returned to Confucius-Mencius texts and criticized Zhu Xi learning.
+234|ogyu-sorai|Edo Confucian who criticized Zhu Xi learning via ancient rhetoric and ritual-music institutions.
+235|motoori-norinaga|Japanese kokugaku figure remaking aesthetics and identity around classics and mono no aware.
+236|fukuzawa-yukichi|Meiji Enlightenment leader who drove modern Japanese thought via civilization theory and independence.
+237|kuki-shuzo|Aesthetics of iki and contingency linking Japanese aesthetics to Continental philosophy.
+238|tanabe-hajime|Kyoto School core whose logic of species and philosophy as metanoetics form a distinctive system.
+239|wonhyo|Korean Buddhist figure uniting diverse doctrines via harmony of disputes (hwajaeng).
+240|jinul|Key Korean Seon figure reorganizing Buddhism via sudden enlightenment/gradual cultivation and Jogye.
+241|seo-gyeongdeok|Korean Confucian qi monist linking Zhang Zai's qi theory to the Toegye context.
+242|yi-ik|Key Korean silhak figure linking Toegye Zhu Xi learning to social statecraft problems.
+243|jeong-yakyong|Summative Korean silhak figure who reread the classics and developed statecraft political thought.
+244|santaraksita|Yogācāra-Madhyamaka figure who entered Tibet and founded Samye; key node of Indian Buddhism in Tibet.
+245|kamalasila|Gradualist side of the Samye debate; Bhāvanākrama is a key node of Indo-Tibetan path theory.
+246|atisa|Key Kadampa figure whose Lamp for the Path to Enlightenment shaped Tibetan lamrim.
+247|milarepa|Kagyu yogin whose songs represent Tibetan practice literature and liberation narrative.
+248|gampopa|Founder of Dakpo Kagyu, fusing Kadampa lamrim with Mahāmudrā.
+249|sakya-pandita|Sakya systematizer who advanced Tibetan pramāṇa in Treasury of Reasoning.
+250|longchenpa|Nyingma Dzogchen systematizer; Seven Treasuries are core Tibetan metaphysics and practice theory.
+251|tsongkhapa|Gelug founder whose Prāsaṅgika Madhyamaka and lamrim shaped Tibetan Buddhism.
+252|dolpopa|Jonang systematizer whose other-emptiness (zhentong) marks a major Tibetan Madhyamaka divide.
+253|gorampa|Sakya Madhyamaka systematizer whose critique of Tsongkhapa is a major internal Tibetan node.
+254|buton|Tibetan Buddhist historian and key figure in Kangyur/Tengyur redaction.
+255|jamgon-kongtrul|Rimé core figure integrating multiple Tibetan traditions in the Treasury of Knowledge and Five Treasuries.
+256|mipham|Nyingma Rimé figure whose Madhyamaka and pramāṇa commentaries shape modern Tibetan systematics.
+257|dalai-lama-14|Contemporary Gelug leader bringing Madhyamaka, ethics, and science dialogue into global philosophy.
+258|wasil-ibn-ata|Early Muʿtazilī founder opening kalām splits via rational theology, free will, and intermediate position.
+259|al-ashari|Founder of Ashʿarism who reshaped rational theology between anti-Muʿtazilism and Sunni doctrine.
+260|al-maturidi|Founder of Māturīdism; Sunni theology of reason, revelation, and responsibility in a Ḥanafī frame.
+261|al-baqillani|Ashʿarī systematizer known for doctrinal proofs, atomistic time, and Qurʾānic inimitability.
+262|al-juwayni|Imām al-Ḥaramayn, teacher of al-Ghazālī; strengthened demonstration in Ashʿarī theology and uṣūl.
+263|fakhr-al-din-al-razi|Summative theologian-philosopher who reshaped later kalām after absorbing and critiquing Ibn Sīnā.
+264|abu-bakr-al-razi|Physician-philosopher and freethinker known for rational naturalism and critique of religious authority.
+265|miskawayh|Islamic ethics systematizer who, in Refinement of Character, turned Greek virtue ethics into soul training.
+266|ibn-bajja|Andalusian philosopher who, in Governance of the Solitary, asked how sages keep perfection in imperfect cities.
+267|ibn-tufayl|Andalusian author of Ḥayy ibn Yaqẓān, in which island reason rises from nature to metaphysics and religion.
+268|ibn-hazm|Andalusian Ẓāhirī thinker combining law, logic, religious polemic, and love literature.
+269|nasir-al-din-tusi|Philosopher, ethicist, and astronomer linking post-Avicennan philosophy, Shīʿī theology, and math astronomy.
+270|rabia-al-adawiyya|Early Sufi saint whose pure divine love—not for paradise or hell—became classic source of Sufi love.
+271|al-junayd|Core of Baghdad's sober Sufism; disciplined expression between mystical experience and law.
+272|al-hallaj|Sufi of 'I am the Truth' and martyrdom; node of mystical union and conflict with religious authority.
+273|rumi|Persian Sufi poet-mystic whose Mathnawī made love, union, and soul transformation poetic philosophy.
+274|nasir-khusraw|Ismāʿīlī poet-thinker whose Persian philosophical verse treats cosmology, revelation, and soul's return.
+275|ibn-taymiyya|Ḥanbalī jurist-critic opposing philosophy, kalām, and Sufi monism; shaped later political theology.
+276|mir-damad|Isfahan School core and Mullā Ṣadrā's teacher; time, eternity, and creation in Safavid philosophy.
+277|tabatabai|Contemporary Shīʿī philosopher-exegete linking Ṣadrian tradition and Qurʾānic commentary to modern Iran.
+278|al-afghani|Pan-Islamic activist and early modernist shaping anti-colonial, reformist Muslim public politics.
+279|muhammad-abduh|Egyptian modernist reformer coordinating Islam and modern society via education, law, and rational exegesis.
+280|fazlur-rahman|Neo-modernist Islamic thinker whose double-movement hermeneutics remade modern Qurʾānic ethical reform.
+281|seyyed-hossein-nasr|Islamic traditionalist critiquing secular modern knowledge via Islamic science, metaphysics, and spirituality.
+282|philo-of-alexandria|Interpreted Torah with Greek categories; key starting point of ancient Jewish philosophy.
+283|isaac-israeli|Early medieval Jewish Neoplatonist linking Arabic philosophy to Jewish thought.
+284|ibn-gabirol|In Fons Vitae set out Neoplatonic metaphysics; known in Latin scholasticism as Avicebron.
+285|bahya-ibn-paquda|Author of Duties of the Heart; joined inner piety and ethical discipline to Jewish legal life.
+286|judah-halevi|Author of the Kuzari; dialogical defense of Jewish revelation and historical community.
+287|abraham-ibn-daud|Author of The Exalted Faith; a key pre-Maimonidean node of Jewish Aristotelianism.
+288|gersonides|Author of The Wars of the Lord who advanced Aristotelian-Averroist tradition within Jewish philosophy.
+289|hasdai-crescas|Author of Light of the Lord; critiqued medieval Aristotelianism and revalued divine love and infinity.
+290|joseph-albo|Author of Book of Principles; reorganized Jewish doctrinal principles and faith classification.
+291|nachmanides|Ramban joined exegesis, halakhah, and early Kabbalah in the Maimonidean controversies.
+292|moses-de-leon|Key figure in Zohar transmission and authorship; medieval Kabbalah lineage node.
+293|abraham-abulafia|Prophetic/ecstatic Kabbalist known for letter combination, divine-name meditation, and prophecy theory.
+294|isaac-luria|Core Lurianic Kabbalist remaking early modern Jewish mysticism via contraction, shattering, and repair.
+295|baal-shem-tov|Hasidic founder whose spiritual joy, piety, and sense of divine presence shaped East European Judaism.
+296|schneur-zalman|Chabad founder and Tanya author who organized Hasidic spirituality as intellectualized theology.
+297|moses-mendelssohn|Haskalah hub; Jerusalem treats religious power, tolerance, and Jewish civic status.
+298|gershom-scholem|Founder of modern Kabbalah studies who remade Jewish mysticism with historical-philological method.
+299|abraham-joshua-heschel|Twentieth-century Jewish theologian joining awe, prophetic ethics, and experience to justice.
+300|joseph-soloveitchik|Modern Orthodox thought via Halakhic man, creative personality, and loneliness of faith.
+301|mordecai-kaplan|Founder of Reconstructionist Judaism who read Judaism as an evolving religious civilization.
+302|yeshayahu-leibowitz|Israeli Jewish thinker holding faith as obedience to commandments, with sharp public criticism.
+303|las-casas|Dominican defender of Indigenous reason and rights in early colonial America.
+304|andres-bello|Venezuelan-Chilean thinker who shaped post-independence state-building via law, education, and language.
+305|simon-rodriguez|Venezuelan educator answering post-independence rebuilding with American republics and popular education.
+306|alberdi|Argentine liberal and constitutional thinker who set nation-building as American philosophy's task.
+307|sarmiento|Argentine thinker; Facundo framed Latin American modernization as civilization vs. barbarism.
+308|hostos|Puerto Rican educator-ethicist linking social ethics and Antillean liberation to positivism and anti-colonialism.
+309|gabino-barreda|Mexican Comtean positivist who used educational reform as a tool of social-order reconstruction.
+310|jose-marti|Cuban independence thinker; Our America answered empire with American subjectivity.
+311|jose-enrique-rodo|Uruguayan thinker whose Ariel shaped Latin American spiritual identity via aesthetic-ethical education.
+312|antonio-caso|Mexican anti-positivist who countered Comtean order with life, ethics, and personhood.
+313|jose-vasconcelos|Mexican thinker-educator; Cosmic Race rewrote American identity via mestizo cosmology.
+314|alejandro-korn|Argentine anti-positivist who reframed philosophy around creative freedom and value.
+315|samuel-ramos|Mexican identity philosophy; Profile of Man and Culture analyzes national character and self-knowledge.
+316|francisco-romero|Argentine philosopher who professionalized academic philosophy and developed personhood and spiritual life theory.
+317|risieri-frondizi|Argentine value theorist whose structure of value and self entered Latin American academic philosophy.
+318|salazar-bondy|Peruvian philosopher who opened the classic debate with Zea on Latin American philosophical authenticity.
+319|ignacio-ellacuria|Salvadoran Jesuit whose historical reality joined liberation philosophy, theology, and politics.
+320|gustavo-gutierrez|Peruvian theologian whose Liberation Theology framed Latin American liberation theology.
+321|rodolfo-kusch|Argentine thinker critiquing European ontology via American presence, Indigenous worlds, and popular culture.
+322|anibal-quijano|Peruvian social theorist of the 'coloniality of power' who shaped decolonial theory.
+323|maria-lugones|Argentine-born feminist whose coloniality of gender advanced decolonial feminism.
+324|octavio-paz|Mexican poet-thinker who, in Labyrinth of Solitude, analyzed Mexican identity, solitude, and modernity.
+325|basil-the-great|One of the Cappadocian Fathers; shaped Greek patristics via Trinitarian theology, creation exegesis, and monastic rules.
+326|gregory-of-nazianzus|One of the Cappadocian Fathers; his Five Theological Orations fixed Eastern Orthodox Trinitarian expression.
+327|gregory-of-nyssa|One of the Cappadocian Fathers; deepened Greek patristics via mystical theology, epektasis, and anthropology.
+328|pseudo-dionysius|Pseudepigraphic (~500) negative theology, Divine Names, and hierarchy shaping Eastern and Latin medieval thought.
+329|maximus-the-confessor|Byzantine theological synthesizer taking up Greek patristics via the Ambigua, dyothelitism, and cosmic Christology.
+330|john-of-damascus|Byzantine doctrine systemizer linking Aristotelian logic and Orthodoxy via Fountain of Knowledge and icon defense.
+331|symeon-the-new-theologian|Byzantine mystic whose divine-light experience and spiritual knowledge shaped later hesychasm.
+332|michael-psellos|Byzantine polymath joining classical and medieval Greek thought via Platonic revival, court notes, and encyclopedism.
+333|gregory-palamas|Late Byzantine hesychast who framed Orthodox mystical experience via essence/energies distinction and the Triads.
+334|gemistos-plethon|Late Byzantine Platonist whose Book of Laws and Florence role shaped the Italian Renaissance classical revival.
+335|zoroaster|Ancient Iranian prophet of Zoroastrianism; good-evil choice, asha, and last judgment source pre-Islamic Persian thought.
+336|mani|Sasanian founder of Manichaeism; cast light-dark dualism, soteriology, and ascetic ethics in self-authored scriptures.
+337|pyotr-chaadaev|19th-c. Russian thinker whose Philosophical Letters sparked debate on Russia's historical mission and path.
+338|aleksei-khomyakov|Core Slavophile theorist who framed freedom, community, and Orthodox tradition through sobornost.
+339|ivan-kireevsky|Co-founder of Slavophilism; integral knowledge and Orthodoxy against West European rationalism.
+340|alexander-herzen|Russian Westernizer and exile thinker known for personal freedom, peasant socialism, and Russia's modernization problem.
+341|mikhail-bakunin|Leading Russian anarchist known for freedom, critique of the state, and collectivist political theory.
+342|nikolai-chernyshevsky|Russian materialist whose rational egoism, aesthetics of reality, and What Is to Be Done? shaped 19th-c. radicalism.
+343|peter-kropotkin|Russian anarchist communist who, in Mutual Aid, cast cooperation, evolution, and free community as political ethics.
+344|fyodor-dostoevsky|Russian novelist-thinker who carried religion, freedom, evil, and redemption in literary form.
+345|leo-tolstoy|Russian writer-thinker organizing social thought around Christian ethics, nonviolence, and conscience critique.
+346|vladimir-solovyov|Hub of Russian religious philosophy; all-unity, Godmanhood, sophiology, and the Good shaped the Silver Age.
+347|nikolai-fedorov|Russian cosmism pioneer who, in Philosophy of the Common Task, joined human unity, science, and resurrection.
+348|lev-shestov|Russian religious existentialist who, in Athens and Jerusalem, opposed rational necessity to freedom of faith.
+349|nikolai-berdyaev|Silver Age religious philosopher centered on freedom, personhood, creativity, and resistance to slavery.
+350|sergei-bulgakov|Silver Age religious philosopher who moved from Marxism to sophiology and Godmanhood philosophy of religion.
+351|pavel-florensky|Silver Age theologian-philosopher linking Orthodoxy, epistemology, and symbol in The Pillar and Ground of the Truth.
+352|semyon-frank|Russian religious philosopher joining metaphysics and social thought via all-unity, the Unfathomable, and intuitionism.
+353|buddhaghosa|Core systematizer of Theravada Pali commentary; Visuddhimagga unites sila-samadhi-panna, Abhidhamma, and the path.
+354|dhammapala|Theravāda Pali commentator linked to Paramatthadīpanī Khuddaka commentaries (ca. 6th–7th c., uncertain).
+355|ledi-sayadaw|Burmese Theravada Abhidhamma and vipassana revivalist who popularized doctrine and practice via plain manuals.
+356|mahasi-sayadaw|Leading Burmese vipassana teacher whose satipatthana practice and Mahasi method shaped global Theravada meditation.
+357|buddhadasa|Modern Thai Buddhist thinker linking reform and politics via dependent origination, anapanasati, and Dhammic socialism.
+358|tran-thai-tong|Trần emperor-Zen master whose Lessons on Emptiness grounded medieval Vietnamese Zen.
+359|tran-nhan-tong|Trần emperor-Zen master who founded Trúc Lâm, uniting Vietnamese Zen lines and a poetic tradition.
+360|le-quy-don|Early modern Vietnamese Confucian-encyclopedist joining Neo-Confucianism and natural knowledge in Categorized Sayings.

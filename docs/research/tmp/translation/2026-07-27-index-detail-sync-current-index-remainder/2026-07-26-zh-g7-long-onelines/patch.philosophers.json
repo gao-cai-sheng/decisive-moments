@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 1,
+  "items": {
+    "al-kindi": {
+      "keywordsEn": [
+        "Arabic philosophy",
+        "first philosophy",
+        "translation movement",
+        "intellect",
+        "creation"
+      ]
+    },
+    "suhrawardi": {
+      "keywordsEn": [
+        "Illuminationist philosophy",
+        "light",
+        "knowledge by presence",
+        "critique of Ibn Sina",
+        "Oriental philosophy"
+      ]
+    },
+    "vico": {
+      "keywordsEn": [
+        "New Science",
+        "verum factum",
+        "poetic wisdom",
+        "world of nations",
+        "anti-Cartesianism"
+      ]
+    },
+    "schmitt": {
+      "keywordsEn": [
+        "sovereignty",
+        "state of exception",
+        "friend-enemy distinction",
+        "political theology",
+        "critique of parliamentarism"
+      ]
+    }
+  }
+}

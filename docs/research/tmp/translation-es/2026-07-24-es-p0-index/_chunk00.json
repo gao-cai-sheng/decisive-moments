@@ -1,0 +1,688 @@
+[
+  {
+    "id": "confucius",
+    "en": "Confucius",
+    "oneLineEn": "Founded the Confucian ethical-political tradition on ren (humaneness), ritual propriety, and junzi cultivation.",
+    "oneLineZh": "以仁、礼和君子修养奠定儒家伦理政治传统。",
+    "keywordsEn": [
+      "ethics",
+      "politics",
+      "justice"
+    ],
+    "keywordsZh": [
+      "伦理",
+      "政治",
+      "正义"
+    ]
+  },
+  {
+    "id": "laozi",
+    "en": "Laozi",
+    "oneLineEn": "Opens Daoist thought through the Dao, wuwei, and resistance to coercive order.",
+    "oneLineZh": "以道、无为和反强制秩序开辟道家思想。",
+    "keywordsEn": [
+      "metaphysics",
+      "politics",
+      "life and death"
+    ],
+    "keywordsZh": [
+      "形而上学",
+      "政治",
+      "生死"
+    ]
+  },
+  {
+    "id": "zhuangzi",
+    "en": "Zhuangzi",
+    "oneLineEn": "Develops a philosophy of freedom through wandering, equalizing things, and linguistic skepticism.",
+    "oneLineZh": "以逍遥、齐物和语言怀疑展开自由哲学。",
+    "keywordsEn": [
+      "freedom",
+      "language",
+      "life and death"
+    ],
+    "keywordsZh": [
+      "自由",
+      "语言",
+      "生死"
+    ]
+  },
+  {
+    "id": "buddha",
+    "en": "Gautama Buddha",
+    "oneLineEn": "Recast Indian thought on life, attachment, and freedom through dukkha, dependent origination, non-self, and liberation.",
+    "oneLineZh": "以苦、缘起、无我和解脱道路重塑印度思想中关于生命、执著与自由的根本问题。",
+    "keywordsEn": [
+      "the Four Noble Truths",
+      "dependent origination",
+      "non-self (anatta)",
+      "the Middle Way",
+      "the Noble Eightfold Path",
+      "nirvana"
+    ],
+    "keywordsZh": [
+      "四圣谛",
+      "缘起",
+      "无我",
+      "中道",
+      "八正道",
+      "涅槃"
+    ]
+  },
+  {
+    "id": "plato",
+    "en": "Plato",
+    "oneLineEn": "His theory of Forms and the Republic make him one of the core sources of Western philosophy.",
+    "oneLineZh": "以理念论和《理想国》构成西方哲学核心源头之一。",
+    "keywordsEn": [
+      "justice",
+      "knowledge",
+      "metaphysics"
+    ],
+    "keywordsZh": [
+      "正义",
+      "知识",
+      "形而上学"
+    ]
+  },
+  {
+    "id": "aristotle",
+    "en": "Aristotle",
+    "oneLineEn": "Built a systematic philosophical framework around substance, final cause, and virtue ethics.",
+    "oneLineZh": "以实体、目的因和德性伦理建立系统哲学框架。",
+    "keywordsEn": [
+      "ethics",
+      "metaphysics",
+      "politics"
+    ],
+    "keywordsZh": [
+      "伦理",
+      "形而上学",
+      "政治"
+    ]
+  },
+  {
+    "id": "kant",
+    "en": "Immanuel Kant",
+    "oneLineEn": "Through critical philosophy, reset the bounds of knowledge, freedom, and the moral law.",
+    "oneLineZh": "以批判哲学重设知识、自由和道德法则的边界。",
+    "keywordsEn": [
+      "knowledge",
+      "ethics",
+      "freedom"
+    ],
+    "keywordsZh": [
+      "知识",
+      "伦理",
+      "自由"
+    ]
+  },
+  {
+    "id": "rawls",
+    "en": "John Rawls",
+    "oneLineEn": "Reshaped contemporary political philosophy's problem-frame through justice as fairness.",
+    "oneLineZh": "以公平正义理论重塑当代政治哲学的问题框架。",
+    "keywordsEn": [
+      "justice",
+      "politics",
+      "ethics"
+    ],
+    "keywordsZh": [
+      "正义",
+      "政治",
+      "伦理"
+    ]
+  },
+  {
+    "id": "cleanthes",
+    "en": "Cleanthes",
+    "oneLineEn": "Stoic leader after Zeno, known for the Hymn to Zeus and a piety of assent to cosmic reason.",
+    "oneLineZh": "芝诺之后的斯多葛学派领袖，以《宙斯赞歌》和顺从宇宙理性的虔敬伦理著称。",
+    "keywordsEn": [
+      "ethics",
+      "metaphysics",
+      "knowledge"
+    ],
+    "keywordsZh": [
+      "伦理",
+      "形而上学",
+      "知识"
+    ]
+  },
+  {
+    "id": "chrysippus",
+    "en": "Chrysippus",
+    "oneLineEn": "Systematized early Stoic logic, physics, and ethics into a rigorous philosophical architecture.",
+    "oneLineZh": "系统化早期斯多葛逻辑、物理学和伦理学，使斯多葛主义成为严整哲学体系。",
+    "keywordsEn": [
+      "ethics",
+      "metaphysics",
+      "knowledge"
+    ],
+    "keywordsZh": [
+      "伦理",
+      "形而上学",
+      "知识"
+    ]
+  },
+  {
+    "id": "diogenes-sinope",
+    "en": "Diogenes of Sinope",
+    "oneLineEn": "Cynic who made philosophy a life-critique through poverty, self-sufficiency, and public provocation.",
+    "oneLineZh": "犬儒学派代表人物，用贫穷、自足和公开挑衅把哲学变成生活批判。",
+    "keywordsEn": [
+      "ethics",
+      "politics",
+      "freedom"
+    ],
+    "keywordsZh": [
+      "伦理",
+      "政治",
+      "自由"
+    ]
+  },
+  {
+    "id": "antisthenes",
+    "en": "Antisthenes",
+    "oneLineEn": "Socratic disciple stressing virtue, self-sufficiency, and hard training; key forerunner of Cynicism.",
+    "oneLineZh": "苏格拉底弟子之一，强调德性、自足和艰苦训练，被视为犬儒传统的重要先驱。",
+    "keywordsEn": [
+      "ethics",
+      "politics",
+      "freedom"
+    ],
+    "keywordsZh": [
+      "伦理",
+      "政治",
+      "自由"
+    ]
+  },
+  {
+    "id": "pythagoras",
+    "en": "Pythagoras",
+    "oneLineEn": "The Pythagorean tradition linked number, cosmic order, soul purification, and communal life.",
+    "oneLineZh": "毕达哥拉斯传统把数、宇宙秩序、灵魂净化和共同体生活连接起来。",
+    "keywordsEn": [
+      "metaphysics",
+      "ethics",
+      "knowledge"
+    ],
+    "keywordsZh": [
+      "形而上学",
+      "伦理",
+      "知识"
+    ]
+  },
+  {
+    "id": "anaximander",
+    "en": "Anaximander",
+    "oneLineEn": "Milesian thinker who advanced early Greek philosophy via the apeiron, cosmogenesis, and naturalistic explanation.",
+    "oneLineZh": "米利都学派代表人物，以 apeiron、宇宙生成和自然化解释推进早期希腊哲学。",
+    "keywordsEn": [
+      "metaphysics",
+      "knowledge",
+      "life and death"
+    ],
+    "keywordsZh": [
+      "形而上学",
+      "知识",
+      "生死"
+    ]
+  },
+  {
+    "id": "anaximenes",
+    "en": "Anaximenes",
+    "oneLineEn": "Milesian philosopher explaining natural change and cosmic structure via air, condensation, and rarefaction.",
+    "oneLineZh": "米利都学派哲人，以气、凝聚和稀薄化解释自然变化与宇宙结构。",
+    "keywordsEn": [
+      "metaphysics",
+      "knowledge",
+      "life and death"
+    ],
+    "keywordsZh": [
+      "形而上学",
+      "知识",
+      "生死"
+    ]
+  },
+  {
+    "id": "xenophanes",
+    "en": "Xenophanes",
+    "oneLineEn": "Presocratic poet-philosopher who criticized anthropomorphic gods and probed limits of human knowledge.",
+    "oneLineZh": "前苏格拉底诗哲，批判拟人神观，并提出关于神、自然和人类知识限度的早期反思。",
+    "keywordsEn": [
+      "religion",
+      "knowledge",
+      "metaphysics"
+    ],
+    "keywordsZh": [
+      "宗教",
+      "知识",
+      "形而上学"
+    ]
+  },
+  {
+    "id": "empedocles",
+    "en": "Empedocles",
+    "oneLineEn": "Joined four roots, Love and Strife, cosmic cycles, and soul purification into natural philosophy and religious ethics.",
+    "oneLineZh": "以四根、爱与争斗、宇宙循环和灵魂净化综合自然哲学与宗教伦理。",
+    "keywordsEn": [
+      "metaphysics",
+      "life and death",
+      "religion"
+    ],
+    "keywordsZh": [
+      "形而上学",
+      "生死",
+      "宗教"
+    ]
+  },
+  {
+    "id": "anaxagoras",
+    "en": "Anaxagoras",
+    "oneLineEn": "Brought infinite seeds, mutual containment, and Nous into natural philosophy, carrying Ionian science into Athens.",
+    "oneLineZh": "把无限种子、万物相含和 Nous 引入自然哲学，并把爱奥尼亚自然解释带入雅典。",
+    "keywordsEn": [
+      "metaphysics",
+      "knowledge",
+      "politics"
+    ],
+    "keywordsZh": [
+      "形而上学",
+      "知识",
+      "政治"
+    ]
+  },
+  {
+    "id": "zeno-elea",
+    "en": "Zeno of Elea",
+    "oneLineEn": "Eleatic thinker defending Parmenidean ontology with paradoxes against plurality and motion.",
+    "oneLineZh": "爱利亚学派哲人，以反多和反运动悖论捍卫巴门尼德式存在论。",
+    "keywordsEn": [
+      "metaphysics",
+      "knowledge",
+      "language"
+    ],
+    "keywordsZh": [
+      "形而上学",
+      "知识",
+      "语言"
+    ]
+  },
+  {
+    "id": "democritus",
+    "en": "Democritus",
+    "oneLineEn": "Ancient atomist explaining nature by atoms and void; raised issues of perception, convention, and ethical calm.",
+    "oneLineZh": "古代原子论代表人物，以原子与虚空解释自然，并提出感知、约定和安宁伦理问题。",
+    "keywordsEn": [
+      "metaphysics",
+      "knowledge",
+      "ethics"
+    ],
+    "keywordsZh": [
+      "形而上学",
+      "知识",
+      "伦理"
+    ]
+  },
+  {
+    "id": "protagoras",
+    "en": "Protagoras",
+    "oneLineEn": "Leading sophist known for man as measure, virtue education, and civic practical reason.",
+    "oneLineZh": "智者运动代表人物，以“人是万物尺度”、德性教育和城邦实践理性著称。",
+    "keywordsEn": [
+      "knowledge",
+      "politics",
+      "ethics"
+    ],
+    "keywordsZh": [
+      "知识",
+      "政治",
+      "伦理"
+    ]
+  },
+  {
+    "id": "gorgias",
+    "en": "Gorgias",
+    "oneLineEn": "Sophist and rhetorician famed for radical ontological arguments, linguistic power, and the art of persuasion.",
+    "oneLineZh": "智者和修辞家，以激进的存在论论证、语言力量和说服技艺闻名。",
+    "keywordsEn": [
+      "language",
+      "knowledge",
+      "politics"
+    ],
+    "keywordsZh": [
+      "语言",
+      "知识",
+      "政治"
+    ]
+  },
+  {
+    "id": "pyrrho",
+    "en": "Pyrrho",
+    "oneLineEn": "Founding figure of Pyrrhonism; suspension of judgment and mental calm shaped ancient skepticism.",
+    "oneLineZh": "皮浪主义源头人物，以悬置判断和心灵安宁的传统影响古代怀疑论。",
+    "keywordsEn": [
+      "knowledge",
+      "ethics",
+      "freedom"
+    ],
+    "keywordsZh": [
+      "知识",
+      "伦理",
+      "自由"
+    ]
+  },
+  {
+    "id": "theophrastus",
+    "en": "Theophrastus",
+    "oneLineEn": "Aristotle's successor expanding Peripatetic natural study, botany, character writing, and scholarly institutions.",
+    "oneLineZh": "亚里士多德继承者，扩展逍遥学派自然研究、植物学、性格描写和学术制度。",
+    "keywordsEn": [
+      "knowledge",
+      "ethics",
+      "life and death"
+    ],
+    "keywordsZh": [
+      "知识",
+      "伦理",
+      "生死"
+    ]
+  },
+  {
+    "id": "carneades",
+    "en": "Carneades",
+    "oneLineEn": "New Academy skeptic known for anti-Stoic epistemology, probable judgment, and Roman speeches on justice.",
+    "oneLineZh": "新学园怀疑主义代表，以反斯多葛知识论、概率性判断和罗马正义演说闻名。",
+    "keywordsEn": [
+      "knowledge",
+      "ethics",
+      "politics"
+    ],
+    "keywordsZh": [
+      "知识",
+      "伦理",
+      "政治"
+    ]
+  },
+  {
+    "id": "cicero",
+    "en": "Cicero",
+    "oneLineEn": "Roman statesman-author who rendered Greek philosophy into Latin public reason, republican ethics, and natural law.",
+    "oneLineZh": "罗马政治家和哲学作者，把希腊哲学翻译进拉丁公共理性、共和伦理和自然法传统。",
+    "keywordsEn": [
+      "politics",
+      "ethics",
+      "knowledge"
+    ],
+    "keywordsZh": [
+      "政治",
+      "伦理",
+      "知识"
+    ]
+  },
+  {
+    "id": "lucretius",
+    "en": "Lucretius",
+    "oneLineEn": "Roman Epicurean poet who, in De Rerum Natura, uses atomism to cure fear of the gods and of death.",
+    "oneLineZh": "罗马伊壁鸠鲁主义诗人，以《物性论》用原子论治疗宗教恐惧和死亡恐惧。",
+    "keywordsEn": [
+      "metaphysics",
+      "religion",
+      "life and death"
+    ],
+    "keywordsZh": [
+      "形而上学",
+      "宗教",
+      "生死"
+    ]
+  },
+  {
+    "id": "seneca",
+    "en": "Seneca the Younger",
+    "oneLineEn": "Roman Stoic statesman developing practical ethics in letters and essays on anger, clemency, and finite life.",
+    "oneLineZh": "罗马斯多葛哲人和政治家，以书信、论怒、论仁慈和有限生命训练展开实践伦理。",
+    "keywordsEn": [
+      "ethics",
+      "freedom",
+      "life and death"
+    ],
+    "keywordsZh": [
+      "伦理",
+      "自由",
+      "生死"
+    ]
+  },
+  {
+    "id": "epictetus",
+    "en": "Epictetus",
+    "oneLineEn": "Roman Stoic teacher whose control dichotomy, assent training, and inner freedom define a practical handbook tradition.",
+    "oneLineZh": "罗马斯多葛教师，以控制二分、同意训练和内在自由构成最具实践性的斯多葛手册传统。",
+    "keywordsEn": [
+      "ethics",
+      "freedom",
+      "knowledge"
+    ],
+    "keywordsZh": [
+      "伦理",
+      "自由",
+      "知识"
+    ]
+  },
+  {
+    "id": "marcus-aurelius",
+    "en": "Marcus Aurelius",
+    "oneLineEn": "Roman emperor and Stoic author who, in the Meditations, joins cosmic order, duty, and self-discipline.",
+    "oneLineZh": "罗马皇帝和斯多葛作者，以《沉思录》把宇宙秩序、职责和自我训练结合起来。",
+    "keywordsEn": [
+      "ethics",
+      "politics",
+      "life and death"
+    ],
+    "keywordsZh": [
+      "伦理",
+      "政治",
+      "生死"
+    ]
+  },
+  {
+    "id": "fichte",
+    "en": "Johann Gottlieb Fichte",
+    "oneLineEn": "Advanced Kant's critical philosophy into a freedom system grounded in self-activity (Wissenschaftslehre).",
+    "oneLineZh": "以知识学把康德批判哲学推进为从自我活动出发的自由体系。",
+    "keywordsEn": [
+      "the self",
+      "Wissenschaftslehre",
+      "freedom",
+      "right (Recht)",
+      "national education"
+    ],
+    "keywordsZh": [
+      "自我",
+      "知识学",
+      "自由",
+      "法权",
+      "民族教育"
+    ]
+  },
+  {
+    "id": "schelling",
+    "en": "Friedrich Wilhelm Joseph Schelling",
+    "oneLineEn": "Organized nature, spirit, art, and freedom into German Idealism's most generative systematic experiments.",
+    "oneLineZh": "把自然、精神、艺术和自由组织为德国观念论内部最具生成性的体系实验。",
+    "keywordsEn": [
+      "philosophy of nature",
+      "identity philosophy",
+      "freedom",
+      "art",
+      "revelation"
+    ],
+    "keywordsZh": [
+      "自然哲学",
+      "同一哲学",
+      "自由",
+      "艺术",
+      "启示"
+    ]
+  },
+  {
+    "id": "feuerbach",
+    "en": "Ludwig Andreas Feuerbach",
+    "oneLineEn": "Inverted Hegelian theology into humanist critique of religion; a near gateway for Marx's early alienation critique.",
+    "oneLineZh": "把黑格尔思辨神学倒转为人本学宗教批判，并成为马克思早期异化批判的近端入口。",
+    "keywordsEn": [
+      "critique of religion",
+      "projection",
+      "anthropology (humanism)",
+      "Young Hegelians",
+      "Marx"
+    ],
+    "keywordsZh": [
+      "宗教批判",
+      "投射",
+      "人本学",
+      "青年黑格尔派",
+      "马克思"
+    ]
+  },
+  {
+    "id": "pascal",
+    "en": "Blaise Pascal",
+    "oneLineEn": "Reshaped early modern Christian apologetics through human fragility, reason's limits, and the wager.",
+    "oneLineZh": "以人的脆弱、理性的限度和信仰赌注重塑早期现代基督教护教与存在论感受。",
+    "keywordsEn": [
+      "Pensées",
+      "the wager",
+      "the heart (esprit de finesse)",
+      "esprit de géométrie",
+      "Montaigne"
+    ],
+    "keywordsZh": [
+      "思想录",
+      "赌注",
+      "心灵",
+      "几何精神",
+      "蒙田"
+    ]
+  },
+  {
+    "id": "peirce",
+    "en": "Charles Sanders Peirce",
+    "oneLineEn": "Founded scientific American pragmatism through inquiry logic, the pragmatic maxim, and triadic semiotics.",
+    "oneLineZh": "以探究逻辑、实用主义准则和三元符号学奠定美国实用主义的科学形态。",
+    "keywordsEn": [
+      "pragmatism",
+      "semiotics",
+      "abduction",
+      "categories",
+      "scientific community"
+    ],
+    "keywordsZh": [
+      "实用主义",
+      "符号学",
+      "溯因",
+      "范畴",
+      "科学共同体"
+    ]
+  },
+  {
+    "id": "james",
+    "en": "William James",
+    "oneLineEn": "Linked psychology, religious experience, free will, and pragmatic truth into radical empiricist pluralism.",
+    "oneLineZh": "把心理学、宗教经验、自由意志和实用主义真理观连接成经验多元论。",
+    "keywordsEn": [
+      "stream of consciousness",
+      "pragmatism",
+      "will to believe",
+      "religious experience",
+      "pluralistic universe"
+    ],
+    "keywordsZh": [
+      "意识流",
+      "实用主义",
+      "信仰意志",
+      "宗教经验",
+      "多元宇宙"
+    ]
+  },
+  {
+    "id": "du-bois",
+    "en": "W. E. B. Du Bois",
+    "oneLineEn": "Advanced racial experience as modern political philosophy via double consciousness, color line, and abolition democracy.",
+    "oneLineZh": "以双重意识、色线和废奴民主把种族经验推进为现代政治哲学和社会科学问题。",
+    "keywordsEn": [
+      "the color line",
+      "double consciousness",
+      "the Veil",
+      "abolition democracy",
+      "Black Reconstruction"
+    ],
+    "keywordsZh": [
+      "色线",
+      "双重意识",
+      "面纱",
+      "废奴民主",
+      "黑色重建"
+    ]
+  },
+  {
+    "id": "moore",
+    "en": "George Edward Moore",
+    "oneLineEn": "Helped form Cambridge analytic philosophy via ethical non-naturalism, anti-idealism, and common-sense realism.",
+    "oneLineZh": "以伦理非自然主义、反观念论和常识实在论推动剑桥分析哲学成形。",
+    "keywordsEn": [
+      "naturalistic fallacy",
+      "indefinability of good",
+      "anti-idealism",
+      "common sense",
+      "external world"
+    ],
+    "keywordsZh": [
+      "自然主义谬误",
+      "善不可定义",
+      "反观念论",
+      "常识",
+      "外部世界"
+    ]
+  },
+  {
+    "id": "popper",
+    "en": "Karl Popper",
+    "oneLineEn": "Remade 20th-c. philosophy of science and politics through falsifiability, critical rationalism, and the open society.",
+    "oneLineZh": "以可证伪性、批判理性主义和开放社会论重塑二十世纪科学哲学与政治哲学。",
+    "keywordsEn": [
+      "falsifiability",
+      "critical rationalism",
+      "open society",
+      "critique of historicism",
+      "objective knowledge"
+    ],
+    "keywordsZh": [
+      "可证伪性",
+      "批判理性主义",
+      "开放社会",
+      "历史主义批判",
+      "客观知识"
+    ]
+  },
+  {
+    "id": "kuhn",
+    "en": "Thomas Kuhn",
+    "oneLineEn": "Rewrote historical philosophy of scientific progress via paradigms, normal science, and scientific revolutions.",
+    "oneLineZh": "以范式、常规科学和科学革命改写科学进步的历史哲学图景。",
+    "keywordsEn": [
+      "paradigm",
+      "normal science",
+      "scientific revolution",
+      "incommensurability",
+      "historical philosophy of science"
+    ],
+    "keywordsZh": [
+      "范式",
+      "常规科学",
+      "科学革命",
+      "不可通约性",
+      "历史科学哲学"
+    ]
+  }
+]

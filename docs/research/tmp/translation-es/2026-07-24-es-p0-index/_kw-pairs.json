@@ -1,0 +1,4362 @@
+[
+  {
+    "zh": "伦理",
+    "en": "ethics"
+  },
+  {
+    "zh": "政治",
+    "en": "politics"
+  },
+  {
+    "zh": "正义",
+    "en": "justice"
+  },
+  {
+    "zh": "形而上学",
+    "en": "metaphysics"
+  },
+  {
+    "zh": "生死",
+    "en": "life and death"
+  },
+  {
+    "zh": "自由",
+    "en": "freedom"
+  },
+  {
+    "zh": "语言",
+    "en": "language"
+  },
+  {
+    "zh": "四圣谛",
+    "en": "the Four Noble Truths"
+  },
+  {
+    "zh": "缘起",
+    "en": "dependent origination"
+  },
+  {
+    "zh": "无我",
+    "en": "non-self (anatta)"
+  },
+  {
+    "zh": "中道",
+    "en": "the Middle Way"
+  },
+  {
+    "zh": "八正道",
+    "en": "the Noble Eightfold Path"
+  },
+  {
+    "zh": "涅槃",
+    "en": "nirvana"
+  },
+  {
+    "zh": "知识",
+    "en": "knowledge"
+  },
+  {
+    "zh": "宗教",
+    "en": "religion"
+  },
+  {
+    "zh": "自我",
+    "en": "the self"
+  },
+  {
+    "zh": "知识学",
+    "en": "Wissenschaftslehre"
+  },
+  {
+    "zh": "法权",
+    "en": "right (Recht)"
+  },
+  {
+    "zh": "民族教育",
+    "en": "national education"
+  },
+  {
+    "zh": "自然哲学",
+    "en": "philosophy of nature"
+  },
+  {
+    "zh": "同一哲学",
+    "en": "identity philosophy"
+  },
+  {
+    "zh": "艺术",
+    "en": "art"
+  },
+  {
+    "zh": "启示",
+    "en": "revelation"
+  },
+  {
+    "zh": "宗教批判",
+    "en": "critique of religion"
+  },
+  {
+    "zh": "投射",
+    "en": "projection"
+  },
+  {
+    "zh": "人本学",
+    "en": "anthropology (humanism)"
+  },
+  {
+    "zh": "青年黑格尔派",
+    "en": "Young Hegelians"
+  },
+  {
+    "zh": "马克思",
+    "en": "Marx"
+  },
+  {
+    "zh": "思想录",
+    "en": "Pensées"
+  },
+  {
+    "zh": "赌注",
+    "en": "the wager"
+  },
+  {
+    "zh": "心灵",
+    "en": "the heart (esprit de finesse)"
+  },
+  {
+    "zh": "几何精神",
+    "en": "esprit de géométrie"
+  },
+  {
+    "zh": "蒙田",
+    "en": "Montaigne"
+  },
+  {
+    "zh": "实用主义",
+    "en": "pragmatism"
+  },
+  {
+    "zh": "符号学",
+    "en": "semiotics"
+  },
+  {
+    "zh": "溯因",
+    "en": "abduction"
+  },
+  {
+    "zh": "范畴",
+    "en": "categories"
+  },
+  {
+    "zh": "科学共同体",
+    "en": "scientific community"
+  },
+  {
+    "zh": "意识流",
+    "en": "stream of consciousness"
+  },
+  {
+    "zh": "信仰意志",
+    "en": "will to believe"
+  },
+  {
+    "zh": "宗教经验",
+    "en": "religious experience"
+  },
+  {
+    "zh": "多元宇宙",
+    "en": "pluralistic universe"
+  },
+  {
+    "zh": "色线",
+    "en": "the color line"
+  },
+  {
+    "zh": "双重意识",
+    "en": "double consciousness"
+  },
+  {
+    "zh": "面纱",
+    "en": "the Veil"
+  },
+  {
+    "zh": "废奴民主",
+    "en": "abolition democracy"
+  },
+  {
+    "zh": "黑色重建",
+    "en": "Black Reconstruction"
+  },
+  {
+    "zh": "自然主义谬误",
+    "en": "naturalistic fallacy"
+  },
+  {
+    "zh": "善不可定义",
+    "en": "indefinability of good"
+  },
+  {
+    "zh": "反观念论",
+    "en": "anti-idealism"
+  },
+  {
+    "zh": "常识",
+    "en": "common sense"
+  },
+  {
+    "zh": "外部世界",
+    "en": "external world"
+  },
+  {
+    "zh": "可证伪性",
+    "en": "falsifiability"
+  },
+  {
+    "zh": "批判理性主义",
+    "en": "critical rationalism"
+  },
+  {
+    "zh": "开放社会",
+    "en": "open society"
+  },
+  {
+    "zh": "历史主义批判",
+    "en": "critique of historicism"
+  },
+  {
+    "zh": "客观知识",
+    "en": "objective knowledge"
+  },
+  {
+    "zh": "范式",
+    "en": "paradigm"
+  },
+  {
+    "zh": "常规科学",
+    "en": "normal science"
+  },
+  {
+    "zh": "科学革命",
+    "en": "scientific revolution"
+  },
+  {
+    "zh": "不可通约性",
+    "en": "incommensurability"
+  },
+  {
+    "zh": "历史科学哲学",
+    "en": "historical philosophy of science"
+  },
+  {
+    "zh": "精神科学",
+    "en": "Geisteswissenschaften"
+  },
+  {
+    "zh": "理解",
+    "en": "understanding (Verstehen)"
+  },
+  {
+    "zh": "体验",
+    "en": "lived experience (Erlebnis)"
+  },
+  {
+    "zh": "历史世界",
+    "en": "historical world"
+  },
+  {
+    "zh": "世界观",
+    "en": "worldview"
+  },
+  {
+    "zh": "哲学解释学",
+    "en": "philosophical hermeneutics"
+  },
+  {
+    "zh": "效果历史",
+    "en": "effective history"
+  },
+  {
+    "zh": "视域融合",
+    "en": "fusion of horizons"
+  },
+  {
+    "zh": "真理与方法",
+    "en": "Truth and Method"
+  },
+  {
+    "zh": "生存",
+    "en": "Existenz"
+  },
+  {
+    "zh": "界限处境",
+    "en": "limit situations"
+  },
+  {
+    "zh": "包围者",
+    "en": "the Encompassing"
+  },
+  {
+    "zh": "轴心时代",
+    "en": "Axial Age"
+  },
+  {
+    "zh": "罪责问题",
+    "en": "the question of guilt"
+  },
+  {
+    "zh": "悬搁判断",
+    "en": "suspension of judgment (epochē)"
+  },
+  {
+    "zh": "等势论证",
+    "en": "equipollence"
+  },
+  {
+    "zh": "宁静",
+    "en": "ataraxia"
+  },
+  {
+    "zh": "皮浪主义",
+    "en": "Pyrrhonism"
+  },
+  {
+    "zh": "反独断论",
+    "en": "anti-dogmatism"
+  },
+  {
+    "zh": "存在单义性",
+    "en": "univocity of being"
+  },
+  {
+    "zh": "个体性",
+    "en": "individuality (haecceity)"
+  },
+  {
+    "zh": "形式区别",
+    "en": "formal distinction"
+  },
+  {
+    "zh": "意志优先",
+    "en": "priority of the will"
+  },
+  {
+    "zh": "无染原罪",
+    "en": "Immaculate Conception"
+  },
+  {
+    "zh": "阿拉伯哲学",
+    "en": "Arabic philosophy"
+  },
+  {
+    "zh": "第一哲学",
+    "en": "first philosophy"
+  },
+  {
+    "zh": "翻译运动",
+    "en": "translation movement"
+  },
+  {
+    "zh": "理智",
+    "en": "intellect"
+  },
+  {
+    "zh": "创造",
+    "en": "creation"
+  },
+  {
+    "zh": "照明哲学",
+    "en": "Illuminationist philosophy"
+  },
+  {
+    "zh": "光",
+    "en": "light"
+  },
+  {
+    "zh": "临现知识",
+    "en": "knowledge by presence"
+  },
+  {
+    "zh": "伊本·西那批判",
+    "en": "critique of Ibn Sina"
+  },
+  {
+    "zh": "东方哲学",
+    "en": "Oriental philosophy"
+  },
+  {
+    "zh": "存在一性",
+    "en": "oneness of being (wahdat al-wujud)"
+  },
+  {
+    "zh": "完人",
+    "en": "Perfect Human"
+  },
+  {
+    "zh": "想象",
+    "en": "imagination"
+  },
+  {
+    "zh": "神名",
+    "en": "divine names"
+  },
+  {
+    "zh": "麦加启示",
+    "en": "Meccan Revelations"
+  },
+  {
+    "zh": "法",
+    "en": "law (fa)"
+  },
+  {
+    "zh": "术",
+    "en": "statecraft (shu)"
+  },
+  {
+    "zh": "势",
+    "en": "positional power (shi)"
+  },
+  {
+    "zh": "刑名",
+    "en": "forms and names (xingming)"
+  },
+  {
+    "zh": "君主集权",
+    "en": "monarchical centralization"
+  },
+  {
+    "zh": "顿悟",
+    "en": "sudden enlightenment"
+  },
+  {
+    "zh": "无念",
+    "en": "no-thought"
+  },
+  {
+    "zh": "自性",
+    "en": "self-nature"
+  },
+  {
+    "zh": "定慧不二",
+    "en": "nonduality of samadhi and prajna"
+  },
+  {
+    "zh": "坛经",
+    "en": "Platform Sutra"
+  },
+  {
+    "zh": "气",
+    "en": "qi"
+  },
+  {
+    "zh": "太虚",
+    "en": "Great Void"
+  },
+  {
+    "zh": "民胞物与",
+    "en": "all people as siblings, all things as companions"
+  },
+  {
+    "zh": "横渠四句",
+    "en": "Zhang Zai's Four Sentences"
+  },
+  {
+    "zh": "正蒙",
+    "en": "Correcting Youthful Ignorance"
+  },
+  {
+    "zh": "量论",
+    "en": "pramana theory"
+  },
+  {
+    "zh": "现量",
+    "en": "perception (pratyaksa)"
+  },
+  {
+    "zh": "比量",
+    "en": "inference (anumana)"
+  },
+  {
+    "zh": "因明",
+    "en": "hetuvidya (Buddhist logic)"
+  },
+  {
+    "zh": "遮诠",
+    "en": "apoha (exclusion)"
+  },
+  {
+    "zh": "女性权利",
+    "en": "rights of woman"
+  },
+  {
+    "zh": "理性教育",
+    "en": "rational education"
+  },
+  {
+    "zh": "卢梭批判",
+    "en": "critique of Rousseau"
+  },
+  {
+    "zh": "公民德性",
+    "en": "civic virtue"
+  },
+  {
+    "zh": "意向",
+    "en": "intention"
+  },
+  {
+    "zh": "行动哲学",
+    "en": "philosophy of action"
+  },
+  {
+    "zh": "德性伦理",
+    "en": "virtue ethics"
+  },
+  {
+    "zh": "维特根斯坦",
+    "en": "Wittgenstein"
+  },
+  {
+    "zh": "救赎之星",
+    "en": "The Star of Redemption"
+  },
+  {
+    "zh": "对话",
+    "en": "dialogue"
+  },
+  {
+    "zh": "反黑格尔",
+    "en": "anti-Hegelianism"
+  },
+  {
+    "zh": "殖民心理",
+    "en": "colonial psychology"
+  },
+  {
+    "zh": "主体形成",
+    "en": "subject formation"
+  },
+  {
+    "zh": "民族解放",
+    "en": "national liberation"
+  },
+  {
+    "zh": "后殖民",
+    "en": "postcolonial"
+  },
+  {
+    "zh": "被压迫者教育学",
+    "en": "Pedagogy of the Oppressed"
+  },
+  {
+    "zh": "意识化",
+    "en": "conscientization"
+  },
+  {
+    "zh": "银行式教育批判",
+    "en": "critique of banking education"
+  },
+  {
+    "zh": "批判理论",
+    "en": "critical theory"
+  },
+  {
+    "zh": "工具理性",
+    "en": "instrumental reason"
+  },
+  {
+    "zh": "法兰克福学派",
+    "en": "Frankfurt School"
+  },
+  {
+    "zh": "启蒙辩证法",
+    "en": "Dialectic of Enlightenment"
+  },
+  {
+    "zh": "否定辩证法",
+    "en": "negative dialectics"
+  },
+  {
+    "zh": "文化工业",
+    "en": "culture industry"
+  },
+  {
+    "zh": "现代主义艺术",
+    "en": "modernist art"
+  },
+  {
+    "zh": "同一性批判",
+    "en": "critique of identity thinking"
+  },
+  {
+    "zh": "灵韵",
+    "en": "aura"
+  },
+  {
+    "zh": "机械复制",
+    "en": "mechanical reproduction"
+  },
+  {
+    "zh": "历史天使",
+    "en": "angel of history"
+  },
+  {
+    "zh": "拱廊计划",
+    "en": "Arcades Project"
+  },
+  {
+    "zh": "弥赛亚时间",
+    "en": "messianic time"
+  },
+  {
+    "zh": "马堡学派",
+    "en": "Marburg School"
+  },
+  {
+    "zh": "新康德主义",
+    "en": "Neo-Kantianism"
+  },
+  {
+    "zh": "纯粹认识",
+    "en": "pure cognition"
+  },
+  {
+    "zh": "纯粹意志",
+    "en": "pure will"
+  },
+  {
+    "zh": "理性宗教",
+    "en": "religion of reason"
+  },
+  {
+    "zh": "离执",
+    "en": "detachment (Abgeschiedenheit)"
+  },
+  {
+    "zh": "灵魂贫乏",
+    "en": "poverty of spirit"
+  },
+  {
+    "zh": "神在灵魂中诞生",
+    "en": "birth of God in the soul"
+  },
+  {
+    "zh": "否定神学",
+    "en": "negative theology"
+  },
+  {
+    "zh": "泰然任之",
+    "en": "Gelassenheit"
+  },
+  {
+    "zh": "有学问的无知",
+    "en": "learned ignorance"
+  },
+  {
+    "zh": "对立相合",
+    "en": "coincidence of opposites"
+  },
+  {
+    "zh": "无限最大者",
+    "en": "the absolute Maximum"
+  },
+  {
+    "zh": "猜测",
+    "en": "conjecture"
+  },
+  {
+    "zh": "宗教和平",
+    "en": "peace of faith"
+  },
+  {
+    "zh": "新科学",
+    "en": "New Science"
+  },
+  {
+    "zh": "verum factum",
+    "en": "verum factum"
+  },
+  {
+    "zh": "诗性智慧",
+    "en": "poetic wisdom"
+  },
+  {
+    "zh": "民族世界",
+    "en": "world of nations"
+  },
+  {
+    "zh": "反笛卡尔",
+    "en": "anti-Cartesianism"
+  },
+  {
+    "zh": "语言起源",
+    "en": "origin of language"
+  },
+  {
+    "zh": "民族精神",
+    "en": "national spirit (Volksgeist)"
+  },
+  {
+    "zh": "历史主义",
+    "en": "historicism"
+  },
+  {
+    "zh": "人道",
+    "en": "humanity (Humanität)"
+  },
+  {
+    "zh": "文化多样性",
+    "en": "cultural diversity"
+  },
+  {
+    "zh": "胡迪",
+    "en": "khudi (selfhood)"
+  },
+  {
+    "zh": "伊斯兰重构",
+    "en": "reconstruction of Islamic thought"
+  },
+  {
+    "zh": "创造性进程",
+    "en": "creative process"
+  },
+  {
+    "zh": "精神民主",
+    "en": "spiritual democracy"
+  },
+  {
+    "zh": "apoha",
+    "en": "apoha"
+  },
+  {
+    "zh": "刹那灭",
+    "en": "momentariness"
+  },
+  {
+    "zh": "他力",
+    "en": "other-power (tariki)"
+  },
+  {
+    "zh": "信心",
+    "en": "shinjin (entrusting faith)"
+  },
+  {
+    "zh": "念佛",
+    "en": "nembutsu"
+  },
+  {
+    "zh": "恶人正机",
+    "en": "the evil person as the true object"
+  },
+  {
+    "zh": "净土真宗",
+    "en": "Jodo Shinshu"
+  },
+  {
+    "zh": "天理",
+    "en": "Heavenly Principle"
+  },
+  {
+    "zh": "格物",
+    "en": "investigation of things"
+  },
+  {
+    "zh": "敬",
+    "en": "reverential attentiveness (jing)"
+  },
+  {
+    "zh": "性即理",
+    "en": "nature is principle"
+  },
+  {
+    "zh": "程朱理学",
+    "en": "Cheng-Zhu Learning"
+  },
+  {
+    "zh": "新理学",
+    "en": "New Rational Philosophy"
+  },
+  {
+    "zh": "中国哲学史",
+    "en": "history of Chinese philosophy"
+  },
+  {
+    "zh": "人生境界",
+    "en": "realms of life"
+  },
+  {
+    "zh": "理",
+    "en": "principle (li)"
+  },
+  {
+    "zh": "现代儒学",
+    "en": "modern Confucianism"
+  },
+  {
+    "zh": "道德形上学",
+    "en": "moral metaphysics"
+  },
+  {
+    "zh": "智的直觉",
+    "en": "intellectual intuition"
+  },
+  {
+    "zh": "良知",
+    "en": "liangzhi (innate moral knowing)"
+  },
+  {
+    "zh": "两层存有论",
+    "en": "two-level ontology"
+  },
+  {
+    "zh": "圆善",
+    "en": "perfect good"
+  },
+  {
+    "zh": "注意力",
+    "en": "attention"
+  },
+  {
+    "zh": "苦难",
+    "en": "affliction"
+  },
+  {
+    "zh": "重力与恩典",
+    "en": "Gravity and Grace"
+  },
+  {
+    "zh": "根",
+    "en": "rootedness"
+  },
+  {
+    "zh": "义务",
+    "en": "obligation"
+  },
+  {
+    "zh": "秘鲁现实",
+    "en": "Peruvian reality"
+  },
+  {
+    "zh": "土地问题",
+    "en": "land question"
+  },
+  {
+    "zh": "印第安问题",
+    "en": "Indigenous question"
+  },
+  {
+    "zh": "创造性社会主义",
+    "en": "creative socialism"
+  },
+  {
+    "zh": "阿毛塔",
+    "en": "Amauta"
+  },
+  {
+    "zh": "探究",
+    "en": "Hatata (Inquiry)"
+  },
+  {
+    "zh": "理性",
+    "en": "reason"
+  },
+  {
+    "zh": "自然光",
+    "en": "natural light"
+  },
+  {
+    "zh": "宗教宽容",
+    "en": "religious toleration"
+  },
+  {
+    "zh": "平等",
+    "en": "equality"
+  },
+  {
+    "zh": "社会伦理",
+    "en": "social ethics"
+  },
+  {
+    "zh": "教育",
+    "en": "education"
+  },
+  {
+    "zh": "实践智慧",
+    "en": "practical wisdom"
+  },
+  {
+    "zh": "非洲人格",
+    "en": "African personality"
+  },
+  {
+    "zh": "泛非主义",
+    "en": "Pan-Africanism"
+  },
+  {
+    "zh": "伊斯兰",
+    "en": "Islam"
+  },
+  {
+    "zh": "殖民批判",
+    "en": "critique of colonialism"
+  },
+  {
+    "zh": "良知主义",
+    "en": "consciencism"
+  },
+  {
+    "zh": "泛非统一",
+    "en": "Pan-African unity"
+  },
+  {
+    "zh": "新殖民主义",
+    "en": "neocolonialism"
+  },
+  {
+    "zh": "非洲社会主义",
+    "en": "African socialism"
+  },
+  {
+    "zh": "反帝国主义",
+    "en": "anti-imperialism"
+  },
+  {
+    "zh": "实践",
+    "en": "practice"
+  },
+  {
+    "zh": "传统",
+    "en": "tradition"
+  },
+  {
+    "zh": "叙事统一",
+    "en": "narrative unity"
+  },
+  {
+    "zh": "现代道德碎片化",
+    "en": "fragmentation of modern morality"
+  },
+  {
+    "zh": "新实用主义",
+    "en": "neopragmatism"
+  },
+  {
+    "zh": "反表象主义",
+    "en": "anti-representationalism"
+  },
+  {
+    "zh": "词汇",
+    "en": "vocabulary"
+  },
+  {
+    "zh": "自由主义反讽",
+    "en": "liberal ironist"
+  },
+  {
+    "zh": "民主希望",
+    "en": "democratic hope"
+  },
+  {
+    "zh": "刚性指称",
+    "en": "rigid designation"
+  },
+  {
+    "zh": "必然性",
+    "en": "necessity"
+  },
+  {
+    "zh": "可能世界",
+    "en": "possible worlds"
+  },
+  {
+    "zh": "命名",
+    "en": "naming"
+  },
+  {
+    "zh": "规则遵循",
+    "en": "rule-following"
+  },
+  {
+    "zh": "语义外在论",
+    "en": "semantic externalism"
+  },
+  {
+    "zh": "内在实在论",
+    "en": "internal realism"
+  },
+  {
+    "zh": "双生地球",
+    "en": "Twin Earth"
+  },
+  {
+    "zh": "事实价值纠缠",
+    "en": "fact-value entanglement"
+  },
+  {
+    "zh": "多重可实现性",
+    "en": "multiple realizability"
+  },
+  {
+    "zh": "真理论语义学",
+    "en": "truth-conditional semantics"
+  },
+  {
+    "zh": "激进解释",
+    "en": "radical interpretation"
+  },
+  {
+    "zh": "行动理由",
+    "en": "reasons for action"
+  },
+  {
+    "zh": "反常一元论",
+    "en": "anomalous monism"
+  },
+  {
+    "zh": "三角测量",
+    "en": "triangulation"
+  },
+  {
+    "zh": "差异",
+    "en": "difference"
+  },
+  {
+    "zh": "重复",
+    "en": "repetition"
+  },
+  {
+    "zh": "内在性",
+    "en": "immanence"
+  },
+  {
+    "zh": "欲望",
+    "en": "desire"
+  },
+  {
+    "zh": "生成",
+    "en": "becoming"
+  },
+  {
+    "zh": "解释学",
+    "en": "hermeneutics"
+  },
+  {
+    "zh": "象征",
+    "en": "symbol"
+  },
+  {
+    "zh": "隐喻",
+    "en": "metaphor"
+  },
+  {
+    "zh": "叙事身份",
+    "en": "narrative identity"
+  },
+  {
+    "zh": "承认",
+    "en": "recognition"
+  },
+  {
+    "zh": "理性化",
+    "en": "rationalization"
+  },
+  {
+    "zh": "新教伦理",
+    "en": "Protestant ethic"
+  },
+  {
+    "zh": "科层制",
+    "en": "bureaucracy"
+  },
+  {
+    "zh": "支配类型",
+    "en": "types of domination"
+  },
+  {
+    "zh": "志业",
+    "en": "vocation (Beruf)"
+  },
+  {
+    "zh": "虚无",
+    "en": "nihilism / nothingness"
+  },
+  {
+    "zh": "空",
+    "en": "emptiness (sunyata)"
+  },
+  {
+    "zh": "宗教哲学",
+    "en": "philosophy of religion"
+  },
+  {
+    "zh": "京都学派",
+    "en": "Kyoto School"
+  },
+  {
+    "zh": "自我超克",
+    "en": "self-overcoming"
+  },
+  {
+    "zh": "印度哲学",
+    "en": "Indian philosophy"
+  },
+  {
+    "zh": "比较宗教",
+    "en": "comparative religion"
+  },
+  {
+    "zh": "吠檀多",
+    "en": "Vedanta"
+  },
+  {
+    "zh": "直觉",
+    "en": "intuition"
+  },
+  {
+    "zh": "精神人文主义",
+    "en": "spiritual humanism"
+  },
+  {
+    "zh": "二元论吠檀多",
+    "en": "Dvaita Vedanta"
+  },
+  {
+    "zh": "毗湿奴信仰",
+    "en": "Vaishnavism"
+  },
+  {
+    "zh": "注疏",
+    "en": "commentary"
+  },
+  {
+    "zh": "解脱",
+    "en": "liberation"
+  },
+  {
+    "zh": "承认政治",
+    "en": "politics of recognition"
+  },
+  {
+    "zh": "现代自我",
+    "en": "modern self"
+  },
+  {
+    "zh": "世俗时代",
+    "en": "secular age"
+  },
+  {
+    "zh": "强评价",
+    "en": "strong evaluation"
+  },
+  {
+    "zh": "社群主义",
+    "en": "communitarianism"
+  },
+  {
+    "zh": "功利原则",
+    "en": "principle of utility"
+  },
+  {
+    "zh": "最大幸福",
+    "en": "greatest happiness"
+  },
+  {
+    "zh": "法改革",
+    "en": "legal reform"
+  },
+  {
+    "zh": "刑罚",
+    "en": "punishment"
+  },
+  {
+    "zh": "权利批判",
+    "en": "critique of rights"
+  },
+  {
+    "zh": "实证主义",
+    "en": "positivism"
+  },
+  {
+    "zh": "三阶段律",
+    "en": "law of three stages"
+  },
+  {
+    "zh": "科学分类",
+    "en": "classification of the sciences"
+  },
+  {
+    "zh": "社会学",
+    "en": "sociology"
+  },
+  {
+    "zh": "人类宗教",
+    "en": "Religion of Humanity"
+  },
+  {
+    "zh": "诠释学",
+    "en": "hermeneutics"
+  },
+  {
+    "zh": "宗教感情",
+    "en": "religious feeling"
+  },
+  {
+    "zh": "绝对依赖",
+    "en": "absolute dependence"
+  },
+  {
+    "zh": "浪漫主义神学",
+    "en": "Romantic theology"
+  },
+  {
+    "zh": "常识哲学",
+    "en": "common-sense philosophy"
+  },
+  {
+    "zh": "直接实在论",
+    "en": "direct realism"
+  },
+  {
+    "zh": "反怀疑论",
+    "en": "anti-skepticism"
+  },
+  {
+    "zh": "知觉",
+    "en": "perception"
+  },
+  {
+    "zh": "主动能力",
+    "en": "active power"
+  },
+  {
+    "zh": "民主",
+    "en": "democracy"
+  },
+  {
+    "zh": "平等条件",
+    "en": "equality of conditions"
+  },
+  {
+    "zh": "结社",
+    "en": "association"
+  },
+  {
+    "zh": "地方自治",
+    "en": "local self-government"
+  },
+  {
+    "zh": "温和专制",
+    "en": "soft despotism"
+  },
+  {
+    "zh": "霸权",
+    "en": "hegemony"
+  },
+  {
+    "zh": "市民社会",
+    "en": "civil society"
+  },
+  {
+    "zh": "有机知识分子",
+    "en": "organic intellectuals"
+  },
+  {
+    "zh": "阵地战",
+    "en": "war of position"
+  },
+  {
+    "zh": "被动革命",
+    "en": "passive revolution"
+  },
+  {
+    "zh": "物化",
+    "en": "reification"
+  },
+  {
+    "zh": "阶级意识",
+    "en": "class consciousness"
+  },
+  {
+    "zh": "总体性",
+    "en": "totality"
+  },
+  {
+    "zh": "辩证法",
+    "en": "dialectics"
+  },
+  {
+    "zh": "现实主义",
+    "en": "realism"
+  },
+  {
+    "zh": "希望原则",
+    "en": "Principle of Hope"
+  },
+  {
+    "zh": "乌托邦",
+    "en": "utopia"
+  },
+  {
+    "zh": "尚未意识",
+    "en": "not-yet consciousness"
+  },
+  {
+    "zh": "预期意识",
+    "en": "anticipatory consciousness"
+  },
+  {
+    "zh": "弥赛亚意象",
+    "en": "messianic imagery"
+  },
+  {
+    "zh": "单向度社会",
+    "en": "one-dimensional society"
+  },
+  {
+    "zh": "技术理性",
+    "en": "technological rationality"
+  },
+  {
+    "zh": "爱欲",
+    "en": "Eros"
+  },
+  {
+    "zh": "压抑性宽容",
+    "en": "repressive tolerance"
+  },
+  {
+    "zh": "解放",
+    "en": "liberation"
+  },
+  {
+    "zh": "逃避自由",
+    "en": "Escape from Freedom"
+  },
+  {
+    "zh": "社会性格",
+    "en": "social character"
+  },
+  {
+    "zh": "异化",
+    "en": "alienation"
+  },
+  {
+    "zh": "人本伦理",
+    "en": "humanistic ethics"
+  },
+  {
+    "zh": "占有与存在",
+    "en": "to have or to be"
+  },
+  {
+    "zh": "消极自由",
+    "en": "negative liberty"
+  },
+  {
+    "zh": "积极自由",
+    "en": "positive liberty"
+  },
+  {
+    "zh": "价值多元",
+    "en": "value pluralism"
+  },
+  {
+    "zh": "反决定论",
+    "en": "anti-determinism"
+  },
+  {
+    "zh": "思想史",
+    "en": "history of ideas"
+  },
+  {
+    "zh": "自发秩序",
+    "en": "spontaneous order"
+  },
+  {
+    "zh": "知识问题",
+    "en": "knowledge problem"
+  },
+  {
+    "zh": "法治",
+    "en": "rule of law"
+  },
+  {
+    "zh": "计划批判",
+    "en": "critique of planning"
+  },
+  {
+    "zh": "市场秩序",
+    "en": "market order"
+  },
+  {
+    "zh": "主权",
+    "en": "sovereignty"
+  },
+  {
+    "zh": "例外状态",
+    "en": "state of exception"
+  },
+  {
+    "zh": "敌友区分",
+    "en": "friend-enemy distinction"
+  },
+  {
+    "zh": "政治神学",
+    "en": "political theology"
+  },
+  {
+    "zh": "议会制批判",
+    "en": "critique of parliamentarism"
+  },
+  {
+    "zh": "表现美学",
+    "en": "aesthetics of expression"
+  },
+  {
+    "zh": "自由史观",
+    "en": "liberal philosophy of history"
+  },
+  {
+    "zh": "精神哲学",
+    "en": "philosophy of the spirit"
+  },
+  {
+    "zh": "维柯复兴",
+    "en": "Vico revival"
+  },
+  {
+    "zh": "孔门",
+    "en": "Confucius's disciples"
+  },
+  {
+    "zh": "仁学",
+    "en": "learning of ren"
+  },
+  {
+    "zh": "安贫乐道",
+    "en": "contentment in poverty with the Way"
+  },
+  {
+    "zh": "孝道",
+    "en": "filial piety"
+  },
+  {
+    "zh": "大学",
+    "en": "the Great Learning"
+  },
+  {
+    "zh": "中庸",
+    "en": "the Doctrine of the Mean"
+  },
+  {
+    "zh": "孔门后学",
+    "en": "later Confucian disciples"
+  },
+  {
+    "zh": "性命",
+    "en": "nature and destiny (xing-ming)"
+  },
+  {
+    "zh": "外交",
+    "en": "diplomacy"
+  },
+  {
+    "zh": "言语科",
+    "en": "speech division"
+  },
+  {
+    "zh": "法家",
+    "en": "Legalism"
+  },
+  {
+    "zh": "变法",
+    "en": "institutional reform"
+  },
+  {
+    "zh": "秦国",
+    "en": "state of Qin"
+  },
+  {
+    "zh": "官僚制",
+    "en": "bureaucracy"
+  },
+  {
+    "zh": "黄老",
+    "en": "Huang-Lao"
+  },
+  {
+    "zh": "稷下",
+    "en": "Jixia"
+  },
+  {
+    "zh": "名家",
+    "en": "School of Names"
+  },
+  {
+    "zh": "辩者",
+    "en": "disputers"
+  },
+  {
+    "zh": "合同异",
+    "en": "uniting same and different"
+  },
+  {
+    "zh": "白马非马",
+    "en": "a white horse is not a horse"
+  },
+  {
+    "zh": "辩学",
+    "en": "disputation"
+  },
+  {
+    "zh": "为我",
+    "en": "for myself"
+  },
+  {
+    "zh": "贵己",
+    "en": "valuing the self"
+  },
+  {
+    "zh": "孟子批判",
+    "en": "Mencius's critique"
+  },
+  {
+    "zh": "农家",
+    "en": "Agriculturalist school"
+  },
+  {
+    "zh": "并耕",
+    "en": "tilling together"
+  },
+  {
+    "zh": "孟子辩论",
+    "en": "debate with Mencius"
+  },
+  {
+    "zh": "阴阳家",
+    "en": "Yin-Yang school"
+  },
+  {
+    "zh": "五德终始",
+    "en": "five-virtues succession"
+  },
+  {
+    "zh": "兼爱非斗",
+    "en": "universal love and non-contention"
+  },
+  {
+    "zh": "寡欲",
+    "en": "few desires"
+  },
+  {
+    "zh": "名实",
+    "en": "names and realities"
+  },
+  {
+    "zh": "尹文子",
+    "en": "Yin Wenzi"
+  },
+  {
+    "zh": "齐桓公",
+    "en": "Duke Huan of Qi"
+  },
+  {
+    "zh": "霸政",
+    "en": "hegemonic politics"
+  },
+  {
+    "zh": "管子",
+    "en": "Guanzi"
+  },
+  {
+    "zh": "齐国",
+    "en": "State of Qi"
+  },
+  {
+    "zh": "谏诤",
+    "en": "remonstrance"
+  },
+  {
+    "zh": "晏子春秋",
+    "en": "Yanzi chunqiu"
+  },
+  {
+    "zh": "兵法",
+    "en": "art of war"
+  },
+  {
+    "zh": "吴国",
+    "en": "State of Wu"
+  },
+  {
+    "zh": "谋略",
+    "en": "strategy"
+  },
+  {
+    "zh": "兵家",
+    "en": "Military school"
+  },
+  {
+    "zh": "吴子",
+    "en": "Wuzi"
+  },
+  {
+    "zh": "吕氏春秋",
+    "en": "Lüshi chunqiu"
+  },
+  {
+    "zh": "秦相",
+    "en": "Qin chancellor"
+  },
+  {
+    "zh": "杂家",
+    "en": "Eclectic school"
+  },
+  {
+    "zh": "秦制",
+    "en": "Qin institutions"
+  },
+  {
+    "zh": "小篆",
+    "en": "small seal script"
+  },
+  {
+    "zh": "谏逐客书",
+    "en": "Remonstrance Against Expelling Guests"
+  },
+  {
+    "zh": "春秋繁露",
+    "en": "Luxuriant Dew of the Spring and Autumn Annals"
+  },
+  {
+    "zh": "天人感应",
+    "en": "resonance of Heaven and humanity"
+  },
+  {
+    "zh": "汉儒",
+    "en": "Han Confucianism"
+  },
+  {
+    "zh": "法言",
+    "en": "Model Sayings"
+  },
+  {
+    "zh": "太玄",
+    "en": "Supreme Mystery"
+  },
+  {
+    "zh": "拟经",
+    "en": "imitating the classics"
+  },
+  {
+    "zh": "论衡",
+    "en": "Balanced Discourses"
+  },
+  {
+    "zh": "疾虚妄",
+    "en": "attacking the empty and false"
+  },
+  {
+    "zh": "自然论",
+    "en": "naturalism"
+  },
+  {
+    "zh": "淮南子",
+    "en": "Huainanzi"
+  },
+  {
+    "zh": "诸子汇编",
+    "en": "compendium of the masters"
+  },
+  {
+    "zh": "新语",
+    "en": "New Discourses"
+  },
+  {
+    "zh": "汉初儒生",
+    "en": "early Han Confucian scholars"
+  },
+  {
+    "zh": "马上治天下",
+    "en": "ruling the realm from horseback"
+  },
+  {
+    "zh": "新书",
+    "en": "New Writings"
+  },
+  {
+    "zh": "过秦论",
+    "en": "Faults of Qin"
+  },
+  {
+    "zh": "汉初政论",
+    "en": "early Han political essays"
+  },
+  {
+    "zh": "论六家要旨",
+    "en": "Essentials of the Six Schools"
+  },
+  {
+    "zh": "太史令",
+    "en": "Grand Historian"
+  },
+  {
+    "zh": "史记前史",
+    "en": "prehistory of the Shiji"
+  },
+  {
+    "zh": "史记",
+    "en": "Records of the Grand Historian"
+  },
+  {
+    "zh": "太史公",
+    "en": "Grand Scribe"
+  },
+  {
+    "zh": "究天人之际",
+    "en": "fathoming the boundary of Heaven and humanity"
+  },
+  {
+    "zh": "新论",
+    "en": "New Discourses"
+  },
+  {
+    "zh": "反谶纬",
+    "en": "anti-omen lore"
+  },
+  {
+    "zh": "东汉思想",
+    "en": "Eastern Han thought"
+  },
+  {
+    "zh": "经学",
+    "en": "classical scholarship"
+  },
+  {
+    "zh": "郑笺",
+    "en": "Zheng's annotations"
+  },
+  {
+    "zh": "汉末注疏",
+    "en": "late Han commentaries"
+  },
+  {
+    "zh": "中论",
+    "en": "Balanced Discourses (Zhonglun)"
+  },
+  {
+    "zh": "建安七子",
+    "en": "Seven Masters of Jian'an"
+  },
+  {
+    "zh": "潜夫论",
+    "en": "Discourses of a Recluse"
+  },
+  {
+    "zh": "隐士批判",
+    "en": "critique of reclusion"
+  },
+  {
+    "zh": "东汉政论",
+    "en": "Eastern Han political essays"
+  },
+  {
+    "zh": "申鉴",
+    "en": "Extended Reflections"
+  },
+  {
+    "zh": "汉纪",
+    "en": "Han Annals"
+  },
+  {
+    "zh": "荀氏",
+    "en": "Xun lineage"
+  },
+  {
+    "zh": "昌言",
+    "en": "Frank Words"
+  },
+  {
+    "zh": "汉末政论",
+    "en": "late Han political essays"
+  },
+  {
+    "zh": "士人独立",
+    "en": "literati independence"
+  },
+  {
+    "zh": "说苑",
+    "en": "Garden of Persuasions"
+  },
+  {
+    "zh": "新序",
+    "en": "New Prefaces"
+  },
+  {
+    "zh": "校书",
+    "en": "collation of texts"
+  },
+  {
+    "zh": "七略",
+    "en": "Seven Summaries"
+  },
+  {
+    "zh": "古文经学",
+    "en": "Old Text classicism"
+  },
+  {
+    "zh": "玄学",
+    "en": "xuanxue"
+  },
+  {
+    "zh": "论语集解",
+    "en": "Collected Explanations of the Analects"
+  },
+  {
+    "zh": "贵无",
+    "en": "valuing non-being"
+  },
+  {
+    "zh": "竹林七贤",
+    "en": "Seven Sages of the Bamboo Grove"
+  },
+  {
+    "zh": "达庄论",
+    "en": "Discourse on Understanding Zhuangzi"
+  },
+  {
+    "zh": "大人先生传",
+    "en": "Biography of the Great Man"
+  },
+  {
+    "zh": "声无哀乐论",
+    "en": "Music Has Neither Grief nor Joy"
+  },
+  {
+    "zh": "养生论",
+    "en": "On Nourishing Life"
+  },
+  {
+    "zh": "庄子注",
+    "en": "Commentary on the Zhuangzi"
+  },
+  {
+    "zh": "自然名教",
+    "en": "nature and the teaching of names"
+  },
+  {
+    "zh": "崇有论",
+    "en": "On Esteeming Being"
+  },
+  {
+    "zh": "反贵无",
+    "en": "anti-valuing-non-being"
+  },
+  {
+    "zh": "西晋玄学",
+    "en": "Western Jin xuanxue"
+  },
+  {
+    "zh": "抱朴子",
+    "en": "Baopuzi"
+  },
+  {
+    "zh": "神仙传",
+    "en": "Biographies of Immortals"
+  },
+  {
+    "zh": "道教",
+    "en": "Daoism"
+  },
+  {
+    "zh": "神灭论",
+    "en": "On the Extinction of the Soul"
+  },
+  {
+    "zh": "形神关系",
+    "en": "form-spirit relation"
+  },
+  {
+    "zh": "反佛论",
+    "en": "anti-Buddhist argument"
+  },
+  {
+    "zh": "上清派",
+    "en": "Shangqing school"
+  },
+  {
+    "zh": "真诰",
+    "en": "Declarations of the Perfected"
+  },
+  {
+    "zh": "本草经集注",
+    "en": "Collected Commentaries on the Materia Medica"
+  },
+  {
+    "zh": "灵宝派",
+    "en": "Lingbao school"
+  },
+  {
+    "zh": "三洞目录",
+    "en": "Three Caverns catalog"
+  },
+  {
+    "zh": "斋仪",
+    "en": "zhai ritual"
+  },
+  {
+    "zh": "北天师道",
+    "en": "Northern Celestial Masters"
+  },
+  {
+    "zh": "太平真君",
+    "en": "Taiping Zhenjun"
+  },
+  {
+    "zh": "老君音诵诫经",
+    "en": "Lord Lao's New Code of Commandments"
+  },
+  {
+    "zh": "重玄学",
+    "en": "Chongxuan learning"
+  },
+  {
+    "zh": "老子义疏",
+    "en": "subcommentary on the Laozi"
+  },
+  {
+    "zh": "庄子疏",
+    "en": "commentary on the Zhuangzi"
+  },
+  {
+    "zh": "格义批判",
+    "en": "critique of geyi matching"
+  },
+  {
+    "zh": "僧团制度",
+    "en": "sangha institutions"
+  },
+  {
+    "zh": "经录",
+    "en": "scripture catalogs"
+  },
+  {
+    "zh": "庐山",
+    "en": "Mount Lu"
+  },
+  {
+    "zh": "沙门不敬王者论",
+    "en": "Monks Should Not Bow to Kings"
+  },
+  {
+    "zh": "净土",
+    "en": "Pure Land"
+  },
+  {
+    "zh": "顿悟成佛",
+    "en": "sudden enlightenment to Buddhahood"
+  },
+  {
+    "zh": "一阐提",
+    "en": "icchantika"
+  },
+  {
+    "zh": "涅槃学",
+    "en": "nirvāṇa studies"
+  },
+  {
+    "zh": "三论宗",
+    "en": "Three Treatise School"
+  },
+  {
+    "zh": "中观",
+    "en": "Madhyamaka"
+  },
+  {
+    "zh": "二谛",
+    "en": "two truths"
+  },
+  {
+    "zh": "唯识",
+    "en": "Yogācāra / consciousness-only"
+  },
+  {
+    "zh": "大唐西域记",
+    "en": "Great Tang Records on the Western Regions"
+  },
+  {
+    "zh": "译经",
+    "en": "scripture translation"
+  },
+  {
+    "zh": "慈恩宗",
+    "en": "Ci'en school"
+  },
+  {
+    "zh": "成唯识论述记",
+    "en": "Commentary on the Cheng weishi lun"
+  },
+  {
+    "zh": "法相",
+    "en": "Faxiang"
+  },
+  {
+    "zh": "律宗",
+    "en": "Vinaya School"
+  },
+  {
+    "zh": "续高僧传",
+    "en": "Further Biographies of Eminent Monks"
+  },
+  {
+    "zh": "四分律行事钞",
+    "en": "Commentary on the Dharmaguptaka Vinaya"
+  },
+  {
+    "zh": "往生论注",
+    "en": "Commentary on the Treatise on Birth"
+  },
+  {
+    "zh": "净土宗",
+    "en": "Pure Land school"
+  },
+  {
+    "zh": "观经疏",
+    "en": "Commentary on the Contemplation Sutra"
+  },
+  {
+    "zh": "称名念佛",
+    "en": "nembutsu of the Name"
+  },
+  {
+    "zh": "华严宗",
+    "en": "Huayan school"
+  },
+  {
+    "zh": "禅源诸诠集都序",
+    "en": "Preface to the Collection on the Sources of Chan"
+  },
+  {
+    "zh": "原人论",
+    "en": "Inquiry into the Origin of Humanity"
+  },
+  {
+    "zh": "宗镜录",
+    "en": "Records of the Source-Mirror"
+  },
+  {
+    "zh": "万善同归集",
+    "en": "Collection on the Common Return of Myriad Goods"
+  },
+  {
+    "zh": "禅净合流",
+    "en": "Chan-Pure Land confluence"
+  },
+  {
+    "zh": "原道",
+    "en": "Yuan Dao (On the Origin of the Way)"
+  },
+  {
+    "zh": "古文运动",
+    "en": "Ancient Prose Movement"
+  },
+  {
+    "zh": "排佛",
+    "en": "anti-Buddhism"
+  },
+  {
+    "zh": "复性书",
+    "en": "Book of Returning to Nature"
+  },
+  {
+    "zh": "唐代儒学",
+    "en": "Tang Confucianism"
+  },
+  {
+    "zh": "天说",
+    "en": "Discourse on Heaven"
+  },
+  {
+    "zh": "封建论",
+    "en": "On Fengjian"
+  },
+  {
+    "zh": "永州八记",
+    "en": "Eight Records of Yongzhou"
+  },
+  {
+    "zh": "盱江先生",
+    "en": "Master Xujiang"
+  },
+  {
+    "zh": "周礼致太平论",
+    "en": "On the Zhouli Bringing Great Peace"
+  },
+  {
+    "zh": "礼论",
+    "en": "discourse on ritual"
+  },
+  {
+    "zh": "安定先生",
+    "en": "Master Anding"
+  },
+  {
+    "zh": "苏湖教法",
+    "en": "Su-Hu teaching method"
+  },
+  {
+    "zh": "经世教育",
+    "en": "statecraft education"
+  },
+  {
+    "zh": "皇极经世",
+    "en": "Supreme Principles Governing the World"
+  },
+  {
+    "zh": "观物",
+    "en": "observing things"
+  },
+  {
+    "zh": "象数学",
+    "en": "image-number learning"
+  },
+  {
+    "zh": "资治通鉴",
+    "en": "Comprehensive Mirror for Aid in Government"
+  },
+  {
+    "zh": "潜虚",
+    "en": "Hidden Vacuity"
+  },
+  {
+    "zh": "保守政治",
+    "en": "conservative politics"
+  },
+  {
+    "zh": "东坡易传",
+    "en": "Dongpo's Commentary on the Changes"
+  },
+  {
+    "zh": "苏轼文集",
+    "en": "Collected Works of Su Shi"
+  },
+  {
+    "zh": "通达",
+    "en": "open-minded equanimity"
+  },
+  {
+    "zh": "豫章先生",
+    "en": "Master Yuzhang"
+  },
+  {
+    "zh": "程门后学",
+    "en": "later Cheng disciples"
+  },
+  {
+    "zh": "闽学前驱",
+    "en": "forerunner of Min Learning"
+  },
+  {
+    "zh": "知言",
+    "en": "Understanding Words (Zhiyan)"
+  },
+  {
+    "zh": "湖湘学派",
+    "en": "Huxiang School"
+  },
+  {
+    "zh": "性体",
+    "en": "nature as substance"
+  },
+  {
+    "zh": "南轩先生",
+    "en": "Master Nanxuan"
+  },
+  {
+    "zh": "敬义",
+    "en": "reverence and righteousness"
+  },
+  {
+    "zh": "永康学派",
+    "en": "Yongkang School"
+  },
+  {
+    "zh": "事功",
+    "en": "practical accomplishment (shigong)"
+  },
+  {
+    "zh": "龙川文集",
+    "en": "Longchuan Collected Works"
+  },
+  {
+    "zh": "永嘉学派",
+    "en": "Yongjia school"
+  },
+  {
+    "zh": "习学记言序目",
+    "en": "Sequential Record of Learning and Words"
+  },
+  {
+    "zh": "水心",
+    "en": "Shuixin"
+  },
+  {
+    "zh": "草庐先生",
+    "en": "Master Caolu"
+  },
+  {
+    "zh": "礼记纂言",
+    "en": "Collected Sayings on the Record of Rites"
+  },
+  {
+    "zh": "元代理学",
+    "en": "Yuan Neo-Confucianism"
+  },
+  {
+    "zh": "鲁斋",
+    "en": "Luzhai"
+  },
+  {
+    "zh": "元初儒学",
+    "en": "early Yuan Confucianism"
+  },
+  {
+    "zh": "小学大学直解",
+    "en": "Direct Explanations of the Elementary Learning and Great Learning"
+  },
+  {
+    "zh": "康斋",
+    "en": "Kangzhai"
+  },
+  {
+    "zh": "明代理学",
+    "en": "Ming Neo-Confucianism"
+  },
+  {
+    "zh": "静坐读书",
+    "en": "quiet sitting and reading"
+  },
+  {
+    "zh": "白沙心学",
+    "en": "Baisha Learning of the Mind"
+  },
+  {
+    "zh": "静坐",
+    "en": "quiet-sitting"
+  },
+  {
+    "zh": "自然自得",
+    "en": "natural self-attainment"
+  },
+  {
+    "zh": "河东学派",
+    "en": "Hedong school"
+  },
+  {
+    "zh": "读书录",
+    "en": "Record of Reading"
+  },
+  {
+    "zh": "复性",
+    "en": "returning to nature"
+  },
+  {
+    "zh": "困知记",
+    "en": "Knowledge Painfully Acquired"
+  },
+  {
+    "zh": "理气一物",
+    "en": "li and qi as one thing"
+  },
+  {
+    "zh": "反王学",
+    "en": "critique of Wang Yangming Learning"
+  },
+  {
+    "zh": "慎言",
+    "en": "Cautious Words"
+  },
+  {
+    "zh": "气一元论",
+    "en": "qi monism"
+  },
+  {
+    "zh": "甘泉学派",
+    "en": "Ganquan school"
+  },
+  {
+    "zh": "随处体认天理",
+    "en": "embodying heavenly principle everywhere"
+  },
+  {
+    "zh": "心性图说",
+    "en": "Diagram Discourse on Mind-Nature"
+  },
+  {
+    "zh": "泰州学派",
+    "en": "Taizhou school"
+  },
+  {
+    "zh": "百姓日用即道",
+    "en": "the Way is the people's daily use"
+  },
+  {
+    "zh": "格物安身",
+    "en": "investigating things to settle the self"
+  },
+  {
+    "zh": "近溪",
+    "en": "Jinxi"
+  },
+  {
+    "zh": "赤子良心",
+    "en": "childlike conscience"
+  },
+  {
+    "zh": "焚书",
+    "en": "A Book to Burn"
+  },
+  {
+    "zh": "童心说",
+    "en": "doctrine of the childlike mind"
+  },
+  {
+    "zh": "异端",
+    "en": "heterodoxy"
+  },
+  {
+    "zh": "东林书院",
+    "en": "Donglin Academy"
+  },
+  {
+    "zh": "顾端文公遗书",
+    "en": "Surviving Works of Gu Duanwen"
+  },
+  {
+    "zh": "讲学",
+    "en": "public lecturing"
+  },
+  {
+    "zh": "东林",
+    "en": "Donglin"
+  },
+  {
+    "zh": "高子遗书",
+    "en": "Surviving Works of Master Gao"
+  },
+  {
+    "zh": "蕺山学派",
+    "en": "Jishan School"
+  },
+  {
+    "zh": "慎独",
+    "en": "vigilant solitude (shendu)"
+  },
+  {
+    "zh": "人谱",
+    "en": "Human Spectrum"
+  },
+  {
+    "zh": "明夷待访录",
+    "en": "Waiting for the Dawn"
+  },
+  {
+    "zh": "明儒学案",
+    "en": "Cases of Ming Confucians"
+  },
+  {
+    "zh": "浙东学术",
+    "en": "Eastern Zhejiang scholarship"
+  },
+  {
+    "zh": "日知录",
+    "en": "Record of Daily Knowledge"
+  },
+  {
+    "zh": "经世致用",
+    "en": "statecraft practical learning"
+  },
+  {
+    "zh": "考据",
+    "en": "evidential scholarship (kaozheng)"
+  },
+  {
+    "zh": "东西均",
+    "en": "Equalizing East and West"
+  },
+  {
+    "zh": "物理小识",
+    "en": "Notes on the Principles of Things"
+  },
+  {
+    "zh": "质测通几",
+    "en": "empirical measurement and penetrating the subtle"
+  },
+  {
+    "zh": "大学辨",
+    "en": "Disputing the Great Learning"
+  },
+  {
+    "zh": "反理学教条",
+    "en": "anti-Neo-Confucian dogma"
+  },
+  {
+    "zh": "清初儒学",
+    "en": "early Qing Confucianism"
+  },
+  {
+    "zh": "潜书",
+    "en": "Hidden Book"
+  },
+  {
+    "zh": "君主批判",
+    "en": "critique of monarchy"
+  },
+  {
+    "zh": "经世",
+    "en": "statecraft"
+  },
+  {
+    "zh": "习斋",
+    "en": "Xizhai"
+  },
+  {
+    "zh": "实学",
+    "en": "practical learning"
+  },
+  {
+    "zh": "存学编",
+    "en": "Preserving Learning"
+  },
+  {
+    "zh": "恕谷",
+    "en": "Shugu"
+  },
+  {
+    "zh": "颜李学派",
+    "en": "Yan-Li school"
+  },
+  {
+    "zh": "实学教育",
+    "en": "practical-learning education"
+  },
+  {
+    "zh": "三鱼堂",
+    "en": "Sanyutang"
+  },
+  {
+    "zh": "朱子学",
+    "en": "Zhu Xi Learning"
+  },
+  {
+    "zh": "清初循吏",
+    "en": "early Qing upright official"
+  },
+  {
+    "zh": "经问",
+    "en": "Questions on the Classics"
+  },
+  {
+    "zh": "四书改错",
+    "en": "Corrections to the Four Books"
+  },
+  {
+    "zh": "反朱子",
+    "en": "anti-Zhu Xi"
+  },
+  {
+    "zh": "文史通义",
+    "en": "General Meaning of Literature and History"
+  },
+  {
+    "zh": "六经皆史",
+    "en": "the Six Classics are all history"
+  },
+  {
+    "zh": "校雠通义",
+    "en": "General Principles of Collation"
+  },
+  {
+    "zh": "考信录",
+    "en": "Records Examining Credibility"
+  },
+  {
+    "zh": "疑古",
+    "en": "doubting antiquity"
+  },
+  {
+    "zh": "经史考辨",
+    "en": "classics-history criticism"
+  },
+  {
+    "zh": "经籍纂诂",
+    "en": "Collected Glosses on the Classics"
+  },
+  {
+    "zh": "揅经室集",
+    "en": "Yanjingshi Collected Works"
+  },
+  {
+    "zh": "乾嘉学术",
+    "en": "Qian-Jia scholarship"
+  },
+  {
+    "zh": "孟子正义",
+    "en": "Correct Meaning of the Mencius"
+  },
+  {
+    "zh": "易通释",
+    "en": "Comprehensive Explanation of the Changes"
+  },
+  {
+    "zh": "扬州学派",
+    "en": "Yangzhou School"
+  },
+  {
+    "zh": "己亥杂诗",
+    "en": "Jihai Miscellaneous Poems"
+  },
+  {
+    "zh": "明良论",
+    "en": "On Enlightened Rulers and Good Ministers"
+  },
+  {
+    "zh": "经世改革",
+    "en": "statecraft reform"
+  },
+  {
+    "zh": "海国图志",
+    "en": "Illustrated Treatise on the Maritime Kingdoms"
+  },
+  {
+    "zh": "师夷长技",
+    "en": "learn barbarian skills"
+  },
+  {
+    "zh": "启蒙",
+    "en": "Enlightenment"
+  },
+  {
+    "zh": "宽容",
+    "en": "tolerance"
+  },
+  {
+    "zh": "反教权",
+    "en": "anti-clericalism"
+  },
+  {
+    "zh": "百科全书",
+    "en": "Encyclopédie"
+  },
+  {
+    "zh": "唯物论",
+    "en": "materialism"
+  },
+  {
+    "zh": "美学",
+    "en": "aesthetics"
+  },
+  {
+    "zh": "分权",
+    "en": "separation of powers"
+  },
+  {
+    "zh": "政体论",
+    "en": "theory of regimes"
+  },
+  {
+    "zh": "法精神",
+    "en": "spirit of the laws"
+  },
+  {
+    "zh": "感觉论",
+    "en": "sensationalism"
+  },
+  {
+    "zh": "经验论",
+    "en": "empiricism"
+  },
+  {
+    "zh": "进步史观",
+    "en": "philosophy of progress"
+  },
+  {
+    "zh": "社会数学",
+    "en": "social mathematics"
+  },
+  {
+    "zh": "启蒙政治",
+    "en": "Enlightenment politics"
+  },
+  {
+    "zh": "决定论",
+    "en": "determinism"
+  },
+  {
+    "zh": "无神论",
+    "en": "atheism"
+  },
+  {
+    "zh": "感觉论伦理",
+    "en": "sensationalist ethics"
+  },
+  {
+    "zh": "功利",
+    "en": "utility"
+  },
+  {
+    "zh": "机械唯物论",
+    "en": "mechanistic materialism"
+  },
+  {
+    "zh": "身心问题",
+    "en": "mind-body problem"
+  },
+  {
+    "zh": "人是机器",
+    "en": "Man a Machine"
+  },
+  {
+    "zh": "偶因论",
+    "en": "occasionalism"
+  },
+  {
+    "zh": "笛卡尔主义",
+    "en": "Cartesianism"
+  },
+  {
+    "zh": "神学形而上学",
+    "en": "theological metaphysics"
+  },
+  {
+    "zh": "原子论",
+    "en": "atomism"
+  },
+  {
+    "zh": "伊壁鸠鲁复兴",
+    "en": "Epicurean revival"
+  },
+  {
+    "zh": "笛卡尔批评",
+    "en": "critique of Descartes"
+  },
+  {
+    "zh": "怀疑论",
+    "en": "skepticism"
+  },
+  {
+    "zh": "历史批判辞典",
+    "en": "Historical and Critical Dictionary"
+  },
+  {
+    "zh": "意志",
+    "en": "will"
+  },
+  {
+    "zh": "努力",
+    "en": "effort"
+  },
+  {
+    "zh": "内在经验",
+    "en": "inner experience"
+  },
+  {
+    "zh": "折衷主义",
+    "en": "eclecticism"
+  },
+  {
+    "zh": "学院哲学",
+    "en": "academic philosophy"
+  },
+  {
+    "zh": "观念论接受",
+    "en": "reception of idealism"
+  },
+  {
+    "zh": "新批判主义",
+    "en": "neo-criticism"
+  },
+  {
+    "zh": "自由意志",
+    "en": "free will"
+  },
+  {
+    "zh": "康德接受",
+    "en": "reception of Kant"
+  },
+  {
+    "zh": "习惯",
+    "en": "habit"
+  },
+  {
+    "zh": "亚里士多德研究",
+    "en": "Aristotelian studies"
+  },
+  {
+    "zh": "生命哲学",
+    "en": "philosophy of life"
+  },
+  {
+    "zh": "偶然性",
+    "en": "contingency"
+  },
+  {
+    "zh": "自然律",
+    "en": "laws of nature"
+  },
+  {
+    "zh": "决定论批判",
+    "en": "critique of determinism"
+  },
+  {
+    "zh": "梵经",
+    "en": "Brahma Sūtras"
+  },
+  {
+    "zh": "传统归属",
+    "en": "traditional attribution"
+  },
+  {
+    "zh": "数论",
+    "en": "Sāṃkhya"
+  },
+  {
+    "zh": "二元论",
+    "en": "dualism"
+  },
+  {
+    "zh": "三德",
+    "en": "three guṇas"
+  },
+  {
+    "zh": "正理经",
+    "en": "Nyāya Sūtra"
+  },
+  {
+    "zh": "逻辑",
+    "en": "logic"
+  },
+  {
+    "zh": "知识论",
+    "en": "epistemology"
+  },
+  {
+    "zh": "句词论",
+    "en": "Vākyapadīya"
+  },
+  {
+    "zh": "语言哲学",
+    "en": "philosophy of language"
+  },
+  {
+    "zh": "声常",
+    "en": "eternality of sound (śabda)"
+  },
+  {
+    "zh": "弥曼差",
+    "en": "Mīmāṃsā"
+  },
+  {
+    "zh": "量论争辩",
+    "en": "pramāṇa debates"
+  },
+  {
+    "zh": "经典权威",
+    "en": "scriptural authority"
+  },
+  {
+    "zh": "正理派",
+    "en": "Nyāya school"
+  },
+  {
+    "zh": "神存在论证",
+    "en": "arguments for God's existence"
+  },
+  {
+    "zh": "反佛教论证",
+    "en": "anti-Buddhist arguments"
+  },
+  {
+    "zh": "新正理",
+    "en": "Navya-Nyāya"
+  },
+  {
+    "zh": "克什米尔湿婆派",
+    "en": "Kashmir Śaivism"
+  },
+  {
+    "zh": "味论",
+    "en": "rasa theory"
+  },
+  {
+    "zh": "新吠檀多",
+    "en": "neo-Vedānta"
+  },
+  {
+    "zh": "印度现代思想",
+    "en": "modern Indian thought"
+  },
+  {
+    "zh": "宗教传播",
+    "en": "religious transmission"
+  },
+  {
+    "zh": "整体瑜伽",
+    "en": "Integral Yoga"
+  },
+  {
+    "zh": "进化灵性",
+    "en": "evolutionary spirituality"
+  },
+  {
+    "zh": "近现代印度",
+    "en": "modern India"
+  },
+  {
+    "zh": "真言宗",
+    "en": "Shingon"
+  },
+  {
+    "zh": "入唐求法",
+    "en": "study in Tang China"
+  },
+  {
+    "zh": "密教",
+    "en": "esoteric Buddhism"
+  },
+  {
+    "zh": "专修念佛",
+    "en": "exclusive nembutsu"
+  },
+  {
+    "zh": "日本佛教",
+    "en": "Japanese Buddhism"
+  },
+  {
+    "zh": "法华信仰",
+    "en": "Lotus faith"
+  },
+  {
+    "zh": "日莲宗",
+    "en": "Nichiren school"
+  },
+  {
+    "zh": "护国论",
+    "en": "national protection doctrine"
+  },
+  {
+    "zh": "临济禅",
+    "en": "Rinzai Zen"
+  },
+  {
+    "zh": "公案",
+    "en": "kōan"
+  },
+  {
+    "zh": "禅宗中兴",
+    "en": "Zen revival"
+  },
+  {
+    "zh": "古学派",
+    "en": "Ancient Learning school"
+  },
+  {
+    "zh": "孔孟",
+    "en": "Confucius and Mencius"
+  },
+  {
+    "zh": "朱子学批评",
+    "en": "critique of Zhu Xi Learning"
+  },
+  {
+    "zh": "古文辞学",
+    "en": "ancient rhetoric studies"
+  },
+  {
+    "zh": "礼乐制度",
+    "en": "ritual and music institutions"
+  },
+  {
+    "zh": "江户儒学",
+    "en": "Edo Confucianism"
+  },
+  {
+    "zh": "国学",
+    "en": "kokugaku"
+  },
+  {
+    "zh": "物哀",
+    "en": "mono no aware"
+  },
+  {
+    "zh": "古事记传",
+    "en": "Commentary on the Kojiki"
+  },
+  {
+    "zh": "明治启蒙",
+    "en": "Meiji Enlightenment"
+  },
+  {
+    "zh": "文明论",
+    "en": "civilization theory"
+  },
+  {
+    "zh": "独立自尊",
+    "en": "independence and self-respect"
+  },
+  {
+    "zh": "粹",
+    "en": "iki"
+  },
+  {
+    "zh": "种的逻辑",
+    "en": "logic of species"
+  },
+  {
+    "zh": "忏悔道",
+    "en": "metanoetics"
+  },
+  {
+    "zh": "和诤",
+    "en": "harmony of disputes"
+  },
+  {
+    "zh": "曹溪宗",
+    "en": "Jogye Order"
+  },
+  {
+    "zh": "顿悟渐修",
+    "en": "sudden enlightenment, gradual cultivation"
+  },
+  {
+    "zh": "朝鲜禅",
+    "en": "Korean Seon"
+  },
+  {
+    "zh": "朝鲜儒学",
+    "en": "Korean Confucianism"
+  },
+  {
+    "zh": "花潭",
+    "en": "Hwadam"
+  },
+  {
+    "zh": "星湖",
+    "en": "Seongho"
+  },
+  {
+    "zh": "茶山",
+    "en": "Dasan"
+  },
+  {
+    "zh": "瑜伽行中观",
+    "en": "Yogācāra-Madhyamaka"
+  },
+  {
+    "zh": "桑耶寺",
+    "en": "Samye Monastery"
+  },
+  {
+    "zh": "入藏祖师",
+    "en": "founding masters in Tibet"
+  },
+  {
+    "zh": "桑耶论诤",
+    "en": "Samye debate"
+  },
+  {
+    "zh": "修习次第",
+    "en": "Stages of Meditation"
+  },
+  {
+    "zh": "渐门",
+    "en": "gradual path"
+  },
+  {
+    "zh": "噶当派",
+    "en": "Kadampa"
+  },
+  {
+    "zh": "菩提道灯论",
+    "en": "Lamp for the Path to Enlightenment"
+  },
+  {
+    "zh": "道次第",
+    "en": "stages of the path"
+  },
+  {
+    "zh": "噶举",
+    "en": "Kagyu"
+  },
+  {
+    "zh": "瑜伽士",
+    "en": "yogin"
+  },
+  {
+    "zh": "道歌",
+    "en": "songs of realization"
+  },
+  {
+    "zh": "达波噶举",
+    "en": "Dakpo Kagyu"
+  },
+  {
+    "zh": "大手印",
+    "en": "Mahāmudrā"
+  },
+  {
+    "zh": "解脱庄严宝论",
+    "en": "Jewel Ornament of Liberation"
+  },
+  {
+    "zh": "萨迦派",
+    "en": "Sakya"
+  },
+  {
+    "zh": "量理宝藏论",
+    "en": "Treasury of Reasoning"
+  },
+  {
+    "zh": "宁玛",
+    "en": "Nyingma"
+  },
+  {
+    "zh": "大圆满",
+    "en": "Dzogchen"
+  },
+  {
+    "zh": "七宝藏",
+    "en": "Seven Treasuries"
+  },
+  {
+    "zh": "格鲁派",
+    "en": "Gelug"
+  },
+  {
+    "zh": "应成中观",
+    "en": "Prāsaṅgika Madhyamaka"
+  },
+  {
+    "zh": "菩提道次第广论",
+    "en": "Great Treatise on the Stages of the Path"
+  },
+  {
+    "zh": "觉囊派",
+    "en": "Jonang"
+  },
+  {
+    "zh": "他空见",
+    "en": "other-emptiness (zhentong)"
+  },
+  {
+    "zh": "山法",
+    "en": "Mountain Dharma"
+  },
+  {
+    "zh": "宗喀巴批评",
+    "en": "critique of Tsongkhapa"
+  },
+  {
+    "zh": "佛教史",
+    "en": "Buddhist history"
+  },
+  {
+    "zh": "大藏经",
+    "en": "Buddhist canon"
+  },
+  {
+    "zh": "布顿佛教史",
+    "en": "Butön's History of Buddhism"
+  },
+  {
+    "zh": "利美运动",
+    "en": "Rimé movement"
+  },
+  {
+    "zh": "知识总汇",
+    "en": "Treasury of Knowledge"
+  },
+  {
+    "zh": "五大藏",
+    "en": "Five Treasuries"
+  },
+  {
+    "zh": "利美",
+    "en": "Rimé"
+  },
+  {
+    "zh": "中观量论",
+    "en": "Madhyamaka and pramāṇa"
+  },
+  {
+    "zh": "当代中观",
+    "en": "contemporary Madhyamaka"
+  },
+  {
+    "zh": "科学对话",
+    "en": "dialogue with science"
+  },
+  {
+    "zh": "穆尔太齐赖派",
+    "en": "Muʿtazila"
+  },
+  {
+    "zh": "两种地位之间",
+    "en": "intermediate position between two stations"
+  },
+  {
+    "zh": "艾什尔里派",
+    "en": "Ashʿarism"
+  },
+  {
+    "zh": "kalam",
+    "en": "kalām"
+  },
+  {
+    "zh": "理性与传统",
+    "en": "reason and tradition"
+  },
+  {
+    "zh": "马图里迪派",
+    "en": "Māturīdism"
+  },
+  {
+    "zh": "哈乃斐传统",
+    "en": "Ḥanafī tradition"
+  },
+  {
+    "zh": "理性认识",
+    "en": "rational knowledge"
+  },
+  {
+    "zh": "艾什尔里派系统化",
+    "en": "Ashʿarī systematization"
+  },
+  {
+    "zh": "古兰经不可模仿性",
+    "en": "Qurʾānic inimitability"
+  },
+  {
+    "zh": "两圣地伊玛目",
+    "en": "Imām of the Two Sanctuaries"
+  },
+  {
+    "zh": "安萨里之师",
+    "en": "teacher of al-Ghazālī"
+  },
+  {
+    "zh": "教义学证明",
+    "en": "doctrinal demonstration"
+  },
+  {
+    "zh": "后伊本·西那哲学神学",
+    "en": "post-Avicennan philosophical theology"
+  },
+  {
+    "zh": "艾什尔里教义学",
+    "en": "Ashʿarī theology"
+  },
+  {
+    "zh": "经注与形而上学",
+    "en": "exegesis and metaphysics"
+  },
+  {
+    "zh": "医师哲学家",
+    "en": "physician-philosopher"
+  },
+  {
+    "zh": "理性自然主义",
+    "en": "rational naturalism"
+  },
+  {
+    "zh": "批先知论",
+    "en": "critique of prophecy"
+  },
+  {
+    "zh": "性理之净化",
+    "en": "Refinement of Character"
+  },
+  {
+    "zh": "品格修养",
+    "en": "character cultivation"
+  },
+  {
+    "zh": "亚里士多德伦理学",
+    "en": "Aristotelian ethics"
+  },
+  {
+    "zh": "阿文帕塞",
+    "en": "Avempace"
+  },
+  {
+    "zh": "孤独者之治理",
+    "en": "Governance of the Solitary"
+  },
+  {
+    "zh": "安达卢斯哲学",
+    "en": "Andalusian philosophy"
+  },
+  {
+    "zh": "哈义·本·叶格赞",
+    "en": "Ḥayy ibn Yaqẓān"
+  },
+  {
+    "zh": "自然理性",
+    "en": "natural reason"
+  },
+  {
+    "zh": "哲学小说",
+    "en": "philosophical novel"
+  },
+  {
+    "zh": "查希里派",
+    "en": "Ẓāhirī school"
+  },
+  {
+    "zh": "逻辑与法学",
+    "en": "logic and jurisprudence"
+  },
+  {
+    "zh": "鸽子的项圈",
+    "en": "The Ring of the Dove"
+  },
+  {
+    "zh": "伊本·西那传统",
+    "en": "Avicennan tradition"
+  },
+  {
+    "zh": "阿赫拉格·纳西里",
+    "en": "Nasirean Ethics"
+  },
+  {
+    "zh": "马拉盖天文台",
+    "en": "Maragha observatory"
+  },
+  {
+    "zh": "纯粹神爱",
+    "en": "pure divine love"
+  },
+  {
+    "zh": "早期苏非",
+    "en": "early Sufism"
+  },
+  {
+    "zh": "禁欲传统",
+    "en": "ascetic tradition"
+  },
+  {
+    "zh": "巴格达苏非",
+    "en": "Baghdad Sufism"
+  },
+  {
+    "zh": "清醒派",
+    "en": "sober school"
+  },
+  {
+    "zh": "神秘合一",
+    "en": "mystical union"
+  },
+  {
+    "zh": "我即真理",
+    "en": "I am the Truth"
+  },
+  {
+    "zh": "苏非殉道",
+    "en": "Sufi martyrdom"
+  },
+  {
+    "zh": "玛斯纳维",
+    "en": "Mathnawī"
+  },
+  {
+    "zh": "爱与合一",
+    "en": "love and union"
+  },
+  {
+    "zh": "波斯苏非诗",
+    "en": "Persian Sufi poetry"
+  },
+  {
+    "zh": "伊斯玛仪派",
+    "en": "Ismāʿīlism"
+  },
+  {
+    "zh": "新柏拉图主义",
+    "en": "Neoplatonism"
+  },
+  {
+    "zh": "波斯哲学诗",
+    "en": "Persian philosophical poetry"
+  },
+  {
+    "zh": "罕百里派",
+    "en": "Ḥanbalī school"
+  },
+  {
+    "zh": "批判哲学与kalam",
+    "en": "critique of philosophy and kalām"
+  },
+  {
+    "zh": "反苏非一元论",
+    "en": "anti-Sufi monism"
+  },
+  {
+    "zh": "伊斯法罕学派",
+    "en": "Isfahan School"
+  },
+  {
+    "zh": "萨德拉之师",
+    "en": "teacher of Mullā Ṣadrā"
+  },
+  {
+    "zh": "时间创生",
+    "en": "time and creation"
+  },
+  {
+    "zh": "当代什叶哲学",
+    "en": "contemporary Shīʿī philosophy"
+  },
+  {
+    "zh": "原理与方法",
+    "en": "principles and method"
+  },
+  {
+    "zh": "古兰经经注",
+    "en": "Qurʾānic exegesis"
+  },
+  {
+    "zh": "泛伊斯兰主义",
+    "en": "pan-Islamism"
+  },
+  {
+    "zh": "现代主义改革",
+    "en": "modernist reform"
+  },
+  {
+    "zh": "反殖民政治",
+    "en": "anti-colonial politics"
+  },
+  {
+    "zh": "埃及现代主义",
+    "en": "Egyptian modernism"
+  },
+  {
+    "zh": "宗教教育改革",
+    "en": "religious education reform"
+  },
+  {
+    "zh": "理性诠释",
+    "en": "rational interpretation"
+  },
+  {
+    "zh": "新现代主义",
+    "en": "neo-modernism"
+  },
+  {
+    "zh": "双重运动诠释学",
+    "en": "double-movement hermeneutics"
+  },
+  {
+    "zh": "古兰经伦理",
+    "en": "Qurʾānic ethics"
+  },
+  {
+    "zh": "传统学派",
+    "en": "Traditionalist school"
+  },
+  {
+    "zh": "伊斯兰科学",
+    "en": "Islamic science"
+  },
+  {
+    "zh": "灵性与现代性批判",
+    "en": "spirituality and critique of modernity"
+  },
+  {
+    "zh": "寓意释经",
+    "en": "allegorical exegesis"
+  },
+  {
+    "zh": "逻各斯",
+    "en": "Logos"
+  },
+  {
+    "zh": "希腊化犹太哲学",
+    "en": "Hellenistic Jewish philosophy"
+  },
+  {
+    "zh": "犹太新柏拉图主义",
+    "en": "Jewish Neoplatonism"
+  },
+  {
+    "zh": "定义之书",
+    "en": "Book of Definitions"
+  },
+  {
+    "zh": "流溢论",
+    "en": "emanationism"
+  },
+  {
+    "zh": "生命之源",
+    "en": "Fons Vitae"
+  },
+  {
+    "zh": "阿维斯布朗",
+    "en": "Avicebron"
+  },
+  {
+    "zh": "普遍质料",
+    "en": "universal matter"
+  },
+  {
+    "zh": "心之义务",
+    "en": "Duties of the Heart"
+  },
+  {
+    "zh": "内在虔敬",
+    "en": "inner piety"
+  },
+  {
+    "zh": "犹太伦理",
+    "en": "Jewish ethics"
+  },
+  {
+    "zh": "库萨里",
+    "en": "Kuzari"
+  },
+  {
+    "zh": "启示护教",
+    "en": "apologetics of revelation"
+  },
+  {
+    "zh": "反哲学",
+    "en": "anti-philosophy"
+  },
+  {
+    "zh": "崇高信仰",
+    "en": "The Exalted Faith"
+  },
+  {
+    "zh": "犹太亚里士多德主义",
+    "en": "Jewish Aristotelianism"
+  },
+  {
+    "zh": "主的战争",
+    "en": "The Wars of the Lord"
+  },
+  {
+    "zh": "亚里士多德主义",
+    "en": "Aristotelianism"
+  },
+  {
+    "zh": "阿威罗伊传统",
+    "en": "Averroist tradition"
+  },
+  {
+    "zh": "主之光",
+    "en": "Light of the Lord"
+  },
+  {
+    "zh": "反亚里士多德主义",
+    "en": "anti-Aristotelianism"
+  },
+  {
+    "zh": "斯宾诺莎前史",
+    "en": "pre-history of Spinoza"
+  },
+  {
+    "zh": "信条书",
+    "en": "Book of Principles"
+  },
+  {
+    "zh": "犹太教义原理",
+    "en": "Jewish doctrinal principles"
+  },
+  {
+    "zh": "信仰原则",
+    "en": "principles of faith"
+  },
+  {
+    "zh": "拉姆班",
+    "en": "Ramban"
+  },
+  {
+    "zh": "迈蒙尼德之争",
+    "en": "Maimonidean controversy"
+  },
+  {
+    "zh": "早期卡巴拉",
+    "en": "early Kabbalah"
+  },
+  {
+    "zh": "光辉之书",
+    "en": "Book of Splendor"
+  },
+  {
+    "zh": "佐哈尔",
+    "en": "Zohar"
+  },
+  {
+    "zh": "中世纪卡巴拉",
+    "en": "medieval Kabbalah"
+  },
+  {
+    "zh": "先知卡巴拉",
+    "en": "prophetic Kabbalah"
+  },
+  {
+    "zh": "字母冥想",
+    "en": "letter meditation"
+  },
+  {
+    "zh": "迷狂神秘主义",
+    "en": "ecstatic mysticism"
+  },
+  {
+    "zh": "收缩",
+    "en": "contraction (tzimtzum)"
+  },
+  {
+    "zh": "破碎",
+    "en": "shattering of the vessels"
+  },
+  {
+    "zh": "修复",
+    "en": "repair (tikkun)"
+  },
+  {
+    "zh": "哈西德派",
+    "en": "Hasidism"
+  },
+  {
+    "zh": "灵性喜乐",
+    "en": "spiritual joy"
+  },
+  {
+    "zh": "神圣临在",
+    "en": "divine presence"
+  },
+  {
+    "zh": "哈巴德",
+    "en": "Chabad"
+  },
+  {
+    "zh": "坦尼亚",
+    "en": "Tanya"
+  },
+  {
+    "zh": "智性哈西德",
+    "en": "intellectual Hasidism"
+  },
+  {
+    "zh": "哈斯卡拉",
+    "en": "Haskalah"
+  },
+  {
+    "zh": "耶路撒冷",
+    "en": "Jerusalem"
+  },
+  {
+    "zh": "卡巴拉研究",
+    "en": "Kabbalah studies"
+  },
+  {
+    "zh": "犹太神秘主义",
+    "en": "Jewish mysticism"
+  },
+  {
+    "zh": "本雅明",
+    "en": "Benjamin"
+  },
+  {
+    "zh": "敬畏",
+    "en": "awe"
+  },
+  {
+    "zh": "先知精神",
+    "en": "prophetic spirit"
+  },
+  {
+    "zh": "安息日",
+    "en": "Sabbath"
+  },
+  {
+    "zh": "哈拉哈人",
+    "en": "Halakhic Man"
+  },
+  {
+    "zh": "孤独的信仰人",
+    "en": "The Lonely Man of Faith"
+  },
+  {
+    "zh": "现代正统派",
+    "en": "Modern Orthodoxy"
+  },
+  {
+    "zh": "重建主义",
+    "en": "Reconstructionism"
+  },
+  {
+    "zh": "犹太文明",
+    "en": "Jewish civilization"
+  },
+  {
+    "zh": "宗教自然主义",
+    "en": "religious naturalism"
+  },
+  {
+    "zh": "诫命中心论",
+    "en": "commandment-centered faith"
+  },
+  {
+    "zh": "迈蒙尼德诠释",
+    "en": "Maimonides interpretation"
+  },
+  {
+    "zh": "以色列公共思想",
+    "en": "Israeli public thought"
+  },
+  {
+    "zh": "巴利亚多利德之辩",
+    "en": "Valladolid debate"
+  },
+  {
+    "zh": "原住民权利",
+    "en": "Indigenous rights"
+  },
+  {
+    "zh": "和平传教",
+    "en": "peaceful evangelization"
+  },
+  {
+    "zh": "法律",
+    "en": "law"
+  },
+  {
+    "zh": "语言规范",
+    "en": "language standardization"
+  },
+  {
+    "zh": "玻利瓦尔之师",
+    "en": "teacher of Bolívar"
+  },
+  {
+    "zh": "大众教育",
+    "en": "popular education"
+  },
+  {
+    "zh": "美洲共和国",
+    "en": "American republics"
+  },
+  {
+    "zh": "阿根廷宪政",
+    "en": "Argentine constitutionalism"
+  },
+  {
+    "zh": "治理即移民",
+    "en": "to govern is to populate"
+  },
+  {
+    "zh": "美洲哲学",
+    "en": "American philosophy"
+  },
+  {
+    "zh": "文明与野蛮",
+    "en": "civilization and barbarism"
+  },
+  {
+    "zh": "国家建设",
+    "en": "nation-building"
+  },
+  {
+    "zh": "教育改革",
+    "en": "educational reform"
+  },
+  {
+    "zh": "安的列斯联邦",
+    "en": "Antillean Confederation"
+  },
+  {
+    "zh": "墨西哥实证主义",
+    "en": "Mexican positivism"
+  },
+  {
+    "zh": "国民预科学校",
+    "en": "National Preparatory School"
+  },
+  {
+    "zh": "秩序与进步",
+    "en": "order and progress"
+  },
+  {
+    "zh": "我们的美洲",
+    "en": "Our America"
+  },
+  {
+    "zh": "古巴独立",
+    "en": "Cuban independence"
+  },
+  {
+    "zh": "爱丽尔主义",
+    "en": "Arielism"
+  },
+  {
+    "zh": "反功利主义",
+    "en": "anti-utilitarianism"
+  },
+  {
+    "zh": "青年教育",
+    "en": "youth education"
+  },
+  {
+    "zh": "青年学会",
+    "en": "Ateneo de la Juventud"
+  },
+  {
+    "zh": "反实证主义",
+    "en": "anti-positivism"
+  },
+  {
+    "zh": "宇宙种族",
+    "en": "Cosmic Race"
+  },
+  {
+    "zh": "美学救赎",
+    "en": "aesthetic redemption"
+  },
+  {
+    "zh": "墨西哥教育",
+    "en": "Mexican education"
+  },
+  {
+    "zh": "创造性自由",
+    "en": "creative freedom"
+  },
+  {
+    "zh": "阿根廷反实证主义",
+    "en": "Argentine anti-positivism"
+  },
+  {
+    "zh": "价值",
+    "en": "value"
+  },
+  {
+    "zh": "墨西哥人的轮廓",
+    "en": "Profile of Man and Culture in Mexico"
+  },
+  {
+    "zh": "墨西哥性",
+    "en": "Mexicanness"
+  },
+  {
+    "zh": "民族性格",
+    "en": "national character"
+  },
+  {
+    "zh": "人的理论",
+    "en": "theory of the person"
+  },
+  {
+    "zh": "阿根廷哲学",
+    "en": "Argentine philosophy"
+  },
+  {
+    "zh": "奥尔特加受容",
+    "en": "reception of Ortega"
+  },
+  {
+    "zh": "价值论",
+    "en": "axiology"
+  },
+  {
+    "zh": "自我理论",
+    "en": "theory of the self"
+  },
+  {
+    "zh": "拉美学院哲学",
+    "en": "Latin American academic philosophy"
+  },
+  {
+    "zh": "我们美洲有哲学吗",
+    "en": "Is There a Philosophy of Our America?"
+  },
+  {
+    "zh": "真实性",
+    "en": "authenticity"
+  },
+  {
+    "zh": "依附",
+    "en": "dependency"
+  },
+  {
+    "zh": "历史现实",
+    "en": "historical reality"
+  },
+  {
+    "zh": "解放哲学",
+    "en": "philosophy of liberation"
+  },
+  {
+    "zh": "萨尔瓦多",
+    "en": "El Salvador"
+  },
+  {
+    "zh": "解放神学",
+    "en": "liberation theology"
+  },
+  {
+    "zh": "穷人优先选项",
+    "en": "preferential option for the poor"
+  },
+  {
+    "zh": "美洲存在",
+    "en": "American being"
+  },
+  {
+    "zh": "estar",
+    "en": "estar"
+  },
+  {
+    "zh": "原住民思想",
+    "en": "Indigenous thought"
+  },
+  {
+    "zh": "权力的殖民性",
+    "en": "coloniality of power"
+  },
+  {
+    "zh": "现代性/殖民性",
+    "en": "modernity/coloniality"
+  },
+  {
+    "zh": "去殖民",
+    "en": "decoloniality"
+  },
+  {
+    "zh": "性别殖民性",
+    "en": "coloniality of gender"
+  },
+  {
+    "zh": "去殖民女性主义",
+    "en": "decolonial feminism"
+  },
+  {
+    "zh": "交叉压迫",
+    "en": "interlocking oppressions"
+  },
+  {
+    "zh": "孤独的迷宫",
+    "en": "Labyrinth of Solitude"
+  },
+  {
+    "zh": "诗与现代性",
+    "en": "poetry and modernity"
+  },
+  {
+    "zh": "卡帕多西亚三杰",
+    "en": "Cappadocian Fathers"
+  },
+  {
+    "zh": "三一神学",
+    "en": "Trinitarian theology"
+  },
+  {
+    "zh": "六日创世",
+    "en": "Hexaemeron"
+  },
+  {
+    "zh": "修道规章",
+    "en": "monastic rules"
+  },
+  {
+    "zh": "神学家",
+    "en": "the Theologian"
+  },
+  {
+    "zh": "神学演讲",
+    "en": "Theological Orations"
+  },
+  {
+    "zh": "三位一体",
+    "en": "Trinity"
+  },
+  {
+    "zh": "摩西的生平",
+    "en": "The Life of Moses"
+  },
+  {
+    "zh": "无限进展",
+    "en": "epektasis (endless progress)"
+  },
+  {
+    "zh": "神秘神学",
+    "en": "mystical theology"
+  },
+  {
+    "zh": "人的创造",
+    "en": "On the Making of Man"
+  },
+  {
+    "zh": "托名",
+    "en": "pseudepigraphy"
+  },
+  {
+    "zh": "神圣名称",
+    "en": "Divine Names"
+  },
+  {
+    "zh": "天阶体系",
+    "en": "Celestial Hierarchy"
+  },
+  {
+    "zh": "难题集",
+    "en": "Ambigua"
+  },
+  {
+    "zh": "两种意志论",
+    "en": "dyothelitism"
+  },
+  {
+    "zh": "忏悔者",
+    "en": "the Confessor"
+  },
+  {
+    "zh": "宇宙-基督神学",
+    "en": "cosmic Christology"
+  },
+  {
+    "zh": "知识的源泉",
+    "en": "The Fountain of Knowledge"
+  },
+  {
+    "zh": "正统信仰详解",
+    "en": "Exact Exposition of the Orthodox Faith"
+  },
+  {
+    "zh": "圣像辩护",
+    "en": "defense of icons"
+  },
+  {
+    "zh": "亚里士多德逻辑",
+    "en": "Aristotelian logic"
+  },
+  {
+    "zh": "新神学家",
+    "en": "New Theologian"
+  },
+  {
+    "zh": "神圣之光",
+    "en": "uncreated light"
+  },
+  {
+    "zh": "亲证经验",
+    "en": "direct experience"
+  },
+  {
+    "zh": "赞美诗",
+    "en": "hymns"
+  },
+  {
+    "zh": "编年史",
+    "en": "Chronographia"
+  },
+  {
+    "zh": "柏拉图主义复兴",
+    "en": "Platonic revival"
+  },
+  {
+    "zh": "拜占庭博学者",
+    "en": "Byzantine polymath"
+  },
+  {
+    "zh": "杂论",
+    "en": "De omnifaria doctrina"
+  },
+  {
+    "zh": "静修主义",
+    "en": "hesychasm"
+  },
+  {
+    "zh": "本质/能质之分",
+    "en": "essence/energies distinction"
+  },
+  {
+    "zh": "为静修者辩护",
+    "en": "Triads in Defense of the Holy Hesychasts"
+  },
+  {
+    "zh": "法律篇",
+    "en": "Book of Laws (Nomoi)"
+  },
+  {
+    "zh": "佛罗伦萨大公会议",
+    "en": "Council of Florence"
+  },
+  {
+    "zh": "文艺复兴桥梁",
+    "en": "Renaissance bridge"
+  },
+  {
+    "zh": "阿胡拉·马兹达",
+    "en": "Ahura Mazda"
+  },
+  {
+    "zh": "善恶二元",
+    "en": "good-evil dualism"
+  },
+  {
+    "zh": "阿沙",
+    "en": "asha (truth-order)"
+  },
+  {
+    "zh": "伽萨",
+    "en": "Gathas"
+  },
+  {
+    "zh": "摩尼教",
+    "en": "Manichaeism"
+  },
+  {
+    "zh": "光暗二元",
+    "en": "light-dark dualism"
+  },
+  {
+    "zh": "救赎",
+    "en": "salvation"
+  },
+  {
+    "zh": "沙卜拉干",
+    "en": "Shabuhragan"
+  },
+  {
+    "zh": "哲学书简",
+    "en": "Philosophical Letters"
+  },
+  {
+    "zh": "西化派",
+    "en": "Westernizers"
+  },
+  {
+    "zh": "俄国使命",
+    "en": "Russia's mission"
+  },
+  {
+    "zh": "历史哲学",
+    "en": "philosophy of history"
+  },
+  {
+    "zh": "斯拉夫派",
+    "en": "Slavophilism"
+  },
+  {
+    "zh": "聚和性",
+    "en": "sobornost (conciliarity)"
+  },
+  {
+    "zh": "sobornost",
+    "en": "sobornost"
+  },
+  {
+    "zh": "东正教共同体",
+    "en": "Orthodox community"
+  },
+  {
+    "zh": "整全知识",
+    "en": "integral knowledge"
+  },
+  {
+    "zh": "欧洲文化",
+    "en": "European culture"
+  },
+  {
+    "zh": "东正教传统",
+    "en": "Orthodox tradition"
+  },
+  {
+    "zh": "往事与随想",
+    "en": "My Past and Thoughts"
+  },
+  {
+    "zh": "农民社会主义",
+    "en": "peasant socialism"
+  },
+  {
+    "zh": "无政府主义",
+    "en": "anarchism"
+  },
+  {
+    "zh": "国家制度与无政府状态",
+    "en": "Statism and Anarchy"
+  },
+  {
+    "zh": "上帝与国家",
+    "en": "God and the State"
+  },
+  {
+    "zh": "怎么办？",
+    "en": "What Is to Be Done?"
+  },
+  {
+    "zh": "理性利己",
+    "en": "rational egoism"
+  },
+  {
+    "zh": "现实美学",
+    "en": "aesthetics of reality"
+  },
+  {
+    "zh": "社会思想",
+    "en": "social thought"
+  },
+  {
+    "zh": "互助论",
+    "en": "Mutual Aid"
+  },
+  {
+    "zh": "面包与自由",
+    "en": "The Conquest of Bread"
+  },
+  {
+    "zh": "无政府共产主义",
+    "en": "anarchist communism"
+  },
+  {
+    "zh": "合作",
+    "en": "cooperation"
+  },
+  {
+    "zh": "卡拉马佐夫兄弟",
+    "en": "The Brothers Karamazov"
+  },
+  {
+    "zh": "地下室手记",
+    "en": "Notes from Underground"
+  },
+  {
+    "zh": "罪与救赎",
+    "en": "sin and redemption"
+  },
+  {
+    "zh": "天国在你心中",
+    "en": "The Kingdom of God Is Within You"
+  },
+  {
+    "zh": "忏悔录",
+    "en": "A Confession"
+  },
+  {
+    "zh": "非暴力",
+    "en": "nonviolence"
+  },
+  {
+    "zh": "基督教伦理",
+    "en": "Christian ethics"
+  },
+  {
+    "zh": "善的证明",
+    "en": "Justification of the Good"
+  },
+  {
+    "zh": "神人类",
+    "en": "Godmanhood"
+  },
+  {
+    "zh": "索菲亚学",
+    "en": "sophiology"
+  },
+  {
+    "zh": "全统一",
+    "en": "all-unity"
+  },
+  {
+    "zh": "共同事业",
+    "en": "common task"
+  },
+  {
+    "zh": "宇宙主义",
+    "en": "cosmism"
+  },
+  {
+    "zh": "复活论",
+    "en": "resurrection doctrine"
+  },
+  {
+    "zh": "父辈",
+    "en": "the fathers"
+  },
+  {
+    "zh": "雅典与耶路撒冷",
+    "en": "Athens and Jerusalem"
+  },
+  {
+    "zh": "反理性",
+    "en": "anti-rationalism"
+  },
+  {
+    "zh": "存在主义",
+    "en": "existentialism"
+  },
+  {
+    "zh": "信仰",
+    "en": "faith"
+  },
+  {
+    "zh": "自由哲学",
+    "en": "philosophy of freedom"
+  },
+  {
+    "zh": "人格主义",
+    "en": "personalism"
+  },
+  {
+    "zh": "奴役与自由",
+    "en": "Slavery and Freedom"
+  },
+  {
+    "zh": "不暮之光",
+    "en": "Unfading Light"
+  },
+  {
+    "zh": "从马克思主义转向宗教",
+    "en": "turn from Marxism to religion"
+  },
+  {
+    "zh": "真理的柱石与根基",
+    "en": "The Pillar and Ground of the Truth"
+  },
+  {
+    "zh": "神学",
+    "en": "theology"
+  },
+  {
+    "zh": "数学",
+    "en": "mathematics"
+  },
+  {
+    "zh": "不可测度者",
+    "en": "the Unfathomable"
+  },
+  {
+    "zh": "全一",
+    "en": "all-unity"
+  },
+  {
+    "zh": "直觉主义",
+    "en": "intuitionism"
+  },
+  {
+    "zh": "社会的精神基础",
+    "en": "spiritual foundations of society"
+  },
+  {
+    "zh": "清净道论",
+    "en": "Visuddhimagga"
+  },
+  {
+    "zh": "巴利注疏",
+    "en": "Pali commentaries"
+  },
+  {
+    "zh": "上座部",
+    "en": "Theravada"
+  },
+  {
+    "zh": "修道次第",
+    "en": "path of purification"
+  },
+  {
+    "zh": "胜义灯疏",
+    "en": "Paramatthadīpanī"
+  },
+  {
+    "zh": "小部注疏",
+    "en": "Khuddaka commentaries"
+  },
+  {
+    "zh": "断代不确",
+    "en": "uncertain dating"
+  },
+  {
+    "zh": "缅甸内观",
+    "en": "Burmese vipassana"
+  },
+  {
+    "zh": "阿毗达磨",
+    "en": "Abhidhamma"
+  },
+  {
+    "zh": "胜义要义手册",
+    "en": "Manual of Ultimate Truth"
+  },
+  {
+    "zh": "法之手册",
+    "en": "Manual of Dhamma"
+  },
+  {
+    "zh": "内观",
+    "en": "vipassana"
+  },
+  {
+    "zh": "念处",
+    "en": "satipatthana"
+  },
+  {
+    "zh": "马哈希体系",
+    "en": "Mahasi method"
+  },
+  {
+    "zh": "内观手册",
+    "en": "Manual of Insight"
+  },
+  {
+    "zh": "泰国佛教改革",
+    "en": "Thai Buddhist reform"
+  },
+  {
+    "zh": "法的社会主义",
+    "en": "Dhammic socialism"
+  },
+  {
+    "zh": "观呼吸",
+    "en": "anapanasati (mindfulness of breathing)"
+  },
+  {
+    "zh": "课虚录",
+    "en": "Lessons on Emptiness"
+  },
+  {
+    "zh": "越南禅",
+    "en": "Vietnamese Zen"
+  },
+  {
+    "zh": "陈朝",
+    "en": "Trần dynasty"
+  },
+  {
+    "zh": "帝王-禅师",
+    "en": "emperor-Zen master"
+  },
+  {
+    "zh": "竹林禅派",
+    "en": "Trúc Lâm Zen school"
+  },
+  {
+    "zh": "居尘乐道赋",
+    "en": "Fu on Dwelling in Dust and Delighting in the Way"
+  },
+  {
+    "zh": "芸台类语",
+    "en": "Categorized Sayings of the Cloud Terrace"
+  },
+  {
+    "zh": "越南儒学",
+    "en": "Vietnamese Confucianism"
+  },
+  {
+    "zh": "百科",
+    "en": "encyclopedism"
+  },
+  {
+    "zh": "宋明理学",
+    "en": "Song-Ming Neo-Confucianism"
+  }
+]

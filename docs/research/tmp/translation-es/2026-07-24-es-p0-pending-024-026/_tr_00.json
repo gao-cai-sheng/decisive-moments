@@ -1,0 +1,244 @@
+{
+  "items": {
+    "aj-ayer": {
+      "oneLineEs": "*Lenguaje, verdad y lógica* introdujo la Escuela de Viena en el mundo de habla inglesa.",
+      "keywordsEs": [
+        "positivismo lógico",
+        "principio de verificación",
+        "emotivismo"
+      ]
+    },
+    "alain-locke": {
+      "oneLineEs": "Intérprete filosófico del Renacimiento de Harlem; argumentó el pluralismo de valores ante la diferencia cultural.",
+      "keywordsEs": [
+        "pluralismo de valores",
+        "Renacimiento de Harlem",
+        "pluralismo cultural"
+      ]
+    },
+    "alexandre-kojeve": {
+      "oneLineEs": "Sus lecciones sobre la *Fenomenología del espíritu* a través de la dialéctica del amo y del esclavo formaron a toda una generación de pensadores franceses.",
+      "keywordsEs": [
+        "interpretación de Hegel",
+        "dialéctica del amo y del esclavo",
+        "fin de la historia"
+      ]
+    },
+    "alexius-meinong": {
+      "oneLineEs": "Fundador de la teoría de los objetos; sostuvo que los objetos inexistentes tienen aún un modo de ser, y marcó los debates sobre la referencia y la ontología.",
+      "keywordsEs": [
+        "teoría de los objetos",
+        "objetos inexistentes",
+        "Escuela de Graz"
+      ]
+    },
+    "alvin-plantinga": {
+      "oneLineEs": "Representante de la epistemología reformada y del argumento ontológico modal; sostiene que la creencia teísta puede ser una creencia básica propiamente dicha.",
+      "keywordsEs": [
+        "filosofía de la religión",
+        "epistemología reformada",
+        "argumento ontológico modal"
+      ]
+    },
+    "bachelard": {
+      "oneLineEs": "Reconstruyó la historia de la ciencia mediante la ruptura y el obstáculo epistemológicos, y elaboró a la vez una poética de la imaginación material.",
+      "keywordsEs": [
+        "ruptura epistemológica",
+        "obstáculo epistemológico",
+        "poética de la imaginación"
+      ]
+    },
+    "badiou": {
+      "oneLineEs": "*Ser y acontecimiento* construye una ontología y una concepción evental de la verdad sobre la teoría de conjuntos.",
+      "keywordsEs": [
+        "acontecimiento",
+        "ontología conjuntista",
+        "procedimientos de verdad"
+      ]
+    },
+    "baudrillard": {
+      "oneLineEs": "Analizó la lógica simbólica de la sociedad de consumo mediante las teorías del simulacro y de la hiperrealidad.",
+      "keywordsEs": [
+        "simulacro",
+        "sociedad de consumo",
+        "hiperrealidad"
+      ]
+    },
+    "bourdieu": {
+      "oneLineEs": "Construyó una teoría de la práctica social en torno al habitus, al campo y al capital cultural.",
+      "keywordsEs": [
+        "habitus",
+        "campo",
+        "capital cultural"
+      ]
+    },
+    "bruno-latour": {
+      "oneLineEs": "Con la teoría del actor-red incorporó también a las cosas en el análisis social.",
+      "keywordsEs": [
+        "actor-red",
+        "antropología de la ciencia",
+        "actores no humanos"
+      ]
+    },
+    "brunschvicg": {
+      "oneLineEs": "Fue un eje de la epistemología académica francesa mediante la filosofía del juicio y la historia del espíritu científico.",
+      "keywordsEs": [
+        "filosofía del juicio",
+        "historia del espíritu científico",
+        "epistemología francesa"
+      ]
+    },
+    "canguilhem": {
+      "oneLineEs": "*Lo normal y lo patológico* reescribió la filosofía de la medicina desde la normatividad vital; fue el mentor directo de Foucault.",
+      "keywordsEs": [
+        "lo normal y lo patológico",
+        "historia de las ciencias de la vida",
+        "filosofía de la medicina"
+      ]
+    },
+    "cavailles": {
+      "oneLineEs": "Opuso a la filosofía de la conciencia una filosofía del concepto; ejecutado por su participación en la Resistencia.",
+      "keywordsEs": [
+        "filosofía del concepto",
+        "filosofía de las matemáticas",
+        "Resistencia"
+      ]
+    },
+    "cd-broad": {
+      "oneLineEs": "Sintetizador de Cambridge en filosofía de la mente, ética y metafísica, conocido por su clasificación minuciosa y su eclecticismo moderado.",
+      "keywordsEs": [
+        "análisis de Cambridge",
+        "filosofía de la mente",
+        "historia crítica de la filosofía"
+      ]
+    },
+    "ci-lewis": {
+      "oneLineEs": "Representante del pragmatismo conceptual y de la lógica modal; respondió a las paradojas de la implicación material con la implicación estricta.",
+      "keywordsEs": [
+        "lógica modal",
+        "pragmatismo conceptual",
+        "implicación estricta"
+      ]
+    },
+    "claude-lefort": {
+      "oneLineEs": "Definió la democracia por el lugar vacío del poder y criticó sistemáticamente el totalitarismo.",
+      "keywordsEs": [
+        "lugar vacío de la democracia",
+        "crítica del totalitarismo",
+        "filosofía política"
+      ]
+    },
+    "cornelius-castoriadis": {
+      "oneLineEs": "Con la institución imaginaria de la sociedad y la teoría de la autonomía configuró una heterodoxia del marxismo occidental.",
+      "keywordsEs": [
+        "autonomía",
+        "imaginario social",
+        "Socialismo o barbarie"
+      ]
+    },
+    "cournot": {
+      "oneLineEs": "Vinculó el positivismo y la tradición epistemológica francesa mediante la probabilidad, la economía y las teorías de la contingencia.",
+      "keywordsEs": [
+        "filosofía de la probabilidad",
+        "contingencia",
+        "filosofía de la ciencia"
+      ]
+    },
+    "david-armstrong": {
+      "oneLineEs": "Representante del materialismo australiano; construyó un sistema metafísico con realismo de los universales e identidad mente-cerebro.",
+      "keywordsEs": [
+        "realismo científico",
+        "universales",
+        "teoría de la identidad mente-cerebro"
+      ]
+    },
+    "duhem": {
+      "oneLineEs": "Formuló la tesis de Duhem: las hipótesis no pueden contrastarse de forma aislada; abrió el camino al holismo de Quine.",
+      "keywordsEs": [
+        "holismo",
+        "subdeterminación",
+        "historia de la ciencia"
+      ]
+    },
+    "emmanuel-mounier": {
+      "oneLineEs": "Fundador del movimiento personalista; creó la revista *Esprit* para propugnar la persona y la comunidad.",
+      "keywordsEs": [
+        "personalismo",
+        "persona",
+        "comunidad"
+      ]
+    },
+    "eric-voegelin": {
+      "oneLineEs": "Diagnosticó la modernidad mediante la religión política y la filosofía del orden, y trató el gnosticismo como raíz del mal.",
+      "keywordsEs": [
+        "religión política",
+        "filosofía del orden",
+        "crítica del gnosticismo"
+      ]
+    },
+    "ernst-cassirer": {
+      "oneLineEs": "Fundador de la filosofía de las formas simbólicas; unió mito, lenguaje y ciencia como actividad simbolizadora del ser humano.",
+      "keywordsEs": [
+        "formas simbólicas",
+        "neokantismo",
+        "filosofía de la cultura"
+      ]
+    },
+    "ernst-troeltsch": {
+      "oneLineEs": "Representante del historicismo y de la filosofía de la religión; trabajó en la confluencia de Dilthey, Weber y la modernidad teológica.",
+      "keywordsEs": [
+        "filosofía de la religión",
+        "historicismo",
+        "historia social del cristianismo"
+      ]
+    },
+    "etienne-gilson": {
+      "oneLineEs": "Reinterpretó a Tomás de Aquino en torno al esse y impulsó la historiografía de la filosofía medieval.",
+      "keywordsEs": [
+        "historia de la filosofía medieval",
+        "tomismo",
+        "metafísica del ser"
+      ]
+    },
+    "fh-bradley": {
+      "oneLineEs": "Representante del idealismo absoluto británico; su argumentación sobre la internalidad de las relaciones se convirtió en blanco de la revuelta de Russell y Moore.",
+      "keywordsEs": [
+        "idealismo absoluto",
+        "relaciones internas",
+        "Apariencia y realidad"
+      ]
+    },
+    "frank-ramsey": {
+      "oneLineEs": "Nudo temprano de la verdad, la probabilidad, la decisión y la economía; pese a morir a los veintiséis años, dejó múltiples trabajos fundacionales.",
+      "keywordsEs": [
+        "análisis de Cambridge",
+        "probabilidad",
+        "teoría deflacionaria de la verdad"
+      ]
+    },
+    "franz-brentano": {
+      "oneLineEs": "Revivió el concepto de intencionalidad; con la psicología descriptiva enlazó a Aristóteles, la tradición escolástica y la fenomenología de Husserl.",
+      "keywordsEs": [
+        "intencionalidad",
+        "psicología descriptiva",
+        "Escuela de Brentano"
+      ]
+    },
+    "gabriel-marcel": {
+      "oneLineEs": "Representante del existencialismo cristiano; elaboró la distinción entre «misterio» y «problema» y una fenomenología de la esperanza.",
+      "keywordsEs": [
+        "existencialismo",
+        "misterio",
+        "esperanza"
+      ]
+    },
+    "georg-simmel": {
+      "oneLineEs": "Representante de la sociología formal y de la filosofía de la cultura; analizó la experiencia de la modernidad mediante las formas de interacción y la filosofía del dinero.",
+      "keywordsEs": [
+        "sociología formal",
+        "filosofía de la cultura",
+        "modernidad"
+      ]
+    }
+  }
+}

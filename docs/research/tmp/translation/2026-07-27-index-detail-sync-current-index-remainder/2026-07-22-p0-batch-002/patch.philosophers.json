@@ -1,0 +1,56 @@
+{
+  "schemaVersion": 1,
+  "items": {
+    "cleanthes": {
+      "oneLineEn": "Stoic leader after Zeno, known for the Hymn to Zeus and a piety of assent to cosmic reason."
+    },
+    "chrysippus": {
+      "oneLineEn": "Systematized early Stoic logic, physics, and ethics into a rigorous philosophical architecture."
+    },
+    "diogenes-sinope": {
+      "oneLineEn": "Cynic who made philosophy a life-critique through poverty, self-sufficiency, and public provocation."
+    },
+    "pythagoras": {
+      "oneLineEn": "The Pythagorean tradition linked number, cosmic order, soul purification, and communal life."
+    },
+    "anaximander": {
+      "oneLineEn": "Milesian thinker who advanced early Greek philosophy via the apeiron, cosmogenesis, and naturalistic explanation."
+    },
+    "anaximenes": {
+      "oneLineEn": "Milesian philosopher explaining natural change and cosmic structure via air, condensation, and rarefaction."
+    },
+    "xenophanes": {
+      "oneLineEn": "Presocratic poet-philosopher who criticized anthropomorphic gods and probed limits of human knowledge."
+    },
+    "empedocles": {
+      "oneLineEn": "Joined four roots, Love and Strife, cosmic cycles, and soul purification into natural philosophy and religious ethics."
+    },
+    "anaxagoras": {
+      "oneLineEn": "Brought infinite seeds, mutual containment, and Nous into natural philosophy, carrying Ionian science into Athens."
+    },
+    "zeno-elea": {
+      "oneLineEn": "Eleatic thinker defending Parmenidean ontology with paradoxes against plurality and motion."
+    },
+    "democritus": {
+      "oneLineEn": "Ancient atomist explaining nature by atoms and void; raised issues of perception, convention, and ethical calm."
+    },
+    "protagoras": {
+      "oneLineEn": "Leading sophist known for man as measure, virtue education, and civic practical reason."
+    },
+    "gorgias": {
+      "oneLineEn": "Sophist and rhetorician famed for radical ontological arguments, linguistic power, and the art of persuasion."
+    },
+    "pyrrho": {
+      "oneLineEn": "Founding figure of Pyrrhonism; suspension of judgment and mental calm shaped ancient skepticism."
+    },
+    "theophrastus": {
+      "oneLineEn": "Aristotle's successor expanding Peripatetic natural study, botany, character writing, and scholarly institutions."
+    },
+    "carneades": {
+      "oneLineEn": "New Academy skeptic known for anti-Stoic epistemology, probable judgment, and Roman speeches on justice."
+    },
+    "cicero": {
+      "oneLineEn": "Roman statesman-author who rendered Greek philosophy into Latin public reason, republican ethics, and natural law."
+    }
+  }
+}

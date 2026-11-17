@@ -1,0 +1,642 @@
+[
+  {
+    "id": "jiao-xun",
+    "en": "Jiao Xun",
+    "oneLineEn": "Qing classicist and mathematician known for Mencius studies, Yijing learning, and logical analysis.",
+    "oneLineZh": "清代经学家和数学家，以孟子学、易学和逻辑分析著称。",
+    "keywordsEn": [
+      "Correct Meaning of the Mencius",
+      "Comprehensive Explanation of the Changes",
+      "Yangzhou School"
+    ],
+    "keywordsZh": [
+      "孟子正义",
+      "易通释",
+      "扬州学派"
+    ]
+  },
+  {
+    "id": "gong-zizhen",
+    "en": "Gong Zizhen",
+    "oneLineEn": "Late Qing thinker-writer known for statecraft reform, individual spirit, and institutional critique.",
+    "oneLineZh": "晚清思想家和文学家，以经世改革、个体精神和制度批判著称。",
+    "keywordsEn": [
+      "Jihai Miscellaneous Poems",
+      "On Enlightened Rulers and Good Ministers",
+      "statecraft reform"
+    ],
+    "keywordsZh": [
+      "己亥杂诗",
+      "明良论",
+      "经世改革"
+    ]
+  },
+  {
+    "id": "wei-yuan",
+    "en": "Wei Yuan",
+    "oneLineEn": "Late Qing statecraft thinker; Maritime Kingdoms urged learning barbarian skills to control barbarians.",
+    "oneLineZh": "晚清经世思想家，以《海国图志》提出师夷长技以制夷。",
+    "keywordsEn": [
+      "Illustrated Treatise on the Maritime Kingdoms",
+      "learn barbarian skills",
+      "statecraft practical learning"
+    ],
+    "keywordsZh": [
+      "海国图志",
+      "师夷长技",
+      "经世致用"
+    ]
+  },
+  {
+    "id": "voltaire",
+    "en": "Voltaire",
+    "oneLineEn": "Enlightenment champion of tolerance, reason, and anti-clerical polemic; after Locke, in tension with Rousseau.",
+    "oneLineZh": "启蒙旗手，宽容、理性与反教权论争，接洛克经验论并与卢梭构成同代张力。",
+    "keywordsEn": [
+      "Enlightenment",
+      "tolerance",
+      "anti-clericalism"
+    ],
+    "keywordsZh": [
+      "启蒙",
+      "宽容",
+      "反教权"
+    ]
+  },
+  {
+    "id": "diderot",
+    "en": "Denis Diderot",
+    "oneLineEn": "Encyclopédie editor linking Enlightenment knowledge projects, materialism, and aesthetic criticism.",
+    "oneLineZh": "《百科全书》主编，连接启蒙知识工程、唯物论与美学批评。",
+    "keywordsEn": [
+      "Encyclopédie",
+      "materialism",
+      "aesthetics"
+    ],
+    "keywordsZh": [
+      "百科全书",
+      "唯物论",
+      "美学"
+    ]
+  },
+  {
+    "id": "montesquieu",
+    "en": "Montesquieu",
+    "oneLineEn": "Spirit of the Laws made separation of powers and regime typology a modern political-philosophy node.",
+    "oneLineZh": "《论法的精神》以分权与政体类型学成为现代政治哲学关键节点。",
+    "keywordsEn": [
+      "separation of powers",
+      "theory of regimes",
+      "spirit of the laws"
+    ],
+    "keywordsZh": [
+      "分权",
+      "政体论",
+      "法精神"
+    ]
+  },
+  {
+    "id": "condillac",
+    "en": "Étienne Bonnot de Condillac",
+    "oneLineEn": "Sensationalism that systematized Locke; the statue analogy is a key epistemology clue.",
+    "oneLineZh": "感觉论把洛克经验论推向系统化，雕像譬喻成为认识论史线索。",
+    "keywordsEn": [
+      "sensationalism",
+      "empiricism",
+      "origin of language"
+    ],
+    "keywordsZh": [
+      "感觉论",
+      "经验论",
+      "语言起源"
+    ]
+  },
+  {
+    "id": "condorcet",
+    "en": "Marquis de Condorcet",
+    "oneLineEn": "Progressive history and social mathematics linking Enlightenment politics to later positivism.",
+    "oneLineZh": "进步史观与社会数学连接启蒙政治哲学和后来的实证主义叙事。",
+    "keywordsEn": [
+      "philosophy of progress",
+      "social mathematics",
+      "Enlightenment politics"
+    ],
+    "keywordsZh": [
+      "进步史观",
+      "社会数学",
+      "启蒙政治"
+    ]
+  },
+  {
+    "id": "holbach",
+    "en": "Baron d’Holbach",
+    "oneLineEn": "System of Nature represents French Enlightenment thoroughgoing materialism and determinism.",
+    "oneLineZh": "《自然的体系》代表法国启蒙的彻底唯物论与决定论。",
+    "keywordsEn": [
+      "materialism",
+      "determinism",
+      "atheism"
+    ],
+    "keywordsZh": [
+      "唯物论",
+      "决定论",
+      "无神论"
+    ]
+  },
+  {
+    "id": "helvetius",
+    "en": "Claude Adrien Helvétius",
+    "oneLineEn": "Sensationalist ethics and utilitarian prehistory linking Locke's empiricism to Bentham.",
+    "oneLineZh": "感觉论伦理与功利主义前史，连接洛克经验论和边沁功利主义。",
+    "keywordsEn": [
+      "sensationalist ethics",
+      "utility",
+      "education"
+    ],
+    "keywordsZh": [
+      "感觉论伦理",
+      "功利",
+      "教育"
+    ]
+  },
+  {
+    "id": "la-mettrie",
+    "en": "Julien Offray de La Mettrie",
+    "oneLineEn": "Man a Machine pushed mechanism to body-mind explanation; extreme Enlightenment materialism.",
+    "oneLineZh": "《人是机器》将机械论推向人类身心解释，是启蒙唯物论极端形态。",
+    "keywordsEn": [
+      "mechanistic materialism",
+      "mind-body problem",
+      "Man a Machine"
+    ],
+    "keywordsZh": [
+      "机械唯物论",
+      "身心问题",
+      "人是机器"
+    ]
+  },
+  {
+    "id": "malebranche",
+    "en": "Nicolas Malebranche",
+    "oneLineEn": "Occasionalism and 'seeing all things in God' moved Cartesianism into theological metaphysics.",
+    "oneLineZh": "偶因论与“在上帝中看见万物”使笛卡尔主义进入神学形而上学争论。",
+    "keywordsEn": [
+      "occasionalism",
+      "Cartesianism",
+      "theological metaphysics"
+    ],
+    "keywordsZh": [
+      "偶因论",
+      "笛卡尔主义",
+      "神学形而上学"
+    ]
+  },
+  {
+    "id": "gassendi",
+    "en": "Pierre Gassendi",
+    "oneLineEn": "Reviver of Epicurean atomism and contemporary critic of Descartes in the Meditations objections.",
+    "oneLineZh": "复兴伊壁鸠鲁原子论，并在《沉思》诘难中成为笛卡尔同时代批评者。",
+    "keywordsEn": [
+      "atomism",
+      "Epicurean revival",
+      "critique of Descartes"
+    ],
+    "keywordsZh": [
+      "原子论",
+      "伊壁鸠鲁复兴",
+      "笛卡尔批评"
+    ]
+  },
+  {
+    "id": "pierre-bayle",
+    "en": "Pierre Bayle",
+    "oneLineEn": "Historical and Critical Dictionary influenced Leibniz via skepticism, tolerance, and theodicy.",
+    "oneLineZh": "《历史批判辞典》以怀疑论、宽容和神义论问题影响莱布尼茨。",
+    "keywordsEn": [
+      "skepticism",
+      "tolerance",
+      "Historical and Critical Dictionary"
+    ],
+    "keywordsZh": [
+      "怀疑论",
+      "宽容",
+      "历史批判辞典"
+    ]
+  },
+  {
+    "id": "maine-de-biran",
+    "en": "Maine de Biran",
+    "oneLineEn": "Inner experience of effort and will opened French spiritualism; links Descartes to Bergson.",
+    "oneLineZh": "努力与意志的内在经验开启法国唯灵论，连接笛卡尔反思传统和柏格森。",
+    "keywordsEn": [
+      "will",
+      "effort",
+      "inner experience"
+    ],
+    "keywordsZh": [
+      "意志",
+      "努力",
+      "内在经验"
+    ]
+  },
+  {
+    "id": "victor-cousin",
+    "en": "Victor Cousin",
+    "oneLineEn": "Eclecticism and French academic philosophy absorbing German idealism and critical philosophy.",
+    "oneLineZh": "折衷主义和法国学院哲学建制，吸收德国观念论与批判哲学。",
+    "keywordsEn": [
+      "eclecticism",
+      "academic philosophy",
+      "reception of idealism"
+    ],
+    "keywordsZh": [
+      "折衷主义",
+      "学院哲学",
+      "观念论接受"
+    ]
+  },
+  {
+    "id": "renouvier",
+    "en": "Charles Renouvier",
+    "oneLineEn": "Neo-criticism rewrote Kant and influenced William James on free will.",
+    "oneLineZh": "新批判主义重写康德问题，并对威廉·詹姆斯的自由意志论产生影响。",
+    "keywordsEn": [
+      "neo-criticism",
+      "free will",
+      "reception of Kant"
+    ],
+    "keywordsZh": [
+      "新批判主义",
+      "自由意志",
+      "康德接受"
+    ]
+  },
+  {
+    "id": "ravaisson",
+    "en": "Félix Ravaisson",
+    "oneLineEn": "Of Habit influenced Bergson and linked French spiritualism to classical metaphysics via Aristotle.",
+    "oneLineZh": "《论习惯》影响柏格森，并通过亚里士多德研究连接法国唯灵论和古典形而上学。",
+    "keywordsEn": [
+      "habit",
+      "Aristotelian studies",
+      "philosophy of life"
+    ],
+    "keywordsZh": [
+      "习惯",
+      "亚里士多德研究",
+      "生命哲学"
+    ]
+  },
+  {
+    "id": "boutroux",
+    "en": "Émile Boutroux",
+    "oneLineEn": "Critiqued strict determinism via contingency of natural law; linked French science philosophy and spiritualism.",
+    "oneLineZh": "以自然律偶然性批判严格决定论，连接法国科学哲学与唯灵论。",
+    "keywordsEn": [
+      "contingency",
+      "laws of nature",
+      "critique of determinism"
+    ],
+    "keywordsZh": [
+      "偶然性",
+      "自然律",
+      "决定论批判"
+    ]
+  },
+  {
+    "id": "badarayana",
+    "en": "Bādarāyaṇa",
+    "oneLineEn": "Traditional author of the Brahma Sūtras; Vedānta root text shared by the three major commentators.",
+    "oneLineZh": "《梵经》的传统归属作者，吠檀多根本经和三大注家共同锚点。",
+    "keywordsEn": [
+      "Vedanta",
+      "Brahma Sūtras",
+      "traditional attribution"
+    ],
+    "keywordsZh": [
+      "吠檀多",
+      "梵经",
+      "传统归属"
+    ]
+  },
+  {
+    "id": "kapila-ishvarakrishna",
+    "en": "Īśvarakṛṣṇa / Kapila tradition",
+    "oneLineEn": "Systematized Sāṃkhya dualism and the three guṇas in the Sāṃkhya Kārikā.",
+    "oneLineZh": "以《数论颂》系统化数论派二元论和三德理论。",
+    "keywordsEn": [
+      "Sāṃkhya",
+      "dualism",
+      "three guṇas"
+    ],
+    "keywordsZh": [
+      "数论",
+      "二元论",
+      "三德"
+    ]
+  },
+  {
+    "id": "aksapada-gautama",
+    "en": "Akṣapāda Gautama",
+    "oneLineEn": "Traditional author of the Nyāya Sūtra; source of Nyāya logic and epistemology.",
+    "oneLineZh": "《正理经》的传统归属作者，正理派逻辑与知识论源头。",
+    "keywordsEn": [
+      "Nyāya Sūtra",
+      "logic",
+      "epistemology"
+    ],
+    "keywordsZh": [
+      "正理经",
+      "逻辑",
+      "知识论"
+    ]
+  },
+  {
+    "id": "bhartrhari",
+    "en": "Bhartṛhari",
+    "oneLineEn": "Author of Vākyapadīya; key node of Indian philosophy of language and grammar.",
+    "oneLineZh": "《句词论》作者，印度语言哲学与语法传统的关键节点。",
+    "keywordsEn": [
+      "Vākyapadīya",
+      "philosophy of language",
+      "eternality of sound (śabda)"
+    ],
+    "keywordsZh": [
+      "句词论",
+      "语言哲学",
+      "声常"
+    ]
+  },
+  {
+    "id": "kumarila-bhatta",
+    "en": "Kumārila Bhaṭṭa",
+    "oneLineEn": "Mīmāṃsā epistemologist who defended Vedic authority and criticized Buddhist pramāṇa theory.",
+    "oneLineZh": "弥曼差知识论代表，以维护吠陀权威和批评佛教量论著称。",
+    "keywordsEn": [
+      "Mīmāṃsā",
+      "pramāṇa debates",
+      "scriptural authority"
+    ],
+    "keywordsZh": [
+      "弥曼差",
+      "量论争辩",
+      "经典权威"
+    ]
+  },
+  {
+    "id": "udayana",
+    "en": "Udayana",
+    "oneLineEn": "Nyāya figure who systematically argued for God's existence and answered Buddhist critics.",
+    "oneLineZh": "正理派代表，系统论证神存在并回应佛教哲学批评。",
+    "keywordsEn": [
+      "Nyāya school",
+      "arguments for God's existence",
+      "anti-Buddhist arguments"
+    ],
+    "keywordsZh": [
+      "正理派",
+      "神存在论证",
+      "反佛教论证"
+    ]
+  },
+  {
+    "id": "gangesa",
+    "en": "Gaṅgeśa",
+    "oneLineEn": "Core Navya-Nyāya figure who, in Jewel of Truth, advanced precise logic and epistemology.",
+    "oneLineZh": "新正理派核心人物，以《真理宝珠》推进精密逻辑和知识论分析。",
+    "keywordsEn": [
+      "Navya-Nyāya",
+      "logic",
+      "epistemology"
+    ],
+    "keywordsZh": [
+      "新正理",
+      "逻辑",
+      "知识论"
+    ]
+  },
+  {
+    "id": "abhinavagupta",
+    "en": "Abhinavagupta",
+    "oneLineEn": "Kashmir Śaiva and Indian aesthetics master linking religious metaphysics to the rasa tradition.",
+    "oneLineZh": "克什米尔湿婆派与印度美学代表，连接宗教形而上学和味论传统。",
+    "keywordsEn": [
+      "Kashmir Śaivism",
+      "rasa theory",
+      "aesthetics"
+    ],
+    "keywordsZh": [
+      "克什米尔湿婆派",
+      "味论",
+      "美学"
+    ]
+  },
+  {
+    "id": "vivekananda",
+    "en": "Swami Vivekananda",
+    "oneLineEn": "Neo-Vedānta figure and transmitter of modern Indian religious thought.",
+    "oneLineZh": "新吠檀多与印度现代宗教思想传播的代表人物。",
+    "keywordsEn": [
+      "neo-Vedānta",
+      "modern Indian thought",
+      "religious transmission"
+    ],
+    "keywordsZh": [
+      "新吠檀多",
+      "印度现代思想",
+      "宗教传播"
+    ]
+  },
+  {
+    "id": "aurobindo",
+    "en": "Sri Aurobindo",
+    "oneLineEn": "Integral Yoga and evolutionary spirituality linking Vedānta, yoga, and modern Indian thought.",
+    "oneLineZh": "整体瑜伽与进化灵性思想代表，连接吠檀多、瑜伽和现代印度思想。",
+    "keywordsEn": [
+      "Integral Yoga",
+      "evolutionary spirituality",
+      "modern India"
+    ],
+    "keywordsZh": [
+      "整体瑜伽",
+      "进化灵性",
+      "近现代印度"
+    ]
+  },
+  {
+    "id": "kukai",
+    "en": "Kūkai",
+    "oneLineEn": "Founder of Japanese Shingon who linked Tang esoteric Buddhism to Japan.",
+    "oneLineZh": "日本真言宗奠基者，连接唐代密教与日本佛教。",
+    "keywordsEn": [
+      "Shingon",
+      "study in Tang China",
+      "esoteric Buddhism"
+    ],
+    "keywordsZh": [
+      "真言宗",
+      "入唐求法",
+      "密教"
+    ]
+  },
+  {
+    "id": "honen",
+    "en": "Hōnen",
+    "oneLineEn": "Founder of Japanese Pure Land Buddhism who reorganized the tradition around exclusive nembutsu.",
+    "oneLineZh": "日本净土宗奠基者，以专修念佛重组净土传统。",
+    "keywordsEn": [
+      "Pure Land school",
+      "exclusive nembutsu",
+      "Japanese Buddhism"
+    ],
+    "keywordsZh": [
+      "净土宗",
+      "专修念佛",
+      "日本佛教"
+    ]
+  },
+  {
+    "id": "nichiren",
+    "en": "Nichiren",
+    "oneLineEn": "Founder of Nichiren Buddhism via Lotus faith and national-protection discourse in Japan.",
+    "oneLineZh": "日莲佛教奠基者，以法华经信仰和护国论形成独特日本佛教路线。",
+    "keywordsEn": [
+      "Lotus faith",
+      "Nichiren school",
+      "national protection doctrine"
+    ],
+    "keywordsZh": [
+      "法华信仰",
+      "日莲宗",
+      "护国论"
+    ]
+  },
+  {
+    "id": "hakuin",
+    "en": "Hakuin Ekaku",
+    "oneLineEn": "Edo Rinzai Zen reviver who strengthened the kōan training system.",
+    "oneLineZh": "江户时期临济禅中兴人物，强化公案训练体系。",
+    "keywordsEn": [
+      "Rinzai Zen",
+      "kōan",
+      "Zen revival"
+    ],
+    "keywordsZh": [
+      "临济禅",
+      "公案",
+      "禅宗中兴"
+    ]
+  },
+  {
+    "id": "ito-jinsai",
+    "en": "Itō Jinsai",
+    "oneLineEn": "Edo Ancient Learning figure who returned to Confucius-Mencius texts and criticized Zhu Xi learning.",
+    "oneLineZh": "江户古学派代表，主张回到孔孟文本并批评朱子学。",
+    "keywordsEn": [
+      "Ancient Learning school",
+      "Confucius and Mencius",
+      "critique of Zhu Xi Learning"
+    ],
+    "keywordsZh": [
+      "古学派",
+      "孔孟",
+      "朱子学批评"
+    ]
+  },
+  {
+    "id": "ogyu-sorai",
+    "en": "Ogyū Sorai",
+    "oneLineEn": "Edo Confucian who criticized Zhu Xi learning via ancient rhetoric and ritual-music institutions.",
+    "oneLineZh": "江户儒学代表，以古文辞学和礼乐制度论批评朱子学。",
+    "keywordsEn": [
+      "ancient rhetoric studies",
+      "ritual and music institutions",
+      "Edo Confucianism"
+    ],
+    "keywordsZh": [
+      "古文辞学",
+      "礼乐制度",
+      "江户儒学"
+    ]
+  },
+  {
+    "id": "motoori-norinaga",
+    "en": "Motoori Norinaga",
+    "oneLineEn": "Japanese kokugaku figure remaking aesthetics and identity around classics and mono no aware.",
+    "oneLineZh": "日本国学代表，围绕古典文本和“物哀”重构审美与身份论述。",
+    "keywordsEn": [
+      "kokugaku",
+      "mono no aware",
+      "Commentary on the Kojiki"
+    ],
+    "keywordsZh": [
+      "国学",
+      "物哀",
+      "古事记传"
+    ]
+  },
+  {
+    "id": "fukuzawa-yukichi",
+    "en": "Fukuzawa Yukichi",
+    "oneLineEn": "Meiji Enlightenment leader who drove modern Japanese thought via civilization theory and independence.",
+    "oneLineZh": "明治启蒙代表，以文明论和独立观念推动日本现代思想转型。",
+    "keywordsEn": [
+      "Meiji Enlightenment",
+      "civilization theory",
+      "independence and self-respect"
+    ],
+    "keywordsZh": [
+      "明治启蒙",
+      "文明论",
+      "独立自尊"
+    ]
+  },
+  {
+    "id": "kuki-shuzo",
+    "en": "Kuki Shūzō",
+    "oneLineEn": "Aesthetics of iki and contingency linking Japanese aesthetics to Continental philosophy.",
+    "oneLineZh": "以“粹”的美学和偶然性问题连接日本美学与欧陆哲学。",
+    "keywordsEn": [
+      "iki",
+      "contingency",
+      "Kyoto School"
+    ],
+    "keywordsZh": [
+      "粹",
+      "偶然性",
+      "京都学派"
+    ]
+  },
+  {
+    "id": "tanabe-hajime",
+    "en": "Tanabe Hajime",
+    "oneLineEn": "Kyoto School core whose logic of species and philosophy as metanoetics form a distinctive system.",
+    "oneLineZh": "京都学派核心人物，以种的逻辑和忏悔道形成独特哲学体系。",
+    "keywordsEn": [
+      "Kyoto School",
+      "logic of species",
+      "metanoetics"
+    ],
+    "keywordsZh": [
+      "京都学派",
+      "种的逻辑",
+      "忏悔道"
+    ]
+  },
+  {
+    "id": "wonhyo",
+    "en": "Wonhyo",
+    "oneLineEn": "Korean Buddhist figure uniting diverse doctrines via harmony of disputes (hwajaeng).",
+    "oneLineZh": "朝鲜佛教代表人物，以和诤思想统合不同佛教教义。",
+    "keywordsEn": [
+      "harmony of disputes",
+      "Madhyamaka",
+      "Yogācāra / consciousness-only"
+    ],
+    "keywordsZh": [
+      "和诤",
+      "中观",
+      "唯识"
+    ]
+  }
+]

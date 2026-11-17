@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "items": {
+    "wollstonecraft": {
+      "keywordsEn": [
+        "rights of woman",
+        "rational education",
+        "critique of Rousseau",
+        "civic virtue"
+      ]
+    },
+    "freire": {
+      "keywordsEn": [
+        "Pedagogy of the Oppressed",
+        "conscientization",
+        "dialogue",
+        "critique of banking education"
+      ]
+    }
+  }
+}

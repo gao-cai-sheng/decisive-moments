@@ -1,0 +1,640 @@
+[
+  {
+    "id": "louis-althusser",
+    "batch": "2026-07-23-p0-batch-026",
+    "names": {
+      "zh": "路易·阿尔都塞",
+      "en": "Louis Althusser"
+    },
+    "oneLineZh": "结构主义马克思主义代表，提出意识形态国家机器与认识论断裂。",
+    "keywordsZh": [
+      "结构主义马克思主义",
+      "意识形态",
+      "认识论断裂"
+    ],
+    "oneLineEn": "Structuralist Marxist of ideological state apparatuses and the epistemological break.",
+    "keywordsEn": [
+      "structuralist Marxism",
+      "ideology",
+      "epistemological break"
+    ],
+    "civilization": "western",
+    "tier": "seed"
+  },
+  {
+    "id": "lyotard",
+    "batch": "2026-07-23-p0-batch-026",
+    "names": {
+      "zh": "让-弗朗索瓦·利奥塔",
+      "en": "Jean-François Lyotard"
+    },
+    "oneLineZh": "《后现代状况》宣告元叙事的终结。",
+    "keywordsZh": [
+      "后现代",
+      "元叙事",
+      "争执"
+    ],
+    "oneLineEn": "The Postmodern Condition declared the end of metanarratives.",
+    "keywordsEn": [
+      "postmodern",
+      "metanarrative",
+      "differend"
+    ],
+    "civilization": "western",
+    "tier": "seed"
+  },
+  {
+    "id": "maurice-blanchot",
+    "batch": "2026-07-23-p0-batch-026",
+    "names": {
+      "zh": "莫里斯·布朗肖",
+      "en": "Maurice Blanchot"
+    },
+    "oneLineZh": "以文学空间、中性与灾异书写探索语言的界限。",
+    "keywordsZh": [
+      "文学空间",
+      "中性",
+      "灾异书写"
+    ],
+    "oneLineEn": "Explored the limits of language through literary space, the neuter, and writing of disaster.",
+    "keywordsEn": [
+      "literary space",
+      "the neuter",
+      "writing of disaster"
+    ],
+    "civilization": "western",
+    "tier": "seed"
+  },
+  {
+    "id": "maurice-blondel",
+    "batch": "2026-07-23-p0-batch-026",
+    "names": {
+      "zh": "莫里斯·布隆代尔",
+      "en": "Maurice Blondel"
+    },
+    "oneLineZh": "《行动》以行动的内在逻辑通向超越，为法国天主教现代思想开路。",
+    "keywordsZh": [
+      "行动哲学",
+      "内在方法",
+      "天主教现代思想"
+    ],
+    "oneLineEn": "Action takes action's inner logic toward transcendence; opened modern French Catholic thought.",
+    "keywordsEn": [
+      "philosophy of action",
+      "method of immanence",
+      "modern Catholic thought"
+    ],
+    "civilization": "western",
+    "tier": "seed"
+  },
+  {
+    "id": "max-scheler",
+    "batch": "2026-07-23-p0-batch-026",
+    "names": {
+      "zh": "马克斯·舍勒",
+      "en": "Max Scheler"
+    },
+    "oneLineZh": "现象学价值伦理学代表，以质料价值伦理学和人格理论回应康德的形式主义。",
+    "keywordsZh": [
+      "价值伦理",
+      "现象学",
+      "人格"
+    ],
+    "oneLineEn": "Phenomenological value ethics with material value ethics and personhood against Kantian formalism.",
+    "keywordsEn": [
+      "value ethics",
+      "phenomenology",
+      "personhood"
+    ],
+    "civilization": "western",
+    "tier": "seed"
+  },
+  {
+    "id": "michael-dummett",
+    "batch": "2026-07-23-p0-batch-026",
+    "names": {
+      "zh": "迈克尔·达米特",
+      "en": "Michael Dummett"
+    },
+    "oneLineZh": "意义理论与反实在论代表，以可断言性条件重解弗雷格。",
+    "keywordsZh": [
+      "反实在论",
+      "意义理论",
+      "弗雷格研究"
+    ],
+    "oneLineEn": "Theory of meaning and anti-realism; reread Frege via assertibility conditions.",
+    "keywordsEn": [
+      "anti-realism",
+      "theory of meaning",
+      "Frege studies"
+    ],
+    "civilization": "western",
+    "tier": "seed"
+  },
+  {
+    "id": "michael-oakeshott",
+    "batch": "2026-07-23-p0-batch-026",
+    "names": {
+      "zh": "迈克尔·奥克肖特",
+      "en": "Michael Oakeshott"
+    },
+    "oneLineZh": "以实践知识对抗政治理性主义，为英国保守主义提供了哲学表达。",
+    "keywordsZh": [
+      "保守主义",
+      "实践知识",
+      "政治理性主义批判"
+    ],
+    "oneLineEn": "Opposed political rationalism with practical knowledge; gave British conservatism a philosophical voice.",
+    "keywordsEn": [
+      "conservatism",
+      "practical knowledge",
+      "critique of political rationalism"
+    ],
+    "civilization": "western",
+    "tier": "seed"
+  },
+  {
+    "id": "michel-henry",
+    "batch": "2026-07-23-p0-batch-026",
+    "names": {
+      "zh": "米歇尔·亨利",
+      "en": "Michel Henry"
+    },
+    "oneLineZh": "生命现象学代表，主张生命在自身感发中直接显现。",
+    "keywordsZh": [
+      "生命现象学",
+      "内在性",
+      "自身感发"
+    ],
+    "oneLineEn": "Phenomenology of life: life appears immediately in auto-affection.",
+    "keywordsEn": [
+      "phenomenology of life",
+      "immanence",
+      "auto-affection"
+    ],
+    "civilization": "western",
+    "tier": "seed"
+  },
+  {
+    "id": "michel-serres",
+    "batch": "2026-07-23-p0-batch-026",
+    "names": {
+      "zh": "米歇尔·塞尔",
+      "en": "Michel Serres"
+    },
+    "oneLineZh": "以第三者和寄生者的形象打通科学史与人文传统。",
+    "keywordsZh": [
+      "寄生者",
+      "第三者",
+      "科学与人文"
+    ],
+    "oneLineEn": "Joined history of science and the humanities through figures of the third and the parasite.",
+    "keywordsEn": [
+      "the parasite",
+      "the third",
+      "science and the humanities"
+    ],
+    "civilization": "western",
+    "tier": "seed"
+  },
+  {
+    "id": "miguel-de-unamuno",
+    "batch": "2026-07-23-p0-batch-026",
+    "names": {
+      "zh": "米格尔·德·乌纳穆诺",
+      "en": "Miguel de Unamuno"
+    },
+    "oneLineZh": "以《生命的悲剧意识》书写理性与信仰之间无法调和的冲突。",
+    "keywordsZh": [
+      "生命悲剧感",
+      "信仰",
+      "存在主义"
+    ],
+    "oneLineEn": "The Tragic Sense of Life wrote the irreconcilable conflict between reason and faith.",
+    "keywordsEn": [
+      "tragic sense of life",
+      "faith",
+      "existentialism"
+    ],
+    "civilization": "western",
+    "tier": "seed"
+  },
+  {
+    "id": "nelson-goodman",
+    "batch": "2026-07-23-p0-batch-026",
+    "names": {
+      "zh": "纳尔逊·古德曼",
+      "en": "Nelson Goodman"
+    },
+    "oneLineZh": "以「绿蓝」悖论重提归纳问题，并把符号系统理论推向艺术哲学。",
+    "keywordsZh": [
+      "构造主义",
+      "符号系统",
+      "新归纳之谜"
+    ],
+    "oneLineEn": "Reframed induction with the grue paradox and extended symbol-system theory into aesthetics.",
+    "keywordsEn": [
+      "constructivism",
+      "symbol systems",
+      "new riddle of induction"
+    ],
+    "civilization": "western",
+    "tier": "seed"
+  },
+  {
+    "id": "nicolai-hartmann",
+    "batch": "2026-07-23-p0-batch-026",
+    "names": {
+      "zh": "尼古拉·哈特曼",
+      "en": "Nicolai Hartmann"
+    },
+    "oneLineZh": "新本体论代表，以实在的层次结构调和现象学与形而上学。",
+    "keywordsZh": [
+      "新本体论",
+      "价值伦理",
+      "实在层次"
+    ],
+    "oneLineEn": "New ontology mediating phenomenology and metaphysics via stratified structure of the real.",
+    "keywordsEn": [
+      "new ontology",
+      "value ethics",
+      "strata of the real"
+    ],
+    "civilization": "western",
+    "tier": "seed"
+  },
+  {
+    "id": "patanjali",
+    "batch": "2026-07-23-p0-batch-026",
+    "names": {
+      "zh": "钵颠阇利",
+      "en": "Patañjali"
+    },
+    "oneLineZh": "《瑜伽经》的传统归属作者，瑜伽派八支修行论由此系统化。",
+    "keywordsZh": [
+      "瑜伽经",
+      "八支瑜伽",
+      "修行论"
+    ],
+    "oneLineEn": "Traditional author of the Yoga Sūtras; eight-limbed yoga practice theory is systematized here.",
+    "keywordsEn": [
+      "Yoga Sūtras",
+      "eight-limbed yoga",
+      "practice theory"
+    ],
+    "civilization": "indian",
+    "tier": "seed"
+  },
+  {
+    "id": "paul-natorp",
+    "batch": "2026-07-23-p0-batch-026",
+    "names": {
+      "zh": "保罗·纳托普",
+      "en": "Paul Natorp"
+    },
+    "oneLineZh": "马堡新康德主义核心人物，把认识论推进到社会教育哲学。",
+    "keywordsZh": [
+      "新康德主义",
+      "马堡学派",
+      "社会教育"
+    ],
+    "oneLineEn": "Core Marburg neo-Kantian who carried epistemology into social pedagogy.",
+    "keywordsEn": [
+      "Neo-Kantianism",
+      "Marburg School",
+      "social pedagogy"
+    ],
+    "civilization": "western",
+    "tier": "seed"
+  },
+  {
+    "id": "pf-strawson",
+    "batch": "2026-07-23-p0-batch-026",
+    "names": {
+      "zh": "彼得·弗雷德里克·斯特劳森",
+      "en": "P. F. Strawson"
+    },
+    "oneLineZh": "以《个体》确立描述形而上学，重新接通康德与分析哲学。",
+    "keywordsZh": [
+      "描述形而上学",
+      "指称",
+      "个体"
+    ],
+    "oneLineEn": "Individuals established descriptive metaphysics, reconnecting Kant with analytic philosophy.",
+    "keywordsEn": [
+      "descriptive metaphysics",
+      "reference",
+      "individuals"
+    ],
+    "civilization": "western",
+    "tier": "seed"
+  },
+  {
+    "id": "poincare",
+    "batch": "2026-07-23-p0-batch-026",
+    "names": {
+      "zh": "昂利·庞加莱",
+      "en": "Henri Poincaré"
+    },
+    "oneLineZh": "约定论代表，主张几何公理既非经验也非先验，而是约定。",
+    "keywordsZh": [
+      "约定论",
+      "科学方法",
+      "数学基础"
+    ],
+    "oneLineEn": "Conventionalism: geometric axioms are neither empirical nor a priori, but conventions.",
+    "keywordsEn": [
+      "conventionalism",
+      "scientific method",
+      "foundations of mathematics"
+    ],
+    "civilization": "western",
+    "tier": "seed"
+  },
+  {
+    "id": "ranciere",
+    "batch": "2026-07-23-p0-batch-026",
+    "names": {
+      "zh": "雅克·朗西埃",
+      "en": "Jacques Rancière"
+    },
+    "oneLineZh": "以感性的分配把政治与美学置于同一问题域。",
+    "keywordsZh": [
+      "感性分配",
+      "政治美学",
+      "平等"
+    ],
+    "oneLineEn": "Distribution of the sensible places politics and aesthetics in one problem-space.",
+    "keywordsEn": [
+      "distribution of the sensible",
+      "political aesthetics",
+      "equality"
+    ],
+    "civilization": "western",
+    "tier": "seed"
+  },
+  {
+    "id": "raymond-aron",
+    "batch": "2026-07-23-p0-batch-026",
+    "names": {
+      "zh": "雷蒙·阿隆",
+      "en": "Raymond Aron"
+    },
+    "oneLineZh": "以《知识分子的鸦片》和历史哲学捍卫自由主义，与萨特长期论争。",
+    "keywordsZh": [
+      "自由主义",
+      "历史哲学",
+      "知识分子批判"
+    ],
+    "oneLineEn": "Defended liberalism via The Opium of the Intellectuals and philosophy of history; long debate with Sartre.",
+    "keywordsEn": [
+      "liberalism",
+      "philosophy of history",
+      "critique of intellectuals"
+    ],
+    "civilization": "western",
+    "tier": "seed"
+  },
+  {
+    "id": "rene-girard",
+    "batch": "2026-07-23-p0-batch-026",
+    "names": {
+      "zh": "勒内·吉拉尔",
+      "en": "René Girard"
+    },
+    "oneLineZh": "以模仿欲望和替罪羊机制解释暴力与神圣的起源。",
+    "keywordsZh": [
+      "模仿欲望",
+      "替罪羊",
+      "神圣暴力"
+    ],
+    "oneLineEn": "Explained violence and the sacred through mimetic desire and the scapegoat mechanism.",
+    "keywordsEn": [
+      "mimetic desire",
+      "scapegoat",
+      "sacred violence"
+    ],
+    "civilization": "western",
+    "tier": "seed"
+  },
+  {
+    "id": "rg-collingwood",
+    "batch": "2026-07-23-p0-batch-026",
+    "names": {
+      "zh": "罗宾·乔治·柯林伍德",
+      "en": "R. G. Collingwood"
+    },
+    "oneLineZh": "历史哲学与问答逻辑代表，主张一切历史都是思想在当下的重演。",
+    "keywordsZh": [
+      "历史哲学",
+      "问答逻辑",
+      "艺术哲学"
+    ],
+    "oneLineEn": "Philosophy of history and question-and-answer logic: all history is re-enactment of thought now.",
+    "keywordsEn": [
+      "philosophy of history",
+      "question-and-answer logic",
+      "philosophy of art"
+    ],
+    "civilization": "western",
+    "tier": "seed"
+  },
+  {
+    "id": "richard-swinburne",
+    "batch": "2026-07-23-p0-batch-026",
+    "names": {
+      "zh": "理查德·斯温伯恩",
+      "en": "Richard Swinburne"
+    },
+    "oneLineZh": "以贝叶斯概率论证有神论，代表英美自然神学的当代形态。",
+    "keywordsZh": [
+      "宗教哲学",
+      "概率论证",
+      "自然神学"
+    ],
+    "oneLineEn": "Bayesian probabilistic case for theism; contemporary Anglo-American natural theology.",
+    "keywordsEn": [
+      "philosophy of religion",
+      "probabilistic argument",
+      "natural theology"
+    ],
+    "civilization": "western",
+    "tier": "seed"
+  },
+  {
+    "id": "rm-hare",
+    "batch": "2026-07-23-p0-batch-026",
+    "names": {
+      "zh": "理查德·默文·黑尔",
+      "en": "R. M. Hare"
+    },
+    "oneLineZh": "规定主义代表，主张道德判断兼具规定性与可普遍化性。",
+    "keywordsZh": [
+      "规定主义",
+      "元伦理学",
+      "可普遍化"
+    ],
+    "oneLineEn": "Prescriptivism: moral judgments are both prescriptive and universalizable.",
+    "keywordsEn": [
+      "prescriptivism",
+      "metaethics",
+      "universalizability"
+    ],
+    "civilization": "western",
+    "tier": "seed"
+  },
+  {
+    "id": "robert-brandom",
+    "batch": "2026-07-23-p0-batch-026",
+    "names": {
+      "zh": "罗伯特·布兰顿",
+      "en": "Robert Brandom"
+    },
+    "oneLineZh": "推论主义语义学代表，把意义奠基于给出与索取理由的推论实践。",
+    "keywordsZh": [
+      "推论主义",
+      "语义学",
+      "匹兹堡学派"
+    ],
+    "oneLineEn": "Inferentialist semantics: meaning rests on practices of giving and asking for reasons.",
+    "keywordsEn": [
+      "inferentialism",
+      "semantics",
+      "Pittsburgh School"
+    ],
+    "civilization": "western",
+    "tier": "seed"
+  },
+  {
+    "id": "ruth-barcan-marcus",
+    "batch": "2026-07-23-p0-batch-026",
+    "names": {
+      "zh": "露丝·巴坎·马库斯",
+      "en": "Ruth Barcan Marcus"
+    },
+    "oneLineZh": "量化模态逻辑先驱，巴坎公式为后来的模态语义学铺路。",
+    "keywordsZh": [
+      "模态逻辑",
+      "巴坎公式",
+      "直接指称"
+    ],
+    "oneLineEn": "Pioneer of quantified modal logic; the Barcan formula paved later modal semantics.",
+    "keywordsEn": [
+      "modal logic",
+      "Barcan formula",
+      "direct reference"
+    ],
+    "civilization": "western",
+    "tier": "seed"
+  },
+  {
+    "id": "susan-stebbing",
+    "batch": "2026-07-23-p0-batch-026",
+    "names": {
+      "zh": "苏珊·斯特宾",
+      "en": "Susan Stebbing"
+    },
+    "oneLineZh": "英国第一位女性哲学教授，以《有目的的思维》推广逻辑分析与公共说理。",
+    "keywordsZh": [
+      "分析哲学",
+      "逻辑经验主义",
+      "清晰思考"
+    ],
+    "oneLineEn": "Britain's first woman philosophy professor; Thinking to Some Purpose spread logical analysis for public reasoning.",
+    "keywordsEn": [
+      "analytic philosophy",
+      "logical empiricism",
+      "clear thinking"
+    ],
+    "civilization": "western",
+    "tier": "seed"
+  },
+  {
+    "id": "th-green",
+    "batch": "2026-07-23-p0-batch-026",
+    "names": {
+      "zh": "托马斯·希尔·格林",
+      "en": "T. H. Green"
+    },
+    "oneLineZh": "英国新黑格尔主义与新自由主义的源头人物，以伦理国家和积极自由重构自由概念。",
+    "keywordsZh": [
+      "新黑格尔主义",
+      "积极自由",
+      "伦理国家"
+    ],
+    "oneLineEn": "Source of British neo-Hegelianism and new liberalism; ethical state and positive freedom reworked liberty.",
+    "keywordsEn": [
+      "neo-Hegelianism",
+      "positive liberty",
+      "ethical state"
+    ],
+    "civilization": "western",
+    "tier": "seed"
+  },
+  {
+    "id": "thomas-nagel",
+    "batch": "2026-07-23-p0-batch-026",
+    "names": {
+      "zh": "托马斯·内格尔",
+      "en": "Thomas Nagel"
+    },
+    "oneLineZh": "「成为一只蝙蝠是什么感觉」的提出者，以主观视角挑战还原论。",
+    "keywordsZh": [
+      "主观经验",
+      "道德运气",
+      "客观性"
+    ],
+    "oneLineEn": "Author of 'What is it like to be a bat?'; challenged reductionism from the subjective point of view.",
+    "keywordsEn": [
+      "subjective experience",
+      "moral luck",
+      "objectivity"
+    ],
+    "civilization": "western",
+    "tier": "seed"
+  },
+  {
+    "id": "tyler-burge",
+    "batch": "2026-07-23-p0-batch-026",
+    "names": {
+      "zh": "泰勒·伯奇",
+      "en": "Tyler Burge"
+    },
+    "oneLineZh": "以关节炎思想实验确立心灵内容的社会外在论。",
+    "keywordsZh": [
+      "反个体主义",
+      "外在论",
+      "心灵内容"
+    ],
+    "oneLineEn": "Arthritis thought experiment established social externalism about mental content.",
+    "keywordsEn": [
+      "anti-individualism",
+      "externalism",
+      "mental content"
+    ],
+    "civilization": "western",
+    "tier": "seed"
+  },
+  {
+    "id": "wilhelm-windelband",
+    "batch": "2026-07-23-p0-batch-026",
+    "names": {
+      "zh": "威廉·文德尔班",
+      "en": "Wilhelm Windelband"
+    },
+    "oneLineZh": "西南学派创始人，以规律科学与个别科学之分奠定文化科学方法论。",
+    "keywordsZh": [
+      "新康德主义",
+      "价值哲学",
+      "文化科学"
+    ],
+    "oneLineEn": "Southwest School founder; nomothetic vs. idiographic distinction grounded cultural-science method.",
+    "keywordsEn": [
+      "Neo-Kantianism",
+      "philosophy of value",
+      "cultural sciences"
+    ],
+    "civilization": "western",
+    "tier": "seed"
+  }
+]

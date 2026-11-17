@@ -1,0 +1,642 @@
+[
+  {
+    "id": "jinul",
+    "en": "Jinul",
+    "oneLineEn": "Key Korean Seon figure reorganizing Buddhism via sudden enlightenment/gradual cultivation and Jogye.",
+    "oneLineZh": "朝鲜禅宗关键人物，以顿悟渐修和曹溪传统重组朝鲜佛教。",
+    "keywordsEn": [
+      "Jogye Order",
+      "sudden enlightenment, gradual cultivation",
+      "Korean Seon"
+    ],
+    "keywordsZh": [
+      "曹溪宗",
+      "顿悟渐修",
+      "朝鲜禅"
+    ]
+  },
+  {
+    "id": "seo-gyeongdeok",
+    "en": "Seo Gyeongdeok",
+    "oneLineEn": "Korean Confucian qi monist linking Zhang Zai's qi theory to the Toegye context.",
+    "oneLineZh": "朝鲜儒学中气一元论代表，连接张载气论和退溪语境。",
+    "keywordsEn": [
+      "qi monism",
+      "Korean Confucianism",
+      "Hwadam"
+    ],
+    "keywordsZh": [
+      "气一元论",
+      "朝鲜儒学",
+      "花潭"
+    ]
+  },
+  {
+    "id": "yi-ik",
+    "en": "Yi Ik",
+    "oneLineEn": "Key Korean silhak figure linking Toegye Zhu Xi learning to social statecraft problems.",
+    "oneLineZh": "朝鲜实学重要人物，连接退溪朱子学传统与社会经世问题。",
+    "keywordsEn": [
+      "practical learning",
+      "Seongho",
+      "Korean Confucianism"
+    ],
+    "keywordsZh": [
+      "实学",
+      "星湖",
+      "朝鲜儒学"
+    ]
+  },
+  {
+    "id": "jeong-yakyong",
+    "en": "Jeong Yakyong",
+    "oneLineEn": "Summative Korean silhak figure who reread the classics and developed statecraft political thought.",
+    "oneLineZh": "朝鲜实学集大成者，重释经学并发展经世政治思想。",
+    "keywordsEn": [
+      "practical learning",
+      "Dasan",
+      "statecraft"
+    ],
+    "keywordsZh": [
+      "实学",
+      "茶山",
+      "经世"
+    ]
+  },
+  {
+    "id": "santaraksita",
+    "en": "Śāntarakṣita",
+    "oneLineEn": "Yogācāra-Madhyamaka figure who entered Tibet and founded Samye; key node of Indian Buddhism in Tibet.",
+    "oneLineZh": "瑜伽行中观代表，入藏建桑耶寺，是印度佛教入藏的关键节点。",
+    "keywordsEn": [
+      "Yogācāra-Madhyamaka",
+      "Samye Monastery",
+      "founding masters in Tibet"
+    ],
+    "keywordsZh": [
+      "瑜伽行中观",
+      "桑耶寺",
+      "入藏祖师"
+    ]
+  },
+  {
+    "id": "kamalasila",
+    "en": "Kamalaśīla",
+    "oneLineEn": "Gradualist side of the Samye debate; Bhāvanākrama is a key node of Indo-Tibetan path theory.",
+    "oneLineZh": "桑耶论诤中渐门代表，以《修习次第》成为入藏佛教修道论节点。",
+    "keywordsEn": [
+      "Samye debate",
+      "Stages of Meditation",
+      "gradual path"
+    ],
+    "keywordsZh": [
+      "桑耶论诤",
+      "修习次第",
+      "渐门"
+    ]
+  },
+  {
+    "id": "atisa",
+    "en": "Atiśa Dīpaṃkara Śrījñāna",
+    "oneLineEn": "Key Kadampa figure whose Lamp for the Path to Enlightenment shaped Tibetan lamrim.",
+    "oneLineZh": "噶当派关键人物，以《菩提道灯论》影响藏传道次第传统。",
+    "keywordsEn": [
+      "Kadampa",
+      "Lamp for the Path to Enlightenment",
+      "stages of the path"
+    ],
+    "keywordsZh": [
+      "噶当派",
+      "菩提道灯论",
+      "道次第"
+    ]
+  },
+  {
+    "id": "milarepa",
+    "en": "Milarepa",
+    "oneLineEn": "Kagyu yogin whose songs represent Tibetan practice literature and liberation narrative.",
+    "oneLineZh": "噶举派瑜伽士，以道歌传统代表藏传修行文学和解脱叙事。",
+    "keywordsEn": [
+      "Kagyu",
+      "yogin",
+      "songs of realization"
+    ],
+    "keywordsZh": [
+      "噶举",
+      "瑜伽士",
+      "道歌"
+    ]
+  },
+  {
+    "id": "gampopa",
+    "en": "Gampopa",
+    "oneLineEn": "Founder of Dakpo Kagyu, fusing Kadampa lamrim with Mahāmudrā.",
+    "oneLineZh": "达波噶举奠基者，融合噶当道次第和大手印传统。",
+    "keywordsEn": [
+      "Dakpo Kagyu",
+      "Mahāmudrā",
+      "Jewel Ornament of Liberation"
+    ],
+    "keywordsZh": [
+      "达波噶举",
+      "大手印",
+      "解脱庄严宝论"
+    ]
+  },
+  {
+    "id": "sakya-pandita",
+    "en": "Sakya Paṇḍita",
+    "oneLineEn": "Sakya systematizer who advanced Tibetan pramāṇa in Treasury of Reasoning.",
+    "oneLineZh": "萨迦派系统家，以《量理宝藏论》推进藏传量论传统。",
+    "keywordsEn": [
+      "Sakya",
+      "pramana theory",
+      "Treasury of Reasoning"
+    ],
+    "keywordsZh": [
+      "萨迦派",
+      "量论",
+      "量理宝藏论"
+    ]
+  },
+  {
+    "id": "longchenpa",
+    "en": "Longchenpa",
+    "oneLineEn": "Nyingma Dzogchen systematizer; Seven Treasuries are core Tibetan metaphysics and practice theory.",
+    "oneLineZh": "宁玛大圆满系统家，以《七宝藏》等著作成为藏传形而上学和修行论核心节点。",
+    "keywordsEn": [
+      "Nyingma",
+      "Dzogchen",
+      "Seven Treasuries"
+    ],
+    "keywordsZh": [
+      "宁玛",
+      "大圆满",
+      "七宝藏"
+    ]
+  },
+  {
+    "id": "tsongkhapa",
+    "en": "Tsongkhapa",
+    "oneLineEn": "Gelug founder whose Prāsaṅgika Madhyamaka and lamrim shaped Tibetan Buddhism.",
+    "oneLineZh": "格鲁派创立者，以应成中观解释和道次第体系影响藏传佛教。",
+    "keywordsEn": [
+      "Gelug",
+      "Prāsaṅgika Madhyamaka",
+      "Great Treatise on the Stages of the Path"
+    ],
+    "keywordsZh": [
+      "格鲁派",
+      "应成中观",
+      "菩提道次第广论"
+    ]
+  },
+  {
+    "id": "dolpopa",
+    "en": "Dolpopa Sherab Gyaltsen",
+    "oneLineEn": "Jonang systematizer whose other-emptiness (zhentong) marks a major Tibetan Madhyamaka divide.",
+    "oneLineZh": "觉囊派系统家，以他空见构成藏传中观解释的重要分歧。",
+    "keywordsEn": [
+      "Jonang",
+      "other-emptiness (zhentong)",
+      "Mountain Dharma"
+    ],
+    "keywordsZh": [
+      "觉囊派",
+      "他空见",
+      "山法"
+    ]
+  },
+  {
+    "id": "gorampa",
+    "en": "Gorampa Sonam Senge",
+    "oneLineEn": "Sakya Madhyamaka systematizer whose critique of Tsongkhapa is a major internal Tibetan node.",
+    "oneLineZh": "萨迦派中观系统家，以对宗喀巴解释的批评成为藏传中观内部重要节点。",
+    "keywordsEn": [
+      "Sakya",
+      "Madhyamaka",
+      "critique of Tsongkhapa"
+    ],
+    "keywordsZh": [
+      "萨迦派",
+      "中观",
+      "宗喀巴批评"
+    ]
+  },
+  {
+    "id": "buton",
+    "en": "Butön Rinchen Drub",
+    "oneLineEn": "Tibetan Buddhist historian and key figure in Kangyur/Tengyur redaction.",
+    "oneLineZh": "藏传佛教史家和大藏经编定关键人物。",
+    "keywordsEn": [
+      "Buddhist history",
+      "Buddhist canon",
+      "Butön's History of Buddhism"
+    ],
+    "keywordsZh": [
+      "佛教史",
+      "大藏经",
+      "布顿佛教史"
+    ]
+  },
+  {
+    "id": "jamgon-kongtrul",
+    "en": "Jamgön Kongtrul Lodrö Tayé",
+    "oneLineEn": "Rimé core figure integrating multiple Tibetan traditions in the Treasury of Knowledge and Five Treasuries.",
+    "oneLineZh": "利美运动核心人物，以《知识总汇》等整合藏传多传统。",
+    "keywordsEn": [
+      "Rimé movement",
+      "Treasury of Knowledge",
+      "Five Treasuries"
+    ],
+    "keywordsZh": [
+      "利美运动",
+      "知识总汇",
+      "五大藏"
+    ]
+  },
+  {
+    "id": "mipham",
+    "en": "Mipham Gyatso",
+    "oneLineEn": "Nyingma Rimé figure whose Madhyamaka and pramāṇa commentaries shape modern Tibetan systematics.",
+    "oneLineZh": "宁玛利美代表人物，以中观和量论注疏成为近现代藏传系统家。",
+    "keywordsEn": [
+      "Nyingma",
+      "Rimé",
+      "Madhyamaka and pramāṇa"
+    ],
+    "keywordsZh": [
+      "宁玛",
+      "利美",
+      "中观量论"
+    ]
+  },
+  {
+    "id": "dalai-lama-14",
+    "en": "14th Dalai Lama",
+    "oneLineEn": "Contemporary Gelug leader bringing Madhyamaka, ethics, and science dialogue into global philosophy.",
+    "oneLineZh": "格鲁派当代领袖，以中观解释、伦理和科学对话进入全球哲学语境。",
+    "keywordsEn": [
+      "Gelug",
+      "contemporary Madhyamaka",
+      "dialogue with science"
+    ],
+    "keywordsZh": [
+      "格鲁派",
+      "当代中观",
+      "科学对话"
+    ]
+  },
+  {
+    "id": "wasil-ibn-ata",
+    "en": "Wāṣil ibn ʿAṭāʾ",
+    "oneLineEn": "Early Muʿtazilī founder opening kalām splits via rational theology, free will, and intermediate position.",
+    "oneLineZh": "早期穆尔太齐赖派奠基者，以理性神学、自由意志和“介于两种地位之间”问题开启 kalam 传统分歧。",
+    "keywordsEn": [
+      "Muʿtazila",
+      "free will",
+      "intermediate position between two stations"
+    ],
+    "keywordsZh": [
+      "穆尔太齐赖派",
+      "自由意志",
+      "两种地位之间"
+    ]
+  },
+  {
+    "id": "al-ashari",
+    "en": "Abū al-Ḥasan al-Ashʿarī",
+    "oneLineEn": "Founder of Ashʿarism who reshaped rational theology between anti-Muʿtazilism and Sunni doctrine.",
+    "oneLineZh": "艾什尔里派创立者，在反穆尔太齐赖与维护逊尼教义之间重塑理性神学。",
+    "keywordsEn": [
+      "Ashʿarism",
+      "kalām",
+      "reason and tradition"
+    ],
+    "keywordsZh": [
+      "艾什尔里派",
+      "kalam",
+      "理性与传统"
+    ]
+  },
+  {
+    "id": "al-maturidi",
+    "en": "Abū Manṣūr al-Māturīdī",
+    "oneLineEn": "Founder of Māturīdism; Sunni theology of reason, revelation, and responsibility in a Ḥanafī frame.",
+    "oneLineZh": "马图里迪派奠基者，在哈乃斐语境中发展关于理性、启示和人类责任的逊尼教义学。",
+    "keywordsEn": [
+      "Māturīdism",
+      "Ḥanafī tradition",
+      "rational knowledge"
+    ],
+    "keywordsZh": [
+      "马图里迪派",
+      "哈乃斐传统",
+      "理性认识"
+    ]
+  },
+  {
+    "id": "al-baqillani",
+    "en": "Abū Bakr al-Bāqillānī",
+    "oneLineEn": "Ashʿarī systematizer known for doctrinal proofs, atomistic time, and Qurʾānic inimitability.",
+    "oneLineZh": "艾什尔里派系统化者，以教义论证、原子论时间观和《古兰经》不可模仿性论证著称。",
+    "keywordsEn": [
+      "Ashʿarī systematization",
+      "atomism",
+      "Qurʾānic inimitability"
+    ],
+    "keywordsZh": [
+      "艾什尔里派系统化",
+      "原子论",
+      "古兰经不可模仿性"
+    ]
+  },
+  {
+    "id": "al-juwayni",
+    "en": "Imām al-Ḥaramayn al-Juwaynī",
+    "oneLineEn": "Imām al-Ḥaramayn, teacher of al-Ghazālī; strengthened demonstration in Ashʿarī theology and uṣūl.",
+    "oneLineZh": "“两圣地伊玛目”，安萨里之师，在艾什尔里教义学和法学原理中强化证明结构。",
+    "keywordsEn": [
+      "Imām of the Two Sanctuaries",
+      "teacher of al-Ghazālī",
+      "doctrinal demonstration"
+    ],
+    "keywordsZh": [
+      "两圣地伊玛目",
+      "安萨里之师",
+      "教义学证明"
+    ]
+  },
+  {
+    "id": "fakhr-al-din-al-razi",
+    "en": "Fakhr al-Dīn al-Rāzī",
+    "oneLineEn": "Summative theologian-philosopher who reshaped later kalām after absorbing and critiquing Ibn Sīnā.",
+    "oneLineZh": "集大成教义学家和哲学神学家，在吸收并批判伊本·西那之后重塑后期 kalam 的问题格局。",
+    "keywordsEn": [
+      "post-Avicennan philosophical theology",
+      "Ashʿarī theology",
+      "exegesis and metaphysics"
+    ],
+    "keywordsZh": [
+      "后伊本·西那哲学神学",
+      "艾什尔里教义学",
+      "经注与形而上学"
+    ]
+  },
+  {
+    "id": "abu-bakr-al-razi",
+    "en": "Abū Bakr Muḥammad ibn Zakariyyāʾ al-Rāzī",
+    "oneLineEn": "Physician-philosopher and freethinker known for rational naturalism and critique of religious authority.",
+    "oneLineZh": "医师—哲学家和自由思想家，以理性自然主义、医学百科和对宗教权威的激进批判著称。",
+    "keywordsEn": [
+      "physician-philosopher",
+      "rational naturalism",
+      "critique of prophecy"
+    ],
+    "keywordsZh": [
+      "医师哲学家",
+      "理性自然主义",
+      "批先知论"
+    ]
+  },
+  {
+    "id": "miskawayh",
+    "en": "Aḥmad ibn Muḥammad Miskawayh",
+    "oneLineEn": "Islamic ethics systematizer who, in Refinement of Character, turned Greek virtue ethics into soul training.",
+    "oneLineZh": "伊斯兰伦理学系统家，以《性理之净化》把希腊德性伦理转化为灵魂训练和品格教育方案。",
+    "keywordsEn": [
+      "Refinement of Character",
+      "character cultivation",
+      "Aristotelian ethics"
+    ],
+    "keywordsZh": [
+      "性理之净化",
+      "品格修养",
+      "亚里士多德伦理学"
+    ]
+  },
+  {
+    "id": "ibn-bajja",
+    "en": "Ibn Bājja / Avempace",
+    "oneLineEn": "Andalusian philosopher who, in Governance of the Solitary, asked how sages keep perfection in imperfect cities.",
+    "oneLineZh": "安达卢斯哲学家，以《孤独者之治理》讨论哲人如何在不完善城邦中保存理智完善。",
+    "keywordsEn": [
+      "Avempace",
+      "Governance of the Solitary",
+      "Andalusian philosophy"
+    ],
+    "keywordsZh": [
+      "阿文帕塞",
+      "孤独者之治理",
+      "安达卢斯哲学"
+    ]
+  },
+  {
+    "id": "ibn-tufayl",
+    "en": "Ibn Ṭufayl / Abubacer",
+    "oneLineEn": "Andalusian author of Ḥayy ibn Yaqẓān, in which island reason rises from nature to metaphysics and religion.",
+    "oneLineZh": "安达卢斯哲学家，以《哈义·本·叶格赞》叙述孤岛理性如何从自然观察上升到形而上学与宗教真理。",
+    "keywordsEn": [
+      "Ḥayy ibn Yaqẓān",
+      "natural reason",
+      "philosophical novel"
+    ],
+    "keywordsZh": [
+      "哈义·本·叶格赞",
+      "自然理性",
+      "哲学小说"
+    ]
+  },
+  {
+    "id": "ibn-hazm",
+    "en": "Ibn Ḥazm",
+    "oneLineEn": "Andalusian Ẓāhirī thinker combining law, logic, religious polemic, and love literature.",
+    "oneLineZh": "安达卢斯查希里派思想家，兼具法学、逻辑、宗教论辩和爱情文学写作。",
+    "keywordsEn": [
+      "Ẓāhirī school",
+      "logic and jurisprudence",
+      "The Ring of the Dove"
+    ],
+    "keywordsZh": [
+      "查希里派",
+      "逻辑与法学",
+      "鸽子的项圈"
+    ]
+  },
+  {
+    "id": "nasir-al-din-tusi",
+    "en": "Naṣīr al-Dīn al-Ṭūsī",
+    "oneLineEn": "Philosopher, ethicist, and astronomer linking post-Avicennan philosophy, Shīʿī theology, and math astronomy.",
+    "oneLineZh": "哲学家、伦理学家和天文学家，在后伊本·西那哲学、什叶神学和数学天文学之间建立关键连接。",
+    "keywordsEn": [
+      "Avicennan tradition",
+      "Nasirean Ethics",
+      "Maragha observatory"
+    ],
+    "keywordsZh": [
+      "伊本·西那传统",
+      "阿赫拉格·纳西里",
+      "马拉盖天文台"
+    ]
+  },
+  {
+    "id": "rabia-al-adawiyya",
+    "en": "Rābiʿa al-ʿAdawiyya",
+    "oneLineEn": "Early Sufi saint whose pure divine love—not for paradise or hell—became classic source of Sufi love.",
+    "oneLineZh": "早期苏非圣徒形象，以不为天堂地狱而只为真主的纯粹神爱成为苏非爱的经典源头。",
+    "keywordsEn": [
+      "pure divine love",
+      "early Sufism",
+      "ascetic tradition"
+    ],
+    "keywordsZh": [
+      "纯粹神爱",
+      "早期苏非",
+      "禁欲传统"
+    ]
+  },
+  {
+    "id": "al-junayd",
+    "en": "al-Junayd of Baghdad",
+    "oneLineEn": "Core of Baghdad's sober Sufism; disciplined expression between mystical experience and law.",
+    "oneLineZh": "巴格达苏非“清醒派”核心人物，以在神秘体验与教法边界之间保持纪律化表达著称。",
+    "keywordsEn": [
+      "Baghdad Sufism",
+      "sober school",
+      "mystical union"
+    ],
+    "keywordsZh": [
+      "巴格达苏非",
+      "清醒派",
+      "神秘合一"
+    ]
+  },
+  {
+    "id": "al-hallaj",
+    "en": "al-Ḥallāj",
+    "oneLineEn": "Sufi of 'I am the Truth' and martyrdom; node of mystical union and conflict with religious authority.",
+    "oneLineZh": "以“我即真理”形象和殉道结局成为苏非神秘合一、言说边界与宗教权威冲突的核心节点。",
+    "keywordsEn": [
+      "I am the Truth",
+      "Sufi martyrdom",
+      "mystical union"
+    ],
+    "keywordsZh": [
+      "我即真理",
+      "苏非殉道",
+      "神秘合一"
+    ]
+  },
+  {
+    "id": "rumi",
+    "en": "Jalāl al-Dīn Rūmī",
+    "oneLineEn": "Persian Sufi poet-mystic whose Mathnawī made love, union, and soul transformation poetic philosophy.",
+    "oneLineZh": "波斯苏非诗人与神秘思想家，以《玛斯纳维》将爱、合一和灵魂转化写成影响深远的诗性哲学。",
+    "keywordsEn": [
+      "Mathnawī",
+      "love and union",
+      "Persian Sufi poetry"
+    ],
+    "keywordsZh": [
+      "玛斯纳维",
+      "爱与合一",
+      "波斯苏非诗"
+    ]
+  },
+  {
+    "id": "nasir-khusraw",
+    "en": "Nāṣir-i Khusraw",
+    "oneLineEn": "Ismāʿīlī poet-thinker whose Persian philosophical verse treats cosmology, revelation, and soul's return.",
+    "oneLineZh": "伊斯玛仪派诗人和思想家，以波斯语哲学诗文表达宇宙论、启示解释和灵魂归返问题。",
+    "keywordsEn": [
+      "Ismāʿīlism",
+      "Neoplatonism",
+      "Persian philosophical poetry"
+    ],
+    "keywordsZh": [
+      "伊斯玛仪派",
+      "新柏拉图主义",
+      "波斯哲学诗"
+    ]
+  },
+  {
+    "id": "ibn-taymiyya",
+    "en": "Ibn Taymiyya",
+    "oneLineEn": "Ḥanbalī jurist-critic opposing philosophy, kalām, and Sufi monism; shaped later political theology.",
+    "oneLineZh": "罕百里派法学家和神学批判者，以反哲学、反kalam、反苏非一元论和政治神学影响后世。",
+    "keywordsEn": [
+      "Ḥanbalī school",
+      "critique of philosophy and kalām",
+      "anti-Sufi monism"
+    ],
+    "keywordsZh": [
+      "罕百里派",
+      "批判哲学与kalam",
+      "反苏非一元论"
+    ]
+  },
+  {
+    "id": "mir-damad",
+    "en": "Mīr Dāmād",
+    "oneLineEn": "Isfahan School core and Mullā Ṣadrā's teacher; time, eternity, and creation in Safavid philosophy.",
+    "oneLineZh": "伊斯法罕学派核心人物和萨德拉之师，以时间、永恒和创生问题构成萨法维哲学的重要节点。",
+    "keywordsEn": [
+      "Isfahan School",
+      "teacher of Mullā Ṣadrā",
+      "time and creation"
+    ],
+    "keywordsZh": [
+      "伊斯法罕学派",
+      "萨德拉之师",
+      "时间创生"
+    ]
+  },
+  {
+    "id": "tabatabai",
+    "en": "Sayyid Muḥammad Ḥusayn Ṭabāṭabāʾī",
+    "oneLineEn": "Contemporary Shīʿī philosopher-exegete linking Ṣadrian tradition and Qurʾānic commentary to modern Iran.",
+    "oneLineZh": "当代什叶哲学家和经注家，以萨德拉传统、哲学认识论和《古兰经》诠释连接现代伊朗思想。",
+    "keywordsEn": [
+      "contemporary Shīʿī philosophy",
+      "principles and method",
+      "Qurʾānic exegesis"
+    ],
+    "keywordsZh": [
+      "当代什叶哲学",
+      "原理与方法",
+      "古兰经经注"
+    ]
+  },
+  {
+    "id": "al-afghani",
+    "en": "Jamāl al-Dīn al-Afghānī",
+    "oneLineEn": "Pan-Islamic activist and early modernist shaping anti-colonial, reformist Muslim public politics.",
+    "oneLineZh": "泛伊斯兰政治活动家和现代主义先声，以反殖民、宗教改革和穆斯林公共政治动员影响近现代伊斯兰思想。",
+    "keywordsEn": [
+      "pan-Islamism",
+      "modernist reform",
+      "anti-colonial politics"
+    ],
+    "keywordsZh": [
+      "泛伊斯兰主义",
+      "现代主义改革",
+      "反殖民政治"
+    ]
+  },
+  {
+    "id": "muhammad-abduh",
+    "en": "Muḥammad ʿAbduh",
+    "oneLineEn": "Egyptian modernist reformer coordinating Islam and modern society via education, law, and rational exegesis.",
+    "oneLineZh": "埃及现代主义改革者，以宗教教育、法学改革和理性化诠释推动伊斯兰与现代社会的协调。",
+    "keywordsEn": [
+      "Egyptian modernism",
+      "religious education reform",
+      "rational interpretation"
+    ],
+    "keywordsZh": [
+      "埃及现代主义",
+      "宗教教育改革",
+      "理性诠释"
+    ]
+  }
+]
